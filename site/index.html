@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Buscador de base legal BCN y doctrina administrativa SII." />
+  <title>Biblioteca Tributaria Beeconta</title>
+  <link rel="stylesheet" href="./assets/app.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Biblioteca Tributaria Beeconta">
+      <span class="brand-dot"></span>
+      <span>Beeconta</span>
+      <span class="brand-sub">Biblioteca Tributaria</span>
+    </a>
+    <a class="machine-link" href="./llms.txt">Acceso para IA</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">FUENTES OFICIALES · CHILE</p>
+      <h1>Busca la ley y el criterio del SII en un solo lugar.</h1>
+      <p class="hero-copy">Base legal de LeyChile/BCN más Circulares y Jurisprudencia Administrativa del Servicio de Impuestos Internos.</p>
+
+      <div class="search-shell">
+        <label class="sr-only" for="search">Buscar</label>
+        <input id="search" type="search" autocomplete="off" placeholder="Ej: artículo 31, gastos rechazados, reorganización, IVA servicios…" />
+        <span class="shortcut">/</span>
+      </div>
+
+      <div class="filters" aria-label="Filtros">
+        <select id="sourceFilter" aria-label="Fuente">
+          <option value="">Todas las fuentes</option>
+          <option value="BCN">BCN · LeyChile</option>
+          <option value="SII">SII</option>
+        </select>
+        <select id="typeFilter" aria-label="Tipo">
+          <option value="">Todos los tipos</option>
+          <option value="norma">Normas</option>
+          <option value="articulo">Artículos</option>
+          <option value="oficio">Oficios</option>
+          <option value="circular">Circulares</option>
+        </select>
+        <select id="categoryFilter" aria-label="Materia">
+          <option value="">Todas las materias</option>
+        </select>
+        <select id="yearFilter" aria-label="Año">
+          <option value="">Todos los años</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="status-row">
+      <div><strong id="resultCount">0</strong> resultados</div>
+      <div id="updatedAt">Cargando biblioteca…</div>
+    </section>
+
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <section class="sources-note">
+      <strong>Cómo usar esta biblioteca</strong>
+      <p>BCN representa la base legal. Los Oficios y Circulares representan doctrina e instrucciones administrativas del SII. Para una conclusión tributaria, revisa siempre el enlace a la fuente oficial.</p>
+    </section>
+  </main>
+
+  <dialog id="reader">
+    <div class="reader-head">
+      <div>
+        <span id="readerBadge" class="badge"></span>
+        <h2 id="readerTitle"></h2>
+      </div>
+      <button id="readerClose" aria-label="Cerrar">×</button>
+    </div>
+    <div id="readerText" class="reader-text"></div>
+    <div class="reader-actions">
+      <a id="readerOfficial" class="button primary" target="_blank" rel="noopener">Abrir fuente oficial</a>
+      <a id="readerRaw" class="button" target="_blank" rel="noopener">Abrir texto local</a>
+    </div>
+  </dialog>
+
+  <script type="module" src="./assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "biblioteca-tributaria-beeconta",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.mjs --weekly",
+    "bootstrap": "node scripts/update.mjs --full",
+    "build": "node scripts/build-site.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
