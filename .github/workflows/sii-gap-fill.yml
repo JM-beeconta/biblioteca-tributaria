@@ -1,0 +1,84 @@
+name: Rellenar Brechas SII
+
+# Auditoría de cobertura (scripts/audit-coverage.mjs, comparando contra el conteo real de
+# LeyChile/SII) encontró que el SII sigue agregando documentos antiguos recién digitalizados a
+# páginas de años que ya considerábamos "cerrados" (brechas encontradas en TODOS los años desde
+# 1994 hasta el actual), sumado a que la actualización semanal nunca se había ejecutado con éxito.
+# Este workflow vuelve a recorrer todo el rango histórico — es seguro repetirlo: merge-range.mjs
+# fusiona por id, así que un documento ya guardado no se duplica ni se pierde, sólo se agregan los
+# que falten.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.sii-gap-fill-request'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: biblioteca-sii-gap-fill
+  cancel-in-progress: false
+
+jobs:
+  gap-fill:
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        include:
+          - { from: 2025, to: 2026, label: 'Gapfill-2025-2026' }
+          - { from: 2021, to: 2024, label: 'Gapfill-2021-2024' }
+          - { from: 2017, to: 2020, label: 'Gapfill-2017-2020' }
+          - { from: 2013, to: 2016, label: 'Gapfill-2013-2016' }
+          - { from: 2009, to: 2012, label: 'Gapfill-2009-2012' }
+          - { from: 2005, to: 2008, label: 'Gapfill-2005-2008' }
+          - { from: 2001, to: 2004, label: 'Gapfill-2001-2004' }
+          - { from: 1997, to: 2000, label: 'Gapfill-1997-2000' }
+          - { from: 1993, to: 1996, label: 'Gapfill-1993-1996' }
+          - { from: 1989, to: 1992, label: 'Gapfill-1989-1992' }
+          - { from: 1985, to: 1988, label: 'Gapfill-1985-1988' }
+          - { from: 1981, to: 1984, label: 'Gapfill-1981-1984' }
+          - { from: 1977, to: 1980, label: 'Gapfill-1977-1980' }
+          - { from: 1974, to: 1976, label: 'Gapfill-1974-1976' }
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar extractores históricos
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils antiword catdoc unzip unrtf
+      - name: Exportar tramo SII ${{ matrix.label }}
+        run: node scripts/export-range.mjs --from=${{ matrix.from }} --to=${{ matrix.to }} --out=.range-output
+      - name: Fusionar y publicar checkpoint ${{ matrix.label }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
+          node scripts/merge-range.mjs --input=.range-output --range=${{ matrix.label }} --total=14
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data content
+          if git diff --cached --quiet; then
+            echo "Sin cambios en este tramo."
+            exit 0
+          fi
+          git commit -m "chore: rellenar brechas SII ${{ matrix.label }}"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "Push rechazado (intento $attempt/5), reintentando..."
+            sleep $((attempt * 5))
+          done
+          echo "No se pudo publicar tras 5 intentos" >&2
+          exit 1
