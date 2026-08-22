@@ -3,6 +3,18 @@ name: Publicar Biblioteca Tributaria
 on:
   push:
     branches: [main]
+  # Los workflows que cargan/reparan datos hacen su propio commit y push con el GITHUB_TOKEN por
+  # defecto. GitHub NO dispara otros workflows (incluido este, por `push`) a partir de un push
+  # hecho con GITHUB_TOKEN — es una protección anti-recursión del propio GitHub Actions. Sin este
+  # trigger por workflow_run, cada carga/reparación real quedaba commiteada en main pero el sitio
+  # publicado seguía mostrando los datos viejos indefinidamente, sin ningún error visible.
+  workflow_run:
+    workflows:
+      - 'Actualizar Biblioteca Tributaria'
+      - 'Reparar Base Legal BCN'
+      - 'Cargar Historia Tributaria Completa'
+      - 'Backfill Resoluciones SII'
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -20,6 +32,8 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
@@ -85,7 +99,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          # steps.deployment.outputs.page_url puede traer un \r final invisible en el log (curl lo
+          # rechaza con "Malformed input to a URL function" al quedar embebido en medio de la URL
+          # una vez armada) — se limpia explícitamente en vez de asumir que la variable ya es texto
+          # plano.
           BASE="${PAGE_URL%/}"
+          BASE="${BASE//$'\r'/}"
           CACHE_BUST="$(date +%s)"
           curl -fsSL --retry 8 --retry-delay 3 "$BASE/?v=$CACHE_BUST" -o /tmp/home.html
           curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/catalog.json?v=$CACHE_BUST" -o /tmp/catalog.json
