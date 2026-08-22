@@ -6,29 +6,26 @@
 - Año: 1989
 - Fecha: 1989-03-30
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/4139_88.htm
-- Hash SHA-256: af35442e0c6bb878e2b18453835ec8492a4868e59782589f4168019e9648277f
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/ord993_89.htm
+- Hash SHA-256: f07f488a9dcab60ea7f722f40b5845b0908923b043f3310b1f9a9bd2f073ef70
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Artículo 13°, N°4. Situación tributaria de las sociedades cuyo objeto es la formación técnica, capacitación ocupacional y/o perfeccionamiento profesional del trabajador. (. Ley de Impuestos a las Ventas y Servicios. Artículos 2° y 15°. Improcedencia de rebajar gastos reembolsables de la base imponible del IVA, por no contemplar ésta deducción de tipo alguno. ( Oficio N° 4139, de 07 de Diciembre de 1998.) Ley de Impuesto a las Ventas y Servicios Procedimiento para invocar c…
+Ley de Impuesto a las Ventas y Servicios. Artículo 13°, N°4. Situación tributaria de las sociedades cuyo objeto es la formación técnica, capacitación ocupacional y/o perfeccionamiento profesional del trabajador. (.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":4139,"year":1988}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS - oficio N°4139 de 1988
+OFICIO 993 de 1989
 
-Home
-| Años
-anteriores
-Ley de Impuestos a las
-Ventas y Servicios. Artículos 2° y 15°. Ordinario N° 4139, de 07 de
-Diciembre de 1998.
+Home | Años
+Anteriores
 
-MATERIA:
-Improcedencia de
-rebajar gastos reembolsables de la base imponible del IVA, por no contemplar
-ésta deducción de tipo alguno.
+LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. ARTÍCULO 13°, N°4. OFICIO N°
+993, DE FECHA 30 DE MARZO DE 1989.
+
+Situación tributaria de las sociedades cuyo objeto es la formación técnica,
+capacitación ocupacional y/o perfeccionamiento profesional del trabajador.

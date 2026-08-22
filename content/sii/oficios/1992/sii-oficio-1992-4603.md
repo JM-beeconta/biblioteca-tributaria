@@ -6,12 +6,12 @@
 - Año: 1992
 - Fecha: 1992-11-06
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/1169_92.htm
-- Hash SHA-256: b28db8e092fe4113ff08a54b64d471fc69417d4796cbeed4832f5d203f49f91e
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/4603_92.htm
+- Hash SHA-256: dbca4778d53d961af6651f0b297003c951a11629c41b157a2e5f5901093bf5e5
 
 ## Resumen
 
-tiembre de 1993) Ley de Impuestos a las Ventas y Servicios. Artículo 73° del Reglamento Sobre procedimiento tributario en las ventas a Consignación. ( Ley de Impuestos a las Ventas y Servicios Aplicación de las disposiciones “De los exportadores” a la actividad de correo rápido o courier. (Oficio N° 1169, de 23 Marzo 1992) Ley 16.752 sobre Organización y Funcionamiento de la Dirección General de Aeronáutica Civil. Art 37° Impuesto de artículo 37° de la Ley N° 16752 no es de beneficio fiscal. (Oficio N° 64, de 6 en…
+Septiembre de 1993) Ley de Impuestos a las Ventas y Servicios. Artículo 73° del Reglamento Sobre procedimiento tributario en las ventas a Consignación. (
 
 ## Referencias detectadas
 
@@ -19,23 +19,17 @@ tiembre de 1993) Ley de Impuestos a las Ventas y Servicios. Artículo 73° del R
 
 ## Texto extraído
 
-OFICIO 1169 de 1992
+OFICIO 4603 de 1992
 
-Home | Años
-anteriores
+Home
+| Años anteriores
 
-LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - OFICIO N°1169
-de 23 de marzo de 1992
+LEY DE IMPUESTOS A LAS
+VENTAS Y SERVICIOS.
+ARTICULO 73° del REGLAMENTO.
 
-APLICACION DE LAS DISPOSICIONES "DE
-LOS EXPORTADORES" A LA ACTIVIDAD DE CORREO RAPIDO O COURIER
+Ordinario N° 4603, de 06
+de NOVIEMBRE de 1992.
 
-Javier Etcheberry Celhay
-
-Director
-
-OFICIO NO. 1169, DE 23.03.1992
-
-SUBDIRECCION NORMATIVA
-
-DEPTO. IMPUESTOS INDIRECTOS
+Sobre
+procedimiento tributario en las ventas a Consignación.

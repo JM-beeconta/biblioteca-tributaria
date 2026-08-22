@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 582
 - Año: 1990
-- Fecha: 1990-02-16
+- Fecha: 1990-03-09
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4025_89.htm
-- Hash SHA-256: 1d4a3d77f1321a8214dd726c99dcdf2b8a76c7a268e4dea0a36c18f65e3d367f
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/582_90.htm
+- Hash SHA-256: 80b1a4228d377e06af8484778a6e858ac03f8d515efc47e8ab23160b6b3a8405
 
 ## Resumen
 
-Tributación de indemnización voluntaria que abarca dos períodos tributarios, frente al impuesto global complementario. ( Oficio N° 0582, de 16 de Febrero de 1990) Ley de Impuesto a la Renta. Artículos 2, 17, 18, 20, y 58 Régimen tributario aplicable a operación que indica (ADRs) ( Oficio N° 0324, de 29 de enero de 1990) Ley de Impuesto a la Renta. Artículos 2°, 17° y 18° Situación tributaria de la adjudicación de un inmueble en una liquidación convencional. (Oficio N° 4025 de 13-12-1989). Renta – Ley sobre Impuest…
+ficio N° 0775, de 09 de Marzo de 1990). Ley de Impuesto a la Renta. Artículos 17° N° 13 y 54° N° 3 Tributación de indemnización voluntaria que abarca dos períodos tributarios, frente al impuesto global complementario. ( Oficio N° 0582, de 16 de Febrero de 1990)
 
 ## Referencias detectadas
 
@@ -19,14 +19,21 @@ Tributación de indemnización voluntaria que abarca dos períodos tributarios, 
 
 ## Texto extraído
 
-OFICIO N° 4025, DE 13-12-1989
+OFICIO 53/1994
 
-Home
-| Años Anteriores
-LEY
-SOBRE IMPUESTO A LA RENTA – ARTICULOS 2°,
-17° y 18°
-(Of. N° 4025, DE 13-12-1989)
+Home | Años
+Anteriores LEY RENTA,
+artículos
+17°
+N° 13 y 54° N° 3.
+(Ord. 582 de 16.02.1990)
 
-MATERIA: Situación tributaria de la adjudicación de un inmueble en una
-liquidación convencional.
+Tributación
+de indemnización voluntaria que abarca dos períodos tributarios, frente
+al impuesto global complementario.
+
+OFICIO NO. 582, DE 16.02.1990
+
+SUBDIRECCION NORMATIVA
+
+DEPTO. IMPUESTOS DIRECTOS
