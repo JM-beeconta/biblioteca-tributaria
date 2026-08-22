@@ -1,70 +1,81 @@
-const pageUrl = 'https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2026/ley_impuesto_renta_jadm2026.htm';
 const listUrl = 'https://www3.sii.cl/getPublicacionesCTByMateria';
-const downloadUrl = 'https://www4.sii.cl/gabineteAdmInternet/descargaArchivo';
+const pages = {
+  RENTA: 'https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2026/ley_impuesto_renta_jadm2026.htm',
+  IVA: 'https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2026/ley_impuesto_ventas_jadm2026.htm',
+  OTRAS: 'https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2026/otras_normas_jadm2026.htm',
+};
 
-const page = await fetch(pageUrl, { headers: { 'user-agent': 'BeecontaBibliotecaTributaria/diagnostic' } });
-const html = await page.text();
-const formTag = (html.match(/<form[^>]+(?:name|id)=["']frm["'][^>]*>/i) ?? [null])[0];
-
-const list = await fetch(listUrl, {
-  method: 'POST',
-  headers: {
-    'content-type': 'application/json',
-    'accept': 'application/json',
-    'user-agent': 'BeecontaBibliotecaTributaria/diagnostic',
-  },
-  body: JSON.stringify({ key: 'RENTA', year: '2026' }),
-  signal: AbortSignal.timeout(20000),
-});
-const rows = await list.json();
-const first = rows[0] ?? null;
-let download = null;
-if (first) {
-  const filename = `${first.pubNumOficio}-${first.pubFechaPubli}.pdf`;
-  const params = new URLSearchParams({
-    nombreDocumento: filename,
-    extension: first.extensionArchPublica ?? 'pdf',
-    acc: 'download',
-    id: String(first.idBlobArchPublica ?? ''),
-    mediaType: first.mTypeArchPublica ?? 'application/pdf',
-  });
-  const finalUrl = `${downloadUrl}?${params.toString()}`;
-  const response = await fetch(finalUrl, {
-    method: 'GET',
+const pageDiagnostics = {};
+for (const [name, url] of Object.entries(pages)) {
+  const response = await fetch(url, {
     headers: { 'user-agent': 'BeecontaBibliotecaTributaria/diagnostic' },
-    redirect: 'follow',
     signal: AbortSignal.timeout(20000),
   });
-  const buffer = Buffer.from(await response.arrayBuffer());
-  download = {
+  const html = await response.text();
+  const options = [...html.matchAll(/<option\b([^>]*)>([\s\S]*?)<\/option>/gi)].map((m) => ({
+    value: (m[1].match(/value\s*=\s*["']?([^"'\s>]+)/i) ?? [null, null])[1],
+    label: m[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(),
+  }));
+  const keyLiterals = [...new Set([...html.matchAll(/(?:key|materia)\s*[:=]\s*["']([^"']+)["']/gi)].map((m) => m[1]))];
+  pageDiagnostics[name] = {
+    url,
     status: response.status,
-    finalUrl: response.url,
-    contentType: response.headers.get('content-type'),
-    contentDisposition: response.headers.get('content-disposition'),
-    bytes: buffer.length,
-    magic: buffer.subarray(0, 12).toString('latin1'),
-    filename,
+    htmlLength: html.length,
+    options,
+    keyLiterals,
   };
 }
 
+const candidateKeys = [
+  'RENTA',
+  'IVA',
+  'VENTAS',
+  'VENTAS_SERVICIOS',
+  'IMPUESTO_VENTAS',
+  'OTRAS',
+  'OTROS',
+  'OTRASNORMAS',
+  'OTRAS_NORMAS',
+  'OTRAS NORMAS',
+  'CODIGO',
+  'CT',
+];
+
+const keys = {};
+for (const key of candidateKeys) {
+  try {
+    const response = await fetch(listUrl, {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        accept: 'application/json',
+        'user-agent': 'BeecontaBibliotecaTributaria/diagnostic',
+      },
+      body: JSON.stringify({ key, year: '2026' }),
+      signal: AbortSignal.timeout(20000),
+    });
+    const text = await response.text();
+    let rows = null;
+    try { rows = JSON.parse(text); } catch {}
+    keys[key] = {
+      status: response.status,
+      count: Array.isArray(rows) ? rows.length : null,
+      first: Array.isArray(rows) && rows[0] ? {
+        pubLegal: rows[0].pubLegal,
+        tipoArchPublica: rows[0].tipoArchPublica,
+        pubNumOficio: rows[0].pubNumOficio,
+        pubFechaPubli: rows[0].pubFechaPubli,
+      } : null,
+      preview: Array.isArray(rows) ? null : text.slice(0, 300),
+    };
+  } catch (error) {
+    keys[key] = { error: String(error) };
+  }
+}
+
 console.log(JSON.stringify({
-  pageUrl,
-  pageStatus: page.status,
-  htmlLength: html.length,
-  formTag,
+  checkedAt: new Date().toISOString(),
   listUrl,
-  listStatus: list.status,
-  count: Array.isArray(rows) ? rows.length : null,
-  first: first ? {
-    pubLegal: first.pubLegal,
-    tipoArchPublica: first.tipoArchPublica,
-    pubNumOficio: first.pubNumOficio,
-    pubFechaPubli: first.pubFechaPubli,
-    pubResumen: first.pubResumen,
-    extensionArchPublica: first.extensionArchPublica,
-    idBlobArchPublica: first.idBlobArchPublica,
-    mTypeArchPublica: first.mTypeArchPublica,
-  } : null,
-  downloadUrl,
-  download,
+  pages: pageDiagnostics,
+  keys,
 }, null, 2));

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -47,11 +47,6 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
-
       - name: Verificar publicación
         env:
           PAGE_URL: ${{ steps.deployment.outputs.page_url }}
@@ -65,15 +60,4 @@ jobs:
           node -e "JSON.parse(require('fs').readFileSync('/tmp/index.json','utf8'));"
           test -s /tmp/home.html
           test -s /tmp/llms.txt
-
-          mkdir -p data
-          node -e "const fs=require('fs'); fs.writeFileSync('data/deploy-health.json', JSON.stringify({status:'ok', checked_at:new Date().toISOString(), page_url:process.env.PAGE_URL}, null, 2)+'\\n');"
-
-          git config user.name "beeconta-pages-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/deploy-health.json
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: registrar verificación de Pages"
-            git pull --rebase origin main
-            git push
-          fi
+          echo "Pages verificado: $BASE"
