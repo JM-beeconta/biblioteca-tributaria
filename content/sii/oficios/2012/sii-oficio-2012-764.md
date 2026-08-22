@@ -6,47 +6,44 @@
 - Año: 2012
 - Fecha: 2012-10-29
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2012/ja2897.htm
-- Hash SHA-256: 1d2ea804c7f9fdd0a34b67dfc6eebff348909a9e1f9c31e734a5d648705fdcfb
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2012/ja2922.htm
+- Hash SHA-256: b43663f5d6f2990ca7fa245bc5d89323b5e6c982079205f2d97ea6cbabab3a60
 
 ## Resumen
 
-ndash; Art. 107° &ndash; Circular N° 7, de 2002 &ndash; . (Ord. Nº 2922, de 29-10-2012) | Word Tratamiento tributario del mayor valor obtenido en la venta de acciones, provenientes de un canje de American Depositary Receipts (ADRs). Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17°, N°4, Art. 42°, N° 1, Art. 43° &ndash; D.L. N° 3500, de 1980, Art. 18°. (Ord. Nº 2897, de 26-10-2012) | Word Propuesta tendiente a dar solución a la tributación de los pensionados, y que consistiría en eliminar las pensiones…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 107° &ndash; Circular N° 7, de 2002 &ndash; . (Ord. Nº 2922, de 29-10-2012) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"17"}
-- {"type":"articulo","law":"LIR","article":"42"}
-- {"type":"articulo","law":"LIR","article":"43"}
+- {"type":"circular","number":7,"year":2002}
+- {"type":"oficio","number":764,"year":2006}
+- {"type":"articulo","law":"LIR","article":"18 ter y"}
+- {"type":"articulo","law":"LIR","article":"18 ter"}
+- {"type":"articulo","law":"LIR","article":"107"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°4, ART. 42°, N° 1, ART. 43° – D.L. N° 3500, DE 1980, ART. 18°. (ORD. N° 2897, DE 26.10.2012)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 107° – CIRCULAR N° 7, DE 2002 – OFICIO N° 764, DE 2006. (ORD. N° 2922, DE 29.10.2012)
 
-PROPUESTA TENDIENTE A DAR SOLUCIÓN A LA TRIBUTACIÓN DE LOS PENSIONADOS, Y QUE CONSISTIRÍA EN ELIMINAR LAS PENSIONES Y MONTEPÍOS DEL ARTÍCULO 17, N°4, DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR), O EN SUBSIDIO, AUMENTAR EL TOPE DE DICHA NORMA.
+TRATAMIENTO TRIBUTARIO DEL MAYOR VALOR OBTENIDO EN LA VENTA DE ACCIONES, PROVENIENTES DE UN CANJE DE AMERICAN DEPOSITARY RECEIPTS (ADRS).
 
-I. ANTECEDENTES. XXXX, en uso de la facultad que le confiere el artículo 9, de la Ley Orgánica Constitucional del Congreso Nacional, ha requerido oficiar a este Servicio para que se pronuncie sobre la propuesta que formula, tendiente a dar solución a la tributación de los pensionados, en la que plantea que las pensiones provienen de fondos aportados por el propio trabajador, que si bien fueron excluidos del cálculo del impuesto único porque no constituyen renta, cuando le son devueltos a través de una pensión, parece que cambiaran de naturaleza, como si se transformaran en una ganancia.
-Sobre el particular, estima injusto que el trabajador pensionado tribute por sus propios ahorros, debiendo tributar solo por la rentabilidad o utilidades generadas en su fondo de pensiones, pero que existiría una norma que contradice lo anterior, concretamente el artículo 17, N°4, de la LIR, de acuerdo con el cual, las pensiones son renta y tributan en aquella parte que exceda de un cuarto de unidad tributaria.
+I.- ANTECEDENTES. Un Banco chileno, que actúa como custodio de inversionistas extranjeros, sin domicilio ni residencia en Chile, de aquellos señalados en la Resolución N°36, de 2011 , solicita confirmar el criterio señalado en Oficio N° 764, de 11.07.2006, de la Dirección de Grandes Contribuyentes, en relación al tratamiento tributario del mayor valor obtenido por estos inversionistas, en la venta de acciones provenientes de un canje de ADRs por acciones (Flowback). Al respecto expresa que dicha utilidad es no tributable, con ningún impuesto, en la medida que dichas acciones tengan presencia bursátil.
+Formula la consulta en consideración a que dichos inversionistas les han consultado sobre dicho criterio, a raíz de la derogación del artículo 18 ter y la creación del artículo 107, ambos de la Ley sobre Impuesto a la Renta (LIR).
+II.- ANÁLISIS.
+El artículo 18 ter de la LIR, establecía que, no se gravará con los impuestos de esta ley, ni se declarará, el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas abiertas con presencia bursátil. Seguidamente la referida norma legal establecía otros requisitos para que operara dicha liberación .
+La Ley 20.448 , junto con derogar el artículo 18 ter, incorporó a la LIR el artículo 107, que en lo sustancial conserva el citado tratamiento tributario. Posteriormente, la Ley N° 20.466 , estableció que cualquier referencia que en las leyes se haga al derogado artículo 18 ter, debe entenderse efectuada al artículo 107, de la LIR.
+Este Servicio, en relación con la aplicación de las disposiciones del derogado artículo 18 ter, de la LIR, dictaminó a través de su jurisprudencia , que el mayor valor en la venta de acciones provenientes de un canje de ADR por acciones, puede acogerse al beneficio tributario dispuesto en el artículo 18 ter, en el caso que el ADR que las representa haya sido adquirido en una bolsa de valores o en otra de las circunstancias que dicha disposición legal establece, y siempre que se cumplan los demás requisitos legales, respecto de los cuales el Servicio impartió las instrucciones correspondientes en la Circular N° 7, del año 2002. Dicho dictamen fue recogido y repetido por la Dirección de Grandes Contribuyentes, en el Oficio N° 764, de 11.07.2006, al que se refiere en su presentación.
+Ahora bien, en relación con su consulta, esto es, a si, como consecuencia de la derogación del artículo 18 ter, y la incorporación del artículo 107, ambos de la LIR, se mantiene el tratamiento tributario señalado en el párrafo anterior, respecto de la enajenación de acciones provenientes del canje de ADRs, cabe expresar que no obstante las referidas modificaciones incorporadas al texto de la LIR, se mantiene dicho tratamiento tributario, toda vez que por una parte, el artículo único de la Ley N° 20.466 de 2010, expresa que para todos los efectos legales, debe entenderse que el sentido y alcance de lo dispuesto en el artículo 6° de la ley N° 20.448, en lo relativo a la derogación de los artículos 18 bis, 18 ter y 18 quáter de la Ley sobre Impuesto a la Renta, fue reestructurar el tratamiento tributario de aquellas materias relativas al mercado de capitales, de modo tal que su contenido corresponde, en lo principal, al texto de los artículos 106, 107 y 108, respectivamente, de la misma ley; y por la otra, el texto del actual artículo 107 de la LIR no innova sobre esta materia.
 
-Expresa a continuación, que se trataría de una contradicción que debe corregirse legalmente, proponiendo al efecto, eliminar las pensiones y montepíos del artículo 17, N°4, de la LIR, o bien, aumentar el tope de dicha norma a una suma que concilie los conceptos de renta-ganancia y pensión-ahorro.
-Como se trata de un tema que requiere un análisis y estudio especializado, lo plantea a este Servicio a fin que se pronuncie sobre la propuesta formulada.
-II. ANÁLISIS.
-Sobre el particular, cabe señalar que de conformidad con el artículo 42, N°1, de la LIR, se encuentran gravados con el impuesto establecido en el artículo 43, del mismo texto legal (Impuesto Único de Segunda Categoría), los sueldos, sobresueldos, salarios, premios, dietas, gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que aumenten la remuneración pagada por servicios personales, montepíos y pensiones, exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro, y las cantidades percibidas por concepto de gastos de representación.
-
-Por su parte, de conformidad con lo establecido por el artículo 18, del D.L. N°3500, de 1980, aquella parte de la remuneración y renta imponible destinada al pago de las cotizaciones que los trabajadores efectúen en su cuenta de capitalización individual de conformidad con el artículo 17, de dicho texto legal, debe entenderse comprendida dentro de las excepciones que contempla el N°1, del artículo 42, de la LIR.
-De esta manera, y según se colige de las disposiciones antes citadas, las cotizaciones obligatorias destinadas a la formación de la pensión de vejez y efectuadas de conformidad con lo dispuesto por el D.L. N°3500, de 1980, se excluyen de la base imponible para los efectos de aplicar el Impuesto Único de Segunda Categoría, de manera que dichas cantidades no quedan, en dicha oportunidad, afectas a tributación. Lo mismo ocurre con el ahorro previsional voluntario que se efectúe dentro de los topes que establece la ley.
-Cabe agregar además, que por expresa disposición del D.L. N°3500, de 1980, la rentabilidad del fondo, a través de los incrementos que experimenten las cuotas de los fondos de pensiones, tienen igualmente el tratamiento de ingreso no renta.
-En otras palabras, las cotizaciones efectuadas al fondo de pensiones y la rentabilidad que experimente dicho fondo se encuentran liberadas de tributación, cuando se aportan al fondo de pensiones y cuando se obtienen por dicho fondo, respectivamente. Sin embargo, una vez que la persona se jubila y comienza a recibir su pensión, debe pagar el Impuesto Único de Segunda Categoría, que por disposición expresa del artículo 42, N°1, de la LIR grava también a las pensiones.
-En efecto, el artículo 42, N° 1, de la LIR, establece que se aplicará, calculará y cobrará un impuesto en conformidad a lo dispuesto en el artículo 43, sobre montepíos y pensiones, entre otros conceptos. Así lo dispone también el artículo 18 del D.L. N°3500, de 1980, de acuerdo con el cual las pensiones otorgadas conforme a dicho texto legal, están afectas al Impuesto a la Renta que grava las pensiones, sueldos y salarios. Cabe hacer presente que de conformidad con el citado artículo 43, de la LIR, las rentas mensuales a que se refiere el N°1, del artículo 42, que no excedan de 13,5 unidades tributarias mensuales (UTM), están exentas de este impuesto.
-Por tanto, cualquiera sea la modalidad de la pensión de vejez, ésta se encuentra afecta a Impuesto Único de Segunda Categoría, en los términos previstos por los artículos 42 N° 1 y 43 N° 1, de la LIR, debiendo concluirse que la norma del artículo 17, N°4 de la LIR, no resulta aplicable a las pensiones de vejez que se otorgan de conformidad con el D.L. N°3500, de 1980.
-III. CONCLUSIÓN.
-Las pensiones de vejez otorgadas de conformidad con el D.L. N°3500, de 1980 se encuentran afectas al Impuesto Único de Segunda Categoría, de acuerdo con lo establecido por el artículo 42, N°1, de la LIR y el artículo 18, del D.L. N°3500, de 1980, y no resulta aplicable a su respecto lo dispuesto por el N°4, del artículo 17, de la LIR.
+III.- CONCLUSIONES.
+No obstante la derogación del artículo 18 ter de la LIR y la incorporación del artículo 107 a este mismo texto legal, el pronunciamiento de este Servicio, sobre el tratamiento tributario del mayor valor obtenido en la enajenación de acciones de sociedades anónimas abiertas, provenientes del canje de ADRs, contenido en el Oficio N° 1.705, de 2006, se mantiene vigente.
+De acuerdo con ello, el mayor valor en la venta de acciones provenientes de un canje de ADR por acciones, puede acogerse al beneficio tributario dispuesto en el artículo 107 de la LIR, en el caso que el ADR que las representa haya sido adquirido en una bolsa de valores o en otra de las circunstancias que dicha disposición legal establece, y siempre que se cumplan los demás requisitos legales, respecto de los cuales el Servicio impartió las instrucciones correspondientes en la Circular N° 7, del año 2002.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 2897, de 26.10.2012
+Oficio N° 2922, de 29.10.2012
 
 Subdirección Normativa
 

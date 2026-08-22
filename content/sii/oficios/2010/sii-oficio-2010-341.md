@@ -6,240 +6,74 @@
 - Año: 2010
 - Fecha: 2010-08-03
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja1296.doc
-- Hash SHA-256: 658e50cb4341de595b20e8996b6153fcdf6341fd7bffbf4832207ac79cec3e87
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja1298.htm
+- Hash SHA-256: 24d3d3f8e32c7b1790dc45e48a0acb52b093246052560c47c15e45522504f77e
 
 ## Resumen
 
-OBRE IMPUESTO A LA &ndash; ART. 17°, N°8, ART. 18° &ndash; . (Ord. Nº 1298, de 03-08-2010) | Word Tratamiento tributario del mayor valor obtenido en la enajenación de acciones. RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 42° BIS &ndash; CIRCULAR N°51, DE 2008. (Ord. Nº 1296, de 03-08-2010) | Word Tratamiento tributario del Ahorro Previsional Voluntario efectuado en forma indirecta a través de su sociedad y con cargo a su sueldo empresarial, por el socio de una sociedad de personas. RENTA &ndash; ACTU…
+RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 17°, N°8, ART. 18° &ndash; . (Ord. Nº 1298, de 03-08-2010) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":51,"year":2008}
-- {"type":"circular","number":55,"year":2008}
-- {"type":"articulo","law":"LIR","article":"42 bis"}
-- {"type":"articulo","law":"LIR","article":"42  bis"}
-- {"type":"articulo","law":"LIR","article":"42\n       bis"}
-- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"circular","number":158,"year":1976}
+- {"type":"oficio","number":341,"year":2010}
+- {"type":"articulo","law":"LIR","article":"17 N"}
+- {"type":"articulo","law":"LIR","article":"14 l"}
 
 ## Texto extraído
 
-Renta – Actual Ley Sobre Impuesto a la – Art. 42° bis – Circular  N°51, de
-                     2008. (Ord. N° 1296, de 03.08.2010)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°8, ART. 18° – OFICIO N° 341, DE 2010. (ORD. N° 1298, DE 03.08.2010)
 
-Ahorro Previsional Voluntario efectuado en forma indirecta por el  socio  de
-una sociedad de personas a través de su sociedad y con  cargo  a  su  sueldo
-empresarial  –  Los  empresarios  individuales,  socios  de  sociedades   de
-personas y socios gestores de  sociedades  en  comandita  por  acciones,  no
-tuvieron derecho a acceder a los beneficios tributarios del APV  establecido
-en el artículo 42 bis de la LIR sino a partir del 1° de octubre del  2008  –
-Instrucciones impartidas en Circular N° 51, de 2008 – Retiros no afectos  al
-Impuesto único del Artículo 42° bis N°3 – Retención  Indebida  –  Devolución
-del Impuesto retenido.
+TRATAMIENTO TRIBUTARIO DEL MAYOR VALOR OBTENIDO EN LA ENAJENACIÓN DE ACCIONES – CALIFICACIÓN DE HABITUALIDAD DE LAS OPERACIONES REALIZADAS POR LOS ENAJENANTES, CONSIDERÁNDOSE PARA TAL CALIFICACIÓN, SEGÚN LO PRESCRITO EN EL INCISO SEGUNDO DEL ARTÍCULO 18 DE LA LEY DE LA RENTA, EL CONJUNTO DE CIRCUNSTANCIAS PREVIAS Y CONCURRENTES A LA ENAJENACIÓN DE LOS TÍTULOS – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO.
 
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el tratamiento tributario aplicable a las operaciones de enajenación de acciones que se describen.
 
-La  Superintendencia  de  Pensiones  ha  remitido  a  esta   Dirección,   su
-presentación en la  que  solicita  un  pronunciamiento  sobre  la  situación
-tributaria de los retiros de Ahorros  Previsionales  Voluntarios  efectuados
-durante el año 2008 por  su representado el Sr. XXXXXX.
+I. ANTECEDENTES:
 
-I.-   ANTECEDENTES:
+El grupo XXX, cuya matriz se encuentra en Suecia, está organizado en Chile a través de la Sociedad de Inversiones YYY y la agencia TTT, las cuales son las únicas accionistas de ZZZ, sociedad que mantiene actualmente como su principal activo el 50% de una sociedad concesionaria local ("la Concesionaria"). La propiedad accionaria de ZZZ se encuentra compuesta de la siguiente forma:
 
-   1.-     Antecedentes de hecho:
+a) YYY es dueña de acciones representativas hoy de un 74,14% del capital social. Explica que con fecha x de xx de 200x, adquirió el 99,99% de las acciones, porcentaje que mantuvo luego de un aumento de capital acordado con fecha xx de xx de 200x, el cual suscribió íntegramente. Con fecha xx de xx de 200x, se acordó aumentar nuevamente el capital, diluyendo su porcentaje accionario al actual 74,14%.
 
+b) TTT es dueña de acciones representativas hoy de un 25,86% del capital social. Explica que con fecha xx de xx de 200x adquirió el 0,01% de las acciones, porcentaje que mantuvo hasta el aumento de capital de fecha xx de xx de 200x, el cual suscribió íntegramente y pagó mediante el aporte en dominio de la totalidad de sus acciones de la Concesionaria, aumentando consecuentemente su porcentaje accionario al actual 25,86%.
 
-    • A través del Oficio N° xxxxx, la Superintendencia de Pensiones remitió
-      su presentación efectuada ante  ese  organismo  en  la  que  expone  y
-      solicita aclarar la situación de los  retiros  de  Ahorro  Previsional
-      Voluntario efectuados durante el año  2008  por  su  representado,  el
-      cotizante Sr. XXXX;
+YYY y TTT se encuentran analizando la posibilidad de vender la totalidad de su participación accionaria en ZZZ, para lo cual se encuentran en proceso de conversación con varios posibles inversionistas, todos ellos personas no relacionadas directa o indirectamente, de conformidad a la interpretación de la normativa vigente.
 
+El grupo XXX ha sido constantemente dueño del 100% de ZZZ, a través de los accionistas antes indicados. El ánimo de posesión de las acciones de ZZZ, señala, no obedece en caso alguno a un fin especulativo o rentístico en su reventa, ni conlleva el ánimo de negociar con ellas en las bolsas de valores, sino exclusivamente un ánimo de usar o servirse de dichas acciones para llevar a cabo en mejor forma las operaciones del giro u objeto de la empresa.
 
-    • Señala al respecto, que por haber hecho el cotizante, retiros de  APV,
-      se le retuvo el 15% como impuesto único y en la fecha  de  declaración
-      de impuestos a la renta Año Tributario 2009, se le informó  que  tenía
-      que pagar un impuesto único por más de cuatro millones de pesos, monto
-      que el contribuyente no estuvo en condiciones de  pagar,  por  lo  que
-      tuvo que postergar dicha declaración;
+Explica que para el caso del accionista YYY, su actividad principal y objeto social no contemplan la adquisición y/o enajenación de acciones, por lo que su participación accionaria de un 74,14% no hace más que confirmar que el ánimo con que las acciones fueron adquiridas fue servirse de ellas para llevar a cabo en mejor forma las operaciones propias de su giro. Concluye que el Servicio de Impuestos Internos (en adelante SII), presume lo anterior al establecer que la venta de acciones cuyo capital pertenezca en un 50% o más a la empresa vendedora se considera no habitual, según lo ha interpretado la Circular N°158, de 1976, criterio administrativo que ha sido confirmado en reiterados dictámenes de este Servicio.
 
+Por su parte, para el caso del accionista TTT, señala que sin perjuicio de no encontrarse en la presunción anterior, el ánimo con que las acciones de ZZZ fueron adquiridas coincide con el ánimo del accionista mayoritario antes señalado. En efecto, TTT concurrió en un principio como accionista minoritario para fines de dar cumplimiento a requisitos corporativos de la Ley de Sociedades Anónimas para ZZZ., y posteriormente comenzó su participación activa mediante la suscripción de un aumento de capital que fue íntegramente suscrito y pagado mediante el aporte de la totalidad de acciones que dicha sociedad poseía en la Concesionaria, principal inversión de ZZZ Por tanto, indica, no se trata de un aumento especulativo de su número de acciones en desmedro del retiro de otro accionista, sino de la comprometida participación en el aumento de capital social destinado a la reorganización de las operaciones del grupo empresarial, permitiendo reunir en ZZZ la totalidad de las acciones que dicho grupo posee en la Concesionaria. Dicho aporte, agrega, tuvo por objeto facilitar el ejercicio de los derechos de ZZZ como accionista de la Concesionaria, simplificando la administración y consecuentemente aportando en mejorar el desarrollo del objeto o giro social para el cual ZZZ fue creada, la cual en la práctica es controlada conjuntamente por sus únicos accionistas bajo las instrucciones del grupo XXX.
 
-    •       Consta además en los antecedentes adjuntos a su presentación  el
-      Certificado N° xxxx , emitido  por  la  Administradora  de  Fondos  de
-      Pensiones  (AFP) YYYY., en el que se informa al cotizante, que durante
-      el año 2008 efectuó retiros de APV, en calidad de  trabajador  activo,
-      por un  monto  actualizado  de  $  xx.xxx.xxx.  Por  medio  del  mismo
-      Certificado la referida institución informa  además  que  respecto  de
-      dichos retiros practicó la retención de 15% establecida en la ley, por
-      un monto actualizado de $ x.xxx.xxx;
+De acuerdo a lo manifestado, solicita confirmar lo siguiente:
 
+a) En relación a la eventual enajenación de acciones de propiedad de TTT en ZZZ, considerando que, el haber sido adquiridas las acciones con el ánimo de llevar a cabo en mejor forma las operaciones propias de su giro; no contemplar el objeto de TTT la adquisición o enajenación de acciones; no existir al momento de la enajenación compras ni ventas de acciones en los ejercicios anteriores, ni existir un ánimo rentístico de reventa o especulación; la eventual venta de la totalidad de las acciones de TTT en ZZZ, no será considerada una operación habitual.
 
-    • Posteriormente, a través de una presentación complementaria, junto con
-      presentar otros antecedentes requeridos  por  este  Servicio,  informó
-      que:
-      a) El cotizante percibe un sueldo patronal en su calidad de  socio  de
-         la sociedad TTT Ltda.;
-      b) El APV fue efectuado en forma indirecta a través de su  sociedad  y
-         con cargo a su sueldo empresarial;
-      c) Respecto de  dicho  APV  no  se  utilizó  el  beneficio  tributario
-         establecido en el artículo 42 bis de la Ley  sobre  Impuesto  a  la
-         Renta.
+b) En relación a la eventual enajenación de acciones de propiedad de YYY en ZZZ, que atendido los mismos argumentos que para el caso de TTT, adicionando además el hecho de contar YYY con una participación accionaria de un 74,14% en ZZZ, porcentaje superior al 50% requerido para presumir que no existe ánimo de negociar con las acciones sino servirse de ellas para llevar a cabo en mejor forma el giro social, la eventual venta de la totalidad de las acciones de YYY en ZZZ no será considerada como una operación habitual.
 
+c) En caso de una eventual enajenación de las acciones en los términos antes indicados, y partiendo de los supuestos de que ha transcurrido más de un año entre la adquisición y enajenación de las acciones de ZZZ por parte de YYY y de TTT; que dichas acciones no serán enajenadas a una persona relacionada, directa o indirectamente, en los términos del inciso 4° del artículo 17 N°8 a) de la Ley sobre Impuesto a la Renta; y que ambas operaciones no son consideradas habituales; solicita confirmar que el eventual mayor valor en la enajenación de las acciones en ambas operaciones quedará gravado con el impuesto de Primera Categoría en carácter de Único, y por tanto, la posterior remisión de los fondos obtenidos de la enajenación de acciones referida por parte de YYY y TTT a sus respectivas matrices, no quedará gravada con ningún otro impuesto, no procediendo retención alguna.
 
-   2.-     Antecedentes de derecho:
+II. ANALISIS:
 
+Sobre el particular, cabe señalar en primer lugar, que el tratamiento tributario que afecta a la enajenación de acciones, se encuentra establecido en los artículos 17 N° 8 y 18 de la Ley sobre Impuesto a la Renta, el cual este Servicio ha esclarecido y explicitado a través de diversos pronunciamientos Entre ellos puede citarse como el más reciente, el Oficio N°341, de 2010.
 
-    • De acuerdo con lo dispuesto en el artículo 42 bis N° 3 de la Ley sobre
-      Impuesto a la Renta (LIR), si los recursos originados en depósitos  de
-      ahorro  previsional  voluntario,  cotizaciones  voluntarias  o  ahorro
-      previsional voluntario colectivo a que se refieren los párrafos 2 y  3
-      del Título III del decreto ley Nº 3.500, de 1980, son retirados  y  no
-      se destinan a anticipar o mejorar  las  pensiones  de  jubilación,  el
-      monto retirado queda afecto a un impuesto único que se debe declarar y
-      pagar en la forma y oportunidad que dicha norma legal señala.
+De conformidad con las normas antes citadas y de acuerdo con lo que ha señalado previamente este Servicio, aparece que el tratamiento tributario del mayor valor obtenido en las operaciones de enajenación de acciones a que se refiere su presentación, dependerá fundamentalmente de si las enajenantes son o no habituales en este tipo de operaciones de adquisición y enajenación de acciones, considerándose para tal calificación, según lo prescrito en el inciso segundo del artículo 18 de la Ley de la Renta, el conjunto de circunstancias previas y concurrentes a la enajenación de tales títulos, tal y como se expresa detalladamente en el Oficio N° 341, de 2010, precedentemente señalado, que puede ser consultado en la página web del SII, www.sii.cl. III. CONCLUSIONES:
 
+Considerando las circunstancias previas y aquellas que concurrirían en la eventual enajenación de acciones que describe en su presentación; y siempre y cuando las mismas se mantengan al momento de efectuarse la enajenación, es posible contestar las consultas que plantea en los siguientes términos:
 
-    • En conformidad con este mismo artículo, las AFP  y  las  instituciones
-      autorizadas que administren los recursos de APV desde  las  cuales  se
-      efectúen dichos retiros, deben practicar una  retención  de  impuesto,
-      con tasa 15%, que sirve de abono al impuesto único determinado.
+a) En relación a la eventual enajenación de la totalidad de las acciones de propiedad de TTT en ZZZ, cabe señalar que en la medida que la enajenante no contemple en su objeto la adquisición o enajenación de acciones, no existan compras ni ventas de acciones en ejercicios anteriores, y en el entendido que las acciones fueron adquiridas por TTT en las circunstancias que describe en su presentación, esto es, para los efectos de administrar de mejor manera las inversiones del grupo empresarial al cual pertenece, lo que permitiría presumir que el ánimo de adquisición fue llevar a cabo de mejor forma las operaciones propias del giro; la enajenación de las acciones antes indicada no será considerada una operación habitual.
 
+b) En relación a la eventual enajenación de acciones de propiedad de YYY en ZZZ, es posible señalar que en cuanto la participación accionaria de YYY corresponda al 74,14% del capital social de ZZZ, sin que en su objeto social aparezca la compra y/o venta de acciones, resultará aplicable lo dispuesto en la Circular N°158, de 1976, en orden a que no se considerarán habituales las inversiones en acciones de sociedades cuyo capital pertenezca en un 50% o más a la sociedad inversionista, atendido que en tal caso es posible presumir que tales adquisiciones no conllevan un ánimo de especulación, sino de usarlas o servirse de ellas para llevar a cabo en mejor forma las operaciones propias de la empresa.
 
-    • La Ley N°  20.255  publicada  en  el  Diario  Oficial  de  17.03.2008,
-      incorporó una serie de modificaciones al referido artículo 42  bis  de
-      la Ley sobre Impuesto a la Renta. De acuerdo con tales modificaciones,
-      que en general rigen a partir del 1° de Octubre del  2008,  se  tiene,
-      entre otras innovaciones, que:
+c) En relación a una eventual enajenación de las acciones en los términos antes indicados, y partiendo de los supuestos que efectivamente ha transcurrido más de un año entre la adquisición y enajenación de las acciones; que dichas acciones no serán enajenadas a una persona relacionada, directa o indirectamente, en los términos del inciso 4° del artículo 17 N°8 letra a) de la Ley sobre Impuesto a la Renta; y siempre que ambas operaciones no sean consideradas habituales por cumplirse las condiciones indicadas por el SII a través de sus instrucciones, cabe señalar que el eventual mayor valor que se obtenga producto de esas operaciones quedará gravado con el Impuesto de Primera Categoría en carácter de Único. Por lo tanto, la posterior remesa de las utilidades generadas en dichas operaciones, respetando el orden de imputación que establece el artículo 14 letra A) N°3 de la Ley sobre Impuesto a la Renta, no quedará gravada con ningún otro impuesto.
 
+d) Finalmente, cabe hacer presente que la verificación de las circunstancias antes indicadas, así como la efectividad de los hechos y la calificación legal de las operaciones que describe, son materias que deben ser resueltas en las instancias de fiscalización pertinentes.
 
+JULIO PEREIRA GANDARILLAS
 
+DIRECTOR
 
-     a) El contribuyente puede optar por  acoger  sus  depósitos  de  ahorro
-        previsional voluntario, las cotizaciones  voluntarias  o  el  ahorro
-        previsional voluntario colectivo correspondiente a los  aportes  del
-        trabajador, al beneficio tributario establecido en  el  artículo  42
-        bis;
+Oficio N° 1.298, de 03.08.2010
 
+Subdirección Normativa
 
-     b) En caso de no ejercer dicha opción, tales ahorros no se  rebajan  de
-        la base imponible del impuesto único de segunda categoría y no están
-        sujetos al impuesto único que establece  el  número  3.  del  inciso
-        primero de este artículo, cuando dichos recursos sean retirados.
-
-
-     c) En  conformidad  al  N°  6  incorporado  al  artículo  42  bis,  los
-        empresarios individuales, los socios de sociedades de personas y los
-        socios gestores de sociedades  en  comandita  por  acciones,  pueden
-        también acoger su APV al beneficio tributario  establecido  en  este
-        artículo, hasta por el monto que la misma disposición señala.
-
-
-II.-  ANÁLISIS:
-
-
-   1.-     Este Servicio a través de su jurisprudencia (Oficios  N°  6.524,
-       de fecha 19.12.2003; y 830  de  24.04.2008,  publicados  en  Internet
-       (www.sii.cl), sostuvo, por las razones que en ellos  se  indica,  que
-       los empresarios individuales, socios  de  sociedades  de  personas  y
-       socios gestores de sociedades en comandita por  acciones,  no  tenían
-       derecho a acceder a los beneficios tributarios del APV establecido en
-       el artículo 42 bis de la LIR.
-
-       Ahora bien, con motivo de las modificaciones legales incorporadas  al
-       artículo 42 bis de la LIR, por la Ley N°20.255, indicadas en el punto
-       2  anterior,  respecto  de  las   cuales   este   Servicio   impartió
-       instrucciones por medio de la Circular N°51 de 12.09.2008,  publicada
-       íntegramente en la  página  web  www.sii.cl  ,  tales  contribuyentes
-       adquirieron derecho al beneficio tributario establecido en  la  norma
-       en análisis, respecto de sus ahorros efectuados a partir  del  1°  de
-       Octubre del 2008.
-
-
-   2.-      De  acuerdo  con  la  jurisprudencia  y  las  instrucciones  ya
-       señaladas, procede indicar que  su  representado,  el  cotizante  Sr.
-       XXXX, en su calidad de socio de una sociedad de  personas,  no  tenía
-       derecho a acceder al beneficio tributario establecido en el  artículo
-       42 bis de la LIR, respecto del APV efectuado antes del 1° de  Octubre
-       del 2008.
-       En  conformidad  con  lo  expresado   por   medio   de   esta   misma
-       jurisprudencia, cabe  señalar  que  aquellos  contribuyentes  que  no
-       obstante no tener derecho a los beneficios tributarios  del  artículo
-       42 bis de la LIR, como ocurrió con su  representado  hasta  la  fecha
-       señalada, hubieran efectuado APV, pueden retirar éstos, sin tener que
-       tributar por dichos retiros con el impuesto único a que se refiere el
-       artículo 42 bis N° 3 de la Ley del ramo.
-       En esta situación tales contribuyentes quedarán afectos a las  normas
-       generales de la ley del ramo, por la rentabilidad  que  les  informen
-       las Instituciones Administradoras  respecto  de  dichos  ahorros.  La
-       institución respectiva deberá informar al ahorrante y a este Servicio
-       a través de los Certificados  y  Declaraciones  Juradas  pertinentes,
-       dichas rentabilidades para los fines del cumplimiento tributario  por
-       parte  del  ahorrante  y  para  los  fines  del  control   tributario
-       respectivo por parte de este Servicio.
-   3.-     Conforme a las modificaciones legales ya señaladas el  cotizante
-       en cuestión, respecto del APV efectuado desde el 1°  de  Octubre  del
-       2008, tiene derecho a elegir u optar por uno  de  los  dos  regímenes
-       tributarios que establece el actual artículo 42 bis de la LIR, opción
-       que debe ser manifestada en forma expresa a la AFP o a la institución
-       autorizada, de acuerdo con los procedimientos  establecidos  por  las
-       Superintendencias del ramo, detallados en la Circular N° 55 del  2008
-       de este Servicio.
-III.- CONCLUSIONES:
-
-   1.-     El contribuyente Sr. XXXX, no tenía  derecho  a  hacer  uso  del
-       beneficio tributario establecido en el artículo 42  bis  de  la  LIR,
-       respecto del APV efectuado en forma indirecta a través de la sociedad
-       de la cual es socio, TTT Ltda., durante el período anterior al 1°  de
-       Octubre del 2008;
-
-
-   2.-     Dichos ahorros pueden ser retirados, sin que dicho  retiro  deba
-       tributar con el impuesto único establecido en el N° 3 del artículo 42
-       bis de la LIR. En consecuencia, en la Declaración Anual de  Impuestos
-       a la Renta del Año Tributario 2009 de su representado, no corresponde
-       declarar dicho impuesto único por el retiro  de  APV  que  se  ahorró
-       hasta antes del 1° de Octubre del 2008;
-
-
-   3.-     Estos mismos retiros, al  no  encontrarse  afectos  al  impuesto
-       único establecido en el artículo 42 bis de la LIR,  tampoco  debieron
-       afectarse con la retención de 15% establecida en  el  inciso  segundo
-       del N° 3 del artículo 42 bis citado. En consecuencia, constituye ésta
-       una retención indebida de impuestos. Para los efectos de  obtener  la
-       restitución  de  lo  pagado  indebidamente,  resulta   aplicable   el
-       procedimiento establecido en el artículo 126 del Código Tributario;
-
-
-   4.-     Respecto del APV efectuado a partir del 1° de Octubre del  2008,
-       así como del retiro de los  mismos,  el  cotizante  tiene  derecho  a
-       elegir u optar  por  la  aplicación  de  uno  de  los  dos  regímenes
-       tributarios que contiene el actual artículo  42  bis  de  la  LIR,  y
-       sujetarse a las instrucciones que respecto de cada uno  de  ellos  se
-       detallan en la Circular N° 51 del 2008;
-
-
-   5.-     Finalmente, cabe expresar que los  contribuyentes  que  como  su
-       representado,  no  obstante  no  tener  derecho  a   los   beneficios
-       tributarios del artículo 42 bis de  la  LIR,  efectuaron  APV,  deben
-       tributar conforme a las normas generales de la Ley del ramo,  por  la
-       rentabilidad de tales ahorros que le  debe  informar  la  institución
-       respectiva.
-
-
-
-
-
-
-
-                                             JULIO PEREIRA GANDARILLAS
-
-     DIRECTOR
-
-
-
-
-
-
-
-                       Oficio N° 1.296, de 03.08.2010
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
+Dpto. de Impuestos Directos

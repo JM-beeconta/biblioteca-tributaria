@@ -6,55 +6,66 @@
 - Año: 2012
 - Fecha: 2012-05-15
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2012/ja1139.htm
-- Hash SHA-256: 7a7421e8f765bcb98f5d1298fc6edc47f27bc51cc86e4a803407d4ee2b12f018
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2012/ja1140.htm
+- Hash SHA-256: 7b61495c26bc5d23ef72844a2adeab4475a3c493578650795899d43dbeea97d1
 
 ## Resumen
 
-N°5, Art. 69° &ndash; Ley N° 18.815, Art. 32° &ndash; . (Ord. Nº 1140, de 15-05-2012) | Word Disminución de capital efectuada por un Fondo de Inversión Privado, para efectuar el rescate de cuotas del mismo. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 74°, N°7, Art. 104° &ndash; Resolución Exenta N° 133 de 2010. (Ord. Nº 1139, de 15-05-2012) | Word Tratamiento tributario de las retenciones de impuesto señaladas en el artículo 74, N° 7 de la Ley sobre Impuesto a la Renta, en concordancia con el artícul…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20°, N°2 &ndash; Código Tributario, Art. 8°, N°5, Art. 69° &ndash; Ley N° 18.815, Art. 32° &ndash; . (Ord. Nº 1140, de 15-05-2012) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"74"}
-- {"type":"articulo","law":"LIR","article":"104"}
+- {"type":"oficio","number":4241,"year":2003}
+- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"CT","article":"69"}
+- {"type":"articulo","law":"CT","article":"8"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°7, ART. 104° – RESOLUCIÓN EXENTA N° 133 DE 2010. (ORD. N° 1139, DE 15.05.2012)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°, N°2 – CÓDIGO TRIBUTARIO, ART. 8°, N°5, ART. 69° – LEY N° 18.815, ART. 32° – OFICIO N° 4241, DE 2003. (ORD. N° 1140, DE 15.05.2012)
 
-TRATAMIENTO TRIBUTARIO DE LAS RETENCIONES DE IMPUESTO SEÑALADAS EN EL ARTÍCULO 74, N° 7 DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONCORDANCIA CON EL ARTÍCULO 104 DE LA MISMA LEY.
+DISMINUCIÓN DE CAPITAL EFECTUADA POR UN FONDO DE INVERSIÓN PRIVADO, PARA EFECTUAR EL RESCATE DE CUOTAS DEL MISMO.
 
-I.- ANTECEDENTES. Señala en su presentación que el reglamento operativo para la colocación y administración de los bonos emitidos por el Banco Central de Chile, establece que para dar cumplimiento a la retención prevista en el artículo 74, N° 7 de la LIR, dicha entidad deducirá un 4% del importe de los intereses devengados por los bonos, al momento de proceder al pago del respectivo cupón.
-En el mes de enero del año siguiente, una vez que se conocen los intereses devengados durante el ejercicio anterior, el Banco Central de Chile enterará a los inversionistas que no tengan la calidad de contribuyentes, como es el caso de los fondos de pensiones, la parte correspondiente al 4% de los intereses devengados durante el período en que tuvieron los títulos respectivos en su poder, todo ello sujeto a la condición de que tales inversionistas soliciten previa y expresamente, liberarse de la retención de impuestos mediante la presentación de la declaración jurada que establece el inciso 2°, del N° 7, del artículo 74 de la LIR.
-Ahora bien, considerando que con anterioridad a la dictación de la Resolución Exenta N° 133, que establece la forma en que ha de presentarse la declaración jurada referida, el Banco Central de Chile ha retenido un 4% sobre los intereses que han devengado los títulos que han estado en poder de los fondos de pensiones en el ejercicio respectivo, solicita un pronunciamiento de este Servicio sobre los siguientes temas:
-1.- Confirmar que la Resolución Exenta N° 133, no sólo establece un procedimiento general para que el emisor no efectúe la retención, sino que también dicho procedimiento se aplica para dar cumplimiento de aquí en adelante, a las formalidades indicadas en el acuerdo del Banco Central de Chile.
-2.- Confirmar que la Resolución Exenta N° 133, se aplica también a las retenciones ya efectuadas por el Banco Central de Chile, antes de la vigencia de dicha resolución, es decir, bastaría que las Administradoras de Fondos de Pensiones, presenten la declaración jurada para obtener la devolución del 4% retenido a los fondos de pensiones. De lo contrario, señalar cuál es el procedimiento aplicable que exige el acuerdo del Banco Central de Chile.
-3.- La necesidad de modificar las instrucciones contenidas en el apartado II, N° 6, de la Resolución Exenta N° 133, ya que hoy sólo permiten registrar la fecha de adquisiciones realizadas en el mercado secundario (fecha de adquisición en bolsa), en circunstancias que conforme a la normativa de la Superintendencia de Pensiones, muchos de los traspasos de títulos entre fondos de pensiones de una misma AFP, se realizan directamente entre sí, sin necesidad de realizar la operación en bolsa.
-4.- La posibilidad que los fondos de pensiones administrados por las AFP, respecto de los bonos a que ha hecho referencia, queden liberados de la retención del impuesto del 4%, en la medida que comuniquen su calidad de no contribuyentes al emisor, aunque el acuerdo del Banco Central de Chile, no contemple esta posibilidad.
-5.- Para que el emisor pueda liberarse de la obligación de retener, la fecha de presentación de la declaración jurada al emisor, debe ser a más tardar el día anterior a la fecha del pago del cupón de intereses, puesto que si se hace el 31 de diciembre, conforme establece la Resolución Exenta N° 133, los pagos realizados antes del 31 de diciembre quedarán gravados con la retención del 4% y no habrá derecho a devolución de acuerdo al artículo 74, N° 7 de la LIR, salvo en aquellos casos en que el contrato de emisión o el decreto supremo, en su caso, así lo establezca.
+I.- ANTECEDENTES. Señala que con fecha xx.xx.xxxx, la sociedad administradora de un FIP efectuó dos presentaciones a este Servicio, dando aviso de las siguientes modificaciones:
+a.- Aumento de capital del FIP, acordado por asamblea extraordinaria de aportantes de fecha xx.xx.xxxx
+b.- Disminución de capital convenida por asamblea extraordinaria de aportantes del xx.xx.xxxx.
+Indica que el FIP consta de cuatro aportantes, cada uno de los cuales tenía, hasta antes de la disminución de capital, una participación de 70%, 12%, 12% y 6%, en un capital efectivamente enterado y pagado de $xxxxx.
+La disminución de capital del FIP se acordó en la suma de $xxxxxx, de modo que con ello, el capital quedaría en la suma de $xxxxxxx, procedimiento autorizado por el reglamento interno del FIP.
+Según consta en el acta respectiva, se convino por todos los aportantes una disminución de capital proporcional a la participación de cada uno de ellos y acto seguido, los tres mayoritarios renunciaron a hacer uso del derecho a devolución de capital que les correspondía, sólo ejerciendo dicho derecho el aportante minoritario por el total del monto objeto de la disminución.
+Cabe hacer presente que el aportante minoritario, con fecha xx.xx.xxx, suscribió y pagó cuotas por $xxxxx, y con la disminución de capital, obtuvo $xxxxxx, retirándose del FIP.
+De acuerdo a lo anterior, plantea las siguientes consultas:
 
+1.- &iquest;El capital no devuelto a los aportantes mayoritarios por renuncia de este derecho, puede acrecer absolutamente a quién ejerza ese derecho?
+2.- &iquest;La norma del artículo 69, inciso final, del Código Tributario, es aplicable a los casos de disminución de capital de un FIP?
+3.- &iquest;El precepto contenido en el artículo 17, N°7 de la LIR, es aplicable a los casos de diminuciones de capital de un FIP?
+Se acompaña copia del reglamento del FIP y el acta de la asamblea extraordinaria de aportantes del FIP, reducida a escritura pública, realizada con fecha 12 de marzo de 2010.
 II.- ANÁLISIS.
-El artículo 74, N° 7 de la LIR, establece que los emisores de los instrumentos de deuda de oferta pública a que se refiere el artículo 104, deberán practicar una retención de impuesto con una tasa de 4% sobre los intereses devengados durante el ejercicio respectivo, conforme a lo dispuesto en los artículos 20, N° 2, letra g); 54, N° 4 y en la letra h), del N° 1, del inciso 4°, del artículo 59, la que se declarará y pagará dentro del mes de enero siguiente al término del ejercicio en que se devengaron los intereses respectivos, conforme a lo dispuesto en el artículo 79 de la misma Ley.
-No obstante lo anterior, los mencionados emisores podrán liberarse de su obligación de practicar la retención, sobre los intereses devengados en favor de inversionistas que no tengan la calidad de contribuyentes para los efectos de la LIR, por el período en que éstos mantengan los referidos títulos en su poder y cuando éstos así lo soliciten expresamente y por escrito al emisor, mediante una declaración jurada en que identifique los instrumentos de deuda respectivos y el período en que han estado en su propiedad, conforme a lo dispuesto en la Resolución Exenta N° 133, de 2010.
-En ausencia de dicha solicitud, el emisor deberá efectuar la retención de impuesto conforme a lo establecido en el párrafo primero, la que no podrá ser imputada por el inversionista contra impuesto alguno y no tendrá derecho a devolución.
+a) Conforme a lo dispuesto por el artículo 40, de la Ley N°18.815, son FIP aquellos que se forman por aportes de personas o entidades, administrados por las sociedades a que se refieren los artículos 3 ó 42 de dicha Ley, por cuenta y riesgo de sus aportantes y que no hacen oferta pública de sus valores.
+Se rigen por lo dispuesto en el Título VII de la Ley N°18.815 y sus respectivos reglamentos. Además, de acuerdo a lo dispuesto en el artículo 41 de la misma Ley, también se encuentran sujetos a lo establecido en el Título V y el artículo 5 del referido texto legal.
+Los FIP constituyen entonces, un patrimonio integrado por aportes de personas naturales y entidades, que no pueden calificarse en sí mismos como contribuyentes, sin embargo, conforme a lo dispuesto por el artículo 8°, N°5, del Código Tributario, tratándose de bienes ajenos afectados por impuestos, el contribuyente, esto es, el obligado al cumplimiento de las obligaciones tributarias principales y accesorias, es su administrador o tenedor.
+De esta manera, puede concluirse que las sociedades administradoras son contribuyentes por el Fondo, en cuanto a los bienes ajenos administrados por ellas afectados por impuestos y sin perjuicio de que estas sociedades, sean también contribuyentes por sus propias actividades y rentas.
+En tal sentido, dentro de las obligaciones que afectan a la sociedad administradora, está la de llevar la documentación contable y los registros obligatorios, dentro de los que se cuenta el registro FUT (incluyendo el FUNT), de cada uno de los FIP que administre. Tal registro, resulta exigible para los efectos de determinar el Impuesto Global Complementario o Adicional, al cual están afectos los aportantes al FIP, cuando los beneficios que genera sean distribuidos, por cuanto el artículo 32 de la Ley N°18.815, establece que el reparto de los beneficios netos obtenidos por los FI a sus aportantes, se considerará como dividendos provenientes de acciones de sociedades anónimas abiertas.
+b) Por su parte, el inciso final, del artículo 69 del Código Tributario, dispone que no podrá efectuarse disminución de capital en las sociedades sin autorización previa de este Servicio, resultando aplicable dicha norma sólo a aquellas entidades que quedan comprendidas dentro del concepto de sociedades, situación que no ocurre en el caso de los FIP, puesto que de acuerdo a la propia definición del artículo 40 citado, éstos corresponden a un patrimonio integrado por aportes, no a una sociedad, situación que fue ratificada por este Servicio, mediante Oficio N°4.241, de 2003, el cual se encuentra publicado en su página web www.sii.cl.
+c) Finalmente, analizados los términos del reglamento interno del FIP y el acta de la asamblea extraordinaria de aportantes del mismo, realizada con fecha 12 de marzo de 2010, se puede señalar respecto del primero que, según su artículo 14°, el capital del Fondo se divide en cuotas que no podrán ser rescatadas antes de la liquidación del Fondo, salvo disminuciones de capital aprobadas por la asamblea, cuestión que contempla dicho reglamento en su artículo 53°, la que se realizará en la forma, condiciones y para los fines que la propia asamblea acuerde.
+Respecto de la asamblea de aportantes, se puede señalar que el objeto de la misma fue la de acordar una disminución de capital del Fondo, señalándose que cada aportante tenía derecho a optar por la devolución de capital a prorrata del número de cuotas de que era titular a la fecha de la asamblea, pudiendo incrementar equitativamente su derecho a la restitución del valor de las cuotas cuando los demás aportantes no ejercieran tal derecho.
+El acuerdo final de la asamblea referida, dispone que se aprueba una disminución de capital por $xxxxxxx mediante la reducción de cien mil cuotas del Fondo, las cuales son pagadas en su totalidad a uno de los aportantes, producto de la renuncia expresa de su derecho que realizan los otros 3 y que con tal pago, el aportante en cuestión se retira del Fondo.
+Por tanto, resulta claro de los antecedentes indicados, que en la situación planteada la finalidad de la disminución de capital ha sido la de realizar y pagar el rescate de las cuotas del Fondo al partícipe minoritario, con lo que éste se retira del mismo, situación particular que tiene definida su tributación en el artículo 32 de la Ley N°18.815.
+En esta última norma se establece que el mayor valor obtenido en el rescate de las cuotas del fondo, se determinará en la forma prevista en el artículo 17 del Decreto Ley N° 1.328, de 1976, y los contribuyentes que no se encuentren obligados a declarar sus rentas efectivas según contabilidad, estarán exentos del Impuesto de Primera Categoría cuando tal rescate se efectúe en la liquidación del FI, cuestión que no ocurre en la situación planteada en su presentación, razón por la cual tampoco se aplica la referida exención.
+
 III.- CONCLUSIÓN.
-
-Conforme a lo señalado anteriormente, a continuación se responden cada una de las consultas planteadas:
-1.- La Resolución Exenta N° 133, de 2010, emitida por este Servicio, establece sólo los requisitos de forma y oportunidad en que los inversionistas autorizados, pueden presentar la declaración jurada, para los efectos previstos en el inciso 2°, del N° 7, del artículo 74 de la LIR. Dicha Resolución, permite al emisor de los títulos respectivos, liberarse de la obligación legal de retención que establece el artículo 74, N° 7 de la LIR.
-Por tanto, este Servicio carece de facultades legales para regular las condiciones que se establezcan en los Decretos o en los contratos de emisiones de bonos.
-2.- La Resolución Exenta N° 133, rige a partir de su fecha de publicación, esto es, a partir del 24 de agosto de 2010, por lo que las retenciones de impuesto que deben efectuarse en conformidad al artículo 74, N° 7 de la LIR, sobre los intereses devengados durante el año 2010, se deberán declarar y pagar dentro del mes de enero siguiente al término del ejercicio en que se devengaron los intereses respectivos. En tal oportunidad, el emisor se liberaría de la obligación de retener, en la medida que se cumplan con los requisitos legales señalados.
-Respecto del procedimiento aplicable a lo que exige el acuerdo del Banco Central de Chile, para obtener la devolución del 4% retenido a los Fondos de Pensiones, cabe señalar que este Servicio carece de facultades legales para regular las condiciones que se establezcan en los Decretos o en los contratos de emisiones de bonos.
-3.- Las instrucciones contenidas en el apartado II, N° 6, Anexo N°2: "Instrucciones de llenado Declaración Jurada", establecen que se deberá indicar respecto de la fecha de colocación o adquisición de los instrumentos, la fecha en que el inversionista adquirió los títulos, ya sea, que se trate del primer adquirente (fecha de colocación), o que los haya adquirido en el mercado secundario (fecha de adquisición en bolsa), porque justamente, tal situación constituye uno de los requisitos señalados en el N° 2, del artículo 104 de la LIR, para acogerse a los beneficios tributarios que dicha norma establece.
-
-4.- Esta consulta, se encuentra resuelta en los números 1.- y 2.- anteriores.
-5.- Considerando que las retenciones de impuesto efectuadas en conformidad al artículo 74, N° 7 de la LIR, deben ser declaradas y pagadas dentro del mes de enero siguiente al término del ejercicio en que se devengaron los intereses respectivos, la declaración jurada establecida en la Resolución Exenta N° 133, deberá ser presentada hasta el día 31 de diciembre de cada año, pudiendo en todo caso, ser presentada por el inversionista durante el trascurso del año si así lo estima conveniente, indicando los instrumentos de deuda respectivos y el período en que han estado en su propiedad, conforme a lo indicado en la referida Resolución.
+De acuerdo a lo señalado en el número anterior, a continuación se responden sus preguntas:
+1.- El capital no devuelto a los aportantes mayoritarios por renuncia de este derecho, puede acrecer absolutamente a quién ejerza ese derecho. No obstante lo anterior, en el caso planteado, tal disminución de capital se lleva a cabo con el objeto de realizar y pagar el rescate de cuotas de participación en el Fondo, situación que tiene expresamente regulado su tratamiento tributario en el artículo 32, de la Ley N°18.815.
+En la situación descrita en su presentación, el mayor valor obtenido en el rescate de las cuota, se determina en la forma prevista en el artículo 17 del Decreto Ley N° 1.328, de 1976, y tal renta se clasifica en el artículo 20, N° 2 de la LIR, encontrándose afecta al Impuesto de Primera Categoría y Global Complementario o Impuesto Adicional, según corresponda.
+2.- Lo dispuesto en el inciso final, del artículo 69, del Código Tributario, no resulta aplicable a los casos de disminución de capital de un FIP, puesto que dicha disposición sólo se aplica a los contribuyentes que puedan calificar bajo el concepto de sociedades.
+3.- En la situación planteada en su presentación, la referida disminución de capital tiene por objeto realizar y pagar el rescate de cuotas del Fondo, por lo que deben aplicarse las normas tributarias que regulan tal situación, contenidas en el artículo 32, de la Ley N°18.815, en la forma indicada en el N° 1, precedente.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 1139, de 15.05.2012
+Oficio N° 1140, de 15.05.2012
 
 Subdirección Normativa
 
-Dpto. de Impuestos Directos
+Dpto.de Impuestos Directos

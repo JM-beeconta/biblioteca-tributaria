@@ -6,47 +6,67 @@
 - Año: 2011
 - Fecha: 2011-01-25
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja189.htm
-- Hash SHA-256: ef014a0eed24496a224971ca10242a30237298981bd0f3cdf0d224ac83df80c2
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja190.htm
+- Hash SHA-256: 0c83c6053b49563e6e6d671f09a445894d1b67fc069ac8208f0a139bf5998184
 
 ## Resumen
 
-sh; . (Ord. Nº 190, de 25-01-2011) | Word Tratamiento tributario del desembolso efectuado por una empresa para subrogar, vía cesión de contrato, en la calidad de parte que tenía otra empresa en un contrato de suministro. Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 41°, Art. 31°, N°3, Art. 38° &ndash; Circulares N° 46, de 1990 y N° 69, de 2010. (Ord. Nº 189, de 25-01-2011) | Word Forma de determinar el costo tributario en la enajenación de derechos sociales, conforme al artículo 41, inciso 1°, N° 9 de…
+Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 31°, N°9 &ndash; Circular N° 54, de 1984 &ndash; . (Ord. Nº 190, de 25-01-2011) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"41"}
+- {"type":"circular","number":54,"year":1984}
+- {"type":"oficio","number":654,"year":2006}
+- {"type":"articulo","law":"LIR","article":"31 N"}
 - {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"38 bis"}
-- {"type":"articulo","law":"CT","article":"64"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41°, ART. 31°, N°3, ART. 38° – CIRCULARES N° 46, DE 1990 Y N° 69, DE 2010. (ORD. N°189, DE 25.01.2011)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°9 – CIRCULAR N° 54, DE 1984 – OFICIO N° 654, DE 2006. (ORD. N° 190, DE 25.01.2011)
 
-FORMA DE DETERMINAR EL COSTO TRIBUTARIO EN LA ENAJENACIÓN DE DERECHOS SOCIALES, CONFORME AL ARTÍCULO 41, INCISO 1°, N° 9 DE LA LEY SOBRE IMPUESTO A LA RENTA – PÉRDIDA EN LA ENAJENACIÓN DE LOS DERECHOS SOCIALES – GASTOS NECESARIOS PARA PRODUCIR LA RENTA – REQUISITOS – EJERCICIO DE LA FACULTAD DE FISCALIZACIÓN POR PARTE DEL SERVICIO – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO.
+TRATAMIENTO TRIBUTARIO DEL DESEMBOLSO EFECTUADO POR UNA EMPRESA PARA SUBROGAR, VÍA CESIÓN DE CONTRATO, EN LA CALIDAD DE PARTE QUE TENÍA OTRA EMPRESA EN UN CONTRATO DE SUMINISTRO –CONSTITUIRÁ UN GASTO NECESARIO PARA PRODUCIR LA RENTA EN LA MEDIDA QUE CUMPLA CON LOS REQUISITOS GENERALES QUE ESTABLECE EL INCISO PRIMERO DEL ARTÍCULO 31 DE LA LEY DE LA RENTA – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO.
 
-Se ha solicitado un pronunciamiento de este Servicio sobre la forma en que se determina el costo tributario deducible en la enajenación de derechos sociales, a raíz de lo resuelto mediante el Oficio N° 744, del año 2006, el cual hace referencia a lo establecido en el artículo 41, N° 9, de la Ley sobre Impuesto a la Renta (LIR). I.- ANTECEDENTES.
-Señala que asesora a una sociedad de inversiones, constituida como sociedad de responsabilidad limitada, la cual se encuentra obligada a determinar su renta efectiva, mediante balance general según contabilidad completa, y que participa en otra sociedad de personas en un 80% de su capital social. La inversión en los derechos sociales fue adquirida el año 2000 y actualizada según variación de IPC entre la fecha de adquisición y hasta esta fecha, asciende a un valor aproximado de $2.000.000.000. El actual patrimonio tributario de la sociedad receptora de la inversión, asciende a un valor aproximado de $937.500.000, por lo que el valor patrimonial proporcional para su representada, asciende a $750.000.000. Tales derechos sociales serán vendidos a una empresa no relacionada en un valor aproximado de $400.000.000.
+Se ha solicitado a este Servicio pronunciarse respecto del tratamiento tributario del desembolso efectuado por una empresa para subrogar, vía cesión de contrato, en la situación contractual o calidad de parte que tenía otra empresa en un contrato de suministro de papeles.
 
-En relación con los antecedentes expuestos, consulta:
-a) Cuál sería el costo tributario de los derechos sociales al momento de su enajenación: &iquest;El valor de adquisición actualizado, es decir, $2.000.000.000, o bien, el valor del valor patrimonial proporcional, es decir, $750.000.000?
-b) Si fuere este último valor, &iquest;la operación de venta de los derechos sociales arrojaría una pérdida tributaria de $350.000.000?
-c) En relación con la consulta anterior, &iquest;por qué los $1.250.000.000 (correspondiente a la diferencia entre $2.000.000.000 y $750.000.000), no podría ser utilizada en calidad de pérdida tributaria, dado que la inversión y el real sacrificio económico ascendió a tal cantidad?
-d) Sea cual fuere el costo tributario, según respuesta a consulta a), &iquest;es posible que la pérdida tributaria resultante de la operación de venta de los derechos sociales, pueda servir de deducción al determinar la renta líquida imponible de primera categoría, todo ello, según lo dispuesto en artículo 31, N° 3 de la LIR?
-e) &iquest;Qué tributación afectaría al saldo de FUT de la sociedad de inversiones, en caso de término de giro, en virtud del artículo 38 bis de la LIR, teniendo presente que los socios dueños de la sociedad son dos personas jurídicas extranjeras?
-II.- ANÁLISIS.
-La materia en consulta se encuentra regulada en el artículo 41 de la LIR y este Servicio instruyó recientemente sobre la misma, mediante Circular N° 69, de 4 de noviembre de 2010, la cual se encuentra publicada en su página web www.sii.cl, estableciéndose en ella, la forma de determinar el costo tributario en la enajenación de derechos sociales en sociedades de personas, modificándose algunos criterios sostenidos con anterioridad, conforme se indica en dicha instrucción.
-III.- CONCLUSIÓN.
-De acuerdo a lo indicado anteriormente y respondiendo las consultas formuladas en la letras a) a la c), cabe señalar que en caso que el enajenante sea un contribuyente que determine sus rentas efectivas, mediante un balance general según contabilidad completa, y en la medida que la enajenación no se efectúe a empresas relacionadas en los términos del inciso 4°, del artículo 41, de la LIR, el costo tributario deducible en la enajenación de los citados derechos sociales, se determina conforme a lo establecido en el N° 9, del inciso 1°, de dicho artículo, por lo que resultan aplicables las instrucciones contenidas en el Título III, letra A), N° 2.a), de la referida Circular.
-En relación con la consulta señalada en la letra d), si se determinara una pérdida en la enajenación de derechos sociales en los términos descritos, ésta puede ser deducida como gasto en la determinación del resultado tributario del ejercicio, en la forma dispuesta en el artículo 31, N° 3 de la LIR, en la medida que se cumpla con todos los requisitos legales para tal efecto, y sin perjuicio de que este Servicio pueda ejercer la facultad de fiscalización establecida en el artículo 64 del Código Tributario, cuando corresponda.
-Finalmente, respecto de su última consulta, cabe señalar que tal situación se encuentra regulada en el artículo 38 bis de la LIR, e instruida por este Servicio a través de la Circular N° 46, del 1 de octubre de 1990, la cual se encuentra publicada en su página web www.sii.cl.
+I. ANTECEDENTES.
+
+Señala que su cliente, una sociedad anónima, es cesionaria de un contrato de suministro de papeles para impresión y escritura, sin estucar.
+
+La cesión se efectuó a título oneroso, pagando un precio al cedente para obtener su posición o situación contractual de proveedor para los clientes partes del contrato de suministro original.
+
+Mediante Oficio N°654, de 2006, en el cual se consulta sobre el tratamiento que una agencia de una sociedad extranjera, empresa constructora, debe darle a un desembolso relacionado con el derecho a participar en la construcción de una obra pública fiscal, se concluyó que: "el tratamiento del desembolso efectuado por la agencia para subrogar, vía cesión de contrato, en la situación contractual o calidad de parte que tenía otra empresa constructora, la que era partícipe, conjuntamente con otras empresas, en un contrato de asociación o cuentas en participación, procede expresar que no existe impedimento desde el punto de vista de la Ley de la Renta, para que respecto de él, se aplique el tratamiento tributario establecido en el artículo 31 N°9 de dicho texto legal."
+
+De acuerdo con ello, desea confirmar que el tratamiento tributario que debe darse a los desembolsos realizados para adquirir la posición o situación contractual del cedente, en este caso, proveedor de bienes en un contrato de suministro, es el mismo señalado en dicho oficio, esto es, el establecido en el artículo 31 N°9 de la Ley sobre Impuesto a la Renta (LIR), como gasto de organización y puesta en marcha.
+
+II. ANÁLISIS.
+
+Sobre el particular, cabe señalar que este Servicio a través de diversos pronunciamientos, ha señalado que para que un gasto pueda ser calificado de necesario para producir la renta de conformidad con el artículo 31 de la LIR, debe reunir los siguientes requisitos copulativos:
+
+a) Que se relacione directamente con el giro o actividad que se desarrolla;
+
+b) Que se trate de gastos necesarios para producir la renta, entendiéndose esta expresión en el sentido de lo que es menester, indispensable o que hace falta para un determinado fin, contraponiéndose a lo superfluo;
+
+c) Que no se encuentren ya rebajados como parte integrante del costo directo de los bienes y servicios requeridos para la obtención de la renta;
+
+d) Que el contribuyente haya incurrido efectivamente en el gasto, sea que éste se encuentre pagado o adeudado al término del ejercicio; y
+
+e) Que se acrediten o justifiquen en forma fehaciente.
+
+Por su parte, el N° 9 del artículo 31 de la LIR establece en particular, que se pueden deducir de la renta bruta los gastos de organización y puesta en marcha, los cuales podrán ser amortizados hasta en un lapso de seis ejercicios comerciales consecutivos contados desde que se generaron dichos gastos o desde el año en que la empresa comience a generar ingresos de su actividad principal, cuando este hecho sea posterior a la fecha en que se originaron los gastos.
+
+En el caso de empresas cuyo único giro según la escritura de constitución sea el de desarrollar determinada actividad por un tiempo inferior a seis años no renovable o prorrogable, los gastos de organización y puesta en marcha se podrán amortizar en el número de años que abarque la existencia legal de la empresa
+
+Ahora bien, en este sentido, cabe indicar que efectivamente mediante Oficio N°654, de 2006, este Servicio, refiriéndose al desembolso efectuado por un contribuyente para subrogar, vía cesión de contrato, en la situación o calidad de parte que tenía otra empresa en un contrato de asociación o cuentas en participación, señaló que procedía aplicar el tratamiento tributario establecido en el artículo 31 N°9 de la LIR.
+
+III. CONCLUSIÓN.
+
+El desembolso que indica en su presentación y que tiene por objeto adquirir el derecho a subrogar la posición de parte proveedora que otra empresa tiene en un contrato de suministro, constituirá un gasto necesario para producir la renta en la medida que cumpla con los requisitos generales que establece el inciso primero del artículo 31 de la LIR, previamente mencionados. Dicho pago previo, y que resulta necesario para que la empresa pueda iniciar su actividad como proveedora del referido contrato, quedará sujeto al tratamiento dispuesto en el numeral 9 de la citada disposición, cuyas instrucciones fueron impartidas mediante Circular N°54, de 1984.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 189, de 25.01.2011
+Oficio N° 190, de 25.01.2011
 
 Subdirección Normativa
 

@@ -4,50 +4,52 @@
 - Tipo: oficio
 - Número: 3486
 - Año: 2012
-- Fecha: 2012-11-06
+- Fecha: 2012-11-15
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2012/ja3025.htm
-- Hash SHA-256: b3e52e4dc9ca5278f0034c989ed1fa703b9e5007c33776708514387e24898dff
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2012/ja3153.htm
+- Hash SHA-256: d3b22bfb9b89518bc40bb321688a40dea65f5d76dbf097cb203cb4c10c75d014
 
 ## Resumen
 
-l='modal'>Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8°, letra g), Art. 17° &ndash; D.S. N° 55, Art. 6 &ndash; . (Ord. Nº 3026, de 06-11-2012) | Word Se ha solicitado a esta Dirección Nacional pronunciarse sobre el Impuesto al Valor Agregado que afecta al arrendamiento de inmuebles rurales con instalaciones. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 2°, N°1, Art. 8°, Art. 23°, N°2, Art. 27° bis. (Ord. Nº 3025, de 06-…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8°, letra g), Art. 17° &ndash; D.S. N° 55, Art. 6 &ndash; . (Ord. Nº 3153, de 15-11-2012) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":3486,"year":1983}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°1, ART. 8°, ART. 23°, N°2, ART. 27° BIS. (ORD. N° 3025, DE 06.11.2012)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8°, LETRA G), ART. 17° – D.S. N° 55, ART. 6 – OFICIO N° 3486, DE 1983. (ORD. N° 3153, DE 15.11.2012)
 
-SE HA SOLICITADO A ESTA DIRECCIÓN NACIONAL PRONUNCIARSE SOBRE LA CALIDAD DE EMPRESA CONSTRUCTORA QUE TENDRÍA UN FONDO DE INVERSIÓN PRIVADO, POR LA CONSTRUCCIÓN DE UN INMUEBLE, PARA EFECTOS DE GRAVAR CON IVA SU POSTERIOR VENTA.
+SE HA SOLICITADO A ESTA DIRECCIÓN NACIONAL PRONUNCIARSE SOBRE EL IMPUESTO AL VALOR AGREGADO QUE AFECTA AL ARRENDAMIENTO DE INMUEBLES RURALES CON INSTALACIONES.
 
-I.- ANTECEDENTES: El Fondo de Inversión Privado XXX, en adelante FIP, desarrolló un proyecto inmobiliario destinado a oficinas comerciales, que actualmente se encuentra terminado y en un alto porcentaje vendido. Para el desarrollo de este proyecto, el FIP encomendó a terceros la construcción mediante contratos de construcción por suma alzada, reservándose únicamente el desarrollo de algunas labores menores como son el cierre perimetral transitorio, destinado a preparar el terreno para el desarrollo de las obras de construcción y la instalación de especies arbóreas en los jardines, la cual ejecutó directamente la entidad.
-El proyecto se elaboró y ejecutó con miras a que la venta de los inmuebles se gravará con IVA.
-Al respecto, cabe señalar que el contribuyente efectuó la misma consulta directamente a esta Dirección Nacional, adjuntando los contratos y una serie de antecedentes adicionales, que sirvieron de base para emitirle una respuesta, cuyo análisis y conclusión se transcriben a continuación.
+I.- ANTECEDENTES:
+
+A raíz de una consulta recibida por esa Dirección Regional relacionada con el Impuesto al Valor Agregado que afecta al arrendamiento de un inmueble rural con importantes instalaciones, destinado al desarrollo de actividades del rubro lechero-ganadero, es que le surge la duda respecto de si dichas instalaciones cumplen con los requisitos dispuestos en el Art. 8°, letra g), para que se configure el hecho gravado especial. Ello por cuanto en el caso bajo análisis resulta clara la existencia de instalaciones, no así, si éstas son aptas para realizar una actividad industrial o comercial como lo exige el Art. 8°, letra g).
+Expone que la crianza y engorda de animales es agrícola y en consecuencia, no comercial. Sin embargo, no le parece igualmente claro respecto de la producción lechera, ya que actualmente, en la explotación de este rubro se han incorporado técnicas de mecanización y tecnología para la ordeña y obtención de leche, lo que implica instalaciones, maquinarias, estanques, refrigeración, etc., que hacen surgir dudas sobre si dichas instalaciones permiten sostener que ellas hacen al inmueble apto para realizar actividades industriales que deban tributar con Impuesto al Valor Agregado.
+Por otra parte, en el contrato de arrendamiento, adjunto a los antecedentes, se detalla el inventario de bienes que forma parte del contrato, dentro de los cuales se encuentran los siguientes bienes: "a) cinco casas, b) tres galpones, c) dos ternereras, d) corrales con manga techada y romana, e) patio de alimentación techado con dormideros para ochenta vacas, e) plataforma de alimentación para ciento cincuenta vacas, f) dos pozos purineros, g) cuatro silos de cemento para quinientas toneladas de capacidad cada uno."
 
 II.- ANÁLISIS:
 
-El Art. 8°, del D.L. N° 825, en concordancia, con el Art. 2°, N° 1, del mismo cuerpo legal grava con Impuesto al Valor Agregado, en lo pertinente, la transferencia a título oneroso de bienes corporales inmuebles de propiedad de una empresa constructora construidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella.
-De la citada norma legal y en armonía con la definición de vendedor contenida en Art. 2°, N° 3, se desprende que la venta de inmuebles sólo se encuentra gravada con Impuesto al Valor Agregado, cuando el vendedor es una empresa constructora, dedicada a la venta de inmuebles que han sido construidos totalmente por ella o que por encargo, han sido construidos parcialmente por un tercero, para ésta.
-Al respecto, este Servicio mediante Circular N° 33, de 9 de Septiembre de 1987, interpretó la norma, entendiendo que cuando un inmueble es construido bajo la modalidad de administración, quien encarga su construcción reviste la calidad de empresa constructora para efectos de la definición de venta y de vendedor, señaladas precedentemente. Ello, en atención a que bajo esta modalidad de contratación, el contratista asume la calidad de mandatario, quien ejecuta el trabajo por y para la empresa que encarga la obra, asumiendo esta última, en su calidad de mandante todo el riesgo que afecta a dicha construcción, situación que no se presenta en el contrato de construcción a suma alzada, en el cual la responsabilidad de la construcción recae sobre el contratista, quien suministra los materiales y efectúa también la construcción.
-Dicha interpretación es aplicable, ya sea que se construya la totalidad del inmueble o tan solo una parte del mismo bajo la modalidad de administración. De este modo, basta que una parte cualquiera del inmueble se construya bajo el sistema de administración, para que quien encomienda su construcción sea considerada empresa constructora.
-Ahora bien, en el caso bajo análisis, la construcción del inmueble denominado XXX, se realizó mediante tres contratos, respecto de los cuales sólo uno reviste el carácter de contrato general de construcción, entendiéndose por tal aquel contrato que, incluyendo dos o más especialidades, tiene por finalidad la construcción de una obra civil nueva. Sin embargo, dicho contrato fue pactado bajo la modalidad de suma alzada, razón por cual quien encarga la obra no puede entenderse que reviste la calidad de empresa constructora, para efectos del Art. 2°, N° 1 y N° 3, del D.L. N° 825.
-Respecto de los otros dos contratos, cabe manifestar que ninguno de ellos le otorga al FIP, la calidad de empresa constructora, toda vez que se trata de contratos de instalación o confección de especialidades y no contratos generales de construcción, los cuales además fueron pactados a suma alzada.
-En cuanto a la argumentación del contribuyente, en el sentido que al menos parte de la construcción fue ejecutada por administración, ya que el FIP compró los materiales para que un tercero efectuará el cierre perimetral de la obra, e intervino además en labores paisajísticas adquiriendo unas palmeras que plantó y posteriormente trasplantó a su lugar definitivo en la entrada del inmueble, cabe señalar que por la ejecución de dichas labores, no puede entenderse que el FIP asuma la calidad de empresa constructora, toda vez que con la realización de dichos trabajos no se construye ni siquiera en parte el inmueble objeto de la consulta, ya que ellos por sí solos no dan origen a la construcción de una obra civil nueva.
+El Art. 8°, letra g), del D.L. N° 825, grava con Impuesto al Valor Agregado "El arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de establecimientos de comercio".
+Del tenor de la norma legal, se desprende que el arrendamiento de bienes corporales inmuebles, sólo se afectará con Impuesto al Valor Agregado, cuando los inmuebles se entreguen en arrendamiento provistos de muebles, o bien cuenten con instalaciones que permitan el ejercicio de una actividad industrial o comercial.
+Al respecto, este Servicio ha señalado en diversos pronunciamientos , que la procedencia del gravamen no se encuentra condicionada a que se realice efectivamente una actividad comercial o industrial, sino solamente a que las instalaciones con que cuente dicho inmueble permitan la realización de dicha actividad, aunque en la práctica ésta no se realice.
+Por su parte, para determinar si la actividad que permite realizar las instalaciones con que cuente un inmueble arrendado es de carácter comercial, ha de establecerse si ella corresponde al desarrollo de cualquiera de los actos de comercio enumerados en el artículo 3°, del Código de Comercio.
+A su vez, para determinar si esa actividad es de carácter industrial ha de estarse a la definición contenida en el Art. 6°, del D.S. de Hacienda N° 55, de 1977, que contiene el Reglamento de la Ley sobre Impuesto al Valor Agregado.
+Sobre el particular, esa Dirección Regional señala que la duda no está en si el inmueble arrendado cuenta o no con instalaciones, sino que si éstas permiten o no la realización de una actividad industrial o comercial, mencionando puntualmente que el inmueble estaría destinado a la producción lechera, actividad que ha incorporado técnicas de mecanización y tecnología para la ordeña y obtención de leche, lo que implica instalaciones, maquinarias, estanques, refrigeración, etc.
+Sin embargo, del inventario de bienes, contenido en la cláusula décima del contrato, transcrita en los antecedentes, no se advierten las instalaciones antes mencionadas, que permitan el ejercicio de una actividad industrial como es la producción lechera, aun cuando en la cláusula sexta se declara que el predio objeto del contrato se destinará única y exclusivamente a la actividad del rubro lechero-ganadero.
 III.- CONCLUSIÓN:
 
-Del análisis precedente se concluye que el Fondo de Inversión Privado XXX, no puede ser considerado como empresa constructora para efectos del Art. 2°, N° 1 y N° 3, del D.L. N° 825, de 1974, ya que éste no construyó ni siquiera en parte el inmueble bajo análisis, el cual fue encomendado construir mediante un contrato de construcción a suma alzada.
-Por la misma razón, esto es, por carecer el FIP de la calidad de vendedor requerida en el Art. 2°, N°3, del D.L. N° 825, para que se configure el hecho gravado, la venta que éste efectúe a terceros de los pisos u oficinas ubicados en el inmueble, no se encuentra afecta a IVA.
-Cabe hacer presente que conforme a lo dispuesto en el Art. 23°, N°2, del D.L. N° 825, no procederá el uso como crédito fiscal del impuesto soportado en la adquisición de bienes, ni en la contratación de servicios, entre ellos, los contratos suscritos para la construcción del inmueble, en la medida que en el período en que se soportó dicho impuesto, se hubiesen realizado sólo operaciones exentas o no gravadas, o bien si en el primer período de operaciones, posterior a estos hechos, estas operaciones resultaron ser no gravadas o exentas.
-Sin perjuicio de lo anterior, no procede que el contribuyente solicite devolución en virtud del Art. 27 bis, del D.L. N° 825, si conforme a lo señalado en el párrafo precedente, existieran remanentes de crédito fiscal originados en la construcción de dicho inmueble, ya que de acuerdo a lo manifestado en los antecedentes, el inmueble habría sido construido con la intención de venderlo, por lo tanto no calificaría como un bien del activo fijo para efectos de solicitar el beneficio en comento.
+Del análisis de los antecedentes, fundamentalmente del inventario de bienes incluido en el contrato de arrendamiento adjunto, se estima que en el caso puntual del inmueble singularizado en el referido contrato, éste no cuenta con instalaciones que permitan el ejercicio de una actividad industrial, como requiere el Art. 8°, letra g), para afectar con IVA su arrendamiento.
+Distinta es la situación si en la práctica o en otros casos consultados, el inmueble cuenta con instalaciones como las mencionados en su presentación, esto es, sistemas de refrigeración o bien pasteurización u otras instalaciones, que permitan no sólo la extracción de la leche, sino que además permitan realizar algún otro proceso, de aquellos definidos como industriales en el concepto contenido en el Art. 6°, del D.S. de Hacienda N° 55, de 1975
+Por otra parte, cabe aclarar que en el caso de arrendamiento de inmuebles rurales, no resulta incompatible el concepto de actividad agrícola desarrollada por el arrendatario, con el hecho de que los bienes incluidos en el arrendamiento y que utilice en la realización de sus actividades agrícolas, cumplan a su vez con la condición de permitir la realización de una actividad industrial, a la luz de la definición contenida en el Art. 6°, del D.S. de Hacienda N° 55, de 1975, para efectos de gravar su arrendamiento con Impuesto al Valor Agregado.
+En este contexto, si al analizar la procedencia de afectar con IVA el arrendamiento de un inmueble rural se determina que éste se encuentra gravado con el tributo en comento, es plenamente aplicable la rebaja de la base imponible contenida en el Art. 17°, del D.L. N° 825, siempre que el arrendador sea el propietario del inmueble, según lo instruido en Circular N° 111, de 29/8/1975, en que se señaló que la rebaja sólo puede ser hecha por los propietarios de los inmuebles arrendados.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 3025, de 06.11.2012
+Oficio N° 3153, de 15.11.2012
 
 Subdirección Normativa
 

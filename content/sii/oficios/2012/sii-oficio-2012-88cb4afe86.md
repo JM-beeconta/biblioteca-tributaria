@@ -11,7 +11,7 @@
 
 ## Resumen
 
-yle='margin-top:0px;margin-bottom:5px;text-align:justify;'>Tratamiento tributario del excedente originado al transferir los fondos de la cuenta de capitalización individual a la institución de régimen previsional antiguo a la cual el interesado se incorpore, con motivo de la desafiliación del sistema de pensiones, de acuerdo con el artículo 1°, la Ley 18.225. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31° N°4 &ndash; D.L. N° 1089, de 1975 &ndash; D.S. N° 70 de 2007 &ndash; Oficio 264 de 2006. (Ord.…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31° N°4 &ndash; D.L. N° 1089, de 1975 &ndash; D.S. N° 70 de 2007 &ndash; Oficio 264 de 2006. (Ord. Nº 2984, de 31-10-2012) |
 
 ## Referencias detectadas
 

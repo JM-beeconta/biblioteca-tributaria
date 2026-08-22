@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1042
 - Año: 2011
-- Fecha: 2011-10-14
+- Fecha: 2011-09-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2011/ja2050.htm
 - Hash SHA-256: a12d6887f282f6e7109cb003d60b66c4397767d608636cf377a2435d1ce553fe
 
 ## Resumen
 
-ash; Oficio N° 1694, de 2010. (Ord. Nº 2370, de 14-10-2011) | Word Devolución del Impuesto al Valor Agregado en virtud de exención establecida en el Decreto N° 2.940 de 1965, del Ministerio de Hacienda. Alcances del Oficio N° 1694 de 2010. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Ley N° 20.179, Art. 33°, Art. 31° &ndash; . (Ord. Nº 2050, de 01-09-2011) | Word Impuesto al Valor Agregado que afecta a la comisión cobrada por el servicio de garantía o afianzamiento y el pr…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Ley N° 20.179, Art. 33°, Art. 31° &ndash; . (Ord. Nº 2050, de 01-09-2011) |
 
 ## Referencias detectadas
 

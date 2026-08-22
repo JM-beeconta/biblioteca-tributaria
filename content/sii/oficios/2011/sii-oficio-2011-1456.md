@@ -6,48 +6,46 @@
 - Año: 2011
 - Fecha: 2011-05-31
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja1296.htm
-- Hash SHA-256: 662a6a6513d3559555c54d5bdff00064f3c99f3f3500d3a8d597742c7591f4b7
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja1297.htm
+- Hash SHA-256: 266b94fe1e8aae7b8dea3ff1f959c28b025583a51f3c748edfaa5d2c70220d3e
 
 ## Resumen
 
-68 &ndash; . (Ord. Nº 1297, de 31-05-2011) | Word Situación tributaria de indemnización compensatoria pagada a trabajadores contratados a plazo fijo, en relación a lo dispuesto en la Ley sobre Impuesto a la Renta (LIR) Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N° 5 y N°11 &ndash; Código Civil &ndash; Ley N° 19.418, Sobre Juntas de Vecinos y demás Organizaciones, Art. 29 y 33 &ndash; Decreto Supremo N° 110, de Justicia, de 1979, Sobre Reglamento de Concesión de Personalidad Jurídica &ndash; Circ…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42, N° 1 y 74 N° 1 &ndash; Código del Trabajo, Art. 161 y 168 &ndash; . (Ord. Nº 1297, de 31-05-2011) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"oficio","number":1456,"year":1985}
+- {"type":"articulo","law":"LIR","article":"42 N"}
+- {"type":"articulo","law":"LIR","article":"43"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N° 5 Y 11 – CÓDIGO CIVIL – LEY N° 19.418, SOBRE JUNTAS DE VECINOS Y DEMÁS ORGANIZACIONES, ART. 29 Y 33 – DECRETO SUPREMO N° 110, DE JUSTICIA, DE 1979, SOBRE REGLAMENTO DE CONCESIÓN DE PERSONALIDAD JURÍDICA – CIRCULAR 77, DE 1980 (ORD. N°1296, DE 31.05.2011)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N° 1 Y 74 N° 1 – CÓDIGO DEL TRABAJO, ART. 161 Y 168 – OFICIO N° 1456, DE 1985 (ORD. N°1297, DE 31.05.2011)
 
-SOCIEDAD ANÓNIMA CERRADA – APORTE DE ACCIONES – DISOLUCIÓN DE ORGANIZACIÓN COMUNITARIA FUNCIONAL – CENTRO DE PADRES Y APODERADOS – TRANSFERENCIA DE PATRIMONIO – TRÁMITE DE INSINUACIÓN – CONTINUADORA – CORPORACIÓN EN FORMACIÓN
+INDEMNIZACIÓN COMPENSATORIA – TÉRMINO ANTICIPADO DE CONTRATO DE TRABAJO – INDEMNIZACIÓN CONVENCIONAL – PERIODOS DISTINTOS DE UN MES – TRIBUTACIÓN PROPORCIONAL – RETENCIÓN DEL IMPUESTO
 
-I.- ANTECEDENTES.
-
-Plantea que su cliente, un centro de padres y apoderados constituido de conformidad a la Ley N°19.418, sobre Juntas de Vecinos y demás Organizaciones Comunitarias, posee un patrimonio conformado por aportes que los socios han efectuado y por acciones de una sociedad anónima cerrada adquiridas a título gratuito, correspondientes a la sociedad educacional que administra el colegio.
-
-Agrega que la intención de los asociados es constituirse como una corporación de conformidad a las reglas del Título XXXIII, del Libro I, del Código Civil, y para ello se han reformado los estatutos del centro de padres, de tal modo que en conformidad al artículo 33 de la Ley N°19.418, sobre Juntas de Vecinos y demás Organizaciones Comunitarias, su patrimonio pase íntegramente a una corporación que se encuentra en la actualidad en trámite de constitución. En mérito a ello, consulta:
-
-a) Si la disolución de la organización comunitaria servirá como título suficiente para transferir el patrimonio a la corporación que se constituirá;
-
-b) En caso que la disolución no sirviera de título traslaticio de dominio, si puede el centro de padres donar íntegramente su patrimonio a la nueva corporación. En este caso, consulta si dicha donación se encuentra sujeta al trámite de insinuación o bien se aplica por extensión la norma del artículo 29 de la Ley N°19.418; y,
-
-c) Si constituyen renta los bienes que adquiera la corporación en calidad de continuadora del centro de padres constituido como organización comunitaria, o, por el contrario, se entiende que son ingresos no constitutivos de renta de acuerdo al artículo 17, N° 11, de la Ley sobre Impuesto a la Renta (LIR).
+I.- ANTECEDENTES. Señala que el contrato a plazo fijo otorga cierto fuero o inamovilidad al trabajador, toda vez que sus funciones deben prolongarse durante todo el tiempo acordado, encontrándose imposibilitado el empleador de ponerle fin, a menos que el trabajador incurra en una causal de término atribuida a su comportamiento laboral.
+Citando Jurisprudencia Judicial, afirma que si el contrato termina por una causal no imputable al trabajador, por ejemplo necesidades de la empresa , el empleador estará obligado a indemnizar al trabajador por las remuneraciones que le hubiere tocado percibir hasta el término del plazo convenido.
+Al respecto, solicita aclarar lo siguiente:
+i) La naturaleza jurídica que tiene la indemnización compensatoria derivada de la terminación anticipada del contrato de trabajo estipulado a plazo fijo;
+ii) Si esta indemnización califica o no como un ingreso afecto a impuesto a la renta, y
+iii) Si fuere considerado como un ingreso gravado con el impuesto a la renta, a quién le toca efectuar la retención y pago de dicho impuesto.
 II.- ANÁLISIS.
-En relación con las consultas, procede señalar que las dos primeras no son de la competencia de este Servicio, y en lo que respecta a la restante, cabe recordar que el artículo 33 de la Ley N°19.418, sobre Juntas de Vecinos y demás Organizaciones Comunitarias, contenido en el decreto supremo N°58, del Ministerio del Interior, de 20 de marzo de 1997, preceptúa que en caso de disolución, el patrimonio de cada junta de vecinos y de las demás organizaciones comunitarias se aplicará a los fines que determinen los estatutos, y en ningún caso tales bienes podrán pasar al dominio de alguno de sus afiliados.
-De este modo, si en virtud de una modificación de sus estatutos, un centro de padres constituido conforme a las disposiciones de la Ley N°19.418, decide designar como beneficiario de su patrimonio, luego de producida su disolución, a una corporación en formación, y a la cual pertenecerán los mismos integrantes, la que se organizará según las normas del Título XXXIII, del Libro I, del Código Civil, debe reconocerse que ello importa una adquisición de bienes para la referida corporación.
-
-Ahora bien, sin perjuicio de reconocer que se produce un traspaso de bienes, no se advierte que la corporación que nacerá a la vida jurídica experimente un incremento patrimonial que deba gravarse con impuestos a la renta, ello porque se trata del capital de la misma, tal como acontece con los aportes recibidos por las sociedades de parte de sus socios, los cuales no son constitutivos de renta para ellas en virtud del N°5, del artículo 17, de la LIR, teniendo presente que los bienes recibidos por la corporación continúan radicados en el patrimonio de una entidad jurídica sin fines de lucro, sin tener como destino definitivo el patrimonio de algún integrante de la misma, dando estricto cumplimiento al artículo 549 del Código Civil, que dispone que lo que pertenece a una corporación, no pertenece ni en todo ni en parte a ninguna de los individuos que la componen.
-
-III.- CONCLUSIÓN.
-Los bienes que una corporación reciba como aportes en su constitución, y que provengan de una organización comunitaria funcional regida por la Ley N°19.418 que se disuelve, ello por disposición expresa de sus estatutos, quedan al margen de la tributación establecida en la LIR, en tanto integren la nómina de bienes que garantizan el cumplimiento de sus fines exigida por el artículo 7° del decreto supremo 110, de Justicia, de 1979, sobre Reglamento de Concesión de Personalidad Jurídica, como requisito previo para su constitución, es decir, por formar parte del capital de la misma al momento de su constitución.
+En el evento que un trabajador fuere contratado a plazo fijo y que el empleador prescindiere de sus servicios antes del vencimiento del mismo, por voluntad unilateral de este último, se vulnera la decisión de ambas partes, por lo que el trabajador tendría derecho al pago de las remuneraciones pactadas por todo el tiempo convenido, a título de indemnización de lucro cesante, ya que por un hecho que no le es imputable ha dejado de percibirlas.
+Dicha indemnización es otorgada en carácter de compensatoria por el despido anticipado del trabajador, motivo por el cual no se sustenta en el artículo 168 del Código del Trabajo, referido al caso del despido injustificado, sino que en la infracción a la ley del contrato, al darse por finalizada en forma anticipada, sin razón que la justifique, la relación contractual laboral a plazo fijo pactada.
+III.- CONCLUSIONES.
+Para determinar el tratamiento tributario que corresponde aplicar a la indemnización compensatoria pagada por término anticipado de un contrato de trabajo a plazo fijo, es preciso establecer previamente qué naturaleza jurídica reviste dicha compensación frente de la LIR.
+Conforme a lo señalado en el punto anterior, se concluye que la compensación en referencia es una indemnización del lucro cesante, ya que tiene por objeto el pago de la renta que se habría percibido de haberse cumplido el plazo estipulado por las partes; y al no encontrarse liberada de tributación, constituye renta, la que debe gravarse con los impuestos de la Ley del ramo atendiendo al tipo de renta que la indemnización viene a reemplazar.
+Al tratarse de una indemnización de carácter contractual, y basado en el hecho que la indemnización en cuestión sólo tiene por objeto el pago de la remuneración que habría percibido el trabajador de haberse cumplido el plazo pactado, se informa que está afecta al impuesto aplicable a la renta que se sustituye con esta indemnización, esto es, el Impuesto Único de Segunda Categoría, previsto en el artículo 42 N° 1, de la LIR.
+Como ha sido sostenido por este Servicio en Oficio N° 1.456, de 1985, atendido a que las rentas del trabajo pagadas a través de la citada indemnización, corresponden a períodos distintos de un mes, deben tributar aplicando en forma proporcional la escala de tasas del artículo 43, de la LIR, en conformidad a lo preceptuado en el inciso 1°, del artículo 45, del mismo texto legal, esto es, aplicando una tabla de cálculo de una extensión igual a los períodos a que corresponda la indemnización.
+Conforme a las reglas generales previstas en la LIR, y particularmente lo dispuesto en el N° 1, del artículo 74, de este texto legal, se deduce que la persona obligada a efectuar la retención de impuestos es el empleador, ya que es él quien efectúa jurídicamente el pago de la remuneración.
 
 MARIO VILA FERNÁNDEZ
 
 DIRECTOR SUBROGANTE
 
-Oficio N° 1296, de 31.05.2011
+Oficio N° 1297, de 31.05.2011
 
 Subdirección Normativa
 

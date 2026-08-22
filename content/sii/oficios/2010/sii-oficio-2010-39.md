@@ -6,50 +6,43 @@
 - Año: 2010
 - Fecha: 2010-01-14
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja2323.htm
-- Hash SHA-256: 0b98976c91b0a11535155613e72ccd56c78e8c07303dba56a722cf850aa8e887
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja2324.htm
+- Hash SHA-256: 5e87fcfae2e48cf7e00df8273324d4eaeab595bddbaa819632d62845e40dfdaf
 
 ## Resumen
 
->RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; LEY N° 19.420, DE 1995, ART. 1° &ndash; CIRCULAR N° 50, DE 1995 &ndash; .01.2010. (Ord. Nº 2324, de 14-12-2010) | Word Requisitos que se deben cumplir para acogerse a los beneficios tributarios contenidos en la Ley N°19.420, que establece incentivos económico para las provincias de Arica y Parinacota. RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; D.F.L. N° 5, DE 2004, ART. 68°, ART. 72°, ART. 94 &ndash; D.F.L. N° 4, DE 1959, SOBRE LEY GENERAL DE SERVICIO…
+RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; LEY N° 19.420, DE 1995, ART. 1° &ndash; CIRCULAR N° 50, DE 1995 &ndash; .01.2010. (Ord. Nº 2324, de 14-12-2010) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"circular","number":50,"year":1995}
+- {"type":"articulo","law":"LIR","article":"41"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – D.F.L. N° 5, DE 2004, ART. 68°, ART. 72°, ART. 94 – D.F.L. N° 4, DE 1959, SOBRE LEY GENERAL DE SERVICIOS ELÉCTRICOS, ART. 17° BIS. (ORD. N° 2323, DE 14.12.2010)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.420, DE 1995, ART. 1° – CIRCULAR N° 50, DE 1995 – OFICIO N° 39, DE 14.01.2010. (ORD. N° 2324, DE 14.12.2010)
 
-TRIBUTACIÓN DE COOPERATIVAS DE ABASTECIMIENTO Y DISTRIBUCIÓN DE DE ENERGÍA ELÉCTRICA – LAS COOPERATIVAS DE ABASTECIMIENTO Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA, ANTE LAS OBLIGACIONES CONTENIDAS EN LA LEY SOBRE IMPUESTO A LA RENTA, SON CONSIDERADAS SOCIEDADES ANÓNIMAS
+REQUISITOS QUE SE DEBEN CUMPLIR PARA ACOGERSE A LOS BENEFICIOS TRIBUTARIOS CONTENIDOS EN LA LEY N° 19.420, QUE ESTABLECE INCENTIVOS ECONÓMICOS PARA LAS PROVINCIAS DE ARICA Y PARINACOTA.
 
-TTT de esa Superintendencia, ha requerido un pronunciamiento de este Servicio respecto a la forma en que deben tributar las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica.
-
-I.- ANTECEDENTES. Se informa que esa Superintendencia recibió a través del Ordinario indicado en el antecedente, la solicitud de un contribuyente domiciliado en Arica, preguntando si la Cooperativa de Abastecimiento de Energía Eléctrica de XXX, YYY, está registrada en el Departamento de Cooperativas del Ministerio de Economía, Fomento y Turismo, y si está registrada como concesionaria eléctrica, desde qué fecha lo está y, en el evento que esté registrada como concesionaria eléctrica, si debe tributar como cualquier empresa eléctrica de distribución.
-
-Se agrega que las dos primeras interrogantes han sido respondidas por la Subsecretaría de Economía Fomento y Reconstrucción, y siendo la última de competencia de este Servicio, adjunto remite la solicitud de información, presentada en conformidad a lo dispuesto en el artículo 13, de la Ley 20.285, sobre Acceso a la Información Pública.
-
-En tal sentido, es preciso considerar que el Sr. Subsecretario de Economía y de Empresas de Menor Tamaño, en relación con la consulta, informa que como cooperativa, dicha entidad si se encuentra inscrita en los Registro de Cooperativas Vigentes de ese Ministerio. Sin embargo, el referido Registro dice relación con el cumplimiento de los requisitos para constituirse como tal y no en relación a los bienes que venda o a los servicios que preste, en el caso concreto, con su calidad de concesionaria o no de energía eléctrica.
-II.- ANÁLISIS.
-El Título V, del Capítulo II, de la Ley General de Cooperativas, contenida en el decreto con fuerza de ley N° 5, de 2004, del Ministerio de Economía, Fomento y Turismo, en su artículo 94, preceptúa que podrán constituirse cooperativas especiales de abastecimiento de energía eléctrica con las finalidades que en lo pertinente se establecen en el artículo 68, y en el N° 2, del Título III del Capítulo II de esa Ley.
-
-En relación con ello, el artículo 72 dispone que son cooperativas de abastecimiento y distribución de energía eléctrica las cooperativas de servicio que se constituyan con el objeto de distribuir energía eléctrica. En cuanto a las operaciones del giro, se aplicarán a éstas cooperativas las normas del decreto con fuerza de ley N° 1, del Ministerio de Minería, de 1982, sin perjuicio de las disposiciones contenidas en ese texto.
-
-Este último texto, que aprueba modificaciones al decreto con fuerza de ley N°4, de 1959, sobre Ley General de Servicios Eléctricos, dispone en su artículo 17 bis, que las cooperativas de abastecimiento de energía eléctrica que operen como concesionarias de servicio público de distribución, podrán distribuir sin limitaciones de volumen electricidad a quienes no tengan la calidad de socios, en su zona de concesión, agregando que en la explotación de tales concesiones, ellas no gozarán de franquicias tributarias o de cualquier otra índole que tuvieren por su condición de cooperativas.
-
-Por último, esta clase de entidades, tratadas en el Título V, del Capítulo II, de la Ley General de Cooperativas, según su artículo 100, estarán sometidas al régimen tributario de las sociedades anónimas y los socios al de los accionistas, considerando para estos efectos el remanente como utilidad del ejercicio.
-
-III.- CONCLUSIÓN.
-Las cooperativas de abastecimiento y distribución de energía eléctrica, ante las obligaciones contenidas en la Ley sobre Impuesto a la Renta, son consideradas sociedades anónimas, siendo aplicable la tributación de este tipo de personas jurídicas, y sus socios deben ser considerados accionistas de las mismas, sin que corresponda distinguir para efectos de dicha ley si operan o no, como concesionarias de servicio público de distribución y distribuyen electricidad a sus socios o terceros, de acuerdo a la Ley General de Servicios Eléctricos.
-
-Finalmente, cabe señalar que si están autorizadas para operar como concesionarias de servicios eléctricos y sólo distribuyen electricidad a sus socios, rigen para ellas los beneficios previstos en el artículo 49, de la Ley General de Cooperativas.
+La Dirección Regional Arica remite el Oficio N°xxx, de xx.xx.2010, de la Contraloría General de la República, en el que se expone que el contribuyente AAA, efectuó una presentación a ésta Dirección Nacional, sobre la cual aún no ha tenido respuesta. I.- ANTECEDENTES.
+El contribuyente en su presentación señala que para cobrar el beneficio de la Ley Arica entregó la documentación suficiente a esa Regional; sin embargo, el beneficio fue rechazado por Oficio N°xxx de fecha xx de xx de 2007, presentando una apelación, la que fue revisada y aprobada verbalmente. No obstante ello, la apelación oficial fue rechazada nuevamente, argumentando situaciones que se contradicen con la Ley, como el que para recibir el beneficio el inversionista debía construir el edificio de oficinas en forma directa, y no por suma alzada como en su caso, lo cual a su juicio es contrario a lo que dice la ley.
+Agrega, que la otra causa de rechazo es porque supuestamente se construyó un Hospital o Clínica, pero los documentos que adjuntó aclaraban que se trata de un edificio de oficinas acogido a la Ley de Copropiedad Inmobiliaria y que sigue siendo un edificio de Oficinas hasta la fecha. Además que es obvio que ese no es su giro, ya que sólo es constructora, no médico.
+En relación con lo anteriormente expuesto, solicita que se aclare si la Ley Arica está vigente y si en su caso le corresponde el beneficio.
+II.- ANALISIS.
+La Ley N°19.420, de 1995, establece una serie de incentivos para el desarrollo económico de las provincias de Arica y Parinacota, texto legal que actualmente se encuentra vigente.
+Ahora bien, conforme a lo establecido por los incisos 1° y 3° del artículo 1° de dicho texto legal, el crédito tributario que contiene la referida ley, beneficia a los contribuyentes de la Primera Categoría que declaren la renta efectiva en dicha categoría acreditada mediante una contabilidad completa, y procede respecto de las sumas que inviertan tales contribuyentes en bienes del activo inmovilizado que correspondan, entre otros, a construcciones de bienes raíces o de inmuebles destinados a los fines que señala dicha ley, que estén vinculados con la producción de bienes o a la prestación de servicios del giro o actividades del contribuyente, ya sea, construidos directamente por el contribuyente o por terceras personas por encargo expreso del contribuyente mediante contratos de construcción celebrados entre las partes, comprendiéndose aquí tanto los contratos por administración como por suma alzada, de conformidad con las instrucciones impartidas a través de la Circular N°50, de 1995.
+Por otra parte, y de acuerdo a lo dispuesto por el inciso cuarto del artículo 1° de la Ley N°19.420, también tendrán derecho al citado crédito los contribuyentes que inviertan en la construcción de edificaciones destinadas a oficinas o al uso habitacional (que incluyan o no locales comerciales, estacionamientos o bodegas), de más de 5 unidades, ubicadas en las áreas a que se refieren las letras a) y c) del artículo 19 de la citada ley, con una superficie construida no inferior a 1.000 m2, terminados de construir en el ejercicio; según su valor actualizado al término del ejercicio de conformidad con las normas del artículo 41 de la Ley sobre Impuesto a la Renta y antes de deducir las depreciaciones correspondientes.
+En relación con lo establecido por la norma legal antes indicada es necesario indicar que el contribuyente que se beneficia con el crédito tributario en cuestión, por las inversiones a que se refiere dicha norma, es la persona que invierte en la construcción de las edificaciones señaladas con las características descritas para su venta posterior, ya sea, que la construcción la haya efectuado directamente por cuenta propia o la haya encargado a un tercero, mediante un contrato de construcción por administración o por suma alzada, ya que el inciso cuarto establece expresamente que también tendrán derecho al crédito los contribuyente que inviertan en la construcción de las citadas edificaciones. Ahora bien, teniendo presente que en este caso el contribuyente que se beneficia con el crédito tributario es el que invierte en la construcción, el beneficio no procede respecto de las personas que adquieran los referidos bienes, atendido que la norma en cuestión señala que el beneficio podrá ser solicitado sólo una vez para el mismo inmueble. Cabe aclarar además, que al beneficiar la norma al contribuyente que invierte en la construcción, quien tendrá derecho al crédito en los casos en que la construcción se encargue a un tercero será el contribuyente que encarga la construcción y no aquel que la ejecuta en virtud de dicho encargo, pues es el primero quien invierte en la construcción y no este último.
+Por lo tanto, los contribuyentes que inviertan en la construcción de oficinas para su venta posterior, tendrán derecho al crédito tributario de la Ley Arica, siempre y cuando cumplan con los requisitos que exige dicha ley, esto es, que se trate de construcciones de más de 5 unidades ubicadas en las áreas a que se refieren las letras a) y c) del artículo 19 de la Ley N°19.420, con una superficie construida no inferior a 1000 m2 terminados de construir en el ejercicio comercial respectivo.
+III.- CONCLUSION.
+La consulta del ocurrente fue respondida a esa Dirección mediante Ordinario N°xx, de xx.xx.2010, el que, luego de efectuado un análisis a la normativa legal, remite los antecedentes con el objeto que en esa Dirección se dilucide en base a cuál norma del artículo 1° de la Ley N°19.420, de 1995, el contribuyente está invocando el crédito tributario en comento respecto de las inversiones realizadas, y se le aclare la procedencia o no de la referida franquicia tributaria, bajo el cumplimiento estricto de los requisitos que exige dicha normativa legal, comentada precedentemente.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 2323, de 14.12.2010
+Oficio N° 2324, de 14.12.2010
 
 Subdirección Normativa
 
-Dpto. de Impuestos Directos.
+Dpto. de Impuestos Directos

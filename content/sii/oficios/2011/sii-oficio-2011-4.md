@@ -6,64 +6,78 @@
 - Año: 2011
 - Fecha: 2011-04-01
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja726.htm
-- Hash SHA-256: d1cc0f4a3ccac5d1f73825e683aab3be5e9c3189aa10861f83caf4097526c910
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja727.htm
+- Hash SHA-256: 1533c38a7593e18ab1d8a67ccfccb93d80baef1be679373044e924cf455a0dbe
 
 ## Resumen
 
-ución Exenta N°36, de 2011- .279, de 1988. (Ord. Nº 727, de 01-04-2011) | Word Régimen tributario aplicable a contribuyentes extranjeros que operan con instrumentos derivados en Chile a través de una bolsa de comercio chilena. Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 42° bis &ndash; Decreto Ley N° 3.500, de 1980, Art. 20° &ndash; Código Tributario, Art. 3°Circular N° 63, de 2010. (Ord. Nº 726, de 01-04-2011) | Word Situación tributaria de ahorro previsional voluntario. Renta &ndash; Actual Ley Sob…
+Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 65°, N°1, Art. 58°, N°1 &ndash; Código Tributario, Art. 68° &ndash; Resolución Exenta N°36, de 2011- .279, de 1988. (Ord. Nº 727, de 01-04-2011) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":63,"year":2010}
-- {"type":"articulo","law":"LIR","article":"42 ter"}
-- {"type":"articulo","law":"LIR","article":"46"}
-- {"type":"articulo","law":"LIR","article":"42 bis"}
-- {"type":"articulo","law":"LIR","article":"42 ter y"}
-- {"type":"articulo","law":"LIR","article":"42 N"}
-- {"type":"articulo","law":"CT","article":"3"}
+- {"type":"oficio","number":4279,"year":1988}
+- {"type":"articulo","law":"LIR","article":"68 d"}
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIR","article":"65 N"}
+- {"type":"articulo","law":"CT","article":"68"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42° BIS – DECRETO LEY N° 3.500, DE 1980, ART. 20° – CÓDIGO TRIBUTARIO, ART. 3°CIRCULAR N° 63, DE 2010. (ORD. N° 726, DE 01.04.2011)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 65°, N°1, ART. 58°, N°1 – CÓDIGO TRIBUTARIO, ART. 68° – RESOLUCIÓN EXENTA N°36, DE 2011- OFICIO N° 4.279, DE 1988. (ORD. N° 727, DE 01.04.2011)
 
-SITUACIÓN TRIBUTARIA DE AHORRO PREVISIONAL VOLUNTARIO – REFORMAS INTRODUCIDAS POR LA LEY N° 20.455 – LOS DEPÓSITOS CONVENIDOS QUE SE SUJETAN AL TRATAMIENTO TRIBUTARIO ESTABLECIDO EN LA LIR, SON AQUELLOS EFECTIVAMENTE DEPOSITADOS A PARTIR DEL MES DE ENERO DEL 2011 – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO.
+RÉGIMEN TRIBUTARIO APLICABLE A CONTRIBUYENTES EXTRANJEROS QUE OPERAN CON INSTRUMENTOS DERIVADOS EN CHILE A TRAVÉS DE UNA BOLSA DE COMERCIO CHILENA.
 
-Se solicita un pronunciamiento sobre ciertas materias específicas que dicen relación con las modificaciones que la Ley N° 20.455, de 31.07.2010, incorporó a la Ley sobre Impuesto a la Renta (LIR) y al Decreto Ley N° 3.500, de 1980, ambas relacionadas con el tratamiento tributario de los depósitos convenidos del ahorro previsional voluntario (APV). I.- ANTECEDENTES.
-Señala que a través de algunas presentaciones se ha solicitado a esa Superintendencia un pronunciamiento sobre ciertas materias específicas de la Ley N° 20.455, que dicen relación con aspectos tributarios. Dichas materias son las siguientes:
-a) En primer término y respecto de las modificaciones introducidas al artículo 20 del D.L. N° 3.500 de 1980, y al artículo 42 ter de la LIR, como asimismo a la incorporación del nuevo artículo 42 quáter a este último cuerpo legal, se solicita aclaración respecto de la vigencia de la modificación que establece el tope máximo de depósitos convenidos exentos de impuesto a la renta, particularmente si la vigencia se aplica sobre los depósitos convenidos de acuerdo a la fecha en que fueron pactados o pagados.
-Señala que en atención a que el artículo décimo transitorio de la Ley N° 20.455 establece que las modificaciones introducidas al artículo 20 del D.L. N° 3.500 por el artículo 5° de la ley antes citada, comienzan a regir a contar del año calendario 2011, sin distinción alguna, en su opinión, los depósitos convenidos que quedan sometidos a las nuevas disposiciones legales son aquellos que efectivamente se efectúen o enteren a contar del 1° de enero de 2011, independientemente que éstos se hayan pactado con anterioridad a dicha fecha. Plantear un criterio distinto al señalado, podría llevar a la postergación indefinida de las modificaciones introducidas en todos aquellos casos en que los empleadores dejen pactado antes del 1° de enero de 2011 el pago de depósitos convenidos a realizarse en años siguientes, distorsionando de esta forma el espíritu de la Ley N°20.455, que modificó diversos cuerpos legales para obtener recursos destinados al financiamiento de la reconstrucción del país.
-b) Por otra parte, señala que se ha consultado a esa Superintendencia sobre el momento en que debe pagarse el impuesto por el exceso de los depósitos convenidos por sobre las 900 UF, es decir, si dicho impuesto debe pagarse en el mismo mes en que se enteró el depósito convenido o bien, mediante la declaración anual del Impuesto Global Complementario.
-Al respecto, entiende que de acuerdo a lo dispuesto por este Servicio mediante Circular N° 63 de 30 de septiembre de 2010, la aplicación del Impuesto Único de Segunda Categoría o del Impuesto Global Complementario, depende de las características particulares de cada trabajador. Esto es, si el trabajador dentro del año en que se efectuaron los depósitos convenidos, sólo recibió rentas afectas al Impuesto Único de Segunda Categoría, el referido exceso debe tributar con dicho tributo, sujetándose para estos efectos al mecanismo establecido en el inciso final del artículo 46 de la LIR. En el caso que el trabajador dentro del año en que se efectuaron los depósitos convenidos, además de las rentas afectas al Impuesto Único de Segunda Categoría, percibió otras rentas afectas al Impuesto Global Complementaría, el referido exceso quedará afecto a este último tributo, para lo cual debe adicionar el exceso determinado a su renta bruta global. Al respecto solicita un pronunciamiento que confirme o rectifique tal criterio.
-c) Finalmente, señala que se les ha consultado respecto del orden de imputación de las cotizaciones voluntarias o depósitos de ahorro previsional voluntario acogidos tanto al régimen tributario establecido en el inciso 1° del artículo 42 bis de la LIR como al inciso 2° de dicho artículo, cuando éstos en conjunto exceden el límite anual de 600 UF.
-Al respecto, en opinión de esa Superintendencia el orden de imputación de dichos ahorros previsionales acogidos a uno u otro régimen tributario debería ser determinado por este Servicio, acorde a la tasa de impuesto que los afecte.
-Una segunda alternativa, sería que se imputen en primer lugar las cotizaciones voluntarias o depósitos de ahorro previsional voluntario acogidos al inciso 1° del artículo 42 bis de la LIR, priorizando aquellos efectuados mediante descuento de la remuneración del trabajador por parte del empleador, toda vez que al momento de efectuar el depósito en la respectiva entidad, la rebaja contra el Impuesto de Segunda Categoría ya fue efectuada por dicho empleador. Luego, debería imputarse el APV acogido al citado inciso 1° del artículo 42 bis que se haya realizado en forma directa en la AFP o institución autorizada, de acuerdo al orden cronológico en que se hayan realizado.
-Atendido que la especialidad de todas las materias consultadas son de competencia de este Servicio, solicita un pronunciamiento al respecto.
+I. ANTECEDENTES
 
-II.- ANÁLISIS.
+Un agente de valores al cual se encuentra asesorando (en adelante también la "Compañía"), es una institución intermediaria de las referidas en la Resolución Exenta N°20/01, quien asume ciertas responsabilidades relativas al cumplimiento del contribuyente extranjero, por lo que resulta de su interés saber si son correctos los criterios que expone, respecto de las operaciones que planea realizar, relativas a la celebración de contratos de derivados entre una parte que tiene domicilio o residencia en Chile y otra que es un banco extranjero sin domicilio ni residencia en el país.
 
-Tal como se señala en la Circular N° 63/2010, la Ley N°20.455, no establece una vigencia expresa respecto de la modificación al artículo 42 ter y de la incorporación del nuevo artículo 42 quáter, ambos de la LIR. De acuerdo con ello se señala en dicho instructivo, que conforme a lo dispuesto por el artículo 3, del Código Tributario, y dado que estas disposiciones legales modifican elementos que sirven de base para la determinación del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario, tributo este último de carácter anual, no cabe sino concluir que tales modificaciones entran en vigencia el día 1° de enero de 2011.
+La parte con domicilio y residencia en Chile sería la Cámara de Compensación de la Bolsa de Comercio de Santiago, la cual no opera como intermediaria sino como parte directamente obligada para con el banco extranjero. Por su parte, los bancos extranjeros actuarían representados por una Agencia de Valores constituida en Chile, la cual centralizaría sus operaciones. Dichos bancos obtendrían rentas únicamente de los instrumentos derivados indicados, y por tanto, cumplirían con los requisitos para acogerse a la Resolución Exenta N°43/01, con lo cual también podrían ampararse en las Resoluciones Exentas N°20/01 y N°5412/00.
 
-Señala además la Circular, que el artículo décimo transitorio establece que las modificaciones que el artículo 5° incorporó al artículo 20, del D. L. N° 3.500, de 1980, comenzarán a regir a partir del año calendario 2011.
+Explica que tratándose de instrumentos derivados contratados con la Cámara de Compensación, siempre se cumple con la condición de que el contrato no sea especulativo para la parte chilena, con lo cual, los pagos que la Cámara de Compensación efectúe a la contraparte extranjera no estarían sujetos a impuesto adicional.
 
-Concluye el instructivo que todas las modificaciones que se refieren a la nueva tributación aplicable a los depósitos convenidos y sus retiros, rigen todas a partir del año calendario 2011.
-De acuerdo con ello, esta Dirección comparte el criterio que expresa, respecto a que el nuevo tratamiento tributario de los depósitos convenidos, rige respecto de aquellos efectuados o depositados a partir de enero del 2011, independiente del período al cual correspondan y de la oportunidad en que se hayan pactado.
-En lo que se refiere a la tributación del exceso de los depósitos convenidos por sobre el monto de 900 UF que establecen las normas en comento cabe expresar que en tal caso dicho exceso deberá asignarse, en los términos dispuestos por el artículo 46 de la LIR, a las rentas correspondientes al período del devengo de los depósitos convenidos, ya sea en los últimos 12 meses o en el número de meses en que efectivamente se haya producido dicho devengo.
-Si el exceso se ha producido por depósitos efectuados por un mismo empleador, éste deberá practicar la retención de Impuesto Único de Segunda Categoría, en los términos dispuestos por el inciso 2°, del artículo 46, de la LIR. Al respecto, cabe señalar que la remisión que el tercer párrafo de la letra a), del punto E-2.- de la Circular 63, hace al inciso final del artículo 46, se refiere tal como el texto de esta norma indica, al caso en que el exceso provenga de depósitos convenidos que puedan ser calificados como remuneraciones voluntarias.
-Si el referido exceso se ha producido por depósitos convenidos efectuados por más de un empleador, y ninguno de ellos ha excedido individualmente el límite de 900 UF, no existirá obligación de retener respecto de ninguno de los empleadores. En esta situación, la determinación del exceso y su tributación corresponde al trabajador. Para tales efectos el trabajador deberá incorporar dicho excesos en la renta bruta global de su declaración anual de impuesto a la renta (F22), como una renta del artículo 42 N°1, de la LIR, sin crédito por concepto de dicho impuesto.
-Sobre su última consulta cabe expresar que el artículo 42 bis de la LIR, contempla dos modalidades para hacer uso del beneficio tributario que dicha norma establece. La primera de ellas establecida en el N° 1 del inciso 1° del artículo 42 bis que permite rebajar mensualmente de la base imponible del Impuesto Único de Segunda Categoría el monto del depósito de ahorro previsional voluntario, cotización voluntaria y ahorro previsional voluntario colectivo, hasta por un monto mensual equivalente a 50 U.F., en los casos en que dichos ahorros hayan sido efectuados mediante el descuento de su remuneración por parte del empleador.
-La segunda modalidad, establecida en el número 2 de esta misma disposición, permite que los trabajadores puedan reliquidar, de conformidad al procedimiento establecido en el artículo 47, el Impuesto Único de Segunda Categoría, rebajando de la base imponible el monto del depósito de ahorro previsional voluntario, cotización voluntaria y ahorro previsional voluntario colectivo, aplicable en el caso en que los ahorros los hubieren efectuado directamente en una institución autorizada de las definidas en la letra p) del artículo 98 del D.L. N°3.500, de 1980, o en una administradora de fondos de pensiones, hasta por un monto total máximo anual equivalente a la diferencia entre 600 U.F., según el valor de ésta al 31 de diciembre del año respectivo, menos el monto total de los ahorros efectuados bajo la modalidad indicada en el párrafo anterior.
-Ahora bien, en el caso que plantea, esto es, si un trabajador utiliza, simultáneamente en un año, las dos modalidades precedentemente detalladas y la suma de sus ahorros anuales excede el límite anual de 600 UF, cabe expresar que las propias normas en comento establecen que en tal situación, los ahorros efectuados directamente por el trabajador (segunda modalidad), sólo podrán acogerse al beneficio por la diferencia entre 600 U.F., menos el monto total de los ahorros efectuados mediante el descuento practicado por su empleador (primera modalidad).
-III.- CONCLUSIONES.
-a) Los depósitos convenidos que se sujetan al tratamiento tributario establecido en la LIR, luego de las modificaciones incorporadas a dicho texto legal por la Ley N° 20.455, de 2010, son aquellos efectivamente depositados a partir del mes de enero del 2011.
-b) El Impuesto Único de Segunda Categoría o el Impuesto Global Complementario que en conformidad a lo dispuesto por el artículo 20 del D.L. N°3.500, afecta a la parte que exceda el monto anual de 900 U.F. de depósitos convenidos, es el que se detalla en el análisis anterior. Sin perjuicio de ello, cabe informar que este Servicio a través de un complemento de la Circular N° 63 de 2010, entregará mayor detalle sobre la forma de declarar dichos impuestos.
-c) En cuanto a la forma de hacer uso del beneficio establecido en el artículo 42 bis de la LIR, en el caso en que un trabajador utilice, simultáneamente en un año, las dos modalidades de ahorro, vale decir, a través de su empleador y efectuadas directamente por el trabajador, y en el caso en que la suma de sus ahorros anuales exceda el límite anual de 600 UF, cabe expresar que de las propias normas en comento se desprende claramente que en tal situación, se imputa en primer lugar el APV efectuado a través del empleador y en segundo lugar las efectuadas directamente por el trabajador.
+En efecto, indica, por disposición legal, la Cámara de Compensación está impedida de mantener "posiciones abiertas", esto es, especulativas. Si ha celebrado con un cliente un contrato de futuro referido a un determinado riesgo de fluctuación, tal contrato sólo puede persistir en la medida que al final del respectivo día, la Cámara cuente con la posibilidad de neutralizar el riesgo asumido, lo cual se consigue mediante un nuevo contrato de futuro celebrado con otro cliente referido a un riesgo inverso.
+
+Plantea que la conclusión común de los pronunciamientos anteriores de este Servicio en relación con el tratamiento tributario de las operaciones de derivados, es que no están afectos a impuesto adicional los pagos desde Chile al exterior que tengan por causa operaciones que no sean especulativas para la parte chilena del contrato.
+
+De acuerdo con ello, pretende confirmar si dicha conclusión se mantiene tratándose de las operaciones antes explicadas, y por tanto, se confirmen los siguientes criterios:
+
+a) Que bancos establecidos en el extranjero y que en Chile operen exclusivamente en instrumentos derivados podrán hacerlo nombrando a la "Compañía" o Agencia de Valores como custodio, y ésta, en su carácter de agente de valores, les verifica la identidad, obtiene RUT, centraliza sus operaciones, retiene los impuestos que procedan y lleva el libro autorizado por el Servicio de Impuestos Internos. Además, tales extranjeros quedan liberados de dar aviso de inicio de actividades, de llevar contabilidad y de declarar anualmente sus rentas.
+
+b) Que en relación con los pagos efectuados a los bancos extranjeros con motivo de la liquidación de los derivados celebrados en Chile y cuya contraparte es la Cámara de Compensación, la "Compañía" o Agencia de Valores no debe hacer retención de impuesto adicional.
+
+II. ANÁLISIS
+
+1.- En relación con el primer criterio que plantea, cabe señalar que de acuerdo con las facultades contenidas en el inciso 2° del Artículo 68 del Código Tributario, el N°1 del Artículo 65 y el inciso 2° del Artículo 68, ambos de la Ley sobre Impuesto a la Renta (LIR), este Servicio mediante Resolución Exenta N°36, de 2011, eximió de la obligación de dar inicio de actividades, llevar contabilidad y declarar sus rentas anualmente a los contribuyentes sin domicilio ni residencia en Chile cuyas rentas de fuente chilena provengan solamente de las inversiones u operaciones que indica dicha resolución y que obtengan un número de RUT mediante el procedimiento simplificado que regula la misma resolución, a través de las instituciones que operen en Chile como sus "agentes responsables para fines tributarios en Chile".
+
+Pueden acogerse a la Resolución N°36, de 2011, los inversionistas sin domicilio ni residencia en el país cuyas rentas de fuente chilena provengan solamente de las siguientes inversiones u operaciones, susceptibles de generar rentas de fuente chilena:
+
+a) Capitales mobiliarios, sea que las rentas respectivas provengan de su tenencia o enajenación, algunos de las cuales se describen a modo ejemplar en el Anexo N°1 de la misma Resolución, y
+
+b) Operaciones incluidas expresamente en el citado Anexo N°1.
+
+Entre las operaciones que enumera el Anexo N°1 de la Resolución N°36, de 2011, se encuentra la inversión en instrumentos derivados, esto es, los denominados forwards, futuros, swaps, y demás instrumentos que se deban reconocer como tales de acuerdo a normas legales vigentes o las dictadas, por la Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Banco Central de Chile, u otros organismos o entidades de derecho público con facultades de supervisión o fiscalización de la actividad financiera.
+
+2.- En cuanto a la segunda consulta, cabe señalar que este Servicio mediante Oficio N°4279, de 1988, sostuvo que en la medida que los contratos a futuro de cobertura de tasas de interés lo celebren deudores respecto de sus propios pasivos, las remesas o compensaciones que se produzcan no devengarán impuesto adicional puesto que tales remesas no constituyen remisión de utilidades ni se encuadran dentro de las remuneraciones afectas por disposición del artículo 59 de la LIR. Posteriormente, otros pronunciamientos, estimando que las transacciones planteadas eran similares a aquella descrita en el Oficio N°4279, de 1988, hicieron aplicable el mismo criterio.
+
+Ahora bien, de acuerdo con el artículo 154 de la Ley N°18.045, el objeto de la Cámara de Compensación es actuar como contraparte de todas las compras y ventas de contratos de futuro, de opciones de valores y de otros de similar naturaleza que les autorice la Superintendencia de Valores y Seguros, que se efectúen en la respectiva Bolsa de Comercio, a partir del registro de dichas operaciones en la mencionada Cámara.
+
+Agrega dicha norma que la Cámara administrará, controlará y liquidará las operaciones, posiciones abiertas, cuentas corrientes, márgenes y saldos disponibles que efectúen y mantengan clientes y corredores en estos mercados.
+
+III. CONCLUSIÓN
+
+1.- Los bancos extranjeros sin domicilio ni residencia en Chile a que se refiere su presentación, cuyas rentas de fuente chilena provengan solamente de la inversión en instrumentos derivados, podrán acogerse a lo dispuesto en la Resolución Exenta N°36, de 2011, dando estricto cumplimiento a los requisitos y procedimientos que ella establece. El texto de la citada resolución se encuentra publicado en el Sitio Web de este Servicio, www.sii.cl.
+
+Cabe además señalar que de acuerdo con lo establecido en el artículo 65 N°1 de la LIR, para los efectos de dicha ley, se entenderá que el inversionista no tiene un establecimiento permanente de aquellos a que se refiere el artículo 58 N°1 del mismo texto legal.
+
+2.- De conformidad con las normas que regulan las operaciones que se efectúan en la Cámara de Compensación de la Bolsa de Comercio de Santiago, se estima que las mismas no pueden ser consideradas de naturaleza especulativa para el deudor, que en este caso es la propia Cámara de Compensación, ya que ella actúa como parte directamente obligada en el contrato.
+
+Por tanto, el criterio contenido en el Oficio N°4279, de 1988, resulta aplicable a las operaciones con instrumentos derivados que describe en su presentación, y consecuentemente, los pagos efectuados a los bancos extranjeros con motivo de la liquidación de los derivados celebrados en Chile y cuya contraparte es la Cámara de Compensación, no se afectarán con Impuesto Adicional.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 726, de 01.04.2011
+Oficio N° 727, de 01.04.2011
 
 Subdirección Normativa
 

@@ -6,59 +6,45 @@
 - Año: 2011
 - Fecha: 2011-05-04
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja1043.htm
-- Hash SHA-256: f115b4104684b60381587b1d1f1ec69f33f685aa967deb7586b2ac819b10fa8c
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja1044.htm
+- Hash SHA-256: b004542f3d733dc92f14fd8f8c6540192b5012d903b61c7f166f742f319507a0
 
 ## Resumen
 
-eg;2, Art. 43°, N°2 &ndash; .246, de 2009. (Ord. Nº 1044, de 04-05-2011) | Word Tratamiento tributario de las rentas percibidas por trabajadores de mar, sean éstos oficiales o tripulantes que se desempeñen en forma independiente. Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 40°, Art. 14°, Art. 31°, N° 3. (Ord. Nº 1043, de 04-05-2011) | Word Aplicación del artículo 3°, del Decreto Ley N° 1.528, de 1976, que creó la Fundación Chile Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 2°, N°2, art.…
+Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Art. 42°, N°2, Art. 43°, N°2 &ndash; .246, de 2009. (Ord. Nº 1044, de 04-05-2011) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"40"}
-- {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"14"}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIR","article":"3"}
+- {"type":"articulo","law":"CT","article":"8"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 40°, ART. 14°, ART. 31°, N° 3. (ORD. N° 1043, DE 04.05.2011)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42°, N°2, ART. 43°, N°2 – OFICIO N° 3.246, DE 2009. (ORD. N° 1044, DE 04.05.2011)
 
-APLICACIÓN DEL ARTÍCULO 3°, DEL DECRETO LEY N° 1.528, DE 1976, QUE CREÓ LA FUNDACIÓN CHILE –NO ES APLICABLE A FUNDACIÓN CHILE LA CONTRA EXCEPCIÓN QUE ESTABLECE EL INCISO FINAL DEL ARTÍCULO 40 DE LA LIR – SUS BIENES Y RENTAS, COMO ASIMISMO LOS ACTOS Y CONTRATOS QUE EJECUTE Y CELEBRE, ESTARÁN EXENTOS DE LOS IMPUESTOS DE LA LEY DE LA RENTA – NO ESTÁ OBLIGADA A LLEVAR REGISTRO FUT – NO SE ENCUENTRA FACULTADA PARA UTILIZAR LOS CRÉDITOS POR IMPUESTO DE PRIMERA CATEGORÍA RESPECTO DE UTILIDADES PERCIBIDAS POR RETIROS EFECTUADOS DE SOCIEDADES DE PERSONAS O DISTRIBUCIÓN DE DIVIDENDOS DE SOCIEDADES ANÓNIMAS EN LAS QUE ELLA PARTICIPE – NO PODRÁ SOLICITAR LA DEVOLUCIÓN DE IMPUESTOS POR ABSORCIÓN DE UTILIDADES NO RETIRADAS O DISTRIBUIDAS POR PÉRDIDAS, QUE CONTEMPLA EL INCISO 2°, DEL N° 3, DEL ARTÍCULO 31, DE LA LIR, EN ATENCIÓN A QUE, COMO LO ESTABLECE ESTA DISPOSICIÓN LEGAL, EL CITADO MECANISMO PROCEDE RESPECTO DE LAS UTILIDADES NO RETIRADAS O DISTRIBUIDAS REGISTRADAS EN EL FUT.
+TRATAMIENTO TRIBUTARIO DE LAS RENTAS PERCIBIDAS POR TRABAJADORES DE MAR, SEAN ÉSTOS OFICIALES O TRIPULANTES QUE SE DESEMPEÑEN EN FORMA INDEPENDIENTE – ESTÁN SUJETOS A LAS NORMAS GENERALES ESTABLECIDAS EN LA LIR, EN LA MEDIDA QUE TENGAN DOMICILIO O RESIDENCIA EN CHILE, SEA QUE SE TRATE DE RENTAS OBTENIDAS EN NUESTRO PAÍS O EN EL EXTRANJERO – IMPOSIBILIDAD DE CALIFICARSE COMO TRABAJADORES DEPENDIENTES – QUEDAN AFECTOS AL TRATAMIENTO TRIBUTARIO QUE AFECTA A LAS RENTAS PERSONALES PROVENIENTES DE UNA "OCUPACIÓN LUCRATIVA", QUE NO REQUIERE LA EXISTENCIA DE VÍNCULO LABORAL ALGUNO – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO A TRAVÉS DE CIRCULAR 21, DE 1991.
 
-I.- ANTECEDENTES. I.1. Antecedentes de hecho.
-Indica que en un proceso de fiscalización a la Fundación Chile, se ha presentado la inquietud de determinar si es aplicable a esta entidad la contra excepción que establece el inciso final del artículo 40 de la Ley sobre Impuesto a la Renta (LIR), respecto de la exención de impuestos que establece a su favor el artículo 3°, del DL N° 1.528.
-Asimismo, se consulta si es aplicable a esta Institución la obligación de llevar el Registro del Fondo de Utilidades Tributables (FUT), que establece el artículo 14, de la LIR.
-También requiere se aclare la situación de los crédito por Impuesto de Primera Categoría respecto de utilidades percibidas por retiros efectuados de sociedades de personas o distribución de dividendos de sociedades anónimas en las que participa la Fundación.
-I.2. Antecedentes de derecho.
-El D.L. N° 1.528 , concedió personalidad jurídica de derecho privado a la "FUNDACIÓN CHILE", organismo sin fines de lucro, de carácter autónomo, con domicilio en Santiago de Chile, y cuyo objeto es realizar investigación científica y tecnológica y aplicar los avances científicos y tecnológicos que obtenga, en las áreas de producción y servicios que correspondan.
-El artículo 3° de este texto legal establece que la Fundación Chile, sus bienes y rentas, como asimismo los actos y contratos que ejecute y celebre, estarán exentos de los impuestos de la LlR.
-Por su parte, el artículo 40 de la LIR, establece que estarán exentas del Impuesto de Primera Categoría, las siguientes personas: N° 2.- Las instituciones exentas por leyes especiales. Con todo, agrega el inciso 2° de esta disposición legal, la citada exención no regirá respecto de las empresas que pertenezcan a las instituciones antes mencionadas, ni de las rentas clasificadas en los números 3 y 4, del artículo 20, de la LIR.
+XXX ha requerido a este Servicio, un pronunciamiento sobre el tratamiento tributario de los trabajadores de mar o tripulantes, que se desempeñen en forma independiente I.- ANTECEDENTES.
+Se indica que organizaciones representativas de trabajadores de mar o tripulantes, tanto de la marina mercante nacional como extranjera, han planteado a esa Subsecretaría la situación que enfrentan sus representados al no poder efectuar las cotizaciones previsionales en ninguna calidad, dado que la legislación laboral y previsional chilena no les reconoce la calidad de trabajadores independientes, en tanto sus rentas no se producen en el territorio chileno, siendo el tratamiento de las mismas rentas ante la legislación tributaria muy distinto, toda vez que el artículo 3° de la Ley sobre Impuesto a la Renta, dispone que, salvo disposición en contrario, toda persona domiciliada o residente en chile, pagará impuesto sobre sus rentas de cualquier origen, sea que la fuente de entradas esté dentro del país o fuera de él, y las personas no residentes en Chile pagarán impuestos sobre sus rentas cuya fuente esté dentro del país.
+
+En virtud de lo anterior, se solicita informar sobre la situación impositiva de estos trabajadores a fin de avanzar en el levantamiento de un diagnóstico que permita evaluar la posibilidad de autorizar el pago de cotizaciones previsionales. En ese sentido, solicita indicar las fuentes legales o reglamentarias, de carácter general o dictámenes que este Servicio haya dictado para determinar que los trabajadores citados están sujetos a los impuestos sobre sus rentas, siendo de vital importancia para el trabajo que en materia laboral y previsional están desarrollando con dichos trabajadores.
 II.- ANÁLISIS.
-II.1. Conforme al principio de legalidad aplicable en materia tributaria, tanto el establecimiento de impuestos como su exención o liberación, deben estar establecidos expresamente por Ley.
-II.2. El artículo 40 de la LIR, establece que estarán exentas del Impuesto de Primera Categoría, las personas e instituciones a que se refieren los números 1 a 7 de esta disposición legal, entre las que contempla a las instituciones exentas por leyes especiales.
+El artículo 3° de la Ley sobre Impuesto a la Renta, (en adelante LIR), establece que toda persona domiciliada o residente en Chile, pagará impuestos sobre sus rentas de cualquier origen, sea que la fuente de entrada esté situada dentro del país o fuera de él, y las personas no residentes en Chile estarán sujetas a impuestos sobre sus rentas cuya fuente esté dentro del país.
+Agrega la citada norma legal, que con todo, el extranjero que constituya domicilio o residencia en el país, durante los tres primeros años contados desde su ingreso a Chile, sólo estará afecto a los impuestos que gravan las rentas obtenidas de fuente chilena. Este plazo podrá ser prorrogado por el Director Regional en casos calificados. A contar del vencimiento de dicho plazo o de sus prórrogas, se aplicará, en todo caso, lo expuesto en el párrafo anterior.
+Por su parte, el artículo 10 de la Ley del ramo, preceptúa que se consideran rentas de fuente chilena las que provienen de bienes situados en el país o de actividades desarrolladas en él, cualquiera que sea el domicilio o residencia del contribuyente, señalando expresamente que son rentas de fuente chilena, entre otras, las regalías, los derechos por el uso de marcas y otras prestaciones análogas derivadas de la explotación en Chile de la propiedad industrial o intelectual. A contrario sensu, son rentas de fuente extranjera aquellas provenientes de bienes situados en el extranjero y de actividades desarrolladas en el mismo lugar.
+De esta forma, para quedar sujetos a las obligaciones establecidas en la LIR, los tripulantes, tanto de la marina mercante nacional como extranjera, que laboren en forma dependiente o independiente, deberán tener domicilio o residencia en nuestro país, concepto éste último que ha sido expresamente definido para efectos tributarios en el N°8 del artículo 8 del Código Tributario, como "toda persona natural que permanezca en Chile, más de seis meses en un año calendario, o más de seis meses en total, dentro de dos años tributarios consecutivos."
+Por otra parte, la legislación tributaria no ha definido qué debe entenderse por "trabajador independiente", debiendo ante ello, recurrirse a la definición que proporciona el Código del Trabajo en la letra c), del artículo 3° como "aquel que en el ejercicio de la actividad de que se trate no depende de empleador alguno ni tiene trabajadores bajo su dependencia".
 
-Conforme lo establece expresamente el artículo 3° del DL N° 1.528, de 1976, la Fundación Chile se encuentra exenta de los impuestos de la LIR.
-II.3. Al respecto se consulta si es aplicable a la Fundación Chile, la contra excepción a que se refiere el inciso 2°, del artículo 40, de la LIR.
-El inciso 2°, del artículo 40, de la LIR, dispone que quedaran gravadas con el Impuesto de Primera Categoría las instituciones exentas de este Impuesto por leyes especiales, respecto de las rentas clasificadas en los números 3 y 4, del artículo 20, de la LIR.
-Sin embargo, se estima que según las normas de vigencia de las leyes, esta contra excepción rige las situaciones preexistentes a la entrega en vigor de la LIR, y no respecto de aquellas que se produzcan en virtud de Ley posterior a ella, como es el caso de la exención de impuestos establecido por el D.L. N° 1.578, de 1976, a favor de la Fundación Chile, ya que una interpretación distinta llevaría a suponer que el legislador ha limitado las facultades que la propia Constitución le otorga para imponer, suprimir, reducir o condonar tributos de cualquier clase o naturaleza, establecer exenciones o modificar las existentes, y determinar su forma, proporcionalidad o progresión .
-III.- CONCLUSIONES.
-
-En relación a sus consultas se informa lo siguiente:
-
-III.1. Conforme a lo indicado en el punto I anterior, se considera que no es aplicable a Fundación Chile la contra excepción que establece el inciso final del artículo 40 de la LIR, por lo que, de acuerdo a lo establecido en el artículo 3°, del DL N° 1.528, sus bienes y rentas, como asimismo los actos y contratos que ejecute y celebre, estarán exentos de los impuestos de la LlR.
-III.2. En atención a la existencia de una exención expresa de los impuestos de la LIR, no es aplicable a la citada Fundación la obligación de llevar el Registro FUT, que establece el artículo 14, de la LIR.
-III.3. En consideración a que la Fundación Chile no está sujeta a las obligaciones de impuesto que contempla la LIR, y por consiguiente a la obligación de llevar el Registro FUT, no se encuentra facultada para utilizar los créditos por Impuesto de Primera Categoría respecto de utilidades percibidas por retiros efectuados de sociedades de personas o distribución de dividendos de sociedades anónimas en las que ella participe.
-
-En efecto, la citada Fundación no podrá solicitar la devolución de dichos impuestos por absorción de utilidades no retiradas o distribuidas por pérdidas, que contempla el inciso 2°, del N° 3, del artículo 31, de la LIR, en atención a que, como lo establece esta disposición legal, el citado mecanismo procede respecto de las utilidades no retiradas o distribuidas registradas en el FUT, y conforme a lo antes señalado, la citada Institución no está sujeta a esta obligación por encontrarse exenta de los impuestos de la LIR.
-
-A la misma conclusión se debe llegar si consideramos que las eventuales pérdidas existentes en la empresa tampoco pueden producir el efecto contemplado en esta norma legal, en atención a que dichas pérdidas son las que se deben determinar aplicando los artículos 29 a 33 de la LIR, las que tampoco son aplicables a esta Institución.
+III.- CONCLUSIÓN.
+No existen normas especiales dentro de la legislación tributaria para los trabajadores de mar, sean oficiales o tripulantes, que laboren en forma dependiente o independiente, quedando sujetos a las normas generales establecidas en la LIR, siempre que tengan domicilio o residencia en Chile, sea que se trate de rentas obtenidas en nuestro país o en el extranjero.
+En tal sentido, si de acuerdo a la normativa laboral y previsional chilena, no pueden ser calificados como trabajadores dependientes, al no existir un contrato de trabajo, un contrato de embarco de oficiales y tripulantes de las naves de la Marina Mercante Nacional o un contrato de trabajador portuario eventual, regulados todos por el Código del Trabajo, quedarán afectos al tratamiento tributario que afecta a las rentas personales provenientes de una "ocupación lucrativa", que no requiere la existencia de vínculo laboral alguno, establecido en los artículos 42 N°2 y 43 N°2 de la LIR, esto es, las rentas que perciban se afectarán con el Impuesto Global Complementario, siendo aplicables las instrucciones contenidas en la Circular 21, de 1991, de este Servicio, referida a la tributación de los profesionales, que se encuentra publicada en la página web de este Servicio, cuya dirección es www.sii.cl .
+Finalmente, para una mejor comprensión del tema, resulta de utilidad consultar el Ord. N°3.246, de 09.11.2009, de este Servicio, publicado en Internet, referido a la tributación de prácticos de puertos y canales, los cuales poseen la calidad de trabajadores independientes, el cual se adjunta para su conocimiento.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 1043, de 04.05.2011
+Oficio N° 1044, de 04.05.2011
 
 Subdirección Normativa
 

@@ -6,119 +6,48 @@
 - Año: 2009
 - Fecha: 2009-12-10
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2009/ja3477.doc
-- Hash SHA-256: 17aa85b235c417c89318351c838c9ad8120a67eb150ab63f4ab04794fd1d7572
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2009/ja3478.htm
+- Hash SHA-256: 1b02e0d1bb9cc90d7a41317ccb5a32a438fd9daf2006d96f984f0e6798c59992
 
 ## Resumen
 
-'modal'>VENTAS Y SERVICIOS &ndash; NUEVO TEXTO &ndash; ART. 9° &ndash; . (Ord. Nº 3478, de 10-12-2009) | Word Aplicación de Impuesto al Valor Agregado a la transacción que pone fin a un juicio arbitral. VENTAS Y SERVICIOS &ndash; NUEVO TEXTO &ndash; ART. 2°, N°2, ART. 8°. (Ord. Nº 3477, de 10-12-2009) | Word Situación tributaria del acceso a un sitio de internet, a través del cual se obtiene Información financiera de fondos mutuos. VENTAS Y SERVICIOS &ndash; NUEVO TEXTO &ndash; ART. 8°, ART. 2°, N°2 Y N°4. (Ord. N…
+VENTAS Y SERVICIOS &ndash; NUEVO TEXTO &ndash; ART. 9° &ndash; . (Ord. Nº 3478, de 10-12-2009) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":669,"year":2002}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2°, N°2, ART. 8°.
-                       (ORD. N° 3.477, DE 10.12.2009)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 9° – OFICIO N° 669, DE 2002. (ORD. N° 3.478, DE 10.12.2009)
 
-Situación tributaria del acceso a un sitio de internet, a  través  del  cual
-se obtiene  Información  financiera  de  fondos  mutuos  que  operan  en  el
-mercado, a cambio de una suma fija mensual  que  le  permitirá  al   cliente
-contar con una o varias conexiones, con un “user name” y un  “password”,  se
-encuentra gravado con Impuesto al Valor Agregado, en virtud del Art. 8°,  en
-concordancia con el Art. 2°, N° 2, del D.L. N°  825,  por  tratarse  de  una
-actividad clasificada en el Art. 20°, N° 3, de la Ley sobre  Impuesto  a  la
-Renta, como es el procesamiento automático de datos.
+APLICACIÓN DE IMPUESTO AL VALOR AGREGADO A LA TRANSACCIÓN QUE PONE FIN A UN JUICIO ARBITRAL – LA VENTA DE BIENES INCORPORALES NO SE ENCUENTRA AFECTA A IVA – EN LA VENTA DE BIENES CORPORALES MUEBLES, EL DEVENGO DEL IMPUESTO SE VERIFICA, EN LA FECHA DE LA EMISIÓN DE LA FACTURA EN EL MOMENTO EN QUE SE PRODUCE LA ENTREGA REAL O SIMBÓLICA DE LAS ESPECIES – CUANDO PRODUCTO DE UNA SENTENCIA DICTADA EN UN JUICIO ARBITRAL, SE RATIFICA EL COBRO DE UN DETERMINADO ESTADO DE PAGO POR EL QUE YA SE EMITIÓ VÁLIDAMENTE UNA FACTURA, LA CUAL NO FUE PAGADA POR EL COMPRADOR, NO PROCEDE LA EMISIÓN DE DOCUMENTOS QUE ANULEN EL EFECTO DE LA FACTURA EMITIDA ORIGINALMENTE – EL PAGO DEL PRECIO ES IRRELEVANTE PARA EFECTOS DE LA OBLIGACIÓN DE EMITIR EL DOCUMENTO TRIBUTARIO EN LA VENTA DE BIENES CORPORALES MUEBLES.
 
+1.- Se ha recibido en esta Dirección Nacional la presentación del antecedente, mediante la cual los señores AAA y BBB, en representación de la Sociedad CCC y don XXX, en representación de YYY, vienen en complementar consulta formulada por el señor TTT, a quien se le dio respuesta mediante el Ordinario N° 1833 de 2009, relativa a la aplicación de IVA a la transacción que pone término a un juicio arbitral. Señala el consultante que con fecha 30 de enero de 2004 las partes celebraron un contrato denominado Promise to Purchase and Sale Agreement (en adelante el "Contrato"), por medio de la cual CCC compró a YYY ciertos activos tangibles e intangibles asociados a la fabricación de tubería corrugada HDPE.
+En el contrato se acordó que se pagaría un precio total de USD xxxx de la siguiente manera: (i) un precio base de USD xxxx pagadero en cinco cuotas y (ii) un precio variable, pagadero en 7 cuotas, cada una con vencimiento al 31 de enero de los años 200x a 20xx, respectivamente, y que debían calcularse, cada uno de ellas, en función de las ventas de CCC correspondientes al año calendario anterior a su pago.
+Las cuotas del precio variable quedaron afectas a IVA, por cuanto las partes estimaron que ellas correspondían al pago de una operación que constituye un hecho gravado con dicho impuesto.
+Con fecha xx de xx de 200x, las empresas sometieron ciertas diferencias referentes al recíproco cumplimiento y/o incumplimiento de los acuerdos contractuales a juicio arbitral. Mientras este arbitraje se encontraba en curso, la cuota del precio variable con vencimiento el xx de xx de 200x se hizo exigible.
+CCC remitió a YYY los cálculos correspondientes a la cuota variable e indicó a ésta los montos de pago pertinentes a dicha cuota.
+Por su parte, YYY emitió y envió a CCC la factura correspondiente a esta cuota, específicamente, la factura N° xxxx de fecha x de xx de 200x por la suma de $xxxxx, más IVA ascendiente a xxxxxxx, lo que dio un total de $xxxxxx, factura que fue devuelta de inmediato por CCC.
+CCC depositó en el Banco ZZZZ, bajo instrucciones notariales y en forma de un depósito a plazo, la suma de $xxxx, correspondiente a la cuota antes señalada, en una Notaría Pública, solicitando al Notario mantenerlo en custodia y posteriormente pagarlo de acuerdo a la decisión definitiva del árbitro.
+Con fecha xx de xx de 200x las partes celebraron una transacción, en la que acordaron, entre otras cosas (a) resolver las controversias entre ellas, (b) desistir del Arbitraje, (c) liberar el pago que a esa fecha se encontraba depositado en Notaría y entregárselo íntegramente a YYY, y (d) poner término a los contratos vigentes entre las partes.
+CCC ha requerido a YYY emitir y entregarle la factura correspondiente al pago de la suma que depositó en Notaría y que corresponde al pago de la cuota del precio variable con vencimiento al xx de xx de 200x, que fue liberado mediante el acuerdo transaccional antes referido.
+YYY se ha opuesto a ello, señalando que dicha suma la habría percibido como precio de la transacción, valor que a su juicio no se encontraría afecto a IVA, y que no corresponde al pago de la cuota emanada del Contrato.
+2.- Previo a emitir un pronunciamiento relativo a lo consultado, se estima necesario realizar una serie de alcances vinculados al contrato celebrado, fundamentalmente en lo que atañe al hecho gravado, el devengo del impuesto y la facturación de la operación.
+En primer lugar, la venta de bienes incorporales no se encuentra gravada con el Impuesto al Valor Agregado, razón por la cual si los contratos celebrados por las empresas consultantes, recayeron en parte sobre este tipo de bienes, dicho monto no debió haberse facturado afecto.
+En segundo lugar, el devengo en la venta de bienes corporales muebles, se verifica, según dispone el artículo 9 del D.L. N° 825 de 1974, en la fecha de la emisión de la factura respectiva, debiendo ser emitido aquel documento en el momento en que se produce la entrega real o simbólica de las especies, de acuerdo al artículo 55 del citado decreto ley. En ese sentido, no es el cronograma de pago fijado por las partes, un elemento relevante para la obligación de documentar tributariamente el negocio.
+El recto cumplimiento de las directrices señaladas, serán analizadas en la instancia de fiscalización respectiva, ante la Dirección Regional que corresponda al domicilio del contribuyente.
+3.- En cuanto al fondo del asunto debatido, según se indica en la presentación, YYY emitió, en tiempo y forma, la factura N° xxxx con fecha x de xx de 200x, por el valor de la cuota variable respectiva, IVA incluido ($xxxxxx).
+Ahora bien, sobre la situación en particular, este Servicio ya se ha pronunciado a través del Ordinario N° 669 de 2002, en que se indicó que, cuando producto de una sentencia dictada en un juicio arbitral, se ratifica el cobro de un determinado estado de pago por el que ya se emitió válidamente una factura, la cual no fue pagada por el comprador, cosa que ocurre en la especie, no procede la emisión de documentos que anulen el efecto de la factura emitida originalmente.
+Luego, si YYY ya facturó la operación, ciñéndose a los predicamentos de la normativa tributaria del IVA, según el criterio indicado en párrafo anterior, no habría razones para emitir otro documento que anule el efecto de la primera factura válidamente emitida, con el objeto de volver a facturar la misma operación.
+Conviene agregar, que el pago del precio es irrelevante para efectos de la obligación de emitir el documento tributario en la venta de bienes corporales muebles, y lo es, tanto si este pago se realiza al momento de la entrega, como si lo rubrica con posterioridad una transacción o un laudo arbitral.
 
-1.-   Se  ha  recibido  en  esta  Dirección  Nacional  su  presentación  del
-      antecedente, mediante la cual consulta si el acceso a un sitio  en  la
-      red de Internet, que ofrece información financiera de diversos  fondos
-      mutuos, se encuentra afecto a IVA.
+RICARDO ESCOBAR CALDERON
 
-      Expone que una sociedad a la cual le presta  asesoría  jurídica  desea
-      desarrollar un proyecto empresarial sobre el cual tiene dudas respecto
-      de si existe, o no, hecho gravado con Impuesto al Valor  Agregado.  En
-      atención a ello y a fin de  no  cometer  errores  en  el  cumplimiento
-      tributario del referido proyecto, se  solicita  un  pronunciamiento  a
-      esta Dirección Nacional.
+DIRECTOR
 
-      El proyecto a desarrollar es el siguiente:
+Oficio N° 3.478, de 10.12.2009
 
-      La sociedad en  cuestión,  es  titular  de  un  sitio  en  la  red  de
-      Internet, destinado  a  ofrecer  información  pública  sobre  diversos
-      fondos mutuos que operan en el mercado. La información que se  ingresa
-      al referido sitio se obtiene de diversas bases de datos a las  que  se
-      encuentra suscrita la sociedad o a las que ingresa directamente cuando
-      se trata de información pública y gratuita.
+Subdirección Normativa
 
-
-
-      Dicha información  se  ofrecerá  a  distintos  usuarios,  entre  ellos
-      sociedades que  administran  fondos  mutuos  e  inversionistas.  Tales
-      sociedades, inversionistas y usuarios en general,  podrán  ingresar  a
-      ese sitio, de modo que, por ejemplo, las respectivas fuerzas de  venta
-      de las administradoras cuenten con  la  información  contenida  en  el
-      sitio Internet a fin de facilitar y mejorar su trabajo. A su vez,  los
-      inversionistas y usuarios contarán con una información más completa  y
-      oportuna para la toma de sus decisiones.
-
-      Por esta prestación, la sociedad cobrará  a  los  distintos  usuarios,
-      una suma fija mensual  que  le  permitirá  contar  con  una  o  varias
-      conexiones, cada una de ellas con un “user name” y un “password”,  que
-      permiten la individualización de quién está accediendo al  sitio.  Por
-      lo tanto,  sólo  las  personas  habilitadas  por  la  sociedad  podrán
-      ingresar al sitio Internet.
-
-
-2.-   El artículo 8°, del D.L. N° 825, de 1974, grava con Impuesto al  Valor
-      Agregado las ventas y los servicios.
-
-      A su vez, el Art. 2°, N° 2, del citado decreto  ley,  define  servicio
-      como: “la acción o prestación que una persona realiza para otra y  por
-      la cual percibe un interés, prima, comisión o cualquiera otra forma de
-      remuneración, siempre que provenga del ejercicio  de  las  actividades
-      comprendidas en los N°s 3 y 4,  del  artículo  20,  de  la  Ley  sobre
-      Impuesto a la Renta.
-
-
-
-
-
-
-
-
-
-
-3.-   Sobre el particular y haciendo presente que no  se  han  tenido  a  la
-      vista ni los contratos ni la arquitectura del  sistema,  cabe  señalar
-      que el servicio descrito consistente  en  permitir  el  acceso  a  una
-      página de Internet, que contiene  diversa  información  pública  sobre
-      fondos mutuos que operan en el mercado, a  cambio  de  una  suma  fija
-      mensual que le  permitirá  a  su  cliente  contar  con  una  o  varias
-      conexiones, cada una de ellas con un “user name” y un  “password”,  se
-      encuentra gravado con Impuesto al Valor Agregado, en virtud  del  Art.
-      8°, en concordancia con el Art.  2°,  N°  2,  del  D.L.  N°  825,  por
-      tratarse de una actividad clasificada en el Art. 20°, N° 3, de la  Ley
-      sobre Impuesto a la Renta, como  es  el  procesamiento  automático  de
-      datos.
-
-
-
-
-
-
-
-                                       RICARDO ESCOBAR CALDERON
-                                                           DIRECTOR
-
-
-
-
-
-
-
-                       Oficio N° 3.477, de 10.12.2009
-                           Subdirección Normativa
-                        Dpto. de Impuestos Indirectos
+Dpto. de Impuestos Indirectos

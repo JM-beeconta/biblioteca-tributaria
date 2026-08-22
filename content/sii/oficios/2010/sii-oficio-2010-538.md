@@ -6,68 +6,70 @@
 - Año: 2010
 - Fecha: 2010-11-24
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja2124.htm
-- Hash SHA-256: 898635a9ebd26ffc406f7315ebe05da6f16ab5b15ff1c4396a8622331585f111
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja2125.htm
+- Hash SHA-256: 57b32e3f473e40fcb9a1d864849a1f608b1fcf71bfd302bdac226f955ca8cedd
 
 ## Resumen
 
-125.htm' rel='modal'>RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 42°, N°1 &ndash; CÓDIGO DEL TRABAJO, ART. 178° &ndash; . (Ord. Nº 2148, de 24-11-2010) | Word Tratamiento tributario de formación de fondo de retiro constituido con aportes de empleador y trabajadores, en relación a lo dispuesto en la Ley sobre Impuesto a la Renta. RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 59°, N°1, ART. 74°, N°4 &ndash; CIRCULAR N° 9, DE 2010. (Ord. Nº 2124, de 19-11-2010) | Word Obligación de retener,…
+RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 42°, N°1 &ndash; CÓDIGO DEL TRABAJO, ART. 178° &ndash; . (Ord. Nº 2148, de 24-11-2010) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":9,"year":2010}
-- {"type":"articulo","law":"LIR","article":"59 N"}
-- {"type":"articulo","law":"LIR","article":"74 N"}
-- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"oficio","number":538,"year":1998}
+- {"type":"articulo","law":"LIR","article":"31"}
+- {"type":"articulo","law":"LIR","article":"42"}
+- {"type":"articulo","law":"LIR","article":"178 d"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°1, ART. 74°, N°4 – CIRCULAR N° 9, DE 2010. (ORD. N° 2124, DE 19.11.2010)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42°, N°1 – CÓDIGO DEL TRABAJO, ART. 178° – OFICIO N° 538, DE 1998. (ORD. N° 2148, DE 24.11.2010)
 
-SUJETO OBLIGADO A RETENER, DECLARAR Y ENTERAR EN ARCAS FISCALES EL IMPUESTO ADICIONAL QUE GRAVA LA REMESA DE INTERESES – EL CONTRIBUYENTE OBLIGADO A RETENER, DECLARAR Y ENTERAR EN ARCAS FISCALES EL IMPUESTO ADICIONAL QUE DE CONFORMIDAD CON EL ARTÍCULO 59 N°1 DE LA LIR, GRAVA LOS INTERESES QUE SE PAGUEN O ABONEN EN CUENTA A PERSONAS SIN DOMICILIO NI RESIDENCIA EN EL PAÍS, ES EL DEUDOR QUE EFECTÚA EL PAGO Y NO EL BANCO QUE CUMPLE CON EL ENCARGO DE REMESAR LOS DINEROS – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO.
+TRATAMIENTO TRIBUTARIO DE FORMACIÓN DE FONDO DE RETIRO CONSTITUIDO CON APORTES DE EMPLEADOR Y TRABAJADORES, EN RELACIÓN A LO DISPUESTO EN LA LEY SOBRE IMPUESTO A LA RENTA.
 
-Se ha solicitado a este Servicio pronunciarse respecto a quién es el sujeto obligado a retener, declarar y enterar en arcas fiscales el Impuesto Adicional que grava los intereses que se remesan al exterior de conformidad con las normas de la Ley sobre Impuesto a la Renta (LIR).
+Se ha solicitado a este Servicio indicar la situación tributaria que afectaría a la formación de un fondo de retiro para los trabajadores de una empresa. I.- ANTECEDENTES
+Señala el consultante que este fondo se formaría con aportes del empleador y trabajadores, y sería administrado por una entidad especialista en temas relacionados con la seguridad social o el apoyo de acciones destinadas a favorecer el bienestar de los trabajadores, sin fines de lucro (Corporación).
+Agrega que los trabajadores de una empresa "A" celebrarán, individual o colectivamente, un acuerdo con su empleador materializado en un contrato individual o contrato o convenio colectivo, en el cual estipularán que la empresa aporte una suma determinada o determinable por trabajador y que además el trabajador aporte de su remuneración una suma que será descontada de forma obligatoria.
+II.- ANÁLISIS.
 
-I. ANTECEDENTES.
+Previo a responder su consulta, se debe señalar que basado en lo indicado en su presentación y en lo expresado en borradores de contratos acompañados, especialmente en las cláusulas segunda y séptima de borrador de "Contrato de Administración de Fondo de Indemnización por Retiro", este Servicio concluye que la institución administradora de los fondos de indemnización en cuestión, tiene sólo el carácter de mandatario en relación con la administración de los citados fondos.
+III.- CONCLUSIONES.
 
-Señala que su representada es una sociedad de responsabilidad limitada dedicada a prestar servicios de asesoría jurídica que dentro de su cartera de clientes tiene algunas empresas que han recibido préstamos o créditos desde el exterior, que generan intereses en condiciones de mercado.
+Teniendo en consideración lo antes indicado, se derivan los siguientes efectos:
+III.1.- Situación en relación a la empresa.
+A) Requisitos para que la provisión por indemnización por años de servicio sea deducible como gasto.
+Los fondos provisionados por la empresa por concepto de indemnizaciones por retiro, y que son traspasados a la entidad administradora, podrán ser deducidos como gasto en la determinación de la Renta Líquida de dicha empresa siempre que respecto de ellos se dé cumplimiento a las reglas generales. Por consiguiente, para que proceda dicha deducción debe existir un compromiso u obligación de pago futuro por concepto de indemnizaciones por años de servicio, y ello se encuentre establecido en un contrato individual o en un instrumento colectivo de trabajo; vale decir, estas sumas podrán ser deducidas como gasto cuando la obligación de pago de la indemnización no es eventual, independientemente de si es actualmente exigible; en otros términos cuando el pago de la indemnización respecto del trabajador se pacte a todo evento, sin importar la causal que ocasione el retiro de la empresa.
+Si por cualquiera circunstancia no quedare obligada al pago de la indemnización por años de servicio, el gasto provisionado por el respectivo trabajador pasará a constituir un ingreso tributable para la empresa, al existir un incremento patrimonial por haberse extinguido la obligación mediante alguna causal que no le significó ninguna obligación de pago.
+B) Deducción como gasto al momento del pago de la indemnización por años de servicio.
+Si no se cumplen las condiciones señaladas en la letra A) anterior, el gasto por concepto de indemnizaciones por años de servicio, sólo podrá ser deducido cuando se efectúe el pago por este concepto, y siempre que se cumplan las condiciones generales establecidas en el artículo 31 de la LIR.
+C) Ingreso para la empresa.
+En todo caso, en consideración a que la empresa mantiene la propiedad de los citados fondos aportados a la formación del fondo de retiro, la rentabilidad que éstos puedan generar también será de su propiedad, por lo cual se afectarán con impuesto de acuerdo a las reglas generales, es decir, sobre base percibida o devengada.
 
-Tales intereses son pagados, conforme a las fechas pactadas en cada caso, por cada una de estas empresas, a sus respectivos acreedores extranjeros, en su calidad de deudoras, para lo cual recurren a un banco local, con el objeto que éste les venda las divisas necesarias para efectuar los pagos y efectúe la remesa de los fondos a sus acreedores extranjeros, de conformidad con el Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+III.2.- Situación en relación a los trabajadores.
+A) Aportes efectuados por los trabajadores a la formación del fondo de retiro.
 
-Explica que sus clientes entienden que de acuerdo con los artículos 59 N°1, 73, 64 N°4 y 79 de la LIR, y al criterio de este Servicio, el contribuyente obligado a retener, declarar y enterar en arcas fiscales el Impuesto Adicional que grava los intereses es el deudor u obligado al pago de los intereses, y no el banco local que vende las divisas y cumple con el encargo de remesarlas al exterior. Del mismo modo, entienden que corresponde a cada uno de los deudores, y no al banco local, presentar ante este Servicio la respectiva Declaración Jurada.
+Por expreso mandato del artículo 42, N° 1°, inciso 1°, de la LIR, se exceptúan del cálculo del impuesto único al trabajo, las sumas que correspondan a imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro.
 
-Sin embargo, el banco local, que es el mismo en todos los casos, tiene una visión diferente que lo ha llevado, en cada caso, a retener, declarar y enterar el Impuesto Adicional con tasa del 35%, bajo su propio RUT y no bajo el RUT de sus clientes. Agrega que ello ha ocurrido sin el consentimiento, e incluso a pesar y en contra de la voluntad de sus clientes.
+Al respecto, este Servicio expresó en Oficio N° 538, de 1998, que las sumas a que se refiere esta norma legal deben ser enteradas necesariamente a Instituciones de Seguridad Social, de aquellas definidas por la Superintendencia de Seguridad Social en su Oficio Ordinario N° 8.081 de 19 de mayo de 1997 dirigido a este Servicio, como "aquellas que administran o gestionan regímenes obligatorios, para dar cobertura a las contingencias sociales que definen el concepto de Seguridad Social".
+En el Oficio N°538, de 1998, se concluyó por consiguiente que el requisito de la obligatoriedad de la afiliación del trabajador a la respectiva institución administradora del fondo, es esencial para exceptuar a los respectivos aportes del Impuesto Único del artículo 42, N°1 de la LIR, criterio que se mantiene plenamente vigente.
+De esta forma, si la afiliación a la entidad administradora del fondo de retiro no es obligatoria, los respectivos aportes se afectarán con el Impuesto Único de Segunda Categoría, de acuerdo a las normas generales.
 
-Del mismo modo, y según la información que han recibido verbalmente sus clientes, el banco habría informado a este Servicio los intereses pagados al exterior bajo su propio RUT, presentando la Declaración Jurada correspondiente.
+En tal caso, al momento del pago o restitución de las cantidades aportadas por los trabajadores a la formación del fondo de retiro, no corresponderá que sean gravadas nuevamente, en atención a que en su momento formaron parte de la base imponible afecta al respectivo impuesto.
+B) Rentabilidad de los fondos aportados por los trabajadores.
+Los incrementos por concepto de rentabilidad ganada que puedan comprender los fondos aportados por los trabajadores a la formación del fondo de retiro, se encontrarán afectos al Impuesto Global Complementario de acuerdo a las reglas generales aplicables a este impuesto.
+C) Pago de indemnizaciones.
+En relación a los pagos que se efectúen a los trabajadores con los aportes efectuados por el empleador a la formación del fondo de retiro, se señala que su situación tributaria se regirá por lo establecido en el artículo 178 del Código del Trabajo, en relación al artículo 17 N°13 de la LIR, dentro de los límites establecidos en estas disposiciones legales, siempre que el pago de las respectivas indemnizaciones por años de servicio por parte del empleador se efectúe de acuerdo a lo pactado por las partes, conforme a lo indicado en el N° III.1 anterior, debiendo tenerse presente además las instrucciones que han sido impartidas por este Servicio sobre la materia.
 
-Por ello formula las siguientes consultas:
+III.3.- Obligaciones de carácter administrativo.
 
-a) A quién le corresponde retener, declarar a través del Formulario N°50 y enterar en arcas fiscales el Impuesto Adicional aplicable en estos casos, y a quién corresponde informar la operación a través de la Declaración Jurada N°1850.
+Los impuestos que resulten de la liquidación de las indemnizaciones pagadas a los trabajadores, serán de responsabilidad directa de la empresa aportante, independientemente de que los cálculos, liquidación y/o pagos los efectúe la entidad administradora del fondo de indemnización, la cual estará actuando por cuenta de aquella.
 
-b) En el supuesto que se estime que el banco no ha dado correcta aplicación a la normativa vigente, cuáles son las acciones concretas que deben llevarse a cabo para remediar la situación de incumplimiento tributario pasado, tanto por parte de sus clientes como por parte del banco involucrado.
+Finalmente, se expresa que los traspasos de los fondos, los pagos de las indemnizaciones y las declaraciones de impuestos deberán encontrarse debidamente registrados en la contabilidad de la empresa; registros que, junto con la documentación respaldatoria correspondiente deberán ponerse a disposición de este Servicio, en caso que ellos sean solicitados en procesos de fiscalización, sin perjuicio de los controles que deba llevar la entidad administradora.
 
-II. ANÁLISIS.
-
-Sobre el particular, cabe señalar que de conformidad con el artículo 59 N°1 de la LIR, se encuentran gravadas con Impuesto Adicional las cantidades que se paguen o abonen en cuenta a personas sin domicilio ni residencia en el país por concepto de intereses.
-
-Atendido que el referido impuesto grava a personas sin domicilio ni residencia en Chile, la ley ha establecido un mecanismo de retención, el que para este caso se encuentra regulado en el artículo 74 N°4 de la LIR. De conformidad con dicha disposición, se encuentra obligados a practicar la retención los contribuyentes que remesen al exterior, retiren, distribuyan o paguen rentas afectas al Impuesto Adicional de acuerdo, entre otras normas, con el artículo 59 de la LIR.
-
-Ahora bien, de conformidad con lo expuesto, cabe indicar que tratándose del Impuesto Adicional que grava los intereses que se paguen o abonen en cuenta a personas sin domicilio ni residencia en Chile, el sujeto obligado a practicar la retención es el contribuyente que procede a efectuar el pago o abono en cuenta, esto es, el deudor que efectúa jurídicamente el pago y no el banco local que cumple el encargo de remesar las divisas al exterior.
-
-Por lo demás, así lo ha señalado expresamente este Servicio, por ejemplo, a través del Ordinario N°1314, de 1988.
-
-III. CONCLUSIÓN.
-
-De acuerdo con lo explicado, cabe señalar que el contribuyente obligado a retener, declarar y enterar en arcas fiscales el Impuesto Adicional que de conformidad con el artículo 59 N°1 de la LIR, grava los intereses que se paguen o abonen en cuenta a personas sin domicilio ni residencia en el país, es el deudor que efectúa el pago y no el banco que cumple con el encargo de remesar los dineros, ya que a éste último sólo le cabe el papel de intermediario, pero no es jurídicamente el que paga los intereses.
-
-Por su parte, la Declaración Jurada N°1850 debe ser presentada por el contribuyente con domicilio o residencia en el país que de conformidad con las disposiciones del artículo 74 N°4 de la LIR, deba practicar la retención del Impuesto Adicional, de acuerdo con las instrucciones impartidas a través de la Circular N°9, de 2010.
-
-En cuanto a las acciones que deben llevarse a cabo para remediar una eventual situación de incumplimiento, cabe informar que no es posible, sin tener a la vista los antecedentes de cada caso, referirse a la forma en que debe procederse, pues se desconoce si se trata de simples errores en la individualización del agente retenedor en las correspondientes declaraciones, o bien, si existe un incumplimiento de la obligación de retener, declarar y enterar en arcas fiscales el Impuesto Adicional. Por tanto, se hace necesario que el contribuyente aporte todos los antecedentes del caso y que los mismos sean debidamente revisados por las instancias fiscalizadoras de este Servicio, a fin de determinar las consecuencias jurídicas en cada caso y el procedimiento a seguir.
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 2124, de 19.11.2010
+Oficio N° 2148, de 24.11.2010
 
 Subdirección Normativa
 

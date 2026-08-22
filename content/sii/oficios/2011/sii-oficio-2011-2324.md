@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'modal'>Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 18.046, Art. 81° &ndash; Res. Ex. N° 83, de 2010 &ndash; Oficio N° 271, de 2011. (Ord. Nº 2379, de 14-10-2011) | Word Solicita reconsideración de Oficio N° 271, de 2011. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.420, Art. 1° &ndash; Decreto Supremo N° 174, de 2005, Art. 17° &ndash; . (Ord. Nº 2377, de 14-10-2011) | Word Procedencia de los beneficios que establece la Ley N°19.420, a las empresas constructoras que construyan viv…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.420, Art. 1° &ndash; Decreto Supremo N° 174, de 2005, Art. 17° &ndash; . (Ord. Nº 2377, de 14-10-2011) |
 
 ## Referencias detectadas
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:08:13.956Z",
+  "generated_at": "2026-08-22T23:09:48.724Z",
   "total_documents": 11150,
   "by_source": {
     "SII": 10361,
@@ -78,8 +78,8 @@
     "LIVS",
     "CT"
   ],
-  "mode": "backfill:Gapfill-2013-2016",
-  "last_scrape_at": "2026-08-22T23:08:13.003Z",
-  "touched_documents": 952,
+  "mode": "backfill:Gapfill-2009-2012",
+  "last_scrape_at": "2026-08-22T23:09:48.059Z",
+  "touched_documents": 88,
   "backfill_status": "completed"
 }

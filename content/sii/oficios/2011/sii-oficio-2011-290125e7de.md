@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os &ndash; Nuevo Texto &ndash; Actual Ley sobre Impuesto a las &ndash; DFL N° 2 DE 2001, del Ministerio de Hacienda, Sobre Zonas Francas. (Ord. Nº 193, de 25-01-2011) | Word Establecimiento de supermercados que expenden alimentos en la Zona Franca de Punta Arenas Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley sobre Impuesto a las &ndash; Ley N° 19.496, Sobre Protección de los Derechos de los Consumidores, Art. 1°, 20 y 21 &ndash; Oficio 4823 de 1976. (Ord. Nº 192, de 25-01-2011) | Word Aplicación del Im…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley sobre Impuesto a las &ndash; Ley N° 19.496, Sobre Protección de los Derechos de los Consumidores, Art. 1°, 20 y 21 &ndash; Oficio 4823 de 1976. (Ord. Nº 192, de 25-01-2011) |
 
 ## Referencias detectadas
 

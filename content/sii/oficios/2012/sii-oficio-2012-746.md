@@ -6,52 +6,50 @@
 - Año: 2012
 - Fecha: 2012-06-05
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2012/ja1136.htm
-- Hash SHA-256: 8c947dfd16f05b82fe979aa263769944a8e21bfdb7cdc3327b265276d6b8cc34
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2012/ja1386.htm
+- Hash SHA-256: 5cc7bf4b4889059cd08e877a648790844a12d20a6a7e3740318643262300ed74
 
 ## Resumen
 
-° 17.235 &ndash; Ley N° 13.713 &ndash; Código Tributario, Art. 13°, N°8 &ndash; Ley N° 17.235 &ndash; Ley N° 18.851, de 1989 &ndash; . (Ord. Nº 1386, de 05-06-2012) | Word Alcance de la exención del Impuesto Territorial establecida por la Ley N° 13.713, de 1959, respecto de inmuebles pertenecientes a persona jurídica disuelta. Código Tributario &ndash; Nuevo Texto &ndash; Art. 13°, Art. 66°, Art. 68° &ndash; Circular N° 31, de 2007 &ndash; Ord. N° 1822, de 2009. (Ord. Nº 1136, de 15-05-2012) | Word Validez de &ldq…
+Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Ley N° 13.713 &ndash; Código Tributario, Art. 13°, N°8 &ndash; Ley N° 17.235 &ndash; Ley N° 18.851, de 1989 &ndash; . (Ord. Nº 1386, de 05-06-2012) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":31,"year":2007}
-- {"type":"articulo","law":"CT","article":"13"}
+- {"type":"oficio","number":746,"year":2010}
+- {"type":"oficio","number":2435,"year":2010}
+- {"type":"articulo","law":"LIR","article":"40 N"}
+- {"type":"articulo","law":"LIR","article":"39"}
 
 ## Texto extraído
 
-CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 13°, ART. 66°, ART. 68° – CIRCULAR N° 31, DE 2007 – ORD. N° 1822, DE 2009. (ORD. N° 1136, DE 15.05.2012)
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – LEY N° 13.713 – CÓDIGO TRIBUTARIO, ART. 13°, N°8 – LEY N° 17.235 – LEY N° 18.851, DE 1989 – OFICIO N° 746, DE 2010. (ORD. N° 1386, DE 05.06.2012)
 
-VALIDEZ DE "OFICINA VIRTUAL" COMO DOMICILIO DEL CONTRIBUYENTE PARA FINES TRIBUTARIOS.
+ALCANCE DE LA EXENCIÓN DEL IMPUESTO TERRITORIAL ESTABLECIDA POR LA LEY N° 13.713, DE 1959, RESPECTO DE INMUEBLES PERTENECIENTES A PERSONA JURÍDICA DISUELTA.
 
-I. ANTECEDENTES Según consta del contrato acompañado, "XXX" ha suscrito un contrato de prestación de servicios con "YYY", en virtud del cual primero se obliga a prestar al segundo, el servicio de "oficina virtual" respecto del inmueble ubicado en AAA ("el Domicilio").
+I. ANTECEDENTES Conforme lo antecedentes aportados, AAA solicitó se declare la exención del 100% del Impuesto Territorial para inmuebles de su propiedad, amparándose en la doctrina del Oficio N° 746 de 2010, relativa al alcance de la exención contenida en la Ley N° 13.713 respecto de TTT, que comprendería a ’todo impuesto o contribución’.
+II. ANÁLISIS
+En este caso, para resolver la cuestión planteada, un aspecto previo y esencial a dilucidar consiste en determinar el alcance de la ’continuidad legal’ establecida entre la disuelta ’BBB’ y su sucesora legal ’AAA’, ya que, si para efectos tributarios no existe tal continuidad, no cabe la aplicación de la Ley N° 13.713 ni el criterio del Oficio N° 746 de 2010 invocado.
+Al respecto, la Ley N° 18.851, de 1989, ordenó la ’transformación’ de la ex Empresa del Estado por una sociedad anónima, regida por las normas de las sociedades anónimas abiertas y sometida a la fiscalización de la Superintendencia de Valores y Seguros (artículo 2°).
+Asimismo, su artículo 3° dispuso que ’la sociedad anónima que se ordena constituir por esta ley será la continuadora legal de la BBB, a contar de la fecha en que inicie su existencia legal.’
 
-De acuerdo a los términos del Contrato, los servicios que comprende la "oficina virtual" son los siguientes: i) Dirección Tributaria, ii) Dirección Comercial, iii) Recepción de correspondencia, iv) Recepción de llamadas telefónicas, v) Recepción y retiro de documentos; vi) Uso de 3 horas de oficina al mes, entre otros.
-
-Por "dirección tributaria", se entiende el derecho del Cliente para informar el Domicilio ante el Servicio de Impuesto Internos, con el objeto iniciar actividades, obtener RUT y timbrar documentos tributarios, como facturas exentas, facturas afectas, boletas, etc.
-
-El numero Décimo Quinto del contrato señala que el "giro del cliente es: Bodegaje y transportes."
-
-Además conforme al mismo contrato, cláusula décimo séptima, el Cliente declara que para todos los efectos legales, como notificaciones judiciales (penales, civiles, familia, laborales, previsionales, entre otros), su domicilio será BBB, y no el domicilio virtual que establece el Contrato.
-II. ANALISIS
-Sobre el tema consultado, el criterio vigente es el contenido en el oficio Ord. N° 1822, de 2009, de este Servicio, en el que se determinó que, por las razones que allí se exponen, la dirección derivada del servicio de "oficina virtual", en general no puede aceptarse como domicilio hábil para los efectos de la inscripción en el Rol Único Tributario y la declaración de inicio de actividades, establecidas en los artículos 66 y 68 del Código Tributario, y cuyas instrucciones se impartieron mediante la Circular N° 31 de 2007, ya que para estos fines, el domicilio a registrar debe coincidir con el lugar donde se realice la actividad principal del negocio o giro.
-
-Ahora bien, en la situación planteada en esta consulta, la denominada "dirección tributaria" sólo correspondería a la dirección de un tercero que le presta al contribuyente el servicio de "Oficina Virtual".
-
-De este modo, considerando que el giro declarado por el contribuyente corresponde a "Bodegaje y Transportes", no se cumple con la exigencia de presentar un domicilio que corresponda al principal lugar en el cual desarrolle la actividad declarada, que es lo requerido para la inscripción en el R.U.T. y la declaración de inicio de actividades, así como para la emisión de facturas y otros documentos tributarios.
-
-Lo anterior, desde luego no obsta a que el domicilio de la señalada oficina virtual, pueda constituirse válidamente para los efectos de notificaciones, en conformidad al artículo 13 del Código Tributario.
-
-III. CONCLUSIÓN
-En atención a lo expuesto, se informa que, en el caso planteado, la denominada dirección tributaria derivada del servicio de "oficina virtual", no constituye un domicilio hábil para los efectos de inscripción en el Rol Único Tributario y Declaración de Inicio de Actividades del contribuyente, así como tampoco para la emisión de facturas y otros documentos tributarios.
-
-Sin perjuicio de lo anterior, la dirección de la mencionada oficina virtual puede constituirse como domicilio válido para efectos de las notificaciones, según lo establecido en el artículo 13 del Código Tributario.
+Sobre el alcance del concepto ’continuador legal’, este Servicio ha resuelto que "únicamente en aquellos casos en que el legislador utiliza términos claros y precisos, tales como ’continuadora legal’ o ’sucesor legal’, puede entenderse que la nueva entidad conserva el estatuto jurídico tributario y, en consecuencia, siguen vigentes a su respecto las franquicias tributarias que beneficiaban al órgano que se reemplaza" .
+Esta doctrina fue precisada recientemente, pues no basta el mero empleo de tales expresiones (’continuadora legal’ o ’sucesora legal’), las cuales constituyen menciones necesarias, pero no suficientes, para conservar el mismo estatuto tributario. De este modo, a propósito de la continuidad legal de ZZZ y sus efectos tributarios, este Servicio resolvió que el beneficio contenido en el artículo 40 N° 1 de la ley sobre Impuesto a la Renta, que exime de ese tributo al Fisco (entre otras entidades), no procedía para la sociedad anónima sucesora, precisamente porque esta última, si bien era continuadora legal, no compartía la personalidad jurídica del Fisco como su antecesora .
+Este Servicio precisó que, tratándose del crédito fiscal del Impuesto al Valor Agregado generado por la antecesora legal, excepcionalmente se permitía su recuperación por parte de la sucesora legal en base a una interpretación del texto expreso de ley; haciendo presente que no podía ’extenderse dichos efectos a otras situaciones’.
+En consecuencia, el sólo empleo de las expresiones ’continuadora legal’ o ’sucesora legal’ no garantizan la conservación del estatuto tributario anterior ni tiene efectos generales. Para determinar sus efectos debe analizarse el contexto general de la respectiva ley.
+Al respecto, revisada la Ley N° 18.851, se comprueba que la continuidad legal no comprende ni el estatuto jurídico tributario ni, en general, los beneficios que amparaban a la primitiva Empresa del Estado. Así, por ejemplo, respecto de las materias tributarias, la ley dispuso expresamente que los boletos, las tarjetas y en general los medios que AAA que se utilicen para recepcionar apuestas de los juegos que administre, como asimismo los premios que deban pagarse como resultado de ellos, estarán exentos de todo tipo de contribuciones y gravámenes fiscales y municipales , salvo el establecido en el artículo 2° de la ley N° 18.110 (artículo 10°, inciso primero).
+Asimismo, la Ley N° 18.851 previó que, para los efectos de la Ley sobre Impuesto a la Renta, la exención señalada corresponde a la establecida en el artículo 39, N° 2°, de la Ley sobre Impuesto a la Renta. Por otra parte, para los efectos de la Ley sobre Impuesto a las Ventas y Servicios, la Ley N° 18.851 hizo aplicable a la sociedad anónima que se constituya, la exención señalada en el artículo 13, N° 8), del decreto ley N° 825, de 1974 (artículo 10°, inciso segundo).
+Según se aprecia, la continuidad legal en el caso analizado no alcanza al régimen jurídico tributario, salvo en aquellas materias expresamente señaladas por ley y en virtud de una homologación expresa (tal exención ’corresponderá’ a tal otra; para los efectos de tal impuesto ’será aplicable’ tal otro beneficio); entre las cuales no se comprende una exención de Impuesto Territorial.
+Luego, conforme la doctrina del Oficio N° 2435 de 2010, salvo texto expreso en contrario, el beneficio tributario establecido a favor de una específica ’personalidad jurídica del Fisco’ no se extiende a su sucesora.
+III. CONCLUSIONES
+El beneficio establecido en la Ley 13.713, si bien está vigente y tiene el alcance dado en el Oficio N° 746 de 2010 para la institución allí señalada, no ampara a AAA por tratarse de una persona jurídica distinta a la disuelta y ya inexistente BBB
+La continuidad legal establecida en el artículo 3° de la Ley N° 18.851 es de alcance limitado y no incluye al régimen tributario anterior.
+Por tanto, no corresponde reclamar la exención del 100% del Impuesto Territorial ni tampoco su devolución retroactiva.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 1136, de 15.05.2012
+Oficio N° 1386, de 05.06.2012
 
 Subdirección Normativa
 

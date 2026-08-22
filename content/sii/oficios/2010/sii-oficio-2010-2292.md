@@ -6,41 +6,54 @@
 - Año: 2010
 - Fecha: 2010-12-14
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja2321.htm
-- Hash SHA-256: 1260f6439d5ec1d723bebb054151e7f1378c7e3fcc0a564d7c978eb29e039190
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja2322.htm
+- Hash SHA-256: 7cfb77e81ab16bb4e8f460632d422c15654c97b6f94af42aafbe5bcb0141bbf3
 
 ## Resumen
 
-;margin-bottom:20px;font-size:12px;text-align:justify;'> RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; . (Ord. Nº 2322, de 14-12-2010) | Word Pronunciamiento respecto del momento en que una operación de derivados financieros debe reconocerse tributariamente como liquidada. RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 17°, N°13 &ndash; LEY N° 18.961, DE 1990 &ndash; LEY N° 19.115, DE 1993, ART. 6°, TRANSITORIO &ndash; DECRETO N° 412, DE DEFENSA, ART. 131°. (Ord. Nº 2321, de 14-12-2010) | Word Mo…
+RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; . (Ord. Nº 2322, de 14-12-2010) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"42 N"}
-- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"oficio","number":2292,"year":1996}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°13 – LEY N° 18.961, DE 1990 – LEY N° 19.115, DE 1993, ART. 6°, TRANSITORIO – DECRETO N° 412, DE DEFENSA, ART. 131°. (ORD. N° 2321, DE 14.12.2010)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – OFICIO N° 2292, DE1996. (ORD. N° 2322, DE 14.12.2010)
 
-MONTEPÍO RECIBIDO POR VIUDA DE FUNCIONARIO DE GENDARMERÍA DE CHILE, FALLECIDO EN ACTO DE SERVICIO, SE ENCUENTRA AFECTO AL IMPUESTO ÚNICO A LAS REMUNERACIONES ESTABLECIDO EN EL ARTÍCULO 42°, N°1, DE LA LEY SOBRE IMPUESTO A LAS RENTA.
+PRONUNCIAMIENTO RESPECTO DEL MOMENTO EN QUE UNA OPERACIÓN DE DERIVADOS FINANCIEROS DEBE RECONOCERSE TRIBUTARIAMENTE COMO LIQUIDADA.
 
-La Contraloría General de la República ha remitido la presentación de XXX, quien solicita se libere su montepío del pago del Impuesto a la Renta. I.- ANTECEDENTES.
-La ocurrente expone que percibe un montepío de la Caja de Previsión de Carabineros, Dipreca, beneficio derivado del deceso de su cónyuge, ex funcionario de Gendarmería de Chile, quien falleció el xx de xx de 199x, producto de un accidente en acto de servicio.
-Agrega que desde esa fecha, y en forma intermitente, ha debido efectuar Declaraciones de Renta, no obstante que este Servicio a través de la Resolución N°xxx, de x de xx de 2004, de la Dirección Regional Santiago TTT de este Servicio, hace referencia a un Informe en que se establece que no está obligada a presentar declaraciones de renta, toda vez que el montepío que percibe por su cónyuge, no constituye renta. No obstante ello, se habrían emitido giros por el Servicio de Tesorerías correspondientes a la declaración de renta por el montepío recibido, ante lo cual solicita un pronunciamiento definitivo sobre la materia.
-II.- ANÁLISIS.
-Conforme a lo establecido por el artículo 6° transitorio de la Ley N°19.115, de 13.01.1993, el personal de las plantas de oficiales y vigilantes penitenciarios de Gendarmería de Chile que hubiere fallecido en actos de servicio, entre el 1° de noviembre de 1990 y la fecha de vigencia de dicha ley, causará derecho a pensión de montepío desde la fecha de su deceso, la que se regulará en la forma establecida en la Ley Orgánica Constitucional de Carabineros de Chile, resultando plenamente aplicable la normativa de Carabineros de Chile al presente caso.
+Se ha solicitado a este Servicio pronunciarse respecto del momento en que en una operación de derivados financieros debe reconocerse tributariamente como "liquidada".
 
-En tal sentido, ni la Ley N°18.961, de 07.03.1990, Orgánica Constitucional de Carabineros de Chile, como tampoco el Decreto N°412, de Defensa, que contiene el texto refundido, coordinado y sistematizado del Estatuto del Personal de Carabineros de Chile, contienen normas que eximan a los montepíos del impuesto Único a las remuneraciones del artículo 42 N°1 de la Ley sobre Impuesto a la Renta (LIR), que grava precisamente "... los montepíos y pensiones", siendo en consecuencia inexacta la apreciación de la ocurrente cuando afirma que ella no debe tributar con impuesto por este incremento patrimonial.
-Distinto es el caso de la indemnización a que se refiere el artículo 131 del Decreto N° 412, citado, la que se encuentra liberada de impuesto a la renta conforme a lo dispuesto por el artículo 17, N°13 de la LIR.
+I. ANTECEDENTES.
 
-II.- CONCLUSIÓN.
-Al no existir una la norma que exceptúe los montepíos del pago de Impuesto Único a las remuneraciones, deben tributar en la forma normal prevista en la LIR.
+Mediante Oficio N°2292, de 1996, este Servicio indicó que tanto las pérdidas como las utilidades que se deriven de las operaciones de derivados financieros se reconocen como tales en la oportunidad en que son realizadas o se generan efectivamente, lo cual ocurre cuando las operaciones son liquidadas. Sin embargo, dicho pronunciamiento no especifica cuándo debe entenderse que las referidas operaciones se encuentran liquidadas.
+
+Plantea que en el ámbito financiero y en particular respecto de las operaciones de derivados cuyas obligaciones se extinguen por compensación, se entiende por liquidación el proceso por el cual se determina cuál de las partes involucradas en la transacción debe asumir la calidad de deudor y cuál la de acreedor.
+
+Si bien la liquidación opera, por regla general, al momento del vencimiento del respectivo contrato de derivados, en aquellos casos en que las partes han pactado múltiples compensaciones que tienen lugar en fechas anteriores a la del término del acuerdo, debe entenderse que las utilidades o pérdidas derivadas de la operación se generan y por tanto deben reconocerse tributariamente, cada vez que debe darse cumplimiento a una compensación, ya que en cada una de esas fechas se determina, en relación con la respectiva compensación, quién asume la calidad de deudor y acreedor.
+
+En el caso particular se consulta respecto de varios contratos de derivados denominados Cross Currency Swap que tienen iguales términos, pero fechas de vencimiento distintas, y cuyas copia adjunta. En dichos contratos, las diversas compensaciones presentan el carácter de definitivas, es decir, a su respecto no proceden devoluciones ni prestaciones posteriores entre las partes.
+
+Se trataría por tanto, de contratos que contienen múltiples liquidaciones; o desde otro punto de vista, es posible sostener que las partes han celebrado múltiples contratos de derivados en un único instrumento.
+
+De acuerdo con lo expuesto, solicita se confirme que se debe reconocer el resultado de cada una de las compensaciones en el ejercicio en que ellas se verifican y no en el ejercicio en que se verifica la última compensación.
+
+II. ANÁLISIS.
+
+Sobre el particular, cabe señalar que efectivamente mediante Oficio N°2292, de 1996, de su conocimiento, este Servicio señaló que en materia tributaria, tanto las pérdidas como las utilidades que se derivan de las operaciones de derivados financieros se reconocen tributariamente en la oportunidad en que las mismas son realizadas o se generan efectivamente, lo que ocurre cuando dichas operaciones son liquidadas.
+
+Ahora bien, de acuerdo con lo que señala en su presentación los contratos sobre los cuales consulta contemplan múltiples liquidaciones que operan en las fechas pactadas en cada caso. En cada una de tales fechas, y conforme al tenor de los contratos acompañados, cada parte se obliga a pagar ciertas cantidades que se determinarán de conformidad con los criterios allí estipulados. Establecidas las cantidades a pagar por cada parte, se compensarán extinguiéndose recíprocamente hasta la concurrencia de sus valores; y la parte que resultare deudora deberá pagar la diferencia a la parte que resulte acreedora.
+
+Atendido que las referidas compensaciones tienen el carácter de definitivas y que una vez determinada quien es la parte deudora y la parte acreedora y efectuado el pago correspondiente, no proceden devoluciones ni prestaciones posteriores, cabe entender que en ese momento se realizan las utilidades o pérdidas que correspondan. III. CONCLUSIÓN.
+
+En consecuencia, se confirma lo planteado en su presentación, esto es, que el resultado tributario de cada una de las compensaciones de los contratos de Cross Currency Swap sobre los cuales consulta y que se han acompañado a su presentación, debe reconocerse en el ejercicio en que dichas compensaciones se verifican.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 2321, de 14.12.2010
+Oficio N° 2322, de 14.12.2010
 
 Subdirección Normativa
 
