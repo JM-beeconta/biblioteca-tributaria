@@ -6,6 +6,9 @@ on:
     paths:
       - '.bootstrap-full-history'
       - '.github/workflows/library-update.yml'
+      - 'lib/**'
+      - 'scripts/update.mjs'
+      - 'tests/**'
   schedule:
     - cron: '17 6 * * 1'
       timezone: 'America/Santiago'
@@ -23,7 +26,6 @@ permissions:
   id-token: write
 
 concurrency:
-  # Comparte el grupo con la primera versión monolítica para cancelarla al arrancar este flujo.
   group: biblioteca-tributaria
   cancel-in-progress: true
 
@@ -85,23 +87,29 @@ jobs:
 
           if [ -f .bootstrap-state.json ]; then
             NEXT_TO=$(node -e "const s=require('./.bootstrap-state.json'); console.log(s.next_to)")
+            FIRST=0
           else
-            NEXT_TO=$CURRENT_YEAR
+            # Priorizamos los dos años recientes para validar y poblar el buscador cuanto antes.
+            RECENT_FROM=$((CURRENT_YEAR - 1))
+            echo "Procesando tramo reciente $RECENT_FROM-$CURRENT_YEAR"
+            node scripts/update.mjs --from="$RECENT_FROM" --to="$CURRENT_YEAR"
+            NEXT_TO=$((RECENT_FROM - 1))
+            printf '{\n  "next_to": %s,\n  "min_year": %s,\n  "chunk": %s\n}\n' "$NEXT_TO" "$MIN_YEAR" "$CHUNK" > .bootstrap-state.json
+            git add data content .bootstrap-state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: backfill tributario reciente $RECENT_FROM-$CURRENT_YEAR"
+              git push
+            fi
+            FIRST=0
           fi
 
-          FIRST=1
           while [ "$NEXT_TO" -ge "$MIN_YEAR" ]; do
             HI=$NEXT_TO
             LO=$((HI - CHUNK + 1))
             if [ "$LO" -lt "$MIN_YEAR" ]; then LO=$MIN_YEAR; fi
 
             echo "Procesando tramo SII $LO-$HI"
-            if [ "$FIRST" -eq 1 ]; then
-              node scripts/update.mjs --from="$LO" --to="$HI"
-              FIRST=0
-            else
-              node scripts/update.mjs --from="$LO" --to="$HI" --skip-bcn
-            fi
+            node scripts/update.mjs --from="$LO" --to="$HI" --skip-bcn
 
             NEXT_TO=$((LO - 1))
             printf '{\n  "next_to": %s,\n  "min_year": %s,\n  "chunk": %s\n}\n' "$NEXT_TO" "$MIN_YEAR" "$CHUNK" > .bootstrap-state.json
