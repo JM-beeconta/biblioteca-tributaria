@@ -29,6 +29,19 @@ test('el contexto de un anchor no se mete en el resumen del ítem vecino (regres
   assert.doesNotMatch(second.context, /Reorganiza las unidades/, 'el resumen del ítem anterior no debe filtrarse en el segundo');
 });
 
+test('el contexto no arranca con la cola de una etiqueta cortada (regresión visible en producción)', () => {
+  // El margen hacia atrás (80 caracteres) puede cortar justo en medio de un atributo largo de la
+  // etiqueta anterior, dejando basura tipo `9">` al principio del contexto — se vio literalmente
+  // en el resumen publicado de una Resolución real.
+  const filler = 'x'.repeat(150);
+  const html = `<div data-note="${filler}9"><a href='reso9.pdf'>Resolución Exenta SII N° 9 del 2 de Enero del 2026</a></div>` +
+    `<p>Reorganiza las unidades que conforman el departamento.</p>`;
+  const indexUrl = 'https://www.sii.cl/normativa_legislacion/resoluciones/2026/res_ind2026.htm';
+  const [anchor] = extractAnchors(html, indexUrl);
+  assert.doesNotMatch(anchor.context, /x{3,}|">/, 'no debe arrancar con la cola de una etiqueta cortada ni con el atributo previo');
+  assert.match(anchor.context, /Resolución Exenta/);
+});
+
 test('extrae referencias cruzadas', () => {
   const refs = extractReferences('Modifica Circular N° 12 de 2021 y Oficio N° 901 de 2026. artículo 31 de la Ley sobre Impuesto a la Renta.');
   assert.ok(refs.some((r) => r.type === 'circular' && r.number === 12 && r.year === 2021));

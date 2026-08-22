@@ -1,3 +1,5 @@
+import { citationCode } from './citation.mjs';
+
 const els = {
   search: document.querySelector('#search'),
   source: document.querySelector('#sourceFilter'),
@@ -116,11 +118,11 @@ function render() {
 
   els.results.innerHTML = visibleResults.map(({ doc }) => {
     const refs = (doc.references || []).slice(0, 6).map((r) => `<span class="ref">${escapeHtml(refLabel(r))}</span>`).join('');
-    const meta = [doc.type, doc.year, ...(doc.categories || [])].filter(Boolean).join(' · ');
+    const category = (doc.categories || [])[0] || '';
     const summary = doc.summary_short || doc.summary || 'Documento tributario disponible para consulta.';
     return `<article class="card" data-id="${escapeHtml(doc.id)}" tabindex="0" role="button" aria-label="Abrir ${escapeHtml(doc.title)}">
       <div class="card-main">
-        <div class="card-meta"><span class="badge ${doc.source === 'SII' ? 'sii' : ''}">${doc.source}</span><span>${escapeHtml(meta)}</span></div>
+        <div class="card-meta"><span class="cite-stamp ${doc.source === 'SII' ? 'sii' : 'bcn'}">${escapeHtml(citationCode(doc))}</span>${category ? `<span class="card-category">${escapeHtml(category)}</span>` : ''}</div>
         <h2>${escapeHtml(doc.title)}</h2>
         <p class="card-summary" title="${escapeHtml(summary)}">${escapeHtml(summary)}</p>
         ${refs ? `<div class="refs">${refs}</div>` : ''}
@@ -145,8 +147,8 @@ function closeReader() {
 function openReader(doc) {
   if (!doc) return;
   els.readerTitle.textContent = doc.title;
-  els.readerBadge.textContent = doc.source;
-  els.readerBadge.className = `badge ${doc.source === 'SII' ? 'sii' : ''}`;
+  els.readerBadge.textContent = citationCode(doc);
+  els.readerBadge.className = `cite-stamp ${doc.source === 'SII' ? 'sii' : 'bcn'}`;
   els.readerOfficial.href = doc.source_url;
   const htmlPath = `./${doc.html_path}`;
   els.readerHtml.href = htmlPath;
@@ -180,19 +182,20 @@ function renderCorpusMonitor(meta, backfill) {
 
   if (!backfill) return;
   els.backfillProgress.hidden = false;
-  const done = Number(backfill.completed_count || 0);
-  const total = Number(backfill.total_ranges || 0);
   els.backfillProgress.classList.remove('completed', 'failed');
+  // Se muestra sin la fracción "done/total": el denominador queda fijo en el bootstrap original
+  // (14 tramos) mientras que las cargas reales siguen sumando rangos con el tiempo (BCN,
+  // Resoluciones, etc.), así que la razón puede superar 1 y leerse como si algo estuviera roto.
   if (backfill.status === 'completed') {
     els.backfillProgress.classList.add('completed');
-    els.backfillText.textContent = `Histórico completo · ${done}/${total} tramos`;
+    els.backfillText.textContent = 'Histórico completo';
   } else if (backfill.status === 'failed') {
     els.backfillProgress.classList.add('failed');
     const last = backfill.last_completed_range ? ` · último completo: ${backfill.last_completed_range}` : '';
-    els.backfillText.textContent = `Carga histórica detenida por error · ${done}/${total} tramos${last}`;
+    els.backfillText.textContent = `Carga histórica detenida por error${last}`;
   } else {
     const last = backfill.last_completed_range ? ` · último: ${backfill.last_completed_range}` : '';
-    els.backfillText.textContent = `Carga histórica en curso · ${done}/${total} tramos${last}`;
+    els.backfillText.textContent = `Carga histórica en curso${last}`;
   }
 }
 
