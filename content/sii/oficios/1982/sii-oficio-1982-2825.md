@@ -6,12 +6,12 @@
 - Año: 1982
 - Fecha: 1982-08-24
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/2342_82.htm
-- Hash SHA-256: 7bf56905d593652503f5ad885b553a540e83186b2e6689f213d87c8d61dc0606
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/2825_82.htm
+- Hash SHA-256: 85bef41d36b179bc8c047448c08813b9f9f69a4f99dc69479969936760739ab5
 
 ## Resumen
 
-a href="ventas/2825_82.htm">Ley de Impuestos a las Ventas y Servicios. Artículo 55 Forma en que deben tratarse las diferencias de unidades y/o precio unitario detectados entre guías de despacho y su correspondiente factura. ( Ley de Impuestos a las Ventas y Servicios IVA en servicios prestados por Sociedad de Inversiones. (Oficio N° 2342, de 19 Julio de 1982) Ley de Impuestos a las Ventas y Servicios. Art. 2°, N°2 Exención del IVA en el cobro de valores de incorporación y/o aporte a servicios sanitarios (Oficio N°…
+ro de 1983) Ley de Impuestos a las Ventas y Servicios. Artículo 55 Forma en que deben tratarse las diferencias de unidades y/o precio unitario detectados entre guías de despacho y su correspondiente factura. (
 
 ## Referencias detectadas
 
@@ -19,18 +19,15 @@ a href="ventas/2825_82.htm">Ley de Impuestos a las Ventas y Servicios. Artículo
 
 ## Texto extraído
 
-OFICIO 2342 de 1982
+OFICIO N°3584 de 17 de octubre de 1991
 
-Home | Años
-anteriores
+Home
+| Años anteriores
 
-LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - OFICIO N°2342
-de 19 de Julio de 1982
+LEY
+DE IMPUESTOS A LAS VENTAS Y SERVICIOS. ARTICULO 55. OFICIO N°
+2825, de 24 DE AGOSTO DE 1982
 
-IVA en servicios prestados por Sociedad de Inversiones.
-
-OFICIO NO. 2342, DE 19.11.1982
-
-SUBDIRECCION NORMATIVA
-
-DEPTO. IMPUESTOS INDIRECTOS
+Forma en que deben tratarse las diferencias de unidades y/o precio
+unitario detectados entre guías de despacho y su correspondiente
+factura.

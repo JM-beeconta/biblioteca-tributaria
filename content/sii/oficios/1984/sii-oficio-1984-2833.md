@@ -6,12 +6,12 @@
 - Año: 1984
 - Fecha: 1984-08-27
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/579_83.htm
-- Hash SHA-256: 0b0235a5d1a01dfe71aaddf66a31baafe2ba999ff29cede67d1adfafcff8b0e1
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/2833_84.htm
+- Hash SHA-256: f90e5cad8a2866cd28befd46a8e764ced18974a3e521d8bff8b007c5612a47f4
 
 ## Resumen
 
-en contrato de procesamiento de basura. ( Ley de Impuestos a las Ventas y Servicios Normativa sobre uso y determinación del Crédito fiscal en caso de regalías entregadas a los trabajadores. (Oficio N° 3646, de 17 de Noviembre de 1983) Ley de Impuestos a las Ventas y Servicios Tratamiento tributario que las ISAPRES deben tener presente respecto de la obligación de emisión de boletas por los ingresos que perciban y en la aplicación del impuesto al Valor Agregado. (Oficio N° 579, de 14 de Febrero de 1983) Ley de Impu…
+re de 1984) Ley de Impuestos a las Ventas y Servicios IVA en contrato de procesamiento de basura. (
 
 ## Referencias detectadas
 
@@ -19,13 +19,22 @@ en contrato de procesamiento de basura. ( Ley de Impuestos a las Ventas y Servic
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N� 579, de 1983.
+OFICIO 2833 de 1984
 
-Home | Ventas
-y Servicios - Anteriores
-LEY DE IMPUESTOS
-A LAS VENTAS Y SERVICIOS ORDINARIO N� 579, de 14 de Febrero de 1983.-
+Home | Años
+anteriores
 
-TRATAMIENTO TRIBUTARIO QUE LAS ISAPRES DEBEN TENER PRESENTE RESPECTO DE
-LA OBLIGACION DE EMISION DE BOLETAS POR LOS INGRESOS QUE PERCIBAN Y EN
-LA APLICACION DEL IMPUESTO AL VALOR AGREGADO.
+LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - OFICIO N°2833
+de 27 de agosto de 1984
+
+IVA en contrato de procesamiento de basura
+
+Jorge Varela Videla
+
+Director
+
+OFICIO NO. 2833, DE 27.08.1984
+
+SUBDIRECCION NORMATIVA
+
+DEPTO. IMPUESTOS INDIRECTOS

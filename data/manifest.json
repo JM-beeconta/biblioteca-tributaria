@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T23:47:10.914Z",
-  "total_documents": 11242,
+  "generated_at": "2026-08-22T23:47:50.388Z",
+  "total_documents": 11243,
   "by_source": {
-    "SII": 10453,
+    "SII": 10454,
     "BCN": 789
   },
   "by_type": {
     "resolucion": 1975,
-    "oficio": 7614,
+    "oficio": 7615,
     "circular": 864,
     "norma": 294,
     "articulo": 495
@@ -23,7 +23,7 @@
     "1981": 4,
     "1982": 3,
     "1983": 4,
-    "1984": 5,
+    "1984": 6,
     "1985": 11,
     "1986": 1,
     "1987": 14,
@@ -419,7 +419,7 @@
       "name": "1984.json",
       "path": "data/index/1984.json",
       "relations_path": "data/relations/1984.json",
-      "count": 3,
+      "count": 4,
       "source": "SII",
       "year": 1984
     },
