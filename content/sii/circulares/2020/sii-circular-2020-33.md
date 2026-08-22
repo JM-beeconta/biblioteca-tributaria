@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 34 del 11 de Mayo del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2020 y el 9 de junio de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Circular N° 32 del 29 de Ab…
+acute;n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2020 y el 9 de junio de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

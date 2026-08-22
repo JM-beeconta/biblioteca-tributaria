@@ -11,7 +11,7 @@
 
 ## Resumen
 
-na de Gestión Normativa Circular N° 13 del 24 de Febrero del 2020 Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2020. Aclara aplicación de información contenida en Circular N° 6 de 2020 Fuente: Oficina de Gestión Normativa. Tabla de Cálculos de Reajustes, Intereses y Multas Marzo 2020 Fuente: Subdirección de Fiscalización. Circular N° 11 del 12 de Febrero del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2020 e información…
+acute;n Normativa. Tabla de Cálculos de Reajustes, Intereses y Multas Marzo 2020 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

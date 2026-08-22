@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 71
 - Año: 2020
-- Fecha: 2020-12-11
+- Fecha: 2020-12-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu71.pdf
 - Hash SHA-256: 4f72ec2d5e704fdfeff5694323e205df4789431c68afa216891f0a797ada0a42
 
 ## Resumen
 
-completa, vigente a contar del 1° de enero de 2020. Fuente: Subdirección Normativa. Circular N° 72 del 11 de Diciembre del 2020 Tabla de cálculos de reajustes, intereses y multas enero 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2020 y el 9 de enero de 2021, ambos inclusive. Fuente: Oficina de Gestión Normativa. Circular N° 70 del 10 de Diciembre del 2020 Tablas de Impuesto Único de Segunda Categ…
+calización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2020 y el 9 de enero de 2021, ambos inclusive. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2018
-- Fecha: 2018-08-10
+- Fecha: 2018-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu42.pdf
 - Hash SHA-256: 398ca00845222adc7271b7c8b1f7f9937bdfe616bf795056d907fa8bf3633ac7
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 43 del 10 de Agosto del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2018 y el 9 de septiembre del año 2018. Fuente: Oficina de Gestión Normativa Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización. Fuente: Impuestos Directos Cir…
+oacute;n Normativa Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

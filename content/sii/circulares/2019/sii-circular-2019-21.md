@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2019
-- Fecha: 2019-05-16
+- Fecha: 2019-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu21.pdf
 - Hash SHA-256: 6c49c28e96b8a804cdf289b1acc6aa71851a9597f51694b32ecdb0658d0beda3
 
 ## Resumen
 
-contribuyentes para hacer uso del beneficio contenido en el Art. 29°, de la Ley N° 18.591, modificada por el Art. 392°, de la Ley N° 20.720. Fuente: Impuestos Indirectos Circular N° 22 del 16 de Mayo del 2019 Tabla de cálculos de reajustes, intereses y multas junio 2019. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2019 y el 9 de junio de 2019. Fuente: Oficina de Gestión Normativa Circular N° 20 del 10 de Mayo del 2019 Tablas de Impuesto Únic…
+cción de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2019 y el 9 de junio de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

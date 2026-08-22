@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2018
-- Fecha: 2018-07-13
+- Fecha: 2018-07-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu38.pdf
 - Hash SHA-256: f764d2c516ccc7d6e61f70daec2c56e022914b256fceaf3425580850b9d7f77e
 
 ## Resumen
 
-Circular N° 39 del 13 de Julio del 2018 Complementa Circular N°54 del 2 de octubre de 2009 extendiendo el tratamiento tributario contenido en ella, a los pañales que presenten fallas o deterioros que produzcan una pérdida del valor comercial del producto y dificulten o hagan imposible su comercialización Fuente: Impuestos Directos Imparte instrucciones relativas al Artículo 8 de la Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organizaci…
+Impuestos Directos Imparte instrucciones relativas al Artículo 8 de la Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organización para la Cooperación y el Desarrollo Económico. Fuente: Departamento de Asesoría Jurídica.Departamento de Defensa Judicial Penal
 
 ## Referencias detectadas
 

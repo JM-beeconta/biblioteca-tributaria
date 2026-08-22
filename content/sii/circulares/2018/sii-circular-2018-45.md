@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2018
-- Fecha: 2018-09-12
+- Fecha: 2018-09-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu45.pdf
 - Hash SHA-256: 6b8a6074d4c30265f2658eff57004d60d44ae85ae63453a91ac75ae537d42869
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 46 del 12 de Septiembre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2018 y el 9 de octubre del año 2018. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 44 del 23 de Agosto del 2018 Tabla de Cá…
+acute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-38.pdf' target='_blank'>Circular N° 38 del 09 de Julio del 2018 Imparte instrucciones relativas al Artículo 8 de la Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organización para la Cooperación y el Desarrollo Económico. Fuente: Departamento de Asesoría Jurídica.Departamento de Defensa Judicial Penal Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2018 y el 9 de agosto del año 2018. Fuente: Oficina…
+nsa Judicial Penal Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2018 y el 9 de agosto del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

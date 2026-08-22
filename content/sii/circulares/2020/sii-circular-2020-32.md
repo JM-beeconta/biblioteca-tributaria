@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2020
-- Fecha: 2020-05-11
+- Fecha: 2020-04-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu32.pdf
 - Hash SHA-256: 58a1e35d5c0180d85c971797d81bd87dadaeb88072ac42932b9db7359d499720
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa. Circular N° 33 del 11 de Mayo del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2020 y el 9 de junio de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta por…
+acute;n Normativa. Tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta por el N° 13 del artículo 2° de la Ley N° 21.210. Deja sin efecto Circular N° 19 de 2010. Fuente: Impuestos Directos.
 
 ## Referencias detectadas
 

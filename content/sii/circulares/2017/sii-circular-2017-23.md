@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2017
-- Fecha: 2017-04-12
+- Fecha: 2017-04-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu23.pdf
 - Hash SHA-256: 4e9c15349a44609a6acd634eb22bd8517219cec5be4049cde0f3891dfbc7d838
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 24 del 12 de Abril del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2017 y el 9 de mayo del año 2017. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 22 del 07 de Abril del 2017 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la ren…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

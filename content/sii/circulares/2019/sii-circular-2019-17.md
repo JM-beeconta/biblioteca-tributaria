@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p:0px;margin-bottom:0px;'>Tabla de cálculos de reajustes, intereses y multas mayo 2019. Fuente: Subdirección de Fiscalización Circular N° 18 del 09 de Abril del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2019 y el 9 de mayo de 2019. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 16 del 09 de Abril del 2019…
+Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

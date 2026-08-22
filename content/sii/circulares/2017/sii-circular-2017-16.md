@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 17 del 22 de Febrero del 2017 Norma aplicación de ajustes al avalúo de terreno a casos particulares de Bienes Raíces no agrícolas correspondientes a sitios no edificados, propiedades abondonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones Cambio de criterio respecto del cómputo del plazo para invocar la exención contemplada en el artículo 42 ter de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Impuestos Directos Circular N° 15 del 22 de Feb…
+astro y Tasaciones Cambio de criterio respecto del cómputo del plazo para invocar la exención contemplada en el artículo 42 ter de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

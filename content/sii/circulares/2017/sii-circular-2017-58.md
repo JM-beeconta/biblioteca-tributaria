@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 58
 - Año: 2017
-- Fecha: 2017-12-15
+- Fecha: 2017-12-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu58.pdf
 - Hash SHA-256: 60ddd9ad144aa98bd1e0d1f6738b78a6a4047a4571e8ec760e3c07a0c8a14452
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 59 del 15 de Diciembre del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2017 y el 9 de enero del año 2018. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda categoría para el mes de enero del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 57 del 07 de Diciembre del 2017 Precisa el concepto de establecimiento permanente, en relac…
+acute;n Normativa Tablas de Impuesto Único de Segunda categoría para el mes de enero del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

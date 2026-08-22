@@ -6,50 +6,210 @@
 - Año: 2017
 - Fecha: 2017-05-19
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2714.doc
-- Hash SHA-256: 76f967b35a89c782973484c0c9f1d84755c1f0b0f6d1a088c5ed53efcf4d9f25
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2715.doc
+- Hash SHA-256: 15239224f1c6167ead95b8e30b8c3b718b2f2009785e1be5a8a8a6bee655d4e8
 
 ## Resumen
 
-ficio N° 1076, de 2017. (Ord. Nº 2715, de 26-12-2017) | Word Solicitud de aclaración y reconsideración del . (Tributación del artículo 107 de la LIR) Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.518, de 1997, Art. 36. (Ord. Nº 2714, de 26-12-2017) | Word Beneficios tributarios para empresas que capaciten a personas que se encuentren cumpliendo penas privativas de libertad. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 21, Art. 30, Art. 31 &ndash; Circular N° 71, de 2015. (Ord. Nº 2660…
+| Word Solicitud de aclaración y reconsideración del . (Tributación del artículo 107 de la LIR)
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"circular","number":35,"year":2008}
+- {"type":"circular","number":7,"year":2002}
+- {"type":"oficio","number":1076,"year":2017}
+- {"type":"articulo","law":"LIR","article":"107"}
+- {"type":"articulo","law":"LIR","article":"18 ter"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.518, DE 1997, ART. 36. (ORD. N° 2 714 , DE 26 .12.2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 107, N°1, LETRA C) – OFICIO
+               N° 1076, DE 2017. (ORD. N° 2715, DE 26.12.2017)
 
-Beneficios tributarios para empresas que capacit en a personas que se encuentren c umpliendo penas privativas de libertad.
+Solicitud de aclaración y reconsideración del Oficio Ord. N° 1076, de fecha
+19 de mayo de 2017. (Tributación del artículo 107 de la LIR)
 
-Se solicita un informe a este Servicio respecto de la petición del Honorable Diputado TTTT , para que se estudie la factibilidad de establecer beneficios tributarios para las empresas que capaciten o contraten a personas que se encuentre n cumpliendo penas privativas de libertad.
 
-I. ANTECEDEDENTES
+Se ha recibido en esta Dirección Nacional, su presentación indicada  en  el
+antecedente, mediante la cual solicita una reconsideración, aclaración  y/o
+complementación del Oficio Ord. N° 1076 de 2017 (el  “Oficio”),  que  trata
+sobre la aplicación del artículo 107 de la Ley sobre Impuesto  a  la  Renta
+(LIR), a la enajenación de acciones de canje emitidas con  ocasión  de  una
+fusión de una sociedad anónima cerrada en una abierta.
+I.    ANTECEDENTES
+Señala en primer lugar, que en el Oficio se afirma que la Circular N° 35  de
+2008, estableció que "(...) el mayor valor exento será el  que  se  produzca
+por sobre el valor en bolsa de la acción de canje de la sociedad  absorbente
+del día en que se produzca dicho canje, o el valor libro que  la  acción  de
+la sociedad absorbida tuviera  el  día  antes  de  su  colocación  en  bolsa
+(...)". Sin embargo, sostiene que la referida Circular en ningún  caso  hace
+referencia a si los valores corresponden a la  sociedad  absorbida  o  a  la
+sociedad absorbente, limitándose a señalar que, el mayor  valor  exento  (no
+renta) será el que se produzca por sobre el valor en bolsa de la  acción  de
+canje, o el valor libro que la acción tuviera  el  día  anterior  al  de  su
+colocación en bolsa.
+En segundo lugar, manifiesta que en todas las  presentaciones  realizadas  a
+este Servicio se afirmó que las acciones  de  la  sociedad  absorbida  jamás
+fueron colocadas en bolsa, lo cual fue ratificado  por  la  Superintendencia
+de Valores y Seguros mediante un oficio dictado al efecto. De  esta  manera,
+el hecho de que en el caso en particular no exista una colocación  en  bolsa
+de las acciones de canje, hace inaplicable utilizar para  estos  efectos  el
+valor de colocación en bolsa de las acciones, referido en la  letra  c)  del
+artículo 107 de la LIR.
 
-En el oficio de la H. Cámara de Diputados se pide, a petición del Honorable Diputado Sr. TTTT , que se informe respecto de la factibilidad de establecer beneficios tributarios a empresas que capaciten o contr aten a personas que se encuentre n cumpliendo penas privativas de libertad.
+En tercer lugar, desprende que, del análisis realizado por este Servicio  en
+el Oficio, el sentido y alcance de la norma sería el de gravar con  impuesto
+el incremento patrimonial de la sociedad  absorbida,  y  por  tanto  de  sus
+accionistas, antes de cumplir con los requisitos para acceder al ingreso  no
+constitutivo de renta. En este sentido, sostiene que, en su caso,  el  valor
+de cotización en bolsa que haya tenido la  sociedad  absorbente,  en  ningún
+caso representaba un incremento patrimonial para la sociedad  absorbida,  ni
+mucho  menos  para  sus  accionistas,  puesto  que   dicho   valor   resulta
+especulativo y es representativo de la oferta y la demanda  existente  sobre
+dicha sociedad absorbida. Además, afirma  que  el  valor  en  bolsa  de  las
+acciones de la  sociedad  absorbente  el  día  del  canje  resultó  ser  muy
+superior al valor al cual finalmente se vendieron dichas acciones y, en  tal
+caso, se estaría gravando con  impuesto  un  valor  superior  al  incremento
+patrimonial real que obtuvo su representada en tal enajenación.
 
-Como fundament o de su petición, el H. Diputado señaló en su intervención , que es muy importante que cada día más reclusos se capaciten y realicen labores que les permitan rebajar sus penas y reintegrarse a la sociedad.
 
-Agrega que este tipo de medidas favorece la reinserción y posibilita que , de manera efectiva las personas puedan reconstruir sus vidas. Es por ello que estima que se tome en cuenta esta iniciativa por el Ministro de Hacienda y otras autoridades que menciona.
 
-II. ANÁLISIS
+Por todo lo anterior, solicita la ratificación de los siguientes criterios:
 
-Al respecto cabe señalar en primer término que, la capacitación laboral de las personas que se encuentra cumpliendo penas privativas de libertad se encuentra regulada en el Decreto N° 943 de 2010, del Ministerio de Justicia, que aprueba el Reglamento que establece un estatuto laboral y de formación para el trabajo penitenciario.
 
-En dicho R eglamento , se establece n las actividades que debe n desarrollar tanto Gendarmería , a través de los Centros de Educación y Trabajo (CET) , como las empresas privadas a l interior de un establecimiento penitenciario .
+1. El hecho de que en el caso en particular  no  exista  una  colocación  en
+bolsa de acciones por parte  de  la  sociedad  absorbida,  hace  inaplicable
+utilizar como parámetro el valor de colocación de las acciones para  efectos
+de determinar el mayor valor considerado ingreso no renta, por lo cual  solo
+resultaría aplicable el valor libro de la sociedad absorbida.
 
-En el caso de las actividades de capacitación, el artículo 36 de la Ley N° 19518, de 1997, que establece el Estatuto de Capacitación y Empleo, permite a los contribuyentes de la Primera Categoría de la Ley sobre Impuesto a la Renta descontar del monto a pagar de dichos impuestos, los gastos efectuados en programas de capacitación que se hayan realizado dentro del t erritorio nacional , en las cantidades que sean autorizadas conforme a la ley, las que en todo caso no pueden exceder en el año de una suma máxima equivalente al uno por ciento de las remuneraciones imponibles pagadas al personal en el mismo lapso.
+2. El  valor  de  cotización  en  bolsa  de  las  acciones  de  la  sociedad
+absorbente en ningún caso representa un incremento real de  patrimonio  para
+su representada, por lo cual no puede ser utilizado como parámetro  para  la
+determinación del mayor valor afecto a Impuesto. Asimismo, en  caso  de  que
+dicho valor resulte superior al valor de  venta  de  las  acciones,  también
+resultaría inaplicable para la determinación del resultado de la operación.
+3. En su caso, no es aplicable lo señalado  por  la  Circular  35  de  2008,
+respecto a la comparación con la cotización en bolsa de las acciones  de  la
+sociedad absorbente el día de su canje, ya que no existe  jurídicamente  una
+colocación en  bolsa  de  las  acciones  y  por  ende  la  comparación  debe
+realizarse entre el valor de adquisición de las acciones  de  canje  con  el
+valor de libros de las acciones de la sociedad absorbida que se entregan  en
+canje de las acciones de la sociedad anónima abierta.
 
-Esta franquicia podría ser aplicable a las actividades de capacitación que las empresas realicen respecto de personas que se encuentren cumpliendo penas privativas de libertad, en la medida que se cumplan con los requisitos que la norma legal señala y no s ería necesario, por lo tanto, una iniciativa legal que estableciera un régimen tributario especial que regule la situación de las personas privadas de libertad.
+II.-   ANÁLISIS
 
-II I . CONCLUSIÓN
+Sobre el  particular,  cabe  señalar  que  el  Oficio  cuya  reconsideración
+solicita, concluyó que las acciones de primera emisión distribuidas por  una
+sociedad anónima abierta con presencia bursátil con motivo de su aumento  de
+capital, en el canje de las acciones de  la  sociedad  anónima  cerrada  que
+absorbió, al acogerse a lo dispuesto en el artículo 107  de  la  LIR,  deben
+también sujetarse a la regla contenida en la letra c) del  N°  1  del  mismo
+artículo.
 
-Por lo expuesto, se estima que en la normativa tributaria vigente existen disposiciones que pueden incentivar la capacitación de las personas que se encuentren cumplien do penas privativas de libertad, sin perjuicio que el Oficio N° 35432, de 18.10.2017, no señala propuestas específicas en materia tributaria, de competencia de este Servicio que pudieran informarse.
+La letra c) del N° 1 del artículo 107 referido, dispone lo siguiente:
 
-FERNANDO BARRAZA LUENGO
-DIRECTOR
+“En el caso previsto en el literal iii), de la letra b), si las acciones  se
+hubieren adquirido antes de su  colocación  en  bolsa,  el  mayor  valor  no
+constitutivo de renta será el que se produzca por sobre  el  valor  superior
+entre el de dicha colocación o el valor de libros que la acción  tuviera  el
+día antes de su colocación en bolsa, quedando en consecuencia afecto  a  los
+impuestos de esta ley, en la forma dispuesta en el  artículo  17,  el  mayor
+valor que resulte de comparar el valor de adquisición  inicial,  debidamente
+reajustado en la forma dispuesta en dicho artículo, con  el  valor  señalado
+precedentemente.  Para  determinar  el  valor  de  libros  se  aplicará   lo
+dispuesto en el inciso tercero del artículo 41.”.
 
-Oficio N° 2714, de 26.12.2017
-Subdirección Normativa
-Dpto. de Técnica tributaria.
+Al respecto, la letra B del  número  III  de  la  Circular  N°  7  de  2002,
+interpretó que la expresión “colocación en bolsa” presente  en  el  derogado
+artículo 18 ter de la LIR, equivale simplemente a la “apertura en bolsa”  de
+una sociedad, esto es, cuando transita de ser una sociedad  anónima  cerrada
+a una abierta, en los términos de la Ley N° 18.046. Ello  se  desprende  del
+siguiente texto de la  Circular  referida:  “(…)  si  las  acciones  que  se
+enajenan hubieran sido adquiridas antes que  la  sociedad  emisora  colocare
+sus títulos en bolsa, esto es,  se  hubieren  adquirido  al  momento  de  la
+constitución de  la  sociedad  o  con  ocasión  de  un  aumento  de  capital
+posterior a dicha constitución, pero previo a la apertura  en  bolsa  de  la
+sociedad (…)”. La citada expresión legal, se mantuvo  intacta  en  el  nuevo
+artículo 107 de la LIR, de manera que no existen motivos para  interpretarla
+en otro sentido.
+
+Posteriormente, la letra c) del número III de la Circular  N°  35  de  2008,
+habiendo afirmado previamente que las acciones de canje  son  asimilables  a
+las acciones de pago de primera emisión causadas en la constitución  de  una
+nueva sociedad anónima o  en  un  proceso  de  aumento  de  capital  de  una
+sociedad ya existente,  señaló  que  en  la  enajenación  de  tales  títulos
+emitidos con ocasión de una fusión por  incorporación  de  sociedad  anónima
+cerrada  sin  presencia  bursátil  en  otra  sociedad  anónima  abierta  con
+presencia bursátil, “el mayor  valor  exento  [no  renta]  será  el  que  se
+produzca  por  sobre  el  valor  superior  entre  el  de  dicha  colocación,
+entendiéndose por este el valor en bolsa de la acción de canje  del  día  en
+que se produzca dicho canje, o el valor libro que la acción tuviera  el  día
+antes de su colocación en bolsa,  quedando  en  consecuencia  afecto  a  los
+impuestos de esta ley, en la forma dispuesta en el artículo  17°,  el  mayor
+valor que resulte de comparar el valor de adquisición  inicial,  debidamente
+reajustado en la forma dispuesta en dicho artículo, con  el  valor  señalado
+precedentemente”.
+
+De lo dicho, es posible concluir que la norma contenida en la letra  c)  del
+N° 1 del artículo 107 de la LIR, es plenamente aplicable al  caso  planteado
+en su consulta. En efecto, el requisito legal de que  las  acciones  que  se
+enajenen se hubieren adquirido antes de su colocación en  bolsa,  se  cumple
+en el caso de la fusión de una sociedad  anónima  cerrada  en  una  abierta,
+pues al ser las acciones de canje representativas  de  los  mismos  derechos
+que se tenían en la sociedad anónima cerrada disuelta, las acciones de  esta
+última,  fueron  para  dichos  efectos  legales,  adquiridas  antes  de   su
+colocación en bolsa (apertura en bolsa).
+
+Así las cosas, y según se explicó en  el  Oficio,  el  mayor  valor  que  no
+constituye renta en la enajenación descrita en su  consulta,  solo  será  el
+que se  produzca  por  sobre  el  valor  superior  entre:  a)  el  valor  de
+colocación, entendiéndose por este, el valor en bolsa de la acción de  canje
+del día en que se produzca dicho canje, o b) el valor libro  que  la  acción
+de la sociedad absorbida tuviera el día antes de  su  colocación  en  bolsa;
+siendo el mayor valor que  resulte  de  comparar  el  valor  de  adquisición
+inicial, debidamente reajustado, con el valor señalado  precedentemente,  el
+afecto a los impuestos de la LIR, según su texto vigente a la  fecha  de  la
+enajenación.
+
+En la hipótesis que  expone  en  su  consulta,  en  la  cual  el  precio  de
+enajenación de las acciones resultó ser inferior a su  valor  de  colocación
+en bolsa el día del canje, es posible señalar que al  no  existir  un  mayor
+valor que califique como  ingreso  no  renta,  el  que  se  produzca  de  la
+diferencia entre el precio de enajenación y el de  adquisición,  debidamente
+reajustado, deberá tributar con los impuestos de la LIR.
+
+Finalmente, es importante  aclarar  que,  en  el  caso  de  una  fusión  por
+incorporación, las acciones de canje necesariamente  son  aquellas  emitidas
+por la sociedad absorbente y no por la sociedad absorbida, de manera que  el
+Oficio no hace sino reiterar  esta  distinción.  Lo  mismo  puede  señalarse
+respecto del valor libro aludido, el cual  corresponde  al  de  la  sociedad
+absorbida y no al  de  la  sociedad  absorbente,  y  que  la  colocación  de
+acciones, debe referirse a las de la sociedad absorbente, y no a las  de  la
+absorbida, según señala erróneamente en su presentación.
+
+III.- CONCLUSIÓN
+
+De acuerdo a lo señalado  en  el  análisis,  no  es  posible  ratificar  los
+criterios planteados en su consulta. En su lugar, se confirma  lo  concluido
+en el Oficio Ord. N° 1076 de 2017, reiterándose que la limitación  contenida
+en la letra c) del N° 1 del artículo  107  de  la  LIR,  resulta  plenamente
+aplicable al caso descrito en su consulta.
+
+
+
+
+
+
+
+                                       FERNANDO BARRAZA LUENGO
+
+
+       DIRECTOR
+
+
+
+
+                        Oficio N° 2715, de 26.12.2017
+                           Subdirección Normativa
+                         Dpto. de Impuestos Directos

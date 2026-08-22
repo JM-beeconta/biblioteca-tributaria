@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2019
-- Fecha: 2019-04-09
+- Fecha: 2019-03-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu15.pdf
 - Hash SHA-256: 07c85f938cec07704739852b8b3d0e1c07029f6ca463b17e0e7cca28918813fd
 
 ## Resumen
 
-ributo. Fuente: Oficina de Gestión Normativa Circular N° 16 del 09 de Abril del 2019 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el Año Tributario 2019, de acuerdo a lo dispuesto en el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Imparte instrucciones respecto de la inclusión de predios en el Catastro de los Bienes Raíces, de conformidad con las normas de la Ley N° 17.235, sobre Impuesto Territorial. Deroga la Circular N…
+Oficina de Gestión Normativa Imparte instrucciones respecto de la inclusión de predios en el Catastro de los Bienes Raíces, de conformidad con las normas de la Ley N° 17.235, sobre Impuesto Territorial. Deroga la Circular N° 38 de 01.07.1997, sobre Actualización y Complementación de Instrucciones para la Clasificación, Enrolamiento Y Tasación Fiscal de Predios Rurales. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

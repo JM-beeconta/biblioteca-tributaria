@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2019
-- Fecha: 2019-03-15
+- Fecha: 2019-03-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu14.pdf
 - Hash SHA-256: 446731614c253407814f7b1cef40c44364d8554f012a93bd07a1a1c7f7488a2e
 
 ## Resumen
 
-rget='_blank'>Circular N° 15 del 15 de Marzo del 2019 Imparte instrucciones respecto de la inclusión de predios en el Catastro de los Bienes Raíces, de conformidad con las normas de la Ley N° 17.235, sobre Impuesto Territorial. Deroga la Circular N° 38 de 01.07.1997, sobre Actualización y Complementación de Instrucciones para la Clasificación, Enrolamiento Y Tasación Fiscal de Predios Rurales. Fuente: Subdirección de Avaluaciones Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2019…
+Subdirección de Avaluaciones Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2019 y el 9 de abril de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

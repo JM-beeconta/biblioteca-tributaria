@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2018
-- Fecha: 2018-04-12
+- Fecha: 2018-04-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu20.pdf
 - Hash SHA-256: 1317f59ee662f407d6e3c72b199b60c5b7e12455d914aab9ac0f5621e2ff34b5
 
 ## Resumen
 
-ón Normativa Circular N° 21 del 12 de Abril del 2018 Instruye sobre las modificaciones incorporadas por el D.S. N° 682 de 2017, del Ministerio de Hacienda, al D.S. N° 55 de 1977, del mismo Ministerio, reglamento del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Impuestos Indirectos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2018 y el 9 de mayo del año 2018. Fuente: Oficina de Gestion Normativa Circular N° 19 del 09 de Abril del 2018 Tab…
+puestos Indirectos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2018 y el 9 de mayo del año 2018. Fuente: Oficina de Gestion Normativa
 
 ## Referencias detectadas
 

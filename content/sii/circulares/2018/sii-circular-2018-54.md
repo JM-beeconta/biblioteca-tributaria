@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 54
 - Año: 2018
-- Fecha: 2018-12-14
+- Fecha: 2018-11-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu54.pdf
 - Hash SHA-256: 4444c0ad2a8ba94048a1d2fa1dc163c7205da1e0785df255d1e0f12626b648f2
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 55 del 14 de Diciembre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2018 y el 9 de enero del año 2019. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Diciembre 2018 Fuente: Subdirección de Fiscalización Circular N° 53 del 12 de Noviembre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre del año 2018, e información adicional relacionada con dic…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Diciembre 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

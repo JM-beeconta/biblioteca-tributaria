@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2017
-- Fecha: 2017-03-28
+- Fecha: 2017-03-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu20.pdf
 - Hash SHA-256: faffbaaec08c1f5e3b9fed32bc58b911a868489548b6be5e48edb28cc300bf37
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 21 del 28 de Marzo del 2017 (Zip 8.48KB) Suplemento Tributario con la Normativa vigente para efectuar la Declaración de los Impuestos Anuales a la Renta correspondientes al año tributario 2017. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas abril 2017. Fuente: Subdirección de Fiscalización Circular N° 19 del 15 de Marzo del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 d…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas abril 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2018
-- Fecha: 2018-04-19
+- Fecha: 2018-04-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu21.pdf
 - Hash SHA-256: e5470bd3e139700f3be31b3e6b68a89a45176aa23116e6a22b5e9c83b57b52e8
 
 ## Resumen
 
-ircular N°21, de 04.04.2014 Fuente: Subdirección de Avaluaciones Circular N° 22 del 19 de Abril del 2018 Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa Instruye sobre las modificaciones incorporadas por el D.S. N° 682 de 2017, del Ministerio de Hacienda, al D.S. N° 55 de 1977, del mismo Ministerio, reglamento del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Impuestos Indirectos Circular N° 20 del 10 de Abril del 2…
+oacute;n Normativa Instruye sobre las modificaciones incorporadas por el D.S. N° 682 de 2017, del Ministerio de Hacienda, al D.S. N° 55 de 1977, del mismo Ministerio, reglamento del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

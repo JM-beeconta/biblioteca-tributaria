@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2020
-- Fecha: 2020-03-11
+- Fecha: 2020-03-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu16.pdf
 - Hash SHA-256: 477f91de107133df4424ba8b4fb0c2b3b611bb8e2c999b3a9b92ba8c8941348b
 
 ## Resumen
 
-eración de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente Circular N° 17 del 11 de Marzo del 2020 Tabla de cálculos de reajustes, intereses y multas abril 2020. Fuente: Subdirección de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2020 y el 9 de abril de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Circular N° 15 del 10 de Marzo del 2020 Tablas de Impuesto Único de Segunda Categoría para…
+scalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2020 y el 9 de abril de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 68
 - Año: 2020
-- Fecha: 2020-11-12
+- Fecha: 2020-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu68.pdf
 - Hash SHA-256: 6fa45a53aa222f8086c248aadf715fdfc6cf27439668ff4d84dfb1ddd7c7ea8a
 
 ## Resumen
 
-ute;n adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Circular N° 69 del 12 de Noviembre del 2020 Tabla de cálculos de reajustes, intereses y multas diciembre 2020. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2020 y el 9 de diciembre de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 67 del 11 de Noviembre del 2020 Tablas de Impuesto Único de Segun…
+calización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2020 y el 9 de diciembre de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

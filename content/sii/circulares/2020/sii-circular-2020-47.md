@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2020
-- Fecha: 2020-07-14
+- Fecha: 2020-07-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu47.pdf
 - Hash SHA-256: db593995da339cceade65b41b1c472c32135ac412d4c751e6b27b7526b9a7f58
 
 ## Resumen
 
-Ley N° 20.780, modificado en las leyes N° 20.899... Fuente: Subdirección Normativa. Circular N° 48 del 14 de Julio del 2020 Tabla de cálculos de reajustes, intereses y multas agosto 2020. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Circular N° 46 del 09 de Julio del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días compr…
+calización. Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

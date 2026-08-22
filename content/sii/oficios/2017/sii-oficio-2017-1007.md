@@ -6,49 +6,78 @@
 - Año: 2017
 - Fecha: 2017-09-06
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2008.htm
-- Hash SHA-256: cb5904d246651f96a3392e003addb4bf69a11f1b8ed44bf06e1ec4b64e3a24d8
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2011.htm
+- Hash SHA-256: ae76c90cc572dd8dc7be303281665ae534b1b09bec396c3e2c4eb126c9b66f3a
 
 ## Resumen
 
-rt. 17, N°1 &ndash; D.F.L. N° 341, de 1977, Art. 23 &ndash; Circular N° 44, de 2001&ndash; . (Ord. Nº 2011, de 06-09-2017) | Word Tratamiento tributario del pago efectuado por el Fisco a contribuyente acogido a las disposiciones del Decreto con Fuerza de Ley N° 341 de 1977 sobre Zona Franca, acordada en contrato de explotación y administración. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°17 &ndash; Convenio entre la República de Chile y el Reino de Suecia para Evitar la Doble Imposición y para…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°1 &ndash; D.F.L. N° 341, de 1977, Art. 23 &ndash; Circular N° 44, de 2001&ndash; . (Ord. Nº 2011, de 06-09-2017) |
 
 ## Referencias detectadas
 
+- {"type":"circular","number":44,"year":2001}
+- {"type":"oficio","number":1007,"year":1991}
+- {"type":"articulo","law":"LIR","article":"20 N"}
 - {"type":"articulo","law":"LIR","article":"17"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°17 – CONVENIO ENTRE LA REPÚBLICA DE CHILE Y EL REINO DE SUECIA PARA EVITAR LA DOBLE IMPOSICIÓN Y PARA PREVENIR LA EVASIÓN FISCAL EN RELACIÓN A LOS IMPUESTOS A LA RENTA Y AL PATRIMONIO, ART. 18, ART.23. (Ord. Nº 2008, de 06-09-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°1 – D.F.L. N° 341, DE 1977, ART. 23 – CIRCULAR N° 44, DE 2001– OFICIO N° 1007, DE 1991. (Ord. Nº 2011, de 06-09-2017)
 
-CONSULTA APLICACIÓN DEL CONVENIO ENTRE CHILE Y SUECIA A PENSIÓN DE JUBILACIÓN
+TRATAMIENTO TRIBUTARIO DEL PAGO EFECTUADO POR EL FISCO A CONTRIBUYENTE ACOGIDO A LAS DISPOSICIONES DEL DECRETO CON FUERZA DE LEY N° 341 DE 1977 SOBRE ZONA FRANCA, ACORDADA EN CONTRATO DE EXPLOTACIÓN Y ADMINISTRACIÓN.
 
-Se pide un pronunciamiento sobre la aplicación de Convenio entre Chile y Suecia a una pensión de jubilación, específicamente si se tiene que pagar impuesto por dicha renta en ambos países.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual consulta sobre el tratamiento tributario de las sumas recibidas del Fisco, a contribuyente sujeto a las disposiciones del Decreto con Fuerza de Ley (DFL) N° 341 de 1977 sobre Zona Franca, en cumplimiento de un contrato de explotación por la administración del recinto de Zona Franca, ratificado por resolución sobre la materia por parte de los tribunales de justicia.
 
-II. ANÁLISIS
+I. ANTECEDENTES.
 
-La materia por la cual usted consulta se aborda en El Convenio entre la República de Chile y el Reino de Suecia para Evitar la Doble Imposición y para Prevenir la Evasión Fiscal en Relación a los Impuestos a la Renta y al Patrimonio, en adelante el Convenio.
+Señala que uno de sus clientes, durante más de 30 años, ha sido usuario de Zona Franca, desarrollando toda su actividad en la zona franca primaria, en virtud de un contrato de explotación por la administración del recinto, suscrito con el Fisco.
 
-El Convenio indicado asigna derechos de imposición entre los Estados y respecto de las pensiones, establece en el artículo 18, párrafo 1, que las pensiones procedentes de un Estado Contratante y pagadas a un residente del otro Estado Contratante pueden someterse a imposición en el Estado Contratante mencionado en primer lugar, es decir, una pensión procedente de un Estado Contratante estará sujeta a impuesto en ese Estado Contratante y si la persona reside en el otro Estado Contratante ese otro Estado también puede gravar esa pensión.
+En el contrato señalado, consta una cláusula que obliga al Fisco a restituir al contribuyente, las inversiones en construcciones efectuadas durante los últimos cinco años de administración.
 
-Sin embargo, el Estado de residencia tiene que otorgar un crédito por el impuesto pagado en el Estado de procedencia de la exención, evitándose de esta forma la doble tributación respecto de la pensión de jubilación.
+Al término del contrato, las partes no llegaron a un acuerdo respecto del valor de la restitución, por lo cual se acudió a los tribunales de justicia. El fallo definitivo ordenó al Fisco restituir al contribuyente, una cantidad X de pesos, más los correspondientes reajustes, intereses y costas.
 
-Ahora bien, en el caso específico de su consulta no se proporciona en ella información respecto del Estado en el que reside la persona ni del Estado de donde procede o se paga la pensión, motivo por el cual para los efectos de dar respuesta a su consulta, se analizarán ambas situaciones.
+Expresa a continuación que los ingresos obtenidos por actividades acogidas al DFL N° 341, están exentos del Impuesto de Primera Categoría, no así del Impuesto Global Complementario o Adicional.
 
-En el caso que la pensión se pague desde Chile y usted resida en Suecia, conforme a lo dispuesto en la norma del Convenio indicada anteriormente, el Estado de Chile puede gravar sin ninguna limitación la pensión de jubilación. El Estado de Suecia por su parte, para los efectos de evitar la doble imposición de esa renta, en conformidad a lo dispuesto en el artículo 23 del Convenio, debe permitir como deducción del impuesto sueco que pueda afectar a esa renta, un monto igual al impuesto sobre la renta pagado en Chile.
+En relación con la situación expuesta, solicita la ratificación por parte de este Servicio, de los siguientes criterios sobre el tratamiento tributario de los pagos recibidos:
 
-Si por el contrario usted reside en Chile y la pensión se paga desde Suecia, ese país puede gravar sin ninguna limitación la pensión de jubilación. En Chile, en principio el Convenio permitiría a nuestro país gravar la pensión de jubilación, pero ello no ocurre por aplicación de nuestra legislación interna. En efecto, el artículo 17° N° 17, de la Ley sobre Impuesto a la Renta, declara como ingreso no renta, esto es, no sujeta a tributación, a las pensiones o jubilaciones de fuente extrajera.
+Respecto de la restitución del valor las construcciones, no existe renta, ya que se está rembolsando el monto invertido, y en caso de existir diferencias a favor, estarían exentas del Impuesto de Primera Categoría, por provenir de actividades acogidas al DFL N° 341.
 
-II. CONCLUSIÓN
+En el caso de los reajustes, estos seguirían un camino similar al monto invertido, ya que solo es una actualización del monto original.
 
-Con lo señalado en el Análisis se da respuesta a la consulta que formula.
+Respecto de las costas, se trataría de la restitución de los montos desembolsados por asesorías legales, con lo cual, de existir diferencias, se sigue el tratamiento del DFL N° 341.
+
+Respecto de los intereses, los cuales son originados por una deuda relacionada directamente con la actividad de Zona Franca, pero la Ley de la Renta las clasifica en el artículo 20 N°2, es decir, rentas de capitales mobiliarios, distintas de la actividad de su cliente, la cual está clasificada en al artículo 20 N°4 de la Ley sobre Impuesto a la Renta.
+
+II.- ANÁLISIS.
+
+Conforme a lo dispuesto en el inciso segundo del artículo 23 del DFL N° 341 de 1977 sobre Zonas Francas, las sociedades administradoras y los usuarios que se instalen dentro de las Zonas Francas están exentas del Impuesto de Primera Categoría de la Ley de Impuesto a la Renta por las utilidades devengadas en sus ejercicios financieros, utilidades respecto de las cuales sus propietarios tributarán anualmente con el Impuesto Global Complementario o Adicional, según corresponda.
+
+De acuerdo con las instrucciones de este Servicio [1] , el propósito de esta franquicia, es beneficiar única y exclusivamente a los contribuyentes mencionados por la ley y solo por la actividad y rentas que se persigue beneficiar, es decir, a los contribuyentes radicados en las regiones favorecidas y solo por las rentas provenientes de actividades desarrolladas dentro de esas regiones.
+
+Como puede apreciarse de los antecedentes acompañados a su consulta, en el contrato de explotación y administración del recinto de Zona Franca suscrito entre el contribuyente y el Fisco, se pactó que una vez expirada su vigencia, las obras de infraestructura existentes en el área franca pasarían a ser de propiedad del Estado, sin derecho a indemnización, con excepción de las obras de infraestructura que el contribuyente ejecutare durante los últimos 5 años de vigencia del contrato, respecto de las cuales el Estado las pagará al contado y en su valor de libros.
+
+Respecto de la excepción pactada en la cláusula citada, es posible señalar que la suma que el Fisco se obligó a pagar al contribuyente, tuvo la finalidad de indemnizar la pérdida de la propiedad sobre las obras de infraestructura realizadas por el contribuyente, pues una vez expirado el contrato, estas dejaron de pertenecerle. En tal calidad, la suma en comento debe tener el tratamiento dispuesto en el N° 1 del artículo 17 de la Ley sobre Impuesto a la Renta, debiendo considerarse como un ingreso no constitutivo de renta, por corresponder a la indemnización de un daño emergente. El monto de tal cantidad, al corresponder a un bien susceptible de depreciación en razón de que el contribuyente era propietario del bien, alcanza hasta concurrencia del valor inicial del bien, reajustado de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor entre el último día del mes que antecede al de la adquisición del bien y el último día del mes anterior a aquel en que haya ocurrido el siniestro que da origen a la indemnización.
+
+En la especie, no es posible aplicar lo dispuesto en el inciso segundo del N° 1 del artículo 17 de la norma citada, que gravaría la indemnización del daño emergente respecto los bienes construidos por el contribuyente incorporadas en el giro del negocio, empresa o actividad, pues para aplicarla, la indemnización debe ser percibida por un contribuyente que determine rentas efectivas que deban tributar con el Impuesto de Primera Categoría, en circunstancias de que el contribuyente, por su situación y actividades, se encuentra acogido a la exención de dicho impuesto.
+
+En la eventualidad de que el contribuyente perciba a título de indemnización una suma mayor que la indicada en la norma citada, es posible señalar que ella corresponde a una renta proveniente de actividades desarrolladas dentro de zonas francas, siendo procedente aplicarle el tratamiento tributario dispuesto en el inciso segundo del artículo 23 del DFL N° 341 de 1977, previamente descrito.
+
+En cuanto a los intereses moratorios y costas pagados al contribuyente por parte del Fisco, y de acuerdo al criterio dispuesto mediante Circular N° 44 de 2001, estos deben calificarse como accesorios a la indemnización percibida por el contribuyente, de manera que en tal calidad, comparten la condición de ser rentas provenientes de actividades desarrolladas dentro de zonas francas, exentas del Impuesto de Primera Categoría.
+
+III.- CONCLUSIÓN.
+
+El pago del valor de las construcciones especificadas en el caso consultado, corresponde a una indemnización no constitutiva de renta, hasta concurrencia del valor inicial del bien reajustado, de acuerdo a lo dispuesto en el N° 1 del artículo 17 de la Ley sobre Impuesto a la Renta.
+
+El pago de una cantidad superior al valor inicial de las construcciones antedichas, reajustada, así como el pago de intereses moratorios y costas por orden judicial, en tanto acceden a la indemnización indicada, se enmarcan en aquellas rentas provenientes de actividades desarrolladas dentro de zonas francas, siendo procedente aplicarles el tratamiento tributario dispuesto en el inciso segundo del artículo 23 del DFL N° 341 de 1977.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2008, de 06.09.2017
+Oficio N° 2011, de 06.09.2017
 
 Subdirección Normativa
 
-Dpto. de Normas Internacionales
+Dpto. de Impuestos Directos
+
+[1] Oficio N° 1.007 de 1991.

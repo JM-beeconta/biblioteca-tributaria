@@ -6,233 +6,51 @@
 - Año: 2018
 - Fecha: 2018-01-05
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja31.doc
-- Hash SHA-256: 370992d9573bfd47370bb285402bee9c48aa43361bb1315ffd4ae9ff7048a8aa
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja32.htm
+- Hash SHA-256: 3a7987b399e89e3973e2bbff20d0757cfa335487fc96a479b3e303397f970f05
 
 ## Resumen
 
-style='margin-bottom:3px;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; . (Ord. Nº 32, de 05-01-2018) | Word Solicita pronunciamiento respecto del período dentro del cual se debe reconocer el gasto por la extinción de un derecho. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 59, N°2 &ndash; Oficio N° 2407, de 2017. (Ord. Nº 31, de 05-01-2018) | Word Situación de remuneraciones pagadas al exterior por labores de promoción de la actividad del turismo receptivo en nuestro país, ante el Impuesto A…
+ni residente en Chile. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; . (Ord. Nº 32, de 05-01-2018) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":2407,"year":2017}
-- {"type":"articulo","law":"LIR","article":"59 N"}
-- {"type":"articulo","law":"LIR","article":"59  N"}
+- {"type":"oficio","number":2151,"year":2013}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  ART. 59, N°2 – OFICIO N° 2407, DE
-                     2017. (ORD. N° 031, DE 05.01.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – OFICIO N° 2151, DE 2013. (Ord. Nº 32, de 05-01-2018)
 
+SOLICITA PRONUNCIAMIENTO RESPECTO DEL PERÍODO DENTRO DEL CUAL SE DEBE RECONOCER EL GASTO POR LA EXTINCIÓN DE UN DERECHO.
 
-Situación de remuneraciones pagadas al exterior por labores de promoción de
-la actividad del turismo  receptivo  en  nuestro  país,  ante  el  Impuesto
-Adicional establecido en la Ley sobre Impuesto a la Renta.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual consulta acerca del período tributario dentro del cual se debe reconocer el gasto por la extinción de un derecho de usufructo.
 
+I.- ANTECEDENTES
 
-El Servicio Nacional de Turismo  ha  requerido  un  pronunciamiento  a  este
-Servicio consultando si se encuentran gravados  con  el  impuesto  Adicional
-establecido en la Ley sobre Impuesto a la Renta, los pagos  que  realice  al
-exterior por la contratación en el extranjero de servicios de  promoción  al
-turismo receptivo en nuestro país.
-I.-  ANTECEDENTES.
-Expresa ese Servicio que de conformidad con lo definido por la Dirección  de
-Promoción de Exportaciones  del  Ministerio  de  Relaciones  Exteriores,  el
-Banco Central de Chile,  y  en  el  ámbito  internacional,  la  Organización
-Mundial de Comercio (OMC), la actividad del turismo constituye  un  servicio
-de exportación no tradicional, por cuanto el consumidor de este servicio  se
-desplaza donde se provee el servicio - Chile -,  entrando  al  país  divisas
-por dicha actividad, razón por la cual se habla de "turismo receptivo”.
+Señala que uno de sus clientes, un contribuyente de la Primera Categoría obligado a determinar su resultado según contabilidad completa, compró un derecho real de usufructo sobre un inmueble, que fue destinado al arrendamiento.
 
-Por su parte, la OMC dentro de su clasificación de servicios, por  sectores,
-define el “turismo receptivo" como una industria de  exportación  que  vende
-una cantidad significativa de sus bienes o servicios fuera del país.
+Declara que el precio por la adquisición de ese derecho ha sido tratado para efectos fiscales como un activo, y hasta la fecha, ha percibido los ingresos producto de los arrendamientos, pero no ha rebajado el gasto por el precio del usufructo.
 
-De este modo, a diferencia de lo que ocurre con una exportación de bienes  o
-servicios tradicional, en el caso del turismo, el servicio no se consume  en
-el extranjero, sino que, por el contrario, es  el  consumidor  del  servicio
-quien proviene del extranjero al país, dejando divisas en  Chile  por  dicho
-consumo.
+Es el caso que las partes contratantes acordaron que el usufructo &ldquo; se extenderá hasta el treinta y uno de diciembre de dos mil diecisiete &rdquo;, de manera que, al dejar de existir el usufructo, lo pagado a cambio de su constitución será rebajado como un gasto, lo que obliga a establecer el año fiscal al que corresponde la rebaja. Al respecto, señala que el artículo 49 del Código Civil dispone que "cuando se exige que haya transcurrido un espacio de tiempo para que nazcan o expiren ciertos derechos, se entenderá que estos derechos no nacen o expiran sino después de la medianoche en que termine el último día de dicho espacio de tiempo". De lo expuesto, concluye que el derecho real de usufructo seguirá vigente durante todo el día 31 de diciembre de 2017, y recién pasadas las doce horas expirará, y, en consecuencia, su término se produce a partir del día 1 de enero de 2018. En otras palabras, el derecho real de usufructo existe durante todo el último día del año 2017, extinguiéndose recién una vez que ha comenzado el primer día del año 2018.
 
-En tal contexto, manifiesta que el artículo 59 de la Ley de  Impuesto  a  la
-Renta (LIR), en su número 2) grava con tasa de  un  35%  las  remuneraciones
-por servicios prestados en el extranjero, estando exentas  de  ese  impuesto
-las sumas pagadas, en  el  caso  de  bienes  y  servicios  exportables,  por
-publicidad  y  promoción,  por  análisis  de  mercado,   por   investigación
-científica  y  tecnológica,  y  por  asesorías  y  defensas   legales   ante
-autoridades  administrativas,  arbitrales  o   jurisdiccionales   del   país
-respectivo. Para que proceda esta exención  los  servicios  señalados  deben
-guardar  estricta  relación  con  la  exportación  de  bienes  y   servicios
-producidos en el país y los pagos correspondientes, considerarse  razonables
-a juicio del Servicio de Impuestos Internos, debiendo para este  efecto  los
-contribuyentes comunicarlos, en la forma y plazo que  fije  el  Director  de
-dicho Servicio. Lo dispuesto en este  párrafo  se  aplicará  también  a  las
-sumas pagadas en el exterior  por  trabajos  y  servicios  de  ingeniería  o
-técnicos,  en  caso  de  servicios  exportables,  siempre  que  el  Servicio
-Nacional de Aduanas califique dichos servicios como exportación, de  acuerdo
-a lo establecido en el número 16 de la letra E del artículo 12  del  Decreto
-Ley N° 825, de 1974.
+En vista de lo expuesto, solicita la confirmación de que, debido a que el derecho persiste durante todo el año 2017, la extinción del usufructo ocurrirá recién al comenzar el primero de enero de 2018, y por ello, lo pagado por la constitución de aquel derecho real deberá ser deducido como un gasto durante el año calendario 2018, y no antes.
 
-Agrega que, consultado el Servicio Nacional  de  Aduanas  a  este  respecto,
-éste les informó que para que este último califique a un  servicio  como  de
-exportación de acuerdo a la norma recién citada, el servicio que  se  presta
-debe cumplir con tres requisitos copulativos, a saber:
+II.- ANÁLISIS
 
-   a) Que sea realizado total  o  parcialmente  en  Chile,  a  personas  sin
-      domicilio ni residencia en el país;
-   b) Que sea utilizado exclusivamente en el extranjero,  con  excepción  de
-      los servicios que se presten a mercancías en tránsito por el país; y
-   c) Que sea susceptible de verificación en su  existencia  real  y  en  su
-      valor.
+Sobre el particular, y atendido el criterio ya consignado en el Oficio N° 2.151 de 2013, es posible señalar que la suma pagada por la adquisición del derecho real de usufructo sobre un bien raíz, atendido que constituye un valor intangible que forma parte del activo de la empresa y no un gasto diferido de la misma, solo podrá cargarse al resultado mediante su deducción como costo en el momento en que tal derecho se enajene, o bien, mediante su castigo cuando se acredite que el mismo ha perdido todo su valor económico para la empresa que realizó la inversión.
 
-Agrega que, de este modo,  la  exigencia  indicada  en  la  letra  b)  antes
-señalada, impide que Aduanas pueda calificar a la actividad de turismo  como
-una exportación, pues es el turista extranjero quien se traslada  a  nuestro
-país, para utilizar servicios en Chile, razón por la  cual,  no  es  posible
-calificar esta actividad como un  servicio  de  exportación  por  parte  del
-Servicio Nacional de Aduanas.
+Por su parte, y a la luz del texto de la cláusula del contrato citado, efectivamente debe entenderse que el derecho real de usufructo descrito en su consulta existe incluso durante todo el último día del año 2017, extinguiéndose recién una vez que ha comenzado el primer día del año 2018.
 
-Señala que, hace imposible dar cumplimiento a lo dispuesto  en  el  artículo
-59 N°2 de la LIR, entendiendo que, no obstante, ello podría dar lugar  a  la
-exención  haciendo  aplicación  del  concepto  de  servicio  exportable   no
-tradicional a la actividad del turismo.
+III.- CONCLUSIÓN
 
-La definición anterior cobra relevancia por cuanto SERNATUR, dentro  de  sus
-principales funciones, lleva a cabo la promoción del  destino  Chile  en  el
-extranjero, con la finalidad de atraer la mayor cantidad  de  visitantes  al
-país (turismo receptivo), para lo cual, cuenta  con  un  Plan  de  Promoción
-Internacional, el cual que abarca una serie de  acciones,  entre  ellas,  la
-contratación de servicios en el extranjero que sirvan de apoyo y  soporte  a
-las acciones de promoción que  se  desarrollan  en  los  distintos  mercados
-internacionales, en los denominados “representantes o PR".
+En consecuencia, es pertinente confirmar su criterio de que el valor pagado por la adquisición del derecho real de usufructo sobre el bien raíz señalado, solo podrá cargarse al resultado mediante su castigo cuando se acredite que el mismo ha perdido todo su valor económico para la empresa que realizó la inversión, en el año comercial de su extinción, a saber, año comercial 2018.
 
-Indica que, revisada la normativa del Servicio,  específicamente  el  Oficio
-Ordinario N°721, de fecha 1 de abril de 2011, relacionado  con  la  exención
-del impuesto Adicional establecido  en  el  N°  2  del  artículo  59  arriba
-citado, se establece que para que ella  proceda,  según  lo  estipulado  por
-dicho  precepto  legal,  es  preciso  que  los  servicios  guarden  estricta
-relación con la exportación de bienes y servicios producidos en el  país,  y
-los  pagos  correspondientes  considerarse  razonables  a  juicio  de   este
-Servicio, debiendo para este efecto los contribuyentes comunicarlos,  en  la
-forma y plazo que fije el Director.
+FERNANDO BARRAZA LUENGO
 
-Con  todo,  siendo  el  turismo  un  servicio  exportable,  de  carácter  no
-tradicional, con características  especiales  y  distintas  de  un  servicio
-exportable tradicional,  por  cuanto  no  se  cumple  con  el  requisito  de
-"producirse efectivamente en Chile", y siendo la  acción  contratada  a  los
-representantes desarrollada y ejecutada íntegramente en  el  extranjero,  se
-solicita un pronunciamiento en orden a determinar  si  dicha  prestación  de
-servicios se encuentra exenta del Impuesto Adicional, o  por  el  contrario,
-debe aplicarse el citado impuesto  a  cada  contratación  internacional  que
-sobre la materia se efectúe.
+DIRECTOR
 
-II.-  ANÁLISIS.
-Sobre el particular, en primer término,  procede  señalar  que  el  N°2  del
-inciso cuarto del artículo 59 de la Ley de la Renta,  en  sus  dos  primeros
-incisos establece lo siguiente: “2) Remuneraciones por  servicios  prestados
-en el extranjero. Con todo, estarán  exentas  de  este  impuesto  las  sumas
-pagadas en el exterior por fletes, por gastos  de  embarque  y  desembarque,
-por almacenaje, por pesaje,  muestreo  y  análisis  de  los  productos,  por
-seguros y por operaciones de reaseguros que no sean de aquellos gravados  en
-el  número  3  de  este   artículo,   comisiones,   por   telecomunicaciones
-internacionales, y por someter productos chilenos a fundición, refinación  o
-a  otros  procesos   especiales.   Las   respectivas   operaciones   y   sus
-características deberán ser informadas a este Servicio en la forma  y  plazo
-que este determine mediante resolución.”
-“Igualmente, estarán exentas de este impuesto las sumas pagadas, en el  caso
-de bienes y servicios exportables, por publicidad y promoción, por  análisis
-de mercado, por investigación científica y tecnológica, y  por  asesorías  y
-defensas   legales   ante   autoridades   administrativas,   arbitrales    o
-jurisdiccionales del país respectivo. Para que  proceda  esta  exención  los
-servicios señalados deben guardar estricta relación con  la  exportación  de
-bienes y servicios producidos en  el  país  y  los  pagos  correspondientes,
-considerarse  razonables  a  juicio  del  Servicio  de  Impuestos  Internos,
-debiendo para este efecto los contribuyentes comunicarlos,  en  la  forma  y
-plazo que fije el Director de dicho Servicio. Lo dispuesto en  este  párrafo
-se aplicará  también  a  las  sumas  pagadas  al  exterior  por  trabajos  y
-servicios de ingeniería o técnicos, en el  caso  de  servicios  exportables,
-siempre que el Servicio Nacional de Aduanas califique dichos servicios  como
-exportación, de acuerdo a lo establecido en el número 16,  de  la  letra  E,
-del artículo12 del Decreto Ley N 825, de 1974”.
-De acuerdo a los antecedentes de la consulta,  se  advierte  que  los  pagos
-realizados al exterior son efectuados por SERNATUR, y se desarrollan  dentro
-de un plan de promoción del destino turístico de Chile en el  exterior,  con
-la finalidad de atraer la mayor cantidad de  visitantes  al  país,  (turismo
-receptivo), para lo cual ese Servicio contrata servicios  en  el  extranjero
-que sirven de apoyo y soporte a  las  acciones  de  promoción  en  distintos
-mercados internacionales, a ciertos agentes,  denominados  representantes  o
-PR, quienes colaboran con la promoción del destino turístico Chile.
+Oficio N° 32, de 05.01.2018
 
-Conforme  con  las  normas  legales  citadas,  están  exentas  del  Impuesto
-Adicional las sumas pagadas, en el caso de bienes y  servicios  exportables,
-por publicidad y  promoción,  debiendo  dichos  servicios  guardar  estricta
-relación con la exportación de bienes y servicios producidos en el país.
-Se hace presente que, de acuerdo al tenor literal  de  la  norma,  sólo  los
-pagos al exterior por trabajos y servicios de ingeniería  o  técnicos  deben
-ser calificados como  exportación  por  el  Servicio  Nacional  de  Aduanas,
-mientras que los pagos por los otros servicios  mencionados  en  la  primera
-parte de la norma requieren  estar  vinculados  con  servicios  exportables,
-pero no requieren tal  calificación  por  parte  del  Servicio  Nacional  de
-Aduana.
-En  cuanto  a  la  definición  de  “servicios  exportables”,  éstos  no   se
-encuentran conceptualizados en la ley,  por  lo  que  debe  atenderse  a  su
-sentido natural y obvio, según el uso general de  las  mismas  palabras.  En
-este sentido, y de acuerdo al  Diccionario  de  la  RAE,  “exportar”  en  su
-primera acepción, consiste en “vender géneros a otro país”. Como en el  caso
-particular, se trata de servicios, debe  entenderse  como  la  venta  de  un
-servicio a personas domiciliadas o residentes en otro país,  sin  requerirse
-en el texto del  artículo  59  N°  2  de  la  LIR,  que  este  servicio  sea
-exclusivamente prestado o utilizado en el extranjero.
+Subdirección Normativa
 
-De este modo, el servicio de turismo, puede ser calificado como un  servicio
-exportable  cuando  se  presta  en  Chile  a  personas  no  domiciliadas  ni
-residentes en Chile.
-
-Ahora bien, por regla general, se requiere para acceder a  la  exención  del
-artículo 59 N° 2 de la LIR, respecto de bienes y servicios exportables,  que
-para beneficiarse de dicha exención, el contribuyente debe tener la  calidad
-de exportador[1], ya que  como  tal,  pueden  vincularse  estrictamente  los
-pagos que efectúe al exterior  con  la  producción  de  bienes  y  servicios
-exportables en el país, como exige la norma que otorga la exención.
-
-En el presente  caso,  si  bien  el  Servicio  Nacional  de  Turismo  no  es
-propiamente un exportador, debe tenerse presente que en virtud  del  Decreto
-Ley N° 1.224 de  1975,  que  creó  dicho  Servicio,  éste  tiene  entre  sus
-funciones indicadas en el artículo 2°,  “investigar,  planificar,  fomentar,
-promover y  coordinar  la  actividad  turística”,  “difundir,  tanto  en  el
-territorio nacional  como  en  el  extranjero,  las  atracciones  y  valores
-turísticos del país, pudiendo publicar revistas, folletos, guías,  avisos  y
-en general, emplear para ello cualquier medio de publicidad” y “convenir  la
-instalación de oficinas de información turística,  tanto  en  el  territorio
-nacional como en el extranjero, pudiendo, para este  último  caso,  designar
-representantes con el objeto que los mismos ejerzan  actividades  vinculadas
-con la promoción turística del país”. Es decir, en este caso, la propia  Ley
-ha vinculado al Servicio Nacional de Turismo con la producción de  servicios
-turísticos,  los  que  como  ya  se  señaló,  califican  como  un   servicio
-exportable para efectos del artículo 59 N°2 de la LIR.
-
-III.- CONCLUSIÓN.
-
-El Servicio Nacional de Turismo, puede hacer uso de la exención  establecida
-en el artículo 59 N° 2 de la LIR, por los pagos realizados al exterior,  por
-publicidad y promoción del turismo en Chile.
-
-
-
-
-
-
-
-
-                           FERNANDO BARRAZA LUENGO
-                                  DIRECTOR
-
-
-
-
-
-                        Oficio N° 031, de 05.01.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Oficio N° 2.402 de 2017
+Dpto. de Impuestos Directos

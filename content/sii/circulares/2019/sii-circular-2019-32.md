@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ulos de reajustes, intereses y multas septiembre 2019. Fuente: Subdirección de Fiscalización Circular N° 33 del 09 de Agosto del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2019 y el 9 de septiembre de 2019. Fuente: Oficina de Gestión Normativa Circular N° 31 del 12 de Julio del 2019 Imparte instruccion…
+Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2019 y el 9 de septiembre de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

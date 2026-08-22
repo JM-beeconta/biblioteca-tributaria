@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2018
-- Fecha: 2018-02-20
+- Fecha: 2018-02-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu12.pdf
 - Hash SHA-256: 82293f83b2411576dcf15c0f51d22a0093cad5bc0331769fa04304969ff8dfa6
 
 ## Resumen
 
-> Circular N° 13 del 20 de Febrero del 2018 Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en el N°2, de la letra D.- del artículo 41 A, de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos Modifica la Circular N° 19, del 19 de abril de 2004, que imparte instrucciones sobre los procedimientos de determinación y pago del impuesto a…
+mpuestos Directos Modifica la Circular N° 19, del 19 de abril de 2004, que imparte instrucciones sobre los procedimientos de determinación y pago del impuesto a las asignaciones por causa de muerte y donaciones y sustituye sus documentos incluidos en el anexo. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

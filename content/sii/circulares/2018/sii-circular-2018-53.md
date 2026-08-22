@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2018
-- Fecha: 2018-11-22
+- Fecha: 2018-11-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu53.pdf
 - Hash SHA-256: fbbc45a148b3aa8ad8bacd516a5e7707b135bec13903a93a3a3ffd08c0827a09
 
 ## Resumen
 
-ilde;o 2018 y el 9 de enero del año 2019. Fuente: Oficina de Gestión Normativa Circular N° 54 del 22 de Noviembre del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas Diciembre 2018 Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 52 del 12 de Noviembre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de…
+scalización Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

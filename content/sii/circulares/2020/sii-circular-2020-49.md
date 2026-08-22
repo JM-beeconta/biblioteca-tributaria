@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2020
-- Fecha: 2020-07-31
+- Fecha: 2020-07-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu49.pdf
 - Hash SHA-256: c39ff5e30451c5eeab2c90577990acbdea2100dff9546abd472c6c2181fd19d7
 
 ## Resumen
 
-de 2020, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 50 del 31 de Julio del 2020 Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa. Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado en las leyes N° 20.899... Fuente: Subdirección Normativa. Circular N° 48 del 14 de Julio del 2020 Tabla d…
+acute;n Normativa. Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado en las leyes N° 20.899... Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

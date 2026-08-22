@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2020
-- Fecha: 2020-07-09
+- Fecha: 2020-07-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu45.pdf
 - Hash SHA-256: 49d9fd5213a43ead03a623b7a00e467186e4e54d82fdf67952106690e9efa541
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa. Circular N° 46 del 09 de Julio del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2020 y el 9 de agosto de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210 a los artículos 41 F y 41 G de la Ley sobre Impuesto a la Renta. Reemplaza, en lo pertinente, la Circular N° 12 de 2015.Complement…
+acute;n Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210 a los artículos 41 F y 41 G de la Ley sobre Impuesto a la Renta. Reemplaza, en lo pertinente, la Circular N° 12 de 2015.Complementa Circular N° 40 de 2016. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

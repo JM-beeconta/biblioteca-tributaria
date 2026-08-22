@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Circular N° 6 del 17 de Enero del 2020 Informa nuevos límites máximos imponibles para efectos previsionales, vigentes para el año calendario 2020. Fuente: Subdirección Normativa Aplicación de la cláusula de la nación más favorecida al convenio con Italia. Fuente: Subdirección Normativa Circular N° 4 del 10 de Enero del 2020 Tabla de cálculos de reajustes, intereses y multas febrero 2020. Fuente: Subdirección de Fiscalización Circular N° 3 del 09 de Enero del 2020 <p style='marg…
+oacute;n Normativa Aplicación de la cláusula de la nación más favorecida al convenio con Italia. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

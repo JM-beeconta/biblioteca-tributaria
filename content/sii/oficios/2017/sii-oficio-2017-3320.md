@@ -6,184 +6,103 @@
 - Año: 2017
 - Fecha: 2017-12-06
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2541.doc
-- Hash SHA-256: 7cc916bce923ee657d3a4db8c99ffdee8d9f466fec49e7c04c1e66f089fd7d2c
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2582.htm
+- Hash SHA-256: e4653fe983bc4a152c55f12f641d804dae59408464b86edd373e4c6f16f8fa4b
 
 ## Resumen
 
-la &ndash; Decreto Ley N°1604, de 1976, Art. 14 &ndash; . (Ord. Nº 2582, de 06-12-2017) | Word Solicita pronunciamiento sobre alcance del artículo 14 del decreto ley N° 1.604 de 1976. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°8 letra b), Art. 42, N°2. (Ord. Nº 2541, de 29-11-2017) | Word Consulta si una persona natural en el caso que indica, constituye para efectos del artículo 17, N°8 de la LIR un contribuyente que determina IDPC sobre rentas efectivas. RENTA &ndash; ACTUAL LEY SOBRE IMPUEST…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Decreto Ley N°1604, de 1976, Art. 14 &ndash; . (Ord. Nº 2582, de 06-12-2017) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":44,"year":2016}
-- {"type":"articulo","law":"LIR","article":"17"}
-- {"type":"articulo","law":"LIR","article":"42  N"}
-- {"type":"articulo","law":"LIR","article":"39  N"}
-- {"type":"articulo","law":"LIR","article":"20 N"}
-- {"type":"articulo","law":"LIR","article":"20"}
-- {"type":"articulo","law":"LIR","article":"14"}
-- {"type":"articulo","law":"LIR","article":"42 N"}
+- {"type":"oficio","number":3320,"year":2016}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°8 LETRA B), ART. 42,
-                     N°2. (ORD. N° 2541, DE 29.11.2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO LEY N°1604, DE 1976, ART. 14 – OFICIO N° 3320, DE 2016. (Ord. Nº 2582, de 06-12-2017)
 
+SOLICITA PRONUNCIAMIENTO SOBRE ALCANCE DEL ARTÍCULO 14 DEL DECRETO LEY N° 1.604 DE 1976.
 
+Se ha consultado a esta Dirección Nacional sobre el alcance del artículo 14 del decreto ley N° 1.604 de 1976, en el caso que indica.
 
-Consulta si una persona natural en el  caso  que  indica,  constituye  para
-efectos del artículo 17, N°8 de la LIR un contribuyente que determina  IDPC
-sobre rentas efectivas.
+I ANTECEDENTES
 
+El Oficio Ord. del antecedente informa que la XXXXX solicitó la exención de Impuesto a la Renta respecto de sus ingresos obtenidos de actividades educacionales y la devolución del Impuesto a la Renta pagado en años anteriores, por aplicación del artículo 14 del decreto ley N° 1604 de 1976, solicitud que fue acogida mediante Oficio Ord. DJU 12.00 N° 329 de fecha 11.07.2017, de la Dirección Regional Santiago Centro.
 
-Se ha recibido en esta Dirección Nacional su  presentación  indicada  en  el
-antecedente,  mediante  la  cual  consulta  si  una  persona   natural   que
-desarrolla actividades del articulo 42  N°2  de  la  LIR  y  además  obtiene
-rentas exentas de Impuesto de  Primera  Categoría  (IDPC),  constituye  para
-efectos del artículo 17, N°8, de la  LIR,  un  contribuyente  que  determina
-IDPC sobre rentas efectivas.
-I.-   ANTECEDENTES.
+Agrega que en 1968 alumnos de la TTTTT de Chile (en adelante, &ldquo;TTTTT&rdquo;) crearon el Departamento Universitario Obrero y Campesino (DUOC). En 1982, la YYYYY adaptó su estructura a la legislación vigente y creó el XXXXX. El año 1992, el Consejo de la TTTTT aprobó los estatutos de XXXXX, para dar cumplimiento a la Ley Orgánica Constitucional de Enseñanza.
 
-1.- Indica en su presentación que una persona natural tributa  con  Impuesto
-Global Complementario (IGC)  por  actividades  profesionales  independientes
-del articulo 42  N°2  de  la  LIR  y  por  rentas  de  arrendamiento  de  un
-departamento (no DFL N°2) adquirido el año  2012,  acreditadas  mediante  el
-respectivo contrato y exentas de IDPC de acuerdo al artículo 39  N°3  de  la
-LIR.
+Asimismo, se informa que, de acuerdo a los estatutos del XXXXX, la TTTTT participa en la administración, decisión ejecutiva, aprobación de estatutos, eventual disolución, rendición de cuentas y presidencia del XXXXX, así como de otros vínculos con el referido instituto.
 
-La persona natural pretende vender el departamento  indicado  como  asimismo
-la casa habitación de su propiedad que actualmente sirve de vivienda a él  y
-su familia.
+Al respecto, esa Dirección de Grandes Contribuyentes manifiesta no compartir el criterio de la Dirección Regional porque la TTTTT no habría participado en la creación del XXXXX ni interviene en su organización o mantenimiento.
 
-2.- Luego de referirse al artículo 17, N°8, letra b), de la LIR, señala  que
-la persona natural,  si  bien  determina  una  renta  efectiva  conforme  al
-artículo 20 N°1, letra b), de la LIR,  no  determina  un  IDPC  sobre  dicha
-renta efectiva precisamente porque la renta determinada se encuentra  exenta
-del impuesto señalado.
+Con todo, por no existir un pronunciamiento del Director sobre el alcance que corresponda otorgar al artículo 14 del decreto ley N° 1.604 de 1976, solicita confirmar que:
 
-En su opinión, la persona natural podría acogerse a las normas del  artículo
-17, N°8, letra b), de la LIR, que contemplan un ingreso no  constitutivo  de
-renta por el mayor valor que obtenga en  la  enajenación  del  inmueble  que
-genera las rentas de arrendamiento, o de aquel que destina a  su  habitación
-o ambos.
+El artículo establece la exención sólo para la Universidad de Chile, la Universidad Técnica del Estado y otras Universidades chilenas reconocidas por el Estado, y para las Asociaciones, Corporaciones, Sociedades y Fundaciones en cuya creación, organización o mantenimiento participen o intervengan las aludidas Universidades, dejando claramente excluidos a aquellas instituciones en donde no tengan injerencia real las mencionadas Universidades.
 
-II.-  ANÁLISIS.
+En el caso de XXXXX, al no haber sido creado ni encontrarse organizado ni mantenido o partir (sic) y/o intervenir en él, la TTTTT, sino la YYYYY, no se encuentra beneficiado por la franquicia del artículo 14 citado.
 
-1.- El régimen de tributación contenido en el artículo 17,  N°8,  letra  b),
-de la LIR, vigente a contar del 1° de enero de 2017[1], que grava  el  mayor
-valor obtenido en la enajenación a partir de la indicada  fecha,  de  bienes
-raíces ubicados en Chile o de derechos o cuotas sobre dichos  bienes  raíces
-poseídos en comunidad adquiridos a partir  del  1°  de  enero  de  2004,  se
-aplica a enajenantes personas naturales, sea que tengan  o  no  domicilio  o
-residencia en Chile, que no determinen IDPC sobre rentas efectivas.
+Se adjuntan a los antecedentes la solicitud de exención efectuada por el XXXXX y la respuesta emanada de la Dirección Regional Santiago Centro.
 
-Dicha norma, contempla un ingreso no constitutivo de renta hasta  un  máximo
-de 8.000 UF, condicionado, a la ausencia  de  relación  entre  enajenante  y
-adquirente[2], y en los casos de subdivisión de terrenos urbanos  o  rurales
-y en la venta de edificios por pisos o departamentos, al transcurso  de  los
-plazos mínimos de uno o cuatro años que deben mediar entre la adquisición  o
-construcción y la posterior enajenación del bien raíz o de  los  derechos  o
-cuotas sobre aquel[3].
+II ANÁLISIS
 
-Por su parte, el numeral XVI, del artículo tercero  transitorio  de  la  Ley
-N°20.780 de 2014, señala que el mayor valor obtenido en  la  enajenación  de
-bienes raíces situados en Chile o de derechos o  cuotas  respecto  de  tales
-bienes raíces poseídos en comunidad, adquiridos antes del  1°  de  enero  de
-2004, efectuada por personas naturales que no sean  contribuyentes  de  IDPC
-que declaren su renta efectiva, se sujetará a las disposiciones  de  la  LIR
-según su texto vigente hasta el 31 de diciembre de 2014.
+El artículo 14 del decreto ley 1604 de 1976 establece que &ldquo;Las franquicias y exenciones tributarias relacionadas con el impuesto a la renta y habitacional, de que gocen la Universidad de Chile, la Universidad Técnica del Estado y otras Universidades chilenas reconocidas por el Estado, y las Asociaciones, Corporaciones, Sociedades y Fundaciones en cuya creación, organización o mantenimiento participen o intervengan las aludidas Universidades, no regirán respecto de las empresas que les pertenezcan, ni de las rentas clasificadas en los números 3° y 4° del artículo 20° de la Ley de la Renta, salvo aquellas provenientes de actividades educacionales.&rdquo;
 
-2.- Al respecto, la Circular N°44  de  2016,  indica  que  un  contribuyente
-determina IDPC sobre rentas  efectivas,  cuando  tiene  un  giro  comercial,
-industrial  o  desarrolla  alguna  actividad   de   la   Primera   Categoría
-clasificada en el artículo 20 de la LIR, acogido al régimen de la  letra  A)
-o B), del artículo 14 de la LIR; o bajo el  régimen  de  la  letra  A),  del
-artículo 14 ter de la misma ley; o bien  desarrolla  una  actividad  gravada
-con IDPC y no exenta, tributando conforme  al  N°1,  de  la  letra  C),  del
-artículo 14 de la LIR.
+Por su parte, el artículo único de la Ley N° 13.713 exime a las Universidades reconocidas por el Estado, de todo impuesto o contribución sobre sus rentas de cualquier origen y derivadas del dominio o posesión de valores mobiliarios, bienes muebles o inmuebles o por cualquier otro título, como, asimismo, de todo impuesto, tasa o derecho sobre los actos que ejecuten y contratos que celebren y documentos que emitan, con excepción de los impuestos establecidos en la ley 12.120 y sus modificaciones y de los impuestos establecidos por la ley 11.766 y sus modificaciones.
 
-Por el contrario, la Circular señala que un contribuyente que  sólo  obtiene
-rentas afectas a IGC no determinaría IDPC sobre rentas efectivas.
+Conforme lo dispuesto en el artículo 14 del decreto ley 1604 de 1976, y en lo que interesa, es necesario que la Universidad de Chile, la Universidad Técnica del Estado u otras Universidades chilenas reconocidas por el Estado (en adelante, la &ldquo;Universidad&rdquo; o las &ldquo;Universidades&rdquo;), participen o intervengan en la creación, organización o mantenimiento de Asociaciones, Corporaciones, Sociedades o Fundaciones (en adelante, la &ldquo;institución&rdquo; o las &ldquo;instituciones&rdquo;) que solicitan la exención tributaria en comento.
 
-De esta forma, una persona natural cumpliría con la exigencia  del  artículo
-17, N°8, inciso tercero, de la LIR, cuando en el ejercicio  en  que  enajena
-el inmueble o los derechos o cuotas sobre el inmueble poseído en  comunidad,
-ha quedado únicamente afecto a IGC y no  ha  obtenido  rentas  efectivamente
-gravadas (no exentas) con IDPC.
+Al respecto, y como primera cuestión, dado el tiempo verbal en que se emplean las expresiones &ldquo;participen o intervengan&rdquo;, no basta que la Universidad se haya limitado a &ldquo;participar&rdquo; o &ldquo;intervenir&rdquo;, por ejemplo, en la creación de la institución respectiva, sino que dicha participación o intervención sea actual o mantenerse al menos a la época en que la institución impetra el beneficio.
 
-III.- CONCLUSIÓN.
+En segundo lugar, la conjunción disyuntiva &ldquo;o&rdquo; indica que la Universidad puede, alternativamente, participar y/o intervenir indistinta o conjuntamente en la creación, organización o mantenimiento de la institución peticionaria, de suerte que, por ejemplo, la Universidad podría no haber participado o intervenido en la creación de una institución, pero sí en su posterior organización y/o mantenimiento.
 
-Una persona natural que únicamente obtiene rentas gravadas con  IGC  por  el
-artículo 42 N°2 de la LIR y por rentas de arrendamiento de bienes raíces  no
-agrícolas, no determina IDPC sobre  rentas  efectivas,  pudiendo  acoger  el
-mayor valor obtenido en la enajenación del bien raíz ubicado en Chile  o  de
-los derechos o cuotas sobre dicho bien  raíz  poseído  en  comunidad,  a  la
-tributación dispuesta en el artículo 17, N°8, letra b), de la LIR, o  en  el
-artículo tercero transitorio, numeral XVI,  de  la  Ley  N°20.780  de  2014,
-según se  trate  de  bienes  raíces  o  derechos  o  cuotas  sobre  aquellos
-adquiridos a partir del 1°  de  enero  de  2004  o  antes  de  dicha  fecha,
-respectivamente.
+Dicho lo anterior, resta determinar qué entendimiento cabe dar a las expresiones &ldquo;participar&rdquo;, &ldquo;intervenir&rdquo;, &ldquo;crear&rdquo;, &ldquo;organizar&rdquo; y &ldquo;mantener&rdquo;, en el contexto de la norma. Para fines expositivos, se partirá analizando las tres últimas expresiones, teniendo en consideración que, dada la falta de definición legal en el artículo 14 del decreto ley 1604 de 1976, se recurrirá a las definiciones contenidas en el Diccionario de la Real Academia de la Lengua Española, así como en otras leyes relevantes, que permitan ilustrar el sentido y alcance de las expresiones referidas.
 
+Por de pronto, la palabra &ldquo;creación&rdquo; menta la idea de constituir o formar algo que no existía previamente, por contraposición a &ldquo;mantener&rdquo; que presupone la existencia de algo que se trata de proveer, costear, conservar en su ser, sostener, amparar, etc.
 
+Por su parte, y a propósito de otras materias, este Servicio ha entendido que &ldquo;organizar&rdquo; es &ldquo;poner algo en orden&rdquo; [1] , cuestión que puede envolver tanto la creación de algo que antes no existía, como ponerlo en orden tras su creación. De este modo, organizar una institución podría significar constituirla (crearla), como también efectuar todos los arreglos necesarios para el cumplimiento y buena marcha de los fines previstos por los estatutos de la institución, una vez creada.
 
+De otro lado, la palabra &ldquo;participar&rdquo;, entre sus acepciones relevantes, consiste en tomar parte en algo, recibir una parte de algo, tener parte en una sociedad o negocio o ser socio de ellos. En términos similares se refiere la Ley sobre Impuesto a la Renta cuando, por ejemplo, el artículo 10 alude a la participación &ldquo;en la propiedad&rdquo; de una entidad como a la participación o beneficio &ldquo;en el capital o en las utilidades&rdquo; de una sociedad o entidad; en tanto que diversas normas del Código Tributario emplean la voz &ldquo;participar&rdquo; en el sentido de tomar o formar parte en algo (en una acción de fiscalización o una actuación determinada, artículo 60 bis; en un delito, artículo 100; o, en un programa de capacitación, artículo 165 N° 3°).
 
+Por su parte, la voz &ldquo;intervenir&rdquo; es más amplia que &ldquo;participar&rdquo;, atendido que no sólo podría implicar la participación (intervenir) en la propiedad o utilidades de una entidad, sino más genéricamente, examinar, fiscalizar, controlar, dirigir, mediar y, en términos generales, tomar parte en algo. Asimismo, la intervención puede ser de modo directo o indirecto, atendido que la norma no distingue.
 
+Luego, y para dar debido contorno a las palabras &ldquo;participar&rdquo; e &ldquo;intervenir&rdquo; en el contexto del artículo 14 del decreto ley 1604 de 1976, puede estimarse que la primera alude exclusivamente a tener propiedad en la respectiva asociación o sociedad, o aportar en la constitución de una fundación o corporación, en tanto que &ldquo;intervenir&rdquo; refiere, en términos generales, a cualquier otra forma de tomar parte en la creación, organización o mantenimiento, de manera efectiva y relevante, de las instituciones que solicitan la exención tributaria en comento, cuestión que debe apreciarse caso a caso y puede asumir diversas modalidades.
 
+En ese respecto, se comparte el criterio de esa Dirección de Grandes Contribuyentes en el sentido de excluir aquellas instituciones en que las Universidades no tengan injerencia real y directa, de suerte que no se verifique un vínculo permanente entre la Universidad y el quehacer de la respectiva institución.
 
+Sin embargo, atendidos los estatutos del XXXXX, así como la propia relación efectuada por esa Dirección de Grandes Contribuyentes, esta Subdirección advierte que la TTTTT de Chile, a través de la YYYYY, interviene de modo actual, permanente y gravitante en la organización académica y buena marcha del XXXXX, a lo menos, del siguiente modo:
 
-                                       FERNANDO        BARRAZA        LUENGO
-                                            DIRECTOR
+La dirección y administración superior del XXXXX está a cargo de un Consejo Directivo compuesto por cinco miembros, integrado &ldquo;por derecho propio&rdquo; por quienes ejerzan como directores de la YYYYY de la TTTTT, quienes además son ratificados por el Rector de la Universidad.
 
+El Rector y Secretario General del XXXXX, &ldquo;por derecho propio&rdquo;, es quien se desempeñe como Director Ejecutivo o Secretario General, respectivamente, en la YYYYY de la TTTTT.
 
+La dirección ejecutiva debe dar cuenta mensual al Consejo Directivo sobre la situación económica y académica del XXXXX. Asimismo, el Presidente del Consejo Directivo debe rendir cuenta anual sobre la marcha del XXXXX al Consejo Superior de la TTTTT.
 
+La reforma de los estatutos del XXXXX necesariamente debe contar con la opinión favorable del Rector de la TTTTT.
 
+La disolución del XXXXX, en la medida que, verificado ese hecho, sus bienes ceden en beneficio de la YYYYY y, de disolverse ésta última, en beneficio de la TTTTT, sin perjuicio de contar con la opinión favorable del Rector de la TTTTT.
 
+Finalmente, es pertinente señalar que el XXXXX fue instituido por la YYYYY de la TTTTT el año 1992, &ldquo;para los efectos de ajustarse a la Ley Orgánica Constitucional de Enseñanza&rdquo;, según reza el acta de constitución.
 
+A su turno, la YYYYY fue constituida en 1973 por el Rector Delegado de la TTTTT de la época y cuya administración corresponde a un Consejo integrado por el Rector de la TTTTT y los vicerectores Académico, de Comunicaciones y de Asuntos Económicos y Administrativos de la Universidad, junto con otras personas.
 
+Como se aprecia, es indudable que la TTTTT, directamente o a través de la YYYYY, ha tenido una &ldquo;intervención&rdquo; relevante no sólo en la constitución misma del XXXXX, sino también en las actividades posteriores para organizar y ejecutar el proyecto educativo del XXXXX, de modo que no se comparte el segundo criterio señalado por esa Dirección de Grandes Contribuyentes.
 
+III CONCLUSIÓN
 
+Conforme a lo expuesto precedentemente, se informa que:
 
+El artículo 14 del decreto ley N° 1.604 de 1976 establece la exención sólo para la Universidad de Chile, la Universidad Técnica del Estado y otras Universidades chilenas reconocidas por el Estado, y para las Asociaciones, Corporaciones, Sociedades y Fundaciones en cuya creación, organización o mantenimiento participen o intervengan las aludidas Universidades, de suerte que se comparte el criterio sustentado por esa Dirección de Grandes Contribuyentes en el sentido de excluir aquellas instituciones en donde no tengan injerencia efectiva y relevante las mencionadas Universidades.
 
+Sin embargo, no se comparte que, en el caso particular, el XXXXX no se encuentre beneficiado por la franquicia del artículo 14 citado atendido que la TTTTT sí &ldquo;interviene&rdquo; de modo gravitante, directamente o a través de la YYYYY, en la creación y organización del XXXXX, de acuerdo al contenido que dichas palabras (intervenir, crear y mantener) deben tener en el contexto de la norma, según fuera expuesto en el Análisis.
 
-                        Oficio N° 2541, de 29.11.2017
-                           Subdirección Normativa
-                        Dpto. de Impuestos Directos.
-                           -----------------------
-[1] La letra e), del N°8, del artículo 1°,  de  la  Ley  N°20.780  de  2014,
-sustituyó íntegramente a partir del  1°  de  enero  de  2017,  el  N°8,  del
-artículo 17 de la  LIR.  Posteriormente  la  primera  norma  fue  modificada
-parcialmente por el literal iv), de la letra d), del N°1,  del  artículo  8°
-de la Ley N°20.899 de 2016.
+FERNANDO BARRAZA LUENGO
 
-[2] De acuerdo a lo indicado en el artículo 17, N°8, inciso segundo,  de  la
-LIR, constituirá siempre renta sujeta a la tributación con IGC o  IA,  sobre
-la renta percibida o devengada que corresponda, el mayor valor  obtenido  en
-la enajenación de toda clase de bienes, en los siguientes casos: (i) en  las
-enajenaciones  que  efectúen  los  socios  de  sociedades  de   personas   o
-accionistas de sociedades anónimas cerradas,  o  accionistas  de  sociedades
-anónimas abiertas dueños del 10% o más de las acciones,  con  la  empresa  o
-sociedad respectiva; (ii) en las enajenaciones efectuadas con una empresa  o
-sociedad en la que tenga intereses. Se  entiende  que  el  enajenante  tiene
-interés en una empresa o sociedad cuando existe una vinculación  patrimonial
-o un interés económico entre el enajenante y el adquirente, ya sea en  forma
-directa o indirecta; (iii) en las enajenaciones efectuadas al  cónyuge  o  a
-sus parientes, ascendientes  o  descendientes  hasta  el  segundo  grado  de
-consanguinidad; (iv) en las enajenaciones o cesiones efectuadas  a  empresas
-relacionadas o del mismo grupo empresarial en los términos de los  artículos
-96 al 100 de la Ley N°18.045, cualquier sea la naturaleza  jurídica  de  las
-entidades respectivas, salvo las que efectúen al cónyuge o a  los  parientes
-hasta el segundo grado de consanguinidad de las  personas  señaladas  en  la
-letra c), de este último artículo.
+DIRECTOR
 
-[3] De acuerdo a lo indicado en el artículo 17, N°8, letra b),  de  la  LIR,
-no constituirá renta el mayor  valor  que  se  determine  en  los  casos  de
-subdivisión de terrenos urbanos o rurales y en la  venta  de  edificios  por
-pisos o departamentos, siempre que la enajenación se produzca  transcurridos
-cuatro años desde la adquisición o construcción, en su caso.  En  todos  los
-demás casos no constituirá renta el mayor  valor  que  se  determine  cuando
-entre la fecha de adquisición  y  de  enajenación  transcurra  un  plazo  no
-inferior a un año. Se pierde el ingreso no renta ascendiente a 8.000 UF,  si
-la enajenación  se  efectúa  antes  de  transcurrir  los  plazos  indicados,
-debiendo la totalidad del mayor valor obtenido tributar con IGC o IA,  según
-corresponda, sobre la base de la renta devengada o percibida a elección  del
-enajenante.
+Oficio N° 2582, de 06.12.2017
+
+Subdirección Normativa
+
+Dpto. de Técnica Tributaria
+
+[1] Oficio N° 3320 de 2016

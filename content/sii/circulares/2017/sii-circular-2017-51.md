@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 52 del 13 de Octubre del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2017 y el 9 de noviembre del año 2017. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 50 del 06 de Octubre del 2017 Instruye…
+acute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

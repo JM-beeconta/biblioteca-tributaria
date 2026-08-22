@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ubdirección de Avaluaciones. Circular N° 27 del 09 de Abril del 2020 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2020, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2020 y el 9 de mayo de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Circular N…
+acute;n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2020 y el 9 de mayo de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

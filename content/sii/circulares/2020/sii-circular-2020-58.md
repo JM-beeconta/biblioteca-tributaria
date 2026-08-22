@@ -11,7 +11,7 @@
 
 ## Resumen
 
-g;s 18.392, 19.149, 19.420, 19.709, 19.606 y 19.853. Fuente: Subdirección Normativa. Circular N° 59 del 10 de Septiembre del 2020 Tabla de cálculos de reajustes, intereses y multas octubre 2020. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2020 y el 9 de octubre de 2020, ambos inclusive. Fuente: Subdirección Jurídica. Circular N° 57 del 10 de Septiembre del 2020 Tablas de Impuesto Único de Segunda Cate…
+calización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2020 y el 9 de octubre de 2020, ambos inclusive. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

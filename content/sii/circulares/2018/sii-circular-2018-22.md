@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2018
-- Fecha: 2018-04-23
+- Fecha: 2018-04-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu22.pdf
 - Hash SHA-256: 6c5c8fff9a2c53f396fadfc696ec5ec0d143cf1113a31c352d3c1c876752cc18
 
 ## Resumen
 
-class="sin_efecto" target='_blank'>Circular N° 23 del 23 de Abril del 2018 Actualiza instrucciones respecto del recurso de reposición de la resolución que fija el avalúo de un bien raíz, que formulen los contribuyentes y municipalidades con motivo de un proceso de retasación general o modificación individual. Deroga Circular N°21, de 04.04.2014 Fuente: Subdirección de Avaluaciones Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa Circular N° 21 del 12 d…
+;n de Avaluaciones Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

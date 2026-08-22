@@ -11,7 +11,7 @@
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 56 del 14 de Diciembre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de enero del año 2019, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2018 y el 9 de enero del año 2019. Fuente: Oficina de Gestión Normativa Circular N° 54 del 22 de Noviembre del 2018 Tabla de Cálculos de Reaju…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2018 y el 9 de enero del año 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

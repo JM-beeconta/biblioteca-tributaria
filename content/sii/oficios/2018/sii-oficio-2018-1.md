@@ -6,64 +6,89 @@
 - Año: 2018
 - Fecha: 2018-06-28
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1311.doc
-- Hash SHA-256: 7655479eda56f0bc206bd10b4e7bb4741ea3acd33d460ad9c63ebd19f02d9644
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1340.htm
+- Hash SHA-256: 43f92a8f918ca1b339ed2e0a84ad036d3b45c1312d28a79fcce91db0a3ec55c4
 
 ## Resumen
 
-mpuesto a la &ndash; Art. 18, Art. 56, N°3, Art. 63 &ndash; .892, de 2016 &ndash; Circular N° 44, de 2016. (Ord. Nº 1340, de 28-06-2018) | Word Tratamiento tributario de ingreso obtenido en la venta de inmueble adquirido por donación. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 21, Art. 31, N°7, Art. 39, N° 4, letra g) &ndash; Oficio N° 1954, de 2004. (Ord. Nº 1311, de 25-06-2018) | Word Tratamiento tributario de las ayudas monetarias que realiza una fundación. Renta &ndash; Actual Ley sobre Impuesto…
+eg;20.780 de 2014. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 18, Art. 56, N°3, Art. 63 &ndash; .892, de 2016 &ndash; Circular N° 44, de 2016. (Ord. Nº 1340, de 28-06-2018) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1954,"year":2004}
-- {"type":"oficio","number":4335,"year":2005}
-- {"type":"oficio","number":6473,"year":2003}
-- {"type":"oficio","number":4998,"year":2006}
-- {"type":"articulo","law":"LIR","article":"31 N"}
-- {"type":"articulo","law":"LIR","article":"39"}
-- {"type":"articulo","law":"LIR","article":"39 N"}
-- {"type":"articulo","law":"LIR","article":"21"}
+- {"type":"circular","number":44,"year":2016}
+- {"type":"articulo","law":"LIR","article":"18"}
+- {"type":"articulo","law":"LIR","article":"17"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21, ART. 31, N°7, ART. 39, N° 4, LETRA G) – OFICIO N° 1954, DE 2004. (ORD. N° 1311, DE 25.06.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 18, ART. 56, N°3, ART. 63 – OFICIO N° 1.892, DE 2016 – CIRCULAR N° 44, DE 2016. (Ord. Nº 1340, de 28-06-2018)
 
-Tratamiento tributario de las ayudas monetarias que realiza una f undación .
-Se ha solicitado a este Servicio pronunciarse sobre el tratamiento tributario aplicable a las ayudas monetarias realizadas por una f undación en cumplimiento del mandato estatutario .
-I ANTECEDENTES
-De acuerdo a su presentación, la fundación se constituyó como consecuencia del mandato contenido en un testamento, en virtud del cual el causante dispuso que la parte más importante de sus bienes se destinara a constituir una fundación de beneficencia que llevaría su nombr e y cuyo objetivo principal es proteger la ancianidad, fomentar la educación, promover la producción de obras literarias y ayudar al TTT .
-En el cumplimiento de su objeto, la fundación realiza labores de beneficencia a través de la entrega de dinero a las entidades específicas nombradas en los estatutos. Al respecto, estima que ese sería el giro de la fundación, esto es, el cumplimiento de una finalidad lícita y específica dispuesta por el testador.
-Agrega que hace algún tiempo, las acciones de las que es dueña la fundación le han generado ingresos significativos por dividendos , sumas que ha destinado a cumplir la voluntad de su fundador y a solventar gastos menores de administración.
-Al respecto, l a Dirección Regional Santiago Sur efectuó una fiscalización a la fundación, indicando que las ayudas en dinero que otorga no son gastos necesarios para producir la renta, emitiendo las liquid aciones correspondiente s . Además, su presentación señala que el Servicio las consideró donaciones, en circunstancias que se efectúan por obligación, en cumplimiento del encargo del fundador, constituyendo un mandato póstumo, regulado en el artículo 2169 del Código Civil.
-De acuerdo a su presentación, si este Servicio afirma que las ayudas realiza das por la fundación son donaciones y constituyen gastos rechazados afectos con impuesto, se contradiría el criterio establecido en el Oficio N° 4335 de 2005, en el sentido que el gasto efectuado por partidos políticos es acept ado cuando se invierte íntegramente en el financiamiento de la colectividad .
-Indica que la base imponible de un contribuyente se conform a por los ingresos que obtiene menos los gastos, los que se aceptan deducir bajo condición que estén relacionados con los ingresos. En el caso particular de la fundación , los ingresos no existirían si los gastos no se hicieren, por que el fundador no los habría aportado si hubiera sabido que el gasto no podría efectuarlo legalmente.
-En su opinión, este Servicio habría considerado equivocadamente que estas ayudas fueron realizadas en el marco del artículo 31 N° 7 de la Ley sobre Impuesto a la Renta , que no aplicaría a la f undación, por cuanto las ayudas monetarias se hicieron conforme a l os propósitos definidos por el f undador.
-Al respecto, señala que el Servicio, en el Oficio N° 6473 de 2003 expres ó que los aportes que efectúen las empresas afiliadas a las asociaciones gremiales deben ser aceptados como gastos en la medida que tales erogaciones estén establecidas en los estatutos de la asociación gremial respectiva, con caracteres de uniformidad y generalidad y siempre que se destinen al cumplimiento de los fines propios de la asociación, los cuales deben estar claramente establecidos en sus estatutos dentro del objeto principal de la entidad, y en beneficio directo o indirecto del desarrollo de sus asociados.
-A continuación cita una sentencia de la I. Corte de Apelaciones de Valdivia, que habr ía establecido que au n cuando el concepto de gasto necesario no ha sido definido por la ley, debe entenderse que debe estar referido a una finalidad específica relaci onada con el giro de la empresa, y una sentencia de la Excma. Corte Suprema que se habría pronunciado en el sentido que los desembolsos que la empresa efectuó para financiar actividades de capacitación, recreo, atención psicológica y convivencias en fechas especiales, constituyen gastos aceptados.
-Finalmente expresa que la contribuyente pretende reclamar de las liquidaciones N° 288 y 289, ambas de 14.07.2017.
-Por las razones antes señaladas, solicita confirmar los siguientes criterios:
-Que l as ayudas monetarias realizadas por una f undación en cumplimiento del mandato estatutario y, por lo tanto, obligatorias para la entidad, constituyen un gasto aceptado.
-Que e stas ayudas no constituyen una donación, sino una obligación que se debe cumplir en virtud de la voluntad del causante, con tenidas en los estatutos de la f undación.
-Que e l artículo 31 N° 7 de la Ley sobre Impuesto a la Renta no puede aplicarse a la f undación que representa , p orque ésta no reviste la calidad de “empresa” al carece r de ánimo de lucro respecto de las ayudas monetarias prestadas.
-II ANÁLISIS
-De acuerdo a una reiterada jurisprudencia de este Servicio y frente al Impuesto a la Renta, “todas las personas, sean naturales o jurídicas, tengan o no fines de lucro, revisten la calidad de contribuyentes, en la medida que puedan estar sujetas a algunos de los tributos que la Ley sobre Impuesto a la Renta establece, lo cual ocurrirá en caso que posean bienes o realicen actividades susceptibles de generar rentas clasificadas en alguna de las categorías que dicha ley contempla. En efecto, salvo excepciones legales taxativas, la Ley sobre Impuesto a la Renta no atiende a la naturaleza o finalidad de las personas para gravarlas con impuesto, sino que considera las actividades que éstas realizan, los actos y contratos que ejecutan y los beneficios económicos que puedan obtener.”
-Conforme lo anterior, este Servicio ha resuelto que “l as personas jurídicas regidas por el Título XXXIII del Libro I del Código Civil, dentro de las cuales se comprenden las Corporaciones de Derecho Privado, estarán afectadas con impuesto, en la medida que obtengan rentas clasificadas en la Primera Categoría de la Ley de la Renta, atendiendo a la fuente generadora de los ingresos, los cuales pueden provenir, entre otros, de actividades rentísticas, de inversiones en capitales mobiliarios, del comercio, industria o servicios o de cualquiera otra, que se comprenda en alguno de los números 1 al 5 del artículo 20 de la ley precitada.”
-Por consiguiente, las personas jurídicas, en general, incluyendo las instituciones de derecho privado señaladas así como las fundaciones dependientes de una persona jurídica (fundación) de derecho público , se encuentran afectas a las demás obligaciones tributarias, tales como inscribirse en el Rol Único Tributario, efectuar Declaración Jurada de Iniciación de Actividades, presentar Declaraciones Anuales de Impuesto; y, en general, cumplir todas las demás obligaciones tributarias, ya sea de carácter legal o administrativas en su calidad de contribuyente de la Primera Categoría.
-En lo que respecta específicamente al tratamiento tributario de las erogaciones , consistentes en ayudas, efectuadas por instituciones sin fines de lucro , este Servicio señaló en el Oficio N° 4998 de 2006, a propósito de una fundación de derecho público, que “ los gastos en que incurra la citada Fundación, consistentes éstos en ayudar a familias de escasos recursos y a cada una de sus miembros, en el ámbito que señala en su escrito,… tales erogaciones no se aceptan como gasto para los efectos tributarios, ya que en la Ley de la Renta no existe ninguna disposición legal, especialmente en su artículo 31, que autorice la deducción de sumas destinadas a los fines que indica.”
-Por lo tanto, prosigue el citado oficio, “en el evento de que tales desembolsos se hayan deducido de las rentas afectas al I mpuesto de Primera Categoría que pueda obtener la citada Fundación, alterando con ello el resultado tributario sobre el cual debe cumplir con el tributo antes mencionado, dichas partidas deben agregarse a la renta bruta para su afectación con el referido gravamen de categoría, sin que les sea aplicable la tributación dispuesta por el artículo 21 de la ley del ramo, atendido a que este tipo de entes jurídicos no se comprenden dentro de los señalados por esta última norma legal.”
-Considerando que, como se expuso, las personas jurídicas, en general, se encuentran afectas a impuestos y a las demás obligaciones tributarias, sin distinguir si las fundaciones son de derecho público o privado, el mismo criterio señalado en el Oficio N° 4998 de 2006 debe aplicarse respecto de las erogaciones efectuadas por una fundación de derecho privado, aunque sean efectuadas en cumplimiento del mandato previsto por el fundador.
-En consecuencia, no es posible confirmar que a) las ayudas monetarias realizadas por una fundación en cumplimiento del mandato estatutario y, por lo tanto, obligatorias para la entidad, constituyen un gasto aceptado; como tampoco que b) dichas “ayudas” no constituyen una donación, porque aunque sean obligatorias para la fundación – en cumplimiento de l a voluntad del causante – siguen siendo atribuciones convencionales dispositivas entre vivos, no debidas, gratuitas y lucrativas de una cosa corporal o incorporal o de un valor, que disminuye el patrimonio del donante y aumenta el del donatario (Guzmán Brito, De las Donaciones entre vivos, Conceptos y Tipos; Lexisnexis, 1ª Edición, 2005, páginas 35 a 36) .
-En cuanto al tercer criterio que solicita confirmar, cabe señalar que, de acuerdo al artículo 31 N° 7 de la Ley sobre Impuesto a la Renta se aceptan como gasto las donaciones efectuadas cuyo único fin sea la realización de programas de instrucción en la medida que no excedan ciertos límites de la renta líquida imponible o capital propio de la “ empresa ”.
-Al respecto, y a pesar del concepto amplio de empresa – un todo constituido por el capital y el trabajo, encaminado a la realización de actividades mercantiles, industriales o de prestación de servicios con fines lucrativos – reiteradamente utilizado por este Servicio , también se ha precisado, por ejemplo a propósito de la contra excepción establecida en el artículo 39, inciso final , de la Ley sobre Impuesto a la Renta, que, de los elementos para configurar una empresa, no concurre el propósito lucrativo en el caso de los “entes que se rigen por el Título XXXIII del Libro I del Código Civil, como son las Corporaciones o Fundaciones, cuyo objetivo principal por naturaleza es no perseguir un fin lucrativo, sin distribución de beneficios a terceras personas distintas a sus socios fundadores o afiliados, sino que las eventuales rentas ganadas se invierten en las actividades propias de las entidades con el fin de entregar una mejor prestación a sus asociados o integrantes de la Corporación o Fundación.”
-De este modo, se ha resuelto que una fundación “ no puede ser calificada de una "empresa", y por lo tanto, respecto de los intereses obtenidos de los depósitos efectuados en el mercado financiero producto de los excedentes de los fondos acumulados por las cotizaciones de sus afiliados, se encuentra exenta del impuesto de Primera Categoría, conforme a lo dispuesto por el artículo 39 Nº 4, letra g) de la Ley sobre Impuesto a la Renta …”
-Conforme lo anterior, se confirma que no es posible aplicar a una fundación lo dispuesto en el artículo 31 N° 7 de la Ley sobre Impuesto a la Renta.
-III CONCLUSIONES
-Las denominadas “ayudas monetarias” que realiza la fundación en cumplimiento de sus estatutos, constituyen donaciones que no pueden ser rebajadas de la renta líquida imponible de Primera Categoría, sin perjuicio de no serles aplicables lo dispuesto en el artículo 21 de la Ley sobre Impuesto a la Renta.
-Se confirma que e l artículo 31 N° 7 de la Ley sobre Impuesto a la Renta no es aplicable a las fundaciones, atendido que carecen del fin de lucro, propio del concepto de “empresa”.
+TRATAMIENTO TRIBUTARIO DE INGRESO OBTENIDO EN LA VENTA DE INMUEBLE ADQUIRIDO POR DONACIÓN.
+
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita un pronunciamiento sobre el tratamiento tributario del ingreso obtenido en la venta de un inmueble adquirido por donación.
+
+I.- ANTECEDENTES.
+
+Señala que un contribuyente adquirirá un inmueble por donación; cuyo procedimiento judicial de autorización se encuentra en los últimos estados de tramitación, por lo que dentro del año 2016 se efectuaría la transferencia de dominio a su favor. Indica que existe la posibilidad de vender el referido inmueble, por lo que se requiere conocer el tratamiento tributario que debe darse a este inmueble donado, en la posterior venta.
+
+Añade que serían presupuestos de la eventual venta: i) que ella se efectuaría dentro del año de adquisición del bien inmueble; ii) que ésta sería realizada por una persona natural, sin giro inmobiliario y que no efectúa este tipo de operaciones usualmente; y, iii) que el título que le sirve de base para haber adquirido el referido inmueble es la donación entre vivos.
+
+Indica que de acuerdo a los artículos 17 N°8 letra b) y 18, de la Ley sobre Impuesto a la Renta, para que el ingreso producto de la enajenación de un inmueble sea considerado un ingreso no renta, es necesario cumplir con tres requisitos: i) debe tratarse de la enajenación de bienes raíces situados en Chile, ii) efectuada por personas naturales o sociedades de personas que no declaren rentas efectivas de primera categoría según contabilidad completa, y, iii) debe tratarse de operaciones no habituales para el contribuyente.
+
+En cuanto a la presunción simplemente legal de habitualidad contenida en el citado artículo 18 de la Ley sobre Impuesto a la Renta, y sin perjuicio de la posibilidad de desvirtuarla, señala que existen casos en que ésta misma no aplicaría, en atención a las circunstancias del caso particular, y que así lo ha señalado el Servicio.
+
+Agrega que se ha indicado que no se aplica la presunción de habitualidad que establece el artículo 18, en el caso de la adquisición de inmuebles por sucesión por causa de muerte, ya que para aplicar la presunción de habitualidad se tiende a requerir un acto voluntario, encaminado a la adquisición de un bienes específico para su posterior reventa . Sin embargo, no existen pronunciamientos que traten específicamente el caso en que la adquisición se haya efectuado por una donación entre vivos, sin perjuicio de las similitudes que existen entre ambas formas de adquirir, ya que la aceptación del donatario presenta suficientes semejanzas con la aceptación de la herencia, y por lo mismo, no correspondería hacer una diferencia al respecto.
+
+De esta forma, solicita un pronunciamiento respecto del tratamiento tributario que debe darse al ingreso adquirido en la venta del inmueble adquirido por donación, en especial en lo que dice relación con la presunción de habitualidad que podría afectarle si la respectiva venta se efectúa dentro del año de su adquisición, aclarando en definitiva que, en atención al título de adquisición del inmueble, no opera la presunción de habitualidad en el caso descrito.
+
+Por lo tanto, solicita una declaración respecto de que, en el caso de una eventual venta, y siempre que se cumplan los presupuestos descritos, el ingreso obtenido por el contribuyente dentro del año 2016 se consideraría un ingreso no renta.
+
+II.- ANÁLISIS.
+
+En primer lugar, si bien su consulta parte del supuesto que la enajenación del bien raíz que indica se efectuaría durante el año 2016, corresponde señalar que la Ley N° 20.780, sobre reforma tributaria, establece un nuevo régimen aplicable en la enajenación de inmuebles, el que rige a contar del 01.01.2017, por así disponerlo el artículo primero transitorio, inciso primero, de dicha Ley.
+
+Por lo tanto, previo a responder su consulta, cabe analizar la situación de las enajenaciones efectuadas antes y a contar de esa fecha.
+
+1.- Enajenaciones de inmuebles efectuadas hasta el 31-12-2016.
+
+Dichas enajenaciones se rigen por la normativa vigente hasta el 31 de Diciembre de 2016, contenida en la Ley sobre Impuesto a la Renta (LIR) , las que contemplan fundamentalmente tres disposiciones que reglan el tratamiento tributario del mayor o menor valor proveniente de la enajenación de bienes raíces.
+
+La primera de ellas, que constituye la norma rectora sobre la materia, está contenida en la letra b), del Nº 8, del artículo 17, de la LIR, que dispone en términos generales, que constituye ingreso no renta, es decir, no se devenga impuesto a la renta sobre el mayor valor obtenido por personas naturales o sociedades de personas formadas exclusivamente por personas naturales en la enajenación de bienes raíces situados en Chile, en la medida que no formen parte del activo de empresas que declaren su renta efectiva en la primera categoría, según contabilidad completa.
+
+Por otra parte, el inciso 4°, del Nº 8, del artículo 17 de la misma Ley, dispone que tratándose del mayor valor obtenido en la enajenación de bienes raíces que hagan los socios de sociedades de personas o accionistas de sociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% ó más de las acciones, con la empresa o sociedad respectiva o en las que tengan intereses, se aplicará a dicha operación la tributación normal establecida en la LIR, quedando gravada con los impuestos de Primera Categoría y Global Complementario o Adicional, según sea el caso.
+
+Finalmente, la última norma legal aplicable está contenida en el artículo 18 del mismo texto legal, que prevé que el mayor valor que se obtenga estará afecto a los impuestos de Primera Categoría y Global Complementario o Adicional, según corresponda, cuando de acuerdo a su inciso 2°, este Servicio determine que las operaciones que establece son habituales, considerando el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de que se trate, correspondiendo al contribuyente probar lo contrario. Su inciso 3°, presume de derecho que existe habitualidad en los casos de subdivisión de terrenos urbanos o rurales y en la venta de edificios por pisos o departamentos, siempre que la enajenación se produzca dentro de los cuatro años siguientes a la adquisición o construcción. Asimismo, en todos los demás casos, presume la habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo inferior a un año.
+
+En el presente caso, se aplica la presunción de habitualidad, porque de acuerdo a lo expuesto por el consultante, la enajenación del inmueble se producirá en el plazo inferior a un año contado desde la adquisición, la que se produce a través de la tradición que efectúa el donante y es aceptada por el donatario.
+
+La referida presunción de habitualidad, puede ser desvirtuada, ya que se trata de una presunción simplemente legal, lo que exigiría que el enajenante del inmueble pueda acreditar que al momento de adquirir el inmueble no tenía ánimo de reventa. De acuerdo a lo expuesto por el consultante, esto no sucede en el caso que se analiza, ya que el donatario estaría aceptando la donación de un inmueble precisamente con la idea de venderlo para obtener una utilidad de dicha venta.
+
+Tal como lo expresa en su requerimiento, este Servicio ha señalado que, para determinar si existe la habitualidad a que se refiere el artículo 18 de la LIR, debe atenderse a la intención, necesidad o motivo que se tuvo al adquirir el bien.
+
+A mayor abundamiento, en la situación específica que describe, relativa a la adquisición del bien raíz por donación, este Servicio ya se ha pronunciado sobre la materia , expresando por las razones que se indican en esos pronunciamientos, que la presunción de habitualidad a que se refiere la norma legal en comento, también es aplicable cuando los bienes raíces sean adquiridos según la modalidad antes indicada, y se den los presupuestos básicos que señala dicha disposición para la aplicación de la presunción que ella establece, que es de carácter simplemente legal.
+
+De acuerdo con lo señalado, conforme a lo dispuesto en la letra b) del Nº 8, del artículo 17 de la LIR, en concordancia con la parte final del inciso tercero del artículo 18, del mismo texto legal, el mayor valor que se produzca en la enajenación de bienes raíces, constituye renta afecta a los impuestos generales de la LIR, si dicha enajenación se realiza dentro del año contado desde la fecha de la adquisición del inmueble, esto es, desde la inscripción del respectivo título en el registro de propiedad del Conservador de Bienes Raíces.
+
+En cuanto al momento en que se entiende adquirido o enajenado el dominio del bien raíz para los efectos de la aplicación de la presunción de habitualidad indicada, cabe reiterar que la "adquisición" y &ldquo;enajenación&rdquo;, de conformidad con los artículos 675 y 686 del Código Civil, tienen lugar en este caso cuando el título de transferencia de dominio del inmueble respectivo se encuentre debidamente inscrito a nombre del nuevo adquirente en el Registro de Propiedad del Conservador de Bienes Raíces.
+
+2.- Enajenación de bienes raíces situados en Chile efectuadas a contar del 01.01.2017.
+
+Las instrucciones relativas a las enajenaciones señaladas, se encuentran en la Circular N° 44, de 2016. Asimismo, se puede consultar el Oficio N° 1.892, de 2016.
+
+III.- CONCLUSIONES.
+
+Si el inmueble que señala, el que sería adquirido mediante una donación durante el año 2016, se enajena antes del 01.01.2017, se aplicará al mayor valor obtenido en su enajenación la normativa vigente hasta el 31.12.2016, contenida en la LIR.
+
+Conforme con ello, se aplica en este caso, salvo prueba en contrario, la presunción legal de habitualidad que se indica en la parte final del inciso 3°, del artículo 18, de la LIR, vigente hasta el 31 de diciembre de 2016; por lo que el mayor valor que se obtenga en la enajenación se encuentra afecto a los impuestos generales de la LIR, esto es, el Impuesto de Primera Categoría y Global Complementario o Adicional, según corresponda, con derecho a rebajar como crédito el primer tributo mencionado de los segundos gravámenes indicados, conforme a los artículo 56 N° 3 y 63 de la citada Ley.
+
+Finalmente, las Leyes N°s. 20.780 y 20.899, modifican a contar del 01.01.2017 el régimen tributario aplicable a la enajenación de bienes raíces, en los términos instruidos en la Circular N° 44, de 2016 .
 
 FERNANDO BARRAZA LUENGO
+
 DIRECTOR
 
-Oficio N° 1 3 11, de 25.06.2018
+Oficio N° 1340, de 28.06.2018
+
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+
+Dpto. de Impuestos Directos

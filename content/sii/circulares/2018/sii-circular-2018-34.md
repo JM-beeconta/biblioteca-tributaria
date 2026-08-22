@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2018
-- Fecha: 2018-06-28
+- Fecha: 2018-06-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu34.pdf
 - Hash SHA-256: c9e09a0ce1b2e6cd4546a0fb5e1fae6d4a908904773a9c41f935c128d12fb8aa
 
 ## Resumen
 
-formación adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 35 del 28 de Junio del 2018 Tabla de cálculos de reajustes, intereses y multas julio 2018 Fuente: Subdirección de Fiscalizción Imparte instrucciones relativas al procedimiento de reposición administrativa establecido en el artículo 123 bis del Código Tributario, modificado por la Ley N° 21.039. Deroga Circular N° 13, de 29 de enero de 2010. Fuente: Departamento de Asesoría Jurídica Circular N° 33 del 11 de Junio del…
+iscalizción Imparte instrucciones relativas al procedimiento de reposición administrativa establecido en el artículo 123 bis del Código Tributario, modificado por la Ley N° 21.039. Deroga Circular N° 13, de 29 de enero de 2010. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

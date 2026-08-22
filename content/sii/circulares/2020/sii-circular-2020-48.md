@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2020
-- Fecha: 2020-07-20
+- Fecha: 2020-07-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu48.pdf
 - Hash SHA-256: 537f5b9984e1a2d971218d92db0e366bc87a5c947fc4e6ddc2d3ce45103639af
 
 ## Resumen
 
-i>Fuente: Subdirección Normativa. Circular N° 49 del 20 de Julio del 2020 Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado en las leyes N° 20.899... Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas agosto 2020. Fuente: Subdirección de Fiscalización. Circular N° 47 del 09 de Julio del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2020 e…
+acute;n Normativa. Tabla de cálculos de reajustes, intereses y multas agosto 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

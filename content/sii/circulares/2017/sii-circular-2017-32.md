@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2017
-- Fecha: 2017-06-14
+- Fecha: 2017-06-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu32.pdf
 - Hash SHA-256: 91b500552c6591d6cac3163716db92a5b3231b4754709f326e7827a4e3d8ff2e
 
 ## Resumen
 
-Fuente: Departamento de Catastro y Tasaciones Circular N° 33 del 14 de Junio del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2017 y el 9 de julio del año 2017. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 31 del 23 de Mayo del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

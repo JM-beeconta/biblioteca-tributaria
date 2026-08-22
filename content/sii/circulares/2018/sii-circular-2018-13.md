@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2018
-- Fecha: 2018-03-09
+- Fecha: 2018-02-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu13.pdf
 - Hash SHA-256: 4d3afe3ec1788b8f17fe263ce51f5d301b9e1f25fde813e1060dfd0cc3af68ac
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 14 del 09 de Marzo del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de abril del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en…
+oacute;n Normativa Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en el N°2, de la letra D.- del artículo 41 A, de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-argin-bottom:0px;'>Imparte instrucciones transitorias motivadas en la situación de emergencia y hechos posteriores relacionados. Fuente: Subdirección Jurídica Circular N° 41 del 10 de Octubre del 2019 Tabla de cálculos de reajustes, intereses y multas noviembre 2019. Fuente: Subdirección de Fiscalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios(PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2019. Fuente: Subdirección de Fiscal…
+cción de Fiscalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios(PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

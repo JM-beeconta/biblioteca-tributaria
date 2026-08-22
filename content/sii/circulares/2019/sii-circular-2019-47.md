@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;lculos de reajustes, intereses y multas enero 2020. Fuente: Subdirección de Fiscalización Circular N° 48 del 11 de Diciembre del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2019 y el 9 de enero de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 46 del 26 de Noviembre del 2019…
+Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2019 y el 9 de enero de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

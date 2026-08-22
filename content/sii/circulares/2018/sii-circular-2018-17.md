@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2018
-- Fecha: 2018-04-06
+- Fecha: 2018-03-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu17.pdf
 - Hash SHA-256: 7083d76d3a1b6fe960d1e32f1648beb207eac4756e288b7ceb31f78a2f99ff57
 
 ## Resumen
 
-uente: Oficina de Gestión Normativa Circular N° 18 del 06 de Abril del 2018 Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a declarar en el Año Tributario 2018, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas abril 2018 Fuente: Subdirección de Fiscalización Circular N° 16 del 16 de Marzo del 2018 Informa derogación del artículo 41 D de la Ley sobre Impuesto a la Ren…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas abril 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

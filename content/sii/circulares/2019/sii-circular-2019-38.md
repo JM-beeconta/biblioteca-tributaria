@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2019
-- Fecha: 2019-10-10
+- Fecha: 2019-10-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu38.pdf
 - Hash SHA-256: 96cc32bef0b70b90edde55e582d4aa04ed752cfcac8ddf2113cd401f61379b09
 
 ## Resumen
 
-e;n tributaria anual cumplida, para aplicarse durante el AÑO 2019. Fuente: Subdirección de Fiscalización Circular N° 39 del 10 de Octubre del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2019 y el 9 de noviembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 37 del 11 de Septi…
+Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

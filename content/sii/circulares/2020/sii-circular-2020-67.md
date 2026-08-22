@@ -11,7 +11,7 @@
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 68 del 11 de Noviembre del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2020 y el 9 de diciembre de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 66 del 28 de Octubre del 2020 Impar…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

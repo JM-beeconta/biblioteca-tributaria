@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Asistencia al Contribuyente Circular N° 11 del 15 de Febrero del 2018 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley sobre Impuesto a la Renta Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas Marzo 2018 Fuente: Subdirección de Fiscalización Circular N° 9 del 09 de Febrero del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de f…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas Marzo 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

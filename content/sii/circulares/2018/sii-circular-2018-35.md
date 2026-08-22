@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 35
 - Año: 2018
-- Fecha: 2018-07-09
+- Fecha: 2018-06-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu35.pdf
 - Hash SHA-256: a644326137545a9d183a0f96e95ed3a532a4002ee38822d2ec43bd46f8585131
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 36 del 09 de Julio del 2018 Tablas de impuesto único de Segunda Categoría para el mes de agosto del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas julio 2018 Fuente: Subdirección de Fiscalizción Circular N° 34 del 27 de Junio del 2018 Imparte instrucciones relativas al procedimiento de reposición administrativa establec…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas julio 2018 Fuente: Subdirección de Fiscalizción
 
 ## Referencias detectadas
 

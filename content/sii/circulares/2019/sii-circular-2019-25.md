@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a cláusula de la nación más favorecida a los convenios que indica. Norma sobre créditos back to back y normas anti elusivas. Fuente: Subdirección Normativa Circular N° 26 del 11 de Junio del 2019 Tabla de cálculos de reajustes, intereses y multas julio 2019 Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 24 del 11 de Junio del 2019 Valor de la Uni…
+ción de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

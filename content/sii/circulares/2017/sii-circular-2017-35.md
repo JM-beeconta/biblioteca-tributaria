@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 35
 - Año: 2017
-- Fecha: 2017-06-30
+- Fecha: 2017-06-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu35.pdf
 - Hash SHA-256: ac983caad159f17bc78d35550acdad8aff6e06e9b4639b32d169a6c558f02032
 
 ## Resumen
 
-2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 36 del 30 de Junio del 2017 Tabla de cálculos de intereses y multas, Julio 2017 Fuente: Subdirección de Fiscalización Complementa Circular N° 4, de 11.01.2017 que establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica. Fuente: Asistencia al Contribuyente Circular N° 34 del 16 de Junio del 2017 Norma aplicación de rebajas de avalúo para propiedades destruidas o…
+scalización Complementa Circular N° 4, de 11.01.2017 que establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica. Fuente: Asistencia al Contribuyente
 
 ## Referencias detectadas
 

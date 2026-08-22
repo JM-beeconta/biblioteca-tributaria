@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2020
-- Fecha: 2020-03-25
+- Fecha: 2020-03-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu18.pdf
 - Hash SHA-256: 13e85c821e20e90f53b16b03d4b965f046319a4b46372fac80fa2ef47371589b
 
 ## Resumen
 
-pan> Circular N° 19 del 25 de Marzo del 2020 Imparte instrucciones sobre la modificación de los artículos 42 N° 1, 43 y 47 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210, de 24 de febrero de 2020. Fuente: Departamento de Impuestos Directos. Procedimiento especial y transitorio del Servicio de Impuestos Internos para la obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente Circular N° 17 del 11 d…
+mpuestos Directos. Procedimiento especial y transitorio del Servicio de Impuestos Internos para la obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

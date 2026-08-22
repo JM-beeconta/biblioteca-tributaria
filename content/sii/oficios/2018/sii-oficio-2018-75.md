@@ -6,204 +6,72 @@
 - Año: 2018
 - Fecha: 2018-06-11
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1122.doc
-- Hash SHA-256: 726d8ba83516b706559fad3e14543f046a8c9203734ba60db6afba208e42083a
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1197.htm
+- Hash SHA-256: cd67214e4036e3fb745991c84696d1b679612624583b252b8e0f03f915276a1c
 
 ## Resumen
 
-&ndash; . (Ord. Nº 1197, de 11-06-2018) | Word Fusión por incorporación. Diferencia entre el valor invertido y el patrimonio tributario recibido de la sociedad absorbida (Badwill). Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°1, Art. 20, N°5 &ndash; Oficios N°s. 7070, de 1975; 4563, de 1985; 3031, de 1988; 1042, de 2005 y 2382, de 2011. (Ord. Nº 1122, de 31-05-2018) | Word Tributación aplicable a indemnización por perjuicio patrimonial percibida por accionista minoritario. Renta &ndash; Actual L…
+or una Universidad Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 2, N°1, Art. 15, Art. 20 &ndash; . (Ord. Nº 1197, de 11-06-2018) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":2382,"year":2011}
-- {"type":"articulo","law":"LIR","article":"14 l"}
-- {"type":"articulo","law":"LIR","article":"38 bis"}
-- {"type":"articulo","law":"LIR","article":"20 n"}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"oficio","number":75,"year":2013}
+- {"type":"articulo","law":"LIR","article":"15"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  ART. 17, N°1, ART. 20, N°5 –
-  OFICIOS N°S. 7070, DE 1975; 4563, DE 1985; 3031, DE 1988; 1042, DE 2005 Y
-                 2382, DE 2011. (ORD. N°1122, DE 31.05.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 2, N°1, ART. 15, ART. 20 – OFICIO N° 75, DE 2013. (Ord. Nº 1197, de 11-06-2018)
 
+FUSIÓN POR INCORPORACIÓN. DIFERENCIA ENTRE EL VALOR INVERTIDO Y EL PATRIMONIO TRIBUTARIO RECIBIDO DE LA SOCIEDAD ABSORBIDA (BADWILL).
 
-Tributación aplicable a indemnización por perjuicio  patrimonial  percibida
-por accionista minoritario.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual consulta materias relacionadas con el efecto tributario denominado badwill, originado en las fusiones por incorporación.
 
-Se ha recibido en esta Dirección Nacional, su presentación  indicada  en  el
-antecedente mediante la cual  solicita  pronunciamiento  en  relación  a  la
-tributación que afecta a una indemnización  por  perjuicio  patrimonial  que
-fue recibida por un accionista minoritario.
+I.- ANTECEDENTES:
 
-I.    ANTECEDENTES:
+Expone que según las normas sobre fusiones del artículo 15 de la Ley sobre Impuesto a la Renta (LIR), incorporadas por la Ley 20.630 del año 2012, el menor valor [sic] que se produzca entre el valor de la inversión total realizada en acciones o derechos sociales de la sociedad absorbida, en comparación al patrimonio tributario de la misma, en principio debe ser ajustado en el valor de los activos no monetarios recibidos con motivo de la fusión, cuando el valor de estos estén por sobre el valor corriente en plaza. De existir una diferencia luego de hacer el ajuste a los activos no monetarios, esa diferencia se considera utilidad afecta a impuesto, pudiendo tratarse como un ingreso diferido para reconocer el ingreso hasta en un máximo de 10 ejercicios comerciales consecutivos.
 
-Expone, que su cliente, una sociedad anónima cerrada que para estos  efectos
-denomina "Sociedad A", que  tributa  en  primera  categoría  en  el  régimen
-establecido en el artículo 14 letra B de la LIR, fue accionista  minoritaria
-de otra sociedad anónima cerrada que  denomina  "Sociedad  X".  Esta  última
-tenía como accionista mayoritario a otra  sociedad  que  denomina  "Sociedad
-B".
+Luego hace referencia a lo señalado por este Servicio mediante Oficio N° 75 de 2013, en lo tocante a que la norma citada comprende también la situación de las fusiones por incorporación, en la medida que la absorbente o sociedad continuadora tenga ya una inversión en la sociedad absorbida en forma previa a la fusión.
 
-La “Sociedad X”, fue disuelta y liquidados sus activos en el  año  2014,  la
-distribución de su patrimonio  se  realizó  atendiendo  a  la  participación
-accionaria. Producto de la  liquidación  de  la  sociedad  en  cuestión,  la
-“Sociedad A”, recibió activos que superaban la inversión  inicial,  la  cual
-evidentemente consideraba los aumentos  de  capital  realizados  debidamente
-reajustados. La diferencia en su favor recibió el tratamiento  dispuesto  en
-el artículo 38 bis de la Ley sobre Impuesto a la Renta. De esta  manera,  la
-relación jurídica que existía entre la “Sociedad X” y sus  accionistas,  que
-nació con la constitución de la entidad y se materializó  a  través  de  los
-respectivos  aportes  y  aumentos  de  capital   se   dio   por   terminada,
-entregándose "Sociedad X" y accionistas el más completo y total finiquito.
+Respecto de este tipo de fusiones por incorporación, señala que cuando una sociedad tiene una participación en otra sociedad, para los efectos tributarios la inversión debe ser valorada a su valor de costo de adquisición de las acciones o derechos sociales, y que este será el valor de la inversión para efectos de su capital propio tributario. Así, la norma tributaria no permite reconocer como mayor inversión las utilidades devengadas en la otra sociedad, mientras estas no sean efectivamente percibidas.
 
-Disuelta la  sociedad,  su  cliente  procedió  a  registrar  la  sustitución
-jurídica y contable del activo "Inversión en Sociedad X" por  el  patrimonio
-recibido desde la extinta sociedad.
+Por tal motivo, y con ocasión de dicha fusión, la diferencia generada por las utilidades acumuladas que están en el capital propio de la filial absorbida, pero que no están reconocidas en el activo de la sociedad absorbente, en principio debieran ajustarse en los activos no monetarios recibidos. En el caso que estos activos no existan o no sea posible efectuar ese ajuste en consideración a su valor de mercado, dicha diferencia quedaría afecta a impuesto bajo el mecanismo de ingreso diferido en el máximo de 10 años. A su juicio, tal consecuencia genera una doble tributación con el Impuesto de Primera Categoría, pues luego de haber tributado en la sociedad filial, tendrían que volver a tributar en la sociedad continuadora una vez ocurrida la fusión.
 
-Con posterioridad a estos hechos y una vez  disuelta  la  “Sociedad  X”,  su
-cliente demandó a la Sociedad B, por cuanto esta última  habría  forzado  la
-disolución de la “Sociedad X”, contraviniendo lo dispuesto  en  el  artículo
-39 de los estatutos sociales, en relación con los artículos 30 y 133  de  la
-Ley de Sociedades Anónimas y 1546 del Código Civil, específicamente  por  un
-incumplimiento voluntario y doloso de una cláusula contractual  expresa  que
-indicaba que para que la Junta Extraordinaria  de  Accionistas  acordara  la
-disolución anticipada de la  empresa,  era  necesario  contar  con  el  voto
-conforme  de  tres  cuartas  partes  de  las  acciones  preferidas,  lo  que
-finalmente no se verificó,  generando  un  perjuicio  patrimonial  para  los
-accionistas  minoritarios  quienes  detentaban  la  amplia  mayoría  de  las
-acciones preferidas (82%) y que no estaban de acuerdo con  la  propuesta  de
-disolver la sociedad.
+En virtud de lo anterior, consulta lo siguiente:
 
-En razón de la antijuridicidad de la disolución anticipada  de  la  empresa,
-por violación de los  Estatutos  Sociales  y  de  la  Ley  sobre  Sociedades
-Anónimas, en relación  a  lo  dispuesto  por  el  artículo  133  de  la  Ley
-N°18.046, finalmente el accionista mayoritario fue condenado al pago de  una
-indemnización por el perjuicio patrimonial ocasionado  en  los  minoritarios
-por la disolución anticipada de la sociedad,  al  no  respetar  la  cláusula
-contractual que exigía no solamente el voto favorable de dos tercios de  las
-acciones con derecho a voto (que los tenía por sí mismo), sino  que  también
-el acuerdo de tres cuartas partes de las acciones preferentes  emitidas,  lo
-que no se  verificó,  pues  solamente  votaron  de  manera  favorable  a  la
-disolución el 12% de estas acciones preferentes, justamente  las  que  tenía
-el mayoritario.
+1. &iquest;Está en el alcance de la norma legal aplicar una doble tributación en el caso explicado, o se debería hacer alguna consideración y/o procedimiento especial para evitar esa doble aplicación de impuesto?
 
-En relación  a  lo  anterior,  solicita  pronunciamiento  de  este  Servicio
-respecto de las siguientes consultas:
+2. Ratificar el criterio de que, en las fusiones por incorporación, la aplicación de la norma del artículo 15 de la LIR se da solamente cuando la sociedad absorbente tiene una participación previa en la sociedad absorbida. Por lo tanto, en una fusión por incorporación en donde la sociedad absorbida es la inversionista, la norma no tiene aplicación.
 
-1. ¿Se puede considerar para todos los efectos tributarios y  contables  que
-la  indemnización  de  perjuicios  descrita  anteriormente  pagada  por   la
-sociedad B a la sociedad  A,  por  el  perjuicio  patrimonial  que  esta  le
-ocasionó al forzar la disolución de la sociedad X, es un ingreso propio  del
-activo que la Sociedad A tuvo en la sociedad X?
+3. Ratificar que la norma en cuestión es aplicable a las fusiones por incorporación solamente a contar de la vigencia de la Ley 20.630 del año 2012, y no para las realizadas con anterioridad a esta ley.
 
-2. ¿Es posible sostener que la indemnización accede y sigue  la  suerte  del
-activo que tenía la sociedad A en la sociedad X y, por  ende,  sujeta  a  lo
-dispuesto en el artículo 38 bis de la Ley sobre Impuesto a la Renta, o  debe
-tratarse como una indemnización  general  por  el  perjuicio  patrimonial  y
-directo causado por un  tercero,  y  en  ese  contexto  es  un  ingreso  del
-artículo 20 número 5 de la Ley sobre Impuesto a la Renta, para  la  Sociedad
-A? Lo anterior dependiendo obviamente de la calificación que se haga  de  la
-naturaleza jurídica de la indemnización (si es  por  daño  emergente,  lucro
-cesante o daño moral).
+II.- ANÁLISIS:
 
-3. Solicita se confirme que no existe una definición jurídico tributaria  de
-los conceptos de daño emergente, lucro cesante y daño moral, y qué en  razón
-de  lo  anterior,  debe  estarse  a  los  conceptos  que   la   doctrina   y
-jurisprudencia, ha elaborado para el derecho privado general.
+En relación con su primera consulta, no es posible compartir su apreciación de que la norma del artículo 15 de la LIR provoque una doble tributación con el Impuesto de Primera Categoría, en la fusión por incorporación que describe.
 
-Es así  como  esta  autoridad  ha  definido  daño  emergente  en  el  Oficio
-Ordinario N° 1042, de fecha 15 de abril de 2005 y en el Oficio Ordinario  N°
-2382, de fecha 14 de octubre de 2011; asimismo, en  este  último  oficio  se
-refirió al lucro cesante y al daño moral.
+Al respecto, el mayor valor o badwill corresponde a la diferencia que se determina cuando el valor total de la inversión efectuada por la sociedad absorbente en las acciones o derechos sociales de la sociedad absorbida, es menor al valor total o proporcional del capital propio tributario de esta última, determinado a la fecha de fusión. Esta diferencia, si bien en el caso expuesto podría explicarse con las utilidades que acumulaba la sociedad absorbida y que le habían sido gravadas anteriormente con IDPC, lo cierto es que su obtención obedece a un hecho posterior y distinto del que causó la tributación precedente, como es la fusión con la generación de un badwill. Tal diferencia, también debe gravarse con el IDPC en tanto constituye un incremento patrimonial, y además, en cabeza de otro contribuyente, a saber, la sociedad absorbente, quien es la que obtiene dicho resultado positivo luego de la fusión.
 
-II.   ANÁLISIS:
+Por estas razones, no es correcto entender que la tributación al badwill, sea esta con ocasión de una fusión por incorporación o por compra, importe una doble tributación con Impuesto de Primera Categoría. Y en tal carácter, no se justifica la implementación de procedimiento alguno de mitigación como el que sugiere.
 
-En relación  a  la  primera  consulta,  cabe  recordar  que  las  facultades
-otorgadas en el N°1 de la letra A, del artículo  6°  del  Código  Tributario
-solo otorgan competencia al  firmante  para  emitir  pronunciamiento  en  el
-ámbito tributario, excluyéndose por  tanto  la  esfera  contable,  que  está
-radicada en los organismos técnicos que tienen las facultades para  impartir
-instrucciones al respecto.
+En relación con su segunda consulta, y en consonancia con lo señalado por este Servicio en el Oficio N° 75 de 2013, cabe confirmar que en las fusiones por incorporación, la aplicación de la norma sobre el badwill contenida actualmente en el artículo 15 de la LIR, se da solamente cuando la sociedad absorbente haya efectuado una inversión en acciones o derechos sociales en una o más sociedades que posteriormente resultan absorbidas por aquella. Por lo tanto, no resulta aplicable en el caso de una fusión por incorporación en donde la sociedad absorbida es la que tiene una participación previa en la sociedad absorbente .
 
-Por otra parte, del texto expuesto en su presentación, se desprende  que  la
-indemnización de perjuicios recibida por la sociedad  A,  por  el  perjuicio
-patrimonial  que  le  ocasionó  la  accionista  mayoritaria,  al  forzar  la
-disolución de la Sociedad X, no puede ser un ingreso propio del  activo  que
-la Sociedad A tuvo en la Sociedad X, entendiendo por ello que  el  monto  de
-la indemnización recibida no puede aumentar el valor  del  referido  activo,
-por cuanto a la fecha de percepción de  la  indemnización  la  inversión  en
-acciones había sido reemplazada por el patrimonio recibido desde la  extinta
-sociedad.
+En relación con su tercera consulta, es posible señalar que la tributación del badwill en la operación que indica, igualmente era posible concluirla de las normas generales de la LIR, principalmente de la conjugación de sus artículos 15, 20 y 2 N° 1, el último de los cuales establece una definición amplia de &ldquo;renta&rdquo;, comprensiva de la diferencia positiva entre lo invertido en una sociedad que se disuelve, y su valor tributario .
 
-Conforme a lo anterior, y en relación a la segunda consulta, no  es  posible
-sostener que la indemnización accede y sigue la suerte del activo que  tenía
-la sociedad A en la sociedad X, por lo  cual,  no  resulta  aplicable  a  la
-indemnización lo dispuesto en el artículo 38 bis de la LIR.
+III.- CONCLUSIÓN:
 
-Ahora bien, en atención a que no se acompañó copia de la sentencia a  través
-de la cual se condenó a la demandada al pago de la  referida  indemnización,
-no es posible emitir un pronunciamiento  específico  respecto  de  la  norma
-tributaria que corresponde aplicar en el caso  concreto,  sin  perjuicio  de
-establecer el marco normativo general contenido en la Ley sobre  Impuesto  a
-la Renta (LIR), aplicable a las indemnizaciones de perjuicios.
+Atendido el análisis precedente, se responden sus consultas en el mismo orden consultado:
 
-Sobre la materia, la indemnización de cualquier daño emergente  y  del  daño
-moral, siempre que la indemnización por este último  haya  sido  establecida
-por sentencia ejecutoriada, constituirá un ingreso no renta, conforme  a  lo
-dispuesto en el N°1 del artículo N° 17 de la LIR.  Sin  embargo,  el  inciso
-segundo de esta norma establece que lo dispuesto en este  número  no  regirá
-respecto del daño emergente en el caso de bienes incorporados al giro de  un
-negocio, empresa o actividad, cuyas rentas efectivas deban tributar  con  el
-Impuesto de la Primera Categoría, sin perjuicio de la deducción  como  gasto
-de dicho daño emergente. En razón de lo  cual,  según  lo  planteado  en  la
-presentación, como la indemnización recibida dice relación  con  bienes  que
-se  encontraban  incorporados  en  el  giro  de  la  sociedad  cuyas  rentas
-efectivas deben tributar con el Impuesto de la Primera Categoría,  ante  una
-indemnización por daño emergente, tendría aplicación este último  inciso  de
-la citada norma.
+1. Al no existir una doble tributación con el Impuesto de Primera Categoría en la fusión por incorporación descrita, no se justifica la implementación de procedimiento alguno de mitigación como el que sugiere en su presentación;
 
-Por el contrario, en el caso de una indemnización por  lucro  cesante,  esta
-correspondería a un ingreso que se clasifica en el N° 5 del artículo  20  de
-la LIR.
+2. Las normas sobre tributación del badwill no resultan aplicables al caso de una fusión por incorporación en donde la sociedad absorbida es la que tiene una participación previa en la sociedad absorbente; y
 
-Finalmente, y en relación a la tercera  consulta,  cabe  confirmar  que  los
-conceptos de daño emergente, lucro cesante y daño moral,  no  se  encuentran
-definidos en nuestro ordenamiento  tributario.  Sin  embargo,  tal  como  lo
-plantea  en  su  presentación,  este   Servicio   a   través   de   diversos
-pronunciamientos ha hecho referencia a cada uno de ellos. Así, por  ejemplo,
-se ha referido al daño emergente en los Oficios N°s. 7070,  de  1975;  4563,
-de 1985; 3031, de 1988; 1042, de 2005; y 2382, de 2011, al lucro cesante  en
-los Oficios N°s. 7070, de 1975; y 2382, de 2011,  y  al  daño  moral  en  el
-Oficio N° 2382, de 2011.
+3. Antes de la vigencia de la Ley N° 20.630 de 2012, la tributación del badwill igualmente era posible concluirla de las normas generales de la LIR, principalmente de los artículos 15, 20 y 2 N° 1, el último de los cuales establece una definición amplia de &ldquo;renta&rdquo;, comprensiva de la diferencia positiva entre lo invertido en una sociedad que se disuelve y su valor tributario.
 
-III.  CONCLUSIÓN:
+FERNANDO BARRAZA LUENGO
 
-De  acuerdo  a  lo  expuesto  y  considerando  solo  los  antecedentes   que
-proporciona en su presentación,  se  puede  informar  que  la  indemnización
-recibida por el accionista minoritario por el perjuicio patrimonial  que  le
-ocasionó el accionista mayoritario, al forzar la disolución de  la  Sociedad
-X, no puede aumentar el valor de la inversión en  acciones  de  esta  última
-sociedad, por cuanto a  la  fecha  de  percepción  de  la  indemnización  la
-Sociedad  X  se  encontraba  disuelta  y  liquidada,  siendo  la   inversión
-reemplazada por el patrimonio recibido desde la extinta sociedad.
+DIRECTOR
 
-Dependiendo de la naturaleza jurídica de la indemnización  recibida,  deberá
-darse a esta el tratamiento dispuesto en el inciso  primero  o  segundo  del
-N°1 del artículo N° 17 de la LIR, según corresponda, o bien,  afectarla  con
-la tributación general  contenida  en  la  LIR,  tratándose  de  un  ingreso
-clasificado en el N°5 del artículo 20, del mismo texto legal.
+Oficio N° 1197, de 11.06.2018
 
+Subdirección Normativa
 
-
-
-
-                                       FERNANDO        BARRAZA        LUENGO
-                                              DIRECTOR
-
-
-
-
-                        Oficio N° 1122, de 31.05.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
+Dpto. de Impuestos Directos

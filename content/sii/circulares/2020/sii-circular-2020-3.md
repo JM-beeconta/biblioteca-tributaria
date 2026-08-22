@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2020
-- Fecha: 2020-01-10
+- Fecha: 2020-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu3.pdf
 - Hash SHA-256: 24741d9cb6ff7792a68619fe9aa9198e3832352cc11859e421ec5a5c2cdaca19
 
 ## Resumen
 
-a nación más favorecida al convenio con Italia. Fuente: Subdirección Normativa Circular N° 4 del 10 de Enero del 2020 Tabla de cálculos de reajustes, intereses y multas febrero 2020. Fuente: Subdirección de Fiscalización Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad del saldo de utilidades tributables, del saldo total crédito y de los retiros en excesos no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2020. Fuente: Oficina…
+scalización Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad del saldo de utilidades tributables, del saldo total crédito y de los retiros en excesos no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2020. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

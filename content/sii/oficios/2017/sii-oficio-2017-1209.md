@@ -6,57 +6,76 @@
 - Año: 2017
 - Fecha: 2017-12-15
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2606.htm
-- Hash SHA-256: b4f59f3ed4345f410ccc01c453a75535969c29a10505afca88c84e8f55baff58
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2638.htm
+- Hash SHA-256: ffb15c5cceafe9a8f5f436629312c494ed519f2f62a23cf3da6eb1da18f9d2fc
 
 ## Resumen
 
-x;text-align:justify;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°9 &ndash; Ley N° 16.271, Art. 24 &ndash; . (Ord. Nº 2638, de 15-12-2017) | Word Solicita confirmar criterios que indica sobre tributación aplicable a donaciones desde el exterior. Renta &ndash; Actual Ley sobre Impuesto a la &ndash;Art. 17, N°27 &ndash; Ley N° 19.070, Art. 5 transitorio &ndash; Oficios N° 785, de 2007 y N° 741, de 2017. (Ord. Nº 2606, de 07-12-2017) | Word Tratamiento tributario del complemento de zona dispuest…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°9 &ndash; Ley N° 16.271, Art. 24 &ndash; . (Ord. Nº 2638, de 15-12-2017) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":785,"year":2007}
-- {"type":"oficio","number":741,"year":2017}
-- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"oficio","number":1209,"year":2017}
+- {"type":"articulo","law":"LIR","article":"17 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –ART. 17, N°27 – LEY N° 19.070, ART. 5 TRANSITORIO – OFICIOS N° 785, DE 2007 Y N° 741, DE 2017. (Ord. Nº 2606, de 07-12-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°9 – LEY N° 16.271, ART. 24 – OFICIO N° 1209, DE 2017. (Ord. Nº 2638, de 15-12-2017)
 
-TRATAMIENTO TRIBUTARIO DEL COMPLEMENTO DE ZONA DISPUESTO EN EL ARTÍCULO 5° TRANSITORIO DE LA LEY N°19.070, SOBRE ESTATUTO DE LOS PROFESIONALES DE LA EDUCACIÓN
+SOLICITA CONFIRMAR CRITERIOS QUE INDICA SOBRE TRIBUTACIÓN APLICABLE A DONACIONES DESDE EL EXTERIOR.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual consulta si constituye o no renta la asignación de zona otorgada a los docentes en un porcentaje de 125%.
+Se ha solicitado a este Servicio confirmar criterios que indica sobre tributación aplicable a donaciones desde el exterior.
 
-I. ANTECEDENTES.
+I ANTECEDENTES
 
-Expone que la asignación de zona está establecida en el artículo 5° transitorio de la Ley N°19.070, el cual es un complemento de la remuneración básica mínima nacional que tienen derecho a percibir los docentes municipales.
+De acuerdo con su presentación, se encuentra asesorando a un contribuyente extranjero organizado como entidad sin fines de lucro (en adelante el &ldquo;donante extranjero&rdquo;).
 
-Agrega, que por más de veinte años esta asignación no fue considerada ni tributable ni imponible, pero su empleador, desde el mes de julio del presente año la calificó tributable e imponible, lo cual les genera preocupación debido al impuesto de Segunda Categoría que les afecta.
+Indica que, con ocasión de los daños causados por incendios forestales, el donante extranjero tiene la intención de realizar donaciones en dinero a fundaciones chilenas cuyo objeto sea proteger y conservar recursos forestales o naturales en Chile (en adelante los &ldquo;donatarios&rdquo;), para que tales entidades lo utilicen de acuerdo a sus fines. Los fondos de propiedad del donante extranjero que serían donados a fundaciones chilenas, tienen su origen en actividades, bienes y rentas de fuente exclusivamente extranjera.
 
-Según su indagación e interpretación, considera que dicha asignación no debe ser tributable, según el número 27 del artículo 17 de la Ley sobre Impuesto a la Renta.
+En ese contexto, en forma previa a la materialización de tales donaciones, requiere confirmar el tratamiento tributario en Chile para el donatario, aplicable a las donaciones en dinero, tanto desde el punto de vista de la Ley sobre Impuesto a la Renta como de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones.
 
-Por otro lado, el artículo 7° del D.L. N° 249, de 1974 señala, que el trabajador que para el desempeño de un empleo se vea obligado a residir en una provincia o territorio que reúna condiciones especiales derivados del aislamiento o del costo de vida recibirá la asignación de zona que se indica.
+Al respecto, tras citar las normas pertinentes de la Ley sobre Impuesto a la Renta (artículo 17 N° 9), del Código Civil, de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones y la jurisprudencia administrativa pertinente [1] , solicita confirmar los siguientes criterios:
 
-Por último, señala que el Oficio N° 741 de 06.04.2017, de este Servicio, avala su postura, ya que aclara que el Dictamen N°13.595, de 2001, emitido por la Contraloría no altera lo señalado por este Servicio, debido a la excepción señalada en la LIR.
+Que, la donación recibida desde el extranjero por los donatarios chilenos constituye un ingreso no renta, por aplicación del artículo 17 N° 9 de la Ley sobre Impuesto a la Renta y, en consecuencia, no se encuentra sujeta a impuestos de la citada ley; y,
 
-II. ANÁLISIS.
+Que, el donatario chileno que recibe una donación en dinero realizada por una entidad extranjera que no es contribuyente en Chile, domiciliada en el extranjero y financiada con fondos asimismo de origen extranjero, no se encuentra sujeto a los impuestos de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones por aplicación del artículo 1° en concordancia con el artículo 24 de dicho cuerpo legal.
 
-Sobre la materia, este Servicio emitió pronunciamiento mediante el Oficio N°785, de 2007, en el cual, ante la consulta efectuada por una municipalidad, se estableció que de acuerdo con lo resuelto por la Contraloría General de la República a través de su dictamen N° 7.278, de 13.02.2007, por medio del cual califica jurídicamente al complemento de zona a que alude el artículo 5° transitorio de la Ley N° 19.070, como un complemento de zona que no constituye remuneración, cabe concluir que tal complemento califica como un ingreso no constitutivo de renta en virtud de lo dispuesto por el N° 27 del artículo 17 de la Ley de la Renta.
+II ANÁLISIS
 
-Posteriormente, a través del Oficio N° 741, de 2017, emitido en respuesta a la consulta efectuada en orden a establecer si constituyen o no renta la asignación de zona y el complemento de zona otorgados a docentes y no docentes dependientes de un establecimiento educacional de financiamiento compartido, junto con señalar que dichos conceptos se encuentran favorecidos con la liberación del N° 27 del artículo 17 de la LIR, se aclaró que &ldquo;La conclusión anterior no se ve alterada por el cambio de criterio adoptado con posterioridad por la Contraloría General de la República en su Dictamen N°13.595, de 2001, donde determina que el aludido complemento a partir de la vigencia de la Ley N°19.715, de 31 de enero de 2001, debe considerarse como un estipendio afecto a cotizaciones previsionales, pues en el ámbito jurídico- tributario existe una norma de excepción, contenida en la LIR, que exceptúa expresamente a la asignación de zona de la aplicación de los tributos establecidos en ella, debiendo el complemento de asignación recibir el mismo tratamiento, ya que dicho complemento, califica también como una &ldquo;asignación de zona&rdquo;, pues el artículo 7° del D.L. N° 249, de 1973, entrega los elementos para conceptualizar la asignación de zona como un estipendio que se paga al trabajador que se ve obligado a residir en una provincia o territorio que reúne condiciones especiales derivadas del aislamiento o costo de la vida, características que cumple el referido &ldquo;complemento&rdquo;.
+En relación con su consulta, de acuerdo a las normas legales y jurisprudencia administrativa que cita en su presentación, así como lo resuelto recientemente por este Oficio [2] , se informa que no se encuentra gravada con el Impuesto a las Donaciones la donación en que:
 
-Conforme a lo expuesto, y considerando que los elementos analizados en los oficios citados resultan aplicables a la consulta planteada, solo cabe remitirse a su análisis a objeto de evitar reiteraciones innecesarias.
+El donante sea extranjero, sin domicilio ni residencia en Chile
 
-III. CONCLUSIÓN.
+El donatario tenga residencia en Chile;
 
-Se confirma el criterio contenido en los oficios N os 785, de 2007 y 741, de 2017, en el sentido que no constituye renta el complemento de zona que perciban los docentes de establecimientos municipales, conforme al artículo 5° transitorio de la Ley N° 19.070, en base a lo dispuesto en el N° 27, del artículo 17, de la Ley sobre Impuesto a la Renta.
+La donación recaiga sobre bienes situados en el extranjero;
+
+La donación sea efectuada con fondos de fuente extranjera del donante; esto es, lo donado no se haya adquirido con, o no tenga su origen en, recursos provenientes del país.
+
+Lo anterior, por cierto, será válido en la medida que el acto jurídico o contrato celebrado en el extranjero no sólo cumpla con las disposiciones legales del país respectivo sino además pueda calificar como donación de acuerdo a nuestra legislación.
+
+Respecto del tratamiento tributario que tendría la referida donación en frente de la Ley sobre Impuesto a la Renta, este Servicio ha resuelto que, en el caso de donaciones recibidas desde el exterior, es aplicable lo dispuesto en el artículo 17 N° 9 de la Ley de la Renta, en el sentido que constituye ingreso no renta la adquisición de bienes por donación [3] .
+
+III CONCLUSIÓN
+
+Conforme lo expuesto precedentemente, la descripción efectuada en su presentación, y respecto de los criterios 1) y 2) que menciona en la misma, se confirma que:
+
+La donación recibida desde el extranjero por los donatarios chilenos constituye un ingreso no renta, por aplicación del artículo 17 N° 9 de la Ley sobre Impuesto a la Renta y, en consecuencia, no se encuentra sujeta a impuestos de la citada ley; y,
+
+El donatario chileno que recibe una donación en dinero realizada por una entidad extranjera que no es contribuyente en Chile, domiciliada en el extranjero y financiada con fondos asimismo de origen extranjero, no se encuentra sujeto a los impuestos de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones por aplicación del artículo 1° en concordancia con el artículo 24 de dicho cuerpo legal.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2606, de 07.12.2017
+Oficio N° 2638, de 15.12.2017
 
 Subdirección Normativa
 
-Dpto. de Impuestos Directos
+Dpto. de Técnica Tributaria
+
+[1] Oficios N° 7224 de 1980; 4591 y 5110 de 1981; 3715 de 1987; 2130 y 2126 de 1989; 1786 y 1333 de 1992; 1786 de 1999; 316 de 2001; 164, 3409 y 3686, de 2005; 4292 de 2006; 366 de 2010; 362 de 2014; 494 y 1809 de 2015 y 1702 de 2016; en materia de Impuesto a la Renta; y Oficios N° 1648 y N° 3924 de 2010, N° 1619 y N° 2140 de 2013, y 1702 de 2016, en materia de Impuesto a las Donaciones.
+
+[2] Oficio N° 1209 de 2017
+
+[3] Oficios N° 1156 de 2002 y N° 2633 de 2004

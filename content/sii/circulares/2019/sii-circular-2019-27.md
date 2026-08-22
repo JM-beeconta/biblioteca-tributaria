@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2019
-- Fecha: 2019-07-10
+- Fecha: 2019-06-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu27.pdf
 - Hash SHA-256: a18da638a01547741ee4db7ed2bc10892733591ab10bdac9cff769a5640c03fe
 
 ## Resumen
 
-;as comprendidos entre el 10 de julio de 2019 y el 9 de agosto de 2019. Fuente: Oficina de Gestión Normativa Circular N° 28 del 10 de Julio del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Rebaja de tasa general en los convenios suscritos con Japón y China. Aplicación de la cláusula de la nación más favorecida a los convenios que indica. Norma sobre créditos back to back y normas anti el…
+Oficina de Gestión Normativa Rebaja de tasa general en los convenios suscritos con Japón y China. Aplicación de la cláusula de la nación más favorecida a los convenios que indica. Norma sobre créditos back to back y normas anti elusivas. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

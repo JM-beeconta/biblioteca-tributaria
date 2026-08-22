@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 62
 - Año: 2020
-- Fecha: 2020-10-13
+- Fecha: 2020-09-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu62.pdf
 - Hash SHA-256: 88e0a3f2c74193ec37b404460d70973ab38555659cf853cb89bb0d3d5004ef17
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 63 del 13 de Octubre del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2020 y el 9 de noviembre de 2020, ambos inclusive. Fuente: Subdirección Normativa. Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a…
+acute;n Normativa. Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2020. Reemplaza la Circular N°43 de 2016. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

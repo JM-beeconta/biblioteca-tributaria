@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2017
-- Fecha: 2017-12-07
+- Fecha: 2017-11-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu56.pdf
 - Hash SHA-256: a6ec559228a2178996891ec421fd0669afa353dd9bd56923368284beface2ac9
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 57 del 07 de Diciembre del 2017 Precisa el concepto de establecimiento permanente, en relación con la obligación de inscripción en el Rol Único Tributario. Fuente: Departamento Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multa, Diciembre 2017 Fuente: Subdirección de Fiscalización Circular N° 55 del 10 de Noviembre del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año…
+Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multa, Diciembre 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

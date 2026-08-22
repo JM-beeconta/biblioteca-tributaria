@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2019
-- Fecha: 2019-06-28
+- Fecha: 2019-06-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu26.pdf
 - Hash SHA-256: 9eb08c35092f574be2551812e6e76b2a6294ff7e3c41ede8a1b3f17fedfca52c
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 27 del 28 de Junio del 2019 Rebaja de tasa general en los convenios suscritos con Japón y China. Aplicación de la cláusula de la nación más favorecida a los convenios que indica. Norma sobre créditos back to back y normas anti elusivas. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas julio 2019 Fuente: Subdirección de Fiscalización Circular N° 25 del 11 de Junio del 2019 Tablas de Impuesto Único de…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas julio 2019 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

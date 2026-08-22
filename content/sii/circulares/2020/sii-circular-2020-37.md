@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2020
-- Fecha: 2020-05-25
+- Fecha: 2020-05-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu37.pdf
 - Hash SHA-256: 518eb57b0430b47950d3ec6e53ed3f48f6b2b7379d2bba70cb528cda1b363c6c
 
 ## Resumen
 
-arget='_blank'>Circular N° 38 del 25 de Mayo del 2020 Imparte instrucciones sobre aplicación de la disminución transitoria de las tasas que establecen los artículos 1° numeral 3), 2° y 3° del Decreto Ley N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, dispuesta por la Ley N° 21.225, publicada en el Diario Oficial de fecha 02 de abril de 2020. Fuente: Técnica Tributaria. Imparte instrucciones sobre las modificaciones introducidas por el artículo tercero de la Ley N° 21.210, al Decreto Ley N° 825, de…
+;cnica Tributaria. Imparte instrucciones sobre las modificaciones introducidas por el artículo tercero de la Ley N° 21.210, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, en materia de inmuebles. Fuente: Impuestos Indirectos.
 
 ## Referencias detectadas
 

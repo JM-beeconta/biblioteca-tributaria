@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 39
 - Año: 2018
-- Fecha: 2018-07-25
+- Fecha: 2018-07-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu39.pdf
 - Hash SHA-256: b5493786e96ffad20b15a0d0f05a55534e866e6708ff64941e0859c5ffa6ce74
 
 ## Resumen
 
-mación adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 40 del 25 de Julio del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas Agosto 2018 Fuente: Subdirección de Fiscalización Complementa Circular N°54 del 2 de octubre de 2009 extendiendo el tratamiento tributario contenido en ella, a los pañales que presenten fallas o deterioros que produzcan una pérdida del valor comercial del producto y dificulten o hagan imposible su comercialización Fuente: Impuestos Directos…
+scalización Complementa Circular N°54 del 2 de octubre de 2009 extendiendo el tratamiento tributario contenido en ella, a los pañales que presenten fallas o deterioros que produzcan una pérdida del valor comercial del producto y dificulten o hagan imposible su comercialización Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

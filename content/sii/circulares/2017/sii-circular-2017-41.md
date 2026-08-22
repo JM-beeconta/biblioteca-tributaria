@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 41
 - Año: 2017
-- Fecha: 2017-08-23
+- Fecha: 2017-08-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu41.pdf
 - Hash SHA-256: 6a08bd45e7d2d005a30233147cac4b9ae9c101feb602998021ace95705c15647
 
 ## Resumen
 
-;n de Fiscalización Circular N° 42 del 23 de Agosto del 2017 Aplicación de cláusula de nación más favorecida contenida en el protocolo del Convenio entre Chile y México respecto de servicios prestados por personas naturales Fuente: Subdirección Normativa, Depto. de Normas Internacionales Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2017 y el 9 de septiembre del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 40 del 10 de Agosto del 2017 Tablas de Impuesto Único…
+as Internacionales Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2017 y el 9 de septiembre del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2017
-- Fecha: 2017-05-23
+- Fecha: 2017-05-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu29.pdf
 - Hash SHA-256: 1e1d7406042a75cc21cc2fa43650320b6d19b34686f6e35e4561ee5317d8d164
 
 ## Resumen
 
-lida, para aplicarse durante el año 2017. Fuente: Subdirección de Fiscalización Circular N° 30 del 23 de Mayo del 2017 Tabla de cálculos de reajustes, intereses y multas junio 2017. Fuente: Subdirección de Fiscalización Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catás…
+scalización Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catástrofe nacional ocurrida a raíz de las abundantes lluvias que han provocado la alteración de los cursos normales de agua y desbordes de ríos producidos en las regiones de Atacama y Coquimbo. Fuente: Impuestos…
 
 ## Referencias detectadas
 

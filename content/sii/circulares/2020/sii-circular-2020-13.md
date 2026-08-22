@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2020
-- Fecha: 2020-02-26
+- Fecha: 2020-02-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu13.pdf
 - Hash SHA-256: 48e31c433a4df7dea7be9481bca400d941cde20a4b86aec6283b50c623a650e0
 
 ## Resumen
 
-: Oficina de Gestión Normativa. Circular N° 14 del 26 de Febrero del 2020 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2020. Aclara aplicación de información contenida en Circular N° 6 de 2020 Fuente: Oficina de Gestión Norm…
+oacute;n Normativa Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2020. Aclara aplicación de información contenida en Circular N° 6 de 2020 Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

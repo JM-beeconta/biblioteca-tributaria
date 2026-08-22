@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 46
 - Año: 2019
-- Fecha: 2019-12-11
+- Fecha: 2019-11-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu46.pdf
 - Hash SHA-256: 4cdd8d23b50af8567a58986966519172cb449c9f2e5d0545121e93a43884c737
 
 ## Resumen
 
-es de enero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 47 del 11 de Diciembre del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2019 y el 9 de enero de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Complementa Circular N° 42 del 30 de octubre de 2019. Establece procedimiento especial y transitorio para obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia a…
+Oficina de Gestión Normativa Complementa Circular N° 42 del 30 de octubre de 2019. Establece procedimiento especial y transitorio para obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

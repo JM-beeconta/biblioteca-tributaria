@@ -6,181 +6,68 @@
 - Año: 2018
 - Fecha: 2018-05-31
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1117.doc
-- Hash SHA-256: a5c1a955a989644208232d6e46a94a3bc06f370dcdef07d56a8d40882f06c8c0
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1118.htm
+- Hash SHA-256: 5f3b162836c5b89708bc497b7a08c7a719605288d2d2664659486c3875eb26d0
 
 ## Resumen
 
-modal'>Ventas y Servicios &ndash; Nuevo Texto &ndash; Art. 8 &ndash; . (Ord. Nº 1118, de 31-05-2018) | Word Solicita un pronunciamiento sobre exención de IVA en transacciones que efectúe el Instituto Geográfico Militar con entidades que señala. Ventas y Servicios &ndash; Nuevo Texto &ndash; Art. 2, N°1, Art. 8, letra a), Art. 12, Letra A), N°6. (Ord. Nº 1117, de 31-05-2018) | Word Solicita pronunciamiento sobre aplicación de IVA en importación de billetes. Ventas y Servicios &ndash; Nuevo Texto &ndash;Art. 8, Art.…
+° 910 de 1975. Ventas y Servicios &ndash; Nuevo Texto &ndash; Art. 8 &ndash; . (Ord. Nº 1118, de 31-05-2018) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":1281,"year":2016}
+- {"type":"articulo","law":"LIR","article":"20"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2, N°1, ART. 8, LETRA A), ART. 12,
-                LETRA A), N°6. (ORD. N° 1117, DE 31.05.2018)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 8 – OFICIO N° 1281, DE 2016. (Ord. Nº 1118, de 31-05-2018)
 
+SOLICITA UN PRONUNCIAMIENTO SOBRE EXENCIÓN DE IVA EN TRANSACCIONES QUE EFECTÚE EL INSTITUTO GEOGRÁFICO MILITAR CON ENTIDADES QUE SEÑALA.
 
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre exención de IVA en transacciones que efectúe el Instituto Geográfico Militar, con otras entidades que actúan bajo la personalidad jurídica del Fisco.
 
+I.- ANTECEDENTES:
 
-Solicita pronunciamiento sobre aplicación de IVA en importación de
-billetes.
+Señala que el Instituto Geográfico Militar (IGM) es un servicio público, dependiente del Ejército de Chile, que carece de personalidad jurídica propia, actuando en consecuencia con la personalidad jurídica del Fisco.
 
-Se  ha  solicitado  a  esta  Dirección  Nacional  pronunciarse   sobre   la
-aplicabilidad del Impuesto al Valor Agregado (en  adelante  “IVA”),  en  la
-importación de billetes consignados a nombre del Banco Central de Chile.
+Legalmente se encuentra facultado para, a petición de entidades fiscales, semifiscales, autónomas, municipales o particulares, ejecutar directamente o con intervención de otras entidades o empresas, cualquiera de los trabajos propios de su especialidad, los que incluyen todo lo referido a geografía, levantamientos y confección de la cartografía del territorio nacional.
 
-I.-   ANTECEDENTES:
+La Ley N° 15.284 que crea el Servicio Aerofotogramétrico de la Fuerza Aérea de Chile, en su Art. 5° dispone que dicho Servicio cobrará por los trabajos o estudios que ejecute, los precios que por ello fije, los que en ningún caso podrán ser inferiores al costo. De igual forma el Art. 14° señala que las disposiciones contenidas en los artículos 3°, 4° y 5° de esa ley, regirán también para el Instituto Geográfico Militar y el Instituto Hidrográfico de la Armada.
 
-Señala el consultante, que en el ejercicio  de  su  función  de  Agente  de
-Aduanas se le solicita gestionar el despacho de “Billetes de Banco” de  uso
-legal  en  nuestro  país,  especies  que  se  clasifican  en  la   posición
-arancelaria 4907.0010, y  que  ingresan  consignadas  a  nombre  del  BANCO
-CENTRAL DE CHILE.
+En razón de lo expuesto precedentemente, se solicita un pronunciamiento en cuanto a si corresponde aplicar el Impuesto al Valor Agregado a las transferencias de bienes muebles o prestaciones que realice el Instituto Geográfico Militar con otras entidades que actúan bajo personalidad jurídica del Fisco. Específicamente, si el Oficio N° 1962, de 25 de agosto de 2011 del Servicio de Impuestos Internos, que norma sobre la exención del IVA, para las ventas que efectúa la Dirección de Aeronáutica Civil a organismos fiscales, es aplicable a este Instituto.
 
-Solicita un  pronunciamiento  respecto  a  la  aplicación  del  IVA  en  la
-importación  de  los  señalados  “billetes”,  especies  que  se  encuentran
-expresamente liberadas del pago de derechos ad-valorem.
+II.- ANALISIS:
 
-Hace presente lo dispuesto en el artículo 12° del  D.L.  N°  825  de  1974,
-letra A.- número 6, que contempla una exención de IVA respecto de ventas  y
-demás operaciones que digan relación con los  insumos,  productos  o  demás
-elementos necesarios para la confección de cospeles,  billetes,  monedas  y
-otras especies valoradas, adquiridos en el país por la Casa  de  Moneda  de
-Chile S.A. y las demás personas, siempre que la adquisición se lleve a cabo
-en el marco de operaciones con el Banco Central de Chile; y lo señalado  en
-la letra B.- número 17 del mismo artículo, que  exime  del  pago  de  dicho
-impuesto a las importaciones efectuadas por la Casa de Moneda de Chile S.A.
-y las demás personas, por la importación  de  insumos,  productos  o  demás
-elementos necesarios para la confección de cospeles,  billetes,  monedas  y
-otras especies valoradas, siempre que la importación se lleve a cabo en  el
-marco de operaciones con el Banco Central de Chile, ya sea  con  motivo  de
-las pruebas que se realicen en sus procesos de contratación, como  aquellas
-necesarias para el cumplimiento del contrato de que se trate, todo lo  cual
-se debe acreditar mediante documentos o certificados que den cuenta  de  la
-participación del importador en dichos procesos o contratos.
+El artículo 8° del D.L. N° 825, de 1974, grava con el Impuesto al Valor Agregado (IVA) las ventas y los servicios.
 
-Justifica su solicitud en la exención precedentemente  señalada,  toda  vez
-que las importaciones están consignadas  a  nombre  del  Banco  Central  de
-Chile, organismo autónomo de rango constitucional que en ejercicio  de  las
-funciones que le asigna su ley orgánica, interna billetes para curso  legal
-en el país -tributando con IVA en estas importaciones-, moneda que  ingresa
-al país procedente de Suecia al amparo de la documentación aduanera que  se
-exige en esta clase de operaciones.
+Por su parte, el artículo 6° del referido decreto ley, establece que los impuestos de esta ley afectan también al Fisco, instituciones semi-fiscales, organismos de administración autónoma, municipalidades y las empresas de todos ellos, o en que todos ellos tengan participación, aún en los casos en que las leyes por las cuales se rijan los eximan de toda clase de impuestos o contribuciones, presente o futuros.
 
-Agrega que si bien el Decreto Ley N° 1078, de 25.06.1975 (D.O.  28.06.1975)
-dispone que el Banco Central estará exento  de  todo  derecho,  impuesto  o
-contribución, sean éstos internos o externos, con excepción de los  que  se
-mencionan en el artículo 55° de ese cuerpo legal, ese mismo artículo agrega
-en su parte final que los billetes, monedas,  metales,  papel  y  cualquier
-otro elemento que sirva para  la  impresión  de  billetes  o  acuñación  de
-monedas estarán exentos de todo impuesto o gravamen, cualquiera que sea  su
-naturaleza, texto que permitiría entender que la importación consultada  se
-encontraría exenta del señalado tributo.
+Sin perjuicio de lo anterior, el impuesto sólo tendrá aplicación en caso que efectivamente se configure un hecho gravado, ya sea &ldquo;venta&rdquo; o &ldquo;servicio&rdquo;.
 
-En ese mismo sentido, señala que,  si  bien  existen  pronunciamientos  del
-Servicio respecto de importación de monedas de curso legal y la posibilidad
-de eximir tales operaciones  de  IVA,  desconoce  la  existencia  de  algún
-instructivo  o  interpretación  que  se  refiera  específicamente   a   las
-importaciones de billetes de curso legal en nuestro país, efectuadas por el
-Banco Central de Chile, órgano del Estado que aparece  citado  expresamente
-en el Artículo 12°, letras B y C del D.L. N° 825/74.
+Luego, para que se produzca el hecho gravado &ldquo;venta&rdquo;, se requiere de una convención, la que involucra la existencia de dos voluntades o partes distintas, por tanto, los traspasos de bienes entre entidades que forman parte de una misma persona jurídica, como lo es el Fisco, no constituyen ventas para los efectos de la aplicación del Impuesto al Valor Agregado (IVA).
 
-II.-  ANALISIS:
+En el caso del hecho gravado &ldquo;servicio&rdquo; es necesario que la acción o prestación sea realizada por una persona para otra, y que la remuneración de tales servicios, provenga del ejercicio de las actividades comprendidas en los números 3 y 4 del artículo 20 de la Ley sobre Impuesto a la Renta.
 
-El Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, de
-conformidad con los N° 1 y 3 del artículo 2°, grava con  IVA  la  venta  de
-bienes corporales  muebles  e  inmuebles,  entendiéndose  por  tal  a  toda
-convención a título oneroso que sirva para transferir el dominio de  dichos
-bienes, realizada por un vendedor en forma habitual.
+De acuerdo a lo anterior, y como lo ha señalado en diversos pronunciamientos este Servicio [1] , en el traspaso de bienes corporales muebles y en la prestación de servicios entre entidades dependientes de una misma institución fiscal, lo determinante para la no aplicación del Impuesto al Valor Agregado es que las partes intervinientes, lo hagan bajo la personalidad jurídica del Fisco.
 
-A su vez, el artículo 8°, letra a), del D.L.  N°  825,  grava  con  IVA  la
-importación de mercancías, sea que tengan o no el carácter  de  habituales,
-asimilando dicha operación a una venta.
+Consecuentemente con ello, en el evento en que uno de los organismos contratantes no actué con la personalidad jurídica del Fisco se producirá el hecho gravado ya sea de venta o servicio, quedando afecta esa operación al mencionado tributo.
 
-Por su parte, los artículos 12° y 13° del referido cuerpo legal, establecen
-una serie de exenciones reales y personales del impuesto al Valor  Agregado
-(IVA), entre las que se encuentran aquellas que benefician  a  la  Casa  de
-Moneda de Chile y otros, a las que se refiere en su presentación.
+Ahora bien, de acuerdo a lo señalado en su presentación, el Instituto Geográfico Militar carece de personalidad jurídica propia, actuando en consecuencia con la personalidad jurídica del Fisco, encontrándose facultado para ejecutar directamente o con intervención de otras entidades o empresas cualquiera de los trabajos propios de su especialidad, y a cobrar por éstos de acuerdo con lo establecido por la Ley N° 15.284.
 
-Ahora  bien,  las  exenciones  del  Impuesto  a  las  Ventas  y  Servicios,
-establecidas en la letra A, N° 6 y letra B, N° 17 del artículo 12° del D.L.
-N° 825, de 1974, en beneficio de  la  Casa  de  Moneda  de  Chile  y  demás
-personas por las operaciones que realicen, dicen relación con los  insumos,
-productos o demás elementos necesarios  para  la  confección  de  cospeles,
-billetes, monedas y otras especies  valoradas,  adquiridas  en  el  país  o
-importadas, siempre que tales adquisiciones o  importaciones  se  lleven  a
-cabo en el marco de operaciones con el Banco Central de Chile.
+Luego, en el caso de las transferencias de bienes muebles o prestaciones que realice el Instituto geográfico Militar, a otras entidades u organismos que actúen bajo la personalidad jurídica del Fisco, y en la medida que dichas operaciones las realice directamente el referido organismo, sin la intervención de otras entidades o empresas que no se encuentren amparadas bajo dicha personalidad jurídica, no se producirá el hecho gravado con el Impuesto al Valor Agregado.
 
-Sobre  el  particular,  tal  como  aparece  de  la  normativa  citada,  las
-exenciones dicen relación con la importación o  adquisición  de  insumos  y
-otros elementos necesarios para la confección, entre  otros,  de  billetes,
-pero no contempla operaciones  que  recaigan  específicamente  sobre  estos
-últimos.
+III.- CONCLUSIÓN:
 
-Por otra parte, la norma señala expresamente que la exención alcanza a  las
-adquisiciones o  importaciones  que  se  lleven  a  cabo  en  el  marco  de
-operaciones con el Banco Central de Chile, y no está referida a operaciones
-realizadas por esta entidad.
+De acuerdo a lo señalado precedentemente, las transferencias de bienes muebles o prestaciones de servicio que realice el Instituto Geográfico Militar, en el ámbito de sus facultades legales, a otras instituciones de la Defensa Nacional u organismos del sector público, que forman parte de una misma persona jurídica, como es el Fisco, y en la medida que dichas operaciones las realice directamente el mencionado organismo, sin la intervención de otras entidades o empresas que no se encuentren amparadas bajo dicha personalidad jurídica, no constituyen hechos gravados con IVA, por cuanto en tales casos no puede considerarse que exista una convención que sirva para transferir el dominio de bienes, ni un servicio prestado a terceros, presupuestos básicos para la configuración del hecho gravado con el Impuesto al Valor Agregado.
 
-Cabe tener presente además, que las exenciones impositivas –en  virtud  del
-principio de legalidad– son de derecho estricto y por lo  tanto  deben  ser
-interpretadas  restrictivamente  y   tampoco   puede   ser   admisible   su
-interpretación extensiva o analógica, por  lo  que  no  resulta  legalmente
-procedente a esta Dirección Nacional considerar por la  vía  interpretativa
-dicha circunstancia para efectos de aplicar las mencionadas  exenciones  al
-Banco Central de Chile, como señala en su presentación, por la  importación
-de billetes de circulación nacional confeccionados en el extranjero.
+FERNANDO BARRAZA LUENGO
 
-En relación a la exención establecida en el artículo 55° del Decreto Ley N°
-1.078, de 1975, se hace presente que dicho decreto ley fue derogado por  el
-artículo 89° de la Ley N° 18.840,  de  1989,  Orgánica  Constitucional  del
-Banco Central de Chile.
+DIRECTOR
 
-Finalmente, y en particular respecto de la tributación con IVA del  ingreso
-de billetes de banco al país, este Servicio ha señalado[1] que  una  remesa
-de  papel  moneda  o  billetes  de  banco  de  curso  legal  originada  por
-transferencia de fondos entre bancos y entidades financieras  nacionales  y
-sus similares extranjeras, no se encuentra gravada con IVA, por no  cumplir
-con el principio básico del hecho gravado del tributo, esto es, que  exista
-una importación de bienes corporales muebles; por  lo  tanto,  a  contrario
-sensu, y como ocurre en la especie, al no tratarse  de  remesas  de  fondos
-entre el banco  Central  y  otras  entidades  financieras  ubicadas  en  el
-exterior, la  importación  de  billetes  confeccionados  en  el  extranjero
-efectuada por el Banco Central de Chile corresponde a  una  importación  de
-bienes corporales muebles, y por consiguiente, gravada con IVA.
+Oficio N° 1118, de 31.05.2018
 
-Reafirma lo señalado previamente lo dispuesto en el Artículo 3° del D.L. N°
-1123, de  1975,  del  Ministerio  de  Hacienda,  según  el  cual,  sólo  se
-considerarán como billetes y monedas de curso legal con poder liberatorio y
-circulación limitada los billetes y monedas expresados en pesos y  centavos
-que el Banco Central ponga en circulación a contar de la vigencia  de  este
-decreto ley.
+Subdirección Normativa
 
-Por ende, mientras el Banco Central  no  ha  puesto  en  circulación  estos
-billetes, ellos no tienen curso legal y  mantienen  su  calidad  de  bienes
-corporales muebles por naturaleza.
+Dpto. de Impuestos Indirectos
 
-
-III.- CONCLUSION
-
-No existen exenciones en el Decreto Ley N° 825, de 1974 ni  en  otra  norma
-legal, que liberen de la aplicación de IVA al Banco Central de  Chile,  por
-la adquisición o importación de “billetes de banco”; luego, en el  caso  en
-consulta, la importación de billetes que realice el referido Organismo,  se
-encuentra gravada con IVA de conformidad con la letra a), del  artículo  8°
-del Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios.
-
-
-
-
-                           FERNANDO BARRAZA LUENGO
-                                  DIRECTOR
-
-                        Oficio N° 1117, de 31.05.2018
-                           Subdirección Normativa
-                        Dpto. de Impuestos Indirectos
-                           -----------------------
-[1] Oficio Ord. N° 7665, de 31.10.1979.
+[1] Oficio N° 1281, de 06 de mayo de 2016; Oficio N° 1962, de 25 de agosto de 2011.

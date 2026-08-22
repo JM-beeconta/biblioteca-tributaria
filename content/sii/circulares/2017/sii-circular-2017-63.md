@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Tratamiento tributario de las donaciones a que se refiere la Ley N°21.047, de 2017, efectuadas a la Conferencia Episcopal de Chile. Fuente: Departamento de Impuestos Directos Circular N° 62 del 27 de Diciembre del 2017 Reemplaza procedimiento para efectuar La Declaración Jurada para el cálculo del avalúo fiscal de las unidades y del porcentaje de derechos que les correspondan sobre los bienes de dominio común, de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la Ley Nº…
+Tratamiento tributario de las donaciones a que se refiere la Ley N°21.047, de 2017, efectuadas a la Conferencia Episcopal de Chile. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

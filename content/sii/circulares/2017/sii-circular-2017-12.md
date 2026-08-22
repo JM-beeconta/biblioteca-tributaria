@@ -11,7 +11,7 @@
 
 ## Resumen
 
-10px;'> Fuente: Subdirección de Avaluaciones Circular N° 13 del 17 de Febrero del 2017 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley de la Renta. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y multas marzo 2017 Fuente: Subdirección de Fiscalización Circular N° 11 del 10 de Febrero del 2017 Tablas de Impuesto Único de segunda categoría para el mes de marzo del año…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y multas marzo 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

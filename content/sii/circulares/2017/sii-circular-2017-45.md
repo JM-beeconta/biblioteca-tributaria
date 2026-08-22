@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: OFICINA DE NORMAS Y CASOS ESPECIALES Circular N° 46 del 12 de Septiembre del 2017 Tablas de impuesto único de segunda categoría para el mes de octubre del año 2017, e información adicional relacionada con dicho tributo Fuente: OFICINA DE GESTIÓN NORMATIVA Valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre del año 2017 y el 9 de octubre del año 2017 Fuente: OFICINA DE GESTIÓN NORMATIVA Circular N° 44 del 25 de Agosto del 2017 Instr…
+acute;N NORMATIVA Valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre del año 2017 y el 9 de octubre del año 2017 Fuente: OFICINA DE GESTIÓN NORMATIVA
 
 ## Referencias detectadas
 

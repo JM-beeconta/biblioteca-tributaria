@@ -11,7 +11,7 @@
 
 ## Resumen
 
-los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catástrofe nacional ocurrida a raíz de las abundantes lluvias que han provocado la alteración de los cursos normales de agua y desbordes de ríos producidos en las regiones de Atacama y Coquimbo. Fuente: Impuestos Directos Obligación de informar ingreso, retiro o cambio de socios, ac…
+Impuestos Directos Obligación de informar ingreso, retiro o cambio de socios, accionistas, comuneros o cooperados, nuevos aportes de capital, modificación en el porcentaje de participación en el capital y utilidades. Modifica Circular N° 17, de 10.05.1995. Fuente: Oficina de Asistencia y Educación al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2020
-- Fecha: 2020-04-08
+- Fecha: 2020-04-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu24.pdf
 - Hash SHA-256: bc885d8672ea3218dbbb089cd34c082c38599252267ab08b284d6a22d9b5e68b
 
 ## Resumen
 
-deg; 25 del 08 de Abril del 2020 Postergación del pago del Impuesto al Valor Agregado, e imparte instrucciones relativas a modificación efectuada por el artículo tercero, N° 29, de la Ley N° 21.210, al artículo 64 del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Deroga instrucciones contenidas en Circular N° 61 de 2014. Fuente: Departamento de Impuestos Indirectos. Imparte instrucciones sobre la aplicación de la Ley N°21.210, en relación a la rebaja del Impuesto Territorial correspondi…
+uestos Indirectos. Imparte instrucciones sobre la aplicación de la Ley N°21.210, en relación a la rebaja del Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente, establecida en el artículo primero de la Ley N° 20.732, a las modificaciones introducidas por la misma Ley al Cuadro Anexo de la Ley sobre Impuesto Territorial, que incorpora exención del 100% de dicho tributo para los Establecimientos de Larga Estadía de Adultos Mayores (ELEAM) y la modificación de la exención…
 
 ## Referencias detectadas
 

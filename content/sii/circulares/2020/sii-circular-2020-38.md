@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2020
-- Fecha: 2020-06-08
+- Fecha: 2020-05-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu38.pdf
 - Hash SHA-256: 81ff1af703d0016bdb54232d3badd14383600341e719fa32de9e7a73cb955104
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 39 del 08 de Junio del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2020 y el 9 de julio de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Imparte instrucciones sobre aplicación de la disminución transitoria de las tasas que establecen los artículos 1° numeral 3), 2° y 3° del Decreto Ley N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampilla…
+acute;n Normativa. Imparte instrucciones sobre aplicación de la disminución transitoria de las tasas que establecen los artículos 1° numeral 3), 2° y 3° del Decreto Ley N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, dispuesta por la Ley N° 21.225, publicada en el Diario Oficial de fecha 02 de abril de 2020. Fuente: Técnica Tributaria.
 
 ## Referencias detectadas
 

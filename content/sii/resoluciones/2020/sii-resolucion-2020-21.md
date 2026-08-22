@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:10px;'> Fuente: Secretaria General Designa secretario titular y suplente en tribunal especial de alzada de los Bienes Raíces de la Segunda Serie, con Jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Valdivia. Fuente: Departamento de Asesoría Jurídica.
+Fuente: Secretaria General Designa secretario titular y suplente en tribunal especial de alzada de los Bienes Raíces de la Segunda Serie, con Jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Valdivia. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

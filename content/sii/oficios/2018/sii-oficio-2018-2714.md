@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lo 46 del Decreto Ley N°3.063 sobre Rentas Municipales, de 1979. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, letra A) &ndash; Ley N° 20.712, Art. 10 transitorio &ndash; Oficio N° 699, de 2006. (Ord. Nº 1602, de 02-08-2018) | Word Forma de determinar el Fondo de Utilidades Tributables, hasta el año 2016, respecto de los Fondos de Inversiones Privados. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Art. 21 &ndash; Decreto N° 943, de 2011, Art. 29, Art. 64 &ndash; Ley N° 19.518, Art.…
+ersiones Privados. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Art. 21 &ndash; Decreto N° 943, de 2011, Art. 29, Art. 64 &ndash; Ley N° 19.518, Art. 36 &ndash; . (Ord. Nº 1601, de 02-08-2018) |
 
 ## Referencias detectadas
 

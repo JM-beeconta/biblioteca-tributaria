@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 28
 - Año: 2018
-- Fecha: 2018-05-18
+- Fecha: 2018-05-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu28.pdf
 - Hash SHA-256: ab166bd5bc5ccad1242d281e1ba39d9cb6fe1a94f45c7062017f22e29f704d2b
 
 ## Resumen
 
-ubdirección de Fiscalización Circular N° 29 del 18 de Mayo del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2018 Fuente: Subdirección de Fiscalización Extiende a las cooperativas sometidas a la fiscalización y control de la Superintendencia de Bancos e Instituciones Financieras, la liberación de información de que cuentan las sociedades anónimas abiertas, en los términos estable…
+scalización Extiende a las cooperativas sometidas a la fiscalización y control de la Superintendencia de Bancos e Instituciones Financieras, la liberación de información de que cuentan las sociedades anónimas abiertas, en los términos establecidos en la Circular N° 17 de 1995. Reemplaza párrafo que indica, de la Circular N° 17, de 10.05.1995, modificada por las Circulares N° 50, del 2003 y 28, del 2017. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

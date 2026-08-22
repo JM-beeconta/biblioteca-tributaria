@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2020
-- Fecha: 2020-05-15
+- Fecha: 2020-05-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu34.pdf
 - Hash SHA-256: 44071feb46b8cd2e99f8684562d6d08db875b2f62c0f16454fbb7bf81b3afd3c
 
 ## Resumen
 
-dirección de Fiscalización Circular N° 35 del 15 de Mayo del 2020 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2020. Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Circular N° 33 del 11 de Mayo del 2020 Operaciones de crédito d…
+calización Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

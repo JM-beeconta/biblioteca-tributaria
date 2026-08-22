@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2018
-- Fecha: 2018-10-11
+- Fecha: 2018-09-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu47.pdf
 - Hash SHA-256: 0ad5ca3ed9d296f0a8346c4cfccbb23214d2c53a50ef075f98d1213c7a7ea979
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 48 del 11 de Octubre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2018 y el 9 de noviembre del año 2018. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Octubre 2018 Fuente: Subdirección de Fiscalización Circular N° 46 del 12 de Septiembre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2018 y el 9 de octubre del año 2018. F…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Octubre 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

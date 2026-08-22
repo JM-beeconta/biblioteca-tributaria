@@ -6,199 +6,231 @@
 - Año: 2017
 - Fecha: 2017-03-03
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja415.doc
-- Hash SHA-256: 98f1298b12ecb7ea731199ad2ad351198f93a21f2cc198e68e6509b327efc4a1
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja469.doc
+- Hash SHA-256: 1a7191c209c4220e9c43dad7ed5c7d83f1e282378f86ef435a69b06862d2431c
 
 ## Resumen
 
-Nº 469, de 03-03-2017) | Word Se ha solicitado a este Servicio un pronunciamiento respecto a si el criterio contenido en el . Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31, inciso 3, N°4 &ndash; Circular N° 24, de 2008. (Ord. Nº 415, de 22-02-2017) | Word Regulación de créditos incobrables conforme a lo dispuesto en el N°4, inciso 3° del artículo 31 de la Ley de la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Letra A), N°3, letra d) &ndash; Circulares N° 10 de 2015 y N°&acute…
+| Word Se ha solicitado a este Servicio un pronunciamiento respecto a si el criterio contenido en el .
 
 ## Referencias detectadas
 
-- {"type":"circular","number":24,"year":2008}
-- {"type":"articulo","law":"LIR","article":"31"}
+- {"type":"circular","number":66,"year":1999}
+- {"type":"circular","number":66,"year":2009}
+- {"type":"oficio","number":862,"year":2008}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, INCISO 3, N°4 – CIRCULAR
-                N° 24, DE 2008. (ORD. N° 415, DE 22.02.2017)
-
-
-
-Regulación de créditos incobrables  conforme  a  lo  dispuesto  en  el  N°4,
-inciso 3° del artículo 31 de la Ley de la Renta.
-
-
-Se ha solicitado un pronunciamiento a este Servicio, sobre la aplicación  de
-la regulación de créditos incobrables conforme a lo dispuesto en el N°4  del
-inciso 3° del artículo 31 de la Ley de la Renta (LIR)  a  una  empresa  cuyo
-giro principal es la venta de sepulturas.
-
-I.- ANTECEDENTES.
-
-Una sociedad "X", cuyo giro principal es la  venta  de  sepulturas,  celebra
-contratos de venta con sus clientes. En los  contratos  se  dispone  que  en
-caso de incumplirse con  algunas  de  las  sucesivas  obligaciones  de  pago
-(cualquiera de las cuotas pactadas), el vendedor tendrá  derecho  a  retener
-las cuotas ya pagadas hasta ese momento, pactándose además que  el  vendedor
-no deberá proceder a la entrega de la cosa (ni  a  su  tradición),  pudiendo
-finalmente, y a su sola opción, resolver el contrato.
-
-Agrega, que  la  sociedad  obtiene  una  utilidad  a  todo  evento  ante  el
-incumplimiento de alguna de las sucesivas obligaciones de pago de  parte  de
-alguno de sus clientes, en la medida que obtiene un  ingreso  que  no  tiene
-como contrapartida un costo de  venta  directo  asociado,  ya  que  el  bien
-objeto de la venta no será entregado al comprador.
-
-Indica que de acuerdo a lo dispuesto en el  número  4,  inciso  tercero  del
-artículo 31 de la LIR los  requisitos  para  que  los  créditos  incobrables
-puedan ser castigados son: (i) que  provengan  de  operaciones  relacionadas
-con el giro del negocio; (ii) que el castigo de dichos créditos  incobrables
-haya sido contabilizado oportunamente; y (iii)  que  respecto  de  ellos  se
-hayan agotado prudencialmente los medios de cobro.
-
-Sobre el tema, hace presente que en relación con esta norma, el SII  dispuso
-en  la  Circular  N°  24  de  2008,  que,  para  proceder  al  castigo  como
-incobrables de aquellos créditos que  superan  las  50  UF,  se  exigirá  la
-realización de  gestiones  de  cobranza  judicial,  sin  embargo,  el  mismo
-instructivo contempla la posibilidad de no perseguir el  cobro  por  la  vía
-judicial, siendo igualmente procedente y aceptable la deducción  como  gasto
-del crédito castigado por sobre las  50  UF,  siempre  que  se  cumplan  los
-requisitos exigidos para el  tramo  inmediatamente  anterior  (créditos  que
-superan las 10 UF pero no las 50 UF); y se presente una  declaración  jurada
-simple consignando los motivos que lo llevaron a tomar  la  decisión  de  no
-proseguir judicialmente el cobro.
-
-Conforme  a  lo  anterior  consulta  sobre  la   posibilidad   de   que   el
-contribuyente proceda a castigar tributariamente las deudas  de  más  de  50
-UF, sin necesidad de ajustarse para ello a  los  términos  estrictos  de  la
-Circular N°24 de 2008. Específicamente, sin necesidad de proceder  al  cobro
-judicial de las deudas ni tampoco de  presentar  declaraciones  juradas  del
-contenido específico que manda la disposición administrativa analizada.
-
-Manifiesta que el fundamento para solicitar a este  Servicio  esta  especial
-aplicación de la normativa administrativa sobre  créditos  incobrables  para
-el caso concreto de la empresa, radica en  los  particulares  caracteres  de
-los  contratos  en  que  la  empresa  obtiene  dicho  ingreso  producto  del
-incumplimiento sin que exista ninguna  disminución  patrimonial  correlativa
-puesto que -por disposición contractual- no se haría  entrega  (material  ni
-en tradición) en esos casos de la cosa vendida.
-
-II.- ANÁLISIS.
-
-La Circular N°24 de 2008, establece la forma de  acreditar  el  cumplimiento
-de los requisitos que establece el N° 4, del inciso 3°, del artículo  31  de
-la LIR, para aceptar como gasto el  castigo  de  los  créditos  incobrables,
-oportunamente   contabilizados,   siempre   que    se    hubieran    agotado
-prudencialmente los medios de cobro;  estableciendo  que  dichos  medios  de
-cobro, deben ejercerse dentro de los plazos legales de prescripción.
-
-Dicho instructivo indica en la letra c), del  N°3.-  del  acápite  III,  las
-diligencias necesarias para considerar que se  han  agotado  prudencialmente
-los medios de cobro de los créditos, cuyo monto  al  término  del  ejercicio
-por cliente sea superior a 50 UF, estableciendo lo siguiente:
-
-   1. Acreditar haber ejecutado procedimientos de cobranza extrajudicial  de
-      acuerdo a las prácticas corrientes utilizadas en el comercio  para  la
-      recuperación de la  deuda,  lo  que  será  evaluado  considerando  los
-      siguientes aspectos:
-
-
-         •  Política  formal  de  cobranzas  en  la  empresa  razonables  y
-           permanentes en el tiempo.
-         •  Correspondencia  de  las  políticas  con   los   procedimientos
-           aplicados.
-         • La  capacidad  de  medios  y  patrimonio  de  la  estructura  de
-           cobranzas interna o externa que permita cumplir las políticas de
-           cobranza.
-
-
-   2. Haber requerido judicialmente al deudor y  realizado  las  actuaciones
-      procesales propias y razonables del procedimiento judicial de  que  se
-      trate.
-
-
-Lo señalado en el punto 1  y  2  anterior  deberá  ser  acreditado  mediante
-declaración jurada simple emitida conjuntamente por el abogado  patrocinante
-de la causa y el representante legal de la empresa acreedora.
-
-Sin perjuicio de lo anterior, en aquellos  casos  en  que  el  contribuyente
-acredite que las  acciones  judiciales,  la  prosecución  del  juicio  o  la
-ejecución o liquidación de las garantías no son razonables de acuerdo  a  la
-cuantía de la deuda, la relación comercial que se tenga con el deudor  o  la
-situación patrimonial de este,  podrá  castigarse  la  deuda  cumplidos  los
-requisitos señalados precedentemente. Para estos efectos,  el  contribuyente
-deberá  presentar  una  declaración  jurada  simple  en  que  se   expliquen
-claramente las razones anteriores y las opiniones de personas que  le  hayan
-permitido formar tal convicción.
-
-En este contexto, en el señalado instructivo se estableció como una  de  las
-condiciones para estimar que se han agotado prudencialmente  los  medios  de
-cobro para el castigo de los créditos morosos, que se haya  ejercido  dentro
-de los plazos de prescripción en forma uniforme y diligente las  acciones  o
-medios necesarios conducentes a obtener su cumplimiento,  teniendo  presente
-que el castigo es un mecanismo excepcional que establece  la  LIR,  para  la
-deducción de un gasto por concepto de créditos del giro, impagos y  morosos;
-y por consiguiente, se debe entender que se han agotado prudencialmente  los
-medios  de  cobro,  cuando  no  obstante  la  actividad  desplegada  por  el
-acreedor, las deudas son incobrables por causas  debidamente  fundamentadas,
-esto es, cuando dentro de los plazos de prescripción  los  medios  de  cobro
-realizados no han sido suficientes para obtener  el  cumplimiento,  habiendo
-sido demostrado dicho interés en efectuar el cobro,  mediante  las  acciones
-que se indican la Circular.
-
-En consecuencia queda de manifiesto que  para  proceder  al  castigo  de  un
-crédito,  deben  haberse  agotado  todos  los  medios  con  que  cuenta   el
-contribuyente para exigir su cobranza de forma tal  que,  una  vez  agotadas
-las acciones indicadas en la  referida  Circular,  la  respectiva  acreencia
-resulte incobrable.
-
-De lo anterior se desprende que no basta que el acreedor  considere  que  no
-es necesario cobrar atendido a que  no  ha  entregado  la  cosa  objeto  del
-contrato, puesto que precisamente  es  esta  convención  la  que  otorga  al
-contribuyente  el  título  para  exigir  lo  adeudado  en   las   instancias
-judiciales que correspondan y, al no perseguir su cobro estaría  renunciando
-de forma voluntaria al ejercicio legítimo de la  acción  para  perseguir  el
-pago de deudas.
-
-Por  otra  parte,  no  existe  norma  legal  ni  instrucción  que  exima  al
-contribuyente de la observación de la normativa señalada  que  aplica  a  la
-generalidad  de  los  contribuyentes,  así  como  tampoco  acompañó  en   su
-presentación los contratos de venta ni expuso razones que den cuenta que  no
-resulta conveniente  ejercer  las  acciones  judiciales  para  cobrar  estos
-créditos.
-
-A mayor abundamiento, además de los requisitos señalados para  castigar  los
-créditos incobrables, estos deben cumplir con los  requisitos  generales  de
-todo gasto, dentro de los  cuales  se  contempla  la  necesidad  del  mismo,
-entendida esta expresión como inevitable u  obligatoria,  circunstancia  que
-no  se  verificaría  en  lo  expuesto  en  su   presentación   ya   que   la
-incobrabilidad  de  estas  acreencias  se  derivarían   del   no   ejercicio
-voluntario de la acciones judiciales de cobro.
-
-III.- CONCLUSIONES.
-
-Conforme a lo señalado, no es posible confirmar los criterios  expuestos  en
-su consulta, atendido a que no existe norma legal o  reglamentaria  que  los
-exima de las obligaciones señaladas en el N° 4, del inciso 3°, del  artículo
-31 de la LIR y  Circular  N°24  de  2008,  considerando  además  que  el  no
-ejercicio de la  acción  judicial  de  cobro,  sería  un  acto  de  renuncia
-voluntaria opuesto  al  requisito  de  la  necesidad  del  gasto,  condición
-indispensable para proceder a la deducción de las partidas señaladas  en  el
-artículo 31 de la LIR.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.606 – CIRCULAR N° 66, DE
+         1999 – OFICIO N° 862, DE 2008. (ORD. N° 469, DE 03.03.2017)
 
 
 
 
+Procedencia del crédito tributario establecido en la  Ley  N°19.606,  en  el
+caso de la construcción de un parque eólico construido  bajo  modalidad  que
+indica.
+
+
+Se ha solicitado a  este  Servicio  un  pronunciamiento  respecto  a  si  el
+criterio contenido en el Oficio N°862, de 2008, resulta también aplicable  a
+XXXX en el caso que describe.
+
+
+I.- ANTECEDENTES
+
+La Empresa Nacional de Petróleo ("XXXX"), proyecta  la  construcción  de  un
+parque eólico de generación de energía eléctrica ("Parque" o "Proyecto")  en
+la Región de Magallanes y Antártica Chilena (XII Región).
+
+Expone, que el Parque  sería  construido  en  el  contexto  de  un  contrato
+modalidad EPC  (Engineering,  Procurement  and  Construction)  o  "llave  en
+mano", suscrito entre una empresa que se constituirá  al  efecto  (integrada
+por XXXX o por una de sus filiales y terceros) en calidad de mandante y  por
+una empresa contratista que ejecutaría la obra.
+
+Al respecto, luego de comentar el  beneficio  tributario  que  establece  el
+artículo 1° de la Ley N°19.606, conocida como “Ley  Austral”,  distinguiendo
+entre las inversiones indicadas en el inciso segundo y en el  inciso  cuarto
+de esta norma, señala que este Servicio, en relación con las  construcciones
+a que se refiere el inciso cuarto de este artículo, a través del  Oficio  N°
+862, del año 2008, estableció que para beneficiarse del  crédito  tributario
+las  construcciones  deben  haber  sido  efectuadas  por  el   contribuyente
+respectivo que invoca el crédito,  "entendiéndose  como  tal  aquel  que  lo
+construye directamente o por encargo a terceros por administración y no  por
+aquél contribuyente que lo adquiere, comprendiéndose en este caso aquel  que
+conviene un contrato general de construcción por suma alzada" .
+
+Considerando lo anterior, y  en  atención  a  los  argumentos  que  explica,
+solicita se confirmen los siguientes criterios:
+
+a) El criterio establecido en el Oficio N° 862 del año 2008, en  virtud  del
+cual la aplicación del Crédito Tributario de la Ley Austral se  restringe  a
+los  casos  en  que  la  construcción  sea  realizada  directamente  por  el
+contribuyente o a través de un tercero por administración, excluyendo a  los
+contribuyentes que encomiendan la ejecución de una construcción en el  marco
+de un contrato de construcción  por  suma  alzada,  solo  se  aplica  a  las
+construcciones o bienes del inciso  cuarto  del  artículo  1  °  de  la  Ley
+Austral, y no a  las  construcciones  o  bienes  encuadradas  en  el  inciso
+segundo del mismo artículo;
+
+b) Los proyectos destinados a la generación, transmisión y  distribución  de
+energía eléctrica (incluidas las construcciones, maquinarias,  instalaciones
+y equipos que los mismos proyectos suponen), se encuentran  comprendidos  en
+el inciso segundo del artículo 1° de la Ley Austral;
+
+
+c) Los contribuyentes que encarguen la ejecución  de  una  obra  o  proyecto
+(incluidas las construcciones, maquinarias, instalaciones y equipos que  los
+mismos proyectos suponen) comprendida en el inciso segundo del  artículo  1°
+de la Ley Austral, bajo la modalidad de  un  contrato  de  construcción  por
+suma alzada  o  "llave  en  mano",  podrán  ser  beneficiarios  del  Crédito
+Tributario de la Ley Austral, siempre que cumplan los demás  requisitos  que
+establece dicho cuerpo de normas para  su  procedencia,  no  correspondiendo
+este Crédito al contratista o ejecutor de la obra o proyecto. De otro  modo,
+se produciría ya sea una duplicación del Crédito o éste  quedaría  en  manos
+de un tercero que participa circunstancialmente en la zona de interés, y  no
+en manos del contribuyente  que  destina  recursos  para  la  producción  de
+bienes y/o servicios en  las  regiones  y  provincia  hacia  las  cuales  se
+orienta el beneficio tributario.
+
+II.- ANÁLISIS
+
+La Ley N°19.606 de 1999, (en adelante Ley Austral), establece el  derecho  a
+un crédito tributario contra el Impuesto a la Renta  de  Primera  Categoría,
+que beneficia a los contribuyentes que declaren este  impuesto  sobre  renta
+efectiva determinada según contabilidad completa, que  efectúen  inversiones
+en las regiones XI  y  XII  y  la  Provincia  de  Palena,  destinadas  a  la
+producción  de  bienes  o  prestación  de  servicios  en  esas  regiones   y
+provincia, que cumplan los requisitos que la misma ley dispone.
+Esta norma legal, en el inciso segundo  del  artículo  1°,  dispone  que  el
+crédito será equivalente al porcentaje establecido en el  inciso  final  del
+mismo  artículo,  sobre  el  valor  de  los  bienes   físicos   del   activo
+inmovilizado que  correspondan  a  construcciones,  maquinarias  y  equipos,
+incluyendo  los  inmuebles  destinados  preferentemente  a  su   explotación
+comercial con fines turísticos, directamente vinculados  con  la  producción
+de  bienes  o  la  prestación  de  servicios  del  giro  o   actividad   del
+contribuyente, adquiridos nuevos o terminados de construir en el ejercicio.
+A su vez, el inciso cuarto de este artículo,  dispone  que  también  tendrán
+derecho al crédito los contribuyentes que inviertan en  la  construcción  de
+edificaciones destinadas  a  actividades  productivas  o  de  prestación  de
+servicios educacionales, de salud  o  de  almacenaje,  y  las  destinadas  a
+oficinas o al uso  habitacional  que  incluyan  o  no  locales  comerciales,
+estacionamientos o bodegas.
+Sobre la materia, este Servicio impartió instrucciones mediante la  Circular
+N°66, de 1999, estableciendo en su letra d), de la  letra  E.-  del  numeral
+III, a propósito de los bienes que deben formar parte de  los  proyectos  de
+inversión, que deben reunir las siguientes características:
+
+     i. Debe ser de propiedad del contribuyente;
+  ii. Contablemente deben ser  calificados  de  bienes  físicos  del  activo
+      inmovilizado de aquellos que sean depreciables;
+ iii. Deben corresponder en general a construcciones, maquinarias y equipos;
+  iv. Deben estar vinculados directamente con la producción de bienes  o  la
+      prestación de servicios del giro o actividad del contribuyente;
+   v. Deben tratarse de bienes nuevos o usados, respecto de estos últimos en
+      cada caso que lo señale la ley; y
+  vi. Pueden ser adquiridos en el mercado nacional  o  internacional,  salvo
+      excepción expresa, o construidos  por  el  propio  contribuyente  o  a
+      través de terceras personas en el ejercicio comercial correspondiente.
+
+
+En la citada Circular también se instruye que respecto  de  las  inversiones
+mencionadas en el N° 10 de la letra (e) de la letra  E.-  del  numeral  III,
+correspondientes a construcciones de edificaciones destinadas a  actividades
+productivas o de prestación  de  servicios  educacionales,  de  salud  o  de
+almacenaje y las destinadas a oficinas o al uso habitacional que incluyan  o
+no locales comerciales, estacionamientos o bodegas[1], la Ley da derecho  al
+crédito en estudio a las  empresas  que  inviertan  en  la  construcción  de
+edificaciones destinadas a los fines antes indicados,  ya  sea,  construidos
+directamente por el contribuyente o encargando su  construcción  a  terceros
+por administración.
+Al respecto, cabe mencionar, que las  inversiones  indicadas  en  el  N°  10
+recién citado de  la  Circular  N°  66  de  1999,  corresponden  a  aquellas
+comprendidas en el  inciso  cuarto  del  artículo  1°  de  la  Ley  Austral,
+respecto de las cuales, este Servicio en reiteradas ocasiones  ha  sostenido
+que los contribuyentes que  efectúan  las  inversiones  señaladas  en  dicho
+inciso, mediante un contrato de construcción a suma  alzada,  no  gozan  del
+crédito tributario  en  análisis[2],  al  entender  que  el  sentido  de  la
+expresión “que inviertan en la  construcción  de  edificaciones”,  utilizada
+por el legislador en este inciso, exige invertir en la construcción  de  una
+edificación y no en la adquisición o compra de una ya terminada.
+
+Sin embargo, tratándose de las inversiones indicadas en  el  inciso  segundo
+del artículo 1°, al utilizar una locución distinta  a  la  comentada  en  el
+párrafo precedente, la Ley Austral no exige  el  cumplimiento  del  referido
+requisito, en razón de lo cual, el contribuyente puede  optar  por  efectuar
+la construcción  directamente,  o  a  través  de  un  tercero,  mediante  la
+modalidad de contrato de administración o contrato por suma alzada.
+
+Por otra parte, cabe señalar que un proyecto de inversión consistente en  un
+parque eólico de generación de energía eléctrica, luego de  la  modificación
+introducida  por  la  Ley  N°19.946[3],  se  encuentra  comprendido  en  las
+inversiones señaladas en el  inciso  segundo  del  artículo  1°  de  la  Ley
+Austral.
+
+Ahora bien, en conformidad a lo dispuesto  en  el  artículo  3°  de  la  Ley
+Austral, el contribuyente podrá solicitar al Director Regional del  Servicio
+de Impuestos Internos respectivo, que verifique si la  inversión  que  desea
+realizar cumple los requisitos que exige esta ley para  acceder  al  crédito
+establecido en el artículo 1°. Para estos efectos, el  contribuyente  deberá
+acompañar un  detalle  técnico  del  proyecto,  su  fecha  de  término,  una
+especificación de los bienes  que  se  adquirirán,  el  monto  total  de  la
+inversión y otros antecedentes que requiera el Director Regional.
+
+Finalmente, en relación a su última consulta,  este  Servicio  ha  sostenido
+consistentemente que el contribuyente que se beneficia  con  el  crédito  en
+cuestión es la persona que invierte en la construcción  de  las  inversiones
+señaladas. Además, en el caso planteado, es claro  que  el  contratista  que
+construye el proyecto  conforme  al  contrato  modalidad  EPC  (Engineering,
+Procurement and Construction) o "llave en mano", no lo construye con el  fin
+de incorporarlo contablemente a  su  activo  fijo,  por  tanto,  dicho  bien
+contablemente  no  estará  calificado  como  un  bien  físico   del   activo
+inmovilizado, y, en  consecuencia,  el  contratista  no  podrá  impetrar  el
+crédito tributario en análisis.
+
+III.- CONCLUSIÓN
+
+
+Conforme  a  lo  expuesto  en  el  Análisis  precedente,  se  confirman  los
+criterios tributarios indicados en la presentación.
+
+
+Se hace presente que lo anterior no  implica  una  aprobación  del  proyecto
+consultado para efectos de otorgar el crédito tributario establecido  en  la
+Ley N° 19.606, Ley Austral, para lo cual, el contribuyente deberá  solicitar
+al respectivo Director Regional  de  este  Servicio,  que  verifique  si  la
+inversión que desea realizar cumple los requisitos que exige esta  ley  para
+acceder al crédito establecido en el artículo 1°.
 
 
 
 
-                           VICTOR VILLALÓN MÉNDEZ
-                                DIRECTOR (S)
+
+                           FERNANDO BARRAZA LUENGO
+
+                                  DIRECTOR
 
 
 
-                        Oficio N° 415, de 22.02.2017
+
+
+
+
+
+
+
+                        Oficio N° 469, de 03.03.2017
                            Subdirección Normativa
                          Dpto. de Impuestos Directos
+                           -----------------------
+[1] La Circular N° 66 de 2009, además señala los  requisitos  de  superficie
+edificada que fueron eliminados por la Ley N° 20.655, de 2013.
+
+
+[2] Oficios Nos 4922, de 2005; 1454, de 2006; y 862, de 2008.
+
+
+[3] Antes de la modificación introducida por la Ley N° 19.946, de 2004,  los
+proyectos de generación  y  transmisión  eléctrica  se  clasificaban  en  el
+inciso tercero, letra d), del artículo 1° de la Ley N° 19.606.

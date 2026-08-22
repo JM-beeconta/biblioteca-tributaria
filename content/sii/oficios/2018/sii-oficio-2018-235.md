@@ -6,204 +6,202 @@
 - Año: 2018
 - Fecha: 2018-05-31
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1031.doc
-- Hash SHA-256: 16811aaa5ab79f1ac6f3542b3bea22113c6790fcfe1fc184e3af0cc25c919448
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1106.htm
+- Hash SHA-256: cc2d25f0edbf034ce9aceafe23f8895b4bca59fc664fe2e2ea92f3db1d8584cd
 
 ## Resumen
 
-ual Ley sobre Impuesto a la &ndash; Art. 59 &ndash; Ley N° 16.840, de 1968, Art. 234 &ndash; ley N° 18.247, de 1983, Art. 4 &ndash; . (Ord. Nº 1106, de 31-05-2018) | Word Solicita informe sobre franquicia establecida en el artículo 234 de la Ley N°16.840. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Art. 17 &ndash; Oficio N° 1708, de 2017. (Ord. Nº 1031, de 24-05-2018) | Word Resuelve reconsideración a Oficio Ord. N° 1708, de 28.07.2017, sobre Tributación de Cooperativas. Renta &ndash; Actual Ley…
+cuya compra se rinde. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 59 &ndash; Ley N° 16.840, de 1968, Art. 234 &ndash; ley N° 18.247, de 1983, Art. 4 &ndash; . (Ord. Nº 1106, de 31-05-2018) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1708,"year":2017}
-- {"type":"articulo","law":"LIR","article":"1"}
-- {"type":"articulo","law":"LIR","article":"14  B"}
-- {"type":"articulo","law":"LIR","article":"34"}
-- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"oficio","number":235,"year":2006}
+- {"type":"oficio","number":454,"year":2017}
+- {"type":"oficio","number":312,"year":2014}
+- {"type":"oficio","number":3939,"year":2004}
+- {"type":"articulo","law":"LIR","article":"61"}
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIR","article":"3"}
+- {"type":"articulo","law":"LIR","article":"10"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, ART. 17 – OFICIO N° 1708,
-                   DE 2017. (ORD. N° 1031, DE 24.05.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59 – LEY N° 16.840, DE 1968, ART. 234 – LEY N° 18.247, DE 1983, ART. 4 – OFICIO N° 235, DE 2006. (Ord. Nº 1106, de 31-05-2018)
 
+SOLICITA INFORME SOBRE FRANQUICIA ESTABLECIDA EN EL ARTÍCULO 234 DE LA LEY N°16.840.
 
+Se ha oficiado a este Servicio para informar la petición formulada por un conjunto de H. Diputados sobre la vigencia y alcances de la franquicia establecida en el artículo 234 de la Ley N° 16.840.
 
-Resuelve  reconsideración  a  Oficio  Ord.  N°1708,  de  28.07.2017,   sobre
-Tributación de Cooperativas.
+I ANTECEDENTES
 
-Se ha recibido en esta Dirección Nacional,  consulta  de  una  Confederación
-que agrupa a Micro, Medianas y Pequeñas Empresas, mediante la cual  solicita
-una  reconsideración  de  un  pronunciamiento   referido   al   sistema   de
-determinación de Impuesto a la Renta que rige a las Cooperativas.
+De acuerdo con lo expuesto en el Oficio del antecedente, el H. Diputado Sr. TTT, junto con otros H. Diputados, en uso de la facultad que les confieren los artículos 9° de la Ley N° 18.918, Orgánica Constitucional del Congreso Nacional, y 308 del Reglamento de la Cámara de Diputados, han requerido oficiar a este Servicio para que, al tenor de la solicitud adjunta, se informe a esa Cámara sobre las razones y sentido de aplicar la franquicia tributaria establecida en el artículo 234 de la Ley N° 16.840 a empresas comerciales sin domicilio ni residencia en Chile y de no pronunciarse sobre la vigencia o derogación de dicha norma.
 
-I.-   ANTECEDENTES.
+La solicitud adjunta señala que, de acuerdo al Oficio Ordinario N° 26723, de fecha 15.03.2017, del Ministerio de Educación, se habría dejado claramente establecido que:
 
-Manifiesta la relevancia del tema analizado en un  pronunciamiento  de  este
-Servicio contra el cual recurre, con alcances para las cooperativas  y  para
-la Confederación Nacional de la Micro, Pequeña y Mediana  Empresa  de  Chile
-(CONAPYME), indicando que el Gobierno ha  efectuado  enormes  esfuerzos  por
-promover y potenciar el cooperativismo en Chile como  instrumento  de  ayuda
-mutua y mejora de las condiciones de vida de los empresarios PYME.
+a) La exención del artículo 234 de la Ley N° 16.840 es una &ldquo;franquicia tributaria de carácter educacional, la cual debe ser interpretada y aplicada de acuerdo a criterio de derecho estricto.&rdquo; Por tanto, no corresponde extrapolarla u homologarla a otros presupuestos de hecho o extenderla a otros beneficiarios que no sean los señalados en la propia norma.
 
-Indica que la Ley General de Cooperativas, en su artículo 53, establece  que
-“para todos los efectos legales se estimará que  las  instituciones  regidas
-por la presente ley no tienen utilidades”, salvo para  efectos  laborales  y
-el artículo 51 de la misma Ley, establece que el aumento del  valor  nominal
-de las cuotas de capital y cuotas de ahorro. y la devolución  de  excedentes
-originados en operaciones con los socios, estarán exentos de todo impuesto.
+b) La exención sólo beneficia única y exclusivamente a las Universidades del Estado o a las Universidades reconocidas por éste, no pudiendo otorgarse o ampliarse a terceros, ni menos a una sociedad o empresa no domiciliada ni residente en Chile.
 
-Por su parte, La Ley sobre Impuesto a la Renta en Chile (LIR), contenida  en
-el Artículo 1° del D.L. N° 824 de 1974, no dispone que, a las  Cooperativas,
-por regla general, se les  apliquen  sus  disposiciones,  puesto  que  éstas
-tienen asignado un régimen propio contemplado en el  artículo  17  del  D.L.
-N°824, el que solo excepcionalmente se remite a  ciertas  disposiciones  del
-artículo 1° de la LIR.
+c) El fin perseguido por la franquicia dice relación con &ldquo;favorecer y fomentar las funciones específicas de educación superior que desarrollan las Universidades y no otro tipo de actividades.&rdquo;
 
-De este modo, históricamente,  este  Servicio  ha  reconocido  este  régimen
-tributario de las Cooperativas. Ello  ocurre  con  el  Oficio  Ordinario  N°
-4.230 del 08.09.2004, de este Servicio,  el  cual  consigna  perentoriamente
-que en la especie no resultan aplicables las normas generales de la  LIR,  y
-por ende no corresponde aplicar el procedimiento sugerido”,  refiriéndose  a
-la posibilidad de determinar la diferencia de  impuestos  a  operaciones  de
-las Cooperativas con no socios.
+Luego de otras consideraciones, la solicitud adjunta requiere a este Servicio explicar fundadamente:
 
-Agrega que, pese a lo anterior, con fecha 28 de Julio  del  año  2017,  este
-Servicio mediante el Oficio N°1.708, cambió su  criterio,  yendo  contra  el
-texto expreso de los artículos 49 al 53 de la Ley General  de  Cooperativas,
-artículo 34 de la misma ley, y lo dispuesto en el artículo 17  del  D.L.  N°
-824 de 1974, pretendiendo hacer aplicable el régimen del Artículo 14  B,  de
-la LIR, esto es, aquel parcialmente integrado, con deducción del  9,45%  del
-crédito, a las Cooperativas.
+Por qué, en sus diversos análisis y respuestas solicitadas por las comisiones investigadoras del lucro en las Universidades, este Servicio no se ha pronunciado ni hecho referencia a la vigencia o derogación del artículo 234 de la Ley N° 16.840, toda vez que este mismo Servicio, mediante Oficio N° 235 de 2006, habría resuelto que &ldquo;considerando sólo lo dispuesto en el artículo 3° del D.L. N° 824, de 1974, que establece la vigencia de los preceptos de la nueva Ley sobre Impuesto a la Renta, cuyo texto se contiene en el artículo 1º del referido decreto ley, quedaron derogadas las disposiciones de la anterior Ley de Impuesto a la Renta, podría concluirse que la exención que se refería a un impuesto de esa ley derogada, quedaba también eliminada.&rdquo;
 
-El  contrasentido  surgido   con   motivo   de   la   dictación   de   dicho
-pronunciamiento es evidente. El  régimen  más  gravoso  genérico  se  quiere
-aplicar a la estructura más básica de organización.
+Las razones por las cuales se ha señalado en el Oficio N° 454 de 2017, de este Servicio, que los beneficiarios del artículo 234 de la Ley N° 16.840 serían las instituciones privadas y comerciales sin domicilio ni residencia en Chile, en total contradicción con lo señalado por el Ministerio de Educación.
 
-Agrega que, corresponde al Departamento de Cooperativas  del  Ministerio  de
-Economía, Fomento y Turismo, entre otras tareas, la misión de supervisar  el
-cumplimiento de las leyes aplicables a las Cooperativas, en  atención  a  lo
-cual  solicitaron  a  dicho  Departamento,  hoy   denominado   División   de
-Asociatividad y Economía Social, para que requiera a este  Servicio  que  se
-enmiende el error denunciado y se dé fiel cumplimiento a la normativa de  la
-Ley General de Cooperativas, y al artículo 17 del D.L. N° 824 de 1974.
+El monto total de los impuestos que el Fisco de Chile habría podido percibir durante los últimos seis años por concepto de Impuesto Adicional, de haberse aplicado de modo normal y regular las disposiciones que rigen las remesas al extranjero sin la exención del artículo 234 de la Ley N° 16.840, puesto que sólo a través de ese ejercicio y conocimiento de las cifras se podría establecer la magnitud del perjuicio fiscal y los impuestos que no han pagado, en base a una interpretación administrativa.
 
-Por otro lado, la  Excma.  Corte  Suprema  ha  ratificado  lo  anteriormente
-expuesto, en una sentencia de fecha 2 de abril del año 2015, dictada en  los
-autos Rol N° 21.330-2014, Fallo unánime, que se adjunta a su presentación.
+Por qué se ha aplicado &ndash; en concepto de los H. Diputados &ndash; un criterio tan benigno en la concesión de esta franquicia, sin considerar o analizar todos los requisitos, elementos y consideraciones que se exigen para el otorgamiento y aplicación de franquicias tributarias, dada la magnitud de los montos en cuestión y no se haya solicitado un pronunciamiento u opinión del Ministerio de Educación y de la Contraloría General de la República, respecto de la procedencia del beneficio, toda vez que en situaciones y casos de muy inferior importancia y naturaleza se actuaría con extremo rigor y exigencias, sin optar por resolver la cuestión ante Tribunales.
 
-      Por lo expuesto, solicita a este Servicio la corrección  del  criterio
-sustentado en el Oficio N°1708, del 28.07.2017, y en su  lugar  se  declare,
-que las Cooperativas tienen un régimen especial y propio, contemplado en  el
-artículo 17 de la Ley, y,  por  ende,  no  se  les  aplica  el  régimen  del
-artículo 14, letra B), del artículo 1° de D.L. N° 824 de 1974.
+Finalmente, el Oficio conductor hace presente que, de contener la respuesta materias reservadas o secretas, se señale en forma destacada y se indique el fundamento legal de tal calificación, en cumplimiento de lo ordenado en el inciso segundo del artículo 8° de la Constitución Política de la República.
 
-II.-  ANÁLISIS.
+II ANÁLISIS
 
-Sobre  el  particular,  en  primer  término,  cabe  señalar  que  el  Oficio
-Ordinario N°1.708, concluyó que las Cooperativas salvo que elijan  someterse
-el régimen de renta presunta del artículo 34  de  la  LIR,  deben  someterse
-indefectiblemente al régimen contemplado en la letra B) del artículo 14.
+Sin perjuicio que este Servicio no comparte algunas de las afirmaciones y juicios deslizados en la solicitud adjunta, cumple con informar los puntos sometidos a informe, en el mismo orden de presentación:
 
- Ahora bien,  respecto  a  las  alegaciones  formuladas  por  el  ocurrente,
-procede señalar que la circunstancia que el inciso final del artículo 49  de
-la Ley General  de  Cooperativas[1]  disponga  que  estas  entidades  “…  se
-regirán en materia del Impuesto a la Renta por las normas contenidas  en  el
-artículo 17 del  D.L.  N°  824  de  1974”,  no  implica  que  el  legislador
-estableciera la inaplicabilidad general de  las  disposiciones  de  la  LIR,
-contenidas en el artículo 1° del D.L. N° 824 de 1974,  por  dos  órdenes  de
-consideraciones:
+1) Vigencia del artículo 234 de la Ley N° 16.840 y alcance del Oficio N° 235 de 2006, de este Servicio.
 
-- Ello no fue establecido  por  el  legislador,  teniendo  presente  que  la
-normativa tributaria es de derecho estricto, sin que pueda marginarse  a  un
-grupo de contribuyentes de las disposiciones generales de la LIR, salvo  que
-ello sea expresamente establecido; y
+Si bien este Servicio ya informó con detalle y en fecha reciente a la Contraloría General de la República [1] sobre la indiscutible vigencia del artículo 234 de la Ley N° 16.840, para los fines de la presente respuesta es necesario reiterar, y luego explicar, el contenido íntegro del Oficio N° 235 de 2006, y no sólo la parte que se cita en la solicitud adjunta.
 
-- Existen múltiples remisiones en el artículo 17 del D.L. N° 824,  de  1974,
-que hacen necesaria  la  aplicación  de  las  normas  de  la  LIR,  para  su
-aplicación, por ejemplo, las normas  sobre  corrección  monetaria,  las  del
-Título V de la LIR, sobre Administración del Impuesto,  etc.,  sin  que  una
-aplicación aislada del artículo 17 del D.L. N° 824, de 1974,  posibilite  el
-cumplimiento  tributario  de  las   obligaciones   para   estas   entidades,
-existiendo una necesaria correlación entre ambos cuerpos normativos.
+En efecto, como consecuencia de una consulta efectuada en su oportunidad, y a partir del N° 2.-, el Oficio N° 235 de 2006, señala lo siguiente:
 
-Lo anterior, se evidencia en que el propio el N°2 del artículo 17  del  D.L.
-N° 824 de 1974, establece que aquella parte del remanente que corresponda  a
-operaciones realizadas con personas que no sean  socios,  estará  afecta  al
-Impuesto a la Renta  de  Primera  Categoría,  y  no  obstante  que  la  base
-imponible de las Cooperativas no se rige por el  sistema  de  deducciones  y
-agregados previsto en los  artículo  N°s.  29  al  33  de  la  LIR,  resulta
-inevitable acudir a las normas de  la  LIR,  para  determinar,  entre  otros
-aspectos, su tasa, el régimen tributario de los cooperados por la  obtención
-de aquellas cantidades afectas a IDPC y la imputación de  este  impuesto  al
-Impuesto Global Complementario  (IGC)  o  al  Impuesto  Adicional  (IA),  de
-acuerdo con los artículos 56 N°3 y 63 de la LIR.
+&ldquo;Sobre el particular, cabe señalar en primer lugar que el inciso primero del artículo 234 de la Ley N° 16.840, publicada en el Diario Oficial de fecha 24 de mayo de 1968, modificado por el artículo 33 de la Ley N° 17.318, D.O. 01.08.1970, establece lo siguiente: &ldquo;Estarán exentas del impuesto establecido en el artículo 61° de la Ley sobre Impuesto a la Renta, las cantidades pagadas o abonadas en cuenta por la Universidad de Chile, las demás Universidades reconocidas por el Estado y la Televisión Nacional de Chile Ltda. a personas sin domicilio ni residencia en el país.&rdquo;
 
-De este modo, la distribución a los cooperados del remanente, que se  afecta
-en cabeza a la cooperativa con IDPC, debe sujetarse también a tributación  a
-sus asociados, sin que exista liberación alguna de tributación  respecto  de
-estos últimos. Por lo mismo, la exención dispuesta en el artículo 51  de  la
-LGC, respecto a la devolución de excedentes originados  en  operaciones  con
-los socios, no  alcanza  a  la  devolución  de  los  mismos  en  operaciones
-celebradas con terceros.
+Por otra parte, la Ley N° 18.247, publicada en el Diario Oficial de fecha 03 de octubre de 1983, en su artículo 4° establece lo siguiente &ldquo;A contar del 1° de enero de 1984, no se aplicará respecto de Televisión Nacional de Chile y de las Corporaciones de Televisión de las Universidades reconocidas por el Estado, la exención establecida en el artículo 234, de la Ley N° 16.840.
 
-Seguidamente, en relación con el tema en análisis, procede  señalar  que  el
-Oficio Ordinario  N°4.230, de 2004, que según el  contribuyente  declara  de
-modo general que a ellas no les resultan aplicables las normas  de  la  LIR,
-no es pertinente a la presente situación analizada, pues  se  refiere  a  un
-particular  mecanismo  para  determinar  la   RLI   de   las   Cooperativas,
-especialmente a las operaciones realizadas con no socios  sin  que  en  caso
-alguno pueda interpretarse que el  artículo 17 del  D.L.  N°  824  de  1974,
-sustituya  la aplicación de las normas de la Primera Categoría  en  relación
-con las Cooperativas.[2]
+Declárase que las cantidades a que se refiere el artículo 59 de la Ley de Renta, cuyo pago o abono en cuenta se haya efectuado o se efectúe a personas sin domicilio ni residencia en el país, por las Corporaciones de Televisión de la Universidad de Chile y de las demás Universidades reconocidas por el Estado, y Televisión Nacional de Chile han gozado y gozan de la exención tributaria contenida en el artículo 234 de la Ley N° 16.840, hasta la fecha indicada en el inciso primero, por lo que no están ni han estado afectas al impuesto adicional de la Ley de la Renta.&rdquo;
 
-Por último, cabe destacar que el fallo de la Excma. Corte Suprema  que  cita
-en apoyo a su petición, en ninguna de sus partes declara que no  rijan  para
-esas entidades las normas de la LIR, sino que  sólo  se  pronuncia  respecto
-del alcance del  artículo  51  de  la  LGC,  referida  a  la  devolución  de
-excedentes a sus socios por una Cooperativa.
+3.- Al respecto, cabe señalar que considerando sólo lo dispuesto en el artículo 3° del D.L. N° 824, de 1974, que establece la vigencia de los preceptos de la nueva Ley sobre Impuesto a la Renta, cuyo texto se contiene en el artículo 1º del referido decreto ley, quedaron derogadas las disposiciones de la anterior Ley de Impuesto a la Renta, podría concluirse que la exención que se refería a un impuesto de esa ley derogada, quedaba también eliminada.
 
-En consecuencia,  debe  concluirse  que,  pese  a  que  la  Ley  General  de
-Cooperativas en el inciso  final  del  artículo  49  declara  que  estas  se
-regirán en materia de Impuesto a la Renta, por las normas contenidas  en  el
-artículo 17 del D.L. 824 de 1974, ello no  significa  que  las  Cooperativas
-queden de manera total, exceptuadas de la aplicación de  las  normas  de  la
-LIR, contenidas en el artículo 1° del D.L.  N°  824  de  1974,  sin  que  se
-conciba una aplicación aislada de uno u otro cuerpo legal.
+Sin embargo , el artículo 4° de la Ley N° 18.247, publicada en el Diario Oficial con fecha 03/10/1983, es decir, encontrándose vigente la actual Ley de la Renta contenida en el D.L. N° 824, estableció una derogación de la exención indicada, pero sólo respecto de una de las situaciones previstas en la exención, a saber, sobre el pago o abono en cuenta que se haya efectuado o se efectúe a personas sin domicilio ni residencia en el país, por las Corporaciones de Televisión de la Universidad de Chile y de las demás Universidades reconocidas por el Estado, y Televisión Nacional de Chile; declarando además que las cantidades a que se refiere el artículo 59 de la Ley de Renta, efectuadas por dichas personas, han gozado y gozan de la exención tributaria contenida en el artículo 234 de la Ley N° 16.840, hasta la fecha indicada en la misma norma, por lo que, agrega, no están ni han estado afectas al impuesto adicional de la Ley de la Renta.
 
-Por último, se hace presente que, si las Cooperativas estuvieran  fuera  del
-ámbito de la LIR, no tendrían  derecho  los  asociados  a  imputar  el  IDPC
-pagado por la Cooperativa en contra del IGC o IA,  pues  tal  imputación  se
-establece precisamente en la LIR y no en las normas  especiales  de  la  Ley
-General de Cooperativas, ni en el artículo 17 del D.L. N° 824 de 1974.
+De lo anterior se desprende, en primer lugar, que el legislador consideraba vigente la exención indicada a la fecha de publicación de la Ley N° 18.247, citada . En segundo lugar, y atendido a que no deroga la exención en su totalidad sino sólo parcialmente, ya que se refiere exclusivamente a uno de los supuestos de hecho de la dispensa legal, puede concluirse que la exención seguiría vigente respecto de las otras situaciones previstas en el artículo 234° en referencia, es decir, respecto de las cantidades pagadas o abonadas en cuenta por la Universidad de Chile y las demás Universidades reconocidas por el Estado, a personas sin domicilio ni residencia en el país.
 
-III.- CONCLUSIÓN.
+En otras palabras, el inciso primero del artículo 4° antes citado, al prescribir que lo dispuesto en el artículo 234, de la Ley N° 16.840, es decir, la exención allí establecida, no se aplicará respecto de Televisión Nacional de Chile y de las Corporaciones de Televisión de las Universidades reconocidas por el Estado, no tendría sentido si se concluyera que dicha norma fue derogada en el año 1974, por lo dispuesto en el artículo 3° del D.L. N° 824. El aserto precedente se ve corroborado por lo establecido en el inciso 2° del mismo artículo 4°, que con el carácter de interpretativo declara que las sumas cuyo pago o abono se hayan efectuado a personas sin domicilio ni residencia en el país, por las Corporaciones de Televisión de la Universidad de Chile y de las demás Universidades reconocidas por el Estado, y Televisión Nacional de Chile, han gozado de la exención en consulta.
 
-Por las razones anotadas precedentemente, debe concluirse que  si  bien  las
-Cooperativas de acuerdo al inciso final del artículo 49 de  la  Ley  General
-de Cooperativas en materia de Impuesto a la Renta, se rigen por el  artículo
-17 del D.L. N° 824, de 1974,  ello no implica desconocer  la  aplicación  de
-la LIR para determinar el régimen tributario por el cual deben  regirse,  el
-cual  considerando el  contexto  y  características  particulares  de  estas
-entidades, no es otro que el contenido en la Letra B) del artículo 14 de  la
-LIR, haciendo posible la integración entre el  IDPC  que  debe  soportar  la
-Cooperativa y el impuesto que deben soportar los  asociados  de  las  mismas
-entidades, razón por la cual  procede  confirmar  en  todas  sus  partes  el
-Oficio Ordinario N°1.708, de 28.07.2017, de este Servicio.
+En consecuencia, siendo así, la conclusión que resulta de lo expuesto es que la exención del impuesto adicional del artículo 59° de la Ley sobre Impuesto a la Renta, respecto de las cantidades pagadas o abonadas en cuenta por la Universidad de Chile y las demás Universidades reconocidas por el Estado, a personas sin domicilio ni residencia en el país, se encuentra vigente .&rdquo; [Se han destacado en negrita las partes relevantes]
 
+Una vez transcrito el texto íntegro del Oficio N° 235 de 2006, es posible señalar lo siguiente:
 
+a) El N° 3) efectivamente comienza señalando que, &ldquo; considerando sólo lo dispuesto en el artículo 3° del D.L. N° 824, de 1974, que establece la vigencia de los preceptos de la nueva Ley sobre Impuesto a la Renta, cuyo texto se contiene en el artículo 1º del referido decreto ley, quedaron derogadas las disposiciones de la anterior Ley de Impuesto a la Renta, podría concluirse que la exención que se refería a un impuesto de esa ley derogada, quedaba también eliminada.&rdquo;
 
+Como se advierte, y antes de proseguir con el resto del Oficio N° 235 de 2006, es evidente que al emplear las expresiones &ldquo;considerando sólo&rdquo; (un argumento) y &ldquo;podría concluirse que&rdquo; (la exención se encontraba derogada), el Oficio simplemente está empleando un giro argumentativo, destinado a exponer una posible interpretación, sólo para rebatirla a continuación con &ldquo;otros argumentos&rdquo; (como, de hecho, ocurre en la conclusión contenida al final del Oficio).
 
-                                       FERNANDO BARRAZA LUENGO
+b) En efecto, de acuerdo al inciso primero del artículo 234 de la Ley N° 16.840, modificado por el artículo 33 de la Ley N° 17.318 (publicada esta última en el Diario Oficial con fecha 01.08.1970) : &ldquo;Estarán exentas del impuesto establecido en el artículo 61° de la Ley sobre Impuesto a la Renta, las cantidades pagadas o abonadas en cuenta por la Universidad de Chile, las demás Universidades reconocidas por el Estado y la Televisión Nacional de Chile Ltda. a personas sin domicilio ni residencia en el país.
 
-       DIRECTOR
+c) Posteriormente, el artículo 4° de la Ley N° 18.247 (publicada en el Diario Oficial con fecha 03.10.1983 ), estableció que &ldquo;a contar del 1° de enero de 1984, no se aplicará respecto de Televisión Nacional de Chile y de las Corporaciones de Televisión de las Universidades reconocidas por el Estado, la exención establecida en el artículo 234, de la Ley N° 16.840&rdquo; [2] ,
 
+d) De este modo, si bien el artículo 3° del Decreto Ley N° 824, de 1974, derogó las disposiciones de la anterior Ley sobre Impuesto a la Renta, es evidente que si el artículo 4° de la Ley N° 18.247, publicada con posterioridad a la actual Ley sobre Impuesto a la Renta, derogó sólo parcialmente algunas de las situaciones previstas en la exención , es porque el propio legislador de la época consideró vigente la exención del artículo 234 de la Ley N° 16.840 a la fecha de publicarse la Ley N° 18.247.
 
+En otras palabras, de haber operado la derogación general dispuesta en el artículo 3° del Decreto Ley N° 824, de 1974, la derogación, siquiera parcial del artículo 234 de la Ley N° 16.840, efectuada por el artículo 4° de la Ley N° 18.247, habría carecido por completo de objeto (jurídicamente no es posible derogar una norma que ya estaba derogada).
 
+e) Por el contrario, como el artículo 4° de la Ley N° 18.247 dispuso una derogación parcial de la exención contenida el artículo 4° de la Ley N° 18.247, el Oficio N° 235 de 2006, sólo pudo concluir que la exención seguía vigente respecto de las otras situaciones previstas en el artículo 234 en referencia, es decir, respecto de las cantidades pagadas o abonadas en cuenta por la Universidad de Chile y las demás Universidades reconocidas por el Estado, a personas sin domicilio ni residencia en el país.
 
-                        Oficio N° 1031, de 24.05.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Contenida en el DFL N°5, de Economía, Fomento y Turismo, 17.02.2004.
+En resumen, el artículo 4° de la Ley N° 18.247 en relación al artículo 3° del Decreto Ley N° 824 de 1974, presentaba la siguiente disyuntiva:
 
-[2] Ver Oficio Ord, 4495, de 10.08.76, del SII.
+(i) O bien el artículo 3° del Decreto Ley N° 824 de 1974, derogó &ldquo;todas&rdquo; las disposiciones de la anterior Ley sobre Impuesto a la Renta, incluyendo la exención del artículo 234 de la Ley N° 16.840, en cuyo caso la derogación parcial del artículo 234 de la Ley N° 16.840 efectuada por el artículo 4° de la Ley N° 18.247 carecía de todo propósito y objeto; o, bien,
+
+(ii) El artículo 234 de la Ley N° 16.840 seguía vigente después del año 1974, único caso en que el artículo 4° de la Ley N° 18.247 pudo jurídicamente derogar parcialmente al primero, manteniéndose vigente en el resto.
+
+Luego, no habiéndose cuestionado la vigencia del artículo 234 de la Ley N° 16.840 ni tampoco el correcto alcance del Oficio N° 235 de 2006 &ndash; leído en su integridad &ndash; no ha sido necesario pronunciarse sobre el particular en los diversos análisis y respuestas evacuados por este Servicio, a requerimiento de las comisiones investigadoras del lucro en las Universidades.
+
+Esclarecida la vigencia que, por interpretación auténtica del legislador, corresponde reconocer a la franquicia contenida en el artículo 234 de la Ley N° 16.840, cabe analizar si efectivamente y en qué sentido puede considerarse como beneficiaria de la exención a la empresa comercial sin domicilio ni residencia en Chile, y no a la Universidad, según relata el documento adjunto
+
+2. Beneficiarios del artículo 234 de la Ley N° 16.840 y alcance del Oficio N° 454 de 2017.
+
+Tal como este Servicio informó recientemente a la Contraloría General de la República, la cuestión sobre los beneficiarios del artículo 234 de la Ley N° 16.840 y el alcance del Oficio N° 454 de 2017, se explica del siguiente modo:
+
+a) Conforme al artículo 3º de la Ley sobre Impuesto a la Renta, toda persona con domicilio o residencia en Chile se encuentra afecta a impuesto sobre sus rentas de cualquier origen, sea que la fuente de sus rentas esté situada dentro o fuera del país, mientras que las personas no residentes en Chile están afectas a impuesto solamente sobre las mismas cuya fuente esté situada dentro del país ( fuente productora ).
+
+b) Concordando con aquello, el artículo 10 de la Ley sobre Impuesto a la Renta considera rentas de fuente (productora) chilena las que provienen de bienes situados en el país o de actividades desarrolladas en él, cualquiera que sea el domicilio o residencia del contribuyente.
+
+c) Sin perjuicio de lo anterior, si las rentas son pagadas o remesadas al exterior por residentes en Chile por los servicios señalados en el N° 2 del artículo 59 de la Ley sobre Impuesto a la Renta, dichas rentas se encuentran afectas al Impuesto Adicional conforme al denominado &ldquo;principio de la fuente pagadora &rdquo; [3] .
+
+d) Al respecto, y como ocurre en el caso de otras rentas afectadas con Impuesto Adicional, el contribuyente del referido impuesto es el beneficiario de la renta &ndash; a quien se paga o abona en cuenta las cantidades &ndash; que no tiene domicilio ni residencia en Chile [4] .
+
+e) En consecuencia, y desde un punto de vista estrictamente técnico , la exención contenida en el artículo 234 de la Ley N° 16.840, en cuanto exención de Impuesto Adicional, en principio beneficia al &ldquo;contribuyente&rdquo; sin domicilio ni residencia en Chile; esto es, al beneficiario de las rentas &ldquo;pagadas&rdquo; desde nuestro país y remesadas hacia el extranjero, según lo expuesto precedentemente.
+
+f) Por cierto, lo anterior debe entenderse en un contexto más amplio , dentro del cual, el propósito de la exención en comento ha sido beneficiar a las Universidades, en general, disminuyendo el costo de un servicio.
+
+En efecto, si bien desde un punto de vista estrictamente técnico la franquicia se materializa como una exención que favorece al contribuyente sin domicilio ni residencia en Chile, en definitiva, sigue estando destinada a beneficiar económicamente a las Universidades, en la medida que por esas rentas remesadas al exterior no deberán practicar (ni soportar económicamente) retención alguna de Impuesto Adicional.
+
+En otras palabras, no se altera el hecho que la exención solamente beneficia a las Universidades del Estado o reconocidas por éste, en la medida que cualquier otro contribuyente que no reúna dichas calidades, jamás podría hacer efectiva la exención contenida en el artículo 234 de la Ley N° 16.840 respecto de las remesas al exterior en pago por los servicios señalados en el N° 2 del artículo 59 de la Ley sobre Impuesto a la Renta.
+
+Conforme lo anterior, en la medida que el Impuesto Adicional debe ser soportado (esto es, retenido, declarado y enterado en arcas fiscales por el contribuyente pagador, con domicilio y residencia en Chile), y la exención del artículo 234 de la Ley N° 16.840 opera respecto de los pagos que dichas Universidades remesan al exterior &ndash; por alguno de los servicios a que se refiere el artículo 59 de la actual Ley sobre Impuesto a la Renta &ndash; constituiría un completo despropósito sostener que la exención no puede ampliarse a &ldquo;contribuyentes sin domicilio ni residencia en Chile&rdquo;.
+
+Bajo ese predicamento, en rigor, no es que la exención de Impuesto Adicional contenida en el artículo 234 de la Ley N° 16.840 se encuentre derogada, sino que carece de propósito en la medida que, para operar la exención:
+
+(i) Debe haber un pago o abono en cuenta de cantidades.
+
+(ii) Dichas cantidades deben ser pagadas o abonadas por alguno de los servicios a que se refiere el artículo 59 de la actual Ley sobre Impuesto a la Renta.
+
+(iii) Deben ser pagadas o abonadas por la Universidad de Chile y demás Universidades reconocidas por el Estado (en adelante, las &ldquo;Universidades&rdquo;); y
+
+(iv) Las cantidades deben ser pagadas o abonadas a personas sin domicilio ni residencia en el país que prestan alguno de los servicios a que se refiere el artículo 59 de la actual Ley sobre Impuesto a la Renta. De lo contrario, si no hay pago o remesa al exterior o si el contribuyente a quien se paga tiene domicilio o residencia en el país, la exención de Impuesto Adicional del artículo 234 de la Ley N° 16.840 carecería completamente de objeto y respecto de cualquier Universidad.
+
+Finalmente, si el reproche, en rigor, se limita a cuestionar que el pago o remesa se efectúe a &ldquo;empresas&rdquo; sin domicilio ni residencia en el país, es pertinente aclarar que del artículo 234 de la Ley N° 16.840, así como de los requisitos antes anotados, están exentas del impuesto establecido en el artículo 59 de la Ley sobre Impuesto a la Renta, en general, las cantidades pagadas o abonadas en cuenta por la Universidad de Chile, las demás Universidades reconocidas por el Estado, a personas sin domicilio ni residencia en el país, sin discriminar sobre la naturaleza de la persona a quien se paga .
+
+Luego, no es posible compartir la opinión del Ministerio de Educación, por cuanto desatiende la estructura técnica del Impuesto Adicional, el tenor literal del artículo 234 de la Ley N° 16.840 (que no distingue) y tornaría la exención en carente de objeto (la exención opera, como se ha dicho, precisamente respecto de los pagos o remesas a &ldquo;personas&rdquo; sin domicilio ni residencia en Chile, sin distinción, efectuados por la Universidad de Chile y demás Universidades reconocidas por el Estado).
+
+3) El monto total de los impuestos que el Fisco de Chile habría podido percibir durante los últimos seis años.
+
+Para los años tributarios 2012 a 2015, no es posible realizar una estimación de la perdida fiscal por uso de la franquicia del artículo 234 de la Ley N° 16.840, ya que los contribuyentes no estaban obligados a declarar las rentas que se habían beneficiado de la exención.
+
+Para los años 2016 a 2017, donde sí existía la obligación de informarlas, y de acuerdo a los datos declarados por los contribuyentes, no se habría hecho uso de la exención.
+
+Por tanto, en base a lo informado por los contribuyentes, no hay impuestos dejados de percibir por el Fisco en los referidos años tributarios.
+
+4) Aparente aplicación de un criterio más benigno en la concesión de esta franquicia.
+
+De acuerdo a la solicitud adjunta, este Servicio habría tenido un criterio más benigno en la concesión de esta franquicia, sin considerar o analizar todos los requisitos, elementos y consideraciones que se exigen para el otorgamiento y aplicación de franquicias tributarias, a diferencia de lo que ocurriría en otras situaciones de muy inferior importancia y naturaleza, donde se actuaría con extremo rigor y exigencia, sin optar por resolver la cuestión ante Tribunales.
+
+Sobre el particular, y sin perjuicio que este Servicio no comparte algunas de las afirmaciones anteriores, es pertinente reiterar el texto de la exención vigente, así como los requisitos de procedencia ya expuestos, en el sentido que por disposición del artículo 234 de la Ley N° 16.840, están exentas del impuesto establecido en el artículo 59 de la Ley sobre Impuesto a la Renta, las cantidades pagadas o abonadas en cuenta por la Universidad de Chile, las demás Universidades reconocidas por el Estado, a personas sin domicilio ni residencia en el país, sin discriminar sobre la naturaleza de la persona a quien se paga.
+
+Luego, y en la medida que los pagos o remesas al exterior efectivamente sean realizados por la Universidad de Chile y demás Universidades reconocidas por el Estado, basta que los pagos o remesas provengan de alguno de los servicios a que se refiere el artículo 59 de la actual Ley sobre Impuesto a la Renta Chile y que las cantidades se paguen o remesen a personas sin domicilio ni residencia en el país.
+
+De este modo, y a diferencia de otras exenciones de contenido más específico o limitado por la propia ley, no corresponde a este Servicio, por vía administrativa, agregar requisitos que carecen de fuente legal. Al respecto, se hace presente lo señalado por el Tribunal Constitucional, en el sentido que, por aplicación del principio de reserva legal en materia tributaria, &ldquo;los tribunales superiores de justicia han reiterado que una exención establecida por la ley no puede ser modificada o adicionada con nuevos requisitos, por un texto reglamentario (Corte de Apelaciones de La Serena, 24 de septiembre de 1981). A su turno, la Corte Suprema ha señalado como improcedente el establecimiento de requisitos en materia de exención por la autoridad administrativa, por tratarse de situaciones de reserva legal. (Revista de Derecho y Jurisprudencia, 1984, Tomo 81, Nº 2, sec. 5&ordf;., p. 110; 1985, Tomo 82, Nº 1, sec. 5&ordf;., p. 59; Tomo 85, Nº 2, sec. 5&ordf;., p. 178, y Gaceta Jurídica Nº 81, 1987, p. 33, y Nº 98, 1998, p. 26).&rdquo; [5]
+
+Conforme lo anterior, y no existiendo tampoco una diferencia de criterio con la Universidad de Chile y demás Universidades reconocidas por el Estado respecto de la vigencia, sentido y alcance del artículo 234 de la Ley N° 16.840, ni habiendo este Servicio agregado otras exigencias distintas a las dispuestas en la ley, tampoco ha sido el caso resolver eventuales conflictos de interés en Tribunales.
+
+Finalmente, y al reproche que este Servicio no ha solicitado un pronunciamiento u opinión del Ministerio de Educación o de la Contraloría General de la República, se informa que, tal como ha sido recientemente reiterado por el Órgano Contralor, y conforme los artículos 1° y 6°, letra A), N° 1, de Código Tributario, y 1° y 7°, letra b), del artículo primero, del decreto con fuerza de ley N° 7, de 1980, del Ministerio de Hacienda, compete a este Servicio interpretar administrativamente, &ldquo;en forma exclusiva&rdquo;, las disposiciones sobre tributación fiscal interna, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los tributos de esa naturaleza [6] .
+
+En consecuencia, considerando que la exención contenida en el artículo 234 de la Ley N° 16.840 es de naturaleza puramente tributaria y no confiere competencias a otros órganos del Estado, no es el caso que este Servicio requiera, para aplicar la exención, el pronunciamiento u opinión previa del Ministerio de Educación o de la Contraloría General de la República.
+
+A mayor abundamiento, y a falta de otros requisitos de procedencia, la calidad del pagador de las rentas (Universidad de Chile y demás Universidades reconocidas por el Estado), se resuelve atendiendo a la legislación vigente aplicable.
+
+III CONCLUSIÓN
+
+Conforme a lo expuesto precedentemente, y respecto de las cuestiones sobre las cuales el H. Diputado Sr. Venegas solicita un pronunciamiento de este Servicio, se informa que:
+
+1) La indiscutible vigencia del artículo 234 de la Ley N° 16.840 fue zanjada por este Servicio en el Oficio N° 235 de 2006 (leído en su integridad), sobre la base de una interpretación auténtica del legislador practicada en el artículo 4° de la Ley N° 18.247.
+
+2) Si bien el artículo 234 de la Ley N° 16.840, desde un punto de vista estrictamente técnico, se materializa como una exención que favorece al contribuyente sin domicilio ni residencia en Chile, resulta inconcuso que el objetivo final de aquella es beneficiar a las Universidades en la medida que, por esas rentas remesadas al exterior, no deberán practicar (ni soportar económicamente) retención alguna de Impuesto Adicional.
+
+3) En base a lo informado por los contribuyentes, no hay impuestos dejados de percibir por el Fisco en los referidos años tributarios.
+
+4) En la medida que los pagos o remesas al exterior efectivamente sean realizados por la Universidad de Chile y demás Universidades reconocidas por el Estado, para que opera la exención basta que los pagos o remesas provengan de alguno de los servicios a que se refiere el artículo 59 de la actual Ley sobre Impuesto a la Renta Chile y que las cantidades se paguen o remesen a personas sin domicilio ni residencia en el país, no correspondiendo a este Servicio, por vía administrativa, agregar requisitos que carecen de fuente legal.
+
+Asimismo, considerando que la exención contenida en el artículo 234 de la Ley N° 16.840 es de naturaleza puramente tributaria y no confiere competencias a otros órganos del Estado, no es el caso que este Servicio requiera, para aplicar la exención, el pronunciamiento u opinión previa del Ministerio de Educación o de la Contraloría General de la República.
+
+FERNANDO BARRAZA LUENGO
+
+DIRECTOR
+
+Oficio N° 1106, de 31.05.2018
+
+Subdirección Normativa
+
+Dpto. de Técnica Tributaria
+
+[1] Cabe precisar que el requerimiento de la Contraloría General de la República, a su turno, tenía como antecedente el Oficio N° 2889, de fecha 22.03.2017, de la H. Cámara de Diputados, a solicitud del H. Diputado Sr. Mario Venegas Cárdenas.
+
+[2] Agregando su inciso segundo &ldquo;declárase que las cantidades a que se refiere el artículo 59 de la Ley de Renta, cuyo pago o abono en cuenta se haya efectuado o se efectúe a personas sin domicilio ni residencia en el país, por las Corporaciones de Televisión de la Universidad de Chile y de las demás Universidades reconocidas por el Estado, y Televisión Nacional de Chile han gozado y gozan de la exención tributaria contenida en el artículo 234 de la Ley N° 16.840, hasta la fecha indicada en el inciso primero, por lo que no están ni han estado afectas al Impuesto Adicional de la Ley sobre Impuesto a la Renta.&rdquo;
+
+[3] Oficio N° 1.529 de 2002.
+
+[4] Por ejemplo, en materia de Impuesto Adicional que grava las distribuciones de dividendos, ver Oficio N° 312 de 2014. En un sentido similar, y a propósito de la diferencia entre el Impuesto Adicional reglado en el artículo 59° N° 1, incisos primero y segundo, por una parte; y el que grava el sobreendeudamiento, por otra, ver Oficio N° 3939 de 2004.
+
+[5] STC Rol N° 759 de 2007, Considerando octogésimo primero
+
+[6] Dictamen N° 18325 de 2017. Aplica criterio contenido en los dictámenes N° 98.123 de 2014, N° 98.889 de 2015 y N° 85.962, ambos de 2016, entre otros.

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 5 del 11 de Enero del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2017 y el 9 de febrero del año 2017. Fuente: Oficina de Gestión Normativa Establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica por modificaciones establecidas a la Ley de Mérito Ejecutivo Fuente: Departamento de Operaciones Circular N° 3 del 11 de Enero del 2017 Tabla de Impuesto Único de Segunda categoría…
+oacute;n Normativa Establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica por modificaciones establecidas a la Ley de Mérito Ejecutivo Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

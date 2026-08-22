@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:0px;'>Tabla de cálculos de reajustes, intereses y multas agosto 2019. Fuente: Subdirección de Fiscalización Circular N° 29 del 10 de Julio del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2019 y el 9 de agosto de 2019. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 27 del 28 de Junio del 20…
+Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

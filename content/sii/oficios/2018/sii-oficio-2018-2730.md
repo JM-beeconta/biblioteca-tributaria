@@ -6,110 +6,101 @@
 - Año: 2018
 - Fecha: 2018-09-20
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1959.htm
-- Hash SHA-256: 6bd1779fcef4c45a9f5c64cc7646310563a024d0f42768a41e6300f13f08b297
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1960.htm
+- Hash SHA-256: 9de58106e19488fa01cb0f7aafc25a30ee618ed0eb57ab37d9b7d0b11f63eafe
 
 ## Resumen
 
-;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 3, Art. 10, Art. 17, N°8, Art. 58, N°3 &ndash; Código Civil, Art. 955 &ndash; Ley N° 16.271, Art. 27 &ndash; . (Ord. Nº 1960, de 20-09-2018) | Word Aplicación del Impuesto Adicional a la cesión de derechos hereditarios de un causante fallecido en su país de origen, efectuada por personas sin domicilio ni residencia en Chile. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 108 &ndash; Ley N° 19.799, Art. 2, letra f) &ndash; Circular N° 67, de 2…
+nes desde el exterior. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 3, Art. 10, Art. 17, N°8, Art. 58, N°3 &ndash; Código Civil, Art. 955 &ndash; Ley N° 16.271, Art. 27 &ndash; . (Ord. Nº 1960, de 20-09-2018) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":67,"year":2016}
-- {"type":"circular","number":40,"year":2015}
-- {"type":"articulo","law":"LIR","article":"108"}
-- {"type":"articulo","law":"LIR","article":"107"}
-- {"type":"articulo","law":"LIR","article":"108 i"}
+- {"type":"oficio","number":2730,"year":2016}
+- {"type":"articulo","law":"LIR","article":"3"}
+- {"type":"articulo","law":"LIR","article":"11"}
+- {"type":"articulo","law":"LIR","article":"17 N"}
+- {"type":"articulo","law":"LIR","article":"10"}
+- {"type":"articulo","law":"LIR","article":"58"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 108 – LEY N° 19.799, ART. 2, LETRA F) – CIRCULAR N° 67, DE 2016 – RES. EX. N° 136, DE 2007. (Ord. Nº 1959, de 20-09-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 3, ART. 10, ART. 17, N°8, ART. 58, N°3 – CÓDIGO CIVIL, ART. 955 – LEY N° 16.271, ART. 27 – OFICIO N° 2730, DE 2016. (Ord. Nº 1960, de 20-09-2018)
 
-REQUISITOS DEL MANDATO QUE DEBE OTORGAR UN PARTÍCIPE DE UN FONDO MUTUO PARA NO CONSIDERAR RESCATE LA LIQUIDACIÓN DE LAS CUOTAS REINVERTIDAS, DE ACUERDO AL ARTÍCULO 108 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+APLICACIÓN DEL IMPUESTO ADICIONAL A LA CESIÓN DE DERECHOS HEREDITARIOS DE UN CAUSANTE FALLECIDO EN SU PAÍS DE ORIGEN, EFECTUADA POR PERSONAS SIN DOMICILIO NI RESIDENCIA EN CHILE.
 
-S e ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita un pronunciamiento sobre los requisitos del Mandato que debe otorgar un partícipe de un Fondo Mutuo para no considerar rescate la liquidación de las cuotas destinadas a ser reinvertidas, de acuerdo al artículo 108, inciso 3°, de la Ley sobre Impuesto a la Renta (LIR).
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita un pronunciamiento sobre la aplicación del Impuesto Adicional a la cesión de derechos hereditarios de un causante fallecido en su país de origen, efectuada por personas sin domicilio ni residencia en Chile.
 
 I.- ANTECEDENTES:
 
-1.- Señala que el artículo 108 de la LIR dispone que, el mayor valor obtenido en la enajenación o rescate de cuotas de fondos mutuos (FM), que no se encuentren en las hipótesis del artículo 107 del mismo cuerpo legal, se considerará como renta afecta al Impuesto de Primera Categoría (IDPC), Global Complementario o Impuesto Adicional, según corresponda.
+Señala que dos ciudadanas extranjeras, sin residencia ni domicilio en Chile son herederas de un causante -también extranjero, que fallece en su país de origen- de una herencia compuesta exclusivamente de derechos sociales sobre una sociedad de responsabilidad limitada, constituido con arreglo a las leyes chilenas.
 
-Como excepción, el inciso tercero del referido artículo 108 de la LIR señala que no será considerado como rescate y por tanto no se afectará con impuestos, la liquidación de cuotas de un FM, en la medida que dicho fondo no sea de aquellos referidos en los numerales 3.1 y 3.2. del artículo 107 de la LIR, es decir, cuotas de FM cuyas inversiones consistan en valores con presencia bursátil o bien se trate de cuotas de FM con presencia bursátil.
+Las herederas han considerado ceder a título oneroso la totalidad de sus derechos hereditarios a una persona o entidad con residencia en Chile, mediante la cesión de derechos hereditarios, sin previa realización del trámite de la posesión efectiva, lo que podría generar un mayor valor a favor de las cedentes.
 
-Para que dicha excepción opere, el partícipe deberá instruir mediante un poder, a la sociedad administradora del FM a través de la cual mantiene su inversión, que liquide y transfiera todo o parte del producto de su inversión, a otro FM administrado por la misma AGF, o bien, por una distinta.
+Señala que el Oficio N° 2.730 del año 2016, se refiere a la situación de la cesión derechos hereditarios en relación al Impuesto de Primera Categoría, pero no se refiere a la cesión de derechos hereditarios celebrada por cedentes extranjeros, no residentes ni domiciliados en Chile. Tampoco existe norma legal expresa entre el articulado del Impuesto Adicional que refiera un hecho gravado como el descrito en los antecedentes ni directamente ni por remisión a otras normas.
 
-Agrega, en relación al poder que debe preparar el partícipe, que el Servicio de Impuestos Internos (SII), a través de la Resolución Ex. N° 136 del año 2007 instruyó sobre los requisitos que establece del mandato, entre los cuales está el que deberá conferirse por escrito.
+Al respecto, solicita un pronunciamiento sobre los siguientes aspectos:
 
-2.- Indica que la Ley N° 19.799 establece que los actos y contratos otorgados o celebrados por personas naturales o jurídicas, suscritos por medio de firma electrónica, serán válidos de la misma manera y producirán los mismos efectos que los celebrados por escrito y en soporte de papel. En este sentido, señala, lo ha reconocido el Sll, por ejemplo, a través de la Circular N° 40 de 2015.
+a. &iquest;Existe alguna normal legal que grave con Impuesto Adicional el mayor valor obtenido en la cesión de derechos hereditarios efectuada por cedente persona naturales sin residencia ni domicilio en Chile?
 
-Agrega que no existirían inconvenientes en que el poder a que hace referencia el artículo 108 de la LIR se materialice mediante una plataforma digital y que el partícipe, a través de una firma electrónica (cualquiera sea su tipo), manifieste su voluntad de acogerse a la referida franquicia, dando cumplimiento así a la exigencia de la Resolución Ex. N° 136, de 2007, de que el poder conste por escrito. De este modo, señala, no siendo exigencia de la Resolución que el poder sea otorgado mediante instrumento público, no existen impedimentos para que los interesados lo otorguen mediante Firma Electrónica Simple.
+b. En caso negativo, &iquest;cuál sería el tratamiento tributario de la Ley sobre Impuesto a la Renta (LIR), respecto de la cesión de derechos hereditarios a título oneroso, para cedentes personas naturales sin residencia ni domicilio en Chile, cuando de la cesión se obtiene mayor valor?
 
-3.- Añade que el artículo 108 de la LIR no impediría que el inversionista delegue la facultad para reinvertir los fondos a una Corredora de Bolsa para que ésta, en su nombre y representación, sea en definitiva quien otorgue el Poder; y a la misma conclusión, indica, ha llegado este Servicio en Oficios N° 457, de 2015; N° 2924, de 2012 y N° 1646, de 2010.
+c. De encontrarse afecta la cesión referida, &iquest;cuál sería la tasa impositiva y cuándo se declararía y debiera pagar el impuesto aplicable?
 
-En base a lo que expone, solicita confirmar:
-
-a) El poder puede ser otorgado por el partícipe en forma electrónica, bastando para dar cumplimiento al requisito de que conste por escrito, que sea suscrito con Firma Electrónica Simple.
-
-b) No existirían inconvenientes con que se delegue a una Corredora de Bolsa la facultad para preparar el poder.
-
-c) En relación con lo anterior, bastaría que el partícipe delegue una sola vez la facultad para preparar el poder, por lo que, con posterioridad a dicha delegación, la Corredora de Bolsa podría siempre acogerse a la franquicia establecida en el artículo 108 de la LIR, debiendo dar cumplimiento en todo caso, a lo dispuesto por la Resolución.
+d. El cesionario del derecho real de herencia, a criterio de este Servicio, &iquest;puede ser considerado un agente retenedor o un sustituto respecto a eventual declaración y pago de algún impuesto?
 
 II.- ANÁLISIS:
 
-En relación a su consulta, se puede expresar lo siguiente:
+1.- Este Servicio entiende que la consulta se refiere a la cesión de los derechos hereditarios en la herencia de un causante fallecido en el extranjero, por parte de dos ciudadanas domiciliadas también en el exterior, a un cesionario domiciliado en Chile. La herencia estaría compuesta por derechos sociales de una sociedad constituida en el país.
 
-1.- En primer término, de conformidad con lo dispuesto en el inciso 3°, del artículo 108 de la LIR, como regla general, no se considera rescate, la liquidación de las cuotas de un Fondo Mutuo que haga el partícipe para reinvertirlo en otro Fondo Mutuo. Para tales efectos y en conformidad con lo dispuesto en este mismo inciso, el partícipe debe instruir a la sociedad administradora del Fondo en que mantiene su inversión, mediante un poder que deberá cumplir las formalidades y contener las menciones mínimas que este Servicio establezca mediante Resolución, para que liquide y transfiera, todo o parte del producto del rescate de su inversión, a otro Fondo Mutuo administrado por ella o bien a otra sociedad administradora, quien lo destinará a la adquisición de cuotas en uno o más de los Fondos Mutuos administrados por ella. En la Circular N° 67, del año 2016 se concluyó que, para que no se considere rescate la suma obtenida en la liquidación de las cuotas, esta sólo podrá ser invertida en un Fondo Mutuo de aquellos a los que se refiere el mismo artículo 108.
+Al respecto, de conformidad a lo dispuesto por el artículo 3º de la LIR, toda persona con domicilio o residencia en Chile, se encuentra afecta a impuesto sobre sus rentas de cualquier origen, sea que la fuente de sus rentas esté situada dentro o fuera del país; mientras que las personas no residentes en Chile, están afectas a impuesto solamente sobre sus rentas cuya fuente esté situada dentro del país.
 
-Las formalidades y menciones mínimas que debe contener el mandato antes indicado fueron establecidas por este Servicio mediante la Resolución Ex. N° 136, de 2007; la que dispone que el referido mandato, deberá conferirse por escrito, de conformidad con el formato que contiene la Resolución, y contener al menos las menciones a que se refiere, con el objeto de acogerse al beneficio que establece la citada norma legal.
+De lo expuesto, se desprende que la LIR, contempla un principio dual de jurisdicción para la aplicación de sus normas; ya que, por un lado, sustenta el principio de la residencia o renta mundial, respecto de las personas residentes en Chile, y por otro, el principio de la fuente, respecto de los no residentes en el país.
 
-2.- En segundo lugar, la Ley N° 19.799 , en su artículo 2° letra f), define la firma electrónica como &ldquo;cualquier sonido, símbolo o proceso electrónico, que permite al receptor de un documento electrónico identificar al menos formalmente a su autor&rdquo;.
+Ahora bien, para la aplicación de estos principios, el artículo 10 de la ley del ramo, preceptúa que se consideran rentas de fuente chilena las que provienen de bienes situados en el país o de actividades desarrolladas en él, cualquiera que sea el domicilio o residencia del contribuyente; enumerando algunas rentas que se consideran de fuente interna. Por su parte, y a contrario sensu de lo antes señalado, son rentas de fuente extranjera aquellas provenientes de bienes situados en el extranjero y de actividades desarrolladas en el mismo lugar.
 
-La letra g) del mismo artículo agrega que firma electrónica avanzada es aquella certificada por un prestador acreditado, que ha sido creada usando medios que el titular mantiene bajo su exclusivo control, de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección posterior de cualquier modificación, verificando la identidad del titular e impidiendo que desconozca la integridad del documento y su autoría.
+Para los fines de la calificación de la fuente de las rentas provenientes de operaciones sobre acciones y derechos sociales, el artículo 11 de la LIR, dispone que se entenderá que están situadas en Chile las acciones de una sociedad anónima constituida en el país, aplicándose igual regla en el caso de derechos en sociedades de personas.
 
-Por su parte, el artículo 3º de la misma Ley, establece que: &ldquo;Los actos y contratos otorgados o celebrados por personas naturales o jurídicas, suscritos por medio de firma electrónica, serán válidos de la misma manera y producirán los mismos efectos que los celebrados por escrito y en soporte de papel. Dichos actos y contratos se reputarán como escritos, en los casos en que la ley exija que los mismos consten de ese modo, y en todos aquellos casos en que la ley prevea consecuencias jurídicas cuando constan igualmente por escrito.
+El artículo 17 N° 8, de la LIR, establece la situación tributaria del mayor valor obtenido en la enajenación de derechos sociales en sociedades de personas. De acuerdo a las normas de jurisdicción tributaria antes citadas, si los derechos en sociedades de personas están situados en Chile, dicha tributación se aplicará sea que la enajenación se realice por un contribuyente domiciliado o residente en Chile o en el extranjero.
 
-&ldquo;Lo dispuesto en el inciso anterior no será aplicable a los actos o contratos otorgados o celebrados en los casos siguientes:
+2.- En segundo lugar, atendidos los términos en que se formula la consulta y por abarcar instituciones de un derecho extranjero, en principio no es posible confirmar en qué calidad el cesionario recibe los derechos en la herencia. Siendo así, a continuación, se expondrán solo criterios generales, quedando a las instancias de fiscalización respectiva, la función de verificar el cumplimiento de los supuestos legales.
 
-a) Aquellos en que la ley exige una solemnidad que no sea susceptible de cumplirse mediante documento electrónico;
+De acuerdo al artículo 955 del Código Civil, la sucesión en los bienes de una persona se abre al momento de su muerte en su último domicilio; salvos los casos expresamente exceptuados. Agrega esta disposición legal que la sucesión se regla por la ley del domicilio en que se abre; salvas las excepciones legales.
 
-b) Aquellos en que la ley requiera la concurrencia personal de alguna de las partes, y
+Al menos conforme a nuestro ordenamiento jurídico, en la sucesión por causa de muerte se sucede a una persona a título universal en todos sus bienes, derechos y obligaciones, o en una cuota de ellos , siendo los asignatarios a título universal herederos que &ldquo;representan a la persona del testador para sucederle en todos sus derechos y obligaciones transmisibles&rdquo; . Asimismo, cabe señalar que, conforme a nuestro sistema jurídico, a la muerte del causante se verifica una comunidad hereditaria, en la cual los herederos participan como &ldquo;comuneros&rdquo;.
 
-c) Aquellos relativos al derecho de familia.
+De acuerdo a esta misma legislación , el objeto de una cesión del derecho de herencia se constituye por la universalidad o la cuota que corresponde al cedente en el conjunto de bienes, derechos y obligaciones que comprende el haber hereditario. De tal forma, este Servicio ha concluido que , mediante la cesión de los derechos hereditarios, una persona no transfiere el dominio de bienes determinados al adquirente, sino que transfiere a ésta sus derechos hereditarios en una universalidad de bienes que conforman la masa hereditaria dejada por la causante, es decir, la universalidad jurídica denominada derechos hereditarios, que no puede ser confundida con los bienes que la componen.
 
-&ldquo;La firma electrónica, cualquiera sea su naturaleza, se mirará como firma manuscrita para todos los efectos legales, sin perjuicio de lo establecido en los artículos siguientes.&rdquo;
+De ello se sigue que, el coasignatario que vende o cede su derecho en la herencia no transfiere alguna propiedad en particular, sino su cuota en dicha universalidad, especialmente para que el cesionario pueda pedir, con arreglo al artículo 1320 del Código Civil, la partición e intervenir en ella, con la finalidad de liquidar esa porción y se la entere con bienes singulares o con los valores que podrían haber correspondido a su cedente y vendedor.
 
-De lo anterior se desprende que la firma electrónica presupone la existencia de un documento electrónico para ser firmado; y que por lo tanto no tiene existencia autónoma o individual, sino que supone un documento que es firmado, por una parte, y recibido por la otra o &ldquo;receptor&rdquo;.
+Si bien es cierto que el mayor valor obtenido en la cesión de los derechos hereditarios es naturalmente una renta -y así lo ha señalado este Servicio en Oficio N° 2730, de 2016-, dicho mayor valor obtenido no estaría en principio afecto a los impuestos generales de la LIR, en la medida que las personas naturales cedentes no tengan domicilio ni residencia en Chile, se trate de la sucesión de una persona fallecida en el exterior, y que de acuerdo a la legislación del país donde se abrió la sucesión, el objeto de lo cedido es la posición jurídica del heredero como titular del derecho sobre la herencia.
 
-Basado en lo anterior, no existe impedimento para que el poder a que se refiere el artículo 108 de la LIR para la liquidación y reinversión de las cuotas del Fondo, se pueda otorgar por el partícipe mediante una plataforma y firma electrónica digital, de acuerdo a lo previsto en la Ley N° 19.799. Por lo tanto, el partícipe, a través de una firma electrónica, podrá manifestar su voluntad de acogerse a la franquicia señalada, entendiéndose en tal caso que el poder consta por escrito; siempre que se opere a través de técnicas y medios electrónicos con firma electrónica que se ajusten al procedimiento descrito por la referida Ley; y que tales medios permitan acreditar el cumplimiento de los requisitos del artículo 108 inciso 3° de la LIR y Resolución Ex. N° 136, de 2007.
+Cabe tener presente por otro lado que la norma especial de tributación, dispuesta por el artículo 17 N° 8, letra a), de la LIR, que regula la situación de la cesión de derechos sociales en sociedades de personas, no resulta aplicable en la situación que expone, ya que la renta no se obtiene como consecuencia de la transferencia de los derechos sociales comprendidos en la masa hereditaria, en atención a lo ya señalado, es decir, en la medida que lo cedido es la universalidad jurídica denominada derechos hereditarios, y no los bienes que la componen; convención distinta a la cesión de derechos sociales, que es un contrato solemne, y que se traduce en la modificación del contrato social.
 
-Dichos antecedentes podrán ser solicitados por este Servicio en ejercicio de sus facultades de fiscalización; para lo cual deberá disponerse del soporte del medio almacenado digitalmente en el que conste el referido Mandato.
+3.- En tercer lugar cabe analizar si en el caso en consideración, resulta aplicable la norma de control contenida en el inciso 3° del artículo 10 de la LIR, que contempla nuevos casos de renta de fuente chilena, estableciendo que se considerarán como tales y se afectarán con el Impuesto Adicional (IA) establecido en el N° 3, del artículo 58 de la LIR, las rentas obtenidas por contribuyentes no domiciliados ni residentes en el país, en la enajenación de determinados títulos o instrumentos, cuyos valores, en todo o parte, se encuentren representados por uno o más de los activos subyacentes situados en Chile que la disposición legal especifica.
 
-3.- En tercer término, este Servicio ha sostenido que , no existen inconvenientes legales para que un partícipe otorgue un mandato a un agente intermediario, para que éste a su vez firme, en su representación, el mandato para invertir el producto de la liquidación de las cuotas de un Fondo Mutuo en otro Fondo Mutuo, para que proceda el beneficio tributario establecido en el inciso 3°, del artículo 108 de la LIR, siempre que el respectivo mandato sea otorgado en forma previa a la liquidación de las cuotas, y la institución intermediaria, dé cumplimiento a todas las obligaciones establecidas por la Ley y por las instrucciones dictadas por este Servicio.
+Dicha norma legal comprende tres distintas hipótesis de hecho gravado, todas ellas provenientes de la enajenación efectuada por una persona sin domicilio ni residencia en el país, de derechos sociales, acciones, cuotas, bonos u otros títulos convertibles en acciones o derechos sociales, o de otros derechos representativos del capital, de una persona jurídica constituida o residente en el extranjero, o de títulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, constituido, formado o residente en el extranjero.
 
-También se ha señalado que este mandato debe ser específico, individualizar al mandante y mandatario; y contener las menciones mínimas del mandato que se le autoriza a firmar.
+De las hipótesis que establece el inciso 3° del artículo 10 de la LIR, se concluye que en principio se refieren a distintas formas de transferencia o enajenación de títulos de propiedad sobre determinados activos extranjeros, esto es, inversiones efectuadas en acciones, cuotas, títulos o derechos de la persona, patrimonio o entidad extranjera, que representan en forma indirecta, activos subyacentes situados en Chile.
 
-En relación a lo anterior, y luego del análisis del inciso 3° del artículo 108, se estima necesario complementar el criterio contenido sobre la materia en anteriores Oficios, en el sentido que puede otorgarse un mandato general a cualquier persona, natural o jurídica para administrar la reinversión de los fondos, sin perjuicio de que el mandato que este intermediario confiera a la administradora de FM, deberá dar cumplimiento a todos los requisitos que se establecen en la Resolución Ex. N° 136, del año 2007; es decir, el mandato que se otorgue deberá ser específico, individualizar al mandante y mandatario; y contener las menciones mínimas del mandato a que se refiere ese instructivo, a efectos de acceder al beneficio que esa norma legal contempla .
+En cambio, en la convención en cuestión (cesión de derechos hereditarias), se manifiesta un ánimo distinto de aquél a que se refiere la norma legal antes citada, toda vez que dice relación con una universalidad jurídica o cuota de ésta (como objeto del derecho real de herencia ), y que constituye un todo distinto de los bienes individuales que la componen, sin que puedan derivarse consecuencias particulares respecto de éstos. Es decir, la adquisición de los derechos en la sucesión no tiene su fuente en el ánimo o voluntad de adquirir y transferir títulos o &ldquo;derechos de propiedad&rdquo; sobre activos extranjeros que sean representativos de subyacentes situados en Chile; sino que dicha adquisición se efectúa por disposición legal y no por la mera voluntad de los herederos cedentes.
 
-En tales circunstancias, a juicio de este Servicio se cumple con lo establecido en el artículo 108, inciso 3° de la LIR, esto es, que el poder sea otorgado por el partícipe a la sociedad administradora del Fondo Mutuo, ya que conforme a lo establecido en el artículo 1448 del Código Civil, lo que una persona ejecute a nombre de otra, estando facultada por ella o por la Ley para representarla, produce respecto del representado iguales efectos que si hubiese contratado él mismo. Por lo tanto, bajo estas premisas los efectos del acto celebrado en representación del partícipe producen respecto de éste, los efectos a que se refiere esa norma legal, en cuanto a la posibilidad de acceder al beneficio en comento.
+4.- Sin perjuicio de lo anterior, cabe consignar que el artículo 27 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, dispone que cuando la sucesión se abra en el extranjero, deberá pedirse en Chile, no obstante lo dispuesto en el artículo 955 del Código Civil, la posesión efectiva de la herencia respecto de los bienes situados dentro del territorio chileno (los derechos sociales de la sociedad que señala), para los efectos del pago de los impuestos establecidos por esta ley. La posesión efectiva, en este caso, deberá pedirse en el lugar en que tuvo el causante su último domicilio en Chile, o en el domicilio del que pida la posesión efectiva, si aquél no lo hubiere tenido.
 
-Para estos efectos, el mandato otorgado a la institución intermediaria, deberá cumplir con todos los resguardos para individualizar el encargo otorgado; con clara indicación del mandante y mandatario y contener las indicaciones mínimas que permitan identificar a la sociedad administradora a quien se conferirá mandato; e indicar, en su caso, el o los fondos mutuos en los cuales se mantienen las cuotas a liquidar y transferir; antecedentes que podrán ser solicitados por este Servicio en ejercicio de sus facultades de fiscalización.
+Según se ha expresado en anteriores Oficios , este Servicio se encuentra facultado para exigir, en su caso, el cobro del impuesto al cesionario en su calidad de &ldquo;asignatario&rdquo;.
 
-III.- CONCLUSIONES:
+III.- CONCLUSIÓN:
 
-Basado en las consideraciones anteriores, en relación a sus consultas se puede señalar lo siguiente:
+El mayor valor obtenido en la cesión de derechos hereditarios de un causante que fallece en el exterior, no se encuentra afecto a los impuestos de la LIR, en caso que la cesión sea efectuada por personas que no tienen residencia ni domicilio en el país; calidades estas últimas que podrán ser verificadas en las respectivas instancias de fiscalización. Lo anterior, se debe entender sin perjuicio de la aplicación de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones respecto de los bienes situados en Chile.
 
-a) El poder a que se refiere el inciso 3°, del artículo 108 de la LIR, puede ser otorgado por el partícipe, sujeto a las normas de la Ley N° 19.799, sobre documentos y firma electrónica; cumpliéndose con el requisito de que conste por escrito, en caso que sea suscrito con Firma Electrónica Simple, de acuerdo a los términos de esa Ley.
+En principio no resulta aplicable el inciso 3° del artículo 10 de la LIR, al caso de cesión de derechos hereditarios, ya que los cedentes no enajenan o venden indirectamente, títulos de propiedad sobre los activos subyacentes situados en Chile, siempre que el objeto de la cesión sea la universalidad jurídica o cuota de ésta en la que se sucede al fallecimiento del causante, como es el derecho real de herencia abierta en el extranjero.
 
-A estos efectos, deberá considerarse que el artículo 5° de la Ley señalada establece que en el caso de documentos electrónicos que posean la calidad de instrumento privado y estén suscritos mediante firma electrónica, tendrán el valor probatorio que corresponda, de acuerdo a las reglas generales.
-
-b) No existe inconveniente legal para que un partícipe otorgue un mandato a un agente intermediario, para que éste a su vez firme en su representación el poder para invertir el producto de la liquidación de las cuotas, en otro Fondo Mutuo o en otra administradora; el que deberá ser acreditado fehacientemente; debiendo la institución intermediaria, dar cumplimiento a todas las obligaciones establecidas por la Ley y por las instrucciones dictadas por este Servicio.
-
-c) El partícipe podrá delegar a cualquier persona, natural o jurídica, a través de un mandato general para reinvertir sus Fondos Mutuos, la facultad para preparar el poder aludido en la letra b), conforme a las reglas generales aplicables al contrato de mandato. En todo caso, el poder otorgado a la sociedad administradora de FM, deberá ser específico y cumplir con los requisitos y formalidades establecidas por la Resolución Ex. N°136, de 2007, para efectos que el partícipe pueda sujetarse al beneficio que establece el inciso 3°, del artículo 108, de la LIR.
+En todo caso, la enajenación de los bienes que se comprenden en la masa hereditaria (entre ellos los derechos sociales), que efectúe el adquirente de los derechos hereditarios -residente o domiciliado en Chile-, se encuentra sujeta a las normas generales de la LlR; pudiendo este Servicio ejercer sus funciones de tasación y fiscalización, que tiene conforme a ese texto legal y el Código Tributario.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1959, de 20.09.2018
+Oficio N° 1960, de 20.09.2018
 
 Subdirección Normativa
 

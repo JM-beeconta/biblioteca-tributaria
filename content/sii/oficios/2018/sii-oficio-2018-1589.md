@@ -6,129 +6,75 @@
 - Año: 2018
 - Fecha: 2018-03-22
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja532.doc
-- Hash SHA-256: 8260957b07ed4572f48bfce99711df839927d3ba8184a3ce08ba741655e6d957
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja549.htm
+- Hash SHA-256: a17300c274b4a162716a80d4fce0bac6e544016e10909d0f5c54d899cb5ba9fd
 
 ## Resumen
 
-ja549.htm' rel='modal'>Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°5, Art. 21 &ndash; . (Ord. Nº 549, de 22-03-2018) | Word Tratamiento tributario del aporte fundacional, y otros actos relacionados con una Fundación. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20, N°5 &ndash; Circular N° 31, de 2007, Circular N° 31, de 2014. (Ord. Nº 532, de 19-03-2018) | Word Tributación que podría afectar a una embajada que obtenga ingresos constitutivos de renta Renta &ndash; Actual Ley sobre I…
+a en servicio activo. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°5, Art. 21 &ndash; . (Ord. Nº 549, de 22-03-2018) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":31,"year":2007}
-- {"type":"circular","number":31,"year":2014}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"oficio","number":1589,"year":2014}
+- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"articulo","law":"LIR","article":"21"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N°5 – CIRCULAR N° 31, DE
-        2007, CIRCULAR N° 31, DE 2014.  (ORD. N° 532, DE 19.03.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°5, ART. 21 – OFICIO N° 1589, DE 2014. (Ord. Nº 549, de 22-03-2018)
 
+TRATAMIENTO TRIBUTARIO DEL APORTE FUNDACIONAL, Y OTROS ACTOS RELACIONADOS CON UNA FUNDACIÓN.
 
+Se ha recibido en esta Dirección Nacional, su consulta relativa al tratamiento tributario de los aportes que se realicen a una Fundación.
 
-Tributación  que  podría  afectar  a  una  embajada  que  obtenga   ingresos
-constitutivos de renta
+I. ANTECEDENTES.
 
-Se ha trasladado a este  Servicio  su  consulta  sobre  la  tributación  que
-podría afectar a una embajada que obtenga ingresos constitutivos de renta.
+Señala que la sociedad de inversiones XXXX, tiene intenciones de constituir la Fundación YYYY, y en virtud de ello, efectuar un aporte inicial de bienes. Indica que el objeto de YYYY será la beneficencia, la difusión de la instrucción y el adelanto de la ciencia, sin perjuicio de que sus estatutos contemplarán que podrá "colaborar con otras fundaciones a través de financiamientos realizados por medio de convenios de aportes de dinero, préstamos de dinero y/o donaciones" para el cumplimiento de sus fines. Agrega que ninguna parte de los ingresos que pueda obtener YYYY beneficiarán o serán distribuidos a su fundador XXXX, ni directa ni indirectamente, ni tampoco serán utilizados con fines distintos a los propios de su objeto.
 
-I     ANTECEDENTES
+Respecto del aporte a efectuar por la empresa XXXX para constituir el patrimonio inicial de la Fundación YYYY, el consultante entiende que su tratamiento tributario sería similar a los aportes efectivos de capital efectuados por un socio o accionista a una sociedad, y en consecuencia corresponden a un acto de destinación de bienes para constituir una nueva persona jurídica, tomando la calidad de un "activo" para XXXX, entendiéndose por "activo" "todos los bienes y derechos que posee una empresa, susceptibles de ser valorados en dinero...&rdquo;, y por "bienes" toda cosa corporal o incorporar que, prestando una utilidad al hombre, es susceptible de apreciación pecuniaria.
 
-De acuerdo a su consulta, efectuada vía web a través  del  Sistema  Integral
-de Atención Ciudadana (SIAC) del Ministerio  de  Relaciones  Exteriores,  se
-solicita aclarar si una embajada extranjera en  Chile  está  autorizada  y/o
-puede, como delegación oficial, o por intermedio de  su  agregado  cultural,
-con el RUT de la embajada, realizar una actividad remunerada o lucrativa  en
-nuestro país.
+A su juicio, el tratamiento tributario antes señalado se desprende de múltiples pronunciamientos del Servicio de Impuestos Internos, por ejemplo, el Oficio N° 1.589 de 2014, en donde se afirma que &ldquo;&hellip;si dicho traspaso se verificaba al momento en que se constituyera la Fundación, este no queda gravado con los impuestos establecidos en la Ley sobre Impuesto a la Renta (LIR), por tratarse de un acto inicial de dotación a la nueva persona jurídica, que debe asimilarse a lo que acontece con los aportes de capital, exceptuados de tributación según el N° 5 del artículo 17 de la LlR, sin quedar tampoco gravados con el impuesto a las donaciones establecido en la Ley N° 16.271, por tratarse de una acto de destinación que no implica un desplazamiento de bienes entre sujetos de derecho preexistentes &rdquo;.
 
-Agrega que la actividad podría tener motivos o matices culturales,  pero  en
-definitiva la embajada podría percibir  un  ingreso  constitutivo  de  renta
-según la Ley sobre Impuesto a la Renta, clasificado en el artículo 20 N°  5,
-de dicho cuerpo legal.
+Agrega, que el activo correspondiente al aporte fundacional debe calificarse como incorporal, ya que puede ser percibido mental e intelectualmente. También, que su valoración equivalente a lo aportado, y que la utilidad que presta este activo para la empresa XXXX se refleja en el cumplimiento de su compromiso social empresarial, como es el apoyo que esta entidad entrega constantemente a instituciones que poseen fines de beneficencia, de difusión de la instrucción y el adelanto de la ciencia en el país, fines que por lo demás son los pilares fundamentales de la responsabilidad social empresarial de XXXX.
 
-Expone que la Circular N° 31 de 2007, no siendo muy clara, señala  que  como
-misión oficial no está autorizada a realizar actividades remuneradas.
+En razón de lo anterior, para la empresa XXXX, el acto dotacional no puede ser calificado de una forma distinta a un "activo" de carácter incorporal, cumpliéndose con la definición de activo entregada por este Servicio y en consecuencia, la inversión en YYYY al ser un aporte efectuado a una Fundación, permanecerá como un activo en el patrimonio de XXXX durante todo el periodo de vigencia de dicha sociedad, tal como sucede con las inversiones en cuotas de fondos, acciones o derechos sociales.
 
-Al respecto, junto con trasladar la consulta a este Servicio,  la  Dirección
-de  Atención  Ciudadana  y  Transparencia  del  Ministerio   de   Relaciones
-Exteriores solicita responderla directamente.
+Por otro lado, describe el tratamiento tributario que este Servicio ha señalado respecto de las erogaciones realizadas a la Fundación YYYY con posterioridad al acto de dotación inicial, en cuanto corresponden a donaciones sujetas al trámite de la insinuación y afectas al Impuesto a las Herencias, Asignaciones y donaciones establecido en la Ley N° 16.271, salvo que puedan acogerse a exenciones establecidas en leyes especiales (Oficio N° 1.040 de 2011).
 
-II    ANÁLISIS
+De esta forma, y en razón de los antecedentes expuestos, solicita confirmar los siguientes criterios:
 
-La Convención de Viena sobre Relaciones  Diplomáticas  y  la  Convención  de
-Viena sobre Relaciones Consulares, liberan de todo impuesto a las  embajadas
-y consulados por las actividades que realicen por su condición  de  tal.  Lo
-mismo ocurre respecto de las rentas oficiales del país que los  acredite  de
-los agentes diplomáticos y consulares.
+1) El acto inicial de dotación o aporte que efectúa la empresa XXXX a la Fundación YYYY en el acto fundacional y en su calidad de fundadora de YYYY, es asimilable a los aportes recibidos por las sociedades de parte de sus socios, los cuales no constituirán renta para la Fundación YYYY en virtud del N° 5 del artículo 17 de la LIR, y constituirán un "activo" para la empresa XXXX, atendido que dicho aporte debe asimilarse a los aportes que se efectúan en una nueva persona jurídica.
 
-Por lo expuesto, las instrucciones emitidas por el Servicio en  la  Circular
-N° 31 del 2007, citada en su presentación, que regula la  forma  de  cumplir
-con las obligaciones de solicitar la  inscripción  en  el  registro  de  Rol
-Único Tributario y de dar aviso de inicio de actividades,  así  como  en  la
-Circular N° 31 de 2014, que modifica la circular anterior en lo  relativo  a
-extranjeros, solo resultan aplicables a las rentas que no  se  amparan  bajo
-las Convenciones citadas.
+2) Las erogaciones posteriores que pueda efectuar la empresa XXXX a la Fundación YYYY deberían ser consideradas como donaciones susceptibles de acogerse a regímenes de excepción contenidos en la Ley N°16.271 o en leyes especiales, y en caso de cumplirse los requisitos pertinentes.
 
-En efecto, la Circular N° 31 de 2014, tras precisar en  el  punto  4.2.  que
-los diplomáticos, funcionarios internacionales acreditados ante el  Gobierno
-de Chile, misiones oficiales o de asistencia técnica y sus  familiares,  por
-regla general, no están autorizados para  realizar  actividades  remuneradas
-en el país y que, al igual que los turistas, no requieren RUT para  efectuar
-compras, consumos, servicios y/o suscribir contratos propios de  su  estadía
-en el país, deben inscribirse en el registro  RUT  en  ciertos  casos,  como
-cuando  se  realizan  actividades  remuneradas,   conforme   las   referidas
-instrucciones.
+3) La Fundación YYYY, podrá colaborar con otras fundaciones a través de financiamientos realizados por medio de convenios de aportes de dinero, préstamos de dinero y/o donaciones para el cumplimiento de sus fines.
 
-De acuerdo con lo anterior, las misiones  diplomáticas  y  los  funcionarios
-diplomáticos que sean autorizados para realizar actividades  remuneradas  en
-el país, quedan sujetos al pago de los impuestos de la Ley sobre Impuesto  a
-la Renta, según el tipo de actividad que  realicen,  no  existiendo  ninguna
-norma legal que los exima de impuesto.
+II.- ANÁLISIS.
 
-Al respecto, se precisa que la Circular N° 31 de  2014  instruye  sobre  los
-antecedentes requeridos  para  obtener  RUT  y/o  dar  Aviso  de  inicio  de
-actividades, específicamente en el caso de  personas  naturales  extranjeras
-autorizadas para realizar  actividades  en  el  país  (6.2.1.),  tales  como
-residentes oficiales y familiares de residentes oficiales.
+De acuerdo al artículo 545 del Código Civil, las fundaciones son personas jurídicas formadas mediante la afectación de bienes a un fin determinado de interés general.
 
-Finalmente, las rentas gravadas que se  obtengan  por  esas  actividades  se
-clasificarán en algunos de los numerales del artículo 20  de  la  Ley  sobre
-Impuesto  a  la  Renta,  según  corresponda  al  tipo  de  actividad,  y  no
-necesariamente en el N° 5 del referido artículo.
+En relación con el aporte de bienes que el fundador efectúa en la constitución de una Fundación, efectivamente este Servicio señaló en el Oficio N° 1.589 de 2014, que dicho acto &ldquo;debe asimilarse a lo que acontece con los aportes de capital&rdquo;. Sin embargo, tal asimilación mira únicamente la perspectiva de la Fundación receptora del aporte, pues con ello le ha sido aplicable la norma liberatoria de tributación contemplada en el N° 5 del artículo 17 de la LIR, respecto del valor de los aportes recibidos por sociedades, ahora extensible a los recibidos por una fundación o asociación.
 
-Lo anterior es relevante, por  ejemplo,  frente  al  hecho  gravado  general
-“servicio”, de la Ley sobre Impuesto al Valor Agregado, que grava la  acción
-o prestación que una persona realiza para otra y  por  la  cual  percibe  un
-interés, prima, comisión o cualquiera otra forma  de  remuneración,  siempre
-que provenga del ejercicio de las actividades comprendidas en los Nº 3 y  4,
-del artículo 20, de la Ley sobre Impuesto a la Renta.
+Desde la perspectiva del fundador, su aporte inicial no implica como contrapartida, la adquisición de derechos sociales, cuotas o acciones en la Fundación, como sucede en el aporte de sociedades, de manera que resulta improcedente estimar que en tal aporte exista un intercambio de un bien por otro, representativo de un bien incorporal. En su lugar, debe entenderse que el aporte fundacional corresponde a un retiro de especies o de cantidades representativas de desembolsos de dinero, que se afectará con la tributación del artículo 21 de la LIR, si es efectuado por un contribuyente de la primera categoría que declare sus rentas efectivas de acuerdo a un balance general según contabilidad completa.
 
-III   CONCLUSIÓN
+En cuanto a las erogaciones que efectúe la empresa XXXX a la Fundación YYYY con posterioridad a su constitución, es posible señalar que efectivamente ellas corresponden a donaciones afectas a la tributación de la Ley N° 16.271, sin perjuicio de que puedan acogerse a alguna exención contemplada en esa misma ley, o bien en otra norma particular. Desde el punto de vista de la LIR, el desembolso incurrido para el pago de las erogaciones indicadas, tampoco califica como un gasto necesario para producir la renta de conformidad con las reglas generales, pasando a constituir gasto rechazado de su artículo 21 , sin perjuicio de que pueda liberarse de dicha tributación, al acogerse a alguna norma especial sobre donaciones. Desde el punto de vista de la Fundación, tales pagos se asimilan a las cuotas que eroguen los asociados, ingresos no renta según el numeral 11 del artículo 17 de la LIR.
 
-En términos generales, las rentas que obtengan las misiones  diplomáticas  y
-los  funcionarios  diplomáticos   que   sean   autorizados   para   realizar
-actividades remuneradas en el  país,  no  se  amparan  bajo  las  exenciones
-previstas  en  la  Convención  de  Viena  sobre  Relaciones  Diplomáticas  y
-Consulares, de suerte que quedan sujetas a impuestos y  al  cumplimiento  de
-las demás obligaciones tributarias, conforme las reglas generales.
+Finalmente, cabe señalar que el artículo 557-2 del Código Civil, autoriza a las asociaciones y fundaciones a realizar actividades económicas que se relacionen con sus fines, y en consecuencia, las rentas que ellas produzcan, deberán sujetarse a las reglas generales de tributación. En efecto, este Servicio ha señalado reiteradamente que la LIR, salvo las excepciones taxativas que ella misma establece, no atiende a la naturaleza o finalidad de las personas para gravarlas o no con impuesto, sino que considera las actividades que estas realizan, los actos y contratos que ejecutan y los beneficios económicos que puedan obtener.
 
-No  es  competencia  de  este  Servicio   autorizar   a   los   funcionarios
-diplomáticos para realizar actividades remuneradas en el país.
+III.- CONCLUSIÓN.
 
+De acuerdo a lo señalado precedentemente, no es posible compartir el primer criterio consultado, de manera que el acto inicial de dotación o aporte efectuado a una Fundación, no tiene como contrapartida la adquisición de un activo o un bien incorporal para la empresa aportante, análoga a una acción, derecho social o cuota de participación.
 
+En cuanto al segundo criterio, se comparte el tenor de que las erogaciones que el fundador efectúe con posterioridad a la constitución de una Fundación, corresponden a donaciones afectas a la tributación de la Ley N° 16.271, sin perjuicio de que puedan acogerse a alguna exención contemplada en esa misma ley, o bien en una norma particular.
 
+En cuanto al tercer criterio consultado, cabe señalar que conforme a lo establecido en el artículo 557-2 del Código Civil, las asociaciones y fundaciones podrán realizar actividades económicas que se relacionen con sus fines. Asimismo, podrán invertir sus recursos de la manera que decidan sus órganos de administración. Agrega a continuación esta disposición, que las rentas que se perciban de esas actividades sólo deberán destinarse a los fines de la asociación o fundación o a incrementar su patrimonio. En razón de ello, las rentas obtenidas por el desarrollo de dichas actividades, deberán sujetarse a las reglas generales de tributación.
 
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 549, de 22.03.2018
 
-                           FERNANDO BARRAZA LUENGO
+Subdirección Normativa
 
-                                  DIRECTOR
-
-
-
-
-
-                        Oficio N° 532, de 19.03.2018
-                           Subdirección Normativa
-                         Dpto. de Técnica Tributaria
+Dpto. de Impuestos Directos

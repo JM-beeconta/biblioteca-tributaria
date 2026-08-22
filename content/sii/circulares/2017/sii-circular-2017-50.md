@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2017
-- Fecha: 2017-10-13
+- Fecha: 2017-10-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu50.pdf
 - Hash SHA-256: 666e4d5422e7bf0eb2e50922d8c6232b83fb36fca9604a4a5ef1c8319b18e7a1
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 51 del 13 de Octubre del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a c…
+oacute;n Normativa Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a contar del 1° de noviembre de 2016. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

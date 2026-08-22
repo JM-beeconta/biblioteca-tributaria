@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2020
-- Fecha: 2020-09-04
+- Fecha: 2020-08-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu55.pdf
 - Hash SHA-256: 58830850dddf66f9047a442411385d83318dab2ccb9d105a82680caa818eb5e6
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 56 del 04 de Septiembre del 2020 Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional. Fuente: Subdirección Normativa. Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado…
+acute;n Normativa. Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado por las Leyes N° 20.848, N° 20.899 y N° 21.210. Deja sin efecto la Circular N° 48 de 1978. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2020
-- Fecha: 2020-01-23
+- Fecha: 2020-01-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu7.pdf
 - Hash SHA-256: a4abff982e584184ec1ea97013c1540c333863c761896db91c75d23dba4c5b18
 
 ## Resumen
 
-;'> Fuente: Subdirección De Fiscalización Circular N° 8 del 23 de Enero del 2020 (Zip 2,6 MB) Suplemento Tributario con la normativa vigente para efectuar la Declaración de Impuestos Anuales a la Renta, correspondientes al año tributario 2020 Fuente: Oficina de Gestión Normativa Actualiza instrucciones para la aplicación &ldquo;F2890 EN LÍNEA&rdquo;, sobre declaración de enajenación e inscripción de bienes raíces y procedimiento de traspaso de información de Notarios y Conservadores de Bienes Raíces al Servicio de…
+oacute;n Normativa Actualiza instrucciones para la aplicación &ldquo;F2890 EN LÍNEA&rdquo;, sobre declaración de enajenación e inscripción de bienes raíces y procedimiento de traspaso de información de Notarios y Conservadores de Bienes Raíces al Servicio de Impuestos Internos. Deroga Circulares N°41, de 1998, N°10 de 2004, N°39 de 2007 y N°57 de 2008. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Impuestos Directos. Circular N° 42 del 11 de Junio del 2020 Imparte instrucciones sobre la tributación y régimen de administración del Impuesto al Valor Agregado a servicios realizados por prestadores domiciliados o residentes en el extranjero. Fuente: Impuestos Indirectos. Tabla de cálculos de reajustes, intereses y multas julio 2020. Fuente: Subdirección de Fiscalización. Circular N° 40 del 08 de Junio del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2020 e informa…
+uestos Indirectos. Tabla de cálculos de reajustes, intereses y multas julio 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

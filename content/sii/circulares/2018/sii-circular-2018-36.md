@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:10px;'> Fuente: Departamento de Asesoría Jurídica.Departamento de Defensa Judicial Penal Circular N° 37 del 09 de Julio del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2018 y el 9 de agosto del año 2018. Fuente: Oficina de Gestión Normativa Tablas de impuesto único de Segunda Categoría para el mes de agosto del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 35 del 28 de Junio del 2018 Tabla de cá…
+oacute;n Normativa Tablas de impuesto único de Segunda Categoría para el mes de agosto del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

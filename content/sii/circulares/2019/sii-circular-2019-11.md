@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2019
-- Fecha: 2019-03-11
+- Fecha: 2019-02-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu11.pdf
 - Hash SHA-256: 213b805b8d4e2c3e695e9de09df76afd15e00de53d2c5f352a083003f4c8ae33
 
 ## Resumen
 
-de cálculos de reajustes, intereses y multas abril 2019. Fuente: Subdirección de Fiscalización Circular N° 12 del 11 de Marzo del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Ges…
+Oficina de Gestión Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

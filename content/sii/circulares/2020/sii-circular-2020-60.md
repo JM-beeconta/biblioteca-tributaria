@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 61 del 11 de Septiembre del 2020 Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974. Fuente: Subdirección Normativa. Instruye sobre modificaciones introducidas por la Ley N° 21.210, en los regímenes tributarios establecidos en el Decreto Ley N° 3.529 de 1980, Decreto con Fuerza de ley N° 341 de 1977, del Ministerio de Hacienda, y en las leyes N°s 18.39…
+acute;n Normativa. Instruye sobre modificaciones introducidas por la Ley N° 21.210, en los regímenes tributarios establecidos en el Decreto Ley N° 3.529 de 1980, Decreto con Fuerza de ley N° 341 de 1977, del Ministerio de Hacienda, y en las leyes N°s 18.392, 19.149, 19.420, 19.709, 19.606 y 19.853. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

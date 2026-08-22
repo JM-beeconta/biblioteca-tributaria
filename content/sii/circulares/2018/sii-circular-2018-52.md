@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 53 del 12 de Noviembre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2018 y el 9 de diciembre del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 51 del 24 de Octubre del 2018 Tabla de cálculos de rea…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2018 y el 9 de diciembre del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

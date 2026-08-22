@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a de Gestión Normativa Circular N° 23 del 16 de Mayo del 2019 Se modifican instrucciones contenidas en el N° 4.1, de la Circular N° 12, de 18 de marzo de 1987, relativo a los requisitos que deben cumplir los contribuyentes para hacer uso del beneficio contenido en el Art. 29°, de la Ley N° 18.591, modificada por el Art. 392°, de la Ley N° 20.720. Fuente: Impuestos Indirectos Tabla de cálculos de reajustes, intereses y multas junio 2019. Fuente: Subdirección de Fiscalización Circular N° 21 del 10 de Mayo del 2019 V…
+Fuente: Impuestos Indirectos Tabla de cálculos de reajustes, intereses y multas junio 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

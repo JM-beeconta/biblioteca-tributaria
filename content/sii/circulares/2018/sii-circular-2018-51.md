@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 51
 - Año: 2018
-- Fecha: 2018-11-12
+- Fecha: 2018-10-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu51.pdf
 - Hash SHA-256: dd6534fc1513863975ba0fe5edc07a97abcffc8be385c408e22a1cf683ea84bf
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 52 del 12 de Noviembre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2018 y el 9 de diciembre del año 2018. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas noviembre 2018 Fuente: Subdirección de Fiscalización Circular N° 50 del 11 de Octubre del 2018 Aplicación de la Cláusula de la Nación más Favorecida a los convenios que indica Fuente: Subdirección Normativa Circular N° 49…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas noviembre 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

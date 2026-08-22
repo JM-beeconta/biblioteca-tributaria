@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 25
 - Año: 2017
-- Fecha: 2017-05-12
+- Fecha: 2017-04-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu25.pdf
 - Hash SHA-256: 270505fc2de3993b7f024f15ead4e61b1d32cadba0a00965be56b844e19fbc01
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 26 del 12 de Mayo del 2017 Tablas de Impuesto Único de segunda categoría para el mes de junio del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas mayo 2017. Fuente: Subdirección de Fiscalización Circular N° 24 del 12 de Abril del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas mayo 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

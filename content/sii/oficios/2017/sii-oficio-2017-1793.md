@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dash; Circular N° 35, de 2008. (Ord. Nº 1875, de 23-08-2017) | Word Solicita se ratifiquen o complementen las disposiciones tributarias que se indican en Oficio Ord. N° 3.298 del año 2015, del SII, respecto de la vigencia de la Circular N° 35 de 2008, en lo que dice relación con el beneficio tributario establecido en el artículo 107 de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Del Trabajo, Art. 3, Art. 48, Art. 49 &ndash; . (Ord. Nº 1874, de 23-08-2017) | Word So…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Del Trabajo, Art. 3, Art. 48, Art. 49 &ndash; . (Ord. Nº 1874, de 23-08-2017) |
 
 ## Referencias detectadas
 

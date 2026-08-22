@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2019
-- Fecha: 2019-12-09
+- Fecha: 2019-10-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu42.pdf
 - Hash SHA-256: 728002651808b4662512a3f645406c39ebee2f16ce7da23ff46d8486c5f689b9
 
 ## Resumen
 
-e noviembre de 2019 y el 9 de diciembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 43 del 11 de Noviembre del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Imparte instrucciones transitorias motivadas en la situación de emergencia y hechos posteriores relacionados. Fuente: Subdirección Jurídica Circular N° 41 del 10 de Octubre del 2019 Tabla de cálculos d…
+Oficina de Gestión Normativa Imparte instrucciones transitorias motivadas en la situación de emergencia y hechos posteriores relacionados. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

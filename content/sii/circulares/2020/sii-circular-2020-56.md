@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2020
-- Fecha: 2020-09-10
+- Fecha: 2020-09-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu56.pdf
 - Hash SHA-256: 3a29e2cdcf36fe8ca673a6aae4e2564b89d87b3b2429988587d1dfb89fbef3e8
 
 ## Resumen
 
-Fuente: Subdirección Jurídica. Circular N° 57 del 10 de Septiembre del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional. Fuente: Subdirección Normativa. Circular N° 55 del 18 de Agosto del 2020 Imparte instrucciones sobre exención a la impor…
+acute;n Normativa. Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

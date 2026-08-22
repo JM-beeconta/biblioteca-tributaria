@@ -6,77 +6,93 @@
 - Año: 2018
 - Fecha: 2018-04-13
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja703.htm
-- Hash SHA-256: 871c51a3371422d3906361d77073c54de7a11e3095dd0220bda443ebe901a4dd
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja704.htm
+- Hash SHA-256: 0523140ffc28345b3a72abac9b294e5300788f60abab6c491542a6dc3ccdc165
 
 ## Resumen
 
-Impuesto a la &ndash; Art. 31, N°5, Art. 41 &ndash; Código Tributario, Art. 64 &ndash; Ley N° 18.046, Art. 99 &ndash; Circular N° 45, de 2001 &ndash; . (Ord. Nº 704, de 13-04-2018) | Word Efectos tributarios, en relación al artículo 64 del Código Tributario, de una reestructuración empresarial consistente en la fusión por absorción de dos sociedades extranjeras por una sociedad domiciliada en Chile. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, letra A), Letra B), Art. 14 ter, Letra C), Art. 84. (O…
+ercado de Valores. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31, N°5, Art. 41 &ndash; Código Tributario, Art. 64 &ndash; Ley N° 18.046, Art. 99 &ndash; Circular N° 45, de 2001 &ndash; . (Ord. Nº 704, de 13-04-2018) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"84 L"}
-- {"type":"articulo","law":"LIR","article":"84 l"}
-- {"type":"articulo","law":"LIR","article":"14 ter l"}
-- {"type":"articulo","law":"LIR","article":"84"}
-- {"type":"articulo","law":"LIR","article":"72"}
-- {"type":"articulo","law":"LIR","article":"14 ter"}
-- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"circular","number":45,"year":2001}
+- {"type":"oficio","number":407,"year":2008}
+- {"type":"oficio","number":1778,"year":2017}
+- {"type":"oficio","number":705,"year":2017}
+- {"type":"articulo","law":"LIR","article":"41"}
+- {"type":"articulo","law":"LIR","article":"31"}
+- {"type":"articulo","law":"CT","article":"64"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, LETRA A), LETRA B), ART. 14 TER, LETRA C), ART. 84. (Ord. Nº 703, de 13-04-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°5, ART. 41 – CÓDIGO TRIBUTARIO, ART. 64 – LEY N° 18.046, ART. 99 – CIRCULAR N° 45, DE 2001 – OFICIO N° 407, DE 2008. (Ord. Nº 704, de 13-04-2018)
 
-CONSULTA SOBRE LA DETERMINACIÓN DE LA TASA DE PAGOS PROVISIONALES MENSUALES OBLIGATORIOS (PPMO) DEL ARTÍCULO 84 LETRA A) DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR), EN EL CASO DE LOS CONTRIBUYENTES QUE SE ACOGEN AL INCENTIVO AL AHORRO PARA MEDIANAS EMPRESAS ESTABLECIDO EN LA LETRA C, DEL ARTÍCULO 14 TER DE LA MISMA LEY.
+EFECTOS TRIBUTARIOS, EN RELACIÓN AL ARTÍCULO 64 DEL CÓDIGO TRIBUTARIO, DE UNA REESTRUCTURACIÓN EMPRESARIAL CONSISTENTE EN LA FUSIÓN POR ABSORCIÓN DE DOS SOCIEDADES EXTRANJERAS POR UNA SOCIEDAD DOMICILIADA EN CHILE.
 
-Determinación de la tasa de PPMO del artículo 84 letra a) de la LIR, en el caso de los contribuyentes que se acogen al incentivo al ahorro para medianas empresas que al efecto se establece en la letra C, del artículo 14 ter de la misma ley.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual se solicita un pronunciamiento sobre los efectos en relación al artículo 64 del Código Tributario, de una reestructuración empresarial, consistente en la fusión por absorción de dos sociedades extranjeras por parte de una sociedad domiciliada en Chile.
 
 I.- ANTECEDENTES.
 
-Señala que, de conformidad con las normas de incentivo a las medianas empresas contenidas en el artículo 14 ter letra C) de la LIR, las empresas cuyos ingresos del giro no hayan excedido un promedio de UF 100.000 en los tres últimos años, pueden efectuar una rebaja de la base imponible del Impuesto de Primera Categoría de un 50% de la renta líquida imponible que se mantenga invertida en la empresa, y con un tope máximo de UF 4.000.
+1.- Indica que NN es un ciudadano chileno, actualmente con domicilio y residencia en Chile, que estuvo radicado hasta principios de la década de los 90 fuera de nuestro país, en donde estuvo domiciliado y ejerció diversas ocupaciones lucrativas generadoras de rentas de fuente extranjera y por tanto no afectas a impuestos en Chile, hasta el momento que se radicó en el país.
 
-Por otra parte, indica, según las normas del artículo 84 letra a), las empresas deben determinar una tasa variable de PPMO para ser aplicada desde el período mensual de abril del año siguiente y hasta el mes de marzo del año subsiguiente. Para esta determinación, además de la tasa promedio de los doce meses del año anterior, se deben considerar el monto de los PPMO e impuesto de Primera Categoría de ese mismo año anterior. Con motivo de esta rebaja, expresa, han surgido las siguientes dudas sobre el impuesto de Primera Categoría que se debe considerar en la determinación de la tasa de PPMO a ser aplicada desde el período mensual de abril del año siguiente:
+Entre sus principales activos, figura la propiedad del 100% de las acciones nominativas de una sociedad anónima panameña, S1, adquiridas en el año 1985. A su vez, S1 es dueña desde el año 1996, del 100% de las acciones nominativas de otra sociedad panameña, S2.
 
-a) Se debe considerar el impuesto determinado una vez efectuada la rebaja señalada o se debe considerar el impuesto que correspondería haber aplicado de no mediar dicha rebaja;
+Por su parte, S2 es dueña de alrededor del 63,95% de las acciones de una sociedad por acciones chilena, CH1, que tiene diversas inversiones en sociedades operativas chilenas, generando en su conjunto más de un 70% de los resultados financieros y tributarios de las entidades por la vía de explotación del giro inmobiliario a través de la venta de inmuebles.
 
-b) Existe alguna diferencia de procedimiento dependiendo si el contribuyente va a tributar según las normas del sistema de renta atribuida del artículo 14 A) o en base a retiros del sistema del artículo 14 B).
+Los otros accionistas de CH1 son NN con un porcentaje de alrededor del 3.37%, perteneciendo el 32.67% restante de sus acciones a una sociedad de responsabilidad limitada Española, acogida al tratamiento impositivo de las denominadas "ETVE" [1] en dicho país, en las que NN no posee participación alguna ni directa ni indirectamente.
 
-Indica finalmente, que esta situación ya se presentará en la determinación de tasa de PPM que deberá calcularse para los períodos mensuales de abril 2018 en adelante, y para ello se deberá considerar el impuesto determinado para el año comercial 2017.
+2.- Señala que con el objeto de simplificar la estructura de las empresas y de facilitar las reglas de sucesión de los bienes, radicando la totalidad de su patrimonio en Chile, se someterá a consideración de las entidades involucradas, la aprobación de una fusión por incorporación de S1 y S2, en CH1, que sería la entidad absorbente. El acuerdo de fusión se materializaría tomando como base el valor tributario de los activos y pasivos en las tres compañías que se fusionen de acuerdo a la legislación chilena.
+
+Señala que la fusión entre compañías panameñas y extranjeras se encuentra regulada por la legislación de dicho país. [2] Añade que conforme a la legislación de Panamá [3] , la fusión como institución comparte los elementos de la fusión de acuerdo al concepto del artículo 99 de la Ley N° 18.046.
+
+La fusión se materializaría en un solo acto, por el cual S1, S2 y CH1 acordarán fusionarse, debiendo cumplirse las formalidades para el acuerdo de fusión tanto de la República de Panamá como de la República de Chile.
+
+Indica que los efectos tributarios de dicha reorganización se radicarán íntegramente en Chile, ya que tanto la fusionante, CH1, como el único accionista que recibirá acciones de esta en canje, son contribuyentes con domicilio y residencia en Chile.
+
+3.- En atención a lo que expone, y teniendo especial consideración por lo expuesto en Oficio N°1778 de 2017 de este Servicio solicita confirmar que, de acuerdo con lo dispuesto en el inciso 4° del artículo 64 del Código Tributario, el Servicio de Impuestos Internos se encuentra inhibido de la facultad de tasar la reorganización precedentemente descrita, siempre y cuando la sociedad que subsista, CH1, luego de la fusión mantenga registrados los activos y pasivos que se les traspasen al valor tributario que tenían estos en las sociedades que desaparecen; y que la fusión de las sociedades panameñas tengan las mismas características que en nuestro país, según la legislación vigente, para cuya validación acompaña un informe en derecho emitido por profesionales letrados del referido país.
 
 II.- ANÁLISIS.
 
-Sobre el particular cabe expresar que los contribuyentes obligados por la LIR a presentar declaraciones anuales de Primera Categoría, deben efectuar mensualmente pagos provisionales a cuenta de los impuestos anuales que les corresponda pagar.
+De la presentación se desprende que la reestructuración empresarial planteada consiste en una fusión por absorción por parte de una sociedad por acciones (CH1) domiciliada en Chile [4] , de su matriz domiciliada en Panamá (S2); y la absorción de otra sociedad también domiciliada en Panamá (S1), que es propietaria del 100% de los derechos en S2. Todo ello, según lo que indica, con el fin de radicar en Chile la totalidad del patrimonio de la persona natural NN que, mediante canje de acciones quedará como propietario mayoritario de CH1 que será la sociedad subsistente.
 
-Sobre la determinación de dichos pagos provisionales, en el caso de los contribuyentes que declaran sus impuestos sobre renta efectiva, los inciso segundo, tercero y cuarto de la letra a) del artículo 84 de la LIR, establecen que:
+En relación a la consulta, la fusión de sociedades se encuentra definida en el artículo 99 de la Ley N° 18.046, como la reunión de dos o más sociedades en una sola que las sucede en todos sus derechos y obligaciones, y a la cual se incorporan la totalidad del patrimonio y accionistas de los entes fusionados.
 
-&ldquo;El porcentaje aludido en el inciso anterior se establecerá sobre la base del promedio ponderado de los porcentajes que el contribuyente debió aplicar a los ingresos brutos mensuales del ejercicio comercial inmediatamente anterior, pero debidamente incrementado o disminuido en la diferencia porcentual que se produzca entre el monto total de los pagos provisionales obligatorios, actualizados conforme al artículo 95, y el monto total del impuesto de primera categoría que debió pagarse por el ejercicio indicado, sin considerar el reajuste del artículo 72.
+El artículo 64 del Código Tributario concede a este Servicio la facultad de tasar el precio o valor asignado al objeto de la enajenación de una especie mueble, corporal o incorporal, o al servicio prestado, cuando dicho precio o valor sirva de base o sea uno de los elementos para determinar un impuesto y este sea notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operación. Sin embargo, su inciso cuarto dispone que no se aplicará esta facultad de tasación, &laquo;en los casos de división o fusión por creación o por incorporación de sociedades, siempre que la nueva sociedad o la subsistente mantenga registrado el valor tributario que tenían los activos y pasivos en la sociedad dividida o aportante&raquo;.
 
-Si el monto de los pagos provisionales obligatorios hubiera sido inferior al monto del impuesto anual indicado en el inciso anterior, la diferencia porcentual incrementará el promedio de los porcentajes de pagos provisionales determinados. En el caso contrario, dicha diferencia porcentual disminuirá en igual porcentaje el promedio aludido.
+Al respecto, la Circular N° 45 de 2001 de este Servicio, que dictó las instrucciones relativas al referido inciso cuarto, que fue incorporado por la Ley N° 19.705 de 2000, explica que lo dispuesto en el artículo 64 del Código Tributario, especialmente lo establecido en su inciso tercero, no tendrá aplicación en los siguientes casos&hellip;..: 2) Fusión de sociedades, ya sea, por creación o por incorporación de sociedades , siempre y cuando la nueva sociedad que nazca producto de la fusión por creación o la que subsista con motivo de la fusión por incorporación, respecto de los activos y pasivos que se les traspasen, los mantengan registrados al valor tributario que tenían estos en la sociedad que desaparece o subsiste producto de dicha fusión.
 
-El porcentaje así determinado se aplicará a los ingresos brutos del mes en que deba presentarse la declaración de renta correspondiente al ejercicio comercial anterior y hasta los ingresos brutos del mes anterior a aquel en que deba presentarse la próxima declaración de renta. &ldquo;
+Señala la Circular que producto de la figura jurídica precitada, las sociedades que se fusionan pueden traspasar los activos y pasivos a las nuevas sociedades que nacen o subsisten con motivo de tal acto jurídico, al valor por el cual estos figuran contabilizados en sus registros contables (valor financiero); pero dicha norma legal impone como condición indispensable para que no sea aplicable lo que ella establece que las sociedades que reciben dichos activos y pasivos en sus registros contables deben mantener registrado en forma separada su valor tributario de las referidas partidas, con el fin de que estas puedan dar cumplimiento a sus obligaciones tributarias respecto de dicho valor, como por ejemplo, para los fines de su revalorización conforme a las normas del artículo 41 de la LIR; su depreciación según el artículo 31 N°5 de la referida Ley; la determinación del mayor o menor valor que se pueda obtener en el caso de su enajenación a terceros o por cualquiera otra circunstancia.
 
-Conforme a lo establecido en las disposiciones precedentemente transcritas, aparece claro que, para los fines del recalcular anualmente la tasa de pagos provisionales mensuales obligatorios, de acuerdo con el procedimiento que en ellas se señala, se debe considerar el monto total del impuesto de Primera Categoría que debió pagarse, sin considerar el reajuste del artículo 72 de la LIR.
+Por lo tanto, conforme a las normas legales citadas (artículo 99 de la Ley N° 18.046 y artículo 64 del Código Tributario) y Circular N° 45 de 2001, en relación a la situación específica en consulta, solo cabe confirmar lo que indica en cuanto a que es aplicable el criterio contenido en el Oficio N° 1778 de 2017, que cita en su presentación, solo bajo los supuestos que la reestructuración que expone, esto es, que la fusión efectuada conforme a una legislación extranjera, tenga las características que en nuestro país tiene según la legislación vigente, materia sobre la cual no se puede emitir una opinión a priori.
 
-Ahora bien, naturalmente, todos los contribuyentes afectos al impuesto de la Primera Categoría deben determinar dicho impuesto en conformidad con las disposiciones contenidas al efecto en la LIR, considerando dentro de ellas las que establezcan un incentivo tributario como el que se analiza. De lo dicho se sigue que, para los fines del cálculo de la nueva tasa de PPMO, los contribuyentes que optan y cumplen los requisitos para acogerse al incentivo al ahorro para medianas empresas que al efecto se establece en la letra C, del artículo 14 ter de la LIR, deben considerar el impuesto de Primera Categoría que en definitiva determinen una vez aplicado el incentivo en cuestión, vale decir el impuesto de Primera Categoría que debe pagarse por el ejercicio comercial en que tenga aplicación el beneficio.
+Por lo tanto, bajo dicho supuesto, y conforme lo establece el artículo 64 del Código Tributario, la reunión o transferencia de los patrimonios de las sociedades absorbidas (S1 y S2) en la compañía absorbente (CH1), no estará sujeta a la facultad de tasación otorgada al Servicio de Impuestos Internos por dicho artículo 64, siempre que la sociedad subsistente mantenga registrado el valor tributario que tenían los activos y pasivos en las sociedades que desaparecen con la fusión; valor que deberá considerarse para todos efectos previstos en la LIR.
 
-Conforme con las disposiciones de la letra C.- del artículo 14 ter de la LIR, existe una diferencia en la determinación de la Renta Líquida Imponible del impuesto de Primera Categoría, que corresponde a los ejercicios posteriores a aquél en que se hizo uso del beneficio tributario que establece esta disposición, según se trate de contribuyentes sujetos al régimen de la letra A) del artículo 14 o bien de la letra B) de este mismo artículo.
+Por consiguiente, si dichos activos y pasivos se traspasan a valores financieros distintos a los tributarios, la sociedad fusionante o absorbente deberá llevar un adecuado registro de los valores tributarios, con el fin de que ésta última sociedad pueda dar cumplimiento a las obligaciones respectivas establecidas en la LlR en relación a tales activos y pasivos, en atención a que como lo ha señalado esta Dirección en anteriores pronunciamientos, dichos valores son los únicos válidos para efectos de determinar la Renta Líquida Imponible afecta al impuesto de Primera Categoría [5] .
 
-En efecto, de acuerdo a lo que dispone el inciso final de la Letra C.- del artículo 14 ter, sólo para el caso de los contribuyentes sujetos al régimen de la letra B.- del artículo 14 de la LIR, los cuales deben considerar como parte de la renta líquida imponible del año siguiente o subsiguientes a aquél en que se hizo uso del incentivo, para gravarse con el impuesto de Primera Categoría, una cantidad anual equivalente al 50% del monto total de los retiros, remesas o distribuciones afectos al impuesto Global Complementario o Adicional efectuados desde la empresa durante el ejercicio, hasta completar la suma deducida de la renta líquida imponible por aplicación de esta norma en él o los ejercicios precedentes.
-
-Ahora bien, no obstante la diferencia indicada en los dos párrafos anteriores, cabe expresar que para los fines de la determinación de la tasa de los PPMO, ambos contribuyentes, tanto los sujetos al régimen de la letra A) del artículo 14 como los sujetos a la letra B) de este mismo artículo, deben considerar el impuesto de Primera Categoría que en definitiva determinen una vez aplicadas las disposiciones establecidas por la letra C.- del artículo 14 ter de la LIR, tanto en lo que respecta al incentivo o rebaja de la Renta Líquida Imponible como como en cuanto al agregado o reverso que deben aplicar sólo los contribuyentes sujetos al régimen de la letra B.-.
-
-Dicho de otro modo, para la determinación de la tasa de PPMO que establece la letra a) del artículo 84 de la LIR, tanto los contribuyentes sujetos al régimen de la letra A.- del artículo 14 como los contribuyentes de la letra B.- de este mismo artículo, deben considerar el impuesto de Primera Categoría que en definitiva determinen una vez aplicadas las disposiciones de la letra C.- del artículo 14 ter.
+Cabe considerar finalmente que lo señalado previamente, no se ve alterado por el hecho que en el proceso de reestructuración que describe se produzca una &ldquo;fusión inversa&rdquo;, en el sentido que la sociedad CH1 al absorber a su empresa matriz, que es una compañía domiciliada en Panamá (S2), no deberá modificar el valor tributario de los activos adquiridos por CH1, registrados en la sociedad matriz (S2) al momento de producirse la fusión; puesto que la sociedad absorbente no incurrió en desembolso alguno en la adquisición de derechos en la entidad que se disuelve como producto de la fusión. [6]
 
 III.- CONCLUSIÓN.
 
-Para los fines del cálculo de la tasa de PPMO, que al efecto establece la letra a) del artículo 84 de la LIR, los contribuyentes sujetos al régimen de la letra A) del artículo 14 como los sujetos a la letra B) de este mismo artículo, que opten y cumplan los requisitos para acogerse al incentivo al ahorro para medianas empresas que establece la letra C, del artículo 14 ter de la LIR, deben considerar el impuesto de Primera Categoría que en definitiva determinen una vez aplicadas las disposiciones de la letra C.- del artículo 14 ter, vale decir el impuesto de Primera Categoría que debe pagarse por el ejercicio comercial en que tenga aplicación este beneficio.
+Este Servicio no puede ratificar a priori los efectos legales derivados de la aplicación de una Ley extranjera. Sin embargo, y solo en relación a los supuestos que expresa en la consulta, si la fusión por incorporación de dos sociedades domiciliadas en la República de Panamá por parte de una empresa con domicilio en Chile -que se materializará conforme a la legislación de ese país-, tiene las mismas características que en Chile conforme a lo establecido por la legislación vigente, no se aplicará la facultad de tasación del a rtículo 64 del Código Tributario ; siempre que, como lo prescribe el inciso 4° de esta última disposición legal la sociedad subsistente (CH1), mantenga registrado el valor tributario que tenían los activos y pasivos en las sociedades que desaparecen con la fusión.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 703, de 13.04.2018
+Oficio N° 704, de 13.04.2018
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
+
+[1] Empresa Tenedora de Valores Extranjeros.
+
+[2] Artículo 11-A, del Código de Comercio de Panamá.
+
+[3] Artículo 76 de la Ley de Sociedades Anónimas.
+
+[4] Cabe señalar que este Servicio ha expresado, entre otros en Oficio N° 2.389, del año 1997, por las razones que ahí se consignan, que las normas que regulan esta institución jurídica no distinguen el tipo de sociedades que pueden ser objeto de fusión. Asimismo, Oficio N° 705, de 2017.
+
+[5] En este sentido, Oficio N° 407, del año 2008.
+
+[6] En este sentido, se puede consultar el Oficio N° 1.916, del año 2015 de este Servicio, en el que se analizó la situación de una sociedad por acciones que incorporó por fusión a su matriz, en relación a la aplicación de lo establecido en los incisos tercero y siguientes, del número 9, del artículo 31 de la LIR (Goodwill).

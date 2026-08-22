@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 69
 - Año: 2020
-- Fecha: 2020-12-10
+- Fecha: 2020-11-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu69.pdf
 - Hash SHA-256: e248b38bb5677dcae047293b2c3a782268e1149ef91d14ab936c18c3317d7674
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa. Circular N° 70 del 10 de Diciembre del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2021 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Tabla de cálculos de reajustes, intereses y multas diciembre 2020. Fuente: Subdirección de Fiscalización. Circular N° 68 del 11 de Noviembre del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de…
+acute;n Normativa. Tabla de cálculos de reajustes, intereses y multas diciembre 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

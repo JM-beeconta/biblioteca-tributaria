@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2019
-- Fecha: 2019-08-09
+- Fecha: 2019-07-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu31.pdf
 - Hash SHA-256: 1aad401bfc2c9852165d580a278ddec2cbc551016aa171a9d6872297f9125ef6
 
 ## Resumen
 
-e;a para el mes de septiembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 32 del 09 de Agosto del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2019 y el 9 de septiembre de 2019. Fuente: Oficina de Gestión Normativa Imparte instrucciones para la aplicación y revisión de la sobretasa que grava a los bienes raíces no agrícolas afectos a Impuesto Territorial, ubicados en áreas urbanas, correspondientes a sitio…
+Oficina de Gestión Normativa Imparte instrucciones para la aplicación y revisión de la sobretasa que grava a los bienes raíces no agrícolas afectos a Impuesto Territorial, ubicados en áreas urbanas, correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, señalada en el Artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial, modificado por la Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano. Fuente: Subdirección…
 
 ## Referencias detectadas
 

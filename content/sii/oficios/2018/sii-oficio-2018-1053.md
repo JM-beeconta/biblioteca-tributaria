@@ -6,159 +6,73 @@
 - Año: 2018
 - Fecha: 2018-05-02
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja805.doc
-- Hash SHA-256: 53b84d97a30744101313de15cad46787543b9901512bc363d7b8f62402f476d0
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja841.htm
+- Hash SHA-256: ccb16a91667f4cf60bf1ef5c5b2cf4b83edd8fb896925e99310b08929584ca29
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código de Comercio, Art. 512 &ndash; . (Ord. Nº 841, de 02-05-2018) | Word Documentos que debe emitir empresa que ofrece planes de salud para mascotas. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, Art. 2, N°2. (Ord. Nº 805, de 24-04-2018) | Word Consulta si los servicios de Call Center se encuentran gravados con el Impuesto al Valor Agregado. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuest…
+olding que indica. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código de Comercio, Art. 512 &ndash; . (Ord. Nº 841, de 02-05-2018) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":4561,"year":1999}
-- {"type":"oficio","number":388,"year":2012}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"oficio","number":1053,"year":2011}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART.
-     8, ART. 2 N°2 – LEY SOBRE IMPUESTO A LA RENTA, ART. 20, N°3 Y N°4.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 512 – OFICIO N° 1053, DE 2011. (Ord. Nº 841, de 02-05-2018)
 
-                        (ORD. N° 805, DE 24.04.2018)
+DOCUMENTOS QUE DEBE EMITIR EMPRESA QUE OFRECE PLANES DE SALUD PARA MASCOTAS.
 
+Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre la forma en que se deben reflejar los egresos que tenga XXXXX SA respecto de los reembolsos a que tendrán derecho las personas que hayan contratado con la empresa un plan de salud para sus animales.
 
+I ANTECEDENTES
 
-Consulta si los servicios de Call Center se  encuentran  gravados  con  el
-Impuesto al Valor Agregado.
+De acuerdo a los antecedentes, y sin perjuicio de la exposición efectuada por esa Dirección Regional, el peticionario (XXXXX SA) solicita se emita un pronunciamiento sobre la forma en que se deben reflejar los egresos que efectúe respecto de los reembolsos a que tendrán derecho las personas que hayan contratado con ella un plan de salud para sus animales.
 
+Informa que XXXXX SA se dedicará a ofrecer planes de salud para mascotas con un costo mensual al alcance de los diferentes estratos sociales que existen, pues su filosofía se basa en incentivar la responsabilidad al incorporar un animal de compañía en los hogares, especialmente en cuanto a la prevención de enfermedades que ponen en riesgo su salud como de quienes conviven con ellos.
 
-Se ha consultado a esta  Dirección  Nacional  si  la  remuneración  por  los
-servicios de Call Center, se encuentran gravados con el  Impuesto  al  Valor
-Agregado.
+Tras algunas consideraciones, solicita aclarar:
 
-I.-   ANTECEDENTES:
+De qué manera pueden justificar los gastos de XXXXX SA, que corresponden al pago de los reembolsos que efectuará a sus afiliados por concepto de boletas que les hagan llegar por las atenciones veterinarias a sus mascotas.
 
-En representación de  las  Sociedades  AAAA,  y  BBBB,  se  señala  que  los
-servicios  de  Call  Center  que  proveen  sus  representadas  a   distintos
-clientes, no se encontrarían comprendidos en los N°s. 3  y  4  del  artículo
-20° de la Ley sobre Impuesto a la Renta, sino en  el  N°  5  del  mencionado
-cuerpo legal y, por consiguiente, la remuneración que  perciben  por  dichos
-servicios no estaría gravada con el Impuesto al Valor Agregado (IVA).
+Si, por los ingresos de XXXXX SA provenientes de afiliados que paguen la cotización mensual del plan que contraten, deberían emitir boletas exentas o no.
 
-Agrega que sus representadas son empresas de servicios  de  Call  y  Contact
-Center,  cuyo  objeto  comprende,  entre  otros,   servicios   de   Atención
-Telefónica  de  Clientes,  Teleasistencia,  Telecobranza  y  Televentas,  de
-acuerdo a las  modalidades  que  se  especifican  en  cada  caso  según  los
-respectivos Contratos de  Servicios  que  se  suscriben  con  sus  distintos
-clientes, siempre con personas jurídicas,  públicas  o  privadas  y  por  el
-tiempo y condiciones que se determinen en el respectivo contrato comercial.
+II ANÁLISIS
 
-A la vez, la mayor parte de sus trabajadores desempeña el cargo de  Operador
-(a)  de  Call  y  Contact  Center,  comprendiéndose  en   lo   anterior   el
-cumplimiento  de  todas  las  funciones  relacionadas  con  el  Servicio  al
-Cliente,  incluyendo:  realizar  y/o  recibir  llamadas  telefónicas,   como
-también la atención  de  clientes  a  través  de  cualquier  otro  medio  de
-contacto (Chats, e-mail, Facebook, Twitter, otras redes sociales, etc.).
+Como primera cuestión, es importante señalar que, sobre una materia relacionada y mismo peticionario, esta Dirección Nacional remitió a esa Dirección Regional el Oficio N° 1053 de 2011, publicado en el sitio web y cuya copia se acompaña.
 
-Para   la   prestación   de   tales   servicios,   las   empresas   utilizan
-infraestructura que consiste en inmuebles, que arriendan a terceros, en  los
-cuales  se  ha  implementado  alrededor  de  2.400   puestos   de   atención
-telefónica, que son una especie de cubículos con silla,  que  se  asignan  a
-cada uno de los Operadores Telefónicos, más equipamiento,  que  consiste  en
-computadores, conexión telefónica y cintillos, para efectos de  la  atención
-telefónica de los distintos clientes.
+Allí se expuso que, de acuerdo a los antecedentes acompañados, &ldquo;la prestación en cuestión reviste todos los elementos propios o característicos del contrato de seguro, el cual, en el caso examinado, reviste la particularidad que ha sido contratado para cubrir los gastos incurridos en acciones tendientes a prevenir y/o recuperar la salud animal. Así la denominada &ldquo;cotización&rdquo; constituye una prima mensual, el riesgo está representado por elementos que atentan contra la salud e integridad física de la mascota, y el interés asegurable por el propósito del dueño de conservar la salud de su mascota.&rdquo;
 
-Finaliza manifestando que en el marco de  distintas  licitaciones  ha  visto
-que varias otras empresas de  la  competencia  ofertan  sus  servicios  como
-exentos de IVA, por lo que se suscita la duda que requiere aclarar.
+Luego, concluye el Oficio citado, &ldquo;las labores consultadas forman parte de la actividad mercantil propia de los seguros, la llamada &ldquo;cotización&rdquo; pagada por los afiliados constituye una prima de seguros, afectándose por consiguiente con Impuesto al Valor Agregado.&rdquo;
 
+Sin perjuicio de lo anterior, prosigue el Oficio, &ldquo;debe tenerse presente que a la luz del Art. 512 del Código de Comercio ya citado, el monto reintegrado al dueño de la mascota afiliada, atendido su naturaleza indemnizatoria, no configura un hecho gravado con Impuesto al Valor Agregado.&rdquo;
 
-II.-  ANALISIS:
+Conforme lo expuesto precedentemente, y en la medida que la naturaleza de los servicios ahora consultados son virtualmente los mismos que se tuvieron en vista en su oportunidad, se informa:
 
-El artículo 8°, del D.L. N° 825, de 1974, grava con  el  Impuesto  al  Valor
-Agregado las ventas y los servicios. A su vez, el N° 2, del artículo  2°  de
-la ley, define servicios como: “la  acción  o  prestación  que  una  persona
-realiza para otra y por la  cual  percibe  un  interés,  prima,  comisión  o
-cualquiera otra forma de remuneración, siempre que  provenga  del  ejercicio
-de las actividades comprendidas en los N° 3 o 4, del  artículo  20°,  de  la
-Ley sobre Impuesto a la Renta”.
+Documentos a emitir por el pago de &ldquo;cotizaciones&rdquo; de salud de mascotas.
 
-Ahora bien, según señala, las empresas que representa proveen  servicios  de
-Call y Contact Center a sus distintos clientes. Respecto  de  los  servicios
-de Call Center, este Servicio ha señalado[1] que no se  encuentran  gravados
-con el Impuesto al Valor Agregado, por corresponder a actividades que no  se
-encuentran comprendidas en los N° 3 o 4 del artículo 20° de  la  Ley  de  la
-Renta, como exige el hecho gravado servicio.
+Considerando que la &ldquo;cotización&rdquo; constituye una prima de seguros afecta a IVA, deberá emitirse boleta afecta por cada pago mensual que realice el afiliado.
 
-En relación a los servicios de Contact Center, según se puede inferir de  su
-presentación, corresponderían a Teleasistencia, Telecobranza  y  Televentas,
-los que en general tiene el propósito de recibir  y  transmitir  una  amplia
-cantidad de llamadas y pedidos a través del teléfono, y por otros medios  de
-contactos como correo electrónico, Facebook, Twitter,  etc.,  de  acuerdo  a
-las modalidades que se especifican en cada contrato que se suscribe.
+Reembolso de prestaciones veterinarias
 
-No obstante, no se acompañaron a la presentación  los  señalados  contratos,
-cuyo análisis habría permitido determinar  si  éstos  contienen  actividades
-comprendidas en los N°s. 3 o 4 del artículo 20° de la Ley de la Renta.
+En la medida que XXXXX SA se limite a reembolsar a sus afiliados el monto de las atenciones veterinarias en cumplimiento del plan de salud para mascotas contratado, atenciones documentadas con las correspondientes boletas que le sean presentadas, XXXXX SA no deberá emitir documento tributario alguno, en la medida que el mero reembolso de gastos no constituye un servicio gravado con Impuesto al Valor Agregado.
 
-Sin perjuicio de lo anterior, en lo  que  se  refiere  a  los  servicios  de
-Telecobranza, existen pronunciamientos emitidos por  esta  Superioridad,  en
-el sentido que los  ingresos  provenientes  de  los  servicios  de  cobranza
-judicial o extrajudicial se clasifican en el artículo 20º, Nº 5, de  la  Ley
-sobre Impuesto a la Renta,  no  encontrándose  por  tanto  gravados  con  el
-Impuesto al Valor Agregado.
+Por consiguiente, XXXXX SA deberá utilizar cualquier otro documento de carácter interno que estime conveniente y que acredite fehacientemente el pago de los reembolsos a sus afiliados.
 
-En relación con los servicios de Televentas, en cuanto pueden comprender  la
-actividad de venta a través de un ejecutivo especializado y con  competencia
-para vender de forma remota, podrían  generarse  hechos  gravados  con  IVA,
-tales  como,  comisiones  por  ventas  o  remuneraciones  por  servicios  de
-publicidad o promoción de productos.
+III CONCLUSIÓN
 
-III.- CONCLUSIÓN:
+Conforme lo expuesto precedentemente, y en relación con la materia consulta, se informa que:
 
-De acuerdo a lo señalado precedentemente, los servicios  de  “Call  Center”,
-no se encuentran clasificados dentro de las actividades mencionadas  en  los
-N°s. 3 o 4 de la Ley sobre Impuesto a la Renta,  y  en  consecuencia  no  se
-encuentran gravados con el Impuesto al Valor Agregado (IVA), establecido  en
-el D. L. N° 825, de 1974.
+XXXXX SA deberá emitir boleta afecta por cada pago mensual que reciba de sus respectivos afiliados.
 
-En relación a los servicios  de  “Contact  Center”,  no  se  acompañó  algún
-modelo  del  contrato  que  se  suscribe  con  sus  clientes,  que   permita
-pronunciarse  respecto  de  estas  prestaciones.  Sin  perjuicio  de   ello,
-tratándose de  servicios  de  cobranza  judicial  y  prejudicial,  éstos  no
-clasifican dentro de las actividades de los N°s. 3 o  4  de  la  Ley  de  la
-Renta y por lo tanto no se encuentran gravados con el referido impuesto.
+En la medida que el mero reembolso de gastos no constituye un servicio gravado con Impuesto al Valor Agregado, XXXXX SA no deberá emitir documento tributario alguno al momento de reembolsar a sus afiliados los gastos por atenciones médicas de mascotas sino cualquier otro documento de carácter interno que acredite fehacientemente el reembolso del gasto.
 
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 841, de 02.05.2018
 
+Subdirección Normativa
 
-                           FERNANDO BARRAZA LUENGO
-                                  DIRECTOR
-
-
-
-
-
-
-
-
-
-
-
-
-                        Oficio N° 805, de 24.04.2018
-                           Subdirección Normativa
-                        Dpto. de Impuestos Indirectos
-
-
-
-
-
-
-
-
-
-
------------------------
-[1] Oficio N° 4561, de 1999; y Oficio N° 0388, de 2012.
+Dpto. de Técnica Tributaria

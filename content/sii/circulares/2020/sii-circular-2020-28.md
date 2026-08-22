@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 28
 - Año: 2020
-- Fecha: 2020-04-13
+- Fecha: 2020-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu28.pdf
 - Hash SHA-256: f2adabcc1189e482d4961b09247b6c97a94b76ef67c668144dfbc448d27ecafb
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 29 del 13 de Abril del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, publicada el 24 de febrero de 2020, a la Ley N° 17.235, sobre Impuesto Territorial, en materia de sobretasa. Fuente: Subdirección de Avaluacion…
+acute;n Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, publicada el 24 de febrero de 2020, a la Ley N° 17.235, sobre Impuesto Territorial, en materia de sobretasa. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

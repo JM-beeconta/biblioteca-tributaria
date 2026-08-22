@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2017
-- Fecha: 2017-07-28
+- Fecha: 2017-07-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu38.pdf
 - Hash SHA-256: 216c5ca3c3c78ade7f84cfe130668569cce3fe73a0041aa31194da402a6af1f3
 
 ## Resumen
 
-ión adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 39 del 28 de Julio del 2017 Tabla de cálculos de reajustes, intereses y multas Agosto 2017 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2017 y el 9 de agosto del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 37 del 10 de Julio del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto del año 2017, e información ad…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2017 y el 9 de agosto del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

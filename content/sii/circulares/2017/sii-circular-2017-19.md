@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2017
-- Fecha: 2017-03-23
+- Fecha: 2017-03-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu19.pdf
 - Hash SHA-256: 131ac477ba70069d4589a61512b1b846e43251c4a3a17dab54940a7b8407718c
 
 ## Resumen
 
-la Renta correspondientes al año tributario 2017. Fuente: Oficina de Gestión Normativa Circular N° 20 del 23 de Marzo del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas abril 2017. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2017 y el 9 de abril del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 18 del 09 de Marzo del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de abril del año 2017, e informació…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2017 y el 9 de abril del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

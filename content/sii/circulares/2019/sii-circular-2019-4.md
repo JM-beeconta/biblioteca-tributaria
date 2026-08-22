@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2019
-- Fecha: 2019-02-10
+- Fecha: 2019-01-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu4.pdf
 - Hash SHA-256: 3b9fb663b73f18b1d9c4a53d5a6e63f3e568545ce1ea6a12c4a0114d11ecc706
 
 ## Resumen
 
-ute;as comprendidos entre el 10 de febrero de 2019 y el 9 de marzo de 2019. Fuente: Oficina de Gestión Normativa Circular N° 5 del 22 de Enero del 2019 Informa nuevos límites máximos imponibles para efectos previsionales, vigentes para el año calendario 2019. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 3 del 11 de Enero del 2019 Tabla de Cálc…
+Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

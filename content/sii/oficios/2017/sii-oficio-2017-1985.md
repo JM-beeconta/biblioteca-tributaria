@@ -6,80 +6,88 @@
 - Año: 2017
 - Fecha: 2017-04-04
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja707.htm
-- Hash SHA-256: 9b034b4bb689deb1c7287cdbe8185335ef3c33e85bbb1997a902193e58ffa605
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja708.htm
+- Hash SHA-256: 81d5020426ca97287a1d3bdad75a0e3bfe65bca1c4f498f8b6efd5e6cfb46e04
 
 ## Resumen
 
-yle='margin-bottom:3px;'> Renta &ndash; Art. 14 Letra B), 58, 60, 63 y 74 N° 4 &ndash; Ley N° 20.780 y N° 20.899 &ndash; . (Ord. Nº 708, de 04-04-2017) | Word Alcance del término &ldquo;beneficiario&rdquo; utilizado en los artículos 63 y 74 N° 4, de la Ley sobre Impuesto a la Renta y forma de acreditar dicha calidad. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.606, de 1999 &ndash; Ley sobre Impuesto a las Ventas y Servicios, Art. 27 bis, Art. 12, letra B, N°10. (Ord. Nº 707, de 04-04-2017) | Wor…
+Renta &ndash; Art. 14 Letra B), 58, 60, 63 y 74 N° 4 &ndash; Ley N° 20.780 y N° 20.899 &ndash; . (Ord. Nº 708, de 04-04-2017) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":66,"year":1999}
-- {"type":"articulo","law":"LIR","article":"33 bis"}
-- {"type":"articulo","law":"LIVS","article":"12 l"}
-- {"type":"articulo","law":"LIVS","article":"27 bis"}
+- {"type":"oficio","number":1985,"year":2015}
+- {"type":"oficio","number":876,"year":2016}
+- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"articulo","law":"LIR","article":"63"}
+- {"type":"articulo","law":"LIR","article":"14 B"}
+- {"type":"articulo","law":"LIR","article":"74 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.606, DE 1999 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 27 BIS, ART. 12, LETRA B, N°10. (Ord. Nº 707, de 04-04-2017)
+LEY SOBRE IMPUESTO A LA RENTA – ART. 14 LETRA B), 58, 60, 63 Y 74 N° 4 – LEY N° 20.780 Y N° 20.899 – OFICIO N° 1985 DE 2015. (Ord. Nº 708, de 04-04-2017)
 
-COMPATIBILIDAD DE LOS BENEFICIOS TRIBUTARIOS ESTABLECIDOS EN EL ARTÍCULO 1°, DE LA LEY N° 19.606 Y OTROS BENEFICIOS TRIBUTARIOS EN RELACIÓN AL IMPUESTO AL VALOR AGREGADO.
+ALCANCE DEL TÉRMINO “BENEFICIARIO” UTILIZADO EN LOS ARTÍCULOS 63 Y 74 N° 4, DE LA LEY SOBRE IMPUESTO A LA RENTA Y FORMA DE ACREDITAR DICHA CALIDAD.
 
-Se consulta por el alcance de la expresión &ldquo;bonificación&rdquo; empleada en el inciso final del artículo 6° de la Ley N° 19.606, Ley Austral, para efectos de conocer el alcance de la incompatibilidad del crédito fiscal dispuesto en el artículo 1° de esta Ley, con otras bonificaciones otorgadas por el Estado, según se indica.
+Se ha solicitado a este Servicio un pronunciamiento sobre el alcance del término &ldquo;beneficiario&rdquo; utilizado en los artículos 63 y 74 de la Ley sobre Impuesto a la Renta y la forma de acreditar dicha calidad para los efectos de lo dispuesto en esas normas legales.
 
-I.- ANTECEDENTES
+I.- ANTECEDENTES.
 
-XXXXX, por sí o por medio de empresas relacionadas, proyecta la construcción de un parque eólico de generación de energía eléctrica ("Parque" o "Proyecto") en la Región de Magallanes y Antártica Chilena (XII Región).
+De acuerdo a lo informado en su Oficio Ord., las leyes N° 20.780 y N° 20.899 modificaron el régimen de tributación de los dueños de empresas contenido en el artículo 14 de la Ley sobre Impuesto a la Renta, estableciendo nuevos regímenes de tributación: el régimen de renta atribuida y el régimen parcialmente integrado.
 
-La construcción del Parque implicará la importación de bienes de capital (entre otros las partes y piezas que conforman los aerogeneradores) destinados al desarrollo del mismo. Asimismo, resulta probable que durante la etapa de construcción del Parque, la sociedad desarrolladora del Proyecto acumule remanentes de crédito fiscal lVA soportado en la adquisición de determinados bienes y servicios.
+Respecto al régimen parcialmente integrado, los artículos 63 y 74 N° 4 de la Ley sobre Impuesto a la Renta establecen que los socios, accionistas o comuneros sin domicilio o residencia en Chile deben restituir y efectuar la retención del 35% del crédito por Impuesto de Primera Categoría pagado por la empresa de la cual es dueño, cuando dicha empresa pague, distribuya o remese utilidades afectas a impuestos. Con todo, dichas normas disponen que la retención mencionada no será procedente en el caso de residentes en países con los cuales Chile haya suscrito un convenio para evitar la doble tributación que se encuentre vigente, y del cual sean beneficiarios respecto de la imposición de las rentas retiradas, remesadas o distribuidas indicadas.
 
-En este marco, partiendo de la premisa de que la sociedad desarrolladora del Parque, como inversionista en cuestión, cumpliría con los requisitos que exige la ley para acceder al Crédito Tributario establecido en el artículo 1° de la Ley N° 19.606, y que invocará y se beneficiará del mismo, plantea que le surge la duda sobre la compatibilidad o incompatibilidad de dicho crédito tributario con otros beneficios tributarios, en particular, con la exención del IVA establecida en el artículo 12 letra B N° 10 del Decreto Ley N° 825, de 1974 ("Ley de IVA"), con el beneficio contemplado en el artículo 27 bis del mismo cuerpo de normas y con los beneficios tributarios que establece la Ley de Zonas Francas (DFL N° 341 de 1977).
+Luego de transcribir las normas pertinentes de los artículos 63 y 74 de la Ley sobre Impuesto a la Renta, señala que no sería claro el sentido y alcance del concepto de &ldquo;beneficiario&rdquo;, solicitando aclarar, en particular:
 
-Lo anterior, por cuanto, la Ley Austral no define la expresión "bonificación" empleada por el inciso final de su artículo 6°, ni señala casos de incompatibilidad, con lo cual los contornos de la incompatibilidad no resultan del todo claros y precisos.
+&iquest;Quién es el contribuyente beneficiario para los efectos de las normas señaladas?
 
-Considerando lo expuesto y en atención a los argumentos que explica en su presentación, solicita se confirmen los siguientes criterios:
+Si, para certificar quien es el beneficiario de las rentas retiradas, remesadas o distribuidas, es suficiente el correspondiente certificado de residencia.
 
-a) Que el crédito tributario de la Ley Austral es compatible con la exención de IVA contemplada en el artículo 12 letra B N° 10 de la Ley de IVA, relativa a la importación de bienes de capital.
+II.- ANÁLISIS.
 
-b) Que el crédito tributario de la Ley Austral es compatible con el derecho a solicitar la devolución de los remanentes de crédito fiscal, originados en la adquisición de bienes destinados a formar parte del activo fijo en los términos y condiciones expresados en el artículo 27 bis de la Ley de IVA.
+De acuerdo al artículo 63, inciso primero, de la Ley sobre Impuesto a la Renta, a los contribuyentes del Impuesto Adicional se les otorgará un crédito equivalente al monto que resulte de aplicar a las cantidades gravadas conforme a los artículos 58 y 60 inciso primero, la misma tasa del Impuesto de Primera Categoría que las afectó.
 
-c) Que el crédito tributario de la Ley Austral es compatible con los beneficios asociados a proyectos de inversión efectuados en Zona Franca (o Recintos Especiales o Zonas Francas de Extensión).
+Respecto del régimen parcialmente integrado[1], el inciso 3° del artículo 14 B) de la LIR, dispone que los contribuyentes que imputen el crédito antes señalado, deberán restituir a título de débito fiscal, una cantidad equivalente al 35% del monto del referido crédito. Sin embargo, esta norma legal agrega que la obligación de restitución no será aplicable a contribuyentes del Impuesto Adicional, residentes en países con los cuales Chile haya suscrito un convenio para evitar la doble tributación que se encuentre vigente, y del cual sean beneficiarios respecto de la imposición de las rentas retiradas, remesadas o distribuidas indicadas; en el que se haya acordado la aplicación del Impuesto Adicional, siempre que el Impuesto de Primera Categoría sea deducible de dicho tributo, o se contemple otra cláusula que produzca este mismo efecto.
 
-II.- ANÁLISIS
+Por su parte, el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta, dispone en su inciso primero que los contribuyentes que remesen al exterior, abonen en cuenta, pongan a disposición o paguen rentas o cantidades afectas al Impuesto Adicional de acuerdo con los artículos 58, 59 y 60, deberán efectuar una retención del Impuesto Adicional con la tasa de impuesto que corresponda.
 
-La Ley N°19.606 de 1999, en adelante Ley Austral, en su artículo 1°, inciso primero, otorga a los contribuyentes del Impuesto de Primera Categoría sobre renta efectiva determinada según contabilidad completa, el derecho a un crédito tributario por las inversiones que efectúen en las regiones XI y XII, y en la provincia de Palena, destinadas a la producción de bienes o prestación de servicios en esas regiones o provincia.
+El inciso tercero de la misma norma legal prescribe que, en el caso del régimen parcialmente integrado establecido en la letra B), del artículo 14, de la Ley sobre Impuesto a la Renta, al momento de practicar la retención señalada, cuando se impute el crédito por Impuesto de Primera Categoría que corresponda, deberán restituir a título de débito fiscal una cantidad equivalente al 35% del monto del referido crédito. Con todo, agrega la norma legal, no procederá la referida restitución en el caso de residentes en países con los cuales Chile haya suscrito un convenio para evitar la doble tributación que se encuentre vigente, y del cual sean beneficiarios respecto de la imposición de las rentas retiradas, remesadas o distribuidas indicadas, en el que se haya acordado la aplicación del Impuesto Adicional, siempre que el Impuesto de Primera Categoría sea deducible de dicho tributo, o se contemple otra cláusula que produzca este mismo efecto.
 
-A su vez, esta Ley, en el artículo 6° inciso segundo, establece la incompatibilidad de este crédito tributario con otras bonificaciones otorgadas por el Estado, en los siguientes términos: " El beneficio que se concede en este Capítulo será incompatible con cualquier otra bonificación otorgada por el Estado sobre los mismos bienes, dispuesta especialmente para favorecer a las regiones y provincia señaladas en el artículo 1°. El interesado deberá optar por uno de ellos ".
+Conforme las normas legales citadas, y previo a responder las consultas formuladas, se desprende que para liberarse de la obligación de restituir un porcentaje del crédito por Impuesto de Primera Categoría, el contribuyente de Impuesto Adicional debe cumplir, al menos, dos requisitos copulativos:
 
-Por otra parte, el artículo 12 letra B N° 10 del D.L. N° 825, establece una exención de IVA a los bienes de capital importados que se destinen al desarrollo, exploración o explotación en Chile, entre otros, de proyectos de energía, siempre que se cumplan los requisitos y condiciones que la misma norma dispone.
+Residir en países con los cuales Chile haya suscrito un Convenio para Evitar la Doble Tributación que se encuentre vigente, y
 
-A su turno, el artículo 27 bis del mismo cuerpo legal, contempla el derecho de imputar u obtener el reembolso de los remanentes de crédito fiscal IVA originados en la adquisición de bienes corporales muebles o inmuebles destinados al Activo Fijo o de servicios que deban integrar el valor de costo de éste, y que normalmente, dan derecho a Crédito Fiscal, en la medida que se cumplan las condiciones legales para que resulte aplicable dicho beneficio.
+Ser beneficiario del citado Convenio respecto de la imposición de las rentas retiradas, remesadas o distribuidas indicadas.
 
-Además, el D.F.L. N° 341, de 1977, sobre Zonas Francas, contempla una serie de beneficios tributarios, respecto de operaciones realizadas en la Zona Franca Primaria, en los Recintos Especiales o en las Zonas Francas de Extensión, entre los cuales figura la exención del Impuesto de Primera Categoría, del IVA y de los derechos aduaneros.
+En cuanto al primer requisito, este Servicio se ha pronunciado recientemente, señalando entre otras cosas que, &ldquo;ser residente de un Estado Contratante, en conformidad con el artículo sobre residencia de un Convenio tributario suscrito por Chile, implica que una persona tenga un vínculo con un Estado Contratante que sujete su renta a tributación general en el mismo&rdquo;[2]
 
-Ahora bien, respecto de la incompatibilidad dispuesta en el inciso segundo del artículo 6° de la Ley N° 19.606, en la Circular N° 66 de 1999, este Servicio señaló que el crédito tributario en comento es incompatible con las bonificaciones dispuestas por el artículo 38 del D.L. N°3.529, de 1980, que crea el Fondo de Fomento y Desarrollo de las regiones extremas de Arica y Parinacota, Tarapacá, Aysén del Presidente Carlos Ibáñez del Campo y Magallanes y Antártica Chilena y provincias de Chiloé y de Palena, con el objeto de bonificar las inversiones y reinversiones productivas de los pequeños y medianos inversionistas.
+Respecto del segundo requisito, y atendido que el ámbito de aplicación de los convenios se encuentra restringido a las personas residentes de uno o de ambos Estados Contratantes, los beneficiarios del convenio serán, precisamente, las personas que en virtud de su residencia pueden impetrar los beneficios del Convenio respecto de las rentas retiradas, remesadas o distribuidas sujetas a imposición. Esto último, a su turno, implica que el contribuyente de Impuesto Adicional debe ser beneficiario, titular o tener derecho a las rentas retiradas, remesadas o distribuidas y respecto de las cuales se impetran los beneficios del Convenio.
 
-Asimismo, en la citada Circular se aclara que el referido crédito es compatible con el crédito del 4% del artículo 33 bis de la LIR y con las bonificaciones por inversiones privadas en obras de riego y drenaje de predios agrícolas a que se refiere la Ley N° 18.450, atendido al carácter genérico de los beneficios establecidos en ambos textos legales.
+En consecuencia, y respondiendo la primera consulta formulada, debe entenderse que el &ldquo;contribuyente beneficiario&rdquo; en el contexto de los artículos 63 y 74 N° 4 de la Ley sobre Impuesto a la Renta, es la persona contribuyente de Impuesto Adicional que, en su calidad de residente de uno de los Estados Contratantes, puede impetrar a su favor los beneficios que contempla un convenio, respecto de las rentas que retire, le sean remesadas o distribuidas por tener título o derecho sobre dichas rentas o ser beneficiario de las mismas.
 
-Del tenor del artículo 6° inciso segundo de la Ley Austral, y de las instrucciones referidas en el párrafo precedente se desprende que el crédito tributario de la citada ley, también es compatible con la exención de IVA contemplada en el artículo 12 letra B N° 10 del D.L. N° 825, relativa a la importación de bienes de capital, y con el derecho a solicitar la devolución de los remanentes de crédito fiscal, originados en la adquisición de bienes destinados a formar parte del activo fijo en los términos y condiciones expresados en el artículo 27 bis del mismo texto legal, por cuanto, ambos beneficios tributarios son aplicables con independencia de la zona geográfica en que el contribuyente desarrolle su actividad.
+En cuanto a la segunda consulta &ndash; esto es, si para certificar quien es el beneficiario de las rentas retiradas, remesadas o distribuidas es suficiente el correspondiente certificado de residencia &ndash; cabe señalar que, según este Servicio ha resuelto recientemente en Oficio N° 1985 de 2015, que si la persona considera que es residente de un Estado con el que Chile ha suscrito un Convenio vigente para evitar la doble imposición y cuenta con un certificado de residencia que acredite que el Estado respectivo la reconoce como tal para los efectos del Convenio, Chile en principio debe aceptar la calificación de residente efectuada por el otro Estado.
 
-En relación a la compatibilidad del crédito tributario contemplado en la Ley Austral con los beneficios tributarios contemplados en el D.F.L. N° 341, de 1977, sobre Zonas Francas, entre los cuales figura la exención de IVA y de los derechos aduaneros, cabe hacer presente que este Servicio emitió pronunciamiento sobre la materia a través de los oficios N°553, de 2007 y N° 2122 de 2010, señalando en términos generales que las inversiones susceptibles de acogerse a la Ley N° 19.606, son aquellas que, cumpliendo con los demás requisitos que dicha ley establece, contribuyen a la generación de rentas afectas al Impuesto de Primera Categoría, puesto que el beneficio consiste precisamente en un crédito imputable contra el citado tributo que deba pagar el contribuyente. Por lo tanto, si la inversión no contribuye a la obtención de ingresos afectos al Impuesto de Primera Categoría, no podrá acceder al beneficio señalado. Por consiguiente, en la medida que un usuario de Zona Franca desarrolle simultáneamente actividades dentro y fuera de dicha Zona y efectúe tales inversiones dentro de ella, posibilitando la obtención de rentas exentas y afectas al Impuesto de Primera Categoría, podrá acoger proporcionalmente dicha inversión, a los beneficios establecidos en la Ley Austral.
+Lo anterior, es sin perjuicio que, a su turno, la calidad de titular o beneficiario de la renta a la fecha de su retiro, remesa o distribución se acredite mediante todo medio legal en Chile.
 
-La restricción comentada en el párrafo precedente se limita al Impuesto de Primera Categoría, pero en ningún caso el artículo 6° de la Ley N° 19.606, les hace perder los demás beneficios o garantías adicionales de que gocen por la aplicación de las normas del D.F.L. N° 341, de 1977, sobre Zonas Francas, como sería la exención del Impuesto al Valor Agregado, franquicia que se mantiene independientemente de que los citados contribuyentes se hayan acogido o no al crédito tributario que establece la Ley N° 19.606.
+III.- CONCLUSIONES.
 
-III.- CONCLUSIÓN
+Conforme lo expuesto precedentemente se concluye que:
 
-Conforme a lo expuesto en el Análisis precedente, se confirman los criterios tributarios indicados en las letras a) y b) de la presentación, en el sentido que el crédito tributario de la Ley Austral es compatible con la exención de IVA contemplada en el artículo 12 letra B N° 10 del D.L. N° 825, relativa a la importación de bienes de capital, y con el derecho a solicitar la devolución de los remanentes de crédito fiscal, originados en la adquisición de bienes destinados a formar parte del activo fijo en los términos y condiciones expresados en el artículo 27 bis del mismo texto legal, en consideración al carácter genérico de ambos beneficios tributarios.
+El &ldquo;contribuyente beneficiario&rdquo; en el contexto de los artículos 63 y 74 N° 4 de la Ley sobre Impuesto a la Renta, es la persona contribuyente de Impuesto Adicional que, en su calidad de residente de uno de los Estados Contratantes, puede impetrar a su favor los beneficios que contempla un Convenio, respecto de las rentas que retire, le sean remesadas o distribuidas por tener título o derecho sobre dichas rentas o ser beneficiario de las mismas.
 
-Asimismo, en relación a la consulta planteada en la letra c) de la presentación, cabe hacer presente que sobre la materia aplican los criterios impartidos mediante los oficios N° 553 de 2007 y 2122, de 2010, publicados en la página web del Servicio.
+Para efectos de acreditar la residencia en un Estado con el que Chile ha suscrito un Convenio vigente para evitar la doble imposición, bastaría la presentación de un certificado de residencia que acredite que el Estado respectivo la reconoce como tal para los efectos del Convenio.
+
+Sin perjuicio de lo anterior, la calidad de titular o beneficiario de la renta a la fecha de su retiro, remesa o distribución se puede acreditar mediante todo medio de prueba legal en Chile.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 707, de 04.04.2017
+Oficio N° 708, de 04.04.2017
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
+
+[1] Tras las modificaciones introducidas a la Ley sobre Impuesto a la Renta por las leyes N° 20.780 y N° 20.899, se incorporaron dos nuevos regímenes generales de tributación alternativos para la aplicación del Impuesto Global Complementario o Adicional a partir del 01.01.2017: a) Régimen de la letra A), del artículo 14 de la Ley sobre Impuesto a la Renta, con imputación total del crédito por Impuesto de Primera Categoría en los impuestos finales; y, b) Régimen de la letra B), del artículo 14 de la Ley sobre Impuesto a la Renta, con imputación parcial del crédito por Impuesto de Primera Categoría en los impuestos finales.
+
+[2] Oficio N° 876 de 2016. Ver también Oficio N° 1985 de 2015.

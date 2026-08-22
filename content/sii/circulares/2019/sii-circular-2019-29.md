@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano. Fuente: Subdirección de Avaluaciones Circular N° 30 del 10 de Julio del 2019 Tabla de cálculos de reajustes, intereses y multas agosto 2019. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2019 y el 9 de agosto de 2019. Fuente: Oficina de Gestión Normativa Circular N° 28 del 10 de Julio del 2019 Tablas de Impuesto Único de S…
+cción de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2019 y el 9 de agosto de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

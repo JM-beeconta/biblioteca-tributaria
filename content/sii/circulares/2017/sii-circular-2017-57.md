@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 58 del 07 de Diciembre del 2017 Tablas de Impuesto Único de Segunda categoría para el mes de enero del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Precisa el concepto de establecimiento permanente, en relación con la obligación de inscripción en el Rol Único Tributario. Fuente: Departamento Impuestos Directos Circular N° 56 del 27 de Noviembre del 2017 Tabla de Cálculos…
+oacute;n Normativa Precisa el concepto de establecimiento permanente, en relación con la obligación de inscripción en el Rol Único Tributario. Fuente: Departamento Impuestos Directos
 
 ## Referencias detectadas
 

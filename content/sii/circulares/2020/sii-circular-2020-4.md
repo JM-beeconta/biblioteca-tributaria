@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2020
-- Fecha: 2020-01-17
+- Fecha: 2020-01-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu4.pdf
 - Hash SHA-256: 0ece2bd370e2a9d4a7aca6b9b5704c3fffd74704d7650669e4eefb31a06d312b
 
 ## Resumen
 
-gentes para el año calendario 2020. Fuente: Subdirección Normativa Circular N° 5 del 17 de Enero del 2020 Aplicación de la cláusula de la nación más favorecida al convenio con Italia. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas febrero 2020. Fuente: Subdirección de Fiscalización Circular N° 3 del 09 de Enero del 2020 Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad del saldo de utilidades tributables, del saldo total crédito y d…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas febrero 2020. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

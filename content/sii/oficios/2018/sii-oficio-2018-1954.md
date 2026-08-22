@@ -6,262 +6,98 @@
 - Año: 2018
 - Fecha: 2018-06-25
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1310.doc
-- Hash SHA-256: 2e4a6444468808a24712487ae4de9939e37a94bef0d1d3bd914afdcc58977251
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1311.htm
+- Hash SHA-256: 77392f68a68584b7d3655683f2e126731b1a3d9530d0bee3b594592f664acf95
 
 ## Resumen
 
-Art. 21, Art. 31, N°7, Art. 39, N° 4, letra g) &ndash; . (Ord. Nº 1311, de 25-06-2018) | Word Tratamiento tributario de las ayudas monetarias que realiza una fundación. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20, N° 4, Art. 74, N°2, Art. 83 &ndash; Ley sobre Impuesto al Valor Agregado, Art. 8, letra g) &ndash; Circular N° 126, de 1977. (Ord. Nº 1310, de 25-06-2018) | Word Honorarios médicos &ndash; Procedencia de emitir Liquidación Factura Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art.…
+r donación. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 21, Art. 31, N°7, Art. 39, N° 4, letra g) &ndash; . (Ord. Nº 1311, de 25-06-2018) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":126,"year":1977}
-- {"type":"articulo","law":"LIR","article":"20 N"}
-- {"type":"articulo","law":"LIR","article":"74 N"}
-- {"type":"articulo","law":"LIR","article":"83"}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"oficio","number":1954,"year":2004}
+- {"type":"oficio","number":4335,"year":2005}
+- {"type":"oficio","number":6473,"year":2003}
+- {"type":"oficio","number":4998,"year":2006}
+- {"type":"articulo","law":"LIR","article":"31 N"}
+- {"type":"articulo","law":"LIR","article":"39"}
+- {"type":"articulo","law":"LIR","article":"39 N"}
+- {"type":"articulo","law":"LIR","article":"21"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N° 4, ART. 74, N°2, ART.
-  83 – LEY SOBRE IMPUESTO AL VALOR AGREGADO, ART. 8, LETRA G) – CIRCULAR N°
-                 126, DE 1977. (ORD. N° 1310, DE 25.06.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21, ART. 31, N°7, ART. 39, N° 4, LETRA G) – OFICIO N° 1954, DE 2004. (Ord. Nº 1311, de 25-06-2018)
 
+TRATAMIENTO TRIBUTARIO DE LAS AYUDAS MONETARIAS QUE REALIZA UNA FUNDACIÓN.
 
+Se ha solicitado a este Servicio pronunciarse sobre el tratamiento tributario aplicable a las ayudas monetarias realizadas por una fundación en cumplimiento del mandato estatutario.
 
-Honorarios médicos – Procedencia de emitir Liquidación Factura
+I ANTECEDENTES
 
+De acuerdo a su presentación, la fundación se constituyó como consecuencia del mandato contenido en un testamento, en virtud del cual el causante dispuso que la parte más importante de sus bienes se destinara a constituir una fundación de beneficencia que llevaría su nombre y cuyo objetivo principal es proteger la ancianidad, fomentar la educación, promover la producción de obras literarias y ayudar al TTT.
 
-Se ha solicitado un pronunciamiento a esta Dirección Nacional,  respecto  de
-consulta formulada por XXXXX, sobre la procedencia de  emitir  el  documento
-tributario denominado “Liquidación Factura”.
+En el cumplimiento de su objeto, la fundación realiza labores de beneficencia a través de la entrega de dinero a las entidades específicas nombradas en los estatutos. Al respecto, estima que ese sería el giro de la fundación, esto es, el cumplimiento de una finalidad lícita y específica dispuesta por el testador.
 
-I.-  ANTECEDENTES:
+Agrega que hace algún tiempo, las acciones de las que es dueña la fundación le han generado ingresos significativos por dividendos, sumas que ha destinado a cumplir la voluntad de su fundador y a solventar gastos menores de administración.
 
-Expone esa Dirección  que  recibió  una  solicitud  de  parte  de  XXXXX  en
-relación al médico Sr. TTT consultando la  procedencia  de  la  emisión  del
-documento "liquidación factura".
+Al respecto, la Dirección Regional Santiago Sur efectuó una fiscalización a la fundación, indicando que las ayudas en dinero que otorga no son gastos necesarios para producir la renta, emitiendo las liquidaciones correspondientes. Además, su presentación señala que el Servicio las consideró donaciones, en circunstancias que se efectúan por obligación, en cumplimiento del encargo del fundador, constituyendo un mandato póstumo, regulado en el artículo 2169 del Código Civil.
 
-Se agrega que practicado un análisis a  la  documentación  aportada  por  el
-contribuyente, así como a la normativa vigente, han surgido  dudas  respecto
-a la correcta emisión de la  documentación  tributaria  según  se  expone  a
-continuación:
+De acuerdo a su presentación, si este Servicio afirma que las ayudas realizadas por la fundación son donaciones y constituyen gastos rechazados afectos con impuesto, se contradiría el criterio establecido en el Oficio N° 4335 de 2005, en el sentido que el gasto efectuado por partidos políticos es aceptado cuando se invierte íntegramente en el financiamiento de la colectividad.
 
-La operación descrita por el contribuyente consiste en  que  la  cooperativa
-proporciona  al  médico   el   recinto   donde   realiza   sus   actividades
-profesionales de atención de  pacientes.  A  su  vez,  es  la  encargada  de
-realizar el cobro a los pacientes (se ignora qué  tipo  de  documento  emite
-esta última a los pacientes).
+Indica que la base imponible de un contribuyente se conforma por los ingresos que obtiene menos los gastos, los que se aceptan deducir bajo condición que estén relacionados con los ingresos. En el caso particular de la fundación, los ingresos no existirían si los gastos no se hicieren, porque el fundador no los habría aportado si hubiera sabido que el gasto no podría efectuarlo legalmente.
 
-Con posterioridad, la cooperativa emite una "liquidación factura" al  médico
-reteniendo la comisión acordada con este último. El médico a su vez  declara
-en su F22 las rentas obtenidas por los servicios profesionales  prestados  a
-título de honorarios sin retención.
+En su opinión, este Servicio habría considerado equivocadamente que estas ayudas fueron realizadas en el marco del artículo 31 N° 7 de la Ley sobre Impuesto a la Renta, que no aplicaría a la fundación, por cuanto las ayudas monetarias se hicieron conforme a los propósitos definidos por el fundador.
 
-A juicio de la Dirección Regional  Oriente,  que  originalmente  recibió  la
-consulta, se debió emitir  boletas  de  honorarios  por  parte  del  médico,
-conforme a los artículos N°s. 42 N° 2 y 48 de la Ley de Impuesto a la  Renta
-(LIR).
+Al respecto, señala que el Servicio, en el Oficio N° 6473 de 2003 expresó que los aportes que efectúen las empresas afiliadas a las asociaciones gremiales deben ser aceptados como gastos en la medida que tales erogaciones estén establecidas en los estatutos de la asociación gremial respectiva, con caracteres de uniformidad y generalidad y siempre que se destinen al cumplimiento de los fines propios de la asociación, los cuales deben estar claramente establecidos en sus estatutos dentro del objeto principal de la entidad, y en beneficio directo o indirecto del desarrollo de sus asociados.
 
-Por consiguiente, y en conformidad a lo establecido en los  N°  1  y  2  del
-Artículo 6° del C.T., se solicita a esta Dirección Nacional se determine  lo
-siguiente
+A continuación cita una sentencia de la I. Corte de Apelaciones de Valdivia, que habría establecido que aun cuando el concepto de gasto necesario no ha sido definido por la ley, debe entenderse que debe estar referido a una finalidad específica relacionada con el giro de la empresa, y una sentencia de la Excma. Corte Suprema que se habría pronunciado en el sentido que los desembolsos que la empresa efectuó para financiar actividades de capacitación, recreo, atención psicológica y convivencias en fechas especiales, constituyen gastos aceptados.
 
-1.- Si el contribuyente de Impuesto  Global  Complementario  (médico)  puede
-  declarar sus rentas a título de honorario sin retención.
+Finalmente expresa que la contribuyente pretende reclamar de las liquidaciones N° 288 y 289, ambas de 14.07.2017.
 
-2.- Si el documento "liquidación factura" es  o  no  el  instrumento  idóneo
-  para los efectos de la retención de la comisión, toda vez que el médico a
-  quien se le retiene parte de sus  ingresos  es  un  contribuyente  de  la
-  Segunda Categoría, cuestión que no se da en el contexto de la Circular N°
-  126 de  1977  que  trata  la  liquidación  factura  a  propósito  de  los
-  contribuyentes del Impuesto al Valor Agregado.
+Por las razones antes señaladas, solicita confirmar los siguientes criterios:
 
-3.- Si la comisión que retiene  la  Cooperativa  por  las  prestaciones  del
-  médico, se encuentran o no afectas al Impuesto al  Valor  Agregado,  dado
-  que las liquidaciones facturas que dan cuenta de las comisiones retenidas
-  al médico estarían siendo emitidas exentas de IVA, en circunstancias que,
-  conforme al artículo 20 N° 4 de la LIR, podría tratarse  de  comisionista
-  con oficina establecida, encontrándose afecta.
+a) Que las ayudas monetarias realizadas por una fundación en cumplimiento del mandato estatutario y, por lo tanto, obligatorias para la entidad, constituyen un gasto aceptado.
 
-II.-  ANALISIS:
-a) En relación a la Ley sobre Impuesto a la Renta.
-Sobre el particular, respecto a la primera consulta, procede señalar que  el
-médico,  deberá  extender  una  boleta  de  honorarios  por  los   servicios
-prestados. De la consulta  no  queda  claro  si  los  servicios  los  presta
-directamente a los pacientes o los presta a través de la Cooperativa. Si  el
-médico presta sus servicios  a  la  Cooperativa,  siendo  ésta  una  persona
-jurídica que debe llevar contabilidad,  será  la  Cooperativa  la  que  debe
-efectuar la retención del 10% de  los  honorarios  pagados,  de  acuerdo  al
-artículo 74 N°2 de la LIR. Si  la  referida  retención  no  se  efectúa,  la
-responsabilidad por el pago recae sobre  los  obligados  a  efectuarla,  sin
-perjuicio de que el Servicio puede  girar  el  impuesto  correspondiente  al
-beneficiario de la renta afecta, según lo dispone el artículo 83 de la  LIR.
+b) Que estas ayudas no constituyen una donación, sino una obligación que se debe cumplir en virtud de la voluntad del causante, contenidas en los estatutos de la fundación.
 
-Si en cambio, el médico presta sus servicios directamente a  los  pacientes,
-será el propio profesional quien deberá enterar en arcas  fiscales  un  pago
-provisional mensual con tasa  del  10%  de  los  honorarios  percibidos,  de
-acuerdo a lo dispuesto en el artículo 84 letra b) de la Ley  sobre  Impuesto
-a la Renta.
-En ambos casos, el entero en arcas fiscales deberá realizarse entre el  1  y
-el 12 del mes siguiente a de la obtención de  los  ingresos  de  acuerdo  lo
-dispuesto en los artículos 78 y 91 de la LIR.
-b) En relación al Impuesto al valor Agregado.
+c) Que el artículo 31 N° 7 de la Ley sobre Impuesto a la Renta no puede aplicarse a la fundación que representa, porque ésta no reviste la calidad de &ldquo;empresa&rdquo; al carecer de ánimo de lucro respecto de las ayudas monetarias prestadas.
 
-En su segunda consulta, se solicita confirmar si  la  "liquidación  factura"
-es o no el instrumento idóneo para  los  efectos  de  la  retención  de  una
-comisión.
-En estos casos, habrá dos operaciones: por un lado, la venta o  el  servicio
-principal, que podrá estar gravado con IVA o no; y la  comisión  propiamente
-tal, que  corresponde  a  un  servicio  prestado  por  un  mandatario  a  su
-respectivo mandante y, por regla general, gravado con IVA.
-Sobre dicha materia, cabe tener presente que el artículo  8°,  del  D.L.  N°
-825 de 1974,  grava  con  Impuesto  al  Valor  Agregado  las  ventas  y  los
-servicios, estos últimos siempre que su remuneración provenga del  ejercicio
-de alguna de las actividades comprendidas en los N°  3  ó  4,  del  artículo
-20°, de la Ley sobre  Impuesto  a  la  Renta,  según  lo  dispuesto  por  el
-artículo 2°, N° 2, del deferido decreto ley.
-El N° 4 del artículo 20° de la Ley de la Renta hace referencia a las  rentas
-obtenidas por corredores y  comisionistas  con  oficina  establecida,  entre
-otras, encontrándose, por tanto, gravada con IVA.
-Los comisionistas y mandatarios en general, son sujetos del IVA sólo por  el
-monto de su comisión o remuneración, caso en el cual deberán emitir  boletas
-o facturas, según corresponda, afectas a dicho impuesto.
-En este sentido, el Artículo 22° del D.S. N° 55 de 1977,  Reglamento  de  la
-Ley sobre Impuesto a las Ventas y Servicios  (el  “Reglamento”),  modificado
-por el D.S. N° 682 de 2017, ambos del Ministerio de Hacienda,  establece  la
-forma de tributar de los comisionistas,  consignatarios,  martilleros  y  en
-general, de cualquier persona que compre o venda bienes  corporales  muebles
-o  inmuebles  por  cuenta  de  terceros   vendedores,   señalando   que   el
-comisionista es sujeto del Impuesto al Valor Agregado sólo por  su  comisión
-y el mandante, por su parte, es sujeto del tributo por el monto total de  la
-venta.
-De  este  modo,  y  para  permitir  el  cumplimiento  de  las   obligaciones
-tributarias, el artículo  73°  Reglamento,  dispone  que  los  comisionistas
-distribuidores deben  efectuar  a  sus  mandantes  dentro  de  cada  período
-tributario, a lo menos una liquidación del total de  las  ventas  o  de  los
-servicios  efectuados  por  su  cuenta  y  el  Impuesto  al  Valor  Agregado
-recargado en dichas operaciones.
-Por ende, como se desprende de la Circular N° 126 de 1977,  el  comisionista
-o mandatario debe emitir, por la operación  principal,  boletas  o  facturas
-cumpliendo todos los requisitos y plazos que la ley y reglamento  establecen
-como norma general.
-Por otro lado, el mandatario debe emitir  liquidaciones  del  total  de  las
-ventas o de los servicios efectuados por su cuenta y el  Impuesto  al  Valor
-Agregado recargado en dichas operaciones. Los impuestos de  que  den  cuenta
-estos últimos documentos constituyen el débito fiscal  del  mandante,  quien
-no tiene obligación legal de  emitir  factura  o  boleta  por  la  operación
-realizada (porque ya lo  hizo  su  mandatario).  Además  de  la  liquidación
-señalada, el comisionista o  mandatario  debe  otorgar  a  su  mandante  una
-factura por el total de la comisión o remuneración  pactada,  recargando  el
-IVA correspondiente.
-Para evitar la extensión de los documentos referidos en  lo  precedente,  la
-referida  Circular  N°  126  permite  refundirlos  en  uno  solo  denominado
-“liquidación-factura”, en el cual debe dejarse constancia de ambos actos.
-Del análisis de las normas contenidas en el Reglamento, se desprende que  el
-sistema implementado en sus artículos 22° y  73°,  requiere  como  condición
-para operar, por una parte, que  el  comisionista  venda,  compre  o  preste
-servicios por cuenta de terceros, y por la otra,  que  aquellas  operaciones
-que efectúa por encargo del mandante se encuentren gravadas con IVA, ya  que
-la finalidad de dicho sistema es lograr traspasar el débito  fiscal  por  el
-Impuesto al Valor Agregado originado en la  operación  principal  al  sujeto
-del impuesto que en esos casos resulta ser el mandante.
-De faltar alguno de estos elementos, no resulta  procedente  la  emisión  de
-liquidaciones, ni liquidación-factura.
-En relación al  presente  caso,  no  resulta  clara  la  existencia  de  una
-prestación de servicios por cuenta de un tercero mandante, en  los  términos
-ya señalados.
-Además, tampoco se estaría en presencia de una operación principal  gravada,
-toda vez que la prestación de servicios profesionales médicos,  ya  sea  que
-los preste el médico directamente a los pacientes o que los preste a  través
-de la Cooperativa, no se encuentran gravadas con IVA por no  corresponder  a
-actividades comprendidas en los N° 3 ó 4, del artículo 20°, de la Ley  sobre
-Impuesto a la Renta, conforme a la definición del artículo 2 N° 2  del  D.L.
-N° 825 de 1974, de tal manera que no  existe  ningún  débito  que  deba  ser
-traspasado a otro contribuyente  mediante  una  liquidación  o  liquidación-
-factura.
-Cabe concluir que, siendo efectivo lo anterior,  no  resulta  procedente  la
-emisión de dicho documento tributario.
-En su tercera consulta, se solicita confirmar si la comisión que retiene  la
-Cooperativa por las prestaciones del médico, se encuentran o no  afectas  al
-Impuesto al Valor Agregado, dado  que  las  liquidaciones-facturas  que  dan
-cuenta de las  comisiones  retenidas  al  médico  estarían  siendo  emitidas
-exentas de IVA, en circunstancias que, conforme al artículo 20 N°  4  de  la
-LIR, podría tratarse de comisionista con oficina establecida,  encontrándose
-afecta.
-Conforme a lo señalado  en  su  Oficio,  la  cooperativa  proporcionaría  al
-médico el recinto donde realiza sus actividades  profesionales  de  atención
-de pacientes y se encargaría de realizar el  cobro  a  los  pacientes;  como
-contraprestación, la cooperativa cobraría al médico  una  comisión  acordada
-con este último.
-Entendiendo que  las  prestaciones  de  la  cooperativa  corresponden  a  un
-servicio integral, la comisión cobrada correspondería a una renta del  N°  4
-del artículo 20° de la LIR, por corresponder a un “comisionista con  oficina
-establecida” encontrándose, por tanto, gravada con IVA,  por  verificar  los
-elementos del hecho gravado básico “servicio” del artículo 2 N° 2  del  D.L.
-N° 825 de 1974.
-Sin perjuicio de lo señalado precedentemente, cabe  tener  presente  que  el
-artículo 5, inciso segundo, del Reglamento  dispone  que  no  se  encuentran
-gravadas con el Impuesto al Valor Agregado, por tratarse de  actividades  no
-comprendidas en los números 3 y 4 del artículo 20° de la LIR, los  servicios
-relacionados  con  la  actividad  cooperativa  en   sus   relaciones   entre
-cooperativa y cooperado, en la forma  y  condiciones  que  lo  determine  la
-Dirección Nacional de Impuestos Internos.
-Lo anterior implica que, en la  eventualidad  que  el  médico  Sr.  TTT  sea
-efectivamente cooperado de XXXXX, la comisión que esta última  le  cobre  no
-se encontrará gravada con IVA.
-Aun siendo lo efectivo lo anterior, se debe considerar que  el  artículo  8,
-letra g), del D.L. N°  825  de  1974  grava  con  IVA,  como  hecho  gravado
-especial, el arrendamiento, subarrendamiento, usufructo  o  cualquiera  otra
-forma de cesión del uso o goce temporal de inmuebles  amoblados.  Por  ende,
-si el recinto en el cual se realizan las  actividades  medicas  es  provisto
-por la cooperativa amoblado, dicha norma resulta plenamente aplicable  y  la
-remuneración cobrada por la cooperativa se encontrará gravada con IVA.
-III.- CONCLUSIÓN:
+II ANÁLISIS
 
-Una persona jurídica obligada a llevar contabilidad, que pague honorarios  a
-un profesional médico, debe retener el 10% de los  honorarios  y  enterarlos
-en arcas  fiscales.  Si  el  médico  presta  servicios  directamente  a  sus
-pacientes, el propio médico debe efectuar pagos provisionales mensuales  con
-tasa del 10% de los honorarios percibidos. En  ambos  casos,  el  entero  en
-arcas fiscales debe efectuarse hasta el día 12 del mes  siguiente  de  aquel
-en que se pagan o perciben los honorarios.
+De acuerdo a una reiterada jurisprudencia de este Servicio y frente al Impuesto a la Renta, &ldquo;todas las personas, sean naturales o jurídicas, tengan o no fines de lucro, revisten la calidad de contribuyentes, en la medida que puedan estar sujetas a algunos de los tributos que la Ley sobre Impuesto a la Renta establece, lo cual ocurrirá en caso que posean bienes o realicen actividades susceptibles de generar rentas clasificadas en alguna de las categorías que dicha ley contempla. En efecto, salvo excepciones legales taxativas, la Ley sobre Impuesto a la Renta no atiende a la naturaleza o finalidad de las personas para gravarlas con impuesto, sino que considera las actividades que éstas realizan, los actos y contratos que ejecutan y los beneficios económicos que puedan obtener.&rdquo;
 
-En cuanto al IVA, no corresponde la emisión de liquidaciones-factura,  salvo
-que exista, por una parte, un contribuyente que,  en  lo  atingente,  preste
-servicios por cuenta de terceros, y por la otra,  que  aquellas  operaciones
-que efectúa por encargo del mandante se encuentren gravadas con IVA, ya  que
-la finalidad de dicho sistema es lograr traspasar el débito  fiscal  por  el
-Impuesto al Valor Agregado originado en la  operación  principal  al  sujeto
-del impuesto que en esos casos resulta ser el mandante,  circunstancias  que
-no concurrirían en el caso señalado.
+Conforme lo anterior, este Servicio ha resuelto que &ldquo;las personas jurídicas regidas por el Título XXXIII del Libro I del Código Civil, dentro de las cuales se comprenden las Corporaciones de Derecho Privado, estarán afectadas con impuesto, en la medida que obtengan rentas clasificadas en la Primera Categoría de la Ley de la Renta, atendiendo a la fuente generadora de los ingresos, los cuales pueden provenir, entre otros, de actividades rentísticas, de inversiones en capitales mobiliarios, del comercio, industria o servicios o de cualquiera otra, que se comprenda en alguno de los números 1 al 5 del artículo 20 de la ley precitada.&rdquo;
 
-Además, la comisión o remuneración cobrada por la cooperativa se  encontrará
-gravada por corresponder a una renta del N° 4 del artículo 20° de la  LIR  y
-por verificarse los  elementos  del  hecho  gravado  básico  “servicio”  del
-artículo 2 N° 2 del D.L. N° 825 de 1974, siempre y cuando el médico Sr.  TTT
-no sea cooperado de XXXXX.
+Por consiguiente, las personas jurídicas, en general, incluyendo las instituciones de derecho privado señaladas así como las fundaciones dependientes de una persona jurídica (fundación) de derecho público , se encuentran afectas a las demás obligaciones tributarias, tales como inscribirse en el Rol Único Tributario, efectuar Declaración Jurada de Iniciación de Actividades, presentar Declaraciones Anuales de Impuesto; y, en general, cumplir todas las demás obligaciones tributarias, ya sea de carácter legal o administrativas en su calidad de contribuyente de la Primera Categoría.
 
-En todo caso, se encontrará gravada, conforme al artículo 8, letra  g),  del
-D.L. N° 825 de 1974, que grava con IVA, como hecho gravado especial,  si  el
-recinto en el cual se realizan las actividades medicas es provisto,  por  la
-cooperativa al médico, amoblado.
+En lo que respecta específicamente al tratamiento tributario de las erogaciones, consistentes en ayudas, efectuadas por instituciones sin fines de lucro, este Servicio señaló en el Oficio N° 4998 de 2006, a propósito de una fundación de derecho público, que &ldquo;los gastos en que incurra la citada Fundación, consistentes éstos en ayudar a familias de escasos recursos y a cada una de sus miembros, en el ámbito que señala en su escrito,&hellip; tales erogaciones no se aceptan como gasto para los efectos tributarios, ya que en la Ley de la Renta no existe ninguna disposición legal, especialmente en su artículo 31, que autorice la deducción de sumas destinadas a los fines que indica.&rdquo;
 
+Por lo tanto, prosigue el citado oficio, &ldquo;en el evento de que tales desembolsos se hayan deducido de las rentas afectas al Impuesto de Primera Categoría que pueda obtener la citada Fundación, alterando con ello el resultado tributario sobre el cual debe cumplir con el tributo antes mencionado, dichas partidas deben agregarse a la renta bruta para su afectación con el referido gravamen de categoría, sin que les sea aplicable la tributación dispuesta por el artículo 21 de la ley del ramo, atendido a que este tipo de entes jurídicos no se comprenden dentro de los señalados por esta última norma legal.&rdquo;
 
+Considerando que, como se expuso, las personas jurídicas, en general, se encuentran afectas a impuestos y a las demás obligaciones tributarias, sin distinguir si las fundaciones son de derecho público o privado, el mismo criterio señalado en el Oficio N° 4998 de 2006 debe aplicarse respecto de las erogaciones efectuadas por una fundación de derecho privado, aunque sean efectuadas en cumplimiento del mandato previsto por el fundador.
 
+En consecuencia, no es posible confirmar que a) las ayudas monetarias realizadas por una fundación en cumplimiento del mandato estatutario y, por lo tanto, obligatorias para la entidad, constituyen un gasto aceptado; como tampoco que b) dichas &ldquo;ayudas&rdquo; no constituyen una donación, porque aunque sean obligatorias para la fundación &ndash; en cumplimiento de la voluntad del causante &ndash; siguen siendo atribuciones convencionales dispositivas entre vivos, no debidas, gratuitas y lucrativas de una cosa corporal o incorporal o de un valor, que disminuye el patrimonio del donante y aumenta el del donatario (Guzmán Brito, De las Donaciones entre vivos, Conceptos y Tipos; Lexisnexis, 1&ordf; Edición, 2005, páginas 35 a 36) .
 
+En cuanto al tercer criterio que solicita confirmar, cabe señalar que, de acuerdo al artículo 31 N° 7 de la Ley sobre Impuesto a la Renta se aceptan como gasto las donaciones efectuadas cuyo único fin sea la realización de programas de instrucción en la medida que no excedan ciertos límites de la renta líquida imponible o capital propio de la &ldquo;empresa&rdquo;.
 
+Al respecto, y a pesar del concepto amplio de empresa &ndash; un todo constituido por el capital y el trabajo, encaminado a la realización de actividades mercantiles, industriales o de prestación de servicios con fines lucrativos &ndash; reiteradamente utilizado por este Servicio , también se ha precisado, por ejemplo a propósito de la contra excepción establecida en el artículo 39, inciso final, de la Ley sobre Impuesto a la Renta, que, de los elementos para configurar una empresa, no concurre el propósito lucrativo en el caso de los &ldquo;entes que se rigen por el Título XXXIII del Libro I del Código Civil, como son las Corporaciones o Fundaciones, cuyo objetivo principal por naturaleza es no perseguir un fin lucrativo, sin distribución de beneficios a terceras personas distintas a sus socios fundadores o afiliados, sino que las eventuales rentas ganadas se invierten en las actividades propias de las entidades con el fin de entregar una mejor prestación a sus asociados o integrantes de la Corporación o Fundación.&rdquo;
 
+De este modo, se ha resuelto que una fundación &ldquo;no puede ser calificada de una "empresa", y por lo tanto, respecto de los intereses obtenidos de los depósitos efectuados en el mercado financiero producto de los excedentes de los fondos acumulados por las cotizaciones de sus afiliados, se encuentra exenta del impuesto de Primera Categoría, conforme a lo dispuesto por el artículo 39 Nº 4, letra g) de la Ley sobre Impuesto a la Renta&hellip;&rdquo;
 
+Conforme lo anterior, se confirma que no es posible aplicar a una fundación lo dispuesto en el artículo 31 N° 7 de la Ley sobre Impuesto a la Renta.
 
+III CONCLUSIONES
 
-                                       FERNANDO BARRAZA LUENGO
+Las denominadas &ldquo;ayudas monetarias&rdquo; que realiza la fundación en cumplimiento de sus estatutos, constituyen donaciones que no pueden ser rebajadas de la renta líquida imponible de Primera Categoría, sin perjuicio de no serles aplicables lo dispuesto en el artículo 21 de la Ley sobre Impuesto a la Renta.
 
-       DIRECTOR
+Se confirma que el artículo 31 N° 7 de la Ley sobre Impuesto a la Renta no es aplicable a las fundaciones, atendido que carecen del fin de lucro, propio del concepto de &ldquo;empresa&rdquo;.
 
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 1311, de 25.06.2018
 
-                        Oficio N° 1310, de 25.06.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
+Subdirección Normativa
+
+Dpto. de Técnica Tributaria

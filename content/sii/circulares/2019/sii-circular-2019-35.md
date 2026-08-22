@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lculos de reajustes, intereses y multas octubre 2019. Fuente: Subdirección de Fiscalización Circular N° 36 del 10 de Septiembre del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2019 y el 9 de octubre de 2019. Fuente: Oficina de Gestión Normativa Circular N° 34 del 09 de Agosto del 2019 Tabla de cálculos…
+Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2019 y el 9 de octubre de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

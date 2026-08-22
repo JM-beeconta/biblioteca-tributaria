@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2017
-- Fecha: 2017-06-09
+- Fecha: 2017-05-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu31.pdf
 - Hash SHA-256: d7244462d2249bb96df8074848792e6f957622ea0afb6f597f6e32f8db35da49
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 32 del 09 de Junio del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2017. Fuente: Subdirección de Fiscalización Cir…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

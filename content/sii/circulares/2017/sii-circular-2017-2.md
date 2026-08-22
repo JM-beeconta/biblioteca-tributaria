@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Departamento de Operaciones Circular N° 3 del 11 de Enero del 2017 Tabla de Impuesto Único de Segunda categoría para el mes de febrero del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Complementa instrucciones impartidas en las Circulares números 20 y 21, ambas de 4 de abril de 2014 Fuente: Oficina de Normas y Casos Especiales Circular N° 1 del 05 de Enero del 2017 Informa datos relacionados con la aplicación del sistema de corrección monetaria, reaju…
+oacute;n Normativa Complementa instrucciones impartidas en las Circulares números 20 y 21, ambas de 4 de abril de 2014 Fuente: Oficina de Normas y Casos Especiales
 
 ## Referencias detectadas
 

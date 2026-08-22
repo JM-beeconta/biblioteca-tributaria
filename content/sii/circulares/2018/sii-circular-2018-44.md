@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 44
 - Año: 2018
-- Fecha: 2018-09-10
+- Fecha: 2018-08-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu44.pdf
 - Hash SHA-256: 6b634fc4be498c578a7d6bed5656dd3a579d63c2f5ce1275442e50a81fbf18bd
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 45 del 10 de Septiembre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Septiembre 2018 Fuente: Subdirección de Fiscalización Circular N° 43 del 10 de Agosto del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de…
+acute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Septiembre 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto Único de Segunda Categoría para el mes de febrero de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 3 del 11 de Enero del 2019 Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2019. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2019 y el 9 de febrero de 2019. Fuente: Oficina de Gestión Normativa Circular N° 1 del 07 de Enero del 2019 Informa datos relacionados c…
+cción de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2019 y el 9 de febrero de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 54
 - Año: 2020
-- Fecha: 2020-08-18
+- Fecha: 2020-08-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu54.pdf
 - Hash SHA-256: 833f581fe03f47667d7c3980aded299f03f1b309decf9d3140ec83cf25feb9eb
 
 ## Resumen
 
-t='_blank'>Circular N° 55 del 18 de Agosto del 2020 Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado por las Leyes N° 20.848, N° 20.899 y N° 21.210. Deja sin efecto la Circular N° 48 de 1978. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas septiembre 2020. Fuente: Subdirección de Fiscalización. Circular N° 53 del 10 de Ago…
+acute;n Normativa. Tabla de cálculos de reajustes, intereses y multas septiembre 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 12 del 15 de Febrero del 2018 Modifica la Circular N° 19, del 19 de abril de 2004, que imparte instrucciones sobre los procedimientos de determinación y pago del impuesto a las asignaciones por causa de muerte y donaciones y sustituye sus documentos incluidos en el anexo. Fuente: Subdirección de Asistencia al Contribuyente Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley sobre Impuesto a…
+a al Contribuyente Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley sobre Impuesto a la Renta Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

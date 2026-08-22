@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 32
 - Año: 2017
-- Fecha: 2017-04-04
+- Fecha: 2017-03-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja643.htm
 - Hash SHA-256: 34cd08cf530f78583fbfcedc50e7ee82c1a8deaa26043a919849c23ef5ce6e10
 
 ## Resumen
 
-. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14 &ndash; Oficio N° 2.153, de 2013. (Ord. Nº 705, de 04-04-2017) | Word Solicita se confirme criterio establecido en el Oficio N°2.153 de 2013, de este Servicio. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 84 &ndash; Ley N° 20.712, Art. 10 transitorio &ndash; Circular N° 67, de 2016 &ndash; . (Ord. Nº 643, de 29-03-2017) | Word Situación de un Fondo de Inversión Privado, que es considerado como sociedad anónima para los efectos de la Ley so…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 84 &ndash; Ley N° 20.712, Art. 10 transitorio &ndash; Circular N° 67, de 2016 &ndash; . (Ord. Nº 643, de 29-03-2017) |
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2017
-- Fecha: 2017-09-22
+- Fecha: 2017-09-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu47.pdf
 - Hash SHA-256: 25c38428b0b74565bbb5ee37cb71e9614585c6dd5f2fd3d13b6316631ec289a4
 
 ## Resumen
 
-como respecto de procedimientos iniciados de oficio. Fuente: Subdirección Avaluaciones Circular N° 48 del 22 de Septiembre del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas Octubre 2017 Fuente: Subdirección de Fiscalización Actualiza instrucciones operativas referidas al Certificado de Asignación de Roles de Avalúo que utilizan Notarías, Conservadores de Bienes Raíces, Ministerio de Bienes Nacionales, SERVIU, Empresas de Gestión Inmobiliaria y Propietarios en General. Deroga Circular N°s 5, de 09.01.1998…
+scalización Actualiza instrucciones operativas referidas al Certificado de Asignación de Roles de Avalúo que utilizan Notarías, Conservadores de Bienes Raíces, Ministerio de Bienes Nacionales, SERVIU, Empresas de Gestión Inmobiliaria y Propietarios en General. Deroga Circular N°s 5, de 09.01.1998, 11, de 10.02.1997 y 60, de 18.10.1996. Fuente: OFICINA DE NORMAS Y CASOS ESPECIALES
 
 ## Referencias detectadas
 

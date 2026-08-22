@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 44
 - Año: 2020
-- Fecha: 2020-07-07
+- Fecha: 2020-06-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu44.pdf
 - Hash SHA-256: 21834c7019b748b437206e8246ca7b0907283c9d655923b246f87b9fd4736751
 
 ## Resumen
 
-e;n Normativa. Circular N° 45 del 07 de Julio del 2020 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210 a los artículos 41 F y 41 G de la Ley sobre Impuesto a la Renta. Reemplaza, en lo pertinente, la Circular N° 12 de 2015.Complementa Circular N° 40 de 2016. Fuente: Impuestos Directos Imparte instrucciones sobre Ley N° 21.210, de 24 de febrero de 2020, que modifica los artículos 6° letra A) Nº 2 y B), N° 4, 56; 26 bis; 98, 99, 100 bis, 111 bis y 165 del Código Tributario y articulo…
+Impuestos Directos Imparte instrucciones sobre Ley N° 21.210, de 24 de febrero de 2020, que modifica los artículos 6° letra A) Nº 2 y B), N° 4, 56; 26 bis; 98, 99, 100 bis, 111 bis y 165 del Código Tributario y articulo trigésimo tercero transitorio de la referida ley. Circular Miscelánea sobre Modificaciones al Código Tributario. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

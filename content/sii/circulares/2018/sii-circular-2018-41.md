@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ativa Circular N° 42 del 09 de Agosto del 2018 Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización. Fuente: Impuestos Directos Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 40 del 25…
+Impuestos Directos Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

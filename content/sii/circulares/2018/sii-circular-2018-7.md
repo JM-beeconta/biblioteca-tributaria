@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2018
-- Fecha: 2018-02-09
+- Fecha: 2018-01-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu7.pdf
 - Hash SHA-256: 844a8403ac49cf1b5c631d2745afd6163b0e4d5ab206a12231bfd9643241fd5e
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 8 del 09 de Febrero del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Imparte instrucciones relativas a la aplicación de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros (Convención de la Apostilla). Fuente: Departamento de Asesoría Jurídica C…
+oacute;n Normativa Imparte instrucciones relativas a la aplicación de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros (Convención de la Apostilla). Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

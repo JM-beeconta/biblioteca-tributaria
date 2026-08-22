@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de cálculos de reajustes, intereses y multas julio 2019 Fuente: Subdirección de Fiscalización Circular N° 25 del 11 de Junio del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2019 y el 9 de julio de 2019. Fuente: Oficina de Gestión Normativa Circular N° 23 del 16 de Mayo del 2019 Se modifican instrucciones con…
+Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2019 y el 9 de julio de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

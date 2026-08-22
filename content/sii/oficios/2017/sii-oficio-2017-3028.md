@@ -6,12 +6,12 @@
 - Año: 2017
 - Fecha: 2017-07-19
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1645.doc
-- Hash SHA-256: c118a8179931184e574e2f42e917ce24d794937c6f831bde930a640517114f10
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1645.htm
+- Hash SHA-256: 9e186fdcfe9d1a2b33be49fd0d3863a8aad309787abd41fa69b7d7f664a32519
 
 ## Resumen
 
-2147, de 2010. (Ord. Nº 1646, de 19-07-2017) | Word Beneficiario del crédito del artículo 23 inciso final, del Decreto Ley N°3.500, de 1980. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31 &ndash; Ley N° 19.857, Art. 18 &ndash; Circular N° 130, de 1977 &ndash; . (Ord. Nº 1645, de 19-07-2017) | Word Tratamiento tributario en una Empresa Individual de Responsabilidad Limitada (EIRL), de los gastos ocasionados por camioneta de propiedad del constituyente y representante legal de la EIRL. Renta &ndash; Ac…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31 &ndash; Ley N° 19.857, Art. 18 &ndash; Circular N° 130, de 1977 &ndash; . (Ord. Nº 1645, de 19-07-2017) |
 
 ## Referencias detectadas
 
@@ -19,120 +19,53 @@
 - {"type":"circular","number":27,"year":2003}
 - {"type":"circular","number":100,"year":1975}
 - {"type":"oficio","number":3028,"year":2011}
+- {"type":"articulo","law":"LIR","article":"14 ter"}
 - {"type":"articulo","law":"LIR","article":"31"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31 – LEY N° 19.857, ART. 18 –
-    CIRCULAR N° 130, DE 1977 – OFICIO N° 3028, DE 2011. (ORD. N° 1645, DE
-                                 19.07.2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31 – LEY N° 19.857, ART. 18 – CIRCULAR N° 130, DE 1977 – OFICIO N° 3028, DE 2011. (Ord. Nº 1645, de 19-07-2017)
 
-
-
-Tratamiento  tributario  en  una  Empresa  Individual  de   Responsabilidad
-Limitada (EIRL), de los gastos ocasionados por camioneta de  propiedad  del
-constituyente y representante legal de la EIRL.
+TRATAMIENTO TRIBUTARIO EN UNA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA (EIRL), DE LOS GASTOS OCASIONADOS POR CAMIONETA DE PROPIEDAD DEL CONSTITUYENTE Y REPRESENTANTE LEGAL DE LA EIRL.
 
 I.- ANTECEDENTES.
-Manifiesta que un contribuyente posee una EIRL, a  la  cual  representa.  El
-constituyente de la EIRL, en su  calidad  de  persona  natural,  compró  una
-camioneta, siendo su intención entregarla  para  el  uso  por  parte  de  la
-empresa, por  cuanto  ésta  posee  contactos  comerciales  con  una  empresa
-regional, para lo cual tiene pensado destinar dicho vehículo, por  lo  menos
-un par de veces al mes. La  citada  empresa  presta  servicios  de  asesoría
-comercial no afecta a IVA, y su tributación se rige por el artículo  14  ter
-de la Ley sobre Impuesto a la Renta. (LIR)
-De esta manera, efectuada una revisión a los antecedentes contenidos  en  la
-Circular N°130, de 1977, de este  Servicio,  que  establece  los  requisitos
-para que un vehículo forme parte del  activo  inmovilizado  de  la  empresa,
-observa  que  dicho  instructivo  no  establece  requisitos  que  anulen  la
-posibilidad que este vehículo integre el activo de la empresa,  asistiéndole
-dudas en cuanto al procedimiento de incorporación de dicho activo.
-En base a ello, consulta si un socio persona natural y representante de  una
-EIRL, puede ceder a la empresa dicho  vehículo  con  un  documento  notarial
-para que ésta lo utilice en sus labores comerciales o la visita a  clientes,
-y pueda así registrar como gasto el combustible utilizado y los repuestos  o
-mantenciones, o en  su  defecto,  si  el  dueño  del  citado  vehículo  debe
-venderlo a la empresa firmando ambas partes un documento notarial.
+
+Manifiesta que un contribuyente posee una EIRL, a la cual representa. El constituyente de la EIRL, en su calidad de persona natural, compró una camioneta, siendo su intención entregarla para el uso por parte de la empresa, por cuanto ésta posee contactos comerciales con una empresa regional, para lo cual tiene pensado destinar dicho vehículo, por lo menos un par de veces al mes. La citada empresa presta servicios de asesoría comercial no afecta a IVA, y su tributación se rige por el artículo 14 ter de la Ley sobre Impuesto a la Renta. (LIR)
+
+De esta manera, efectuada una revisión a los antecedentes contenidos en la Circular N°130, de 1977, de este Servicio, que establece los requisitos para que un vehículo forme parte del activo inmovilizado de la empresa, observa que dicho instructivo no establece requisitos que anulen la posibilidad que este vehículo integre el activo de la empresa, asistiéndole dudas en cuanto al procedimiento de incorporación de dicho activo.
+
+En base a ello, consulta si un socio persona natural y representante de una EIRL, puede ceder a la empresa dicho vehículo con un documento notarial para que ésta lo utilice en sus labores comerciales o la visita a clientes, y pueda así registrar como gasto el combustible utilizado y los repuestos o mantenciones, o en su defecto, si el dueño del citado vehículo debe venderlo a la empresa firmando ambas partes un documento notarial.
+
 II.- ANÁLISIS.
-Sobre el particular, en primer término, cabe señalar que la consulta  no  se
-relaciona con la interpretación de normas  de  tributación  fiscal  interna,
-sino con normas de derecho común, ajenas a la esfera de competencia de  este
-Servicio.[1]
-Por otra parte, se hace presente que la Circular SII N°130, de 1977,  citada
-por el contribuyente, se refiere a la improcedencia del  derecho  a  crédito
-fiscal del  IVA  utilizado  por  los  contribuyentes  en  la  importación  o
-adquisición de automóviles, station wagons y similares, materia  que  no  se
-encuentra relacionada con el caso en análisis.
-Ahora  bien,  de  acuerdo  con  la  Ley  N°19.857,  texto  que  autoriza  el
-establecimiento de las empresas individuales  de  responsabilidad  limitada,
-ésta es un persona jurídica, con patrimonio propio distinto al del  titular,
-es siempre comercial y está sometida al Código de  Comercio  cualquiera  que
-sea  su  objeto;  podrá  realizar  toda  clase  de  operaciones  civiles   y
-comerciales, excepto las reservadas por la ley a  las  sociedades  anónimas.
-En conformidad con lo dispuesto por el artículo 18,  de  dicha  ley,  en  lo
-demás, se aplicarán a las EIRL, las  disposiciones  legales  y  tributarias,
-aplicables a las sociedades comerciales de responsabilidad limitada.[2]
-De lo anterior, se evidencia que  las  EIRL  poseen  un  patrimonio  propio,
-distinto al de su titular. Ahora bien, respecto de  los  bienes  del  activo
-fijo de cada contribuyente, cabe expresar que  dichos  activos  corresponden
-exclusivamente a aquellos que son  de  propiedad  del  contribuyente  y  que
-además hayan sido adquiridos con la única intención  de  utilizarlos  en  el
-desarrollo habitual de su giro y  no  con  la  intención  de  negociarlos  o
-revenderlos o ponerlos en circulación[3]. Conforme con lo  señalado,  siendo
-la camioneta en cuestión de propiedad del titular de la EIRL, no puede  ésta
-estar formando parte del activo fijo de la EIRL.
-En  tal  circunstancia  los  gastos  que  ocasione  el  referido   vehículo,
-corresponderían, conforme a lo dispuesto en el artículo  31  de  la  LIR,  a
-gastos ajenos al giro de la EIRL y por tanto no necesarios para producir  su
-renta afecta a  Impuesto  de  Primera  Categoría;  salvo  que  exista  entre
-empresario individual  y EIRL un contrato que acredite la cesión del uso  de
-dicho bien,[4] en cuyo caso el valor en que se ceda el uso de  la  camioneta
-en cuestión constituirá ingreso para el cedente, valor  que  junto  con  los
-demás gastos que ocasione el uso de  la  camioneta  constituirán  a  su  vez
-gasto tributario de la EIRL, en la medida que cumplan con las condiciones  y
-requisitos que para tales efectos establece la LIR.
+
+Sobre el particular, en primer término, cabe señalar que la consulta no se relaciona con la interpretación de normas de tributación fiscal interna, sino con normas de derecho común, ajenas a la esfera de competencia de este Servicio. [1]
+
+Por otra parte, se hace presente que la Circular SII N°130, de 1977, citada por el contribuyente, se refiere a la improcedencia del derecho a crédito fiscal del IVA utilizado por los contribuyentes en la importación o adquisición de automóviles, station wagons y similares, materia que no se encuentra relacionada con el caso en análisis.
+
+Ahora bien, de acuerdo con la Ley N°19.857, texto que autoriza el establecimiento de las empresas individuales de responsabilidad limitada, ésta es un persona jurídica, con patrimonio propio distinto al del titular, es siempre comercial y está sometida al Código de Comercio cualquiera que sea su objeto; podrá realizar toda clase de operaciones civiles y comerciales, excepto las reservadas por la ley a las sociedades anónimas. En conformidad con lo dispuesto por el artículo 18, de dicha ley, en lo demás, se aplicarán a las EIRL, las disposiciones legales y tributarias, aplicables a las sociedades comerciales de responsabilidad limitada. [2]
+
+De lo anterior, se evidencia que las EIRL poseen un patrimonio propio, distinto al de su titular. Ahora bien, respecto de los bienes del activo fijo de cada contribuyente, cabe expresar que dichos activos corresponden exclusivamente a aquellos que son de propiedad del contribuyente y que además hayan sido adquiridos con la única intención de utilizarlos en el desarrollo habitual de su giro y no con la intención de negociarlos o revenderlos o ponerlos en circulación [3] . Conforme con lo señalado, siendo la camioneta en cuestión de propiedad del titular de la EIRL, no puede ésta estar formando parte del activo fijo de la EIRL.
+
+En tal circunstancia los gastos que ocasione el referido vehículo, corresponderían, conforme a lo dispuesto en el artículo 31 de la LIR, a gastos ajenos al giro de la EIRL y por tanto no necesarios para producir su renta afecta a Impuesto de Primera Categoría; salvo que exista entre empresario individual y EIRL un contrato que acredite la cesión del uso de dicho bien, [4] en cuyo caso el valor en que se ceda el uso de la camioneta en cuestión constituirá ingreso para el cedente, valor que junto con los demás gastos que ocasione el uso de la camioneta constituirán a su vez gasto tributario de la EIRL, en la medida que cumplan con las condiciones y requisitos que para tales efectos establece la LIR.
+
 III.- CONCLUSIÓN.
 
-De acuerdo con la  Ley  N°19.857,  las  EIRL  son  personas  jurídicas  con
-patrimonio propio distinto al del titular, de manera que  sólo  los  bienes
-que sean de propiedad de la EIRL pueden formar parte de su activo fijo,  no
-así los bienes que son de propiedad de su titular.
+De acuerdo con la Ley N°19.857, las EIRL son personas jurídicas con patrimonio propio distinto al del titular, de manera que sólo los bienes que sean de propiedad de la EIRL pueden formar parte de su activo fijo, no así los bienes que son de propiedad de su titular.
 
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 1645, de 19.07.2017
 
+Subdirección Normativa
 
+Dpto. de Impuestos Directos
 
-
-
-
-
-
-
-
-
-
-
-                                       FERNANDO BARRAZA LUENGO
-
-
-       DIRECTOR
-
-
-
-
-
-
-
-
-                        Oficio N° 1645, de 19.07.2017
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
 [1] Ver art. 6°, letra A, N°1, del Código Tributario.
-[2] Las instrucciones del SII sobre este tipo de personas jurídicas  constan
-en la Circular N° 27, de 2003, del SII.
+
+[2] Las instrucciones del SII sobre este tipo de personas jurídicas constan en la Circular N° 27, de 2003, del SII.
+
 [3] Circular N° 100 de 1975; Oficio N° 3.028 de 16.12.2011.
-[4] Comodato, arrendamiento u otro contrato o acto jurídico en que  se  ceda
-el uso del bien.
+
+[4] Comodato, arrendamiento u otro contrato o acto jurídico en que se ceda el uso del bien.

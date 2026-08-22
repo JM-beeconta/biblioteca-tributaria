@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2020
-- Fecha: 2020-02-24
+- Fecha: 2020-06-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu43.pdf
 - Hash SHA-256: bade42aa31bb30b6061c363bd11dc98c8d681b38cff0894164e3a7d9b2d16500
 
 ## Resumen
 
-de Junio del 2020 Imparte instrucciones sobre Ley N° 21.210, de 24 de febrero de 2020, que modifica los artículos 6° letra A) Nº 2 y B), N° 4, 56; 26 bis; 98, 99, 100 bis, 111 bis y 165 del Código Tributario y articulo trigésimo tercero transitorio de la referida ley. Circular Miscelánea sobre Modificaciones al Código Tributario. Fuente: Departamento de Asesoría Jurídica. Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en el artículo vigésimo…
+a Jurídica. Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en el artículo vigésimo quinto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Impuestos Directos.
 
 ## Referencias detectadas
 

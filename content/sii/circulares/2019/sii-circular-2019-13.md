@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2019
-- Fecha: 2019-03-12
+- Fecha: 2019-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu13.pdf
 - Hash SHA-256: ff824e354a41cb469fb4df6d97dc2f64cc29e43f0c2b80489c99294ba80be6ea
 
 ## Resumen
 
-n de Instrucciones para la Clasificación, Enrolamiento Y Tasación Fiscal de Predios Rurales. Fuente: Subdirección de Avaluaciones Circular N° 14 del 12 de Marzo del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2019 y el 9 de abril de 2019. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas abril 2019. Fuente: Subdirección de Fiscalización Circular N° 12 del 11 de Marzo del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de…
+Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas abril 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

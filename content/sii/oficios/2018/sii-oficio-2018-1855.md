@@ -6,58 +6,66 @@
 - Año: 2018
 - Fecha: 2018-08-02
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja1588.htm
-- Hash SHA-256: 38dccf21eb0776cafefcf027e0a3a47ce81ffa0acad16c883e73908eae0b6b29
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja1606.htm
+- Hash SHA-256: 1dd2d2b9d37000ec96f2f48da4b4de3c2d68c11a6f616e74d0913abd9b3675d3
 
 ## Resumen
 
-acional entre Chile y los Emiratos Árabes Unidos. Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Párrafo I, Letra D), N°3 &ndash; . (Ord. Nº 1606, de 02-08-2018) | Word Solicita pronunciamiento sobre exención contenida en el Párrafo I, Letra D, N° 3 del Cuadro Anexo, de la Ley sobre Impuesto Territorial. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Oficios N° 2404 de 2016, N° 1029 y N° 1649 de 2017, y N° 524 y N° 525 de 2018. (Ord. Nº 1588,…
+cute;rabes Unidos. Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Párrafo I, Letra D), N°3 &ndash; . (Ord. Nº 1606, de 02-08-2018) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":1855,"year":2017}
 
 ## Texto extraído
 
-TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – OFICIOS N° 2404 DE 2016, N° 1029 Y N° 1649 DE 2017, Y N° 524 Y N° 525 DE 2018. (Ord. Nº 1588, de 31-07-2018)
+IMPUESTO TERRITORIAL – LEY N° 17.235 – CUADRO ANEXO, PÁRRAFO I, LETRA D), N°3 – OFICIO N° 1855, DE 2017. (Ord. Nº 1606, de 02-08-2018)
 
-SOLICITA CONFIRMAR CRITERIOS SOBRE EXENCIÓN CONTEMPLADA EN EL ARTÍCULO 24 N° 6 DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
+SOLICITA PRONUNCIAMIENTO SOBRE EXENCIÓN CONTENIDA EN EL PÁRRAFO I, LETRA D, N° 3 DEL CUADRO ANEXO, DE LA LEY SOBRE IMPUESTO TERRITORIAL.
 
-Se ha solicitado a este Servicio confirmar los criterios que señala relativos a la exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
+Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre el alcance de la exención de Impuesto Territorial contenida en el Párrafo I, Letra D, N° 3 del Cuadro Anexo de la Ley sobre Impuesto Territorial, en caso que indica.
 
 I ANTECEDENTES
 
-De acuerdo a su presentación, AAA es una empresa de factoring orientada preferentemente a pequeñas y medianas empresas que adquiere &ldquo;cuentas por cobrar&rdquo; documentadas con facturas, letras de cambio, pagarés cheques u otros documentos, con responsabilidad para el cedente y adelantando o no el valor de dichos documentos, otorgando financiamiento con garantía constituida sobre los referidos documentos.
+De acuerdo a los antecedentes, una fundación ha solicitado la exención de Impuesto Territorial contenida en el Párrafo I, Letra D, N° 3 del Cuadro Anexo de la Ley sobre Impuesto Territorial, respecto de un inmueble donde funciona un hogar que presta auxilio médico y habitación a ancianos.
 
-Tras algunas consideraciones y la cita de criterios emanados de este Servicio, solicita se confirme que:
+Expone que anteriormente se resolvió no conceder la exención porque la peticionaria no acreditó que el inmueble no generara rentas distintas al objeto o fin de beneficencia establecido en los estatutos. Además, se comprobó que los beneficiarios del hogar entregaban una contraprestación económica para vivir en el inmueble, por lo que no se cumplía con el requisito de estar destinado a otorgar auxilio o habitación gratuita a indigentes o desvalidos.
 
-a) Para gozar de la exención contenida en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas no es necesario que las operaciones de financiamiento a través de las cuales una empresa de factoring ejerce su giro con sus clientes constituyan, en sí mismas, operaciones de crédito de dinero.
+Agrega que la fundación presentó una nueva solicitud, acreditando aparentemente que el inmueble no produce rentas por actividades distintas a las que expresa el Párrafo I, Letra D, N° 3 del Cuadro Anexo de la Ley sobre Impuesto Territorial. Además, la peticionaria habría argumentado que, para acceder a la exención, bastaba que el establecimiento se encontrase destinado a proporcionar auxilio o en su caso habitación gratuita, toda vez que la norma establecería esas dos alternativas, no siendo necesario que se den ambas acciones.
 
-b) Las empresas que tienen por objeto social y se dedican efectivamente de forma habitual y exclusiva a otorgar financiamiento a través de factoring pueden calificar como instituciones financieras para la aplicación de la exención analizada.
+En consecuencia, se estima necesario establecer el alcance del requisito consistente en estar el establecimiento destinado a proporcionar auxilio o habitación gratuita a los indigentes o desvalidos, al contemplar dos hipótesis alternativas. De este modo, aunque el hogar no ofrezca habitación gratuita a los beneficiarios, igualmente el inmueble se encontraría exento del Impuesto Territorial porque otorga auxilio gratuito, consistente en asistencia médica, diagnóstico y cuidados de salud, tratamiento y medicamentos.
 
-c) Si bien no corresponde a las entidades bancarias que otorgan financiamiento a las empresas de factoring determinar el destino efectivo de los fondos, éstas deben adoptar las medidas de control que estén a su alcance, como por ejemplo, exigir una declaración del factoring que impetra la exención respecto del destino que le dará a los fondos.
-
-d) Confirmar si la exención alcanza también a créditos que reciba el factoring de personas naturales.
+Esa Dirección Regional concluye que, si bien la norma no explicita que el auxilio deba ser gratuito, a lo menos debiera ser beneficioso en términos económicos para quien recibe esta ayuda.
 
 II ANÁLISIS
 
-Al respecto, considerando que los criterios parcialmente transcritos en su presentación son de público conocimiento y han sido suficientemente reiterados por este Servicio , resulta innecesario confirmarlos o ratificarlos nuevamente.
+Conforme al Párrafo I, Letra D, N° 3 del Cuadro Anexo de la Ley sobre Impuesto Territorial, se libera de Impuesto Territorial a los bienes raíces &ldquo;de propiedad de las siguientes instituciones, siempre que cuenten con personalidad jurídica, que estén destinados al fin de beneficencia establecido en sus estatutos y no produzcan renta por actividades distintas a dicho objeto&hellip; 3) Establecimientos destinados a proporcionar auxilio o habitación gratuita a los indigentes o desvalidos.&rdquo;
 
-En cualquier caso, se recuerda que la correcta aplicación de esos criterios y la procedencia de la exención, en cada caso concreto, es una cuestión de hecho cuya verificación queda entregada a las instancias de fiscalización.
+De una simple lectura se advierte que la palabra &ldquo;gratuita&rdquo;, no obstante la evidente economía legislativa, se predica tanto del auxilio como de la habitación, y no solo respecto de la habitación, cuestión que se refuerza por la especial condición de, al menos, un grupo de los destinatarios: &ldquo;indigentes&rdquo;.
 
-III CONCLUSIÓN
+Al respecto, considerando que la &ldquo;indigencia&rdquo; se define como la &ldquo;falta de medios para alimentarse, vestirse, etc.&rdquo;, constituiría un verdadero despropósito para los efectos de la exención entender que la gratuidad se predica del auxilio, pero no para la habitación de estas mismas personas; o viceversa. Igual entendimiento debe aplicarse, en punto a la gratuidad, cuando el destinatario es un &ldquo;desvalido&rdquo;.
 
-En la medida que su representada, una empresa de factoring, se dedique de modo habitual y principal a otorgar financiamiento a sus clientes, podrá calificar como institución financiera para los efectos de la exención dispuesta en el artículo 24 N° 6 de la Ley sobre Impuestos de Timbres y Estampillas.
+Conforme lo anterior, sea que la institución cobre sólo por el auxilio o sólo por la habitación, se incumple que el establecimiento se encuentre destinado a proporcionar auxilio gratuito o habitación gratuita a indigentes o desvalidos.
 
-Considerando que los criterios parcialmente transcritos en su presentación son de público conocimiento y han sido suficientemente reiterados por este Servicio, resulta innecesario confirmarlos o ratificarlos nuevamente.
+En nada afecta lo anterior que los ingresos percibidos solo alcancen a pagar una parte de la habitación porque, en cualquier caso, ese solo hecho hace perder la gratuidad.
 
-En todo caso, el cumplimiento de los requisitos legales establecidos en el artículo 24 N° 6 de la Ley sobre Impuestos de Timbres y Estampillas, es una cuestión de hecho cuya verificación corresponde a las instancias de fiscalización.
+Finalmente, se hace presente que, mediante Oficio N° 1855 de 2017, que se acompaña, este Servicio ya respondió una consulta de similar naturaleza a la misma fundación, concluyendo en lo fundamental que, no constando que los ancianos o adultos mayores acogidos en el inmueble efectivamente fueran específicamente personas &ldquo;indigentes o desvalidas&rdquo; ni que la ayuda o auxilio fuere prestada en forma entera e incondicionadamente gratuita, no se cumplirían los requisitos de procedencia para acceder a la exención de Impuesto Territorial.
+
+Dicho lo anterior, no es necesario referirse a otras consideraciones.
+
+III CONCLUSIONES
+
+Conforme lo expuesto precedentemente, se informa que:
+
+1) Evidentemente el requisito de gratuidad se predica tanto del auxilio como de la habitación, y no solo respecto de la habitación.
+
+2) Sea que la institución cobre sólo por el auxilio o sólo por la habitación, en cualquier caso, se incumple el requisito que el establecimiento se encuentre destinado a proporcionar auxilio gratuito o habitación gratuita a indigentes o desvalidos.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1588, de 31.07.2018
+Oficio N° 1606, de 02.08.2018
 
 Subdirección Normativa
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 58 del 10 de Septiembre del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2020 y el 9 de octubre de 2020, ambos inclusive. Fuente: Subdirección Jurídica. Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 56 del 04 de Septiembre del 2020 Instruye sobre l…
+n Jurídica. Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

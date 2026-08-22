@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 25 del 24 de Abril del 2018 Instruye sobre el procedimiento para solicitar el Pago Diferido del Impuesto a la Renta a través de Internet. Complementa Circular N° 17 de fecha 17 de marzo de 2006 Fuente: Subdirección de Fiscalización Tabla de cálculos de Reajustes, Intereses y Multas Mayo 2018 Fuente: Subdirección de Fiscalización Circular N° 23 del 23 de Abril del 2018 Actualiza instrucciones respecto del recurso de reposición de la resolución…
+scalización Tabla de cálculos de Reajustes, Intereses y Multas Mayo 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

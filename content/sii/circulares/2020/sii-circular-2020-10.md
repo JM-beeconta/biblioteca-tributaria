@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 11 del 12 de Febrero del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2020 e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 9 del 12 de Febrero del 2020 Tabla de cálculos de reajustes, inte…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

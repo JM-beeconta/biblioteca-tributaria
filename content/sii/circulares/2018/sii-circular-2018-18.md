@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2018
-- Fecha: 2018-04-09
+- Fecha: 2018-04-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu18.pdf
 - Hash SHA-256: 474ccd3b95c8350e72608e025c76dd4fcb760ac9ac2376e945fc707ccb904797
 
 ## Resumen
 
-Fuente: Oficina de Gestion Normativa Circular N° 19 del 09 de Abril del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a declarar en el Año Tributario 2018, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Circular N° 17 del 22 de Marzo del 201…
+oacute;n Normativa Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a declarar en el Año Tributario 2018, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

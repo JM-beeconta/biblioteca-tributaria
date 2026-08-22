@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 6
 - Año: 2018
-- Fecha: 2018-01-26
+- Fecha: 2018-01-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu6.pdf
 - Hash SHA-256: 7084aa500fab36f53f85c092f68da6458899fd05e44bd97b19058f067e5185d2
 
 ## Resumen
 
-tiva Circular N° 7 del 26 de Enero del 2018 Imparte instrucciones relativas a la aplicación de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros (Convención de la Apostilla). Fuente: Departamento de Asesoría Jurídica Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2018 Fuente: Subdirección de Fiscalización Circular N° 5 del 18 de Enero del 2018 Actualización de instrucciones referentes al tratamiento tributario de vehículos motorizados frente a las norm…
+;a Jurídica Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

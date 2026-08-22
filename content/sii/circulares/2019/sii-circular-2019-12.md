@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2019
-- Fecha: 2019-03-10
+- Fecha: 2019-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu12.pdf
 - Hash SHA-256: 03a198407e3a55d383439a6e1378ed19372a2fa949426e8e013f6f24fa270576
 
 ## Resumen
 
--top:0px;margin-bottom:0px;'>Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2019 y el 9 de abril de 2019. Fuente: Oficina de Gestión Normativa Circular N° 13 del 11 de Marzo del 2019 Tabla de cálculos de reajustes, intereses y multas abril 2019. Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 11 del 25 de Febrero…
+cción de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

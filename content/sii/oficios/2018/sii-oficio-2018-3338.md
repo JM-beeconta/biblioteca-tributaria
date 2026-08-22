@@ -6,163 +6,59 @@
 - Año: 2018
 - Fecha: 2018-04-09
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja649.doc
-- Hash SHA-256: 6cd9d0776343f83e91fde653272a028ae176689f740025990abc2607bc20b90e
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja650.htm
+- Hash SHA-256: ebb72ac6ea6a6ff8b8745d8396c89287bb209bb17d006fabae7ed38f1b5874b8
 
 ## Resumen
 
-Actual Ley sobre Impuesto a la &ndash; Art. 41, N°2 &ndash; . (Ord. Nº 650, de 09-04-2018) | Word Tratamiento tributario de cuota inicial de arrendamiento en contrato de leasing de un inmueble con instalaciones. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 107, N°2 &ndash; Ley N° 20.712, de 2014 &ndash; Oficios N° 3021, de 2011 y N° 2352, de 2012. (Ord. Nº 649, de 09-04-2018) | Word Aplicación del N° 2 del artículo 107 de la LIR a las operaciones que indica de cuotas de fondos de inversión privados. R…
+N° 20.993. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 41, N°2 &ndash; . (Ord. Nº 650, de 09-04-2018) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"107"}
+- {"type":"oficio","number":3338,"year":2009}
+- {"type":"articulo","law":"LIR","article":"41 N"}
+- {"type":"articulo","law":"LIR","article":"41"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  ART. 107, N°2 – LEY N° 20.712, DE
-    2014 – OFICIOS N° 3021, DE 2011 Y N° 2352, DE 2012. (ORD. N° 649, DE
-                                 09.04.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41, N°2 – OFICIO N° 3338, DE 2009. (Ord. Nº 650, de 09-04-2018)
 
+TRATAMIENTO TRIBUTARIO DE CUOTA INICIAL DE ARRENDAMIENTO EN CONTRATO DE LEASING DE UN INMUEBLE CON INSTALACIONES.
 
+Un contribuyente ha requerido un pronunciamiento a este Servicio sobre el tratamiento que debe recibir una cuota pagada en un contrato de leasing.
 
-Aplicación del N° 2 del artículo 107 de la LIR a las operaciones que indica
-de cuotas de fondos de inversión privados.
-Se ha recibido en esta Dirección Nacional, su presentación  indicada  en  el
-antecedente mediante la cual solicita se confirme que el criterio  sostenido
-en los  Oficios  Ns  3.021,  de  fecha  16.12.2011  y  N°  2.352,  de  fecha
-4.09.2012, se encuentra vigente.
-I.    ANTECEDENTES
+I.- ANTECEDENTES.
 
-Expone, que la Ley N° 20.712 ("LUF”)  regula  la  actividad  de  los  fondos
-públicos, fondos mutuos y fondos de  inversión  privados  ("FIP"),  normando
-tanto los aspectos de carácter operativo y, funcional  como  tributarios  en
-relación a dichas entidades. Hace presente  que  la  referida  norma  regula
-conjuntamente el tratamiento aplicable a fondos públicos  y  fondos  mutuos,
-dejando en un capítulo aparte lo que respecta a FlPs.
+Manifiesta que su empresa posee como giro la explotación de inmuebles, tributando en base a contabilidad completa, surgiéndole una discrepancia con sus asesores respecto al tratamiento tributario que debe recibir un contrato de leasing financiero.
 
-Al respecto, señala que el Capítulo V de la  LUF  es  aquel  que  tiene  por
-objeto reglamentar la actividad de los FIPs, estableciendo  requisitos  para
-su operación, normativa aplicable,  tratamiento  tributario,  funcionamiento
-de sus sociedades administradoras.
+En efecto, con fecha xx de xx de xxxx celebró un contrato de arrendamiento con opción de compra de un inmueble con un Banco, celebrado mediante escritura pública, y posteriormente, con fecha xx de xx de xxxx dicho contrato fue modificado mediante otra escritura señalando dicha cláusula que &ldquo;El arrendatario pagará a la arrendadora, mensualmente y en forma sucesiva, ciento veintiuna rentas de arrendamiento, la primera de ellas por la suma equivalente en pesos de seis mil quinientas dieciséis coma tres mil setecientos setenta y siete unidades de fomento, más IVA, y cada una de las ciento veinte rentas restantes por la suma equivalente en pesos de seiscientas noventa y seis coma ocho mil cincuenta y nueve unidades de fomento más IVA&rdquo;.
 
-A su vez, el artículo 107 del D.L. N° 824 ("LIR') establece  una  franquicia
-tributaria consistente considerar como ingreso  no  renta,  el  mayor  valor
-obtenido en la enajenación o rescate de determinados valores, como  acciones
-de sociedades anónimas constituidas en Chile, cuotas de fondos de  inversión
-y cuotas de fondos mutuos.
+En atención a ello, consulta por el tratamiento tributario que debe recibir la cuota de arrendamiento N°1 frente a la determinación de la renta líquida imponible del impuesto a la Renta, indicando que este Servicio ha señalado que el contrato de leasing se asimila a un contrato de arrendamiento, y, por consiguiente, los gastos incurridos en el arrendamiento de los bienes incidirán en la generación de los ingresos de la empresa inmobiliaria, y de cumplir éstos con los requisitos señalados en el inciso primero del art. 31 de la LIR, pasarán a constituir un gasto necesario para producir la renta, susceptible de deducirse en la determinación de la base imponible del Impuesto de Primera Categoría que le afecte.
 
-En relación a la aplicación del  referido  artículo  107  de  la  LIR,  hace
-presente que el número 2, de dicha norma, considera como  ingreso  no  renta
-la ganancia de capital o mayor valor, derivado de la enajenación  de  cuotas
-de un fondo de inversión en los siguientes escenarios:
+Por tanto, en su opinión basado en los antecedentes de la situación planteada, concluye que el desembolso de la cuota inicial de arrendamiento no constituye un pago anticipado de rentas de arrendamiento, debiendo dicha cuota recibir el mismo tratamiento tributario que las cuotas siguientes de período comercial 2016 y, por tanto, la cuota inicial de arrendamiento debe ser calificada como necesaria para producir la renta, al cumplir con los requisitos antes señalados, ya que tales erogaciones serían necesarias para producir la renta de la empresa al estar siendo utilizados dichos bienes en el desarrollo de su giro o actividad.
 
- a) Enajenación, en una bolsa de valores del país, de cuotas de  fondos  de
-    inversión con presencia bursátil.
+Agrega que el Oficio N°3.338 del año 2009, de este Servicio, señaló que cuando se realice un pago anticipado de las rentas de arrendamiento, éstas se encontrarán sujetas a amortización en el período de duración del contrato de arrendamiento, dado que tales desembolsos deben guardar una debida correlación con los ingresos que le generan al contribuyente, con el fin de poder imputar en cada período tributario la utilidad real y efectiva sobre la cual corresponde cumplir las obligaciones tributarias que establece la ley. Lo anterior, salvo que dicha cuota inicial sea imputable al valor o precio de ejercicio de la opción de compra del inmueble según los términos del contrato, en cuyo caso dicha cantidad tendrá el tratamiento tributario de un activo por corresponder a una cantidad imputable al valor o costo de adquisición de un bien raíz afecto a las normas del artículo 41 N°2, de la LIR.
 
+Por lo anterior, teniendo presente que la cuota inicial de arrendamiento corresponde a la primera renta de arrendamiento por expreso acuerdo de las partes (cláusula cuarta contrato respectivo), en su opinión ésta constituye un gasto tributario del período comercial 2016, solicitando la ratificación y/o corrección de su postura frente al tema.
 
-b)    Enajenación, en una bolsa de valores del país, de cuotas de fondos  de
-    inversión sin presencia bursátil, o bien,  tratándose  del  rescate  de
-    cuotas efectuadas en la liquidación de un fondo de inversión  o  cuando
-    sus partícipes acuerden una disminución voluntaria de capital.
+II.- ANÁLISIS.
 
-Agrega, que conforme a lo dispuesto en el artículo  93  de  la  LUF,  al  no
-poder efectuarse oferta pública de las cuotas de un FIP,  y  por  tanto,  no
-ser susceptible de ser vendidas  en  una  bolsa  de  valores  del  país,  la
-franquicia bajo análisis aplica únicamente al rescate de  cuotas  efectuadas
-en la liquidación del FIP y a las disminuciones voluntarias de capital.
+Sobre el particular, efectivamente este Servicio, respecto al tratamiento tributario que debe darse al pago de una cuota inicial de arrendamiento, representativa del 20% del total de las cuotas de arrendamiento concluyó que dicha cantidad corresponde al pago anticipado de las rentas de arrendamiento del inmueble objeto del contrato, y que se encuentra sujeta a amortización en el período de duración del contrato de arrendamiento celebrado entre las partes, dado que tales desembolsos deben guardar una debida correlación con los ingresos que le generan al contribuyente, con el fin de poder imputar en cada período tributario la utilidad real y efectiva sobre la cual corresponde cumplir con las obligaciones tributarias que establece la ley.
 
+La parte no amortizada del citado desembolso adoptará la calidad de un gasto diferido, el cual al término de cada ejercicio deberá someterse a las normas de actualización dispuestas por el N°7, del artículo 41, de la LIR, para luego proceder a su amortización en la parte que corresponda al período comercial respectivo. Lo anterior, salvo que dicha cuota inicial sea imputable al valor o precio de ejercicio de la opción de compra del inmueble según los términos del contrato, en cuyo caso dicha cantidad tendrá el tratamiento tributario de un activo por corresponder a una cantidad imputable al valor o costo de adquisición de un bien raíz afecto a las normas del artículo 41 N°2, de la LIR.
 
+Ahora bien, antes de analizar la consulta, es pertinente recordar que este Servicio realiza una labor de calificación jurídica en base a los antecedentes de hecho aportados por los interesados, siendo relevante para tales efectos lo dispuesto en la Modificación de Contrato de Arrendamiento, de fecha xx de xx de xxxx, suscrita entre el Banco e Inmobiliaria XXXX SpA., principalmente la Cláusula Cuarta, que declara que el arrendatario pagará a la arrendadora, mensualmente y en forma sucesiva, ciento veintiuna rentas de arrendamiento, la primera de ellas por el equivalente de xxxx UF más IVA, y las xxx restantes por la suma de equivalente en pesos de xxxxx UF más IVA, sin que los antecedentes contenidos en tal convenio justifiquen que ese notorio mayor valor de la primera cuota obedezca a alguna prestación extraordinaria en beneficio del arrendatario, circunstancia que impide sostener que se trate de una cuota normal como asevera el ocurrente, debiendo por tanto concluirse que corresponde a un pago anticipado de rentas de arrendamiento del contrato, y recibir el tratamiento indicado en el Oficio Ord. N°3.338, de 2009, siendo improcedente su deducción total en el año tributario 2016, debiendo ser amortizada durante la vigencia del contrato, al no existir un motivo que justifique el monto casi diez veces superior al resto de las 120 cuotas.
 
+III.- CONCLUSIÓN.
 
-En relación a lo anterior,  sostiene  que  el  Servicio  ya  ha  confirmado
-anteriormente la aplicación de la referida franquicia tributaria,  a  través
-de los Oficios N°s 3.021 y  2.352,  de  fecha  de  16.12.2011  y  4.09.2012,
-respectivamente.
+Ante la ausencia de antecedentes que permitan afirmar que el mayor valor de la cuota inicial de un contrato de leasing obedezca a alguna prestación adicional que justifique que su monto ascienda a casi un diez por ciento superior al resto de las cuotas, resulta necesario concluir que ella corresponde a un pago anticipado de rentas de arrendamiento, sujeto a amortización en el período de duración del contrato de arrendamiento celebrado entre las partes, debiendo dicha cuota recibir el tratamiento consignado en el Oficio Ordinario N°3.338, de 2009, de este Servicio.
 
-Finalmente, señala que no existiendo cambios relevantes en el  artículo  107
-de la LIR, que permitan  concluir  que  los  criterios  arriba  citados  han
-cambiado, no cabe otra alternativa, sino que afirmar  que  dicha  franquicia
-resulta aplicable tanto a fondos públicos, fondos mutuos como a FIPs.
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
-II.   ANÁLISIS
+Oficio N°650, de 09.04.2018
 
-La Ley N° 20.712, publicada en el Diario Oficial de 7 de enero de  2014,  en
-su artículo primero aprobó el texto de la Ley que regula  la  Administración
-de Fondos de Terceros y Carteras Individuales, conocida como  Ley  Única  de
-Fondos (LUF). Este texto legal derogó, entre otras, a la Ley  N°18.815,  que
-regulaba los Fondos de Inversión.
+Subdirección Normativa
 
-Al respecto, conforme a lo dispuesto en el artículo  cuarto  de  la  Ley  N°
-20.712, para todos los  efectos  legales,  debe  entenderse  que  cualquiera
-referencia que en el ordenamiento jurídico se haga  a  los  cuerpos  legales
-derogados, debe entenderse efectuada a esta ley.
-
-Por otra parte, en el N°2, del artículo 107, de la LIR, se establece que  no
-constituirá renta el mayor valor obtenido en la enajenación,  en  una  bolsa
-de valores  del  país  autorizada  por  la  Superintendencia  de  Valores  y
-Seguros, de cuotas de fondos de inversión regidos por la Ley  N°18.815,  que
-tengan presencia bursátil.
-
-Luego, según ha interpretado este Servicio, a través  de  los  Oficios  N°s.
-3.021 de fecha  de  16.12.2011  y  N°  2.352,  de  fecha  04.09.2012,  dicho
-beneficio también resulta aplicable a la enajenación  en  dichas  bolsas  de
-las cuotas señaladas que no tengan presencia bursátil o al rescate de  tales
-cuotas cuando el fondo se liquide o sus partícipes acuerden una  disminución
-voluntaria de capital, siempre y cuando se  establezca  en  la  política  de
-inversiones de los reglamentos internos, de ambos tipos de fondos, que a  lo
-menos el 90% de la cartera de  inversiones  del  fondo  se  destinará  a  la
-inversión en acciones con presencia bursátil.
-
-No obstante, los mismos oficios citados señalan que no se  podrán  acoger  a
-esta norma las enajenaciones y rescates, según  corresponda,  de  cuotas  de
-fondos de inversión regulados por la Ley N° 18.815[1], que  dejaren  de  dar
-cumplimiento  al  porcentaje  de  inversión  contemplado  en  el  reglamento
-interno respectivo por causas imputables a la administradora  o,  cuando  no
-siendo imputable a la administradora, dicho incumplimiento no  hubiere  sido
-regularizado dentro de los seis meses siguientes de producido.
-
-Cabe hacer presente, que no  pueden  acogerse  a  la  liberación  tributaria
-contenida en el N° 2, del artículo 107, de  la  LIR,  las  enajenaciones  de
-cuotas de FIP, pues, no tienen presencia bursátil, y tampoco cumplen con  el
-requisito de que su enajenación se efectúe en una bolsa de valores del  país
-autorizada por la Superintendencia de  Valores  y  Seguros,  toda  vez  que,
-conforme al artículo 93 de la LUF los FIP no hacen  oferta  pública  de  sus
-valores.
-
-Sin embargo, tratándose  del  rescate  de  cuotas  de  fondos  de  inversión
-privados regulados actualmente por la  Ley  N°20.712,  cuando  el  fondo  se
-liquide o sus partícipes acuerden una disminución voluntaria de capital,  la
-norma será aplicable, siempre y cuando  se  establezca  en  la  política  de
-inversiones de los reglamentos internos,  que  a  lo  menos  el  90%  de  la
-cartera de inversiones del fondo se destinará a  la  inversión  en  acciones
-con presencia bursátil, y en la medida en que  no  se  haya  dejado  de  dar
-cumplimiento a dicha obligación en los términos que dispone  el  inciso  2°,
-del N°2, del artículo 107, de la LIR.
-
-
-III.  CONCLUSIÓN
-
-Conforme a lo expuesto, se informa que puede acogerse a lo dispuesto  en  el
-N° 2 del artículo 107, de la LIR, el rescate de  cuotas  de  un  FIP  regido
-actualmente por la Ley N°20.712, en el caso que el fondo se  liquide  o  sus
-partícipes acuerden una disminución voluntaria de capital,  siempre  que  se
-cumplan los demás requisitos establecidos en el mismo artículo, e  indicados
-en el Análisis, cuestión entregada  a  las  correspondientes  instancias  de
-fiscalización.
-
-
-
-
-
-                                       FERNANDO BARRAZA LUENGO
-
-       DIRECTOR
-
-
-
-                         Oficio N°649, de 09.04.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Actualmente Ley N° 20.712.
+Dpto. de Impuestos Directos

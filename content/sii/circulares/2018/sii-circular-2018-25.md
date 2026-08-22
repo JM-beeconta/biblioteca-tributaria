@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 25
 - Año: 2018
-- Fecha: 2018-05-10
+- Fecha: 2018-04-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu25.pdf
 - Hash SHA-256: c12a2b8d93fe55213e59bb3f4530ff2f918a11b43c2a0be693c839ec5cc07b9a
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 26 del 10 de Mayo del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2018 y el 9 de junio del año 2018 Fuente: Oficina de Gestión Normativa Instruye sobre el procedimiento para solicitar el Pago Diferido del Impuesto a la Renta a través de Internet. Complementa Circular N° 17 de fecha 17 de marzo de 2006 Fuente: Subdirección de Fiscalización Circular N° 24 del 24 de Abril del 2018 Tabla de cálculos de Reajustes, Intereses y…
+oacute;n Normativa Instruye sobre el procedimiento para solicitar el Pago Diferido del Impuesto a la Renta a través de Internet. Complementa Circular N° 17 de fecha 17 de marzo de 2006 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

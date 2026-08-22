@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2020
-- Fecha: 2020-08-10
+- Fecha: 2020-07-31
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu50.pdf
 - Hash SHA-256: 5a113d62df7ddd6021c7d4fd8730f879c4afac8ec8313f9a59ba3ff31b33f288
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 51 del 10 de Agosto del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2020 y el 9 de septiembre de 2020, ambos inclusive. Fuente: Subdirección Normativa. Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa. Circular N° 49 del 20 de Julio del 2020 Imparte instrucciones…
+acute;n Normativa. Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

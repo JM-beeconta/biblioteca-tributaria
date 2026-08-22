@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2017
-- Fecha: 2017-02-21
+- Fecha: 2017-02-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu13.pdf
 - Hash SHA-256: e8e2132ea3bbd9b6557543e81e19bc1ec76010f503e546ef05d19165f41ba1d9
 
 ## Resumen
 
-cción de Avaluaciones Circular N° 14 del 21 de Febrero del 2017 Complementa Circular N°15, DE 12.02.2010 que actualiza instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos, en la tramitación de concesiones marítimas. Fuente: Subdirección de Avaluaciones Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley de la Renta. Fuente: Oficina de Gestión Normati…
+;n de Avaluaciones Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley de la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

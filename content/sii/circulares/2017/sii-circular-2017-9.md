@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2017
-- Fecha: 2017-02-10
+- Fecha: 2017-02-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu9.pdf
 - Hash SHA-256: 58838e3bee4428dfb9910b312b7f049c71768ba4ca3b97cbec12831996f3c8d7
 
 ## Resumen
 
-de marzo del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 10 del 10 de Febrero del 2017 Operaciones de crédito de dinero Fuente: Oficina de Gestión Normativa Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de l…
+oacute;n Normativa Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catástrofe nacional ocurrida a raíz de la multiplicidad de incendios producidos en el país. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

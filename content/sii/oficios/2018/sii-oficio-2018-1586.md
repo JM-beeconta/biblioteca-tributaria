@@ -6,81 +6,62 @@
 - Año: 2018
 - Fecha: 2018-11-20
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja2394.doc
-- Hash SHA-256: 0ea975f3e769df0af52b2ffef4b22e87284a1a09d554a0cedb57f669ec74ebce
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja2412.htm
+- Hash SHA-256: 53303f8cee5e370d5b11833a37c3f28f46e9e54e3e3ae1671f09e7fe01f7a779
 
 ## Resumen
 
-5 style='margin-bottom:3px;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.764, de 2001, Art. 1 &ndash; Circular N° 40, de 2008 &ndash; . (Ord. Nº 2412, de 20-11-2018) | Word Solicita aclaración de Oficio N°1.586, de 2017. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31, N°9, Art. 17, N°8. (Ord. Nº 2394, de 19-11-2018) | Word Tratamiento tributario aplicable a desembolso efectuado por sociedad al adquirir la posición contractual en contrato de arrendamiento con opción de compra. Rent…
+en el extranjero. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.764, de 2001, Art. 1 &ndash; Circular N° 40, de 2008 &ndash; . (Ord. Nº 2412, de 20-11-2018) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"31 N"}
-- {"type":"articulo","law":"LIR","article":"17 N"}
-- {"type":"articulo","law":"CT","article":"64"}
+- {"type":"circular","number":40,"year":2008}
+- {"type":"oficio","number":1586,"year":2017}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°9, ART. 17, N°8.
-(ORD. N° 2394, DE 19.11.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.764, DE 2001, ART. 1 – CIRCULAR N° 40, DE 2008 – OFICIO N° 1586, DE 2017. (Ord. Nº 2412, de 20-11-2018)
 
-Tratamiento tributario aplicable a desembolso efectuado por sociedad al adquirir la posición contractual en contrato de arrendamiento con opción de compra.
+SOLICITA ACLARACIÓN DE OFICIO N°1.586, DE 2017.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita la emisión de un pronunciamiento a fin de determinar el tratamiento tribut ario de los montos utilizados para adquirir la posición contractual de arrendatario con opción de compra en un arrendamiento con opción de compra, mediante una cesión de dicha posición .
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita una aclaración del Oficio N°1.586 de 2017, y en particular, qué debe entenderse por &ldquo;empresa de transporte de pasajeros&rdquo; para efecto de aprovechar de la franquicia establecida en el artículo 1° de la Ley N°19.764 de 2001.
 
-I.- ANTECEDENTES .
+I.- ANTECEDENTES:
 
-L a consultante indica representa r a una sociedad que , d urante el año 2011, celebró un contrato de cesión de la posición contractual con un Fondo de Inversión Privado , mediante el cual este último le transfirió la totalidad de los derechos y obligaciones que le correspondían en un contrato de arrendamiento con opción de compra sobre un bien inmueble con una Compañía de Seguros, adquiriendo la cesionaria la posición jurídica y contractual de arrendataria con opción de compra respecto de la propiedad raíz objeto del contrato .
+1.- Indica en su presentación y en complemento posterior, que el artículo 1° de la Ley N° 19.764 de 2001, establece una franquicia tributaria que permite a las empresas de transporte de pasajeros que sean propietarias o arrendatarias con opción de compra de buses que presten servicios de transporte público rural, interurbano o internacional, recuperar un porcentaje de las sumas pagadas por dichos vehículos, por concepto de peajes en las correspondientes plazas interurbanas, en la forma establecida en dicha norma.
 
-Agrega la consultante que, luego de celebrado el contrato de cesión, su representada contrajo un mutuo hipotecario con una entidad financiera , con la finalidad de tener recursos suficientes para poner término al contrato de arrendamiento cedido , mediante el ejercicio anticipado de la opción de compra del inmueble objeto del mismo .
+2.- La Circular N°40, del 2008, que instruye sobre la materia, establece que para definir los términos "buses&rdquo; y &ldquo;transporte público&rdquo; se estará a las normas legales y reglamentarias que regulan dicha actividad de transporte&rdquo;. A su vez, el Oficio N°3.252 de 2009, indicó que pueden acceder al beneficio, las empresas de transporte de pasajeros que sean propietarias o arrendatarias con opción de compra de buses que presten servicios de transporte público rural, interurbano o internacional, siendo el Ministerio de Transportes y Telecomunicaciones el organismo competente para calificar dichas circunstancias.
 
-En razón de lo anterior, se ha solicita do confirmar el tratamiento tributario aplicable al desembolso efectuado para adquirir la mencionada posición contractual, así como para el caso de que la sociedad ejerza anticipadamente el derecho a la opción de compra del bien inmueble objeto del arrendamiento .
+La Subsecretaria de Transportes y Telecomunicaciones estimó que para efectos de lo establecido en el artículo 1° de la Ley N°19.764 de 2001 la empresa de transportes que lleva a cabo el servicio de transporte público rural, interurbano o internacional es el propietario o arrendatario con opción de compra de vehículos debidamente inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros (RNSTP), lo que no necesariamente coincide con la "empresa responsable" del servicio. Dicho concepto fue recogido en el Oficio N°1.586 de 2017.
 
-Para dicho efecto, la consultante indica que la cesión implica, para su representada, la adquisición de un derecho personal, de naturaleza incorporal, correlativa de la obligación de la Compañía de Seguros , lo cual le habilitaría a ejercer la opción de compra del inmueble objeto del arrendamiento.
+3.- En razón de lo anteriormente expuesto, solicita aclarar el Oficio N°1.586 de 2017 confirmando que para efectos de la franquicia establecida en el artículo 1° de la Ley N°19.764 de 2001, se debe entender por &ldquo;empresa de transporte&rdquo; a los propietarios o arrendatarios con opción de compra de buses inscritos en el RNSTP, que presten servicios de transporte público de pasajeros en un recorrido autorizado rural, interurbano o internacional, independientemente que dicho propietario o arrendatario con opción de compra del bus, se encuentre inscrito o no como responsable del servicio en el mismo registro, y aclarar que la frase que cierra el oficio &ldquo;previo cumplimiento de las demás exigencias legales&rdquo;, no pretende modificar lo recién señalado.
 
-Señala, conforme a lo expuesto, que este Servicio ha emitido pronunciamientos indicando que la suma incurrida para adquirir derechos de esta naturaleza, al no encontrarse especialmente tratado en el artículo 31 de la Ley sobre Impuesto a la Renta (en adelante, “ LIR ”) , no podrán deducirse como gasto en la determinación de la renta líquida imponible, debiendo tratarse como una inversión efectiva, calificándola como un activo intangible para efectos tributarios, ocurriendo su amortización únicamente cuando éste sea enajenado o que, por cualquier otro hecho o circunstancias, pierda su calidad de activa para la empresa que realizó la inversión .
+II.- ANÁLISIS:
 
-As í , considera la consultante, al momento de ejercerse la opción de compra, podrá cargar al resultado tributario lo utilizado por su representada para adquirir dicho derecho, atendid a su extinción .
+1.- El artículo 1° de la Ley N°19.764 de 2001, establece que las empresa de transportes de pasajeros, que sean propietarias o arrendatarias con opción de compra de buses que presten servicios de transporte público rural, interurbano o internacional, pueden recuperar en la forma que indica la misma norma, un porcentaje de las sumas pagadas por dichos vehículos, por concepto de peajes en las correspondientes plazas interurbanas, a los concesionarios de las obras públicas viales otorgadas en concesión mediante el sistema establecido en el Decreto Supremo N°900, de 1996, del Ministerio de Obras Públicas, que fijó el texto refundido, coordinado y sistematizado del Decreto con Fuerza de Ley N° 164, de 1991, del Ministerio de Obras Públicas.
 
-L a consultante señala , sin perjuicio de lo expuesto, que existiría un segundo criterio de este Servicio para el tratamiento tributario en cuestión, esto es, considerarlo un gasto de operación y puesta en marcha, conforme al artículo 31 N° 9 de la LIR, “ siempre que se trate de un pago único, no periódico ni variable ” .
+2.- A su vez, las instrucciones impartidas sobre la materia por este Servicio de Impuestos Internos a través de la Circular N°40 de 2008, disponen que los siguientes contribuyentes benefician del reintegro parcial de peajes:
 
-Al considerar la consultante que existirían dos criterios disímiles par a situaciones similares, solicita:
+a) Las empresas de transportes de pasajeros, que sean propietarias de buses, que presten servicios de transporte público rural, interurbano o internacional.
 
-1. Confirmar el tratamiento tributario aplicable al desembolso efectuado por la sociedad al adquirir la posición contractual descrit a ; señalando que corresponde calificar dicho desembolso como un activo intangible.
+b) Las empresas de transporte de pasajeros, que sean arrendatarias con opción de compra de buses, que presten los servicios indicados en la letra a) anterior.
 
-2. Confirmar que dicho intangible debe llevarse al gasto cuando pierda la calidad de a ctivo intangible, lo cual ocurriría al momento de ejerza el derecho de opción.
+Agrega la Circular N°40 de 2008, que los propietarios o arrendatarios con opción de compra de buses que presten servicios de transporte público de pasajeros ya sea, rural, interurbano o internacional, y beneficiarios de la franquicia, deben ser contribuyentes de la Primera Categoría, añadiendo que las definiciones de &ldquo;buses&rdquo; y &ldquo;transporte público&rdquo; deben atender a las normas legales y reglamentarias que regulan dicha actividad de transporte.
 
-3. En subsidio, confirmar que corresponde calificar al desembolso en referencia como un gasto de org anización y puesta en marcha .
+3.- Ahora bien, el Oficio N°1.586 de 2017, cuya aclaración solicita, en base a una calificación de la Subsecretaria de Transportes , organismo encargado de regular el transporte público de pasajeros, interpreta que para los efectos de la franquicia contenida en el artículo 1° de la Ley N°19.764 de 2001, dentro del concepto de &ldquo;empresa de transportes&rdquo;, quedan comprendidos los propietarios o arrendatarios con opción de compra de buses debidamente inscritos en el RNSTP, que presten materialmente el servicio de transporte público de pasajeros en un recorrido autorizado, rural, interurbano o internacional.
 
-II.- ANÁLISIS.
+En consecuencia, el propietario o arrendatario con opción de compra de un bus debidamente inscrito en el RNSTP, de acuerdo a lo señalado en el artículo 2° y letra b) del artículo 14 del Decreto N° 212 del Ministerio de Transportes y Telecomunicaciones, de 1992 (Decreto N°212) que preste materialmente el servicio de transporte público de pasajeros antes indicado, se considera para efectos de este beneficio como una empresa de transportes aun cuando el responsable del servicio, entendido como aquella persona natural o entidad en cuyo nombre se ha emitido el certificado a que se refieren los artículos 13 y 14 del Decreto N°212 sea distinto del propietario o arrendatario.
 
-El objeto de la consulta guarda relación con el tratamiento tributario de un desembolso realizado para adquirir derechos personales.
+III.- CONCLUSIÓN:
 
-T al como indica la consultante, el Código Civil clasifica los bienes en corporales e incorporales, distinguiendo, respecto de éstos últimos, entre los derechos reales y los derechos personales, correspondientes a los derechos que solo pueden reclamarse de ciertas personas, que, por un hecho suyo o la sola disposición de la Ley, han contraído la obligación correlativa .
+Los propietarios o arrendatarios con opción de compra de buses, estando éstos últimos debidamente inscritos en el RNSTP y que presten materialmente el servicio de transporte público de pasajeros en un recorrido autorizado, rural, interurbano o internacional, califican como empresa de transportes para efectos de la franquicia del artículo 1° de la Ley N°19.764 de 2001, aun cuando el responsable del servicio, entendido como aquella persona natural o entidad en cuyo nombre se haya emitido el certificado a que aluden los artículos 13 y 14 del Decreto N° 212 no coincida con el propietario o arrendatario del bus.
 
-Ahora bien, para la adquisición del derecho personal , el desembolso en el que se incurra no puede calificarse como un gasto de aquellos indicados en el artículo 31 de la LIR, pero sí corresponde a una inversión efectiva , correspondiente a un activo intangible .
+FERNANDO BARRAZA LUENGO
 
-Así, al no existir norma que permita deducir activos intangibles en la determinación de la renta líquida imponible, podrá amortizarse únicamente cuando se enajene dicho derecho o cuando, por cualquier otro hecho o circunstancia , pierda su calidad de activo intangible para el contribuyente que lo adquirió .
+DIRECTOR
 
-Lo anterior, sin perjuicio de las facultades de fiscalización de este Servicio, particularmente lo dispuesto en el artículo 64 del Código Tributario, en caso de que el precio o valor asignado al activo intangible sea notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza , y en el inciso quinto del artículo 17 N° 8 de la LIR, cuando su valor de enajenación sea notoriamente superior al valor comercial corrientes en plaza considerando las circunstancias en que se realiza la operación .
+Oficio N° 2412, de 20.11.2018
 
-En el caso particular, la sociedad efectuó un desembolso con el objeto de adquirir una situación contractual que incluye tanto derechos como obligaciones, dentro de los cuales figura un derecho personal, el cual sería la opción de compra del bien objeto del arrendamiento.
-
-Dicho derecho personal, conforme a lo razonado, constituye una inversión efectiva, corresp ondiendo a un activo intangible que , únicamente podrá deducirse en la determinación de la renta líquida imponible al momento de extinguirse, lo cual ocurriría, al momento de ejercerse la opción de compra, extinguiendo así la obligación correlativa.
-
-Cabe hacer presente que , no existe inconsistencia o un criterio disímil entre lo razonado y la posibilidad de deducir un desembolso como gasto del artículo 31 N° 9 de la LIR.
-
-Procede rá la aplicación de esta última norma siempre y cuando se verifiquen tanto los requisitos descritos en el inciso primero del artículo 31 de la LIR , como los requisitos específicos para proceder conforme a su numeral 9°, es decir, “ que sea necesario para el inicio del nuevo negocio ” y que no existan “ otros elementos que permitan concluir que se trata más bien de desembolsos que deban formar parte del costo de bienes tangibles o intangibles ” del contribuyente .
-
-Las c ircunstancias descritas , de lo expuesto en su presentación, no concurren , toda vez que se continuaría con el giro que la sociedad venía desarrollando desde antes de la adquisición de la posición contractual.
-
-III.- CONCLUSIÓN.
-
-Conforme a lo expuesto, efectivamente el desembolso efectuado para adquirir la posición contractual en el contrato de arrendamiento con opción de compra corresponde a un activo intangible, el cual podrá deducirse únicamente cuando pierda su calidad de activo intangible , lo cual ocurriría con el ejercicio del derecho de opción , entre otras circunstancias . También se perderá la calidad de activo intangible si se ejerce el derecho de opción anticipadamente, de acuerdo a los términos del contrato.
-
-FERNANDO BARRAZA LUENGO DIRECTOR
-
-Oficio N° 23 94, de 19.11.2018
 Subdirección Normativa
+
 Dpto. de Impuestos Directos

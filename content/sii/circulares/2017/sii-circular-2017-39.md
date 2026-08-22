@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 39
 - Año: 2017
-- Fecha: 2017-08-10
+- Fecha: 2017-07-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu39.pdf
 - Hash SHA-256: cf1044acd90609543d6961e5a30c5dc344f0b520d73efb24df58e6764d3ed0c7
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 40 del 10 de Agosto del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas Agosto 2017 Fuente: Subdirección de Fiscalización Circular N° 38 del 14 de Julio del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año…
+acute;n Normativa Tabla de cálculos de reajustes, intereses y multas Agosto 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

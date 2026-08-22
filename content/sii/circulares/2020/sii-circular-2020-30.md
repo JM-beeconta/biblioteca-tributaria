@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2020
-- Fecha: 2020-04-24
+- Fecha: 2020-04-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu30.pdf
 - Hash SHA-256: 672c63f912a74e0f9098e32b17fa71166885a5d3a101a9073d2fc1494a93dc23
 
 ## Resumen
 
-ank'>Circular N° 31 del 24 de Abril del 2020 Imparte instrucciones sobre nuevos regímenes transitorios de depreciación de los activos inmovilizados establecidos en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210, de 24 de febrero de 2020. Fuente: Departamento de Impuestos Directos. Tabla de cálculos de reajustes, intereses y multas mayo 2020. Fuente: Subdirección de Fiscalización. Circular N° 29 del 13 de Abril del 2020 Tablas de Impuesto Único de Segunda Categoría par…
+mpuestos Directos. Tabla de cálculos de reajustes, intereses y multas mayo 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

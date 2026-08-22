@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2017
-- Fecha: 2017-05-17
+- Fecha: 2017-05-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu27.pdf
 - Hash SHA-256: fa46e0dde60feb4c52a381507945bf65ff2b95fafcd3120ef20fa92d59d667cd
 
 ## Resumen
 
-Circular N° 28 del 17 de Mayo del 2017 Obligación de informar ingreso, retiro o cambio de socios, accionistas, comuneros o cooperados, nuevos aportes de capital, modificación en el porcentaje de participación en el capital y utilidades. Modifica Circular N° 17, de 10.05.1995. Fuente: Oficina de Asistencia y Educación al Contribuyente Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2017 y el 9 de junio del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 26 del 12 de M…
+n al Contribuyente Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2017 y el 9 de junio del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

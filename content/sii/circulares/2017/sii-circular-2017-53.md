@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2017
-- Fecha: 2017-11-10
+- Fecha: 2017-10-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu53.pdf
 - Hash SHA-256: 8b82f975e952eacfd42c8da6b137dac2227ba0249db82e850ff15bd2422927c5
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 54 del 10 de Noviembre del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Noviembre 2017 Fuente: Subdirección de Fiscalización Circular N° 52 del 13 de Octubre del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre d…
+acute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Noviembre 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

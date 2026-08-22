@@ -11,7 +11,7 @@
 
 ## Resumen
 
-0px;'> Circular N° 3 del 09 de Enero del 2020 Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad del saldo de utilidades tributables, del saldo total crédito y de los retiros en excesos no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2020. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Ge…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

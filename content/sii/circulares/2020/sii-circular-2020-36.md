@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2020
-- Fecha: 2020-05-20
+- Fecha: 2020-05-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu36.pdf
 - Hash SHA-256: bb2053d907550a4103551b209e33f74273fd498525403d27dac1d8543f705bc7
 
 ## Resumen
 
-m:10px;'> Fuente: Técnica Tributaria. Circular N° 37 del 20 de Mayo del 2020 Imparte instrucciones sobre las modificaciones introducidas por el artículo tercero de la Ley N° 21.210, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, en materia de inmuebles. Fuente: Impuestos Indirectos. Tabla de cálculos de reajustes, intereses y multas junio 2020. Fuente: Subdirección de Fiscalización Circular N° 35 del 15 de Mayo del 2020 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Pr…
+uestos Indirectos. Tabla de cálculos de reajustes, intereses y multas junio 2020. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

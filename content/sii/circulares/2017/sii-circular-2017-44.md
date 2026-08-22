@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 44
 - Año: 2017
-- Fecha: 2017-09-12
+- Fecha: 2017-08-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu44.pdf
 - Hash SHA-256: 545ea6dfd7f492d1443dc6f82f312f46330e47c146d7452fbaebaf65689bdc2c
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: OFICINA DE GESTIÓN NORMATIVA Circular N° 45 del 12 de Septiembre del 2017 Valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre del año 2017 y el 9 de octubre del año 2017 Fuente: OFICINA DE GESTIÓN NORMATIVA Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacion…
+acute;N NORMATIVA Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacional, y al inciso 1° y párrafo segundo, del N° 2, del inciso 4°, del artículo 59 del referido cuerpo legal, en materia de Impuesto Adicional. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

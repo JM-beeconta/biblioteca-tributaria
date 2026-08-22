@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2019
-- Fecha: 2019-09-10
+- Fecha: 2019-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu33.pdf
 - Hash SHA-256: 33b01b668d02f72a91fa56d108b3dfdb0d5aaadfbaf738f27b2c4bb27f372af6
 
 ## Resumen
 
-ttom:0px;'>Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2019 y el 9 de octubre de 2019. Fuente: Oficina de Gestión Normativa Circular N° 34 del 09 de Agosto del 2019 Tabla de cálculos de reajustes, intereses y multas septiembre 2019. Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 32 del 09 de Agosto de…
+cción de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

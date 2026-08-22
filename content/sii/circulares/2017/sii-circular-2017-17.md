@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2017
-- Fecha: 2017-03-09
+- Fecha: 2017-02-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu17.pdf
 - Hash SHA-256: 770a1cac15029b2221bf5865e0ef2c87beb9a62b84100f6a921ad887e2c8f723
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 18 del 09 de Marzo del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de abril del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de Bienes Raíces no agrícolas correspondientes a sitios no edificados, propiedades abondonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Dep…
+oacute;n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de Bienes Raíces no agrícolas correspondientes a sitios no edificados, propiedades abondonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2019
-- Fecha: 2019-06-11
+- Fecha: 2019-05-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu23.pdf
 - Hash SHA-256: 49c0a8546fa940b398afff442947ce1927cb34af6b6594fb5a1f40d31678e37d
 
 ## Resumen
 
-oría para el mes de julio de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 24 del 11 de Junio del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2019 y el 9 de julio de 2019. Fuente: Oficina de Gestión Normativa Se modifican instrucciones contenidas en el N° 4.1, de la Circular N° 12, de 18 de marzo de 1987, relativo a los requisitos que deben cumplir los contribuyentes para hacer uso del beneficio contenido en e…
+Oficina de Gestión Normativa Se modifican instrucciones contenidas en el N° 4.1, de la Circular N° 12, de 18 de marzo de 1987, relativo a los requisitos que deben cumplir los contribuyentes para hacer uso del beneficio contenido en el Art. 29°, de la Ley N° 18.591, modificada por el Art. 392°, de la Ley N° 20.720. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

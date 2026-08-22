@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, Ley sobre Impuesto a las Ventas y Servicios, en materia de inmuebles. Fuente: Impuestos Indirectos. Circular N° 36 del 15 de Mayo del 2020 Tabla de cálculos de reajustes, intereses y multas junio 2020. Fuente: Subdirección de Fiscalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2020. Fuente: Subdirección de Fiscalización Circular N° 34 del 11 de Mayo del 2020 Tablas de Impues…
+scalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2020. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

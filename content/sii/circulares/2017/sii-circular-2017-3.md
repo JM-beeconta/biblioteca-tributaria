@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Normativa Circular N° 4 del 11 de Enero del 2017 Establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica por modificaciones establecidas a la Ley de Mérito Ejecutivo Fuente: Departamento de Operaciones Tabla de Impuesto Único de Segunda categoría para el mes de febrero del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 2 del 11 de Enero del 2017 (modificada) Complementa instrucciones impartidas en las Ci…
+nto de Operaciones Tabla de Impuesto Único de Segunda categoría para el mes de febrero del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

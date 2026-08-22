@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 49 del 11 de Octubre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2018 y el 9 de noviembre del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 47 del 21 de Septiembre del 2018 Tabla de Cálculos…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2018 y el 9 de noviembre del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

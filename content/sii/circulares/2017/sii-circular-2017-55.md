@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2017
-- Fecha: 2017-11-27
+- Fecha: 2017-11-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu55.pdf
 - Hash SHA-256: f91f3c869007c7a783786ce11c7d2634c6542659c9b08049d6d148d85916336b
 
 ## Resumen
 
-scripción en el Rol Único Tributario. Fuente: Departamento Impuestos Directos Circular N° 56 del 27 de Noviembre del 2017 Tabla de Cálculos de Reajustes, Intereses y Multa, Diciembre 2017 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2017 y el 9 de diciembre del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 54 del 10 de Noviembre del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre del año 2017…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2017 y el 9 de diciembre del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

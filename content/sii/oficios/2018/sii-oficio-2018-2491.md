@@ -6,69 +6,78 @@
 - Año: 2018
 - Fecha: 2018-01-02
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja006.htm
-- Hash SHA-256: 2066a44fcad46fc497e66b8c9b39187b406cbbe8ceedc410982e586298784260
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja007.htm
+- Hash SHA-256: 234128c2c317b9cf784451275c3c0063eeef04e6ffd783b6ede1be6084ad2d95
 
 ## Resumen
 
-gin-bottom:3px;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31 &ndash; . (Ord. Nº 7, de 02-01-2018) | Word Solicitud de reconsideración del pronunciamiento emitido a través de Oficio N° 2.491 de 06.09.2016, respecto del tratamiento tributario de las sumas pagadas por el arriendo de módulos en Zona Franca y de los galpones e instalaciones construidos en dicho recinto por sus usuarios. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20, N° 3 y N°4, Art. 40, N°1 y N°2 &ndash; Ley N° 18.712,…
+ondientes plantas. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31 &ndash; . (Ord. Nº 7, de 02-01-2018) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"40"}
-- {"type":"articulo","law":"LIR","article":"20"}
-- {"type":"articulo","law":"LIR","article":"20 d"}
+- {"type":"oficio","number":2491,"year":2016}
+- {"type":"articulo","law":"LIR","article":"31"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N° 3 Y N°4, ART. 40, N°1 Y N°2 – LEY N° 18.712, DE 1988, ART. 9. (Ord. Nº 006, de 02-01-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31 – OFICIO N° 2491, DE 2016. (Ord. Nº 007, de 02-01-2018)
 
-ALCANCE DE LA EXENCIÓN DE IDPC QUE BENEFICIA LAS PRESTACIONES PROPORCIONADAS POR LOS SERVICIOS DE BIENESTAR SOCIAL DE LAS FUERZAS ARMADAS DE LA LEY N°18.712, DE 1988.
+SOLICITUD DE RECONSIDERACIÓN DEL PRONUNCIAMIENTO EMITIDO A TRAVÉS DE OFICIO N° 2.491 DE 06.09.2016, RESPECTO DEL TRATAMIENTO TRIBUTARIO DE LAS SUMAS PAGADAS POR EL ARRIENDO DE MÓDULOS EN ZONA FRANCA Y DE LOS GALPONES E INSTALACIONES CONSTRUIDOS EN DICHO RECINTO POR SUS USUARIOS.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual consulta sobre el alcance de la exención de Impuesto de Primera Categoría (IDPC) que beneficia las prestaciones otorgadas por los Servicios de Bienestar Social de las Fuerzas Armadas, regulados en la Ley N°18.712, de 1988.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual manifiesta que se ha presentado ante esa Dirección Regional una solicitud de reconsideración del pronunciamiento de este Servicio, emitido a través del Oficio N° 2.491 de 06.09.2016, respecto del tratamiento tributario de las sumas pagadas por el arriendo de módulos en Zona Franca y de los galpones e instalaciones construidos en dicho recinto por sus usuarios.
 
 I.- ANTECEDENTES.
 
-La VIII Dirección Regional de Concepción, a propósito de una pregunta que le fue efectuada por el Jefe del Departamento de Bienestar XXXXX, consulta sobre el alcance de la exención de Impuesto a la Renta, contenida en el artículo 9°, de la Ley N°18.712, de 1988, que beneficia a las prestaciones otorgadas por los Servicios de Bienestar Social de las Fuerzas Armadas, atendida la discordancia que, a su juicio, existiría entre el Oficio N°1.229, de 2017 y el N°1.775, de 2016.
+Expresa que en esa Dirección Regional se recibió una presentación solicitando se reconsidere el pronunciamiento del Servicio emitido mediante Oficio N° 2491, de fecha 06.09.2016, en el que se resolvió la consulta -realizada por el mismo requirente- respecto de la forma en que deben ser contabilizados los galpones y módulos -y, consecuencialmente, su desgaste- que son entregados por XXXXX S.A. (XXXXX) a los Usuarios de XXXXX (Usuarios), amparados bajo el contrato respectivo.
 
-La VIII Dirección Regional sostiene que las rentas por &ldquo;prestaciones&rdquo; otorgadas por los Servicio de Bienestar Social están exentas de Impuesto a la Renta por disponerlo el artículo 9°, de la Ley N°18.712, de 1988, constituyendo una exención de ley especial, de aquellas a las que se refiere el N°2, del artículo 40 de la Ley sobre Impuesto a Ia Renta (LIR). Sin embargo, no habría claridad si las rentas por ventas en general, vale decir, tanto las efectuadas a los beneficiados como las efectuadas a terceros y los servicios prestados a terceros estarían exentas en virtud del N°1, del artículo 40 de la LIR.
+En dicha presentación, se solicita se reconsidere el criterio expresado en el citado oficio, en el sentido de no clasificar los Galpones, en el ámbito tributario, como un Activo Inmovilizado, ya que a su juicio si estos por su destino final no son Intangibles por lo menos deben ser considerados como Transitorios, ya que estos nunca serán de propiedad de los Usuarios, puesto que la facultad de vender los derechos de la &ldquo; concesión &rdquo;, no es razón valedera para respaldar el juicio del Servicio, ya que en el evento que el Usuario no renueve la concesión, legítimamente puede llevar a perdida lo que el Servicio erróneamente ha clasificado como Activo Inmovilizado, ya que las obras pasarán a ser propiedad de XXXXX S.A.
+
+Agrega que, se debe tener presente el concepto de Activo Fijo y como no existe un concepto legal, se debe utilizar el que emana del Boletín Técnico N° 33 del Colegio de Contadores, que establece normas relativas al Tratamiento Contable del Activo Fijo, entendiendo que &ldquo; El activo fijo está formado por bienes tangibles que han sido adquiridos o construidos para usarlos en el giro de la empresa durante un período considerable de tiempo y sin el propósito de venderlos &rdquo;.
+
+Finalmente señala, que el contribuyente solicita una aclaración respecto a una serie de gastos de gran envergadura en los cuales debe incurrir un Usuario para mantener los módulos, que a su juicio cumplirían con los requisitos del artículo 31 de la Ley de la Renta. Así, solicita se aclare si tales pagos corresponden a gastos rechazados, por ser accesorios al contrato de arrendamiento, si pueden llevarse a pérdida gastos de años anteriores, si se deben corregir los años anteriores y la factibilidad de sacarlos del activo y disminuir el capital propio y el FUT.
+
+En este sentido, y dado que el contribuyente ha solicitado la reconsideración del criterio asentado en el Oficio N° 2491, de fecha 06.09.2016, conforme los argumentos que desarrolla, es que esa Dirección Regional ha estimado procedente remitirlos a esta superioridad para evaluar su procedencia, sin perjuicio de que, según señala, en esta nueva presentación no se ha aportado nuevos antecedentes.
 
 II.- ANÁLISIS.
 
-1.- En primer término, se puede señalar que el artículo 9° de la Ley N°18.712, de 1988, que aprueba el Estatuto de los Servicios de Bienestar Social de las Fuerzas Armadas, indica que las prestaciones que se otorguen por los Servicios de Bienestar Social de las Fuerzas Armadas estarán liberadas de los Impuestos al Valor Agregado, a la Renta, de Timbres y Estampillas y demás que establezcan las leyes. Los bienes raíces del patrimonio de afectación fiscal estarán exentos del pago del Impuesto Territorial.
+En relación con la solicitud del ocurrente, cabe reiterar en primer término lo ya señalado en repetida jurisprudencia de este Servicio, respecto a que en su función debe operar dentro del marco establecido y sólo con el objeto de realizar los fines que se le han encomendado. De modo que este Servicio carece de competencia para impartir normas contables, incluso dentro del ámbito de la tributación fiscal interna.
 
-Al respecto, este Servicio ha señalado, en base al término &ldquo;prestaciones&rdquo; utilizado por la norma, que dicha exención beneficia a los servicios proporcionados por los Servicios de Bienestar a sus beneficiarios, esto es, el personal de las Fuerzas Armadas y sus familias, quedando excluidas de la exención del artículo 9° de la Ley N°18.712, de 1988, tanto los servicios prestados a terceros no vinculados a la institución como las ventas a beneficiarios como a terceros.
+Ahora bien, en relación con la solicitud de reconsideración de lo resuelto por este Servicio a través del Oficio N° 2.491 de 06.09.2016, es conveniente precisar, conforme a lo ya señalado en dicho documento, que el ANÁLISIS fue efectuado considerando sólo los antecedentes que se acompañaron en la oportunidad de la anterior presentación del ocurrente.
 
-Esta exención queda comprendida en el N°2, del artículo 40 de la LIR, que libera de IDPC las rentas percibidas por instituciones exentas por leyes especiales.
+Así entonces, luego del análisis de dichos antecedentes, el pronunciamiento se refiere claramente al tratamiento tributario de los desembolsos efectuados en los siguientes dos conceptos o bienes, definidos respectivamente en las letras g) y h), del Reglamento Interno Operacional de la Zona Franca de Iquique, actualizado al 25 de abril de 2016 , obtenido en la Página Web www.XXXXX.cl :
 
-2.- Por su parte, el N°1, del artículo 40 de la LIR, exime de IDPC las rentas percibidas por el Fisco, las instituciones fiscales y semifiscales, las instituciones fiscales y semifiscales de administración autónoma, las instituciones y organismos autónomos del Estado y las Municipalidades.
+Galpón: Las instalaciones de propiedad de los usuarios habilitadas por la Administración para el desarrollo de las actividades comerciales o industriales en la Zona Franca de Iquique, conforme a la respectiva contratación.
 
-La Contraloría General de la República, en numerosos dictámenes [1] , ha señalado que los Servicios de Bienestar de las instituciones de la Defensa Nacional están incluidos en la persona jurídica del Fisco, sin perjuicio que tengan un patrimonio de afectación fiscal integrado por los bienes y recursos que señala la ley respectiva, los que continúan integrando, en términos amplios, el patrimonio fiscal.
+Módulos: El local perteneciente a la Sociedad Administradora o autorizado por ella, destinado a la exhibición y venta de mercancías de exclusiva propiedad del Usuario que lo tenga asignado.&rdquo;.
 
-3.- En vista de lo anteriormente expuesto, desde la perspectiva del Impuesto a la Renta, las rentas obtenidas por los Servicios de Bienestar Social de las Fuerzas Armadas pueden quedar exentas ya sea por la aplicación del N°2, del artículo 40 de la LIR, fundada a su vez en la exención establecida en el artículo 9°, de la Ley N°18.712, de 1988; o por la aplicación del N°1, del artículo 40 de la LIR en su calidad de Fisco.
+De acuerdo con tales definiciones, que establecen una diferencia respecto de la propiedad de tales bienes, el pronunciamiento del Servicio se refirió al tratamiento tributario de los desembolsos destinados a los galpones o instalaciones construidas por éste en los sitios arrendados para el desarrollo de sus actividades comerciales o industriales en la Zona Franca de Iquique; y a los desembolsos destinados al pago o arriendo de los módulos.
 
-Sin embargo para ambos casos, debe tenerse en consideración que el artículo 40 de la LIR, en su inciso final, establece que las exenciones contempladas en sus N°1, 2 y 3 no rigen respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos numerales ni de las rentas clasificadas en los N°3 y 4 del artículo 20 de la LIR [2] .
+Conforme con dicho pronunciamiento cabe reiterar que:
 
-Por último, cabe señalar que no existe contradicción entre el Oficio N°1.775, de 2016 y el N°1.229, de 2017 atendido que el segundo aclara que, además de la exención contenida en el N°1, del artículo 40 de la LIR, los Servicios de Bienestar Social de las Fuerzas Armadas benefician de la exención del N°2, del mismo artículo, advirtiéndose en ambos Oficios sobre la limitación contenida en el inciso final, del artículo 40 de la LIR.
+Respecto de los desembolsos efectuados en galpones, &ndash;instalaciones construidas por éste en los sitios arrendados para el desarrollo de sus actividades comerciales o industriales en la Zona Franca de Iquique&ndash;, de acuerdo a lo expresamente estipulado en el referido contrato, se trata de bienes físicos que forman parte del activo inmovilizado del usuario y en tal carácter son depreciables conforme a lo dispuesto en los N°s 5 o 5 bis, del artículo 31 de la Ley sobre Impuesto a la Renta, en la medida que se cumplan los demás requisitos dispuestos en dichas normas.
+
+A lo anterior cabe agregar, que el criterio adoptado se fundamenta precisamente en la definición de activo fijo o inmovilizado que indica el ocurrente y en consideración a que el referido Reglamento Interno Operacional de la Zona Franca de Iquique, define que el galpón es de propiedad del Usuario de Zona Franca respectivo, características éstas que hacen del todo improcedente que dichos bienes tributariamente sean catalogados ni como activos transitorios ni intangibles para proceder a su amortización, en los casos que señala y como pretende el ocurrente.
+
+Respecto de los desembolsos efectuados por los módulos, es posible afirmar que el Usuario de la Zona Franca es arrendatario de los módulos, de modo que, en el ámbito tributario, dichas sumas no son depreciables, pues no corresponden a sumas pagadas por la adquisición de bienes físicos de su activo inmovilizado, sino a sumas pagadas por el arriendo de dichos módulos, respecto de los cuales el Usuario es un mero tenedor.
+
+Sin perjuicio de lo anterior, se hace presente que el monto que pague el Usuario por el goce de los referidos módulos, al igual que aquel que pague por el goce de los sitios &ndash;cánones de arrendamiento, en ambos casos&ndash; constituyen para éste gastos necesarios para producir la renta, en la medida que cumplan los requisitos copulativos dispuestos en el artículo 31 de la Ley sobre Impuesto a la Renta.
 
 III.- CONCLUSIÓN.
 
-Están exentas de IDPC las rentas provenientes de prestaciones o servicios, proporcionados por los Servicios de Bienestar Social de las Fuerzas Armadas a sus beneficiarios, siempre que no provengan de las actividades o correspondan a rentas incluidas en los N°3 y 4, del artículo 20 de la LIR.
+Conforme a lo expresado en el ANÁLISIS anterior y considerando que el ocurrente no ha aportado nuevos antecedentes que permitan desvirtuar o modificar los elementos sobre cuya base el Servicio emitió su pronunciamiento, sólo cabe confirmar el pronunciamiento emitido por este Servicio a través del Oficio N° 2.491 de 06.09.2016.
 
-Por el contrario, las prestaciones o servicios proporcionados a los beneficiarios de los Servicios de Bienestar Social de las Fuerzas Armadas como a los terceros no vinculados con la institución, comprendidos en los N°3 y 4 del artículo 20 de la LIR, quedan afectos a IDPC.
+En relación con lo solicitado por el ocurrente respecto a calificar como gastos necesarios para producir la renta, aquellos gastos anexos en los que debe incurrir un Usuario de Zona Franca para mantener los Módulos que arriendan a la Sociedad Administradora, tal calificación no puede ser efectuada a priori, pues para tales efectos es menester analizar el cumplimiento de todos los requisitos que para tales efectos establece el artículo 31 de la Ley de la Renta, tal como ha sostenido la jurisprudencia de este Servicio [1] .
 
-Finalmente, las rentas provenientes de ventas o enajenaciones de bienes muebles efectuadas por los Servicios de Bienestar Social de las Fuerzas Armadas, tanto a sus beneficiarios como a terceros no vinculados con la institución, al constituir un acto de comercio del N°3, del artículo 20 de la LIR, no se benefician ni de la exención del N°2, del artículo 40 de la LIR, (fundada a su vez en la exención del artículo 9°, de la Ley N°18.712, de 1988), como tampoco de la exención del N°1, del artículo 40 de la LIR.
+Sírvase dar respuesta al recurrente, en los términos expresados en el presente Oficio.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 006, de 02.01.2018
+Oficio N° 007, de 02.01.2018
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
 
-[1] Dictamen N°29396 de 2017; Dictamen N°18082 de 2007; Dictamen N°25545 de 1998; Dictamen N°23752 de 1998; Dictamen N°26402 de 1992; y Dictamen N°42932 de 1978.
-
-[2] El N°3 del artículo 20 de la LIR comprende las rentas de la industria, del comercio, de la minería y de la explotación de riquezas del mar y demás actividades extractivas, compañías aéreas, de seguros, de los bancos, asociaciones de ahorro y préstamos, sociedades administradoras de fondos, sociedades de inversión o capitalización, de empresas financieras y otras de actividad análoga, constructora, periodísticas, publicitarias, de radiodifusión, televisión, procesamiento automático de datos y telecomunicaciones. Por su parte, el N°4 del artículo 20 de la LIR comprende las rentas obtenidas por corredores, sean titulados o no, sin perjuicio de lo que al respecto dispone el Nº2 del artículo 42, comisionistas con oficina establecida, martilleros, agentes de aduana, embarcadores y otros que intervengan en el comercio marítimo, portuario y aduanero, y agentes de seguro que no sean personas naturales; colegios, academias e institutos de enseñanza particulares y otros establecimientos particulares de este género; clínicas, hospitales, laboratorios y otros establecimientos análogos particulares y empresas de diversión y esparcimiento.
+[1] Oficio N° 2.872 de 18.10.2016

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ript">imprimir_compartir(false, true) Circulares 2019 Años Anteriores Tabla de cálculos de reajustes, intereses y multas enero 2020. Fuente: Subdirección de Fiscalización Circular N° 48 del 11 de Diciembre del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 47 del 11 de Diciembre del 2019 Valor de la Unidad de Fomento para los d&iac
+Tabla de cálculos de reajustes, intereses y multas enero 2020. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

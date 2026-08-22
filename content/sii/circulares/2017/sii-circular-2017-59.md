@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 60 del 15 de Diciembre del 2017 (Zip 13.793KB) Suplemento Tributario con la normativa vigente para efectuar la declaración de los Impuestos Anuales a la Renta correspondientes al Año Tributario 2018 Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2017 y el 9 de enero del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 58 del 07 de Diciembre del 2017 Tablas de Im…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2017 y el 9 de enero del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

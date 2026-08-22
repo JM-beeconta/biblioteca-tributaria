@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2017
-- Fecha: 2017-02-22
+- Fecha: 2017-02-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu14.pdf
 - Hash SHA-256: 76e08fc34e17a97417047f7cfa164ef3131f7beabd834a6bdf6fb8a6ab251a4f
 
 ## Resumen
 
-span> Circular N° 15 del 22 de Febrero del 2017 Aplicación de la exención del 100% del Impuesto Territorial de acuerdo a lo dispuesto en el Artículo 99 de la ley general de Urbanismo y Construcciones, contenida en el D.F.L. N°458, de 1976, del Ministerio de Vivienda y Urbanismo. Fuente: Subdirección de Avaluaciones Complementa Circular N°15, DE 12.02.2010 que actualiza instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos, en la tramitación de concesiones marítima…
+;n de Avaluaciones Complementa Circular N°15, DE 12.02.2010 que actualiza instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos, en la tramitación de concesiones marítimas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

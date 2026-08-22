@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2020
-- Fecha: 2020-02-24
+- Fecha: 2020-02-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu11.pdf
 - Hash SHA-256: cce8ddae2bb781f7658e8aea1557745e064f37a5246b72cf1d8b4ab5815551df
 
 ## Resumen
 
-rmación contenida en Circular N° 6 de 2020 Fuente: Oficina de Gestión Normativa. Circular N° 12 del 24 de Febrero del 2020 Tabla de Cálculos de Reajustes, Intereses y Multas Marzo 2020 Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2020 e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 10 del 12 de Febrero del 2020 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020…
+calización. Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2020 e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

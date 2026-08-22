@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n y revisión de la sobretasa que grava a los bienes raíces no agrícolas afectos a Impuesto Territorial, ubicados en áreas urbanas, correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, señalada en el Artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial, modificado por la Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano. Fuente: Subdirección de Avaluaciones Tabla de cálculos de reajustes, intereses y…
+Subdirección de Avaluaciones Tabla de cálculos de reajustes, intereses y multas agosto 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> Modifica la Resolución Exenta N° 4847 de 1995 y el Formulario N° 1891 e instrucciones de llenado. Fuente: Subdirección de Fiscalización
+Modifica la Resolución Exenta N° 4847 de 1995 y el Formulario N° 1891 e instrucciones de llenado. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

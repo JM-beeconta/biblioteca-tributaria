@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización Circular N° 4 del 10 de Enero del 2018 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2018 Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2018 y el 9 de febrero del año 2018. Fuente: OFICINA DE GESTIÓN NORMATIVA Circular N° 2 del 09 de Enero del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero del año 2018, e informaci…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2018 y el 9 de febrero del año 2018. Fuente: OFICINA DE GESTIÓN NORMATIVA
 
 ## Referencias detectadas
 

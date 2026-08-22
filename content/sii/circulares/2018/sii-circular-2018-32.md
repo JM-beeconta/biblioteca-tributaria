@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Departamento de Asesoría Jurídica Circular N° 33 del 11 de Junio del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2018 y el 9 de julio del año 2018. Fuente: OFICINA DE GESTIÓN NORMATIVA Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 31 del 23 de Mayo del 2018 Instruye sobre las modificaciones incorporadas por la Ley N°21.047…
+acute;N NORMATIVA Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

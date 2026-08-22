@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2017
-- Fecha: 2017-02-17
+- Fecha: 2017-02-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu11.pdf
 - Hash SHA-256: 70b9e342142fb769421e7ffa05cff55668c2b7570c59c4675ed4e6d503583af4
 
 ## Resumen
 
-e;culos 23 y 34 N°2 letra c) de la Ley de la Renta. Fuente: Oficina de Gestión Normativa Circular N° 12 del 17 de Febrero del 2017 Tabla de Cálculos de Reajustes, Intereses y multas marzo 2017 Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de segunda categoría para el mes de marzo del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 10 del 10 de Febrero del 2017 Operaciones de crédito de dinero Fuente: Oficina de Gestión Normativa Cir…
+scalización Tablas de Impuesto Único de segunda categoría para el mes de marzo del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

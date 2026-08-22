@@ -6,76 +6,61 @@
 - Año: 2017
 - Fecha: 2017-03-15
 - Categoría: IVA, Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja468.htm
-- Hash SHA-256: 1154d88e40a74743f99826238b656c8a3f567e751e52f7ad65ccf1e098b557df
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja548.htm
+- Hash SHA-256: 62d6cea7c069440adcf0bea47421403410c0f3aea8ab4f622f7ec67db54dbaef
 
 ## Resumen
 
-m:20px;font-size:12px;text-align:justify;'> Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 1, N°3 &ndash; . (Ord. Nº 548, de 15-03-2017) | Word Aplicación del Impuesto de Timbres y Estampillas a tarjetas de crédito no bancarias. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Párrafo I, Letra D, N° 3 &ndash; Circulares N° 71 de 2001 y N° 39, de 2008. (Ord. Nº 468, de 03-03-2017) | Word Aplicación de la exención de Impuesto Territorial contenida en el…
+Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 1, N°3 &ndash; . (Ord. Nº 548, de 15-03-2017) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":71,"year":2001}
-- {"type":"circular","number":39,"year":2008}
+- {"type":"oficio","number":2748,"year":2004}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – CUADRO ANEXO, PÁRRAFO I, LETRA D, N° 3 – CIRCULARES N° 71 DE 2001 Y N° 39, DE 2008. (Ord. Nº 468, de 03-03-2017)
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 1, N°3 – OFICIO N° 2748, DE 2004. (Ord. Nº 548, de 15-03-2017)
 
-APLICACIÓN DE LA EXENCIÓN DE IMPUESTO TERRITORIAL CONTENIDA EN EL PÁRRAFO I, LETRA D, N° 3 DEL CUADRO ANEXO DE LA LEY SOBRE IMPUESTO TERRITORIAL.
+APLICACIÓN DEL IMPUESTO DE TIMBRES Y ESTAMPILLAS A TARJETAS DE CRÉDITO NO BANCARIAS.
 
-Solicita aclarar alcance de la exención de Impuesto Territorial a los establecimientos destinados a proporcionar auxilio o habitación gratuita a los indigentes o desvalidos, en el caso particular de los adultos mayores.
+Mediante el oficio indicado en el antecedente se ha trasladado a este Servicio su presentación de fecha 03.05.2016, enviada a la página web de la Superintendencia de Bancos e Instituciones Financieras.
 
 I ANTECEDENTES
 
-Expone en su presentación que, dada la indispensable labor que realizan los hogares que acogen a indigentes y desvalidos, dándoles un lugar digno para vivir, el cual de otro modo no podrían tener, la legislación ha eximido a estos inmuebles del pago del Impuesto Territorial.
+Se consulta si las tarjetas de crédito no bancarias están afectas a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980.
 
-Luego de citar la norma contenida en el Párrafo I, Letra D, N° 3 del Cuadro Anexo de la Ley sobre Impuesto Territorial y ofrecer un análisis de ella, finalmente solicita confirmar que basta cumplir los siguientes requisitos respecto de un inmueble para aplicar la exención:
-
-Que pertenezca a una institución con personalidad jurídica;
-
-Que esté destinado al fin de beneficencia establecido en los estatutos de su propietaria, lo cual se cumple sea que lo opere directamente o lo entregue en comodato o arrendamiento a otra entidad para asignarlo a cualquiera de los cuatro fines indicados en el numeral 4);
-
-Que no produzca rentas para financiar actividades distintas al fin benéfico establecido en los estatutos de su propietaria, lo que no excluye la posibilidad que esta última perciba rentas que provengan de otras fuentes o que el inmueble exento produzca rentas que se destinen a financiar las actividades benéficas de la institución;
-
-Que en dicho inmueble exista un establecimiento destinado a proporcionar (una cualquiera de las cuatro siguientes: habitación gratuita a indigentes o habitación gratuita a desvalidos o auxilio gratuito a indigentes o auxilio gratuito a desvalidos), sin que se necesario que la institución propietaria preste directamente estos servicios ni que opere u ocupe materialmente el inmueble.
+Específicamente, informa que la tarjeta XXXX, desde hace un par de meses, le estaría cobrando por ese concepto, lo que no pasaría con la TTTT.
 
 II ANÁLISIS
 
-Como primera cuestión, y considerando que el mismo peticionario ha realizado presentaciones de similar naturaleza, tanto en cuanto a la generalidad de los antecedentes proporcionados como de los criterios que solicita confirmar, es preciso recordar que, conforme lo instruido en el numeral 10.- de la Circular N° 71 de 2001, &ldquo;en principio, deberán responderse sólo las consultas que se refieran a casos concretos y en los que exista un interés actualmente comprometido del consultante o de su representado&rdquo;, situación que no se verifica en la especie.
+El artículo 1° N° 3 de la Ley sobre Impuesto de Timbres y Estampillas, contenida en el decreto ley N° 3.475 de 1980, dispone que las letras de cambio, libranzas, pagarés, créditos simples o documentarios y cualquier otro documento, incluso aquellos que se emitan en forma desmaterializada, que contenga una operación de crédito de dinero, pagará un impuesto de 0,033% sobre su monto por cada mes o fracción de mes que medie entre la emisión del documento y la fecha de vencimiento del mismo, no pudiendo exceder del 0,4% la tasa que en definitiva se aplique.
 
-Con todo, la misma instrucción señala que &ldquo;deberá tenerse especial cuidado en dar respuesta a las consultas, que sin cumplir con los requisitos anteriores, impliquen satisfacer la necesidad del consultante en orden a tener certeza sobre la tributación que afectará a un determinado proyecto de inversión o a la realización de un negocio específico&rdquo;, cuestión que tampoco ocurre en el presente caso.
+Luego, el hecho gravado es la emisión de un &ldquo;documento&rdquo; que acredite la celebración de una &ldquo;operación de crédito de dinero&rdquo;, entendiéndose que éstas son &ldquo;aquellas por las cuales una de las partes entrega o se obliga a entregar una cantidad de dinero y la otra a pagarla en un momento distinto.&rdquo; [1]
 
-Sin perjuicio de lo anterior, es posible informar que, conforme al Párrafo I, Letra D, N° 3 del Cuadro Anexo de la Ley sobre Impuesto Territorial, se libera de Impuesto Territorial a los bienes raíces &ldquo;de propiedad de las siguientes instituciones, siempre que cuenten con personalidad jurídica, que estén destinados al fin de beneficencia establecido en sus estatutos y no produzcan renta por actividades distintas a dicho objeto&hellip; 3) Establecimientos destinados a proporcionar auxilio o habitación gratuita a los indigentes o desvalidos.&rdquo;
+En el caso de las tarjetas no bancarias, y atendido que no se acompañan mayores antecedentes, puede informarse en términos generales que el Impuesto de Timbres y Estampillas se aplicará o no, en la medida que se emita un documento donde conste una operación de crédito de dinero.
 
-Este Servicio sistematizó los requisitos que debe cumplir el bien raíz para gozar de la exención en análisis mediante la Circular N° 39 de 2008, como sigue:
+Como este Servicio ha señalado en otra oportunidad, y dependiendo de las circunstancias en que se realice la operación [2] :
 
-que se trate de una institución que cuente con personalidad jurídica,
+Si existe un documento en que conste un pacto previo celebrado entre las partes, que dé cuenta de un crédito otorgado para financiar la compra de productos, dicho documento podría constituir un contrato de apertura o línea de crédito donde se conviene un plazo de vencimiento y un monto máximo crediticio. Este contrato, que da cuenta de la línea de crédito, de acuerdo al artículo 24° N° 9 de la Ley sobre Impuesto de Timbres y Estampillas, se encuentra exento del impuesto, sin perjuicio que se grave el uso efectivo de la línea de crédito en los términos generales que establece el decreto ley antes referido, en su artículo 1° N° 3, independientemente de la forma en que el cliente paga su compra en la tienda respectiva.
 
-que el inmueble se destine al fin de beneficencia establecido en los estatutos de la respectiva institución,
-
-que el inmueble no produzca rentas por actividades distintas al fin de beneficencia establecido en los estatutos de la respectiva institución,
-
-que el inmueble esté destinado a dar auxilio o habitación gratuita, y
-
-que la institución entregue auxilio o habitación gratuita a indigentes o desvalidos.
-
-Conforme lo anterior, y exclusivamente en relación con los criterios 1) al 4) del Antecedente y que solicita confirmar en su presentación, cabe señalar que en términos muy generales reiteran aquellos sistematizados en la Circular N° 39 de 2008, pero agregando nuevos elementos que extienden los alcances de la exención, especialmente en los numerales 2) y 3) citados en el Antecedente.
-
-Al respecto, cabe señalar que los pronunciamientos referidos en su presentación, y de donde se desprenderían &ndash; en su concepto &ndash; nuevos elementos a los ya sistematizados en la Circular N° 39 de 2008, dicen relación con casos particulares tenidos a la vista, sin que sea posible extenderlos a priori y por modo general a otras situaciones no analizadas.
+En cambio, en el entendido que el cliente compre al contado en tres cuotas (una al contado y las otras dos a plazo) al vendedor, pero pague el monto del saldo a la empresa que emite la tarjeta de crédito, y sea ésta, quién a su vez pague el saldo de precio al vendedor, existiría entre dicha empresa y el cliente de la casa comercial una operación de crédito de dinero, afecta al impuesto de timbres y estampillas, siempre y cuando dicha operación se contenga en un documento.
 
 III CONCLUSIÓN
 
-De acuerdo con lo señalado precedentemente, sólo es posible confirmar los criterios indicados en su presentación en aquella parte que reiteran o repiten los requisitos de procedencia previamente sistematizados por este Servicio en la Circular N° 39 de 2008, de su conocimiento.
+Atendido que no se aportan mayores antecedentes, no es posible emitir un pronunciamiento sobre el caso particular que plantea.
 
-En lo demás, no es posible emitir un pronunciamiento a priori y de carácter general, sin consideración a la situación particular o antecedentes concretos del bien raíz en cuestión; como tampoco resulta necesario referirse a los demás argumentos o interpretaciones deslizadas en el análisis de su presentación y respecto de las cuales no se solicita confirmación.
+Con todo, en el Análisis precedente se informa el hipotético tratamiento tributario que tendría la operación de la tarjeta, de acuerdo a lo resuelto por este Servicio en otras oportunidades.
 
-FERNANDO BARRAZA LUEGO
+FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 468, de 03.03.2017
+Oficio N° 548, de 15.03.2017
 
 Subdirección Normativa
 
 Dpto. de Técnica Tributaria
+
+[1] Definición contenida en el artículo 1° de la Ley N° 18.010.
+
+[2] Oficio N° 2748 de 2004.

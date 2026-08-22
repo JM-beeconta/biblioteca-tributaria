@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 11 del 10 de Febrero del 2017 Tablas de Impuesto Único de segunda categoría para el mes de marzo del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Operaciones de crédito de dinero Fuente: Oficina de Gestión Normativa Circular N° 9 del 02 de Febrero del 2017 Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de…
+oacute;n Normativa Operaciones de crédito de dinero Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

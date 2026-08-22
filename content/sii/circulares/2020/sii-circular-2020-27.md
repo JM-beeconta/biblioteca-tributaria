@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 28 del 09 de Abril del 2020 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, publicada el 24 de febrero de 2020, a la Ley N° 17.235, sobre Impuesto Territorial, en materia de sobretasa. Fuente: Subdirección de Avaluaciones. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2020, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa. Circular…
+n de Avaluaciones. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2020, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

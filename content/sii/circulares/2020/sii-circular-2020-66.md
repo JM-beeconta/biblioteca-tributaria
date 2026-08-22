@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 66
 - Año: 2020
-- Fecha: 2020-11-11
+- Fecha: 2020-10-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu66.pdf
 - Hash SHA-256: 94827c39a596f4d05e6b3fc8a50aa2969e2d03c29f58a934882c7bc797d0ac2d
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 67 del 11 de Noviembre del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Imparte instrucciones para la determinación de la tasación fiscal de vehículos motorizados para los fines que indica. Fuente: Subdirección de Avaluaciones. Circular N° 65 del 13 de Octubre del 2020 Tabla de cálculos de…
+oacute;n Normativa Imparte instrucciones para la determinación de la tasación fiscal de vehículos motorizados para los fines que indica. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

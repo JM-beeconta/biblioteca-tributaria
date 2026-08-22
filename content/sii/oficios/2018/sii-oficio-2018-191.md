@@ -6,276 +6,65 @@
 - Año: 2018
 - Fecha: 2018-01-18
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja77.doc
-- Hash SHA-256: 35216e7021a99508cf329a9b87f836de9aa61c37d73051e5bcb9fe19f2746713
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja123.htm
+- Hash SHA-256: a53950e103373fc7fd38e748707b720ec8d8079d3a91ff95cfa8da3819913880
 
 ## Resumen
 
-al Impuesto a la Renta y a las Ganancias de Capital y su Protocolo, Art. 7, Art. 12, Art. 21 &ndash; . (Ord. Nº 123, de 18-01-2018) | Word Naturaleza de rentas pagadas a empresa residente en Irlanda. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N° 7 y N°29 &ndash; Art. 31, N°3 &ndash; Ley N° 18.985, Art. 3, N°7 &ndash; Circular N° 49, de 2016. (Ord. Nº 77, de 12-01-2018) | Word Aplicación del artículo 17 N° 7 de la Ley sobre Impuesto a la Renta (LIR), respecto de la diferencia positiva entre activ…
+a Popular de China Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Convenio entre la República de Chile e Irlanda para evitar la doble imposición y para prevenir la evasión fiscal en relación al Impuesto a la Renta y a las Ganancias de Capital y su Protocolo, Art. 7, Art. 12, Art. 21 &ndash; . (Ord. Nº 123, de 18-01-2018) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":49,"year":2016}
-- {"type":"circular","number":22,"year":1991}
-- {"type":"circular","number":37,"year":2015}
-- {"type":"articulo","law":"LIR","article":"17 N"}
-- {"type":"articulo","law":"LIR","article":"17\nN"}
-- {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"14"}
-- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"oficio","number":191,"year":2010}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  ART. 17, N° 7 Y N°29 – ART. 31,
-         N°3 – LEY N° 18.985, ART. 3, N°7 – CIRCULAR N° 49, DE 2016.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CONVENIO ENTRE LA REPÚBLICA DE CHILE E IRLANDA PARA EVITAR LA DOBLE IMPOSICIÓN Y PARA PREVENIR LA EVASIÓN FISCAL EN RELACIÓN AL IMPUESTO A LA RENTA Y A LAS GANANCIAS DE CAPITAL Y SU PROTOCOLO, ART. 7, ART. 12, ART. 21 – OFICIO N° 191, DE 2010. (Ord. Nº 123, de 18-01-2018)
 
-                         (ORD. N° 77, DE 12.01.2018)
+NATURALEZA DE RENTAS PAGADAS A EMPRESA RESIDENTE EN IRLANDA.
 
-
-
-Aplicación del artículo 17 N° 7 de la Ley sobre Impuesto a la Renta  (LIR),
-respecto de la diferencia positiva entre activos y  pasivos  a  la  que  se
-refiere el N° 7, del artículo 3° de la Ley N° 18.985, de 1990.
-
-Se ha recibido en esta Dirección Nacional, su presentación  indicada  en  el
-antecedente, mediante la cual consulta sobre la aplicación del  artículo  17
-N° 7 de la LIR, en relación con  la  norma  establecida  en  el  N°  7,  del
-artículo 3° de la Ley N°18.985 de 1990,  que  establece  que  la  diferencia
-entre los  activos  y  pasivos  a  que  se  refiere  dicha  disposición,  se
-considerará capital para todos los efectos legales o  pérdida  deducible  en
-conformidad con el artículo 31, número 3°, de la LIR, según corresponda.
 ANTECEDENTES.
-Expresa  que,  una  sociedad  agrícola  constituida  por  escritura  pública
-otorgada  el  2  de  noviembre  del  año  2009,  que  tiene  por  objeto  la
-explotación agrícola y frutícola en predios propios  o  en  predios  ajenos,
-desarrolló su actividad agrícola y tributó hasta el 31 de diciembre de  2014
-bajo el régimen de renta presunta.
 
-Señala a continuación, que el 1 de enero de 2015, pasó a  tributar  por  sus
-actividades agrícolas bajo el régimen de renta efectiva  según  contabilidad
-completa, para lo cual y de conformidad a lo establecido en el  artículo  3°
-de la Ley N° 18.985, vigente en aquel momento, la  sociedad  confeccionó  un
-balance inicial, en el cual registró sus activos, pasivos y patrimonio.
+1. Se ha recibido una consulta por parte de la Dirección Regional Metropolitana de Santiago Centro, referida a la aplicación del &ldquo; Convenio entre la República de Chile e Irlanda para evitar la doble imposición y para prevenir la evasión fiscal en relación al Impuesto a la Renta y a las Ganancias de Capital y su Protocolo &rdquo; (el &ldquo;Convenio&rdquo;), en particular sobre la naturaleza de ciertas rentas pagadas por parte de una empresa residente en Chile respecto de una empresa residente en Irlanda.
 
-Luego de transcribir el inciso primero del número 7 del artículo  3°  de  la
-Ley N° 18.985, manifiesta que, de acuerdo con la norma  antes  referida,  al
-confeccionar  el  balance  inicial  la  sociedad  agrícola,  registró   como
-“Capital Social" la suma de $ xxxxxx que corresponde  al  monto  del  aporte
-efectuado por los socios  al  momento  de  constituirse  la  sociedad  y  la
-cantidad de $ xxxxxxxxx por concepto de “Ajuste Capital Ley 18.985”.
+2. De acuerdo a los antecedentes aportados en la consulta, una persona residente en Chile efectúa pagos a una sociedad residente de Irlanda, con la finalidad de que dicha sociedad disemine o difunda ciertos avisos publicitarios respecto de los usuarios de determinados sitios de internet. Estos avisos publicitarios consisten en imágenes gráficas que aparecen insertas en un sitio web, las cuales al ser vistas y seleccionadas por los usuarios de dicho sitio web les dirigen a otra página de internet previamente especificada por el cliente publicitado.
 
-Seguidamente señala, que los socios de la sociedad se encuentran  estudiando
-la posibilidad de disminuir  el  capital  social.  Para  ello  procederán  a
-otorgar la  correspondiente  escritura  pública  en  la  cual  modifican  la
-sociedad  y,  previa  autorización  de  este  Servicio,  procederán  con  la
-inscripción del  extracto  en  el  Registro  de  Comercio  competente  y  su
-publicación en el Diario Oficial.
+3. Para que esta actividad de difusión se materialice, la sociedad residente de Irlanda pone a disposición de los interesados una plataforma informática o software en línea (&ldquo; self-serve tool &rdquo;), donde los interesados pueden registrarse, subir y editar su aviso publicitario, definir las condiciones, duración y objetivos de la campaña de difusión, así como las características del público destinatario, las modalidades de pago, entre otros detalles que determinan el contenido y la manera en que el interesado desea que la sociedad residente de Irlanda efectúe la actividad de difusión. A través de dicha plataforma en línea la sociedad residente de Irlanda también provee instrucciones y consejos para facilitar y hacer más efectiva la difusión requerida, además de entregar información para retroalimentar al cliente publicitado respecto de los efectos de su campaña. Según se desprende de los antecedentes presentados, los pagos que se efectúan a la sociedad residente de Irlanda no son una contraprestación por la cesión del uso, o del derecho a uso, de derechos de propiedad intelectual sobre el referido software o self-serve tool , ni se relacionan con el acceso al sitio o sitios web donde se efectuará la difusión del aviso publicitario. Los pagos tampoco le dan derecho al cliente publicitado a acceder directamente a la información de los usuarios del sitio respecto de los cuales se realizará la difusión o diseminación de su aviso publicitario.
 
-Indica a continuación la estructura patrimonial de  la  sociedad  al  31  de
-diciembre de 2016, junto con señalar que la sociedad tributa actualmente  de
-acuerdo a la letra A) del artículo 14 de la LIR.
+II. ANÁLISIS.
 
-Tal como ya se indicó, manifiesta que es interés  de  los  socios  llevar  a
-efecto  la  disminución  del  capital  social,  el   cual   está   compuesto
-fundamentalmente por el capital social original  aportado  por  éstos  y  el
-capital correspondiente al ajuste de capital efectuado de conformidad a  las
-normas del artículo 3° de la Ley N° 18.985.
+4. Para calificar la naturaleza de una renta a la luz de un convenio tributario se debe determinar cuál es la contraprestación a cambio de la cual se paga dicha renta, es decir, la cosa que la contraparte de una operación o contrato debe dar, o el hecho o actividad que debe ejecutar o permitir, en consideración de la renta que obtiene. En este análisis no es determinante la fórmula de cálculo del monto de lo que se debe pagar, las modalidades o la periodicidad del pago, sino que la razón por la cual se paga.
 
-Luego de un análisis de las  normas  e  instrucciones  atingentes  sobre  la
-materia consultada, concluye que  en  el  caso  de  que  los  socios  de  la
-sociedad agrícola lleven a efecto una disminución de capital, la  devolución
-de capital social que recibirán éstos, será considerada como un “ingreso  no
-renta” para ellos, hasta  el  monto  equivalente  al  “capital”  debidamente
-reajustado, incluyendo en este concepto el “Ajuste Capital a que se  refiere
-el artículo 3° de Ley N° 18.985’’. Todo lo anterior, siempre que a la  fecha
-de la devolución de capital, tal como indican las  instrucciones  impartidas
-por el Servicio a través de la Circular N°  49  del  año  2016,  no  existan
-cantidades que deban  ser  imputadas  previamente  al  Fondo  de  Utilidades
-Reinvertidas (FUR), Registro de Rentas Atribuidas Propias  (RAP),  Fondo  de
-Utilidades Financieras  (FUF),  Registro  de  Rentas  Exentas  de  Impuestos
-Finales o Ingresos No Renta (REX) o cantidades acumuladas  que  excedan  los
-registros FUR, RAP, FUF y REX susceptibles de  ser  retiradas,  remesadas  o
-distribuidas, distintas al capital aportado reajustado.
+5. Si la contraprestación por la cual una persona residente de Chile realiza pagos a una sociedad residente de Irlanda, efectivamente consiste en la difusión o diseminación por parte de la sociedad residente de Irlanda de ciertos avisos publicitarios respecto de usuarios de uno o varios sitios en internet, se está en presencia de una renta por servicios de publicidad. Las rentas por razón de estos servicios de publicidad constituyen beneficios provenientes de una actividad empresarial y, como tales, se encuentran dentro del ámbito del artículo 7 del Convenio, a menos que otro artículo las trate de manera específica. De acuerdo a lo dispuesto en el Artículo 7 del Convenio, la renta que obtiene la sociedad residente de Irlanda solo podrá ser sometida a imposición en Irlanda (tributación exclusiva en residencia), salvo que la sociedad residente en Irlanda cuente con un establecimiento permanente (&ldquo;EP&rdquo;) en Chile, en virtud de alguno de los supuestos establecidos en el artículo 5 del Convenio, caso en el cual la tributación será compartida entre Irlanda y Chile, sin un límite para la imposición en Chile.
 
-Para efectos de materializar la disminución de  capital  requiere  confirmar
-el tratamiento tributario de la ‘’devolución de capital’’ antes referido.
+6. La sociedad residente de Irlanda para prestar sus servicios requiere que sus clientes usen una plataforma informática o software en línea con la finalidad de registrarse, editar y subir su aviso publicitario, conjuntamente con cierta información esencial respecto de las condiciones, duración y objetivos de la campaña de publicidad, etc. Este requerimiento de uso de la plataforma o software no significa que la renta en cuestión sea una regalía conforme al Artículo 12 del Convenio, si:
 
+i) el uso de la plataforma no es la razón del pago en sí mismo, sino que constituye un simple medio para materializar y facilitar la prestación del servicio de publicidad por parte de la misma empresa que pone a disposición dicha plataforma o software y;
 
+ii) dicho uso básico no implica una cesión del uso de derechos de propiedad intelectual sobre dicha plataforma o software.
 
-II.-  ANÁLISIS.
+La sociedad residente de Irlanda solamente ha autorizado el uso de su plataforma o software para que sus clientes puedan entregar la información necesaria para que dicha sociedad realice el servicio de publicidad requerido, sin que la sociedad residente de Irlanda haya cedido el uso de derechos de propiedad intelectual sobre dicho software a favor de sus clientes.
 
-Conforme a lo dispuesto por el número 7,  del  artículo  3°  de  la  Ley  N°
-18.985 de 1990, la diferencia entre los activos y pasivos registrados en  la
-forma que  indican  los  números  anteriores  de  este  mismo  artículo,  se
-considera capital para todos los efectos  legales  o  pérdida  deducible  en
-conformidad con el artículo 31, número 3°, de la LIR, según corresponda.
+III. CONCLUSIÓN.
 
-Tal disposición, de acuerdo con lo que establece en su primer inciso,  tiene
-aplicación  respecto  de   los   contribuyentes   que   conforme   con   las
-modificaciones que la Ley N° 18.985 incorporó a la Ley sobre Impuestos a  la
-Renta, pasaron a declarar sus rentas desde un régimen de  renta  presunta  a
-un régimen de renta efectiva sobre  la  base  de  contabilidad,  los  cuales
-debieron registrar sus activos y pasivos en el  balance  inicial  que  deben
-confeccionar al 1° de enero del ejercicio en que quedaron sujetos  al  nuevo
-sistema, según las normas que en  dicho  artículo  se  detallan.  Es  decir,
-tiene aplicación respecto de los contribuyentes que  respecto  de  los  años
-comerciales 1991  al  año  2015,  transitaron  desde  el  régimen  de  renta
-presunta al régimen de renta efectiva según contabilidad completa.
+7. En las circunstancias analizadas, el uso de una plataforma o software para subir un aviso publicitario y fijar las condiciones de su publicación, es solamente un medio a disposición del servicio de publicidad pagado y no la razón del pago en sí mismo. El pago no representa una contraprestación por obtener algún derecho de propiedad intelectual sobre el software y no se ha realizado ninguna transferencia de dichos derechos. Por lo tanto, los pagos que son objeto de esta consulta, no constituyen una renta tratada en el artículo 12 del Convenio entre Irlanda y Chile.
 
-Por su parte, en el caso de los contribuyentes que a  partir  del  ejercicio
-comercial 2016 transiten desde el régimen de renta presunta  al  régimen  de
-renta efectiva según contabilidad completa, si bien la  diferencia  positiva
-que se determine entre los activos y pasivos registrados en la forma en  que
-establece dicha disposición, se sigue considerando capital  para  todos  los
-efectos legales, la diferencia negativa, en ningún caso podrá  deducirse  en
-conformidad con el artículo 31, número 3°,  de  la  LIR,  todo  lo  anterior
-conforme  con  las  disposiciones   aplicables   en   el   caso   de   estos
-contribuyentes, contenidas en la letra h) del número 1, del numeral IV,  del
-artículo tercero de las disposiciones transitorias de la Ley N° 20.780.
+8. En conclusión, los pagos que un contribuyente residente en Chile efectúa a una sociedad residente de Irlanda, con la finalidad de que dicha sociedad disemine o difunda ciertos avisos publicitarios respecto de los usuarios de determinados sitios de internet, con las características descritas precedentemente, constituyen &ldquo;beneficios empresariales&rdquo; regulados únicamente en el Artículo 7 de Convenio tributario entre Chile e Irlanda. En consecuencia, dichos pagos deben gravarse exclusivamente en Irlanda, salvo que la empresa de Irlanda configure en Chile alguno de los supuestos de EP contemplados en el artículo 5 del Convenio al cual se pueda atribuir la renta por el servicio de publicidad. En caso de que la empresa de Irlanda configure un EP en Chile en dichas condiciones, la tributación de las rentas atribuibles a dicho EP será compartida por Irlanda y Chile, sin un tope impositivo para Chile, quedando obligado Irlanda a eliminar la doble imposición según lo dispuesto en el artículo 21 del Convenio.
 
-Aclarado lo anterior  y  teniendo  en  consideración  lo  expresado  por  el
-Servicio  a  través  de  su  jurisprudencia[1],   cabe   señalar   que   los
-contribuyentes agricultores que en conformidad con las  normas  de  la  LIR,
-hayan pasado desde el régimen de renta presunta hacia el  régimen  de  renta
-efectiva acreditada mediante un balance general según contabilidad  completa
-–esto  es,  aquellos  que  debieron   hacerlo   en   conformidad   con   las
-modificaciones incorporadas a dicho texto legal tanto por la Ley  N°  18.985
-de 1990, como por la Ley  N°  20.780  de  2014,  complementada  por  la  Ley
-N°20.899 de 2016- que se encuentren ya en régimen,  vale  decir,  declarando
-su impuesto de Primera Categoría conforme a  la  renta  efectiva  acreditada
-mediante  un  balance  general  según   contabilidad   completa,   les   son
-aplicables, a  todos  ellos,  las  disposiciones  generales  del  Código  de
-Comercio,  del  Código  Tributario  y  de  la  LIR,  en  lo   que   resulten
-pertinentes.
+9. Se hace presente que estas conclusiones están basadas en los supuestos de hecho descritos de manera general en la consulta, por lo que se encuentran condicionadas a una eventual verificación, mediante el ejercicio de las facultades fiscalizadoras de este Servicio, de todos los hechos y circunstancias que pudiesen resultar relevantes en el caso concreto. Lo anterior es especialmente aplicable en el caso planteado respecto:
 
-En tal caso, vale decir, encontrándose ya  en  régimen,  los  contribuyentes
-que adquirieron  dicha  obligación  como  resultado  de  las  modificaciones
-incorporadas a la LIR por la Ley  N°  18.985,  deberán  aplicar  además,  lo
-dispuesto en el  Decreto  Supremo  N°  1.139  de  1990,  del  Ministerio  de
-Hacienda, que establece el Reglamento sobre Contabilidad Agrícola, tal  como
-textualmente indica este  texto  legal  y  respecto  del  cual  el  Servicio
-impartió sus instrucciones por medio de la Circular N°  22  de  1991.  A  la
-aplicación de las mismas disposiciones se  encuentran  también  sujetos  los
-contribuyentes agricultores que adquirieron la obligación  en  comento  como
-resultado de las modificaciones incorporadas a la LIR por la  Ley  N°20.780,
-complementada por la Ley N° 20.899,  tal  como  expresamente  indicaron  las
-instrucciones[2] impartidas sobre el particular por este Servicio.
+i) del cumplimiento de todos los requisitos de forma y sustancia, para ser titular de los beneficios del Convenio con Irlanda por parte de las personas que invocan tales beneficios, incluyendo lo señalado por este Servicio en el Oficio N° 191 del año 2010 respecto de la calificación de una renta como &ldquo;beneficios de una empresa&rdquo;;
 
+ii) de la eventual configuración de un &ldquo;establecimiento permanente&rdquo; en Chile por parte de la sociedad residente en Irlanda, particularmente respecto del supuesto contemplado en el Artículo 5(5) del Convenio con Irlanda (EP &ldquo;agente dependiente&rdquo;) y;
 
+iii) de todos los hechos o circunstancias de las partes involucradas o en que se han realizado las transacciones del caso, que puedan ser relevantes para la eventual aplicación de normas de determinación de &ldquo;precios de transferencia&rdquo; o de normas anti abuso especiales o generales.
 
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 123, de 18.01.2018
 
-Por su parte, el N° 7, del artículo 17 de la LIR, vigente en la  actualidad,
-aplicable por tanto a los contribuyentes agricultores que, como la  sociedad
-a la que se refiere su consulta, se encuentran ya declarando  sus  impuestos
-en base  a  la  renta  efectiva  determinada  según  contabilidad  completa,
-establece que: “7°.- Las devoluciones de capitales sociales y los  reajustes
-de éstos, efectuados en conformidad con esta ley  o  con  leyes  anteriores,
-siempre que no correspondan a utilidades capitalizadas que deban  pagar  los
-impuestos de esta ley. Las sumas retiradas,  remesadas  o  distribuidas  por
-estos conceptos se imputarán  y  afectarán  con  los  impuestos  de  primera
-categoría, global complementario  o  adicional,  según  corresponda,  en  la
-forma dispuesta en el artículo 14, imputándose en último término el  capital
-social y sus reajustes, sólo hasta concurrencia del monto  aportado  por  el
-propietario, socio o accionista perceptor de esta  devolución,  incrementado
-o disminuido por los  aportes,  aumentos  o  disminuciones  de  capital  que
-aquellos hayan efectuado, cantidades que se reajustarán según el  porcentaje
-de variación del Índice de Precios al Consumidor entre el mes  que  antecede
-a aquél en que ocurrieron y el mes anterior al de la devolución.
+Subdirección Normativa
 
-Cualquier retiro,  remesa,  distribución  o  devolución  de  cantidades  que
-excedan de los conceptos  señalados  precedentemente  se  gravarán  con  los
-impuestos de esta ley, conforme a las reglas generales.”
-
-En consecuencia, tanto la diferencia positiva entre activos y pasivos  a  la
-que se refiere el N° 7, del artículo 3° de la  Ley  N°  18.985,  disposición
-aplicable en el caso de su consulta, así como la que señala la letra h)  del
-número 1,  del  numeral  IV,  del  artículo  tercero  de  las  disposiciones
-transitorias  de  la  Ley  N°  20.780,  aplicable  en   el   caso   de   los
-contribuyentes que a partir del ejercicio comercial 2016 transiten desde  el
-régimen de renta presunta al de renta efectiva según contabilidad  completa,
-tal como indican ambas disposiciones,  debe  ser  considerada  capital  para
-todos los efectos legales.
-
-A su turno,  el  N°  29  del  artículo  17  de  la  LIR,  prescribe  que  no
-constituyen renta los ingresos que se reputen capital  según  texto  expreso
-de una ley.
-
-De lo  dicho  se  sigue  que,  para  los  fines  de  la  aplicación  de  las
-disposiciones contenidas en los N°s. 7 y 29 del artículo 17 de  la  LIR,  la
-diferencia  positiva  entre  activos  y  pasivos  en   comento,   debe   ser
-considerada capital social de la sociedad agrícola sobre la  cual  consulta,
-a partir del año de su incorporación al régimen de renta efectiva en base  a
-contabilidad completa. Ahora bien, para los efectos de la aplicación  de  lo
-establecido en esta disposición, cabe expresar que  la  referida  diferencia
-positiva entre activos y pasivos, se considerará  como  monto  aportado  por
-cada uno de los socios de  la  sociedad,  en  la  parte  que  resulte  o  se
-determine a través de la aplicación sobre dicha diferencia,  del  porcentaje
-que le corresponda a cada socio en el capital social al 1° de enero del  año
-en que se incorporan al régimen de renta efectiva.
-
-III.- CONCLUSIÓN.
-
-La diferencia positiva entre activos y pasivos a la que se refiere el N°  7,
-del artículo  3°  de  la  Ley  N°  18.985,  aplicable  en  el  caso  de  los
-contribuyentes que  a  partir  del  ejercicio  comercial  1991  y  hasta  el
-ejercicio comercial 2015 transitaron desde el régimen de  renta  al  régimen
-de renta efectiva determinada según contabilidad completa, así como  la  que
-señala la letra h) del número 1, del numeral IV,  del  artículo  tercero  de
-las disposiciones transitorias de la Ley N° 20.780, aplicable en el caso  de
-los contribuyentes que a  partir  del  ejercicio  comercial  2016  transiten
-desde el régimen de renta presunta al de renta efectiva  según  contabilidad
-completa, tal como indican ambas disposiciones, se  considera  capital  para
-todos los efectos legales.
-
-En consecuencia, para los  fines  de  la  aplicación  de  las  disposiciones
-contenidas en los N°s. 7 y 29 del artículo  17  de  la  LIR,  la  diferencia
-positiva entre activos y pasivos en comento, debe  ser  considerada  capital
-social de tales contribuyentes a partir  del  año  de  su  incorporación  al
-régimen de renta efectiva en base a contabilidad completa.
-
-
-
-
-
-
-
-Para los efectos de la aplicación de lo establecido  en  dicha  disposición,
-la referida diferencia positiva entre  activos  y  pasivos,  se  considerará
-como monto aportado por cada uno de los socios de la sociedad, en  la  parte
-que  resulte  o  se  determine  a  través  de  la  aplicación  sobre   dicha
-diferencia, del porcentaje que le corresponda a cada  socio  en  el  capital
-social al 1° de enero del año en que  se  incorporan  al  régimen  de  renta
-efectiva.
-
-La devolución de tales  sumas  a  sus  respectivos  socios,  se  considerará
-ingreso no renta, en la medida en  que  se  cumpla  con  las  condiciones  y
-requisitos que detallan las instrucciones impartidas por el  Servicio  sobre
-este particular, a través de la Circular N° 49 de 2016.
-
-
-
-
-
-
-
-
-
-
-                                       FERNANDO BARRAZA LUENGO
-
-       DIRECTOR
-
-
-
-
-
-
-                        Oficio N° 077, de 12.01.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Oficio N° 1.792, de 10.08.2017.
-
-[2] Circular N° 37, de 2015, página N° 33.
+Dpto. de Normas Internacionales

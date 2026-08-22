@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2018
-- Fecha: 2018-01-09
+- Fecha: 2018-01-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu1.pdf
 - Hash SHA-256: 5e2c6b94dc109cb41dafcfd24527dd02e360eeffe68cfa79d5f5df8f6c8d8c6a
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: OFICINA DE GESTIÓN NORMATIVA Circular N° 2 del 09 de Enero del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de los saldos de utilidades tributables y saldos negativos de utilidades no tributables, retiros en excesos y tabla de Impuesto…
+oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de los saldos de utilidades tributables y saldos negativos de utilidades no tributables, retiros en excesos y tabla de Impuesto Global Complementario correspondiente al Año Tributario 2018. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indci
 
 ## Referencias detectadas
 

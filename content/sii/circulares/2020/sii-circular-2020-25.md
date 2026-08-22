@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 25
 - Año: 2020
-- Fecha: 2020-04-09
+- Fecha: 2020-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu25.pdf
 - Hash SHA-256: a5d76c7d0718cff7fdae6cc29d382010bd2beb78a325bb61328de31f3efb721d
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa. Circular N° 26 del 09 de Abril del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2020 y el 9 de mayo de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Postergación del pago del Impuesto al Valor Agregado, e imparte instrucciones relativas a modificación efectuada por el artículo tercero, N° 29, de la Ley N° 21.210, al artículo 64 del Decreto Ley N° 825, de 197…
+acute;n Normativa. Postergación del pago del Impuesto al Valor Agregado, e imparte instrucciones relativas a modificación efectuada por el artículo tercero, N° 29, de la Ley N° 21.210, al artículo 64 del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Deroga instrucciones contenidas en Circular N° 61 de 2014. Fuente: Departamento de Impuestos Indirectos.
 
 ## Referencias detectadas
 

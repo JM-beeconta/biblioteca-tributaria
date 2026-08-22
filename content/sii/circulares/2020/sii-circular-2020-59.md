@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 59
 - Año: 2020
-- Fecha: 2020-09-11
+- Fecha: 2020-09-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu59.pdf
 - Hash SHA-256: 9909fd7630beaf9787bd82dfc7e9d7a6070d71e2a7836437d9889218a98ec057
 
 ## Resumen
 
-tom:0px;'> Circular N° 60 del 11 de Septiembre del 2020 Instruye sobre modificaciones introducidas por la Ley N° 21.210, en los regímenes tributarios establecidos en el Decreto Ley N° 3.529 de 1980, Decreto con Fuerza de ley N° 341 de 1977, del Ministerio de Hacienda, y en las leyes N°s 18.392, 19.149, 19.420, 19.709, 19.606 y 19.853. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas octubre 2020. Fuente: Subdirección de Fiscalización. Circular N° 58 del 10 de Septiembre del 2020 O…
+acute;n Normativa. Tabla de cálculos de reajustes, intereses y multas octubre 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

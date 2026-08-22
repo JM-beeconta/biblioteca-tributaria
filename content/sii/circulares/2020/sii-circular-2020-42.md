@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2020
-- Fecha: 2020-06-24
+- Fecha: 2020-06-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu42.pdf
 - Hash SHA-256: 01cfbc7286513ec204ff8c5d34746b19ef1e54bdff3d4f51c702100b47228506
 
 ## Resumen
 
-Circular N° 43 del 24 de Junio del 2020 Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en el artículo vigésimo quinto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Impuestos Directos. Imparte instrucciones sobre la tributación y régimen de administración del Impuesto al Valor Agregado a servicios realizados por prestadores domiciliados o residentes en el extranjero. Fuente: Impuestos Indirectos. Circular N…
+mpuestos Directos. Imparte instrucciones sobre la tributación y régimen de administración del Impuesto al Valor Agregado a servicios realizados por prestadores domiciliados o residentes en el extranjero. Fuente: Impuestos Indirectos.
 
 ## Referencias detectadas
 

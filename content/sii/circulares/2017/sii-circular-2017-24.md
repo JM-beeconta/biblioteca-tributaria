@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2017
-- Fecha: 2017-04-18
+- Fecha: 2017-04-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu24.pdf
 - Hash SHA-256: ea82d5ffffb46443917e3d7c026db9a22df96faf58c4de895cddc8586c260973
 
 ## Resumen
 
-ormación adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 25 del 18 de Abril del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas mayo 2017. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2017 y el 9 de mayo del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 23 del 10 de Abril del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2017, e información a…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2017 y el 9 de mayo del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

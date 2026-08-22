@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2018
-- Fecha: 2018-10-24
+- Fecha: 2018-10-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu50.pdf
 - Hash SHA-256: 0bb83537f97e839965cd1759efa493fb1e18464fe0add3d6bb60b84d9c02523f
 
 ## Resumen
 
-lde;o 2018 y el 9 de diciembre del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 51 del 24 de Octubre del 2018 Tabla de cálculos de reajustes, intereses y multas noviembre 2018 Fuente: Subdirección de Fiscalización Aplicación de la Cláusula de la Nación más Favorecida a los convenios que indica Fuente: Subdirección Normativa Circular N° 49 del 11 de Octubre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2018, e información adicional relacionada con dicho tribut…
+scalización Aplicación de la Cláusula de la Nación más Favorecida a los convenios que indica Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2019
-- Fecha: 2019-02-20
+- Fecha: 2019-02-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu9.pdf
 - Hash SHA-256: 8633d6e6c2dacf4843b461cc9768bd38a7c5516ed5f3130e73adca8405d597d0
 
 ## Resumen
 
-. Fuente: Oficina de Gestión Normativa Circular N° 10 del 20 de Febrero del 2019 Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2019. Aclara aplicación de información contenida en Circular N° 5 de 2019. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas marzo 2019. Fuente: Subdirección de Fiscalización Circular N° 8 del 13 de Febrero del 2019 Modifica Circular N° 7, del 11 de febrero de 2019, en la parte que indica.…
+Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas marzo 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

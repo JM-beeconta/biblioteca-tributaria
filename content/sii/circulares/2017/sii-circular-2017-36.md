@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2017
-- Fecha: 2017-07-10
+- Fecha: 2017-06-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu36.pdf
 - Hash SHA-256: 61b37d89cc4b94816f8a14d9437dc45ed19db0c79c1b65700448c2047402cdd5
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 37 del 10 de Julio del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de cálculos de intereses y multas, Julio 2017 Fuente: Subdirección de Fiscalización Circular N° 35 del 23 de Junio del 2017 Complementa Circular N° 4, de 11.01.2017 que establece requisitos para efectos de hacer uso del…
+oacute;n Normativa Tabla de cálculos de intereses y multas, Julio 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

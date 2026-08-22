@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 61
 - Año: 2020
-- Fecha: 2020-09-24
+- Fecha: 2020-09-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu61.pdf
 - Hash SHA-256: 9250786348ca6fd77a9ce5aa6786930ef9a05f436e1e224b1318894ded0683b6
 
 ## Resumen
 
-;'> Circular N° 62 del 24 de Septiembre del 2020 Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2020. Reemplaza la Circular N°43 de 2016. Fuente: Subdirección Normativa. Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974. Fuente: Subdirección Normativa. Cir…
+acute;n Normativa. Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

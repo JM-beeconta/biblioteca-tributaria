@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;culos motorizados para los fines que indica. Fuente: Subdirección de Avaluaciones. Circular N° 65 del 13 de Octubre del 2020 Tabla de cálculos de reajustes, intereses y multas noviembre 2020. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 63 del 13 de Octubre del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los día…
+calización. Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

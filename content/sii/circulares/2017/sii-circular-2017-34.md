@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2017
-- Fecha: 2017-06-23
+- Fecha: 2017-06-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu34.pdf
 - Hash SHA-256: e61878ec32a84407f2088e15b3ca4f197fa966d22cafe4b4a0e7b8a7493fc60b
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 35 del 23 de Junio del 2017 Complementa Circular N° 4, de 11.01.2017 que establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica. Fuente: Asistencia al Contribuyente Norma aplicación de rebajas de avalúo para propiedades destruidas o gravemente dañadas, ubicadas en zona declarada de catástrofe. Fuente: Departamento de Catastro y Tasaciones Circular N° 33 del 14 de Junio del 2017…
+a al Contribuyente Norma aplicación de rebajas de avalúo para propiedades destruidas o gravemente dañadas, ubicadas en zona declarada de catástrofe. Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

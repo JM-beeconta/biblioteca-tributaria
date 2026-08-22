@@ -6,79 +6,96 @@
 - Año: 2017
 - Fecha: 2017-01-23
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja116.htm
-- Hash SHA-256: adaa941195659cd966c9926dbd9e97d7e726e10366fc29e80d13755629c40c20
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja153.htm
+- Hash SHA-256: b70353681c53d7384b9b48decf03f30659e71f8672a2f7cf9b4657204cd03147
 
 ## Resumen
 
-sobre Impuesto a la &ndash; Art. 64 bis &ndash;Ley N° 20.026, Art. 6 transitorio &ndash; . (Ord. Nº 153, de 23-01-2017) | Word Tributación con impuesto específico a la renta imponible operacional de la actividad minera del explotador minero que desarrolla diversos proyectos, algunos de los cuales están acogidos a regímenes de invariabilidad. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 40, N°4 (Ord. Nº 116, de 18-01-2017) | Word Exención del Impuesto de Primera Categoría de la Ley de la Renta - Supues…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 64 bis &ndash;Ley N° 20.026, Art. 6 transitorio &ndash; . (Ord. Nº 153, de 23-01-2017) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":61,"year":1976}
-- {"type":"oficio","number":1408,"year":2013}
-- {"type":"oficio","number":316,"year":2014}
-- {"type":"oficio","number":2142,"year":2016}
-- {"type":"articulo","law":"LIR","article":"40 N"}
+- {"type":"circular","number":74,"year":2010}
+- {"type":"circular","number":78,"year":2010}
+- {"type":"oficio","number":1722,"year":2009}
+- {"type":"articulo","law":"LIR","article":"64 bis"}
+- {"type":"articulo","law":"LIR","article":"64 ter"}
+- {"type":"articulo","law":"LIR","article":"31"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 40, N°4 (Ord. Nº 116, de 18-01-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 64 BIS –LEY N° 20.026, ART. 6 TRANSITORIO – OFICIO N° 1722, DE 2009. (Ord. Nº 153, de 23-01-2017)
 
-EXENCIÓN DEL IMPUESTO DE PRIMERA CATEGORÍA DE LA LEY DE LA RENTA - SUPUESTOS FÁCTICOS PARA MANTENER LA FRANQUICIA TRIBUTARIA.
+TRIBUTACIÓN CON IMPUESTO ESPECÍFICO A LA RENTA IMPONIBLE OPERACIONAL DE LA ACTIVIDAD MINERA DEL EXPLOTADOR MINERO QUE DESARROLLA DIVERSOS PROYECTOS, ALGUNOS DE LOS CUALES ESTÁN ACOGIDOS A REGÍMENES DE INVARIABILIDAD.
 
-Se ha solicitado a esta Dirección Nacional oficiar al Ministerio de Hacienda para que informe sobre el decreto que eximió de Impuesto de Primera Categoría a XXXXX.
+Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, mediante la cual solicita se confirme que el contribuyente del impuesto específico a la renta imponible operacional de la actividad minera es el explotador minero, razón por la cual no estará afecto a este impuesto en el caso que determine un resultado de pérdida, considerando la totalidad de los proyectos que explote, aunque algunos de ellos estén acogidos a un régimen de invariabilidad.
 
-I ANTECEDENTES
+I.- ANTECEDENTES.
 
-Mediante el ordinario del antecedente se informa que, con ocasión del proceso de fiscalización de la exención de pago de Impuesto de Primera Categoría que beneficia a XXXXX, otorgada mediante Decreto Supremo N° xxxx, de Hacienda, y en virtud de las instrucciones que habría impartido esta Subdirección y la Subdirección Jurídica, se haría necesario verificar si a la fecha se mantienen los presupuestos fácticos que motivaron dicha exención.
+Mediante su presentación, señala que una empresa minera (la Minera) que tiene la calidad de explotador minero, desarrolla diversos proyectos, algunos de los cuales se encuentran sujetos a regímenes de invariabilidad del impuesto específico a la renta operacional minera (IEM), tanto al amparo del D.L. 600 de 1974, como al amparo del artículo 5° transitorio de la Ley N°20.026.
 
-Lo anterior, sumado a que la norma vigente el año 1968 (artículo 34 N° 4 de la Ley N° 15.564) es diversa del actual artículo 40 N° 4 de la Ley sobre Impuesto a la Renta, teniendo éste mayores requisitos objetivos para su otorgamiento.
+Agrega que debido a los diversos regímenes transitorios regulados con ocasión de las modificaciones introducidas en materia del IEM, los proyectos que gozan de invariabilidad del mencionado tributo se encuentran también sujetos a diversas normas para los efectos de la determinación de éste.
 
-Agrega que, con la finalidad de verificar si se mantienen las circunstancias que justificaron la exención, resultaría necesario conocer cuales habrían sido los antecedentes fundantes y que se tuvieron en consideración para otorgarla mediante el decreto antes referido.
+Indica que en su oportunidad la Minera se acogió al régimen regulado por los artículos 1 y 2 transitorios de la Ley N°20.469, conforme al cual, a la fecha, los distintos proyectos que gozan de invariabilidad, se sujetan al régimen pactado en los contratos originales de inversión, siendo por tanto aplicables las instrucciones contenidas en el punto III.2 punto (1.4) letra b. de la Circular N°74 de 2010, en conjunto con las modificaciones de la Circular N°78 de 2010.
 
-Por consiguiente, solicita oficiar al Sr. Ministro de Hacienda para que informe en los términos antes señalados.
+En atención a los argumentos y antecedentes que expone[1], solicita confirmar que el contribuyente del IEM es el explotador minero, por lo que si éste determina un resultado de pérdida considerando la totalidad de los proyectos que explota, no queda afecto al impuesto. Lo anterior aún en el caso que explote diversos proyectos entre los cuales se encuentren algunos sujetos a algún régimen de invariabilidad, ya sea al amparo del DL600 o del artículo 5° transitorio de la Ley N°20.026, debido a que la determinación de la Renta Imponible Operacional Minera (RIOM) atribuible a cada proyecto sólo tiene por objeto respetar la invariabilidad y aplicar a su respecto la tasa que corresponda, sin que pueda entenderse que cada proyecto configura un contribuyente separado.
 
-II ANÁLISIS
+II.- ANÁLISIS.
 
-Como fuera expuesto por esta Dirección Nacional en el Oficio N° 1408 de 2013, dirigido al Ministro de Hacienda, así como en el Oficio N° 316 de 2014, dirigido a esa Dirección Regional, y cuyas copias se acompañan, la Circular N° 61 de 1976 precisó que las exenciones al impuesto de Primera Categoría otorgadas a las instituciones de beneficencia con anterioridad a la entrada en vigencia de la nueva Ley sobre Impuesto a la Renta, esto es, con fecha 01.01.1975, se encuentran vigentes, en la medida que no se haya dictado una norma derogatoria que expresa o tácitamente las hubiere afectado.
+El artículo 64 bis de la Ley sobre Impuesto a la Renta (LIR), establece un impuesto específico a la renta operacional de la actividad minera obtenida por un explotador minero. En el caso que las ventas anuales determinadas conforme al mismo artículo sean iguales o inferiores al valor equivalente a 12.000 toneladas métricas de cobre fino (tmcf), los explotadores mineros no estarán afectos al impuesto. De lo anterior se concluye que el contribuyente del impuesto es el explotador minero.
 
-Lo anterior es válido, sin perjuicio que la exención en comento pueda seguir aplicándose &ldquo;sólo si la institución favorecida mantiene actualmente las condiciones tenidas en vista al otorgarse la franquicia .&rdquo; Al respecto, este Servicio ha señalado que el elemento fundamental para apreciar la vigencia material de la exención es que la beneficiaria de la franquicia mantenga efectivamente el carácter de institución de beneficencia, entendida ésta como la prestación de ayuda gratuita a los necesitados .
+El mismo artículo define al explotador minero como toda persona natural o jurídica que extraiga sustancias mineras de carácter concesible y las venda en cualquier estado productivo en que se encuentren.
 
-Conforme lo anterior, y puesto que las &ldquo;condiciones&rdquo; tenidas en vista para otorgar la exención en su oportunidad y el elemento fundamental&rdquo; para apreciar la vigencia material de la misma no dicen relación con los antecedentes fundantes del decreto &ndash; esto es, no dicen relación con los antecedentes previos a dictarse &ndash; sino sencillamente con el cumplimiento objetivo (actual y efectivo) de las condiciones legales para mantener la exención, resulta inoficioso efectuar esa consulta al Ministerio de Hacienda.
+Por su parte, el artículo en comento señala que el IEM se aplica sobre la RIOM de la actividad minera de un explotador minero. En consecuencia, para que se genere el hecho gravado, debe existir un explotador minero que extraiga minerales concesibles y los venda en cualquier estado y cuyas ventas excedan del equivalente a 12.000 (tmcf) y hayan generado una RIOM.
 
-En otras palabras, las &ldquo;condiciones&rdquo; y el &ldquo;elemento fundamental&rdquo; que se deben apreciar no tienen que ver con una investigación sobre los antecedentes que tuvo en vista el Ministerio de Hacienda para dictar el decreto en cuestión, sino con apreciar la mantención de las &ldquo;condiciones&rdquo; y el &ldquo;elemento fundamental&rdquo; que se imponen para mantenerla (hoy).
+La RIOM, según el inciso primero del artículo 64 bis de la LIR, corresponde a aquélla obtenida de la actividad minera del explotador minero. En el N°5 del inciso segundo de este artículo, es definida como la renta líquida imponible del contribuyente con los ajustes contemplados en el artículo 64 ter de la LIR. A su vez, el artículo 64 ter dispone que se entiende por renta imponible operacional minera, la que resulte de efectuar los ajustes que indica a la renta líquida imponible determinada en los artículos 29 a 33 de la LIR.
 
-A mayor abundamiento, el mismo Oficio N° 316 de 2014 informa a esa Dirección Regional que, de acuerdo a los antecedentes legales recabados a esa fecha, el contribuyente no cumplía la condición o elemento fundamental anteriormente referido, de suerte que no procedía aplicarle la exención de Impuesto de Primera Categoría debido a que, de acuerdo a sus estatutos vigentes (a la época del Oficio), dicha institución no tenía el fin de beneficencia que justificó originalmente el otorgamiento de la franquicia tributaria.
+En consecuencia, la renta imponible operacional minera se calcula de acuerdo con lo dispuesto en los artículos 29 al 33 de la LIR, ajustándola según lo señalado en el artículo 64 ter de la misma norma. [2].
 
-Lo anterior es sin perjuicio que, como fuera instruido a esa Dirección Regional en el citado Oficio N° 316 de 2014, corresponde &ldquo;precisamente a la Dirección Regional consultante determinar, en la instancia de fiscalización procedente, si en la actualidad la corporación en cuestión desarrolla una labor de beneficencia propiamente tal, que le permita seguir liberada del impuesto señalado.&rdquo;
+Por lo tanto, al señalar la norma que el impuesto se aplica a la RIOM de la actividad minera del explotador minero, sin distinguir si el contribuyente desarrolla un proyecto o varios, y debiendo aplicar los artículos 29 al 33 de la LIR para calcularse, cabe concluir que la RIOM comprende todos los ingresos que provengan directamente de la venta de productos mineros, sea que correspondan a uno o más proyectos.
 
-Finalmente, si del análisis de los antecedentes esa Dirección Regional determina que se incumplen los requisitos para mantener la exención en comento, se debe tener presente lo resuelto por este Servicio recientemente en el Oficio N° 2142 de 2016, en el cual, por las razones allí expuestas, se concluye que:
+De esta manera, de acuerdo con lo expresado por la ley, no existe una norma que permita concluir que cada proyecto que desarrolle un explotador minero deba considerarse en forma separada para efectos de determinar la RIOM de un contribuyente del IEM.
 
-a) A este Servicio sólo le corresponde &ldquo;verificar&rdquo;, en la práctica, el cumplimiento de los requisitos necesarios para mantener la franquicia establecida en el artículo 40 N° 4 de la Ley sobre Impuesto a la Renta; lo cual se aplica también al presente caso.
+No obsta a lo anterior que el artículo 6° transitorio de la Ley N°20.026 disponga que las empresas acogidas a los artículos 3°, 4° o 5° transitorios de esta ley (que establecen regímenes de invariabilidad), que hayan iniciado la explotación de proyectos mineros amparados en contratos de inversión extranjera suscritos de conformidad con lo dispuesto en el D.L. N°600 de 1974, a contar del 1 de diciembre de 2004, o bien inicien la explotación de proyectos a contar de dicha fecha, deben llevar contabilidad separada por cada proyecto en la forma que al efecto determine este Servicio. Esta norma tiene por finalidad que la invariabilidad solo se aplique a los proyectos que específicamente se han acogido a ella, aplicando la tasa vigente a los resultados de los demás proyectos que pueda tener un explotador minero. Por esta razón, la norma sólo exige que los contribuyentes que se han acogido a invariabilidad lleven contabilidad separada y no lo exige a aquellos que desarrollen más de un proyecto sin acogerse a la invariabilidad. En efecto, si la intención del legislador hubiera sido que la RIOM se determinara por cada proyecto, aplicando el IEM a los proyectos que tienen utilidades y no a aquéllos que tienen pérdidas, habría tenido que establecer que todos los explotadores mineros que desarrollaran más de un proyecto, independientemente de si alguno de ellos está acogido a invariabilidad, llevaran contabilidad separada por cada uno de ellos.
 
-b) Los requisitos pueden incumplirse si la institución modifica sus estatutos como si, en los hechos, realiza actividades inconsistentes o incompatibles con esos requisitos. En el presente caso, uno de los elementos a determinar es si acaso la institución cumple el elemento fundamental para mantener la franquicia, cual es tener el carácter de institución de beneficencia, entendida ésta como la prestación de ayuda gratuita a los necesitados y lo que este requisito implica.
+En el mismo sentido, el Oficio N°1722 de 2009, señaló que para efectos de determinar la tasa del IEM, en el caso que un explotador minero tenga proyectos acogidos a invariabilidad y otros que no lo están, debe considerarse el monto total de las ventas del contribuyente. Una vez establecido el monto de ventas totales efectuadas, se aplica a los resultados de cada proyecto, la tasa que corresponda de acuerdo con este monto. Por lo tanto, la contabilidad separada es una herramienta necesaria para determinar la tasa que corresponde a los resultados de cada proyecto.
 
-c) Verificado el incumplimiento de los requisitos, cuestión que debe acreditarse tras un procedimiento de fiscalización, corresponde a este Servicio informar a la autoridad administrativa correspondiente a fin que revoque el decreto que concedió la franquicia tributaria.
+III.- CONCLUSIÓN.
 
-d) Una vez revocado el decreto respectivo, y en caso de realizar actividades gravadas o poseer bienes afectos, el contribuyente comenzará a tributar de acuerdo a las reglas generales, hacia el futuro, sin que corresponda el cobro de impuestos por los periodos anteriores a la dictación del acto revocatorio del decreto.
+Se confirma que el contribuyente del IEM es el explotador minero, de tal manera que si determina un resultado de pérdida respecto de la totalidad de los proyectos que explota, no queda afecto a este impuesto. Lo anterior, no obstante que algunos de sus proyectos estén acogidos a uno o más de los regímenes de invariabilidad señalados por la ley.
 
-III CONCLUSIÓN
-
-Conforme lo expuesto precedentemente y resultando inoficioso consultar al Ministerio de Hacienda sobre los antecedentes fundantes de una exención otorgada en 1968, se reitera lo informado por esta Dirección Nacional en el Oficio N° 1408 de 2013, así como lo instruido a esa Dirección Regional mediante Oficio N° 316 de 2014.
-
-En particular, se instruye a esa Dirección Regional para que verifique derechamente si continúa siendo efectivo lo informado por esta Dirección Nacional en los Oficios citados; esto es, que de acuerdo a sus estatutos actuales XXXXX no tiene el fin de beneficencia que justificó originalmente el otorgamiento de la franquicia.
-
-Si, tras dicha verificación, esa Dirección Regional determina que el contribuyente carece del fin de beneficencia, se deberá informar a esta Dirección Nacional con el objeto de trasladar los antecedentes a la autoridad administrativa correspondiente para que revoque el decreto que concedió la franquicia tributaria.
-
-Finalmente, atendido el tiempo transcurrido, se instruye a esa Dirección Regional para que cumpla a la brevedad lo indicado precedentemente.
+La RIOM atribuible a cada proyecto se determina con el objeto de aplicar los beneficios de la invariabilidad sólo a aquellos que estén acogidos a ésta.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 116, de 18.01.2017
+Oficio N° 153, de 23.01.2017
 
 Subdirección Normativa
 
-Dpto. de Técnica Tributaria
+Dpto. de Impuestos Directos
+
+[1] Al efecto cita los Oficios N° 1.722, de 2009, y N° 1.041, de 2011, de este Servicio.
+
+[2] Los ajustes establecidos por el artículo 64 ter son los siguientes:
+
+1. Deducir todos aquellos ingresos que no provengan directamente de la venta de productos mineros.
+
+2. Agregar los gastos y costos necesarios para producir los ingresos a que se refiere el número 1 precedente. Deberán, asimismo, agregarse los gastos de imputación común del explotador minero que no sean asignables exclusivamente a un determinado tipo de ingresos, en la misma proporción que representen los ingresos a que se refiere el numeral precedente respecto del total de los ingresos brutos del explotador minero.
+
+3. Agregar, en caso que se hayan deducido, las siguientes partidas contenidas en el artículo 31 de la LIR:
+
+a) Los intereses referidos en el número 1°, de dicho artículo;
+
+b) Las pérdidas de ejercicios anteriores a que hace referencia el número 3° del referido artículo;
+
+c) El cargo por depreciación acelerada;
+
+d) La diferencia, de existir, que se produzca entre la deducción de gastos de organización y puesta en marcha, a que se refiere el número 9° del artículo 31, amortizados en un plazo inferior a seis años y la proporción que hubiese correspondido deducir por la amortización de dichos gastos en partes iguales, en el plazo de seis años. La diferencia que resulte de aplicar lo dispuesto en esta letra, se amortizará en el tiempo que reste para completar, en cada caso, los seis ejercicios, y
+
+e) La contraprestación que se pague en virtud de un contrato de avío, compraventa de minerales, arrendamiento o usufructo de una pertenencia minera, o cualquier otro que tenga su origen en la entrega de la explotación de un yacimiento minero a un tercero. También deberá agregarse aquella parte del precio de la compraventa de una pertenencia minera que haya sido pactado como un porcentaje de las ventas de productos mineros o de las utilidades del comprador.
+
+4. Deducir la cuota anual de depreciación por los bienes físicos del activo inmovilizado que hubiere correspondido de no aplicarse el régimen de depreciación acelerada.
+
+5. En conformidad a lo establecido en los artículos 64 del Código Tributario y 41 E de la LIR, en caso de existir ventas de productos mineros del explotador minero a personas relacionadas residentes o domiciliadas en Chile, para los efectos de determinar el régimen tributario, la tasa, exención y la base del impuesto a que se refiere este artículo, el Servicio de Impuestos Internos, en uso de sus facultades, podrá impugnar los precios utilizados en dichas ventas. En este caso, el Servicio de Impuestos Internos deberá fundamentar su decisión considerando los precios de referencia de productos mineros que determine la Comisión Chilena del Cobre de acuerdo a sus facultades legales.

@@ -6,204 +6,81 @@
 - Año: 2018
 - Fecha: 2018-05-24
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1022.doc
-- Hash SHA-256: 586a3e7aa19a53ac84a9af5ea55a0e8d553c60b177b31a14eebf134fe650aa7b
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1031.htm
+- Hash SHA-256: 87ff8456eaa5a239aee2d8a8a444bebe1f442fd38e89d76fc9c33a59e33d7715
 
 ## Resumen
 
-m:3px;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Art. 17 &ndash; . (Ord. Nº 1031, de 24-05-2018) | Word Resuelve reconsideración a Oficio Ord. N° 1708, de 28.07.2017, sobre Tributación de Cooperativas. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°21 &ndash; D.L. 1.939 de 1977, Art. 42. (Ord. Nº 1022, de 23-05-2018) | Word Galardones recibidos por denunciantes de derechos hereditarios a favor del Fisco conforme al Decreto Ley N° 1.939, de 1977 &ndash; Cambia el criterio cont…
+Ley N°16.840. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Art. 17 &ndash; . (Ord. Nº 1031, de 24-05-2018) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"17"}
-- {"type":"articulo","law":"LIR","article":"17\nn"}
-- {"type":"articulo","law":"LIR","article":"2"}
+- {"type":"oficio","number":1708,"year":2017}
+- {"type":"articulo","law":"LIR","article":"1"}
+- {"type":"articulo","law":"LIR","article":"14 B"}
+- {"type":"articulo","law":"LIR","article":"34"}
+- {"type":"articulo","law":"LIR","article":"14"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°21 –   D.L. 1.939 DE
-                1977, ART. 42. (ORD. N° 1022, DE 23.05.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, ART. 17 – OFICIO N° 1708, DE 2017. (Ord. Nº 1031, de 24-05-2018)
 
-Galardones recibidos por denunciantes de derechos hereditarios a  favor  del
-Fisco conforme al Decreto Ley  N°  1.939,  de  1977  –  Cambia  el  criterio
-contenido en Oficio Ordinario N°4.710, de 23.07.1980, del SII.
+RESUELVE RECONSIDERACIÓN A OFICIO ORD. N° 1708, DE 28.07.2017, SOBRE TRIBUTACIÓN DE COOPERATIVAS.
 
-
-
-La Contraloría General de la  República  ha  remitido  la  solicitud  de  un
-contribuyente  quien  consulta  sobre  la  tributación  que  afecta  a   los
-galardones recibidos al denunciar herencias vacantes a favor del Fisco.
+Se ha recibido en esta Dirección Nacional, consulta de una Confederación que agrupa a Micro, Medianas y Pequeñas Empresas, mediante la cual solicita una reconsideración de un pronunciamiento referido al sistema de determinación de Impuesto a la Renta que rige a las Cooperativas.
 
 I.- ANTECEDENTES.
 
-Manifiesta ese Organismo que recibió una presentación del Sr.  XXXXX,  quien
-reclamó por el actuar de este Servicio, por cuanto se le habría informado  a
-través de un correo electrónico que debía incluir en  su  Declaración  Anual
-de Impuesto  a  la  Renta,  los  galardones  que  le  fueron  otorgados  por
-denunciar herencias vacantes al Fisco, por lo que  solicita  se  instruya  a
-este Servicio excluir de la base imponible del aludido gravamen.
+Manifiesta la relevancia del tema analizado en un pronunciamiento de este Servicio contra el cual recurre, con alcances para las cooperativas y para la Confederación Nacional de la Micro, Pequeña y Mediana Empresa de Chile (CONAPYME), indicando que el Gobierno ha efectuado enormes esfuerzos por promover y potenciar el cooperativismo en Chile como instrumento de ayuda mutua y mejora de las condiciones de vida de los empresarios PYME.
 
-Seguidamente, ese Organismo reitera  que  corresponde  a  este  Servicio  la
-competencia privativa para interpretar,  aplicar  y  fiscalizar  las  normas
-tributarias, cuyo control no  esté  encomendado  por  Ley  a  una  autoridad
-diferente, remitiendo copia de la presentación con el fin  de  responder  al
-ocurrente de conformidad con lo señalado en el inciso segundo  del  artículo
-14 de la Ley N° 19.880.
+Indica que la Ley General de Cooperativas, en su artículo 53, establece que &ldquo;para todos los efectos legales se estimará que las instituciones regidas por la presente ley no tienen utilidades&rdquo;, salvo para efectos laborales y el artículo 51 de la misma Ley, establece que el aumento del valor nominal de las cuotas de capital y cuotas de ahorro. y la devolución de excedentes originados en operaciones con los socios, estarán exentos de todo impuesto.
 
-En su presentación, el contribuyente señala, que desde hace más de  30  años
-ha formulado denuncias  de  herencias  vacantes  a  las  Seremis  de  Bienes
-Nacionales de Santiago y Valparaíso, por bienes de causantes que  no  tienen
-otro heredero que el Fisco de Chile, las  que  ha  ido  descubriendo  en  el
-ejercicio de su profesión de abogado.
+Por su parte, La Ley sobre Impuesto a la Renta en Chile (LIR), contenida en el Artículo 1° del D.L. N° 824 de 1974, no dispone que, a las Cooperativas, por regla general, se les apliquen sus disposiciones, puesto que éstas tienen asignado un régimen propio contemplado en el artículo 17 del D.L. N°824, el que solo excepcionalmente se remite a ciertas disposiciones del artículo 1° de la LIR.
 
-Agrega que, tal como consta  en  numerosos  dictámenes  de  Contraloría,  la
-Seremi  de  la  Región  Metropolitana  se  encuentra  muy  atrasada  en   la
-tramitación de las denuncias de herencias vacantes, motivo por lo  cual  los
-galardones de los últimos 6 años han sido muy escuálidos.
+De este modo, históricamente, este Servicio ha reconocido este régimen tributario de las Cooperativas. Ello ocurre con el Oficio Ordinario N° 4.230 del 08.09.2004, de este Servicio, el cual consigna perentoriamente que en la especie no resultan aplicables las normas generales de la LIR, y por ende no corresponde aplicar el procedimiento sugerido&rdquo;, refiriéndose a la posibilidad de determinar la diferencia de impuestos a operaciones de las Cooperativas con no socios.
 
-Al denunciar una herencia vacante al Fisco y como tal  obtener  la  posesión
-efectiva del causante denunciado para sí,  el  denunciante,  de  acuerdo  al
-artículo 42 del D.L. 1.939 de 1977, tendrá derecho a un  galardón  o  premio
-equivalente al 30% del valor líquido de los bienes  que  haya  adquirido  el
-Fisco producto de dicha denuncia.
+Agrega que, pese a lo anterior, con fecha 28 de Julio del año 2017, este Servicio mediante el Oficio N°1.708, cambió su criterio, yendo contra el texto expreso de los artículos 49 al 53 de la Ley General de Cooperativas, artículo 34 de la misma ley, y lo dispuesto en el artículo 17 del D.L. N° 824 de 1974, pretendiendo hacer aplicable el régimen del Artículo 14 B, de la LIR, esto es, aquel parcialmente integrado, con deducción del 9,45% del crédito, a las Cooperativas.
 
+El contrasentido surgido con motivo de la dictación de dicho pronunciamiento es evidente. El régimen más gravoso genérico se quiere aplicar a la estructura más básica de organización.
 
-Expone que, desde 1975 la Ley sobre Impuesto a la Renta (LIR), indica en  su
-artículo 17, N° 23  que  no  constituyen  renta  los  premios  o  galardones
-otorgados por el Estado, siempre que se trate de galardones establecidos  de
-un  modo  permanente  en  beneficio  de  estudios  (todos  los  estudios   e
-investigaciones que se deben hacer para  establecer  la  existencia  de  una
-Herencia Vacante) y que la persona agraciada no sea empleada de  la  entidad
-que lo otorga.
+Agrega que, corresponde al Departamento de Cooperativas del Ministerio de Economía, Fomento y Turismo, entre otras tareas, la misión de supervisar el cumplimiento de las leyes aplicables a las Cooperativas, en atención a lo cual solicitaron a dicho Departamento, hoy denominado División de Asociatividad y Economía Social, para que requiera a este Servicio que se enmiende el error denunciado y se dé fiel cumplimiento a la normativa de la Ley General de Cooperativas, y al artículo 17 del D.L. N° 824 de 1974.
 
-Nadie jamás había puesto lo anterior en  duda,  siendo  indudable  que  como
-denunciante gasta tiempo  y  dinero  en  establecer  la  existencia  de  una
-herencia vacante, debiendo  obtener  documentos,  inscripciones,  escrituras
-etc., obteniendo el Fisco un tremendo beneficio de  cada  herencia  vacante,
-ya que se lleva el 70 % del valor de los bienes de  la  misma,  que  sin  su
-intervención no sabía que existían, sin incurrir en ningún  gasto  real,  ya
-que el 30% del galardón lo paga con fondos de  la  propia  herencia  vacante
-denunciada.
+Por otro lado, la Excma. Corte Suprema ha ratificado lo anteriormente expuesto, en una sentencia de fecha 2 de abril del año 2015, dictada en los autos Rol N° 21.330-2014, Fallo unánime, que se adjunta a su presentación.
 
-No obstante, lo anterior, afirma que le llegó a  su  correo  electrónico  un
-documento de este Servicio donde sin señalar  ninguna  norma  legal,  se  le
-informa que éste ha tomado conocimiento que en el mes junio de  2017  se  le
-pagaron uno o más galardones por herencias vacantes y que  eso  constituiría
-renta, debiendo incorporar dichas sumas en su Declaración Anual de Renta.
+Por lo expuesto, solicita a este Servicio la corrección del criterio sustentado en el Oficio N°1708, del 28.07.2017, y en su lugar se declare, que las Cooperativas tienen un régimen especial y propio, contemplado en el artículo 17 de la Ley, y, por ende, no se les aplica el régimen del artículo 14, letra B), del artículo 1° de D.L. N° 824 de 1974.
 
-En su opinión, no es efectivo lo argumentado por el SII, afirmando que  éste
-está tratando maliciosamente de recaudar más Impuesto a la  Renta,  tratando
-que  contribuyentes  agreguen  el  monto  de  los  Galardones  de  Herencias
-Vacantes a su base imponible, lo que  está  expresamente  exceptuado  en  el
-artículo 17, número 23, de la LIR.
+II.- ANÁLISIS.
 
-Por la consideración anterior, solicita se  respete  la  legalidad  vigente,
-dejando fuera de la base imponible de la LIR,  los  galardones  que  reciban
-los contribuyentes del Ministerio de  Bienes  Nacionales  por  denuncias  de
-Herencias Vacantes exitosas, es decir, de herencias  en  que  el  Fisco   de
-Chile  se haga dueño del 70% de los  bienes  del  causante  denunciado  como
-herencia vacante, ya que así  lo  establece  preciosamente  el  artículo  17
-número 23 de la LIR, en relación con el  artículo  42  del  D.L.  1.939,  de
-1977.
+Sobre el particular, en primer término, cabe señalar que el Oficio Ordinario N°1.708, concluyó que las Cooperativas salvo que elijan someterse el régimen de renta presunta del artículo 34 de la LIR, deben someterse indefectiblemente al régimen contemplado en la letra B) del artículo 14.
 
-II.-  ANÁLISIS.
+Ahora bien, respecto a las alegaciones formuladas por el ocurrente, procede señalar que la circunstancia que el inciso final del artículo 49 de la Ley General de Cooperativas disponga que estas entidades &ldquo;&hellip; se regirán en materia del Impuesto a la Renta por las normas contenidas en el artículo 17 del D.L. N° 824 de 1974&rdquo;, no implica que el legislador estableciera la inaplicabilidad general de las disposiciones de la LIR, contenidas en el artículo 1° del D.L. N° 824 de 1974, por dos órdenes de consideraciones:
 
-Sobre el particular, procede señalar que el Decreto Ley N°  1.939,  de  1977
-en el Párrafo IV del Título II, inciso segundo del artículo 42, dispone  que
-cualquier persona puede poner en conocimiento de  ese  Servicio  (entiéndase
-la Dirección de Tierras de Bienes Nacionales)[1] la existencia  de  derechos
-hereditarios que le correspondan al Fisco, así como de  cualquier  clase  de
-bienes que, perteneciéndole, no tuviere de  ellos  conocimiento,  o  que  se
-encontraren indebidamente en poder de terceros.
+- Ello no fue establecido por el legislador, teniendo presente que la normativa tributaria es de derecho estricto, sin que pueda marginarse a un grupo de contribuyentes de las disposiciones generales de la LIR, salvo que ello sea expresamente establecido; y
 
-Su inciso tercero dispone que el denunciante que  cumpliere  los  requisitos
-que más adelante señala, tendrá derecho a un  galardón  equivalente  al  30%
-del valor líquido de los bienes respectivos.
+- Existen múltiples remisiones en el artículo 17 del D.L. N° 824, de 1974, que hacen necesaria la aplicación de las normas de la LIR, para su aplicación, por ejemplo, las normas sobre corrección monetaria, las del Título V de la LIR, sobre Administración del Impuesto, etc., sin que una aplicación aislada del artículo 17 del D.L. N° 824, de 1974, posibilite el cumplimiento tributario de las obligaciones para estas entidades, existiendo una necesaria correlación entre ambos cuerpos normativos.
 
-En tal sentido, es innegable que el  denunciante  de  una  herencia  vacante
-cuyos derechos hereditarios corresponden al Fisco, al recibir  el  galardón,
-experimentará un incremento patrimonial que  coincide  con  el  concepto  de
-“renta” en el N° 1 del artículo 2 de la LIR, que define: ”Por  “renta“,  los
-ingresos que constituyan utilidades  o  beneficios  que  rinda  una  cosa  o
-actividad y todos los beneficios, utilidades, e  incrementos  de  patrimonio
-que se perciban, devenguen o atribuyan, cualquiera sea su naturaleza  origen
-o denominación.”
+Lo anterior, se evidencia en que el propio el N°2 del artículo 17 del D.L. N° 824 de 1974, establece que aquella parte del remanente que corresponda a operaciones realizadas con personas que no sean socios, estará afecta al Impuesto a la Renta de Primera Categoría, y no obstante que la base imponible de las Cooperativas no se rige por el sistema de deducciones y agregados previsto en los artículo N°s. 29 al 33 de la LIR, resulta inevitable acudir a las normas de la LIR, para determinar, entre otros aspectos, su tasa, el régimen tributario de los cooperados por la obtención de aquellas cantidades afectas a IDPC y la imputación de este impuesto al Impuesto Global Complementario (IGC) o al Impuesto Adicional (IA), de acuerdo con los artículos 56 N°3 y 63 de la LIR.
 
-De este modo, al producirse un incremento patrimonial real, éste  constituye
-el hecho gravado con los  impuestos  de  la  LIR,  quedando  el  denunciante
-obligado a pagar los impuestos que correspondan establecidos en  ese  texto,
-salvo  que,  de  manera  expresa,  dicho  incremento   patrimonial   resulte
-exceptuado expresamente en el artículo 17  de  la  LIR,  de  o  en  una  ley
-especial. [2]
+De este modo, la distribución a los cooperados del remanente, que se afecta en cabeza a la cooperativa con IDPC, debe sujetarse también a tributación a sus asociados, sin que exista liberación alguna de tributación respecto de estos últimos. Por lo mismo, la exención dispuesta en el artículo 51 de la LGC, respecto a la devolución de excedentes originados en operaciones con los socios, no alcanza a la devolución de los mismos en operaciones celebradas con terceros.
 
-Así, el N° 21 del citado artículo 17, establece  que  no  constituye  renta:
-“El hecho de  obtener  de  la  autoridad  correspondiente  una  merced,  una
-concesión o un permiso fiscal o municipal”.
+Seguidamente, en relación con el tema en análisis, procede señalar que el Oficio Ordinario N°4.230, de 2004, que según el contribuyente declara de modo general que a ellas no les resultan aplicables las normas de la LIR, no es pertinente a la presente situación analizada, pues se refiere a un particular mecanismo para determinar la RLI de las Cooperativas, especialmente a las operaciones realizadas con no socios sin que en caso alguno pueda interpretarse que el artículo 17 del D.L. N° 824 de 1974, sustituya la aplicación de las normas de la Primera Categoría en relación con las Cooperativas.
 
-El vocablo  “merced”, no  se  encuentra  definido  en  nuestro  ordenamiento
-jurídico, por  lo  cual  para  determinar  su  sentido  y  alcance  se  hace
-necesario  recurrir  a  la  definición  del  término  que   proporciona   el
-Diccionario de la RAE, y en su primera acepción lo define como el “premio  o
-galardón que se da por el trabajo“, siendo  éste  el  sentido  en  que  debe
-entenderse dicha expresión en el N°21, del artículo 17, de la LIR,  pues  la
-denuncia de derechos hereditarios a favor del Fisco efectuada por un  sujeto
-de derecho importa necesariamente que su  titular  ejerza  un  trabajo,  una
-actividad conducente a que el Fisco tome conocimiento de  la  existencia  de
-derechos hereditarios en su favor, labor que de acuerdo a  la  ley  lo  hace
-acreedor a recibir un galardón equivalente al 30% del valor líquido  de  los
-bienes respectivos.
+Por último, cabe destacar que el fallo de la Excma. Corte Suprema que cita en apoyo a su petición, en ninguna de sus partes declara que no rijan para esas entidades las normas de la LIR, sino que sólo se pronuncia respecto del alcance del artículo 51 de la LGC, referida a la devolución de excedentes a sus socios por una Cooperativa.
 
+En consecuencia, debe concluirse que, pese a que la Ley General de Cooperativas en el inciso final del artículo 49 declara que estas se regirán en materia de Impuesto a la Renta, por las normas contenidas en el artículo 17 del D.L. 824 de 1974, ello no significa que las Cooperativas queden de manera total, exceptuadas de la aplicación de las normas de la LIR, contenidas en el artículo 1° del D.L. N° 824 de 1974, sin que se conciba una aplicación aislada de uno u otro cuerpo legal.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Por último, se hace presente que, si las Cooperativas estuvieran fuera del ámbito de la LIR, no tendrían derecho los asociados a imputar el IDPC pagado por la Cooperativa en contra del IGC o IA, pues tal imputación se establece precisamente en la LIR y no en las normas especiales de la Ley General de Cooperativas, ni en el artículo 17 del D.L. N° 824 de 1974.
 
 III.- CONCLUSIÓN.
 
-Por las razones anotadas precedentemente, se concluye que el galardón a  que
-tiene derecho el denunciante de derechos hereditarios  que  le  correspondan
-al Fisco, en virtud de lo establecido en el  artículo  42  del  Decreto  Ley
-N°1.939, de 1977, no se encuentra gravado  con  impuesto  a  la  Renta,  por
-corresponder a un  incremento  patrimonial  no  constitutivo  de  renta  que
-corresponde  a  una  merced  recibida  de  la   autoridad   correspondiente,
-clasificada en el N° 21 del artículo 17 de la LIR.
+Por las razones anotadas precedentemente, debe concluirse que si bien las Cooperativas de acuerdo al inciso final del artículo 49 de la Ley General de Cooperativas en materia de Impuesto a la Renta, se rigen por el artículo 17 del D.L. N° 824, de 1974, ello no implica desconocer la aplicación de la LIR para determinar el régimen tributario por el cual deben regirse, el cual considerando el contexto y características particulares de estas entidades, no es otro que el contenido en la Letra B) del artículo 14 de la LIR, haciendo posible la integración entre el IDPC que debe soportar la Cooperativa y el impuesto que deben soportar los asociados de las mismas entidades, razón por la cual procede confirmar en todas sus partes el Oficio Ordinario N°1.708, de 28.07.2017, de este Servicio.
 
-Se hace presente que el criterio contenido en el presente  Oficio  Ordinario
-deja sin efecto lo dispuesto en el Oficio Ordinario N°4.710, de  23.07.1980,
-de este Servicio.
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 1031, de 24.05.2018
 
-                                       FERNANDO BARRAZA LUENGO
+Subdirección Normativa
 
-       DIRECTOR
-
-
-
-
-
-                        Oficio N° 1022, de 23.05.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-
-
-
------------------------
-[1] Artículo 2° del D.L. N° 1.939, de 1977.
-
-[2] Ver Oficio Ordinario N°3.006, de 25.10.1996, del SII.
+Dpto. de Impuestos Directos

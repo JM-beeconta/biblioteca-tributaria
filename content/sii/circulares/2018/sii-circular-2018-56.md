@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2018
-- Fecha: 2018-12-20
+- Fecha: 2018-12-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu56.pdf
 - Hash SHA-256: 29905e502ad51a2fe4f0c9340a5f3d379d4b7d8de977bacd212eb00f1319a97b
 
 ## Resumen
 
-ta, correspondientes al Año Tributario 2019 Fuente: Oficina de Gestión Normativa Circular N° 57 del 20 de Diciembre del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2019. Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de enero del año 2019, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 55 del 14 de Diciembre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de dicie…
+scalización Tablas de Impuesto Único de Segunda Categoría para el mes de enero del año 2019, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

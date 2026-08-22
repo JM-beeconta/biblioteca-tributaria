@@ -11,7 +11,7 @@
 
 ## Resumen
 
-7, del 11 de febrero de 2019, en la parte que indica. Fuente: Oficina de Gestión Normativa Circular N° 7 del 11 de Febrero del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2019 y el 9 de marzo de 2019. Fuente: Oficina de Gestión Normativa Circular N° 5 del 22 de Enero del 2019 Informa nuevos límites máximos…
+Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2019 y el 9 de marzo de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

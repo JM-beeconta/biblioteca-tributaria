@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2018
-- Fecha: 2018-03-22
+- Fecha: 2018-03-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu16.pdf
 - Hash SHA-256: 9b269821cda1e7f847a9b784aabb7a6ddc561a521a40924d6319133945703254
 
 ## Resumen
 
-rtículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Circular N° 17 del 22 de Marzo del 2018 Tabla de cálculos de reajustes, intereses y multas abril 2018 Fuente: Subdirección de Fiscalización Informa derogación del artículo 41 D de la Ley sobre Impuesto a la Renta Fuente: Impuestos Directos Circular N° 15 del 09 de Marzo del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2018 y el 9 de abril del año 2018. Fuente: Oficina de Gestión Normat…
+scalización Informa derogación del artículo 41 D de la Ley sobre Impuesto a la Renta Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

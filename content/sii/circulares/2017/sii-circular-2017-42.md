@@ -11,7 +11,7 @@
 
 ## Resumen
 
-59 del referido cuerpo legal, en materia de Impuesto Adicional. Fuente: Impuestos Directos Circular N° 43 del 23 de Agosto del 2017 Tabla de cálculos de Reajustes, Intereses y Multas Septiembre 2017. Fuente: Subdirección de Fiscalización Aplicación de cláusula de nación más favorecida contenida en el protocolo del Convenio entre Chile y México respecto de servicios prestados por personas naturales Fuente: Subdirección Normativa, Depto. de Normas Internacionales Circular N° 41 del 10 de Agosto del 2017 Valor de la…
+scalización Aplicación de cláusula de nación más favorecida contenida en el protocolo del Convenio entre Chile y México respecto de servicios prestados por personas naturales Fuente: Subdirección Normativa, Depto. de Normas Internacionales
 
 ## Referencias detectadas
 

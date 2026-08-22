@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 64 del 13 de Octubre del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2020 y el 9 de noviembre de 2020, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 62 del 24 de…
+acute;n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2020 y el 9 de noviembre de 2020, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

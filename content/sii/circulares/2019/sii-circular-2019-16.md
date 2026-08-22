@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2019
-- Fecha: 2019-04-10
+- Fecha: 2019-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu16.pdf
 - Hash SHA-256: 90e42f64dc1b9a99f7350b8071fba43144efd3255c7f112734c9d408191cf2ac
 
 ## Resumen
 
-cute;as comprendidos entre el 10 de abril de 2019 y el 9 de mayo de 2019. Fuente: Oficina de Gestión Normativa Circular N° 17 del 09 de Abril del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el Año Tributario 2019, de acuerdo a lo dispuesto en el Artículo 72 de la Ley sobre Impuesto a la Renta…
+Oficina de Gestión Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el Año Tributario 2019, de acuerdo a lo dispuesto en el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

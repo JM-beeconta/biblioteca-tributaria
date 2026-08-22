@@ -4,324 +4,58 @@
 - Tipo: oficio
 - Número: 1028
 - Año: 2017
-- Fecha: 2017-12-07
+- Fecha: 2017-12-15
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2596.doc
-- Hash SHA-256: 90d6a87175ac452be55f7381d33b7f2cdafb2308555df20664f1456232835171
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2640.doc
+- Hash SHA-256: 1fc7ad0d11f500962d0a630baa80147e26f9b6f0416e351387436cd0fdd3ce01
 
 ## Resumen
 
-justify;'>Solicita reconsiderar . Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, Art. 12, Letra E, N°8 &ndash; Oficio N° 3288, de 2009. (Ord. Nº 2596, de 07-12-2017) | Word Diversas consultas sobre el servicio de intermediación de Rentas Vitalicias, en relación al servicio de Asesoría Previsional. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12, Letra E, N°11 &ndash; Ley N° 20.899, de 2016. (Ord. Nº 2595, de 07-12-2017)…
+| Word Solicita reconsiderar .
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":3288,"year":2000}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"oficio","number":1028,"year":2017}
+- {"type":"articulo","law":"CT","article":"26"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART.
-             8, ART. 12, LETRA E, N°8 – OFICIO N° 3288, DE 2000.
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – CÓDIGO TRIBUTARIO, ART. 15, ART. 26 – CONVENCIÓN DE VIENA, ART. 23, ART. 31 – OFICIO N°1028, DE 2017. (ORD. N° 2640, DE 15.12.2017)
 
-                        (ORD. N° 2596, DE 07.12.2017)
+Solicita reconsiderar Oficio N° 1028 de 2017 , sobre exención de Impuesto al Valor Agregado en la adquisición de inmuebles por una Embajada.
+Se ha solicitado a este Servicio reconsiderar lo resuelto en el Oficio Ord. N° 1028 , de fecha 12.05.2017 , de este Servicio, que se pronuncia sobre la exención de Impuesto al Valor Agregado en la adquisición de inmuebles por parte de una Embajada .
+I ANTECEDENTES
+Atendida la existencia de diversos oficios emitidos sobre la materia, es menester una breve relación de los mismos , para su adecuada comprensión:
+Mediante RR. EE. (DIJUR) OF. PUB. N° 8187, de fecha 18.07.2016, de la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores, a propósito de una petición formulada por la Embajada XXXXX , se solicitó a este Servicio confirmar que la adquisición de inmuebles para uso exclusivo como locales de una misión diplomática estaría exenta de Impuesto al Valor Agregado , conforme al artículo 23 de la Convención de Viena de 1961, sobre Relaciones Diplomáticas (en adelante, la “Convención”) , y en virtud del principio de reciprocidad atendido que XXXXX concede idéntico privilegio a las adquisiciones de inmuebles realizadas por la misión de Chile en XXXXX .
+A través del Oficio Ord. N° 2748 de 2016, este Servicio informó que el artículo 23 de la Convención no obliga ba a nuestro país a eximir del recargo de Impuesto al Valor Agregado en las compras de bienes que efectúen o servicios que reciban las misiones diplomáticas acreditadas en Chile .
+Posteriormente, mediante RR. EE. (DIJUR) OF. PUB: N° 12879, de fecha 23.11.2016, de la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores, se traslada a este Servicio una Nota Verbal de la Embajada de XXXXX , de fecha 13.10.2016, enviada al Ministerio de Relaciones Exteriores, solicitando reconsiderar lo resuelto por este Servicio en el Oficio Ord. N° 2748 de 2016.
+En respuesta , a través del Oficio Ord. N° 1028 de 2017, este Servicio reiteró su criterio sin perjuicio que, por tratarse de materias de derecho internacional cuya resolución puede afectar las relaciones de nuestro país con naciones extranjeras, podría variar su entendimiento en base a otras considera ciones que ese Ministerio aportase sobre la materia.
+En ese contexto, mediante RR. EE. (DIJUR) OF. PUB: N° 006995, de fecha 22.06.2017, complementado por el RR. EE. (DIJUR) OF. PUB: N° 009831, de fecha 28.08.2017, ambos de la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores, se solicita reconsiderar lo resuelto por este Servicio en su Oficio Ord. N° 1028 de 2017.
+En lo fundamental, los Oficios de la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores individualizados en la letra e) anterior, señalan lo siguiente:
+El artículo 23 de la Convención no sólo envolvería materias tributarias, cuya solución técnica corresponde a este Servicio, sino también materias de derecho internacional, en cuya definición se debe ponderar el contexto actual y la opinión de otros organismos del Estado.
+Teniendo en cuenta lo anterior y el propósito de la interpretación de un tratado internacional , estima relevante tener presente lo dispuesto en los artículos 31 y siguientes de la Convención , que recoge el principio de la buena fe e integra el principio de la reciprocidad .
+S eñala que podría aplicar se la reciprocidad como título jurídico para otorgar igual trato a XXXXX dentro del territorio de Chile en el caso del Impuesto al Valor Agregado que grave la adquisición de un inmueble por parte de la representación diplomática de ese país. Agrega que, en las relaciones entre Estados no existirían grandes diferencias respecto al principio de reciprocidad entre los supuestos regulados mediante acuerdos y aquellos otros en que hay ausencia de tratado. Si existe un tratado regulador, a la postre, sería igualmente un criterio de reciprocidad el que se estaría aplicando, pues éste contendrá reglas o criterios que darían mayor fuerza o seguridad a los requisitos exigidos recíprocamente o se resolverían mediante concesiones mutuas.
+Informa que tanto la doctrina como una práctica reiterada entienden que la misión diplomática no está sujeta a las normas tributarias del Estado receptor. Esta “inmunidad fiscal” se concretaría en la exención del Estado acreditante del pago de cualquier clase de tributos, sean estatales, regionales o municipales, tanto reales o personales como directos o indirectos, que recaigan sobre los locales de su misión diplomática de los que sea propietario o inquilino y en razón de esos títulos. Esta inmunidad fiscal, en relación con los locales de la misión, al extenderse, también, por el Convenio, al jefe de la misión, habrá de entenderse que, éste queda, igualmente, eximido del pago de cualquier tributo respecto de los locales de la misión.
+Respecto de la s normas específicas aplicables señala que , según el texto del artículo 23 de la Convención, la exención abarca todos los impuestos y gravámenes nacionales, regionales o municipales y dado que el texto no hace distinciones, se aplica igualmente a los impuestos directos e indirectos. Por ende, solo recaerían sobre el Estado extranjero los impuestos y gravámenes que constituyan el pago de servicios particulares prestados, conforme a lo dispuesto en el párrafo 2 de dicho artículo.
+Por su parte, el artículo 34 de la Convención, que se refiere a las exenciones aplicables al “agente diplomático ”, dispone en su letra a. que debe n entenderse referida s a la s adquisiciones de bienes o servicios que habitualmente realizan los agentes diplomáticos en el quehacer ordinario de sus actividades. Po r tanto, no sería aplicable en el caso de una transacción inmobiliaria.
+Luego, concluye, conforme a lo dispuesto en el artículo 23, en concordancia con el artículo 34 del Convenio, al entendimiento y práctica de la gran mayoría de Estados y teniendo presente el principio de reciprocidad, que existiría una obligación jurídica para nuestro país de ex imir del cargo del Impuesto al V alor Agregado en la adquisición de locales para la Misión Diplomática solicitante.
+Complementando lo anterior, el RR. EE. (DIJUR) OF. PUB: N° 009831, de fecha 28.08.2017, descarta que el artículo 23 ya citado sólo se aplique respecto del Impuesto Territorial , teniendo en su opinión un sentido mucho más amplio, al punto de establecer una cierta inmunidad tributaria a favor de las Misiones Diplomáticas acreditadas.
+Luego de otras consideraciones sobre el carácter amplio de las exenciones contenidas en los artículo 23 y 34 de la Convención, la presentación complementaria agrega que en materia de Impuesto al Valor Agregado se ha planteado , en el ámbito de las relaciones bilaterales entre Chile y XXXXX , el criterio que no procedería aplicar el Impuesto al Valor Agregado a las operaciones inmobiliarias que llevará a cabo XXXXX , citando al efecto una nota de la Embajada de Chile en XXXXX , en la que, sobre la base de la normativa vigente a esa fecha (20.02.2001) informa que “si XXXXX adquiere un inmueble usado para la sede de la Embajada o residencia del Jefe de Misión, esa compra estará exenta de todo impuesto o gravamen” y notas del Ministerio de Asuntos Exteriores de XXXXX y de la Agencia Tributaria española en que se reconoce la exención de impuestos para la adquisición de inmuebles y arriendo de oficinas, siempre que tenga lugar con estricto cumplimiento de las normas vigentes, a reserva del principio de reciprocidad.
+Por las razones que expone, entiende que se puede desprender la existencia de un compromiso por parte de Chile de no aplicar, sobre la base del principio de reciprocidad, impuestos o gravámenes a las operaciones inmobiliarias que pueda llevar adelante la Embajada XXXXX .
 
+II ANÁLISIS
+Tal como informa la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores , e l artículo 23 de la Convención no sólo envuelve materias estrictamente tributarias, cuya solución técnica corresponde a este Servicio, sino también materias de derecho internacional, en cuya definición se debe ponderar tanto el contexto actual, como la opinión de otros órganos competentes del Estado, la opinión de la doctrina más autorizada y la práctica internacional sobre la forma en que debe ser aplicado o interpretado el referido artículo.
+Teniendo en cuenta lo anterior y que los tratado s internacional es , incluyendo aquellos que pueden con tener normas tributarias o de incidencia tributaria que afectan las relaciones de los Estados entre sí , deben interpretarse conforme los artículos 31 y siguientes de la Convención de Viena sobre los tratados , debe darse al artículo 23 una interpretación armónica con el principio de la buena fe y reciprocidad .
+Que, en ese sentido, cobra importancia la conducta adoptada por otros Estados para con Chile , incluyendo el Reino de XXXXX – en el sentido de reconocer exenciones o beneficios en la adquisición de inmuebles por parte de las misiones diplomáticas chilenas en el exterior – y la necesidad de modificar el criterio sustentado por este Servicio sobre la materia.
+En consecuencia, si bien no se comparten todos los argumentos esgrimidos en los Oficios remitidos por la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores, se acoge la solicitud de reconsideración del Oficio Ord. N° 1028, de fecha 12.05.2017, de este Servicio, en el sentido que se encuentra exenta de Impuesto al Valor Agregado la adquisición de inmuebles por parte de una Embajada.
+III CONCLUSIÓN
+Conforme lo expuesto, se modifica el criterio contenido en el Oficio N° 1028 de 2017 , de este Servicio, y en su lugar se concluye que se encuentra exenta de Impuesto al Valor Agregado la adquisición de inmu ebles por parte de una Embajada, exención que opera sobre la base del principio de reciprocidad. Esto es, sujeto a la condición que se reconozcan exenciones o beneficios de análoga naturaleza , en la adquisición de inmuebles , a las misiones diplomáticas chilenas en el otro Estado .
+Lo expuesto constituye un cambio de criterio por parte de esta Dirección Nacional, como consecuencia de un nuevo estudio sobre la materia y de los antecedentes proporcionados en la presentación.
+De acuerdo a lo señalado en el artículo 26, inciso tercero, del Código Tributario, en relación con el artículo 15 del mismo código, el nuevo criterio entrará en vigencia a partir de su publicación en el Diario Oficial.
 
+FERNANDO BARRAZA LUENGO
+DIRECTOR
 
-
-Diversas  consultas  sobre  el  servicio   de   intermediación   de   Rentas
-Vitalicias, en relación al servicio de Asesoría Previsional.
-
-Se ha recibido en esta Dirección Nacional su presentación  del  antecedente,
-mediante la cual expone una serie de consultas en relación  al  servicio  de
-intermediación financiera.
-
-I.-         ANTECEDENTES:
-
-Desde la entrada en vigencia de la Ley N° 20.255, en virtud de  la  cual  se
-establece  la  figura  del   Asesor   Previsional   y   de   las   Entidades
-Previsionales, para mejorar el funcionamiento del Sistema de  Pensiones,  es
-que han surgido varias interrogantes derivadas de la  implementación  de  la
-misma y de la interacción que esta ley tiene con otras,  las  que  han  sido
-contestadas por las diferentes Superintendencias y  Autoridades  en  general
-de forma independiente, pero que requieren, a su juicio,  de  respuestas  en
-conjunto e inequívocas  en  beneficio  de  los  partícipes  del  Sistema  de
-Pensiones y en especial de los afiliados.
-
-En atención a  ello,  la  presentación  fue  efectuada  conjuntamente  a  la
-Superintendencia de Pensiones,  Superintendencia  de  Valores  y  Seguros  y
-Servicio de Impuestos Internos.
-
-Es así como requiere un pronunciamiento de las tres autoridades sobre  sobre
-lo siguiente:
-
-¿Es el servicio de intermediación de Rentas Vitalicias considerado parte  de
-la  Asesoría  Previsional  o  ambas   son   consideradas   dos   actividades
-independientes?
-
- a) Si se considera la intermediación de Rentas Vitalicias como parte de la
-    Asesoría Previsional, correspondiente a una actividad del Art. 20, N° 5
-    (oficio 3288, de 12/11/20089), por favor confirmen lo siguiente:
-    1.-    Esta intermediación correspondería también a una  actividad  del
-        Art. 20, N° 5 y no estaría afecto a IVA, en caso  de  ser  realizado
-        por una persona natural o Entidad Previsional.
-
-
-    2.-    La Asesoría Previsional incluida  la  intermediación  de  Rentas
-        Vitalicias tendría el tope de 60 UF.
-
-
-       “Con  todo,  los  honorarios  totales  por  concepto   de   asesoría
-        previsional no podrán superar el 2% de los fondos de  la  cuenta  de
-        capitalización individual del afiliado  destinados  a  pensión,  con
-        exclusión de aquellos que eran susceptibles de  ser  retirados  como
-        excedente  de  libre  disposición,  ni  podrán  exceder   un   monto
-        equivalente a 60 UF”.
-
-
-    3.-    Debido a que es considerado Asesoría Previsional, contratado por
-        el afiliado, corresponde a un gasto del  afiliado  y  por  tanto  la
-        boleta por el servicio  completo  debe  ser  emitida  a  nombre  del
-        afiliado.
-
-
- b) Si la intermediación de Rentas Vitalicias no se considera como parte de
-    la Asesoría Previsional y se considera como una actividad completamente
-    diferente, es decir,  del  Art.  20,  N°  4.  Por  favor  confirmen  lo
-    siguiente:
-
-    1.-    La norma distingue el pago de  1,2%  por  concepto  de  asesoría
-        previsional en retiro programado y  para  la  renta  vitalicia,  que
-        llama intermediación o retribución, un tope máximo de 2%.
-
-
-    2.-    La comisión y/o retribución  NO  podría  estar  afecta  al  tope
-        considerado en el Art. 179, inciso tercero ya que éste establece que
-        “Con  todo,  los  honorarios  totales  por  concepto   de   asesoría
-        previsional no podrán superar el 2% de los fondos de  la  cuenta  de
-        capitalización individual del afiliado  destinados  a  pensión,  con
-        exclusión de aquellos que eran susceptibles de  ser  retirados  como
-        excedente  de  libre  disposición,  ni  podrán  exceder   un   monto
-        equivalente a 60 U.F.” y la Asesoría Previsional es diferente  a  la
-        intermediación de  Rentas  Vitalicias  y  la  norma  nada  dice  con
-        respecto a las comisiones y/o retribuciones totales por concepto  de
-        intermediación de Rentas Vitalicias.
-
-
-    3.-     La  comisión  y/o  retribución  percibida   por   concepto   de
-        Intermediación de Renta Vitalicia estaría afecta a IVA, en  caso  de
-        ser realizada por una  entidad  previsional.  (oficio  N°  3288,  de
-        12/11/2009)
-
-
-    4.-    Como la Intermediación de Rentas Vitalicias es un gasto  de  las
-        Compañías asociado a la venta  de  la  póliza,  corresponde  que  la
-        boleta del Asesor o Entidad Previsional sea emitida a nombre  de  la
-        Compañía de Seguros por este monto.
-
-
-    5.-    El monto de estas comisiones y/o retribuciones son de  cargo  de
-        las compañías (Resolución 10552 Pensiones y  SVS  del  2/6/2014),  y
-        como tal corresponde emitir la boleta a nombre de la emisora  de  la
-        póliza. Sin embargo, si la comisión y/o retribución se rebaja de los
-        fondos  previsionales  del  afiliado  (lo  que   sucede   hoy),   la
-        intermediación pasa a ser una variable que afecta  el  monto  de  la
-        pensión de éste convirtiéndose en un gasto del afiliado y no  de  la
-        compañía con lo cual correspondería realizar la boleta a nombre  del
-        afiliado.
-
-
-    6.-    Si el monto de las comisiones y/o retribuciones son de cargo  de
-        las compañías, su existencia, entonces, no afecta  el  monto  de  la
-        pensión del afiliado,  por  tanto,  no  corresponde  que  exista  la
-        leyenda del SCOMP que indica  “su  pensión  podría  aumentar  en  la
-        medida que esta comisión no exista o sea inferior a la señalada”.
-
-
-
-
-II.-  ANÁLISIS:
-
-Sobre el particular, cabe manifestar que, de todas las  consultas  expuestas
-en su presentación,  sólo  compete  al  suscrito  pronunciarse  respecto  de
-aquellas que dicen relación con normas tributarias, ya  que  conforme  a  lo
-dispuesto en el Art. 6°, letra A), N° 1, del Código  Tributario,  dentro  de
-las facultades que las leyes confieren al Servicio  de  Impuestos  Internos,
-corresponde   a   este   Director   interpretar   administrativamente    las
-disposiciones tributarias.
-
-En  ese  contexto  este  Servicio  ya  se  había  pronunciado[1]  sobre   la
-tributación con Impuesto al Valor Agregado que afecta  a  los  servicios  de
-asesoría previsional y de intermediación  de  Rentas  Vitalicias  efectuados
-por  asesores  previsionales,  ya  sean  personas  naturales   o   jurídicas
-dedicadas a dicho fin.
-
-Es así como se señaló que en la  medida  que  los  servicios  proporcionados
-tanto  por  la  Entidad  de  Asesoría  Previsional  como   por   el   Asesor
-Previsional, sólo importen la  entrega  de  información,  recomendaciones  o
-consejos en el ámbito previsional, que se materialicen en informes  escritos
-no  vinculantes  u  obligatorios  para   el   afiliado,    corresponderá   a
-actividades de asesoría técnica, las cuales  de  acuerdo  con  la  reiterada
-jurisprudencia  administrativa  de  este  Servicio,  se  clasifican  en   el
-artículo 20°, N° 5 de la Ley Sobre Impuesto a  la  Renta,  no  encontrándose
-por lo tanto gravadas con Impuesto al Valor Agregado. Ello porque  según  lo
-dispuesto en el Art. 8°, del D.L. N° 825, en concordancia con  el  Art.  2°,
-N° 2, del mismo texto legal, sólo  se  gravan  con  el  tributo  en  comento
-aquellos servicios cuya remuneración provenga del ejercicio  de  actividades
-clasificadas en el Art. 20°, N° 3 o 4, de la Ley sobre Impuesto a la Renta.
-
-Respecto de los servicios de intermediación de seguros, el  referido  oficio
-se pronunció señalando que en la medida que dicha  actividad  importara  una
-mediación asalariada a las partes con el fin de facilitarles  la  conclusión
-de sus contratos de seguros previsionales, sin que la Entidad Asesora  o  el
-Asesor concurra a la celebración del mismo, este  Servicio  estima  que,  de
-conformidad con las instrucciones impartidas a través de la Circular N°  21,
-de fecha 23-04-1991, la labor desarrollada corresponderá  a  aquella  propia
-de los corredores,  agregando  que  ésta  se  encuentra  clasificada  en  el
-artículo 20°, N° 4 de la Ley sobre Impuesto a la Renta y,  por  consiguiente
-gravada con  IVA.  No  obstante,  en  el  caso  que  dichos  servicios  sean
-prestados por personas naturales que por estas  labores  tributen  bajo  las
-normas de la segunda categoría, establecidas en el artículo 42°  de  la  Ley
-sobre Impuesto a la Renta, su remuneración se encontrará exenta de IVA,  por
-disposición del Art. 12°, letra E), N° 8, del D.L. N° 825.
-
-Hasta aquí, se observa claramente que  el  análisis  efectuado  en  Ord.  N°
-3288, de 12/11/2009, para determinar la tributación con  impuesto  al  valor
-agregado de los servicios  prestados  por  los  asesores  previsionales,  no
-depende del nombre con  que  el  servicio  se  denomine,  sino  que  de  las
-actividades que deben llevarse a cabo para realizarlo, razón  por  la  cual,
-en el caso de las asesorías, éstas sólo pueden calificarse así para  efectos
-tributarios, en la medida que importen la  realización  de  las  actividades
-allí señaladas y no de otras como sería la intermediación de seguros.
-
-De hecho, en el mismo oficio se aclaró que en el  evento  que  las  diversas
-prestaciones que efectúen las Entidades de Asesoría Previsional  de  acuerdo
-a la Ley y a los contratos de prestación  de  servicios,  sean  de  carácter
-indivisible, es decir, cuando no puedan ser identificables en forma clara  e
-independiente cada uno de los servicios prestados,  sino  que  se  contraten
-todos en forma genérica  y  la  contraprestación  que  se  obtenga  remunere
-indistintamente cualesquiera de los servicios contratados -de información  o
-de intermediación- este Servicio entiende  que,  por  tratarse  de  empresas
-clasificadas como corredores, que tributarán bajo las  normas  del  artículo
-20°, N° 4, de la Ley  sobre  Impuesto  a  la  Renta,  toda  la  remuneración
-obtenida en ese caso se encontrará gravadas con IVA, de conformidad  con  lo
-dispuesto en el artículo 8, en concordancia con el Art. 2°, N°  2  del  D.L.
-825, de 1974, por tratarse de remuneraciones obtenidas  por  actividades  de
-correduría,.
-
-De  lo  anterior  se  desprende  que  para   efectos   tributarios   resulta
-indiferente si la intermediación de Rentas Vitalicias es  considerada  parte
-de la Asesoría Previsional o no, ya que el hecho que sea  considerada  parte
-de ésta como aparentemente  se  desprende  de  la  parte  final  del  inciso
-primero del Art. 171, del D.L. N° 3.500 cuestión que  debe  ser  determinada
-por la autoridad competente, no hace que la remuneración obtenida  por  ella
-se encuentre no afecta a IVA. Ello se  concluye  claramente  del  tenor  del
-oficio Ord. N° 3288, de 2009.
-
-Respecto de la documentación a emitir por la prestación de  los  mencionados
-servicios, cabe manifestar que conforme a lo establecido por  el  Art.  52°,
-del D.L. N° 825, en concordancia con el Art. 53°, del mismo texto legal,  el
-contribuyente se encuentra obligado a emitir  boletas  por  las  operaciones
-que realice con personas que no sean contribuyentes del impuesto, ya sea  de
-aquellas que dan cuenta de una operación gravada con el tributo  o  bien  de
-aquellas normadas por la Res. Ex. N° 6080,  de  1999,  en  el  caso  que  la
-operación se encuentre no gravada o exenta de IVA.
-
-Ahora bien, en cuanto al  sujeto  a  quien  debe  emitirse  dicho  documento
-tributario, el Art. 69°, del D.L. N° 825, de 1974, dispone en lo  pertinente
-que “Las personas que realicen operaciones gravadas con el  impuesto  de  la
-presente ley, con excepción del que  afecta  a  las  importaciones,  deberán
-cargar a los compradores o beneficiarios del servicio, en su caso, una  suma
-igual al monto del respectivo gravamen …”.
-
-De lo anterior se desprende que, en el caso de la prestación  de  servicios,
-la  boleta  debe  ser  emitida  siempre  al   beneficiario   del   servicio,
-independientemente de quien financie la operación.
-
-Igual normativa es aplicable en  el  caso  de  la  emisión  de  boletas  por
-servicios no afectos o exentos de IVA.
-
-En el caso en consulta, resulta claro que el beneficiario  del  servicio  es
-el afiliado, ya que en virtud de lo dispuesto en el Art. 178,  del  D.L.  N°
-3.500, para efectos de contratar una asesoría  previsional,  el  afiliado  o
-sus  beneficiarios  según  corresponda,  deben  celebrar  un   contrato   de
-prestación de servicios, con la Entidad de Asesoría Previsional o el  Asesor
-Previsional, siendo voluntario para  el  afiliado  o  sus  beneficiarios  la
-contratación de la misma.
-
-III.- CONCLUSIÓN:
-
-Reiterando  que  la  facultad  del  suscrito  sólo  le  permite  interpretar
-administrativamente la normativa tributaria, se procederá  a  dar  respuesta
-sólo a las consultas que dicen relación con estas materias.
-
-Respecto de la consulta signada con  la  letra  a),  N°  1,  se  reitera  lo
-señalado en el cuerpo de  este  oficio  en  términos  de  que  para  efectos
-tributarios resulta indiferente si la intermediación  de  Rentas  Vitalicias
-es considerada parte de la Asesoría Previsional o no, ya que  en  este  caso
-la Asesoría, para efectos tributarios será considerada como tal sólo  cuando
-importe la entrega de información, recomendaciones o consejos en  el  ámbito
-previsional, que se materialicen  en  informes  escritos  no  vinculantes  u
-obligatorios para el afiliado. De forma tal que si dentro de dicho  servicio
-además existen otras actividades como sería la intermediación de  seguros  y
-estas  son  de  carácter  indivisible,  es  decir,  cuando  no  puedan   ser
-identificables en forma clara e independiente  cada  uno  de  los  servicios
-prestados, sino que se contraten todos en forma  genérica,  obteniéndose  en
-pago de éstos un monto que  remunera  indistintamente  cualesquiera  de  los
-servicios  contratados  -de  información  o  de  intermediación-   toda   la
-remuneración obtenida  en  ese  caso  se  encontrará  gravada  con  IVA,  de
-conformidad con lo dispuesto en el artículo 8, en concordancia con  el  Art.
-2°, N° 2, del D.L. 825, de 1974, por tratarse  de  remuneraciones  obtenidas
-por actividades de correduría.  Lo  anterior,  se  traduce  en  que,  si  el
-servicio prestado por  las  entidades  de  Asesoría  Previsional  o  por  lo
-Asesores Previsionales concluye con la intermediación de un seguro, éste  se
-encontrará gravado con IVA, siendo su base imponible el monto  total  de  la
-remuneración obtenida. Ello, sin perjuicio de la exención de  IVA,  señalada
-en el párrafo siguiente que favorece a los Asesores Previsionales,  personas
-naturales que tributen por esta actividad bajo  las  normas  de  la  segunda
-categoría.
-
-En cuanto a su consulta signada con la  letra  b),  N°  3,  respecto  de  la
-actividad de  intermediación  de  seguros  previsionales  cabe  reiterar  lo
-señalado en Ord. N° 3288, de  2009,  en  términos  de  que  dicha  actividad
-corresponde a aquella propia de los corredores, actividad clasificada en  el
-Art. 20°, N° 4, de la Ley de la Renta y por tanto gravada  con  Impuesto  al
-Valor Agregado, en virtud del Art. 8°, en concordancia con el  Art.  2°,  N°
-2, del D.L. N° 825. Sin embargo, de ser prestada por un asesor  previsional,
-persona natural que por estas labores tribute bajo las normas de la  segunda
-categoría, establecidas en el artículo 42° de la Ley  sobre  Impuesto  a  la
-Renta, su remuneración se encontrará exenta  de  IVA,  por  disposición  del
-Art. 12°, letra E), N° 8, del D.L. N° 825.
-
-Respecto de sus consultas signadas con la letra a), N° 3, letra b), N°  4  y
-5, relacionadas con la documentación a  emitir  por  la  prestación  de  los
-servicios efectuados por la Entidad Previsional  o  el  Asesor  Previsional,
-cabe manifestar que el  documento  a  emitir  es  una  boleta  por  aquellas
-operaciones gravadas con IVA y una boleta de aquellas normadas por  la  Res.
-Ex. N° 6080, de 1999, en el caso que la operación se encuentre no gravada  o
-exenta de IVA, debiendo emitirse siempre a nombre del afiliado que  contrato
-el servicio.
-
-Finalmente,  considerando  que  la  consulta  sobre  la  cual  requiere   un
-pronunciamiento  conjunto  de  este  Servicio,   de   la   SVS   y   de   la
-Superintendencia de Pensiones, a saber, si el servicio de intermediación  de
-Rentas Vitalicias es considerado parte de la Asesoría  Previsional  o  ambas
-son consideradas dos actividades independientes,  no es materia que  competa
-determinar a este Servicio, y  teniendo  presente  que  dicha  respuesta  no
-altera el  tratamiento  tributario  de  los  ingresos  percibidos  por  esas
-actividades, según se señala en el cuerpo de  este  oficio,   no  se  estima
-necesario  participar  en  una  respuesta  conjunta  con   los   mencionados
-organismos.
-
-
-
-
-
-                           FERNANDO BARRAZA LUENGO
-                                  DIRECTOR
-
-
-                         Oficio N° 2596, 07.12.2017
-                           Subdirección Normativa
-                        Dpto. de Impuestos Indirectos
-                           -----------------------
-[1] Ord. 3288, de 12/11/2009.
+Oficio N° 2640, de 15.12.2017
+Subdirección Normativa
+Dpto. de Técnica Tributaria

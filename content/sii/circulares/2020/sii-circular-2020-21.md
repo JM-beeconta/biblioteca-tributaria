@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2020
-- Fecha: 2020-03-30
+- Fecha: 2020-03-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu21.pdf
 - Hash SHA-256: d357df31a9919bb79a4ff0a361824b76c7d6ce68230e22f56c78e63a947ab01e
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa. Circular N° 22 del 30 de Marzo del 2020 Modificaciones efectuadas por la Ley N° 21.210 publicada el 24 de febrero de 2020, a la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados. Fuente: Departamento de Impuestos Directos. Imparte instrucciones sobre derogación del artículo 145-L del Código del Trabajo, respecto del tratamiento tributario de las remuneraciones percibidas por trabajadores de artes y espectáculos, que s…
+mpuestos Directos. Imparte instrucciones sobre derogación del artículo 145-L del Código del Trabajo, respecto del tratamiento tributario de las remuneraciones percibidas por trabajadores de artes y espectáculos, que se desempeñan bajo dependencia y subordinación con una duración determinada, pactada a plazo fijo, por una o más funciones, por obra, temporada o proyecto, según Ley N° 21.210, de 24 de febrero de 2020. Deja sin efecto numeral III, número 1, de la Circular 60, de fecha 20 de noviembre de 2007. Fuente:…
 
 ## Referencias detectadas
 

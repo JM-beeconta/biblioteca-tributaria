@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 40 del 10 de Octubre del 2019 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios(PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2019. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2019 y el 9 de noviembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 38 del 09 de Octubre del 2019 Tabla…
+cción de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2019 y el 9 de noviembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

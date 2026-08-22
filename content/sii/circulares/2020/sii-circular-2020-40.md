@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 40
 - Año: 2020
-- Fecha: 2020-06-11
+- Fecha: 2020-06-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu40.pdf
 - Hash SHA-256: d76ee00fe720e0a2c56674fa117c401caec7680579bcd502fccc98919a6514bf
 
 ## Resumen
 
-ealizados por prestadores domiciliados o residentes en el extranjero. Fuente: Impuestos Indirectos. Circular N° 41 del 11 de Junio del 2020 Tabla de cálculos de reajustes, intereses y multas julio 2020. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 39 del 08 de Junio del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para l…
+calización. Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

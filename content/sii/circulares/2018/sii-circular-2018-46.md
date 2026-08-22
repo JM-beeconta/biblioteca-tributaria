@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 46
 - Año: 2018
-- Fecha: 2018-09-21
+- Fecha: 2018-09-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu46.pdf
 - Hash SHA-256: 42512c1048976a5aa4121c95ae37a16df08ca737da10d3ee4a18af10386bea57
 
 ## Resumen
 
-;o 2018 y el 9 de noviembre del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 47 del 21 de Septiembre del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas Octubre 2018 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2018 y el 9 de octubre del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 45 del 10 de Septiembre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018,…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2018 y el 9 de octubre del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

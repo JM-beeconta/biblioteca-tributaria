@@ -6,91 +6,81 @@
 - Año: 2017
 - Fecha: 2017-08-17
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja1706.htm
-- Hash SHA-256: 9325fea6baec1e5bd64f987b7a49c03611d91ce9ca2173079f9478ed97de9670
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja1854.htm
+- Hash SHA-256: 958cfc0893f9cae9304e5039b0b88c67563541139893c8e69ece3241a0fc268c
 
 ## Resumen
 
-'> Código Tributario &ndash; Actual Texto &ndash; Art. 64 &ndash; Ley sobre Impuesto a la Renta, Art. 58, N°1 &ndash; . (Ord. Nº 1854, de 17-08-2017) | Word Solicita confirmar criterios sobre facultad de tasar del artículo 64, inciso quinto, del Código Tributario en caso de reorganización empresarial que indica. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Párrafo I, Letra B), N°2. (Ord. Nº 1706, de 28-07-2017) | Word Solicita confirmar que estacionamientos del hospital clínico de una…
+Código Tributario &ndash; Actual Texto &ndash; Art. 64 &ndash; Ley sobre Impuesto a la Renta, Art. 58, N°1 &ndash; . (Ord. Nº 1854, de 17-08-2017) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1913,"year":2009}
-- {"type":"oficio","number":878,"year":2016}
-- {"type":"oficio","number":1286,"year":2008}
+- {"type":"oficio","number":115,"year":2013}
+- {"type":"articulo","law":"LIR","article":"58"}
+- {"type":"articulo","law":"CT","article":"64"}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – CUADRO ANEXO, PÁRRAFO I, LETRA B), N°2. (Ord. Nº 1706, de 28-07-2017)
+CÓDIGO TRIBUTARIO – ACTUAL TEXTO – ART. 64 – LEY SOBRE IMPUESTO A LA RENTA, ART. 58, N°1 – OFICIO N° 115, DE 2013. (Ord. Nº 1854, de 17-08-2017)
 
-SOLICITA CONFIRMAR QUE ESTACIONAMIENTOS DEL HOSPITAL CLÍNICO DE UNA UNIVERSIDAD SE BENEFICIAN CON EXENCIÓN DE IMPUESTO TERRITORIAL.
+SOLICITA CONFIRMAR CRITERIOS SOBRE FACULTAD DE TASAR DEL ARTÍCULO 64, INCISO QUINTO, DEL CÓDIGO TRIBUTARIO EN CASO DE REORGANIZACIÓN EMPRESARIAL QUE INDICA.
 
-Se ha solicitado a este Servicio confirmar que los estacionamientos del hospital clínico de una Universidad se benefician con la exención de Impuesto Territorial contemplada en el Párrafo I, Letra B), N° 2 del Cuadro Anexo de la Ley N° 17.235.
+Se ha solicitado a este Servicio confirmar ciertos criterios sobre la facultad de tasación del artículo 64, inciso quinto, del Código Tributario, en el caso de una reorganización empresarial.
 
 I ANTECEDENTES
 
-De acuerdo a su presentación, una Universidad reconocida por el Estado, constituida como fundación de derecho privado y que se destaca en el área de investigación y de la medicina, cuenta con un hospital clínico (en adelante, &ldquo;el hospital&rdquo;) que busca entregar una atención de salud de excelencia y ser una instancia para que estudiantes del área de la salud desarrollen sus capacidades y adquieran experiencia, constituyéndose en una unidad docente asistencial y de investigación científica con base clínica.
+De acuerdo a la presentación hace más de 20 años tres empresarios unipersonales constituyeron una sociedad anónima en Chile en partes iguales, desarrollando en los últimos 10 años un negocio de servicios profesionales y de asesoría técnica.
 
-Mediante presentación complementaria de fecha 29.03.2017, se precisa que la actividad docente del hospital clínico se ha reforzado con un convenio de asistencia docente y colaboración mutua con la Universidad a través de prácticas que deben cumplir alumnos de pregrado y posgrado de distintas carreras vinculadas a la salud (medicina, enfermería, obstetricia, psiquiatría y odontología), bajo supervisión docente.
+Durante el año 2003 se asociaron con un holding extranjero mediante un aumento de capital, quedando los accionistas chilenos con el 50% de las acciones de la sociedad y el holding extranjero con el otro 50%.
 
-Asimismo, se informa que el hospital clínico suscribió recientemente un convenio gratuito con la Fundación YYYY, que permitirá a las alumnas del Colegio XXXX el desarrollo de prácticas curriculares para las carreras de atención de enfermería (nivel intermedio). Agrega que el Colegio XXXX se ubica en la comuna de la TTTT y es de carácter gratuito.
+Luego de 15 años y producto de ciertas dificultades derivadas de la estructura de propiedad, los accionistas chilenos habrían sido informados por el holding extranjero sobre la necesidad que ellos se constituyan como una sola persona jurídica en la que los accionistas chilenos participen en partes iguales mediante el aporte de sus acciones.
 
-Finalmente, sobre este mismo punto, se informa que mediante Resolución Exenta IP/N° 431 de 2017, de la Superintendencia de Salud, se ordenó la inscripción del hospital clínico en el Registro Público de Prestadores Institucionales de Salud Acreditados.
+Se agrega que, considerando la presencia y éxito del negocio desarrollado por la sociedad, el valor de mercado de las acciones hoy supera ampliamente su valor de costo tributario.
 
-En cuanto a las actividades de extensión, la presentación complementaria de fecha 29.03.2017 agrega que dichas actividades se materializan a través de charlas, talleres, pasantías, seminarios y congresos médicos efectuados en dependencias del Hospital.
+Tras señalar otros antecedentes de contexto y transcribir el inciso quinto del artículo 64 del Código Tributario, la parte pertinente de la Circular N° 45 del año 2001 y mencionar los artículos 96 y 98 de la Ley de Mercado de Valores, que definen los conceptos de &ldquo;grupo empresarial&rdquo; y &ldquo;acuerdo de actuación conjunta&rdquo; respectivamente, se configuraría en la especie un &ldquo;grupo empresarial&rdquo; por el acuerdo de actuación conjunta que habría existido durante más de 20 años entre los empresarios individuales y la sociedad anónima constituida por ellos.
 
-La misma presentación complementaria informa que también se desarrollan actividades de investigación, lo cual se acredita con la adjudicación de fondos FONDECYT para el desarrollo de trabajos de medicina y otras disciplinas vinculadas a la salud, donde participan alumnos y profesores de la Universidad, sin perjuicio de una serie de investigaciones y centros dedicados al mismo fin.
+Luego, bajo la premisa que los accionistas chilenos y la sociedad anónima chilena forman parte de un grupo empresarial, y tras analizar los requisitos del artículo 64, inciso quinto, del Código Tributario y la Circular N° 45 del año 2001, y concluir &ndash; a su juicio &ndash; que se cumplen, solicita confirmar que:
 
-El hospital cuenta con estacionamientos de uso exclusivo para pacientes y sus acompañantes, médicos, profesores y estudiantes del área de salud, los cuales serían imprescindibles para la prestación de los servicios educacionales, de extensión y de investigación de la Universidad, dadas su ubicación y conectividad.
+Los accionistas chilenos, en conjunto con la sociedad anónima chilena, forman un grupo empresarial de aquellos a que se refiere el artículo 64 del Código Tributario.
 
-Por otra parte, informa que el Plan regulador de la Comuna de las Condes, en sus artículos 32 y siguientes, establece que los centros médicos o similares deberán disponer de un estacionamiento por cada 30 m2 de superficie útil.
-
-Conforme lo anterior, solicita que se aplique la exención contemplada en el Párrafo I, Letra B), N° 2 del Cuadro Anexo de la Ley N° 17.235, respecto de los estacionamientos indicados.
-
-Para fundar su petición, hace presente lo resuelto en el Oficio N° 1913 de 2009, en el sentido que la exención en comento se concede no sólo a los establecimientos donde se desarrollen actividades de educación, extensión e investigación, sino también a aquellos que posibiliten o sean necesarios para el desarrollo de éstas.
+Se cumplen los requisitos del artículo 64, inciso quinto, del Código Tributario, y la Circular N° 45 del año 2001, en el sentido que, siendo los aportantes (los tres accionistas chilenos) y la sociedad anónima chilena un grupo empresarial, que aportan a valor tributario las acciones de dicha sociedad a una nueva sociedad que se pretende constituir, este Servicio estaría impedido de ejercer sus facultades de fiscalización del citado artículo.
 
 II ANÁLISIS
 
-Conforme al Párrafo I, Letra B), N° 2 del Cuadro Anexo de la Ley N° 17.235 se encuentran exentos del 100% del Impuesto Territorial los bienes raíces pertenecientes a Universidades, Institutos Profesionales y Centros de Formación Técnica, reconocidos por el Ministerio de Educación, de carácter público o privado, respecto de los bienes raíces de su propiedad destinados a educación, investigación o extensión, y siempre que no produzcan renta por actividades distintas a dichos objetos.
+En relación con los criterios que solicita confirmar, y como cuestión previa, debe recordarse que, conforme al artículo 64, inciso quinto, del Código Tributario, no se aplican las facultades de tasación &ldquo;cuando se trate del aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante, sea ésta, individual, societaria, o contribuyente del N° 1 del artículo 58 de la Ley sobre Impuesto a la Renta, que impliquen un aumento de capital en una sociedad preexistente o la constitución de una nueva sociedad y que no originen flujos efectivos de dinero para el aportante, siempre que los aportes se efectúen y registren al valor contable o tributario en que los activos estaban registrados en la aportante. Dichos valores deberán asignarse en la respectiva junta de accionistas, o escritura pública de constitución o modificación de la sociedad tratándose de sociedades de personas.&rdquo;
 
-De acuerdo con el texto anterior, y en lo que interesa al presente análisis, este Servicio ha sistematizado los requisitos de procedencia de la exención [1] en el sentido que los bienes raíces deben cumplir las siguientes condiciones:
+Al respecto, y de acuerdo con la jurisprudencia de este Servicio, no pueden acogerse a la norma citada las &ldquo;personas naturales&rdquo; contribuyentes del Impuesto Global Complementario que aportan sus acciones a una sociedad, &ldquo;toda vez que dicha norma tiene aplicación sólo cuando se trate del aporte que efectúe una empresa individual, una sociedad o un contribuyente del N° 1, del artículo 58 de la Ley sobre Impuesto a la Renta.&rdquo; [1]
 
-Pertenecer a (ser de propiedad de) universidades reconocidas por el Ministerio de Educación de carácter público o privado.
+De lo anterior se sigue que el artículo 64, inciso quinto, del Código Tributario, se aplica respecto de aportes efectuados por una &ldquo;empresa&rdquo;, sea ésta individual, societaria o contribuyente del N° 1 del artículo 58 de la Ley sobre Impuesto a la Renta, lo que excluye a las personas naturales contribuyentes del Impuesto Global Complementario.
 
-Estar destinado a educación, investigación o extensión, y
+Luego, y atendido que en su consulta en parte alguna se precisa cómo tributan los tres empresarios unipersonales, en particular, si sus respectivas participaciones accionarias en TTT se encontraban registradas en la contabilidad de sus correspondientes empresas unipersonales, no es posible confirmar los criterios que señala en su presentación.
 
-El inmueble no debe producir renta por actividades distintas a dichos objetos [2] .
+Por otra parte, lo que hace aplicable al artículo 64, inciso quinto, del Código Tributario no es tanto el concepto de &ldquo;grupo empresarial&rdquo; que pueda extraerse de los artículos 96 y 98 de la Ley de Mercado de Valores sino el hecho que, como se expuso, quienes participan de la reorganización sean en sí mismas &ldquo;empresas&rdquo; las cuales, individualmente consideradas, sean empresas individuales, societarias o contribuyente del N° 1 del artículo 58 de la Ley sobre Impuesto a la Renta, excluyendo personas naturales contribuyentes del Impuesto Global Complementario.
 
-Descontando que en el presente caso se cumple el primer requisito y en el entendido que, conforme lo informado, se cumpla el tercero, resta determinar si el estacionamiento puede entenderse destinado a la educación, investigación o extensión.
+Dicho lo anterior, y sólo en el evento que los empresarios unipersonales a que se refiere su presentación hayan incorporado sus respectivas acciones en TTT a sus correspondientes empresas unipersonales mediante su contabilización o registro, tributando conforme las reglas del Impuesto de Primera Categoría, los aportes de las referidas acciones en la constitución de una nueva sociedad podrían quedar amparados por el artículo 64, inciso quinto, del Código Tributario.
 
-En cuanto al requisito de la letra b) anterior, esta Dirección ha interpretado que la destinación debe ser &ldquo;exclusiva&rdquo; [3] y estar los bienes raíces aplicados o señalados a la educación, investigación o extensión, entendiéndose que cumplen esa destinación aquellos que posibiliten o sean necesarios para llevar a cabo alguno de los objetos señalados [4] .
+Ello, por cierto, siempre que se cumplan los demás requisitos, en particular, la existencia de una legítima razón de negocios, cuestión que no es posible calificar anticipadamente y con el sólo mérito de su presentación, sino que se trata de una materia entregada a las correspondientes instancias de fiscalización.
 
-Luego, dadas las características y ubicación del inmueble en particular, así como las exigencias del plan regulador, es preciso determinar si acaso esos elementos pueden tornar a los estacionamientos como dependencias que posibiliten o sean necesarias para llevar a cabo alguno de los objetos señalados, esto es, educación, investigación o extensión.
-
-Al respecto, y de acuerdo a los antecedentes acompañados, es claro que la ubicación geográfica del hospital y las limitadas vías de acceso obligan a los profesores, alumnos y pacientes a trasladarse fundamentalmente en vehículos motorizados.
-
-Por otra parte, en virtud del plan regulador de la comuna de Las Condes, necesariamente el hospital clínico ha debido considerar cierto número mínimo de estacionamientos porque, de lo contrario, la construcción misma del hospital no habría sido autorizada.
-
-De este modo, y en la medida que los estacionamientos sean necesarios para el funcionamiento mismo del hospital, cuya construcción de otro modo no habría sido autorizada, puede considerarse que son necesarios para el cumplimiento del destino educacional, de investigación o extensión.
+Conforme lo anterior, no es necesario pronunciarse sobre la existencia de un &ldquo;grupo empresarial&rdquo; a la luz de la Ley de Mercado de Valores.
 
 III CONCLUSIÓN
 
-Conforme lo expuesto precedentemente, dadas las características y ubicación del inmueble, así como las exigencias del plan regulador, es posible concluir que los estacionamientos que acceden al hospital clínico se encuentran destinados a la educación, investigación o extensión, en la medida que sean necesarios o permiten el cumplimiento de dichos fines, de conformidad al Párrafo I, Letra B), N° 2 del Cuadro Anexo de la Ley N° 17.235.
+Conforme a lo expuesto se informa que:
+
+Atendido que no se precisa la situación tributaria de los empresarios unipersonales a que alude su presentación, no es posible confirmar los criterios que se solicitan.
+
+Sin embargo, en la medida que los empresarios unipersonales hayan incorporado sus respectivas acciones en TTT a sus correspondientes empresas unipersonales mediante su contabilización o registro, tributando conforme las reglas del Impuesto de Primera Categoría, los aportes de las referidas acciones en la constitución de una nueva sociedad podrían quedar amparados por el artículo 64, inciso quinto, del Código Tributario
+
+Lo anterior, siempre que se cumplan los demás requisitos establecidos en el artículo 64, inciso quinto, del Código Tributario. En particular, que exista una legítima razón de negocios, cuestión entregada a las correspondientes instancias de fiscalización.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1706, de 28.07.2017
+Oficio N° 1854, de 17.08.2017
 
 Subdirección Normativa
 
 Dpto. de Técnica Tributaria
 
-[1] Recientemente, Oficio N° 878 de 2016
-
-[2] Oficio N° 878 de 2016, entre otros.
-
-[3] Oficio N° 1286 de 2008
-
-[4] Oficio N° 1913 de 2009, citado en su presentación
+[1] Oficio N° 115 de 2013

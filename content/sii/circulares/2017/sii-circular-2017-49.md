@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2017
-- Fecha: 2017-10-06
+- Fecha: 2017-09-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu49.pdf
 - Hash SHA-256: c08335d28b10aa86981ef3ff00b10aae994604bfca256e7b0561224f27b15270
 
 ## Resumen
 
-style='margin-bottom:0px;'> Circular N° 50 del 06 de Octubre del 2017 Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a contar del 1° de noviembre de 2016. Fuente: Impuestos Indirectos Sustituye el N° 1 del Capítulo II de la Circular N° 7, de 2017, que Instruye sobre procedimiento a seguir ante presentaciones de revisiones y/o modificación in…
+uestos Indirectos Sustituye el N° 1 del Capítulo II de la Circular N° 7, de 2017, que Instruye sobre procedimiento a seguir ante presentaciones de revisiones y/o modificación individual de avalúos de los bienes raíces y/o de eliminación de la sobretasa del impuesto territorial a los sitios no edificados, propiedades abandonadas y pozos lastreros, en el área urbana, así como respecto de procedimientos iniciados de oficio. Fuente: Subdirección Avaluaciones
 
 ## Referencias detectadas
 

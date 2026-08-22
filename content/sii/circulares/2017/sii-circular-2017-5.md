@@ -11,7 +11,7 @@
 
 ## Resumen
 
-012. Fuente: Subdirección de Avaluaciones Circular N° 6 del 11 de Enero del 2017 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2017. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2017 y el 9 de febrero del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 4 del 11 de Enero del 2017 Establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura e…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2017 y el 9 de febrero del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

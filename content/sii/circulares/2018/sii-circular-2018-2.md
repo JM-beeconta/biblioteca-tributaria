@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2018
-- Fecha: 2018-01-10
+- Fecha: 2018-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu2.pdf
 - Hash SHA-256: 14f70992371d949ac228cf5981271337f13735240800315178f918bcf5402f12
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 3 del 10 de Enero del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2018 y el 9 de febrero del año 2018. Fuente: OFICINA DE GESTIÓN NORMATIVA Tablas de Impuesto Único de Segunda Categoría para el mes de febrero del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 1 del 05 de Enero del 2018 Informa datos relacionados con la aplicación del sistema de corrección…
+acute;N NORMATIVA Tablas de Impuesto Único de Segunda Categoría para el mes de febrero del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

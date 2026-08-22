@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:10px;'> Fuente: Secretaria General Imparte instrucciones sobre la opción de informar al Servicio de Impuestos Internos, con efecto retroactivo, el ingreso diferido por las rentas o cantidades que se mantengan pendientes de tributación, conforme a lo dispuesto en el artículo décimo quinto transitorio de la Ley N° 21.210, sobre modernización tributaria. Fuente: Subdirección de Fiscalización.
+Fuente: Secretaria General Imparte instrucciones sobre la opción de informar al Servicio de Impuestos Internos, con efecto retroactivo, el ingreso diferido por las rentas o cantidades que se mantengan pendientes de tributación, conforme a lo dispuesto en el artículo décimo quinto transitorio de la Ley N° 21.210, sobre modernización tributaria. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

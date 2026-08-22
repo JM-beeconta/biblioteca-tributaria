@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa, Depto. de Normas Internacionales Circular N° 41 del 10 de Agosto del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2017 y el 9 de septiembre del año 2017. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 39 del 28 de Julio del 2017 Ta…
+acute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

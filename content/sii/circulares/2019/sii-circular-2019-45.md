@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2019
-- Fecha: 2019-11-26
+- Fecha: 2019-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu45.pdf
 - Hash SHA-256: c0af1501729a8fde1d1bba995b52b10ac17cd1001496b81f7a487a65e960ec35
 
 ## Resumen
 
-ero de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 46 del 26 de Noviembre del 2019 Complementa Circular N° 42 del 30 de octubre de 2019. Establece procedimiento especial y transitorio para obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente Tabla de cálculos de reajustes, intereses y multas diciembre 2019. Fuente: Subdirección de Fiscalización Circular N° 44 del 11 de Noviembre del 2019 Valor de la Unidad de Fomento para los días compr…
+ute;n de Asistencia al Contribuyente Tabla de cálculos de reajustes, intereses y multas diciembre 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

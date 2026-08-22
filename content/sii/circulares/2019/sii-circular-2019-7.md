@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2019
-- Fecha: 2019-02-13
+- Fecha: 2019-02-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu7.pdf
 - Hash SHA-256: 5aafcbad63092b1a84bf05e5e2981a3ecbb2737464cc8f36a506f7971dd9f7e6
 
 ## Resumen
 
-el 2019 Tabla de cálculos de reajustes, intereses y multas marzo 2019. Fuente: Subdirección de Fiscalización Circular N° 8 del 13 de Febrero del 2019 Modifica . Fuente: Oficina de Gestión Normativa Circular N° 7 del 11 de Febrero del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 6 del 11 de Febrero del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de…
+Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

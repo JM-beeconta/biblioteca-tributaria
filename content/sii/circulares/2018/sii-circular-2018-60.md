@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Refunde y complementa las Circulares N° 54 de 02.10.2009, N° 39 de 13.07.2018 y N° 42 de 09.08.2018, sobre castigo de productos aptos para el consumo humano que hubieren perdido su valor comercial, dificultando o haciendo imposible su comercialización. Fuente: Oficina de Gestión Normativa Circular N° 59 del 27 de Diciembre del 2018 Complementa la Circular N° 31 de 2018, en la parte que instruye sobre las modificaciones incorporadas por la Ley N° 21.047 al artículo 37 del Decreto Ley N° 1.939 de 197…
+Refunde y complementa las Circulares N° 54 de 02.10.2009, N° 39 de 13.07.2018 y N° 42 de 09.08.2018, sobre castigo de productos aptos para el consumo humano que hubieren perdido su valor comercial, dificultando o haciendo imposible su comercialización. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

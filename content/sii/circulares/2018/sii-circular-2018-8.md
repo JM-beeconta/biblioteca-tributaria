@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 9 del 09 de Febrero del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2018 y el 9 de marzo del año 2018. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de marzo del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 7 del 26 de Enero del 2018 Imparte instrucciones relativas a la aplicación de la Convención de L…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de marzo del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

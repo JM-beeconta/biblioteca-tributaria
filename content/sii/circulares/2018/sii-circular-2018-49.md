@@ -11,7 +11,7 @@
 
 ## Resumen
 
-multas noviembre 2018 Fuente: Subdirección de Fiscalización Circular N° 50 del 11 de Octubre del 2018 Aplicación de la Cláusula de la Nación más Favorecida a los convenios que indica Fuente: Subdirección Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 48 del 11 de Octubre del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

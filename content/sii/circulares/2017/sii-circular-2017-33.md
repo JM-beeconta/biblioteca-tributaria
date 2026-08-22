@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2017
-- Fecha: 2017-06-16
+- Fecha: 2017-06-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu33.pdf
 - Hash SHA-256: 96308996231deeb6bb8860390d262eb5aa9405bc680e8d4f46bcb5267034e10f
 
 ## Resumen
 
-Fuente: Asistencia al Contribuyente Circular N° 34 del 16 de Junio del 2017 Norma aplicación de rebajas de avalúo para propiedades destruidas o gravemente dañadas, ubicadas en zona declarada de catástrofe. Fuente: Departamento de Catastro y Tasaciones Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2017 y el 9 de julio del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 32 del 09 de Junio del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de…
+astro y Tasaciones Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2017 y el 9 de julio del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

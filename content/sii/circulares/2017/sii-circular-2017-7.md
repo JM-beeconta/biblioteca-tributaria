@@ -11,7 +11,7 @@
 
 ## Resumen
 
-raíz de la multiplicidad de incendios producidos en el país. Fuente: Impuestos Directos Circular N° 8 del 20 de Enero del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2017 Fuente: Subdirección de Fiscalización Instruye sobre procedimiento a seguir ante presentaciones de revisiones y/o modificación individual de avalúos de los bienes raíces y/o de eliminación de la sobretasa del impuesto territorial a los sitios no edificados, propiedades abandonadas y pozos lastreros, en el área urbana, así como…
+scalización Instruye sobre procedimiento a seguir ante presentaciones de revisiones y/o modificación individual de avalúos de los bienes raíces y/o de eliminación de la sobretasa del impuesto territorial a los sitios no edificados, propiedades abandonadas y pozos lastreros, en el área urbana, así como respecto de procedimientos iniciados de oficio sobre esta materia. Deroga Circular N°54 el 15 de noviembre del 2012. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

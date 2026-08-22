@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2018
-- Fecha: 2018-08-23
+- Fecha: 2018-08-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu43.pdf
 - Hash SHA-256: a35b4c82326cd30c9b01e757762d83e66464958a5da34ff3ad4c26fc72f6c4eb
 
 ## Resumen
 
-ón adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 44 del 23 de Agosto del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas Septiembre 2018 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2018 y el 9 de septiembre del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 42 del 09 de Agosto del 2018 Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributa…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2018 y el 9 de septiembre del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

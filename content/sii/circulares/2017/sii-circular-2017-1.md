@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2017
-- Fecha: 2017-01-11
+- Fecha: 2017-01-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu1.pdf
 - Hash SHA-256: 6ae2a456a3f7e8bbaa581dd1df8a7fda6e9e9839f54b06da34bd7383517c52fb
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 2 del 11 de Enero del 2017 (modificada) Complementa instrucciones impartidas en las Circulares números 20 y 21, ambas de 4 de abril de 2014 Fuente: Oficina de Normas y Casos Especiales Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2017 Fuente: Oficina de Gestión Normativa function ir_anyo(){ va…
+y Casos Especiales Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2017 Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2017');
 
 ## Referencias detectadas
 

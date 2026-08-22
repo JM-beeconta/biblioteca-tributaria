@@ -6,46 +6,93 @@
 - Año: 2018
 - Fecha: 2018-05-23
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja1006.doc
-- Hash SHA-256: 9f11b5352e5d95cf5999178d699a8553340e5ccbfec344a26fa086a25906ae56
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja1018.htm
+- Hash SHA-256: 1142d34e26665a3ef5bf3afe48624355db358de6c7e45b52bfebb9a201307748
 
 ## Resumen
 
-dash; Art. 64 &ndash; Ley sobre Impuesto a las Ventas y Servicios, Art. 8, letra m) &ndash; . (Ord. Nº 1018, de 23-05-2018) | Word Solicita confirmar criterios en el aporte de un centro comercial como establecimiento de comercio. Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; Art. 25 &ndash; Código Civil, Art. 688 &ndash; Circular N° 10, de 2004. (Ord. Nº 1006, de 22-05-2018) | Word Consulta sobre obligación de confeccionar formulario 2890 por parte de los notarios en casos de escrituras púb…
+acute;digo Tributario. Código Tributario &ndash; Nuevo Texto &ndash; Art. 64 &ndash; Ley sobre Impuesto a las Ventas y Servicios, Art. 8, letra m) &ndash; . (Ord. Nº 1018, de 23-05-2018) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":10,"year":2004}
+- {"type":"oficio","number":1095,"year":2017}
+- {"type":"articulo","law":"LIVS","article":"8"}
+- {"type":"articulo","law":"CT","article":"64"}
 
 ## Texto extraído
 
-LE Y SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – ART. 25 – CÓDIGO CIVIL, ART. 688 – CIRCULAR N° 10, DE 2004.
-(ORD. N° 1006, DE 22.05.2018)
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 64 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 8, LETRA M) – OFICIO N° 1095, DE 2017. (Ord. Nº 1018, de 23-05-2018)
 
-Consulta sobre obligación de confeccionar formulario 2890 por parte de los notarios en casos de escrituras públicas de cesión del derecho real de herencia.
+SOLICITA CONFIRMAR CRITERIOS EN EL APORTE DE UN CENTRO COMERCIAL COMO ESTABLECIMIENTO DE COMERCIO.
 
-Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre la obligación de confeccionar formulario 2890 por parte de los notarios en casos de escrituras públicas de cesión del derecho real de herencia .
+Se ha solicitado a este Servicio confirmar ciertos criterios sobre las facultades de tasación contenidas en el artículo 64, inciso quinto, del Código Tributario en el aporte de un centro comercial y si dicho aporte se afecta con Impuesto al Valor Agregado.
+
 I ANTECEDENTES
-De acuerdo a los antecedentes, efectuada una cesión del derecho real de herencia, y en el entendido que la tradición no recae en bienes determinados sino sobre una universalidad jurídica, el notario autorizó la escritura pública correspondiente, pero sin confeccionar el formulario 2890.
-Sin embargo, a l requerirse la inscripción de dicha escritura , el conservador de bienes raíces respectivo habría reparado la inscripción por no adjuntarse el referido formulario.
-Al respecto, tras una serie de consideraciones y la cita de una sentencia de la Corte Suprema, en el sentido que el objeto de la cesión del derecho real de herencia se constituye por la universalidad o cuota que al cedente corresponde en el conjunto de bienes, derechos y obligaciones que comprende el haber hereditario, y no sobre bienes determinados, esa Dirección Regional concluye que no existe obligación del notario de informar por medi o del señalado formulario 2890 la cesión del derecho real de herencia.
-No existiendo un pronunciamiento al respecto y en la necesidad de uniformar procedimientos entre las distintas Direcciones Regionales, solicita confirmar si el respectivo notario se encuentra o no obligado a completar el formulario 2890 en el caso de una cesión del derecho real de herencia, que recae sobre una universalidad jurídica.
+
+De acuerdo con su presentación, la sociedad anónima abierta que representa (en adelante, XXXXX) es una sociedad que opera como matriz de un grupo económico que explota activos inmobiliarios en Chile y en el extranjero como operadora de un centro comercial. Su giro principal y efectivo es la explotación del centro comercial denominado &ldquo;TTTT&rdquo;.
+
+La actual estructura de XXXXX generaría varios inconvenientes para eventuales futuras asociaciones con terceros y, desde el punto de vista del riesgo que conlleva cada negocio (malls, hoteles y otros proyectos mixtos). Esta estructura implica que, en caso de alguna contingencia, la sociedad deba responder con todos sus activos, razón por la cual resulta necesario separar los riesgos y limitar el espectro de bienes sujetos a responsabilidad.
+
+Por otra parte, la separación es necesaria para permitir el ingreso de socios y/o financiamiento exclusivamente a la actividad de su interés.
+
+En virtud de lo anterior, XXXXX está analizando la reorganización de la estructura societaria del grupo para separar las líneas de negocio (malls, stripcenter, outlet y hotel), tanto en Chile como en el extranjero.
+
+Como parte de la referida reorganización, XXXXX aportaría el TTTT en la constitución de una sociedad o como aumento de capital de una sociedad existente. Por acto separado, se aportarían derechos sociales y/o acciones de las filiales y coligadas en las que participa XXXXX a una nueva sociedad o a una ya existente, con el objeto de separar los distintos formatos de negocio.
+
+Los aportes se realizarían al valor tributario en que estaban registrados en XXXXX, sin originar flujos de dinero efectivo y subsistiendo la sociedad aportante.
+
+En relación con lo expuesto, se solicita confirmar los siguientes criterios:
+
+a) El aporte del TTTT, incluyendo el inmueble, los contratos de arriendo, garantías y todos los derechos u obligaciones que están vinculados a dicho establecimiento, constituye un aporte de un establecimiento de comercio y como tal, puede ser considerado como un activo para efectos de lo dispuesto en el inciso quinto del artículo 64 del Código Tributario.
+
+b) En el contexto expuesto, el aporte del señalado establecimiento de comercio, de las participaciones sociales en las filiales y eventualmente, de otros activos, a una nueva sociedad o a una ya existente, es una reorganización empresarial que obedece a una legítima razón de negocios de conformidad con el inciso quinto del artículo 64 del Código Tributario.
+
+c) El aporte del establecimiento de comercio que se indica, a una nueva sociedad o a una ya existente, no se encuentra afecto al Impuesto al Valor Agregado.
+
 II ANÁLISIS
-A propósito de los efectos tributarios de la cesión del derecho real de herencia frente al Impuesto a las Herencias, este Servicio ha señalado que lo cedido es “la totalidad de los derechos” hereditarios en la respectiva herencia. “Luego, siendo la herencia un derecho real que recae sobre el patrimonio del difunto, esto es, sobre todos sus derechos y obligaciones transmisibles considerados unitariamente o sobre una parte alícuota de la herencia , en la cesión del derecho real de herencia se enajena la totalidad o cuota (según el caso) que al heredero le corresponde en la “universalidad patrimonial del difunto” y no bienes determinados . Como señala la doctrina, “los bienes singulares del haber hereditario considerados individualmente no son objeto de esta cesión” .”
-Este criterio ha sido reconocido por este Servicio al resolver que, mediante la cesión de los derechos hereditarios, una persona “no ha transferido el dominio de algunas acciones o bienes determinados a la sociedad XXXXX S.A., sino que ha transferido a ésta sus derechos hereditarios en una universalidad de bienes que conforman la masa hereditaria dejada por la causante, doña XXXXXXX, es decir, la universalidad jurídica denominada derechos hereditarios, [que] no puede ser confundida con los bienes que la componen.”
-Acogiendo la doctrina citada, este Servicio interpretó que “en la cesión del derecho real de herencia no es necesario realizar previamente las inscripciones que ordena el artículo 688 del Código Civil para que los herederos puedan disponer de los bienes (raíces) incluidos en la herencia . Luego, tampoco es aplicable la limitación dispuesta en el artículo 25 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, máxime si, como se ha dicho, en virtud de la cesión del derecho real de herencia no se disponen bienes determinados.”
-Tendiendo presente lo anterior, cabe señalar que el formulario 2890 está destinado a declarar la “enajenación e inscripción de bienes raíces” , desprendiéndose de los diversos “campos” a completar en el formulario como de las instrucciones impartidas en la Circular N° 10 de 2004, que dicha declaración (formulario 2890) debe confeccionarse cuando se trata de la enajenación de bienes raíces “ determinados ” , sean enajenados por el propietario o por los causantes (se entiende, en este segundo caso, cuando los causantes enajenan, individualmente o de consuno, un bien raíz determinado).
-En consecuencia, en la medida que el formulario 2890 debe completarse en la enajenación de bienes raíces determinados, este Servicio entiende que el notario respectivo no se encuentra obligado a confeccionarlo cuando se trata de la ce sión d el derecho real de herencia, por cuanto en este caso no se enajenan bienes determinados (de ninguna naturaleza) sino que todo o una parte (cuota) del “patrimonio” del difunto.
+
+Respecto del primer criterio que solicita confirmar, cabe tener presente que este Servicio, a falta de definición legal y siguiendo la doctrina, ha señalado que un establecimiento de comercio entraña &ldquo;un conjunto de bienes, tanto corporales como incorporales, que considerados como un todo están destinados a cumplir con la función económica de la empresa, encontrándose sometidos a un régimen jurídico propio, independiente de cada uno de sus elementos.&rdquo;
+
+Dentro del conjunto de bienes que integran el establecimiento de comercio &ldquo;se distinguen bienes de naturaleza corporal tales como mercaderías, mobiliario, instalaciones, maquinarias, vehículos, etc. y otros que son de naturaleza incorporal como el nombre comercial, las marcas, las patentes de invención y los dibujos o modelos industriales, la enseñanza y el lema, la clientela, el derecho de llaves, el derecho al local, etc.&rdquo;
+
+En el caso propuesto, en la medida que lo aportado sea un inmueble junto con una serie de otros bienes incorporales vinculados a la operación y funcionamiento de un centro comercial, en principio puede estimarse que lo aportado es un &ldquo;establecimiento de comercio&rdquo; .
+
+Dicho lo anterior, resta determinar si el referido aporte puede enmarcarse bajo lo dispuesto en el inciso quinto del artículo 64 del Código Tributario, que inhibe a este Servicio de ejercer sus facultades de tasación cuando, entre otros requisitos, se verifique el &ldquo;aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante&rdquo;.
+
+Al respecto, para que el aporte del &ldquo;establecimiento de comercio&rdquo; pueda, en el presente caso, encuadrarse dentro del artículo 64, inciso quinto, del Código Tributario, es necesario que sólo envuelva &ldquo;activos&rdquo; (de cualquier clase) y no garantías u obligaciones vinculadas al establecimiento de comercio, en la medida que dichos elementos no constituyan &ldquo;activos&rdquo;. En caso contrario, no se cumple uno de los requisitos establecidos en el inciso quinto del artículo 64 del Código Tributario, pudiendo este Servicio ejercer sus facultades de tasación.
+
+En cuanto al segundo criterio que solicita confirmar, y por tratarse de una cuestión eminentemente de hecho, este Servicio ha señalado que no es posible calificar anticipadamente y con el sólo mérito de la presentación si una determinada reorganización empresarial obedece a una legítima razón de negocios de conformidad con el inciso quinto del artículo 64 del Código Tributario, materia que queda por tanto entregada a las correspondientes instancias de fiscalización .
+
+En cuanto al tercer criterio que solicita confirmar, esto es, que el aporte del establecimiento de comercio a una nueva sociedad o a una ya existente no se encuentra afecto al Impuesto al Valor Agregado, se informa lo siguiente.
+
+Como este Servicio ha tenido oportunidad de resolver recientemente en el Oficio N° 1095 de 2017, a propósito de los establecimientos de comercio, &ldquo;la única norma legal, que en forma expresa grava con Impuesto al Valor Agregado la venta de una universalidad es el Art. 8°, letra f), del D.L. N° 825, pero sólo si ésta contiene bienes muebles o inmuebles de su giro, entendiéndose por tales a aquellos respecto de los cuales la sociedad o comunidad era vendedora, constituyendo la base imponible de la operación el valor de dichos bienes.&rdquo;
+
+Luego, precisa el oficio citado, la &ldquo;venta del predio en cuestión [que forma parte de una universalidad] no se encontraría afecta a IVA, por no comprender la operación bienes corporales muebles o inmuebles del activo realizable del contribuyente vendedor, ya que según lo manifestado en su presentación éstos formarían parte de su activo fijo.&rdquo;
+
+En consecuencia, siguiendo el mismo criterio contenido en las conclusiones del oficio referido, si el aporte del centro comercial se realiza como una universalidad que comprende un inmueble y demás bienes o derechos que conforman el establecimiento de comercio, el aporte no se encontrará afecto a Impuesto al Valor Agregado, según las normas contenidas en el artículo 8°, letra f), de la Ley sobre Impuesto a las Ventas y Servicios, por no comprender la operación bienes corporales muebles o inmuebles del activo realizable del contribuyente vendedor, ya que los bienes que componen la universalidad formarían parte del activo fijo de éste.
+
+Finalmente, si el aporte no es efectuado como una universalidad, deberá analizarse la transferencia de cada uno de los bienes a la luz de las normas de la Ley sobre Impuesto a las Ventas y Servicios, para determinar si se encuentra afecto a Impuesto al Valor Agregado, en cuyo caso el aporte de los bienes del activo fijo, ya sean muebles o inmuebles, se encontrará gravada conforme al artículo 8°, letra m), del cuerpo legal citado, en la medida que el contribuyente haya tenido derecho a crédito fiscal por la adquisición, importación, fabricación o construcción de dichos bienes.
+
 III CONCLUSIÓN
 
-Conforme lo expuesto precedentemente, y en relación con su consulta, se informa que:
-En la cesión del derecho real de herencia se enajena la totalidad o cuota (según el caso) que al heredero le corresponde en la “universalidad patrimonial del difunto” y no bienes determinados.
-Por su parte, el formulario 2890 está destinado a declarar la enajenación e inscripción de bienes raíces “determinados”.
-En consecuencia, este Servicio estima que no procede confeccionar el formulario 2890 cuando se trata de ceder el derecho real de herencia.
+Conforme lo expuesto precedentemente, se informa que:
+
+a) Si el aporte de un centro comercial se realiza como un establecimiento de comercio que comprende un inmueble y demás activos de cualquier clase, no es susceptible de tasación por aplicación del artículo 64, inciso quinto, del Código Tributario.
+
+Lo anterior no es válido si el aporte comprende elementos que no califican como activos de cualquier clase, por incumplirse uno de los requisitos establecidos en el inciso quinto del artículo 64 del Código Tributario, pudiendo este Servicio ejercer sus facultades de tasación.
+
+Por tratarse de una cuestión eminentemente de hecho, este Servicio no puede calificar anticipadamente y con el sólo mérito de la presentación si la reorganización empresarial propuesta obedece a una legítima razón de negocios.
+
+b) El aporte del centro comercial, en caso de conformar un establecimiento de comercio, no se grava conforme a lo dispuesto en el artículo 8°, letra f), de la Ley sobre Impuesto a las Ventas y Servicios, en la medida que el aporte del centro comercial no envuelva bienes muebles o inmuebles de su giro.
+
+Si el aporte del centro comercial no es efectuado como una universalidad, deberá analizarse la transferencia de cada uno de los bienes a la luz de las normas de la Ley sobre Impuesto a las Ventas y Servicios, para determinar si se encuentra afecta a Impuesto al Valor Agregado, en cuyo caso el aporte de los bienes del activo fijo, ya sean muebles o inmuebles, se encontrará gravada conforme al artículo 8°, letra m), del cuerpo legal citado, en la medida que el contribuyente haya tenido derecho a crédito fiscal por la adquisición, importación, fabricación o construcción de dichos bienes.
 
 FERNANDO BARRAZA LUENGO
+
 DIRECTOR
 
-Oficio N° 1006, de 22.05.2018
+Oficio N° 1018, de 23.05.2018
+
 Subdirección Normativa
+
 Dpto. de Técnica Tributaria

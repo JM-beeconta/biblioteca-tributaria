@@ -6,148 +6,85 @@
 - Año: 2017
 - Fecha: 2017-06-01
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1093.doc
-- Hash SHA-256: 4569d84d745938fddde344e5977f7c3370dff8a6a8524d20e1c21e141b30b1ed
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1209.htm
+- Hash SHA-256: 0f3abed0670dbe70acb66fdba8a57b61f47b43b4bb6c467512ad6d7541a7b0e0
 
 ## Resumen
 
-y N° 16.271, Art. 24 &ndash; . (Ord. Nº 1209, de 01-06-2017) | Word Consulta tratamiento tributario de donación recibida en Paraguay. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Letra A), N°2 &ndash; Ley N° 20.780, de 2014 &ndash; Circulares N° 13 y 15 de 2014. (Ord. Nº 1093, de 23-05-2017) | Word Requisitos para que aportes a sociedades de personas puedan ser considerados como una reinversión de rentas, de acuerdo a lo instruido mediante Circulares N°s 13 y 15, de 2014, para efectos de lo dispue…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°9 &ndash; Ley N° 16.271, Art. 24 &ndash; . (Ord. Nº 1209, de 01-06-2017) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":13,"year":2014}
-- {"type":"circular","number":15,"year":2014}
-- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"oficio","number":1702,"year":2016}
+- {"type":"oficio","number":1619,"year":2013}
+- {"type":"oficio","number":3924,"year":2000}
+- {"type":"articulo","law":"LIR","article":"17 N"}
+- {"type":"articulo","law":"LIR","article":"3"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, LETRA A), N°2 – LEY N°
-     20.780, DE 2014 – CIRCULARES N° 13 Y 15 DE 2014. (ORD. N° 1093, DE
-                                 23.05.2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°9 – LEY N° 16.271, ART. 24 – OFICIO N° 1702, DE 2016. (Ord. Nº 1209, de 01-06-2017)
 
+CONSULTA TRATAMIENTO TRIBUTARIO DE DONACIÓN RECIBIDA EN PARAGUAY.
 
+Se ha solicitado a este Servicio confirmar el tratamiento tributario que tendría una donación recibida en Paraguay consistente en dinero, acciones e inmuebles, todos bienes situados en dicho país.
 
-Requisitos  para  que  aportes  a  sociedades   de   personas   puedan   ser
-considerados como una reinversión de  rentas,  de  acuerdo  a  lo  instruido
-mediante Circulares N°s 13 y 15, de 2014, para efectos de  lo  dispuesto  en
-el artículo 14, de la Ley sobre Impuesto a la Renta.
+I ANTECEDENTES
 
+De acuerdo a su presentación, se encuentra asesorando a un cliente de nacionalidad paraguaya, domiciliado y residente en Chile desde el año 2009, quien recibirá en Paraguay &ndash; previo cumplimiento de los trámites correspondientes a la legislación de ese país &ndash; una donación de su madre, consistente en dinero, acciones de sociedades domiciliadas en Paraguay e inmuebles situados en el referido país.
 
-Se ha solicitado a este Servicio un pronunciamiento sobre la  forma  en  que
-pueden ser efectuados los aportes  a  una  sociedad  de  personas  para  que
-puedan ser considerados como una reinversión de  rentas,  de  acuerdo  a  lo
-instruido en las Circulares N°s. 13 y 15, ambas de 2014, para efectos de  lo
-dispuesto en el artículo 14, de la Ley sobre Impuesto a la Renta (LIR).
+Agrega que la donante también tiene nacionalidad paraguaya y que jamás ha tenido domicilio ni residencia en Chile. Tampoco ha tenido inversiones en nuestro país ni ha obtenido rentas de fuente chilena, de suerte que todos los bienes que pretende donar a su hijo han sido adquiridos con rentas generadas en Paraguay.
 
-I.- ANTECEDENTES.
+Al respecto, tras citar las normas legales pertinentes y lo resuelto en el Oficio N° 1619 de 2013, solicita confirmar que la donación antes descrita:
 
-Señala que de acuerdo a lo expresado en la Circular N°13, de 2014, para  que
-los aportes a sociedades  de  personas  puedan  ser  considerados  como  una
-reinversión de rentas en los términos del  artículo  14  de  la  LIR,  deben
-cumplir con las formalidades propias de la constitución o  modificación  del
-contrato social; lo cual fue confirmado en la Circular N° 15 del mismo  año.
-Al respecto, solicita confirmar que los aportes de capital sucesivos que  se
-efectúen en cumplimiento de dichas reformas, efectuados dentro de  un  plazo
-determinado, pueden ser considerados como una  reinversión  conforme  a  esa
-norma legal.
+No se encuentra gravada con el Impuesto establecido en la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones, en la medida que los bienes están situados en el extranjero y no hayan sido adquiridos con recursos provenientes de Chile.
 
-Agrega en este sentido que el inciso primero del artículo  378,  del  Código
-de Comercio, señala que los socios deberán entregar sus aportes en la  época
-y forma estipuladas en el contrato.
+Que el aumento patrimonial experimentado por el donatario como consecuencia de haber percibido una donación en el extranjero en los términos descritos, no constituye renta y por tanto no quedará afecto al Impuesto a la Renta conforme lo dispone el artículo 17 N° 9 de la Ley sobre Impuesto a la Renta.
 
-II.- ANÁLISIS.
+II ANÁLISIS
 
-El N° 2, de la letra A), del artículo 14  de  la  LIR[1],  permite  que  las
-rentas que retiren los contribuyentes del Impuesto Global  Complementario  o
-Impuesto  Adicional,  para  invertirlas  en  otras  empresas   obligadas   a
-determinar su renta efectiva por medio de contabilidad completa con  arreglo
-a las disposiciones de  la  misma  Ley,  no  se  graven  con  los  referidos
-impuestos,  mientras  no  sean  retiradas  de  la  sociedad  que  recibe  la
-inversión o distribuidas por ésta; expresando que una de las formas  en  que
-puede hacerse efectiva dicha inversión, es mediante aportes a  una  sociedad
-de personas, mecanismo denominado como reinversión.
+De acuerdo a la jurisprudencia administrativa de este Servicio [1] , y en virtud de la remisión dispuesta por el artículo 24° de la Ley N° 16.271, &ldquo;resultan aplicables a las donaciones los artículos 1° y 27° del citado cuerpo legal, conforme a los cuales si el causante tuvo su último domicilio en el país quedan afectos al tributo los bienes que se encuentran en el país y en el extranjero, y en caso contrario, únicamente quedan afectos al mismo tributo, los bienes del causante que se encuentran dentro de Chile. La aplicación de las normas señaladas a las donaciones, nos lleva a concluir que, si el donante tiene su domicilio en el país, resultan afectas a impuesto las donaciones de bienes ubicados en el país y en el extranjero. En caso contrario, si el donante no tiene domicilio en Chile, únicamente se aplica el impuesto respecto de donaciones de bienes ubicados en el país.&rdquo;
 
-De esta forma, una de las exigencias que la Ley establece para suspender  la
-aplicación de los impuestos finales, es que la  inversión  deba  realizarse,
-entre  otras  formas  que  indica,  mediante  “aportes  a  una  sociedad  de
-personas”. En relación al término aporte que contempla la norma legal,  debe
-considerarse que de acuerdo a lo dispuesto en los artículos 2053 y 2055  del
-Código Civil, los aportes son precisamente las cosas que  los  socios  ponen
-en común y que en su conjunto forman el capital social, sin  los  cuales  no
-hay sociedad; y por su parte, en relación  a  los  aportes  a  los  que   se
-obligan los socios de una sociedad colectiva comercial, el artículo 378  del
-Código de Comercio, dispone que deberán entregar sus aportes en la  época  y
-forma estipuladas en  el  contrato.  Por  consiguiente,  dichos  aportes  de
-capital pueden acordarse  tanto  en  la  escritura  de  constitución  de  la
-sociedad, como en posteriores escrituras de modificaciones sociales.
+En consecuencia, reiterando el criterio precedente al caso planteado es posible concluir que no se encuentra gravada con el Impuesto a las Donaciones la donación en que, como se expone en su presentación:
 
-Cabe señalar al respecto, que en la Circular N° 13 de 2014  se  instruyó  en
-el sentido que, para que los aportes efectuados  a  sociedades  de  personas
-puedan ser considerados como una reinversión en los términos  que  establece
-el artículo 14 de la LIR, deben cumplir con las formalidades propias  de  la
-constitución o modificación  del  contrato  social,  según  corresponda,  de
-acuerdo al tipo social de que se trate, en los mismos términos señalados  en
-el N° 3), de la letra B), del N° 4, del Capítulo II de la misma Circular.
+El donante es una persona domiciliada y residente en Paraguay
 
-Por otra parte, mediante la Circular N° 15 de 2014, se aclaró y precisó  que
-estas  nuevas  instrucciones,  respecto   de   la   forma   en   que   deben
-materializarse  los  aportes  a  sociedades  de  personas  financiados   con
-reinversiones de utilidades tributables,  resultan  aplicables  sólo  a  los
-retiros que se destinen a reinversión efectuados a contar de la  publicación
-en extracto en el Diario Oficial de la Circular N° 13,  lo  que  ocurrió  el
-día 12 de marzo de 2014.
+La donataria es una persona de nacionalidad paraguaya, pero domiciliada y residente en Chile;
 
-De esta manera, si en uso de la autonomía de la voluntad, los socios  pactan
-en la escritura de constitución o en escrituras posteriores de  modificación
-de estatutos que los aportes se enterarán en arcas  sociales  dentro  de  un
-determinado  plazo,  dicho  acuerdo  sirve  para  dar  cumplimiento   a   la
-instrucción contenida en las Circulares recién citadas,  en  el  sentido  de
-que los aportes cumplan con la formalidad propia del tipo social de  que  se
-trate.
+La donación recae sobre bienes situados en Paraguay;
 
-Posteriormente, los  socios  en  cumplimiento  del  referido  pacto  social,
-podrán materializar su aporte entregándolo a la sociedad  dentro  del  plazo
-pactado, y estos aportes podrán constituir reinversión en los  términos  del
-artículo 14 de la LIR, siempre que se cumpla  además  con  todos  los  otros
-requisitos establecidos en dicha norma, y en particular, que  no  transcurra
-un plazo superior a 20 días corridos entre la fecha en  que  se  efectúa  el
-retiro desde la sociedad  fuente  y  la  materialización  del  aporte  a  la
-sociedad receptora.
+La donación ha sido efectuada con fondos de fuente extranjera del donante.
 
-Se hace presente que las reinversiones sólo pudieron  ser  efectuadas  hasta
-el 31.12.2016, atendido que el actual texto  del  artículo  14  de  la  LIR,
-fijado por la Ley N° 20.780, no contempla tal posibilidad.
+Lo anterior, por cierto, será válido en la medida que el acto jurídico o contrato celebrado en Paraguay no sólo cumpla con las disposiciones legales de dicho país sino además pueda calificar como donación de acuerdo a nuestra legislación.
 
-III.- CONCLUSIÓN.
+Respecto del tratamiento tributario que tendría la referida donación en frente de la Ley sobre Impuesto a la Renta, este Servicio ha resuelto que, en el caso de donaciones recibidas desde el exterior, es aplicable lo dispuesto en el artículo 17 N° 9 de la Ley de la Renta, en el sentido que constituye ingreso no renta la adquisición de bienes por donación [2] .
 
-De acuerdo a lo expuesto anteriormente, sólo cabe confirmar el criterio  que
-indica en su requerimiento, en el sentido que los sucesivos aportes  que  se
-hayan efectuado a una sociedad de personas, representativos de  una  reforma
-de un contrato social de  aumento  de  capital  o  de  constitución  de  una
-compañía, cumpliendo las formalidades legales  correspondientes,  según  sea
-el tipo social de que se trate, y que se  hayan  efectuado  en  un  plazo  a
-contar de  la  modificación  o  constitución  de  la  compañía,  pueden  ser
-considerados como una reinversión de rentas para los  efectos  previstos  en
-el N° 2, de la letra A), del  artículo  14  de  la  LIR,  vigente  hasta  el
-31.12.2016.
+El mismo criterio debe entenderse aplicable al caso que, como ocurre en la especie, la donación se reciba en el extranjero, respecto de bienes también situados en el extranjero.
 
+Con todo, siendo el donatario una persona con domicilio o residencia en Chile, afecta a tributación por sus rentas de cualquier origen, sea que la fuente de entradas se encuentre situada dentro del país o fuera de él (artículo 3° de la Ley sobre Impuesto a la Renta), quedarán gravados conforme las reglas generales los réditos, intereses o rentas obtenidas a partir de los bienes donados, una vez que éstos ingresen al patrimonio del donatario.
 
+Asimismo, y a modo ejemplar, cabe señalar que, por comprender bienes inmuebles la donación descrita en su presentación, el mayor valor obtenido en su enajenación quedará afecto al tratamiento tributario que establece la legislación chilena [3] .
 
+III CONCLUSIÓN
 
+Conforme lo expuesto precedentemente se puede confirmar que la donación recibida en Paraguay, de acuerdo a los hechos descritos en su presentación:
 
-                           FERNANDO BARRAZA LUENGO
-                                  DIRECTOR
+No se encuentra gravada con el Impuesto establecido en la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones.
 
+El aumento patrimonial experimentado por el donatario como consecuencia de haber percibido una donación en el extranjero, no constituye renta conforme lo dispone el artículo 17 N° 9 de la Ley sobre Impuesto a la Renta.
 
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 1209, de 01.06.2017
 
+Subdirección Normativa
 
+Dpto. de Técnica Tributaria
 
-                        Oficio N° 1093, de 23.05.2017
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] En su texto vigente desde el 1° de enero de 2015 y hasta el  31.12.2016,
-de acuerdo a lo dispuesto por  el  artículo  segundo  de  las  disposiciones
-transitorias de la Ley N° 20.780.
+[1] Oficio N° 3924 de 2000.
+
+[2] Oficios N° 1156 de 2002 y N° 2633 de 2004.
+
+[3] Oficio N° 1702 de 2016.

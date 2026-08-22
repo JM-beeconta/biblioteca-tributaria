@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2018
-- Fecha: 2018-02-15
+- Fecha: 2018-02-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu9.pdf
 - Hash SHA-256: 2421c6fc965f6a5a1badb2ccc236aa80085501e7f028fd84d8d7eb5f36b75b4a
 
 ## Resumen
 
-N°2 letra c) de la Ley sobre Impuesto a la Renta Fuente: Oficina de Gestión Normativa Circular N° 10 del 15 de Febrero del 2018 Tabla de cálculos de reajustes, intereses y multas Marzo 2018 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2018 y el 9 de marzo del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 8 del 09 de Febrero del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo del año 2018, e informa…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2018 y el 9 de marzo del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

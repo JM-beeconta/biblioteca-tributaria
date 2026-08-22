@@ -6,67 +6,107 @@
 - Año: 2017
 - Fecha: 2017-12-07
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2595.htm
-- Hash SHA-256: ea1f2e810a61e9e6746e4f6197f43f5090c7b568a57daf70ed484b36bceb11f0
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2596.htm
+- Hash SHA-256: e143b60291a3490d827e06e0505af6dd4a3ec16c4e21dfe32abac7f70af9c8be
 
 ## Resumen
 
-s &ndash; Art. 8, Art. 12, Letra E, N°8 &ndash; . (Ord. Nº 2596, de 07-12-2017) | Word Diversas consultas sobre el servicio de intermediación de Rentas Vitalicias, en relación al servicio de Asesoría Previsional. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12, Letra E, N°11 &ndash; Ley N° 20.899, de 2016. (Ord. Nº 2595, de 07-12-2017) | Word Solicita un pronunciamiento sobre alcance de la exención del artículo 12° letra E, N° 11 del D.L. N° 825, de 1974. Ventas y Ser…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, Art. 12, Letra E, N°8 &ndash; . (Ord. Nº 2596, de 07-12-2017) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"oficio","number":3288,"year":2009}
+- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIR","article":"42"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12, LETRA E, N°11 – LEY N° 20.899, DE 2016. (Ord. Nº 2595, de 07-12-2017)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, ART. 12, LETRA E, N°8 – OFICIO N° 3288, DE 2009. (Ord. Nº 2596, de 07-12-2017)
 
-SOLICITA UN PRONUNCIAMIENTO SOBRE ALCANCE DE LA EXENCIÓN DEL ARTÍCULO 12° LETRA E, N° 11 DEL D.L. N° 825, DE 1974.
+DIVERSAS CONSULTAS SOBRE EL SERVICIO DE INTERMEDIACIÓN DE RENTAS VITALICIAS, EN RELACIÓN AL SERVICIO DE ASESORÍA PREVISIONAL.
 
-Se ha solicitado a esta Dirección Nacional pronunciarse sobre el alcance de la exención del artículo 12°, letra E, N° 11 del D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, respecto del arrendamiento con opción de compra de inmueble Municipal.
+Se ha recibido en esta Dirección Nacional su presentación del antecedente, mediante la cual expone una serie de consultas en relación al servicio de intermediación financiera.
 
 I.- ANTECEDENTES:
 
-Señala en su presentación, que la Ilustre Municipalidad de XXX, pretende llevar a votación del Concejo Municipal una operación de leaseback en la cual se enajenaría el inmueble municipal situado en xxxxxxxxx, inmueble que corresponde a un edificio donde funcionan diversas direcciones municipales, cuyos roles de avalúo son el xxx y xxxx.
+Desde la entrada en vigencia de la Ley N° 20.255, en virtud de la cual se establece la figura del Asesor Previsional y de las Entidades Previsionales, para mejorar el funcionamiento del Sistema de Pensiones, es que han surgido varias interrogantes derivadas de la implementación de la misma y de la interacción que esta ley tiene con otras, las que han sido contestadas por las diferentes Superintendencias y Autoridades en general de forma independiente, pero que requieren, a su juicio, de respuestas en conjunto e inequívocas en beneficio de los partícipes del Sistema de Pensiones y en especial de los afiliados.
 
-Agrega que, para el adecuado análisis de la operación y el debido resguardo de los intereses de los vecinos, es indispensable contar con todos los elementos necesarios para evaluar esta alternativa, y por ello es que requieren que este Servicio pueda pronunciarse y aclarar el alcance de la exención del artículo 12, letra E, N° 11 del D.L. N° 825, bajo el actual esquema modificado por la Ley N° 20.899, que simplifica el Sistema de Tributación a la Renta y Perfecciona otras Disposiciones Legales Tributarias.
+En atención a ello, la presentación fue efectuada conjuntamente a la Superintendencia de Pensiones, Superintendencia de Valores y Seguros y Servicio de Impuestos Internos.
+
+Es así como requiere un pronunciamiento de las tres autoridades sobre sobre lo siguiente:
+
+&iquest;Es el servicio de intermediación de Rentas Vitalicias considerado parte de la Asesoría Previsional o ambas son consideradas dos actividades independientes?
+
+Si se considera la intermediación de Rentas Vitalicias como parte de la Asesoría Previsional, correspondiente a una actividad del Art. 20, N° 5 (oficio 3288, de 12/11/20089), por favor confirmen lo siguiente:
+
+1.- Esta intermediación correspondería también a una actividad del Art. 20, N° 5 y no estaría afecto a IVA, en caso de ser realizado por una persona natural o Entidad Previsional.
+
+2.- La Asesoría Previsional incluida la intermediación de Rentas Vitalicias tendría el tope de 60 UF.
+
+&ldquo;Con todo, los honorarios totales por concepto de asesoría previsional no podrán superar el 2% de los fondos de la cuenta de capitalización individual del afiliado destinados a pensión, con exclusión de aquellos que eran susceptibles de ser retirados como excedente de libre disposición, ni podrán exceder un monto equivalente a 60 UF&rdquo;.
+
+3.- Debido a que es considerado Asesoría Previsional, contratado por el afiliado, corresponde a un gasto del afiliado y por tanto la boleta por el servicio completo debe ser emitida a nombre del afiliado.
+
+Si la intermediación de Rentas Vitalicias no se considera como parte de la Asesoría Previsional y se considera como una actividad completamente diferente, es decir, del Art. 20, N° 4. Por favor confirmen lo siguiente:
+
+1.- La norma distingue el pago de 1,2% por concepto de asesoría previsional en retiro programado y para la renta vitalicia, que llama intermediación o retribución, un tope máximo de 2%.
+
+2.- La comisión y/o retribución NO podría estar afecta al tope considerado en el Art. 179, inciso tercero ya que éste establece que &ldquo;Con todo, los honorarios totales por concepto de asesoría previsional no podrán superar el 2% de los fondos de la cuenta de capitalización individual del afiliado destinados a pensión, con exclusión de aquellos que eran susceptibles de ser retirados como excedente de libre disposición, ni podrán exceder un monto equivalente a 60 U.F.&rdquo; y la Asesoría Previsional es diferente a la intermediación de Rentas Vitalicias y la norma nada dice con respecto a las comisiones y/o retribuciones totales por concepto de intermediación de Rentas Vitalicias.
+
+3.- La comisión y/o retribución percibida por concepto de Intermediación de Renta Vitalicia estaría afecta a IVA, en caso de ser realizada por una entidad previsional. (oficio N° 3288, de 12/11/2009)
+
+4.- Como la Intermediación de Rentas Vitalicias es un gasto de las Compañías asociado a la venta de la póliza, corresponde que la boleta del Asesor o Entidad Previsional sea emitida a nombre de la Compañía de Seguros por este monto.
+
+5.- El monto de estas comisiones y/o retribuciones son de cargo de las compañías (Resolución 10552 Spensiones y SVS del 2/6/2014), y como tal corresponde emitir la boleta a nombre de la emisora de la póliza. Sin embargo, si la comisión y/o retribución se rebaja de los fondos previsionales del afiliado (lo que sucede hoy), la intermediación pasa a ser una variable que afecta el monto de la pensión de éste convirtiéndose en un gasto del afiliado y no de la compañía con lo cual correspondería realizar la boleta a nombre del afiliado.
+
+6.- Si el monto de las comisiones y/o retribuciones son de cargo de las compañías, su existencia, entonces, no afecta el monto de la pensión del afiliado, por tanto, no corresponde que exista la leyenda del SCOMP que indica &ldquo;su pensión podría aumentar en la medida que esta comisión no exista o sea inferior a la señalada&rdquo;.
 
 II.- ANÁLISIS:
 
-En efecto, y como se indica en su presentación, con ocasión de la entrada en vigencia de la Ley N° 20.899, se modificó entre otras, la exención establecida en el N° 11 de la letra E, del artículo 12° de la Ley sobre Impuesto a las Ventas y Servicios. Tratándose de los arrendamientos de inmuebles con opción de compra, la modificación implicó incorporar en el N° 11 de la letra E, a continuación de la expresión &ldquo;sin perjuicio de lo dispuesto en la letra g) del artículo 8°&rdquo;, la frase: &ldquo;y los contratos de arriendo con opción de compras de bienes corporales inmuebles, siempre que en la adquisición de los bienes objeto del contrato que haya precedido inmediatamente al contrato de arriendo, no se haya recargado impuesto al valor agregado, por tratarse de una venta exenta o no afecta&rdquo;.
+Sobre el particular, cabe manifestar que, de todas las consultas expuestas en su presentación, sólo compete al suscrito pronunciarse respecto de aquellas que dicen relación con normas tributarias, ya que conforme a lo dispuesto en el Art. 6°, letra A), N° 1, del Código Tributario, dentro de las facultades que las leyes confieren al Servicio de Impuestos Internos, corresponde a este Director interpretar administrativamente las disposiciones tributarias.
 
-En consecuencia, a contar del 1° de enero del 2016, fecha de vigencia de las modificaciones incorporadas por las Leyes N° 20.780, del 2014, sobre Reforma Tributaria y N° 20.899, de 2016, de Simplificación de la Reforma, la exención de Impuestos al Valor Agregado establecida en el N° 11, de la letra E, del artículo 12° del D.L. N° 825, de 1974, señala lo siguiente:
+En ese contexto este Servicio ya se había pronunciado [1] sobre la tributación con Impuesto al Valor Agregado que afecta a los servicios de asesoría previsional y de intermediación de Rentas Vitalicias efectuados por asesores previsionales, ya sean personas naturales o jurídicas dedicadas a dicho fin.
 
-&ldquo;Articulo 12°- Estarán exentos del impuesto establecido en este Título:
+Es así como se señaló que en la medida que los servicios proporcionados tanto por la Entidad de Asesoría Previsional como por el Asesor Previsional, sólo importen la entrega de información, recomendaciones o consejos en el ámbito previsional, que se materialicen en informes escritos no vinculantes u obligatorios para el afiliado, corresponderá a actividades de asesoría técnica, las cuales de acuerdo con la reiterada jurisprudencia administrativa de este Servicio, se clasifican en el artículo 20°, N° 5 de la Ley Sobre Impuesto a la Renta, no encontrándose por lo tanto gravadas con Impuesto al Valor Agregado. Ello porque según lo dispuesto en el Art. 8°, del D.L. N° 825, en concordancia con el Art. 2°, N° 2, del mismo texto legal, sólo se gravan con el tributo en comento aquellos servicios cuya remuneración provenga del ejercicio de actividades clasificadas en el Art. 20°, N° 3 o 4, de la Ley sobre Impuesto a la Renta.
 
-&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;
+Respecto de los servicios de intermediación de seguros, el referido oficio se pronunció señalando que en la medida que dicha actividad importara una mediación asalariada a las partes con el fin de facilitarles la conclusión de sus contratos de seguros previsionales, sin que la Entidad Asesora o el Asesor concurra a la celebración del mismo, este Servicio estima que, de conformidad con las instrucciones impartidas a través de la Circular N° 21, de fecha 23-04-1991, la labor desarrollada corresponderá a aquella propia de los corredores, agregando que ésta se encuentra clasificada en el artículo 20°, N° 4 de la Ley sobre Impuesto a la Renta y, por consiguiente gravada con IVA. No obstante, en el caso que dichos servicios sean prestados por personas naturales que por estas labores tributen bajo las normas de la segunda categoría, establecidas en el artículo 42° de la Ley sobre Impuesto a la Renta, su remuneración se encontrará exenta de IVA, por disposición del Art. 12°, letra E), N° 8, del D.L. N° 825.
 
-E. Las siguientes remuneraciones y servicios:
+Hasta aquí, se observa claramente que el análisis efectuado en Ord. N° 3288, de 12/11/2009, para determinar la tributación con impuesto al valor agregado de los servicios prestados por los asesores previsionales, no depende del nombre con que el servicio se denomine, sino que de las actividades que deben llevarse a cabo para realizarlo, razón por la cual, en el caso de las asesorías, éstas sólo pueden calificarse así para efectos tributarios, en la medida que importen la realización de las actividades allí señaladas y no de otras como sería la intermediación de seguros.
 
-&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;
+De hecho, en el mismo oficio se aclaró que en el evento que las diversas prestaciones que efectúen las Entidades de Asesoría Previsional de acuerdo a la Ley y a los contratos de prestación de servicios, sean de carácter indivisible, es decir, cuando no puedan ser identificables en forma clara e independiente cada uno de los servicios prestados, sino que se contraten todos en forma genérica y la contraprestación que se obtenga remunere indistintamente cualesquiera de los servicios contratados -de información o de intermediación- este Servicio entiende que, por tratarse de empresas clasificadas como corredores, que tributarán bajo las normas del artículo 20°, N° 4, de la Ley sobre Impuesto a la Renta, toda la remuneración obtenida en ese caso se encontrará gravadas con IVA, de conformidad con lo dispuesto en el artículo 8, en concordancia con el Art. 2°, N° 2 del D.L. 825, de 1974, por tratarse de remuneraciones obtenidas por actividades de correduría,.
 
-11) El arrendamiento de inmuebles, sin perjuicio de lo dispuesto en la letra g) del artículo 8° y los contratos de arriendo con opción de compra de bienes corporales inmuebles, siempre que en la adquisición de los bienes objeto del contrato que haya precedido inmediatamente al contrato de arriendo, no se haya recargado impuesto al valor agregado por tratarse de una venta exenta o no afecta;&rdquo;
+De lo anterior se desprende que para efectos tributarios resulta indiferente si la intermediación de Rentas Vitalicias es considerada parte de la Asesoría Previsional o no, ya que el hecho que sea considerada parte de ésta como aparentemente se desprende de la parte final del inciso primero del Art. 171, del D.L. N° 3.500 cuestión que debe ser determinada por la autoridad competente, no hace que la remuneración obtenida por ella se encuentre no afecta a IVA. Ello se concluye claramente del tenor del oficio Ord. N° 3288, de 2009.
 
-Por otra parte, la norma legal aludida también modificó la letra l), del artículo 8° de la Ley, estableciendo que se encontrarán gravados con IVA los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles realizados por un vendedor. Por su parte, la Circular N° 13, de 24 de marzo de 2016, de este Servicio, instruyó sobre la calidad de &ldquo;vendedor&rdquo; que debe tener quien realiza estas operaciones para que se configure este hecho gravado especial, señalando que ella se refiere exclusivamente a la habitualidad con que el contribuyente realiza este tipo de operaciones, que para efectos tributarios siempre han sido asimiladas a venta, razón por la cual se usó el concepto &ldquo;vendedor&rdquo;.
+Respecto de la documentación a emitir por la prestación de los mencionados servicios, cabe manifestar que conforme a lo establecido por el Art. 52°, del D.L. N° 825, en concordancia con el Art. 53°, del mismo texto legal, el contribuyente se encuentra obligado a emitir boletas por las operaciones que realice con personas que no sean contribuyentes del impuesto, ya sea de aquellas que dan cuenta de una operación gravada con el tributo o bien de aquellas normadas por la Res. Ex. N° 6080, de 1999, en el caso que la operación se encuentre no gravada o exenta de IVA.
 
-Asimismo, se modificó la letra m), del artículo 8° de la Ley, estableciendo que se encuentra gravada con IVA, la venta de inmuebles que forman parte del activo fijo de los contribuyentes y respecto de los cuales se tuvo derecho a crédito fiscal en su adquisición.
+Ahora bien, en cuanto al sujeto a quien debe emitirse dicho documento tributario, el Art. 69°, del D.L. N° 825, de 1974, dispone en lo pertinente que &ldquo;Las personas que realicen operaciones gravadas con el impuesto de la presente ley, con excepción del que afecta a las importaciones, deberán cargar a los compradores o beneficiarios del servicio, en su caso, una suma igual al monto del respectivo gravamen &hellip;&rdquo;.
 
-Así las cosas, y con el objeto de establecer si la operación de leaseback que pretende realizar la Ilustre Municipalidad de Santiago, a que alude en su presentación, se encuentra exenta o no gravada con IVA, de conformidad con el N° 11, de la letra E, del artículo 12° de la Ley, es necesario previamente determinar si la transferencia del inmueble que haría la Municipalidad a la empresa leasing se encuentra gravada con IVA; lo cual se daría sólo en dos situaciones, a saber que la Municipalidad sea vendedor habitual de bienes corporales inmuebles, o bien que dicho inmueble se hubiera adquirido para destinarlo al uso en actividades afectas con el referido impuesto, y en esa condición se vea afectado por el gravamen en virtud del artículo 8° letra m) del D.L. N° 825, de 1974.
+De lo anterior se desprende que, en el caso de la prestación de servicios, la boleta debe ser emitida siempre al beneficiario del servicio, independientemente de quien financie la operación.
 
-Como señala en su presentación, el inmueble aludido es de propiedad y uso municipal, por lo tanto contablemente formaría parte del activo municipal; luego, en la eventualidad que hubiera sido adquirido con IVA y se hubiera tenido derecho al uso del crédito fiscal, por destinarse dicho inmueble a generar operaciones gravadas o destinado a generar simultáneamente operaciones gravadas y exentas o no gravadas con el referido impuesto, su transferencia a la empresa de leasing para la operación de leaseback señalada, se encontraría afecta a IVA de conformidad con la letra m) citada, y por consiguiente, el posterior contrato de arriendo con opción de compra del inmueble que suscriba la Municipalidad con la empresa leasing, también se encontraría gravado con dicho impuesto, de conformidad con la letra l), del artículo 8° de la Ley.
+Igual normativa es aplicable en el caso de la emisión de boletas por servicios no afectos o exentos de IVA.
 
-No obstante lo anterior, si la adquisición del inmueble objeto de la consulta, en su origen no se hubiera encontrada gravada con IVA, o encontrándose gravada con dicho impuesto no se hubiera tenido derecho a crédito fiscal, por destinarse exclusivamente a actividades propias de la gestión Municipal, es decir, actividades no gravadas o exentas de IVA, en esas circunstancias, la transferencia del inmueble que se haga a la empresa leasing, no se encontrará gravada con el Impuesto al Valor Agregado, de conformidad con letra m) del artículo 8° de la Ley, y por tanto, el posterior contrato de arriendo con opción de compra, estará exento de IVA por aplicación del N° 11 de la letra E, de artículo 12° del D.L. N° 825, de 1974.
+En el caso en consulta, resulta claro que el beneficiario del servicio es el afiliado, ya que en virtud de lo dispuesto en el Art. 178, del D.L. N° 3.500, para efectos de contratar una asesoría previsional, el afiliado o sus beneficiarios según corresponda, deben celebrar un contrato de prestación de servicios, con la Entidad de Asesoría Previsional o el Asesor Previsional, siendo voluntario para el afiliado o sus beneficiarios la contratación de la misma.
 
 III.- CONCLUSIÓN:
 
-Dando respuesta a su consulta y de acuerdo a lo señalado precedentemente, el contrato de arriendo con opción de compra que la Ilustre Municipalidad de XXXXX realizaría con una empresa leasing, respecto del inmueble que señala en su presentación, a través de una operación de leaseback, se encontrará exento de IVA de conformidad con el N° 11, de la letra E, del artículo 12° del D.L. N° 825, de 1974, en la medida que la transferencia del inmueble que efectúe la Municipalidad a la empresa leasing, no se encuentre afecto al Impuesto al Valor Agregado, en conformidad a lo expresado en los párrafos precedentes.
+Reiterando que la facultad del suscrito sólo le permite interpretar administrativamente la normativa tributaria, se procederá a dar respuesta sólo a las consultas que dicen relación con estas materias.
+
+Respecto de la consulta signada con la letra a), N° 1, se reitera lo señalado en el cuerpo de este oficio en términos de que para efectos tributarios resulta indiferente si la intermediación de Rentas Vitalicias es considerada parte de la Asesoría Previsional o no, ya que en este caso la Asesoría, para efectos tributarios será considerada como tal sólo cuando importe la entrega de información, recomendaciones o consejos en el ámbito previsional, que se materialicen en informes escritos no vinculantes u obligatorios para el afiliado. De forma tal que si dentro de dicho servicio además existen otras actividades como sería la intermediación de seguros y estas son de carácter indivisible, es decir, cuando no puedan ser identificables en forma clara e independiente cada uno de los servicios prestados, sino que se contraten todos en forma genérica, obteniéndose en pago de éstos un monto que remunera indistintamente cualesquiera de los servicios contratados -de información o de intermediación- toda la remuneración obtenida en ese caso se encontrará gravada con IVA, de conformidad con lo dispuesto en el artículo 8, en concordancia con el Art. 2°, N° 2, del D.L. 825, de 1974, por tratarse de remuneraciones obtenidas por actividades de correduría. Lo anterior, se traduce en que, si el servicio prestado por las entidades de Asesoría Previsional o por lo Asesores Previsionales concluye con la intermediación de un seguro, éste se encontrará gravado con IVA, siendo su base imponible el monto total de la remuneración obtenida. Ello, sin perjuicio de la exención de IVA, señalada en el párrafo siguiente que favorece a los Asesores Previsionales, personas naturales que tributen por esta actividad bajo las normas de la segunda categoría.
+
+En cuanto a su consulta signada con la letra b), N° 3, respecto de la actividad de intermediación de seguros previsionales cabe reiterar lo señalado en Ord. N° 3288, de 2009, en términos de que dicha actividad corresponde a aquella propia de los corredores, actividad clasificada en el Art. 20°, N° 4, de la Ley de la Renta y por tanto gravada con Impuesto al Valor Agregado, en virtud del Art. 8°, en concordancia con el Art. 2°, N° 2, del D.L. N° 825. Sin embargo, de ser prestada por un asesor previsional, persona natural que por estas labores tribute bajo las normas de la segunda categoría, establecidas en el artículo 42° de la Ley sobre Impuesto a la Renta, su remuneración se encontrará exenta de IVA, por disposición del Art. 12°, letra E), N° 8, del D.L. N° 825.
+
+Respecto de sus consultas signadas con la letra a), N° 3, letra b), N° 4 y 5, relacionadas con la documentación a emitir por la prestación de los servicios efectuados por la Entidad Previsional o el Asesor Previsional, cabe manifestar que el documento a emitir es una boleta por aquellas operaciones gravadas con IVA y una boleta de aquellas normadas por la Res. Ex. N° 6080, de 1999, en el caso que la operación se encuentre no gravada o exenta de IVA, debiendo emitirse siempre a nombre del afiliado que contrato el servicio.
+
+Finalmente, considerando que la consulta sobre la cual requiere un pronunciamiento conjunto de este Servicio, de la SVS y de la Superintendencia de Pensiones, a saber, si el servicio de intermediación de Rentas Vitalicias es considerado parte de la Asesoría Previsional o ambas son consideradas dos actividades independientes, no es materia que competa determinar a este Servicio, y teniendo presente que dicha respuesta no altera el tratamiento tributario de los ingresos percibidos por esas actividades, según se señala en el cuerpo de este oficio, no se estima necesario participar en una respuesta conjunta con los mencionados organismos.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2595, de 07.12.2015
+Oficio N° 2596, 07.12.2017
 
 Subdirección Normativa
 
 Dpto. de Impuestos Indirectos
+
+[1] Ord. 3288, de 12/11/2009.

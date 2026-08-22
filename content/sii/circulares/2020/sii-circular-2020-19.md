@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 20 del 25 de Marzo del 2020 Modificación efectuada por la Ley N° 21.210 de 24 de febrero de 2010, al artículo 10 de la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos. Fuente: Departamento de Impuestos Directos Imparte instrucciones sobre la modificación de los artículos 42 N° 1, 43 y 47 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.…
+Impuestos Directos Imparte instrucciones sobre la modificación de los artículos 42 N° 1, 43 y 47 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210, de 24 de febrero de 2020. Fuente: Departamento de Impuestos Directos.
 
 ## Referencias detectadas
 

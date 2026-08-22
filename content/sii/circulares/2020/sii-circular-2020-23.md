@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e la Ley N° 20.732, a las modificaciones introducidas por la misma Ley al Cuadro Anexo de la Ley sobre Impuesto Territorial, que incorpora exención del 100% de dicho tributo para los Establecimientos de Larga Estadía de Adultos Mayores (ELEAM) y la modificación de la exención del referido impuesto a los predios con aptitud preferentemente forestal. Asimismo, deroga parcialmente Circulares N°s 20 y 41, de 2014 y N° 2, de 2017. Fuente: Subdirección de Avaluaciones Anexo Suplemento Tributario Año 2020. Complementa Ci…
+;n de Avaluaciones Anexo Suplemento Tributario Año 2020. Complementa Circular N° 8 de 2020. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

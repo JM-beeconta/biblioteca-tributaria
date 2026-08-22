@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2020
-- Fecha: 2020-08-13
+- Fecha: 2020-08-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu53.pdf
 - Hash SHA-256: 6d006382050b0a811b66f93af531bf203a11ee6a23437afe0140d2708834a246
 
 ## Resumen
 
-21.210. Deja sin efecto la Circular N° 48 de 1978. Fuente: Subdirección Normativa. Circular N° 54 del 13 de Agosto del 2020 Tabla de cálculos de reajustes, intereses y multas septiembre 2020. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre modificaciones introducidas al artículo 21 y 31 de la Ley sobre Impuesto a la Renta por el N° 11 y 13 del artículo segundo de la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020. Fuente: Subdirección Normativa. Circular N° 52 del 10 de Ag…
+calización. Imparte instrucciones sobre modificaciones introducidas al artículo 21 y 31 de la Ley sobre Impuesto a la Renta por el N° 11 y 13 del artículo segundo de la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

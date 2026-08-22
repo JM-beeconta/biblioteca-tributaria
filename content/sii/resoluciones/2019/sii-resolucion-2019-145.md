@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> Fija valores de terrenos y Construcciones para el reavalúo 2020, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
+Fija valores de terrenos y Construcciones para el reavalúo 2020, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

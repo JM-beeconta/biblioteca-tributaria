@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2018
-- Fecha: 2018-04-10
+- Fecha: 2018-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu19.pdf
 - Hash SHA-256: 8884445718062471b55c5906687b45c7677244d294871762c57e895e0f694659
 
 ## Resumen
 
-as y Servicios. Fuente: Impuestos Indirectos Circular N° 20 del 10 de Abril del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2018 y el 9 de mayo del año 2018. Fuente: Oficina de Gestion Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 18 del 06 de Abril del 2018 Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a…
+Gestion Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

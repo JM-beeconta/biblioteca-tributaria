@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2019
-- Fecha: 2019-04-10
+- Fecha: 2019-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu18.pdf
 - Hash SHA-256: a9c1d7744db19171d248feadd07a00d5dd96e45d44ef6254a94619dfcca5533b
 
 ## Resumen
 
-Impuesto Único de Segunda Categoría para el mes de junio de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 19 del 10 de Abril del 2019 Tabla de cálculos de reajustes, intereses y multas mayo 2019. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2019 y el 9 de mayo de 2019. Fuente: Oficina de Gestión Normativa Circular N° 17 del 09 de Abril del 2019 Tablas de Impuesto Único de Segund…
+cción de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2019 y el 9 de mayo de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

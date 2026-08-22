@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Diciembre del 2020 Instruye sobre las modificaciones introducidas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales relacionadas con el nuevo régimen general de tributación sobre renta efectiva según contabilidad completa, vigente a contar del 1° de enero de 2020. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas enero 2021. Fuente: Subdirección de Fiscalización. Circular N° 71 del 10 de Diciembre del 2020 Operaciones de crédito de dinero. Valor de l…
+acute;n Normativa. Tabla de cálculos de reajustes, intereses y multas enero 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

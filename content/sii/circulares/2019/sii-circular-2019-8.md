@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2019
-- Fecha: 2019-02-14
+- Fecha: 2019-02-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu8.pdf
 - Hash SHA-256: 1e462c8c3a7f7cbecc419dd5de9dc5274d3279ba9eb1959b23664e5f28b71650
 
 ## Resumen
 
-les, vigentes a partir del 1° de febrero de 2019. Aclara aplicación de información contenida en Circular N° 5 de 2019. Fuente: Oficina de Gestión Normativa Circular N° 9 del 14 de Febrero del 2019 Tabla de cálculos de reajustes, intereses y multas marzo 2019. Fuente: Subdirección de Fiscalización Modifica Circular N° 7, del 11 de febrero de 2019, en la parte que indica. Fuente: Oficina de Gestión Normativa Circular N° 7 del 11 de Febrero del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo d…
+cción de Fiscalización Modifica Circular N° 7, del 11 de febrero de 2019, en la parte que indica. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

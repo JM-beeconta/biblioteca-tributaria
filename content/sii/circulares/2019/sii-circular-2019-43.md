@@ -11,7 +11,7 @@
 
 ## Resumen
 
-álculos de reajustes, intereses y multas diciembre 2019. Fuente: Subdirección de Fiscalización Circular N° 44 del 11 de Noviembre del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2019 y el 9 de diciembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 42 del 30 de Octubre del…
+Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

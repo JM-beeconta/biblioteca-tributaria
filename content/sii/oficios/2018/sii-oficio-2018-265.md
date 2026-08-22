@@ -6,81 +6,203 @@
 - Año: 2018
 - Fecha: 2018-06-25
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1203.htm
-- Hash SHA-256: d51919ea0f7328af24a6965359f27994c8b7288108ba86daf8187cdd26a65bb7
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1308.doc
+- Hash SHA-256: 7e18349ff5fe860e034843a06bf8ab0f2d344c3e3d5f84b5e98b9101b03d960b
 
 ## Resumen
 
-ar que describe es aplicable lo resuelto por . Ventas y Servicios &ndash; Nuevo Texto &ndash; Art. 8, letra l), Art. 12, letra E), N°11, Art. 16, letra g), Art. 17, inciso 2, Art. 52, Art. 53. (Ord. Nº 1307, de 25-06-2018) | Word Solicita un pronunciamiento sobre diversas situaciones que puede afectar el tratamiento tributario de las operaciones de leasing. Ventas y Servicios &ndash; Nuevo Texto &ndash; Art. 22 &ndash; Código Tributario, Art. 126, N°2 &ndash; Res. Ex. N° 45, de 2003. (Ord. Nº 1203, de 11-06-2018)…
+| Word Solicita ratificar, complementar y/o interpretar que en la situación particular que describe es aplicable lo resuelto por .
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"oficio","number":265,"year":1977}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 22 – CÓDIGO TRIBUTARIO, ART. 126, N°2 – RES. EX. N° 45, DE 2003. (Ord. Nº 1203, de 11-06-2018)
+VENTAS Y SERVICIOS – NUEVO TEXTO –  ART. 2, N°1, ART. 9, LETRA A), ART. 55
+           – OFICIO N° 265, DE 1977. (ORD. N° 1308, DE 25.06.2018)
 
-SOLICITA UN PRONUNCIAMIENTO SOBRE EL CÓMPUTO DEL PLAZO PARA EFECTOS DEL ARTÍCULO 126 DEL CÓDIGO TRIBUTARIO.
 
-Se ha solicitado a esta Dirección Nacional pronunciarse sobre el cómputo del plazo para efectos del artículo 126° del Código Tributario, en el caso de IVA pagado indebidamente producto de la anulación de facturas.
 
-I. ANTECEDENTES:
+Solicita ratificar,  complementar  y/o  interpretar  que  en  la  situación
+particular que describe es aplicable lo resuelto  por  Oficio  N°  265,  de
+1977.
 
-Hace presente que, conforme al artículo 53° del D.L. N° 825, de 1974, existe la obligación para los contribuyentes afectos a IVA de emitir facturas por las ventas que realicen o los servicios que presten. Respecto de la oportunidad en que deben emitirse estos documentos tributarios, expone que el artículo 55° de dicho decreto ley es claro en señalar, para el caso de contribuyentes que presten servicios, que las facturas deberán emitirse en el mismo período tributario en que la remuneración se perciba o se ponga, en cualquier forma, a disposición del prestador del servicio.
 
-Por último, el artículo 64° del señalado decreto ley establece el plazo en que los contribuyentes deberán declarar y pagar mensualmente el impuesto, correspondiendo hasta el día 12 de cada mes, para los impuestos devengados en el mes anterior (y hasta el día 20, si se trata de contribuyentes que presenten sus declaraciones a través de internet, según el D.S. N° 1.001 de Hacienda, de fecha 12 de octubre de 2006).
+Se ha solicitado a esta  Dirección  Nacional  ratificar,  complementar  y/o
+interpretar que en la situación particular de la Compañía  consultante,  en
+lo que se refiere al Impuesto a las Ventas y  Servicios,  es  aplicable  lo
+resuelto por el Servicio de Impuestos Internos mediante Oficio N°  265,  de
+1977. La empresa que consulta es exportadora de XXXXX (variedades europeas)
+para la  producción  de  chocolates  y  derivados,  destinadas  al  mercado
+internacional, mercado que acepta sólo XXXXX de  determinadas  “Condiciones
+Premium”,
 
-Hecho presente lo anterior, señala que corresponde ponerse en el caso de un error en la facturación o una emisión indebida de una factura y la necesidad de anular o invalidar la misma. Respecto al caso, el artículo 22° del D.L. N° 825, de 1974, y el artículo 8° del D.S. N° 55, de 1977, se refieren a la posibilidad de subsanar a través de una nota de crédito una facturación indebida, pero no precisamente a la posibilidad de anular una factura a través de la emisión de una nota de crédito.
+I.-   ANTECEDENTES:
 
-Por otro lado, señala que, si en el sistema en papel existía un error en la facturación o una facturación indebida, esto se podía subsanar recuperando las mismas facturas emitidas (el documento físico original y sus copias), no existiendo la necesidad de emitir una nota de crédito para tal efecto, y siendo imposible para el destinatario aprovechar el crédito fiscal de la factura pues no tenía el documento en su poder.
+Señala que para fines de selección  de  “XXXXX”  se  requiere  determinados
+análisis y procesos  que  se  realizan  especialmente  en  las  plantas  de
+limpieza y secado de la Compañía.
 
-Con todo, respecto del sistema de facturación electrónica hace presente que el Servicio emitió la Resolución Exenta N° 45, de 2003, señalando que sí es posible realizar la invalidación de una factura electrónica, mediante nota de crédito, pero sin referirse en dicha oportunidad a la fecha en que se produce el pago en exceso para efectos de recuperar el IVA pagado con la factura invalidada.
+La operación de la Compañía y sus proveedores se  resume  de  la  siguiente
+manera.
 
-Además, es necesario señalar que el artículo 126° del Código Tributario establece un plazo de 3 años, contado desde el acto o hecho que le sirve de fundamento, para presentar la solicitud de devolución de impuestos, norma respecto de la cual previamente el Servicio de Impuestos Internos emitió la Circular N° 72. de 2001, donde se imparten instrucciones sobre el pago indebido o erróneo en los impuestos y sus efectos en el tiempo, pero sin señalar tampoco con precisión la fecha en que se debe entender que se genera un pago en exceso para el caso aludido.
+Primero: Proveedor y Compañía suscriben un acuerdo marco que determina  las
+condiciones del producto  requerido  y  el  procedimiento  para  su  envío,
+análisis, anticipos y condiciones para órdenes de compra. Se  pacta  en  el
+contrato un precio de compra por producto con cáscara y se  pacta  que  tal
+precio tendrá  variaciones  como  consecuencia  del  proceso  de  secado  y
+limpieza. En esta etapa se pueden entregar anticipos.
 
-Por lo expuesto, solicita confirmar si la fecha en que se debe entender generado el pago en exceso de IVA para efectos de computar el plazo de 3 años que establece el artículo 126° del Código Tributario es respecto de la nota de crédito de anulación, correspondiendo a la fecha en que este documento es incorporado a la declaración del respectivo Formulario 29; o si la fecha en que se debe entender generado el pago en exceso de IVA para efectos de computar el plazo de 3 años que establece el Código Tributario es respecto de la factura invalidada, correspondiendo a la fecha en que esta factura es declarada y pagada a través del respectivo Formulario 29.
+Segundo: El proveedor envía a la Compañía un camión con XXXXX para  que  la
+Compañía haga sus análisis. Este envío no implica  venta  y  por  tanto  el
+proveedor sigue siendo dueño  de  las  XXXXX  y  la  compañía  es  un  mero
+depositario. El proveedor envía el camión con la guía de  despacho  que  no
+implica venta. En esta etapa la compañía puede entregar anticipos.
 
-II. ANÁLISIS:
+Tercero: La compañía recibe las XXXXX para verificar aquella  parte  de  lo
+enviado que corresponde al tipo especificado en el contrato marco o  si  se
+trata de otro producto. Determinada la cantidad que califique, la  compañía
+emite un documento al proveedor denominado “Recepción y  orden  de  compra”
+por la cantidad respectiva y al precio fijado en el contrato marco o  según
+condición de producto.
 
-En primer lugar, cabe tener presente que la Resolución Exenta N° 45 de 2003 dispone, en el N°16 de su resolutivo cuarto, que &ldquo;Si un documento tributario electrónico ha sido aceptado por el Servicio de Impuestos Internos y se detecta posteriormente que éste debe ser anulado, se deberá proceder en la forma siguiente: a. Si el documento que debe anularse es una Factura Electrónica, Factura de Compra Electrónica o Factura Electrónica de Ventas y Servicios No Afectos o Exentos de IVA, se deberá emitir en el mismo período tributario, o a más tardar en el período tributario siguiente, una Nota de Crédito Electrónica, la cual deberá contener un campo que indique que se trata de una anulación&rdquo; .
+Cuarto: Recibida tal documento “Recepción y orden de compra”, el  productor
+emite la  correspondiente  factura  de  venta  por  la  cantidad  y  precio
+correspondiente.
 
-Teniendo presente lo anterior, el problema planteado por el contribuyente se presenta únicamente cuando la factura electrónica respectiva no es anulada en el mismo período tributario de su emisión.
+Quinto: La compañía recibe la factura y la  paga,  e  imputa  anticipos  si
+corresponde.
 
-En efecto, dado que el contribuyente en este caso no subsanó el error en el mismo período tributario en que facturó indebidamente, de la lectura de lo dispuesto en el artículo 22°, del D.L. N° 825, de 1974, en concordancia con el Art. 38°, de su Reglamento, se concluye que en tal situación el contribuyente emisor no puede ya imputar el exceso facturado, sino que la vía legal es solicitar la devolución del tributo en conformidad a las normas del Código Tributario [1] .
+Sexto: Las variaciones de precio que pueden surgir con posterioridad  a  la
+compra debido al resultado del proceso de secado y limpieza son  informadas
+por la Compañía al Proveedor mediante un  documento  denominado  “Orden  de
+Compra:  Liquidación  Final”  que   ajustan   con   la   emisión   de   las
+correspondientes notas dentro de plazos y formalidades correspondientes.
 
-Por su parte, el artículo 126°, N° 2 del Código Tributario dispone, en lo pertinente, que &ldquo; No constituirán reclamo las peticiones de devolución de impuestos cuyo fundamento sea: (&hellip;) 2° Obtener la restitución de sumas pagadas doblemente, en exceso o indebidamente a título de impuestos, reajustes, intereses y multas. (&hellip;) Las peticiones a que se refieren los números precedentes deberán presentarse dentro del plazo de tres años contado desde el acto o hecho que le sirva de fundamento&rdquo; .
+Agrega que el marco legal frente a la Ley sobre Impuesto al Valor  Agregado
+para este tipo de operaciones habría  sido  regulado  por  el  Servicio  de
+Impuestos Internos en el Oficio 265, de 1977, en el cual se  establece  que
+en la entrega de productos en depósito para  evaluación  de  calidad  (para
+posterior compra), el elemento generador del IVA es el consentimiento a  la
+compra de aquellos productos que reúnen la calidad necesaria.
 
-En relación a dicha norma, cabe tener presente que esta Dirección Nacional se ha pronunciado [2] , en lo relativo a la devolución de Impuesto al Valor Agregado, señalando que procede únicamente tal devolución si se ha producido, efectivamente, un pago duplicado, en exceso o indebido del tributo; debiendo contabilizarse, desde dicho pago, el plazo de tres años que el artículo en cuestión dispone para efectos de solicitar tal devolución.
+Dado lo expresado, solicita confirmar lo siguiente:
 
-Por ende, el mero hecho de anular una factura electrónica no verifica por sí mismo los requisitos de la norma en análisis, mientras no se haya efectuado materialmente un pago de IVA.
+1. Que se ratifique la vigencia del Oficio 265, de 1977, en este caso  para
+   el producto XXXXX (el oficio indicado se refiere al trigo).
+2. Que el envío de XXXXX por el Proveedor para su posterior  análisis  debe
+   hacerse con guía de despacho que no constituye venta.
+3. Que al expresar el Oficio 265, de 1977 que el consentimiento a la compra
+   puede darse “por cualquier medio”, ello incluye ciertamente el documento
+   denominado “Recepción y orden de compra”.
+4. Que de acuerdo a la abundante jurisprudencia del Servicio[1], sobre  los
+   meros anticipos no existe la obligación de emitir factura.
+5. Que de existir variaciones en el precio y/o cantidad, se  aplicarán  las
+   reglas generales y deberán ser  documentadas  con  las  correspondientes
+   Notas según lo explicado en el párrafo sexto.
 
-De esta manera, no resulta procedente autorizar a un contribuyente para que rectifique sus declaraciones mensuales de IVA, en aquellos casos en que no existe un pago indebido del impuesto, para el solo efecto de rebajar el débito fiscal de una factura anulada.
 
-Ahora bien, para efectos del artículo 126°, N° 2 del Código Tributario, cabe considerar que dicho pago indebido puede verificarse a partir de la fecha en la cual se efectuó la declaración del Formulario 29 que comprende la factura electrónica posteriormente anulada, aun cuando la nota de crédito de anulación sea emitida en un período distinto. Lo anterior, por cuanto, como ha sostenido este Servicio, el efecto propio de la anulación de un documento tributario es la pérdida de eficacia o eliminación de sus efectos [3] .
+II.-  ANALISIS:
 
-Por lo tanto, cuando al contribuyente se le presente efectivamente un pago indebido de impuestos, puede presentar una solicitud de devolución en virtud del citado Artículo 126°, N° 2 y, conjuntamente con ello, solicitar se le autorice a rectificar la o las declaraciones correspondientes al período que medie entre la emisión de la factura anulada respectiva y el pago efectivo de impuestos.
+El artículo 2°, N° 1, del D.L. N° 825, de 1974, sobre Impuesto a las Ventas
+y Servicios, define “venta”  como  toda  convención,  independiente  de  la
+designación que le den las partes,  que  sirva  para  transferir  a  título
+oneroso  el  dominio  de  bienes  corporales  muebles,  bienes   corporales
+inmuebles, excluidos los terrenos, de una cuota  de  dominio  sobre  dichos
+bienes o de derechos reales constituidos sobre ellos, como, asimismo,  todo
+acto o contrato que conduzca al mismo fin o que la presente ley equipare  a
+venta.
 
-III. CONCLUSIÓN:
+Por su parte, el artículo 9°, letra a), del referido decreto  ley,  dispone
+que, en las ventas de bienes  corporales  muebles,  el  Impuesto  al  Valor
+Agregado (IVA) se devengará  en  la  fecha  de  emisión  de  la  factura  o
+boleta[2] y en caso que la entrega de las especies  sea  anterior  a  dicha
+fecha o bien, cuando por  la  naturaleza  del  acto  que  da  origen  a  la
+transferencia no se emitan dichos documentos, el impuesto se  devengará  en
+la fecha de la entrega real o simbólica de las especies.
 
-La devolución del artículo 126°, N° 2, en materia de IVA, procede únicamente si se ha producido, efectivamente, un pago duplicado, en exceso o indebido del tributo, debiendo contabilizarse, desde dicho pago, el plazo de tres años que el artículo en cuestión dispone para efectos de la presentación de la solicitud correspondiente.
+Ahora bien, de acuerdo a su presentación, la Compañía  consultante  exporta
+XXXXX al mercado internacional, las cuales recibe  de  sus  proveedores  en
+calidad de depósito, para que, previo al consentimiento de la operación, se
+realice en la planta de la empresa el análisis del tipo especificado en  el
+contrato marco. Posteriormente, y respecto de los productos que cumplen con
+las características establecidas en el contrato, se emite por parte  de  la
+Compañía el documento  “Recepción  y  orden  de  compra”  por  la  cantidad
+respectiva y al precio fijado. Así las cosas, el elemento generador del IVA
+es el consentimiento a la  compra  de  aquellos  productos  que  reúnen  la
+calidad necesaria, el que se produce con la emisión de este documento.
 
-En este contexto, se estima que, en la especie, la declaración y pago del Formulario 29 que comprende una factura electrónica posteriormente anulada constituye el acto o hecho que sirve de fundamento a la petición de devolución de impuestos del artículo 126°, N° 2 del Código Tributario, aun cuando la nota de crédito de anulación sea emitida en el período posterior.
+Al respecto,  este  Servicio  se  ha  pronunciado[3]  reconociendo  que  al
+celebrarse en forma posterior una convención a  título  oneroso  que  sirva
+para  transferir  el  dominio  de  bienes  corporales  muebles  previamente
+depositados, se verificará el hecho gravado “venta”, transformándose en ese
+momento la entrega en depósito, en venta, devengándose como consecuencia de
+ello el IVA, siendo, por tanto, el período tributario  en  que  se  celebra
+dicha convención aquel en el que nace la obligación de enterar el  impuesto
+en arcas fiscales, por verificarse la tradición del artículo 684, N° 5  del
+Código Civil, lo que implica su entrega, en este caso, ficta o simbólica.
 
-Si, por tener crédito fiscal suficiente, no se produjo pago en el período al que corresponde el Formulario 29 que comprende una factura electrónica posteriormente anulada, el supuesto de hecho del referido artículo 126°, N° 2 se verificará en el período posterior en que se produzca un pago efectivo.
+De acuerdo a lo anterior y como se señala en su presentación, los envíos de
+XXXXX para depósito por parte de los proveedores a  la  Compañía,  para  su
+posterior análisis del tipo especificado en  el  contrato,  no  constituyen
+venta, sin perjuicio de lo cual, de conformidad con  el  inciso  final  del
+artículo 55° del D.L. N° 825, de 1974, dichos envíos deben ser  acompañados
+de las correspondientes guías de despacho.
 
-FERNANDO BARRAZA LUENGO
+III.- CONCLUSIÓN:
 
-DIRECTOR
+En respuesta a las consultas que realiza  en  su  presentación,  en  primer
+término, se ratifica lo señalado por este Servicio en  Oficio  N°  265,  de
+1977, el que es aplicable en la especie al producto XXXXX.
 
-Oficio N° 1203, de 11.06.2018
+Los envíos de XXXXX por los  proveedores  a  la  Compañía  en  depósito  no
+constituirían venta y de conformidad con el artículo 55° del D.L.  N°  825,
+de 1974, deben ser acompañados por las correspondientes guías de despacho.
 
-Subdirección Normativa
+Respecto de los anticipos que se  otorguen,  no  existe  la  obligación  de
+emitir factura. Asimismo, no se ve inconveniente alguno que, para fines del
+consentimiento de la operación, la empresa emita el documento “Recepción  y
+orden de compra”.
 
-Dpto. de Impuestos Indirectos
+Finalmente, ante variaciones en el precio y/o cantidad,  se  deben  aplicar
+las normas generales emitiéndose las notas de  crédito  y/o  débito,  según
+corresponda.
 
-[1] Oficio Ord. N° 3400 de 2016.
 
-[2] Oficio Ord. N° 1590 de 1997.
 
-[3] Oficio Ord. N° 3400 de 2016.
+
+
+
+
+                           FERNANDO BARRAZA LUENGO
+                                  DIRECTOR
+
+
+
+
+                        Oficio N° 1308, de 25.06.2018
+                           Subdirección Normativa
+                        Dpto. de Impuestos Indirectos
+
+
+
+
+
+
+-----------------------
+[1]   Of. 3232 de 2007 que se acompaña y otros. “De este modo, atendido  los
+  términos del contrato acompañado, la entrega  de  dinero  pactada  en  la
+  cláusula novena, que el comprador efectúa al vendedor al  momento  de  la
+  suscripción del contrato, constituye sólo un anticipo de dinero, respecto
+  del cual no existe obligación legal de  facturar,  toda  vez  que  no  ha
+  habido entrega real o ficta de las especies enajenadas.  No  obstante  lo
+  anterior, si las partes del contrato de venta de madera  han  emitido  la
+  correspondiente factura de compra por los anticipos de dinero efectuados,
+  adelantando, a favor del fisco, la facturación y el devengo del impuesto,
+  se deberán cumplir a su respecto todas las obligaciones legales que  ello
+  conlleva, es decir, la retención, declaración  y  el  pago  del  impuesto
+  devengado, según lo instruye la Resolución 4.916, del 2000.”
+[2]   Según corresponda conforme al artículo 53° de dicho cuerpo legal.
+[3]   Oficio Ord. N° 5259 de 1975, Oficio Ord. N° 265 de 1977 y Oficio Ord.
+  N° 633 de 2000.

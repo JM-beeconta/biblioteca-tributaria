@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 10 del 12 de Febrero del 2020 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas marzo 2020. Fuente: Subdirección De Fiscalización Circular N° 8 del 23 de Enero del 2020 (Zip 2,6 MB) Suplemento Tributario con la normativa vigente para efectuar la Declaración de Impuestos Anuales a la Renta, correspondi…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas marzo 2020. Fuente: Subdirección De Fiscalización
 
 ## Referencias detectadas
 

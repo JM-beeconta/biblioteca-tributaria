@@ -4,52 +4,63 @@
 - Tipo: oficio
 - Número: 2640
 - Año: 2018
-- Fecha: 2018-03-05
-- Categoría: IVA, Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja469.doc
-- Hash SHA-256: 91f5dd1f4a1134327a341fb18b97df238e910a103daff6b338c8c45ed98893e5
+- Fecha: 2018-02-26
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja432.htm
+- Hash SHA-256: 931b4d677db36303dedef2aa8df54555cacf06f28b24c6dda63a7b86c7b6e99c
 
 ## Resumen
 
-dash; Ley N° 17.235 &ndash; Convención de Viena, Art. 32 - . Nº 475, de 05-03-2018) | Word Consulta del Consulado de Bolivia sobre el cumplimiento del artículo 32 de la Convención de Viena sobre Relaciones Consulares. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Res. Exenta N° 137, de 1975. (Ord. Nº 469, de 05-03-2018) | Word Solicita confirmar criterios sobre exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas. Timbr…
+dencia del Embajador. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Convención de Viena, Art. 23 &ndash; . (Ord. Nº 432, de 26-02-2018) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":2640,"year":2017}
 
 ## Texto extraído
 
-TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – RES. EXENTA N° 137, DE 1975. (ORD. N° 469, DE 05.03.2018)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – CONVENCIÓN DE VIENA, ART. 23 – OFICIO N° 2640, DE 2017. (Ord. Nº 432, de 26-02-2018)
 
-Solicita confirmar criterios sobre exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas .
-Se ha solicitado a este Servicio confirmar los criterios que señala relativos a la exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
+SOLICITA PRONUNCIAMIENTO SOBRE EXENCIÓN DE IVA EN TRABAJOS DE REMODELACIÓN DE LA EMBAJADA DE LA REPÚBLICA CHECA EN CHILE.
+
+Solicita pronunciamiento sobre exención de IVA en trabajos de remodelación de la Embajada de la República Checa en Chile.
+
 I ANTECEDENTES
-De acuerdo a su presentación , XXXXX S.A. , tiene como objeto , en resumen, realizar operaciones de leasing; de crédito de dinero ; de cobranza ; de factoring; de compra, venta e inversión en toda clase de bienes muebles corporales e inco rporales y valores mobiliarios; adquisición, compra, venta y enajenación de v ehículos motorizados usados; y t odas aquellas actividades que se relacionen con el giro o lo complementen” .
-Expone que la naturaleza financiera de las operaciones de la sociedad se encuentra refrendada en virtud de las Res. Ex. N° 240 de 2016 y N° 366 de 2017, ambas de la Superintendencia de Bancos e Instituciones Financieras, en las cuales se incluye a su representada dentro de la nómina de instituciones que colocan fondos por medio de operaciones de crédito de dinero de manera masiva.
-Tras informar que, e n los hechos, XXXXX S.A., es una sociedad dedica d a al financiamiento automotriz, efectuar algunas consideraciones y cita r criterios emanados de este Servicio sobre, por ejemplo, el concepto de “institución financiera” , solici ta se confirme
-XXXXX S.A., califica como institución financiera, para efectos de la exención consagrada en el número 6 del artículo 24 del DL N° 3475, toda vez que se dedica de forma habitual y efectiva a prestar dinero y conceder créditos, cumpliendo así con la interpretación del Servicio y de la Superintendencia de Bancos e Instituciones Financieras. Asimismo, que mantendrá el carácter de institución financiera siempre que la efectividad y habitualidad de las operaciones continúen.
-Los documentos que dan cuenta de pagarés y bonos otorgados con ocasión de la captación de fondos de ahorrantes o inversionistas locales se encuentra expresamente en aquellos señalados en la Resolución N° 137, de 1975 emitida por el Servicio. Lo anterior debido a que los documentos constan en:
-Mutuos: tal como fue descrito, la Resolución N° 137 de 1975 emitida por el Servicio, establece en la letra d) del primer resolutivo, el contrato de mutuo cuando el deudor es una institución financiera.
-Bonos y efectos de comercio: así, la resolución en comento, establece en la letra e) los bonos en sus diversas especies y debentures.
-Los documentos anteriores inciden en operaciones de depósito o captación de capitales de ahorrantes e inversionistas locales. Lo anterior debido a que XXXXX S.A., capta capital de trabajo a través de contratos de mutuos con distintos bancos de la plaza, considerados como inversionistas y a través de la propia emisión y colocación en el mercado de bonos o efectos de comercio, cumpliendo con los requisitos de los distintos pronunciamientos del Servicio y de la Superintendencia de Bancos e Instituciones Financieras.
-Los documentos pagarés y bonos dan cuenta de operaciones de crédito de dinero.
-Los documentos son necesarios para la realización de dichas operaciones de crédito de dinero, ya que los dineros captados a través de los documentos descritos anteriormente son utilizados por XXXXX S.A. como capital de trabajo, relacionándose con el fin de otorgar créditos y /o efectuar intermediación financiera. No siendo aquella captación utilizada por la sociedad con el objeto de su propio financiamiento para el desarrollo de su giro.
-En conformidad a los argumentos expuestos, los documentos que los bancos y la propia Sociedad emitan con motivo del financiamiento de XXXXX S.A. se encuentran exentos del Impuesto de Timbres y Estampillas toda vez que cumplen cabalmente con los requisitos exigidos por el numeral 6 del artículo 24 de la ley del ramo.
+
+Mediante el oficio indicado en el antecedente se expone que la Embajada de la República Checa en Chile solicita información sobre si los gastos para la remodelación del inmueble donde se ubica la sede de la referida Embajada están exentos de Impuesto al Valor Agregado, teniendo presente los acuerdos y privilegios para los inmuebles y sedes diplomáticas.
+
+Al respecto, se solicita emitir un informe al tenor de lo requerido, con el objeto de dar respuesta a la Representación Diplomática.
+
 II ANÁLISIS
-Al respecto, considerando que los criterios transcritos en su presentación son de público conocimiento y han sido suficientemente reiterados por este Servicio , resulta innecesario confirmarlos o ratificarlos nuevamente .
-En cualquier caso, se recuerda que la correcta aplicación de esos criterios y la procedencia de la exención, en cada caso concreto, es una cuestión de hecho cuya verificación queda entregada a las instancias de fiscalización.
-En consecuencia, no obstante confirmar en términos abstractos el tenor de los criterios indicados en su presentación, no es posible ratificar en particular que, de hecho, XXXXX S.A. sea una institución financiera y que los documentos son necesarios para la realización de las operaciones de crédito de dinero porque se relacionan con el fin de otorgar créditos y /o efectuar intermediación financiera.
-Con todo , a tendido que la peticionaria se encuentra incluida en la nómina, fijada por la Superintendencia de Bancos e Instituciones Financieras , de instituciones que colocan fondos por medio de operaciones de crédito de dinero de manera masiva y, por tanto, sometida a la fiscalización de esa Superintendencia “exclusivamente en lo que se refiere al cumplimiento de lo dispuesto en la ley Nº 18.010 y solamente en relación a las operaciones a que se refieren los artículos 6º bis, 6° ter, y de lo establecido en los incisos segundo y tercero del artículo 31 del mismo cuerpo legal” , se estima que, al menos mientras se mantenga en dicha nómina, es suficiente para reconocerle el carácter de institución financiera.
-Por otra parte, y d e acuerdo a su presentación, se pide confirmar que “los documentos que dan cuenta de pagarés y bonos otorgados con ocasión de la captación de fondos de ahorrantes o inversionistas locales se encuentra [sic] expresamente en aquellos señalados en la Res. Ex. N° 137 de 1975 emitida por el Servicio. ” Lo anterior debido a que los documentos constarían en “mutuos” y “bonos y efectos de comercio” (que la peticionaria entiende incluidos en el resolutivo 1°, letras d) y e), respectivamente).
-Dada la redacción , no es claro si los documentos que estima expresamente señalados en la Res. Ex. N° 137 de 1975 son “ pagarés y bonos ” ; o, en cambio, “mutuos” y “bonos y efectos de comercio” , atendido que los pagarés se incluyen en el resolutivo 1°, letra b), los “contratos de mutuo” en la letra d), y los “bonos en sus diversas especies y debentures de sociedades anónimas” en la letra e), letra que no menciona genéricamente, como indica en su presentación, a los “efectos de comercio”.
-Luego, sobre esta parte no es posible determinar qué precisos documentos, de aquellos señalados en la Resolución N° 137 de 1975, serán otorgados.
+
+A pesar que los antecedentes no indican la fuente de los &ldquo;acuerdos y privilegios&rdquo; para los inmuebles y sedes diplomáticas, se entiende que la petición se funda en lo dispuesto en el artículo 23 de la Convención de Viena sobre Relaciones Diplomáticas, en el sentido que:
+
+&ldquo;1. El Estado acreditante y el jefe de la misión, están exentos de todos los impuestos y gravámenes nacionales, regionales o municipales sobre los locales de la misión de que sean propietarios o inquilinos, salvo de aquellos impuestos o gravámenes que constituyan el pago de servicios particulares prestados.
+
+2. La exención fiscal a que se refiere este artículo no se aplica a los impuestos y gravámenes que, conforme a las disposiciones legales del Estado receptor, estén a cargo del particular que contrate con el Estado acreditante o con el jefe de la misión.&rdquo;
+
+Al respecto, y en base a lo informado por la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores de Chile , el criterio actual de este Servicio considera exenta de Impuesto al Valor Agregado la adquisición de inmuebles por parte de una Embajada, exención que opera sobre la base del principio de reciprocidad. Esto es, sujeto a la condición que se reconozcan exenciones o beneficios de análoga naturaleza, en la adquisición de inmuebles, a las misiones diplomáticas chilenas en el otro Estado.
+
+En el presente caso la exención de Impuesto al Valor Agregado no se solicita en la adquisición de un inmueble, sino en la ejecución de trabajos de remodelación a efectuarse en el inmueble sede de la Embajada de la República Checa, cuestión que obliga analizar si procede la exención.
+
+Sobre el particular, conviene tener presente que, de acuerdo a lo informado en su oportunidad por la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores de Chile, la &ldquo;inmunidad fiscal&rdquo; contenida en el artículo 23 de la Convención de Viena sobre Relaciones Diplomáticas se concreta en la exención del Estado acreditante del pago de cualquier clase de tributos, sean estatales, regionales o municipales, tanto reales o personales como directos o indirectos, que recaigan &ldquo;sobre&rdquo; los locales de la misión diplomática de los que sea propietario o inquilino y en razón de esos títulos.
+
+Esta inmunidad fiscal, continua el informe de la Dirección de Asuntos Jurídicos del Ministerio de Relaciones Exteriores de Chile, &ldquo;en relación con&rdquo; los locales de la misión, al extenderse al jefe de la misión, habrá de entenderse que, éste queda, igualmente, eximido del pago de cualquier tributo &ldquo;respecto de&rdquo; los locales de la misión.
+
+Conforme lo anterior, la expresión &ldquo;sobre los locales&rdquo; debe entenderse como cubriendo los impuestos relacionados con, o respecto de, los locales de la misión. En el presente caso, la exención cubre tanto el Impuesto al Valor Agregado en la adquisición de un inmueble por parte de la Embajada, como en los trabajos de remodelación de la misma, así como de la residencia del Embajador.
+
+Por cierto, lo anterior en base del principio de reciprocidad; esto es, sujeto a la condición que se reconozcan exenciones o beneficios de análoga naturaleza, en la ejecución de trabajos de remodelación de la Embajada de la República Checa en Chile.
+
 III CONCLUSIÓN
-En la medida que su representada se dedique de modo habitual y principal a otorgar financiamiento a sus clientes, podrá calificar como institución financiera para los efectos de la exención dispuesta en el artículo 24 N° 6 de la Ley sobre Impuestos de Timbres y Estampillas.
-Por cierto, el cumplimiento de ese requisito, así como las demás exigencias legales, es una cuestión de hecho cuya verificación corresponde a las instancias de fiscalización.
+
+Conforme lo expuesto, se concluye que se encontrarán exentos de Impuesto al Valor Agregado los servicios de remodelación del inmueble sede de la Embajada de la República Checa, sobre la base del principio de reciprocidad.
 
 FERNANDO BARRAZA LUENGO
+
 DIRECTOR
 
-Oficio N° 469, de 05.03.2018
+Oficio N° 432, de 26.02.2018
+
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+
+Dpto. de Impuestos Indirectos

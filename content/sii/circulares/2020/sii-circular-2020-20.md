@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2020
-- Fecha: 2020-02-24
+- Fecha: 2020-03-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu20.pdf
 - Hash SHA-256: 78d9cf9e3af737d2476455b0c08b104a4fe2da53fade11932607f9bc60d7c82e
 
 ## Resumen
 
-abajo, respecto del tratamiento tributario de las remuneraciones percibidas por trabajadores de artes y espectáculos, que se desempeñan bajo dependencia y subordinación con una duración determinada, pactada a plazo fijo, por una o más funciones, por obra, temporada o proyecto, según Ley N° 21.210, de 24 de febrero de 2020. Deja sin efecto numeral III, número 1, de la Circular 60, de fecha 20 de noviembre de 2007. Fuente: Departamento de Impuestos Directos. Modificación efectuada por la Ley N° 21.210 de 24 de febre…
+mpuestos Directos. Modificación efectuada por la Ley N° 21.210 de 24 de febrero de 2010, al artículo 10 de la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

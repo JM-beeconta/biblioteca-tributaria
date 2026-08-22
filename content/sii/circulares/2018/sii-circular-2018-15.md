@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2018
-- Fecha: 2018-03-16
+- Fecha: 2018-03-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu15.pdf
 - Hash SHA-256: 7dd698cac31a959195a6e3e6181dcabf177adc787c5cfac916e17e9cef356171
 
 ## Resumen
 
-stes, intereses y multas abril 2018 Fuente: Subdirección de Fiscalización Circular N° 16 del 16 de Marzo del 2018 Informa derogación del artículo 41 D de la Ley sobre Impuesto a la Renta Fuente: Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2018 y el 9 de abril del año 2018. Fuente: Oficina de Gestión Normativa Circular N° 14 del 09 de Marzo del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de abril del año 2018, e información adicional re…
+Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2018 y el 9 de abril del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

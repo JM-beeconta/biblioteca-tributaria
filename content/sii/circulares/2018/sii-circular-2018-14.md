@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la Renta Fuente: Impuestos Directos Circular N° 15 del 09 de Marzo del 2018 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2018 y el 9 de abril del año 2018. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de abril del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Circular N° 13 del 20 de Febrero del 2018 Modifica parcialmente las instrucciones contenidas en la letra (B), del…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de abril del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

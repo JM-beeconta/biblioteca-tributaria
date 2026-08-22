@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Impuestos Directos Circular N° 58 del 20 de Diciembre del 2018 (Zip 6.729KB) Suplemento Tributario con la normativa vigente para efectuar la Declaración de Impuestos Anuales a la Renta, correspondientes al Año Tributario 2019 Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2019. Fuente: Subdirección de Fiscalización Circular N° 56 del 14 de Diciembre del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes d…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

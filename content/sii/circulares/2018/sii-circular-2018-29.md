@@ -11,7 +11,7 @@
 
 ## Resumen
 
-7, acerca del tratamiento tributario de las donaciones al Fisco. Fuente: Subdirección Normativa Circular N° 30 del 18 de Mayo del 2018 Tabla de cálculos de Reajustes, Intereses y Multas Junio 2018 Fuente: Subdirección de Fiscalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2018 Fuente: Subdirección de Fiscalización Circular N° 28 del 17 de Mayo del 2018 Extiende a las cooperati…
+scalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

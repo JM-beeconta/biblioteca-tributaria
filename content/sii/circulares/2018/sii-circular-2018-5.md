@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2018
-- Fecha: 2018-01-24
+- Fecha: 2018-01-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu5.pdf
 - Hash SHA-256: eec326316dca82c31234989c9cfab16c66de63423637280254b66f80a29fdec0
 
 ## Resumen
 
-jeros (Convención de la Apostilla). Fuente: Departamento de Asesoría Jurídica Circular N° 6 del 24 de Enero del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2018 Fuente: Subdirección de Fiscalización Actualización de instrucciones referentes al tratamiento tributario de vehículos motorizados frente a las normas contenidas en la Ley sobre Impuesto a la Renta y Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Fiscalización Circular N° 4 del 10 de Enero del 2018 Informa nuevos lí…
+calización Actualización de instrucciones referentes al tratamiento tributario de vehículos motorizados frente a las normas contenidas en la Ley sobre Impuesto a la Renta y Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

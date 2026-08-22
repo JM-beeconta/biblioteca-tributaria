@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2020
-- Fecha: 2020-04-29
+- Fecha: 2020-04-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu31.pdf
 - Hash SHA-256: e338bfe71bb21ab15c059077b5d0af1f0ed8d8c707dc4bb69ec24987cbd2fc9f
 
 ## Resumen
 
-x;'> Circular N° 32 del 29 de Abril del 2020 Tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta por el N° 13 del artículo 2° de la Ley N° 21.210. Deja sin efecto Circular N° 19 de 2010. Fuente: Impuestos Directos. Imparte instrucciones sobre nuevos regímenes transitorios de depreciación de los activos inmovilizados establecidos en los artículos vigésimo primero…
+mpuestos Directos. Imparte instrucciones sobre nuevos regímenes transitorios de depreciación de los activos inmovilizados establecidos en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210, de 24 de febrero de 2020. Fuente: Departamento de Impuestos Directos.
 
 ## Referencias detectadas
 

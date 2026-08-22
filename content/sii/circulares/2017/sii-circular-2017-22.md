@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2017
-- Fecha: 2017-04-10
+- Fecha: 2017-04-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu22.pdf
 - Hash SHA-256: 55c05d8374adfbbe269e8619926b8fba7cdc9e4d61f1fedd486ac44c220624ff
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 23 del 10 de Abril del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo del año 2017, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2017, de acuerdo a lo dispuesto por el artículo 72 de la ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión No…
+oacute;n Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2017, de acuerdo a lo dispuesto por el artículo 72 de la ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

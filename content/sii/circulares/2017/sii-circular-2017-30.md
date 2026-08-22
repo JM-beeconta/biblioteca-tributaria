@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ente: Oficina de Gestión Normativa Circular N° 31 del 23 de Mayo del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2017. Fuente: Subdirección de Fiscalización Tabla de cálculos de reajustes, intereses y multas junio 2017. Fuente: Subdirección de Fiscalización Circular N° 29 del 19 de Mayo del 2017 Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben…
+scalización Tabla de cálculos de reajustes, intereses y multas junio 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

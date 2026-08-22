@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2019
-- Fecha: 2019-01-11
+- Fecha: 2019-01-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu1.pdf
 - Hash SHA-256: 169e5355d651b0cb842342170f04940569cdbf7febc408cb429bfb9f69d329b4
 
 ## Resumen
 
-:0px;margin-bottom:0px;'>Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2019. Fuente: Subdirección de Fiscalización Circular N° 2 del 11 de Enero del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2019 y el 9 de febrero de 2019. Fuente: Oficina de Gestión Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad del saldo de utilidades tributables, del saldo total crédito y de los retiros en excesos no imputados y…
+Oficina de Gestión Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad del saldo de utilidades tributables, del saldo total crédito y de los retiros en excesos no imputados y tablas de Impuesto Global Complementario correspondiente al Año Tributario 2019. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab')…
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección Normativa. Circular N° 52 del 10 de Agosto del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2020 y el 9 de septiembre de 2020, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 50 del 31 de Julio del 2020 Imparte instrucciones sobre Registro de…
+acute;n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2020 y el 9 de septiembre de 2020, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

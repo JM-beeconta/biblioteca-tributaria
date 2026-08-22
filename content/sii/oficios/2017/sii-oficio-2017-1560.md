@@ -6,65 +6,63 @@
 - Año: 2017
 - Fecha: 2017-09-06
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1896.htm
-- Hash SHA-256: da1ff6445e1818e2a2c54654080ce53b7758aa29633e8b197dcdb883ce94802c
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2003.htm
+- Hash SHA-256: f63f9cc0bc371c8cc7d33902872e974645f24ba8e22a09e3882e5b987912afe0
 
 ## Resumen
 
-sh; Art. 2, N°2 &ndash; Ley sobre Impuesto a la Renta, Art. 20, N°4 &ndash; . (Ord. Nº 2003, de 06-09-2017) | Word Impuesto al Valor Agregado en servicios de acondicionamiento físico con electroestimulación muscular. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Decreto N° 80, de 2016, de Ministerio de Relaciones Exteriores. (Ord. Nº 1896, de 25-08-2017) | Word Solicita exención de impuesto para el Banco Mundial en compras que indica. Ventas y Servicios &ndash; Nuevo Texto…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 2, N°2 &ndash; Ley sobre Impuesto a la Renta, Art. 20, N°4 &ndash; . (Ord. Nº 2003, de 06-09-2017) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":1560,"year":2015}
+- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIVS","article":"2"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO N° 80, DE 2016, DE MINISTERIO DE RELACIONES EXTERIORES. (Ord. Nº 1896, de 25-08-2018)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2 – LEY SOBRE IMPUESTO A LA RENTA, ART. 20, N°4 – OFICIO N° 1560, DE 2015. (Ord. Nº 2003, de 06-09-2017)
 
-SOLICITA EXENCIÓN DE IMPUESTO PARA EL BANCO MUNDIAL EN COMPRAS QUE INDICA.
+IMPUESTO AL VALOR AGREGADO EN SERVICIOS DE ACONDICIONAMIENTO FÍSICO CON ELECTROESTIMULACIÓN MUSCULAR.
 
-Solicita e xención de impuesto para el Banco Mundial en compras que indica.
+Se ha solicitado a esta Dirección Nacional, pronunciarse respecto de si los servicios consistentes en programas integrales de acondicionamientos físico complementados con electroestimulación muscular, constituyen un hecho no gravado con IVA.
 
-Se ha solicitado a este Servicio se exima de impuestos a las adquisiciones e importaciones de bienes y de servicios que se presten al Banco Mundial con motivo de la instalación en Chile de la sede de dicho organismo.
+I.- ANTECEDENTES:
 
-I ANTECEDENTES
+Mediante Oficio del antecedente, esa Dirección Regional solicita un pronunciamiento sobre la consulta realizada por don XXXXX, en representación de TTTT., quien señala que la sociedad presta servicios consistentes en programas integrales de acondicionamiento físico complementados con electroestimulación muscular, en un establecimiento de educación deportiva a través de instructores capacitados que entregan conocimientos específicos de educación física y del uso de la electroestimulación. Como contraprestación por los servicios deportivos la sociedad percibe una remuneración única y periódica que puede pactarse en forma mensual, trimestral, semestral o anual.
 
-De acuerdo a la presentación del antecedente, la República de Chile, por una parte, y el Banco Internacional de Reconstrucción y Fomento, la Asociación Internacional de Fomento, la Corporación Financiera Internacional y el Organismo Multilateral de Garantía de Inversiones, por la otra (en su conjunto, &ldquo;las Organizaciones del Grupo del Banco Mundial&rdquo;), celebraron un Acuerdo (en adelante, &ldquo;Acuerdo de sede&rdquo;) relativo al establecimiento y operación de oficinas en la República de Chile.
+En relación a lo anterior, el contribuyente solicita un pronunciamiento de este Servicio en el sentido que los servicios que presta la sociedad constituyen un hecho no gravado con IVA, conforme a la definición de hecho gravado básico de servicio contenido en el artículo 2°, N° 2 de la Ley sobre Impuesto a las Ventas y Servicios, además de ser prestados en un establecimiento de educación deportiva, quedando amparados por la exención tributaria del artículo 13°, N° 4 del mismo cuerpo normativo.
 
-El Acuerdo de sede se contiene en el artículo único del Decreto N° 80, del Ministerio de Relaciones Exteriores, publicado en el Diario Oficial de fecha 07.10.2016, con vigor internacional con fecha 02.06.2016.
+II.- ANALISIS:
 
-Se informa que la versión en inglés del Acuerdo de sede establece en su Artículo V, Exenciones Tributarias, Sección 2, que el Banco Mundial podrá solicitar a la República de Chile la definición de disposiciones administrativas pertinentes para la remisión o reembolso de los impuestos sobre compras importantes de bienes o servicios. En la versión en español del texto, en cambio, se establece que el beneficio se aplica respecto de compras importantes de bienes gravados o gravables y no menciona a los servicios.
+El N° 2, del artículo 2° del Decreto Ley N° 825, de 1974, define &ldquo;servicio&rdquo; como: &ldquo;la acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N°s. 3 y 4, del artículo 20°, de la Ley sobre Impuesto a la Renta&rdquo;.
 
-Se hace presente que, conforme al Artículo XI, Disposiciones finales, entrada en vigencia y terminación, Sección 5, el Acuerdo de sede establece que, en caso de divergencia entre las versiones en inglés y español, prevalecerá el texto en idioma inglés.
+A su vez, el N° 4 del artículo 20°, de la Ley de Impuesto a la Renta, incorpora entre otras actividades de este número, a las rentas obtenidas por los colegios, academias e institutos de enseñanza particular y otros establecimientos particulares de este género, como también a las empresas de diversión y esparcimiento.
 
-Asimismo, conforme al Acuerdo de sede y al acuerdo que establece el programa de apoyo para la instalación y funcionamiento de un Centro de Investigación y Desarrollo del Banco Mundial en Chile, tomado de razón con fecha 16.12.2016, el Banco Mundial se comprometió a instalar una oficina en Chile.
+En el caso en consulta, y como lo señala esa Dirección Regional, este Servicio [1] ya se ha pronunciado con anterioridad, indicando que el servicio prestado por un gimnasio consistente en permitir el acceso al recinto dotado de máquinas e instalaciones deportivas, orientadas exclusivamente para la práctica de actividades deportivas, tanto individuales como grupales, a los cuales el usuario accede pagando una remuneración única, no se encuentra afecta al Impuesto al Valor Agregado, por cuanto dicha actividad no está clasificada en los N°s. 3 o 4 del artículo 20° de la Ley sobre Impuesto a la Renta.
 
-Agrega que dicha oficina supone ciertas compras importantes de bienes y servicios para la habilitación y apertura de la oficina, así como para el arriendo del bien inmueble en el cual estará ubicada.
+Como se indica por esa Regional, lo anterior ha sido refrendado en pronunciamientos anteriores de este Servicio [2] , al señalar que en la medida que el gimnasio se encuentre desprovisto de instalaciones de carácter recreativo y que las sumas que paga el contratante remuneren únicamente las prestaciones de carácter deportivo que el gimnasio le brinde, no se afectaran con el Impuesto al Valor Agregado.
 
-Por lo expuesto, solicita que se emita la exención solicitada para los bienes y servicios que detalla, de conformidad a lo establecido en el Acuerdo de sede.
+Ahora bien, al tenor de la consulta realizada, el servicio prestado por el contribuyente consistiría en un programa integral de acondicionamiento físico, complementado con electroestimulación muscular, en un establecimiento deportivo, prestado por instructores capacitados que entregan conocimientos específicos de preparación física, y del uso de la electroestimulación, considerada como una única prestación.
 
-II ANÁLISIS
+En virtud de ello, es posible considerar que el servicio que presta el contribuyente se enmarca como una actividad deportiva, en cuyo caso no se encontraría afecto a IVA, por no encontrar una clasificación dentro del artículo 20°, N°s. 3 o 4, de la Ley sobre Impuesto a la Renta, en la medida de que los contratantes no dispongan del uso libre de todas las instalaciones del recinto sin la supervisión permanente de los instructores, tanto en la actividad física como en el uso del o los instrumentos de electroestimulación, situación que sólo puede verificarse en las instancias de fiscalización que procedan.
 
-En conformidad al Acuerdo de sede individualizado en el Antecedente, y publicado en el Diario Oficial, &ldquo;si bien las Organizaciones del Grupo del Banco Mundial no reclamarán, en principio, la exención de derechos de consumo, ni de impuestos sobre la venta de bienes muebles e inmuebles incluidos en el precio a pagar, cuando las Organizaciones del Grupo del Banco Mundial efectúen, para su uso oficial, compras importantes de bienes gravados o gravables con tales derechos o impuestos, la República de Chile adoptará, siempre que sea posible, las disposiciones administrativas pertinentes para la remisión o reembolso de la cantidad correspondiente al derecho o al impuesto.&rdquo; (Artículo V, Exenciones Tributarias, Sección 2).
+III.- CONCLUSIÓN:
 
-Sin embargo, la versión en inglés del Artículo V, Sección 2, señala que la referida remisión o reembolso opera no sólo respecto de los impuestos sobre la venta de bienes muebles e inmuebles, sino también respecto de los &ldquo;servicios&rdquo; [1] ; teniendo, por tanto, un alcance más amplio que la versión del texto en español.
+De acuerdo a lo señalado precedentemente, los servicios que preste el contribuyente consistente en un programa deportivo integral de acondicionamiento físico complementado con electroestimulación, proporcionado por instructores debidamente capacitados, considerado como una única prestación, a cambio de una remuneración periódica, no se encontrarán gravados con IVA en la medida que estas actividades sean meramente deportivas.
 
-Al respecto, este Servicio entiende que la diferencia de texto estrictamente no constituye un problema de interpretación legal, sino que de cotejo de textos, diferencia que debe ser resuelta en los términos señalados por el propio Acuerdo de sede, en su Artículo XI, Disposiciones finales, entrada en vigencia y terminación, Sección 5. Allí se dispone expresamente que &ldquo;este documento ha sido preparado en duplicado en idioma inglés y español, siendo cada texto igualmente auténtico. En caso de divergencia, prevalecerá el texto en idioma inglés.&rdquo;
-
-En consecuencia, este Servicio estima que el Banco Mundial puede solicitar a la República de Chile la remisión o reembolso de los impuestos pagados tanto sobre las compras de bienes como de servicios gravados, para cuyo efecto se requiere dictar un decreto supremo que califique, en el caso particular y cumpliendo los requisitos, que se trata de compras y/o servicios importantes en los términos que define el Acuerdo de sede.
-
-III CONCLUSIONES
-
-Conforme lo expuesto precedentemente, y en virtud del principio de economía procedimental en materia administrativa, se remite la solicitud a ese Ministerio a fin que, de estimarlo procedente, dicte el acto administrativo que en derecho corresponda.
+En caso que el contribuyente preste servicios que permitan el uso independiente de todas las instalaciones del recinto, sin la supervisión directa de un instructor, estos se encontrarán gravado con IVA, por considerarse en este caso que la prestación se aleja de lo exclusivamente deportivo, revistiendo el carácter de una actividad de esparcimiento y recreación, clasificada en el N° 4 del artículo 20° de la Ley sobre Impuesto a la Renta.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1896, de 25.08.2017
+Oficio N° 2003, de 06.09.2017
 
 Subdirección Normativa
 
-Dpto. de Técnica Tributaria
+Dpto. de Impuestos Indirectos
 
-[1] &ldquo;While the World Bank Group Organizations will not, as a general rule, claim exemption from excise duties and from taxes on the sale of movable and immovable property and services which form part of the price to be paid&hellip;&rdquo;.
+[1] Oficio Ord. N° 1560, de 10 de junio de 2015.
+
+[2] Oficios Ord. N° 2020 de 2011, N° 2144 de 2014 y N° 1334 de 2013.

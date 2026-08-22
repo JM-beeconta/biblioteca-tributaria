@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Catastro y Tasaciones Circular N° 16 del 22 de Febrero del 2017 Cambio de criterio respecto del cómputo del plazo para invocar la exención contemplada en el artículo 42 ter de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Impuestos Directos Aplicación de la exención del 100% del Impuesto Territorial de acuerdo a lo dispuesto en el Artículo 99 de la ley general de Urbanismo y Construcciones, contenida en el D.F.L. N°458, de 1976, del Minister…
+Impuestos Directos Aplicación de la exención del 100% del Impuesto Territorial de acuerdo a lo dispuesto en el Artículo 99 de la ley general de Urbanismo y Construcciones, contenida en el D.F.L. N°458, de 1976, del Ministerio de Vivienda y Urbanismo. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

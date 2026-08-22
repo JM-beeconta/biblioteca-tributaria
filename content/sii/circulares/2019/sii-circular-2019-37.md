@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2019
-- Fecha: 2019-10-10
+- Fecha: 2019-09-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu37.pdf
 - Hash SHA-256: 2c8650e0df870c630fe2e9b653135c4572e0c9fb2dfaf1b6933739325741aa66
 
 ## Resumen
 
-10 de octubre de 2019 y el 9 de noviembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 38 del 09 de Octubre del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas octubre 2019. Fuente: Subdirección de Fiscalización Circular N° 36 del 10 de Septiembre del 2019 Tablas de Impuesto Único de Segunda Categoría para el…
+Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas octubre 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

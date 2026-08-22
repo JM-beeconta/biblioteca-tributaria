@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2020
-- Fecha: 2020-03-19
+- Fecha: 2020-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu17.pdf
 - Hash SHA-256: 4bf467d88606637c9d633213a5ceb721883ee2072d1f13e6410a72cc923092fd
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Impuestos Directos. Circular N° 18 del 19 de Marzo del 2020 Procedimiento especial y transitorio del Servicio de Impuestos Internos para la obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente Tabla de cálculos de reajustes, intereses y multas abril 2020. Fuente: Subdirección de Fiscalización Circular N° 16 del 10 de Marzo del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento…
+a al Contribuyente Tabla de cálculos de reajustes, intereses y multas abril 2020. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

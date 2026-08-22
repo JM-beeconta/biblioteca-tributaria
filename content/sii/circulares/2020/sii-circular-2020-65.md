@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 65
 - Año: 2020
-- Fecha: 2020-10-28
+- Fecha: 2020-10-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu65.pdf
 - Hash SHA-256: a31c083bb43c97713c24334d9dd79f3b65e5b0ba362a11301be6d7388ec03231
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 66 del 28 de Octubre del 2020 Imparte instrucciones para la determinación de la tasación fiscal de vehículos motorizados para los fines que indica. Fuente: Subdirección de Avaluaciones. Tabla de cálculos de reajustes, intereses y multas noviembre 2020. Fuente: Subdirección de Fiscalización. Circular N° 64 del 13 de Octubre del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2020 e información adicional relacionada con dicho tributo. Fu…
+n de Avaluaciones. Tabla de cálculos de reajustes, intereses y multas noviembre 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

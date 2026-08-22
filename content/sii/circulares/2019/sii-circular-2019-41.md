@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 41
 - Año: 2019
-- Fecha: 2019-10-30
+- Fecha: 2019-10-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu41.pdf
 - Hash SHA-256: 3831236a6c87f2a7c054f885e3c780902351d6452aa2b207745dad8a3e2e6d6a
 
 ## Resumen
 
-de diciembre de 2019 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 42 del 30 de Octubre del 2019 Imparte instrucciones transitorias motivadas en la situación de emergencia y hechos posteriores relacionados. Fuente: Subdirección Jurídica Tabla de cálculos de reajustes, intereses y multas noviembre 2019. Fuente: Subdirección de Fiscalización Circular N° 40 del 10 de Octubre del 2019 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales…
+Subdirección Jurídica Tabla de cálculos de reajustes, intereses y multas noviembre 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n. Circular N° 53 del 10 de Agosto del 2020 Imparte instrucciones sobre modificaciones introducidas al artículo 21 y 31 de la Ley sobre Impuesto a la Renta por el N° 11 y 13 del artículo segundo de la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 51 del 10 de Agosto del 2020 Op…
+acute;n Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

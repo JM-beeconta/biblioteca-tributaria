@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 10
 - Año: 2019
-- Fecha: 2019-02-25
+- Fecha: 2019-02-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu10.pdf
 - Hash SHA-256: 91261ef0e27355deb1e18209491a3ead8efbdfef59311b60c0fdc5c2cb42da8f
 
 ## Resumen
 
-o tributo. Fuente: Oficina de Gestión Normativa Circular N° 11 del 25 de Febrero del 2019 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2019. Aclara aplicación de información contenida en Circular N° 5 de 2019. Fuente: Oficin…
+Oficina de Gestión Normativa Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2019. Aclara aplicación de información contenida en Circular N° 5 de 2019. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

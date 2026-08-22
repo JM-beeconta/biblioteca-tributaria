@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Circular N° 27 del 10 de Mayo del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de junio del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2018 y el 9 de junio del año 2018 Fuente: Oficina de Gestión Normativa Circular N° 25 del 24 de Abril del 2018 Instruye sobre el procedimien…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2018 y el 9 de junio del año 2018 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2018
-- Fecha: 2018-01-18
+- Fecha: 2018-01-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu4.pdf
 - Hash SHA-256: 06ed5034281c78741ee735097a1b99fb97316cb0e9659947d5ebd290f6216a80
 
 ## Resumen
 
-n de Fiscalización Circular N° 5 del 18 de Enero del 2018 Actualización de instrucciones referentes al tratamiento tributario de vehículos motorizados frente a las normas contenidas en la Ley sobre Impuesto a la Renta y Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Fiscalización Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2018 Fuente: Oficina de Gestión Normativa Circular N° 3 del 10 de Enero del 2018 Valor de la Unidad de Fomento p…
+scalización Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2018 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

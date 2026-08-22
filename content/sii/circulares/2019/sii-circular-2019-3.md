@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2019
-- Fecha: 2019-01-14
+- Fecha: 2019-01-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu3.pdf
 - Hash SHA-256: 26b32cf77cd1beedc79a315aa869df268f8409b0443f167ed1c194f54d7116af
 
 ## Resumen
 
-para efectos previsionales, vigentes para el año calendario 2019. Fuente: Oficina de Gestión Normativa Circular N° 4 del 14 de Enero del 2019 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2019, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2019. Fuente: Subdirección de Fiscalización Circular N° 2 del 11 de Enero del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el…
+Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

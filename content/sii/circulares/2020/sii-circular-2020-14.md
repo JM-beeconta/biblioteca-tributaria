@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2020
-- Fecha: 2020-03-10
+- Fecha: 2020-02-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu14.pdf
 - Hash SHA-256: 3a4b3bdb7fd37a1fac8b6917835402efe02540260714159cbb74468a7c097d63
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa. Circular N° 15 del 10 de Marzo del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Circular N° 13 del 24 de Febrero del 2020…
+acute;n Normativa. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2019
-- Fecha: 2019-12-12
+- Fecha: 2019-12-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2019/circu48.pdf
 - Hash SHA-256: e676367c657e0b75e9d12dd7afdbad9935d480baf48fbb1f8ab2fa2e88fc4f39
 
 ## Resumen
 
-writeOptionsYears(0) Años Anteriores Circular N° 49 del 12 de Diciembre del 2019 Tabla de cálculos de reajustes, intereses y multas enero 2020. Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 47 del 11 de Diciembre del 2019 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2019 y el 9 de enero de 2020, ambos inclu…
+cción de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

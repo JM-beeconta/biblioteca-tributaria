@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2020
-- Fecha: 2020-02-24
+- Fecha: 2020-04-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu29.pdf
 - Hash SHA-256: 1a16545d1a5fd66cf9bc5f477827a73b2e596b7e213d0b69c6fea9dfb627ce76
 
 ## Resumen
 
-torio de la Ley N° 21.210, de 24 de febrero de 2020. Fuente: Departamento de Impuestos Directos. Circular N° 30 del 21 de Abril del 2020 Tabla de cálculos de reajustes, intereses y multas mayo 2020. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Circular N° 28 del 09 de Abril del 2020 Imparte instrucciones sobre las modificaciones introducidas por la Ley N°…
+calización. Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

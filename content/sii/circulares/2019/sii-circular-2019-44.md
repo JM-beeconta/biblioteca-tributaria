@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece procedimiento especial y transitorio para obtención y recuperación de clave inicial internet. Fuente: Subdirección de Asistencia al Contribuyente Circular N° 45 del 11 de Noviembre del 2019 Tabla de cálculos de reajustes, intereses y multas diciembre 2019. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2019 y el 9 de diciembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa Circular N° 43 del 11 de Noviembre del 20…
+cción de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2019 y el 9 de diciembre de 2019, ambos inclusive. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

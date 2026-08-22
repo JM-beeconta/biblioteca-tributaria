@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 71 del 10 de Diciembre del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2020 y el 9 de enero de 2021, ambos inclusive. Fuente: Oficina de Gestión Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2021 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Circular N° 69 del 12 de Noviembre del 2020 Tabla…
+acute;n Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2021 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

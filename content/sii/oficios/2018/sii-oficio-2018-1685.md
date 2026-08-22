@@ -6,69 +6,81 @@
 - Año: 2018
 - Fecha: 2018-01-30
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja199.htm
-- Hash SHA-256: 5040e04d84acf48da15ed184ba0e38dc617586ed68946313ee299c91225a0076
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja200.htm
+- Hash SHA-256: 6aae9607fc67008ef4c003ebf85d4c052ec7987490ec7eb687b399f660bef8c3
 
 ## Resumen
 
-modal'>Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°5 &ndash; Circular N°44 de 2016 &ndash; . (Ord. Nº 200, de 30-01-2018) | Word Tributación de Fondo de Inversión de Capital de Riesgo (FICER) constituido conforme a la Ley N° 18.657, considerando la derogación de dicho texto legal por la Ley N° 20.712 de 2014 y lo dispuesto por el artículo 5° transitorio de este último texto legal. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14 &ndash; Ley N° 20.780, de 2014, Art. 3 transitorio, N°…
+al crédito. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°5 &ndash; Circular N°44 de 2016 &ndash; . (Ord. Nº 200, de 30-01-2018) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":49,"year":2016}
-- {"type":"articulo","law":"LIR","article":"14"}
-- {"type":"articulo","law":"LIR","article":"41"}
+- {"type":"circular","number":44,"year":2016}
+- {"type":"oficio","number":1685,"year":2017}
+- {"type":"articulo","law":"LIR","article":"17"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14 – LEY N° 20.780, DE 2014, ART. 3 TRANSITORIO, N°I, N°9. (Ord. Nº 199, de 30-01-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°5 – CIRCULAR N°44 DE 2016 – OFICIO N° 1685, DE 2017. (Ord. Nº 200, de 30-01-2018)
 
-BASE IMPONIBLE EN TÉRMINO DE GIRO.
+TRIBUTACIÓN DE FONDO DE INVERSIÓN DE CAPITAL DE RIESGO (FICER) CONSTITUIDO CONFORME A LA LEY N° 18.657, CONSIDERANDO LA DEROGACIÓN DE DICHO TEXTO LEGAL POR LA LEY N° 20.712 DE 2014 Y LO DISPUESTO POR EL ARTÍCULO 5° TRANSITORIO DE ESTE ÚLTIMO TEXTO LEGAL.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita la ratificación de criterios relacionados con la determinación de la base imponible en término de giro, según indica.
+Se ha recibido en esta Dirección Nacional su presentación y su Minuta complementaria indicadas en el antecedente, mediante la cual solicita un pronunciamiento sobre la situación tributaria de un Fondo de Inversión de Capital Extranjero de Riesgo (FICER), constituido conforme a la Ley N° 18.657, lo anterior habida consideración de la derogación de dicho texto legal por la Ley N° 20.712 de 2014 y de la norma contenida en el artículo 5° transitorio de este último texto legal.
 
 I.- ANTECEDENTES.
 
-Se trata de un empresario individual que se incorporó al Régimen de Tributación establecido en la letra B) del artículo 14 de la LIR, pero que durante el año comercial 2017 pondrá término a su giro.
+Señala en su presentación, que un Fondo de Inversión de Capital de Riesgo (&ldquo;FICER&rdquo;) constituido de conformidad con la Ley N° 18.657, que regulaba los Fondos de Inversión de Capital Extranjero de Riesgo, celebró con el Estado de Chile un contrato ley, de conformidad al Decreto Ley N°600, acogiéndose a los derechos y garantías que otorga dicho cuerpo normativo. El FICER tiene además Rol Único Tributario y su objeto es invertir y financiar una serie de proyectos de energías renovables.
 
-Luego de señalar las normas legales vigentes a contar del 1° de enero de 2017, que regulan la tributación aplicable en término de giro, solicita confirmar que la base afecta a impuesto en dicho caso es cero, no existiendo impuesto que deba ser enterado por el contribuyente por este concepto.
+En seguida señala, que desea materializar formalmente la inversión en el FICER en el año 2018 y que éste hará un aporte de capital directamente en una sociedad holding (TTTTT) dueña de varias sociedades operativas, que ejecutarán los diversos proyectos en Chile. El aumento de capital se hará en consideración al valor de libros de conformidad al patrimonio determinado por la sociedad anónima.
 
-Lo anterior, en razón a que su CPT [1] es negativo, aun cuando se registre un saldo de FUT [2] positivo al inicio del año comercial 2017, año en que realizará su término de giro.
+Luego de un análisis de la jurisprudencia [1] de este Servicio relacionada con la materia en consulta, entiende que, puede materializar su inversión vía Capítulo XIV del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Por lo anterior, desea confirmar que dicho criterio es aplicable a un FICER que cuente con una autorización para la constitución de dichos Fondos al amparo del D.L. 600, pero que hasta ahora no había materializado la inversión en el país.
+
+De igual forma entiende, que los aportes realizados por un accionista a la sociedad "TTTTT", como consecuencia del aumento de capital que se menciona, constituirá capital social, y en virtud de esta constituirá un ingreso no renta respecto de la sociedad emisora, conforme a lo establecido en el N° 5, del artículo 17, de la Ley sobre Impuesto a la Renta (LIR), sólo hasta el monto estipulado en la respectiva Junta Extraordinaria de Accionistas donde se hubiera acordado la reforma de estatutos de aumento de capital. Finalmente, indica que de conformidad al artículo 26 de la Ley N° 18.046, es la Junta de Accionistas quien puede emitir acciones de pago y ofrecerlas al precio que ésta libremente determine.
+
+Atendido lo anterior y considerando que no existen normas ni pronunciamientos por parte de este Servicio que se refieran expresamente a esta materia, solicita confirmar los siguientes criterios o bien establecer el criterio aplicable al caso descrito:
+
+a) Confirmar que en el caso concreto es aplicable el Oficio N°1.685 del 26 de junio de 2017, al caso consultado.
+
+b) Consecuente con lo anterior, el FICER gozará de los beneficios del Impuesto a la Renta con tasa del 10% en carácter de único.
+
+c) No existe inconveniente en que el FICER ingrese como accionista a la sociedad holding del grupo en Chile (TTTTT), controlada actualmente por los mismos accionistas que controlan el FICER, lo que será aprobado con acuerdo de la Junta Extraordinaria Accionistas, en consideración al valor libro de la sociedad Holding.
+
+En Minuta complementaria de 23 de noviembre de 2017, agrega como antecedente de su consulta, que de acuerdo con el artículo tercero de la Ley N° 18.657 (en forma previa a su derogación), el FICER presentó una serie de documentos a la Superintendencia de Valores y Seguros (SVS), entre ellos, el documento de constitución del Fondo, la individualización de la sociedad anónima chilena encargada de la administración de las inversiones, la indicación del patrimonio a ingresar al país, plazo de duración del Fondo y el reglamento interno de la operación del Fondo. Indica que dicho reglamento interno fue registrado y debidamente aprobado por la SVS, mediante resolución exenta del año 2013. Indica que, en razón de lo anterior, el FICER se encontraba autorizado
 
 II.- ANÁLISIS.
 
-Los nuevos regímenes generales de tributación vigente a contar del 1° de enero de 2017, determinan las rentas acumuladas en las empresas en término patrimoniales. Para dichos efectos, la ley calcula los incrementos de patrimonio a través de la depuración del Capital Propio Tributario, por cuanto en dicho capital se encuentran los resultados netos obtenidos por la empresa. Este criterio puede observarse, por ejemplo, en el cálculo del registro RAI [3] y naturalmente al momento de determinar la base imponible de término de giro.
+Al respecto, procede indicar en primer término, que este Servicio por medio de la jurisprudencia que indica en su presentación, entre otras materias y luego de un análisis sobre la aplicación del Artículo 5° de las disposiciones transitorias de la Ley N° 20.712, concluye que un FICE o FICER que mantiene inversiones en Chile a la fecha de entrada en vigencia de dicha Ley [2] , conservará el régimen tributario especial establecido en la Ley N°18.657 (Impuesto a la Renta con una tasa del 10% en Carácter de Único) respecto de las inversiones que se hayan efectuado o que estén autorizadas en este tipo de Fondos, en conformidad a un contrato de inversión extranjera suscrito de acuerdo al D.L. N° 600, bajo la condición que cumplan los requisitos que se establecen en los artículos 14 al 18, del Título II, de la derogada Ley N° 18.657, aun si deja de cumplir con las demás obligaciones y restricciones que establecía dicha Ley.
 
-Por lo expuesto, se debe entender que solo tales incrementos de patrimonio deben ser gravados con los impuestos personales, o con la tributación que la sustituya, al momento del término de giro, en consideración a que sólo dichas sumas permanecen dentro de la empresa.
+Agrega la parte conclusiva, que un FICE o FICER que ponga término a sus contratos sujetos al D.L. N°600 y mude sus inversiones al régimen cambiario del Capítulo XIV, del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, no pierde el beneficio tributario señalado en el inciso primero del artículo 15 de la Ley N°18.657, toda vez que el artículo 5° de las disposiciones transitorias de la Ley N° 20.712, prescribe que la conservación de este beneficio tributario opera sólo respecto de las inversiones que se hayan efectuado o que estén previamente autorizadas en este tipo de Fondos de Inversión, en conformidad a un Contrato de Inversión Extranjera que se hubiera suscrito de acuerdo al D.L. N° 600, sin que se exija por la norma la mantención de dicho contrato de inversión extranjera.
 
-En cuanto a las utilidades tributables acumuladas en el registro FUT, ellas son representativas de la acumulación anual de los incrementos de patrimonio que, como regla general, se reflejaban en los nuevos activos que obtenían las empresas, y por esa vía también terminaban formando parte del capital propio tributario.
+Aparece claro conforme a lo señalado en los párrafos anteriores, que para que proceda la mantención del régimen impositivo establecido para los FICE y FICER en el inciso primero del artículo 15 de la Ley N°18.657, en los términos previstos por el artículo 5° de las disposiciones transitorias de la Ley N° 20.712, debe tratarse de Fondos de Inversión constituidos al amparo de la Ley N° 18.657, que hayan materializado la inversión o que dicha inversión se encuentre previamente autorizada en este tipo de fondos, y en ambos casos, conforme a un contrato de inversión extranjera suscrito de acuerdo al D.L. N° 600 de 1974.
 
-De este modo, cuando una empresa obligada a determinar su renta efectiva según contabilidad completa efectúe su término de giro a contar del 1° de enero de 2017, al comenzar a depurar su capital propio tributario de las cantidades que de acuerdo a la LIR no deben pagar impuestos [4] , determinará el total de incrementos de patrimonio, o dicho de otro modo, el total de rentas o cantidades pendientes de tributación que aún permanecen en la empresa, entre las cuales, por regla general, se incluyen las registradas en el FUT.
+De acuerdo a lo que expresa en su presentación, el FICER al que se refiere en su consulta fue constituido de conformidad con la Ley N° 18.657 que regulaba los Fondos de Inversión de Capital Extranjero de Riesgo y celebró con el Estado de Chile un contrato ley, de conformidad al Decreto Ley N°600, acogiéndose a los derechos y garantías que otorga dicho cuerpo normativo. También indica en su consulta que no se ha materializado a la fecha su inversión, toda vez que, según señala, el aporte de fondos al FICER desea materializarlo formalmente el año 2018, para luego realizar éste la inversión de los mismos, como un aporte de capital en la sociedad holding (TTTTT) dueña de varias sociedades operativas, que ejecutarán diversos proyectos en Chile.
 
-En consecuencia, los contribuyentes sujetos a los regímenes de las letras A) o B) del artículo 14 de la LIR [5] , al término de giro no deben efectuar ningún tipo de ajuste referente a las rentas acumuladas en el registro FUT existente al 31 de diciembre de 2016, sin perjuicio de los demás ajustes que deban realizarse en los términos del N° 9, N° I.-, del artículo tercero transitorio de la Ley N° 20.780 de 2014 [6] .
+En la situación descrita, y de acuerdo a lo dispuesto expresamente por el artículo 5° de las disposiciones transitorias de la Ley N° 20.712, el FICER respecto del cual se consulta, conserva la garantía de invariabilidad establecida en el inciso tercero del artículo 15 de la Ley N° 18.657, ya que se trataría de una inversión previamente autorizada en este tipo de fondos de inversión, conforme lo disponía el DL 600, de 1974.
 
 III.- CONCLUSIÓN.
 
-Los contribuyentes sujetos a los regímenes de renta atribuida o de imputación parcial de créditos, para determinar las rentas pendientes de tributación acumuladas en las empresas al momento del término de giro, deberán rebajar del valor positivo del CPT todas aquellas cantidades que conforme a la LIR no deban pagar impuestos, no debiendo realizar ningún ajuste o comparación con las rentas acumuladas en el registro FUT existente al 31 de diciembre de 2016.
+Conforme al ANÁLISIS anterior, a continuación, se da respuesta a sus consultas en el mismo orden en que fueron formuladas:
+
+En el caso consultado, resulta aplicable el Oficio N° 1685 de 2017.
+
+De acuerdo a lo dispuesto por el artículo 5° de las disposiciones transitorias de la Ley N° 20.712, El FICER se sujetará a la tributación que establecía el inciso 1° del artículo 15 de la derogada Ley N° 18.657, esto es, impuesto único con tasa de 10% para toda cantidad que se remese, que no corresponda al capital originalmente invertido u otras cantidades que la misma norma señala.
+
+Respecto a la factibilidad que el FICER ingrese como accionista a la sociedad holding del grupo en Chile (TTTTT), controlada actualmente por los mismos accionistas que controlan el FICER, cabe expresar que dicha materia no es de índole tributaria, por lo que escapa a la competencia de este Servicio un pronunciamiento sobre el particular. De igual forma cabe expresar que las disposiciones de la Ley N° 18.046, respecto de las cuales solicita confirmar que es la Junta de Accionistas quien puede emitir acciones de pago y ofrecerlas al precio que ésta libremente determine, están fuera del ámbito de la competencia de este Servicio.
+
+Finalmente, en relación con el entendimiento que expresa en el contexto de su presentación, respecto a la calificación como ingreso no renta de los aportes realizados por un accionista a la sociedad "TTTTT", como consecuencia del aumento de capital que menciona en su presentación, ello en conformidad con lo dispuesto en el N° 5, del artículo 17 de la LIR, cabe expresar que conforme con las instrucciones impartidas sobre el particular por este Servicio por medio de la Circular N° 44 de 2016, para ser calificados como tales los referidos aportes deben haber cumplido con las formalidades propias de la constitución o modificación del contrato social, según corresponda, de acuerdo al tipo social de que se trate.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 199, de 30.01.2018
+Oficio N° 200, de 30.01.2018
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
 
-[1] Capital propio tributario, determinado de acuerdo al N° 1, del artículo 41 de la LIR.
+[1] Oficios N° s 1.685, de 26.07.2017 y 1.536, de 06.07.2017.
 
-[2] Fondo de utilidades tributables.
-
-[3] Rentas afectas a impuestos. Registro establecido en la letra a), del N° 2, de la letra B), del artículo 14 de la LIR.
-
-[4] Registro REX y RAP, y el capital aportado, según corresponda.
-
-[5] Ley sobre Impuesto a la Renta.
-
-[6] Las instrucciones se encuentran impartidas mediante Circular N°49 de 2016.
+[2] 01.05.2014.

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 52
 - Año: 2017
-- Fecha: 2017-10-20
+- Fecha: 2017-10-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu52.pdf
 - Hash SHA-256: 16a7235085a6bc549e81538599cc8f1488a2b0a67a0dc15f05e8c8df9080e23b
 
 ## Resumen
 
-te;n adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 53 del 20 de Octubre del 2017 Tabla de Cálculos de Reajustes, Intereses y Multas Noviembre 2017 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2017 y el 9 de noviembre del año 2017. Fuente: Oficina de Gestión Normativa Circular N° 51 del 13 de Octubre del 2017 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre del año 2017,…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2017 y el 9 de noviembre del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

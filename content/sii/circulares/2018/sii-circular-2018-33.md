@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2018
-- Fecha: 2018-06-27
+- Fecha: 2018-06-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu33.pdf
 - Hash SHA-256: f98cb2d970fe82f8d1da02b80d3d1233b952209be4cb7b7220ad215c9e962e4a
 
 ## Resumen
 
-Circular N° 34 del 27 de Junio del 2018 Imparte instrucciones relativas al procedimiento de reposición administrativa establecido en el artículo 123 bis del Código Tributario, modificado por la Ley N° 21.039. Deroga Circular N° 13, de 29 de enero de 2010. Fuente: Departamento de Asesoría Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2018 y el 9 de julio del año 2018. Fuente: OFICINA DE GESTIÓN NORMATIVA Circular N° 32 del 11 de Junio del 2018 Tablas de Impuesto Únic…
+;a Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2018 y el 9 de julio del año 2018. Fuente: OFICINA DE GESTIÓN NORMATIVA
 
 ## Referencias detectadas
 

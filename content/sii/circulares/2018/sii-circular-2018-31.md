@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2018
-- Fecha: 2018-06-11
+- Fecha: 2018-05-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu31.pdf
 - Hash SHA-256: 636504451d6c3c9fdc2a9fb06e85958028e562de367fc563cc24849c04cad29e
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: OFICINA DE GESTIÓN NORMATIVA Circular N° 32 del 11 de Junio del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones incorporadas por la Ley N°21.047 de 2017, al artículo cuarto de las Disposiciones Transitorias de la Ley N°20.899 de 2016, respecto a la extensión del plazo para no aplicar la obligación de res…
+acute;n Normativa Instruye sobre las modificaciones incorporadas por la Ley N°21.047 de 2017, al artículo cuarto de las Disposiciones Transitorias de la Ley N°20.899 de 2016, respecto a la extensión del plazo para no aplicar la obligación de restitución establecida en el artículo 63 de la LIR a domiciliados en países con Convenio con Chile para evitar la doble tributación internacional, y al artículo 37 del Decreto Ley N°1.939 de 1977, acerca del tratamiento tributario de las donaciones al Fisco. Fuente: Subdirecc…
 
 ## Referencias detectadas
 

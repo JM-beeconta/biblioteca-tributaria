@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 16 del 10 de Marzo del 2020 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2020 y el 9 de abril de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Circular N° 14 del 26 de Febrero del 2020 Nuevas es…
+acute;n Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

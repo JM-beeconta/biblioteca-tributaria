@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 61
 - Año: 2017
-- Fecha: 2017-12-27
+- Fecha: 2017-12-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu61.pdf
 - Hash SHA-256: d9fbcb6fdc06cf78f2160a62c0228a00fdc1ea5beda232bff935380ef9dd2549
 
 ## Resumen
 
-='_blank'>Circular N° 62 del 27 de Diciembre del 2017 Reemplaza procedimiento para efectuar La Declaración Jurada para el cálculo del avalúo fiscal de las unidades y del porcentaje de derechos que les correspondan sobre los bienes de dominio común, de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la Ley Nº 19.537 Fuente: Subdirección de Avaluaciones Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2018 Fuente: Subdirección de Fiscalización Circular N° 60 del 15 de Diciembre d…
+;n de Avaluaciones Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 62
 - Año: 2017
-- Fecha: 2017-12-29
+- Fecha: 2017-12-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu62.pdf
 - Hash SHA-256: e4722967c40d47293dba7398fbe96b1bd2d41565869edc0fee1e845a4e999fea
 
 ## Resumen
 
-Circular N° 63 del 29 de Diciembre del 2017 Tratamiento tributario de las donaciones a que se refiere la Ley N°21.047, de 2017, efectuadas a la Conferencia Episcopal de Chile. Fuente: Departamento de Impuestos Directos Reemplaza procedimiento para efectuar La Declaración Jurada para el cálculo del avalúo fiscal de las unidades y del porcentaje de derechos que les correspondan sobre los bienes de dominio común, de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la Ley Nº 19.537 Fuente:…
+Impuestos Directos Reemplaza procedimiento para efectuar La Declaración Jurada para el cálculo del avalúo fiscal de las unidades y del porcentaje de derechos que les correspondan sobre los bienes de dominio común, de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la Ley Nº 19.537 Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

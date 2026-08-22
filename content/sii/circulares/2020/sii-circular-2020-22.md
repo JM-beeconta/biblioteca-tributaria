@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2020
-- Fecha: 2020-03-31
+- Fecha: 2020-03-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu22.pdf
 - Hash SHA-256: 3f04633a9875b3c8b40020c43887688f8a4f5f22a063092ffd72d7ef772844ae
 
 ## Resumen
 
-res N°s 20 y 41, de 2014 y N° 2, de 2017. Fuente: Subdirección de Avaluaciones Circular N° 23 del 31 de Marzo del 2020 Anexo Suplemento Tributario Año 2020. Complementa Circular N° 8 de 2020. Fuente: Oficina de Gestión Normativa. Modificaciones efectuadas por la Ley N° 21.210 publicada el 24 de febrero de 2020, a la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados. Fuente: Departamento de Impuestos Directos. Circular N° 21 del 25 de Marzo del 2020 Imparte instrucciones sobre deroga…
+acute;n Normativa. Modificaciones efectuadas por la Ley N° 21.210 publicada el 24 de febrero de 2020, a la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados. Fuente: Departamento de Impuestos Directos.
 
 ## Referencias detectadas
 

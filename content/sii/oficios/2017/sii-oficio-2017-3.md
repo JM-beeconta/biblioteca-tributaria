@@ -6,185 +6,196 @@
 - Año: 2017
 - Fecha: 2017-08-23
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1874.doc
-- Hash SHA-256: 9620d5e1a895bacf5d21354811ffd2a9335231db61384a2b5257c69a1257d4b6
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1875.doc
+- Hash SHA-256: 01b4504723d0bd22d01935dcfd7256bf5540b0ae1725aab55b54a5d6cadbdd33
 
 ## Resumen
 
-disposiciones tributarias que se indican en .298 del año 2015, del SII, respecto de la vigencia de la Circular N° 35 de 2008, en lo que dice relación con el beneficio tributario establecido en el artículo 107 de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Del Trabajo, Art. 3, Art. 48, Art. 49 &ndash; Oficio N° 1793, de 2002. (Ord. Nº 1874, de 23-08-2017) | Word Solicita un pronunciamiento en relación con la determinación de la base sobre la que se calculan las grat…
+| Word Solicita se ratifiquen o complementen las disposiciones tributarias que se indican en .298 del año 2015, del SII, respecto de la vigencia de la Circular N° 35 de 2008, en lo que dice relación con el beneficio tributario establecido en el artículo 107 de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1793,"year":2002}
+- {"type":"circular","number":35,"year":2008}
+- {"type":"articulo","law":"LIR","article":"107"}
+- {"type":"articulo","law":"LIR","article":"18 ter"}
+- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"articulo","law":"LIR","article":"107 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DEL TRABAJO, ART. 3, ART.
-    48, ART. 49 – OFICIO N° 1793, DE 2002. (ORD. N° 1874, DE 23.08.2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 107, N°1 – OFICIOS N° 3298,
+   DE 2015 Y N° 1076, DE 2017 – CIRCULAR N° 35, DE 2008. (ORD. N° 1875, DE
+                                 23.08.2017)
 
 
 
-Solicita un pronunciamiento en relación con la  determinación  de  la  base
-sobre la que se calculan las gratificaciones, tratándose de  empresas  que,
-en conformidad a lo dispuesto por el artículo 3, inciso 4  del  Código  del
-Trabajo, han sido declaradas  como  un  solo  empleador  para  los  efectos
-laborales y previsionales.
-
-
-
-Se ha recibido en esta Dirección Nacional su  presentación  indicada  en  el
-antecedente, mediante  la  cual  requiere  un  pronunciamiento  en  orden  a
-determinar la fórmula de pago del beneficio de gratificación legal  previsto
-en el artículo 47 del Código del Trabajo, tratándose  de  empresas  que  han
-sido declaradas  como  un  solo  empleador  para  los  efectos  laborales  y
-previsionales en conformidad a lo dispuesto por el artículo  3,  del  Código
-del Trabajo, modificado por el Artículo único, N° 1, de la  Ley  N°  20.760,
-publicada en el Diario Oficial de fecha 09.07.2014.
-
-ANTECEDENTES:
-
-Manifiesta que se recibió en esa Dirección del Trabajo, una presentación en
-la que respecto de algunas empresas de la industria del transporte de carga
-terrestre por carretera que han sido declaradas en  fechas  recientes  como
-unidad económica para efectos laborales y previsionales  de  conformidad  a
-las modificaciones que la Ley N° 20.760 incorporó al artículo 3° del Código
-del Trabajo, y que hasta ahora pagaban la gratificación legal del  artículo
-47 del referido código en  forma  separada  e  independiente,  se  solicita
-instrucciones sobre la fórmula de cálculo a aplicar para el pago  de  estas
-gratificaciones,  habida  consideración  que  la  declaración   de   unidad
-económica no implica la unificación operativa, contable  ni  tributaria  de
-sus empresas.
-
-En  opinión  de  quien  consulta  ante   esa   Dirección,   existirían   dos
-posibilidades fácticas para su cálculo:
-
-1.- Que se mantenga la  singularidad  de  los  datos  de  cada  una  de  las
-empresas, en forma independiente, en cuyo caso no  variaría  la  fórmula  de
-pago utilizada hasta la fecha;
-
-2.- Que en este nuevo contexto de la declaración  de  unidad  económica,  se
-deba agregar y sumar los valores de las empresas, para  llegar  a  un  valor
-único y total de utilidad líquida de capital  propio,  debiendo  ver  montos
-devengados por cada trabajador en período anual del total de  remuneraciones
-de ambas empresas, antecedentes referidos en  artículos  47,  48  y  49  del
-Código del Trabajo, que constituyen los datos básicos para el cálculo de  la
-respectiva  gratificación,  pagando  este  beneficio  a  prorrata   a   cada
-trabajador, pero considerando ahora los datos globales.
-
-Al  respecto  esa  Dirección  del  Trabajo,  con  el  objeto   de   resolver
-fundadamente sobre  el  particular,  solicita  se  informe  respecto  de  la
-situación de las empresas que han sido objeto de tal declaración,  señalando
-los efectos de la misma en  la  determinación  de  la  utilidad  que  deberá
-servir de base para el cálculo del mencionado beneficio, en  conformidad  al
-artículo 49 del Código del Trabajo.
-
-II.- ANÁLISIS.
-
-1. Sobre el particular cabe señalar que los nuevos incisos cuarto al  octavo
-  del Artículo 3° del Código del Trabajo, que conforme a lo dispuesto en la
-  letra b) del N° 1, del Artículo único de la Ley N° 20.760, sustituyen  el
-  ex inciso final del referido artículo 3°, establecen lo siguiente:
-
-
-  "Dos o más empresas  serán  consideradas  como  un  solo  empleador  para
-  efectos laborales y previsionales, cuando tengan  una  dirección  laboral
-  común, y concurran a su respecto condiciones tales como  la  similitud  o
-  necesaria complementariedad de los productos o servicios que  elaboren  o
-  presten, o la existencia entre ellas de un controlador común.
-  La mera circunstancia de participación en la propiedad de las empresas no
-  configura por sí sola alguno de los elementos o condiciones señalados  en
-  el inciso anterior.
-  Las  empresas  que  cumplan  lo  dispuesto  en  el  inciso  cuarto  serán
-  solidariamente  responsables  del  cumplimiento   de   las   obligaciones
-  laborales  y  previsionales  emanadas  de  la  ley,  de   los   contratos
-  individuales o de instrumentos colectivos.
-  Las cuestiones suscitadas por la aplicación de los incisos anteriores  se
-  sustanciarán por el juez del trabajo, conforme al Párrafo 3° del Capítulo
-  II del Título I del Libro V de este Código, quien  resolverá  el  asunto,
-  previo informe de la Dirección  del  Trabajo,  pudiendo  requerir  además
-  informes de otros órganos de la Administración del Estado.  El  ejercicio
-  de las acciones judiciales derivadas de la aplicación del inciso  cuarto,
-  así como la sentencia definitiva respectiva, deberán, además,  considerar
-  lo dispuesto en el artículo 507 de este Código.
-  Los  trabajadores  de  todas  las  empresas  consideradas  como  un  solo
-  empleador podrán constituir uno o  más  sindicatos  que  los  agrupen,  o
-  mantener  sus  organizaciones  existentes;  podrán,  asimismo,   negociar
-  colectivamente con todas las empresas que han sido consideradas  como  un
-  empleador, o bien con cada una de ellas. Los sindicatos interempresa  que
-  agrupen exclusivamente a trabajadores dependientes de empresas que  hayan
-  sido declaradas como un solo  empleador  podrán  presentar  proyectos  de
-  contrato colectivo, siendo obligatorio para  el  empleador  negociar  con
-  dichos sindicatos. En todos estos casos, la presentación y tramitación de
-  los  proyectos  de  contrato  colectivo  se  regirán   por   las   normas
-  establecidas en el Capítulo  I  del  Título  II  del  Libro  IV  de  este
-  Código.".
-
-
-2. La jurisprudencia de este Servicio[1],  emitida  con  anterioridad  a  la
-  incorporación de tales modificaciones en el Código del Trabajo, a  través
-  de la cual se respondió a consulta formulada en dicha oportunidad por esa
-  Dirección del Trabajo, se refirió a la forma de  determinar  la  utilidad
-  líquida y el capital propio  invertido  en  la  empresa  en  el  caso  de
-  sociedades distintas para efectos  de  las  gratificaciones  legales,  es
-  decir, de entes jurídicos diferentes, cada uno con su propia personalidad
-  jurídica y razón social, aunque desarrollen el mismo tipo de  actividades
-  o se encuentren relacionadas entre sí al participar en el capital social.
-
-
-  En tal situación la referida jurisprudencia determinó que cuando se trate
-  de “…. contribuyentes diferentes e independientes unos de otros, al tener
-  cada uno su propia personalidad jurídica y razón social, los elementos  o
-  parámetros a que se refieren los artículos 48 y 49 del Código de Trabajo,
-  esto es, la utilidad líquida y el capital propio invertido en la empresa,
-  deben determinarse en forma separada o cada  uno  de  los  contribuyentes
-  indicados deben determinar sus propios elementos para  los  fines  a  que
-  aluden las normas legales precitadas, de  acuerdo  con  sus  antecedentes
-  contables y tributarios e  instrucciones  impartidas  por  este  Servicio
-  sobre el particular.”.
-
-
-3. Luego de la reforma al Código del Trabajo que da  origen  a  la  presente
-  consulta, lo que se debe determinar es si la obligación contenida  en  el
-  artículo 47 del Código del Trabajo de pagar gratificaciones anuales a los
-  trabajadores queda incluida en la expresión “Dos  o  más  empresas  serán
-  consideradas  como  un  solo   empleador   para   efectos   laborales   y
-  previsionales” contenida en el inciso cuarto del artículo 3°  del  Código
-  del Trabajo.
+Solicita se ratifiquen o complementen las disposiciones tributarias  que  se
+indican en Oficio Ord. N° 3.298 del  año  2015,  del  SII,  respecto  de  la
+vigencia de la Circular N° 35 de 2008,  en  lo  que  dice  relación  con  el
+beneficio tributario  establecido  en  el  artículo  107  de  la  Ley  sobre
+Impuesto a la Renta.
 
 
 
 
-4. Ahora bien, las modificaciones incorporadas al Código del Trabajo por  la
-  Ley  N°  20.760,  corresponden  a  materias  de   índole   laboral   cuya
-  interpretación conforme a lo establecido en el Decreto con Fuerza de  Ley
-  N° 2 de 1967, del Ministerio del Trabajo y Previsión Social,  corresponde
-  a la Dirección del Trabajo[2] y no a este Servicio, al  cual  de  acuerdo
-  con el artículo 1° de su Ley Orgánica, contenida en el  artículo  primero
-  del DFL N° 7, de 1980, del Ministerio de Hacienda, y el artículo  6°  del
-  Código  Tributario,  en  el  ámbito  de  su  competencia  le  corresponde
-  interpretar, aplicar y fiscalizar las normas tributarias cuyo control  no
-  esté encomendado por ley a una autoridad diferente.
+Se ha recibido en esta Dirección Nacional, su presentación  indicada  en  el
+antecedente, mediante  la  cual  solicita  se  ratifique  y  complemente  la
+respuesta emitida por este Servicio a través del Oficio  Ord.  N°  3.298  de
+2015, respecto del beneficio tributario establecido en el  artículo  107  de
+la Ley sobre Impuesto a la Renta.
 
-  Efectuada tal determinación por la autoridad  competente,  el  SII  podrá
-  cumplir con el mandato contenido en los artículos 48 y 49 del Código  del
-  Trabajo, de efectuar el cálculo correspondiente e informar el monto de la
-  utilidad  líquida  que  debe  servir  de  base  para  el  pago   de   las
-  gratificaciones.
+I.    ANTECEDENTES
 
+Expone que la empresa que representa solicitó  un  pronunciamiento  de  este
+Servicio respecto a la correcta interpretación del artículo 107  de  la  Ley
+de Impuesto a la Renta (LIR) y la Circular N° 35 de 2008, a la cual  se  dio
+respuesta mediante el Oficio N° 3.298 de 2015. Sin embargo, dicha  respuesta
+adolece de algunas imprecisiones, y por lo  mismo,  no  se  pronunció  sobre
+todas las hipótesis legales previstas expresamente por el legislador  en  el
+artículo 107 de la LIR.
 
-5. En consecuencia, corresponde a esa Dirección del Trabajo  determinar,  en
-  base a las nuevas normas incorporadas al Código del Trabajo por la Ley N°
-  20.760, si la forma de determinar la utilidad líquida y el capital propio
-  invertido en la empresa en el caso de sociedades distintas  para  efectos
-  de las gratificaciones legales, es decir, de entes jurídicos  diferentes,
-  cada uno con su propia  personalidad  jurídica  y  razón  social,  aunque
-  desarrollen el mismo tipo de actividades  o  se  encuentren  relacionadas
-  entre sí al participar en el capital social, se debe  efectuar  por  cada
-  persona jurídica o por el conjunto de empresas que  son  consideradas  un
-  solo empleador, de acuerdo a lo dispuesto en el artículo  3°  del  Código
-  del Trabajo.
+Dado lo anterior, solicita se complemente la citada  respuesta,  conforme  a
+lo siguiente:
 
 
+1.- Que tal como indica el Oficio N°3.298 de 2015, actualmente  se  mantiene
+plenamente vigente el criterio contenido en la Circular N°35  de  2008,  que
+expresamente dispone: "En primer  término,  cabe  señalar  que  respecto  al
+tratamiento tributario de estas acciones de canje en  relación  al  artículo
+18 ter de la LIR,  este  Servicio  estima  que  para  estos  efectos,  tales
+acciones de canje son asimilables a acciones  de  pago  de  primera  emisión
+causadas en la constitución de una nueva sociedad anónima o  en  un  proceso
+de aumento de capital de una sociedad ya existente”.
+
+
+2.- Que el texto del artículo 107 de  la  LIR,  expresamente  establece  que
+para tener derecho  al  beneficio:  "b)  Las  acciones  deberán  haber  sido
+adquiridas  en:  i)  una  bolsa  de  valores  del  país  autorizada  por  la
+Superintendencia de Valores y  Seguros,  o  ii)  en  un  proceso  de  oferta
+pública de adquisición de acciones regida por el Título XXV  de  la  Ley  N°
+18.045, o iii) en una colocación de acciones de primera emisión, con  motivo
+de la constitución de la sociedad o de un aumento de  capital  posterior,  o
+iv) con ocasión del canje de  valores  de  oferta  pública  convertibles  en
+acciones, o v) en un rescate  de  valores  acogido  a  lo  dispuesto  en  el
+artículo 109”.
+
+3.- Que el texto del mismo artículo 107 de la LIR, establece que en caso  de
+la hipótesis de la letra b), numeral iii), para  acciones  adquiridas  antes
+de su colocación en bolsa, el efecto tributario de ello será,  textualmente,
+el siguiente: "c) En el caso previsto en el literal iii), de  la  letra  b),
+si las acciones se hubieren adquirido antes de su  colocación  en  bolsa  el
+mayor valor no constitutivo de renta será el que se produzca  por  sobre  el
+valor superior entre el de dicha colocación o el  valor  de  libros  que  la
+acción tuviera  el  día  antes  de  su  colocación  en  bolsa,  quedando  en
+consecuencia afecto a los impuestos de esta ley, en la  forma  dispuesta  en
+el artículo 17,  el  mayor  valor  que  resulte  de  comparar  el  valor  de
+adquisición inicial, debidamente reajustado en la forma dispuesta  en  dicho
+artículo, con el valor señalado precedentemente. Para  determinar  el  valor
+de libros se aplicará lo dispuesto en el inciso tercero del artículo 41.”
+
+
+4.- Que el reciente Oficio N°  1.076,  de  2017,  expresamente  resuelve  lo
+siguiente: “Enseguida, las acciones de la sociedad anónima  cerrada,  fueron
+para dichos efectos legales, adquiridas antes de su colocación en  bolsa,  y
+por tanto, debe entenderse que el mayor valor que no constituye renta en  el
+caso de la enajenación de las acciones recibidas en canje, que  solo  vienen
+a reemplazar a las primeras, será el que se  produzca  por  sobre  el  valor
+superior entre:
+   a. el valor de colocación, entendiéndose por éste el valor en  bolsa  de
+      la acción de canje del día en que se produzca dicho canje, o
+   b. el valor libro que la acción de la sociedad absorbida tuviera el  día
+      antes de su colocación en bolsa.”
+
+De todo lo expuesto, concluye que siendo las acciones de  canje  asimilables
+a acciones de pago por  aumento  de  capital,  cuando  ellas  hubiesen  sido
+adquiridas antes de su colocación en bolsa, el mayor valor  no  constitutivo
+de renta será el que se produzca por sobre el valor  superior  entre  el  de
+dicha colocación o el valor de libros que la acción tuviera el día antes  de
+su colocación en bolsa, quedando en consecuencia afecto a los  impuestos  de
+esta ley, en la forma dispuesta en  el  artículo  17,  el  mayor  valor  que
+resulte de comparar el valor de adquisición inicial, debidamente  reajustado
+en  la  forma  dispuesta  en  dicho   artículo   con   el   valor   señalado
+precedentemente, criterio que finalmente solicita sea ratificado.
+
+II.   ANÁLISIS
+
+Tal como lo señala en su presentación, este  Servicio  emitió  recientemente
+un pronunciamiento sobre la materia consultada a través del Oficio N°  1.076
+de fecha 19  de  mayo  de  2017,  en  el  cual  se  analiza  el  tratamiento
+tributario aplicable en relación a lo dispuesto en el artículo 107, N° 1  de
+la LIR, a las acciones de  canje  emitidas  en  un  proceso  de  fusión  por
+absorción de una sociedad anónima cerrada por parte de una sociedad  anónima
+abierta con presencia bursátil.
+
+En  el  referido  oficio  se  establece,  en   primer   término,   que   las
+instrucciones relativas a la aplicación de las normas del  artículo  107  N°
+1) de la LIR, están contenidas en  la  Circular  N°  35,  de  2008,  que  se
+encuentra vigente. Conforme a lo  cual,  las  acciones  de  primera  emisión
+distribuidas por una sociedad anónima abierta  con  presencia  bursátil  con
+motivo de su aumento de capital, en el canje de las acciones de la  sociedad
+anónima cerrada absorbida, pueden acogerse a lo  dispuesto  en  el  artículo
+107 de la LIR, pues satisfacen el requisito establecido en  su  N°1),  letra
+b), literal iii); siempre que se cumplan los  demás  requisitos  legales;  y
+por lo tanto, se podrán sujetar  a  la  liberación  de  impuestos  que  ella
+establece.
+
+En segundo  término,  el  referido  oficio  señala  que  resulta  plenamente
+aplicable el límite dispuesto en la letra c), del N°1, del artículo  107  de
+la LIR, y por tanto, no  constituye  renta,  sólo  el  mayor  valor  que  se
+produzca en la enajenación por sobre  el  valor  superior  entre  el  de  su
+colocación, (entendiéndose por valor de colocación en este caso el valor  en
+bolsa de la acción de canje, del día en que se produzca dicho canje),  o  el
+valor libro que la acción de la sociedad absorbida tuviera el día  antes  de
+su colocación en bolsa. Por lo tanto, quedará afecto a los impuestos  de  la
+LIR, en la forma dispuesta en su artículo 17, el mayor valor que resulte  de
+comparar el valor de adquisición inicial, esto es, el valor  de  adquisición
+de las acciones de la sociedad absorbida,  debidamente  reajustado,  con  el
+valor señalado precedentemente, esto es, el valor superior que exista  entre
+el de colocación o el valor libro que las acciones de la sociedad  absorbida
+tenían el día antes de la colocación.
+
+
+Los criterios impartidos mediante el Oficio N° 1.076, de fecha  19  de  mayo
+de 2017, resultan plenamente aplicables al caso consultado, por lo que  cabe
+remitirse a ellos a fin de evitar reiteraciones innecesarias.
+
+A su vez, respecto de las conclusiones señaladas en el Oficio  N°  3.298  de
+2015, cabe hacer presente que  corresponde  ratificar  dichos  criterios,  a
+excepción del contenido en el numeral 2.2, en relación  a  la  determinación
+del mayor valor no  constitutivo  de  renta,  el  cual  debe  complementarse
+conforme a lo indicado en Oficio N° 1.076, de 2017.
+
+En relación a lo anterior, y atendido que se pide complementar el Oficio N°
+3.298 de 2015, se reitera que el mayor valor obtenido en la enajenación de
+acciones de canje de BBBB (absorbente), que den cuenta de acciones
+adquiridas en AAAA. (absorbida) antes del 20 de abril de 2001, no goza del
+régimen preferencial del artículo 107 de la LIR, sino que deberá sujetarse
+a lo dispuesto en el N° 8, del artículo 17 de la LIR, según su texto
+vigente a la fecha de la correspondiente enajenación.
+
+III.  CONCLUSIÓN
+
+Conforme lo expuesto precedentemente se complementa el Oficio  N°  3.298  de
+2015, en el sentido que se confirma que las  instrucciones  relativas  a  la
+aplicación de las normas del artículo 107 N° 1) de la LIR, están  contenidas
+en la Circular N° 35, de 2008, que se encuentra vigente.
+
+En razón de lo anterior, las acciones de primera  emisión  distribuidas  por
+una sociedad anónima abierta con presencia  bursátil  en  el  canje  de  las
+acciones de la sociedad anónima abierta sin  presencia  bursátil  absorbida,
+con motivo de su aumento de capital,  pueden acogerse a lo dispuesto  en  el
+artículo 107 de la LIR, pues  satisfacen  el  requisito  establecido  en  su
+N°1), letra b), literal iii); siempre que se cumplan  los  demás  requisitos
+legales; y por lo tanto se podrán sujetar a la liberación de  impuestos  que
+ella establece.
+
+Asimismo, se reitera el criterio señalado en el Oficio N°  1.076,  de  fecha
+19 de mayo de 2017, en el sentido  que,  en  el  caso  en  análisis  resulta
+aplicable el límite  dispuesto  en  la  letra  c),  del  referido  N°1,  del
+artículo 107, y por tanto, no constituye renta, sólo el mayor valor  que  se
+produzca en la enajenación por sobre  el  valor  superior  entre  el  de  su
+colocación, o el valor libro que la acción de la sociedad absorbida  tuviera
+el día antes de su colocación en bolsa.
 
 
 
@@ -193,21 +204,9 @@ II.- ANÁLISIS.
 
 
 
-III.- CONCLUSIÓN.
 
-  Tratándose las modificaciones incorporadas al Código del Trabajo  por  la
-  Ley N° 20.760, corresponde a esa Dirección del Trabajo, en  mérito  a  lo
-  establecido en el Decreto con Fuerza de Ley N° 2 de 1967, del  Ministerio
-  del Trabajo y Previsión Social,  y no a este Servicio, dictaminar  si  la
-  forma de determinar la utilidad líquida y el capital propio invertido  en
-  la empresa en el caso de las unidades económicas a las que se refiere  el
-  actual inciso cuarto del artículo 3° del Código del  Trabajo,  sobre  las
-  que consulta el recurrente, deben determinar los elementos o parámetros a
-  que se refieren los artículos 48 y 49 del Código de Trabajo, esto es,  la
-  utilidad líquida y el capital propio invertido en la  empresa,  en  forma
-  separada  para  cada  uno  de  las  empresas  integrantes  de  la  unidad
-  económica, o si se debe hacer en conjunto para todos los  integrantes  de
-  la misma unidad.
+                           FERNANDO BARRAZA LUENGO
+                                  DIRECTOR
 
 
 
@@ -222,15 +221,8 @@ III.- CONCLUSIÓN.
 
 
 
-                                       FERNANDO BARRAZA LUENGO
-
-       DIRECTOR
 
 
-
-                        Oficio N° 1874, de 23.08.2017
+                        Oficio N° 1875, de 23.08.2017
                            Subdirección Normativa
                          Dpto. de Impuestos Directos
-                           -----------------------
-[1] Oficio N° 1.793 de 10.06.2002.
-[2] Artículo 1°, letra b) del DFL N° 2, de 1967.

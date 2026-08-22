@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2017
-- Fecha: 2017-07-14
+- Fecha: 2017-07-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu37.pdf
 - Hash SHA-256: b211cf90049229e8fddb792293079e314498aadee5ba497c7711cc71f99da186
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 38 del 14 de Julio del 2017 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2017 y el 9 de agosto del año 2017. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de agosto del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 36 del 30 de Junio del 2017 Tabla de cálculos de intereses y multas, Julio 2017 Fuente: Subdirec…
+acute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de agosto del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

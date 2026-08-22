@@ -11,7 +11,7 @@
 
 ## Resumen
 
-0px;'>Extiende a las cooperativas sometidas a la fiscalización y control de la Superintendencia de Bancos e Instituciones Financieras, la liberación de información de que cuentan las sociedades anónimas abiertas, en los términos establecidos en la Circular N° 17 de 1995. Reemplaza párrafo que indica, de la Circular N° 17, de 10.05.1995, modificada por las Circulares N° 50, del 2003 y 28, del 2017. Fuente: Subdirección de Asistencia al Contribuyente Tablas de Impuesto Único de Segunda Categoría para el mes de junio…
+a al Contribuyente Tablas de Impuesto Único de Segunda Categoría para el mes de junio del año 2018, e información adicional relacionada con dicho tributo Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

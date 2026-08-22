@@ -1,8 +1,8 @@
 {
   "status": "completed",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T22:44:53.686Z",
-  "completed_at": "2026-08-22T22:44:53.686Z",
+  "updated_at": "2026-08-22T23:00:43.079Z",
+  "completed_at": "2026-08-22T23:00:43.079Z",
   "total_ranges": 14,
   "completed_ranges": [
     "2021-2024",
@@ -21,10 +21,11 @@
     "BCN",
     "Resoluciones-2013-2026",
     "Gapfill-2025-2026",
-    "Gapfill-2021-2024"
+    "Gapfill-2021-2024",
+    "Gapfill-2017-2020"
   ],
-  "completed_count": 17,
-  "last_completed_range": "Gapfill-2021-2024",
-  "last_range_documents": 2638,
-  "total_documents": 11143
+  "completed_count": 18,
+  "last_completed_range": "Gapfill-2017-2020",
+  "last_range_documents": 1490,
+  "total_documents": 11146
 }

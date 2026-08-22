@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 40
 - Año: 2018
-- Fecha: 2018-08-09
+- Fecha: 2018-07-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu40.pdf
 - Hash SHA-256: 29bb39410952716fb00bf83e50f1a920ae6e8e0d8ca52064188de4733716cc94
 
 ## Resumen
 
-Fuente: Impuestos Directos Circular N° 41 del 09 de Agosto del 2018 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Agosto 2018 Fuente: Subdirección de Fiscalización Circular N° 39 del 13 de Julio del 2018 Complementa Circular N°54 del 2 de octubre de 2009 extendiendo el tratamiento tributario contenido en ella, a los pañales que presen…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Agosto 2018 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 
