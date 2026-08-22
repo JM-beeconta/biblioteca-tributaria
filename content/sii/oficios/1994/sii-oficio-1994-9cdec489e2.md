@@ -1,0 +1,51 @@
+# Oficio de 1994
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1994
+- Fecha: 1994-01-01
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1994/otras/ene8.htm
+- Hash SHA-256: 1f54ad1c3a7cb661a76c6fa54d882918e9146a1caa9c3258cf3e94cef77cdac0
+
+## Resumen
+
+. C�digo del trabajo - texto refundido, coordinado y sistematizado - contenido en el DFL no. 1, del Ministerio del Trabajo y Previsi�n Social, Enero 1994 C�digo del trabajo texto refundido, DFLno. 1, Ministerio del Trabajo do 24.01.94, art. 47, 48 y 49. establecimientos educacionales particulares, subvencionados o no - trabajadores - gratificaciones legales a que se refiere..... (Of. N� 475, DE 28.01.94). DL no. 825 (nuevo texto), art. 12, letra d), y 55.-, Enero 1994 Frutas - Exportaci�n - Concepto - Venta de mer…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OFICIO 300/1994
+
+Home | Otros - 1994
+
+DL NO. 825 (NUEVO TEXTO), ART. 12,
+LETRA D), Y 55.-
+
+FRUTAS - EXPORTACION - CONCEPTO - VENTA DE MERCADERIAS AL EXTRANJERO - IMPUESTO AL VALOR
+AGREGADO - EXENCION CONTEMPLADA EN ART. 12, LETRA D), DEL DL NO. 825 - EMISION DE FACTURA
+POR CADA EMBARQUE - DOCUMENTACION ADUANERA
+
+EN LOS CASOS DE VENTAS DE FRUTAS AL EXTERIOR, A PARTIR DEL CONCEPTO DE EXPORTACION COMO
+VENTA DE MERCADERIAS AL EXTRANJERO, LAS NORMAS CONTENIDAS EN EL ART. 55 DEL DL NO. 825,
+SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, OBLIGAN AL EXPORTADOR A EMITIR FACTURA POR CADA
+EMBARQUE DE LOS BIENES QUE EXPORTE, CUYA ENTREGA AL COMPRADOR FORANEO SE ENTIENDE HECHA EN
+ESE MOMENTO.
+
+AHORA BIEN, LA VENTA DE MERCANCIAS AL EXTERIOR SE ENCUENTRA EXENTA DEL IMPUESTO AL VALOR
+AGREGADO POR EXPRESA DISPOSICION DEL ART. 12 LETRA D), DEL DL NO. 825, CITADO, SEA CUAL
+FUERE LA MODALIDAD DE FIJACION DEL PRECIO.
+
+FINALMENTE, CABE TENER PRESENTE QUE LAS ANOTACIONES O MENCIONES OBLIGATORIAS QUE DEBEN
+REGISTRARSE EN LA DOCUMENTACION ADUANERA NO SON DE LA COMPETENCIA DEL SERVICIO DE
+IMPUESTOS INTERNOS.
+
+OFICIO NO. 300, DE 19.01.94
+
+SUBDIRECCION NORMATIVA
+
+DEPTO. IMPUESTOS INDIRECTOS
