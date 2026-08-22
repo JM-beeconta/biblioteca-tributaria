@@ -1,11 +1,10 @@
 {
-  "status": "completed",
+  "status": "failed",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T03:39:00.426Z",
-  "completed_at": "2026-08-22T03:39:00.426Z",
+  "updated_at": "2026-08-22T12:40:00.000Z",
+  "completed_at": null,
   "total_ranges": 14,
   "completed_ranges": [
-    "BCN",
     "2021-2024",
     "2017-2020",
     "2013-2016",
@@ -20,8 +19,14 @@
     "1977-1980",
     "1974-1976"
   ],
-  "completed_count": 14,
+  "completed_count": 13,
   "last_completed_range": "1974-1976",
   "last_range_documents": 13,
-  "total_documents": 8377
+  "total_documents": 8377,
+  "sii_complete": true,
+  "sii_documents": 8374,
+  "bcn_status": "failed",
+  "bcn_documents": 3,
+  "failure_stage": "BCN",
+  "failure_reason": "LeyChile devolvió una respuesta incompleta al crawler; la reparación BCN debe continuar por separado."
 }
