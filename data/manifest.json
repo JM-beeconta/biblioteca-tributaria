@@ -1,17 +1,20 @@
 {
-  "generated_at": "2026-08-22T03:35:31.357Z",
-  "total_documents": 8322,
+  "generated_at": "2026-08-22T03:36:22.623Z",
+  "total_documents": 8352,
   "by_source": {
-    "SII": 8319,
+    "SII": 8349,
     "BCN": 3
   },
   "by_type": {
-    "oficio": 7466,
+    "oficio": 7496,
     "circular": 853,
     "norma": 3
   },
   "by_year": {
     "1974": 3,
+    "1985": 8,
+    "1987": 7,
+    "1988": 15,
     "1989": 5,
     "1990": 7,
     "1991": 6,
@@ -366,6 +369,30 @@
       "count": 5,
       "source": "SII",
       "year": 1989
+    },
+    {
+      "name": "1988.json",
+      "path": "data/index/1988.json",
+      "relations_path": "data/relations/1988.json",
+      "count": 15,
+      "source": "SII",
+      "year": 1988
+    },
+    {
+      "name": "1987.json",
+      "path": "data/index/1987.json",
+      "relations_path": "data/relations/1987.json",
+      "count": 7,
+      "source": "SII",
+      "year": 1987
+    },
+    {
+      "name": "1985.json",
+      "path": "data/index/1985.json",
+      "relations_path": "data/relations/1985.json",
+      "count": 8,
+      "source": "SII",
+      "year": 1985
     },
     {
       "name": "0.json",
