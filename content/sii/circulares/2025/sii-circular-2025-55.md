@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2025
-- Fecha: 2025-10-10
+- Fecha: 2025-09-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu55.pdf
 - Hash SHA-256: 1e5829e6f600e7cacb27dbe567db43fe16718ce1b6334f552f30c078a4655994
 
 ## Resumen
 
-Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2025 y el 9 de noviembre de 2025, ambos inclusive. Fuente: Subdirección de Normativa Circular N° 56 del 11 de Septiembre del 2025 Informa tabla de cálculos de reajustes y multas para el mes de octubre 2025. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2025 y el 9 de octubre de 2025, ambos inclusive. Fuente: Subdirección Normativa Ci…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2025 y el 9 de octubre de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'margin-bottom:0px;'> Circular N° 32 del 17 de Abril del 2025 Refunde e imparte instrucciones en materia de término de giro, incorporando las modificaciones introducidas al Código Tributario por la Ley N°21.713, en lo pertinente. Deroga parcialmente la Circular N°66, de 1998; Circular N° 30, de 10 de mayo 2016 y Circular N°41, de 2 de julio de 2021, en la parte que se indica. Fuente: Subdirección Jurídica. Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por las Leyes N° 21.713 y N°…
+Subdirección Jurídica. Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por las Leyes N° 21.713 y N° 21.716, en materia de medidas antielusión. Deja sin efecto la Circular N° 65 de 2015. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

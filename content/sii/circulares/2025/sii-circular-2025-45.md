@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2025
-- Fecha: 2025-07-10
+- Fecha: 2025-06-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu45.pdf
 - Hash SHA-256: 15eb99453d913aa5cbd26b08eb427ab0c7f19122e3d285734912b5fbab6061f9
 
 ## Resumen
 
-ero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2025 y el 9 de agosto de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 46 del 12 de Junio del 2025 Informa tabla de cálculos de reajustes y multas para el mes de Julio 2025 Fuente: Subdirección de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2025 y el 9 de julio de 2025, ambos inclusive. Fuente: Subdirección de Normativa Circul…
+cción de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2025 y el 9 de julio de 2025, ambos inclusive. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

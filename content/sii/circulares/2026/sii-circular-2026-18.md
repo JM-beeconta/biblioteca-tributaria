@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:0px;'> Circular N° 19 del 12 de Mayo del 2026 Imparte instrucciones sobre exención de IVA contenida en el nuevo N° 7 de la letra A del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios agregado por el artículo 90 de la Ley N° 21.806, aplicable a la venta de bienes usados realizada por instituciones de beneficencia y que provengan exclusivamente de donaciones recibidas. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de junio de 2026 e información adicional…
+Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de junio de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

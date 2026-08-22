@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de reajustes y multas para el mes de junio 2025 Fuente: Subdirección de Fiscalización Circular N° 41 del 09 de Mayo del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2025 y el 9 de junio de 2025, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de junio de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 39 del 30 de Abril del 2025 I…
+uente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de junio de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

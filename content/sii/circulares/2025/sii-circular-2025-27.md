@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Circular N° 28 del 10 de Abril del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2025 y el 9 de mayo de 2025, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de mayo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 26 del 03 de Abril del 2025 I…
+uente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de mayo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

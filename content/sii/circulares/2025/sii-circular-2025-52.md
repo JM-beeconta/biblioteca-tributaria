@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 52
 - Año: 2025
-- Fecha: 2025-09-03
+- Fecha: 2025-08-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu52.pdf
 - Hash SHA-256: 037f1e2a14c8d878732ab8f7d5767a30460d7185e2e7ff3ab740711c7eecdf22
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 53 del 03 de Septiembre del 2025 Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2025. Modifica circular N° 49 de 2025. Fuente: Subdirección de Fiscalización…
+uente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2025. Modifica circular N° 49 de 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

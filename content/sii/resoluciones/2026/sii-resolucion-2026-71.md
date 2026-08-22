@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Dirección Nacional Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
+Fuente: Dirección Nacional Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

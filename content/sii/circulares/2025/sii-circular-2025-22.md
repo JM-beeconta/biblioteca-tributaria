@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2025
-- Fecha: 2025-03-27
+- Fecha: 2025-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu22.pdf
 - Hash SHA-256: 6b52f2b74f3df835dd4f8deee1343d28e581fb3c14ffbed81bfbfd65ec827e85
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 23 del 27 de Marzo del 2025 Imparte instrucciones sobre el nuevo texto del artículo 64 del Código Tributario, reemplazado por la Ley N° 21.713. Deja sin efecto Circular N° 45 de 2001 y numerales 19) y 20) del apartado IV de la Circular N° 23 de 1975. Fuente: Subdirección Jurídica Informa tabla de cálculos de reajustes y multas para el mes de abril 2025. Fuente: Subdirección de Fiscalización. Circular N° 21 del 10 de Marzo del 2025 Tabl…
+Subdirección Jurídica Informa tabla de cálculos de reajustes y multas para el mes de abril 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

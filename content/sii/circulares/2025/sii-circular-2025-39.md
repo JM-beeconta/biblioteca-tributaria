@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 39
 - Año: 2025
-- Fecha: 2025-05-10
+- Fecha: 2025-04-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu39.pdf
 - Hash SHA-256: 5e37078621a32ef4b5ec4fbc7b1562ecb26ac0fd44dde729b569fda582a0da95
 
 ## Resumen
 
-;as comprendidos entre el 10 de mayo de 2025 y el 9 de junio de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 40 del 09 de Mayo del 2025 Tablas de impuesto único de segunda categoría para el mes de junio de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a la Ley sobre Impuesto a las Ventas y Servicios en materia de Impuesto al Valor Agregado en las ventas de bienes mueble…
+uente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a la Ley sobre Impuesto a las Ventas y Servicios en materia de Impuesto al Valor Agregado en las ventas de bienes muebles ubicados en el extranjero. Fuente: Subdirección Normativa Impuestos Indirectos
 
 ## Referencias detectadas
 

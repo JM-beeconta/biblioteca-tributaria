@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2025
-- Fecha: 2025-03-11
+- Fecha: 2025-03-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu21.pdf
 - Hash SHA-256: 0fac73dd13e0d194f4ecf9e7b1da5c0481c3ad9d91f085ad83dd9a25edcc36bc
 
 ## Resumen
 
-Deja sin efecto Circular N° 45 de 2001 y numerales 19) y 20) del apartado IV de la Circular N° 23 de 1975. Fuente: Subdirección Jurídica Circular N° 22 del 11 de Marzo del 2025 Informa tabla de cálculos de reajustes y multas para el mes de abril 2025. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de abril de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 20 del 10 de Marzo del 2025 Operaciones de crédito de d…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de abril de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

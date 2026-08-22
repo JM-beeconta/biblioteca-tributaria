@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2025
-- Fecha: 2025-04-30
+- Fecha: 2025-04-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu34.pdf
 - Hash SHA-256: 5adad5b9cda8eb4e9cc7503610daf8df641fe510b88374ac706c9c2bcdc33146
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección Jurídica Circular N° 35 del 30 de Abril del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 en el Código Tributario, en materia de notificaciones. Deja sin efecto la Fuente: Subdirección Jurídica. Circular N° 34 del 25 de Abril del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 101 y 206 del Código Tributario. Modifica Circular N° 35 de 2022 Fuente: Subdirección Jurídica. Circular N°…
+ubdirección Jurídica. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 101 y 206 del Código Tributario. Modifica Circular N° 35 de 2022 Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

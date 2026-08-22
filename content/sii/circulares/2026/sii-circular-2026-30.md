@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2026
-- Fecha: 2026-07-28
+- Fecha: 2026-07-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu30.pdf
 - Hash SHA-256: 55467f9674717f2249351f011c2697cf7c0da5a331673a447121a603fb410cc1
 
 ## Resumen
 
-an> Circular N° 31 del 28 de Julio del 2026 Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de agosto de 2026. Fuente: Subdirección de Fiscalización. Circular N° 29 del…
+Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de agosto de 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

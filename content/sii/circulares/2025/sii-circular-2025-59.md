@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 59
 - Año: 2025
-- Fecha: 2025-11-10
+- Fecha: 2025-10-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu59.pdf
 - Hash SHA-256: 07cf5c9c84b978ae5ec62837d34bfdc4bd78fd44fef4a374326de120be615586
 
 ## Resumen
 
-dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2025 y el 9 de diciembre de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 60 del 15 de Octubre del 2025 Elimina apartado 3.6.5 del Capítulo II de la Circular N° 39 de 2025. Fuente: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de noviembre 2025. Fuente: Subdirección de Fiscalización Circular N° 58 del 10 de Octubre del 2025 Tablas de impuesto único de segunda cate…
+te: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de noviembre 2025. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

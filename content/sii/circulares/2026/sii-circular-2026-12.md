@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2026
-- Fecha: 2026-04-08
+- Fecha: 2026-04-01
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu12.pdf
 - Hash SHA-256: d1dd25a964b5880bfe7ee2f545defb19e4c0c54dcb6e3b46e8547077e2e838d2
 
 ## Resumen
 
-2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 13 del 08 de Abril del 2026 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2026, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Tasas a considerar para la determinación de la renta presunta en el año tributario 2026. Fuente: Subdirección Normativa Circular N° 11 del 19 de Marzo del 2026 Informa tabla de cálculos de…
+Fuente: Subdirección Normativa Tasas a considerar para la determinación de la renta presunta en el año tributario 2026. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

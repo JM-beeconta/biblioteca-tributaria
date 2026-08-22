@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Indirectos Circular N° 38 del 30 de Abril del 2025 Imparte instrucciones sobre la obtención de rol único tributario y aviso de inicio de actividades. Deja sin efecto las Circulares N° 31 de 2007 y N° 7 de 2008. Complementa y modifica las Circulares N° 31 de 2014, N° 58 de 2015, N° 41 de 2021 y N° 24 de 2024. Fuente: Subdirección de Asistencia al Contribuyente Imparte instrucciones sobre las modificaciones incorporadas por la Ley N° 21.713 en el artículo 9° del Código Tributario. Modifica la Circular N° 4 de 2022…
+ute;n de Asistencia al Contribuyente Imparte instrucciones sobre las modificaciones incorporadas por la Ley N° 21.713 en el artículo 9° del Código Tributario. Modifica la Circular N° 4 de 2022. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

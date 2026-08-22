@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2025
-- Fecha: 2025-04-03
+- Fecha: 2025-03-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu24.pdf
 - Hash SHA-256: db6daa62738e4fa611df61f5aaaa2a84cff1eb2396e8c0c975d58a5a9b45e568
 
 ## Resumen
 
-ón Jurídica Circular N° 25 del 03 de Abril del 2025 Instruye sobre el revalúo de bienes raíces ubicados en comunas o sectores de éstas en que se produzca una ampliación en el límite urbano de un instrumento de planificación territorial, en el período comprendido entre dos reavalúos nacionales. Fuente: Subdirección de Avaluaciones Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a…
+Subdirección de Avaluaciones Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

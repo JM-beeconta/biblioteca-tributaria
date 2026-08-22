@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2026
-- Fecha: 2026-01-21
+- Fecha: 2026-01-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu4.pdf
 - Hash SHA-256: 90517daf1a6082ef389686f296ee6669db766120e862002eeb96fb8661d5a06a
 
 ## Resumen
 
-lización. Circular N° 5 del 21 de Enero del 2026 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2026. Fuente: Subdirección de Normativa Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo…
+nte: Subdirección de Normativa Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

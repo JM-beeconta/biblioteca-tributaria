@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ript">imprimir_compartir(false, true) Circulares 2025 Años Anteriores Informa tabla de cálculos de reajustes y multas para el mes de enero 2026. Fuente: Subdirección de Fiscalización. Circular N° 67 del 10 de Diciembre del 2025 Tablas de impuesto único de segunda categoría para el mes de enero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 66 del 10 de Diciembre del 2025 Operaciones de cr&eacut
+Informa tabla de cálculos de reajustes y multas para el mes de enero 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

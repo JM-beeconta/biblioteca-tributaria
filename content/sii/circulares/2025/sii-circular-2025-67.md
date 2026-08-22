@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 67
 - Año: 2025
-- Fecha: 2025-12-15
+- Fecha: 2025-12-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu67.pdf
 - Hash SHA-256: 5333506c1b7b8e616d99818096919ca8b952f12d3a1d3d5bd43dc6dfe9cfc280
 
 ## Resumen
 
-ionsYears(0) Años Anteriores Circular N° 68 del 15 de Diciembre del 2025 Informa tabla de cálculos de reajustes y multas para el mes de enero 2026. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de enero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 66 del 10 de Diciembre del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2025 y e…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de enero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

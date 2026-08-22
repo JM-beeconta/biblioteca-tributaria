@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2025
-- Fecha: 2025-08-10
+- Fecha: 2025-07-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu49.pdf
 - Hash SHA-256: 7166d22d9ebbdf013a7bd1c6d6ae62db0faed73f3ab532e4afb788727b085011
 
 ## Resumen
 
-os entre el 10 de agosto de 2025 y el 9 de septiembre de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 50 del 11 de Agosto del 2025 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de agosto 2025 Fuente: Subdirección de Fiscalización. Circular N° 48 del 10 de Julio del 2025 Tablas de impuesto único de segunda categoría p…
+uente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de agosto 2025 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

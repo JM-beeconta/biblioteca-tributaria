@@ -11,7 +11,7 @@
 
 ## Resumen
 
-014, N° 12 de 2015, y N° 40 de 2016 Fuente: Subdirección Normativa Circular N° 10 del 30 de Enero del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efecto la Circular N° 29 de 2013. Fuente: Subdirección Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no i…
+uente: Subdirección Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2025. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

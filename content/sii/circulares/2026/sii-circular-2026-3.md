@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2026
-- Fecha: 2026-01-19
+- Fecha: 2026-01-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu3.pdf
 - Hash SHA-256: 40cfdfce8af46183d53245eacca9ba15b962c4db5303b51072324895f260d115
 
 ## Resumen
 
-> Circular N° 4 del 19 de Enero del 2026 Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de Febrero 2026. Fuente: Subdirección de Fiscalización Circular N° 2 del 09…
+nte: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de Febrero 2026. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

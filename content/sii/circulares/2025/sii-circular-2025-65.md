@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 65
 - Año: 2025
-- Fecha: 2025-12-10
+- Fecha: 2025-12-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu65.pdf
 - Hash SHA-256: 9c2644546247603c66667289edb454a4dd16d81e9a0bd69d829c3037a725b6c9
 
 ## Resumen
 
-ción adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 66 del 10 de Diciembre del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2025 y el 9 de enero de 2026, ambos inclusive. Fuente: Subdirección Normativa Imparte instrucciones aplicación de la cláusula de la nación más favorecida al Convenio con Noruega, Suiza, Uruguay, Nueva Zelandia y Bélgica. Fuente: Subdirección Normativa Circular N° 64 del 28 de No…
+uente: Subdirección Normativa Imparte instrucciones aplicación de la cláusula de la nación más favorecida al Convenio con Noruega, Suiza, Uruguay, Nueva Zelandia y Bélgica. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-021 y N° 24 de 2024. Fuente: Subdirección de Asistencia al Contribuyente Circular N° 37 del 30 de Abril del 2025 Imparte instrucciones sobre las modificaciones incorporadas por la Ley N° 21.713 en el artículo 9° del Código Tributario. Modifica la Circular N° 4 de 2022. Fuente: Subdirección Jurídica Imparte instrucciones sobre las normas incorporadas por la Ley N° 21.713 en el Código Tributario en materia de cooperación eficaz y denunciante anónimo. Fuente: Subdirección Jurídica Circular N° 35 del 30 de Abril del 2…
+Subdirección Jurídica Imparte instrucciones sobre las normas incorporadas por la Ley N° 21.713 en el Código Tributario en materia de cooperación eficaz y denunciante anónimo. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2026
-- Fecha: 2026-03-10
+- Fecha: 2026-02-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu7.pdf
 - Hash SHA-256: 259b67f7d8b13feb622f1861ff7073142110db747b2bc1bbe029195285f00788
 
 ## Resumen
 
-l 10 de marzo de 2026 y el 9 de abril de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 8 del 12 de Febrero del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2026 y el 9 de marzo de 2026, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de marzo de 2026 e información adicional relacionada con dicho tributo. Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de…
+Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de marzo de 2026 e información adicional relacionada con dicho tributo. Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de 2026. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

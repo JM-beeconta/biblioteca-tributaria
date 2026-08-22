@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2026
-- Fecha: 2026-06-23
-- Categoría: Circulares, Código Tributario
+- Fecha: 2026-06-18
+- Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu26.pdf
 - Hash SHA-256: 898c3a671bd2d36a9290681b3081ce94acba2dee390cd82b0bccc87dfd2ca41b
 
 ## Resumen
 
-2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 27 del 23 de Junio del 2026 Pone en conocimiento la política de condonaciones contenida en el decreto n° 437, de 30 de abril de 2025, dictado en cumplimiento de lo dispuesto en el artículo 207 del código tributario Fuente: Subdirección Jurídica Actualiza instrucciones sobre el recurso de reposición administrativa voluntaria, en conformidad con las modificaciones introducidas por la Ley N°21.713 al artículo 124 del Código Tributario. Modifica Circula…
+: Subdirección Jurídica Actualiza instrucciones sobre el recurso de reposición administrativa voluntaria, en conformidad con las modificaciones introducidas por la Ley N°21.713 al artículo 124 del Código Tributario. Modifica Circular N°12 de 2021. Deja sin efecto Circular N°23 de 2018. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

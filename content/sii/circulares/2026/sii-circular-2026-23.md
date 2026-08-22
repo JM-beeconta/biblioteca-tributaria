@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2026
-- Fecha: 2026-06-10
+- Fecha: 2026-06-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu23.pdf
 - Hash SHA-256: f314d8ee4e8c3161aa056867af98958975e8f796ee5edad43767a0eff1b9d5a5
 
 ## Resumen
 
-te;as comprendidos entre el 10 de junio de 2026 y el 9 de julio de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 24 del 15 de Junio del 2026 Tablas de impuesto único de segunda categoría para el mes de julio de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de Julio 2026. Fuente: Subdirección de Fiscalización. Circular N° 22 del 05 de Junio del 2026 Imparte instrucciones sobre la aplicación…
+Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de Julio 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

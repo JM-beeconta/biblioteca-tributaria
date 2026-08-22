@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2026
-- Fecha: 2026-02-11
+- Fecha: 2026-01-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu5.pdf
 - Hash SHA-256: 81b9a4084b6639025ee35a683be3490b1eab594c0f407bfccea9598bef7c6c03
 
 ## Resumen
 
-2026 e información adicional relacionada con dicho tributo. Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de 2026. Fuente: Subdirección Normativa Circular N° 6 del 11 de Febrero del 2026 Informa tabla de cálculos de reajustes y multas para el mes de Marzo 2026. Fuente: Subdirección de Fiscalización. Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputa…
+cción de Fiscalización. Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2026. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

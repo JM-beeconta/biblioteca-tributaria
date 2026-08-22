@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e reajustes y multas para el mes de enero 2026. Fuente: Subdirección de Fiscalización. Circular N° 67 del 10 de Diciembre del 2025 Tablas de impuesto único de segunda categoría para el mes de enero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2025 y el 9 de enero de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 65 del 03 de Dicie…
+uente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2025 y el 9 de enero de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

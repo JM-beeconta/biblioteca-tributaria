@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2025
-- Fecha: 2025-09-10
+- Fecha: 2025-09-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu53.pdf
 - Hash SHA-256: 19f486387f04bcff3465d20800376020693b71e7c8317fa4e5e4d1a12f733bea
 
 ## Resumen
 
-entre el 10 de septiembre de 2025 y el 9 de octubre de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 54 del 09 de Septiembre del 2025 Tablas de impuesto único de segunda categoría para el mes de octubre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley so…
+uente: Subdirección Normativa Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

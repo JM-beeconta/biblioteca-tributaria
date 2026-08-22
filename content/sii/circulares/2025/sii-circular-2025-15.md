@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Departamento de Diseño de Procedimientos Circular N° 16 del 10 de Febrero del 2025 Informa datos relacionados con la aplicación del sistema de corrección monetaria. Cotizaciones de monedas de oro al 31.12.2024. Complementa Circular N° 9 de 2025. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2025 y el 9 de marzo de 2025, ambos inclus…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2025 y el 9 de marzo de 2025, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

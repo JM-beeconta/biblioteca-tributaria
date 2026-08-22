@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2026
-- Fecha: 2026-05-10
+- Fecha: 2026-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu15.pdf
 - Hash SHA-256: ead935adde02270ff9fd1e3bd73076bc6e3971e4c500fbc6d26090f7c866702a
 
 ## Resumen
 
-de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2026 y el 9 de junio de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 16 del 15 de Abril del 2026 Informa tabla de cálculos de reajustes y multas para el mes de Mayo 2026. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de mayo de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 14 del 09 de Abril del 2…
+cción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de mayo de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

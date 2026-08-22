@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2026
-- Fecha: 2026-08-17
+- Fecha: 2026-08-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu33.pdf
 - Hash SHA-256: 2b9890fe43522165cc795465c3fd887f2e0402490eb13c52612e18396d699da6
 
 ## Resumen
 
-OptionsYears(0) Años Anteriores Circular N° 34 del 17 de Agosto del 2026 Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2026 y el 9 de septiembre de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 32 del 10 de Agosto del 2026 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2026 e informa…
+ección de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2026 y el 9 de septiembre de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

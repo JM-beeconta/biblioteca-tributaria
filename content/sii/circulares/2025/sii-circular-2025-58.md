@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 58
 - Año: 2025
-- Fecha: 2025-10-13
+- Fecha: 2025-10-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu58.pdf
 - Hash SHA-256: b470287eb0029623d9e70c528c3b3119e60b39891550f7e594cd4088750ae374
 
 ## Resumen
 
-/h5> Elimina apartado 3.6.5 del Capítulo II de la Circular N° 39 de 2025. Fuente: Subdirección de Normativa Circular N° 59 del 13 de Octubre del 2025 Informa tabla de cálculos de reajustes y multas para el mes de noviembre 2025. Fuente: Subdirección de Fiscalización Tablas de impuesto único de segunda categoría para el mes de noviembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa Circular N° 57 del 10 de Octubre del 2025 Operaciones de crédito de dinero. Valor de…
+cción de Fiscalización Tablas de impuesto único de segunda categoría para el mes de noviembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

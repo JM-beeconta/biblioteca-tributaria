@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2025
-- Fecha: 2025-02-07
+- Fecha: 2025-01-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu12.pdf
 - Hash SHA-256: 24a73212ffdca75adcafc98764548f66e57f60c3960e3e8398066d1e78eebd44
 
 ## Resumen
 
-cute;a para el mes de marzo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 13 del 07 de Febrero del 2025 Imparte instrucciones sobre el artículo 100 sexies del Código Tributario, incorporado por la Ley N° 21.713. Fuente: Subdirección Jurídica. Imparte instrucciones sobre modificaciones incorporadas por la Ley N° 21.713 a diversos artículos de la Ley sobre Impuesto a las Ventas y Servicios. Deja sin efecto las instrucciones contenidas en el N° 6 del Título…
+Subdirección Jurídica. Imparte instrucciones sobre modificaciones incorporadas por la Ley N° 21.713 a diversos artículos de la Ley sobre Impuesto a las Ventas y Servicios. Deja sin efecto las instrucciones contenidas en el N° 6 del Título II de la Circular N° 26 de 2021. Complementa las instrucciones contenidas en la Circular N° 42 de 2020 y en el apartado 3.7.1 del Título II de la Circular N° 61 de 2020. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

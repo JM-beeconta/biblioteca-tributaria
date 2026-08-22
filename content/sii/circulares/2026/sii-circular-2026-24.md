@@ -11,7 +11,7 @@
 
 ## Resumen
 
-deg;12 de 2021. Deja sin efecto Circular N°23 de 2018. Fuente: Subdirección Jurídica. Circular N° 25 del 15 de Junio del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2026 y el 9 de julio de 2026, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de julio de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 23 del 12 de Junio del 202…
+Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de julio de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

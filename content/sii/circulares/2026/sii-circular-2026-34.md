@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ript">imprimir_compartir(false, true) Circulares 2026 Años Anteriores Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalización Circular N° 33 del 10 de Agosto del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2026 y el 9 de septiembre de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 32 del 10 de Agosto del 2026 Tablas de impuesto
+Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

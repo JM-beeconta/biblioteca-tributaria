@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2025
-- Fecha: 2025-01-09
+- Fecha: 2025-01-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu2.pdf
 - Hash SHA-256: c305a3e95c6b153d4e33f957355a38e758661959d368137f6bfb6fda0b022904
 
 ## Resumen
 
-ionada con dicho tributo Fuente: Subdirección Normativa Circular N° 3 del 09 de Enero del 2025 Informa sobre modificación introducida por la letra c) del N° 14 del artículo 4 de la Ley N° 21.713 al artículo 152 de la Ordenanza de Aduanas, en materia de impuesto a las donaciones. Fuente: Subdirección Normativa Imparte instrucciones sobre la información que las entidades financieras deben reportar conforme al nuevo artículo 85 ter del Código Tributario, incorporado por la Ley N° 21.713. Fuente: Subdirección Jurídica…
+uente: Subdirección Normativa Imparte instrucciones sobre la información que las entidades financieras deben reportar conforme al nuevo artículo 85 ter del Código Tributario, incorporado por la Ley N° 21.713. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

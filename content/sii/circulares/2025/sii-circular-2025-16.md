@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2025
-- Fecha: 2025-02-12
+- Fecha: 2025-02-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu16.pdf
 - Hash SHA-256: e1e86aa7662e6ccaa6e65f880fe4f70c50069fb36dbc97c5072c80e01de0aac0
 
 ## Resumen
 
-ter, todos del Código Tributario. Complementa Circular N° 41 de 2015. Fuente: Subdirección Jurídica. Circular N° 17 del 12 de Febrero del 2025 Informa tabla de cálculos de reajustes y multas para el mes de marzo 2025. Fuente: Subdirección de Fiscalización Departamento de Diseño de Procedimientos Informa datos relacionados con la aplicación del sistema de corrección monetaria. Cotizaciones de monedas de oro al 31.12.2024. Complementa Circular N° 9 de 2025. Fuente: Subdirección Normativa. Circular N° 15 del 10 de Fe…
+o de Diseño de Procedimientos Informa datos relacionados con la aplicación del sistema de corrección monetaria. Cotizaciones de monedas de oro al 31.12.2024. Complementa Circular N° 9 de 2025. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

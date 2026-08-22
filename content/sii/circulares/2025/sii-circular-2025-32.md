@@ -11,7 +11,7 @@
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Circular N° 33 del 17 de Abril del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los números 4, 6, 9, 10, 12, 17, 22 y 27 del artículo 97 del Código Tributario. Modifica las Circulares N° 63 de 2001 y N° 34 de 2022. Fuente: Subdirección Jurídica. Refunde e imparte instrucciones en materia de término de giro, incorporando las modificaciones introducidas al Código Tributario por la Ley N°21.713, en lo pertinente. Dero…
+Subdirección Jurídica. Refunde e imparte instrucciones en materia de término de giro, incorporando las modificaciones introducidas al Código Tributario por la Ley N°21.713, en lo pertinente. Deroga parcialmente la Circular N°66, de 1998; Circular N° 30, de 10 de mayo 2016 y Circular N°41, de 2 de julio de 2021, en la parte que se indica. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

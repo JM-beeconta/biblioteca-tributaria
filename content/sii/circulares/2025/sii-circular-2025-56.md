@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2025
-- Fecha: 2025-10-10
+- Fecha: 2025-09-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu56.pdf
 - Hash SHA-256: d1e02bd391154bb1b0db52c39ad8010c32dbeb595c489db00a793a2743327d21
 
 ## Resumen
 
-;n adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa Circular N° 57 del 10 de Octubre del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2025 y el 9 de noviembre de 2025, ambos inclusive. Fuente: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de octubre 2025. Fuente: Subdirección de Fiscalización. Circular N° 55 del 09 de Septiembre del 2025 Operaciones de crédito de dinero. Va…
+te: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de octubre 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalización Circular N° 33 del 10 de Agosto del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2026 y el 9 de septiembre de 2026, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de septiembre de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 31 del 28 de Julio d…
+uente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de septiembre de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 
@@ -19,21 +19,9 @@ s y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalizació
 
 ## Texto extraído
 
-s y multas para el mes de septiembre 2026
-
-Fuente: Subdirección de Fiscalización
-Circular N° 33 del 10 de Agosto del 2026
-
-Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2026 y el 9 de septiembre de 2026, ambos inclusive.
-
-Fuente: Subdirección Normativa
+uente: Subdirección Normativa
 Circular N° 32 del 10 de Agosto del 2026
 
 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2026 e información adicional relacionada con dicho impuesto.
 
 Fuente: Subdirección Normativa
-Circular N° 31 del 28 de Julio del 2026
-
-Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos.
-
-Fuente: Subdirecci&oa

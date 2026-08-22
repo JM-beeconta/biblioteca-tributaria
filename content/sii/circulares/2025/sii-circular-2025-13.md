@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2025
-- Fecha: 2025-02-10
+- Fecha: 2025-02-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu13.pdf
 - Hash SHA-256: 21a4e3210de1af56c42d29cc0aa41f8a885d77e45503624752ea9446db0977c6
 
 ## Resumen
 
-idos entre el 10 de febrero de 2025 y el 9 de marzo de 2025, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 14 del 10 de Febrero del 2025 Tablas de impuesto único de segunda categoría para el mes de marzo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Imparte instrucciones sobre el artículo 100 sexies del Código Tributario, incorporado por la Ley N° 21.713. Fuente: Subdirección Jurídica. Circular N° 12 del 30 de Enero del 2025 Imparte instrucciones sobr…
+ente: Subdirección Normativa. Imparte instrucciones sobre el artículo 100 sexies del Código Tributario, incorporado por la Ley N° 21.713. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

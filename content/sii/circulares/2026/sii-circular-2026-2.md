@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2026
-- Fecha: 2026-01-13
+- Fecha: 2026-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu2.pdf
 - Hash SHA-256: 8149bfc122f5fb4cafad44727b45023f8e1e410c9d2a3058c93b04b0ce3867dc
 
 ## Resumen
 
-ute;rdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Subdirección de Normativa Circular N° 3 del 13 de Enero del 2026 Informa tabla de cálculos de reajustes y multas para el mes de Febrero 2026. Fuente: Subdirección de Fiscalización Tablas de impuesto único de segunda categoría para el mes de febrero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 1 del 09 de Enero del 2026 O…
+ección de Fiscalización Tablas de impuesto único de segunda categoría para el mes de febrero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

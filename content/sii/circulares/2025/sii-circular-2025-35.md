@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ario. Modifica la Circular N° 4 de 2022. Fuente: Subdirección Jurídica Circular N° 36 del 30 de Abril del 2025 Imparte instrucciones sobre las normas incorporadas por la Ley N° 21.713 en el Código Tributario en materia de cooperación eficaz y denunciante anónimo. Fuente: Subdirección Jurídica Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 en el Código Tributario, en materia de notificaciones. Deja sin efecto la Circular N° 34 de 2015, modificada por Circulares N° 23 de 2016 y N° 1…
+Subdirección Jurídica Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 en el Código Tributario, en materia de notificaciones. Deja sin efecto la Circular N° 34 de 2015, modificada por Circulares N° 23 de 2016 y N° 12 de 2021 Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2025
-- Fecha: 2025-06-10
+- Fecha: 2025-06-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu43.pdf
 - Hash SHA-256: 4426332665abc92bfd60a1d008760a5d8fde884ad4ca8698ef1ab3e3c71ee92a
 
 ## Resumen
 
-ndidos entre el 10 de junio de 2025 y el 9 de julio de 2025, ambos inclusive. Fuente: Subdirección de Normativa Circular N° 44 del 12 de Junio del 2025 Tablas de impuesto único de segunda categoría para el mes de julio de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2025. Fuente: Subdirecci…
+te: Subdirección de Normativa Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

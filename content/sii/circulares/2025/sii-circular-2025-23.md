@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2025
-- Fecha: 2025-03-28
+- Fecha: 2025-03-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu23.pdf
 - Hash SHA-256: f17d418354a61f8df76e87eaaf29de226f8bb206c26bc8ead7fc69d52a86263e
 
 ## Resumen
 
-os nacionales. Fuente: Subdirección de Avaluaciones Circular N° 24 del 28 de Marzo del 2025 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Imparte instrucciones sobre el nuevo texto del artículo 64 del Código Tributario, reemplazado por la Ley N° 21.713. Deja sin efecto Circular N° 45 de 2001 y numerales 19) y 20) del apartado IV de la…
+uente: Subdirección Normativa Imparte instrucciones sobre el nuevo texto del artículo 64 del Código Tributario, reemplazado por la Ley N° 21.713. Deja sin efecto Circular N° 45 de 2001 y numerales 19) y 20) del apartado IV de la Circular N° 23 de 1975. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

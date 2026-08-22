@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s y multas para el mes de febrero 2025. Fuente: Subdirección de Fiscalización. Circular N° 7 del 16 de Enero del 2025 Imparte instrucciones sobre los artículos 62 y 62 bis del Código Tributario, modificados por la Ley Nº 21.713. Deja sin efecto la Circular N° 46 de 2010. Fuente: Subdirección Jurídica. Imparte instrucciones sobre las modificaciones introducidas al Código Tributario por la Ley N° 21.713 en materia de grupos empresariales y el procedimiento de fiscalización unificado. Complementa la Circular N° 12 de…
+Subdirección Jurídica. Imparte instrucciones sobre las modificaciones introducidas al Código Tributario por la Ley N° 21.713 en materia de grupos empresariales y el procedimiento de fiscalización unificado. Complementa la Circular N° 12 de 2021. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

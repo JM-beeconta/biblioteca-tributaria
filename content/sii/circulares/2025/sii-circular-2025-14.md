@@ -11,7 +11,7 @@
 
 ## Resumen
 
-31.12.2024. Complementa Circular N° 9 de 2025. Fuente: Subdirección Normativa. Circular N° 15 del 10 de Febrero del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2025 y el 9 de marzo de 2025, ambos inclusive. Fuente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de marzo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 13 del 07 de Febrero del 202…
+ente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de marzo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tes y multas para el mes de diciembre 2025. Fuente: Subdirección de Fiscalización. Circular N° 62 del 11 de Noviembre del 2025 Tablas de impuesto único de segunda categoría para el mes de diciembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2025 y el 9 de diciembre de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 60 del 15 de O…
+uente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2025 y el 9 de diciembre de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

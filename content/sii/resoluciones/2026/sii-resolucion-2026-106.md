@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> Reorganiza las unidades que conforman el departamento subdirección de avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones
+Reorganiza las unidades que conforman el departamento subdirección de avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

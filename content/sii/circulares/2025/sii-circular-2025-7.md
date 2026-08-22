@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2025
-- Fecha: 2025-01-28
+- Fecha: 2025-01-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu7.pdf
 - Hash SHA-256: 567dd6a49d275f895fdbee1ad7661841402b8f76fbca7caf6b2194ccf85db3cd
 
 ## Resumen
 
-tro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2025. Fuente: Subdirección Normativa Circular N° 8 del 28 de Enero del 2025 Informa tabla de cálculos de reajustes y multas para el mes de febrero 2025. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre los artículos 62 y 62 bis del Código Tributario, modificados por la Ley Nº 21.713. Deja sin efecto la Circular N° 46 de 2010. Fuente: Subdirección Jurídica. Circular N° 6 d…
+ción de Fiscalización. Imparte instrucciones sobre los artículos 62 y 62 bis del Código Tributario, modificados por la Ley Nº 21.713. Deja sin efecto la Circular N° 46 de 2010. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

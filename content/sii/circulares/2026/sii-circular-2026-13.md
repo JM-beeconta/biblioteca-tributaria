@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2026
-- Fecha: 2026-04-09
+- Fecha: 2026-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu13.pdf
 - Hash SHA-256: 2f409b582bafe31a7b0f6483fa69fa346f404f4e793e47815603d88c84bdd3c8
 
 ## Resumen
 
-026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 14 del 09 de Abril del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2026 y el 9 de mayo de 2026, ambos inclusive. Fuente: Subdirección Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2026, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a l…
+Fuente: Subdirección Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2026, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 26 del 03 de Abril del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.641 al artículo 66 del Código Tributario y nuevo artículo 66 bis del mismo código. Complementa Circulares N° 31 de 2007 y N° 31 de 2014. Fuente: Subdirección Jurídica Instruye sobre el revalúo de bienes raíces ubicados en comunas o sectores de éstas en que se produzca una ampliación en el límite urbano de un instrumento de planificación…
+Subdirección Jurídica Instruye sobre el revalúo de bienes raíces ubicados en comunas o sectores de éstas en que se produzca una ampliación en el límite urbano de un instrumento de planificación territorial, en el período comprendido entre dos reavalúos nacionales. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

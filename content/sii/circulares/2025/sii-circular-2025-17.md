@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2025
-- Fecha: 2025-02-21
+- Fecha: 2025-02-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu17.pdf
 - Hash SHA-256: 0e19c160648d65b492ba351dde87c15b044802025ed05e009fb49ab9af5862c5
 
 ## Resumen
 
--bottom:0px;'> Circular N° 18 del 21 de Febrero del 2025 Imparte instrucciones sobre la competencia de las Unidades del Servicio para realizar actuaciones que indica de conformidad con las disposiciones del N° 11 de la letra B) del artículo 6°; inciso primero del artículo 65 bis y artículo 65 ter, todos del Código Tributario. Complementa Circular N° 41 de 2015. Fuente: Subdirección Jurídica. Informa tabla de cálculos de reajustes y multas para el mes de marzo 2025. Fuente: Subdirección de Fiscalización Departament…
+Subdirección Jurídica. Informa tabla de cálculos de reajustes y multas para el mes de marzo 2025. Fuente: Subdirección de Fiscalización Departamento de Diseño de Procedimientos
 
 ## Referencias detectadas
 

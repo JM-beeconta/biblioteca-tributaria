@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2026
-- Fecha: 2026-05-25
+- Fecha: 2026-05-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu20.pdf
 - Hash SHA-256: d4d2ae6f241857e2282f2430fa6a1d7d8568b6dc3505530ce09b30c02b6a265f
 
 ## Resumen
 
-su actividad. Fuente: Departamento de Impuestos Indirectos Circular N° 21 del 25 de Mayo del 2026 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2026. Fuente: Subdirección de Fiscalización. Informa tabla de cálculos de reajustes y multas para el mes de Junio 2026. Fuente: Subdirección de Fiscalización. Circular N° 19 del 12 de Mayo del 2026 Imparte instrucciones sobre exención de IVA…
+cción de Fiscalización. Informa tabla de cálculos de reajustes y multas para el mes de Junio 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

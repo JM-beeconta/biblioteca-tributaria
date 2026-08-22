@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección Jurídica. Circular N° 31 del 17 de Abril del 2025 Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por las Leyes N° 21.713 y N° 21.716, en materia de medidas antielusión. Deja sin efecto la Circular N° 65 de 2015. Fuente: Subdirección Jurídica. Informa tabla de cálculos de reajustes y multas para el mes de Mayo 2025. Modifica Circular Nº 22 de 2025 Fuente: Subdirección de Fiscalización. Circular N° 29 del 10 de Abril del 2025 Informa porcentaje de reajuste a ap…
+Subdirección Jurídica. Informa tabla de cálculos de reajustes y multas para el mes de Mayo 2025. Modifica Circular Nº 22 de 2025 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

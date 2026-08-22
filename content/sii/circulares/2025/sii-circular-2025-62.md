@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 62
 - Año: 2025
-- Fecha: 2025-11-12
+- Fecha: 2025-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu62.pdf
 - Hash SHA-256: 66f50a95c71a178b6c016ac3d78a27075981cb6df4ee458a1975349b4b669009
 
 ## Resumen
 
-ial para comerciantes de ferias libres introducido en la Ley sobre Impuesto a las Ventas y Servicios, por la Ley N° 21.745. Fuente: Subdirección de Normativa Circular N° 63 del 12 de Noviembre del 2025 Informa tabla de cálculos de reajustes y multas para el mes de diciembre 2025. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de diciembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 61 del 11 de Noviembre…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de diciembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

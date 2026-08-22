@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2025
-- Fecha: 2025-01-16
+- Fecha: 2025-01-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu5.pdf
 - Hash SHA-256: 3411fef14080d7ad0734e650d048abc423e125473693c09b41cb35030b6f2f72
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Circular N° 6 del 16 de Enero del 2025 Imparte instrucciones sobre las modificaciones introducidas al Código Tributario por la Ley N° 21.713 en materia de grupos empresariales y el procedimiento de fiscalización unificado. Complementa la Circular N° 12 de 2021. Fuente: Subdirección Jurídica. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2025 y el 9 de febrero de 2025, ambos inclusi…
+Subdirección Jurídica. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2025 y el 9 de febrero de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

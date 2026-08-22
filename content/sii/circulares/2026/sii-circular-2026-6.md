@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 6
 - Año: 2026
-- Fecha: 2026-02-12
+- Fecha: 2026-02-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu6.pdf
 - Hash SHA-256: 209d816e3ad2274076234a94d1b3c380e563a17019551e56c36f34dd48e18613
 
 ## Resumen
 
-os inclusive. Fuente: Subdirección Normativa Circular N° 7 del 12 de Febrero del 2026 Tablas de impuesto único de segunda categoría para el mes de marzo de 2026 e información adicional relacionada con dicho tributo. Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de 2026. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de Marzo 2026. Fuente: Subdirección de Fiscalización. Circular N° 5 del 21 de Enero del 2026 Informa datos relacionados con la aplicación del siste…
+Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de Marzo 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

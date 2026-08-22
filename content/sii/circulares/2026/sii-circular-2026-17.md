@@ -11,7 +11,7 @@
 
 ## Resumen
 
-por instituciones de beneficencia y que provengan exclusivamente de donaciones recibidas. Fuente: Subdirección Normativa Circular N° 18 del 12 de Mayo del 2026 Tablas de impuesto único de segunda categoría para el mes de junio de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2026 y el 9 de junio de 2026, ambos inclusive. Fuente: Subdirección Normativa Circu…
+Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2026 y el 9 de junio de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

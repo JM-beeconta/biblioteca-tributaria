@@ -11,7 +11,7 @@
 
 ## Resumen
 
-h5> Imparte instrucciones sobre la aplicación transitoria del límite al crédito fiscal del impuesto específico al petróleo diésel establecido en el artículo 4° de la Ley N° 21.811, respecto del beneficio regulado en el Decreto Supremo de Hacienda N° 311 de 1986, que reglamenta el artículo 7° de la Ley N° 18.502, para los contribuyentes que utilizan dicho combustible en su actividad. Fuente: Departamento de Impuestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales O…
+Departamento de Impuestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

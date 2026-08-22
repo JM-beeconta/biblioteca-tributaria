@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2025
-- Fecha: 2025-03-06
+- Fecha: 2025-02-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu18.pdf
 - Hash SHA-256: 1d533f5f24aff01eef1af7b1ef711813ea3937df88d50fd7243b5e1c7f97ffd9
 
 ## Resumen
 
-, ambos inclusive. Fuente: Subdirección Normativa Circular N° 19 del 06 de Marzo del 2025 Imparte instrucciones sobre diversas modificaciones introducidas por la Ley N° 21.713 al Código Tributario. Modifica Circulares N°12 de 2021 y N°41 de 2021, modificada por la N°47 de 2022 Fuente: Subdirección Jurídica. Imparte instrucciones sobre la competencia de las Unidades del Servicio para realizar actuaciones que indica de conformidad con las disposiciones del N° 11 de la letra B) del artículo 6°; inciso primero del art…
+Subdirección Jurídica. Imparte instrucciones sobre la competencia de las Unidades del Servicio para realizar actuaciones que indica de conformidad con las disposiciones del N° 11 de la letra B) del artículo 6°; inciso primero del artículo 65 bis y artículo 65 ter, todos del Código Tributario. Complementa Circular N° 41 de 2015. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

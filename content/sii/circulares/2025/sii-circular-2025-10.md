@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 11 del 30 de Enero del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 10, 41 G y 41 H, todos de la Ley sobre Impuesto a la Renta. Modifica y complementa las Circulares N° 14 de 2014, N° 12 de 2015, y N° 40 de 2016 Fuente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efec…
+uente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efecto la Circular N° 29 de 2013. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

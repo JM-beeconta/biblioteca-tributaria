@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 10
 - Año: 2026
-- Fecha: 2026-03-19
+- Fecha: 2026-03-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu10.pdf
 - Hash SHA-256: ec12d2761f57d8fe588717cb91f9dca79360d3bb00ab7a979c2f5c28e0d081b0
 
 ## Resumen
 
-style='margin-top:0px;margin-bottom:0px;'>Tasas a considerar para la determinación de la renta presunta en el año tributario 2026. Fuente: Subdirección Normativa Circular N° 11 del 19 de Marzo del 2026 Informa tabla de cálculos de reajustes y multas para el mes de abril 2026. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de abril de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 9 del 10 de Marzo del 2026 Op…
+cción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de abril de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

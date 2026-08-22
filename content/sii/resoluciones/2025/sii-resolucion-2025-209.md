@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones.
+Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

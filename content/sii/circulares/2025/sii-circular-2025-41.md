@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 41
 - Año: 2025
-- Fecha: 2025-05-15
+- Fecha: 2025-05-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu41.pdf
 - Hash SHA-256: bd7b804b93411ac2f289eebf526f70fe2ad880aed7f2189fd5e2d8a16a40e304
 
 ## Resumen
 
-ales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2025. Fuente: Subdirección de Fiscalización. Circular N° 42 del 15 de Mayo del 2025 Informa tabla de cálculos de reajustes y multas para el mes de junio 2025 Fuente: Subdirección de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2025 y el 9 de junio de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 40 del 09 de…
+cción de Fiscalización Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2025 y el 9 de junio de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

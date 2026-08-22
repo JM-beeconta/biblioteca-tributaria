@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2026
-- Fecha: 2026-03-10
+- Fecha: 2026-02-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu8.pdf
 - Hash SHA-256: f6db1756b270219ad68b820115392fc8e8e6d96564d8ce30592906b2b0a0bc7b
 
 ## Resumen
 
-2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 9 del 10 de Marzo del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2026 y el 9 de abril de 2026, ambos inclusive. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2026 y el 9 de marzo de 2026, ambos inclusive. Fuente: Subdirección Normativa…
+Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2026 y el 9 de marzo de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

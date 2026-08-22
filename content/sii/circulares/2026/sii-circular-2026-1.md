@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lculos de reajustes y multas para el mes de Febrero 2026. Fuente: Subdirección de Fiscalización Circular N° 2 del 09 de Enero del 2026 Tablas de impuesto único de segunda categoría para el mes de febrero de 2026 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2026 y el 9 de febrero de 2026, ambos inclusive. Fuente: Subdirección Normativa function ir_anyo(){ var an…
+Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2026 y el 9 de febrero de 2026, ambos inclusive. Fuente: Subdirección Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2026'); }else{ $(location).attr('href', '../' + anyo + '/indcir' + anyo + '.htm'); } } $(docume…
 
 ## Referencias detectadas
 

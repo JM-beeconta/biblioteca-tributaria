@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2025
-- Fecha: 2025-04-25
+- Fecha: 2025-04-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu33.pdf
 - Hash SHA-256: edbff98f3ff982a87f2cc8fec0628682314fd8fb124a050fa009a0b5a992852a
 
 ## Resumen
 
-° 23 de 2016 y N° 12 de 2021 Fuente: Subdirección Jurídica. Circular N° 34 del 25 de Abril del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 101 y 206 del Código Tributario. Modifica Circular N° 35 de 2022 Fuente: Subdirección Jurídica. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los números 4, 6, 9, 10, 12, 17, 22 y 27 del artículo 97 del Código Tributario. Modifica las Circulares N° 63 de 2001 y N° 34 de 2022. Fuente:…
+Subdirección Jurídica. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los números 4, 6, 9, 10, 12, 17, 22 y 27 del artículo 97 del Código Tributario. Modifica las Circulares N° 63 de 2001 y N° 34 de 2022. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

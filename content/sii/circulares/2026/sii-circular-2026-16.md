@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2026
-- Fecha: 2026-05-12
+- Fecha: 2026-04-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu16.pdf
 - Hash SHA-256: 1b3d561e218dcf198f24bd099898f94f3a36a4cc2e840f059f07986d143aad72
 
 ## Resumen
 
-2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 17 del 12 de Mayo del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2026 y el 9 de junio de 2026, ambos inclusive. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de Mayo 2026. Fuente: Subdirección de Fiscalización. Circular N° 15 del 09 de Abril del 2026 Tablas de impuesto único de segunda categor…
+Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de Mayo 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

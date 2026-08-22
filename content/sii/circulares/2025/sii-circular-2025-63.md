@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 63
 - Año: 2025
-- Fecha: 2025-11-28
+- Fecha: 2025-11-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu63.pdf
 - Hash SHA-256: 1d82b2e54f911f9a2da43a853419ca4028e1d8c8e0182e3e480e5223c2def905
 
 ## Resumen
 
-y, Nueva Zelandia y Bélgica. Fuente: Subdirección Normativa Circular N° 64 del 28 de Noviembre del 2025 Imparte instrucciones sobre nuevo régimen tributario especial para comerciantes de ferias libres introducido en la Ley sobre Impuesto a las Ventas y Servicios, por la Ley N° 21.745. Fuente: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de diciembre 2025. Fuente: Subdirección de Fiscalización. Circular N° 62 del 11 de Noviembre del 2025 Tablas de impuesto único de segunda c…
+te: Subdirección de Normativa Informa tabla de cálculos de reajustes y multas para el mes de diciembre 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

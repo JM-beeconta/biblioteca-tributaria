@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2025
-- Fecha: 2025-03-10
+- Fecha: 2025-03-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu19.pdf
 - Hash SHA-256: eb96a62256fa759bc06b62a347349cfe1c0c3e965505ae9243874a8024079278
 
 ## Resumen
 
-información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 20 del 10 de Marzo del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2025 y el 9 de abril de 2025, ambos inclusive. Fuente: Subdirección Normativa Imparte instrucciones sobre diversas modificaciones introducidas por la Ley N° 21.713 al Código Tributario. Modifica Circulares N°12 de 2021 y N°41 de 2021, modificada por la N°47 de 2022 Fuente: Subdir…
+uente: Subdirección Normativa Imparte instrucciones sobre diversas modificaciones introducidas por la Ley N° 21.713 al Código Tributario. Modifica Circulares N°12 de 2021 y N°41 de 2021, modificada por la N°47 de 2022 Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2025
-- Fecha: 2025-04-17
+- Fecha: 2025-04-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu29.pdf
 - Hash SHA-256: 3853f88a174e7affea25ef6086fa5bd2b16ad06907580b2c5d1964b9e7b7408f
 
 ## Resumen
 
-21.716, en materia de medidas antielusión. Deja sin efecto la Circular N° 65 de 2015. Fuente: Subdirección Jurídica. Circular N° 30 del 17 de Abril del 2025 Informa tabla de cálculos de reajustes y multas para el mes de Mayo 2025. Modifica Circular Nº 22 de 2025 Fuente: Subdirección de Fiscalización. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2025, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subd…
+ción de Fiscalización. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2025, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

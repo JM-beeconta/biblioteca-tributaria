@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a de cálculos de reajustes y multas para el mes de agosto 2025 Fuente: Subdirección de Fiscalización. Circular N° 48 del 10 de Julio del 2025 Tablas de impuesto único de segunda categoría para el mes de agosto de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2025 y el 9 de agosto de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 46 del 12…
+uente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2025 y el 9 de agosto de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

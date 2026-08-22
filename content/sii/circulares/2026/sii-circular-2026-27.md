@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2026
-- Fecha: 2026-07-14
+- Fecha: 2026-06-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu27.pdf
 - Hash SHA-256: edad4d39ac4e5dc5726a6d046d239024e74c645d7b029c1c21cd38623545fc34
 
 ## Resumen
 
-6 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 28 del 14 de Julio del 2026 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2026 y el 9 de agosto de 2026, ambos inclusive. Fuente: Subdirección Normativa Pone en conocimiento la política de condonaciones contenida en el decreto n° 437, de 30 de abril de 2025, dictado en cumplimiento de lo dispuesto en el artículo 207 del código tributario Fuente: S…
+Fuente: Subdirección Normativa Pone en conocimiento la política de condonaciones contenida en el decreto n° 437, de 30 de abril de 2025, dictado en cumplimiento de lo dispuesto en el artículo 207 del código tributario Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

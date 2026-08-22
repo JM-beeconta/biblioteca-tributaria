@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2026
-- Fecha: 2026-07-15
+- Fecha: 2026-07-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu29.pdf
 - Hash SHA-256: 31ad9808d208db1a76a9a26bee1861c1fd0b64518a66012697acfaf70be32134
 
 ## Resumen
 
-te;rdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Subdirección Normativa Circular N° 30 del 15 de Julio del 2026 Informa tabla de cálculos de reajustes y multas para el mes de agosto de 2026. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de agosto de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 28 del 14 de Julio del 2026…
+cción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de agosto de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

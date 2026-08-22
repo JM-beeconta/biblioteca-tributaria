@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2026
-- Fecha: 2026-06-12
+- Fecha: 2026-06-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu22.pdf
 - Hash SHA-256: a31fbd1710ade88ad52da45b84d8de9e7f7b84c7adfa5782bf080c665dd23474
 
 ## Resumen
 
-de impuesto único de segunda categoría para el mes de julio de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Circular N° 23 del 12 de Junio del 2026 Informa tabla de cálculos de reajustes y multas para el mes de Julio 2026. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre la aplicación transitoria del límite al crédito fiscal del impuesto específico al petróleo diésel establecido en el artículo 4° de la Ley N° 21.811, respecto del beneficio regulado e…
+cción de Fiscalización. Imparte instrucciones sobre la aplicación transitoria del límite al crédito fiscal del impuesto específico al petróleo diésel establecido en el artículo 4° de la Ley N° 21.811, respecto del beneficio regulado en el Decreto Supremo de Hacienda N° 311 de 1986, que reglamenta el artículo 7° de la Ley N° 18.502, para los contribuyentes que utilizan dicho combustible en su actividad. Fuente: Departamento de Impuestos Indirectos
 
 ## Referencias detectadas
 

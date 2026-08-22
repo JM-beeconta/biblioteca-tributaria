@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2025
-- Fecha: 2025-01-10
+- Fecha: 2025-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu3.pdf
 - Hash SHA-256: 74b241a96aba0e3e9b11e4b4f24d7f022b176d437b014ae4e61eaec0bb1b4756
 
 ## Resumen
 
-comprendidos entre el 10 de enero de 2025 y el 9 de febrero de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 4 del 09 de Enero del 2025 Tablas de impuesto único de segunda categoría para el mes de febrero de 2025 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa Informa sobre modificación introducida por la letra c) del N° 14 del artículo 4 de la Ley N° 21.713 al artículo 152 de la Ordenanza de Aduanas, en materia de impuesto a las donaciones. Fuente: Subdirec…
+uente: Subdirección Normativa Informa sobre modificación introducida por la letra c) del N° 14 del artículo 4 de la Ley N° 21.713 al artículo 152 de la Ordenanza de Aduanas, en materia de impuesto a las donaciones. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

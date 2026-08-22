@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2025
-- Fecha: 2025-01-10
+- Fecha: 2025-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu4.pdf
 - Hash SHA-256: a7d8e66daa60f82e987ad8e7b72828f8e549eb9b84dd611cc492571feef9912e
 
 ## Resumen
 
-unificado. Complementa la Circular N° 12 de 2021. Fuente: Subdirección Jurídica. Circular N° 5 del 10 de Enero del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2025 y el 9 de febrero de 2025, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de febrero de 2025 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa Circular N° 3 del 09 de Enero del 2025 Inf…
+uente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de febrero de 2025 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

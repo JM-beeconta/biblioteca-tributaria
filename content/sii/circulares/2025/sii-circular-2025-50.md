@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Modifica circular N° 49 de 2025. Fuente: Subdirección de Fiscalización. Circular N° 51 del 11 de Agosto del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2025 y el 9 de septiembre de 2025, ambos inclusive. Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de septiembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 49 del 18 de Julio del 2025…
+uente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de septiembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

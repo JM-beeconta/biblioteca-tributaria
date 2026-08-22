@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2025
-- Fecha: 2025-06-05
+- Fecha: 2025-05-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu42.pdf
 - Hash SHA-256: 603b6196e898404e30e3f51f6d74d044b6bd04b5cc03d1a48d29121a5c239423
 
 ## Resumen
 
-ho tributo. Fuente: Subdirección de Normativa Circular N° 43 del 05 de Junio del 2025 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2025. Fuente: Subdirección de Fiscalización. Informa tabla de cálculos de reajustes y multas para el mes de junio 2025 Fuente: Subdirección de Fiscalización Circular N° 41 del 09 de Mayo del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fo…
+ción de Fiscalización. Informa tabla de cálculos de reajustes y multas para el mes de junio 2025 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

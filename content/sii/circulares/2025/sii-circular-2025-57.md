@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;lculos de reajustes y multas para el mes de noviembre 2025. Fuente: Subdirección de Fiscalización Circular N° 58 del 10 de Octubre del 2025 Tablas de impuesto único de segunda categoría para el mes de noviembre de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2025 y el 9 de noviembre de 2025, ambos inclusive. Fuente: Subdirección de Normativa Circular…
+te: Subdirección de Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2025 y el 9 de noviembre de 2025, ambos inclusive. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

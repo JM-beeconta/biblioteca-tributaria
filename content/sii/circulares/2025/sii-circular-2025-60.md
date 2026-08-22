@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 60
 - Año: 2025
-- Fecha: 2025-11-11
+- Fecha: 2025-10-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu60.pdf
 - Hash SHA-256: 273ca4130ff1a55ba0ade1ee816c33a0e78e435e65ff3f857bd906db82752512
 
 ## Resumen
 
-acute;n adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 61 del 11 de Noviembre del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2025 y el 9 de diciembre de 2025, ambos inclusive. Fuente: Subdirección Normativa Elimina apartado 3.6.5 del Capítulo II de la Circular N° 39 de 2025. Fuente: Subdirección de Normativa Circular N° 59 del 13 de Octubre del 2025 Informa tabla de cálculos de reajustes y multas p…
+uente: Subdirección Normativa Elimina apartado 3.6.5 del Capítulo II de la Circular N° 39 de 2025. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

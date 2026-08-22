@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2026
-- Fecha: 2026-04-01
+- Fecha: 2026-03-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu11.pdf
 - Hash SHA-256: 9ad70c4deb0bdb39a2284b87e5b8cd0966e024ab479d57cd0870b7a87b99fa0d
 
 ## Resumen
 
-clarar y pagar en el año tributario 2026, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Circular N° 12 del 01 de Abril del 2026 Tasas a considerar para la determinación de la renta presunta en el año tributario 2026. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de abril 2026. Fuente: Subdirección de Fiscalización. Circular N° 10 del 10 de Marzo del 2026 Tablas de impuesto único de segunda categoría par…
+Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de abril 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

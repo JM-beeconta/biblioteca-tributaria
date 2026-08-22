@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a de cálculos de reajustes y multas para el mes de agosto de 2026. Fuente: Subdirección de Fiscalización. Circular N° 29 del 14 de Julio del 2026 Tablas de impuesto único de segunda categoría para el mes de agosto de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2026 y el 9 de agosto de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 27 d…
+Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2026 y el 9 de agosto de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

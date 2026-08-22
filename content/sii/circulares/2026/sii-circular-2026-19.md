@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2026
-- Fecha: 2026-05-15
+- Fecha: 2026-05-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu19.pdf
 - Hash SHA-256: 2c1e8c1ef74d8e807e86145c0927d66d6ffd4999a00ebebf0fa7a8bb3ee0e6bc
 
 ## Resumen
 
-sionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2026. Fuente: Subdirección de Fiscalización. Circular N° 20 del 15 de Mayo del 2026 Informa tabla de cálculos de reajustes y multas para el mes de Junio 2026. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre exención de IVA contenida en el nuevo N° 7 de la letra A del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios agregado por el artículo 90 de la Ley N° 21.806, aplicable…
+cción de Fiscalización. Imparte instrucciones sobre exención de IVA contenida en el nuevo N° 7 de la letra A del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios agregado por el artículo 90 de la Ley N° 21.806, aplicable a la venta de bienes usados realizada por instituciones de beneficencia y que provengan exclusivamente de donaciones recibidas. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

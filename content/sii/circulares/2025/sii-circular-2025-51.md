@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 51
 - Año: 2025
-- Fecha: 2025-08-14
+- Fecha: 2025-08-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu51.pdf
 - Hash SHA-256: 60a037dfaddcadb2b738e1a5a13e8e28329708c20dd0c9eeee2afab7a376a97d
 
 ## Resumen
 
-acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Circular N° 52 del 14 de Agosto del 2025 Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2025. Modifica circular N° 49 de 2025. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2025 y el 9 de septiembre de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N°…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2025 y el 9 de septiembre de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

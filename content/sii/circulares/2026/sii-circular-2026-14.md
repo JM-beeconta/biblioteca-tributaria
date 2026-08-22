@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ma tabla de cálculos de reajustes y multas para el mes de Mayo 2026. Fuente: Subdirección de Fiscalización. Circular N° 15 del 09 de Abril del 2026 Tablas de impuesto único de segunda categoría para el mes de mayo de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2026 y el 9 de mayo de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 13 del…
+Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2026 y el 9 de mayo de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

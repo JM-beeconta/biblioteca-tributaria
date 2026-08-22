@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2026
-- Fecha: 2026-08-10
+- Fecha: 2026-07-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu31.pdf
 - Hash SHA-256: e9070d0781c368d5ed8e24cb87bbef2a4bca786bd53c70dfd8fa653f75a58f11
 
 ## Resumen
 
-dos entre el 10 de agosto de 2026 y el 9 de septiembre de 2026, ambos inclusive. Fuente: Subdirección Normativa Circular N° 32 del 10 de Agosto del 2026 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2026 e información adicional relacionada con dicho impuesto. Fuente: Subdirección Normativa Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de exist…
+Fuente: Subdirección Normativa Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

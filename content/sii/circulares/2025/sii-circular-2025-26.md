@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2025
-- Fecha: 2025-04-10
+- Fecha: 2025-04-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu26.pdf
 - Hash SHA-256: c9fc94880c7164851697537876adbbb6a65f787cfecbdecbc465095e9dafafd2
 
 ## Resumen
 
-;as comprendidos entre el 10 de abril de 2025 y el 9 de mayo de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular N° 27 del 10 de Abril del 2025 Tablas de impuesto único de segunda categoría para el mes de mayo de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.641 al artículo 66 del Código Tributario y nuevo artículo 66 bis del mismo código. Complementa Circulares N° 31 de 2007 y N°…
+uente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.641 al artículo 66 del Código Tributario y nuevo artículo 66 bis del mismo código. Complementa Circulares N° 31 de 2007 y N° 31 de 2014. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

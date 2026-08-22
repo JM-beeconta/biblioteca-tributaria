@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2025
-- Fecha: 2025-01-30
+- Fecha: 2025-01-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2025/circu8.pdf
 - Hash SHA-256: 05333b6b66da78ffece67f4bb3c486c5dad1486edef7c996c3f5d00f1d941c36
 
 ## Resumen
 
-span> Circular N° 9 del 30 de Enero del 2025 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2025. Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de febrero 2025. Fuente: Subdirección de Fiscalización. Circular N° 7 del 16 de Enero d…
+uente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de febrero 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

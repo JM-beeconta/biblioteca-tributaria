@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 25
 - Año: 2026
-- Fecha: 2026-06-18
+- Fecha: 2026-06-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu25.pdf
 - Hash SHA-256: 5058ca28a3609bd1ba299e900378d5c491a8869c34ef9b7f3014e910b0cb7146
 
 ## Resumen
 
-dirección Jurídica Circular N° 26 del 18 de Junio del 2026 Actualiza instrucciones sobre el recurso de reposición administrativa voluntaria, en conformidad con las modificaciones introducidas por la Ley N°21.713 al artículo 124 del Código Tributario. Modifica Circular N°12 de 2021. Deja sin efecto Circular N°23 de 2018. Fuente: Subdirección Jurídica. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2026 y el 9 de julio de 2026, ambos inclusive. Fuen…
+Subdirección Jurídica. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2026 y el 9 de julio de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

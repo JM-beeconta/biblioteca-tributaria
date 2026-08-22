@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 39 del 30 de Abril del 2025 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a la Ley sobre Impuesto a las Ventas y Servicios en materia de Impuesto al Valor Agregado en las ventas de bienes muebles ubicados en el extranjero. Fuente: Subdirección Normativa Impuestos Indirectos Imparte instrucciones sobre la obtención de rol único tributario y aviso de inicio de actividades. Deja sin efecto las Circulares N° 31 de 2007 y N°…
+ute;n Normativa Impuestos Indirectos Imparte instrucciones sobre la obtención de rol único tributario y aviso de inicio de actividades. Deja sin efecto las Circulares N° 31 de 2007 y N° 7 de 2008. Complementa y modifica las Circulares N° 31 de 2014, N° 58 de 2015, N° 41 de 2021 y N° 24 de 2024. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

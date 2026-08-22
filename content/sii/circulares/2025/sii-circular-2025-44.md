@@ -11,7 +11,7 @@
 
 ## Resumen
 
-justes y multas para el mes de Julio 2025 Fuente: Subdirección de Fiscalización Circular N° 45 del 12 de Junio del 2025 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2025 y el 9 de julio de 2025, ambos inclusive. Fuente: Subdirección de Normativa Tablas de impuesto único de segunda categoría para el mes de julio de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa Circular N° 43 del 05 de Junio del 2025…
+te: Subdirección de Normativa Tablas de impuesto único de segunda categoría para el mes de julio de 2025 e información adicional relacionada con dicho tributo. Fuente: Subdirección de Normativa
 
 ## Referencias detectadas
 

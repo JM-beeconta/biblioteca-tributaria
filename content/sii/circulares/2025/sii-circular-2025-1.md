@@ -11,7 +11,7 @@
 
 ## Resumen
 
-impuesto a las donaciones. Fuente: Subdirección Normativa Circular N° 2 del 02 de Enero del 2025 Imparte instrucciones sobre la información que las entidades financieras deben reportar conforme al nuevo artículo 85 ter del Código Tributario, incorporado por la Ley N° 21.713. Fuente: Subdirección Jurídica. Imparte instrucciones sobre normas del Código Tributario en materia de aplicación de reajustes e intereses moratorios tras las modificaciones introducidas por la Ley N° 21.713. Modifica la Circular N° 9 de 1988.…
+Subdirección Jurídica. Imparte instrucciones sobre normas del Código Tributario en materia de aplicación de reajustes e intereses moratorios tras las modificaciones introducidas por la Ley N° 21.713. Modifica la Circular N° 9 de 1988. Fuente: Subdirección Jurídica. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2025'); }else{ $(location).attr('href', '../' + anyo +…
 
 ## Referencias detectadas
 

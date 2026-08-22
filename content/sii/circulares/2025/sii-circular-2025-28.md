@@ -11,7 +11,7 @@
 
 ## Resumen
 
-25 Fuente: Subdirección de Fiscalización. Circular N° 29 del 10 de Abril del 2025 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2025, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2025 y el 9 de mayo de 2025, ambos inclusive. Fuente: Subdirección Normativa Circular…
+uente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2025 y el 9 de mayo de 2025, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

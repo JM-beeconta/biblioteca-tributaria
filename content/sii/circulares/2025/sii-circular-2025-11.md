@@ -11,7 +11,7 @@
 
 ## Resumen
 
-; 12 del 30 de Enero del 2025 Imparte instrucciones sobre modificaciones incorporadas por la Ley N° 21.713 a diversos artículos de la Ley sobre Impuesto a las Ventas y Servicios. Deja sin efecto las instrucciones contenidas en el N° 6 del Título II de la Circular N° 26 de 2021. Complementa las instrucciones contenidas en la Circular N° 42 de 2020 y en el apartado 3.7.1 del Título II de la Circular N° 61 de 2020. Fuente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N…
+uente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 10, 41 G y 41 H, todos de la Ley sobre Impuesto a la Renta. Modifica y complementa las Circulares N° 14 de 2014, N° 12 de 2015, y N° 40 de 2016 Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 
