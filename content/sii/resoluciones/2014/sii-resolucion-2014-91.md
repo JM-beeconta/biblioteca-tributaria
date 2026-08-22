@@ -1,0 +1,115 @@
+# Resolución N° 91 de 2014
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 91
+- Año: 2014
+- Fecha: 2014-09-15
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso91.pdf
+- Hash SHA-256: b24cd179e75ab43a2e6980f5ff549726053536c6b88340a3b9a3743e07cef0f2
+
+## Resumen
+
+Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 92 del 15 de Septiembre del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Crea Oficina de Comunicaciones Corporativas en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 90 del 02 de Septiembre del 2014 Registra como emisores de documentos tributarios a contribuyent…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SERVICIO DE IMPUESTOS INTERNOS
+SUBDIRECCIÓN DE RECURSOS HUMANOS
+
+
+                                                   MATERIA: CREA OFICINA DE COMUNICACIONES
+                                                   CORPORATIVAS EN LA DIRECCIÓN NACIONAL
+                                                   DEL SERVICIO DE IMPUESTOS INTERNOS.
+
+                                                   SANTIAGO, 10 de septiembre de 2014.
+
+                                                   Hoy se ha resuelto lo que sigue:
+
+
+                                                   RESOLUCIÓN EXENTA SII N° 91.-
+
+
+                                                  VISTOS: Lo dispuesto en las letras c), i) y ñ) del
+artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero
+del D. F. L. N°7 de 1980, del Ministerio de Hacienda, y
+
+                                                   CONSIDERANDO:
+
+                                               Que resulta fundamental definir una nueva
+estructura orgánica que permita implementar una política comunicacional integral, uniforme y
+estratégica, que de coherencia a las comunicaciones de la Institución, posibilitando un efecto
+sinérgico entre las diferentes acciones y mecanismos de difusión del Servicio de Impuestos
+Internos. Teniendo presente, además, las necesidades del Servicio,
+
+
+
+                                                   RESUELVO:
+
+PRIMERO.- Créase en la Dirección Nacional del Servicio de Impuestos Internos la Oficina de
+Comunicaciones Corporativas. La jefatura a cargo de esta oficina dependerá directamente del
+Director.
+
+SEGUNDO.- La Oficina de Comunicaciones Corporativas tendrá la responsabilidad de contribuir a
+la formación, mantención y fortalecimiento de la imagen que proyecte el Servicio y a su adecuado
+posicionamiento frente a sus diferentes públicos objetivos, internos y externos, a través de los
+soportes y medios que se definan.
+TERCERO.- Corresponderán a la Oficina de Comunicaciones Corporativas, directamente o a
+través de las Unidades de su dependencia, las siguientes funciones, atribuciones,
+responsabilidades y obligaciones:
+
+1. Planificar, diseñar, implementar, supervisar y evaluar las acciones de comunicación, información
+y difusión orientadas hacia el cumplimiento tributario, y al uso de productos y servicios que el
+Servicio de Impuestos Internos ofrece a los contribuyentes y usuarios;
+
+2. Planificar, diseñar, implementar, supervisar y evaluar las acciones de comunicación, información
+y difusión orientadas a los funcionarios del Servicio de Impuestos Internos;
+
+3. La administración y mantención del sitio web institucional, lo que implica velar por la usabilidad
+e información oportuna, actualizada y clara para que sea útil a todos los usuarios;
+
+4. La administración y mantención de la intranet institucional, lo que implica velar por la usabilidad
+e información oportuna, actualizada y clara para utilidad de todos los funcionarios
+
+5. La administración y mantención del Canal Institucional de Televisión del SII;
+
+6. La administración de la Imagen Corporativa del Servicio de Impuestos Internos, así como también
+Nombres de dominio y signos, imágenes y denominaciones que identifican al SII;
+7. La coordinación los distintos eventos, nacionales e internacionales, que realice o en que
+participe el SII;
+
+8. Le corresponderán, además, todas las funciones que esta Dirección le encomiende;
+
+
+CUARTO.- Deróguese la Resolución Ex. SII N° 89, de 17 de octubre de 2013.
+
+
+QUINTO.- La presente resolución regirá a contar del 01 de agosto de 2014.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+                               (FDO.) MICHEL JORRATT DE LUIS
+                                         DIRECTOR (T y P)
+
+
+
+
+Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
+
+
+
+
+Distribución:
+- Internet
+- Boletín
+- Diario Oficial en extracto

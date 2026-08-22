@@ -1,0 +1,110 @@
+# Resolución N° 19 de 2022
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 19
+- Año: 2022
+- Fecha: 2022-02-24
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso19.pdf
+- Hash SHA-256: 662c4e50d000d4c4286eb1a844514647c7e9ba191843f5dff70b1a55993375e6
+
+## Resumen
+
+'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 20 del 24 de Febrero del 2022 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 18 del 22 de Febrero del 2022 Aprueba Convenio…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6 l"}
+
+## Texto extraído
+
+SUBDIRECCIÓN JURÍDICA
+DEPTO DEFENSA JUDICIAL CIVIL
+GE00204704
+
+
+
+                                    DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE
+                                    SE INDIVIDUALIZA
+
+                                    RESOLUCIÓN EXENTA N° 19.-
+
+                                    SANTIAGO, 23 DE FEBRERO DE 2022.
+
+
+                                    VISTOS: Los artículos 7, letras e), i) y j), de la Ley Orgánica del
+Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7 de 1980, del
+Ministerio de Hacienda; el artículo 6 letra A N° 3 del Código Tributario; los artículos 2°, 3°, 31, 36 y
+41 de la Ley N° 18.575; lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo;
+Resolución N° 6 de 26.03.2019, de la Contraloría General de la República, y
+
+                                    CONSIDERANDO:
+
+                                  1°. Que, en juicio en actual tramitación ante el 2° Juzgado de
+Letras del Trabajo de Santiago, Causa RIT N° O-3454-2020, caratulada “SEGUEL /TECNOLOGÍAS
+AVANZADAS DE LA INFORMACIÓN S.A.”, se ha citado a absolver posiciones a don Miguel Zamora
+Rendich, en su calidad de Subdirector Jurídico del Servicio de Impuestos Internos; para el día
+02.03.2022;
+
+                                  2° Que, don Miguel Zamora Rendich renunció al Servicio de
+Impuestos Internos y se aceptó su renuncia voluntaria a contar del 01.10.2021, por lo que
+actualmente no detenta el cargo de Subdirector Jurídico;
+
+                                  3° Que, si bien es cierto de conformidad con lo dispuesto en la
+Resolución Exenta N° 191, de 24.12.2010 la facultad de representar judicialmente al Servicio de
+Impuestos Internos, se encuentra delegada en el Jefe de Departamento Subdirección Jurídica,
+aquella no comprende la facultad de rendir en juicio prueba confesional, por lo que dicha potestad
+corresponde al Jefe Superior de este Servicio;
+
+                                    4° Que, existe una imposibilidad de este Director para concurrir
+personalmente a la audiencia fijada para absolver posiciones en el juicio señalado en el considerando
+primero;
+
+                                   5°. Que, el artículo 41 de la Ley N° 18.575, Orgánica
+Constitucional de Bases Generales de la Administración del Estado, autoriza a delegar las
+atribuciones y facultades conferidas a este Director, de manera parcial y para materias específicas;
+y
+
+
+                                    SE RESUELVE:
+
+                                   1°. Delégase la facultad de absolver posiciones, en
+representación del Servicio de Impuestos Internos y, de este Director, en juicio substanciado ante el
+2° Juzgado de Letras del Trabajo de Santiago, Causa RIT N° 0-3454- 2020, caratulada “SEGUEL
+/TECNOLOGÍAS AVANZADAS DE LA INFORMACIÓN S.A.”, en don Mario Andrés Villagra
+Jamett, RUT Nº 14.177.502-2, profesional, grado 13º E.U.S, contrata, de la Subdirección de
+Administración, del Servicio de Impuestos Internos.
+                                    2°. Una vez tramitada, publíquese la presente resolución exenta
+en el portal web del Servicio de Impuestos Internos, en el banner “Gobierno Transparente”, a objeto
+de dar cumplimiento a lo previsto en los artículos 7°, de la Ley N° 20.285, sobre Acceso a la
+Información Pública y 51 de su Reglamento.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+                                     Fernando     Firmado digitalmente
+                                                  por Fernando Barraza
+                                     Barraza      Luengo
+                                                  Fecha: 2022.02.23
+                                     Luengo       16:55:33 -03'00'
+
+                                           DIRECTOR
+
+
+
+
+Marcelo Firmado     digitalmente
+           por Marcelo
+Freyhoffer Freyhoffer Moya
+           Fecha: 2022.02.23
+Moya       13:52:01 -03'00'
+
+
+MFM/MMF
+Distribución:
+- Internet
+- Diario Oficial, en extracto

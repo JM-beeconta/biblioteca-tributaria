@@ -1,0 +1,103 @@
+# Resolución N° 53 de 2020
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 53
+- Año: 2020
+- Fecha: 2020-05-18
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso53.pdf
+- Hash SHA-256: 171312cca65dbf305a0c1d2b3fb9a231cdda18478058a2375ed92eb94e61bd05
+
+## Resumen
+
+uesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 54 del 18 de Mayo del 2020 Autoriza a la notaria de Santiago, Sra. Valeria del Carmen Ronchera Flores, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formularios 1847, 1913 y 1926. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 52 del 08 de Mayo del 2020 Exime a ONG casa…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SUBDIRECCIÓN DE FISCALIZACIÓN
+DEPARTAMENTO DE SISTEMAS DE
+       FISCALIZACIÓN
+
+
+
+                                          MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS
+                                          DECLARACIONES JURADAS FORMULARIOS 1847,
+                                          1913 Y 1926.
+
+
+                                          SANTIAGO, 11 de mayo de 2020
+
+                                          Hoy se ha resuelto lo siguiente:
+
+                                          RESOLUCIÓN EX. SII N°__53___/
+
+
+                                          VISTOS: Lo dispuesto en los artículos 1º, 4 bis, y 7º de la
+ Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980,
+ del Ministerio de Hacienda; en los artículos 6° letra A) N° 1), 34 del Código Tributario, contenido en
+ el artículo 1° del D.L. N° 830, de 1974; Resolución Exenta SII N°111 de 2019; y
+
+
+                                          CONSIDERANDO:
+
+
+                                           1.- Que, en la situación en que se encuentra el país producida
+ por el brote de Covid-19 (Coronavirus), algunos contribuyentes pueden verse imposibilitados de enviar
+ la información requerida por este Servicio, dentro del plazo establecido.
+
+
+                                          2.- Que, mediante Resolución Exenta SII N° 111 de fecha 30
+ de septiembre de 2019, se fijaron plazos para la presentación de declaraciones juradas que en ésta se
+ señalan, para el Año Tributario 2020.
+
+
+                                           3.- Que, este Servicio en uso de las facultades, por razones
+ de buen servicio y a fin de otorgar el máximo de facilidades a los contribuyentes, ha estimado
+ conveniente ampliar el plazo fijado para la presentación de los Formularios que indican.
+
+
+
+                                          SE RESUELVE:
+
+
+                                        1° Amplíese, hasta el día 14 de mayo de 2020, el plazo para
+ presentar los Formularios que se indican a continuación:
+
+
+  N° Formulario                                 Declaración Jurada Anual
+
+        1847          Declaración Jurada sobre balance de 8 columnas y otros antecedentes.
+
+        1913          Declaración Jurada Anual de Caracterización Tributaria Global
+
+                      Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos
+        1926
+                      Contables Balance.
+                                     2° La presente Resolución entrará en vigencia a contar del
+día 11 de mayo de 2020, inclusive.
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+                                            (Fdo.) FERNANDO BARRAZA LUENGO
+                                                        DIRECTOR
+
+                                     Lo que transcribo para su conocimiento y demás fines.
+
+
+
+
+CSM/CGG/JGR/PSM/igl
+DISTRIBUCIÓN:
+- A INTERNET
+- AL DIARIO OFICIAL, EN EXTRACTO

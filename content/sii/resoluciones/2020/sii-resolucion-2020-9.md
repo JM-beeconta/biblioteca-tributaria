@@ -1,0 +1,103 @@
+# Resolución N° 9 de 2020
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 9
+- Año: 2020
+- Fecha: 2020-01-22
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso9.pdf
+- Hash SHA-256: 7d243f708e4a708e64280b68971bbdfd894b9ee49f2ed43f996e92058c705349
+
+## Resumen
+
+diente al año tributario 2020. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 10 del 22 de Enero del 2020 Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre postergación y pago en cuotas del impuesto a las ventas y servicios. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 09 del 20 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 08…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SUBDIRECCIÓN DE FISCALIZACIÓN
+DEPARTAMENTO DE SISTEMAS DE
+       FISCALIZACIÓN
+
+
+
+
+                                          MATERIA: OTORGA CONDONACIÓN SOBRE LOS
+                                          INTERESES Y/O MULTAS INFRACCIONALES EN LOS
+                                          CASOS QUE SE SEÑALAN.
+
+                                          SANTIAGO, 20 DE ENERO 2020
+
+                                          Hoy se ha resuelto lo siguiente:
+
+                                          RESOLUCIÓN EX. SII N° 9.-/
+
+
+
+                                            VISTOS: Las facultades conferidas en los artículos 6° letra
+ B), N° 3 y 4, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L. N° 830,
+ de 1974; lo establecido en los artículos 1°, 9° y 19 letras c) y d), del Decreto con Fuerza de Ley N°
+ 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos
+ Internos; el artículo 45 del Código Civil; y,
+
+
+
+
+                                          CONSIDERANDO:
+
+                                           1.- Que, la situación en que se encuentran algunos
+ contribuyentes clasificados como microempresas, pequeñas empresas, medianas empresa, respecto
+ a la disminución de las ventas, o la imposibilidad de abrir sus locales comerciales,
+
+
+
+
+                                          SE RESUELVE:
+
+
+
+                                          1° Condónense a los contribuyentes, clasificados como
+ microempresas, pequeñas empresas, medianas empresas y personas, los intereses y multas por el
+ retardo en la declaración y pago o solo en la declaración en los casos en que se ejerza el beneficio
+ de postergación de pago, de los impuestos que debían declararse y/o pagarse por los periodos
+ tributarios de octubre, noviembre y diciembre de 2019, a que se refiere el artículo 64 de la Ley sobre
+ Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974.
+
+
+                                          2° Condónense los intereses y multas por el retardo en la
+ declaración y pago de los impuestos de los períodos octubre, noviembre y diciembre de 2019, a que
+ se refieren los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el
+ artículo primero del Decreto Ley N° 824, de 1974 y que deban declararse y pagarse en el Formulario
+ N°29, a los contribuyentes que se encuentren en la situación descrita en el resolutivo anterior.
+
+                                         3° Las condonaciones a que se refiere esta Resolución,
+ regirá para la Declaración Mensual y Pago Simultáneo de Impuestos o Declaración, según
+ corresponda, que se efectúe por internet a través del Formulario número 29 del Servicio de
+ Impuestos Internos y se aplicarán de forma automática, esto es, se otorgarán en línea, al momento
+ del envío de la declaración respectiva, dentro de un plazo que no podrá exceder más allá del 31 de
+ enero de 2020.
+                                      4° La presente Resolución entrará en vigencia a contar del
+día 20 de enero de 2020, inclusive.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+                                                CAROLINA SARAVIA MORALES
+                                              SUBDIRECTORA DE FISCALIZACIÓN
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+JGR/CGG/cgg
+DISTRIBUCIÓN:
+- A INTERNET
+- AL DIARIO OFICIAL, EN EXTRACTO

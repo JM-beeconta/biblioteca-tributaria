@@ -1,0 +1,92 @@
+# Resolución N° 50 de 2019
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 50
+- Año: 2019
+- Fecha: 2019-04-30
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso50.pdf
+- Hash SHA-256: 6516a7bcfeebde06376711ca5eccea544cf8b847926fd0eace5b96918270b100
+
+## Resumen
+
+tranjero. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 51 del 30 de Abril del 2019 Crea modelo de Certificado N° 62, sobre donaciones efectuadas a los órganos y servicios públicos incluidos en la Ley de Presupuestos que, forman parte del fisco. Fuente: Subdirección de Fiscalización Autoriza como receptor electrónico de documentos tributarios electrónicos al siguiente organismo público: SUBSECRETARÍA DE EVALUACIÓN SOCIAL. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N°…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA AL
+          CONTRIBUYENTE
+   DEPARTAMENTO DE OPERACIONES
+          127- SDAC – 2019
+            GE00108544
+
+
+                                                    AUTORIZA COMO RECEPTOR ELECTRÓNICO
+                                                    DE       DOCUMENTOS      TRIBUTARIOS
+                                                    ELECTRÓNICOS AL SIGUIENTE ORGANISMO
+                                                    PÚBLICO:
+
+                                                    SUBSECRETARÍA DE EVALUACIÓN SOCIAL
+
+                                                    SANTIAGO, 24 DE ABRIL 2019
+
+                                                    Hoy se ha resuelto lo siguiente:
+
+                                                    RESOLUCIÓN EXENTA SII N° 50.-/
+
+                                                    VISTOS:
+
+                                                     Lo dispuesto en el artículo 6°, Letra A), Nº 1, del
+Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en los artículos 54 y 56, de la Ley
+sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. Nº 825, de 1974; las
+Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del
+06.10.2017; y 72, del 21.08.2015 delegatoria; y
+
+                                                    CONSIDERANDO:
+
+                                                 1° Que, la Resolución Exenta N° 63, del 2004,
+modificada por la Resolución N°91, del 2017, estableció normas y procedimientos de operación para
+los Organismos Públicos que sean autorizados como Receptores Electrónicos de Documentos
+Tributarios Electrónicos.
+
+                                                   2° Que, el Organismo Público que se detalla en el
+resolutivo primero, ha postulado como receptor de Documentos Tributarios Electrónicos y ha cumplido
+los requisitos establecidos en la Res. Ex. SII N° 63, de 15.07.2004, para ser receptor electrónico de
+documentos tributarios electrónicos.
+
+                                                   3° Que, en Res. Ex. SII Nº 72, del 21.08.2015, se
+delegó en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a organismos públicos
+como receptores de Documentos Tributarios Electrónicos
+
+                                                   SE RESUELVE:
+
+                                                  1° Autorícese como receptor electrónico, a contar
+del mes de abril de 2019, al siguiente Organismo Público:
+
+    -   SUBSECRETARÍA DE EVALUACIÓN SOCIAL, RUT N° 61.980.240-3
+
+                                                  2° El Organismo Público autorizado como receptor
+de Documentos Tributarios Electrónicos, deberá ajustarse a las instrucciones impartidas en la
+Resolución Ex. SII N° 63, de 15.07.2004, actualizada por la Resolución Ex. SII N° 91, de 06.10.2017.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+                                                   (Fdo.) RICARDO PIZARRO ALFARO
+                                         SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE(S)
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+PMR/OBA/CAB/MME
+Distribución:
+- Solicitantes
+- Internet
+- Boletín
+- Diario Oficial

@@ -1,0 +1,102 @@
+# Resolución N° 64 de 2025
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 64
+- Año: 2025
+- Fecha: 2025-05-29
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso64.pdf
+- Hash SHA-256: c1b6737e051823e9415a158c0f1152488b26c2d2bddb5837408afbc722b9f9d6
+
+## Resumen
+
+e indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 65 del 29 de Mayo del 2025 Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 63 del 22 de Mayo del 2025 Autoriza a Banco Santander Chile, Rut n° 97.036.000-k,…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6 l"}
+
+## Texto extraído
+
+SUBDIRECCIÓN JURÍDICA
+DEPTO DEFENSA JUDICIAL CIVIL
+GE326473
+
+                                        DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA
+                                        QUE SE INDIVIDUALIZA
+
+                                        SANTIAGO, 27 DE MAYO DE 2025
+
+                                        RESOLUCIÓN EXENTA N°64.-
+
+                                        VISTOS: Los artículos 7, letras e), i) y j), de la Ley Orgánica
+del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7 de 1980, del
+Ministerio de Hacienda; el artículo 6 letra A N° 3 del Código Tributario; los artículos 2°, 3°, 31, 36 y
+41 de la Ley N° 18.575; lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo; la
+Resolución N° 36, de 26.12.2024, de la Contraloría General de la República, y
+
+                                        CONSIDERANDO:
+
+                                       1°. Que, en juicio en actual tramitación ante el Juzgado de
+Letras del Trabajo de San Miguel en causa RIT M-53-2025, RUC N° 25- 4-0641569-7, caratulada
+“DIEGO/SOCIEDAD INDUSTRIAL KELDAN LIMITADA” se ha citado a los demandados, a la
+audiencia de conciliación, contestación y prueba, para el día 30.05.2025;
+
+                                      2°. Que, según ordena la resolución que fija la referida
+audiencia, las partes deben concurrir a la misma con todos sus medios de prueba, entre los cuales
+se incluye la prueba confesional;
+
+                                        3°. Que, para efectos de rendir la prueba confesional, quien
+posee la facultad de absolver posiciones, en representación de este Servicio, es su Director, quien
+se encuentra imposibilitado de asistir, personalmente, a la audiencia de prueba, en el juicio señalado
+en el considerando primero;
+
+                                       4°. Que, el artículo 41 de la Ley N° 18.575, Orgánica
+Constitucional de Bases Generales de la Administración del Estado, autoriza a delegar las
+atribuciones y facultades conferidas a este Director, de manera parcial y para materias específicas;
+
+                                       5° La imposibilidad del Director de concurrir personalmente a
+la audiencia fijada para absolver posiciones en el juicio señalado en el considerando primero; y
+
+                                       6°. Las necesidades del Servicio,
+
+                                        SE RESUELVE:
+
+                                      1°. Delégase la facultad de absolver posiciones, en
+representación del Servicio de Impuestos Internos y, de este Director, en audiencia de juicio
+substanciado ante el Juzgado de Letras del Trabajo de San Miguel, en causa RIT M 53-2025, RUC
+N° 25- 4-0641569-7, caratulada “DIEGO/SOCIEDAD INDUSTRIAL KELDAN LIMITADA” en doña
+ESTEFANIA RAMAJO GALLARDO, RUT N° 14.711.936-4, profesional, contrata, grado 12, de la
+Subdirección de Administración, del Servicio de Impuestos Internos.
+
+                                         2º. La delegación se extiende para efectos de absolver
+posiciones en la audiencia de juicio de fecha 30.05.2025, o en la fecha que aquella se realice.
+                                               3°. Una vez tramitada, publíquese la presente resolución exenta
+           en el portal web del Servicio de Impuestos Internos, en el banner “Gobierno Transparente”, al objeto
+           de dar cumplimiento a lo previsto en los artículos 7°, de la Ley N° 20.285, sobre Acceso a la
+           Información Pública y 51 de su Reglamento.
+
+
+           ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EL PORTAL DE GOBIERNO TRANSPARENTE
+
+
+
+
+                                                 JAVIER        Firmado digitalmente por
+                                                               JAVIER ETCHEBERRY CELHAY
+                                                 ETCHEBERRY    Fecha: 2025.05.27 14:58:45
+                                                 CELHAY        -04'00'
+
+                                                          DIRECTOR
+
+                      Firmado digitalmente por
+MARCELO         MARCELO FREYHOFFER MOYA
+FREYHOFFER MOYA Fecha:
+                -04'00'
+                        2025.05.27 10:17:26
+
+
+           MFM/FMC/AAS
+           Distribución:
+           -Internet.

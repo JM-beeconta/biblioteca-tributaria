@@ -1,0 +1,123 @@
+# Resolución N° 139 de 2020
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 139
+- Año: 2020
+- Fecha: 2020-10-30
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso139.pdf
+- Hash SHA-256: 0aca09deb8d1affa1d842fd6c23ce74305e87dc84e0f356a7927dded0cc849d5
+
+## Resumen
+
+g; 21.210, sobre modernización tributaria. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 140 del 30 de Octubre del 2020 Incorpórase a Bice Factoring S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 138 del 29 de Octubr…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA AL
+          CONTRIBUYENTE
+   DEPARTAMENTO DE OPERACIONES
+           GE00164488
+           GE00165763
+           GE00165868
+           GE00165987
+           GE00166057
+           GE00166507
+           GE00166714
+
+                                                    AUTORIZA COMO RECEPTOR ELECTRÓNICO
+                                                    DE      DOCUMENTOS       TRIBUTARIOS
+                                                    ELECTRÓNICOS    A    LOS ORGANISMOS
+                                                    PÚBLICOS QUE INDICA.
+
+
+                                                    SANTIAGO, 29-10-2020
+
+
+                                                    Hoy se ha resuelto lo siguiente:
+
+
+                                                                              139
+                                                    RESOLUCIÓN EXENTA SII N°__________/
+
+
+                                                    VISTOS:
+
+                                                     Lo dispuesto en el artículo 6°, Letra A), Nº 1, del
+Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en los artículos 54 y 56, de la Ley
+sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. Nº 825, de 1974; las
+Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del
+06.10.2017; y 72, del 21.08.2015 delegatoria; y
+
+
+                                                    CONSIDERANDO:
+
+                                                 1° Que, la Resolución Exenta N° 63, del 2004,
+modificada por la Resolución N°91, del 2017, estableció normas y procedimientos de operación para
+los Organismos Públicos que sean autorizados como Receptores Electrónicos de Documentos
+Tributarios Electrónicos.
+
+                                                    2° Que, los Organismos Públicos que se detallan
+en el resolutivo primero, han postulado como receptor de Documentos Tributarios Electrónicos y han
+cumplido los requisitos establecidos en la Res. Ex. SII N° 63, de 15.07.2004, para tal efecto.
+
+                                               3° Que, por medio de la Res. Ex. SII Nº 72, del
+21.08.2015, se delegó en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a
+organismos públicos como receptores de Documentos Tributarios Electrónicos.
+
+
+                                                   SE RESUELVE:
+
+                                                   1° AUTORÍZASE como receptor electrónico, a
+contar del mes de octubre de 2020, a los siguientes Organismos Públicos:
+
+    -   GOBERNACION PROVINCIAL DE EL LOA                                         RUT 60.511.023-1
+    -   GOBERNACION PROVINCIAL DE CHANARAL                                       RUT 60.511.032-0
+    -   GOBERNACION PROVINCIAL DE HUASCO                                         RUT 60.511.033-9
+    -   GOBERNACION PROVINCIAL DE LIMARI                                         RUT 60.511.042-8
+    -   GOBERNACION PROVINCIAL DE QUILLOTA                                       RUT 60.511.052-5
+    -   GOBERNACION PROVINCIAL DE MELIPILLA                                      RUT 60.511.133-5
+    -   GOBERNACION PROVINCIAL DEL RANCO                                         RUT 65.852.930-7
+
+
+                                                2° Los Organismos Públicos autorizados como
+receptores de Documentos Tributarios Electrónicos, deberán ajustarse a las instrucciones impartidas
+     en la Resolución Ex. SII N° 63, de 15.07.2004, actualizada por la Resolución Ex. SII N° 91, de
+     06.10.2017.
+
+     ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+                                                                  2020.10.29
+                                                      Veronica
+                                                                  20:38:13
+                                                      Valle Sarah
+                                                                  -03'00'
+                                            SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+            Firmado
+Roberto digitalmente
+        por Roberto
+Galindo Galindo
+        Fecha:
+                Vera
+
+Vera    2020.10.26
+        23:31:45 -03'00'
+
+
+
+
+     RGV/OBA/CAB/MME
+     Distribución:
+     - Solicitantes
+     - Internet
+     - Diario Oficial

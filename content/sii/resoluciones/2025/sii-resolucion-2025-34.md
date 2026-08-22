@@ -1,0 +1,88 @@
+# Resolución N° 34 de 2025
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 34
+- Año: 2025
+- Fecha: 2025-03-20
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso34.pdf
+- Hash SHA-256: 02d880ae61eaf7c321b8acf6af779ea902bb5d4ae89284d96fbce9d8e427d304
+
+## Resumen
+
+ón Nacional del Servicio Civil. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 35 del 20 de Marzo del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Quisco. Fuente: Subdirección de Asistencia al Contribuyente. OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN Resolución Exenta SII N° 33 del 13 de Marzo del 2025 Establece escala de tasas con…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"14"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE FISCALIZACIÓN
+DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
+
+
+                                                  MATERIA: OTORGA CONDONACIÓN SOBRE
+                                                  MULTAS INFRACCIONALES EN LOS CASOS
+                                                  QUE SE SEÑALAN.
+
+                                                  SANTIAGO, 19 DE MARZO DE 2025.
+
+                                                  RESOLUCIÓN EXENTA SII N° 34
+
+                                                  VISTOS:
+
+                                                   Las facultades conferidas en los artículos 6° letra B),
+N° 3 y 4, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L. N° 830, de 1974; lo
+establecido en los artículos 1°, 9° y 19 letras c) y d), del Decreto con Fuerza de Ley N° 7, de 1980,
+del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos; y,
+
+                                                   CONSIDERANDO:
+
+                                              1°     Que, a este Servicio le corresponde la
+aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se
+establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté
+especialmente encomendado por ley a una autoridad diferente.
+
+                                                   2º      Que este Servicio mediante Resoluciones
+Exentas SII N° 70 de 2022 y N° 91 de 2024, estableció la obligación de presentar en tiempo y forma
+la Declaración Jurada Anual 1948 sobre sobre retiros, remesas y/o dividendos distribuidos, o
+cantidades distribuidas a cualquier título y créditos correspondientes, efectuados por contribuyentes
+sujetos al régimen de la letra A) y al número 3 de la letra D) del artículo 14 de la LIR, y sobre saldo
+de retiros en exceso pendientes de imputación.
+
+                                                    3°     Que, en aplicación del principio de buena fe
+y facilitación del cumplimiento tributario voluntario consagrado en el artículo 8° bis N° 19 del Código,
+y atendiendo a las circunstancias de fuerza mayor manifestadas a través de las contingencias
+tecnológicas experimentadas durante los días 14, 15 y 16 de marzo en los sistemas informáticos
+habilitados para la presentación de la declaración jurada indicada, circunstancias que imposibilitaron
+el acceso normal y oportuno a dichas plataformas por causas completamente ajenas a la voluntad y
+diligencia de los contribuyentes, impidiéndoles dar cumplimiento en tiempo y forma a sus
+obligaciones accesorias.
+                                                    RESUELVO:
+
+                                                 1°        Condónense las multas por presentación
+fuera de plazo de la Declaración Jurada Anual 1948 sobre retiros, remesas y/o dividendos
+distribuidos, o cantidades distribuidas a cualquier título y créditos correspondientes, efectuados por
+contribuyentes sujetos al régimen de la letra A) y al número 3 de la letra D) del artículo 14 de la LIR,
+y sobre saldo de retiros en exceso pendientes de imputación
+
+                                               2º          La presente resolución regirá por el período
+comprendido entre el 15 al 18 de marzo inclusive.
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+                                                         CAROLINA FABIOLA
+                                                         SARAVIA MORALES
+                                                         2025.03.19 13:31:58 -03'00'
+
+                                                  SUBDIRECTORA DE FISCALIZACIÓN
+
+PSM/CGG/MCRB/FWV
+DISTRIBUCIÓN:
+- A Internet.
+- Al Diario Oficial, en Extracto

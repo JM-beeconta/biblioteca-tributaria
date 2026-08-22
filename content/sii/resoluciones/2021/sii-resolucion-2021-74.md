@@ -1,0 +1,139 @@
+# Resolución N° 74 de 2021
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 74
+- Año: 2021
+- Fecha: 2021-07-02
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso74.pdf
+- Hash SHA-256: ce494172c1250f318c4ecb2dbff0f574b3d1c5c89737dca53c3f651363ddb8c2
+
+## Resumen
+
+eg; 176 de 2020. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 75 del 02 de Julio del 2021 Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las resoluciones EX. SII N°s 62 y 65 de 2021. Fuente: Subdirección de Fiscalización. Regula la exclusión de los bienes raíces correspondientes a la casa matriz y/o sucursal de los contribuyentes del regímen del artículo 14 letra d) de la Ley sobre impuesto a la renta, para efectos de la aplicación…
+
+## Referencias detectadas
+
+- {"type":"circular","number":28,"year":2020}
+- {"type":"circular","number":31,"year":2007}
+- {"type":"articulo","law":"LIR","article":"14 l"}
+- {"type":"articulo","law":"CT","article":"68"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE AVALUACIONES
+GE00183263
+                                           REGULA LA EXCLUSIÓN DE LOS BIENES RAÍCES
+                                           CORRESPONDIENTES A LA CASA MATRIZ Y/O
+                                           SUCURSAL DE LOS CONTRIBUYENTES DEL
+                                           REGÍMEN DEL ARTÍCULO 14 LETRA D) DE LA LEY
+                                           SOBRE IMPUESTO A LA RENTA, PARA EFECTOS
+                                           DE LA APLICACIÓN DE LA SOBRETASA
+                                           ESTABLECIDA EN EL ARTÍCULO 7 BIS DE LA LEY
+                                           N°17.235.
+
+
+                                           SANTIAGO, 02 DE JULIO DE 2021.
+
+
+                                           RESOLUCIÓN EXENTA N° 74
+
+                                           VISTOS:
+
+                                           Lo dispuesto en los artículos 6°, letra A) número 1 y 68,
+del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974; los artículos 7
+bis, 16 y 28 de la Ley N°17.235, sobre Impuesto Territorial; y en las Circulares N° 31, del 2007;
+N° 7 y N° 28, del 2020, de este Servicio; y
+
+
+                                           CONSIDERANDO:
+
+                                           1.    Que, el artículo 16 de la Ley N°17.235, sobre
+Impuesto Territorial, establece que el catastro de bienes raíces deberá ser mantenido al día por el
+Servicio de Impuestos Internos, utilizando, entre otras fuentes, la información que emane de las
+escrituras públicas de transferencia y de las inscripciones que se practiquen en los registros de
+los conservadores de bienes raíces; de aquella que deberán remitirle las respectivas
+municipalidades y, además, de la que aporten los propietarios de bienes raíces, en la forma y
+plazo que el Director del Servicio determine.
+
+                                           2.     Que, el inciso segundo del artículo 28 del mismo
+cuerpo legal, establece que los contribuyentes, notarios y conservadores deberán entregar al
+Servicio de Impuestos Internos, por medios electrónicos, la información que dispongan en
+relación con la determinación del Impuesto Territorial y la sobretasa establecida en el artículo 7°
+bis de la referida ley, según lo determine el Servicio mediante resolución.
+
+                                          3.     Que, el mencionado artículo 7° bis, establece una
+sobretasa anual del Impuesto Territorial a beneficio fiscal, calculada sobre el avalúo fiscal total en
+la parte que exceda de 670 unidades tributarias anuales, aplicable a las personas naturales y
+jurídicas, y a las entidades sin personalidad jurídica, respecto de los bienes raíces de que sean
+propietarios conforme al registro de propiedad del respectivo Conservador de Bienes Raíces, al
+31 de diciembre del año anterior al devengo de la sobretasa.
+
+                                           4.     Que, la misma disposición legal prescribe que no
+estarán gravados con esta sobretasa los bienes raíces de propiedad de los contribuyentes que
+tributen conforme al artículo 14 letra D) de la Ley sobre Impuesto a la Renta, respecto de los
+bienes raíces, o parte de ellos, que destinen al negocio o giro de la empresa.
+
+                                            5.    Que, para estos efectos, la letra a) del apartado
+1.3. del capítulo II de la Circular N° 28, del 2020, establece que se considerarán destinados en
+parte o en su totalidad al negocio o giro de la empresa, los bienes raíces que los contribuyentes
+referidos tengan registrados ante el Servicio de Impuestos Internos como casa matriz y/o
+sucursales, al 31 de diciembre del año anterior a aquél en que deba girarse la sobretasa,
+precisando que, en caso que el contribuyente sea propietario de solo una parte de dichos bienes
+raíces, la determinación del monto que se exceptuará de formar parte del Avalúo Fiscal Total se
+realizará en proporción a la parte o cuota correspondiente en el dominio del mismo.
+                                           6.     Que, la Circular N° 31, del 2007 establece que
+ los contribuyentes deberán declarar, cuando inicien sus actividades o modifiquen su información,
+ el domicilio de su casa matriz, esto es, aquel local en el cual se desarrolla la actividad principal
+ de las que se realizan, como también el resto de los domicilios en los cuales se desarrollen las
+ actividades del negocio o giro, los cuales se considerarán sucursales, indicando en todos los
+ casos el rol de avalúo de la propiedad o propiedades correspondiente al o los domicilios.
+
+
+                                            7.    Que, de acuerdo con lo establecido en el artículo
+ 68 del Código Tributario, la declaración jurada de inicio de actividades y cualquier modificación a
+ la misma, se deberá efectuar en la carpeta tributaria electrónica que este Servicio habilitará para
+ cada contribuyente.
+
+                                           SE RESUELVE:
+
+                                            1. EXCLUYANSE los bienes raíces destinados en parte
+ o en su totalidad al negocio o giro de la empresa, de la base imponible de la sobretasa
+ establecida en el artículo 7° bis de la Ley N° 17.235, de los contribuyentes que hayan dado
+ cumplimiento a la obligación establecida en el artículo 68 del Código Tributario, declarando
+ correctamente el rol de avalúo (Comuna, Número de Manzana y Predio), que corresponda al
+ domicilio de su casa matriz y/o sucursal, según lo descrito en el considerando 6°.
+
+
+                                        2. La referida exclusión, rige para los contribuyentes
+ pertenecientes al régimen establecido en el artículo 14 letra D) de la Ley sobre Impuesto a la
+ Renta, que hayan sido clasificados como tales, al 31 de diciembre del año anterior al devengo de
+ la Sobretasa.
+
+
+
+
+ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+                                                      Firmado digitalmente
+                                       Fernando       por Fernando Javier
+                                       Javier Barraza Barraza Luengo
+                                                      Fecha: 2021.07.02
+                                       Luengo         19:04:25 -04'00'
+
+                                             DIRECTOR
+
+Maria Firmado
+       digitalmente
+Alicia por Maria Alicia
+       Munoz Musre
+Munoz Fecha:
+       2021.07.02
+Musre 15:01:14 -04'00'
+ MAM
+ Distribución:
+ - Internet
+ - Diario Oficial en extracto

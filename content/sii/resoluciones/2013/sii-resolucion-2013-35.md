@@ -1,0 +1,81 @@
+# Resolución N° 35 de 2013
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 35
+- Año: 2013
+- Fecha: 2013-03-27
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso35.pdf
+- Hash SHA-256: bc0f70408212f1163c19db64e6fc9266b1f09d602bf2f0d99d432c0736b30964
+
+## Resumen
+
+Fuente: Depto. Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 36 del 27 de Marzo del 2013 Delega facultades que indica en el Subdirector de Avaluaciones. Fuente: Subdirección de Avaluaciones. Autoriza delegación de facultad que indica. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 34 del 22 de Marzo del 2013 Modifica Resolución Ex. SII N° 67, de 2009, que establece normas para la devolución del impuesto del Título II y del artículo 42 de la Ley sobre Impuesto a las Ventas y Serv…
+
+## Referencias detectadas
+
+- {"type":"circular","number":54,"year":2012}
+- {"type":"articulo","law":"CT","article":"87"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE AVALUACIONES
+
+
+                                                  MATERIA: AUTORIZA DELEGACIÓN DE
+                                                  FACULTAD QUE INDICA.
+
+
+                                                  SANTIAGO, 22 de marzo de 2013.-
+
+                                                  Hoy se ha resuelto lo que sigue:
+
+
+                                                  RESOLUCIÓN EX. SII N° 35/ VISTOS: Lo
+dispuesto en las letras c) e i) del artículo 7° y letra c) del artículo 19 del D.F.L. N° 7 de
+1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de
+Impuestos Internos; lo establecido en el artículo 41 de la Ley N° 18.575, sobre Ley
+Orgánica Constitucional de Bases Generales de la Administración del Estado; lo
+preceptuado en la Resolución N° 1600, de 2008, de la Contraloría General de la
+República, sobre exención del trámite de toma de razón; y,
+
+                                                  CONSIDERANDO:
+
+                                               1° Que, conforme a lo previsto en el
+artículo 87 del Código Tributario, las municipalidades estarán obligadas a proporcionar al
+Servicio de Impuestos Internos, todos los datos y antecedentes que éste solicite para la
+fiscalización de los impuestos.
+
+                                              2° Que, mediante Circular N° 54, de 2012,
+de este Servicio, se estableció un procedimiento administrativo de revisión o modificación
+individual de avalúo y,o de la aplicación de la sobretasa regulada en el artículo 8 de la
+Ley N° 17.235.
+
+                                                  RESUELVO:
+
+                                             AUTORÍZASE a los Directores Regionales,
+para delegar mediante resolución, en los Jefes de Departamentos de Avaluaciones y en
+los Jefes de Unidades de sus respectivas jurisdicciones, la facultad de requerir
+información a las municipalidades, conforme a lo previsto en el artículo 87 del Código
+Tributario.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+                                                  (FDO.) JULIO PEREIRA GANDARILLAS
+                                                               DIRECTOR
+
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+DISTRIBUCIÓN:
+- Internet
+- Diario Oficial (en extracto)
+- Boletín

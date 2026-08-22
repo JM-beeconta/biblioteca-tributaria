@@ -1,0 +1,170 @@
+# Resolución N° 35 de 2017
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 35
+- Año: 2017
+- Fecha: 2017-03-23
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso35.pdf
+- Hash SHA-256: dc37f24bf99986546ce66bce1de6e9863e9ff5e157ce27ec66c2659bd6ecf4e8
+
+## Resumen
+
+ualiza. Fuente: Departamento Defensa Judicial Civil. Resolución Exenta SII N° 36 del 23 de Marzo del 2017 Complementa Resolución Exenta SII N° 128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Complementa resolución Exenta SII N° 101 de 08.08.2011 modificada por la Resolución 133, del 23.11.2011 en los términos que indica. Fuente: Departamento de Operaciones Resolución Exenta SII N° 34 del 22 de Marzo del 2017 Fija nuevo plazo para presentar la Declaración Jura…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA
+        AL CONTRIBUYENTE
+   DEPARTAMENTO DE OPERACIONES
+         706 – SDAC – 2016
+            77316130409
+
+
+                                                   MATERIA:    COMPLEMENTA        RESOLUCIÓN
+                                                   EXENTA SII N°101 DE 08.08.2011 MODIFICADA
+                                                   POR LA RESOLUCIÓN 133, DEL 23.11.2011 EN
+                                                   LOS TÉRMINOS QUE INDICA.
+
+                                                   SANTIAGO, 23 de marzo de 2017.-
+
+                                                   Hoy se ha resuelto lo siguiente:
+
+                                                   RESOLUCIÓN EX. SII N° _35.-__/
+
+                                                   VISTOS:
+
+                                                   Lo dispuesto en el artículo 6°, Letra A, N° 1, del
+Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; los artículos 1° y 7° de la Ley
+Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley
+N° 7, del Ministerio de Hacienda de 1980; el artículo 56 de la Ley sobre Impuesto a las Ventas y
+Servicios, contenida en el D.L. N° 825, de 1974; la Resolución Ex. SII N° 6582, de 1997, modificada por
+la Resolución Ex. N° 3207, de 1998; y en la Resolución Ex. SII N° 101, de 08.08.2011 modificada por la
+Resolución Ex. N° 133, del 23.11.2011; y
+
+                                                   La solicitud del contribuyente FDD INNOVACIÓN Y
+CRECIMIENTO S.A., RUT N° 76.032.107-9, representado por don DOMINGO GODOY MEYER, RUT N°
+15.643.896-0, con domicilio en Raúl Labbé N° 12.613, oficina 222, Lo Barnechea, en la que requiere
+ampliar la autorización a su favor contenida en la Resolución Ex. SII N° 101, del 2011, para ofrecer una
+nueva modalidad o medio de transacción electrónica que permita operar un sistema de canje de cupones
+o vales electrónicos de alimentación por medio de un dispositivo electrónico (Tablet o teléfono Móvil) que
+contenga una aplicación proporcionada para tal efecto.
+
+                                                   CONSIDERANDO:
+
+                                                   1° Que, el artículo 56 de la Ley sobre Impuesto a las
+Ventas y Servicios, en relación con las instrucciones contenidas en la Resolución Ex. N° 6582, de 1997,
+complementada por Resolución Ex. SII N° 3207, de 1998, estableció el procedimiento de operación en
+las ventas de colaciones por medio de vales o cupones, a fin de facilitar el funcionamiento de ese
+mercado, al mismo tiempo que se garantiza la adecuada protección del interés fiscal.
+
+                                             2° Que, la actualización tecnológica permite la
+implementación de nuevos sistemas de operación que redundan en una mayor comodidad para los
+usuarios del sistema de venta de colaciones.
+
+                                               3° Que, la empresa FDD INNOVACIÓN Y
+CRECIMIENTO S.A., RUT N° 76.032.107-9, es un contribuyente del Impuesto de Primera Categoría que
+ejerce los giros en sociedades de inversión y rentistas de capitales mobiliarios en general y otras
+actividades de inversión N.C.P.
+
+                                                   4° Que, el ocurrente fue autorizado mediante la
+Resolución Ex. SII N° 101, del 2011, modificada por la Resolución Ex. SII N° 133, del mismo año, para
+operar un sistema electrónico en la intermediación de venta de colaciones.
+
+                                                  5° Que, en su presentación, el solicitante describe
+que con el propósito de disminuir los costos y facilitar el acceso a las empresas, pretende agregar un
+nuevo sistema de canje de cupones o vales electrónicos, adicional al sistema previamente autorizado,
+por medio de un dispositivo electrónico (Tablet o teléfono móvil) que contenga una aplicación
+proporcionada, donde se deberá ingresar con los datos de individualización personal del trabajador y
+clave única.
+                                                       SE RESUELVE:
+
+                                                 1° MODIFÍCASE la Resolución Ex. SII N° 101, de
+08.08.2011, modificada por la Resolución Ex. SII N° 133, de 23.11.2011, con el objeto de ampliar la
+autorización conferida a la contribuyente FDD INNOVACIÓN Y CRECIMIENTO S.A., RUT N°
+76.032.107-9, para incorporar la modalidad denominada “Amipass Beneficio de Alimentación”, que
+operará en favor de los trabajadores de las empresas afiliadas al sistema, quienes a través de una
+aplicación instalada en dispositivos electrónicos (tipos tablet o teléfono móvil) podrán identificarse
+ingresando su RUT y clave secreta y así adquirir la colación en los establecimientos con giro de
+restaurantes adheridos.
+                                                   2° La autorización que, en virtud de esta resolución se
+otorga, regirá desde la fecha de publicación de la presente Resolución y se concede sólo para operar el
+sistema electrónico de intermediación en la venta de colaciones a nivel Nacional e implicará que la
+Resolución Ex. SII N° 101, modificada por la Resolución Ex. SII N° 133, ambas del 2011, se ampliará en
+los siguientes términos:
+
+1.           AGRÉGASE en el resolutivo Tercero el siguiente concepto:
+
+                   Dispositivo electrónico: Combinación de componentes electrónicos organizados en
+                    circuitos que utilizan la electricidad para el almacenamiento, transporte o transformación
+                    de información, que conforman una unidad que admite el ingreso, procesamiento y
+                    lectura de datos en forma directa por parte de un usuario, mediante la utilización de
+                    interfaces físicos integrados de acceso, y que adicionalmente permiten conectividad a
+                    redes inalámbricas, tales como Tablet o teléfono móvil.
+
+
+2.      INCORPÓRASE en el resolutivo Cuarto el siguiente número 9:
+
+        9. Descripción de la operación del sistema con mecanismo de pago electrónico móvil:
+
+        a) FDD INNOVACIÓN Y CRECIMIENTO S.A., suscribirá un acuerdo comercial con las
+           empresas interesadas en otorgar el beneficio de pago de colaciones a sus trabajadores, las
+           que deberán proporcionar la nómina de los trabajadores beneficiarios. De esta forma FDD
+           INNOVACIÓN Y CRECIMIENTO S.A., procederá a autorizar los usuarios del sistema,
+           creando para cada uno de los trabajadores una clave electrónica única inicial.
+        b) Paralelamente FDD INNOVACIÓN Y CRECIMIENTO S.A., suscribirá el respectivo acuerdo
+           comercial con los restaurantes, que deseen adherir al sistema “Amipass Beneficio de
+           Alimentación”, procediendo a generar y autorizar a estos como usuarios del sistema,
+           entregándoles una clave única inicial. Asimismo, FDD INNOVACIÓN Y CRECIMIENTO S.A.
+           entregará al comercio asociado la dirección URL donde podrá descargar la aplicación para
+           operar con el mecanismo de canje de cupones móvil.
+        c) El trabajador, por su parte, tendrá que descargar la aplicación desde la “Tienda de
+           Aplicaciones” que posea asociada al sistema de su equipo móvil.
+
+
+3.       AGRÉGASE el siguiente resolutivo Quinto bis: Procedimiento de canje con dispositivo
+        electrónico:
+
+        1.       El trabajador ingresa su número de RUT (código de usuario) en la aplicación dispuesta en
+                 su dispositivo electrónico por FDD INNOVACIÓN Y CRECIMIENTO S.A.
+        2.       En la misma aplicación se ingresarán los datos del comercio asociado y los datos de la
+                 compra que se desea realizar, para que luego, mediante el ingreso de su clave secreta, el
+                 trabajador valide la transacción, haciendo uso del cupón o vale electrónico.
+        3.       Una vez validada la transacción, la aplicación envía un comprobante electrónico a las
+                 direcciones de correo electrónico registradas por el comercio y por el trabajador.
+        4.       En caso de no poseer el trabajador o el comercio un código de usuario con clave electrónica
+                 única autorizada por FDD INNOVACIÓN Y CRECIMIENTO S.A., la aplicación no permitirá
+                 realizar transacción alguna.
+
+4.      AGRÉGASE al resolutivo Noveno al siguiente número 4:
+
+       4. La empresa FDD INNOVACIÓN Y CRECIMIENTO S.A., deberá velar que en la operación del
+       sistema el usuario que esté realizando el canje de los cupones o vales electrónicos de
+       alimentación por medio de un dispositivo electrónico, sea efectivamente el trabajador
+       beneficiario.
+                                                     3° La presente resolución entrará en vigor a contar de
+la fecha de su publicación, en extracto, en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+                                                  (Fdo.) FERNANDO BARRAZA LUENGO
+                                                             DIRECTOR
+
+
+                                        Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+VVS/MDA/RPA/RGV/MPM
+Distribución:
+  - Solicitante
+  - Internet
+  - Boletín
+  - Diario Oficial en extracto

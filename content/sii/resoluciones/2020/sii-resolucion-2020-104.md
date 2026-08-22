@@ -1,0 +1,126 @@
+# Resolución N° 104 de 2020
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 104
+- Año: 2020
+- Fecha: 2020-09-03
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso104.pdf
+- Hash SHA-256: a77ced33c47495676e461b3450e7b14a8e7bf8df37bb73529411fba345341d6a
+
+## Resumen
+
+x;margin-bottom:10px;'> Fuente: Subdirección de Informática. Resolución Exenta SII N° 105 del 03 de Septiembre del 2020 Complementa normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 4 del artículo 1° del decreto supremo N° 1156 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones. Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 74 de fecha 02 de julio de 2020, que instruye procedimiento para emitir boletas electrónicas y…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA AL
+          CONTRIBUYENTE
+   DEPARTAMENTO DE OPERACIONES
+
+
+
+
+                                             MATERIA: MODIFICA FECHA DE ENTRADA EN
+                                             VIGENCIA DE LA RESOLUCIÓN EX. SII N° 74 DE
+                                             FECHA 02 DE JULIO DE 2020, QUE INSTRUYE
+                                             PROCEDIMIENTO    PARA   EMITIR    BOLETAS
+                                             ELECTRÓNICAS Y BOLETAS NO AFECTAS Y
+                                             EXENTAS    ELECTRÓNICAS  DE    VENTAS    Y
+                                             SERVICIOS.
+
+
+                                             SANTIAGO, 2 de septiembre de 2020
+
+
+                                             RESOLUCIÓN EXENTA SII N° 104
+
+
+                                              VISTOS: Las facultades que confieren los artículos 1°, 4°
+bis y 7° letra b, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de
+1980, del Ministerio de Hacienda; lo establecido en el artículo 6° letra A) N° 1, del Código Tributario,
+contenido en D.L. N° 830, de 1974, del Ministerio de Hacienda; los artículos 54, 56 y siguientes de la
+Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974, del Ministerio de
+Hacienda; el D.S. N° 55, de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley
+sobre Impuesto a las Ventas y Servicios; las Leyes N° 21.210, de 2020, que Moderniza la Legislación
+Tributaria y N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica, publicada
+en el Diario Oficial el 2 de septiembre de 2020, y las Resoluciones Ex. SII N°19 de 2008 y sus
+modificaciones posteriores, y N°74, de 2020;
+
+                                             CONSIDERANDO:
+
+                                            1º Que, la Ley N° 21.210 que Moderniza la Legislación
+Tributaria modificó los artículos 54 y 69 de la Ley sobre Impuesto a las Ventas y Servicios,
+estableciendo la obligatoriedad de emitir las boletas de ventas y servicios en formato electrónico e
+indicar en ellas separadamente el impuesto, otorgando para la entrada en vigencia de esta obligación
+un plazo de 6 meses desde su publicación en el Diario Oficial, para los contribuyentes emisores de
+facturas electrónicas, y 12 meses, para aquellos que no tengan tal calidad.
+
+                                             2º Que, mediante Resolución Ex. SII N° 74 de 2020 este
+Servicio dejó sin efecto la Resolución Ex. SII Nº 19 de 2008, incorporando un nuevo procedimiento al
+modelo de boletas electrónicas y/o boletas no afectas o exentas electrónicas.
+
+                                            3° Que, la Ley N° 21.256 que Establece Medidas
+Tributarias para la Reactivación Económica, en el N° 4 de su artículo N° 3, modifica la Ley N° 21.210,
+ampliando el plazo de 6 a 10 meses la entrada en vigencia de las modificaciones a los artículos 54 y
+69 de Impuesto a las Ventas y Servicios para los emisores de facturas electrónicas.
+
+
+                                          4° Que, la Ley N°21.256, ha postergado la fecha de
+entrada en vigencia de la obligatoriedad de la boleta electrónica, respecto de los contribuyentes
+emisores de facturas electrónicas.
+
+                                             SE RESUELVE:
+
+                                             MODIFÍQUESE, la fecha de entrada en vigencia indicada
+en el inciso segundo del Resolutivo 2° de la Resolución Ex. SII N° 74, de fecha 02 de julio de 2020,
+resolviéndose que dichos requisitos serán aplicables a contar del 1° de enero de 2021, solo respecto
+de los contribuyentes que tengan la calidad de emisores electrónicos.
+                                             Dado lo anterior, hasta el 31 de diciembre de 2020 los
+ contribuyentes facturadores electrónicos deberán aplicar la normativa dispuesta en la Res. Ex. N°19
+ de 2008, y sus modificaciones posteriores, sin perjuicio de lo cual, podrán implementar
+ voluntariamente las obligaciones establecidas en la Res. Ex. N°74 de 2020.
+
+
+ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+                                                           Fernando       Firmado digitalmente
+                                                                          por Fernando Javier
+                                                           Javier Barraza Barraza Luengo
+                                                                          Fecha: 2020.09.02
+                                                           Luengo         14:14:56 -04'00'
+
+                                                                    DIRECTOR
+Veronic   Firmado digitalmente por Veronica Valle
+          Sarah
+          Nombre de reconocimiento (DN):
+
+
+
+a Valle
+          ou=Subdireccion de Asistencia al
+          Contribuyente, o=Servicio de Impuestos
+          Internos, c=CL, st=Direccion Nacional,
+          l=Santiago de Chile,
+          email=veronica.valle@sii.cl, cn=Veronica
+
+
+
+Sarah
+          Valle Sarah
+          Fecha: 2020.09.02 11:45:04 -04'00'
+
+
+
+
+ VVS/AVB/RGV/OBA/MME/LVW
+ DISTRIBUCION:
+ -Internet
+ -Diario Oficial

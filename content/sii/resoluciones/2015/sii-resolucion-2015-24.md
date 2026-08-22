@@ -1,0 +1,125 @@
+# Resolución N° 24 de 2015
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 24
+- Año: 2015
+- Fecha: 2015-03-13
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso24.pdf
+- Hash SHA-256: eb32ef9532263b2ebb409c9e02c4908af3938d68b608031483b01488eb24971e
+
+## Resumen
+
+eso25.pdf' target='_blank'>Resolución Exenta SII N° 25 del 13 de Marzo del 2015 Reemplaza formato e instrucciones de Declaración Jurada sobre retenciones de impuestos a que se refiere el artículo 74 N° 4 de la Ley Sobre Impuesto a la Renta; establece nuevo formato de Formulario N° 1912 y modelo de Certificado N° 42; y deroga Res. Ex. N° 16 de 30.01.2008. Fuente: Subdirección de Fiscalización Autoriza a Empresa Aticket Distribución Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cu…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SERVICIO DE IMPUESTOS INTERNOS
+   SUBDIRECCIÓN DE FISCALIZACIÓN
+   DEPARTAMENTO DE ATENCIÓN Y
+   ASISTENCIA DE CONTRIBUYENTES
+         1172-DAAC-2014
+
+
+                                                    AUTORIZA     A     EMPRESA    ATICKET
+                                                    DISTRIBUCIÓN   LIMITADA  PARA  EMITIR
+                                                    BOLETAS DE SERVICIOS DE INGRESO A
+                                                    ESPECTÁCULOS PÚBLICOS, POR CUENTA DE
+                                                    TERCEROS, EN LA FORMA Y CONDICIONES
+                                                    QUE INDICA.
+
+                                                    SANTIAGO, 13 de MARZO DE 2015
+
+
+
+
+                                                    RESOLUCIÓN EX. SII N° 24.-
+
+
+                                                    VISTOS:
+
+
+                                                      Los artículos 55, 56 y 63 de la Ley sobre
+Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974 y su Reglamento contenido en
+el Decreto Supremo N° 55, de Hacienda de 1977; la Resolución N° 75, de 17 de Junio de 1985, del
+Director del Servicio; y las atribuciones que se me confieren en el resolutivo N° 9 de la Resolución Ex.
+SII N° 5028, de 28 de Agosto de 1998.
+
+                                                       La solicitud presentada por don Shai Agosin
+Weisz, Rut N° 8.997.319- 8, en representación de ATICKET DISTRIBUCIÓN LIMITADA RUT N°
+76.785.800-0, ambos domiciliados en Avenida del Valle N° 869, oficina 03, comuna de Huechuraba,
+Santiago, mediante la cual solicita autorización para emitir boletas de servicios, en su calidad de
+mandatario, para el ingreso a espectáculos y reuniones pagadas presentados o promovidos por terceras
+personas, conforme lo dispone la Resolución Exenta SII N° 5028, de 1998; y
+
+
+
+                                                        CONSIDERANDO:
+
+
+                                                        1° Que, el artículo 56, inciso segundo, de la Ley
+sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso
+de boletas que no reúnan los requisitos exigidos por el Decreto Ley N° 825, de 1974, sobre Impuesto a
+las Ventas y Servicios y por el Decreto de Hacienda N° 55, de 1977, reglamentario de dicha ley; siempre
+que, a su juicio, se resguarden debidamente los intereses fiscales.
+
+
+                                                         2° Que, mediante la Resolución Ex. SII N°
+1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, fijó requisitos distintos a
+los establecidos en la letra B, del artículo 69 del Decreto Supremo N° 55, de 1977, para las boletas de
+servicios que deben emitirse por entradas a los espectáculos y reuniones pagadas, sean ocasionales o
+habituales.
+
+
+                                                       3° Que, por Resolución Ex. SII N° 5028, de 28
+de Agosto de 1998, el Director delegó, en el Subdirector de Fiscalización, la facultad de autorizar la
+emisión de boletas que no reúnan los requisitos exigidos por la Ley y el Reglamento sobre Impuestos
+a las Ventas y Servicios, cuando de la solicitud y antecedentes aportados por el peticionario y de los
+informes que estime pertinente requerir, concluya que el interés fiscal se encuentra debidamente
+resguardado.
+
+
+
+                                                       4° Que, el resolutivo 1°, letra a), de la
+Resolución EX. SII. N° 5028, ya citada, indica que las boletas de servicios de ingreso a espectáculos
+que se emitan por cuenta de terceros serán confeccionadas en papel continuo y constarán de dos
+partes a lo menos, las que deberán ser entregadas al adquirente en el momento de la venta.
+
+
+                                                     5° Que, analizada la petición y los
+antecedentes acompañados, esta Dirección Nacional estima que la emisión de boletas de entradas a
+espectáculos y reuniones pagadas por cuenta de terceros mandantes, que hará la empresa ATICKET
+DISTRIBUCIÓN LIMITADA por medios computacionales, en la forma que se establece en la
+Resolución Ex. SII. N° 5028, precitada, resguarda debidamente el interés fiscal.
+
+
+
+                                                         SE RESUELVE:
+
+
+1° AUTORÍZASE a ATICKET DISTRIBUCIÓN LIMITADA RUT N° 76.785.800- 0, para que emita, por
+cuenta de terceros mandantes, boletas de servicios para el ingreso a espectáculos públicos y reuniones
+pagadas, con los requisitos que señala la Resolución Ex. SII N° 5028, de 28 de Agosto de 1998.
+
+2° Las boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, deben ser
+emitidas en forma individual.
+
+3° En el caso de venta remota de entradas para el ingreso a espectáculos públicos y reuniones
+pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberá
+emitirse en el momento en que se percibe la remuneración.
+
+4° La presente resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+                                                           VÍCTOR VILLALÓN MÉNDEZ
+                                                        SUBDIRECTOR DE FISCALIZACIÓN

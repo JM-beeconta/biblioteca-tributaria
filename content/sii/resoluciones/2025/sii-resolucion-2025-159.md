@@ -1,0 +1,144 @@
+# Resolución N° 159 de 2025
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 159
+- Año: 2025
+- Fecha: 2025-11-12
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso159.pdf
+- Hash SHA-256: b1eefebd246f7ac1eac61648ed846899a49b3ef2d1812c69e4a956d3cc64be53
+
+## Resumen
+
+0px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 160 del 12 de Noviembre del 2025 Reorganiza las unidades que conforman el departamento Subdirección de Asistencia al Contribuyente y establece sus ámbitos de competencia. Deja sin efecto la Resolución Exenta SII N° 128 de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contri…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA AL
+      CONTRIBUYENTE
+OFICINA DE CANALES DIGITALES
+       1271-SDAC 2025
+         GE00348142
+
+
+
+                                                        AUTORIZA A LA ENTIDAD QUE INDICA PARA SU
+                                                        HABILITACIÓN EN LA PLATAFORMA DE
+                                                        ACCESO UNICO A LA CLAVE TRIBUTARIA
+
+
+
+                                                        SANTIAGO, 11-11-2025.
+
+                                                        Hoy se ha resuelto lo siguiente:
+                                                        RES. EX. 159.-/
+
+                                                        VISTOS
+
+
+                                                        Lo dispuesto en el artículos 1° y 6° letras A) N° 3 y
+ 8, del Código Tributario, contenido en el artículo 1°del D.L. N° 830, de 1974; el artículo 1° de la Ley
+ Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de
+ Hacienda; los artículos 4°, 6° y siguientes de la Ley N°19.799, sobre Documentos Electrónicos, Firma
+ Electrónica y Servicios de Certificación; el Decreto Supremo N°9, de 2023, de la Secretaría General de la
+ Presidencia; la Resolución Ex. SII N°25, de 01 de marzo del 2021; la Resolución N° 102, del 14 de agosto
+ de 2025, que: “Establece condiciones y términos de uso para que los Órganos de la Administración del
+ Estado que se indica, pueda solicitar e Integrar La Clave Tributaria Sii en su Sitio Web”, y
+
+                                                        La presentación efectuada con fecha 05-11-2024,
+ por don Luciano Rivas Stepke, en representación del GOBIERNO REGIONAL DE LA ARAUCANIA,
+ MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA, RUT N°72.201.100-7, con domicilio en Manuel
+ Bulnes N°590, Temuco, en virtud del cual, solicita la autorización de uso en su sitio web de Clave Tributaria.
+
+                                                        CONSIDERANDO:
+
+                                                         1° Que, conforme con los arts. 4° y 6° y siguientes
+ de la Ley N°19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de
+ dicha firma, los órganos del Estado podrán ejecutar o realizar actos, celebrar contratos y expedir cualquier
+ documento, dentro de su ámbito de competencia, suscribiéndolos por medio de firma electrónica; siendo
+ válidos de la misma manera y produciendo los mismos efectos que los expedidos por escrito y en soporte
+ de papel. Lo anterior, sin perjuicio que los actos administrativos que tengan la calidad de instrumento
+ público o surtan los efectos propios de éste, deban suscribirse mediante firma electrónica avanzada. En
+ tal sentido, el artículo 4° bis del D.F.L. N°7, de Hacienda, de 1980, sobre Ley Orgánica del Servicio de
+ Impuestos Internos, faculta a este Servicio para relacionarse directamente con los contribuyentes y éstos
+ con el Servicio, a través de medios electrónicos, estableciendo que los trámites y actuaciones que se
+ realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados
+ en las oficinas del Servicio o domicilio del contribuyente.
+
+                                                         2° Que, conforme lo dispuesto en los arts. 1° y 6°
+ letra A N°8 del Código Tributario, en relación con el art. 1° de la Ley Orgánica del Servicio de Impuestos
+ Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda, corresponde al Servicio de
+ Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos
+ o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté
+ especialmente encomendado por la ley a una autoridad diferente; debiendo, en lo no previsto por dicho
+ Código y demás leyes tributarias, aplicarse las normas de derecho común contenidas en leyes generales
+ o especiales.
+
+                                                      3° Que, este Servicio, mediante Resolución Ex. SII
+ N°25, de 01 de marzo del 2021, estableció el procedimiento para la obtención y recuperación de la Clave
+  Tributaria, así como para autorizar la actuación de terceros como representantes electrónicos para
+  realizar ciertos trámites a través del sitio web del SII.
+
+                                                        4° Que, en el marco de los cambios que exige el
+  proceso de Transformación Digital del Estado, la Ley N°21.180 facultó al Presidente de la República para
+  establecer, mediante uno o más Decretos con Fuerza de Ley, la gradualidad en la implementación de esa
+  Ley para los distintos Órganos de la Administración del Estado.
+
+                                                           5° Que, en tal sentido, el Decreto Supremo N°9, de
+  2023, de la Secretaría General de la Presidencia, establece una norma técnica de autenticación, que tiene
+  por objeto establecer la forma en que los Órganos de la Administración del Estado deberán implementar
+  y/o integrar el o los mecanismos oficiales de autentificación en sus plataformas electrónicas institucionales,
+  con el propósito de validar, con un nivel de confianza determinado, los datos de identidad de quienes
+  accedan a las plataformas que soportan los procedimientos administrativos y sus procesos relacionados.
+
+                                                        6° Que, el artículo 5° del citado Decreto, conceptúa
+  la “Clave Tributaria” como un “Mecanismo oficial de autentificación, de uso exclusivo de las personas
+  jurídicas o entidades o agrupaciones sin personalidad jurídica que actúen en calidad de agrupación, cuyo
+  Factor de Autentificación consiste en una contraseña entregada por el Servicio de Impuestos Internos a
+  los (las) contribuyentes”, siendo, de acuerdo al mismo Decreto, este Servicio, la autoridad encargada de
+  administrarla, determinando los términos y condiciones, los que deberán ser aceptados por el (la) Jefe (a)
+  Superior del Servicio respectivo para la integración de su organismo a las plataformas electrónicas, si
+  procediere.
+
+                                                       7° Que, este Servicio, mediante Resolución Ex. Sii
+  N°102 de 2025, estableció un procedimiento de registro para que los Órganos de la Administración del
+  Estado que se indica, pueda hacer empleo de la plataforma de acceso único a la “Clave Tributaria” bajo
+  los términos y condiciones de uso señalados en el Anexo N°1 de dicha Resolución, que se entiende parte
+  integrante de ella.
+
+                                                                   SE RESUELVE:
+
+                                                                   HA LUGAR a lo solicitado.
+
+                                                   INCORPÓRESE al GOBIERNO REGIONAL DE LA
+ARAUCANIA, MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA, RUT N°72.201.100-7; al Registro
+de Órganos de la Administración del Estado para hacer uso de la plataforma de acceso único a la Clave
+Tributaria.
+
+ANOTESE, COMUNÍQUESE Y NOTIFIQUESE.
+
+
+                                                                             Firmado digitalmente
+                                                                 PATRICIO    por PATRICIO ALBERTO
+                                                                 ALBERTO     MUÑOZ ROJAS
+                                                                             Fecha: 2025.11.11
+                                                                 MUÑOZ ROJAS 13:52:26 -03'00'
+
+                                                   SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE
+
+
+
+  RRG/AVB/JVR
+  Distribución:
+  -Sr. Luciano Rivas Stepke, Representante del Gobierno Regional de la Araucanía, Ministerio del Interior y Seguridad Pública,
+  Manuel Bulnes N°590/Temuco.
+  - Subdirección de Asistencia al Contribuyente.
+  - Oficina de Canales Digitales.
+  - Internet
+  - Oficina de Partes
+  -Gabinete del Director

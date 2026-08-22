@@ -1,0 +1,118 @@
+# Resolución N° 121 de 2014
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 121
+- Año: 2014
+- Fecha: 2014-12-26
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso121.pdf
+- Hash SHA-256: 49228fe11a48430298331eb0867f9700b8c85fda4adf4b9b4c9816eefb89b05a
+
+## Resumen
+
+x;'> Resolución Exenta SII N° 122 del 26 de Diciembre del 2014 Establece la Obligación de informar al Consejo Nacional de La Cultura y Las Artes, acerca de los beneficiarios de las donaciones con fines culturales establecidas en el artículo 8° de la ley N°18.985. Fuente: Departamento de Sistemas de Fiscalización Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes que comercialicen máquinas expendedoras, reemplazando resolutivo séptimo de la Resolución Ex. SII N° 63, de…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIVS","article":"56"}
+- {"type":"articulo","law":"CT","article":"6"}
+
+## Texto extraído
+
+SERVICIO DE IMPUESTOS INTERNOS
+SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+
+
+
+
+                                          MATERIA: DELEGA EN EL SUBDIRECTOR DE
+                                          ASISTENCIA AL CONTRIBUYENTE LA FACULTAD
+                                          DE AUTORIZAR A CONTRIBUYENTES QUE
+                                          COMERCIALICEN MAQUINAS EXPENDEDORAS,
+                                          REEMPLAZANDO RESOLUTIVO SÉPTIMO DE LA
+                                          RESOLUCIÓN EX. SII. N° 63, DEL 30.06.2005.
+
+                                          SANTIAGO, 26 de diciembre de 2014.-
+
+                                          Hoy se ha resuelto lo siguiente:
+
+                                          RESOLUCIÓN EXENTA SII N° __121.-__/
+
+
+                                           VISTOS: Lo dispuesto en el art. 41, de la Ley 18.575
+Orgánica Constitucional de Bases Generales de la Administración del estado; en la letra i) del
+artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del
+D.F.L. Nº 7 de 1980, del Ministerio de Hacienda; en el artículo 6°, letra A) Nº 3 del Código
+Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974.
+
+
+                                          CONSIDERANDO:
+
+
+                                          1.- Que, en virtud del artículo 56° de la Ley sobre
+Impuesto a las Ventas y Servicios, es facultad de la Dirección Nacional del Servicio de Impuestos
+Internos otorgar la exención de emisión de boletas para los explotadores de máquinas
+expendedoras, en la medida que se resguarde el interés fiscal.
+
+                                         2° Que, la letra i) del artículo 7º de la Ley Orgánica del
+Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7 de 1980, del Ministerio
+de Hacienda y el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del
+Decreto Ley Nº 830, de 1974, facultan al Director del Servicio para autorizar a los Subdirectores
+para resolver determinadas materias o para hacer uso de alguna de sus atribuciones;
+
+                                         3° Que, se hace necesario delegar la facultad de
+autorizar a los contribuyentes que cumplan los requisitos establecidos en Res. EX. SII N°63 del
+30 de junio de 2005 que refunde y complementa procedimientos de autorización que deben
+cumplir los contribuyentes que comercialicen máquinas expendedoras;
+
+                                          4° La necesidad de agilizar la resolución de las
+solicitudes de incorporación, efectuadas por los contribuyentes;
+
+
+
+                                           RESUELVO:
+
+
+                                         1° Reemplácese        el   Resolutivo   Séptimo    de   la
+Resolución Ex. SII N° 63, de 30.06.2005, por lo que sigue:
+
+                                           Delégase en el Subdirector de Asistencia al
+Contribuyente, la facultad de autorizar “modelos de máquinas expendedoras”, de acuerdo al
+artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D. L. 825, de 1974.
+
+                                         2° Las resoluciones que se dicten en virtud de la
+facultad que se delega en este acto, deberán citar por su número y fecha la presente resolución.
+
+
+
+
+                                                                                                 1
+                                           3° VIGENCIA, la presente resolución tendrá vigencia a
+partir de la fecha de su publicación, en extracto, en el Diario Oficial.
+
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EL DIARIO OFICIAL EN EXTRACTO.
+
+
+
+
+                                            (Fdo.) MICHEL JORRATT DE LUIS
+                                                     DIRECTOR (T y P)
+
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IDR/RPA/MEA
+DISTRIBUCIÓN:
+- Al Boletín.
+- A Internet.
+- Al Diario Oficial, en Extracto.
+
+
+
+
+                                                                                              2

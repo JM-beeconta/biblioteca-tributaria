@@ -1,0 +1,101 @@
+# Resolución N° 91 de 2021
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 91
+- Año: 2021
+- Fecha: 2021-07-30
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso91.pdf
+- Hash SHA-256: 687ba0f4df0d6c67f3ba2b36b19dc8725c5117e37224951fc4519a807151c2ba
+
+## Resumen
+
+ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 92 del 30 de Julio del 2021 Autoriza a ENEX S.A Para Operar De Acuerdo a Lo Dispuesto En Resolucion EX.SII N°172 2010 Fuente: Subdirección de Fiscalización. Envío de información que deben entregar las municipalidades para los fines de la Ley N° 21.354. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 30 de Julio del 2021 Fija requisitos…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SUBDIRECCIÓN DE FISCALIZACIÓN
+                                                       ENVÍO DE INFORMACIÓN QUE DEBEN ENTREGAR LAS
+                                                       MUNICIPALIDADES PARA LOS FINES DE LA LEY N° 21.354.
+
+                                                       SANTIAGO, 30 DE JULIO DE 2021.
+
+                                                       RESOLUCIÓN EX. SII Nº 91
+
+
+                                                        VISTOS: Lo dispuesto en el artículo 6°, letra A, N° 1, y 80 del Código
+            Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; en los artículos 1°, 4° bis y 7° de la Ley
+            Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del
+            Ministerio de Hacienda, de 1980; lo dispuesto en los artículos 8 y 11 de la Ley N°21.354, de fecha 17.06.2021,
+            que “Otorga bonos de cargo fiscal para apoyar a las micro y pequeñas empresas, por la crisis generada por la
+            enfermedad Covid-19”, y las Resoluciones Ex. SII N°s 62, 65, 75, 79 y 83 de 2021.
+
+                                                       CONSIDERANDO:
+
+                                                       1° Que, el inciso cuarto del artículo 11 de la Ley N°21.354, establece
+            que “Para todos los efectos, se entenderá que los microempresarios pertenecientes al rubro de ferias libres son
+            beneficiarios del bono establecido en el artículo 1° de esta ley por el solo hecho de tener el permiso municipal
+            respectivo al día, no siéndoles aplicables los requisitos establecidos en las letras a) y b) del mencionado artículo.
+            Con todo, aquellos microempresarios del rubro de ferias libres que mantengan permisos municipales en más de
+            una comuna únicamente recibirán el beneficio equivalente a un solo bono”.
+
+                                                       2° Que, a fin de determinar los contribuyentes pertenecientes al rubro
+            de ferias libres que pueden ser beneficiarios del referido bono, es necesario contar con información de los
+            permisos municipales otorgados y vigentes, razón por la cual este Servicio emitió la Resolución Ex. SII N° 62 de
+            2021.
+                                                       3° Que, si bien mediante las Resoluciones Ex. SII N°65, 75, 79 y 83 de
+            2021, este Servicio amplió sucesivamente el plazo para el envío de la información que las Municipalidades deben
+            entregar respecto de las ferias libres, es necesario otorgar facilidades adicionales a las Municipalidades para la
+            entrega de información.
+                                                       4° Que, con todo, atendido que el plazo legal para solicitar el bono
+            finaliza el día 02.08.2021, por razones de buen servicio, es necesario adoptar medidas a fin que el máximo de
+            personas puedan resultar beneficiarias del bono.
+
+                                                       5° Que, por otra parte, toda la información recibida de las
+            Municipalidades debe ser ingresada en la plataforma habilitada al efecto por este Servicio, con la anticipación
+            suficiente para poder recibir y procesar las solicitudes ingresadas;
+
+                                                       RESUELVE:
+
+                                                     1° Este Servicio recibirá, hasta las 17:00 hrs. del día domingo
+            01.08.2021, toda la información enviada por las Municipalidades respecto de los microempresarios que cuenten
+            con un permiso municipal al día para desempeñarse en el rubro de ferias libres.
+
+                                                      Para ello, deberán remitir el archivo completo, es decir, con la nómina
+            de ferias ya informada y, con las nuevas ferias que se incorporen producto de la actualización de la información.
+
+                                                      2° En aquellos casos en que la información sea proporcionada por las
+            Municipalidades hasta las 17:00 hrs. del día 01.08.2021, la misma estará disponible en la plataforma para solicitar
+            el Bono Alivio para Rubros Especiales, para el Rubro de Ferias Libres el día 02.08.2021.
+
+            ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+                                                                             Firmado
+                                                            Fernando       digitalmente por
+                                                            Javier Barraza Fernando  Javier
+                                                                           Barraza Luengo
+                                                            Luengo         Fecha: 2021.07.30
+                                                                             14:32:41 -04'00'
+Simon     Firmado
+          digitalmente por                                            DIRECTOR
+Ramirez   Simon Ramirez
+          Guerra
+
+Guerra    Fecha: 2021.07.30
+          14:21:19 -04'00'
+
+
+
+
+MAURICIO         Firmado digitalmente por MAURICIO
+                 SANHUEZA BERRIOS
+SANHUEZA BERRIOS Fecha: 2021.07.30 14:05:48 -04'00'
+            MSB/PSM/CGG
+            DISTRIBUCIÓN:
+            - A INTERNET
+            - AL DIARIO OFICIAL, EN EXTRACTO

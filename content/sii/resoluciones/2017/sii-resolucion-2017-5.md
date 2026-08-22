@@ -1,0 +1,117 @@
+# Resolución N° 5 de 2017
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 5
+- Año: 2017
+- Fecha: 2017-01-17
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso5.pdf
+- Hash SHA-256: e31c8890bf65cc35b50c57ce1a89ad92ca8b895930e9a082e44952c331d373be
+
+## Resumen
+
+om:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 06 del 17 de Enero del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 13 de Enero del 2017 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Departamento de Tasaciones Resolución Exenta SII N° 04 del 13 de Enero del 2017 Fija tablas…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SUBDIRECCIÓN DE AVALUACIONES
+DEPARTAMENTO DE TASACIONES
+
+
+
+
+                                          FIJA   LISTA   DE  VALORES DE
+                                          VEHÍCULOS MOTORIZADOS PARA
+                                          LOS FINES QUE SEÑALA
+
+                                          SANTIAGO, 13 de enero de 2017.-
+
+                                          Hoy se ha resuelto lo que sigue:
+
+
+                                          RESOLUCIÓN EX. SII N°___05.-_./
+
+
+                                            VISTOS: Lo dispuesto en el artículo 6º, letra
+A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, y
+el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales.
+
+
+                                          CONSIDERANDO:
+
+                                        1.- Que, en el artículo 12º, letra a), del Decreto
+Ley Nº 3.063, de 1979, sobre Rentas Municipales, se establece un impuesto anual por
+permiso de circulación a los vehículos que indica, a beneficio municipal, que no podrá
+ser inferior a media unidad tributaria mensual del mes de enero de cada año, que se
+aplica conforme a una escala progresiva y acumulativa sobre su precio corriente en
+plaza.
+
+                                           2.- Que, la disposición legal citada, modificada
+por el artículo único de la ley Nº 19.600, publicada en el D.O. de 31.12.98, señala que se
+entenderá como "precio corriente en plaza" de los respectivos vehículos, el que
+determine anualmente el Servicio de Impuestos Internos dentro de la primera quincena
+del mes de enero de cada año, mediante una lista de las distintas marcas y modelos de
+vehículos motorizados usados, clasificados de acuerdo al año de fabricación y con
+indicación, en cada caso, del precio corriente en plaza vigente a esa fecha, agregando
+que esta determinación, regirá sin alteraciones durante el período de un año, contado
+desde el día 1º de febrero.
+
+                                        3.- Que, la referida lista deberá publicarse en el
+Diario Oficial u otro diario de circulación nacional que determine el Servicio de
+Impuestos Internos, dentro del mes de enero respectivo.
+
+                                          SE RESUELVE:
+
+                                          1.- Fíjase para el año 2017, la lista de valores
+de automóviles y otros vehículos motorizados usados, según nómina que se publicará de
+acuerdo a lo señalado en el resolutivo 5.
+
+                                          2.- Si el vehículo fuere del año 2017 y tuviere
+la calidad de usado, su valor corriente en plaza será el que figure en la respectiva factura
+o en el respectivo contrato, sin deducir los impuestos del Decreto Ley Nº 825, de 1974.
+Tratándose de vehículos del mismo año importados directamente, el valor corriente en
+plaza será el valor aduanero, o en su defecto, el valor CIF más los derechos aduaneros, y
+en las dos situaciones, agregando los impuestos del Decreto Ley Nº 825, de 1974. En
+ambos casos deberá deducirse una depreciación del 5% elevando la cantidad que resulte
+a la centena que corresponda, cuando sea igual o superior a 50 pesos y despreciando la
+cantidad inferior. Una vez rebajada la depreciación, el valor corriente en plaza de los
+vehículos no podrá ser inferior al valor del mismo modelo y características del año
+inmediatamente anterior, más un 10% de incremento.
+
+                                           3.- En el caso de los vehículos que no figuren
+en la lista de valores, corresponderá a las Unidades del Servicio determinar su valor,
+cuando se les solicite y sin perjuicio de la facultad del Director de Tránsito contenida en
+la Ley de Rentas Municipales, asimilándolos a aquellos vehículos que aparezcan en
+dicha lista, que reúnan similares características tales como marca, modelo, año de
+fabricación, capacidad de carga o pasajeros, etc.
+
+                                          4.- Para los efectos de lo establecido en el
+Decreto Ley Nº 3.063, de 1979, la lista anexa regirá desde el 1º de febrero de 2017.
+
+                                        5.- Publíquese el listado anexo a esta
+Resolución, en la página Web de la empresa El Mercurio S.A.P., Emol.com, el día 19 de
+enero de 2017 Este listado se publicará adicionalmente en el sitio Web del Servicio de
+Impuestos Internos: www.sii.cl.
+
+
+
+ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+                                     (FDO.) JUAN ALBERTO ROJAS BARRANTI
+                                                  DIRECTOR (S)
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+Distribución:
+• Internet
+• Diario Oficial en extracto
+• Boletín

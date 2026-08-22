@@ -1,0 +1,86 @@
+# Resolución N° 100 de 2015
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 100
+- Año: 2015
+- Fecha: 2015-12-17
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso100.pdf
+- Hash SHA-256: bfdba11047ec35f4a903ed7b72ea2f8db9cae7c13605f16df2a02cdff952cb3a
+
+## Resumen
+
+n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 101 del 17 de Diciembre del 2015 Fija plazo para presentación de declaraciones juradas que se indican. Fuente: Departamento de Sistemas de Fiscalización Establece nueva denominación "Departamento de Asistencia al Contribuyente" en las Direcciones Regionales Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 01 de Diciembre del 2015 Complementa Resolución Exenta SII N° 125 de…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+.
+  SUBDIRECCIÓN DE ASISTENCIA
+     AL CONTRIBUYENTE
+
+                                        MATERIA: ESTABLECE NUEVA DENOMINACIÓN
+                                        “DEPARTAMENTO     DE   ASISTENCIA     AL
+                                        CONTRIBUYENTE”   EN  LAS     DIRECCIONES
+                                        REGIONALES.
+
+                                        SANTIAGO, 01 de diciembre de 2015.-
+
+                                        Hoy se ha resuelto lo siguiente:
+
+                                        RESOLUCIÓN EXENTA SII N° 100.-/
+
+                                        VISTOS:
+
+                                           Las necesidades del Servicio y las facultades que se me
+confieren en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos,
+contenida en el D.F.L. N° 7, de Hacienda, de 30 de Septiembre de 1980; y
+
+                                         CONSIDERANDO:
+
+                                          1° Que producto de la creación de la Subdirección de
+Asistencia al contribuyente por la Ley N° 20.780, existe la necesidad de adecuar la estructura
+orgánica de las Direcciones Regionales, a fin de facilitar, en mayor medida, los requerimientos de
+atención y control de los diversos trámites efectuados por los contribuyentes.
+
+                                     2° Que el inciso final del artículo 4° de la Ley Orgánica de
+este Servicio, establece que en las Direcciones Regionales existirán los Departamentos que
+establezca el Director.
+
+
+
+                                         RESUELVO:
+
+                                      1° Reemplázase la denominación “Departamento
+Plataforma de Atención y Asistencia” existentes en la estructura orgánica de las Direcciones
+Regionales por “Departamento de Asistencia al Contribuyente”.
+
+                                       2° Toda alusión anterior, de asignación de funciones,
+delegación de facultades, procedimientos, contenida en instrucciones o resoluciones impartidas por
+este Servicio, referidas a los ex-Departamentos de Plataforma de Atención y Asistencia de las
+Direcciones Regionales del país o a sus jefaturas, se entenderá referida a los actuales
+Departamentos de Asistencia al Contribuyente o a sus jefaturas.
+
+                                         3° La presente resolución regirá a contar de su publicada
+en extracto en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+                                                         (Fdo.) FERNANDO BARRAZA LUENGO
+                                                                     DIRECTOR
+                                     Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+IDR/RPA/MAG/MDA
+Distribución:
+Boletín
+Diario Oficial
+Internet

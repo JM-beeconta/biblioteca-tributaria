@@ -1,0 +1,91 @@
+# Resolución N° 100 de 2018
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 100
+- Año: 2018
+- Fecha: 2018-10-11
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso100.pdf
+- Hash SHA-256: 6c349537f6d8ba648f2638c1255c1385ffaa22652d75afe1b2b5ca14344b3dbd
+
+## Resumen
+
+> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 101 del 11 de Octubre del 2018 Autoriza al Conservador de Bienes Raíces de Puente Alto, Sr. Rodrigo Alejandro Martin Vergara, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Incorpórase a LATAM FACTORS S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 09…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"6"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA AL
+           CONTRIBUYENTE
+OFICINA DE ASISTENCIA Y EDUCACIÓN AL
+           CONTRIBUYENTE
+         240 - SDAC – 2018
+            77318602934
+
+                                                      INCORPÓRASE A LATAM FACTORS S.A., EN
+                                                      LA NÓMINA DE ENTIDADES PARA SER
+                                                      RECEPTORA DE LA CARPETA TRIBUTARIA
+                                                      POR MANDATO.
+
+                                                      SANTIAGO, 10 DE OCTUBRE 2018
+
+                                                      Hoy se ha resuelto lo siguiente:
+
+                                                      RES. EX. 100.-/
+
+                                                      VISTOS
+
+                                                        Lo dispuesto en el artículo 6° letra A) N° 3 del
+Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y la Resolución N° 80, del
+12.08.2016, del Sr. Director, que establece los requisitos que deben cumplir las entidades que se indican
+para ser receptoras de la “carpeta tributaria electrónica” y delega facultades; y
+
+                                                        La presentación efectuada con fecha 26.07.2018,
+por don Carlos Baudrand Saavedra, en representación de la empresa LATAM FACTORS S.A., RUT N°
+99.595.990-9, con domicilio en Avda. Vitacura N° 2670, piso 8, de la comuna de Las Condes, en virtud
+del cual, solicita la autorización para ser incluirdo en la nómina de entidades receptoras de la carpeta
+tributaria electrónica.
+
+                                                       CONSIDERANDO:
+
+                                                      1° Que para tales efectos, el solicitante adjuntó
+documentos tales como: escrituras y certificados, los cuales fueron debidamente examinados por este
+Servicio.
+                                                      Asimismo consta en las bases de datos de este
+Servicio que, ha informado dentro de sus actividades, el giro de factoring, con fecha 30.05.2017.
+
+                                                      2° Que, en virtud de lo anterior, es posible concluir
+favorablemente a su petición, toda vez, que es posible confirmar que, reúne los requisitos y condiciones
+dispuestos en el Resolutivo 2° de la Resolución Ex. N° 80, del 2016.
+
+                                                      3° Que la facultad de incorporar en la Nómina de
+Instituciones Receptoras de Carpeta Tributaria Electrónica por mandato, se encuentra delegada en el
+Subdirector de Asistencia al Contribuyente, conforme lo dispuesto en la Resolución Ex. N°80, del 2016.
+
+                                                     SE RESUELVE:
+
+                                                  HA LUGAR A LO SOLICITADO, incorpórese al
+Contribuyente LATAM FACTORS S.A., RUT N° 99.595.990-9, a la Nómina de Instituciones Receptoras
+de Carpeta Tributaria Electrónica por mandato, a partir del quinto día hábil de la notificación de esta
+Resolución.
+
+ANOTESE, COMUNÍQUESE Y NOTIFIQUESE
+
+
+
+                                                   (Fdo.) VERÓNICA VALLE SARÁH
+                                        SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+MDA/RRG/SRS
+Distribución:
+-Sr. Carlos Baudrand Saavedra, Representante Legal LATAM FACTOR S.A., Avda Vitacura N°2670, piso 8, Las Condes.
+- Subdirección de Asistencia al Contribuyente.
+- Área de Asistencia al Contribuyente, de la Oficina de Asistencia y Educación al Contribuyente.
+- Internet
+- Oficina de Partes

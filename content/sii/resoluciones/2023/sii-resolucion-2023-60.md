@@ -1,0 +1,146 @@
+# Resolución N° 60 de 2023
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 60
+- Año: 2023
+- Fecha: 2023-05-17
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso60.pdf
+- Hash SHA-256: 0021ef0f679eff5ddf7ec81cac5bb1a6f79377623a32160104b956e7f17d813e
+
+## Resumen
+
+ctualiza requisitos que deben cumplirse para dar aviso de pérdida o inutilización de libros de contabilidad o documentos que sirvan para acreditar anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, de acuerdo con lo establecido en el artículo 97 N° 16 del código tributario. Deroga Resolución EX. N° 109, de 04.02.1976; y deroga en lo pertinente la Resolución Exenta N° 2301, de 1986. Fuente: Subdirección de Asistencia al Contribuyente. Fija monto mínimo para la emisión d…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"88"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA AL
+          CONTRIBUYENTE
+   DEPARTAMENTO DE CICLO DE VIDA
+                GE00184687
+                 121.2021 II
+
+
+                                            FIJA MONTO MÍNIMO PARA LA EMISIÓN DE
+                                            BOLETAS DE VENTAS Y SERVICIOS. DEROGA
+                                            RESOLUCIÓN EX. SII N° 3943 DE FECHA 03.11.1992.
+
+
+                                            SANTIAGO, 17 DE MAYO DE 2023
+
+
+                                            RESOLUCIÓN EXENTA SII N° 60.-
+
+
+                                              VISTOS: Las facultades conferidas en los artículos 1°, 4°
+bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de 1980,
+del Ministerio de Hacienda; lo establecido en el artículo 6° letra A) N° 1 y artículo 88° en su inciso
+penúltimo, del Código Tributario, contenido en D.L. N° 830, de 1974; los artículos 55° y siguientes de
+la Ley sobre Impuesto a las Ventas y Servicios, contenido en el de D.L. N° 825, de 1974; el D.S. N°
+55, de Hacienda, de 1977, que contiene el Reglamento de la Ley del Impuesto a las Ventas y
+Servicios; ; el N°24 del artículo N° 3 de la Ley N° 21.210, que Moderniza la Legislación Tributaria; la
+Ley N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica; la Resoluciones
+Ex. SII N° 3943 de 1992 y N° 74 y 176 de 2020; y,
+
+                                            CONSIDERANDO:
+
+                                            1° Que, de acuerdo con lo dispuesto en ellos artículos N°
+52 y 53 de la Ley sobre Impuestos a las Ventas y Servicios, las personas que celebren cualquier
+contrato o convención de los mencionados en los Títulos I y II de dicho cuerpo legal deberán emitir
+boletas, aun cuando en la venta de los productos o prestación de los servicios no se apliquen los
+impuestos de dicha ley, incluso cuando se trate de convenciones que versen sobre bienes o servicios
+exentos de dichos impuestos.
+
+                                            2° Que, de acuerdo con el inciso penúltimo del artículo
+88° del Código Tributario, la Dirección Nacional del Servicio de Impuestos Internos determinará el
+monto mínimo por el cual deben emitirse las boletas de ventas y servicios.
+
+                                          3° Que, en la Resolución Ex. SII N° 3943 de 1992, se fijó
+en ciento ochenta pesos ($180.-) el monto mínimo respecto del cual existe la obligación de emitir el
+documento boleta.
+
+                                          4° Que, el artículo vigésimo noveno transitorio de la Ley
+N° 21.210, y el artículo tercero N° 4 de la Ley Nº 21.256, establecieron que los contribuyentes
+habilitados como emisores de facturas electrónicas deberán emitir boletas electrónicas de ventas y
+servicios.
+
+                                             5° Que, este Servicio, haciendo uso de sus facultades y
+en su permanente tarea de facilitar el cumplimiento tributario de los contribuyentes, y considerando la
+actual obligatoriedad de emisión de boletas de ventas y servicios en formato electrónico, herramienta
+que permite una mejor comunicación con los contribuyentes, y como una forma de acceder a
+información actualizada y en línea sobre las ventas que realizan, lo que permite a este Servicio
+entregar a los contribuyentes una propuesta de declaración mensual más completa a través del
+formulario 29, ha estimado establecer la obligación de emitir el documento boleta y boleta electrónica
+de ventas y servicios por todas las transacciones que se realicen, independiente de su monto, en la
+forma y condiciones que a continuación se indican.
+                                                   SE RESUELVE:
+
+                                                    1° FÍJASE el monto mínimo por el cual deberán emitir
+       boletas de ventas y servicios los contribuyentes afectos a las disposiciones de la Ley sobre Impuesto
+       a las Ventas y Servicios en $1 (un peso), quedando obligados a emitir boletas de ventas por
+       operaciones afectas o exentas del impuesto al valor agregado por cada operación realizada,
+       cumpliendo con todos los requisitos legales y reglamentarios definidos por este Servicio. Entiéndase
+       por boleta y boleta electrónica de ventas y servicios, tanto a los documentos afectos como exentos, y
+       a los comprobantes que operan como sustituto de este documento.
+
+
+                                                      En caso de transacciones en que su monto total sea de
+       $0 (cero pesos) como resultado de la aplicación de descuentos o alguna otra condición de venta o de
+       prestación de servicio, que disminuya su monto, la boleta electrónica de ventas y servicios deberá
+       emitirse informando el monto del descuento aplicado en el documento, de acuerdo con los instructivos
+       técnicos definidos en Resoluciones Ex. SII N° 74 y 176 ambas de 2020, y sus modificaciones, según
+       corresponda. En caso de no contar con los campos para informar los descuentos asociados, deberá
+       indicarlos a nivel del detalle de los productos o servicios informados en el documento tributario.
+
+
+                                                    2° DERÓGASE la Resolución Ex. SII N° 3943 de 1992, a
+       contar de la entrada en vigencia de la presente Resolución.
+
+
+                                                  3° La presente Resolución entrará en vigencia a contar
+       del 01.07.2023.
+
+
+       ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+                                           HERNAN        Firmado digitalmente por HERNAN
+                                                         ANDRES FRIGOLETT CORDOVA
+                                                         Nombre de reconocimiento (DN):
+                                           ANDRES        ou=GABINETE DEL DIRECTOR, o=Servicio
+                                                         de Impuestos Internos, c=CL, st=GABINETE
+
+                                           FRIGOLETT
+                                                         DEL DIRECTOR, l=GABINETE DEL
+                                                         DIRECTOR, email=hernan.frigolett@sii.cl,
+                                                         cn=HERNAN ANDRES FRIGOLETT
+
+                                           CORDOVA       CORDOVA
+                                                         Fecha: 2023.05.17 17:07:15 -04'00'
+
+
+
+                                                   DIRECTOR
+
+
+
+VERONICA Firmado
+         digitalmente por
+PATRICIA VERONICA
+         PATRICIA VALLE
+VALLE    SARAH
+         Fecha: 2023.05.17
+SARAH    14:15:35 -04'00'
+
+
+       VVS/CAB/RGV/OBA/MME
+       DISTRIBUCION:
+       -Internet
+       -Diario Oficial

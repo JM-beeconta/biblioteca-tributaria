@@ -1,0 +1,89 @@
+# Resolución N° 18 de 2023
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 18
+- Año: 2023
+- Fecha: 2023-02-22
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso18.pdf
+- Hash SHA-256: 7747ceca6d03580b05dd3e4b498a450b796a96a60f066cddf511387cbd7b16a3
+
+## Resumen
+
+la Ilustre Municipalidad de Macul. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 19 del 22 de Febrero del 2023 Rectifica en el modo que indica lista anexa de la Res. Ex. N°4, de 2023, complementada por la Res. Ex. N° 12, del 2023. Fuente: Subdirección de Avaluaciones. Declara Término De Giro Según Lo Dispuesto En El Inciso Final Del Artículo 69 Del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 17 del 17 de Febrero del…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"69"}
+- {"type":"articulo","law":"CT","article":"21"}
+
+## Texto extraído
+
+SUBDIRECCIÓN DE ASISTENCIA
+   AL CONTRIBUYENTE
+
+                                               DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL
+                                               INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO.
+
+                                               SANTIAGO, 22 DE FEBRERO DE 2023
+
+                                               Hoy se ha resuelto lo siguiente:
+
+                                               RESOLUCIÓN EXENTA SII N°18.-
+
+                                               VISTOS:
+
+                                              Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 y 69 inciso
+final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y artículo 7º letra b), de
+la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley
+N° 7, del Ministerio de Hacienda, de 1980; y la Circular N° 30, del 10.05.2016;
+
+                                                CONSIDERANDO:
+
+                                               1° Que, el inciso final del artículo 69 del Código Tributario establece
+que: “Cuando la persona, entidad o agrupación presente 36 o más períodos tributarios continuos sin operaciones
+y no tenga utilidades ni activos pendientes de tributación o no se determinen diferencias netas de impuestos, y
+no posea deudas tributarias, se presumirá legalmente que ha terminado su giro, lo que deberá ser declarado
+por el Servicio mediante resolución y sin necesidad de citación previa. Dicha resolución podrá ser revisada
+conforme a lo dispuesto en el número 5°- de la letra B.- del inciso segundo del artículo 6° o conforme lo dispuesto
+en el artículo 123 bis, sin perjuicio de poder reclamar conforme con el artículo 124 de la resolución que se dicte
+en dicho procedimiento. El Servicio agregará en la carpeta tributaria electrónica del contribuyente los
+antecedentes del caso incluyendo la constancia de no tener el contribuyente deuda tributaria vigente, en la forma
+y plazos señalados en el artículo 21".
+
+                                              2° Que, para efectos de dar cumplimiento a lo señalado en el inciso
+final del artículo 69 del cuerpo legal mencionado, este Servicio dicta la presente Resolución de término de giro,
+individualizando en el Anexo, que forma parte integrante de ésta, a las personas, entidades o agrupaciones,
+mediante el nombre, en el caso de las personas naturales; y, de la razón social y número de RUT, en las
+restantes.
+
+                                               SE RESUELVE:
+
+                                            1° DECLÁRASE EL TÉRMINO DE GIRO, de las personas,
+entidades o agrupaciones que se individualizan en la Nómina contenida en el Anexo adjunto y que forma parte
+de la presente resolución, en atención a que se han cumplido los supuestos contenidos en el inciso final del
+artículo 69, del Código Tributario.
+
+                                            La Nómina de las personas, entidades o agrupaciones detalladas
+en el Anexo, podrá ser consultada a través de la página web del Servicio (www.sii.cl).
+
+                                             2° HABILÍTESE un expediente electrónico con los antecedentes
+del caso, de conformidad a las disposiciones que sobre la materia contempla el artículo 21 del Código Tributario,
+a todas las personas, entidades o agrupaciones a quienes este Servicio les haya declarado el término de giro o
+cese de actividades, conforme a la presente Resolución.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+                                                                 (Fdo.) RICARDO PIZARRO ALFARO
+                                                                            DIRECTOR (S)
+Anexo: Nómina de término de giro diciembre 2022.
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+VVS/OBA/AVB/MMB
+DISTRIBUCIÓN:
+    •  Internet
+    •  Diario Oficial en Extracto

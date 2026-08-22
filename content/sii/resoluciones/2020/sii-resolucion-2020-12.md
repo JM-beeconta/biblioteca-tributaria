@@ -1,0 +1,105 @@
+# Resolución N° 12 de 2020
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 12
+- Año: 2020
+- Fecha: 2020-01-24
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso12.pdf
+- Hash SHA-256: fbb045180903c5b02326894f08c28d990977c4b33e8f9efa07b0b9e1954db929
+
+## Resumen
+
+ón Resolución Exenta SII N° 13 del 24 de Enero del 2020 Modifica Resolución ex. Sii n° 145, de 31-12-2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces no Agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Modifica Resolución ex. Sii n° 144, de 31 de diciembre de 2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces de la primera se…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+SUBDIRECCIÓN DE AVALUACIONES
+
+
+
+
+                                              MODIFICA RESOLUCIÓN EX. SII N° 144,
+                                              DE 31 DE DICIEMBRE DE 2019, QUE FIJA
+                                              VALORES       DE    TERRENOS       Y
+                                              CONSTRUCCIONES PARA EL REAVALÚO
+                                              DE LOS BIENES RAÍCES DE LA PRIMERA
+                                              SERIE AGRÍCOLA.
+
+
+                                              SANTIAGO, 24 ENERO 2020
+
+
+                                              Hoy se ha resuelto lo siguiente:
+
+
+                                              RESOLUCIÓN EX. SII N° 12 .-/
+
+
+
+
+                                               VISTOS: Lo dispuesto en los Artículos 1°, 2°,
+3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial, y en la Resolución Exenta SII N° 144
+de 2019, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces
+de la primera serie agrícola, y
+
+
+
+                                               CONSIDERANDO:
+
+
+                                               1º) Que, por Resolución Ex. SII N°144, de 31
+de diciembre de 2019, se fijaron los valores de terrenos y construcciones para el reavalúo
+de los bienes raíces de la primera serie agrícola.
+
+                                               2º) Que, el Anexo N°3 de la citada Resolución
+Ex. SII N° 144, de 2019, contiene las tablas de valores unitarios de terrenos (suelos).
+
+                                             3º) Que se requiere reemplazar el señalado
+Anexo N° 3 de la citada Resolución Ex. SII N° 144, de 2019.
+
+                                               4°) Que, para los efectos de la determinación
+de la exención de todo o parte del impuesto territorial de los bienes raíces de la primera
+serie agrícola, se debe reajustar el valor del monto a que se refiere el inciso tercero del
+artículo 2° de la Ley N° 17.235.
+
+
+
+                                               SE RESUELVE:
+
+
+
+                                              1º) Reemplácese el Anexo N°3, de la
+Resolución Ex. SII N° 144, de 2019, por el adjunto a la presente Resolución.
+                                               2º) Actualízase el monto de avalúo exento de
+Impuesto Territorial para los predios de la primera serie agrícola, a que se refiere el inciso
+tercero del artículo 2° de la Ley N° 17.235, el que será de $24.222.145, para el primer
+semestre de 2020.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.
+
+
+
+
+                                                 (Fdo.) RICARDO PIZARRO ALFARO
+                                                           DIRECTOR (S)
+
+
+
+
+Anexo: Tabla de valores unitarios de terrenos (suelos).
+
+
+Lo que transcribo para su conocimiento y demás fines,
+
+
+ Distribución:
+- Internet
+- Diario Oficial (En extracto)

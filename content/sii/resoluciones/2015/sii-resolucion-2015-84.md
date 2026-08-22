@@ -1,0 +1,100 @@
+# Resolución N° 84 de 2015
+
+- Fuente: SII
+- Tipo: resolucion
+- Número: 84
+- Año: 2015
+- Fecha: 2015-10-20
+- Categoría: Resoluciones
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso84.pdf
+- Hash SHA-256: a60e263735ad5a9794ea7590eff832a9fbd492a4fc1bffc3dd6c678f0c6b6b60
+
+## Resumen
+
+ción de Fiscalización Resolución Exenta SII N° 85 del 20 de Octubre del 2015 Crea el Departamento de Desarrollo Organizacional dependiente del Departamento Subdirección de Recursos Humanos. Otras medidas que indica. Fuente: Subdirección de Recursos Humanos Establece nuevas fechas de pago del Impuesto Territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Limari, de la IV Región de Coquimbo. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 83 de…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"36"}
+
+## Texto extraído
+
+SERVICIO DE IMPUESTOS INTERNOS
+SUBDIRECCIÓN DE AVALUACIONES
+
+
+                                      ESTABLECE NUEVAS FECHAS DE PAGO DEL
+                                      IMPUESTO    TERRITORIAL    CORRESPON-
+                                                    a   a
+                                      DIENTES A LA 3 Y 4 CUOTA DEL AÑO 2015,
+                                      PARA LOS BIENES RAÍCES UBICADOS EN
+                                      LA PROVINCIA DE LIMARI, DE LA IV REGIÓN
+                                      DE COQUIMBO.
+
+                                      SANTIAGO, 15 de octubre de 2015
+                                      Hoy se ha resuelto lo que sigue
+                                      RESOLUCIÓN EX. SII N° ____84.-___/
+
+
+                                      VISTOS:
+                                      Lo dispuesto en la letra b) del artículo 7° de la
+Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza
+de Ley N°7, de Hacienda, de 1980; en el Decreto Supremo del Ministerio del Interior N°
+1240, de fecha 21 de septiembre de 2015, publicado en el Diario Oficial de fecha 26 de
+septiembre del año en curso, que declara zona afectada por catástrofe a la provincia de
+Limarí, derivada de un sismo de alta intensidad que afectó gran parte del territorio
+nacional desde la Región de Atacama hasta la Región del Biobío; seguido de un
+tsunami que afectó al borde costero del país.
+
+                                      CONSIDERANDO:
+                                       1º      Que, de acuerdo a lo dispuesto en el
+artículo 22 de la Ley N° 17.235, el Impuesto Territorial anual será pagado en cada año
+en cuatro cuotas en los meses de abril, junio, septiembre y noviembre, a menos que el
+Presidente de la República fije otras fechas con arreglo a la facultad que le confiere el
+artículo 36 del Código Tributario.
+                                        2º      Que, el Decreto Supremo N° 1.368, de
+21 de septiembre de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de
+fecha 26 de septiembre de 2015, dispuso medidas de índole tributaria destinadas a
+enfrentar la situación de emergencia en la Provincia de Choapa y la comuna de
+Coquimbo, ambas de la IV Región de Coquimbo, como consecuencia del terremoto y
+posterior tsunami, ocurridos el día 16 de septiembre de 2015.
+                                      3º      Que, dicho cuerpo normativo facultó al
+Servicio de Impuestos Internos para prorrogar el vencimiento de las cuotas N° 3 y N° 4
+del Impuesto Territorial correspondiente al año 2015, hasta el 31 de octubre y 31 de
+diciembre, ambas fechas del año 2015, respectivamente.
+                                     4º    Que, el Decreto Supremo N° 1.416, de
+02 de octubre de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de
+fecha 09 de octubre de 2015, dispuso extender, en los mismos términos, a la provincia
+de Limarí, las medidas y procedimientos de naturaleza tributaria dispuestos para la
+provincia de Choapa y la comuna de Coquimbo, de la IV Región de Coquimbo, por el
+Decreto Supremo N° 1.368, de 21 de septiembre de 2015, del Ministerio de Hacienda.
+                                      SE RESUELVE:
+                                     1º      Establécese como fecha de vencimiento
+de las cuotas de contribuciones N° 3, correspondiente al mes de septiembre y N° 4,
+correspondiente al mes de noviembre, ambas del año 2015, para los bienes raíces
+ubicados en la Provincia de Limarí, de la IV Región de Coquimbo, los días 31 de
+octubre de 2015 y 31 de diciembre de 2015, respectivamente.
+
+                                     2º       En atención a la gravedad de los efectos
+de la catástrofe ocurrida el día 16 de septiembre de 2015 y a la necesidad de
+implementar soluciones oportunas, eficientes y eficaces, destinadas a enfrentar y
+superar esta situación de emergencia, la postergación de las fechas de pago señaladas
+precedentemente comenzará a regir desde la fecha de la presente resolución, sin
+esperar su total tramitación.
+
+
+ANÓTESE, COMUNÍQUESE, PUBLÍQUESE EN EL DIARIO OFICIAL EN EXTRACTO
+Y NOTIFÍQUESE A LA TESORERÍA GENERAL DE LA REPÚBLICA.
+
+
+
+
+                            (Fdo.) JUAN ALBERTO ROJAS BARRANTI
+                                         DIRECTOR (S)
+
+
+                           Lo que transcribo a Ud., para su conocimiento y demás fines.
+Distribución:
+    Internet
+    Boletín
+    Diario Oficial (extracto)
