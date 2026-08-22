@@ -1,14 +1,15 @@
 {
   "status": "running",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T02:08:43.408Z",
+  "updated_at": "2026-08-22T02:35:14.327Z",
   "completed_at": null,
   "total_ranges": 14,
   "completed_ranges": [
-    "BCN"
+    "BCN",
+    "2021-2024"
   ],
-  "completed_count": 1,
-  "last_completed_range": "BCN",
-  "last_range_documents": 0,
+  "completed_count": 2,
+  "last_completed_range": "2021-2024",
+  "last_range_documents": 2077,
   "total_documents": 3512
 }
