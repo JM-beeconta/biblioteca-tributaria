@@ -6,26 +6,29 @@
 - Año: 1985
 - Fecha: 1985-07-18
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/ja2116_85.htm
-- Hash SHA-256: b6cab4ec2ae215eee11fd37e89622a87763fb9d9f402701505cff7f4d692af4e
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/2602_85.htm
+- Hash SHA-256: ab3b092c8fa098ceb6ff56336c21e3ab9373d01feb139532c86b186ca512d4d5
 
 ## Resumen
 
-de servicios afectos. ( Ley sobre Impuesto a la Ventas y Servicios – Art. 2, 20 y 40° Situación tributaria de ingresos que se indican obtenidos por el Instituto de Investigaciones y Control del Ejercito (IDIC) Nacional de Pesca, no constituye una operación afecta al IVA. (Oficio N° 2116, de 17-06-1985) Ley sobre Impuesto a las Ventas y Servicios IVA en servicios de información y comunicaciones por medios computacionales, asesorías de empresas e inversiones y en asuntos administrativos, comerciale
+Ley de Impuestos a las Ventas y Servicios.
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":2602,"year":1985}
 
 ## Texto extraído
 
-OFICIO 53/1994
+OFICIO N° 2602 de 1985
 
-Home | Años
-anteriores
-LEY
-SOBRE IMPUESTO A LA RENTA – ART. 2, 20 Y 40° (ORDINARIO N° 2116, DE
-17-06-1985)
+Home
+| Años anteriores
 
-SITUACIÓN TRIBUTARIA DE INGRESOS QUE SE INDICAN OBTENIDOS POR EL
-INSTITUTO DE INVESTIGACIONES Y CONTROL DEL EJERCITO (IDIC)
+LEY DE
+IMPUESTOS A LAS VENTAS Y SERVICIOS Art.
+2°, N°2, y 8. OFICIO N°
+2602, DE 18 DE JULIO DE 1985.-
+
+MATERIA: Aplicación
+del IVA a las prestaciones
+de las agencias de viajes y turismo por tener el carácter de servi cios afectos

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T23:46:22.755Z",
-  "total_documents": 11241,
+  "generated_at": "2026-08-22T23:47:10.914Z",
+  "total_documents": 11242,
   "by_source": {
-    "SII": 10452,
+    "SII": 10453,
     "BCN": 789
   },
   "by_type": {
     "resolucion": 1975,
-    "oficio": 7613,
+    "oficio": 7614,
     "circular": 864,
     "norma": 294,
     "articulo": 495
@@ -26,8 +26,8 @@
     "1984": 5,
     "1985": 11,
     "1986": 1,
-    "1987": 11,
-    "1988": 18,
+    "1987": 14,
+    "1988": 16,
     "1989": 12,
     "1990": 10,
     "1991": 10,
@@ -79,8 +79,8 @@
     "LIVS",
     "CT"
   ],
-  "mode": "backfill:Gapfill-1989-1992",
-  "last_scrape_at": "2026-08-22T23:46:22.253Z",
-  "touched_documents": 37,
+  "mode": "backfill:Gapfill-1985-1988",
+  "last_scrape_at": "2026-08-22T23:47:10.313Z",
+  "touched_documents": 34,
   "backfill_status": "completed"
 }

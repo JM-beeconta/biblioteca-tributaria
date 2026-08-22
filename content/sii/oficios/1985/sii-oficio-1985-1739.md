@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1739
 - Año: 1985
-- Fecha: 1985-05-03
+- Fecha: 1985-11-19
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/ja3198.htm
-- Hash SHA-256: 0129b0ddd79bf8e56f736bf33609884aa3b2c1f74f5bb10736d63d1b956d21b3
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4355_85.htm
+- Hash SHA-256: 8b4be23d9433be6730c934ff0b80326db1862c3f376417d0161b95ad23d9b551
 
 ## Resumen
 
-estériles en las actividades mineras previos a la explotación. ( Ley de Impuesto a la Renta. Artículos 2, 30 y 41 Valor al que deben ser contabilizados los activos y pasivos de una sociedad que es absorbida por otra que le adquiere el 100% de los derechos sociales. (Oficio N° 4355, de 19 Noviembre 1985) Ley sobre impuesto a la renta – art. 20° n° 3, 60 y 74° N° 4 Tributación de una empresa extranjera sin domicilio ni residencia en el país que efectúa operaciones de leasing internacional. (Oficio N° 3198, de 29-08-…
+( Ley de Impuesto a la Renta. Artículos 2, 30 y 41 Valor al que deben ser contabilizados los activos y pasivos de una sociedad que es absorbida por otra que le adquiere el 100% de los derechos sociales. (Oficio N° 4355, de 19 Noviembre 1985)
 
 ## Referencias detectadas
 
@@ -19,13 +19,23 @@ estériles en las actividades mineras previos a la explotación. ( Ley de Impues
 
 ## Texto extraído
 
-ORDINARIO N° 3198, DE 29-08-1985
+Ley de Impuesto a la Renta. Artículos 2, 30 y 41. Ordinario N° 4355, de
+19 Noviembre 1985.
 
-Home | Años
-Anteriores
-LEY SOBRE IMPUESTO A LA RENTA – ART.
-20°
-N° 3, 60 Y 74° N° 4 (ORDINARIO N° 3198, DE 29-08-1985)
+Home
+| Años Anteriores
+Ley de
+Impuesto a la Renta. Artículos
+2, 30 y 41. Ordinario N° 4355, de 19 Noviembre
+1985.
 
-TRIBUTACIÓN DE UNA EMPRESA EXTRANJERA SIN DOMICILIO NI RESIDENCIA EN EL
-PAÍS QUE EFECTÚA OPERACIONES DE LEASING INTERNACIONAL.
+MATERIA: Valor al que deben ser contabilizados los activos y pasivos de
+una sociedad que es absorbida por otra que le adquiere el 100%
+de los derechos sociales.
+
+FICIO N°. 4355, DE
+19.11.1985
+
+SUBDIRECCION NORMATIVA
+
+DEPTO. IMPUESTOS DIRECTOS

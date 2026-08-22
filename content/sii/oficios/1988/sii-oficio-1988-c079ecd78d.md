@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont size="2" face="Arial"> Oficio N� 0 4207, de 11 Diciembre de 1990). Ley Sobre Impuesto de Timbres y Estampillas - Art. 1� N� 3 Establece que el Comprobante Contable de Egreso de Dinero no debe Considerarse como Documento Afecto al Impuesto de Timbres y Estampillas. ( Oficio N� 3713 de 2 Noviembre de 1988). C�digo Tributario Art�culo 70� Interpretaci�n del art�culo 70� del C�digo Tributario, aplicable al caso de disoluci�n de sociedades por mutuo acuerdo de los socios que la conforman. ( Oficio N�1375, de 02 de…
+Noviembre de 1988). C�digo Tributario Art�culo 70� Interpretaci�n del art�culo 70� del C�digo Tributario, aplicable al caso de disoluci�n de sociedades por mutuo acuerdo de los socios que la conforman. ( Oficio N�1375, de 02 de Mayo de 1988).
 
 ## Referencias detectadas
 

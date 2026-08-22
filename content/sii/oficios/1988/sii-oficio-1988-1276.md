@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y servicios - Nuevo impuesto a las - Art. 57° Word Emisión de Nota de Crédito por descuento otorgado con posterioridad a facturación - Oportunidad para su emisión - Inexistencia de plazo establecido para efectuar la deducción al débito fiscal - Si con posterioridad se deja sin efecto. ( Ley de Impuestos a las Ventas y Servicios- Decreto Ley 910 de 1975, artículo 21 Crédito especial empresa constructora con motivo de un contrato general de construcción que no es por administración consistente en edificación…
+( Ley de Impuestos a las Ventas y Servicios- Decreto Ley 910 de 1975, artículo 21 Crédito especial empresa constructora con motivo de un contrato general de construcción que no es por administración consistente en edificación de un internado de enseñanza media. (Oficio N° 1235, de 20 Abril de 1988)
 
 ## Referencias detectadas
 

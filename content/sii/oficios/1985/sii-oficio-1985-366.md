@@ -6,12 +6,12 @@
 - Año: 1985
 - Fecha: 1985-01-24
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/septiembre_3195.htm
-- Hash SHA-256: cf760e8ddf9573d4664f8a2e123e88c0946f7517302bdd692fcb57993481ed08
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/enero_366.htm
+- Hash SHA-256: 018896c2c46169ba574d6a0aa58c63147f78543fd0c3446314106977a51333bd
 
 ## Resumen
 
-administrativos, comerciales y judiciales. ( Ley de Impuesto a las Ventas y Servicios La transferencia de bienes corporales muebles, a título gratuito, realizadas por prestadores de servicios con fines promocionales, no se encuentran afectas a IVA. (Oficio N° 3704 de 05 Noviembre de 1984) Ley sobre Impuesto a las Ventas y Servicios Indemnización por pérdida de mercadería en contrato de transporte no se encuentra afecta al IVA (Oficio N° 3195 de 25 de Septiembre de 1984) Ley de Impuestos a las Ventas y Servicios IV…
+85) Ley sobre Impuesto a las Ventas y Servicios IVA en servicios de información y comunicaciones por medios computacionales, asesorías de empresas e inversiones y en asuntos administrativos, comerciales y judiciales. (
 
 ## Referencias detectadas
 
@@ -19,22 +19,25 @@ administrativos, comerciales y judiciales. ( Ley de Impuesto a las Ventas y Serv
 
 ## Texto extraído
 
-OFICIO 3195 de 1984
+OFICIO 366 de 1985
 
 Home | Años
 anteriores
 
-LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - OFICIO N°3195
-de 25 de septiembre de 1984
+LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - OFICIO N°366
+de 24 de enero de 1985
 
-INDEMNIZACION POR
-PERDIDA DE MERCADERIA EN CONTRATO DE TRANSPORTE NO SE ENCUENTRA AFECTA AL IVA.
+IVA EN SERVICIOS DE
+INFORMACION Y COMUNICACIONES POR MEDIOS COMPUTACIONALES, ASESORIAS DE
+EMPRESAS E INVERSIONES Y EN ASUNTOS ADMINISTRATIVOS, COMERCIALES Y
+JUDICIALES.
 
-Jorge Varela Videla
+Francisco Fernández
+Villavicencio
 
 Director
 
-OFICIO NO. 3195, DE 25.09.1984
+OFICIO NO. 366, DE 24.01.1985
 
 SUBDIRECCION NORMATIVA
 

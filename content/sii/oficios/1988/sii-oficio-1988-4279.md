@@ -6,12 +6,12 @@
 - Año: 1988
 - Fecha: 1988-12-21
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/ja3067.htm
-- Hash SHA-256: 2bf8afd108b0da946620418f33e106f11e97fee3ef6ec99b7a273c065d6fec8e
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4278_88.htm
+- Hash SHA-256: bef757777078ad81263504f14911fca0c0543854bf101c47f06dbe8fdba31f3a
 
 ## Resumen
 
-normados en el capítulo VI del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. ( Ley de Impuesto a la Renta. Artículo 41 Revalorización del activo realizable de una sociedad anónima, dedicada a la explotación de predios agrícolas. ( Oficio N° 4278 de 21 Diciembre 1988) Ley sobre impuesto a la renta – art. 29° y 31° N° 4 Tratamiento de los ingresos derivados de un contrato de arrendamiento de bienes intangibles (leasing). (Oficio N° 3067, de 08-09-1988) Ley sobre impuesto a la renta – art…
+( Ley de Impuesto a la Renta. Artículo 41 Revalorización del activo realizable de una sociedad anónima, dedicada a la explotación de predios agrícolas. ( Oficio N° 4278 de 21 Diciembre 1988)
 
 ## Referencias detectadas
 
@@ -19,13 +19,14 @@ normados en el capítulo VI del Compendio de Normas de Cambios Internacionales d
 
 ## Texto extraído
 
-ORDINARIO N° 3067, DE 08-09-1988
+OFICIO 53/1994
 
-Home | Años
-Anteriores
-LEY
-SOBRE IMPUESTO A LA RENTA – ART. 29° Y 31° N° 4 (ORDINARIO
-N° 3067, DE 08-09-1988)
+Home
+| Años Anteriores
+LEY DE
+IMPUESTO A LA RENTA. ARTICULO 41.
+OFICIO N° 4278 de 21 DICIEMBRE 1988
 
-TRATAMIENTO DE LOS INGRESOS DERIVADOS DE UN
-CONTRATO DE ARRENDAMIENTO DE BIENES INTANGIBLES (LEASING).
+Revalorización
+del activo realizable de una sociedad anónima, dedicada a la explotación
+de predios agrícolas.

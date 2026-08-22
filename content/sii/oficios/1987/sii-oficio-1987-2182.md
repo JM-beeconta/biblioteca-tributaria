@@ -6,12 +6,12 @@
 - Año: 1987
 - Fecha: 1987-06-08
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/3846_1986.htm
-- Hash SHA-256: c1a8645c4e1c11df7653df9defac6a1db310049cd03aa3ea64ebf6d736106476
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/junio_2182.htm
+- Hash SHA-256: f5f520abe3bb3eaf7df33c13e8eb9bd18415ac848e1b746a95957efb7b1f6ca2
 
 ## Resumen
 
--family:Arial"> Ley sobre Impuesto a las Ventas y Servicios El otorgamiento de permisos de pesca y de certificados sobre productos pesqueros que efectuá el Servicio. ( Ley de Impuestos a las Ventas y Servicios. Artículos 12, letra B, N° 9 Exención de IVA en la importación de materias primas destinadas a producir especies para exportar, improcedencia para el caso que indica. (Oficio N° 3846, de 03 Noviembre de 1986) Ley de Impuestos a las Ventas y Servicios. Artículos 12, letra E, N° 13 Impuesto al Valor Agregado (…
+Ley sobre Impuesto a las Ventas y Servicios El otorgamiento de permisos de pesca y de certificados sobre productos pesqueros que efectuá el Servicio. (
 
 ## Referencias detectadas
 
@@ -19,17 +19,25 @@
 
 ## Texto extraído
 
-OFICIO 4603 de 1992
+OFICIO 2182 de 1987
 
-Home
-| Años anteriores
+Home | Años
+anteriores
 
-Ley de
-Impuestos a las Ventas y Servicios. Artículos 12, letra B, N° 9.
-Ordinario N° 3846, de 03
-Noviembre de 1986.
+LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS - OFICIO N°
+2182
+de 8 de junio de 1987
 
-Exención de
-IVA en la importación de materias primas destinadas a producir especies
-para exportar, improcedencia
-para el caso que indica.
+EL OTORGAMIENTO DE
+PERMISOS DE PESCA Y DE CERTIFICADOS SOBRE PRODUCTOS PESQUEROS QUE EFECTUA EL SERVICIO NACIONAL DE
+PESCA, NO CONSTITUYE UNA OPERACION EFECTA AL IVA.
+
+Francisco Fernández Villavicencio
+
+Director
+
+OFICIO NO. 2182, DE 08.06.1987
+
+SUBDIRECCION NORMATIVA
+
+DEPTO. IMPUESTOS INDIRECTOS

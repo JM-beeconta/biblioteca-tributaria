@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2116
 - Año: 1985
-- Fecha: 1985-01-24
+- Fecha: 1985-06-17
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/nov3704.htm
-- Hash SHA-256: f8c97dda21e63d58d5c7d7dca99769703ad280860dd62f3a852a5e45668791dc
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/ja2116_85.htm
+- Hash SHA-256: b6cab4ec2ae215eee11fd37e89622a87763fb9d9f402701505cff7f4d692af4e
 
 ## Resumen
 
-o-bidi-language: AR-SA"> ( Ley sobre Impuesto a las Ventas y Servicios IVA en servicios de información y comunicaciones por medios computacionales, asesorías de empresas e inversiones y en asuntos administrativos, comerciales y judiciales. (Oficio N° 366 de 24 de Enero de 1985) Ley de Impuesto a las Ventas y Servicios La transferencia de bienes corporales muebles, a título gratuito, realizadas por prestadores de servicios con fines promocionales, no se encuentran afectas a IVA. (Oficio N° 3704 de 05 Noviembre de 1…
+Ley sobre Impuesto a la Ventas y Servicios – Art. 2, 20 y 40° Situación tributaria de ingresos que se indican obtenidos por el Instituto de Investigaciones y Control del Ejercito (IDIC) Nacional de Pesca, no constituye una operación afecta al IVA. (
 
 ## Referencias detectadas
 
@@ -19,14 +19,13 @@ o-bidi-language: AR-SA"> ( Ley sobre Impuesto a las Ventas y Servicios IVA en se
 
 ## Texto extraído
 
-OFICIO N� 3704 DE 2004.-
+OFICIO 53/1994
 
-Home |
-A�os
+Home | Años
 anteriores
-LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. OFICIO N�
-3704 DE 05 DE NOVIEMBRE DE 2004
+LEY
+SOBRE IMPUESTO A LA RENTA – ART. 2, 20 Y 40° (ORDINARIO N° 2116, DE
+17-06-1985)
 
-TRANSFERENCIAS DE BIENES
-CORPORALES MUEBLES, A TITULO GRATUITO, REALIZADAS POR PRESTADORES DE
-SERVICIOS CON FINES PROMOCIONALES, NO SE ENCUENTRAN AFECTAS AL IVA.
+SITUACIÓN TRIBUTARIA DE INGRESOS QUE SE INDICAN OBTENIDOS POR EL
+INSTITUTO DE INVESTIGACIONES Y CONTROL DEL EJERCITO (IDIC)
