@@ -23,6 +23,22 @@
       <h1>Busca la ley y el criterio del SII en un solo lugar.</h1>
       <p class="hero-copy">Base legal de LeyChile/BCN más Circulares y Jurisprudencia Administrativa del Servicio de Impuestos Internos.</p>
 
+      <div class="corpus-monitor" aria-live="polite">
+        <div class="corpus-primary">
+          <span class="corpus-label">DOCUMENTOS PUBLICADOS</span>
+          <strong id="corpusTotal">—</strong>
+        </div>
+        <div class="corpus-details">
+          <span id="corpusBreakdown">Cargando desglose…</span>
+          <span class="corpus-separator">·</span>
+          <span id="corpusUpdated">Última actualización: —</span>
+        </div>
+        <div id="backfillProgress" class="backfill-progress" hidden>
+          <span class="backfill-dot"></span>
+          <span id="backfillText"></span>
+        </div>
+      </div>
+
       <div class="search-shell">
         <label class="sr-only" for="search">Buscar</label>
         <input id="search" type="search" autocomplete="off" placeholder="Ej: artículo 31, gastos rechazados, reorganización, IVA servicios…" />
