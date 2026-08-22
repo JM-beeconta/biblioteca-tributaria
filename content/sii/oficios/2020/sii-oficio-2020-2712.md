@@ -1,0 +1,81 @@
+# Oficio N° 2712 de 2020
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 2712
+- Año: 2020
+- Fecha: 2020-11-23
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2712-23%2F11%2F2020.pdf&extension=pdf&acc=download&id=4f8a2d2f-98fb-4638-bf8f-0c9e7cc40ddf&mediaType=application%2Fpdf
+- Hash SHA-256: 00acc2fe7da9ee1c51a50d8638fc8747412ed813118ac4219bbc670b5ca440b2
+
+## Resumen
+
+Consulta sobre aplicación de IVA a cuota de inscripción en una actividad deportiva.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY SOBRE IMPUESTO A LAS – ART. 2, N°1.
+                            (ORD. N° 2712, DE 23.11.2020)
+
+Consulta sobre aplicación de IVA a cuota de inscripción en una actividad deportiva.
+
+
+Se ha solicitado a este servicio un pronunciamiento sobre la aplicación de IVA al cobro de una cuota de
+inscripción para una maratón que incluye la entrega de ciertos bienes a los participantes.
+I      ANTECEDENTES
+
+De acuerdo con su presentación, que no individualiza la persona natural representante de la empresa, la
+TTTTTT S.A. es una empresa que organiza maratones deportivos al aire libre, dentro o fuera de parques
+nacionales, cobrando a los participantes una cuota de inscripción, la que considera además la entrega de
+una camiseta que permita identificar a los participantes, un reloj con GPS que permite conocer en tiempo
+real la ubicación de cada competidor y, eventualmente, otros elementos necesarios para el correcto
+desarrollo de la referida actividad deportiva.
+
+II     ANÁLISIS
+El N° 1°) del artículo 2° de Ley sobre Impuesto a las Ventas y Servicios (LIVS) define “venta”, para los
+efectos de aplicar el IVA, como “toda convención independiente de la designación que le den las partes
+que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales
+inmuebles construidos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos
+sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley
+equipare a venta”.
+Por su parte, el N° 2°) del mismo precepto define “servicio” como la acción o prestación que una
+persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquier otra forma de
+remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los números 3 y 4
+del artículo 20 de la Ley sobre Impuesto a la Renta (LIR).
+En base a la normativa señalada es posible concluir que el pago por la inscripción a la señalada actividad
+deportiva no se encuentra clasificado dentro de los números 3 y 4 del artículo 20 de la LIR, por lo que
+no se configura a su respecto un hecho gravado con IVA y, por consiguiente, no se encuentra gravado
+con el mencionado impuesto.
+Por su parte, en cuanto a las entregas de bienes efectuadas a los participantes de la maratón cabe tener
+presente que, en la medida que los bienes sean entregados en forma gratuita a todos los participantes
+indistintamente, por el solo hecho de pagar la inscripción, sin que se cobre una suma determinada por las
+poleras o el dispositivo GPS, dicha entrega no se afecta con IVA de acuerdo con las reglas generales.
+Po el contrario, si los bienes son entregados a cambio de un precio determinado, reflejado en el valor de
+la inscripción, el cual varíe dependiendo de la cantidad de bienes entregados a los participantes, dicha
+transferencia de bienes constituye una venta afecta a IVA, impuesto que debe aplicarse sobre el valor
+adicional a la inscripción que se cobre por la entrega de los mencionados bienes.
+
+III    CONCLUSIÓN
+Conforme lo expuesto precedentemente se informa que el precio pagado por la admisión o
+inscripción en el certamen deportivo referido en su consulta no se encuentra afecto a IVA.
+La entrega de ciertos bienes a los participantes, en cuanto se comprenda dentro del precio de la
+inscripción para todos los participantes, no se encuentra gravada con IVA
+Si el precio de la inscripción varía según los bienes entregados a los participantes, dicha entrega constituye
+una venta gravada con IVA.
+
+
+
+                                  FERNANDO BARRAZA LUENGO
+                                         DIRECTOR
+
+
+
+
+                                      Oficio N° 2712, de23.11.2020
+                                       Subdirección Normativa
+                                      Dpto. de Impuestos Indirectos

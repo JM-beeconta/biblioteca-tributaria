@@ -1,0 +1,247 @@
+# Circular N° 12 de 2018
+
+- Fuente: SII
+- Tipo: circular
+- Número: 12
+- Año: 2018
+- Fecha: 2018-02-20
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu12.pdf
+- Hash SHA-256: 82293f83b2411576dcf15c0f51d22a0093cad5bc0331769fa04304969ff8dfa6
+
+## Resumen
+
+> Circular N° 13 del 20 de Febrero del 2018 Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en el N°2, de la letra D.- del artículo 41 A, de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos Modifica la Circular N° 19, del 19 de abril de 2004, que imparte instrucciones sobre los procedimientos de determinación y pago del impuesto a…
+
+## Referencias detectadas
+
+- {"type":"circular","number":19,"year":2004}
+- {"type":"articulo","law":"CT","article":"200"}
+
+## Texto extraído
+
+SUBDIRECCIÓN EMISORA                                         CIRCULAR N° 12.-
+ASISTENCIA AL CONTRIBUYENTE
+DEPARTAMENTO DE OPERACIONES
+SISTEMA DE PUBLICACIONES ADMINISTRATIVAS                     FECHA: 15 DE FEBRERO 2018
+
+MATERIA:                                                     REFERENCIA
+                                                             Ref. Legal: Ley N° 16.271, sobre
+MODIFICA LA CIRCULAR N° 19, DEL 19 DE ABRIL                  Impuesto a las Herencias y Donaciones
+DE 2004, QUE IMPARTE INSTRUCCIONES SOBRE
+LOS PROCEDIMIENTOS DE DETERMINACIÓN Y
+PAGO DEL IMPUESTO A LAS ASIGNACIONES POR
+CAUSA DE MUERTE Y DONACIONES Y SUSTITUYE
+SUS DOCUMENTOS INCLUIDOS EN EL ANEXO
+
+
+La presente instrucción tiene como propósito modificar la Circular N° 19, del 2004 a fin de poner en
+conocimiento de los solicitantes los nuevos certificados que se emitirán en los casos de declaración y
+pago del Impuesto a las Herencias y Donaciones, los cuales una vez generados, podrán ser
+consultados en la página www.sii.cl.
+
+
+Cabe señalar que, la sustitución de los certificados responde a la necesidad de que su contenido
+concuerde con la calidad de la información puesta a disposición por el solicitante en la Declaración
+Jurada de la Determinación y Pago del Impuesto a las Asignaciones, (Formulario N° 4423). Con ello,
+los Anexos que se adjuntan en la presente instrucción reemplazan en el mismo orden a los que se
+encuentran anexados a la Circular N° 19 de 2004.
+
+
+Asimismo, se complementa el apartado 1.6. contenido en la letra A) del capítulo IV, titulado: “Forma de
+acreditar el pago del impuesto o su exención”, de la citada Circular N° 19, del 2004, agregando como
+párrafo final el siguiente:
+
+
+“Para tales efectos, todos estos certificados podrán ser consultados e impresos desde la página web
+de este Servicio”.
+
+
+La presente Circular entrará en vigencia a partir de su publicación en el extracto en el Diario Oficial.
+
+Saluda a Uds.,
+
+
+
+
+                                                      VÍCTOR VILLALÓN MÉNDEZ
+                                                           DIRECTOR (S)
+
+
+Anexos:
+Certificado Exención del Impuesto a las Herencias
+Certificado Exención Parcial del Impuesto a las Herencias
+Certificado de Pago Total del Impuesto a las Herencias
+Oficio Ord. de Director Regional a Solicitante
+
+
+
+RPA/MDA/SOB/CPGV
+DISTRIBUCIÓN
+- Al Boletín
+- A Internet
+- Diario Oficial, en extracto
+_______ DIRECCIÓN REGIONAL
+
+
+
+
+           CERTIFICADO EXENCION DEL IMPUESTO A LAS HERENCIAS
+
+
+
+El Director Regional del Servicio de Impuestos Internos que suscribe certifica que,
+todas las asignaciones que comprende la herencia quedada al fallecimiento de don
+(doña) (causante), RUT N° (xxxx), ocurrida con fecha (dd/mm/aaaa), declaradas por
+don (doña) (solicitante), RUT N° xxxxxxxx, según el Formulario 4423 N° (xxxxx), de
+fecha (dd/mm/aaaa), se encuentran exentas del impuesto establecido en la Ley N°
+16.271, sobre las Herencias, Asignaciones y Donaciones.
+
+En el caso de que la declaración contenida en el Formulario N° 4423 amplíe una
+declaración efectuada con anterioridad, la presente, dejará sin efecto las anteriores.
+
+
+Se otorga el presente certificado, a petición de don (doña) _____________________,
+RUT ____________________, con domicilio en _________________________, en
+su calidad de _________________.
+
+
+
+
+En ________________, a ______ de ___________ de ________
+
+
+
+
+                                .................................................
+                                 NOMBRE, FIRMA Y TIMBRE
+                                     DIRECTOR REGIONAL
+Para consultar e imprimir este certificado, debe ingresar a sii.cl, menú Servicios online, opción
+Herencias, y luego "Consulta certificado de herencias intestadas", identificándose con su RUT y Clave.
+
+Cabe indicar que la declaración mencionada en este certificado es realizada en base a la declaración
+del contribuyente, la cual podría ser objeto de fiscalización tributaria dentro de los plazos legales
+establecidos, por lo que se sugiere mantener la documentación que la respalda.
+_______ DIRECCIÓN REGIONAL
+
+
+
+    CERTIFICADO EXENCIÓN PARCIAL DEL IMPUESTO A LAS HERENCIAS
+
+
+
+El Director Regional del Servicio de Impuestos Internos que suscribe certifica que, la
+asignación correspondiente a don (doña), RUT N° (xxxx) en la herencia quedada al
+fallecimiento de don (doña) (causante), RUT N° (xxxx), ocurrido con fecha
+(dd/mm/aaaa), según el Formulario 4423 N° (xxxxx), de fecha (dd/mm/aaaa), se
+encuentra exenta en parte del impuesto establecido en la Ley N° 16.271, sobre las
+Herencias, Asignaciones y Donaciones.
+
+En el caso de que la declaración contenida en el Formulario N° 4423 amplíe una
+declaración efectuada con anterioridad, la presente, dejará sin efecto las anteriores.
+
+
+Se otorga el presente certificado, a petición de don (doña) _____________________,
+RUT ____________________, con domicilio en _________________________, en
+su calidad de _________________.
+
+
+
+
+En ________________, a ______ de ___________ de ________
+
+
+
+
+                                .................................................
+                                .................................................
+                                 NOMBRE, FIRMA Y TIMBRE
+                                     DIRECTOR REGIONAL
+
+
+Para consultar e imprimir este certificado, debe ingresar a sii.cl, menú Servicios online, opción
+Herencias, y luego "Consulta certificado de herencias intestadas", identificándose con su RUT y Clave.
+
+Cabe indicar que la declaración mencionada en este certificado es realizada en base a la declaración
+del contribuyente, la cual podría ser objeto de fiscalización tributaria, dentro de los plazos legales
+establecidos, por lo que se sugiere mantener la documentación que la respalda.
+_______ DIRECCIÓN REGIONAL
+
+
+       CERTIFICADO DE PAGO TOTAL DEL IMPUESTO A LAS HERENCIAS
+
+
+
+El Director Regional del Servicio de Impuestos Internos que suscribe certifica que, los
+asignatarios de los bienes que comprende la herencia quedada al fallecimiento de don
+(doña) (causante), RUT N° (xxxx), ocurrida con fecha (dd/mm/aaaa), declaradas por
+don (doña) (solicitante), RUT N° xxxxxxxx, según el Formulario 4423 N° (xxxxx), de
+fecha (dd/mm/aaaa), han pagado el total del impuesto establecido en la Ley 16.271,
+sobre Herencias, Asignaciones y Donaciones.
+
+En el caso de que la declaración contenida en el Formulario N° 4423 amplíe una
+declaración efectuada con anterioridad, la presente, dejará sin efecto las anteriores.
+
+
+Se otorga el presente certificado, a petición de don (doña) _____________________,
+RUT ____________________, con domicilio en _________________________, en
+su calidad de ____________________________.
+
+
+En ________________, a ______ de ___________ de ________
+
+
+
+
+                                .................................................
+                                 ................................................
+                                 NOMBRE, FIRMA Y TIMBRE
+                                     DIRECTOR REGIONAL
+Para consultar e imprimir este certificado, debe ingresar a sii.cl, menú Servicios online, opción
+Herencias, y luego "Consulta certificado de herencias intestadas", identificándose con su RUT y Clave.
+
+Cabe indicar que la declaración mencionada en este certificado es realizada en base a la declaración
+del contribuyente, la cual podría ser objeto de fiscalización tributaria, dentro de los plazos legales
+establecidos, por lo que se sugiere mantener la documentación que la respalda.
+_______ DIRECCIÓN REGIONAL
+
+
+
+                                                     OFICIO ORDINARIO N°_________/
+
+                                                     ANT:      Su Formulario N° 4423 N° xxxxxx
+
+                                                     MAT.: Se refiere a su Declaración y Pago de Impuesto a
+                                                           las Herencias Intestadas.
+
+                                                     XXXXX, fecha
+
+
+DE: DIRECTOR REGIONAL
+
+A: SOLICITANTE (Nombre, RUT)
+
+
+
+De acuerdo a su solicitud de Declaración y Pago de Impuestos a las Herencias F4423
+N° XXXXX de fecha dd/mm/aaaa, en virtud de los antecedentes tenidos a la vista,
+relativos a la(s) asignación(s) que comprende(n) la herencia quedada al fallecimiento
+de don (doña) ____________________________________________, RUT
+___________________, y teniendo presente el tiempo transcurrido desde la fecha de
+la apertura de la sucesión, se constata que a la fecha se encuentra vencido el plazo
+establecido en el artículo 50 de la Ley N° 16.271 sobre Impuesto a las Herencias,
+Asignaciones y Donaciones y en el artículo 200 del Código Tributario, para que este
+Servicio pueda revisar, liquidar y girar el impuesto que grava las asignaciones
+declaradas.
+
+
+
+
+                                 ................................................
+                                 .................................................
+                                  NOMBRE, FIRMA Y TIMBRE
+                                      DIRECTOR REGIONAL
+
+
+Para consultar e imprimir este oficio debe ingresar a sii.cl, menú Servicios online, opción Herencias, y
+luego "Consulta certificado de herencias intestadas", identificándose con su RUT y Clave.

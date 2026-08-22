@@ -1,0 +1,169 @@
+# Circular N° 12 de 2017
+
+- Fuente: SII
+- Tipo: circular
+- Número: 12
+- Año: 2017
+- Fecha: 2017-02-17
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu12.pdf
+- Hash SHA-256: 06cd37e1a0d6f91aed4667b4935cc1748e8421dac025b578c26668fb025d6b64
+
+## Resumen
+
+10px;'> Fuente: Subdirección de Avaluaciones Circular N° 13 del 17 de Febrero del 2017 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley de la Renta. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y multas marzo 2017 Fuente: Subdirección de Fiscalización Circular N° 11 del 10 de Febrero del 2017 Tablas de Impuesto Único de segunda categoría para el mes de marzo del año…
+
+## Referencias detectadas
+
+- {"type":"circular","number":18,"year":2010}
+
+## Texto extraído
+
+SUBDIRECCIÓN EMISORA
+SUBDIRECCIÓN DE FISCALIZACIÓN                                                   CIRCULAR Nº12
+SISTEMA DE PUBLICACIONES ADMINISTRATIVAS                                        FECHA: 17 de febrero de 2017
+
+MATERIA:
+                                               REFERENCIA:
+TABLA DE CÁLCULOS DE REAJUSTES, INTERESES
+Y MULTAS MARZO 2017                     Nº Y NOMBRE DEL VOLUMEN
+                                                                                Arts. 53 y 97 Nºs. 2 y 11 D.L.
+                                                                                Nº 830, de 1974, sobre
+                                                                                Código Tributario.
+
+USO DE CIRCULARES:      Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente.
+                        Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos.
+
+
+
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de
+Cálculos para la aplicación del reajuste, interés y multa de los Arts. 53 y 97 Nºs. 2 y 11 del Código
+Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de MARZO DE 2017.
+
+   Mes de     % Reajuste         % Interés          % Multa          % Multa                     IPC (INE)
+    Vcto.       Art 53             Art 53           Art. 97         Art.97 N°11                  Base Anual                   U.T.M.
+                Inc.1°             Inc.3°             N°2         Inc.1°   Inc.2°                2013=100
+
+
+
+2011   ENE       23,3               112,5              30            30            60               93,2200                   37.643
+       FEB       23,1               111,0              30            30            60               93,4300                   37.681
+       MAR       22,8               109,5              30            30            60               94,1500                   37.794
+       ABR       22,5               108,0              30            30            60               94,4500                   37.870
+       MAY       21,6               106,5              30            30            60               94,8200                   38.173
+       JUN       21,2               105,0              30            30            60               94,9900                   38.288
+       JUL       20,7               103,5              30            30            60               95,1100                   38.441
+       AGO       20,5               102,0              30            30            60               95,2600                   38.518
+       SEP       20,4               100,5              30            30            60               95,7300                   38.557
+       OCT       20,2                99,0              30            30            60               96,2000                   38.634
+       NOV       19,6                97,5              30            30            60               96,5000                   38.827
+       DIC       19,0                96,0              30            30            60               97,0900                   39.021
+
+2012   ENE       18,6                94,5              30            30            60               97,1800                   39.138
+       FEB       17,9                93,0              30            30            60               97,5500                   39.373
+       MAR       17,8                91,5              30            30            60               97,7100                   39.412
+       ABR       17,4                90,0              30            30            60               97,7600                   39.570
+       MAY       17,2                88,5              30            30            60               97,7900                   39.649
+       JUN       17,1                87,0              30            30            60               97,5000                   39.689
+       JUL       17,1                85,5              30            30            60               97,4900                   39.689
+       AGO       17,4                84,0              30            30            60               97,7100                   39.570
+       SEP       17,4                82,5              30            30            60               98,4600                   39.570
+       OCT       17,2                81,0              30            30            60               99,0100                   39.649
+       NOV       16,3                79,5              30            30            60               98,5600                   39.966
+       DIC       15,6                78,0              30            30            60               98,5300                   40.206
+
+2013   ENE       16,2                76,5              30            30            60              98,7100                    40.005
+       FEB       16,2                75,0              30            30            60              98,8300                    40.005
+       MAR       16,0                73,5              30            30            60              99,2100                    40.085
+       ABR       15,8                72,0              30            30            60              98,7300                    40.125
+       MAY       15,4                70,5              30            30            60              98,7200                    40.286
+       JUN       16,0                69,0              30            30            60              99,3500                    40.085
+       JUL       16,0                67,5              30            30            60              99,6100                    40.085
+       AGO       15,2                66,0              30            30            60              99,8500                    40.326
+       SEP       14,9                64,5              30            30            60             100,3800                    40.447
+       OCT       14,7                63,0              30            30            60             100,5300                    40.528
+       NOV       14,1                61,5              30            30            60             100,9000                    40.731
+       DIC       13,9                60,0              30            30            60             101,5100                    40.772
+
+2014   ENE       13,5                58,5              30            30            60             101,6900                    40.935
+       FEB       12,8                57,0              30            30            60             102,1800                    41.181
+       MAR       12,6                55,5              30            30            60             103,0400                    41.263
+       ABR       12,0                54,0              30            30            60             103,6800                    41.469
+       MAY       11,1                52,5              30            30            60             104,0300                    41.801
+       JUN       10,4                51,0              30            30            60             104,0800                    42.052
+       JUL       10,1                49,5              30            30            60             104,3200                    42.178
+       AGO       10,0                48,0              30            30            60             104,6600                    42.220
+       SEP        9,7                46,5              30            30            60             105,5400                    42.304
+       OCT        9,4                45,0              30            30            60             106,6400                    42.431
+       NOV        8,5                43,5              30            30            60             106,6600                    42.770
+       DIC        7,4                42,0              30            30            60             106,2200                    43.198
+
+
+
+                                                                    1
+         Mes de   % Reajuste   % Interés        % Multa      % Multa         IPC (INE)
+          Vcto.      Art 53      Art 53         Art. 97     Art.97 N°11      Base Anual           U.T.M.
+                     Inc.1°      Inc.3°           N°2     Inc.1°   Inc.2°    2013=100
+
+
+  2015    ENE       7,3           40,5           30        30       60        106,3000            43.198
+          FEB       7,8           39,0           30        30       60        106,6800            43.025
+          MAR       7,7           37,5           30        30       60        107,3500            43.068
+          ABR       7,3           36,0           30        30       60        107,9700            43.240
+          MAY       6,7           34,5           30        30       60        108,1600            43.499
+          JUN       6,0           33,0           30        30       60        108,6800            43.760
+          JUL       5,9           31,5           30        30       60        109,1400            43.848
+          AGO       5,3           30,0           30        30       58        109,8800            44.067
+          SEP       4,9           28,5           30        30       56        110,4400            44.243
+          OCT       4,2           27,0           30        30       54        110,8900            44.553
+          NOV       3,7           25,5           30        30       52        110,8600            44.776
+          DIC       3,2           24,0           30        30       50        110,8700            44.955
+
+  2016    ENE       3,3           22,5           30        30       48        111,3900            44.955
+          FEB       3,3           21,0           28        30       46        111,7000            44.955
+          MAR       2,8           19,5           26        30       44        112,1300            45.180
+          ABR       2,5           18,0           24        30       42        112,4900            45.316
+          MAY       2,1           16,5           22        30       40        112,7500            45.497
+          JUN       1,8           15,0           20        28       38        113,2500            45.633
+          JUL       1,5           13,5           18        26       36        113,5300            45.724
+          AGO       1,1           12,0           16        24       34        113,5800            45.907
+          SEP       0,8           10,5           14        22       32        113,8600            45.999
+          OCT       0,8            9,0           12        20       30        114,0500            45.999
+          NOV       0,6            7,5           10        18       28        114,1100            46.091
+          DIC       0,4            6,0           10        16       26        113,8800            46.183
+
+  2017    ENE       0,3            4,5           10        14       24        114,4900            46.229
+          FEB       0,5            3,0           10        12       22                            46.137
+          MAR       0,0            1,5           10        10       20                            46.368
+
+
+
+
+NOTAS:
+1. Reajuste Art.72 de la Ley de Impuesto a la Renta.
+    AÑO           2004 2005     2006     2007    2008 2009 2010 2011 2012 2013 2014 2015 2016
+     % :           0,0 0,0       0,2      0,7     1,7  0,0  0,6  1,4  1,3 0,7 2,1 0,6     1,1
+2. En las columnas “Interés” y “Multas”, para impuestos con fecha de vencimiento al último día del mes, debe
+   aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
+3. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variación
+   experimentada por el I.P.C. entregada por el I.N.E. en su publicación oficial y cuyos porcentajes se han
+   determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322,
+   del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 29 de enero de
+   2010 y contenida en la Circular N° 18, de 2010, del SII.
+   Se hace presente que a contar del Índice de Enero de 2014 rige el IPC, base anual 2013=100, y, en
+   consecuencia, en la columna “IPC (INE) Base Anual 2013=100”, se muestra la serie empalmada del IPC
+   con dicha base, publicada por el INE.
+   Saluda a Uds.,
+
+
+
+
+                                                           VÍCTOR VILLALÓN MÉNDEZ
+                                                                DIRECTOR (S)
+DISTRIBUCIÓN:
+ Internet
+
+
+
+
+                                                           2

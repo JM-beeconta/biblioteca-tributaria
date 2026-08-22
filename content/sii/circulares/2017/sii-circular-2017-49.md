@@ -1,0 +1,103 @@
+# Circular N° 49 de 2017
+
+- Fuente: SII
+- Tipo: circular
+- Número: 49
+- Año: 2017
+- Fecha: 2017-10-06
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2017/circu49.pdf
+- Hash SHA-256: c08335d28b10aa86981ef3ff00b10aae994604bfca256e7b0561224f27b15270
+
+## Resumen
+
+style='margin-bottom:0px;'> Circular N° 50 del 06 de Octubre del 2017 Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a contar del 1° de noviembre de 2016. Fuente: Impuestos Indirectos Sustituye el N° 1 del Capítulo II de la Circular N° 7, de 2017, que Instruye sobre procedimiento a seguir ante presentaciones de revisiones y/o modificación in…
+
+## Referencias detectadas
+
+- {"type":"circular","number":7,"year":2017}
+
+## Texto extraído
+
+DEPARTAMENTO EMISOR:
+SUBDIRECCIÓN AVALUACIONES                                   CIRCULAR Nº 49
+OFICINA DE NORMAS Y CASOS ESPECIALES
+                                                            FECHA: 22 SEPTIEMBRE 2017
+SISTEMA DE PUBLICACIONES ADMINISTRATIVAS
+MATERIA:                                                    REFERENCIA LEGAL:
+
+Sustituye el N° 1 del Capítulo II de la Circular N° 7, de   Circular N° 7, de 2107.
+2017, que Instruye sobre procedimiento a seguir ante
+presentaciones de revisiones y/o modificación
+individual de avalúos de los bienes raíces y/o de
+eliminación de la sobretasa del impuesto territorial a
+los sitios no edificados, propiedades abandonadas y
+pozos lastreros, en el área urbana, así como respecto
+de procedimientos iniciados de oficio.
+
+    1. Por la presente Circular se sustituye el N°1 del Capítulo II de la Circular N° 7,
+       de 2017, que instruye sobre procedimiento a seguir ante presentaciones de
+       revisiones y/o modificación individual de avalúos de los bienes raíces y/o de
+       eliminación de la sobretasa del impuesto territorial a los sitios no edificados,
+       propiedades abandonadas y pozos lastreros, en el área urbana, así como
+       respecto de procedimientos iniciados de oficio, por el siguiente:
+
+“II.-   Procedimiento
+
+        1. En relación con los procedimientos administrativos de revisión o
+           modificación individual del avalúo y,o de la aplicación de la sobretasa
+           regulada en el artículo 8 de la Ley N° 17.235, sobre Impuesto Territorial,
+           el Servicio de Impuestos Internos pondrá a disposición, de cada
+           Municipalidad, semanalmente, las solicitudes recibidas durante un
+           período móvil de veintiséis semanas (equivalente aproximadamente a
+           seis (6) meses), para que puedan ser descargadas desde el sitio web del
+           SII, a través de las aplicaciones para entidades externas, apartado
+           Municipalidades, opción “Descargar Solicitudes de Modificación
+           Catastral de Bienes Raíces (últimas 26 semanas)”, a fin de que la
+           entidad municipal tome conocimiento de las presentaciones efectuadas
+           ante el Servicio, y si lo estima conveniente, emita un informe fundado y
+           efectúe los planteamientos que estime pertinente. El Alcalde deberá
+           nombrar a un representante electrónico para efectos de descargar las
+           solicitudes Administrativas de Bienes Raíces, de su comuna, a través del
+           menú Servicio Online, opción representante electrónico.
+
+            El informe fundado que la Municipalidad estime necesario emitir, deberá
+            dirigirse al Jefe del Departamento de Avaluaciones o Jefe de la Unidad
+            del Servicio, que tenga jurisdicción en el territorio de la respectiva
+            comuna, debiendo agregarse como antecedente para resolver la solicitud
+            de que se trata. En caso que la solicitud administrativa se haya resuelto
+            con anterioridad a la recepción del informe, éste se tramitará como una
+            nueva solicitud, ajustándose a las instrucciones contenidas en la
+            Resolución Ex SII. N° 46, de 2017, de este Servicio.
+
+            En los casos de procedimientos iniciados de oficio, sobre revisión o
+            modificación individual de avalúo o de la aplicación de la sobretasa a los
+            sitios no edificados, propiedades abandonadas y pozos lastreros, si la
+            Dirección Regional no cuenta con los antecedentes municipales
+            necesarios para resolver la acción fiscalizadora, los Directores
+            Regionales han delegado en los Jefes de Avaluaciones y Jefes de
+            Unidades, de sus respectivas jurisdicciones, de acuerdo a la Resolución
+             Exenta SII N° 36, del 2012, la facultad para requerir información a las
+             Municipalidades conforme a lo previsto en los artículos 83 y 87 del Código
+             Tributario, para lo cual se solicitará a los alcaldes, mediante oficio, un
+             informe fundado con los documentos de respaldo, con un plazo de quince
+             días hábiles para responder, en caso contrario, se resolverá con los
+             antecedentes disponibles en el Servicio.”
+
+2.-      La presente Circular entrará en vigencia a contar de la fecha de su
+         publicación en extracto en el Diario Oficial.
+
+
+
+
+                                      FERNANDO BARRAZA LUENGO
+                                             DIRECTOR
+
+
+
+
+       Distribución:
+      - Al boletín
+      - Internet
+      - Oficina de Gestión Normativa
+      - Al Diario Oficial en extracto

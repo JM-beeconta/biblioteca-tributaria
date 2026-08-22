@@ -1,0 +1,192 @@
+# Oficio N° 1197 de 2020
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1197
+- Año: 2020
+- Fecha: 2020-06-24
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1197-24%2F06%2F2020.pdf&extension=pdf&acc=download&id=8894b425-66ec-4308-9de4-490a0bc314cf&mediaType=application%2Fpdf
+- Hash SHA-256: e581cd77611b28341644e0be000bd74779ae14248e2b5544ed520578f88dfb7d
+
+## Resumen
+
+Tratamiento tributario de comisiones cobradas en operaciones con tarjetas de prepago virtual.
+
+## Referencias detectadas
+
+- {"type":"circular","number":31,"year":1981}
+- {"type":"circular","number":129,"year":1977}
+- {"type":"circular","number":46,"year":1979}
+- {"type":"circular","number":39,"year":2000}
+- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"articulo","law":"LIVS","article":"52"}
+- {"type":"articulo","law":"LIVS","article":"20 d"}
+
+## Texto extraído
+
+1
+
+
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2, N°2 – LEY SOBRE IMPUESTO A
+LA RENTA, ART. 20, N°3 – LEY N° 20.950, ART. 2 – RES. EXENTAS N° 7, DE 2005 Y N°
+                  6080, DE 1999. (ORD. N° 1197, DE 24.06.2020)
+
+
+Tratamiento     tributario    de    comisiones cobradas en operaciones con tarjetas de prepago
+virtual.
+
+
+Se ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario en materia de
+IVA respecto de las comisiones que una empresa cobrará en operaciones por medio de tarjetas de
+prepago virtual.
+
+I      ANTECEDENTES
+
+De acuerdo a su presentación, una empresa, emisor no bancario de tarjetas con provisión de fondos,
+se encuentra en un proceso de autorización y plan de pruebas ante la Superintendencia de Bancos e
+Instituciones Financieras, hoy Comisión para el Mercado Financiero (CMF), con el objeto de
+comercializar y prestar el servicio de una tarjeta de prepago virtual, sin emisión de plástico, para los
+usuarios, mediante la cual éstos podrán realizar operaciones de compras en moneda nacional dentro
+de Chile y al extranjero. La empresa, cobrará una comisión, la que dependerá del tipo de
+transacción.
+
+Al respecto, solicita aclarar si las instituciones emisores no bancarios de tarjetas con provisión de
+fondos están afectas a IVA por las operaciones descritas y, en caso de estarlo, si están exceptuadas
+de emitir factura por las comisiones cobradas por las tarjetas de prepago virtuales que
+administran cuando el monto neto de la operación, sin considerar el IVA, no exceda de una Unidad
+Tributaria Mensual.
+
+Tras citar las normas legales aplicables, la Circular N° 31 de 1981 y el Oficio N° 3.266 de 2001, de
+este Servicio, termina señalando que cualquier comisión que cobren los bancos e instituciones
+financieras a sus clientes por los servicios prestados, y que no sean de aquellas consideradas
+como parte integrante de los intereses de una operación de crédito de dinero, se encontrarán
+gravadas con IVA por corresponder a la remuneración de una prestación proveniente del ejercicio
+de una actividad comprendida en el N° 3 del artículo 20 de la ley sobre Impuesto a la Renta (LIR)
+y, por lo tanto, deberán ser documentadas en conformidad a las instrucciones impartidas por este
+Servicio con respecto a los bancos e instituciones financieras.
+
+Asimismo, considerando que la empresa, si bien es un emisor no bancario de tarjetas con provisión
+de fondos, se rige por las normas de la CMF y para sus operaciones debe cumplir con todas y cada una
+de las exigencias dispuestas para las instituciones bancarias, solicita confirmar que le es aplicable el
+criterio establecido en la Circular N° 129 de 1977, según el cual las instituciones bancarias deberán
+emitir facturas por todas las operaciones afectas a IVA que efectúen con clientes que sean
+vendedores, importadores o prestadores de servicios, salvo respecto de los servicios gravados
+prestados por el banco a estos clientes y cuyo monto neto de la operación, sin considerar el IVA, no
+exceda de una Unidad Tributaria Mensual, ya que en este caso podrán emitir en su reemplazo los
+documentos de carácter interno que habitualmente emiten a sus clientes, bajo las condiciones y
+requisitos señalados en la citada Circular.
+
+II    ANÁLISIS
+
+El artículo 2°, N° 2 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) grava con IVA los
+“servicios “, definidos como la acción o prestación que una persona realiza para otra y por la cual
+percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga
+del ejercicio de las actividades comprendidas en los números 3 o 4 del artículo 20 de la Ley sobre
+Impuesto a la Renta.
+
+Dentro de las actividades comprendidas en el artículo 20, N° 3, de la LIR, se encuentran las
+desarrolladas por los bancos y aquellas realizadas por las empresas financieras y otras de actividad
+análoga.
+
+Al tenor de la normativa señalada precedentemente, los servicios prestados por los bancos,
+instituciones financieras y otras de actividad análoga a estas últimas, en general se encuentran
+gravados con IVA, en cuanto corresponden a prestaciones provenientes de una actividad
+comprendida en el N° 3 del artículo 20 de la LIR.
+                                                  2
+En relación al concepto de “empresas financieras “, contenido en el N° 3 del artículo 20, de la LIR,
+cabe señalar que la Superintendencia de Bancos e Instituciones Financieras – en la actualidad
+Comisión de Mercado Financiero (CMF) – es el organismo competente para determinar el alcance
+de dicho término y para calificar si una determinada entidad goza de tal calidad o no.
+
+Conforme a lo anterior, de acuerdo a lo indicado en Carta Circular, Bancos N° 46.0
+Financieras N° 28 de 1979, dicha Superintendencia informó a este Servicio que tal expresión es
+genérica y comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder
+créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último
+cuando expresamente esté facultada por la ley para ello; y señala además, que la legislación
+financiera ha evolucionado a causa del cambio también producido en el “mercado de capitales” que
+trae consigo una serie de instituciones nuevas, como las llamadas sociedades financieras, las
+cooperativas de ahorro y crédito, etc., todas las cuales se comprenden en la noción de instituciones
+financieras junto a los bancos.
+
+Ahora bien, atendido lo dispuesto en el artículo 2° de la Ley N° 20.950, que autoriza la emisión y
+operación de medios de pago con provisión de fondo por entidades no bancarias, en relación con el
+artículo 2° del Decreto con Fuerza de Ley N° 3 de 1997 del Ministerio de Hacienda, que fija texto
+refundido, sistematizado y concordado de la Ley General de Bancos, y el artículo 3° de la Ley N°
+21.000, los emisores no bancarios de tarjetas de pago con provisión de fondos quedan sujetos en la
+actualidad a la fiscalización de la CMF.
+
+Por otra parte, la regulación de las tarjetas de pago con provisión de fondos se encuentra en el
+Capítulo III.J.1.3 del Compendio de Normas Financieras del Banco Central de Chile, que define
+tarjeta de pago con provisión de fondos como aquella tarjeta que permita a su titular o portador
+disponer de recursos depositados en una cuenta de provisión de fondos, abierta por el emisor de
+dicho medio de pago, para la adquisición de bienes, el pago de servicios o la extinción de otras
+obligaciones de pago en las entidades afiliadas al respectivo sistema. Dichas tarjetas pueden
+emitirse en forma nominativa asociada a la identidad de un titular específico o al portador. Las
+tarjetas nominativas, también podrán empelarse para realizar giros por caja. La provisión de fondos
+estará vinculada, si correspondiere, en forma nominativa con la identidad del titular de la tarjeta.
+
+En las citadas las instrucciones se deja claramente establecido que las tarjetas de pago con provisión
+de fondos, como asimismo los contratos que las regulen, no podrán considerar modalidades de
+créditos o sobregiros asociados a las mismas, cualquieras que sea su forma de emisión.
+
+El emisor debe responder en todo momento por los recursos registrados en la citada cuenta y tiene la
+obligación de restituir los fondos disponibles que permanezcan acreditados, en caso que su titular o
+portador ejerza el derecho legal a requerir la devolución de los fondos provisionados, sin reajustes ni
+intereses.
+
+Sobre el concepto de “institución financiera” la Superintendencia de Bancos e Instituciones
+Financieras, (hoy CMF) mediante Carta Circular N° 46 de 1979, ha señalado que es una expresión
+genérica que comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder
+créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último
+cuando expresamente está facultada por la ley para ello. De este modo, la entidad consultante, en
+tanto emisor de tarjetas de pago con provisión de fondos, no se dedica a prestar dinero o a conceder
+crédito, no puede ser considerada como una empresa financiera, por lo que las comisiones que cobre
+por el uso de las tarjetas de prepago virtual que administra no se encontrarán gravadas con IVA, por
+no corresponder al ejercicio de una actividad comprendida en el N° 3 del artículo 20 de la LIR.
+
+Por otra parte, en relación con la emisión de documentos tributarios, se informa que la Resolución
+Ex. N° 7 de 2005, dejó sin efecto lo establecido en la Circular N° 129 de 1977, la Resolución Ex. N°
+6080 de 1999, la Circular N° 39 del 2000 y la Resolución Ex. N° 1110 de 1978, sólo en cuanto
+eximen a los Bancos e Instituciones Financieras de la obligación de emitir facturas por operaciones
+de un monto neto inferior a 1 (una) UTM, de facturas de ventas y servicio no afectos o exentos de
+IVA, de boletas de ventas y servicios no afectos o exentos de IVA y de boletas.
+
+Por lo tanto, teniendo presente lo dispuesto en el artículo 52 de la LIVS, en la Resolución Ex. N°
+6080 de 1999, modificada por Resoluciones Ex. N° 6444 y N° 8377, ambas de 1999 y en la Circular
+N° 39 de 2000, se deberán otorgar por todas estas operaciones, cualquiera sea su monto, documentos
+no afectos o exentos de IVA.
+                                                  3
+III   CONCLUSIÓN
+
+De acuerdo con lo señalado precedentemente, las comisiones por el uso de tarjetas de prepago
+virtual, no se encuentran gravadas con IVA, por cuanto en su emisión la entidad consultante no
+actúa como una empresa financiera y su actividad, por ende, no se encuentra comprendida en el N°
+3 del artículo 20 de la LIR, en concordancia con el N° 2 del artículo 2° de la LIVS.
+
+En vista de lo anterior, y de conformidad con la Resolución Ex. N° 6080 de 1999, la empresa por las
+comisiones que cobre por el uso de las tarjetas de prepago virtual deberá emitir facturas no afectas o
+exentas de IVA, en aquellas operaciones que realice con vendedores, prestadores de servicios o
+importadores y, boletas no afectas o exentas de IVA, en los demás casos, sin atender al monto de la
+operación.
+
+Lo anterior por cuanto la Resolución Ex. N° 07 de 2005, vigente desde el 1° de junio de 2005,
+dejó sin efecto lo establecido en la Circular N° 129 de 1977, la Resolución Ex. N° 6080 de 1999,
+la Circular N° 39 del 2000 y Resolución Ex. N° 1110 de 1978, sólo en cuanto eximen a los Bancos e
+Instituciones Financieras de la obligación de emitir documentos por operaciones de un monto neto
+inferior a 1 (una) UTM.
+
+
+
+
+                               FERNANDO BARRAZA LUENGO
+                                      DIRECTOR
+
+
+
+
+                                   Oficio N° 1197, de 24.06.2020
+                                     Subdirección Normativa
+                                   Dpto. de Impuestos Indirectos

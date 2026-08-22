@@ -1,0 +1,79 @@
+# Circular N° 28 de 2018
+
+- Fuente: SII
+- Tipo: circular
+- Número: 28
+- Año: 2018
+- Fecha: 2018-05-18
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2018/circu28.pdf
+- Hash SHA-256: ab166bd5bc5ccad1242d281e1ba39d9cb6fe1a94f45c7062017f22e29f704d2b
+
+## Resumen
+
+ubdirección de Fiscalización Circular N° 29 del 18 de Mayo del 2018 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2018 Fuente: Subdirección de Fiscalización Extiende a las cooperativas sometidas a la fiscalización y control de la Superintendencia de Bancos e Instituciones Financieras, la liberación de información de que cuentan las sociedades anónimas abiertas, en los términos estable…
+
+## Referencias detectadas
+
+- {"type":"circular","number":17,"year":1995}
+- {"type":"circular","number":28,"year":2017}
+- {"type":"circular","number":50,"year":2003}
+- {"type":"articulo","law":"CT","article":"68"}
+
+## Texto extraído
+
+SUBDIRECCIÓN EMISORA                                       CIRCULAR N° 28
+ ASISTENCIA AL CONTRIBUYENTE
+ DEPARTAMENTO DE OPERACIONES
+ SISTEMA DE PUBLICACIONES ADMINISTRATIVAS                   FECHA: 17 DE MAYO 2018
+
+ MATERIA                                                    REFERENCIA
+                                                            Artículo 68 del Código Tributario, artículos
+ EXTIENDE A LAS COOPERATIVAS SOMETIDAS A                    14 y 54 de la Ley sobre Impuesto a la
+ LA FISCALIZACIÓN Y CONTROL DE LA                           Renta; Leyes N°s. 20.780 y 20.899
+ SUPERINTENDENCIA       DE      BANCOS      E
+ INSTITUCIONES FINANCIERAS, LA LIBERACIÓN DE
+ INFORMACIÓN     DE   QUE     CUENTAN     LAS
+ SOCIEDADES ANÓNIMAS ABIERTAS, EN LOS
+ TÉRMINOS ESTABLECIDOS EN LA CIRCULAR N° 17
+ DE 1995. REEMPLAZA PÁRRAFO QUE INDICA, DE
+ LA CIRCULAR N° 17, DE 10.05.1995, MODIFICADA
+ POR LAS CIRCULARES N° 50, DEL 2003 Y 28, DEL
+ 2017.
+
+
+
+
+La presente Circular tiene por objeto extender, a las Cooperativas sometidas a la fiscalización y control
+de la Superintendencia de Bancos e Instituciones Financieras, la liberación de la obligación de informar
+de que disponen las Sociedades Anónimas Abiertas, respecto del ingreso, retiro o cambios de sus
+accionistas, a partir de la entrada en vigencia de la Circular N° 28, de 2017, publicada en el Diario
+Oficial el 02.06.2017 y que modificó, a partir de esa fecha a la Circular N° 17, de 1995.
+
+
+Para tales efectos, se reemplaza el segundo párrafo del punto 2.3.7.2. de la mencionada instrucción
+(Circular N° 17, de 1995, modificada por la Circular N° 50, de 2003 y Circular N°28, de 2017), por el
+siguiente:
+
+“Las Sociedades Anónimas Abiertas y las Cooperativas sometidas a la fiscalización y control de la
+Superintendencia de Bancos e Instituciones Financieras, no deben identificar a sus accionistas o
+cooperados ni el capital aportado por cada uno, bastando señalar el capital inicial total de la sociedad
+o cooperativa (incluye capital enterado y por enterar) y sus modificaciones”.
+
+
+Saluda a Uds.,
+
+
+
+
+                                                     VÍCTOR VILLALÓN MÉNDEZ
+                                                             DIRECTOR (S)
+
+
+
+
+VVS/MDA/MPG/SOB
+DISTRIBUCIÓN
+- Al Boletín
+- A Internet
+- Diario Oficial, en extracto

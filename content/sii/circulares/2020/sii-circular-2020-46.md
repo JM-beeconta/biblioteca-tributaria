@@ -1,0 +1,102 @@
+# Circular N° 46 de 2020
+
+- Fuente: SII
+- Tipo: circular
+- Número: 46
+- Año: 2020
+- Fecha: 2020-07-09
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2020/circu46.pdf
+- Hash SHA-256: f106b45306c2a35e60e26c32d3bad4c764f5ac2c356e5c1b921c3327b69f705c
+
+## Resumen
+
+n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 47 del 09 de Julio del 2020 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2020 y el 9 de agosto de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa. Circular N° 45 del 07 de…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"41 bis"}
+
+## Texto extraído
+
+DEPARTAMENTO EMISOR:                              Oficina de Gestión          CIRCULAR N° 46
+Normativa                                                                     083-2020 OGN
+SISTEMA            DE             PUBLICACIONES
+                                                    FECHA: 09 DE JULIO DE 2020
+ADMINISTRATIVAS
+MATERIA: Operaciones de crédito de dinero. Valor REF. LEGAL: Acuerdo 05-07-900105 del Banco
+de la Unidad de Fomento para los días Central de Chile, publicado en el Diario Oficial de 8 de
+comprendidos entre el 10 de julio de 2020 y el 9 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a
+agosto de 2020, ambos inclusive.                    la Renta.
+
+Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de
+conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero
+de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido
+entre los días 10 de julio de 2020 y 9 de agosto de 2020, ambos inclusive, el que se indica en forma destacada
+en negrita.
+
+Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de
+julio de 2020
+
+                                                                            AÑO 2020
+DÍA   ENE                  FEB        MAR         ABR         MAY          JUN       JUL        AGO        SEP   OCT   NOV   DIC
+  1 28.310,86            28.339,17   28.469,54   28.601,15   28.693,59   28.716,52 28.695,46   28.666,51
+  2 28.311,77            28.340,08   28.475,41   28.604,83   28.696,46   28.716,52 28.694,50   28.665,59
+  3 28.312,68            28.341,00   28.481,29   28.608,51   28.699,32   28.716,52 28.693,54   28.664,66
+  4 28.313,60            28.341,91   28.487,16   28.612,20   28.702,19   28.716,52 28.692,59   28.663,74
+  5 28.314,51            28.342,82   28.493,04   28.615,88   28.705,05   28.716,52 28.691,63   28.662,81
+  6 28.315,42            28.343,74   28.498,92   28.619,57   28.707,92   28.716,52 28.690,67   28.661,89
+  7 28.316,33            28.344,65   28.504,80   28.623,25   28.710,79   28.716,52 28.689,72   28.660,96
+  8 28.317,25            28.345,56   28.510,68   28.626,94   28.713,65   28.716,52 28.688,76   28.660,04
+  9 28.318,16            28.346,48   28.516,56   28.630,63   28.716,52   28.716,52 28.687,80   28.659,11
+ 10 28.319,07            28.352,33   28.520,23   28.633,49   28.716,52   28.715,56 28.686,87
+ 11 28.319,99            28.358,18   28.523,91   28.636,35   28.716,52   28.714,60 28.685,95
+ 12 28.320,90            28.364,03   28.527,58   28.639,21   28.716,52   28.713,65 28.685,02
+ 13 28.321,81            28.369,88   28.531,25   28.642,07   28.716,52   28.712,69 28.684,10
+ 14 28.322,73            28.375,73   28.534,93   28.644,93   28.716,52   28.711,73 28.683,17
+ 15 28.323,64            28.381,59   28.538,60   28.647,79   28.716,52   28.710,77 28.682,25
+ 16 28.324,55            28.387,44   28.542,28   28.650,65   28.716,52   28.709,82 28.681,32
+ 17 28.325,47            28.393,30   28.545,95   28.653,51   28.716,52   28.708,86 28.680,39
+ 18 28.326,38            28.399,15   28.549,63   28.656,37   28.716,52   28.707,90 28.679,47
+ 19 28.327,29            29.405,01   28.553,31   28.659,23   28.716,52   28.706,94 28.678,54
+ 20 28.328,21            28.410,87   28.556,98   28.662,09   28.716,52   28.705,99 28.677,62
+ 21 28.329,12            28.416,73   28.560,66   28.664,96   28.716,52   28.705,03 28.676,69
+ 22 28.330,03            28.422,60   28.564,34   28.667,82   28.716,52   28.704,07 28.675,77
+ 23 28.330,95            28.428,46   28.568,02   28.670,68   28.716,52   28.703,12 28.674,84
+ 24 28.331,86            28.434,32   28.571,70   28.673,54   28.716,52   28.702,16 28.673,92
+ 25 28.332,77            28.440,19   28.575,38   28.676,41   28.716,52   28.701,20 28.672,99
+ 26 28.333,69            28.446,06   28.579,06   28.679,27   28.716,52   28.700,24 28.672,06
+ 27 28.334,60            28.451,93   28.582,74   28.682,13   28.716,52   28.699,29 28.671,14
+ 28 28.335,51            28.457,80   28.586,42   28.685,00   28.716,52   28.698,33 28.670,21
+ 29 28.336,43            28.463,67   28.590,10   28.687,86   28.716,52   28.697,37 28.669,29
+ 30 28.337,34                        28.593,78   28.690,73   28.716,52   28.696,42 28.668,36
+ 31 28.338,25                        28.597,46               28.716,52             28.667,44
+
+Saluda a Ud.,
+
+
+                                                                                  Firmado
+                                                              Fernando       digitalmente por
+                                                              Javier Barraza Fernando  Javier
+                                                                             Barraza Luengo
+                                                              Luengo         Fecha: 2020.07.09
+                                                                                  13:54:00 -04'00'
+
+                                                                         DIRECTOR
+
+
+ Simon Firmado
+         digitalmente por
+
+ Ramirez Simon
+         Guerra
+                Ramirez
+
+         Fecha: 2020.07.09
+ Guerra  13:05:50 -04'00'
+
+
+
+SRG/PAO/LOF/mvv
+DISTRIBUCIÓN:
+- Internet

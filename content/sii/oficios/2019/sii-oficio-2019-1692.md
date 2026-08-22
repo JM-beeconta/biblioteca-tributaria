@@ -1,0 +1,123 @@
+# Oficio N° 1692 de 2019
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1692
+- Año: 2019
+- Fecha: 2019-06-21
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1692-21%2F06%2F2019.pdf&extension=pdf&acc=download&id=434f3d7c-7a2a-4e80-9ef1-290cbe7b82e7&mediaType=application%2Fpdf
+- Hash SHA-256: 908926aa3024903b65bd67263f3b4a1430df7995c47d2e797003f548fd01dfd3
+
+## Resumen
+
+Solicita confirmar el alcance de los criterios expuestos en Oficio N° 1707 de 2016.
+
+## Referencias detectadas
+
+- {"type":"oficio","number":1707,"year":2016}
+- {"type":"articulo","law":"LIVS","article":"13"}
+- {"type":"articulo","law":"LIVS","article":"12"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 12, LETRA E), N° 2, ART. 13, N° 3,
+                 ORD. 1707 DE 2016 (ORD. N° 1692, DE 21-06-2019)
+
+
+
+
+Solicita confirmar el alcance de los criterios expuestos en Oficio N° 1707 de 2016.
+
+
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el alcance de los criterios expuestos
+en Oficio N° 1707 de 2016.
+I.-     ANTECEDENTES:
+Señala que la empresa "X", es una entidad domiciliada en Chile para efectos tributarios, dedicada,
+entre otras actividades, a la venta de paquetes de turismo, hospedaje en hoteles y pasajes de avión
+a través de internet, así como a la intermediación entre pasajeros y los distintos prestadores de
+servicios relacionados a viajes.
+En este contexto, expone que la compañía se encuentra evaluando el desarrollo de operaciones
+que involucran la compra de pasajes aéreos, tanto internacionales como domésticos, a las distintas
+aerolíneas que operan en nuestro país, para luego revenderlos. Los pasajes adquiridos mediante
+esta modalidad se ofrecerán exclusivamente en paquetes turísticos.
+Con respecto a la venta de pasajes aéreos internacionales, hace presente que el artículo 12°, letra
+E), N° 2 de la Ley de IVA, establece que estarán exentos del mencionado impuesto los pasajes
+internacionales, encontrándose por tanto exenta la reventa de los mismos que la empresa realice a
+terceros.
+Por su parte, y en relación a la venta de pasajes aéreos domésticos o nacionales, señala que el
+artículo 13°, N° 3 de la Ley de IVA, establece una exención, entre otras, a las empresas aéreas,
+sólo respecto de los ingresos provenientes del transporte de pasajeros. Atendido que X no es una
+"empresa de transporte aéreo", sino que en el contexto de estas operaciones adquiere y revende
+pasajes de avión, en principio habría que concluir que se encuentra gravada con IVA la reventa
+que la empresa realice de pasajes domésticos (no internaciones) a terceros.
+Sin perjuicio de lo anterior, el Oficio N° 1707, de 15 de junio de 2016, cuyo criterio pretenden se
+confirme, habría establecido que esta reventa sí gozaría de exención, en cuanto indica que el fin
+de la norma de exenciones en la materia es "no encarecer el costo del transporte" para los
+consumidores finales, que son quienes en definitiva soportan económicamente el IVA.
+En atención a lo expuesto, solicita confirmar que la reventa de los pasajes internacionales está
+exenta, de acuerdo el artículo 12°, letra E), N° 2 de la Ley de IVA, y que la reventa de pasajes
+aéreos nacionales estaría exenta dado que, de acuerdo a la interpretación efectuada por el propio
+Servicio de Impuestos Internos y lo señalado por el mencionado Oficio N° 1707 de 2016, el
+concepto de empresa de transporte para estos fines es amplio y que la exención que establece la
+Ley está relacionada con la actividad de transporte con el fin de no encarecer el costo de los
+pasajes, al tratarse el IVA de un impuesto de traslación o recargo.
+
+
+II.- ANÁLISIS:
+En relación a la venta de pasajes, este Servicio se ha pronunciado1 señalando que la mera venta de
+pasajes, efectuada por una empresa distinta de aquella que efectuará el transporte, no constituye,
+de acuerdo con lo establecido en el artículo 2° del Decreto Ley N° 825, de 1974 un hecho gravado
+con el Impuesto al Valor Agregado, ni como venta (por no recaer en un bien corporal, sino en uno
+incorporal como es el derecho a ser transportado) ni como servicio (toda vez que no provendría
+del ejercicio de ninguna de las actividades comprendidas en los números 3 o 4, del artículo 20° de
+la Ley de Impuesto a la Renta).
+
+
+
+
+1
+    Oficio Ord. N° 529 de 1998.
+                                                           2
+
+
+
+
+Por otro lado, en cuanto dicha venta se efectúe por cuenta y riesgo de un tercero, este Servicio se
+ha pronunciado en el sentido que la empresa respectiva actuaría como mera intermediaria entre el
+prestador del transporte y el beneficiario del mismo, recibiendo probablemente como
+remuneración de la operación una determinada comisión 2, gravada con IVA. En este sentido, se
+ha reconocido que el mandato conferido a las agencias de viajes para que vendan el transporte que
+realizan sus mandantes, es un mandato comercial en conformidad con el artículo 233° del ramo,
+gravado con el Impuesto al Valor Agregado 3.
+
+
+III.- CONCLUSIÓN:
+La venta de pasajes aéreos domésticos o nacionales, efectuada por una empresa distinta de aquella
+que efectuará el transporte, no se encuentra gravada con IVA, por no corresponder ni a una venta
+ni a un servicio, en los términos del artículo 2° del D.L. N° 825 de 1974.
+No obstante, por la eventual comisión obtenida en la venta de pasajes por cuenta de terceros, la
+agencia de viajes debe tributar con IVA, por corresponder a una operación gravada con dicho
+impuesto.
+Por lo expuesto, el Oficio N° 1707 de 2016 no resulta aplicable al caso en análisis.
+
+
+
+
+                                         FERNANDO BARRAZA LUENGO
+                                                DIRECTOR
+
+
+
+
+                                             Oficio N° 1692 de 21-06-2019
+                                               Subdirección Normativa
+                                             Depto. de Impuestos Indirectos
+
+
+
+
+2
+    Oficios Ord. N° 3009 de 1997 y N° 2451 de 2007.
+3
+    Oficio Ord. N° 529 de 1998.
