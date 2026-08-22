@@ -54,8 +54,11 @@ const minYear = 1974;
 const requestedFull = process.argv.includes('--full');
 const requestedWeekly = process.argv.includes('--weekly');
 const skipBcn = process.argv.includes('--skip-bcn');
+const skipSii = process.argv.includes('--skip-sii');
 const fromArg = argNumber('from');
 const toArg = argNumber('to');
+
+if (skipBcn && skipSii) throw new Error('No se puede omitir BCN y SII al mismo tiempo.');
 
 let years;
 let mode;
@@ -73,9 +76,9 @@ if (fromArg && toArg) {
 }
 
 console.log(`Modo: ${mode}`);
-console.log(`Años SII: ${years.at(-1)}-${years[0]}`);
+if (!skipSii) console.log(`Años SII: ${years.at(-1)}-${years[0]}`);
 if (!skipBcn) await crawlBcn({ onDocument });
-await crawlSii({ years, onDocument });
+if (!skipSii) await crawlSii({ years, onDocument });
 
 const documents = [...byId.values()].sort((a, b) => {
   const dateA = a.date ?? `${a.year ?? 0}-01-01`;
