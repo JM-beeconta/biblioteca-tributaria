@@ -1,0 +1,17 @@
+name: Cortar Backfill Legacy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/stop-legacy-backfill.yml'
+
+concurrency:
+  group: biblioteca-tributaria
+  cancel-in-progress: true
+
+jobs:
+  stop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Esta ejecución reemplaza y cancela el backfill monolítico legacy."
