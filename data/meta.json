@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-08-21T20:18:00-04:00",
+  "mode": "seed",
+  "total_documents": 4,
+  "touched_documents": 4,
+  "sources": ["SII", "BCN"],
+  "canonical_legal_sources": ["LIR", "LIVS", "CT"]
+}
