@@ -1,17 +1,20 @@
 {
-  "generated_at": "2026-08-22T03:37:07.665Z",
-  "total_documents": 8358,
+  "generated_at": "2026-08-22T03:37:52.086Z",
+  "total_documents": 8366,
   "by_source": {
-    "SII": 8355,
+    "SII": 8363,
     "BCN": 3
   },
   "by_type": {
-    "oficio": 7502,
+    "oficio": 7510,
     "circular": 853,
     "norma": 3
   },
   "by_year": {
     "1974": 3,
+    "1978": 2,
+    "1979": 3,
+    "1980": 3,
     "1982": 2,
     "1983": 1,
     "1984": 3,
@@ -69,8 +72,8 @@
     "LIVS",
     "CT"
   ],
-  "mode": "backfill:1981-1984",
-  "last_scrape_at": "2026-08-22T03:37:07.152Z",
-  "touched_documents": 8,
+  "mode": "backfill:1977-1980",
+  "last_scrape_at": "2026-08-22T03:37:51.700Z",
+  "touched_documents": 10,
   "backfill_status": "running"
 }
