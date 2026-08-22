@@ -1,2 +1,0 @@
-Ejecutar una única carga histórica completa en el próximo push a main.
-El workflow elimina este archivo automáticamente cuando termina el backfill.
