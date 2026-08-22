@@ -13,8 +13,15 @@ function arg(name, fallback = null) {
 
 const OUT = path.resolve(ROOT, arg('out', '.bcn-output'));
 const docs = new Map();
+const logs = [];
 await fs.rm(OUT, { recursive: true, force: true });
 await fs.mkdir(OUT, { recursive: true });
+
+function log(message) {
+  const line = String(message);
+  logs.push(line);
+  console.log(line);
+}
 
 async function onDocument(doc, body) {
   const now = new Date().toISOString();
@@ -33,11 +40,17 @@ async function onDocument(doc, body) {
   await fs.writeFile(target, markdownDocument(merged, body), 'utf8');
 }
 
-await crawlBcn({ onDocument, includeHistory: true });
+await crawlBcn({ onDocument, includeHistory: true, log });
 const documents = [...docs.values()];
-await fs.writeFile(path.join(OUT, 'docs.json'), `${JSON.stringify(documents)}\n`, 'utf8');
-await fs.writeFile(path.join(OUT, 'stats.json'), `${JSON.stringify({
+const historical = documents.filter((doc) => doc.historical_version).length;
+const article31 = documents.some((doc) => doc.type === 'articulo' && doc.norm_code === 'LIR' && String(doc.article) === '31');
+const stats = {
   generated_at: new Date().toISOString(),
   ...libraryStats(documents),
-}, null, 2)}\n`, 'utf8');
-console.log(`BCN exportado: ${documents.length} registros`);
+  historical_documents: historical,
+  has_lir_article_31: article31,
+  logs: logs.slice(-250),
+};
+await fs.writeFile(path.join(OUT, 'docs.json'), `${JSON.stringify(documents)}\n`, 'utf8');
+await fs.writeFile(path.join(OUT, 'stats.json'), `${JSON.stringify(stats, null, 2)}\n`, 'utf8');
+console.log(`BCN exportado: ${documents.length} registros; históricos=${historical}; art31=${article31}`);
