@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2023
-- Fecha: 2023-10-11
+- Fecha: 2023-10-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu42.pdf
 - Hash SHA-256: be97ded56a3dfbe7e0d55ff11478a36467b997b8adf6d5a737317adbfe0845d5
 
 ## Resumen
 
->Fuente: Subdirección Normativa Circular N° 43 del 11 de Octubre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2023 y el 9 de noviembre de 2023, ambos inclusive. Fuente: Subdirección Normativa del 2023 Imparte instrucciones en materias tributarias sobre el nuevo régimen de donaciones de bienes inmuebles en apoyo al plan de emergencia habitacional, la cesión voluntaria de terrenos en urbanizaciones y la transferencia gratuita del domini…
+cción Normativa del 2023 Imparte instrucciones en materias tributarias sobre el nuevo régimen de donaciones de bienes inmuebles en apoyo al plan de emergencia habitacional, la cesión voluntaria de terrenos en urbanizaciones y la transferencia gratuita del dominio de inmuebles de propiedad de ciertos Servicios de Vivienda y Urbanización. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2024
-- Fecha: 2024-07-19
+- Fecha: 2024-07-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu31.pdf
 - Hash SHA-256: 77a92af7dfd6dade38e6347bd2eae0a002baffc9ce2ea4b4c32b4f8c82ab97ca
 
 ## Resumen
 
-ar N° 11 de 2024. Fuente: Subdirección Normativa. Circular N° 32 del 19 de Julio del 2024 Imparte instrucciones sobre la exención temporal de impuesto de timbres y estampillas a los créditos con garantía hipotecaria establecida en el artículo 6° de la Ley N° 21.673. Fuente: Subdirección Normativa. Suspende provisionalmente lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa. Circular N° 30 del 10 de Julio del 2024 Tabla de cálculos de reajustes, intereses y multas agosto 2024. Fuente: Subdire…
+ente: Subdirección Normativa. Suspende provisionalmente lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

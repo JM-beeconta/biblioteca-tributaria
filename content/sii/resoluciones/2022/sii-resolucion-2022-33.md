@@ -11,7 +11,7 @@
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Gabinete. Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+Fuente: Gabinete. Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

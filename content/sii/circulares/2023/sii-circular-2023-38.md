@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2023
-- Fecha: 2023-09-13
+- Fecha: 2023-09-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu38.pdf
 - Hash SHA-256: 19dbf9d81021fe6f1efaa7e1290370d585c328e626d8f4d205e9e2a9aa5791ff
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 39 del 13 de Septiembre del 2023 Tablas de impuesto único de segunda categoría para el mes de octubre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Septiembre del 2023 Modifica Circular N° 57 de 2022, que imparte instrucciones sobre el impuesto establecido en el artículo 9 de la Ley N° 21.420, en la parte relativa a la exención que beneficia a bienes de empresas. Fuente: Subdirección…
+ción Normativa. Septiembre del 2023 Modifica Circular N° 57 de 2022, que imparte instrucciones sobre el impuesto establecido en el artículo 9 de la Ley N° 21.420, en la parte relativa a la exención que beneficia a bienes de empresas. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

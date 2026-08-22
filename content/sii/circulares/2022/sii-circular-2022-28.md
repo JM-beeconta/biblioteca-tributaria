@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Instruye Sobre Sanciones Del N°6 Del Artículo 41 E De La Ley Sobre Impuesto A La Renta (LIR), Por La No Presentación De Las Declaraciones Juradas A Que Se Refiere Dicha Norma, O Su Presentación Errónea, Incompleta, Extemporánea, O Maliciosamente Falsa. Deja Sin Efecto La Circular N° 32 De 2021 Fuente: Subdirección de Fiscalización. del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Julio 2022. Fuente: Subdirección de Fiscalización. Circular N° 27 del 09 de Junio del 2022 Operaciones de crédito de dinero.…
+Fiscalización. del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Julio 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;culo vigésimo quinto transitorio de la Ley N° 21.210. Fuente: Subdirección Normativa. Circular N° 38 del 11 de Junio del 2021 Exención temporal de Impuesto de Timbres y Estampillas, de acuerdo con lo establecido en las Leyes N° 21.299 y N° 21.307, ambas del año 2021. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas julio 2021. Fuente: Subdirección de Fiscalización. Circular N° 36 del 09 de Junio del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 20…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas julio 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ormación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 16 del 09 de Abril del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2024 y el 9 de mayo de 2024, ambos inclusive. Fuente: Subdirección Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2024, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta.…
+ente: Subdirección Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2024, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

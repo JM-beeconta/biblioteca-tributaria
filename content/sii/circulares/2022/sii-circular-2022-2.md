@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2022
-- Fecha: 2022-01-13
+- Fecha: 2022-01-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu2.pdf
 - Hash SHA-256: e649af6acc172316b7831c8966a4d04d8c08dfa1aa7bbb7c0d1371274e590af5
 
 ## Resumen
 
-Fuente: Subdirección Jurídica. Circular N° 3 del 13 de Enero del 2022 Tabla de cálculos de reajustes, intereses y multas febrero 2022. Fuente: Subdirección de Fiscalización. 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 1 del 11 de Enero del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2022 y el 9 de febrer…
+Fiscalización. 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

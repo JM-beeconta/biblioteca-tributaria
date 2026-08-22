@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2023
-- Fecha: 2023-11-29
+- Fecha: 2023-11-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu49.pdf
 - Hash SHA-256: c893d1953e44fe19bcd882a084ed3e867e4c10c5f568ee532880751cc1c9c441
 
 ## Resumen
 
-deg; 50 del 29 de Noviembre del 2023 Modifica Circular N° 12 de 2021, que imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Subdirección Jurídica. Noviembre del 2023 Tabla de cálculos de reajustes, intereses y multas diciembre 2023. Fuente: Subdirección de Fiscalización. Circular N° 48 del 10 de Noviembre del 2023 Tablas de impuesto úni…
+Jurídica. Noviembre del 2023 Tabla de cálculos de reajustes, intereses y multas diciembre 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

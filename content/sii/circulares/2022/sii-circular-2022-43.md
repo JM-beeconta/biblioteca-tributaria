@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2022
-- Fecha: 2022-10-12
+- Fecha: 2022-09-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu43.pdf
 - Hash SHA-256: d180285654a2d898e319a08e4bc658ab33bdb87fd65d47883b9eefc9ec3c63e9
 
 ## Resumen
 
->Fuente: Subdirección Normativa Circular N° 44 del 12 de Octubre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2022 y el 9 de noviembre de 2022, ambos inclusive. Fuente: Subdirección Normativa Septiembre del 2022 Imparte instrucciones sobre la eliminación del artículo 21 del Decreto Ley N° 910 de 1975 y del párrafo primero del N° 6 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de…
+cción Normativa Septiembre del 2022 Imparte instrucciones sobre la eliminación del artículo 21 del Decreto Ley N° 910 de 1975 y del párrafo primero del N° 6 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

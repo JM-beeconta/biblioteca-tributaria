@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto a la Renta. Fuente: Subdirección Normativa. Circular N° 19 del 01 de Abril del 2021 Instruye sobre la imputación de pérdidas a las rentas o cantidades que perciban a título de retiros o dividendos afectos a impuestos finales, durante los años comerciales 2020 al 2023. Fuente: Subdirección Normativa. Imparte instrucciones sobre el artículo trigésimo segundo transitorio de la Ley N° 21.210 de 24 de febrero de 2020, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuest…
+ente: Subdirección Normativa. Imparte instrucciones sobre el artículo trigésimo segundo transitorio de la Ley N° 21.210 de 24 de febrero de 2020, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuestos cuyo origen sea correlativo con diferencias en el capital propio tributario informado. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

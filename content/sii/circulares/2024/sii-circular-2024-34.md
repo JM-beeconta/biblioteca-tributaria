@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2024
-- Fecha: 2024-08-01
+- Fecha: 2024-07-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu34.pdf
 - Hash SHA-256: e64285ef1c92d10eb72e8f2cd044ee0d806cd48eda923250f278bb11f2c2c835
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 35 del 01 de Agosto del 2024 Modifica la Circular N° 22 de 2014, que imparte instrucciones sobre el tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley N° 20.444. Deja sin efecto la Circular N° 44 de 2010. Fuente: Subdirección Normativa. Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en los artículos 10 y 11 de la…
+ente: Subdirección Normativa. Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en los artículos 10 y 11 de la Ley N° 21.681, que crea el Fondo de Emergencia Transitorio por Incendios y establece otras medidas para la reconstrucción. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

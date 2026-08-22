@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección Normativa. Circular N° 33 del 09 de Agosto del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2023 y el 9 de septiembre de 2023, ambos inclusive. Fuente: Subdirección Normativa. del 2023 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 31 del 20 de Julio del 2023 Reemplaza apartado 2.5. y párr…
+ción Normativa. del 2023 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

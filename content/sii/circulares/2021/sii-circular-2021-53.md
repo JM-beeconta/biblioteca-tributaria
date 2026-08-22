@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2021
-- Fecha: 2021-09-30
+- Fecha: 2021-09-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu53.pdf
 - Hash SHA-256: b009c79c7c9b48aa00274c5bf2be04b23698e8e981f57516d151c0258590c80b
 
 ## Resumen
 
-Ley N° 21.210. Fuente: Subdirección Normativa. Circular N° 54 del 30 de Septiembre del 2021 Imparte instrucciones sobre la modificación al artículo 35 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas octubre 2021. Fuente: Subdirección de Fiscalización. Circular N° 52 del 10 de Septiembre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas octubre 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

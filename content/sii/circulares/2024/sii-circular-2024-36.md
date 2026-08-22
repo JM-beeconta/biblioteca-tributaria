@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aacute;lculos de reajustes, intereses y multas septiembre 2024. Fuente: Subdirección de Fiscalización. Circular N° 37 del 09 de Agosto del 2024 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2024 y el 9 de septiembre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2024 y el 9 de septiembre de 2024, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

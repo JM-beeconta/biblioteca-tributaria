@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2023
-- Fecha: 2023-12-04
+- Fecha: 2023-11-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu50.pdf
 - Hash SHA-256: 921154b1f73a7bedc1169ee7142c57b2708d02c189b5d1720ec816bea19313a0
 
 ## Resumen
 
-x;'> Circular N° 51 del 04 de Diciembre del 2023 Imparte instrucciones sobre el nuevo crédito transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, establecido en la Ley N° 21.631. Complementa Circular N° 87 de 2001. Fuente: Subdirección Normativa. Noviembre del 2023 Modifica Circular N° 12 de 2021, que imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que est…
+ción Normativa. Noviembre del 2023 Modifica Circular N° 12 de 2021, que imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

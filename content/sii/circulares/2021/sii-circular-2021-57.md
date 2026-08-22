@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 57
 - Año: 2021
-- Fecha: 2021-10-14
+- Fecha: 2021-10-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu57.pdf
 - Hash SHA-256: 2152aadb5d29cf4a18ab6885587fbb066d6b534f0355c0fb5a06fc689d019b2e
 
 ## Resumen
 
-='margin-top:0px;margin-bottom:0px;'>Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa Circular N° 58 del 14 de Octubre del 2021 Tabla de cálculos de reajustes, intereses y multas noviembre 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2021 y el 9 de noviembre de 2021, ambos inclusive. Fuente: Subdirección Normativa Circular N° 56 del 13 d…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2021 y el 9 de noviembre de 2021, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

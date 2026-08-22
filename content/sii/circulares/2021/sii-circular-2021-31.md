@@ -11,7 +11,7 @@
 
 ## Resumen
 
-blank' class="sin_efecto">Circular N° 32 del 19 de Mayo del 2021 Instruye sobre sanciones aplicables conforme a lo dispuesto por el N° 6 del artículo 41 E de la Ley sobre Impuesto a la Renta, por la no presentación de las declaraciones juradas a que se refiere dicha norma, o su presentación errónea, incompleta, extemporánea, o maliciosamente falsa. Deja sin efecto la . Fuente: Subdirección de Fiscalización. Circular N° 31 del 19 de Mayo del 2021 Instruye sobre modificaciones introducidas por la Ley N° 21.210 a los…
+ción de Fiscalización. Instruye sobre modificaciones introducidas por la Ley N° 21.210 a los artículos 41 A y 41 B, y eliminación del artículo 41 C, de la Ley sobre Impuesto a la Renta. Deja sin efecto la Circular N° 48 de 2016 y parcialmente la Circular N° 44 de 2017. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

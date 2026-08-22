@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2024
-- Fecha: 2024-06-11
+- Fecha: 2024-05-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu24.pdf
 - Hash SHA-256: ef7e03be0e9bc44bda7b16c5f87c1e8299f787f7f32c1d9ce33e1d314f46063e
 
 ## Resumen
 
-nformación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 25 del 11 de Junio del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2024 y el 9 de julio de 2024, ambos inclusive. Fuente: Subdirección Normativa. Imparte instrucciones acerca de las implicancias que se derivan de la dictación de la Ley N° 21.582, que suprime o modifica la intervención de notarios en trámites, actuaciones y gestiones determinadas…
+ente: Subdirección Normativa. Imparte instrucciones acerca de las implicancias que se derivan de la dictación de la Ley N° 21.582, que suprime o modifica la intervención de notarios en trámites, actuaciones y gestiones determinadas que se realicen ante órganos de la Administración del Estado, para el desarrollo de los procedimientos administrativos que se tramitan por el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

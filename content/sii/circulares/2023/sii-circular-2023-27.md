@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2023
-- Fecha: 2023-07-10
+- Fecha: 2023-06-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu27.pdf
 - Hash SHA-256: 3e51f143304b962d11545b35713e6818e5fcd321679588aa865cb492d4fc311f
 
 ## Resumen
 
-> Circular N° 28 del 10 de Julio del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2023 y el 9 de agosto de 2023, ambos inclusive. Fuente: Subdirección Normativa Oficina de Gestión Normativa del 2023 Tabla de cálculos de reajustes, intereses y multas julio 2023. Fuente: Subdirección de Fiscalización. Circular N° 26 del 09 de Junio del 2023 Tablas de impuesto único de segunda categoría para el mes de julio de 2023 e información adicional rela…
+stión Normativa del 2023 Tabla de cálculos de reajustes, intereses y multas julio 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

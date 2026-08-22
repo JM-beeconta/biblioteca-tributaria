@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2021
-- Fecha: 2021-07-13
+- Fecha: 2021-07-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu45.pdf
 - Hash SHA-256: 42fbd358079104e79f032c824ccfaa9dfdf5d0858f3025774b871de43b551afe
 
 ## Resumen
 
-a exigencia de legalización de documentos públicos extranjeros (&ldquo;Convención de la Apostilla&rdquo;) en el caso que indica. Fuente: Subdirección Normativa Circular N° 46 del 13 de Julio del 2021 Tabla de cálculos de reajustes, intereses y multas agosto 2021. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 44 del 12 de Julio del 2021 Operaciones d…
+ción de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

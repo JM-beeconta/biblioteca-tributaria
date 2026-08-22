@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2021
-- Fecha: 2021-06-04
+- Fecha: 2021-05-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu33.pdf
 - Hash SHA-256: 19c9d2b87940517bfb9a4db70a7aa678d368268b4f8b6826d77bf136895d0e58
 
 ## Resumen
 
-px;'> Fuente: Subdirección Normativa. Circular N° 34 del 04 de Junio del 2021 Modificaciones introducidas por la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020, a la Ley única de fondos, contenida en el artículo primero de la Ley N° 20.712, sobre administración de fondos de terceros y carteras individuales. Fuente: Subdirección Normativa. Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, a la Ley N° 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones.…
+ente: Subdirección Normativa. Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, a la Ley N° 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones. Modifica Circular N° 19 de 2004. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

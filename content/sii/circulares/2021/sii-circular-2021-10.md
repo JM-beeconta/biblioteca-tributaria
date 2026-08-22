@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.256. Complementa y modifica instrucciones de la Circular N° 31 de 2020 tras modificaciones a los artículos vigésimo primero y vigésimo segundo transitorios e incorporación de artículo vigésimo segundo transitorio bis, todos de la Ley N° 21.210, introducidas por la Ley N° 21.256, que amplía régimen transitorio de depreciación de los activos inmovilizados e incorpora nuevo régimen de amortización de activos intangibles. Fuente: Subdirección Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de marz…
+uente: Subdirección Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

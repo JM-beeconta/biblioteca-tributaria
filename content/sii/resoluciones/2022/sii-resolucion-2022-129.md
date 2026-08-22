@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> Fija Valores De Terrenos Y Construcciones Para El Reavalúo 2023, De Los Bienes Raíces No Agrícolas Correspondientes A Sitios No Edificados, Propiedades Abandonadas O Pozos Lastreros, Ubicados En Las Áreas Urbanas. Fuente: Subdirección de Avaluaciones.
+Fija Valores De Terrenos Y Construcciones Para El Reavalúo 2023, De Los Bienes Raíces No Agrícolas Correspondientes A Sitios No Edificados, Propiedades Abandonadas O Pozos Lastreros, Ubicados En Las Áreas Urbanas. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Diciembre del 2023 Tabla de cálculos de reajustes, intereses y multas enero 2024. Fuente: Subdirección de Fiscalización. Circular N° 53 del 12 de Diciembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2023 y el 9 de enero de 2024, ambos inclusive. Fuente: Subdirección Normativa. <h5 style='margin-botto
+Diciembre del 2023 Tabla de cálculos de reajustes, intereses y multas enero 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

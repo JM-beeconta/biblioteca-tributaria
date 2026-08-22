@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del 2023 Imparte instrucciones en materias tributarias sobre el nuevo régimen de donaciones de bienes inmuebles en apoyo al plan de emergencia habitacional, la cesión voluntaria de terrenos en urbanizaciones y la transferencia gratuita del dominio de inmuebles de propiedad de ciertos Servicios de Vivienda y Urbanización. Fuente: Subdirección Normativa. Septiembre del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Octubre 2023. Fuente: Subdirección de Fiscalización. Circular N° 40 del 13 de Septiembre del…
+ción Normativa. Septiembre del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Octubre 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

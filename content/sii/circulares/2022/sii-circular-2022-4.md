@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2022
-- Fecha: 2022-01-19
+- Fecha: 2022-01-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu4.pdf
 - Hash SHA-256: 69edd2f19f835bea33ea75d1fd537b8ef53eeda8a0cc671f7b86138b5685cb04
 
 ## Resumen
 
-5 del 19 de Enero del 2022 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2022. Fuente: Subdirección Normativa. 2022 Instrucciones sobre comparecencia y representación de los contribuyentes ante el Servicio de Impuestos Internos. Deroga Circular N° 54 de 2002, modificada por l…
+ción Normativa. 2022 Instrucciones sobre comparecencia y representación de los contribuyentes ante el Servicio de Impuestos Internos. Deroga Circular N° 54 de 2002, modificada por la Circular N° 12 de 2021. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2021
-- Fecha: 2021-06-25
+- Fecha: 2021-06-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu38.pdf
 - Hash SHA-256: 767744ad510356b409b811340e397abdfed8ed6e487c22780beefeda9ce98620
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 39 del 25 de Junio del 2021 Complementa Circular N° 43 de 2020, que imparte instrucciones sobre la aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en el artículo vigésimo quinto transitorio de la Ley N° 21.210. Fuente: Subdirección Normativa. Exención temporal de Impuesto de Timbres y Estampillas, de acuerdo con lo establecido en las Leyes N° 21.299 y N° 21.307, ambas del año 2021. Fuente: Subdirecció…
+ente: Subdirección Normativa. Exención temporal de Impuesto de Timbres y Estampillas, de acuerdo con lo establecido en las Leyes N° 21.299 y N° 21.307, ambas del año 2021. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

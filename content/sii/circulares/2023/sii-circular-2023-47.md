@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dirección de Fiscalización. Circular N° 48 del 10 de Noviembre del 2023 Tablas de impuesto único de segunda categoría para el mes de diciembre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Noviembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2023 y el 9 de diciembre de 2023, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 46 del 13 de Octubre del 2023 Imparte instruccio…
+ción Normativa. Noviembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2023 y el 9 de diciembre de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

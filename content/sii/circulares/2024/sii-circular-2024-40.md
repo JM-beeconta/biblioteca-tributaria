@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Tablas de impuesto único de segunda categoría para el mes de noviembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 41 del 11 de Septiembre del 2024 Tabla de cálculos de reajustes, intereses y multas octubre 2024. Fuente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de octubre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 39 del 11 de Septiembre del 2024 O…
+ente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de octubre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

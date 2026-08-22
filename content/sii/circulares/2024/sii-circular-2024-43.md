@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Informa entrada en vigencia de diversas modificaciones introducidas por la Ley N° 21.713. Fuente: Subdirección Normativa Circular N° 44 del 10 de Octubre del 2024 Tabla de cálculos de reajustes, intereses y multas noviembre 2024. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2024 y el 9 de noviembre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 42 del 10 de Octubre del 2024 Tablas d…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2024 y el 9 de noviembre de 2024, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

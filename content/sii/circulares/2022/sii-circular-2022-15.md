@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2022
-- Fecha: 2022-04-12
+- Fecha: 2022-04-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu15.pdf
 - Hash SHA-256: 5efd00b14ed4c84c7fbc76b3323e98d48e11736c7adfb2b627eb14f80067e75d
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 16 del 12 de Abril del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. del 2022 Imparte instrucciones sobre la derogación del artículo 41 D de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° de enero de 2022. Deja sin efecto las Circulares N° 43 de 2003 y N° 16 de 2018. Fuente: Subdirección No…
+ción Normativa. del 2022 Imparte instrucciones sobre la derogación del artículo 41 D de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° de enero de 2022. Deja sin efecto las Circulares N° 43 de 2003 y N° 16 de 2018. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

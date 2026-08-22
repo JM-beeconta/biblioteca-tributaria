@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2023
-- Fecha: 2023-05-10
+- Fecha: 2023-05-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu21.pdf
 - Hash SHA-256: 73cfa69c4276993ca57cdb71560db77bc06d4d71aade9eeed67f0aece876d57c
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización. Circular N° 22 del 10 de Mayo del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Junio 2023. Fuente: Subdirección de Fiscalización. 2023 Tablas de impuesto único de segunda categoría para el mes de junio de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 20 del 09 de Mayo del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2023 y el 9 de juni…
+Fiscalización. 2023 Tablas de impuesto único de segunda categoría para el mes de junio de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2023
-- Fecha: 2023-08-09
+- Fecha: 2023-07-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu31.pdf
 - Hash SHA-256: f52c2c5b15caa51244c7a1d46b28011354fd2557aa0dbcbbd633cb1f3f542752
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 32 del 09 de Agosto del 2023 Tablas de impuesto único de segunda categoría para el mes de septiembre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. del 2023 Reemplaza apartado 2.5. y párrafo final del apartado 2.8 de la Circular N° 39 de 2022, en la parte relativa a los pagos provisionales mensuales en operaciones del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirec…
+ción Normativa. del 2023 Reemplaza apartado 2.5. y párrafo final del apartado 2.8 de la Circular N° 39 de 2022, en la parte relativa a los pagos provisionales mensuales en operaciones del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

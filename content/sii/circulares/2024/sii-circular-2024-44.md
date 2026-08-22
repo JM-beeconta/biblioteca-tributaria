@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 44
 - Año: 2024
-- Fecha: 2024-10-25
+- Fecha: 2024-10-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu44.pdf
 - Hash SHA-256: c526601afb819fe989ea66b77b509bd840c90508ca7751b5c834c225ba404bf1
 
 ## Resumen
 
-esto único de segunda categoría para el mes de diciembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 45 del 25 de Octubre del 2024 Informa entrada en vigencia de diversas modificaciones introducidas por la Ley N° 21.713. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas noviembre 2024. Fuente: Subdirección de Fiscalización. Circular N° 43 del 10 de Octubre del 2024 Operaciones de crédito de dinero. Valor de la Unidad de F…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas noviembre 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

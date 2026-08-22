@@ -11,7 +11,7 @@
 
 ## Resumen
 
-arget='_blank'>Circular N° 4 del 12 de Enero del 2021 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2021. Reemplaza tabla incluida en la página 48 de la Circular N° 73 de 2020. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de febrer…
+ente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

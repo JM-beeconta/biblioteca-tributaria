@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2024
-- Fecha: 2024-07-12
+- Fecha: 2024-07-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu29.pdf
 - Hash SHA-256: 89ad190b20033778f6e5bf218114610411467ba1aacf10f229bf65d250cb5e3b
 
 ## Resumen
 
-12 de Julio del 2024 Suspende provisionalmente lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa. Circular N° 30 del 10 de Julio del 2024 Tabla de cálculos de reajustes, intereses y multas agosto 2024. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2024 y el 9 de agosto de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 28 del 09 de Julio del 2024 Tablas de impuesto…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2024 y el 9 de agosto de 2024, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 61
 - Año: 2021
-- Fecha: 2021-11-23
+- Fecha: 2021-11-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu61.pdf
 - Hash SHA-256: 6b73a0cdb02996caa72b96cdc474d36b3d08877c666f1e7b19cd0d5fd1a8450f
 
 ## Resumen
 
-tículo 8° del Código Tributario, reemplazada por la Ley N° 21.210 y sobre el concepto domicilio para fines tributarios. Fuente: Subdirección Normativa. Circular N° 62 del 23 de Noviembre del 2021 Tabla de cálculos de reajustes, intereses y multas diciembre 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2021 y el 9 de diciembre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 60…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2021 y el 9 de diciembre de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

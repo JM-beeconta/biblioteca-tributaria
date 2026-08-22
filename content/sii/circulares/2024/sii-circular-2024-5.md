@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2024
-- Fecha: 2024-02-05
+- Fecha: 2024-01-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu5.pdf
 - Hash SHA-256: 963a28635d85e8a829004434b38fd1f7757f5a200cd67714b54add2cf6b891dc
 
 ## Resumen
 
-/span> Circular N° 6 del 05 de Febrero del 2024 Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Impuestos Directos Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rent…
+Fuente: Impuestos Directos Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2024. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

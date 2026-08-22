@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-top:0px;margin-bottom:0px;'>Imparte instrucciones sobre las modificaciones introducidas por los números 1 y 2 del artículo 6 de la Ley N° 21.420, a los artículos 2° N° 2°) y 12 letra E de la Ley sobre Impuesto a las Ventas y Servicios. Modifica el segundo párrafo del N° 3 de la letra B del Título II de la Circular N° 21 de 1991, en la forma que indica. Fuente: Subdirección Normativa del 2022 Imparte instrucciones en materias tributarias sobre el nuevo régimen de donaciones en apoyo a las entidades sin fines de l…
+cción Normativa del 2022 Imparte instrucciones en materias tributarias sobre el nuevo régimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.681; y las donaciones efectuadas en conformidad con lo dispuesto en el artículo 68 de la Ley N° 19.300. Modifica Circular N° 24 de 1993. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

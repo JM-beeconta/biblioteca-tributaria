@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2022
-- Fecha: 2022-02-10
+- Fecha: 2022-02-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu7.pdf
 - Hash SHA-256: d753ce01f0a2306195ab6b4c47e4fdffe6175c5a4c10acc121f64a7e1b8c5044
 
 ## Resumen
 
-bre Impuesto a la Renta. Fuente: Subdirección Normativa. Circular N° 8 del 10 de Febrero del 2022 Tabla de cálculos de reajustes, intereses y multas marzo 2022. Fuente: Subdirección de Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2022 y el 9 de marzo de 2022, ambos inclusive. Fuente: Subdirección Normativa Circular N° 6 del 09 de Febrero del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2022…
+Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2022 y el 9 de marzo de 2022, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

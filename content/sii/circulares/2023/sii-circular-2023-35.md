@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 35
 - Año: 2023
-- Fecha: 2023-08-31
+- Fecha: 2023-08-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu35.pdf
 - Hash SHA-256: 6bb4fc2a61f19c56c9a97cf1c964ced6a6ae6bc6d868e8f14f0c8fc189d0a7d6
 
 ## Resumen
 
-el 31 de Agosto del 2023 Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.564, que deroga la Ley N° 8.834, y regula beneficios para promover la realización en Chile de eventos deportivos oficiales de relevancia internacional. Se deja sin efecto Circular N° 106 de 1979. Fuente: Subdirección Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas septiembre 2023. Fuente: Subdirección de Fiscalización. Circular N° 34 del 11 de Agosto del 2023 Instr…
+ción Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas septiembre 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

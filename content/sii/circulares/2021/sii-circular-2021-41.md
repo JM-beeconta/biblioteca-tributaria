@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y lo dispuesto en el artículo vigésimo cuarto transitorio de la Ley N° 21.210. Fuente: Subdirección Normativa. Circular N° 42 del 02 de Julio del 2021 Imparte instrucciones sobre beneficio tributario para donaciones al Fondo Nacional del Cáncer establecido en la Ley N° 21.258. Fuente: Subdirección Normativa Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210 al Código Tributario, en relación con las normas que regulan la relación de los contribuyentes con el Servicio de Impuestos Internos,…
+uente: Subdirección Normativa Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210 al Código Tributario, en relación con las normas que regulan la relación de los contribuyentes con el Servicio de Impuestos Internos, incluyendo normas sobre sitio electrónico, facilitación del cumplimiento tributario, ciclo de vida y fiscalización de los contribuyentes. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

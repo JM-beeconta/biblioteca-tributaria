@@ -11,7 +11,7 @@
 
 ## Resumen
 
-banización. Fuente: Subdirección Normativa. Circular N° 41 del 13 de Septiembre del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Octubre 2023. Fuente: Subdirección de Fiscalización. Septiembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2023 y el 9 de octubre de 2023, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 39 del 13 de Septiembre del 2023 Tablas de impuesto único de segunda categoría para el mes de…
+Fiscalización. Septiembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2023 y el 9 de octubre de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

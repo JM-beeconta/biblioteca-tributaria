@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fiscalización. Circular N° 29 del 10 de Julio del 2023 Tablas de impuesto único de segunda categoría para el mes de agosto de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Oficina de Gestión Normativa del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2023 y el 9 de agosto de 2023, ambos inclusive. Fuente: Subdirección Normativa Oficina de Gestión Normativa Circular N° 27 del 12 de Junio del 2023 T…
+stión Normativa del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2023 y el 9 de agosto de 2023, ambos inclusive. Fuente: Subdirección Normativa Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

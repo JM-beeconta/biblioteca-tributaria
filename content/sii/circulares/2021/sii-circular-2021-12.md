@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2021
-- Fecha: 2021-03-01
+- Fecha: 2021-02-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu12.pdf
 - Hash SHA-256: 891f17290f377a0feffbe0d83b62e39a18cb1b6776b7f88314e8835f6fed6be7
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 13 del 01 de Marzo del 2021 (Zip 2.161KB) (Actualizado al 12.03.2021) Suplemento Tributario con la normativa vigente para efectuar la Declaración de Impuestos Anuales a la Renta, correspondientes al año tributario 2021 Fuente: Subdirección Normativa. Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21…
+ente: Subdirección Normativa. Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

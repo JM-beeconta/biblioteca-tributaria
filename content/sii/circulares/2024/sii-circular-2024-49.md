@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2024
-- Fecha: 2024-11-28
+- Fecha: 2024-11-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu49.pdf
 - Hash SHA-256: 605ed836b6c9848f823bab1534ca067cd18e5f179cabd510f3722d89b65f13e2
 
 ## Resumen
 
-l relacionada con dicho tributo Fuente: Subdirección Normativa Circular N° 50 del 28 de Noviembre del 2024 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 9 de la Ley N° 21.420. Deja sin efecto las Circulares N° 57 de 2022 y N° 38 de 2023. Fuente: Subdirección Normativa Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo undécimo transitorio de la Ley N° 21.713, modifi…
+uente: Subdirección Normativa Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo undécimo transitorio de la Ley N° 21.713, modificado por la Ley N° 21.716. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

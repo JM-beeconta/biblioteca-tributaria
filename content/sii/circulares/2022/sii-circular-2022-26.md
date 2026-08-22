@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n de Fiscalización. Circular N° 27 del 09 de Junio del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2022 y el 9 de julio de 2022, ambos inclusive. Fuente: Subdirección Normativa. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 25 del 13 de Mayo del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Jun…
+ción Normativa. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

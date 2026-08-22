@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2024
-- Fecha: 2024-03-14
+- Fecha: 2024-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu13.pdf
 - Hash SHA-256: 6fc29010bd500fecd07f358a7cda58ae6534dd5630f13d46d02d723b55a6d92a
 
 ## Resumen
 
-la renta a declarar y pagar en el año tributario 2024, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Circular N° 14 del 14 de Marzo del 2024 Tabla de cálculos de reajustes, intereses y multas abril 2024. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de abril de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 12 del 11 de Marzo del 2024 Operac…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de abril de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

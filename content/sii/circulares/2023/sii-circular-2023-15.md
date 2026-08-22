@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2023
-- Fecha: 2023-04-10
+- Fecha: 2023-04-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu15.pdf
 - Hash SHA-256: fcae424681d5654a140f77fd59acefeb5da02a53045221c3016cad1a5c31d899
 
 ## Resumen
 
-px;'> Fuente: Subdirección Normativa. Circular N° 16 del 10 de Abril del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2023 y el 9 de mayo de 2023, ambos inclusive. Fuente: Subdirección Normativa. del 2023 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2023, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Ci…
+ción Normativa. del 2023 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2023, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

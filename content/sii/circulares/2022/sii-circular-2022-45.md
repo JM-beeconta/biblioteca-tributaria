@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección Jurídica. Circular N° 46 del 12 de Octubre del 2022 Tabla de cálculos de reajustes, intereses y multas noviembre 2022. Fuente: Subdirección de Fiscalización. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 44 del 12 de Octubre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2022 y…
+Fiscalización. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

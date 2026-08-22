@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fiscalización. Circular N° 53 del 12 de Diciembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2023 y el 9 de enero de 2024, ambos inclusive. Fuente: Subdirección Normativa. Diciembre del 2023 Tablas de impuesto único de segunda categoría para el mes de enero de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 51 del 04 de Diciembre del 2023 Imparte instrucciones sobre el nuevo…
+ción Normativa. Diciembre del 2023 Tablas de impuesto único de segunda categoría para el mes de enero de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

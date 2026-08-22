@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2021
-- Fecha: 2021-04-08
+- Fecha: 2021-04-01
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu20.pdf
 - Hash SHA-256: f6098d6a3881198a3ed63616f742bfa4a6d5706c9d1f14766f9bf17d8641588e
 
 ## Resumen
 
-n dicho tributo. Fuente: Subdirección Normativa. Circular N° 21 del 08 de Abril del 2021 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2021, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, al numeral 4° del artículo 40 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Circular N° 19 del…
+ente: Subdirección Normativa. Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, al numeral 4° del artículo 40 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

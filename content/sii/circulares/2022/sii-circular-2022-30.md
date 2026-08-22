@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2022
-- Fecha: 2022-07-11
+- Fecha: 2022-07-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu30.pdf
 - Hash SHA-256: 460375254d4f1d11a64d75f6ce246fdb2a1afad2be603dbcb603f3eaeadca642
 
 ## Resumen
 
-;'> Fuente: Subdirección Normativa. Circular N° 31 del 11 de Julio del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2022 y el 9 de agosto de 2022, ambos inclusive. Fuente: Subdirección Normativa. del 2022 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2022. Fuente: Subdirección de Fiscalización Circular N° 29 de…
+ción Normativa. del 2022 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2022. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

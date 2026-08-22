@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2022
-- Fecha: 2022-05-10
+- Fecha: 2022-05-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu22.pdf
 - Hash SHA-256: 5a2c492914bbf85b487c93c4d5ffcaab4b2a2c955c82ab63da6856d856e83d0b
 
 ## Resumen
 
-0px;'> Fuente: Subdirección Normativa. Circular N° 23 del 10 de Mayo del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2022 y el 9 de junio de 2022, ambos inclusive. Fuente: Subdirección Normativa 2022 Imparte instrucciones sobre modificaciones introducidas por las Leyes N° 21.210 y N° 21.420 en materia de &ldquo;viviendas económicas&rdquo; y sobretasa. Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. Fuente: Subdirección…
+cción Normativa 2022 Imparte instrucciones sobre modificaciones introducidas por las Leyes N° 21.210 y N° 21.420 en materia de &ldquo;viviendas económicas&rdquo; y sobretasa. Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

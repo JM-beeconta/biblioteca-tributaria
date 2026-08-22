@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2024
-- Fecha: 2024-09-10
+- Fecha: 2024-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu37.pdf
 - Hash SHA-256: b6e28b33eb7b077ec82f2b42fcf3fd9a81f4b1112f1b97ffa187bb6f583e71b9
 
 ## Resumen
 
-Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2024 y el 9 de octubre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 38 del 09 de Agosto del 2024 Tabla de cálculos de reajustes, intereses y multas septiembre 2024. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de septiembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 36 del 09 de Agosto del 2…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de septiembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

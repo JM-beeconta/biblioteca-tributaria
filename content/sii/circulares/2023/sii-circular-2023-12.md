@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2023
-- Fecha: 2023-03-13
+- Fecha: 2023-03-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu12.pdf
 - Hash SHA-256: b03473706356aaf6327418e8efaa5fd5dc8438e66a922d85ce9642e18bc137d8
 
 ## Resumen
 
-ircular N° 5 de 2023. Fuente: Subdirección Normativa. Circular N° 13 del 13 de Marzo del 2023 Tabla de cálculos de reajustes, intereses y multas abril 2023. Fuente: Subdirección de Fiscalización. del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2023 y el 9 de abril de 2023, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 11 del 09 de Marzo del 2023 Tablas de impuesto único de segunda categoría para el mes de abril de 2023 e inf…
+Fiscalización. del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2023 y el 9 de abril de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

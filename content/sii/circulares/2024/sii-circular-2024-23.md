@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Imparte instrucciones acerca de las implicancias que se derivan de la dictación de la Ley N° 21.582, que suprime o modifica la intervención de notarios en trámites, actuaciones y gestiones determinadas que se realicen ante órganos de la Administración del Estado, para el desarrollo de los procedimientos administrativos que se tramitan por el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica. Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con…
+Subdirección Jurídica. Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

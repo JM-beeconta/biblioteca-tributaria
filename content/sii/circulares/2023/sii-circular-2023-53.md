@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2023
-- Fecha: 2023-12-20
+- Fecha: 2023-12-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu53.pdf
 - Hash SHA-256: 1abecd8f452755c523493b83c50b388e8c8ff09a04fe612124db4fc582131d7c
 
 ## Resumen
 
-Circular N° 54 del 20 de Diciembre del 2023 Tabla de cálculos de reajustes, intereses y multas enero 2024. Fuente: Subdirección de Fiscalización. Diciembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2023 y el 9 de enero de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 52 del 12 de Diciembre del 2023 Tablas de impuesto único de segunda categoría para el mes de enero de 2024 e información adicional relacionada c…
+Fiscalización. Diciembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2023 y el 9 de enero de 2024, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

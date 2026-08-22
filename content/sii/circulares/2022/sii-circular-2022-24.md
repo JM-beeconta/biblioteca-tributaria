@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2022
-- Fecha: 2022-05-13
+- Fecha: 2022-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu24.pdf
 - Hash SHA-256: b2f540d542ca9cd1ff7612bad158b88f7abf55103128116047abe05e1dbfedf6
 
 ## Resumen
 
-cionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 25 del 13 de Mayo del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Junio 2022. Fuente: Subdirección de Fiscalización. 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 23 del 10 de Mayo del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo d…
+Fiscalización. 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley N° 21.591, modificada por la Ley N° 21.647. Fuente: Subdirección Normativa. Circular N° 2 del 09 de Enero del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2024 y el 9 de febrero de 2024, ambos inclusive. Fuente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de febrero de 2024 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa. function ir_anyo(){ var anyo = $('select#…
+ente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de febrero de 2024 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2024'); }else{ $(location).attr('href', '../' + anyo + '/indcir' + anyo + '.htm'); } } $(document).ready(function(){ $('select#s…
 
 ## Referencias detectadas
 

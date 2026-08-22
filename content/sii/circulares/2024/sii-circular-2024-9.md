@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2024
-- Fecha: 2024-03-07
+- Fecha: 2024-02-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu9.pdf
 - Hash SHA-256: bfa2ee8647dabaa119c8aed15afe0a510fef10c84b0449018ceeffa5518a584a
 
 ## Resumen
 
-Ventas y Servicios. Fuente: Subdirección Normativa. Circular N° 10 del 07 de Marzo del 2024 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas marzo 2024. Fuente: Subdirección de Fiscalización. Circular N° 8 del 09 de Febrero del 2024 Tablas de impuesto único de segunda categoría para el m…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas marzo 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

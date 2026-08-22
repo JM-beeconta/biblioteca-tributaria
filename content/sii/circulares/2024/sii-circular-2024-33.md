@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2024
-- Fecha: 2024-07-30
+- Fecha: 2024-07-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu33.pdf
 - Hash SHA-256: b2dafdfcce09c6a4ea4b68a814b213587341af50f12d36bcac5e63098eb9b672
 
 ## Resumen
 
-cción Normativa. Circular N° 34 del 30 de Julio del 2024 Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en los artículos 10 y 11 de la Ley N° 21.681, que crea el Fondo de Emergencia Transitorio por Incendios y establece otras medidas para la reconstrucción. Fuente: Subdirección Normativa. Deja sin efecto lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa. Circular N° 32 del 19 de Julio del 2024 Imparte instrucciones so…
+ente: Subdirección Normativa. Deja sin efecto lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-De Cálculos De Reajustes, Intereses Y Multas Enero 2022. Fuente: Subdirección de Fiscalización. Circular N° 65 del 09 de Diciembre del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2021 y el 9 de enero de 2022, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 63 del…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2021 y el 9 de enero de 2022, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

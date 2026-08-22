@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2022
-- Fecha: 2022-04-08
+- Fecha: 2022-03-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu13.pdf
 - Hash SHA-256: 55a4a6081a049b10e30b548a665aeea0285cf81c999d8301f8777e5707368900
 
 ## Resumen
 
-/i> Circular N° 14 del 08 de Abril del 2022 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2022, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa del 2022 Imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por…
+stión Normativa del 2022 Imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile. Fuente: Subdirección Normativa - Subdirección Jurídica
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bottom:0px;'>Tablas de impuesto único de segunda categoría para el mes de agosto de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 27 del 11 de Junio del 2024 Tabla de cálculos de reajustes, intereses y multas julio 2024. Fuente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de julio de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 25 del 11 de Junio del 2024 Operac…
+ente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de julio de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

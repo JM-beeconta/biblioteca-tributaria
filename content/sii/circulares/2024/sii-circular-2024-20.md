@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2024
-- Fecha: 2024-05-15
+- Fecha: 2024-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu20.pdf
 - Hash SHA-256: 9c44e45943be7abc4656dc1c1d98a75077dc764af9c0cdada696e6d9609f3e7b
 
 ## Resumen
 
-dificaciones introducidas por la Ley N° 21.622 a la Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985. Fuente: Impuestos Indirectos Circular N° 21 del 15 de Mayo del 2024 Tabla de cálculos de reajustes, intereses y multas junio 2024. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de junio de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 19 del 10 de Mayo del 2024 Operaci…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de junio de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

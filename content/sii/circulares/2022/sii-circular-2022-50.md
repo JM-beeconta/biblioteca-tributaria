@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2022
-- Fecha: 2022-11-09
+- Fecha: 2022-10-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu50.pdf
 - Hash SHA-256: c3631b0ac3c75618c947d6feabbd0c753750d61e855c297c6d6c7c86837adf0a
 
 ## Resumen
 
-e: Subdirección Normativa. Circular N° 51 del 09 de Noviembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2022 y el 9 de diciembre de 2022, ambos inclusive. Fuente: Subdirección Normativa. del 2022 Imparte instrucciones sobre las modificaciones introducidas por los números 1 y 2 del artículo 6 de la Ley N° 21.420, a los artículos 2° N° 2°) y 12 letra E de la Ley sobre Impuesto a las Ventas y Servicios. Modifica el segundo párrafo d…
+ción Normativa. del 2022 Imparte instrucciones sobre las modificaciones introducidas por los números 1 y 2 del artículo 6 de la Ley N° 21.420, a los artículos 2° N° 2°) y 12 letra E de la Ley sobre Impuesto a las Ventas y Servicios. Modifica el segundo párrafo del N° 3 de la letra B del Título II de la Circular N° 21 de 1991, en la forma que indica. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

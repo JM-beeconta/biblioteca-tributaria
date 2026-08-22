@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nformación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 16 del 11 de Marzo del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2021 y el 9 de abril de 2021, ambos inclusive. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas abril 2021. Fuente: Subdirección de Fiscalización. Circular N° 14 del 03 de Marzo del 2021 Nuevas escalas y tasas para la determinación de los impuest…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas abril 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

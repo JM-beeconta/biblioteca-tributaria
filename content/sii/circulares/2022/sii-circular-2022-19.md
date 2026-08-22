@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2022
-- Fecha: 2022-04-21
+- Fecha: 2022-04-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu19.pdf
 - Hash SHA-256: ddc8b37179f7c92c9f2465080ca1c3019ec768bd5b3eeef9644965e26360aa01
 
 ## Resumen
 
->Fuente: Impuestos Directos. Circular N° 20 del 21 de Abril del 2022 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. Fuente: Departamento de Técnica Tributaria del 2022 Imparte instrucciones sobre las modificaciones al artículo 21 y 70 de la Ley sobre Impuesto a las Ventas y Servicios introducidas por el artículo 4 de la Ley N° 21.398, que establece medidas para incentivar la protección de los derechos de lo…
+Tributaria del 2022 Imparte instrucciones sobre las modificaciones al artículo 21 y 70 de la Ley sobre Impuesto a las Ventas y Servicios introducidas por el artículo 4 de la Ley N° 21.398, que establece medidas para incentivar la protección de los derechos de los consumidores. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

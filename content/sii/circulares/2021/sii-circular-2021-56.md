@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s, intereses y multas noviembre 2021. Fuente: Subdirección de Fiscalización. Circular N° 57 del 13 de Octubre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2021 y el 9 de noviembre de 2021, ambos inclusive. Fuente: Subdirección Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 55 del 08 de Octubre del…
+uente: Subdirección Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

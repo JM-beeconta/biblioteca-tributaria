@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 2 del 11 de Enero del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2022 y el 9 de febrero de 2022, ambos inclusive. Fuente: Subdirección Normativa. function ir_anyo() { var anyo = $('select#sel_anyo').val() if…
+ción Normativa. 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2022 y el 9 de febrero de 2022, ambos inclusive. Fuente: Subdirección Normativa. function ir_anyo() { var anyo = $('select#sel_anyo').val() if (anyo == 'ANTERIORES') { window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2022');
 
 ## Referencias detectadas
 

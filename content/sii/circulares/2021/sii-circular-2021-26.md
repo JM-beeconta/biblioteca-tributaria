@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2021
-- Fecha: 2021-05-10
+- Fecha: 2021-04-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu26.pdf
 - Hash SHA-256: 9ee2c50f504b448a313bc254a23ccf781d176e267debdb787b13b2d27b2be6ed
 
 ## Resumen
 
-s comprendidos entre el 10 de mayo de 2021 y el 9 de junio de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 27 del 10 de Mayo del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Imparte instrucciones sobre diversas modificaciones incorporadas por la Ley N° 21.210, de 24 de febrero de 2020, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Sub…
+ente: Subdirección Normativa. Imparte instrucciones sobre diversas modificaciones incorporadas por la Ley N° 21.210, de 24 de febrero de 2020, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

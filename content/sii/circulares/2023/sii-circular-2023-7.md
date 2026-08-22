@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 8 del 09 de Febrero del 2023 Tablas de impuesto único de segunda categoría para el mes de marzo de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2023 y el 09 de marzo de 2023, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 6 del 09 de Febrero del 2023 Reitera instrucc…
+ción Normativa. del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2023 y el 09 de marzo de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

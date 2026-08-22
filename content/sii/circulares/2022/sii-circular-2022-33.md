@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2022
-- Fecha: 2022-08-04
+- Fecha: 2022-07-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu33.pdf
 - Hash SHA-256: 02c018f3ba84d233db2bd8506856e4f49198a69ba75900fba88cdc2cf7172acb
 
 ## Resumen
 
-04 de Agosto del 2022 Imparte instrucciones acerca de nuevas sanciones aplicables a los delitos de comercio ilegal que sanciona el N° 8 del artículo 97 del Código Tributario y de ejercicio clandestino del comercio o la industria, que tipifica el N° 9 de la misma disposición. Fuente: Departamento de asesoría jurídica del 2022 Tabla de cálculos de reajustes, intereses y multas agosto 2022. Fuente: Subdirección de Fiscalización. Circular N° 32 del 11 de Julio del 2022 Tablas de Impuesto Único de Segunda Categoría par…
+jurídica del 2022 Tabla de cálculos de reajustes, intereses y multas agosto 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

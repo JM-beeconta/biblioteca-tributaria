@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2024
-- Fecha: 2024-12-27
+- Fecha: 2024-12-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu53.pdf
 - Hash SHA-256: fb63b58c2d8176ed8d50632385ec3fa1a7d2e95df0af6744530db635ae909da2
 
 ## Resumen
 
-ionsYears(0) Años Anteriores Circular N° 54 del 27 de Diciembre del 2024 Informa tabla de cálculos de reajustes y multas para el mes de enero 2025. Fuente: Subdirección de Fiscalización. Imparte instrucciones en materias tributarias sobre el régimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.681; y las donaciones efectuadas en confo…
+ción de Fiscalización. Imparte instrucciones en materias tributarias sobre el régimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.681; y las donaciones efectuadas en conformidad con lo dispuesto en el artículo 68 de la Ley N° 19.300. Modifica Circular N° 24 de 1993 y deja sin efecto Circular N° 49 de 2022. Fuente: Subdirección Normat…
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de 1993 y deja sin efecto Circular N° 49 de 2022. Fuente: Subdirección Normativa Circular N° 52 del 09 de Diciembre del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2024 y el 9 de enero de 2025, ambos inclusive Fuente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de enero de 2025 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa Circular N° 50 del 28 de Noviembre del…
+uente: Subdirección Normativa Tablas de impuesto único de segunda categoría para el mes de enero de 2025 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

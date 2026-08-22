@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2022
-- Fecha: 2022-05-06
+- Fecha: 2022-04-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu21.pdf
 - Hash SHA-256: 9128d242b13f2acc39a5df507680203e62e523d68f1f023278afa582e778fc0e
 
 ## Resumen
 
-om:0px;'> Circular N° 22 del 06 de Mayo del 2022 Imparte instrucciones sobre modificaciones introducidas por las Leyes N° 21.210 y N° 21.420 en materia de &ldquo;viviendas económicas&rdquo; y sobretasa. Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. Fuente: Subdirección de Avaluaciones. del 2022 Tratamiento tributario de seguros de vida con ahorro. Fuente: Impuestos Directos. Circular N° 20 del 21 de Abril del 2022 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a…
+Avaluaciones. del 2022 Tratamiento tributario de seguros de vida con ahorro. Fuente: Impuestos Directos.
 
 ## Referencias detectadas
 

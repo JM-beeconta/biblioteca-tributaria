@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2023
-- Fecha: 2023-02-09
+- Fecha: 2023-01-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu5.pdf
 - Hash SHA-256: 6e20ad1b221d9ff2c5ecb7e32b994ad9959c06ea8983ec42f45fbafd3adc5c78
 
 ## Resumen
 
-bos inclusive. Fuente: Subdirección Normativa. Circular N° 6 del 09 de Febrero del 2023 Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes. Fuente: Impuestos Directos del 12 de Enero del 2023 Imparte instrucciones sobre nuevo artículo 37 bis de la Ley sobre Impuesto a la Renta, incorporado por la Ley N° 21.420. Fuente: Subdirección Normativa. Circular N° 4 del 11 de Enero del 2023 Tabla de cálculos de reajustes, intereses y multas febrero 2023. Fue…
+te: Impuestos Directos del 12 de Enero del 2023 Imparte instrucciones sobre nuevo artículo 37 bis de la Ley sobre Impuesto a la Renta, incorporado por la Ley N° 21.420. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

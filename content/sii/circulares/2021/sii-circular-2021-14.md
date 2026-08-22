@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2021
-- Fecha: 2021-03-10
+- Fecha: 2021-03-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu14.pdf
 - Hash SHA-256: 130dbde45273a61a197a7b76988da335115b7745e272fa35b32e3c42774a059f
 
 ## Resumen
 
-dito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2021 y el 9 de abril de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 15 del 11 de Marzo del 2021 Tabla de cálculos de reajustes, intereses y multas abril 2021. Fuente: Subdirección de Fiscalización. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente:…
+ción de Fiscalización. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

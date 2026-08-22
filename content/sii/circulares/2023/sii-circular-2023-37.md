@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:0px;'> Circular N° 38 del 06 de Septiembre del 2023 Modifica Circular N° 57 de 2022, que imparte instrucciones sobre el impuesto establecido en el artículo 9 de la Ley N° 21.420, en la parte relativa a la exención que beneficia a bienes de empresas. Fuente: Subdirección de Avaluaciones. Septiembre del 2023 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.558 a las normas transitorias de la Ley N° 21.420, vinculadas a la eliminación del artículo 21 del Decreto Ley N° 910 de 1975. Dej…
+Avaluaciones. Septiembre del 2023 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.558 a las normas transitorias de la Ley N° 21.420, vinculadas a la eliminación del artículo 21 del Decreto Ley N° 910 de 1975. Deja sin efecto la Circular N° 43 de 2022. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

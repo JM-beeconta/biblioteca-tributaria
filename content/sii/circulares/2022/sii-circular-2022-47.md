@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Circular N° 48 del 12 de Octubre del 2022 Instruye sobre las multas aplicables al incumplimiento de informar inversiones en el exterior y sus rentas, conforme a lo dispuesto en la Ley sobre Impuesto a la Renta y Código Tributario. Fuente: Subdirección de Fiscalización. del 2022 Imparte instrucciones acerca de las modificaciones introducidas al Código Tributario por la Ley N° 21.453, obligando a inversionistas, bancos y otras instituciones financieras que se indican a entregar, anualmente, al Servicio de Impuesto…
+Fiscalización. del 2022 Imparte instrucciones acerca de las modificaciones introducidas al Código Tributario por la Ley N° 21.453, obligando a inversionistas, bancos y otras instituciones financieras que se indican a entregar, anualmente, al Servicio de Impuestos Internos, información sobre inversiones, saldos y sumas de abonos en cuentas financieras. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

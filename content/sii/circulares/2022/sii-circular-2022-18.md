@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2022
-- Fecha: 2022-04-19
+- Fecha: 2022-04-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu18.pdf
 - Hash SHA-256: fefc83e953d8f2cae6c198e228358070a5f261f323746a1385efd7df1483986e
 
 ## Resumen
 
-target='_blank'>Circular N° 19 del 19 de Abril del 2022 Imparte instrucciones sobre las modificaciones al artículo 21 y 70 de la Ley sobre Impuesto a las Ventas y Servicios introducidas por el artículo 4 de la Ley N° 21.398, que establece medidas para incentivar la protección de los derechos de los consumidores. Fuente: Subdirección Normativa. del 2022 Tabla de cálculos de reajustes, intereses y multas mayo 2022. Fuente: Subdirección de Fiscalización. Circular N° 17 del 12 de Abril del 2022 Operaciones de crédito…
+ción Normativa. del 2022 Tabla de cálculos de reajustes, intereses y multas mayo 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

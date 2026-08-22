@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2022
-- Fecha: 2022-08-22
+- Fecha: 2022-08-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu37.pdf
 - Hash SHA-256: f8e88084f4daa0066a854fd6ae0e65992c1632735f61915f14932cec18d036b8
 
 ## Resumen
 
-N° 44 de 2021. Fuente: Subdirección Normativa. Circular N° 38 del 22 de Agosto del 2022 Tabla de cálculos de reajustes, intereses y multas septiembre 2022. Fuente: Subdirección de Fiscalización. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 36 del 10 de Agosto del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de a…
+Fiscalización. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2022
-- Fecha: 2022-02-21
+- Fecha: 2022-02-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu8.pdf
 - Hash SHA-256: 3f82a6f9d38c1568090e645d8862a4a11837b9b78c6843099ce140b35ab434d0
 
 ## Resumen
 
-tiva. Circular N° 9 del 21 de Febrero del 2022 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. del 2022 Tabla de cálculos de reajustes, intereses y multas marzo 2022. Fuente: Subdirección de Fiscalización. Circular N° 7 del 09 de Febrero del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos…
+ción Normativa. del 2022 Tabla de cálculos de reajustes, intereses y multas marzo 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2023
-- Fecha: 2023-04-13
+- Fecha: 2023-04-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu17.pdf
 - Hash SHA-256: 257e766f191ec68091a3ee5d5783f77b354f83f97a8598bc0d3b36c3a6885eca
 
 ## Resumen
 
-ional suscritos por Chile. Fuente: Subdirección Normativa. Circular N° 18 del 13 de Abril del 2023 Tabla de cálculos de reajustes, intereses y multas mayo 2023. Fuente: Subdirección de Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de mayo de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 16 del 10 de Abril del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abr…
+Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de mayo de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

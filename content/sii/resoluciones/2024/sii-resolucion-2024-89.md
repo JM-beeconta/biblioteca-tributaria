@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Dirección Nacional Designa secretaria titular y suplente en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de La Serena Fuente: Subdirección Jurídica.
+Fuente: Dirección Nacional Designa secretaria titular y suplente en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de La Serena Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2021
-- Fecha: 2021-02-10
+- Fecha: 2021-01-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu7.pdf
 - Hash SHA-256: e62bbfdcd1e5458a17ff2bd7c9ccb09878a262ea59d44b57035fb2b602fa5484
 
 ## Resumen
 
-reajustes, intereses y multas marzo 2021. Fuente: Subdirección de Fiscalización. Circular N° 8 del 10 de Febrero del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2021 y el 9 de marzo de 2021, ambos inclusive. Fuente: Subdirección Normativa. Imparte instrucciones sobre tasa de pagos provisionales mensuales obligatorios (PPMO) que deben aplicar durante los meses de abril de 2020 a marzo del 2021, los contribuyentes del IDPC que se encontrab…
+ente: Subdirección Normativa. Imparte instrucciones sobre tasa de pagos provisionales mensuales obligatorios (PPMO) que deben aplicar durante los meses de abril de 2020 a marzo del 2021, los contribuyentes del IDPC que se encontraban sujetos al régimen de renta atribuida, sobre el recálculo voluntario del PPMO de acuerdo al nuevo inciso final de la letra a) del inciso primero del artículo 84 y otras modificaciones que afectaron al inciso final del artículo 84 y al artículo 86 de la Ley sobre Impuesto a la Renta tr…
 
 ## Referencias detectadas
 

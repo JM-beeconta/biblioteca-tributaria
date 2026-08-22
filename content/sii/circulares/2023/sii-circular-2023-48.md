@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2023
-- Fecha: 2023-11-13
+- Fecha: 2023-11-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu48.pdf
 - Hash SHA-256: b7d9252b10651ce91885c218bd05198a437c4b10eb8b8043623dd42d91e264f3
 
 ## Resumen
 
-Fuente: Subdirección Jurídica. Circular N° 49 del 13 de Noviembre del 2023 Tabla de cálculos de reajustes, intereses y multas diciembre 2023. Fuente: Subdirección de Fiscalización. Noviembre del 2023 Tablas de impuesto único de segunda categoría para el mes de diciembre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 47 del 10 de Noviembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de nov…
+Fiscalización. Noviembre del 2023 Tablas de impuesto único de segunda categoría para el mes de diciembre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

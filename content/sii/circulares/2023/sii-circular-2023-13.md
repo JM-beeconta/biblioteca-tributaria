@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2023
-- Fecha: 2023-03-27
+- Fecha: 2023-03-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu13.pdf
 - Hash SHA-256: 0760ccd720c828d60e88144de6fd4bf254e7b633b66475e4bacc7509fdbf20fa
 
 ## Resumen
 
-cute;n Normativa. Circular N° 14 del 27 de Marzo del 2023 Imparte instrucciones sobre derogación del artículo 37 bis de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° enero de 2023. Deja sin efecto la Circular N° 5 de 2023. Fuente: Subdirección Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas abril 2023. Fuente: Subdirección de Fiscalización. Circular N° 12 del 09 de Marzo del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre…
+ción Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas abril 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

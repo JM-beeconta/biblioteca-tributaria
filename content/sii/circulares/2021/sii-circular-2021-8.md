@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 9 del 10 de Febrero del 2021 Tabla de cálculos de reajustes, intereses y multas marzo 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2021 y el 9 de marzo de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 7 del 2…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2021 y el 9 de marzo de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

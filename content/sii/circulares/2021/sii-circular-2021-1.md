@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2021
-- Fecha: 2021-01-12
+- Fecha: 2021-01-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu1.pdf
 - Hash SHA-256: 5d9b1c36364b50e52fd19157e14d21223d603585bebb9f1e619e41a77db22fd7
 
 ## Resumen
 
-nformación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 2 del 12 de Enero del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2021 y el 9 de febrero de 2021, ambos inclusive. Fuente: Subdirección Normativa. Imparte instrucciones sobre la tributación del retiro único y extraordinario de fondos previsionales, establecido en la Ley N° 21.295 Fuente: Subdirección Normativa. function ir_anyo(){ var anyo = $('…
+ente: Subdirección Normativa. Imparte instrucciones sobre la tributación del retiro único y extraordinario de fondos previsionales, establecido en la Ley N° 21.295 Fuente: Subdirección Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2021'); }else{ $(location).attr('href', '../' + anyo + '/indcir' + anyo + '.htm'); } } $(document).ready(function(){ $('selec…
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Circular N° 20 del 01 de Abril del 2021 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, al numeral 4° del artículo 40 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Instruye sobre la imputación de pérdidas a las rentas o cantidades que perciban a título de retiros o dividendos afectos a impuestos finales, durante los años comerciales 2020 al 2023. Fuente: Subdirecci…
+ente: Subdirección Normativa. Instruye sobre la imputación de pérdidas a las rentas o cantidades que perciban a título de retiros o dividendos afectos a impuestos finales, durante los años comerciales 2020 al 2023. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

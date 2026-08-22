@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2024
-- Fecha: 2024-05-10
+- Fecha: 2024-04-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu18.pdf
 - Hash SHA-256: 65acc9b255844cc7bee843643daf26da19341d6483a4416bdb7a7d05d15b3bab
 
 ## Resumen
 
-información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 19 del 10 de Mayo del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2024 y el 9 de junio de 2024, ambos inclusive. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas mayo 2024. Fuente: Subdirección de Fiscalización. Circular N° 17 del 09 de Abril del 2024 Tablas de impuesto único de segunda categoría para el mes de…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas mayo 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

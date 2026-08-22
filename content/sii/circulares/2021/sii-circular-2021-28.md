@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 28
 - Año: 2021
-- Fecha: 2021-05-11
+- Fecha: 2021-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu28.pdf
 - Hash SHA-256: 32e6bdaf4248e2a4688c9cde07617bbdeac7221b01c9c53b2985c2a90b23d3a3
 
 ## Resumen
 
-s Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2021. Fuente: Subdirección de Fiscalización. Circular N° 29 del 11 de Mayo del 2021 Tabla de cálculos de reajustes, intereses Y multas junio 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2021 y el 9 de junio de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 27 del 10 d…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2021 y el 9 de junio de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

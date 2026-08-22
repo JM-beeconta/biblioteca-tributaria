@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2024
-- Fecha: 2024-12-09
+- Fecha: 2024-10-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu45.pdf
 - Hash SHA-256: 321798bb300791b20ab79b6b541f6140d8861175d89c82854f42786be1081b45
 
 ## Resumen
 
-mbre de 2024 y el 9 de diciembre de 2024, ambos inclusive. Fuente: Subdirección Normativa Circular N° 46 del 11 de Noviembre del 2024 Tablas de impuesto único de segunda categoría para el mes de diciembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Informa entrada en vigencia de diversas modificaciones introducidas por la Ley N° 21.713. Fuente: Subdirección Normativa Circular N° 44 del 10 de Octubre del 2024 Tabla de cálculos de reajustes, intereses y multas noviem…
+uente: Subdirección Normativa Informa entrada en vigencia de diversas modificaciones introducidas por la Ley N° 21.713. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 54
 - Año: 2021
-- Fecha: 2021-10-08
+- Fecha: 2021-09-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu54.pdf
 - Hash SHA-256: b19dccb5936113b3ce39d8aa6fc3dc41712bb38dd87b0bf8184a43f71953ccbe
 
 ## Resumen
 
-de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 55 del 08 de Octubre del 2021 Imparte instrucciones sobre la contribución para el desarrollo regional introducida por el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección Normativa. Imparte instrucciones sobre la modificación al artículo 35 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210. Fuente: Subdirección Normativa Cir…
+ente: Subdirección Normativa. Imparte instrucciones sobre la modificación al artículo 35 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección Normativa. Circular N° 7 del 09 de Febrero del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2023 y el 09 de marzo de 2023, ambos inclusive. Fuente: Subdirección Normativa. del 2023 Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes. Fuente: Impuestos Directos Circular N° 5 del 12 de Enero del 2023 Imparte instrucciones sobre nuevo artículo 37 bis de…
+ción Normativa. del 2023 Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

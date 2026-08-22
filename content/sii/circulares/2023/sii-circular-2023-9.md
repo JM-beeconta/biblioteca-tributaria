@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2023
-- Fecha: 2023-02-23
+- Fecha: 2023-02-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu9.pdf
 - Hash SHA-256: 5bc3c62d1b5e32b8f8462af527c1c923bcdedc31d85bf9e67fecc633b4e4f5e9
 
 ## Resumen
 
-tiva. Circular N° 10 del 23 de Febrero del 2023 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta Fuente: Subdirección Normativa. del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Marzo 2023. Fuente: Subdirección de Fiscalización. Circular N° 8 del 09 de Febrero del 2023 Tablas de impuesto único de segunda categoría para el mes de marzo de 2023 e información ad…
+ción Normativa. del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Marzo 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

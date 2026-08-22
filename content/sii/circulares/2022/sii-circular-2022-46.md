@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Imparte instrucciones acerca de las modificaciones introducidas al Código Tributario por la Ley N° 21.453, obligando a inversionistas, bancos y otras instituciones financieras que se indican a entregar, anualmente, al Servicio de Impuestos Internos, información sobre inversiones, saldos y sumas de abonos en cuentas financieras. Fuente: Subdirección Jurídica. del 2022 Tabla de cálculos de reajustes, intereses y multas noviembre 2022. Fuente: Subdirección de Fiscalización. Circular N° 45 del 12 de Octubre del 2022 T…
+Jurídica. del 2022 Tabla de cálculos de reajustes, intereses y multas noviembre 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

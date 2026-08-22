@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 41
 - Año: 2024
-- Fecha: 2024-10-10
+- Fecha: 2024-09-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu41.pdf
 - Hash SHA-256: fc6469266f128ee86a3f68d30104b77289d88cbb903dcd1f5b027a5dc3614d6f
 
 ## Resumen
 
-entre el 10 de octubre de 2024 y el 9 de noviembre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 42 del 10 de Octubre del 2024 Tablas de impuesto único de segunda categoría para el mes de noviembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas octubre 2024. Fuente: Subdirección Normativa. Circular N° 40 del 11 de Septiembre del 2024 Tablas de impuesto único de segunda categoría para el mes de…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas octubre 2024. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

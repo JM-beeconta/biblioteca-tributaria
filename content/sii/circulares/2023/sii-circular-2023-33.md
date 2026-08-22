@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2023
-- Fecha: 2023-08-11
+- Fecha: 2023-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu33.pdf
 - Hash SHA-256: 310e31cf9244382a965d8132abfc0f8e5e0dce6b1fd7f495216ffce0ff8d1f82
 
 ## Resumen
 
-tyle='margin-bottom:0px;'> Circular N° 34 del 11 de Agosto del 2023 Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2023 y el 9 de septiembre de 2023, ambos inclusive. Fuente: Subdire…
+ción Normativa. del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2023 y el 9 de septiembre de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:0px;'> Circular N° 35 del 04 de Agosto del 2022 Imparte instrucciones acerca del cumplimiento del deber de mantener la reserva de la información que el Servicio recopila respecto de los contribuyentes. Deja sin efecto la Circular N°43, de 1998 y sus modificaciones. Fuente: Departamento de Asesoría Jurídica del 2022 Imparte instrucciones acerca de nuevas sanciones aplicables a los delitos de comercio ilegal que sanciona el N° 8 del artículo 97 del Código Tributario y de ejercicio clandestino del comercio o la…
+Jurídica del 2022 Imparte instrucciones acerca de nuevas sanciones aplicables a los delitos de comercio ilegal que sanciona el N° 8 del artículo 97 del Código Tributario y de ejercicio clandestino del comercio o la industria, que tipifica el N° 9 de la misma disposición. Fuente: Departamento de asesoría jurídica
 
 ## Referencias detectadas
 

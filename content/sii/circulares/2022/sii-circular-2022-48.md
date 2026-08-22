@@ -11,7 +11,7 @@
 
 ## Resumen
 
-égimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.681; y las donaciones efectuadas en conformidad con lo dispuesto en el artículo 68 de la Ley N° 19.300. Modifica Circular N° 24 de 1993. Fuente: Subdirección Normativa del 2022 Instruye sobre las multas aplicables al incumplimiento de informar inversiones en el exterior y sus rentas,…
+cción Normativa del 2022 Instruye sobre las multas aplicables al incumplimiento de informar inversiones en el exterior y sus rentas, conforme a lo dispuesto en la Ley sobre Impuesto a la Renta y Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tabla de cálculos de reajustes, intereses y multas marzo 2024. Fuente: Subdirección de Fiscalización. Circular N° 8 del 09 de Febrero del 2024 Tablas de impuesto único de segunda categoría para el mes de marzo de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2024 y el 9 de marzo de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 6 del…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2024 y el 9 de marzo de 2024, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

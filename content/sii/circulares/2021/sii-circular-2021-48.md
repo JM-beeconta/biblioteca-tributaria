@@ -11,7 +11,7 @@
 
 ## Resumen
 
-intereses Y multas septiembre 2021. Fuente: Subdirección de Fiscalización. Circular N° 49 del 10 de Agosto del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2021 y el 9 de septiembre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2021 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa. Circular N° 47 del 03 de Agosto del 2…
+ente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2021 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

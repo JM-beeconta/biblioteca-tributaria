@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2023
-- Fecha: 2023-10-13
+- Fecha: 2023-10-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu45.pdf
 - Hash SHA-256: b07d311173c0f709ee5645758d319fea32187837df9af94b0b7330652e34322e
 
 ## Resumen
 
-cción Normativa. Circular N° 46 del 13 de Octubre del 2023 Imparte instrucciones sobre los efectos tributarios del artículo 64 bis de la Ley N° 20.998, incorporado por la Ley N° 21.581 y que exime de IVA a los servicios sanitarios rurales. Fuente: Subdirección Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas noviembre 2023. Fuente: Subdirección de Fiscalización. Circular N° 44 del 11 de Octubre del 2023 Tablas de impuesto único de segunda categoría para el mes de noviembre de 2023 e informaci…
+ción Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas noviembre 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

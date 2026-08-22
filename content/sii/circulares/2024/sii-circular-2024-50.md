@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2024
-- Fecha: 2024-12-00
+- Fecha: 2024-11-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu50.pdf
 - Hash SHA-256: cfe4f9f3033a4885c41aba7a8362c2e480172cafcd9521ca55a588edc3924be0
 
 ## Resumen
 
-0 de diciembre de 2024 y el 9 de enero de 2025, ambos inclusive Fuente: Subdirección Normativa Circular N° 51 del 09 de Diciembre del 2024 Tablas de impuesto único de segunda categoría para el mes de enero de 2025 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 9 de la Ley N° 21.420. Deja sin efecto las Circulares N° 57 de 2022 y N° 38 de 2023. Fuente: Subdirección Normativa Circular N°…
+uente: Subdirección Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 9 de la Ley N° 21.420. Deja sin efecto las Circulares N° 57 de 2022 y N° 38 de 2023. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

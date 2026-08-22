@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s e incorpora nuevo régimen de amortización de activos intangibles. Fuente: Subdirección Normativa Circular N° 10 del 10 de Febrero del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas marzo 2021. Fuente: Subdirección de Fiscalización. Circular N° 8 del 10 de Febrero del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas marzo 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2024
-- Fecha: 2024-05-23
+- Fecha: 2024-05-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu22.pdf
 - Hash SHA-256: 3f9687b53901aaf9f5b8d5df0a883b403ffb7ada081ca048fd436d87c38ab00e
 
 ## Resumen
 
-Internos. Fuente: Subdirección Jurídica. Circular N° 23 del 23 de Mayo del 2024 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2024. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.622 a la Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985. Fuente: Impuestos Indirectos Circular N°…
+ción de Fiscalización. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.622 a la Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

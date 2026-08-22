@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2022
-- Fecha: 2022-12-09
+- Fecha: 2022-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu53.pdf
 - Hash SHA-256: 22c45a6b095ae5c94c4a0ebbb0f188929d101ce3a766820f572c1b0f6c48c487
 
 ## Resumen
 
-uente: Subdirección Normativa. Circular N° 54 del 09 de Diciembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2022 y el 9 de enero de 2023, ambos inclusive. Fuente: Subdirección Normativa. Noviembre del 2022 Tabla de cálculos de reajustes, intereses y multas diciembre 2022. Fuente: Subdirección de Fiscalización. Circular N° 52 del 09 de Noviembre del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 202…
+ción Normativa. Noviembre del 2022 Tabla de cálculos de reajustes, intereses y multas diciembre 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

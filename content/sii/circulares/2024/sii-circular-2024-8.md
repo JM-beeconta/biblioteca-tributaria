@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2024
-- Fecha: 2024-02-15
+- Fecha: 2024-02-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu8.pdf
 - Hash SHA-256: 5f808b51649547c1d4183cb08ff0e84fc41248c32ee2226e22bd7163de72bc58
 
 ## Resumen
 
-stos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Circular N° 9 del 15 de Febrero del 2024 Tabla de cálculos de reajustes, intereses y multas marzo 2024. Fuente: Subdirección de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de marzo de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 7 del 09 de Febrero del 2024 O…
+ción de Fiscalización. Tablas de impuesto único de segunda categoría para el mes de marzo de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

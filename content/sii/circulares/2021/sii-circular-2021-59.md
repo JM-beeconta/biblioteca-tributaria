@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 59
 - Año: 2021
-- Fecha: 2021-11-10
+- Fecha: 2021-10-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu59.pdf
 - Hash SHA-256: fe65556830b4cc5d5005472f46d9d931c16d92adbdca684878f3844f4a8e2b5b
 
 ## Resumen
 
-e el 10 de noviembre de 2021 y el 9 de diciembre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 60 del 10 de Noviembre del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2021, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa Circular N° 58 del 14 de Octubre del 2021 Tabla de cálculos de reajustes, intereses y mul…
+ente: Subdirección Normativa. Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

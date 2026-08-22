@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> FIJA NÓMINA DE GRANDES CONTRIBUYENTES Fuente: Dirección de Grandes Contribuyentes.
+FIJA NÓMINA DE GRANDES CONTRIBUYENTES Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

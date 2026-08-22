@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2022
-- Fecha: 2022-07-05
+- Fecha: 2022-06-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu29.pdf
 - Hash SHA-256: 510b8b59cd811b51ccf0fefd206d49b69cc3b5756d33654bcd2b04e7ebfe7e51
 
 ## Resumen
 
-Circular N° 30 del 05 de Julio del 2022 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2022. Fuente: Subdirección de Fiscalización del 2022 Instruye Sobre Sanciones Del N°6 Del Artículo 41 E De La Ley Sobre Impuesto A La Renta (LIR), Por La No Presentación De Las Declaraciones Juradas A Que Se Refiere Dicha Norma, O Su Presentación Errónea, Incompleta, Extemporánea, O Maliciosamente Fa…
+Fiscalización del 2022 Instruye Sobre Sanciones Del N°6 Del Artículo 41 E De La Ley Sobre Impuesto A La Renta (LIR), Por La No Presentación De Las Declaraciones Juradas A Que Se Refiere Dicha Norma, O Su Presentación Errónea, Incompleta, Extemporánea, O Maliciosamente Falsa. Deja Sin Efecto La Circular N° 32 De 2021 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

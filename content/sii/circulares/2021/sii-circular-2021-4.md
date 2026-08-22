@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2021
-- Fecha: 2021-01-14
+- Fecha: 2021-01-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu4.pdf
 - Hash SHA-256: 445a2fa0cfb0880228a515fe290fb174f63c2a6ae17c303697bb4c381e41814b
 
 ## Resumen
 
-;margin-bottom:0px;'>Informa nuevos límites máximos imponibles para efectos previsionales, vigentes para el año calendario 2021. Fuente: Subdirección Normativa. Circular N° 5 del 14 de Enero del 2021 Tabla de cálculos de reajustes, intereses y multas febrero 2021. Fuente: Subdirección de Fiscalización. Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y t…
+ción de Fiscalización. Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2021. Reemplaza tabla incluida en la página 48 de la Circular N° 73 de 2020. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

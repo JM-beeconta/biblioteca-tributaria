@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2023
-- Fecha: 2023-04-19
+- Fecha: 2023-04-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu18.pdf
 - Hash SHA-256: 2cf4feec8b821f4f06075af0065bd9f870811879ef11562c9eff9cf9282067b9
 
 ## Resumen
 
-t='_blank'>Circular N° 19 del 19 de Abril del 2023 Modifica Circular N° 13 de 2022, que imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile. Fuente: Subdirección Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas mayo 2023. Fuente: Subdirección de Fiscalización. Circular N° 17 del 10 de Abril del 2023 Tablas de impue…
+ción Normativa. del 2023 Tabla de cálculos de reajustes, intereses y multas mayo 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

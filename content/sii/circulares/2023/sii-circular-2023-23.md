@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2023
-- Fecha: 2023-06-08
+- Fecha: 2023-05-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu23.pdf
 - Hash SHA-256: 73ac6c12e663066f98f51d8b927af4fc005e4e91ea6f3dfed83aae1fa75c10e8
 
 ## Resumen
 
-dirección Normativa. Circular N° 24 del 08 de Junio del 2023 Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.484, de responsabilidad parental y pago efectivo de deudas de pensiones de alimentos. Fuente: Subdirección Normativa. 2023 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2023. Fuente: Subdirección de Fiscalización. Circula…
+ción Normativa. 2023 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

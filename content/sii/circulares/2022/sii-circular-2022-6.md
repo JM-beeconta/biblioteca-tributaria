@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Fiscalización. Circular N° 7 del 09 de Febrero del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2022 y el 9 de marzo de 2022, ambos inclusive. Fuente: Subdirección Normativa del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2022 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Circular N° 5 del 19 de Enero del 2022 Informa datos relacionados con la aplicación del sistema…
+cción Normativa del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2022 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

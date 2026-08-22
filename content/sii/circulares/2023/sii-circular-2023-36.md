@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2023
-- Fecha: 2023-09-06
+- Fecha: 2023-08-31
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu36.pdf
 - Hash SHA-256: 1b76f6eac92a60e98d4703bf781615d79f0bf14be891546f68924b5130497cc4
 
 ## Resumen
 
-ircu37.pdf' target='_blank'>Circular N° 37 del 06 de Septiembre del 2023 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.558 a las normas transitorias de la Ley N° 21.420, vinculadas a la eliminación del artículo 21 del Decreto Ley N° 910 de 1975. Deja sin efecto la Circular N° 43 de 2022. Fuente: Impuestos Indirectos del 2023 Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.564, que deroga la Ley N° 8.834, y regula beneficios para…
+: Impuestos Indirectos del 2023 Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.564, que deroga la Ley N° 8.834, y regula beneficios para promover la realización en Chile de eventos deportivos oficiales de relevancia internacional. Se deja sin efecto Circular N° 106 de 1979. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

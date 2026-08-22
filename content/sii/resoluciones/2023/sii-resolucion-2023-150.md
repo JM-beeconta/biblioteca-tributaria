@@ -11,7 +11,7 @@
 
 ## Resumen
 
-9"> Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el Reavalúo de los bienes raíces de la primera serie agrícola Fuente: Subdirección de Avaluaciones.
+Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el Reavalúo de los bienes raíces de la primera serie agrícola Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

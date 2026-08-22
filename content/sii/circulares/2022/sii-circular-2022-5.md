@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2022
-- Fecha: 2022-02-09
+- Fecha: 2022-01-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu5.pdf
 - Hash SHA-256: 50343e7ffc72017d594d7fec0957575be8c8c83b4b06bac6a9ba8df9ccb15d99
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 6 del 09 de Febrero del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2022 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa 2022 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto…
+cción Normativa 2022 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2022. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

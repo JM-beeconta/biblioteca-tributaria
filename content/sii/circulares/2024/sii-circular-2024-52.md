@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te instrucciones en materias tributarias sobre el régimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.681; y las donaciones efectuadas en conformidad con lo dispuesto en el artículo 68 de la Ley N° 19.300. Modifica Circular N° 24 de 1993 y deja sin efecto Circular N° 49 de 2022. Fuente: Subdirección Normativa Operaciones de crédito d…
+uente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2024 y el 9 de enero de 2025, ambos inclusive Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2024
-- Fecha: 2024-01-15
+- Fecha: 2024-01-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu3.pdf
 - Hash SHA-256: 6a9d808564ec11cff60c2a8c2f45c43ed014f9791621206defd7ee3e124867bb
 
 ## Resumen
 
-el registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2024. Fuente: Subdirección Normativa. Circular N° 4 del 15 de Enero del 2024 Tabla de cálculos de reajustes, intereses y multas febrero 2024. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre el impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley N° 21.647. Fuente: Subdirección Normativa. Circular N° 2 del 09 de Enero del 2024…
+ción de Fiscalización. Imparte instrucciones sobre el impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley N° 21.647. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

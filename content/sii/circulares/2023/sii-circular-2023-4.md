@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2023
-- Fecha: 2023-01-12
+- Fecha: 2023-01-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu4.pdf
 - Hash SHA-256: 6fd5f4ced49a8d835645ad13c5788a440edc42b32b0a2275ef330ba60554d174
 
 ## Resumen
 
-Fuente: Impuestos Directos Circular N° 5 del 12 de Enero del 2023 Imparte instrucciones sobre nuevo artículo 37 bis de la Ley sobre Impuesto a la Renta, incorporado por la Ley N° 21.420. Fuente: Subdirección Normativa. 2023 Tabla de cálculos de reajustes, intereses y multas febrero 2023. Fuente: Subdirección de Fiscalización. Circular N° 3 del 09 de Enero del 2023 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales…
+ción Normativa. 2023 Tabla de cálculos de reajustes, intereses y multas febrero 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

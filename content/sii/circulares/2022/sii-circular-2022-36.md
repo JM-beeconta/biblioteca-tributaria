@@ -11,7 +11,7 @@
 
 ## Resumen
 
-0px;'> Fuente: Subdirección de Fiscalización. Circular N° 37 del 10 de Agosto del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2022 y el 9 de septiembre de 2022, ambos inclusive Fuente: Subdirección Normativa Circular N° 35 del 04 de Agosto del 2022 Imparte instrucci…
+cción Normativa del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2022 y el 9 de septiembre de 2022, ambos inclusive Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

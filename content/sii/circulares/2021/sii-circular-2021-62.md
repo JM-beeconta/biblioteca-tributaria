@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 62
 - Año: 2021
-- Fecha: 2021-11-25
+- Fecha: 2021-11-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu62.pdf
 - Hash SHA-256: aed31dbde9bd80caaac2d710d6a043b0788dde2b995a50c2a8f72bcfc51a276e
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 63 del 25 de Noviembre del 2021 Imparte instrucciones sobre la definición de residente contenida en el N° 8° del artículo 8° del Código Tributario, reemplazada por la Ley N° 21.210 y sobre el concepto domicilio para fines tributarios. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas diciembre 2021. Fuente: Subdirección de Fiscalización. Circular N° 61 del 10 de Noviembre del 2021 Operaciones…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas diciembre 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

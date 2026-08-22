@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tereses y multas diciembre 2021. Fuente: Subdirección de Fiscalización. Circular N° 61 del 10 de Noviembre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2021 y el 9 de diciembre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2021, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 59 del 22 de Octubre d…
+ente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2021, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

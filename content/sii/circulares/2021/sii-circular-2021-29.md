@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2021
-- Fecha: 2021-05-19
+- Fecha: 2021-05-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu29.pdf
 - Hash SHA-256: be2a98e311037c4f9719c03fea12cd8fc8aaac6c95c11f7eb325c48346e45366
 
 ## Resumen
 
-eg; 44 de 2017. Fuente: Subdirección Normativa. Circular N° 30 del 19 de Mayo del 2021 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2021. Fuente: Subdirección de Fiscalización. Tabla de cálculos de reajustes, intereses Y multas junio 2021. Fuente: Subdirección de Fiscalización. Circular N° 28 del 10 de Mayo del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para…
+ción de Fiscalización. Tabla de cálculos de reajustes, intereses Y multas junio 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

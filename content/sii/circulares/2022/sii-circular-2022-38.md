@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:0px;'>Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a los artículos 17 N° 6, 33 bis, 107 y 110 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974. Modifica Circulares N° 7 de 2002, N° 68 de 2010, N° 10 de 2012, N° 67 y N° 71 de 2016, y N° 40, N° 43 y N° 44 de 2021. Fuente: Subdirección Normativa. del 2022 Tabla de cálculos de reajustes, intereses y multas septiembre 2022. Fuente: Subdirección de Fiscalización. Circular N° 37 del…
+ción Normativa. del 2022 Tabla de cálculos de reajustes, intereses y multas septiembre 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

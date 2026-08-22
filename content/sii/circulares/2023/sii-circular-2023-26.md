@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2023
-- Fecha: 2023-06-12
+- Fecha: 2023-06-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu26.pdf
 - Hash SHA-256: 280783ccd66b6a4919e593d4a23619d2a517174567d0142c6e57b40f350c4224
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección Normativa Oficina de Gestión Normativa Circular N° 27 del 12 de Junio del 2023 Tabla de cálculos de reajustes, intereses y multas julio 2023. Fuente: Subdirección de Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de julio de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 25 del 09 de Junio del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días compre…
+Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de julio de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

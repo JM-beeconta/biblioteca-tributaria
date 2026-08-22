@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 21 del 09 de Mayo del 2023 Tablas de impuesto único de segunda categoría para el mes de junio de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2023 y el 9 de junio de 2023, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 19 del 19 de Abril del 2023 Modifica Circular N° 13 de…
+ción Normativa. 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2023 y el 9 de junio de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

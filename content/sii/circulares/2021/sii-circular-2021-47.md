@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2021
-- Fecha: 2021-08-10
+- Fecha: 2021-08-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu47.pdf
 - Hash SHA-256: 3260786f9e37af738b755b59f80d458507f26fa4beff80a7a3f27157554499ed
 
 ## Resumen
 
-entre el 10 de agosto de 2021 y el 9 de septiembre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 48 del 10 de Agosto del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2021 e información adicional relacionada con dicho tributo Fuente: Subdirección Normativa. Modifica Circular N° 7 de 2018, que imparte instrucciones relativas a la aplicación de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (&ldquo;Convenc…
+ente: Subdirección Normativa. Modifica Circular N° 7 de 2018, que imparte instrucciones relativas a la aplicación de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (&ldquo;Convención de la Apostilla&rdquo;) en el caso que indica. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

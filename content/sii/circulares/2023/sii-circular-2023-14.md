@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2023
-- Fecha: 2023-04-06
+- Fecha: 2023-03-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu14.pdf
 - Hash SHA-256: 85e416a08597766a9d4dbf2cfa1a4e27ce19c682924476a2e90dd80de8c541cc
 
 ## Resumen
 
-a. Circular N° 15 del 06 de Abril del 2023 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2023, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. del 2023 Imparte instrucciones sobre derogación del artículo 37 bis de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° enero de 2023. Deja sin efecto la Circular N° 5 de 2023. Fuente: Subdirección Normativa. Circular N° 13 d…
+ción Normativa. del 2023 Imparte instrucciones sobre derogación del artículo 37 bis de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° enero de 2023. Deja sin efecto la Circular N° 5 de 2023. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

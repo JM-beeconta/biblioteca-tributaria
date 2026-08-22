@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2023
-- Fecha: 2023-02-10
+- Fecha: 2023-02-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu8.pdf
 - Hash SHA-256: cb90b89890dde5b0d9dd93c551276abb79b5635b777425601104c64174a9efa7
 
 ## Resumen
 
-sobre Impuesto a la Renta Fuente: Subdirección Normativa. Circular N° 9 del 10 de Febrero del 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Marzo 2023. Fuente: Subdirección de Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de marzo de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 7 del 09 de Febrero del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de…
+Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de marzo de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

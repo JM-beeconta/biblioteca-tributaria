@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2024
-- Fecha: 2024-07-12
+- Fecha: 2024-07-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu30.pdf
 - Hash SHA-256: 920633a956d122fffe948fe53f31de7d1918c362bae8f45f74ef9a24fa2bccae
 
 ## Resumen
 
-oral de impuesto de timbres y estampillas a los créditos con garantía hipotecaria establecida en el artículo 6° de la Ley N° 21.673. Fuente: Subdirección Normativa. Circular N° 31 del 12 de Julio del 2024 Suspende provisionalmente lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas agosto 2024. Fuente: Subdirección de Fiscalización. Circular N° 29 del 09 de Julio del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para l…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas agosto 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

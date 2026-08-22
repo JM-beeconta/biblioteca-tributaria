@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 63
 - Año: 2021
-- Fecha: 2021-12-09
+- Fecha: 2021-11-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu63.pdf
 - Hash SHA-256: d4ae4f8d364b66c5f558c819b232f878ea211d990f8d22cd0abfdef82cd940b2
 
 ## Resumen
 
-ón adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 64 del 09 de Diciembre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2021 y el 9 de enero de 2022, ambos inclusive. Fuente: Subdirección Normativa. Imparte instrucciones sobre la definición de residente contenida en el N° 8° del artículo 8° del Código Tributario, reemplazada por la Ley N° 21.210 y sobre el concepto domicilio para fines tributarios…
+ente: Subdirección Normativa. Imparte instrucciones sobre la definición de residente contenida en el N° 8° del artículo 8° del Código Tributario, reemplazada por la Ley N° 21.210 y sobre el concepto domicilio para fines tributarios. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

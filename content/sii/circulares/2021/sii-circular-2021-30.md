@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;n de Fiscalización. Circular N° 31 del 19 de Mayo del 2021 Instruye sobre modificaciones introducidas por la Ley N° 21.210 a los artículos 41 A y 41 B, y eliminación del artículo 41 C, de la Ley sobre Impuesto a la Renta. Deja sin efecto la Circular N° 48 de 2016 y parcialmente la Circular N° 44 de 2017. Fuente: Subdirección Normativa. Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2…
+ente: Subdirección Normativa. Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

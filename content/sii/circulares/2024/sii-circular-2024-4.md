@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2024
-- Fecha: 2024-01-17
+- Fecha: 2024-01-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu4.pdf
 - Hash SHA-256: 2850df38858508fc362e2a3c7294506611630d817ab1c5c00fffd57f5088ce60
 
 ## Resumen
 
-s Directos Circular N° 5 del 17 de Enero del 2024 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2024. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas febrero 2024. Fuente: Subdirección de Fiscalización. Circular N° 3 del 10 de Enero del 202…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas febrero 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

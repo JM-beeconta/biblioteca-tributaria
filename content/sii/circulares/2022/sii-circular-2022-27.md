@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2022
-- Fecha: 2022-06-16
+- Fecha: 2022-06-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu27.pdf
 - Hash SHA-256: 316bec332f52ed85f988f1c5966fceca9a299e540f2190942de9bec88547d512
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización. Circular N° 28 del 16 de Junio del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Julio 2022. Fuente: Subdirección de Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2022 y el 9 de julio de 2022, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 26 del 09 de Junio del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2022, e información adici…
+Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2022 y el 9 de julio de 2022, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

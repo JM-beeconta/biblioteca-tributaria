@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. Fuente: Subdirección de Avaluaciones. Circular N° 21 del 21 de Abril del 2022 Tratamiento tributario de seguros de vida con ahorro. Fuente: Impuestos Directos. del 2022 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. Fuente: Departamento de Técnica Tributaria Circular N° 19 del 19 de Abril del 2022 Imparte instrucciones sobre las modificaci…
+e: Impuestos Directos. del 2022 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. Fuente: Departamento de Técnica Tributaria
 
 ## Referencias detectadas
 

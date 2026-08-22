@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2021
-- Fecha: 2021-07-05
+- Fecha: 2021-07-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu42.pdf
 - Hash SHA-256: 745066c9caf1e51197ff2813223704210f2fabcabdbb0b580ce1b4fbc1f1e99d
 
 ## Resumen
 
-nte: Subdirección Normativa. Circular N° 43 del 05 de Julio del 2021 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, a los números 5, 6, 7 y 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y lo dispuesto en el artículo vigésimo cuarto transitorio de la Ley N° 21.210. Fuente: Subdirección Normativa. Imparte instrucciones sobre beneficio tributario para donaciones al Fondo Nacional del Cáncer establecido en la Ley N° 21.258. Fuente: Subdirección Normativa Circular N° 41 del 0…
+ente: Subdirección Normativa. Imparte instrucciones sobre beneficio tributario para donaciones al Fondo Nacional del Cáncer establecido en la Ley N° 21.258. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

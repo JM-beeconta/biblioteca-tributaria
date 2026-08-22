@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2023
-- Fecha: 2023-07-20
+- Fecha: 2023-07-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu30.pdf
 - Hash SHA-256: abe3bb9fa81a8792ff243005450d5cacad60b86c8ef4cf017c610531dc79d876
 
 ## Resumen
 
-> Circular N° 31 del 20 de Julio del 2023 Reemplaza apartado 2.5. y párrafo final del apartado 2.8 de la Circular N° 39 de 2022, en la parte relativa a los pagos provisionales mensuales en operaciones del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. del 2023 Tabla de Cálculos de Reajustes, Intereses y Multas Agosto de 2023. Modifica Circular Nº 27 de 2023 Fuente: Subdirección de Fiscalización. Circular N° 29 del 10 de Julio del 2023 Tablas de impuesto único de segunda categoría…
+ción Normativa. del 2023 Tabla de Cálculos de Reajustes, Intereses y Multas Agosto de 2023. Modifica Circular Nº 27 de 2023 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

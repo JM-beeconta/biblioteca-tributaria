@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2022
-- Fecha: 2022-12-14
+- Fecha: 2022-12-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu55.pdf
 - Hash SHA-256: b3deecd44a756d81b05589d30fa87c8170eaa338bde0b9c6f46b880771c6f957
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones. Circular N° 56 del 14 de Diciembre del 2022 Tabla de cálculos de reajustes, intereses y multas enero 2023. Fuente: Subdirección de Fiscalización. Diciembre del 2022 Tablas de impuesto único de segunda categoría para el mes de enero de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 54 del 09 de Diciembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de dici…
+Fiscalización. Diciembre del 2022 Tablas de impuesto único de segunda categoría para el mes de enero de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

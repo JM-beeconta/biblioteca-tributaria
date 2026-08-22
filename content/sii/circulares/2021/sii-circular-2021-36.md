@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2021
-- Fecha: 2021-06-11
+- Fecha: 2021-06-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu36.pdf
 - Hash SHA-256: d1b78fddaf1a410b1002dabdb4f8a658c631aedd5a9e8e746f6493a45b7d7047
 
 ## Resumen
 
-n temporal de Impuesto de Timbres y Estampillas, de acuerdo con lo establecido en las Leyes N° 21.299 y N° 21.307, ambas del año 2021. Fuente: Subdirección Normativa. Circular N° 37 del 11 de Junio del 2021 Tabla de cálculos de reajustes, intereses y multas julio 2021. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 35 del 09 de Junio del 2021 Operacio…
+ción de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

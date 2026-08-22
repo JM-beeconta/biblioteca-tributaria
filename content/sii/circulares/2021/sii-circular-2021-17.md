@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2021
-- Fecha: 2021-04-01
+- Fecha: 2021-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu17.pdf
 - Hash SHA-256: 4317145a10c27ddc0cf43712fd947c98f0f5b9cdea20e82d60437a9c2e05e12d
 
 ## Resumen
 
-ativa. Circular N° 18 del 01 de Abril del 2021 Imparte instrucciones sobre el artículo trigésimo segundo transitorio de la Ley N° 21.210 de 24 de febrero de 2020, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuestos cuyo origen sea correlativo con diferencias en el capital propio tributario informado. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2021 e información adicional relacionada con dicho tributo. Fuente: Sub…
+ente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

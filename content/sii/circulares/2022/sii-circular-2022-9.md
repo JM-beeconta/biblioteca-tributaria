@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2022
-- Fecha: 2022-03-09
+- Fecha: 2022-02-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu9.pdf
 - Hash SHA-256: 705d42950813e5ffec29cfe2d8c1dcc068d1dee9a74513dd5c72692373fe8cf9
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 10 del 09 de Marzo del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2022 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. del 2022 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.…
+ción Normativa. del 2022 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

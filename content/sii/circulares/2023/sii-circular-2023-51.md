@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 51
 - Año: 2023
-- Fecha: 2023-12-12
+- Fecha: 2023-12-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu51.pdf
 - Hash SHA-256: 20d36dd437a7f091ec3aa0af38b13e3403a71c03a24b213d80a037054e3f8946
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 52 del 12 de Diciembre del 2023 Tablas de impuesto único de segunda categoría para el mes de enero de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Diciembre del 2023 Imparte instrucciones sobre el nuevo crédito transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, establecido en la Ley N° 21.631. Complementa Circular N° 87 de 2001. Fuente: Subdi…
+ción Normativa. Diciembre del 2023 Imparte instrucciones sobre el nuevo crédito transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, establecido en la Ley N° 21.631. Complementa Circular N° 87 de 2001. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

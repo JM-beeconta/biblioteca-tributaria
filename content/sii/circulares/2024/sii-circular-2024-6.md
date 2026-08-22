@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 6
 - Año: 2024
-- Fecha: 2024-02-09
+- Fecha: 2024-02-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu6.pdf
 - Hash SHA-256: 3087741945331ffb26bcee5757cdc6d33764b00c4f3d8c8abd9cb410f479f2cb
 
 ## Resumen
 
-ormación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 7 del 09 de Febrero del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2024 y el 9 de marzo de 2024, ambos inclusive. Fuente: Subdirección Normativa. Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existe…
+ente: Subdirección Normativa. Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros documentos. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

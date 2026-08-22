@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;n Normativa. Circular N° 12 del 17 de Febrero del 2021 Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Subdirección Jurídica Instruye sobre disminución transitoria de tasa de impuesto de primera categoría y tasa de pagos de contribuyentes acogidos al régimen Pro Pyme, provisionales mensuales conforme al artículo 1° de la Ley N° 21.25…
+Subdirección Jurídica Instruye sobre disminución transitoria de tasa de impuesto de primera categoría y tasa de pagos de contribuyentes acogidos al régimen Pro Pyme, provisionales mensuales conforme al artículo 1° de la Ley N° 21.256. Complementa y modifica instrucciones de la Circular N° 31 de 2020 tras modificaciones a los artículos vigésimo primero y vigésimo segundo transitorios e incorporación de artículo vigésimo segundo transitorio bis, todos de la Ley N° 21.210, introducidas por la Ley N° 21.256, que amplí…
 
 ## Referencias detectadas
 

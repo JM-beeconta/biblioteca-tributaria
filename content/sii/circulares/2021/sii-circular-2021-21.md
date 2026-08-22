@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2021
-- Fecha: 2021-04-10
+- Fecha: 2021-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu21.pdf
 - Hash SHA-256: 39a8d8cf93f5e3aec0475979399ae7870073e1f9c27c43cbae44c8deb5bc01fc
 
 ## Resumen
 
-comprendidos entre el 10 de abril de 2021 y el 9 de mayo de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 22 del 09 de Abril del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2021, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta.…
+ente: Subdirección Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2021, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

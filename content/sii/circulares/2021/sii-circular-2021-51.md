@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ntereses y multas octubre 2021. Fuente: Subdirección de Fiscalización. Circular N° 52 del 10 de Septiembre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2021 y el 9 de octubre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 50 del 13 de Agosto del 20…
+ente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

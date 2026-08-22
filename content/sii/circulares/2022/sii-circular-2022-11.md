@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2022
-- Fecha: 2022-03-17
+- Fecha: 2022-03-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu11.pdf
 - Hash SHA-256: c6ec735f092f6f74af963880c1788d9642514c0334136c7adc785cc2d8688ef5
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa - Subdirección Jurídica Circular N° 12 del 17 de Marzo del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Abril 2022. Fuente: Subdirección de Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2022 y el 9 de abril de 2022, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 10 del 09 de Marzo del 2022 Tablas de Impuesto Único de Segunda Cate…
+Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2022 y el 9 de abril de 2022, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

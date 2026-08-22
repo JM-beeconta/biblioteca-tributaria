@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 10
 - Año: 2023
-- Fecha: 2023-03-09
+- Fecha: 2023-02-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu10.pdf
 - Hash SHA-256: 0a02e4d40a8bccfce0b1da7371d93b38c057fc8b2b6243e300b5fb5a489a3052
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 11 del 09 de Marzo del 2023 Tablas de impuesto único de segunda categoría para el mes de abril de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. del 2023 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta Fuente: Subdirección Normativa. C…
+ción Normativa. del 2023 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

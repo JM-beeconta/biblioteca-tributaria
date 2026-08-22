@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2022
-- Fecha: 2022-04-13
+- Fecha: 2022-04-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu17.pdf
 - Hash SHA-256: b58508f2aec8132fb809a16e98e8dc32540efb40316614409bb8c52e1017b5f2
 
 ## Resumen
 
-echos de los consumidores. Fuente: Subdirección Normativa. Circular N° 18 del 13 de Abril del 2022 Tabla de cálculos de reajustes, intereses y multas mayo 2022. Fuente: Subdirección de Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2022 y el 9 de mayo de 2022, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 16 del 12 de Abril del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2022, e…
+Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2022 y el 9 de mayo de 2022, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

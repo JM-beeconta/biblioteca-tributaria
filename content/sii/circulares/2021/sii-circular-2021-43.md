@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2021
-- Fecha: 2021-07-12
+- Fecha: 2021-07-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu43.pdf
 - Hash SHA-256: 994ddb0f3b48067ffafcb6106ac4867d670625defc3b65281bc9eb2640baa82d
 
 ## Resumen
 
-rmación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 44 del 12 de Julio del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2021 y el 9 de agosto de 2021, ambos inclusive. Fuente: Subdirección Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, a los números 5, 6, 7 y 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y lo dispuesto en el artículo vigésimo cua…
+ente: Subdirección Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, a los números 5, 6, 7 y 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y lo dispuesto en el artículo vigésimo cuarto transitorio de la Ley N° 21.210. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

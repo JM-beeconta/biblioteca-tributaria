@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2024
-- Fecha: 2024-07-26
+- Fecha: 2024-07-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu32.pdf
 - Hash SHA-256: 4dc6352bf7234ff7e54754d64cb65d905bb7de57ea8228d4126a34bd82028284
 
 ## Resumen
 
-n los artículos 10 y 11 de la Ley N° 21.681, que crea el Fondo de Emergencia Transitorio por Incendios y establece otras medidas para la reconstrucción. Fuente: Subdirección Normativa. Circular N° 33 del 26 de Julio del 2024 Deja sin efecto lo instruido en la Circular N° 11 de 2024. Fuente: Subdirección Normativa. Imparte instrucciones sobre la exención temporal de impuesto de timbres y estampillas a los créditos con garantía hipotecaria establecida en el artículo 6° de la Ley N° 21.673. Fuente: Subdirección Norma…
+ente: Subdirección Normativa. Imparte instrucciones sobre la exención temporal de impuesto de timbres y estampillas a los créditos con garantía hipotecaria establecida en el artículo 6° de la Ley N° 21.673. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

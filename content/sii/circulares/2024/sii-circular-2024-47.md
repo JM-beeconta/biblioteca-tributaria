@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2024
-- Fecha: 2024-11-14
+- Fecha: 2024-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu47.pdf
 - Hash SHA-256: 32be54950399a2fbc3d2d8c6adbdcf104424e38e14ff2b7131696d6fb2063da6
 
 ## Resumen
 
-;nico y sustitutivo establecido en el artículo undécimo transitorio de la Ley N° 21.713, modificado por la Ley N° 21.716. Fuente: Subdirección Normativa Circular N° 48 del 14 de Noviembre del 2024 Tabla de cálculos de reajustes, intereses y multas diciembre 2024. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2024 y el 9 de diciembre de 2024, ambos inclusive. Fuente: Subdirección Normativa Circular N° 46…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2024 y el 9 de diciembre de 2024, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

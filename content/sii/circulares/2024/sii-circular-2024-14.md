@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2024
-- Fecha: 2024-04-09
+- Fecha: 2024-03-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu14.pdf
 - Hash SHA-256: 4a2cae436b73ee718a087897abed1084afc5a744a50ba5c35c767133517736c1
 
 ## Resumen
 
-ambos inclusive. Fuente: Subdirección Normativa. Circular N° 15 del 09 de Abril del 2024 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2024, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas abril 2024. Fuente: Subdirección de Fiscalización. Circular N° 13 del 11 de Marzo del 2024 Tablas de impuesto único de segunda categoría para e…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas abril 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

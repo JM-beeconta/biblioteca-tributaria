@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 46
 - Año: 2021
-- Fecha: 2021-08-03
+- Fecha: 2021-07-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu46.pdf
 - Hash SHA-256: f0ec4258502a249e040b3665b26eccac07699d00626527a4ab2635ff4f7b55df
 
 ## Resumen
 
-uente: Subdirección Normativa. Circular N° 47 del 03 de Agosto del 2021 Modifica Circular N° 7 de 2018, que imparte instrucciones relativas a la aplicación de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (&ldquo;Convención de la Apostilla&rdquo;) en el caso que indica. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas agosto 2021. Fuente: Subdirección de Fiscalización. Circular N° 45 del 12 de Julio del 2021 Tablas de Impuesto…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas agosto 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

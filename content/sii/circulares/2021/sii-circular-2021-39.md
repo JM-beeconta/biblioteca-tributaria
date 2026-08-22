@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eg; 12, 13, 14, 17 N° 8, 20 N° 1, 21, 29, 31 inciso cuarto números 3, 4 y 13, 34 N° 3, 41 E, 52, 54 bis, 64 bis, 69, 71, 80 y 97, así como del nuevo artículo 110, todos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y las modificaciones a los artículos 8 N° 8 y N° 17 y 28 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974. Deja sin efecto la Circular N° 57 de 2017. Fuente: Subdirección Normativa. Complementa Circular N° 43 de 2020, que imparte instru…
+ente: Subdirección Normativa. Complementa Circular N° 43 de 2020, que imparte instrucciones sobre la aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en el artículo vigésimo quinto transitorio de la Ley N° 21.210. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

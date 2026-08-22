@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2021
-- Fecha: 2021-05-25
+- Fecha: 2021-05-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu32.pdf
 - Hash SHA-256: cc55730fe8d7a13212f0512becd2f65fd01a6b98654fbc60ae950666483ba7d4
 
 ## Resumen
 
-de terceros y carteras individuales. Fuente: Subdirección Normativa. Circular N° 33 del 25 de Mayo del 2021 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, a la Ley N° 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones. Modifica Circular N° 19 de 2004. Fuente: Subdirección Normativa. Instruye sobre sanciones aplicables conforme a lo dispuesto por el N° 6 del artículo 41 E de la Ley sobre Impuesto a la Renta, por la no presentación de las declaraciones juradas a que se refi…
+ente: Subdirección Normativa. Instruye sobre sanciones aplicables conforme a lo dispuesto por el N° 6 del artículo 41 E de la Ley sobre Impuesto a la Renta, por la no presentación de las declaraciones juradas a que se refiere dicha norma, o su presentación errónea, incompleta, extemporánea, o maliciosamente falsa. Deja sin efecto la Circular N° 31 de 2016. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

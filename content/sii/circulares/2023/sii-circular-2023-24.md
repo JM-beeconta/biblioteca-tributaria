@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2023
-- Fecha: 2023-06-09
+- Fecha: 2023-06-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu24.pdf
 - Hash SHA-256: 0913cdacb0c0dde27d40b0bd18591980af17c71dc6767290c2d2f696ca4f78aa
 
 ## Resumen
 
-x;'> Fuente: Subdirección Normativa. Circular N° 25 del 09 de Junio del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2023 y el 9 de julio de 2023, ambos inclusive. Fuente: Subdirección Normativa. del 2023 Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.484, de responsabilidad parental y pago efectivo de deudas de pensiones de alimentos. Fuente: Subdirección Normativa. Circular N° 23 de…
+ción Normativa. del 2023 Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.484, de responsabilidad parental y pago efectivo de deudas de pensiones de alimentos. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

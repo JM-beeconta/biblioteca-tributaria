@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 52
 - Año: 2022
-- Fecha: 2022-11-11
+- Fecha: 2022-11-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu52.pdf
 - Hash SHA-256: f9327e5a643d5d6ddfd4a46542017564ffc883e2f72ebd707ba56488e260486c
 
 ## Resumen
 
-ambos inclusive. Fuente: Subdirección Normativa. Circular N° 53 del 11 de Noviembre del 2022 Tabla de cálculos de reajustes, intereses y multas diciembre 2022. Fuente: Subdirección de Fiscalización. Noviembre del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 51 del 09 de Noviembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos…
+Fiscalización. Noviembre del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

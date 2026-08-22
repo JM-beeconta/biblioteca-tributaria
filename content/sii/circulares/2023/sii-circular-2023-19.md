@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2023
-- Fecha: 2023-05-09
+- Fecha: 2023-04-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu19.pdf
 - Hash SHA-256: ad7e352eddab0406bb39247925a58e6de5b2f01693246cf734204fbb8d6fccfa
 
 ## Resumen
 
-0px;'> Fuente: Subdirección Normativa. Circular N° 20 del 09 de Mayo del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2023 y el 9 de junio de 2023, ambos inclusive. Fuente: Subdirección Normativa. del 2023 Modifica Circular N° 13 de 2022, que imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación int…
+ción Normativa. del 2023 Modifica Circular N° 13 de 2022, que imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

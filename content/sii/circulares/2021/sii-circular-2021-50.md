@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2021
-- Fecha: 2021-09-10
+- Fecha: 2021-08-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu50.pdf
 - Hash SHA-256: 9522dd0350ced719c190ef22d114fac14590ddcd187b6c17e33af30c97cbcbde
 
 ## Resumen
 
-re el 10 de septiembre de 2021 y el 9 de octubre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 51 del 10 de Septiembre del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses Y multas septiembre 2021. Fuente: Subdirección de Fiscalización. Circular N° 49 del 10 de Agosto del 2021 Operaciones de crédito de dinero. Valor de la Unidad de…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses Y multas septiembre 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

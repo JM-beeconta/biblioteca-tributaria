@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2024
-- Fecha: 2024-09-11
+- Fecha: 2024-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu38.pdf
 - Hash SHA-256: d04b64d9f5fc6aef36a5f38fe52126be018e8fbea9af7c681240cdf6d5401a0e
 
 ## Resumen
 
-e;n adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 39 del 11 de Septiembre del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2024 y el 9 de octubre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas septiembre 2024. Fuente: Subdirección de Fiscalización. Circular N° 37 del 09 de Agosto del 2024 Tablas de impuesto único de segunda categoría pa…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas septiembre 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2024
-- Fecha: 2024-01-10
+- Fecha: 2024-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu2.pdf
 - Hash SHA-256: c526a45922008974b4b8556089e509bdbf51084fc996e52896fd2ef53711b9dc
 
 ## Resumen
 
-tom:0px;'>Tabla de cálculos de reajustes, intereses y multas febrero 2024. Fuente: Subdirección de Fiscalización. Circular N° 3 del 10 de Enero del 2024 Imparte instrucciones sobre el impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley N° 21.647. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2024 y el 9 de febrero de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circu…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2024 y el 9 de febrero de 2024, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

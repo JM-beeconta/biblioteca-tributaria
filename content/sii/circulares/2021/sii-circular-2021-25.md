@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n dicho tributo. Fuente: Subdirección Normativa. Circular N° 26 del 21 de Abril del 2021 Imparte instrucciones sobre diversas modificaciones incorporadas por la Ley N° 21.210, de 24 de febrero de 2020, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa. Imparte instrucciones sobre la obligatoriedad de las boletas de honorarios electrónicas. Fuente: Subdirección Normativa Circular N° 24 del 13 de Abril del 2021 Tabla de cálculos de reajustes, intereses y mult…
+ente: Subdirección Normativa. Imparte instrucciones sobre la obligatoriedad de las boletas de honorarios electrónicas. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

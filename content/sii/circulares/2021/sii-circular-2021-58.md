@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 58
 - Año: 2021
-- Fecha: 2021-10-22
+- Fecha: 2021-10-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu58.pdf
 - Hash SHA-256: 1c73df4a58bebb64a4b873885b142ebb734f0715104baaa4eac25d3ac4d21c49
 
 ## Resumen
 
-de Segunda Categoría para el mes de diciembre de 2021, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 59 del 22 de Octubre del 2021 Aplicación de la cláusula de la nación más favorecida a los convenios que indica Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas noviembre 2021. Fuente: Subdirección de Fiscalización. Circular N° 57 del 13 de Octubre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los dí…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas noviembre 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

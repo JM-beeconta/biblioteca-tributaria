@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2022
-- Fecha: 2022-01-18
+- Fecha: 2022-01-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu3.pdf
 - Hash SHA-256: 56cb004d43318456b043c552a85d572d92cf3a0453b6ac50bc4023b43e0b30a5
 
 ## Resumen
 
-Circular N° 4 del 18 de Enero del 2022 Instrucciones sobre comparecencia y representación de los contribuyentes ante el Servicio de Impuestos Internos. Deroga Circular N° 54 de 2002, modificada por la Circular N° 12 de 2021. Fuente: Subdirección Jurídica. 2022 Tabla de cálculos de reajustes, intereses y multas febrero 2022. Fuente: Subdirección de Fiscalización. Circular N° 2 del 11 de Enero del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2022, e información adicional relacionada c…
+Jurídica. 2022 Tabla de cálculos de reajustes, intereses y multas febrero 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

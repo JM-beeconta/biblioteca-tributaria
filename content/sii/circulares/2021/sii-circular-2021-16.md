@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o origen sea correlativo con diferencias en el capital propio tributario informado. Fuente: Subdirección Normativa. Circular N° 17 del 11 de Marzo del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2021 y el 9 de abril de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circula…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2021 y el 9 de abril de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

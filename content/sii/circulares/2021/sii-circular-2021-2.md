@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Reemplaza tabla incluida en la página 48 de la Circular N° 73 de 2020. Fuente: Subdirección Normativa. Circular N° 3 del 12 de Enero del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2021 y el 9 de febrero de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 1 d…
+ente: Subdirección Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2021 y el 9 de febrero de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

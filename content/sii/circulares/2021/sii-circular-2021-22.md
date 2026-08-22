@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de reajustes, intereses y multas mayo 2021. Fuente: Subdirección de Fiscalización. Circular N° 23 del 09 de Abril del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2021 y el 9 de mayo de 2021, ambos inclusive. Fuente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 21 del 08 de Abril del 2021 In…
+ente: Subdirección Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

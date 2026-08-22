@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 39
 - Año: 2022
-- Fecha: 2022-09-12
+- Fecha: 2022-08-31
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu39.pdf
 - Hash SHA-256: 1b728ea24c2d483fe53cd1af24e7fc03fa79cce264e0ac9dac0f08991256cf68
 
 ## Resumen
 
-: Subdirección Normativa. Circular N° 40 del 12 de Septiembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2022 y el 9 de octubre de 2022, ambos inclusive. Fuente: Subdirección Normativa. del 2022 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a los artículos 17 N° 6, 33 bis, 107 y 110 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974. Modifica Circulares N…
+ción Normativa. del 2022 Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a los artículos 17 N° 6, 33 bis, 107 y 110 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974. Modifica Circulares N° 7 de 2002, N° 68 de 2010, N° 10 de 2012, N° 67 y N° 71 de 2016, y N° 40, N° 43 y N° 44 de 2021. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

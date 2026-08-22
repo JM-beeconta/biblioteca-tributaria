@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2022
-- Fecha: 2022-09-14
+- Fecha: 2022-09-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu42.pdf
 - Hash SHA-256: c4eab244ed3358426d542022f141a706efd234a40aebb8a21885ebfe656fd309
 
 ## Resumen
 
-k' class="sin_efecto">Circular N° 43 del 14 de Septiembre del 2022 Imparte instrucciones sobre la eliminación del artículo 21 del Decreto Ley N° 910 de 1975 y del párrafo primero del N° 6 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974. Fuente: Subdirección Normativa. Septiembre del 2022 Tabla de cálculos de reajustes, intereses y multas octubre 2022. Fuente: Subdirección de Fiscalización. Circular N° 41 del 12 de Septiembre del 2022 Tablas de Impuesto…
+ción Normativa. Septiembre del 2022 Tabla de cálculos de reajustes, intereses y multas octubre 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

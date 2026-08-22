@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ulo 35 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210. Fuente: Subdirección Normativa Circular N° 53 del 10 de Septiembre del 2021 Tabla de cálculos de reajustes, intereses y multas octubre 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2021 y el 9 de octubre de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N°…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2021 y el 9 de octubre de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

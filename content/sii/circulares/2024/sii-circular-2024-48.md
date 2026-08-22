@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2024
-- Fecha: 2024-11-21
+- Fecha: 2024-11-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu48.pdf
 - Hash SHA-256: 90f15a686516495fc06e37fad34da54cae5cf3d6bc686a4ae3fa700be0eea384
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección Normativa Circular N° 49 del 21 de Noviembre del 2024 Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo undécimo transitorio de la Ley N° 21.713, modificado por la Ley N° 21.716. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas diciembre 2024. Fuente: Subdirección de Fiscalización. Circular N° 47 del 11 de Noviembre del 2024 Operaciones…
+uente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas diciembre 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

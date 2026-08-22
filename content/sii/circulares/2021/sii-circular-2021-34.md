@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2021
-- Fecha: 2021-06-09
+- Fecha: 2021-06-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu34.pdf
 - Hash SHA-256: 6e6d8b4fd23dcdfba676375a231b77e0c0bb4bfe8d4331c52c00c019207acc69
 
 ## Resumen
 
-formación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 35 del 09 de Junio del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2021 y el 9 de julio de 2021, ambos inclusive. Fuente: Subdirección Normativa. Modificaciones introducidas por la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020, a la Ley única de fondos, contenida en el artículo primero de la Ley N° 20.712, sobre administr…
+ente: Subdirección Normativa. Modificaciones introducidas por la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020, a la Ley única de fondos, contenida en el artículo primero de la Ley N° 20.712, sobre administración de fondos de terceros y carteras individuales. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

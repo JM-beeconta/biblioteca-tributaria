@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ript">imprimir_compartir(false, true) Circulares 2024 Años Anteriores Informa tabla de cálculos de reajustes y multas para el mes de enero 2025. Fuente: Subdirección de Fiscalización. Circular N° 53 del 19 de Diciembre del 2024 Imparte instrucciones en materias tributarias sobre el régimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.…
+Informa tabla de cálculos de reajustes y multas para el mes de enero 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

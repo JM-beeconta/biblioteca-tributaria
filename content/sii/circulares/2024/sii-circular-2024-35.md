@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 35
 - Año: 2024
-- Fecha: 2024-08-09
+- Fecha: 2024-08-01
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu35.pdf
 - Hash SHA-256: a200ddc6f9290214147fef6ca3445feaa24a29f42c12ef54319021ea231552b9
 
 ## Resumen
 
-ión adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 36 del 09 de Agosto del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2024 y el 9 de septiembre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Modifica la Circular N° 22 de 2014, que imparte instrucciones sobre el tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley N° 20.444. Deja sin…
+ente: Subdirección Normativa. Modifica la Circular N° 22 de 2014, que imparte instrucciones sobre el tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley N° 20.444. Deja sin efecto la Circular N° 44 de 2010. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

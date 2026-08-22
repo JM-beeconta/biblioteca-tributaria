@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 55 del 09 de Diciembre del 2022 Tablas de impuesto único de segunda categoría para el mes de enero de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Diciembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2022 y el 9 de enero de 2023, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 53 del 11 de Noviembre del 2022 Tab…
+ción Normativa. Diciembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2022 y el 9 de enero de 2023, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

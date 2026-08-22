@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2023
-- Fecha: 2023-08-16
+- Fecha: 2023-08-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu34.pdf
 - Hash SHA-256: 5fe8884065edf93bd76f8a04630c775ec53919d56ad02a2c48995926de6e4a7b
 
 ## Resumen
 
-N° 106 de 1979. Fuente: Subdirección Normativa. Circular N° 35 del 16 de Agosto del 2023 Tabla de cálculos de reajustes, intereses y multas septiembre 2023. Fuente: Subdirección de Fiscalización. del 2023 Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa. Circular N° 33 del 09 de Agosto del 2023 Operaciones de…
+Fiscalización. del 2023 Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

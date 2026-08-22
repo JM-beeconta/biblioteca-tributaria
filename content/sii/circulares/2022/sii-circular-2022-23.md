@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 24 del 10 de Mayo del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2022 y el 9 de junio de 2022, ambos inclusive. Fuente: Subdirección Normativa Circular N° 22 del 06 de Mayo del 2022 Imparte instrucciones sobre m…
+ción Normativa. 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2022 y el 9 de junio de 2022, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

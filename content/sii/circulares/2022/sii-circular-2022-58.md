@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Diciembre del 2022 Imparte instrucciones sobre proceso de sanción del delito tributario deroga Circular N° 8 del 14 de enero del 2010 y otras instrucciones. Fuente: Departamento de Defensa Judicial Penal Circular N° 57 del 26 de Diciembre del 2022 Imparte instrucciones sobre el impuesto establecido en el artículo 9° de la Ley N° 21.420. Fuente: Subdirección de
+Diciembre del 2022 Imparte instrucciones sobre proceso de sanción del delito tributario deroga Circular N° 8 del 14 de enero del 2010 y otras instrucciones. Fuente: Departamento de Defensa Judicial Penal
 
 ## Referencias detectadas
 

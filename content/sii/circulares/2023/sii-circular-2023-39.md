@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fiscalización. Circular N° 40 del 13 de Septiembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2023 y el 9 de octubre de 2023, ambos inclusive. Fuente: Subdirección Normativa. Septiembre del 2023 Tablas de impuesto único de segunda categoría para el mes de octubre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 38 del 06 de Septiembre del 2023 Modifica Circular N° 57 de 20…
+ción Normativa. Septiembre del 2023 Tablas de impuesto único de segunda categoría para el mes de octubre de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

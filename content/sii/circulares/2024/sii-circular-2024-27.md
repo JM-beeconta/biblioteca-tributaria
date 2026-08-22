@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2024
-- Fecha: 2024-07-10
+- Fecha: 2024-06-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu27.pdf
 - Hash SHA-256: b21afdb06bf68039ae203d72bfa15bef6e52f145cc73fb603c1f2c63a52454b5
 
 ## Resumen
 
-mprendidos entre el 10 de julio de 2024 y el 9 de agosto de 2024, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 28 del 09 de Julio del 2024 Tablas de impuesto único de segunda categoría para el mes de agosto de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas julio 2024. Fuente: Subdirección Normativa. Circular N° 26 del 11 de Junio del 2024 Tablas de impuesto único de segunda categoría para el mes de julio…
+ente: Subdirección Normativa. Tabla de cálculos de reajustes, intereses y multas julio 2024. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

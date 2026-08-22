@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 10
 - Año: 2024
-- Fecha: 2024-03-11
+- Fecha: 2024-03-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu10.pdf
 - Hash SHA-256: 949f99a3c0d50d377d9be2dac1e11d9150ed30566e98c47d4b7d1b526310b249
 
 ## Resumen
 
->Fuente: Subdirección Normativa. Circular N° 11 del 11 de Marzo del 2024 Fija nuevo criterio sobre aplicación de impuesto adicional a néctares, bebidas isotónicas y bebidas hipotónicas, establecido en la letra a) del artículo 42 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impue…
+ente: Subdirección Normativa. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

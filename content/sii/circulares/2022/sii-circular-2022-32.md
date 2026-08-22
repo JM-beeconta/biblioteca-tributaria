@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2022
-- Fecha: 2022-07-19
+- Fecha: 2022-07-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu32.pdf
 - Hash SHA-256: 0fcfbba302cad899add5d5cb4a5876aa196a18ab830346a659625c3ac204675a
 
 ## Resumen
 
-Fuente: Departamento de asesoría jurídica Circular N° 33 del 19 de Julio del 2022 Tabla de cálculos de reajustes, intereses y multas agosto 2022. Fuente: Subdirección de Fiscalización. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 31 del 11 de Julio del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2022 y…
+Fiscalización. del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

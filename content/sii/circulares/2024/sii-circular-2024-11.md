@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nformación adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 12 del 11 de Marzo del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2024 y el 9 de abril de 2024, ambos inclusive. Fuente: Subdirección Normativa. Fija nuevo criterio sobre aplicación de impuesto adicional a néctares, bebidas isotónicas y bebidas hipotónicas, establecido en la letra a) del artículo 42 del Decreto Ley N° 825 de 1974, Ley sobre Imp…
+ente: Subdirección Normativa. Fija nuevo criterio sobre aplicación de impuesto adicional a néctares, bebidas isotónicas y bebidas hipotónicas, establecido en la letra a) del artículo 42 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

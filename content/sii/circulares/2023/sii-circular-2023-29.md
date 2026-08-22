@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2023
-- Fecha: 2023-07-12
+- Fecha: 2023-07-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu29.pdf
 - Hash SHA-256: f3295710de2a2bb403695016ff9fd5ed99877b6ee038e61937cc2d932b73fe89
 
 ## Resumen
 
-Fuente: Subdirección Normativa. Circular N° 30 del 12 de Julio del 2023 Tabla de Cálculos de Reajustes, Intereses y Multas Agosto de 2023. Modifica Circular Nº 27 de 2023 Fuente: Subdirección de Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de agosto de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Oficina de Gestión Normativa Circular N° 28 del 10 de Julio del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para…
+Fiscalización. del 2023 Tablas de impuesto único de segunda categoría para el mes de agosto de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

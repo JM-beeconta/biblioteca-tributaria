@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2022
-- Fecha: 2022-04-11
+- Fecha: 2022-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu14.pdf
 - Hash SHA-256: c465dd7be3d521a2c9f7efd84740f039a91567539fdb9c11a6a06c60efd6ff8c
 
 ## Resumen
 
-Circular N° 15 del 11 de Abril del 2022 Imparte instrucciones sobre la derogación del artículo 41 D de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° de enero de 2022. Deja sin efecto las Circulares N° 43 de 2003 y N° 16 de 2018. Fuente: Subdirección Normativa. del 2022 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2022, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión No…
+ción Normativa. del 2022 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2022, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

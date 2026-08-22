@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, intereses y multas noviembre 2024. Fuente: Subdirección de Fiscalización. Circular N° 43 del 10 de Octubre del 2024 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2024 y el 9 de noviembre de 2024, ambos inclusive. Fuente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de noviembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 41 del 11 de Septiembre…
+ente: Subdirección Normativa. Tablas de impuesto único de segunda categoría para el mes de noviembre de 2024 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

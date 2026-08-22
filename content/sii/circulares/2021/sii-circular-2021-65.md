@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 65
 - Año: 2021
-- Fecha: 2021-12-16
+- Fecha: 2021-12-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu65.pdf
 - Hash SHA-256: bca33fc096cdc76452078153adfec33c246fb44e7be9f69d5b267acea8fc1e07
 
 ## Resumen
 
-pt>writeOptionsYears(0) Años Anteriores Circular N° 66 del 16 de Diciembre del 2021 Tabla De Cálculos De Reajustes, Intereses Y Multas Enero 2022. Fuente: Subdirección de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 64 del 09 de Diciembre del 2021 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2021 y…
+ción de Fiscalización. Tablas de Impuesto Único de Segunda Categoría para el mes de enero de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

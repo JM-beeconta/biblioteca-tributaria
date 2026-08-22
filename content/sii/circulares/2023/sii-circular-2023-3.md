@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2023
-- Fecha: 2023-01-11
+- Fecha: 2023-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu3.pdf
 - Hash SHA-256: 661d3267fdedb1778eeaf5c4f8cf1842a95609fc6a8267164e5a50bb4b1c730a
 
 ## Resumen
 
-por la Ley N° 21.420. Fuente: Subdirección Normativa. Circular N° 4 del 11 de Enero del 2023 Tabla de cálculos de reajustes, intereses y multas febrero 2023. Fuente: Subdirección de Fiscalización. 2023 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2023. Fuente: Subdirección…
+Fiscalización. 2023 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2023. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 46
 - Año: 2023
-- Fecha: 2023-11-10
+- Fecha: 2023-10-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu46.pdf
 - Hash SHA-256: e8eb3ae588f339b605a4085e884287ffd2437bc308170853157d643a85de3932
 
 ## Resumen
 
-e: Subdirección Normativa. Circular N° 47 del 10 de Noviembre del 2023 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2023 y el 9 de diciembre de 2023, ambos inclusive. Fuente: Subdirección Normativa. del 2023 Imparte instrucciones sobre los efectos tributarios del artículo 64 bis de la Ley N° 20.998, incorporado por la Ley N° 21.581 y que exime de IVA a los servicios sanitarios rurales. Fuente: Subdirección Normativa. Circular N° 45 del 11 de…
+ción Normativa. del 2023 Imparte instrucciones sobre los efectos tributarios del artículo 64 bis de la Ley N° 20.998, incorporado por la Ley N° 21.581 y que exime de IVA a los servicios sanitarios rurales. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

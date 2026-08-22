@@ -11,7 +11,7 @@
 
 ## Resumen
 
-3 del 09 de Enero del 2023 Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2023. Fuente: Subdirección Normativa. 2023 Tablas de impuesto único de segunda categoría para el mes de febrero de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normat…
+ción Normativa. 2023 Tablas de impuesto único de segunda categoría para el mes de febrero de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2024
-- Fecha: 2024-05-16
+- Fecha: 2024-05-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu21.pdf
 - Hash SHA-256: bbef60be1f433fdc30f9a00f5735a4da01244b7b0bd1867aedbca09e3a6452c1
 
 ## Resumen
 
-icarse durante el año 2024. Fuente: Subdirección de Fiscalización. Circular N° 22 del 16 de Mayo del 2024 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.622 a la Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985. Fuente: Impuestos Indirectos Tabla de cálculos de reajustes, intereses y multas junio 2024. Fuente: Subdirección de Fiscalización. Circular N° 20 del 10 de Mayo del 2024 Tablas de impuesto único de segunda categoría para el mes de junio d…
+Fuente: Impuestos Indirectos Tabla de cálculos de reajustes, intereses y multas junio 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

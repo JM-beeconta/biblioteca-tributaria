@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2023
-- Fecha: 2023-05-19
+- Fecha: 2023-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2023/circu22.pdf
 - Hash SHA-256: d41dad9aef2cb09cc23ddeae19065c5f4ab5294fed6491ddf880726a2732f061
 
 ## Resumen
 
-Circular N° 23 del 19 de Mayo del 2023 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2023. Fuente: Subdirección de Fiscalización. 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Junio 2023. Fuente: Subdirección de Fiscalización. Circular N° 21 del 09 de Mayo del 2023 Tablas de impuesto único de segunda categoría para el mes de junio de 2023 e información adicional relacionada…
+Fiscalización. 2023 Tabla De Cálculos De Reajustes, Intereses Y Multas Junio 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

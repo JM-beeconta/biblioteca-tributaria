@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l 2022 Imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile. Fuente: Subdirección Normativa - Subdirección Jurídica del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Abril 2022. Fuente: Subdirección de Fiscalización. Circular N° 11 del 09 de Marzo del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los…
+cute;n Jurídica del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Abril 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

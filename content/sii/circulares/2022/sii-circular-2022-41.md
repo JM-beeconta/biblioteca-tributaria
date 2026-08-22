@@ -11,7 +11,7 @@
 
 ## Resumen
 
-825 de 1974. Fuente: Subdirección Normativa. Circular N° 42 del 12 de Septiembre del 2022 Tabla de cálculos de reajustes, intereses y multas octubre 2022. Fuente: Subdirección de Fiscalización. Septiembre del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. Circular N° 40 del 12 de Septiembre del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entr…
+Fiscalización. Septiembre del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2022, e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

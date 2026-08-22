@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2021
-- Fecha: 2021-10-10
+- Fecha: 2021-10-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu55.pdf
 - Hash SHA-256: 6c9973f6549d718b23f393ef6e712a7646a684cda7b288a7a40e263f8e1a71dc
 
 ## Resumen
 
-os entre el 10 de octubre de 2021 y el 9 de noviembre de 2021, ambos inclusive. Fuente: Subdirección Normativa Circular N° 56 del 13 de Octubre del 2021 Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2021 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa Imparte instrucciones sobre la contribución para el desarrollo regional introducida por el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección Normativa. Circular N° 54 del 30 de Septi…
+uente: Subdirección Normativa Imparte instrucciones sobre la contribución para el desarrollo regional introducida por el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 35
 - Año: 2022
-- Fecha: 2022-08-10
+- Fecha: 2022-08-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu35.pdf
 - Hash SHA-256: 1f2bdd5787e0fc2d2c51d7d13a88bd1114a4c0da8fb427515b156b182f22482d
 
 ## Resumen
 
-Fuente: Subdirección Normativa Circular N° 36 del 10 de Agosto del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2022 y el 9 de septiembre de 2022, ambos inclusive Fuente: Subdirección Normativa del 2022 Imparte instrucciones acerca del cumplimiento del deber de mantener la reserva de la información que el Servicio recopila respecto de los contribuyentes. Deja sin efecto la Circular N°43, de 1998 y sus modificaciones. Fuente: Departamento d…
+cción Normativa del 2022 Imparte instrucciones acerca del cumplimiento del deber de mantener la reserva de la información que el Servicio recopila respecto de los contribuyentes. Deja sin efecto la Circular N°43, de 1998 y sus modificaciones. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

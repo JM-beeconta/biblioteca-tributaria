@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2022
-- Fecha: 2022-12-26
+- Fecha: 2022-12-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu56.pdf
 - Hash SHA-256: 9fe812d4f53d7be820fbe662e85ba90d0314b5bce20a649ddd8abe40f8553e86
 
 ## Resumen
 
-nsa Judicial Penal Circular N° 57 del 26 de Diciembre del 2022 Imparte instrucciones sobre el impuesto establecido en el artículo 9° de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Diciembre del 2022 Tabla de cálculos de reajustes, intereses y multas enero 2023. Fuente: Subdirección de Fiscalización. Circular N° 55 del 09 de Diciembre del 2022 Tablas de impuesto único de segunda categoría para el mes de enero de 2023 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
+Avaluaciones. Diciembre del 2022 Tabla de cálculos de reajustes, intereses y multas enero 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

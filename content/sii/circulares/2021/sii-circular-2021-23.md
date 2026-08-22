@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2021
-- Fecha: 2021-04-13
+- Fecha: 2021-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu23.pdf
 - Hash SHA-256: 538c14d39a1d78b414069d7550b7ac8f57f616b07753b4c856bcac1b3d94c72b
 
 ## Resumen
 
-/a> Imparte instrucciones sobre la obligatoriedad de las boletas de honorarios electrónicas. Fuente: Subdirección Normativa Circular N° 24 del 13 de Abril del 2021 Tabla de cálculos de reajustes, intereses y multas mayo 2021. Fuente: Subdirección de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2021 y el 9 de mayo de 2021, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 22 del 09 de Abril del 2021 Tablas de Impuesto Ún…
+ción de Fiscalización. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2021 y el 9 de mayo de 2021, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 
