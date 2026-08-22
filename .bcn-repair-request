@@ -1,5 +1,4 @@
 {
-  "status": "requested",
-  "reason": "La corrida anterior exportó 787 documentos correctos pero el bug de fusión por source_url ambigua borró en cascada 495 artículos. Ya corregido en scripts/merge-range.mjs vía lib/store.mjs#mergeDocuments. Se vuelve a disparar para recuperar el corpus completo.",
-  "requested_at": "2026-08-22T18:45:00.000Z"
+  "status": "completed",
+  "updated_at": "2026-08-22T18:37:07.921Z"
 }

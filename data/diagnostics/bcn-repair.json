@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T18:17:49.932Z",
-  "total_documents": 787,
+  "generated_at": "2026-08-22T18:37:05.626Z",
+  "total_documents": 789,
   "by_source": {
-    "BCN": 787
+    "BCN": 789
   },
   "by_type": {
-    "norma": 292,
+    "norma": 294,
     "articulo": 495
   },
   "by_year": {
@@ -22,9 +22,9 @@
     "1984": 2,
     "1985": 3,
     "1986": 1,
-    "1987": 5,
+    "1987": 6,
     "1988": 4,
-    "1989": 5,
+    "1989": 6,
     "1990": 4,
     "1991": 2,
     "1992": 2,
@@ -65,7 +65,7 @@
   },
   "min_year": 1974,
   "max_year": 2026,
-  "historical_documents": 289,
+  "historical_documents": 291,
   "has_lir_article_31": true,
   "logs": [
     "[BCN] LIR 2001-02-16: versión histórica indexada",
@@ -257,7 +257,7 @@
     "[BCN] CT 1983-11-23: versión histórica indexada",
     "[BCN] CT 1985-12-28: versión histórica indexada",
     "[BCN] CT 1987-08-17: versión histórica indexada",
-    "[BCN] API CT 1987-10-01: 502 Bad Gateway",
+    "[BCN] CT 1987-10-01: versión histórica indexada",
     "[BCN] CT 1987-12-31: versión histórica indexada",
     "[BCN] CT 1988-12-29: versión histórica indexada",
     "[BCN] CT 1990-06-28: versión histórica indexada",

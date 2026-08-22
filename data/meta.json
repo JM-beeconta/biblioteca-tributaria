@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-22T18:17:51.732Z",
-  "total_documents": 8666,
+  "generated_at": "2026-08-22T18:37:07.866Z",
+  "total_documents": 9163,
   "by_source": {
     "SII": 8374,
-    "BCN": 292
+    "BCN": 789
   },
   "by_type": {
     "oficio": 7521,
     "circular": 853,
-    "norma": 289,
-    "articulo": 3
+    "norma": 294,
+    "articulo": 495
   },
   "by_year": {
-    "1974": 4,
+    "1974": 499,
     "1975": 16,
     "1976": 16,
     "1977": 4,
@@ -25,9 +25,9 @@
     "1984": 5,
     "1985": 11,
     "1986": 1,
-    "1987": 12,
+    "1987": 13,
     "1988": 19,
-    "1989": 10,
+    "1989": 11,
     "1990": 11,
     "1991": 8,
     "1992": 7,
@@ -79,7 +79,7 @@
     "CT"
   ],
   "mode": "backfill:BCN",
-  "last_scrape_at": "2026-08-22T18:17:50.918Z",
-  "touched_documents": 787,
+  "last_scrape_at": "2026-08-22T18:37:07.039Z",
+  "touched_documents": 789,
   "backfill_status": "completed"
 }
