@@ -31,6 +31,7 @@ h1 { font-size: clamp(36px, 5vw, 62px); line-height: .98; letter-spacing: -.045e
 .filters select { width: 100%; padding: 11px 12px; border: 1px solid var(--line); border-radius: 9px; background: white; color: var(--ink); }
 .status-row { display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 16px 0; color: var(--muted); font-size: 14px; }
 .status-row strong { color: var(--ink); }
+#visibleCount { margin-left: 4px; }
 .results { display: grid; gap: 0; }
 .card { padding: 24px 0; border-bottom: 1px solid var(--line); display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; cursor: pointer; outline: 0; }
 .card:focus-visible { box-shadow: inset 3px 0 0 var(--blue); padding-left: 14px; }
@@ -45,6 +46,11 @@ h1 { font-size: clamp(36px, 5vw, 62px); line-height: .98; letter-spacing: -.045e
 .ref { font-size: 11px; border: 1px solid var(--line); padding: 4px 7px; border-radius: 6px; color: var(--muted); }
 .card-arrow { font-size: 26px; color: var(--blue); align-self: center; }
 .empty { padding: 54px 0; color: var(--muted); }
+.results-actions { display: flex; justify-content: center; gap: 10px; padding: 26px 0 8px; }
+.results-actions[hidden] { display: none; }
+.results-button { appearance: none; border: 1px solid var(--blue); border-radius: 10px; background: var(--blue); color: white; padding: 11px 16px; font: inherit; font-size: 13px; font-weight: 800; cursor: pointer; transition: transform .15s ease, box-shadow .15s ease; }
+.results-button.secondary { background: white; color: var(--blue); }
+.results-button:hover { transform: translateY(-1px); box-shadow: 0 5px 14px rgba(0,61,208,.12); }
 .sources-note { margin-top: 42px; background: var(--soft); border-left: 5px solid var(--yellow); padding: 20px 22px; border-radius: 0 12px 12px 0; }
 .sources-note p { color: var(--muted); line-height: 1.55; margin-bottom: 0; }
 
@@ -72,6 +78,8 @@ dialog::backdrop { background: rgba(11,23,57,.55); backdrop-filter: blur(4px); }
   .card { grid-template-columns: 1fr; gap: 4px; }
   .card-arrow { display: none; }
   .status-row { align-items: flex-start; flex-direction: column; gap: 5px; }
+  .results-actions { flex-direction: column; }
+  .results-button { width: 100%; }
   dialog { width: 100vw; height: 100dvh; border-radius: 0; }
   .reader-head { height: 76px; padding: 14px 16px; }
   .reader-head h2 { max-width: calc(100vw - 92px); font-size: 16px; }
