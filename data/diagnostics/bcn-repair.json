@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-08-22T02:16:36.970Z",
+  "total_documents": 0,
+  "by_source": {},
+  "by_type": {},
+  "by_year": {},
+  "min_year": null,
+  "max_year": null,
+  "historical_documents": 0,
+  "has_lir_article_31": false,
+  "logs": [
+    "[BCN] LIR (6368) vigente",
+    "[BCN] Impresión incompleta LIR: 235 caracteres, 0 artículos",
+    "[BCN] LIR: no se obtuvo texto estructurado vigente",
+    "[BCN] LIR: 0 fechas de versión detectadas",
+    "[BCN] LIVS (6369) vigente",
+    "[BCN] Impresión incompleta LIVS: 235 caracteres, 0 artículos",
+    "[BCN] LIVS: no se obtuvo texto estructurado vigente",
+    "[BCN] LIVS: 0 fechas de versión detectadas",
+    "[BCN] CT (6374) vigente",
+    "[BCN] Impresión incompleta CT: 235 caracteres, 0 artículos",
+    "[BCN] CT: no se obtuvo texto estructurado vigente",
+    "[BCN] CT: 0 fechas de versión detectadas"
+  ]
+}
