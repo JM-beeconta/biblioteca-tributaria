@@ -13,7 +13,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: biblioteca-tributaria
+  group: biblioteca-smoke-2026
   cancel-in-progress: true
 
 jobs:
@@ -70,7 +70,7 @@ jobs:
             oficio_2111_format: oficio2111?.format ?? null,
             meta,
           };
-          report.status = process.env.INGEST_OUTCOME === 'success' && oficios2026.length >= 50 && Boolean(oficio2111) ? 'ok' : 'fail';
+          report.status = process.env.INGEST_OUTCOME === 'success' && oficios2026.length >= 180 && Boolean(oficio2111) ? 'ok' : 'fail';
           fs.writeFileSync('data/update-smoke.json', JSON.stringify(report, null, 2) + '\n');
           console.log(report);
           NODE
