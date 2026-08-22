@@ -1,0 +1,86 @@
+# Oficio N° 1128 de 2026
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1128
+- Año: 2026
+- Fecha: 2026-05-13
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1128-13%2F05%2F2026.pdf&extension=pdf&acc=download&id=62b1d339-0924-4e65-ad36-736bfcbb0f64&mediaType=application%2Fpdf
+- Hash SHA-256: dd47c1fb72dd7e64129c811581c98f8c6a5fb2c570f6cd6e0f015c85fd00d619
+
+## Resumen
+
+IVA en la venta de gas licuado de petróleo en cilindros y pagos por incentivos o bonificaciones por cumplimiento de metas o volúmenes de venta
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"articulo","law":"LIVS","article":"15"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 2 N° 1, N° 2 Y N° 3 –
+          RESOLUCIÓN EX. N° 1087 DE 1978 – (ORD. N° 1128, DE 13.05.2026)
+
+
+IVA en la venta de gas licuado de petróleo en cilindros y pagos por incentivos o bonificaciones
+por cumplimiento de metas o volúmenes de venta
+
+
+De acuerdo con su presentación, tras informar que un operador comercial1 adquiere el gas licuado
+de petróleo (GLP) envasado a una empresa proveedora2 para su posterior comercialización a
+consumidores finales, principalmente para uso domiciliario, efectuando la venta en cilindros y
+emitiendo la respectiva boleta al comprador, y que la empresa proveedora paga al operador
+comercial incentivos o bonificaciones por cumplimiento de metas o volúmenes de venta, por los
+cuales el operador le emite factura, consulta si están afectos a IVA la venta de GLP en cilindros al
+consumidor final para uso domiciliario como los pagos por incentivos.
+Al respecto se informa que la venta de GLP envasado en cilindros configura el hecho gravado básico
+de “venta” definido en el N° 1°) del artículo 2° de la Ley sobre Impuesto a las Ventas y Servicios
+(LIVS), en relación con el N° 3°) del mismo artículo, por consistir en la transferencia onerosa de
+un bien corporal mueble efectuada un vendedor habitual.
+Por otra parte, no existe exención real ni personal aplicable a la venta de GLP ni a combustibles de
+uso domiciliario, sin perjuicio que la venta de GLP envasado en cilindros está sujeta a un régimen
+especial de cambio de sujeto, establecido en la Resolución Ex. N° 1087 de 1978, la cual distingue
+dos categorías de sujetos y les asigna obligaciones diferenciadas: las empresas concesionarias o
+distribuidoras (en este caso, la empresa proveedora), quienes actúan como agente retenedor, y los
+subdistribuidores, agentes y otros revendedores (en este caso, el operador comercial) a quienes el
+distribuidor retiene y entera el impuesto correspondiente al margen de comercialización.3
+Precisado lo anterior, en caso que el operador comercial realice una prestación consistente en la
+distribución y colocación del GLP en el mercado, alcanzando metas o volúmenes de venta pactados
+contractualmente, por la cual percibe una remuneración autónoma e independiente del precio de
+adquisición del producto, que no opera como rebaja del costo del bien sino como remuneración por
+una actividad específica, dicha prestación se clasifica como “servicio” conforme la definición
+contenida en el N° 2°) del artículo 2° de la LIVS, afecta a IVA, debiendo emitir factura electrónica
+afecta a IVA con recargo del 19% sobre el monto del incentivo o comisión pactada.
+
+
+
+
+                                             JORGE TRUJILLO PUENTES
+                                                    DIRECTOR
+
+
+                                               Oficio N° 1128, de 13.05.2026
+                                                 Subdirección Normativa
+                                               Depto. de Impuestos Indirectos
+
+
+
+
+1
+  Desarrolla actividades de almacenamiento, transporte y distribución de GLP, contando con la infraestructura, personal y medios
+  necesarios para ello
+2
+  Dedicada al envasado, transporte y comercialización de GLP, siendo además propietaria de los cilindros utilizados para su distribución.
+3
+  Resolución N° 1110 de 1978. En síntesis, el mecanismo opera del siguiente modo: al emitir la factura de venta de GLP envasado al
+  operador comercial, la empresa proveedora incluye tanto el IVA de su propia venta neta como el IVA calculado sobre el margen de
+  comercialización que obtendrá el operador al vender al público. Dicho margen corresponde a la diferencia entre el precio de reventa
+  al consumidor final y el precio neto de adquisición del GLP, siendo ese diferencial la base imponible sobre la cual se aplica la tasa del
+  19%, en conformidad con lo dispuesto en el artículo 15 de la LIVS y la mecánica de retención establecida en la Resolución N° 1087
+  de 1978. El operador, por su parte, queda habilitado para vender GLP al consumidor final sin recargar ni declarar IVA por esas
+  operaciones, al haber sido el impuesto ya enterado anticipadamente por el distribuidor, quedando liberado también de la obligación de
+  emitir boletas. Cabe tener presente que, según dispone el N° 8 de la Resolución N°1087 de 1978, el contribuyente subdistribuidor,
+  agente u otra persona revendedora de GLP puede solicitar que se le excepcione del régimen, en cuyo caso queda sometido a todas las
+  disposiciones de la LIVS, sin que opere tampoco la exención de otorgar boletas
