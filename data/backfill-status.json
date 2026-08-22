@@ -1,7 +1,7 @@
 {
   "status": "running",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T03:34:25.843Z",
+  "updated_at": "2026-08-22T03:35:30.901Z",
   "completed_at": null,
   "total_ranges": 14,
   "completed_ranges": [
@@ -13,10 +13,11 @@
     "2005-2008",
     "2001-2004",
     "1997-2000",
-    "1993-1996"
+    "1993-1996",
+    "1989-1992"
   ],
-  "completed_count": 9,
-  "last_completed_range": "1993-1996",
-  "last_range_documents": 357,
-  "total_documents": 8299
+  "completed_count": 10,
+  "last_completed_range": "1989-1992",
+  "last_range_documents": 25,
+  "total_documents": 8322
 }
