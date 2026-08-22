@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributario. Art�culo 69� Obligaci�n de solicitar autorizaci�n previa para disminuir el capital social, no existiendo excepci�n alguna para su debido cumplimiento, de acuerdo al texto del art�culo 69� del C�digo Tributario. (Oficio N� 1185, de 30 Marzo 1987). Decreto Ley N� 889, de 1975, Art. 13 - Decreto Ley N� 249, de 1974 � Art. 7. Presunci�n de asignaci�n de zona para fines de franquicias regionales, en caso de Pr�ctico de Puertos y Canales. (Ord. N� 2868, de 26.05.1978) Impuesto Timbres y Estampillas. Art�culo…
+Decreto Ley N� 889, de 1975, Art. 13 - Decreto Ley N� 249, de 1974 � Art. 7. Presunci�n de asignaci�n de zona para fines de franquicias regionales, en caso de Pr�ctico de Puertos y Canales. (Ord. N� 2868, de 26.05.1978)
 
 ## Referencias detectadas
 

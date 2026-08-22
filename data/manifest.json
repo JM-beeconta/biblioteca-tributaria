@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T23:47:50.388Z",
-  "total_documents": 11243,
+  "generated_at": "2026-08-22T23:48:33.621Z",
+  "total_documents": 11246,
   "by_source": {
-    "SII": 10454,
+    "SII": 10457,
     "BCN": 789
   },
   "by_type": {
     "resolucion": 1975,
-    "oficio": 7615,
+    "oficio": 7618,
     "circular": 864,
     "norma": 294,
     "articulo": 495
@@ -15,9 +15,9 @@
   "by_year": {
     "1974": 499,
     "1975": 18,
-    "1976": 16,
-    "1977": 4,
-    "1978": 5,
+    "1976": 14,
+    "1977": 6,
+    "1978": 8,
     "1979": 7,
     "1980": 7,
     "1981": 4,
@@ -459,15 +459,23 @@
       "name": "1978.json",
       "path": "data/index/1978.json",
       "relations_path": "data/relations/1978.json",
-      "count": 1,
+      "count": 4,
       "source": "SII",
       "year": 1978
+    },
+    {
+      "name": "1977.json",
+      "path": "data/index/1977.json",
+      "relations_path": "data/relations/1977.json",
+      "count": 2,
+      "source": "SII",
+      "year": 1977
     },
     {
       "name": "1976.json",
       "path": "data/index/1976.json",
       "relations_path": "data/relations/1976.json",
-      "count": 8,
+      "count": 6,
       "source": "SII",
       "year": 1976
     },

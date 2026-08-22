@@ -6,12 +6,12 @@
 - Año: 1980
 - Fecha: 1980-04-08
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/6136_79.htm
-- Hash SHA-256: c1b0f649592a59e4d1a50db92598e16d012affa8b68965490fb6bec17ae5bc2f
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/abr2064.htm
+- Hash SHA-256: 436413d43b4c05fad2c44446487bb6417231e261b2814730f3e04b6e40c1e332
 
 ## Resumen
 
->( Ley de Impuesto a las Ventas y Servicios. Artículo 2° Situación tributaria de ingresos obtenidos por Institución de Beneficencia que colabora en el mantenimiento de Hogar de ancianos. (Oficio N° 1.327, de fecha 03 de Marzo de 1980) Ley de Impuesto a la Renta. Artículos 34 bis y 42° N° 2 y 74°. Presentación de Canal Nacional Deportivo Laboral , sobre emisión de boleta y retención 10% honorarios pagados a árbitros, y situación tributaria del arriendo de buses que efectúa para trasladar deportistas. ( Oficio N° 61…
+980) Ley Sobre Impuesto a las Ventas y Servicios Aplicación IVA en las Diferencias de Cobro Producidas por Venta de Bienes Muebles a Plazo a Través de Letras de Cambio en Moneda Extranjera. (
 
 ## Referencias detectadas
 
@@ -19,18 +19,13 @@
 
 ## Texto extraído
 
-oficio N° 6136 de 29 de agosto de 1979.
+OFICIO N� 2064 de 1980
 
-Home
-| Años
-anteriores
+Home | Ventas y Servicios -
+Anteriores
+LEY SOBRE IMPUESTO A LAS VENTAS Y
+SERVICIOS - ORDINARIO N� 2064 DE 08 DE ABRIL DE 1980
 
-LEY DE
-IMPUESTO A LA RENTA. ARTICULOS 34 bis y 42° N° 2 y 74°.
-Ordinario N° 6136, de 29 de Agosto de 1979.-
-
-MATERIA: Presentación
-de Canal Nacional Deportivo Laboral , sobre emisión de boleta y retención
-10% honorarios pagados a árbitros, y situación
-tributaria del arriendo de buses que efectúa para trasladar
-deportistas.
+APLICACION IVA EN LAS
+DIFERENCIAS DE COBRO PRODUCIDAS POR VENTA DE BIENES MUEBLES A PLAZO A TRAVES
+DE LETRAS DE CAMBIO EN MONEDA EXTRANJERA.
