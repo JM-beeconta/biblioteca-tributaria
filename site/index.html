@@ -52,11 +52,16 @@
     </section>
 
     <section class="status-row">
-      <div><strong id="resultCount">0</strong> resultados</div>
+      <div><strong id="resultCount">0</strong> documentos encontrados <span id="visibleCount"></span></div>
       <div id="updatedAt">Cargando biblioteca…</div>
     </section>
 
     <section id="results" class="results" aria-live="polite"></section>
+
+    <div id="resultsActions" class="results-actions" hidden>
+      <button id="loadMore" class="results-button" type="button">Mostrar más</button>
+      <button id="showAll" class="results-button secondary" type="button">Mostrar todos</button>
+    </div>
 
     <section class="sources-note">
       <strong>Cómo usar esta biblioteca</strong>
