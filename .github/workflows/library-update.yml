@@ -87,20 +87,33 @@ jobs:
 
           if [ -f .bootstrap-state.json ]; then
             NEXT_TO=$(node -e "const s=require('./.bootstrap-state.json'); console.log(s.next_to)")
-            FIRST=0
           else
-            # Priorizamos los dos años recientes para validar y poblar el buscador cuanto antes.
             RECENT_FROM=$((CURRENT_YEAR - 1))
-            echo "Procesando tramo reciente $RECENT_FROM-$CURRENT_YEAR"
-            node scripts/update.mjs --from="$RECENT_FROM" --to="$CURRENT_YEAR"
+            CURRENT_OFICIOS=$(node - <<'NODE'
+          const fs = require('fs');
+          let docs = [];
+          try { docs = JSON.parse(fs.readFileSync('data/index.json', 'utf8')); } catch {}
+          const year = new Date().getFullYear();
+          console.log(docs.filter(d => d.source === 'SII' && d.type === 'oficio' && Number(d.year) === year).length);
+          NODE
+            )
+
+            if [ "$CURRENT_OFICIOS" -ge 150 ]; then
+              echo "2026 ya está poblado ($CURRENT_OFICIOS Oficios); procesando sólo $RECENT_FROM"
+              node scripts/update.mjs --from="$RECENT_FROM" --to="$RECENT_FROM"
+            else
+              echo "Procesando tramo reciente $RECENT_FROM-$CURRENT_YEAR"
+              node scripts/update.mjs --from="$RECENT_FROM" --to="$CURRENT_YEAR"
+            fi
+
             NEXT_TO=$((RECENT_FROM - 1))
             printf '{\n  "next_to": %s,\n  "min_year": %s,\n  "chunk": %s\n}\n' "$NEXT_TO" "$MIN_YEAR" "$CHUNK" > .bootstrap-state.json
             git add data content .bootstrap-state.json
             if ! git diff --cached --quiet; then
-              git commit -m "chore: backfill tributario reciente $RECENT_FROM-$CURRENT_YEAR"
+              git commit -m "chore: backfill tributario reciente"
+              git pull --rebase origin main
               git push
             fi
-            FIRST=0
           fi
 
           while [ "$NEXT_TO" -ge "$MIN_YEAR" ]; do
@@ -117,6 +130,7 @@ jobs:
             git add data content .bootstrap-state.json
             if ! git diff --cached --quiet; then
               git commit -m "chore: backfill tributario $LO-$HI"
+              git pull --rebase origin main
               git push
             fi
           done
@@ -125,6 +139,7 @@ jobs:
           git add -A .bootstrap-full-history .bootstrap-state.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: completar backfill histórico"
+            git pull --rebase origin main
             git push
           fi
 
