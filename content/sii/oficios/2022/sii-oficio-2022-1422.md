@@ -1,0 +1,117 @@
+# Oficio N° 1422 de 2022
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1422
+- Año: 2022
+- Fecha: 2022-04-28
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1422-28%2F04%2F2022.pdf&extension=pdf&acc=download&id=839ed6dd-22ad-40bd-8931-0d885a0c4dcd&mediaType=application%2Fpdf
+- Hash SHA-256: 600efd58f47828b9903d8cd7443c7a752f0cecabe20f124add3cd1f59e8c197f
+
+## Resumen
+
+Consulta si los servicios para proporcionar personal se encuentran gravados o exentos de IVA.
+
+## Referencias detectadas
+
+- {"type":"oficio","number":858,"year":2021}
+- {"type":"oficio","number":5583,"year":2003}
+- {"type":"oficio","number":3336,"year":2009}
+- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIVS","article":"20 d"}
+- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"articulo","law":"LIVS","article":"69"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART.2 – LEY DE IMPUESTO A LA
+    RENTA – ART.20 N°3 – CODIGO DE COMERCIO – ART. 3 N°7 – (ORD. N° 1422, DE
+                                  28.04.2022)
+
+
+Consulta si los servicios para proporcionar personal se encuentran gravados o exentos de
+IVA.
+
+
+De acuerdo con su presentación, una empresa ofrece sus servicios a una institución pública en el
+marco de una licitación, proporcionando personal que cubra las distintas necesidades de la
+institución.
+Las bases de la licitación obligan a los oferentes a declarar si el servicio ofrecido se encuentra
+gravado o exento de IVA y la empresa se adjudicó la oferta exenta de IVA, sin perjuicio de lo
+cual consideran que se trataría de una agencia de negocios y, por ende, sus actos reputados
+mercantiles de acuerdo con lo establecido por el N° 7 del artículo 3° del Código de Comercio.
+Al respecto se consulta si los referidos servicios se encuentran gravados con IVA y, en caso
+afirmativo, si se hubiera emitido factura exenta a su respecto, cuáles serían las sanciones que
+arriesga la empresa prestadora de los servicios y la entidad pública beneficiaria de los mismos.
+Sobre lo consultado se informa que el N° 2°) del artículo 2° de la Ley sobre Impuesto a las Ventas
+y Servicios (LIVS) entiende por “servicio” toda acción o prestación que una persona realiza para
+otra, por la cual percibe una remuneración y siempre que provenga del ejercicio de las actividades
+comprendidas en los números 3 y 4 del artículo 20 de la Ley sobre Impuesto a la Renta (LIR)1.
+Entre las actividades mencionadas en el N° 3 del citado artículo 20 se comprenden las rentas del
+comercio, actividades que este Servicio ha entendido referidas a las señaladas en el artículo 3° del
+Código de Comercio, cuyo N° 7 incluye, como actos de comercio, los servicios que prestan las
+agencias de negocios.
+A su turno, las agencias de negocios se caracterizan2 por ser una empresa que supone una
+organización estable y cuyo objetivo es facilitar a sus clientes la ejecución de sus negocios, a
+través de la prestación de una serie de servicios3 de la más variada índole, tanto civiles como
+mercantiles, y pudiendo realizar por si misma las operaciones encargadas, pero por cuenta ajena.
+Dentro de los servicios que habitualmente presta esta clase de entidades se pueden mencionar,
+entre otros, los servicios de proporcionar personal.
+Además, para estar en presencia de una agencia de negocios, es requisito fundamental que la
+empresa prestadora se encuentre abierta al público, en términos de ofrecer sus servicios al
+mercado, indistintamente a todos aquellos que lo soliciten4.
+Ahora bien, en la medida que la empresa prestadora de los servicios sea una organización estable,
+abierta al público, que el personal proporcionado cuente con los conocimientos requeridos para la
+adecuada gestión de la entidad pública5, dicha empresa se debe considerar como una agencia de
+negocios, gravada con IVA, por corresponder al ejercicio de una actividad comprendida en el N°
+3 del artículo 20 de la LIR, en concordancia con el N° 2°) del artículo 2° de la LIVS.
+De acuerdo con lo anterior, la empresa debe emitir una factura recargando el IVA por el pago de
+su prestación. En el evento que la empresa, por su remuneración, emita una factura de ventas y
+servicios no afectos o exentos de IVA, la omisión de recargar, declarar y enterar el impuesto
+
+1
+  El artículo 6° de la Ley N° 21.420 modificó el párrafo primero del N° 2°) del artículo 2° de la LIVS, eliminando la referencia que se
+  hace al ejercicio de las actividades comprendida en los números 3 y 4 del artículo 20 de la LIR, a contar del 1 de enero de 2023, de
+  conformidad con el artículo octavo transitorio de la Ley, con todo, dicha modificación no se aplicará respecto de los servicios
+  comprendidos en licitaciones del Estado y compras públicas que hayan sido adjudicadas o contratadas con anterioridad al 1 de enero
+  de 2023.
+2
+  A modo ejemplar, Oficios N° 1711 de 2016, N° 961 de 2018, N° 1124 de 2018, N° 243 de 2020 y N° 858 de 2021
+3
+  Dentro de los servicios que habitualmente presta esta clase de entidades se pueden mencionar los servicios de intermediación o
+  correduría, administración, mandatos, proporcionar personal, entre otros.
+4
+  Por ejemplo, ver recientemente Oficio N° 858 de 2021.
+5
+  Oficio N° 5583 de 2003 y Oficio N° 3336 de 2009.
+                                               2
+
+
+
+
+correspondiente es sancionada con la multa establecida en el N° 11 del artículo 97 del Código
+Tributario, juntamente con el cobro del impuesto omitido, incluyendo el reajuste e interés del
+artículo 53 del referido Código.
+Sin perjuicio de la aplicación de la sanción referida por el retardo en declarar y enterar el
+impuesto que ha debido recargarse, se configura también la infracción prevista y sancionada en el
+N° 10 del artículo 97 del citado código, al no haberse emitido la factura en la forma exigida por
+las leyes, considerando que el artículo 69 de la LIVS prescribe que las personas que realicen
+operaciones gravadas con el IVA deben recargar a los compradores o beneficiarios del servicio
+una suma igual al monto del respectivo gravamen, la cual debe indicarse separadamente en la
+factura.
+El Código Tributario no contempla una sanción específica para el receptor de una factura no
+afecta o exenta de IVA, si la operación se encuentra gravada con dicho impuesto.
+
+
+
+
+                       HERNÁN ANDRÉS FRIGOLETT CÓRDOVA
+                                  DIRECTOR
+
+
+
+
+                                 Oficio N° 1422, de 28-04-2022
+                                   Subdirección Normativa
+                                 Depto. de Impuestos Indirectos

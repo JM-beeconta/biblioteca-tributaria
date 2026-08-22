@@ -1,0 +1,105 @@
+# Oficio N° 3018 de 2022
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3018
+- Año: 2022
+- Fecha: 2022-10-12
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3018-12%2F10%2F2022.pdf&extension=pdf&acc=download&id=d042099c-c39a-4929-8e19-e0a3eff60b9a&mediaType=application%2Fpdf
+- Hash SHA-256: e63836e3d9d77163e52384894abf38930a01d586434d842762c007b05339f755
+
+## Resumen
+
+Crédito fiscal por pago de impuesto a los combustibles usado en generadores.
+
+## Referencias detectadas
+
+- {"type":"circular","number":32,"year":1986}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY N° 18.502 – ART. 6° Y ART. 7° –
+                         (ORD. N° 3018, DE 12.10.2022)
+
+
+Crédito fiscal por pago de impuesto a los combustibles usado en generadores.
+
+
+De acuerdo con su presentación, consulta sobre la posibilidad de recuperar parte del impuesto
+pagado el año anterior por concepto de combustibles (petróleo diésel), declarado a través del
+Registro de Emisiones y Transferencias de Contaminantes1 y que es utilizado en un equipo
+generador dentro de las instalaciones de una empresa.
+Al respecto se informa que el artículo 6° de la Ley N° 18.502 establece, a beneficio fiscal,
+impuestos específicos a las gasolinas automotrices y el petróleo diésel, en tanto que el artículo 7°
+del mismo cuerpo legal facultó2 al Presidente de la República para establecer, para las empresas
+afectas a IVA y para las empresas constructoras, que usen petróleo diésel, que no esté destinado a
+vehículos motorizados que transiten por las calles, caminos y vías públicas en general, la
+recuperación del impuesto de dicha ley soportado en la adquisición de dicho producto, como
+crédito fiscal del IVA determinado por el período tributario correspondiente, o mediante su
+devolución.
+El mismo artículo 7° dispone, además, que no podrán acogerse a esta modalidad de recuperación
+del impuesto las empresas de transporte terrestre y las que utilicen vehículos motorizados que
+transiten por las calles, caminos y vías públicas respecto del consumo de petróleo diésel efectuado
+en ellos.
+Dicho lo anterior y conforme ha precisado este Servicio3 los requisitos legales para obtener la
+referida recuperación son:
+1)    Que la empresa que invoca el beneficio sea contribuyente de IVA o tenga la calidad de
+      exportador.
+2)    Que la empresa que invoca el beneficio use el petróleo diésel que adquiere en las actividades
+      de su giro.
+3)    Que la empresa no utilice el petróleo en vehículos motorizados que transiten por calles,
+      caminos y vías públicas en general.
+Conforme lo expuesto precedentemente, si en el caso consultado la empresa utiliza efectivamente
+el combustible en un equipo generador, que es necesario para la realización de actividades propias
+de su giro, y cumpliendo con los demás requisitos legales, podrá utilizar como crédito fiscal el
+impuesto específico al petróleo diésel soportado en la adquisición de dicho combustible4,
+deduciéndolo del débito fiscal IVA generado en el mismo periodo en que adquirió el petróleo
+diésel, o dentro del plazo que establece el inciso final del artículo 24 de la Ley sobre Impuesto a
+las Ventas y Servicios5.
+Lo anterior, salvo que el impuesto específico a los combustibles sea negativo, como acontece
+actualmente, caso en el cual la empresa deberá adicionar dicho valor absoluto a los débitos
+fiscales IVA del mismo período de adquisición del petróleo diésel6.
+Ahora, asumiendo que la empresa, cumpliendo los requisitos legales referidos precedentemente,
+no utilizó como crédito fiscal el impuesto específico al petróleo diésel soportado en la adquisición
+
+1
+   Regulado por la letra p) del artículo 70 de la Ley N° 19.300, que aprueba ley sobre bases generales del medio ambiente, y por el
+  Decreto Supremo N° 1 de 2013, del Ministerio del Medio Ambiente, que aprueba reglamento del Registro de Emisiones y
+  Transferencias de Contaminantes, RETC, a través del cual se da cumplimiento a lo dispuesto en el Decreto Supremo N° 138 de
+  2005, del Ministerio de Salud, que ordena a los titulares de fuentes fijas de emisión de contaminantes atmosféricos que establece
+  dicho decreto presentar a la Secretaría Regional Ministerial competente los antecedentes necesarios para estimar las emisiones
+  provenientes de cada una de sus fuentes.
+2
+  Dicha facultad se materializó en el Decreto Supremo N° 311 de 1986, del Ministerio de Hacienda.
+3
+  Oficios N° 1849 de 2022, N° 2248 de 2019, N° 509 de 2019, N° 827 de 2008 y Circular N° 32 de 1986.
+4
+  Declarándolo en el código 127 de la actual línea 44 del formulario 29.
+5
+  De acuerdo con el mecanismo establecido en decreto supremo citado en la nota al pie N° 2, anterior.
+6
+  De acuerdo con el mecanismo establecido en decreto supremo citado en la nota al pie N° 2, anterior.
+                                               2
+
+
+
+
+de dicho combustible durante el año 2021, podrá rectificar los respectivos formularios 29, sobre
+declaración mensual y pago simultáneo de impuestos, mediante los cuales declaró y enteró en
+arcas fiscales el IVA determinado por el respectivo período.
+Con todo, tanto la concurrencia de los requisitos legales como la correcta rectificación de los
+respectivos formularios 29 deberán ser verificados en la correspondiente instancia fiscalizadora.
+
+
+
+
+                       HERNÁN ANDRÉS FRIGOLETT CÓRDOVA
+                                  DIRECTOR
+
+
+
+
+                                 Oficio N° 3018, de 12-10-2022
+                                   Subdirección Normativa
+                                 Depto. de Impuestos Indirectos

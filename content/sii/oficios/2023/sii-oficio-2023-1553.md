@@ -1,0 +1,80 @@
+# Oficio N° 1553 de 2023
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1553
+- Año: 2023
+- Fecha: 2023-05-24
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1553-24%2F05%2F2023.pdf&extension=pdf&acc=download&id=ea28ec36-fce9-4045-92ce-c46f2408dd5e&mediaType=application%2Fpdf
+- Hash SHA-256: 5a4e0715f0a5ad649eb212567e5f3148255b10cac2ded69bb9d3e47689619574
+
+## Resumen
+
+Afectación de giro exclusivo de sociedades de profesionales por inmueble adquirido por dación en pago.
+
+## Referencias detectadas
+
+- {"type":"circular","number":50,"year":2022}
+- {"type":"articulo","law":"LIVS","article":"4"}
+- {"type":"articulo","law":"LIVS","article":"2"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 2 N° 1 Y N° 3 –
+           DECRETO SUPREMO N° 55 DE 1977 (ORD. N° 1553, DE 24.05.2023)
+
+
+Afectación de giro exclusivo de sociedades de profesionales por inmueble adquirido por
+dación en pago.
+
+De acuerdo con su presentación, tras informar que participa en una sociedad de profesionales
+dedicada a la prestación de servicios jurídicos, señala que un cliente habría ofrecido pagar los
+honorarios pactados mediante la dación en pago de un inmueble, consultando si la adquisición del
+inmueble, ajeno al giro profesional, infringe la regla de giro exclusivo1 de las sociedades de
+profesionales y si su posterior enajenación estaría afecta a IVA.
+Al respecto, se informa que:
+1)      Constituyendo la dación en pago una forma alternativa de satisfacción de los honorarios
+        pactados2, la adquisición del inmueble, en principio, no afecta el giro exclusivo que deben
+        observar las sociedades de profesionales, siempre que dicha forma alternativa de pago no
+        constituya una práctica habitual que implique el ejercicio de una actividad económica
+        adicional, como sería, en el caso de inmuebles, el desarrollo paralelo del giro inmobiliario.
+2)      En lo pertinente, los números 1°) y 3°) del artículo 2° de la Ley sobre Impuesto a las Ventas
+        y Servicios (LIVS) definen “venta” como toda convención independiente de la designación
+        que le den las partes, que sirva para transferir a título oneroso el dominio de bienes
+        corporales muebles y bienes corporales inmuebles construidos, mientras que como
+        “vendedor” a cualquier persona natural o jurídica, incluyendo las comunidades y las
+        sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales
+        muebles e inmuebles, sean ellos de su propia producción o adquiridos de terceros;
+        correspondiendo a este Servicio calificar la habitualidad.
+        Al efecto, el artículo 4° del Decreto Supremo N° 55 de 1977, Reglamento de la LIVS,
+        dispone que, para calificar la habitualidad a que se refiere el N° 3 del artículo 2° de la LIVS,
+        el Servicio considerará la naturaleza, cantidad y frecuencia con que el vendedor realice las
+        ventas de los bienes corporales muebles o inmuebles de que se trate y, con estos
+        antecedentes, determinará si el ánimo que guio al contribuyente fue adquirirlos para su uso,
+        consumo o para la reventa.
+        Luego, considerando lo señalado en el apartado 1) anterior, en la medida que la enajenación
+        de un inmueble recibido por dación en pago no constituya una práctica habitual, atendida la
+        naturaleza, cantidad y frecuencia de tales operaciones, su posterior venta no se encontrará
+        gravada con IVA por no tratarse de una venta realizada por un vendedor, cuestión, en último
+        término, entregada a la revisión de las respectivas instancias de fiscalización.
+
+
+
+
+                                          CAROLINA SARAVIA MORALES
+                                                DIRECTORA (S)
+
+
+                                               Oficio N° 1553, de 24.05.2023
+                                                 Subdirección Normativa
+                                               Depto. de Impuestos Indirectos
+
+
+
+1
+    Apartado 2.2. de la Circular N° 50 de 2022.
+2
+    La dación en pago consiste en un acuerdo del acreedor y deudor en que la obligación se cumpla con un objeto distinto al debido,
+    constituyendo, en consecuencia, el cumplimiento de una obligación, pero no en la forma que ella está establecida. René Abeliuk, Las
+    Obligaciones, Tomo II, Ed. Jurídica de Chile, p. 715-716.

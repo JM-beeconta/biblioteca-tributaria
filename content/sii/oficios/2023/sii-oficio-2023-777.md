@@ -1,0 +1,114 @@
+# Oficio N° 777 de 2023
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 777
+- Año: 2023
+- Fecha: 2023-03-09
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=777-09%2F03%2F2023.pdf&extension=pdf&acc=download&id=93ef0838-f115-40bc-bf1c-231da5c57758&mediaType=application%2Fpdf
+- Hash SHA-256: ea7c58b5db883895151af6d34a3df426e98e0afad2ce14655e63a71448474616
+
+## Resumen
+
+Cambio “sustancial” para los efectos del inciso segundo del artículo octavo transitorio de la Ley N° 21.420.
+
+## Referencias detectadas
+
+- {"type":"circular","number":50,"year":2022}
+- {"type":"articulo","law":"LIVS","article":"2"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 2 N° 2 – LEY N°
+        21.420, ART. 8° TRANSITORIO – REGLAMENTO LEY N° 19.886, ART. 77 –
+                  CIRCULAR N° 50 DE 2022 (ORD. N° 777, DE 09.03.2023)
+
+
+Cambio “sustancial” para los efectos del inciso segundo del artículo octavo transitorio de la
+Ley N° 21.420.
+
+Se ha solicitado a este Servicio un pronunciamiento sobre el carácter “sustancial” de cambio que
+pueda experimentar una licitación o compra publica, en el contexto del inciso segundo del artículo
+octavo transitorio de la Ley N° 21.420.
+I       ANTECEDENTES
+De acuerdo con su presentación, una empresa presta servicios de desarrollo de software y otras
+soluciones informáticas que, a partir del 1° de enero de 2023, estarán por regla general afectos a
+IVA.
+Señala que, entre los actuales clientes de su cliente, se encuentran diversas entidades del Estado
+que pueden acceder a la exención de IVA establecida en el inciso segundo del artículo octavo
+transitorio de la Ley N° 21.420.
+Agrega que, de acuerdo a lo establecido en el inciso final del artículo 77 del Reglamento de la
+Ley N° 19.886 de bases sobre contratos administrativos de suministro y prestación de servicios,
+contenido en el Decreto Supremo N° 250 de 2004, del Ministerio de Hacienda (Reglamento), en
+los contratos administrativos podrá aumentarse el monto del contrato hasta un 30 % del monto
+originalmente pactado en caso que las bases de licitación o el contrato así lo establezcan.
+Al respecto consulta si el ejercicio de esta modificación constituye un cambio sustancial a la
+licitación o compra, en los términos indicados en el numeral III, subnumeral 2, de la Circular N°
+50 de 2022 y, por lo tanto, si los servicios que se presten en virtud de dicho aumento del monto
+del contrato se mantienen exentos de IVA, en la medida que el contrato original se haya firmado o
+adjudicado antes del 1° de enero de 2023
+II      ANÁLISIS
+La Ley N° 21.420 modificó1, a contar del 1° de enero de 20232, el concepto de hecho gravado
+“servicio” contenido en el N° 2°) del artículo 2° de la Ley sobre Impuesto a las Ventas y Servicios
+(LIVS), eliminando el requisito que la remuneración del servicio provenga del ejercicio de alguna
+de las actividades clasificadas en los números 3 o 4 del artículo 20 de la Ley sobre Impuesto a la
+Renta (LIR).
+Luego, a contar de la fecha indicada, se grava con IVA toda acción o prestación que una persona
+realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de
+remuneración.
+Por otra parte, el inciso segundo del artículo octavo transitorio de la Ley N° 21.420 dispone que
+esta modificación del hecho gravado “servicio” no se aplicará respecto de servicios comprendidos
+en licitaciones del Estado y compras públicas que hayan sido adjudicadas o contratadas con
+anterioridad al 1° de enero de 2023.
+De este modo, y tal como instruye el apartado III de la Circular N° 50 de 2022, todas aquellas
+licitaciones o compras, adjudicadas o celebradas a plazo indefinido antes de 2023 y aquellas
+suscritas en dicha época con carácter de renovables o prorrogables, estarán cubiertas por el
+tratamiento especial del referido apartado, siempre que, a partir del 1° de enero de 2023, las partes
+no realicen cambios sustanciales a la licitación o compra, hecho que deberá ser determinado en el
+correspondiente periodo de fiscalización.
+
+
+1
+    N° 1 del artículo 6 de la Ley N° 21.420.
+2
+    Inciso primero del artículo octavo transitorio de la Ley N° 21.420.
+                                                 2
+
+
+
+
+Dicho lo anterior, en materia de contratos administrativos, el artículo 77 del Reglamento (relativo
+a las causales de modificaciones y término anticipado) dispone que los contratos administrativos
+regulados por este Reglamento podrán modificarse o terminarse anticipadamente por las causales
+que acto continuo establece.
+Sin perjuicio de las demás causales establecidas en el mismo artículo 77, prosigue su inciso final,
+cuando se trate de las causales contenidas en los numerales 1 (resciliación o mutuo acuerdo entre
+los contratantes) y 6 (las demás que se establezcan en las respectivas bases de la licitación o en el
+contrato), la posibilidad de modificar el contrato deberá encontrarse prevista en las bases de la
+licitación.
+En tal caso, continua la norma, no podrá alterarse la aplicación de los principios de estricta
+sujeción a las bases y de igualdad de los oferentes, así como tampoco podrá aumentarse el monto
+del contrato más allá de un 30 % del monto originalmente pactado.
+En consecuencia, cumpliendo las condiciones previstas en el citado artículo 77, para los fines del
+inciso segundo del artículo octavo transitorio de la Ley N° 21.420 puede estimarse que no
+constituye una alteración sustancial del contrato administrativo, regulado por el Reglamento, el
+aumento del respectivo contrato hasta un 30% del monto pactado.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente y respecto de lo consultado se informa que, para los fines
+del inciso segundo del artículo octavo transitorio de la Ley N° 21.420, no constituye una
+alteración sustancial del contrato administrativo, regulado por el Reglamento, el aumento del
+respectivo contrato hasta un 30% del monto pactado.
+
+
+
+
+                              HERNÁN FRIGOLETT CÓRDOVA
+                                      DIRECTOR
+
+
+
+
+                                  Oficio N° 777, de 09.03.2023
+                                    Subdirección Normativa
+                                  Depto. de Impuestos Indirectos

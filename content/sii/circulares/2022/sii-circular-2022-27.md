@@ -1,0 +1,111 @@
+# Circular N° 27 de 2022
+
+- Fuente: SII
+- Tipo: circular
+- Número: 27
+- Año: 2022
+- Fecha: 2022-06-16
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu27.pdf
+- Hash SHA-256: 316bec332f52ed85f988f1c5966fceca9a299e540f2190942de9bec88547d512
+
+## Resumen
+
+Fuente: Subdirección de Fiscalización. Circular N° 28 del 16 de Junio del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Julio 2022. Fuente: Subdirección de Fiscalización. del 2022 Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2022 y el 9 de julio de 2022, ambos inclusive. Fuente: Subdirección Normativa. Circular N° 26 del 09 de Junio del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de julio de 2022, e información adici…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"41 bis"}
+
+## Texto extraído
+
+DEPARTAMENTO EMISOR:                                CIRCULAR N°27.-
+Subdirección Normativa                              GE214170.2022
+Oficina de Gestión Normativa
+SISTEMA             DE            PUBLICACIONES
+                                                    FECHA: 09 DE JUNIO DE 2022.
+ADMINISTRATIVAS
+MATERIA: Operaciones de crédito de dinero. Valor REF. LEGAL: Acuerdo 05-07-900105 del Banco
+de la Unidad de Fomento para los días Central de Chile, publicado en el Diario Oficial de 8 de
+comprendidos entre el 10 de junio de 2022 y el 9 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a
+julio de 2022, ambos inclusive.                     la Renta.
+
+Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad
+al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se
+publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días
+10 de junio de 2022 y 9 de julio de 2022, ambos inclusive, el que se indica en forma destacada en negrita.
+
+Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de
+junio de 2022
+
+                                                                                AÑO 2022
+ DÍA         ENE                FEB         MAR         ABR         MAY         JUN      JUL                              AGO   SEP   OCT   NOV   DIC
+   1       30.996,73           31.220,68   31.552,64   31.730,80   32.196,69   32.694,20         33.099,99
+   2       31.001,72           31.228,70   31.566,08   31.733,87   32.216,89   32.708,87         33.113,16
+   3       31.006,71           31.236,73   31.579,53   31.736,94   32.237,11   32.723,54         33.126,33
+   4       31.011,69           31.244,76   31.592,99   31.740,00   32.257,34   32.738,22         33.139,50
+   5       31.016,68           31.252,79   31.606,45   31.743,07   32.277,59   32.752,90         33.152,68
+   6       31.021,67           31.260,83   31.619,92   31.746,14   32.297,84   32.767,60         33.165,86
+   7       31.026,67           31.268,86   31.633,39   31.749,20   32.318,11   32.782,29         33.179,05
+   8       31.031,66           31.276,90   31.646,87   31.752,27   32.338,40   32.797,00         33.192,25
+   9       31.036,65           31.284,94   31.660,36   31.755,34   32.358,69   32.811,71         33.205,45
+  10       31.044,63           31.298,27   31.663,42   31.775,27   32.373,21   32.824,76
+  11       31.052,61           31.311,61   31.666,48   31.795,21   32.387,73   32.837,81
+  12       31.060,59           31.324,95   31.669,54   31.815,17   32.402,26   32.850,87
+  13       31.068,58           31.338,30   31.672,60   31.835,13   32.416,79   32.863,94
+  14       31.076,56           31.351,65   31.675,66   31.855,11   32.431,33   32.877,01
+  15       31.084,55           31.365,01   31.678,72   31.875,10   32.445,88   32.890,08
+  16       31.092,54           31.378,38   31.681,78   31.895,11   32.460,44   32.903,16
+  17       31.100,54           31.391,75   31.684,84   31.915,12   32.475,00   32.916,25
+  18       31.108,53           31.405,12   31.687,91   31.935,15   32.489,56   32.929,34
+  19       31.116,53           31.418,50   31.690,97   31.955,20   32.504,14   32.942,44
+  20       31.124,53           31.431,89   31.694,03   31.975,25   32.518,72   32.955,54
+  21       31.132,53           31.445,29   31.697,09   31.995,32   32.533,31   32.968,64
+  22       31.140,53           31.458,68   31.700,16   32.015,40   32.547,90   32.981,75
+  23       31.148,54           31.472,09   31.703,22   32.035,49   32.562,50   32.994,87
+  24       31.156,54           31.485,50   31.706,28   32.055,60   32.577,11   33.007,99
+  25       31.164,55           31.498,92   31.709,35   32.075,71   32.591,72   33.021,12
+  26       31.172,57           31.512,34   31.712,41   32.095,84   32.606,34   33.034,25
+  27       31.180,58           31.525,77   31.715,48   32.115,99   32.620,97   33.047,39
+  28       31.188,59           31.539,20   31.718,54   32.136,14   32.635,60   33.060,53
+  29       31.196,61                       31.721,61   32.156,31   32.650,24   33.073,68
+  30       31.204,63                       31.724,67   32.176,49   32.664,89   33.086,83
+  31       31.212,65                       31.727,74               32.679,54
+
+Saluda a Ud.,
+
+
+
+
+                                                                     HERNAN
+                                                                                     Firmado digitalmente por HERNAN
+                                                                                     ANDRES FRIGOLETT CORDOVA
+                                                                                     Nombre de reconocimiento (DN):
+
+                                                                     ANDRES          ou=GABINETE DEL DIRECTOR,
+                                                                                     o=Servicio de Impuestos Internos,
+                                                                                     c=CL, st=GABINETE DEL DIRECTOR,
+
+                                                                     FRIGOLETT       l=GABINETE DEL DIRECTOR,
+                                                                                     email=hernan.frigolett@sii.cl,
+                                                                                     cn=HERNAN ANDRES FRIGOLETT
+                                                                     CORDOVA         CORDOVA
+                                                                                     Fecha: 2022.06.09 17:05:23 -04'00'
+
+
+                                                                               DIRECTOR
+
+
+   Simon Firmado
+           digitalmente por
+
+   Ramirez Simon
+           Guerra
+                  Ramirez
+
+           Fecha: 2022.06.09
+   Guerra 14:40:38 -04'00'
+
+SRG/PAO/LOF/mvv
+DISTRIBUCIÓN:
+- Internet

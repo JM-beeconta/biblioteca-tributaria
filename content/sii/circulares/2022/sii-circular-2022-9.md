@@ -1,0 +1,273 @@
+# Circular N° 9 de 2022
+
+- Fuente: SII
+- Tipo: circular
+- Número: 9
+- Año: 2022
+- Fecha: 2022-03-09
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2022/circu9.pdf
+- Hash SHA-256: 705d42950813e5ffec29cfe2d8c1dcc068d1dee9a74513dd5c72692373fe8cf9
+
+## Resumen
+
+an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Circular N° 10 del 09 de Marzo del 2022 Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2022 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa. del 2022 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa.…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"23"}
+- {"type":"articulo","law":"LIR","article":"34"}
+- {"type":"articulo","law":"LIR","article":"74"}
+
+## Texto extraído
+
+DEPARTAMENTO EMISOR:                               CIRCULAR N°9.-
+    Subdirección Normativa                             204349.2022 GE
+    Oficina de Gestión Normativa
+    SISTEMA DE PUBLICACIONES                           FECHA: 21 DE FEBRERO DE 2022
+    ADMINISTRATIVAS
+
+    MATERIA: Nuevas escalas y tasas para la            REF. LEGAL: Artículos 23, 34 N° 2 letra c) y
+    determinación de los impuestos que afectan a       74 N° 6 de la Ley sobre Impuesto a la Renta;
+    los contribuyentes mineros a que se refieren       Decreto Exento N° 18, de 28 de enero de 2022,
+    los artículos 23 y 34, N° 2, letra c), de la Ley   del Ministerio de Hacienda, publicado en el
+    sobre Impuesto a la Renta.                         Diario Oficial de 9 de febrero de 2022; y
+                                                       Resolución Exenta N° 14, de 10 de febrero de
+                                                       2022, del Servicio de Impuestos Internos,
+                                                       publicada en el Diario Oficial de 16 de febrero
+                                                       de 2022.
+
+I        INTRODUCCIÓN
+
+De conformidad a lo dispuesto en el inciso tercero del artículo 23 de la Ley sobre Impuesto a la
+Renta (en adelante, “LIR”) y en los incisos cuarto y final de la letra c) del N° 2 del artículo 34 de
+la misma ley, se dictó el Decreto Exento N° 18, de 28 de enero de 2022, del Ministerio de
+Hacienda, publicado en el Diario Oficial de 9 de febrero de 2022, y la Resolución Exenta N° 14,
+de 10 de febrero de 2022, del Servicio de Impuestos Internos, publicada en el Diario Oficial de
+16 de febrero de 2022; cuerpos normativos mediante los cuales se reactualizaron las escalas
+contenidas en los artículos antes mencionados, aplicables a los “pequeños mineros artesanales”
+y a los “mineros”, respectivamente.
+
+Para efectos de la adecuada aplicación de los impuestos que afectan a estos contribuyentes, a
+continuación se imparten las siguientes instrucciones.
+
+II       INSTRUCCIONES SOBRE LA MATERIA
+
+1.       PEQUEÑOS MINEROS ARTESANALES
+
+1.1. Escala actualizada
+
+La escala actualizada del artículo 23 de la LIR queda conformada con los siguientes tramos,
+según lo establecido en el Decreto Exento N° 18, de 28 de enero de 2022:
+
+1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los
+minerales, no excede de 351,37 centavos de dólar por libra;
+
+2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los
+minerales, excede de 351,37 centavos de dólar por libra y no sobrepasa de 451,81 centavos de
+dólar por libra, y
+
+4% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los
+minerales, excede de 451,81 centavos de dólar por libra.
+
+1.2. Equivalencia de la escala respecto del oro y la plata
+
+La equivalencia que corresponde respecto del precio internacional del oro y la plata, a fin de
+hacer aplicable la escala anterior a las ventas de dichos minerales es la siguiente, según lo
+establecido por la Resolución Exenta N° 14, de 10 de febrero de 2022:
+
+a)       Respecto del oro
+
+         1% si el precio internacional del oro no excede de 963,88 dólares norteamericanos la onza
+         troy;
+      2% si el precio internacional del oro excede de 963,88 dólares norteamericanos la onza
+      troy y no sobrepasa de 1.542,11 dólares norteamericanos la onza troy, y
+
+      4% si el precio internacional del oro excede de 1.542,11 dólares norteamericanos la onza
+      troy.
+
+b)    Respecto de la plata
+
+      1% si el precio internacional de la plata no excede de 885,33 dólares norteamericanos el
+      kilógramo de plata;
+
+      2% si el precio internacional de la plata excede de 885,33 dólares norteamericanos el
+      kilógramo de plata y no sobrepasa de 1.416,55 dólares norteamericanos el kilógramo de
+      plata, y
+
+      4% si el precio internacional de la plata excede de 1.416,55 dólares norteamericanos el
+      kilógramo de plata.
+
+c)    Respecto de otros minerales
+
+      Tratándose de otros productos mineros sin contenido de cobre, oro o plata, la tasa será del
+      2% sobre el valor neto de la venta, conforme a lo establecido en el inciso penúltimo del
+      artículo 23 de la LIR.
+
+1.3. Vigencia
+
+De acuerdo a lo dispuesto por el inciso final de la letra c) del N° 2 del artículo 34 de la LIR, las
+escalas indicadas en este N° 1 rigen a contar del 1° de marzo del año 2022 y hasta el último día
+del mes de febrero del año 2023, afectando a las ventas que se realicen a partir del 1° de marzo
+del año 2022.
+
+1.4. Retención del impuesto
+
+Los compradores de productos mineros de los contribuyentes a que se refiere este N° 1, deberán
+retener el impuesto de acuerdo con las tasas indicadas precedentemente, según sea el mineral
+de que se trate, aplicadas sobre el valor neto de venta de los productos, conforme a lo establecido
+en el N° 6 del artículo 74 de la LIR; retención que deberá ser enterada en arcas fiscales dentro
+de los doce primeros días del mes siguiente a aquél en que se practicó, de conformidad a lo
+dispuesto en el artículo 78 de la citada ley.
+
+2.    MINEROS
+
+2.1. Escala actualizada
+
+La escala actualizada del artículo 34, Nº 2, letra c), de la LIR queda conformada con los siguientes
+tramos, según lo establecido en el Decreto Exento N° 18, de 28 de enero de 2022:
+
+4% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, no excede de 331,23
+centavos de dólar;
+
+6% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 331,23
+centavos de dólar y no sobrepasa de 351,37 centavos de dólar;
+
+10% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 351,37
+centavos de dólar y no sobrepasa de 401,54 centavos de dólar;
+
+15% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 401,54
+centavos de dólar y no sobrepasa de 451,81 centavos de dólar, y
+
+20% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 451,81
+centavos de dólar.
+
+
+                                          2
+2.2. Equivalencia de la escala respecto del oro y la plata
+
+La equivalencia que corresponde respecto del precio internacional del oro y la plata, a fin de
+hacer aplicable la escala anterior a las ventas de dichos minerales es la siguiente, según lo
+establecido por la Resolución Exenta N° 14, de 10 de febrero de 2022:
+
+a)   Respecto del oro
+
+     4% si el precio promedio de la onza troy en el año o ejercicio respectivo no excede de
+     771,07 dólares norteamericanos la onza troy;
+
+     6% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de 771,07
+     dólares norteamericanos la onza troy y no sobrepasa de 963,88 dólares norteamericanos
+     la onza troy;
+
+     10% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de 963,88
+     dólares norteamericanos la onza troy y no sobrepasa de 1.253,01 dólares norteamericanos
+     la onza troy;
+
+     15% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de
+     1.253,01 dólares norteamericanos la onza troy y no sobrepasa de 1.542,11 dólares
+     norteamericanos la onza troy, y
+
+     20% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de
+     1.542,11 dólares norteamericanos la onza troy.
+
+b)   Respecto de la plata
+
+     4% si el precio promedio del kilógramo de plata en el año o ejercicio respectivo no excede
+     de 708,32 dólares norteamericanos el kilógramo de plata;
+
+     6% si el precio promedio del kilógramo de plata en el año o ejercicio respectivo excede de
+     708,32 dólares norteamericanos el kilógramo de plata y no sobrepasa de 885,33 dólares
+     norteamericanos el kilógramo de plata;
+
+     10% si el precio promedio del kilógramo de plata en el año o ejercicio respectivo excede
+     de 885,33 dólares norteamericanos el kilógramo de plata y no sobrepasa de 1.150,95
+     dólares norteamericanos el kilógramo de plata;
+
+     15% si el precio promedio del kilógramo de plata en el año o ejercicio respectivo excede
+     de 1.150,95 dólares norteamericanos el kilógramo de plata y no sobrepasa de 1.416,55
+     dólares norteamericanos el kilógramo de plata, y
+
+     20% si el precio promedio del kilógramo de plata en el año o ejercicio respectivo excede
+     de 1.416,55 dólares norteamericanos el kilógramo de plata.
+
+c)   Respecto de otros minerales
+
+     Tratándose de otros productos mineros sin contenido de cobre, oro o plata, se presume de
+     derecho que la renta líquida imponible es de un 6% del valor neto de la venta de ellos,
+     conforme a lo establecido en el inciso penúltimo de la letra c) del N° 2 del artículo 34 de la
+     LIR.
+
+2.3. Vigencia
+
+De acuerdo a lo dispuesto en el inciso final de la letra c) del N° 2 del artículo 34 de la LIR, las
+escalas indicadas en este N° 2 rigen para el año tributario 2022, afectando en consecuencia a
+las rentas anuales cuyo impuesto debe declararse y pagarse en dicho año tributario.
+
+
+
+
+                                         3
+2.4.          Tasas a considerar para la determinación de la renta presunta
+
+Considerando los "precios promedios" que registraron los minerales a que se refieren las escalas
+antes indicadas durante el año comercial 2021, de acuerdo a lo informado por los organismos
+técnicos competentes (libra de cobre 422,63 centavos de dólar norteamericano; onza troy de oro
+US $1.798,61 y kilógramo de plata US $808,13), las tasas que deben aplicarse para la
+determinación de la base imponible presunta de los contribuyentes mineros a que se refiere este
+N° 2, respecto de los ejercicios finalizados el 31 de diciembre de 2021, son las siguientes:
+
+15% sobre las ventas netas anuales debidamente actualizadas si se trata de minerales de cobre;
+
+20% sobre las ventas netas anuales debidamente actualizadas si se trata de minerales de oro;
+
+6% sobre las ventas netas anuales debidamente actualizadas si se trata de minerales de plata,
+y
+
+6% sobre las ventas netas anuales debidamente actualizadas en el caso de tratarse de minerales
+sin contenido de cobre, oro o plata.
+
+2.5. Retención del impuesto
+
+Los compradores de productos mineros de los contribuyentes a que se refiere este N° 2, deberán
+retener el impuesto de acuerdo con las tasas indicadas en el N° 1 precedente, según sea el
+mineral de que se trate, aplicadas sobre el valor neto de venta de los productos, conforme a lo
+establecido en el N° 6 del artículo 74 de la LIR; retención que deberá ser enterada en arcas
+fiscales dentro de los doce primeros días del mes siguiente a aquél en que se practicó, de
+conformidad a lo dispuesto en el artículo 78 de la citada ley.
+
+Saluda a usted,
+
+
+
+
+                                       Fernando      Firmado digitalmente
+                                                     por Fernando Barraza
+                                       Barraza       Luengo
+                                                     Fecha: 2022.02.21
+                                       Luengo        17:27:13 -03'00'
+
+                                                DIRECTOR
+
+
+
+
+ Simon     Firmado
+           digitalmente por
+
+ Ramirez   Simon Ramirez
+           Guerra
+
+ Guerra    Fecha: 2022.02.21
+           10:36:12 -03'00'
+
+
+
+
+SRG/PAO/LOF/mvv
+DISTRIBUCIÓN:
+- Internet
+- Diario Oficial, en extracto
+
+
+
+                                            4

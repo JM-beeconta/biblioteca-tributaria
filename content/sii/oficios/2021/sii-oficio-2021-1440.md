@@ -1,0 +1,148 @@
+# Oficio N° 1440 de 2021
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1440
+- Año: 2021
+- Fecha: 2021-06-03
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1440-03%2F06%2F2021.pdf&extension=pdf&acc=download&id=885a353a-e974-4b34-83a6-cda92f6ca638&mediaType=application%2Fpdf
+- Hash SHA-256: faa5d057b2ff39c4579f4b398f8861f9ab3ea42e9a6c55c759fd8cc0fa858d57
+
+## Resumen
+
+IVA en compras en subasta por martillero público.
+
+## Referencias detectadas
+
+- {"type":"oficio","number":3418,"year":2016}
+- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"articulo","law":"LIVS","article":"8"}
+- {"type":"articulo","law":"LIVS","article":"2"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO – ART. 2, N°2, ART. 12, LETRA A), N°1 -
+        DECRETO SUPREMO N° 55, DE 1977, ART. 22- LEY N° 20.720, ART. 215.
+                          (ORD. N° 1440, DE 03.06.2021)
+
+
+IVA en compras en subasta por martillero público.
+
+
+Se ha consultado a este Servicio el tratamiento tributario IVA en las compras de bienes muebles
+realizadas en subasta por intermedio de un martillero público.
+
+I   ANTECEDENTES
+De acuerdo con su presentación, el peticionario compró tres camiones en un remate por quiebra
+concursal, cobrando el martillero una comisión de un 7%, más IVA.
+
+Agrega que en la factura, la cual adjunta, se cobró el total de la comisión más IVA, suma a la cual
+se habría sumado el valor del camión adjudicado y, sobre este monto, se habría aplicado IVA,
+procedimiento que, según le habría sido indicado por el martillero, correspondería a las
+instrucciones del Servicio.
+
+II      ANÁLISIS
+
+El artículo 12, letra A, N° 1 de la Ley sobre Impuesto a las ventas y Servicios (LIVS), declara
+exentas de IVA las ventas y demás operaciones que recaigan sobre vehículos motorizados usados,
+excepto en el caso previsto en la letra m) del artículo 8° de la LIVS, norma que grava con IVA la
+venta de bienes corporales muebles e inmuebles que formen parte del activo inmovilizado de la
+empresa, siempre que el contribuyente haya tenido derecho a crédito fiscal por su adquisición,
+importación, fabricación o construcción.
+
+Conforme lo anterior, la venta de los camiones, aun en una subasta por martillero público, se
+encuentra gravada con IVA, en la medida que concurran las condiciones previstas en la norma
+señalada precedentemente1.
+
+
+Por su parte, en cuanto a la comisión cobrada por el martillero, el N° 2°) del artículo 2° de la
+LIVS define a los servicios gravados con IVA como aquella acción o prestación que una persona
+realiza para otra y por la cual percibe una remuneración siempre que provenga del ejercicio de
+alguna de las actividades comprendidas en los números 3 o 4, del artículo 20 de la Ley sobre
+Impuesto a la Renta (LIR).
+
+Al respecto, el N° 4 del artículo 20 de la LIR comprende, entre otras, las rentas obtenidas por
+martilleros. Luego, la comisión del martillero se encuentra afecta a IVA.
+
+Sobre la emisión de documentos tributarios en la venta realizada por martillero, el artículo 22 del
+Decreto Supremo N° 55 de 1977, de Hacienda, que aprueba Reglamento de la LIVS
+(Reglamento), establece la forma de tributar de los comisionistas, consignatarios, martilleros y, en
+general de cualquier persona que compre o venda habitualmente bienes corporales muebles por
+cuenta de terceros, señalando que aquéllos son sujetos de IVA sólo por su comisión y el
+mandante, por su parte, es sujeto del tributo por el monto total de la venta.
+
+Complementa lo anterior el artículo 21 del Instructivo N° 2 de 2018, sobre la enajenación de
+bienes en procedimientos concursales, de la Superintendencia de Insolvencia y
+Reemprendimiento2, al disponer que los martilleros concursales deberán respaldar sus comisiones
+con sus propias boletas o facturas como persona natural, las que se deben emitir en el momento en
+que la remuneración se perciba o se ponga, en cualquier forma, a disposición del prestador del
+servicio, en conformidad a lo dispuesto en el artículo 55 del D.F.L. [sic] 825 de 1974.
+
+Finalmente, la Resolución Ex. N° 91 de 2013 de este Servicio, que estableció los requisitos y
+procedimiento para la emisión de documentos tributarios en operaciones de remate de bienes
+
+1
+    Oficio N° 3418 de 2016.
+2
+    https://www.superir.gob.cl/wp-content/document/biblioteca_digital/instructivos/ley-20.720/Instructivo_2.DE.20.06.18.pdf
+corporales muebles efectuadas por martilleros públicos, instruye que, para efectos de cumplir con
+las obligaciones establecidas en la LIVS y su Reglamento, deberán dejar constancia en las
+facturas o boletas correspondientes, que ellas se emiten por cuenta de sus mandantes, registrando
+en dichos documentos el nombre y el RUT de éstos.
+
+Dichos documentos deben otorgarse a los compradores cumpliendo todos los requisitos que la
+propia ley y su reglamento establecen. En las facturas debe detallarse, además, el contenido del
+lote que se subasta, indicando la descripción de la mercadería, especie, calidad y estado de
+conservación y todo otro antecedente o especificación necesarios para su debida singularización,
+tales como, marca, número de fábrica y de serie, colores y dimensiones aproximadas, la unidad de
+medida en que se transan las especies en el mercado y la cantidad de mercadería – expresada en la
+unidad de medida correspondiente. Deberá indicarse también, la patente del vehículo, nombre y
+cédula de identidad del conductor que trasladará las especies hasta las bodegas del comprador. En
+caso de emitir boletas, éstas deberán incluir, a lo menos, el detalle de las especies subastadas,
+cantidad y RUT del adjudicatario.
+
+A partir de lo anterior, y revisadas las facturas emitidas por el martillero, se advierte que cumplen
+parcialmente las instrucciones señaladas precedentemente.
+
+En efecto, en las facturas se señala expresamente que la venta se realiza por cuenta de un tercero
+(mandante, erróneamente descrito como “mandatario”), incluyendo la comisión del martillero,
+cuestión que no procede porque no corresponde incluir en la factura servicios que son prestados
+directamente por el martillero.
+
+En cuanto a la forma de determinar la comisión cobrada por el martillero, el artículo 215 de la
+Ley N° 20.720 dispone que la comisión única por el ejercicio de sus funciones equivale a un
+porcentaje sobre el monto total de realización de los bienes encargados rematar. Esta comisión es
+de cargo del adjudicatario y no puede exceder de un 2% sobre el monto total de realización de
+bienes inmuebles y de un 7% sobre el monto total de realización de bienes muebles.
+
+Al respecto, se informa que la correcta determinación de la comisión que puede cobrar el
+martillero no es una materia tributaria de competencia de este Servicio, de modo que no
+corresponde pronunciarse sobre qué se entiende por la expresión “monto total de realización”.
+
+III CONCLUSIÓN
+
+Conforme lo expuesto precedentemente y respecto de lo consultado se informa que:
+
+1) La venta de los tres camiones en subasta por martillero público, en las condiciones expuestas
+   en el Análisis, así como la actividad del martillero se encuentra gravada con IVA.
+
+2) Los martilleros concursales deben respaldar sus comisiones con sus propias boletas o facturas.
+
+3) De acuerdo al artículo 215 de la Ley N° 20.720, la comisión del martillero debe aplicarse sobre
+   el “monto total de realización de los bienes”, cuya determinación no es de competencia de este
+   Servicio.
+
+
+
+
+                              FERNANDO BARRAZA LUENGO
+                                     DIRECTOR
+
+
+
+
+                                  Oficio N° 1440, de 03.06.2021
+                                    Subdirección Normativa
+                                  Dpto. de Impuestos Indirectos

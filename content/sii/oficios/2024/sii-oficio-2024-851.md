@@ -1,0 +1,149 @@
+# Oficio N° 851 de 2024
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 851
+- Año: 2024
+- Fecha: 2024-05-02
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=0851-02%2F05%2F2024.pdf&extension=pdf&acc=download&id=69c62508-51c3-46e3-a6e5-6621c332c5a5&mediaType=application%2Fpdf
+- Hash SHA-256: cb6fd513a23468b64a22a2fa08e7eba4099488bbbdbc3c835a3814c6bb2781d1
+
+## Resumen
+
+Emisión de facturas de compra extemporáneas.
+
+## Referencias detectadas
+
+- {"type":"circular","number":103,"year":1979}
+- {"type":"oficio","number":1411,"year":2021}
+- {"type":"oficio","number":1378,"year":2019}
+- {"type":"oficio","number":1474,"year":2022}
+- {"type":"articulo","law":"LIVS","article":"55"}
+- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"articulo","law":"LIVS","article":"5"}
+- {"type":"articulo","law":"LIVS","article":"11"}
+- {"type":"articulo","law":"LIVS","article":"23"}
+- {"type":"articulo","law":"LIVS","article":"24"}
+- {"type":"articulo","law":"LIVS","article":"8"}
+- {"type":"articulo","law":"LIVS","article":"23\ny"}
+- {"type":"articulo","law":"LIVS","article":"23 y"}
+- {"type":"articulo","law":"CT","article":"126"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 2 N° 2, ART. 5, ART.
+8 LETRA N, ART. 11 LETRA E, ART. 23, ART. 24 Y ART. 55 – CÓDIGO TRIBUTARIO,
+    ART. 126 – REGLAMENTO LIVS, TITULO VIII (ORD. N° 0851, DE 02.05.2024)
+
+
+Emisión de facturas de compra extemporáneas.
+Se ha solicitado a este Servicio un pronunciamiento sobre la posibilidad de emitir facturas de
+compra extemporáneas y aprovechamiento del crédito fiscal IVA.
+I     ANTECEDENTE
+De acuerdo con su presentación, una sociedad chilena dedicada a prestar servicios de envíos de
+dinero al extranjero que, en ciertas ocasiones, subcontrata los referidos servicios a una sociedad
+domiciliada en Uruguay, no emitió las correspondientes facturas de compra durante algunos
+períodos tributarios del año 2023.
+Tras citar la normativa pertinente, consulta sobre la forma de subsanar la no emisión de las
+correspondientes facturas de compra, junto con la posibilidad de hacer uso del crédito fiscal.
+Adicionalmente, solicita confirmar si una factura de compra se debe sujetar a la normativa de
+acuse de recibo contenida en el N° 7 del artículo 23 de la Ley de Impuesto a las Ventas y
+Servicios (LIVS) y, en tal caso, si es posible emitirla hasta el décimo día posterior al término del
+período, como permite el artículo 55 de la LIVS.
+II    ANÁLISIS
+Al respecto, el N° 2°) del artículo 2° de la LIVS grava con IVA la acción o prestación que una
+persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma
+de remuneración.
+De acuerdo con el artículo 5° de la LIVS, para que los servicios resulten gravados, también es
+necesario que sean prestados o utilizados en el territorio nacional, sea que la remuneración
+correspondiente se pague o perciba en Chile o en el extranjero, entendiendo que el servicio es
+prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en
+Chile, independiente del lugar donde se utilice.
+Luego, dado que el servicio de envío de dinero subcontratado por la sociedad chilena es utilizado
+en nuestro país, este se encuentra gravado con IVA.
+Precisado lo anterior, la letra e) del artículo 11 de la LIVS obliga al contribuyente de IVA
+beneficiario de un servicio prestado por un extranjero sin domicilio ni residencia en Chile a emitir
+una “factura de compra”, a declarar y enterar directamente el IVA en arcas fiscales. El impuesto
+que conste en dicha factura de compra podrá dar derecho a crédito fiscal, de conformidad a lo
+establecido en el párrafo 6° del Título II de la LIVS y Título VIII de su Reglamento.
+Ahora bien, a partir de lo prescrito en el artículo 23 de la LIVS y demás normas pertinentes, los
+contribuyentes afectos al pago de IVA tienen derecho a un crédito fiscal contra el débito fiscal
+determinado por el mismo periodo tributario1, lo que implica que, para determinar el impuesto de
+cada periodo tributario, se deben considerar tanto las adquisiciones –de bienes y servicios–, como
+las ventas y prestaciones efectuada2.
+Sin perjuicio de lo anterior, el inciso tercero del artículo 24 de la LIVS permite a los
+contribuyentes deducir el crédito fiscal del débito fiscal dentro de los dos períodos tributarios
+siguientes, sólo cuando las respectivas notas de crédito y débito o las facturas se reciban o se
+registren con retraso, por cualquier hecho no imputable al contribuyente.
+Luego, transcurrido el plazo indicado, los contribuyentes no podrán rebajar directamente del
+débito fiscal de un periodo tributario las cantidades correspondientes al impuesto recargado en
+facturas no registradas oportunamente3.
+
+
+1
+  Ver Oficios N° 197 de 2011 y N° 1291 de 2017.
+2
+  Ver Oficios N° 4814 de 2004 y N° 1291 de 2017.
+3
+  Ver Oficio N° 1411 de 2021.
+                                                                     2
+
+
+
+
+En consecuencia, la sociedad chilena debió haber emitido facturas de compra por los servicios
+subcontratados a la sociedad uruguaya y utilizar el crédito fiscal en el mismo periodo de
+facturación o, a más tardar, en los dos periodos tributarios siguientes.
+Considerando lo anterior, para efectos de subsanar la no emisión de las facturas de compra
+referidas en su consulta y, en el entendido que los servicios prestados no sean de aquellos
+gravados por la letra n) del artículo 8° de la LIVS, la sociedad chilena deberá emitir igualmente
+dichos documentos de forma extemporánea, por cada una de las operaciones afectas a IVA cuya
+documentación se omitió, señalando como fecha del documento aquella en que se debió haber
+facturado.
+De este modo, el crédito originado en dichas facturas no se podrá rebajar directamente de su
+débito fiscal si el contribuyente no se encuentra dentro de los periodos señalados en el artículo 23
+y 24 de la LIVS. Sin embargo, si, como consecuencia de no haber registrado dentro de los plazos
+legales dicho impuesto, se le produjo al contribuyente un pago efectivo de impuesto, éste puede
+solicitar su devolución, en virtud de lo establecido en el artículo 126 del Código Tributario, ya
+que en este caso el pago de ese impuesto resultaría indebido o excesivo, al haberse declarado un
+crédito fiscal menor al que correspondía al no registrarse oportunamente el impuesto soportado en
+facturas de adquisición de bienes o utilización de servicios, respecto de los cuales el contribuyente
+tenía derecho a crédito fiscal4.
+Finalmente, respecto del momento en se deben emitir dichos documentos –en general–, de
+acuerdo con el artículo 55 de la LIVS en caso de prestaciones de servicios, las facturas deberán
+emitirse en el mismo período tributario en que la remuneración se perciba o se ponga, en
+cualquier forma, a disposición del prestador del servicio.
+Por su parte, el inciso cuarto de la referida disposición permite a los contribuyentes postergar la
+emisión de sus facturas hasta el décimo día posterior a la terminación del período en que se
+hubieren realizado las operaciones, habiendo precisado este Servicio5 que dicha posibilidad solo
+es aplicable en el caso de las ventas y no en la prestación de servicios.
+Por último, sin perjuicio de lo señalado en los párrafos anteriores sobre el uso del crédito fiscal,
+cabe destacar que las facturas de compra electrónicas quedarán consignadas en el registro de
+compras del mismo periodo tributario en que hayan sido emitidas.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente y respecto de lo consultado se informa que:
+1)      La sociedad chilena debió emitir facturas de compra por los servicios subcontratados a la
+        entidad uruguaya y utilizar el crédito fiscal en el mismo periodo de facturación o, a más
+        tardar, en los dos periodos tributarios siguientes.
+2)      Para subsanar la no emisión oportuna de las facturas y, en el entendido que los servicios
+        prestados no sean de aquellos gravados por la letra n) del artículo 8° de la LIVS, la sociedad
+        chilena deberá emitir igualmente dichos documentos de forma extemporánea, por cada una
+        de las operaciones, señalando como fecha del documento aquella en que se debió haber
+        facturado.
+3)      El crédito originado en dichas facturas no se podrá rebajar directamente de su débito fiscal si
+        el contribuyente no se encuentra dentro de los periodos señalados en el artículo 23 y 24 de la
+        LIVS. Sin embargo, si, como consecuencia de no haber registrado dentro de los plazos
+        legales dicho impuesto, se le produjo al contribuyente un pago efectivo de impuesto, éste
+        puede solicitar su devolución, en virtud de lo establecido en el artículo 126 del Código
+        Tributario.
+                                          HERNÁN FRIGOLETT CÓRDOVA
+                                                  DIRECTOR
+                                                Oficio N° 0851, de 02.05.2024
+                                                  Subdirección Normativa
+                                                Depto. de Impuestos Indirectos
+
+4
+    Ver Oficio N° 1378 de 2019.
+5
+    Circular N° 103 de 1979, Título II, letra A), N° 2 y Oficio N° 1474 de 2022.

@@ -1,0 +1,74 @@
+# Oficio N° 1210 de 2024
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1210
+- Año: 2024
+- Fecha: 2024-04-03
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1210-19%2F04%2F2023.pdf&extension=pdf&acc=download&id=b5d18b2f-e39a-442b-accc-77c87d9a48d2&mediaType=application%2Fpdf
+- Hash SHA-256: 01ff22d3f2473ea66615102fdf985442d8fdb85f799dea80ffd8ff40bd5d60fd
+
+## Resumen
+
+IVA a cobros por asistencia técnica cobrados a SERVIU.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIVS","article":"2"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART.2 N° 2 –
+             LEY N° 21.420, ART. 8° TRANSITORIO (ORD. N° 1210, DE 19.04.2023)
+
+
+IVA a cobros por asistencia técnica cobrados a SERVIU.
+
+De acuerdo con su presentación, se trata de una institución habilitada para actuar como entidad
+patrocinante según “Convenio Regional de Asistencia Técnica para Programas Habitacionales”
+celebrado con la Secretaría Ministerial de Vivienda y Urbanismo, con vigencia hasta el 03 de abril
+de 2024, que permite asesorar individual o colectivamente a las familias en su proceso de
+postulación a los subsidios que otorga el Ministerio de Vivienda y Urbanismo (MINVU).
+Agrega que, según el reglamento del sistema integrado de subsidio habitacional, una entidad
+patrocinante es una persona natural o jurídica, pública o privada, con o sin fines de lucro, tales
+como cooperativas abiertas de vivienda, corporaciones, fundaciones, inmobiliarias, empresas
+constructoras e instituciones afines, cuya función es la de desarrollar proyectos habitacionales y
+patrocinar grupos de postulantes al subsidio habitacional, si procede.
+Luego, solicita confirmar que los servicios prestados en el contexto del Convenio antes
+mencionado están afectos a IVA desde el 1° de enero de 2023; no obstante, en virtud de la
+exención que aplica para compras públicas, los servicios prestados que estén amparados en las
+resoluciones emitidas antes del 31 de diciembre de 2022 quedarán exentos del impuesto,
+independiente de la fecha de emisión de la respectiva factura y su cobro.
+Al respecto, y en lo que interesa a la presente consulta, se informa que la Ley N° 21.420, junto
+con modificar1 el concepto de hecho gravado “servicio”, contenido en el N° 2°) del artículo 2° de
+la Ley sobre Impuesto a las Ventas y Servicios (LIVS), dispuso en el inciso segundo del artículo
+octavo transitorio que esta modificación no se aplicará respecto de “servicios” comprendidos en
+licitaciones del Estado2 y compras públicas que hayan sido adjudicadas o contratadas con
+anterioridad al 1° de enero de 2023.
+En ese contexto, se aprecia que las actividades prestadas por el consultante, consistentes en
+servicios de asesoría de asistencia técnica, jurídica y social para la obtención de subsidios en
+materia habitacional, no son prestadas a un órgano del Estado, sino a particulares que se ven
+beneficiados por los subsidios que otorga este último.
+De este modo, los servicios consultados no se encuentran dentro de la norma de excepción del
+inciso segundo del artículo octavo transitorio de la Ley N° 21.420, y por consiguiente se
+encuentran afectos a IVA conforme a las reglas generales.
+
+
+
+
+                                       HERNÁN FRIGOLETT CÓRDOVA
+                                               DIRECTOR
+
+
+                                             Oficio N° 1210, de 19.04.2023
+                                               Subdirección Normativa
+                                             Depto. de Impuestos Indirectos
+
+
+
+
+1
+    N° 1 del artículo 6 de la Ley N° 21.420.
+2
+    Oficios N° 1775 y N° 2800, ambos de 2022, y N° 304 de 2023.

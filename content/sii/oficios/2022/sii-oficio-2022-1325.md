@@ -1,0 +1,123 @@
+# Oficio N° 1325 de 2022
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1325
+- Año: 2022
+- Fecha: 2022-04-19
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1325-19%2F04%2F2022.pdf&extension=pdf&acc=download&id=ddcc95fa-fb9e-4ee9-a139-5468b96ac667&mediaType=application%2Fpdf
+- Hash SHA-256: 752cdc8e1f0b6fbf3d635cb602eccbd2efd31bbb802e15ff8f532bf0438a364e
+
+## Resumen
+
+Procedencia de emitir documento tributario en importación efectuada en las circunstancias que indica.
+
+## Referencias detectadas
+
+- {"type":"circular","number":124,"year":1975}
+- {"type":"oficio","number":4399,"year":1985}
+- {"type":"oficio","number":3384,"year":2001}
+- {"type":"articulo","law":"LIVS","article":"8"}
+- {"type":"articulo","law":"LIVS","article":"2"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 8 LETRA B – CIRCULAR N°124 DE
+            1975 – RES. EX. N°6080 DE 1999 – (ORD. N° 1325, DE 19.04.2022)
+
+
+Procedencia de emitir documento tributario en importación efectuada en las circunstancias
+que indica.
+
+De acuerdo con los antecedentes, se ha consultado al Servicio Nacional de Aduanas sobre la
+procedencia de emitir una factura de ventas y servicios no afectos o exentos de IVA, de acuerdo a
+lo dispuesto en las Resoluciones Ex. N° 6.080 de 1999 y N° 5.007 de 2000, por parte de una
+empresa a la que se le ha “transferido” el dominio de mercancías extranjeras que se importarán al
+país, cuando no ha habido una transacción comercial respecto de ellas.
+El peticionario informa que una empresa chilena, que importa mercancía al país, cambia de razón
+social, dirección y Rut, existiendo un traspaso de “propiedad” de las mercancías extranjeras a la
+empresa nueva que corresponden a cargas aún no importadas puesto que vienen en viaje a Chile,
+y que por aplicación de los Ord. N° 15121-7477 de 2013, del Servicio Nacional de Aduanas,
+dicho traspaso no puede realizarse por simple endoso de las mercancías, debiendo confeccionarse
+una factura de ventas y servicios no afectos o exentos de IVA, documento que sirve de base para
+la confección de la declaración de importación.
+Al respecto se consulta si es posible realizar el traspaso de propiedad de las mercancías
+extranjeras mediante endoso del conocimiento de transporte y no confeccionar una factura de
+ventas y servicios no afectos o exentos de IVA, en caso que no exista una venta.
+En relación con lo consultado es necesario señalar que, de acuerdo a los antecedentes, no es claro
+cuál sea, en los hechos, la situación que motiva la consulta.
+En efecto, si bien el peticionario refiere al “traspaso” de la “propiedad” de ciertos bienes, lo cierto
+es que – de acuerdo a los mismos antecedentes – “no ha habido una transacción comercial” sino
+que un “cambio jurídico de la empresa importadora” (cambia de razón social, dirección y Rut),
+sin explicitar la naturaleza del referido cambio jurídico (por ejemplo, si se trata de una fusión de
+sociedades, donde la sociedad importadora es absorbida por otra).
+Al respecto, mediante la Circular N° 124 de 1975 este Servicio ha precisado que no basta la sola
+reorganización de una sociedad para que se configure un aporte gravado con IVA de acuerdo con
+lo establecido en la letra b) del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios
+(LIVS), si ello no trae como resultado la transferencia de dominio de un bien corporal mueble o
+de derechos reales constituido sobre él.
+Por lo tanto, se considera que no existe hecho gravado para los efectos de la LIVS, en la
+reorganización de una sociedad de personas en anónima, ni en las divisiones1, absorciones2 o
+fusiones de sociedades.
+Luego, si el “traspaso” de bienes a que se refiere el peticionario en rigor es consecuencia de
+alguno de los cambios jurídicos expuestos precedentemente, efectuado por la empresa
+importadora mientras la mercancía extranjera se encontraba en viaje a Chile, no procede la
+emisión de una factura de ventas y servicios no afectos o exentos de IVA ni ningún otro
+documento tributario, y en consecuencia, correspondería que ese Servicio, en uso de sus
+facultades legales, diera respuesta a la consulta del recurrente, en cuanto a la posibilidad del
+endoso del conocimiento de embarque.
+En caso contrario, habrá que analizar si la operación se encuentra gravada de acuerdo a las reglas
+generales, conforme a lo dispuesto en los números 1°) y 3°) del artículo 2° de la LIVS, en relación
+con los artículos 4° – tratándose de la venta de bienes corporales muebles situados en el extranjero
+o situados en Chile y no nacionalizados3 – y 52 del mismo cuerpo legal – que obliga a las
+
+
+1
+  En ese sentido Oficios N° 2236 y N° 4203, ambos del 2004.
+2
+  Oficio N° 4399 de 1985.
+3
+  Oficios N° 2837 de 2001, N° 1036 de 2010 y N° 3344 del 2021
+                                                 2
+
+
+
+
+personas que celebren cualquier contrato o convención de los mencionados en los Títulos II y III
+de la LIVS a emitir facturas o boletas, según el caso, por las operaciones que efectúen, aun
+cuando en la venta de los productos o prestación de los servicios no se apliquen los impuestos de
+la ley o versen sobre bienes o servicios exentos.
+En virtud de lo anterior, este Servicio emitió la Resolución Ex. N° 6080 de 1999, estableciendo
+que las personas naturales o jurídicas y los entes sin personalidad jurídica que deban tributar
+conforme a los números 1, letras a) y b), 3, 4 y 5 del artículo 20 de la Ley sobre Impuesto a la
+Renta (LIR) y los contribuyentes afectos a IVA, por las operaciones que realicen que se
+encuentran no afectas o exentas de los impuestos establecidos en la LIVS, deberán otorgar por
+dichas operaciones facturas o boletas de ventas y servicios no afectos o exentos de IVA.
+Asimismo, para el caso de contribuyentes con domicilio o residencia en Chile, que realicen
+convenciones sobre mercancías situadas en el extranjero o situadas en Chile y no nacionalizadas,
+este Servicio emitió la Resolución Ex. N° 5.007 de 2000, que establece la obligación de emitir un
+documento especial denominado factura de venta de mercaderías situadas en el extranjero o
+situadas en Chile y no nacionalizadas (FVME).
+Sin embargo, en el caso de convenciones sobre mercancías situadas en el extranjero o situadas en
+Chile y no nacionalizadas, adquiridas por un contribuyente con domicilio o residencia en el país,
+quien luego las importa a Chile4, no resulta aplicable la Resolución Ex. N° 5.007 de 2000.
+
+
+
+
+                              HERNÁN ANDRÉS FRIGOLETT CÓRDOVA
+                                         DIRECTOR
+
+
+
+
+                                   Oficio N° 1325, de 19-04-2022
+                                     Subdirección Normativa
+                                   Depto. de Impuestos Indirectos
+
+
+
+
+4
+    Oficio N° 3384 de 2001.

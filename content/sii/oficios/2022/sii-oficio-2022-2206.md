@@ -1,0 +1,75 @@
+# Oficio N° 2206 de 2022
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 2206
+- Año: 2022
+- Fecha: 2022-07-21
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2206-21%2F07%2F2022.pdf&extension=pdf&acc=download&id=046b8877-9226-4a86-8a59-e1c63a56b013&mediaType=application%2Fpdf
+- Hash SHA-256: b57471102e5ef3d6f201eab009b99aef2268ddbb76cb32557a7f1c9e9a73af72
+
+## Resumen
+
+Emisión de facturas en arrendamiento de inmuebles amoblados
+
+## Referencias detectadas
+
+- {"type":"oficio","number":1183,"year":2022}
+- {"type":"articulo","law":"LIVS","article":"8"}
+- {"type":"articulo","law":"LIVS","article":"17"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART.8 LETRA G, ART.17 – (ORD. N°2206,
+                            DE 21.07.2022)
+
+
+Emisión de facturas en arrendamiento de inmuebles amoblados.
+
+
+De acuerdo con su presentación, consulta la forma de emisión de documentos tributarios por
+concepto de arrendamiento de inmuebles amoblados que deben llevar IVA y rebajar de la base del
+impuesto el 11% del avalúo fiscal del inmueble.
+Agrega que, de acuerdo a una resolución [sic] de este Servicio1, se debe realizar una sola factura
+afecta por los arrendamientos de inmuebles amoblados, en donde se señale el total del canon de
+arrendamiento, tanto por la parte afecta a impuesto, como la exenta, considerando el IVA solo en
+lo afecto. Sin embargo, señala que, hasta la fecha emite dos facturas, una por la parte afecta y otra
+por la exenta, en circunstancia que debería hacer sólo una, pero el portal de facturación de este
+Servicio no lo permite.
+Al respecto y de acuerdo a lo resuelto por este Servicio sobre la materia2, se informa que
+tributariamente el arrendamiento de inmueble, gravado con IVA conforme la letra g) del artículo
+8° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), es un hecho gravado cuya naturaleza
+no se altera por la forma en que se determina su base imponible.
+Consecuencialmente, la rebaja del 11% del avalúo fiscal, establecida en el artículo 17 de la LIVS,
+para esos efectos, no constituye una liberación del impuesto ya que no incide ni desvirtúa la
+calidad de gravada de la operación, pues su única finalidad es determinar el monto sobre el cual se
+aplicará el tributo.
+Luego, las facturas emitidas por este concepto deben informar el valor neto (renta neta de
+arrendamiento), la rebaja del 11%, el IVA luego de este ajuste y el monto total de la factura;
+indicando además en la glosa descriptiva el valor del arriendo y la deducción de la base
+imponible, de acuerdo con la normativa antes señalada, correspondiendo emitir un único
+documento.
+Se hace presente que el sistema de emisión gratuito de documentos tributarios, que este Servicio
+pone a disposición de los contribuyentes, fue diseñado para un conjunto de operaciones de
+carácter general, a las que paulatinamente se han añadido operaciones más específicas, no permite
+aun la emisión de las facturas en los términos requeridos, de manera que para dar cumplimiento a
+lo expresado en el párrafo anterior es procedente el uso de las alternativas de facturación
+electrónica que ofrece el mercado, permitiendo la emisión de un solo documento.
+
+
+
+
+                           HERNÁN ANDRÉS FRIGOLETT CÓRDOVA
+                                      DIRECTOR
+
+
+
+
+                                       Oficio N° 2206, de 21-07-2022
+                                         Subdirección Normativa
+                                       Depto. de Impuestos Indirectos
+
+
+1 Oficio N° 1183 de 2022, Subdirección de Atención al Contribuyente
+2 Oficios N° 4086 de 2003, N° 4580 de 2006, N° 783 de 2007, N° 2020 de 2021, N° 1466 de 2021 y N° 1109 de 2021

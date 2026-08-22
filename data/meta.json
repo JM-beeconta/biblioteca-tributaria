@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-08-22T01:22:25.680Z",
-  "mode": "range:2026-2026",
+  "generated_at": "2026-08-22T01:45:08.879Z",
+  "mode": "range:2021-2024",
   "years": [
-    2026
+    2024,
+    2023,
+    2022,
+    2021
   ],
-  "total_documents": 542,
-  "touched_documents": 0,
+  "total_documents": 2619,
+  "touched_documents": 2077,
   "sources": [
     "SII",
     "BCN"

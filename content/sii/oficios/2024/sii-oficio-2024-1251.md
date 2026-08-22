@@ -1,0 +1,166 @@
+# Oficio N° 1251 de 2024
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1251
+- Año: 2024
+- Fecha: 2024-06-19
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1251-19%2F06%2F2024.pdf&extension=pdf&acc=download&id=631231bb-bf6e-40ab-9220-b59cc8d5fd12&mediaType=application%2Fpdf
+- Hash SHA-256: 4dfd19fd48b37e00bf0d26d6d15b3f2a8de33ce0d5053b16211c6c79d4bbbc60
+
+## Resumen
+
+Beneficio contenido en el artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios, en relación a los servicios que deban integrar el valor de costo de un activo fijo.
+
+## Referencias detectadas
+
+- {"type":"circular","number":53,"year":2020}
+- {"type":"oficio","number":1230,"year":2021}
+- {"type":"oficio","number":1636,"year":2010}
+- {"type":"oficio","number":2219,"year":1997}
+- {"type":"oficio","number":2413,"year":2018}
+- {"type":"articulo","law":"LIR","article":"31"}
+- {"type":"articulo","law":"LIVS","article":"27 bis"}
+- {"type":"articulo","law":"LIVS","article":"23"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 23, ART. 27 BIS –
+     LEY SOBRE IMPUESTO A LA RENTA, ART. 31 N° 9 – CIRCULAR N° 53 DE 2020 –
+             OFICIOS N° 2413 DE 2018, N° 1636 DE 2010, N° 2219 DE 1997
+                          (ORD. N° 1251, DE 19.06.2024)
+
+
+
+
+Beneficio contenido en el artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios,
+en relación a los servicios que deban integrar el valor de costo de un activo fijo.
+
+Se ha solicitado a este Servicio un pronunciamiento sobre la procedencia del beneficio contenido
+en el artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios, en relación a los servicios
+que deban integrar el valor de costo de un activo fijo.
+
+
+
+
+I     ANTECEDENTES
+De acuerdo con su presentación, un grupo empresarial proyecta construir una planta destinada a la
+producción de hidrógeno verde que incluye una serie de elementos para conformar un todo
+unitario1.
+Tras señalar que el proyecto se encuentra en su fase de “ingeniería conceptual” –desarrollada en
+forma preliminar para definir los aspectos más relevantes de un proyecto, permitiendo efectuar las
+estimaciones iniciales de inversión y medir, entre otros aspectos, las capacidades requeridas para
+instalaciones, ubicaciones, estudios de acceso de caminos, etc.– y analizar las normas aplicables,
+en lo fundamental solicita confirmar que dichos servicios, particularmente aquellos contenidos en
+la muestra de contratos acompañados a la presentación –incluso antes de la recepción total o
+parcial de las obras– cumplen con los requisitos para acogerse al beneficio contenido en el
+artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios (LIVS).
+
+
+
+
+II    ANÁLISIS
+El artículo 27 bis de la LIVS dispone, en lo pertinente, que los contribuyentes de IVA que tengan
+remanentes de crédito fiscal durante dos o más períodos tributarios consecutivos como mínimo,
+originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte
+de su activo fijo, o en la utilización de servicios que deban integrar el valor de costo de éste,
+pueden optar por imputar dicho remanente a cualquier clase de impuestos fiscales o bien a
+solicitar que dicho remanente les sea reembolsado por la Tesorería General de la República.
+El mismo inciso agrega que, tratándose de bienes corporales inmuebles, se entenderán como
+destinados a formar parte del activo fijo desde el momento en que la obra o cada una de sus etapas
+es recibida conforme por quien la encargó.
+A partir de lo anterior, se desprende que la ley permite recuperar el remanente de crédito fiscal
+soportado en la utilización de servicios que se destinen a formar parte del activo fijo y por tanto
+no respecto de cualquier servicio. En efecto, dichos servicios deben integrar el costo del referido
+activo, el que naturalmente debe existir y ser adquirido por el contribuyente.
+
+
+
+
+1
+ Esto es un parque eólico, una red eléctrica subterránea, una planta desaladora de agua de mar, una planta de proceso de producción
+de amoniaco, un área de almacenamiento y un puerto.
+                                                                   2
+
+
+
+
+En consecuencia, los servicios que deban formar parte del costo de los respectivos activos fijos no
+darán derecho a devolución en virtud del artículo 27 bis de la LIVS, sino hasta que el
+contribuyente se haga dueño de dichos bienes, cuyo valor se debe integrar –en parte– por el costo
+de dichas prestaciones2.
+Precisado lo anterior, para establecer si el contribuyente tiene derecho a solicitar la devolución de
+los remanentes de crédito fiscal originados en servicios que deben integrar el costo del activo, de
+acuerdo con el artículo 27 bis de la LIVS, en las respectivas instancias de fiscalización3 se deberá
+acreditar que:
+a) Se trate de servicios efectivamente afectos a IVA y de créditos generados de acuerdo a lo
+dispuesto en el artículo 23 de la LIVS;
+b) Los servicios formen parte del costo directo del respectivo bien. Esto es, el desembolso por un
+servicio que ha incidido directamente en la adquisición o construcción de bienes del activo fijo de
+la empresa deberá integrar el costo del bien, en la medida que dicho servicio se incorpore como
+elemento permanente al respectivo bien. Es así como –por ejemplo–, tratándose del montaje e
+instalación del bien, quedarán comprendidos todos aquellos desembolsos en que se incurra con
+motivo de servicios que permitan habilitar el bien para su correcto funcionamiento, de manera que
+quede operativo para la empresa.
+Por su parte, el costo de los bienes del activo fijo o inmovilizado se conforma por el valor
+realmente invertido en su adquisición o construcción, incluyéndose el valor de adquisición
+conforme a factura o contrato, fletes o seguros contratados para trasladar el bien hasta la
+propiedad del contribuyente, gastos de montaje o instalación, mejoras útiles, entendiéndose por
+estas aquellos desembolsos necesarios y considerables, que tienen por objeto acondicionar o
+remodelar el bien dejándolo en mejores condiciones de funcionamiento o utilización, agregándole
+un valor importante que le aumenta su duración y productividad, entre otros. Lo anterior, siempre
+que hayan incidido directamente en la adquisición o construcción de los referidos bienes4.
+Precisado lo anterior, de acuerdo a lo señalado por el peticionario y los documentos tenidos a la
+vista, los servicios de ingeniería conceptual tendrían por objeto definir, en forma preliminar y
+“gruesa”, algunos aspectos relevantes del proyecto respectivo como lo son las capacidades
+requeridas para las instalaciones y equipos, su disposición, ubicaciones, diagramas de flujos de
+procesos principales y estudio de accesos de caminos. Asimismo, permitiría realizar una
+estimación de la inversión que requiere el proyecto y cumplir con las exigencias del sistema de
+evaluación de impacto ambiental el nuestro país. Finalmente, también incluiría los servicios
+relacionados con la instalación de ciertas torres que proveerán datos e información relativa a las
+condiciones de viento y que permitirá en el futuro de forma precisa, la ingeniería para la
+instalación del parque eólico que formará parte del proyecto.
+A partir de lo anterior, y sin perjuicio que verificar el cumplimiento de los requisitos establecidos
+en el artículo 27 bis de la LIVS es una cuestión de hecho entregada a la revisión de las respectivas
+instancias de fiscalización, se estima que los servicios consultados constituirían propiamente
+gastos de organización y puesta en marcha5, que no forman parte del costo directo de los bienes
+del activo fijo de la empresa, ya que no inciden, como elementos permanentes, en la adquisición o
+construcción de la referida planta destinada a la producción de hidrógeno verde.
+Luego, dichos desembolsos, en la medida que cumplan con los requisitos que establece el N° 9
+del artículo 31 de la Ley sobre Impuesto a la Renta (LIR), podrán deducirse de la renta de la
+empresa que incurrió en tales sumas, en la forma prescrita por dicha disposición.
+
+2
+    En este sentido, oficio N° 1230 de 2021.
+3
+    Ver Oficio N° 1636 de 2010.
+4
+    Ver Oficio N° 2219 de 1997.
+5
+    Ver Oficio N° 2413 de 2018 y apartado 3.11 de la Circular N° 53 de 2020.
+                                                3
+
+
+
+
+III   CONCLUSIÓN
+Conforme a lo expuesto precedentemente y respecto de lo consultado se informa que, respecto de
+los servicios que deban formar parte del costo de los activos fijos, sólo se podrá impetrar la
+devolución conforme al artículo 27 bis de la LIVS cuando se adquiera el inmueble en cuestión,
+cuyo valor se compone –en parte– por el costo de dichos servicios.
+Sin perjuicio que se trata de una cuestión entregada a la revisión de las respectivas instancias de
+fiscalización, los servicios de “ingeniería conceptual” consultados no son de aquellos que integran
+el costo directo del proyecto de construcción, de modo que no cumplirían con los requisitos para
+acogerse a lo dispuesto en el artículo 27 bis de la LIVS.
+
+
+
+
+                             HERNÁN FRIGOLETT CÓRDOVA
+                                     DIRECTOR
+
+
+                                 Oficio N° 1251, de 19.06.2024
+                                   Subdirección Normativa
+                                 Depto. de Impuestos Indirectos

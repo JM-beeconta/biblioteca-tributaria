@@ -1,0 +1,154 @@
+# Oficio N° 3705 de 2021
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3705
+- Año: 2021
+- Fecha: 2021-12-24
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3705-24%2F12%2F2021.pdf&extension=pdf&acc=download&id=4fa8278f-d321-488b-87ab-1fd1abf35734&mediaType=application%2Fpdf
+- Hash SHA-256: 55e786f10836092c40a1049ce63bcc940a2b5a7649cfa09586e0b0c5cd1445c3
+
+## Resumen
+
+IVA en la venta de sitios eriazos, junto con bienes de dominio común, emplazados en un condominio tipo B.
+
+## Referencias detectadas
+
+- {"type":"oficio","number":1039,"year":2020}
+- {"type":"oficio","number":2480,"year":2016}
+- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"articulo","law":"LIVS","article":"16 o e"}
+- {"type":"articulo","law":"LIVS","article":"16 y"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2 N° 1, ART. 16 LETRA G), ART. 17
+     – LEY N° 19.537 – ART. 2, ART. 14 – DECRETO LEY N° 910 DE 1975 – OFICIOS N°
+     2480 DE 2016, N° 3108 DE 2016 Y N° 1039 DE 2020. – (ORD. N° 3705, DE 24.12.2021)
+
+
+IVA en la venta de sitios eriazos, junto con bienes de dominio común, emplazados en un
+condominio tipo B.
+
+
+Se ha solicitado a este Servicio un pronunciamiento sobre la aplicación de IVA a la venta de sitios
+eriazos, junto con inmuebles de dominio común, emplazados dentro de un condominio tipo B,
+acogido a la Ley N° 19.537, sobre copropiedad inmobiliaria.
+I       ANTECEDENTES
+De acuerdo con su presentación, un contribuyente se encuentra desarrollando un proyecto
+habitacional consistente en un loteo de terrenos (sitios eriazos) que conforman un condominio
+tipo B. Esto es, que contiene predios con construcciones o con proyectos de construcción
+aprobados, en el interior de cuyos deslindes existen simultáneamente sitios que pertenecen en
+dominio exclusivo a cada copropietario y terrenos de dominio común de todos ellos1.
+Por lo anterior, la venta de dichos bienes incluirá tanto el dominio exclusivo de un sitio eriazo
+como una cuota sobre los bienes de uso común, los que a su vez incluyen obras construidas por el
+desarrollador del proyecto: caminos destinados a circulación, servicios básicos, alumbrado,
+portería, plaza, etc.
+Tras referir al Oficio N° 1039 de 2020 que, a su entender, restringiría el concepto de urbanización
+sólo a aquella definida en la Ley General de Urbanismo y Construcción (LGUC) y en la
+Ordenanza General de Urbanismo y Construcción (OGUC), concluye que para tener las obras
+antes indicadas el carácter de urbanización, es indispensable que sean de aquellas que se ceden a
+dominio público o municipal, solicitando confirmar que:
+1)      De acuerdo con lo establecido en la LGUC y en la OGUC, el concepto “urbanización”
+        requiere necesariamente que las obras sean incorporadas al dominio nacional de uso público
+        o bien cedidas a dominio municipal y que, si falta dicho requisito, no se trataría de una
+        urbanización propiamente tal.
+        De este modo, la venta de sitios eriazos de un condominio tipo B, junto con el traspaso de
+        una proporción sobre los bienes comunes del condominio no se encontraría afecta con IVA
+        por no contemplar obras de urbanización propiamente tal.
+        En consecuencia, no se configuraría el hecho gravado general de venta regulado en el N° 1°)
+        del artículo 2° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS).
+2)      En caso de no compartir la interpretación anterior, confirmar que de todas formas la venta de
+        sitios eriazos en un condominio tipo B no estaría gravada con IVA, gravándose solo la venta
+        de la proporción de los bienes comunes urbanizados, pudiendo en todo caso, para efectos del
+        cálculo de la base imponible, rebajar el valor de adquisición del terreno en la proporción
+        correspondiente al porcentaje que del inmueble se esté enajenando.
+II      ANÁLISIS
+En primer lugar, es pertinente destacar que el Oficio N° 1039 de 2020 interpreta el concepto
+“urbanización” a propósito del crédito especial establecido en el Decreto Ley N° 910 de 1975, que
+excluye expresamente a las urbanizaciones del beneficio que dicho cuerpo normativo establece.
+Precisado lo anterior, conforme al texto vigente del N° 1°) del artículo 2° de la LIVS, el hecho
+gravado venta considera la venta de bienes corporales inmuebles construidos, de una cuota de
+
+
+
+1   Artículo 2° de la Ley N° 19.537 sobre copropiedad inmobiliaria.
+                                                 2
+
+
+
+
+dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, sin considerar si el
+inmueble se encuentra urbanizado o no.
+Al respecto, este Servicio ha precisado2 que la enajenación de un inmueble urbanizado realizada
+por un vendedor corresponde a un hecho gravado venta, en tanto se trataría de un inmueble
+construido.
+Sin embargo, de lo anterior no se colige lógicamente que si el inmueble sobre el cual recae la
+venta es un inmueble cuyas obras no califican como urbanización, su venta no se grave con IVA,
+atendido que lo relevante es determinar si el bien raíz respectivo tiene la naturaleza de inmueble
+construido o no.
+Precisado lo anterior, todavía cabe dilucidar si las obras a las que alude su consulta, que se
+encontrarían en los espacios comunes del condominio, constituyen o no construcciones,
+incluyendo naturalmente a las urbanizaciones dentro de las primeras.
+Al respecto, se confirma el Oficio N°1039 de 2020, en cuanto que el concepto de urbanización,
+para efectos tributarios, no debe restringirse solo a las obras que posean las características que
+señala la LGUC, sino que también a la definición y características indicadas en la OGUC, en la
+Ley N° 19.537, sobre copropiedad inmobiliaria (Ley de copropiedad), y su reglamento, cuando
+corresponda, y en cualquier otra disposición especial aplicable que utilice ese concepto.
+En el caso concreto, los inmuebles que se venderán están expresamente regulados por la Ley de
+copropiedad, cuyo reglamento dispone en su artículo 2° lo siguiente: “urbanización de un
+condominio: además de las exigidas por las normas generales, las obras interiores de carácter
+colectivo necesarias para dotar a los condominios tipo A, o a los sectores de éstos en su caso, y a
+los lotes de los condominios tipo B, de vías de acceso, con sus obras de pavimentación y desagües
+de aguas lluvias; de redes colectivas sanitarias y energéticas, y de áreas verdes de acuerdo con los
+estándares y condiciones de diseño establecidos en la Ordenanza General de Urbanismo y
+Construcciones”.
+En consecuencia, los inmuebles de carácter colectivo indicados en su consulta contienen obras de
+urbanización, de aquellas señaladas en el reglamento citado, razón por la cual se encuentran
+construidos, de acuerdo con el criterio consistente de este Servicio. Luego, su venta, en los
+términos del N° 1°) del artículo 2° de la LIVS se encontrará gravada con IVA, no
+correspondiendo confirmar lo señalado en el N° 1) del Antecedente.
+Por su parte, y respecto del N° 2) del Antecedente, efectivamente la venta de sitios eriazos no se
+encuentra gravada con IVA, en tanto la LIVS dispone expresamente que los terrenos no se
+encuentran afectos a este tributo.
+Con todo, en este caso se enajenarán sitios eriazos junto con una cuota de dominio sobre los
+bienes inmuebles de uso común, los cuales están construidos.
+Asimismo, se debe tener presente lo dispuesto en el artículo 14 de la Ley de copropiedad,
+aplicable al caso consultado, en virtud del cual los derechos de cada copropietario en los bienes de
+dominio común son inseparables del dominio exclusivo de su respectiva unidad y, por tanto, esos
+derechos se entenderán comprendidos en la transferencia del dominio de la respectiva unidad.
+Luego, la venta de sitios de un condominio tipo B que contenga dentro de los bienes comunes y/o
+en los de dominio exclusivo obras que tengan la naturaleza de urbanización o bien de
+construcción, se encontrarán gravadas con IVA en su totalidad, dado que por expresa disposición
+de la Ley son indivisibles uno de otro.
+Finalmente, en la venta de los mencionados inmuebles se deberá deducir el valor del terreno en
+los términos señalados en la letra g) del artículo 16 o en el artículo 17, ambos de la LIVS, según
+corresponda.
+III CONCLUSIÓN
+
+
+2   Oficio N° 2480 de 2016 y N° 3108 de 2016.
+                                                 3
+
+
+
+
+Conforme lo expuesto precedentemente y respecto de lo consultado se informa que:
+1)   La venta de sitios de un condominio tipo B, que cuente con construcciones y/o con obras de
+     urbanización, como ocurre en la especie, se encuentra gravada con IVA.
+2)   Por su parte, este tributo gravará el total de la venta, menos las deducciones reguladas en la
+     letra g) del artículo 16 y/o en el artículo 17, ambos de la LIVS, según corresponda.
+
+
+
+
+                              FERNANDO BARRAZA LUENGO
+                                     DIRECTOR
+
+
+
+
+                                 Oficio N° 3705, de 24.12.2021
+                                   Subdirección Normativa
+                                 Depto. de Impuestos Indirectos

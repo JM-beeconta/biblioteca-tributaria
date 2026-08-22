@@ -1,0 +1,75 @@
+# Oficio N° 1155 de 2023
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1155
+- Año: 2023
+- Fecha: 2023-04-13
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1155-13%2F04%2F2023.pdf&extension=pdf&acc=download&id=34113839-312c-4a7a-85ea-db32b870c1e3&mediaType=application%2Fpdf
+- Hash SHA-256: 4aeb6ffff24b4c0312c585486a6206f56f8dbaf266b217a6f7d0ce3cc71271e1
+
+## Resumen
+
+Documento tributario a emitir por parte de los laboratorios por retiro de medicamentos próximos a vencer y posterior reemplazo de los mismos.
+
+## Referencias detectadas
+
+- {"type":"oficio","number":157,"year":2016}
+- {"type":"articulo","law":"LIVS","article":"21"}
+- {"type":"articulo","law":"LIVS","article":"55"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 21 N° 2 Y N° 3,
+                  ART. 55 Y ART. 57 (ORD. N° 1155, DE 13.04.2023)
+
+
+Documento tributario a emitir por parte de los laboratorios por retiro de medicamentos
+próximos a vencer y posterior reemplazo de los mismos.
+
+De acuerdo con su presentación, pone en conocimiento de este Servicio una solicitud de
+reconsideración suscrita por una Municipalidad respecto del Dictamen N° 14595/2021, emitido
+por ese Ente Contralor.
+En particular, se solicita un pronunciamiento respecto del documento tributario a emitir por parte
+de los laboratorios cuando, en cumplimiento de lo establecido en las bases de licitación pública de
+la adquisición de medicamentos –que no acompaña a su presentación– se hace efectiva la opción
+de canje, lo que implica el retiro de los medicamentos próximos a vencer y posterior reemplazo de
+los mismos con una fecha de vencimiento futura por parte del laboratorio.
+Al respecto se informa que, de acuerdo con el artículo 57 de la Ley sobre Impuesto a las Ventas y
+Servicios (LIVS), los vendedores y prestadores de servicios afectos IVA deberán emitir notas de
+crédito por los descuentos o bonificaciones otorgados con posterioridad a la facturación a sus
+compradores o beneficiarios de servicios como, asimismo, por las devoluciones a que se refieren
+los números 2° y 3° del artículo 21.
+En lo que interesa, el N° 2 del artículo 21 de la LIVS prescribe que se deducirán del débito fiscal
+las cantidades restituidas a los compradores o beneficiarios del servicio en razón de bienes
+devueltos y servicios resciliados por los contratantes, siempre que correspondan a operaciones
+afectas y la devolución de las especies o resciliación del servicio se hubiere producido dentro del
+plazo de seis meses (desde la entrega de las especies).
+Por su parte, de acuerdo con el artículo 55 del mismo cuerpo normativo, el vendedor o prestador
+de servicios deberá emitir guías de despacho también cuando efectúe traslados de bienes
+corporales muebles que no importen ventas.
+Conforme lo anterior, se puede concluir que el solo reemplazo o reposición gratuita de
+mercaderías vencidas o por vencer no implicaría la ocurrencia de algún hecho gravado con IVA ni
+el aumento o disminución del impuesto facturado, por cuanto solo se produce un reemplazo del
+producto por otro idéntico. Luego, no se verificaría el supuesto del N° 2 del artículo 21 de la
+LIVS, ni en ningún otro en que la ley autorice a emitir nota de crédito1.
+No obstante, en este caso se está en presencia de la situación regulada en el artículo 55 de la
+LIVS, ya citado, por cuanto se realiza el traslado de especies afectas a IVA en vehículos
+destinados al transporte de carga, por lo que dicho traslado debe ser amparado con una guía de
+despacho.
+Se hace presente que este documento fue preparado por abogados competentes en la materia.
+
+
+
+
+                                 RICARDO PIZARRO ALFARO
+                                      DIRECTOR (S)
+
+
+                                  Oficio N° 1155, de 13.04.2023
+                                    Subdirección Normativa
+                                  Depto. de Impuestos Indirectos
+
+1
+    Ver oficio N° 157 de 2016.

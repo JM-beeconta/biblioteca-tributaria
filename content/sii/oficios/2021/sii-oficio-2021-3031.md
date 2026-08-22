@@ -1,0 +1,79 @@
+# Oficio N° 3031 de 2021
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3031
+- Año: 2021
+- Fecha: 2021-10-27
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3031-27%2F10%2F2021.pdf&extension=pdf&acc=download&id=1854a0b3-583c-4193-bd21-4815a4308113&mediaType=application%2Fpdf
+- Hash SHA-256: f8bb95cee052de2a409fa7114405a435296fa454fd1a9102ea47315b02c06d4e
+
+## Resumen
+
+Exención de IVA del artículo 12, letra A), N° 1, de la Ley sobre Impuesto a las Ventas y Servicios.
+
+## Referencias detectadas
+
+- {"type":"oficio","number":1227,"year":2020}
+- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"articulo","law":"LIVS","article":"64 d"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2, ART. 12 LETRA A) N° 1 – OFICIO N°
+                 1227 DE 2020. – (ORD. N° 3031, DE 27.10.2021)
+
+
+Exención de IVA del artículo 12, letra A), N° 1, de la Ley sobre Impuesto a las Ventas y
+Servicios.
+
+De acuerdo con su presentación, una sociedad de responsabilidad limitada se dedica habitualmente a
+la compra y venta de automóviles “usados”, formando parte de su negocio adquirir la posición
+contractual en contratos de leasing automotriz, ejercer las opciones de compra y finalmente vender
+dichos vehículos a sus clientes, personas naturales o jurídicas.
+Al respecto, solicita confirmar la aplicación de la exención de IVA establecida en el artículo 12, letra
+A), N° 1, de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) dado que, a su entender, el
+objeto de dichas ventas correspondería a vehículos “usados”.
+Sobre la materia, y de acuerdo con el artículo 2° de la LIVS, se considera “venta” gravada con IVA
+toda convención que sirva para transferir el dominio de un bien corporal mueble, efectuada por quien
+tenga la calidad de “vendedor”, siendo irrelevante el carácter de nuevo o usado del bien que se trate.
+Con todo, en el caso de los vehículos, el artículo 12, letra A, N° 1, de la LIVS, libera de IVA la venta
+de vehículos usados, salvo excepciones. Para la aplicación de esta exención se debe recurrir a la
+definición de vehículo motorizado “usado” establecida en el artículo 64 del Reglamento de la LIVS.
+La referida disposición establece que este tipo de bienes tienen la condición de “usados” cuando han
+sido transferidos al consumidor final. Para estos efectos, el Reglamento considera como consumidor
+final a aquel que ha adquirido uno o más vehículos motorizados sin haber soportado IVA o que,
+habiendo soportado dicho impuesto, no haya tenido derecho a utilizar el crédito fiscal.
+En este sentido, este servicio ha señalado que cuando el legislador se refirió a aquellos
+contribuyentes “que, habiendo soportado el impuesto, no hayan tenido derecho a utilizar el crédito
+fiscal”, lo hizo en relación a personas que en ningún caso y bajo ninguna circunstancia van a generar
+debito fiscal al cual imputar ese crédito, es decir, a personas naturales que adquieran vehículos con
+IVA y los revendan1, lo que no ocurriría en la especie, toda vez que la sociedad señala en su
+presentación es contribuyente de IVA respecto de esos vehículos que adquiere para revender.
+En efecto, el contribuyente no es un consumidor final, toda vez que soportará IVA al adquirir los
+vehículos mediante el ejercicio de opciones de compra y tendrá derecho a utilizar dicho crédito fiscal
+en contra del débito fiscal que genere, a su vez, con las ventas de los mencionados bienes muebles,
+por tratarse de un vendedor habitual.
+En consecuencia, la venta de vehículos adquiridos tras ejercer el vendedor una opción de compra se
+encontrará gravada con IVA, en tanto no recae sobre automóviles “usados”, siendo inaplicable la
+exención del artículo 12, letra A, N° 1, de la LIVS.
+
+
+
+
+                                FERNANDO BARRAZA LUENGO
+                                       DIRECTOR
+
+
+
+
+                                   Oficio N° 3031, de 27.10.2021
+                                     Subdirección Normativa
+                                   Depto. de Impuestos Indirectos
+
+
+
+1
+    Oficio N° 1227 de 2020

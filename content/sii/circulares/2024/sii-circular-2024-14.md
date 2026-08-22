@@ -1,0 +1,124 @@
+# Circular N° 14 de 2024
+
+- Fuente: SII
+- Tipo: circular
+- Número: 14
+- Año: 2024
+- Fecha: 2024-04-09
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2024/circu14.pdf
+- Hash SHA-256: 4a2cae436b73ee718a087897abed1084afc5a744a50ba5c35c767133517736c1
+
+## Resumen
+
+ambos inclusive. Fuente: Subdirección Normativa. Circular N° 15 del 09 de Abril del 2024 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2024, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y multas abril 2024. Fuente: Subdirección de Fiscalización. Circular N° 13 del 11 de Marzo del 2024 Tablas de impuesto único de segunda categoría para e…
+
+## Referencias detectadas
+
+- {"type":"circular","number":18,"year":2010}
+- {"type":"articulo","law":"LIR","article":"72"}
+- {"type":"articulo","law":"CT","article":"53"}
+
+## Texto extraído
+
+DEPARTAMENTO EMISOR:                               CIRCULAR Nº14.-
+Subdirección de Fiscalización
+Departamento de Diseño de Procedimientos
+
+SISTEMA DE PUBLICACIONES                           FECHA: 14 DE MARZO DE 2024
+ADMINISTRATIVAS
+
+MATERIA: Tabla de cálculos de reajustes,           REF. LEGAL: Artículos 53 y 97 Nos 2 y 11 del
+intereses y multas abril 2024.                     Código Tributario, contenido en el artículo 1º del
+                                                   DL 830 de 1974.
+
+
+La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de
+este Servicio, la tabla de cálculos para la aplicación del reajuste, interés penal y multa a que se
+refieren los artículos 53 y 97 Nos 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y
+pagarse en el mes de ABRIL DE 2024.
+                                                                Multa
+                         Reajuste      Interés     Multa                                  IPC (INE)
+               Mes de                                       Art. 97 N°11
+                          Art. 53      Art. 53    Art. 97                                Base Anual      U.T.M.
+               Vcto.
+                          Inc. 1°      Inc. 3°      N°2   Inc. 1° Inc. 2°                 2023=100
+
+        2021     ENE       27,6%        60,0%          30%          30%          60%          80,9900    50.978
+                 FEB       27,2%        58,5%          30%          30%          60%          81,1400    51.131
+                 MAR       26,3%        57,0%          30%          30%          60%          81,4500    51.489
+                 ABR       26,1%        55,5%          30%          30%          60%          81,7500    51.592
+                 MAY       25,6%        54,0%          30%          30%          60%          81,9700    51.798
+                 JUN       25,2%        52,5%          30%          30%          60%          82,0400    52.005
+                 JUL       24,8%        51,0%          30%          30%          60%          82,7000    52.161
+                 AGO       24,7%        49,5%          30%          30%          60%          83,0000    52.213
+                 SEP       23,7%        48,0%          30%          30%          60%          83,9800    52.631
+                 OCT       23,3%        46,5%          30%          30%          60%          85,1000    52.842
+                 NOV       21,8%        45,0%          30%          30%          60%          85,5300    53.476
+                 DIC       20,2%        43,5%          30%          30%          60%          86,2000    54.171
+
+        2022     ENE       19,6%        42,0%          30%          30%          60%          87,2300    54.442
+                 FEB       18,7%        40,5%          30%          30%          60%          87,4800    54.878
+                 MAR       17,3%        39,0%          30%          30%          60%          89,1100    55.537
+                 ABR       17,0%        37,5%          30%          30%          60%          90,3500    55.704
+                 MAY       14,8%        36,0%          30%          30%          60%          91,4300    56.762
+                 JUN       13,2%        34,5%          30%          30%          60%          92,2900    57.557
+                 JUL       11,9%        33,0%          30%          30%          60%          93,5600    58.248
+                 AGO       10,9%        31,5%          30%          30%          60%          94,6900    58.772
+                 SEP       9,4%         30,0%          30%          30%          58%          95,5100    59.595
+                 OCT       8,1%         28,5%          30%          30%          56%          96,0000    60.310
+                 NOV       7,1%         27,0%          30%          30%          54%          96,9400    60.853
+                 DIC       6,6%         25,5%          30%          30%          52%          97,2100    61.157
+
+        2023     ENE        5,5%        24,0%          30%          30%          50%      98,0000        61.769
+                 FEB        5,3%        22,5%          30%          30%          48%      97,9300        61.954
+                 MAR        4,4%        21,0%          28%          30%          46%      99,0000        62.450
+                 ABR        4,5%        19,5%          26%          30%          44%      99,3000        62.388
+                 MAY        3,4%        18,0%          24%          30%          42%      99,4100        63.074
+                 JUN        3,0%        16,5%          22%          30%          40%      99,2600        63.263
+                 JUL        2,9%        15,0%          20%          28%          38%      99,6100        63.326
+                 AGO        3,1%        13,5%          18%          26%          36%      99,7200        63.199
+                 SEP        2,7%        12,0%          16%          24%          34%      100,3900       63.452
+                 OCT        2,6%        10,5%          14%          22%          32%      100,8400       63.515
+                 NOV        1,9%         9,0%          12%          20%          30%      101,5900       63.960
+                 DIC        1,5%         7,5%          10%          18%          28%      101,0400       64.216
+
+
+        2024     ENE        0,7%        6,0%           10%          16%          26%      101,7200       64.666
+                 FEB        1,3%        4,5%           10%          14%          24%      102,3200       64.343
+                 MAR        0,6%        3,0%           10%          12%          22%                     64.793
+                 ABR        0,0%        1,5%           10%          10%          20%                     65.182
+
+NOTAS:
+
+1. Reajuste artículo 72 de la Ley sobre Impuesto a la Renta.
+
+      AÑO       2015     2016       2017        2018         2019         2020         2021       2022    2023
+       %         0,6      1,1        1,0         0,9          0,5          1,5          1,6        4,2     2,1
+
+2.
+     mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
+
+3. El reajuste a que se refiere el artículo 53 del Código Tributario, informado en la presente Circular,
+   corresponde a la cifra de variación experimentada por el IPC entregada por el Instituto Nacional
+   de Estadísticas en su publicación oficial y cuyos porcentajes se han determinado mediante la
+   nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio
+   de Economía, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y
+   contenida en la Circular N° 18 de 2010, de este Servicio.
+Se hace presente que a contar del Índice de Enero de 2024 rige el IPC, base anual 2023=100, y,
+en consecuencia, en la columna IPC (INE) Base Anual 2023=100 , se muestra la serie
+empalmada del IPC con dicha base, publicada por el INE.
+
+Saluda a Uds.,
+
+
+
+
+                                     DIRECTORA (S)
+
+
+
+
+   MSB/MCRB/FWV/CST
+   DISTRIBUCIÓN
+      Internet

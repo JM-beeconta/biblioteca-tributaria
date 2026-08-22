@@ -1,0 +1,110 @@
+# Oficio N° 1536 de 2024
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1536
+- Año: 2024
+- Fecha: 2024-08-01
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1536-01%2F08%2F2024.pdf&extension=pdf&acc=download&id=2d983e04-7e51-4201-9697-6059f5925353&mediaType=application%2Fpdf
+- Hash SHA-256: 397cbb795e951ffd95056cc7726f1d8506a15febddc50dbb40d65e1fe3da0004
+
+## Resumen
+
+Modificación de permiso de edificación posterior a la suscripción del contrato frente al artículo 21 del Decreto Ley N° 910 de 1975
+
+## Referencias detectadas
+
+- {"type":"circular","number":37,"year":2023}
+- {"type":"circular","number":39,"year":2009}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910 DE
+       1975, ART. 21 – LEY N° 21.420, ARTS. 5 Y QUINTO TRANSITORIO
+                         (ORD. N° 1536, DE 01.08.2024)
+
+
+Modificación de permiso de edificación posterior a la suscripción del contrato frente al
+artículo 21 del Decreto Ley N° 910 de 1975.
+De acuerdo con su presentación, mantiene un contrato de construcción a suma alzada para la
+construcción de un proyecto habitacional de 298 viviendas que cumple con las exigencias para la
+aplicación integral del crédito especial de empresas constructoras (CEEC).
+Tras agregar que, con posterioridad a la fecha del permiso de edificación1, el mandante realizó un
+cambio de loteo aumentando en 28 el número de casas, pasando a 326, pero no las características
+técnicas originales del proyecto, consulta si dicha modificación altera su derecho a usar
+íntegramente el CEEC.
+Al respecto se informa que el artículo 5, en concordancia con el inciso primero del artículo quinto
+transitorio, ambos de la Ley N° 21.420 eliminan, a contar del 1° de enero de 2027, el beneficio
+contenido en el artículo 21 del Decreto Ley N° 910 de 1975 (DL N° 910), estableciendo en el tiempo
+intermedio, un régimen de transición en los artículos quinto (inciso segundo), sexto y sexto bis
+transitorios.
+De acuerdo al inciso segundo del artículo quinto transitorio, los contribuyentes (empresas
+constructoras) que solicitaron el respectivo permiso de edificación con anterioridad al 30 de abril
+del año 2023 podrán seguir deduciendo un 0,65 del IVA en las ventas y contratos generales de
+construcción que no sean por administración, en los mismos términos y condiciones dispuestos en
+el artículo 21 del DL N° 910, siempre que las ventas como los contratos generales de construcción
+que dan cuenta del proyecto contenido en el permiso de edificación solicitado con anterioridad al
+30 de abril de 2023 cumplan con los requisitos establecidos en la propia norma legal2.
+Si, con posterioridad a esa fecha, se produce una modificación sustancial en el objeto del contrato
+y/o en el permiso municipal de edificación, se debe entender que se trata de un nuevo contrato
+general de construcción o de una nueva construcción respectivamente que, para efectos tributarios
+debe regirse por el texto vigente al momento de dicha modificación, cumpliendo los demás
+requisitos legales3.
+Al respecto, este Servicio ha entendido que existe una modificación sustancial en el objeto del
+contrato cuando ella implique la construcción de un inmueble distinto al originalmente pactado
+construir, en el referido contrato general de construcción.4
+En el presente caso, si bien el contribuyente solicitó el permiso de edificación con anterioridad al
+30 de abril de 2023 y el contrato general de construcción reúne los requisitos establecidos en el
+artículo 21 del DL N° 910, correspondiendo la utilización integra del beneficio, resta considerar si
+el aumento en el número de casas indicado en su presentación (de 298 a 326) constituye una
+modificación sustancial en el proyecto original y consecuencialmente en el objeto del contrato.
+Sobre la materia, es pertinente considerar lo dispuesto en el inciso segundo del artículo 5.1.18. de
+la Ordenanza General de Urbanismo y Construcciones, que otorga un criterio objetivo, al disponer
+que “en el mismo período señalado en el inciso anterior5, el propietario podrá modificar el proyecto
+en construcción en base a las mismas normas con que éste fue aprobado, siempre que la
+modificación no contemple un aumento de superficie edificada mayor al 5% o nuevos destinos no
+admitidos por la normativa vigente al momento de solicitar la modificación.”
+Conforme lo anterior, y bajo el supuesto que las viviendas del proyecto habitacional constituyen
+unidades de superficie construida homogéneas entre sí, el incremento en 28 casas respecto del
+número original de 298, representaría un 9,4% en la superficie edificada, lo que es superior al 5%
+
+1
+  Permiso de edificación N° 51 de 2/8/2021.
+2
+  En el caso de los contratos generales de construcción, éstos no deben ser por administración y deben tener por objeto la construcción
+  de un bien corporal inmueble para habitación, cuyo valor no exceda de 2.000 UF o de 2.200 UF en el caso de contratos generales de
+  construcción destinados al mismo fin suscritos con beneficiarios de un subsidio habitacional que financien con dicho subsidio, en todo
+  o parte dichas operaciones, en cuyo caso el beneficio asciende a un 0,1235 del valor del contrato.
+3
+  Circular N° 37, de 2023
+4
+  Circular N° 39 de 2009
+5
+  Esto es, en el tiempo que medie entre el otorgamiento del permiso y la recepción de una obra.
+                                                2
+
+
+
+
+que contempla la Ordenanza General de Urbanismo y Construcciones, constituiría una
+modificación sustancial en el proyecto original, incluso manteniendo el destino que se consideró al
+momento de otorgarse el permiso de edificación.
+Finalmente, por tratarse la modificación contractual de un cambio sustancial en el contrato, para
+efectos de utilizar el beneficio contenido en el artículo 21 del DL N° 910 constituye un nuevo
+contrato general de construcción y deberá regirse por las normas vigentes al momento de la referida
+modificación, no correspondiendo utilizar el CEEC en los términos establecidos en el inciso
+segundo del artículo quinto transitorio de la Ley N° 21.420; es decir con la tasa del 0,65.
+
+
+
+
+                              JAVIER ETCHEBERRY CELHAY
+                                     DIRECTOR (S)
+
+
+
+
+                                 Oficio N° 1536, de 01-08-2024
+                                   Subdirección Normativa
+                                 Depto. de Impuestos Indirectos

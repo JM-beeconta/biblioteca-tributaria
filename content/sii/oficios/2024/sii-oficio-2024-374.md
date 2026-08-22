@@ -1,0 +1,66 @@
+# Oficio N° 374 de 2024
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 374
+- Año: 2024
+- Fecha: 2024-02-15
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=0374-15%2F02%2F2024.pdf&extension=pdf&acc=download&id=52a97c90-e40d-4e4a-aabd-d601f8feb96c&mediaType=application%2Fpdf
+- Hash SHA-256: 7af4e008555b063ee3715e66315db39d22cd9ac087438bc5fa36332ec640889d
+
+## Resumen
+
+Devolución del artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios en caso de haber usado beneficio de la Ley N° 21.631.
+
+## Referencias detectadas
+
+- {"type":"circular","number":51,"year":2023}
+- {"type":"articulo","law":"LIVS","article":"27 bis"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 27 BIS – LEY
+                      N°21.631. (ORD. N° 0374, DE 15.02.2024)
+
+
+Devolución del artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios en caso de
+haber usado beneficio de la Ley N° 21.631.
+
+De acuerdo con su presentación, tras señalar que se trata de una persona natural con giro en
+primera categoría, cuya actividad es el arrendamiento de inmuebles amoblados y que utilizó el
+beneficio tributario establecido en la Ley N° 21.631 en la compra del inmueble, consulta si puede
+solicitar la devolución anticipada de IVA del artículo 27 bis de Ley sobre Impuesto a las Ventas y
+Servicios (LIVS), por el remanente de crédito fiscal producto de dicha compra.
+Al respecto se informa que el beneficio tributario establecido en la Ley N° 21.6311, se aplica
+respecto del impuesto a la renta que afecte a personas naturales con domicilio y residencia en
+Chile, que adquieran una vivienda nueva con destino habitacional mediante un crédito con
+garantía hipotecaria. Este crédito es compatible con otros créditos establecidos en la Ley sobre
+Impuesto a la Renta y no tiene restricciones respecto de beneficios tributarios establecidos en
+otras leyes.
+Conforme a lo anterior, si el inmueble adquirido por la consultante forma parte de su activo fijo y
+se destina al desarrollo de actividades gravadas con IVA, podrá solicitar la devolución del
+remanente de crédito fiscal de acuerdo con el artículo 27 bis de la LIVS, en la medida que cumpla
+los requisitos establecidos en dicha norma e instruidos administrativamente por este Servicio2,
+todas cuestiones entregadas a la revisión de las respectivas instancias de fiscalización.
+
+
+
+
+                                        CAROLINA SARAVIA MORALES
+                                              DIRECTORA (S)
+
+
+
+
+                                             Oficio N° 0374, de 15-02-2024
+                                               Subdirección Normativa
+                                             Depto. de Impuestos Indirectos
+
+
+
+
+1
+    Cuyas instrucciones fueron impartidas en la Circular N° 51 de 2023
+2
+    Circulares N° 12 de 1989, N° 94 de 2001, N° 40 de 2002 y N° 26 de 2022; y Resolución Ex. N° 55 de 2021

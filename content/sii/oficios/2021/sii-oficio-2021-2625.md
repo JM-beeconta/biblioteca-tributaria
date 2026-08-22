@@ -1,0 +1,110 @@
+# Oficio N° 2625 de 2021
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 2625
+- Año: 2021
+- Fecha: 2021-09-29
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2625-29%2F09%2F2021.pdf&extension=pdf&acc=download&id=3010934d-617d-412b-9e9f-acb7a550bc81&mediaType=application%2Fpdf
+- Hash SHA-256: 73616a41df3cbbd2e3d46d2f0c5a1702d565fa75d043913d687a29a60e62fb39
+
+## Resumen
+
+Extensión de beneficio del artículo 21 del Decreto Ley N° 910 de 1975, a bodegas que serían utilizadas como taller u oficina.
+
+## Referencias detectadas
+
+- {"type":"circular","number":26,"year":1987}
+- {"type":"circular","number":52,"year":2008}
+- {"type":"oficio","number":283,"year":2020}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – D.L. N° 910 DE 1975, ART. 21–
+     CIRCULARES N° 26 DE 1987 Y N° 52 DE 2008 – (ORD. N° 2625, DE 29.09.2021)
+
+
+Extensión de beneficio del artículo 21 del Decreto Ley N° 910 de 1975, a bodegas que serían
+utilizadas como taller u oficina.
+
+
+Se ha solicitado a este Servicio un pronunciamiento sobre la procedencia del beneficio
+contemplado en el artículo 21 del Decreto Ley N° 910 de 1975 en el caso de inmuebles que no
+tienen destino habitacional.
+I    ANTECEDENTES
+De acuerdo con su presentación, que no ofrece mayores antecedentes, consulta si es posible
+aplicar la exención de IVA contemplada en el artículo 21 del Decreto Ley N° 910 de 1975 a
+espacios respecto de los cuales se tienen derechos de uso y goce, por ejemplo, en caso que una
+inmobiliaria quisiera vender derechos de uso y goce respecto de bodegas para que puedan ser
+utilizadas como taller u oficinas, como una habitación más de un departamento determinado en un
+mismo edificio.
+El espacio tendría usos habitacionales, ya que se ocuparía como una habitación extra del
+departamento.
+II   ANÁLISIS
+El inciso primero del artículo 21 del Decreto Ley N° 910 de 1975 dispone que las “empresas
+constructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la
+Ley sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban
+determinar en la venta de bienes corporales inmuebles para habitación por ellas construidos cuyo
+valor no exceda de 2.000 unidades de fomento, con un tope de hasta 225 (doscientas veinticinco)
+unidades de fomento por vivienda, y en los contratos generales de construcción de dichos
+inmuebles que no sean por administración, con igual tope por vivienda, de acuerdo con las
+disposiciones del decreto ley Nº 825, de 1974…”.
+Establecido que el beneficio sólo procede para las empresas constructoras, el inciso tercero del
+citado artículo 21 dispone que, para los “efectos de este artículo, deben entenderse incluidos en el
+concepto "habitación", también las dependencias directas, tales como estacionamientos y bodegas
+amparadas por un mismo permiso de edificación o un mismo proyecto de construcción, siempre
+que el inmueble destinado a la habitación propiamente tal constituya la obra principal del contrato
+o del total contratado. Para acceder al beneficio la empresa constructora deberá contar con el
+respectivo permiso municipal de edificación.”
+Al respecto, conforme al Título VII de la Circular N° 26 de 1987, para que “proceda el crédito
+especial, respecto de los estacionamientos y bodegas, estos deben acceder a un inmueble
+destinado a la habitación que haya dado derecho a igual beneficio al adquirente de dichas
+dependencias.”
+Por su parte, mediante la Circular N° 52 de 2008, que imparte instrucciones sobre las
+modificaciones incorporadas a la franquicia – entre ellas, el establecimiento de topes al beneficio
+– se precisó que, cumplidos los requisitos dispuestos en el inciso tercero del artículo 21, los
+estacionamientos y bodegas accederán a la franquicia, considerándose para estos efectos como
+inmuebles separados del bien del cual dependen. Dicha instrucción tuvo por objeto no afectar el
+tope establecido para el inmueble habitacional propiamente tal, de modo que dichas dependencias
+se consideran como inmuebles separados del bien del cual dependen sólo para tales efectos.
+Sin perjuicio de lo anterior, las instrucciones contenidas en Circular N° 26 de 1987, se encuentran
+plenamente vigentes, de suerte que, para considerar a una bodega o estacionamiento como
+dependencia directa y beneficiarse de la franquicia en comento, deben acceder al inmueble
+destinado a la habitación por el cual se tenga derecho al beneficio.
+                                               2
+
+
+
+
+Luego, las dependencias directas como estacionamientos y bodegas son consideradas por la
+propia ley dentro del concepto de “habitación” con el único objeto de beneficiarlas en forma
+accesoria al inmueble principal cuyo destino es la habitación1.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente y respecto de lo consultado se informa que el beneficio
+contemplado en artículo 21 del Decreto Ley N° 910 de 1975 se aplica a las empresas
+constructoras en la venta de bienes corporales inmuebles para habitación por ellas construidos
+cuyo valor no exceda de 2.000 unidades de fomento, con un tope de hasta 225 (doscientas
+veinticinco) unidades de fomento por vivienda, y en los contratos generales de construcción de
+dichos inmuebles que no sean por administración, con igual tope por vivienda.
+En la medida que se cumplan los requisitos legales, la construcción o venta de las bodegas
+efectuada por la empresa constructora que las construyó tendrá derecho al beneficio en análisis.
+
+
+
+
+                             FERNANDO BARRAZA LUENGO
+                                    DIRECTOR
+
+
+
+
+                                Oficio N° 2625, de 29.09.2021
+                                  Subdirección Normativa
+                                Dpto. de Impuestos Indirectos
+
+
+
+
+1
+    Oficio N° 283 de 2020.

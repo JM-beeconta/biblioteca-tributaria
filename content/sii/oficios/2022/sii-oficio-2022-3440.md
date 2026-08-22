@@ -1,0 +1,135 @@
+# Oficio N° 3440 de 2022
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3440
+- Año: 2022
+- Fecha: 2022-11-25
+- Categoría: IVA
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3440-25%2F11%2F2022.pdf&extension=pdf&acc=download&id=ecb07228-221c-4e80-b204-7266d3806472&mediaType=application%2Fpdf
+- Hash SHA-256: 5a97c12a0246da3c8bbe6a1b2625dab9fd11fcb1fae3d65be88b413a31462883
+
+## Resumen
+
+Base imponible de IVA y procedencia de emitir boleta en arrendamiento de inmuebles amoblados.
+
+## Referencias detectadas
+
+- {"type":"circular","number":37,"year":2020}
+- {"type":"oficio","number":2931,"year":2012}
+- {"type":"articulo","law":"LIVS","article":"8"}
+- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"articulo","law":"LIVS","article":"17"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 8 LETRA G, ART. 12 LETRA E N°
+              11, ART. 17, ART. 52 Y 53 – (ORD. N° 3440, DE 25.11.2022)
+
+
+Base imponible de IVA y procedencia de emitir boleta en arrendamiento de inmuebles
+amoblados.
+
+Se ha solicitado a este Servicio un pronunciamiento sobre la determinación de la base imponible
+afecta a IVA y procedencia de emitir boletas en el arrendamiento de inmuebles amoblados.
+I     ANTECEDENTES
+De acuerdo con su presentación, y tras informar que se trata de un contribuyente de la primera
+categoría con el giro de arriendo de bienes inmuebles amoblados, consulta: 1) Si, por ser de
+primera categoría, se encuentra obligado a emitir sólo facturas o pueden emitirles boletas a las
+personas naturales. 2) Cómo debe desglosar el IVA correspondiente, adjuntando un archivo con el
+cálculo basado en su interpretación que solicita confirmar o corregir. 3) En el caso de uno de los
+inmuebles, el 11% deducible del avalúo fiscal es superior al monto del valor del arriendo, si es
+correcto que no tenga base imponible y sólo facture el monto exento. 4) Cómo se considera el
+avalúo de la bodega para el cálculo, ya que éstas están incluidas en los contratos de arriendo.
+II    ANÁLISIS
+De acuerdo con la letra g) del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios
+(LIVS), se grava con IVA, entre otros, al arrendamiento, subarrendamiento, usufructo o
+cualquiera otra forma de cesión del uso o goce temporal de bienes corporales inmuebles
+amoblados.
+El párrafo segundo1 de la letra g) dispone que, para calificar que se trata de un inmueble
+amoblado o un inmueble con instalaciones o maquinarias que permitan el ejercicio de alguna
+actividad comercial o industrial se deberá tener presente que los bienes muebles o las
+instalaciones y maquinarias sean suficientes para su uso para habitación u oficina, o para el
+ejercicio de la actividad industrial o comercial, respectivamente2.
+Conforme lo anterior, y en el entendido que el arrendamiento de los inmuebles señalados en su
+presentación cumple las condiciones para considerarse como inmueble amoblado de acuerdo con
+la letra g) del artículo 8° de la LIVS, su arrendamiento se afectará con IVA.
+Por su parte, para los fines de determinar su base imponible respecto del valor asignado al
+inmueble amoblado se “deberá”3 aplicar la rebaja establecida en el inciso primero del artículo 17
+de la LIVS; esto es, rebajar una cantidad equivalente al 11% anual del avalúo fiscal del inmueble
+propiamente tal, o la proporción correspondiente si el arrendamiento fuere parcial o por períodos
+distintos de un año.
+En lo que respecta al arrendamiento de las bodegas, dicho arrendamiento se encontrará exento de
+IVA conforme lo dispuesto en el N° 11 de la letra E del artículo 12 de la LIVS, a menos que a su
+respecto4 se configure, por cumplir los requisitos, el hecho gravado con IVA establecido en la
+citada letra g) del artículo 8° de la LIVS.
+Precisado lo anterior, y conforme los artículos 52 y 53 de la LIVS, las personas que celebren
+cualquier contrato o convención a que se refieren los Títulos II y III de la ley, deberán emitir
+facturas en las operaciones que realicen con otros vendedores, importadores y prestadores de
+servicios, incluso respecto de sus ventas y servicios exentos, y boletas, incluso respecto de sus
+ventas y servicios exentos, en los demás casos.
+
+
+1
+  Incorporado por la letra d) del N° 4 del artículo tercero de la Ley N° 21.210
+2
+  Las instrucciones sobre esta modificación fueron impartidas por medio de la Circular N° 37 de 2020 y Resolución Ex. N° 53, de 25
+  de mayo de 2021.
+3
+  En virtud de lo dispuesto en la letra a) del N° 12 del artículo tercero de la Ley N° 21.210, se reemplazó en los incisos primero y
+  segundo del artículo 17 de la LIVS la palabra “podrá” por “deberá”
+4
+  Ver Oficio N° 2931 de 2012.
+                                                                 2
+
+
+
+
+Luego, en las respectivas facturas o boletas que en estas operaciones corresponda emitir, el
+peticionario deberá consignar en forma separada el valor de las distintas prestaciones, gravándolas
+con IVA o no según corresponda.
+Finalmente, en caso que la rebaja del 11% del avalúo fiscal que se debe aplicar en el cálculo de la
+base imponible afecta a IVA5, de conformidad con el inciso primero del artículo 17 de la LIVS,
+sea superior al valor correspondiente al arriendo del inmueble amoblado, este Servicio ha resuelto
+reiteradamente6 que ello no la transforma en una operación exenta de IVA, sino que igualmente
+deben emitirse facturas o boletas afectas al mencionado impuesto.
+De estar exento el arrendamiento de la bodega, el valor correspondiente a dicha operación,
+incluido en el valor total del arriendo del inmueble, no debe considerarse para los fines de calcular
+la base imponible afecta a IVA de la operación como tampoco el avalúo fiscal correspondiente a
+la misma bodega.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente y respecto de lo consultado, se informa que:
+1)    Respecto de los contratos de arriendo afectos a IVA, el peticionario debe emitir facturas o
+      boletas, según corresponda, conforme a los artículos 52 y 53 de la LIVS.
+2)    Para calcular la base imponible afecta a IVA debe separar el valor de arriendo de los
+      inmuebles amoblados, por una parte, del valor asignados a las bodegas, por otra.
+3)    Si producto de la rebaja del 11% del avalúo fiscal a que se refiere el inciso primero del
+      artículo 17 de la LIVS, no resulta un impuesto a pagar, el arrendamiento sigue siendo una
+      operación gravada con IVA, debiendo emitirse facturas o boletas afectas al referido
+      impuesto.
+4)    Finalmente, al encontrarse el arriendo de las bodegas exentas de IVA, el valor de dicho
+      arriendo como el avalúo fiscal de la bodega no debe considerarse para determinar la base
+      imponible afecta a IVA de la operación.
+
+
+
+
+                                HERNÁN ANDRÉS FRIGOLETT CÓRDOVA
+                                           DIRECTOR
+
+
+
+
+                                             Oficio N° 3440, de 25-11-2022
+                                               Subdirección Normativa
+                                             Depto. de Impuestos Indirectos
+
+
+
+
+5
+  Para fines del cálculo de la base imponible afecta a IVA en el arrendamiento de inmuebles amoblados, inmuebles con instalaciones o
+  maquinarias que permiten la actividad comercial o industrial, los contribuyentes pueden utilizar calculadora electrónica disponible
+  en la página web del Servicio, en link impuestos mensuales.
+6
+  Oficios N°1303 de 1998, N° 4651 de 2006, N° 1406 de 2020 y N° 181, de 2021.
