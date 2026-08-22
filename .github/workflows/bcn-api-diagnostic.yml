@@ -1,0 +1,81 @@
+name: Diagnóstico API BCN
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/bcn-api-diagnostic.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bcn-api-diagnostic
+  cancel-in-progress: true
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Consultar servicios LeyChile
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const services = ['7.2', '9', '63', '71'];
+          const variants = [
+            { name: 'idNorma', params: { idNorma: '6368' } },
+            { name: 'i', params: { i: '6368' } },
+            { name: 'norma', params: { norma: '6368' } },
+          ];
+          const report = { checked_at: new Date().toISOString(), idNorma: 6368, attempts: [] };
+          for (const service of services) {
+            for (const variant of variants) {
+              const url = new URL(`https://www.bcn.cl/leychile/servicio/${service}/`);
+              for (const [k,v] of Object.entries(variant.params)) url.searchParams.set(k,v);
+              try {
+                const response = await fetch(url, {
+                  headers: { accept: 'application/json,text/html,application/xml,text/xml,*/*', 'user-agent': 'BeecontaBibliotecaTributaria/diagnostic' },
+                  signal: AbortSignal.timeout(15000),
+                });
+                const text = await response.text();
+                let json = null;
+                try { json = JSON.parse(text); } catch {}
+                report.attempts.push({
+                  service,
+                  variant: variant.name,
+                  url: url.toString(),
+                  status: response.status,
+                  content_type: response.headers.get('content-type'),
+                  length: text.length,
+                  json_type: json === null ? null : Array.isArray(json) ? 'array' : typeof json,
+                  json_keys: json && !Array.isArray(json) && typeof json === 'object' ? Object.keys(json).slice(0,30) : null,
+                  preview: text.slice(0,800),
+                });
+              } catch (error) {
+                report.attempts.push({ service, variant: variant.name, url: url.toString(), error: String(error) });
+              }
+            }
+          }
+          fs.writeFileSync('data/bcn-api-diagnostic.json', JSON.stringify(report, null, 2) + '\n');
+          console.log(JSON.stringify(report, null, 2));
+          NODE
+
+      - name: Guardar diagnóstico
+        run: |
+          git config user.name "beeconta-bcn-diagnostic"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/bcn-api-diagnostic.json
+          git commit -m "chore: capturar diagnóstico API BCN"
+          git pull --rebase origin main
+          git push
