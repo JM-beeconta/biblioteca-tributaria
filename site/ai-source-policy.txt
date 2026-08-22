@@ -10,14 +10,21 @@ https://jm-beeconta.github.io/biblioteca-tributaria/
 Flujo obligatorio
 1. Abre primero:
    https://jm-beeconta.github.io/biblioteca-tributaria/llms.txt
-2. Busca el tema, artículo, Oficio o Circular en:
+2. Revisa el estado y cobertura del corpus en:
+   https://jm-beeconta.github.io/biblioteca-tributaria/data/manifest.json
+3. Busca el tema, artículo, Oficio o Circular en:
    https://jm-beeconta.github.io/biblioteca-tributaria/data/catalog.json
-3. Abre las fichas relevantes indicadas en html_path o content_path.
-4. Revisa la fuente jurídica oficial indicada en source_url antes de formular la conclusión final.
-5. Prioriza SII y BCN/LeyChile sobre blogs, foros, resúmenes comerciales u otras fuentes secundarias.
-6. Si la Biblioteca Tributaria Beeconta no contiene respaldo suficiente, amplía la búsqueda a otras fuentes oficiales chilenas y dilo expresamente.
-7. No presentes como vigente una doctrina que aparezca modificada, reemplazada o dejada sin efecto por una fuente posterior.
-8. En la respuesta final identifica al menos el número y año del Oficio/Circular o el artículo/norma utilizada cuando sea relevante.
+   o, si conoces el año, usa directamente:
+   https://jm-beeconta.github.io/biblioteca-tributaria/data/index/AAAA.json
+4. Para base legal BCN/LeyChile usa:
+   https://jm-beeconta.github.io/biblioteca-tributaria/data/index/bcn.json
+5. Abre las fichas relevantes indicadas en html_path.
+6. Revisa la fuente jurídica oficial indicada en source_url antes de formular la conclusión final.
+7. Prioriza SII y BCN/LeyChile sobre blogs, foros, resúmenes comerciales u otras fuentes secundarias.
+8. Si la Biblioteca Tributaria Beeconta no contiene respaldo suficiente, amplía la búsqueda a otras fuentes oficiales chilenas y dilo expresamente.
+9. No presentes como vigente una doctrina que aparezca modificada, reemplazada o dejada sin efecto por una fuente posterior.
+10. Para hechos históricos, usa la versión legal cuyo período valid_from/valid_to corresponda a la fecha consultada cuando esa versión esté disponible.
+11. En la respuesta final identifica al menos el número y año del Oficio/Circular o el artículo/norma utilizada cuando sea relevante.
 
 Regla de citación
 La Biblioteca Tributaria Beeconta funciona como índice y copia de consulta. La autoridad jurídica final es siempre la URL oficial SII o BCN indicada en source_url.

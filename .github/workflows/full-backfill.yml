@@ -1,0 +1,199 @@
+name: Cargar Historia Tributaria Completa
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.full-backfill-request'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: biblioteca-full-backfill
+  cancel-in-progress: false
+
+jobs:
+  initialize:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.guard.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detectar solicitud ya completada
+        id: guard
+        shell: bash
+        run: |
+          if [ -f .full-backfill-request ] && node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('.full-backfill-request','utf8')); process.exit(x.status==='completed'?0:1)"; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Inicializar monitor de carga
+        if: steps.guard.outputs.skip != 'true'
+        shell: bash
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+          mkdir -p data
+          node <<'NODE'
+          const fs=require('fs');
+          const now=new Date().toISOString();
+          fs.writeFileSync('data/backfill-status.json', JSON.stringify({
+            status:'running',
+            requested_at:now,
+            updated_at:now,
+            total_ranges:14,
+            completed_ranges:[],
+            completed_count:0,
+            last_completed_range:null,
+            total_documents:null
+          }, null, 2)+'\n');
+          NODE
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/backfill-status.json
+          git commit -m "chore: iniciar carga histórica completa" || true
+          git pull --rebase origin main
+          git push
+
+  preflight:
+    needs: initialize
+    if: needs.initialize.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar extractores históricos
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils antiword catdoc unzip unrtf
+      - name: Ejecutar tests
+        run: npm test
+      - name: Probar año legacy 2005
+        run: node scripts/export-range.mjs --from=2005 --to=2005 --out=.preflight
+      - name: Validar calidad mínima de extracción
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const docs=JSON.parse(fs.readFileSync('.preflight/docs.json','utf8'));
+          if(docs.length < 20) throw new Error(`Preflight insuficiente: ${docs.length} documentos`);
+          const readable=docs.filter(d=>['full','partial'].includes(d.extraction_status)).length;
+          if(readable/docs.length < 0.25) throw new Error(`Extracción legacy insuficiente: ${readable}/${docs.length}`);
+          const binary=docs.filter(d=>d.format==='unknown' && d.extraction_status!=='metadata_only');
+          if(binary.length) throw new Error(`Hay binarios no reconocidos: ${binary.length}`);
+          console.log(`Preflight OK: ${docs.length} documentos; ${readable} con texto extraído.`);
+          NODE
+
+  bcn:
+    needs: preflight
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Exportar LeyChile vigente e histórico
+        run: node scripts/export-bcn.mjs --out=.bcn-output
+      - name: Fusionar BCN en biblioteca
+        shell: bash
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+          node scripts/merge-range.mjs --input=.bcn-output --range=BCN --total=14
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data content
+          git commit -m "chore: cargar base legal BCN histórica" || true
+          git pull --rebase origin main
+          git push
+
+  sii:
+    needs: bcn
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        include:
+          - { from: 2021, to: 2024, label: '2021-2024' }
+          - { from: 2017, to: 2020, label: '2017-2020' }
+          - { from: 2013, to: 2016, label: '2013-2016' }
+          - { from: 2009, to: 2012, label: '2009-2012' }
+          - { from: 2005, to: 2008, label: '2005-2008' }
+          - { from: 2001, to: 2004, label: '2001-2004' }
+          - { from: 1997, to: 2000, label: '1997-2000' }
+          - { from: 1993, to: 1996, label: '1993-1996' }
+          - { from: 1989, to: 1992, label: '1989-1992' }
+          - { from: 1985, to: 1988, label: '1985-1988' }
+          - { from: 1981, to: 1984, label: '1981-1984' }
+          - { from: 1977, to: 1980, label: '1977-1980' }
+          - { from: 1974, to: 1976, label: '1974-1976' }
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar extractores históricos
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils antiword catdoc unzip unrtf
+      - name: Exportar tramo SII ${{ matrix.label }}
+        run: node scripts/export-range.mjs --from=${{ matrix.from }} --to=${{ matrix.to }} --out=.range-output
+      - name: Fusionar y publicar checkpoint ${{ matrix.label }}
+        shell: bash
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+          node scripts/merge-range.mjs --input=.range-output --range=${{ matrix.label }} --total=14
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data content
+          git commit -m "chore: backfill tributario ${{ matrix.label }}" || true
+          git pull --rebase origin main
+          git push
+
+  finalize:
+    needs: sii
+    if: always() && needs.sii.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Cerrar carga histórica
+        shell: bash
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+          node <<'NODE'
+          const fs=require('fs');
+          const now=new Date().toISOString();
+          const status=JSON.parse(fs.readFileSync('data/backfill-status.json','utf8'));
+          status.status='completed';
+          status.completed_at=now;
+          status.updated_at=now;
+          fs.writeFileSync('data/backfill-status.json', JSON.stringify(status,null,2)+'\n');
+          fs.writeFileSync('.full-backfill-request', JSON.stringify({status:'completed',completed_at:now,total_documents:status.total_documents},null,2)+'\n');
+          for(const file of ['.bootstrap-full-history','.bootstrap-state.json']) { try { fs.rmSync(file); } catch {} }
+          NODE
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: completar historia tributaria 1974-actual" || true
+          git pull --rebase origin main
+          git push
