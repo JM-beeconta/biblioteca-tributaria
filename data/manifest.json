@@ -1,17 +1,21 @@
 {
-  "generated_at": "2026-08-22T03:00:46.879Z",
-  "total_documents": 4095,
+  "generated_at": "2026-08-22T03:10:55.945Z",
+  "total_documents": 5412,
   "by_source": {
-    "SII": 4092,
+    "SII": 5409,
     "BCN": 3
   },
   "by_type": {
-    "oficio": 3239,
+    "oficio": 4556,
     "circular": 853,
     "norma": 3
   },
   "by_year": {
     "1974": 3,
+    "2005": 402,
+    "2006": 357,
+    "2007": 287,
+    "2008": 271,
     "2009": 20,
     "2010": 29,
     "2011": 36,
@@ -185,6 +189,38 @@
       "count": 20,
       "source": "SII",
       "year": 2009
+    },
+    {
+      "name": "2008.json",
+      "path": "data/index/2008.json",
+      "relations_path": "data/relations/2008.json",
+      "count": 271,
+      "source": "SII",
+      "year": 2008
+    },
+    {
+      "name": "2007.json",
+      "path": "data/index/2007.json",
+      "relations_path": "data/relations/2007.json",
+      "count": 287,
+      "source": "SII",
+      "year": 2007
+    },
+    {
+      "name": "2006.json",
+      "path": "data/index/2006.json",
+      "relations_path": "data/relations/2006.json",
+      "count": 357,
+      "source": "SII",
+      "year": 2006
+    },
+    {
+      "name": "2005.json",
+      "path": "data/index/2005.json",
+      "relations_path": "data/relations/2005.json",
+      "count": 402,
+      "source": "SII",
+      "year": 2005
     }
   ]
 }

@@ -1,0 +1,58 @@
+# Oficio de 2005
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2005
+- Fecha: 2005-03-30
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1129.htm
+- Hash SHA-256: 1583646e31057f39910f0385f0089c084d9da46685a9a6c97118210d5fcc64af
+
+## Resumen
+
+Aplicaci�n del Impuesto Adicional que afecta a los Reaseguros. (Ord. N� 808, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 52�, Art. 55� bis � Ley N� 19.622, de 1999 � Circular N� 87, de 2001. Word Contribuyente acogido al Beneficio Tributario de la Ley N� 19.622, que se puede acoger a las normas del art�culo 55� bis de la Ley de la Renta. (Ord. N� 807, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�9 � Circular N� 100, de 1975 � Oficio N� 953, de 1997. Word Tratam…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 41� N�9 � CIRCULAR N� 100, DE 1975 � OFICIO N� 953, DE 1997. (ORD. N� 744, DE 02.03.2006)
+
+Home | Ley Renta - 2006
+RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 41� N�9 � CIRCULAR N� 100, DE 1975 � OFICIO N� 953, DE 1997. (ORD. N� 744, DE 02.03.2006)
+
+DERECHOS SOCIALES � DETERMINACI�N DEL COSTO TRIBUTARIO DE LA ENAJENACI�N DE DERECHOS SOCIALES EN SOCIEDADES DE PERSONAS � PRONUNCIAMIENTO EMITIDO POR EL SERVICIO.
+
+1. Por presentaci�n indicada en el antecedente, expone la situaci�n de su cliente XXXXXX S.A., en relaci�n con la operaci�n de enajenaci�n de derechos sociales en YYYYYY Limitada, transferidos el a�o 2002 a TTTTTT Ltda., respecto de la cual se�ala, que el resultado de dicha venta, entre partes relacionadas y obligadas a llevar contabilidad completa, arroj� una p�rdida. Se�ala a continuaci�n, que con fecha 30 de marzo de 2005, el Servicio notific� a su representada la Citaci�n N�14, de fecha 24 de marzo del mismo a�o, a trav�s de la cual se observa el costo tributario a deducir en la venta de derechos sociales utilizado por XXXXXX S.A. en la venta de derechos sociales de la sociedad YYYYYY Limitada.
+Despu�s de efectuar un an�lisis de las normas tributarias aplicables a la enajenaci�n de derechos sociales y de alguna jurisprudencia emitida sobre el particular por este Servicio, respecto de la determinaci�n del costo tributario aplicable en tales operaciones, expresa y solicita lo siguiente:
+�De acuerdo con los argumentos de hecho y de derecho planteados, se concluye que el tratamiento tributario de la enajenaci�n de derechos sociales est� primeramente determinado por la calidad del enajenante.
+Como en el caso en cuesti�n se trata de una sociedad que lleva contabilidad completa que vende a un relacionado, la ley indica que para determinar la renta que resulte de la enajenaci�n de derechos sociales se debe comparar (a) el costo tributario de dichos derechos sociales, m�s los aportes y aumentos de capital, menos las disminuciones de capital social, todo debidamente reajustado seg�n la variaci�n del lPC en el per�odo pertinente, y rectificando este reajuste de acuerdo al art�culo 41 N� 9 con el precio de venta.
+Si se interpretara, como lo hace el SII en su Resoluci�n Exenta 17200 N�112/2005, que el costo de adquisici�n o aporte de los derechos sociales debe incluir las utilidades y p�rdidas de la compa��a (VPP) se llegar�a al absurdo de interpretar la norma del art�culo 41 N�9 de la Ley de la Renta fuera del contexto de correcci�n monetaria donde se encuentra inserta y acarreando un cambio sustancial en el sentido de la palabra "rectificaci�n" que la propia norma en comento limita al reajuste.�
+En relaci�n con lo anterior, expresa que la consulta consiste en confirmar si para determinar el costo de adquisici�n de derechos en una sociedad de personas, no corresponde rectificar el costo mismo, es decir, el monto desembolsado por la adquisici�n de los derechos o por aumentos de capital, menos eventuales disminuciones de capital, sino que eventualmente s�lo corresponde rectificar el reajuste de dicho costo, seg�n el art�culo 41, N� 9 de la Ley de la Renta.
+2. Sobre el particular, cabe se�alar en primer lugar que este Servicio mediante varios pronunciamientos se ha referido a la situaci�n tributaria de la enajenaci�n de derechos sociales, se�alando al respecto que para determinar el costo tributario de la enajenaci�n de derechos sociales en sociedades de personas, en primer lugar, debe dilucidarse si el propietario de los citados derechos lleva o no contabilidad.
+En efecto, cuando el propietario de los referidos derechos se trata de un contribuyente que no lleva contabilidad, el costo tributario de los citados derechos se determina de acuerdo a lo dispuesto por el inciso tercero y cuarto del art�culo 41 de la Ley de la Renta, aplicando una u otra disposici�n si el enajenante de los mencionados derechos se los cede o no a una empresa o sociedad con la cual se encuentra relacionado en los t�rminos previstos por el inciso cuarto precitado.
+Las normas antes mencionadas precept�an lo siguiente al respecto: �Trat�ndose de la enajenaci�n de derechos de sociedades de personas, para los efectos de determinar la renta proveniente de dicha operaci�n, deber� deducirse del precio de enajenaci�n, el valor de libros de los citados derechos, seg�n el �ltimo balance anual practicado por la empresa, debidamente actualizado seg�n la variaci�n experimentada por el �ndice de precios al consumidor entre el �ltimo d�a del mes anterior al del �ltimo balance y el �ltimo d�a del mes anterior a aqu�l en que se produzca la enajenaci�n. El citado valor actualizado deber� incrementarse y/o disminuirse por los aportes, retiros o disminuciones de capital ocurridos entre la fecha del �ltimo balance y la fecha de enajenaci�n, para lo cual dichos aumentos o disminuciones deber�n reajustarse seg�n el porcentaje de variaci�n experimentado por el �ndice de precios al consumidor entre el �ltimo d�a del mes que antecede a aqu�l en que ocurrieron y el �ltimo d�a del mes anterior al de la enajenaci�n.�
+�En el caso de la enajenaci�n de derechos en sociedades de personas que hagan los socios de sociedades de personas o accionistas de sociedades an�nimas cerradas, o accionistas de sociedades an�nimas abiertas due�os del 10% � m�s de las acciones, a la empresa o sociedad respectiva o en las que tengan intereses, para los efectos de determinar la renta proveniente de dicha operaci�n, deber� deducirse del precio de la enajenaci�n el valor de aporte o adquisici�n de dichos derechos, incrementado o disminuido seg�n el caso, por los aumentos o disminuciones de capital posteriores efectuados por el enajenante, salvo que los valores de aporte, adquisici�n o aumentos de capital tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de esta ley. Para estos efectos, los valores indicados deber�n reajustarse de acuerdo a la variaci�n del �ndice de precios al consumidor entre el �ltimo d�a del mes anterior a la adquisici�n o aporte, aumento o disminuci�n de capital, y el �ltimo d�a del mes anterior a la enajenaci�n. Lo dispuesto en este inciso tambi�n se aplicar� si el contribuyente que enajena los derechos estuviera obligado a determinar su renta efectiva mediante contabilidad completa, calcul�ndose el valor actualizado de los derechos en conformidad con el n�mero 9 de este art�culo.�
+En caso contrario, si el propietario de los mencionados derechos se trata de un contribuyente que lleva contabilidad completa para los efectos de declarar sus rentas, el costo tributario de los referidos derechos se determina de acuerdo a lo establecido en el inciso primero del N� 9 del art�culo 41 de la Ley de la Renta, norma que establece lo siguiente:
+�Los aportes a sociedades de personas se reajustar�n seg�n el porcentaje indicado en el inciso primero del N� 1, aplic�ndose al efecto el procedimiento se�alado en el N� 2 de este art�culo. Lo anterior es sin perjuicio de rectificar posteriormente dicho reajuste de acuerdo al que haya correspondido en la respectiva sociedad de personas. Las diferencias que se produzcan de esta rectificaci�n se contabilizar�n, seg�n corresponda, con cargo o abono a la cuenta Revalorizaci�n del Capital Propio.
+Para estos efectos se considerar�n aportes de capital todos los haberes entregados por los socios, a cualquier t�tulo, a la sociedad de personas respectiva. �
+
+3. Ahora bien, en relaci�n con la consulta espec�fica que se formula, cabe indicar que este Servicio a trav�s del Oficio N� 953, del 07.05.1997, publicado en su p�gina web de Internet, (www.sii.cl), se�al� que al t�rmino de cada ejercicio las empresas inversionistas deben corregir su activo representado por aportes o derechos sociales en otras empresas, de acuerdo con lo que al efecto dispone el n�mero 9 del art�culo 41 de la Ley de la Renta, esto es, en el porcentaje de variaci�n experimentado por el �ndice de Precios al Consumidor en el per�odo comprendido entre el �ltimo d�a del segundo mes anterior al de iniciaci�n del ejercicio y el �ltimo d�a del mes anterior al del balance, cuando dichos activos o derechos sociales provengan del ejercicio anterior, y en el porcentaje de variaci�n experimentado por el mismo �ndice en el per�odo comprendido entre el �ltimo d�a del mes anterior al de su adquisici�n o aporte, y el �ltimo d�a del mes anterior al balance, respecto de los mismos derechos cuando �stos hayan sido adquiridos o aportados durante el ejercicio.
+Ahora bien, de acuerdo con la disposici�n se�alada, y en concordancia, adem�s, con lo instruido a trav�s de la Circular N� 100, de 1975, el valor corregido de los referidos aportes o derechos sociales, deben ser ajustados posteriormente (1� de enero del ejercicio siguiente) al verdadero valor que tengan estos activos en la sociedad receptora de los aportes seg�n los resultados positivos o negativos obtenidos por esta �ltima sociedad.
+Para dichos efectos debe entenderse como este �ltimo valor, el monto o cantidad que resulte de aplicar el porcentaje de participaci�n que tales derechos representan en el patrimonio de la sociedad a la que corresponden, debiendo entenderse por patrimonio a aquel determinado de acuerdo a lo dispuesto por el N� 1 del art�culo 41 de la Ley de la Renta, determinaci�n �sta que naturalmente debe efectuarse conforme con los registros contables de la sociedad receptora de los derechos sociales, o mejor dicho, en la sociedad donde est� radicada la inversi�n.
+Por su parte, la contabilizaci�n del referido ajuste deber� efectuarse en la forma explicitada en la Circular N� 100, del a�o 1975, es decir, con cargo a la cuenta Revalorizaci�n del Capital Propio y abono a la cuenta de activo que represente los aportes o derechos en otras sociedades, cuando el valor patrimonial determinado en la forma antes indicada, sea inferior al valor corregido monetariamente de dichos activos, y en la forma inversa, esto es, con abono a la cuenta Revalorizaci�n de Capital Propio y con cargo a la cuenta de activo cuando el referido valor patrimonial sea superior al valor de estos derechos ya corregidos monetariamente.
+En consecuencia, cabe expresar que el valor as� ajustado es el que debe considerarse para los fines de la determinaci�n del resultado tributario obtenido en la enajenaci�n de derechos sociales efectuada por contribuyentes obligados a determinar su renta efectiva mediante contabilidad completa.
+4. De consiguiente, en relaci�n con lo consultado se informa que la situaci�n que plantea el recurrente, este Servicio ya la resolvi� mediante el citado Oficio N� 953, de 1997, y comentado en n�mero precedente.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Oficio N� 744, de 02.03.2006.
+
+Subdirecci�n Normativa
+
+Dpto. de Impuestos Directos.

@@ -1,0 +1,53 @@
+# Oficio de 2005
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2005
+- Fecha: 2005-01-12
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja866.htm
+- Hash SHA-256: cab086e3b035bd16117711063d72c179e4f64d9266008345b1aa5a8d1f7f3a24
+
+## Resumen
+
+� � Circulares N�s 60, de 1990 y 70, de 1998. Word Situaci�n Tributaria de Retiro de Utilidad Reinvertido en otra Sociedad, conforme a las Normas de la letra c), del N�1, de la letra A), del Art�culo 14�, de la Ley de la Renta y Enajenaci�n de Derechos Sociales, de acuerdo a las normas de los Incisos 3� y 4� del art�culo 41� de la ley precitada. (Ord. N� 0113, de 12.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 3� � Constituci�n Pol�tica de la Rep�blica, Art. 19�, N� 14 Word Resuelve sobre Pr�rroga de Pla…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 3� � CONSTITUCI�N POL�TICA DE LA REP�BLICA, ART. 19�, N� 14 (ORD. N� 068, DE 07.01.2005)
+
+Home | Ley Renta - 2005
+RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 3� � CONSTITUCI�N POL�TICA DE LA REP�BLICA, ART. 19�, N� 14 (ORD. N� 068, DE 07.01.2005)
+
+RESUELVE SOBRE PR�RROGA DE PLAZO QUE SE ESTABLECE EN LA PARTE FINAL DEL INCISO SEGUNDO DEL ART�CULO 3�, DE LA LEY DE LA RENTA � INSTRUCCIONES IMPARTIDAS POR EL SERVICIO � LA FALTA DE �NIMO PARA RADICARSE EN CHILE, ES UN FACTOR QUE DEBE SER CONSIDERADO COMO UNA CONDICI�N POR LOS SRES. DIRECTORES REGIONALES EN EL AN�LISIS DE CADA UNA DE LAS SOLICITUDES SOBRE LAS CUALES DEBEN RESOLVER, POR CUANTO EL PLAZO DE TRES A�OS CONTADOS DESDE SU INGRESO A CHILE, EN QUE EL EXTRANJERO QUE CONSTITUYE DOMICILIO O RESIDENCIA EN EL PA�S, S�LO ESTAR� AFECTO A LOS IMPUESTOS QUE GRAVAN LAS RENTAS OBTENIDAS DE FUENTES CHILENAS � HABI�NDOSE ESTABLECIDO LA INTENCI�N DEL EXTRANJERO DOMICILIADO O RESIDENTE EN EL PA�S, DE RADICARSE PERMANENTEMENTE EN CHILE, PIERDE TODO SENTIDO QUE EL DIRECTOR REGIONAL EN USO DE SU FACULTAD CONCEDA LA PR�RROGA.
+
+1.- Por presentaci�n indicada en el antecedente, y en conformidad con lo dispuesto en el art�culo 6� del C�digo Tributario y art�culo 19 N� 14 de la Constituci�n Pol�tica, consulta si es posible modificar la interpretaci�n administrativa vigente de este Servicio en relaci�n con la expresi�n �casos calificados� que utiliza el inciso segundo del art�culo 3� de la Ley de la Renta, disposici�n que, a su vez, autoriza al Director Regional correspondiente para prorrogar el plazo legal de tres a�os durante el cual un extranjero domiciliado o residente en Chile se encuentra afecto a la Ley de la Renta solamente por sus rentas de fuente chilena. Respecto de la materia en consulta, expresa, que con fecha xx de Abril de 2004, el contribuyente extranjero solicit� al Director Regional del SII la ampliaci�n del plazo legal de tres a�os durante el cual un extranjero domiciliado o residente en Chile se encuentra afecto a la Ley de la Renta solamente por sus rentas de fuente chilena y, al mismo tiempo, est� exento por sus ingresos de fuente extranjera. Todo ello, en virtud de lo dispuesto en el art�culo 3� de la Ley de la Renta, por estimar, fundamentalmente, que la existencia de negociaciones bilaterales entre Chile y Estados Unidos tendientes a acordar un convenio que evite la doble tributaci�n entre ambos pa�ses, constituye sin duda un �caso calificado� de aquellos a que se refiere la norma citada y que, en consecuencia, autorizan al Director Regional del SII para otorgar la pr�rroga en comento.
+Agrega a continuaci�n, que el Director Regional del SII rechaz� la solicitud precedente, fundando el rechazo en una interpretaci�n administrativa vigente a la fecha, seg�n la cual, cuando la ley habla de �casos calificados�, se est� refiriendo a casos en que la permanencia del extranjero en Chile es transitoria y no existe el �nimo de quedarse en forma definitiva en el territorio nacional. Se�ala, que la situaci�n del contribuyente es exactamente la contraria y �l siempre as� lo ha manifestado, sin embargo, no hay evidencia legal de que la interpretaci�n administrativa antes referida sea la �nica posible, muy por el contrario, el legislador habla de �casos calificados� y no �caso calificado�. Por otra parte, se�ala, si bien esa interpretaci�n pudo haber tenido asidero anteriormente, evidentemente que la proximidad de un tratado que evite la doble tributaci�n hace que carezca de toda l�gica y sentido que el contribuyente pueda verse afectado por una situaci�n durante unos meses, situaci�n que dicho tratado va a corregir, por lo que en ese sentido la situaci�n del contribuyente es tambi�n transitoria.
+De acuerdo con lo anteriormente expuesto, y luego de efectuar un extenso an�lisis respecto de las normas para evitar la doble tributaci�n, solicita de este Servicio se informe respecto a si es procedente modificar la interpretaci�n administrativa vigente en relaci�n con la expresi�n �casos calificados� que emplea el inciso segundo del art�culo 3� de la Ley de la Renta, estableciendo a cambio que la situaci�n de quien solicite la pr�rroga deber� evaluarse caso a caso y con los antecedentes que en cada ocasi�n se sometan a la consideraci�n del Director Regional.
+2.- Sobre el particular, cabe se�alar en primer lugar que el art�culo 3� de la Ley de la Renta establece lo siguiente:
+
+�Art�culo 3�.- Salvo disposici�n en contrario de la presente ley, toda persona domiciliada o residente en Chile, pagar� impuestos sobre sus rentas de cualquier origen, sea que la fuente de entradas est� situada dentro del pa�s o fuera de �l, y las personas no residentes en Chile estar�n sujetas a impuesto sobre sus rentas cuya fuente est� dentro del pa�s.
+Con todo, el extranjero que constituya domicilio o residencia en el pa�s, durante los tres primeros a�os contados desde su ingreso a Chile s�lo estar� afecto a los impuestos que gravan las rentas obtenidas de fuentes chilenas. Este plazo podr� ser prorrogado por el Director Regional en casos calificados. A contar del vencimiento de dicho plazo o de sus pr�rrogas, se aplicar�, en todo caso, lo dispuesto en el inciso primero.�
+3.- De acuerdo con lo dispuesto por el inciso segundo de la norma legal antes transcrita, la facultad para el otorgamiento de la pr�rroga que establece dicho precepto legal, la ley la ha radicado expresamente en los Directores Regionales del Servicio.
+En cumplimiento de dicha facultad, el Sr. Director Regional Metropolitano Santiago XXXX, por medio de su Oficio Ordinario N� xxxxx, deneg� su solicitud de fecha 29.04.2004, por medio de la cual solicit� la pr�rroga del plazo a que se refiere la disposici�n en comento.
+Para el rechazo de dicha petici�n el Director Regional en referencia, se bas� en lo expresamente se�alado en su solicitud, esto es, que su intenci�n y �nimo es radicarse definitivamente en Chile, fijando de manera permanente y definitiva su domicilio, como tambi�n el asiento de sus negocios y actividades en el pa�s, y teniendo en consideraci�n adem�s, la recomendaci�n de esta Direcci�n Nacional en cuanto a que, para el ejercicio de tal facultad, esto es, para el otorgamiento de la pr�rroga del plazo indicado en el inciso segundo del art�culo 3� de la Ley de la Renta, se debe considerar como factor preponderante, la falta de �nimo del solicitante para radicarse en Chile.
+4.- Ahora bien, en relaci�n con la materia en an�lisis procede indicar, que la instrucci�n de esta Direcci�n Nacional en t�rminos de considerar como un elemento o factor preponderante para el otorgamiento de las solicitudes de pr�rroga en comento, la falta de �nimo para radicarse en Chile, se encuentra en la actualidad plenamente vigente, factor �ste que debe ser considerado como una condici�n por los Sres. Directores Regionales en el an�lisis de cada una de las solicitudes sobre las cuales deben resolver. Lo anterior, por cuanto el plazo de tres a�os contados desde su ingreso a Chile, en que el extranjero que constituye domicilio o residencia en el pa�s, s�lo estar� afecto a los impuestos que gravan las rentas obtenidas de fuentes chilenas, fue establecido excepcionalmente por la ley, para no aplicar la norma general del inciso primero del art�culo 3� en cuesti�n, en los casos de los contribuyentes extranjeros que habiendo constituido domicilio o residencia en Chile, permanezcan o tengan la intenci�n de permanecer transitoriamente en el pa�s en tal condici�n, por un per�odo m�ximo de tres a�os.
+De lo dicho se sigue, que habi�ndose establecido la intenci�n del extranjero domiciliado o residente en el pa�s, de radicarse permanentemente en Chile, pierde todo sentido que el Director Regional en uso de su facultad conceda la pr�rroga en comento.
+Por otra parte, en lo que respecta a la argumentaci�n esgrimida por el recurrente en su escrito, en cuanto a que la existencia de negociaciones bilaterales entre Chile y Estados Unidos tendientes a celebrar un convenio que evite la doble tributaci�n entre ambos pa�ses har�a que careciera de toda l�gica y sentido que el contribuyente pudiera verse afectado durante algunos meses por una situaci�n que el convenio vendr�a a corregir y constituir�a un �caso calificado� de aquellos a que se refiere la norma citada y que, en consecuencia, autorizar�a al Director Regional para otorgar la pr�rroga en comento, habr�a que se�alar en primer t�rmino, que efectivamente se han realizado negociaciones con los Estados Unidos por largo tiempo y no existe certeza de cuando concluir�n ni de los t�rminos que ambos pa�ses acordar�n para evitar la doble tributaci�n.
+Es por ello que, no parece razonable solicitar que se prorrogue el plazo legal de tres a�os durante el cual un extranjero domiciliado o residente en Chile se encuentre afecto a la Ley de la Renta solamente por sus rentas de fuente chilena, bas�ndose en un hecho hipot�tico que no se sabe si se concretar� y tampoco si tendr� el mismo efecto que resulta de la aplicaci�n del art�culo 3�. Por lo dem�s, en la eventualidad que el Convenio se aprobara, sus disposiciones se aplicar�an, probablemente, a los impuestos sobre las rentas que se obtengan y a las cantidades que se paguen, abonen en cuenta o se contabilicen como gasto, a partir del primer d�a del mes de enero del a�o siguiente a aqu�l en que el convenio entre en vigor, como ha sido la pr�ctica de todos los convenios suscritos por Chile.
+Finalmente, y en lo que se refiere a la eliminaci�n de la doble tributaci�n, ello va a depender de lo que se acuerde en el convenio que se suscriba y tambi�n de la legislaci�n de cada pa�s.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Oficio 068, de 07.01.2005.
+
+Subdirecci�n Normativa
+
+Dpto. de Impuestos Directos

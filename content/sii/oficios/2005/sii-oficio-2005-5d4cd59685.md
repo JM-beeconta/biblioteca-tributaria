@@ -1,0 +1,65 @@
+# Oficio de 2005
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2005
+- Fecha: 2005-06-02
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja936.htm
+- Hash SHA-256: 515e84d504a761908df6a76512967ffcebcf8c29033e9e20c48cdee27c7ea93d
+
+## Resumen
+
+arial" size="2">(Ord. N� 1.672, de 02.06.2005) Actividad Minera � Inventarios Intermedios de Baja Ley � Ley Sobre Impuesto a la Renta, Art. 31�, N� 9 � Oficios N� 1.559, de 1991, N� 297, de 1982, N� 1.739, de 1986 y N� 3.008, de 2000. Word Tratamiento Tributario aplicable a los denominados Inventarios Intermedios de Baja Ley (Ord. N� 1377, de 09.05.2005) Cr�dito por Impuesto de Primera Categor�a en contra del Impuesto Global Complementario � Ley de la Renta � Art. 56�, N� 3, Art. 21�. Word Requisitos que se deben…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OTRO - CR�DITO POR IMPUESTO DE PRIMERA CATEGOR�A EN CONTRA DEL IMPUESTO GLOBAL COMPLEMENTARIO � LEY DE LA RENTA � ART. 56�, N� 3, ART. 21�. ( ORD N� 1.287, DE 03.05.2005)
+
+Home | Otro - 2005
+CR�DITO POR IMPUESTO DE PRIMERA CATEGOR�A EN CONTRA DEL IMPUESTO GLOBAL COMPLEMENTARIO � LEY DE LA RENTA � ART. 56�, N� 3, ART. 21�. ( ORD N� 1.287, DE 03.05.2005)
+
+REQUISITOS QUE SE DEBEN CUMPLIR PARA TENER DERECHO AL CR�DITO POR IMPUESTO DE PRIMERA CATEGOR�A
+
+1.- Se ha recibido en esta Direcci�n, su Oficio indicado en el antecedente, a trav�s del cual expresa que: �En la reuni�n del mes pasado de la Subcomisi�n de Lucha Contra la Evasi�n, Regi�n Metropolitana, se analiz� el correcto uso del Cr�dito de Primera Categor�a en el Impuesto Global Complementario, en situaciones en que �ste no es enterado en arcas fiscales ni ha sido absorbido por cr�ditos. Tal an�lisis, ha llevado a concluir, el plantear a la Subdirecci�n de Fiscalizaci�n, de lo necesario que ser�a contar con una interpretaci�n administrativa sobre el tema.
+El Cr�dito de Primera Categor�a, que puede rebajarse del Impuesto Global Complementario, lo establece el art�culo 56 N� 3), se�alando que corresponde a "La cantidad que resulte de aplicar a las rentas o cantidades que se encuentren incluidas en la renta bruta global, la misma tasa del impuesto de primera categor�a con que se gravaron". La expresi�n "gravaron" en este sentido, no exige el pago del tributo, situaci�n en la cual una sociedad que no haya pagado efectivamente este impuesto, no inhabilita al socio para que pueda imputarlo a su Impuesto Global Complementario y eventualmente, solicitar su devoluci�n en el caso que exceda el impuesto determinado.
+Por otra parte, en el Suplemento Tributario de la Operaci�n Renta del A�o Tributario 2004, se indica en lo referido a la l�nea 31 del Formulario 22, C�digo (610), en que se registra el Cr�dito por Impuesto de Primera Categor�a, que es aplicado contra el impuesto resultante del Global Complementario y con derecho a devoluci�n de su excedente, se utiliza nuevamente la expresi�n, "efectivamente gravadas" en que tampoco se exige que el Impuesto de Primera Categor�a se encuentre pagado para su utilizaci�n como cr�dito.
+De acuerdo a lo anterior, puede darse el caso de sociedades que en definitiva no paguen el Impuesto de Primera Categor�a a que est�n afectas por sus utilidades, ya sea por que ha diferido su pago y el giro producto de esta situaci�n no se pague o bien, en el caso de no declarantes de Primera Categor�a que han distribuido utilidades y emitido las Declaraciones Juradas correspondientes, hecho que podr�a derivarse en girar este impuesto y que tampoco se pague. La norma antes comentada permitir�a su imputaci�n al Impuesto Global Complementario y su eventual devoluci�n.
+En el caso de las Liquidaciones de Impuestos, el cr�dito se otorga de oficio, pese a que en muchos casos existen presunciones fundadas que la sociedad no pagar� el Impuesto de Primera Categor�a, como ocurre en las auditorias de casos de delitos tributarios, en que la carga tributaria de los socios se ver� disminuida por montos importantes si se considera que el monto del cr�dito estar� determinado por el monto de lo defraudado por la sociedad.
+Por lo expuesto, se requiere un pronunciamiento administrativo, en que se contemplen los siguientes puntos:
+a) Que el Impuesto de Primera Categor�a debe encontrarse debidamente cancelado para ser utilizado como cr�dito del Impuesto Global Complementario.
+b) Que el Impuesto de Primera Categor�a, opere como cr�dito contra el Impuesto Global Complementario, pero que su devoluci�n si excede a este impuesto, no opere mientras no se acredite que se encuentra debidamente cancelado por la sociedad, como es el caso del tratamiento de los gastos rechazados, cuando la sociedad est� en situaci�n de p�rdida y no se ha tributado por su incorporaci�n en la Renta L�quida Imponible.
+c) Que en el caso de las liquidaciones, solo se acepte la imputaci�n como cr�dito del Impuesto de Primera Categor�a, el efectivamente pagado por la sociedad y posteriormente, podr� hacerlo efectivo el socio, presentando una declaraci�n modificatoria, con esto existir�a un inter�s comprometido del contribuyente para regularizar la situaci�n y hacer efectivo su derecho, que podr�a traducirse, en la posibilidad de recaudar en forma m�s expedita y eficiente el tributo, como asimismo, en el evento que no haya pago, el Servicio de Tesorer�a tendr�a que accionar por el total de los impuestos efectivamente adeudados.
+d) Que en el caso de las liquidaciones que se practiquen a las sociedades, se imputar� como cr�dito de Impuesto de Primera Categor�a, solo hasta el monto que cubra el Impuesto de Global Complementario de los socios, de existir un excedente, �ste no se considerar� hasta que el contribuyente no acredite el pago efectivo del Impuesto de Primera Categor�a determinado.�
+2.- Sobre el particular, cabe se�alar en primer lugar, que el N� 3 del art�culo 56 de la Ley de la Renta establece lo siguiente al respecto: �A los contribuyentes afectos a este impuesto (Global Complementario), se les otorgar�n los siguientes cr�ditos contra el impuesto final resultante, cr�ditos que deber�n imputarse en el orden que a continuaci�n se establece:
+1) ......................
+
+2) ......................
+
+3) La cantidad que resulte de aplicar a las rentas o cantidades que se encuentren incluidas en la renta bruta global, la misma tasa del impuesto de primera categor�a con la que se gravaron. Tambi�n tendr�n derecho a este cr�dito las personas naturales que sean socios o accionistas de sociedades, por las cantidades obtenidas por �stas en su calidad de socias o accionistas de otras sociedades, por la parte de dichas cantidades que integren la renta bruta global de las personas aludidas.�
+El citado art�culo 56, en su inciso pen�ltimo precept�a que: �Si el monto de los cr�ditos establecidos en este art�culo excediere del impuesto de este T�tulo, dicho excedente no podr� imputarse a ning�n otro impuesto ni solicitarse su devoluci�n, salvo que el exceso provenga del cr�dito establecido en el N� 3 de este art�culo respecto de las cantidades efectivamente gravadas en primera categor�a, en cuyo caso se devolver� en la forma se�alada en el art�culo 97.�
+3.- Como se puede apreciar de lo dispuesto por la norma legal antes transcrita, el otorgamiento del cr�dito por impuesto de Primera Categor�a en contra del impuesto Global Complementario, no est� sujeto al pago o entero efectivo de dicho tributo al Fisco por parte de la empresa o sociedad que lo gener�, sino que seg�n lo preceptuado por la norma legal en comento, el socio o accionista de la respectiva sociedad tendr� derecho al citado cr�dito aplicando sobre las rentas declaradas en la Renta Bruta Global del impuesto Global Complementario la misma tasa del impuesto de Primera Categor�a con que dichas rentas se gravaron a nivel de la sociedad que gener� tales rentas.
+Ahora bien, el t�rmino gravar, el Servicio a trav�s de la jurisprudencia administrativa emitida al efecto lo hace sin�nimo al t�rmino afectar, suponiendo ambas expresiones la imposici�n del impuesto de Primera Categor�a a nivel de la sociedad que gener� la renta, independiente de la fecha de pago de este tributo por parte de la empresa o su entero en arcas fiscales.
+Reafirma lo anteriormente expuesto, el hecho que ciertas cantidades que se incluyen en la Renta Bruta Global del impuesto Global Complementario aunque no se hayan gravado o afectado con el impuesto de Primera Categor�a de todas maneras tienen derecho a la imputaci�n del mencionado gravamen de categor�a, como sucede por ejemplo con los gastos rechazados del art�culo 21 de la Ley de la Renta, cuando una empresa se encuentra en situaci�n de p�rdida tributaria, caso en el cual, los contribuyentes de todas maneras tienen derecho al cr�dito por impuesto de Primera Categor�a para su imputaci�n al impuesto Global Complementario.
+Por otro lado, debe destacarse que distinta es la situaci�n cuando resulte un remanente de dicho cr�dito en el impuesto Global Complementario, el cual seg�n lo dispuesto por el inciso pen�ltimo del art�culo 56, s�lo proceder� su devoluci�n al contribuyente cuando el citado cr�dito provenga de rentas o cantidades que a nivel de la empresa o sociedad, se gravaron efectivamente con el citado tributo, esto es, que la empresa haya pagado y enterado efectivamente el impuesto de Primera Categor�a en arcas fiscales para que proceda el derecho a su devoluci�n, de conformidad a la modalidad prevista por el art�culo 97 de la Ley de la Renta.
+4.- Basado en lo anteriormente expuesto, a continuaci�n se expresa lo siguiente respecto de cada una de las consultas formuladas por la Direcci�n Regional recurrente:
+a) Respecto de la primera de ellas, se se�ala que el impuesto de Primera Categor�a, conforme a lo dispuesto por el N� 3 del art�culo 56 de la Ley de la Renta, no es necesario que se encuentre debidamente cancelado para poder ser utilizado en el impuesto Global Complementario, ya que la norma legal antes mencionada al respecto precept�a que el citado cr�dito se otorgar� aplicando sobre las rentas incluidas en la Renta Bruta Global del impuesto Global Complementario, la misma tasa del impuesto de Primera Categor�a con que se gravaron a nivel de la sociedad que las gener�, sin que el t�rmino gravaron denote un pago efectivo en las arcas fiscales.
+b) En cuanto a la segunda consulta, se expresa que los remanentes que resulten por concepto de Cr�dito de Primera Categor�a, s�lo proceder� su devoluci�n si las rentas o cantidades que dan origen a dicho excedente han sido efectivamente gravadas con el citado tributo de categor�a, lo que significa que el impuesto de Primera Categor�a que afectan a tales rentas haya sido efectivamente enterado en arcas fiscales por parte de la sociedad que genera las rentas o cantidades que dan derecho a dicho cr�dito; todo ello de acuerdo a lo establecido por el inciso pen�ltimo del art�culo 56 de la Ley de la Renta.
+c) En cuanto a la tercera pregunta, se informa que en los casos en que existan liquidaciones de impuesto no es posible limitar la imputaci�n como cr�dito del Impuesto de Primera Categor�a al monto efectivamente pagado por la sociedad para posteriormente hacerlo efectivo el socio presentando una declaraci�n modificatoria. Lo anterior, por cuanto no existe norma legal que limite la imputaci�n del cr�dito seg�n los criterios expuestos en su solicitud.
+d) Respecto a lo solicitado en la letra d), en cuanto a que en el caso de las liquidaciones que se practiquen a las sociedades, se impute como cr�dito de Impuesto de Primera Categor�a solo hasta el monto que cubra el Impuesto Global Complementario de los socios, y que de existir un excedente no se considerar� hasta que el contribuyente no acredite el pago efectivo del Impuesto de Primera Categor�a determinado, se estima que de conformidad a las normas legales citadas la imputaci�n total del cr�dito del Impuesto de Primera Categor�a determinado proceder� siempre, sin importar si �ste ha sido o no pagado, y que la exigencia de que se acredite el pago efectivo proceder� �nicamente en el caso que se solicite devoluci�n de impuestos por el contribuyente de Impuesto Global Complementario, de conformidad con el art�culo 56� inciso pen�ltimo de la Ley de Impuesto a la Renta.
+5.- No obstante que en los casos se�alados en las letras c) y d) del punto anterior no resulta legalmente procedente exigir al contribuyente que acredite el pago del impuesto para tener derecho al cr�dito por impuesto de primera categor�a, establecido en el art�culo 56 N� 3 de la Ley de Impuesto a la Renta, debe se�alarse que el Servicio podr�a reconocer el derecho del contribuyente s�lo a aqu�l cr�dito que efectivamente acredite, en cuanto a que dichas rentas estuvieron gravadas con el impuesto de primera categor�a, ya sea, mediante el correspondiente pago, con la declaraci�n de renta respectiva presentada, o con el giro que se hubiere practicado.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Ord. N� 1.287, de 03.05.2005.
+
+Subdirecci�n Normativa
+
+Dpto. de Fiscalizaci�n Selectiva e Internacional
