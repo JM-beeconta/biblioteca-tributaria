@@ -6,8 +6,8 @@
 - Año: 2019
 - Fecha: 2019-08-23
 - Categoría: Renta
-- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2184-23%2F08%2F2019.pdf&extension=pdf&acc=download&id=364e4d53-aab9-4a29-a76b-b9f805a6246b&mediaType=application%2Fpdf
-- Hash SHA-256: 589eb0facc0037e9cac639d4933c36ad6097374ed11ee5bcf230acd670fdd83b
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2184-23%2F08%2F2019.pdf&extension=pdf&acc=download&id=8704808d-92b1-47e2-b7f3-e718ddcfc1ec&mediaType=application%2Fpdf
+- Hash SHA-256: 9aaf6a830eeaa15164bc27e9ae9bbbeeca39c316e3e8d8e78fcce1e491c89d17
 
 ## Resumen
 
@@ -82,7 +82,7 @@ acuerde el Comité, y que la administración de los dineros y la inversión de e
 
 
 Describe que el pago de los recursos se efectuará a todo evento, independiente del estado del proyecto
-Pascua Lama, sus modificaciones y nuevos desarrollos.
+XXXXX, sus modificaciones y nuevos desarrollos.
 
 Asimismo, que con fecha oooooooo el SII otorgó RUT al Fondo, lo anterior con el objeto de separar
 los ingresos y gastos de cada entidad. Es así como el Fondo cuenta con su propia cuenta corriente, de
@@ -138,7 +138,7 @@ suscribieron sucesivos protocolos con el objeto de regular la administración de
 constituyen el Fondo y que adecuarlos a las nuevas formas de administración se han comprometido a
 dictar un nuevo Reglamento y Protocolo que considerarán, entre cuyas materias, las normas de
 administración de esos dineros para rendir cuenta de ellos y cumplimiento tributario.
-                                                    3
+                                                   3
 
 
 

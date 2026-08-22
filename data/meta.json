@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:35:15.329Z",
+  "generated_at": "2026-08-22T02:48:48.747Z",
   "total_documents": 3512,
   "by_source": {
     "SII": 3509,
@@ -34,8 +34,8 @@
     "LIVS",
     "CT"
   ],
-  "mode": "backfill:2021-2024",
-  "last_scrape_at": "2026-08-22T02:35:14.327Z",
-  "touched_documents": 2077,
+  "mode": "backfill:2017-2020",
+  "last_scrape_at": "2026-08-22T02:48:48.189Z",
+  "touched_documents": 890,
   "backfill_status": "running"
 }

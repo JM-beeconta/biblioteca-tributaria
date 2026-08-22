@@ -6,84 +6,264 @@
 - Año: 2018
 - Fecha: 2018-08-09
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1638.htm
-- Hash SHA-256: c2b4e46ead3f9cba1ed50d821885cd9d7138761896c14589f423169fe1c92355
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja26.doc
+- Hash SHA-256: 744cad26d89ebe1a67d4027b09f8a404f6e0eb546352ce765b458cf948447125
 
 ## Resumen
 
-tyle='margin-bottom:3px;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 15, Art. 17, N°5, Art. 31, N°9 &ndash; . (Ord. Nº 26, de 09-08-2018) | Word Tratamiento tributario del sobreprecio obtenido en la colocación de acciones de propia emisión en el caso en que la sociedad anónima emisora de los títulos resulte absorbida en un proceso de fusión por incorporación. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 65, Art. 40, N°2 &ndash; Ley N° 18.660, de 1987 &ndash; Decreto Ley N° 1092, de 197…
+N°5, Art. 41, Art. 14, Letra B) &ndash; Circular N° 44, de 2016. (Ord. Nº 27, de 09-08-2018) | Word Situación tributaria de la corrección monetaria asociada al sobreprecio en la colocación de acciones de su propia emisión en el caso que indica. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 15, Art. 17, N°5, Art. 31, N°9 &ndash; . (Ord. Nº 26, de 09-08-2018) | Word Tratamiento tributario del sobreprecio obtenido en la colocación de acciones de propia emisión en el caso en que la sociedad anónima emisora…
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"40"}
-- {"type":"articulo","law":"LIR","article":"1"}
-- {"type":"articulo","law":"LIR","article":"65"}
-- {"type":"articulo","law":"LIR","article":"40 N"}
+- {"type":"circular","number":13,"year":2014}
+- {"type":"oficio","number":2897,"year":2015}
+- {"type":"articulo","law":"LIR","article":"2"}
+- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"articulo","law":"LIR","article":"17  N"}
+- {"type":"articulo","law":"LIR","article":"17\nN"}
+- {"type":"articulo","law":"LIR","article":"17 N"}
+- {"type":"articulo","law":"LIR","article":"14"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 65, ART. 40, N°2 – LEY N° 18.660, DE 1987 – DECRETO LEY N° 1092, DE 1975. (Ord. Nº 1638, de 07-08-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  ART. 15, ART. 17, N°5, ART. 31,
+       N°9 – OFICIO N° 2897, DE 2015. (OF. RES. N° 026, DE 09.08.2018)
 
-APLICACIÓN DE LA EXENCIÓN DEL IMPUESTO DE PRIMERA CATEGORÍA EN EL CASO DE MUTUAL DE SEGUROS QUE SE INDICA.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual solicita se emita un pronunciamiento, respecto de la aplicación de la exención del Impuesto de Primera Categoría establecida en el artículo 3° del Decreto Ley N° 1.092 de 1975, en concordancia con lo establecido en el N° 2, del artículo 40 de la Ley sobre Impuesto a la Renta (LIR), en el caso de Mutual TTTT.
 
-I.- ANTECEDENTES:
+Tratamiento  tributario  del  sobreprecio  obtenido  en  la  colocación   de
+acciones de propia emisión en el caso en que la sociedad anónima emisora  de
+los títulos resulte absorbida en un proceso de fusión por incorporación.
 
-Señala que en el desarrollo de programa &ldquo;no declarantes y subdeclarantes Formulario 22&rdquo; se citó a una Mutual de Seguros que figura como no declarante en los años comprendidos dentro del plazo de prescripción del Art 200 del CT. En respuesta a la Citación, la contribuyente señaló que se encuentra exenta del Impuesto de Primera Categoría en virtud de lo señalado en el artículo 3° del Decreto Ley N° 1.092 de 1975.
 
-Al respecto indica que el texto íntegro del Decreto Ley N°1.092 de 1975, fue sustituido por la Ley N° 18.660 de 1987, que establece la obligación de mantener un seguro de vida a todo el personal de las Fuerzas Armadas y Carabineros de Chile, manteniendo la exención a través de lo dispuesto en su artículo 7°.
+Se ha recibido  en  esta  Dirección  Nacional,  su  oficio  indicado  en  el
+antecedente,  mediante  el  cual  solicita  un  pronunciamiento   sobre   el
+tratamiento  tributario  del  sobreprecio  obtenido  en  la  colocación   de
+acciones de propia emisión, en el caso en que la  sociedad  anónima  emisora
+de los títulos resulte absorbida en un proceso de fusión  por  incorporación
+y la sociedad absorbente incorpore a su patrimonio  los  activos  y  pasivos
+existentes en la sociedad absorbida al momento de la fusión.
 
-Indica a continuación, que la referida Mutual de Seguros, no solo presta servicios a las Fuerzas Armadas y Carabineros de Chile, sino también a terceros ajenos. Por lo anterior consulta si la exención tributaria se encuentra limitada sólo a las primas de seguro derivadas de contratos celebrados entre la Mutual y personal de las Fuerzas Armadas y Carabineros de Chile y a las utilidades generadas como consecuencia de la inversión de dichos dineros, y no respecto de las primas de seguro y las utilidades generadas por la inversión de dichas sumas, que correspondan a terceros distintos a las Fuerzas Armadas y Carabineros de Chile y finalmente si estas últimas deben ser reconocidas como utilidades tributables.
+I.-  ANTECEDENTES:
+
+Señala que, en la fiscalización de procesos  de  reorganización  llevados  a
+cabo por algunas empresas, se ha detectado que, en unos procesos de  fusión,
+las sociedades  que  resultaron  absorbidas  mantenían  a  la  fecha  de  su
+disolución, un sobreprecio  en  la  colocación  de  acciones  de  su  propia
+emisión. Agrega que, en tales casos, las sociedades  absorbentes  no  fueron
+las que suscribieron las  acciones  que  en  su  momento  dieron  origen  al
+señalado sobreprecio, por lo que no  fueron  éstas  las  que  pagaron  dicho
+concepto.
+
+Agrega a continuación, que  el  sobreprecio  que  mantenían  las  sociedades
+absorbidas fue generado entre los años 1996 y 2004, a través de  la  emisión
+de acciones de pago, las que fueron suscritas y pagadas por  sociedades  que
+a la fecha de la fusión no tenían participación  alguna  en  las  sociedades
+absorbidas por haber enajenado las acciones que  poseían,  lo  que  confirma
+que las sociedades absorbentes no fueron quienes pagaron dicho mayor valor.
+
+Durante el año comercial 2014,  indica,  las  sociedades  que  mantenían  el
+sobreprecio  en  colocación  de  acciones  de  su  propia   emisión   fueron
+absorbidas por sus sociedades  controladoras  a  través  de  un  proceso  de
+fusión por incorporación, no  quedando  constancia  en  registro  tributario
+alguno del  sobreprecio  que  mantenían  las  sociedades  absorbidas  en  su
+patrimonio.
+
+De acuerdo con lo que señala, y atendiendo al  criterio  adoptado  por  este
+Servicio mediante Oficio N° 2.897 del 16.11.2015, esa Unidad  consideró  que
+no se configura el hecho impositivo establecido en el N° 5 del  artículo  17
+de la  Ley  sobre  Impuesto  a  la  Renta  (LIR),  para  que  se  genere  la
+tributación del sobreprecio tanto a nivel de la sociedad que mantenía  dicho
+sobreprecio  como  sus  accionistas,  por  cuanto  no  se   materializó   su
+distribución.
+
+Sin perjuicio de  lo  anterior,  hace  notar  una  distinción  respecto  del
+pronunciamiento de este Servicio, en relación con el caso a que  se  refiere
+su actual consulta. A diferencia del caso analizado en dicho oficio,  señala
+que las sociedades absorbentes actualmente fiscalizadas  no  incurrieron  en
+el desembolso que originó el  sobreprecio  que  reciben  con  motivo  de  la
+fusión por incorporación, por lo que, en su opinión,  no  puede  calificarse
+su percepción  como  una  restitución  del  mayor  costo  de  inversión  que
+tuvieron al momento del aporte, no siendo así aplicable el  criterio  fijado
+en el oficio ya comentado.
+
+En  base  a  lo  anterior,  agrega,  es  que  podría  interpretarse  que  el
+sobreprecio traspasado a las sociedades absorbentes, y que ha sido  rebajado
+en virtud de la participación que ostentaban en las  sociedades  absorbidas,
+podría  calificarse  como  un  incremento  patrimonial  para   la   sociedad
+absorbente, conforme a la definición  general  establecida  en  el  N°1  del
+artículo 2 de la  LIR,  atendido  al  hecho  que  no  fueron  ellas  quienes
+incurrieron en dicho desembolso.
+
+Finalmente formula dos hipótesis en relación con el  tratamiento  tributario
+del sobreprecio en cuestión:
+
+1) El  criterio  aplicado  por  las  sociedades  absorbentes  se  encuentra
+   correcto, no siendo posible aplicar tributación alguna a  la  parte  del
+   sobreprecio que ha sido rebajado  por  entenderse  que  al  existir  una
+   inversión previa en las sociedades absorbidas corresponde efectuar tales
+   ajustes, entendiéndose por tanto que sería aplicable el criterio  fijado
+   por este Servicio mediante Oficio N°2897, del 16 de noviembre  de  2015,
+   independiente si la sociedad absorbente pagó o  no  el  sobreprecio  que
+   recibe en el proceso de fusión.
+
+2) O, por el contrario, al no haber sido las sociedades absorbentes quienes
+   suscribieron y pagaron las acciones que dieron  origen  al  sobreprecio,
+   aquella parte que se ha rebajado objeto de la compensación efectuada por
+   existir de manera previa una inversión de la absorbente en la absorbida,
+   y que se encontraba pendiente de  tributación  al  calificarse  como  un
+   ingreso no renta conforme al N°5 del artículo 17 de la LIR,  corresponde
+   ser tratada como un incremento patrimonial de acuerdo a lo  indicado  en
+   el N°1 del artículo 2 de la LIR al no corresponder a una restitución del
+   mayor costo de inversión.
 
 II.- ANALISIS:
 
-Sobre el particular cabe señalar en primer término, que la Ley N° 18.660, publicada en el Diario Oficial de 20.10.1987, introdujo una serie de modificaciones a la legislación sobre valores y seguros contenida en el Decreto con Fuerza de Ley N° 251 de 1931, texto legal este último que establece normas sobre el funcionamiento de las Compañías de Seguros, así como a otros textos legales relacionados con la actividad de seguros.
+Sobre  el  particular  cabe  señalar  que  el  Servicio  a  través   de   su
+jurisprudencia[1] emitida  en  torno  a  la  aplicación  de  la  disposición
+contenida en el artículo  17  N°  5  de  la  LIR,  relativa  al  tratamiento
+tributario del sobreprecio, reajuste o mayor valor obtenido  por  sociedades
+anónimas en la colocación de acciones de su propia emisión, en la  situación
+a la que se refiere en su consulta, esto es, en el caso en que  la  sociedad
+anónima colocadora de dichas acciones desaparezca como  consecuencia  de  un
+proceso de fusión por incorporación, ha expresado: “….. que el  artículo  17
+N°  5  de  la  LIR,  califica  entre  otras  partidas,  como   ingresos   no
+constitutivos de renta, al sobreprecio, reajuste o mayor valor obtenido  por
+sociedades anónimas en la colocación  de  acciones  de  su  propia  emisión,
+tipificación  que  es  condicional  puesto  que  la  misma  norma  legal  en
+referencia establece que ello es  así  mientras  dicho  sobreprecio  no  sea
+distribuido por la sociedad. Como se puede apreciar,  la  condición  que  la
+norma  en  comento  establece,  para  que  el   referido   sobreprecio   sea
+considerado ingreso no constitutivo de renta, es que la sociedad,  a  través
+de los órganos  de  administración  que  la  ley  establece  no  acuerde  su
+distribución.
 
-Ahora bien, el artículo Séptimo de la referida Ley N° 18.660 de 1987, establece lo siguiente:
+Ahora bien, de acuerdo con lo señalado se desprende, a contrario sensu,  que
+si el referido ingreso  es  repartido  a  los  accionistas  de  la  sociedad
+anónima constituye renta para los fines impositivos. La  norma  en  cuestión
+sólo coloca como condición que dicho  sobreprecio  en  el  momento  que  sea
+distribuido constituye renta, independiente de cómo la  empresa  efectúe  su
+distribución.
 
-&ldquo;ARTICULO SEPTIMO.- Las entidades de carácter mutual que con anterioridad a la entrada en vigencia de esta ley, estuvieren autorizadas para asegurar, podrán continuar en sus negocios y se sujetarán a las normas de su propia legislación y a las del decreto con fuerza de ley N° 251, de 1931, en todo lo que no fuere incompatible con aquella, en la medida en que sólo aseguren a las personas señaladas en el artículo 1° del decreto ley N° 1092, de 1975.
+Por otra parte, en el  caso  de  la  disolución  de  una  sociedad  anónima,
+producto de la adquisición del  100%  de  sus  acciones  por  parte  de  una
+agencia o  sucursal  en  Chile  de  una  sociedad  extranjera,  en  orden  a
+determinar si con motivo de dicha  disolución  se  entiende  distribuido  el
+sobreprecio, cabe consignar  que  en  su  jurisprudencia  este  Servicio  ha
+señalado que en tal situación,  “la  sociedad  titular  del  sobreprecio  se
+disuelve por el solo ministerio de  la  ley  al  reunirse  el  100%  de  sus
+acciones en una sola mano, lo cual no puede asimilarse  a  una  distribución
+de utilidades, porque en este particular caso de disolución, de  acuerdo  al
+inciso tercero del artículo 110  de  la  Ley  N°  18.046,  sobre  Sociedades
+Anónimas, no es necesaria  la  liquidación  de  la  sociedad,  y  siendo  un
+requisito de la esencia de la distribución de utilidades el que se  produzca
+un flujo de recursos de la sociedad hacia  los  accionista,  no  puede  sino
+colegirse que en la especie no se cumple en  definitivas  con  la  condición
+establecida en la disposición en comento.”
 
-En el evento de que estas entidades además aseguren a base de prima a terceros distintos de los señalados en el inciso anterior, se regirán, respecto de este tipo de seguros, exclusivamente por las disposiciones del decreto con fuerza de ley N° 251, de 1931, y sus modificaciones, y, en tal evento, deberán constituir contabilidades totalmente separadas para operar con cada tipo de asegurados, sin perder su naturaleza jurídica de corporación mutualista. Para estos efectos, tanto las reservas técnicas respecto de asegurados no institucionales, como el patrimonio de riesgo que deben tener para asegurar a éstos, deberán estar respaldados e acuerdo a lo dispuesto en dicha ley. El patrimonio de riesgo se calculará en base a dichas reservas y al total de las otras deudas con terceros y no podrá ser inferior al patrimonio mínimo. Las reservas técnicas respecto de asegurados institucionales, así como el resto de todo el patrimonio, deberán estar invertido de acuerdo a los artículos 4° y 5°, respectivamente, del decreto ley 1.092, de 1975.
+Considerando que el sobreprecio en análisis fue  en  su  oportunidad  pagado
+por la propia agencia a la SAC respectiva y que se lleva a cabo  una  fusión
+impropia entre ésta y la  SAC,  se  estima  que  el  tratamiento  tributario
+dispuesto en el artículo 17 N° 5 de la LIR para tal  sobreprecio  queda  sin
+efecto  luego  de  la  referida  fusión,  atendido  que  la  agencia  deberá
+determinar el resultado que se produce en dicha operación,  comparando  para
+ello el valor efectivo de la inversión  en  las  acciones  de  la  SAC  (que
+incluye el sobreprecio pagado) con el valor del  capital  propio  tributario
+(el cual también incluye el referido sobreprecio al estar formando parte  de
+los activos) de esta última a la fecha de fusión.
 
-Estas entidades serán fiscalizadas por la Superintendencia de Valores y Seguros.&rdquo;
+De esta manera, el sobreprecio pagado por la agencia  constituye  para  ésta
+un mayor costo de su inversión con motivo del aporte del mismo, el cual,  al
+momento de ser recibido dentro de los  activos  que  se  transfieren  en  la
+fusión, produce el efecto de disminuir el valor de tal  inversión,  sin  que
+se produzca un incremento de patrimonio para  la  agencia  por  tal  motivo,
+pudiendo inclusive producirse un goodwill, en  caso  que  el  valor  de  los
+activos que en definitiva reciba, resulte menor al  valor  de  la  inversión
+realizada.
 
-Por su parte el Decreto Ley N° 1.092 de 1975, establece en su artículo 3°, lo siguiente:
+Considerando lo anterior,  la  situación  tributaria  de  la  matriz  de  la
+agencia en Chile que efectúa retiros de la misma, se debe  determinar  a  la
+luz de las reglas generales contenidas en el artículo 14 de la LIR,  vigente
+a la fecha de efectuarse  dicho  retiro,  para  efectos  de  establecer  las
+rentas afectas o el exceso de retiros a que  alude,  sin  considerar  en  la
+situación específica en consulta que exista un hecho gravado conforme  a  lo
+dispuesto en el N° 5, del artículo 17  de  la  LIR,  puesto  que  no  existe
+incremento de patrimonio por tal motivo.”
 
-&ldquo;Artículo 3°. - Las primas de seguros que perciban las referidas entidades por los seguros de que tratan los artículos anteriores, estarán exentas del impuesto establecido en el Título II del decreto ley N° 825, de 1974.
+Al respecto, solo cabe reiterar lo expresado, puesto que  si  bien,  y  como
+resalta en su presentación,  en  el  caso  en  consulta  no  es  la  empresa
+absorbente la que pagó  el  sobreprecio  de  las  acciones  de  la  sociedad
+absorbida,  ello  en  nada  invalida  lo  expresado  en  la   jurisprudencia
+señalada,  en  orden  a  que  la  disolución  de  la  sociedad  titular  del
+sobreprecio, al reunirse el 100% de sus  acciones  en  manos  de  una  misma
+persona, no puede asimilarse a una  distribución  de  utilidades.  De  igual
+forma que,  siendo  un  requisito  de  la  esencia  de  la  distribución  de
+utilidades el que se produzca un flujo de recursos  de  la  sociedad  a  los
+accionistas, no puede sino colegirse que en tal circunstancia no  se  cumple
+en definitiva con la condición establecida en el N° 5 del artículo 17 de  la
+LIR.
 
-Estas Mutualidades, sin perjuicio de las normas especiales que las rigen, se considerarán para todos los efectos dentro de las personas señaladas en el artículo 40 del decreto ley N° 824, de 1974, y gozarán de los privilegios y exenciones establecidos en la Ley de Cooperativas.&rdquo;
+Finalmente, y tal  como  deja  entrever  la  jurisprudencia  precedentemente
+transcrita, la incidencia tributaria que eventualmente pudiere  provocar  el
+sobreprecio en cuestión, en el caso de la disolución de la sociedad  anónima
+emisora de las acciones que produjeron  el  sobreprecio  en  su  colocación,
+ello producto de la adquisición del 100%  de  sus  acciones  por  una  misma
+persona,  va  a  estar  definida  por  la  diferencia  que  resulte  de   la
+comparación del valor del capital propio de la sociedad absorbida (del  cual
+forma parte el sobreprecio en  cuestión)  versus  el  monto  pagado  por  la
+sociedad absorbente  por  el  100%  de  las  acciones  de  la  sociedad  que
+desaparece,   cuyo   tratamiento   tributario   se   encuentra   actualmente
+establecido en los artículos 15 y 31 N° 9, de la LIR.[2]
 
-Conforme con las normas precedentemente transcritas, aparece claro que antes de la entrada en vigencia de la Ley N° 18.660, las entidades de carácter mutual, como a la que se refiere su consulta, en el ámbito tributario se encontraban sujetas exclusivamente a lo que respecto de ellas disponían el Decreto con Fuerza de Ley N° 251, de 1931 y el Decreto Ley N° 1.092 de 1975.
+III.- CONCLUSION:
 
-En conformidad con dichos textos legales, específicamente con lo dispuesto en el artículo 3° del Decreto Ley N° 1.092, tales entidades, en lo que dice relación con la tributación establecida en la LIR, se consideran dentro de las personas exentas del Impuesto de Primera Categoría de acuerdo con lo dispuesto en el artículo 40 de dicho texto legal, vale decir, dentro de las instituciones exentas del impuesto de Primera Categoría en virtud de una ley especial, sin que dicha exención estuviere condicionada a que su actividad aseguradora se realizara sólo respecto de las personas señaladas en el artículo 1° del Decreto Ley N° 1.092, de 1975.
+El criterio fijado por este Servicio mediante el Oficio N° 2.897, del 16  de
+noviembre de 2015, en orden a que la disolución  de  una  sociedad  anónima,
+que obtuvo un sobreprecio en la colocación de acciones  de  propia  emisión,
+al reunirse el 100% de sus acciones en manos de una misma persona, no  puede
+asimilarse a una distribución de utilidades para los fines de la  aplicación
+de los dispuesto por el artículo 17 N° 5 de la LIR, se encuentra  plenamente
+vigente y resulta aplicable tanto en el caso en que haya  sido  la  sociedad
+absorbente la que pagó el sobreprecio en cuestión como en el caso en que  no
+haya sido esta la que pagó dicho sobreprecio.
 
-Ahora bien, a partir de la entrada en vigencia de la Ley N° 18.660, vale decir a partir del primer día del segundo mes siguiente al de su publicación , la exención señalada sólo tiene aplicación respecto de las rentas que provengan de primas de seguros correspondientes a las personas señaladas en el artículo 1° del decreto ley N° 1092, de 1975. Dicho de otro modo, la exención no tiene aplicación respecto de las rentas que correspondan a primas de seguros a terceros distintos de las personas señaladas en el artículo 1° del decreto ley N° 1092, de 1975. Todo lo anterior de acuerdo a lo dispuesto en la Ley N° 18.660, texto legal que sustituyó el texto del Decreto Ley N° 1.092, de 1975, por el que se indica en su artículo octavo, manteniendo la exención en iguales términos a los que contemplaba el anterior texto de dicho decreto ley, condicionándolo eso sí, a través de su artículo séptimo, sólo a las rentas correspondientes a los contratos de seguros de las personas señaladas en el artículo 1° del Decreto Ley N° 1.092, de 1975.
+Dicho sobreprecio, como parte integrante del capital propio de  la  sociedad
+absorbida al momento de la fusión, queda sujeto  al  tratamiento  tributario
+que corresponda conforme con lo que al efecto establecen los artículos 15  y
+31 N° 9 de la LIR.
 
-Lo anterior de acuerdo con lo dispuesto en el inciso segundo de dicho artículo séptimo, conforme con el cual, en el evento de que estas entidades además aseguren a base de prima a terceros distintos de los señalados en el inciso anterior, se regirán, respecto de este tipo de seguros, exclusivamente por las disposiciones del decreto con fuerza de ley N° 251, de 1931, y sus modificaciones &ndash;texto legal que no contempla ninguna liberación tributaria para estas entidades mutualistas- debiendo, en tal evento, constituir contabilidades totalmente separadas para operar con cada tipo de asegurados, sin perder su naturaleza jurídica de corporación mutualista.
 
-En consecuencia, de acuerdo con lo dispuesto en el artículo séptimo de la Ley N° 18.660, las rentas provenientes de primas de seguros a terceros distintos de las personas señaladas en el artículo 1° del decreto ley N° 1092, de 1975, se encuentran afectas a los impuestos generales de la LIR.
 
-De igual forma procede aclarar, que el inciso final del artículo 40 de la LIR, limita la exención del Impuesto de Primera Categoría que establecen sus números 1 y 2, al disponer que &ldquo;las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20.&rdquo; De acuerdo con ello, las utilidades generadas como consecuencia de la inversión de los dineros provenientes de las primas de seguros, tanto aquellas que provengan de la inversión de las primas de seguros correspondientes a las personas señaladas en el artículo 1° del Decreto Ley N° 1.092, de 1975, como respecto de aquellas que correspondan a terceros distintos a las Fuerzas Armadas y Carabineros de Chile, no se encuentran exentas del Impuesto de Primera Categoría, debiendo ser reconocidas como utilidades tributables, ello en conformidad a lo dispuesto por el inciso final del artículo 40 transcrito precedentemente.
 
-Finalmente y en relación con la obligación de la mutualidad de presentar la declaración anual de impuestos a la renta establecida en el artículo 65 de la LIR, cabe expresar que conforme con las instrucciones y jurisprudencia del Servicio sobre la materia , los contribuyentes de la Primera Categoría, calidad que reviste la mutualidad en cuestión al clasificarse como un contribuyente del artículo 20 N° 3 de la misma ley, están sometidos a todas las normas inherentes a este tipo de contribuyentes, entre cuyas obligaciones se encuentra la de presentar anualmente la referida declaración anual de impuestos a la renta, aunque en definitiva no tributen por efecto de alguna franquicia o exención especial que los beneficie.
 
-III.- CONCLUSIÓN:
 
-De acuerdo con lo dispuesto en el artículo 40 N° 2 de la LIR en concordancia con lo establecido en el inciso segundo del artículo tercero del Decreto Ley N° 1.092, de 1975, las entidades de carácter mutual se encuentran exentas del impuesto de Primera Categoría respecto de las rentas correspondientes a las primas de seguros contratados con las personas señaladas en el artículo 1° del referido Decreto Ley N° 1.092, de 1975.
 
-Respecto de las rentas provenientes o correspondientes a primas de seguros a terceros, distintos de las personas señaladas en el artículo 1° del Decreto Ley N° 1.092, de 1975, se encuentran afectas a los impuestos generales de la LIR.
+                                       FERNANDO BARRAZA LUENGO
 
-Las utilidades generadas como consecuencia de la inversión de los dineros provenientes de las primas de seguros, tanto de aquellas que provengan de primas de seguros correspondientes a las personas señaladas en el artículo 1° del Decreto Ley N° 1.092, de 1975, como respecto de aquellas que correspondan a terceros distintos a las Fuerzas Armadas y Carabineros de Chile, se encuentran afectas al Impuesto de Primera Categoría, ello en conformidad a lo dispuesto por el inciso final del artículo 40 de la LIR.
+       DIRECTOR
 
-La mutualidad a la que se refiere su presentación, se encuentra obligada a presentar anualmente la declaración anual de impuestos a la renta de Primera Categoría establecida en el artículo 65 de la LIR, aunque en definitiva no tribute con dicho impuesto por efecto de alguna franquicia o exención especial que la beneficie.
 
-FERNANDO BARRAZA LUENGO
 
-DIRECTOR
 
-Oficio N° 1638, de 07.08.2018
 
-Subdirección Normativa
+                      Oficio Res. N° 26, de 09.08.2018
+                           Subdirección Normativa
+                       Dpto. de Normas Internacionales
 
-Dpto. de Impuestos Directos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------
+[1] Oficios N°s 3.566 de 30.12.1998, y 2.897 de 16.11.2015
+[2] Instrucciones en Circular N° 13 de 2014.

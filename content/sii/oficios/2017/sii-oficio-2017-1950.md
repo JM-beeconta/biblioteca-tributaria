@@ -4,76 +4,49 @@
 - Tipo: oficio
 - Número: 1950
 - Año: 2017
-- Fecha: 2017-02-03
+- Fecha: 2017-02-08
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja258.htm
-- Hash SHA-256: 9a45ac326db137bc31b1bf7e95b52b682557cce6f67196ffd91e9f3f310c6d65
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja259.doc
+- Hash SHA-256: 8e82330eea3afc2dfa5b172c51a2d38acd97ba222ab0145eb8797632740a9283
 
 ## Resumen
 
-a259.htm' rel='modal'>Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 40, N° 4 &ndash; Ley N° 19.638, Art. 17&ndash; Circular N° 45, de 2012 &ndash; . (Ord. Nº 259, de 03-02-2017) | Word Solicita que tribute el &ldquo;Clero&rdquo; &ndash; Tributación de Iglesias, confesiones y entidades religiosas &ndash; Instrucciones impartidas por el Servicio. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 13, N°17, Art. 42, Art. 46&ndash; Código del Trabajo, art. 178. (Ord. Nº 258, de 03-02-2017) | Word Re…
+(Ord. Nº 287, de 08-02-2017) | Word Titularidad de los beneficios del Convenio para Evitar la Doble Imposición entre Chile y el Reino Unido. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 40, N° 4 &ndash; Ley N° 19.638, Art. 17&ndash; Circular N° 45, de 2012 &ndash; . (Ord. Nº 259, de 03-02-2017) | Word Solicita que tribute el &ldquo;Clero&rdquo; &ndash; Tributación de Iglesias, confesiones y entidades religiosas &ndash; Instrucciones impartidas por el Servicio. Renta &ndash; Actual Ley sobre Impuesto a…
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"42 N"}
-- {"type":"articulo","law":"LIR","article":"17"}
-- {"type":"articulo","law":"LIR","article":"46"}
-- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"circular","number":45,"year":2012}
+- {"type":"oficio","number":1950,"year":2016}
+- {"type":"articulo","law":"LIR","article":"40 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 13, N°17, ART. 42, ART. 46– CÓDIGO DEL TRABAJO, ART. 178. (Ord. Nº 258, de 03-02-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 40, N ° 4 – LEY N° 19.638, ART. 17– CIRCULAR N° 45, DE 2012 – OFICIO N° 1950, DE 2016. (ORD. N° 259, DE 03.02.2017)
 
-RECLAMO POR DESCUENTO DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA SOBRE REMUNERACIONES PAGADAS EN FORMA RETROACTIVA.
-
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, remitida por la Contraloría General de la República, mediante la cual se impugna descuento del Impuesto Único de Segunda Categoría sobre las rentas que se indican.
-
-I.- ANTECEDENTES.
-
-La contribuyente, ex asistente de la educación y afecta al Código del Trabajo, presentó impugnación del descuento del Impuesto Único de Segunda Categoría efectuado por el Departamento de Educación Municipal XXXX, por el pago retroactivo de las remuneraciones que se le adeudaban entre diciembre de 2014 y junio de 2015, agregando que además se le habría descontado dicho impuesto del monto fijado en su finiquito.
-
-En relación con lo anterior, mediante los dictámenes N°s. 14.958 y 55.404, ambos de 2015, la Contraloría General de la República concluyó que la Municipalidad XXXX debía pagar a la recurrente las remuneraciones adeudadas por el tiempo durante el cual permaneció indebidamente separada de su cargo por gozar del fuero establecido en el artículo 25 de la Ley N° 19.296.
-
-En ese contexto, dicha entidad edilicia, a través del decreto de pago N°xxxx, dispuso el pago de los emolumentos adeudados a la recurrente, ascendentes a la suma de $xxxxxxx.-, habiéndose efectuado previamente los descuentos legales, entre los que se incluye la suma de $ xxxxx.- por concepto de Impuesto Único de Segunda Categoría.
-
-Asimismo, por decreto de pago N°xxxx del mismo año, se liquidó el finiquito de la interesada por la cantidad de $xxxxxxx.-, sin que existan antecedentes de que se hubiera efectuado algún descuento respecto de dicho monto.
-
-Conforme a lo expuesto, en relación con la aplicación del impuesto que afecta a las remuneraciones de la contribuyente y de acuerdo con lo previsto en el artículo 14 de la Ley N°19.880, que Establece Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la administración del Estado, la Contraloría General de la República remitió la presentación de la peticionaria a este Servicio, por corresponder a una materia de su competencia.
-
-II.- ANÁLISIS.
-
-En primer término, debe tenerse presente que la recurrente no acompañó el contrato de trabajo, liquidaciones de sueldos, ni finiquitos, razón por la cual, el análisis y conclusiones que se presentan sólo se sustentan en los antecedentes descritos en su presentación.
-
-Ahora bien, de conformidad a lo dispuesto por el artículo 42 N° 1, de la Ley sobre Impuesto a la Renta (LIR), las rentas consistentes en sueldos, entre otras remuneraciones, se encuentran afectas al Impuesto Único de Segunda Categoría establecido en el N° 1, del artículo 43 de dicha ley.
-
-Por su parte, el inciso primero del artículo 46 del citado texto legal establece que tratándose de remuneraciones del N° 1 del artículo 42, pagadas íntegramente con retraso se ubicarán en el o los períodos en que se devengaron y el impuesto se liquidará de acuerdo con las normas vigentes en esos períodos.
-
-En consecuencia, el Impuesto Único de Segunda Categoría que afecta a las remuneraciones correspondientes a los meses de diciembre de 2014 a junio de 2015, pagadas íntegramente con retraso, debe calcularse aplicando la tabla de cada uno de los meses indicados, y el total del impuesto resultante retenerse al momento de hacer el pago de tales rentas y enterarse en arcas fiscales dentro de los doce primeros días del mes siguientes a aquel en que se efectuó la retención, de conformidad a lo dispuesto por los artículos 74 N° 1 y 78 de la LIR.
-
-En relación a la suma pagada a título de indemnización, cabe señalar que dichas cantidades, en caso de corresponder a una indemnización por término de funciones o de contratos de trabajo establecidas por ley, o pactadas en contratos colectivos de trabajo o en convenios colectivos que complementen, modifiquen o reemplacen estipulaciones de contratos colectivos, no constituyen renta para ningún efecto tributario, según lo prescrito en el artículo 178, del Código del Trabajo, y en consecuencia, no se encuentran afectas al Impuesto Único de Segunda Categoría ni a ningún otro tributo.
-
-Sin perjuicio de lo anterior, en caso de corresponder a otro tipo de indemnizaciones, como por ejemplo, aquellas otorgadas en forma voluntaria, podrán ser calificadas como ingreso no renta en los términos y límites que establece el N° 13, del artículo 17 de la LIR. Por el contrario, en el caso que estas indemnizaciones excedan dichos límites, quedarán afectas al impuesto Único de Segunda Categoría, entendiéndose devengadas en los términos del inciso cuarto del artículo 46 de la LIR.
-
-III.- CONCLUSIÓN.
-
-Considerando que las consultas que se formulan en la presentación obedecen a cuestiones de hecho, las cuales deben ser verificadas en la instancia de fiscalización que corresponda, se estima que este Servicio no puede pronunciarse a priori sobre ellas.
-
-No obstante lo anterior, se puede precisar que para determinar el Impuesto Único de Segunda Categoría que afecta a las remuneraciones pagadas íntegramente con retraso, las referidas rentas se deberán ubicar en el período de su devengo y liquidarse de acuerdo con las normas vigentes en esos períodos. Una vez determinado el referido tributo, se deberá enterar en arcas fiscales dentro de los primeros 12 días del mes siguiente a aquel en que se produjo su retención.
-
-En el caso de indemnizaciones establecidas por ley o establecidas en contratos colectivos o en convenios colectivos que modifiquen dichos contratos, constituirán ingresos no renta según lo prescrito por artículo 178 del Código del Trabajo, y en consecuencia, no se encuentran afectas al Impuesto Único de Segunda Categoría.
-
-Distinto es el caso de las indemnizaciones voluntarias, las cuales para ser calificadas como ingresos no renta deberán cumplir con los requisitos y límites que establece el N° 13, del artículo 17 de la LIR. En caso contrario, tales indemnizaciones se encontrarán afectas con el Impuesto Único de Segunda Categoría, con la consiguiente obligación del pagador de tales rentas de retener este tributo.
-
-Finalmente, se hace presente que de producirse una retención indebida o en exceso[1] por parte del pagador de la renta, el trabajador podrá solicitar la devolución de dichas sumas con sujeción a lo establecido en el artículo 126 del Código Tributario, verificando previamente que se den los supuestos básicos que exige dicha norma. Para estos efectos, se deberá presentar el formulario 2117, con los antecedentes que respaldan la petición, como por ejemplo, el contrato de trabajo, liquidaciones de sueldos de los períodos involucrados, finiquitos de trabajo, entre otros antecedentes que resulten pertinentes.
+Solicita que tribute el “ C lero” – Tributación de Iglesias, confesiones y entidades religiosas – Instrucciones impartidas por el Servicio.
+I ANTECEDENTES
+De acuerdo a su presentación, y tras enumerar los bienes que conformarían el patrimonio de lo que denomina el “Clero” y algunas de las actividades que desarrolla, señala que no tributa de ninguna forma (IVA, contribuciones ni aranceles aduaneros).
+Por todo eso, sugiere que esta institución tribute.
+II ANÁLISIS
+Como primera cuestión, es importante señalar que, de su presentación , no es claro si el tratamiento tributario preferencial que refiere dice relación con alguna iglesia en particular, o bien se extiende a todas.
+Por otra parte, y sin perjuicio de lo expuesto a continuación, también se debe tener presente que, como este Servicio ha señalado reiteradamente, toda persona, natural o jurídica, reviste la calidad de contribuyente en la medida que posea bienes o realice actividades susceptibles de causar impuestos. De este modo, salvo excepciones taxativamente contempladas en la propia ley, no se atiende a la naturaleza o finalidad de las personas para gravarlas con impuesto; siendo indiferente, si persiguen o no fines de lucro .
+Dicho lo anterior, y a propósito de lo dispuesto en el artículo 17 de la Ley N° 19.638, que establece normas sobre la constitución jurídica de las iglesias y organizaciones religiosas , este Servicio impartió instrucciones sobre el tratamiento tributario de dichas organizaciones mediante la Circular N° 45 de 2012, que puede consultar en nuestra página web, www.sii.cl .
+A fin de no reiterar en detalle el contenido de la referida Circular, pero recogiendo en lo fundamental la inquietud manifestada en su presentación, es importante señalar lo siguiente:
+En cuanto al Impuesto a la Renta, efectivamente y como principio general, las iglesias, confesiones y demás entidades religiosas, no se encuentra n afectas al Impuesto a la Renta , dada la naturaleza propia de las actividades que envuelve el culto religioso.
+Con todo, se hizo presente que, si llevan a cabo actividades comerciales o empresariales, o poseen bienes susceptibles de producir rentas gravadas con el mencionado tributo, se verán afectadas por los tributos y demás obligaciones que correspondan de conformidad a la ley.
+Por otra parte, t ratándose de s ociedades, asociaciones, corporaciones fundaciones y otras organizaciones creadas por las iglesias y entidades relig iosas reconocidas por el Estado, en la medida que lleven a cabo actividades gravadas o posean bienes susceptibles de generar rentas gravadas, deben cumplir con las obligaciones tributarias respectivas que afectan a la generalidad de los contribuyentes.
+Finalmente, s i bien el artículo 40 N° 4 de la Ley sobre Impuesto a la Renta permite eximir del Impuesto de Primera Categoría a las instituciones de beneficencia que determine el Presidente de la República , los requisitos de procedencia son exigentes y s olo pueden impetrar lo aquellas instituciones que no persigan fines de lucro, y que de acuerdo a sus estatutos tengan por objeto principal proporcionar ayuda material o de otra índole a persona de escasos recursos económicos.
+En cuanto al Impuesto al Valor Agregado, la Circular en comento precisa que l as Iglesias y demás entidades religiosas, por regla general, no son contribuyentes de IVA – dada su naturaleza – pero ello no impide que puedan ser calificada s como sujetos de IVA por llevar a cabo en forma habitual ventas de bienes o prestan servicios gravados en el Decreto Ley N° 825, de 1974, afectos al IVA de conformidad con las reglas generales.
+Asimismo, la Circular N° 45 de 2012 hace presente que , conforme al artículo 12, Letra B, N° 7, del Decreto Ley N° 825 de 1974, están exentas de IVA las importaciones que constituyan donaciones y socorros calificados como tales a juicio exclusivo del Servicio Nacional de Aduanas, destinadas a corporaciones y fundaciones y a las Universidades, correspondiendo al donatario acompañar los antecedentes que justifiquen la exención .
+Respecto de las contribuciones de bienes raíces, el Cuadro Anexo de la Ley N° 17.235, establece en su Párrafo I, Letra B), N° 5, una exención del 100% de Impuesto Territorial respecto de los templos y sus dependencias destinados al servicio de un culto, como asimismo a las habitaciones anexas a tales templos ocupadas por los funcionarios del culto y siempre que no produzcan renta.
+La Circular N° 45 de 2012 instruye qué debe entenderse por “templo” y “dependencias”, para los efectos de exención, así como otras cuestiones relativas al alcance de la exención.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente, no parece correcto sostener que las organizaciones religiosas no tributen de forma alguna.
+Por otra parte, si bien pueden tener un tratamiento tributario preferencial, lo cierto es que en gran medida dicho tratamiento deriva de las actividades propias de culto – que por su naturaleza no están afectas a impuesto – o por el cumplimiento de los requisitos legales – establecidos de modo general – para acceder a ciertos beneficios tributarios.
 
 FERNANDO BARRAZA LUENGO
-
 DIRECTOR
 
-Oficio N° 258, de 03.02.2017
-
+Oficio N° 259, de 03.02.2017
 Subdirección Normativa
-
-Dpto. de Impuestos Directos
-
-[1] Oficios N°s. 847/2016; 914/2015; 3210/2012; 2542/2012 y 1945/2012.
+Dpto. de Técnica Tributaria
