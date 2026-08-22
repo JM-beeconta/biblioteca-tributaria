@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { loadDocuments } from '../lib/store.mjs';
+import { citationCode } from '../site/assets/citation.mjs';
 
 const ROOT = process.cwd();
 const DIST = path.join(ROOT, 'dist');
@@ -23,7 +24,9 @@ function escapeHtml(value = '') {
 }
 
 function oneLineSummary(value = '', max = 190) {
-  const clean = String(value).replace(/^#+\s*/gm, '').replace(/\s+/g, ' ').trim();
+  // Saneamiento defensivo: algunos resúmenes ya guardados (antes del fix en extractAnchors)
+  // arrancan con la cola de una etiqueta HTML cortada, p.ej. `9"> Texto real...`.
+  const clean = String(value).replace(/^[a-zA-Z0-9_-]{0,20}">\s*/, '').replace(/^#+\s*/gm, '').replace(/\s+/g, ' ').trim();
   if (!clean) return 'Documento tributario disponible para consulta.';
   if (clean.length <= max) return clean;
   const firstSentence = clean.match(/^(.{55,190}?[.!?])(?:\s|$)/)?.[1];
@@ -96,7 +99,8 @@ function documentHtml(doc, body) {
   const version = doc.version_date ? `<span class="document-chip">Versión ${escapeHtml(doc.version_date)}</span>` : '';
   const identity = [doc.type, doc.number ? `N° ${doc.number}` : '', doc.year].filter(Boolean).join(' · ');
 
-  return `<!doctype html>\n<html lang="es">\n<head>\n  <meta charset="utf-8" />\n  <meta name="viewport" content="width=device-width, initial-scale=1" />\n  <meta name="robots" content="index,follow" />\n  <title>${escapeHtml(doc.title)} · Biblioteca Tributaria Beeconta</title>\n  <link rel="stylesheet" href="../assets/document.css" />\n</head>\n<body>\n  <article class="document-shell">\n    <div class="document-topline">\n      <div class="document-brand"><span class="document-brand-mark"></span>Beeconta · Biblioteca Tributaria</div>\n      <a class="document-source-link" href="${escapeHtml(doc.source_url)}" target="_blank" rel="noopener">Ver fuente oficial ↗</a>\n    </div>\n    <header class="document-hero">\n      <p class="document-kicker">${escapeHtml(identity || 'Documento tributario')}</p>\n      <h1 class="document-title">${escapeHtml(doc.title)}</h1>\n      <p class="document-summary">${escapeHtml(summary)}</p>\n      <div class="document-meta"><span class="document-chip ${sourceClass}">${escapeHtml(doc.source)}</span>${date ? `<span class="document-chip">${escapeHtml(date)}</span>` : ''}${version}${categories}</div>\n    </header>\n    ${refs ? `<section class="document-references"><h2>Referencias detectadas</h2><div class="reference-list">${refs}</div></section>` : ''}\n    <section class="document-body"><div class="document-body-label">Texto del documento</div>${renderLegalBody(body)}</section>\n    <footer class="document-footer"><strong>Fuente de respaldo:</strong> ${escapeHtml(doc.source)}. Esta vista facilita lectura y búsqueda; ante cualquier diferencia, prevalece el documento publicado en la fuente oficial.</footer>\n  </article>\n</body>\n</html>`;
+  const stamp = citationCode(doc);
+  return `<!doctype html>\n<html lang="es">\n<head>\n  <meta charset="utf-8" />\n  <meta name="viewport" content="width=device-width, initial-scale=1" />\n  <meta name="robots" content="index,follow" />\n  <title>${escapeHtml(doc.title)} · Biblioteca Tributaria Beeconta</title>\n  <link rel="preconnect" href="https://fonts.googleapis.com" />\n  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700;800&family=IBM+Plex+Serif:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" />\n  <link rel="stylesheet" href="../assets/document.css" />\n</head>\n<body>\n  <article class="document-shell">\n    <div class="document-topline">\n      <div class="document-brand"><span class="document-brand-mark"></span>Beeconta · Biblioteca Tributaria</div>\n      <a class="document-source-link" href="${escapeHtml(doc.source_url)}" target="_blank" rel="noopener">Ver fuente oficial ↗</a>\n    </div>\n    <header class="document-hero">\n      <p class="document-kicker"><span class="cite-stamp ${sourceClass}">${escapeHtml(stamp)}</span>${identity ? ` ${escapeHtml(identity)}` : ''}</p>\n      <h1 class="document-title">${escapeHtml(doc.title)}</h1>\n      <p class="document-summary">${escapeHtml(summary)}</p>\n      <div class="document-meta"><span class="document-chip ${sourceClass}">${escapeHtml(doc.source)}</span>${date ? `<span class="document-chip">${escapeHtml(date)}</span>` : ''}${version}${categories}</div>\n    </header>\n    ${refs ? `<section class="document-references"><h2>Referencias detectadas</h2><div class="reference-list">${refs}</div></section>` : ''}\n    <section class="document-body"><div class="document-body-label">Texto del documento</div>${renderLegalBody(body)}</section>\n    <footer class="document-footer"><strong>Fuente de respaldo:</strong> ${escapeHtml(doc.source)}. Esta vista facilita lectura y búsqueda; ante cualquier diferencia, prevalece el documento publicado en la fuente oficial.</footer>\n  </article>\n</body>\n</html>`;
 }
 
 function safeDocumentName(id) {
