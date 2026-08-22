@@ -12,6 +12,23 @@ test('extrae links y contexto de un índice SII', () => {
   assert.match(links[0].context, /Circular N° 26/);
 });
 
+test('el contexto de un anchor no se mete en el resumen del ítem vecino (regresión)', () => {
+  // Listado denso real (resoluciones/circulares SII): título-enlace seguido del resumen propio,
+  // luego el siguiente título-enlace. El contexto de cada ítem debe quedar acotado a lo suyo.
+  const html = `<h5><a href='reso106.pdf'>Resolución Exenta SII N° 106 del 21 de Agosto del 2026</a></h5>` +
+    `<p>Reorganiza las unidades del departamento.</p><span>Fuente: Avaluaciones</span>` +
+    `<h5><a href='reso105.pdf'>Resolución Exenta SII N° 105 del 20 de Agosto del 2026</a></h5>` +
+    `<p>Complementa la nómina de Grandes Contribuyentes.</p><span>Fuente: Grandes Contribuyentes</span>`;
+  const indexUrl = 'https://www.sii.cl/normativa_legislacion/resoluciones/2026/res_ind2026.htm';
+  const [first, second] = extractAnchors(html, indexUrl);
+
+  assert.match(first.context, /Reorganiza las unidades/);
+  assert.doesNotMatch(first.context, /Complementa la n(ó|o)mina/, 'el resumen del ítem siguiente no debe filtrarse en el primero');
+
+  assert.match(second.context, /Complementa la n(ó|o)mina/);
+  assert.doesNotMatch(second.context, /Reorganiza las unidades/, 'el resumen del ítem anterior no debe filtrarse en el segundo');
+});
+
 test('extrae referencias cruzadas', () => {
   const refs = extractReferences('Modifica Circular N° 12 de 2021 y Oficio N° 901 de 2026. artículo 31 de la Ley sobre Impuesto a la Renta.');
   assert.ok(refs.some((r) => r.type === 'circular' && r.number === 12 && r.year === 2021));
