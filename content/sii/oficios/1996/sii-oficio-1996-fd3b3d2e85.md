@@ -11,7 +11,7 @@
 
 ## Resumen
 
-unio 1996 R�gimen tributario aplicable a las concesiones para la construcci�n, mantenci�n y explotaci�n de las obras p�blicas denominadas "Camino Santiago-Colina-Los andes"...Oficio N� 1.596, de 04.06.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 27� bis. Junio 1996 Reintegro en arcas fiscales por una empresa inmobiliaria, cuyo giro comercial es el arrendamiento de bienes ra�ces y otros, del monto total de remanente...Oficio N� 1.585, de 30.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las…
+585, de 30.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2�, N� 2. Junio 1996 Aplicaci�n del impuesto al valor agregado en el transporte de turistas en viajes de recreaci�n por r�os navegables de nuestro pa�s, que realiza una empresa de transporte dedicada...Oficio N� 1.530, de 24.05.96
 
 ## Referencias detectadas
 

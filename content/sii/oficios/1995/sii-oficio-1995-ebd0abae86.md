@@ -11,7 +11,7 @@
 
 ## Resumen
 
-onforme al Art. 27� bis del D.L N� 825, solicitada por el contribuyente a la Tesorer�a General de la Rep�blica, por no tener derecho...Oficio N�. 1.079, de 18.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art 12�, letra e), N� 10, Abril 1995 Tratamiento Tributario de la prestaci�n remunerada de aval, ya sea individualmente considerada como actividad o como comisiones que corresponden a avales o fianza otorgados por Instituciones...Oficio N� 1.042, de 12.04.95 Ventas y Servicios - Nuevo Texto Ley Impu…
+042, de 12.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Arts. 42� y 43�, Abril 1995 De la determinaci�n del cr�dito fiscal del Impuesto adicional a las bebidas alcoh�licas, analcoh�licas y productos similares respecto de una empresa distribuidora de bebidas que realiza ventas...Oficio N� 935, de 31.03.95
 
 ## Referencias detectadas
 

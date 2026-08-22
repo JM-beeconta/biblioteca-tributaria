@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rando a las modificaciones introducidas al cap�tulo XXVI... (Oficio N� 1.969, de 03.07.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, inciso cuarto,. N� 1, letras b) y c Julio 1995 Para los efectos de aplicar el Impuesto Adicional a la Renta con tasa rebajada del 4%, que afecta a los intereses provenientes de las operaciones de cr�ditos referidas en... (Oficio N�1.772, de 23.06.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis , letra b), Julio 1995 De la forma en que los part�cipes de Fondos Mut…
+e 23.06.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis , letra b), Julio 1995 De la forma en que los part�cipes de Fondos Mutuos, que efect�en inversiones en dichos Fondos, pueden acogerse al mecanismos de incentivo al ahorro que contempla... (Oficio N� 1.771, de 23.06.95).
 
 ## Referencias detectadas
 

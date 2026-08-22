@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uesto a Valor Agregado en la prestaci�n de servicios de asistencia funeraria, de acuerdo con lo dispuesto en el Art. 9�, letra a) del D.L N� 825...Oficio N� 1.089, de 19.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 27� bis, Abril 1995 No procede la devoluci�n del remanente del cr�dito fiscal conforme al Art. 27� bis del D.L N� 825, solicitada por el contribuyente a la Tesorer�a General de la Rep�blica, por no tener derecho...Oficio N�. 1.079, de 18.04.95 Ventas y Servicios - Nuevo Texto Ley Imp…
+079, de 18.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art 12�, letra e), N� 10, Abril 1995 Tratamiento Tributario de la prestaci�n remunerada de aval, ya sea individualmente considerada como actividad o como comisiones que corresponden a avales o fianza otorgados por Instituciones...Oficio N� 1.042, de 12.04.95
 
 ## Referencias detectadas
 

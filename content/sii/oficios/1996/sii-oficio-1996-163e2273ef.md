@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rvicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta - Actual ley sobre impuesto a la - Art. 59� N� 4, inciso final. Diciembre 1996 Condiciones para la procedencia de la exenci�n del impuesto adicional, establecido en el art�culo 59� N� 4, inciso final, de la ley de la renta, en casos de rentas que se paguen o abonen en cuenta... (Oficio N� 3.521, de 19.12.96). Renta - Actual ley sobre impuesto a la - Arts. 29� , 30� y 31�, N� 9. Diciembre 1996 Tratamiento tributario de la ley de rent…
+e 19.12.96). Renta - Actual ley sobre impuesto a la - Arts. 29� , 30� y 31�, N� 9. Diciembre 1996 Tratamiento tributario de la ley de renta, respecto a los gastos incurridos en la construcci�n de obras realizadas en terrenos entregados en concesi�n municipal. (Oficio N� 3.496, de 16.12.96).
 
 ## Referencias detectadas
 

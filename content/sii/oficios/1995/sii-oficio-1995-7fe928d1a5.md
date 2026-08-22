@@ -11,7 +11,7 @@
 
 ## Resumen
 
-neral debe ser declarada en forma independiente de sus propias rentas, debiendo confeccionarse... (Oficio N� 492, de 17.02.95). Renta - Actual ley sobre Impuesto a la - Art. 74�, N� 4- Febrero 1995 Del orden de imputaci�n al fondo de utilidades tributables de dividendos que se reparten por una sociedad an�nima abierta a accionistas sin domicilio ni residencia en Chile... (Oficio N� 487, de 16.02.95). Renta - Actual ley sobre Impuesto a la - Art. 39�, N� 4 letra g) Febrero 1995 Los intereses obtenidos en el mercado…
+e 16.02.95). Renta - Actual ley sobre Impuesto a la - Art. 39�, N� 4 letra g) Febrero 1995 Los intereses obtenidos en el mercado de capitales, a partir del dep�sito de la subvenci�n fiscal que recibe la corporaci�n de estudio, capacitaci�n... (Oficio N� 413, de 10.02.95).
 
 ## Referencias detectadas
 

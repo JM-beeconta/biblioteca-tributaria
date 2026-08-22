@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r> A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 1995 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y servicios - Nuevo texto ley Impuesto a las - Art. 43� bis y 46�- Enero 1996 Acerca de la aplicaci�n de los Impuestos adicionales que establecen los Arts. 43� bis y 46� del decreto ley N� 825, de 1974, en la importaci�n de autom�viles con motor el�ctrico...Oficio N� 4.432, de 13.12.94 Ventas y Servicios - N…
+Ventas y servicios - Nuevo texto ley Impuesto a las - Art. 43� bis y 46�- Enero 1996 Acerca de la aplicaci�n de los Impuestos adicionales que establecen los Arts. 43� bis y 46� del decreto ley N� 825, de 1974, en la importaci�n de autom�viles con motor el�ctrico...Oficio N� 4.432, de 13.12.94
 
 ## Referencias detectadas
 

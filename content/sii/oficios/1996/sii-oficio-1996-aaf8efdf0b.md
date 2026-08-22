@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto al Valor Agregado e impuesto adicional del Art. 42� del D.L N� 825, sobre impuesto a las ventas y servicios, en la importaci�n de vinos y destilados...Oficio N� 558, de 20.02.96 Ventas y Servicios - Nuevo texto a las - Art. 42� letra d). Febrero 1996 Aplicaci�n del Impuesto Adicional que establece el Art. 42� letra d), del D.L N� 825, sobre Impuesto a las Ventas y Servicios, a la venta o importaci�n de un producto compuesto de juego o lim�n...Oficio N� 433, del 09.02.96 Ventas y Servicios - Nuevo texto ley…
+33, del 09.02.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 36�, incisos cuarto y quinto. Febrero 1996 Acerca del sentido y alcance que debe darse a la expresi�n "vuelos internacionales", en relaci�n con la franquicia tributaria contemplada el Art...Oficio N� 406, de 08.02.96
 
 ## Referencias detectadas
 

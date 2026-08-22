@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ubordinada de determinados bancos comerciales, que se derivan...Oficio N� 2.417, 30.08.96 Ley 19.418 - Sobre juntas de vecinos y dem�s organizaciones comunitarias - Art. 28�, Septiembre 1996 Incidencia del impuesto al valor agregado en el suministro de agua potable que hagan a sus miembros los comit�s rurales constituidos como organizaciones comunitarias...Oficio N� 2.413, de 30.08.96 Timbres y estampillas - Nuevo texto ley impuesto de - Art. 3�, Septiembre 1996 Trat�ndose de una importaci�n o ingreso de mercanc�a…
+Timbres y estampillas - Nuevo texto ley impuesto de - Art. 3�, Septiembre 1996 Trat�ndose de una importaci�n o ingreso de mercanc�as desde es exterior a zonas francas, la declaraci�n jurada requerida por la direcci�n nacional del servicio..Oficio N� 2.389, de 28.08.96
 
 ## Referencias detectadas
 

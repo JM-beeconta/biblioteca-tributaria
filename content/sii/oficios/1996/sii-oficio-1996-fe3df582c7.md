@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1996
-- Fecha: 1996-08-19
+- Fecha: 1996-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/renta/ago96.htm
 - Hash SHA-256: 480a32bbb23203d1e60acaaf3321e13406fe5ea3b7e0029ed174e09601700ffc
 
 ## Resumen
 
-be incurrir una empresa de servicios para la mantenci�n y funcionamiento de un autom�vil radio patrulla. (Oficio N� 2.297, de 19.08.96). Rentas municipales - Actual ley sobre - Art. 24�. Agosto 1996 Incompetencia del servicio de impuestos internos en relaci�n con la determinaci�n del capital propio para los efectos del pago del la patente municipal, a que se refiere... (Oficio N� 2.296, de 19.08.96). Renta - Actual ley sobre impuesto a la - Art. 41�, inciso tercero. Agosto 1996 Situaci�n tributaria del aporte de d…
+e 19.08.96). Renta - Actual ley sobre impuesto a la - Art. 41�, inciso tercero. Agosto 1996 Situaci�n tributaria del aporte de derechos sociales efectuados por determinados socios de una sociedad de personas para la constituci�n de otra sociedad de igual naturaleza... (Oficio N� 2.293, de 19.08.96).
 
 ## Referencias detectadas
 

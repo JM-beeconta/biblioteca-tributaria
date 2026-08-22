@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s respectivas sociedades a las cuales pertenecen y de su correspondiente devoluci�n... (Oficio N� 2.017, de 19.07.96). Renta - Actual ley sobre impuesto a la - Art. 10� y 58�, N� 1, Julio 1996 Los intereses obtenidos por una agencia en Chile de una empresas extranjera, producto de los dep�sitos efectuados en el exterior con los recursos obtenidos de sus exportaciones... (Oficio N� 1.932, de 08.07.96). Renta - Actual ley sobre impuesto a la - Art.17�, N� 8, letra e) y N� 20, Julio 1996 De la tributaci�n que afecta…
+e 08.07.96). Renta - Actual ley sobre impuesto a la - Art.17�, N� 8, letra e) y N� 20, Julio 1996 De la tributaci�n que afecta a las rentas obtenidas por los escritores producto de su actividad intelectual, ya sea que los ingresos que generen en la constituci�n de la propiedad intelectual.... (Oficio N� 1.906, de 04.07.96).
 
 ## Referencias detectadas
 

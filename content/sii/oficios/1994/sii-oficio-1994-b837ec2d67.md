@@ -11,7 +11,7 @@
 
 ## Resumen
 
-izado en divisas - empresa receptora - bienes de capital - importaci�n para el mismo proyecto - impuesto. (Of. N� 682, DE 14.02.94). Ley de donaciones con fines culturales - contenida en el art�culo 8 de la Ley no. 18.985, Febrero 1994 Donaciones - corporaci�n pro-termino del Teatro Municipal de Chillan como donataria - Ley de donaciones con fines culturales... (Of. N� 553, DE 03.02.94). C�digo del trabajo - texto refundido, coordinado y sistematizado - contenido en el DFL no. 1, del Ministerio del Trabajo y Previ…
+E 03.02.94). C�digo del trabajo - texto refundido, coordinado y sistematizado - contenido en el DFL no. 1, del Ministerio del Trabajo y Previsi�n Social, Enero 1994 C�digo del trabajo texto refundido, DFLno. 1, Ministerio del Trabajo do 24.01.94, art. 47, 48 y 49. establecimientos educacionales particulares, subvencionados o no - trabajadores - gratificaciones legales a que se refiere..... (Of. N� 475, DE 28.01.94).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ey impuesto a las - Art. 9� letra f). Abril 1996 Tributaci�n aplicable a la concesi�n para la construcci�n, conservaci�n, mantenci�n y explotaci�n de la obra p�blica vial denominada "Ruta 5 Tramo Santiago"...Oficio N� 1.002, de 10.04.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 55�. Marzo 1996 Acerca de la documentaci�n del pago anticipado del precio de venta de bienes corporales muebles que se encomienda confeccionar...Oficio N� 887, de 25.03.96 Ventas y Servicios - Nuevo texto ley impuestos a las…
+887, de 25.03.96 Ventas y Servicios - Nuevo texto ley impuestos a las - Art. 8�, letra g). Marzo 1996 De la aplicaci�n del Impuesto al Valor Agregado por concepto de arrendamiento del Recinto Ferial CASAPIEDRA, ubicado en Santiago, comuna de Vitacura, para el....Oficio N� 863, de 20.03.96
 
 ## Referencias detectadas
 

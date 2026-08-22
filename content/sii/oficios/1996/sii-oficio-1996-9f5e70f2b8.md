@@ -11,7 +11,7 @@
 
 ## Resumen
 
-capacitaci�n en favor de sus trabajadores y adoptan la calidad de contribuyentes...Oficio N� 2.173, de 08.08.96 C�digo tributario - Actual texto - Art. 127�. Agosto 1996 Del c�digo tributario, en relaci�n a una solicitud de correcci�n de error propio, por lo cual se desea compensar el impuesto al valor agregado cancelado en exceso en determinados meses...Oficio N� 2.300, de 20.08.96 Franquicias regionales - Ley 19.420 - Arts. 1� al 18�. Agosto 1996 De la confesi�n de un formulario de consulta tipo para los contrib…
+Franquicias regionales - Ley 19.420 - Arts. 1� al 18�. Agosto 1996 De la confesi�n de un formulario de consulta tipo para los contribuyentes que deseen conocer con anticipaci�n la calificaci�n de un proyecto de inversi�n, en relaci�n con el cr�dito tributario...
 
 ## Referencias detectadas
 

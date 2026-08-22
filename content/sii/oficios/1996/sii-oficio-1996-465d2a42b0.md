@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l valor agregado en el caso en que un contribuyente convenga con tesorer�as el pago de una de las cuotas del tributo adeudado, por la adquisici�n...Oficio N� 3.121, de 07.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 8�, letra m). Noviembre 1996 De la aplicaci�n del impuesto al valor agregado (IVA) que dispone el Art. 8� letra m), del D.L N� 825, sobre impuesto a las ventas y Servicios cuando la operaci�n versa sobre...Oficio N� 3.120, de 07.11.96 Ventas y Servicios - Nuevo texto ley impuesto a…
+120, de 07.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2� N� 2, Noviembre 1996 Las multas consistentes en el pago de una suma de dinero como sanci�n pecuniaria por falsa alarma a unidades policiales, de parte de los usuarios del sistema de seguridad...Oficio N� 3.004, de 25.10.96
 
 ## Referencias detectadas
 

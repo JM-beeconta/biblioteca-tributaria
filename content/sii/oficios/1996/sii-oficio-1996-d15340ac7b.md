@@ -11,7 +11,7 @@
 
 ## Resumen
 
-seg�n el contrato celebrado entre las partes, quedan a benefecio del arrendador... (Oficio N� 3.006, de 25.10.96). Renta - Actual ley sobre impuesto a la - Art. 77�. Noviembre 1996 De la posibilidad de llevar el registro especial de retenciones establecido en el Art. 77� de la ley de la renta mediante medios magn�ticos, en el caso de las administradoras de fondos de... (Oficio N� 2.949, de 22.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, inciso final, Noviembre 1996 Acerca del valor en que deben…
+e 22.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, inciso final, Noviembre 1996 Acerca del valor en que deben aportarse los activos y pasivos en el caso de conversi�n de una empresa individual en sociedad de cualquier clase o el aporte de dichos valores a una sociedad... (Oficio N� 2.948, de 22.10.96).
 
 ## Referencias detectadas
 

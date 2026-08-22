@@ -11,7 +11,7 @@
 
 ## Resumen
 
-roducci�n minera, los cuales implican procesamiento de la informaci�n... (Oficio N� 3.052, de 09.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 4 inciso final, Octubre 1995 Inaplicabilidad del Impuesto Adicional establecido en el Art. 59�, N� 4, de la Ley de la Renta, a las utilidades de las empresas navieras de la Rep�blica Federal de Alemania. (Oficio N� 3.012, de 04.10.95). Renta - Actual Ley Sobre Impuesto a la - Art. 45�, Septiembre 1995 En el caso de subsidios por incapacidad laboral de los tr…
+e 04.10.95). Renta - Actual Ley Sobre Impuesto a la - Art. 45�, Septiembre 1995 En el caso de subsidios por incapacidad laboral de los trabajadores, para los efectos de la aplicaci�n de la tabla del Impuesto Unico de Segunda Categor�a, lo que debe determinarse previamente... (Oficio N� 2.887, de 14.09.95).
 
 ## Referencias detectadas
 

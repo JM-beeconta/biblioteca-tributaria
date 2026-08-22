@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Renta), efect�a colocaciones bancarias a inter�s con ingresos provenientes... (Oficio N� 2.727, de 05.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. 38� bis , Septiembre 1995 Sobre aplicaci�n del Impuesto Unico de 35% establecido en el Art. 38� bis de la explotaci�n de un negocio por parte de un heredero que, entre otros bienes, heredo el 100% del patrimonio... (Oficio N� 2.718, de 04.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. N� 58�, N� 1, Septiembre 1995 De las obligaciones tributarias que af…
+e 04.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. N� 58�, N� 1, Septiembre 1995 De las obligaciones tributarias que afectan a inversionistas extranjeros acogidos a las normas del D.L N� 600, sobre Estatuto de la Inversi�n Extranjera, y cuyos recursos son invertidos... (Oficio N� 2.645, de 28.08.95).
 
 ## Referencias detectadas
 

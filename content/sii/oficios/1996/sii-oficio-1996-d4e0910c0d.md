@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tado a los concesionarios en virtud de un contrato de concesi�n de obra p�blica. Oficio N� 3.361, de 02.12.96 Timbres y estampillas - Nuevo texto ley sobre impuesto de - Arts. 1�, N� 3 y 24�, N� 11 Diciembre 1996 Informa acerca del impuesto de timbres y estampillas que afecta a pagar�s y sobre la normativa de comercio exterior al suscribirse a los pagar�s. Oficio N� 3481, de 13.12.96 Timbres y estampillas - Nuevo texto ley sobre impuesto de - Art. 3� inciso primero. Diciembre 1996 Acerca del impuesto de timbres y…
+Timbres y estampillas - Nuevo texto ley sobre impuesto de - Art. 3� inciso primero. Diciembre 1996 Acerca del impuesto de timbres y estampillas en la documentaci�n necesaria para realizar una importaci�n de mercanc�as que se paga despu�s de aceptada la declaraci�n de destinaci�n...Oficio N� 3.380, de 04.12.96
 
 ## Referencias detectadas
 

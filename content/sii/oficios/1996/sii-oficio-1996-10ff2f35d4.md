@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tables (FUT), que tienen incidencia en los Global complementario... (Oficio N� 3.087, de 04.11.96). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 7, Noviembre 1996 Acerca de la situaci�n tributaria de las donaciones que efect�en a la orden religiosa "Compa��a de Jes�s", cuyo destino sea mejorar los establecimientos educacionales de que es sostenedora. (Oficio N� 3.035, DE 29.10.96). Renta - Actual ley sobre impuesto a la - Art. N� 2, N� 1, Noviembre 1996 Sobre el concepto de "renta" en relaci�n a mejoras i…
+E 29.10.96). Renta - Actual ley sobre impuesto a la - Art. N� 2, N� 1, Noviembre 1996 Sobre el concepto de "renta" en relaci�n a mejoras incorporadas a un inmueble por el arrendamiento de �ste, las que, seg�n el contrato celebrado entre las partes, quedan a benefecio del arrendador... (Oficio N� 3.006, de 25.10.96).
 
 ## Referencias detectadas
 

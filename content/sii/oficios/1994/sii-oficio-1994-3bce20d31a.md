@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1994
-- Fecha: 1994-01-12
+- Fecha: 1994-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1994/renta/ene6.htm
 - Hash SHA-256: 6d55b60693eaa7c94443ba1c4eea8a9f25525f2c51e7adf9a393b3dbf7cf38d0
 
 ## Resumen
 
-pectivos mandantes - Contrato de administraci�n de cartera - Traspaso... (Oficio N�479, de 28.01.94). Actual Ley sobre Impuesto a la Renta - contenida en el art. 1 del Decreto Ley no. 824, (do 31.12.74).- Ley Renta, art. 31., Enero 1994 Sociedad contribuyente - actos lesivos a patrimonio de otra empresa - Tribunal ordinario de justicia - Tribunales superiores. (Oficio N�355, de 20.01.94). Ley renta, art. 41, inciso primero, no. 3, letra a)., Enero 1994 Existencias de trigo - destinos - "semilla" de trigo - producc…
+; 20.01.94). Ley renta, art. 41, inciso primero, no. 3, letra a)., Enero 1994 Existencias de trigo - destinos - "semilla" de trigo - producci�n de "harina" y fabricaci�n de pan, pasteles y galletas - bienes del mismo genero, pero calidad y caracter�sticas diferentes - activo realizable. (Oficio N� 268, de 17.01.94).
 
 ## Referencias detectadas
 

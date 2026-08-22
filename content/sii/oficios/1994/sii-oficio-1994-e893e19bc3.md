@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Ley renta, art. 59.- convenio entre Chile y Argentina, DS no. 32 Ministerio de Relaciones Exteriores - do 07.03.86 - art. 2, letras e), i); y 9.-, Febrero 1994 Programas de televisi�n extranjera - Recepci�n en Chile a trav�s de se�al satelital - Contrato de regal�a - Transmisi�n en Chile - Autorizaci�n a empresa nacional - Personas sin domicilio ni residencia en el... (Oficio N�. 497, de 01.02.94). Ley renta, art. 41-a y 41-b.- ley 19.247 - do de 15.09.93, art. 1, letra f). circular no.52, Febrero 1994 Empresa c…
+e 01.02.94). Ley renta, art. 41-a y 41-b.- ley 19.247 - do de 15.09.93, art. 1, letra f). circular no.52, Febrero 1994 Empresa con domicilio y residencia en Chile - Filial o establecimiento permanente en el exterior - Ejercicio comercial extranjero - Pa�s receptor de la inversi�n - Ingresos no gravados en pa�s de su... (Oficio N�. 496, de 01.02.94)
 
 ## Referencias detectadas
 

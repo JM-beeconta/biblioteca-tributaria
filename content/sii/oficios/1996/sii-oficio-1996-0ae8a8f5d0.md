@@ -11,7 +11,7 @@
 
 ## Resumen
 
-trabajo, la direcci�n nacional del servicio de impuestos internos ha dictaminado...Oficio N� 913, de 26.03.96 Franquicias tributarias - Decreto ley N� 889 - Art. 13�. Abril 1996 Para los efectos de aplicar la presunci�n de asignaci�n de zona que contempla el Art. 13� del D.L N� 889, de 1975, es procedente que se otorgue considerando el aumento dispuesto...Oficio N� 1.225, de 17.04.96 Franquicias tributarias - Decreto ley N� 1244 - Art. 4�. Abril 1996 De la exenci�n del impuesto al Valor Agregado que favorece a los…
+Franquicias tributarias - Decreto ley N� 1244 - Art. 4�. Abril 1996 De la exenci�n del impuesto al Valor Agregado que favorece a los servicios prestados por personas domiciliadas o residentes en el departamento de Isla de Pascua, de acuerdo con las disposiciones... Oficio N� 1.217, de 16.04.96
 
 ## Referencias detectadas
 

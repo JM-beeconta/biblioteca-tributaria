@@ -11,7 +11,7 @@
 
 ## Resumen
 
-que realmente les asigna el mercado, de acuerdo al principio econ�mico de la oferta y la demanda... (Oficio N� 1.395, de 23.05.95). Franquicias Tributarias - D.L N� 910 - Art. 21�, Mayo 1995 Procede la utilizaci�n del cr�dito especial del Art. 21� del D.L N� 910, de 1975, respecto de un contrato general de construcci�n por suma alzada de un edificio de departamentos... (Oficio N� 1.381, de 22.05.95). Ley 18.681 - Art. 69�, Mayo 1995 Acerca de procedimiento de anulaci�n de certificado que acredita donaci�n efectuad…
+e 22.05.95). Ley 18.681 - Art. 69�, Mayo 1995 Acerca de procedimiento de anulaci�n de certificado que acredita donaci�n efectuada al amparo del Art. 69� de la Ley 18,681 de 1987, que establece beneficios tributarios en favor de los... (Oficio N� 1.251, de 08.05.95).
 
 ## Referencias detectadas
 

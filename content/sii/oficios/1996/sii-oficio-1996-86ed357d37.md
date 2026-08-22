@@ -11,7 +11,7 @@
 
 ## Resumen
 
-utarias relacionadas con las empresas constructoras, en lo que respecta a la aplicaci�n del impuesto al valor agregado y normas de la ley sobre impuesto a la renta...Oficio N� 2.384, de 27.08.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2�, N� 2�, Septiembre 1996 Acerca de la procedencias de la aplicaci�n del impuesto al valor agregado en servicios de televisi�n por cable, cuando el abonado deja de pagar la remuneraci�n convenida. Oficio N� 2.362, de 23.08.96 Ventas y Servicios - Nuevo texto ley i…
+362, de 23.08.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 23�, N� 1, Septiembre 1996 Los ingresos que provienen de la prestaci�n del servicio de cajeros autom�ticos por parte de una entidad bancaria, se encuentran gravados con el impuesto al valor...Oficio N� 2.361, de 23.08.96
 
 ## Referencias detectadas
 

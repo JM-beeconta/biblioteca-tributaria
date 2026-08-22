@@ -11,7 +11,7 @@
 
 ## Resumen
 
-egionales a empresas de los sectores p�blicos o privados, para la ejecuci�n...Oficio N� 3.902, de 29.12.95 C�digo Tributario - Actual texto - Art. 8�, N�8. Febrero 1996 De la tributaci�n que afecta a los honorarios pagados desde el exterior a un extranjero con residencia en Chile, envi�ndose los valores o recursos necesarios para pagarlos desde el exterior...Oficio N� 287, de 30.01.96 Franquicias tributarias - Decreto ley N� 889 - Art. 13�. Febrero 1996 Para los efectos de aplicar la presunci�n de asignaci�n de zo…
+Franquicias tributarias - Decreto ley N� 889 - Art. 13�. Febrero 1996 Para los efectos de aplicar la presunci�n de asignaci�n de zona que contempla el Art. 13� del D.L N� 889, de 1975 es procedente que se otorgue considerando el aumento dispuesto...Oficio N� 237, de 25.01.96
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-envi� de los certificados sobre retiros de las Cuentas de Ahorro Voluntario por parte de las Administradoras de Fondos de Pensiones a los afiliados. (Oficio N� 3.401, de 14.11.95). Franquicias Tributarias - DFL N� 5, Art. 5�, Noviembre 1995 Calidad de ingresos no constitutivos de renta de las subvenciones pagadas por el Estado a los Establecimientos Educacionales... (Oficio N� 3.273, de 31.10.95). C�digo Tributario - Actual texto - Art. 68� , Noviembre 1995 No procede otorgar certificado de t�rmino de giro a las p…
+e 31.10.95). C�digo Tributario - Actual texto - Art. 68� , Noviembre 1995 No procede otorgar certificado de t�rmino de giro a las personas que no han sido contribuyentes que hayan realizado actividades o negocios susceptibles de generar rentas... ( Oficio N� 3.272, de 31.10.95).
 
 ## Referencias detectadas
 

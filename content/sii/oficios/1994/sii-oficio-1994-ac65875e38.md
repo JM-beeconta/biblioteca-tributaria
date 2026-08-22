@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ey Arica, respecto de los contribuyentes acogidos al r�gimen preferencial el Art. 27� del DFL, N� 341... (Oficio N� 3.443, de 17.11.95). Decreto Ley N� 3.500 - Art. 22� , Noviembre 1995 De las fechas de emisi�n y envi� de los certificados sobre retiros de las Cuentas de Ahorro Voluntario por parte de las Administradoras de Fondos de Pensiones a los afiliados. (Oficio N� 3.401, de 14.11.95). Franquicias Tributarias - DFL N� 5, Art. 5�, Noviembre 1995 Calidad de ingresos no constitutivos de renta de las subvenciones…
+e 14.11.95). Franquicias Tributarias - DFL N� 5, Art. 5�, Noviembre 1995 Calidad de ingresos no constitutivos de renta de las subvenciones pagadas por el Estado a los Establecimientos Educacionales... (Oficio N� 3.273, de 31.10.95).
 
 ## Referencias detectadas
 

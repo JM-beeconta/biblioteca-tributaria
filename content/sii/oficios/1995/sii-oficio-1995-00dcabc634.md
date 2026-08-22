@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aller artesanal u obrero, que tributan conforme a los Arts. 22�, N� 4 y 26� de la Ley de la Renta... (Oficio N� 2.182, de 24.07.95). Renta - Actual Ley sobre Impuesto a la - Arts. 17�, N� 113, y 46�- Julio 1995 Acerca del per�odo en que deben prorratearse las diferencias en indemnizaci�n por a�os de servicio que se pacte en un contrato individual de trabajo... (Oficio N� 2.150, de 18.07.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, inciso primero e inciso cuarto, N� 1, letra b) Julio 1995 Tratamiento tri…
+e 18.07.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, inciso primero e inciso cuarto, N� 1, letra b) Julio 1995 Tratamiento tributario de los intereses provenientes de cr�ditos otorgados desde el exterior a los exportadores, afectos al Impuesto Adicional que establece el Art. 59� de la Ley... (Oficio N� 2.108, de 14.07.95).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y 7. Diciembre 1996 Sobre aplicaci�n de IVA a la comisi�n por mantenci�n de cuentas corrientes individuales de excedentes de cotizaciones... Oficio N�. 3.520, de 18.12.96 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 8�, Diciembre 1996 Impuesto al valor agregado que afectar�a a una empresa que presta servicios de apoyo cl�nico a pacientes que est�n internados en cl�nicas o en su domicilio particular. Oficio N� 3.438, de 10.12.96 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 8� letra m). D…
+438, de 10.12.96 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 8� letra m). Diciembre 1996 De la tributaci�n aplicable a la venta de veh�culos motorizados efectuada por comerciantes cuyo giro sea el arrendamiento de autom�viles, que han tenido derecho al cr�dito fiscal por su adquisici�n...Oficio N� 3.294, de 26.11.96
 
 ## Referencias detectadas
 

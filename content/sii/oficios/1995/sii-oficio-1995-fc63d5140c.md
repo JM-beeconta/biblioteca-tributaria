@@ -11,7 +11,7 @@
 
 ## Resumen
 
-onstituye una explotaci�n comercial de bosque y, por ende, el contribuyentes para los fines de la Ley de la Renta... (Oficio N� 3.148, de 18.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 5, Octubre 1995 Los servicios de salud proporcionados por la Asociaci�n de Diab�ticos de Chile, siempre que consistan en la prestaci�n exclusiva de servicios m�dicos... (Oficio N� 3.146, de 18.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 3, Octubre 1995 De la aplicaci�n del Impuesto al Valor Agrega…
+e 18.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 3, Octubre 1995 De la aplicaci�n del Impuesto al Valor Agregado a los servicios de preparaci�n de planes de producci�n minera, los cuales implican procesamiento de la informaci�n... (Oficio N� 3.052, de 09.10.95).
 
 ## Referencias detectadas
 

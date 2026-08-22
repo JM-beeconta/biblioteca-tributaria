@@ -11,7 +11,7 @@
 
 ## Resumen
 
-io de Impuestos Internos en relaci�n con las Cuentas de Ahorro Voluntario... (Oficio N� 3.453, de 17.11.95). Renta - Actual Ley sobre Impuesto a la - Art.17�, N� 8 inciso primero, letra b) e inciso cuarto, Noviembre 1995 A las enajenaciones de bienes ra�ces a que se refiere la letra b) del N� del Art. 17� de la Ley de la Renta, efectuadas por los accionistas... (Oficio N� 3.408, de 14.11.95). Renta - Actual Ley sobre Impuesto a la - Art.17�, N� 8, letra b) y 18�, Noviembre 1995 De la fecha de adquisici�n de los bi…
+e 14.11.95). Renta - Actual Ley sobre Impuesto a la - Art.17�, N� 8, letra b) y 18�, Noviembre 1995 De la fecha de adquisici�n de los bienes de una herencia. Situaci�n de habitualidad a que se refiere el Art. 18� de la Ley de la Renta, respecto de bienes... (Oficio N� 3.331, de 07.11.95).
 
 ## Referencias detectadas
 

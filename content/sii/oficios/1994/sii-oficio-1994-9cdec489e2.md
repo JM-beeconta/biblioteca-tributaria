@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. C�digo del trabajo - texto refundido, coordinado y sistematizado - contenido en el DFL no. 1, del Ministerio del Trabajo y Previsi�n Social, Enero 1994 C�digo del trabajo texto refundido, DFLno. 1, Ministerio del Trabajo do 24.01.94, art. 47, 48 y 49. establecimientos educacionales particulares, subvencionados o no - trabajadores - gratificaciones legales a que se refiere..... (Of. N� 475, DE 28.01.94). DL no. 825 (nuevo texto), art. 12, letra d), y 55.-, Enero 1994 Frutas - Exportaci�n - Concepto - Venta de mer…
+E 28.01.94). DL no. 825 (nuevo texto), art. 12, letra d), y 55.-, Enero 1994 Frutas - Exportaci�n - Concepto - Venta de mercader�as al extranjero - Impuesto al Valor Agregado - Exenci�n contemplada en art. 12. (Of. N� 300, DE 19.01.94).
 
 ## Referencias detectadas
 

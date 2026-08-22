@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uya casa matriz tiene domicilio y residencia en chile. (Oficio N� 2.762, de 04.10.96) Renta - Actual ley sobre impuesto a la - Arts. 20�, N� 2, letra c) y 33�, N� 2 letra a), Octubre 1996 De los dividendos que empresas chilenas reciben del extranjero, producto del dominio, posesi�n o tenencia, a cualquier titulo, de acciones de sociedades an�nimas extranjera... (Oficio N� 2.734, de 02.10.96). Renta - Actual ley sobre impuesto a la - Arts. 3� y 10�. Octubre 1996 Acerca de la situaci�n tributaria de ciudadanos chile…
+e 02.10.96). Renta - Actual ley sobre impuesto a la - Arts. 3� y 10�. Octubre 1996 Acerca de la situaci�n tributaria de ciudadanos chilenos residentes en el extranjero, en relaci�n con rentas de fuente chilena y/o rentas de fuente extranjera... (Oficio N� 2.733, de 02.10.96)
 
 ## Referencias detectadas
 

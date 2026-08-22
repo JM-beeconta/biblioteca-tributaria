@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dimiento de reintegro en arcas fiscales de las cantidades obtenidas por los contribuyentes en caso de reembolso excesivo o improcedente...Oficio N� 2.221, de 27.07.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 9�, letra f), Agosto 1995 Tributaci�n aplicable a la concesi�n para la construcci�n, conservaci�n y explotaci�n de la Obra P�blica Vial denominada "Ruta 5 tramo Talca-Chill�n", en relaci�n con el Impuesto al Valor Agregado...Oficio N� 2.201, de 26.07.95 Ventas y Servicios - Nuevo texto Ley Im…
+201, de 26.07.95 Ventas y Servicios - Nuevo texto Ley Impuesto a las - Art. 2�. N� 2, Julio 1995 La exhibici�n de diversos elementos de la historia mar�tima de una Regi�n del pa�s, llevada a efecto en un Museo habilitado en dependencias navales por la Armada de Chile, constituye...Oficio N� 1.798, de 27.06.95
 
 ## Referencias detectadas
 

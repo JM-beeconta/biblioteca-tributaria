@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-05-17
+- Fecha: 1995-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/renta/jun129.htm
 - Hash SHA-256: c05a0178821032f9994c8ed61133183c536a50391dae431f33e79f815ffdb985
 
 ## Resumen
 
-al exterior por la venta de pel�culas para ser exhibidas a trav�s de proyectores de cine, televisi�n y v�deo... (Oficio N� 1.552, de 06.06.95). Renta Actual Ley sobre Impuesto a la - Art. 59� N� 4- Junio 1995 De los requisitos que deben concurrir para que opere la exenci�n del Impuesto Adicional a la Renta a que se refiere el Art. 59� de la Ley de la Renta... (Oficio N� 1.539, de 02.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra a) - Junio 1995 De los efectos tributarios del aumento de capita…
+e 02.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra a) - Junio 1995 De los efectos tributarios del aumento de capital de una sociedad an�nima cerrada, mediante el incremento del valor nominal de las acciones emitidas originalmente. (Oficio N� 1.391, de 23.05.95).
 
 ## Referencias detectadas
 

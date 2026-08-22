@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Jurisprudencia Administrativa 1996 A�os Anteriores OTRAS 1996 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Franquicias tributarias - Ley 18.566 - Art. 8�. Enero 1996 En cuanto al procedimiento de recuperaci�n de las cantidades pagadas con atraso por cotizaci�n adicional de salud que establece el Art. 8� de la ley 18.566...Oficio N� 63, de 09.01.96 Decreto ley N� 3500 - Nuevo sistema de pensiones - Art. 28�. Enero 1996 Las comisiones para el…
+A�os Anteriores OTRAS 1996 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario.
 
 ## Referencias detectadas
 

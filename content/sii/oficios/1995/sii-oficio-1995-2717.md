@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Oficio N� 2.990, de 02.10.95 . Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 2�, N� 2, Septiembre 1995 Los ingresos que obtiene una empresa por la prestaci�n de servicios de control diario de veh�culos de transporte de pasajeros, no se encuentran afectos al Impuesto al Valor Agregado (IVA)...Oficio N� 2.817, de 08.09.95 Ley de Impuesto a las Ventas y Servicios. Oficio N� 2717 de 04 de Septiembre de 1995 Procedencia parcial del cr�dito especial del art. 21, del D.L. N� 910, de 1975, en contrato de cons…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2717 de 04 de Septiembre de 1995 Procedencia parcial del cr�dito especial del art. 21, del D.L. N� 910, de 1975, en contrato de construcci�n por suma alzada de un edificio que no se destinar� totalmente a departamentos habitacionales.
 
 ## Referencias detectadas
 

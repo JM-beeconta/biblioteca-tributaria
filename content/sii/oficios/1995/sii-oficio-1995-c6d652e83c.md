@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aspaso del cargo variable que efect�e el concesionario de la construcci�n, mantenci�n y reparaci�n de la obra p�blica denominada...Oficio N� 2.620, de 23.08.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 64�, inciso cuarto, Agosto 1995 En la medida que el Hospital Cl�nico de la Universidad de Chile sea una entidad independiente de dicho plantel universitario, y por consiguiente, se encuentre exento del Impuesto al Valor Agregado...Oficio N� 2.558, de 17.08.95 . Ventas y Servicios - Nuevo Texto Ley I…
+58, de 17.08.95 . Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 8�, letra h), Agosto 1995 De la cesi�n del uso o goce temporal de licencias de programas de computaci�n, para reproducirlos en el extranjero, en relaci�n con el Impuesto al Valor Agregado, y de la posibilidad...Oficio N� 2.490, de 11.08.95
 
 ## Referencias detectadas
 

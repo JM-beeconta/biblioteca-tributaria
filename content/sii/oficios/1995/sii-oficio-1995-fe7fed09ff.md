@@ -11,7 +11,7 @@
 
 ## Resumen
 
-C�digo Tributario para el caso de una recuperaci�n del Impuesto al Valor Agregado (IVA), que se origine con ocasi�n de la devoluci�n de anticipos...Oficio N� 1.132, de 25.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 9�, letra a), Abril 1995 Acerca del momento en que se devenga el Impuesto a Valor Agregado en la prestaci�n de servicios de asistencia funeraria, de acuerdo con lo dispuesto en el Art. 9�, letra a) del D.L N� 825...Oficio N� 1.089, de 19.04.95 Ventas y Servicios - Nuevo Texto Ley Im…
+089, de 19.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 27� bis, Abril 1995 No procede la devoluci�n del remanente del cr�dito fiscal conforme al Art. 27� bis del D.L N� 825, solicitada por el contribuyente a la Tesorer�a General de la Rep�blica, por no tener derecho...Oficio N�. 1.079, de 18.04.95
 
 ## Referencias detectadas
 

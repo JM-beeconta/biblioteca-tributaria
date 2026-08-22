@@ -11,7 +11,7 @@
 
 ## Resumen
 
-opuerto de Mataveri, en Isla de Pascua, las personas que realicen las obras civiles solo podr�n... (Oficio N� 534, de 21.02.95). Ley 18.933 - Arts. 21� y 38�. Febrero 1995 Las cotizaciones de salud con que las instituciones de salud previsional financian las prestaciones de salud no se consideran ingresos tributables en el periodo en que se devengan las remuneraciones... (Oficio N� 488, de 16.02.95). Capacitaci�n y empleo - Estatuto de - Actual texto- Art. 24�. Febrero 1995 Acerca del procedimiento para creditar l…
+e 16.02.95). Capacitaci�n y empleo - Estatuto de - Actual texto- Art. 24�. Febrero 1995 Acerca del procedimiento para creditar las acciones de capacitaci�n impartidas por personas sin domicilio ni residencia en Chile, que se refieren las instrucciones de la direcci�n... (Oficio N� 398, de 07.02.95).
 
 ## Referencias detectadas
 

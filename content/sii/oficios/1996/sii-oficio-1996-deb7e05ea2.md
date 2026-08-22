@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uida como sociedad de responsabilidad limitada, en la cual SERVIU...Oficio N� 656, de 29.02.96 Ley de donaciones con fines educacionales - Art. 1� texto en Art. 3� de la ley 19.247. Marzo 1996 La ley de donaciones con fines educacionales no contempla un procedimiento simplificado para acogerse a los beneficios que establece, debiendo someterse a las normas...Oficio N� 862, de 20.03.96 C�digo del trabajo - Arts. 47�, 48� y 49�. Abril 1996 Para los efectos del pago de las gratificaciones legales a los trabajadores a…
+C�digo del trabajo - Arts. 47�, 48� y 49�. Abril 1996 Para los efectos del pago de las gratificaciones legales a los trabajadores a que se refiere el c�digo del trabajo, la direcci�n nacional del servicio de impuestos internos ha dictaminado...Oficio N� 913, de 26.03.96
 
 ## Referencias detectadas
 

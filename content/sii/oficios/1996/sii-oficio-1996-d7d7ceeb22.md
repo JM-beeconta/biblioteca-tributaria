@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1996
-- Fecha: 1996-01-01
+- Fecha: 1996-02-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/ventas/feb75.htm
 - Hash SHA-256: 625d0ac4c31130ddd5b59737992dadb5feeb41951c075d417b8c119d7e17f84c
 
 ## Resumen
 
-Febrero 1996 Es improcedente la emisi�n de facturas de servicio telef�nico a persona distinta del beneficiario que ha contratado la prestaci�n de telefon�a...Oficio N� 367, de 03.02.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 15�, Febrero 1996 De la aplicaci�n del Impuesto al Valor Agregado a las sumas invertidas por una compa��a minera para financiar la adecuaci�n de las instalaciones de conducci�n de agua por la...Oficio N� 297, del 30.01.96 Ventas y Servicios - Nuevo texto ley impuesto a las -…
+97, del 30.01.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 12�, letra e), N� 2 Febrero 1996 Acerca de la situaci�n tributaria de los gastos en que incurra una agencia de una empresa a�rea extranjera en Chile, por concepto de bodegaje de especies transportadas...Oficio N� 296, de 30.01.96
 
 ## Referencias detectadas
 

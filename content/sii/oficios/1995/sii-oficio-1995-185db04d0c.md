@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-05-17
+- Fecha: 1995-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/renta/may125.htm
 - Hash SHA-256: 4dcce81be3e157157e7bd576977096cc464b3d7b3511a2471252cb71a57f971b
 
 ## Resumen
 
-n del Impuesto Adicional a la Renta a que se refiere el Art. 59� de la Ley de la Renta... (Oficio N� 1.539, de 02.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra a) - Junio 1995 De los efectos tributarios del aumento de capital de una sociedad an�nima cerrada, mediante el incremento del valor nominal de las acciones emitidas originalmente. (Oficio N� 1.391, de 23.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra a), N� 3, Mayo 1995 De la modalidad de imputaci�n de los retiros y…
+e 23.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra a), N� 3, Mayo 1995 De la modalidad de imputaci�n de los retiros y del Impuesto Unico de Segunda Categor�a a las utilidades retenidas en el registro del Fondo de Utilidades Tributables (FUT). (Oficio N� 1.364, de 17.05.95).
 
 ## Referencias detectadas
 

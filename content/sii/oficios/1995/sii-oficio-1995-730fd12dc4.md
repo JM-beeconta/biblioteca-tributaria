@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de los contribuyentes sea necesario para la prosecuci�n de juicios sobre alimentos... (Oficio N� 895, de 29.03.95). Franquicias Tributarias - Ley 19.989 - Art. 16�, Abril 1995 La exenci�n del Impuesto al Valor Agregado que favorece a las operaciones que realice el Fondo de Solidaridad e Inversi�n Social, de acuerdo con lo dispuesto, entre otras franquicias, en el Art.... (Oficio N� 838, de 24.03.95). Franquicias Tributarias - Decreto con Fuerza de Ley N� 2 - Plan Habitacional - Art. 15�- Marzo 1995 Sentido y alcan…
+e 24.03.95). Franquicias Tributarias - Decreto con Fuerza de Ley N� 2 - Plan Habitacional - Art. 15�- Marzo 1995 Sentido y alcance de la exenci�n contemplada en el Art. 15� del Decreto con Fuerza de Ley N� 2, de 1959 sobre Plan Habitacional, en relaci�n a rentas que peri�dicamente produzcan las viviendas... (Oficio N� 774, de 17.03.95).
 
 ## Referencias detectadas
 

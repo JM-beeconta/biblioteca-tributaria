@@ -11,7 +11,7 @@
 
 ## Resumen
 
-xtranjera, por la enajenaci�n de su participaci�n... (Oficio N�1.674, de 16.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�., N� 8, inciso primero letra b); y 18�, Junio 1995 Tratamiento tributario que afecta a la enajenaci�n de sitios urbanizados obtenidos de la subdivisi�n de un predio agr�cola, en relaci�n con el mayor valor resultante en la venta de esos... (Oficio N� 1.627, de 09.06.95). Renta Actual ley sobre Impuesto a la - Art. 74�, N� 2- Junio 1995 Las comunidades no est�n obligadas a efectuar la…
+e 09.06.95). Renta Actual ley sobre Impuesto a la - Art. 74�, N� 2- Junio 1995 Las comunidades no est�n obligadas a efectuar la retenci�n de Impuesto del 10% que ordena practicar el Art. 74�, N� 2, de la Ley de la Renta, recayendo esta obligaci�n... (Oficio N� 1.592, de 08.06.95).
 
 ## Referencias detectadas
 

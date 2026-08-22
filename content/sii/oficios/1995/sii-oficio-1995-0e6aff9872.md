@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del Decreto Ley N� 910, de 1975, en el caso de un edificio que comprende departamentos habitacionales... (Oficio N� 2.717, de 04.09.95). Timbres y Estampillas - Nuevo Texto ley sobre Impuesto de - Art. 1�, N� 1, Agosto 1995 El elemento determinante para que se produzca la aplicaci�n del Impuesto del N� 1 del Art. 1� de la Ley de Timbres y Estampillas, no es... (Oficio N� 2.559, de 17.08.95). C�digo Tributario - Actual texto - Art. 69�, inciso final. Agosto 1995 Aplicaci�n de la exigencia contenida en el inciso fin…
+e 17.08.95). C�digo Tributario - Actual texto - Art. 69�, inciso final. Agosto 1995 Aplicaci�n de la exigencia contenida en el inciso final del Art. 69� del C�digo tributario a un inversionista extranjero acogido al D.L. N� 600, que act�a en Chile a trav�s de un establecimiento permanente... (Oficio N� 2.557, de 17.08.95).
 
 ## Referencias detectadas
 

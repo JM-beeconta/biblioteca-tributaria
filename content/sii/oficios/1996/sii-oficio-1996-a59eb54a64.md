@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ere la franquicia de suspensi�n de los impuestos global complementario. (Oficio N� 2.106, de 29.07.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8� letra i) Agosto 1996 Acerca de la situaci�n tributaria del aporte de cuotas de derechos sobre un bien ra�z urbano pose�do en comunidad para concurrir a la constituci�n de una sociedad an�nima cerrada... (Oficio N� 2.074, de 24.07.96). Renta - Actual ley sobre impuesto a la - Art. 14�, P�rrafo A, N� 1� letras a) y c) Julio 1996 Situaci�n tributaria de la ca…
+e 24.07.96). Renta - Actual ley sobre impuesto a la - Art. 14�, P�rrafo A, N� 1� letras a) y c) Julio 1996 Situaci�n tributaria de la capitalizaci�n de utilidades en una sociedad de personas que las generas y del aporte de un porcentaje de las utilidades acumuladas para la formaci�n. (Oficio N� 2.023, de 17.07.96).
 
 ## Referencias detectadas
 

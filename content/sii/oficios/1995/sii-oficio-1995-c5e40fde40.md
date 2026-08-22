@@ -11,7 +11,7 @@
 
 ## Resumen
 
-que se refiere el Art. 18� de la Ley de la Renta, respecto de bienes... (Oficio N� 3.331, de 07.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9 , Noviembre 1995 Los desembolsos en que incurra una empresa minera en la construcci�n de un camino en terreno ajeno, sobre la cual goza de una servidumbre de tr�nsito, con el objeto de permitir el desarrollo... (Oficio N� 3.274, de 32.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 41� B Octubre 1995 De los documentos necesarios para acreditar las ven…
+e 32.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 41� B Octubre 1995 De los documentos necesarios para acreditar las ventas de acciones emitidas por empresas extranjeras que representan inversiones en el exterior para los efectos de la repatriaci�n del capital invertido... (Oficio N� 3.180, de 23.10.95).
 
 ## Referencias detectadas
 

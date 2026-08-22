@@ -11,7 +11,7 @@
 
 ## Resumen
 
-igo tributario, en el caso de la enajenaci�n o aporte de acciones de una sociedad an�nima... (Oficio N� 2.332, de 07.08.95). Ley de Donaciones con fines Educacionales - Art. 1�, letra a), Agosto 1995 De la instituci�n que debe emitir el certificado que acredita las donaciones recibidas al amparo del Art. 3� de la Ley 19.247, de 1993, que estableci� el texto de la Ley... (Oficio N� 2.265, de 01.08.95). C�digo Tributario - Actual texto - Arts. 126� y 128�, Agosto 1995 Cuando se ha aumentado indebidamente el d�bito f…
+e 01.08.95). C�digo Tributario - Actual texto - Arts. 126� y 128�, Agosto 1995 Cuando se ha aumentado indebidamente el d�bito fiscal en una declaraci�n del Impuesto al Valor Agregado, al considerar como afecta una venta exenta o no gravada... (Oficio N� 2.237, de 28.07.95).
 
 ## Referencias detectadas
 

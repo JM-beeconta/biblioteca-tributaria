@@ -11,7 +11,7 @@
 
 ## Resumen
 
-un bien ra�z por parte de la empresa beneficiaria de esos servicios profesionales... Oficio N� 514, de 16.02.96 Renta - Actual ley sobre impuesto a la - Art. 21�, inciso tercero. Febrero 1996 Aplicaci�n de la presunci�n de retiro contemplada en la ley 19.398, de 1995, en cuanto modific� el Art. 21� de la ley de la renta, respecto de un autom�vil adquirido por una... Oficio N� 465, de 13.02.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N� 5. Febrero 1996 Para los efectos de la despreciaci�n de los bienes de…
+de 13.02.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N� 5. Febrero 1996 Para los efectos de la despreciaci�n de los bienes del Activo fijo o inmovilizado, el Art. 31� N� 5, de la ley de la renta s�lo contempla dos sistemas, esto es, mediante el r�gimen... Oficio N� 408, de 08.02.96
 
 ## Referencias detectadas
 

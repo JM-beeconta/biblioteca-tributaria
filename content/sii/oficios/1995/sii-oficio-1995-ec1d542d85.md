@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nde no s�lo la entrega de la especie generadora de energ�a, la electricidad, sino adem�s los servicios indispensables para hacer efectiva esa entrega...Oficio N� 542, de 22.02.95 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las - Art. 2�, N� 2, Marzo 1995 Los servicios de salud dental prestados por una sociedad an�nima, mediante la contrataci�n de odont�logos a los cuales se les entrega en arrendamiento el espacio donde prestan los servicios...Oficio N� 541, de 22.02.95 Ventas y Servicios - Nuevo texto ley I…
+541, de 22.02.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 23�, N� 3- Febrero 1995 De la proporcionalizaci�n del cr�dito fiscal de utilizaci�n com�n cuando se realizan ventas afectas al Impuesto al Valor Agregado, exentas o no gravadas por el mismo...Oficio N� 427, de 10.02.95
 
 ## Referencias detectadas
 

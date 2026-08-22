@@ -11,7 +11,7 @@
 
 ## Resumen
 
-92, fij� el sentido y alcance del Art. 9� de la ley 18.337 en relaci�n con las leyes... (Oficio N� 2.541, de 16.08.95). Ley 18.985 - Art. 5� Transitorio - Normas sobre Reforma Tributaria. Agosto 1995 Sentido y alcance de las normas contenidas en el Art. 64� del C�digo Tributario, relativas a la facultad de tasar que compete al Servicio de Impuestos Internos.... (Oficio N� 2.485, de 11.08.95). C�digo Tributario - Actual texto - Art. 64�, Agosto 1995 Sentido y alcance de las normas sobre tasaci�n a que se refiere el…
+e 11.08.95). C�digo Tributario - Actual texto - Art. 64�, Agosto 1995 Sentido y alcance de las normas sobre tasaci�n a que se refiere el Art. 64� del C�digo tributario, en el caso de la enajenaci�n o aporte de acciones de una sociedad an�nima... (Oficio N� 2.332, de 07.08.95).
 
 ## Referencias detectadas
 

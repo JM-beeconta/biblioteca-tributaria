@@ -11,7 +11,7 @@
 
 ## Resumen
 
-onsideran ingresos tributables en el periodo en que se devengan las remuneraciones... (Oficio N� 488, de 16.02.95). Capacitaci�n y empleo - Estatuto de - Actual texto- Art. 24�. Febrero 1995 Acerca del procedimiento para creditar las acciones de capacitaci�n impartidas por personas sin domicilio ni residencia en Chile, que se refieren las instrucciones de la direcci�n... (Oficio N� 398, de 07.02.95). Ley 19.030 - Art. 6� - Marzo 1995 En lo que se refiere al Impuesto Espec�fico establecido en el Art. 6� de la Ley 1…
+e 07.02.95). Ley 19.030 - Art. 6� - Marzo 1995 En lo que se refiere al Impuesto Espec�fico establecido en el Art. 6� de la Ley 19.030, en 1991, que crea el Fondo de Estabilizaci�n de Precios del Petr�leo, que grava a la importaci�n de gas licuado... (Oficio N� 281, de 27.01.95).
 
 ## Referencias detectadas
 

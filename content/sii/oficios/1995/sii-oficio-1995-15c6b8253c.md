@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-01-01
+- Fecha: 1995-12-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/renta/dic105.htm
 - Hash SHA-256: e616eee380c9830fcb4cffa83d1c2ff22e75a0a1cf95117eb83a04014b21bb15
 
 ## Resumen
 
-y/o enajenaci�n de acciones, o cuando tales operaciones aparezcan como uno de los objetos... (Oficio N� 3.653, de 05.12.95). Renta - Actual Ley sobre Impuesto a la - Art. 90�, Diciembre 1995 Acerca del mecanismo de suspensi�n de los Pagos Provisionales Mensuales Obligatorios que opera en beneficio de los contribuyentes de la Primera Categor�a que en un a�o comercial... (Oficio N� 3.558, de 27.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 3 Diciembre 1995 De la tributaci�n que afecta - en relaci�n a…
+e 27.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 3 Diciembre 1995 De la tributaci�n que afecta - en relaci�n a la Ley de la Renta e Impuesto al Valor Agregado - a las primas de seguros o cuotas de �stas, que se paguen o remesen al... (Oficio N� 3.511, de 23.11.95).
 
 ## Referencias detectadas
 

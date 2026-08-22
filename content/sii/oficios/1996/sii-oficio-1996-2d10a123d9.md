@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eben tributar los contribuyentes que posean o exploten bienes ra�ces agr�colas, se encuentran establecidas en el Art. 20�, N� 1... Oficio N� 612, de 23.02.96. Renta - Actual ley sobre impuesto a la - Art. 34� bis. Marzo 1996 Tratamiento tributario de un contribuyente que desarrolla la actividad de transporte de carga ajena en los mismos veh�culos y en forma simult�nea... Oficio N� 611, de 23.02.96 Renta - Actual ley sobre impuesto a la - Art. 42�, N�2. Febrero 1996 Tratamiento tributario de los honorarios profesio…
+611, de 23.02.96 Renta - Actual ley sobre impuesto a la - Art. 42�, N�2. Febrero 1996 Tratamiento tributario de los honorarios profesionales que ser�n cancelados con la daci�n en pago de un bien ra�z por parte de la empresa beneficiaria de esos servicios profesionales... Oficio N� 514, de 16.02.96
 
 ## Referencias detectadas
 

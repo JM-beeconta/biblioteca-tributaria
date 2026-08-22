@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l se desea compensar el impuesto al valor agregado cancelado en exceso en determinados meses...Oficio N� 2.300, de 20.08.96 Franquicias regionales - Ley 19.420 - Arts. 1� al 18�. Agosto 1996 De la confesi�n de un formulario de consulta tipo para los contribuyentes que deseen conocer con anticipaci�n la calificaci�n de un proyecto de inversi�n, en relaci�n con el cr�dito tributario... Franquicias tributarias - Ley 18.566 - Art. 8�. Agosto 1996 Acerca de la situaci�n tributaria de la cotizaci�n adicional de salud qu…
+Franquicias tributarias - Ley 18.566 - Art. 8�. Agosto 1996 Acerca de la situaci�n tributaria de la cotizaci�n adicional de salud que establece el Art. 8�. de la ley 18.566 , de 1986, que los empleadores del sector privado efect�en en favor de sus trabajadores...Oficio N� 2.108, de 30.07.96
 
 ## Referencias detectadas
 

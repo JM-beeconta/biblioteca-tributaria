@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n a los contribuyentes no sometidos a las disposiciones sobre Correcci�n Monetaria... (Oficio N� 2.054, de 11.07.95). Renta - Actual Ley sobre Impuesto a la - Art. 58�, N� 1, Julio 1995 De la situaci�n tributaria de remesas efectuadas al exterior por inversionista extranjero acogido al D.L N� 600, sobre Estatuto de la Inversi�n Extranjera, producto de la enajenaci�n... (Oficio N� 2.053, de 11.07.95). Renta - Actual Ley sobre Impuesto a la - Arts. 17�, N� 8, letra a) y 18�. Julio 1995 Acerca de la valorizaci�n de a…
+e 11.07.95). Renta - Actual Ley sobre Impuesto a la - Arts. 17�, N� 8, letra a) y 18�. Julio 1995 Acerca de la valorizaci�n de acciones de sociedades an�nimas chilenas canjeadas por ADRs (American Depositary Receipt), considerando a las modificaciones introducidas al cap�tulo XXVI... (Oficio N� 1.969, de 03.07.95).
 
 ## Referencias detectadas
 

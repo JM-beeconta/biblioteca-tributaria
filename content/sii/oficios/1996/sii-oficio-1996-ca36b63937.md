@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el t�rmino "construcci�n" a que se refiere la parte final... (Oficio N� 2.631, de 20.09.96). Renta - Actual ley sobre impuesto a la - Art. 57� bis, Septiembre 1996 De la forma en que deben acreditarse los traspasos de acciones de primera emisi�n, efectuados por un corredor de bolsa al cliente o por este a aqu�l, para no ser considerados como compras y ventas... (Oficio N� 2.630, de 20.09.96) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 letra b) y 18�. Septiembre 1996 De la tributaci�n que afecta a la e…
+de 20.09.96) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 letra b) y 18�. Septiembre 1996 De la tributaci�n que afecta a la enajenaci�n de un bien ra�z agr�cola perteneciente a una sociedad, cuya �nica renta obtenida es el ingreso percibido por el arrendamiento de ese bien... (Oficio N� 2.629, de 20.09.96)
 
 ## Referencias detectadas
 

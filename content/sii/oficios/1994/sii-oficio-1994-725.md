@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t> Ley no. 16.744 - sobre accidentes del trabajo y enfermedades profesionales, Marzo 1994 Mutualidades de empleadores - constituidas seg�n Ley no. 16.744 - naturaleza jur�dica - seguro contra riesgos de accidentes del trabajo y enfermedades profesionales - administraci�n del seguro - donaciones - mutualidad como donataria - cotizaciones pagadas por empleadores adheridos a... (Of. N�. 1.048, DE 16.03.94). Ley de Impuesto Timbres y Estampillas. Art�culo 124, N�11. Exenci�n del Impuesto de Timbres y Estampillas para…
+E 16.03.94). Ley de Impuesto Timbres y Estampillas. Art�culo 124, N�11. Exenci�n del Impuesto de Timbres y Estampillas para los documentos en que constan cr�ditos otorgados para financiar operaciones de exportaci�n, no es aplicable para documentos que indica. (Oficio 725 de 17 de febrero de 1994).
 
 ## Referencias detectadas
 

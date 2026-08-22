@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"0" width="630"> A�os Anteriores OTRAS 1995 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Timbres y Estampillas - Nuevo texto Ley Impuesto de - Art. 24�. N� 1, Diciembre 1995 El documento que acredita un pr�stamo otorgado por el Banco Internacional de Reconstrucci�n y Fomento de la Empresa de Obras Sanitarias de Valpara�so, se encuentra exento de... (Oficio N� 3.780, de 15.12.95). Franquicias tributarias - Ley 18.566 - Art. 8�, inciso tercer…
+Timbres y Estampillas - Nuevo texto Ley Impuesto de - Art. 24�. N� 1, Diciembre 1995 El documento que acredita un pr�stamo otorgado por el Banco Internacional de Reconstrucci�n y Fomento de la Empresa de Obras Sanitarias de Valpara�so, se encuentra exento de... (Oficio N� 3.780, de 15.12.95).
 
 ## Referencias detectadas
 

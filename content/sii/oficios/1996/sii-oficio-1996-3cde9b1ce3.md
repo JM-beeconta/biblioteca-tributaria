@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tentes en el pago de una suma de dinero como sanci�n pecuniaria por falsa alarma a unidades policiales, de parte de los usuarios del sistema de seguridad...Oficio N� 3.004, de 25.10.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 17�. Noviembre 1996 Incidencia del impuesto al valor agregado en el arrendamiento con opci�n de compre de inmuebles amoblados o de inmuebles con instalaciones o maquinarias que permitan...Oficio N� 3.003, de 25.10.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art.…
+003, de 25.10.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 27� bis. Noviembre 1996 Acerca de la recuperaci�n del remanente corretaje mar�timo, el encargo encomendado a los corredores mar�timos para obtener - o colocar - transporte de carga desde o hacia Chile. Oficio N� 2.989, de 24.10.96
 
 ## Referencias detectadas
 

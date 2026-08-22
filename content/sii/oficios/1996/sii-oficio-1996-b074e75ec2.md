@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l impuesto al valor agregado en el transporte de turistas en viajes de recreaci�n por r�os navegables de nuestro pa�s, que realiza una empresa de transporte dedicada...Oficio N� 1.530, de 24.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2�, N� 2. Mayo 1996 Un mandato para realizar ciertos tr�mites administrativos, cuando la naturaleza de los asuntos encomendados no es comercial, no se encuentra gravado con el Impuesto al Valor...Oficio N� 1.472, de 16.05.96 Ventas y Servicios - Nuevo texto ley i…
+472, de 16.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 23�. Mayo 1996 De la utilizaci�n de cr�dito fiscal del impuesto al valor agregado generado por facturas emitidas con RUT err�neo en la situaci�n que se indica...Oficio N� 1.471, de 16.05.96
 
 ## Referencias detectadas
 

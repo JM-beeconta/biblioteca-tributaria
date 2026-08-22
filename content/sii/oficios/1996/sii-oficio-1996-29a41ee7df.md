@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto al valor agregado a la venta de una planta industrial recibida en pago de deudas por una instituci�n bancaria...Oficio N� 2.567, de 09.09.96 C�digo civil - Arts. 1.702� y 1703�, Octubre 1996 De los documentos privados - emitidos en Chile - que son v�lidos para acreditar la cesi�n o venta de acciones de empresas extranjeras que se realice en el pa�s. Oficio N� 2.753, de 03.10.96 C�digo de comercio - Art. 602�, Octubre 1996 De la incidencia del impuesto de timbres y estampillas en el contrato de cuenta corrie…
+C�digo de comercio - Art. 602�, Octubre 1996 De la incidencia del impuesto de timbres y estampillas en el contrato de cuenta corriente mercantil celebrado por escrito. Oficio N� 2.788, de 08.10.96
 
 ## Referencias detectadas
 

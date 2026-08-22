@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1995 R�gimen tributario aplicable a la concesi�n por licitaci�n para la construcci�n, mantenci�n y reparaci�n de la obra p�blica denominada "Acceso Vial Aeropuerto Arturo Merino Ben�tez"...Oficio N� 2.058, de 12.07.95. Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 27� bis , Agosto 1995 Acerca del procedimiento de reintegro en arcas fiscales de las cantidades obtenidas por los contribuyentes en caso de reembolso excesivo o improcedente...Oficio N� 2.221, de 27.07.95 Ventas y Servicios - Nuevo Texto Ley…
+221, de 27.07.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 9�, letra f), Agosto 1995 Tributaci�n aplicable a la concesi�n para la construcci�n, conservaci�n y explotaci�n de la Obra P�blica Vial denominada "Ruta 5 tramo Talca-Chill�n", en relaci�n con el Impuesto al Valor Agregado...Oficio N� 2.201, de 26.07.95
 
 ## Referencias detectadas
 

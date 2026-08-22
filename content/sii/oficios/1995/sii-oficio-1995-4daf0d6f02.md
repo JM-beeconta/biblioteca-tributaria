@@ -11,7 +11,7 @@
 
 ## Resumen
 
-efect�en inversiones en dichos Fondos, pueden acogerse al mecanismos de incentivo al ahorro que contempla... (Oficio N� 1.771, de 23.06.95). Rentas Municipales - Actual Ley sobre - Art. 47�. Junio 1995 Las cantidades que las instituciones a que se refiere el Art. 47� del D.L N� 3.063, sobre Rentas Municipales, reciban por concepto de donaciones, s�lo podr�n... (Oficio N� 1.682, de 16.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�, N� 8 inciso primero, letra a), e incisos segundo y tercero Junio 1995. De l…
+e 16.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�, N� 8 inciso primero, letra a), e incisos segundo y tercero Junio 1995. De la tributaci�n que afecta a un inversionista extranjero acogido a las normas del Decreto Ley N� 600, Estatuto de la Inversi�n Extranjera, por la enajenaci�n de su participaci�n... (Oficio N�1.674, de 16.06.95).
 
 ## Referencias detectadas
 

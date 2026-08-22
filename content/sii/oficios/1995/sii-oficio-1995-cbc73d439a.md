@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Diab�ticos de Chile, siempre que consistan en la prestaci�n exclusiva de servicios m�dicos... (Oficio N� 3.146, de 18.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 3, Octubre 1995 De la aplicaci�n del Impuesto al Valor Agregado a los servicios de preparaci�n de planes de producci�n minera, los cuales implican procesamiento de la informaci�n... (Oficio N� 3.052, de 09.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 4 inciso final, Octubre 1995 Inaplicabilidad del Impuesto Adicional est…
+e 09.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 4 inciso final, Octubre 1995 Inaplicabilidad del Impuesto Adicional establecido en el Art. 59�, N� 4, de la Ley de la Renta, a las utilidades de las empresas navieras de la Rep�blica Federal de Alemania. (Oficio N� 3.012, de 04.10.95).
 
 ## Referencias detectadas
 

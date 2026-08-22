@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1994
-- Fecha: 1994-04-12
+- Fecha: 1994-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1994/renta/mar5.htm
 - Hash SHA-256: ae9715dcf19e5d549cae760e6830adb4f0864efbac4acd52abfdc93e46377217
 
 ## Resumen
 
-- Obligaciones y derechos de orden tributario - Rentas del art. 20, no. 5, Ley de la Renta. (Oficio N�. 1.723, DE 29.04.94) Renta-Ley sobre Impuesto a la � Decretos N� 266 y N� 584, de 1970, N� 631 de 1954 y N� 794 de 1978. Solicita informaci�n sobre forma correcta de declarar ingresos por consultor�as a organismos internacionales. (Ord. N� 1470 de 12.04.1994) Ley Renta, art. 20, no. 5.-, Marzo 1994 Comunidad agr�cola - predio agr�cola de su propiedad - imposibilidad de explotaci�n - da�o patrimonial - fallo judic…
+Ley Renta, art. 20, no. 5.-, Marzo 1994 Comunidad agr�cola - predio agr�cola de su propiedad - imposibilidad de explotaci�n - da�o patrimonial - fallo judicial - indemnizaci�n de perjuicios - lucro cesante - intereses corrientes - renta clasificada en el art. 20, no. 5, Ley de la Renta. (Oficio N� 1.206, DE 28.03.94).
 
 ## Referencias detectadas
 

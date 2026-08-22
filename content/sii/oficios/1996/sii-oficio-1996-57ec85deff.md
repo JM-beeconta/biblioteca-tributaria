@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1996
-- Fecha: 1996-08-19
+- Fecha: 1996-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/renta/ago121.htm
 - Hash SHA-256: 04e627e43e8669f6de4c91c48c5ee3199a3a3fdc6ccd43bc0e66747fb919097d
 
 ## Resumen
 
-a relacionada. (Oficio N� 2292 de 19 de Agosto de 1996). Renta - Actual ley sobre impuesto a la - Art. 59�, inciso cuarto, N� 2. Agosto 1996 Las cantidades remesadas al exterior por una empresa nacional difusora de televisi�n por cable a empresas extranjeras, sin domicilio ni residencia en Chile, por servicios de emisi�n de se�al de sat�lite... (Oficio N� 2.281, de 16.08.96). Rentas municipales - Actual ley sobre - Art. 47�. Agosto 1996 De los requisitos que las instituciones donatarias deben cumplir para que las…
+e 16.08.96). Rentas municipales - Actual ley sobre - Art. 47�. Agosto 1996 De los requisitos que las instituciones donatarias deben cumplir para que las donaciones que reciban surtan los efectos tributarios respecto de los donantes, en relaci�n con lo establecido... (Oficio N� 2.254, de 13.08.96).
 
 ## Referencias detectadas
 

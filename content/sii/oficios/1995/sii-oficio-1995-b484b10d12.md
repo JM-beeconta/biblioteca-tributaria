@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en por las normas del Art. 36� del D.L N� 825, s�lo respecto de sus exportaciones, y en cuanto a las dem�s operaciones deben aplicarse las disposiciones comunes...Oficio N� 2.654, de 28.08.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 8�, letra i), Septiembre 1995 Tratamiento tributario aplicable al traspaso del cargo variable que efect�e el concesionario de la construcci�n, mantenci�n y reparaci�n de la obra p�blica denominada...Oficio N� 2.620, de 23.08.95 Ventas y Servicios - Nuevo Texto Ley Imp…
+620, de 23.08.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 64�, inciso cuarto, Agosto 1995 En la medida que el Hospital Cl�nico de la Universidad de Chile sea una entidad independiente de dicho plantel universitario, y por consiguiente, se encuentre exento del Impuesto al Valor Agregado...Oficio N� 2.558, de 17.08.95 .
 
 ## Referencias detectadas
 

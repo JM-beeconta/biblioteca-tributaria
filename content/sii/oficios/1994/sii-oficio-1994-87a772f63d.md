@@ -11,7 +11,7 @@
 
 ## Resumen
 
-efectiva seg�n contabilidad completa, y dicha adquisici�n... (Oficio N�666, de 07.03.95). Franquicias Tributarias - Decreto con Fuerza de Ley N� 1.244 - Art. 4�- Marzo 1995 La presentaci�n de servicios de transporte mar�timo entre Valpara�so e Isla de Pascua que realice una empresa naviera, domiciliada o residente en dicha Isla, se encuentra favorecida con la excepci�n... (Oficio N� 633, de 02.03.95). Decreto Ley N� 3500 - Arts. 17�, 20� y 69� (Nuevo Sistema de Pensiones)- Marzo 1995 Las cotizaciones adicionales q…
+e 02.03.95). Decreto Ley N� 3500 - Arts. 17�, 20� y 69� (Nuevo Sistema de Pensiones)- Marzo 1995 Las cotizaciones adicionales que los afiliados a que se refiere el inciso1� del Art.69� del D.L N� 3500, se obliguen a efectuar de acuerdo con la opci�n libre que ejerzan en virtud... (Oficio N� 617, de 28.02.95).
 
 ## Referencias detectadas
 

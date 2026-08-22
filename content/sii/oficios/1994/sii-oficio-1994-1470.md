@@ -11,7 +11,7 @@
 
 ## Resumen
 
-DE 09.05.94). C�digo civil, art. 1.916. - Ley Renta, art. no. 20, no. 5; 21.- ctrib., art. 64, inciso tercero., Abril 1994 Sociedades de personas - Socios - Derechos sociales - Arrendamiento a otro socio de las mismas entidades - Arrendador - Arrendatario - Obligaciones y derechos de orden tributario - Rentas del art. 20, no. 5, Ley de la Renta. (Oficio N�. 1.723, DE 29.04.94) Renta-Ley sobre Impuesto a la � Decretos N� 266 y N� 584, de 1970, N� 631 de 1954 y N� 794 de 1978. Solicita informaci�n sobre forma correc…
+Renta-Ley sobre Impuesto a la � Decretos N� 266 y N� 584, de 1970, N� 631 de 1954 y N� 794 de 1978. Solicita informaci�n sobre forma correcta de declarar ingresos por consultor�as a organismos internacionales. (Ord. N� 1470 de 12.04.1994)
 
 ## Referencias detectadas
 

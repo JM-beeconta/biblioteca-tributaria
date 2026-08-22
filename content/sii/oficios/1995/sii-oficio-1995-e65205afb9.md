@@ -11,7 +11,7 @@
 
 ## Resumen
 
-alidad de imputaci�n de los retiros y del Impuesto Unico de Segunda Categor�a a las utilidades retenidas en el registro del Fondo de Utilidades Tributables (FUT). (Oficio N� 1.364, de 17.05.95). Ley sobre Impuesto a la Renta - Arts. 3, 10, 52 y 60 LIR (Ord. N�1363, de 17.05.1995) Tributaci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 1363 de 17-05-1995). Renta - Actual Ley sobre Impuesto a la - Art. 34� bis N� 2, Mayo 1995 Las empresas que exploten veh�culos motorizados en el t…
+17-05-1995). Renta - Actual Ley sobre Impuesto a la - Art. 34� bis N� 2, Mayo 1995 Las empresas que exploten veh�culos motorizados en el transporte terrestre de pasajeros que - con anterioridad a la Ley 18.985, de 1990, sobre Reforma Tributaria hubieren optado por acogerse... (Oficio N� 1.289, de 10.05.95).
 
 ## Referencias detectadas
 

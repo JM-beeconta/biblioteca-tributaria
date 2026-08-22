@@ -11,7 +11,7 @@
 
 ## Resumen
 
-un r�gimen aduanero especial, para los efectos de acogerse a los beneficios contemplados en el...Oficio N� 1.344, de 29.04.96 Ley 19.420 - Arts. 1� al 9�. Mayo 1996 Sentido y alcance de los conceptos "veh�culos motorizados" y "bienes nuevos" a que se refiere la ley 19.420, de 1995, que establece incentivos para el desarrollo econ�mico de las provincias...Oficio N� 1.355, de 02.05.96 Ley 19.420 - Arts. 1� al 18�. Mayo 1996 Conceptualizaci�n o definici�n de empresas productoras de bienes y de empresas prestadoras de…
+Ley 19.420 - Arts. 1� al 18�. Mayo 1996 Conceptualizaci�n o definici�n de empresas productoras de bienes y de empresas prestadoras de servicios y precisi�n de los conceptos de remodelaci�n y mejoras, a que se refiere...Oficio N� 1.356, de 02.05.96
 
 ## Referencias detectadas
 

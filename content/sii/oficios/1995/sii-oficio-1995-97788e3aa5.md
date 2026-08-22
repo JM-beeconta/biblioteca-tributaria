@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ispuesto, entre otras franquicias, en el Art.... (Oficio N� 838, de 24.03.95). Franquicias Tributarias - Decreto con Fuerza de Ley N� 2 - Plan Habitacional - Art. 15�- Marzo 1995 Sentido y alcance de la exenci�n contemplada en el Art. 15� del Decreto con Fuerza de Ley N� 2, de 1959 sobre Plan Habitacional, en relaci�n a rentas que peri�dicamente produzcan las viviendas... (Oficio N� 774, de 17.03.95). Ley 18.985 - Art. 3� permanente, inciso sexto - Sobre Reforma Tributaria, Marzo 1995 A los contribuyentes que adqu…
+e 17.03.95). Ley 18.985 - Art. 3� permanente, inciso sexto - Sobre Reforma Tributaria, Marzo 1995 A los contribuyentes que adquieran la totalidad o parte de un predio agr�cola a contribuyentes obligados a operar bajo el r�gimen de renta efectiva seg�n contabilidad completa, y dicha adquisici�n... (Oficio N�666, de 07.03.95).
 
 ## Referencias detectadas
 

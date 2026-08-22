@@ -11,7 +11,7 @@
 
 ## Resumen
 
-alificadas de donatarios h�biles para los fines de los beneficios...Oficio Circular N� 2.621, de 16.09.96 Ley 19.396 - Nuevo tratamiento obligaci�n subordinada - Art. 21�. Septiembre 1996 Acerca del tratamiento tributario de las sumas entregadas al banco central de chile en pago de la obligaci�n subordinada de determinados bancos comerciales, que se derivan...Oficio N� 2.417, 30.08.96 Ley 19.418 - Sobre juntas de vecinos y dem�s organizaciones comunitarias - Art. 28�, Septiembre 1996 Incidencia del impuesto al val…
+Ley 19.418 - Sobre juntas de vecinos y dem�s organizaciones comunitarias - Art. 28�, Septiembre 1996 Incidencia del impuesto al valor agregado en el suministro de agua potable que hagan a sus miembros los comit�s rurales constituidos como organizaciones comunitarias...Oficio N� 2.413, de 30.08.96
 
 ## Referencias detectadas
 

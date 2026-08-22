@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del N� del Art. 17� de la Ley de la Renta, efectuadas por los accionistas... (Oficio N� 3.408, de 14.11.95). Renta - Actual Ley sobre Impuesto a la - Art.17�, N� 8, letra b) y 18�, Noviembre 1995 De la fecha de adquisici�n de los bienes de una herencia. Situaci�n de habitualidad a que se refiere el Art. 18� de la Ley de la Renta, respecto de bienes... (Oficio N� 3.331, de 07.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9 , Noviembre 1995 Los desembolsos en que incurra una empresa minera en la cons…
+e 07.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9 , Noviembre 1995 Los desembolsos en que incurra una empresa minera en la construcci�n de un camino en terreno ajeno, sobre la cual goza de una servidumbre de tr�nsito, con el objeto de permitir el desarrollo... (Oficio N� 3.274, de 32.10.95).
 
 ## Referencias detectadas
 

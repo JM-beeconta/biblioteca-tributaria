@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rada de aval, ya sea individualmente considerada como actividad o como comisiones que corresponden a avales o fianza otorgados por Instituciones...Oficio N� 1.042, de 12.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Arts. 42� y 43�, Abril 1995 De la determinaci�n del cr�dito fiscal del Impuesto adicional a las bebidas alcoh�licas, analcoh�licas y productos similares respecto de una empresa distribuidora de bebidas que realiza ventas...Oficio N� 935, de 31.03.95 Ventas y Servicios - Nuevo Texto Ley Im…
+935, de 31.03.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 8�, letra e), Abril 1995 Tratamiento Tributario aplicable a las concesiones de las obras p�blicas denominadas "Terminales de Pasajeros y de Carga Aeropuerto Diego Aracena de Iquique" y "Terminal de Pasajeros Aeropuerto. Oficio N� 898, de 29.03.95
 
 ## Referencias detectadas
 

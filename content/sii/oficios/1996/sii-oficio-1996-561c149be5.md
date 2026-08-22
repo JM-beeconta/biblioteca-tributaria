@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pasajeros en el extranjero, v�a terrestre, que realice... (Oficio N� 2.763, de 04.10.96) Renta - Actual ley sobre impuesto a la - Art. 59 inciso cuarto N�1, letra d). Octubre 1996 De la situaci�n tributaria de los intereses provenientes de bonos emitidos por una agencia en el exterior, en moneda extranjera cuya casa matriz tiene domicilio y residencia en chile. (Oficio N� 2.762, de 04.10.96) Renta - Actual ley sobre impuesto a la - Arts. 20�, N� 2, letra c) y 33�, N� 2 letra a), Octubre 1996 De los dividendos que…
+de 04.10.96) Renta - Actual ley sobre impuesto a la - Arts. 20�, N� 2, letra c) y 33�, N� 2 letra a), Octubre 1996 De los dividendos que empresas chilenas reciben del extranjero, producto del dominio, posesi�n o tenencia, a cualquier titulo, de acciones de sociedades an�nimas extranjera... (Oficio N� 2.734, de 02.10.96).
 
 ## Referencias detectadas
 

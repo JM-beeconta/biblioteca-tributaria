@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a las primas de seguros o cuotas de �stas, que se paguen o remesen al... (Oficio N� 3.511, de 23.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 11 , Noviembre 1995 Los gastos o desembolsos incurridos por una empresa en la realizaci�n del estudio de factibilidad de un proyecto tur�stico, si ese estudio no persigue la obtenci�n de un conocimiento nuevo... (Oficio N� 3.489, de 22.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 17� y N� 23 , Noviembre 1995 De los requisitos copulativos que deben c…
+e 22.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 17� y N� 23 , Noviembre 1995 De los requisitos copulativos que deben cumplir los premios o galardones a que se refiere el N� 23 del Art. 17� de la Ley sobre Impuesto a la Renta... (Oficio N� 3.476, de 21.11.95).
 
 ## Referencias detectadas
 

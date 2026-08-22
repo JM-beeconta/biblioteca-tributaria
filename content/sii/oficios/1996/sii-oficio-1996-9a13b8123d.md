@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e presta servicios de apoyo cl�nico a pacientes que est�n internados en cl�nicas o en su domicilio particular. Oficio N� 3.438, de 10.12.96 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 8� letra m). Diciembre 1996 De la tributaci�n aplicable a la venta de veh�culos motorizados efectuada por comerciantes cuyo giro sea el arrendamiento de autom�viles, que han tenido derecho al cr�dito fiscal por su adquisici�n...Oficio N� 3.294, de 26.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 12�,…
+de 26.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 12�, letra E), N� 1 letra c). Noviembre 1996 La exenci�n del impuesto al valor agregado contemplada en el Art. 12�, letra E), N� 1, letra c) del D.L N� 825, de 1974, no favorece a las organizaciones comunitarias, en raz�n de no reunir...Oficio N� 3.154, DE 12.11.96
 
 ## Referencias detectadas
 

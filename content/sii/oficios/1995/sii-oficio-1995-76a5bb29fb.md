@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el Aeropuerto Arturo Merino Ben�tez, de Santiago, en relaci�n con el Impuesto... ( Oficio N� 897, de 29.03.95). C�digo Tributario - Actual Texto - Art. 35�, Abril 1995 En aquellos casos en que la informaci�n o el examen de las declaraciones obligatorias de los contribuyentes sea necesario para la prosecuci�n de juicios sobre alimentos... (Oficio N� 895, de 29.03.95). Franquicias Tributarias - Ley 19.989 - Art. 16�, Abril 1995 La exenci�n del Impuesto al Valor Agregado que favorece a las operaciones que realice el…
+e 29.03.95). Franquicias Tributarias - Ley 19.989 - Art. 16�, Abril 1995 La exenci�n del Impuesto al Valor Agregado que favorece a las operaciones que realice el Fondo de Solidaridad e Inversi�n Social, de acuerdo con lo dispuesto, entre otras franquicias, en el Art.... (Oficio N� 838, de 24.03.95).
 
 ## Referencias detectadas
 

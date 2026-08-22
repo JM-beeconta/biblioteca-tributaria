@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mostrar() A�os Anteriores LEY DE IMPUESTO A LA RENTA 1994 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Actual ley sobre Impuesto a la Renta - art. 59, inciso cuarto, no. 3, inciso final, Diciembre 1994 Compa��as de seguros extranjeras, sin domicilio ni residencia en chile - Pesca extractiva - Seguros de cascos y maquinas de naves, fletes, desembolsos y otros - Pagos o remesas por primas de seguros - Expresi�n "actividad naviera" en…
+Actual ley sobre Impuesto a la Renta - art. 59, inciso cuarto, no. 3, inciso final, Diciembre 1994 Compa��as de seguros extranjeras, sin domicilio ni residencia en chile - Pesca extractiva - Seguros de cascos y maquinas de naves, fletes, desembolsos y otros - Pagos o remesas por primas de seguros - Expresi�n "actividad naviera" en inciso final del no. 3 del inciso tercero del art. 59, ley renta - Exenci�n del Impuesto Adicional a la renta - sentido y alcance. (Oficio N� 4.554, de 26.12.94).
 
 ## Referencias detectadas
 

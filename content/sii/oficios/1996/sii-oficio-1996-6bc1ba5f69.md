@@ -11,7 +11,7 @@
 
 ## Resumen
 
-incisos cuarto y quinto. Febrero 1996 Acerca del sentido y alcance que debe darse a la expresi�n "vuelos internacionales", en relaci�n con la franquicia tributaria contemplada el Art...Oficio N� 406, de 08.02.96 Ventas y Servicios - Nuevo texto ley impuesto a las Arts. 52� a 55�. Febrero 1996 Es improcedente la emisi�n de facturas de servicio telef�nico a persona distinta del beneficiario que ha contratado la prestaci�n de telefon�a...Oficio N� 367, de 03.02.96 Ventas y Servicios - Nuevo texto ley impuesto a las -…
+367, de 03.02.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 15�, Febrero 1996 De la aplicaci�n del Impuesto al Valor Agregado a las sumas invertidas por una compa��a minera para financiar la adecuaci�n de las instalaciones de conducci�n de agua por la...Oficio N� 297, del 30.01.96
 
 ## Referencias detectadas
 

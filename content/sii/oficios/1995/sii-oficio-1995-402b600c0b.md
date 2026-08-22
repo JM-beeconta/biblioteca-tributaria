@@ -11,7 +11,7 @@
 
 ## Resumen
 
-alificaci�n de habitualidad en la venta de las acciones con antig�edad,... (Oficio N� 3.468, de 20.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis letra b), Noviembre 1995 Acerca de la informaci�n que las administradoras de Fondos de Pensiones deben proporcionar al Servicio de Impuestos Internos en relaci�n con las Cuentas de Ahorro Voluntario... (Oficio N� 3.453, de 17.11.95). Renta - Actual Ley sobre Impuesto a la - Art.17�, N� 8 inciso primero, letra b) e inciso cuarto, Noviembre 1995 A las enajen…
+e 17.11.95). Renta - Actual Ley sobre Impuesto a la - Art.17�, N� 8 inciso primero, letra b) e inciso cuarto, Noviembre 1995 A las enajenaciones de bienes ra�ces a que se refiere la letra b) del N� del Art. 17� de la Ley de la Renta, efectuadas por los accionistas... (Oficio N� 3.408, de 14.11.95).
 
 ## Referencias detectadas
 

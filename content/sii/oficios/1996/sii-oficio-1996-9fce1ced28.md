@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aci�n del Impuesto al Valor Agregado a las sumas invertidas por una compa��a minera para financiar la adecuaci�n de las instalaciones de conducci�n de agua por la...Oficio N� 297, del 30.01.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 12�, letra e), N� 2 Febrero 1996 Acerca de la situaci�n tributaria de los gastos en que incurra una agencia de una empresa a�rea extranjera en Chile, por concepto de bodegaje de especies transportadas...Oficio N� 296, de 30.01.96 Ventas y Servicios - Nuevo texto ley…
+296, de 30.01.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 8� letra m). Febrero 1996 Acerca de la situaci�n tributaria de los bienes del giro de las empresas arrendadoras de veh�culos motorizados, en relaci�n con las normas del D.L. N� 825, sobre impuesto a la...Oficio N� 236, de 25.01.96
 
 ## Referencias detectadas
 

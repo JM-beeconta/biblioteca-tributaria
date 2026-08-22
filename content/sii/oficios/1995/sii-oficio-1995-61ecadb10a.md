@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acciones o como aportes de capital a empresas filiales, para establecer el monto del capital.... (Oficio N� 2.206, de 26.07.95). Ley 18.892 - Ley General de Pesca y Acuicultura - Art. 2�, Agosto 1995 La actividad de la piscicultura, para los efectos tributarios, se clasifica en el N� 5 del Art. 20� de la Ley de la Renta, teniendo en consideraci�n la nueva definici�n... (Oficio N� 2.183, de 24.07.95). C�digo tributario - Actual texto - Art. 126�, inciso pen�ltimo Julio 1995 Vigencia de las instrucciones impartidas…
+e 24.07.95). C�digo tributario - Actual texto - Art. 126�, inciso pen�ltimo Julio 1995 Vigencia de las instrucciones impartidas por la Direcci�n Nacional del Servicio de Impuesto Internos sobre la Determinaci�n de la utilidad l�quida de las empresas para los efectos... (Oficio N� 2.035, de 10.07.95).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la subdivisi�n de un predio agr�cola, en relaci�n con el mayor valor resultante en la venta de esos... (Oficio N� 1.627, de 09.06.95). Renta Actual ley sobre Impuesto a la - Art. 74�, N� 2- Junio 1995 Las comunidades no est�n obligadas a efectuar la retenci�n de Impuesto del 10% que ordena practicar el Art. 74�, N� 2, de la Ley de la Renta, recayendo esta obligaci�n... (Oficio N� 1.592, de 08.06.95). Renta Actual Ley sobre Impuesto a la - Art. 59� inciso segundo- Junio 1995 Tratamiento tributario aplicable a las c…
+e 08.06.95). Renta Actual Ley sobre Impuesto a la - Art. 59� inciso segundo- Junio 1995 Tratamiento tributario aplicable a las cantidades que se remesen al exterior por la venta de pel�culas para ser exhibidas a trav�s de proyectores de cine, televisi�n y v�deo... (Oficio N� 1.552, de 06.06.95).
 
 ## Referencias detectadas
 

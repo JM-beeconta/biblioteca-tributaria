@@ -11,7 +11,7 @@
 
 ## Resumen
 
-los establecimientos educacionales de que es sostenedora. (Oficio N� 3.035, DE 29.10.96). Renta - Actual ley sobre impuesto a la - Art. N� 2, N� 1, Noviembre 1996 Sobre el concepto de "renta" en relaci�n a mejoras incorporadas a un inmueble por el arrendamiento de �ste, las que, seg�n el contrato celebrado entre las partes, quedan a benefecio del arrendador... (Oficio N� 3.006, de 25.10.96). Renta - Actual ley sobre impuesto a la - Art. 77�. Noviembre 1996 De la posibilidad de llevar el registro especial de retenc…
+e 25.10.96). Renta - Actual ley sobre impuesto a la - Art. 77�. Noviembre 1996 De la posibilidad de llevar el registro especial de retenciones establecido en el Art. 77� de la ley de la renta mediante medios magn�ticos, en el caso de las administradoras de fondos de... (Oficio N� 2.949, de 22.10.96).
 
 ## Referencias detectadas
 

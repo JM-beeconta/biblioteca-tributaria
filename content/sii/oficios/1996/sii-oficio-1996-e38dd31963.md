@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1996
-- Fecha: 1996-01-01
+- Fecha: 1996-01-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/ventas/ene300.htm
 - Hash SHA-256: 64ad6fef02bb5dc1b64eac8ea8bcafcc1e44a8591fe22acdccb0a3c03ef619e6
 
 ## Resumen
 
-width='630'> A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 1996 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y servicios - Nuevo texto ley impuesto a las - Art. N� 2. N 2 Enero 1996 Acerca de la aplicaci�n del impuesto al valor agregado a los servicios y asesor�as remunerados que la fundaci�n para el desarrollo frut�cola (FDF)... Oficio N� 3.788, de 18.12.95 Ventas y Servicios - Actual ley sobre impuesto…
+Ventas y servicios - Nuevo texto ley impuesto a las - Art. N� 2. N 2 Enero 1996 Acerca de la aplicaci�n del impuesto al valor agregado a los servicios y asesor�as remunerados que la fundaci�n para el desarrollo frut�cola (FDF)... Oficio N� 3.788, de 18.12.95
 
 ## Referencias detectadas
 

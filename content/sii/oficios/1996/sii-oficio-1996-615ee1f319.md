@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto establecidos en la ley de la renta, aplicable a las concesiones para la construcci�n... Oficio N� 1.532, de 24.05.96 Renta - Actual ley sobre impuesto a la - Art. 40�, N� 4, Junio 1996 La exenci�n del impuesto de primera categor�a que establece el N� 4 del Art. 40� del ley de la renta, no favorece a la corporaci�n de bienestar de los trabajadores del Instituto... Oficio N� 1.531, de 24.05.96. Renta - Actual ley sobre impuesto a la - Art. 47�. Mayo 1996 Acerca del tratamiento tributario de las donaciones r…
+de 24.05.96. Renta - Actual ley sobre impuesto a la - Art. 47�. Mayo 1996 Acerca del tratamiento tributario de las donaciones recibidas por la corporaci�n "Coordinadora nacional del adulto mayor" en relaci�n con los requisitos y condiciones que... Oficio N� 1.473, de 16.05.96
 
 ## Referencias detectadas
 

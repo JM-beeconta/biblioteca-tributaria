@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-01-01
+- Fecha: 1995-12-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/renta/dic103.htm
 - Hash SHA-256: dbee51a0e6588bd2152649f59d5c53622e416e9267e78acdaea55db85fcf2f48
 
 ## Resumen
 
-Argentina, cuando los docentes de dicha entidad universitaria... (Oficio N� 3.809, de 19.12.95). Renta - Actual Ley sobre Impuesto a la - Art.17� N� 8 letra b) y 18� Diciembre 1995 Tratamiento tributario del mayor valor obtenido en la enajenaci�n de un predio agr�cola, adquirido en forma particular, y que no forma parte del Activo de ning�n negocio o empresa. (Oficio N� 3.781, de 15.12.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis, letra a) N� 1 Diciembre 1995 De la fecha de adquisici�n de las accione…
+e 15.12.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis, letra a) N� 1 Diciembre 1995 De la fecha de adquisici�n de las acciones en el caso de la divisi�n de una sociedad an�nima abierta en diversas sociedades an�nimas... (Oficio N� 3.654, de 05.12.95).
 
 ## Referencias detectadas
 

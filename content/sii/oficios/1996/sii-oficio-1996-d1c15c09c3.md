@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Oficio N� 3.181, DE 13.11.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, incisos cuarto y final y Art. 41�, inciso pen�ltimo, Noviembre 1996 Sentido y alcance de la expresi�n "o en las que tengan intereses" que utiliza el inciso cuarto del N� 8 del Art. 17� de la ley de la renta, y el inciso pen�ltimo del Art. 41� del mismo cuerpo legal... (Oficio N� 3.150, de 12.11.96). Renta -Actual ley sobre impuesto a la - Art. 20�. Noviembre 1996 Acerca de la clasificaci�n frente a las normas de la ley de la r…
+e 12.11.96). Renta -Actual ley sobre impuesto a la - Art. 20�. Noviembre 1996 Acerca de la clasificaci�n frente a las normas de la ley de la renta de la actividad desarrollada por un instituto oncol�gico, y en relaci�n al impuesto al valor agregado. (Oficio N� 3.103, de 05.11.96).
 
 ## Referencias detectadas
 

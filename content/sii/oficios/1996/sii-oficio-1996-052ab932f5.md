@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el Art. 12�, letra e), N� 17, del D.L N�825, de 1974, s�lo procede si la empresa hotelera que realiza las prestaciones a turistas...Oficio N� 400, de 07.02.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 12�, letra e), N� 17, Febrero 1995 Improcedencia de emitir facturas de exportaci�n de acuerdo a lo establecido en el Art. 12�, letra e), N� 17, del D.L, N� 825, de 1974, s�lo procede si la empresa hotelera que realiza las...Oficio N� 399, de 07.02.95 Ventas y Servicios - Nuevo texto ley Impuesto a la…
+399, de 07.02.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 42�, inciso primero letra a). Febrero 1995 Teniendo presente la definici�n de "licor" contenida en el reglamento de la Ley 18.455, publicado en el Diario Oficial del 23 de octubre de 1996, y lo informado por el Servicio Agr�cola y Ganadero...Oficio N� 261, de 26.01.95
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-que llevar� el Servicio de Impuestos Internos a que se refiere el N� 2 de la letra c del Art. 41� A... (Oficio N� 844, de 24.03.95). Rentas Municipales - Actual ley sobre - Art. 24�, Marzo 1995 Incompetencia del Servicio de Impuestos Internos en relaci�n con la determinaci�n del capital propio para los efectos de pago de la patente Municipal, a que se refiere... (Oficio N� 776, de 17.03.95). Renta - Actual ley sobre Impuesto a la - Art. 41�. Marzo 1995 De las inversiones realizadas por Empresas que declaren sus re…
+e 17.03.95). Renta - Actual ley sobre Impuesto a la - Art. 41�. Marzo 1995 De las inversiones realizadas por Empresas que declaren sus rentas en primera categor�a, en base a contabilidad completa, en cuotas de fondos mutuos y fondos de pensiones... (Oficio N� 775, de 17.03.95).
 
 ## Referencias detectadas
 

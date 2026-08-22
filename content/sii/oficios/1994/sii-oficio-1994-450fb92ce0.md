@@ -11,7 +11,7 @@
 
 ## Resumen
 
-DL NO. 825 (nuevo texto), art. 2 y 27 bis - reglamento DS no. 55, de Hacienda (do 02.02.77), art. 4. - Circular no. 12, de 27.01.89.-, Agosto 1994 Veh�culos autom�viles - Empresa de arrendamiento - Autom�viles nuevos destinados a ser arrendados - Adquisici�n - IVA. - Cr�dito fiscal - Remanente acumulado - Recuperaci�n seg�n normas del art. 27 bis del DL no. 825 - Inaplicabilidad... (Of. N� 2.821, de 09.08.94). DL No. 825 (nuevo texto), art. 27 bis y 36.-, Agosto 1994 Inversiones en el activo fijo - Remanente de cr…
+e 09.08.94). DL No. 825 (nuevo texto), art. 27 bis y 36.-, Agosto 1994 Inversiones en el activo fijo - Remanente de cr�dito fiscal acumulado - Devoluci�n seg�n art. 27 bis del DL no. 825 - Exportaciones realizadas - Franquicias del art. 36 del DL no. 825 - Recuperaci�n del IVA - Compatibilidad... (Of. N� 2.749, de 01.08.94).
 
 ## Referencias detectadas
 

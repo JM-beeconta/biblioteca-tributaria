@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n predio agr�cola, adquirido en forma particular, y que no forma parte del Activo de ning�n negocio o empresa. (Oficio N� 3.781, de 15.12.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis, letra a) N� 1 Diciembre 1995 De la fecha de adquisici�n de las acciones en el caso de la divisi�n de una sociedad an�nima abierta en diversas sociedades an�nimas... (Oficio N� 3.654, de 05.12.95). Renta - Actual Ley sobre Impuesto a la - Art.17� N� 8 letra a) y 18� Diciembre 1995 En aquellos casos en que la actividad pr…
+e 05.12.95). Renta - Actual Ley sobre Impuesto a la - Art.17� N� 8 letra a) y 18� Diciembre 1995 En aquellos casos en que la actividad principal del contribuyente sea la adquisici�n y/o enajenaci�n de acciones, o cuando tales operaciones aparezcan como uno de los objetos... (Oficio N� 3.653, de 05.12.95).
 
 ## Referencias detectadas
 

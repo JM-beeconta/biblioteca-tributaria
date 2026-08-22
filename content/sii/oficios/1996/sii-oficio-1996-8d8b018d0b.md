@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n para construir, mantener y explotar la autopista... (Oficio N� 3.102, de 05.11.96). Renta - Actual ley sobre impuesto a la - Art. 14�, p�rrafo A), N� 3�, Noviembre 1996 Situaciones especiales sobre el tratamiento tributario de ciertas partidas en la determinaci�n del fondo de utilidades tributables (FUT), que tienen incidencia en los Global complementario... (Oficio N� 3.087, de 04.11.96). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 7, Noviembre 1996 Acerca de la situaci�n tributaria de las donaciones…
+e 04.11.96). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 7, Noviembre 1996 Acerca de la situaci�n tributaria de las donaciones que efect�en a la orden religiosa "Compa��a de Jes�s", cuyo destino sea mejorar los establecimientos educacionales de que es sostenedora. (Oficio N� 3.035, DE 29.10.96).
 
 ## Referencias detectadas
 

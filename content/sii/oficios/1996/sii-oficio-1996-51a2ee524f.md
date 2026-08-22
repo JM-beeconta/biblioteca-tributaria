@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l Art. 12�, letra E), N� 1, letra c) del D.L N� 825, de 1974, no favorece a las organizaciones comunitarias, en raz�n de no reunir...Oficio N� 3.154, DE 12.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 8� letra d) Noviembre 1996 De las instrucciones sobre faltante de bienes en los inventarios del vendedor o prestador de servicios, contenidas en Circular N� 3, de 1992, del servicio de impuestos internos...Oficio N� 3.151, de 12.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art.15� N…
+151, de 12.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art.15� N� 1. Noviembre 1996 Aplicaci�n del impuesto al valor agregado a la diferencia de precio en la venta de inmuebles, producto del incremento en el valor de la unidad de fomento, entre la fecha de facturaci�n...Oficio N� 3.137, de 11.11.96
 
 ## Referencias detectadas
 

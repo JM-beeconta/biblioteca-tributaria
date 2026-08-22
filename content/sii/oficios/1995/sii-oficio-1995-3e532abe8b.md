@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-09-04
+- Fecha: 1995-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/ventas/sep103.htm
 - Hash SHA-256: 7ef11e2a83b4c6e6e32c5b329431e17a2c295ca2e4ef95f925e7da3c4d8d0ef8
 
 ## Resumen
 
-ficio N� 2.817, de 08.09.95 Ley de Impuesto a las Ventas y Servicios. Oficio N� 2717 de 04 de Septiembre de 1995 Procedencia parcial del cr�dito especial del art. 21, del D.L. N� 910, de 1975, en contrato de construcci�n por suma alzada de un edificio que no se destinar� totalmente a departamentos habitacionales. Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 2�, Nos 1, 2 y 3, Septiembre 1995 De la incidencia del Impuesto al Valor Agregado en la concesi�n para vender al p�blico, en forma automatizada,…
+habitacionales. Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 2�, Nos 1, 2 y 3, Septiembre 1995 De la incidencia del Impuesto al Valor Agregado en la concesi�n para vender al p�blico, en forma automatizada, boletos de pasaje a cuya licitaci�n ha convocado, la Empresa de Transporte...Oficio N� 2.716, de 04.09.95
 
 ## Referencias detectadas
 

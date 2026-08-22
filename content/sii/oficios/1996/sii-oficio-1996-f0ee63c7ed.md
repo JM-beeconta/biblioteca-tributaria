@@ -11,7 +11,7 @@
 
 ## Resumen
 
-orme al convenio para evitar las doble tributaci�n, suscrito entre los gobiernos...Oficio N� 2.008, de 16.07.96 Franquicias regionales - Ley 18.392 -Arts. 1� y 10�. Julio 1996 De la bonificaci�n que otorga el Estado de Chile sobre el valor de las ventas de bienes producidos o servicios que se presten por las industrias autorizadas a instalarse en la zona...Oficio N� 1.880, de 02.07.96 Ley 18.046 - Arts. 99� y 103�. Julio 1996 En el caso de fusi�n por incorporaci�n de dos sociedades an�nimas cerradas, de la situaci…
+Ley 18.046 - Arts. 99� y 103�. Julio 1996 En el caso de fusi�n por incorporaci�n de dos sociedades an�nimas cerradas, de la situaci�n tributaria de la diferencia producida entre el precio de adquisici�n de las acciones...Oficio N� 1.843, de 26.06.96
 
 ## Referencias detectadas
 

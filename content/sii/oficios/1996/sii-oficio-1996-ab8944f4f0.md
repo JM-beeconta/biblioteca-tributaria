@@ -11,7 +11,7 @@
 
 ## Resumen
 
-onstrucci�n de obras realizadas en terrenos entregados en concesi�n municipal. (Oficio N� 3.496, de 16.12.96). Renta - Actual ley sobre impuesto a la - Art. 15�, inciso sexto, Diciembre 1996 Aplicaci�n de las disposiciones de los incisos sexto del art�culo 15� de la ley de impuesto a la renta, y segundo de la letra c) del art�culo 16� del D.L N� 825, de 1974... (Oficio N� 3.482, de 13.12.96). Renta - Actual ley sobre impuesto a la - Art. 17� N� 8 letra b) y Art. 18� Diciembre 1996 Tributaci�n que afecta al aporte…
+e 13.12.96). Renta - Actual ley sobre impuesto a la - Art. 17� N� 8 letra b) y Art. 18� Diciembre 1996 Tributaci�n que afecta al aporte de parcelas pertenecientes a una sociedad de responsabilidad limitada a una sociedad en formaci�n... (Oficio N� 3.475, de 12.12.96).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-fuente extranjera... (Oficio N� 2.733, de 02.10.96) Renta - Actual ley sobre impuesto a la - Art. 18�, inciso tercero, Septiembre 1998 De la fecha a contar de la cual se cuenta el plazo de un a�o que establece el inciso tercero del Art. 18� de la ley de la renta, y sentido y alcance del t�rmino "construcci�n" a que se refiere la parte final... (Oficio N� 2.631, de 20.09.96). Renta - Actual ley sobre impuesto a la - Art. 57� bis, Septiembre 1996 De la forma en que deben acreditarse los traspasos de acciones de prim…
+e 20.09.96). Renta - Actual ley sobre impuesto a la - Art. 57� bis, Septiembre 1996 De la forma en que deben acreditarse los traspasos de acciones de primera emisi�n, efectuados por un corredor de bolsa al cliente o por este a aqu�l, para no ser considerados como compras y ventas... (Oficio N� 2.630, de 20.09.96)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tituciones Financieras por inversiones de remanentes presupuestarios efectuadas en el Banco del Estado... Oficio N� 797, de 15.03.96 Renta - Actual ley sobre impuesto a la - Art. 21�, inciso primero. Marzo 1996 Acerca de la forma de declarar las nuevas partidas que constituyen retiro en el formulario N� 22, A�o tributario 1996, de acuerdo a las modificaciones introducidas... Oficio N� 762, de 12.03.96 Renta - Actual ley sobre impuesto a la - Art. 57� bis, letra a), Nos 1 y 2. Marzo 1996 De la emisi�n del Certifica…
+de 12.03.96 Renta - Actual ley sobre impuesto a la - Art. 57� bis, letra a), Nos 1 y 2. Marzo 1996 De la emisi�n del Certificado de Dividendos que las sociedades an�nimas abiertas deben otorgar a sus accionistas cuando estos posean acciones en copropiedad, para los... Oficio N� 698, de 05.03.96
 
 ## Referencias detectadas
 

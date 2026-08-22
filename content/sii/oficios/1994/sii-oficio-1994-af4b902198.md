@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1994
-- Fecha: 1994-06-10
+- Fecha: 1994-06-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1994/renta/ene1.htm
 - Hash SHA-256: f8c22784ddf2e454876064854ad5817762eaa93454625b68cdfa4a28c6eea64f
 
 ## Resumen
 
-DL no. 600 - sociedad chilena de responsabilidad limitada - receptora de la inversi�n extranjera. (Oficio N� 84 de 10 de junio de 1994). Actual ley sobre impuesto a la renta - contenida en el art. 1 del decreto ley no. 824., Enero 1994 Sociedad an�nima inmobiliaria - asignaci�n de acciones de Endesa con motivo de la divisi�n de otra sociedad inmobiliaria... (Oficio N� 55 de 06 de junio de 1994). Ley renta, art. 41 a.- ley 19.247 (do 15.09.93), art. 1, letra f), y art. 3 transitorio.- circular no. 52, de 08.11.93.,…
+io de 1994). Ley renta, art. 41 a.- ley 19.247 (do 15.09.93), art. 1, letra f), y art. 3 transitorio.- circular no. 52, de 08.11.93., Enero 1994 Sociedad an�nima chilena, filial de empresa extranjera - inversi�n en acciones en sociedad an�nima extranjera, tambi�n filial de la misma casa matriz - remesas al exterior - divisas adquiridas en mercado. (Oficio N� 53 de 06 de junio de 1994)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cerrada, mediante el incremento del valor nominal de las acciones emitidas originalmente. (Oficio N� 1.391, de 23.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra a), N� 3, Mayo 1995 De la modalidad de imputaci�n de los retiros y del Impuesto Unico de Segunda Categor�a a las utilidades retenidas en el registro del Fondo de Utilidades Tributables (FUT). (Oficio N� 1.364, de 17.05.95). Ley sobre Impuesto a la Renta - Arts. 3, 10, 52 y 60 LIR (Ord. N�1363, de 17.05.1995) Tributaci�n que afecta a perso…
+e 17.05.95). Ley sobre Impuesto a la Renta - Arts. 3, 10, 52 y 60 LIR (Ord. N�1363, de 17.05.1995) Tributaci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 1363 de 17-05-1995).
 
 ## Referencias detectadas
 

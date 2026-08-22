@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1994
-- Fecha: 1994-04-12
+- Fecha: 1994-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1994/renta/mar3.htm
 - Hash SHA-256: 2c4d420a3dfaef76714edb7f8d33e907650e5529e5d765cfc47c2a9e6935ec0d
 
 ## Resumen
 
-organismos internacionales. (Ord. N� 1470 de 12.04.1994) Ley Renta, art. 20, no. 5.-, Marzo 1994 Comunidad agr�cola - predio agr�cola de su propiedad - imposibilidad de explotaci�n - da�o patrimonial - fallo judicial - indemnizaci�n de perjuicios - lucro cesante - intereses corrientes - renta clasificada en el art. 20, no. 5, Ley de la Renta. (Oficio N� 1.206, DE 28.03.94). Ley Renta, art. 31, no. 5.- circular no. 132, de 23.10.75.-, Marzo 1994 Yacimiento minero de oro - explotaci�n con faena subterr�nea - constru…
+E 28.03.94). Ley Renta, art. 31, no. 5.- circular no. 132, de 23.10.75.-, Marzo 1994 Yacimiento minero de oro - explotaci�n con faena subterr�nea - construcci�n de t�neles de acceso permanente - a�os de vida �til - r�gimen de depreciaci�n - servicio de impuestos internos - instrucciones. (Oficio N�. 1.132, DE 22.03.94)
 
 ## Referencias detectadas
 

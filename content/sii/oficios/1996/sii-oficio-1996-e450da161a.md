@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ley impuesto a las - Art. 15� N� 1. Marzo 1996 De la tributaci�n que afecta a los intereses pro mora en el pago del saldo de precio de venta de un inmueble. Oficio N� 610, de 23.02.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 42�. Febrero 1996 De la aplicaci�n del Impuesto al Valor Agregado e impuesto adicional del Art. 42� del D.L N� 825, sobre impuesto a las ventas y servicios, en la importaci�n de vinos y destilados...Oficio N� 558, de 20.02.96 Ventas y Servicios - Nuevo texto a las - Art. 42� le…
+558, de 20.02.96 Ventas y Servicios - Nuevo texto a las - Art. 42� letra d). Febrero 1996 Aplicaci�n del Impuesto Adicional que establece el Art. 42� letra d), del D.L N� 825, sobre Impuesto a las Ventas y Servicios, a la venta o importaci�n de un producto compuesto de juego o lim�n...Oficio N� 433, del 09.02.96
 
 ## Referencias detectadas
 

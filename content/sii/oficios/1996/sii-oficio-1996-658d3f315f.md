@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1996
-- Fecha: 1996-08-19
+- Fecha: 1996-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/renta/ago99.htm
 - Hash SHA-256: 6a0ede3c01ea7d4e8dd1b54f447d9f91446ece7255bb11d407d38f301b09057d
 
 ## Resumen
 
-nstituci�n de otra sociedad de igual naturaleza... (Oficio N� 2.293, de 19.08.96). Ley de Impuesto a la Renta. Art�culo 59� . Tratamiento tributario aplicable a los derivados financieros que indica y normativa relacionada. (Oficio N� 2292 de 19 de Agosto de 1996). Renta - Actual ley sobre impuesto a la - Art. 59�, inciso cuarto, N� 2. Agosto 1996 Las cantidades remesadas al exterior por una empresa nacional difusora de televisi�n por cable a empresas extranjeras, sin domicilio ni residencia en Chile, por servicios…
+p; Renta - Actual ley sobre impuesto a la - Art. 59�, inciso cuarto, N� 2. Agosto 1996 Las cantidades remesadas al exterior por una empresa nacional difusora de televisi�n por cable a empresas extranjeras, sin domicilio ni residencia en Chile, por servicios de emisi�n de se�al de sat�lite... (Oficio N� 2.281, de 16.08.96).
 
 ## Referencias detectadas
 

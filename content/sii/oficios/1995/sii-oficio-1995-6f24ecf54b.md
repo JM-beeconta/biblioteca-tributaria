@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l reembolso del Impuesto espec�fico al petr�leo diesel establecido en el Art. 6�, letra b) de la ley... (Oficio N� 260, de 26.01.95). C�digo Tributario - Actual Texto - Art. 126�, N� 1, Marzo 1995 En aquellos casos en que el contribuyente solicite la devoluci�n de Impuestos fundamentado en la norma sobre correcci�n de errores propios contemplada en el N� 1 del Art. 126�.. (Oficio N� 230, de 24.01.95). Franquicias tributarias - Decreto ley N� 910- Art. 21� - Febrero 1995 Procede rechazar la solicitud del contribuye…
+e 24.01.95). Franquicias tributarias - Decreto ley N� 910- Art. 21� - Febrero 1995 Procede rechazar la solicitud del contribuyente de obtener - por la v�a del Art. 126� del C�digo Tributario- la devoluci�n del Impuesto equivalente al cr�dito especial que concede... (Oficio N� 199, de 20.01.95).
 
 ## Referencias detectadas
 

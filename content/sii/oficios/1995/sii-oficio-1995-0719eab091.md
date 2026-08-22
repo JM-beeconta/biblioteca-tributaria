@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a servidumbre de tr�nsito, con el objeto de permitir el desarrollo... (Oficio N� 3.274, de 32.10.95). Renta - Actual Ley sobre Impuesto a la - Art. 41� B Octubre 1995 De los documentos necesarios para acreditar las ventas de acciones emitidas por empresas extranjeras que representan inversiones en el exterior para los efectos de la repatriaci�n del capital invertido... (Oficio N� 3.180, de 23.10.95). Renta - Actual Ley sobre Impuesto a la - Arts. 2�, N� 2 y 11� Octubre 1995 La enajenaci�n del producto forestal obt…
+e 23.10.95). Renta - Actual Ley sobre Impuesto a la - Arts. 2�, N� 2 y 11� Octubre 1995 La enajenaci�n del producto forestal obtenido de la faena "raleo", constituye una explotaci�n comercial de bosque y, por ende, el contribuyentes para los fines de la Ley de la Renta... (Oficio N� 3.148, de 18.10.95).
 
 ## Referencias detectadas
 

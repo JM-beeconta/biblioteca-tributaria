@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mal o acelerada - Cuota anual de depreciaci�n - Deducci�n de la Renta Bruta. (Oficio N� 4.476, de 15.12.94). Actual Ley sobre Impuesto a la Renta - art. 17, no. 8, letra b), y 18, Diciembre 1994 Sociedad en formaci�n o en constituci�n - Aporte de un bien ra�z - mayor valor obtenido calidad de "no renta" - casos de excepci�n - habitualidad. (Oficio N� 4.394, de 07.12.94). Ley de Impuesto a la Renta. Art�culos 17� N� 8 Fecha de adquisici�n de acciones en caso de fusi�n de sociedades. ( Oficio N� 4118, de 17 de Novie…
+12.94). Ley de Impuesto a la Renta. Art�culos 17� N� 8 Fecha de adquisici�n de acciones en caso de fusi�n de sociedades. ( Oficio N� 4118, de 17 de Noviembre de 1994).
 
 ## Referencias detectadas
 

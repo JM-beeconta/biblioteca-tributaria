@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de las normas tributarias no deben ser considerados sucursales...Oficio N� 2.052, de 22.07.96 Franquicias tributarias - Ley 18.681 - Art. 69�,. Septiembre 1996 Las instituciones de las fuerzas armadas, de carabineros de Chile y de la direcci�n general de aeron�utica civil, no son calificadas de donatarios h�biles para los fines de los beneficios...Oficio Circular N� 2.621, de 16.09.96 Ley 19.396 - Nuevo tratamiento obligaci�n subordinada - Art. 21�. Septiembre 1996 Acerca del tratamiento tributario de las sumas en…
+Ley 19.396 - Nuevo tratamiento obligaci�n subordinada - Art. 21�. Septiembre 1996 Acerca del tratamiento tributario de las sumas entregadas al banco central de chile en pago de la obligaci�n subordinada de determinados bancos comerciales, que se derivan...Oficio N� 2.417, 30.08.96
 
 ## Referencias detectadas
 

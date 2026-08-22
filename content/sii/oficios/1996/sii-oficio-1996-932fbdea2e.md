@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dores de una empresa para que sean consideradas ingresos no... (Oficio N� 2.799, de 08.10.96.) Renta - Actual ley sobre impuesto a la - Art. 21�, inciso tercero. Octubre 1996 Las sociedades an�nimas cerradas, siempre que no se encuentren voluntariamente sujetas a las normas de las sociedades an�nimas abiertas, por los pr�stamos que efect�en a sus accionistas... (Oficio N� 2.775, de 07.10.96). Renta - Actual ley sobre impuesto a la - Arts. 29� al 33�, Octubre 1996 Tratamiento tributario en relaci�n al IVA e impuest…
+e 07.10.96). Renta - Actual ley sobre impuesto a la - Arts. 29� al 33�, Octubre 1996 Tratamiento tributario en relaci�n al IVA e impuesto de la ley de la renta que afecta a la actividad de promoci�n del transporte de pasajeros en el extranjero, v�a terrestre, que realice... (Oficio N� 2.763, de 04.10.96)
 
 ## Referencias detectadas
 

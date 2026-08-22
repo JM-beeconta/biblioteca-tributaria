@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en el extranjero, cuando la enajenaci�n de las acciones conste de instrumentos privados emitidos en el...Oficio N� 357, de 02.02.96 Decreto ley N� 2.398 - Art. 2�, Marzo 1996 Tributaci�n con el impuesto del 40 establecido en el Art. 2� del Decreto Ley N� 2.398 de 1978, de una empresas constituida como sociedad de responsabilidad limitada, en la cual SERVIU...Oficio N� 656, de 29.02.96 Ley de donaciones con fines educacionales - Art. 1� texto en Art. 3� de la ley 19.247. Marzo 1996 La ley de donaciones con fines ed…
+Ley de donaciones con fines educacionales - Art. 1� texto en Art. 3� de la ley 19.247. Marzo 1996 La ley de donaciones con fines educacionales no contempla un procedimiento simplificado para acogerse a los beneficios que establece, debiendo someterse a las normas...Oficio N� 862, de 20.03.96
 
 ## Referencias detectadas
 

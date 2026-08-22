@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s sociedades an�nimas abiertas deben otorgar a sus accionistas cuando estos posean acciones en copropiedad, para los... Oficio N� 698, de 05.03.96 Rentas Municipales - Actual ley sobre - Art. 47�. Marzo 1996 Requisitos y condiciones para que las donaciones que se efect�en a centros privados de atenci�n a menores por contribuyentes de la primera Categor�a, puedan... Oficio N� 695, de 05.03.96. Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1, letras a), b) y c), Marzo 1996 Las normas que fijan la forma en qu…
+de 05.03.96. Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1, letras a), b) y c), Marzo 1996 Las normas que fijan la forma en que deben tributar los contribuyentes que posean o exploten bienes ra�ces agr�colas, se encuentran establecidas en el Art. 20�, N� 1... Oficio N� 612, de 23.02.96.
 
 ## Referencias detectadas
 

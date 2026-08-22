@@ -11,7 +11,7 @@
 
 ## Resumen
 
-De la aplicaci�n del Impuesto al Valor Agregado por concepto de arrendamiento del Recinto Ferial CASAPIEDRA, ubicado en Santiago, comuna de Vitacura, para el....Oficio N� 863, de 20.03.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 9� letra e) Marzo 1996 De la inclusi�n en facturas o boletas de servicios de telefon�a, de cantidades adeudadas - por el beneficiario al prestador. por concepto de precio de las operaciones respectivas...Oficio N� 697, de 05.03.96 Ventas y Servicios - Nuevo texto ley impues…
+697, de 05.03.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 15� N� 1. Marzo 1996 De la tributaci�n que afecta a los intereses pro mora en el pago del saldo de precio de venta de un inmueble. Oficio N� 610, de 23.02.96
 
 ## Referencias detectadas
 

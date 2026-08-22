@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r�a, en base a contabilidad completa, en cuotas de fondos mutuos y fondos de pensiones... (Oficio N� 775, de 17.03.95). Renta - Actual ley sobre Impuesto a la - Art. 17�, N� 8 letra b), Marzo 1995 Acerca del tratamiento tributario aplicable al mayor valor obtenido en la enajenaci�n de parcelas ubicadas dentro del l�mite urbano, que se han subdividido en distintos lotes... (Oficio N� 580, de 24.02.95). C�digo tributario - Actual texto - Art. 8�, N� 5, Febrero 1995 Toda renta percibida por el representante de una pe…
+e 24.02.95). C�digo tributario - Actual texto - Art. 8�, N� 5, Febrero 1995 Toda renta percibida por el representante de una persona incapaz, por regla general debe ser declarada en forma independiente de sus propias rentas, debiendo confeccionarse... (Oficio N� 492, de 17.02.95).
 
 ## Referencias detectadas
 

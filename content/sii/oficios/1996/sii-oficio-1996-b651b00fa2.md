@@ -11,7 +11,7 @@
 
 ## Resumen
 
-comercio exterior al suscribirse a los pagar�s. Oficio N� 3481, de 13.12.96 Timbres y estampillas - Nuevo texto ley sobre impuesto de - Art. 3� inciso primero. Diciembre 1996 Acerca del impuesto de timbres y estampillas en la documentaci�n necesaria para realizar una importaci�n de mercanc�as que se paga despu�s de aceptada la declaraci�n de destinaci�n...Oficio N� 3.380, de 04.12.96 Timbres y estampillas - Nuevo texto ley sobre impuesto de - Art. 24�, N� 9, Diciembre 1996 Acerca de la aplicaci�n del impuesto de t…
+Timbres y estampillas - Nuevo texto ley sobre impuesto de - Art. 24�, N� 9, Diciembre 1996 Acerca de la aplicaci�n del impuesto de timbres y estampillas a operaci�n denominada por banco "l�nea de cr�dito de libre disposici�n para usuarios de cuentas corrientes". Oficio N� 3.472, de 12.12.96
 
 ## Referencias detectadas
 

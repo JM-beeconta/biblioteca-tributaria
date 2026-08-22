@@ -11,7 +11,7 @@
 
 ## Resumen
 
-in domicilio ni residencia en Chile, por servicios de emisi�n de se�al de sat�lite... (Oficio N� 2.281, de 16.08.96). Rentas municipales - Actual ley sobre - Art. 47�. Agosto 1996 De los requisitos que las instituciones donatarias deben cumplir para que las donaciones que reciban surtan los efectos tributarios respecto de los donantes, en relaci�n con lo establecido... (Oficio N� 2.254, de 13.08.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 11 y 20�. Agosto 1996 De la tributaci�n que afecta a las orga…
+e 13.08.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 11 y 20�. Agosto 1996 De la tributaci�n que afecta a las organizaciones sindicales en relaci�n con los impuestos establecidos en la ley sobre impuesto a la renta, de acuerdo a las actividades que desarrollen... (Oficio N� 2.172, de 08.08.96).
 
 ## Referencias detectadas
 

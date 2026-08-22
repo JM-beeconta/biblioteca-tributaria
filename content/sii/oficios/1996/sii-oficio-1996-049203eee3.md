@@ -11,7 +11,7 @@
 
 ## Resumen
 
-D.L N� 889, de 1975 es procedente que se otorgue considerando el aumento dispuesto...Oficio N� 237, de 25.01.96 Franquicias Tributarias - Decreto Supremo N� 631. Febrero 1996 El banco Internacional de Reconstrucci�n y fomento, en virtud de los establecido en el Decreto Supremo N� 631. del Ministerio de Relaciones Exteriores, publicado en el Diario oficial...Oficio N� 288, de 30.01.96 Reglamento consular -Decreto Supremo N� 172 de RR.EE, de 1974- Arts. 108� y109. Febrero1996 De la forma de acreditar en Chile las de…
+Reglamento consular -Decreto Supremo N� 172 de RR.EE, de 1974- Arts. 108� y109. Febrero1996 De la forma de acreditar en Chile las devoluciones de capital por inversiones en el extranjero, cuando la enajenaci�n de las acciones conste de instrumentos privados emitidos en el...Oficio N� 357, de 02.02.96
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-alud dental prestados por una sociedad an�nima, mediante la contrataci�n de odont�logos a los cuales se les entrega en arrendamiento el espacio donde prestan los servicios...Oficio N� 541, de 22.02.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 23�, N� 3- Febrero 1995 De la proporcionalizaci�n del cr�dito fiscal de utilizaci�n com�n cuando se realizan ventas afectas al Impuesto al Valor Agregado, exentas o no gravadas por el mismo...Oficio N� 427, de 10.02.95 Ventas y Servicios -Actual Ley de Impues…
+427, de 10.02.95 Ventas y Servicios -Actual Ley de Impuesto a la -Art. 12�, letra e) N�17, Febrero 1995 La exenci�n del Impuesto al Valor Agregado que establece el Art. 12�, letra e), N� 17, del D.L N�825, de 1974, s�lo procede si la empresa hotelera que realiza las prestaciones a turistas...Oficio N� 400, de 07.02.95
 
 ## Referencias detectadas
 

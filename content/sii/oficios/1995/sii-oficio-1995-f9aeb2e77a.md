@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de capitalizaci�n individual de trabajadores afiliados a una administradora..Oficio N� 3.007, de 25.10.96 Franquicias tributarias - Decreto ley N� 910 - Art. 21�. Noviembre 1996 De las condiciones que deben cumplirse para que las empresas constructoras puedan utilizar el cr�dito especial del Art. 21� del D.L N� 910, de 197, trat�ndose de un equipamiento...Oficio N� 2.987, de 24.10.96 Ley 19.418 - Normas sobre juntas de vecinos y dem�s organizaciones comunitarias - Arts. 28� y 52�, Noviembre 1996 De la aplicaci�n d…
+Ley 19.418 - Normas sobre juntas de vecinos y dem�s organizaciones comunitarias - Arts. 28� y 52�, Noviembre 1996 De la aplicaci�n del impuesto al valor agregado (IVA) trat�ndose del suministro de agua potable por un comit� de agua potable rural, en relaci�n con la derogaci�n de las normas de la ley 18.893...Oficio N� 3.194, DE 14.11.96
 
 ## Referencias detectadas
 

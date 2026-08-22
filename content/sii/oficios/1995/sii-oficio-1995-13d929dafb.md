@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-03-02
+- Fecha: 1995-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/ventas/mar54.htm
 - Hash SHA-256: d388a7a1ba749efcfca70a0cd473877373ca6b6ee10dfdf233b2d68b11038e79
 
 ## Resumen
 
-='2'> Aplicaci�n del Impuesto al Valor Agregado en el servicio de transporte, realizado entre Valpara�so e Isla de Pascua... Ordinario N� 633, de fecha 02 de Marzo de 1995 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las - Art. 27� bis, Marzo 1995 Procede desechar la petici�n de un contribuyente que solicita se le autorice modificar el procedimiento de c�lculo del monto del reembolso de remanente acumulado de cr�dito fiscal...Oficio N� 582, de 24.02.95 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las -…
+582, de 24.02.95 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las - Art. 9�, letra e) Marzo 1995 El suministro de energ�a el�ctrica comprende no s�lo la entrega de la especie generadora de energ�a, la electricidad, sino adem�s los servicios indispensables para hacer efectiva esa entrega...Oficio N� 542, de 22.02.95
 
 ## Referencias detectadas
 

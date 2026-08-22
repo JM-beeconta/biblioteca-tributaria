@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e m�ximo legal - Impuesto al valor agregado - Momento en que se... (Of. N� 3.056, de 30.08.94). DL NO. 825 (nuevo texto), art. 8 letra g); y 23, no. 2.-, Agosto 1994 Edificio de departamentos y locales comerciales - Propietario - Contratos de arrendamiento - Inmuebles amoblados o sin amoblar - Inmuebles con instalaciones y/o maquinarias - Ejercicio de actividad comercial... (Of. N� 2.844, de 10.08.94). DL NO. 825 (nuevo texto), art. 2 y 27 bis - reglamento DS no. 55, de Hacienda (do 02.02.77), art. 4. - Circular n…
+e 10.08.94). DL NO. 825 (nuevo texto), art. 2 y 27 bis - reglamento DS no. 55, de Hacienda (do 02.02.77), art. 4. - Circular no. 12, de 27.01.89.-, Agosto 1994 Veh�culos autom�viles - Empresa de arrendamiento - Autom�viles nuevos destinados a ser arrendados - Adquisici�n - IVA. - Cr�dito fiscal - Remanente acumulado - Recuperaci�n seg�n normas del art. 27 bis del DL no. 825 - Inaplicabilidad... (Of. N� 2.821, de 09.08.94).
 
 ## Referencias detectadas
 

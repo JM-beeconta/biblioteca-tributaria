@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te de un heredero que, entre otros bienes, heredo el 100% del patrimonio... (Oficio N� 2.718, de 04.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. N� 58�, N� 1, Septiembre 1995 De las obligaciones tributarias que afectan a inversionistas extranjeros acogidos a las normas del D.L N� 600, sobre Estatuto de la Inversi�n Extranjera, y cuyos recursos son invertidos... (Oficio N� 2.645, de 28.08.95). Renta - Actual Ley sobre Impuesto a la - Art. 5�. Agosto 1995 Tratamiento tributario de una comunidad hereditaria…
+e 28.08.95). Renta - Actual Ley sobre Impuesto a la - Art. 5�. Agosto 1995 Tratamiento tributario de una comunidad hereditaria que dentro del plazo de tres a�os a que se refiere el Art. 5� de la Ley de la Renta, y previo a la divisi�n del patrimonio del causante... (Oficio N� 2.279, de 02.08.95).
 
 ## Referencias detectadas
 

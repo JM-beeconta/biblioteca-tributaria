@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l caso de absorci�n o fusi�n de sociedades, y de presentar balance de t�rmino...Oficio N� 1.350, de 30.04.96 C�digo tributario - Actual texto - Art. 97�, N� 7. Mayo 1996 Consecuencias de la omisi�n del Libro auxiliar "Combustible Diesel ley 18.502" en relaci�n con las infracciones sancionadas en N� 7 del Art. 97� del C�digo Tributario, y en lo referente...Oficio N� 1.323, de 26.04.96 Franquicias regionales - Ley 18.392 .- Arts. 1� y 11�. Mayo 1996 De la tributaci�n que afecta a la construcci�n presupuestada de un…
+Franquicias regionales - Ley 18.392 .- Arts. 1� y 11�. Mayo 1996 De la tributaci�n que afecta a la construcci�n presupuestada de un edificio para sede de la gobernaci�n provincial de la Ant�rtica Chilena, en Puerto Williams, en relaci�n con la exenci�n ...Oficio N� 1.371, de 03.05.96
 
 ## Referencias detectadas
 

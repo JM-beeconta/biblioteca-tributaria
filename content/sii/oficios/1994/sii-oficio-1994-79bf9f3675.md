@@ -11,7 +11,7 @@
 
 ## Resumen
 
-FY"> Ley no. 18.933 - crea la Superintendencia de Instituciones de Salud Previsional, y deroga el Decreto con Fuerza de Ley no. 3, de Salud, de 1981. Ley no. 18.933 (do 09.03.90), art. 30 y 31.-, Agosto 1994 Instituciones de salud previsional - Isapres - Prestaciones y beneficios de salud - Afiliados - Cotizaci�n legal - Cotizaciones adicionales - Tope m�ximo legal - Impuesto al valor agregado - Momento en que se... (Of. N� 3.056, de 30.08.94). DL NO. 825 (nuevo texto), art. 8 letra g); y 23, no. 2.-, Agosto 1994…
+e 30.08.94). DL NO. 825 (nuevo texto), art. 8 letra g); y 23, no. 2.-, Agosto 1994 Edificio de departamentos y locales comerciales - Propietario - Contratos de arrendamiento - Inmuebles amoblados o sin amoblar - Inmuebles con instalaciones y/o maquinarias - Ejercicio de actividad comercial... (Of. N� 2.844, de 10.08.94).
 
 ## Referencias detectadas
 

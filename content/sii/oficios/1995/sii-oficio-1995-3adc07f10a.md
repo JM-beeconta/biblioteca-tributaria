@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stablece Nuevo Estatuto de la Jefatura de Bienestar de la Polic�a de Investigaciones de Chile... (Oficio N� 3.621, de 04.12.95). Reglamento del D.L N� 825 - Nuevo Texto Art. 64�, Diciembre 1995 De las condiciones en que se entiende que un veh�culo motorizado se encuentra nuevo o sin uso, para los efectos previstos en el Art. 41� del D.L N� 825, sobre Impuestos a las... (Oficio N� 3.577, de 29.11.95). Franquicias Tributarias, Ley 19.420, de 1995 Art. 1�, Noviembre 1995 Alcances tributarios de la Ley 19.420, denomin…
+e 29.11.95). Franquicias Tributarias, Ley 19.420, de 1995 Art. 1�, Noviembre 1995 Alcances tributarios de la Ley 19.420, denominada Ley Arica, respecto de los contribuyentes acogidos al r�gimen preferencial el Art. 27� del DFL, N� 341... (Oficio N� 3.443, de 17.11.95).
 
 ## Referencias detectadas
 

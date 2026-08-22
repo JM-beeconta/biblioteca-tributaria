@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributario aplicable a las concesiones de las obras p�blicas denominadas "Terminales de Pasajeros y de Carga Aeropuerto Diego Aracena de Iquique" y "Terminal de Pasajeros Aeropuerto. Oficio N� 898, de 29.03.95 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las - Art. 2� N� 2, Marzo 1995 La concesi�n para explotar recintos de dep�sito aduanero no constituye hecho gravado con el Impuesto al Valor Agregado, ya que no proviene del ejercicio de ninguna de las actividades...Oficio N� 803, de 20.03.95 Ley sobre Impue…
+ctividades...Oficio N� 803, de 20.03.95 Ley sobre Impuesto a las Ventas y Servicios. Art�culos 2�, N�2, 12� y 13�, en relaci�n con el Decreto Ley N� 1.244 de 1975 Aplicaci�n del Impuesto al Valor Agregado en el servicio de transporte, realizado entre Valpara�so e Isla de Pascua... Ordinario N� 633, de fecha 02 de Marzo de 1995
 
 ## Referencias detectadas
 

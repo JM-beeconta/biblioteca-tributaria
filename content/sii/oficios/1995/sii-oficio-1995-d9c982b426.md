@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ada del 4%, que afecta a los intereses provenientes de las operaciones de cr�ditos referidas en... (Oficio N�1.772, de 23.06.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis , letra b), Julio 1995 De la forma en que los part�cipes de Fondos Mutuos, que efect�en inversiones en dichos Fondos, pueden acogerse al mecanismos de incentivo al ahorro que contempla... (Oficio N� 1.771, de 23.06.95). Rentas Municipales - Actual Ley sobre - Art. 47�. Junio 1995 Las cantidades que las instituciones a que se refiere…
+e 23.06.95). Rentas Municipales - Actual Ley sobre - Art. 47�. Junio 1995 Las cantidades que las instituciones a que se refiere el Art. 47� del D.L N� 3.063, sobre Rentas Municipales, reciban por concepto de donaciones, s�lo podr�n... (Oficio N� 1.682, de 16.06.95).
 
 ## Referencias detectadas
 

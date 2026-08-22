@@ -11,7 +11,7 @@
 
 ## Resumen
 
-minera efect�a para mejorar y reparar un camino p�blico que utiliza para el traslado y transporte de maquinarias... Oficio N� 1.001, de 10.04.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N� 4, Abril 1996 Tratamiento tributario aplicable en relaci�n con las normas de la ley sobre impuesto a la renta e Impuesto al Valor Agregado en lo que respecta a los gastos... Oficio N� 971, de 04.04.96. Renta - Actual ley sobre impuesto a la - Art. 59�. Abril 1996 De la tributaci�n aplicable a la internaci�n en Chile de…
+de 04.04.96. Renta - Actual ley sobre impuesto a la - Art. 59�. Abril 1996 De la tributaci�n aplicable a la internaci�n en Chile de un sistema inform�tico que puede ser aplicado en diversos �mbitos, entre otros, cartograf�a digital, proyectos de obras p�blicas, redes... Oficio N� 912, de 27.03.96
 
 ## Referencias detectadas
 

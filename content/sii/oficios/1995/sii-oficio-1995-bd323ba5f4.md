@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art.69� del D.L N� 3500, se obliguen a efectuar de acuerdo con la opci�n libre que ejerzan en virtud... (Oficio N� 617, de 28.02.95). C�digo Tributario - Actual texto - Art. 28�. Marzo 1995 El responsable exclusivo del cumplimiento de las obligaciones tributarias que emanen de las operaciones que constituyan el giro de la asociaci�n es el gestor, en tanto los asociados... (Oficio N� 581, de 24.02.95). Franquicias tributarias - Decreto ley N� 1244 - Art. 4� - Febrero 1995 En el caso de celebrarse un contrato de con…
+e 24.02.95). Franquicias tributarias - Decreto ley N� 1244 - Art. 4� - Febrero 1995 En el caso de celebrarse un contrato de construcci�n para rehabilitar la pista de aterrizaje del aeropuerto de Mataveri, en Isla de Pascua, las personas que realicen las obras civiles solo podr�n... (Oficio N� 534, de 21.02.95).
 
 ## Referencias detectadas
 

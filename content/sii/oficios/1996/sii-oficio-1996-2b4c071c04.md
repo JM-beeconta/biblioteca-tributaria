@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1996
-- Fecha: 1996-01-01
+- Fecha: 1996-12-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/otras/dic127.htm
 - Hash SHA-256: 70f88a8022b6375d1e0ed60ac2303bb521725f7044bba20f00b2fbe6a3957178
 
 ## Resumen
 
-beneficios tributarios del art�culo 47� del D.L N� 3.063, de 1979...Oficio N� 3.439, de 10.12.96 Ley 19.460 de 1996 - Modificaciones introducidas a la ley de la renta - Arts. 2� y 3�. Diciembre 1996 Tratamiento tributario aplicable a las subvenciones fiscales pagadas por el estado a los concesionarios en virtud de un contrato de concesi�n de obra p�blica. Oficio N� 3.361, de 02.12.96 Timbres y estampillas - Nuevo texto ley sobre impuesto de - Arts. 1�, N� 3 y 24�, N� 11 Diciembre 1996 Informa acerca del impuesto d…
+Timbres y estampillas - Nuevo texto ley sobre impuesto de - Arts. 1�, N� 3 y 24�, N� 11 Diciembre 1996 Informa acerca del impuesto de timbres y estampillas que afecta a pagar�s y sobre la normativa de comercio exterior al suscribirse a los pagar�s. Oficio N� 3481, de 13.12.96
 
 ## Referencias detectadas
 

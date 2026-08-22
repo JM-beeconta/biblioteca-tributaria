@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n�nima cerrada ya constituida, en relaci�n con los Impuestos establecidos en la Ley... (Oficio N� 1.130, de 25.04.95). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 7 - Abril 1995 Sobre el valor de adquisici�n de las acciones provenientes de la transformaci�n de una sociedad de personas en sociedad an�nima, considerando que en el mismo acto jur�dico se produce... (Oficio N� 997, de 10.04.95). Renta - Actual Ley sobre Impuesto a la - Art. 74�, N� 2, Abril 1995 Improcedencia de efectuar la retenci�n de Impue…
+e 10.04.95). Renta - Actual Ley sobre Impuesto a la - Art. 74�, N� 2, Abril 1995 Improcedencia de efectuar la retenci�n de Impuesto a que se refiere el N� 2 del Art. 74� de la Ley de la Renta, respecto de los fondos entregados por la Comisi�n Nacional de Investigaci�n Cient�fica y ... (Oficio N� 984, de 07.04.95).
 
 ## Referencias detectadas
 

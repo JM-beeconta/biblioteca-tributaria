@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en los inventarios del vendedor o prestador de servicios, contenidas en Circular N� 3, de 1992, del servicio de impuestos internos...Oficio N� 3.151, de 12.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art.15� N� 1. Noviembre 1996 Aplicaci�n del impuesto al valor agregado a la diferencia de precio en la venta de inmuebles, producto del incremento en el valor de la unidad de fomento, entre la fecha de facturaci�n...Oficio N� 3.137, de 11.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art.…
+137, de 11.11.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 64�, inciso final. Noviembre 1996 Exigibilidad del impuesto al valor agregado en el caso en que un contribuyente convenga con tesorer�as el pago de una de las cuotas del tributo adeudado, por la adquisici�n...Oficio N� 3.121, de 07.11.96
 
 ## Referencias detectadas
 

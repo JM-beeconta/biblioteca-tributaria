@@ -11,7 +11,7 @@
 
 ## Resumen
 
-inal, de la ley de la renta, en casos de rentas que se paguen o abonen en cuenta... (Oficio N� 3.521, de 19.12.96). Renta - Actual ley sobre impuesto a la - Arts. 29� , 30� y 31�, N� 9. Diciembre 1996 Tratamiento tributario de la ley de renta, respecto a los gastos incurridos en la construcci�n de obras realizadas en terrenos entregados en concesi�n municipal. (Oficio N� 3.496, de 16.12.96). Renta - Actual ley sobre impuesto a la - Art. 15�, inciso sexto, Diciembre 1996 Aplicaci�n de las disposiciones de los incis…
+e 16.12.96). Renta - Actual ley sobre impuesto a la - Art. 15�, inciso sexto, Diciembre 1996 Aplicaci�n de las disposiciones de los incisos sexto del art�culo 15� de la ley de impuesto a la renta, y segundo de la letra c) del art�culo 16� del D.L N� 825, de 1974... (Oficio N� 3.482, de 13.12.96).
 
 ## Referencias detectadas
 

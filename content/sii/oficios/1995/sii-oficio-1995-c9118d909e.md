@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dores por asesor�as t�cnicas contratadas con personas sin domicilio ni residencia...Oficio N� 1.630, de 10.06.96 Ley 18.985 - Art. 5� Transitorio. Junio 1996 De las enajenaciones de predios agr�colas que se encuentran amparadas por las normas de Art. 5� transitorio de la ley 18.985, sobre reforma tributaria, publicada en el diario oficial del 28 de junio...Oficio N� 1.762, de 18.06.96 Ley 19.396 - Arts. 21�, 25� y 33� - Nuevo tratamiento obligaci�n subordinada. Junio 1996 De los aspectos tributarios que se derivan…
+Ley 19.396 - Arts. 21�, 25� y 33� - Nuevo tratamiento obligaci�n subordinada. Junio 1996 De los aspectos tributarios que se derivan de la aplicaci�n de las normas de la ley 19.396, publicada en el diario oficial del 29 de julio de 1995, que se dispone un nuevo tratamiento de la...Oficio N� 1.656, de 12.06.96
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cuentas. (Of N� 1.545, DE 17.04.94) DL no. 825 (nuevo texto), art. 42, letra a).- Ley no. 18.455 (do 11.11.85), art. 28, letra a).- DS no. 78, Ministerio de Agricultura (do 23.10.86), art. 1, no. 17; y 58.-., Marzo 1994 Producto denominado "pisco sour" - cooperativa agr�cola - elaboraci�n - Servicio Agr�cola y Ganadero - Informaci�n - Impuesto Adicional. (Of. N� 1.252, DE 30.03.94). DL no. 825 (nuevo texto), art. 52.-, Marzo 1994 Ministerio de Obras P�blicas - contratos de concesi�n de obras publicas - precio de l…
+E 30.03.94). DL no. 825 (nuevo texto), art. 52.-, Marzo 1994 Ministerio de Obras P�blicas - contratos de concesi�n de obras publicas - precio de la construcci�n de la obra - expresi�n "costo real de la obra" - sentido y alcance - factura - emisi�n. (Of. N� 1.193, DE 25.03.94).
 
 ## Referencias detectadas
 

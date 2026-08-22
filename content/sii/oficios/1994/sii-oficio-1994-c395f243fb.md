@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sa de la norma legal, ya sea total o parcialmente tienen derecho a invocar el cr�dito por... (Oficio N� 263, de 26.01.95). Ley 18.502 - Arts. 6� letra b y 7� - Febrero 1995 Acerca del procedimiento legal que fija el plazo y condiciones que deben cumplirse para obtener el reembolso del Impuesto espec�fico al petr�leo diesel establecido en el Art. 6�, letra b) de la ley... (Oficio N� 260, de 26.01.95). C�digo Tributario - Actual Texto - Art. 126�, N� 1, Marzo 1995 En aquellos casos en que el contribuyente solicite l…
+e 26.01.95). C�digo Tributario - Actual Texto - Art. 126�, N� 1, Marzo 1995 En aquellos casos en que el contribuyente solicite la devoluci�n de Impuestos fundamentado en la norma sobre correcci�n de errores propios contemplada en el N� 1 del Art. 126�.. (Oficio N� 230, de 24.01.95).
 
 ## Referencias detectadas
 

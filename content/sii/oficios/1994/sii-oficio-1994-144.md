@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ribunal ordinario de justicia - Tribunales superiores. (Oficio N�355, de 20.01.94). Ley renta, art. 41, inciso primero, no. 3, letra a)., Enero 1994 Existencias de trigo - destinos - "semilla" de trigo - producci�n de "harina" y fabricaci�n de pan, pasteles y galletas - bienes del mismo genero, pero calidad y caracter�sticas diferentes - activo realizable. (Oficio N� 268, de 17.01.94). Ley de Impuesto a la Renta. Art�culo 31. Situaci�n tributaria del valor invertido en marcas comerciales que presenten situaci�n qu…
+Oficio N� 268, de 17.01.94). Ley de Impuesto a la Renta. Art�culo 31. Situaci�n tributaria del valor invertido en marcas comerciales que presenten situaci�n que indica. (Oficio N�144 de 12 de enero de 1994)
 
 ## Referencias detectadas
 

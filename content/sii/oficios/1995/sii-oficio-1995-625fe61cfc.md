@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stituyan el giro de la asociaci�n es el gestor, en tanto los asociados... (Oficio N� 581, de 24.02.95). Franquicias tributarias - Decreto ley N� 1244 - Art. 4� - Febrero 1995 En el caso de celebrarse un contrato de construcci�n para rehabilitar la pista de aterrizaje del aeropuerto de Mataveri, en Isla de Pascua, las personas que realicen las obras civiles solo podr�n... (Oficio N� 534, de 21.02.95). Ley 18.933 - Arts. 21� y 38�. Febrero 1995 Las cotizaciones de salud con que las instituciones de salud previsional…
+e 21.02.95). Ley 18.933 - Arts. 21� y 38�. Febrero 1995 Las cotizaciones de salud con que las instituciones de salud previsional financian las prestaciones de salud no se consideran ingresos tributables en el periodo en que se devengan las remuneraciones... (Oficio N� 488, de 16.02.95).
 
 ## Referencias detectadas
 

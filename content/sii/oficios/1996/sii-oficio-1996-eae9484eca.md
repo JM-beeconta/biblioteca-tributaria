@@ -11,7 +11,7 @@
 
 ## Resumen
 
-alcance de la exenci�n del impuesto al valor agregado contemplada en el Art. 13�, N� 7 del D.L N� 825, sobre impuesto a las ventas y servicios, en prestaciones...Oficio N� 2.167, de 08.08.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2� N� 2�. Agosto 1996 Las actividades que desarrolle un contribuyente consistentes en recibir y atender misiones empresariales procedentes del extranjero, las que comprender�an realizar exposiciones...Oficio N� 2.104, de 29.07.96 Ventas y Servicios - Nuevo texto ley im…
+104, de 29.07.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2� N� 2�. Agosto 1996 El otorgamiento de duplicados de credenciales de salud por FONASA, a los afiliados que lo soliciten, en raz�n de tratarse de situaciones realizadas por esa entidad comprendidas dentro...Oficio N� 2.099, de 26.07.96
 
 ## Referencias detectadas
 

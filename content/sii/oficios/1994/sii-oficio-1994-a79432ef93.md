@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eneral de construcci�n por suma alzada - Cobro de peaje - Normas de la ley...(Oficio N� 4.596, de 28.12.94). Ventas y servicios - nuevo texto Ley impuesto a las - arts. 43 bis y 46, Diciembre 1994 Autom�viles con motor el�ctrico - Importaci�n, habitual o no - Valor aduanero - Cilindrada del motor - Impuesto Adicional del art. 43 bis del DL no. 825 - Inaplicabilidad - Valor aduanero que excede de US$ 9.639,93 - Impuesto Adicional del ...(Oficio N� 4.432, de 13.12.94). Ventas y Servicios - nuevo texto Ley impuesto a…
+2, de 13.12.94). Ventas y Servicios - nuevo texto Ley impuesto a las - art. 2, no. 2, Diciembre 1994 Empresa de promoci�n y difusi�n de servicios y productos bancarios - Convenio de prestaci�n de servicios celebrado con entidad bancaria - Potenciales clientes - Recopilaci�n de antecedentes - concepto de "actividades publicitarias" - Calificaci�n de "corredor" por los servicios de mediaci�n - Impuesto al valor...(Oficio N� 4.402, de 09.12.94).
 
 ## Referencias detectadas
 

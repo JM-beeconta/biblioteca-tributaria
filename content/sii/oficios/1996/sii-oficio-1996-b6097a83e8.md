@@ -11,7 +11,7 @@
 
 ## Resumen
 
-hagan a sus miembros los comit�s rurales constituidos como organizaciones comunitarias...Oficio N� 2.413, de 30.08.96 Timbres y estampillas - Nuevo texto ley impuesto de - Art. 3�, Septiembre 1996 Trat�ndose de una importaci�n o ingreso de mercanc�as desde es exterior a zonas francas, la declaraci�n jurada requerida por la direcci�n nacional del servicio..Oficio N� 2.389, de 28.08.96 Reglamento del D.L N� 825 - Nuevo texto - Art. 4�. Septiembre 1996 Acerca de la aplicaci�n del impuesto al valor agregado a la venta…
+Reglamento del D.L N� 825 - Nuevo texto - Art. 4�. Septiembre 1996 Acerca de la aplicaci�n del impuesto al valor agregado a la venta de una planta industrial recibida en pago de deudas por una instituci�n bancaria...Oficio N� 2.567, de 09.09.96
 
 ## Referencias detectadas
 

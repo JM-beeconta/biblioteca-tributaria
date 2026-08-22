@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mento del D.L � 825, sobre impuesto a las ventas y servicios, en relaci�n...Oficio N� 1.845, de 26.06.96 Capacitaci�n y empleo - Estatuto de actual texto - Art. 21�. Agosto 1996 En los casos en que las Universidades privadas de que se trata pretendan efectuar actividades de capacitaci�n en favor de sus trabajadores y adoptan la calidad de contribuyentes...Oficio N� 2.173, de 08.08.96 C�digo tributario - Actual texto - Art. 127�. Agosto 1996 Del c�digo tributario, en relaci�n a una solicitud de correcci�n de error…
+C�digo tributario - Actual texto - Art. 127�. Agosto 1996 Del c�digo tributario, en relaci�n a una solicitud de correcci�n de error propio, por lo cual se desea compensar el impuesto al valor agregado cancelado en exceso en determinados meses...Oficio N� 2.300, de 20.08.96
 
 ## Referencias detectadas
 

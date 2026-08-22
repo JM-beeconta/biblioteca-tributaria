@@ -11,7 +11,7 @@
 
 ## Resumen
 
-istradas en FUT a un c�nyuge, en forma separada del negocio al que acceden, con ocasi�n de la liquidaci�n de la comunidad originada... (Oficio N� 3.474, de 12.12.96). Renta - Actual ley sobre impuesto a la - Art. 59�, Diciembre 1996 Procedencia de la exenci�n establecida en el art�culo 6� del D.L N� 2.564, de 1979, respecto del impuesto adicional de la ley de la renta. (Oficio N� 3.441, de 10.12.96). Renta - Actual ley sobre impuesto a la - Arts. 58�, 59� y 60�, Diciembre 1996 Tributaci�n que afecta a los socios e…
+e 10.12.96). Renta - Actual ley sobre impuesto a la - Arts. 58�, 59� y 60�, Diciembre 1996 Tributaci�n que afecta a los socios extranjeros de una sociedad de responsabilidad limitada establecida en Chile. (Oficio N� 3.440, de 10.12.96).
 
 ## Referencias detectadas
 

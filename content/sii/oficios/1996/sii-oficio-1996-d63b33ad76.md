@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a de la situaci�n tributaria de los gastos en que incurra una agencia de una empresa a�rea extranjera en Chile, por concepto de bodegaje de especies transportadas...Oficio N� 296, de 30.01.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 8� letra m). Febrero 1996 Acerca de la situaci�n tributaria de los bienes del giro de las empresas arrendadoras de veh�culos motorizados, en relaci�n con las normas del D.L. N� 825, sobre impuesto a la...Oficio N� 236, de 25.01.96 Ventas y Servicios - Nuevo texto ley…
+236, de 25.01.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 13�, N� 6, letra e). Febrero 1996 El servicio de distribuci�n de correspondencia est� afecto al impuesto al Valor Agregado, excepto cuando la propia Ley establece una exenci�n, conforme se�ala el...Oficio N� 180, de 23.01.96
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rsidad de Chile sea una entidad independiente de dicho plantel universitario, y por consiguiente, se encuentre exento del Impuesto al Valor Agregado...Oficio N� 2.558, de 17.08.95 . Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 8�, letra h), Agosto 1995 De la cesi�n del uso o goce temporal de licencias de programas de computaci�n, para reproducirlos en el extranjero, en relaci�n con el Impuesto al Valor Agregado, y de la posibilidad...Oficio N� 2.490, de 11.08.95 Ventas y Servicios - Nuevo Texto Ley I…
+490, de 11.08.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 23�, N� 3, Agosto 1995 El supuesto normativo del N� 3 del Art. 23� del D.L N� 825, sobre Impuesto a las Ventas y Servicios, para que resulte utilizable como cr�dito fiscal s�lo una proporci�n del Impuesto...Oficio N� 2.365, de 09.08.95
 
 ## Referencias detectadas
 

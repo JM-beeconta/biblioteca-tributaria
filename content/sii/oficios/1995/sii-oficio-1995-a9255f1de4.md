@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley 18.046, de 1981, en que los activos de la Ley... ( Oficio N� 3.625, de 05.12.95). Franquicias tributarias - Ley 18.714 - Art. 9�, Diciembre 1995 Sentido y alcance de la exenci�n contemplada en el Art. 9� de la Ley 18.714, de 1988, que establece Nuevo Estatuto de la Jefatura de Bienestar de la Polic�a de Investigaciones de Chile... (Oficio N� 3.621, de 04.12.95). Reglamento del D.L N� 825 - Nuevo Texto Art. 64�, Diciembre 1995 De las condiciones en que se entiende que un veh�culo motorizado se encuentra nuevo o…
+e 04.12.95). Reglamento del D.L N� 825 - Nuevo Texto Art. 64�, Diciembre 1995 De las condiciones en que se entiende que un veh�culo motorizado se encuentra nuevo o sin uso, para los efectos previstos en el Art. 41� del D.L N� 825, sobre Impuestos a las... (Oficio N� 3.577, de 29.11.95).
 
 ## Referencias detectadas
 

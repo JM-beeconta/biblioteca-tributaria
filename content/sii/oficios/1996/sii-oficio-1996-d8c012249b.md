@@ -11,7 +11,7 @@
 
 ## Resumen
 
-genera rentas gravadas o afectas con los impuestos... (Oficio N� 3.298, de 26.11. 96). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 2 y 50�. Noviembre 1996 De la tributaci�n que en relaci�n con los impuestos de la ley de la renta afectar�a a los profesionales y t�cnicos extranjeros, residentes o no residentes en Chile, por actividades realizadas en el pa�s... (Oficio N� 3.195, de 14.11.96). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 2, y 50�. Noviembre 1996 De los contribuyentes se�alados en…
+e 14.11.96). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 2, y 50�. Noviembre 1996 De los contribuyentes se�alados en el N� 2 del Art. 42� de la ley de la renta que tienen derecho a deducir como gasto las cotizaciones previsionales efectuadas en organismos de previsi�n... (Oficio N� 3.181, DE 13.11.96).
 
 ## Referencias detectadas
 

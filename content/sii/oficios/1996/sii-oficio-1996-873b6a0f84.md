@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ienen de la prestaci�n del servicio de cajeros autom�ticos por parte de una entidad bancaria, se encuentran gravados con el impuesto al valor...Oficio N� 2.361, de 23.08.96 Ventas y Servicios - Nuevo texto ley impuesto a las Arts. 15�, inciso segundo y 23� Agosto 1996 Acerca de la aplicaci�n del impuesto al valor agregado por el cobro de intereses en operaciones exentas del tributo y sobre la procedencia del uso del cr�dito fiscal por comisiones...Oficio N� 2.291, de 19.08.96 Ventas y Servicios - Nuevo texto ley i…
+291, de 19.08.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 13�, Nos 6 y 7. Agosto 1996 Sentido y alcance de la exenci�n del impuesto al valor agregado contemplada en el Art. 13�, N� 7 del D.L N� 825, sobre impuesto a las ventas y servicios, en prestaciones...Oficio N� 2.167, de 08.08.96
 
 ## Referencias detectadas
 

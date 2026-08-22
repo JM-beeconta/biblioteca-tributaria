@@ -11,7 +11,7 @@
 
 ## Resumen
 
-contribuyente que solicita se le autorice modificar el procedimiento de c�lculo del monto del reembolso de remanente acumulado de cr�dito fiscal...Oficio N� 582, de 24.02.95 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las - Art. 9�, letra e) Marzo 1995 El suministro de energ�a el�ctrica comprende no s�lo la entrega de la especie generadora de energ�a, la electricidad, sino adem�s los servicios indispensables para hacer efectiva esa entrega...Oficio N� 542, de 22.02.95 Ventas y Servicios - Nuevo Texto Ley de…
+542, de 22.02.95 Ventas y Servicios - Nuevo Texto Ley de Impuesto a las - Art. 2�, N� 2, Marzo 1995 Los servicios de salud dental prestados por una sociedad an�nima, mediante la contrataci�n de odont�logos a los cuales se les entrega en arrendamiento el espacio donde prestan los servicios...Oficio N� 541, de 22.02.95
 
 ## Referencias detectadas
 

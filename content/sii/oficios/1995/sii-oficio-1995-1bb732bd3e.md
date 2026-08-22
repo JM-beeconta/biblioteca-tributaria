@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-05-17
+- Fecha: 1995-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1995/renta/may130.htm
 - Hash SHA-256: 7e44e95b08440e4383dd703bf1c396e8516298800659f8f9eab4615448e0f8a1
 
 ## Resumen
 
-taci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 1363 de 17-05-1995). Renta - Actual Ley sobre Impuesto a la - Art. 34� bis N� 2, Mayo 1995 Las empresas que exploten veh�culos motorizados en el transporte terrestre de pasajeros que - con anterioridad a la Ley 18.985, de 1990, sobre Reforma Tributaria hubieren optado por acogerse... (Oficio N� 1.289, de 10.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 43�, N�s 1 y 45�, inciso primero, Mayo 1995- Tratamiento Tributario d…
+e 10.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 43�, N�s 1 y 45�, inciso primero, Mayo 1995- Tratamiento Tributario de las remuneraciones pagadas a los trabajadores cuyo per�odo habitual de pago corresponde a per�odos distintos de un mes, para los efectos de aplicar el Impuesto Unico... (Oficio N� 1.252, de 08.05.95).
 
 ## Referencias detectadas
 

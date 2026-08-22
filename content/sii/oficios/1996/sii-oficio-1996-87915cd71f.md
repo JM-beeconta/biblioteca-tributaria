@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 23�. Mayo 1996 De la utilizaci�n de cr�dito fiscal del impuesto al valor agregado generado por facturas emitidas con RUT err�neo en la situaci�n que se indica...Oficio N� 1.471, de 16.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 9� letra f). Abril 1996 Tributaci�n aplicable a la concesi�n para la construcci�n, conservaci�n, mantenci�n y explotaci�n de la obra p�blica vial denominada "Ruta 5 Tramo Santiago"...Oficio N� 1.002, de 10.04.96 Ventas y Servicios - Nuevo texto ley impuesto a las A…
+002, de 10.04.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 55�. Marzo 1996 Acerca de la documentaci�n del pago anticipado del precio de venta de bienes corporales muebles que se encomienda confeccionar...Oficio N� 887, de 25.03.96
 
 ## Referencias detectadas
 

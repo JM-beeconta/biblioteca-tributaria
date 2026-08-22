@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o de Segunda Categor�a, lo que debe determinarse previamente... (Oficio N� 2.887, de 14.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. 20�, N� 2, inciso final, Septiembre 1995 Si un contribuyente que desarrolla exclusivamente actividades agr�colas (Art. 20�, N�1 de la Ley de la Renta), efect�a colocaciones bancarias a inter�s con ingresos provenientes... (Oficio N� 2.727, de 05.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. 38� bis , Septiembre 1995 Sobre aplicaci�n del Impuesto Unico de 35% establec…
+e 05.09.95). Renta - Actual Ley Sobre Impuesto a la - Art. 38� bis , Septiembre 1995 Sobre aplicaci�n del Impuesto Unico de 35% establecido en el Art. 38� bis de la explotaci�n de un negocio por parte de un heredero que, entre otros bienes, heredo el 100% del patrimonio... (Oficio N� 2.718, de 04.09.95).
 
 ## Referencias detectadas
 

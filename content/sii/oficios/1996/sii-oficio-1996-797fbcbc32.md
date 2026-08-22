@@ -11,7 +11,7 @@
 
 ## Resumen
 
-96 La venta de inmuebles por personas que las hayan construido para venderlas, no se encuentra afecta al impuesto al valor agregado...Oficio N� 1.761, de 18.06.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 42�, letra d). Junio 1996 Aplicaci�n del impuesto adicional establecido en el Art. 42� letra d) del D.L N� 825 sobre impuesto a las ventas y servicios, a la venta o importaci�n de una bebida elaborada a base de t�...Oficio N� 1.609, de 05.06.96 Ventas y Servicios - Nuevo texto ley impuesto a las…
+609, de 05.06.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 9�, letra f). Junio 1996 R�gimen tributario aplicable a las concesiones para la construcci�n, mantenci�n y explotaci�n de las obras p�blicas denominadas "Camino Santiago-Colina-Los andes"...Oficio N� 1.596, de 04.06.96
 
 ## Referencias detectadas
 

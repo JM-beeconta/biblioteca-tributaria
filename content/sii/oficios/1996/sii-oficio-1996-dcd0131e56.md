@@ -11,7 +11,7 @@
 
 ## Resumen
 
-raciones" en la exenci�n de los impuestos del D.L N� 825, de 1974, que establece el Art�culo 23� del DFL N� 341 de 1977 ... Oficio N� 3.360, de 02.12.96 Franquicias tributarias - D.L N� 3.063 de 1979 - Art. 47�, Diciembre 1996 Requisitos que deben reunir las donaciones para acogerse a los beneficios tributarios del art�culo 47� del D.L N� 3.063, de 1979...Oficio N� 3.439, de 10.12.96 Ley 19.460 de 1996 - Modificaciones introducidas a la ley de la renta - Arts. 2� y 3�. Diciembre 1996 Tratamiento tributario aplicab…
+Ley 19.460 de 1996 - Modificaciones introducidas a la ley de la renta - Arts. 2� y 3�. Diciembre 1996 Tratamiento tributario aplicable a las subvenciones fiscales pagadas por el estado a los concesionarios en virtud de un contrato de concesi�n de obra p�blica. Oficio N� 3.361, de 02.12.96
 
 ## Referencias detectadas
 

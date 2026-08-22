@@ -11,7 +11,7 @@
 
 ## Resumen
 
-11, del D.L N� 3.475, de 1980, compete al banco central de Chile...Oficio N� 1.904, de 04.07.96 Timbres y estampillas - Nuevo texto ley impuesto de Art. 24�, N� 11. Julio 1996 Compete al banco central de chile la decisi�n de aplicar, o no, a los cr�ditos que ingresan a Chile, la normativa especial que rige a los cr�ditos obtenidos para el financiamiento...Oficio N� 2.006, de 16.07.96 Timbres y estampillas - Nuevo texto ley impuesto de Art. 24�, N� 11. Julio 1996 De la devoluci�n del impuesto de timbres y estampill…
+Timbres y estampillas - Nuevo texto ley impuesto de Art. 24�, N� 11. Julio 1996 De la devoluci�n del impuesto de timbres y estampillas establecido en el art�culo 1�, N� 3, del D.L v 3.475, de 1980, que grav� los documentos en que consta un cr�dito de dinero obtenido...Oficio N� 1.939, de 09.07.96
 
 ## Referencias detectadas
 

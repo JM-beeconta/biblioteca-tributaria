@@ -11,7 +11,7 @@
 
 ## Resumen
 
-edad an�nima, considerando que en el mismo acto jur�dico se produce... (Oficio N� 997, de 10.04.95). Renta - Actual Ley sobre Impuesto a la - Art. 74�, N� 2, Abril 1995 Improcedencia de efectuar la retenci�n de Impuesto a que se refiere el N� 2 del Art. 74� de la Ley de la Renta, respecto de los fondos entregados por la Comisi�n Nacional de Investigaci�n Cient�fica y ... (Oficio N� 984, de 07.04.95). Renta - Actual Ley sobre Impuesto a la - Arts. 41� A y 41� B, Abril 1995 De los contribuyentes que tienen obligaci�…
+e 07.04.95). Renta - Actual Ley sobre Impuesto a la - Arts. 41� A y 41� B, Abril 1995 De los contribuyentes que tienen obligaci�n de inscribirse en el Registro de Inversiones en el Extranjero que llevar� el Servicio de Impuestos Internos a que se refiere el N� 2 de la letra c del Art. 41� A... (Oficio N� 844, de 24.03.95).
 
 ## Referencias detectadas
 

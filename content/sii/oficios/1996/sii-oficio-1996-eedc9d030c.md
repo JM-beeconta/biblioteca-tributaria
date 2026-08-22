@@ -11,7 +11,7 @@
 
 ## Resumen
 
-as - Art. N� 2. N 2 Enero 1996 Acerca de la aplicaci�n del impuesto al valor agregado a los servicios y asesor�as remunerados que la fundaci�n para el desarrollo frut�cola (FDF)... Oficio N� 3.788, de 18.12.95 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 13�, Nos 6 y 7. Diciembre 1996 Sobre aplicaci�n de IVA a la comisi�n por mantenci�n de cuentas corrientes individuales de excedentes de cotizaciones... Oficio N�. 3.520, de 18.12.96 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 8�, Dicie…
+de 18.12.96 Ventas y Servicios - Actual ley sobre impuesto a la - Art. 8�, Diciembre 1996 Impuesto al valor agregado que afectar�a a una empresa que presta servicios de apoyo cl�nico a pacientes que est�n internados en cl�nicas o en su domicilio particular. Oficio N� 3.438, de 10.12.96
 
 ## Referencias detectadas
 

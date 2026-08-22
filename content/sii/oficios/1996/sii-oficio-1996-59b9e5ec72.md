@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ea el arrendamiento de autom�viles y otros veh�culos adquiridos con tal objeto y que hayan dado derecho al cr�dito fiscal, para cuyo efecto deben...Oficio N� 2.072, de 24.07.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 15�, Julio1996 Desde que los servicios quedaron afectos al impuesto al valor agregado y su base imponible constituida, por tanto, por el precio fijado a la prestaci�n convenida, la ley no contempla rebaja alguna...Oficio N� 2.007, de 16.07.96 Ventas y Servicios - Nuevo texto ley impue…
+007, de 16.07.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 2� N� 2�. Julio 1996 El impuesto al valor agregado no afecta a los certificados o legalizaciones que practique el servicio nacional de aduanas en el ejercicio de sus funciones...Oficio N� 2.005, de 16.07.96
 
 ## Referencias detectadas
 

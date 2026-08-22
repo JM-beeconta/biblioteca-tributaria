@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a la venta del total de las acciones de una sociedad an�nima cerrada a otra sociedad an�nima, por dos �nicos... (Oficio N� 191, de 18.01.95). Renta - Actual ley sobre Impuesto a la - Art. 42�, N� 2, Febrero 1995 Acerca del documento que se debe emitir por servicios prestados a Empresa Extranjera, clasificados en el N� 2 del Art. 42� de la ley sobre Impuesto a la Renta. (Oficio N� 189, de 18.01.95). Renta - Actual ley sobre Impuesto a la - Art. 21�, inciso tercero. Enero 1995 Aplicaci�n del Impuesto Unico estableci…
+e 18.01.95). Renta - Actual ley sobre Impuesto a la - Art. 21�, inciso tercero. Enero 1995 Aplicaci�n del Impuesto Unico establecido en el inciso tercero del Art. 21� de la ley de la renta, en el caso de pagos al exterior correspondientes a la amortizaci�n de un cr�dito... (Oficio N� 132, de 12.01.95).
 
 ## Referencias detectadas
 

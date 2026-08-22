@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributaci�n que afecta a la venta en Zona de Exenci�n de autom�viles usados importados a trav�s de Zona Franca Primaria, por un comerciante en el ramo y usuario de dicha Zona. Oficio N� 1.288, de 10.05.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 2�, N� 2, Mayo 1995 La concesi�n para controlar el estacionamiento de autom�viles no configura hecho gravado con el Impuesto al Valor Agregado, de acuerdo a lo dispuesto en el Art. 2�...Oficio N� 1.221, de 05.05.95 Ventas y Servicios - Nuevo Texto Ley Imp…
+221, de 05.05.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 8� letra e) Mayo 1995 R�gimen Tributario aplicable a la concesi�n para la construcci�n, conservaci�n, mantenci�n y explotaci�n de la Obra P�blica denominada "Camino Nogales - Puchuncav�", en relaci�n...Oficio N� 1.206, DEL 03.05.95
 
 ## Referencias detectadas
 

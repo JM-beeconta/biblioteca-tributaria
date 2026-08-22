@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uales de impuestos de la ley de la renta, cuando en tales per�odos... (Oficio N� 2.479, de 05.09.96 ) Renta - Actual ley sobre impuesto a la Art. 31� inciso primero, Agosto 1996 No procede aceptar como gastos necesarios para producir la renta, los desembolsos en que debe incurrir una empresa de servicios para la mantenci�n y funcionamiento de un autom�vil radio patrulla. (Oficio N� 2.297, de 19.08.96). Rentas municipales - Actual ley sobre - Art. 24�. Agosto 1996 Incompetencia del servicio de impuestos internos en…
+e 19.08.96). Rentas municipales - Actual ley sobre - Art. 24�. Agosto 1996 Incompetencia del servicio de impuestos internos en relaci�n con la determinaci�n del capital propio para los efectos del pago del la patente municipal, a que se refiere... (Oficio N� 2.296, de 19.08.96).
 
 ## Referencias detectadas
 

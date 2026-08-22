@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Chile los tributos pagados, retenidos o adeudados en el exterior. (Oficio N� 2.568, de 09.09.96) Renta - Actual ley sobre impuesto a la - Arts. 73�, 74� y 84�. Septiembre 1996 Los contribuyentes que no sean afectos al impuesto al valor agregado no est�n obligados a presentar declaraciones mensuales de impuestos de la ley de la renta, cuando en tales per�odos... (Oficio N� 2.479, de 05.09.96 ) Renta - Actual ley sobre impuesto a la Art. 31� inciso primero, Agosto 1996 No procede aceptar como gastos necesarios para…
+de 05.09.96 ) Renta - Actual ley sobre impuesto a la Art. 31� inciso primero, Agosto 1996 No procede aceptar como gastos necesarios para producir la renta, los desembolsos en que debe incurrir una empresa de servicios para la mantenci�n y funcionamiento de un autom�vil radio patrulla. (Oficio N� 2.297, de 19.08.96).
 
 ## Referencias detectadas
 

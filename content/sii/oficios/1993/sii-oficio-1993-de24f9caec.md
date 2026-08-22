@@ -11,7 +11,7 @@
 
 ## Resumen
 
-este caso, son prestados por la Universidad...Oficio N� 2.677, DE 25.09.96 Reglamento de contabilidad agr�cola - Decreto Supremo N� 1 1.139 de hacienda - Art. 2�, N� 2. Octubre 1996 De las instrucciones impartidas por la direcci�n nacional del servicio de impuestos internos, respecto del sentido y alcance del concepto de actividad agr�cola en la ganader�a. Oficio N� 2.776, de 07.10.96 Resoluci�n Ex N� 65 - Direcci�n nacional del servicio de impuestos internos, Octubre 1996 De los titulares a los cuales las socieda…
+Resoluci�n Ex N� 65 - Direcci�n nacional del servicio de impuestos internos, Octubre 1996 De los titulares a los cuales las sociedades deben certificar la inversi�n en las acciones de pago. Oficio N� 2.732, de 02.10.96
 
 ## Referencias detectadas
 

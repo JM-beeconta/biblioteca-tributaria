@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. 21, del D.L. N� 910, de 1975, en contrato de construcci�n por suma alzada de un edificio que no se destinar� totalmente a departamentos habitacionales. Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 2�, Nos 1, 2 y 3, Septiembre 1995 De la incidencia del Impuesto al Valor Agregado en la concesi�n para vender al p�blico, en forma automatizada, boletos de pasaje a cuya licitaci�n ha convocado, la Empresa de Transporte...Oficio N� 2.716, de 04.09.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - A…
+716, de 04.09.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 23�, N� 3, Septiembre 1995 Los exportadores se rigen por las normas del Art. 36� del D.L N� 825, s�lo respecto de sus exportaciones, y en cuanto a las dem�s operaciones deben aplicarse las disposiciones comunes...Oficio N� 2.654, de 28.08.95
 
 ## Referencias detectadas
 

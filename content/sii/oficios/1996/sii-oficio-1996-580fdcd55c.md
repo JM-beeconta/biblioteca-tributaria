@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ria de la diferencia producida entre el precio de adquisici�n de las acciones...Oficio N� 1.843, de 26.06.96 Fondos de inversi�n de capital extranjero- Ley 18.657. Arts. 12� y 15�, Julio 1996 De las obligaciones de car�cter tributario que deben cumplir las entidades organizadas como fondos de inversi�n de capital extranjero a que se refiere la ley 18.657...Oficio N� 2.009, de 16.07.96 Timbres y estampillas - Nuevo texto ley impuesto de Art. 1�, N� 3. Julio 1996 Para los efectos de que opere la exenci�n del impuest…
+Timbres y estampillas - Nuevo texto ley impuesto de Art. 1�, N� 3. Julio 1996 Para los efectos de que opere la exenci�n del impuesto de timbres y estampillas contemplada en el Art. 24�, N� 11, del D.L N� 3.475, de 1980, compete al banco central de Chile...Oficio N� 1.904, de 04.07.96
 
 ## Referencias detectadas
 

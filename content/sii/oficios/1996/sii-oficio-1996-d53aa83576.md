@@ -11,7 +11,7 @@
 
 ## Resumen
 
-es an�nimas, cuando dicha reinvensi�n es efectuada por un accionista en otras empresas... (Oficio N� 2.903, de 18.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 3. Octubre 1996 Situaci�n tributaria de los seguros de vida dotales que una empresa contrata en su beneficios y toma a nombre de sus ejecutivos, en relaci�n con las normas de la ley de la renta... (Oficio N� 2.800, de 08.10.96). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1 letra a),incisos pen�ltimo y �ltimo. Octubre 1996 Tratamie…
+e 08.10.96). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1 letra a),incisos pen�ltimo y �ltimo. Octubre 1996 Tratamiento tributario de las sumas pagadas por concepto de contribuciones de bienes ra�ces o impuesto territorial, en lo que respecta al arrendador y al arrendatario, en su caso... (Oficio N� 2.860, de 14.10.96).
 
 ## Referencias detectadas
 

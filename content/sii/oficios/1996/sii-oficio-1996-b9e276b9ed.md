@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del ley de la renta, no favorece a la corporaci�n de bienestar de los trabajadores del Instituto... Oficio N� 1.531, de 24.05.96. Renta - Actual ley sobre impuesto a la - Art. 47�. Mayo 1996 Acerca del tratamiento tributario de las donaciones recibidas por la corporaci�n "Coordinadora nacional del adulto mayor" en relaci�n con los requisitos y condiciones que... Oficio N� 1.473, de 16.05.96 Renta - Actual ley sobre impuesto a la - Actual ley sobre impuesto a la - Art. 31� Mayo 1996 Situaci�n tributaria que afectar…
+de 16.05.96 Renta - Actual ley sobre impuesto a la - Actual ley sobre impuesto a la - Art. 31� Mayo 1996 Situaci�n tributaria que afectar�a al fondo especial de salud que constituir�a una instituci�n de salud previsional para financiar un plan especial de salud para afiliados... Oficio N� 1.464, de 16.05.96
 
 ## Referencias detectadas
 

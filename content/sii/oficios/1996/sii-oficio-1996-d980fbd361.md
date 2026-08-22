@@ -11,7 +11,7 @@
 
 ## Resumen
 
-socios extranjeros de una sociedad de responsabilidad limitada establecida en Chile. (Oficio N� 3.440, de 10.12.96). Renta - Actual ley sobre impuesto a la - Art. 20� N� 5, Diciembre 1996 La sociedad administradora de un centro m�dico que no cumple los requisitos para ser clasificada como sociedad de profesionales, consistiendo su actividad s�lo a la prestaci�n de... (Oficio N� 3.379, de 04.12.96). Renta - Actual ley sobre impuesto a la - Arts. 21� y 65�, N� 1, Diciembre 1996 Una sociedad colectiva civil, que tien…
+e 04.12.96). Renta - Actual ley sobre impuesto a la - Arts. 21� y 65�, N� 1, Diciembre 1996 Una sociedad colectiva civil, que tiene como �nico activo el usufructo sobre un bien ra�z destinado a la habitaci�n de uno de sus socios, no genera rentas gravadas o afectas con los impuestos... (Oficio N� 3.298, de 26.11. 96).
 
 ## Referencias detectadas
 

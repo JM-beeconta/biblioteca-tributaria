@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 1, de la ley de la renta, en relaci�n con las modificaciones introducidas a los Arts. 21� y 33�... Oficio N� 1.224, de 17.04.96 Renta - Actual ley sobre impuesto a la - Art. 31�. Abril 1996 Tratamiento tributario aplicable a los desembolsos que una empresa minera efect�a para mejorar y reparar un camino p�blico que utiliza para el traslado y transporte de maquinarias... Oficio N� 1.001, de 10.04.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N� 4, Abril 1996 Tratamiento tributario aplicable en relaci�n c…
+de 10.04.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N� 4, Abril 1996 Tratamiento tributario aplicable en relaci�n con las normas de la ley sobre impuesto a la renta e Impuesto al Valor Agregado en lo que respecta a los gastos... Oficio N� 971, de 04.04.96.
 
 ## Referencias detectadas
 

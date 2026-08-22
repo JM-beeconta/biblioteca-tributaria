@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r clase o el aporte de dichos valores a una sociedad... (Oficio N� 2.948, de 22.10.96). Renta - Actual ley sobre impuesto a la - Art. 14� p�rrafo A), N� 1 letra c), Noviembre 1996 Acerca de la reinvenci�n de utilidades mediante la adquisici�n de acciones de pago de sociedades an�nimas, cuando dicha reinvensi�n es efectuada por un accionista en otras empresas... (Oficio N� 2.903, de 18.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 3. Octubre 1996 Situaci�n tributaria de los seguros de vida dotales q…
+e 18.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 3. Octubre 1996 Situaci�n tributaria de los seguros de vida dotales que una empresa contrata en su beneficios y toma a nombre de sus ejecutivos, en relaci�n con las normas de la ley de la renta... (Oficio N� 2.800, de 08.10.96).
 
 ## Referencias detectadas
 

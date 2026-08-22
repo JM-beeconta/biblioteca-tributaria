@@ -11,7 +11,7 @@
 
 ## Resumen
 
-711, DE 16.02.94). DL no. 825 (nuevo texto), art. 12, letra b), no. 10.- DL no. 600, texto refundido contenido en DFL no. 523 (do 16.12.93), art. 2., Febrero 1994 Proyecto de inversi�n extranjera - convenio con Estado de Chile seg�n DL no. 600, de 1974 - aporte materializado en divisas - empresa receptora - bienes de capital - importaci�n para el mismo proyecto - impuesto. (Of. N� 682, DE 14.02.94). Ley de donaciones con fines culturales - contenida en el art�culo 8 de la Ley no. 18.985, Febrero 1994 Donaciones -…
+E 14.02.94). Ley de donaciones con fines culturales - contenida en el art�culo 8 de la Ley no. 18.985, Febrero 1994 Donaciones - corporaci�n pro-termino del Teatro Municipal de Chillan como donataria - Ley de donaciones con fines culturales... (Of. N� 553, DE 03.02.94).
 
 ## Referencias detectadas
 

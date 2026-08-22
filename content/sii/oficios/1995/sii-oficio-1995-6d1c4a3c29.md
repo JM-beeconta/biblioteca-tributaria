@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de la Inversi�n Extranjera, producto de la enajenaci�n... (Oficio N� 2.053, de 11.07.95). Renta - Actual Ley sobre Impuesto a la - Arts. 17�, N� 8, letra a) y 18�. Julio 1995 Acerca de la valorizaci�n de acciones de sociedades an�nimas chilenas canjeadas por ADRs (American Depositary Receipt), considerando a las modificaciones introducidas al cap�tulo XXVI... (Oficio N� 1.969, de 03.07.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, inciso cuarto,. N� 1, letras b) y c Julio 1995 Para los efectos de aplicar…
+e 03.07.95). Renta - Actual Ley sobre Impuesto a la - Art. 59�, inciso cuarto,. N� 1, letras b) y c Julio 1995 Para los efectos de aplicar el Impuesto Adicional a la Renta con tasa rebajada del 4%, que afecta a los intereses provenientes de las operaciones de cr�ditos referidas en... (Oficio N�1.772, de 23.06.95).
 
 ## Referencias detectadas
 

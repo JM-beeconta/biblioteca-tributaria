@@ -11,7 +11,7 @@
 
 ## Resumen
 
-al, a que se refiere... (Oficio N� 2.296, de 19.08.96). Renta - Actual ley sobre impuesto a la - Art. 41�, inciso tercero. Agosto 1996 Situaci�n tributaria del aporte de derechos sociales efectuados por determinados socios de una sociedad de personas para la constituci�n de otra sociedad de igual naturaleza... (Oficio N� 2.293, de 19.08.96). Ley de Impuesto a la Renta. Art�culo 59� . Tratamiento tributario aplicable a los derivados financieros que indica y normativa relacionada. (Oficio N� 2292 de 19 de Agosto de…
+Ley de Impuesto a la Renta. Art�culo 59� . Tratamiento tributario aplicable a los derivados financieros que indica y normativa relacionada. (Oficio N� 2292 de 19 de Agosto de 1996).
 
 ## Referencias detectadas
 

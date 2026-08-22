@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rmulario N� 22, A�o tributario 1996, de acuerdo a las modificaciones introducidas... Oficio N� 762, de 12.03.96 Renta - Actual ley sobre impuesto a la - Art. 57� bis, letra a), Nos 1 y 2. Marzo 1996 De la emisi�n del Certificado de Dividendos que las sociedades an�nimas abiertas deben otorgar a sus accionistas cuando estos posean acciones en copropiedad, para los... Oficio N� 698, de 05.03.96 Rentas Municipales - Actual ley sobre - Art. 47�. Marzo 1996 Requisitos y condiciones para que las donaciones que se efect�…
+de 05.03.96 Rentas Municipales - Actual ley sobre - Art. 47�. Marzo 1996 Requisitos y condiciones para que las donaciones que se efect�en a centros privados de atenci�n a menores por contribuyentes de la primera Categor�a, puedan... Oficio N� 695, de 05.03.96.
 
 ## Referencias detectadas
 

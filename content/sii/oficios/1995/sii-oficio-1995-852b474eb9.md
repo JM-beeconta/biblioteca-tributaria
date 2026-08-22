@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pecto a la forma en que se deben efectuar sus declaraciones... (Oficio N� 1.250, de 08.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 84�, Mayo 1995 Para los efectos de determinar la tasa variable de los pagos provisionales mensuales que establece el Art. 84� de la Ley de la Renta, en el caso de venta de un bien ra�z que formaba parte del Activo Fijo... (Oficio N� 1.222, de 05.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 17� N� 8 inciso primero, letra b) e inciso pen�ltimo, Mayo 1995 Tratamiento Tr…
+e 05.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 17� N� 8 inciso primero, letra b) e inciso pen�ltimo, Mayo 1995 Tratamiento Tributario del aporte de un bien ra�z urbano efectuado por una persona natural a una sociedad an�nima cerrada ya constituida, en relaci�n con los Impuestos establecidos en la Ley... (Oficio N� 1.130, de 25.04.95).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-udio de factibilidad de un proyecto tur�stico, si ese estudio no persigue la obtenci�n de un conocimiento nuevo... (Oficio N� 3.489, de 22.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 17� y N� 23 , Noviembre 1995 De los requisitos copulativos que deben cumplir los premios o galardones a que se refiere el N� 23 del Art. 17� de la Ley sobre Impuesto a la Renta... (Oficio N� 3.476, de 21.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 17v N� 8, inciso tercero, Noviembre 1995 De la fecha de adquisici�n…
+e 21.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 17v N� 8, inciso tercero, Noviembre 1995 De la fecha de adquisici�n de las acciones que forman parte del Activo de una sociedad an�nima que se divide y calificaci�n de habitualidad en la venta de las acciones con antig�edad,... (Oficio N� 3.468, de 20.11.95).
 
 ## Referencias detectadas
 

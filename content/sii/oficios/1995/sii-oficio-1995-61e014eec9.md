@@ -11,7 +11,7 @@
 
 ## Resumen
 
-per�odos distintos de un mes, para los efectos de aplicar el Impuesto Unico... (Oficio N� 1.252, de 08.05.95). Renta - Actual Ley sobre Impuesto a la - Arts. 29� y 33�. Mayo 1995 Situaci�n Tributaria de las empresas de cobranzas en relaci�n con las normas establecidas en la Ley de la Renta, especialmente respecto a la forma en que se deben efectuar sus declaraciones... (Oficio N� 1.250, de 08.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 84�, Mayo 1995 Para los efectos de determinar la tasa variable de los…
+e 08.05.95). Renta - Actual Ley sobre Impuesto a la - Art. 84�, Mayo 1995 Para los efectos de determinar la tasa variable de los pagos provisionales mensuales que establece el Art. 84� de la Ley de la Renta, en el caso de venta de un bien ra�z que formaba parte del Activo Fijo... (Oficio N� 1.222, de 05.05.95).
 
 ## Referencias detectadas
 

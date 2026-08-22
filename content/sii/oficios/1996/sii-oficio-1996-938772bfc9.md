@@ -11,7 +11,7 @@
 
 ## Resumen
 
-idos en la ley sobre impuesto a la renta, de acuerdo a las actividades que desarrollen... (Oficio N� 2.172, de 08.08.96). Renta Actual ley sobre impuesto a la - Art. 20�, N�1� letra b). Agosto 1996 La actividad de crianza y engorda de animales, sean estos de producci�n propia, es decir nacidos y criados en el predio agr�cola, o adquiridos a terceros para su posterior... (Oficio N� 2.134, de 06.08.96). Renta - Actual ley sobre impuesto a la - Art. 14�, p�rrafo A), N� 1� letra c), Agosto 1996 De las formalidades y r…
+e 06.08.96). Renta - Actual ley sobre impuesto a la - Art. 14�, p�rrafo A), N� 1� letra c), Agosto 1996 De las formalidades y requisitos que debe cumplir la reinvenci�n de utilidades en otras empresas para que opere la franquicia de suspensi�n de los impuestos global complementario. (Oficio N� 2.106, de 29.07.96).
 
 ## Referencias detectadas
 

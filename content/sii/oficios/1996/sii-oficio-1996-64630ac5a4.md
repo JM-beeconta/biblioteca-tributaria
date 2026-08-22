@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Mayo 1996 Un mandato para realizar ciertos tr�mites administrativos, cuando la naturaleza de los asuntos encomendados no es comercial, no se encuentra gravado con el Impuesto al Valor...Oficio N� 1.472, de 16.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 23�. Mayo 1996 De la utilizaci�n de cr�dito fiscal del impuesto al valor agregado generado por facturas emitidas con RUT err�neo en la situaci�n que se indica...Oficio N� 1.471, de 16.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las -…
+471, de 16.05.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 9� letra f). Abril 1996 Tributaci�n aplicable a la concesi�n para la construcci�n, conservaci�n, mantenci�n y explotaci�n de la obra p�blica vial denominada "Ruta 5 Tramo Santiago"...Oficio N� 1.002, de 10.04.96
 
 ## Referencias detectadas
 

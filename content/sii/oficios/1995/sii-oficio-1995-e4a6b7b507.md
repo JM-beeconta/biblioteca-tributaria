@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1995
-- Fecha: 1995-07-29
+- Fecha: 1995-10-09
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1996/otras/jun67.htm
 - Hash SHA-256: bfb58a32f1bb826f55edb97622f8f1b4691f2388e28e17f33e143567be4ad468
 
 ## Resumen
 
-publicada en el diario oficial del 28 de junio...Oficio N� 1.762, de 18.06.96 Ley 19.396 - Arts. 21�, 25� y 33� - Nuevo tratamiento obligaci�n subordinada. Junio 1996 De los aspectos tributarios que se derivan de la aplicaci�n de las normas de la ley 19.396, publicada en el diario oficial del 29 de julio de 1995, que se dispone un nuevo tratamiento de la...Oficio N� 1.656, de 12.06.96 Ley 19.418 - Art. 28� - Sobre juntas de vecinos y dem�s organizaciones comunitarias. Junio 1996 Incidencia del impuesto al valor ag…
+Ley 19.418 - Art. 28� - Sobre juntas de vecinos y dem�s organizaciones comunitarias. Junio 1996 Incidencia del impuesto al valor agregado en el suministro de agua potable que hagan a sus miembros los comit�s rurales constituidos como organizaciones comunitarias funcionales de acuerdo con las...Oficio N� 1.529, de 24.05.96
 
 ## Referencias detectadas
 

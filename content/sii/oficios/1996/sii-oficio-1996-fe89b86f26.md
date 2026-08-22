@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o no residentes en Chile, por actividades realizadas en el pa�s... (Oficio N� 3.195, de 14.11.96). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 2, y 50�. Noviembre 1996 De los contribuyentes se�alados en el N� 2 del Art. 42� de la ley de la renta que tienen derecho a deducir como gasto las cotizaciones previsionales efectuadas en organismos de previsi�n... (Oficio N� 3.181, DE 13.11.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, incisos cuarto y final y Art. 41�, inciso pen�ltimo, Noviembr…
+E 13.11.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, incisos cuarto y final y Art. 41�, inciso pen�ltimo, Noviembre 1996 Sentido y alcance de la expresi�n "o en las que tengan intereses" que utiliza el inciso cuarto del N� 8 del Art. 17� de la ley de la renta, y el inciso pen�ltimo del Art. 41� del mismo cuerpo legal... (Oficio N� 3.150, de 12.11.96).
 
 ## Referencias detectadas
 

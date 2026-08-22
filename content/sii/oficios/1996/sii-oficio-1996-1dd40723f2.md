@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Julio 1996 Acerca de la incidencia del impuesto al valor agregado en el dise�o, programaci�n e implementaci�n de sistemas computacionales. Oficio N� 1.940, de 09.07.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2�, N� 2 Julio 1996 De las prestaciones de servicios realizados por una empresa radicada en Chile a empresas extranjeras que participan en ferias internacionales, en relaci�n con el impuesto al valor agregado...Oficio N� 1.929, de 08.07.96 Ventas y Servicios - Nuevo texto ley impuesto a las…
+929, de 08.07.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2�, Nos 1� y 3�. Junio 1996 La venta de inmuebles por personas que las hayan construido para venderlas, no se encuentra afecta al impuesto al valor agregado...Oficio N� 1.761, de 18.06.96
 
 ## Referencias detectadas
 

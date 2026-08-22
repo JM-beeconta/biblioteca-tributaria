@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dad desarrollada por un instituto oncol�gico, y en relaci�n al impuesto al valor agregado. (Oficio N� 3.103, de 05.11.96). Renta - Actual ley sobre impuesto a la - Art. 31� N� 9. Noviembre 1996 Tratamiento tributario del traspaso de estudios de factibilidad de proyectos para presentarse a la licitaci�n de la concesi�n para construir, mantener y explotar la autopista... (Oficio N� 3.102, de 05.11.96). Renta - Actual ley sobre impuesto a la - Art. 14�, p�rrafo A), N� 3�, Noviembre 1996 Situaciones especiales sobre e…
+e 05.11.96). Renta - Actual ley sobre impuesto a la - Art. 14�, p�rrafo A), N� 3�, Noviembre 1996 Situaciones especiales sobre el tratamiento tributario de ciertas partidas en la determinaci�n del fondo de utilidades tributables (FUT), que tienen incidencia en los Global complementario... (Oficio N� 3.087, de 04.11.96).
 
 ## Referencias detectadas
 

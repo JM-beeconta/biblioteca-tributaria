@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s de excepci�n. (Oficio N� 1.999, DE 25.05.94). Actual Ley sobre Impuesto a la Renta - contenida en el art. 1 del Decreto Ley no. 824 - Ley Renta, art. 17. - no. 11 y 13. - Circular no. 75, de 1976, y 66, de 1977.-, Mayo 1994 Sindicatos de trabajadores - Asociados - Cuotas sociales - Ingresos no constitutivos de renta - Aporte de la empresa al sindicato - Ayudas. (Oficio N� 1.840, DE 11.05.94). Ley Renta, art. 59. - ctrib, art. 126 y 128.-, Mayo 1994 Empresa nacional - Prestador de servicios - Contrato celebrado e…
+E 11.05.94). Ley Renta, art. 59. - ctrib, art. 126 y 128.-, Mayo 1994 Empresa nacional - Prestador de servicios - Contrato celebrado entre las partes - Honorarios - Remesa al exterior - Impuesto adicional del art. 59 de ley renta - Pago en exceso - Petici�n de devoluci�n. (Oficio N�. 1.814, DE 09.05.94).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-residente en dicha Isla, se encuentra favorecida con la excepci�n... (Oficio N� 633, de 02.03.95). Decreto Ley N� 3500 - Arts. 17�, 20� y 69� (Nuevo Sistema de Pensiones)- Marzo 1995 Las cotizaciones adicionales que los afiliados a que se refiere el inciso1� del Art.69� del D.L N� 3500, se obliguen a efectuar de acuerdo con la opci�n libre que ejerzan en virtud... (Oficio N� 617, de 28.02.95). C�digo Tributario - Actual texto - Art. 28�. Marzo 1995 El responsable exclusivo del cumplimiento de las obligaciones trib…
+e 28.02.95). C�digo Tributario - Actual texto - Art. 28�. Marzo 1995 El responsable exclusivo del cumplimiento de las obligaciones tributarias que emanen de las operaciones que constituyan el giro de la asociaci�n es el gestor, en tanto los asociados... (Oficio N� 581, de 24.02.95).
 
 ## Referencias detectadas
 

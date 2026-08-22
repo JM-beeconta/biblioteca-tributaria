@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s, consistiendo su actividad s�lo a la prestaci�n de... (Oficio N� 3.379, de 04.12.96). Renta - Actual ley sobre impuesto a la - Arts. 21� y 65�, N� 1, Diciembre 1996 Una sociedad colectiva civil, que tiene como �nico activo el usufructo sobre un bien ra�z destinado a la habitaci�n de uno de sus socios, no genera rentas gravadas o afectas con los impuestos... (Oficio N� 3.298, de 26.11. 96). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 2 y 50�. Noviembre 1996 De la tributaci�n que en relaci�n con los imp…
+26.11. 96). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 2 y 50�. Noviembre 1996 De la tributaci�n que en relaci�n con los impuestos de la ley de la renta afectar�a a los profesionales y t�cnicos extranjeros, residentes o no residentes en Chile, por actividades realizadas en el pa�s... (Oficio N� 3.195, de 14.11.96).
 
 ## Referencias detectadas
 

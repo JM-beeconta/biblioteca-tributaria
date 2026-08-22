@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a la construcci�n, conservaci�n, mantenci�n y explotaci�n de la Obra P�blica denominada "Camino Nogales - Puchuncav�", en relaci�n...Oficio N� 1.206, DEL 03.05.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 21�, N� 2, Mayo 1995 Improcedencia de la aplicaci�n del Art. 126� del C�digo Tributario para el caso de una recuperaci�n del Impuesto al Valor Agregado (IVA), que se origine con ocasi�n de la devoluci�n de anticipos...Oficio N� 1.132, de 25.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a la…
+132, de 25.04.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 9�, letra a), Abril 1995 Acerca del momento en que se devenga el Impuesto a Valor Agregado en la prestaci�n de servicios de asistencia funeraria, de acuerdo con lo dispuesto en el Art. 9�, letra a) del D.L N� 825...Oficio N� 1.089, de 19.04.95
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, de la ley de la renta s�lo contempla dos sistemas, esto es, mediante el r�gimen... Oficio N� 408, de 08.02.96 Renta - Actual ley sobre impuesto a la - Arts. 21�, 31�, 33�, N� 1, letra f). Febrero 1996 Aclara situaciones tributarias relacionadas con las instrucciones impartidas por la Direcci�n Nacional del Servicio de Impuestos internos mediante Circular N� 37... Oficio N�. 407, de 08.02.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N�7. Febrero 1996 De la situaci�n tributaria de las donaciones efectuada…
+de 08.02.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N�7. Febrero 1996 De la situaci�n tributaria de las donaciones efectuadas en favor del Servicio Nacional de Menores, seg�n normas contempladas en el Art... Oficio N� 289, de 30.01.96
 
 ## Referencias detectadas
 

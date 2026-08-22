@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ara la explotaci�n del Ferrocarril de Arica a la Paz, a contar del 1� de enero... (Oficio N� 1.775, de 23.06.95). Timbres y Estampillas - Nuevo texto Ley Impuesto de - Art. 23�, N� 3. Julio 1995 En el caso de actas de protesto de documentos, respecto de los cuales el sujeto de Impuesto de Timbres y Estampillas goza de una liberaci�n personal total, no cabe.... (Oficio N� 1.774, de 23.06.95). Ley 18.211 - Art. 11� - Junio 1995 Sentido y alcance de la norma contenida en el inciso cuarto del Art. 11� de la Ley 18.211…
+e 23.06.95). Ley 18.211 - Art. 11� - Junio 1995 Sentido y alcance de la norma contenida en el inciso cuarto del Art. 11� de la Ley 18.211, agregado por el Art. 8� de la Ley 18.349, de 1984... (Oficio N� 1.680, de 16.06.95).
 
 ## Referencias detectadas
 

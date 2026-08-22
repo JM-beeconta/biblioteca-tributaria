@@ -11,7 +11,7 @@
 
 ## Resumen
 
-do (IVA) contemplada en el Art. 12, letra e) N� 7, del Decreto Ley N� 825, de 1974, s�lo puede favorecer a servicios originalmente gravados con el...Oficio N� 1.424, de 24.05.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 2�, N� 2 - Junio 1995 El Servicio de hospedaje a personas j�venes consistente en el alojamiento y asistencia prestados remuneradamente en los Albergues Juveniles, actividad que ejerce el Instituto Nacional de la...Oficio N� 1.396, de 23.05.95 Ventas y Servicios - Nuevo Texto Ley Im…
+396, de 23.05.95 Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Arts. 43� bis, inciso s�ptimo y 46�, inciso octavo, Mayo 1995 De la Tributaci�n que afecta a la venta en Zona de Exenci�n de autom�viles usados importados a trav�s de Zona Franca Primaria, por un comerciante en el ramo y usuario de dicha Zona. Oficio N� 1.288, de 10.05.95
 
 ## Referencias detectadas
 

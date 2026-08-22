@@ -11,7 +11,7 @@
 
 ## Resumen
 
-implemente judicial produce el efecto...Oficio N� 3.771, de 15.12.95 Ley 19.175 - Org�nica constitucional sobre gobierno y administraci�n regional - Art.- 16�, letra b). Enero 1996 Tratamiento tributario de los recursos que en calidad de "subsidios" se otorgan por los gobiernos regionales a empresas de los sectores p�blicos o privados, para la ejecuci�n...Oficio N� 3.902, de 29.12.95 C�digo Tributario - Actual texto - Art. 8�, N�8. Febrero 1996 De la tributaci�n que afecta a los honorarios pagados desde el exterio…
+C�digo Tributario - Actual texto - Art. 8�, N�8. Febrero 1996 De la tributaci�n que afecta a los honorarios pagados desde el exterior a un extranjero con residencia en Chile, envi�ndose los valores o recursos necesarios para pagarlos desde el exterior...Oficio N� 287, de 30.01.96
 
 ## Referencias detectadas
 

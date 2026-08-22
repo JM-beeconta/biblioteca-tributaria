@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nc�as desde es exterior a zonas francas, la declaraci�n jurada requerida por la direcci�n nacional del servicio..Oficio N� 2.389, de 28.08.96 Reglamento del D.L N� 825 - Nuevo texto - Art. 4�. Septiembre 1996 Acerca de la aplicaci�n del impuesto al valor agregado a la venta de una planta industrial recibida en pago de deudas por una instituci�n bancaria...Oficio N� 2.567, de 09.09.96 C�digo civil - Arts. 1.702� y 1703�, Octubre 1996 De los documentos privados - emitidos en Chile - que son v�lidos para acreditar la…
+C�digo civil - Arts. 1.702� y 1703�, Octubre 1996 De los documentos privados - emitidos en Chile - que son v�lidos para acreditar la cesi�n o venta de acciones de empresas extranjeras que se realice en el pa�s. Oficio N� 2.753, de 03.10.96
 
 ## Referencias detectadas
 

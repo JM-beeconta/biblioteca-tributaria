@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s generas y del aporte de un porcentaje de las utilidades acumuladas para la formaci�n. (Oficio N� 2.023, de 17.07.96). Renta - Actual ley sobre impuesto a la - Art. 41� B, N� 1. Julio 1996 Las empresas establecidas en Chile, que tengan en el exterior agencias u otros establecimientos permanentes, en materia de ingresos y gastos incurridos por dichos establecimientos... 8Oficio N� 2.022, de 17.07.96). Renta - Actual ley sobre impuesto a la - Art. 41�, Nos 1, inciso segundo y 9. Julio 1996 Acerca del tratamiento tr…
+e 17.07.96). Renta - Actual ley sobre impuesto a la - Art. 41�, Nos 1, inciso segundo y 9. Julio 1996 Acerca del tratamiento tributario de los pr�stamos efectuados por los socios o accionistas a las respectivas sociedades a las cuales pertenecen y de su correspondiente devoluci�n... (Oficio N� 2.017, de 19.07.96).
 
 ## Referencias detectadas
 

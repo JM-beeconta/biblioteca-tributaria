@@ -11,7 +11,7 @@
 
 ## Resumen
 
-relaci�n con las normas de la ley de la renta... (Oficio N� 2.800, de 08.10.96). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1 letra a),incisos pen�ltimo y �ltimo. Octubre 1996 Tratamiento tributario de las sumas pagadas por concepto de contribuciones de bienes ra�ces o impuesto territorial, en lo que respecta al arrendador y al arrendatario, en su caso... (Oficio N� 2.860, de 14.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 18, Octubre 1996 De los requisitos que deben cumplir las sumas e…
+e 14.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 18, Octubre 1996 De los requisitos que deben cumplir las sumas entregadas como becas de estudio a los hijos de los trabajadores de una empresa para que sean consideradas ingresos no... (Oficio N� 2.799, de 08.10.96.)
 
 ## Referencias detectadas
 

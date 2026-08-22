@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gobernaci�n provincial de la Ant�rtica Chilena, en Puerto Williams, en relaci�n con la exenci�n ...Oficio N� 1.371, de 03.05.96 Ley 13.039 - Art. 35�. Mayo 1996 De la forma de certificar las rentas obtenidas por contribuyentes procedentes de zonas que gocen de un r�gimen aduanero especial, para los efectos de acogerse a los beneficios contemplados en el...Oficio N� 1.344, de 29.04.96 Ley 19.420 - Arts. 1� al 9�. Mayo 1996 Sentido y alcance de los conceptos "veh�culos motorizados" y "bienes nuevos" a que se refiere…
+Ley 19.420 - Arts. 1� al 9�. Mayo 1996 Sentido y alcance de los conceptos "veh�culos motorizados" y "bienes nuevos" a que se refiere la ley 19.420, de 1995, que establece incentivos para el desarrollo econ�mico de las provincias...Oficio N� 1.355, de 02.05.96
 
 ## Referencias detectadas
 

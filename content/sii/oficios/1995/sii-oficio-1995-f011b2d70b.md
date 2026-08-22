@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tributario, s�lo alcanza a los aspectos tributarios que le encarga... (Oficio N� 3.726, de 12.12.95). Ley 18.046 - Sobre sociedades an�nimas - Art. 99, Diciembre 1995 De los efectos tributarios en el caso de fusi�n por incorporaci�n de sociedades an�nimas a que se refiere el Art. 99� de la Ley 18.046, de 1981, en que los activos de la Ley... ( Oficio N� 3.625, de 05.12.95). Franquicias tributarias - Ley 18.714 - Art. 9�, Diciembre 1995 Sentido y alcance de la exenci�n contemplada en el Art. 9� de la Ley 18.714, de…
+e 05.12.95). Franquicias tributarias - Ley 18.714 - Art. 9�, Diciembre 1995 Sentido y alcance de la exenci�n contemplada en el Art. 9� de la Ley 18.714, de 1988, que establece Nuevo Estatuto de la Jefatura de Bienestar de la Polic�a de Investigaciones de Chile... (Oficio N� 3.621, de 04.12.95).
 
 ## Referencias detectadas
 

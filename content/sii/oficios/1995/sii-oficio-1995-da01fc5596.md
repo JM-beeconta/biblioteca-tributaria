@@ -11,7 +11,7 @@
 
 ## Resumen
 
-determinaci�n del capital propio para los efectos de pago de la patente Municipal, a que se refiere... (Oficio N� 776, de 17.03.95). Renta - Actual ley sobre Impuesto a la - Art. 41�. Marzo 1995 De las inversiones realizadas por Empresas que declaren sus rentas en primera categor�a, en base a contabilidad completa, en cuotas de fondos mutuos y fondos de pensiones... (Oficio N� 775, de 17.03.95). Renta - Actual ley sobre Impuesto a la - Art. 17�, N� 8 letra b), Marzo 1995 Acerca del tratamiento tributario aplicable…
+e 17.03.95). Renta - Actual ley sobre Impuesto a la - Art. 17�, N� 8 letra b), Marzo 1995 Acerca del tratamiento tributario aplicable al mayor valor obtenido en la enajenaci�n de parcelas ubicadas dentro del l�mite urbano, que se han subdividido en distintos lotes... (Oficio N� 580, de 24.02.95).
 
 ## Referencias detectadas
 

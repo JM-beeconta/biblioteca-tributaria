@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ciedad, tambi�n an�nima, enajena su participaci�n a una empresa constructora, mediante un contrato de... (Oficio N� 3.884, de 28.12.95). Renta - Actual ley sobre impuesto a la - Art. 10� Enero 1995 De la forma de tributar, tasa y documentos a emitir por las remuneraciones que se cancelen a una Universidad Argentina, cuando los docentes de dicha entidad universitaria... (Oficio N� 3.809, de 19.12.95). Renta - Actual Ley sobre Impuesto a la - Art.17� N� 8 letra b) y 18� Diciembre 1995 Tratamiento tributario del mayo…
+e 19.12.95). Renta - Actual Ley sobre Impuesto a la - Art.17� N� 8 letra b) y 18� Diciembre 1995 Tratamiento tributario del mayor valor obtenido en la enajenaci�n de un predio agr�cola, adquirido en forma particular, y que no forma parte del Activo de ning�n negocio o empresa. (Oficio N� 3.781, de 15.12.95).
 
 ## Referencias detectadas
 

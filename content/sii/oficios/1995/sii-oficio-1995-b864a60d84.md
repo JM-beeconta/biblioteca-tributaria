@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enajenaci�n de parcelas ubicadas dentro del l�mite urbano, que se han subdividido en distintos lotes... (Oficio N� 580, de 24.02.95). C�digo tributario - Actual texto - Art. 8�, N� 5, Febrero 1995 Toda renta percibida por el representante de una persona incapaz, por regla general debe ser declarada en forma independiente de sus propias rentas, debiendo confeccionarse... (Oficio N� 492, de 17.02.95). Renta - Actual ley sobre Impuesto a la - Art. 74�, N� 4- Febrero 1995 Del orden de imputaci�n al fondo de utilidades…
+e 17.02.95). Renta - Actual ley sobre Impuesto a la - Art. 74�, N� 4- Febrero 1995 Del orden de imputaci�n al fondo de utilidades tributables de dividendos que se reparten por una sociedad an�nima abierta a accionistas sin domicilio ni residencia en Chile... (Oficio N� 487, de 16.02.95).
 
 ## Referencias detectadas
 

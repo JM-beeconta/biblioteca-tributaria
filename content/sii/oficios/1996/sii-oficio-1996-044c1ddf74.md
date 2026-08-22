@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Procedencia de la exenci�n establecida en el art�culo 6� del D.L N� 2.564, de 1979, respecto del impuesto adicional de la ley de la renta. (Oficio N� 3.441, de 10.12.96). Renta - Actual ley sobre impuesto a la - Arts. 58�, 59� y 60�, Diciembre 1996 Tributaci�n que afecta a los socios extranjeros de una sociedad de responsabilidad limitada establecida en Chile. (Oficio N� 3.440, de 10.12.96). Renta - Actual ley sobre impuesto a la - Art. 20� N� 5, Diciembre 1996 La sociedad administradora de un centro m�dico que no…
+e 10.12.96). Renta - Actual ley sobre impuesto a la - Art. 20� N� 5, Diciembre 1996 La sociedad administradora de un centro m�dico que no cumple los requisitos para ser clasificada como sociedad de profesionales, consistiendo su actividad s�lo a la prestaci�n de... (Oficio N� 3.379, de 04.12.96).
 
 ## Referencias detectadas
 

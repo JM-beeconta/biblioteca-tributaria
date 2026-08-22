@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tas de protesto de documentos, respecto de los cuales el sujeto de Impuesto de Timbres y Estampillas goza de una liberaci�n personal total, no cabe.... (Oficio N� 1.774, de 23.06.95). Ley 18.211 - Art. 11� - Junio 1995 Sentido y alcance de la norma contenida en el inciso cuarto del Art. 11� de la Ley 18.211, agregado por el Art. 8� de la Ley 18.349, de 1984... (Oficio N� 1.680, de 16.06.95). Ley 18.933 - Arts. 21� y 38�. Junio 1995 Los ingresos brutos de las isapres a que se refiere el Art. 29� de Ley de la Renta,…
+e 16.06.95). Ley 18.933 - Arts. 21� y 38�. Junio 1995 Los ingresos brutos de las isapres a que se refiere el Art. 29� de Ley de la Renta, est�n constituidos s�lo por aquella parte que corresponda al excedente de las cotizaciones previsionales que resulte una... (Oficio N� 1.512, de 31.05.95).
 
 ## Referencias detectadas
 

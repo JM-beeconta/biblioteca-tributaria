@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2 transitorio.- Ley Renta, art. 29 al 33; 56, no. 3 y 63.- resoluci�n no. 65-ex. de la Direcci�n Nacional del SII. (D.O. 18.01.93), Septiembre 1994 Sociedad de personas - Instituciones del art. 40, no. 1, de la Ley de la Renta como socios - Impuesto especial de 40% del nuevo texto del art. 2 del DL no. 2.398 - Dividendos percibidos por dicha sociedad en calidad de accionista de una Sociedad An�nima - Impuesto primera categor�a y tasa adicional ex-art. (Oficio N� 3.490, de 28.09.94). Convenio con Estados Unidos de…
+e 28.09.94). Convenio con Estados Unidos de Am�rica - promulgado mediante Decreto Supremo no. 1.380, publicado en el Diario Oficial de 04 de febrero de 1994, del Ministerio de Relaciones Exteriores - DS no. 1.380 (do 04.02.94), del Ministerio de Relaciones Exteriores, articulo �nico.- Ley Renta, art. 65 no. 1.-, Septiembre 1994 Operaciones internacionales de aeronaves - Personas naturales que residan en EE.UU. de Am�rica, que no sean ciudadanos de Chile - Compa��as constituidas en EE.UU. - Ingresos brutos - Exenci…
 
 ## Referencias detectadas
 

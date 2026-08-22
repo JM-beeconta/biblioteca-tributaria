@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ivados de atenci�n a menores por contribuyentes de la primera Categor�a, puedan... Oficio N� 695, de 05.03.96. Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1, letras a), b) y c), Marzo 1996 Las normas que fijan la forma en que deben tributar los contribuyentes que posean o exploten bienes ra�ces agr�colas, se encuentran establecidas en el Art. 20�, N� 1... Oficio N� 612, de 23.02.96. Renta - Actual ley sobre impuesto a la - Art. 34� bis. Marzo 1996 Tratamiento tributario de un contribuyente que desarrolla…
+de 23.02.96. Renta - Actual ley sobre impuesto a la - Art. 34� bis. Marzo 1996 Tratamiento tributario de un contribuyente que desarrolla la actividad de transporte de carga ajena en los mismos veh�culos y en forma simult�nea... Oficio N� 611, de 23.02.96
 
 ## Referencias detectadas
 

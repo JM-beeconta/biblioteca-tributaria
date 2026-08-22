@@ -11,7 +11,7 @@
 
 ## Resumen
 
-plificado para acogerse a los beneficios que establece, debiendo someterse a las normas...Oficio N� 862, de 20.03.96 C�digo del trabajo - Arts. 47�, 48� y 49�. Abril 1996 Para los efectos del pago de las gratificaciones legales a los trabajadores a que se refiere el c�digo del trabajo, la direcci�n nacional del servicio de impuestos internos ha dictaminado...Oficio N� 913, de 26.03.96 Franquicias tributarias - Decreto ley N� 889 - Art. 13�. Abril 1996 Para los efectos de aplicar la presunci�n de asignaci�n de zona…
+Franquicias tributarias - Decreto ley N� 889 - Art. 13�. Abril 1996 Para los efectos de aplicar la presunci�n de asignaci�n de zona que contempla el Art. 13� del D.L N� 889, de 1975, es procedente que se otorgue considerando el aumento dispuesto...Oficio N� 1.225, de 17.04.96
 
 ## Referencias detectadas
 

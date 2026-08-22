@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s procedente que se otorgue considerando el aumento dispuesto...Oficio N� 1.225, de 17.04.96 Franquicias tributarias - Decreto ley N� 1244 - Art. 4�. Abril 1996 De la exenci�n del impuesto al Valor Agregado que favorece a los servicios prestados por personas domiciliadas o residentes en el departamento de Isla de Pascua, de acuerdo con las disposiciones... Oficio N� 1.217, de 16.04.96 C�digo tributario - Actual texto - Art. 69�. Mayo 1996 Sobre la obligaci�n de declarar el impuesto a la renta por la sociedad absor…
+C�digo tributario - Actual texto - Art. 69�. Mayo 1996 Sobre la obligaci�n de declarar el impuesto a la renta por la sociedad absorbida o fusionada en el caso de absorci�n o fusi�n de sociedades, y de presentar balance de t�rmino...Oficio N� 1.350, de 30.04.96
 
 ## Referencias detectadas
 

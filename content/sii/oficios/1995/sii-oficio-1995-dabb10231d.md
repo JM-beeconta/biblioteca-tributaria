@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e donaciones, s�lo podr�n... (Oficio N� 1.682, de 16.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�, N� 8 inciso primero, letra a), e incisos segundo y tercero Junio 1995. De la tributaci�n que afecta a un inversionista extranjero acogido a las normas del Decreto Ley N� 600, Estatuto de la Inversi�n Extranjera, por la enajenaci�n de su participaci�n... (Oficio N�1.674, de 16.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�., N� 8, inciso primero letra b); y 18�, Junio 1995 Tratamiento tributario qu…
+e 16.06.95). Renta Actual Ley sobre Impuesto a la - Art. 17�., N� 8, inciso primero letra b); y 18�, Junio 1995 Tratamiento tributario que afecta a la enajenaci�n de sitios urbanizados obtenidos de la subdivisi�n de un predio agr�cola, en relaci�n con el mayor valor resultante en la venta de esos... (Oficio N� 1.627, de 09.06.95).
 
 ## Referencias detectadas
 

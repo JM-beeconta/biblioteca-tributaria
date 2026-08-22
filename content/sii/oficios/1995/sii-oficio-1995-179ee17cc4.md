@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la actividad de transporte de carga ajena en los mismos veh�culos y en forma simult�nea... Oficio N� 611, de 23.02.96 Renta - Actual ley sobre impuesto a la - Art. 42�, N�2. Febrero 1996 Tratamiento tributario de los honorarios profesionales que ser�n cancelados con la daci�n en pago de un bien ra�z por parte de la empresa beneficiaria de esos servicios profesionales... Oficio N� 514, de 16.02.96 Renta - Actual ley sobre impuesto a la - Art. 21�, inciso tercero. Febrero 1996 Aplicaci�n de la presunci�n de retiro c…
+de 16.02.96 Renta - Actual ley sobre impuesto a la - Art. 21�, inciso tercero. Febrero 1996 Aplicaci�n de la presunci�n de retiro contemplada en la ley 19.398, de 1995, en cuanto modific� el Art. 21� de la ley de la renta, respecto de un autom�vil adquirido por una... Oficio N� 465, de 13.02.96
 
 ## Referencias detectadas
 

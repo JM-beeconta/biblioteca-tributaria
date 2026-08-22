@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Relaciones Exteriores, publicado en el Diario oficial...Oficio N� 288, de 30.01.96 Reglamento consular -Decreto Supremo N� 172 de RR.EE, de 1974- Arts. 108� y109. Febrero1996 De la forma de acreditar en Chile las devoluciones de capital por inversiones en el extranjero, cuando la enajenaci�n de las acciones conste de instrumentos privados emitidos en el...Oficio N� 357, de 02.02.96 Decreto ley N� 2.398 - Art. 2�, Marzo 1996 Tributaci�n con el impuesto del 40 establecido en el Art. 2� del Decreto Ley N� 2.398 de…
+Decreto ley N� 2.398 - Art. 2�, Marzo 1996 Tributaci�n con el impuesto del 40 establecido en el Art. 2� del Decreto Ley N� 2.398 de 1978, de una empresas constituida como sociedad de responsabilidad limitada, en la cual SERVIU...Oficio N� 656, de 29.02.96
 
 ## Referencias detectadas
 

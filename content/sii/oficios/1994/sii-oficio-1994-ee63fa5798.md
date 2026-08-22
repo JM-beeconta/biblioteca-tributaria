@@ -11,7 +11,7 @@
 
 ## Resumen
 
-residencia en el... (Oficio N�. 497, de 01.02.94). Ley renta, art. 41-a y 41-b.- ley 19.247 - do de 15.09.93, art. 1, letra f). circular no.52, Febrero 1994 Empresa con domicilio y residencia en Chile - Filial o establecimiento permanente en el exterior - Ejercicio comercial extranjero - Pa�s receptor de la inversi�n - Ingresos no gravados en pa�s de su... (Oficio N�. 496, de 01.02.94) Ley Renta, art. 57 bis.- ccom, art. 127 y 256.- cc, art. 1.703.- cot, art. 419.-, Enero 1994 Sociedades An�nimas abiertas - Accion…
+de 01.02.94) Ley Renta, art. 57 bis.- ccom, art. 127 y 256.- cc, art. 1.703.- cot, art. 419.-, Enero 1994 Sociedades An�nimas abiertas - Acciones de pago de primera emisi�n - Adquisici�n o custodia - Corredores de bolsa - Encargo de sus respectivos mandantes - Contrato de administraci�n de cartera - Traspaso... (Oficio N�479, de 28.01.94).
 
 ## Referencias detectadas
 

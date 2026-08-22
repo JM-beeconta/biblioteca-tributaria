@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iciliadas o residentes en el departamento de Isla de Pascua, de acuerdo con las disposiciones... Oficio N� 1.217, de 16.04.96 C�digo tributario - Actual texto - Art. 69�. Mayo 1996 Sobre la obligaci�n de declarar el impuesto a la renta por la sociedad absorbida o fusionada en el caso de absorci�n o fusi�n de sociedades, y de presentar balance de t�rmino...Oficio N� 1.350, de 30.04.96 C�digo tributario - Actual texto - Art. 97�, N� 7. Mayo 1996 Consecuencias de la omisi�n del Libro auxiliar "Combustible Diesel ley…
+C�digo tributario - Actual texto - Art. 97�, N� 7. Mayo 1996 Consecuencias de la omisi�n del Libro auxiliar "Combustible Diesel ley 18.502" en relaci�n con las infracciones sancionadas en N� 7 del Art. 97� del C�digo Tributario, y en lo referente...Oficio N� 1.323, de 26.04.96
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-que la agencia establecida en el pa�s forma parte integrante de ella... (Oficio N� 1.482, de 29.04.95). C�digo tributario - Actual texto - Art. 8�, N� 13. Junio 1995 Para los efectos de evitar que las partes contratantes fijen a los bienes precios inferiores de aquellos que realmente les asigna el mercado, de acuerdo al principio econ�mico de la oferta y la demanda... (Oficio N� 1.395, de 23.05.95). Franquicias Tributarias - D.L N� 910 - Art. 21�, Mayo 1995 Procede la utilizaci�n del cr�dito especial del Art. 21�…
+e 23.05.95). Franquicias Tributarias - D.L N� 910 - Art. 21�, Mayo 1995 Procede la utilizaci�n del cr�dito especial del Art. 21� del D.L N� 910, de 1975, respecto de un contrato general de construcci�n por suma alzada de un edificio de departamentos... (Oficio N� 1.381, de 22.05.95).
 
 ## Referencias detectadas
 

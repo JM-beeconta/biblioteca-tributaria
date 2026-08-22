@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cuanto modific� el Art. 21� de la ley de la renta, respecto de un autom�vil adquirido por una... Oficio N� 465, de 13.02.96 Renta - Actual ley sobre impuesto a la - Art. 31�, N� 5. Febrero 1996 Para los efectos de la despreciaci�n de los bienes del Activo fijo o inmovilizado, el Art. 31� N� 5, de la ley de la renta s�lo contempla dos sistemas, esto es, mediante el r�gimen... Oficio N� 408, de 08.02.96 Renta - Actual ley sobre impuesto a la - Arts. 21�, 31�, 33�, N� 1, letra f). Febrero 1996 Aclara situaciones trib…
+de 08.02.96 Renta - Actual ley sobre impuesto a la - Arts. 21�, 31�, 33�, N� 1, letra f). Febrero 1996 Aclara situaciones tributarias relacionadas con las instrucciones impartidas por la Direcci�n Nacional del Servicio de Impuestos internos mediante Circular N� 37... Oficio N�. 407, de 08.02.96
 
 ## Referencias detectadas
 

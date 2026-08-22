@@ -11,7 +11,7 @@
 
 ## Resumen
 
-namientos subterr�neos en relaci�n con el impuesto territorial, impuestos establecidos... Oficio N� 796, de 15.03.96 Renta - Actual ley sobre impuesto a la - Art. 40� N� 1, Marzo 1996 Situaci�n tributaria de los intereses percibidos por la Superintendencia de Bancos e Instituciones Financieras por inversiones de remanentes presupuestarios efectuadas en el Banco del Estado... Oficio N� 797, de 15.03.96 Renta - Actual ley sobre impuesto a la - Art. 21�, inciso primero. Marzo 1996 Acerca de la forma de declarar las n…
+de 15.03.96 Renta - Actual ley sobre impuesto a la - Art. 21�, inciso primero. Marzo 1996 Acerca de la forma de declarar las nuevas partidas que constituyen retiro en el formulario N� 22, A�o tributario 1996, de acuerdo a las modificaciones introducidas... Oficio N� 762, de 12.03.96
 
 ## Referencias detectadas
 

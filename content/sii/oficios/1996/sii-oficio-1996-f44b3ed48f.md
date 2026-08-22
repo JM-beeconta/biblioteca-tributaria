@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sobre impuesto a la renta e Impuesto al Valor Agregado en lo que respecta a los gastos... Oficio N� 971, de 04.04.96. Renta - Actual ley sobre impuesto a la - Art. 59�. Abril 1996 De la tributaci�n aplicable a la internaci�n en Chile de un sistema inform�tico que puede ser aplicado en diversos �mbitos, entre otros, cartograf�a digital, proyectos de obras p�blicas, redes... Oficio N� 912, de 27.03.96 Renta - Actual ley sobre impuesto a la . Arts. 30� y 31�, Abril 1996 Tratamiento tributario aplicable a los pagos qu…
+de 27.03.96 Renta - Actual ley sobre impuesto a la . Arts. 30� y 31�, Abril 1996 Tratamiento tributario aplicable a los pagos que el concesionario efect�a al Ministerio de Obras P�blicas y viceversa, en relaci�n con distintos contratos de concesi�n... Oficio N� 908, de 26.03.96
 
 ## Referencias detectadas
 

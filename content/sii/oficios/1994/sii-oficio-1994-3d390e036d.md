@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s del art. 27 bis del DL no. 825 - Inaplicabilidad... (Of. N� 2.821, de 09.08.94). DL No. 825 (nuevo texto), art. 27 bis y 36.-, Agosto 1994 Inversiones en el activo fijo - Remanente de cr�dito fiscal acumulado - Devoluci�n seg�n art. 27 bis del DL no. 825 - Exportaciones realizadas - Franquicias del art. 36 del DL no. 825 - Recuperaci�n del IVA - Compatibilidad... (Of. N� 2.749, de 01.08.94). DL no. 825 (nuevo texto), art. 64, inciso cuarto. - ctrib. (DL no. 830, art. 1. do 31.12.74), art. 97, no. 3.-, Agosto 199…
+e 01.08.94). DL no. 825 (nuevo texto), art. 64, inciso cuarto. - ctrib. (DL no. 830, art. 1. do 31.12.74), art. 97, no. 3.-, Agosto 1994 Importaci�n de mercanc�as - Declaraci�n err�nea de destinaci�n aduanera - Diferencia de derechos aduaneros e IVA - Despachador de aduana responsable del error cometido - Multa - Base de calculo - Fiscalizaci�n... (Of. N� 2.748, de 01.08.94).
 
 ## Referencias detectadas
 

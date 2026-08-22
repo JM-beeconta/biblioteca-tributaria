@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o Agr�cola y Ganadero...Oficio N� 261, de 26.01.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 52�, Febrero 1995 Sobre solicitud de autorizaci�n de timbraje de facturas de exportaci�n, en venta al extranjero de proyectos integrales que comprenden ventas, servicios y otras operaciones...Oficio N� 201, de 20.01.95 Ley de Impuesto a las Ventas y Servicios. Oficio N� 0199 de 20 de Enero de 1995 Contrato general de construcci�n por suma alzada aparentemente beneficiado con el cr�dito especial del art. 21…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 0199 de 20 de Enero de 1995 Contrato general de construcci�n por suma alzada aparentemente beneficiado con el cr�dito especial del art. 21 del D.L. 910 de 1975, en que no se traspas� al comprador la rebaja del 65% del IVA.
 
 ## Referencias detectadas
 

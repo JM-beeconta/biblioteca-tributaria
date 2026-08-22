@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ordena practicar el Art. 74�, N� 2, de la Ley de la Renta, recayendo esta obligaci�n... (Oficio N� 1.592, de 08.06.95). Renta Actual Ley sobre Impuesto a la - Art. 59� inciso segundo- Junio 1995 Tratamiento tributario aplicable a las cantidades que se remesen al exterior por la venta de pel�culas para ser exhibidas a trav�s de proyectores de cine, televisi�n y v�deo... (Oficio N� 1.552, de 06.06.95). Renta Actual Ley sobre Impuesto a la - Art. 59� N� 4- Junio 1995 De los requisitos que deben concurrir para que ope…
+e 06.06.95). Renta Actual Ley sobre Impuesto a la - Art. 59� N� 4- Junio 1995 De los requisitos que deben concurrir para que opere la exenci�n del Impuesto Adicional a la Renta a que se refiere el Art. 59� de la Ley de la Renta... (Oficio N� 1.539, de 02.06.95).
 
 ## Referencias detectadas
 

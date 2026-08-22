@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y de la renta, en el caso de pagos al exterior correspondientes a la amortizaci�n de un cr�dito... (Oficio N� 132, de 12.01.95). Renta - Actual ley sobre Impuesto a la - Art. 41�, inciso segundo, Enero 1995 Situaci�n tributaria de la venta de veh�culos destinados al transporte de carga ajena, que fueron adquiridos usados para los efectos de fijarles una nueva vida �til... (Oficio N� 74, de 06.01.95). Renta - Actual ley sobre Impuesto a la - Art. 20�, N� 1, letra a). Enero 1995 Los propietarios o usufructuarios de…
+e 06.01.95). Renta - Actual ley sobre Impuesto a la - Art. 20�, N� 1, letra a). Enero 1995 Los propietarios o usufructuarios de bienes ra�ces destinados al desarrollo de las actividades del contribuyente podr�n rebajar- del monto del Impuesto en primera categor�a... (Oficio N� 44, de 03.01.95).
 
 ## Referencias detectadas
 

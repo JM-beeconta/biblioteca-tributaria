@@ -11,7 +11,7 @@
 
 ## Resumen
 
-spone un nuevo tratamiento de la...Oficio N� 1.656, de 12.06.96 Ley 19.418 - Art. 28� - Sobre juntas de vecinos y dem�s organizaciones comunitarias. Junio 1996 Incidencia del impuesto al valor agregado en el suministro de agua potable que hagan a sus miembros los comit�s rurales constituidos como organizaciones comunitarias funcionales de acuerdo con las...Oficio N� 1.529, de 24.05.96 Convenio para evitar la doble tributaci�n - Decreto Supremo N� 1.770, de RR.EE, Julio 1996 De las obligaciones tributarias que afec…
+Convenio para evitar la doble tributaci�n - Decreto Supremo N� 1.770, de RR.EE, Julio 1996 De las obligaciones tributarias que afectan a la empresa L�neas A�reas Uruguayas S.A., conforme al convenio para evitar las doble tributaci�n, suscrito entre los gobiernos...Oficio N� 2.008, de 16.07.96
 
 ## Referencias detectadas
 

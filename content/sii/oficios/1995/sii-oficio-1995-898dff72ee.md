@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 23 del Art. 17� de la Ley sobre Impuesto a la Renta... (Oficio N� 3.476, de 21.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 17v N� 8, inciso tercero, Noviembre 1995 De la fecha de adquisici�n de las acciones que forman parte del Activo de una sociedad an�nima que se divide y calificaci�n de habitualidad en la venta de las acciones con antig�edad,... (Oficio N� 3.468, de 20.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis letra b), Noviembre 1995 Acerca de la informaci�n que las administrad…
+e 20.11.95). Renta - Actual Ley sobre Impuesto a la - Art. 57� bis letra b), Noviembre 1995 Acerca de la informaci�n que las administradoras de Fondos de Pensiones deben proporcionar al Servicio de Impuestos Internos en relaci�n con las Cuentas de Ahorro Voluntario... (Oficio N� 3.453, de 17.11.95).
 
 ## Referencias detectadas
 

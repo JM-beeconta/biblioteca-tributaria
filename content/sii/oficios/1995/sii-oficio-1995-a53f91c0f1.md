@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os por la Comisi�n Nacional de Investigaci�n Cient�fica y ... (Oficio N� 984, de 07.04.95). Renta - Actual Ley sobre Impuesto a la - Arts. 41� A y 41� B, Abril 1995 De los contribuyentes que tienen obligaci�n de inscribirse en el Registro de Inversiones en el Extranjero que llevar� el Servicio de Impuestos Internos a que se refiere el N� 2 de la letra c del Art. 41� A... (Oficio N� 844, de 24.03.95). Rentas Municipales - Actual ley sobre - Art. 24�, Marzo 1995 Incompetencia del Servicio de Impuestos Internos en re…
+e 24.03.95). Rentas Municipales - Actual ley sobre - Art. 24�, Marzo 1995 Incompetencia del Servicio de Impuestos Internos en relaci�n con la determinaci�n del capital propio para los efectos de pago de la patente Municipal, a que se refiere... (Oficio N� 776, de 17.03.95).
 
 ## Referencias detectadas
 

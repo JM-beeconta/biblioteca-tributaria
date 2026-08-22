@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aci�n a rentas que peri�dicamente produzcan las viviendas... (Oficio N� 774, de 17.03.95). Ley 18.985 - Art. 3� permanente, inciso sexto - Sobre Reforma Tributaria, Marzo 1995 A los contribuyentes que adquieran la totalidad o parte de un predio agr�cola a contribuyentes obligados a operar bajo el r�gimen de renta efectiva seg�n contabilidad completa, y dicha adquisici�n... (Oficio N�666, de 07.03.95). Franquicias Tributarias - Decreto con Fuerza de Ley N� 1.244 - Art. 4�- Marzo 1995 La presentaci�n de servicios de…
+e 07.03.95). Franquicias Tributarias - Decreto con Fuerza de Ley N� 1.244 - Art. 4�- Marzo 1995 La presentaci�n de servicios de transporte mar�timo entre Valpara�so e Isla de Pascua que realice una empresa naviera, domiciliada o residente en dicha Isla, se encuentra favorecida con la excepci�n... (Oficio N� 633, de 02.03.95).
 
 ## Referencias detectadas
 

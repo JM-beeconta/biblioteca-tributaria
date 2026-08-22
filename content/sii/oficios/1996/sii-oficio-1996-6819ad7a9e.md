@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nes que efect�e una empresa y posterior entrega gratuita a los miembros de su fuerza de venta, para incentivarlos, los...Oficio N� 2.611, de 13.09.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Arts. 9�, letra f), y 55�, inciso segundo, Septiembre 1996 De las situaciones tributarias relacionadas con las empresas constructoras, en lo que respecta a la aplicaci�n del impuesto al valor agregado y normas de la ley sobre impuesto a la renta...Oficio N� 2.384, de 27.08.96 Ventas y Servicios - Nuevo texto ley i…
+384, de 27.08.96 Ventas y Servicios - Nuevo texto ley impuesto a las - Art. 2�, N� 2�, Septiembre 1996 Acerca de la procedencias de la aplicaci�n del impuesto al valor agregado en servicios de televisi�n por cable, cuando el abonado deja de pagar la remuneraci�n convenida. Oficio N� 2.362, de 23.08.96
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-arcas fiscales de las sumas obtenidas por los contribuyentes por concepto de reembolso excesivo de remanente acumulado de cr�dito fiscal del Impuesto al Valor Agregado...Oficio N� 2.296, de 04.08.95 Ventas y Servicios - Nuevo texto Ley Impuesto a las - Art. 8�, letra e), Julio 1995 R�gimen tributario aplicable a la concesi�n por licitaci�n para la construcci�n, mantenci�n y reparaci�n de la obra p�blica denominada "Acceso Vial Aeropuerto Arturo Merino Ben�tez"...Oficio N� 2.058, de 12.07.95. Ventas y Servicios - N…
+Ben�tez"...Oficio N� 2.058, de 12.07.95. Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 27� bis , Agosto 1995 Acerca del procedimiento de reintegro en arcas fiscales de las cantidades obtenidas por los contribuyentes en caso de reembolso excesivo o improcedente...Oficio N� 2.221, de 27.07.95
 
 ## Referencias detectadas
 

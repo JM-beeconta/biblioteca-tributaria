@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mpuesto a la Renta - art. 59, inciso cuarto, no. 3, inciso final, Diciembre 1994 Compa��as de seguros extranjeras, sin domicilio ni residencia en chile - Pesca extractiva - Seguros de cascos y maquinas de naves, fletes, desembolsos y otros - Pagos o remesas por primas de seguros - Expresi�n "actividad naviera" en inciso final del no. 3 del inciso tercero del art. 59, ley renta - Exenci�n del Impuesto Adicional a la renta - sentido y alcance. (Oficio N� 4.554, de 26.12.94). Actual Ley sobre Impuesto a la Renta - ar…
+e 26.12.94). Actual Ley sobre Impuesto a la Renta - art. 31, no. 5, Diciembre 1994 Activo fijo o inmovilizado - Bienes importados usados - Vida �til - Servicio de Impuestos Internos - instrucciones - R�gimen de depreciaci�n, normal o acelerada - Cuota anual de depreciaci�n - Deducci�n de la Renta Bruta. (Oficio N� 4.476, de 15.12.94).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-A�os Anteriores A�OS ANTERIORES Pr�ximamente en esta p�gina usted encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 1�, N� 3. Concepto de documentos que contengan operaciones de cr�dito de dinero para los efectos de aplicar el impuesto del art�culo 1�, N� 3, del D.L. N� 3.475. ( Oficio N� 902 de 05 de Marzo de 1993) Ley Sobre Impuesto de Timbres y Estampillas - Art. 24� N� 11 Aplicaci…
+Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 1�, N� 3. Concepto de documentos que contengan operaciones de cr�dito de dinero para los efectos de aplicar el impuesto del art�culo 1�, N� 3, del D.L. N� 3.475. ( Oficio N� 902 de 05 de Marzo de 1993)
 
 ## Referencias detectadas
 

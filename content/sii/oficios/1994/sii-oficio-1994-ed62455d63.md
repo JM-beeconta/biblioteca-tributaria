@@ -11,7 +11,7 @@
 
 ## Resumen
 
-icio de impuestos internos - instrucciones. (Oficio N�. 1.132, DE 22.03.94) Actual Ley sobre Impuesto a la Renta - contenida en el art. 1, del Decreto Ley no. 824, Marzo 1994 Persona natural - bien ra�z agr�cola - adquisici�n por adjudicaci�n como bien hereditario - aporte a formaci�n de sociedad an�nima cerrada - enajenaci�n no habitual de bienes ra�ces - calidad. (Oficio N�. 1.002, de 11.03.94) Ley renta, art. 59.- convenio entre Chile y Argentina, DS no. 32 Ministerio de Relaciones Exteriores - do 07.03.86 - ar…
+de 11.03.94) Ley renta, art. 59.- convenio entre Chile y Argentina, DS no. 32 Ministerio de Relaciones Exteriores - do 07.03.86 - art. 2, letras e), i); y 9.-, Febrero 1994 Programas de televisi�n extranjera - Recepci�n en Chile a trav�s de se�al satelital - Contrato de regal�a - Transmisi�n en Chile - Autorizaci�n a empresa nacional - Personas sin domicilio ni residencia en el... (Oficio N�. 497, de 01.02.94).
 
 ## Referencias detectadas
 

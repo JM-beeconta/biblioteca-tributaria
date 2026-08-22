@@ -11,7 +11,7 @@
 
 ## Resumen
 
-La exhibici�n de diversos elementos de la historia mar�tima de una Regi�n del pa�s, llevada a efecto en un Museo habilitado en dependencias navales por la Armada de Chile, constituye...Oficio N� 1.798, de 27.06.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 9�, letra a) - Junio 1995 Acerca del momento en que se devenga el Impuesto al Valor Agregado en la prestaci�n de servicios de asistencia funeraria, de acuerdo con lo dispuesto...Oficio N� 1.683, de 16.06.95 Ventas y Servicios - Nuevo texto ley Im…
+683, de 16.06.95 Ventas y Servicios - Nuevo texto ley Impuesto a las - Art. 12�, letra e), N� 7 - Junio 1995 La exenci�n del Impuesto al Valor Agregado (IVA) contemplada en el Art. 12, letra e) N� 7, del Decreto Ley N� 825, de 1974, s�lo puede favorecer a servicios originalmente gravados con el...Oficio N� 1.424, de 24.05.95
 
 ## Referencias detectadas
 

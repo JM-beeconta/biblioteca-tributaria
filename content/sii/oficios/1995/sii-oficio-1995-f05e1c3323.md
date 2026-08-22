@@ -11,7 +11,7 @@
 
 ## Resumen
 
-donaciones recibidas al amparo del Art. 3� de la Ley 19.247, de 1993, que estableci� el texto de la Ley... (Oficio N� 2.265, de 01.08.95). C�digo Tributario - Actual texto - Arts. 126� y 128�, Agosto 1995 Cuando se ha aumentado indebidamente el d�bito fiscal en una declaraci�n del Impuesto al Valor Agregado, al considerar como afecta una venta exenta o no gravada... (Oficio N� 2.237, de 28.07.95). Fomento a la Marina Mercante - Actual Ley de - Art. 7�, Agosto 1995 De los requisitos y condiciones que debe cumplir u…
+e 28.07.95). Fomento a la Marina Mercante - Actual Ley de - Art. 7�, Agosto 1995 De los requisitos y condiciones que debe cumplir una empresa que sea agente de naves de armadores extranjeros y/o de empresas de transporte mar�timo... (Oficio N� 2.207, de 26.07.95).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-instituci�n de salud previsional para financiar un plan especial de salud para afiliados... Oficio N� 1.464, de 16.05.96 Renta - Actual ley sobre impuesto a la - Art. 34� bis . Mayo 1996 Situaci�n tributaria de las rentas obtenidas por las empresas que exploten veh�culos motorizados en el transporte terrestre de pasajeros, de acuerdo a los dispuesto en el Art. 34� bis... Oficio N� 1.317, de 25.04.96 Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a). Mayo 1996 La fecha de adquisici�n de las acciones…
+de 25.04.96 Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a). Mayo 1996 La fecha de adquisici�n de las acciones de una sociedad an�nima que naci� a la vida jur�dica por transformaci�n de una sociedad de personas, es aquella en que dicha... Oficio N� 1.313, de 25.04.96
 
 ## Referencias detectadas
 

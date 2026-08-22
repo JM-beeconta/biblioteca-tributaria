@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enes ra�ces o impuesto territorial, en lo que respecta al arrendador y al arrendatario, en su caso... (Oficio N� 2.860, de 14.10.96). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 18, Octubre 1996 De los requisitos que deben cumplir las sumas entregadas como becas de estudio a los hijos de los trabajadores de una empresa para que sean consideradas ingresos no... (Oficio N� 2.799, de 08.10.96.) Renta - Actual ley sobre impuesto a la - Art. 21�, inciso tercero. Octubre 1996 Las sociedades an�nimas cerradas,…
+e 08.10.96.) Renta - Actual ley sobre impuesto a la - Art. 21�, inciso tercero. Octubre 1996 Las sociedades an�nimas cerradas, siempre que no se encuentren voluntariamente sujetas a las normas de las sociedades an�nimas abiertas, por los pr�stamos que efect�en a sus accionistas... (Oficio N� 2.775, de 07.10.96).
 
 ## Referencias detectadas
 

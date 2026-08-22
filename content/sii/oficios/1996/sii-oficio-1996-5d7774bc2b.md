@@ -11,7 +11,7 @@
 
 ## Resumen
 
-to a las - Art. 28�, Octubre 1996 Acerca del orden de imputaci�n del remanente de cr�dito fiscal - que queda a favor del contribuyente a la fechas de t�rmino de giro- a los impuestos de la ley de la renta...Oficio N� 2.679, de 26.09.96 Ventas y Servicios - Nuevo texto ley impuesto a las Art. 28�. Octubre 1996 Acerca de la forma de facturar a futuro el sobrecosto de origen geol�gico de la obra p�blica por concesi�n del t�nel El Mel�n. Oficio N� 2.662, de 24.09.96 Ventas y Servicios - Nuevo texto ley de impuesto a l…
+662, de 24.09.96 Ventas y Servicios - Nuevo texto ley de impuesto a la - Art. 2� N� 2. Octubre 1996 En el caso de un mandato conferido por una entidad bancaria o financiera a una sociedad prestadora de servicios para la evaluaci�n de antecedentes de clientes, a los que se les ofrecer�a...Oficio N� 2.661, de 24.09.96
 
 ## Referencias detectadas
 

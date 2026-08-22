@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de la subvenci�n fiscal que recibe la corporaci�n de estudio, capacitaci�n... (Oficio N� 413, de 10.02.95). Renta - Actual ley sobre Impuesto a la - Art. 59� N� 2, Febrero 1995 Improcedencia de la exenci�n del Impuesto adicional establecida en el inciso primero del N� 2 del Art. 59� de la ley de la renta, respecto de remesas al exterior en pago de servicios prestados... (Oficio N� 374, de 03.02.95). Renta - Actual ley sobre Impuesto a la - Art. 17�, N� 8, letra a) - Febrero 1995 Acerca de la aplicaci�n del Impuest…
+e 03.02.95). Renta - Actual ley sobre Impuesto a la - Art. 17�, N� 8, letra a) - Febrero 1995 Acerca de la aplicaci�n del Impuesto al valor agregado que puede afectar a la venta del total de las acciones de una sociedad an�nima cerrada a otra sociedad an�nima, por dos �nicos... (Oficio N� 191, de 18.01.95).
 
 ## Referencias detectadas
 

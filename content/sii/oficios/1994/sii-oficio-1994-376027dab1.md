@@ -11,7 +11,7 @@
 
 ## Resumen
 
-btenida es el ingreso percibido por el arrendamiento de ese bien... (Oficio N� 2.629, de 20.09.96) Renta - Actual ley sobre impuesto a la - Art. 59�, inciso cuarto, N� 2. Septiembre 1996 Tratamiento tributario de las prestaciones que una empresa realice en el exterior, por sus corresponsales extranjeros, consistentes en supervisi�n de embarques y desembarques... (Oficio N� 2.622, de 16.09.96) Renta - Actual ley sobre impuesto a la - Arts. 41� -A y 41� -B. Septiembre 1998 De los requisitos o condiciones que deben c…
+de 16.09.96) Renta - Actual ley sobre impuesto a la - Arts. 41� -A y 41� -B. Septiembre 1998 De los requisitos o condiciones que deben cumplirse para los efectos de recuperar como cr�dito en Chile los tributos pagados, retenidos o adeudados en el exterior. (Oficio N� 2.568, de 09.09.96)
 
 ## Referencias detectadas
 

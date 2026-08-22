@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"0" width="630"> A�os Anteriores OTRAS 1994 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Decreto Supremo no. 348 - texto refundido - art. 1, incisos segundo y tercero. Ministerio de Econom�a, Fomento y Reconstrucci�n (do 03.06.91), Diciembre 1994 Empresa cuyo giro es cr�a, engorda y exportaci�n de salmones - Exportador con ventas internas espor�dicas - Impuesto al valor agregado - Recuperaci�n - Cr�dito fiscal del periodo correspondiente -…
+Decreto Supremo no. 348 - texto refundido - art. 1, incisos segundo y tercero. Ministerio de Econom�a, Fomento y Reconstrucci�n (do 03.06.91), Diciembre 1994 Empresa cuyo giro es cr�a, engorda y exportaci�n de salmones - Exportador con ventas internas espor�dicas - Impuesto al valor agregado - Recuperaci�n - Cr�dito fiscal del periodo correspondiente - remanente de cr�ditos fiscales de periodos anteriores, relacionados con ventas internas - Normas del... (Of. N� 4.519, de 20.12.94).
 
 ## Referencias detectadas
 

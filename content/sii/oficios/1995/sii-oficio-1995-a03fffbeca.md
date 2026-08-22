@@ -11,7 +11,7 @@
 
 ## Resumen
 
-igo Tributario, relativas a la facultad de tasar que compete al Servicio de Impuestos Internos.... (Oficio N� 2.485, de 11.08.95). C�digo Tributario - Actual texto - Art. 64�, Agosto 1995 Sentido y alcance de las normas sobre tasaci�n a que se refiere el Art. 64� del C�digo tributario, en el caso de la enajenaci�n o aporte de acciones de una sociedad an�nima... (Oficio N� 2.332, de 07.08.95). Ley de Donaciones con fines Educacionales - Art. 1�, letra a), Agosto 1995 De la instituci�n que debe emitir el certificado…
+e 07.08.95). Ley de Donaciones con fines Educacionales - Art. 1�, letra a), Agosto 1995 De la instituci�n que debe emitir el certificado que acredita las donaciones recibidas al amparo del Art. 3� de la Ley 19.247, de 1993, que estableci� el texto de la Ley... (Oficio N� 2.265, de 01.08.95).
 
 ## Referencias detectadas
 

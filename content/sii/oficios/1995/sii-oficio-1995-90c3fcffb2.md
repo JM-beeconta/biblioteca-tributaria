@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l Art. 11� de la Ley 18.211, agregado por el Art. 8� de la Ley 18.349, de 1984... (Oficio N� 1.680, de 16.06.95). Ley 18.933 - Arts. 21� y 38�. Junio 1995 Los ingresos brutos de las isapres a que se refiere el Art. 29� de Ley de la Renta, est�n constituidos s�lo por aquella parte que corresponda al excedente de las cotizaciones previsionales que resulte una... (Oficio N� 1.512, de 31.05.95). C�digo tributario - Actual texto - Art. 69�, inciso final-. Junio 1995 En el caso de la disminuci�n de capital de una agenci…
+e 31.05.95). C�digo tributario - Actual texto - Art. 69�, inciso final-. Junio 1995 En el caso de la disminuci�n de capital de una agencia o sucursal bancaria de una sociedad an�nima extranjera, en Chile, considerando que la agencia establecida en el pa�s forma parte integrante de ella... (Oficio N� 1.482, de 29.04.95).
 
 ## Referencias detectadas
 
