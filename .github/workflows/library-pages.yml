@@ -43,26 +43,44 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils
 
-      - name: Actualizar fuentes oficiales
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      - name: Determinar modo de actualización
+        id: update_mode
         shell: bash
         run: |
-          if [ "${{ inputs.full_history }}" = "true" ]; then
+          if [ -f .bootstrap-full-history ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full_history }}" = "true" ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=weekly" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=none" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Actualizar fuentes oficiales
+        if: steps.update_mode.outputs.mode != 'none'
+        shell: bash
+        run: |
+          if [ "${{ steps.update_mode.outputs.mode }}" = "full" ]; then
             node scripts/update.mjs --full
           else
             node scripts/update.mjs --weekly
           fi
 
+      - name: Consumir bootstrap histórico
+        if: steps.update_mode.outputs.mode == 'full' && hashFiles('.bootstrap-full-history') != ''
+        run: rm -f .bootstrap-full-history
+
       - name: Guardar cambios de la biblioteca
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        if: steps.update_mode.outputs.mode != 'none'
         shell: bash
         run: |
-          if git diff --quiet -- data content; then
+          if git diff --quiet -- data content .bootstrap-full-history; then
             echo "Sin cambios"
           else
             git config user.name "beeconta-library-bot"
             git config user.email "actions@users.noreply.github.com"
-            git add -- data content
+            git add -- data content .bootstrap-full-history
             git commit -m "chore: actualizar biblioteca tributaria"
             git push
           fi
