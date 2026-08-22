@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-08-22T01:58:02.506Z",
-  "mode": "range:2017-2020",
-  "years": [
-    2020,
-    2019,
-    2018,
-    2017
-  ],
+  "generated_at": "2026-08-22T02:08:43.623Z",
   "total_documents": 3512,
-  "touched_documents": 893,
+  "by_source": {
+    "SII": 3509,
+    "BCN": 3
+  },
+  "by_type": {
+    "oficio": 2942,
+    "circular": 567,
+    "norma": 3
+  },
+  "by_year": {
+    "1974": 3,
+    "2017": 119,
+    "2018": 112,
+    "2019": 287,
+    "2020": 375,
+    "2021": 618,
+    "2022": 724,
+    "2023": 492,
+    "2024": 243,
+    "2025": 327,
+    "2026": 212
+  },
+  "min_year": 1974,
+  "max_year": 2026,
   "sources": [
     "SII",
     "BCN"
@@ -17,5 +33,9 @@
     "LIR",
     "LIVS",
     "CT"
-  ]
+  ],
+  "mode": "backfill:BCN",
+  "last_scrape_at": "2026-08-22T02:08:43.408Z",
+  "touched_documents": 0,
+  "backfill_status": "running"
 }

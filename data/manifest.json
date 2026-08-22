@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-08-22T02:08:43.623Z",
+  "total_documents": 3512,
+  "by_source": {
+    "SII": 3509,
+    "BCN": 3
+  },
+  "by_type": {
+    "oficio": 2942,
+    "circular": 567,
+    "norma": 3
+  },
+  "by_year": {
+    "1974": 3,
+    "2017": 119,
+    "2018": 112,
+    "2019": 287,
+    "2020": 375,
+    "2021": 618,
+    "2022": 724,
+    "2023": 492,
+    "2024": 243,
+    "2025": 327,
+    "2026": 212
+  },
+  "min_year": 1974,
+  "max_year": 2026,
+  "shards": [
+    {
+      "name": "bcn.json",
+      "path": "data/index/bcn.json",
+      "relations_path": "data/relations/bcn.json",
+      "count": 3,
+      "source": "BCN",
+      "year": null
+    },
+    {
+      "name": "2026.json",
+      "path": "data/index/2026.json",
+      "relations_path": "data/relations/2026.json",
+      "count": 212,
+      "source": "SII",
+      "year": 2026
+    },
+    {
+      "name": "2025.json",
+      "path": "data/index/2025.json",
+      "relations_path": "data/relations/2025.json",
+      "count": 327,
+      "source": "SII",
+      "year": 2025
+    },
+    {
+      "name": "2024.json",
+      "path": "data/index/2024.json",
+      "relations_path": "data/relations/2024.json",
+      "count": 243,
+      "source": "SII",
+      "year": 2024
+    },
+    {
+      "name": "2023.json",
+      "path": "data/index/2023.json",
+      "relations_path": "data/relations/2023.json",
+      "count": 492,
+      "source": "SII",
+      "year": 2023
+    },
+    {
+      "name": "2022.json",
+      "path": "data/index/2022.json",
+      "relations_path": "data/relations/2022.json",
+      "count": 724,
+      "source": "SII",
+      "year": 2022
+    },
+    {
+      "name": "2021.json",
+      "path": "data/index/2021.json",
+      "relations_path": "data/relations/2021.json",
+      "count": 618,
+      "source": "SII",
+      "year": 2021
+    },
+    {
+      "name": "2020.json",
+      "path": "data/index/2020.json",
+      "relations_path": "data/relations/2020.json",
+      "count": 375,
+      "source": "SII",
+      "year": 2020
+    },
+    {
+      "name": "2019.json",
+      "path": "data/index/2019.json",
+      "relations_path": "data/relations/2019.json",
+      "count": 287,
+      "source": "SII",
+      "year": 2019
+    },
+    {
+      "name": "2018.json",
+      "path": "data/index/2018.json",
+      "relations_path": "data/relations/2018.json",
+      "count": 112,
+      "source": "SII",
+      "year": 2018
+    },
+    {
+      "name": "2017.json",
+      "path": "data/index/2017.json",
+      "relations_path": "data/relations/2017.json",
+      "count": 119,
+      "source": "SII",
+      "year": 2017
+    }
+  ]
+}
