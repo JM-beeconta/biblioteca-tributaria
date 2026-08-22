@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { loadDocuments, writeLibraryData } from '../lib/store.mjs';
+import { loadDocuments, mergeDocuments, writeLibraryData } from '../lib/store.mjs';
 
 const ROOT = process.cwd();
 
@@ -20,24 +20,8 @@ const incoming = await readJson(path.join(input, 'docs.json'), []);
 if (!Array.isArray(incoming)) throw new Error('docs.json inválido');
 
 const existing = await loadDocuments(ROOT);
-const byId = new Map(existing.map((doc) => [doc.id, doc]));
-const byUrl = new Map(existing.filter((doc) => doc.source_url).map((doc) => [doc.source_url, doc]));
 const now = new Date().toISOString();
-
-for (const doc of incoming) {
-  const old = byId.get(doc.id) ?? byUrl.get(doc.source_url);
-  if (old && old.id !== doc.id) byId.delete(old.id);
-  const merged = {
-    ...old,
-    ...doc,
-    categories: [...new Set([...(old?.categories ?? []), ...(doc.categories ?? [])])],
-    first_seen_at: old?.first_seen_at ?? doc.first_seen_at ?? now,
-    last_seen_at: now,
-    changed_at: old && old.sha256 !== doc.sha256 ? now : old?.changed_at ?? doc.changed_at ?? null,
-  };
-  byId.set(merged.id, merged);
-  if (merged.source_url) byUrl.set(merged.source_url, merged);
-}
+const { documents: mergedDocuments } = mergeDocuments(existing, incoming, { now });
 
 const sourceContent = path.join(input, 'content');
 try {
@@ -52,7 +36,7 @@ const status = await readJson(statusFile, {
   completed_ranges: [],
 });
 const completed = [...new Set([...(status.completed_ranges ?? []), range])];
-const documents = [...byId.values()];
+const documents = mergedDocuments;
 
 await writeLibraryData(ROOT, documents, {
   mode: `backfill:${range}`,
