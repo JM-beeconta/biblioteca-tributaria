@@ -1,0 +1,37 @@
+name: Diagnóstico temporal SII
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/diagnose-sii.mjs'
+      - '.github/workflows/sii-diagnostic.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Inspeccionar página dinámica del SII
+        run: node scripts/diagnose-sii.mjs > data/sii-diagnostic.json
+
+      - name: Guardar diagnóstico
+        run: |
+          git config user.name "beeconta-diagnostic-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/sii-diagnostic.json
+          git commit -m "chore: capturar diagnóstico de jurisprudencia SII"
+          git pull --rebase origin main
+          git push
