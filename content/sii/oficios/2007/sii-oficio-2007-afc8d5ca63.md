@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-02-28
+- Fecha: 2007-02-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4058.doc
 - Hash SHA-256: b9c3a8d11e5078c3595c7574352fb6b93509b013dfaae65f7a07527a27ecd03c
 
 ## Resumen
 
-8�, Art. 12�, N� 7, letra E) � Ley sobre Impuesto a la Renta, Art. 20�, N�3, Art. 59�, N�2. (Ord. N� 508, de 28.02.2007) Word Aplicaci�n de la exenci�n del art�culo12�, N�7, Letra E), a los servicios de procesamiento de datos prestados en el extranjero y que son utilizados en Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 464, de 20.02.2007) Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de administraci�…
+Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de administraci�n global que prestar� una sociedad an�nima.
 
 ## Referencias detectadas
 

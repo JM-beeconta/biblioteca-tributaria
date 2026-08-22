@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-03
+- Fecha: 2005-04-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja943.htm
 - Hash SHA-256: 0d4e6738d51bbd5cd2d329bf9c14e33208bbcc938ce619e66a47232bce03a25b
 
 ## Resumen
 
-1"> Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Situaci�n Tributaria de Aporte de Acciones a la Formaci�n de una Nueva Sociedad, conforme a las Normas del Art�culo 64�, del C�digo Tributario. (Ord. N� 1.295, de 03.05.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 y 2, Art. 31�, N� 6� � C�digo Tributario, Art. 8�, N� 8 � Decreto Ley N� 889, de 1975, Art. 13�, Art. 23�, Art. 29� � Decreto Ley N� 249, de 1974 � Circulares N�s 10, 22, 83, 93 y 139…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 y 2, Art. 31�, N� 6� � C�digo Tributario, Art. 8�, N� 8 � Decreto Ley N� 889, de 1975, Art. 13�, Art. 23�, Art. 29� � Decreto Ley N� 249, de 1974 � Circulares N�s 10, 22, 83, 93 y 139, de 1976 y 42, de 1990 � Oficios N�s 5.483, de 1980, 498, de 1988, 4.942, de 1981, 3.798, de 2000 y 1.789, de 2002.
 
 ## Referencias detectadas
 

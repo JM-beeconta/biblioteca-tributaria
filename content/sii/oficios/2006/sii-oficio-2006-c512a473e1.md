@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-01
+- Fecha: 2006-08-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3720.htm
 - Hash SHA-256: 697629a3b56c4ea240902446b132e90ba081e87a0d0475a298f0bfa250a104a2
 
 ## Resumen
 
-de 1978 Word Se plantean consultas con relaci�n a presentaci�n efectuada por un subdistribuidor de gas afectado por Res. Ex. 1084, que solicita pronunciamiento para pedir la devoluci�n del remanente de cr�dito fiscal acumulado por la retenci�n del IVA o bien se le autorice a excepcionarse del sistema establecido en... (Oficio N� 3.856, de 01.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52 - Ley de la Renta, Art. 20 N�4 y 5� - Resoluci�n N�6.080, de 1999 � Circular N�21, de 199…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52 - Ley de la Renta, Art. 20 N�4 y 5� - Resoluci�n N�6.080, de 1999 � Circular N�21, de 1991, Circular N�39, de 2000
 
 ## Referencias detectadas
 

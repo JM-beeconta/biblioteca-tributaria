@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-03
+- Fecha: 2005-04-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja950.htm
 - Hash SHA-256: fae18634c612f85d6f53d6432b984d382aeda21b08ebb83431c072ea3668610e
 
 ## Resumen
 
-ey Sobre Impuesto a las � Art. 42�, letra d) � Circular N� 6, de 1986. (Ord. N� 1.294, de 03.05.2005) Word Consulta sobre Impuesto Adicional a las Bebidas Alcoh�licas, Analcoh�licas y Productos Similares, establecido en el art�culo 42�, letra d), del D.L. 825, aplicable a la Importaci�n de N�ctar de Frutas e Interpretaci�n que debe darse a la Norma cuando se refiere a Productos �que sirvan para preparar Bebidas Similares� Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord.…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord. N� 1.198, de 28.04.2005)
 
 ## Referencias detectadas
 

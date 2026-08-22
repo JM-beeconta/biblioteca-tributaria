@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-06-18
+- Fecha: 2008-07-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1207.doc
 - Hash SHA-256: 7e4cc695e8516381fa72281ed316609a561c541db7746ff493b61bd7f630d2b6
 
 ## Resumen
 
-/p> Renta � Actual Ley Sobre Impuesto a la � Oficios N� 3.230 y N�3.489, de 2007. (Ord. N� 1268, de 18.06.2008) Word Se confirman criterios en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Ley de Donaciones con Fines Culturales N�18.985, Art.8� - D.S. N�787, de 1990, del Ministerio de Educaci�n, Art. 1�, N�1�. (Ord. N� 1207, de 09.06.2008) Word Requisitos que deben reunir las donaciones para fines culturales para acogerse a los beneficios tributarios. Renta � Actual Ley Sobre Impuesto a la…
+Word Requisitos que deben reunir las donaciones para fines culturales para acogerse a los beneficios tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 613
 - Año: 2006
-- Fecha: 2006-07-10
+- Fecha: 2006-06-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3119.doc
 - Hash SHA-256: 0483a231e48b2467003221b3228d983e9e3491bf9bd66c2e1c19fd3f594b97d8
 
 ## Resumen
 
-/ja3173.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�1�, Art. 74�, Art. 79� - Ley N�18.010, de 1981, Art. 9� - Circular N� 24, de 2002. Word Solicita se confirme si procede aplicar a la situaci�n que se expone el Impuesto Adicional sobre los Intereses de un Cr�dito Externo afecto al Anatocismo. (Ord. N� 3.173, de 10.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 15�, Art. 31� N�3 y 5� - Oficio 613, de 2005. Word Solicita Ratificaci�n de criterio respecto al Tratamiento Tributario aplicable al M…
+Word Solicita Ratificaci�n de criterio respecto al Tratamiento Tributario aplicable al Mayor Valor producido entre el Valor de Adquisici�n de las Acciones y Patrimonio Tributario en el caso de Absorci�n de una Sociedad. (Ord. N� 3.119, de 30.06.2006)
 
 ## Referencias detectadas
 

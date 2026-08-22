@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 21� - Circular N�37�, de 1995. (Ord. N� 860, de 25.04.2008) Word Tributaci�n aplicable a la devoluci�n de pr�stamo efectuado por una sociedad an�nima a un particular. Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 6�, Art. 126� - C�digo del Trabajo, Art. 178�. (Ord. N� 859, de 25.04.2008) Word Tratamiento Tributario de las indemnizaciones por a�os de servicio. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�1�, Art. 42� Bis, Art. 50� - D.L. N�3.50…
+Word Tratamiento Tributario de las indemnizaciones por a�os de servicio.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 10� � C�digo Tributario, Art. 64�. (Ord. N� 3.024, de 22.10.2008) Word Costo tributario de la adquisici�n de acciones en el caso que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 56�, N�3, Art. 63� � Ley N� 18.775, Art. 1� � Circular N� 59, de 1991. (Ord. N� 2.923, de 10.10.2008) Word Situaci�n tributaria del cr�dito por impuesto de Primera Categor�a, en el caso de contribuyentes que se acogen al art�culo 14� bis de la Ley de la Renta, conforme…
+Word Situaci�n tributaria del cr�dito por impuesto de Primera Categor�a, en el caso de contribuyentes que se acogen al art�culo 14� bis de la Ley de la Renta, conforme a lo dispuesto por el art�culo 1� transitorio de la Ley N�18.775, de 1989.
 
 ## Referencias detectadas
 

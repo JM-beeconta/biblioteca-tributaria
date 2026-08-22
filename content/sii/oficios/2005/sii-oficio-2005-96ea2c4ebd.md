@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-19
+- Fecha: 2005-10-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1033.htm
 - Hash SHA-256: a236aa88c51de3d5453fa5c3900bbdb0e71f61641fd96191bf7b82129dc0a820
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 12�, Letra E, N� 1, letra a) � Circular N� 39, de 2000. (Ord. N� 4.083, de 19.10.2005). Word Aplicaci�n del Impuesto al valor Agregado a la entrada al Museo Perteneciente a una Congregaci�n Religiosa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 97�, N� 10 � Ley N� 19.983, Art. 1� � Res. Ex. N�s 2.107, de 1983 y N� 14, de 2005. (Ord. N� 4.066, de 18.10.2005) Word Derecho…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 97�, N� 10 � Ley N� 19.983, Art. 1� � Res. Ex. N�s 2.107, de 1983 y N� 14, de 2005. (Ord. N� 4.066, de 18.10.2005)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Inmuebles. Facultad del Servicio de Impuestos Internos para autorizar M�todos especiales de determinaci�n del Cr�dito Fiscal IVA de Uso Com�n. (Oficio N� 031, de 05.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, letra m) � C�digo Tributario, Art. 69� � Ley sobre Impuesto a la Renta, Art. 17�, N�8, Art. 20�, Art. 31�. Word Tratamiento Tributario del Aporte de Bienes Ra�ces a una Sociedad. (Oficio N� 027, del 05.01.2006) Ventas y Servicios � Nuevo Texto � Actual…
+Word Tratamiento Tributario del Aporte de Bienes Ra�ces a una Sociedad. (Oficio N� 027, del 05.01.2006)
 
 ## Referencias detectadas
 

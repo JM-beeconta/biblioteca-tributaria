@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-13
+- Fecha: 2005-10-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1025.htm
 - Hash SHA-256: f34c0bccb1d2d461c1922b55142a7ebb9cf33f825f69a26e66d6b64d3e8f6edb
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter, Art. 54� � Decreto Ley N� 3.500 Word R�gimen Tributario al cual se encuentran afectos los Retiros de Excedentes de Libre Disposici�n, conforme a lo dispuesto por el Art�culo 42� ter de la Ley de la Renta. (Ord. N� 3.987, de 13.10.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 18� bis � Ley N� 18.657, Art. 15� � Circular N� 47, de 2001 � Resoluci�n Ex. N� 56, de 2001. Word Aplicaci�n del Art�culo 15�, de la Ley N� 18.657, en relaci�n con las Rentas Referid…
+Renta � Actual Ley Sobre Impuesto a la � Art. 18� bis � Ley N� 18.657, Art. 15� � Circular N� 47, de 2001 � Resoluci�n Ex. N� 56, de 2001.
 
 ## Referencias detectadas
 

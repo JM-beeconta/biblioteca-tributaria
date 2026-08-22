@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-25
+- Fecha: 2005-02-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja905.doc
 - Hash SHA-256: f0cfcdfe8abc561c1c9b99f1641dfa900b8e49dff05aeae0b52455d77f9f3bee
 
 ## Resumen
 
-ord Forma en que deben efectuarse los aportes a los OTICs, por las Empresas Adherentes a dichos Organismos, conforme a las normas de la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo. (Ord. N� 561, de 25.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Decreto Ley N� 701, de 1974 � Circulares N�s 58, de 1990 y 78, de 2001. Word R�gimen Tributario que afecta a Sociedad que Desarrolla Actividad Forestal, conforme a las Normas de la Ley de la Renta, en concordancia con las Disposic…
+Word R�gimen Tributario que afecta a Sociedad que Desarrolla Actividad Forestal, conforme a las Normas de la Ley de la Renta, en concordancia con las Disposiciones del Decreto Ley N� 701, de 1974. (Ord. N� 504, de 17.02.2005)
 
 ## Referencias detectadas
 

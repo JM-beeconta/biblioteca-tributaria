@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-03-19
+- Fecha: 2007-03-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4072.doc
 - Hash SHA-256: f326d366eae4bad3174619253c1d9fd02ce7a7af5f352005faef31b991239de8
 
 ## Resumen
 
-Res. Ex. N� 6.080, de 1999 � Circular N� 39, de 2000. (Ord. N� 666, de 19.03.2007) Word Solicita pronunciamiento sobre exenci�n del Impuesto al Valor Agregado y autorizaci�n para emitir facturas de ventas y servicios no afectos o exentos de IVA, a una Empresa Individual de Responsabilidad Limitada. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 9�, Art. 55�. (Ord. N� 559, de 06.03.2007) Word Aplicaci�n del Impuesto al Valor Agregado a la Cesi�n Indefinida del uso de un…
+Word Aplicaci�n del Impuesto al Valor Agregado a la Cesi�n Indefinida del uso de una Patente de Invenci�n.
 
 ## Referencias detectadas
 

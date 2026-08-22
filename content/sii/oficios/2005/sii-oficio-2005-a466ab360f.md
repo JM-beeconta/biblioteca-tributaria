@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-16
+- Fecha: 2005-03-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja899.htm
 - Hash SHA-256: 6d4c30bd4d1233431471f50680933d40d50e403f1a572465e6e4dde87ab9a65c
 
 ## Resumen
 
-icios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 5, Art. 23, N� 1, Art. 24, Art. 25�, Art. 59�. (Ord. N� 687, de 16.03.2005) Word Solicita hacer aplicable el Plazo para efectuar Ajustes al Cr�dito Fiscal cuando las Facturas, Notas de D�bito y Notas de Cr�dito, son recibidas o registradas con Retraso, establecido en el Art�culo 24�, del Decreto Ley N� 825, a los Comprobantes de Ingreso por Importaciones. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� �…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 20�, N�s 3 y 4 � C�digo Tributario, Art. 126�, Art. 128�. (Ord. N� 615, de 07.03.2005)
 
 ## Referencias detectadas
 

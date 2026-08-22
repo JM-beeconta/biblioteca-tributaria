@@ -11,7 +11,7 @@
 
 ## Resumen
 
-face='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4� � Res. Ex. N� 6.080, de 1999 � Circular N�39, de 2000 � Oficios N��s 2.837, de 2001 y 4.651, de 2005. (Ord. N� 782, de 04.04.2007) Word Documentaci�n que corresponde emitir en caso de venta de bienes situados en el extranjero y que posteriormente son importados a Chile por el comprador. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � Decreto Ley N� 3.059, de 1979, Art. 7�� Decreto Sup…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � Decreto Ley N� 3.059, de 1979, Art. 7�� Decreto Supremo N� 348, de 1975 � Decreto Ley N� 2.222, de 1978, Art. 45� � Circulares N��s 126, de 1977 y 60, de 2006 � Oficio N� 2.839, de 1980. (Ord. N� 781, de 04.04.2007)
 
 ## Referencias detectadas
 

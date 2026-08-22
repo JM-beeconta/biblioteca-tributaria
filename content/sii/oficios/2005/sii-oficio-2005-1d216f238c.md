@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-07
+- Fecha: 2005-02-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja881.htm
 - Hash SHA-256: 2081a03fc0043ee32cb474a4aa8e2a09f28891f9edc7cb5bbb412ca6d8ff752b
 
 ## Resumen
 
-t> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 55� � C�digo Tributario, Art. 97�, N� 10 � Decreto Supremo N� 55, de 1977, Art. 70� � Circular N� 103, de 1979. (Ord. N� 439, de 07.02.2005) Word Consulta acerca del Sujeto obligado a Emitir la Gu�a de Despacho en caso de Traslado de Bienes que se manten�an en Dep�sito. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 321, de 02.02.2005) Word Aplicaci�n del Beneficio esta…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 321, de 02.02.2005)
 
 ## Referencias detectadas
 

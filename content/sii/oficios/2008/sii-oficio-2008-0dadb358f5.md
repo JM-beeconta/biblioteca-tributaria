@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-12-11
+- Fecha: 2008-11-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja3476.htm
 - Hash SHA-256: d042cad25152b49602cbaab289e4f478acbee3958ac674208a64e4a435cb4647
 
 ## Resumen
 
-ont> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 12�, letra E), N�8 � Decreto Ley N�3.500, Art. 171�, Art. 173� y Art. 178� � Circular N� 21, de 1991. (Ord. N� 3.654, de 11.12.2008) Word Aplicaci�n del Impuesto al Valor Agregado, a los servicios prestados por Entidades de Asesor�a Previsional y Asesores Previsionales, creados por la Ley N�20.255, de 2008. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.L. N�824, de 1974, Art. 20�, N�5 � Oficio N�3.…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.L. N�824, de 1974, Art. 20�, N�5 � Oficio N�3.982, de 2006. (Ord. N�3.476, de 18.11.2008)
 
 ## Referencias detectadas
 

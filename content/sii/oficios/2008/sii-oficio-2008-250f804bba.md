@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ctual Ley sobre Impuesto a las � Art. 23� N�5� - D. S. De Hacienda N�55, de 1977, Art. 71� Bis � Circular N�93�, de 2001 � Res. Ex. N�14�, de 2005. (Ord. N� 867, de 25.04.2008) Word Consulta si el impuesto soportado en facturas emitidas con posterioridad a su fecha de vigencia, da derecho a cr�dito fiscal. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94, de 2001. (Ord. N� 855, de 25.04.2008) Word Restituci�n adicional del IVA conforme al art�culo 27 Bis. Ventas y S…
+Word Restituci�n adicional del IVA conforme al art�culo 27 Bis.
 
 ## Referencias detectadas
 

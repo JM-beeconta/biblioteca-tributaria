@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-16
+- Fecha: 2006-03-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1140.htm
 - Hash SHA-256: 066a8db33fc7f51ee58fde7961b132fa9d26c5cd6e66e3260194d883db5aa4de
 
 ## Resumen
 
-Procedencia de aplicar art�culo 15 N� 1 del D.L. 825, de 1974, cuando una operaci�n a plazo es pactada en d�lares y pagada en esa misma moneda. (Oficio N� 971, de 16 de Marzo 2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 27� bis, Art. 23�. Word Aplicaci�n del IVA a Servicios prestados por una Sociedad An�nima y posibilidad de acogerse al beneficio establecido en el Art�culo 27� bis, del Decreto Ley 825, de 1974. (Oficio N� 810, de 08.03.2006) Ventas y Servicios…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 27� bis, Art. 23�.
 
 ## Referencias detectadas
 

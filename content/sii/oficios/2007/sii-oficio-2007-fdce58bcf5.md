@@ -11,7 +11,7 @@
 
 ## Resumen
 
-) Word Absuelve consultas relacionadas con lo dispuesto por los art�culos 42 bis, 55 y 57 bis de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8, Art. 18� - Circular N� 158, de 1976. (Ord. N� 2638, de 11.09.2007) Word Tratamiento tributario de la enajenaci�n de acciones en caso que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�1�, Art. 43� N�1�, Art. 45�, Art. 46� - Ley N� 20.134, de 2006 � Circular N�37, de 1990. (Ord. N� 2595, de 06.09.2007) Word Tributaci�n que afecta…
+Word Tratamiento tributario de la enajenaci�n de acciones en caso que se indica.
 
 ## Referencias detectadas
 

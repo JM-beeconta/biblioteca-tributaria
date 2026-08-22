@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-07-26
+- Fecha: 2006-07-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3175.htm
 - Hash SHA-256: 0285d546295e62f9b539b5237b17b9781ca08e09653602e6102c582afa6f2701
 
 ## Resumen
 
-" size="1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra g), Art. 53�. Word Impuesto al Valor Agregado en arrendamiento a estudiantes de un inmueble con habitaciones privadas sin amoblar y espacios comunes equipados. (Oficio N� 3.427, de 26.07.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo de Hacienda N� 341, de 1977, Art. 23� Word Solicita pronunciamiento respecto a la aplicaci�n del R�gimen de Zona Franca establecido en el DFL. N�3…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo de Hacienda N� 341, de 1977, Art. 23�
 
 ## Referencias detectadas
 

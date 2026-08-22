@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-05
+- Fecha: 2006-03-31
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja1219.doc
 - Hash SHA-256: 606bbb9d1b1eefca42cd010051e128336efb8d86ce990b5b14f08c8a84eda9c1
 
 ## Resumen
 
-cita pronunciamiento respecto de la exenci�n del Art. 23 N�8 de la Ley de Timbres y Estampillas, que exime de dicho impuesto a las Cooperativas, en relaci�n con el art�culo 11 del mismo cuerpo legal. (Ord. N�1602, de 05.05.2006). Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�2� - Art. 12� DFL. N�2 Del Ministerio de Hacienda, de 1959 � Art. 3� del D.L. N� 2.552 del Ministerio de la Vivienda y Urbanismo, de 1979. Word Alcance de la exenci�n del impuesto de timbres y estampillas, establecid…
+Word Alcance de la exenci�n del impuesto de timbres y estampillas, establecida en el art�culo 24 N�2, respecto de las viviendas econ�micas, en caso de solicitud de devoluci�n de impuesto. (Ord. N� 1.219 de 31.03.2006)
 
 ## Referencias detectadas
 

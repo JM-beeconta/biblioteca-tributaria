@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-10
+- Fecha: 2007-04-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4080.htm
 - Hash SHA-256: 1700eea642a16051aa9d24040b2e602d927b86766892fc5e82f2ccc574c43be6
 
 ## Resumen
 
-a de cr�dito a un valor inferior a su valor nominal. Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley N� 19.606, Art. 1� � Circulares N��s 66, de 1999 y 47, de 2004. (Ord. N� 816, de 10.04.2007) Word Resuelve consultas relacionadas con la Ley Austral N�19.606, de 1999 y sus modificaciones posteriores. Renta � Actual Ley Sobre Impuesto a la � Art. 15� � Oficios N��s 613, de 2005 y 3.119, de 2006. (Ord. N� 794, de 05.04.2007) Word Tratamiento tributario de diferencia producida entre valor de adquisici�n corre…
+Renta � Actual Ley Sobre Impuesto a la � Art. 15� � Oficios N��s 613, de 2005 y 3.119, de 2006.
 
 ## Referencias detectadas
 

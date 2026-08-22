@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Situaci�n tributaria de aportes que se efect�an a las Sociedades Administradoras de Fondos de Inversi�n de la Ley N� 18.815, frente al Capital Propio a que se refiere el Art. 41� N�1� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 4 � C�digo Tributario, Art. 60�, inciso 8 � D.F.L N� 382, de 1988 � Decreto N� 1.199, de 2004, del Ministerio de Obras P�blicas � Circular N� 24, de 2008 � (Ord. N� 1.198, de 04.06.2008) Word Tratamiento tributario de los cr�ditos incobrables, conforme…
+Word Tratamiento tributario de los cr�ditos incobrables, conforme a lo establecido en el N�4, del art�culo 31�, de la Ley Sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

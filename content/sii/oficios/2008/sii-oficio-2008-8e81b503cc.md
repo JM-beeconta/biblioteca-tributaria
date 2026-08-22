@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-03-11
+- Fecha: 2008-02-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja403.htm
 - Hash SHA-256: 0dfa1fa225e63f7263477bb2a78b0370cd1b605e2102307f68897bfe1cd7e0e9
 
 ## Resumen
 
-miento de la Calidad de la Educaci�n Superior. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� letra e), Art. 13� N�4�, Art. 23�, Art.36� - D.S. de Hacienda N�55, de 1977, Art. 43�. (Ord. N� 483, de 11.03.2008) Word Legislaci�n y tratamiento tributario aplicable a los servicios de transporte a�reo de carga y pasajeros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.3�, Art. 23� - D.S. N�55, Reglamento del IVA, Art. 74 � Oficios N�2.219, de 1997 y N� 3.940, de…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.3�, Art. 23� - D.S. N�55, Reglamento del IVA, Art. 74 � Oficios N�2.219, de 1997 y N� 3.940, de 2004. (Ord. N� 403, de 26.02.2008)
 
 ## Referencias detectadas
 

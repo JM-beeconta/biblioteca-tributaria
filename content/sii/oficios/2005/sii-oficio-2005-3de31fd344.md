@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-04
+- Fecha: 2005-03-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja909.doc
 - Hash SHA-256: 80f80628f6fdc9e1c7227fa14969dd97a45fd396ea5d612fc176fa0a5a780f08
 
 ## Resumen
 
-enta/ja910.doc">Word Tratamiento Tributario de la Indemnizaci�n por A�os de Servicio, pactada en Contratos o Convenios Colectivos de Trabajo que Complementen, Modifiquen o Reemplacen estipulaciones de Contratos Colectivos. (Ord. N� 610, de 04.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 29�, Art. 84�, letra a) � Resoluci�n Exenta N� 6.080, de 1999. Word Consulta si procede emitir Factura por recuperos de Siniestros efectuados por Cuenta de Compa��as de Seguros y si procede por esas Sumas…
+Word Consulta si procede emitir Factura por recuperos de Siniestros efectuados por Cuenta de Compa��as de Seguros y si procede por esas Sumas Efectuar Pagos Provisionales Mensuales. (Ord. N� 592, de 01.03.2005)
 
 ## Referencias detectadas
 

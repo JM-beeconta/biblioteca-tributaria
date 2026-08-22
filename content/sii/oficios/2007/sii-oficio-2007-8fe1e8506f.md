@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-11
+- Fecha: 2007-09-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2592.doc
 - Hash SHA-256: 0d63aa32e57892667ab6b611ae840d5a3ad9cfb8465545fd928f0465c50bdd17
 
 ## Resumen
 
-Art. 2� - C�digo de Comercio, Art. 166. (Ord. N� 2634, de 11.09.2007) Word Aplicaci�n de la franquicia del art�culo 2� de la Ley 19.764, a los servicios de recolecci�n de residuos industriales, aseo de calles y mantenci�n de �reas verdes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502, de 1986, Art. 6� y 7� - Ley N� 19.764, de 2001, Art. 2� - Decreto Supremo N� 311, de 1986. (Ord. N� 2592, de 06.09.2007) Word Recuperaci�n de Impuesto al Petr�leo Diesel, por empresa que tiene entr…
+Word Recuperaci�n de Impuesto al Petr�leo Diesel, por empresa que tiene entre sus actividades el giro transporte de carga terrestre.
 
 ## Referencias detectadas
 

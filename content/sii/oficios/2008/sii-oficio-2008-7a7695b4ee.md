@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-06-13
+- Fecha: 2008-12-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja3646.doc
 - Hash SHA-256: 81db83786edcf8d92c76ef718387dbf4435d48a2617a43281cbf557f69ce34dc
 
 ## Resumen
 
-Art 13�, Art. 14� � Ley sobre Impuesto a la Renta, Art. 59�, inciso 4, N�2. (Ord. N� 1.258, de 13.06.2008) Word Solicita aclarar el r�gimen tributario aplicable de T�cnico de F�tbol Argentino, en virtud de lo dispuesto en el Convenio para evitar la doble tributaci�n entre Chile y Argentina. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3 � Ley N� 18.010, Art. 1� � Ley N�19.983, de 2004, Art. 7�. (Ord. N� 3.646, de 11.12.2008) Word Aplicaci�n del Impuesto de Timbres y Estampillas a factur…
+Word Aplicaci�n del Impuesto de Timbres y Estampillas a factura en la cual, el cesionario de cr�dito conviene con el deudor una pr�rroga del plazo de pago.
 
 ## Referencias detectadas
 

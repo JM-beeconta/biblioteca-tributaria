@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-05
+- Fecha: 2006-11-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4010.htm
 - Hash SHA-256: e089487a496c9f47dfde2fa055eda2b6f656f0fd94415658d3bae7fe18aaa92a
 
 ## Resumen
 
-5.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. Word Tributaci�n del Mayor Valor generado en el Aporte de Bien Ra�z a una Sociedad de Personas de la cual el aportante es socio, de acuerdo a lo dispuesto por la letra b), del N� 8, del art�culo 17�, e inciso cuarto del mismo n�mero de la Ley de la Renta. (Ord. N� 4.656, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234 � Oficio N� 235, de 2006. Word Tributaci�n frente a la Ley de la Ren…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234 � Oficio N� 235, de 2006.
 
 ## Referencias detectadas
 

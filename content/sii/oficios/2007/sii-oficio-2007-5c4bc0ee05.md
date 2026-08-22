@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-06-18
+- Fecha: 2007-05-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4103.htm
 - Hash SHA-256: a1d35a44c4b902ce179723ffe6ab1920b0821de66093510d86166526e18ea24c
 
 ## Resumen
 
-res de una empresa de transporte de carga. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 52� � Res. Ex. N� 6.080, de 1999 � Circular N� 39�, de 2000. (Ord. N� 1.273, de 18.06.2007) Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de dise�o, elaboraci�n y direcci�n de programas de televisi�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 9�, letra b), Art. 8�, letra d) � D.L. N�828, de 1974, Art. 8�, Art. 17� � Res. Ex…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 9�, letra b), Art. 8�, letra d) � D.L. N�828, de 1974, Art. 8�, Art. 17� � Res. Ex. N� 1.086, de 1988 � Circular N� 13, de 1980 (Ord. N�1.162, de 28.05.2007)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-12-11
+- Fecha: 2008-11-26
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja3533.doc
 - Hash SHA-256: 983fae7737cad4f10339b178a7accb103dc0edb95bb430697c0c3e1a7be742e4
 
 ## Resumen
 
-ja3646.htm'>Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3 � Ley N� 18.010, Art. 1� � Ley N�19.983, de 2004, Art. 7�. (Ord. N� 3.646, de 11.12.2008) Word Aplicaci�n del Impuesto de Timbres y Estampillas a factura en la cual, el cesionario de cr�dito conviene con el deudor una pr�rroga del plazo de pago. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3, Art. 24�, N�11. (Ord. N� 3.533, de 26.11.2008) Word Aplicaci�n del impuesto de Timbres y Estampillas en la pr�…
+Word Aplicaci�n del impuesto de Timbres y Estampillas en la pr�rroga de pagar�s exentos en confirmada al art�culo 24�, N� 11, del D.L. N�3.475.
 
 ## Referencias detectadas
 

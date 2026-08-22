@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href='renta/ja4027.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 41�, A), letra C), N�1. Word Cr�dito por concepto de Impuestos Pagados en el extranjero establecido en el Art�culo 41� A), de la Ley de la Renta, en el caso en que se cambie el titular original de la inversi�n. (Ord. N� 4.889, de 19.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 56�, N�3, Art. 63� � C�digo Civil, Art. 764� � Ley N� 18.046, Art. 23� Word Tributaci�n del usufructo constituido sobre acciones, seg�n el art�culo 23�, de la Le…
+Word Tributaci�n del usufructo constituido sobre acciones, seg�n el art�culo 23�, de la Ley N� 18.046, sobre Sociedades An�nimas. (Ord. N� 4.888, de 19.12.2006)
 
 ## Referencias detectadas
 

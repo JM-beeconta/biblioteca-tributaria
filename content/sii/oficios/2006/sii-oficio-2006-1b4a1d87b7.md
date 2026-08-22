@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-01
+- Fecha: 2006-02-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1125.htm
 - Hash SHA-256: 456dc1f623ac358eeb00d2c325f4044663f0b1789d0ec4dbde89db005fed2530
 
 ## Resumen
 
-e refiere el inciso sexto del Art�culo 5�, de la Ley N� 19.606, de 1999. (Ord. N� 735, de 01.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 21� � Circulares N�s 60, de 1990 y 37, de 1995 � Oficios N�s 381, de 1998 y 299, de 2004. Word Resuelve consultas relacionadas con el Registro FUT, conforme a lo dispuesto por los art�culos 14� y 21�, de la Ley Sobre Impuesto a la Renta. (Ord. N� 700, de 24.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 42�, N�2, Art. 43�, N�2, Art. 74�, N�2…
+4.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 42�, N�2, Art. 43�, N�2, Art. 74�, N�2 � Circular N� 21, de 1991.
 
 ## Referencias detectadas
 

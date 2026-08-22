@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Ley N� 18.010, Art. 1� � Oficios N�s 1.086, de 2002 y 3.467, de 2004. (Ord. N� 115, de 13.01.2006) Word Solicita Confirmar criterios que indica sobre Aplicaci�n de Impuesto de Timbres y Estampillas a operaci�n que indica. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1� � Ley N� 18.010, Art. 1� � Oficio N� 3.564, de 2000. Word Aplicaci�n del Impuesto de Timbres y Estampillas a Documento de Reconocimiento de Deuda. (Ord. N� 114 de 13.01.2006)
+Word Aplicaci�n del Impuesto de Timbres y Estampillas a Documento de Reconocimiento de Deuda. (Ord. N� 114 de 13.01.2006)
 
 ## Referencias detectadas
 

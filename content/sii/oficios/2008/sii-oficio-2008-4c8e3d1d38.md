@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-29
+- Fecha: 2008-07-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1431.htm
 - Hash SHA-256: 23b286b45193dfa1118f5605fecf7fa228351f9b470956bd9c7e8b2cb755c42f
 
 ## Resumen
 
-lta sobre utilizaci�n de cr�dito fiscal por compras de art�culos de seguridad y alimentos para perros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 17� � Circular N� 111, de 1975. (Ord. N� 1.578, de 29.07.2008) Word Consulta relativa a la aplicaci�n del inciso primero del art�culo 17�, del Decreto Ley N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. N� 2�, N� 2 � Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.431, de 07.07.2008) Word Documentaci�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. N� 2�, N� 2 � Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.431, de 07.07.2008)
 
 ## Referencias detectadas
 

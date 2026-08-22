@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de 2006 � Oficio N� 2.839, de 1980. (Ord. N� 781, de 04.04.2007) Word Solicita se le confirme que lo dispuesto en Circular N�60, de 03/01/2006, relativo a la forma que vendedores y prestadores de servicios deben facturar por cuenta de terceros, no les es aplicable. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 27� bis, Art. 36� � Circulares N��s 55, de 1985 y 94, de 2001. (Ord. N� 780, de 04.04.2007) Word Solicitud de devoluci�n de remanentes de cr�dito fiscal de acuerdo con e…
+Word Solicitud de devoluci�n de remanentes de cr�dito fiscal de acuerdo con el art�culo 27� bis, efectuada por un contribuyente que es considerado exportador.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iones N�20, de 1982, Art. 3� - D.S. N�124�, de 2006 - Ley sobre Impuesto a la Renta, Art. 20� N�3 y 4�- Res. Ex. N� 6.080, de 1999. (Ord. N� 3.177, de 20.11.2007) Word Aplicaci�n de Impuesto al Valor Agregado a la Confecci�n y Distribuci�n de la Tarjeta Nacional del Estudiante. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 21�, Art. 22�, ART. 57� - C�digo Tributario, Art. 126�.(Ord. N� 3.176, de 20.11.2007) Word Solicita pronunciamiento respecto a solicitud de Devoluci�n de Impuestos a…
+Word Solicita pronunciamiento respecto a solicitud de Devoluci�n de Impuestos a trav�s de lo dispuesto en el Art�culo 126 del C�digo Tributario.
 
 ## Referencias detectadas
 

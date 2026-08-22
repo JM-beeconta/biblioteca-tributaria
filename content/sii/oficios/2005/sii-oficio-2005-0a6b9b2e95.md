@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-18
+- Fecha: 2005-03-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja913.htm
 - Hash SHA-256: 0745f3cf989f22cf5fd7a7905d422ba13babb90d70d5ac3d5cb2f791dfb3f20c
 
 ## Resumen
 
-ervicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 40�, Art. 42� � C�digo Civil, Art. 2.472�, N� 9 � Ley N� 18.591, de 1987, Art. 29� � Ley N� 18.175, de 1982, Art. 131�, Art. 148� � Circular N� 12, de 1987. (Ord. N� 709, de 18.03.2005) Word Emisi�n de Notas de D�bito, seg�n el Art�culo 29�, de la Ley N� 18.591, de 1987, en caso de que el Fallido no disponga de Fondos para Pagar los Cr�ditos de Primera Clase. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 5, Art. 23,…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 5, Art. 23, N� 1, Art. 24, Art. 25�, Art. 59�. (Ord. N� 687, de 16.03.2005)
 
 ## Referencias detectadas
 

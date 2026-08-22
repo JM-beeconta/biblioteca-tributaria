@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42 Bis - Decreto Ley N� 3.500, de 1980. Word Procedimiento para determinar el Impuesto �nico que afecta a los Retiros de Ahorro Previsional Voluntario. (Ord. N� 3.861, de 04.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31 N�2 � Ley N� 16.752, Art. 37�. Word Consulta respecto del Tratamiento Financiero y Tributario que se le debe otorgar a las Operaciones realizadas con la Direcci�n General de Aeron�utica Civil. (Ord. N� 3.860, de 04.09.2006) Renta � Actual Le…
+Word Consulta respecto del Tratamiento Financiero y Tributario que se le debe otorgar a las Operaciones realizadas con la Direcci�n General de Aeron�utica Civil. (Ord. N� 3.860, de 04.09.2006)
 
 ## Referencias detectadas
 

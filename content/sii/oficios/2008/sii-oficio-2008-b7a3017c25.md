@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-08
+- Fecha: 2008-03-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja552.htm
 - Hash SHA-256: fe31222ab26ea19c51539ca01dc8e2b8088e2c88187add10607c508c22acfb10
 
 ## Resumen
 
-n un contrato de prestaci�n de servicios de aseo para el Juzgado de Letras de Isla de Pascua. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Ter, Arts. 52� a 56� y Art. 65� - Decreto Ley N�3.500, de 1980 � Circular N�23�, de 2002 � Resoluci�n N�35, de 2002. (Ord. N� 648, de 08.04.2008) Word Situaci�n tributaria de Excedentes de Libre Disposici�n. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis N�3 � Decreto Ley N� 3.500, de 1980, Art. 3� y 68� Letra B) � Circular N�31, de 2002. (Ord. N� 552, de 20.03.2008…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis N�3 � Decreto Ley N� 3.500, de 1980, Art. 3� y 68� Letra B) � Circular N�31, de 2002. (Ord. N� 552, de 20.03.2008)
 
 ## Referencias detectadas
 

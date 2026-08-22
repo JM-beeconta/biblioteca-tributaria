@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 24� � C�digo Tributario, Art. 126� � Ley N� 18.502 � Ley N� 19.764, de 2001, Art. 2� Word Procedencia de acogerse a la Franquicia Tributaria de Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel en el Transporte de Carga, del art�culo 2�, de la Ley N� 19.764, de 2001. (Oficio N� 739, de 01.03.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra B), N�7, Art. 8�. Word Aplicaci�n de la exenci�n establecida en…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra B), N�7, Art. 8�.
 
 ## Referencias detectadas
 

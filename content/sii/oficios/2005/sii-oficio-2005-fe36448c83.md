@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-08
+- Fecha: 2005-02-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja894.htm
 - Hash SHA-256: f04bbadc00504603d2276e35d093320676b100a293817530a2fe64a04160994e
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 � Decreto Ley N� 398, de 1985, del Ministerio de Defensa Nacional, Art. 6�. Word Calidad en que efect�an sus Cotizaciones Previsionales los Pr�cticos de Puertos y Canales. (Ord. N�459, de 08.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 55� bis � C�digo Civil, Art. 1.511� � Circular N� 70, de 2002. Word Procedencia de Rebajar Intereses Provenientes de Cr�ditos Hipotecarios en caso de Deudor que adquiri� Bien ra�z en Comunidad con su C�nyuge, conforme…
+Renta � Actual Ley Sobre Impuesto a la � Art. 55� bis � C�digo Civil, Art. 1.511� � Circular N� 70, de 2002.
 
 ## Referencias detectadas
 

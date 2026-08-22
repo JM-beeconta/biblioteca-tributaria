@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-08-27
+- Fecha: 2007-08-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2454.htm
 - Hash SHA-256: 957b77bdab4d43f2ce4c0d1c83f68f3489fbfc55f5f9420fc45847f2d6b0f177
 
 ## Resumen
 
-�n Fiscal en Relaci�n al Impuesto sobre Renta - Art. 5�, Art. 7� - Oficio N� 2.890, de 2005. (Ord. N�2.521, de 27.08.2007) Word Solicita se confirmen los criterios que expone en relaci�n con los Beneficios Empresariales de una Sociedad residente en Espa�a por las actividades que realiza en Chile. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1�. (Ord. N� 2454, de 17.08.2007) Word Se solicita aclarar con ejercicio pr�ctico el c�lculo del impuesto �nico al trabajo. Renta � Actual Ley Sobre Impu…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1�.
 
 ## Referencias detectadas
 

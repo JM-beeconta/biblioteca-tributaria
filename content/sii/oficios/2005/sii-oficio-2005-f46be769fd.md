@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-18
+- Fecha: 2005-01-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja868.htm
 - Hash SHA-256: 163727a906c3a61fc8763afa8f6f11589d1fde5811115414097a7ef4d779b162
 
 ## Resumen
 
-y Sobre Impuesto a la � Art. 17�, N� 8, letras b) e i), Art. 18� � C�digo Civil, Art.1.909� � Oficio N� 1.736, de 2003. Word Situaci�n Tributaria que afecta al aporte de Bienes Ra�ces Agr�colas a una Sociedad de Responsabilidad Limitada en constituci�n, conforme a las Normas de la Letra b) e i), del N� 8, del Art�culo 17� y 18� de la Ley de la Renta. (Ord. N� 162, de 18.01.2005). Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13, Art. 45�, Art. 46�, Art. 74�, N� 1, Art. 78� � Circulares N�s 75, de 1976 y 66…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13, Art. 45�, Art. 46�, Art. 74�, N� 1, Art. 78� � Circulares N�s 75, de 1976 y 66, de 1977 � Oficio N� 1.289, de 1997.
 
 ## Referencias detectadas
 

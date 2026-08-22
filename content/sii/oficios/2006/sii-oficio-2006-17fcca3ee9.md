@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-29
+- Fecha: 2006-03-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1005.htm
 - Hash SHA-256: d9ad91c47b09a63065e2681c0d8616049739b1485b5c50ddf3cc9bd7a71247d1
 
 ## Resumen
 
-doc'>Word Tributaci�n que afecta a predio aportado a la formaci�n de sociedad agr�cola de responsabilidad limitada. (Ord. N� 1.195, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 5�, Art. 17 N�9, Art. 70 � Ley N� 16.271. Word Resuelve consultas relacionadas con la situaci�n tributaria de los herederos frente a las normas de los art�culos 5� y 70� de la Ley de la Renta. (Ord. N� 1.006, de 17.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41�� Ley N� 19.420, Art. 1�, Art. 2�, Art.3�- D.F.L N� 6…
+7.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41�� Ley N� 19.420, Art. 1�, Art. 2�, Art.3�- D.F.L N� 641, de 1977 � Circulares N�s 50, de 1995, 64, de 1996 y 46, de 2000.
 
 ## Referencias detectadas
 

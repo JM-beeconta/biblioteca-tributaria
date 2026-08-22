@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a href="otras/ja1602.htm">Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 23� N�8 � Ley General de Cooperativas, fijado por D.F.L. N�5, de 2003, Art. 49� - Oficio N� 1.669, de 1993. Word Solicita pronunciamiento respecto de la exenci�n del Art. 23 N�8 de la Ley de Timbres y Estampillas, que exime de dicho impuesto a las Cooperativas, en relaci�n con el art�culo 11 del mismo cuerpo legal. (Ord. N�1602, de 05.05.2006). Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�2� - A…
+5.05.2006). Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�2� - Art. 12� DFL. N�2 Del Ministerio de Hacienda, de 1959 � Art. 3� del D.L. N� 2.552 del Ministerio de la Vivienda y Urbanismo, de 1979.
 
 ## Referencias detectadas
 

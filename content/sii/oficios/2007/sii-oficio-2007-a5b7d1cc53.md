@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-02-12
+- Fecha: 2007-01-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4040.htm
 - Hash SHA-256: a06bbab25a340638db5d8a5939478027543a413ec42e05b6cfe1a0a0c823d077
 
 ## Resumen
 
-adquiridos para su arriendo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, Art. 43�. (Ord. N� 359, de 12.02.2007) Word Solicita pronunciamiento respecto de la aplicaci�n del Impuesto adicional a las bebidas Alcoh�licas, Analcoh�licas y productos similares, establecido en el art�culo 42�, del D.L. N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley sobre Impuesto a la Renta, Art. 58�, N�1, Art. 74�, N�1, Art. 78� � Ley N� 18.046, Art. 121� � Cir…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley sobre Impuesto a la Renta, Art. 58�, N�1, Art. 74�, N�1, Art. 78� � Ley N� 18.046, Art. 121� � Circular N� 39, de 2000, Res. Ex. N� 6.080, de 1999. (Ord. N� 265, de 31.01.2007)
 
 ## Referencias detectadas
 

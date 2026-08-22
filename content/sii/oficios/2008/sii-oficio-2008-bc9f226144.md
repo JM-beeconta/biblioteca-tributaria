@@ -11,7 +11,7 @@
 
 ## Resumen
 
-En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Normas Internacionales � Convenio entre la Rep�blica de Chile y la Rep�blica de Argentina para Evitar la doble Tributaci�n en Materia de Impuestos a la renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio � Art. 2�, letra d), Art 13�, Art. 14� � Ley sobre Impuesto a la Renta, Art. 59�, inciso 4, N�2. (Ord. N� 1.258, de 13.06.2008) Word Solicita aclarar el r�gimen tributario aplicable de…
+Word Solicita aclarar el r�gimen tributario aplicable de T�cnico de F�tbol Argentino, en virtud de lo dispuesto en el Convenio para evitar la doble tributaci�n entre Chile y Argentina.
 
 ## Referencias detectadas
 

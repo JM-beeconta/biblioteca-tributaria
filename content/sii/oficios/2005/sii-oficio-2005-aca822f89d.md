@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 2005 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.8�, letra g), Art. 12�, letra E), N�11 � C�digo Civil, Art. 570�. (Ord. N�5.063, de 26.12.2005) Word Solicita Pronunciamiento en Relaci�n con la Tributaci�n respecto del IVA que afectar�a al Arrendamiento de Predio Agr�cola. Ventas y Servicios � Nuevo Texto �…
+Word Solicita Pronunciamiento en Relaci�n con la Tributaci�n respecto del IVA que afectar�a al Arrendamiento de Predio Agr�cola.
 
 ## Referencias detectadas
 

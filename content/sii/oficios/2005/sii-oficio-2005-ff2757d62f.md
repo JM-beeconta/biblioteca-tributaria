@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-17
+- Fecha: 2005-02-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja903.htm
 - Hash SHA-256: 1ee93f715d38826dd7e8e11516eb31c0e922ab779423839462aac2efed5be590
 
 ## Resumen
 
-p align="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 � Decreto Ley N� 1.604, de 1976, Art. 1�, N� 12 � C�digo Civil, Art. 1.452� � Circular N� 139, de 1976 � Oficio N� 4.097, de 2001. Word Vigencia de la Norma que regula la Tributaci�n de los Pr�cticos de Puertos y Canales. (Ord. N� 503, de 17.02.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386� � Ley N� 18.985, de 1990, Art. 8� � Ley N� 19.721, de 2001, Art. 2� � Ley N� 19.885, de 2…
+Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386� � Ley N� 18.985, de 1990, Art. 8� � Ley N� 19.721, de 2001, Art. 2� � Ley N� 19.885, de 2003, Art. 11� � Circulares N�s 57, de 2001 y 55, de 2003.
 
 ## Referencias detectadas
 

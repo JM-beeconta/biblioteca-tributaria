@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2008
-- Fecha: 2008-03-27
+- Fecha: 2008-02-26
 - Categoría: Renta, Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja406.doc
 - Hash SHA-256: 862cfb09934c13c8aedde800522bb6768f2e83af87cc55781428369e52ee4ea5
 
 ## Resumen
 
-.pdf' target="_blank">Impuesto Territorial � Ley N� 17.235 � Art. 8, Art. 16, letra b), Art. 27 � C�digo Tributario, Art. 83, Art. 200 � Oficio N� 4692, de 30.11.06. (Ord. N� 591, de 27.03.2008) Informa sobre situaci�n de inmuebles de propiedad de una Asociaci�n, entregados en usufructo a una Municipalidad, quien construy� en dichos inmuebles. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.3� - Ley N� 18.010, de 1981 � Oficio N�2.557, del 2000.(Ord. N� 406, de 26.02.2008) Word Solicita confirmar…
+Word Solicita confirmar tratamiento tributario que corresponde aplicar a operaciones de importaci�n. Art. 3�, del D.L. N�3.475, de 1980.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-xigidos por la Ley N� 19.606, sobre Ley Austral. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 42� ter, Art. 54�, N� 3, Art. 56�, N� 2, Art. 75�, (Ord. N� 1.485, de 14.07.2008) Word Tratamiento tributario de los excedentes de libre disposici�n, conforme a lo dispuesto por el art�culo 42� ter de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 18.045 � Circular N� 35, de 2008. (Ord. N� 1.483, de 14.07.2008) Word Acciones de sociedades an�nimas que se p…
+Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 18.045 � Circular N� 35, de 2008. (Ord. N� 1.483, de 14.07.2008)
 
 ## Referencias detectadas
 

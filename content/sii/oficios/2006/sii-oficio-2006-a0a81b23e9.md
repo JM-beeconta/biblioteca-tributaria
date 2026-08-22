@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-19
+- Fecha: 2006-10-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3989.doc
 - Hash SHA-256: 27d415ab203b3630643555085e7ffacd7ec36f3d666d6c0ba5c3e842349e01c2
 
 ## Resumen
 
-os casos que se indican. (Ord. N� 4.290, de 19.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 30�, Art. 31�. Word Tratamiento Tributario de los Gastos incurridos en labores Mineras de Desarrollo construidas en Pertenencias Mineras Arrendadas. (Ord. N� 4.262, de 17.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � D.L. N� 3.063, de 1979. Word Situaci�n Tributaria de los Aportes que efect�an los part�cipes a las Sociedades Administradoras de Fondos Mutuos frente al Capital Propio a que s…
+Word Situaci�n Tributaria de los Aportes que efect�an los part�cipes a las Sociedades Administradoras de Fondos Mutuos frente al Capital Propio a que se Refiere el Art�culo 41�, N�1, de la Ley de la Renta. (Ord. N� 4.243, de 13.10.2006)
 
 ## Referencias detectadas
 

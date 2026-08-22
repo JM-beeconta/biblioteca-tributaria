@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-08
+- Fecha: 2006-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1558.htm
 - Hash SHA-256: 2894bb6eb9b5cf61a15c59b663657230d4b1ce478e0597d584a6ef8437c10f46
 
 ## Resumen
 
-4, de la Ley de la Renta. (Ord. N� 1618, de 08.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 40, N�2� - Ley N�10.502, Art. 4� - Oficio N�192, de 2000. Word Se informa sobre vigencia de la Ley N�10.502, de 1952 y sus alcances en relaci�n con los impuestos establecidos en la Ley de la Renta. (Ord. N� 1613, de 05.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�3� � Circular N�28, de 2002. Word Situaci�n Tributaria de los Seguros Dotales, de acuerdo a lo dispuesto por el N�3 del art�culo 17� de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�3� � Circular N�28, de 2002.
 
 ## Referencias detectadas
 

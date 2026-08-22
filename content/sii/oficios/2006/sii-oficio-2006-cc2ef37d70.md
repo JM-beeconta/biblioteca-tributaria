@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-04-12
+- Fecha: 2006-04-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1226.doc
 - Hash SHA-256: aee3e671571b5c657b98612d9d00384c5eb93c0f6dbc08d55fec20349dfc8134
 
 ## Resumen
 
-rd Solicita autorizaci�n para otorgar un incentivo econ�mico exento de Impuesto al Valor Agregado a los participantes en un proyecto de recolecci�n de envases de pesticidas. (Oficio N� 1.309, de 12.04.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 22� � Art. 38� D.S. de Hacienda N�55, de 1977, Reglamento del D.L. N� 825 Word Solicita pronunciamiento respecto de procedimiento para anular factura emitida a empresa de transporte, simulando una venta, pero cuya finalidad era recuperar…
+Word Solicita pronunciamiento respecto de procedimiento para anular factura emitida a empresa de transporte, simulando una venta, pero cuya finalidad era recuperar el valor de la mercader�a transportada por �sta y que producto de un accidente de tr�nsito se destruy� en su totalidad. (Oficio N� 1.226, de 03.04.2006)
 
 ## Referencias detectadas
 

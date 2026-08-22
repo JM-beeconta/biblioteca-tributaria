@@ -11,7 +11,7 @@
 
 ## Resumen
 
-res y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�17 � Ley N�19.840, de 2002, Art. 2� Transitorio � Circular N�71, de 2002. Word Solicita un pronunciamiento respecto al alcance del t�rmino � beneficiario � utilizado en la Circular N�71 de 2002, con relaci�n a si este se refiere solo al deudor directo de la operaci�n originaria o tambi�n es aplicable al aval y codeudor solidario. (Ord. N�2.915, de 09.06.2006) Normas Internacionales � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y…
+09.06.2006) Normas Internacionales � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 12� � Ley sobre Impuesto a la Renta, Art. 59� inciso primero � Circular N�32, de 2001.
 
 ## Referencias detectadas
 

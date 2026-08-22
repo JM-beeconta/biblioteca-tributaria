@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 459
 - Año: 2006
-- Fecha: 2006-02-02
+- Fecha: 2006-01-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1097.doc
 - Hash SHA-256: d0fd68ca0e7b22157a4c49c86d9a79d68ac25c5c47fb5c6bdc340344bcf6522f
 
 ## Resumen
 
-la � Art. 33� bis, Art. 42�, N�2 � D.L. N� 825, de 1974, Art. 2�, N�2, Art. 13�, N�4, Art. 23�, Art. 27� bis � D.L. N� 910, de 1975, Art. 21� � Circular N� 26, de 1980. Word Tratamiento Tributario de Construcci�n de un Establecimiento Educacional frente al IVA y aplicaci�n del Cr�dito por Inversi�n en Activo Fijo, de acuerdo al Art�culo 33 bis de la ley de la Renta. (Ord. N� 365, de 02.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 � Oficio N� 459, de 2005. Word Tratamiento Tributario de las Cotiz…
+Word Tratamiento Tributario de las Cotizaciones Voluntarias y/o Dep�sitos de Ahorro Previsional Voluntario que efect�en los Pr�cticos de Puertos y Canales autorizados por la Direcci�n del Litoral y de la Marina Mercante, atendido que se encuentran afectos al Impuesto del Art�culo 42�, N�1, de la Ley de la Renta, no obstante su calidad de Trabajadores Independientes. (Ord N� 291, de 26.01.2006)
 
 ## Referencias detectadas
 

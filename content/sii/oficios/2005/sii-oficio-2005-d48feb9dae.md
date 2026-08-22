@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-22
+- Fecha: 2005-04-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja939.doc
 - Hash SHA-256: a44dc0e56b75e2c65e531889f6dcee477a23d2c05e680128dc2912d639f96ff5
 
 ## Resumen
 
-ref="renta/ja940.doc">Word Tributaci�n de las Rentas que perciben los Integrantes del Consejo Regional Metropolitano, conforme a las Normas de la Ley de la Renta. (Ord. N� 1.105, de 22.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 74�, N� 4, Art. 58�, Art. 59�, Art. 60�, Art. 61�, Art. 63� � C�digo Tributario, Art. 126� � Circulares N��s 53 y 60, de 1990. Word Impuesto Adicional que Afecta a los Dividendos Remesados al Exterior, conforme a las Normas de los Art�culos 58� N�2, 63 y 74, N�4,…
+Word Impuesto Adicional que Afecta a los Dividendos Remesados al Exterior, conforme a las Normas de los Art�culos 58� N�2, 63 y 74, N�4, de la Ley Sobre Impuesto a la Renta. (Ord. N� 1.067, de 20.04.2005)
 
 ## Referencias detectadas
 

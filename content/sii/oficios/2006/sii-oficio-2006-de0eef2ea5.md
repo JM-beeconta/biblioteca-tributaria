@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-23
+- Fecha: 2006-06-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3052.doc
 - Hash SHA-256: fb0dd081758793bfc1060e0c1a6882bbc85681281552bb7b04774d2e74d07d29
 
 ## Resumen
 
-N�1, Art. 59, Art. 60.Convenio entre la Rep�blica de Chile y el Reino de Espa�a para evitar la doble imposici�n y prevenir la evasi�n fiscal en materia de Impuestos sobre la Renta y sobre el Patrimonio � Art.5, Art. 6, Art. 7, Art. 8. Tributaci�n de rentas de arrendamiento obtenidas por una empresa a�rea domiciliada en Espa�a. (Ord. N� 3.056, de 23.06.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis � Ley N� 18.775, de 1989, Art. 1� Transitorio � Circulares N�59, de 1991 y N�49�, de 1997. Word Solicita…
+Word Solicita se confirme si Empresa acogida al Art�culo 14 Bis que absorbe a otra acogida a R�gimen Normal del Art. 14�, tendr� derecho a recuperar el Impuesto de Primera Categor�a pagado por la Empresa Absorbida sobre las Utilidades traspasadas producto de la Fusi�n, conforme a lo dispuesto por el Art�culo 1� Transitorio de la Ley N�18.775. (Ord. N�3.052, de 22.06.2006)
 
 ## Referencias detectadas
 

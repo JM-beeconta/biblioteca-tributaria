@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5, Art. 38�. (Ord. N� 274, de 31.01.2007) Word Tratamiento tributario aplicable a maquinarias y equipos del activo inmovilizado de empresa que en virtud de un contrato de maquila, las entrega a la sociedad maquiladora domiciliada en el exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�9 � C�digo Tributario, Art. 6�, letra A), N� 1 � Circular N� 54, de 1984 � Oficio N� 654, de 2006. (Ord. N� 273, de 31.01.2007) Word Condiciones que deben reunirse…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�9 � C�digo Tributario, Art. 6�, letra A), N� 1 � Circular N� 54, de 1984 � Oficio N� 654, de 2006.
 
 ## Referencias detectadas
 

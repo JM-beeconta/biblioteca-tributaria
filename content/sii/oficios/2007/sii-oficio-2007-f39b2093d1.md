@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/font> Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3�, Art. 6�, Art. 24�, N�s 11 y 17� � Circular N� 69, de 2006. (Ord. N� 365, de 12.02.2007) Consulta sobre materias relativas a las modificaciones introducidas al D.L. N� 3.475, de 1980, sobre Impuesto de Timbres y Estampillas, por la Ley N� 20.130, de 2006. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 1�, Art. 23�, N� 3. (Ord. N� 364, de 12.02.2007) Word Aplicaci�n de la exenci�n del art�culo 23�, N�3 de la Ley de Timb…
+Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 1�, Art. 23�, N� 3. (Ord. N� 364, de 12.02.2007)
 
 ## Referencias detectadas
 

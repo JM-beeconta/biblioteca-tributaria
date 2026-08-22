@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ta � Actual Ley Sobre Impuesto a la � Art. 2�, N�1, Art. 20�, N�1, letra d), Art. 39�, N�3 � D.F.L. N� 2, de 1959 � Circulares N��s 75, de 1976 y 66 de 1977 � Oficio N� 1.810, de 1994. (Ord. N� 998, de 07.05.2007) Word Tributaci�n de rentas de arrendamiento de un inmueble no agr�cola percibida por un sindicato de acuerdo a lo dispuesto por el art�culo 20�, N�1, letra d), de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�, N�6, Art. 33, N�1 � Circulares N��s 151, de 197…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�, N�6, Art. 33, N�1 � Circulares N��s 151, de 1976 y 42, de 1990.
 
 ## Referencias detectadas
 

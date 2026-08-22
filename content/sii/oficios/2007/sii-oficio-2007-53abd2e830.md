@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-25
+- Fecha: 2007-09-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2646.doc
 - Hash SHA-256: 2a663d5f8a1fe6893fc7b859e921e0fb56e219e262b8ea155fcc4835eb3fe47f
 
 ## Resumen
 
-52� � C�digo Tributario, Art. 66�, Art. 68� - Ley de la Renta, Art. 68�, Art. 71�. (Ord. N�2715, de 25.09.2007) Word Tratamiento tributario de una empresa de transporte terrestre de carga internacional que no se ha constituido como persona jur�dica, agencia o sucursal en Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 13� N�3� � Ley de la Renta, art. 20� N� 4. (Ord. N� 2646, de 13.09.2007) Word Solicita se informe sobre la legalidad y procedencia del cobro del Impuest…
+Word Solicita se informe sobre la legalidad y procedencia del cobro del Impuesto al Valor Agregado en el transporte tur�stico privado remunerado en la Comuna de San Pedro de Atacama.
 
 ## Referencias detectadas
 

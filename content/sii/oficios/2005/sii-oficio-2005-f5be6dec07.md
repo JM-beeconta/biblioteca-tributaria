@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-17
+- Fecha: 2005-10-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1031.htm
 - Hash SHA-256: 9d70eeb229e5e8d3ddb8f5a1d62e06f4eb2a4e059334deb1f0c8a4e369fe9c18
 
 ## Resumen
 
-p> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7 � Oficio N� 4.956, de 2004.(Ord. N� 4.030, de 17.10.2005) Word Solicita Reconsideraci�n de Ord. N� 4.956, de 11.11.2004, en t�rminos de considerar que su actividad no es Comercial y por tanto, no estar�a Gravada con IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 3.918, de 11.10.2005) Word Tributaci�n con IVA de las Empresas que r…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 3.918, de 11.10.2005)
 
 ## Referencias detectadas
 

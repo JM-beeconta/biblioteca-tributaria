@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-11
+- Fecha: 2008-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja284.htm
 - Hash SHA-256: a7ba3867b3b7af3a121902ae543e9cc2a029c00b0576b10416923763a7548859
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�2�, Art. 36� - C�digo de Comercio, Art.1044 � D.L. N�3.059, de 1979, Art. 7�. (Ord. N� 285, de 11.02.2008) Word Recuperaci�n del Impuesto al Valor Agregado mediante el mecanismo establecido en el Art. 36� del D.L. 825, por parte de Empresas Navieras que efect�an Transporte Internacional de Pasajeros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N�910, de 1975, Art. 21� - Circular N�26, de 19…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N�910, de 1975, Art. 21� - Circular N�26, de 1987 � C�digo Tributario, Art. 126�. (Ord. N� 284, de 11,02.2008)
 
 ## Referencias detectadas
 

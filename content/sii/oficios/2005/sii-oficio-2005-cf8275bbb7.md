@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-16
+- Fecha: 2005-06-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja966.doc
 - Hash SHA-256: 759197b6964a977a4554eff03d4f70594fbc9fa407e0bd7c5e3e67a628f4f62c
 
 ## Resumen
 
-de 1999 � Oficio N� 1.091, de 2005. Word Obligaciones tributarias que afectan a los Fondos de Inversi�n Privados a que se refiere la Ley N� 18.815, de 1989. (Ord. N� 1.836, de 16.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 68�, Letra b), art. 50� � C�digo del Trabajo, Art. 47�, Art. 48�, Art. 49� � Circular N� 50, de 1997. Word Incompetencia del Servicio, para pronunciarse sobre obligaci�n de los Notarios de Pagar gratificaciones legales. (Ord. N� 1.790, de 10.06.2005) Renta � Actual Ley Sobre Impuesto…
+Word Incompetencia del Servicio, para pronunciarse sobre obligaci�n de los Notarios de Pagar gratificaciones legales. (Ord. N� 1.790, de 10.06.2005)
 
 ## Referencias detectadas
 

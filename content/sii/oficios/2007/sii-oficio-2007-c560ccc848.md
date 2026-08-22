@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gn='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1), letra c) � Ley N� 19.857, Art. 10�. (Ord. N� 554, de 06.03.2007) Word Reinversi�n de utilidades tributarias efectuadas en una empresa individual de responsabilidad limitada, conforme a lo dispuesto por la letra c), N�1, de la Letra A), del art�culo 14�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 20� � Ley N� 19.606, Art. 1�. (Ord. N� 553, de 06.03.2007) Word Los contribuyentes acogidos al r�gime…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 20� � Ley N� 19.606, Art. 1�.
 
 ## Referencias detectadas
 

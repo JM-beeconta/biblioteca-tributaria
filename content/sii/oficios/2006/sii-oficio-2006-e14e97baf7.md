@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ce='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 5�, Art. 17 N�9, Art. 70 � Ley N� 16.271. Word Resuelve consultas relacionadas con la situaci�n tributaria de los herederos frente a las normas de los art�culos 5� y 70� de la Ley de la Renta. (Ord. N� 1.006, de 17.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41�� Ley N� 19.420, Art. 1�, Art. 2�, Art.3�- D.F.L N� 641, de 1977 � Circulares N�s 50, de 1995, 64, de 1996 y 46, de 2000. Word Procedencia del derecho para acceder al cr�dito trib…
+Word Procedencia del derecho para acceder al cr�dito tributario establecido en la Ley N�19.420, de 1995, sobre Ley Arica en el caso que se indica. (Ord. N� 1.005, de 17.03.2006)
 
 ## Referencias detectadas
 

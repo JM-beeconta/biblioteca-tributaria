@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42 N�2 � Circular N�21, de 1991 � Oficio N�3.103, de 1996.(Ord. N�697, de 11.04.2008) Word Sociedades de profesionales que se clasifican en la segunda Categor�a conforme a las normas de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 64 Bis, Art. 29� al 33�. (Ord. N�696,de 11.04.2008) Word Tratamiento tributario de los resultados originados en los contratos derivados suscritos por una empresa minera. Renta � Actual Ley Sobre Impuesto a la � ART. 17 N�…
+Word Tratamiento tributario de los resultados originados en los contratos derivados suscritos por una empresa minera.
 
 ## Referencias detectadas
 

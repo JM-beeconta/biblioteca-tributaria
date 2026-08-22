@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Sobre Impuesto a la � Art. 59�, N�2 � Oficios N�s 3.826, de 1992, 3.489, de 1995 y 679, de 2004. Word Sumas Remesadas al Exterior que no se comprenden en el Concepto de Investigaci�n Cient�fica y Tecnol�gica para los efectos de la Exenci�n de Impuesto Adicional establecida en el inciso segundo del N�2, del art�culo 59, de la Ley de la Renta. (Ord. N� 4.653, de 24.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 6, Art. 42�, N� 2, Art. 42� bis, Art. 50�, Art. 55 � Decreto Ley N� 3.500, de 1980, Art.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 6, Art. 42�, N� 2, Art. 42� bis, Art. 50�, Art. 55 � Decreto Ley N� 3.500, de 1980, Art. 18� � Circular N� 53, de 1990 � Oficio N� 6.524, de 2003.
 
 ## Referencias detectadas
 

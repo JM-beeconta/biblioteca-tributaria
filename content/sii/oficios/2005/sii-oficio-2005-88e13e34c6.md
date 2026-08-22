@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-06
+- Fecha: 2005-07-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja980.htm
 - Hash SHA-256: 69a748ecbaefa6b0b080072ae6d317fa2768e8515897ef5515abdc56ea851f77
 
 ## Resumen
 
-s de Cr�dito por las rebajas efectuadas por concepto de compensaciones, producto de la interrupci�n o suspensi�n del suministro de energ�a el�ctrica no autorizada en conformidad a la ley y a los reglamentos. (Art. 2�, N� 2; Art. 57� D.L. 825, de 1974).-Improcedencia de que dichas sumas sean calificadas como un gasto necesario para producir la renta, conforme a las normas de la Ley de la Renta. (Ord. N� 2.491, de 06.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter, Art. 54�, N� 3 � Decreto Ley N� 3.50…
+07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter, Art. 54�, N� 3 � Decreto Ley N� 3.500, de 1980 � Circular N� 23, de 2002.
 
 ## Referencias detectadas
 

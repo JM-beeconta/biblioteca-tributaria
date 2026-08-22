@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-03
+- Fecha: 2006-01-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1109.htm
 - Hash SHA-256: 379a9f2e4f7e8ee3c7d84b0a3229fb223aaca7758d4ade7bf22192fe5fcb0d43
 
 ## Resumen
 
-" size="1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 79� � Circular N�3, de 1992 � Resoluci�n Exenta N� 6.080, de 1999. Word No se encuentran afecta a IVA la Indemnizaci�n por P�rdida o Da�o de Mercader�as. (Oficio N� 373, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 12�, N� 11, Art. 18�, Art. 19�, Art. 52�, Art. 53�. Word IVA en Arriendo y Concesi�n de Locales que prestan Servicios de Fotocopiado dentro de un Reci…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 12�, N� 11, Art. 18�, Art. 19�, Art. 52�, Art. 53�.
 
 ## Referencias detectadas
 

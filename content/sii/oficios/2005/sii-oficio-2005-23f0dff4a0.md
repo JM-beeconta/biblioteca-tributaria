@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Word Consecuencia que produce el Incumplimiento de lo establecido en el Inciso segundo del N�1, del inciso cuarto del Art�culo 59�, de la Ley de la Renta. (Ord. N� 3.779, de 28.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1, Art. 59�, Art. 74�, N�1, Art. 78� � Decreto Ley N� 825, de 1974, Art. 4�, Art. 8� � Circular N� 69, de 2000. Word Absuelve consultas relacionadas con el Contrato de Consultor�as de Servicios, en participaci�n en licitaci�n P�blica, en pa�s extranjero, respecto…
+Word Absuelve consultas relacionadas con el Contrato de Consultor�as de Servicios, en participaci�n en licitaci�n P�blica, en pa�s extranjero, respecto de los Impuestos del Decreto Ley N� 825 y de la Ley de la Renta. (Ord. N� 3.778, de 28.09.2005)
 
 ## Referencias detectadas
 

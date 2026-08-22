@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-02
+- Fecha: 2006-10-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3995.doc
 - Hash SHA-256: 244accb69a57efc49242d224fba7c4ada790845ddd791feb446717d766c128b1
 
 ## Resumen
 
-font face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art. 54�, Art. 62�, Art. 65�, N� 3 � C�digo Civil, Art. 2.259� � Oficio N� 2.717, de 2004. Word Tributaci�n de los Ingresos obtenidos en carreras a la Chilena, conforme a las normas de la Ley de la Renta. (Ord. N� 4.473, de 02.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9, Art. 31�, N�7 � Ley N� 16.271, Art. 18�, N� 4. Word Tratamiento Tributario de Donaciones recibidas en el pa�s, desde el extranjero, frente a las no…
+Word Tratamiento Tributario de Donaciones recibidas en el pa�s, desde el extranjero, frente a las normas de la Ley de la Renta y de la Ley sobre Impuesto a las Herencias y Donaciones. (Ord. N� 4.292, de 19.10.2006)
 
 ## Referencias detectadas
 

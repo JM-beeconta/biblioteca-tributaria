@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en caso de devoluci�n anticipada de Impuesto al Valor Agregado obtenida por un Exportador, de acuerdo con el Art�culo 6�, del Decreto Supremo de Econom�a N� 348, de 1975. (Oficio N� 684, de 23.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, Art. 12�, Letra A), N� 1, Art. 23� � C�digo de Comercio, Art. 166�. Word Utilizaci�n del Cr�dito Fiscal originado en la adquisici�n de Buses destinados al Transporte de Trabajadores de la propia empresa. (Oficio N� 675, de 23…
+Word Utilizaci�n del Cr�dito Fiscal originado en la adquisici�n de Buses destinados al Transporte de Trabajadores de la propia empresa. (Oficio N� 675, de 23.02.2006)
 
 ## Referencias detectadas
 

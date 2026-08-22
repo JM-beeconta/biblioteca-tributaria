@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-03
+- Fecha: 2005-01-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja891.doc
 - Hash SHA-256: 4765ac7b42d3949812e9f586f20fcb658fd3120a31b920184d42c09b3548c60e
 
 ## Resumen
 
-y a su vez, se acepten como un Gasto Necesario para Producir la Renta de la Empresa; Todo ello conforme a las Normas de los Art�culos 17�, N� 18 y 31� N� 6 bis de la Ley de la Renta. (Ord. N� 380, de 03.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c), Art. 14�, bis � Ley N� 18.046, Art. 94�� Circulares N�s 59, de 1991, 49, de 1997 y 45, de 2001. Word Efectos Tributarios que produce la Divisi�n de una Sociedad An�nima, conforme a las Normas del Art�culo 94�, de la Ley N� 18.046…
+Word Efectos Tributarios que produce la Divisi�n de una Sociedad An�nima, conforme a las Normas del Art�culo 94�, de la Ley N� 18.046 y de la Ley de la Renta. (Ord. N� 275, de 28.01.2005)
 
 ## Referencias detectadas
 

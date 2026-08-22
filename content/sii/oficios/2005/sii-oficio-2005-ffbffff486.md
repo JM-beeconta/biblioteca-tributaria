@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iscal, en el caso de existencia de exenciones personales y alcance de la exenci�n contenida en el Art. 13� N�7�, del D.L. N�825, cuando la prestaci�n es efectuada por un tercero y financiada por una Isapre. (Oficio N�1603, de 05.05.2006). Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� letra g) - Decreto Supremo de Hacienda N�55, de 1977, Art. 6�. Word Solicita reconsideraci�n de Ord. N�245, del 19.04.2005 y N� 58 del 12.01.2006, a fin de que se califique que arrendamiento de inmueble…
+Word Solicita reconsideraci�n de Ord. N�245, del 19.04.2005 y N� 58 del 12.01.2006, a fin de que se califique que arrendamiento de inmueble no se encontrar�a gravado con IVA, ya que s�lo permitir�a el desarrollo de una actividad educacional. (Oficio N� 1555, de 03.05.2006).
 
 ## Referencias detectadas
 

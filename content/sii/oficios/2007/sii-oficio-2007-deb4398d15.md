@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ades de sociedades extranjeras de las cuales es accionista y de trusts extranjeros, conforme al art�culo 3� de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�3, Art. 40�, N�1 � Oficios N��s 1.030, de 2002, 107, de 2006 y 551, de 2006. (Ord. N� 1.277, de 18.06.2007) Word Resuelve reconsideraci�n respecto a si las rentas provenientes del servicio de alimentaci�n se encontrar�an exentas del Impuesto de Primera Categor�a, conforme lo establecido en el art�culo 40�, N�1 del la Le…
+Word Resuelve reconsideraci�n respecto a si las rentas provenientes del servicio de alimentaci�n se encontrar�an exentas del Impuesto de Primera Categor�a, conforme lo establecido en el art�culo 40�, N�1 del la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

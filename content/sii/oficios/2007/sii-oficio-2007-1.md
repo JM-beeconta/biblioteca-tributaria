@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Condiciones bajo las cuales se aplica el impuesto �nico que establece el N�3, del Art�culo 42� bis de la Ley de la Renta por los retiros de Ahorro Previsional Voluntario, efectuados por los contribuyentes afiliados a las entidades administradoras de tales recursos. Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 20� � Ley N� 19.420, de 1995 � Circular N� 50, de 1995. (Ord. N� 371, de 13.02.2007) Word Impuesto de Primera Categor�a al cual debe imputarse el cr�dito establecido en la Ley N�19.420, sobre L…
+Word Impuesto de Primera Categor�a al cual debe imputarse el cr�dito establecido en la Ley N�19.420, sobre Ley Arica.
 
 ## Referencias detectadas
 

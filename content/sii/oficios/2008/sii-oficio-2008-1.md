@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tas.htm'>A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 2008 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 6�, Letra A), N�1 y N�2 � D.F.L. N�7, de 1980, Art. 1�. (Ord. N� 3.690, de 12.12.2008) Word Competencia del SII, para determinar la aplicaci�n del Impuesto Adicional a las Bebidas Analcoh�licas, en el caso de n�ctares…
+Word Competencia del SII, para determinar la aplicaci�n del Impuesto Adicional a las Bebidas Analcoh�licas, en el caso de n�ctares definidos en el art�culo 485�, del Reglamento Sanitario de los Alimentos.
 
 ## Referencias detectadas
 

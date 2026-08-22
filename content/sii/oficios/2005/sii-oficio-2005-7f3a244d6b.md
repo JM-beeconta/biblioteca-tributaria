@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Art. 31�, N� 6 � Circular N� 42, de 1990 � Oficio N� 638, de 1991, 281, de 2005 y 2.371, de 2002. Word Requisitos y condiciones que deben cumplirse para invocar el cr�dito por gastos de capacitaci�n o el sueldo empresarial o patronal en el caso de los propietarios o socios de empresas individuales o sociedades. (Ord. N� 2.317, de 24.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, N� 1 � Oficio N� 3.926, de 2004. Word Reconsideraci�n de materia contenida en e…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, N� 1 � Oficio N� 3.926, de 2004.
 
 ## Referencias detectadas
 

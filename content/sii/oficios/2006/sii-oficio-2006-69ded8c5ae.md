@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-04
+- Fecha: 2006-08-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3698.doc
 - Hash SHA-256: e87aa22b54066d340649d6417597ea018c22aaeeafe7076fb53ed99affa39648
 
 ## Resumen
 
-> Word Consulta respecto del Tratamiento Financiero y Tributario que se le debe otorgar a las Operaciones realizadas con la Direcci�n General de Aeron�utica Civil. (Ord. N� 3.860, de 04.09.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 16.271, Art. 18� N�5 y 7� - Ley N� 18.985, de 1990 sobre Donaciones con Fines Culturales modificada por Ley N� 19.721, de 2001 � Circulares N�24, de 1993, N� 57, de 2001 y N�55, de 2003. Word Consultas relativas a la Aplicaci�n del Impuesto a las Donaciones y la posibilidad d…
+Word Consultas relativas a la Aplicaci�n del Impuesto a las Donaciones y la posibilidad de Exenci�n de �ste, en las Hip�tesis que se plantean. (Ord. N� 3.698, de 23.08.2006)
 
 ## Referencias detectadas
 

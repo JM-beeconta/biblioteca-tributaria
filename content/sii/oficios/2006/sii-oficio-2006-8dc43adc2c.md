@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-10
+- Fecha: 2006-01-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1074.doc
 - Hash SHA-256: 516d9c65ff7b2105d0364ec7ab78a242d5f6c9953719ce36ed2ef28ce4c8eb59
 
 ## Resumen
 
-f='renta/ja1075.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 14�, letra A), Art. 31�, N�6, Art. 42 bis, Art. 55� � Circulares N�s 7, de 1985, 54, de 1986 y 53, de 1990 � Oficio N�6.524, de 2003. Word Condiciones y Requisitos que deben cumplirse para la Rebaja de las Cotizaciones Previsionales a que se refiere la letra b), del Art�culo 55�, de la Ley de la Renta. (Ord. N� 51, de 10.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�2 � C�digo Civil, Art. 1.487. Word Situaci�n Tributaria de Enajenaci…
+Word Situaci�n Tributaria de Enajenaci�n de Acciones y resoluci�n posterior por Sentencia Judicial en virtud de cumplimiento de condici�n Resolutoria T�cita, seg�n Art�culos 1.489 y 1.567, del C�digo Civil, en relaci�n con lo dispuesto por el Art�culo 17� N�8, letra a), de la Ley de la Renta y Art�culo 126�, del C�digo Tributario. (Ord. N� 41, de 09.01.2006)
 
 ## Referencias detectadas
 

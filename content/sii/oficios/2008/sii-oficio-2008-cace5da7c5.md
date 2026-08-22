@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Ley N� 19.768, Art. 1� transitorio � Decreto Ley N� 3.500, de 1980, Art. 71� � Circular N� 23, de 2002. (Ord. N� 1.584, de 29.07.2008) Word Situaci�n tributaria de los Retiros de Excedentes de Libre Disposici�n, conforme a lo dispuesto por el art�culo 42 ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 60�, Art. 62� � C�digo Tributario, Art. 8�, N� 8 � C�digo Civil, Art. 59�, Art. 65� � Oficio N� 3.514,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 60�, Art. 62� � C�digo Tributario, Art. 8�, N� 8 � C�digo Civil, Art. 59�, Art. 65� � Oficio N� 3.514, de 2003. (Ord. N� 1.583, de 29.07.2008)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley N� 19.840, Art. 3� � Circular N� 71, de 2002. Word Suma a considerar para determinar el Impuesto al Mutuo con relaci�n a Exenci�n del Impuesto de Timbres y Estampillas que estableci� Ley N� 19.540, de 2002, en el Art�culo 24�, N�17, del D.L. N�3.475, de 1980. (Ord. N� 5.050, de 23.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, Art. 24�, N� 9. Word Impuesto de Timbres y Estampillas, respecto de Documentos que respaldan el Uso de la L�nea de Cr�dito. Art�culo 24�, N�9, del…
+Word Impuesto de Timbres y Estampillas, respecto de Documentos que respaldan el Uso de la L�nea de Cr�dito. Art�culo 24�, N�9, del Decreto Ley N� 3.475, de 1980. (Ord. N� 4.967, de 15.12.2005)
 
 ## Referencias detectadas
 

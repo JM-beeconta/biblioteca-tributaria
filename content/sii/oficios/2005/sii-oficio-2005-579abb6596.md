@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-10
+- Fecha: 2005-02-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja902.htm
 - Hash SHA-256: 59f4bd99eb475b512cb3756117a7943adc05e8d11313d89e1cfcf387b9ec7d78
 
 ## Resumen
 
-C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386� � Ley N� 18.985, de 1990, Art. 8� � Ley N� 19.721, de 2001, Art. 2� � Ley N� 19.885, de 2003, Art. 11� � Circulares N�s 57, de 2001 y 55, de 2003. Word Absuelve consultas sobre Donaciones con Fines Culturales, conforme a las Normas del Art�culo 8�, de la Ley N� 18.985, de 1990. (Ord. N� 477, de 10.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 � Decreto Ley N� 398, de 1985, del Ministerio de Defensa Nacional, Art. 6�. Word Calidad en…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 � Decreto Ley N� 398, de 1985, del Ministerio de Defensa Nacional, Art. 6�.
 
 ## Referencias detectadas
 

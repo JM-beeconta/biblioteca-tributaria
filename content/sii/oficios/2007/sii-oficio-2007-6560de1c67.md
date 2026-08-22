@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-07
+- Fecha: 2007-11-20
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja3179.doc
 - Hash SHA-256: 2d802b5280322fe157a2139c621188b2be63337512e11db7722b3001f2f76c4c
 
 ## Resumen
 
-o � Ley Sobre Impuesto de � Art. 3� - Ley N�18.010, de 1981 � Oficio N� 2.557, del 2000. (Ord. N� 3.226, de 27.11.2007) Word Tratamiento Tributario que frente a la Ley de Timbres y Estampillas debe aplicarse con relaci�n al art�culo 3� del Decreto Ley N� 3.475, de 1980. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3�, Art. 14� - Ley N�18.010, de 1981, Art. 1�. (Ord. N�3.179, de 20.11.2007) Word Aplicaci�n del Impuesto de Timbres y Estampillas a documento de Reconocimiento de Deuda. C�di…
+Word Aplicaci�n del Impuesto de Timbres y Estampillas a documento de Reconocimiento de Deuda.
 
 ## Referencias detectadas
 

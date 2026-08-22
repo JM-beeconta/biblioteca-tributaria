@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art�culo 14�, de la Ley N� 17.238. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 15� � Oficio N� 3.428, de 1991. (Ord. N� 2.888, de 04.08.2005) Word Solicita un Pronunciamiento Respecto de la correcta Aplicaci�n de Ord. N� 3.428, del 04/10/1991, en Situaciones que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 13�, N� 5, N� 6, letras b) y c) y N� 7 � Ley de la Renta, Art. 20�, N�4 � C�digo Civil, Art. 19�. (Ord. N� 2.887, de 04.…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 13�, N� 5, N� 6, letras b) y c) y N� 7 � Ley de la Renta, Art. 20�, N�4 � C�digo Civil, Art. 19�. (Ord. N� 2.887, de 04.08.2005)
 
 ## Referencias detectadas
 

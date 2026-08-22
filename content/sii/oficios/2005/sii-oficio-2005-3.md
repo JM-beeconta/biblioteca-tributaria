@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3
 - Año: 2005
-- Fecha: 2005-08-04
-- Categoría: Renta, IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja999.doc
-- Hash SHA-256: 99c92e050f2534f8e4e263732097744f0b8cc2a671802c39b82ef2db50e3d6f3
+- Fecha: 2005-10-26
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1039.doc
+- Hash SHA-256: 2837346e1be235a31f9f099bd153fa7bcf3ea2dc95e621bd61a89a6d9893e0b9
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 86�. (Ord. N� 2.889,de 04.08.2005) Word Consulta acerca de la Vigencia del Art�culo 14�, de la Ley N� 17.238. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 15� � Oficio N� 3.428, de 1991. (Ord. N� 2.888, de 04.08.2005) Word Solicita un Pronunciamiento Respecto de la correcta Aplicaci�n de Ord. N� 3.428, del 04/10/1991, en Situaciones que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las �…
+Word Tributaci�n que afecta a Ingresos obtenidos por Venta de Madera realizada, de acuerdo a las Normas de la Ley de la Renta. (Ord. N� 4.275, de 26.10.2005)
 
 ## Referencias detectadas
 
@@ -19,214 +19,156 @@ Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART.
-       15° – OFICIO N° 3.428, DE 1991. (ORD. N° 2.888, DE 04.08.2005)
-
-Correcta Aplicación de Ord. N° 3.428, del  04/10/1991,  en  Situaciones  que
-indica – En Aquellos casos en que el Precio de  Venta  de  Cosas  Muebles  a
-Plazo se expresa en Moneda Extranjera,  pero  el  Pago  de  las  Cuotas  del
-Precio se Percibe en Moneda Nacional, el Alza que se pueda  producir  en  el
-cambio de la moneda extranjera, a la moneda nacional, constituye  una  forma
-de Reajuste del Precio que estará o no, afecto al IVA según supere o  no,  a
-la Variación del valor de la Unidad  de  Fomento  en  ese  mismo  período  –
-Reajuste Positivo, producto de la disminución del Tipo de Cambio –  Pago  de
-una suma Inferior a la Originalmente facturada – Emisión de Nota de  Crédito
- – Variación negativa de la Unidad de Fomento y el tipo  de  Cambio  aumenta
-positivamente – Precio a pagar resulta ser mayor al originalmente  facturado
-– Emisión de Nota de Débito por la  Diferencia  provocada  por  el  tipo  de
-cambio.
-
-1.-   Se  ha  recibido  en  esta  Dirección  Nacional  su  presentación  del
-   antecedente, mediante la cual solicita un pronunciamiento respecto de la
-   correcta aplicación del Ord. N° 3428, de  4/10/91,  en  situaciones  que
-   indica.
-
-      Señala que el oficio en cuestión indica que:  “en  aquellos  casos  en
-   que el precio de venta de cosas muebles a plazo  se  expresa  en  moneda
-   extranjera, pero el pago de las cuotas del precio se perciba  en  moneda
-   nacional, el alza que se pueda  producir  en  el  cambio  de  la  moneda
-   extranjera –en la que se ha convenido el pago  a  plazo  del  precio  de
-   venta- a la moneda nacional, en el lapso que medie entre la  facturación
-   de esa venta y el pago de las cuotas del precio, constituye una forma de
-   reajuste de ese precio que estará, o no, afecto al IVA según  supere,  o
-   no, a la variación del valor de  la  unidad  de  fomento  en  ese  mismo
-   período”.
-
-      Adicionalmente el referido oficio agrega que  “si  efectivamente  debe
-   aplicarse el I.V.A., el  cobro  debe  ser  formulado  por  el  vendedor,
-   mediante la emisión de una nota de débito”.
-
-       Basado  en  lo  anterior,  es  que  el  contribuyente   solicita   un
-   pronunciamiento  respecto  de  la  correcta  aplicación   del   señalado
-   pronunciamiento en las siguientes situaciones:
-
-    a) Baja en el tipo de cambio, de la moneda extranjera en la  que  se  ha
-       convenido expresar un precio  pagadero  en  moneda  nacional,  y  una
-       variación positiva de la U.F..
-
-   Con relación a esta situación se requiere confirmar que, en  virtud  del
-   criterio expuesto en Ord. N° 3428, el vendedor o prestador de  servicios
-   debiera proceder a la emisión de una nota de crédito, en  virtud  de  la
-   cual  se  deberá  reconocer  el  ajuste  del  precio  equivalente  a  la
-   diferencia entre el precio originalmente facturado y el precio  ajustado
-   al tipo de cambio a la fecha de pago, sin considerar la variación de  la
-   U.F..
-   Ejemplo:
-
-   A la fecha  de facturación:
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 29° –  OFICIO N° 3.093, DE
+                    1977. (ORD. N° 4.275, DE 26.10.2005)
 
 
-    1. Tipo de cambio USD = $600
-    2. Factura afecta a IVA $60.000 (USD100)
-    3. UF $17.000
-    4. Precio expresado en Unidades de Fomento: 3,529 UF
+Tributación que  afecta a Ingresos obtenidos por Venta de Madera  realizada,
+de acuerdo a las Normas de la Ley de la Renta – De acuerdo  con  las  normas
+que regulan la Base Imponible del Impuesto de  Primera  Categoría,  para  la
+determinación de dicha base, deben Sumarse todos los Ingresos  derivados  de
+la Explotación de Bienes y Actividades afectas al  Tributo  e  incluirse  en
+los Ingresos Brutos del año en que ellos sean Devengados  o  Percibidos  por
+el Contribuyente, obligación  de  la  que  No  se  encuentra  Exceptuado  el
+Ingreso obtenido en la Venta de Madera a que se refiere en su presentación.
 
-   A la fecha de pago:
-    5. Tipo de cambio USD = $550
-    6. Pago $55.000 (USD100)
-    7. UF $17.300
-    8. Precio expresado a la UF del día del pago: 61.052 = 3,529  x 17.300
+1.-   Por Ordinario indicado en el antecedente, señala que  XXXXXX,  es  una
+   corporación de derecho privado y parte de los Institutos Tecnológicos de
+   Corfo, según Ley N° 19.701, solicitando la opinión de este  Servicio  en
+   relación a la situación tributaria en que se  encontraría  la  venta  de
+   madera a una empresa particular, según los antecedentes que indica en su
+   presentación.
 
-   Base de Nota de Crédito = $5.000 = (60.000-55.000)
+   Señala, que de acuerdo con el artículo tercero de  sus  Estatutos,  cuya
+   copia se adjunta, ese Instituto  tiene,  entre  sus  objetivos,  los  de
+   contribuir al fomento, desarrollo e investigación de recursos forestales
+   del país,  así  como  promover,  coordinar  y  realizar  investigaciones
+   forestales  y de productos forestales. Por su parte,  y  de  conformidad
+   con el artículo noveno  de  los  mismos  Estatutos,  el  patrimonio  del
+   Instituto se forma, entre otros ingresos, con  los  frutos  naturales  o
+   civiles  que produzcan sus bienes.
 
-      b)  Alza en el tipo de cambio, de la moneda extranjera en  la  que  se
-   ha convenido expresar un  precio  pagadero  en  moneda  nacional  y  una
-   variación negativa de la U.F..
+   Agrega, que en el marco de los objetivos antes expresados, el  Instituto
+   ha desarrollado diversos proyectos de investigación,  para  lo  cual  ha
+   establecido parcelas y ensayos experimentales, destinados,  entre  otros
+   temas, a estudiar aspectos genéticos, adaptación de especies  a  suelos,
+   niveles y volúmenes  de crecimiento y diámetro  de las especies y  otros
+   que se han estimado necesarios  para  la  mejora  de  nuestros  recursos
+   forestales. Estas actividades han implicado la  plantación  de  diversas
+   especies, las que durante muchos años han  sido  objeto  de  mediciones,
+   comparaciones y observaciones científicas.
 
-   Con relación a esta situación se requiere confirmar que, en  virtud  del
-   criterio expuesto en Ord. N° 3428, el vendedor o prestador de  servicios
-   debiera proceder a la emisión de una nota de débito,  en  virtud  de  la
-   cual  se  deberá  reconocer  el  ajuste  del  precio  equivalente  a  la
-   diferencia entre el precio ajustado al tipo de cambio a la fecha de pago
-   y el precio originalmente facturado, sin considerar la variación  de  la
-   U.F..
+   Expresa por otro lado, que algunas  de  las  parcelas  y  ensayos  antes
+   referidos, han sido establecidos en el predio YYY, ubicado en la  Comuna
+   de TTTT, Departamento de ZZZZ, Provincia de YYYY, de propiedad del mismo
+   Instituto. El rol de avalúo de este predio  corresponde  al  0000-00000.
+   Agotado  el  proceso  de  investigación  y  generados   los   resultados
+   científicos pertinentes, el Instituto decidió  la  venta  de  la  madera
+   proveniente de algunos de  los  árboles  plantados  para  los  fines  ya
+   señalados,  los   que,   dados   los   años   transcurridos   desde   su
+   establecimiento, configuraban  una  superficie  boscosa.  Esa  venta  se
+   materializó  mediante contrato de fecha 1° de Junio de 2004, cuya  copia
+   se adjunta. Respecto de esta operación se emitió la factura xxxx,  de  x
+   de xx de 200x, cuya  copia  también  se  acompaña.  La  operación  antes
+   expresada ha sido afecta al Impuesto al  Valor Agregado,  por  un  monto
+   que asciende a  $ 5.700.00.-, el que ha sido pagado oportunamente, según
+   consta en Certificado de Declaración Formulario 29, el cual   adjunta  a
+   su presentación. Los ingresos provenientes de la venta de  madera  antes
+   referida, han sido incorporados  como  Ingresos  de  Operación,  en  sus
+   Estados de Resultados al 31 de  Diciembre  de  2004,  incidiendo  en  el
+   resultado del ejercicio, como consta  en  el  documento  respectivo  que
+   adjunta.
 
-   Ejemplo:
+   En consideración a la situación antes expuesta, la que  se  ha  repetido
+   este año, la consulta de esa Institución se relaciona con  el  pago  del
+   Impuesto a la Renta de Primera Categoría que afectaría a la operación de
+   venta indicada. Concretamente, se  trata  de  establecer  si,  para  los
+   efectos de la declaración y pago anual de dicho impuesto,  los  ingresos
+   que de esa operación se derivan, corresponde considerarlos, junto a  los
+   restantes ingresos del ejercicio, en la declaración  y  pago  anual,  de
+   acuerdo a las utilidades finales, o bien, se trata de una operación  que
+   debe considerarse en forma particular, respecto de  la  cual  procedería
+   aplicar en forma individual el impuesto de  17%   correspondiente  a  la
+   Primera Categoría de la Renta.
 
-   A la fecha  de facturación:
-    9. Tipo de cambio USD = $600
-   10. Factura afecta a IVA $60.000 (USD100)
-   11. UF $17.000
-   12. Precio expresado en UF 3,529
+2.-   Sobre el particular, en primer término cabe señalar que de acuerdo  al
+   artículo primero de los Estatutos del Instituto Forestal,  éste  es  una
+   corporación de derecho privado, de duración  ilimitada,  creada  por  la
+   Corporación de Fomento de la Producción y  el  Instituto  de  Desarrollo
+   Agropecuario, que se  denominará  “Instituto  Forestal”,  la  que  podrá
+   actuar  también  bajo  la  denominación  de  la  sigla    “XXX”.   Dicha
+   corporación se regirá en su formación, funcionamiento  y  extinción  por
+   sus estatutos y, en el silencio del  mismo,  por  las  normas  generales
+   contenidas en el Título XXXIII del Libro Primero del Código Civil y  por
+   el Decreto Supremo N° 110, de 17 de Enero de  1979,  del  Ministerio  de
+   Justicia, sobre concesión de personalidad  jurídica  a  Corporaciones  y
+   Fundaciones.
 
-   A la fecha de pago:
-   13. Tipo de cambio USD = $650
-   14. Pago $65.000 (USD100)
-   15. UF $16.800
-   16. Precio expresado a la UF del día  del  pago  =  $59.287  =  (3,529  x
-       16.800)
+      Su objeto, según el artículo tercero de los Estatutos,  es  contribuir
+   al fomento, desarrollo e investigación  de  los  recursos  e  industrias
+   forestales del país, mediante estudios orientados preferentemente a  los
+   diversos objetivos que el mencionado artículo enumera. Su patrimonio, de
+   acuerdo a la letra g) del  artículo  noveno  de  los  Estatutos,  estará
+   compuesto entre otros elementos por “Los frutos naturales o civiles  que
+   produzcan los bienes del  instituto,  comprendiéndose  entre  ellos  los
+   derechos  que  se  convengan  con  terceros  por  el  uso,  arriendo   y
+   explotación  de dichos bienes”
 
-   Base de Nota de débito = $5.000 (65.000-60.000)
+3.-   Ahora bien, frente a las normas de  la  Ley  de  la  Renta  todas  las
+   personas, sean éstas naturales  o  jurídicas,  revisten  la  calidad  de
+   "contribuyentes" en la medida que puedan estar sujetas a algunos de  los
+   tributos que en ella se establecen, lo cual ocurre en el caso que  tales
+   personas posean bienes o realicen actividades  susceptibles  de  generar
+   rentas que se clasifiquen en la  Primera  Categoría  de  dicha  ley.  En
+   efecto, la Ley de la Renta, salvo excepciones taxativas, no atiende a la
+   naturaleza o finalidad de las personas para gravarlas o no con impuesto,
+   sino que considera las actividades que realizan, los actos  y  contratos
+   que ejecutan y los beneficios económicos que puedan obtener.
 
-      c)  Alza en el tipo de cambio, de la moneda extranjera en  la  que  se
-   ha convenido expresar un  precio  pagadero  en  moneda  nacional  y  una
-   variación positiva de la U.F.  superior  a  la  variación  del  tipo  de
-   cambio.
+   En tal sentido, las personas jurídicas regidas por el Título XXXIII  del
+   Libro I del Código Civil, están afectas a  impuesto  en  la  medida  que
+   obtengan rentas clasificadas en la Primera Categoría de  la  Ley  de  la
+   Renta, atendiendo a la fuente generadora de  sus  ingresos,  los  cuales
+   pueden provenir, entre otros, de actividades rentísticas, de inversiones
+   mobiliarias, del comercio, de la industria, de servicios o de  cualquier
+   otra actividad que se encuentre comprendida en los números 1  al  5  del
+   artículo 20 de la ley precitada.
 
-   Con relación a esta situación se requiere confirmar que, en  virtud  del
-   criterio expuesto en Ord. N° 3428, el vendedor o prestador de  servicios
-   no debiera proceder a la emisión de documento tributario  alguno,  pues,
-   en este caso, el monto de los reajustes de valores ya pagaron IVA en  la
-   parte que corresponde a la variación de la U.F..
+4.-   De acuerdo a lo expuesto en los  números  anteriores,  y  atendido  la
+   calidad jurídica que adopta la entidad que representa,  se  expresa  que
+   ésta se encuentra afecta a los impuestos normales de la Ley de la Renta,
+   respecto de todos los ingresos  que  perciba  o  devengue  producto  del
+   desarrollo de su actividad, sin que la beneficie  liberación  tributaria
+   alguna, situación  que  este  Servicio  ya  informó  a  esa  institución
+   mediante el Ordinario N° 3.093, de fecha  17.06.77,  cuya  fotocopia  se
+   adjunta para su conocimiento.
 
-   Ejemplo:
+5.-   En consecuencia, en respuesta a su consulta, este Servicio  informa  a
+   Ud., que en conformidad con las normas que regulan la base imponible del
+   Impuesto  de  Primera  Categoría,  contenidas  en  los  artículos  29  y
+   siguientes de la Ley sobre Impuesto a la Renta, para la determinación de
+   dicha base, en primer lugar, deben sumarse todos los ingresos  derivados
+   de la explotación de bienes y actividades afectas al tributo e incluirse
+   en los ingresos brutos del año en que ellos sean devengados o percibidos
+   por el contribuyente, obligación de la que no se encuentra exceptuado el
+   ingreso obtenido  en  la  venta  de  madera  a  que  se  refiere  en  su
+   presentación.
 
-   A la fecha  de facturación:
-17. Tipo de cambio USD = $600
-18. Factura afecta a IVA $60.000 (USD100)
-19. UF $17.000
-   A la fecha de pago:
-20. Tipo de cambio USD = $650
-21. Pago $65.000 (USD100)
-22. UF $19.000
-23. Precio expresado a la UF del día del pago = $67.051 = (3,529 x 19.000)
-24. Reajuste de tipo de cambio menor a la variación de  la  UF  =  $5.000  =
-   (65.000-60.000)
-
-
-2.-   El artículo 15°, del D.L N°  825,  de  1974,  que  establece  la  base
-   imponible  de  las  operaciones  para  efectos  del  Impuesto  al  Valor
-   Agregado, dispone en lo pertinente que  en  el  caso  de  las  ventas  o
-   servicios, la base imponible estará constituida  por  el  valor  de  las
-   operaciones respectivas, al  cual  debe  adicionarse  el  monto  de  los
-   reajustes, intereses y gastos de financiamiento de la operación a plazo,
-   incluyendo los intereses moratorios  que  se  hubieren  hecho  exigibles
-   anticipadamente en el período tributario.
-
-      No obstante, la norma legal agrega que en todo caso deberá  excluirse,
-   el monto de los reajustes de valores que ya pagaron  Impuesto  al  Valor
-   Agregado, en la parte que corresponda a la variación  de  la  unidad  de
-   fomento determinada por el período respectivo de la operación a plazo.
-
-3.-   De las  normas  legales  precedentemente  señaladas,  se  concluyó  lo
-   dispuesto en Ord. N° 3428, de 4/10/91, citado en su presentación y en el
-   cual se señaló que “en aquellos casos en que el precio de venta de cosas
-   muebles a plazo se expresa en moneda extranjera, pero  el  pago  de  las
-   cuotas del precio se perciba en moneda nacional, el alza  que  se  pueda
-   producir en el cambio de la moneda extranjera –en la que se ha convenido
-   el pago a plazo del precio de venta- a la moneda nacional, en  el  lapso
-   que medie entre la facturación de esa venta y el pago de las cuotas  del
-   precio, constituye una forma de reajuste de ese precio que estará, o no,
-   afecto al IVA según supere, o no, a la variación del valor de la  unidad
-   de fomento en ese mismo período”.
-
-      Adicionalmente se señaló  que  “si  efectivamente  debe  aplicarse  el
-   I.V.A., el cobro debe ser formulado por el vendedor, mediante la emisión
-   de una nota de débito”.
-
-      Evidentemente lo que persigue la norma del artículo 15°, del  D.L.  N°
-   825, es  considerar  como  base  imponible  todos  aquellos  montos  que
-   aumenten el valor de la operación. Sin embargo, excluye de dicha base la
-   parte del reajuste pactado en operaciones a plazo, correspondiente a  la
-   variación de la U.F., debido a que dicho monto no aumenta el valor de la
-   operación, sino que tan sólo obedece al reajuste propio de un  mecanismo
-   para compensar la pérdida de valor adquisitivo de la moneda, que  afectó
-   a dicha operación.
-
-4)  Ahora  bien,  basado  en  las  normas  legales  ya  citadas  y  en   el
-   pronunciamiento emitido por este Servicio,  cabe  señalar  lo  siguiente
-   respecto de los casos planteados en que se pacta una operación  a  plazo
-   en dólares pero pagadera en moneda nacional.
-
-      Respecto al caso signado con la letra a), en que efectivamente  existe
-   un reajuste positivo dado por la variación de la U.F., pero producto  de
-   la disminución del tipo de cambio, en definitiva debe pagarse  una  suma
-   menor a la originalmente facturada, procede emitir una nota de  crédito,
-   ya que  ello se traduce en una rebaja en el  precio  pactado  en  moneda
-   extranjera,  no  teniendo  incidencia  en  este  caso  la  norma   legal
-   analizada.
-
-      En cuanto al caso planteado en la  letra  b),  en  que  la  Unidad  de
-   Fomento sufre una variación negativa, disminuyendo su valor a  la  fecha
-   de pago respecto del valor que tenía al momento de la facturación  y  el
-   dólar en cambio aumenta positivamente su valor, provocando en definitiva
-   que el precio a pagar sea superior al originalmente  facturado,  procede
-   emitir una nota de débito por la diferencia provocada  por  el  tipo  de
-   cambio, pues al ser negativa la variación de la U.F., todo el valor  que
-   exceda al precio pactado constituye base imponible de la operación.
-
-      Finalmente, respecto del caso expuesto en  la  letra  c),  en  que  el
-   reajuste producto de la variación de la U.F. es superior a la  variación
-   del tipo de cambio del dólar, no procede emitir nota de débito,  ya  que
-   estos documentos deben ser  emitidos  según  dispone  el  artículo  57°,
-   inciso segundo, cuando se produzcan aumentos en el  impuesto  facturado,
-   situación que no se da en este caso,  toda vez que la  diferencia  entre
-   lo facturado y lo que efectivamente debe pagarse, no  corresponde  a  un
-   aumento en el precio sino  que  corresponde  íntegramente  a  parte  del
-   reajuste originado por la variación de la U.F., monto respecto del  cual
-   la norma del artículo 15°, establece que  no  forma  parte  de  la  base
-   imponible y,  por  tanto,  no  debe  afectarse  con  Impuesto  al  Valor
-   Agregado.
-
-      Sin perjuicio de  lo  anterior,  para  documentar  dicho  ingreso,  el
-   contribuyente  podrá  utilizar  cualquier  otro  documento  de  carácter
-   interno  que  estime  conveniente  y  que  acredite  fehacientemente  la
-   operación de que se trata.
+      Asimismo, se hace presente que, de  acuerdo  a  los  antecedentes  que
+   proporciona en su solicitud, dichos ingresos debieron formar parte de la
+   base imponible del impuesto que debió ser declarado y pagado en  el  mes
+   de abril del presente año, pues se devengaron en el año 2004.
 
 
-                                                  JUAN TORO RIVERA
-                                                       DIRECTOR
 
-                       Oficio N° 2.888, de 04.08.2005.
+                                       JUAN TORO RIVERA
+
+                DIRECTOR
+
+
+
+                       Oficio N° 4.275, de 26.10.2005.
+
                            Subdirección Normativa
-                        Dpto. de Impuestos Indirectos
+
+                         Dpto. de Impuestos Directos

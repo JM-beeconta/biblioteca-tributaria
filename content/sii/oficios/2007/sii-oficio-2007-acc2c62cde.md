@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-13
+- Fecha: 2007-09-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2634.htm
 - Hash SHA-256: 83d9c8200b2d6efe31911eb8cc111f6a4a1161f8286b6280659f8f9abec2d0ec
 
 ## Resumen
 
-e tur�stico privado remunerado en la Comuna de San Pedro de Atacama. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 52� - Ley de la Renta, Art. 20 N�4. (Ord. N� 2645, de 13.09.2007) Word Consulta sobre la procedencia de autofacturar el traspaso de un bien del activo realizable al activo fijo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166. (Ord. N� 2634, de 11.09.2007) Word Aplicaci�n…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166. (Ord. N� 2634, de 11.09.2007)
 
 ## Referencias detectadas
 

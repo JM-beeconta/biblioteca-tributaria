@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-04-05
+- Fecha: 2006-03-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1195.htm
 - Hash SHA-256: 3f0a9c5b9284e60e41e440d4391aa0cd2b030e7f35fe290441a84f184c8f2840
 
 ## Resumen
 
-de empresas a una Sociedad S.A. acogida al r�gimen de tributaci�n del art�culo 14 bis de la Ley de la Renta. (Ord. N� 1.237, de 05.04.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 58 N�1. Word Aplicaci�n del impuesto adicional establecido en el art�culo 58� N�1�, en el caso de una empresa transnacional cuyo giro principal es otorgar servicios de clasificaci�n de naves mar�timas. (Ord. N� 1.196, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1 Letra b) � Art. 3� Transitorio de la Ley N� 18…
+9.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1 Letra b) � Art. 3� Transitorio de la Ley N� 18.985, de 1990 � Circular N� 58, de 1990.
 
 ## Referencias detectadas
 

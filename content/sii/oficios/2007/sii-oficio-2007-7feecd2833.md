@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-03-06
+- Fecha: 2007-02-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4070.htm
 - Hash SHA-256: 1a1c47358eebe77ced74a78caae370e0bde1bca139b77acf8509af5c3b91d59d
 
 ## Resumen
 
-del uso de una Patente de Invenci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N��s 6 y 7, Art. 53 � Ley N� 18.933, Art. 21�. (Ord. N� 558, de 06.03.2007) Word Aplicaci�n de la exenci�n contenida en el art�culo 13�, N�7, de D.L. N�825, a las prestaciones realizadas por un laboratorio. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 12�, N� 7, letra E) � Ley sobre Impuesto a la Renta, Art. 20�, N�3, Art. 59�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 12�, N� 7, letra E) � Ley sobre Impuesto a la Renta, Art. 20�, N�3, Art. 59�, N�2. (Ord. N� 508, de 28.02.2007)
 
 ## Referencias detectadas
 

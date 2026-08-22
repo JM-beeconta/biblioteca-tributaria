@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mpuesto a las � Art. 52 - Ley de la Renta, Art. 20 N�4 y 5� - Resoluci�n N�6.080, de 1999 � Circular N�21, de 1991, Circular N�39, de 2000 Word Consulta sobre si corresponde aplicar el Impuesto al Valor Agregado a las Actividades Administrativas y de Intermediaci�n que dos Sociedades prestar�n a otras Empresas del mismo Grupo Econ�mico. (Oficio N� 3720, de 23.08.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�, � Resoluci�n N� 6080, de 1999 � Circular N�39, de 2000 Word S…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�, � Resoluci�n N� 6080, de 1999 � Circular N�39, de 2000
 
 ## Referencias detectadas
 

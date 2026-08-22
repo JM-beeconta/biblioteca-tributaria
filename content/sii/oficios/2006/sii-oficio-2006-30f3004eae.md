@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-13
+- Fecha: 2006-09-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3866.htm
 - Hash SHA-256: 77b432222da158c5a749f69cb56942548d8349f333688c41980a713a5f08677b
 
 ## Resumen
 
-(Ord. N� 3.974, de 13.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 29� al 33� - Circular N�65, de 2001 � Oficio N� 4.275, de 2005. Word Solicita Reconsiderar Oficio Ord. N�4.275, de 2005, que dice relaci�n a la Tributaci�n que Afecta a Ingresos por Venta de Madera Realizada. (Ord. N� 3.973, de 13.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 43 N�1, Art. 74 N�1 � Ley N�18.156, Art. 7� - Circular N� 1.295, de 2004 de la Superintendencia de Administradoras de Fondos de Pensiones � Oficios N�s 1374…
+Renta � Actual Ley Sobre Impuesto a la � Art. 43 N�1, Art. 74 N�1 � Ley N�18.156, Art. 7� - Circular N� 1.295, de 2004 de la Superintendencia de Administradoras de Fondos de Pensiones � Oficios N�s 1374 y 1480, de 2004, N�s 104, 5295, 6141, de 2003 y N�2758, de 2002.
 
 ## Referencias detectadas
 

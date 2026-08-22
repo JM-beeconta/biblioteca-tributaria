@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 619
 - Año: 2006
-- Fecha: 2006-01-26
+- Fecha: 2006-01-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1108.doc
 - Hash SHA-256: 6c84c249a1f2bc2c7068a89d8c3baf16f31010e17f35e9e2c53aa94bad90a339
 
 ## Resumen
 
-Art. 53�. Word IVA en Arriendo y Concesi�n de Locales que prestan Servicios de Fotocopiado dentro de un Recinto Universitario. (Oficio N� 290, de 26.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 69� � Ley N� 15.231, Art. 55� � Ley N� 18.695, Art. 14� � Oficio N� 619, de 2003. Word Facturaci�n del Arancel establecido a favor del Registro de Multas del Tr�nsito No Pagadas en caso de Infracciones detectadas por medio de Equipos de Registro. (Oficio N� 232, de 20.01.…
+Word Facturaci�n del Arancel establecido a favor del Registro de Multas del Tr�nsito No Pagadas en caso de Infracciones detectadas por medio de Equipos de Registro. (Oficio N� 232, de 20.01.2006)
 
 ## Referencias detectadas
 

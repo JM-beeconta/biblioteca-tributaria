@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-19
+- Fecha: 2006-11-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4011.htm
 - Hash SHA-256: 7f30996bba1bafe42ab6823e060a623f772c23c475ab38ee33eea9c69c04e927
 
 ## Resumen
 
-del costo tributario de una inversi�n en el caso de una sociedad que lleva su contabilidad en moneda extranjera. (Ord. N� 4.883, de 19.12.2006) Renta � Actual Ley sobre Impuesto a la � Art. 17, N�3 � Oficio N� 699, de 2006 Resuelve solicitud de reconsideraci�n respecto a lo dictaminado por Oficio N� 699, de 24.02.2006, en relaci�n con la aplicaci�n del art�culo 17 N� 3 de la Ley de la Renta (Ord. N� 4.727, de 05.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. Word Tributaci�n…
+06) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�.
 
 ## Referencias detectadas
 

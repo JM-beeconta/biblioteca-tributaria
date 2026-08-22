@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-12-13
+- Fecha: 2007-11-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja3233.doc
 - Hash SHA-256: 4d2c26d26d5482c2b92a9cb16a1ef7820b6c1b22e3e2701dc90bcefdb99a412e
 
 ## Resumen
 
-Impuesto a las � Art. 27 Bis � Circular N�124, de 1975. (Ord. N�3.389, de 13.12.2007) Word Situaci�n del IVA previamente devuelto de conformidad con el inciso segundo del art�culo 27 Bis, del D.L. 825, en caso de Divisi�n de la Sociedad Beneficiaria. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2�, Art. 20� - C�digo de Comercio, Art. 3� - C�digo Tributario, Art. 64�. (Ord. N� 3233, de 27.11.2007) Word Consulta si servicios prestados a Sociedad, por otras Sociedades, se en…
+Word Consulta si servicios prestados a Sociedad, por otras Sociedades, se encuentran gravados con IVA por corresponder a aquellos propios de una Agencia de Negocios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-10-04
+- Fecha: 2007-10-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2805.htm
 - Hash SHA-256: 03dce6613e4679fbc0d0c3249190ff33ace904e01d0b0959eeb0d705decc7c3d
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra B, N�10, Art. 64� � Ley de la Renta, art. 20� N� 3 � C�digo de Comercio, Art. 3� N� 7�. (Ord. N� 2828, de 04.10.2007) Word Solicita se le otorgue la franquicia de la exenci�n del IVA establecida en el art. 12 letra b, N�10 a una importaci�n o en su defecto, subsidiariamente, diferir el pago del Impuesto al Valor Agregado. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, a…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, art. 20� N�3� y 4�. (Ord. N� 2805, de 01.10.2007)
 
 ## Referencias detectadas
 

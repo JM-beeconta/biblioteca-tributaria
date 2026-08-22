@@ -11,7 +11,7 @@
 
 ## Resumen
 
-arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter, Art. 56�, N� 3, Art. 63� � Ley N� 18.815 � Ley N� 19.768, Art�culo 1� transitorio � Decreto ley N� 1.328, Art. 17�. Word Vigencia de exenci�n del art�culo 18 Ter de la Ley de la Renta, respecto de los Fondos Mutuos Accionarios del D.L. N� 1.328, de 1976. (Ord. N� 2.492, de 06.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art.17�, N� 1 � Ley Sobre Impuesto a las Ventas y Servicios, Art. 2�, N� 2, Art. 8�, Art. 21�, N� 2 � C�digo Civil, Art.…
+Renta � Actual Ley Sobre Impuesto a la � Art.17�, N� 1 � Ley Sobre Impuesto a las Ventas y Servicios, Art. 2�, N� 2, Art. 8�, Art. 21�, N� 2 � C�digo Civil, Art. 1.535� � Ley N� 18.410, Art. 16� B � Oficio N� 2.585, de 2004.
 
 ## Referencias detectadas
 

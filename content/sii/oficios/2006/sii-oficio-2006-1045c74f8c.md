@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-09
+- Fecha: 2006-02-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1100.doc
 - Hash SHA-256: 413cad7a041b8bd94175d76f6cd2c67d8a23e8b3b0a395325c6903d6fb1f8102
 
 ## Resumen
 
-la Renta. (Ord. N� 455, de 09.02.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.220, Art. 39�, N�1 � Circular N�43, de 2004. Word Tributaci�n desde el punto de Vista de la Ley de la Renta de las Bolsas de Productos Agropecuarios de la Ley N�19.220, de 1993. (Ord. N� 416, de 07.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 50�, Art.42�, N�2 � Circular N�21, de 1991. Word Acreditaci�n de Gastos por Concepto de Movilizaci�n, conforme a las Normas del Art�culo 31�, de la Ley de la Renta. (Ord. N� 41…
+Word Acreditaci�n de Gastos por Concepto de Movilizaci�n, conforme a las Normas del Art�culo 31�, de la Ley de la Renta. (Ord. N� 415, de 07.02.2006)
 
 ## Referencias detectadas
 

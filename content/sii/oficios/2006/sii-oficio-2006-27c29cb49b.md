@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra G. Word Aplicaci�n del Impuesto al Valor Agregado al arrendamiento de un galp�n que cuenta con determinadas instalaciones que son de propiedad del arrendatario. (Oficio N�2.918, de 09.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2, Art. 12� Letra E N�7�, Art. 17� N�11 � Oficio N�933, de 2005. Word Se informa criterio respecto a si aporte extraordinario cobrado por Club de Campo a sus soci…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2, Art. 12� Letra E N�7�, Art. 17� N�11 � Oficio N�933, de 2005.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ef='renta/ja1433.doc'>Word Situaci�n tributaria del aporte de derechos sociales de una sociedad chilena, efectuado por una sociedad extranjera a una de sus filiales con domicilio en el extranjero, la cual en el momento mismo de la recepci�n del aporte, los radicar� en su agencia en Chile. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18�, Art. 18� ter. � Ley N� 18.293, de 1984, Art. 3� � Circulares N��s 158, de 1976 y N� 7, de 2002. (Ord. N� 1.315, de 26.06.2008) Word Elementos de juicio que deben…
+Word Elementos de juicio que deben tenerse presente para calificar a una operaci�n de venta de acciones de habitual o no.
 
 ## Referencias detectadas
 

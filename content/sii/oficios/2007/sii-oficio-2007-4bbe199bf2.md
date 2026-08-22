@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/p> Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 56�, N�3, Art. 63� � Ley N� 18.775, Art. 1� � Circular N� 59, de 1991. (Ord. N� 2.923, de 10.10.2008) Word Situaci�n tributaria del cr�dito por impuesto de Primera Categor�a, en el caso de contribuyentes que se acogen al art�culo 14� bis de la Ley de la Renta, conforme a lo dispuesto por el art�culo 1� transitorio de la Ley N�18.775, de 1989. Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�6, Art. 18� ter, Art. 18� quater � C�digo Civil, Art. 22�…
+Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�6, Art. 18� ter, Art. 18� quater � C�digo Civil, Art. 22� � Ley N�18.815, Art. 32�, Art. 41�, N�4 � Ley N� 20.190, de 2007 � Circular N� 58, de 2007. (Ord. N� 2.920, de 10.10.2008)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-so de Contribuyentes del art�culo 58�, N�1 de la Ley de la Renta, conforme a las normas de la letra c), del N�1 de la Letra A) del art�culo 14� de la Ley precitada. (Ord. N� 4.438, de 11.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 55 bis � C�digo Civil, Art. 1.631, N�3 � Circular N� 87 de 2001 � Resoluci�n Exenta N�53, de 2001 � Oficios N�s 1.299; 1.385 y 1.640, de 2002. Word Aplicaci�n del Beneficio establecido en el Art�culo 55� bis de la Ley Sobre Impuesto a la Renta. (Ord. N�4.437, de 11.11.2005) Re…
+Word Aplicaci�n del Beneficio establecido en el Art�culo 55� bis de la Ley Sobre Impuesto a la Renta. (Ord. N�4.437, de 11.11.2005)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt> Renta � Actual Ley Sobre Impuesto a la � 17�, N� 8, letra i), Art. 18�. (Ord. N� 999, de 07.05.2007) Word Situaci�n Tributaria de la enajenaci�n de una cuota o derecho de dominio sobre dos predios agr�colas adquiridos por donaci�n, conforme a lo dispuesto por la letra i), del N� 8, del art�culo 17, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�1, Art. 20�, N�1, letra d), Art. 39�, N�3 � D.F.L. N� 2, de 1959 � Circulares N��s 75, de 1976 y 66 de 1977 � Oficio N� 1.810, de 1994. (Ord…
+Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�1, Art. 20�, N�1, letra d), Art. 39�, N�3 � D.F.L. N� 2, de 1959 � Circulares N��s 75, de 1976 y 66 de 1977 � Oficio N� 1.810, de 1994.
 
 ## Referencias detectadas
 

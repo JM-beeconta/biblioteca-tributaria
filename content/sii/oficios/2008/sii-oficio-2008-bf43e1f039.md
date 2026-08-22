@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 3, Art. 56�, N� 3, Art. 63� � Circular N� 68, de 2001. (Ord. N� 1.436, de 07.07.2008) Word Situaci�n tributaria de las rentas y cr�ditos en el caso de bienes ra�ces no agr�colas arrendados en periodos inferiores a doce meses, conforme a las normas de los art�culos 20�, N�1, letra d) y 39�, N�3, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Ley N� 20.143, Art. 13� � Circular N� 41, de 1999. (Ord. N� 1.435, de 07.07.2008) Word Situaci�n Tributaria de bono de escolaridad establecido por el art�cu…
+Word Situaci�n Tributaria de bono de escolaridad establecido por el art�culo 13�, de la Ley N� 20.143, de 2006.
 
 ## Referencias detectadas
 

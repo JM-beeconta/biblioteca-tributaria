@@ -11,7 +11,7 @@
 
 ## Resumen
 
-13. (Ord. N� 1.434, de 07.07.2008) Word Situaci�n tributaria de la explotaci�n de bienes ra�ces no agr�colas, conforme a lo dispuesto por los art�culos 20�, N�1, letra d) y 39�, N�3 de la Ley sobre Impuesto a la Renta, en el caso de la transformaci�n de una sociedad an�nima en sociedad de personas Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N� 1 � C�digo Tributario, Art. 64� � Oficio N� 4.848, de 2005. (Ord. N� 1.433, de 07.07.2008) Word Situaci�n tributaria del aporte de derechos sociales de una sociedad c…
+Word Situaci�n tributaria del aporte de derechos sociales de una sociedad chilena, efectuado por una sociedad extranjera a una de sus filiales con domicilio en el extranjero, la cual en el momento mismo de la recepci�n del aporte, los radicar� en su agencia en Chile.
 
 ## Referencias detectadas
 

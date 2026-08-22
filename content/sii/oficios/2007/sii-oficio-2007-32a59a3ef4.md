@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, de 18.06.2007) Word Tributaci�n del usufructo constituido sobre acciones, seg�n normas de los art�culos 56, N�3 y 63�, de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 3�. (Ord. N� 1.278, de 18.06.2007) Word Tributaci�n de extranjero domiciliado en el pa�s que recibe utilidades de sociedades extranjeras de las cuales es accionista y de trusts extranjeros, conforme al art�culo 3� de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�3, Art. 40�…
+Word Tributaci�n de extranjero domiciliado en el pa�s que recibe utilidades de sociedades extranjeras de las cuales es accionista y de trusts extranjeros, conforme al art�culo 3� de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

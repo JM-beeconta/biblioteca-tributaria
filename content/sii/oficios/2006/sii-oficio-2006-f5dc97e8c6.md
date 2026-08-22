@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 41� N�7� � D.L. N�825 de 1974, Art. 23� � Oficio N� 3.853, de 2005. Word Resuelve Reconsideraci�n de Oficio Ordinario N�3.853, de 2005. (Ord. N� 2.914, de 09.06.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 72� - Circular N�19, de 2006. Word Solicita el estudio de la disposici�n legal que establece procedimiento de c�lculo del reajuste, respecto del pago del Impuesto a la Renta. (Ord. N� 2.021, de 31.05.2006) Renta � Actual Ley Sobre Impuesto a la �…
+Word Solicita el estudio de la disposici�n legal que establece procedimiento de c�lculo del reajuste, respecto del pago del Impuesto a la Renta. (Ord. N� 2.021, de 31.05.2006)
 
 ## Referencias detectadas
 

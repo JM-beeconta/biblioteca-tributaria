@@ -11,7 +11,7 @@
 
 ## Resumen
 
-izaciones previsionales originadas por el cambio de r�gimen previsional. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Decreto Ley N�1.328, de 1976, Art 13�, N�1 � Circular N�7, de 2002. (Ord. N�3.086, de 28.10.2008) Word Situaci�n tributaria de la enajenaci�n de acciones, conforme a las normas del art�culo 18 ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 42�, N�2, Art. 74�, N�2, Art. 78�. (Ord. N�3.085, de 28.10.2008) Word Situaci�n tributaria de comisiones pagadas p…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 42�, N�2, Art. 74�, N�2, Art. 78�. (Ord. N�3.085, de 28.10.2008)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-20
+- Fecha: 2007-11-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja3152.doc
 - Hash SHA-256: fbb634f515c4f0ad861399748d18d5fed9c1a085c034c54fd8ec6edebee15da5
 
 ## Resumen
 
-digo Tributario, Art. 126�.(Ord. N� 3.176, de 20.11.2007) Word Solicita pronunciamiento respecto a solicitud de Devoluci�n de Impuestos a trav�s de lo dispuesto en el Art�culo 126 del C�digo Tributario. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2� - Ley sobre Impuesto a la Renta, Art. 20� N�3 y 4�- C�digo de Comercio, Art. 3� N�7�- Resoluci�n Ex. N� 985, de 1975. (Ord. N� 3.152, de 19.11.2007) Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de Fidelizaci…
+Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de Fidelizaci�n que una Empresa prestar� a distintas Empresas dedicadas tanto a la Venta como a la Prestaci�n de Servicios.
 
 ## Referencias detectadas
 

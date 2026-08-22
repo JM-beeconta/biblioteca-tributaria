@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-28
+- Fecha: 2005-03-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja915.htm
 - Hash SHA-256: a942726a5b0f40fe765a365c303a5e64eb02c4dc62469606eae3a2af1bff3658
 
 ## Resumen
 
-e="arial" size="2"> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, de 1986, Art. 6� � Decreto Supremo de Hacienda N� 311 � Circulares N�s 29 y 32, de 1986. (Ord. N� 793, de 28.03.2005) Word Tratamiento Tributario aplicable en relaci�n con el Impuesto espec�fico a los Combustibles a Producci�n Local e Importaci�n del producto Diesel del Invierno o Gasoil Minero Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 59� � C�digo Tributario, Art. 126�, N� 2 � Ci…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 59� � C�digo Tributario, Art. 126�, N� 2 � Circulares N�s 72, de 2001 y 48, de 2004. (Ord. N� 710, de 18.03.2005)
 
 ## Referencias detectadas
 

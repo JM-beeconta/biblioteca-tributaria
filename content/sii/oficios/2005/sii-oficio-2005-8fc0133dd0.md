@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-14
+- Fecha: 2005-12-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1061.htm
 - Hash SHA-256: e135c02d18a2a8660f8884bd480f63367c410a72e540832ed9347bd4d4d24187
 
 ## Resumen
 
-"> Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1 � C�digo Civil, Art. 1.545�, C�digo Tributario, Art. 64�. Word Tratamiento Tributario de Enajenaci�n de Acciones conforme a las Normas del Art�culo 17�, N�8, letra a), de la Ley de la Renta y Art�culo 64�, del C�digo Tributario. (Ord. N� 4.932, de 14.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, Art. 18� � Oficio N� 3.652, de 2001. Word Tributaci�n que afecta a Enajenaci�n de Predio Agr�cola, conforme a las normas de la letra b), del N� 8…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, Art. 18� � Oficio N� 3.652, de 2001.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-01
+- Fecha: 2006-02-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1127.doc
 - Hash SHA-256: df54420bed576e4237b08ccb11c4dba341f23aa5c10440bf96b63b3e3652ed35
 
 ## Resumen
 
-IFY'> Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, de 1999, Art. 5� � Oficio N� 652, de 2005. Word Exigibilidad de Anotaci�n al margen de la Obligaci�n de Radicaci�n a que se refiere el inciso sexto del Art�culo 5�, de la Ley N� 19.606, de 1999. (Ord. N� 735, de 01.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 21� � Circulares N�s 60, de 1990 y 37, de 1995 � Oficios N�s 381, de 1998 y 299, de 2004. Word Resuelve consultas relacionadas con el Registro FUT, conforme a lo dispuesto por l…
+Word Resuelve consultas relacionadas con el Registro FUT, conforme a lo dispuesto por los art�culos 14� y 21�, de la Ley Sobre Impuesto a la Renta. (Ord. N� 700, de 24.02.2006)
 
 ## Referencias detectadas
 

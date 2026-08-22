@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-29
+- Fecha: 2008-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja3086.htm
 - Hash SHA-256: 6c9f7048ad4460cbd7e2f4a5d7337c13115a98ea4c103f3c4fe7c55388f3f05d
 
 ## Resumen
 
-a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 42� bis � Decreto Ley N�3.500, de 1980 � Circular N�31, de 2002. (Ord. N� 3.102, de 29.10.2008) Word Situaci�n tributaria de los retiros de Ahorro Previsional Voluntario efectuados en distintas AFP, para el pago de cotizaciones previsionales originadas por el cambio de r�gimen previsional. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Decreto Ley N�1.328, de 1976, Art 13�, N�1 � Circular N�7, de 2002. (Ord. N�3.086, de 28.10.2008) Word Situaci�n t…
+Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Decreto Ley N�1.328, de 1976, Art 13�, N�1 � Circular N�7, de 2002. (Ord. N�3.086, de 28.10.2008)
 
 ## Referencias detectadas
 

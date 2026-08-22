@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-29
+- Fecha: 2005-09-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1014.htm
 - Hash SHA-256: 763be582b47222996b343f5355de65405cd3a70f6415406da1bd76d901d7b433
 
 ## Resumen
 
-href="ventas/ja1028.htm">Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�5, N�6, letras b) y c) y N�7 � Ley de la Renta, Art. 20�, N� 3 y 4� � C�digo Civil, Art. 19� � Decreto Supremo N� 140, de 2005, del Ministerio de Salud, Art. 43� . (Ord. N� 3.783, de 29.09.2005) Word Impuesto al Valor Agregado que Afecta a Ex�menes de Mamograf�a Prestados por un Centro M�dico. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 12�, le…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 12�, letra E), N�8, Art. 23� � Ley Sobre Impuesto a la Renta, Art. 20�, N�3 � Oficio N� 2.975, de 2004. (Ord. N� 3.468, de 13.09.2005)
 
 ## Referencias detectadas
 

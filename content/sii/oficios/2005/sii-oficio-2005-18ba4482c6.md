@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ares N�s 59, de 1991 y 49, de 1997. Word Tributaci�n de Sociedad acogida a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 2.493, de 06.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter, Art. 56�, N� 3, Art. 63� � Ley N� 18.815 � Ley N� 19.768, Art�culo 1� transitorio � Decreto ley N� 1.328, Art. 17�. Word Vigencia de exenci�n del art�culo 18 Ter de la Ley de la Renta, respecto de los Fondos Mutuos Accionarios del D.L. N� 1.328, de 1976. (Ord. N� 2.492, de 06.07.2005) Renta � Actual Ley…
+Word Vigencia de exenci�n del art�culo 18 Ter de la Ley de la Renta, respecto de los Fondos Mutuos Accionarios del D.L. N� 1.328, de 1976. (Ord. N� 2.492, de 06.07.2005)
 
 ## Referencias detectadas
 

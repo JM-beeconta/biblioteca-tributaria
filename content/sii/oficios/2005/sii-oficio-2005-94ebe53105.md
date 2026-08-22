@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s al Cr�dito Fiscal cuando las Facturas, Notas de D�bito y Notas de Cr�dito, son recibidas o registradas con Retraso, establecido en el Art�culo 24�, del Decreto Ley N� 825, a los Comprobantes de Ingreso por Importaciones. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 20�, N�s 3 y 4 � C�digo Tributario, Art. 126�, Art. 128�. (Ord. N� 615, de 07.03.2005) Word No procede Gravar con el Impuesto al Valor Agregado, las sumas Cobradas al Arrendatario d…
+Word No procede Gravar con el Impuesto al Valor Agregado, las sumas Cobradas al Arrendatario de un veh�culo, por concepto de sanci�n y Lucro Cesante en caso de sufrir dicho Veh�culo Da�os durante el Per�odo de Arriendo.
 
 ## Referencias detectadas
 

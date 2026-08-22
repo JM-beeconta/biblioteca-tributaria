@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Arrendamiento Internacional de Bienes Corporales Muebles, en consideraci�n al Requisito de Territorialidad establecido en el Art�culo 5�, del citado decreto Ley. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Civil, Art. 20� � C�digo de Comercio, Art. 3�, N� 1, Art. 95� � C�digo Aeron�utico, Art. 99� � Decreto Ley N� 2.564, de 1979, Art. 8� � Oficio N� 4.250, de 1999. (Ord. N� 077, de 10.01.2005) Word Art�culo 8�, del Decreto Ley N�2.564, de 1979. Procedimiento Especial para el Pago de…
+Word Art�culo 8�, del Decreto Ley N�2.564, de 1979. Procedimiento Especial para el Pago del Impuesto al Valor Agregado en Importaci�n de Aeronaves.
 
 ## Referencias detectadas
 

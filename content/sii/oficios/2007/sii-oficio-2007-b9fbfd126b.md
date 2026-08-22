@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N��s 5 y 7 � Ley N� 18.046, Art. 16� � Circular N� 27, de 1984. (Ord. N� 510, de 28.02.2007) Word Situaci�n tributaria del reajuste de los saldos insolutos de las acciones suscritas y no pagadas, a que se refiere el art�culo 16�, de la Ley N�18.046. Renta � Actual Ley Sobre Impuesto a la � Art. 42, N� 1, Art. 42� bis, N� 3 � Oficios N��s 6.524, de 2003 y 4.652, de 2005. (Ord. N� 509, de 28.02.2007) Word Condiciones bajo las cuales se aplica el impuesto �n…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42, N� 1, Art. 42� bis, N� 3 � Oficios N��s 6.524, de 2003 y 4.652, de 2005.
 
 ## Referencias detectadas
 

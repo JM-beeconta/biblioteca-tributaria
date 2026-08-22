@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-29
+- Fecha: 2006-12-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4017.doc
 - Hash SHA-256: 37ddcd8039be4c7c5545d8c3d06f9a453f3c0693bdedcc0234e31300de315838
 
 ## Resumen
 
-N� 18.815, de 1989. Word Solicita Pronunciamiento relativo al Tratamiento del Impuesto al Valor Agregado en Fondos de Inversi�n Privado, Ley N� 18.815, de 1989. (Oficio N� 5.008, de 29.12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N� 4, Art. 15�, N�1, Art. 55�, Art. 69� � Ley N� 18.092, Art. 12� � Circular N� 11, de 2004 Word Consultas sobre situaci�n tributaria de Ingresos Obtenidos por un Establecimiento Particular Subvencionado. (Oficio N� 4.906, de 20.12.2006) Ventas y…
+Word Consultas sobre situaci�n tributaria de Ingresos Obtenidos por un Establecimiento Particular Subvencionado. (Oficio N� 4.906, de 20.12.2006)
 
 ## Referencias detectadas
 

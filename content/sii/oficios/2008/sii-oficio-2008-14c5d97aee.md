@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-01-25
+- Fecha: 2008-01-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja192.doc
 - Hash SHA-256: 4df631a1296e858db45b531bbb2b826238355c22817ff23c335dba4da9074676
 
 ## Resumen
 
-ef='renta/ja214.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74� N�4�, Art. 79� - Ley N� 20.154, de 2007. (Ord. N� 214, de 25.01.2008) Word Solicita pronunciamiento respecto a la Base sobre la cual corresponde aplicar el Impuesto Adicional en el caso de remesa por concepto de Derechos de Autor. Renta � Actual Ley Sobre Impuesto a la � Art. 70�, Art. 42� N�2�, Art. 20� N�3� � Circular N� 8, de 2000. (Ord. N� 192, de 24.01.2008) Word Factibilidad de ejercer facultad del art. 70 de la Ley de la Renta…
+Word Factibilidad de ejercer facultad del art. 70 de la Ley de la Renta a profesional clasificado en el N�2 del art�culo 42, en situaci�n que se indica.
 
 ## Referencias detectadas
 

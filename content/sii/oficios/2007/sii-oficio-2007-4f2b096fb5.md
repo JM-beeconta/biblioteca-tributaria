@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502 � Ley N�19.764, Art. 2� - C�digo de Comercio, Art. 166� - Ord. 1501, de 2004. (Ord. N� 2.360, de 02.08.2007) Word Solicita confirmar si se mantiene vigente el pronunciamiento emitido en Ord. N� 1.501, de 30.03.2004, en relaci�n con el Impuesto Espec�fico al Petr�leo Diesel. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art.6� y 7� � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166� - Ord.…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art.6� y 7� � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166� - Ord. 1.501, de 2004. (Ord. N� 2.359, de 02.08.2007)
 
 ## Referencias detectadas
 

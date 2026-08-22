@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-25
+- Fecha: 2007-04-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4082.doc
 - Hash SHA-256: dad3c45a804c11de0d5a369926854c6e725adc275c2abe89dd70cf650b6f7701
 
 ## Resumen
 
-, Art. 3� � Decreto Ley N� 1.089, Art. 5�, Art. 9�. (Ord. N� 932, de 25.04.2007) Word R�gimen tributario aplicable a contratos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33� � C�digo Tributario, Art. 64� � Convenio entre la Republica de Argentina y la Rep�blica de Chile para evitar la Doble Tributaci�n, Art. 12�. (Ord. N� 817, de 10.04.2007) Word Tratamiento tributario de la venta de cr�dito a un valor inferior a su valor nominal. Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley…
+Word Tratamiento tributario de la venta de cr�dito a un valor inferior a su valor nominal.
 
 ## Referencias detectadas
 

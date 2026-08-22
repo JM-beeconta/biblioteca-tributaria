@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mpuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, art. 20� N�3� y 4�. (Ord. N� 2830, de 04.10.2007) Word Consulta sobre la posibilidad de eximir del Impuesto al Valor Agregado la adquisici�n de una pr�tesis y el posterior proceso de rehabilitaci�n para usarla. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 13� N�4� � Ley de la Renta, art. 20� N� 4�. (Ord. N� 2829, de 04.10.2007) Word Empresa solicita exenci�n de IVA establecida en el art. 13 N�4, a los servi…
+Word Empresa solicita exenci�n de IVA establecida en el art. 13 N�4, a los servicios de capacitaci�n que prestar� a clientes usuarios de centrales telef�nicas.
 
 ## Referencias detectadas
 

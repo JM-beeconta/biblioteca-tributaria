@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-07
+- Fecha: 2005-10-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1045.htm
 - Hash SHA-256: a3cb86b04ac4128595ece5280e53604470117c8a3603657905652837ad4019ab
 
 ## Resumen
 
-size="1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � 2�, N� 2, Art. 12�, Letra E), N�8 � Ley de la Renta, Art. 42�, N�2, Art. 43�, N�2, Art. 20�, N�5, Art. 74�, N�2 � Circular N� 21, de 1991. (Ord. N� 4.337, de 07.11.2005) Word Tributaci�n aplicable a la Actividad que pretende desarrollar en Centro de Est�tica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h) � Ley de la Renta, Art. 20�, N�5 � Decreto Supremo N� 414, de 1991, del Ministerio de Planifi…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h) � Ley de la Renta, Art. 20�, N�5 � Decreto Supremo N� 414, de 1991, del Ministerio de Planificaci�n y Cooperaci�n � Ley N� 18.168, de 1982, Art. 1� � Circular N� 47, de 1977. (Ord. N� 4.253, de 24.10.2005)
 
 ## Referencias detectadas
 

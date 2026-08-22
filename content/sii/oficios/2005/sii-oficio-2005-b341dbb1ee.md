@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-04
+- Fecha: 2005-06-02
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja972.doc
 - Hash SHA-256: 104dcea6218e7d4d1c59e34b822bce14fe1f76fb00b1fb77efdafb209cce36bf
 
 ## Resumen
 
-/a> Plazo para Pagar el Impuesto de Timbres y Estampillas en el Caso de los Documentos Gravados otorgados por Escritura P�blica y Responsables de su Pago. ( Ord. N� 2.445, de 04.07.2005) Normas Internacionales � Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27�, N�1, letra a) � Ley de la Renta, Art. 74�, N� 4, Art. 79�, Art. 82�, Art. 59�, N� 1. Word Consulta si un Inter�s Contabilizado como gasto, puede quedar beneficiado por las T…
+Word Consulta si un Inter�s Contabilizado como gasto, puede quedar beneficiado por las Tasas Preferentes de los Convenios aun cuando no se haya Generado la Obligaci�n Legal de su Pago. (Ord. N� 1.672, de 02.06.2005)
 
 ## Referencias detectadas
 

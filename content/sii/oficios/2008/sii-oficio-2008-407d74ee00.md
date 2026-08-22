@@ -11,7 +11,7 @@
 
 ## Resumen
 
-esultantes de la subdivisi�n de un predio agr�cola. Renta � Actual Ley Sobre Impuesto a la � Art. 55� bis. � Resoluci�n Ex. N� 53, de 2001. (Ord. N� 1.437, de 07.07.2008) Word Situaci�n tributaria de las sociedades securitizadoras frente a la obligaci�n de informar que establece el inciso final del art�culo 55�, de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra d), Art. 31, N� 5, Art. 39�, N� 3, Art. 56�, N� 3, Art. 63� � Circular N� 68, de 2001. (Ord. N� 1.436, de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra d), Art. 31, N� 5, Art. 39�, N� 3, Art. 56�, N� 3, Art. 63� � Circular N� 68, de 2001. (Ord. N� 1.436, de 07.07.2008)
 
 ## Referencias detectadas
 

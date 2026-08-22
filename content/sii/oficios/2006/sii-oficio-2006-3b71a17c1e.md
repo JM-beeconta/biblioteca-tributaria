@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-07
+- Fecha: 2006-02-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1099.doc
 - Hash SHA-256: 05b5c44aac8d526ef53b8ad721c0eaa4b9b628dd895f1ae805e34b90f645677d
 
 ## Resumen
 
-. (Ord. N� 416, de 07.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 50�, Art.42�, N�2 � Circular N�21, de 1991. Word Acreditaci�n de Gastos por Concepto de Movilizaci�n, conforme a las Normas del Art�culo 31�, de la Ley de la Renta. (Ord. N� 415, de 07.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�2 � Oficios N�s 3.826, de 1992, 3.489, de 1995 y 679, de 2004. Word Exenci�n de Impuesto Adicional que Beneficia a Pagos por concepto de Investigaci�n Tecnol�gica en virtud del inciso segundo del…
+Word Exenci�n de Impuesto Adicional que Beneficia a Pagos por concepto de Investigaci�n Tecnol�gica en virtud del inciso segundo del N�2, del Art�culo 59�, de la Ley de la Renta. (Ord. N� 366, de 02.02.2006)
 
 ## Referencias detectadas
 

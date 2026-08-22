@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-13
+- Fecha: 2007-08-29
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja2534.htm
 - Hash SHA-256: ceead03904a5ce4212f399bc33060f9a7d715f96e703288e19d3419be1ae0143
 
 ## Resumen
 
-LIGN='JUSTIFY'> Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3, Art. 25� al 27� - Ley N�18.010, Art. 1�.(Ord. N� 2644, de 13.09.2007) Word Solicita se informe sobre procedencia del pago del impuesto de timbres y estampillas respecto de una liquidaci�n de bienes familiares que consta en escritura p�blica y en caso de aplicarse cual es la sanci�n al incumplimiento en su pago. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24, N�17.(Ord. N� 2534, de 29.08.2007) Word Sol…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24, N�17.(Ord. N� 2534, de 29.08.2007)
 
 ## Referencias detectadas
 

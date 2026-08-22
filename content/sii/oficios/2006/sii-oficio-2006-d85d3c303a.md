@@ -11,7 +11,7 @@
 
 ## Resumen
 
-al' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74�, Art. 79� � C�digo de Comercio, Art. 235. Word Tratamiento Tributario aplicable a los cargos asociados a las Operaciones Internacionales del Sistema de Tarjetas de Cr�dito. (Ord. N� 3.174, de 10.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�1�, Art. 74�, Art. 79� - Ley N�18.010, de 1981, Art. 9� - Circular N� 24, de 2002. Word Solicita se confirme si procede aplicar a la situaci�n que se expone el Impuesto Adicional sobre los…
+Word Solicita se confirme si procede aplicar a la situaci�n que se expone el Impuesto Adicional sobre los Intereses de un Cr�dito Externo afecto al Anatocismo. (Ord. N� 3.173, de 10.07.2006)
 
 ## Referencias detectadas
 

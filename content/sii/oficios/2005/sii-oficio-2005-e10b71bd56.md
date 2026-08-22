@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-24
+- Fecha: 2005-03-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja918.doc
 - Hash SHA-256: 5fdb58f9d9025d0f374c54a1c85c9ef578b6bbd0f649729415573ea5d94936f8
 
 ## Resumen
 
-919.doc">Word Documentaci�n Tributaria que seg�n los Art�culos 53� y 55� del Decreto Ley N� 825,de 1974, y art�culo 3�, del Decreto con Fuerza de Ley N�90, de 1979, corresponde emitir en Prestaciones de Servicios Funerarios. (Ord. N� 760, de 24.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 41� C, Letra D) � C�digo Tributario, Art. 8�, N� 8. Word La Asignaci�n Temporal de un Trabajador al Exterior no hace perder su Domicilio en Chile, debiendo Tributar con el Impuesto �nico de Segunda Categor�a qu…
+Word La Asignaci�n Temporal de un Trabajador al Exterior no hace perder su Domicilio en Chile, debiendo Tributar con el Impuesto �nico de Segunda Categor�a que afecta a sus Remuneraciones L�quidas pagadas en el Pa�s, conforme lo dispuesto por los art�culos 3�, 4�, 12�, 42�, N�1 y 43�, N�1 de la Ley de la Renta. (Ord. N� 746, de 22.03.2005)
 
 ## Referencias detectadas
 

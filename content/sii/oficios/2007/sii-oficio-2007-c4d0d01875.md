@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, letra m), Art. 27� bis.(Ord. N� 360, de 12.02.2007) Word Devoluci�n de Remanentes de Cr�dito Fiscal, de acuerdo con el art�culo 27� bis del D.L. N� 825, respecto de bienes adquiridos para su arriendo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, Art. 43�. (Ord. N� 359, de 12.02.2007) Word Solicita pronunciamiento respecto de la aplicaci�n del Impuesto adicional a las bebidas Alcoh�lica…
+Word Solicita pronunciamiento respecto de la aplicaci�n del Impuesto adicional a las bebidas Alcoh�licas, Analcoh�licas y productos similares, establecido en el art�culo 42�, del D.L. N� 825, de 1974.
 
 ## Referencias detectadas
 

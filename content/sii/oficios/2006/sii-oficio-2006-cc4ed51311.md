@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'arial' size='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, del 2002. Word Solicita pronunciamiento acerca del criterio del Servicio respecto a la Aplicaci�n del Art�culo 18 ter, en el caso de la Enajenaci�n de Acciones de Sociedad An�nima que nace producto de la transformaci�n de una Sociedad de Responsabilidad Limitada. (Ord. N� 3425, de 26.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 30�, Art. 31� - Oficio N�5.007, de 1978. Word Solicita se confirme que los Intereses pagado…
+Renta � Actual Ley Sobre Impuesto a la � Art. 30�, Art. 31� - Oficio N�5.007, de 1978.
 
 ## Referencias detectadas
 

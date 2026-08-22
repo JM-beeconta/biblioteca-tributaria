@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/a> Aplicaci�n del impuesto espec�fico a la actividad minera, que afecta a la renta operacional de la actividad minera obtenida por un explotador minero. Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�6, Art. 33� N�1� - Circulares Ns� 151, de 1976 y N� 42�, de 1990. (Ord. N� 2732, de 26.09.2007) Word Situaci�n tributaria respecto de honorarios y sueldos que se pagan a socios personas naturales por los servicios que prestan a otras sociedades. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis, N�3�, Art. 4…
+Word Situaci�n tributaria respecto de honorarios y sueldos que se pagan a socios personas naturales por los servicios que prestan a otras sociedades.
 
 ## Referencias detectadas
 

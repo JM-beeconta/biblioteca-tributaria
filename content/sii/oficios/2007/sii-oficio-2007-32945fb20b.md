@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-02-28
+- Fecha: 2007-02-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4061.htm
 - Hash SHA-256: 9c88265fb57cd1d3e1ca0784cf71546ae94cd37cb7ee9852819c5bffa87c0ba1
 
 ## Resumen
 
-ual Ley Sobre Impuesto a la � Art. 42, N� 1, Art. 42� bis, N� 3 � Oficios N��s 6.524, de 2003 y 4.652, de 2005. (Ord. N� 509, de 28.02.2007) Word Condiciones bajo las cuales se aplica el impuesto �nico que establece el N�3, del Art�culo 42� bis de la Ley de la Renta por los retiros de Ahorro Previsional Voluntario, efectuados por los contribuyentes afiliados a las entidades administradoras de tales recursos. Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 20� � Ley N� 19.420, de 1995 � Circular N� 50,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 20� � Ley N� 19.420, de 1995 � Circular N� 50, de 1995.
 
 ## Referencias detectadas
 

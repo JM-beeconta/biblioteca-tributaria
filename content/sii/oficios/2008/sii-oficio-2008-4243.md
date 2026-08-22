@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4243
 - Año: 2008
-- Fecha: 2008-06-09
+- Fecha: 2008-06-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1202.doc
 - Hash SHA-256: b242034c1fe70e46453641cade70c27fc98ab55cff1cc9a955c3ed72b4fa6c49
 
 ## Resumen
 
-ulturales N�18.985, Art.8� - D.S. N�787, de 1990, del Ministerio de Educaci�n, Art. 1�, N�1�. (Ord. N� 1207, de 09.06.2008) Word Requisitos que deben reunir las donaciones para fines culturales para acogerse a los beneficios tributarios. Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�1� - Ley N�18.815, Art. 1� - Decreto Ley N� 3.063, sobre Rentas Municipales, Art. 23� y Art. 24� - Oficio N� 4243, de 2006. (Ord. N� 1202, de 06.06.2008) Word Situaci�n tributaria de aportes que se efect�an a las Sociedades Admin…
+Word Situaci�n tributaria de aportes que se efect�an a las Sociedades Administradoras de Fondos de Inversi�n de la Ley N� 18.815, frente al Capital Propio a que se refiere el Art. 41� N�1� de la Ley de la Renta.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-quellas prestadas en virtud del Art�culo 77� bis, de la Ley N�16.744, cobradas al Fondo Nacional de Salud, deben incluir el Impuesto al Valor Agregado o si bien se encontrar�an Exentas de dicho Tributo, en virtud del Art�culo 13�, N� 7, del Decreto Ley, N� 825. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 6, letra c), Art. 52� � Resoluci�n Exenta N� 6.080, de 1999. (Ord. N� 548, de 22.02.2005) Word Procedencia de emitir Facturas Afectas o Exentas de IVA, en el cobro de Remunera…
+Word Procedencia de emitir Facturas Afectas o Exentas de IVA, en el cobro de Remuneraci�n, por Prestaciones Efectuadas por un Instituto Siqui�trico a una Universidad, en virtud de un Convenio de Pr�ctica Profesional.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-19
+- Fecha: 2008-08-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1658.doc
 - Hash SHA-256: 6d0535c9b59931848cc0b2266266fec4ba2f388cec77a0205535efc1bc16f72c
 
 ## Resumen
 
-� 2 � Circular N� 39, de 2000 � Resoluci�n Exenta N� 6080, de 1999. (Ord. N� 2.394, de 19.08.2008) Word Emisi�n de documento tributario para acreditar aportes efectuados por Instituciones asociadas a una corporaci�n y terceros ajenos a la misma por servicios prestados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�1, Art. 15�, Art. 23� � C�digo Tributario, Art. 64�. (Ord. N� 1.658, de 07.08.2008) Word Base imponible del IVA en la venta de art�culos efectuada a un valor pr…
+Word Base imponible del IVA en la venta de art�culos efectuada a un valor promocional, para aumentar las ventas de suscripciones a sus peri�dicos.
 
 ## Referencias detectadas
 

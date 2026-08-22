@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-02
+- Fecha: 2005-05-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja968.htm
 - Hash SHA-256: 9570009ddc0a2ac26401c6a190d2a7ef17624998c57aafe09e3a9c3a04e5d880
 
 ## Resumen
 
-" size="1"> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 1, Art. 8�� C�digo Civil, Art. 1.915� � C�digo de Miner�a, Art. 2�, Art. 171�. (Ord. N� 1.671, de 02.06.2005) Word Impuesto al Valor Agregado establecido en el Art�culo 8�, del Decreto Ley N� 825, de 1974, al Arrendatario de una Pertenencia Minera Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 10� � Decreto Supremo N� 55, de 1977, Art. 22�, Art. 73�. (Ord. N� 1.552 de 25.0…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 10� � Decreto Supremo N� 55, de 1977, Art. 22�, Art. 73�. (Ord. N� 1.552 de 25.05.2005)
 
 ## Referencias detectadas
 

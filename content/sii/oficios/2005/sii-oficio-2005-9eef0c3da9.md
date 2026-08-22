@@ -11,7 +11,7 @@
 
 ## Resumen
 
-align="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�7 � Ley N� 16.624 � Circular N� 24, de 1993. Word Requisitos y Condiciones que deben reunir los Donantes y Donatarios para acogerse a los beneficios Tributarios que establece el N�7 del Art�culo 31�, de la Ley de la Renta. (Ord. N�3.988, de 13.10.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter, Art. 54� � Decreto Ley N� 3.500 Word R�gimen Tributario al cual se encuentran afectos los Retiros de Excedentes de Libre Disposici�n, conform…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter, Art. 54� � Decreto Ley N� 3.500
 
 ## Referencias detectadas
 

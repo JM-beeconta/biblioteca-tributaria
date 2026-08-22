@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Ley sobre Impuesto a las � Ley N� 19.983, Art. 1 - Resoluci�n Ex. N� 14 de 2005. Word Aplicaci�n de las normas de la Ley 19.983, de 2004, a la Solicitud Registro Factura emitida por operaciones efectuadas en Zona Franca. (Ord. N� 4.581, de 15.11.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 17�, Art. 53�. Word Formula diversas consultas relacionadas con el hecho gravado especial establecido en el Art. 8�, letra g), del D.L. N�…
+Word Formula diversas consultas relacionadas con el hecho gravado especial establecido en el Art. 8�, letra g), del D.L. N� 825; con la determinaci�n de su base imponible y con la documentaci�n que procede emitir cuando producto de la rebaja dispuesta en el Art. 17�, del D.L. N� 825, no procede recargar IVA a las cuotas de arrendamiento. (Oficio N� 4.580, de 15.11.2006)
 
 ## Referencias detectadas
 

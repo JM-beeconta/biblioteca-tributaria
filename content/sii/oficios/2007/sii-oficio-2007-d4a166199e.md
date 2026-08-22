@@ -11,7 +11,7 @@
 
 ## Resumen
 
-zador sin considerar el cr�dito especial en comento. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1�, Art. 8�, Art. 13�, N�4� - Circular N�11, de 2004. (Ord. N� 2.352, de 02.08.2007) Word Aplicaci�n del Impuesto al Valor Agregado a la entrega de almuerzo por parte de un establecimiento educacional a sus alumnos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1 � D. Supremo de Hacienda N�55, de 1977, Art. 5� - Ley de la Renta, Art. 20� N�3 y 4�- Ley…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1 � D. Supremo de Hacienda N�55, de 1977, Art. 5� - Ley de la Renta, Art. 20� N�3 y 4�- Ley General de Cooperativa, Art. 49�, Letra A. (Ord. N� 2.351, de 02.08.2007)
 
 ## Referencias detectadas
 

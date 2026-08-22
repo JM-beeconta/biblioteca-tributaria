@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-07
+- Fecha: 2008-07-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1581.doc
 - Hash SHA-256: 80feadf2fcf8b977f89742010ed331e5617a31782cc7f7134009a58844537b9f
 
 ## Resumen
 
-igo Tributario, Art. 64�. (Ord. N� 1.658, de 07.08.2008) Word Base imponible del IVA en la venta de art�culos efectuada a un valor promocional, para aumentar las ventas de suscripciones a sus peri�dicos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36�, Art. 40�, Art. 57� � C�digo Tributario, Art. 126�, N�3 � Decreto Supremo de Econom�a N� 348, de 1975 � Circular N� 54, de 2006. (Ord. N� 1.581, de 29.07.2008) Word Consulta sobre fecha de emisi�n con que debe extenderse una nota de d�bi…
+Word Consulta sobre fecha de emisi�n con que debe extenderse una nota de d�bito, cuyo objeto fue regularizar una liquidaci�n de impuestos practicada por este Servicio.
 
 ## Referencias detectadas
 

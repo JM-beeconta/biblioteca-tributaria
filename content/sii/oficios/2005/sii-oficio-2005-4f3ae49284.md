@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-09
+- Fecha: 2005-05-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja945.doc
 - Hash SHA-256: 2ac9e7c55b979ee01330cdea1ba77d181dabd1eb7e5e4158ef0aeed53074bdf0
 
 ## Resumen
 
-> Informa sobre proyecto de Inversi�n que se indica, conforme a las Normas de la Ley N� 19.606, de 1999 y sus modificaciones posteriores. (Ord. N� 1.387, de 09.05.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, Art. 18� Ter, Art. 41� � C�digo Civil, Art. 50� � Ley N� 18.045, Art. 199� � Decreto Ley N� 1.328, Art. 13�, N�1, Art. 17� � Circular N� 7, de 2002. Word Tributaci�n que afecta al Mayor Valor obtenido en la Enajenaci�n de Acciones conforme a las Normas del Art�culo 18 ter de la Ley de la Renta. (Or…
+Word Tributaci�n que afecta al Mayor Valor obtenido en la Enajenaci�n de Acciones conforme a las Normas del Art�culo 18 ter de la Ley de la Renta. (Ord. N� 1.329, de 05.05.2005)
 
 ## Referencias detectadas
 

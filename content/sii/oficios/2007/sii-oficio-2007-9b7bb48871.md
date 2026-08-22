@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2�, Art. 20� - C�digo de Comercio, Art. 3� - C�digo Tributario, Art. 64�. (Ord. N� 3233, de 27.11.2007) Word Consulta si servicios prestados a Sociedad, por otras Sociedades, se encuentran gravados con IVA por corresponder a aquellos propios de una Agencia de Negocios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 9�, Art. 55� � Res. Ex. N� 4.916, del 2000. (Ord. N� 3232, de 27.11.2007) Word Solici…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 9�, Art. 55� � Res. Ex. N� 4.916, del 2000. (Ord. N� 3232, de 27.11.2007)
 
 ## Referencias detectadas
 

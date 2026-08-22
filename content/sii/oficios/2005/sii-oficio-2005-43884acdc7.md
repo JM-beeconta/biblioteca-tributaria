@@ -11,7 +11,7 @@
 
 ## Resumen
 
-04.doc'>Word Solicita la devoluci�n de IVA de acuerdo al art�culo 27 Bis, del D.L. 825, respecto de remanentes de cr�dito fiscal originados en la ampliaci�n y alhajamiento de un inmueble que ser� arrendado para ser destinado como hotel. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� - Ley N�18.815, de 1989, Art. 5� - Ley N� 20.190, de 2007, Art. 8� N�4�, Art. 7� Transitorio � Oficios N�5011, de 2006 y N�814, de 2007�. (Ord. N� 2728, de 26.09.2007) Word Tributaci�n de la enajenaci…
+Word Tributaci�n de la enajenaci�n de los derechos como arrendador de bienes arrendados por un Fondo de Inversiones Privado, de acuerdo al Art. 5� de la Ley N� 18.815, de 1989.
 
 ## Referencias detectadas
 

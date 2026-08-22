@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-29
+- Fecha: 2008-07-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1518.htm
 - Hash SHA-256: 7045f68ec1fc89a5bc3928891333602e44e740ce4ee38171042ff65c2fd831a2
 
 ## Resumen
 
-, del art�culo 8�, del C�digo Tributario. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2, Art. 38� � C�digo de Comercio, Art. 233. (Ord. N� 1.582, de 29.07.2008) Word Situaci�n Tributaria de sumas pagadas al exterior por concepto de comisiones, de acuerdo a lo establecido por el N�2, del inciso cuarto del art�culo 59�, de la Ley de la Renta Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 3�, Art. 1� � Circulares N�s 66, de 1999 y 47 de 2004 � Oficios N�s 2.298, de 2001, 4.282, de 2002 y 652, d…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 3�, Art. 1� � Circulares N�s 66, de 1999 y 47 de 2004 � Oficios N�s 2.298, de 2001, 4.282, de 2002 y 652, de 2005. (Ord. N� 1.518, de 23.07.2008)
 
 ## Referencias detectadas
 

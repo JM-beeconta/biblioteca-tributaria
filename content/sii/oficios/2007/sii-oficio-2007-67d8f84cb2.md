@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-03-02
+- Fecha: 2007-02-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4063.htm
 - Hash SHA-256: 556fddeaaa81818cd9d7f571c39c94c8dda0f1e8147ecfb64f62a869ff1fb8d4
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�4, Art. 40�, N�4 � Oficios N��s 1798, de 1988, 799, de 1993 y 1.217, de 2000. (Ord. N� 517, de 02.03.2007) Word Tratamiento tributario de las cuotas cobradas por corporaciones privadas educacionales, seg�n lo dispuesto por el art�culo 20�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N��s 5 y 7 � Ley N� 18.046, Art. 16� � Circular N� 27, de 1984. (Ord. N� 510, de 28.02.2007) Word Situaci�n tributaria del reajuste de los saldos insolu…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N��s 5 y 7 � Ley N� 18.046, Art. 16� � Circular N� 27, de 1984.
 
 ## Referencias detectadas
 

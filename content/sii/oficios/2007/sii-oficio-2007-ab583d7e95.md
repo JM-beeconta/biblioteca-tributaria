@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-06
+- Fecha: 2007-08-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2452.htm
 - Hash SHA-256: c913fa83dd668460ce0b49769a604bbbd345da872cfbf69cfed2003318de53c1
 
 ## Resumen
 
-font face='arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 5� del Decreto Supremo N�55, de 1977 � Ley General de Cooperativas, Art. 49 Letra A � Ley sobre Impuesto a la Renta, Art. 20� N�3� y 4�. (Ord. N�2591, de 06.09.2007) Word Solicita informaci�n respecto de la existencia de normas generales y especiales que regulen lo dispuesto en el art�culo 5� del D.S. N�55 de 1977, relativo a la actividad cooperativa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52�, Art. 58� - D. Supremo N�55, de 1977, Art. 69�, 70�, 71� Y 72� - Ley N� 18.845, de 1989, Art. 7� � Res. Ex. N� 1414, de 1978 � Circular N�21, de 1991. (Ord. N� 2452, de 17.08.2007)
 
 ## Referencias detectadas
 

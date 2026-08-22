@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tratamiento Tributario de las Provisiones y Castigos de Cr�ditos Vencidos, de Empresas y Operadores de Tarjetas de Cr�dito, de acuerdo a lo dispuesto por el N�4, del art�culo 31�, de la Ley de la Renta. (Ord. N� 3.660, de 26.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra b), Art. 17�, N� 8, letra b) � Ley N� 18.985, Art. 5� transitorio � Circular N� 63, de 1990. Word Tributaci�n a la cual se encuentra afecta Enajenaci�n de Bien Ra�z Agr�cola que es entregado en Arriendo, conforme a las Norm…
+Word Tributaci�n a la cual se encuentra afecta Enajenaci�n de Bien Ra�z Agr�cola que es entregado en Arriendo, conforme a las Normas de la letra b) del N� 8 del Art�culo 17�, de la Ley de la Renta y Art�culo 5� transitorio de la Ley N� 18.985, de 1990. (Ord. N� 3.659, de 26.09.2005)
 
 ## Referencias detectadas
 

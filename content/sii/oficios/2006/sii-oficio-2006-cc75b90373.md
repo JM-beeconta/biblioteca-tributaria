@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-15
+- Fecha: 2006-05-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1603.htm
 - Hash SHA-256: 557e0ba4117b6773640b8ff2fc3416a4785ba1afa09ec88f4516a819d5c60ac4
 
 ## Resumen
 
-046, Art. 99, Art. 103 � C�digo Tributario, Art. 69� - Circular N�12, de 1987. Word Procedencia de la emisi�n de Notas de D�bito a los acreedores del fallido que previa verificaci�n de sus cr�ditos han rectificado el formulario 29, y respecto de una empresa continuadora legal del acreedor original, en virtud de una fusi�n por absorci�n. (Oficio N�1708, de 15.05.2006). Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13� N�7, Art. 23� - Ley N�18.933, de 1990, Art. 21� - Oficios N�s 2365, de…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13� N�7, Art. 23� - Ley N�18.933, de 1990, Art. 21� - Oficios N�s 2365, de 1995, N�3436, de 1999.
 
 ## Referencias detectadas
 

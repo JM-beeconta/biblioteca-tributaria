@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href='renta/ja2446.doc'>Word Consulta sobre vigencia de criterio contenido en Oficio SII N�4.604, de 2000. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9, Art. 21�, Art. 33�, N�1 � Ley N�16.271 � D.F.L. N�789, de 1978, Art. 10� (Ord. N� 2.417, de 20.08.2008) Word Tratamiento tributario de donaci�n de bien ra�z a una Municipalidad Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 15.840, de 1964, Art. 30� � Circular N� 49, de 2006. (Ord. N�2.415, de 20.08.2008) Word Tratamiento tributario de desemb…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 15.840, de 1964, Art. 30� � Circular N� 49, de 2006. (Ord. N�2.415, de 20.08.2008)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont face="arial" size="2"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 52� � Res. Exenta N� 6.080, de 1999. Word Aplicaci�n de Impuesto al Valor a las Inspecciones que se realizan dentro del Proceso de Certificaci�n de Capturas y Desembarques de Or�gen Industrial. (Oficio N� 377, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Tributario, Art. 69� � C�digo Civil, Art. 2.472� � Ley N� 18.591 de 1987, Art. 29� � Ley N� 1…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Tributario, Art. 69� � C�digo Civil, Art. 2.472� � Ley N� 18.591 de 1987, Art. 29� � Ley N� 18.046, Art. 99�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-20
+- Fecha: 2008-08-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja2394.doc
 - Hash SHA-256: 6bfd652f4419bda50cc6d0e9274fe39ccbb79e72c96883d87393e5af5ea49ac5
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � D.S. de Hacienda, N� 1.139. (Ord. N� 2.407, de 20.08.2008) Word Aplicaci�n de IVA a servicios de packing prestados por una empresa exportadora a diversas sociedades agr�colas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2 � Circular N� 39, de 2000 � Resoluci�n Exenta N� 6080, de 1999. (Ord. N� 2.394, de 19.08.2008) Word Emisi�n de documento tributario para acreditar aportes efectuados por Inst…
+Word Emisi�n de documento tributario para acreditar aportes efectuados por Instituciones asociadas a una corporaci�n y terceros ajenos a la misma por servicios prestados.
 
 ## Referencias detectadas
 

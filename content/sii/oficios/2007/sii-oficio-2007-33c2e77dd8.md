@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� - D.Ley N�3.059, de 1979, Art. 7� - D.Ley N� 2. 222, de 1978, Art. 45� - Circular N�60, de 2006. (Ord. N� 2.355, de 02.08.2007) Word Solicita se aclare aplicaci�n de Circular N�60, de 03/11/2006, en aquellos casos en que los vendedores y prestadores de servicios operan con agentes de naves que a su vez act�an como mandatarios de diversos armadores extranjeros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuest…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E N�17, Art. 53� Letra B � Ley N� 18.392, de 1985 � Circular N�56�, de 1991. (Ord. N� 2.354, de 02.08.2007)
 
 ## Referencias detectadas
 

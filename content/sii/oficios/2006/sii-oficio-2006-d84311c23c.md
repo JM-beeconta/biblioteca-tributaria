@@ -11,7 +11,7 @@
 
 ## Resumen
 
-d. N� 534, de 13.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 18 � C�digo Tributario, Art. 126� � Ley N� 15.076, Art. 29� � Circular N� 41, de 1999. Word Situaci�n Tributaria de las Becas de Estudio otorgadas a los M�dicos de acuerdo con lo dispuesto por el N� 18, del Art�culo 17�, de la Ley de la Renta, en concordancia con lo dispuesto por el Art�culo 43�, de la Ley N�15.076. (Ord. N� 533, de 13.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra d), y N� 4, Art. 42�, N�2, Ar…
+, de 13.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra d), y N� 4, Art. 42�, N�2, Art. 68� � Circular N� 21, de 1991.
 
 ## Referencias detectadas
 

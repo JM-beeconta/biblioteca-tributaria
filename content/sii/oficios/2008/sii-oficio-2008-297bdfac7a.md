@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�, N� 1 � Circular N� 24, de 2008. (Ord. N� 1.480, de 14.07.2008) Word Consultas relacionadas con el castigo de deudas incobrables. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N� 2. (Ord. N� 1.479, de 14.07.2008) Word Tributaci�n con Impuesto Adicional de las cantidades remesadas al exterior en cumplimiento de contrato que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � Decreto Ley, N�3.063, de 1979, Ar…
+Word Tributaci�n con Impuesto Adicional de las cantidades remesadas al exterior en cumplimiento de contrato que se indica.
 
 ## Referencias detectadas
 

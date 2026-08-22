@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-09
+- Fecha: 2006-01-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1071.htm
 - Hash SHA-256: 408ac7f0f4dde637a8b6a6838d05bd1ff7ec7448d0d39b8989de653410b2429f
 
 ## Resumen
 
-4�, del C�digo del Trabajo: Todo ello conforme a las Normas de los Art�culos 17� N�13 y 31� N�6 de la Ley de la Renta. (Ord. N� 38, de 09.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, Art. 58�, N�1 � C�digo de Miner�a Art. 163� � Circular N� 58, de 2001. Word Tratamiento Tributario del Pago de Patentes Mineras frente a las Normas del Art�culo 21�, de la Ley de la Renta. (Ord N�28, de 05.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�1. Word Incompetencia del Servicio para cal…
+5.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�1.
 
 ## Referencias detectadas
 

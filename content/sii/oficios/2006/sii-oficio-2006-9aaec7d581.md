@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-15
+- Fecha: 2006-08-07
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja3558.doc
 - Hash SHA-256: a382a95f92811623373a25980804e42813959965eef595341c5a363041e7400a
 
 ## Resumen
 
-/ja4022.htm">Decreto Ley N� 600 � Art. 2�, letra f) � Ley de la Renta, Art. 14�, letra A), Art. 74�, N�4. Word Capitalizaci�n de Utilidades con derecho a ser transferidas al exterior, en conformidad con el art�culo 2�, letra f, del Decreto Ley N� 600. (Ord. N� 4.868, de 15.12.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.1� Inciso 1� N�3� - Ley N�18.010, Art. 1�. Word Solicita se confirme la conclusi�n a que arrib� el Comit� Regional de Inversiones, en orden a si un documento titulado �Re…
+Word Solicita se confirme la conclusi�n a que arrib� el Comit� Regional de Inversiones, en orden a si un documento titulado �Reconocimiento de Deuda� se encontraba afecto al Impuesto de Timbres y Estampillas. (Ord. N� 3.558, de 07.08.2006)
 
 ## Referencias detectadas
 

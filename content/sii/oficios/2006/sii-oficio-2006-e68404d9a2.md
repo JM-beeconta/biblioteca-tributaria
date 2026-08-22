@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-15
+- Fecha: 2006-02-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1116.doc
 - Hash SHA-256: bffe05a804ff37d265065c8e4851ea63bc2aa2d702439682076b5c4eae8f696f
 
 ## Resumen
 
-� Ley N� 18.845, Art. 7� � Circular N� 66, de 1998. Word Solicitud de Informaci�n acerca de la Eliminaci�n de Libros de Contabilidad, Facturas y Boletas. (Oficio N� 582, de 15.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 13�, N�7 � Ley de la Renta, Art. 20�, N�4. Word Impuesto al Valor Agregado que grava a un Centro M�dico por los Servicios de Di�lisis que presta a sus Pacientes. (Oficio N� 452, de 09.02.2006) Ventas y Servicios � Nuevo Texto � Actual L…
+Word Impuesto al Valor Agregado que grava a un Centro M�dico por los Servicios de Di�lisis que presta a sus Pacientes. (Oficio N� 452, de 09.02.2006)
 
 ## Referencias detectadas
 

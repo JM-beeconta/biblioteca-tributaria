@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-07-25
+- Fecha: 2006-07-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3174.doc
 - Hash SHA-256: 5908c6b6a362690b375449e0e9a43bbce4571278e6eea945223ab27efdc8afe4
 
 ## Resumen
 
-n style="font-family: Arial"> Ley de la Renta. Art�culo 57� bis, letra A, N� 7 . Determinaci�n del impuesto �nico al fallecimiento de la persona titular de instrumentos de ahorro acogidos al mecanismo del art�culo 57� bis de la Ley de la Renta. (Oficio N� 3410, de 25 de Julio 2006). Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74�, Art. 79� � C�digo de Comercio, Art. 235. Word Tratamiento Tributario aplicable a los cargos asociados a las Operaciones Internacionales del Sistema de Tarjetas de Cr�dito. (O…
+Word Tratamiento Tributario aplicable a los cargos asociados a las Operaciones Internacionales del Sistema de Tarjetas de Cr�dito. (Ord. N� 3.174, de 10.07.2006)
 
 ## Referencias detectadas
 

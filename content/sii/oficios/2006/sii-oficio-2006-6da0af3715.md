@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-31
+- Fecha: 2006-01-13
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja1123.doc
 - Hash SHA-256: 69d59407f9dfdf4b3d31b64263a9efa58f7757d6ad284ce8d069f4405a64c87f
 
 ## Resumen
 
-de 1979. Word Alcance de la exenci�n del impuesto de timbres y estampillas, establecida en el art�culo 24 N�2, respecto de las viviendas econ�micas, en caso de solicitud de devoluci�n de impuesto. (Ord. N� 1.219 de 31.03.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Ley N� 18.010, Art. 1� � Oficios N�s 1.086, de 2002 y 3.467, de 2004. (Ord. N� 115, de 13.01.2006) Word Solicita Confirmar criterios que indica sobre Aplicaci�n de Impuesto de Timbres y Estampillas a operaci�n que indica. Timbres…
+Word Solicita Confirmar criterios que indica sobre Aplicaci�n de Impuesto de Timbres y Estampillas a operaci�n que indica.
 
 ## Referencias detectadas
 

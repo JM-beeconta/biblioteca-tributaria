@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Art. 17�, N� 8 � C�digo tributario, Art. 200 � Oficios N�s 1.597, de 1998 y 2.454, de 2001. Word Situaci�n tributaria de la diferencia producida entre el precio de adquisici�n del 100% de los derechos sociales de una sociedad de personas y el valor libro de los activos y pasivos de la sociedad absorbida. (Ord. N� 1.872, de 23.06.2005) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.657, Art. 4�, Art. 18�. Word Concepto de Inversionista Institucional Extranjero para los fines d…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.657, Art. 4�, Art. 18�.
 
 ## Referencias detectadas
 

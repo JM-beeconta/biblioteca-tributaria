@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-26
+- Fecha: 2007-09-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2715.doc
 - Hash SHA-256: bb5f1da9ecef8d052a4214a98c49fa9be78790267b319aedbf2e9ea96de5469f
 
 ## Resumen
 
-Circular N�39�, de 2000. (Ord. N� 2726, de 26.09.2007) Word Consulta respecto a la calidad de hecho gravado con IVA de los ingresos percibidos por la prestaci�n de servicios consistente en impartir cursos de capacitaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra E) N�2�, Art. 36�, Art. 52� � C�digo Tributario, Art. 66�, Art. 68� - Ley de la Renta, Art. 68�, Art. 71�. (Ord. N�2715, de 25.09.2007) Word Tratamiento tributario de una empresa de transporte terrestre de carga…
+Word Tratamiento tributario de una empresa de transporte terrestre de carga internacional que no se ha constituido como persona jur�dica, agencia o sucursal en Chile.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-03-19
+- Fecha: 2007-03-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4072.htm
 - Hash SHA-256: c4e3f1a9357cdebbae3c47aa273eaa5a4afe2367c79898a751722d66b2a1104b
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 12� � Ley N� 19.857, de 2003 � Res. Ex. N� 6.080, de 1999 � Circular N� 39, de 2000. (Ord. N� 666, de 19.03.2007) Word Solicita pronunciamiento sobre exenci�n del Impuesto al Valor Agregado y autorizaci�n para emitir facturas de ventas y servicios no afectos o exentos de IVA, a una Empresa Individual de Responsabilidad Limitada. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 9�, Art. 55�. (Ord. N� 559, de 06.03.2007)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-07
+- Fecha: 2006-06-22
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja3053.pdf
 - Hash SHA-256: bfada58f3e0bcea3a46604fa43782bbed2a39d49d11de242d57cb8f87140a7e5
 
 ## Resumen
 
-) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.1� Inciso 1� N�3� - Ley N�18.010, Art. 1�. Word Solicita se confirme la conclusi�n a que arrib� el Comit� Regional de Inversiones, en orden a si un documento titulado �Reconocimiento de Deuda� se encontraba afecto al Impuesto de Timbres y Estampillas. (Ord. N� 3.558, de 07.08.2006) Decreto Ley N� 3.063 de 1979 � Art. 46 � D.F.L. N� 33 de 1981 del Ministerio de Educaci�n � Circular N� 24 de 1993. Tratamiento tributario de donaciones para campa�a so…
+.08.2006) Decreto Ley N� 3.063 de 1979 � Art. 46 � D.F.L. N� 33 de 1981 del Ministerio de Educaci�n � Circular N� 24 de 1993. Tratamiento tributario de donaciones para campa�a solidaria conforme a las normas del art�culo 46 del D.L. N� 3063 de 1979, sobre Rentas Municipales. (Ord. N� 3053 de 22.06.2006)
 
 ## Referencias detectadas
 

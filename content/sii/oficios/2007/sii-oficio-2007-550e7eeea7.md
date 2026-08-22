@@ -11,7 +11,7 @@
 
 ## Resumen
 
-005. (Ord. N� 664, de 19.03.2007) Word Situaci�n tributaria de aportes de acciones a la formaci�n de una nueva sociedad, conforme a las normas del art�culo 64�, del C�digo Tributario. Renta � Actual Ley Sobre Impuesto a la � Art. 55� bis � Ley N� 19.622, de 1999 � Ley N� 19.753, Art. 3� transitorio � Circulares N��s 46, de 1999 y 87, de 2001. (Ord. N� 663, de 19.03.2007) Word Incompatibilidad de beneficios tributarios establecidos por las Leyes N��s 19.622 y 19.753. Renta � Actual Ley Sobre Impuesto a la � Ley N�…
+Word Incompatibilidad de beneficios tributarios establecidos por las Leyes N��s 19.622 y 19.753.
 
 ## Referencias detectadas
 

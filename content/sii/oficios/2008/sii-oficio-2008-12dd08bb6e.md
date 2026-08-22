@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ndica. Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�2�, Art. 74� N�4�. (Ord. N� 861, de 25.04.2008) Word Consulta si de acuerdo al procedimiento previsto en el Tratado de Cooperaci�n en Materia de Patentes conocido internacionalmente como PCT, las tasas a cobrar por las entidades Internacionales estar�an o no afectas con el Impuesto adicional. Renta � Actual Ley Sobre Impuesto a la � Art. 21� - Circular N�37�, de 1995. (Ord. N� 860, de 25.04.2008) Word Tributaci�n aplicable a la devoluci�n de pr�stamo efect…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21� - Circular N�37�, de 1995. (Ord. N� 860, de 25.04.2008)
 
 ## Referencias detectadas
 

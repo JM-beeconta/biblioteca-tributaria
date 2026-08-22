@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-17
+- Fecha: 2005-11-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1044.htm
 - Hash SHA-256: 6979c1e2fb411113c0e7462cc5b178df9f68cfaeba2c02bccc04bce1a1977990
 
 ## Resumen
 
-="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 41� D. Word Determinaci�n del Capital Propio para los Efectos de la Patente Municipal, a que se refiere el Art�culo 24� del Decreto Ley N�3.063, de 1979, sobre Rentas Municipales, respecto de las Sociedades constituidas seg�n el Art�culo 41� D, de la Ley de la Renta. (Ord. N� 4.599, de 17.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, Art. 39�, N� 3. Word Situaci�n Tributarias de los Partidos Pol�ticos respecto de las Rentas de Capitales Mobilia…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, Art. 39�, N� 3.
 
 ## Referencias detectadas
 

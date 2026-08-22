@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-23
+- Fecha: 2005-08-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja990.htm
 - Hash SHA-256: 891bfac958a92922fb485d9c90cdd2ec7716ccdd439cb88715038af42a398fdb
 
 ## Resumen
 
-ecreto Ley N� 3.475, de 1980. (Ord. N� 3.075, de 23.08.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � C�digo Civil, Art. 48� � Circular N� 41, de 1992. Word C�lculo de Tasa del Impuesto de Timbres y Estampillas aplicable a las Importaciones. (Ord. N� 2.947, de 11.08.2005) Normas Internacionales � Convenio entre la Rep�blica de Chile y la Rep�blica de Per� para Evitar la Doble Tributaci�n y para Prevenir la Evasi�n Fiscal en relaci�n al Impuesto a la Renta y al Patrimonio, Art. 3�, Ar…
+11.08.2005) Normas Internacionales � Convenio entre la Rep�blica de Chile y la Rep�blica de Per� para Evitar la Doble Tributaci�n y para Prevenir la Evasi�n Fiscal en relaci�n al Impuesto a la Renta y al Patrimonio, Art. 3�, Art.7�, Art. 5� � Convenci�n de Viena, Art.31� � Ley de la Renta, Art. 58�, N� 1, Art. 59�.
 
 ## Referencias detectadas
 

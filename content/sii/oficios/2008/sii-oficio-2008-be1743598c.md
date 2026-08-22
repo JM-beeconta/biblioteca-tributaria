@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-05-30
+- Fecha: 2008-05-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1135.doc
 - Hash SHA-256: f146bd8bf1b13ad8526742132c288b2fa9321091979b2e2aec5a72232ce4b668
 
 ## Resumen
 
-a href='ventas/ja1175.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�3�. (Ord. N� 1175, de 30.05.2008) Word Consulta sobre el Impuesto al Valor Agregado en servicios de composici�n de directorios telef�nicos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94�, de 2001. (Ord. N� 1135, de 26.05.2008) Word Forma de computar la obligaci�n de restituir las sumas devueltas anticipa…
+Word Forma de computar la obligaci�n de restituir las sumas devueltas anticipadamente correspondientes a remanentes de cr�dito fiscal por adquisici�n de activo fijo.
 
 ## Referencias detectadas
 

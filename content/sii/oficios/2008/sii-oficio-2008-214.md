@@ -11,7 +11,7 @@
 
 ## Resumen
 
-�n. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�3 � D.F.L. N�251, de 1931, Art. 8�. (Ord. N� 3.645, de 11.12.2008) Word Aplicaci�n del Impuesto Adicional a seguro de responsabilidad civil que indica. Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 17.336. (Ord. N� 3.574, de 03.12.2008) Word Tratamiento tributario de los pagos efectuados por concepto de derechos de autor, a personas sin domicilio ni residencia en Chile. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3 � Ley N�18.392 � Circ…
+Word Tratamiento tributario de los pagos efectuados por concepto de derechos de autor, a personas sin domicilio ni residencia en Chile.
 
 ## Referencias detectadas
 

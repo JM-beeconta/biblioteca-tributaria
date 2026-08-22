@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-10-25
+- Fecha: 2007-10-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2974.htm
 - Hash SHA-256: 5707b9c4bfa37d06417c3912cf69f04c8fcc0f4218502d6c2fb282c0e459c355
 
 ## Resumen
 
-rial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 38�, Art. 41� B. (Ord. N� 2.997, de 25.10.2007) Word Incidencia en Chile de las variaciones del tipo de cambio de las monedas de los pa�ses en donde se encuentran radicadas las agencias de empresas nacionales. Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�5� - Ley N�19.738, del 2001 � Circular N�65, de 2001. (Ord. N� 2974, de 22.10.2007) Word Orden de imputaci�n de la distribuci�n de dividendos, cuando existe remanente de saldo de diferencia entre…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�5� - Ley N�19.738, del 2001 � Circular N�65, de 2001.
 
 ## Referencias detectadas
 

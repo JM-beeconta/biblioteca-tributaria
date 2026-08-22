@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-07
+- Fecha: 2007-02-13
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja4052.htm
 - Hash SHA-256: a4ce8163dc4003326b2171c390882090f8b8e6dc674c901b7e1ddc782ee2abf0
 
 ## Resumen
 
-' size='1'> Normas Internacionales � Convenio entre Chile y Canad� para Evitar la Doble Tributaci�n y Prevenir la Evasi�n Fiscal en relaci�n a los Impuestos a la Renta y al Patrimonio, Art. 5�, Art. 7�. (Ord. N� 986, de 07.05.2007) Word Servicio prestado por parte de una empresa aseguradora extranjera, residente en Canad�, remunerado por residente en Chile. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3� � Ley N� 18.010, Art. 1�. (Ord. N� 381, de 13.02.2007) Word Solicita confirmar tratamient…
+Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3� � Ley N� 18.010, Art. 1�. (Ord. N� 381, de 13.02.2007)
 
 ## Referencias detectadas
 

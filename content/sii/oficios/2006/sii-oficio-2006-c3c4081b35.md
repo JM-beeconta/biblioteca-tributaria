@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-15
+- Fecha: 2006-02-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1103.doc
 - Hash SHA-256: 69d330524065008489ab526d6a3044d81a8724442d8514f76781e87c45f9c945
 
 ## Resumen
 
-a. (Ord. N� 574, de 15.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 126� � Circular N�100, de 1975. Word Forma de Registro de la Correcci�n Monetaria de las Existencias. (Ord. N� 534, de 13.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 18 � C�digo Tributario, Art. 126� � Ley N� 15.076, Art. 29� � Circular N� 41, de 1999. Word Situaci�n Tributaria de las Becas de Estudio otorgadas a los M�dicos de acuerdo con lo dispuesto por el N� 18, del Art�culo 17�, de la…
+Word Situaci�n Tributaria de las Becas de Estudio otorgadas a los M�dicos de acuerdo con lo dispuesto por el N� 18, del Art�culo 17�, de la Ley de la Renta, en concordancia con lo dispuesto por el Art�culo 43�, de la Ley N�15.076. (Ord. N� 533, de 13.02.2006)
 
 ## Referencias detectadas
 

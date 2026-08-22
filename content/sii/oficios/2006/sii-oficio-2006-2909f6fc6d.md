@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-19
+- Fecha: 2006-10-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3989.htm
 - Hash SHA-256: cabab91a1b50f539c3c09d0ea38a2e97d7573da885e75a55640488c9cfe92dc4
 
 ## Resumen
 
-e 2003. Word Concepto de Contraprestaci�n de la Ley N� 19.885, en los casos que se indican. (Ord. N� 4.290, de 19.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 30�, Art. 31�. Word Tratamiento Tributario de los Gastos incurridos en labores Mineras de Desarrollo construidas en Pertenencias Mineras Arrendadas. (Ord. N� 4.262, de 17.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � D.L. N� 3.063, de 1979. Word Situaci�n Tributaria de los Aportes que efect�an los part�cipes a las Sociedade…
+, de 17.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � D.L. N� 3.063, de 1979.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-26
+- Fecha: 2005-12-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1079.doc
 - Hash SHA-256: 4cc228a38f0e2939ebe9bda9a16f687a8b8f9a9251c251ff46f52992d6d2da78
 
 ## Resumen
 
-l" size="2"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8, letra g), Art. 17�. (Ord. N� 5.055, de 26.12.2005) Word Pide se ratifique si el Arriendo en los T�rminos se�alados, estar�a afecto a IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra e), Art. 55�, Art. 69� � C�digo Civil, Art. 1.996�. (Ord. N� 5.032, de 21.12.2005) Word Sujeto al cual se le debe Emitir la Factura y Momento en el cual se debe emitir dicho Documento, de conformidad con el…
+Word Sujeto al cual se le debe Emitir la Factura y Momento en el cual se debe emitir dicho Documento, de conformidad con el Art�culo 55�, del Decreto Ley N� 825, de 1974, en un Contrato General de Construcci�n.
 
 ## Referencias detectadas
 

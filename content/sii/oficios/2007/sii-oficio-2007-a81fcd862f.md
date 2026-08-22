@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 701, Art. 14� � Circular N� 78, de 2001. (Ord. N� 555, de 06.03.2007) Word Alcance y sentido de lo dispuesto por el art�culo 14�, del actual Decreto Ley N� 701, sobre Fomento Forestal. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1), letra c) � Ley N� 19.857, Art. 10�. (Ord. N� 554, de 06.03.2007) Word Reinversi�n de utilidades tributarias efectuadas en una empresa individual de responsabilidad limitada, conforme a lo dispuesto por la letra c), N�1, de la Letra A), del art�culo 14�, de la Ley…
+Word Reinversi�n de utilidades tributarias efectuadas en una empresa individual de responsabilidad limitada, conforme a lo dispuesto por la letra c), N�1, de la Letra A), del art�culo 14�, de la Ley de la Renta.
 
 ## Referencias detectadas
 

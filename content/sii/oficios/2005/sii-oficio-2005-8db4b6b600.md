@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-02
+- Fecha: 2005-08-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1006.htm
 - Hash SHA-256: 025420cc397405630eea5cf781bbc06e569206e110338b1eac3b350552d04058
 
 ## Resumen
 
->Renta � Actual Ley Sobre Impuesto a la � Art. 1�, N�2, Art. 20�, N�1, letra d), Art. 39�, N�3 � Decreto Ley N� 2.757, de 1979, Art. 11�. Word Obligaci�n de Pagar Impuesto de Primera Categor�a de Asociaci�n Gremial que entrega en Arriendo un Inmueble de su Propiedad, conforme a las Normas del Art�culo 20�, N�1, letra d) y 39�, N�3, de la Ley de la Renta. (Ord. N� 3.272, de 02.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 21� � Circular N� 37, de 1995. Word Tributaci�n del Art�culo 21�, de la Ley de la Ren…
+9.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 21� � Circular N� 37, de 1995.
 
 ## Referencias detectadas
 

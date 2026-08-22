@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-01
+- Fecha: 2006-08-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3720.doc
 - Hash SHA-256: 97fb36d85db73f88cf3efe1a3b6a084807cd810613d9950399f4bbf5f4e6386d
 
 ## Resumen
 
-edir la devoluci�n del remanente de cr�dito fiscal acumulado por la retenci�n del IVA o bien se le autorice a excepcionarse del sistema establecido en... (Oficio N� 3.856, de 01.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52 - Ley de la Renta, Art. 20 N�4 y 5� - Resoluci�n N�6.080, de 1999 � Circular N�21, de 1991, Circular N�39, de 2000 Word Consulta sobre si corresponde aplicar el Impuesto al Valor Agregado a las Actividades Administrativas y de Intermediaci�n que dos Socie…
+Word Consulta sobre si corresponde aplicar el Impuesto al Valor Agregado a las Actividades Administrativas y de Intermediaci�n que dos Sociedades prestar�n a otras Empresas del mismo Grupo Econ�mico. (Oficio N� 3720, de 23.08.2006)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r>Tratamiento Tributario de las indemnizaciones por a�os de servicio. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�1�, Art. 42� Bis, Art. 50� - D.L. N�3.500, de 1980, Art. 18� y 20� B. (Ord. N� 858, de 25.04.2008) Word Declaraciones Juradas a presentar por Corredor de Bolsa facultado como Instituci�n para ofrecer Planes de Ahorro Previsional. Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� - Circular N�45�, de 2001.(Ord. N� 857, de 25.04.2008) Word Efectos tributarios de la reorganizaci…
+Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� - Circular N�45�, de 2001.(Ord. N� 857, de 25.04.2008)
 
 ## Referencias detectadas
 

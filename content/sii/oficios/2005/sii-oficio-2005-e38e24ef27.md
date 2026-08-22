@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-11
+- Fecha: 2005-03-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja911.htm
 - Hash SHA-256: a60eaea8bcd1f8b0f5ec06a959c399d4cf5efba6853946483ae6e387f1586b8b
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Ley N� 19.606, art. 1�, Art. 5�, Art. 9� � Circular N� 66, de 1999. Word Efectos que produce la Presentaci�n Extempor�nea del Proyecto Laboral y Requerimiento de la Anotaci�n de Bienes conforme a lo Dispuesto por los Art�culos 5� y 9�, de la Ley N� 19.606, sobre Ley Austral. (Ord. N� 652, de 11.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�s 3 y 5. Word Tratamiento Tributario de P�rdida, producto de la Fusi�n de un Holding, de acuerdo…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�s 3 y 5.
 
 ## Referencias detectadas
 

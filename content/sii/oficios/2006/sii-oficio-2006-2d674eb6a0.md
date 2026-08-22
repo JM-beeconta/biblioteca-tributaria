@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-04
+- Fecha: 2006-08-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3698.htm
 - Hash SHA-256: b2a7066d8d2550602ee7ec6ff4d39bd210e91ce044a77bb0597b0a11d0166802
 
 ## Resumen
 
-l Voluntario. (Ord. N� 3.861, de 04.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31 N�2 � Ley N� 16.752, Art. 37�. Word Consulta respecto del Tratamiento Financiero y Tributario que se le debe otorgar a las Operaciones realizadas con la Direcci�n General de Aeron�utica Civil. (Ord. N� 3.860, de 04.09.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 16.271, Art. 18� N�5 y 7� - Ley N� 18.985, de 1990 sobre Donaciones con Fines Culturales modificada por Ley N� 19.721, de 2001 � Circulares N�24, de 1993…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 16.271, Art. 18� N�5 y 7� - Ley N� 18.985, de 1990 sobre Donaciones con Fines Culturales modificada por Ley N� 19.721, de 2001 � Circulares N�24, de 1993, N� 57, de 2001 y N�55, de 2003.
 
 ## Referencias detectadas
 

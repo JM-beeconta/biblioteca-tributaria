@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cci�n como Cr�dito de Impuestos retenidos en Brasil por servicios prestados en ese pa�s. Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1� Letra B - Ley N� 19.892, de 2003, Art. 2� Transitorio � Ley N�17.235, Art. 9� - D.S. N�344, de 2004, Ministerio de Hacienda � Circular N�51, de 2004. (Ord. N� 3.231, de 27.11.2007) Word Inaplicabilidad de la norma contenida en el art�culo 2� transitorio de la Ley N�19.892, del 2003, al caso que se indica Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�5�, Art. 41� - Of…
+Word Inaplicabilidad de la norma contenida en el art�culo 2� transitorio de la Ley N�19.892, del 2003, al caso que se indica
 
 ## Referencias detectadas
 

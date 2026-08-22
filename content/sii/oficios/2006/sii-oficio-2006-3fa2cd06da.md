@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-09
+- Fecha: 2006-05-08
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja1617.doc
 - Hash SHA-256: 03752f20c39958d0f8e3a9d2c76ac1806a341fb2a696ceabe70b3f1264f30ee1
 
 ## Resumen
 
-� beneficiario � utilizado en la Circular N�71 de 2002, con relaci�n a si este se refiere solo al deudor directo de la operaci�n originaria o tambi�n es aplicable al aval y codeudor solidario. (Ord. N�2.915, de 09.06.2006) Normas Internacionales � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 12� � Ley sobre Impuesto a la Renta, Art. 59� inciso primero � Circular N�32, de 2001. Word Se solicita un pronunciamiento respecto a la factibilidad de acreditar mediante un…
+Word Se solicita un pronunciamiento respecto a la factibilidad de acreditar mediante una certificaci�n la residencia respecto de los beneficiarios extranjeros de regal�as por derecho de autor, para efectos de que se acojan a beneficios de Convenios suscritos entre Chile y el pa�s donde residen. (Ord. N�1617, de 08.05.2006).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-06
+- Fecha: 2008-09-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja2729.doc
 - Hash SHA-256: f227a64142a7cbdbe0e2ebf969289bb0f437742488cfaea3856fdb30092be2ba
 
 ## Resumen
 
-esto a las � Art. 2�, N�2, Art. 16�, letra c) � Circular N�44, de 1996. (Ord. N� 2.876, de 06.10.2008) Word No se encuentran gravados con IVA los pagos por concepto de expropiaciones que una Sociedad Concesionaria, para la construcci�n de una obra p�blica, realiza a favor del Fisco. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 52� � Ley N�19.970, Art. 15�. (Ord. N�2.729, de 16.09.2008) Word Impuesto al Valor Agregado que afecta a los servicios de determinaci�n de…
+Word Impuesto al Valor Agregado que afecta a los servicios de determinaci�n de perfiles gen�ticos y al servicio de cotejo de dichos perfiles.
 
 ## Referencias detectadas
 

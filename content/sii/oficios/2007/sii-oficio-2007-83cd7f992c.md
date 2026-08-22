@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-07
+- Fecha: 2007-04-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4090.htm
 - Hash SHA-256: 39f7dd4435eec7ddb48d7a8b8d8cfbd54ea994477bc674bd6f8923b7c842596d
 
 ## Resumen
 
-size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�, N�6, Art. 33, N�1 � Circulares N��s 151, de 1976 y 42, de 1990. (Ord. N� 997, de 07.05.2007) Word Tratamiento tributario de los honorarios pagados por una sociedad de personas a un socio persona natural por servicios de asesor�a, de acuerdo a lo dispuesto por el N�6, del art�culo 31, de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Decreto Ley N� 825, de 1974, Art. 23� � Decreto Ley N� 3.475, de 1980, Art. 3� � Decr…
+Renta � Actual Ley Sobre Impuesto a la � Decreto Ley N� 825, de 1974, Art. 23� � Decreto Ley N� 3.475, de 1980, Art. 3� � Decreto Ley N� 1.089, Art. 5�, Art. 9�. (Ord. N� 932, de 25.04.2007)
 
 ## Referencias detectadas
 

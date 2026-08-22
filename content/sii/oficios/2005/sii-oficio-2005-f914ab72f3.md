@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-08
+- Fecha: 2005-07-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja992.doc
 - Hash SHA-256: 7ec7f389131940e7800a3bc82d35d2ec818bbb3e8e4763bab49ca2920153d1bf
 
 ## Resumen
 
-Tributaci�n de Remuneraciones correspondientes a Diferencias de Grado y Niveles, Pagadas con Retraso a Trabajadores de Salud de Municipio que se indica. (Ord. N� 2.916, de 08.08.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 3, letra d), Art. 14�, Letra B), N� 2, Art. 20�, N� 1, letra d), Art. 21�, Art. 39�, N� 3, Art. 54�, N� 1, Art. 56�, N� 3, Art. 63� Word Forma de Tributar de Sociedad de Responsabilidad Limitada por el Arrendamiento de Bienes Ra�ces no Agr�colas. (Ord. N� 2.803, de 25.07…
+Word Forma de Tributar de Sociedad de Responsabilidad Limitada por el Arrendamiento de Bienes Ra�ces no Agr�colas. (Ord. N� 2.803, de 25.07.2005)
 
 ## Referencias detectadas
 

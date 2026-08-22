@@ -11,7 +11,7 @@
 
 ## Resumen
 
-al Petr�leo Diesel. Leyes N��s 18.502 y 19.764. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6�, 7� - Ley N�19.764, Art. 2� � C�digo de Comercio, Art. 166� � Ord. 1.501, de 2004. (Ord. N� 2.357, de 02.08.2007) Word Recuperaci�n del Impuesto al Petr�leo Diesel, soportado por las empresas afectas a IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6�, 7� - Ley N� 19.764 � Circular N�29 y N�32, de 1986 � Ord. 1501, de 2004.(Ord. N…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6�, 7� - Ley N� 19.764 � Circular N�29 y N�32, de 1986 � Ord. 1501, de 2004.(Ord. N� 2.356, de 02.08.2007)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-23�, Art. 25�, Art. 64� � D. Supremo de Hacienda N�55, de 1977, Art. 80 � C�digo Tributario, Art. 192�, Oficio 335, de 2004. Word Consulta acerca de la utilizaci�n como Cr�dito Fiscal del Impuesto al Valor Agregado cobrado por una diferencia de Derechos de Aduana e IVA en una Importaci�n, pagados mediante Convenio suscrito con Tesorer�a. (Oficio N� 3.055, de 22.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 24�, Art.25�. Word Solicita se autorice que la contabilizaci�n…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 24�, Art.25�.
 
 ## Referencias detectadas
 

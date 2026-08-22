@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-15
+- Fecha: 2006-02-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1116.htm
 - Hash SHA-256: 1b155e0b89f79590b8d42ab8aea21aedf1a1486e9745892fc0c71a976cb58f15
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art, 58� � C�digo Tributario, Art. 17�, Art. 200�, Art. 97�, N� 16 � Ley N� 18.845, Art. 7� � Circular N� 66, de 1998. Word Solicitud de Informaci�n acerca de la Eliminaci�n de Libros de Contabilidad, Facturas y Boletas. (Oficio N� 582, de 15.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 13�, N�7 � Ley de la Renta, Art. 20�, N�4. Word Impuesto al Valor Agregado que grava a un Centro M�d…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 13�, N�7 � Ley de la Renta, Art. 20�, N�4.
 
 ## Referencias detectadas
 

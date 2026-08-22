@@ -11,7 +11,7 @@
 
 ## Resumen
 
-br>Tratamiento tributario de desembolsos incurridos en la construcci�n de una obra vial de uso p�blico. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 41�, N�10, Art. 64 � Circular N� 133, de 1977. (Ord. N� 2.414, de 20.08.2008) Word Valor en que deben registrarse los bienes en el caso de fusi�n por incorporaci�n de sociedad an�nima. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�7 � Circular N�49, de 2006. (Ord. N� 2.410, de 20.08.2008) Word Resuelve consultas relacionadas con la aplicaci�n d…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�7 � Circular N�49, de 2006. (Ord. N� 2.410, de 20.08.2008)
 
 ## Referencias detectadas
 

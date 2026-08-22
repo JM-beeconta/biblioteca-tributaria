@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-04
+- Fecha: 2005-01-26
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja900.doc
 - Hash SHA-256: 0cc07a5f0599bb433c61f8b3f869f3b72695817b8af2241157b2bc03b8d3d5b3
 
 ## Resumen
 
-Prescripci�n de la acci�n fiscalizadora del Servicio de Impuestos Internos en caso que indica. Art�culo 200 del C�digo Tributario. (Ord. N� 393, de 04.02.2005) Doble Tributaci�n Internacional � Convenio suscrito Chile y Brasil, para evitar la Doble Tributaci�n y Prevenir la Evasi�n Fiscal en relaci�n con el Impuesto a la Renta � Art. 4�, Art. 8� � Ley de la Renta, Art. 65�, N� 1, Art. 77�, Art. 101� � Circular N� 17, de 2004. Word Consulta respecto a la Aplicaci�n del Convenio para evitar la Doble Tributaci�n Inte…
+Word Consulta respecto a la Aplicaci�n del Convenio para evitar la Doble Tributaci�n Internacional, suscrito entre Chile y Brasil, en actividad que indica. (Ord. N� 241, de 26.01.2005)
 
 ## Referencias detectadas
 

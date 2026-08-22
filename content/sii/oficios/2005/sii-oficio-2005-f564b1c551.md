@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rar Bebidas Similares� Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord. N� 1.198, de 28.04.2005) Word Aplicaci�n del Impuesto al Valor Agregado, establecido en el art�culo 8�, letra g), del Decreto Ley N� 825, a un Contrato de Cesi�n del Uso de un Inmueble Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) � C�digo Tributario, Art. 64�. (Ord. N� 1.197, de 28.04.2005) Word Aplicaci�n del Impuesto al Valor Agregado, establecido en el Art…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) � C�digo Tributario, Art. 64�. (Ord. N� 1.197, de 28.04.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-01
+- Fecha: 2006-02-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1137.doc
 - Hash SHA-256: 73d54f3df77c10304dc11d6bb1e0fc9d34f4252d69cd85bc883e3fa0725faa37
 
 ## Resumen
 
-Letra B), N�7, Art. 8�. Word Aplicaci�n de la exenci�n establecida en el Art�culo 12�, letra B), N�7, del Decreto Ley N� 825, a una Importaci�n de Insumos M�dicos efectuada por un Hospital. (Oficio N� 738, de 01.03.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo N� 348, de 1975, Art. 6�. Word Cumplimiento de los compromisos de Exportaci�n en caso de devoluci�n anticipada de Impuesto al Valor Agregado obtenida por un Exportador, de acuerdo con el Art�culo 6�, del Decreto S…
+Word Cumplimiento de los compromisos de Exportaci�n en caso de devoluci�n anticipada de Impuesto al Valor Agregado obtenida por un Exportador, de acuerdo con el Art�culo 6�, del Decreto Supremo de Econom�a N� 348, de 1975. (Oficio N� 684, de 23.02.2006)
 
 ## Referencias detectadas
 

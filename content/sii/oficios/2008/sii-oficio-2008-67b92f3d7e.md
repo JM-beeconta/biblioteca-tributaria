@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-01
+- Fecha: 2008-01-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja241.htm
 - Hash SHA-256: 67fd0d8ca9c00bdfa55d1e473f8449cd7be9086eab3ca9dd0a4934d2275076a9
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 letra b), Art. 20� N�1� letra d), Art. 39� N�3� � C�digo Tributario, Art. 64� � D.L. N�825, de 1974, Art. 8� letra g) � Oficio N�215, de 1997- Circular N�45, de 2001. (Ord. N� 0245, de 01.02.2008) Word Solicita interpretaci�n relativa a la Subvenci�n del Estado a Establecimientos Educacionales, en el caso de un proceso de reorganizaci�n empresarial. Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31� N�2� y N�3�, Art. 33� N�1� � Circulares Ns� 42 de 199…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31� N�2� y N�3�, Art. 33� N�1� � Circulares Ns� 42 de 1990, N�17� de 1993, N�49� de 1998 y N�68� de 2001. (Ord. N� 0241, de 31.01.2008)
 
 ## Referencias detectadas
 

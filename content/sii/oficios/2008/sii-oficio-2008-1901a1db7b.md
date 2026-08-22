@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-08
+- Fecha: 2008-03-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja552.doc
 - Hash SHA-256: 79737bf1330e71109494da46bdeb5d47ba87ab4ffd292fc0ff8bd6b56946fa82
 
 ## Resumen
 
-f='renta/ja648.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 42� Ter, Arts. 52� a 56� y Art. 65� - Decreto Ley N�3.500, de 1980 � Circular N�23�, de 2002 � Resoluci�n N�35, de 2002. (Ord. N� 648, de 08.04.2008) Word Situaci�n tributaria de Excedentes de Libre Disposici�n. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis N�3 � Decreto Ley N� 3.500, de 1980, Art. 3� y 68� Letra B) � Circular N�31, de 2002. (Ord. N� 552, de 20.03.2008) Word Tributaci�n que afecta a retiro de ahorro previsional voluntario de…
+Word Tributaci�n que afecta a retiro de ahorro previsional voluntario de acuerdo al N� 3� del Art�culo 42 bis.
 
 ## Referencias detectadas
 

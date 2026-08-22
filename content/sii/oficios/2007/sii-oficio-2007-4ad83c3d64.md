@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto sobre la Renta y al Patrimonio � Art. 5�, Art. 7�, Art. 12�, Art. 58� - Oficio N�2.890, de 2005. (Ord. N�3.397, de 14.12.2007) Word Tributaci�n que afectar�a a los Servicios prestados por una Sociedad Espa�ola a su filial en Chile que presta servicios de Centro de Llamados (call center). Renta � Normas Internacionales - Convenio entre Chile y Brasil para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre Renta. Art. 12 y Art. 14� (Ord. N�3.396, de 14.12.2007) Word Deducc…
+Renta � Normas Internacionales - Convenio entre Chile y Brasil para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre Renta. Art. 12 y Art. 14� (Ord. N�3.396, de 14.12.2007)
 
 ## Referencias detectadas
 

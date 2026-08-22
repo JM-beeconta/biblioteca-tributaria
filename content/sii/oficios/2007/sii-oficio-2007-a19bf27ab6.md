@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N�s 66, de 1999 y 47 de 2004 � Oficios N�s 2.298, de 2001, 4.282, de 2002 y 652, de 2005. (Ord. N� 1.518, de 23.07.2008) Word Direcci�n Regional competente para pronunciarse en forma previa si un proyecto de inversi�n cumple o no con los requisitos exigidos por la Ley N� 19.606, sobre Ley Austral. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 42� ter, Art. 54�, N� 3, Art. 56�, N� 2, Art. 75�, (Ord. N� 1.485, de 14.07.2008) Word Tratamiento tributario de los excedentes de libre disposici�n, conforme…
+Word Tratamiento tributario de los excedentes de libre disposici�n, conforme a lo dispuesto por el art�culo 42� ter de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

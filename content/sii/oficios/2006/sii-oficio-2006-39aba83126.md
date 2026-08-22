@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-26
+- Fecha: 2006-01-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1094.htm
 - Hash SHA-256: f8bdbec5cf22eda14f6a2db9f02c3f96154784f80d487a4f1360a76e1e2545dd
 
 ## Resumen
 
-re para la Coproducci�n de un Film o Pel�cula. (Ord. N� 264, de 26.01.2006) RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 19�, ART. 20�, ART. 69�, N�3 � DECRETO LEY N� 825, DE 1974, ART. 2�, N�2, ART. 8�. Word Absuelve Consultas respecto de la Tributaci�n aplicable a la Cesi�n de un Proyecto televisivo, frente a las normas de la Ley de Impuesto a la Renta e Impuesto a las Ventas y Servicios. (ORD. N� 236, DE 23.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234� � Ley N� 18.247, d…
+3.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234� � Ley N� 18.247, de 1983, Art. 4�
 
 ## Referencias detectadas
 

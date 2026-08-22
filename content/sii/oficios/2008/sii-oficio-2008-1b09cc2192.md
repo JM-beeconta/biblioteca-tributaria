@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-30
+- Fecha: 2008-07-10
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja1455.doc
 - Hash SHA-256: f55ab4a2c0053382a55c2a0f6d846301c09614272e104e3b5d274b1b67c0588a
 
 ## Resumen
 
-Sobre Impuesto de � Art. 1�, N�3, Art. 24�, N�11. (Ord. N� 1.595, de 30.07.2008) Word Solicita confirmar tratamiento tributario que frente a la Ley de Timbres y Estampillas debe aplicarse a operaci�n de cr�dito destinada a financiar exportaci�n. Art. 24�, N�11, de D.L. N� 3.475, de 1980 Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � C�digo Tributario, Art. 126� � Circulares N��s 72, de 2001 y 27, de 2007. (Ord. N� 1.455, de 10.07.2008) Word Solicita aclaraci�n de la Circular N� 27, de 2007, que impa…
+Word Solicita aclaraci�n de la Circular N� 27, de 2007, que imparte instrucciones sobre devoluci�n del impuesto pagado indebidamente con ocasi�n de una importaci�n. Art�culo 3�, del Decreto Ley N�3.475, de 1980
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, letra b). (Ord. N�3.093, de 28.10.2008) Word Aplicaci�n de IVA al aporte de derechos emanados de un contrato de canje de servicios publicitarios, efectuado en pago de la suscripci�n de acciones. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21� � Oficio N� 3.330, de 2001. (Ord. N�3.092, de 28.10.2008) Word Consulta sobre la procedencia de aplicar el cr�dito especial contenido…
+Word Consulta sobre la procedencia de aplicar el cr�dito especial contenido en el Art�culo 21�, del Decreto Ley N�910, de 1975, en contrato de construcci�n de un inmueble para recibir adultos mayores no-autovalentes.
 
 ## Referencias detectadas
 

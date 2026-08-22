@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nsultas generales de car�cter tributario. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, Art. 24�, N� 11 � Ley N� 18.010, Art. 1�. Word Operaciones de Factoraje con documentos de Exportaci�n. Exenci�n de Impuesto de Timbres y Estampillas, Art�culo 24�, N�11, de la Ley. (Ord. N� 5.144, de 30.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 17 � Ley N� 19.840, Art. 3� � Circular N� 71, de 2002. Word Suma a considerar para determinar el Impuesto al Mutu…
+30.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 17 � Ley N� 19.840, Art. 3� � Circular N� 71, de 2002.
 
 ## Referencias detectadas
 

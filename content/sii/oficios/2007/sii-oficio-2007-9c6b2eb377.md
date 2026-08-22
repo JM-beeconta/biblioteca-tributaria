@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-04
+- Fecha: 2007-03-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4077.htm
 - Hash SHA-256: b3a212f4be79779bb60a3b775f6f666f3e473ccdc43b7bee6384c8bf119bcfdd
 
 ## Resumen
 
-Sobre Impuesto a la � Art. 17�, N� 8, letras a) y g) � C�digo Civil, Art. 1.781 � Circular N� 158, de 1976 � Oficio N�2.232, de 1997. (Ord. N� 784, de 04.04.2007) Word Efectos tributarios de la adjudicaci�n de acciones de una sociedad an�nima en proceso de liquidaci�n de sociedad conyugal y venta posterior de las mismas, conforme a lo dispuesto por las letras a) y g), del N�8, del art�culo 17�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001 � O…
+Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001 � Oficios N��s 791, de 2001 y 1.479, de 2005.
 
 ## Referencias detectadas
 

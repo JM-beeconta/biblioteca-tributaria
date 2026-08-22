@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Vigilancia que ser�n prestados a usuarios de la referida Zona. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y N�2� - Ley de la Renta, Art. 20� N�s 3�, 4� y 5�. (Ord. N� 2.996, de 25.10.2007) Word Consultas relacionadas con la recepci�n y disposici�n final de residuos s�lidos y el tratamiento que les afecta. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 22� - D. S. de Hacienda N� 55, de 1977, Art. 38� - C�digo Tributario, Art. 126�. (Ord. N� 2.995,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 22� - D. S. de Hacienda N� 55, de 1977, Art. 38� - C�digo Tributario, Art. 126�. (Ord. N� 2.995, de 25.10.2007)
 
 ## Referencias detectadas
 

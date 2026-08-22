@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-04
+- Fecha: 2005-09-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1028.htm
 - Hash SHA-256: 365f98835e6e083dee6fe771c32188aea9f5aab40ae7c0b9fd2f29847d6b3925
 
 ## Resumen
 
-forme. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Letra e), Art. 23� � Ley Sobre Impuesto a la Renta � Art. 29�, Art. 31� (Ord. N� 3.853, de 04.10.2005) Word Solicita un pronunciamiento sobre Efectos Tributarios de un Convenio de Mejoramiento de Caminos P�blicos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�5, N�6, letras b) y c) y N�7 � Ley de la Renta, Art. 20�, N� 3 y 4� � C�digo Civil, Art. 19� � Decreto Supremo N� 14…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�5, N�6, letras b) y c) y N�7 � Ley de la Renta, Art. 20�, N� 3 y 4� � C�digo Civil, Art. 19� � Decreto Supremo N� 140, de 2005, del Ministerio de Salud, Art. 43� . (Ord. N� 3.783, de 29.09.2005)
 
 ## Referencias detectadas
 

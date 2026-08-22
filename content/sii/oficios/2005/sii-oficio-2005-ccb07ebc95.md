@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-17
+- Fecha: 2005-02-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja903.doc
 - Hash SHA-256: 7ee53408d95f4716d6649570fbcedcabe3141b6ec98a1afb6415c683a0c34e34
 
 ## Resumen
 
-rd Vigencia de la Norma que regula la Tributaci�n de los Pr�cticos de Puertos y Canales. (Ord. N� 503, de 17.02.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386� � Ley N� 18.985, de 1990, Art. 8� � Ley N� 19.721, de 2001, Art. 2� � Ley N� 19.885, de 2003, Art. 11� � Circulares N�s 57, de 2001 y 55, de 2003. Word Absuelve consultas sobre Donaciones con Fines Culturales, conforme a las Normas del Art�culo 8�, de la Ley N� 18.985, de 1990. (Ord. N� 477, de 1…
+Word Absuelve consultas sobre Donaciones con Fines Culturales, conforme a las Normas del Art�culo 8�, de la Ley N� 18.985, de 1990. (Ord. N� 477, de 10.02.2005)
 
 ## Referencias detectadas
 

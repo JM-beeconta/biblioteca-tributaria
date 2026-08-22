@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Decreto Ley N� 3.063, de 1979, Art. 46� � Circular N� 8, de 2000. (Ord. N� 164, de 18.01.2005) Word Tr�mites a realizar para Ingresar Dineros Provenientes del Extranjero en Calidad de Donaci�n a una ONG constituida en el pa�s, conforme a las Normas del T�tulo XXXIII, del Libro I del C�digo Civil y Consulta en forma Diferida en el caso de Donaciones ingresadas por Aduana con la Franquicia Arancelaria 00.12. (Art. 64�, D.L. N� 825) Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 5�, Art. 52� � Resoluci�n N� 6080, de 1999. (Ord. N� 163, de 18.01.2005)
 
 ## Referencias detectadas
 

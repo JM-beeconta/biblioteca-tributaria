@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font face="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�5 � Resoluci�n Exenta N� 43, de 2002. Word Procedimiento para fijar la Vida �til a Bienes Internados al Pa�s en Calidad de Usados para los efectos de Aplicar la Depreciaci�n a que se refiere el N� 5, del Art�culo 31�, de la Ley de la Renta. (Ord. N� 1.636, de 31.05.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra b) � Circular N� 58, de 1990. Word R�gimen de Tributaci�n que afecta a Predio Agr�cola que se Arrienda,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra b) � Circular N� 58, de 1990.
 
 ## Referencias detectadas
 

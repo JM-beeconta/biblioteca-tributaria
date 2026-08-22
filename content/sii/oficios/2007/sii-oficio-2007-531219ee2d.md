@@ -11,7 +11,7 @@
 
 ## Resumen
 
-GN='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�. (Ord. N� 361, de 12.02.2007) Word Tributaci�n con IVA de servicios prestados por la Subdirecci�n de Seguridad Privada de Carabineros de Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, letra m), Art. 27� bis.(Ord. N� 360, de 12.02.2007) Word Devoluci�n de Remanentes de Cr�dito Fiscal, de acuerdo con el art�culo 27� bis del D.L. N� 825, respecto de bienes adquiridos…
+Word Devoluci�n de Remanentes de Cr�dito Fiscal, de acuerdo con el art�culo 27� bis del D.L. N� 825, respecto de bienes adquiridos para su arriendo.
 
 ## Referencias detectadas
 

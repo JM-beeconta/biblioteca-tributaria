@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rtadores de estos productos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 15�, N�1 � Oficio N� 971, de 2006. (Ord. N� 362, de 12.02.2007) Word Consulta sobre la procedencia de aplicar el art�culo 15�, N�1, del Decreto Ley N� 825, de 1974, cuando una operaci�n a plazo es pactada en d�lares y pagada en esa misma moneda. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�. (Ord. N� 361, de 12.02.2007) Word Tributaci�n con IVA de servicios prestados por la…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�. (Ord. N� 361, de 12.02.2007)
 
 ## Referencias detectadas
 

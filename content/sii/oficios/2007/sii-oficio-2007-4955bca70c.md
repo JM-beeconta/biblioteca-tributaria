@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Personas. Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Ley N� 19.768, de 2001 � Circular N� 23, de 2002. (Ord. N� 518, de 02.03.2007) Word Tratamiento tributario de los retiros de los dep�sitos convenidos efectuados a contar del 07.11.2001, de acuerdo al art�culo 42� ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�4, Art. 40�, N�4 � Oficios N��s 1798, de 1988, 799, de 1993 y 1.217, de 2000. (Ord. N� 517, de 02.03.2007) Word Tratamiento tributario de las cuotas cobradas po…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�4, Art. 40�, N�4 � Oficios N��s 1798, de 1988, 799, de 1993 y 1.217, de 2000.
 
 ## Referencias detectadas
 

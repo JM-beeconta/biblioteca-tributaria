@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-07-10
+- Fecha: 2006-06-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3119.htm
 - Hash SHA-256: dddff5ef17fdcfe3e990343858ad407d8368ba502d777e906b2636e4bb962849
 
 ## Resumen
 
-10.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�1�, Art. 74�, Art. 79� - Ley N�18.010, de 1981, Art. 9� - Circular N� 24, de 2002. Word Solicita se confirme si procede aplicar a la situaci�n que se expone el Impuesto Adicional sobre los Intereses de un Cr�dito Externo afecto al Anatocismo. (Ord. N� 3.173, de 10.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 15�, Art. 31� N�3 y 5� - Oficio 613, de 2005. Word Solicita Ratificaci�n de criterio respecto al Tratamiento Tributario aplicable al Ma…
+Renta � Actual Ley Sobre Impuesto a la � Art. 15�, Art. 31� N�3 y 5� - Oficio 613, de 2005.
 
 ## Referencias detectadas
 

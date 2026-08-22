@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-14
+- Fecha: 2007-11-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja3031.doc
 - Hash SHA-256: ad99ca61f16a498d8b259e15aab9010b9f78fbb237603a02fb6412a4039864f2
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2� - Ley sobre Impuesto a la Renta, Art. 20� N�3 y 4�. (Ord. N� 3.111, de 14.11.2007) Word Impuesto al Valor Agregado que afecta al servicio de Dise�o y Construcci�n de Sistemas Computacionales. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Resoluci�n Ex. N� 3.722, de 2000, Resolutivo N�2�, N�14� y N�15. (Ord. N� 3031, de 02.11.2007) Word Momento desde el cual un contribuyente que cumple los requisitos para ser…
+Word Momento desde el cual un contribuyente que cumple los requisitos para ser agente retenedor, se encuentra obligado a efectuar la retenci�n all� establecida, por las ventas o prestaci�n de servicios que realice.
 
 ## Referencias detectadas
 

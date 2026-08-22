@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 416
 - Año: 2007
-- Fecha: 2007-03-06
+- Fecha: 2007-03-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja519.doc
 - Hash SHA-256: 9423936506cf15f656f2947b4124789206fb253c699a7d0a336c048c3c28a0ad
 
 ## Resumen
 
-N� 552, de 06.03.2007) Word Tratamiento Tributario de las normas de correcci�n monetaria y su efecto respecto de convenio para evitar la doble tributaci�n internacional suscrito con la Rep�blica Argentina. Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1� Letra b) � Ley N� 18.046 Sobre Sociedades An�nimas, Art.94� - Oficio N�416, de 1997. (Ord. N�519, de 02.03.2007.) Word Solicita se ratifique Tratamiento Tributario relativo a la divisi�n de una Sociedad de Personas. Renta � Actual Ley Sobre Impuesto a la � A…
+Word Solicita se ratifique Tratamiento Tributario relativo a la divisi�n de una Sociedad de Personas.
 
 ## Referencias detectadas
 

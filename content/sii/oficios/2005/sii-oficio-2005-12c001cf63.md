@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-16
+- Fecha: 2005-08-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja993.doc
 - Hash SHA-256: 7f9d33d2efa69d12792bf4e43f0f1f11cdeb20cfddf93b91314436b4d0de12e6
 
 ## Resumen
 
-2.121, de 2005. Word Tratamiento Tributario de las Cotizaciones para el otorgamiento de las Garant�as Expl�citas en Salud, conforme a lo dispuesto por las Leyes N�s 18.933 y 19.966. (Ord. N� 2.988, de 16.08.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N�1, Art. 46�, Art. 74�, N�4 � Circular N� 37, de 1990. Word Tributaci�n de Remuneraciones correspondientes a Diferencias de Grado y Niveles, Pagadas con Retraso a Trabajadores de Salud de Municipio que se indica. (Ord. N� 2.916, de 08.08.…
+Word Tributaci�n de Remuneraciones correspondientes a Diferencias de Grado y Niveles, Pagadas con Retraso a Trabajadores de Salud de Municipio que se indica. (Ord. N� 2.916, de 08.08.2005)
 
 ## Referencias detectadas
 

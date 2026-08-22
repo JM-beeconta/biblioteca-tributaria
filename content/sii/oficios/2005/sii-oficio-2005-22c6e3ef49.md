@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-20
+- Fecha: 2005-04-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja931.htm
 - Hash SHA-256: 8d4a8b87fa2577cf5f9477f0979be07521be229a631ecab728bb8fb22f22b0c0
 
 ## Resumen
 
-� Art. 16�, letra a), Art. 42� � Decreto Ley N� 828, de 1974 � Oficio N� 4.379, de2002 � Resoluciones N�s 2.190, 2.191 y 2.192, de 1996 � Circular N� 59, de 2002. (Ord. N� 1.065, de 20.04.2005) Word Solicita instrucciones acerca de las Obligaciones Tributarias que pesan sobre los Contribuyentes Usuarios de Zona Franca, con respecto al Impuesto a los Tabacos Manufacturados y al Impuesto Adicional a las Bebidas Alcoh�licas. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra A), N� 1…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra A), N� 1, Art. 41� � Decreto Supremo de Hacienda, N� 55, de 1977, Art. 64� � Ley N� 18.634. (Ord. N� 952, de 08.04.2005)
 
 ## Referencias detectadas
 

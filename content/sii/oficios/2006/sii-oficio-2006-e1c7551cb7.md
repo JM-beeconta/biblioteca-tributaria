@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-16
+- Fecha: 2006-02-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1118.htm
 - Hash SHA-256: 1e5ec53a13e5dc51c01bd9e132bed0dc321bf5aea60d6fcbe64061df887f8ee1
 
 ## Resumen
 
-"1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 52�, Art. 53� � Ley N� 19.418. Word R�gimen de IVA, en Servicio de Suministro de Luz y Agua prestado por una Organizaci�n Comunitaria Funcional a sus Asociados. (Oficio N� 591, de 16.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art, 58� � C�digo Tributario, Art. 17�, Art. 200�, Art. 97�, N� 16 � Ley N� 18.845, Art. 7� � Circular N� 66, de 1998. Word Solicitud de Informaci�n acerca…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art, 58� � C�digo Tributario, Art. 17�, Art. 200�, Art. 97�, N� 16 � Ley N� 18.845, Art. 7� � Circular N� 66, de 1998.
 
 ## Referencias detectadas
 

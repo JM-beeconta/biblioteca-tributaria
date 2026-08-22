@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rvicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � Decreto Ley N� 3.059, de 1979, Art. 7�� Decreto Supremo N� 348, de 1975 � Decreto Ley N� 2.222, de 1978, Art. 45� � Circulares N��s 126, de 1977 y 60, de 2006 � Oficio N� 2.839, de 1980. (Ord. N� 781, de 04.04.2007) Word Solicita se le confirme que lo dispuesto en Circular N�60, de 03/01/2006, relativo a la forma que vendedores y prestadores de servicios deben facturar por cuenta de terceros, no les es aplicable. Ventas y Servicios � Nuevo Texto…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 27� bis, Art. 36� � Circulares N��s 55, de 1985 y 94, de 2001. (Ord. N� 780, de 04.04.2007)
 
 ## Referencias detectadas
 

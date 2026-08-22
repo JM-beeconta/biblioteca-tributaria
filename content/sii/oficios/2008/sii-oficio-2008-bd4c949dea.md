@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-05-30
+- Fecha: 2008-05-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1135.htm
 - Hash SHA-256: 565d108e1c1a984a1c3b9509fedc3cc3f074a3cdf5fba8a4f34da4f5b24fb335
 
 ## Resumen
 
-sables a pagos efectuados en virtud de un contrato de ejecuci�n de obras. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�3�. (Ord. N� 1175, de 30.05.2008) Word Consulta sobre el Impuesto al Valor Agregado en servicios de composici�n de directorios telef�nicos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94�, de 2001. (Ord. N� 1135, de 26.05.2008) Word Forma de computar la oblig…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94�, de 2001. (Ord. N� 1135, de 26.05.2008)
 
 ## Referencias detectadas
 

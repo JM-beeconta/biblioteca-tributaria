@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2�, Art. 8� - Ley N�20.129, de 2006, Arts. 1�, 6�, 8�, 13� y 14� - Ley de la Renta, Art. 20�. (Ord. N� 484, de 11.03.2008) Word Tributaci�n que afecta a la Comisi�n Nacional de Acreditaci�n por los servicios prestados a las Instituciones de Educaci�n al amparo de la Ley N�20.129, que establece un Sistema Nacional de Aseguramiento de la Calidad de la Educaci�n Superior. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuest…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� letra e), Art. 13� N�4�, Art. 23�, Art.36� - D.S. de Hacienda N�55, de 1977, Art. 43�. (Ord. N� 483, de 11.03.2008)
 
 ## Referencias detectadas
 

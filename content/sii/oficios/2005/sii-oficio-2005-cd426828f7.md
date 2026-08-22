@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-25
+- Fecha: 2005-01-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja887.htm
 - Hash SHA-256: c9f150ced2e161e23d367c2320b7a1048c0de6727007ae9e77b2dcac0ceb4fb2
 
 ## Resumen
 
-nbsp; Renta � Actual Ley Sobre Impuesto a la � Art. 31, N� 3, Art. 41� B. Word Capital Propio para los efectos de la Patente Municipal, a que se refiere el Art�culo 24�, del Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales. (Ord. N� 201, de 25.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 4, Art. 41�, Art. 20�, N� 5 � C�digo Tributario, Art. 64� � C�digo Civil, Art. 1.545�, Art. 2.264�. Word Tratamiento Tributario Aplicable a un Contrato de Renta Vitalicia, en que el Precio de la Renta Vita…
+1.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 4, Art. 41�, Art. 20�, N� 5 � C�digo Tributario, Art. 64� � C�digo Civil, Art. 1.545�, Art. 2.264�.
 
 ## Referencias detectadas
 

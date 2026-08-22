@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-02
+- Fecha: 2005-05-09
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja937.doc
 - Hash SHA-256: 15d71c643d4e4de753b51c6059f50b980f848ac204bebcf4e86e537e0a5e3425
 
 ## Resumen
 
-Word Consulta si un Inter�s Contabilizado como gasto, puede quedar beneficiado por las Tasas Preferentes de los Convenios aun cuando no se haya Generado la Obligaci�n Legal de su Pago. (Ord. N� 1.672, de 02.06.2005) Actividad Minera � Inventarios Intermedios de Baja Ley � Ley Sobre Impuesto a la Renta, Art. 31�, N� 9 � Oficios N� 1.559, de 1991, N� 297, de 1982, N� 1.739, de 1986 y N� 3.008, de 2000. Word Tratamiento Tributario aplicable a los denominados Inventarios Intermedios de Baja Ley (Ord. N� 1377, de 09.05…
+Word Tratamiento Tributario aplicable a los denominados Inventarios Intermedios de Baja Ley (Ord. N� 1377, de 09.05.2005)
 
 ## Referencias detectadas
 

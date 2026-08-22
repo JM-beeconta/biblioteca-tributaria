@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Circular N� 17, de 1995. Word Venta de una Empresa Individual de Responsabilidad Limitada (EIRL), por parte de su titular, a otra Persona Natural que adquiere la Empresa, y si en tal caso el adquirente puede seguir operando bajo el mismo RUT y giro del enajenante. (Ord. N� 4.653, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, letra A), N� 3 � C�digo Tributario, Art. 28� � C�digo de Comercio, Art. 507� � Oficios N��s 1.584, de 1992, 2.688, de 1998 y 350, de 2000. Word Improcedencia de la Celebr…
+Word Improcedencia de la Celebraci�n de Contrato de Asociaci�n o Cuentas en Participaci�n entre C�nyuges no calificados como Comerciantes seg�n las Normas del Art�culo 28, del C�digo Tributario. (Ord. N� 4.652, de 27.11.2006)
 
 ## Referencias detectadas
 

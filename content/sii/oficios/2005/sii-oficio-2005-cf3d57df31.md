@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-24
+- Fecha: 2005-01-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja873.htm
 - Hash SHA-256: a5a705f2a3263155912ef21511f08b0ee694aec8757cdcae7cdef584222eff0b
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2, N� 2, Art. 8�, Art. 52� � C�digo Civil, Art. 2.309� � Circular N� 39, de 2000 � Res. Exenta N� 6.080, de 1999, N� 6.444 y N� 8.377, de 1999. (Ord. N� 191, de 24.01.2005) Word Procedencia de emitir Facturas o Boletas Exentas de IVA, para documentar el cobro de los gastos comunes cancelados por los Socios para la Mantenci�n de un Complejo Deportivo Recreativo Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra B),…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra B), N� 7 � Ley de la Renta, Art. 17, N� 9, Art. 70� � Decreto Ley N� 3.063, de 1979, Art. 46� � Circular N� 8, de 2000. (Ord. N� 164, de 18.01.2005)
 
 ## Referencias detectadas
 

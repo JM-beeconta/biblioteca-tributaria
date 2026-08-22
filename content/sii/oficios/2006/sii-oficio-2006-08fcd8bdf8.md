@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/ja1101.doc'>Word Tributaci�n desde el punto de Vista de la Ley de la Renta de las Bolsas de Productos Agropecuarios de la Ley N�19.220, de 1993. (Ord. N� 416, de 07.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 50�, Art.42�, N�2 � Circular N�21, de 1991. Word Acreditaci�n de Gastos por Concepto de Movilizaci�n, conforme a las Normas del Art�culo 31�, de la Ley de la Renta. (Ord. N� 415, de 07.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�2 � Oficios N�s 3.826, de 1992, 3.489, de 1995 y 679…
+7.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�2 � Oficios N�s 3.826, de 1992, 3.489, de 1995 y 679, de 2004.
 
 ## Referencias detectadas
 

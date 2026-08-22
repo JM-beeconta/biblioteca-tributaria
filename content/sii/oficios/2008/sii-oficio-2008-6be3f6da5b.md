@@ -11,7 +11,7 @@
 
 ## Resumen
 
-butario de los resultados originados en los contratos derivados suscritos por una empresa minera. Renta � Actual Ley Sobre Impuesto a la � ART. 17 N�6 y N�8, Art. 18�.(Ord. N� 695, de 11.04.2008) Word Efectos tributarios de la capitalizaci�n de utilidades de una Sociedad An�nima, respecto del costo de adquisici�n de las acciones de sus accionistas. Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1, Art.21�, Art.31�, Art.33 N�1�, Art. 39 N�3 � Oficio N�3.670, de 2004.(Ord. N� 694, de 11.04.2008) Word Tributaci�…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1, Art.21�, Art.31�, Art.33 N�1�, Art. 39 N�3 � Oficio N�3.670, de 2004.(Ord. N� 694, de 11.04.2008)
 
 ## Referencias detectadas
 

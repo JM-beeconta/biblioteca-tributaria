@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-06
+- Fecha: 2005-06-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja979.htm
 - Hash SHA-256: c886bffbfa07137148a18cb23424e2a981a2a5687cb1f9c0b47bc3ccc0321983
 
 ## Resumen
 
-491, de 06.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter, Art. 54�, N� 3 � Decreto Ley N� 3.500, de 1980 � Circular N� 23, de 2002. Word Tratamiento tributario de los excedentes de libre disposici�n, conforme a lo dispuesto por el art�culo 42 ter de la Ley de la Renta. (Ord. N� 2.446, de 04.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 38� bis, Art. 14�, Art. 74�, N� 4 � C�digo Tributario, Art. 69� � Circulares N�s 53 y 60, de 1990, 17, de 1995. Word Situaci�n tributaria de los excesos de…
+07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 38� bis, Art. 14�, Art. 74�, N� 4 � C�digo Tributario, Art. 69� � Circulares N�s 53 y 60, de 1990, 17, de 1995.
 
 ## Referencias detectadas
 

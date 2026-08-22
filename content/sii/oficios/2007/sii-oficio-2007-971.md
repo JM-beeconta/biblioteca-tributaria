@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ctual Ley sobre Impuesto a las � Art. 36�, Art. 42�, Art. 45� � Decreto Supremo N� 348, de 1975, Art. 1�. (Ord. N� 363, de 12.02.2007) Word Determinaci�n del cr�dito fiscal por Impuesto Adicional a las Bebidas Alcoh�licas y Analcoh�licas que tienen derecho a utilizar los exportadores de estos productos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 15�, N�1 � Oficio N� 971, de 2006. (Ord. N� 362, de 12.02.2007) Word Consulta sobre la procedencia de aplicar el art�culo 15�, N�1, del Decr…
+Word Consulta sobre la procedencia de aplicar el art�culo 15�, N�1, del Decreto Ley N� 825, de 1974, cuando una operaci�n a plazo es pactada en d�lares y pagada en esa misma moneda.
 
 ## Referencias detectadas
 

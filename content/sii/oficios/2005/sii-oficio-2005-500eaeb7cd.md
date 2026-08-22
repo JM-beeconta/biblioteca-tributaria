@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"2">(Ord. N� 2.331, de 28.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 2 � Decreto con Fuerza de Ley N� 5, de 2003, Art. 49�. Word Tributaci�n que afecta la enajenaci�n de terreno perteneciente a una Cooperativa, seg�n las normas de la Ley de la Renta. (Ord. N� 2.318, de 24.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 6 � Circular N� 42, de 1990 � Oficio N� 638, de 1991, 281, de 2005 y 2.371, de 2002. Word Requisitos y condiciones que deben cumplirse para invocar el cr�dito por…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 6 � Circular N� 42, de 1990 � Oficio N� 638, de 1991, 281, de 2005 y 2.371, de 2002.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-05-26
+- Fecha: 2008-04-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja870.doc
 - Hash SHA-256: 39f15d82a477f493fd02a85e97615fc6cc0d6fd16084ebcf122d5cfda3427b4c
 
 ## Resumen
 
-ervicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94�, de 2001. (Ord. N� 1135, de 26.05.2008) Word Forma de computar la obligaci�n de restituir las sumas devueltas anticipadamente correspondientes a remanentes de cr�dito fiscal por adquisici�n de activo fijo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�10 � Circular N�31, de 1981. (Ord. N� 870, de 25.04.2008) Word Aplicaci�n de Exenci�n de Art. 12, letra e), N�10, del D.L 825, de 1974,…
+Word Aplicaci�n de Exenci�n de Art. 12, letra e), N�10, del D.L 825, de 1974, a la emisi�n de boleta de garant�a bancaria, realizada por un Banco en representaci�n de un Banco extranjero.
 
 ## Referencias detectadas
 

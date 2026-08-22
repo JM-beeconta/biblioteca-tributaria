@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-14
+- Fecha: 2006-03-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1130.htm
 - Hash SHA-256: 9160c56185d085307c6dd3326b933c684fe16307097339c4b992074b93d95cb2
 
 ## Resumen
 
-se debe Calcular el Cr�dito de 4%, del Activo Fijo en el caso de una Plantaci�n de Olivos, de acuerdo a lo dispuesto por el Art�culo 33� bis de la Ley de la Renta. (Ord. N� 938, de 14.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�3, Art. 74�, N�4, Art. 79� � Circular N� 21, de 1991 � Oficio N� 298, de 2004. Word Aplicaci�n del Impuesto Adicional que afecta a los Reaseguros. (Ord. N� 808, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 52�, Art. 55� bis � Ley N� 19.622, de…
+8.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 52�, Art. 55� bis � Ley N� 19.622, de 1999 � Circular N� 87, de 2001.
 
 ## Referencias detectadas
 

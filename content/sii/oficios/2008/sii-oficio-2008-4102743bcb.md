@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='renta/ja863.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 59� N�2�, Art. 74� N�4�, Art. 79� - C�digo Tributario, Art. 8� N�8� - C�digo Civil, Art. 59�. (Ord. N� 863, de 25.04.2008) Word Tributaci�n que afecta a prestador de salud extranjero que realiza tratamiento de rehabilitaci�n a paciente chileno. Renta � Actual Ley Sobre Impuesto a la � Ley N�19.606, de 1999 �Circular N�66, de 1999. (Ord. N� 862, de 25.04.2008) Word Improcedencia del cr�dito que establece la Ley N� 19.606, en el caso…
+Word Improcedencia del cr�dito que establece la Ley N� 19.606, en el caso que se indica.
 
 ## Referencias detectadas
 

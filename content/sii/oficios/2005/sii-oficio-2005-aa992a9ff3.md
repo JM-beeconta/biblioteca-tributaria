@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-26
+- Fecha: 2005-01-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja888.htm
 - Hash SHA-256: 2a6289a7fe5af0c06d99aa7a43f119bbad5a1e44d6c3860f53e8ce9d80a018da
 
 ## Resumen
 
-nt> Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, de 1999, Art. 1�, Art. 4�, Art. 5�. Word Contribuyentes que tienen Derecho a utilizar el Cr�dito establecido en la Ley N� 19.606, de 1999, sobre Ley Austral. (Ord. N� 237, de 26.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31, N� 3, Art. 41� B. Word Capital Propio para los efectos de la Patente Municipal, a que se refiere el Art�culo 24�, del Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales. (Ord. N� 201, de 25.01.2005) Renta � Actual Ley…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31, N� 3, Art. 41� B.
 
 ## Referencias detectadas
 

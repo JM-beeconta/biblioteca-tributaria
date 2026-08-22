@@ -11,7 +11,7 @@
 
 ## Resumen
 
-endido que se encuentran afectos al Impuesto del Art�culo 42�, N�1, de la Ley de la Renta, no obstante su calidad de Trabajadores Independientes. (Ord N� 291, de 26.01.2006) Renta � Actual Ley Sobre Impuesto a la � Circular N� 143, de 1972 � Oficios N�s 1.548, de 1985 y 714, de 1997. Word Tratamiento Tributario que afecta a Contrato de Joint Venture para la Coproducci�n de un Film o Pel�cula. (Ord. N� 264, de 26.01.2006) RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 19�, ART. 20�, ART. 69�, N�3 � DECRETO LEY N� 82…
+, de 26.01.2006) RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 19�, ART. 20�, ART. 69�, N�3 � DECRETO LEY N� 825, DE 1974, ART. 2�, N�2, ART. 8�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-25
+- Fecha: 2008-08-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2417.htm
 - Hash SHA-256: c947fd7e8044720287afeeaedb27e3c4babf6212bae0559dd70dd76836036922
 
 ## Resumen
 
-se asignan a otras sociedades producto de la divisi�n de una sociedad, pueden acogerse al beneficio tributario del art�culo 18� ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N�2 � Oficio N�4.604, de 2000. (Ord. N� 2.446, de 25.08.2008) Word Consulta sobre vigencia de criterio contenido en Oficio SII N�4.604, de 2000. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9, Art. 21�, Art. 33�, N�1 � Ley N�16.271 � D.F.L. N�789, de 1978, Art. 10� (Ord. N� 2.417, de 20.08.2008) Word Tra…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9, Art. 21�, Art. 33�, N�1 � Ley N�16.271 � D.F.L. N�789, de 1978, Art. 10� (Ord. N� 2.417, de 20.08.2008)
 
 ## Referencias detectadas
 

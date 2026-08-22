@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-29
+- Fecha: 2008-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja3086.doc
 - Hash SHA-256: cd45a5a44290a561bd16dde68563b89bb38392eb2bc7b1a2b53c1d47f8c503de
 
 ## Resumen
 
-� bis � Decreto Ley N�3.500, de 1980 � Circular N�31, de 2002. (Ord. N� 3.102, de 29.10.2008) Word Situaci�n tributaria de los retiros de Ahorro Previsional Voluntario efectuados en distintas AFP, para el pago de cotizaciones previsionales originadas por el cambio de r�gimen previsional. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Decreto Ley N�1.328, de 1976, Art 13�, N�1 � Circular N�7, de 2002. (Ord. N�3.086, de 28.10.2008) Word Situaci�n tributaria de la enajenaci�n de acciones, conforme a las norm…
+Word Situaci�n tributaria de la enajenaci�n de acciones, conforme a las normas del art�culo 18 ter de la Ley de la Renta.
 
 ## Referencias detectadas
 

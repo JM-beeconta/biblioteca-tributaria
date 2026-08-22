@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ado especial con IVA establecido en el art�culo 8� letra g) del D.L. 825 de 1974, a contrato de arrendamiento de inmueble y posibilidad de solicitar devoluci�n de cr�dito fiscal generado en la construcci�n de dicho bien, de conformidad con el art�culo 27 bis del mismo cuerpo legal. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 13�, N� 4, Art. 8�, letra h). ( Ord. N� 2.381, de 30.06.2005) Word Aplicabilidad de la exenci�n contenida en el Art�culo 13 N� 4 del DL N� 825, de…
+Word Aplicabilidad de la exenci�n contenida en el Art�culo 13 N� 4 del DL N� 825, de 1974, a la venta de una �biblioteca virtual�
 
 ## Referencias detectadas
 

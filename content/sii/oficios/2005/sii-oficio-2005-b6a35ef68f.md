@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�1, letra b) � Circular N� 19, de 2002 � Resoluciones Ex. N�s 14, de 2002 y 28, de 2004. Word Consecuencia que produce el Incumplimiento de lo establecido en el Inciso segundo del N�1, del inciso cuarto del Art�culo 59�, de la Ley de la Renta. (Ord. N� 3.779, de 28.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1, Art. 59�, Art. 74�, N�1, Art. 78� � Decreto Ley N� 825, de 1974, Art. 4�, Art. 8� � Circular N� 69, de 2000. Word…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1, Art. 59�, Art. 74�, N�1, Art. 78� � Decreto Ley N� 825, de 1974, Art. 4�, Art. 8� � Circular N� 69, de 2000.
 
 ## Referencias detectadas
 

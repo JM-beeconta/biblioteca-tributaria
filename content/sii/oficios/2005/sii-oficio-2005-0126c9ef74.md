@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t> Renta � Actual Ley Sobre Impuesto a la � Art. 22�, N� 2 � Ley de Rentas Municipales, Art. 40� y 41� � Circular N� 55, de 1975. Word Tributaci�n de los Comerciantes Ambulantes o Estacionados conforme a las Normas de los Art�culos 22�, N�2 y 24 de la Ley de la Renta. (Ord. N� 969, de 11.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � C�digo Tributario, Art. 8�, N� 13 � Circulares N�s 100, de 1975, 158, de 1976 y 60, de 1990 � Oficio N� 5.287, de 2004. Word Costo Tributario de la Enajenaci�n de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � C�digo Tributario, Art. 8�, N� 13 � Circulares N�s 100, de 1975, 158, de 1976 y 60, de 1990 � Oficio N� 5.287, de 2004.
 
 ## Referencias detectadas
 

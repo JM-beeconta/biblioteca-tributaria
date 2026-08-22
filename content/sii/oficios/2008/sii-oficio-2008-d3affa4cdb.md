@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-01-30
+- Fecha: 2008-01-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja214.doc
 - Hash SHA-256: 203fcd113fc120577e7094609af92dd5df6f35fb974651fd80e361e3142cfb3b
 
 ## Resumen
 
-'> Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, de 2002 � Oficios N�1.705 y N�764, de 2006. (Ord. N� 0224, de 30.01.2008) Word Aplicaci�n de la exenci�n del Art. 18 Ter a las Ventas de Acciones adquiridas como producto de canje de ADRs. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74� N�4�, Art. 79� - Ley N� 20.154, de 2007. (Ord. N� 214, de 25.01.2008) Word Solicita pronunciamiento respecto a la Base sobre la cual corresponde aplicar el Impuesto Adicional en el caso de remesa p…
+Word Solicita pronunciamiento respecto a la Base sobre la cual corresponde aplicar el Impuesto Adicional en el caso de remesa por concepto de Derechos de Autor.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acionales, en el caso de un proceso de reorganizaci�n empresarial. Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31� N�2� y N�3�, Art. 33� N�1� � Circulares Ns� 42 de 1990, N�17� de 1993, N�49� de 1998 y N�68� de 2001. (Ord. N� 0241, de 31.01.2008) Word Tratamiento tributario aplicable al gasto rechazado por contribuciones de bienes ra�ces. Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, de 2002 � Oficios N�1.705 y N�764, de 2006. (Ord. N� 0224, de 30.01.2008) Word Aplicaci�n de la…
+Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, de 2002 � Oficios N�1.705 y N�764, de 2006. (Ord. N� 0224, de 30.01.2008)
 
 ## Referencias detectadas
 

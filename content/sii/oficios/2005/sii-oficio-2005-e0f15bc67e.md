@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-07
+- Fecha: 2005-09-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1012.htm
 - Hash SHA-256: fdaad4b385bb7d1d423a2e4fbbb246e89ace4b8d83257f72b4f00efd9b6dc3c9
 
 ## Resumen
 
-enier�a. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 23�, Art. 52� � Ley Sobre Impuesto a la Renta, Art. 20�, N�3 � C�digo de Comercio, Art. 3�, N�6. (Ord. N� 3.374, de 07.09.2005) Word Clasificaci�n del Servicio A�reo, como Transporte de Carga. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55� � C�digo tributario, Art. 97�, N�10 � Decreto Supremo N� 55, de 1977, Art. 70�, Art. 73� � Circulares N�s 126, de 1977 y 103, de 1979. (Ord. N…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55� � C�digo tributario, Art. 97�, N�10 � Decreto Supremo N� 55, de 1977, Art. 70�, Art. 73� � Circulares N�s 126, de 1977 y 103, de 1979. (Ord. N� 3.326, de 05.09.2005)
 
 ## Referencias detectadas
 

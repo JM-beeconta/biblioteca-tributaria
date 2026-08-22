@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-11
+- Fecha: 2005-04-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja923.doc
 - Hash SHA-256: 2c44502f390afdb34f24807e1039da42de164dbc35739edf9f128a181c551dbe
 
 ## Resumen
 
-a de un Convenio Colectivo, de acuerdo a lo dispuesto por el Art�culo 178�, del C�digo del Trabajo, en concordancia con lo establecido por el Art�culo 17�, N�13, de la Ley de la Renta. (Ord. N� 963, de 11.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13, Art. 42�, N� 1, Art. 43�, N� 1 � C�digo del Trabajo, Art. 178� � Circulares N�s 37, de 1990 y 29, de 1991. Word Tratamiento tributario de Indemnizaci�n por A�os de Servicio, Conforme lo Dispuesto en el Art�culo 178�, del C�digo del Trabajo y art�c…
+Word Tratamiento tributario de Indemnizaci�n por A�os de Servicio, Conforme lo Dispuesto en el Art�culo 178�, del C�digo del Trabajo y art�culo 17�, N�13, de la Ley Sobre Impuesto a la Renta. (Ord. N� 956, de 08.04.2005)
 
 ## Referencias detectadas
 

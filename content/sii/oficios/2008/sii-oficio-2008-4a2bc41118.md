@@ -11,7 +11,7 @@
 
 ## Resumen
 
-culo 10 bis del D.F.L. 341, de 1977. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Circular N�12, de 1991 � Compendio de Normas Aduaneras, Capitulo IV � Ordenanza de Aduanas, Art. N�70. (Ord. N�401, de 26.02.2008) Word Consulta si es posible emitir facturas de exportaci�n en pesos, sin consignar el monto en moneda extranjera. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2, Art. 8� letra g), Art. 20 N�3 Y N�4� - C�digo de Comercio, Art. 233 y sgtes � Oficios…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2, Art. 8� letra g), Art. 20 N�3 Y N�4� - C�digo de Comercio, Art. 233 y sgtes � Oficios N�2.716, de 1995, N� 2.676, de 1996, N�4.182, de 2003, N� 4.349, de 2004. (Ord. N�400, de 26.02.2008)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-28
+- Fecha: 2007-05-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4095.doc
 - Hash SHA-256: 66cb03fd941da197e963a8c8d416fb54b4c64c49042ad09804154132629781b7
 
 ## Resumen
 
-de 1980 � Circular N� 32, de 2002. (Ord. N�1.163, de 28.05.2007) Word Tributaci�n de ahorro previsional voluntario invertido a trav�s de una p�liza de seguro, conforme a las normas del art�culo 42� bis de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, Art. 42� bis Art. 50�. (Ord. N�1.034, de 09.05.2007) Word Condiciones bajo las cuales opera la rebaja por concepto de APV, en el caso de contribuyentes del art�culo 42� N�2 de la Ley de la Renta, conforme a lo dispuesto por los art�culos 42� b…
+Word Condiciones bajo las cuales opera la rebaja por concepto de APV, en el caso de contribuyentes del art�culo 42� N�2 de la Ley de la Renta, conforme a lo dispuesto por los art�culos 42� bis y 50�, de la ley precitada.
 
 ## Referencias detectadas
 

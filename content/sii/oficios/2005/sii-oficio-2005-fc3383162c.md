@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-18
+- Fecha: 2005-11-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1048.doc
 - Hash SHA-256: 910e9de638b6b7763e0745191b7bead8eea12728da3dd4a1016cadafd7409850
 
 ## Resumen
 
-Word Tributaci�n de Compensaciones Econ�micas a favor de C�nyuges de acuerdo a lo dispuesto por el Art�culo 61� y siguientes de la Ley N� 19.947, sobre Matrimonio Civil, en relaci�n con lo preceptuado por los art�culos 17�, N � 1 y 20�, N�5, de la Ley de la Renta. (Ord. N� 4.605, de 18.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 41� D. Word Determinaci�n del Capital Propio para los Efectos de la Patente Municipal, a que se refiere el Art�culo 24� del Decreto Ley N�3.063, de 1979, sobre Rentas Municipale…
+Word Determinaci�n del Capital Propio para los Efectos de la Patente Municipal, a que se refiere el Art�culo 24� del Decreto Ley N�3.063, de 1979, sobre Rentas Municipales, respecto de las Sociedades constituidas seg�n el Art�culo 41� D, de la Ley de la Renta. (Ord. N� 4.599, de 17.11.2005)
 
 ## Referencias detectadas
 

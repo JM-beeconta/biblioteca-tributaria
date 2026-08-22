@@ -11,7 +11,7 @@
 
 ## Resumen
 
-7) Word Tratamiento tributario de compensaci�n econ�mica acordada entre las partes mediante una transacci�n en juicio de divorcio. Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Circular N�49�, de 2006. (Ord. N� 2841 , de 05.10.2007) Word Situaci�n tributaria de aportes efectuados por empresa destinados a pavimentaci�n de una Avenida, que no ha sido declarada �camino p�blico�. Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�1. (Ord. N� 2803, de 01.10.2007) Word Empresario que tiene como giro o actividad l…
+Word Situaci�n tributaria de aportes efectuados por empresa destinados a pavimentaci�n de una Avenida, que no ha sido declarada �camino p�blico�.
 
 ## Referencias detectadas
 

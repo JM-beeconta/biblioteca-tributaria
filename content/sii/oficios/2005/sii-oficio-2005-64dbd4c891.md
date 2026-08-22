@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-29
+- Fecha: 2005-08-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1016.doc
 - Hash SHA-256: 16bed307bd9f7d6bce15d380947e3553fe028898e2707851281d5f8e2ca148d5
 
 ## Resumen
 
-Hipotecarias � Emisi�n de Documentos Tributarios � Resoluci�n Exenta N� 07, de 2005. Word Emite Pronunciamiento sobre Consultas Relativas a los Comprobantes que deben emitirse por Servicios relacionados con Operaciones Hipotecarias (Ord. N� 3.189, de 29.09.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � Ley sobre Impuesto a la Renta, Art. 2�, N�1, Art. 17�, N�22. Word Impuesto de Timbres y Estampillas en Condonaci�n de Saldo de Precio en Importaci�n con Cobertura Diferida. (Ord. N� 3.…
+Word Impuesto de Timbres y Estampillas en Condonaci�n de Saldo de Precio en Importaci�n con Cobertura Diferida. (Ord. N� 3.076, de 23.08.2005)
 
 ## Referencias detectadas
 

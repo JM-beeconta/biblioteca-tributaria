@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Aplicaci�n y devengo del IVA a contrato de transferencia de vino en barricas de guarda. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 52� y sgtes - Ley de la Renta, Art. 20� N�4�, Art. 42� N�2�.(Ord. N� 701, de 11.04.08) Word Tributaci�n que afecta a empresa Sociedad Limitada productora de Eventos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 21�, Art. 70� - Decreto Ley N�828, de 1974, Art. 3�, 4�,5�,8� y 13� - Circular N�29, de 1978. (Ord. N�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 21�, Art. 70� - Decreto Ley N�828, de 1974, Art. 3�, 4�,5�,8� y 13� - Circular N�29, de 1978. (Ord. N� 655, de 08.04.2008)
 
 ## Referencias detectadas
 

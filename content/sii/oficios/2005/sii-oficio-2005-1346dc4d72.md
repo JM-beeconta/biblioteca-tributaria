@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-22
+- Fecha: 2005-03-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja917.htm
 - Hash SHA-256: 99cda732ae9a8d3bcd54ffeb823c3681faa84b828390e85ae0d0b10b17071f59
 
 ## Resumen
 
-C�digo Tributario, Art. 8�, N� 8. Word La Asignaci�n Temporal de un Trabajador al Exterior no hace perder su Domicilio en Chile, debiendo Tributar con el Impuesto �nico de Segunda Categor�a que afecta a sus Remuneraciones L�quidas pagadas en el Pa�s, conforme lo dispuesto por los art�culos 3�, 4�, 12�, 42�, N�1 y 43�, N�1 de la Ley de la Renta. (Ord. N� 746, de 22.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 20�, N� 3, Art. 42�, N� 2, Art. 70� � C�digo de Procedimiento Civil, Art. 345�…
+Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 20�, N� 3, Art. 42�, N� 2, Art. 70� � C�digo de Procedimiento Civil, Art. 345� � Circular N� 8, de 2000.
 
 ## Referencias detectadas
 

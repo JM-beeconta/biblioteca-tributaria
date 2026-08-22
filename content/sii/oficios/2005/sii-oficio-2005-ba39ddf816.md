@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-24
+- Fecha: 2005-11-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1063.htm
 - Hash SHA-256: a9cb5f8aea38d215f368aa6937742b74a8c4fb1b2b3d95388c724b46611659ba
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 55� � Res. Exentas N�s 6.080, de 1999 y 5007, de 2000. (Ord. N� 4.651, de 24.11.2005) Word Documentaci�n que corresponde Emitir en caso de una Venta de Bienes Situados en el Extranjero y que posteriormente son Importados a Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 9�, Letra a) � Oficio N� 1.055, de 2003. ( Ord. N� 4.645, de 23.11.2005) Word Aplicaci�n del Impuesto al Valor Agregad…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 9�, Letra a) � Oficio N� 1.055, de 2003. ( Ord. N� 4.645, de 23.11.2005)
 
 ## Referencias detectadas
 

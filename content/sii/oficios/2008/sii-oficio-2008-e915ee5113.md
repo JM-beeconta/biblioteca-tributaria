@@ -11,7 +11,7 @@
 
 ## Resumen
 
-anteriores_renta.htm'>A�os Anteriores LEY DE IMPUESTO A LA RENTA 2008 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, bis, N�3 � Decreto Ley N�3.500, de 1980, Art. 3� � Decreto Ley N�2.448, de 1979 � Res. Exenta N� 34, de 2002. (Ord. N�3.651, de 11.12.2008) Word Contribuyentes que por los retiros de Ahorro Previsional Voluntario quedan afectos a los recargos establecidos en el art�cul…
+Word Contribuyentes que por los retiros de Ahorro Previsional Voluntario quedan afectos a los recargos establecidos en el art�culo 42� bis, N�3, de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

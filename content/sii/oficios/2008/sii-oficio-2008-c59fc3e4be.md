@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-14
+- Fecha: 2008-04-08
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja652.doc
 - Hash SHA-256: 9f04eb86bc30966b2027cb6ba9e4dd03a17d00fc9a8f736eab6b0f7d72d6278c
 
 ## Resumen
 
-'2'> Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, Art. 14�, Art. 28�, Art. 29�. (Ord. N� 710, de 14.04.2008) Word Procedencia de devoluci�n de impuesto de timbres y estampillas pagado como consecuencia de un contrato de mutuo resciliado. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � ART. 1�, Art. 23� N�3 � Ley N�18.962, Ley Organica Constitucional de Ense�anza.(Ord. N� 652, de 08.04.2008) Word Exenci�n contenida en el art�culo 23� N�3�, de la Ley de Timbres y Estampillas.…
+Word Exenci�n contenida en el art�culo 23� N�3�, de la Ley de Timbres y Estampillas.
 
 ## Referencias detectadas
 

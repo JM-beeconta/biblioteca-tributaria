@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-04-12
+- Fecha: 2006-04-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1196.htm
 - Hash SHA-256: 6ed6e8087a26eae57e9739424812c791cdd2b3e3d4c4bdc15a49b03c3ee25c6a
 
 ## Resumen
 
-de la Ley de la Renta. (Ord. N� 1.310, de 12.04.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14 bis � Art. 64 del C�digo Tributario � Circular N�59, de 1991 y N�45, de 2001. Word Absuelve consultas relacionadas con la reorganizaci�n empresarial, consistente en aporte de activos de empresas a una Sociedad S.A. acogida al r�gimen de tributaci�n del art�culo 14 bis de la Ley de la Renta. (Ord. N� 1.237, de 05.04.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 58 N�1. Word Aplicaci�n del impuesto adicional…
+, de 05.04.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 58 N�1.
 
 ## Referencias detectadas
 

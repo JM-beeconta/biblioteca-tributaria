@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la � Art. 14�, Art. 41�, Art. 56� N�3, Art. 63�- Circular N�60, de 1990. (Ord. N� 2594, de 06.09.2007) Word Situaci�n tributaria en venta de derechos sociales a una sociedad relacionada, aplic�ndose lo dispuesto en el inciso pen�ltimo art�culo 41, para la determinaci�n de los costos tributarios. Renta � Actual Ley Sobre Impuesto a la � Art. 31� inciso primero, Art. 31� N�5, Art. 41� N�2�. (Ord. N� 2593, de 06.09.2007) Word Solicita confirmar criterios con relaci�n al tratamiento tributario de ciertos desembolsos a…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� inciso primero, Art. 31� N�5, Art. 41� N�2�.
 
 ## Referencias detectadas
 

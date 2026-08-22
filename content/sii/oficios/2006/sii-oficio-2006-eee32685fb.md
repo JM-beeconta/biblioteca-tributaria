@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-27
+- Fecha: 2006-12-15
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja4022.doc
 - Hash SHA-256: 7c6a8603440815927590ad5bf2cb6a3e60172bad013b74febd2990c2c7d16bbb
 
 ## Resumen
 
-a href="otras/ja4023.htm">Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3� � C�digo de Comercio, Art. 977 � Ley N� 18.010, Art. 1�. Word Documentos que no se encuentran gravados con el Impuesto establecido en el Art�culo 3�, del D.L. N� 3.475, de 1980. ( Ord. N� 4.963, de 27.12.2006) Decreto Ley N� 600 � Art. 2�, letra f) � Ley de la Renta, Art. 14�, letra A), Art. 74�, N�4. Word Capitalizaci�n de Utilidades con derecho a ser transferidas al exterior, en conformidad con el art�culo 2�, letra f…
+Word Capitalizaci�n de Utilidades con derecho a ser transferidas al exterior, en conformidad con el art�culo 2�, letra f, del Decreto Ley N� 600. (Ord. N� 4.868, de 15.12.2006)
 
 ## Referencias detectadas
 

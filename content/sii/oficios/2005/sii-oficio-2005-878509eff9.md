@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-19
+- Fecha: 2005-10-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1027.htm
 - Hash SHA-256: d41a7fa012daa8a11a48736772a74ebf004bc369eefbc3d6e01d6a7519c30ff6
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Ley N� 19.915, de 2003 � Ley N� 18.834, Art. 10�� Circular N� 21, de 1991 � Res. Ex. N� 1.414, de 1978. Word Exime de la Obligaci�n de emitir Boletas de Honorarios a Prestadores de Servicios que se indican, conforme a lo dispuesto por la Ley N� 19.915, de 2003, Sobre Presupuesto del Sector P�blico. (Ord N� 4.085, de 19.10.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�7 � Ley N� 16.624 � Circular N� 24, de 1993. Word Requisitos y Condiciones que deben reunir los Donan…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�7 � Ley N� 16.624 � Circular N� 24, de 1993.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-06
+- Fecha: 2008-09-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2731.htm
 - Hash SHA-256: 80bb2b69afdb82f2b17c824ed8b9113eab904307ec91a6aaa817b34050be7b3b
 
 ## Resumen
 
-8.815, sobre fondos de inversi�n y a la que se refieren las instrucciones contenidas en la Circular N� 58, de 2007, de este Servicio. Renta � Actual Ley Sobre Impuesto a la � Ley N� 20.241. (Ord. N�2.883, de 06.10.2008) Word Imposibilidad de que las empresas del Estado, puedan acogerse al cr�dito tributario que establece la Ley N� 20.241, de 2008. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � D.L. N�1.328, Art. 13�, N�1 � Circular N� 7, de 2002. (Ord. N� 2.731, de 16.09.2008) Word Situaci�n Tributaria de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � D.L. N�1.328, Art. 13�, N�1 � Circular N� 7, de 2002. (Ord. N� 2.731, de 16.09.2008)
 
 ## Referencias detectadas
 

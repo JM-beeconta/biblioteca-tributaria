@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-12
+- Fecha: 2005-01-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja866.doc
 - Hash SHA-256: a8e2bc148124d11b5465b3b0b9c40a45bdc4b3839031c1749f1281c5a5b30284
 
 ## Resumen
 
-otra Sociedad, conforme a las Normas de la letra c), del N�1, de la letra A), del Art�culo 14�, de la Ley de la Renta y Enajenaci�n de Derechos Sociales, de acuerdo a las normas de los Incisos 3� y 4� del art�culo 41� de la ley precitada. (Ord. N� 0113, de 12.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 3� � Constituci�n Pol�tica de la Rep�blica, Art. 19�, N� 14 Word Resuelve sobre Pr�rroga de Plazo que se establece en la parte final del Inciso Segundo del Art�culo 3�, de la Ley de la Renta. (Ord. N� 068…
+Word Resuelve sobre Pr�rroga de Plazo que se establece en la parte final del Inciso Segundo del Art�culo 3�, de la Ley de la Renta. (Ord. N� 068, de 07.01.2005)
 
 ## Referencias detectadas
 

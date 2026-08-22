@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja2923.doc'>Word Situaci�n tributaria del cr�dito por impuesto de Primera Categor�a, en el caso de contribuyentes que se acogen al art�culo 14� bis de la Ley de la Renta, conforme a lo dispuesto por el art�culo 1� transitorio de la Ley N�18.775, de 1989. Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�6, Art. 18� ter, Art. 18� quater � C�digo Civil, Art. 22� � Ley N�18.815, Art. 32�, Art. 41�, N�4 � Ley N� 20.190, de 2007 � Circular N� 58, de 2007. (Ord. N� 2.920, de 10.10.2008) Word Vigencia de las modificaci…
+Word Vigencia de las modificaciones incorporadas por la Ley N� 18.815, sobre fondos de inversi�n y a la que se refieren las instrucciones contenidas en la Circular N� 58, de 2007, de este Servicio.
 
 ## Referencias detectadas
 

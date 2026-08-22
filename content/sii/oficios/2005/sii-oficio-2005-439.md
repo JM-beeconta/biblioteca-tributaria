@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 439
 - Año: 2005
-- Fecha: 2005-12-01
+- Fecha: 2005-11-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1057.doc
 - Hash SHA-256: 1ae45a71b8a60a6339303924fa3a0ecfd95318249b95ff955c1c095a5aa3e7eb
 
 ## Resumen
 
-Documento v�lido emitido por Agencia de Aduana para los efectos de Acreditar los Gastos de Desaduanamiento o Exportaci�n de Mercader�as. (Ord. N� 4.761, de 01.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, N�1, letra f) � Decreto Ley N�825, de 1974, Art. 8�, letra d), Art. 12�, letra A), N� 1, Art. 23� � Ley N� 19.506, de 1997 � Oficio N� 439, de 1977. Word Solicita autorizaci�n para que la firma Vendedora de Autom�viles que ser�n destinados por su adquirente a Sorteos Gratuitos con Fines Pr…
+Word Solicita autorizaci�n para que la firma Vendedora de Autom�viles que ser�n destinados por su adquirente a Sorteos Gratuitos con Fines Promocionales, Facture �stos de acuerdo a lo se�alado en Ordinario N� 439, de 1977. (Ord. N� 4.683, de 28.11.2005)
 
 ## Referencias detectadas
 

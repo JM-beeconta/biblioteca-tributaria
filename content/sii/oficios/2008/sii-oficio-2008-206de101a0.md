@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-11-26
+- Fecha: 2008-11-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja3412.doc
 - Hash SHA-256: 921df8b7b5c2e302e7e1c690b7ad9d701e2edbf6395f4babbae45aa671143383
 
 ## Resumen
 
-. (Ord. N� 3.530, de 26.11.2008) Word Para efectos de determinar la base imponible del Impuesto de Primera Categor�a, las p�rdidas obtenidas en las zonas no favorecidas con franquicias tributarias deben compensarse con las utilidades obtenidas en los territorios favorecidos con tales franquicias. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1, letra c), Art. 58�, N�1 � Ley N�3.918, Art 3�. (Ord. N� 3.412, de 07.11.2008) Word Reinversi�n de utilidades como aportes en la constituci�n de una socieda…
+Word Reinversi�n de utilidades como aportes en la constituci�n de una sociedad de personas, seg�n lo dispuesto en el art�culo 14, letra A), n�mero 1�, letra c), de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

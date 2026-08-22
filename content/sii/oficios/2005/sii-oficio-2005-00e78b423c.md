@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-15
+- Fecha: 2005-09-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1010.doc
 - Hash SHA-256: c190d0b4bcfeca349ab9deeaeb76370f024ae001dad12132c5e6d2ac69651dee
 
 ## Resumen
 
-Word Situaci�n Tributaria de la Adjudicaci�n de Cuotas de Fondos Mutuos acogidos a la letra A), del Art�culo 57� bis de la Ley de la Renta a C�nyuge que no se acoge Personalmente a dicho beneficio. (Ord. N� 3.527, de 15.09.2005) Renta � Actual Ley Sobre Impuesto a la � Circulares N�s 17, de 1995 y 72, de 1996 � Oficios N�s 1.849, 3.850 y 4.424, de 2001. Word Tratamiento Tributario de Diferencias entre el Precio de Adquisici�n de las Acciones y el Valor Libro de los Activos Monetarios por Fusi�n Impropia. (Ord. N�…
+Word Tratamiento Tributario de Diferencias entre el Precio de Adquisici�n de las Acciones y el Valor Libro de los Activos Monetarios por Fusi�n Impropia. (Ord. N� 3.465, de 13.09.2005)
 
 ## Referencias detectadas
 

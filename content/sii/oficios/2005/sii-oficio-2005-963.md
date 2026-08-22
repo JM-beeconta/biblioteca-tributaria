@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 963
 - Año: 2005
-- Fecha: 2005-12-26
+- Fecha: 2005-04-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1067.doc
 - Hash SHA-256: 6dea222d36c6b97b4e0616e7537692b12cea2964d4f48ced6c7064eec91cf124
 
 ## Resumen
 
-, letra D), Art. 2�, N�1, Art. 19�, Art. 36�. Word Tratamiento Tributario de los Productos Exportados sin Retornos, destinados a Promociones en el Exterior, respecto de la Normativa Legal del Impuesto IVA y Renta. (Ord. N�5.058, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo del Trabajo, Art. 178�, Art. 305, N�2 � Oficios N�s 963 y 2.325, de 2005. Word Resuelve Reconsideraci�n de Oficio Ordinario N�963, de fecha 11.04.2005 del SII. (Ord. N� 5.057, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a…
+Word Resuelve Reconsideraci�n de Oficio Ordinario N�963, de fecha 11.04.2005 del SII. (Ord. N� 5.057, de 26.12.2005)
 
 ## Referencias detectadas
 

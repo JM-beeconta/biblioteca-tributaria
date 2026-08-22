@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Solicita instrucciones acerca de las Obligaciones Tributarias que pesan sobre los Contribuyentes Usuarios de Zona Franca, con respecto al Impuesto a los Tabacos Manufacturados y al Impuesto Adicional a las Bebidas Alcoh�licas. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra A), N� 1, Art. 41� � Decreto Supremo de Hacienda, N� 55, de 1977, Art. 64� � Ley N� 18.634. (Ord. N� 952, de 08.04.2005) Word Solicita se Informe la Raz�n por la cual se Grava con Impuesto al Valor Agregado,…
+Word Solicita se Informe la Raz�n por la cual se Grava con Impuesto al Valor Agregado, la Transferencia al Usuario de un Veh�culo Motorizado, en Circunstancias que este hab�a sido Transferido con anterioridad.
 
 ## Referencias detectadas
 

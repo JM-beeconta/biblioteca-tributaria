@@ -11,7 +11,7 @@
 
 ## Resumen
 
-anente de saldo de diferencia entre la depreciaci�n normal y acelerada, de acuerdo al inciso tercero del N�5 del art�culo 31 de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�1� - Ley N�19.947, Art.61� y sgtes. - Oficios N�s 4.605 y 4.606, de 2005. (Ord. N� 2890 , de 11.10.2007) Word Tratamiento tributario de compensaci�n econ�mica acordada entre las partes mediante una transacci�n en juicio de divorcio. Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Circular N�49�, de 2006. (Ord. N�…
+Word Tratamiento tributario de compensaci�n econ�mica acordada entre las partes mediante una transacci�n en juicio de divorcio.
 
 ## Referencias detectadas
 

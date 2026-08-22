@@ -11,7 +11,7 @@
 
 ## Resumen
 
-para su implementaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 64� bis, Art. 84�, letra h) � C�digo de Miner�a, Art. 116� � Circular N�55�, de 2005. (Ord. N� 1.164, de 28.05.2007) Word Aplicaci�n del concepto explotador minero que establece el art�culo 64� bis de la Ley de la Renta en caso que indica. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�3, Art. 42� bis � D.L. N� 3.500, de 1980 � Circular N� 32, de 2002. (Ord. N�1.163, de 28.05.2007) Word Tributaci�n de ahorro previsional voluntario invertid…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�3, Art. 42� bis � D.L. N� 3.500, de 1980 � Circular N� 32, de 2002.
 
 ## Referencias detectadas
 

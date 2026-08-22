@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-23
+- Fecha: 2006-08-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3557.htm
 - Hash SHA-256: 00b0da2bd26c04f6401e555be74de85aa9bb1a7fe8faa4f4ff47e3bd98a10522
 
 ## Resumen
 
-rme a los Arts. 48�, 74� N�s 3 y 4 de la Ley de la Renta. (Ord. N� 3.697, de 23.08.2006) Renta � Actual Ley sobre Impuesto a la � Ley N� 18.681, Art. 69, Ley N� 19.885, Art. 10 � Circular N� 24, de 1993. Efectos de renuncia al cr�dito tributario del art�culo 69 de la Ley N� 18.681, sobre Donaciones a Universidades e Institutos Profesionales. (Ord. N� 3696, de 23.08.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N�18.156 � Decreto Ley N�3.500, de 1980, Art. 18� � Circular N�1.295, de 2004. Word Solicita un pron…
+) Renta � Actual Ley Sobre Impuesto a la � Ley N�18.156 � Decreto Ley N�3.500, de 1980, Art. 18� � Circular N�1.295, de 2004.
 
 ## Referencias detectadas
 

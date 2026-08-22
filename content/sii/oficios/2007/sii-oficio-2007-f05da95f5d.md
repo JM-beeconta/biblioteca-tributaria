@@ -11,7 +11,7 @@
 
 ## Resumen
 
-f='renta/ja2521.doc'>Word Solicita se confirmen los criterios que expone en relaci�n con los Beneficios Empresariales de una Sociedad residente en Espa�a por las actividades que realiza en Chile. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1�. (Ord. N� 2454, de 17.08.2007) Word Se solicita aclarar con ejercicio pr�ctico el c�lculo del impuesto �nico al trabajo. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9, Art. 58�, N� 1 � C�digo Tributario, Art. 64� - C�digo Civil, Art. 1545 � C…
+Word Se solicita aclarar con ejercicio pr�ctico el c�lculo del impuesto �nico al trabajo.
 
 ## Referencias detectadas
 

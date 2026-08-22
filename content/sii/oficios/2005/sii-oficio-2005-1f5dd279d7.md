@@ -11,7 +11,7 @@
 
 ## Resumen
 
-culo 29�, de la Ley N� 18.591, en cuanto a la Forma de Imputar los Abonos efectuados por un deudor de facturas Impagas que ha sido declarado en Quiebra Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, Letra E), N� 13�, letra c) � Ley N� 16.528, de 1966, Art. 1�, Art. 3� � Decreto Supremo N� 1.270, de 1966, Art. 18� � Decreto con Fuerza de Ley N� 7, de 1980, Art�culo 1�. (Ord. N� 1.467, de 16.05.2005) Word Procedencia de las Exenciones otorgadas por la Ley N� 16.528, de 1996 y especial…
+Word Procedencia de las Exenciones otorgadas por la Ley N� 16.528, de 1996 y especialmente la Exenci�n Tributaria establecida en el N� 7, del Art�culo 18�, de su reglamento, contenido en el Decreto Supremo N� 1.270, de 1996.
 
 ## Referencias detectadas
 

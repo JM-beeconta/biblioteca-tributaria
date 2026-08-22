@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-24
+- Fecha: 2006-03-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1132.htm
 - Hash SHA-256: a165b62fa78c8b3fbc27fc728d0ac0ef08693a967ba31bbe5c2741d4c530102b
 
 ## Resumen
 
-ivado que adquiere la P�liza y tambi�n para el Titular de las cuotas del Fondo de Inversi�n Privado cuando el Fondo reparta Beneficios. (Ord. N� 699, de 24.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�3, Art. 57� bis � Circular N� 28, de 2002. Word Situaci�n Tributaria de los Seguros Dotales, de acuerdo a lo dispuesto por el N�3, del art�culo 17�, de la Ley de la Renta. (Ord. N� 944, de 15.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 33� bis, Art. 41� � Circular N� 41, de 1990. Word Fecha…
+, de 15.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 33� bis, Art. 41� � Circular N� 41, de 1990.
 
 ## Referencias detectadas
 

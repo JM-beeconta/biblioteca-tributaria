@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-19
+- Fecha: 2008-07-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1585.htm
 - Hash SHA-256: c7e39ec94c99ac3303979850016c14794c2a71578e2f4571167be7ff5fbe4338
 
 ## Resumen
 
-face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Ley N�20.026, de 2005, Art. 5� transitorio � D.L. N�600, de 1974, Art. 11� ter � Circular N� 60, de 2005. (Ord. N� 2.397, de 19.08.2008) Word Mantenci�n de los beneficios establecidos en el art�culo 5� transitorio de la Ley N� 20.026, de 2005, en caso que la empresa beneficiaria sea vendida total o parcialmente a un inversionista extranjero que materialice su inversi�n al amparo del D.L. N�600. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 6…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 68� � Decreto Ley N� 825, de 1974, Art. 29� � Resoluci�n Ex. N� 36, de 1977. (Ord. N� 1.585, de 29.07.2008)
 
 ## Referencias detectadas
 

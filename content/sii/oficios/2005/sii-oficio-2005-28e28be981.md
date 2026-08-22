@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-18
+- Fecha: 2005-01-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja871.htm
 - Hash SHA-256: bb896e41ffdb84fbb294019e129d71cb88acf0307cd911571c76b27c63437799
 
 ## Resumen
 
-l Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 5�, Art. 52� � Resoluci�n N� 6080, de 1999. (Ord. N� 163, de 18.01.2005) Word Aplicaci�n del Impuesto a las Ventas y Servicios contemplado en el Art�culo 8�, letra g), del D.L. N� 825, de 1974, a un Contrato de Arrendamiento Internacional de Bienes Corporales Muebles, en consideraci�n al Requisito de Territorialidad establecido en el Art�culo 5�, del citado decreto Ley. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Civil, Art. 20� �…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Civil, Art. 20� � C�digo de Comercio, Art. 3�, N� 1, Art. 95� � C�digo Aeron�utico, Art. 99� � Decreto Ley N� 2.564, de 1979, Art. 8� � Oficio N� 4.250, de 1999. (Ord. N� 077, de 10.01.2005)
 
 ## Referencias detectadas
 

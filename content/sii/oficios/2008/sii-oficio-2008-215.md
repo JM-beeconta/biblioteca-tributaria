@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 215
 - Año: 2008
-- Fecha: 2008-01-24
+- Fecha: 2008-01-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja0215.doc
 - Hash SHA-256: 85a76fe626354a77a46e005d9c65b5a2a75cf23a75a646bef63abda69bf7eb86
 
 ## Resumen
 
-Impuesto a la � Art. 17�, N�18�, Art. 31� N�6� � Circular N� 41, de 1999 Y N�40�, de 2001. (Ord. N� 191, de 24.01.2008) Word Normas Tributarias y Previsionales relativas a las becas de estudio. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A) N�1�, Art. 20� N�1�, Art. 39� - Ley N� 18.046, sobre Sociedades An�nimas, Art. 94� � C�digo Tributario, Art. 64� � Circular N� 45, de 2001 � Oficio N�215, de 1997. (Ord. N� 72, de 18.01.2008) Word Solicita pronunciamiento sobre la incidencia Tributaria que afectar�…
+Word Solicita pronunciamiento sobre la incidencia Tributaria que afectar�a la eventual Divisi�n de un Establecimiento Educacional organizado jur�dicamente como Sociedad de Personas.
 
 ## Referencias detectadas
 

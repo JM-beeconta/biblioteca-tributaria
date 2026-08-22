@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-24
+- Fecha: 2006-10-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3991.doc
 - Hash SHA-256: 7583a2937cf8defaa21f2a101a5d93c126941d3972609ce8814da14bb25bb7ca
 
 ## Resumen
 
-una Prestaci�n de salud otorgada por un tercero, la que es Financiada con un Bono de Isapre cuyo valor es inferior al Valor de la Prestaci�n en el nivel del Arancel Fonasa en el cual se encuentra inscrito el Prestador. (Oficio N� 4.363, de 24.10.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� bis, Art. 64� � Res. N� 3.721, de 2000. Word No procede solicitar en un mismo Per�odo Tributario, devoluci�n de Remanentes del Impuesto al Valor Agregado, por concepto de Cambio de Sujeto d…
+Word No procede solicitar en un mismo Per�odo Tributario, devoluci�n de Remanentes del Impuesto al Valor Agregado, por concepto de Cambio de Sujeto dispuesto en el Art�culo 3�, del D.L. N� 825, como por Activo Fijo, en virtud del Art. 27� bis, del mismo decreto ley. (Oficio N� 4.266, de 18.10.2006)
 
 ## Referencias detectadas
 

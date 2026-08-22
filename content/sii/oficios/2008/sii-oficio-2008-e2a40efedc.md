@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1.02.2008) Word Consultas relativas a Facturas de Compra por servicios recibidos y sobre Ingresos no Constitutivos de Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8� � Oficio N�2.360, de 1999. (Ord. N� 282, de 11.02.2008) Word Costo de enajenaci�n de acciones de Sociedad concesionaria Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 letra b), Art. 20� N�1� letra d), Art. 39� N�3� � C�digo Tributario, Art. 64� � D.L. N�825, de 1974, Art. 8� letra g) � Oficio N�215, de 1997- Circular N�45, de 2001…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 letra b), Art. 20� N�1� letra d), Art. 39� N�3� � C�digo Tributario, Art. 64� � D.L. N�825, de 1974, Art. 8� letra g) � Oficio N�215, de 1997- Circular N�45, de 2001. (Ord. N� 0245, de 01.02.2008)
 
 ## Referencias detectadas
 

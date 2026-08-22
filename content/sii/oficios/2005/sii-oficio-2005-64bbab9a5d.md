@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Pagadas por el Derecho a Explotar los Servicios de Cocina de Vuelo a las L�neas A�reas, los cuales seg�n Contrato deben ser reembolsados por el Beneficiario del Servicio. Tambi�n consulta acerca de la Documentaci�n a emitir por tal concepto. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 1, Art. 8�� C�digo Civil, Art. 1.915� � C�digo de Miner�a, Art. 2�, Art. 171�. (Ord. N� 1.671, de 02.06.2005) Word Impuesto al Valor Agregado establecido en el Art�culo 8�, del Decreto Ley N� 825,…
+Word Impuesto al Valor Agregado establecido en el Art�culo 8�, del Decreto Ley N� 825, de 1974, al Arrendatario de una Pertenencia Minera
 
 ## Referencias detectadas
 

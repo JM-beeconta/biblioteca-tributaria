@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-26
+- Fecha: 2005-12-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1079.htm
 - Hash SHA-256: 4bfa9acbaaadddeec21e8d8cbcfb441aa8a8bb2b9f68bb0adfee621086fdf77a
 
 ## Resumen
 
-81.doc">Word Solicita Pronunciamiento en Relaci�n con la Tributaci�n respecto del IVA que afectar�a al Arrendamiento de Predio Agr�cola. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8, letra g), Art. 17�. (Ord. N� 5.055, de 26.12.2005) Word Pide se ratifique si el Arriendo en los T�rminos se�alados, estar�a afecto a IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra e), Art. 55�, Art. 69� � C�digo Civil, Art. 1.996�. (Ord. N� 5.032, de 21.12.2005)…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra e), Art. 55�, Art. 69� � C�digo Civil, Art. 1.996�. (Ord. N� 5.032, de 21.12.2005)
 
 ## Referencias detectadas
 

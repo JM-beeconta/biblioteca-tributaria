@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Situaci�n tributaria en venta de derechos sociales a una sociedad relacionada, aplic�ndose lo dispuesto en el inciso pen�ltimo art�culo 41, para la determinaci�n de los costos tributarios. Renta � Actual Ley Sobre Impuesto a la � Art. 31� inciso primero, Art. 31� N�5, Art. 41� N�2�. (Ord. N� 2593, de 06.09.2007) Word Solicita confirmar criterios con relaci�n al tratamiento tributario de ciertos desembolsos a realizarse en la situaci�n que se describe. Renta � Normas Internacionales � Convenio entre Chile y el Rein…
+Word Solicita confirmar criterios con relaci�n al tratamiento tributario de ciertos desembolsos a realizarse en la situaci�n que se describe.
 
 ## Referencias detectadas
 

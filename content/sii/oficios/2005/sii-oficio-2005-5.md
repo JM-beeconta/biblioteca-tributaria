@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5
 - Año: 2005
-- Fecha: 2005-08-01
+- Fecha: 2005-07-21
 - Categoría: Renta, IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja996.doc
 - Hash SHA-256: 20dc3eb5ab5742356cfdb10b2789391acd33cd81b15a825e3c3a7f8219bc1132
 
 ## Resumen
 
-42�, N� 2. (Ord. N� 2.858, de 01.08.2005) Word Solicita se reclasifique a las Empresas de Aseo como contribuyentes exentos de IVA, por encontrarse Sujetos a las Normas del Art�culo 42�, N�2, de la Ley de la Renta. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d) � C�digo Sanitario, Art. 97 � Oficio N� 5.490, de 2004. (Ord. N� 2.632, de 21.07.2005) Word Aplicaci�n del Impuesto Adicional del Art�culo 42, del Decreto Ley N� 825, de 1974, a las Bebidas Energizantes. Ventas y Serv…
+Word Aplicaci�n del Impuesto Adicional del Art�culo 42, del Decreto Ley N� 825, de 1974, a las Bebidas Energizantes.
 
 ## Referencias detectadas
 

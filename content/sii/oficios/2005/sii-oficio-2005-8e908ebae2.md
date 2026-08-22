@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cio N� 4.250, de 1999. (Ord. N� 077, de 10.01.2005) Word Art�culo 8�, del Decreto Ley N�2.564, de 1979. Procedimiento Especial para el Pago del Impuesto al Valor Agregado en Importaci�n de Aeronaves. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, Art. 24� � C�digo Tributario, Art. 126� � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 076, de 10.01.2005) Word Consulta sobre la Procedencia de autorizar Rectificatoria del F29, por Aumento del remanente de Cr�dito Especial, del Art�cul…
+Word Consulta sobre la Procedencia de autorizar Rectificatoria del F29, por Aumento del remanente de Cr�dito Especial, del Art�culo 21�, del Decreto Ley N� 910 o aumento del Cr�dito Fiscal, en diversas Situaciones que se detallan. (Art. 1126�, del C�digo Tributario)
 
 ## Referencias detectadas
 

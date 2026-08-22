@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-02
+- Fecha: 2006-07-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3427.htm
 - Hash SHA-256: e49a66b9fa3b1e5eb726398c6beb721f4d219f05da28a0333e185ddf37532732
 
 ## Resumen
 
-o N�4.122, de 2002. Word Solicita pronunciamiento con respecto a la aplicaci�n del r�gimen de Zona Franca a las compras de Combustibles efectuadas por Empresarios Propietarios de buses destinados a la Locomoci�n Colectiva efectuadas a trav�s de un Mandatario, el que posteriormente ser� utilizado en sus maquinas dentro de la Zona de Extensi�n. (Oficio N� 3529, de 02.08.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra g), Art. 53�. Word Impuesto al Valor Agregado en arrendamie…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra g), Art. 53�.
 
 ## Referencias detectadas
 

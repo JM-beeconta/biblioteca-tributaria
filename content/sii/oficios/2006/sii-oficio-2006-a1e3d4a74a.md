@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-23
+- Fecha: 2006-08-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3556.htm
 - Hash SHA-256: a0bea3b5c8cd01dbdadfc8396b551c75fb5bf6b86d72fc007f8bb121ff0878df
 
 ## Resumen
 
-23.08.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N�18.156 � Decreto Ley N�3.500, de 1980, Art. 18� � Circular N�1.295, de 2004. Word Solicita un pronunciamiento en el cual se aclare y precise la Tributaci�n que afecta a la Devoluci�n de Fondos Previsionales cuando estos sean destinados exclusivamente a obtener una Renta Vitalicia. (Ord. N� 3.557, de 07.08.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42 Ter � Decreto Ley N�3.500, de 1980, Art. 71� - Ley N�19.768, de 2001, Art. 6� Transitorio � Oficio…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42 Ter � Decreto Ley N�3.500, de 1980, Art. 71� - Ley N�19.768, de 2001, Art. 6� Transitorio � Oficio N� 1.043, de 2005.
 
 ## Referencias detectadas
 

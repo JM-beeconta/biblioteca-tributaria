@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Facturas pendientes de Pago en caso de Emisi�n de Notas de D�bito conforme al procedimiento establecido en el art�culo 29�, de la Ley N� 18.591. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 9�, Art. 40�, Art. 42�, Art. 64�, Art. 69� � C�digo Civil, Art. 19� � C�digo Penal, Art. 470�, N�1 � Ley N� 18.591, Art. 29� � Circular N� 12, de 1987 � Oficio N� 463, de 2005. (Ord. N� 1.468, de 16.05.2004) Word Solicita reconsideraci�n del oficio N� 463, del 09 de febrero de 2005, el cual aclara l…
+Word Solicita reconsideraci�n del oficio N� 463, del 09 de febrero de 2005, el cual aclara las instrucciones acerca de la Aplicaci�n de lo dispuesto por el Art�culo 29�, de la Ley N� 18.591, en cuanto a la Forma de Imputar los Abonos efectuados por un deudor de facturas Impagas que ha sido declarado en Quiebra
 
 ## Referencias detectadas
 

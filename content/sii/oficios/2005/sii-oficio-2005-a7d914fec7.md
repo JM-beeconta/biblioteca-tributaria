@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-24
+- Fecha: 2005-11-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1053.htm
 - Hash SHA-256: 3e9239140b09c75c3ccf44d207db93d1905cde0e47632a8e5a9ad18c750b9894
 
 ## Resumen
 
-�, N� 2, Art. 42� bis, Art. 50�, Art. 55 � Decreto Ley N� 3.500, de 1980, Art. 18� � Circular N� 53, de 1990 � Oficio N� 6.524, de 2003. Word Improcedencia de los Empresarios Individuales, Socios de Sociedades de Personas, y Socios Gestores de Sociedades en Comandita por Acciones, de acogerse a las normas del Art�culo 42� bis de la Ley de la Renta. (Ord. N� 4.652, de 24.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra c) � Circulares N�s 58 y 63, de 1990. Word El Arrendamiento de un Predio Ag…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra c) � Circulares N�s 58 y 63, de 1990.
 
 ## Referencias detectadas
 

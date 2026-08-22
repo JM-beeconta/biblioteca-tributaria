@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto por el art�culo 42� ter de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 18.045 � Circular N� 35, de 2008. (Ord. N� 1.483, de 14.07.2008) Word Acciones de sociedades an�nimas que se puedan acoger al tratamiento tributario especial establecido en el art�culo 18 ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�, N� 1 � Circular N� 24, de 2008. (Ord. N� 1.480, de 14.07.2008) Word Consultas relacionadas con el castigo de deu…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�, N� 1 � Circular N� 24, de 2008. (Ord. N� 1.480, de 14.07.2008)
 
 ## Referencias detectadas
 

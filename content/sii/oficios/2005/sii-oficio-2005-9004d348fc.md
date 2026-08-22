@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Ley sobre Impuesto a las Ventas y Servicios, Art. 2�, N� 2, Art. 8�, Art. 55� � Circular N� 100, de 1975. Word Aplicaci�n del Impuesto al Valor Agregado, establecido en el Art�culo 2�, N�2 y 8�, del Decreto Ley N� 825 y en la Ley de Impuesto a la Renta, a las Labores de Intermediaci�n y promoci�n Tur�stica Desarrolladas en la forma que indica. (Ord. N� 566, de 25.02.2005) Renta � Actual Ley Sobre Impuesto a la � Circular N� 59, de 2004 � Resoluci�n Exenta N� 116, de 2004. Word Forma en que deben efectuarse los a…
+Renta � Actual Ley Sobre Impuesto a la � Circular N� 59, de 2004 � Resoluci�n Exenta N� 116, de 2004.
 
 ## Referencias detectadas
 

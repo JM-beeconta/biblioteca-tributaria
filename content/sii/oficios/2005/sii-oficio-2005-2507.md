@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b), Art. 18� � Decreto Ley N� 2.695, de 1979. Word C�mputo del Plazo de un a�o para Efectos de la Presunci�n de Habitualidad del inciso tercero del Art�culo 18�, de la Ley de la Renta, en caso de Enajenaci�n de Inmueble adquirido por Prescripci�n en virtud del D.L. N�2.695, de 1979, sobre Saneamiento de Dominio de la Peque�a Propiedad. (Ord. N� 116, de 13.01.2006) Renta � Actual Ley sobre Impuesto a la � Oficios N� 2507, de 2005 y N� 7376, de 1975. Info…
+13.01.2006) Renta � Actual Ley sobre Impuesto a la � Oficios N� 2507, de 2005 y N� 7376, de 1975. Informa sobre solicitud de reconsideraci�n de contribuyente que se indica � Asignaci�n de zona - Inaplicabilidad del impuesto �nico. (Ord. N� 65, de 11.01.2006)
 
 ## Referencias detectadas
 

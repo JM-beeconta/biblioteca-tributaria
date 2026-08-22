@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 845
 - Año: 2007
-- Fecha: 2007-09-11
+- Fecha: 2007-09-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2595.doc
 - Hash SHA-256: 0cf015eeda9af871b248749c9f69fc5b4d3b6c61f6bb31fcc56737eb15a669f5
 
 ## Resumen
 
-11.09.2007) Word Tratamiento tributario de la enajenaci�n de acciones en caso que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�1�, Art. 43� N�1�, Art. 45�, Art. 46� - Ley N� 20.134, de 2006 � Circular N�37, de 1990. (Ord. N� 2595, de 06.09.2007) Word Tributaci�n que afecta a beneficio pecuniario denominado bono extraordinario concedido por Ley N�20.134, de 2006, a exonerados pol�ticos. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 41�, Art. 56� N�3, Art. 63�- Circular N�60, de 1990. (Or…
+Word Tributaci�n que afecta a beneficio pecuniario denominado bono extraordinario concedido por Ley N�20.134, de 2006, a exonerados pol�ticos.
 
 ## Referencias detectadas
 

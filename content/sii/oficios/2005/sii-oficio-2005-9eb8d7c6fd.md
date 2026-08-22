@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-04
+- Fecha: 2005-08-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja997.htm
 - Hash SHA-256: 371d3bf82cd0b0bf015924f0d4f9eebcdfb3f97a2b2bfc1c4f25e92bca8defdf
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 13�, N� 5, N� 6, letras b) y c) y N� 7 � Ley de la Renta, Art. 20�, N�4 � C�digo Civil, Art. 19�. (Ord. N� 2.887, de 04.08.2005) Word Consulta sobre Tributaci�n aplicable a Servicios de Hemodi�lisis y Di�lisis Peritoneal, prestados por un Centro M�dico. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley de la Renta, Art. 20�, Art. 42�, N� 2. (Ord. N� 2.858, de 01.08.2005) Word Solicita se reclasi…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley de la Renta, Art. 20�, Art. 42�, N� 2. (Ord. N� 2.858, de 01.08.2005)
 
 ## Referencias detectadas
 

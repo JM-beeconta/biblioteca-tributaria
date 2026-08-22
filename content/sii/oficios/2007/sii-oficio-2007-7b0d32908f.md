@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href='renta/ja2997.doc'>Word Incidencia en Chile de las variaciones del tipo de cambio de las monedas de los pa�ses en donde se encuentran radicadas las agencias de empresas nacionales. Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�5� - Ley N�19.738, del 2001 � Circular N�65, de 2001. (Ord. N� 2974, de 22.10.2007) Word Orden de imputaci�n de la distribuci�n de dividendos, cuando existe remanente de saldo de diferencia entre la depreciaci�n normal y acelerada, de acuerdo al inciso tercero del N�5 del art�culo…
+Word Orden de imputaci�n de la distribuci�n de dividendos, cuando existe remanente de saldo de diferencia entre la depreciaci�n normal y acelerada, de acuerdo al inciso tercero del N�5 del art�culo 31 de la Ley de la Renta.
 
 ## Referencias detectadas
 

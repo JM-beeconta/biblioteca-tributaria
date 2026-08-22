@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-07-26
+- Fecha: 2006-07-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3175.doc
 - Hash SHA-256: d1e220d5defd38ae05b9c64deef8baeafaa620720c9080d50a67c10a382251eb
 
 ## Resumen
 
-� Art. 8� Letra g), Art. 53�. Word Impuesto al Valor Agregado en arrendamiento a estudiantes de un inmueble con habitaciones privadas sin amoblar y espacios comunes equipados. (Oficio N� 3.427, de 26.07.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo de Hacienda N� 341, de 1977, Art. 23� Word Solicita pronunciamiento respecto a la aplicaci�n del R�gimen de Zona Franca establecido en el DFL. N�341, de 1977, a los Servicios de Seguridad y Vigilancia que ser�n prestados a us…
+Word Solicita pronunciamiento respecto a la aplicaci�n del R�gimen de Zona Franca establecido en el DFL. N�341, de 1977, a los Servicios de Seguridad y Vigilancia que ser�n prestados a usuarios de la referida Zona. (Oficio N�3.175, de 10.07.2006)
 
 ## Referencias detectadas
 

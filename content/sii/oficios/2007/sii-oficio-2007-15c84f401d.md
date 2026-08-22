@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-12-13
+- Fecha: 2007-11-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja3233.htm
 - Hash SHA-256: e4ae7e23f4e5a42674d6f3d3fa328194e7eedea1a83e4be90b02b075f246519d
 
 ## Resumen
 
-s a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27 Bis � Circular N�124, de 1975. (Ord. N�3.389, de 13.12.2007) Word Situaci�n del IVA previamente devuelto de conformidad con el inciso segundo del art�culo 27 Bis, del D.L. 825, en caso de Divisi�n de la Sociedad Beneficiaria. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2�, Art. 20� - C�digo de Comercio, Art. 3� - C�digo T…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2�, Art. 20� - C�digo de Comercio, Art. 3� - C�digo Tributario, Art. 64�. (Ord. N� 3233, de 27.11.2007)
 
 ## Referencias detectadas
 

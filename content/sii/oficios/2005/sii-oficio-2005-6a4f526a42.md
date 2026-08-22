@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-15
+- Fecha: 2005-12-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1065.htm
 - Hash SHA-256: d1e465c6075c5d361a77ca90a713193147463fa22cc03bb342978be6754d4afc
 
 ## Resumen
 
-ef="ventas/ja1077.doc">Word Aplicaci�n del Art�culo 29�, de la Ley N� 18.591, a anticipo de IVA, Facturado a Contribuyente declarado en Quiebra. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto (Ord. N� 4965, de 15.12.2005). Alcance de las exenciones impositivas que favorecen a la Isla de Pascua, en relaci�n a una Sociedad Operadora de Casino de Juego. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Tributario, Art. 28� � C�digo de Comercio, Art. 507�, Art. 510� � Circular N…
+no de Juego. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Tributario, Art. 28� � C�digo de Comercio, Art. 507�, Art. 510� � Circular N� 29, de 1999. (Ord. N� 4.843, de 09.12.2005)
 
 ## Referencias detectadas
 

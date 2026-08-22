@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-26
+- Fecha: 2008-01-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja227.htm
 - Hash SHA-256: 3c64cab978a662eb61d4f1b765ab29095452f96f968c16cd281eb57d21fd3ffc
 
 ## Resumen
 
-' size='1'> Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Sobre Sociedades An�nimas, Art. 99� � C�digo Tributario, Art. 64� � Oficio N� 664, de 2007. (Ord. N� 407, de 26.02.2008) Word Situaci�n Tributaria de valorizaci�n de entidades y canje de acciones, en proceso de fusi�n de sociedades, con relaci�n a las facultades de tasaci�n previstas en el art�culo 64 del C�digo Tributario. Renta � Normas Internacionales � Convenio entre Chile y los Estados Unidos Mexicanos para Evitar la Doble imposici�n y Preven…
+Renta � Normas Internacionales � Convenio entre Chile y los Estados Unidos Mexicanos para Evitar la Doble imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta, Art. 14�. (Ord. N� 227, de 30.01.2008)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-28
+- Fecha: 2005-03-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja915.doc
 - Hash SHA-256: 505d8748b1ceb75937349bcf7c5f23de1a1d90a55948d4d014ae787e79489a43
 
 ## Resumen
 
-N� 793, de 28.03.2005) Word Tratamiento Tributario aplicable en relaci�n con el Impuesto espec�fico a los Combustibles a Producci�n Local e Importaci�n del producto Diesel del Invierno o Gasoil Minero Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 59� � C�digo Tributario, Art. 126�, N� 2 � Circulares N�s 72, de 2001 y 48, de 2004. (Ord. N� 710, de 18.03.2005) Word Consulta sobre Procedimiento a seguir para Regularizar el Impuesto al Valor Agregado, cuando se Producen Diferencias en este…
+Word Consulta sobre Procedimiento a seguir para Regularizar el Impuesto al Valor Agregado, cuando se Producen Diferencias en este Tributo en las Declaraciones de Importaci�n Aduanera (DIN).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94, de 2001. (Ord. N� 855, de 25.04.2008) Word Restituci�n adicional del IVA conforme al art�culo 27 Bis. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 5�, Art. 8�, Art. 12� Letra E N�7� - Ley de la Renta, Art. 20� N�3� Y 14�, Art. 42� N�2�, Art. 59� N�2� - Circular N�21�, de 1991. (Ord. N�854, de 25.04.2008) Word Tratamiento tributario de los servicios de telefon�a IP, prestados en el…
+Word Tratamiento tributario de los servicios de telefon�a IP, prestados en el pa�s por una compa��a extranjera a trav�s de vendedores comisionistas.
 
 ## Referencias detectadas
 

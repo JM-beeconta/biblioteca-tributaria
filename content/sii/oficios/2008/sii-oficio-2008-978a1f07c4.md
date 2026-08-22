@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.doc'>Word Consulta relativa a la aplicaci�n del inciso primero del art�culo 17�, del Decreto Ley N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. N� 2�, N� 2 � Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.431, de 07.07.2008) Word Documentaci�n que se debe emitir en caso de reembolso de gastos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 2�, N� 5, Art. 24� � C�digo Tributario, Art. 126�. (Ord. N� 1.430, de 07.07.2008) Word Devoluci�n…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 2�, N� 5, Art. 24� � C�digo Tributario, Art. 126�. (Ord. N� 1.430, de 07.07.2008)
 
 ## Referencias detectadas
 

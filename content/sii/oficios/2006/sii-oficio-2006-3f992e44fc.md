@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-28
+- Fecha: 2006-12-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4034.htm
 - Hash SHA-256: cc4f7085cc7347ace4da3edf589e6735f907543036000fed1258fb56f1e13b18
 
 ## Resumen
 
-6.doc'>Word Tributaci�n a que se encuentra afecta Fundaci�n de Derecho P�blico. (Ord. N� 4.998, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Decreto Ley N� 3.500, de 1980, Art. 21�, Art. 22� � Circulares N��s 56, de 1993 y 32, de 1994. Word Tratamiento Tributario de retiro efectuado de Cuenta de Ahorro Voluntario en una AFP. (Ord. N� 4.979, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�9, Art. 41�, N�7 � Circulares N��s 53, de 1978 y 54, de 1984. Word Tratamiento Tributario de dese…
+8.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�9, Art. 41�, N�7 � Circulares N��s 53, de 1978 y 54, de 1984.
 
 ## Referencias detectadas
 

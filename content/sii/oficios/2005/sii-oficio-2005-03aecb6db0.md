@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-02
+- Fecha: 2005-05-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja968.doc
 - Hash SHA-256: e6b1755f9577699c4dc35f738a7247bcda8f0f20a925cde4b4357438665c94a4
 
 ## Resumen
 
-o de Miner�a, Art. 2�, Art. 171�. (Ord. N� 1.671, de 02.06.2005) Word Impuesto al Valor Agregado establecido en el Art�culo 8�, del Decreto Ley N� 825, de 1974, al Arrendatario de una Pertenencia Minera Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 10� � Decreto Supremo N� 55, de 1977, Art. 22�, Art. 73�. (Ord. N� 1.552 de 25.05.2005) Word Emisi�n de Documentaci�n Tributaria por cuenta del Mandante, seg�n los Art�culos 22� y 73�, del Decreto Supremo de Hacienda N…
+Word Emisi�n de Documentaci�n Tributaria por cuenta del Mandante, seg�n los Art�culos 22� y 73�, del Decreto Supremo de Hacienda N�55, de 1977, que contiene el reglamento del Decreto Ley N�825, en caso de un Mandatario Prestador de Servicios
 
 ## Referencias detectadas
 

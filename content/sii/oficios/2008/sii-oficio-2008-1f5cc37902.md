@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-08
+- Fecha: 2008-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja548.doc
 - Hash SHA-256: d61beac047bd5d806de0607aff8baee21f7851b139aaeb8bb2fbfd128f89309e
 
 ## Resumen
 
-sobre Impuesto a las � Ley N� 18.502, de 1986, Art.1�, inciso 5�, 6� y 8� - Constituci�n Pol�tica de Chile, Art. 63 N�14, Art. 65 N�1�.(Ord. N� 654, de 08.04.2008) Word Pronunciamiento relativo al pago del componente fijo del impuesto al Gas Natural Comprimido de la Ley N�18.502, en caso de desabastecimiento. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Resoluci�n Exenta N�6080, de 1999. (Ord. N� 548, de 20.03.2008) Word Consulta acerca de la procedencia de emitir facturas exentas o no grav…
+Word Consulta acerca de la procedencia de emitir facturas exentas o no gravadas en las operaciones que realiza.
 
 ## Referencias detectadas
 

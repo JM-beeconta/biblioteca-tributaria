@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lign="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Circulares N�s 17, de 1995 y 72, de 1996 � Oficios N�s 1.849, 3.850 y 4.424, de 2001. Word Tratamiento Tributario de Diferencias entre el Precio de Adquisici�n de las Acciones y el Valor Libro de los Activos Monetarios por Fusi�n Impropia. (Ord. N� 3.465, de 13.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � C�digo Tributario, Art. 126� � Circular N� 29, de 1991. Word Determinaci�n del L�mite no Constitutito de Renta de las Indemnizacione…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � C�digo Tributario, Art. 126� � Circular N� 29, de 1991.
 
 ## Referencias detectadas
 

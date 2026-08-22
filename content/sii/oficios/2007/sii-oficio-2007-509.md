@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Situaci�n tributaria respecto de honorarios y sueldos que se pagan a socios personas naturales por los servicios que prestan a otras sociedades. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis, N�3�, Art. 42� N�1 � C�digo Tributario, Art. 126� - Oficio Ord. N�509, de 2007. (Ord. N� 2731, de 26.09.2007) Word Solicita confirmar criterio respecto al tratamiento tributario de los retiros anticipados de ahorro previsional voluntario. Renta � Actual Ley Sobre Impuesto a la � Art. 58� N� 1�, Art. 41�, ART. N� 31� N…
+Word Solicita confirmar criterio respecto al tratamiento tributario de los retiros anticipados de ahorro previsional voluntario.
 
 ## Referencias detectadas
 

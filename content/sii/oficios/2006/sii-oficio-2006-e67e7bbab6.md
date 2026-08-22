@@ -11,7 +11,7 @@
 
 ## Resumen
 
-P. (Ord. N� 4.979, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�9, Art. 41�, N�7 � Circulares N��s 53, de 1978 y 54, de 1984. Word Tratamiento Tributario de desembolsos que se indican. (Ord. N� 4.978, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�29 � Ley N� 20.027, Art. 25� � Res. Ex. N� 6.080, de 1999 � Circular N� 39, de 2000. Word Tratamiento tributario de los aportes que recibe la Comisi�n Administradora del Sistema de Cr�ditos para Estudios Superiores por parte de…
+Word Tratamiento tributario de los aportes que recibe la Comisi�n Administradora del Sistema de Cr�ditos para Estudios Superiores por parte de las Instituciones de Educaci�n Superior y documentaci�n a emitir para acreditar dichos aportes, seg�n la Ley N�20.027, de 2005. (Ord. N� 4.977, de 28.12.2006)
 
 ## Referencias detectadas
 

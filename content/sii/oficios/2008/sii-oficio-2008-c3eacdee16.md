@@ -11,7 +11,7 @@
 
 ## Resumen
 
-face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 31�. (Ord. N� 864, de 25.04.2008) Word Determinaci�n del Good Will, cuando el capital propio tributario de la sociedad absorbida es negativo en una fusi�n impropia. Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 59� N�2�, Art. 74� N�4�, Art. 79� - C�digo Tributario, Art. 8� N�8� - C�digo Civil, Art. 59�. (Ord. N� 863, de 25.04.2008) Word Tributaci�n que afecta a prestador de salud extranjero que realiza tratamiento de rehabilita…
+Word Tributaci�n que afecta a prestador de salud extranjero que realiza tratamiento de rehabilitaci�n a paciente chileno.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-23�, Art. 27� bis, Art. 36� � Circulares N��s 55, de 1985 y 94, de 2001. (Ord. N� 780, de 04.04.2007) Word Solicitud de devoluci�n de remanentes de cr�dito fiscal de acuerdo con el art�culo 27� bis, efectuada por un contribuyente que es considerado exportador. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra E), N�2, Art. 20� � Ley N�19.764, Art. 2� � Ley N�18.502, Art. 6�. (Ord. N� 779, de 04.04.2007) Word Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel contenido en el…
+Word Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel contenido en el art�culo 6�, de la Ley N�18.502, que pueden realizar las empresas de transporte terrestre, en virtud del art�culo 2�, de la Ley N�19.764.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-15
+- Fecha: 2006-03-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1131.htm
 - Hash SHA-256: 59d7015e18e8332fdcc435ae44c5e6e4df44399859498bbb59b2ca8ec1f2176d
 
 ## Resumen
 
-s Dotales, de acuerdo a lo dispuesto por el N�3, del art�culo 17�, de la Ley de la Renta. (Ord. N� 944, de 15.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 33� bis, Art. 41� � Circular N� 41, de 1990. Word Fecha en la cual se debe Calcular el Cr�dito de 4%, del Activo Fijo en el caso de una Plantaci�n de Olivos, de acuerdo a lo dispuesto por el Art�culo 33� bis de la Ley de la Renta. (Ord. N� 938, de 14.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�3, Art. 74�, N�4, Art. 79� � Circular N� 2…
+, de 14.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�3, Art. 74�, N�4, Art. 79� � Circular N� 21, de 1991 � Oficio N� 298, de 2004.
 
 ## Referencias detectadas
 

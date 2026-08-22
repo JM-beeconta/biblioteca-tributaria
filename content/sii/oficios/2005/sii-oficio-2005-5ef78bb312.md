@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-28
+- Fecha: 2005-06-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja978.doc
 - Hash SHA-256: 666d747f3a659e9f0371a2f09d1b206250bceddf2e0d54699db4766315450b22
 
 ## Resumen
 
-74�, N� 4 � C�digo Tributario, Art. 69� � Circulares N�s 53 y 60, de 1990, 17, de 1995. Word Situaci�n tributaria de los excesos de retiros en el caso del fallecimiento de un socio de una sociedad de responsabilidad limitada. (Ord. N� 2.331, de 28.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 2 � Decreto con Fuerza de Ley N� 5, de 2003, Art. 49�. Word Tributaci�n que afecta la enajenaci�n de terreno perteneciente a una Cooperativa, seg�n las normas de la Ley de la Renta. (Ord. N� 2.318, de 24.06.2…
+Word Tributaci�n que afecta la enajenaci�n de terreno perteneciente a una Cooperativa, seg�n las normas de la Ley de la Renta. (Ord. N� 2.318, de 24.06.2005)
 
 ## Referencias detectadas
 

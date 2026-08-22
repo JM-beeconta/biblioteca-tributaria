@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sobre Impuesto a la Renta, Art. 17�, N�8, Art. 20�, Art. 31�. Word Tratamiento Tributario del Aporte de Bienes Ra�ces a una Sociedad. (Oficio N� 027, del 05.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letras b) y m), Art. 27� bis � C�digo Civil Art. 571� � Decreto Supremo N� 1.139, de 1990. Word Aplicaci�n del Hecho Gravado en el Art�culo 8�, letra m), del D.L. 825, al Aporte de un Bien Ra�z Agr�cola y Plantaciones de �rboles Frutales. (Oficio N� 026, de 05.01.2006) Venta…
+Word Aplicaci�n del Hecho Gravado en el Art�culo 8�, letra m), del D.L. 825, al Aporte de un Bien Ra�z Agr�cola y Plantaciones de �rboles Frutales. (Oficio N� 026, de 05.01.2006)
 
 ## Referencias detectadas
 

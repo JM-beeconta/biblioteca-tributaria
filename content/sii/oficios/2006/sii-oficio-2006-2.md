@@ -11,7 +11,7 @@
 
 ## Resumen
 
-IVA la adjudicaci�n y venta en el proceso de liquidaci�n de una empresa inmobiliaria que previamente se fusion� por incorporaci�n, con una empresa constructora. (Oficio N�1.874, de 23.05.2006 ) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra B) N�10 � Decreto Ley N� 600, de 1974 � Circular N� 48, de 1978 � Oficio N� 2.665, de 2002. Word Pronunciamiento con relaci�n a la aplicaci�n de la exenci�n establecida en el art�culo 12� letra b) N�10 del Decreto Ley 825, a la importaci�n d…
+Word Pronunciamiento con relaci�n a la aplicaci�n de la exenci�n establecida en el art�culo 12� letra b) N�10 del Decreto Ley 825, a la importaci�n de bienes de capital y si el posterior arrendamiento con opci�n de compra de los bienes internados constituyen operaciones gravadas con IVA. (Oficio N� 1.850, de 23.05.2006)
 
 ## Referencias detectadas
 

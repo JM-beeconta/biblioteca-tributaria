@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-20
+- Fecha: 2005-06-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja970.htm
 - Hash SHA-256: afb7d9c74a5457d3e0f36c1182836c09bd46ce17f331f675f0d829e778a0982c
 
 ## Resumen
 
-lign="JUSTIFY"> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Decreto Supremo N� 266, de 1970, del Ministerio de Relaciones Exteriores. (Ord. N�1.852, de 20.06.2005) Word Solicita Pronunciamiento sobre si las Facturas emitidas por las Obras Ejecutadas por las Empresas El�ctricas en los Proyectos PER, est�n Exentas de IVA. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2 � Oficio N� 2.454, de 2003. (Ord. N� 1.823, de 15.06.2005) Word…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2 � Oficio N� 2.454, de 2003. (Ord. N� 1.823, de 15.06.2005)
 
 ## Referencias detectadas
 

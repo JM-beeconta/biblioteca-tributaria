@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-18
+- Fecha: 2005-08-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1001.htm
 - Hash SHA-256: 1129b9b9928288bd8646be5413214ffd539c852bd451ff5c04b630baeff27166
 
 ## Resumen
 
-l" size="1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N� 1 y 2. (Ord. N� 3.055, de 18.08.2005) Word No procede el uso como Cr�dito Fiscal, del Impuesto al Valor Agregado soportado en el Pago de Primas de Seguros de Vida y Complementarios de Salud, contratados por una Empresa en beneficio de sus Trabajadores. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 12�, letra E), N� 10, Art. 8�, Letras a), y g) � C�digo Tributario, Art. 28�, C�di…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 12�, letra E), N� 10, Art. 8�, Letras a), y g) � C�digo Tributario, Art. 28�, C�digo de Comercio, Art. 3�, N� 11, Art. 507� � Circular N� 29, de 1999 � Oficio N� 364, de 2000. (Ord. N� 2.920, de 09.08.2005)
 
 ## Referencias detectadas
 

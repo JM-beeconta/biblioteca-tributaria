@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234 � Oficio N� 235, de 2006. Word Tributaci�n frente a la Ley de la Renta de Asesor�a Cient�fica prestada en Chile por una persona natural sin Domicilio ni Residencia en el pa�s, contratada por una Universidad reconocida por el Estado, conforme a lo dispuesto por el art�culo 59�, de la Ley del ramo y el art�culo N� 234, de la Ley N� 16.840. (Ord. N� 4.655, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 6…
+Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 69�, Art. 70� � Oficio N� 634, de 1993.
 
 ## Referencias detectadas
 

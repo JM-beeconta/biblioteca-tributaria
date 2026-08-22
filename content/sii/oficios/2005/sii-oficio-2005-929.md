@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Solicita se Informe la Raz�n por la cual se Grava con Impuesto al Valor Agregado, la Transferencia al Usuario de un Veh�culo Motorizado, en Circunstancias que este hab�a sido Transferido con anterioridad. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 12�, Art. 13�, N� 4 � Circular N� 11, de 2004 � Oficio N� 929, de 1991 (Ord. N� 933, de 05.04.2005) Word Art�culo 8�, letra g), Decreto ley N�825, de 1974. Arriendo de Establecimientos y Gimnasios para la Pr�ctica de…
+Word Art�culo 8�, letra g), Decreto ley N�825, de 1974. Arriendo de Establecimientos y Gimnasios para la Pr�ctica de Actividades Deportivas.
 
 ## Referencias detectadas
 

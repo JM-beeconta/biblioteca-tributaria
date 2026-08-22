@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ign='JUSTIFY'> Renta- Ley sobre Impuesto a la � Art. 59 - Convenio entre la Rep�blica de Chile y la Rep�blica Federativa del Brasil para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta � Art. 4, Art. 12, Art. 14 - C�digo Tributario, Art. 9. (Ord. N� 1.165, de 28.05.2007) Tributaci�n que afecta a la licencia de un software y al pago de consultor�as para su implementaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 64� bis, Art. 84�, letra h) � C�digo de Miner�a, Art…
+Renta � Actual Ley Sobre Impuesto a la � Art. 64� bis, Art. 84�, letra h) � C�digo de Miner�a, Art. 116� � Circular N�55�, de 2005.
 
 ## Referencias detectadas
 

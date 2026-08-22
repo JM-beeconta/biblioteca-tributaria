@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 6
 - Año: 2005
-- Fecha: 2005-04-15
+- Fecha: 2005-04-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja927.doc
 - Hash SHA-256: 2bc77ca4daa3df8e5a24d211e0b97faf1eb8b74c883022bcfca8ea307585371c
 
 ## Resumen
 
-ergente las Sumas Pagadas a un Acreedor en Virtud de un Acuerdo Transaccional que ordena cumplir un Fallo Arbitral, conforme lo dispuesto por el N� 1, del Art�culo 17�, de la Ley de la Renta. (Ord. N� 1.042, de 15.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, N� 2, Art. 42� bis, Art. 50� � Circular N� 31, de 2002 � Oficio N� 6.524, de 2003. Word Contribuyentes que tienen Derecho a Invocar el Beneficio Tributario por Ahorro Previsional Voluntario a que se Refiere al Art�culo 42� bis de la Ley de…
+Word Contribuyentes que tienen Derecho a Invocar el Beneficio Tributario por Ahorro Previsional Voluntario a que se Refiere al Art�culo 42� bis de la Ley de la Renta. (Ord. N� 986, de 13.04.2005)
 
 ## Referencias detectadas
 

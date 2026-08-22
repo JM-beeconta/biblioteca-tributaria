@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-25
+- Fecha: 2007-09-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2646.htm
 - Hash SHA-256: 0e95caf7793bbc9e10440582356569a8dc284225c8419026ed4feff5c3629f53
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra E) N�2�, Art. 36�, Art. 52� � C�digo Tributario, Art. 66�, Art. 68� - Ley de la Renta, Art. 68�, Art. 71�. (Ord. N�2715, de 25.09.2007) Word Tratamiento tributario de una empresa de transporte terrestre de carga internacional que no se ha constituido como persona jur�dica, agencia o sucursal en Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 13� N�3� � Ley de la Renta, art. 20� N� 4…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 13� N�3� � Ley de la Renta, art. 20� N� 4. (Ord. N� 2646, de 13.09.2007)
 
 ## Referencias detectadas
 

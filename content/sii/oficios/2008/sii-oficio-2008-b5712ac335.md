@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-01
+- Fecha: 2008-01-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja241.doc
 - Hash SHA-256: 3122098589cc03cc62d368d66314727345090fc6bea7cab5405037b4c66dbc8a
 
 ## Resumen
 
-74, Art. 8� letra g) � Oficio N�215, de 1997- Circular N�45, de 2001. (Ord. N� 0245, de 01.02.2008) Word Solicita interpretaci�n relativa a la Subvenci�n del Estado a Establecimientos Educacionales, en el caso de un proceso de reorganizaci�n empresarial. Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31� N�2� y N�3�, Art. 33� N�1� � Circulares Ns� 42 de 1990, N�17� de 1993, N�49� de 1998 y N�68� de 2001. (Ord. N� 0241, de 31.01.2008) Word Tratamiento tributario aplicable al gasto rechazado por contribucio…
+Word Tratamiento tributario aplicable al gasto rechazado por contribuciones de bienes ra�ces.
 
 ## Referencias detectadas
 

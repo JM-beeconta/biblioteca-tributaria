@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-08-02
+- Fecha: 2007-05-28
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja4099.htm
 - Hash SHA-256: aea692b157a1fa949506979bbc63c5d0fdd79ae6261479123840d14a052dd6fb
 
 ## Resumen
 
-ont face='arial' size='1'> Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � Circular N�27, de 2007 � Ord. N�1.219 y N�4.963 de 2006. (Ord. N� 2.361, de 02.08.2007) Word Solicita confirmar lo se�alado en Oficios Ord. N�1.219, de 31.03.2006 y N� 4.963, de 27.12.2006, que dicen relaci�n con el Art. 3� de la Ley de Timbres y Estampillas. Ley N� 18.768, de 1988 � Art. 13� � D.L. N� 824, de 1974, Art. 59�, N�2 � D.S. N�348, de 1975. (Ord. N� 1.160, de 28.05.2007) Word Art�culo 13�, de la Ley N� 18…
+Ley N� 18.768, de 1988 � Art. 13� � D.L. N� 824, de 1974, Art. 59�, N�2 � D.S. N�348, de 1975. (Ord. N� 1.160, de 28.05.2007)
 
 ## Referencias detectadas
 

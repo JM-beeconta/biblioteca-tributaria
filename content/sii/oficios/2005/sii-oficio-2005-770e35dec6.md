@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-12
+- Fecha: 2005-05-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja952.htm
 - Hash SHA-256: ba1fa3a0da9595446ccce75bbe37b2aab17f66d011878852d123a6d538a5bbca
 
 ## Resumen
 
-1.270, de 1996. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 19.149, de 1992 � Ley N� 18.392, Art. 9�. (Ord. N� 1.422, de 12.05.2005) Word Beneficio Tributario del Art�culo 9�, de la Ley N� 18.392, en relaci�n con el Reingreso de Mercader�as al resto del Pa�s. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord. N� 1.379, de 09.05.2005) Word Arrendamiento de Inmueble Explotado como Centro M�dico. Ventas y Servicios � Nuevo Texto � Actual Ley So…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord. N� 1.379, de 09.05.2005)
 
 ## Referencias detectadas
 

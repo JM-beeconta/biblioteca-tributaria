@@ -11,7 +11,7 @@
 
 ## Resumen
 
-presa transnacional cuyo giro principal es otorgar servicios de clasificaci�n de naves mar�timas. (Ord. N� 1.196, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1 Letra b) � Art. 3� Transitorio de la Ley N� 18.985, de 1990 � Circular N� 58, de 1990. Word Tributaci�n que afecta a predio aportado a la formaci�n de sociedad agr�cola de responsabilidad limitada. (Ord. N� 1.195, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 5�, Art. 17 N�9, Art. 70 � Ley N� 16.271. Word Resuelve consu…
+, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 5�, Art. 17 N�9, Art. 70 � Ley N� 16.271.
 
 ## Referencias detectadas
 

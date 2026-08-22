@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3604
 - Año: 2005
-- Fecha: 2005-01-25
+- Fecha: 2005-01-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja887.doc
 - Hash SHA-256: 88d0c96e93166f41a54c79d3f5a7ea11042fcc321a108978320be2928630680c
 
 ## Resumen
 
-� B. Word Capital Propio para los efectos de la Patente Municipal, a que se refiere el Art�culo 24�, del Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales. (Ord. N� 201, de 25.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 4, Art. 41�, Art. 20�, N� 5 � C�digo Tributario, Art. 64� � C�digo Civil, Art. 1.545�, Art. 2.264�. Word Tratamiento Tributario Aplicable a un Contrato de Renta Vitalicia, en que el Precio de la Renta Vitalicia es Pagado mediante la cesi�n de la Nuda Propiedad de los Derech…
+Word Tratamiento Tributario Aplicable a un Contrato de Renta Vitalicia, en que el Precio de la Renta Vitalicia es Pagado mediante la cesi�n de la Nuda Propiedad de los Derechos Sociales de una Sociedad de Responsabilidad Limitada; Todo ello conforme a lo dispuesto por los Art�culos 17�, N� 4 y 20�, N� 2, de la Ley de la Renta. (Ord. N� 192, de 21.01.2005)
 
 ## Referencias detectadas
 

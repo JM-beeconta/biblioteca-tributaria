@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 386
 - Año: 2005
-- Fecha: 2005-04-21
+- Fecha: 2005-03-16
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja901.doc
 - Hash SHA-256: 5f8f3aa0ac45496ed111511f69669ea99cc15d523ccd8ddfe288a1400f0c086e
 
 ## Resumen
 
-N� 5 � Ley Sobre Impuesto a la Renta, Art. 17�, N� 8, letra b), Art. 18�, Art. 14�, Letra A), N� 3, letra c) � Circular N� 41, de 1999 � Oficio N� 632, de 2004. Word Responde Consulta sobre Situaci�n Tributaria de Fondos de Inversi�n de la Ley N� 18.815. (Ord. N� 1.091, de 21.04.2005) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de �Ley N� 18.010, Art. 1� � Oficio N� 386, de 1990. Word Inaplicabilidad del Impuesto de Timbres y Estampillas en un Contrato de Mandato sin Provisi�n de Fondos para la Adquis…
+Word Inaplicabilidad del Impuesto de Timbres y Estampillas en un Contrato de Mandato sin Provisi�n de Fondos para la Adquisici�n de Inversiones Financieras. (Ord. N� 688, de 16.03.2005)
 
 ## Referencias detectadas
 

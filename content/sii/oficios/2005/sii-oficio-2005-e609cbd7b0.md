@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-04
+- Fecha: 2005-07-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja972.htm
 - Hash SHA-256: c047cd3cf3a626daac8b6fe59125d0cb19ac6c980685339c2c0c51376b7b6b11
 
 ## Resumen
 
-.890, de 04.08.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3 � Art. 11�, Art. 15�, Art. 16� � Circular N� 72, de 1980. Word Plazo para Pagar el Impuesto de Timbres y Estampillas en el Caso de los Documentos Gravados otorgados por Escritura P�blica y Responsables de su Pago. ( Ord. N� 2.445, de 04.07.2005) Normas Internacionales � Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27�, N�1, letra a) � L…
+04.07.2005) Normas Internacionales � Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27�, N�1, letra a) � Ley de la Renta, Art. 74�, N� 4, Art. 79�, Art. 82�, Art. 59�, N� 1.
 
 ## Referencias detectadas
 

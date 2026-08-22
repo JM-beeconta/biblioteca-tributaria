@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 15�, Art. 16�, letras c) y h), Art. 55�� Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.066, de 20.04.2005) Word Aplicaci�n del Impuesto al valor Agregado, establecido en los Art�culos 8� y 2�, N� 2, del Decreto Ley N� 825, de 1974, a diversos Aportes en Dinero efectuados por una Sociedad Inmobiliaria en cumplimiento de un Convenio de Litigaci�n de Impacto Vial. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 16�, letra a), Art.…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 16�, letra a), Art. 42� � Decreto Ley N� 828, de 1974 � Oficio N� 4.379, de2002 � Resoluciones N�s 2.190, 2.191 y 2.192, de 1996 � Circular N� 59, de 2002. (Ord. N� 1.065, de 20.04.2005)
 
 ## Referencias detectadas
 

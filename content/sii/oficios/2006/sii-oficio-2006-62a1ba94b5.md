@@ -11,7 +11,7 @@
 
 ## Resumen
 
-face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�29 � Ley N� 20.027, Art. 25� � Res. Ex. N� 6.080, de 1999 � Circular N� 39, de 2000. Word Tratamiento tributario de los aportes que recibe la Comisi�n Administradora del Sistema de Cr�ditos para Estudios Superiores por parte de las Instituciones de Educaci�n Superior y documentaci�n a emitir para acreditar dichos aportes, seg�n la Ley N�20.027, de 2005. (Ord. N� 4.977, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�2,…
+, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�2, Art. 43�, N�1 � Ley N� 16.441, Art. 41� � Ley N� 17.073, de 1968 � Decreto Ley N� 1.317, de 1976.
 
 ## Referencias detectadas
 

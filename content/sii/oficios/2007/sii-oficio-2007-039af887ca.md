@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ref='renta/ja2705.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 58� N� 1�, Art. 41�, ART. N� 31� N�5� � C�digo Tributario, Art. 64��Circular N�45, de 2001. (Ord. N� , de 2705 de 20.09.2007) Word Solicita confirmar criterios tributarios derivados de la fusi�n de las sociedades que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�13�, Art. 42�, N�1�, Art. 43� N�1� - D.F.L. N�44, de 1978, Art. 3�. (Ord. N�2696, de 20.09.2007) Word Consulta respecto a si la asignaci�n de licencia m�dica de un trab…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�13�, Art. 42�, N�1�, Art. 43� N�1� - D.F.L. N�44, de 1978, Art. 3�.
 
 ## Referencias detectadas
 

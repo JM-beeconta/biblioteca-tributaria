@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-23
+- Fecha: 2005-11-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1046.htm
 - Hash SHA-256: 44a2861962926cf067e2019dfdfe3d11d59364e0dc47e9c8c76a83ec8175af58
 
 ## Resumen
 
-Situados en el Extranjero y que posteriormente son Importados a Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 9�, Letra a) � Oficio N� 1.055, de 2003. ( Ord. N� 4.645, de 23.11.2005) Word Aplicaci�n del Impuesto al Valor Agregado al Usufructo de Bosques. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � 2�, N� 2, Art. 12�, Letra E), N�8 � Ley de la Renta, Art. 42�, N�2, Art. 43�, N�2, Art. 20�, N�5, Art. 74�, N�2 � Circular N� 21, de 1991. (Ord. N…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � 2�, N� 2, Art. 12�, Letra E), N�8 � Ley de la Renta, Art. 42�, N�2, Art. 43�, N�2, Art. 20�, N�5, Art. 74�, N�2 � Circular N� 21, de 1991. (Ord. N� 4.337, de 07.11.2005)
 
 ## Referencias detectadas
 

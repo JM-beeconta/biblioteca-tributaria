@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2007
-- Fecha: 2007-11-07
-- Categoría: Renta, IVA, Otras Normas
+- Fecha: 2007-11-27
+- Categoría: Renta, Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja3226.doc
 - Hash SHA-256: e7c458c95447214aa81b072ab8b78af27465cb3bafe9ee647cf78d3188708c2a
 
 ## Resumen
 
-37) A�os Anteriores OTRAS 2007 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� - Ley N�18.010, de 1981 � Oficio N� 2.557, del 2000. (Ord. N� 3.226, de 27.11.2007) Word Tratamiento Tributario que frente a la Ley de Timbres y Estampillas debe aplicarse con relaci�n al art�culo 3� del Decreto Ley N� 3.475, de 1980. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � A…
+Word Tratamiento Tributario que frente a la Ley de Timbres y Estampillas debe aplicarse con relaci�n al art�culo 3� del Decreto Ley N� 3.475, de 1980.
 
 ## Referencias detectadas
 

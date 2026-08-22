@@ -11,7 +11,7 @@
 
 ## Resumen
 
-7, sobre tratamiento tributario de Bono Extraordinario concedido por la Ley N� 20.134, de 2006. Renta � Actual Ley Sobre Impuesto a la � Arts. 42�, 43�, 45� y 46� - Ley N� 19.490, de 1997, Art. 4� - Circular N�37, de 1990. (Ord. N�408, de 26.02.2008) Word Tributaci�n de bonificaci�n de desempe�o que concede el art�culo 4� de la Ley N�19.490, de 1997. Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Sobre Sociedades An�nimas, Art. 99� � C�digo Tributario, Art. 64� � Oficio N� 664, de 2007. (Ord. N� 407, de 2…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Sobre Sociedades An�nimas, Art. 99� � C�digo Tributario, Art. 64� � Oficio N� 664, de 2007. (Ord. N� 407, de 26.02.2008)
 
 ## Referencias detectadas
 

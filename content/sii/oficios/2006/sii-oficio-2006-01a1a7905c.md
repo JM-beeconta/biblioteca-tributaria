@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-18
+- Fecha: 2006-09-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3982.doc
 - Hash SHA-256: 40164acc4bb5813a3d4eeb40b8c41a2b2b242b3301acb21be287dd160bcf536a
 
 ## Resumen
 
-168�. Word Consulta si las Mermas en la Carga Transportada, facturadas entre Transportistas, constituye un hecho gravado con el Impuesto al Valor Agregado. (Oficio N� 4.265, de 18.10.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2 N�2, Art. 8 � Ley sobre Impuesto a la Renta, Art. 20 N�3 , 4 y 5. Word No se encuentran afectos a IVA los Servicios de Cobranza y Recaudaci�n prestados por una Caja de Compensaci�n de Asignaci�n Familiar. (Oficio N� 3.982, de 13.09.2006) Ventas y Servici…
+Word No se encuentran afectos a IVA los Servicios de Cobranza y Recaudaci�n prestados por una Caja de Compensaci�n de Asignaci�n Familiar. (Oficio N� 3.982, de 13.09.2006)
 
 ## Referencias detectadas
 

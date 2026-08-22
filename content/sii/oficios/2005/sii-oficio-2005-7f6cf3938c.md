@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-07
+- Fecha: 2005-03-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja898.htm
 - Hash SHA-256: e1ef2e22b3e04882ecc489bdd4c8846d96fefe7fb684040c0123c2f4b8a20629
 
 ## Resumen
 
-s y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 20�, N�s 3 y 4 � C�digo Tributario, Art. 126�, Art. 128�. (Ord. N� 615, de 07.03.2005) Word No procede Gravar con el Impuesto al Valor Agregado, las sumas Cobradas al Arrendatario de un veh�culo, por concepto de sanci�n y Lucro Cesante en caso de sufrir dicho Veh�culo Da�os durante el Per�odo de Arriendo. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N�s 6 y 7 � Ley N� 16.7…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N�s 6 y 7 � Ley N� 16.744, Art. 77� � Ley N� 18.469, Art. 11�. (Ord. N� 608, de 04.03.2005)
 
 ## Referencias detectadas
 

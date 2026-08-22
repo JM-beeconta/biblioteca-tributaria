@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-11
+- Fecha: 2005-08-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja990.doc
 - Hash SHA-256: a4ef7c66094d5cd2ddf5e3cfa6df3d2dcb8ed25156ca14f3aa4df892263a66c9
 
 ## Resumen
 
->Word C�lculo de Tasa del Impuesto de Timbres y Estampillas aplicable a las Importaciones. (Ord. N� 2.947, de 11.08.2005) Normas Internacionales � Convenio entre la Rep�blica de Chile y la Rep�blica de Per� para Evitar la Doble Tributaci�n y para Prevenir la Evasi�n Fiscal en relaci�n al Impuesto a la Renta y al Patrimonio, Art. 3�, Art.7�, Art. 5� � Convenci�n de Viena, Art.31� � Ley de la Renta, Art. 58�, N� 1, Art. 59�. Word Consulta sobre aplicaci�n de Convenio para evitar la Doble Tributaci�n entre Per� y Chi…
+Word Consulta sobre aplicaci�n de Convenio para evitar la Doble Tributaci�n entre Per� y Chile, respecto a Pagos por Servicios. (Ord. N� 2.890, de 04.08.2005)
 
 ## Referencias detectadas
 

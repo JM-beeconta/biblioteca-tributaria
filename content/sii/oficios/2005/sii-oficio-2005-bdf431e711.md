@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N�17 � C�digo Tributario, Art. 126�, Art. 128� � C�digo Civil, Art. 1.707� � Ley N� 19.840, de 2002, Art. 2� transitorio � Circular N� 71, de 2002. Word Solicita Devoluci�n del Impuesto de Timbres y Estampillas Pagado en Exceso, por operaci�n acogida a la Ley N� 19.840, Art�culo 2� Transitorio. (Ord. N� 3.917, de 11.10.2005) Empresas Individuales de Responsabilidad Limitada � Ley N� 19.857, Art. 18. ( Word Solicita se rectifique respuesta publ…
+11.10.2005) Empresas Individuales de Responsabilidad Limitada � Ley N� 19.857, Art. 18. (
 
 ## Referencias detectadas
 

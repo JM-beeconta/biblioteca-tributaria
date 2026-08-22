@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Y'> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9, Art. 31�, N�7 � Ley N� 16.271, Art. 18�, N� 4. Word Tratamiento Tributario de Donaciones recibidas en el pa�s, desde el extranjero, frente a las normas de la Ley de la Renta y de la Ley sobre Impuesto a las Herencias y Donaciones. (Ord. N� 4.292, de 19.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�10. Word Tratamiento Tributario de los Bonos Canjeables en Dinero entregados a Personas que suscriban Contratos de Promesas de Venta de Inmuebl…
+Word Tratamiento Tributario de los Bonos Canjeables en Dinero entregados a Personas que suscriban Contratos de Promesas de Venta de Inmuebles, por parte de Inmobiliarias, de acuerdo al Art�culo 31� de la Ley de la Renta. (Ord. N� 4.291, de 19.10.2006)
 
 ## Referencias detectadas
 

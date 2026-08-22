@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"> Empresas Individuales de Responsabilidad Limitada � Ley N� 19.857, Art. 18. ( Word Solicita se rectifique respuesta publicada en Sitio Web del Servicio de Impuestos Internos relativa a las Empresas Individuales de Responsabilidad Limitada Ord. N� 3.790, de 29.09.2005) Operaciones Hipotecarias � Emisi�n de Documentos Tributarios � Resoluci�n Exenta N� 07, de 2005. Word Emite Pronunciamiento sobre Consultas Relativas a los Comprobantes que deben emitirse por Servicios relacionados con Operaciones Hipotecarias (Or…
+Word Emite Pronunciamiento sobre Consultas Relativas a los Comprobantes que deben emitirse por Servicios relacionados con Operaciones Hipotecarias (Ord. N� 3.189, de 29.09.2005)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Solicita se informe criterio respecto a la tributaci�n que afecta a enajenaci�n de acciones efectuada por Sociedad de Responsabilidad Ltda., a su matriz en el exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 55 Bis � C�digo Civil, Art. 1707 � Circular N�87, de 2001. (Ord. N� 2366, de 02.08.2007) Word Solicita se informe manera de acogerse al beneficio establecido en el Art., 55 bis, cuando un inmueble es adquirido en comunidad y no se hizo menci�n en la escritura de compra cu�l de los comuneros se acoger�a…
+Word Solicita se informe manera de acogerse al beneficio establecido en el Art., 55 bis, cuando un inmueble es adquirido en comunidad y no se hizo menci�n en la escritura de compra cu�l de los comuneros se acoger�a a la rebaja que establece dicho art�culo.
 
 ## Referencias detectadas
 

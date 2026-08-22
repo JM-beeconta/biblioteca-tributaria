@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rd Aplicaci�n del Impuesto al Valor Agregado establecido en el Art�culo 8�, letra h), del decreto Ley N�825, al Arrendamiento de una Marca Comercial inscrita en el Extranjero. (Oficio N� 375, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 12�, N� 11, Art. 23�, Art. 27� bis � Circular N� 94, de 2001 Word Aplicaci�n del IVA en Arrendamiento de Inmueble con Instalaciones y Devoluci�n de Remanente de Cr�dito Fiscal por Adquisici�n de Activo Fijo. (Oficio N�…
+Word Aplicaci�n del IVA en Arrendamiento de Inmueble con Instalaciones y Devoluci�n de Remanente de Cr�dito Fiscal por Adquisici�n de Activo Fijo. (Oficio N� 374, de 03.02.2006)
 
 ## Referencias detectadas
 

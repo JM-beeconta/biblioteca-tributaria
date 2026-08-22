@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lign='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 27 � C�digo Tributario, Art. 126� � Ley N� 19.070, Art. 5� transitorio � D.F.L. N�2, de 1998, Art. 11� (Ord. N� 785, de 04.04.2007) Word Tratamiento tributario del complemento de zona a que alude el art�culo 5� transitorio de la Ley N� 19.070, sobre Estatuto de los Profesionales de la Educaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letras a) y g) � C�digo Civil, Art. 1.781 � Circular N� 158, de 1976 � Oficio N�2.232, de 1997.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letras a) y g) � C�digo Civil, Art. 1.781 � Circular N� 158, de 1976 � Oficio N�2.232, de 1997.
 
 ## Referencias detectadas
 

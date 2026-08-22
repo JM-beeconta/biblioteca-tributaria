@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-03
+- Fecha: 2005-01-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja891.htm
 - Hash SHA-256: a879451180ea312380dacc12eb04b4962c258c5973c4c9510a1756a55e8c8df2
 
 ## Resumen
 
-40, de 2001. Word Requisitos que deben Reunir las Becas de Estudio otorgadas a los Hijos de los Trabajadores, para que no constituyan Renta para sus Beneficiarios, y a su vez, se acepten como un Gasto Necesario para Producir la Renta de la Empresa; Todo ello conforme a las Normas de los Art�culos 17�, N� 18 y 31� N� 6 bis de la Ley de la Renta. (Ord. N� 380, de 03.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c), Art. 14�, bis � Ley N� 18.046, Art. 94�� Circulares N�s 59, de 199…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c), Art. 14�, bis � Ley N� 18.046, Art. 94�� Circulares N�s 59, de 1991, 49, de 1997 y 45, de 2001.
 
 ## Referencias detectadas
 

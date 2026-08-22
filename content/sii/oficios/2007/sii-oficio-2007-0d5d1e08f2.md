@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1. (Ord. N� 1.276, de 18.06.2007) Word Situaci�n tributaria de aporte de acciones a constituci�n de agencia de sociedad an�nima extranjera. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�6 � Circular N� 42, de 1990. (Ord. N� 1.275, de 18.06.2007) Word Tratamiento Tributario de sueldo empresarial en caso que el trabajador participe en forma indirecta en la sociedad en la cual trabaja en forma efectiva y permanente, a trav�s de otra sociedad socia de la enti…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�6 � Circular N� 42, de 1990.
 
 ## Referencias detectadas
 

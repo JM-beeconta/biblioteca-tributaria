@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-24
+- Fecha: 2008-04-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja705.htm
 - Hash SHA-256: 3da1c47786e9036fa55b42cf97c58fc46450ffc095d15ea28f3d893559a7b0bd
 
 ## Resumen
 
-l Art. 21� del D.L. N�910, de 1975. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las �Ley N� 18.502, de 1986, Art. 7� � Decreto Supremo de Hacienda N�311, de 1986, Art. 3�- Circular N�32, de 1986. (Ord. N� 827, de 24.04.2008) Word Procedencia del derecho a recuperar el Impuesto Espec�fico al Petr�leo Diesel, en caso que se indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Ley de la Renta, Art. 20 � Oficios N� 1196 y N� 3169, de 2002. (Ord. N� 705, de 11.04…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Ley de la Renta, Art. 20 � Oficios N� 1196 y N� 3169, de 2002. (Ord. N� 705, de 11.04.2008)
 
 ## Referencias detectadas
 

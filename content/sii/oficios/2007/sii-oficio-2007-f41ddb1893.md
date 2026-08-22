@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'1'> Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 3�, Art. 1� � Circulares N�s 66, de 1999 y 47 de 2004 � Oficios N�s 2.298, de 2001, 4.282, de 2002 y 652, de 2005. (Ord. N� 1.518, de 23.07.2008) Word Direcci�n Regional competente para pronunciarse en forma previa si un proyecto de inversi�n cumple o no con los requisitos exigidos por la Ley N� 19.606, sobre Ley Austral. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 42� ter, Art. 54�, N� 3, Art. 56�, N� 2, Art. 75�, (Ord. N� 1.485,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 42� ter, Art. 54�, N� 3, Art. 56�, N� 2, Art. 75�, (Ord. N� 1.485, de 14.07.2008)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-07
+- Fecha: 2006-07-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3425.htm
 - Hash SHA-256: df920214dcb6a151c1c97d0d94052d55b2b47068618c85a33c1b738bb28c7b91
 
 ## Resumen
 
-nt face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 42 Ter � Decreto Ley N�3.500, de 1980, Art. 71� - Ley N�19.768, de 2001, Art. 6� Transitorio � Oficio N� 1.043, de 2005. Word Tratamiento Tributario de Retiro de Excedente de Libre Disposici�n, de acuerdo a lo dispuesto por los art�culos 71 del D.L. N�3.500, de 1980, 42 Ter de la Ley de la Renta y 6� Transitorio de la Ley N�19.768, de 2001. (Ord. N� 3556, de 07.08.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, del…
+Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, del 2002.
 
 ## Referencias detectadas
 

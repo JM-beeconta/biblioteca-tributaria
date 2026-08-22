@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5.483, de 1980, 498, de 1988, 4.942, de 1981, 3.798, de 2000 y 1.789, de 2002. Word Requisitos y Condiciones que deben cumplirse para poder Acceder a la Franquicia Tributaria establecida en el Art�culo 13�, del Decreto ley N� 889, en el caso de los Pr�cticos de Puertos y Canales autorizados por la Direcci�n del Litoral y de la Marina Mercante. (Ord. N� 1.203, de 28.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 2, letra c) y d) � Ley N� 19.518, Art. 36� y Art. 37�� Word Improcedencia de Utilizar el…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 2, letra c) y d) � Ley N� 19.518, Art. 36� y Art. 37��
 
 ## Referencias detectadas
 

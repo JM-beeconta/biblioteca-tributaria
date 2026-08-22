@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-26
+- Fecha: 2005-10-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1037.doc
 - Hash SHA-256: fc14a3eac60b84be8188a8a3a34291c86dffd768b36b49d4d2381bb240ecfae2
 
 ## Resumen
 
-a Futuro � Ley N� 20.026, Art. 5� transitorio. Word Aplicaci�n del Art�culo 5� transitorio de la Ley N� 20.026, respecto de las Ventas a Futuro. (Ord. N� 4.273, de 26.10.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N�17 � C�digo Tributario, Art. 126�, Art. 128� � C�digo Civil, Art. 1.707� � Ley N� 19.840, de 2002, Art. 2� transitorio � Circular N� 71, de 2002. Word Solicita Devoluci�n del Impuesto de Timbres y Estampillas Pagado en Exceso, por operaci�n acogida a la Ley N� 19.840,…
+Word Solicita Devoluci�n del Impuesto de Timbres y Estampillas Pagado en Exceso, por operaci�n acogida a la Ley N� 19.840, Art�culo 2� Transitorio. (Ord. N� 3.917, de 11.10.2005)
 
 ## Referencias detectadas
 

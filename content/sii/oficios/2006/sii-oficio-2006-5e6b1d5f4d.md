@@ -11,7 +11,7 @@
 
 ## Resumen
 
-006) Renta � Actual Ley Sobre Impuesto a la � Art. 56�, N�3, Art. 63� � C�digo Civil, Art. 764� � Ley N� 18.046, Art. 23� Word Tributaci�n del usufructo constituido sobre acciones, seg�n el art�culo 23�, de la Ley N� 18.046, sobre Sociedades An�nimas. (Ord. N� 4.888, de 19.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�9. Word Determinaci�n del costo tributario de una inversi�n en el caso de una sociedad que lleva su contabilidad en moneda extranjera. (Ord. N� 4.883, de 19.12.2006) Renta � Actual Le…
+Word Determinaci�n del costo tributario de una inversi�n en el caso de una sociedad que lleva su contabilidad en moneda extranjera. (Ord. N� 4.883, de 19.12.2006)
 
 ## Referencias detectadas
 

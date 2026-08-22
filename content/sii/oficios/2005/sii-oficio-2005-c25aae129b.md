@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-30
+- Fecha: 2005-06-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja971.htm
 - Hash SHA-256: fe62084884f55977833c155888d1b6410f9f9778fd70128f9ac04b656422fef5
 
 ## Resumen
 
-mismo cuerpo legal. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 13�, N� 4, Art. 8�, letra h). ( Ord. N� 2.381, de 30.06.2005) Word Aplicabilidad de la exenci�n contenida en el Art�culo 13 N� 4 del DL N� 825, de 1974, a la venta de una �biblioteca virtual� Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Decreto Supremo N� 266, de 1970, del Ministerio de Relaciones Exteriores. (Ord. N�1.852, de 20.06.2005) Word Solicita Pronun…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Decreto Supremo N� 266, de 1970, del Ministerio de Relaciones Exteriores. (Ord. N�1.852, de 20.06.2005)
 
 ## Referencias detectadas
 

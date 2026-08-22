@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-09
+- Fecha: 2006-01-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1071.doc
 - Hash SHA-256: 6d8acde5c404bb820b61ffb7ecf7de26d043e7296d115b57599b6755acf5858b
 
 ## Resumen
 
-la Ley de la Renta. (Ord. N� 38, de 09.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, Art. 58�, N�1 � C�digo de Miner�a Art. 163� � Circular N� 58, de 2001. Word Tratamiento Tributario del Pago de Patentes Mineras frente a las Normas del Art�culo 21�, de la Ley de la Renta. (Ord N�28, de 05.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�1. Word Incompetencia del Servicio para calificaci�n de compa��a que se indica como una Instituci�n Financiera Extranjera para los Efectos de…
+Word Incompetencia del Servicio para calificaci�n de compa��a que se indica como una Instituci�n Financiera Extranjera para los Efectos de la Aplicaci�n de la Tasa de 4% de Impuesto Adicional establecida en el N�1 del Art�culo 59�, de la Ley de la Renta. (Ord. N�22, de 03.01.2006)
 
 ## Referencias detectadas
 

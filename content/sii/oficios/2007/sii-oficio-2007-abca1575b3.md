@@ -11,7 +11,7 @@
 
 ## Resumen
 
-or�as t�cnicas. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 1�, N�3, Art. 16� � Ley N� 18.010, Art. 1�. (Ord. N� 1.281, de 18.06.2007) Word Aplicaci�n del Impuesto de Timbres y Estampillas a escritura p�blica que da cuenta de mutuo hipotecario y de operaci�n de cr�dito de dinero. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 1�, Art. 9�, N�1, Art. 23�, N�1, Art. 24�, N�3. (Ord. N� 1.272, de 18.06.2007) Word Exenci�n de Impuesto de Timbres y Estampillas respecto de docume…
+Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 1�, Art. 9�, N�1, Art. 23�, N�1, Art. 24�, N�3. (Ord. N� 1.272, de 18.06.2007)
 
 ## Referencias detectadas
 

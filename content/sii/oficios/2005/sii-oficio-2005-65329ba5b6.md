@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-28
+- Fecha: 2005-04-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja933.htm
 - Hash SHA-256: 42be43638e1fe2f84a12947b87fd02fa515f2e7e139339d6a0181947b4a9f177
 
 ## Resumen
 
-o Ley N� 910, de 1975, Art. 21� � Circular N� 26, de 1987. (Ord. N� 1.196, de 28.04.2005) Word Aplicaci�n del Cr�dito Especial establecido en el Art�culo 21�, del Decreto Ley N� 910, de 1975, a Obras asociadas a Construcci�n de Conjunto habitacional, tales como Confecci�n de Pasarela Peatonal, Adecuaci�n Cruce Ferroviario y Construcci�n de Pistas de Aceleraci�n y Desaceleraci�n desde la Carretera al ingreso del Loteo habitacional. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2,…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 15�, Art. 16�, letras c) y h), Art. 55�� Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.066, de 20.04.2005)
 
 ## Referencias detectadas
 

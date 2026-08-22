@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-20
+- Fecha: 2006-12-00
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4028.htm
 - Hash SHA-256: cfd174867dec723966dac29e4cab39962e293c23651af11dc560ae9cebc3a762
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2, Art. 60� � Circular N� 43, de 1980 � Oficios N��s 2.837, de 2001 y 3.325, de 2005. Word Tributaci�n de las sumas pagadas por Empresa Chilena, por el Arriendo de un Bien Mueble radicado en el exterior, cuyo arrendador y propietario es una persona sin Domicilio ni Residencia en Chile que no posee en el pa�s clase alguna de Agencia o establecimiento permanente. (Ord. N� 4.908, de 20.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�7 � Ley N� 18.985…
+0.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�7 � Ley N� 18.985 � Ley N� 19.885, de 2003, Art. 10� � Circulares N��s 55, de 2003 y 39, de 2005 � Oficio N� 1.226, de 1996.
 
 ## Referencias detectadas
 

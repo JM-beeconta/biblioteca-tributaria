@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 60�, Art. 62� � C�digo Tributario, Art. 8�, N� 8 � C�digo Civil, Art. 59�, Art. 65� � Oficio N� 3.514, de 2003. (Ord. N� 1.583, de 29.07.2008) Word Circunstancias que hacen a un extranjero, perder su domicilio en Chile, conforme a lo dispuesto por el art�culo 3� de la Ley sobre Impuesto a la Renta, en relaci�n con lo establecido en el N�8, del art�culo 8�, del C�digo Tributario. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2, A…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2, Art. 38� � C�digo de Comercio, Art. 233. (Ord. N� 1.582, de 29.07.2008)
 
 ## Referencias detectadas
 

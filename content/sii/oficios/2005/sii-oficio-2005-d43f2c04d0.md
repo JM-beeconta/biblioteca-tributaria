@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-15
+- Fecha: 2005-12-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1065.doc
 - Hash SHA-256: e8d928474825dfae4dce56b489357c6e2da757ab5f4ce0125d925fe2192c2f7f
 
 ## Resumen
 
-s y Servicios � Nuevo Texto � Actual Ley sobre Impuesto (Ord. N� 4965, de 15.12.2005). Alcance de las exenciones impositivas que favorecen a la Isla de Pascua, en relaci�n a una Sociedad Operadora de Casino de Juego. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � C�digo Tributario, Art. 28� � C�digo de Comercio, Art. 507�, Art. 510� � Circular N� 29, de 1999. (Ord. N� 4.843, de 09.12.2005) Word No procede aplicar el Tratamiento Tributario que afecta al Contrato de Asociaci�n o Cuentas en Part…
+Word No procede aplicar el Tratamiento Tributario que afecta al Contrato de Asociaci�n o Cuentas en Participaci�n, cuando �ste es celebrado por Personas que no son Comerciantes.
 
 ## Referencias detectadas
 

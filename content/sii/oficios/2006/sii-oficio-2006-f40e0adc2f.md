@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r>Informa sobre solicitud de reconsideraci�n de contribuyente que se indica � Asignaci�n de zona - Inaplicabilidad del impuesto �nico. (Ord. N� 65, de 11.01.2006) Renta � Actual Ley sobre Impuesto a la � Art. 17 � D.F.L. N� 5, del Ministerio de Econom�a, Fomento y Reconstrucci�n, de 17.02.2004 - Oficio N� 4230, de 2004. Solicita aclaraci�n respecto de lo dictaminado a trav�s del Oficio N� 4.230, de 08.09.2004 (Ord. N� 64, de 11.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, letra A), Art. 31�, N�6, Ar…
+de 11.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, letra A), Art. 31�, N�6, Art. 42 bis, Art. 55� � Circulares N�s 7, de 1985, 54, de 1986 y 53, de 1990 � Oficio N�6.524, de 2003.
 
 ## Referencias detectadas
 

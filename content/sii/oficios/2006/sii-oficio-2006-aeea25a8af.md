@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-29
+- Fecha: 2006-12-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4017.htm
 - Hash SHA-256: 2a1b028a6b6812a54ecb713875b4fc114f57c586fe3a8d78514a081efec5dc57
 
 ## Resumen
 
-ont> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.815, de 1989. Word Solicita Pronunciamiento relativo al Tratamiento del Impuesto al Valor Agregado en Fondos de Inversi�n Privado, Ley N� 18.815, de 1989. (Oficio N� 5.008, de 29.12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N� 4, Art. 15�, N�1, Art. 55�, Art. 69� � Ley N� 18.092, Art. 12� � Circular N� 11, de 2004 Word Consultas sobre situaci�n tributaria de Ingresos Obtenidos por un Estab…
+12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N� 4, Art. 15�, N�1, Art. 55�, Art. 69� � Ley N� 18.092, Art. 12� � Circular N� 11, de 2004
 
 ## Referencias detectadas
 

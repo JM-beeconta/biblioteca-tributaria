@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-28
+- Fecha: 2005-11-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1056.htm
 - Hash SHA-256: 674ed254df19be5a0281c1e8067eef94b293bd1738fcb2f8f0b09d9a99b617ce
 
 ## Resumen
 
-, Art. 8�, letra d), Art. 12�, letra A), N� 1, Art. 23� � Ley N� 19.506, de 1997 � Oficio N� 439, de 1977. Word Solicita autorizaci�n para que la firma Vendedora de Autom�viles que ser�n destinados por su adquirente a Sorteos Gratuitos con Fines Promocionales, Facture �stos de acuerdo a lo se�alado en Ordinario N� 439, de 1977. (Ord. N� 4.683, de 28.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Decreto Ley N� 825, de 1974, Art. 12�, letra E), N�7 � C�digo de Comercio, Art. 3�, N�1 � Res. Exenta…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Decreto Ley N� 825, de 1974, Art. 12�, letra E), N�7 � C�digo de Comercio, Art. 3�, N�1 � Res. Exentas N�s 1 y 17, de 2003.
 
 ## Referencias detectadas
 

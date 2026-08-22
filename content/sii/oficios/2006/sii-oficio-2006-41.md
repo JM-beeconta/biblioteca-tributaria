@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y 110�. Word Aplicaci�n de IVA a Servicios de Fiscalizaci�n de Cooperativas e Inscripciones en Registro de Entidades Fiscalizadoras Privadas. (Oficio N� 014, de 03.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � Decreto Supremo N� 348, Art. 1� � Circular N� 38, de 2004 � Oficio N� 41, de 1989. Word Consulta sobre Procedimiento para Calcular Devoluci�n del Impuesto al Valor Agregado en virtud del Art. 36�, del D.L. N� 825, de 1974. (Oficio N� 013, de 03.01.2006)
+Word Consulta sobre Procedimiento para Calcular Devoluci�n del Impuesto al Valor Agregado en virtud del Art. 36�, del D.L. N� 825, de 1974. (Oficio N� 013, de 03.01.2006)
 
 ## Referencias detectadas
 

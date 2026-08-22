@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-16
+- Fecha: 2005-02-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja900.htm
 - Hash SHA-256: a093c4e4fd0b2615d5856ab19156ec300dfdb9c160032f63e2c4817f596026b2
 
 ## Resumen
 
-"2">(Ord. N� 688, de 16.03.2005) C�digo Tributario � Art. 200� � Ley de la Renta, Art. 14�, letra A), N� 3, letra d) � Circular N� 17, de 1993 � Oficios N�s 231, de 1986 y 164, de 1997. Word Prescripci�n de la acci�n fiscalizadora del Servicio de Impuestos Internos en caso que indica. Art�culo 200 del C�digo Tributario. (Ord. N� 393, de 04.02.2005) Doble Tributaci�n Internacional � Convenio suscrito Chile y Brasil, para evitar la Doble Tributaci�n y Prevenir la Evasi�n Fiscal en relaci�n con el Impuesto a la Renta…
+04.02.2005) Doble Tributaci�n Internacional � Convenio suscrito Chile y Brasil, para evitar la Doble Tributaci�n y Prevenir la Evasi�n Fiscal en relaci�n con el Impuesto a la Renta � Art. 4�, Art. 8� � Ley de la Renta, Art. 65�, N� 1, Art. 77�, Art. 101� � Circular N� 17, de 2004.
 
 ## Referencias detectadas
 

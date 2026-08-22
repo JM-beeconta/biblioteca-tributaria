@@ -11,7 +11,7 @@
 
 ## Resumen
 
-adas a Construcci�n de Conjunto habitacional, tales como Confecci�n de Pasarela Peatonal, Adecuaci�n Cruce Ferroviario y Construcci�n de Pistas de Aceleraci�n y Desaceleraci�n desde la Carretera al ingreso del Loteo habitacional. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 15�, Art. 16�, letras c) y h), Art. 55�� Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.066, de 20.04.2005) Word Aplicaci�n del Impuesto al valor Agregado, establecido en los Art�culos 8� y 2�,…
+Word Aplicaci�n del Impuesto al valor Agregado, establecido en los Art�culos 8� y 2�, N� 2, del Decreto Ley N� 825, de 1974, a diversos Aportes en Dinero efectuados por una Sociedad Inmobiliaria en cumplimiento de un Convenio de Litigaci�n de Impacto Vial.
 
 ## Referencias detectadas
 

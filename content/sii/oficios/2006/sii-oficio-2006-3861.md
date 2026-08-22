@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3861
 - Año: 2006
-- Fecha: 2006-12-20
+- Fecha: 2006-09-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4890.pdf
 - Hash SHA-256: 3b6d522b51d46b327156d69392b8fdf0a8fac40a11fcd2d2b26a6160338c8665
 
 ## Resumen
 
-, N�7 � Ley N� 18.985 � Ley N� 19.885, de 2003, Art. 10� � Circulares N��s 55, de 2003 y 39, de 2005 � Oficio N� 1.226, de 1996. Word Absuelve consultas sobre factibilidad de Corporaci�n de Desarrollo Empresarial de captar recursos a trav�s de donaciones con beneficios tributarios, conforme al Art�culo 31� N�7, de la Ley sobre Impuesto a la Renta y Art�culo 1� y siguientes de la ley N� 19.885, sobre donaciones con fines Sociales y P�blicos. (Ord. N� 4.907, de 20.12.2006) Renta � Actual Ley sobre Impuesto a la � Ar…
+Renta � Actual Ley sobre Impuesto a la � Art. 42, N�1, Art. 43, N�1, Art. 55 bis � Oficio N� 3861, de 2006. Rebaja tributaria de intereses pagados por cr�ditos hipotecarios, conforme a las normas del art�culo 55 bis de la Ley de la Renta. (Ord. N� 4.890, de 19.12.2006)
 
 ## Referencias detectadas
 

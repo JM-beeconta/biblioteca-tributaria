@@ -11,7 +11,7 @@
 
 ## Resumen
 
-57� bis� � Ley N� 19.578, Art. 1�, N� 5, Art. 18� � Ley N� 18.046, Art. 99� � Circular N� 71, de 1998 � Oficios N�s 741 y 791, de 2002. Word Improcedencia del Beneficio Tributario establecido en la Letra A), del ex-art�culo 57� bis de la Ley de la Renta en el caso del Canje de Nuevas Acciones producto de Reorganizaci�n de Empresa que Indica. (Ord. N�1.479, de 17.05.20005) Ley de Impuesto a la Renta. Art�culos 21� y 58 N� 1�. Reconsideraci�n tributaci�n que afecta a una oficina con representaci�n en el Pa�s, distin…
+Ley de Impuesto a la Renta. Art�culos 21� y 58 N� 1�. Reconsideraci�n tributaci�n que afecta a una oficina con representaci�n en el Pa�s, distinguiendo si posee o no bienes susceptibles de generar rentas que indica. (Ord. N� 1478, de 17 de Mayo del 2005)
 
 ## Referencias detectadas
 

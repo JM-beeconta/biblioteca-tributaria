@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-09
+- Fecha: 2006-05-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1874.doc
 - Hash SHA-256: 3f14b8468d156c506a6c2e538f5edbaacc6f6096c355bd68bcc058fdabfe3c60
 
 ## Resumen
 
-href="ventas/ja2917.doc">Word Se informa criterio respecto a si aporte extraordinario cobrado por Club de Campo a sus socios debe considerarse como un cobro por un servicio gravado con IVA o como un aporte exento de dicho impuesto. (Oficio N�2.917, de 09.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las Art. 8� - Ley N�18.046, Art. 99�. Word Solicita pronunciamiento respecto a si constituye o no hecho gravado con IVA la adjudicaci�n y venta en el proceso de liquidaci�n de una empresa inmo…
+Word Solicita pronunciamiento respecto a si constituye o no hecho gravado con IVA la adjudicaci�n y venta en el proceso de liquidaci�n de una empresa inmobiliaria que previamente se fusion� por incorporaci�n, con una empresa constructora. (Oficio N�1.874, de 23.05.2006 )
 
 ## Referencias detectadas
 

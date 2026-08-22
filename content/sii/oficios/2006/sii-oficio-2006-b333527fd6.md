@@ -11,7 +11,7 @@
 
 ## Resumen
 
-obre Impuesto a las � Art. 27� bis, Art. 64� � Res. N� 3.721, de 2000. Word No procede solicitar en un mismo Per�odo Tributario, devoluci�n de Remanentes del Impuesto al Valor Agregado, por concepto de Cambio de Sujeto dispuesto en el Art�culo 3�, del D.L. N� 825, como por Activo Fijo, en virtud del Art. 27� bis, del mismo decreto ley. (Oficio N� 4.266, de 18.10.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, letra d) � C�digo de Comercio, Art. 166�, Art. 168�. Wor…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, letra d) � C�digo de Comercio, Art. 166�, Art. 168�.
 
 ## Referencias detectadas
 

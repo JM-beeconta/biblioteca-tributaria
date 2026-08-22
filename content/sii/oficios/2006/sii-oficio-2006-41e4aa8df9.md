@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-23
+- Fecha: 2006-01-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1092.htm
 - Hash SHA-256: b273966966d4b5c2cc8f288101beec0c7ae467ca2b920780adce2751220c75c2
 
 ## Resumen
 
-ablecida en el Art�culo 234 de la Ley N� 16.840, conforme a lo dispuesto por el Art�culo 4�, de la Ley N� 18.247, de 1983, en los t�rminos que se indican. (Ord. N� 235, de 23.01.2006) Renta � Actual Ley Sobre Impuesto a la � Circular N� 52, de 2005 � Oficio N� 4.508, de 2004. Word Tributaci�n que afecta a sede Regional que Presta en el Pa�s Servicios Gerenciales a Empresas de la misma Matriz. (Ord. N� 147, de 16.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley N� 19.420, Art. 1�, Art. 2�, Art. 3� �…
+, de 16.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley N� 19.420, Art. 1�, Art. 2�, Art. 3� � D.F.L. N� 641, de 1977 � Circulares N�s 50, de 1995, 64, de 1996 y 46 de 2000.
 
 ## Referencias detectadas
 

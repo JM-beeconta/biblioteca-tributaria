@@ -11,7 +11,7 @@
 
 ## Resumen
 
-995 � Circular N� 50, de 1995. (Ord. N� 371, de 13.02.2007) Word Impuesto de Primera Categor�a al cual debe imputarse el cr�dito establecido en la Ley N�19.420, sobre Ley Arica. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 4, Art. 21� � D.L. N� 825, de 1974, Art. 2�, N�2, Art. 8�, letra g). (Ord. N� 370, de 13.02.2007) Word Tratamiento Tributario de la venta al cr�dito de un inmueble, efectuada por una sociedad de personas a un socio de la misma, y del arriendo de canchas de tenis y piscinas. Renta � Actu…
+Word Tratamiento Tributario de la venta al cr�dito de un inmueble, efectuada por una sociedad de personas a un socio de la misma, y del arriendo de canchas de tenis y piscinas.
 
 ## Referencias detectadas
 

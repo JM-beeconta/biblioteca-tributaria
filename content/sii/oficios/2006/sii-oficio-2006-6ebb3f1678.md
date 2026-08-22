@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cios de Telecomunicaciones Internacionales que se Indican (Ord. N� 4.572, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Art. 103�, Art. 110� . Word Tratamiento Tributario de la P�rdida originada en el Menor Valor obtenido en Liquidaci�n de Acciones de una Sociedad An�nima producto de la Liquidaci�n Voluntaria de dicha Sociedad. (Ord. N� 4.571, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43� � Decreto Ley N� 3.500, Art. 18�. Word Las Jubilaciones se afectan c…
+, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43� � Decreto Ley N� 3.500, Art. 18�.
 
 ## Referencias detectadas
 

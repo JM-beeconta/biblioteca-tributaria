@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ng='0' width='630'> A�os Anteriores LEY DE IMPUESTO A LA RENTA 2006 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 11, Art. 20�, Art. 21�, Art. 31�. Word Tributaci�n a que se encuentra afecta Fundaci�n de Derecho P�blico. (Ord. N� 4.998, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Decreto Ley N� 3.500, de 1980, Art. 21�, Art. 22� � Circulares N��s 56, de 1993 y 32, de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 11, Art. 20�, Art. 21�, Art. 31�.
 
 ## Referencias detectadas
 

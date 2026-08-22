@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 84�, letra a) � Ley sobre Impuesto a las Ventas y Servicios, Art. 12�, letra D), Art. 2�, N�1, Art. 19�, Art. 36�. Word Tratamiento Tributario de los Productos Exportados sin Retornos, destinados a Promociones en el Exterior, respecto de la Normativa Legal del Impuesto IVA y Renta. (Ord. N�5.058, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo del Trabajo, Art. 178�, Art. 305, N�2 � Oficios N�s 963 y 2.325, de 2005. Word Resuelve Recon…
+Renta � Actual Ley Sobre Impuesto a la � C�digo del Trabajo, Art. 178�, Art. 305, N�2 � Oficios N�s 963 y 2.325, de 2005.
 
 ## Referencias detectadas
 

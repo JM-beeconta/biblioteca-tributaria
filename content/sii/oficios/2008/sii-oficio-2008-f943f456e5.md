@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-11-26
+- Fecha: 2008-11-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja3412.htm
 - Hash SHA-256: bb0017e0000947e837c04f75cfea300d6e0696019da5b9a94978be89a20766d1
 
 ## Resumen
 
-TIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3 � Ley N�18.392 � Circulares N��s 10, de 1976, 111, de 1977 y 95, de 1978. (Ord. N� 3.530, de 26.11.2008) Word Para efectos de determinar la base imponible del Impuesto de Primera Categor�a, las p�rdidas obtenidas en las zonas no favorecidas con franquicias tributarias deben compensarse con las utilidades obtenidas en los territorios favorecidos con tales franquicias. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1, letra c), Art. 58�, N…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1, letra c), Art. 58�, N�1 � Ley N�3.918, Art 3�. (Ord. N� 3.412, de 07.11.2008)
 
 ## Referencias detectadas
 

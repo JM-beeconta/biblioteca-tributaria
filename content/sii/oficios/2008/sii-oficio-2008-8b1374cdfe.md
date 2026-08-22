@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-09-16
+- Fecha: 2008-08-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2446.htm
 - Hash SHA-256: a3dc7940e73bb68362eda1be545afc2f393eb78f83d5525ef0dc3b847dcebf21
 
 ## Resumen
 
-18� ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 18.046, Art. 94 � D.L. N� 1.328, Art. 13�, N�1. (Ord. N� 2.730, de 16.09.2008) Word Las acciones que se asignan a otras sociedades producto de la divisi�n de una sociedad, pueden acogerse al beneficio tributario del art�culo 18� ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N�2 � Oficio N�4.604, de 2000. (Ord. N� 2.446, de 25.08.2008) Word Consulta sobre vigencia de criterio contenido en Of…
+Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N�2 � Oficio N�4.604, de 2000. (Ord. N� 2.446, de 25.08.2008)
 
 ## Referencias detectadas
 

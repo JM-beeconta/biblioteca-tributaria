@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-14
+- Fecha: 2005-01-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja867.doc
 - Hash SHA-256: 8fd045159ec1b7316844b2cf55a5c83d99c1d24eeb1aefd555732c8e9b53bd0e
 
 ## Resumen
 
-Calificaci�n de Ingreso no Constitutito de Renta de ayudas Econ�micas otorgadas por los Fondos de Bienestar Social de una Entidad Bancaria, conforme a lo dispuesto por el Art�culo 17�, N�13, de la Ley de la Renta. (Ord. N� 0144, de 14.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14, Letra A), N� 1, letra c), Art. 41� � Circulares N�s 60, de 1990 y 70, de 1998. Word Situaci�n Tributaria de Retiro de Utilidad Reinvertido en otra Sociedad, conforme a las Normas de la letra c), del N�1, de la letra A), del A…
+Word Situaci�n Tributaria de Retiro de Utilidad Reinvertido en otra Sociedad, conforme a las Normas de la letra c), del N�1, de la letra A), del Art�culo 14�, de la Ley de la Renta y Enajenaci�n de Derechos Sociales, de acuerdo a las normas de los Incisos 3� y 4� del art�culo 41� de la ley precitada. (Ord. N� 0113, de 12.01.2005)
 
 ## Referencias detectadas
 

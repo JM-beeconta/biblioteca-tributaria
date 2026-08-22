@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-01
+- Fecha: 2005-11-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1057.htm
 - Hash SHA-256: e328e4085cc9d5e69f885b543f493ff8aaf5e7559dfc9dd1a71d8909f49fda65
 
 ## Resumen
 
-nt face="arial" size="1"> Renta � Actual Ley Sobre Impuesto a la � Decreto con Fuerza de Ley N� 30, de 2005, de Hacienda. Word Documento v�lido emitido por Agencia de Aduana para los efectos de Acreditar los Gastos de Desaduanamiento o Exportaci�n de Mercader�as. (Ord. N� 4.761, de 01.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, N�1, letra f) � Decreto Ley N�825, de 1974, Art. 8�, letra d), Art. 12�, letra A), N� 1, Art. 23� � Ley N� 19.506, de 1997 � Oficio N� 439, de 1977. Word Solicita…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, N�1, letra f) � Decreto Ley N�825, de 1974, Art. 8�, letra d), Art. 12�, letra A), N� 1, Art. 23� � Ley N� 19.506, de 1997 � Oficio N� 439, de 1977.
 
 ## Referencias detectadas
 

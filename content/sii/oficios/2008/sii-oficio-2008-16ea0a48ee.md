@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-01-30
+- Fecha: 2008-02-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja288.doc
 - Hash SHA-256: 40ee1f56c9e194342c5db47ccf6b47db564821bc6546d5afcf74674eaac7aae8
 
 ## Resumen
 
-e imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta, Art. 14�. (Ord. N� 227, de 30.01.2008) Word Entrada en vigencia de nuevo impuesto en M�xico, denominado Impuesto Empresarial a Tasa Unica y su aplicaci�n respecto del Convenio vigente entre Chile y M�xico. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�2�, Art. 74� N�2� � C�digo del Trabajo, Art. 145-L - Circular N�60, de 2007. (Ord. N� 0288, de 11.02.2008) Word Tratamiento tributario que Afecta a remuneraciones percibidas por l…
+Word Tratamiento tributario que Afecta a remuneraciones percibidas por los trabajadores de Artes y Espect�culos.
 
 ## Referencias detectadas
 

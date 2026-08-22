@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-12
+- Fecha: 2005-01-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja866.htm
 - Hash SHA-256: cab086e3b035bd16117711063d72c179e4f64d9266008345b1aa5a8d1f7f3a24
 
 ## Resumen
 
-� � Circulares N�s 60, de 1990 y 70, de 1998. Word Situaci�n Tributaria de Retiro de Utilidad Reinvertido en otra Sociedad, conforme a las Normas de la letra c), del N�1, de la letra A), del Art�culo 14�, de la Ley de la Renta y Enajenaci�n de Derechos Sociales, de acuerdo a las normas de los Incisos 3� y 4� del art�culo 41� de la ley precitada. (Ord. N� 0113, de 12.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 3� � Constituci�n Pol�tica de la Rep�blica, Art. 19�, N� 14 Word Resuelve sobre Pr�rroga de Pla…
+Renta � Actual Ley Sobre Impuesto a la � Art. 3� � Constituci�n Pol�tica de la Rep�blica, Art. 19�, N� 14
 
 ## Referencias detectadas
 

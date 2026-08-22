@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. ( Ord. N� 4.965, de 27.12.2006) Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3� � C�digo de Comercio, Art. 977 � Ley N� 18.010, Art. 1�. Word Documentos que no se encuentran gravados con el Impuesto establecido en el Art�culo 3�, del D.L. N� 3.475, de 1980. ( Ord. N� 4.963, de 27.12.2006) Decreto Ley N� 600 � Art. 2�, letra f) � Ley de la Renta, Art. 14�, letra A), Art. 74�, N�4. Word Capitalizaci�n de Utilidades con derecho a ser transferidas al exterior, en conformidad con el art�culo 2�,…
+27.12.2006) Decreto Ley N� 600 � Art. 2�, letra f) � Ley de la Renta, Art. 14�, letra A), Art. 74�, N�4.
 
 ## Referencias detectadas
 

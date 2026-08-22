@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27�, N�1, letra a) � Ley de la Renta, Art. 74�, N� 4, Art. 79�, Art. 82�, Art. 59�, N� 1. Word Consulta si un Inter�s Contabilizado como gasto, puede quedar beneficiado por las Tasas Preferentes de los Convenios aun cuando no se haya Generado la Obligaci�n Legal de su Pago. (Ord. N� 1.672, de 02.06.2005) Actividad Minera � Inventarios Intermedios de Baja Ley � Ley Sobre Impuesto a la Ren…
+02.06.2005) Actividad Minera � Inventarios Intermedios de Baja Ley � Ley Sobre Impuesto a la Renta, Art. 31�, N� 9 � Oficios N� 1.559, de 1991, N� 297, de 1982, N� 1.739, de 1986 y N� 3.008, de 2000.
 
 ## Referencias detectadas
 

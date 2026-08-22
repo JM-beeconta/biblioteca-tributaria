@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nta/ja2595.doc'>Word Tributaci�n que afecta a beneficio pecuniario denominado bono extraordinario concedido por Ley N�20.134, de 2006, a exonerados pol�ticos. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 41�, Art. 56� N�3, Art. 63�- Circular N�60, de 1990. (Ord. N� 2594, de 06.09.2007) Word Situaci�n tributaria en venta de derechos sociales a una sociedad relacionada, aplic�ndose lo dispuesto en el inciso pen�ltimo art�culo 41, para la determinaci�n de los costos tributarios. Renta � Actual Ley Sobre Im…
+Word Situaci�n tributaria en venta de derechos sociales a una sociedad relacionada, aplic�ndose lo dispuesto en el inciso pen�ltimo art�culo 41, para la determinaci�n de los costos tributarios.
 
 ## Referencias detectadas
 

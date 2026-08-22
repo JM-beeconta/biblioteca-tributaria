@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Chile y en el extranjero, de acuerdo al N� 2 del art�culo 59 de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 18�, Art. 56�, N�3, Art. 63� � Ley N� 18.293, Art. 3� � Circular N� 27, de 1984 � Oficios N��s 21, de 1996, 3.604, de 2004 y 4.888, de 2006. (Ord. N� 1.279, de 18.06.2007) Word Tributaci�n del usufructo constituido sobre acciones, seg�n normas de los art�culos 56, N�3 y 63�, de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 3�. (Ord. N� 1.278, de 18.06.2…
+Word Tributaci�n del usufructo constituido sobre acciones, seg�n normas de los art�culos 56, N�3 y 63�, de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 30�, Art. 31� - Oficio N�5.007, de 1978. Word Solicita se confirme que los Intereses pagados o devengados por Pr�stamo solicitado para financiar el Capital de una Filial a construir es factible de deducir como Gasto Necesario para producir la Renta. (Ord. N� 3.424, de 26.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 Letra b), Art. 18� - C�digo Civil, Art. 580 � Oficio N�485, de 1997. Word Tributaci�n que afecta a Enajenaci�n del Derecho de Usufr…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 Letra b), Art. 18� - C�digo Civil, Art. 580 � Oficio N�485, de 1997.
 
 ## Referencias detectadas
 

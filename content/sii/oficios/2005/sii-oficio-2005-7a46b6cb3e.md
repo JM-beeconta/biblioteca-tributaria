@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-16
+- Fecha: 2005-03-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja912.doc
 - Hash SHA-256: ab93a0a0be3519d878bc91e57bbba6aac83b11829707e0b957844d789e803965
 
 ## Resumen
 
-il, Art. 345� � Circular N� 8, de 2000. Word Forma de Acreditar los Recursos Provenientes del Exterior para Solventar Gastos o Inversiones en el Pa�s. (Ord. N� 689, de 16.03.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Ley N� 19.606, art. 1�, Art. 5�, Art. 9� � Circular N� 66, de 1999. Word Efectos que produce la Presentaci�n Extempor�nea del Proyecto Laboral y Requerimiento de la Anotaci�n de Bienes conforme a lo Dispuesto por los Art�culos 5� y 9�, de la Ley N� 19.606, sobre Ley A…
+Word Efectos que produce la Presentaci�n Extempor�nea del Proyecto Laboral y Requerimiento de la Anotaci�n de Bienes conforme a lo Dispuesto por los Art�culos 5� y 9�, de la Ley N� 19.606, sobre Ley Austral. (Ord. N� 652, de 11.03.2005)
 
 ## Referencias detectadas
 

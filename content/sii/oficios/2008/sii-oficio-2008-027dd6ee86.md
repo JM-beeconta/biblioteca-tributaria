@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-25
+- Fecha: 2008-08-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2417.doc
 - Hash SHA-256: fe3d5facfbb3b87ce4c7537f2d3cd81f3e387f788d401b6a0de54f78608768e7
 
 ## Resumen
 
-ont> Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N�2 � Oficio N�4.604, de 2000. (Ord. N� 2.446, de 25.08.2008) Word Consulta sobre vigencia de criterio contenido en Oficio SII N�4.604, de 2000. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9, Art. 21�, Art. 33�, N�1 � Ley N�16.271 � D.F.L. N�789, de 1978, Art. 10� (Ord. N� 2.417, de 20.08.2008) Word Tratamiento tributario de donaci�n de bien ra�z a una Municipalidad Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 15.840, de 1964, Art. 30�…
+Word Tratamiento tributario de donaci�n de bien ra�z a una Municipalidad
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-15
+- Fecha: 2006-11-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3999.doc
 - Hash SHA-256: 218c44232b4216d68114c68f5c059748986b5825e704f3d8e53ac3fde0b8cfd0
 
 ## Resumen
 
-C�digo Tributario. (Ord. N� 4.577, de 15.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Ley N� 18.168. Word Situaci�n Tributaria de los Pagos por Servicios de Telecomunicaciones Internacionales que se Indican (Ord. N� 4.572, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Art. 103�, Art. 110� . Word Tratamiento Tributario de la P�rdida originada en el Menor Valor obtenido en Liquidaci�n de Acciones de una Sociedad An�nima producto de la Liquidaci�n Voluntaria de dicha Soci…
+Word Tratamiento Tributario de la P�rdida originada en el Menor Valor obtenido en Liquidaci�n de Acciones de una Sociedad An�nima producto de la Liquidaci�n Voluntaria de dicha Sociedad. (Ord. N� 4.571, de 14.11.2006)
 
 ## Referencias detectadas
 

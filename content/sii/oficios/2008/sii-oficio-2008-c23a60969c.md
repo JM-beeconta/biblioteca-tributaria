@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-01-31
+- Fecha: 2008-01-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja228.doc
 - Hash SHA-256: ec708b493720e0955a4cca877384ae5e50a7399056f7ad1b239924251fec3127
 
 ## Resumen
 
-TIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 56� � C�digo Tributario, Art. 23�, Inciso 3�. (Ord. N� 240, de 31.01.2008) Word R�gimen Tributario de los peque�os comerciantes que desarrollan actividades en la v�a p�blica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, de 1986, Art. 1�. (Ord. N� 0198, de 24.01.2008) Word Impuesto Espec�fico al Gas Natural Comprimido utilizado en veh�culos de la Locomoci�n Colectiva. Ventas y Servicios � Nuevo Te…
+Word Impuesto Espec�fico al Gas Natural Comprimido utilizado en veh�culos de la Locomoci�n Colectiva.
 
 ## Referencias detectadas
 

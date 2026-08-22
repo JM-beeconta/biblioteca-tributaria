@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-13
+- Fecha: 2005-09-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1008.doc
 - Hash SHA-256: dfc34607c901bc04e6865fae3c939632aed0bda8325843af56e62ef5cdc5f28e
 
 ## Resumen
 
-lar N� 29, de 1991. Word Determinaci�n del L�mite no Constitutito de Renta de las Indemnizaciones por A�os de Servicio, conforme a lo dispuesto por el N� 13, del Art�culo 17�, de la Ley de la Renta. (Ord. N� 3.464,de 13.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9, Art. 31�, N� 7 � Ley N� 16.271 � Circular N� 24, de 1993. Word Situaci�n Tributaria de las Donaciones que se efect�en a una Corporaci�n, conforme a las Normas del N�7, del Art�culo 31�, de la Ley de la Renta. ( Ord. N� 3.409, de 08.0…
+Word Situaci�n Tributaria de las Donaciones que se efect�en a una Corporaci�n, conforme a las Normas del N�7, del Art�culo 31�, de la Ley de la Renta. ( Ord. N� 3.409, de 08.09.2005)
 
 ## Referencias detectadas
 

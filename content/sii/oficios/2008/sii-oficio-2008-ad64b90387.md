@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 59�, Art. 65� � Oficio N� 3.514, de 2003. (Ord. N� 1.583, de 29.07.2008) Word Circunstancias que hacen a un extranjero, perder su domicilio en Chile, conforme a lo dispuesto por el art�culo 3� de la Ley sobre Impuesto a la Renta, en relaci�n con lo establecido en el N�8, del art�culo 8�, del C�digo Tributario. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2, Art. 38� � C�digo de Comercio, Art. 233. (Ord. N� 1.582, de 29.07.2008) Word Situaci�n Tributaria de sumas pagadas al exterior por concepto de com…
+Word Situaci�n Tributaria de sumas pagadas al exterior por concepto de comisiones, de acuerdo a lo establecido por el N�2, del inciso cuarto del art�culo 59�, de la Ley de la Renta
 
 ## Referencias detectadas
 

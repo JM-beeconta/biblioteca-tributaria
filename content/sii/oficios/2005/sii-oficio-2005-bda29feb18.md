@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-28
+- Fecha: 2005-03-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja920.doc
 - Hash SHA-256: dc0c5ee6d6f915a8add4c760c3d9b4de2830baf36be1db2900d87a03f5a9e3d3
 
 ## Resumen
 
-Word Tributaci�n de las Remuneraciones que Perciben los Concejales, conforme a las Normas del Art�culo 42�, N�1, 43�, N�1 y 54�, N�3 de la Ley de la Renta. (Ord. N� 790, de 28.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Decreto Supremo N� 344, de 2004, de Hacienda � Circular N� 51, de 2004. Word Tributaci�n de los Contribuyentes Agricultores, conforme a las Normas de la letra b) del N�1, del Art�culo 20�, de la Ley de la Renta. (Ord. N� 761, de 24.03.2005) Renta � Actual Ley Sobre…
+Word Tributaci�n de los Contribuyentes Agricultores, conforme a las Normas de la letra b) del N�1, del Art�culo 20�, de la Ley de la Renta. (Ord. N� 761, de 24.03.2005)
 
 ## Referencias detectadas
 

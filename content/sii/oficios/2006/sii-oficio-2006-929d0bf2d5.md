@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-05
+- Fecha: 2006-09-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3863.doc
 - Hash SHA-256: 54e245a248e2a603a2818cb74000a9d949cfdef0f1cd1125c04aa167cacf0b53
 
 ## Resumen
 
-radoras de Fondos de Pensiones � Oficios N�s 1374 y 1480, de 2004, N�s 104, 5295, 6141, de 2003 y N�2758, de 2002. Word Confirma criterio respecto al Tratamiento Tributario aplicable a las sumas correspondientes a Fondos Previsionales retirados por los T�cnicos Extranjeros conforme a lo dispuesto por el art�culo 7� de la Ley N�18.156. (Ord. N� 3.866, de 05.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17 N�8, Art. N�18. Word Calificaci�n de Habitualidad en Venta de Acciones, en el caso en que el Enajenant…
+Word Calificaci�n de Habitualidad en Venta de Acciones, en el caso en que el Enajenante es Due�o de m�s del 51% de las Acciones de la Sociedad An�nima, producto del Retiro del 20% de los Accionistas que hicieron Uso del Derecho dispuesto en el art�culo 69 de la Ley de Sociedades An�nimas. (Ord. N� 3.863, de 04.09.2006)
 
 ## Referencias detectadas
 

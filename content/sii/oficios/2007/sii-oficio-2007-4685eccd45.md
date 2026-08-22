@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-09
+- Fecha: 2007-05-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4093.doc
 - Hash SHA-256: 7d3d80a1465d2e0a4cdfbfc6df3ec6a2fd0b6dbc54a9fbeb75f80a37dbd74a95
 
 ## Resumen
 
-94.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�13 Art. 31�, D.F.L. N� 44, de 1978, Art. 3�, Art. 19. (Ord. N�1.033,de 09.05.2007) Word Aclara sentido y alcance de Oficio N�2.830, de 2004, del Servicio de Impuestos Internos. Renta � Actual Ley Sobre Impuesto a la � 17�, N� 8, letra i), Art. 18�. (Ord. N� 999, de 07.05.2007) Word Situaci�n Tributaria de la enajenaci�n de una cuota o derecho de dominio sobre dos predios agr�colas adquiridos por donaci�n, conforme a lo dispuesto por la letra i), del N� 8…
+Word Situaci�n Tributaria de la enajenaci�n de una cuota o derecho de dominio sobre dos predios agr�colas adquiridos por donaci�n, conforme a lo dispuesto por la letra i), del N� 8, del art�culo 17, de la Ley de la Renta.
 
 ## Referencias detectadas
 

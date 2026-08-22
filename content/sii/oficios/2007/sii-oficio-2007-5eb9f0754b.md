@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-06
+- Fecha: 2007-08-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2521.htm
 - Hash SHA-256: ee77fb1f8f08ea338b7220ba01909da394f9165478ae5fb5fcc63cc09efa5812
 
 ## Resumen
 
-ize='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 31� inciso primero, Art. 31� N�5, Art. 41� N�2�. (Ord. N� 2593, de 06.09.2007) Word Solicita confirmar criterios con relaci�n al tratamiento tributario de ciertos desembolsos a realizarse en la situaci�n que se describe. Renta � Normas Internacionales � Convenio entre Chile y el Reino de Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en Relaci�n al Impuesto sobre Renta - Art. 5�, Art. 7� - Oficio N� 2.890, de 2005. (Ord. N�2.521, de 27.08.…
+Renta � Normas Internacionales � Convenio entre Chile y el Reino de Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en Relaci�n al Impuesto sobre Renta - Art. 5�, Art. 7� - Oficio N� 2.890, de 2005.
 
 ## Referencias detectadas
 

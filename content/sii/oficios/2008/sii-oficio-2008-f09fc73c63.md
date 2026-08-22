@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-18
+- Fecha: 2008-02-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja285.htm
 - Hash SHA-256: 396d18e065295fe7401e3039acfa6be3a67e0603bcc8f893adabb672cc930e36
 
 ## Resumen
 
-etos y recarga de cuotas de transporte. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, Art. 55� - Circular N�103, de 1979.(Ord. N� 310, de 18.02.2008) Word Personas que no son contribuyentes del IVA no se encuentran obligadas a emitir gu�as de despacho en el traslado de bienes corporales muebles que no importan venta. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�2�, Art. 36� - C�digo de Comercio, Art.1044 � D.L. N�3.059, de 1979, Art. 7�. (…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�2�, Art. 36� - C�digo de Comercio, Art.1044 � D.L. N�3.059, de 1979, Art. 7�. (Ord. N� 285, de 11.02.2008)
 
 ## Referencias detectadas
 

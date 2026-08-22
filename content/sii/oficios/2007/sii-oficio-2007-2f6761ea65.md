@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, art. 20� N�3� y 4�. (Ord. N� 2805, de 01.10.2007) Word Consulta sobre procedencia del cobro del Impuesto al Valor Agregado que grava al servicio de notificaciones prestado por el Centro Integrado de Notificaciones del Centro de Justicia. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra G, Art. 27� Bis, Art. 23 �- C�digo de Comercio Art. 3� N�5�. (Ord. N� 2804, de 01.…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra G, Art. 27� Bis, Art. 23 �- C�digo de Comercio Art. 3� N�5�. (Ord. N� 2804, de 01.10.2007)
 
 ## Referencias detectadas
 

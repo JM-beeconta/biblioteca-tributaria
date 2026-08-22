@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-30
+- Fecha: 2005-12-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1120.doc
 - Hash SHA-256: 2c249ffc60f68a177359e550a90e209702754815887310b57e1ad6a202aa4f50
 
 ## Resumen
 
-vo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, Art. 24�, N� 11 � Ley N� 18.010, Art. 1�. Word Operaciones de Factoraje con documentos de Exportaci�n. Exenci�n de Impuesto de Timbres y Estampillas, Art�culo 24�, N�11, de la Ley. (Ord. N� 5.144, de 30.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 17 � Ley N� 19.840, Art. 3� � Circular N� 71, de 2002. Word Suma a considerar para determinar el Impuesto al Mutuo con relaci�n a Exenci�n del Impuesto de Timbres y Estampillas que e…
+Word Suma a considerar para determinar el Impuesto al Mutuo con relaci�n a Exenci�n del Impuesto de Timbres y Estampillas que estableci� Ley N� 19.540, de 2002, en el Art�culo 24�, N�17, del D.L. N�3.475, de 1980. (Ord. N� 5.050, de 23.12.2005)
 
 ## Referencias detectadas
 

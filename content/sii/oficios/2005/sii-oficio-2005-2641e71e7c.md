@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Aplicaci�n del Impuesto Adicional que afecta a los Reaseguros. (Ord. N� 808, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 52�, Art. 55� bis � Ley N� 19.622, de 1999 � Circular N� 87, de 2001. Word Contribuyente acogido al Beneficio Tributario de la Ley N� 19.622, que se puede acoger a las normas del art�culo 55� bis de la Ley de la Renta. (Ord. N� 807, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�9 � Circular N� 100, de 1975 � Oficio N� 953, de 1997. Word Tratam…
+, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�9 � Circular N� 100, de 1975 � Oficio N� 953, de 1997.
 
 ## Referencias detectadas
 

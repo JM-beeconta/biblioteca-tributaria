@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-04-28
+- Fecha: 2006-04-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1420.doc
 - Hash SHA-256: 4fdbbb440d958390995b2b32e1376cf00b7c27ed6d7d46987713eaf94ac30d3b
 
 ## Resumen
 
-e='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Oficio N�2040, de 2000. Word Se solicita confirmar criterios establecidos por el Servicio, con relaci�n al tratamiento tributario de pagos que deben efectuarse al exterior, de acuerdo a los antecedentes que se indican. (Ord. N� 1518, de 28.04.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18� � C�digo Civil, Art. 686. . Word Solicita ratificaci�n del criterio respecto a la fecha en que se entiende efectuada o verificada la enajenaci�n…
+Word Solicita ratificaci�n del criterio respecto a la fecha en que se entiende efectuada o verificada la enajenaci�n de un bien ra�z, para efectos de presunci�n de habitualidad. (Ord. N� 1420, de 21.04.2006)
 
 ## Referencias detectadas
 

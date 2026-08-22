@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tm'>(Ord. N� 2.998, de 25.10.2007) Word Situaci�n Tributaria de las Asociaciones Gremiales frente a las normas de la Ley de Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 38�, Art. 41� B. (Ord. N� 2.997, de 25.10.2007) Word Incidencia en Chile de las variaciones del tipo de cambio de las monedas de los pa�ses en donde se encuentran radicadas las agencias de empresas nacionales. Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�5� - Ley N�19.738, del 2001 � Circular N�65, de 2001. (Ord. N� 297…
+Word Incidencia en Chile de las variaciones del tipo de cambio de las monedas de los pa�ses en donde se encuentran radicadas las agencias de empresas nacionales.
 
 ## Referencias detectadas
 

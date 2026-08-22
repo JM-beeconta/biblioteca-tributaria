@@ -11,7 +11,7 @@
 
 ## Resumen
 
-f='renta/ja4010.doc'>Word Tributaci�n frente a la Ley de la Renta de Asesor�a Cient�fica prestada en Chile por una persona natural sin Domicilio ni Residencia en el pa�s, contratada por una Universidad reconocida por el Estado, conforme a lo dispuesto por el art�culo 59�, de la Ley del ramo y el art�culo N� 234, de la Ley N� 16.840. (Ord. N� 4.655, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 69�, Art. 70� � Oficio N� 634, de 1993. Word Tratamiento Tributario de la P�rdida del Va…
+Word Tratamiento Tributario de la P�rdida del Valor de las acciones de Propiedad de un Contribuyente, por quiebra de la Sociedad emisora, conforme al Art�culo 31�, de la Ley de la Renta. (Ord. N� 4.654, de 27.11.2006)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-08
+- Fecha: 2006-03-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1139.doc
 - Hash SHA-256: 3bb244ff74751f81b4a72bdacede68c24a089ee6d4c3c1b947ca7443f4a77c3a
 
 ## Resumen
 
-Aplicaci�n del IVA a Servicios prestados por una Sociedad An�nima y posibilidad de acogerse al beneficio establecido en el Art�culo 27� bis, del Decreto Ley 825, de 1974. (Oficio N� 810, de 08.03.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 24� � C�digo Tributario, Art. 126� � Ley N� 18.502 � Ley N� 19.764, de 2001, Art. 2� Word Procedencia de acogerse a la Franquicia Tributaria de Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel en el Transporte de Carga, del art�culo 2�,…
+Word Procedencia de acogerse a la Franquicia Tributaria de Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel en el Transporte de Carga, del art�culo 2�, de la Ley N� 19.764, de 2001. (Oficio N� 739, de 01.03.2006)
 
 ## Referencias detectadas
 

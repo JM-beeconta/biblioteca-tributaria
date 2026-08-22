@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-12-14
+- Fecha: 2007-11-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3231.htm
 - Hash SHA-256: 918cacfb33a74e2ffe864e584d177e5b15be1f7dac0e30ee15b03ad3282b9bf1
 
 ## Resumen
 
-Renta � Normas Internacionales - Convenio entre Chile y Brasil para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre Renta. Art. 12 y Art. 14� (Ord. N�3.396, de 14.12.2007) Word Deducci�n como Cr�dito de Impuestos retenidos en Brasil por servicios prestados en ese pa�s. Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1� Letra B - Ley N� 19.892, de 2003, Art. 2� Transitorio � Ley N�17.235, Art. 9� - D.S. N�344, de 2004, Ministerio de Hacienda � Circular N�51, de 2004. (Ord.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1� Letra B - Ley N� 19.892, de 2003, Art. 2� Transitorio � Ley N�17.235, Art. 9� - D.S. N�344, de 2004, Ministerio de Hacienda � Circular N�51, de 2004.
 
 ## Referencias detectadas
 

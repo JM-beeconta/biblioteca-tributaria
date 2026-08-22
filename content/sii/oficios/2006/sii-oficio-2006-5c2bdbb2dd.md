@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-08
+- Fecha: 2006-03-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1128.htm
 - Hash SHA-256: 541f4f0984643d597825c9c2613660fa87acbb6bb9ae89cb4de0ec6ae2ea0a4e
 
 ## Resumen
 
-doc'>Word Contribuyente acogido al Beneficio Tributario de la Ley N� 19.622, que se puede acoger a las normas del art�culo 55� bis de la Ley de la Renta. (Ord. N� 807, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�9 � Circular N� 100, de 1975 � Oficio N� 953, de 1997. Word Tratamiento Tributario de la Enajenaci�n de Derechos Sociales, en caso que indica. (Ord. N� 744, de 02.03.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, de 1999, Art. 5� � Oficio N� 652, de 2005. Word Exigibil…
+, de 02.03.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, de 1999, Art. 5� � Oficio N� 652, de 2005.
 
 ## Referencias detectadas
 

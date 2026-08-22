@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eguido en contra de un estado extranjero, de acuerdo a los antecedentes que se exponen. (Ord. N�1552, de 03.05.2006). Renta � Actual Ley sobre Impuesto a la � Art. 20, N�1, letra b) � Oficios N� 3595, de 2001, N� 416, de 1997 y N� 6431, de 2003. Confirma criterios sobre tratamiento tributario sobre divisiones de sociedades, de acuerdo a pronunciamientos emitidos con anterioridad sobre la materia. (Ord. N�1551, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Oficio N�2040, de 2000. Word Se solic…
+03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Oficio N�2040, de 2000.
 
 ## Referencias detectadas
 

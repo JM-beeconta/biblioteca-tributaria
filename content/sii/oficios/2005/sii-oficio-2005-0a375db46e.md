@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-25
+- Fecha: 2005-07-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja991.doc
 - Hash SHA-256: b0c36596a99cf6934b9271f2368b108ae5cb1d1e2c6c9a051b2deb32b48bdd69
 
 ## Resumen
 
-ra d), Art. 21�, Art. 39�, N� 3, Art. 54�, N� 1, Art. 56�, N� 3, Art. 63� Word Forma de Tributar de Sociedad de Responsabilidad Limitada por el Arrendamiento de Bienes Ra�ces no Agr�colas. (Ord. N� 2.803, de 25.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N� 2, Art. 74�, N� 4 � Decreto Ley 825, de 1974, Art. 12�, Letra E), N� 7. Word Tributaci�n aplicable a la Adquisici�n de un Sistema Inform�tico en el Exterior, conforme a lo dispuesto por el N� 2, del Art�culo 59�, de la Ley de la Renta. (Ord. N�…
+Word Tributaci�n aplicable a la Adquisici�n de un Sistema Inform�tico en el Exterior, conforme a lo dispuesto por el N� 2, del Art�culo 59�, de la Ley de la Renta. (Ord. N� 2.591, de 18.07.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-05
+- Fecha: 2005-08-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1003.doc
 - Hash SHA-256: 1df789ec2dc42ee6b43ca4d60eeb5985227357cd1c337a5816e6652194e0aa90
 
 ## Resumen
 
-460, de 1976. (Ord. N� 3.325, de 05.09.2005) Word Devengo del Impuesto Al Valor Agregado en el Arrendamiento de Bienes Corporales Inmuebles con Instalaciones. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�, Art. 56� � C�digo Tributario, Art. 6�, Letra A), N�1 � Ley N� 19.983, de 2004 - Res. Ex. N�s 1.578, de 1979 y N� 14, de 2005. (Ord. N� 3.134, de 25.08.2005) Word Pide establecer Vigencia de la Resoluci�n Exenta N� 1.578, de 1979, que excepciona de la emisi�n de Gu�as de Despacho a…
+Word Pide establecer Vigencia de la Resoluci�n Exenta N� 1.578, de 1979, que excepciona de la emisi�n de Gu�as de Despacho a Empresas Period�sticas y otras.
 
 ## Referencias detectadas
 

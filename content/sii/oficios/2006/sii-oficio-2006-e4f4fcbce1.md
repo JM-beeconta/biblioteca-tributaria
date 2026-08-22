@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-13
+- Fecha: 2006-10-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3986.doc
 - Hash SHA-256: eb38c644d241b3fe139b3f7394a7861225803562d32643f93d2282a274221013
 
 ## Resumen
 
-l Ley Sobre Impuesto a la � Art. 22�, N�2, Art. 24�� C�digo Tributario, Art. 126, N�2 � D.S. N� 64, de 1975. Word Tributaci�n de Peque�os Comerciantes que desarrollan actividades en la v�a P�blica, conforme lo dispuesto por los art�culos 22� y 24�, de la Ley sobre Impuesto a la Renta. (Ord. N�, 4.240, de 13.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 1� � D.F.L. N� 2, de 1998, Art. 1�, Art. 5�, Art. 16�, Art. 17� y Art. 24�. Word Constituyen Renta los Cobros Mensuales realizados por Establecimientos Edu…
+Word Constituyen Renta los Cobros Mensuales realizados por Establecimientos Educacionales de Financiamiento Compartido. (Ord. N�, 4.197, de 11.10.2006)
 
 ## Referencias detectadas
 

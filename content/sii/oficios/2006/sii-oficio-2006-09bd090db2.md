@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-21
+- Fecha: 2006-02-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1134.doc
 - Hash SHA-256: ffc0c0a2a4e14f1f5686bbd5098bcc8bbb9cfea8234614b7a65bc07513f047e1
 
 ## Resumen
 
-2�, N�2, Art. 8�. Word Aplicaci�n de IVA a las Asesor�as T�cnicas prestadas por una Empresa Constructora en el caso que no participe en la Construcci�n del Proyecto Dise�ado. (Oficio N�634, de 21.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 52�, Art. 53� � Ley N� 19.418. Word R�gimen de IVA, en Servicio de Suministro de Luz y Agua prestado por una Organizaci�n Comunitaria Funcional a sus Asociados. (Oficio N� 591, de 16.02.2006) Ventas y Servicios � Nuev…
+Word R�gimen de IVA, en Servicio de Suministro de Luz y Agua prestado por una Organizaci�n Comunitaria Funcional a sus Asociados. (Oficio N� 591, de 16.02.2006)
 
 ## Referencias detectadas
 

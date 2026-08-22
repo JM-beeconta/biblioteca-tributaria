@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-28
+- Fecha: 2005-01-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja890.doc
 - Hash SHA-256: 2ccc3a3a28c5c2c4629fa40585a27872b46dc213ab9e7f4a6f3c26f3e4c6b572
 
 ## Resumen
 
-9, de 1997 y 45, de 2001. Word Efectos Tributarios que produce la Divisi�n de una Sociedad An�nima, conforme a las Normas del Art�culo 94�, de la Ley N� 18.046 y de la Ley de la Renta. (Ord. N� 275, de 28.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 52�, Art. 59� � Decreto Ley N� 889, de 1975, Art. 13�. Word Improcedencia de la deducci�n establecida en el Art�culo 13�, del Decreto Ley N� 889, de 1975, respecto de la Dieta Parlamentaria percibida por los Diputados y Senador…
+Word Improcedencia de la deducci�n establecida en el Art�culo 13�, del Decreto Ley N� 889, de 1975, respecto de la Dieta Parlamentaria percibida por los Diputados y Senadores de la Primera regi�n, para los efectos de Determinar los Impuestos establecidos en los Art�culos 42�, N� 1 y 52�, de la Ley de Impuesto a la Renta. (Ord. N� 268, de 27.01.2005)
 
 ## Referencias detectadas
 

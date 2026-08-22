@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.12�, Art. 23�, ART. 36� - Resoluci�n Exenta N� 2.111, de 2007 - Ley de la Renta, Art. 20� N�5�. (Ord. N� 545, de 20.03.2008) Word Solicita pronunciamiento acerca de devoluci�n de remanentes de cr�dito fiscal originados con anterioridad a la calificaci�n de exportador de servicios obtenida por empresa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36�. (Ord. N� 543, de 20.03.2008) Word Organizaci�n Ci…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36�. (Ord. N� 543, de 20.03.2008)
 
 ## Referencias detectadas
 

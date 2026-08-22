@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font> Renta � Actual Ley Sobre Impuesto a la � Art. 41�. Word Aplicaci�n de las Normas de Relaci�n en la Venta de Derechos Sociales, de acuerdo a lo dispuesto por el inciso cuarto del Art�culo 41�, de la Ley de la Renta. (Ord. N� 4.646, de 23.11.205) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, de 1990, Art. 8� � Circulares N�s 24, de 1993 y 57, de 2001. Word Calificaci�n de Donaciones para Fines Culturales en el caso que se indica, conforme a las Normas del Art�culo 8�, de la Ley N� 18.985, de 1990. (O…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, de 1990, Art. 8� � Circulares N�s 24, de 1993 y 57, de 2001.
 
 ## Referencias detectadas
 

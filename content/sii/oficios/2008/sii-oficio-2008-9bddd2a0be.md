@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-19
+- Fecha: 2008-07-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1585.doc
 - Hash SHA-256: 73f5d14b3e1685baa8c2889cf47460664ce744a74b185dd8724cd21bf49780d3
 
 ## Resumen
 
-97, de 19.08.2008) Word Mantenci�n de los beneficios establecidos en el art�culo 5� transitorio de la Ley N� 20.026, de 2005, en caso que la empresa beneficiaria sea vendida total o parcialmente a un inversionista extranjero que materialice su inversi�n al amparo del D.L. N�600. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 68� � Decreto Ley N� 825, de 1974, Art. 29� � Resoluci�n Ex. N� 36, de 1977. (Ord. N� 1.585, de 29.07.2008) Word Obligaci�n de presentar declaraci�n anual de impuesto a la renta en el…
+Word Obligaci�n de presentar declaraci�n anual de impuesto a la renta en el caso de contribuyente que se indica.
 
 ## Referencias detectadas
 

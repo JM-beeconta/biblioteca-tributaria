@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-30
+- Fecha: 2008-07-10
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja1455.htm
 - Hash SHA-256: 3750cc2def0d84e356a8ddf34dcfc80221fd65fdd0a4686c4ebb1950c4886dd1
 
 ## Resumen
 
-tributarios otorgados a viviendas sociales. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3, Art. 24�, N�11. (Ord. N� 1.595, de 30.07.2008) Word Solicita confirmar tratamiento tributario que frente a la Ley de Timbres y Estampillas debe aplicarse a operaci�n de cr�dito destinada a financiar exportaci�n. Art. 24�, N�11, de D.L. N� 3.475, de 1980 Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � C�digo Tributario, Art. 126� � Circulares N��s 72, de 2001 y 27, de 2007. (Ord. N�…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � C�digo Tributario, Art. 126� � Circulares N��s 72, de 2001 y 27, de 2007. (Ord. N� 1.455, de 10.07.2008)
 
 ## Referencias detectadas
 

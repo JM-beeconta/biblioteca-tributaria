@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-05
+- Fecha: 2005-03-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja929.htm
 - Hash SHA-256: 1f35799306571cf37cb010769d2f0efce32f42fdd04da859686799ce12bbdf75
 
 ## Resumen
 
-e="1"> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 12�, Art. 13�, N� 4 � Circular N� 11, de 2004 � Oficio N� 929, de 1991 (Ord. N� 933, de 05.04.2005) Word Art�culo 8�, letra g), Decreto ley N�825, de 1974. Arriendo de Establecimientos y Gimnasios para la Pr�ctica de Actividades Deportivas. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, de 1986, Art. 6� � Decreto Supremo de Hacienda N� 311 � Circulares N�s 29 y 32, de 1986. (Ord.…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, de 1986, Art. 6� � Decreto Supremo de Hacienda N� 311 � Circulares N�s 29 y 32, de 1986. (Ord. N� 793, de 28.03.2005)
 
 ## Referencias detectadas
 

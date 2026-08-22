@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-27
+- Fecha: 2006-11-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4581.doc
 - Hash SHA-256: 567463580601c4514af0d47461919bf0398ede67e442904125ed34b084a704df
 
 ## Resumen
 
-ue permiten el ejercicio de una actividad industrial o comercial, da derecho a Cr�dito Fiscal en su totalidad sin necesidad de tener que aplicar proporcionalidad por causa de la rebaja establecida en el Art. 17�, del D.L. N� 825. (Oficio N� 4.651, de 27.11.2006) Ventas y Servicios � Nuevo Texto � Ley sobre Impuesto a las � Ley N� 19.983, Art. 1 - Resoluci�n Ex. N� 14 de 2005. Word Aplicaci�n de las normas de la Ley 19.983, de 2004, a la Solicitud Registro Factura emitida por operaciones efectuadas en Zona Franca.…
+Word Aplicaci�n de las normas de la Ley 19.983, de 2004, a la Solicitud Registro Factura emitida por operaciones efectuadas en Zona Franca. (Ord. N� 4.581, de 15.11.2006)
 
 ## Referencias detectadas
 

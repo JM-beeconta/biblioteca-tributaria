@@ -11,7 +11,7 @@
 
 ## Resumen
 
-d Limitada Ord. N� 3.790, de 29.09.2005) Operaciones Hipotecarias � Emisi�n de Documentos Tributarios � Resoluci�n Exenta N� 07, de 2005. Word Emite Pronunciamiento sobre Consultas Relativas a los Comprobantes que deben emitirse por Servicios relacionados con Operaciones Hipotecarias (Ord. N� 3.189, de 29.09.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � Ley sobre Impuesto a la Renta, Art. 2�, N�1, Art. 17�, N�22. Word Impuesto de Timbres y Estampillas en Condonaci�n de Saldo de Prec…
+29.09.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � Ley sobre Impuesto a la Renta, Art. 2�, N�1, Art. 17�, N�22.
 
 ## Referencias detectadas
 

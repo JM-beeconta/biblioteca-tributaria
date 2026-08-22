@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-21
+- Fecha: 2006-09-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3983.doc
 - Hash SHA-256: 9756b698f23411aece9c7d529a761e0d4b711d68e7ddf29f41ce72594f81ccb7
 
 ## Resumen
 
-ial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.220, Art. 2�, Art. 39� � D.L. N� 825, de 1974, Art. 27�. Word Pronunciamiento respecto del Procedimiento desarrollado por la Bolsa de Productos Agropecuarios S.A., relativo a la Facturaci�n de Operaciones realizadas en ella. (Ord. N� 4.001, de 21.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 3, Art.17 N�17, Art. 41 A � Circular N�52, de 1993. Word Situaci�n Tributaria de Extranjero domiciliado en Chile, en caso de internar Fondos de Pension…
+Word Situaci�n Tributaria de Extranjero domiciliado en Chile, en caso de internar Fondos de Pensiones y Ahorros directamente a trav�s del Mercado Cambiario Formal, conforme a las normas de los art�culos 3� y 41� A de la Ley de la Renta. (Ord. N� 3.983, de 14.09.2006)
 
 ## Referencias detectadas
 

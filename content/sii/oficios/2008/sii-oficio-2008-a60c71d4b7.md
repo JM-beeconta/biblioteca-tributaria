@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-23
+- Fecha: 2008-10-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja2876.htm
 - Hash SHA-256: a073b3489fc9e574ce2e20b3a7d1d657379032d85128c699bc5edef8d9625035
 
 ## Resumen
 
-adquisici�n y mantenci�n de un veh�culo denominado Minib�s. Ventas y servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Decreto Ley N�824, de 1974, Art. 20�, N��s 3 y 4. (Ord. N� 3.044, de 23.10.2008) Word Servicios de cobranza y recaudaci�n de una cartera de Cr�dito perteneciente a un fondo privado de inversi�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 16�, letra c) � Circular N�44, de 1996. (Ord. N� 2.876, de 06.10.2008) Word No se e…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 16�, letra c) � Circular N�44, de 1996. (Ord. N� 2.876, de 06.10.2008)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Ley sobre Impuesto a la � Art. 4 - Convenio entre la Rep�blica de Chile y la Rep�blica Argentina para Evitar la Doble Tributaci�n en materia de Impuestos sobre la Renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio- Art. 2, letra d) � C�digo tributario, Art. 8, N� 8 � Oficio N� 1683, de 1992. Concepto de residencia para personas naturales que contempla el Convenio suscrito con Argentina. (Ord. N� 3.419, de 26.07.2006) Ley de la Renta. Art�culo 57� bis, letra A, N� 7 . Determinaci�n del impuesto…
+Ley de la Renta. Art�culo 57� bis, letra A, N� 7 . Determinaci�n del impuesto �nico al fallecimiento de la persona titular de instrumentos de ahorro acogidos al mecanismo del art�culo 57� bis de la Ley de la Renta. (Oficio N� 3410, de 25 de Julio 2006).
 
 ## Referencias detectadas
 

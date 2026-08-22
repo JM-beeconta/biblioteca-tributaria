@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-27
+- Fecha: 2006-12-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4029.doc
 - Hash SHA-256: 846ea54939a4322c8d3f84783ed77e7034711a78ed8c8c37fa2646b6000f1df5
 
 ## Resumen
 
-m'>Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter, Art. 17�, N�8, letra a) � Decreto Ley N� 1.328, Art. 13�, N�1 � Circular N� 7, de 2002. Word Improcedencia del Beneficio Tributario del Art�culo 18� ter de la Ley de la Renta, en el caso de Fusi�n de Sociedades. (Ord. N� 4.966, de 27.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2, Art. 60� � Circular N� 43, de 1980 � Oficios N��s 2.837, de 2001 y 3.325, de 2005. Word Tributaci�n de las sumas pagadas por Empresa Chilena, por el Arriendo de u…
+Word Tributaci�n de las sumas pagadas por Empresa Chilena, por el Arriendo de un Bien Mueble radicado en el exterior, cuyo arrendador y propietario es una persona sin Domicilio ni Residencia en Chile que no posee en el pa�s clase alguna de Agencia o establecimiento permanente. (Ord. N� 4.908, de 20.12.2006)
 
 ## Referencias detectadas
 

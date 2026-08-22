@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, Art. 7� - Ley N� 19.764, Art.2�- C�digo de Comercio Art.166� - Oficio N�30, de 2000 y N� 1501, de 2004. (Ord. N� 2727, de 26.09.2007) Word Consulta sobre utilizaci�n de la rebaja del Impuesto Espec�fico al Petr�leo Diesel.. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2�, Art. 13� N�4�, Art. 52�, Art. 55� - Ley de la Renta, Art. 20�, N�4� - Circular N�39�, de 2000. (Ord. N� 2726, de 26.09.2007) Word Consulta respecto a la calidad de hecho gravado con IVA de los ingresos…
+Word Consulta respecto a la calidad de hecho gravado con IVA de los ingresos percibidos por la prestaci�n de servicios consistente en impartir cursos de capacitaci�n.
 
 ## Referencias detectadas
 

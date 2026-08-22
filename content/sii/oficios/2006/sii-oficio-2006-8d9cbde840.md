@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-30
+- Fecha: 2006-10-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4003.doc
 - Hash SHA-256: a21b672cdef390a25c8a3ec50ec1b0c66da17e4d0b7345fa764f1bbf9072c8ee
 
 ## Resumen
 
-a la Renta, Art. 20�, N� 3. Word Solicita Pronunciamiento respecto de la aplicaci�n de IVA a Comisiones que se pagan por Servicios de recaudaci�n que indica. (Oficio N� 4.453, de 30.10.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N�6 � Ley N� 18.933, Art. 21� � Decreto Ley N� 2.763, Art. 16�, Art. 26�. Word Monto hasta el cual se encuentra Exenta de Impuesto al Valor Agregado, una Prestaci�n de salud otorgada por un tercero, la que es Financiada con un Bono de Isapre cuyo va…
+Word Monto hasta el cual se encuentra Exenta de Impuesto al Valor Agregado, una Prestaci�n de salud otorgada por un tercero, la que es Financiada con un Bono de Isapre cuyo valor es inferior al Valor de la Prestaci�n en el nivel del Arancel Fonasa en el cual se encuentra inscrito el Prestador. (Oficio N� 4.363, de 24.10.2006)
 
 ## Referencias detectadas
 

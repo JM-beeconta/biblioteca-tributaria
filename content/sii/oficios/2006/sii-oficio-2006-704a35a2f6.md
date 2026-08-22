@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-14
+- Fecha: 2006-09-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3973.htm
 - Hash SHA-256: e62e686237c2033aa8fe54e9b61468987cc5ecf739eba85f90e302ae1f4d72f9
 
 ## Resumen
 
-sp;(Ord. N� 3.983, de 14.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42 Bis, Art. 50. Word Solicita Pronunciamiento con el objeto de establecer la forma de hacer efectiva la Rebaja del Ahorro Previsional Voluntario en caso de Socio de una Sociedad de Profesionales de la Segunda Categor�a. (Ord. N� 3.974, de 13.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 29� al 33� - Circular N�65, de 2001 � Oficio N� 4.275, de 2005. Word Solicita Reconsiderar Oficio Ord. N�4.275, de 2005, que dice relaci�n a…
+Renta � Actual Ley Sobre Impuesto a la � Art. 29� al 33� - Circular N�65, de 2001 � Oficio N� 4.275, de 2005.
 
 ## Referencias detectadas
 

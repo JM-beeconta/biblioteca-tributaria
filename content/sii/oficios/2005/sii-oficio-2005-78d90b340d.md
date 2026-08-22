@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-16
+- Fecha: 2005-05-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja953.doc
 - Hash SHA-256: 354d2f45874d7ef69c464968d954d1a09f55017daf220e8c021c1012b7b4b46b
 
 ## Resumen
 
-de 16.05.2005) Word Procedencia de las Exenciones otorgadas por la Ley N� 16.528, de 1996 y especialmente la Exenci�n Tributaria establecida en el N� 7, del Art�culo 18�, de su reglamento, contenido en el Decreto Supremo N� 1.270, de 1996. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 19.149, de 1992 � Ley N� 18.392, Art. 9�. (Ord. N� 1.422, de 12.05.2005) Word Beneficio Tributario del Art�culo 9�, de la Ley N� 18.392, en relaci�n con el Reingreso de Mercader�as al resto del Pa�s. Ven…
+Word Beneficio Tributario del Art�culo 9�, de la Ley N� 18.392, en relaci�n con el Reingreso de Mercader�as al resto del Pa�s.
 
 ## Referencias detectadas
 

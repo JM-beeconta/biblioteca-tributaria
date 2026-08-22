@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-16
+- Fecha: 2005-03-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja912.htm
 - Hash SHA-256: 339bb74eda2b403fe88b47ec3e1a31499a0cce664a570b729edd8100b9768a18
 
 ## Resumen
 
-USTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 20�, N� 3, Art. 42�, N� 2, Art. 70� � C�digo de Procedimiento Civil, Art. 345� � Circular N� 8, de 2000. Word Forma de Acreditar los Recursos Provenientes del Exterior para Solventar Gastos o Inversiones en el Pa�s. (Ord. N� 689, de 16.03.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Ley N� 19.606, art. 1�, Art. 5�, Art. 9� � Circular N� 66, de 1999. Word Efectos que produce la Presentaci�n Extempor�nea del Pro…
+Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Ley N� 19.606, art. 1�, Art. 5�, Art. 9� � Circular N� 66, de 1999.
 
 ## Referencias detectadas
 

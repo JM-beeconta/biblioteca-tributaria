@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-05
+- Fecha: 2006-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1557.htm
 - Hash SHA-256: 0e4b4fa6075560cdab4f5e8634117f07b08906119e311724123caa2760ee717f
 
 ## Resumen
 
-cances en relaci�n con los impuestos establecidos en la Ley de la Renta. (Ord. N� 1613, de 05.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�3� � Circular N�28, de 2002. Word Situaci�n Tributaria de los Seguros Dotales, de acuerdo a lo dispuesto por el N�3 del art�culo 17� de la Ley de la Renta. (Ord. N� 1558, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 34 bis N�3 � Circulares N�s 58� y 63�, de 1990. Word Se informa sobre el criterio del Servicio, con relaci�n a la tributaci�n que…
+de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 34 bis N�3 � Circulares N�s 58� y 63�, de 1990.
 
 ## Referencias detectadas
 

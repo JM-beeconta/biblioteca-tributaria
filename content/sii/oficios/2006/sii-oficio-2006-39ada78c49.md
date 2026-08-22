@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ecreto Ley N� 910, de 1975, Art. 21� � Decreto Supremo N� 55, de 1977, Art 12�. Word No procede Beneficio establecido en el Art�culo 21�, del D.L. N�910, de 1975, en Contrato de Construcci�n a Suma Alzada para la Ejecuci�n de una obra, que en definitiva es Realizada Materialmente por terceros, mediante Subcontratos de Construcci�n. (Oficio N� 231, de 20.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 12�, letra E), N� 16, Art. 36�. Word Recuperaci�n del Impuest…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 12�, letra E), N� 16, Art. 36�.
 
 ## Referencias detectadas
 

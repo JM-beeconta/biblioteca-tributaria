@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N�814, de 2007�. (Ord. N� 2728, de 26.09.2007) Word Tributaci�n de la enajenaci�n de los derechos como arrendador de bienes arrendados por un Fondo de Inversiones Privado, de acuerdo al Art. 5� de la Ley N� 18.815, de 1989. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 7� - Ley N� 19.764, Art.2�- C�digo de Comercio Art.166� - Oficio N�30, de 2000 y N� 1501, de 2004. (Ord. N� 2727, de 26.09.2007) Word Consulta sobre utilizaci�n de la rebaja del Impuesto Espec�fico al Petr�…
+Word Consulta sobre utilizaci�n de la rebaja del Impuesto Espec�fico al Petr�leo Diesel..
 
 ## Referencias detectadas
 

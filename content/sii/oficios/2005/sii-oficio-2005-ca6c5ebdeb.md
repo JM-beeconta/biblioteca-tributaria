@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N� 50, de 1997. Word Incompetencia del Servicio, para pronunciarse sobre obligaci�n de los Notarios de Pagar gratificaciones legales. (Ord. N� 1.790, de 10.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b) y letra d), Art. 18� � C�digo Civil, Art�culo 589� � C�digo de Aguas, Art. 4�, Art. 5�, Art. 6�. Word Tributaci�n de Enajenaci�n de Predio Agr�cola y derechos de Agua inclu�dos en el Precio de Venta de dicho Inmueble, conforme a lo dispuesto en las letras b) y d), del N� 8, del…
+Word Tributaci�n de Enajenaci�n de Predio Agr�cola y derechos de Agua inclu�dos en el Precio de Venta de dicho Inmueble, conforme a lo dispuesto en las letras b) y d), del N� 8, del Art�culo 17� e incisos segundo y tercero del mismo n�mero de la Ley de la Renta, en concordancia con lo establecido en el Art�culo 18�, de la Ley de la Renta. (Ord. N� 1.789, de 10.06.2005)
 
 ## Referencias detectadas
 

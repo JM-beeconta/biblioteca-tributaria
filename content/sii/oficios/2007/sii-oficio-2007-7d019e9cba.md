@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r�leo Diesel. Leyes N��s 18.502 y 19.764. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502 � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166� - Ord. 1.501, de 2004. (Ord. N� 2.358, de 02.08.2007) Word Solicita interpretaci�n por el uso del cr�dito por Impuesto al Petr�leo Diesel. Leyes N��s 18.502 y 19.764. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6�, 7� - Ley N�19.764, Art. 2� � C�digo de Comercio, Art. 166� � Ord. 1.501, de 2…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6�, 7� - Ley N�19.764, Art. 2� � C�digo de Comercio, Art. 166� � Ord. 1.501, de 2004. (Ord. N� 2.357, de 02.08.2007)
 
 ## Referencias detectadas
 

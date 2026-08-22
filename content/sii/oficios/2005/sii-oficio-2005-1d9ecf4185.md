@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-24
+- Fecha: 2005-08-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1005.htm
 - Hash SHA-256: dae8b158f0929c1cf7d869dbf1a34498b87ae8c34d97ce1bbffd73a136a91471
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 21� � Circular N� 37, de 1995. Word Tributaci�n del Art�culo 21�, de la Ley de la Renta que afecta a Presunci�n de Retiro por el Uso y Goce de Bienes del Activo de la Empresa por parte de sus Socios. (Ord. N� 3.125, de 24.08.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 y Art. 43�, N�1 � Ley N� 19.175, Art. 39� � Circular N� 7, de 1993 � Oficio N� 1.105, de 2005. Word Tributaci�n que Afecta a los Consejeros Regionales, conforme a las Normas del Art�culo…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 y Art. 43�, N�1 � Ley N� 19.175, Art. 39� � Circular N� 7, de 1993 � Oficio N� 1.105, de 2005.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 13� N�3� � Ley de la Renta, art. 20� N� 4. (Ord. N� 2646, de 13.09.2007) Word Solicita se informe sobre la legalidad y procedencia del cobro del Impuesto al Valor Agregado en el transporte tur�stico privado remunerado en la Comuna de San Pedro de Atacama. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 52� - Ley de la Renta, Art. 20 N�4. (Ord. N� 2645, de 13.09.2007) Word…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 52� - Ley de la Renta, Art. 20 N�4. (Ord. N� 2645, de 13.09.2007)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-12
+- Fecha: 2006-04-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1309.doc
 - Hash SHA-256: 8d648149ae7332654816a0498fe21277658abb2655cb96f1c51fa84f3539aa74
 
 ## Resumen
 
-12.01.2006, a fin de que se califique que arrendamiento de inmueble no se encontrar�a gravado con IVA, ya que s�lo permitir�a el desarrollo de una actividad educacional. (Oficio N� 1555, de 03.05.2006). Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1 y N�3, Art.8� - Art. 4� del D. S. De Hacienda N�55, de 1977, Reglamento del D.L. N� 825 Word Solicita autorizaci�n para otorgar un incentivo econ�mico exento de Impuesto al Valor Agregado a los participantes en un proyecto de recolecci…
+Word Solicita autorizaci�n para otorgar un incentivo econ�mico exento de Impuesto al Valor Agregado a los participantes en un proyecto de recolecci�n de envases de pesticidas. (Oficio N� 1.309, de 12.04.2006)
 
 ## Referencias detectadas
 

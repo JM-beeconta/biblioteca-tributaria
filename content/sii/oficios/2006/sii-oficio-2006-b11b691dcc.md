@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-07
+- Fecha: 2006-08-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3529.htm
 - Hash SHA-256: 408dc88072f420d35d9a845ead57fd7b8311a0144ae9357ab2f6d3bde8ad1403
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�5. Word Solicita pronunciamiento acerca del Tratamiento Tributario de los Servicios de Asesor�as que presta una Empresa a sus clientes. (Oficio N�3.554, de 07.08.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.F.L. N� 341, de 1977, Art. 21� y 21� Bis � C�digo de Comercio, Art. 97� y sgtes. � Oficio N�4.122, de 2002. Word Solicita pronunciamiento con r…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.F.L. N� 341, de 1977, Art. 21� y 21� Bis � C�digo de Comercio, Art. 97� y sgtes. � Oficio N�4.122, de 2002.
 
 ## Referencias detectadas
 

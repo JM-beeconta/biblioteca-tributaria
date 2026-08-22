@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-21
+- Fecha: 2005-07-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja988.doc
 - Hash SHA-256: 65682a21b36bf0277c62c203f04de13f601d9dbe5ca4371b8088f4333191d9c9
 
 ## Resumen
 
-� 2.631, de 21.07.2005) Word Aplicaci�n del Impuesto a las Bebidas Alcoh�licas, Analcoh�licas y Productos Similares, establecido en el Art. 42, del D.L. N� 825, de 1974, que afecta a las Venta o Importaci�n de los Productos que se indican. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 19.709, Art. 8� � Circular N� 25 de 2002. (Ord. N� 2.602, de 19.07.2005) Word Diversas consultas sobre procedencia de beneficios tributarios establecidos en Ley N� 19.709, en situaciones que expone, con…
+Word Diversas consultas sobre procedencia de beneficios tributarios establecidos en Ley N� 19.709, en situaciones que expone, con el fin de determinar la viabilidad econ�mica de realizar una inversi�n al amparo de dicho cuerpo legal.
 
 ## Referencias detectadas
 

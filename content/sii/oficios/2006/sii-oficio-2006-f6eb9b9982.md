@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-23
+- Fecha: 2006-08-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3554.htm
 - Hash SHA-256: f62f36a9fa333750b7675dd4a5a2ea1c43822bef0684a167000e4b6ec9b3ebde
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�, � Resoluci�n N� 6080, de 1999 � Circular N�39, de 2000 Word Solicita pronunciamiento respecto del tratamiento tributario aplicable a las multas establecidas a empresas contratistas por retraso o incumplimiento de contratos de construcci�n de obras. (Oficio N� 3718, de 23.08.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�5. Word Solicita pronun…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�5.
 
 ## Referencias detectadas
 

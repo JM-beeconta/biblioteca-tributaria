@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-10
+- Fecha: 2005-06-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja964.htm
 - Hash SHA-256: f93e8843153ee55aa4abcd7b3eddf588dbedc26abe3edc9b89656cc46eb1906f
 
 ## Resumen
 
-Word Tributaci�n de Enajenaci�n de Predio Agr�cola y derechos de Agua inclu�dos en el Precio de Venta de dicho Inmueble, conforme a lo dispuesto en las letras b) y d), del N� 8, del Art�culo 17� e incisos segundo y tercero del mismo n�mero de la Ley de la Renta, en concordancia con lo establecido en el Art�culo 18�, de la Ley de la Renta. (Ord. N� 1.789, de 10.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�5 � Circular N� 27, de 1984 � Word Situaci�n Tributaria de Mayor Valor obtenido en la Colocaci…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�5 � Circular N� 27, de 1984 �
 
 ## Referencias detectadas
 

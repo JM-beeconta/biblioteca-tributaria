@@ -11,7 +11,7 @@
 
 ## Resumen
 
-JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 58� N�2�, Art. 74� N�4�, Art. 79� - Ley N�18.046, sobre Sociedades An�nimas, Art. 81�. (Ord. N� 875, de 25.04.2008) Word Procedencia de efectuar retenci�n de impuesto adicional del N�4� del art�culo 74 de la Ley de impuesto a la Renta en el caso que indica. Renta � Actual Ley Sobre Impuesto a la � Art. 31�. (Ord. N� 864, de 25.04.2008) Word Determinaci�n del Good Will, cuando el capital propio tributario de la sociedad absorbida es negativo en una fusi�n impr…
+Word Determinaci�n del Good Will, cuando el capital propio tributario de la sociedad absorbida es negativo en una fusi�n impropia.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 990
 - Año: 2005
-- Fecha: 2005-04-27
+- Fecha: 2005-04-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja940.doc
 - Hash SHA-256: d3441e4279c2c1c725959a9b77c6a452eeea8078883602bb060710bee2c139b3
 
 ## Resumen
 
-culo 507�, del C�digo de Comercio y 1�, de la Ley N� 18.120, que establece Normas sobre Comparecencia en juicio, en relaci�n con letra b), del Art�culo 84�, de la Ley de la Renta. (Ord. N� 1.195, de 27.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1 � Ley N� 19.175, de 1992, Art. 39� � Circular N� 7, de 1993 � Oficio N� 990, de 1998. Word Tributaci�n de las Rentas que perciben los Integrantes del Consejo Regional Metropolitano, conforme a las Normas de la Ley de la Renta. (Ord. N�…
+Word Tributaci�n de las Rentas que perciben los Integrantes del Consejo Regional Metropolitano, conforme a las Normas de la Ley de la Renta. (Ord. N� 1.105, de 22.04.2005)
 
 ## Referencias detectadas
 

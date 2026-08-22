@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1996 � Oficios N�s 1.849, 3.850 y 4.424, de 2001. Word Tratamiento Tributario de Diferencias entre el Precio de Adquisici�n de las Acciones y el Valor Libro de los Activos Monetarios por Fusi�n Impropia. (Ord. N� 3.465, de 13.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � C�digo Tributario, Art. 126� � Circular N� 29, de 1991. Word Determinaci�n del L�mite no Constitutito de Renta de las Indemnizaciones por A�os de Servicio, conforme a lo dispuesto por el N� 13, del Art�culo 17�, de la Ley de…
+Word Determinaci�n del L�mite no Constitutito de Renta de las Indemnizaciones por A�os de Servicio, conforme a lo dispuesto por el N� 13, del Art�culo 17�, de la Ley de la Renta. (Ord. N� 3.464,de 13.09.2005)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.htm">Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 5�, Art. 52� � C�digo Civil, Art. 1.915, Art. 1.924. Word Aplicaci�n del Impuesto al Valor Agregado establecido en el Art�culo 8�, letra h), del decreto Ley N�825, al Arrendamiento de una Marca Comercial inscrita en el Extranjero. (Oficio N� 375, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 12�, N� 11, Art. 23�, Art. 27� bis � Circular N� 94, de 2001 Word…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 12�, N� 11, Art. 23�, Art. 27� bis � Circular N� 94, de 2001
 
 ## Referencias detectadas
 

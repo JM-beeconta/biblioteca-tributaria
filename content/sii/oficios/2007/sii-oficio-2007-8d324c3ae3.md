@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-02
+- Fecha: 2007-10-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2996.doc
 - Hash SHA-256: 0b9fe349af66eae4dc7ab33f9bf1e01e4c7744493caf00271fae65eca2f74d5b
 
 ## Resumen
 
-06. (Ord. N� 3030, de 02.11.2007) Word Resuelve reconsideraci�n respecto a pronunciamiento relativo a la aplicaci�n del r�gimen de Zona Franca establecido en el D.F.L. N�341, de 1977, a los servicios de Seguridad y Vigilancia que ser�n prestados a usuarios de la referida Zona. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y N�2� - Ley de la Renta, Art. 20� N�s 3�, 4� y 5�. (Ord. N� 2.996, de 25.10.2007) Word Consultas relacionadas con la recepci�n y disposici�n final de residuos…
+Word Consultas relacionadas con la recepci�n y disposici�n final de residuos s�lidos y el tratamiento que les afecta.
 
 ## Referencias detectadas
 

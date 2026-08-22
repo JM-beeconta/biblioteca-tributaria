@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-15
+- Fecha: 2006-11-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4000.doc
 - Hash SHA-256: 6d7bac1f6398680c5418c7b1c292632b2245f8b805ac80ed9da943fefa679be5
 
 ## Resumen
 
-de sumas Pagadas por Arrendamiento de Redes de Canales. (Ord. N� 4.578, de 15.11.2006) Renta � Actual Ley sobre Impuesto a la � Art. 58, N�1 � C�digo Tributario, Art. 64. Valor de aporte de acciones a una sociedad de responsabilidad limitada, conforme al art�culo 64 del C�digo Tributario. (Ord. N� 4.577, de 15.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Ley N� 18.168. Word Situaci�n Tributaria de los Pagos por Servicios de Telecomunicaciones Internacionales que se Indican (Ord. N� 4.572, de 1…
+Word Situaci�n Tributaria de los Pagos por Servicios de Telecomunicaciones Internacionales que se Indican (Ord. N� 4.572, de 14.11.2006)
 
 ## Referencias detectadas
 

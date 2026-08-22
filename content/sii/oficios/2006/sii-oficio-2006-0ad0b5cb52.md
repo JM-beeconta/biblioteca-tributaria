@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-13
+- Fecha: 2006-09-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3856.doc
 - Hash SHA-256: 2bc6b45f325dab5c1efe0102a634f7dd173264d69b6a48d10b4eccb629e07b79
 
 ## Resumen
 
-Word Solicita Reconsideraci�n de Oficio Ord. N�236, de 2006, que dice relaci�n con la Tributaci�n aplicable a la Cesi�n de un Proyecto Televisivo. (Oficio N� 3.975, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3, Art. 23 N�1 � Ley N�18.768, de 1988 � Res. Ex. N�1.087, de 1978 Word Se plantean consultas con relaci�n a presentaci�n efectuada por un subdistribuidor de gas afectado por Res. Ex. 1084, que solicita pronunciamiento para pedir la devoluci�n del remanente de cr�d…
+Word Se plantean consultas con relaci�n a presentaci�n efectuada por un subdistribuidor de gas afectado por Res. Ex. 1084, que solicita pronunciamiento para pedir la devoluci�n del remanente de cr�dito fiscal acumulado por la retenci�n del IVA o bien se le autorice a excepcionarse del sistema establecido en... (Oficio N� 3.856, de 01.09.2006)
 
 ## Referencias detectadas
 

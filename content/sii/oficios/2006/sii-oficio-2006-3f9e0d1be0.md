@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-29
+- Fecha: 2006-03-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1006.doc
 - Hash SHA-256: c7764fcd59c0053b97f36ad384b55977616590ec5cb69aef0e44bd0cea006803
 
 ## Resumen
 
-196, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1 Letra b) � Art. 3� Transitorio de la Ley N� 18.985, de 1990 � Circular N� 58, de 1990. Word Tributaci�n que afecta a predio aportado a la formaci�n de sociedad agr�cola de responsabilidad limitada. (Ord. N� 1.195, de 29.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 5�, Art. 17 N�9, Art. 70 � Ley N� 16.271. Word Resuelve consultas relacionadas con la situaci�n tributaria de los herederos frente a las normas de los art�culos 5� y 70�…
+Word Resuelve consultas relacionadas con la situaci�n tributaria de los herederos frente a las normas de los art�culos 5� y 70� de la Ley de la Renta. (Ord. N� 1.006, de 17.03.2006)
 
 ## Referencias detectadas
 

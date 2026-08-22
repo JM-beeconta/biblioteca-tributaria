@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt face="arial" size="1"> Renta � Actual Ley Sobre Impuesto a la � Art. 18� bis � Ley N� 18.657, Art. 15� � Circular N� 47, de 2001 � Resoluci�n Ex. N� 56, de 2001. Word Aplicaci�n del Art�culo 15�, de la Ley N� 18.657, en relaci�n con las Rentas Referidas en el art�culo 18� bis de la Ley de la Renta. (Ord. N� 3.916, de 11.10.2005) Ley de Impuesto a la Renta. Art�culos 2, y 41� N�4. Situaci�n tributaria de la diferencia producida entre el valor de acciones y los activos recibidos en caso de fusi�n de sociedades. (…
+.2005) Ley de Impuesto a la Renta. Art�culos 2, y 41� N�4. Situaci�n tributaria de la diferencia producida entre el valor de acciones y los activos recibidos en caso de fusi�n de sociedades. ( Ordinario N� 3873, de 05 de Octubre 2005)
 
 ## Referencias detectadas
 

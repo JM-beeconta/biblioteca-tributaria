@@ -11,7 +11,7 @@
 
 ## Resumen
 
-esto a las � Art. 55�- Decreto Ley N�910, de 1975, Art. 21� - Circular N�26, de 1987 � C�digo Tributario, Art. 126�. (Ord. N� 2.353, de 02.08.2007) Word Procedencia del cr�dito especial del art�culo 21�, del D.L. N�910, de 1975, en el caso de un contribuyente que no factur� en su oportunidad la construcci�n de viviendas SERVIU, pero que en un proceso de fiscalizaci�n posterior emiti� las referidas facturas a petici�n del fiscalizador sin considerar el cr�dito especial en comento. Ventas y Servicios � Nuevo Texto �…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1�, Art. 8�, Art. 13�, N�4� - Circular N�11, de 2004. (Ord. N� 2.352, de 02.08.2007)
 
 ## Referencias detectadas
 

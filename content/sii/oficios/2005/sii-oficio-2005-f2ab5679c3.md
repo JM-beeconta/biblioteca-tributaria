@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-15
+- Fecha: 2005-06-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja969.htm
 - Hash SHA-256: de26af04d1f5a9dbbe7e22b7feb0e7fb6e68068855c0cb45ac5fcd25954a1642
 
 ## Resumen
 
-bre Impuesto a las � Art. 2�, N� 2 � Oficio N� 2.454, de 2003. (Ord. N� 1.823, de 15.06.2005) Word Tributaci�n con Impuesto al Valor Agregado que afecta a la Recuperaci�n de las sumas Pagadas por el Derecho a Explotar los Servicios de Cocina de Vuelo a las L�neas A�reas, los cuales seg�n Contrato deben ser reembolsados por el Beneficiario del Servicio. Tambi�n consulta acerca de la Documentaci�n a emitir por tal concepto. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 1, Art. 8��…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 1, Art. 8�� C�digo Civil, Art. 1.915� � C�digo de Miner�a, Art. 2�, Art. 171�. (Ord. N� 1.671, de 02.06.2005)
 
 ## Referencias detectadas
 

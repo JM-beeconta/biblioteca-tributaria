@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 553, de 06.03.2007) Word Los contribuyentes acogidos al r�gimen preferencial establecido por el art�culo 27� del Decreto con Fuerza de Ley N� 341, de 1977, del Ministerio de Hacienda, no se benefician con el cr�dito tributario establecido en el art�culo 1�, de la Ley N�19.606, de 1999. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�4. (Ord. N� 552, de 06.03.2007) Word Tratamiento Tributario de las normas de correcci�n monetaria y su efecto respecto de convenio para evitar la doble tributaci�n internaciona…
+Word Tratamiento Tributario de las normas de correcci�n monetaria y su efecto respecto de convenio para evitar la doble tributaci�n internacional suscrito con la Rep�blica Argentina.
 
 ## Referencias detectadas
 

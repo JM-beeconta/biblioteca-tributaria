@@ -11,7 +11,7 @@
 
 ## Resumen
 
-8, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 34 bis N�3 � Circulares N�s 58� y 63�, de 1990. Word Se informa sobre el criterio del Servicio, con relaci�n a la tributaci�n que corresponder�a a una Sociedad de personas acogidas a renta presunta cuyos socios son una persona natural y una Sociedad An�nima, en la situaci�n que se describe. (Ord. N�1557, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � ART. 70�, 71� - Circular N� 8�, del 2000. Word Persona natural, contribuyente de Segunda Ca…
+Renta � Actual Ley Sobre Impuesto a la � ART. 70�, 71� - Circular N� 8�, del 2000.
 
 ## Referencias detectadas
 

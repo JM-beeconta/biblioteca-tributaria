@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto a las � Art. 12�, Letra E), N� 17 � D.S. de Econom�a, N� 148, de 2003 � Circular N� 56, de 1991 � Oficios N�s 1.563, de 1993, 4.087 y 4.240, de 2003. (Ord. N� 1.580, de 29.07.2008) Word Alcance de la exenci�n de IVA contenida en el art�culo 12� letra E), N� 17, del Decreto Ley N� 825, que favorece a las empresas hoteleras. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�. (Ord. N� 1.579, de 29.07.2008) Word Consulta sobre utilizaci�n de cr�dito fiscal por compras de art�culos de…
+Word Consulta sobre utilizaci�n de cr�dito fiscal por compras de art�culos de seguridad y alimentos para perros.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-09
+- Fecha: 2005-05-03
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja936.doc
 - Hash SHA-256: f05b3ede94611fd99245d28566faf7fe872cde0fc1a3ae19374dc07533570159
 
 ## Resumen
 
-ja Ley � Ley Sobre Impuesto a la Renta, Art. 31�, N� 9 � Oficios N� 1.559, de 1991, N� 297, de 1982, N� 1.739, de 1986 y N� 3.008, de 2000. Word Tratamiento Tributario aplicable a los denominados Inventarios Intermedios de Baja Ley (Ord. N� 1377, de 09.05.2005) Cr�dito por Impuesto de Primera Categor�a en contra del Impuesto Global Complementario � Ley de la Renta � Art. 56�, N� 3, Art. 21�. Word Requisitos que se deben cumplir para tener Derecho al Cr�dito por Impuesto de Primera Categor�a ( Ord N� 1.287, de 03.0…
+Word Requisitos que se deben cumplir para tener Derecho al Cr�dito por Impuesto de Primera Categor�a ( Ord N� 1.287, de 03.05.2005)
 
 ## Referencias detectadas
 

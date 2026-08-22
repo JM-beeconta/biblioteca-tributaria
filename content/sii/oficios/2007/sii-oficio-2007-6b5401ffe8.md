@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Sobre Impuesto a la � Art. 42� Bis, Art. 55, Art. 57� - Circular N�7, de 1985, N�54, de 1986, N�53, de 1990 y N� 56, de 1993. (Ord. N� 2639, de 11.09.2007) Word Absuelve consultas relacionadas con lo dispuesto por los art�culos 42 bis, 55 y 57 bis de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8, Art. 18� - Circular N� 158, de 1976. (Ord. N� 2638, de 11.09.2007) Word Tratamiento tributario de la enajenaci�n de acciones en caso que se indica. Renta � Actual Ley Sobre Impuesto a la � Ar…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8, Art. 18� - Circular N� 158, de 1976.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-26
+- Fecha: 2008-02-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja310.doc
 - Hash SHA-256: 378cc5e3753ef983784ca060807e2b31a63c82330f8d69f0b70afbf9073550cc
 
 ## Resumen
 
-letra g), Art. 20 N�3 Y N�4� - C�digo de Comercio, Art. 233 y sgtes � Oficios N�2.716, de 1995, N� 2.676, de 1996, N�4.182, de 2003, N� 4.349, de 2004. (Ord. N�400, de 26.02.2008) Word Aplicaci�n de IVA a los servicios de comercializaci�n del medio de acceso, boletos y recarga de cuotas de transporte. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, Art. 55� - Circular N�103, de 1979.(Ord. N� 310, de 18.02.2008) Word Personas que no son contribuyentes del IVA no se encuentran obligadas…
+Word Personas que no son contribuyentes del IVA no se encuentran obligadas a emitir gu�as de despacho en el traslado de bienes corporales muebles que no importan venta.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-25
+- Fecha: 2008-04-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja823.htm
 - Hash SHA-256: a2ef6f8d4b7ae6d6b83f8792984f7d144656cd9dd6365c6c3da06118184f33ec
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 5�, Art. 8�, Art. 12� Letra E N�7� - Ley de la Renta, Art. 20� N�3� Y 14�, Art. 42� N�2�, Art. 59� N�2� - Circular N�21�, de 1991. (Ord. N�854, de 25.04.2008) Word Tratamiento tributario de los servicios de telefon�a IP, prestados en el pa�s por una compa��a extranjera a trav�s de vendedores comisionistas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N�910, de 1975, Art. 21�, modificado por L…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N�910, de 1975, Art. 21�, modificado por Ley N�20.259, de 2008 � Circular N�26, de 1987. (Ord. N� 823, de 24.04.2008)
 
 ## Referencias detectadas
 

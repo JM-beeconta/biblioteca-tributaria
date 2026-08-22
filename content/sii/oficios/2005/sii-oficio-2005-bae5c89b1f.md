@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-01
+- Fecha: 2005-07-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja996.htm
 - Hash SHA-256: 58d692814b95344de2f56e80c53407983e0607eeab93c49394d0f2a964ba7e93
 
 ## Resumen
 
-nt face="arial" size="1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley de la Renta, Art. 20�, Art. 42�, N� 2. (Ord. N� 2.858, de 01.08.2005) Word Solicita se reclasifique a las Empresas de Aseo como contribuyentes exentos de IVA, por encontrarse Sujetos a las Normas del Art�culo 42�, N�2, de la Ley de la Renta. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d) � C�digo Sanitario, Art. 97 � Oficio N� 5.490, de 2004. (Ord. N� 2.632, de 21.07.2005) Wor…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d) � C�digo Sanitario, Art. 97 � Oficio N� 5.490, de 2004. (Ord. N� 2.632, de 21.07.2005)
 
 ## Referencias detectadas
 

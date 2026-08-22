@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-15
+- Fecha: 2005-11-30
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1066.doc
 - Hash SHA-256: ab45d204d4a828e0445d1836a94fd8b8d76a3ca43184807688b41a207f13c9bc
 
 ## Resumen
 
->Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, Art. 24�, N� 9. Word Impuesto de Timbres y Estampillas, respecto de Documentos que respaldan el Uso de la L�nea de Cr�dito. Art�culo 24�, N�9, del Decreto Ley N� 3.475, de 1980. (Ord. N� 4.967, de 15.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, Art. 14�, Art. 28�, Art. 29�. Word Solicitud de Devoluci�n de Impuesto de Timbres y Estampillas Pagado como consecuencia de un Contrato de Mutuo Hipotecario deja…
+Word Solicitud de Devoluci�n de Impuesto de Timbres y Estampillas Pagado como consecuencia de un Contrato de Mutuo Hipotecario dejado sin efecto por una Escritura Posterior. (Ord. N� 4.738, de 30.11.2005)
 
 ## Referencias detectadas
 

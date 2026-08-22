@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-02
+- Fecha: 2005-05-09
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja936.htm
 - Hash SHA-256: 515e84d504a761908df6a76512967ffcebcf8c29033e9e20c48cdee27c7ea93d
 
 ## Resumen
 
-arial" size="2">(Ord. N� 1.672, de 02.06.2005) Actividad Minera � Inventarios Intermedios de Baja Ley � Ley Sobre Impuesto a la Renta, Art. 31�, N� 9 � Oficios N� 1.559, de 1991, N� 297, de 1982, N� 1.739, de 1986 y N� 3.008, de 2000. Word Tratamiento Tributario aplicable a los denominados Inventarios Intermedios de Baja Ley (Ord. N� 1377, de 09.05.2005) Cr�dito por Impuesto de Primera Categor�a en contra del Impuesto Global Complementario � Ley de la Renta � Art. 56�, N� 3, Art. 21�. Word Requisitos que se deben…
+09.05.2005) Cr�dito por Impuesto de Primera Categor�a en contra del Impuesto Global Complementario � Ley de la Renta � Art. 56�, N� 3, Art. 21�.
 
 ## Referencias detectadas
 

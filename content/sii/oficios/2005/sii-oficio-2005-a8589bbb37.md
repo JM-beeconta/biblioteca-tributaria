@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href="ventas/ja880.htm">Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra i), Art. 10� � Oficio N� 2.814, de 2004. (Ord. N� 198, de 24.01.2005) Word Solicita reconsideraci�n del Oficio N� 2814, de 2004, que hace aplicable el Impuesto al Valor Agregado, de acuerdo con el art�culo 8� letra i) del D.L. N� 825, a la Actividad de Estacionamiento en la V�a P�blica que desarrolla el consultante. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2, N� 2, Art. 8�, A…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2, N� 2, Art. 8�, Art. 52� � C�digo Civil, Art. 2.309� � Circular N� 39, de 2000 � Res. Exenta N� 6.080, de 1999, N� 6.444 y N� 8.377, de 1999. (Ord. N� 191, de 24.01.2005)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-as y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� - Ley N� 19.496, de 1997, Art. 20� y 21� � Oficio N� 4.823, de 1976. Word Aplicaci�n del Impuesto al Valor Agregado y documentaci�n que procede emitir en caso de reemplazo de bienes defectuosos en cumplimiento de una obligaci�n de garant�a. (Oficio N�2.919, de 09.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra G. Word Aplicaci�n del Impuesto al Valor Agregado al arrendamiento de un galp�n que cuenta…
+06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� Letra G.
 
 ## Referencias detectadas
 

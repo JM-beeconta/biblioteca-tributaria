@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 3� � Constituci�n Pol�tica de la Rep�blica, Art. 19�, N� 14 Word Resuelve sobre Pr�rroga de Plazo que se establece en la parte final del Inciso Segundo del Art�culo 3�, de la Ley de la Renta. (Ord. N� 068, de 07.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 56�, N� 3, Art. 63� � C�digo Civil, Art. 1560� � Ley N� 16.271 � Oficios N�s 2.314, de 1997 y 1.723, de 1994. Word Tributaci�n de Usufructo de Derechos Sociales de una Sociedad a favor de Terceros, de acuer…
+Renta � Actual Ley Sobre Impuesto a la � Art. 56�, N� 3, Art. 63� � C�digo Civil, Art. 1560� � Ley N� 16.271 � Oficios N�s 2.314, de 1997 y 1.723, de 1994.
 
 ## Referencias detectadas
 

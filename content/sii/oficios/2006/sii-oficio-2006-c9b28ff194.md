@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 17� Word Deducci�n del aval�o fiscal del terreno de la Renta de Arrendamiento establecida en el Art�culo 17�, del Decreto Ley N�825, de 1974. (Oficio N� 5.009, de 29.12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.815, de 1989. Word Solicita Pronunciamiento relativo al Tratamiento del Impuesto al Valor Agregado en Fondos de Inversi�n Privado, Ley N� 18.815, de 1989. (Oficio N� 5.008, de 29.12.2006) Ventas y S…
+Word Solicita Pronunciamiento relativo al Tratamiento del Impuesto al Valor Agregado en Fondos de Inversi�n Privado, Ley N� 18.815, de 1989. (Oficio N� 5.008, de 29.12.2006)
 
 ## Referencias detectadas
 

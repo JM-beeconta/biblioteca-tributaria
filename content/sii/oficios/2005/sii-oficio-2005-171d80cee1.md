@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-28
+- Fecha: 2005-03-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja920.htm
 - Hash SHA-256: 3df7795dd732b594369e81c697302676517d15929e09409e7bb206796ae27e4a
 
 ## Resumen
 
-size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 47�, Art. 54�, N� 3 � Ley N� 18.695 � Circular N� 7, de 1993. Word Tributaci�n de las Remuneraciones que Perciben los Concejales, conforme a las Normas del Art�culo 42�, N�1, 43�, N�1 y 54�, N�3 de la Ley de la Renta. (Ord. N� 790, de 28.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Decreto Supremo N� 344, de 2004, de Hacienda � Circular N� 51, de 2004. Word Tributaci�n de los Contribuyentes Agric…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Decreto Supremo N� 344, de 2004, de Hacienda � Circular N� 51, de 2004.
 
 ## Referencias detectadas
 

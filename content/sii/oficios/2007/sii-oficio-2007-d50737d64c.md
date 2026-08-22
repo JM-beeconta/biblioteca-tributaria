@@ -11,7 +11,7 @@
 
 ## Resumen
 
-; Word Solicita informaci�n respecto de la existencia de normas generales y especiales que regulen lo dispuesto en el art�culo 5� del D.S. N�55 de 1977, relativo a la actividad cooperativa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52�, Art. 58� - D. Supremo N�55, de 1977, Art. 69�, 70�, 71� Y 72� - Ley N� 18.845, de 1989, Art. 7� � Res. Ex. N� 1414, de 1978 � Circular N�21, de 1991. (Ord. N� 2452, de 17.08.2007) Word Solicita pronunciamiento respecto a la obligaci�n de mantener bol…
+Word Solicita pronunciamiento respecto a la obligaci�n de mantener boletas y facturas en poder del contribuyente emisor de dichos documentos.
 
 ## Referencias detectadas
 

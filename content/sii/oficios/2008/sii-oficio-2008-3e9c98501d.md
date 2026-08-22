@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-20
+- Fecha: 2008-08-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja2394.htm
 - Hash SHA-256: 094ffe1ee1d798fc628be6c4b51cece27b0845b43bb550b21cc88a5b69596288
 
 ## Resumen
 
-terminaci�n de perfiles gen�ticos y al servicio de cotejo de dichos perfiles. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � D.S. de Hacienda, N� 1.139. (Ord. N� 2.407, de 20.08.2008) Word Aplicaci�n de IVA a servicios de packing prestados por una empresa exportadora a diversas sociedades agr�colas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2 � Circular N� 39, de 2000 � Resoluci�n Exenta N� 6080, de 1999. (Ord. N� 2.394, de 19.08.…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2 � Circular N� 39, de 2000 � Resoluci�n Exenta N� 6080, de 1999. (Ord. N� 2.394, de 19.08.2008)
 
 ## Referencias detectadas
 

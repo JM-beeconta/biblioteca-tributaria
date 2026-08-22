@@ -11,7 +11,7 @@
 
 ## Resumen
 
-01 Word Aplicaci�n del IVA en Arrendamiento de Inmueble con Instalaciones y Devoluci�n de Remanente de Cr�dito Fiscal por Adquisici�n de Activo Fijo. (Oficio N� 374, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 79� � Circular N�3, de 1992 � Resoluci�n Exenta N� 6.080, de 1999. Word No se encuentran afecta a IVA la Indemnizaci�n por P�rdida o Da�o de Mercader�as. (Oficio N� 373, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, A…
+Word No se encuentran afecta a IVA la Indemnizaci�n por P�rdida o Da�o de Mercader�as. (Oficio N� 373, de 03.02.2006)
 
 ## Referencias detectadas
 

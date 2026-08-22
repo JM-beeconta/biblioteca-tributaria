@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 69� � Ley N� 15.231, Art. 55� � Ley N� 18.695, Art. 14� � Oficio N� 619, de 2003. Word Facturaci�n del Arancel establecido a favor del Registro de Multas del Tr�nsito No Pagadas en caso de Infracciones detectadas por medio de Equipos de Registro. (Oficio N� 232, de 20.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21� � Decreto Supremo N� 55, de 1977, Art 12�. Word No p…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21� � Decreto Supremo N� 55, de 1977, Art 12�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-23
+- Fecha: 2005-08-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1004.htm
 - Hash SHA-256: 92c60481c4b8cf0056fe58a7348e21b660d5e5f271a2b2058e4c28098fdeaa87
 
 ## Resumen
 
-align="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 y Art. 43�, N�1 � Ley N� 19.175, Art. 39� � Circular N� 7, de 1993 � Oficio N� 1.105, de 2005. Word Tributaci�n que Afecta a los Consejeros Regionales, conforme a las Normas del Art�culo 42�, N�1, de la ley de la Renta. (Ord. N� 3.077, de 23.08.2005) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.933, Art. 42� D � Decreto Ley N� 3.500, de 1980, Art. 18�, Art. 84� � Oficio N� 2.121, de 2005. Word Tratamiento Tributario de las Cotizaciones p…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.933, Art. 42� D � Decreto Ley N� 3.500, de 1980, Art. 18�, Art. 84� � Oficio N� 2.121, de 2005.
 
 ## Referencias detectadas
 

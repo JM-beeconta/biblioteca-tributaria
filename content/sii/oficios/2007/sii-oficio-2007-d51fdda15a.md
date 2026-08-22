@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-13
+- Fecha: 2007-09-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2634.doc
 - Hash SHA-256: b6ff987eeec7a6d4a954f64c08ba4ed53a5761ed1268110bdaa56579fb48cef6
 
 ## Resumen
 
-645.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 52� - Ley de la Renta, Art. 20 N�4. (Ord. N� 2645, de 13.09.2007) Word Consulta sobre la procedencia de autofacturar el traspaso de un bien del activo realizable al activo fijo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166. (Ord. N� 2634, de 11.09.2007) Word Aplicaci�n de la franquicia del art�culo 2� de la Ley 19.764, a los ser…
+Word Aplicaci�n de la franquicia del art�culo 2� de la Ley 19.764, a los servicios de recolecci�n de residuos industriales, aseo de calles y mantenci�n de �reas verdes.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. 8�, letra d) � D.L. N�828, de 1974, Art. 8�, Art. 17� � Res. Ex. N� 1.086, de 1988 � Circular N� 13, de 1980 (Ord. N�1.162, de 28.05.2007) Word Determinaci�n de la base imponible para la aplicaci�n del IVA y del Impuesto al Tabaco Manufacturado en ventas de puros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � C�digo de Comercio, Art. 236� � Res. Ex. N� 6.080, de 1999. (Ord. N� 1.161, de 28.05.2007) Word Emisi�n de facturas por ventas y servicios no gravados o exentos de IVA…
+Word Emisi�n de facturas por ventas y servicios no gravados o exentos de IVA en caso de recuperaci�n de gastos.
 
 ## Referencias detectadas
 

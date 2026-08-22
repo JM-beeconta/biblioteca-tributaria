@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eas verdes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502, de 1986, Art. 6� y 7� - Ley N� 19.764, de 2001, Art. 2� - Decreto Supremo N� 311, de 1986. (Ord. N� 2592, de 06.09.2007) Word Recuperaci�n de Impuesto al Petr�leo Diesel, por empresa que tiene entre sus actividades el giro transporte de carga terrestre. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 5� del Decreto Supremo N�55, de 1977 � Ley General de Cooperativas, Art. 49 Letra A � Ley sobre…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 5� del Decreto Supremo N�55, de 1977 � Ley General de Cooperativas, Art. 49 Letra A � Ley sobre Impuesto a la Renta, Art. 20� N�3� y 4�. (Ord. N�2591, de 06.09.2007)
 
 ## Referencias detectadas
 

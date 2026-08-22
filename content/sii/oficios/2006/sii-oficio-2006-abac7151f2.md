@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a e Impuesto a las Ventas y Servicios. (ORD. N� 236, DE 23.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234� � Ley N� 18.247, de 1983, Art. 4� Word Derogaci�n de Exenci�n de Impuesto Adicional establecida en el Art�culo 234 de la Ley N� 16.840, conforme a lo dispuesto por el Art�culo 4�, de la Ley N� 18.247, de 1983, en los t�rminos que se indican. (Ord. N� 235, de 23.01.2006) Renta � Actual Ley Sobre Impuesto a la � Circular N� 52, de 2005 � Oficio N� 4.508, de 2004. Word Tribu…
+, de 23.01.2006) Renta � Actual Ley Sobre Impuesto a la � Circular N� 52, de 2005 � Oficio N� 4.508, de 2004.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-23
+- Fecha: 2005-06-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja973.htm
 - Hash SHA-256: 371aa84f36cd0fed4145edb91afbe22482d651f6f02b73bb3cb7cbfc9b4f89cd
 
 ## Resumen
 
-(Ord. N� 1.872, de 23.06.2005) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.657, Art. 4�, Art. 18�. Word Concepto de Inversionista Institucional Extranjero para los fines del art�culo 18� de la Ley N� 18.657. (Ord. N� 1.871, de 23.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�3, letra c), Art. 17�, N� 8, letra b), Art. 18� Ter, Art. 20�, Art. 56�, N� 3, Art. 63� � C�digo Tributario, Art. 8�, N� 5 � Ley N� 18.815, Art. 31�, Art. 32�, Art. 41�, Art. 43� � Circular N� 41, de 1999 � Ofi…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�3, letra c), Art. 17�, N� 8, letra b), Art. 18� Ter, Art. 20�, Art. 56�, N� 3, Art. 63� � C�digo Tributario, Art. 8�, N� 5 � Ley N� 18.815, Art. 31�, Art. 32�, Art. 41�, Art. 43� � Circular N� 41, de 1999 � Oficio N� 1.091, de 2005.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-11
+- Fecha: 2007-09-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2595.htm
 - Hash SHA-256: 8536fe3c07e0fa469ed47a1fe94c80ec5ef57a983976f93aa9886d87713b59d5
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8, Art. 18� - Circular N� 158, de 1976. (Ord. N� 2638, de 11.09.2007) Word Tratamiento tributario de la enajenaci�n de acciones en caso que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�1�, Art. 43� N�1�, Art. 45�, Art. 46� - Ley N� 20.134, de 2006 � Circular N�37, de 1990. (Ord. N� 2595, de 06.09.2007) Word Tributaci�n que afecta a beneficio pecuniario denominado bono extraordinario concedido por Ley N�20.134, de 2006, a exonerados pol�ticos. Re…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�1�, Art. 43� N�1�, Art. 45�, Art. 46� - Ley N� 20.134, de 2006 � Circular N�37, de 1990.
 
 ## Referencias detectadas
 

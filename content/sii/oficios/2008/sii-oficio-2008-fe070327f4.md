@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-20
+- Fecha: 2008-08-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2397.doc
 - Hash SHA-256: 3c4e6ee2911487688be024d5d4f51f4c46337b556f901dd4a91e7ff99ddffee9
 
 ## Resumen
 
-de 20.08.2008) Word Resuelve consultas relacionadas con la aplicaci�n de las instrucciones impartidas a trav�s de la Circular N�49 de 31.08.2006, sobre tratamiento tributario de los desembolsos de las empresas para la construcci�n y mejoramiento de caminos p�blicos. Renta � Actual Ley Sobre Impuesto a la � Ley N�20.026, de 2005, Art. 5� transitorio � D.L. N�600, de 1974, Art. 11� ter � Circular N� 60, de 2005. (Ord. N� 2.397, de 19.08.2008) Word Mantenci�n de los beneficios establecidos en el art�culo 5� transitor…
+Word Mantenci�n de los beneficios establecidos en el art�culo 5� transitorio de la Ley N� 20.026, de 2005, en caso que la empresa beneficiaria sea vendida total o parcialmente a un inversionista extranjero que materialice su inversi�n al amparo del D.L. N�600.
 
 ## Referencias detectadas
 

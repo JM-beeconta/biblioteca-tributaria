@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-02-13
+- Fecha: 2007-02-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja365.pdf
 - Hash SHA-256: 94933a24b8ac27e6c4da68d8a5d3778a1fcedd6cdc2c464ce625df7855e2a1b1
 
 ## Resumen
 
-eguradora extranjera, residente en Canad�, remunerado por residente en Chile. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3� � Ley N� 18.010, Art. 1�. (Ord. N� 381, de 13.02.2007) Word Solicita confirmar tratamiento tributario que corresponde aplicar a operaciones de importaci�n. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3�, Art. 6�, Art. 24�, N�s 11 y 17� � Circular N� 69, de 2006. (Ord. N� 365, de 12.02.2007) Consulta sobre materias relativas a las modificaciones i…
+Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3�, Art. 6�, Art. 24�, N�s 11 y 17� � Circular N� 69, de 2006. (Ord. N� 365, de 12.02.2007) Consulta sobre materias relativas a las modificaciones introducidas al D.L. N� 3.475, de 1980, sobre Impuesto de Timbres y Estampillas, por la Ley N� 20.130, de 2006.
 
 ## Referencias detectadas
 

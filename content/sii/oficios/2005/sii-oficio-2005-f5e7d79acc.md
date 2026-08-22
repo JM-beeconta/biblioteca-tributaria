@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-08
+- Fecha: 2005-03-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja921.htm
 - Hash SHA-256: 939d3c8bbac23f3988003bcb1c6bcc0f538f5140f626fe6b0fcdff024d2fb1aa
 
 ## Resumen
 
-d. N� 955, de 08.04.2005) Renta � Actual Ley sobre Impuesto a la � Art. 59, N�1 - Ley N� 18.010, Art. 2. Word El cobro efectuado por modificaci�n de contrato denominado �Amendment Fee" constituye un inter�s afecto al impuesto Adicional establecido en el No 1 del art�culo 59 de la Ley de la Renta. (Ord. N� 897, de 04.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 47�, Art. 54�, N� 3 � Ley N� 18.695 � Circular N� 7, de 1993. Word Tributaci�n de las Remuneraciones que Perciben…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 47�, Art. 54�, N� 3 � Ley N� 18.695 � Circular N� 7, de 1993.
 
 ## Referencias detectadas
 

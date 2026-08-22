@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-26
+- Fecha: 2008-02-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja310.htm
 - Hash SHA-256: b3cd83033b9633f0e8fc3ccf77539bc695993f9a49be6b62dda992cc3ab1de1b
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2, Art. 8� letra g), Art. 20 N�3 Y N�4� - C�digo de Comercio, Art. 233 y sgtes � Oficios N�2.716, de 1995, N� 2.676, de 1996, N�4.182, de 2003, N� 4.349, de 2004. (Ord. N�400, de 26.02.2008) Word Aplicaci�n de IVA a los servicios de comercializaci�n del medio de acceso, boletos y recarga de cuotas de transporte. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, Art. 55� - Circular N�103, de 1979.(Ord. N� 310,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, Art. 55� - Circular N�103, de 1979.(Ord. N� 310, de 18.02.2008)
 
 ## Referencias detectadas
 

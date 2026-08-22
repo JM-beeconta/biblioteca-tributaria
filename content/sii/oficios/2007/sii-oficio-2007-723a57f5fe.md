@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cu(2, 37) A�os Anteriores LEY DE IMPUESTO A LA RENTA 2007 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta � Normas Internacionales � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta y al Patrimonio � Art. 5�, Art. 7�, Art. 12�, Art. 58� - Oficio N�2.890, de 2005. (Ord. N�3.397, de 14.12.2007) Word Tributaci�n que afectar�a a los Servicios prestados…
+Renta � Normas Internacionales � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta y al Patrimonio � Art. 5�, Art. 7�, Art. 12�, Art. 58� - Oficio N�2.890, de 2005.
 
 ## Referencias detectadas
 

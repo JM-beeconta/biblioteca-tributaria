@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ALIGN='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8� Letra A, Art. 18� y 18� Ter �Ley N� 18.293, de 1984, Art. 3�.(Ord. N� 838, de 24.04.2008) Word Situaci�n tributaria de aporte de acciones de un contribuyente persona natural, a una empresa unipersonal o a una sociedad. Renta � Actual Ley Sobre Impuesto a la � Arts. 15�, 19�, 20� N�2� y 29�. (Ord. N� 837, de 24.04.2008) Word Situaci�n tributaria del retorno de inversiones del exterior, consistentes en instrumentos financieros. Renta � Actual Le…
+Word Situaci�n tributaria del retorno de inversiones del exterior, consistentes en instrumentos financieros.
 
 ## Referencias detectadas
 

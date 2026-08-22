@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-17
+- Fecha: 2006-02-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1126.doc
 - Hash SHA-256: 2c80d05160756f5203ece5f808d7262ea36e5d4b32de524c1583e91232d15ce3
 
 ## Resumen
 
-Y'> Renta � Actual Ley Sobre Impuesto a la � Art. 41�� Ley N� 19.420, Art. 1�, Art. 2�, Art.3�- D.F.L N� 641, de 1977 � Circulares N�s 50, de 1995, 64, de 1996 y 46, de 2000. Word Procedencia del derecho para acceder al cr�dito tributario establecido en la Ley N�19.420, de 1995, sobre Ley Arica en el caso que se indica. (Ord. N� 1.005, de 17.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�3 � Ley N� 18.815, de 1989. Word Solicita pronunciamiento, en el sentido que el beneficio de un Contrato de Segur…
+Word Solicita pronunciamiento, en el sentido que el beneficio de un Contrato de Seguro de Vida conserva su condici�n de Ingreso no Renta para un Fondo de Inversi�n Privado que adquiere la P�liza y tambi�n para el Titular de las cuotas del Fondo de Inversi�n Privado cuando el Fondo reparta Beneficios. (Ord. N� 699, de 24.02.2006)
 
 ## Referencias detectadas
 

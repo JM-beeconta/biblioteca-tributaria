@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-31
+- Fecha: 2005-05-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja960.htm
 - Hash SHA-256: 26f23b937327787da0fa806969a219f3e254cec4207710d8f310267b00f51a79
 
 ## Resumen
 
-t> Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra b) � Circular N� 58, de 1990. Word R�gimen de Tributaci�n que afecta a Predio Agr�cola que se Arrienda, conforme a las Normas de la letra b), del N�1, del Art�culo 20�, de la Ley de la Renta. (Ord. N� 1.635, de 31.05.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra a), Art. 18�, Art. 18� ter, Art. 20�, N� 5, Art. 56�, N�3, Art. 63�. Word Situaci�n tributaria del Mayor Valor obtenido en la Venta de Acciones de una Sociedad en Comand…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra a), Art. 18�, Art. 18� ter, Art. 20�, N� 5, Art. 56�, N�3, Art. 63�.
 
 ## Referencias detectadas
 

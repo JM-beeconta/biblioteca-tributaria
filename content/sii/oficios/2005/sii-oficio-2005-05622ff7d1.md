@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a934.htm">Fondos de Inversi�n � Ley N� 18.815 � Art. 1�, Art. 3�, Art. 5�, N� 10, Art. 30�, Art. 31�, Art. 32� � C�digo Tributario, Art. 8�, N� 5 � Ley Sobre Impuesto a la Renta, Art. 17�, N� 8, letra b), Art. 18�, Art. 14�, Letra A), N� 3, letra c) � Circular N� 41, de 1999 � Oficio N� 632, de 2004. Word Responde Consulta sobre Situaci�n Tributaria de Fondos de Inversi�n de la Ley N� 18.815. (Ord. N� 1.091, de 21.04.2005) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de �Ley N� 18.010, Art. 1� � Oficio…
+21.04.2005) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de �Ley N� 18.010, Art. 1� � Oficio N� 386, de 1990.
 
 ## Referencias detectadas
 

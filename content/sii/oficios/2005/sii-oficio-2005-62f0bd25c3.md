@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-24
+- Fecha: 2005-05-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja959.htm
 - Hash SHA-256: 5c7afc1fe2d286d192d07d547899c9503eb38f7b4d40db44ec11ac90b3b73593
 
 ## Resumen
 
-arial" size="1"> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra a), Art. 18�, Art. 18� ter, Art. 20�, N� 5, Art. 56�, N�3, Art. 63�. Word Situaci�n tributaria del Mayor Valor obtenido en la Venta de Acciones de una Sociedad en Comandita por Acciones. (Ord. N� 1.515, de 24.05.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Oficios N�s 2.609, de 2000 y 591, de 2005. Word Tratamiento tributario de Aporte Efectuado para la construcci�n de un Camino, conforme a las Normas del art�culo 31�, de l…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Oficios N�s 2.609, de 2000 y 591, de 2005.
 
 ## Referencias detectadas
 

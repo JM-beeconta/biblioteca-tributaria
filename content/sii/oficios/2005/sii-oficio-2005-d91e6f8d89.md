@@ -11,7 +11,7 @@
 
 ## Resumen
 
-as/ja1029.doc">Word Solicita un pronunciamiento sobre Efectos Tributarios de un Convenio de Mejoramiento de Caminos P�blicos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�5, N�6, letras b) y c) y N�7 � Ley de la Renta, Art. 20�, N� 3 y 4� � C�digo Civil, Art. 19� � Decreto Supremo N� 140, de 2005, del Ministerio de Salud, Art. 43� . (Ord. N� 3.783, de 29.09.2005) Word Impuesto al Valor Agregado que Afecta a Ex�menes de Mamograf�a Prestados por un Centro M�…
+Word Impuesto al Valor Agregado que Afecta a Ex�menes de Mamograf�a Prestados por un Centro M�dico.
 
 ## Referencias detectadas
 

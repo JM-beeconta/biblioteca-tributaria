@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-25
+- Fecha: 2008-04-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja710.doc
 - Hash SHA-256: c60fdcbc434e64546e4ff28887b478e11a0108cfa4d9fbbb7baf1f915cffdfbe
 
 ## Resumen
 
-nt face='arial' size='2'> Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, � C�digo Tributario, Art. 60� � C�digo Civil, Art. 1.703. (Ord. N� 852, de 25.04.2008) Word Determinaci�n del Impuesto de Timbres y Estampillas a Pagar�s en los cuales no se consigna fecha de emisi�n. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, Art. 14�, Art. 28�, Art. 29�. (Ord. N� 710, de 14.04.2008) Word Procedencia de devoluci�n de impuesto de timbres y estampillas pagado como conse…
+Word Procedencia de devoluci�n de impuesto de timbres y estampillas pagado como consecuencia de un contrato de mutuo resciliado.
 
 ## Referencias detectadas
 

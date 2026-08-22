@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y la Rep�blica de Chile para evitar la Doble Tributaci�n, Art. 12�. (Ord. N� 817, de 10.04.2007) Word Tratamiento tributario de la venta de cr�dito a un valor inferior a su valor nominal. Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley N� 19.606, Art. 1� � Circulares N��s 66, de 1999 y 47, de 2004. (Ord. N� 816, de 10.04.2007) Word Resuelve consultas relacionadas con la Ley Austral N�19.606, de 1999 y sus modificaciones posteriores. Renta � Actual Ley Sobre Impuesto a la � Art. 15� � Oficios N��s 613, de 2…
+Word Resuelve consultas relacionadas con la Ley Austral N�19.606, de 1999 y sus modificaciones posteriores.
 
 ## Referencias detectadas
 

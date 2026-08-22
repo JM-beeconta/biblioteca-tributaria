@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Exenci�n de Impuesto de Timbres y Estampillas respecto de documentos en general y espec�ficamente respecto del giro de cheques y cualquier otro giro, cargo o traspaso de fondos de cuentas corrientes. Normas Internacionales � Convenio entre Chile y Canad� para Evitar la Doble Tributaci�n y Prevenir la Evasi�n Fiscal en relaci�n a los Impuestos a la Renta y al Patrimonio, Art. 5�, Art. 7�. (Ord. N� 986, de 07.05.2007) Word Servicio prestado por parte de una empresa aseguradora extranjera, residente en Canad�, r…
+Word Servicio prestado por parte de una empresa aseguradora extranjera, residente en Canad�, remunerado por residente en Chile.
 
 ## Referencias detectadas
 

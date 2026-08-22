@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt> Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�1�. (Ord. N� 0287, de 11.02.2008) Word Se solicita Calificaci�n de Actividad Financiera para efectos de la aplicaci�n del N�1 del art�culo 59� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter, Art. 55�, 56� N�3, 63� y 69� - Circular N� 103, de 1979. (Ord. N� 0283, de 11.02.2008) Word Consultas relativas a Facturas de Compra por servicios recibidos y sobre Ingresos no Constitutivos de Renta. Renta � Actual Ley Sobre Impuesto a la �…
+Word Consultas relativas a Facturas de Compra por servicios recibidos y sobre Ingresos no Constitutivos de Renta.
 
 ## Referencias detectadas
 

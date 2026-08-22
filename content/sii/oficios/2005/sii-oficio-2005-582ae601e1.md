@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-30
+- Fecha: 2005-09-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1023.doc
 - Hash SHA-256: 7445b9de41737520cb197023a2f4cd59c53efee9fccc4cf7dbab25d5a6346f83
 
 ## Resumen
 
-renta/ja1024.doc">Word Situaci�n Tributaria de Sociedad que efect�a T�rmino de Giro y de sus respectivos Socios, conforme a las Normas de los Art�culos 14� y 38� bis de la ley de la Renta. (Ord. N� 3.796, de 30.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�1, letra b) � Circular N� 19, de 2002 � Resoluciones Ex. N�s 14, de 2002 y 28, de 2004. Word Consecuencia que produce el Incumplimiento de lo establecido en el Inciso segundo del N�1, del inciso cuarto del Art�culo 59�, de la Ley de la Renta. (Or…
+Word Consecuencia que produce el Incumplimiento de lo establecido en el Inciso segundo del N�1, del inciso cuarto del Art�culo 59�, de la Ley de la Renta. (Ord. N� 3.779, de 28.09.2005)
 
 ## Referencias detectadas
 

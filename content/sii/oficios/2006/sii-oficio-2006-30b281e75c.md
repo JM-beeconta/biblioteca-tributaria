@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ificaci�n de exportador de servicios obtenida por empresa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36�. (Ord. N� 543, de 20.03.2008) Word Organizaci�n Cient�fica solicita devoluci�n de IVA, por servicios contratados para efectuar el repliegue de la expedici�n desde la Base Ant�rtica hasta la ciudad de Punta Arenas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2�, Art. 8� - Ley N�20.129, de 2006, Arts. 1�, 6�, 8�, 13� y 14� - Ley de la Renta, Art. 2…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2�, Art. 8� - Ley N�20.129, de 2006, Arts. 1�, 6�, 8�, 13� y 14� - Ley de la Renta, Art. 20�. (Ord. N� 484, de 11.03.2008)
 
 ## Referencias detectadas
 

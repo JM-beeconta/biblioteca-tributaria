@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de los C�nyuges, conforme al Art�culo 61� y siguientes de la Ley N� 19.947, sobre Matrimonio Civil, en relaci�n con lo preceptuado por los art�culos 17�, N� 1 y 20�, N� 5, de la Ley de la Renta. (Ord. N� 4.606, de 18.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 1 � Ley N� 19.947, de 2004, Art. 61�, Art. 62�, Art. 63�, Art. 64�, Art. 65� y Art. 66�. Word Tributaci�n de Compensaciones Econ�micas a favor de C�nyuges de acuerdo a lo dispuesto por el Art�culo 61� y siguientes de la Ley N� 19.947, sobr…
+Word Tributaci�n de Compensaciones Econ�micas a favor de C�nyuges de acuerdo a lo dispuesto por el Art�culo 61� y siguientes de la Ley N� 19.947, sobre Matrimonio Civil, en relaci�n con lo preceptuado por los art�culos 17�, N � 1 y 20�, N�5, de la Ley de la Renta. (Ord. N� 4.605, de 18.11.2005)
 
 ## Referencias detectadas
 

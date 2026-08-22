@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-26
+- Fecha: 2006-01-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1108.htm
 - Hash SHA-256: 75ef9d10fc61dfcb784af9a2f0fe8b640020e224e03fecb086cab4b01410dbe5
 
 ## Resumen
 
-USTIFY"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 12�, N� 11, Art. 18�, Art. 19�, Art. 52�, Art. 53�. Word IVA en Arriendo y Concesi�n de Locales que prestan Servicios de Fotocopiado dentro de un Recinto Universitario. (Oficio N� 290, de 26.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 69� � Ley N� 15.231, Art. 55� � Ley N� 18.695, Art. 14� � Oficio N� 619, de 2003. Word Facturaci�n del Arancel establecido…
+01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 69� � Ley N� 15.231, Art. 55� � Ley N� 18.695, Art. 14� � Oficio N� 619, de 2003.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-�87, de 2001. (Ord. N� 2366, de 02.08.2007) Word Solicita se informe manera de acogerse al beneficio establecido en el Art., 55 bis, cuando un inmueble es adquirido en comunidad y no se hizo menci�n en la escritura de compra cu�l de los comuneros se acoger�a a la rebaja que establece dicho art�culo. Renta � Actual Ley Sobre Impuesto a la � Art. 17� Letra b, N�8 � Art. 18�, Art.20� Letra b, N�1. (Ord. N� 2365, de 02.08.2007) Word Solicita pronunciamiento con relaci�n a la tributaci�n que afecta la enajenaci�n de un…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� Letra b, N�8 � Art. 18�, Art.20� Letra b, N�1.
 
 ## Referencias detectadas
 

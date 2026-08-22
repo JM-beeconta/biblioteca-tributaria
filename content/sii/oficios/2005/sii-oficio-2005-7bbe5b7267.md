@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-24
+- Fecha: 2005-10-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1034.doc
 - Hash SHA-256: 713b46e8835413411dcf7e816e587f0b89f14f2c95ae89844428d31ffe9afdb2
 
 ## Resumen
 
-Ley N� 18.168, de 1982, Art. 1� � Circular N� 47, de 1977. (Ord. N� 4.253, de 24.10.2005) Word Impuesto al Valor Agregado en Contrato para Promover un Sistema Nacional de Informaci�n Social en Internet. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 12�, Letra E, N� 1, letra a) � Circular N� 39, de 2000. (Ord. N� 4.083, de 19.10.2005). Word Aplicaci�n del Impuesto al valor Agregado a la entrada al Museo Perteneciente a una Congregaci�n Religiosa. Ventas y Servicios…
+Word Aplicaci�n del Impuesto al valor Agregado a la entrada al Museo Perteneciente a una Congregaci�n Religiosa.
 
 ## Referencias detectadas
 

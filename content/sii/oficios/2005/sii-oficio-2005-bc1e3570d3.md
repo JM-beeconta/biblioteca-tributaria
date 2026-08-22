@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-16
+- Fecha: 2005-06-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja966.htm
 - Hash SHA-256: 5a1489a53e350548307d928272c08b78f14b5128daf86e964c2a89857e348cc6
 
 ## Resumen
 
-c), Art. 17�, N� 8, letra b), Art. 18� Ter, Art. 20�, Art. 56�, N� 3, Art. 63� � C�digo Tributario, Art. 8�, N� 5 � Ley N� 18.815, Art. 31�, Art. 32�, Art. 41�, Art. 43� � Circular N� 41, de 1999 � Oficio N� 1.091, de 2005. Word Obligaciones tributarias que afectan a los Fondos de Inversi�n Privados a que se refiere la Ley N� 18.815, de 1989. (Ord. N� 1.836, de 16.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 68�, Letra b), art. 50� � C�digo del Trabajo, Art. 47�, Art. 48�, Art. 49� � Circular N� 50, de 1…
+Renta � Actual Ley Sobre Impuesto a la � Art. 68�, Letra b), art. 50� � C�digo del Trabajo, Art. 47�, Art. 48�, Art. 49� � Circular N� 50, de 1997.
 
 ## Referencias detectadas
 

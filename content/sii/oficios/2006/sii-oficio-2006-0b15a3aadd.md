@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley sobre Impuesto a las � Art. 2�, N�2, Art. 55�. Word Solicitud de Pronunciamiento sobre qui�n recae la Obligaci�n de Emitir Gu�a de Despacho. (Oficio N� 015, de 03.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Decreto con Fuerza de Ley N�5, de 2003, Art�culos 109� y 110�. Word Aplicaci�n de IVA a Servicios de Fiscalizaci�n de Cooperativas e Inscripciones en Registro de Entidades Fiscalizadoras Privadas. (Oficio N� 014, de 03.01.2006) Ventas y Servicios � Nuevo Text…
+Word Aplicaci�n de IVA a Servicios de Fiscalizaci�n de Cooperativas e Inscripciones en Registro de Entidades Fiscalizadoras Privadas. (Oficio N� 014, de 03.01.2006)
 
 ## Referencias detectadas
 

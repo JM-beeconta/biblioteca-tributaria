@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1976, N�27, de 1984 y N�7 de 2002 Word Tributaci�n de Rentas de Capitales Mobiliarios obtenidas por Partido Pol�tico, conforme a las Normas de los Art�culos 20�, N�2, 18� quater y 39�, de la Ley de la Renta. (Ord. N� 4.335, de 07.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 41� C � Circulares N�s 52, de 1993 y 5, de 1999. Word Recuperaci�n de Impuestos soportados en el Exterior, conforme a las Normas de los Art�culos 41 A y 41 C de la Ley de la Renta. (Ord. N� 4.334, de 07.11.2005) Renta � Actual Ley Sob…
+Word Recuperaci�n de Impuestos soportados en el Exterior, conforme a las Normas de los Art�culos 41 A y 41 C de la Ley de la Renta. (Ord. N� 4.334, de 07.11.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-31
+- Fecha: 2006-01-13
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja1122.htm
 - Hash SHA-256: 6cca48ad03440946e8ae523e852818ddbac2da3ae46c1f351a85ed9fe3060ba0
 
 ## Resumen
 
-(Ord. N� 1.219 de 31.03.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Ley N� 18.010, Art. 1� � Oficios N�s 1.086, de 2002 y 3.467, de 2004. (Ord. N� 115, de 13.01.2006) Word Solicita Confirmar criterios que indica sobre Aplicaci�n de Impuesto de Timbres y Estampillas a operaci�n que indica. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1� � Ley N� 18.010, Art. 1� � Oficio N� 3.564, de 2000. Word Aplicaci�n del Impuesto de Timbres y Estampillas a Documento de Reconocimient…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1� � Ley N� 18.010, Art. 1� � Oficio N� 3.564, de 2000.
 
 ## Referencias detectadas
 

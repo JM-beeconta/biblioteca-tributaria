@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-05
+- Fecha: 2005-03-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja929.doc
 - Hash SHA-256: 86cd4d690b2f3be4d825527466ef61be8585fd69f7db4e06f56fc8304018bab1
 
 ## Resumen
 
-N� 929, de 1991 (Ord. N� 933, de 05.04.2005) Word Art�culo 8�, letra g), Decreto ley N�825, de 1974. Arriendo de Establecimientos y Gimnasios para la Pr�ctica de Actividades Deportivas. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, de 1986, Art. 6� � Decreto Supremo de Hacienda N� 311 � Circulares N�s 29 y 32, de 1986. (Ord. N� 793, de 28.03.2005) Word Tratamiento Tributario aplicable en relaci�n con el Impuesto espec�fico a los Combustibles a Producci�n Local e Importaci�n de…
+Word Tratamiento Tributario aplicable en relaci�n con el Impuesto espec�fico a los Combustibles a Producci�n Local e Importaci�n del producto Diesel del Invierno o Gasoil Minero
 
 ## Referencias detectadas
 

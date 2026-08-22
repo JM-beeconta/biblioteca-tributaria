@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ansitorio � Circular N� 23, de 2002 � Oficios N�s 905, de 2003, 4.177, de 2003, 5.185, de 2004 y 4.957, de 2004. (Ord. N� 1.043, de 15.04 2005) Word Tributaci�n que afecta a los Excedentes de Libre Disposici�n, conforme a las Normas del Art�culo 42� ter de la Ley de la Renta, en concordancia con lo dispuesto por las Normas del Art�culo 6� transitorio de la Ley N� 19.768, de 2001 Renta � Actual Ley Sobre Impuesto a la � 17�, N� 1� C�digo Civil, Art. 2.446�. Word Improcedencia de Calificar como da�o Emergente las Su…
+Renta � Actual Ley Sobre Impuesto a la � 17�, N� 1� C�digo Civil, Art. 2.446�.
 
 ## Referencias detectadas
 

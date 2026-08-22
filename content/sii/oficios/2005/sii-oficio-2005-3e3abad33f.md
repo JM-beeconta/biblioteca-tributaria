@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-12
+- Fecha: 2005-12-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1058.htm
 - Hash SHA-256: cd1b286429ba253b7b8057e86d1c15166b5ebd3a4f94c1bae1c442915062a106
 
 ## Resumen
 
-ja1059.htm">Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 64�. Word Situaci�n Tributaria que se produce con Motivo de la Fusi�n de Sociedades Chilenas con Agencias en el Exterior, conforme a las Normas del Inciso Tercero del Art�culo 41�, de la Ley de la Renta y Art�culo 64�, del C�digo Tributario. (Ord. N� 4.848, de 12.12.2005) Renta � Actual Ley Sobre Impuesto a la � Decreto con Fuerza de Ley N� 30, de 2005, de Hacienda. Word Documento v�lido emitido por Agencia de Aduana para los e…
+Renta � Actual Ley Sobre Impuesto a la � Decreto con Fuerza de Ley N� 30, de 2005, de Hacienda.
 
 ## Referencias detectadas
 

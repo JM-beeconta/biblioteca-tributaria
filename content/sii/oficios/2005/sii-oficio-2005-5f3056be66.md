@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-05
+- Fecha: 2005-09-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1024.doc
 - Hash SHA-256: d02576dafbb4571491184b517578075de933d2783c2599c7d3deb7dcb87f61db
 
 ## Resumen
 
-> ( Ordinario N� 3873, de 05 de Octubre 2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 38� bis � Circulares N�s 46 y 60, de 1990. Word Situaci�n Tributaria de Sociedad que efect�a T�rmino de Giro y de sus respectivos Socios, conforme a las Normas de los Art�culos 14� y 38� bis de la ley de la Renta. (Ord. N� 3.796, de 30.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�1, letra b) � Circular N� 19, de 2002 � Resoluciones Ex. N�s 14, de 2002 y 28, de 2004. Word Consecuencia que produce e…
+Word Situaci�n Tributaria de Sociedad que efect�a T�rmino de Giro y de sus respectivos Socios, conforme a las Normas de los Art�culos 14� y 38� bis de la ley de la Renta. (Ord. N� 3.796, de 30.09.2005)
 
 ## Referencias detectadas
 

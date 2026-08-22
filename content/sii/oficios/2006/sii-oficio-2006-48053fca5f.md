@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-09
+- Fecha: 2006-05-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1871.htm
 - Hash SHA-256: 947becff4c4e3fd7d86d97f37178fce577f2600886d60d9c59895540d4c21542
 
 ## Resumen
 
-ja2914.doc'>Word Resuelve Reconsideraci�n de Oficio Ordinario N�3.853, de 2005. (Ord. N� 2.914, de 09.06.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 72� - Circular N�19, de 2006. Word Solicita el estudio de la disposici�n legal que establece procedimiento de c�lculo del reajuste, respecto del pago del Impuesto a la Renta. (Ord. N� 2.021, de 31.05.2006) Renta � Actual Ley Sobre Impuesto a la � Arts. 20�, 30� y 31� - Ley N�19.281, de 1993 � Circular N� 53�, de 1978 � Oficio N� 3.844, de 2004. Word Solicita s…
+, de 31.05.2006) Renta � Actual Ley Sobre Impuesto a la � Arts. 20�, 30� y 31� - Ley N�19.281, de 1993 � Circular N� 53�, de 1978 � Oficio N� 3.844, de 2004.
 
 ## Referencias detectadas
 

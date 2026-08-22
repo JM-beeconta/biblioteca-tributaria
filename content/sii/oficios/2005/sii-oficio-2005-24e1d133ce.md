@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Tributaci�n de Predio Agr�cola, conforme a las normas de la Letra b), del N�1, del Art�culo 20�, de la Ley de la Renta. R�gimen Tributario del Arrendador u otro Mero Tenedor que explote el Inmueble. (Ord. N�5.059, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 84�, letra a) � Ley sobre Impuesto a las Ventas y Servicios, Art. 12�, letra D), Art. 2�, N�1, Art. 19�, Art. 36�. Word Tratamiento Tributario de los Productos Exportados sin Retornos, destinados a Promociones en el Exterior, respe…
+Word Tratamiento Tributario de los Productos Exportados sin Retornos, destinados a Promociones en el Exterior, respecto de la Normativa Legal del Impuesto IVA y Renta. (Ord. N�5.058, de 26.12.2005)
 
 ## Referencias detectadas
 

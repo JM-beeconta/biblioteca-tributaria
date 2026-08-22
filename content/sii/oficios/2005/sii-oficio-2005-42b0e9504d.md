@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-08
+- Fecha: 2005-04-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja930.htm
 - Hash SHA-256: f8f249477c6246ad85eaac264c2dfa723dfba80feea508a9f081bfbde6c13232
 
 ## Resumen
 
-a931.htm">Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra A), N� 1, Art. 41� � Decreto Supremo de Hacienda, N� 55, de 1977, Art. 64� � Ley N� 18.634. (Ord. N� 952, de 08.04.2005) Word Solicita se Informe la Raz�n por la cual se Grava con Impuesto al Valor Agregado, la Transferencia al Usuario de un Veh�culo Motorizado, en Circunstancias que este hab�a sido Transferido con anterioridad. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art.…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 12�, Art. 13�, N� 4 � Circular N� 11, de 2004 � Oficio N� 929, de 1991 (Ord. N� 933, de 05.04.2005)
 
 ## Referencias detectadas
 

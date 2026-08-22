@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-05
+- Fecha: 2007-04-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4079.htm
 - Hash SHA-256: 32a6dcd939483493b9ee2661412942b5d18185450ea149b105a7590e09fad1f6
 
 ## Resumen
 
-posteriores. Renta � Actual Ley Sobre Impuesto a la � Art. 15� � Oficios N��s 613, de 2005 y 3.119, de 2006. (Ord. N� 794, de 05.04.2007) Word Tratamiento tributario de diferencia producida entre valor de adquisici�n corregido de las acciones y el valor patrimonial tributario de la sociedad que se disuelve. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 27 � C�digo Tributario, Art. 126� � Ley N� 19.070, Art. 5� transitorio � D.F.L. N�2, de 1998, Art. 11� (Ord. N� 785, de 04.04.2007) Word Tratamiento tributa…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 27 � C�digo Tributario, Art. 126� � Ley N� 19.070, Art. 5� transitorio � D.F.L. N�2, de 1998, Art. 11�
 
 ## Referencias detectadas
 

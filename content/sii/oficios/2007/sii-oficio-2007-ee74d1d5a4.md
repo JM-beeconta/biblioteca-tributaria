@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-05
+- Fecha: 2007-04-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4079.doc
 - Hash SHA-256: aa5d5155261f816c17663ff836b62edd01a2bdc355fc3cf54c02fd23f5a0c051
 
 ## Resumen
 
-rd. N� 794, de 05.04.2007) Word Tratamiento tributario de diferencia producida entre valor de adquisici�n corregido de las acciones y el valor patrimonial tributario de la sociedad que se disuelve. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 27 � C�digo Tributario, Art. 126� � Ley N� 19.070, Art. 5� transitorio � D.F.L. N�2, de 1998, Art. 11� (Ord. N� 785, de 04.04.2007) Word Tratamiento tributario del complemento de zona a que alude el art�culo 5� transitorio de la Ley N� 19.070, sobre Estatuto de los P…
+Word Tratamiento tributario del complemento de zona a que alude el art�culo 5� transitorio de la Ley N� 19.070, sobre Estatuto de los Profesionales de la Educaci�n.
 
 ## Referencias detectadas
 

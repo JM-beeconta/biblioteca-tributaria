@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-13
+- Fecha: 2005-09-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1013.doc
 - Hash SHA-256: ce3ac4b3aaa1ea55d4b21f95891e1ae07b260c5e8d9b56d8b27f23c77fa8feba
 
 ## Resumen
 
-, Art. 20�, N�3 � Oficio N� 2.975, de 2004. (Ord. N� 3.468, de 13.09.2005) Word Impuesto al Valor Agregado, en servicios de Asesor�as en Proyectos de Ingenier�a. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 23�, Art. 52� � Ley Sobre Impuesto a la Renta, Art. 20�, N�3 � C�digo de Comercio, Art. 3�, N�6. (Ord. N� 3.374, de 07.09.2005) Word Clasificaci�n del Servicio A�reo, como Transporte de Carga. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las…
+Word Clasificaci�n del Servicio A�reo, como Transporte de Carga.
 
 ## Referencias detectadas
 

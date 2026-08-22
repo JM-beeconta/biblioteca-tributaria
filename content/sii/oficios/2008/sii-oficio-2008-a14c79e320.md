@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-14
+- Fecha: 2008-07-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1459.doc
 - Hash SHA-256: a092006df2bf6da35d4538733eb691c1d5b54e858b04294f35a2008a218ac98c
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N� 2. (Ord. N� 1.479, de 14.07.2008) Word Tributaci�n con Impuesto Adicional de las cantidades remesadas al exterior en cumplimiento de contrato que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � Decreto Ley, N�3.063, de 1979, Art. 24� � Circular N� 158, de 1976. (Ord. N� 1.459, de 10.07.2008) Word Tratamiento tributario de los pr�stamos efectuados por los socios a las sociedades que pertenecen frente a la determinaci�n del capital propio par…
+Word Tratamiento tributario de los pr�stamos efectuados por los socios a las sociedades que pertenecen frente a la determinaci�n del capital propio para los efectos de la patente municipal.
 
 ## Referencias detectadas
 

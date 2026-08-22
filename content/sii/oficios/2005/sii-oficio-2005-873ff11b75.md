@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra b) � Circulares N�s 58 y 63, de 1990. Word Tributaci�n de Predio Agr�cola, conforme a las normas de la Letra b), del N�1, del Art�culo 20�, de la Ley de la Renta. R�gimen Tributario del Arrendador u otro Mero Tenedor que explote el Inmueble. (Ord. N�5.059, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 84�, letra a) � Ley sobre Impuesto a las Ventas y Servicios, Art. 12�, letra D), Art. 2�, N�1, Art. 19�, Art. 36�. Word Tratamien…
+Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 84�, letra a) � Ley sobre Impuesto a las Ventas y Servicios, Art. 12�, letra D), Art. 2�, N�1, Art. 19�, Art. 36�.
 
 ## Referencias detectadas
 

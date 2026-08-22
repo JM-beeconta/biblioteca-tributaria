@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-09
+- Fecha: 2005-05-03
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja935.htm
 - Hash SHA-256: f5f2e6d4769f91e9dd3a0aaa7dec117097f42d5f368ec0f1cf88acbd86c3c38c
 
 ## Resumen
 
-aja Ley (Ord. N� 1377, de 09.05.2005) Cr�dito por Impuesto de Primera Categor�a en contra del Impuesto Global Complementario � Ley de la Renta � Art. 56�, N� 3, Art. 21�. Word Requisitos que se deben cumplir para tener Derecho al Cr�dito por Impuesto de Primera Categor�a ( Ord N� 1.287, de 03.05.2005) Empresa Extranjera � Establecimiento Permanente � Ley Sobre Impuesto a las Ventas y Servicios � Art. 8�, letra a), Art. 2�, N� 1 � Ley Sobre Impuesto a la Renta, Art. 10�, Art. 58�, N�1, Art. 60�. Word Importaci�n a…
+03.05.2005) Empresa Extranjera � Establecimiento Permanente � Ley Sobre Impuesto a las Ventas y Servicios � Art. 8�, letra a), Art. 2�, N� 1 � Ley Sobre Impuesto a la Renta, Art. 10�, Art. 58�, N�1, Art. 60�.
 
 ## Referencias detectadas
 

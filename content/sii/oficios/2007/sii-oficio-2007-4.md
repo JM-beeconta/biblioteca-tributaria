@@ -11,7 +11,7 @@
 
 ## Resumen
 
-obre la forma de determinar el Costo Tributario en la Enajenaci�n de Acciones, cuando se trata de una Persona Natural, de acuerdo al N�8, art. 17� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art.41�- C�digo Tributario, Art. 64� � Oficio N� 4.011, de 2003. (Ord. N�3.127, de 15.11.2007) Word Solicita ratificaci�n de criterio que dice relaci�n a la situaci�n tributaria de la Permuta de Derechos Sociales de acuerdo a lo establecido en el art. 41� de la Ley de la Renta y art. 64� del C�digo Tributar…
+Word Solicita ratificaci�n de criterio que dice relaci�n a la situaci�n tributaria de la Permuta de Derechos Sociales de acuerdo a lo establecido en el art. 41� de la Ley de la Renta y art. 64� del C�digo Tributario.
 
 ## Referencias detectadas
 

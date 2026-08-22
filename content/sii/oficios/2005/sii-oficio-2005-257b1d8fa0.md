@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Rep�blica, Art. 19�, N� 14 Word Resuelve sobre Pr�rroga de Plazo que se establece en la parte final del Inciso Segundo del Art�culo 3�, de la Ley de la Renta. (Ord. N� 068, de 07.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 56�, N� 3, Art. 63� � C�digo Civil, Art. 1560� � Ley N� 16.271 � Oficios N�s 2.314, de 1997 y 1.723, de 1994. Word Tributaci�n de Usufructo de Derechos Sociales de una Sociedad a favor de Terceros, de acuerdo a lo dispuesto en los art�culos 13�, 54� y siguientes de la Ley de la Rent…
+Word Tributaci�n de Usufructo de Derechos Sociales de una Sociedad a favor de Terceros, de acuerdo a lo dispuesto en los art�culos 13�, 54� y siguientes de la Ley de la Renta, en relaci�n con los art�culos 13�, 54� y siguientes de la Ley de la Renta, en relaci�n con los art�culos 764 del C�digo Civil y 7� de la Ley N� 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. (Ord. N� 067, de 07.01.2005)
 
 ## Referencias detectadas
 

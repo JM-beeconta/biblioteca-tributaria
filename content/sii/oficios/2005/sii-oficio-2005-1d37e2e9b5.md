@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-05
+- Fecha: 2005-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja944.doc
 - Hash SHA-256: 4abed2732d57d4807e8320400ed2bb349cae2677250a470568c2cea57a695161
 
 ## Resumen
 
-Art. 13�, N�1, Art. 17� � Circular N� 7, de 2002. Word Tributaci�n que afecta al Mayor Valor obtenido en la Enajenaci�n de Acciones conforme a las Normas del Art�culo 18 ter de la Ley de la Renta. (Ord. N� 1.329, de 05.05.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Situaci�n Tributaria de Aporte de Acciones a la Formaci�n de una Nueva Sociedad, conforme a las Normas del Art�culo 64�, del C�digo Tributario. (Ord. N� 1.295, de 03.05.2005) Renta � Actual…
+Word Situaci�n Tributaria de Aporte de Acciones a la Formaci�n de una Nueva Sociedad, conforme a las Normas del Art�culo 64�, del C�digo Tributario. (Ord. N� 1.295, de 03.05.2005)
 
 ## Referencias detectadas
 

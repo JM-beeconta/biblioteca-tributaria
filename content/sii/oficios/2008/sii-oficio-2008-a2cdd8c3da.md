@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'>Word Situaci�n tributaria de Excedentes de Libre Disposici�n. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis N�3 � Decreto Ley N� 3.500, de 1980, Art. 3� y 68� Letra B) � Circular N�31, de 2002. (Ord. N� 552, de 20.03.2008) Word Tributaci�n que afecta a retiro de ahorro previsional voluntario de acuerdo al N� 3� del Art�culo 42 bis. Renta � Actual Ley Sobre Impuesto a la � Art. 1�, Ley N�19.606, de 1.999, Sobre Ley Austral, Modificada por Ley N�19.946 � Circulares N�66, de 1999 y N�47, de 2004. (Ord. N�55…
+Renta � Actual Ley Sobre Impuesto a la � Art. 1�, Ley N�19.606, de 1.999, Sobre Ley Austral, Modificada por Ley N�19.946 � Circulares N�66, de 1999 y N�47, de 2004. (Ord. N�551, de 20.03.2008)
 
 ## Referencias detectadas
 

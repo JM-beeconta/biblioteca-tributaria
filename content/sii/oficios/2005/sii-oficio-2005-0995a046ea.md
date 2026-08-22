@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-25
+- Fecha: 2005-08-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1002.htm
 - Hash SHA-256: a3453b4ed88fe2630c23d6dcff7d15de4fbda58759ae4c1e062a627c55328a41
 
 ## Resumen
 
-"2"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�, Art. 56� � C�digo Tributario, Art. 6�, Letra A), N�1 � Ley N� 19.983, de 2004 - Res. Ex. N�s 1.578, de 1979 y N� 14, de 2005. (Ord. N� 3.134, de 25.08.2005) Word Pide establecer Vigencia de la Resoluci�n Exenta N� 1.578, de 1979, que excepciona de la emisi�n de Gu�as de Despacho a Empresas Period�sticas y otras. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N� 1 y 2. (Ord. N� 3.055, de 18.08.2005) W…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N� 1 y 2. (Ord. N� 3.055, de 18.08.2005)
 
 ## Referencias detectadas
 

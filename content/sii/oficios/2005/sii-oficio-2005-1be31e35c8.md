@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-08
+- Fecha: 2005-06-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja986.htm
 - Hash SHA-256: 2d720e89cb1852dcca46be88d241e2127a54610c1473c6f873167a75e9041146
 
 ## Resumen
 
-Sobre Impuesto a las � Art. 8�, letra g), Art. 27� bis � Circular N� 94, de 2001. (Ord. N� 2.503, de 08.07.2005) Word Aplicaci�n del hecho gravado especial con IVA establecido en el art�culo 8� letra g) del D.L. 825 de 1974, a contrato de arrendamiento de inmueble y posibilidad de solicitar devoluci�n de cr�dito fiscal generado en la construcci�n de dicho bien, de conformidad con el art�culo 27 bis del mismo cuerpo legal. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 13�,…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 13�, N� 4, Art. 8�, letra h). ( Ord. N� 2.381, de 30.06.2005)
 
 ## Referencias detectadas
 

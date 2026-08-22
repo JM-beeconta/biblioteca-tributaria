@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-15
+- Fecha: 2006-11-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3999.htm
 - Hash SHA-256: d890e7b6a469270251bd367c98f0c21aafbe5501006107c8b885ff9000e2f6e4
 
 ## Resumen
 
-rio, Art. 64. Valor de aporte de acciones a una sociedad de responsabilidad limitada, conforme al art�culo 64 del C�digo Tributario. (Ord. N� 4.577, de 15.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Ley N� 18.168. Word Situaci�n Tributaria de los Pagos por Servicios de Telecomunicaciones Internacionales que se Indican (Ord. N� 4.572, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Art. 103�, Art. 110� . Word Tratamiento Tributario de la P�rdida originada en el Menor Val…
+, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.046, Art. 103�, Art. 110� .
 
 ## Referencias detectadas
 

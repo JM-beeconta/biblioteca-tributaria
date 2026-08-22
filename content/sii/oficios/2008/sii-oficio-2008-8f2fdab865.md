@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-06-18
+- Fecha: 2008-06-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1207.htm
 - Hash SHA-256: 34a2fc0616668d25bf006fec99acc75503e234f3dbb4c9c2085ef0c54c5f948d
 
 ## Resumen
 
-6.2008) Word Elementos de juicio que deben tenerse presente para calificar a una operaci�n de venta de acciones de habitual o no. Renta � Actual Ley Sobre Impuesto a la � Oficios N� 3.230 y N�3.489, de 2007. (Ord. N� 1268, de 18.06.2008) Word Se confirman criterios en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Ley de Donaciones con Fines Culturales N�18.985, Art.8� - D.S. N�787, de 1990, del Ministerio de Educaci�n, Art. 1�, N�1�. (Ord. N� 1207, de 09.06.2008) Word Requisitos que deben r…
+Renta � Actual Ley Sobre Impuesto a la � Ley de Donaciones con Fines Culturales N�18.985, Art.8� - D.S. N�787, de 1990, del Ministerio de Educaci�n, Art. 1�, N�1�. (Ord. N� 1207, de 09.06.2008)
 
 ## Referencias detectadas
 

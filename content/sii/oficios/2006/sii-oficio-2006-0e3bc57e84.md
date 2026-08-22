@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-12
+- Fecha: 2006-05-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1618.doc
 - Hash SHA-256: 16cf9118d55aa39aee836a0d73d538b96e45aa16e1315e0539f350b5942cfd44
 
 ## Resumen
 
-era, Art. 4�. Word Solicita opini�n del Servicio respecto a la posibilidad de que se aplique la normativa del Capitulo XIV del Compendio de Normas de Cambios Internacionales, a la reinversi�n de utilidades proveniente de proyectos acogidos al Decreto Ley N� 600, de 1974. (Ord. N� 1685, de 12.05.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� Letra A) N�3, Art. 56 N�3, Art. 63 � Circulares N�60, de 1990, N�40, de 1991 y N�17�, de 1993 � Resoluci�n Ex. N�2154, de 1991. Word Dividendos sin cr�dito de Primera…
+Word Dividendos sin cr�dito de Primera Categor�a percibidos por una S.A. de otra sociedad an�nima constituida en Chile, deben registrarse en el FUT, de acuerdo a lo dispuesto por el art. 14, de la Ley de la Renta. (Ord. N� 1618, de 08.05.2006).
 
 ## Referencias detectadas
 

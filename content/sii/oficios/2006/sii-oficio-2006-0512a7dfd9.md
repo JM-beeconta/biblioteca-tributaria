@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="JUSTIFY"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52�, Art. 53� � Ley N� 19.983 � Res. Ex. N�109. Word Obligaci�n de emitir factura en caso de venta de medios de prepago de telefon�a e Internet efectuada entre comerciantes afectados con el cambio de sujeto decretado en la Res. Ex. N�109, de 2005. (Oficio N� 1.197, de 29.03.2006) Ley de Impuestos a las Ventas y Servicios. Art�culo 15 N� 1. Procedencia de aplicar art�culo 15 N� 1 del D.L. 825, de 1974, cuando una operaci�n a plazo…
+06) Ley de Impuestos a las Ventas y Servicios. Art�culo 15 N� 1. Procedencia de aplicar art�culo 15 N� 1 del D.L. 825, de 1974, cuando una operaci�n a plazo es pactada en d�lares y pagada en esa misma moneda. (Oficio N� 971, de 16 de Marzo 2006)
 
 ## Referencias detectadas
 

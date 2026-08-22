@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-28
+- Fecha: 2005-04-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja941.htm
 - Hash SHA-256: 8090fd9018a9e471a09f4966220b68d42acab99c7e5f80550dece892b306c285
 
 ## Resumen
 
-t> Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 2, letra c) y d) � Ley N� 19.518, Art. 36� y Art. 37�� Word Improcedencia de Utilizar el Cr�dito por Gastos de capacitaci�n en el caso de Fusi�n de Sociedades. (Ord. N� 1.202, de 28.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 84� letra b), Art. 50� � C�digo Civil, Art. 1700� � C�digo de Comercio, Art. 507� � Circular N� 143, de 1972. Word Tributaci�n que afecta a Honorarios Percibidos por Abogado que actu� Asesorado por otro profesional, seg�n el…
+Renta � Actual Ley Sobre Impuesto a la � Art. 84� letra b), Art. 50� � C�digo Civil, Art. 1700� � C�digo de Comercio, Art. 507� � Circular N� 143, de 1972.
 
 ## Referencias detectadas
 

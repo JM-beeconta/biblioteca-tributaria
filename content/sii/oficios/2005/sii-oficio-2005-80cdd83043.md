@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-08
+- Fecha: 2005-04-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja897.doc
 - Hash SHA-256: 5483ae4ca343feb93e8a2b1527e2b106673560db43af59f28b52c0e4064abac6
 
 ## Resumen
 
-> Tratamiento Tributario de las Contribuciones de Bienes Ra�ces Pagadas por las Empresas Concesionarias de Puertos, de acuerdo a lo dispuesto por las letras a) y f), del N�1 y N�3, del Art�culo 20�, de la Ley de la Renta, en concordancia con lo establecido en la Ley N�19.542, de 1997. (Ord. N� 955, de 08.04.2005) Renta � Actual Ley sobre Impuesto a la � Art. 59, N�1 - Ley N� 18.010, Art. 2. Word El cobro efectuado por modificaci�n de contrato denominado �Amendment Fee" constituye un inter�s afecto al impuesto Adic…
+Word El cobro efectuado por modificaci�n de contrato denominado �Amendment Fee" constituye un inter�s afecto al impuesto Adicional establecido en el No 1 del art�culo 59 de la Ley de la Renta. (Ord. N� 897, de 04.04.2005)
 
 ## Referencias detectadas
 

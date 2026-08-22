@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-03-20
+- Fecha: 2008-03-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja452.htm
 - Hash SHA-256: 020b1598e9fed7f77c2f48f30a2100df581c3f328f1e2c34e18ce7f782598427
 
 ## Resumen
 
-ta/ja549.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 2 � D.L. N� 825, de 1974, Art. 23�, Art.43� - Ley General de Cooperativas, Art. 49� - Ley N� 19.418, sobre Juntas de Vecinos y dem�s Organizaciones Comunitarias � Circular N�42, de 1973. (Ord. N� 549, de 20.03.2008) Word Solicita un pronunciamiento respecto a la tributaci�n frente al IVA e Impuesto a la Renta de las Cooperativas, Juntas de Vecinos y dem�s Organizaciones Comunitarias que suministran Agua Potable Rural. Renta � Actual Ley Sobre Impue…
+Renta � Actual Ley Sobre Impuesto a la � Art. 46� - Ley N� 20.134, de 2006 � Circular N�37�, de 1990 � Oficio N� 2.595, de 2007. (Ord. N� 452, de 06.03.2008)
 
 ## Referencias detectadas
 

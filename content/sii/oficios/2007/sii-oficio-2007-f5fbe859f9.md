@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-11
+- Fecha: 2007-09-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2592.htm
 - Hash SHA-256: 695d3e25866ee9689db0b8c24220a3c7b919637ecfef15ecd4dc595af194f298
 
 ## Resumen
 
-ealizable al activo fijo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.764, Art. 2� - C�digo de Comercio, Art. 166. (Ord. N� 2634, de 11.09.2007) Word Aplicaci�n de la franquicia del art�culo 2� de la Ley 19.764, a los servicios de recolecci�n de residuos industriales, aseo de calles y mantenci�n de �reas verdes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502, de 1986, Art. 6� y 7� - Ley N� 19.764, de 2001, Art. 2� - Decreto Supremo N� 311, de 19…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502, de 1986, Art. 6� y 7� - Ley N� 19.764, de 2001, Art. 2� - Decreto Supremo N� 311, de 1986. (Ord. N� 2592, de 06.09.2007)
 
 ## Referencias detectadas
 

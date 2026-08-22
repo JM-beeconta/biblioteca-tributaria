@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-10-11
+- Fecha: 2007-10-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2830.htm
 - Hash SHA-256: 97ea83d05edd0dad89338d0f0d2e8159e0872a678e36f8b824d66b32e805361f
 
 ## Resumen
 
-/font> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley de la Renta, art. 20� N�5� - D. L. N�2.757, de 1979 � Res. Ex. N� 6080, de 1999. (Ord. N� 2888, de 11.10.2007) Word Aplicaci�n del Impuesto al Valor Agregado e Impuesto a la Renta a los ingresos obtenidos por servicios de inspecci�n de la tarjeta nacional del estudiante y oficinas de atenci�n a usuarios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, art. 20�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, art. 20� N�3� y 4�. (Ord. N� 2830, de 04.10.2007)
 
 ## Referencias detectadas
 

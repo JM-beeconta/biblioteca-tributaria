@@ -11,7 +11,7 @@
 
 ## Resumen
 
-25.04.2008) Word Aplicaci�n de Exenci�n de Art. 12, letra e), N�10, del D.L 825, de 1974, a la emisi�n de boleta de garant�a bancaria, realizada por un Banco en representaci�n de un Banco extranjero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 5�, Art. 36� - Ley de la Renta, Arts. 30� y 31� - Circular N�45�, de 1991 � D.S. de Economia N�348, de 1975, Art. 1� y 2� Letra b). (Ord. N� 869, de 25.04.2008) Word Tratamiento tributario de una operaci�n de exportaci�n de vino que ten…
+Word Tratamiento tributario de una operaci�n de exportaci�n de vino que tendr�a las particularidades que se indican.
 
 ## Referencias detectadas
 

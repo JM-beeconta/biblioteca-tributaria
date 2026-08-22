@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-20
+- Fecha: 2005-01-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja885.htm
 - Hash SHA-256: fdb14e18fe4a93b58ee384de0653eb32136853cb204335caaedf74b2da5cbd83
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 64� � Circular N� 45, de 2001. Word Situaci�n tributaria de Comunidad Agr�cola, que aportar� sus bienes a Sociedad de Responsabilidad Limitada, conforme lo dispuesto por el inciso quinto del Art�culo 64�, del C�digo Tributario. (Ord. N� 186, de 20.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c) � Ley N� 18.046, de Sociedades An�nimas, Art.94� � Oficio N� 1.301, de 2000. Word Alcances de lo dictaminado por este Servicio a trav�s de O…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c) � Ley N� 18.046, de Sociedades An�nimas, Art.94� � Oficio N� 1.301, de 2000.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-07-10
+- Fecha: 2006-06-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3055.doc
 - Hash SHA-256: ad190ccd24321933d544a5957c962d449ac8aaccb416b6002748b6f7800cc6d2
 
 ## Resumen
 
-Franca establecido en el DFL. N�341, de 1977, a los Servicios de Seguridad y Vigilancia que ser�n prestados a usuarios de la referida Zona. (Oficio N�3.175, de 10.07.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 25�, Art. 64� � D. Supremo de Hacienda N�55, de 1977, Art. 80 � C�digo Tributario, Art. 192�, Oficio 335, de 2004. Word Consulta acerca de la utilizaci�n como Cr�dito Fiscal del Impuesto al Valor Agregado cobrado por una diferencia de Derechos de Aduana e IVA en…
+Word Consulta acerca de la utilizaci�n como Cr�dito Fiscal del Impuesto al Valor Agregado cobrado por una diferencia de Derechos de Aduana e IVA en una Importaci�n, pagados mediante Convenio suscrito con Tesorer�a. (Oficio N� 3.055, de 22.06.2006)
 
 ## Referencias detectadas
 

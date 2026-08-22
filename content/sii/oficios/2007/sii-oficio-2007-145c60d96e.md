@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, de 1974, Art. 3�, 4�,5�,8� y 13� - Circular N�29, de 1978. (Ord. N� 655, de 08.04.2008) Word Solicita devoluci�n del Impuesto Espec�fico a los Tabacos Manufacturados, pagado en la importaci�n del mismo en las situaciones que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, de 1986, Art.1�, inciso 5�, 6� y 8� - Constituci�n Pol�tica de Chile, Art. 63 N�14, Art. 65 N�1�.(Ord. N� 654, de 08.04.2008) Word Pronunciamiento relativo al pago del componente fijo del impuesto al…
+Word Pronunciamiento relativo al pago del componente fijo del impuesto al Gas Natural Comprimido de la Ley N�18.502, en caso de desabastecimiento.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.2008) Word Posibilidad que productor agr�cola que tributa a trav�s del r�gimen de renta presunta pueda aprovechar el cr�dito fiscal IVA, por la compra de materiales para la construcci�n de casa patronal. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 12� letra d), Art. 36� - D.S. Hacienda N�348, de 1975 � D.F.L. N�341, de 1977, Art. 10 bis, Art. 24� - Circular N�16, de 1986. (Ord. N� 402, de 26.02.2008) Word Venta de gas licuado nacional, nacionalizado y extranjero, a un contri…
+Word Venta de gas licuado nacional, nacionalizado y extranjero, a un contribuyente usuario de Zona Franca, conforme al art�culo 10 bis del D.F.L. 341, de 1977.
 
 ## Referencias detectadas
 

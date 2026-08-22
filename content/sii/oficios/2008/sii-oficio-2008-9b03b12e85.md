@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-29
+- Fecha: 2008-07-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1431.doc
 - Hash SHA-256: f123e571408ead7d44c01b3e2209ba19367da4ee7df65f42c72f5db30380ea0c
 
 ## Resumen
 
-ial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 17� � Circular N� 111, de 1975. (Ord. N� 1.578, de 29.07.2008) Word Consulta relativa a la aplicaci�n del inciso primero del art�culo 17�, del Decreto Ley N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. N� 2�, N� 2 � Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 1.431, de 07.07.2008) Word Documentaci�n que se debe emitir en caso de reembolso de gastos. Ventas y Servicios � Nuevo Texto �…
+Word Documentaci�n que se debe emitir en caso de reembolso de gastos.
 
 ## Referencias detectadas
 

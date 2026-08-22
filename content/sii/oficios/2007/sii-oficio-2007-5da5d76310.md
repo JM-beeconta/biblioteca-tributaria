@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-07
+- Fecha: 2007-10-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja2827.htm
 - Hash SHA-256: 4398804d15c4a5aa97393f52d4651ac9ed9c5afe61fcf7c1f8ce801e9d0dee3d
 
 ## Resumen
 
-icaci�n del Impuesto de Timbres y Estampillas a documento de Reconocimiento de Deuda. C�digo Tributario. Art�culo 64�. Ordinario N� 3039, de 07 de Noviembre del 2007.- Improcedencia uso facultad del art�culo 64 del C�digo Tributario, con ocasi�n del Informe evacuado por orden del Tribunal Tributario, dentro de un proceso de reclamo. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3�- Ley N� 18.010, Art. 1�.(Ord. N� 2827, de 04.10.2007) Word Solicita se confirme el tratamiento tributario que fren…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3�- Ley N� 18.010, Art. 1�.(Ord. N� 2827, de 04.10.2007)
 
 ## Referencias detectadas
 

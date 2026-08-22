@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3
 - Año: 2007
-- Fecha: 2007-04-10
+- Fecha: 2007-04-04
 - Categoría: Renta, IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4087.doc
 - Hash SHA-256: f4e03780c19539f28105dc7a318fda5b8251bfb9ff51d7d7b4b90a961a1a5b31
 
 ## Resumen
 
-size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 126�. (Ord. N� 814, de 10.04.2007) Word Recuperaci�n de Impuesto al Valor Agregado, pagado en exceso por un Fondo de Inversi�n de la Ley N� 18.815. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 17�, Art. 23� � Oficio N� 3.003, de 1996. (Ord. N� 783, de 04.04.2007) Word Determinaci�n de la base imponible del Impuesto al Valor Agregado en el arrendamiento de bienes ra�…
+Word Determinaci�n de la base imponible del Impuesto al Valor Agregado en el arrendamiento de bienes ra�ces agr�colas.
 
 ## Referencias detectadas
 

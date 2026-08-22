@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-06-06
+- Fecha: 2008-06-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1198.htm
 - Hash SHA-256: c3b09ec1c23c5a62523f1470f36e1b992a29ea29b63128b9f6c968adb75226e2
 
 ## Resumen
 
-GN='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�1� - Ley N�18.815, Art. 1� - Decreto Ley N� 3.063, sobre Rentas Municipales, Art. 23� y Art. 24� - Oficio N� 4243, de 2006. (Ord. N� 1202, de 06.06.2008) Word Situaci�n tributaria de aportes que se efect�an a las Sociedades Administradoras de Fondos de Inversi�n de la Ley N� 18.815, frente al Capital Propio a que se refiere el Art. 41� N�1� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 4 � C�digo Tributario, Art. 60�,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 4 � C�digo Tributario, Art. 60�, inciso 8 � D.F.L N� 382, de 1988 � Decreto N� 1.199, de 2004, del Ministerio de Obras P�blicas � Circular N� 24, de 2008 � (Ord. N� 1.198, de 04.06.2008)
 
 ## Referencias detectadas
 

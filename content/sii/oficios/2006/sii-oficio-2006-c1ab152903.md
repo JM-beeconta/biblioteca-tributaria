@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-27
+- Fecha: 2006-12-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja3558.htm
 - Hash SHA-256: 4ea32d66349a6f58b4dc1385f2b592a4be07c2553782d43c220fabc8c107143d
 
 ## Resumen
 
-font> ( Ord. N� 4.963, de 27.12.2006) Decreto Ley N� 600 � Art. 2�, letra f) � Ley de la Renta, Art. 14�, letra A), Art. 74�, N�4. Word Capitalizaci�n de Utilidades con derecho a ser transferidas al exterior, en conformidad con el art�culo 2�, letra f, del Decreto Ley N� 600. (Ord. N� 4.868, de 15.12.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.1� Inciso 1� N�3� - Ley N�18.010, Art. 1�. Word Solicita se confirme la conclusi�n a que arrib� el Comit� Regional de Inversiones, en orden a si…
+5.12.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.1� Inciso 1� N�3� - Ley N�18.010, Art. 1�.
 
 ## Referencias detectadas
 

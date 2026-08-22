@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-14
+- Fecha: 2008-04-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja707.htm
 - Hash SHA-256: ce066cafd909150b8b9fff51b607211828717012fa6f23cd88ce8eb8cea21edc
 
 ## Resumen
 
-> Tratamiento tributario de la obligaci�n de pagos emanada del contrato que se indica, frente a la determinaci�n de impuestos. Renta � Actual Ley Sobre Impuesto a la � Art. 30�, Art. 31�. (Ord. N� 709, de 14.04.2008) Word Tributaci�n de los intereses pagados por pr�stamo bancario destinado a efectuar una disminuci�n de capital a sus accionistas. Renta � Actual Ley Sobre Impuesto a la � Art.31� N�6, Art. 42� N�1 � Decreto Ley N�3.500, de 1980, Art. 90 � Circular N�42, de 1990. (Ord. N� 707, de 11.04.2008) Word Trat…
+Renta � Actual Ley Sobre Impuesto a la � Art.31� N�6, Art. 42� N�1 � Decreto Ley N�3.500, de 1980, Art. 90 � Circular N�42, de 1990. (Ord. N� 707, de 11.04.2008)
 
 ## Referencias detectadas
 

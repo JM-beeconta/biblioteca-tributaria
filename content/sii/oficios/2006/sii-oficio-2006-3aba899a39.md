@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del ahorrantes. (Ord. N� 4.474, de 02.11.2006) . Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art. 54�, Art. 62�, Art. 65�, N� 3 � C�digo Civil, Art. 2.259� � Oficio N� 2.717, de 2004. Word Tributaci�n de los Ingresos obtenidos en carreras a la Chilena, conforme a las normas de la Ley de la Renta. (Ord. N� 4.473, de 02.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9, Art. 31�, N�7 � Ley N� 16.271, Art. 18�, N� 4. Word Tratamiento Tributario de Donaciones recibidas en el pa�s, desde el extran…
+2.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9, Art. 31�, N�7 � Ley N� 16.271, Art. 18�, N� 4.
 
 ## Referencias detectadas
 

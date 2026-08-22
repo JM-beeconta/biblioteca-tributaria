@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 15.840, de 1964, Art. 30� � Circular N� 49, de 2006. (Ord. N�2.415, de 20.08.2008) Word Tratamiento tributario de desembolsos incurridos en la construcci�n de una obra vial de uso p�blico. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 41�, N�10, Art. 64 � Circular N� 133, de 1977. (Ord. N� 2.414, de 20.08.2008) Word Valor en que deben registrarse los bienes en el caso de fusi�n por incorporaci�n de sociedad an�nima. Renta � Actual Ley Sob…
+Word Valor en que deben registrarse los bienes en el caso de fusi�n por incorporaci�n de sociedad an�nima.
 
 ## Referencias detectadas
 

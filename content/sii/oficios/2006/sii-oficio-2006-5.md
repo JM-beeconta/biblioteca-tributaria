@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5
 - Año: 2006
-- Fecha: 2006-02-23
+- Fecha: 2006-02-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1124.doc
 - Hash SHA-256: 0c81c21e14e6acf7cc79fa7ff900b9f40975f7b94ef86a0c9fc9c501e1e0738e
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 42�, N�2, Art. 43�, N�2, Art. 74�, N�2 � Circular N� 21, de 1991. Word Situaci�n tributaria que afecta a sumas pagadas por concepto de Honorarios por Asistencia a Reuniones de Directorio de una Cooperativa. (Ord. N� 679, de 23.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N� 1, Art. 21�, Art. 31�, N�9 � Oficio N� 5.266, de 2003. Word Situaci�n Tributaria del desembolso efectuado por Agencia en Chile de una Sociedad Extranjera, por concepto de adq…
+Word Situaci�n Tributaria del desembolso efectuado por Agencia en Chile de una Sociedad Extranjera, por concepto de adquisici�n a una Empresa Constructora, del derecho que esta �ltima ten�a en su calidad de part�cipe de un Contrato de Asociaci�n o Cuenta en Participaci�n.] (Ord. N� 654, de 22.02.2006)
 
 ## Referencias detectadas
 

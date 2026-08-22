@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-26
+- Fecha: 2007-09-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2715.htm
 - Hash SHA-256: d602eed3ed354299519019936327fb3d3561dc4c4dacf54f57daa678249b421e
 
 ## Resumen
 
-='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2�, Art. 13� N�4�, Art. 52�, Art. 55� - Ley de la Renta, Art. 20�, N�4� - Circular N�39�, de 2000. (Ord. N� 2726, de 26.09.2007) Word Consulta respecto a la calidad de hecho gravado con IVA de los ingresos percibidos por la prestaci�n de servicios consistente en impartir cursos de capacitaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra E) N�2�, Art. 36�, Art. 52� � C�digo Tributa…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra E) N�2�, Art. 36�, Art. 52� � C�digo Tributario, Art. 66�, Art. 68� - Ley de la Renta, Art. 68�, Art. 71�. (Ord. N�2715, de 25.09.2007)
 
 ## Referencias detectadas
 

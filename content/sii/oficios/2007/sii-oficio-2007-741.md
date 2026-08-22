@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Efectos tributarios de la adjudicaci�n de acciones de una sociedad an�nima en proceso de liquidaci�n de sociedad conyugal y venta posterior de las mismas, conforme a lo dispuesto por las letras a) y g), del N�8, del art�culo 17�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001 � Oficios N��s 791, de 2001 y 1.479, de 2005. (Ord. N� 664, de 19.03.2007) Word Situaci�n tributaria de aportes de acciones a la formaci�n de una nueva sociedad, conforme…
+Word Situaci�n tributaria de aportes de acciones a la formaci�n de una nueva sociedad, conforme a las normas del art�culo 64�, del C�digo Tributario.
 
 ## Referencias detectadas
 

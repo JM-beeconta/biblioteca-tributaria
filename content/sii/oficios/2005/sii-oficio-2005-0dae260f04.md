@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-04
+- Fecha: 2005-03-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja921.doc
 - Hash SHA-256: 10a82d401eacc406feb64e3700d422454ee00ce9c254d12465d04de5ec83170b
 
 ## Resumen
 
-y N� 18.010, Art. 2. Word El cobro efectuado por modificaci�n de contrato denominado �Amendment Fee" constituye un inter�s afecto al impuesto Adicional establecido en el No 1 del art�culo 59 de la Ley de la Renta. (Ord. N� 897, de 04.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 47�, Art. 54�, N� 3 � Ley N� 18.695 � Circular N� 7, de 1993. Word Tributaci�n de las Remuneraciones que Perciben los Concejales, conforme a las Normas del Art�culo 42�, N�1, 43�, N�1 y 54�, N�3 de…
+Word Tributaci�n de las Remuneraciones que Perciben los Concejales, conforme a las Normas del Art�culo 42�, N�1, 43�, N�1 y 54�, N�3 de la Ley de la Renta. (Ord. N� 790, de 28.03.2005)
 
 ## Referencias detectadas
 

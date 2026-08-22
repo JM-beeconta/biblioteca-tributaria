@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-27
+- Fecha: 2006-11-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4002.htm
 - Hash SHA-256: ef90b0a82337f95cd382e5dd9b6387b994c50eb7f4825b40bdfef382d515848d
 
 ## Resumen
 
-e 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, letra A), N� 3 � C�digo Tributario, Art. 28� � C�digo de Comercio, Art. 507� � Oficios N��s 1.584, de 1992, 2.688, de 1998 y 350, de 2000. Word Improcedencia de la Celebraci�n de Contrato de Asociaci�n o Cuentas en Participaci�n entre C�nyuges no calificados como Comerciantes seg�n las Normas del Art�culo 28, del C�digo Tributario. (Ord. N� 4.652, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�6, Art. 30�, Art. 42�, N�2, Art. 43�…
+7.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�6, Art. 30�, Art. 42�, N�2, Art. 43�, N�2 y Art. 52� � Circular N� 151, de 1976.
 
 ## Referencias detectadas
 

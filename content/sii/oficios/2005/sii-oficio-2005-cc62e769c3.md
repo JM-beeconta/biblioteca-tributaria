@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-19
+- Fecha: 2005-01-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja883.htm
 - Hash SHA-256: 10bb210113f82b19cc2f8dc156338640d265a55f78a06cd00999639ea1bf5645
 
 ## Resumen
 
-ial" size="1"> Renta � Actual Ley Sobre Impuesto a la � Art. 52�, Art. 60�, Art.74�, Art. 79��C�digo Tributario, Art. 8�, N� 8 Word Tributaci�n que afecta a Persona Natural Extranjera, conforme a lo dispuesto por el Inciso 2�, del Art�culo 60�, de la Ley de la Renta. (Ord. N� 179, de 19.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letras b) e i), Art. 18� � C�digo Civil, Art.1.909� � Oficio N� 1.736, de 2003. Word Situaci�n Tributaria que afecta al aporte de Bienes Ra�ces Agr�colas a una Socie…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letras b) e i), Art. 18� � C�digo Civil, Art.1.909� � Oficio N� 1.736, de 2003.
 
 ## Referencias detectadas
 

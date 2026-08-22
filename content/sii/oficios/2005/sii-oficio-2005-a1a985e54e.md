@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-15
+- Fecha: 2005-04-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja927.htm
 - Hash SHA-256: e7e0dca4a45c1082b94950372f831ea70d875cac904f86fff59215fb0d442762
 
 ## Resumen
 
-nta/ja928.htm">Renta � Actual Ley Sobre Impuesto a la � 17�, N� 1� C�digo Civil, Art. 2.446�. Word Improcedencia de Calificar como da�o Emergente las Sumas Pagadas a un Acreedor en Virtud de un Acuerdo Transaccional que ordena cumplir un Fallo Arbitral, conforme lo dispuesto por el N� 1, del Art�culo 17�, de la Ley de la Renta. (Ord. N� 1.042, de 15.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, N� 2, Art. 42� bis, Art. 50� � Circular N� 31, de 2002 � Oficio N� 6.524, de 2003. Word Contribuyente…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, N� 2, Art. 42� bis, Art. 50� � Circular N� 31, de 2002 � Oficio N� 6.524, de 2003.
 
 ## Referencias detectadas
 

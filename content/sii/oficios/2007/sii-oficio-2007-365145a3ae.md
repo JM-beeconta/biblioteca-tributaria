@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-06-18
+- Fecha: 2007-05-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja1165.pdf
 - Hash SHA-256: 7fe75ec67569d1b04ab8cc30469f95088072a349ac89e9ef0b4f78f0470c7b77
 
 ## Resumen
 
-, N�6 � Circular N� 42, de 1990. (Ord. N� 1.275, de 18.06.2007) Word Tratamiento Tributario de sueldo empresarial en caso que el trabajador participe en forma indirecta en la sociedad en la cual trabaja en forma efectiva y permanente, a trav�s de otra sociedad socia de la entidad en la cual trabaja. Renta- Ley sobre Impuesto a la � Art. 59 - Convenio entre la Rep�blica de Chile y la Rep�blica Federativa del Brasil para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta �…
+Renta- Ley sobre Impuesto a la � Art. 59 - Convenio entre la Rep�blica de Chile y la Rep�blica Federativa del Brasil para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta � Art. 4, Art. 12, Art. 14 - C�digo Tributario, Art. 9. (Ord. N� 1.165, de 28.05.2007) Tributaci�n que afecta a la licencia de un software y al pago de consultor�as para su implementaci�n.
 
 ## Referencias detectadas
 

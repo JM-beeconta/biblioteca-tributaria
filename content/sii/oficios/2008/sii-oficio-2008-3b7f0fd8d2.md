@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-03-27
+- Fecha: 2008-02-26
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja406.htm
 - Hash SHA-256: a687bcfc6bdee131ddbeb0b8e900a06fc3e305f4064d8dc90745bc023ce477b6
 
 ## Resumen
 
-Exenci�n contenida en el art�culo 23� N�3�, de la Ley de Timbres y Estampillas. Impuesto Territorial � Ley N� 17.235 � Art. 8, Art. 16, letra b), Art. 27 � C�digo Tributario, Art. 83, Art. 200 � Oficio N� 4692, de 30.11.06. (Ord. N� 591, de 27.03.2008) Informa sobre situaci�n de inmuebles de propiedad de una Asociaci�n, entregados en usufructo a una Municipalidad, quien construy� en dichos inmuebles. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.3� - Ley N� 18.010, de 1981 � Oficio N�2.557, del…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art.3� - Ley N� 18.010, de 1981 � Oficio N�2.557, del 2000.(Ord. N� 406, de 26.02.2008)
 
 ## Referencias detectadas
 

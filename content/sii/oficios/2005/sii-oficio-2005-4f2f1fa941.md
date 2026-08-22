@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3, Art. 24�, N�11 � Circular N� 3.145, de 2001, de la Superintendencia de Bancos e Instituciones Financieras. Word Alcance de la Exenci�n del Impuesto de Timbres y Estampillas, establecido en el N�11, del Art�culo 24�, del Decreto Ley N� 3.475, de 1980. (Ord. N� 3.075, de 23.08.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � C�digo Civil, Art. 48� � Circular N� 41, de 1992. Word C�lculo de Tasa del Impuesto de Ti…
+23.08.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � C�digo Civil, Art. 48� � Circular N� 41, de 1992.
 
 ## Referencias detectadas
 

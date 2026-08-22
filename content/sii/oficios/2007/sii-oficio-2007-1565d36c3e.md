@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-02-20
+- Fecha: 2007-02-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4057.doc
 - Hash SHA-256: ab3cb1147b51faed9ae375df9cb8b4d46af02f2ed53112b545c873a4dc11e160
 
 ## Resumen
 
-y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 464, de 20.02.2007) Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de administraci�n global que prestar� una sociedad an�nima. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36�, Art. 42�, Art. 45� � Decreto Supremo N� 348, de 1975, Art. 1�. (Ord. N� 363, de 12.02.2007) Word Determinaci�n del cr�dito fiscal por Impuesto Adicional a las Bebidas A…
+Word Determinaci�n del cr�dito fiscal por Impuesto Adicional a las Bebidas Alcoh�licas y Analcoh�licas que tienen derecho a utilizar los exportadores de estos productos.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 31. (Ord. N� 799, de 17.04.2008) Word Tratamiento tributario de la obligaci�n de pagos emanada del contrato que se indica, frente a la determinaci�n de impuestos. Renta � Actual Ley Sobre Impuesto a la � Art. 30�, Art. 31�. (Ord. N� 709, de 14.04.2008) Word Tributaci�n de los intereses pagados por pr�stamo bancario destinado a efectuar una disminuci�n de capital a sus accionistas. Renta � Actual Ley Sobre Impuesto a la � Art.31� N�6, Art. 42� N�1 � Decreto…
+Word Tributaci�n de los intereses pagados por pr�stamo bancario destinado a efectuar una disminuci�n de capital a sus accionistas.
 
 ## Referencias detectadas
 

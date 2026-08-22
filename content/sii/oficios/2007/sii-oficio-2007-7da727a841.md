@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-15
+- Fecha: 2007-10-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3027.htm
 - Hash SHA-256: a33aeab9e7fa9ca5951221046b4d5577108fdc6b331a7d16a1df7709a493843a
 
 ## Resumen
 
-(Ord. N� 3125, de 15.11.2007) Word Solicita precisar criterios se�alados en Oficio N�3052, de 2006, en lo relacionado al Destino y Utilizaci�n de las Utilidades Pendientes de Tributaci�n, registradas en el FUT de Sociedades sujetas al R�gimen General de tributaci�n como consecuencia de procesos de Reorganizaci�n Empresarial. Renta � Actual Ley Sobre Impuesto a la � Art. 41� A y B, Ley N�16.271, de 1965 � Ley N�19.247, de 1993 � Ley N� 20.171, de 2007 - Circular N�52, de 1993. (Ord. N� 3.027, de 31.10.2007) Word Si…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41� A y B, Ley N�16.271, de 1965 � Ley N�19.247, de 1993 � Ley N� 20.171, de 2007 - Circular N�52, de 1993.
 
 ## Referencias detectadas
 

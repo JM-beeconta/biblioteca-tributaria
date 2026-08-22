@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-26
+- Fecha: 2008-01-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja227.doc
 - Hash SHA-256: 0021e4c1cd1f2a4a0ce89a2522794e4dcb386b301fd6554f2a3ff7830d66c1f4
 
 ## Resumen
 
-, de 26.02.2008) Word Situaci�n Tributaria de valorizaci�n de entidades y canje de acciones, en proceso de fusi�n de sociedades, con relaci�n a las facultades de tasaci�n previstas en el art�culo 64 del C�digo Tributario. Renta � Normas Internacionales � Convenio entre Chile y los Estados Unidos Mexicanos para Evitar la Doble imposici�n y Prevenir la Evasi�n Fiscal en relaci�n al Impuesto sobre la Renta, Art. 14�. (Ord. N� 227, de 30.01.2008) Word Entrada en vigencia de nuevo impuesto en M�xico, denominado Impuest…
+Word Entrada en vigencia de nuevo impuesto en M�xico, denominado Impuesto Empresarial a Tasa Unica y su aplicaci�n respecto del Convenio vigente entre Chile y M�xico.
 
 ## Referencias detectadas
 

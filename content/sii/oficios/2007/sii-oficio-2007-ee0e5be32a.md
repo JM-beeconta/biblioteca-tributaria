@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tm'>Renta � Actual Ley Sobre Impuesto a la � Ley N�18.046, Sobre Sociedades An�nimas, Art. 99� - C�digo Tributario, Art. 69. (Ord. N� 3.182, de 20.11.2007) Word Situaci�n Tributaria de saldo FUT y Cr�dito por Impuesto de Primera Categor�a de Sociedad An�nima Cerrada en liquidaci�n que se Fusiona a otra Sociedad An�nima. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�27� - Art. 5� Transitorio, Ley N�19.070, Sobre Estatuto de los Profesionales de la Educaci�n � Oficio N� 785, de 2007. (Ord. N�3.181, de 20.11.20…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�27� - Art. 5� Transitorio, Ley N�19.070, Sobre Estatuto de los Profesionales de la Educaci�n � Oficio N� 785, de 2007. (Ord. N�3.181, de 20.11.2007)
 
 ## Referencias detectadas
 

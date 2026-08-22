@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rd No se encuentran afectos a IVA los Servicios de Cobranza y Recaudaci�n prestados por una Caja de Compensaci�n de Asignaci�n Familiar. (Oficio N� 3.982, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2, Art. 8 � Ley sobre Impuesto a la Renta, Art. 20 N�3 � C�digo de Comercio, Art. 3� N�7 � Oficio 4.845, de 2004. Word Solicita pronunciamiento relativo a la calidad de hecho no afecto a IVA de los Servicios prestados por una Sociedad a otras entidades pertenecientes a s…
+Word Solicita pronunciamiento relativo a la calidad de hecho no afecto a IVA de los Servicios prestados por una Sociedad a otras entidades pertenecientes a su mismo Grupo Empresarial, por no enmarcarse dentro de la hip�tesis de incidencia Tributaria Agencia de Negocios. (Oficio N� 3.979, de 13.09.2006)
 
 ## Referencias detectadas
 

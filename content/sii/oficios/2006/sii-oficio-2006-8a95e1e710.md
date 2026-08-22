@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Ley N� 16.271, Art. 18� N�5 y 7� - Ley N� 18.985, de 1990 sobre Donaciones con Fines Culturales modificada por Ley N� 19.721, de 2001 � Circulares N�24, de 1993, N� 57, de 2001 y N�55, de 2003. Word Consultas relativas a la Aplicaci�n del Impuesto a las Donaciones y la posibilidad de Exenci�n de �ste, en las Hip�tesis que se plantean. (Ord. N� 3.698, de 23.08.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 48�, Art. 74� N�3� y N�4� � Circular N�30, de 1991.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 48�, Art. 74� N�3� y N�4� � Circular N�30, de 1991.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-14
+- Fecha: 2005-01-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja867.htm
 - Hash SHA-256: 9f3c2fb064c878da66f60cda5dcb42a7a8de3ca73499a262dc973f0fdfbfcfb1
 
 ## Resumen
 
-, Art. 46�, Art. 74�, N� 1, Art. 78� � Circulares N�s 75, de 1976 y 66, de 1977 � Oficio N� 1.289, de 1997. Word Calificaci�n de Ingreso no Constitutito de Renta de ayudas Econ�micas otorgadas por los Fondos de Bienestar Social de una Entidad Bancaria, conforme a lo dispuesto por el Art�culo 17�, N�13, de la Ley de la Renta. (Ord. N� 0144, de 14.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14, Letra A), N� 1, letra c), Art. 41� � Circulares N�s 60, de 1990 y 70, de 1998. Word Situaci�n Tributaria de Reti…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14, Letra A), N� 1, letra c), Art. 41� � Circulares N�s 60, de 1990 y 70, de 1998.
 
 ## Referencias detectadas
 

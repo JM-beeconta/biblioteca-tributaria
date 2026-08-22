@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja2920.htm">Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 24�, Art.25�. Word Solicita se autorice que la contabilizaci�n del IVA cr�dito en las importaciones, se pueda efectuar con una copia del Comprobante de Transacci�n de Tesorer�a y con fotocopia de la Declaraci�n de Importaci�n. (Oficio N�2.920, de 09.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� - Ley N� 19.496, de 1997, Art. 20� y 21� � Oficio N� 4.823, de 1976. Word Aplicaci�n de…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8� - Ley N� 19.496, de 1997, Art. 20� y 21� � Oficio N� 4.823, de 1976.
 
 ## Referencias detectadas
 

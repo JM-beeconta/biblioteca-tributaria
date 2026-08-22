@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iamiento con relaci�n a la tributaci�n que afecta la enajenaci�n de un inmueble perteneciente a sociedad agr�cola acogida a renta presunta, conforme a lo dispuesto por el art�culo 17 N�8 letra b) de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N� 2. (Ord. N� 2363, de 02.08.2007) Word Tratamiento tributario de ciertas partidas pagadas por empresas con domicilio en Chile y en el extranjero, de acuerdo al N� 2 del art�culo 59 de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Ar…
+Word Tratamiento tributario de ciertas partidas pagadas por empresas con domicilio en Chile y en el extranjero, de acuerdo al N� 2 del art�culo 59 de la Ley de la Renta.
 
 ## Referencias detectadas
 

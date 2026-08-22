@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-10
+- Fecha: 2008-07-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1438.htm
 - Hash SHA-256: 7f1560c8b7070df0d458ce19d2bd80b87df6c5237084d5ce1b841011d525dc4e
 
 ## Resumen
 
-ca. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � Decreto Ley, N�3.063, de 1979, Art. 24� � Circular N� 158, de 1976. (Ord. N� 1.459, de 10.07.2008) Word Tratamiento tributario de los pr�stamos efectuados por los socios a las sociedades que pertenecen frente a la determinaci�n del capital propio para los efectos de la patente municipal. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. (Ord. N� 1.438, de 07.07.2008) Word Tributaci�n que afecta al mayor valor obtenido en la en…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. (Ord. N� 1.438, de 07.07.2008)
 
 ## Referencias detectadas
 

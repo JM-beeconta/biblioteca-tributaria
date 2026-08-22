@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-09
+- Fecha: 2005-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja963.doc
 - Hash SHA-256: ce8661f347a0013916a5b02cf80a7ac6cc3ead1e4a3bf546a9beb65be015a28f
 
 ## Resumen
 
-o a la � Art. 17�, N�5 � Circular N� 27, de 1984 � Word Situaci�n Tributaria de Mayor Valor obtenido en la Colocaci�n de Acciones de Sociedad An�nima de su Propia Emisi�n. (Ord. N� 1.771, de 09.06.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18�, Art. 41 B, Art. 58�, N� 1 � Circulares N�s 158, de 1976 y 52, de 1993. Word Situaci�n Tributaria de Constituci�n de Sociedad que se indica, conforme a las Normas de la Ley de la Renta. (Ord. N� 1.660, de 01.06 .2005) Renta � Actual Ley Sobre Impuest…
+Word Situaci�n Tributaria de Constituci�n de Sociedad que se indica, conforme a las Normas de la Ley de la Renta. (Ord. N� 1.660, de 01.06 .2005)
 
 ## Referencias detectadas
 

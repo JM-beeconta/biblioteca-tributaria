@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-20
+- Fecha: 2007-11-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3127.htm
 - Hash SHA-256: 91b698ec4dcef62d92fdc7833d8f40c9d5e02a71188aa123bd9230006b18777e
 
 ## Resumen
 
-N� 1.355, de 2006. (Ord. N� 3.180, de 20.11.2007) Word Confirma pronunciamiento emitido por la Direcci�n Regional de Concepci�n, sobre la forma de determinar el Costo Tributario en la Enajenaci�n de Acciones, cuando se trata de una Persona Natural, de acuerdo al N�8, art. 17� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art.41�- C�digo Tributario, Art. 64� � Oficio N� 4.011, de 2003. (Ord. N�3.127, de 15.11.2007) Word Solicita ratificaci�n de criterio que dice relaci�n a la situaci�n tributaria…
+Renta � Actual Ley Sobre Impuesto a la � Art.41�- C�digo Tributario, Art. 64� � Oficio N� 4.011, de 2003.
 
 ## Referencias detectadas
 

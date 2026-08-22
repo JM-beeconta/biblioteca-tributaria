@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Ley N�16.271, Art. 18�, N�6 � Decreto Ley N�45, de 1973, Art. 1�, Art. 3� � Decreto N� 104, de 1977, Art. 7�. (Ord. N� 3.650, de 11.12.2008) Word Tratamiento tributario de donaciones recibidas por una Corporaci�n, con motivo de una campa�a solidaria para ayudar a funcionarios y alumnos damnificados por temporales. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1, Art. 74�, N�1, Art. 78�. (Ord. N�3.649, de 11.12.2008) Word Reliquidaci�n del Impuesto �nic…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1, Art. 74�, N�1, Art. 78�. (Ord. N�3.649, de 11.12.2008)
 
 ## Referencias detectadas
 

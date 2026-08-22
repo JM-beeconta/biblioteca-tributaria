@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aci�n Tributaria de la Enajenaci�n de Derechos o Cuotas sobre un Bien Ra�z pose�do en Comunidad, adquirido por Sucesi�n por Causa de Muerte, conforme lo dispuesto por los Art�culos 17�, N�8, letra i) y N� 18�, de la Ley sobre Impuesto a la Renta y Art�culo 46�, de la Ley de Impuesto a las Herencias, Asignaciones y Donaciones. (Ord. N�4.242, de 13.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 22�, N�2, Art. 24�� C�digo Tributario, Art. 126, N�2 � D.S. N� 64, de 1975. Word Tributaci�n de Peque�os Comerciant…
+Word Tributaci�n de Peque�os Comerciantes que desarrollan actividades en la v�a P�blica, conforme lo dispuesto por los art�culos 22� y 24�, de la Ley sobre Impuesto a la Renta. (Ord. N�, 4.240, de 13.10.2006)
 
 ## Referencias detectadas
 

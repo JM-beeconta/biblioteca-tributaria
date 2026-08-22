@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-10-25
+- Fecha: 2007-10-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2909.doc
 - Hash SHA-256: 0f132de4a436b8804da16a69eb2751eb8faffb7629aeb95b2b094cd096b36b88
 
 ## Resumen
 
-977. (Ord. N� 2993, de 25.10.2007) Word R�gimen de Tributaci�n que afecta a las rentas percibidas por una Universidad Privada con motivo de los servicios de educaci�n v�a Internet que presta a alumnos que residen en el extranjero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�1�, Art. 12�, Letra E N�12� � Ley de la Renta, art. 20� N�3� - D.S. N�55, de 1977, Art. 6�. (Ord. N� 2909, de 12.10.2007) Word Impuesto al Valor Agregado a los servicios de recarga, mantenci�n y repa…
+Word Impuesto al Valor Agregado a los servicios de recarga, mantenci�n y reparaci�n de extintores de incendio.
 
 ## Referencias detectadas
 

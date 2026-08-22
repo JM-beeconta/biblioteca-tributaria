@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-04
+- Fecha: 2005-03-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja909.htm
 - Hash SHA-256: 8d870cab6a68fe915d11395a737ee30f6ffee609242e78ca6360eecadcced362
 
 ## Resumen
 
-="2"> Renta � Actual Ley Sobre Impuesto a la � C�digo del Trabajo, Art. 178�, Art. 346� � Oficio N� 2.325, de 2004. Word Tratamiento Tributario de la Indemnizaci�n por A�os de Servicio, pactada en Contratos o Convenios Colectivos de Trabajo que Complementen, Modifiquen o Reemplacen estipulaciones de Contratos Colectivos. (Ord. N� 610, de 04.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 29�, Art. 84�, letra a) � Resoluci�n Exenta N� 6.080, de 1999. Word Consulta si procede emitir Factura po…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 29�, Art. 84�, letra a) � Resoluci�n Exenta N� 6.080, de 1999.
 
 ## Referencias detectadas
 

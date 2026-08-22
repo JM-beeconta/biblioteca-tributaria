@@ -11,7 +11,7 @@
 
 ## Resumen
 
-atarios de diversos armadores extranjeros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E N�17, Art. 53� Letra B � Ley N� 18.392, de 1985 � Circular N�56�, de 1991. (Ord. N� 2.354, de 02.08.2007) Word Aplicaci�n de los beneficios de la Ley N� 18.392, de 1985 a los servicios prestados por empresas tur�sticas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�- Decreto Ley N�910, de 1975, Art. 21� - Circular N�26, de 1987 � C�digo Tributario, Art. 126…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�- Decreto Ley N�910, de 1975, Art. 21� - Circular N�26, de 1987 � C�digo Tributario, Art. 126�. (Ord. N� 2.353, de 02.08.2007)
 
 ## Referencias detectadas
 

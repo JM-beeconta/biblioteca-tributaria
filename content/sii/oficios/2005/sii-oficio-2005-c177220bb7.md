@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-15
+- Fecha: 2005-11-30
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1047.htm
 - Hash SHA-256: c6a51ffb99f18dd9129c9661663607a44e46247e35ef6444da56f3c6bbc20f64
 
 ## Resumen
 
-al" size="2">(Ord. N� 4.967, de 15.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, Art. 14�, Art. 28�, Art. 29�. Word Solicitud de Devoluci�n de Impuesto de Timbres y Estampillas Pagado como consecuencia de un Contrato de Mutuo Hipotecario dejado sin efecto por una Escritura Posterior. (Ord. N� 4.738, de 30.11.2005) Ventas a Futuro � Ley N� 20.026, Art. 5� transitorio. Word Aplicaci�n del Art�culo 5� transitorio de la Ley N� 20.026, respecto de las Ventas a Futuro. (Ord. N� 4.273, d…
+30.11.2005) Ventas a Futuro � Ley N� 20.026, Art. 5� transitorio.
 
 ## Referencias detectadas
 

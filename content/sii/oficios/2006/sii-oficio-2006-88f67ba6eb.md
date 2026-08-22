@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.htm'>Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 69�, Art. 70� � Oficio N� 634, de 1993. Word Tratamiento Tributario de la P�rdida del Valor de las acciones de Propiedad de un Contribuyente, por quiebra de la Sociedad emisora, conforme al Art�culo 31�, de la Ley de la Renta. (Ord. N� 4.654, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 8�, N� 13 � Ley N� 19.857, de 2003, Art. 6�, Art. 17�, Art. 18� � Circular N� 17, de 1995. Word Venta de una Empresa Individu…
+Word Venta de una Empresa Individual de Responsabilidad Limitada (EIRL), por parte de su titular, a otra Persona Natural que adquiere la Empresa, y si en tal caso el adquirente puede seguir operando bajo el mismo RUT y giro del enajenante. (Ord. N� 4.653, de 27.11.2006)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1"> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, Art. 18� � Oficio N� 3.652, de 2001. Word Tributaci�n que afecta a Enajenaci�n de Predio Agr�cola, conforme a las normas de la letra b), del N� 8, del Art�culo 17�, de la Ley de la Renta. (Ord. N� 4.854, de 12.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1 � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Solicita pronunciamiento relativo al Valor Tributario a considerar para los efectos del Art�culo 64�, del C�digo Tributario…
+Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1 � C�digo Tributario, Art. 64� � Circular N� 45, de 2001.
 
 ## Referencias detectadas
 

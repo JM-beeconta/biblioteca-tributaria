@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-07
+- Fecha: 2005-02-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja881.doc
 - Hash SHA-256: 8c444b33c2b38ef6c80bbfe8c3bfae25d650ecb0248ef31b76ba60f5c9743495
 
 ## Resumen
 
-ario, Art. 97�, N� 10 � Decreto Supremo N� 55, de 1977, Art. 70� � Circular N� 103, de 1979. (Ord. N� 439, de 07.02.2005) Word Consulta acerca del Sujeto obligado a Emitir la Gu�a de Despacho en caso de Traslado de Bienes que se manten�an en Dep�sito. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 321, de 02.02.2005) Word Aplicaci�n del Beneficio establecido en el Art�culo 21�, del D.L. N� 910, de 1975, a Contratos de Construcci�n a Suma Alzada…
+Word Aplicaci�n del Beneficio establecido en el Art�culo 21�, del D.L. N� 910, de 1975, a Contratos de Construcci�n a Suma Alzada cuyo objeto es efectuar Ampliaciones de Viviendas con Destino Habitacional.
 
 ## Referencias detectadas
 

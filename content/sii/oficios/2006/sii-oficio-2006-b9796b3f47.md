@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-22
+- Fecha: 2006-06-02
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja2915.htm
 - Hash SHA-256: 71c9c2c9c3984b497db52059b904ff3331f73d72babdc7273b54374628372943
 
 ## Resumen
 
-22.06.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3�, ART. 10�, ART.14� � Ley N�18.010, Art.1�. Word Solicita pronunciamiento de interpretaci�n de aplicabilidad del art�culo 3� de la Ley de Timbres y Estampillas, en las operaciones de la empresa que se describen en la presentaci�n. (Ord. N�3.049, de 22.06.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�17 � Ley N�19.840, de 2002, Art. 2� Transitorio � Circular N�71, de 2002. Word Solicita un pronunciamien…
+2.06.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�17 � Ley N�19.840, de 2002, Art. 2� Transitorio � Circular N�71, de 2002.
 
 ## Referencias detectadas
 

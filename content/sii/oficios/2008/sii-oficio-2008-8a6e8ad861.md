@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-12-12
+- Fecha: 2008-12-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja3654.htm
 - Hash SHA-256: 586bffa448d053f65b605d2c95c6042d8289d154e9fcc27c71eb0830f8cfa5bf
 
 ## Resumen
 
-/p> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 6�, Letra A), N�1 y N�2 � D.F.L. N�7, de 1980, Art. 1�. (Ord. N� 3.690, de 12.12.2008) Word Competencia del SII, para determinar la aplicaci�n del Impuesto Adicional a las Bebidas Analcoh�licas, en el caso de n�ctares definidos en el art�culo 485�, del Reglamento Sanitario de los Alimentos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 12�, letra E), N�8 � Decreto Ley N�3.500,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 12�, letra E), N�8 � Decreto Ley N�3.500, Art. 171�, Art. 173� y Art. 178� � Circular N� 21, de 1991. (Ord. N� 3.654, de 11.12.2008)
 
 ## Referencias detectadas
 

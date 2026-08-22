@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-21
+- Fecha: 2005-11-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1050.htm
 - Hash SHA-256: cc0e3d72082ea0c5b49ab7a69dad4aa6a27f9b82684eaf0f5f32d8f91a76f5cc
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, de 1990, Art. 8� � Circulares N�s 24, de 1993 y 57, de 2001. Word Calificaci�n de Donaciones para Fines Culturales en el caso que se indica, conforme a las Normas del Art�culo 8�, de la Ley N� 18.985, de 1990. (Ord. N� 4.610, de 21.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 1 � Ley N� 19.947, de 2004, Art. 61�, Art. 62�, Art. 63�, Art. 64�, Art. 65� y Art. 66�. Word Tributaci�n de Compensaciones Econ�micas a favor de cualquiera de los C�ny…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 1 � Ley N� 19.947, de 2004, Art. 61�, Art. 62�, Art. 63�, Art. 64�, Art. 65� y Art. 66�.
 
 ## Referencias detectadas
 

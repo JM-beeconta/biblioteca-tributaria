@@ -11,7 +11,7 @@
 
 ## Resumen
 
-as y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.8�, letra g), Art. 12�, letra E), N�11 � C�digo Civil, Art. 570�. (Ord. N�5.063, de 26.12.2005) Word Solicita Pronunciamiento en Relaci�n con la Tributaci�n respecto del IVA que afectar�a al Arrendamiento de Predio Agr�cola. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8, letra g), Art. 17�. (Ord. N� 5.055, de 26.12.2005) Word Pide se ratifique si el Arriendo en los T�rminos se�alados, estar�a afecto a IVA. Ventas y S…
+Word Pide se ratifique si el Arriendo en los T�rminos se�alados, estar�a afecto a IVA.
 
 ## Referencias detectadas
 

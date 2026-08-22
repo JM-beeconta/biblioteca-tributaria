@@ -11,7 +11,7 @@
 
 ## Resumen
 
-USTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�2, Art. 43�, N�1 � Ley N� 16.441, Art. 41� � Ley N� 17.073, de 1968 � Decreto Ley N� 1.317, de 1976. Word Tributaci�n que afecta a personas que desarrollan actividades para una Sociedad An�nima constituida y domiciliada en Isla de Pascua. (Ord. N� 4.976, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 21� � Oficio N�654, de 2006 � Circular N� 57, de 1998. Word Inaplicabilidad del Art�culo 21�, de la Ley de la Renta, en caso de Pr�stamos efe…
+Word Inaplicabilidad del Art�culo 21�, de la Ley de la Renta, en caso de Pr�stamos efectuados por Agencia en Chile de una sociedad an�nima extranjera, a su matriz en el exterior. (Ord. N� 4.970, de 28.12.2006)
 
 ## Referencias detectadas
 

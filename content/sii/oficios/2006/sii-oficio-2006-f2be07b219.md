@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-23
+- Fecha: 2006-08-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3557.doc
 - Hash SHA-256: 9518ec09144185c0a2cf93b9f7c4272f7346073cf571e8d7d47d048bac5b9a92
 
 ## Resumen
 
-Renta � Actual Ley sobre Impuesto a la � Ley N� 18.681, Art. 69, Ley N� 19.885, Art. 10 � Circular N� 24, de 1993. Efectos de renuncia al cr�dito tributario del art�culo 69 de la Ley N� 18.681, sobre Donaciones a Universidades e Institutos Profesionales. (Ord. N� 3696, de 23.08.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N�18.156 � Decreto Ley N�3.500, de 1980, Art. 18� � Circular N�1.295, de 2004. Word Solicita un pronunciamiento en el cual se aclare y precise la Tributaci�n que afecta a la Devoluci�n de F…
+Word Solicita un pronunciamiento en el cual se aclare y precise la Tributaci�n que afecta a la Devoluci�n de Fondos Previsionales cuando estos sean destinados exclusivamente a obtener una Renta Vitalicia. (Ord. N� 3.557, de 07.08.2006)
 
 ## Referencias detectadas
 

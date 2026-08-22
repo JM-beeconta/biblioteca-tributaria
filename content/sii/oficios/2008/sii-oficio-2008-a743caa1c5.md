@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Sociedades que pueden acogerse a las normas del n�mero 6 del art�culo 41 D) de la Ley de la Renta y al Convenio suscrito entre Chile y la Rep�blica Argentina sobre Doble Tributaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 2 � D.L. N� 825, de 1974, Art. 23�, Art.43� - Ley General de Cooperativas, Art. 49� - Ley N� 19.418, sobre Juntas de Vecinos y dem�s Organizaciones Comunitarias � Circular N�42, de 1973. (Ord. N� 549, de 20.03.2008) Word Solicita un pronunciamiento respecto a la tributaci�n fre…
+Word Solicita un pronunciamiento respecto a la tributaci�n frente al IVA e Impuesto a la Renta de las Cooperativas, Juntas de Vecinos y dem�s Organizaciones Comunitarias que suministran Agua Potable Rural.
 
 ## Referencias detectadas
 

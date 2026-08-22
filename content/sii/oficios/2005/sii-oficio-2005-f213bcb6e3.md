@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-13
+- Fecha: 2005-04-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja926.htm
 - Hash SHA-256: 986075a93d1787bde98fe194d6b6f4d4c673449a8b7943e15ef1b9cfcd6795de
 
 ## Resumen
 
-a href="renta/ja927.htm">Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, N� 2, Art. 42� bis, Art. 50� � Circular N� 31, de 2002 � Oficio N� 6.524, de 2003. Word Contribuyentes que tienen Derecho a Invocar el Beneficio Tributario por Ahorro Previsional Voluntario a que se Refiere al Art�culo 42� bis de la Ley de la Renta. (Ord. N� 986, de 13.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 22�, N� 2 � Ley de Rentas Municipales, Art. 40� y 41� � Circular N� 55, de 1975. Word Tributaci�n de los Comerci…
+Renta � Actual Ley Sobre Impuesto a la � Art. 22�, N� 2 � Ley de Rentas Municipales, Art. 40� y 41� � Circular N� 55, de 1975.
 
 ## Referencias detectadas
 

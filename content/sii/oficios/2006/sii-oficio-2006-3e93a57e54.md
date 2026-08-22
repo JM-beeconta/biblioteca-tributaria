@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont> Renta � Actual Ley Sobre Impuesto a la � Art. 48�, Art. 74� N�3� y N�4� � Circular N�30, de 1991. Word Consulta respecto al Tratamiento Tributario que corresponde aplicar a las Dietas Pagadas a Consejeros sin Domicilio ni Residencia en Chile de una Sociedad An�nima constituida en el pa�s conforme a los Arts. 48�, 74� N�s 3 y 4 de la Ley de la Renta. (Ord. N� 3.697, de 23.08.2006) Renta � Actual Ley sobre Impuesto a la � Ley N� 18.681, Art. 69, Ley N� 19.885, Art. 10 � Circular N� 24, de 1993. Efectos de renun…
+Renta � Actual Ley sobre Impuesto a la � Ley N� 18.681, Art. 69, Ley N� 19.885, Art. 10 � Circular N� 24, de 1993. Efectos de renuncia al cr�dito tributario del art�culo 69 de la Ley N� 18.681, sobre Donaciones a Universidades e Institutos Profesionales. (Ord. N� 3696, de 23.08.2006)
 
 ## Referencias detectadas
 

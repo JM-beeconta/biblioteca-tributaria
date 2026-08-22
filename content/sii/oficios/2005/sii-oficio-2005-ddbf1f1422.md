@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-09
+- Fecha: 2005-08-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1000.doc
 - Hash SHA-256: adc21b6593dfe2ef5ce5f50aa47976d64a803766c70dd274616737a8898bf25b
 
 ## Resumen
 
-ibutario, Art. 28�, C�digo de Comercio, Art. 3�, N� 11, Art. 507� � Circular N� 29, de 1999 � Oficio N� 364, de 2000. (Ord. N� 2.920, de 09.08.2005) Word Tratamiento Tributario en Materia de Impuesto a la Renta e Impuesto al Valor Agregado, de una Asociaci�n o Cuentas en participaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 86�. (Ord. N� 2.889,de 04.08.2005) Word Consulta acerca de la Vigencia del Art�culo 14�, de la Ley N� 17.238. Ventas y Servicios � Nuevo Texto � Actual Ley so…
+Word Consulta acerca de la Vigencia del Art�culo 14�, de la Ley N� 17.238.
 
 ## Referencias detectadas
 

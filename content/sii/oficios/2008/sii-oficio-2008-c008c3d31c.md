@@ -11,7 +11,7 @@
 
 ## Resumen
 
-05, C�digo Tributario, Art. 126�. (Ord. N� 547, de 20.03.2008) Word Procedimiento a seguir cuando se han emitido y declarado facturas por la venta e instalaci�n de un equipo de iluminaci�n cuando beneficiario de la operaci�n es qui�n debe emitir la documentaci�n por ser agente retenedor de IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2 - Ley de la Renta, Art. 20� N�3� Y 4�. (Ord. N� 546, de 20.03.2008) Word Solicita pronunciamiento relativo a si los Servicios de asesor�a en In…
+Word Solicita pronunciamiento relativo a si los Servicios de asesor�a en Ingenier�a, Hidrograf�a, Oceanograf�a y Topograf�a se encuentran gravados con IVA.
 
 ## Referencias detectadas
 

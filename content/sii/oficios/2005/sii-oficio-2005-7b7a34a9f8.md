@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-26
+- Fecha: 2005-12-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1062.htm
 - Hash SHA-256: 4beb0510c93722e845ee7dba371b203d4e9611aa078bc2d55a845ab70175c7ff
 
 ## Resumen
 
-del Impuesto IVA y Renta. (Ord. N�5.058, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo del Trabajo, Art. 178�, Art. 305, N�2 � Oficios N�s 963 y 2.325, de 2005. Word Resuelve Reconsideraci�n de Oficio Ordinario N�963, de fecha 11.04.2005 del SII. (Ord. N� 5.057, de 26.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1 � C�digo Civil, Art. 1.545�, C�digo Tributario, Art. 64�. Word Tratamiento Tributario de Enajenaci�n de Acciones conforme a las Normas del Art�culo 17�, N�8, letra a), d…
+12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1 � C�digo Civil, Art. 1.545�, C�digo Tributario, Art. 64�.
 
 ## Referencias detectadas
 

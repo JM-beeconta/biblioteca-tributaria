@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-08-02
+- Fecha: 2007-06-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4105.htm
 - Hash SHA-256: 141873912861281388655672a47f06f9233a6f1620194da91ac114cbe44c1916
 
 ## Resumen
 
-us alumnos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1 � D. Supremo de Hacienda N�55, de 1977, Art. 5� - Ley de la Renta, Art. 20� N�3 y 4�- Ley General de Cooperativa, Art. 49�, Letra A. (Ord. N� 2.351, de 02.08.2007) Word Tributaci�n de las ventas y servicios prestados por una Cooperativa a sus cooperados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N�1 � Res. Ex. N� 6.582, de 1997 (Ord. N� 1.280, de 18.06.2007) Word Tratamiento tributario…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N�1 � Res. Ex. N� 6.582, de 1997 (Ord. N� 1.280, de 18.06.2007)
 
 ## Referencias detectadas
 

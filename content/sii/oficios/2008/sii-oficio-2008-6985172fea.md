@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-10
+- Fecha: 2008-04-25
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja852.doc
 - Hash SHA-256: 4e6f3e3a8e0d2361efaecaf3a6bd38cf4349e7048d1fe07fdedf5ed2d5a9aec1
 
 ## Resumen
 
-t. 126� � Circulares N��s 72, de 2001 y 27, de 2007. (Ord. N� 1.455, de 10.07.2008) Word Solicita aclaraci�n de la Circular N� 27, de 2007, que imparte instrucciones sobre devoluci�n del impuesto pagado indebidamente con ocasi�n de una importaci�n. Art�culo 3�, del Decreto Ley N�3.475, de 1980 Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, � C�digo Tributario, Art. 60� � C�digo Civil, Art. 1.703. (Ord. N� 852, de 25.04.2008) Word Determinaci�n del Impuesto de Timbres y Estampillas a P…
+Word Determinaci�n del Impuesto de Timbres y Estampillas a Pagar�s en los cuales no se consigna fecha de emisi�n.
 
 ## Referencias detectadas
 

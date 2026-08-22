@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-02-22
+- Fecha: 2005-02-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja882.htm
 - Hash SHA-256: 6d6552edc7ad1a0ed360ac7959d66e2f7e6dfaab06b9780750d2862ff45b0244
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 21�, N� 2 y N� 3, Art. 57�, Art. 70� � C�digo Tributario, Art. 126�. (Ord. N� 546, de 22.02.2005) Word Procedencia de Solicitar devoluci�n de Impuestos en virtud del Art�culo 126�, del C�digo Tributario, en atenci�n a Notas de Cr�dito emitidas extempor�neamente por la Devoluci�n de Bienes por los cuales no se Reintegr� Suma Alguna a los Compradores. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 55� � C�digo Tribut…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 55� � C�digo Tributario, Art. 97�, N� 10 � Decreto Supremo N� 55, de 1977, Art. 70� � Circular N� 103, de 1979. (Ord. N� 439, de 07.02.2005)
 
 ## Referencias detectadas
 

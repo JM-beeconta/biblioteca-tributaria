@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 4, Art. 21� � D.L. N� 825, de 1974, Art. 2�, N�2, Art. 8�, letra g). (Ord. N� 370, de 13.02.2007) Word Tratamiento Tributario de la venta al cr�dito de un inmueble, efectuada por una sociedad de personas a un socio de la misma, y del arriendo de canchas de tenis y piscinas. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3 � Circular N� 65, de 2002. (Ord. N� 369, de 13.02.2007) Word Concepto de cambio de propiedad para los efectos de lo dispuesto en el inc…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3 � Circular N� 65, de 2002.
 
 ## Referencias detectadas
 

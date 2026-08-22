@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-21
+- Fecha: 2006-09-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3983.htm
 - Hash SHA-256: 15208cf8faa42b11a1afbe18bb7410867455508d7c25f4f6d821700ecea9a331
 
 ## Resumen
 
-o FUT. (Ord. N�4.002, de 21.09.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.220, Art. 2�, Art. 39� � D.L. N� 825, de 1974, Art. 27�. Word Pronunciamiento respecto del Procedimiento desarrollado por la Bolsa de Productos Agropecuarios S.A., relativo a la Facturaci�n de Operaciones realizadas en ella. (Ord. N� 4.001, de 21.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 3, Art.17 N�17, Art. 41 A � Circular N�52, de 1993. Word Situaci�n Tributaria de Extranjero domiciliado en Chile, en caso de inte…
+1.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 3, Art.17 N�17, Art. 41 A � Circular N�52, de 1993.
 
 ## Referencias detectadas
 

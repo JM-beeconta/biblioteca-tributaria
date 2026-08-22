@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t> A�os Anteriores OTRAS 2006 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Donaciones � Ley N� 18.985, de Donaciones con Fines Culturales, Art. 8�� Decreto Ley N� 3.063, Art. 46� � Circulares N�s 24, de 1993 y 57, de 2001. Word Tratamiento Tributario de donaciones efectuadas a Fondo Cultural bajo administraci�n y Responsabilidad de una embajada. ( Ord. N� 4.965, de 27.12.2006) Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Ar…
+Word Tratamiento Tributario de donaciones efectuadas a Fondo Cultural bajo administraci�n y Responsabilidad de una embajada. ( Ord. N� 4.965, de 27.12.2006)
 
 ## Referencias detectadas
 

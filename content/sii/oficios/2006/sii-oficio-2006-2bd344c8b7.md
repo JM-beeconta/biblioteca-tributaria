@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-23
+- Fecha: 2006-02-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1135.doc
 - Hash SHA-256: a42af8411541b9e975112cb1f7491cb03bce713300ed61e3a91ade83fd407b9f
 
 ## Resumen
 
-. 8�, Art. 12�, Letra A), N� 1, Art. 23� � C�digo de Comercio, Art. 166�. Word Utilizaci�n del Cr�dito Fiscal originado en la adquisici�n de Buses destinados al Transporte de Trabajadores de la propia empresa. (Oficio N� 675, de 23.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. Word Aplicaci�n de IVA a las Asesor�as T�cnicas prestadas por una Empresa Constructora en el caso que no participe en la Construcci�n del Proyecto Dise�ado. (Oficio N�634, de 21.02.2006)…
+Word Aplicaci�n de IVA a las Asesor�as T�cnicas prestadas por una Empresa Constructora en el caso que no participe en la Construcci�n del Proyecto Dise�ado. (Oficio N�634, de 21.02.2006)
 
 ## Referencias detectadas
 

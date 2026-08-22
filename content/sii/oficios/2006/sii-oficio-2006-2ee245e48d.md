@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 2.676, de 1996 Word Incidencia del Impuesto al Valor Agregado en la licitaci�n de los Servicios de Administraci�n y Explotaci�n de estaciones de Ferrocarriles. (Oficio N� 3.978, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27 Bis � Ley General de Servicios Sanitarios Art.1 N�1, Art. 7 Word Utilizaci�n de la Franquicia Tributaria que establece el Art. 27 Bis del Decreto Ley 825, de 1974. (Oficio N� 3.977, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sob…
+Word Utilizaci�n de la Franquicia Tributaria que establece el Art. 27 Bis del Decreto Ley 825, de 1974. (Oficio N� 3.977, de 13.09.2006)
 
 ## Referencias detectadas
 

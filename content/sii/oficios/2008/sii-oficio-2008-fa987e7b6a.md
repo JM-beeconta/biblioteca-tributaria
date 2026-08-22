@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-25
+- Fecha: 2008-04-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja710.htm
 - Hash SHA-256: 8c2fca3a039b5e68ab8b54ddf6c1dd9712b52586ae83928cdd71e0fe91ad38c1
 
 ## Resumen
 
-pagado indebidamente con ocasi�n de una importaci�n. Art�culo 3�, del Decreto Ley N�3.475, de 1980 Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, � C�digo Tributario, Art. 60� � C�digo Civil, Art. 1.703. (Ord. N� 852, de 25.04.2008) Word Determinaci�n del Impuesto de Timbres y Estampillas a Pagar�s en los cuales no se consigna fecha de emisi�n. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, Art. 14�, Art. 28�, Art. 29�. (Ord. N� 710, de 14.04.2008) Word Procede…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, Art. 14�, Art. 28�, Art. 29�. (Ord. N� 710, de 14.04.2008)
 
 ## Referencias detectadas
 

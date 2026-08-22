@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-26
+- Fecha: 2005-10-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1038.doc
 - Hash SHA-256: e907c472bcaf1c02abf9667e140bfb3014ace7775c455f9ac7fe5a4def208078
 
 ## Resumen
 
-N� 3.093, de 1977. Word Tributaci�n que afecta a Ingresos obtenidos por Venta de Madera realizada, de acuerdo a las Normas de la Ley de la Renta. (Ord. N� 4.275, de 26.10.2005) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.915, de 2003 � Ley N� 18.834, Art. 10�� Circular N� 21, de 1991 � Res. Ex. N� 1.414, de 1978. Word Exime de la Obligaci�n de emitir Boletas de Honorarios a Prestadores de Servicios que se indican, conforme a lo dispuesto por la Ley N� 19.915, de 2003, Sobre Presupuesto del Sector P�blico. (…
+Word Exime de la Obligaci�n de emitir Boletas de Honorarios a Prestadores de Servicios que se indican, conforme a lo dispuesto por la Ley N� 19.915, de 2003, Sobre Presupuesto del Sector P�blico. (Ord N� 4.085, de 19.10.2005)
 
 ## Referencias detectadas
 

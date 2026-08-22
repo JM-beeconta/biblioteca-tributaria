@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 22� - D.S. de Hacienda N�55, de 1977, Art. 12� � Res. Ex. N�142, de 2005, C�digo Tributario, Art. 126�. (Ord. N� 547, de 20.03.2008) Word Procedimiento a seguir cuando se han emitido y declarado facturas por la venta e instalaci�n de un equipo de iluminaci�n cuando beneficiario de la operaci�n es qui�n debe emitir la documentaci�n por ser agente retenedor de IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impue…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2 - Ley de la Renta, Art. 20� N�3� Y 4�. (Ord. N� 546, de 20.03.2008)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-24
+- Fecha: 2005-10-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1034.htm
 - Hash SHA-256: 8df8e1048a3aae3e517bfe2a948836a601df36dee50b0a4ee357f224228a393a
 
 ## Resumen
 
-ventas/ja1045.htm">Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h) � Ley de la Renta, Art. 20�, N�5 � Decreto Supremo N� 414, de 1991, del Ministerio de Planificaci�n y Cooperaci�n � Ley N� 18.168, de 1982, Art. 1� � Circular N� 47, de 1977. (Ord. N� 4.253, de 24.10.2005) Word Impuesto al Valor Agregado en Contrato para Promover un Sistema Nacional de Informaci�n Social en Internet. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Ar…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 12�, Letra E, N� 1, letra a) � Circular N� 39, de 2000. (Ord. N� 4.083, de 19.10.2005).
 
 ## Referencias detectadas
 

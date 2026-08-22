@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-22
+- Fecha: 2005-04-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja939.htm
 - Hash SHA-256: 6c5770c856c10cd4f52faeb23614279ef7e90b6ec4c081f4f69365bde2bcedaa
 
 ## Resumen
 
-ace="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1 � Ley N� 19.175, de 1992, Art. 39� � Circular N� 7, de 1993 � Oficio N� 990, de 1998. Word Tributaci�n de las Rentas que perciben los Integrantes del Consejo Regional Metropolitano, conforme a las Normas de la Ley de la Renta. (Ord. N� 1.105, de 22.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 74�, N� 4, Art. 58�, Art. 59�, Art. 60�, Art. 61�, Art. 63� � C�digo Tributario, Art. 126� � Circulares N…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 74�, N� 4, Art. 58�, Art. 59�, Art. 60�, Art. 61�, Art. 63� � C�digo Tributario, Art. 126� � Circulares N��s 53 y 60, de 1990.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Consulta sobre Recaudaci�n de parte Variable del Impuesto al Gas Natural Comprimido, en Veh�culos Motorizados, de acuerdo con la Ley N� 20.052. (Oficio N� 4.468, de 02.11.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, letra E), N� 16, Art. 36�, Art. 52�, Art. 55� � Res. Ex. N��s 45, de 2003 y 93 y 22, de 2005. Word Aplicaci�n de IVA y Documentaci�n que corresponde emitir en Cesi�n de Programas Computacionales que son Descargados a trav�s de un Portal de Internet. (Oficio N�…
+Word Aplicaci�n de IVA y Documentaci�n que corresponde emitir en Cesi�n de Programas Computacionales que son Descargados a trav�s de un Portal de Internet. (Oficio N� 4.467, de 02.11.2006)
 
 ## Referencias detectadas
 

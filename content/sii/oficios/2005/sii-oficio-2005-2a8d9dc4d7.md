@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-17
+- Fecha: 2005-05-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja956.doc
 - Hash SHA-256: 6e3f23824a99472e12f2ac461c890393027321596d498af5b6742a1542c06438
 
 ## Resumen
 
-Reconsideraci�n tributaci�n que afecta a una oficina con representaci�n en el Pa�s, distinguiendo si posee o no bienes susceptibles de generar rentas que indica. (Ord. N� 1478, de 17 de Mayo del 2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 45�, Art. 46� � Ley N� 19.490, Art. 1�, Art. 2� � Circular N� 37�, de 1990 Word Tributaci�n de Beneficios Establecidos en la Ley N� 19.490, conforme a las Normas de los Art�culos 42�, N�1, 43�, N�1 45� y 46�, de la Ley de la Renta. (Ord. N� 1.394, de 10.05.…
+Word Tributaci�n de Beneficios Establecidos en la Ley N� 19.490, conforme a las Normas de los Art�culos 42�, N�1, 43�, N�1 45� y 46�, de la Ley de la Renta. (Ord. N� 1.394, de 10.05.2005)
 
 ## Referencias detectadas
 

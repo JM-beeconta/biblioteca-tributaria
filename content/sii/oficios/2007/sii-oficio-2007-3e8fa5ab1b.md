@@ -11,7 +11,7 @@
 
 ## Resumen
 
-UT de Sociedades sujetas al R�gimen General de tributaci�n como consecuencia de procesos de Reorganizaci�n Empresarial. Renta � Actual Ley Sobre Impuesto a la � Art. 41� A y B, Ley N�16.271, de 1965 � Ley N�19.247, de 1993 � Ley N� 20.171, de 2007 - Circular N�52, de 1993. (Ord. N� 3.027, de 31.10.2007) Word Situaci�n Tributaria de Sociedades Unipersonales extranjeras adquiridas mediante Sucesi�n Hereditaria. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�11, Art. 20�, Art. 74� y Sgtes � Decreto Ley N� 2.757,…
+Word Situaci�n Tributaria de Sociedades Unipersonales extranjeras adquiridas mediante Sucesi�n Hereditaria.
 
 ## Referencias detectadas
 

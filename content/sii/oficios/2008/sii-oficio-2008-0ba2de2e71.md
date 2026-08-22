@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ventos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 21�, Art. 70� - Decreto Ley N�828, de 1974, Art. 3�, 4�,5�,8� y 13� - Circular N�29, de 1978. (Ord. N� 655, de 08.04.2008) Word Solicita devoluci�n del Impuesto Espec�fico a los Tabacos Manufacturados, pagado en la importaci�n del mismo en las situaciones que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, de 1986, Art.1�, inciso 5�, 6� y 8� - Constituci�n Pol�tica de Chile, Art. 63 N�14, A…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, de 1986, Art.1�, inciso 5�, 6� y 8� - Constituci�n Pol�tica de Chile, Art. 63 N�14, Art. 65 N�1�.(Ord. N� 654, de 08.04.2008)
 
 ## Referencias detectadas
 

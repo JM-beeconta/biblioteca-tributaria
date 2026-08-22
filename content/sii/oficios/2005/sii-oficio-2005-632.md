@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 632
 - Año: 2005
-- Fecha: 2005-04-29
+- Fecha: 2005-04-21
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja934.doc
 - Hash SHA-256: f92bd1c525566702e681e516cea6e404aef42dae6a0036f9c45510ecbad277ea
 
 ## Resumen
 
-. Word Importaci�n a Chile de Productos Australianos Producidos en el Pa�s. (Ord. N� 1.259, de 29.04.2005) Fondos de Inversi�n � Ley N� 18.815 � Art. 1�, Art. 3�, Art. 5�, N� 10, Art. 30�, Art. 31�, Art. 32� � C�digo Tributario, Art. 8�, N� 5 � Ley Sobre Impuesto a la Renta, Art. 17�, N� 8, letra b), Art. 18�, Art. 14�, Letra A), N� 3, letra c) � Circular N� 41, de 1999 � Oficio N� 632, de 2004. Word Responde Consulta sobre Situaci�n Tributaria de Fondos de Inversi�n de la Ley N� 18.815. (Ord. N� 1.091, de 21.04.2…
+Word Responde Consulta sobre Situaci�n Tributaria de Fondos de Inversi�n de la Ley N� 18.815. (Ord. N� 1.091, de 21.04.2005)
 
 ## Referencias detectadas
 

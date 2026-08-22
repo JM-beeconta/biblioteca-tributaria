@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1
 - Año: 2005
-- Fecha: 2005-11-24
+- Fecha: 2005-11-23
 - Categoría: Renta, IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1063.doc
 - Hash SHA-256: 49e1d56616e560cdfe42d0317a698ffaae0cd736f1268b2dd4aa12c38d081444
 
 ## Resumen
 
-Art. 55� � Res. Exentas N�s 6.080, de 1999 y 5007, de 2000. (Ord. N� 4.651, de 24.11.2005) Word Documentaci�n que corresponde Emitir en caso de una Venta de Bienes Situados en el Extranjero y que posteriormente son Importados a Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 9�, Letra a) � Oficio N� 1.055, de 2003. ( Ord. N� 4.645, de 23.11.2005) Word Aplicaci�n del Impuesto al Valor Agregado al Usufructo de Bosques. Ventas y Servicios � Nuevo Texto � Actual Ley sobre…
+Word Aplicaci�n del Impuesto al Valor Agregado al Usufructo de Bosques.
 
 ## Referencias detectadas
 

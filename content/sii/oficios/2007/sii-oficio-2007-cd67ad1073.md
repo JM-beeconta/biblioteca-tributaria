@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-10-12
+- Fecha: 2007-10-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2888.htm
 - Hash SHA-256: 91e7f83c5b602f511a2268704d637d90dd30877f4e618cce66c07809426e2b5b
 
 ## Resumen
 
-residen en el extranjero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�1�, Art. 12�, Letra E N�12� � Ley de la Renta, art. 20� N�3� - D.S. N�55, de 1977, Art. 6�. (Ord. N� 2909, de 12.10.2007) Word Impuesto al Valor Agregado a los servicios de recarga, mantenci�n y reparaci�n de extintores de incendio. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley de la Renta, art. 20� N�5� - D. L. N�2.757, de 1979 � Res. Ex. N� 6080, de 1999. (O…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley de la Renta, art. 20� N�5� - D. L. N�2.757, de 1979 � Res. Ex. N� 6080, de 1999. (Ord. N� 2888, de 11.10.2007)
 
 ## Referencias detectadas
 

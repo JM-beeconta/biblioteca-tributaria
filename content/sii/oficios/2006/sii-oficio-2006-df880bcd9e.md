@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-09
+- Fecha: 2006-05-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1874.htm
 - Hash SHA-256: 074d612c427decc405b20b78bd2b6aaf0e1d31d9b0233d1183e8bb903dc211d1
 
 ## Resumen
 
-� Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2, Art. 12� Letra E N�7�, Art. 17� N�11 � Oficio N�933, de 2005. Word Se informa criterio respecto a si aporte extraordinario cobrado por Club de Campo a sus socios debe considerarse como un cobro por un servicio gravado con IVA o como un aporte exento de dicho impuesto. (Oficio N�2.917, de 09.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las Art. 8� - Ley N�18.046, Art. 99�. Word Solicita pronunciamiento respecto a si constituye…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las Art. 8� - Ley N�18.046, Art. 99�.
 
 ## Referencias detectadas
 

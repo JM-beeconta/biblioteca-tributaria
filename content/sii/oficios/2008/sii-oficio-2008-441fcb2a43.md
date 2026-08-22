@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bre Impuesto a las � Art. 36� � D.L. N� 3.059, de 1979, Art. 36�. (Ord. N�3.095, de 28.10.2008) Word Situaci�n tributaria del aprovisionamiento de rancho de naves que desarrollan transporte internacional de pasajeros bajo la modalidad de cruceros y que recalan en puertos chilenos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las �Art. 52� � Decreto Supremo N�55, Reglamento del IVA, Art. 12� (Ord. N�3.094, de 28.10.2008) Word Tributaci�n que afecta al arrendamiento de gr�as y capachos. Ventas y Se…
+Word Tributaci�n que afecta al arrendamiento de gr�as y capachos.
 
 ## Referencias detectadas
 

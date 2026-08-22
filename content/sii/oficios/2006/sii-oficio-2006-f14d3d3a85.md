@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"ventas/ja4021.htm">Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 24� � C�digo Tributario, Art. 68� � Res. Ex. N� 23, de 2002 Word Consulta sobre aprovechamiento de Cr�dito Fiscal IVA. (Oficio N� 5.012, de 29.12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.815, de 1989. Word Solicita pronunciamiento relativo al Tratamiento del Impuesto al Valor Agregado en Fondos de Inversi�n Privados, creados por la Ley N� 18.815, de 1989. (Oficio N� 5.011, de 29…
+Word Solicita pronunciamiento relativo al Tratamiento del Impuesto al Valor Agregado en Fondos de Inversi�n Privados, creados por la Ley N� 18.815, de 1989. (Oficio N� 5.011, de 29.12.2006)
 
 ## Referencias detectadas
 

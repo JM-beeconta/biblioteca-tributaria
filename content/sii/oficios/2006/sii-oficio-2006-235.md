@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. Word Tributaci�n del Mayor Valor generado en el Aporte de Bien Ra�z a una Sociedad de Personas de la cual el aportante es socio, de acuerdo a lo dispuesto por la letra b), del N� 8, del art�culo 17�, e inciso cuarto del mismo n�mero de la Ley de la Renta. (Ord. N� 4.656, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234 � Oficio N� 235, de 2006. Word Tributaci�n frente a la Ley de la Renta de Asesor�a Cient�fica prestada e…
+Word Tributaci�n frente a la Ley de la Renta de Asesor�a Cient�fica prestada en Chile por una persona natural sin Domicilio ni Residencia en el pa�s, contratada por una Universidad reconocida por el Estado, conforme a lo dispuesto por el art�culo 59�, de la Ley del ramo y el art�culo N� 234, de la Ley N� 16.840. (Ord. N� 4.655, de 27.11.2006)
 
 ## Referencias detectadas
 

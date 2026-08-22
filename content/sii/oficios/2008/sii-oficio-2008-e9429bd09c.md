@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las �Art. 52� � Decreto Supremo N�55, Reglamento del IVA, Art. 12� (Ord. N�3.094, de 28.10.2008) Word Tributaci�n que afecta al arrendamiento de gr�as y capachos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, letra b). (Ord. N�3.093, de 28.10.2008) Word Aplicaci�n de IVA al aporte de derechos emanados de un contrato de canje de servicios publicitarios, efectuado en pago de la suscripci�n de acciones. Ventas…
+Word Aplicaci�n de IVA al aporte de derechos emanados de un contrato de canje de servicios publicitarios, efectuado en pago de la suscripci�n de acciones.
 
 ## Referencias detectadas
 

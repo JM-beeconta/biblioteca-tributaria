@@ -11,7 +11,7 @@
 
 ## Resumen
 
-align='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N��s 4 y 12, Art. 38�, Art. 59�, N�2, Art. 74�, N�4, Art. 79. (Ord. N� 275, de 31.01.2007) Word Tratamiento tributario de pagos efectuados por una filial establecida en Chile a su casa matriz ubicada en el exterior, conforme a las normas de los art�culos 31� y 59�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5, Art. 38�. (Ord. N� 274, de 31.01.2007) Word Tratamiento tributario aplicable a maquinarias y equipos del…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5, Art. 38�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-31
+- Fecha: 2006-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1705.htm
 - Hash SHA-256: 2c67141049644475d659920ad94e8b5550cf85755a27bea0de301d2933019249
 
 ## Resumen
 
-de 31.05.2006) Renta � Actual Ley Sobre Impuesto a la � Arts. 20�, 30� y 31� - Ley N�19.281, de 1993 � Circular N� 53�, de 1978 � Oficio N� 3.844, de 2004. Word Solicita se confirme el tratamiento tributario aplicable a los desembolsos en que se incurre para efectuar construcciones y/o mejoras en un bien ra�z objeto de un contrato de leasing, y a las cuotas que se pagan con ocasi�n de dicho contrato. (Ord. N� 1.871, de 23.05.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 18�ter � Circular N�7, de 2002 � Res.…
+3.05.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 18�ter � Circular N�7, de 2002 � Res. Ex. N�5.412, de 2000 Complementada por Res. Ex. N�s 20, de 2001 y N�47�, de 2004.
 
 ## Referencias detectadas
 

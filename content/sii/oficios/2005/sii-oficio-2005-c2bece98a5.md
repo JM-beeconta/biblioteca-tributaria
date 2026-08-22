@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-05
+- Fecha: 2005-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja944.htm
 - Hash SHA-256: 16e2ff1fb8171bf41960ee36c3f57ca154f69d0299205695a21b5a399ca9e549
 
 ## Resumen
 
-y Sobre Impuesto a la � Art. 17�, Art. 18� Ter, Art. 41� � C�digo Civil, Art. 50� � Ley N� 18.045, Art. 199� � Decreto Ley N� 1.328, Art. 13�, N�1, Art. 17� � Circular N� 7, de 2002. Word Tributaci�n que afecta al Mayor Valor obtenido en la Enajenaci�n de Acciones conforme a las Normas del Art�culo 18 ter de la Ley de la Renta. (Ord. N� 1.329, de 05.05.2005) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Situaci�n Tributaria de Aporte de Acciones a la Formaci�n…
+Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001.
 
 ## Referencias detectadas
 

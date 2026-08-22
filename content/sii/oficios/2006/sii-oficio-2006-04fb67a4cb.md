@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-07
+- Fecha: 2006-02-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1098.htm
 - Hash SHA-256: 0d7fde155859c31b2164cf522f83edd81fc8627bdc7136905366576922ce94e8
 
 ## Resumen
 
-n, conforme a las Normas del Art�culo 31�, de la Ley de la Renta. (Ord. N� 415, de 07.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�2 � Oficios N�s 3.826, de 1992, 3.489, de 1995 y 679, de 2004. Word Exenci�n de Impuesto Adicional que Beneficia a Pagos por concepto de Investigaci�n Tecnol�gica en virtud del inciso segundo del N�2, del Art�culo 59�, de la Ley de la Renta. (Ord. N� 366, de 02.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 33� bis, Art. 42�, N�2 � D.L. N� 825, de 1974, Art. 2�,…
+2.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 33� bis, Art. 42�, N�2 � D.L. N� 825, de 1974, Art. 2�, N�2, Art. 13�, N�4, Art. 23�, Art. 27� bis � D.L. N� 910, de 1975, Art. 21� � Circular N� 26, de 1980.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uci�n de Impuestos en virtud del Art�culo 126�, del C�digo Tributario, en atenci�n a Notas de Cr�dito emitidas extempor�neamente por la Devoluci�n de Bienes por los cuales no se Reintegr� Suma Alguna a los Compradores. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 55� � C�digo Tributario, Art. 97�, N� 10 � Decreto Supremo N� 55, de 1977, Art. 70� � Circular N� 103, de 1979. (Ord. N� 439, de 07.02.2005) Word Consulta acerca del Sujeto obligado a Emitir la Gu�a de Despacho en caso de Tras…
+Word Consulta acerca del Sujeto obligado a Emitir la Gu�a de Despacho en caso de Traslado de Bienes que se manten�an en Dep�sito.
 
 ## Referencias detectadas
 

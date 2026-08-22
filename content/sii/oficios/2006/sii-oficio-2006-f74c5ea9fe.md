@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-07
+- Fecha: 2006-11-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4013.doc
 - Hash SHA-256: 160f8a18748c11cc851bc07cf2f7c8daef6c0b25d9b27e7654f48275a849325b
 
 ## Resumen
 
-ventas/ja4014.htm">Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 9�, Art. 15� Word Aplicaci�n de IVA a Contrato de Venta de Minerales �In Situ�. (Oficio N� 4.777, de 07.12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 17�, Art. 23� Word Solicita se confirme que la adquisici�n de bienes o la utilizaci�n de Servicios destinados al Arrendamiento de Inmuebles con Instalaciones que permiten el ejercicio de una actividad indus…
+Word Solicita se confirme que la adquisici�n de bienes o la utilizaci�n de Servicios destinados al Arrendamiento de Inmuebles con Instalaciones que permiten el ejercicio de una actividad industrial o comercial, da derecho a Cr�dito Fiscal en su totalidad sin necesidad de tener que aplicar proporcionalidad por causa de la rebaja establecida en el Art. 17�, del D.L. N� 825. (Oficio N� 4.651, de 27.11.2006)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Tratamiento tributario aplicable a maquinarias y equipos del activo inmovilizado de empresa que en virtud de un contrato de maquila, las entrega a la sociedad maquiladora domiciliada en el exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�9 � C�digo Tributario, Art. 6�, letra A), N� 1 � Circular N� 54, de 1984 � Oficio N� 654, de 2006. (Ord. N� 273, de 31.01.2007) Word Condiciones que deben reunirse para la deducci�n de la renta bruta, los gastos de organizaci�n y puesta en marcha, seg�n lo dispu…
+Word Condiciones que deben reunirse para la deducci�n de la renta bruta, los gastos de organizaci�n y puesta en marcha, seg�n lo dispuesto por el N�9, del art�culo 31�, de la Ley de la Renta.
 
 ## Referencias detectadas
 

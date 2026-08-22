@@ -11,7 +11,7 @@
 
 ## Resumen
 
-to del Cr�dito establecido en la Ley N� 19.606, de 1999. Renta � Actual Ley Sobre Impuesto a la � Art. 14� Letra A N�3�, Art. 14 Bis � Ley N� 18.775, de 1989, Art.1� Transitorio � Ley N�20.170, de 2007 � Circular N�17, de 2007 - Oficios N� 275, de 2005 y N� 3052, de 2006. (Ord. N� 3125, de 15.11.2007) Word Solicita precisar criterios se�alados en Oficio N�3052, de 2006, en lo relacionado al Destino y Utilizaci�n de las Utilidades Pendientes de Tributaci�n, registradas en el FUT de Sociedades sujetas al R�gimen Gen…
+Word Solicita precisar criterios se�alados en Oficio N�3052, de 2006, en lo relacionado al Destino y Utilizaci�n de las Utilidades Pendientes de Tributaci�n, registradas en el FUT de Sociedades sujetas al R�gimen General de tributaci�n como consecuencia de procesos de Reorganizaci�n Empresarial.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Decreto Ley N�3.059, de 1979 Sobre Ley de Marina Mercante, Art. 10� - Oficios N�3.911, de 1999 y N� 4.587, de 2000. Word Pronunciamiento relativo a la exenci�n del Impuesto Adicional de la Ley de la Renta por el pago de honorarios a los abogados que representaron al peticionario en un juicio seguido en contra de un estado extranjero, de acuerdo a los antecedentes que se exponen. (Ord. N�1552, de 03.05.2006). Renta � Actual Ley sobre Impue…
+e 03.05.2006). Renta � Actual Ley sobre Impuesto a la � Art. 20, N�1, letra b) � Oficios N� 3595, de 2001, N� 416, de 1997 y N� 6431, de 2003. Confirma criterios sobre tratamiento tributario sobre divisiones de sociedades, de acuerdo a pronunciamientos emitidos con anterioridad sobre la materia. (Ord. N�1551, de 03.05.2006).
 
 ## Referencias detectadas
 

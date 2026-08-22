@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-11-18
+- Fecha: 2008-10-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja3095.doc
 - Hash SHA-256: b86291ed4288e45e22e4af7d9a0a2b03d25c5e2cd47c77c9ee6c7fdf6ab27d2d
 
 ## Resumen
 
-puesto a las � D.L. N�824, de 1974, Art. 20�, N�5 � Oficio N�3.982, de 2006. (Ord. N�3.476, de 18.11.2008) Word Aplicaci�n del Impuesto al Valor Agregado a los servicios que una Caja de Compensaci�n presta a una compa��a de seguros, en virtud de un contrato denominado, �Contrato de Recaudaci�n�. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � D.L. N� 3.059, de 1979, Art. 36�. (Ord. N�3.095, de 28.10.2008) Word Situaci�n tributaria del aprovisionamiento de rancho de naves que desarro…
+Word Situaci�n tributaria del aprovisionamiento de rancho de naves que desarrollan transporte internacional de pasajeros bajo la modalidad de cruceros y que recalan en puertos chilenos.
 
 ## Referencias detectadas
 

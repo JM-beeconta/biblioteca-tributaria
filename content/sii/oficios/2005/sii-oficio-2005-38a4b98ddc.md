@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-19
+- Fecha: 2005-10-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1027.doc
 - Hash SHA-256: 39c5213f2af57a0eb08c4adcf23ae16fb20ade17a909060e0534891176338430
 
 ## Resumen
 
-.414, de 1978. Word Exime de la Obligaci�n de emitir Boletas de Honorarios a Prestadores de Servicios que se indican, conforme a lo dispuesto por la Ley N� 19.915, de 2003, Sobre Presupuesto del Sector P�blico. (Ord N� 4.085, de 19.10.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�7 � Ley N� 16.624 � Circular N� 24, de 1993. Word Requisitos y Condiciones que deben reunir los Donantes y Donatarios para acogerse a los beneficios Tributarios que establece el N�7 del Art�culo 31�, de la Ley de la Renta. (O…
+Word Requisitos y Condiciones que deben reunir los Donantes y Donatarios para acogerse a los beneficios Tributarios que establece el N�7 del Art�culo 31�, de la Ley de la Renta. (Ord. N�3.988, de 13.10.2005)
 
 ## Referencias detectadas
 

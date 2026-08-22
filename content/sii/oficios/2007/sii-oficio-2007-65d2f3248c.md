@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/a> Tributaci�n de las ventas y servicios prestados por una Cooperativa a sus cooperados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N�1 � Res. Ex. N� 6.582, de 1997 (Ord. N� 1.280, de 18.06.2007) Word Tratamiento tributario de la colaci�n entregada a los trabajadores de una empresa de transporte de carga. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 52� � Res. Ex. N� 6.080, de 1999 � Circular N� 39�, de 2000. (Ord. N� 1.273, de 18.06.2…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 52� � Res. Ex. N� 6.080, de 1999 � Circular N� 39�, de 2000. (Ord. N� 1.273, de 18.06.2007)
 
 ## Referencias detectadas
 

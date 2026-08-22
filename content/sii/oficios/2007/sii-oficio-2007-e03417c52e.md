@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-20
+- Fecha: 2007-08-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2705.doc
 - Hash SHA-256: 0a6d2277a2d28623612db4c26ba62a61ff99c99a31e7c4e227a1778512cdf1c6
 
 ## Resumen
 
-d Solicita confirmar criterio respecto al tratamiento tributario de los retiros anticipados de ahorro previsional voluntario. Renta � Actual Ley Sobre Impuesto a la � Art. 58� N� 1�, Art. 41�, ART. N� 31� N�5� � C�digo Tributario, Art. 64��Circular N�45, de 2001. (Ord. N� , de 2705 de 20.09.2007) Word Solicita confirmar criterios tributarios derivados de la fusi�n de las sociedades que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�13�, Art. 42�, N�1�, Art. 43� N�1� - D.F.L. N�44, de 1978, Art. 3…
+Word Solicita confirmar criterios tributarios derivados de la fusi�n de las sociedades que se indican.
 
 ## Referencias detectadas
 

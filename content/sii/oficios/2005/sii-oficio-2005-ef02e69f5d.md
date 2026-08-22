@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href="ventas/ja3055.doc">Word Consulta acerca de la utilizaci�n como Cr�dito Fiscal del Impuesto al Valor Agregado cobrado por una diferencia de Derechos de Aduana e IVA en una Importaci�n, pagados mediante Convenio suscrito con Tesorer�a. (Oficio N� 3.055, de 22.06.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 24�, Art.25�. Word Solicita se autorice que la contabilizaci�n del IVA cr�dito en las importaciones, se pueda efectuar con una copia del Comprobante de Transacci�…
+Word Solicita se autorice que la contabilizaci�n del IVA cr�dito en las importaciones, se pueda efectuar con una copia del Comprobante de Transacci�n de Tesorer�a y con fotocopia de la Declaraci�n de Importaci�n. (Oficio N�2.920, de 09.06.2006)
 
 ## Referencias detectadas
 

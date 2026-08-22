@@ -11,7 +11,7 @@
 
 ## Resumen
 
-renta/ja1095.htm'>RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 19�, ART. 20�, ART. 69�, N�3 � DECRETO LEY N� 825, DE 1974, ART. 2�, N�2, ART. 8�. Word Absuelve Consultas respecto de la Tributaci�n aplicable a la Cesi�n de un Proyecto televisivo, frente a las normas de la Ley de Impuesto a la Renta e Impuesto a las Ventas y Servicios. (ORD. N� 236, DE 23.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� � Ley N� 16.840, Art. 234� � Ley N� 18.247, de 1983, Art. 4� Word Derogaci�n de Exenci�n de Impuesto Ad…
+Word Derogaci�n de Exenci�n de Impuesto Adicional establecida en el Art�culo 234 de la Ley N� 16.840, conforme a lo dispuesto por el Art�culo 4�, de la Ley N� 18.247, de 1983, en los t�rminos que se indican. (Ord. N� 235, de 23.01.2006)
 
 ## Referencias detectadas
 

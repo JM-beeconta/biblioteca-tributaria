@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-24
+- Fecha: 2006-02-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1124.htm
 - Hash SHA-256: c21352d72bb8b00c0059236639aa29435f8f1ed01ed38930182576dfa39698f5
 
 ## Resumen
 
-ro FUT, conforme a lo dispuesto por los art�culos 14� y 21�, de la Ley Sobre Impuesto a la Renta. (Ord. N� 700, de 24.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 42�, N�2, Art. 43�, N�2, Art. 74�, N�2 � Circular N� 21, de 1991. Word Situaci�n tributaria que afecta a sumas pagadas por concepto de Honorarios por Asistencia a Reuniones de Directorio de una Cooperativa. (Ord. N� 679, de 23.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N� 1, Art. 21�, Art. 31�, N�9 � Oficio N� 5.266, d…
+3.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N� 1, Art. 21�, Art. 31�, N�9 � Oficio N� 5.266, de 2003.
 
 ## Referencias detectadas
 

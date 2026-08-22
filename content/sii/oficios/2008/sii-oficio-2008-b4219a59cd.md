@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-07-14
+- Fecha: 2008-07-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja1459.htm
 - Hash SHA-256: ed58f60e6ba6c63d123852d33cd74b75cacc882e12a9024107699c93077ec93a
 
 ## Resumen
 
-.480, de 14.07.2008) Word Consultas relacionadas con el castigo de deudas incobrables. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N� 2. (Ord. N� 1.479, de 14.07.2008) Word Tributaci�n con Impuesto Adicional de las cantidades remesadas al exterior en cumplimiento de contrato que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � Decreto Ley, N�3.063, de 1979, Art. 24� � Circular N� 158, de 1976. (Ord. N� 1.459, de 10.07.2008) Word Tratamiento tributario de los pr�stamos efectuados por los…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9 � Decreto Ley, N�3.063, de 1979, Art. 24� � Circular N� 158, de 1976. (Ord. N� 1.459, de 10.07.2008)
 
 ## Referencias detectadas
 

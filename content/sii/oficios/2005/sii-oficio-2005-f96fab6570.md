@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-27
+- Fecha: 2005-09-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1019.doc
 - Hash SHA-256: 22f827002423856c7d257fdb4d4cbdc87e5228eff2b1d5219fc2175edce61a1e
 
 ## Resumen
 
-a afecta en el caso de la tenencia y Enajenaci�n de Instrumentos Financieros Realizados por un contribuyente sin Domicilio ni Residencia en Chile, conforme a las Normas de los Art�culos 17�, N�8, 20�, N�2, 65�, N�1 y 68�, inciso 2�, de la Ley de la Renta. (Ord. N� 3.685, de 27.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�4 � Circular N� 28, de 1984. Word Tratamiento Tributario de las Provisiones y Castigos de Cr�ditos Vencidos, de Empresas y Operadores de Tarjetas de Cr�dito, de acuerdo a lo dispu…
+Word Tratamiento Tributario de las Provisiones y Castigos de Cr�ditos Vencidos, de Empresas y Operadores de Tarjetas de Cr�dito, de acuerdo a lo dispuesto por el N�4, del art�culo 31�, de la Ley de la Renta. (Ord. N� 3.660, de 26.09.2005)
 
 ## Referencias detectadas
 

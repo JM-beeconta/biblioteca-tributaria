@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-11
+- Fecha: 2005-11-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1041.doc
 - Hash SHA-256: 67cf3475958aa34476608d76c4094bee0eebca25c627d19a909843d30bd1ebbd
 
 ## Resumen
 
-Aplicaci�n del Beneficio establecido en el Art�culo 55� bis de la Ley Sobre Impuesto a la Renta. (Ord. N�4.437, de 11.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art.18� quater, Art. 20�, N�2, Art. 39�, N�4, letras a, b, c, d y g � Ley N� 18.603, Art. 1� � Decreto Ley N� 1.328, de 1976, Art. 13�, N�1 � Circular N� 158, de 1976, N�27, de 1984 y N�7 de 2002 Word Tributaci�n de Rentas de Capitales Mobiliarios obtenidas por Partido Pol�tico, conforme a las Normas de los Art�culos 20�, N�2, 18� quater y 39�, de l…
+Word Tributaci�n de Rentas de Capitales Mobiliarios obtenidas por Partido Pol�tico, conforme a las Normas de los Art�culos 20�, N�2, 18� quater y 39�, de la Ley de la Renta. (Ord. N� 4.335, de 07.11.2005)
 
 ## Referencias detectadas
 

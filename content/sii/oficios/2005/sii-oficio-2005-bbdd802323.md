@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-09
+- Fecha: 2005-05-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja951.doc
 - Hash SHA-256: a1fd0b47e7e7128d3cae6176b145c0dd2f0e1cd73da5ed43a0bb078ebc987ca7
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord. N� 1.379, de 09.05.2005) Word Arrendamiento de Inmueble Explotado como Centro M�dico. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 42�, letra d) � Circular N� 6, de 1986. (Ord. N� 1.294, de 03.05.2005) Word Consulta sobre Impuesto Adicional a las Bebidas Alcoh�licas, Analcoh�licas y Productos Similares, establecido en el art�culo 42�, letra d), del D.L. 825, aplicable a la Importaci�n de N�ctar…
+Word Consulta sobre Impuesto Adicional a las Bebidas Alcoh�licas, Analcoh�licas y Productos Similares, establecido en el art�culo 42�, letra d), del D.L. 825, aplicable a la Importaci�n de N�ctar de Frutas e Interpretaci�n que debe darse a la Norma cuando se refiere a Productos �que sirvan para preparar Bebidas Similares�
 
 ## Referencias detectadas
 

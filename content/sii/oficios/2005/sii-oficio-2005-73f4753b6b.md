@@ -11,7 +11,7 @@
 
 ## Resumen
 
-to Tributario en Materia de Impuesto a la Renta e Impuesto al Valor Agregado, de una Asociaci�n o Cuentas en participaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 86�. (Ord. N� 2.889,de 04.08.2005) Word Consulta acerca de la Vigencia del Art�culo 14�, de la Ley N� 17.238. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 15� � Oficio N� 3.428, de 1991. (Ord. N� 2.888, de 04.08.2005) Word Solicita un Pronunciamiento Respecto de la correcta Aplicaci�n de Ord…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 15� � Oficio N� 3.428, de 1991. (Ord. N� 2.888, de 04.08.2005)
 
 ## Referencias detectadas
 

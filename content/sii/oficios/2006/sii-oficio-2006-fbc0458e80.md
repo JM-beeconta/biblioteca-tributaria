@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ial' size='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�3� � Circular N�28, de 2002. Word Situaci�n Tributaria de los Seguros Dotales, de acuerdo a lo dispuesto por el N�3 del art�culo 17� de la Ley de la Renta. (Ord. N� 1558, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 34 bis N�3 � Circulares N�s 58� y 63�, de 1990. Word Se informa sobre el criterio del Servicio, con relaci�n a la tributaci�n que corresponder�a a una Sociedad de personas acogidas a renta presunta cuyos socios son una…
+Word Se informa sobre el criterio del Servicio, con relaci�n a la tributaci�n que corresponder�a a una Sociedad de personas acogidas a renta presunta cuyos socios son una persona natural y una Sociedad An�nima, en la situaci�n que se describe. (Ord. N�1557, de 03.05.2006).
 
 ## Referencias detectadas
 

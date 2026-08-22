@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 2� Word Procedencia de acogerse a la Franquicia Tributaria de Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel en el Transporte de Carga, del art�culo 2�, de la Ley N� 19.764, de 2001. (Oficio N� 739, de 01.03.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra B), N�7, Art. 8�. Word Aplicaci�n de la exenci�n establecida en el Art�culo 12�, letra B), N�7, del Decreto Ley N� 825, a una Importaci�n de Insumos M�dicos efectuada por un Hospital. (Oficio N� 738, de 01.…
+Word Aplicaci�n de la exenci�n establecida en el Art�culo 12�, letra B), N�7, del Decreto Ley N� 825, a una Importaci�n de Insumos M�dicos efectuada por un Hospital. (Oficio N� 738, de 01.03.2006)
 
 ## Referencias detectadas
 

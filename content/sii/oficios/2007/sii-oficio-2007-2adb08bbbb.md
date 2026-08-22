@@ -11,7 +11,7 @@
 
 ## Resumen
 
-0� N� 3 � C�digo de Comercio, Art. 3� N� 7�. (Ord. N� 2828, de 04.10.2007) Word Solicita se le otorgue la franquicia de la exenci�n del IVA establecida en el art. 12 letra b, N�10 a una importaci�n o en su defecto, subsidiariamente, diferir el pago del Impuesto al Valor Agregado. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, art. 20� N�3� y 4�. (Ord. N� 2805, de 01.10.2007) Word Consulta sobre procedencia del cobro del Impuesto al Valor Agregado que g…
+Word Consulta sobre procedencia del cobro del Impuesto al Valor Agregado que grava al servicio de notificaciones prestado por el Centro Integrado de Notificaciones del Centro de Justicia.
 
 ## Referencias detectadas
 

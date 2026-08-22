@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-03-16
+- Fecha: 2005-02-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja878.doc
 - Hash SHA-256: e217c2891ffca8dac1a1b31a4443262311eb1fd0ddbe16e444db6ab2fb0517a4
 
 ## Resumen
 
-sto de �Ley N� 18.010, Art. 1� � Oficio N� 386, de 1990. Word Inaplicabilidad del Impuesto de Timbres y Estampillas en un Contrato de Mandato sin Provisi�n de Fondos para la Adquisici�n de Inversiones Financieras. (Ord. N� 688, de 16.03.2005) C�digo Tributario � Art. 200� � Ley de la Renta, Art. 14�, letra A), N� 3, letra d) � Circular N� 17, de 1993 � Oficios N�s 231, de 1986 y 164, de 1997. Word Prescripci�n de la acci�n fiscalizadora del Servicio de Impuestos Internos en caso que indica. Art�culo 200 del C�digo…
+Word Prescripci�n de la acci�n fiscalizadora del Servicio de Impuestos Internos en caso que indica. Art�culo 200 del C�digo Tributario. (Ord. N� 393, de 04.02.2005)
 
 ## Referencias detectadas
 

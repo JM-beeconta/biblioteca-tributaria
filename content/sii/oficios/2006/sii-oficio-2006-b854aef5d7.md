@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-27
+- Fecha: 2006-11-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4002.doc
 - Hash SHA-256: e48677908b3f0393f098512857bc8ccc35df0357049af23affe6978425a72325
 
 ## Resumen
 
-�digo Tributario, Art. 28� � C�digo de Comercio, Art. 507� � Oficios N��s 1.584, de 1992, 2.688, de 1998 y 350, de 2000. Word Improcedencia de la Celebraci�n de Contrato de Asociaci�n o Cuentas en Participaci�n entre C�nyuges no calificados como Comerciantes seg�n las Normas del Art�culo 28, del C�digo Tributario. (Ord. N� 4.652, de 27.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�6, Art. 30�, Art. 42�, N�2, Art. 43�, N�2 y Art. 52� � Circular N� 151, de 1976. Word Tratamiento Tributario de los Hon…
+Word Tratamiento Tributario de los Honorarios pagados a los Padres de los principales Accionistas de una sociedad An�nima Cerrada, conforme a lo dispuesto por los Art�culos 31�, N�5, 42�, N�1 y 42�, N�2 de la Ley sobre Impuesto a la Renta. (Ord. N� 4.579, de 15.11.2006)
 
 ## Referencias detectadas
 

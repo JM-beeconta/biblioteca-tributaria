@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-05
+- Fecha: 2005-09-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1024.htm
 - Hash SHA-256: 65016cdd3814a1a4e2bdeb101f612de53f3f0aa8d8d09832bd38b006c6e1cd25
 
 ## Resumen
 
-Situaci�n tributaria de la diferencia producida entre el valor de acciones y los activos recibidos en caso de fusi�n de sociedades. ( Ordinario N� 3873, de 05 de Octubre 2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 38� bis � Circulares N�s 46 y 60, de 1990. Word Situaci�n Tributaria de Sociedad que efect�a T�rmino de Giro y de sus respectivos Socios, conforme a las Normas de los Art�culos 14� y 38� bis de la ley de la Renta. (Ord. N� 3.796, de 30.09.2005) Renta � Actual Ley Sobre Impuesto a la � A…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 38� bis � Circulares N�s 46 y 60, de 1990.
 
 ## Referencias detectadas
 

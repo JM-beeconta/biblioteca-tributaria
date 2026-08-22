@@ -11,7 +11,7 @@
 
 ## Resumen
 
-registrar en su contabilidad completa mediante la cual acredita la renta de su actividad principal, aquellos bienes que conforman su patrimonio personal. Renta � Actual Ley Sobre Impuesto a la � Art. 64� Bis, Art. 34� N�2�, Art. 20� N�1� - Ley N� 20.026, de 2006, Art. 1� Transitorio. (Ord. N� 2802, de 01.10.2007) Word Aplicaci�n del impuesto espec�fico a la actividad minera, que afecta a la renta operacional de la actividad minera obtenida por un explotador minero. Renta � Actual Ley Sobre Impuesto a la � Art. 31�…
+Word Aplicaci�n del impuesto espec�fico a la actividad minera, que afecta a la renta operacional de la actividad minera obtenida por un explotador minero.
 
 ## Referencias detectadas
 

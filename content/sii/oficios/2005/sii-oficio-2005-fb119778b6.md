@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-29
+- Fecha: 2005-08-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1015.htm
 - Hash SHA-256: 90725a13cbc83cd4ee54faeef71272682acf95e562272aae77f30f3920778c6b
 
 ## Resumen
 
-(Ord. N� 3.189, de 29.09.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� � Ley sobre Impuesto a la Renta, Art. 2�, N�1, Art. 17�, N�22. Word Impuesto de Timbres y Estampillas en Condonaci�n de Saldo de Precio en Importaci�n con Cobertura Diferida. (Ord. N� 3.076, de 23.08.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3, Art. 24�, N�11 � Circular N� 3.145, de 2001, de la Superintendencia de Bancos e Instituciones Financieras. Word Alcance de la Exenci�n d…
+23.08.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N�3, Art. 24�, N�11 � Circular N� 3.145, de 2001, de la Superintendencia de Bancos e Instituciones Financieras.
 
 ## Referencias detectadas
 

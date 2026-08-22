@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-11
+- Fecha: 2006-09-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3984.htm
 - Hash SHA-256: 592f5391ea420e31c437fc83d1318a7724a6c2e4cdf1ba9acbf5e0cf7a768b05
 
 ## Resumen
 
-entos Educacionales de Financiamiento Compartido. (Ord. N�, 4.197, de 11.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 21� � Oficios N�s 4.518, de 2003 y 299, de 2004. Word Confirma Pronunciamiento sobre Tratamiento Tributario del Impuesto Territorial frente al Registro FUT. (Ord. N�4.002, de 21.09.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.220, Art. 2�, Art. 39� � D.L. N� 825, de 1974, Art. 27�. Word Pronunciamiento respecto del Procedimiento desarrollado por la Bolsa de Productos…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.220, Art. 2�, Art. 39� � D.L. N� 825, de 1974, Art. 27�.
 
 ## Referencias detectadas
 

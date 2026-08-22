@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5 y 7� - Ley N� 18.985, de 1990 sobre Donaciones con Fines Culturales modificada por Ley N� 19.721, de 2001 � Circulares N�24, de 1993, N� 57, de 2001 y N�55, de 2003. Word Consultas relativas a la Aplicaci�n del Impuesto a las Donaciones y la posibilidad de Exenci�n de �ste, en las Hip�tesis que se plantean. (Ord. N� 3.698, de 23.08.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 48�, Art. 74� N�3� y N�4� � Circular N�30, de 1991. Word Consulta respecto al Tratamiento Tributario que corresponde aplicar a las…
+Word Consulta respecto al Tratamiento Tributario que corresponde aplicar a las Dietas Pagadas a Consejeros sin Domicilio ni Residencia en Chile de una Sociedad An�nima constituida en el pa�s conforme a los Arts. 48�, 74� N�s 3 y 4 de la Ley de la Renta. (Ord. N� 3.697, de 23.08.2006)
 
 ## Referencias detectadas
 

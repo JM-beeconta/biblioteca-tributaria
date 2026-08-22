@@ -11,7 +11,7 @@
 
 ## Resumen
 
-onstituye una indemnizaci�n por da�o emergente, ese pago de conformidad al art.17 N�1�, de la Ley de la Renta, representa un ingreso no renta para todos los efectos tributarios. Renta � Actual Ley Sobre Impuesto a la � Ley N�18.046, Sobre Sociedades An�nimas, Art. 99� - C�digo Tributario, Art. 69. (Ord. N� 3.182, de 20.11.2007) Word Situaci�n Tributaria de saldo FUT y Cr�dito por Impuesto de Primera Categor�a de Sociedad An�nima Cerrada en liquidaci�n que se Fusiona a otra Sociedad An�nima. Renta � Actual Ley Sobr…
+Word Situaci�n Tributaria de saldo FUT y Cr�dito por Impuesto de Primera Categor�a de Sociedad An�nima Cerrada en liquidaci�n que se Fusiona a otra Sociedad An�nima.
 
 ## Referencias detectadas
 

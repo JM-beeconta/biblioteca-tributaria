@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-25
+- Fecha: 2007-04-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4082.htm
 - Hash SHA-256: 4a5e43e960ecc657d09d5e7ef90c364ddbe1deb5c207cd9c14d984176173701a
 
 ## Resumen
 
-sesor�a, de acuerdo a lo dispuesto por el N�6, del art�culo 31, de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Decreto Ley N� 825, de 1974, Art. 23� � Decreto Ley N� 3.475, de 1980, Art. 3� � Decreto Ley N� 1.089, Art. 5�, Art. 9�. (Ord. N� 932, de 25.04.2007) Word R�gimen tributario aplicable a contratos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33� � C�digo Tributario, Art. 64� � Convenio entre la Republica de Argentina y la Rep�blica de Chile para evi…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33� � C�digo Tributario, Art. 64� � Convenio entre la Republica de Argentina y la Rep�blica de Chile para evitar la Doble Tributaci�n, Art. 12�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-28
+- Fecha: 2008-10-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja3044.htm
 - Hash SHA-256: 249cad653b9316219be42f8c0230433c36fccac899f281df786555e6e09bc9e3
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N�3, Art, 23�, N��s 2 y 4 � D.L. N� 824, de 1974, Art. 31� � Circulares N��s 71 y 130, de 1977 � Oficios N��s 2.836, de 1984 y 3.068, de 1992. (Ord. N�3.091, de 28.10.2008). Word Tratamiento tributario que procede aplicar al impuesto soportado en la adquisici�n y mantenci�n de un veh�culo denominado Minib�s. Ventas y servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Decreto Ley N�824, de 1974, Art. 20�,…
+Ventas y servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Decreto Ley N�824, de 1974, Art. 20�, N��s 3 y 4. (Ord. N� 3.044, de 23.10.2008)
 
 ## Referencias detectadas
 

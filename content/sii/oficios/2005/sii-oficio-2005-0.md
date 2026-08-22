@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ercio, Art. 3�, N�1 � Res. Exentas N�s 1 y 17, de 2003. Word Tratamiento Tributario de Comisiones Pagadas al Exterior, conforme a las Normas del Art�culo 59�, de la Ley de la Ley de la Renta. (Ord. N� 4.654, de 24.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Oficios N�s 3.826, de 1992, 3.489, de 1995 y 679, de 2004. Word Sumas Remesadas al Exterior que no se comprenden en el Concepto de Investigaci�n Cient�fica y Tecnol�gica para los efectos de la Exenci�n de Impuesto Adicional establecida en…
+Word Sumas Remesadas al Exterior que no se comprenden en el Concepto de Investigaci�n Cient�fica y Tecnol�gica para los efectos de la Exenci�n de Impuesto Adicional establecida en el inciso segundo del N�2, del art�culo 59, de la Ley de la Renta. (Ord. N� 4.653, de 24.11.2005)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cript>mostrar() A�os Anteriores OTRAS 2007 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� - Ley N�18.010, de 1981 � Oficio N� 2.557, del 2000. (Ord. N� 3.226, de 27.11.2007) Word Tratamiento Tributario que frente a la Ley de Timbres y Estampillas debe aplicarse con relaci�n al art�culo 3� del Decreto Ley N� 3.475, de 1980. Timbres y Estampillas � Nuevo Texto � Ley Sobre Imp…
+Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3� - Ley N�18.010, de 1981 � Oficio N� 2.557, del 2000. (Ord. N� 3.226, de 27.11.2007)
 
 ## Referencias detectadas
 

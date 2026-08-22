@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-19
+- Fecha: 2005-12-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1070.doc
 - Hash SHA-256: 198ddf038858d265dc55f4bfaed032c8a34a66d27debe8f1a63e84b8e7a7eda4
 
 ## Resumen
 
-ont face="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 50�. (Ord. N�4087, de 19.10.2005) Word Solicita se emita pronunciamiento respecto a la posibilidad de deducir de impuestos las d�divas de cohecho que pudiesen otorgarse bajo la forma de gastos leg�timos. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra d), Art. 18�. Word Tributaci�n que afecta Enajenaci�n de Derechos de Agua, conforme a lo dispuesto por el Art�culo 17�, N�8, letra d), de la Ley de la Renta. (Ord. N� 5.1…
+Word Tributaci�n que afecta Enajenaci�n de Derechos de Agua, conforme a lo dispuesto por el Art�culo 17�, N�8, letra d), de la Ley de la Renta. (Ord. N� 5.136, de 28.12.2005)
 
 ## Referencias detectadas
 

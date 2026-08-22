@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-04-04
+- Fecha: 2007-03-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4075.htm
 - Hash SHA-256: 55b89de73b69b8a9e86ca0c89aef0e23a3659545c84d902748ad7a48e857a1b6
 
 ## Resumen
 
-font> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, Letra E), N�2, Art. 20� � Ley N�19.764, Art. 2� � Ley N�18.502, Art. 6�. (Ord. N� 779, de 04.04.2007) Word Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel contenido en el art�culo 6�, de la Ley N�18.502, que pueden realizar las empresas de transporte terrestre, en virtud del art�culo 2�, de la Ley N�19.764. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 668, de 19.03.2007)
 
 ## Referencias detectadas
 

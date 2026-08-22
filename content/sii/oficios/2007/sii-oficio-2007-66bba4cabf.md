@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ventas y servicios no afectos o exentos de IVA, a una Empresa Individual de Responsabilidad Limitada. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 9�, Art. 55�. (Ord. N� 559, de 06.03.2007) Word Aplicaci�n del Impuesto al Valor Agregado a la Cesi�n Indefinida del uso de una Patente de Invenci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N��s 6 y 7, Art. 53 � Ley N� 18.933, Art. 21�. (Ord. N� 558, de 06.03.20…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N��s 6 y 7, Art. 53 � Ley N� 18.933, Art. 21�. (Ord. N� 558, de 06.03.2007)
 
 ## Referencias detectadas
 

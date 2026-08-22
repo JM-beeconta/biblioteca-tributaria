@@ -11,7 +11,7 @@
 
 ## Resumen
 
-A�os Anteriores OTRAS 2005 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 1�, N� 3, Art. 24�, N� 11 � Ley N� 18.010, Art. 1�. Word Operaciones de Factoraje con documentos de Exportaci�n. Exenci�n de Impuesto de Timbres y Estampillas, Art�culo 24�, N�11, de la Ley. (Ord. N� 5.144, de 30.12.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 17 � Ley…
+Word Operaciones de Factoraje con documentos de Exportaci�n. Exenci�n de Impuesto de Timbres y Estampillas, Art�culo 24�, N�11, de la Ley. (Ord. N� 5.144, de 30.12.2005)
 
 ## Referencias detectadas
 

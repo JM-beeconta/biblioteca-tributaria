@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-14
+- Fecha: 2007-11-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja3031.htm
 - Hash SHA-256: d31b65963be1d86530483b8049d08f12cf5e66f30c59919b30a4205535d5886f
 
 ## Resumen
 
-s dedicadas tanto a la Venta como a la Prestaci�n de Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2� N�2� - Ley sobre Impuesto a la Renta, Art. 20� N�3 y 4�. (Ord. N� 3.111, de 14.11.2007) Word Impuesto al Valor Agregado que afecta al servicio de Dise�o y Construcci�n de Sistemas Computacionales. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Resoluci�n Ex. N� 3.722, de 2000, Resolutivo N�2�, N�14� y N�15. (Ord. N� 3031, de 02.11.2007) Word Mom…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Resoluci�n Ex. N� 3.722, de 2000, Resolutivo N�2�, N�14� y N�15. (Ord. N� 3031, de 02.11.2007)
 
 ## Referencias detectadas
 

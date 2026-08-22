@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-27
+- Fecha: 2007-11-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja3177.doc
 - Hash SHA-256: 3521c07c814375434a1cb5158611d50a61434959c6b764626210bb147f08b22a
 
 ## Resumen
 
-27.11.2007) Word Solicita un pronunciamiento con respecto a la Devoluci�n de Remanentes de Cr�dito Fiscal originado por Retenciones de IVA en ventas de maderas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2� - D.S. de Transporte y Telecomunicaciones N�20, de 1982, Art. 3� - D.S. N�124�, de 2006 - Ley sobre Impuesto a la Renta, Art. 20� N�3 y 4�- Res. Ex. N� 6.080, de 1999. (Ord. N� 3.177, de 20.11.2007) Word Aplicaci�n de Impuesto al Valor Agregado a la Confecci�n y Distribuci�n…
+Word Aplicaci�n de Impuesto al Valor Agregado a la Confecci�n y Distribuci�n de la Tarjeta Nacional del Estudiante.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-28
+- Fecha: 2005-09-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1021.doc
 - Hash SHA-256: d8ca694ab73c86dfc0b4d27fbc996a3c240462b07183bc6afa711481fcbec6ca
 
 ## Resumen
 
-oc">Word Absuelve consultas relacionadas con el Contrato de Consultor�as de Servicios, en participaci�n en licitaci�n P�blica, en pa�s extranjero, respecto de los Impuestos del Decreto Ley N� 825 y de la Ley de la Renta. (Ord. N� 3.778, de 28.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9, Art. 33�, N�1, Art. 21� � C�digo Civil, Art. 1.386. Word Tributaci�n que afecta a Donaci�n de Inmueble a un Tercero por parte de Sociedad de responsabilidad Limitada, conforme a las normas de la Ley de la Renta…
+Word Tributaci�n que afecta a Donaci�n de Inmueble a un Tercero por parte de Sociedad de responsabilidad Limitada, conforme a las normas de la Ley de la Renta y la Ley N� 16.271, sobre Herencias, Asignaciones y Donaciones. (Ord. N� 3.686, de 27.09.2005)
 
 ## Referencias detectadas
 

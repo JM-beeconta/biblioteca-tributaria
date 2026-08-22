@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 998, de 07.05.2007) Word Tributaci�n de rentas de arrendamiento de un inmueble no agr�cola percibida por un sindicato de acuerdo a lo dispuesto por el art�culo 20�, N�1, letra d), de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�, N�6, Art. 33, N�1 � Circulares N��s 151, de 1976 y 42, de 1990. (Ord. N� 997, de 07.05.2007) Word Tratamiento tributario de los honorarios pagados por una sociedad de personas a un socio persona natural por servicios de asesor�a, de acuer…
+Word Tratamiento tributario de los honorarios pagados por una sociedad de personas a un socio persona natural por servicios de asesor�a, de acuerdo a lo dispuesto por el N�6, del art�culo 31, de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

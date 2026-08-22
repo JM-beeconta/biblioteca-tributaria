@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-09
+- Fecha: 2005-05-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja951.htm
 - Hash SHA-256: 91f5ec0400e9b4298b0a81d3329684479e8dae5bb2ad1e0bfeeb363a76788a7a
 
 ## Resumen
 
-Beneficio Tributario del Art�culo 9�, de la Ley N� 18.392, en relaci�n con el Reingreso de Mercader�as al resto del Pa�s. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) (Ord. N� 1.379, de 09.05.2005) Word Arrendamiento de Inmueble Explotado como Centro M�dico. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 42�, letra d) � Circular N� 6, de 1986. (Ord. N� 1.294, de 03.05.2005) Word Consulta sobre Impuesto Adicional a las Bebidas Alcoh�licas, Analcoh…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 42�, letra d) � Circular N� 6, de 1986. (Ord. N� 1.294, de 03.05.2005)
 
 ## Referencias detectadas
 

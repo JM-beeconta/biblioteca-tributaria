@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-06-30
+- Fecha: 2005-06-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja971.doc
 - Hash SHA-256: f3f008a78b8859bb66a2cff099cacec6c9a0281a3600cbafec0f2a895d8488b8
 
 ## Resumen
 
-3�, N� 4, Art. 8�, letra h). ( Ord. N� 2.381, de 30.06.2005) Word Aplicabilidad de la exenci�n contenida en el Art�culo 13 N� 4 del DL N� 825, de 1974, a la venta de una �biblioteca virtual� Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Decreto Supremo N� 266, de 1970, del Ministerio de Relaciones Exteriores. (Ord. N�1.852, de 20.06.2005) Word Solicita Pronunciamiento sobre si las Facturas emitidas por las Obras Ejecutadas por las Empresas El�ctricas en los Proyectos…
+Word Solicita Pronunciamiento sobre si las Facturas emitidas por las Obras Ejecutadas por las Empresas El�ctricas en los Proyectos PER, est�n Exentas de IVA.
 
 ## Referencias detectadas
 

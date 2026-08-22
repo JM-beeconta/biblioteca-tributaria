@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e hace aplicable el Impuesto al Valor Agregado, de acuerdo con el art�culo 8� letra i) del D.L. N� 825, a la Actividad de Estacionamiento en la V�a P�blica que desarrolla el consultante. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2, N� 2, Art. 8�, Art. 52� � C�digo Civil, Art. 2.309� � Circular N� 39, de 2000 � Res. Exenta N� 6.080, de 1999, N� 6.444 y N� 8.377, de 1999. (Ord. N� 191, de 24.01.2005) Word Procedencia de emitir Facturas o Boletas Exentas de IVA, para documentar el cobr…
+Word Procedencia de emitir Facturas o Boletas Exentas de IVA, para documentar el cobro de los gastos comunes cancelados por los Socios para la Mantenci�n de un Complejo Deportivo Recreativo
 
 ## Referencias detectadas
 

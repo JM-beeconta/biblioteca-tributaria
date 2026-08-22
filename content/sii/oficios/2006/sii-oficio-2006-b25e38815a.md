@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-15
+- Fecha: 2006-02-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1103.htm
 - Hash SHA-256: 5bea645eba1d7fd0ecb8b4d3e0a91487d0aa10384f0346ec5ce251fc74a65fea
 
 ## Resumen
 
-� Art. 65�, N�3, Art. 42�, N�2, Art. 55� bis. Word Contribuyentes obligados a Presentar una Declaraci�n Anual de Impuesto a la Renta. (Ord. N� 574, de 15.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 126� � Circular N�100, de 1975. Word Forma de Registro de la Correcci�n Monetaria de las Existencias. (Ord. N� 534, de 13.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 18 � C�digo Tributario, Art. 126� � Ley N� 15.076, Art. 29� � Circular N� 41, de 1999. Word Sit…
+3.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 18 � C�digo Tributario, Art. 126� � Ley N� 15.076, Art. 29� � Circular N� 41, de 1999.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-13
+- Fecha: 2006-09-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3856.htm
 - Hash SHA-256: f4953bdd8a6c0dd881f67b3c2e3c66dad9e5fbd630824d949a426b39971b0719
 
 ## Resumen
 
-IFY"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12 N�7 Letra E, Art. 17 N�8 Letra E - C�digo Civil, Art. 584. Word Solicita Reconsideraci�n de Oficio Ord. N�236, de 2006, que dice relaci�n con la Tributaci�n aplicable a la Cesi�n de un Proyecto Televisivo. (Oficio N� 3.975, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3, Art. 23 N�1 � Ley N�18.768, de 1988 � Res. Ex. N�1.087, de 1978 Word Se plantean consultas con relaci�n a presentaci�n e…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3, Art. 23 N�1 � Ley N�18.768, de 1988 � Res. Ex. N�1.087, de 1978
 
 ## Referencias detectadas
 

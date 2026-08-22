@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Word Solicita confirmar criterio a objeto de determinar el costo tributario que debe considerarse en un aporte de derechos sociales. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 � Oficio N�65, de 1992. (Ord. N� 2386, de 07.08.2007) Word Solicita se informe criterio respecto a la tributaci�n que afecta a enajenaci�n de acciones efectuada por Sociedad de Responsabilidad Ltda., a su matriz en el exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 55 Bis � C�digo Civil, Art. 1707 � Circular N�87, de 200…
+Word Solicita se informe criterio respecto a la tributaci�n que afecta a enajenaci�n de acciones efectuada por Sociedad de Responsabilidad Ltda., a su matriz en el exterior.
 
 ## Referencias detectadas
 

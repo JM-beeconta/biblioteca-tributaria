@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 12� letra d), Art. 36� - D.S. Hacienda N�348, de 1975 � D.F.L. N�341, de 1977, Art. 10 bis, Art. 24� - Circular N�16, de 1986. (Ord. N� 402, de 26.02.2008) Word Venta de gas licuado nacional, nacionalizado y extranjero, a un contribuyente usuario de Zona Franca, conforme al art�culo 10 bis del D.F.L. 341, de 1977. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Circular N�12, de 1991 � Compendio de Normas…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Circular N�12, de 1991 � Compendio de Normas Aduaneras, Capitulo IV � Ordenanza de Aduanas, Art. N�70. (Ord. N�401, de 26.02.2008)
 
 ## Referencias detectadas
 

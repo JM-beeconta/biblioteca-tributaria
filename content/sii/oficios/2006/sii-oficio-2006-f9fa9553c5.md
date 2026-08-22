@@ -11,7 +11,7 @@
 
 ## Resumen
 
-; Renta � Actual Ley Sobre Impuesto a la � Art. 34 bis N�3, Art. 56 N�3�, Art. 63� � Circular N�60. Word Solicita se informe criterio del Servicio respecto a la Tributaci�n que le es aplicable a una Sociedad de Personas acogida a Renta Presunta cuyos socios son una Persona Natural y una Sociedad An�nima. (Ord. N� 3.422, de 26.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 12 � Circulares N�61, de 1997 y N�65, de 2001. Word Se absuelve la consulta que dice relaci�n a determinar el L�mite de Gastos d…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 12 � Circulares N�61, de 1997 y N�65, de 2001.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-23
+- Fecha: 2005-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1052.htm
 - Hash SHA-256: c1cc0c9bf4e597876ea1dd2cc67bfce0625050b056cf0b5a3e63a23c9cb1d5f4
 
 ## Resumen
 
-Circulares N�s 58 y 63, de 1990. Word El Arrendamiento de un Predio Agr�cola por parte de una Sociedad Agr�cola que Tributa en Renta Presunta a otra Sociedad Agr�cola que Tributa en Renta Efectiva, no Obliga a la Arrendadora a Tributar bajo la Renta Efectiva, conforme a las normas de la letra b), del N�1, del art�culo 20�, de la Ley de la Renta. (Ord. N� 4.647, de 23.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 41�. Word Aplicaci�n de las Normas de Relaci�n en la Venta de Derechos Sociales, de acuerdo a…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�.
 
 ## Referencias detectadas
 

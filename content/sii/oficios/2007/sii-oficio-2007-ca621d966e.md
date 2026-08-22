@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rd. N� 2.995, de 25.10.2007) Word Procedimiento aplicable para regularizar el d�bito fiscal de un contribuyente que recarg� IVA por la prestaci�n de un servicio que no se encontraba afecto a dicho tributo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 5�, Art. 8�, Art. 13� N�4�, Art. 52�, Art. 56� � Res. Exenta N�6.080, de 1999 � Circular N�39, de 2000 y Circular N�47, de 1977. (Ord. N� 2993, de 25.10.2007) Word R�gimen de Tributaci�n que afecta a las rentas percibidas por una Universid…
+Word R�gimen de Tributaci�n que afecta a las rentas percibidas por una Universidad Privada con motivo de los servicios de educaci�n v�a Internet que presta a alumnos que residen en el extranjero.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 40�, Art. 42� � Ley N� 18.591, de 1987, Art. 29�. (Ord. N� 667, de 19.03.2007) Word Emisi�n de notas de d�bito por un contribuyente exento del Impuesto al Valor Agregado, que es declarado en quiebra, de acuerdo con el procedimiento del art�culo 29�, de la Ley N� 18.591, de 1987. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 12� � Ley N� 19.857, de 2003 � Res.…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 12� � Ley N� 19.857, de 2003 � Res. Ex. N� 6.080, de 1999 � Circular N� 39, de 2000. (Ord. N� 666, de 19.03.2007)
 
 ## Referencias detectadas
 

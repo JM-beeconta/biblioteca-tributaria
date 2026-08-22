@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 59� � C�digo Tributario, Art. 126�, N� 2 � Circulares N�s 72, de 2001 y 48, de 2004. (Ord. N� 710, de 18.03.2005) Word Consulta sobre Procedimiento a seguir para Regularizar el Impuesto al Valor Agregado, cuando se Producen Diferencias en este Tributo en las Declaraciones de Importaci�n Aduanera (DIN). Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 40�, Art. 42� � C�digo Civil, Art. 2.472�, N� 9 � Ley N� 18.591,…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 40�, Art. 42� � C�digo Civil, Art. 2.472�, N� 9 � Ley N� 18.591, de 1987, Art. 29� � Ley N� 18.175, de 1982, Art. 131�, Art. 148� � Circular N� 12, de 1987. (Ord. N� 709, de 18.03.2005)
 
 ## Referencias detectadas
 

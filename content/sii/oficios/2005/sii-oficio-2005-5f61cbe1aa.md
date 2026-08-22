@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Word No procede Gravar con el Impuesto al Valor Agregado, las sumas Cobradas al Arrendatario de un veh�culo, por concepto de sanci�n y Lucro Cesante en caso de sufrir dicho Veh�culo Da�os durante el Per�odo de Arriendo. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N�s 6 y 7 � Ley N� 16.744, Art. 77� � Ley N� 18.469, Art. 11�. (Ord. N� 608, de 04.03.2005) Word Consulta si las Prestaciones M�dicas otorgadas en virtud del Art�culo 11�, de la Ley N� 18.469 y aquellas prestadas en vi…
+Word Consulta si las Prestaciones M�dicas otorgadas en virtud del Art�culo 11�, de la Ley N� 18.469 y aquellas prestadas en virtud del Art�culo 77� bis, de la Ley N�16.744, cobradas al Fondo Nacional de Salud, deben incluir el Impuesto al Valor Agregado o si bien se encontrar�an Exentas de dicho Tributo, en virtud del Art�culo 13�, N� 7, del Decreto Ley, N� 825.
 
 ## Referencias detectadas
 

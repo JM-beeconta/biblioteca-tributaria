@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-08
+- Fecha: 2005-09-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1007.doc
 - Hash SHA-256: 1929db24e03eb17bf02986f433836a6fddf4ea308019f13aa721323e9be879ee
 
 ## Resumen
 
-, N� 9, Art. 31�, N� 7 � Ley N� 16.271 � Circular N� 24, de 1993. Word Situaci�n Tributaria de las Donaciones que se efect�en a una Corporaci�n, conforme a las Normas del N�7, del Art�culo 31�, de la Ley de la Renta. ( Ord. N� 3.409, de 08.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 1�, N�2, Art. 20�, N�1, letra d), Art. 39�, N�3 � Decreto Ley N� 2.757, de 1979, Art. 11�. Word Obligaci�n de Pagar Impuesto de Primera Categor�a de Asociaci�n Gremial que entrega en Arriendo un Inmueble de su Propiedad, con…
+Word Obligaci�n de Pagar Impuesto de Primera Categor�a de Asociaci�n Gremial que entrega en Arriendo un Inmueble de su Propiedad, conforme a las Normas del Art�culo 20�, N�1, letra d) y 39�, N�3, de la Ley de la Renta. (Ord. N� 3.272, de 02.09.2005)
 
 ## Referencias detectadas
 

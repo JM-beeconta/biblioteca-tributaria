@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-20
+- Fecha: 2006-12-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4027.htm
 - Hash SHA-256: fe7d4ab4385f83725a17a7b7bd246ff1265b109f1102cc0a03f87f6c042d0e4c
 
 ## Resumen
 
-y Art�culo 1� y siguientes de la ley N� 19.885, sobre donaciones con fines Sociales y P�blicos. (Ord. N� 4.907, de 20.12.2006) Renta � Actual Ley sobre Impuesto a la � Art. 42, N�1, Art. 43, N�1, Art. 55 bis � Oficio N� 3861, de 2006. Rebaja tributaria de intereses pagados por cr�ditos hipotecarios, conforme a las normas del art�culo 55 bis de la Ley de la Renta. (Ord. N� 4.890, de 19.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, A), letra C), N�1. Word Cr�dito por concepto de Impuestos Pagados en el…
+06) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, A), letra C), N�1.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-18
+- Fecha: 2005-10-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1032.htm
 - Hash SHA-256: e052067e0a886ffeb1bf0ddcd92c6f3870aee9131d7c5a0e79ebba9c2d8958d4
 
 ## Resumen
 
-sa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 97�, N� 10 � Ley N� 19.983, Art. 1� � Res. Ex. N�s 2.107, de 1983 y N� 14, de 2005. (Ord. N� 4.066, de 18.10.2005) Word Derecho a Cr�dito Fiscal en relaci�n con las Normas de la Ley N� 19.983. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7 � Oficio N� 4.956, de 2004.(Ord. N� 4.030, de 17.10.2005) Word Solicita Reconsideraci�n de Ord. N� 4.95…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7 � Oficio N� 4.956, de 2004.(Ord. N� 4.030, de 17.10.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-22
+- Fecha: 2006-06-09
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja2915.doc
 - Hash SHA-256: 9112c6609342645d1cdcceb6aed9abee093a7252dcfdbc9231951380a3fa0bd7
 
 ## Resumen
 
-10�, ART.14� � Ley N�18.010, Art.1�. Word Solicita pronunciamiento de interpretaci�n de aplicabilidad del art�culo 3� de la Ley de Timbres y Estampillas, en las operaciones de la empresa que se describen en la presentaci�n. (Ord. N�3.049, de 22.06.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�17 � Ley N�19.840, de 2002, Art. 2� Transitorio � Circular N�71, de 2002. Word Solicita un pronunciamiento respecto al alcance del t�rmino � beneficiario � utilizado en la Circular N�71 de 200…
+Word Solicita un pronunciamiento respecto al alcance del t�rmino � beneficiario � utilizado en la Circular N�71 de 2002, con relaci�n a si este se refiere solo al deudor directo de la operaci�n originaria o tambi�n es aplicable al aval y codeudor solidario. (Ord. N�2.915, de 09.06.2006)
 
 ## Referencias detectadas
 

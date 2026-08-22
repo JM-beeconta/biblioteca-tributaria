@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ce="arial" size="2"> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, letra E), N� 12, Art. 52� � Res. Exentas N�s 6.080, 6.444 y 8.377, de 1999 � Circular N� 36, de 1993. (Ord. N� 547, de 22.02.2005) Word Tributaci�n que afecta a los Peluqueros Due�os de su Propio Local y Documentaci�n que deben Emitir de conformidad al Art�culo 52�, del Decreto Ley N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 21�, N� 2 y N� 3, Art. 57�, Art. 70� � C�digo…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 21�, N� 2 y N� 3, Art. 57�, Art. 70� � C�digo Tributario, Art. 126�. (Ord. N� 546, de 22.02.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-28
+- Fecha: 2005-01-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja890.htm
 - Hash SHA-256: 7e417d291bba9634223f112bd8bb338a74e6279aabbd3b9b6b2dac18c6a15401
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c), Art. 14�, bis � Ley N� 18.046, Art. 94�� Circulares N�s 59, de 1991, 49, de 1997 y 45, de 2001. Word Efectos Tributarios que produce la Divisi�n de una Sociedad An�nima, conforme a las Normas del Art�culo 94�, de la Ley N� 18.046 y de la Ley de la Renta. (Ord. N� 275, de 28.01.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 52�, Art. 59� � Decreto Ley N� 889, de 1975, Art. 13�. Word Improcedencia de la…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1, Art. 52�, Art. 59� � Decreto Ley N� 889, de 1975, Art. 13�.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a href='ventas/ja702.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.9�, 42�, 43� y 55� - C�digo Civil, Art. 1.813. (Ord. N� 702, de 11.04.2008) Word Aplicaci�n y devengo del IVA a contrato de transferencia de vino en barricas de guarda. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 52� y sgtes - Ley de la Renta, Art. 20� N�4�, Art. 42� N�2�.(Ord. N� 701, de 11.04.08) Word Tributaci�n que afecta a empresa Sociedad Limitada productora de Evento…
+Word Tributaci�n que afecta a empresa Sociedad Limitada productora de Eventos.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en el Art�culo 21�, del D.L. N�910, de 1975, en Contrato de Construcci�n a Suma Alzada para la Ejecuci�n de una obra, que en definitiva es Realizada Materialmente por terceros, mediante Subcontratos de Construcci�n. (Oficio N� 231, de 20.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h), Art. 12�, letra E), N� 16, Art. 36�. Word Recuperaci�n del Impuesto al Valor Agregado en un Proyecto de Cine. (Oficio N� 226, de 20.01.2006) Ventas y Servicios � Nuevo Texto � Actual L…
+Word Recuperaci�n del Impuesto al Valor Agregado en un Proyecto de Cine. (Oficio N� 226, de 20.01.2006)
 
 ## Referencias detectadas
 

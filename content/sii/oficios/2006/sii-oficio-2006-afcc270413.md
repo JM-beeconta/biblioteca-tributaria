@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a/ja707.htm'>Renta � Actual Ley Sobre Impuesto a la � Art.31� N�6, Art. 42� N�1 � Decreto Ley N�3.500, de 1980, Art. 90 � Circular N�42, de 1990. (Ord. N� 707, de 11.04.2008) Word Tratamiento tributario del sueldo empresarial asignado a socios de sociedad que explota un establecimiento educacional subvencionado. Renta � Actual Ley Sobre Impuesto a la � Art.42 Ter, Art.52� al 56�, Art. 65� - Circular N�23, de 2002. (Ord. N� 706, de 11.04.2008) Word Tributaci�n de retiros de fondos a t�tulo de excedente de libre dis…
+Word Tributaci�n de retiros de fondos a t�tulo de excedente de libre disposici�n e instrucciones impartidas por este Servicio para su aplicaci�n.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Tributaci�n del usufructo constituido sobre acciones, seg�n el art�culo 23�, de la Ley N� 18.046, sobre Sociedades An�nimas. (Ord. N� 4.888, de 19.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�9. Word Determinaci�n del costo tributario de una inversi�n en el caso de una sociedad que lleva su contabilidad en moneda extranjera. (Ord. N� 4.883, de 19.12.2006) Renta � Actual Ley sobre Impuesto a la � Art. 17, N�3 � Oficio N� 699, de 2006 Resuelve solicitud de reconsideraci�n respecto a lo dictamin…
+19.12.2006) Renta � Actual Ley sobre Impuesto a la � Art. 17, N�3 � Oficio N� 699, de 2006 Resuelve solicitud de reconsideraci�n respecto a lo dictaminado por Oficio N� 699, de 24.02.2006, en relaci�n con la aplicaci�n del art�culo 17 N� 3 de la Ley de la Renta (Ord. N� 4.727, de 05.12.2006)
 
 ## Referencias detectadas
 

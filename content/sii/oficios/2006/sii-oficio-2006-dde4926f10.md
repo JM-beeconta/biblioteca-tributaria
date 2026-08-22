@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ign="JUSTIFY"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2 N�2, Art. 8 � Ley sobre Impuesto a la Renta, Art. 20 N�3 , 4 y 5. Word No se encuentran afectos a IVA los Servicios de Cobranza y Recaudaci�n prestados por una Caja de Compensaci�n de Asignaci�n Familiar. (Oficio N� 3.982, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2, Art. 8 � Ley sobre Impuesto a la Renta, Art. 20 N�3 � C�digo de Comercio, Art. 3� N�7 � Oficio 4.845, de 2004…
+09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2, Art. 8 � Ley sobre Impuesto a la Renta, Art. 20 N�3 � C�digo de Comercio, Art. 3� N�7 � Oficio 4.845, de 2004.
 
 ## Referencias detectadas
 

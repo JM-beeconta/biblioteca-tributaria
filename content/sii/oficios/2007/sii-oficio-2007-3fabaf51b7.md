@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-10-31
+- Fecha: 2007-10-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2998.htm
 - Hash SHA-256: 01dc594fbac795fb9232c465649d32408304de1e24ad52c535c42deaa3d68ae4
 
 ## Resumen
 
-tm'>Renta � Actual Ley Sobre Impuesto a la � Art. 41� A y B, Ley N�16.271, de 1965 � Ley N�19.247, de 1993 � Ley N� 20.171, de 2007 - Circular N�52, de 1993. (Ord. N� 3.027, de 31.10.2007) Word Situaci�n Tributaria de Sociedades Unipersonales extranjeras adquiridas mediante Sucesi�n Hereditaria. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�11, Art. 20�, Art. 74� y Sgtes � Decreto Ley N� 2.757, de 1997. (Ord. N� 2.998, de 25.10.2007) Word Situaci�n Tributaria de las Asociaciones Gremiales frente a las normas…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�11, Art. 20�, Art. 74� y Sgtes � Decreto Ley N� 2.757, de 1997.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enta/ja3423.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8 Letra b), Art. 18� - C�digo Civil, Art. 580 � Oficio N�485, de 1997. Word Tributaci�n que afecta a Enajenaci�n del Derecho de Usufructo de Predio Agr�cola, conforme a lo dispuesto en la norma de la letra b), del N�8, del art�culo 17�. (Ord. N� 3.423, de 26.07.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 34 bis N�3, Art. 56 N�3�, Art. 63� � Circular N�60. Word Solicita se informe criterio del Servicio respecto a la Tributaci�n que le es a…
+Word Solicita se informe criterio del Servicio respecto a la Tributaci�n que le es aplicable a una Sociedad de Personas acogida a Renta Presunta cuyos socios son una Persona Natural y una Sociedad An�nima. (Ord. N� 3.422, de 26.07.2006)
 
 ## Referencias detectadas
 

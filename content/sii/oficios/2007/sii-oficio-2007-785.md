@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Situaci�n Tributaria de saldo FUT y Cr�dito por Impuesto de Primera Categor�a de Sociedad An�nima Cerrada en liquidaci�n que se Fusiona a otra Sociedad An�nima. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�27� - Art. 5� Transitorio, Ley N�19.070, Sobre Estatuto de los Profesionales de la Educaci�n � Oficio N� 785, de 2007. (Ord. N�3.181, de 20.11.2007) Word Tratamiento Tributario del Derecho de Zona o Complemento que establece el Art. 5� Transitorio de la Ley N�19.070, sobre Estatuto de los Profesionales de…
+Word Tratamiento Tributario del Derecho de Zona o Complemento que establece el Art. 5� Transitorio de la Ley N�19.070, sobre Estatuto de los Profesionales de la Educaci�n.
 
 ## Referencias detectadas
 

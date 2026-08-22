@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja836.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�4� - C�digo Tributario, Art. 17� y 69� (Ord. N� 836, de 24.04.2008) Word Solicita pronunciamiento en relaci�n con el efecto que produce el t�rmino de giro sobre las inversiones en acciones y pr�stamos en cuenta corriente que posee una sociedad an�nima en una sociedad an�nima relacionada. Renta � Actual Ley Sobre Impuesto a la � Art. 41� B N�4� y 41�N�4.(Ord. N� 835, de 24.04.2008) Word Tratamiento tributario de la revalorizaci�n de acciones de sociedad…
+Word Tratamiento tributario de la revalorizaci�n de acciones de sociedad an�nima extranjera recibidas en calidad de aporte por aumento de capital en sociedad chilena.
 
 ## Referencias detectadas
 

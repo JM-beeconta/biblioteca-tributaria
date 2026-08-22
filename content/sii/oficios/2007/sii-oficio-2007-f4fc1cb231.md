@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1�. (Ord. N� 2454, de 17.08.2007) Word Se solicita aclarar con ejercicio pr�ctico el c�lculo del impuesto �nico al trabajo. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9, Art. 58�, N� 1 � C�digo Tributario, Art. 64� - C�digo Civil, Art. 1545 � Circular N�45, de 2001. (Ord. N� 2453, de 17.08.2007) Word Solicita confirmar criterio a objeto de determinar el costo tributario que debe considerarse en un aporte de derechos sociales. Renta � Ac…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N� 9, Art. 58�, N� 1 � C�digo Tributario, Art. 64� - C�digo Civil, Art. 1545 � Circular N�45, de 2001.
 
 ## Referencias detectadas
 

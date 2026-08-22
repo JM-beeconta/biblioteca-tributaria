@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-03-14
+- Fecha: 2006-03-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1130.doc
 - Hash SHA-256: 7d23620e66688507fce3e274cf3a0c87f78be46c23c1f9ffa6829654c8742c31
 
 ## Resumen
 
-N� 938, de 14.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N�3, Art. 74�, N�4, Art. 79� � Circular N� 21, de 1991 � Oficio N� 298, de 2004. Word Aplicaci�n del Impuesto Adicional que afecta a los Reaseguros. (Ord. N� 808, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 52�, Art. 55� bis � Ley N� 19.622, de 1999 � Circular N� 87, de 2001. Word Contribuyente acogido al Beneficio Tributario de la Ley N� 19.622, que se puede acoger a las normas del art�culo 55� bis de la Ley d…
+Word Contribuyente acogido al Beneficio Tributario de la Ley N� 19.622, que se puede acoger a las normas del art�culo 55� bis de la Ley de la Renta. (Ord. N� 807, de 08.03.2006)
 
 ## Referencias detectadas
 

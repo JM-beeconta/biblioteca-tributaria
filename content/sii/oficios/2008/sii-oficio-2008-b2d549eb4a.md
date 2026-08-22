@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-08-20
+- Fecha: 2008-08-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2397.htm
 - Hash SHA-256: 6a46e03dd50650560095c9708208c911e4f3fcd1b7972bc14579e3b9dd019462
 
 ## Resumen
 
-font face='arial' size='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�7 � Circular N�49, de 2006. (Ord. N� 2.410, de 20.08.2008) Word Resuelve consultas relacionadas con la aplicaci�n de las instrucciones impartidas a trav�s de la Circular N�49 de 31.08.2006, sobre tratamiento tributario de los desembolsos de las empresas para la construcci�n y mejoramiento de caminos p�blicos. Renta � Actual Ley Sobre Impuesto a la � Ley N�20.026, de 2005, Art. 5� transitorio � D.L. N�600, de 1974, Art. 11� ter � Circu…
+Renta � Actual Ley Sobre Impuesto a la � Ley N�20.026, de 2005, Art. 5� transitorio � D.L. N�600, de 1974, Art. 11� ter � Circular N� 60, de 2005. (Ord. N� 2.397, de 19.08.2008)
 
 ## Referencias detectadas
 

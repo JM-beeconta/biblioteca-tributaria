@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-09-26
+- Fecha: 2005-09-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1017.htm
 - Hash SHA-256: 744c0612c9458374a87f03430fc1370a10f2db484ab200c23dbc8126c8875605
 
 ## Resumen
 
-17�, N� 8, letra b) � Ley N� 18.985, Art. 5� transitorio � Circular N� 63, de 1990. Word Tributaci�n a la cual se encuentra afecta Enajenaci�n de Bien Ra�z Agr�cola que es entregado en Arriendo, conforme a las Normas de la letra b) del N� 8 del Art�culo 17�, de la Ley de la Renta y Art�culo 5� transitorio de la Ley N� 18.985, de 1990. (Ord. N� 3.659, de 26.09.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra g), Art. 57� bis, letra A), N�1 � C�digo Civil, Art. 718�, Art. 1.344�, Art. 1.749�, Art.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra g), Art. 57� bis, letra A), N�1 � C�digo Civil, Art. 718�, Art. 1.344�, Art. 1.749�, Art. 1750�, Art. 1.781�.
 
 ## Referencias detectadas
 

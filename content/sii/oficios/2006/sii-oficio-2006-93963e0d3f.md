@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-04-28
+- Fecha: 2006-04-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1310.htm
 - Hash SHA-256: 6f5f28f4a91e86daa0d631aff06c249bced1884997c01d0697ac5266a1f156be
 
 ## Resumen
 
-(Ord. N� 1518, de 28.04.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18� � C�digo Civil, Art. 686. . Word Solicita ratificaci�n del criterio respecto a la fecha en que se entiende efectuada o verificada la enajenaci�n de un bien ra�z, para efectos de presunci�n de habitualidad. (Ord. N� 1420, de 21.04.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 57 bis Letra A), N�s 4 y 5 � Circulares N�s 56, de 1993 y 71, de 1998. Word Solicita aclaraci�n respecto a la situaci�n tributaria de los ex…
+Renta � Actual Ley Sobre Impuesto a la � Art. 57 bis Letra A), N�s 4 y 5 � Circulares N�s 56, de 1993 y 71, de 1998.
 
 ## Referencias detectadas
 

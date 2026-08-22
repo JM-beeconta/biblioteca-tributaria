@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o a la � Art. 42� N�2, Art. 74� N�2 � Ley N� 16.441, Art. 41� _ Ley N� 17.073, de 1968, Art. 1�. (Ord. N� 649, de 08.04.2008) Word Retenciones de impuesto en un contrato de prestaci�n de servicios de aseo para el Juzgado de Letras de Isla de Pascua. Renta � Actual Ley Sobre Impuesto a la � Art. 42� Ter, Arts. 52� a 56� y Art. 65� - Decreto Ley N�3.500, de 1980 � Circular N�23�, de 2002 � Resoluci�n N�35, de 2002. (Ord. N� 648, de 08.04.2008) Word Situaci�n tributaria de Excedentes de Libre Disposici�n. Renta � Act…
+Word Situaci�n tributaria de Excedentes de Libre Disposici�n.
 
 ## Referencias detectadas
 

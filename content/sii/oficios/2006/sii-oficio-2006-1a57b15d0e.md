@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-24
+- Fecha: 2006-03-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1132.doc
 - Hash SHA-256: 33dd97aa5af83335ca394669d56d3dc56a87be7b72660857ee2df25a8f98d55a
 
 ## Resumen
 
-(Ord. N� 699, de 24.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�3, Art. 57� bis � Circular N� 28, de 2002. Word Situaci�n Tributaria de los Seguros Dotales, de acuerdo a lo dispuesto por el N�3, del art�culo 17�, de la Ley de la Renta. (Ord. N� 944, de 15.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 33� bis, Art. 41� � Circular N� 41, de 1990. Word Fecha en la cual se debe Calcular el Cr�dito de 4%, del Activo Fijo en el caso de una Plantaci�n de Olivos, de acuerdo a lo dispuesto por el…
+Word Fecha en la cual se debe Calcular el Cr�dito de 4%, del Activo Fijo en el caso de una Plantaci�n de Olivos, de acuerdo a lo dispuesto por el Art�culo 33� bis de la Ley de la Renta. (Ord. N� 938, de 14.03.2006)
 
 ## Referencias detectadas
 

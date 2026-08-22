@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-16
+- Fecha: 2006-01-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1091.htm
 - Hash SHA-256: 2a90e1ea5e2fb164048907cdcaa0145dead331c02f8f7315d4e3b35c042b9894
 
 ## Resumen
 
-l que Presta en el Pa�s Servicios Gerenciales a Empresas de la misma Matriz. (Ord. N� 147, de 16.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley N� 19.420, Art. 1�, Art. 2�, Art. 3� � D.F.L. N� 641, de 1977 � Circulares N�s 50, de 1995, 64, de 1996 y 46 de 2000. Word Improcedencia del Derecho al Cr�dito establecido en la Ley N� 19.420, de 1995, en el caso que se indica. (Ord. N� 136, de 13.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� � Circulares N�s 92, de 1974, 61, de 1976, 65 y 14…
+06) Renta � Actual Ley Sobre Impuesto a la � Art. 14� � Circulares N�s 92, de 1974, 61, de 1976, 65 y 149, de 1977, 49, de 1978 y 47 y 78, de 1979.
 
 ## Referencias detectadas
 

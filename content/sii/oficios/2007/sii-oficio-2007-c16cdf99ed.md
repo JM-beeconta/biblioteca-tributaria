@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-08-02
+- Fecha: 2007-06-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4105.doc
 - Hash SHA-256: 215f6fde79809571fea9138b282b4569a38841f8acc719561167606f9fc8d5fe
 
 ## Resumen
 
-ctual Ley sobre Impuesto a las � Art. 2� N�1 � D. Supremo de Hacienda N�55, de 1977, Art. 5� - Ley de la Renta, Art. 20� N�3 y 4�- Ley General de Cooperativa, Art. 49�, Letra A. (Ord. N� 2.351, de 02.08.2007) Word Tributaci�n de las ventas y servicios prestados por una Cooperativa a sus cooperados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, N�1 � Res. Ex. N� 6.582, de 1997 (Ord. N� 1.280, de 18.06.2007) Word Tratamiento tributario de la colaci�n entregada a los trabajadores de u…
+Word Tratamiento tributario de la colaci�n entregada a los trabajadores de una empresa de transporte de carga.
 
 ## Referencias detectadas
 

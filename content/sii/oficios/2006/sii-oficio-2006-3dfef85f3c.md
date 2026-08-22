@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-30
+- Fecha: 2006-06-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3103.htm
 - Hash SHA-256: c2ebfc1399cd2a9872be3fa66b5d83f628f9adec6b38d6b4e6875f3f8e9518a7
 
 ## Resumen
 
-nt> Renta � Actual Ley Sobre Impuesto a la � Art. 15�, Art. 31� N�3 y 5� - Oficio 613, de 2005. Word Solicita Ratificaci�n de criterio respecto al Tratamiento Tributario aplicable al Mayor Valor producido entre el Valor de Adquisici�n de las Acciones y Patrimonio Tributario en el caso de Absorci�n de una Sociedad. (Ord. N� 3.119, de 30.06.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, Art. 43� - Ley N� 19.129, de 1992, Art. 11�. Word Solicita Reconsideraci�n de Oficio Ord. N�1.807 de 1995, que dice relac…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, Art. 43� - Ley N� 19.129, de 1992, Art. 11�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-13
+- Fecha: 2006-09-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3866.doc
 - Hash SHA-256: 36c19d94fc1238db508d01ce6c908000c62fcdfdafc3718b3fb24280e2187d48
 
 ## Resumen
 
-a href='renta/ja3973.doc'>Word Solicita Reconsiderar Oficio Ord. N�4.275, de 2005, que dice relaci�n a la Tributaci�n que Afecta a Ingresos por Venta de Madera Realizada. (Ord. N� 3.973, de 13.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 43 N�1, Art. 74 N�1 � Ley N�18.156, Art. 7� - Circular N� 1.295, de 2004 de la Superintendencia de Administradoras de Fondos de Pensiones � Oficios N�s 1374 y 1480, de 2004, N�s 104, 5295, 6141, de 2003 y N�2758, de 2002. Word Confirma criterio respecto al Tratamiento Tr…
+Word Confirma criterio respecto al Tratamiento Tributario aplicable a las sumas correspondientes a Fondos Previsionales retirados por los T�cnicos Extranjeros conforme a lo dispuesto por el art�culo 7� de la Ley N�18.156. (Ord. N� 3.866, de 05.09.2006)
 
 ## Referencias detectadas
 

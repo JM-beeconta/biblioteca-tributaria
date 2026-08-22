@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-25
+- Fecha: 2008-04-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja838.doc
 - Hash SHA-256: bd514acc9086d7b0c768276244dfc5fc084bb43961b13dd8ac2fc567ca0de716
 
 ## Resumen
 
-/ja851.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�3� - C�digo Tributario, Art. 64� y 200�. (Ord. N� 851, de 25.04.2008) Word Facultad de tasar que establece el C�digo Tributario a operaciones anteriores al plazo de prescripci�n contemplado en el mismo texto legal en el caso de p�rdidas. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�8� Letra A, Art. 18� y 18� Ter �Ley N� 18.293, de 1984, Art. 3�.(Ord. N� 838, de 24.04.2008) Word Situaci�n tributaria de aporte de acciones de un contribuyente pers…
+Word Situaci�n tributaria de aporte de acciones de un contribuyente persona natural, a una empresa unipersonal o a una sociedad.
 
 ## Referencias detectadas
 

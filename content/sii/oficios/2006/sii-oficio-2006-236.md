@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2004. Word Solicita Pronunciamiento respecto a si procede autorizar la Devoluci�n del IVA pagado en una Importaci�n que fue Anulada por el Servicio Nacional de Aduanas. (Oficio N� 3.976, de 13.09.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12 N�7 Letra E, Art. 17 N�8 Letra E - C�digo Civil, Art. 584. Word Solicita Reconsideraci�n de Oficio Ord. N�236, de 2006, que dice relaci�n con la Tributaci�n aplicable a la Cesi�n de un Proyecto Televisivo. (Oficio N� 3.975, de 13.09.2006) V…
+Word Solicita Reconsideraci�n de Oficio Ord. N�236, de 2006, que dice relaci�n con la Tributaci�n aplicable a la Cesi�n de un Proyecto Televisivo. (Oficio N� 3.975, de 13.09.2006)
 
 ## Referencias detectadas
 

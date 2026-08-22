@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-26
+- Fecha: 2006-01-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1095.doc
 - Hash SHA-256: 15a58456f9d014b37dc7e9ef718699ca206dd07f482581def537255362c1f3b9
 
 ## Resumen
 
-de 26.01.2006) Renta � Actual Ley Sobre Impuesto a la � Circular N� 143, de 1972 � Oficios N�s 1.548, de 1985 y 714, de 1997. Word Tratamiento Tributario que afecta a Contrato de Joint Venture para la Coproducci�n de un Film o Pel�cula. (Ord. N� 264, de 26.01.2006) RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 19�, ART. 20�, ART. 69�, N�3 � DECRETO LEY N� 825, DE 1974, ART. 2�, N�2, ART. 8�. Word Absuelve Consultas respecto de la Tributaci�n aplicable a la Cesi�n de un Proyecto televisivo, frente a las normas de l…
+Word Absuelve Consultas respecto de la Tributaci�n aplicable a la Cesi�n de un Proyecto televisivo, frente a las normas de la Ley de Impuesto a la Renta e Impuesto a las Ventas y Servicios. (ORD. N� 236, DE 23.01.2006)
 
 ## Referencias detectadas
 

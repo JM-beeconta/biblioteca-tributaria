@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-21
+- Fecha: 2005-07-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja988.htm
 - Hash SHA-256: 634b1a8ba7f792a42f8aac9266fe6e4c1bd22666474e5e8f3bacf1003dfa5a84
 
 ## Resumen
 
-"1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d). (Ord. N� 2.631, de 21.07.2005) Word Aplicaci�n del Impuesto a las Bebidas Alcoh�licas, Analcoh�licas y Productos Similares, establecido en el Art. 42, del D.L. N� 825, de 1974, que afecta a las Venta o Importaci�n de los Productos que se indican. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 19.709, Art. 8� � Circular N� 25 de 2002. (Ord. N� 2.602, de 19.07.2005) Word Diversas consultas sobre…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 19.709, Art. 8� � Circular N� 25 de 2002. (Ord. N� 2.602, de 19.07.2005)
 
 ## Referencias detectadas
 

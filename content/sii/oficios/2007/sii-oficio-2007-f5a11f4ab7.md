@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Sobre Impuesto a la � Art. 42� N�1�, Art. 43� N�1�, Art. 45�, Art. 46� - Ley N� 20.134, de 2006 � Circular N�37, de 1990. (Ord. N� 2595, de 06.09.2007) Word Tributaci�n que afecta a beneficio pecuniario denominado bono extraordinario concedido por Ley N�20.134, de 2006, a exonerados pol�ticos. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 41�, Art. 56� N�3, Art. 63�- Circular N�60, de 1990. (Ord. N� 2594, de 06.09.2007) Word Situaci�n tributaria en venta de derechos sociales a una sociedad relacionada,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 41�, Art. 56� N�3, Art. 63�- Circular N�60, de 1990.
 
 ## Referencias detectadas
 

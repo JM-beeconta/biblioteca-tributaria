@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-01-30
+- Fecha: 2008-01-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja214.htm
 - Hash SHA-256: f10d5de310392078b27e32b86b1d6cf4eb64e987116e31785d91862a39b32d6b
 
 ## Resumen
 
-br>Tratamiento tributario aplicable al gasto rechazado por contribuciones de bienes ra�ces. Renta � Actual Ley Sobre Impuesto a la � Art. 18� Ter � Circular N�7, de 2002 � Oficios N�1.705 y N�764, de 2006. (Ord. N� 0224, de 30.01.2008) Word Aplicaci�n de la exenci�n del Art. 18 Ter a las Ventas de Acciones adquiridas como producto de canje de ADRs. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74� N�4�, Art. 79� - Ley N� 20.154, de 2007. (Ord. N� 214, de 25.01.2008) Word Solicita pronunciamiento respecto…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74� N�4�, Art. 79� - Ley N� 20.154, de 2007. (Ord. N� 214, de 25.01.2008)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-01-20
+- Fecha: 2006-01-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1090.doc
 - Hash SHA-256: 1199af592cfcd0e564be993c51480bdd5ed108e97e265a7951ab822f533174ca
 
 ## Resumen
 
-l Ley sobre Impuesto a las � Art. 8�, letra h), Art. 12�, letra E), N� 16, Art. 36�. Word Recuperaci�n del Impuesto al Valor Agregado en un Proyecto de Cine. (Oficio N� 226, de 20.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Letra k), Art. 23�, N�2 y N�3 � Reglamento D.L. N� 825, Art. 43�. Word C�lculo del Cr�dito Fiscal Proporcional en caso de Aportes de Bienes Corporales Inmuebles. Facultad del Servicio de Impuestos Internos para autorizar M�todos especiales de determina…
+Word C�lculo del Cr�dito Fiscal Proporcional en caso de Aportes de Bienes Corporales Inmuebles. Facultad del Servicio de Impuestos Internos para autorizar M�todos especiales de determinaci�n del Cr�dito Fiscal IVA de Uso Com�n. (Oficio N� 031, de 05.01.2006)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rt. 13� N�4� � Ley de la Renta, art. 20� N� 4�. (Ord. N� 2829, de 04.10.2007) Word Empresa solicita exenci�n de IVA establecida en el art. 13 N�4, a los servicios de capacitaci�n que prestar� a clientes usuarios de centrales telef�nicas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra B, N�10, Art. 64� � Ley de la Renta, art. 20� N� 3 � C�digo de Comercio, Art. 3� N� 7�. (Ord. N� 2828, de 04.10.2007) Word Solicita se le otorgue la franquicia de la exenci�n del IVA establecida en…
+Word Solicita se le otorgue la franquicia de la exenci�n del IVA establecida en el art. 12 letra b, N�10 a una importaci�n o en su defecto, subsidiariamente, diferir el pago del Impuesto al Valor Agregado.
 
 ## Referencias detectadas
 

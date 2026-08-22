@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-12
+- Fecha: 2005-12-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1058.doc
 - Hash SHA-256: 4320ea86ec8598c86a66141d2791f5c429b9b8eab16a171649ba889e5c0411a3
 
 ## Resumen
 
-d Situaci�n Tributaria que se produce con Motivo de la Fusi�n de Sociedades Chilenas con Agencias en el Exterior, conforme a las Normas del Inciso Tercero del Art�culo 41�, de la Ley de la Renta y Art�culo 64�, del C�digo Tributario. (Ord. N� 4.848, de 12.12.2005) Renta � Actual Ley Sobre Impuesto a la � Decreto con Fuerza de Ley N� 30, de 2005, de Hacienda. Word Documento v�lido emitido por Agencia de Aduana para los efectos de Acreditar los Gastos de Desaduanamiento o Exportaci�n de Mercader�as. (Ord. N� 4.761,…
+Word Documento v�lido emitido por Agencia de Aduana para los efectos de Acreditar los Gastos de Desaduanamiento o Exportaci�n de Mercader�as. (Ord. N� 4.761, de 01.12.2005)
 
 ## Referencias detectadas
 

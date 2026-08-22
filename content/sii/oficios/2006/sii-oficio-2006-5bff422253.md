@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-22
+- Fecha: 2006-02-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1104.htm
 - Hash SHA-256: ccc8a0cb628c8f1c978d116e8ace36fa2135f99611a2a7d6004e570fafb1718f
 
 ## Resumen
 
-ociedad Extranjera, por concepto de adquisici�n a una Empresa Constructora, del derecho que esta �ltima ten�a en su calidad de part�cipe de un Contrato de Asociaci�n o Cuenta en Participaci�n.] (Ord. N� 654, de 22.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 65�, N�3, Art. 42�, N�2, Art. 55� bis. Word Contribuyentes obligados a Presentar una Declaraci�n Anual de Impuesto a la Renta. (Ord. N� 574, de 15.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 126� � Circular N�…
+, de 15.02.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 126� � Circular N�100, de 1975.
 
 ## Referencias detectadas
 

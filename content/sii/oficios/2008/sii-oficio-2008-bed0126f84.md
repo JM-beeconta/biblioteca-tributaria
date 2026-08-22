@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href='renta/ja1435.htm'>Renta � Actual Ley Sobre Impuesto a la � Ley N� 20.143, Art. 13� � Circular N� 41, de 1999. (Ord. N� 1.435, de 07.07.2008) Word Situaci�n Tributaria de bono de escolaridad establecido por el art�culo 13�, de la Ley N� 20.143, de 2006. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 20�, N� 1, letra d), Art. 39�, N� 3, Art. 56�, N� 3, Art. 63�� C�digo Tributario, Art. 8, N� 13. (Ord. N� 1.434, de 07.07.2008) Word Situaci�n tributaria de la explotaci�n de bienes ra�ces no agr�colas, c…
+Word Situaci�n tributaria de la explotaci�n de bienes ra�ces no agr�colas, conforme a lo dispuesto por los art�culos 20�, N�1, letra d) y 39�, N�3 de la Ley sobre Impuesto a la Renta, en el caso de la transformaci�n de una sociedad an�nima en sociedad de personas
 
 ## Referencias detectadas
 

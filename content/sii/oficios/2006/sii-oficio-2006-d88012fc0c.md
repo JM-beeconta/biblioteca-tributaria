@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ta/ja1092.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 41� � Ley N� 19.420, Art. 1�, Art. 2�, Art. 3� � D.F.L. N� 641, de 1977 � Circulares N�s 50, de 1995, 64, de 1996 y 46 de 2000. Word Improcedencia del Derecho al Cr�dito establecido en la Ley N� 19.420, de 1995, en el caso que se indica. (Ord. N� 136, de 13.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� � Circulares N�s 92, de 1974, 61, de 1976, 65 y 149, de 1977, 49, de 1978 y 47 y 78, de 1979. Word Vigencia de Exenci�n de Impuesto de Primer…
+Word Vigencia de Exenci�n de Impuesto de Primera Categor�a de la Ley de la Renta y de la Ley de Timbres y Estampillas y Papel Sellado, a favor de Instituci�n de Beneficencia que indica. (Ord. N�135, de 13.01.2006)
 
 ## Referencias detectadas
 

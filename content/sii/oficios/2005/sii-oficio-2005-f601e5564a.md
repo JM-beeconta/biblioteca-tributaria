@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-05-10
+- Fecha: 2005-05-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja946.htm
 - Hash SHA-256: 8e809e8b2c9fc610d2fdbd51b08ff52b95669b8ec978f8c0ee0896e32bfaf946
 
 ## Resumen
 
-" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 45�, Art. 46� � Ley N� 19.490, Art. 1�, Art. 2� � Circular N� 37�, de 1990 Word Tributaci�n de Beneficios Establecidos en la Ley N� 19.490, conforme a las Normas de los Art�culos 42�, N�1, 43�, N�1 45� y 46�, de la Ley de la Renta. (Ord. N� 1.394, de 10.05.2005) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 1�� Circular N� 66, de 1999 � Oficio N� 1.356, de 1996. Word Informa sobre proyecto de Inversi�n que se indica, conforme a…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 1�� Circular N� 66, de 1999 � Oficio N� 1.356, de 1996.
 
 ## Referencias detectadas
 

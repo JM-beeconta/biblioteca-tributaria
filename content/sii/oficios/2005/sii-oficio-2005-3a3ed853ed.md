@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s � Ley N� 18.775, de 1989, Art. 1� Transitorio � Circulares N�59, de 1991 y N�49�, de 1997. Word Solicita se confirme si Empresa acogida al Art�culo 14 Bis que absorbe a otra acogida a R�gimen Normal del Art. 14�, tendr� derecho a recuperar el Impuesto de Primera Categor�a pagado por la Empresa Absorbida sobre las Utilidades traspasadas producto de la Fusi�n, conforme a lo dispuesto por el Art�culo 1� Transitorio de la Ley N�18.775. (Ord. N�3.052, de 22.06.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 31�,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 41� N�7� � D.L. N�825 de 1974, Art. 23� � Oficio N� 3.853, de 2005.
 
 ## Referencias detectadas
 

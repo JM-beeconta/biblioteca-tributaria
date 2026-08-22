@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Renta � Actual Ley Sobre Impuesto a la � Art. 14� Letra A. N�1� letra c) � Decreto Ley N� 600, de 1974, Sobre Estatuto de la Inversi�n Extranjera, Art. 4�. Word Solicita opini�n del Servicio respecto a la posibilidad de que se aplique la normativa del Capitulo XIV del Compendio de Normas de Cambios Internacionales, a la reinversi�n de utilidades proveniente de proyectos acogidos al Decreto Ley N� 600, de 1974. (Ord. N� 1685, de 12.05.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� Letra A) N�3, Art. 56 N…
+, de 12.05.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� Letra A) N�3, Art. 56 N�3, Art. 63 � Circulares N�60, de 1990, N�40, de 1991 y N�17�, de 1993 � Resoluci�n Ex. N�2154, de 1991.
 
 ## Referencias detectadas
 

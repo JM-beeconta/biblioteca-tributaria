@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-09-26
+- Fecha: 2007-09-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja2705.htm
 - Hash SHA-256: 6850e605d4fc3820e3b90ef75ed608cee384c3b69b7b6d3d219d554c2c3abea0
 
 ## Resumen
 
-tm'>Renta � Actual Ley Sobre Impuesto a la � Art. 42� Bis, N�3�, Art. 42� N�1 � C�digo Tributario, Art. 126� - Oficio Ord. N�509, de 2007. (Ord. N� 2731, de 26.09.2007) Word Solicita confirmar criterio respecto al tratamiento tributario de los retiros anticipados de ahorro previsional voluntario. Renta � Actual Ley Sobre Impuesto a la � Art. 58� N� 1�, Art. 41�, ART. N� 31� N�5� � C�digo Tributario, Art. 64��Circular N�45, de 2001. (Ord. N� , de 2705 de 20.09.2007) Word Solicita confirmar criterios tributarios der…
+Renta � Actual Ley Sobre Impuesto a la � Art. 58� N� 1�, Art. 41�, ART. N� 31� N�5� � C�digo Tributario, Art. 64��Circular N�45, de 2001.
 
 ## Referencias detectadas
 

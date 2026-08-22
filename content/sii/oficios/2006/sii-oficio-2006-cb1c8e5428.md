@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-03
+- Fecha: 2006-01-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1109.doc
 - Hash SHA-256: 5c51de620c7d487b87bd766a73b5f64520120dc2b7619ac80c00a7a073ee5df6
 
 ## Resumen
 
-de 1992 � Resoluci�n Exenta N� 6.080, de 1999. Word No se encuentran afecta a IVA la Indemnizaci�n por P�rdida o Da�o de Mercader�as. (Oficio N� 373, de 03.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 12�, N� 11, Art. 18�, Art. 19�, Art. 52�, Art. 53�. Word IVA en Arriendo y Concesi�n de Locales que prestan Servicios de Fotocopiado dentro de un Recinto Universitario. (Oficio N� 290, de 26.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impu…
+Word IVA en Arriendo y Concesi�n de Locales que prestan Servicios de Fotocopiado dentro de un Recinto Universitario. (Oficio N� 290, de 26.01.2006)
 
 ## Referencias detectadas
 

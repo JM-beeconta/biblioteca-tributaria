@@ -11,7 +11,7 @@
 
 ## Resumen
 
-3, de 15.04 2005) Word Tributaci�n que afecta a los Excedentes de Libre Disposici�n, conforme a las Normas del Art�culo 42� ter de la Ley de la Renta, en concordancia con lo dispuesto por las Normas del Art�culo 6� transitorio de la Ley N� 19.768, de 2001 Renta � Actual Ley Sobre Impuesto a la � 17�, N� 1� C�digo Civil, Art. 2.446�. Word Improcedencia de Calificar como da�o Emergente las Sumas Pagadas a un Acreedor en Virtud de un Acuerdo Transaccional que ordena cumplir un Fallo Arbitral, conforme lo dispuesto po…
+Word Improcedencia de Calificar como da�o Emergente las Sumas Pagadas a un Acreedor en Virtud de un Acuerdo Transaccional que ordena cumplir un Fallo Arbitral, conforme lo dispuesto por el N� 1, del Art�culo 17�, de la Ley de la Renta. (Ord. N� 1.042, de 15.04.2005)
 
 ## Referencias detectadas
 

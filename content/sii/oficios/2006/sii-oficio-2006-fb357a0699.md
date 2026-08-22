@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-15
+- Fecha: 2006-05-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1685.doc
 - Hash SHA-256: ace8b980894d115823de9abd8125064817f8bf65292907bbc4da42a9305980d1
 
 ## Resumen
 
-por Res. Ex. N�s 20, de 2001 y N�47�, de 2004. Word Se solicita pronunciamiento respecto a la aplicaci�n del art. 18 ter., a inversionistas registrados en el mercado para operar en operaciones de canje de ADR (Flowback) y aplicaci�n de la Res. Ex. N�5412, de 2000 a operaciones de Reverse Repo. (Ord. N�1.705, de 15.05.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� Letra A. N�1� letra c) � Decreto Ley N� 600, de 1974, Sobre Estatuto de la Inversi�n Extranjera, Art. 4�. Word Solicita opini�n del Servicio res…
+Word Solicita opini�n del Servicio respecto a la posibilidad de que se aplique la normativa del Capitulo XIV del Compendio de Normas de Cambios Internacionales, a la reinversi�n de utilidades proveniente de proyectos acogidos al Decreto Ley N� 600, de 1974. (Ord. N� 1685, de 12.05.2006)
 
 ## Referencias detectadas
 

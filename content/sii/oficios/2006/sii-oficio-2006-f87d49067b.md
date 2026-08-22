@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="2"> Decreto Ley N� 3.063 de 1979 � Art. 46 � D.F.L. N� 33 de 1981 del Ministerio de Educaci�n � Circular N� 24 de 1993. Tratamiento tributario de donaciones para campa�a solidaria conforme a las normas del art�culo 46 del D.L. N� 3063 de 1979, sobre Rentas Municipales. (Ord. N� 3053 de 22.06.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3�, ART. 10�, ART.14� � Ley N�18.010, Art.1�. Word Solicita pronunciamiento de interpretaci�n de aplicabilidad del art�culo 3� de la Ley de Timbres y E…
+Word Solicita pronunciamiento de interpretaci�n de aplicabilidad del art�culo 3� de la Ley de Timbres y Estampillas, en las operaciones de la empresa que se describen en la presentaci�n. (Ord. N�3.049, de 22.06.2006)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-09-16
+- Fecha: 2008-08-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja2407.htm
 - Hash SHA-256: 42db499a7790d89a5340c4a78ac5116308792de654e3b6cdb2df7d9f96c63d6f
 
 ## Resumen
 
-de una obra p�blica, realiza a favor del Fisco. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 52� � Ley N�19.970, Art. 15�. (Ord. N�2.729, de 16.09.2008) Word Impuesto al Valor Agregado que afecta a los servicios de determinaci�n de perfiles gen�ticos y al servicio de cotejo de dichos perfiles. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � D.S. de Hacienda, N� 1.139. (Ord. N� 2.407, de 20.08.2008) Word Aplicaci�n de I…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � D.S. de Hacienda, N� 1.139. (Ord. N� 2.407, de 20.08.2008)
 
 ## Referencias detectadas
 

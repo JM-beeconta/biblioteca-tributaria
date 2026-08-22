@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, letra m) � C�digo Tributario, Art. 69� � Ley sobre Impuesto a la Renta, Art. 17�, N�8, Art. 20�, Art. 31�. Word Tratamiento Tributario del Aporte de Bienes Ra�ces a una Sociedad. (Oficio N� 027, del 05.01.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letras b) y m), Art. 27� bis � C�digo Civil Art. 571� � Decreto Supremo N� 1.139, de 1990. Word Aplicaci�n del Hecho Gravado en el Art�cul…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letras b) y m), Art. 27� bis � C�digo Civil Art. 571� � Decreto Supremo N� 1.139, de 1990.
 
 ## Referencias detectadas
 

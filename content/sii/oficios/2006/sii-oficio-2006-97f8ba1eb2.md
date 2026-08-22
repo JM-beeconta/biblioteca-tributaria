@@ -11,7 +11,7 @@
 
 ## Resumen
 
-res y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24� N�2� - Art. 12� DFL. N�2 Del Ministerio de Hacienda, de 1959 � Art. 3� del D.L. N� 2.552 del Ministerio de la Vivienda y Urbanismo, de 1979. Word Alcance de la exenci�n del impuesto de timbres y estampillas, establecida en el art�culo 24 N�2, respecto de las viviendas econ�micas, en caso de solicitud de devoluci�n de impuesto. (Ord. N� 1.219 de 31.03.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Ley N� 18.010, Art. 1� � Oficio…
+31.03.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Ley N� 18.010, Art. 1� � Oficios N�s 1.086, de 2002 y 3.467, de 2004. (Ord. N� 115, de 13.01.2006)
 
 ## Referencias detectadas
 

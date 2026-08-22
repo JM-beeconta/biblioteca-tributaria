@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ienda � Circular N� 51, de 2004. Word Tributaci�n de los Contribuyentes Agricultores, conforme a las Normas de la letra b) del N�1, del Art�culo 20�, de la Ley de la Renta. (Ord. N� 761, de 24.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 3, Art. 29�, Art. 30�, Art. 31� � Decreto con Fuerza de Ley N� 90, de 1979, Art. 3�. Word Documentaci�n Tributaria que seg�n los Art�culos 53� y 55� del Decreto Ley N� 825,de 1974, y art�culo 3�, del Decreto con Fuerza de Ley N�90, de 1979, corresponde emitir en…
+Word Documentaci�n Tributaria que seg�n los Art�culos 53� y 55� del Decreto Ley N� 825,de 1974, y art�culo 3�, del Decreto con Fuerza de Ley N�90, de 1979, corresponde emitir en Prestaciones de Servicios Funerarios. (Ord. N� 760, de 24.03.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-08
+- Fecha: 2005-07-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja983.doc
 - Hash SHA-256: bf7029902a42b315f4fc3a70c6cfe82e1275a8dcdad59440b2498c139f3b68c4
 
 ## Resumen
 
-i�n de bien Ra�z Agr�cola, conforme a las normas de la letra b) del N� 8 del art�culo 17 de la ley del ramo, en concordancia con lo establecido en el art�culo 18 de la misma ley. (Ord. N� 2.511, de 08.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, letra A), Art. 14� bis, Art. 56�, N� 3, Art. 63�, Art. 31�, N� 5 � Circulares N�s 59, de 1991 y 49, de 1997. Word Tributaci�n de Sociedad acogida a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 2.493, de 06.07.2005) Renta � Actual Ley Sobre…
+Word Tributaci�n de Sociedad acogida a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 2.493, de 06.07.2005)
 
 ## Referencias detectadas
 

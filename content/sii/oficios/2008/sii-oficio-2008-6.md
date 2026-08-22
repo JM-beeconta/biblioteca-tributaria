@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s 41�, de 1999 y 40�, de 2001 � Oficio N� 2.929, de 2003. (Ord. N� 831, de 24.04.2008) Word Aplicaci�n de las instrucciones sobre Tratamiento Tributario de las Becas de Estudio, contenidas en las Circulares N�s 41, de 1999 y 40� de 2001. Renta � Actual Ley Sobre Impuesto a la � Art. 42�Bis, Art. 55� Letra b)�Circulares N�s 7�, de 1985, 54�, de 1986 y 53�, de 1990 � Oficio N� 6.524, de 2003 y Oficio N�51, de 2006. (Ord. N� 830, de 24.04.2008) Word Materias sobre Normas Tributarias del Ahorro Previsional Voluntario,…
+Word Materias sobre Normas Tributarias del Ahorro Previsional Voluntario, respecto de las cuales se solicita confirmar o aclarar.
 
 ## Referencias detectadas
 

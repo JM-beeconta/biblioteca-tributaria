@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-20
+- Fecha: 2006-12-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4015.htm
 - Hash SHA-256: c89cdef7dede59d9d461797d035aa9b21ef3ee3fd46b796b54c7e7ccc5fdfd7e
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Letra k), Art. 2�, N� 1 � Decreto Ley N�910, de 1975, Art. 21� Word Procedencia de Cr�dito Especial para Empresas Constructoras del Art�culo 21�, del Decreto Ley N� 910, de 1975. (Oficio N� 4.905, de 20.12.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.L. N� 910, de 1975, Art. 21�. Word Procedencia del beneficio establecido en el art�culo 21� del D.L. N� 910, de 1975, en la construcci�n e instalaci�n de vivi…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.L. N� 910, de 1975, Art. 21�.
 
 ## Referencias detectadas
 

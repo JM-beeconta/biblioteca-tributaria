@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-28
+- Fecha: 2007-05-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4096.doc
 - Hash SHA-256: 6b798b4c1f0624bc0f46184dc781b54a8975ef9e8fef5b8671f57c8a364a2ab5
 
 ## Resumen
 
-ref='ventas/ja4102.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � C�digo de Comercio, Art. 236� � Res. Ex. N� 6.080, de 1999. (Ord. N� 1.161, de 28.05.2007) Word Emisi�n de facturas por ventas y servicios no gravados o exentos de IVA en caso de recuperaci�n de gastos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 1�, inciso 8. (Ord. N� 988, de 07.05.2007) Word Aplicaci�n del componente fijo del Impuesto al Gas Natural Comprimido e…
+Word Aplicaci�n del componente fijo del Impuesto al Gas Natural Comprimido en caso de robo de veh�culo.
 
 ## Referencias detectadas
 

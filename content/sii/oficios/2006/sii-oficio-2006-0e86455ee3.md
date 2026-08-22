@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-14
+- Fecha: 2006-09-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3974.doc
 - Hash SHA-256: f6fe7c703418d3558359bb8b5641770531dcbb39673f84ec26a6d4ce251a2689
 
 ## Resumen
 
->Renta � Actual Ley Sobre Impuesto a la � Art. 3, Art.17 N�17, Art. 41 A � Circular N�52, de 1993. Word Situaci�n Tributaria de Extranjero domiciliado en Chile, en caso de internar Fondos de Pensiones y Ahorros directamente a trav�s del Mercado Cambiario Formal, conforme a las normas de los art�culos 3� y 41� A de la Ley de la Renta. (Ord. N� 3.983, de 14.09.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42 Bis, Art. 50. Word Solicita Pronunciamiento con el objeto de establecer la forma de hacer efectiva la R…
+Word Solicita Pronunciamiento con el objeto de establecer la forma de hacer efectiva la Rebaja del Ahorro Previsional Voluntario en caso de Socio de una Sociedad de Profesionales de la Segunda Categor�a. (Ord. N� 3.974, de 13.09.2006)
 
 ## Referencias detectadas
 

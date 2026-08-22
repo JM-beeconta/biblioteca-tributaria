@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont> Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�5�, Art. 41� - Oficio N�3.670, de 2004. (Ord. N� 3.230, de 27.11.2007) Word Tributaci�n de la Cesi�n de Cr�ditos que se indica. Renta � Actual Ley Sobre Impuesto a la � Art.30�, Art.31� - C�digo Civil, Art. 1.386. (Ord. N�3.229, de 27.11.2007) Word Servicio de Transporte Gratuito que se indica no puede ser objeto de Donaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 17� N�1� - C�digo Civil, Art. 847. (Ord. N�3.228, de 27.11.2007) Word Solicita se confir…
+Renta � Actual Ley Sobre Impuesto a la � Art.30�, Art.31� - C�digo Civil, Art. 1.386.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-10-11
+- Fecha: 2005-09-29
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1035.htm
 - Hash SHA-256: d53fbfe64d6884c29f47d80191db58dca8efeada707f2be1cc35f043790a6f45
 
 ## Resumen
 
-o. (Ord. N� 3.917, de 11.10.2005) Empresas Individuales de Responsabilidad Limitada � Ley N� 19.857, Art. 18. ( Word Solicita se rectifique respuesta publicada en Sitio Web del Servicio de Impuestos Internos relativa a las Empresas Individuales de Responsabilidad Limitada Ord. N� 3.790, de 29.09.2005) Operaciones Hipotecarias � Emisi�n de Documentos Tributarios � Resoluci�n Exenta N� 07, de 2005. Word Emite Pronunciamiento sobre Consultas Relativas a los Comprobantes que deben emitirse por Servicios relacionados c…
+29.09.2005) Operaciones Hipotecarias � Emisi�n de Documentos Tributarios � Resoluci�n Exenta N� 07, de 2005.
 
 ## Referencias detectadas
 

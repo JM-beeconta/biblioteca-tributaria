@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el caso que se indica. (Ord. N� 136, de 13.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� � Circulares N�s 92, de 1974, 61, de 1976, 65 y 149, de 1977, 49, de 1978 y 47 y 78, de 1979. Word Vigencia de Exenci�n de Impuesto de Primera Categor�a de la Ley de la Renta y de la Ley de Timbres y Estampillas y Papel Sellado, a favor de Instituci�n de Beneficencia que indica. (Ord. N�135, de 13.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b), Art. 18� � Decreto Ley N� 2.695, de 1979. W…
+, de 13.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b), Art. 18� � Decreto Ley N� 2.695, de 1979.
 
 ## Referencias detectadas
 

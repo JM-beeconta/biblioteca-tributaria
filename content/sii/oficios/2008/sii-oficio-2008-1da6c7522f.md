@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � D.L. N�1.328, Art. 13�, N�1 � Circular N� 7, de 2002. (Ord. N� 2.731, de 16.09.2008) Word Situaci�n Tributaria de enajenaci�n de acciones, conforme a las normas del Art�culo 18� ter de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 18.046, Art. 94 � D.L. N� 1.328, Art. 13�, N�1. (Ord. N� 2.730, de 16.09.2008) Word Las acciones que se asignan a otras sociedades producto de la divisi�n de una sociedad, pueden…
+Word Las acciones que se asignan a otras sociedades producto de la divisi�n de una sociedad, pueden acogerse al beneficio tributario del art�culo 18� ter de la Ley de la Renta.
 
 ## Referencias detectadas
 

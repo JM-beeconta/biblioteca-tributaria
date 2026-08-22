@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-22
+- Fecha: 2008-10-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja2923.htm
 - Hash SHA-256: b74ca6aa30172154d6b9dc17bf7499cd0d66441e7c39191466ab30e9c47ae4e0
 
 ## Resumen
 
-d Situaci�n tributaria de comisiones pagadas por un banco a sus empleados por encargo de su mandante, un grupo financiero y reembolsadas al mandatario. Renta � Actual Ley Sobre Impuesto a la � Art. 10� � C�digo Tributario, Art. 64�. (Ord. N� 3.024, de 22.10.2008) Word Costo tributario de la adquisici�n de acciones en el caso que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 56�, N�3, Art. 63� � Ley N� 18.775, Art. 1� � Circular N� 59, de 1991. (Ord. N� 2.923, de 10.10.2008) Word Situaci�n…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis, Art. 56�, N�3, Art. 63� � Ley N� 18.775, Art. 1� � Circular N� 59, de 1991. (Ord. N� 2.923, de 10.10.2008)
 
 ## Referencias detectadas
 

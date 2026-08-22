@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-15
+- Fecha: 2006-11-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4006.htm
 - Hash SHA-256: d98db41265800654e926598c20203865a12fe37692971ce8e5cb3b94067783f9
 
 ## Resumen
 
-3�. Word Formula diversas consultas relacionadas con el hecho gravado especial establecido en el Art. 8�, letra g), del D.L. N� 825; con la determinaci�n de su base imponible y con la documentaci�n que procede emitir cuando producto de la rebaja dispuesta en el Art. 17�, del D.L. N� 825, no procede recargar IVA a las cuotas de arrendamiento. (Oficio N� 4.580, de 15.11.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 1� Word Consulta sobre Recaudaci�n de parte Variable…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 1�
 
 ## Referencias detectadas
 

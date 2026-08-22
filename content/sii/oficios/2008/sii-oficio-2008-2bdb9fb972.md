@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e='arial' size='1'> Renta � Actual Ley Sobre Impuesto a la � Arts. 15�, 19�, 20� N�2� y 29�. (Ord. N� 837, de 24.04.2008) Word Situaci�n tributaria del retorno de inversiones del exterior, consistentes en instrumentos financieros. Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�4� - C�digo Tributario, Art. 17� y 69� (Ord. N� 836, de 24.04.2008) Word Solicita pronunciamiento en relaci�n con el efecto que produce el t�rmino de giro sobre las inversiones en acciones y pr�stamos en cuenta corriente que posee una s…
+Word Solicita pronunciamiento en relaci�n con el efecto que produce el t�rmino de giro sobre las inversiones en acciones y pr�stamos en cuenta corriente que posee una sociedad an�nima en una sociedad an�nima relacionada.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 192
 - Año: 2006
-- Fecha: 2006-05-08
+- Fecha: 2006-05-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1613.doc
 - Hash SHA-256: ae9859859e74fdb102e392030c40b7ad08a4d6aa17eeeb694e8260bd8340d2aa
 
 ## Resumen
 
-ares N�60, de 1990, N�40, de 1991 y N�17�, de 1993 � Resoluci�n Ex. N�2154, de 1991. Word Dividendos sin cr�dito de Primera Categor�a percibidos por una S.A. de otra sociedad an�nima constituida en Chile, deben registrarse en el FUT, de acuerdo a lo dispuesto por el art. 14, de la Ley de la Renta. (Ord. N� 1618, de 08.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 40, N�2� - Ley N�10.502, Art. 4� - Oficio N�192, de 2000. Word Se informa sobre vigencia de la Ley N�10.502, de 1952 y sus alcances en relaci�n…
+Word Se informa sobre vigencia de la Ley N�10.502, de 1952 y sus alcances en relaci�n con los impuestos establecidos en la Ley de la Renta. (Ord. N� 1613, de 05.05.2006).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N�3.059, de 1979, Art. 7�. (Ord. N� 285, de 11.02.2008) Word Recuperaci�n del Impuesto al Valor Agregado mediante el mecanismo establecido en el Art. 36� del D.L. 825, por parte de Empresas Navieras que efect�an Transporte Internacional de Pasajeros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N�910, de 1975, Art. 21� - Circular N�26, de 1987 � C�digo Tributario, Art. 126�. (Ord. N� 284, de 11,02.2008) Word Consulta sobre procedencia del cr�dito especial del Art. 21�, de D.L. N…
+Word Consulta sobre procedencia del cr�dito especial del Art. 21�, de D.L. N�910, de 1975, en el caso de un contribuyente que no reflej� la rebaja de dicho cr�dito, en las facturas emitidas por la construcci�n de viviendas destinadas a la habitaci�n.
 
 ## Referencias detectadas
 

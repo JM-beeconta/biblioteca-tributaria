@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-06-04
+- Fecha: 2008-04-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja875.doc
 - Hash SHA-256: a23e71812fcb28a1c7b794ca05470359998b1aeb12cd62806593f83a625b9fcb
 
 ## Resumen
 
-382, de 1988 � Decreto N� 1.199, de 2004, del Ministerio de Obras P�blicas � Circular N� 24, de 2008 � (Ord. N� 1.198, de 04.06.2008) Word Tratamiento tributario de los cr�ditos incobrables, conforme a lo establecido en el N�4, del art�culo 31�, de la Ley Sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 58� N�2�, Art. 74� N�4�, Art. 79� - Ley N�18.046, sobre Sociedades An�nimas, Art. 81�. (Ord. N� 875, de 25.04.2008) Word Procedencia de efectuar retenci�n de impuesto adicional del N�4� del…
+Word Procedencia de efectuar retenci�n de impuesto adicional del N�4� del art�culo 74 de la Ley de impuesto a la Renta en el caso que indica.
 
 ## Referencias detectadas
 

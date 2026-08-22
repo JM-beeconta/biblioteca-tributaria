@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-18
+- Fecha: 2005-07-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja985.doc
 - Hash SHA-256: 88ca0a318a36a5fd8648ba143a27fb7552519566f88ff24e7df1458bd51d03a6
 
 ## Resumen
 
-de 1974, Art. 12�, Letra E), N� 7. Word Tributaci�n aplicable a la Adquisici�n de un Sistema Inform�tico en el Exterior, conforme a lo dispuesto por el N� 2, del Art�culo 59�, de la Ley de la Renta. (Ord. N� 2.591, de 18.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 9 � Ley Org�nica Constitucional de Municipalidades, Art. 37�. Word Tributaci�n desembolsos relacionados con la adquisici�n de concesiones municipales por parte de una nueva sociedad distinta de aquella que realiz� los desembolsos para…
+Word Tributaci�n desembolsos relacionados con la adquisici�n de concesiones municipales por parte de una nueva sociedad distinta de aquella que realiz� los desembolsos para la construcci�n, conforme a lo dispuesto por el art�culo 31 N� 9 de la Ley de la Renta, en relaci�n con el art�culo 37 de la Ley Org�nica Constitucional de Municipalidades. (Ord. N� 2.512, de 08.07.2005)
 
 ## Referencias detectadas
 

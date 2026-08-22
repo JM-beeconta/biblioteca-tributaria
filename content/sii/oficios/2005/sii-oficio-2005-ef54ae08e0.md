@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-04-13
+- Fecha: 2005-04-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja926.doc
 - Hash SHA-256: 5de5d0a61e5876232cda9db8c1462a853dffc0d900f8f22a301df633c0fe5792
 
 ## Resumen
 
-de 2003. Word Contribuyentes que tienen Derecho a Invocar el Beneficio Tributario por Ahorro Previsional Voluntario a que se Refiere al Art�culo 42� bis de la Ley de la Renta. (Ord. N� 986, de 13.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 22�, N� 2 � Ley de Rentas Municipales, Art. 40� y 41� � Circular N� 55, de 1975. Word Tributaci�n de los Comerciantes Ambulantes o Estacionados conforme a las Normas de los Art�culos 22�, N�2 y 24 de la Ley de la Renta. (Ord. N� 969, de 11.04.2005) Renta � Actual Ley…
+Word Tributaci�n de los Comerciantes Ambulantes o Estacionados conforme a las Normas de los Art�culos 22�, N�2 y 24 de la Ley de la Renta. (Ord. N� 969, de 11.04.2005)
 
 ## Referencias detectadas
 

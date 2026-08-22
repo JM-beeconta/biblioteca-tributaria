@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-07-04
+- Fecha: 2005-06-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja979.doc
 - Hash SHA-256: 63f04672d093f4b317412a5b93bca3720d1203680c828210ef0c186ef88a611a
 
 ## Resumen
 
-de 1980 � Circular N� 23, de 2002. Word Tratamiento tributario de los excedentes de libre disposici�n, conforme a lo dispuesto por el art�culo 42 ter de la Ley de la Renta. (Ord. N� 2.446, de 04.07.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 38� bis, Art. 14�, Art. 74�, N� 4 � C�digo Tributario, Art. 69� � Circulares N�s 53 y 60, de 1990, 17, de 1995. Word Situaci�n tributaria de los excesos de retiros en el caso del fallecimiento de un socio de una sociedad de responsabilidad limitada. (Ord. N� 2.331, de…
+Word Situaci�n tributaria de los excesos de retiros en el caso del fallecimiento de un socio de una sociedad de responsabilidad limitada. (Ord. N� 2.331, de 28.06.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-23
+- Fecha: 2006-05-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1708.doc
 - Hash SHA-256: d51d6c5befbf23a40e198ebf0cc033cabf41df32617985a116e753ba173ff09c
 
 ## Resumen
 
-la importaci�n de bienes de capital y si el posterior arrendamiento con opci�n de compra de los bienes internados constituyen operaciones gravadas con IVA. (Oficio N� 1.850, de 23.05.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.591, Art. 29� - Ley N� 18.046, Art. 99, Art. 103 � C�digo Tributario, Art. 69� - Circular N�12, de 1987. Word Procedencia de la emisi�n de Notas de D�bito a los acreedores del fallido que previa verificaci�n de sus cr�ditos han rectificado el formular…
+Word Procedencia de la emisi�n de Notas de D�bito a los acreedores del fallido que previa verificaci�n de sus cr�ditos han rectificado el formulario 29, y respecto de una empresa continuadora legal del acreedor original, en virtud de una fusi�n por absorci�n. (Oficio N�1708, de 15.05.2006).
 
 ## Referencias detectadas
 

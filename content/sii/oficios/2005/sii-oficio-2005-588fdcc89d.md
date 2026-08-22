@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-08-04
+- Fecha: 2005-08-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja997.doc
 - Hash SHA-256: f04ee07ff7f3f729855c2791fb922aae8a322dfe462bc43c70a765d87bed4aa7
 
 ## Resumen
 
-5, N� 6, letras b) y c) y N� 7 � Ley de la Renta, Art. 20�, N�4 � C�digo Civil, Art. 19�. (Ord. N� 2.887, de 04.08.2005) Word Consulta sobre Tributaci�n aplicable a Servicios de Hemodi�lisis y Di�lisis Peritoneal, prestados por un Centro M�dico. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley de la Renta, Art. 20�, Art. 42�, N� 2. (Ord. N� 2.858, de 01.08.2005) Word Solicita se reclasifique a las Empresas de Aseo como contribuyentes exentos de IVA, por encontrarse Sujetos a las Normas del…
+Word Solicita se reclasifique a las Empresas de Aseo como contribuyentes exentos de IVA, por encontrarse Sujetos a las Normas del Art�culo 42�, N�2, de la Ley de la Renta.
 
 ## Referencias detectadas
 

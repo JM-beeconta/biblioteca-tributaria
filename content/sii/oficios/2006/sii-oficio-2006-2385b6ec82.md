@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-17
+- Fecha: 2006-10-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3988.doc
 - Hash SHA-256: a2d63299e8a8be873f95147f729d118377986b2b9be5b26306e3f8adc2f1024d
 
 ## Resumen
 
-2, de 17.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � D.L. N� 3.063, de 1979. Word Situaci�n Tributaria de los Aportes que efect�an los part�cipes a las Sociedades Administradoras de Fondos Mutuos frente al Capital Propio a que se Refiere el Art�culo 41�, N�1, de la Ley de la Renta. (Ord. N� 4.243, de 13.10.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18�. Word Situaci�n Tributaria de la Enajenaci�n de Derechos o Cuotas sobre un Bien Ra�z pose�do en Comunidad, adquirido por S…
+Word Situaci�n Tributaria de la Enajenaci�n de Derechos o Cuotas sobre un Bien Ra�z pose�do en Comunidad, adquirido por Sucesi�n por Causa de Muerte, conforme lo dispuesto por los Art�culos 17�, N�8, letra i) y N� 18�, de la Ley sobre Impuesto a la Renta y Art�culo 46�, de la Ley de Impuesto a las Herencias, Asignaciones y Donaciones. (Ord. N�4.242, de 13.10.2006)
 
 ## Referencias detectadas
 

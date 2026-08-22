@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-09
+- Fecha: 2005-11-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1064.doc
 - Hash SHA-256: 43036d7ce998e4a61e1bdecc9d0610a38ed1950b9c83edf42a3dda41cd3d9535
 
 ## Resumen
 
-de 1999. (Ord. N� 4.843, de 09.12.2005) Word No procede aplicar el Tratamiento Tributario que afecta al Contrato de Asociaci�n o Cuentas en Participaci�n, cuando �ste es celebrado por Personas que no son Comerciantes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 55� � Res. Exentas N�s 6.080, de 1999 y 5007, de 2000. (Ord. N� 4.651, de 24.11.2005) Word Documentaci�n que corresponde Emitir en caso de una Venta de Bienes Situados en el Extranjero y que posteriormente son Importad…
+Word Documentaci�n que corresponde Emitir en caso de una Venta de Bienes Situados en el Extranjero y que posteriormente son Importados a Chile.
 
 ## Referencias detectadas
 

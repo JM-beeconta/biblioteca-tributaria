@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� - Circular N�45�, de 1991 � D.S. de Economia N�348, de 1975, Art. 1� y 2� Letra b). (Ord. N� 869, de 25.04.2008) Word Tratamiento tributario de una operaci�n de exportaci�n de vino que tendr�a las particularidades que se indican. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23� N�5� - D. S. De Hacienda N�55, de 1977, Art. 71� Bis � Circular N�93�, de 2001 � Res. Ex. N�14�, de 2005. (Ord. N� 867, de 25.04.2008) Word Consulta si el impuesto soportado en facturas emitidas con posteriori…
+Word Consulta si el impuesto soportado en facturas emitidas con posterioridad a su fecha de vigencia, da derecho a cr�dito fiscal.
 
 ## Referencias detectadas
 

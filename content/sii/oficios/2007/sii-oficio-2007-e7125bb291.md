@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-03-02
+- Fecha: 2007-02-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4063.doc
 - Hash SHA-256: 23aed2599f345bb45ad8b68b17c67f403270d9b14e2c5b174c45b2d194ecdbd7
 
 ## Resumen
 
-(Ord. N� 517, de 02.03.2007) Word Tratamiento tributario de las cuotas cobradas por corporaciones privadas educacionales, seg�n lo dispuesto por el art�culo 20�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N��s 5 y 7 � Ley N� 18.046, Art. 16� � Circular N� 27, de 1984. (Ord. N� 510, de 28.02.2007) Word Situaci�n tributaria del reajuste de los saldos insolutos de las acciones suscritas y no pagadas, a que se refiere el art�culo 16�, de la Ley N�18.046. Renta � Actual Ley Sobre Impuesto…
+Word Situaci�n tributaria del reajuste de los saldos insolutos de las acciones suscritas y no pagadas, a que se refiere el art�culo 16�, de la Ley N�18.046.
 
 ## Referencias detectadas
 

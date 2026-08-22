@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-01-10
+- Fecha: 2005-01-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja869.htm
 - Hash SHA-256: 83ff4bcd9772b1fdf4c2c5b9ad0c5bd9c22e4ba06926555ac731d5ea8e36e34e
 
 ## Resumen
 
-Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, Art. 24� � C�digo Tributario, Art. 126� � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 076, de 10.01.2005) Word Consulta sobre la Procedencia de autorizar Rectificatoria del F29, por Aumento del remanente de Cr�dito Especial, del Art�culo 21�, del Decreto Ley N� 910 o aumento del Cr�dito Fiscal, en diversas Situaciones que se detallan. (Art. 1126�, del C�digo Tributario) Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 42�, letra…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 42�, letra d). (Ord. N� 069, de 07.01.2005)
 
 ## Referencias detectadas
 

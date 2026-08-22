@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 652
 - Año: 2006
-- Fecha: 2006-03-08
+- Fecha: 2006-03-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1128.doc
 - Hash SHA-256: 8c172e4185a0874a24ed2a2081091f46b4600054a1013ee6f2dd6975f0164b5a
 
 ## Resumen
 
-la Ley de la Renta. (Ord. N� 807, de 08.03.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 41� N�9 � Circular N� 100, de 1975 � Oficio N� 953, de 1997. Word Tratamiento Tributario de la Enajenaci�n de Derechos Sociales, en caso que indica. (Ord. N� 744, de 02.03.2006) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, de 1999, Art. 5� � Oficio N� 652, de 2005. Word Exigibilidad de Anotaci�n al margen de la Obligaci�n de Radicaci�n a que se refiere el inciso sexto del Art�culo 5�, de la Ley N� 19.606, de 1…
+Word Exigibilidad de Anotaci�n al margen de la Obligaci�n de Radicaci�n a que se refiere el inciso sexto del Art�culo 5�, de la Ley N� 19.606, de 1999. (Ord. N� 735, de 01.03.2006)
 
 ## Referencias detectadas
 

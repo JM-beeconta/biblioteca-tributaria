@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ios de sociedad que explota un establecimiento educacional subvencionado. Renta � Actual Ley Sobre Impuesto a la � Art.42 Ter, Art.52� al 56�, Art. 65� - Circular N�23, de 2002. (Ord. N� 706, de 11.04.2008) Word Tributaci�n de retiros de fondos a t�tulo de excedente de libre disposici�n e instrucciones impartidas por este Servicio para su aplicaci�n. Renta � Actual Ley Sobre Impuesto a la � Art.42 Ter, Art.54� N�3 � Circular N�23, de 2002. (Ord. N� 698, de 11.04.2008) Word Tratamiento tributario de los excedentes…
+Renta � Actual Ley Sobre Impuesto a la � Art.42 Ter, Art.54� N�3 � Circular N�23, de 2002. (Ord. N� 698, de 11.04.2008)
 
 ## Referencias detectadas
 

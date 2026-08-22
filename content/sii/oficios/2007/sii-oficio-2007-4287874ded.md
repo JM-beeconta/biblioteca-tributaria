@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-08-17
+- Fecha: 2007-08-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2360.htm
 - Hash SHA-256: 56cab21a214b7eabd4cd3882cf76f4c114646deb638997ae34fdf843d0877b11
 
 ## Resumen
 
-' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 52� - D. Supremo de Hacienda N�55, de 1977 � Res. N� 6080, de 1999. (Ord. N� 2451, de 17.08.2007) Word Solicita un pronunciamiento sobre el documento legal que debe emitir una Sociedad de Turismo, para respaldar la venta de pasajes a�reos, terrestres o mar�timos que efect�a a empresas e Instituciones. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502 � Ley N�19.764, Art. 2� - C�digo de Comercio, Ar…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N�18.502 � Ley N�19.764, Art. 2� - C�digo de Comercio, Art. 166� - Ord. 1501, de 2004. (Ord. N� 2.360, de 02.08.2007)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�13 � C�digo del Trabajo, Art. 4� � Oficios N�s 684 y 2.999, de 1999 y N� 2.566, de 2004. Word C�mputo del Plazo para el C�lculo del Monto no Constitutito de Renta de Indemnizaciones por A�os de Servicio en Situaci�n Prevista en el Inciso segundo del Art�culo 4�, del C�digo del Trabajo: Todo ello conforme a las Normas de los Art�culos 17� N�13 y 31� N�6 de la Ley de la Renta. (Ord. N� 38, de 09.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 21�,…
+, de 09.01.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 33�, Art. 58�, N�1 � C�digo de Miner�a Art. 163� � Circular N� 58, de 2001.
 
 ## Referencias detectadas
 

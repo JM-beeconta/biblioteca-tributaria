@@ -11,7 +11,7 @@
 
 ## Resumen
 
-07, de 2006 y 551, de 2006. (Ord. N� 1.277, de 18.06.2007) Word Resuelve reconsideraci�n respecto a si las rentas provenientes del servicio de alimentaci�n se encontrar�an exentas del Impuesto de Primera Categor�a, conforme lo establecido en el art�culo 40�, N�1 del la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1. (Ord. N� 1.276, de 18.06.2007) Word Situaci�n tributaria de aporte de acciones a constituci�n de agencia de sociedad an�nima extranjera. Renta � Actual Ley Sobre…
+Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1.
 
 ## Referencias detectadas
 

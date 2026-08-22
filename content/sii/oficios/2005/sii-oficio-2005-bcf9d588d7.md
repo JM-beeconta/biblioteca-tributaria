@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-11-30
+- Fecha: 2005-10-26
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja1037.htm
 - Hash SHA-256: 73e237e2adce81236073214045c2e037c427fea8ddcef14218bfcd0f45a9e6ed
 
 ## Resumen
 
-consecuencia de un Contrato de Mutuo Hipotecario dejado sin efecto por una Escritura Posterior. (Ord. N� 4.738, de 30.11.2005) Ventas a Futuro � Ley N� 20.026, Art. 5� transitorio. Word Aplicaci�n del Art�culo 5� transitorio de la Ley N� 20.026, respecto de las Ventas a Futuro. (Ord. N� 4.273, de 26.10.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N�17 � C�digo Tributario, Art. 126�, Art. 128� � C�digo Civil, Art. 1.707� � Ley N� 19.840, de 2002, Art. 2� transitorio � Circular N� 71…
+26.10.2005) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N�17 � C�digo Tributario, Art. 126�, Art. 128� � C�digo Civil, Art. 1.707� � Ley N� 19.840, de 2002, Art. 2� transitorio � Circular N� 71, de 2002.
 
 ## Referencias detectadas
 

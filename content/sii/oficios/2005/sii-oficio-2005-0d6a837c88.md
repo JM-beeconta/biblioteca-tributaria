@@ -11,7 +11,7 @@
 
 ## Resumen
 
-05) Word Tributaci�n aplicable a la Actividad que pretende desarrollar en Centro de Est�tica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra h) � Ley de la Renta, Art. 20�, N�5 � Decreto Supremo N� 414, de 1991, del Ministerio de Planificaci�n y Cooperaci�n � Ley N� 18.168, de 1982, Art. 1� � Circular N� 47, de 1977. (Ord. N� 4.253, de 24.10.2005) Word Impuesto al Valor Agregado en Contrato para Promover un Sistema Nacional de Informaci�n Social en Internet. Ventas y Servicios…
+Word Impuesto al Valor Agregado en Contrato para Promover un Sistema Nacional de Informaci�n Social en Internet.
 
 ## Referencias detectadas
 

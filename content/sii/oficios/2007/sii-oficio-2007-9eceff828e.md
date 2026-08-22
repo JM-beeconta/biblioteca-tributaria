@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-09
+- Fecha: 2007-05-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4093.htm
 - Hash SHA-256: c050c72a19b452e5a198c184b7c5e0e11c36ba86b679a66d898d8f4206e076aa
 
 ## Resumen
 
-, conforme a lo dispuesto por los art�culos 42� bis y 50�, de la ley precitada. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�13 Art. 31�, D.F.L. N� 44, de 1978, Art. 3�, Art. 19. (Ord. N�1.033,de 09.05.2007) Word Aclara sentido y alcance de Oficio N�2.830, de 2004, del Servicio de Impuestos Internos. Renta � Actual Ley Sobre Impuesto a la � 17�, N� 8, letra i), Art. 18�. (Ord. N� 999, de 07.05.2007) Word Situaci�n Tributaria de la enajenaci�n de una cuota o derecho de dominio sobre dos predios agr�colas ad…
+Renta � Actual Ley Sobre Impuesto a la � 17�, N� 8, letra i), Art. 18�.
 
 ## Referencias detectadas
 

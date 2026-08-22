@@ -11,7 +11,7 @@
 
 ## Resumen
 
-re Impuesto a las � Art. 36�. (Ord. N� 543, de 20.03.2008) Word Organizaci�n Cient�fica solicita devoluci�n de IVA, por servicios contratados para efectuar el repliegue de la expedici�n desde la Base Ant�rtica hasta la ciudad de Punta Arenas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.2� N�2�, Art. 8� - Ley N�20.129, de 2006, Arts. 1�, 6�, 8�, 13� y 14� - Ley de la Renta, Art. 20�. (Ord. N� 484, de 11.03.2008) Word Tributaci�n que afecta a la Comisi�n Nacional de Acreditaci�n por los…
+Word Tributaci�n que afecta a la Comisi�n Nacional de Acreditaci�n por los servicios prestados a las Instituciones de Educaci�n al amparo de la Ley N�20.129, que establece un Sistema Nacional de Aseguramiento de la Calidad de la Educaci�n Superior.
 
 ## Referencias detectadas
 

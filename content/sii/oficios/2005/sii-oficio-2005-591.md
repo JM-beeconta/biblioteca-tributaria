@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 591
 - Año: 2005
-- Fecha: 2005-05-24
+- Fecha: 2005-05-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja959.doc
 - Hash SHA-256: e1c2772bace84674dfa0b08bad532c1a2cb805509f6ec4d21ab60677d14e6a97
 
 ## Resumen
 
-a la � Art. 17�, N�8, letra a), Art. 18�, Art. 18� ter, Art. 20�, N� 5, Art. 56�, N�3, Art. 63�. Word Situaci�n tributaria del Mayor Valor obtenido en la Venta de Acciones de una Sociedad en Comandita por Acciones. (Ord. N� 1.515, de 24.05.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Oficios N�s 2.609, de 2000 y 591, de 2005. Word Tratamiento tributario de Aporte Efectuado para la construcci�n de un Camino, conforme a las Normas del art�culo 31�, de la Ley de la Renta. (Ord. N� 1.497, de 18.05.2005) R…
+Word Tratamiento tributario de Aporte Efectuado para la construcci�n de un Camino, conforme a las Normas del art�culo 31�, de la Ley de la Renta. (Ord. N� 1.497, de 18.05.2005)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-06-30
+- Fecha: 2008-05-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja1175.htm
 - Hash SHA-256: f5a833dec73f0aa7c2bdf4dfa9c5e81a6302229704e4072df6814a7ed5896622
 
 ## Resumen
 
-soportado en la importaci�n de diversos equipos y repuestos relacionados con su giro. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 8�. (Ord. N� 1.363, de 30.06.2008) Word Consulta si es posible dar el tratamiento de gastos reembolsables a pagos efectuados en virtud de un contrato de ejecuci�n de obras. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�3�. (Ord. N� 1175, de 30.05.2008) Wo…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�3�. (Ord. N� 1175, de 30.05.2008)
 
 ## Referencias detectadas
 

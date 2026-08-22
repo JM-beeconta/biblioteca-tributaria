@@ -11,7 +11,7 @@
 
 ## Resumen
 
-857, de 25.04.2008) Word Efectos tributarios de la reorganizaci�n empresarial. Renta � Actual Ley Sobre Impuesto a la � ART. 17� N�8� Letra A, Art. 18� y 18� Ter � Ley N�18.293, de 1984 � Circular N�158�, de 1976. (Ord. N� 856, de 25.04.2008) Word Situaci�n tributaria de la enajenaci�n de acciones. Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�3� - C�digo Tributario, Art. 64� y 200�. (Ord. N� 851, de 25.04.2008) Word Facultad de tasar que establece el C�digo Tributario a operaciones anteriores al plazo de pr…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� N�3� - C�digo Tributario, Art. 64� y 200�. (Ord. N� 851, de 25.04.2008)
 
 ## Referencias detectadas
 

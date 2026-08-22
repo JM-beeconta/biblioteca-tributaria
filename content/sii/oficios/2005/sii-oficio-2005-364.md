@@ -11,7 +11,7 @@
 
 ## Resumen
 
-soportado en el Pago de Primas de Seguros de Vida y Complementarios de Salud, contratados por una Empresa en beneficio de sus Trabajadores. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N� 2, Art. 12�, letra E), N� 10, Art. 8�, Letras a), y g) � C�digo Tributario, Art. 28�, C�digo de Comercio, Art. 3�, N� 11, Art. 507� � Circular N� 29, de 1999 � Oficio N� 364, de 2000. (Ord. N� 2.920, de 09.08.2005) Word Tratamiento Tributario en Materia de Impuesto a la Renta e Impuesto al Valor A…
+Word Tratamiento Tributario en Materia de Impuesto a la Renta e Impuesto al Valor Agregado, de una Asociaci�n o Cuentas en participaci�n.
 
 ## Referencias detectadas
 

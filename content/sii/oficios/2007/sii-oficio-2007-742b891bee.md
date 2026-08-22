@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-02
+- Fecha: 2007-10-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja2996.htm
 - Hash SHA-256: c6fad59ebd2893e9a3894ea3949d4d0294e2b9bd7a3b101fe4ffbab5a90b86f1
 
 ## Resumen
 
-STIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo de Hacienda N� 341, de 1977, Art. 23� - Oficio N�3.175, de 2006. (Ord. N� 3030, de 02.11.2007) Word Resuelve reconsideraci�n respecto a pronunciamiento relativo a la aplicaci�n del r�gimen de Zona Franca establecido en el D.F.L. N�341, de 1977, a los servicios de Seguridad y Vigilancia que ser�n prestados a usuarios de la referida Zona. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y N�2…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�1� y N�2� - Ley de la Renta, Art. 20� N�s 3�, 4� y 5�. (Ord. N� 2.996, de 25.10.2007)
 
 ## Referencias detectadas
 

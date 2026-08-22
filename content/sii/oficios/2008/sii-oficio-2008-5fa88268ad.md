@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-11
+- Fecha: 2008-04-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja660.htm
 - Hash SHA-256: c22f81b1beb9b04acddd8d94105ca5acae9d5c82e7f78f29c7da1aba32cf50b6
 
 ## Resumen
 
-idades de una Sociedad An�nima, respecto del costo de adquisici�n de las acciones de sus accionistas. Renta � Actual Ley Sobre Impuesto a la � Art. 20� N�1, Art.21�, Art.31�, Art.33 N�1�, Art. 39 N�3 � Oficio N�3.670, de 2004.(Ord. N� 694, de 11.04.2008) Word Tributaci�n de rentas provenientes de bienes ra�ces no agr�colas e imputaci�n del cr�dito. Renta � Normas Internacionales � Convenio entre Chile y el Reino Unido de Gran Breta�a e Irlanda del Norte para Evitar la Doble Imposici�n y para Prevenir la Evasi�n Fi…
+Renta � Normas Internacionales � Convenio entre Chile y el Reino Unido de Gran Breta�a e Irlanda del Norte para Evitar la Doble Imposici�n y para Prevenir la Evasi�n Fiscal de los Impuestos a la Renta. Arts. 5�, 7�, 11�, 13� -- Ley de la Renta, Art. 58� y 65�(Ord. N� 660, de 08.04.2008)
 
 ## Referencias detectadas
 

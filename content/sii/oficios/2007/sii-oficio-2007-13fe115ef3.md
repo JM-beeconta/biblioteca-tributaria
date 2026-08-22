@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de 02.08.2007) Word Solicita se aclare aplicaci�n de Circular N�60, de 03/11/2006, en aquellos casos en que los vendedores y prestadores de servicios operan con agentes de naves que a su vez act�an como mandatarios de diversos armadores extranjeros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E N�17, Art. 53� Letra B � Ley N� 18.392, de 1985 � Circular N�56�, de 1991. (Ord. N� 2.354, de 02.08.2007) Word Aplicaci�n de los beneficios de la Ley N� 18.392, de 1985 a los servicio…
+Word Aplicaci�n de los beneficios de la Ley N� 18.392, de 1985 a los servicios prestados por empresas tur�sticas.
 
 ## Referencias detectadas
 

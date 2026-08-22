@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 39�, N�4, letras a, b, c, d y g � Ley N� 18.603, Art. 1� � Decreto Ley N� 1.328, de 1976, Art. 13�, N�1 � Circular N� 158, de 1976, N�27, de 1984 y N�7 de 2002 Word Tributaci�n de Rentas de Capitales Mobiliarios obtenidas por Partido Pol�tico, conforme a las Normas de los Art�culos 20�, N�2, 18� quater y 39�, de la Ley de la Renta. (Ord. N� 4.335, de 07.11.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 41� C � Circulares N�s 52, de 1993 y 5, de 1999. Word Recuperaci�n de Impuestos soportados en el Exteri…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41� C � Circulares N�s 52, de 1993 y 5, de 1999.
 
 ## Referencias detectadas
 

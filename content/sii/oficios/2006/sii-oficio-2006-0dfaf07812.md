@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-10-30
+- Fecha: 2006-10-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4003.htm
 - Hash SHA-256: 8013de8dad5ca3dc81058e75daa3b75ccaa3f3f9d6589924b6272dbe3b770d30
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � Ley sobre Impuesto a la Renta, Art. 20�, N� 3. Word Solicita Pronunciamiento respecto de la aplicaci�n de IVA a Comisiones que se pagan por Servicios de recaudaci�n que indica. (Oficio N� 4.453, de 30.10.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N�6 � Ley N� 18.933, Art. 21� � Decreto Ley N� 2.763, Art. 16�, Art. 26�. Word Monto hasta el cual se encuentra Exenta de Impuesto al V…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N�6 � Ley N� 18.933, Art. 21� � Decreto Ley N� 2.763, Art. 16�, Art. 26�.
 
 ## Referencias detectadas
 

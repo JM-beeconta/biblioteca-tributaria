@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nta N� 6.080, de 1999. Word Consulta si procede emitir Factura por recuperos de Siniestros efectuados por Cuenta de Compa��as de Seguros y si procede por esas Sumas Efectuar Pagos Provisionales Mensuales. (Ord. N� 592, de 01.03.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 29�, Art. 31� � Oficios N�s 1.001, de 1996 y 2.609, de 2000. Word Situaci�n Tributaria de Aportes Privados efectuados para la Construcci�n de una Obra de Uso P�blico: (Ord. N� 591, de 01.03.2005) Renta � Actual Ley Sobre Impuesto a la � Ar…
+Word Situaci�n Tributaria de Aportes Privados efectuados para la Construcci�n de una Obra de Uso P�blico: (Ord. N� 591, de 01.03.2005)
 
 ## Referencias detectadas
 

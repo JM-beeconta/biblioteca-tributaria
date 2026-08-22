@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto a la � Art. 31�, Art. 41�, N�7. Word Tratamiento Tributario de sumas Pagadas por Arrendamiento de Redes de Canales. (Ord. N� 4.578, de 15.11.2006) Renta � Actual Ley sobre Impuesto a la � Art. 58, N�1 � C�digo Tributario, Art. 64. Valor de aporte de acciones a una sociedad de responsabilidad limitada, conforme al art�culo 64 del C�digo Tributario. (Ord. N� 4.577, de 15.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Ley N� 18.168. Word Situaci�n Tributaria de los Pagos por Servicios de T…
+15.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Ley N� 18.168.
 
 ## Referencias detectadas
 

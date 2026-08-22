@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Consulta sobre si corresponde aplicar el Impuesto al Valor Agregado a las Actividades Administrativas y de Intermediaci�n que dos Sociedades prestar�n a otras Empresas del mismo Grupo Econ�mico. (Oficio N� 3720, de 23.08.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, Art. 8�, � Resoluci�n N� 6080, de 1999 � Circular N�39, de 2000 Word Solicita pronunciamiento respecto del tratamiento tributario aplicable a las multas establecidas a empresas contratistas por retraso o incumplimi…
+Word Solicita pronunciamiento respecto del tratamiento tributario aplicable a las multas establecidas a empresas contratistas por retraso o incumplimiento de contratos de construcci�n de obras. (Oficio N� 3718, de 23.08.2006)
 
 ## Referencias detectadas
 

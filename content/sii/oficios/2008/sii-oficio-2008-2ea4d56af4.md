@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-11-07
+- Fecha: 2008-10-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja3102.doc
 - Hash SHA-256: 2f33203247f68603c1d3f0809635dd80f8dd1fff3508cfabb465259cda3b20b8
 
 ## Resumen
 
-Art. 14�, Letra A), N�1, letra c), Art. 58�, N�1 � Ley N�3.918, Art 3�. (Ord. N� 3.412, de 07.11.2008) Word Reinversi�n de utilidades como aportes en la constituci�n de una sociedad de personas, seg�n lo dispuesto en el art�culo 14, letra A), n�mero 1�, letra c), de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 42� bis � Decreto Ley N�3.500, de 1980 � Circular N�31, de 2002. (Ord. N� 3.102, de 29.10.2008) Word Situaci�n tributaria de los retiros de Ahorro Previsional Voluntario ef…
+Word Situaci�n tributaria de los retiros de Ahorro Previsional Voluntario efectuados en distintas AFP, para el pago de cotizaciones previsionales originadas por el cambio de r�gimen previsional.
 
 ## Referencias detectadas
 

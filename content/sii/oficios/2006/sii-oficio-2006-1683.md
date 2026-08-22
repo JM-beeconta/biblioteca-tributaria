@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1683
 - Año: 2006
-- Fecha: 2006-07-25
+- Fecha: 2006-07-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3419.pdf
 - Hash SHA-256: 760f31f47b4b044c337c0437078f9c33ad683892fda6a5e26d3b4533ee05ca24
 
 ## Resumen
 
-/p> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 12 � Circulares N�61, de 1997 y N�65, de 2001. Word Se absuelve la consulta que dice relaci�n a determinar el L�mite de Gastos del 4% a que se refiere el N�12 del art�culo 31 de la Ley de la Renta, por pagos efectuados al Exterior por uso de Marcas, Patentes, F�rmulas, Asesor�as u otras prestaciones similares, en base a los antecedentes acompa�ados. (Ord. N� 3.421, de 26.07.2006) Renta � Ley sobre Impuesto a la � Art. 4 - Convenio entre la Rep�blica de Chil…
+07.2006) Renta � Ley sobre Impuesto a la � Art. 4 - Convenio entre la Rep�blica de Chile y la Rep�blica Argentina para Evitar la Doble Tributaci�n en materia de Impuestos sobre la Renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio- Art. 2, letra d) � C�digo tributario, Art. 8, N� 8 � Oficio N� 1683, de 1992. Concepto de residencia para personas naturales que contempla el Convenio suscrito con Argentina. (Ord. N� 3.419, de 26.07.2006)
 
 ## Referencias detectadas
 

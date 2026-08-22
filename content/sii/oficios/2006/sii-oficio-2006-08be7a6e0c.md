@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-06-23
+- Fecha: 2006-06-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3052.htm
 - Hash SHA-256: 56590bdaf58aee20c18baa18578e732bc383f9b6e002f8047471d98356c14b85
 
 ## Resumen
 
-face='arial' size='1'> Renta � Ley sobre Impuesto a la � Art. 10, Art. 21, Art. 58, N�1, Art. 59, Art. 60.Convenio entre la Rep�blica de Chile y el Reino de Espa�a para evitar la doble imposici�n y prevenir la evasi�n fiscal en materia de Impuestos sobre la Renta y sobre el Patrimonio � Art.5, Art. 6, Art. 7, Art. 8. Tributaci�n de rentas de arrendamiento obtenidas por una empresa a�rea domiciliada en Espa�a. (Ord. N� 3.056, de 23.06.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis � Ley N� 18.775, de 1…
+006) Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis � Ley N� 18.775, de 1989, Art. 1� Transitorio � Circulares N�59, de 1991 y N�49�, de 1997.
 
 ## Referencias detectadas
 

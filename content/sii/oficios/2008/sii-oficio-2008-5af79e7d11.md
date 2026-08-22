@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-05-26
+- Fecha: 2008-04-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja870.htm
 - Hash SHA-256: 27cb13dbbd9b9aed067250d581d526eefdbb3b1e63fee809f088b8e51fab964b
 
 ## Resumen
 
-e composici�n de directorios telef�nicos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� Bis � Circular N�94�, de 2001. (Ord. N� 1135, de 26.05.2008) Word Forma de computar la obligaci�n de restituir las sumas devueltas anticipadamente correspondientes a remanentes de cr�dito fiscal por adquisici�n de activo fijo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�10 � Circular N�31, de 1981. (Ord. N� 870, de 25.04.2008) Word Aplicaci�n de Exenci…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�10 � Circular N�31, de 1981. (Ord. N� 870, de 25.04.2008)
 
 ## Referencias detectadas
 

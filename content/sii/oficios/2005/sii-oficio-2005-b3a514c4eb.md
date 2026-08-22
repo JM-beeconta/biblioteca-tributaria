@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Decreto Ley N� 701, de 1974 � Circulares N�s 58, de 1990 y 78, de 2001. Word R�gimen Tributario que afecta a Sociedad que Desarrolla Actividad Forestal, conforme a las Normas de la Ley de la Renta, en concordancia con las Disposiciones del Decreto Ley N� 701, de 1974. (Ord. N� 504, de 17.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 � Decreto Ley N� 1.604, de 1976, Art. 1�, N� 12 � C�digo Civil, Art. 1.452� � Circular N� 139, de 1976…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1 � Decreto Ley N� 1.604, de 1976, Art. 1�, N� 12 � C�digo Civil, Art. 1.452� � Circular N� 139, de 1976 � Oficio N� 4.097, de 2001.
 
 ## Referencias detectadas
 

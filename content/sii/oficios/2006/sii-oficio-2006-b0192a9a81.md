@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-11-14
+- Fecha: 2006-11-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3997.htm
 - Hash SHA-256: ab10057ca7682e63c35ab5eef6a663f5ca88907a84bc5caa9b85c6ea367d9efb
 
 ## Resumen
 
-e una Sociedad An�nima producto de la Liquidaci�n Voluntaria de dicha Sociedad. (Ord. N� 4.571, de 14.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43� � Decreto Ley N� 3.500, Art. 18�. Word Las Jubilaciones se afectan con el Impuesto Unico de Segunda Categor�a, establecido en el Art�culo 42�, N�1, de la Ley de la Renta. (Ord. N� 4.518, de 08.11.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis � Ley N� 16.271 � Ley N� 19.903 � Oficio N� 3.410, de 2006. Word Aplicaci�n de las norm…
+Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis � Ley N� 16.271 � Ley N� 19.903 � Oficio N� 3.410, de 2006.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2005
-- Fecha: 2005-02-02
+- Fecha: 2005-01-24
 - Categoría: Renta, IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja880.doc
 - Hash SHA-256: 3472f227a1f39653e45763d3237ac79c6a970f236cb4c8c60878bbbfc81f067e
 
 ## Resumen
 
-(Ord. N� 321, de 02.02.2005) Word Aplicaci�n del Beneficio establecido en el Art�culo 21�, del D.L. N� 910, de 1975, a Contratos de Construcci�n a Suma Alzada cuyo objeto es efectuar Ampliaciones de Viviendas con Destino Habitacional. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra i), Art. 10� � Oficio N� 2.814, de 2004. (Ord. N� 198, de 24.01.2005) Word Solicita reconsideraci�n del Oficio N� 2814, de 2004, que hace aplicable el Impuesto al Valor Agregado, de acuerdo con el art…
+Word Solicita reconsideraci�n del Oficio N� 2814, de 2004, que hace aplicable el Impuesto al Valor Agregado, de acuerdo con el art�culo 8� letra i) del D.L. N� 825, a la Actividad de Estacionamiento en la V�a P�blica que desarrolla el consultante.
 
 ## Referencias detectadas
 

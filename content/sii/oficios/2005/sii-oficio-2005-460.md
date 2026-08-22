@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t. 73� � Circulares N�s 126, de 1977 y 103, de 1979. (Ord. N� 3.326, de 05.09.2005) Word Emisi�n de Gu�as de Despacho, en caso de Traslado de Bienes que se manten�an en Dep�sito en una Empresa de Bodegaje. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 9�, Letra e) � C�digo Civil, Art. 1.915 � Oficio N� 460, de 1976. (Ord. N� 3.325, de 05.09.2005) Word Devengo del Impuesto Al Valor Agregado en el Arrendamiento de Bienes Corporales Inmuebles con Instalaciones. Ventas y…
+Word Devengo del Impuesto Al Valor Agregado en el Arrendamiento de Bienes Corporales Inmuebles con Instalaciones.
 
 ## Referencias detectadas
 

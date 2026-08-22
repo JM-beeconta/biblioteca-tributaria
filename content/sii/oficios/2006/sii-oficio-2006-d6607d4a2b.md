@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-09-05
+- Fecha: 2006-09-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3863.htm
 - Hash SHA-256: 6d3ba690fa113bcff86f64b7e129ae22fb141c6697dc056626240537bac8ede0
 
 ## Resumen
 
-t. 43 N�1, Art. 74 N�1 � Ley N�18.156, Art. 7� - Circular N� 1.295, de 2004 de la Superintendencia de Administradoras de Fondos de Pensiones � Oficios N�s 1374 y 1480, de 2004, N�s 104, 5295, 6141, de 2003 y N�2758, de 2002. Word Confirma criterio respecto al Tratamiento Tributario aplicable a las sumas correspondientes a Fondos Previsionales retirados por los T�cnicos Extranjeros conforme a lo dispuesto por el art�culo 7� de la Ley N�18.156. (Ord. N� 3.866, de 05.09.2006) Renta � Actual Ley Sobre Impuesto a la �…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17 N�8, Art. N�18.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Procedencia de Rebajar Intereses Provenientes de Cr�ditos Hipotecarios en caso de Deudor que adquiri� Bien ra�z en Comunidad con su C�nyuge, conforme a las Normas del Art�culo 55� bis de la Ley de la Renta. (Ord. N� 382, de 03.02.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c) � Ley N� 18.046, Art. 94�. Word Efectos Tributarios que produce la Divisi�n de una Sociedad, conforme al Art�culo 94�, de la Ley N� 18.046, sobre Sociedades An�nimas y el Art�culo 14�, de la Ley de la R…
+Word Efectos Tributarios que produce la Divisi�n de una Sociedad, conforme al Art�culo 94�, de la Ley N� 18.046, sobre Sociedades An�nimas y el Art�culo 14�, de la Ley de la Renta. (Ord. N� 381, de 03.02.2005)
 
 ## Referencias detectadas
 

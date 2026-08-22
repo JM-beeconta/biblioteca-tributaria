@@ -11,7 +11,7 @@
 
 ## Resumen
 
-digo Tributario, Art. 64� � Oficio N� 4.011, de 2003. (Ord. N�3.127, de 15.11.2007) Word Solicita ratificaci�n de criterio que dice relaci�n a la situaci�n tributaria de la Permuta de Derechos Sociales de acuerdo a lo establecido en el art. 41� de la Ley de la Renta y art. 64� del C�digo Tributario. Renta � Actual Ley Sobre Impuesto a la � Ley N�19.606, de 1999, Modificada por Ley N�19.946. (Ord. N� 3.126, de 15.11.2007) Word Situaci�n Tributaria que afecta a la Divisi�n de una Sociedad An�nima respecto del Cr�dit…
+Renta � Actual Ley Sobre Impuesto a la � Ley N�19.606, de 1999, Modificada por Ley N�19.946.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-11-27
+- Fecha: 2007-11-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3182.htm
 - Hash SHA-256: 9fc2eb97364b5af044bc2535d62e506c0551c253f2c0af57ec308ac581e7590b
 
 ## Resumen
 
-17� N�1� - C�digo Civil, Art. 847. (Ord. N�3.228, de 27.11.2007) Word Solicita se confirme el criterio que expone, en cuanto a que si lo pagado constituye una indemnizaci�n por da�o emergente, ese pago de conformidad al art.17 N�1�, de la Ley de la Renta, representa un ingreso no renta para todos los efectos tributarios. Renta � Actual Ley Sobre Impuesto a la � Ley N�18.046, Sobre Sociedades An�nimas, Art. 99� - C�digo Tributario, Art. 69. (Ord. N� 3.182, de 20.11.2007) Word Situaci�n Tributaria de saldo FUT y Cr�…
+Renta � Actual Ley Sobre Impuesto a la � Ley N�18.046, Sobre Sociedades An�nimas, Art. 99� - C�digo Tributario, Art. 69.
 
 ## Referencias detectadas
 

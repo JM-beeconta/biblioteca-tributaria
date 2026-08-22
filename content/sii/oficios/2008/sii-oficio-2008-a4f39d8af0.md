@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� - Decreto Supremo N� 348, de 1975, Art. 2� Letra b) � C�digo Tributario, Art. 126� - Circular N�45, de 1991. (Ord. N� 703, de 11.04.2008) Word Plazo que tienen Empresas Navieras para solicitar la devoluci�n del IVA Exportador. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.9�, 42�, 43� y 55� - C�digo Civil, Art. 1.813. (Ord. N� 702, de 11.04.2008) Word Aplicaci�n y devengo del IVA a contrato de transferencia de vino en b…
+Word Aplicaci�n y devengo del IVA a contrato de transferencia de vino en barricas de guarda.
 
 ## Referencias detectadas
 

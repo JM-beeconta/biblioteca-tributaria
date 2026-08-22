@@ -11,7 +11,7 @@
 
 ## Resumen
 
-03.05.2006). Renta � Actual Ley Sobre Impuesto a la � ART. 70�, 71� - Circular N� 8�, del 2000. Word Persona natural, contribuyente de Segunda Categor�a solicita se le informe sobre la forma de acreditar ingresos destinados a la adquisici�n de un bien ra�z a efecto de confeccionar Declaraci�n de Impuesto a la Renta. (Ord. N� 1556, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Decreto Ley N�3.059, de 1979 Sobre Ley de Marina Mercante, Art. 10� - Oficios N�3.911, de 1999 y N� 4.587, de 200…
+de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Decreto Ley N�3.059, de 1979 Sobre Ley de Marina Mercante, Art. 10� - Oficios N�3.911, de 1999 y N� 4.587, de 2000.
 
 ## Referencias detectadas
 

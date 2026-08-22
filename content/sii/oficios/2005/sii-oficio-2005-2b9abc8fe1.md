@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1"> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55. Word Solicita pronunciamiento respecto a la emisi�n de facturas de exportaci�n por servicios prestados a personas sin domicilio ni residencia en Chile. (Oficio N�1.225, de 03.04.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42� Letra d) � Art. 485 del Reglamento Sanitario de los Alimentos � Decreto N�475, de 1999, del Ministerio de Salud � Oficio N� 1.294, de 03.05.2005. Word Solicita se confirme y p…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42� Letra d) � Art. 485 del Reglamento Sanitario de los Alimentos � Decreto N�475, de 1999, del Ministerio de Salud � Oficio N� 1.294, de 03.05.2005.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Renta. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d) � C�digo Sanitario, Art. 97 � Oficio N� 5.490, de 2004. (Ord. N� 2.632, de 21.07.2005) Word Aplicaci�n del Impuesto Adicional del Art�culo 42, del Decreto Ley N� 825, de 1974, a las Bebidas Energizantes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d). (Ord. N� 2.631, de 21.07.2005) Word Aplicaci�n del Impuesto a las Bebidas Alcoh�licas, Analcoh�licas y Productos Similares, estab…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra d). (Ord. N� 2.631, de 21.07.2005)
 
 ## Referencias detectadas
 

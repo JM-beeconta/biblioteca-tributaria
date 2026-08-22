@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-23
+- Fecha: 2006-08-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja3554.doc
 - Hash SHA-256: 7c4c0fc98653c23de48aec6687910e709fab576c2c66bb5a372c0a45e57d9402
 
 ## Resumen
 
-/ja3718.doc">Word Solicita pronunciamiento respecto del tratamiento tributario aplicable a las multas establecidas a empresas contratistas por retraso o incumplimiento de contratos de construcci�n de obras. (Oficio N� 3718, de 23.08.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� N�2�, Art. 8� - Ley sobre Impuesto a la Renta, Art. 20� N�5. Word Solicita pronunciamiento acerca del Tratamiento Tributario de los Servicios de Asesor�as que presta una Empresa a sus clientes. (Oficio N…
+Word Solicita pronunciamiento acerca del Tratamiento Tributario de los Servicios de Asesor�as que presta una Empresa a sus clientes. (Oficio N�3.554, de 07.08.2006)
 
 ## Referencias detectadas
 

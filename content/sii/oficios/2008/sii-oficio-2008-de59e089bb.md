@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-04-25
+- Fecha: 2008-04-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja823.doc
 - Hash SHA-256: 0f08c52f25f5ac0839559ef748c64c42c2d6cc137c6c994640a03a8335f02ab7
 
 ## Resumen
 
-N�3� Y 14�, Art. 42� N�2�, Art. 59� N�2� - Circular N�21�, de 1991. (Ord. N�854, de 25.04.2008) Word Tratamiento tributario de los servicios de telefon�a IP, prestados en el pa�s por una compa��a extranjera a trav�s de vendedores comisionistas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N�910, de 1975, Art. 21�, modificado por Ley N�20.259, de 2008 � Circular N�26, de 1987. (Ord. N� 823, de 24.04.2008) Word Aplicaci�n pr�ctica que tendr� el art�culo 5�, inciso noveno, de la Le…
+Word Aplicaci�n pr�ctica que tendr� el art�culo 5�, inciso noveno, de la Ley N�20.259, que establece una modificaci�n para el periodo transitorio, del Art. 21� del D.L. N�910, de 1975.
 
 ## Referencias detectadas
 

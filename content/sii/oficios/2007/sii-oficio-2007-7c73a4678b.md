@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-02-13
+- Fecha: 2007-01-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja4049.htm
 - Hash SHA-256: 9459de6016154a051da6be7b5c4b40cd8dd9c2c22d28100efb2f7fdadf50ffeb
 
 ## Resumen
 
-e la misma, y del arriendo de canchas de tenis y piscinas. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3 � Circular N� 65, de 2002. (Ord. N� 369, de 13.02.2007) Word Concepto de cambio de propiedad para los efectos de lo dispuesto en el inciso cuarto del N�3, del art�culo 31�, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N��s 4 y 12, Art. 38�, Art. 59�, N�2, Art. 74�, N�4, Art. 79. (Ord. N� 275, de 31.01.2007) Word Tratamiento tributario de pagos efectuados por una filial esta…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N��s 4 y 12, Art. 38�, Art. 59�, N�2, Art. 74�, N�4, Art. 79.
 
 ## Referencias detectadas
 

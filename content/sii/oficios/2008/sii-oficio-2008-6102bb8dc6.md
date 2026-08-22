@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-03-06
+- Fecha: 2008-02-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja408.htm
 - Hash SHA-256: 4184c55a7ec1fe5fe8814a3811dce5348fce6d7de2f940cc91d2e51988258b88
 
 ## Resumen
 
-itarias que suministran Agua Potable Rural. Renta � Actual Ley Sobre Impuesto a la � Art. 46� - Ley N� 20.134, de 2006 � Circular N�37�, de 1990 � Oficio N� 2.595, de 2007. (Ord. N� 452, de 06.03.2008) Word Solicita reconsideraci�n de Oficio N�2.595, de 2007, sobre tratamiento tributario de Bono Extraordinario concedido por la Ley N� 20.134, de 2006. Renta � Actual Ley Sobre Impuesto a la � Arts. 42�, 43�, 45� y 46� - Ley N� 19.490, de 1997, Art. 4� - Circular N�37, de 1990. (Ord. N�408, de 26.02.2008) Word Tribut…
+Renta � Actual Ley Sobre Impuesto a la � Arts. 42�, 43�, 45� y 46� - Ley N� 19.490, de 1997, Art. 4� - Circular N�37, de 1990. (Ord. N�408, de 26.02.2008)
 
 ## Referencias detectadas
 

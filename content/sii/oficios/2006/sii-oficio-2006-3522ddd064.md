@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� 8�, del 2000. Word Persona natural, contribuyente de Segunda Categor�a solicita se le informe sobre la forma de acreditar ingresos destinados a la adquisici�n de un bien ra�z a efecto de confeccionar Declaraci�n de Impuesto a la Renta. (Ord. N� 1556, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�2 � Decreto Ley N�3.059, de 1979 Sobre Ley de Marina Mercante, Art. 10� - Oficios N�3.911, de 1999 y N� 4.587, de 2000. Word Pronunciamiento relativo a la exenci�n del Impuesto Adicional de la Ley…
+Word Pronunciamiento relativo a la exenci�n del Impuesto Adicional de la Ley de la Renta por el pago de honorarios a los abogados que representaron al peticionario en un juicio seguido en contra de un estado extranjero, de acuerdo a los antecedentes que se exponen. (Ord. N�1552, de 03.05.2006).
 
 ## Referencias detectadas
 

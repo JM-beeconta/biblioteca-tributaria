@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-05-03
+- Fecha: 2006-04-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1420.htm
 - Hash SHA-256: 0cf1668de750e0775fe36337b57b92ac64c0ad9723d8c95d549043f243b90049
 
 ## Resumen
 
-mitidos con anterioridad sobre la materia. (Ord. N�1551, de 03.05.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Oficio N�2040, de 2000. Word Se solicita confirmar criterios establecidos por el Servicio, con relaci�n al tratamiento tributario de pagos que deben efectuarse al exterior, de acuerdo a los antecedentes que se indican. (Ord. N� 1518, de 28.04.2006). Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18� � C�digo Civil, Art. 686. . Word Solicita ratificaci�n del criterio respecto a…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18� � C�digo Civil, Art. 686. .
 
 ## Referencias detectadas
 

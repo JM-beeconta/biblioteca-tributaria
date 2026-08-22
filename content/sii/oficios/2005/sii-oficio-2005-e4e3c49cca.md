@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2005
-- Fecha: 2005-12-28
+- Fecha: 2005-12-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1069.doc
 - Hash SHA-256: e1683ad7ae7c4b577ec6203c6dd8d71f63f02b219a05c3b58562773cbb2180ea
 
 ## Resumen
 
-nta/ja1070.htm">Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra d), Art. 18�. Word Tributaci�n que afecta Enajenaci�n de Derechos de Agua, conforme a lo dispuesto por el Art�culo 17�, N�8, letra d), de la Ley de la Renta. (Ord. N� 5.136, de 28.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�1, letra b) � Circulares N�s 58 y 63, de 1990. Word Tributaci�n de Predio Agr�cola, conforme a las normas de la Letra b), del N�1, del Art�culo 20�, de la Ley de la Renta. R�gimen Tributario del Arre…
+Word Tributaci�n de Predio Agr�cola, conforme a las normas de la Letra b), del N�1, del Art�culo 20�, de la Ley de la Renta. R�gimen Tributario del Arrendador u otro Mero Tenedor que explote el Inmueble. (Ord. N�5.059, de 26.12.2005)
 
 ## Referencias detectadas
 

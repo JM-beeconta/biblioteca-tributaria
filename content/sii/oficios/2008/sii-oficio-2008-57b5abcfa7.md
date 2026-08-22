@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-02-18
+- Fecha: 2008-02-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja285.doc
 - Hash SHA-256: 8ea2f915603af91d5f6242e484b0528505a4c596f3c45be6dabe36b93f7d8d69
 
 ## Resumen
 
-las � Art. 3�, Art. 55� - Circular N�103, de 1979.(Ord. N� 310, de 18.02.2008) Word Personas que no son contribuyentes del IVA no se encuentran obligadas a emitir gu�as de despacho en el traslado de bienes corporales muebles que no importan venta. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� Letra E) N�2�, Art. 36� - C�digo de Comercio, Art.1044 � D.L. N�3.059, de 1979, Art. 7�. (Ord. N� 285, de 11.02.2008) Word Recuperaci�n del Impuesto al Valor Agregado mediante el mecanismo esta…
+Word Recuperaci�n del Impuesto al Valor Agregado mediante el mecanismo establecido en el Art. 36� del D.L. 825, por parte de Empresas Navieras que efect�an Transporte Internacional de Pasajeros.
 
 ## Referencias detectadas
 

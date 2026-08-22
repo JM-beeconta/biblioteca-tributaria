@@ -11,7 +11,7 @@
 
 ## Resumen
 
-18� quater � C�digo Civil, Art. 22� � Ley N�18.815, Art. 32�, Art. 41�, N�4 � Ley N� 20.190, de 2007 � Circular N� 58, de 2007. (Ord. N� 2.920, de 10.10.2008) Word Vigencia de las modificaciones incorporadas por la Ley N� 18.815, sobre fondos de inversi�n y a la que se refieren las instrucciones contenidas en la Circular N� 58, de 2007, de este Servicio. Renta � Actual Ley Sobre Impuesto a la � Ley N� 20.241. (Ord. N�2.883, de 06.10.2008) Word Imposibilidad de que las empresas del Estado, puedan acogerse al cr�dit…
+Word Imposibilidad de que las empresas del Estado, puedan acogerse al cr�dito tributario que establece la Ley N� 20.241, de 2008.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2008
-- Fecha: 2008-10-23
+- Fecha: 2008-10-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja2876.doc
 - Hash SHA-256: 12e5474f8c5b15a7c13e88187aa5c0a8645c67492828dc9aaaed8d44ef14c735
 
 ## Resumen
 
-s y servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Decreto Ley N�824, de 1974, Art. 20�, N��s 3 y 4. (Ord. N� 3.044, de 23.10.2008) Word Servicios de cobranza y recaudaci�n de una cartera de Cr�dito perteneciente a un fondo privado de inversi�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 16�, letra c) � Circular N�44, de 1996. (Ord. N� 2.876, de 06.10.2008) Word No se encuentran gravados con IVA los pagos por concepto de expropiacion…
+Word No se encuentran gravados con IVA los pagos por concepto de expropiaciones que una Sociedad Concesionaria, para la construcci�n de una obra p�blica, realiza a favor del Fisco.
 
 ## Referencias detectadas
 

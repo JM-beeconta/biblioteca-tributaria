@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ctual Ley Sobre Impuesto a la � Art. 17�, N� 13, Art. 42�, N� 1, Art. 43�, N� 1 � C�digo del Trabajo, Art. 178� � Circulares N�s 37, de 1990 y 29, de 1991. Word Tratamiento tributario de Indemnizaci�n por A�os de Servicio, Conforme lo Dispuesto en el Art�culo 178�, del C�digo del Trabajo y art�culo 17�, N�13, de la Ley Sobre Impuesto a la Renta. (Ord. N� 956, de 08.04.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letras a) y f), Art. 20�, N�s 3 y 4, Art. 31�, N� 5 y N� 9, Art. 2�, N� 3 � D. L. N�…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letras a) y f), Art. 20�, N�s 3 y 4, Art. 31�, N� 5 y N� 9, Art. 2�, N� 3 � D. L. N� 825, de 1974, Art. 8�, letra m) � C�digo Tributario, Art. 64� � Ley N� 19.542, Art. 2�, Art. 3�, Art. 5�, Art. 6�, Art. 7� � Circular N� 68, de 2001.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2007
-- Fecha: 2007-05-07
+- Fecha: 2007-02-13
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/otras/ja4052.doc
 - Hash SHA-256: 7c2ead4d70e6f17cf28d16558e34733e5642560ddd4195cc80eaac93b0468600
 
 ## Resumen
 
-d� para Evitar la Doble Tributaci�n y Prevenir la Evasi�n Fiscal en relaci�n a los Impuestos a la Renta y al Patrimonio, Art. 5�, Art. 7�. (Ord. N� 986, de 07.05.2007) Word Servicio prestado por parte de una empresa aseguradora extranjera, residente en Canad�, remunerado por residente en Chile. Timbres y Estampillas � Nuevo texto � Ley sobre Impuesto de � Art. 3� � Ley N� 18.010, Art. 1�. (Ord. N� 381, de 13.02.2007) Word Solicita confirmar tratamiento tributario que corresponde aplicar a operaciones de importaci�…
+Word Solicita confirmar tratamiento tributario que corresponde aplicar a operaciones de importaci�n.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ro de ahorro previsional voluntario de acuerdo al N� 3� del Art�culo 42 bis. Renta � Actual Ley Sobre Impuesto a la � Art. 1�, Ley N�19.606, de 1.999, Sobre Ley Austral, Modificada por Ley N�19.946 � Circulares N�66, de 1999 y N�47, de 2004. (Ord. N�551, de 20.03.2008) Word Procedencia del cr�dito tributario establecido por la Ley N�19.606, de 1999. Renta � Actual Ley Sobre Impuesto a la � Art.41� D � Ley N�18.046, Art. 87� - Circular N�43, de 2003� Oficio N�5.029 y N� 5.566, de 2003.(Ord.N�550,de 20.03.2008) Word…
+Renta � Actual Ley Sobre Impuesto a la � Art.41� D � Ley N�18.046, Art. 87� - Circular N�43, de 2003� Oficio N�5.029 y N� 5.566, de 2003.(Ord.N�550,de 20.03.2008)
 
 ## Referencias detectadas
 

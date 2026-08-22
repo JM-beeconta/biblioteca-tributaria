@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuestos a la Renta. Arts. 5�, 7�, 11�, 13� -- Ley de la Renta, Art. 58� y 65�(Ord. N� 660, de 08.04.2008) Word Tratamiento tributario aplicable a las rentas provenientes de inversiones de capitales mobiliarios efectuados por una entidad extranjera sin domicilio ni residencia en Chile. Renta � Actual Ley Sobre Impuesto a la � Art. 42� N�2, Art. 74� N�2 � Ley N� 16.441, Art. 41� _ Ley N� 17.073, de 1968, Art. 1�. (Ord. N� 649, de 08.04.2008) Word Retenciones de impuesto en un contrato de prestaci�n de servicios de…
+Word Retenciones de impuesto en un contrato de prestaci�n de servicios de aseo para el Juzgado de Letras de Isla de Pascua.
 
 ## Referencias detectadas
 

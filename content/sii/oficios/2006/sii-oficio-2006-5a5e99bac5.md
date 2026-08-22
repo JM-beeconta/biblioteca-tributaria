@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-08-07
+- Fecha: 2006-06-22
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/otras/ja3049.htm
 - Hash SHA-256: 589b984e2deef31ea06579660a02701484e25ce296bf9d480d02d627c0d0efb9
 
 ## Resumen
 
-e Timbres y Estampillas. (Ord. N� 3.558, de 07.08.2006) Decreto Ley N� 3.063 de 1979 � Art. 46 � D.F.L. N� 33 de 1981 del Ministerio de Educaci�n � Circular N� 24 de 1993. Tratamiento tributario de donaciones para campa�a solidaria conforme a las normas del art�culo 46 del D.L. N� 3063 de 1979, sobre Rentas Municipales. (Ord. N� 3053 de 22.06.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3�, ART. 10�, ART.14� � Ley N�18.010, Art.1�. Word Solicita pronunciamiento de interpretaci�n de apli…
+.2006) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 3�, ART. 10�, ART.14� � Ley N�18.010, Art.1�.
 
 ## Referencias detectadas
 

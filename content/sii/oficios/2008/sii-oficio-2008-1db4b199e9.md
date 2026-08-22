@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21� � Oficio N� 3.330, de 2001. (Ord. N�3.092, de 28.10.2008) Word Consulta sobre la procedencia de aplicar el cr�dito especial contenido en el Art�culo 21�, del Decreto Ley N�910, de 1975, en contrato de construcci�n de un inmueble para recibir adultos mayores no-autovalentes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N�3, Art, 23�, N��s 2 y 4 � D.L. N� 824, de 1974,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 13�, N�3, Art, 23�, N��s 2 y 4 � D.L. N� 824, de 1974, Art. 31� � Circulares N��s 71 y 130, de 1977 � Oficios N��s 2.836, de 1984 y 3.068, de 1992. (Ord. N�3.091, de 28.10.2008).
 
 ## Referencias detectadas
 

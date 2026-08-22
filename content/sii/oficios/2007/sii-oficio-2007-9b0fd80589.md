@@ -11,7 +11,7 @@
 
 ## Resumen
 
-., 55 bis, cuando un inmueble es adquirido en comunidad y no se hizo menci�n en la escritura de compra cu�l de los comuneros se acoger�a a la rebaja que establece dicho art�culo. Renta � Actual Ley Sobre Impuesto a la � Art. 17� Letra b, N�8 � Art. 18�, Art.20� Letra b, N�1. (Ord. N� 2365, de 02.08.2007) Word Solicita pronunciamiento con relaci�n a la tributaci�n que afecta la enajenaci�n de un inmueble perteneciente a sociedad agr�cola acogida a renta presunta, conforme a lo dispuesto por el art�culo 17 N�8 letra…
+Word Solicita pronunciamiento con relaci�n a la tributaci�n que afecta la enajenaci�n de un inmueble perteneciente a sociedad agr�cola acogida a renta presunta, conforme a lo dispuesto por el art�culo 17 N�8 letra b) de la Ley de la Renta.
 
 ## Referencias detectadas
 

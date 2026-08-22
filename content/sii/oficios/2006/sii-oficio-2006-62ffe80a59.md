@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-16
+- Fecha: 2006-02-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1118.doc
 - Hash SHA-256: d90339d09e265687df1ad31e8cf5ee57f5480cbce626e12a1c15eac44dba16ea
 
 ## Resumen
 
-Word R�gimen de IVA, en Servicio de Suministro de Luz y Agua prestado por una Organizaci�n Comunitaria Funcional a sus Asociados. (Oficio N� 591, de 16.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art, 58� � C�digo Tributario, Art. 17�, Art. 200�, Art. 97�, N� 16 � Ley N� 18.845, Art. 7� � Circular N� 66, de 1998. Word Solicitud de Informaci�n acerca de la Eliminaci�n de Libros de Contabilidad, Facturas y Boletas. (Oficio N� 582, de 15.02.2006) Ventas y Servicios � Nuevo Texto � Ac…
+Word Solicitud de Informaci�n acerca de la Eliminaci�n de Libros de Contabilidad, Facturas y Boletas. (Oficio N� 582, de 15.02.2006)
 
 ## Referencias detectadas
 

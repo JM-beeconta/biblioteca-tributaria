@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-02-09
+- Fecha: 2006-02-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja1115.doc
 - Hash SHA-256: a8410630621cc711aea61bd6fb95302392b86d40e66a3e5a6bb8826c8b1d0f1f
 
 ## Resumen
 
-0�, N�4. Word Impuesto al Valor Agregado que grava a un Centro M�dico por los Servicios de Di�lisis que presta a sus Pacientes. (Oficio N� 452, de 09.02.2006) Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 126�, N� 2, Art. 128� � Ley N� 18.502, Art. 1� � Ley N� 20.052. Word Aplicaci�n de la Parte Variable del Impuesto Especial al Gas Licuado de Petr�leo, establecido en el Art�culo 1�, de la Ley N�18.502, a Gr�as Horquilla. (Oficio N� 410, de 07.02.2006) Ventas y Servic…
+Word Aplicaci�n de la Parte Variable del Impuesto Especial al Gas Licuado de Petr�leo, establecido en el Art�culo 1�, de la Ley N�18.502, a Gr�as Horquilla. (Oficio N� 410, de 07.02.2006)
 
 ## Referencias detectadas
 

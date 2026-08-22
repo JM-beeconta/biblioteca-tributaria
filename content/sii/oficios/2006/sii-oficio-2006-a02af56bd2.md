@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2006
-- Fecha: 2006-12-28
+- Fecha: 2006-12-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4030.doc
 - Hash SHA-256: f3af962b78dc4537dceb2c20e7343df5e8b4573f242388be7c620b08aada2ed6
 
 ## Resumen
 
-> Renta � Actual Ley Sobre Impuesto a la � Art. 21� � Oficio N�654, de 2006 � Circular N� 57, de 1998. Word Inaplicabilidad del Art�culo 21�, de la Ley de la Renta, en caso de Pr�stamos efectuados por Agencia en Chile de una sociedad an�nima extranjera, a su matriz en el exterior. (Ord. N� 4.970, de 28.12.2006) Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter, Art. 17�, N�8, letra a) � Decreto Ley N� 1.328, Art. 13�, N�1 � Circular N� 7, de 2002. Word Improcedencia del Beneficio Tributario del Art�culo 18� te…
+Word Improcedencia del Beneficio Tributario del Art�culo 18� ter de la Ley de la Renta, en el caso de Fusi�n de Sociedades. (Ord. N� 4.966, de 27.12.2006)
 
 ## Referencias detectadas
 

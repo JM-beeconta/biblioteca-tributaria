@@ -11,7 +11,7 @@
 
 ## Resumen
 
-USTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 58�, N�1 � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Solicita pronunciamiento relativo al Valor Tributario a considerar para los efectos del Art�culo 64�, del C�digo Tributario, en el caso del Aporte de Acciones que se�ala. (Ord. N� 4.849, de 12.12.2005) Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 64�. Word Situaci�n Tributaria que se produce con Motivo de la Fusi�n de Sociedades Chilenas con Agencias en el Ext…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41� � C�digo Tributario, Art. 64�.
 
 ## Referencias detectadas
 
