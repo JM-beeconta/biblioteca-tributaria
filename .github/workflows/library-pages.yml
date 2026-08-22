@@ -35,6 +35,9 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Ejecutar tests
+        run: npm test
+
       - name: Instalar extractor PDF
         run: |
           sudo apt-get update
