@@ -10,9 +10,10 @@ const els = {
   reader: document.querySelector('#reader'),
   readerTitle: document.querySelector('#readerTitle'),
   readerBadge: document.querySelector('#readerBadge'),
-  readerText: document.querySelector('#readerText'),
+  readerFrame: document.querySelector('#readerFrame'),
+  readerLoading: document.querySelector('#readerLoading'),
   readerOfficial: document.querySelector('#readerOfficial'),
-  readerRaw: document.querySelector('#readerRaw'),
+  readerHtml: document.querySelector('#readerHtml'),
   readerClose: document.querySelector('#readerClose'),
 };
 
@@ -40,7 +41,7 @@ function score(doc, query) {
   const q = normalize(query);
   const tokens = q.split(/\s+/).filter(Boolean);
   const title = normalize(doc.title);
-  const summary = normalize(doc.summary);
+  const summary = normalize(doc.summary_short || doc.summary);
   const refs = normalize((doc.references || []).map(refLabel).join(' '));
   const identity = normalize(`${doc.type || ''} ${doc.number || ''} ${doc.year || ''} ${doc.norm_code || ''} ${doc.article || ''}`);
   const haystack = normalize(`${doc.search_text || ''} ${(doc.categories || []).join(' ')} ${doc.norm_code || ''}`);
@@ -89,40 +90,44 @@ function render() {
   els.results.innerHTML = results.map(({ doc }) => {
     const refs = (doc.references || []).slice(0, 6).map((r) => `<span class="ref">${escapeHtml(refLabel(r))}</span>`).join('');
     const meta = [doc.type, doc.year, ...(doc.categories || [])].filter(Boolean).join(' · ');
-    return `<article class="card" data-id="${escapeHtml(doc.id)}" tabindex="0">
-      <div>
+    const summary = doc.summary_short || doc.summary || 'Documento tributario disponible para consulta.';
+    return `<article class="card" data-id="${escapeHtml(doc.id)}" tabindex="0" role="button" aria-label="Abrir ${escapeHtml(doc.title)}">
+      <div class="card-main">
         <div class="card-meta"><span class="badge ${doc.source === 'SII' ? 'sii' : ''}">${doc.source}</span><span>${escapeHtml(meta)}</span></div>
         <h2>${escapeHtml(doc.title)}</h2>
-        <p>${escapeHtml(doc.summary || '')}</p>
+        <p class="card-summary" title="${escapeHtml(summary)}">${escapeHtml(summary)}</p>
         ${refs ? `<div class="refs">${refs}</div>` : ''}
       </div>
-      <div class="card-arrow">→</div>
+      <div class="card-arrow" aria-hidden="true">→</div>
     </article>`;
   }).join('');
 
   els.results.querySelectorAll('.card').forEach((card) => {
     const open = () => openReader(docs.find((d) => d.id === card.dataset.id));
     card.addEventListener('click', open);
-    card.addEventListener('keydown', (e) => { if (e.key === 'Enter') open(); });
+    card.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
   });
 }
 
-async function openReader(doc) {
+function closeReader() {
+  els.reader.close();
+  els.readerFrame.src = 'about:blank';
+  els.readerLoading.hidden = false;
+}
+
+function openReader(doc) {
   if (!doc) return;
   els.readerTitle.textContent = doc.title;
   els.readerBadge.textContent = doc.source;
   els.readerBadge.className = `badge ${doc.source === 'SII' ? 'sii' : ''}`;
   els.readerOfficial.href = doc.source_url;
-  const local = `./${doc.content_path}`;
-  els.readerRaw.href = local;
-  els.readerText.textContent = 'Cargando texto…';
+
+  const htmlPath = doc.html_path ? `./${doc.html_path}` : `./${doc.content_path}`;
+  els.readerHtml.href = htmlPath;
+  els.readerLoading.hidden = false;
+  els.readerFrame.onload = () => { els.readerLoading.hidden = true; };
+  els.readerFrame.src = htmlPath;
   els.reader.showModal();
-  try {
-    const response = await fetch(local);
-    els.readerText.textContent = response.ok ? await response.text() : 'No fue posible cargar el texto local.';
-  } catch {
-    els.readerText.textContent = 'No fue posible cargar el texto local.';
-  }
 }
 
 function populateFilters() {
@@ -147,7 +152,10 @@ async function init() {
 }
 
 [els.search, els.source, els.type, els.category, els.year].forEach((el) => el.addEventListener('input', render));
-els.readerClose.addEventListener('click', () => els.reader.close());
+els.readerClose.addEventListener('click', closeReader);
+els.reader.addEventListener('click', (event) => {
+  if (event.target === els.reader) closeReader();
+});
 document.addEventListener('keydown', (e) => {
   if (e.key === '/' && document.activeElement !== els.search) { e.preventDefault(); els.search.focus(); }
 });
