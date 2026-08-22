@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { decodeBuffer, detectDocumentFormat, extractAnchors, extractReferences, inferDate, stripHtml } from '../lib/utils.mjs';
 import { splitArticlesForTests, textFromLeyChileJsonForTests } from '../lib/bcn.mjs';
-import { buildDownloadUrlForTests, extractDynamicConfigForTests, sourceSetsForTests } from '../lib/sii.mjs';
+import { buildDownloadUrlForTests, extractDynamicConfigForTests, extractNumberForTests, meaningfulCandidateForTests, sourceSetsForTests } from '../lib/sii.mjs';
 import { libraryStats, shardName } from '../lib/store.mjs';
 
 test('extrae links y contexto de un índice SII', () => {
@@ -76,6 +76,33 @@ test('mantiene las claves oficiales de materias de Jurisprudencia SII', () => {
   assert.equal(sources.find((s) => s.category === 'Renta')?.apiKey, 'RENTA');
   assert.equal(sources.find((s) => s.category === 'IVA')?.apiKey, 'IVA');
   assert.equal(sources.find((s) => s.category === 'Otras Normas')?.apiKey, 'OTROS');
+});
+
+test('registra Resoluciones como fuente de índice simple desde 2013', () => {
+  const sources = sourceSetsForTests();
+  const resoluciones = sources.find((s) => s.category === 'Resoluciones');
+  assert.equal(resoluciones?.type, 'resolucion');
+  assert.equal(resoluciones?.startYear, 2013);
+  assert.equal(resoluciones?.simpleIndex, true);
+  assert.match(resoluciones.modernUrl(2026), /resoluciones\/2026\/res_ind2026\.htm$/);
+});
+
+test('reconoce un enlace real de Resolución Exenta del índice del SII', () => {
+  // Snippet real de sii.cl/normativa_legislacion/resoluciones/2026/res_ind2026.htm
+  const html = `<h5><a href='reso106.pdf' target='_blank'>Resoluci&oacute;n Exenta SII N&deg; 106 del 21 de Agosto del 2026</a></h5><p>Reorganiza las unidades que conforman el departamento.</p>`;
+  const indexUrl = 'https://www.sii.cl/normativa_legislacion/resoluciones/2026/res_ind2026.htm';
+  const [anchor] = extractAnchors(html, indexUrl);
+  const source = sourceSetsForTests().find((s) => s.category === 'Resoluciones');
+  assert.ok(meaningfulCandidateForTests(anchor, source, indexUrl), 'debe reconocerse como candidato válido');
+  const number = extractNumberForTests(`${anchor.label} ${anchor.context}`, 'resolucion', anchor.url);
+  assert.equal(number, 106);
+});
+
+test('no confunde una Resolución con un Oficio ni viceversa al extraer el número', () => {
+  const oficioNumber = extractNumberForTests('Oficio N° 2111 de 2026', 'oficio', 'https://sii.cl/of2111.pdf');
+  const resolucionNumber = extractNumberForTests('Resolución Exenta SII N° 106 del 21 de Agosto del 2026', 'resolucion', 'https://sii.cl/reso106.pdf');
+  assert.equal(oficioNumber, 2111);
+  assert.equal(resolucionNumber, 106);
 });
 
 test('particiona SII por año y BCN en shard propio', () => {

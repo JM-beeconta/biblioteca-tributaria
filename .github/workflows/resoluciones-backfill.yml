@@ -1,0 +1,69 @@
+name: Backfill Resoluciones SII
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.resoluciones-backfill-request'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: biblioteca-resoluciones-backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar extractores de documentos
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils antiword catdoc unzip unrtf
+
+      - name: Ejecutar tests
+        run: npm test
+
+      - name: Exportar Resoluciones SII 2013-2026
+        run: node scripts/export-range.mjs --from=2013 --to=2026 --categories=Resoluciones --out=.reso-output
+
+      - name: Validar, fusionar y publicar
+        shell: bash
+        run: |
+          set -euo pipefail
+          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('.reso-output/docs.json','utf8')).length)")
+          echo "Documentos exportados: $COUNT"
+          if [ "$COUNT" -lt 500 ]; then
+            echo "Exportación insuficiente para Resoluciones 2013-2026: $COUNT documentos" >&2
+            exit 1
+          fi
+
+          git fetch origin main
+          git checkout -B main origin/main
+          mkdir -p data/diagnostics
+          cp .reso-output/stats.json data/diagnostics/resoluciones-backfill.json
+          node scripts/merge-range.mjs --input=.reso-output --range=Resoluciones-2013-2026 --total=14
+
+          node <<'NODE'
+          const fs = require('fs');
+          fs.writeFileSync('.resoluciones-backfill-request', JSON.stringify({
+            status: 'completed',
+            updated_at: new Date().toISOString(),
+          }, null, 2) + '\n');
+          NODE
+
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data content .resoluciones-backfill-request
+          git commit -m "chore: cargar histórico de Resoluciones SII 2013-2026" || true
+          git pull --rebase origin main
+          git push

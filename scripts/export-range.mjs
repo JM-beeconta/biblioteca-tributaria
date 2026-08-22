@@ -14,6 +14,8 @@ function arg(name, fallback = null) {
 const from = Number(arg('from'));
 const to = Number(arg('to'));
 const outArg = arg('out', '.range-output');
+const categoriesArg = arg('categories', null);
+const categories = categoriesArg ? categoriesArg.split(',').map((value) => value.trim()) : null;
 if (!Number.isInteger(from) || !Number.isInteger(to)) throw new Error('Usa --from=AAAA --to=AAAA');
 
 const hi = Math.max(from, to);
@@ -44,8 +46,8 @@ async function onDocument(doc, body) {
   await fs.writeFile(target, markdownDocument(merged, body), 'utf8');
 }
 
-console.log(`Exportando SII ${lo}-${hi}`);
-await crawlSii({ years, onDocument });
+console.log(`Exportando SII ${lo}-${hi}${categories ? ` (${categories.join(', ')})` : ''}`);
+await crawlSii({ years, onDocument, categories });
 
 const documents = [...docs.values()];
 const extraction = documents.reduce((acc, doc) => {

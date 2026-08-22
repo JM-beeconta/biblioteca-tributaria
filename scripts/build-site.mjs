@@ -38,6 +38,7 @@ function compactSearchText(doc) {
     if (ref.type === 'articulo') return `articulo ${ref.article} ${ref.law}`;
     if (ref.type === 'oficio') return `oficio ${ref.number} ${ref.year}`;
     if (ref.type === 'circular') return `circular ${ref.number} ${ref.year}`;
+    if (ref.type === 'resolucion') return `resolucion ${ref.number} ${ref.year}`;
     return '';
   }).join(' ');
   return [doc.title, doc.summary, ...(doc.categories ?? []), doc.norm_code, refs, String(doc.search_text ?? '').slice(0, 900)]
@@ -48,6 +49,7 @@ function referenceLabel(ref) {
   if (ref.type === 'articulo') return `Art. ${ref.article} ${ref.law}`;
   if (ref.type === 'oficio') return `Oficio N° ${ref.number}${ref.year ? `/${ref.year}` : ''}`;
   if (ref.type === 'circular') return `Circular N° ${ref.number}${ref.year ? `/${ref.year}` : ''}`;
+  if (ref.type === 'resolucion') return `Resolución N° ${ref.number}${ref.year ? `/${ref.year}` : ''}`;
   return ref.type || 'Referencia';
 }
 
