@@ -73,6 +73,7 @@ jobs:
           if ! git diff --quiet -- data content; then
             git add data content
             git commit -m "chore: actualización semanal SII y BCN"
+            git pull --rebase origin main
             git push
           fi
 
@@ -84,6 +85,17 @@ jobs:
           CURRENT_YEAR=$(date +%Y)
           MIN_YEAR=1974
           CHUNK=4
+
+          # BCN siempre se refresca al iniciar o reanudar un backfill. Así una corrección
+          # de LeyChile no obliga a borrar el checkpoint histórico del SII.
+          echo "Refrescando base legal BCN"
+          node scripts/update.mjs --from="$CURRENT_YEAR" --to="$CURRENT_YEAR" --skip-sii
+          git add data content
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: actualizar base legal BCN"
+            git pull --rebase origin main
+            git push
+          fi
 
           if [ -f .bootstrap-state.json ]; then
             NEXT_TO=$(node -e "const s=require('./.bootstrap-state.json'); console.log(s.next_to)")
@@ -99,11 +111,11 @@ jobs:
             )
 
             if [ "$CURRENT_OFICIOS" -ge 150 ]; then
-              echo "2026 ya está poblado ($CURRENT_OFICIOS Oficios); procesando sólo $RECENT_FROM"
-              node scripts/update.mjs --from="$RECENT_FROM" --to="$RECENT_FROM"
+              echo "$CURRENT_YEAR ya está poblado ($CURRENT_OFICIOS Oficios); procesando sólo $RECENT_FROM"
+              node scripts/update.mjs --from="$RECENT_FROM" --to="$RECENT_FROM" --skip-bcn
             else
               echo "Procesando tramo reciente $RECENT_FROM-$CURRENT_YEAR"
-              node scripts/update.mjs --from="$RECENT_FROM" --to="$CURRENT_YEAR"
+              node scripts/update.mjs --from="$RECENT_FROM" --to="$CURRENT_YEAR" --skip-bcn
             fi
 
             NEXT_TO=$((RECENT_FROM - 1))
