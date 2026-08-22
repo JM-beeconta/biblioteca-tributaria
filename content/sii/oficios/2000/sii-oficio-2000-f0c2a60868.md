@@ -1,0 +1,146 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-06-29
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio08.htm
+- Hash SHA-256: 31222842848f6dc2e85411819f8edb6f13e08481f67cef7f0785ad767c3588d9
+
+## Resumen
+
+'> Renta - Actual Ley sobre Impuesto a la - Art. 41, N� 9, inciso 1�, 3� y siguientes. Word Persona natural que tiene participaci�n en diferentes sociedades de responsabilidad limitada y desea iniciar actividades como comerciante...(Of. N� 2.570, de 29.06.2000 - I: Directos) Renta - Actual Ley sobre Impuesto a la - Art. 31� - Circular N� 39, del 2000 - Resoluci�n Ex. N� 6.080, de 1999. Word Situaci�n tributaria de aportes empresariales entregados a Proyectos de Fomento, patrocinados por la Corporaci�n de Fomento d…
+
+## Referencias detectadas
+
+- {"type":"circular","number":39,"year":2000}
+
+## Texto extraído
+
+RENTA  ACTUAL LEY SOBRE IMPUESTO A LA
+
+Home | Ley Renta - 2000
+
+RENTA  ACTUAL LEY SOBRE IMPUESTO A LA - ART. 31° - CIRCULAR N° 39, DEL 2000 
+RESOLUCION EX. N° 6.080, DE 1999.
+Aportes empresariales entregados a proyectos de fomento  Forma de
+acreditar dichos aportes  Requisitos copulativos para que proceda la deducción de
+los gastos  Si aportes realizados por empresas privadas  Reúnen condiciones y
+requisitos que exige inciso 1° del art. 31° - Se aceptarán como gasto necesario para
+producir renta  Aportes pueden ser acreditados con documentos a que se refiere la
+resolución Ex. N° 6.080, de 1999  Instrucciones mediante Circular N° 39, del
+2000.
+
+1.- Por Ordinario indicado en el antecedente, se remite a esta
+Dirección Nacional la presentación efectuada ante esa Unidad por el Director Regional de
+la Corporación de Fomento de la Producción, quién señala que dicha entidad opera para
+el cumplimiento de sus funciones numerosos instrumentos, algunos de los cuales son
+entregados a sus agentes operadores como Sercotec (Público) y Copeval (Privado),
+presentándose en su operatoria ordinaria algunas dudas a resolver por este Servicio,
+siendo la principal de ellas acerca de la acreditación del aporte empresarial a los
+Proyectos de Fomento (Profos), y su consideración tributaria, indicando que los citados
+proyectos son instrumentos que a través de la asociatividad empresarial, buscan mejorar
+la gestión y productividad de las empresas, expresando que en la práctica son un grupo
+de empresarios que con el apoyo de sus operadores públicos o privados, presentan un
+programa de trabajo, el cual es cofinanciado vía subsidios por la Corporación.
+
+Agrega, que los programas de trabajo, por regla general, no contemplan
+adquisición de activos, salvo algunos menores para el funcionamiento del Profo, tales
+como mobiliario, computadores, impresoras, teléfonos etc. El grueso de su presupuesto se
+orienta principalmente a remuneraciones de su Gerente y Secretaria, y al desarrollo de
+actividades de capacitación, contratación de estudios, misiones comerciales o
+tecnológicas etc.
+
+Expresa por otro lado, que de acuerdo a la reglamentación de Corfo, si
+el Profo no se ha formalizado o constituido en sociedad en algunos de sus tipos, toda la
+documentación de pago por servicios a terceros y gastos en general debe ser extendida a
+nombre del Agente. Constituida la sociedad, ésta se extenderá a nombre de la sociedad
+que hayan constituido los empresarios.
+
+Señala por otra parte, que la discusión se presenta respecto del
+aporte empresarial, ya que la Corporación con el fin de asegurar el buen uso de los
+recursos y la efectividad del aporte empresarial, ha instruido a los Agentes que deberán
+entregar a los empresarios un recibo por el mismo, sirviendo éste contablemente para
+considerarlo como gasto. Sin embargo, algunos empresarios señalan que sus contadores les
+han manifestado que dichos recibos son insuficientes, que podrían ser rechazados por este
+Servicio, manteniendo Corfo su posición, en cuanto a que un recibo escrito respaldado por
+un contrato también escrito, tal como el suscrito entre el Agente y los Empresarios,
+contablemente es un documento suficiente para ser rebajado como gasto, tal como lo es un
+recibo por un arrendamiento que pudiera cancelar el empresario por un inmueble que ocupa
+en sus faenas productivas.
+
+2.- Sobre el particular, cabe señalar que de acuerdo a lo dispuesto
+por el inciso primero del artículo 31 de la Ley de la Renta, la renta líquida de primera
+categoría se determina deduciendo de la renta bruta todos los gastos necesarios para
+producirla, que no hayan sido rebajados en virtud del artículo 30, pagados o adeudados
+durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en
+forma fehaciente ante el Servicio.
+
+En consecuencia, al tenor de lo dispuesto por la norma legal antes
+mencionada, la deducción de los gastos procede bajo el cumplimiento de los siguientes
+requisitos copulativos:
+
+Que se trate de gastos necesarios para producir la renta,
+entendiéndose por tales aquellos desembolsos de carácter inevitable u obligatorio en
+relación con el giro del negocio, no considerando solamente la naturaleza del gasto, sino
+que, además, su monto, es decir, hasta que cantidad el gasto es necesario para producir
+la renta. Asimismo, deben reunir la doble condición de ser comunes, habituales y
+regulares por una parte, y por otra, inevitables, obligatorios, imprescindibles o
+indispensables para producir la renta;
+
+Que no se encuentren ya rebajados como parte integrante del costo
+directo de los bienes y servicios requeridos para la obtención de la renta;
+
+Que el contribuyente haya incurrido efectivamente en el gasto, sea
+que éste se encuentre pagado o adeudado al término del ejercicio. De modo que para el
+debido cumplimiento de este requisito, es menester que el gasto tenga su origen en una
+adquisición o prestación real y efectiva y no una mera apreciación del contribuyente; y
+
+Que se acrediten y justifiquen en forma fehaciente ante el Servicio
+de Impuestos Internos, quién puede impugnar los medios probatorios aportados por el
+contribuyente si por razones fundadas no se estimaren fehacientes.
+
+3.- Ahora bien, en relación con los aportes en dinero a efectuar por
+las empresas privadas a los Proyectos de Fomento, los cuales adoptan la estructura de
+sociedades, se advierte de que si dichas cantidades a la luz de los requisitos exigidos
+por la norma legal antes mencionada, cumplen con tales condiciones, y por lo tanto, dichas
+erogaciones se efectúen en función de una contraprestación o servicio directo a recibir
+por el aportante, los citados aportes se aceptarían como un gasto necesario para producir
+la renta. En otras palabras, al producirse a favor de los empresarios que efectúan los
+aportes un servicio en particular o una contraprestación específica que los beneficie en
+el desarrollo de su gestión o actividad, las mencionadas sumas constituirían un gasto
+necesario para producir la renta.
+
+En caso contrario, esto es, si no se cumplieran las condiciones antes
+indicadas, tales sumas no podrían aceptarse como un gasto necesario para producir la
+renta, conforme a las normas del inciso primero del artículo 31 de la ley del ramo,
+debiendo tenerse presente respecto de este punto que los gastos deducibles en la
+determinación de la renta líquida imponible de Primera Categoría del ejercicio, por lo
+general, deben tener una relación directa con los ingresos brutos del período
+establecidos en el artículo 29 de la ley del ramo, a objeto de establecer la estricta
+correlatividad entre ingresos y gastos del ejercicio.
+
+4.- Por consiguiente, por las razones antes expuestas, sólo cabe
+concluir en la especie que los aportes realizados por las empresas privadas a los
+Proyectos de Fomento a que se aluden en la presentación, en la medida que reúnan las
+condiciones y requisitos que exige el inciso primero del artículo 31 de la Ley de la
+Renta, se aceptarán como un gasto necesario para producir la renta de las empresas
+aportantes.
+
+5.- Ahora bien, respecto de la acreditación de tales aportes, cabe
+señalar que éstos podrán ser acreditados con aquellos documentos a que se refiere la
+Resolución Ex N° 6080, de 1999, y cuyas instrucciones se impartieron mediante la
+Circular N° 39, del año 2000, al tratarse de operaciones no afectas o exentas de
+Impuesto al Valor Agregado.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 2.566, del 29.06.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Directos

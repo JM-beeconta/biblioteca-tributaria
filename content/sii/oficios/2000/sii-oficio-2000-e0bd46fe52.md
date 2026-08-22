@@ -1,0 +1,173 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-11-29
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras03.htm
+- Hash SHA-256: afe48de2da790ec7ca0dec2007199111160afa908f98f7e9d622c755f2730adc
+
+## Resumen
+
+rectos). Ley N� 19.281, de 1993 � Leasing Habitacional � Modificada por Ley N� 19.406, de 1995 � Decreto Supremo de Hacienda N� 1.334, de 1996 � Franquicia Tributaria Establecida en Ley N� 19.622 � Ley N� 19.578, de 1998, Art. 5� Transitorio. Word Tributaci�n de Rentas Pagadas por Instituciones Acogidas Al Leasing Habitacional. (Of. N� 4.607, de 29.11.2000 � I. Directos) Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36� - Circular N� 19, de 1999. Word C…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Jurisprudencia Administrativa - 2000
+
+Home | Otros - 2000 FRANQUICIA TRIBUTARIA - LEY N� 19.518, DE 1997  CAPACITACION Y EMPLEO
+ ESTATUTO DE  ACTUAL TEXTO  ART. 30�, ART. 36� - CIRCULAR N� 19, DE
+1999.
+
+Contribuyentes que tienen derecho al
+cr�dito por gastos de capacitaci�n  T�rmino "trabajador" comprende
+tambi�n a las personas naturales y socios de sociedades de personas que trabajan en las
+empresas de su propiedad  Empresas unipersonales y sociedades de personas acogidas a
+renta presunta o efectiva pueden acceder al cr�dito por gastos de capacitaci�n 
+Respecto de la instrucci�n impartida a sus propietarios o socios  Cuando estos se
+asignen una remuneraci�n sobre la cual efect�en cotizaciones previsionales  Y se
+aplique el Impuesto Unico de Segunda Categor�a del art�culo 42� N�1� y siguientes de
+la Ley de la Renta  Monto efectivo de gastos de capacitaci�n  Podr�n
+rebajarse como cr�dito del Impuesto General de Primera Categor�a solo hasta suma m�xima
+del 1% de las remuneraciones imponibles pagadas al personal  Situaci�n en la cual
+no se tiene derecho al cr�dito  Instrucciones Circular N� 19, de 1999.
+
+1.- Por ordinario indicado en el
+antecedente, se�ala que se han efectuado numerosas consultas en relaci�n con el problema
+planteado por ciertos taxistas, quienes tributan en base a renta presunta y otros
+empresarios individuales que, de acuerdo a la ley, se encuentran comprendidos dentro del
+concepto de trabajador establecido por la Ley 19.518, de 1997, los cuales no efect�an
+cotizaciones previsionales y a quienes el SENCE ha autorizado gastos de capacitaci�n.
+Dicho Servicio Regional opina que estos cursos de capacitaci�n autorizados por �l dan
+derecho al cr�dito a que se refiere dicha norma, interpretaci�n que no es compartida por
+este Servicio de acuerdo a las instrucciones de la Circular N� 19, de 23.03.1999.
+
+Agrega, que efectivamente, de acuerdo a lo
+establecido en el art�culo 30 de la Ley N� 19.518, inciso segundo, establece que para
+los efectos de la franquicia en comento el t�rmino "trabajador" comprende
+tambi�n a las personas naturales (empresarios individuales) y a los socios de sociedades
+de personas que trabajan en las empresas de su propiedad.
+
+Por otra parte se�ala, que el art�culo 36
+de la misma norma dispone que el l�mite hasta el cual se acepta como cr�dito los gastos
+incurridos en capacitaci�n en un a�o, no podr�n exceder del 1% de las remuneraciones
+imponibles anuales pagadas al personal en el mismo lapso. Aquellas empresas cuya suma
+m�xima a descontar sea inferior a 13 Unidades Tributarias Mensuales, podr�n deducir este
+valor en el a�o.
+
+Expresa por otro lado, que en relaci�n a
+estas �ltimas aseveraciones el Servicio ha instruido mediante la circular aludida, que
+para acceder al cr�dito por capacitaci�n es requisito esencial que el trabajador (donde
+necesariamente debe incluirse a los empresarios individuales y socios de empresas, de
+acuerdo con la definici�n antedicha), haya efectuado imposiciones previsionales. Lo
+anterior se corrobora con lo expresado en la p�gina 40, letra b.4) de la citada Circular,
+en la cual se expresa que el empresario individual no tiene derecho al gasto de
+capacitaci�n cuando no se haya asignado remuneraciones "imponibles" durante el
+ejercicio.
+
+En relaci�n con lo antes expuesto,
+solicita que se indique si el empresario individual (que no tenga trabajadores
+dependientes, y por lo tanto, no pueda determinar el l�mite del 1% de las remuneraciones
+pagadas en el ejercicio), tiene derecho al citado cr�dito cuando no haya efectuado
+imposiciones previsionales respecto del sueldo que �l se haya asignado.
+
+2.- Sobre el particular, cabe se�alar, en
+primer lugar, que el actual texto del art�culo 36 de la Ley N� 19.518, establece, en su
+inciso primero, que "los contribuyentes de la Primera Categor�a de la Ley sobre
+Impuesto a la Renta, con excepci�n de aquellos cuyas rentas provengan �nicamente de las
+letras c) y d) del n�mero 2 del art�culo 20 de la citada ley, podr�n descontar del
+monto a pagar de dichos impuestos, los gastos efectuados en programas de capacitaci�n que
+se hayan realizado dentro del territorio nacional, en las cantidades que sean autorizadas
+conforme a la presente ley, las que en todo caso no podr�n exceder en el a�o de una suma
+m�xima equivalente al uno por ciento de las remuneraciones imponibles pagadas al personal
+en el mismo lapso. Aquellas empresas cuya suma m�xima a descontar sea inferior a 13
+unidades tributarias mensuales, podr�n deducir hasta este valor en el a�o."
+
+Por su parte, el inciso segundo del
+art�culo 30 del mismo cuerpo legal, dispone que para los efectos de lo dispuesto en dicho
+art�culo, el t�rmino "trabajador" comprende tambi�n a las personas naturales
+y socios de sociedades de personas que trabajan en las empresas de su propiedad.
+
+De lo dispuesto por las normas legales
+antes mencionadas, se puede concluir claramente que las personas naturales, que sean
+empresarios individuales o socios de sociedades de personas, que trabajen en las empresas
+unipersonales o sociedades de las cuales sean sus propietarios o socios, y calificadas
+�stas �ltimas como contribuyentes de la Primera Categor�a, la Ley N� 19.518 las
+considera como beneficiarias del cr�dito en comento, respecto de la capacitaci�n que
+reciban sus propietarios o due�os, como lo son el empresario individual o los socios de
+las sociedades de personas, pudiendo gozar de dicha franquicia bajo el cumplimiento de
+todos los requisitos que afectan a los dem�s contribuyentes que tambi�n pueden acceder
+al referido beneficio, principalmente en cuanto al monto m�ximo hasta el cual se puede
+utilizar el mencionado cr�dito.
+
+En consecuencia, de lo expuesto
+anteriormente se puede concluir lo siguiente:
+
+Que teniendo presente que el inciso segundo del art�culo 30
+de la Ley N� 19.518, dispone en forma expresa que para los efectos de la franquicia
+tributaria que regula dicha ley, el t�rmino "trabajador" comprende tambi�n a
+las personas naturales y socios de sociedades de personas que trabajen en las empresas de
+su propiedad, se estima que las empresas unipersonales y sociedades de personas acogidas a
+renta presunta o efectiva puedan acceder tambi�n al cr�dito por gastos de capacitaci�n
+respecto de la instrucci�n impartida a sus propietarios o socios, siempre y cuando �stos
+desde el punto de vista laboral y previsional puedan asignarse una remuneraci�n sobre la
+cual efect�en cotizaciones previsionales en los t�rminos que lo establece la
+legislaci�n que regula esta materia y se aplique el impuesto �nico de Segunda Categor�a
+del art�culo 42 N� 1 y siguientes de la Ley de la Renta, cuando proceda, y se d�
+cumplimiento a los requisitos que exige la Ley N� 19.518 que reglamenta tal franquicia, y
+cuyas instrucciones se impartieron por Circular N� 19, de 1999.
+
+Que cuando el monto efectivo de los gastos de capacitaci�n,
+debidamente actualizados, determinado por la empresa unipersonal o sociedades de personas,
+respecto de la capacitaci�n de sus propietarios o socios, sea superior al 1% de las
+remuneraciones imponibles asignadas durante el a�o a las personas antes indicadas, dichos
+gastos podr�n rebajarse como cr�dito del impuesto general de Primera Categor�a que
+afecta a la empresa o sociedad, s�lo hasta la suma m�xima se�alada precedentemente;
+
+Que cuando dicha suma m�xima, esto es, el 1% de las
+remuneraciones imponibles asignadas o pagadas a los propietarios o socios, existiendo los
+elementos para su c�lculo, (esto es, que el empresario individual o socios de sociedades
+de personas hayan efectuado cotizaciones previsionales sobre las remuneraciones
+asignadas), sea inferior a trece unidades tributarias mensuales vigentes en el �ltimo mes
+del ejercicio, la empresa individual o sociedad respectiva puede rebajar como cr�dito por
+el concepto indicado �sta �ltima cantidad, ya que por expresa disposici�n de la parte
+final del inciso primero del art�culo 36 de la Ley N� 19.518, la aplicaci�n del l�mite
+de las 13 UTM s�lo tiene aplicaci�n cuando existiendo el l�mite del 1% de las
+remuneraciones imponibles pagadas al personal, �ste sea inferior al monto de las 13 UTM,
+es decir, este �ltimo l�mite est� supeditado a la existencia previa del l�mite m�ximo
+indicado anteriormente; y
+
+Finalmente, que cuando la empresa individual o la sociedad
+de personas haya incurrido en gastos de capacitaci�n respecto de sus propietarios o
+socios y no pueda determinar el l�mite general indicado en la letra b) precedente por no
+existir remuneraciones imponibles sobre las cuales se hayan efectuado cotizaciones
+previsionales, en tal situaci�n no se tiene derecho al citado cr�dito, no siendo
+aplicable en la especie el l�mite se�alado en la letra c) anterior, el cual como ya se
+expres�, �nicamente tiene aplicaci�n cuando existiendo el l�mite general del 1% de las
+remuneraciones imponibles pagadas al personal, �ste sea inferior al equivalente a 13 UTM.
+
+3.- Finalmente se se�ala, que las
+instrucciones contenidas en la Circular N� 34, de 1993 que regulaban dicha franquicia con
+anterioridad a la dictaci�n de la Ley N� 19.518, como las establecidas en la Circular
+N� 19, de 1999, que reglamentan actualmente el citado beneficio, antes de su publicaci�n
+oficial por parte de este Servicio, y atendido a que se trata de una franquicia de
+competencia de ambos organismos p�blicos, fueron sometidas a la consideraci�n del
+Servicio Nacional del Capacitaci�n y Empleo (SENCE), sin que esta entidad observara los
+t�rminos en que los contribuyentes a que se refiere su consulta pueden acceder al
+beneficio tributario en comento.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio N� 4.606, del 29.11.2000
+
+Subdirecci�n Normativa
+
+Depto. Impuestos Directos

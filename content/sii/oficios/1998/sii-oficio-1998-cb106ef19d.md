@@ -1,0 +1,80 @@
+# Oficio de 1998
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1998
+- Fecha: 1998-09-15
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago09.htm
+- Hash SHA-256: dd788cdf85bc89cd5c212f0d143265d2ae4520660cd5cd1f5cee5b1dc85399ac
+
+## Resumen
+
+a o m�s sociedades an�nimas que se constituyen - No existe transferencia de bienes... (Oficio N� 2.528, del 15.09.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2. Agosto 1998 Word Servicios administrativos de apoyo a la contrataci�n de seguros - Criterio de aplicabilidad del IVA en Oro. N� 2.741, de 1997 - Bolet�n del Servicio de Impuestos Internos Diciembre 1997... (Oficio N� 2.077, del 05.08.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2. Agosto 1998 Word Custodia…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO IMPUESTO A LAS - ART. 2° , N° 2.
+
+Home | Ventas y Servicios - 1998 VENTAS Y SERVICIOS - NUEVO TEXTO IMPUESTO A LAS - ART. 2 ° , N ° 2.
+
+Custodia de archivos y documentos valorados - Mandato eminentemente
+
+civil - Remuneración clasificada en el N ° 5, del Art. 20 ° de la Ley de la Renta - No gravada con Impuesto al Valor Agregado.
+
+1.- Se ha trasladado una consulta de una sociedad de
+
+responsabilidad limitada, que se refiere a la eventual aplicación del impuesto al valor
+
+agregado en la actividad que inicia, dedicada a la custodia de archivos y documentos
+
+valorados.
+
+2.- Al tenor de la presentación de la ocurrente -y como se da cuenta
+
+en la escritura de constitución de la sociedad, acompañada en fotocopia autorizada- el
+
+objeto social consiste en la prestación de custodia (vale decir, de resguardo cuidadoso y
+
+vigilante) de archivos y documentos valorados, labores que ejercerá por cuenta de quienes
+
+le encomienden esas tareas.
+
+Por otra parte, el impuesto al valor agregado afecta a los servicios,
+
+definidos a este propósito en el artículo 2º, Nº 2º, del Decreto Ley Nº 825, de
+
+1974, como toda acción o prestación remunerada que una persona realiza para otra,
+
+siempre que provenga del ejercicio de actividades comprendidas en los Nºs 3 o 4, del
+
+artículo 20º de la Ley de la Renta.
+
+Pues bien, el mandato que la referida sociedad recibirá para realizar
+
+las prestaciones descritas, es un mandato eminentemente civil y, por consiguiente, su
+
+remuneración debe clasificarse en el Nº 5, del artículo 20º de la Ley de la Renta,
+
+quedando no gravada, por lo tanto, con el impuesto al valor agregado.
+
+3.- Así se concluye al estimar que las encomendadas prestaciones de
+
+custodia no tienen el carácter mercantil que el artículo 233º del Código de Comercio
+
+requiere para, a su vez, determinar que el mandato respectivo posee carácter comercial.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 2.066, del 04.08.1998
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

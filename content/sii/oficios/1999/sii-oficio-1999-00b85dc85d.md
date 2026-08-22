@@ -1,0 +1,137 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-11-26
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.doc
+- Hash SHA-256: 74825ef98b60f8be947c5943a484ce40e5c121139e4700542dd73a343ced19c3
+
+## Resumen
+
+06 de 26.11.1999) Renta - Actual Ley sobre Impuesto a la - Art. 6�, Circular N� 143, de 1972. Noviembre 1999 Word Solicitan informaci�n tributaria de los contratos de Joint Ventures. (Oficio N� 4.270, de 25.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, Art�culo N� 18, inciso 1�. Noviembre 1999 Word Oportunidad en que se entienden adquiridos o enajenados los bienes ra�ces y calificaci�n de la indemnizaci�n por expropiaci�n de un bien ra�z. (Oficio N� 4.176, de 17.11.1999 - I. Dire…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ARTICULO 17º, Nº 8,  ARTICULO  18º,
+INCISO 1º.
+
+Interpretación   del   Servicio   de   las   expresiones   "adquisición"   y
+"enajenación" en compraventa de bienes  raíces  -  Tratamiento  en  caso  de
+enajenaciones de bienes raíces por expropiación - se entienden adquiridos  o
+enajenados los bienes raíces cuando  son  inscritos  en  el  Conservador  de
+Bienes Raíces -  Indemnización  destinada  a  resarcir  el  valor  del  bien
+expropiado, sin  acrecentarlo  constituiría  la  indemnización  de  un  daño
+emergente - Susceptible de calificarse en el Art. 17º, Nº 1 como ingreso  no
+constitutivo de  renta  -  Enajenación  por  expropiación  no  es  aplicable
+Presunción de Habitualidad - No concurre el acto voluntario de  enajenar  el
+bien.
+
+1.-   Por  intermedio  del  Ordinario  indicado  en  el  antecedente  se  ha
+remitido la presentación de un contribuyente, quien expresa que  de  acuerdo
+a lo establecido en el artículo 18, inciso primero, de la Ley de  la  Renta,
+en los casos indicados en las letras a),  b), c), d), i) y  j)   del  número
+8º del artículo 17 de esta misma ley, si tales  operaciones  representan  el
+resultado de negociaciones o actividades  realizadas  habitualmente  por  el
+contribuyente, el mayor valor que se obtenga estará afecto a  los  impuestos
+de  Primera  Categoría  y   Global   Complementario   o   Adicional,   según
+corresponda.
+
+Indica a continuación, que el inciso tercero de este  artículo  18,  presume
+de derecho que existe habitualidad en determinados casos que  señala  y  que
+en todos  los  demás  casos  se  presumirá  habitualidad  “cuando  entre  la
+adquisición o construcción del bien raíz  y  su  enajenación  transcurra  un
+plazo inferior a un año”.
+
+Por lo anterior consulta, cual es la interpretación que  da  el  Servicio  a
+las expresiones “adquisición“ y “enajenación“ en el caso de  compraventa  de
+bienes raíces, y más específicamente si por “adquisición“  se  entiende  que
+dicho hecho tiene lugar en la fecha del contrato o en la fecha   en  que  se
+practica la inscripción del dominio a favor del comprador en el Registro  de
+Propiedad del Conservador de Bienes Raíces. Asimismo, si  por  “enajenación”
+se entiende que dicho hecho tiene lugar en la fecha del contrato de venta  o
+en la fecha en que se practica la inscripción en el  Conservador  de  Bienes
+Raíces a nombre  del  comprador,  haciendo  presente  al  respecto,  que  el
+contrato de compra es un título que habilita para adquirir el dominio,  pero
+el comprador no lo adquiere por la celebración del contrato sino que por  la
+tradición que  se  practica  mediante  la  inscripción  en  el  Registro  de
+Propiedad del Conservador de Bienes Raíces.
+
+En relación con la misma materia, consulta  además cual  es  el  tratamiento
+que da este Servicio en el  caso  de  enajenaciones  de  bienes  raíces  por
+efecto de una expropiación, cuando entre la fecha de  adquisición  del  bien
+raíz y la fecha de enajenación por expropiación ha transcurrido menos de  un
+año.
+
+Al respecto,  y   no  siendo  la  expropiación  una  enajenación  voluntaria
+consulta, si se produce de todas maneras el hecho gravado en el caso en  que
+la indemnización  por  la  expropiación  sea  mayor  que  el  precio  de  la
+compraventa y por lo tanto si se devenga el impuesto a la renta.
+
+2.-   Sobre el particular, y en relación a la primera consulta formulada  en
+cuanto a la oportunidad en que  debe entenderse verificada la adquisición  y
+enajenación de un bien raíz, esta circunstancia se  da  cuando  el  inmueble
+respectivo   se  encuentra   inscrito  en  el  Registro  de  Propiedad   del
+Conservador de Bienes Raíces.
+
+ 3.-  En cuanto a precisar si el pago de una indemnización en el caso de  la
+expropiación de  un  bien  raíz  constituye  la  indemnización  de  un  daño
+emergente, susceptible de calificarse en el artículo 17 Nº 1 de  la  Ley  de
+la Renta, como un ingreso no constitutivo de renta, cabe tener presente  que
+la legislación vigente considera como una indemnización el pago destinado  a
+resarcir el valor del bien expropiado.
+
+En  efecto, el artículo  19  Nº  24,  inciso  tercero,  de  la  Constitución
+Política del Estado señala  que  el  expropiado  tendrá  siempre  derecho  a
+indemnización por el daño patrimonial efectivamente  causado.  Asimismo,  la
+Ley Orgánica de Procedimiento de Expropiaciones  aprobada  por  el  D.L.  Nº
+2.186 de 1978, define en su artículo  38º  el  concepto  de  “indemnización“
+como la  reparación  del  daño  patrimonial  efectivamente  causado  con  la
+expropiación y que sea una consecuencia directa e inmediata de la misma.
+
+De este modo, la indemnización  destinada  a  resarcir  el  valor  del  bien
+expropiado, reemplazándolo por otro de monto equivalente, con el  objeto  de
+evitar un menoscabo en el  patrimonio  del  expropiado,   sin  acrecentarlo,
+constituiría  la indemnización de un daño emergente. Con todo, en  principio
+dicha indemnización podría comprender el lucro cesante,  pero  ello  debería
+constar del propio fallo o resolución que fija la indemnización.
+
+Lo anterior, sin perjuicio de lo dispuesto en el inciso segundo  del  número
+1º del  artículo  17  de  la  Ley  de  la  Renta,  respecto  de  los  bienes
+incorporados al giro de  un  negocio,  empresa  o  actividad,  cuyas  rentas
+efectivas deban tributar con el impuesto de Primera Categoría.
+
+4.-   Finalmente, respecto de la procedencia de la aplicación  de  la  norma
+contenida en el inciso tercero del artículo 18 de la Ley  de  la  Renta   al
+caso de la enajenación de un bien  raíz  por  efecto  de  una  expropiación,
+cuando entre  su  fecha  de  adquisición  y  la  fecha  de  enajenación  por
+expropiación ha transcurrido menos de un año, se estima que la   apreciación
+del concepto de  habitualidad  que  en  ella  se  contiene  debe  entenderse
+asociada a la intención, necesidad o motivo  que  se  tuvo  al  enajenar  el
+bien, lo que hace suponer la existencia de un acto voluntario del  vendedor,
+presupuesto que excluiría de su ámbito de aplicación   a  las  enajenaciones
+originadas en  la expropiación de un inmueble  por   parte  del  Estado,  en
+que no concurre el acto voluntario  de  enajenar  el  bien,  no  siendo,  en
+consecuencia, aplicable dicha normativa al caso en análisis.
+
+
+
+                                                         JAVIER   ETCHEBERRY
+           CELHAY
+
+           DIRECTOR
+
+
+
+
+
+
+                       Oficio Nº 4.176, del 17.11.1999
+                           Subdirección Normativa
+                          Depto. Impuestos Directos

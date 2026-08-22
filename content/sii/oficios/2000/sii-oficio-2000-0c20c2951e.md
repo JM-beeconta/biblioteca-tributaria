@@ -1,0 +1,132 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-08-01
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/agosto08.htm
+- Hash SHA-256: b8c0f080117e6d639c58fca9e9804490a7ca75f7b2391eff7b9c52f2e03b7b20
+
+## Resumen
+
+s) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 55, inciso 8�. Word Solicita autorizaci�n para emitir gu�as de despacho en entrega de parte de los insumos y medicamentos necesarios para la elaboraci�n de alimento extruido, adquirido... (Of. N� 3.002, de 01.08.2000 - I. Indirectos). Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8�, letra m), Art. 23�, N� 2 - Art. 31 N�9 Ley de la Renta. Word Situaci�n tributaria de desembolsos incurridos en actividad minera y de impuesto al valor agre…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS  NUEVO TEXTO  LEY IMPUESTO A LAS
+
+Home | Ventas y Servicios - 2000 VENTAS Y SERVICIOS  NUEVO TEXTO  LEY IMPUESTO A
+LAS  ART. 8° LETRA m), ART.23 N° 2- ART. 31 N° 9 DE LA LEY DE LA RENTA.
+
+Situación tributaria de sociedad contractual minera en venta 
+Con FUT negativo e IVA acumulado  Interés por parte de otra sociedad chilena en
+adquirir la totalidad de sus acciones  Les afecta tratamiento tributario del
+artículo 31° N° 9 de la Ley de la Renta  Si enajenación de parte del proyecto
+minero consistió únicamente en la venta del estudió de factiblidad de esté 
+Operación no se encuentra gravada con IVA  El impuesto soportado en la adquisición
+de bienes o utilización de servicios no da derecho a crédito fiscal  Por el
+contrario si enajenación incluyó la venta de activo fijo antes del plazo de doce meses
+establecido en el artículo 8° letra m)  Operación se encontraría afecta a IVA
+ Contribuyente habría tenido derecho a crédito fiscal  Si se realizó con
+posterioridad al plazo de doce meses antes señalado operación no se encontraría afecta
+a IVA .
+
+1.- Se ha recibido en esta Dirección Nacional, una presentación
+en la cual se consulta por la situación tributaria de una sociedad contractual minera
+existente en Chile, con FUT negativo e IVA acumulado, la cual se encuentra actualmente en
+venta, existiendo interés por parte de otra sociedad chilena en adquirir la totalidad de
+sus acciones.
+
+Agrega que, por su intermedio se han puesto de acuerdo vendedora y
+compradora, en su precio y forma de pago, estando redactados los contratos de compraventa
+de las acciones.
+
+Expresa por otro lado, que la contabilidad y títulos de la sociedad en
+venta fueron auditados por una consultora de primer nivel, que ha señalado que la
+pérdida tributaria se generó del reconocimiento como gasto tributario de los desembolsos
+correspondientes a prospección, exploración y actividades pre-operacionales del proyecto
+minero. Dentro de la pérdida determinada se incluye el valor asignado a las pertenencias
+mineras, como costo.
+
+Por otra parte señala, que en cuanto al impuesto IVA acumulado, la
+consultora determinó que la única operación realizada por la sociedad minera en venta,
+fue la enajenación de parte del proyecto minero y que la sociedad no tiene otras
+operaciones afectas a este impuesto, razón por la cual el SII podría objetar este
+crédito fiscal.
+
+Finalmente expresa, que no obstante lo anterior, el interés de la
+compradora está vigente, razón por la cual estima conocer, antes de firmar los contratos
+de compraventa, la opinión de este Servicio, ya que la jurisprudencia administrativa
+existente al respecto es confusa y en razón de esta eventualidad solicita una
+orientación al respecto para dar un buen término a dicha operación.
+
+2.- Sobre el particular, y en materia de la Ley sobre Impuesto a la
+Renta, cabe señalar que el Servicio, mediante las instrucciones relacionadas con las
+actividades mineras, a todos aquellos desembolsos incurridos en forma previa a la
+explotación comercial de un yacimiento minero, como los que señala el recurrente en su
+escrito, les ha dado el carácter de gastos de organización y puesta en marcha, y en
+virtud de tal clasificación les afecta el tratamiento tributario dispuesto por el N° 9
+del artículo 31 de la Ley de la Renta, norma legal que dispone que tales gastos podrán
+ser amortizados hasta en un lapso de 6 ejercicios comerciales consecutivos contados desde
+que se generaron dichos desembolsos o desde el año en que la empresa comenzó a generar
+ingresos de su actividad principal, cuando este hecho sea posterior a la fecha en que se
+originaron los referidos gastos.
+
+Por otro lado, se hace presente que la parte final del inciso primero
+del artículo 30 de la Ley de la Renta, preceptúa que el costo directo del mineral
+extraído considerará también la parte del valor de adquisición de las pertenencias
+respectivas que corresponda a la proporción que el mineral extraído represente en el
+total del mineral que técnicamente se estime contiene el correspondiente grupo de
+pertenencias, en la forma que determine el reglamento respectivo, contenido en el Decreto
+Supremo N° 209, del Ministerio de Minería, publicado en el Diario Oficial de 24 de Enero
+de 1991.
+
+Por lo tanto, el valor de la pertenencia minera, ya sea el adquirido o
+asignado, debe formar parte del costo del mineral extraído bajo la forma que lo establece
+la norma legal antes indicada, y no mediante su traspaso total del valor de las
+pertenencias mineras al costo de la actividad, como ocurre en el caso planteado, en cuanto
+a que el recurrente sostiene que dentro de la pérdida determinada también se incluye
+como costo el valor asignado a las pertenencias mineras.
+
+3.- En cuanto al Impuesto al Valor Agregado, cabe señalar que para que
+el impuesto soportado al adquirir bienes o utilizar servicios, otorgue derecho a crédito
+fiscal, es requisito básico que quien soportó dicho impuesto sea contribuyente del
+impuesto al valor agregado y que las adquisiciones de bienes o la utilización de
+servicios se destinen a realizar operaciones gravadas con el mencionado tributo, tal como
+lo establece el artículo 23°, del D.L. N° 825, de 1974.
+
+De este modo, si la enajenación de parte del proyecto minero, a que
+hace referencia en su presentación, consistió únicamente en la venta del estudio de
+factibilidad del mencionado proyecto, dicha operación no se encuentra gravada con el
+Impuesto al Valor Agregado y por lo tanto, el impuesto soportado en la adquisición de
+bienes o utilización de servicios, no da derecho a crédito fiscal, según lo dispuesto
+por el artículo 23°, N° 2, del D.L. N° 825.
+
+Por el contrario, si dicha enajenación incluyó la venta de activo
+fijo, será necesario determinar si ésta se efectuó antes del plazo de doce meses
+establecido en el artículo 8°, letra m), del D.L. N° 825, caso en el cual la operación
+se encontraría afecta a IVA. De ser así, el contribuyente habría tenido derecho a un
+crédito fiscal equivalente al impuesto soportado en la adquisición de bienes o
+utilización de servicios.
+
+Finalmente, si la referida enajenación incluyó la venta de activo
+fijo pero ésta se realizó con posterioridad al plazo de doce meses establecido en la
+norma legal ya citada, dicha operación no se encontraría afecta a IVA y por lo tanto el
+contribuyente no habría tenido derecho a crédito fiscal, conforme a lo establecido por
+el señalado artículo 23°, N° 2, del D.L. N° 825.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 3.008, del 01.08.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Indirectos

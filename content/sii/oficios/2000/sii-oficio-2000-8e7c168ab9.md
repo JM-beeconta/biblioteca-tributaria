@@ -1,0 +1,81 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-02-01
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero21.doc
+- Hash SHA-256: 6734394b9992740dcdc94347688e1a3e203ec4a7c33f8c2fa26cfabd560cce79
+
+## Resumen
+
+arial" size="2"> Franquicia Tributaria - Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art. 36�, Circular N� 19, de 23.02.1999. Word Consultas relacionadas con Franquicia Tributaria, relativas al cr�dito por gastos de capacitaci�n contemplada... (Of. N� 383 de 01 de febrero de 2000) DFL N� 2, de 1996 - Art. 5� - beneficio tributario otorgado a subvenciones de establecimientos educacionales. Word Solicita se confirme si es correcto contabilizar dentro de los ingresos normales de la actividad educacional la s…
+
+## Referencias detectadas
+
+- {"type":"circular","number":91,"year":1980}
+- {"type":"articulo","law":"CT","article":"16"}
+
+## Texto extraído
+
+D.F.L. Nº 2, de 1996 - ART. 5º - BENEFICIO TRIBUTARIO OTORGADO A
+               SUBVENCIONES DE ESTABLECIMIENTOS EDUCACIONALES.
+____________________________________________________________________________
+______
+
+
+Contabilización  de   las   subvenciones   otorgadas   por   el   Estado   a
+establecimientos  educacionales  -  Servicio  carece  de  competencia   para
+impartir  normas  al  respecto  -  Contribuyentes  están   facultados   para
+registrar ingresos que perciban bajo los principios y  normas  contables  de
+general  aceptación  impartidas  por  organismos  colegiados  competentes  -
+Requisitos y condiciones para gozar de  beneficio  tributario,  Circular  Nº
+91, de 1980.
+
+
+
+1.-   Por presentación indicada en el antecedente, solicita se  le  confirme
+si es correcto contabilizar dentro de los ingresos normales de la  actividad
+educacional de su representada, la subvención  otorgada  por  el  Fisco,  en
+conformidad al artículo 5º del D.F.L. Nº 2, de 1996, no obstante la  calidad
+de ingreso no constitutivo de renta que  el  mencionado  precepto  legal  le
+otorga,  cuando  esta  subvención  es  destinada  íntegramente  al  pago  de
+remuneraciones al personal.
+
+2.-   Sobre el particular, cabe señalar en primer lugar, que  este  Servicio
+carece de competencia para impartir normas contables sobre la forma  en  que
+los contribuyentes deben contabilizar los ingresos o gastos provenientes  de
+las operaciones o actividades que  desarrollan  los  contribuyentes,  puesto
+que tal materia está radicada en los  organismos  técnicos  que  tienen  las
+facultades para ello, sin perjuicio de lo dispuesto por  el  inciso  primero
+del artículo 16 del Código Tributario, en cuanto establece que en los  casos
+en que la ley exija llevar contabilidad, los contribuyentes deberán  ajustar
+los sistemas de  ésta  y  los  de  confección  de  inventarios  a  prácticas
+contables adecuadas, que reflejen claramente el movimiento y  resultado   de
+sus negocios.
+
+3.-   En consecuencia, y de acuerdo a lo expresado en el número  precedente,
+los  contribuyentes  están  facultados  para  registrar  los  ingresos   que
+perciban bajo los  principios  y  normas  contables  de  general  aceptación
+impartidas por los organismos colegiados competentes, sin perjuicio  que  al
+resultado contable  que  arroje  el  balance  se  le  efectúen  los  ajustes
+necesarios que establece el artículo 33 de la Ley de la Renta,  con  el  fin
+de poder gozar del beneficio tributario que el artículo 5º del DFL Nº 2,  de
+1996, le otorga  a  las  subvenciones  recibidas  por  los  establecimientos
+educacionales, siempre y cuando  se  dé  cumplimiento  a  los  requisitos  y
+condiciones que exige dicha norma legal, cuyas instrucciones  este  Servicio
+las impartió mediante la Circular Nº 91, de 1980.
+
+
+
+
+                          JAVIER ETCHEBERRY CELHAY
+                                  DIRECTOR
+
+
+
+                        Oficio Nº 378, del 01.02.2000
+                           Subdirección Normativa
+                          Depto. Impuestos Directos

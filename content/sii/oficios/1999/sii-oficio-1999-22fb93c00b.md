@@ -1,0 +1,142 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-09-22
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/agosto16.doc
+- Hash SHA-256: 29667d89891ac67802f584ea1c36dad63bc940e8121bb704a8a3c9c1af8ecec2
+
+## Resumen
+
+F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999 - Art. 8� Ley N� 18.660 (D.O. 20.10.87). Septiembre 1999 Word Procedencia Del Beneficio Tributario Respecto De Los Mutuos Hipotecarios Otorgados Por Una Mutual. (Of. N� 3.536, Del 22.09.1999 - I. Directos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2.(D.O. de 31.07.59). Agosto 1999 Word Situaci�n de una vivienda transferida en principio con fines de inversi�n, luego a trav�s de una donaci�…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY Nº 19.622 - ESTABLECE BENEFICIOS TRIBUTARIOS POR ADQUISICION DE
+VIVIENDAS NUEVAS ACOGIDAS A NORMAS DEL D.F.L. Nº 2 (D.O de 31.07.59)
+
+
+
+
+
+Vivienda nueva para efectos de la Ley Nº 19.622 - Primera transferencia
+de viviendas con fines de inversión - Segunda transferencia a través
+de una donación para que sus actuales propietarios las vendan a
+terceros para su uso - Mantención de calidad de vivienda nueva mientras
+no sean usadas para tales fines.
+
+
+
+ 1.	Se ha recibido en esta Dirección una presentación indicada en el
+antecedente, a través de la cual se manifiesta que durante el año
+1997, se adquirió departamentos y casas nuevas, acogidos a las normas
+del DFL. Nº 2, con el fin de ocupar disponibilidades financieras y
+proteger esos recursos de eventuales desvalorizaciones. Estos inmuebles,
+en algunos casos sólo fueron terminados de construir en 1998.  En el
+mes de Abril de 1998   dona estos inmuebles, pagándose el impuesto
+correspondiente a esta donación. Lógicamente los donantes no pudieron
+haber habitado todos estos inmuebles, los que desde la fecha de término
+de su construcción han estado en venta, a través de Corredores de
+Propiedades.
+
+
+
+Señala a continuación, que en la actualidad existen interesados en
+adquirir estas viviendas, para ser usadas por primera vez, por lo tanto,
+es importante conocer la situación de estas viviendas para los efectos
+de que sus compradores puedan acogerse a los beneficios de la Ley Nº
+19.622, de 1999.
+
+
+
+Al respecto indica que el artículo 1º de esta ley establece que "Se
+entenderá por vivienda nueva, para los efectos de esta ley, aquella que
+se adquiera por primera vez para ser usada."  Señala además, que en la
+Circular Nº 46, emitida el 12 de Agosto de 1999 por este Servicio, se
+establece en el punto III letra C (1) que "Las viviendas que dan derecho
+a la rebaja tributaria en comento, son aquellas adquiridas nuevas,
+construidas bajo las normas del DFL. Nº 2, de 1959, entendiéndose por
+una vivienda nueva, según la propia disposición legal que contiene la
+franquicia, aquella que se adquiere por primera vez para ser usada por
+el propietario o por terceras personas."
+
+
+
+Finalmente manifiesta, que en el último párrafo de esta letra C del
+punto III se establece lo siguiente: "Se hace presente, a vía de
+ejemplo, que las viviendas nuevas adquiridas por dación en pago o
+remate judicial por bancos o entidades financieras y que sean vendidas
+en cumplimiento de la Ley General de Bancos, no pierden dicha calidad,
+puesto que no son adquiridas por dichas instituciones para ser usadas.
+Igual situación procederá en otros casos en que se acredite que la
+vivienda fue adquirida nueva y no ha sido usada, según las
+circunstancias de la operación."
+
+
+
+En consecuencia, concluye, conforme a su opinión, en el caso particular
+que ha planteado en su presentación, se dan los requisitos planteados
+en la Ley Nº 19.622, ya que estos inmuebles no han sido adquiridos para
+ser usados, por lo tanto el futuro comprador será el primero que
+adquiera estas viviendas para ser usadas.	
+
+
+
+ 2.	En relación con dicha materia procede expresar, que el artículo
+1º de la Ley Nº 19.622,  publicada en el Diario Oficial el 29 de Julio
+de 1999, en su inciso segundo, tal como Ud. indica en su presentación,
+establece que se entenderá por vivienda nueva, para los efectos de los
+beneficios que establece dicha norma legal, aquella que se adquiera por
+primera vez para ser usada.
+
+
+
+En consecuencia, de acuerdo a lo dispuesto por el precepto legal antes
+mencionado, por vivienda nueva se entiende aquella que se adquiere por
+primera vez para ser usada por su propietario o terceras personas, ya
+sea para su uso habitacional u otros fines, sin que pierda las
+características de un DFL Nº 2. En el caso que se plantea, en que las
+viviendas han sido transferidas en dos oportunidades sin que se haya
+hecho uso de ellas; en la primera con fines de inversión, y en la
+segunda a través de una donación; para que finalmente sus actuales
+propietarios las vendan a terceras personas para su uso, procede
+expresar, que en tal situación se mantiene la calidad de nuevas de las
+viviendas, ya que las dos anteriores transferencias no fueron efectuadas
+para el uso de tales bienes por parte de los adquirentes, todo ello, en
+la medida que concurran efectivamente las circunstancias por Ud.
+señaladas, debidamente acreditadas, dentro de las cuales adquiere
+especial relevancia el que tales viviendas hayan estado permanentemente
+a la venta sin haber sido usadas.
+
+
+
+
+
+
+
+
+
+						JAVIER ETCHEBERRY CELHAY
+
+						                 DIRECTOR
+
+
+
+
+
+
+
+
+
+Oficio Nº 3.437, del 13.09.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Directos

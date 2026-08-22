@@ -1,0 +1,114 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-05-26
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may18.htm
+- Hash SHA-256: 7ddfef0d173de97910e23e4e13737d9552c236dfa1aaacd2d2c94b5359477d6e
+
+## Resumen
+
+N� 2.277, del 26.05.1999) . Ventas y servicios - Nuevo texto ley impuesto a las - Artes. 2� Y 8�. Word Direcci�n Nacional del Trabajo � Cobro por gastos de emisi�n de documentos � Centralizaci�n de documentaci�n, autorizaci�n de jornada especial, certificado de contratista, ratificaci�n de finiquitos � No se encuentran gravados con impuesto al ...Oficio N� 2.235, del 25.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra i) Mayo 1999 Word Estacionamiento de autom�viles � Playas de estacion…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO LEY IMPUESTO A LAS - ART. 8º, LETRA i)
+
+Home | Ventas y Servicios - 1999 VENTAS Y SERVICIOS  NUEVO TEXTO LEY IMPUESTO A LAS  ART.
+
+8º, LETRA i)
+
+Estacionamiento de automóviles  Playas de estacionamiento u
+
+otros lugares destinados a dicho fin  Ingresos percibidos por dicho concepto,
+
+gravados con Impuesto al Valor Agregado  Lugares de estacionamiento, fueran espacios
+
+de uso común del inmueble  Sólo para comuneros  Ingresos percibidos de los
+
+propietarios y arrendatarios no afectos a Impuesto al Valor Agregado.
+
+1.- Se ha recibido en esta Dirección Nacional su oficio del
+
+antecedente, mediante el cual se remite una presentación de una COMUNIDAD CENTRO
+
+COMERCIAL, quien solicita se dictamine que la comunidad no se encuentra afecta al impuesto
+
+al valor agregado por las sumas cobradas a sus comuneros y usuarios por estacionamiento de
+
+automóviles.
+
+El recurrente expone en su presentación, que en el recinto de la
+
+comunidad Feria Persa, existe una zona de estacionamiento, donde en la actualidad no se
+
+percibe dinero alguno por su uso, al no perseguir esa comunidad fines de lucro; pero que,
+
+con motivo de una remodelación exigida por la Municipalidad, se ha visto en la
+
+obligación de cobrar, tanto a los comuneros como a los usuarios de la Feria, la suma de $
+
+120.-, por hora, valores que expresa, se destinarán exclusivamente para la remodelación
+
+del recinto.
+
+Finalmente, y por las razones anteriores, solicita a este Servicio se
+
+le autorice a emitir comprobantes de ingreso para el control de automóviles, en los que
+
+se especifique que el ingreso de vehículos al recinto no se encuentra afecto al pago de
+
+impuesto al valor agregado.
+
+2.- El artículo 8º del D.L. Nº 825, de 1974, en su letra i)
+
+establece que se encuentra gravado con el impuesto al valor agregado el estacionamiento de
+
+automóviles y otros vehículos en playas de estacionamiento u otros lugares destinados a
+
+dicho fin.
+
+3.- En cuanto a lo solicitado por el recurrente de que se aplique en su
+
+caso un criterio similar al utilizado, cabe expresar que en dicho dictamen el cobro que se
+
+formulaba era por el acceso de los vehículos a la feria y por su instalación en el sitio
+
+dedicado a las transacciones comerciales, no constituyendo dichos sitios playas de
+
+estacionamiento de vehículos, ni lugares destinados a dicho fin, como ocurre en el caso
+
+planteado por la recurrente, por lo que los ingresos que perciba la comunidad se
+
+encontrarían gravados con el impuesto al valor agregado, de acuerdo a lo dispuesto en la
+
+letra i) del D.L. Nº 825, de 1974.
+
+4.- No obstante lo anterior, en el evento que los lugares de
+
+estacionamientos de la Feria Persa, fueran espacios de uso común del inmueble sólo para
+
+los comuneros, los ingresos que perciba la comunidad de los propietarios y arrendatarios
+
+de los locales por este concepto, no se encontrarían gravados con el impuesto al valor
+
+agregado, de acuerdo a la norma señalada, en atención a que tales espacios comunes no
+
+constituyen una playa de estacionamiento susceptible de ser explotada como tal.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 2.093, del 13.05.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

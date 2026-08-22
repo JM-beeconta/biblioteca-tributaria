@@ -1,0 +1,251 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-10-29
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre11.doc
+- Hash SHA-256: 77b8c2751b414f33b18e77ea90654a5a985a51e7328be9a2736ca4dd0a7c015a
+
+## Resumen
+
+rt. 8� - Art. 17�, N�s. 9 Y 11, Art. 20�, N� 1 al 5 y Art. 40, N� 4 de la Ley de la Renta. Octubre 1999 Word Exenci�n de pago de IVA, PPM e Impuesto a la Renta por los ingresos derivados de la edici�n de revista ambiental educativa. (Of. N� 4.104, de 10.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Arts. 2�, N� 1 Y 3�, Art. 12�, Art. 36� - Art. 7� Decreto Ley N� 3.059, de 1979. Octubre 1999 Word Rancho de naves - Aprovisionamiento por un proveedor de naves y recuperaci�n del IVA…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO - LEY IMPUESTO A LAS - ART. 2º, Nº 1 
+Y  3, ART. 12º, ART. 36º - ART. 7º DEL DECRETO LEY Nº 3.059, DE
+1979.
+
+________________________________________________________________________
+_____
+
+
+
+Rancho de naves - Recuperación del IVA soportado para proveerlo a naves
+de transporte desde o hacia Chile, o a naves en tránsito por el país -
+Aprovisionamiento por un proveedor de naves - Concepto - Venta del
+aprovisionamiento de rancho de proveedor en territorio nacional a
+navieras se encuentra gravada con IVA - Sólo empresas navieras que
+actúen como exportadoras pueden recuperar el Impuesto al Valor
+Agregado.
+
+
+
+1.-	Un agente de Aduanas, solicita se reconozca que las empresas
+navieras pueden recuperar íntegramente el impuesto al valor agregado
+soportado al adquirir el aprovisionamiento de rancho de sus naves de
+tráfico internacional, por el monto que les haya sido recargado en las
+facturas extendidas por ese concepto, por los denominados "proveedores
+de naves". 
+
+
+
+Pide asimismo, se declare que el IVA recuperable por este motivo, puede
+ser restituido directamente a estos proveedores, en aquellos casos en
+que no les haya sido pagado por las empresas navieras adquirentes del
+rancho, al solucionarles tales facturas sólo por su valor neto. 
+
+ 
+
+2.- 	Manifiesta que Aduanas ha  dispuesto en lo pertinente, que sólo
+pueden exportar mercancías de rancho las empresas marítimas o sus
+representantes en Chile, para surtir sus naves de transporte
+internacional.
+
+
+
+En esos  términos, a su juicio, tales empresas navieras o sus agentes
+son exportadores de ese aprovisionamiento de rancho de sus naves de
+transporte internacional y, por lo tanto, puede serles reembolsado el
+total del IVA soportado en las facturas de ese suministro específico,
+no obstante lo cual las instrucciones dictadas por esta Dirección
+Nacional habrían determinado al propósito, que sólo pueden recuperar
+aquella parte del IVA que corresponda a ese aprovisionamiento a tales
+naves, dentro del crédito fiscal de utilización común que exista en
+el período respectivo. 
+
+
+
+En esas condiciones y de acuerdo a la normativa vigente, expresa, los
+mencionados proveedores de naves que suministran y entregan las
+mercancías de rancho directamente a bordo de ellas, facturan su venta a
+la naviera o su agente, detallando el precio en moneda nacional y
+recargando el IVA.  
+
+
+
+Agrega que pese a ello y por una práctica usual del comercio -aceptada,
+por lo demás, por el mismo proveedor que debe adaptarse a las
+condiciones del mercado portuario- a menudo a ese proveedor se le paga
+el precio del suministro en moneda extranjera, sólo por su  valor neto
+sin incluir el impuesto que, en definitiva, es recuperado por la naviera
+según las disposiciones del artículo 36º del Decreto Ley Nº 825, de
+1974. 
+
+
+
+En esas circunstancias, prosigue señalando, en que a su entender es el
+propio proveedor de naves quien realmente  soporta el tributo, éste
+debería serle restituido directamente a ese proveedor, y por el monto
+exacto del recargado en la factura respectiva.
+
+
+
+Argumenta a este último propósito, que si bien se ha determinado para
+el caso que la naviera o su agente pueden recuperar el IVA sólo en
+forma proporcional al soportado en las adquisiciones  de bienes
+destinados exclusivamente a sus naves de transporte internacional,
+respecto del soportado en tales adquisiciones destinadas al total del
+transporte del período, este reembolso debería regirse siempre por la
+normativa que dispone esa recuperación para naves que  efectúan ese
+transporte únicamente en forma internacional, a las cuales se faculta
+la recuperación íntegra del impuesto. 
+
+
+
+3.-	De acuerdo con lo establecido en el artículo 2º, Nºs 1º y 3º,
+del Decreto Ley Nº 825, de 1974, el tributo al valor agregado grava, en
+lo que concierne a esta presentación, a la venta de bienes corporales
+muebles realizada por un vendedor habitual de esos bienes.
+
+
+
+El artículo 12º, letra D.-, del mismo decreto ley declara, por su
+parte, exentas del tributo, a las especies exportadas en su venta al
+exterior. 
+
+
+
+A su vez, el artículo 36º del mismo cuerpo legal faculta en general a
+los exportadores, como vendedores hacia el exterior, para recuperar el
+impuesto al valor agregado soportado al adquirir -por compra o
+importación- bienes destinados a esa actividad de exportación exenta
+del tributo.
+
+
+
+Pues bien, esa misma norma, en su inciso cuarto, incluye en la
+franquicia de recuperación del tributo, a los prestadores de servicios
+que efectúen transporte terrestre de carga y aéreo de pasajeros y
+carga, desde Chile al exterior o viceversa.
+
+
+
+El artículo 7º del Decreto Ley Nº 3059, de 1979, por su parte, hace
+extensivo el beneficio a las empresas navieras que realicen transporte
+de pasajeros o carga, desde Chile al exterior o viceversa. 
+
+
+
+Finalmente, el inciso quinto del mencionado artículo 36º del Decreto
+Ley Nº 825, de 1974, considera para estos fines como exportadores, a
+las empresas navieras o sus representantes en Chile, que efectúen
+transporte de pasajeros o carga en tránsito por el país, esto es, que
+no tomen o dejen pasajeros ni carguen o descarguen mercancías en
+territorio nacional, respecto de la adquisición de bienes para el
+aprovisionamiento denominado rancho de sus naves.  
+
+
+
+4.-	Al tenor de esa normativa, la venta del aprovisionamiento de rancho
+que hace el proveedor, en territorio nacional, a las navieras
+prestadoras del servicio de transporte de pasajeros o carga - que lo
+efectúen sea desde Chile hacia el exterior o viceversa, o en naves que
+se hallen sólo en tránsito por el país y que por lo tanto no tomen ni
+dejen pasajeros, ni carguen o descarguen mercancías, en Chile- se
+encuentra gravada con el impuesto al valor agregado, que el
+suministrador debe recargar en la factura respectiva, declarándolo e
+imputando a su débito el crédito fiscal correlativo o pagándolo
+directamente, según las reglas generales de aplicación del tributo.   
+  
+
+
+
+A ese mismo tenor, son esas empresas navieras o sus representantes en
+Chile, como adquirentes del aprovisionamiento de rancho para sus naves
+que efectúen transporte de pasajeros o carga desde o hacia el
+territorio nacional, o para sus naves que sólo transiten por el país
+sin dejar o tomar pasajeros, ni cargar o descargar mercancías en él,
+los únicos que pueden recuperar el impuesto al valor agregado soportado
+en tal adquisición.
+
+
+
+Resulta obvio, por su parte, que esta recuperación del IVA sólo puede
+alcanzar -como se ha indicado en las instrucciones observadas en esta
+oportunidad- al monto proporcional del crédito fiscal de utilización
+común que exista en el período correspondiente, en aquellos casos en
+que se haya facturado conjuntamente el aprovisionamiento de rancho a
+naves de transporte internacional y el aprovisionamiento de rancho a
+naves de cabotaje.
+
+
+
+5.-	De esta manera, el legislador establece la referida franquicia
+exclusivamente para las empresas navieras que en la especie actúen como
+exportadoras -o que considere como tales- del cuestionado
+aprovisionamiento de rancho para aquellas de sus naves en que efectúen
+transporte desde Chile al exterior o viceversa, o para sus naves que
+sólo transiten por el país, procedentes del extranjero y con ese
+destino, y no para el proveedor del rancho que se lo vende, en el país,
+a esa naviera. 
+
+
+
+6.-	Por último, en la situación representada por el ocurrente, en  que
+se hallarían los proveedores de naves a  quienes se les pagaría el
+precio del suministro de rancho sólo por el monto neto facturado, sin
+incluir el impuesto al valor agregado recargado en el mismo documento,
+la obligación tributaria se encontraría cumplida por el propio
+vendedor de acuerdo a las reglas generales, en la medida en que debió
+declarar ese gravamen que tuvo que recargar en la factura, imputando a
+su débito el crédito fiscal correlativo, o solucionándolo
+directamente en Tesorerías. 
+
+
+
+
+
+En tales términos, ese problema carece de relevancia tributaria alguna
+y, por lo tanto, su solución es ajena a la competencia de esta
+Dirección Nacional, no obstante lo cual se reitera que el proveedor de
+naves que suministra el rancho en el país -aunque entregue ese
+aprovisionamiento exclusivamente a naves de transporte internacional-
+está realizando su venta en Chile y no hacia el exterior y por
+consiguiente no puede, bajo ninguna circunstancia, recuperar el IVA como
+exportador. 
+
+
+
+
+
+
+
+
+
+
+
+JAVIER ETCHEBERRY CELHAYDIRECTOR
+
+
+
+
+
+		 
+
+
+
+
+
+Oficio Nº 3.992, del 29.10.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

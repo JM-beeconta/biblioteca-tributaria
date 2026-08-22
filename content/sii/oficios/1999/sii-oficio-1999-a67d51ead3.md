@@ -1,0 +1,246 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-11-16
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre07.htm
+- Hash SHA-256: e845211fdb2bbdd62363b09450cb6255dfbe32208bb40d2d78c3bc10518132ca
+
+## Resumen
+
+evo texto - Ley Impuesto a las - Arts. N�s. 2�, N� 2, Art. 8� y Art. 20�, N� 3. Octubre 1999 Word Impuesto al Valor Agregado que afecta al servicio de administraci�n de edificios, prestado por una sociedad que tributa en primera categor�a y cuya labor remunerada consiste en atender diversas materias relativas al funcionamiento de los inmuebles administrados como son: aseo, mantenci�n, recaudaci�n de gastos comunes, etc. (Of. N� 4.155, de 16.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART
+
+Home | Ventas y Servicios VENTAS Y SERVICIOS - NUEVO TEXTO - LEY IMPUESTO A LAS -
+
+ART. 2º, Nº 1 Y 2, ART. 3º, ART. 8º - ART. 17º, Nº 9 Y 11, ART. 20º, Nº 1 AL 5 Y
+
+ART. 40º, Nº 4, DE LA LEY DE LA RENTA.
+
+_____________________________________________________________________________
+
+Edición de revista educativa - Fundación de derecho privado - Toda
+
+persona natural o jurídica reviste la calidad de contribuyente - Personas jurídicas
+
+están afectas al impuesto en la medida que obtengan rentas clasificadas en la primera
+
+categoría - Deben efectuar pagos provisionales mensuales - No procede exención del
+
+artículo 40º, Nº 4, de la Ley de la Renta - Cuotas que eroguen los asociados a la
+
+Fundación no constituyen renta - Conceptos - Ingresos percibidos por edición de revista
+
+están afectos a Impuesto al Valor Agregado.
+
+1.- Por presentación del antecedente una Fundación solicita a este Servicio se exima a
+
+su representada del pago de tributos, tales como IVA, PPM e Impuesto a la Renta, por los
+
+ingresos derivados de la edición de la revista ambiental educativa, por las razones que a
+
+continuación expone.
+
+Expresa, que es una fundación sin fines de lucro, cuya personalidad
+
+jurídica le fue otorgada por Decreto Supremo de Justicia Nº 1.759, del 28 de Diciembre
+
+de 1992, y tiene como misión aumentar la capacidad organizada de las personas para cuidar
+
+el medio ambiente. Para cumplir esta misión, entre otras actividades, edita una
+
+publicación mensual de una revista de carácter educativo dirigida al público interesado
+
+en la educación medioambiental, la que se financia en parte, con donaciones de organismos
+
+extranjeros, aportes de entidades nacionales y suscripciones. Agrega, que los próximos
+
+números serán financiados por la Agencia Suiza para el Desarrollo y Cooperación,
+
+COSUDE, por la Comisión Nacional del Medio Ambiente, CONAMA, y por aportes de
+
+suscriptores individuales, entre ellos, el Ministerio de Educación, para su distribución
+
+en Liceos Públicos.
+
+Señala que la publicación de la revista no persigue un fin de lucro,
+
+y con los recursos antes mencionados no alcanza a financiar su costo total, indicando que
+
+la venta de suscripciones obliga a la fundación a pagar PPM, Impuesto a la Renta e IVA, y
+
+es así como desde 1998 se paga mes a mes en el Formulario 29, sin imputar el crédito
+
+fiscal al que eventualmente tendrían derecho.
+
+Todo lo anterior, dice, lleva a una suerte de contradicción, ya que ni
+
+la Fundación tiene fines de lucro, ni la revista genera excedentes y sin embargo,
+
+estaría aparentemente obligada a presentar balance y declarar los ingresos de la revista;
+
+y que, para identificar estos ingresos, gastos y resultados, tendría que llevar
+
+contabilidad separada del resto de sus operaciones, lo que complica en extremo y hace
+
+altamente onerosa la contabilidad general.
+
+2.- Sobre el particular, cabe señalar que analizados los Estatutos y
+
+el Decreto de Concesión de Personalidad Jurídica de la entidad recurrente, se desprende
+
+que tiene la calidad jurídica de una fundación de derecho privado, regida por sus
+
+estatutos, y en silencio de ellos, por las disposiciones del Título XXXIII del libro I
+
+del Código Civil.
+
+Ahora bien, el Servicio ha señalado, en relación con las obligaciones
+
+frente a la Ley de la Renta, en diferentes pronunciamientos, que todas las personas, sean
+
+naturales o jurídicas, revisten la calidad de "contribuyentes" en la medida que
+
+puedan estar sujetas a algunos de los tributos que en ella se establecen, lo cual ocurre
+
+en el caso que tales personas posean bienes o realicen actividades susceptibles de generar
+
+rentas que se clasifiquen en la Primera Categoría. En efecto, la Ley de la Renta, salvo
+
+excepciones taxativas, no atiende a la naturaleza o finalidad de las personas para
+
+gravarlas o no con impuesto, sino que considera las actividades que realizan, los actos y
+
+contratos que ejecutan y los beneficios económicos que puedan obtener.
+
+En tal sentido, las personas jurídicas regidas por el Título XXXIII
+
+del Libro I del Código Civil, están afectas a impuesto en la medida que obtengan rentas
+
+clasificadas en la Primera Categoría de la Ley de la Renta, atendiendo a la fuente
+
+generadora de sus ingresos, los cuales pueden provenir, entre otros, de actividades
+
+rentísticas, de inversiones mobiliarias, del comercio, de la industria, de servicios o de
+
+cualquier otra actividad que se encuentre comprendida en los números 1 al 5 del artículo
+
+20 de la Ley de la Renta.
+
+Así por ejemplo, si una entidad en conformidad a sus estatutos no
+
+persigue fines de lucro, y al margen de su actividad social, percibe o devenga utilidades
+
+obtenidas de una explotación comercial, aún cuando destine esas rentas a los fines para
+
+los cuales fue creada, debe tributar con los impuestos normales de la Ley de la Renta,
+
+esto es, con el impuesto de Primera Categoría y efectuar pagos provisionales mensuales a
+
+cuenta de dicho tributo, conforme a las normas del artículo 84 de la ley del ramo,
+
+incluyendo las demás obligaciones administrativas que establecen las normas de la Ley de
+
+la Renta y el Código Tributario.
+
+3.- Teniendo en consideración los fines que persigue la recurrente,
+
+descritos en el Artículo Segundo de sus Estatutos, se estima que no es procedente la
+
+exención del impuesto de Primera Categoría a que se refiere el Nº 4 del artículo 40 de
+
+la Ley de la Renta, norma ésta que señala que estarán exentas del impuesto de Primera
+
+Categoría las rentas percibidas por las instituciones de beneficencia que determine el
+
+Presidente de la República, y sólo podrán impetrar este beneficio aquellas
+
+instituciones que no persigan fines de lucro y que de acuerdo a sus estatutos tengan por
+
+objeto principal proporcionar ayuda material o de otra índole a personas de escasos
+
+recursos económicos; situación que no se da en el caso en análisis.
+
+4.- Por otra parte, es importante destacar, que respecto de las cuotas
+
+que eroguen los asociados a tales fundaciones o corporaciones, entendiéndose por éstas
+
+aquellas contribuciones periódicas, fijas o variables o las donaciones que dichas
+
+entidades puedan recibir de terceras personas, con el fin de afrontar gastos o a fines
+
+sociales, no constituyen renta para la receptora de las referidas sumas, ello en virtud de
+
+lo dispuesto en los números 9 y 11 del artículo 17 de la Ley de la Renta.
+
+5.- En cuanto a la aplicación del impuesto al valor agregado, por los
+
+ingresos generados con ocasión de la publicación de la revista editada por su
+
+representada, puedo manifestar a Ud., lo siguiente:
+
+El artículo 8º del D.L. Nº 825, de 1974, señala que, el impuesto al
+
+valor agregado afecta a las ventas y servicios.
+
+El artículo 2º del mismo cuerpo legal, en sus Nºs 1 y 2, define lo
+
+que se entiende por "venta" y "servicio", como hechos susceptibles de
+
+ser gravados con el impuesto al valor agregado.
+
+A su vez, el artículo 3º, del texto legal antes referido, señala
+
+que: "son contribuyentes para los efectos de esta ley (IVA) las personas naturales o
+
+jurídicas, incluyendo las comunidades y las sociedades de hecho, que realicen ventas, que
+
+presten servicios o efectúen cualquier otra operación gravada con los impuestos
+
+establecidos en ella".
+
+6.- De lo expresado en su presentación, se desprende que su
+
+representada, entre otras actividades, edita, publica y distribuye mensualmente, una
+
+revista que se financia, en parte, con la venta de suscripciones de la misma, operación
+
+que se encuentra gravada con el Impuesto al Valor Agregado.
+
+En relación a la solicitud de exención del señalado impuesto, cabe
+
+señalar a Ud., que de acuerdo a la legislación vigente, este Servicio no tiene facultad
+
+alguna que le permita declarar liberaciones de gravámenes que no se encuentran
+
+expresamente establecidos en la ley, por lo que, las ventas y servicios efectuados por su
+
+representada susceptibles de ser gravados con el impuesto al valor agregado de acuerdo a
+
+las disposiciones del D.L. Nº 825, de 1974, deberán cumplir con el pago del referido
+
+tributo, teniendo derecho a un crédito fiscal contra el débito fiscal determinado por el
+
+mismo período tributario, de conformidad con las normas del párrafo 6º del texto legal
+
+antes señalado.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 4.104, del 10.11.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

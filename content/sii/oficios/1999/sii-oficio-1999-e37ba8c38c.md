@@ -1,0 +1,236 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-09-27
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/octubre09.doc
+- Hash SHA-256: bd4bae9d882ef54540ecc7dd10a1b187b7da110b9537aac4504a01cb75735252
+
+## Resumen
+
+neficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de 1999. Word Personas que tienen derecho al beneficio tributario establecido por la Ley N� 19.622, de 1999. (Of. N� 3.774, de 25.09.2000 - I. Directos) . Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959). Word Adquisici�n en forma conjunta con c�nyuge de vivienda nueva acogida a las normas del D.F.L. N�…
+
+## Referencias detectadas
+
+- {"type":"circular","number":46,"year":1999}
+
+## Texto extraído
+
+LEY  N°  19.622  –  ESTABLECE  BENEFICIOS  TRIBUTARIOS  POR  ADQUISICION  DE
+VIVIENDAS NUEVAS ACOGIDAS A NORMAS DEL D.F.L. N° 2 (D.O. 31.07.59)  CIRCULAR
+N° 46, DE 1999
+
+Comunidad que adquire vivienda nueva D.F.L. 2 –  Contribuyentes  que  tienen
+derecho a acogerse al beneficio tributario artículo 1°  Ley  N°  19.622,  de
+1999 – Instrucciones pertinentes  relativas  a  esta  franquicia  tributaria
+impartidas por el Servicio   a  través  de    Circular  N°  46,  de  1999  –
+Requisitos copulativos para que los  contribuyentes  puedan  hacer  uso  del
+beneficio – Favorece sólo a las personas naturales – Solución propuesta  por
+ contribuyente significaría una resciliación del contrato y no tiene  efecto
+retroactivo respecto del Fisco que es un tercero.
+
+1.-   Por presentación indicada en el antecedente, señalan que en virtud  de
+la Ley N° 19.622, de 1999, la cual favorece a los compradores  de  viviendas
+nuevas  D.F.L.  N°  2,   estableciendo   beneficios   tributarios   por   su
+adquisición, decidieron comprar un departamento.
+
+Señalan, que el día 27 de Septiembre de 1999 firmaron la  escritura  pública
+en la cual ambos  figuran  como  compradores,  después  de  que  consultaran
+explícitamente al  Banco,  institución  financiera  que  otorgó  el  crédito
+hipotecario  para  la  compra  del  departamento,  si  esta   situación   no
+invalidaría el  uso  de  la  franquicia  tributaria  en  la  Declaración  de
+Impuestos a la Renta 2000 del titular del crédito hipotecario. La  respuesta
+del banco, basándose en la  información  que  en  ese  minuto  se  manejaba,
+indicó que no habría ningún problema figurando los dos como compradores.
+
+Agregan, por otro lado, que al momento  de  realizar  sus  declaraciones  de
+impuestos  de  este  año,   solicitaron  al  banco  el   certificado   sobre
+dividendos hipotecarios pagados. Luego de que pasó un tiempo, se les  indicó
+que no estaban favorecidos por dicha ley según Fax con la  copia  de  un  E-
+mail interno del Banco con fecha 18 de Octubre de 1999, mediante el cual  se
+les señaló que según consulta efectuada por el banco al SII,  la  compra  de
+un bien habitacional sólo está afecta  a  la  Ley  N°  19.622  si  ésta  era
+realizada  por  una  persona  individual  y  no  una  compra  en  comunidad,
+incluyendo específicamente compras con el cónyuge.  Expresan  más  adelante,
+que al momento de recibir esa información, se dieron cuenta  que  cometieron
+un error debido a la desinformación y poca claridad de la ley  existente  al
+momento de realizar la compra, incluso  al  interior  del  Banco.  De  igual
+forma averiguaron que en la escritura pública de  la  compraventa  se  debió
+haber consignado una leyenda que  indicara  que  la  vivienda  adquirida  se
+acoge a los beneficios tributarios a que se refiere la  Ley  N°  19.622  por
+cumplir con las condiciones y requisitos que exige dicho texto legal,  y  al
+desconocer la necesidad de esta leyenda no se percataron de su  ausencia  al
+momento de firmar la escritura.
+
+Por otra parte, expresan que  teniendo  claro  estos  temas,  decidieron  no
+declarar lo referente al departamento comprado por ambos, pero sí  presentar
+su caso ante el SII y solicitar una solución para el  mismo,  para  lo  cual
+formulan dos alternativas como posibles soluciones a su problema:
+
+           a) Considerando que la compra de su departamento no tiene un  fin
+              comercial y que la naturaleza de la adquisición no  contradice
+              lo indicado en la Ley N° 19.622, solicitan no restringir a una
+              comunidad conyugal el beneficio tributario planteado por dicha
+              ley. Según  este  planteamiento,  en  su  caso,  el  beneficio
+              tributario debería  estar  asociado  al  titular  del  crédito
+              hipotecario desde  la  Declaración  de  Impuesto  a  la  Renta
+              correspondiente al año 2001 hasta cuando corresponda. El valor
+              tope de la deducción mensual  debería  respetar  la  fecha  de
+              compra  del  departamento  (27  de  septiembre  de   1999)   y
+              corresponder, por tanto, a 10 UTM. La ausencia de  la  leyenda
+              que deja constancia en la escritura pública de que la vivienda
+              adquirida se acoge a los beneficios tributarios de la  Ley  N°
+              19.622, debería ser equivalente a la presentación al  Servicio
+              de Impuestos Internos de una  declaración  jurada  en  que  se
+              indique el tenor de la leyenda ausente en la escritura; y
+
+           b)  Si  la  situación  anterior  no  es   factible,   dadas   las
+              interpretaciones que se han dado de la Ley N° 19.622,  aceptar
+              una corrección de la escritura  de  compra  del  departamento,
+              modificando la propiedad a un sólo dueño. Esta alternativa  no
+              contradice la forma en la cual se compró  el  departamento  ya
+              que  consideran  un  error   haber   inscrito   la   propiedad
+              considerándose  a  ambos  como  dueños,  ya  que   esto   está
+              significando inconvenientes  en  la  obtención  del  beneficio
+              tributario el cual era considerado como objetivo fundamental y
+              central de la compra de la vivienda en cuestión. De esta forma
+              el  beneficio  tributario  debería  estar  asociado  al  único
+              propietario del departamento desde la Declaración de  Impuesto
+              a  la  Renta  correspondiente  al  año   2001   hasta   cuando
+              corresponda. El valor tope de  la  deducción  mensual  debería
+              respetar la fecha de compra del departamento (27 de Septiembre
+              de 1999)  y  corresponder,  por  tanto,  a  10  UTM.  En  esta
+              rectificación se incorporaría la leyenda que  deja  constancia
+              de que  la  vivienda  adquirida  se  acoge  a  los  beneficios
+              tributarios de la Ley N° 19.622.
+
+En relación  con  lo  antes  expuesto,  solicitan  se  les  confirme  si  se
+considera factible alguna de las alternativas anteriores o  si  existe  otra
+forma  de  solucionar  su  problema,  ya  que  el  motivo  principal  de  su
+presentación es solucionar esta situación en la Declaración  de  Impuesto  a
+la Renta del año  2001  hacia  adelante,  obviando  el  hecho  de  no  haber
+incluido los dividendos hipotecarios pagados  durante  el  año  1999  en  la
+declaración correspondiente al año 2000, ya que todo lo  antes  expuesto  se
+debió por desinformación, o por poca claridad de la ley, lo que los llevó  a
+comprar un departamento en copropiedad, sin saber que esto les  quitaría  la
+posibilidad de ser favorecidos por la mencionada ley.
+
+ 2.-  Sobre el particular, cabe señalar en primer término, que  el  artículo
+1° de la Ley N° 19.622, publicada en el Diario Oficial el  29  de  Julio  de
+1999, establece que: "Los contribuyentes de los  impuestos  establecidos  en
+los artículos 43°, número 1°, y 52°, de la Ley sobre Impuesto  a  la  Renta,
+contenida en el artículo  1°  del  decreto  ley  N°  824,  de  1974,  podrán
+deducir, de sus rentas afectas a los impuestos respectivos, las  cuotas  que
+paguen en el  año  comercial  que  corresponda,  por  las  obligaciones  con
+garantía  hipotecaria  que  hayan  contraído  con  bancos  e   instituciones
+financieras y agentes administradores de créditos hipotecarios endosables  a
+que se refiere el artículo 21 bis del decreto con fuerza de ley N°  251,  de
+1931, que operen en el  país,  en  la  adquisición  de  una  vivienda  nueva
+acogida a las normas del decreto con fuerza de ley N° 2,  de  1959,  que  se
+constituya en garantía hipotecaria de dichas obligaciones.
+
+Se entenderá por vivienda nueva, para los efectos de esta ley,  aquella  que
+se adquiera por primera vez para ser usada.
+
+Para la procedencia del beneficio  establecido  en  el  inciso  primero,  el
+adquirente  de  la  vivienda  deberá  dejar  constancia,  en  la   escritura
+respectiva, de que se acoge a dicho beneficio."
+
+3.-   Ahora bien, este Servicio las instrucciones  pertinentes  relativas  a
+esta franquicia tributaria las impartió a través de la Circular  N°  46,  de
+fecha 12 de Agosto de 1999, señalando que los contribuyentes que  se  pueden
+acoger al beneficio, conforme a lo dispuesto por el artículo 1°  de  la  Ley
+N° 19.622, son las personas  naturales  afectas  al  Impuesto  Unico  a  las
+Rentas  del  Trabajo  dependiente  o  al  Impuesto  Global   Complementario,
+establecidos en los artículos 43,  N°  1  y  52  de  la  Ley  de  la  Renta,
+respectivamente,  siempre  que  cumplan  con   los   siguientes   requisitos
+copulativos:
+
+           a) Que contraigan una obligación  con  garantía  hipotecaria  con
+              bancos e instituciones financieras o  agentes  administradores
+              de créditos  hipotecarios  endosables  a  que  se  refiere  el
+              artículo 21 bis del D.F.L. N° 251, de 1931, que operen  en  el
+              país;
+
+           b) Que con dicho crédito se adquiera una vivienda nueva acogida a
+              las normas del decreto con fuerza de ley N° 2, de 1959, y
+
+           c) Que la misma vivienda se constituya en garantía hipotecaria de
+              la citada obligación contraída.
+
+A través del mismo instructivo se señaló, y según lo  establece  la  ley  en
+comento, que en el caso de las cooperativas de vivienda, la fecha en que  se
+contrae la obligación hipotecaria para construir los  inmuebles,  fijará  el
+tope máximo expresado en UTM que corresponda,  respecto  de  los  cooperados
+que tengan esta calidad a la fecha en  que  la  cooperativa  contrajo  dicha
+obligación; pero el derecho a la deducción de los pagos efectuados por  cada
+socio de la base imponible  de  sus  impuestos  personales,  sólo  procederá
+desde la fecha en que dicho socio  adquiera  el  bien  raíz  acogido  a  las
+normas del D.F.L. N° 2, de 1959, es decir, se haya perfeccionado  legalmente
+la adjudicación o la compraventa respectiva,  según  corresponda.  Ello  por
+cuanto  la  ley  supone  como  requisito  básico  para  la  procedencia  del
+beneficio, que se adquiera una vivienda y no meros derechos sobre ella.
+
+4.-   De lo antes expuesto, se desprende entonces  que  la  Ley  N°  19.622,
+estableció una serie de requisitos para que los contribuyentes puedan  hacer
+uso del beneficio que ella establece, entre los  cuales  se  pueden  indicar
+que los beneficiarios de tal franquicia son los  contribuyentes  del  Impto.
+Unico de Segunda Categoría  o  del  Impuesto  Global  Complementario,  según
+corresponda, vale decir, que sean personas  naturales  que  son  las  únicas
+afectas a los tributos antes indicados, y no las personas jurídicas u  otros
+entes  como  las  comunidades,  y  que  las  personas  naturales   señaladas
+adquieran en forma individual una vivienda nueva acogida a  las  normas  del
+DFL N° 2, de 1959, financiando dicha adquisición  mediante  algunas  de  las
+modalidades  que establece la ley, quedando el citado inmueble  en  garantía
+hipotecaria de las obligaciones de la misma naturaleza contraídas.
+
+Ahora bien, de la sola lectura de los requisitos que establece  la  ley,  se
+puede apreciar claramente que la franquicia en comento está  establecida  en
+beneficio exclusivo de las personas naturales afectas a los impuestos  antes
+mencionados que adquieran en forma individual una vivienda nueva y no  meros
+derechos sobre ella,  que cumpla con los requisitos y condiciones que  exige
+el  DFL N° 2, de 1959, de lo que se concluye que  tal  franquicia  no  opera
+cuando  la vivienda es adquirida por dos  o  más  personas  en  comunidad  o
+copropiedad, ya que en tales casos dichas personas no adquieren la  vivienda
+propiamente tal, sino que una cuota de dominio sobre ella, situación que  no
+está prevista en la ley que se comenta.
+
+Reafirma lo antes expuesto  en  cuanto  a  la  exclusión  del  beneficio  en
+cuestión a las personas que no sean naturales, el hecho  que  la  ley  debió
+hacer mención excepcional del tratamiento tributario de las cooperativas  de
+viviendas, señalando que los cooperados  tendrán  sólo  derecho  para  hacer
+efectivo el beneficio una vez adjudicadas las viviendas, según lo  explicado
+en el N° 3 precedente.
+
+Por último, se señala que este Servicio en relación con  la  materia  de  la
+consulta ya había emitido algunos pronunciamientos a la  fecha  en  que  los
+recurrentes suscribieron la escritura respectiva, contenidos en los  Oficios
+N°s. 3.305, de 01.09.99, y 3.549, de 22.09.99, publicados en  los  Boletines
+que edita este organismo de los meses de Septiembre y Octubre de dicho  año,
+respectivamente, por lo que no es efectivo que sobre la materia  en  comento
+no existieran instrucciones sobre  el  particular,  como  lo  sostienen  los
+peticionarios en su escrito.
+
+5.-   En consecuencia,  por  las  razones  antes  indicadas  no  es  posible
+atender favorablemente las alternativas de  solución  que  describen  en  su
+presentación, ya que en cuanto a la primera de ellas, por razones  de  texto
+legal explicitadas en los números precedentes, tal beneficio  sólo  favorece
+a las personas  naturales,  y  en  relación  a  la  segunda  alternativa  de
+solución que proponen, tal hecho en general  significaría  una  resciliación
+del contrato y no tiene efecto retroactivo respecto  del  Fisco  que  es  un
+tercero, y en el mejor de los casos como se anula el  contrato  anterior  la
+nueva compraventa en la medida que vaya aparejado a un nuevo  crédito  (esto
+es, que se deje nulo el primero), podría ampararse en la  rebaja  vigente  a
+la fecha del nuevo crédito otorgado.
+                          JAVIER ETCHEBERRY CELHAY
+                                  DIRECTOR
+
+
+
+
+Oficio Nº 3.774, del 25.09.2000
+Subdirección Normativa
+Depto. de Imptos. Directos

@@ -1,0 +1,355 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-01-11
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros7.htm
+- Hash SHA-256: 1b5b14b34a2cf058a563d35905ded5696730b01028294993f9c064dc277bc61e
+
+## Resumen
+
+la vivienda deber� dejar constancia expresa en escritura respectiva. (Oficio N� 67, del 11.01.2000). Ley N� 18.502 - Art. 6� - Impuesto a los Combustibles Word Empresa de transporte de carga terrestre - Recuperaci�n del impuesto espec�fico al petr�leo diesel - Utilizado en las c�maras frigor�ficas de los camiones destinados a su giro. (Oficio N� 030, del 05.01.2000). Ley N�19.578 - Art. 3� transitorio - Art. 100� de la Ley N� 18.045 (D.O. 29.07.1998) Word Contribuciones de bienes ra�ces - Contribuyentes que no pue…
+
+## Referencias detectadas
+
+- {"type":"circular","number":49,"year":1998}
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART -
+
+Home | Otras -
+2000
+
+LEY Nº 19.578 - ART. 3º
+
+TRANSITORIO - ART. 100º DE LA LEY Nº 18.045
+
+(D.O. 29.07.1998)
+
+Contribuciones de bienes raíces -
+
+Contribuyentes que no pueden continuar rebajando como crédito durante los años
+
+tributarios 1999 a 2002 - Excepción, requisitos - Instrucciones, Circular Nº 49, de 1998
+
+- Art. 100º de Ley Nº 18.045, señala a las personas que para efectos indicados se
+
+entienden "relacionados con una sociedad" - Frase utilizada en inciso 2º del
+
+Art. 3º transitorio de la Ley Nº 19.578 debe ser entendida en términos que no exista
+
+relación entre arrendador y arrendatario - Ya sea que uno u otro sean personas naturales
+
+o jurídicas - Persona natural que entrega en arriendo un inmueble a una sociedad
+
+relacionada con ella en términos de Art. 100º, no procede deducir crédito por
+
+contribuciones de bienes raíces.
+
+1.- Por presentación indicada en el
+
+antecedente, señala que al tenor de las modificaciones introducidas por la Ley Nº 19.578
+
+a diversas disposiciones tributarias, las contribuciones pagadas por los bienes raíces
+
+arrendados, durante los años 1999 a 2002, no sirven de crédito en contra del impuesto de
+
+Primera Categoría, salvo si la renta de arrendamiento es superior al 11% del avalúo
+
+fiscal y el inmueble respectivo es arrendado a personas no relacionadas al contribuyente.
+
+Para los efectos anteriores, la propia Ley Nº 19.578 señala que se entenderán por
+
+relacionadas las personas que indica el artículo 100 de la Ley Nº 18.045.
+
+Plantea que en atención a que las
+
+disposiciones legales relativas a esta materia no son del todo claras, es necesario
+
+precisar cual es el criterio interpretativo de este Servicio respecto a que contribuyentes
+
+no pueden hacer uso del crédito por contribuciones, ya que conforme a lo dispuesto en el
+
+artículo 100 de la Ley Nº 18.045, ellas deben entenderse relacionadas con el arrendador.
+
+En otros términos, agrega, teniendo
+
+presente que la relación impide el uso del crédito por contribuciones, se requiere
+
+precisar si es necesario que para los efectos de la relación a que alude el artículo 3º
+
+transitorio de la Ley Nº 19.578, que la arrendadora deba ser una sociedad, o que a estos
+
+efectos, es indiferente que el arrendador del bien raíz sea una sociedad o una persona
+
+natural y la arrendataria una sociedad, haciendo presente que la disposición del
+
+artículo tercero transitorio referido, se remite para los efectos de establecer la
+
+relación, al artículo 100 de la Ley Nº 18.045, sobre Mercado de Valores, norma que
+
+establece las personas naturales o jurídicas que se encuentran relacionadas con una
+
+sociedad, pero nada señala respecto de la situación inversa, esto es, cuando una
+
+sociedad se entiende relacionada a una persona natural o a otra persona jurídica.
+
+Señala a continuación, que el inciso
+
+tercero del artículo tercero transitorio de la Ley Nº 19.578, indica que los
+
+contribuyentes que no pueden acogerse a la excepción de utilización del impuesto
+
+territorial como crédito, respecto de un inmueble cedido en arrendamiento a una persona
+
+natural relacionada, podrán enajenárselo a ésta dentro del plazo de dos años contados
+
+desde la publicación de la ley.
+
+Agrega por otro lado, que las
+
+disposiciones de la ley y las instrucciones de este Servicio sobre la materia, contenidas
+
+en la Circular Nº 49, de 1998, dan lugar a interpretar que la relación a que alude la
+
+Ley Nº 19.578, es la de una persona natural que es arrendataria de una sociedad, pero no
+
+el caso inverso, esto es, el de una sociedad que es arrendataria de una persona natural,
+
+caso éste último, en el cual respecto de la persona natural arrendadora no existe, de
+
+acuerdo a las disposiciones citadas, la relación que exige el artículo tercero
+
+transitorio de la Ley Nº 19.578, razón por la cual estima que en tal situación, el
+
+contribuyente arrendador podrá seguir utilizando el crédito de las contribuciones contra
+
+el impuesto a la renta.
+
+En relación con lo anterior, solicita se
+
+confirme el criterio que señala en su escrito, en cuanto a que una persona natural que da
+
+en arriendo un inmueble a una sociedad con la cual tiene vinculación patrimonial o de
+
+control, puede seguir utilizando las contribuciones como crédito contra el impuesto de
+
+Primera Categoría, ya que en ese caso, legalmente no existe relación que impida la
+
+utilización de dicho crédito.
+
+2.- Sobre el particular, en primer
+
+término cabe señalar que el artículo tercero transitorio de la Ley Nº 19.578,
+
+publicada en el Diario Oficial el 29 de Julio de 1998, en su inciso primero establece que
+
+los contribuyentes señalados en la letra d) y en el inciso segundo de la letra f) del
+
+número 1º del artículo 20º y en el artículo 39, número 3, de la Ley sobre Impuesto a
+
+la Renta, durante los años tributarios 1999 a 2002, ambos inclusive, no podrán deducir
+
+del impuesto de primera categoría que deban pagar en esos años la contribución
+
+territorial a que se hace referencia en dichas disposiciones.
+
+Agrega la citada disposición en su inciso
+
+segundo, que no obstante lo anterior, los contribuyentes señalados en la letra d) del
+
+número 1 del artículo 20 y en el artículo 39º, número 3, de la ley antes referida,
+
+podrán seguir deduciendo de su impuesto de primera categoría la contribución
+
+territorial pagada por los inmuebles que solamente destinen al arriendo y siempre que
+
+éste no ceda en beneficio de una persona relacionada y que la renta de arriendo anual sea
+
+igual o superior al 11% del avalúo fiscal al término del ejercicio. Se entenderá por
+
+relacionadas para estos efectos a las personas a que se refiere el artículo 100º de la
+
+Ley Nº 18.045.
+
+Como se puede apreciar de lo antes
+
+expuesto, la norma transitoria en comento, en su inciso primero, contiene una norma
+
+general que prohibe a los contribuyentes que ella indica, el continuar rebajando el
+
+crédito por contribuciones de bienes raíces por los períodos tributarios que señala,
+
+pero en su inciso segundo hace una excepción, en cuanto a que aquellos contribuyentes que
+
+cumplan determinados requisitos, podrán continuar rebajando dicho crédito.
+
+3.- Ahora bien, este Servicio a través de
+
+la Circular Nº 49 de 1998, en su Capítulo III, número 6 estableció que de conformidad
+
+a lo dispuesto por el inciso segundo del artículo 3 transitorio de la Ley Nº 19.578, los
+
+contribuyentes señalados en las letras a) y c) del número 1 de este Capítulo III, -esto
+
+es, las sociedades anónimas que posean o exploten a cualquier título bienes raíces no
+
+agrícolas (Art. 20 Nº 1 letra d) inciso final) y los propietarios o usufructuarios que
+
+exploten bienes raíces no agrícolas, que no sean sociedades anónimas, cuya renta
+
+efectiva al término del ejercicio, debidamente actualizada a dicha fecha, exceda del 11%
+
+del avalúo fiscal de los citados bienes vigente al 01 de Enero del año en que debe
+
+declararse el impuesto (Art. 39 Nº 3)- no se encuentran afectados por la suspensión del
+
+crédito por contribuciones de bienes raíces a que se refieren los números anteriores,
+
+por aquellos inmuebles que den en arrendamiento a personas con las cuales no se encuentren
+
+relacionados en los términos dispuestos por el artículo 100º de la Ley Nº 18.045,
+
+sobre Mercado de Valores, y la renta de arrendamiento anual cobrada, debidamente
+
+actualizada al término del ejercicio, de acuerdo a las normas de la ley del ramo, sea
+
+igual o superior al 11% del avalúo fiscal de los citados inmuebles vigente al 31 de
+
+diciembre del año respectivo.
+
+Para los efectos antes indicados, el
+
+artículo 100 de la Ley Nº 18.045, dispone que son relacionados con una sociedad las
+
+siguientes personas:
+
+Las entidades del grupo empresarial al que pertenece la
+
+sociedad;
+
+Las personas jurídicas que tengan, respecto de la
+
+sociedad, la calidad de matriz, coligante, filial o coligada, en conformidad a las
+
+definiciones contenidas en la ley Nº 18.046;
+
+Quiénes sean directores, gerentes, administradores o
+
+liquidadores de la sociedad, y sus cónyuges o sus parientes hasta el segundo grado de
+
+consanguinidad o afinidad, y
+
+Toda persona que, por si sola o con otras con que tenga
+
+acuerdo de actuación conjunta, pueda designar al menos un miembro de la administración
+
+de la sociedad o controle un 10% ó más del capital con derecho a voto si se tratare de
+
+una sociedad por acciones.
+
+La Superintendencia podrá establecer
+
+mediante norma de carácter general, que es relacionada a una sociedad toda persona
+
+natural o jurídica que por relaciones patrimoniales, de administración, de parentesco,
+
+de responsabilidad o de subordinación, haga presumir que:
+
+1.- Por si sola, o con otras con quienes
+
+tenga acuerdo de actuación conjunta, tiene poder de voto suficiente para influir en la
+
+gestión de la sociedad;
+
+2.- Sus negocios con la sociedad originan
+
+conflictos de interés;
+
+3.- Su gestión es influenciada por la
+
+sociedad, si se trata de una persona jurídica, o
+
+4.- Si por su cargo o posición está en
+
+situación de disponer de información de la sociedad y de sus negocios, que no haya sido
+
+divulgada públicamente al mercado, y que sea capaz de influir en la cotización de los
+
+valores de la sociedad.
+
+No se considerará relacionada a la
+
+sociedad una persona por el solo hecho de participar hasta en un 5% del capital ó 5% del
+
+capital con derecho a voto si se tratare de una sociedad por acciones, o si sólo es
+
+empleado no directivo de esa sociedad.
+
+4.- De acuerdo con las normas legales
+
+indicadas en los números precedentes, procede expresar, que la frase utilizada en el
+
+inciso segundo del artículo tercero transitorio de la Ley Nº 19.578 ...."y siempre
+
+que éste no ceda en beneficio de una persona relacionada"...., debe ser entendida en
+
+términos de que no exista relación entre el arrendador y su respectivo arrendatario, ya
+
+sea, que uno u otro (esto es, arrendador o arrendatario), sean personas naturales o
+
+jurídicas, esto último por cuanto la norma precedentemente indicada se refiere a
+
+contribuyentes y personas en términos generales, no excluyentes.
+
+Ahora bien, al respecto cabe indicar que
+
+toda norma de relación es vinculante en ambos sentidos, así por ejemplo, de encontrarse
+
+relacionado el arrendador con el arrendatario en los términos previstos por el artículo
+
+100 de la Ley Nº 18.045, la misma relación existe entre el arrendatario y el arrendador.
+
+Del mismo modo debe concluirse en el caso de la relación establecida por esta norma
+
+legal, en cuanto a que si bien es cierto el vínculo es planteado por ésta en términos
+
+del socio hacia la sociedad, una vez determinada o producida debe entenderse que la
+
+sociedad se encuentra relacionada también con el socio respectivo.
+
+De lo dicho se sigue, que en el caso en
+
+consulta, es decir, si una persona natural entrega en arriendo un inmueble a una sociedad
+
+con la cual, según señala en su escrito, tiene vinculación patrimonial o de control,
+
+existe relación entre el arrendador y la arrendataria en los términos previstos por el
+
+inciso segundo del artículo 3º transitorio de la Ley Nº 19.578, de 1998, esto último
+
+por lo que al efecto dispone específicamente la letra d) del inciso primero y el número
+
+2 del inciso segundo del artículo 100 de la Ley Nº 18.045; por cuya razón el arrendador
+
+no puede durante los años tributarios 1999 al 2002, hacer uso en contra del impuesto de
+
+Primera Categoría del crédito por concepto del impuesto territorial pagado por el bien
+
+arrendado, salvo que se trate de la situación prevista en el inciso final del referido
+
+artículo 100.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 07, del 03.01.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Directos

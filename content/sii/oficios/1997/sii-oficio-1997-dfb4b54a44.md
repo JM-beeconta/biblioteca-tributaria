@@ -1,0 +1,105 @@
+# Oficio de 1997
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1997
+- Fecha: 1997-12-22
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/renta3038.doc
+- Hash SHA-256: f82971d609eee4cdcd4a00a16a29b0ac955539fb15b235d6a57eba2960a097ca
+
+## Resumen
+
+59� y 60� - Impuesto a las ventas y servicios - Arts. 2�, N� 2 y 12�, Letra E, N� 16, Word Aplicaci�n del Impuesto Adicional que afecta a personas que no tienen domicilio ni residencia en Chile - Personas naturales extranjeras y sociedades de personas jur�dicas... (Oficio N� 3063, del 22.12.1997). Renta - Actual ley sobre impuesto a la - Arts. 3�, 10� y 17� N� 8, letra a) Word Disminuci�n de capital sociedad extranjera de la cual una sociedad chilena es su filial - Sociedad extranjera filial de casa matriz estable…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ARTS. 3°, 10° y 17°
+       N° 8, letra a)
+      __________________________________________________________________
+
+Disminución de capital sociedad extranjera de la cual una  sociedad  chilena
+es su filial - Sociedad extranjera filial  de  casa  matríz  establecida  en
+Alemania - Acciones de empresa chilena se traspasan a casa matríz  -  Rentas
+de fuente chilena - Acciones de sociedad anónima constituida en  el  país  -
+Igual regla en relación a los derechos en sociedad de  personas  -  Traspaso
+de acciones de la filial en Chile a  casa  matríz  -  Enajenación  afecta  a
+tributación dispuesta en Art. 17°, N° 8, letra a) Ley de la Renta.
+
+
+1.-   Se ha recibido  en  este  Servicio  su  presentación  indicada  en  el
+      antecedente, mediante la cual solicita  se  confirme  o  modifique  el
+      criterio que expone en su escrito, en relación con la  disminución  de
+      capital de una sociedad extranjera de la cual una sociedad chilena  es
+      su filial.
+
+      Señala en su  escrito,  que  se  trata  de  una  compañía  de  seguros
+      establecida en Chile,  que  es  filial  de  una  entidad  radicada  en
+      Holanda. A su vez, la sociedad holandesa es filial de la  casa  matriz
+      establecida en Alemania, expresando lo siguiente:
+
+       a)     El  motivo  principal  es  la  eliminación  de   la   sociedad
+           propietaria en Holanda entre Alemania y Chile;
+
+      b)    El método preferido es causar la reducción  del  capital  de  la
+           empresa holandesa;
+
+      c)    El resultado de la reducción de capital indicada en la letra  b)
+           anterior es que las acciones de la empresa chilena se  traspasan
+           a la propiedad directa de la casa matriz en Alemania.
+
+      Para ello, se ha pensado realizar una disminución  de  capital  en  la
+      sociedad holandesa, con la cual  la  sociedad  alemana  efectuaría  un
+      retiro de estos activos (acciones de la sociedad chilena).
+
+      Bajo tal procedimiento, en  opinión  del  recurrente,  no  se  produce
+      efecto de pago de impuesto en Chile, en consideración a que no  existe
+      una venta de las acciones a terceros ajenos a la propiedad  actual  de
+      la entidad, y además, porque el monto de la reducción del  capital  de
+      la empresa holandesa corresponde a un monto equivalente al  monto  por
+      el cual la sociedad holandesa tenga registrada la referida inversión.
+
+2.-   Sobre el particular, cabe señalar que el artículo 3º de la Ley  de  la
+      Renta establece que las personas domiciliadas o residentes  en  Chile,
+      pagarán impuestos sobre las rentas de cualquier  origen,  sea  que  la
+      fuente de entradas esté situada dentro del país o fuera de él,  y  las
+      personas no residentes en Chile están sujetas a  impuestos  sobre  sus
+      rentas cuya fuente esté dentro del país.
+
+      Por su parte, para la aplicación de lo dispuesto por  la  norma  legal
+      antes mencionada, el artículo 10 de la  misma  ley  preceptúa  que  se
+      consideran rentas de  fuente  chilena  las  que  provengan  de  bienes
+      situados en el país o de actividades desarrolladas en  él,  cualquiera
+      que sea el domicilio  o  residencia  del  contribuyente.  A  contrario
+      sensu, son rentas de  fuente  extranjera  aquellas  que  provengan  de
+      bienes situados en el extranjero o de actividades desarrolladas en  el
+      exterior.
+
+      Son rentas de fuente chilena, entre otras, las regalías, los  derechos
+      por el uso de marcas y otras prestaciones  análogas  derivadas  de  la
+      explotación  en  Chile  de  la  propiedad  industrial  o  intelectual,
+      entendiéndose para estos efectos,  conforme  a  lo  dispuesto  por  el
+      artículo 11 de la ley del  ramo,  que  están  situadas  en  Chile  las
+      acciones de una sociedad anónima constituida en el  país,  aplicándose
+      igual regla en relación a los derechos en sociedades de personas.
+
+3.-   Ahora bien, analizada la operación que describe en su escrito, y a  la
+      luz de lo dispuesto por  las  normas  legales  citadas  en  el  número
+      precedente, se concluye que el traspaso de las acciones de  la  filial
+      en Chile a la casa matriz de Alemania constituye  para  la  filial  de
+      Holanda una enajenación, operación que queda afecta a  la  tributación
+      dispuesta por la letra a) del Nº 8 del artículo 17 de  la  Ley  de  la
+      Renta, en concordancia con lo establecido en los incisos 2º, 3º  y  4º
+      de dicho numerando y artículo 18  de  la  misma  ley,  y  artículo  3º
+      permanente de la Ley Nº 18.293, de 1984.
+                          JAVIER ETCHEBERRY CELHAY
+                                  DIRECTOR
+
+                       Oficio Nº 3038, del 18.12.1997
+                           Subdirección Normativa
+                          Depto. Impuestos Directos

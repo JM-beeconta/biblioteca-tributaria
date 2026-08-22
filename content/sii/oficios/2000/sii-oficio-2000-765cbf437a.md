@@ -1,0 +1,159 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-09-29
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/octubre05.htm
+- Hash SHA-256: 93bb916dd5fe01f67cff0c3a47584fb7a50949ea46262d5c353e378bf7b1cc9b
+
+## Resumen
+
+36, de 29.09.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� letra d), Art. 23�. Word Impuesto al valor agregado que afecta a la entrega gratuita de muestras de productos del giro, efectuada por un contribuyente. (Of. N� 3.874, de 03.10.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 4�, Art. 36� - Art. 126 del C�digo Tributario - Decreto Supremo de Econom�a N� 348, de 1975. Word Recuperaci�n del impuesto al valor agregado exportador y aplica…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"articulo","law":"CT","article":"126 N"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS  NUEVO TEXTO  LEY IMPUESTO A LAS
+
+Home | Ventas y Servicios - 2000 VENTAS Y SERVICIOS  NUEVO TEXTO  LEY IMPUESTO A LAS
+ ART. 4°, ART. 36° ART. 126° DEL CODIGO TRIBUTARIO  DECRETO SUPREMO
+DE ECONOMIA N° 348, DE 1975.
+
+Recuperación de IVA exportador 
+Aplicación del plazo establecido en el artículo 2 letra b) del Decreto Supremo N° 348,
+de 1975  Procedimiento de devolución contenido en el N° 3 inciso 2° del artículo
+126 del Código Tributario  Recuperación de IVA exportadores en caso de cambio de
+destinación aduanera  Territorialidad del Impuesto al valor agregado  Venta
+fue correctamente gravada con el Impuesto al Valor Agregado.
+
+1.- Se ha recibido en esta Dirección
+Nacional su Oficio señalado en el antecedente, mediante el cual solicita un
+pronunciamiento respecto del derecho de recuperación del IVA exportador, y de la
+aplicación del plazo establecido en el artículo 2 letra b) del Decreto Supremo N° 348,
+de 1975, en relación a la solicitud de recuperación de IVA exportador presentada por un
+contribuyente.
+
+Señala que el solicitante, en calidad de
+consignante del caballo fina sangre "C.H", de propiedad de don K. K. K.,
+manifiesta que con fecha 30 de Diciembre de 1999 el equino salió del país con destino a
+Los Angeles U.S.A., premunido de la orden de embarque N° 0000, de 22 del mismo mes y
+año, y de la declaración de salida temporal N° 0000, de 30 de Diciembre de 1999, con
+vencimiento el 27 de Junio del 2000, plazo ampliado por el Servicio de Aduanas hasta el 24
+de Diciembre del 2000.
+
+Con fecha 17 de Mayo del 2000, se
+comenzaron a realizar las gestiones ante el Servicio de Aduanas con el objeto de cambiar
+la destinación aduanera de salida temporal por la de exportación.
+
+Expone que con fecha 23 de Junio del 2000,
+el contribuyente adquirió en Chile el caballo, emitiendo la respectiva factura de compra,
+donde se registró el IVA correspondiente a la operación, ascendente a la suma de
+$26.000.000, el que fue retenido y pagado por el comprador.
+
+Posteriormente, con fecha 27 de Junio del
+2000 el solicitante vendió el caballo en los EE.UU. obteniendo el correspondiente cambio
+de destinación aduanera de salida temporal a exportación con fecha 07 de Julio del 2000,
+manteniéndose como fecha de embarque la misma estampada en la declaración de salida
+temporal, esto es, el 23 de Diciembre de 1999.
+
+El 13 de Julio del 2000, el contribuyente
+presentó en Tesorería la solicitud de recuperación de IVA exportador, la cual fue
+rechazada por el Tesorero Regional Santiago Oriente, en atención a que de acuerdo al D.S.
+N° 348, de 1975, ella sería extemporánea.
+
+El exportador considera que es titular del
+derecho a recuperar el IVA señalado, no siéndole aplicable el plazo establecido en el
+artículo 2 del D.S. N° 348, de 1975, ello porque el caballo se embarcó bajo el régimen
+de salida temporal, por lo cual la fecha del embarque tuvo que mantenerse para cualquier
+otra gestión o cambio de régimen autorizado por aduana. Argumenta que de sostenerse que
+el plazo señalado siempre debe cumplirse, jamás podría un exportador recuperar el IVA
+que retuvo, declaró y enteró en arcas fiscales, cuando la salida al extranjero del bien
+exportado se hizo bajo la destinación aduanera de salida temporal, lo cual se
+traduciría, a su juicio, en una discriminación en su contra.
+
+Por último, se plantean dudas acerca del
+requisito de territorialidad del hecho gravado correspondiente a la compra en Chile del
+caballo que se encontraba en el extranjero, estimándose por el señor Tesorero General de
+la República, que esta compra se encuentra gravada con IVA conforme a lo dispuesto por el
+artículo 4 inciso 2° del D.L. N° 825, de 1974, en atención a que el caballo fina
+sangre se encuentra inscrito en Chile, como se acredita con el certificado que se
+acompaña.
+
+2.- Sobre el particular cabe señalar que
+los exportadores, para ejercer su derecho a recuperar el IVA que se les hubiese recargado
+al adquirir bienes o utilizar servicios destinados a su actividad de exportación,
+consagrado en el artículo 36 del D.L. N° 825, de 1974, deben sujetarse a las normas
+contenidas en el Decreto Supremo de Economía N° 348, de 1975, de acuerdo a las cuales el
+exportador debe presentar ante el Servicio de Tesorerías una declaración jurada con las
+especificaciones exigidas por la letra c) del artículo 2 del citado Decreto, dentro del
+plazo estipulado por la letra b) del mismo artículo, esto es, dentro del mes siguiente de
+efectuado el embarque de los bienes exportados y por los cuales está solicitando la
+devolución de IVA respectiva.
+
+En este sentido, la norma es enfática en
+cuanto al plazo para presentar la solicitud de recuperación de IVA exportadores y la
+oportunidad desde la cual debe contarse, esto es, la fecha en que efectivamente se produjo
+el embarque de las mercaderías exportadas, sin considerar la calidad en que ellas
+salieron del país.
+
+El cambio de destinación aduanera es una
+posibilidad que la Ordenanza de Aduanas contempla para aquellos casos de bienes que,
+habiendo salido temporalmente del país, puedan ser vendidos en el extranjero sin
+necesidad de retornar al país, para lo cual se les otorga una nueva destinación
+aduanera, dándoles la calidad de bienes exportados, sin que ello altere la fecha del
+embarque.
+
+En conclusión, en el caso particular,
+siendo la fecha de embarque del bien exportado el 23 de Diciembre de 1999, al momento en
+que el solicitante presentó la solicitud de devolución respectiva, esto es el 13 de
+Julio del 2000, ella se encontraba fuera de plazo de acuerdo a lo dispuesto por el
+artículo 2 letra b) del D.S. N° 348, de 1975.
+
+3.-No obstante lo anterior, de acuerdo a lo
+dispuesto en el artículo 126 N° 3 inciso segundo, del Código Tributario, los
+contribuyentes que de acuerdo a normas especiales tienen derecho a solicitar devolución
+de tributos o cantidades que se asimilen a tales, pueden ejercer este derecho dentro del
+término legal contemplado en dicho artículo, esto es un año contado desde el acto o
+hecho que le sirva de fundamento a la devolución de impuestos, en el evento de que el
+plazo especial previsto en el régimen específico que las rige se hubiese extinguido, y
+la oportunidad legal señalada en el citado artículo 126 se encuentre pendiente.
+
+De esta forma, cuando no sea posible
+formular la solicitud de recuperación de IVA exportadores en conformidad a lo señalado
+por el D.S. N° 348, de 1975, por haber transcurrido el plazo contenido en el artículo 2
+letra b) del citado Decreto, los contribuyentes podrán sujetarse al procedimiento de
+devolución contenido en el N° 3 inciso segundo del artículo 126 del Código Tributario,
+siempre que se encuentre pendiente el plazo de un año que establece la citada norma
+legal. De esta manera, se soluciona al problema de recuperación de IVA exportadores en
+caso de cambio de destinación aduanera, no existiendo la supuesta discriminación que
+argumenta el solicitante en su presentación.
+
+4.- En cuanto a su consulta relativa a la
+territorialidad del Impuesto al Valor Agregado, cabe señalar que el artículo 4 inciso
+segundo del D.L. N° 825, de 1974, dispone: "Para los efectos de este artículo se
+entenderán ubicados en el territorio nacional, aun cuando al tiempo de celebrarse la
+convención se encuentren transitoriamente fuera de él, los bienes cuya inscripción,
+matrícula, patente o padrón hayan sido otorgados en Chile".
+
+En atención a lo dispuesto en la citada
+disposición, y al hecho de que la hembra fina sangre de carrera "C. H" se
+encontraba registrada e inscrita en Chile, como consta del certificado emitido por el Stud
+Book de Chile, que se acompaña como antecedente, su venta fue correctamente gravada con
+el Impuesto al Valor Agregado.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 3.797, del 26.09.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Indirectos

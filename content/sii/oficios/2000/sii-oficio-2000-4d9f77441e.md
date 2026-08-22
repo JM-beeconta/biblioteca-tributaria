@@ -1,0 +1,161 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-04-28
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo12.doc
+- Hash SHA-256: 2312febdaa5a65fa24d700637ebec65b4484851d9be61eff241ed6af2028a7ee
+
+## Resumen
+
+icita aclaraci�n respecto de las normas Tributarias que corresponde aplicar en caso de extranjero que ingresa al pa�s, acreditando que constituy� ... ( Of. N� 1.413 de 28.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 42� N� 1, Art. 43� N� 1, Art. 45�, Art. 46� - Circular N� 37, de 1990. Word Tributaci�n de bono de feriado establecido en contrato colectivo de trabajo. ( Of. N� 1.785, de 16.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 31� N� 5, Art. 41� N� 2. Word Sol…
+
+## Referencias detectadas
+
+- {"type":"circular","number":37,"year":1990}
+
+## Texto extraído
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42 N° 1, ART. 43°, 
+N° 1, ART. 45°, ART. 46° - CIRCULAR N° 37, DE 1990.
+
+
+
+Tributación de bono de feriado establecido en contrato colectivo de
+trabajo – Normativa aplicable – Instrucciones sobre procedimiento de
+cálculo a través de Circular N° 37, de 1990 – Análisis de la
+cláusula 18° del contrato colectivo acompañado a presentación –
+Citado beneficio se trata de una remuneración accesoria o
+complementaria a las normales pagadas a los trabajadores – Se devenga
+en un solo periodo habitual de pago – Para el cálculo del impuesto
+único de segunda categoría – Tal beneficio debe adicionarse a las
+remuneraciones normales del período en que se perciba o se cancele –
+Determinándose el referido tributo sobre el total de las rentas pagadas
+en el mes respectivo.
+
+
+
+
+
+1.-	Por Ordinario indicado en el antecedente se remite la presentación
+del Subgerente de Recursos Humanos de una Empresa de Servicios
+Sanitarios S.A., quién consulta si el bono de feriado y otros
+equivalentes que se pagan a funcionarios de dicha empresa implican la
+obligatoriedad de recalcular el impuesto único a los  trabajadores de
+acuerdo a lo señalado en el artículo N° 46 de la Ley de la Renta,
+teniendo en consideración que si bien es cierto, dicho bono es
+obligatorio sólo se paga si se dan las condiciones señaladas en el
+Contrato Colectivo.
+
+
+
+Esa Dirección Regional agrega, que el bono no se paga en términos
+proporcionales a los meses trabajados, por lo tanto, si un trabajador se
+retira de la empresa habiendo trabajado en ella, por ejemplo, un año y
+dos meses, sólo se le liquida el bono correspondiente al año.
+
+
+
+ Por su parte, el recurrente señala que el bono de feriado se paga
+conforme a lo establecido en el Contrato Colectivo del Sindicato N° 2
+que rige al trabajador, en su Cláusula 18, la cual adjunta, haciéndose
+efectivo su pago en el momento en que cada trabajador sale con un
+feriado igual o superior a diez días hábiles, lo que puede ocurrir en
+cualquier mes del año.
+
+
+
+Agrega, que desde que se inició el pago de este tipo de bonos, desde
+hace años, la empresa lo ha liquidado y pagado junto con las
+remuneraciones del mes de pago, sin hacer reprocesos para calcular
+impuestos, operando dicho mecanismo para todo el personal.
+
+ 
+
+Finalmente, señala que distinto es el caso del bono de productividad
+que también está en el Contrato Colectivo, el cual se paga con
+recálculo de impuestos, porque se otorga sólo si el resultado de un
+período de las actividades de la empresa es positivo (seis meses).
+
+
+
+2.-	Sobre el particular, cabe señalar que el artículo 42 N° 1 de la
+Ley de la Renta, establece que las rentas consistentes en sueldos,
+sobresueldos, salarios, premios, dietas, gratificaciones,
+participaciones y cualesquiera otras asimilaciones y asignaciones que
+aumenten la remuneración pagada por servicios personales, montepíos y
+pensiones, exceptuadas las imposiciones obligatorias que se destinen a
+la formación de fondos de previsión y retiro, y las cantidades
+percibidas por concepto de gastos de representación, se encuentran
+afectas al impuesto Unico de Segunda Categoría establecido en el N° 1
+del artículo 43 de dicha ley.
+
+
+
+3.-	Por su parte, el inciso segundo del artículo 45 del mismo texto
+legal, preceptúa que para los efectos de calcular el impuesto
+contemplado en el artículo 42 N° 1, las rentas accesorias  o
+complementarias al sueldo, salario, pensión, tales como bonificaciones,
+horas extraordinarias, premios, dietas etc., se considerará que ellas
+corresponden al mismo período en que se perciban, cuando se hayan
+devengado en un solo período habitual de pago. Si ellas se hubieren
+devengado en más de un período habitual de pago, se computarán en los
+respectivos períodos en que se devengaron.
+
+
+
+Por otro lado, el inciso segundo del artículo 46 del señalado texto
+legal, establece que en caso de diferencias o de saldos de
+remuneraciones o de remuneraciones accesorias o complementarias
+devengadas en más de un período y que se pagan con retraso, las
+diferencia o saldos se convertirán en unidades tributarias y se
+ubicarán en los períodos correspondientes, reliquidándose de acuerdo
+al valor de la citada unidad en los períodos respectivos. Los saldos de
+impuesto resultantes, se expresarán en unidades tributarias y se
+solucionarán en el equivalente de dicha unidad en el mes de pago de la
+correspondiente remuneración. Las instrucciones sobre este
+procedimiento de cálculo esta Dirección Nacional las impartió a
+través de la Circular 37, de 1990, publicada en el Boletín del  mes de
+Agosto de dicho año.
+
+
+
+4.-	Ahora bien, del análisis de la Cláusula 18° del Contrato
+Colectivo acompañada a la presentación, el citado beneficio se trata
+de una remuneración accesoria o complementaria a las normales pagadas a
+los trabajadores, pero de tal cláusula no se desprende claramente que
+dicha renta se devenga en más de un período habitual de pago, por el
+contrario, de la redacción de la mencionada norma contractual o
+laboral, se concluye que ella se devenga en un solo período habitual de
+pago, y por lo tanto, conforme a lo dispuesto por la primera parte del
+inciso segundo del artículo 45 de la Ley de la Renta, para el cálculo
+del impuesto único de Segunda Categoría, tal beneficio debe
+adicionarse a las remuneraciones normales del período en que  se 
+perciba o se cancele, determinándose el referido tributo sobre el total
+de las rentas pagadas en  el mes respectivo, tal como lo viene
+efectuando la empresa recurrente.
+
+
+
+
+
+
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+
+
+
+
+
+
+Oficio Nº 1.785, del 16.05.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Directos

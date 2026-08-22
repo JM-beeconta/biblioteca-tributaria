@@ -1,0 +1,97 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-10-21
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/septiembre03.htm
+- Hash SHA-256: 16b6036b1515f26ceddcecd133e8d7f57f47200dd71cb76a6582114054065d50
+
+## Resumen
+
+t face="arial" size="2"> Renta - Actual Ley sobre Impuesto a la - Art. 20�, N�s. 2 Y 5, Art. 40 N� 1 - Art. 20 del D.F.L. N� 211, de 1960. Octubre 1999 Word Tributaci�n que afecta a la Corporaci�n de Fomento de la Producci�n por las rentas obtenidas en la enajenaci�n de acciones de sociedades an�nimas e intereses provenientes de pr�stamos y dep�sitos en el mercado de capitales. (Oficio N� 3.911, de 21.10.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Y Art. 20� Decret…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Jurisprudencia administrativa
+
+Home | Ley Renta -1999 RENTA  ACTUAL LEY SOBRE IMPUESTO A LA  ART. 42º Nº 1,
+ART. 43 Nº 1 Y ART.20º DECRETO LEY Nº 3.500
+
+Situación tributaria de ingresos provenientes de una pensión
+de invalidez de AFP, la cual conforme a Ley de la Renta tiene carácter indemnizatorio,
+motivo por el cual no se declaró como renta - Declaración de renta fue objetada
+aduciendo que todas las pensiones constituyen renta - Incrementos que experimenten cuotas
+de fondos de pensiones no constituirán renta para efectos de la Ley sobre Impuesto a la
+Renta (Art. 20 - D.L. Nº 3.500) - Pensiones otorgadas conforme a D.L. Nº 3.500, estarán
+afectas al Impuesto a la Renta que grava las pensiones, sueldos y salarios - Asignaciones
+que aumenten la remuneración pagada por servicios personales, montepíos y pensiones
+están afectas a impuesto (Art. 42 Nº 1) - Pensiones que otorgan AFP a personas jubiladas
+se encuentran afectas al impuesto único de segunda categoría (Art. 43 Nº 1)
+
+1.- Por presentación indicada en el antecedente, señala que recibe
+una pensión de invalidez de una AFP, la cual conforme a la Ley de la Renta tiene el
+carácter indemnizatoria, motivo por el cual no declaró este tipo de rentas recibidas
+durante el año 1998.
+
+Una Dirección Regional objetó su declaración de renta aduciendo que
+todas las pensiones constituyen renta, además que el certificado de la AFP no dice de que
+pensión se trata, ya que tales documentos tienen un formato común para todo tipo de
+pensiones, llámese de vejez, anticipada, parcial, etc.
+
+Agrega que personalmente presentó un certificado complementario de la
+AFP, donde se dice que se trata de una pensión de invalidez, acompañando además, otro
+certificado emitido por el Servicio de Registro Civil e Identificación en el cual se
+certifica que está en el Registro Nacional de la Discapacidad de acuerdo a la ley, con el
+70% de discapacidad, es decir, invalidez total.
+
+La citada Dirección Regional considera que no son suficientes estos
+documentos e insiste que la AFP debe emitir otro certificado en que diga que esta pensión
+no constituye renta, en consecuencia que este organismo previsional sólo cancela la
+pensión y no es el llamado a determinar la tributación, motivo por el cual solicita un
+pronunciamiento oficial de este Servicio sobre la situación tributaria de sus ingresos.
+
+2.- Sobre el particular, cabe señalar en primer lugar que el artículo
+20 del D.L. Nº 3.500, de 1980, que regula el Sistema de Pensiones administrado por las
+AFP, señala expresamente en su inciso segundo que los incrementos que experimenten las
+cuotas de los fondos de pensiones no constituirán renta para los efectos de la Ley sobre
+Impuesto a la Renta, agregando dicho precepto legal a punto seguido, que sin embargo, las
+pensiones otorgadas conforme a esta ley (D.L. Nº 3.500), estarán afectas al Impuesto a
+la Renta que grava las pensiones, sueldos y salarios.
+
+Por su parte, el artículo 42 Nº 1 de la Ley de la Renta establece que
+se aplicará, calculará y cobrará un impuesto en conformidad a lo dispuesto en el
+artículo 43 de dicha ley sobre los sueldos, sobresueldos, salarios, premios, dietas,
+gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que
+aumenten la remuneración pagada por servicios personales, montepíos y pensiones,
+exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de
+previsión y retiro, y las cantidades percibidas por concepto de gastos de
+representación.
+
+3.- En consecuencia, y de acuerdo a lo dispuesto por las normas legales
+antes mencionadas, las pensiones que otorgan las AFP a las personas jubiladas, cualquiera
+que sea la denominación de éstas, ya que las disposiciones legales citadas no hacen
+ninguna distinción al respecto, se encuentran afectas a los impuestos de la Ley de la
+Renta, afectándose específicamente con el impuesto único de Segunda Categoría
+establecido en el artículo 43 Nº 1 de la ley del ramo, el cual se aplica en relación a
+una escala progresiva de tasas de impuesto, a partir de una cantidad superior a 10
+Unidades Tributarias Mensuales, equivalente este valor al mes de Octubre de 1999 a $
+262.310, de lo que se desprende que toda pensión de un monto inferior o igual al antes
+señalado, se encuentra exenta del tributo precitado.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio
+Nº 3.818, del 13.10.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Directos

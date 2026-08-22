@@ -1,0 +1,179 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-02-10
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero05.doc
+- Hash SHA-256: b9bbbea2e136f62187fbc605f2872f7516f5031d01802f245806bfc8079e803a
+
+## Resumen
+
+ansferidos v�a reinversi�n de acuerdo al art�culo 14�, letra A, N� 1, letra c). (Of. N� 508, del 10.02.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.20, N� 3, Art. 29 al 33. Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art.2� N� 1 y 3, Art. 8� letra e). Word Aplicaci�n de IVA e Impuesto a la Renta a Empresas Inmobiliarias (Of. N� 587 del 18.02.2000. I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 13� - Art. 46� - Art. 161 al 163 - Art. 172� y Art. 178� del C�digo de…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°,  N° 3, ART.
+29° AL 33° - VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS
+– ART. 2° N°s. 1 Y 3, ART. 8°, LETRA e)
+
+
+
+Empresas inmobiliarias – Aplicación de IVA e Impuesto a la Renta –
+Concepto de venta y vendedor – Empresas inmobiliarias no son
+contribuyentes del IVA por la venta de inmuebles – Sólo en la medida
+que tales inmuebles no hayan sido construidos en todo o parte por ellas
+– Empresas inmobiliarias cuyos ingresos provienen de la venta de
+inmuebles se encuentran clasificados como contribuyentes del artículo
+20° N° 3, de la Ley de la Renta – Deben tributar por sus utilidades
+tributarias – En los términos dispuestos por los Arts. 29° al 33°
+de la Ley de la Renta – Con tasa de 15% del impuesto de primera
+categoría – Ley de la Renta no contempla para estos contribuyentes
+ninguna franquicia – Que los libere de obligación tributaria.
+
+
+
+1.-	Se ha recibido en esta Dirección su presentación indicada en el
+antecedente, a través de la cual solicita un pronunciamiento de este
+Servicio acerca de la base legal por la cual no se consideran gravadas
+con el Impuesto al Valor Agregado a las empresas inmobiliarias.
+
+
+
+Señala que en las referidas empresas es habitual la adquisición de
+inmuebles para su venta, por lo que, según su parecer, deberían
+calificárselas como vendedoras de acuerdo al D.L. Nº 825, de 1974.
+
+
+
+En cuanto a la aplicación de la Ley de la Renta, plantea la inquietud
+acerca de si las utilidades producidas por empresas inmobiliarias en
+aquellas ventas de inmuebles efectuadas después de un año de su
+adquisición, se encontrarían afectas al impuesto de Primera categoría
+de la Ley de la Renta y si gozarían de la franquicia para las personas
+naturales y no comerciantes establecida en esa ley
+
+. 
+
+2.-	Sobre el particular cabe expresar que, el artículo 2º Nº 1 del
+D.L. Nº 825, de 1974, establece el concepto de “venta” para los
+efectos del Impuesto al Valor Agregado, entendiendo por tal a toda
+convención, independiente de la designación que le den las partes, que
+sirva para transferir a título oneroso el dominio de bienes corporales
+muebles, bienes corporales inmuebles de propiedad de una empresa
+constructora construidos totalmente por ella o que en parte hayan sido
+construidos por un tercero para ella, de una cuota de dominio sobre
+dichos bienes o de derechos reales constituidos sobre ellos, como
+asimismo, todo acto o contrato que conduzca al mismo fin o que la
+presente ley equipare a venta.
+
+
+
+A su vez, el Nº 3 del mismo artículo define al “vendedor” como,
+cualquier persona natural o jurídica, incluyendo las comunidades y  las
+sociedades de hecho, que se dedique en forma habitual a la venta de
+bienes corporales muebles, sean ellos de su propia producción o
+adquiridos de terceros. Asimismo se considerará “vendedor” la
+empresa constructora, entendiéndose por tal a cualquier persona natural
+o jurídica, incluyendo las comunidades y las sociedades de hecho, que
+se dedique en forma habitual a la venta de bienes corporales inmuebles
+de su propiedad, construidos totalmente por ella o que en parte hayan
+sido construidos por un tercero para ella. Corresponderá al Servicio de
+Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. 
+
+
+
+Se considerará también “vendedor” al productor, fabricante o
+empresa constructora que venda materias primas o insumos que, por
+cualquier causa, no utilice en sus procesos productivos.
+
+
+
+Por su parte, en la letra e) del artículo 8º del D.L. Nº 825, de
+1974, se grava con el impuesto al valor agregado, expresamente, los
+contratos de instalación o confección de especialidades y los
+contratos generales de construcción.
+
+
+
+
+
+3.-	Como puede apreciarse, las normas señaladas limitan los conceptos
+de venta y vendedor a los aspectos que expresamente se mencionan en
+ellas, de manera tal que el hecho gravado con el referido tributo está
+constituido, básicamente, por las convenciones traslaticias de dominio
+de bienes corporales muebles y respecto de los inmuebles, sólo en la
+medida en que tales convenciones sean efectuadas por una empresa
+constructora dedicada a la venta de inmuebles y siempre que estos hayan
+sido construidos por ella misma en su totalidad, o encomendados
+construir, parcialmente, a un tercero para ella.
+
+
+
+De lo expuesto se desprende que las empresas inmobiliarias no son
+contribuyentes del Impuesto al valor Agregado por la venta de inmuebles,
+aún cuando ésta sea una actividad habitual, sólo en la medida que
+tales inmuebles no hayan sido construidos en todo o parte por ellas.
+
+
+
+4.-	Ahora bien, en lo que se refiere a la aplicación de la Ley de la
+Renta, esto es, acerca de si las utilidades producidas por empresas
+inmobiliarias en aquellas ventas de inmuebles efectuadas después de un
+año de su adquisición, se encontrarían afectas al impuesto de Primera
+categoría de la Ley de la Renta y si gozarían de la franquicia fijada
+en este texto legal para las personas naturales y no comerciantes,
+procede expresar que tales empresas, cuyos ingresos provienen de la
+venta de inmuebles se encuentran clasificados como contribuyentes del
+artículo 20 Nº 3, de la ley del ramo, y en virtud de tal
+clasificación deben tributar por sus utilidades tributarias,
+determinadas éstas de acuerdo con contabilidad completa y en los
+términos dispuestos por los artículos 29 al 33 de la Ley de la Renta,
+con la tasa de 15% del impuesto de Primera Categoría.
+
+
+
+Al respecto cabe agregar que la Ley de la Renta no contempla para éstos
+contribuyentes ninguna franquicia que los libere del cumplimiento de la
+referida obligación tributaria.
+
+
+
+5.-	Finalmente, respecto de los otros dos temas, que sin ninguna
+precisión Ud. insinúa estarían permitiendo una "evasión autorizada",
+cabe señalar que esta Dirección se encuentra empeñada en dar la
+debida atención a las innumerables consultas y dudas que se le
+presenten a los contribuyentes respecto de la aplicación de las normas
+contenidas en la legislación tributaria en general. Dicho propósito se
+ve entorpecido cuando debe distraer personal en el estudio de
+situaciones que como en su caso no obedecen a casos concretos o
+realmente configurados, sino más bien a casos hipotéticos, por lo que
+en lo futuro mucho agradeceré que las consultas que formule se refieran
+a casos o situaciones reales, en las que se identifique a los
+contribuyentes involucrados.
+
+
+
+
+
+
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+
+
+
+
+Oficio Nº 587, del 18.02.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Directos

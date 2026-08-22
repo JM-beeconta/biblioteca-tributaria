@@ -1,0 +1,234 @@
+# Oficio de 1998
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1998
+- Fecha: 1998-06-15
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ago04.htm
+- Hash SHA-256: 531683544dd9eed410f0cffbec595ac59945d2a3851a06cd8f328175df39538f
+
+## Resumen
+
+uce ... (Oficio N� 1.938 del 23.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 42� , N� 1 y 74� - C�digo tributario - Nuevo texto - Art. 126� Word Impuesto �nico que afecta a las remuneraciones, montep�os y pensiones - Obligaci�n de retener y por tanto, de calcular el impuesto recae sobre el pagador de las rentas - Empleador... (Oficio N� 1.893, del 20.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 31� , N� 5 Y 33 Bis. Word Colegios subvencionados - Ingresos por subvenci�n, derechos por matr�cu…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ARTS. 31° , N° 5 Y 33 BIS.
+
+Home | Ley Renta - 1998 RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ARTS. 31 °
+
+, N ° 5 Y 33 BIS.
+
+Colegios subvencionados - Ingresos por subvención, derechos por
+
+matrícula, derechos de escolaridad y donaciones, que se destinen entre otros fines a
+
+inversiones y equipamientos de los establecimientos educacionales, no se encuentran
+
+afectos a los impuestos de la Ley de la Renta - Deben deducirse para la determinación de
+
+la Renta Líquida Imponible de Primera Categoría - Los colegios contribuyentes de la
+
+Primera Categoría obligados a llevar contabilidad completa - Afectos a normas sobre
+
+corrección monetaria - Bienes del activo inmovilizado adquiridos con las subvenciones -
+
+Sujetos a las normas de depreciación - Procede su rebaja como gasto de los ingresos
+
+brutos - Crédito por bienes físicos del activo inmovilizado adquiridos nuevos o
+
+terminados de construir durante el ejercicio - Contribuyente que explota colegios tiene
+
+derecho a invocar dicho crédito - En la medida que cumpla con los requisitos establecidos
+
+en la ley y exigidos en instrucciones impartidas - Independiente de la situación
+
+tributaria de los ingresos que se destinaron a la adquisición.
+
+1.- Se ha recibido en esta Dirección su Oficio indicado en el
+
+antecedente, por medio del cual traslada la presentación de una contribuyente quien en
+
+calidad de sostenedora de una Escuela Particular solicita pronunciamiento sobre los
+
+efectos tributarios que se derivan del artículo 4º del D.F.L. Nº 2, de 1989, del
+
+Ministerio de Educación, en relación con las siguientes materias:
+
+a) Depreciación del activo inmovilizado adquirido tanto en el período
+
+de declaración del Impuesto a la Renta del A.T. 97, como en años anteriores;
+
+b) Crédito del 4% establecido en el artículo 33 bis de la Ley de la
+
+Renta aplicado sobre los bienes del activo inmovilizado adquiridos nuevos en el período
+
+tributario que se declara.
+
+El contribuyente señala que las consultas surgen como consecuencia del
+
+Proceso de Rectificación, Operación Renta Año 1997, donde se le informó que debía
+
+agregar a la Renta Líquida Imponible de Primera Categoría, determinada de acuerdo a la
+
+normativa legal vigente, los valores rebajados por conceptos de gastos de depreciación
+
+anual, correspondientes a bienes del activo inmovilizado adquiridos durante dicho
+
+período, o en otros anteriores, con fondos provenientes de subvenciones y, el monto del
+
+crédito del 4%, calculado sobre el valor de los bienes del activo inmovilizado adquiridos
+
+nuevos, durante el período referido y utilizado en el pago del Impuesto de Primera
+
+Categoría determinado, lo que según su parecer no se ajustaría a las instrucciones
+
+entregadas por el Servicio mediante Circular 91, de 1980.
+
+Esa Dirección Regional señala que el agregado de la depreciación del
+
+período correspondiente a los bienes del activo inmovilizado adquiridos con fondos
+
+provenientes de subvenciones, derechos de matrículas, escolaridad y donaciones, se basa
+
+en el hecho de que este gasto no se encuentra enumerado dentro de las partidas señaladas
+
+como tales en la Circular 91, habida consideración también, que el contribuyente rebajó
+
+el monto total de la inversión, para determinar la renta líquida imponible, razón por
+
+la cual, de aceptar el criterio del contribuyente, se estaría efectuando una doble
+
+deducción. Respecto del crédito del 4% establecido en el artículo 33 bis de la Ley de
+
+la Renta, el agregado tiene su explicación en el hecho que el contribuyente rebajó en la
+
+determinación de la renta líquida imponible de Primera Categoría el monto bruto de los
+
+bienes adquiridos nuevos, lo que se contrapone con la mecánica de cálculo establecida en
+
+la norma legal ya citada, ya que previamente a la rebaja, debió deducirse del monto bruto
+
+de la inversión, el monto del crédito ya mencionado.
+
+2.- Sobre el particular, cabe señalar que conforme a lo establecido
+
+por el artículo 5º del D.F.L. Nº 5, del Ministerio de Educación Pública de 1992,
+
+sobre subvención del Estado a los Establecimientos Educacionales, cuyo texto refundido,
+
+coordinado y sistematizado se contiene en el D.F.L. Nº 2, del citado Ministerio,
+
+publicado en el Diario Oficial de 15.01.97, la subvención, derechos de matrícula,
+
+derechos de escolaridad y donaciones a que se refiere el artículo 18 de dicho texto
+
+legal, en la parte que se utilicen o inviertan en el pago de remuneraciones del personal,
+
+en la administración, reparación, mantención o ampliación de las instalaciones de los
+
+establecimientos beneficiados o en cualquier otra inversión destinada al servicio de la
+
+función docente, no estarán afectos a ningún tributo de la Ley sobre Impuesto a la
+
+Renta; liberación tributaria respecto de la cual este Servicio impartió las
+
+instrucciones pertinentes mediante la Circular Nº 91, de fecha 17 de Diciembre de 1980.
+
+En consecuencia, de acuerdo a lo dispuesto por la norma legal antes
+
+mencionada, aquella parte de los ingresos por subvención y demás conceptos que señala
+
+la norma legal en referencia, que se hayan destinado a los fines que indica dicho precepto
+
+legal, como ser, entre otros, inversiones y equipamientos destinados a los
+
+establecimientos educacionales, no se encuentran afectos a los impuestos de la Ley de la
+
+Renta, y por lo tanto, deben deducirse para la determinación de la Renta Líquida
+
+Imponible de Primera Categoría, sobre la cual debe aplicarse el impuesto de dicha
+
+categoría, por los demás ingresos o rentas que perciban o devenguen los colegios y que
+
+se encuentren afectos al citado tributo.
+
+3.- Ahora bien, los colegios al ser contribuyentes de la Primera
+
+Categoría y al estar obligados a llevar una contabilidad completa, quedan afectos a las
+
+normas sobre corrección monetaria del artículo 41 de la Ley de la Renta, y los bienes de
+
+su activo inmovilizado adquiridos con las subvenciones, sujetos a las normas de
+
+depreciación del artículo Nº 31, Nº 5 de la Ley de la Renta, reconociéndose en los
+
+resultados los efectos tributarios que resulten de la aplicación de las citadas normas,
+
+independientemente de la calidad de ingreso no constitutivo de renta que la ley le da a la
+
+parte de la subvención que se haya destinado a la adquisición de los referidos bienes;
+
+todo ello de acuerdo a pronunciamientos ya emitidos sobre esta misma materia.
+
+En consecuencia, y respondiendo la primera consulta formulada, la
+
+depreciación determinada por los colegios sobre los bienes de su activo inmovilizado
+
+aplicada ésta de acuerdo a las normas establecidas en el artículo 31 Nº 5 de la ley,
+
+procede su rebaja como gasto de los ingresos brutos en la conformación de la Renta
+
+Líquida Imponible de Primera Categoría, independientemente de la situación tributaria
+
+que afecta a los recursos e ingresos destinados a la adquisición de dichos bienes.
+
+4.- En relación con la segunda consulta, el artículo 33 bis de la Ley
+
+de la Renta establece que los contribuyentes que declaren el impuesto de Primera
+
+Categoría sobre renta efectiva determinada según contabilidad completa, tendrán derecho
+
+a un crédito equivalente al 4% del valor de los bienes físicos del activo inmovilizado,
+
+adquiridos nuevos o terminados de construir durante el ejercicio.
+
+Para los fines de calcular el monto del citado crédito, los bienes
+
+físicos del activo inmovilizado, se deberán considerar por su valor actualizado al
+
+término del ejercicio, según las normas del artículo 41 Nº 2 de la Ley de la Renta,
+
+antes de descontar la depreciación del período correspondiente de dichos bienes.
+
+Ahora bien, respondiendo la segunda consulta, y consecuente con lo
+
+expresado en el número precedente, se señala que en la medida que el contribuyente que
+
+explota colegios cumpla con los requisitos que establece el artículo 33 bis de la Ley de
+
+la Renta, y aquellos exigidos mediante las instrucciones impartidas sobre la materia
+
+mediante Circulares Nºs. 41, de 1990 y 44, de 1993, tiene derecho a invocar el crédito
+
+que establece la norma legal en comento, independiente de la situación tributaria de los
+
+recursos o ingresos que se destinaron a la adquisición de los bienes del activo
+
+inmovilizado de los colegios.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 1.892, del 20.07.1998
+
+Subdirección Normativa
+
+Depto. Impuestos Directos

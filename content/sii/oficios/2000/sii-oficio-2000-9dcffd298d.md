@@ -1,0 +1,115 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-02-03
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero07.doc
+- Hash SHA-256: a078517626b0bf157cad44918c6cc691d2366a893aad3ff108685cba5ef5d377
+
+## Resumen
+
+Consulta si una empresa de corretaje de seguros que tributa en primera categor�a podr�a cambiar su tributaci�n bajo las normas de la segunda categor�a. (Of. N� 450, del 03.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 20�, N� 1 y N� 3 - circulares N�s. 58 y 63, de 1990 y 22, de 1991 Word Tributaci�n aplicable a empresa due�a de un predio agr�cola cuyo giro ser� la producci�n de huevos enteros, l�quidos y en polvo. (Of. N� 380, del 01.02.2000 - I. Directos) Renta - actual ley sobre impuesto a…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 20º Nº 1 y Nº 3 - CIRCULARES
+                      Nº 58 Y 63, DE 1990 Y 22 DE 1991.
+____________________________________________________________________________
+                                    ____
+
+
+Tributación de actividad de producción de  huevos  enteros,  líquidos  y  en
+polvo - Rentas afectas a modalidad de tributación presunta son aquellas  que
+provienen de "Actividad Agrícola" o de explotación de "Predios Agrícolas"  -
+Definiciones  de  conceptos  -  Si  actividad  a  desarrollar  no   obstante
+someterse el bien original o natural a algunos procesos  de  elaboración  no
+pierde su identidad propia - Para efectos tributarios clasifica en  el  Art.
+20º, Nº 1, letra b) - Pudiendo contribuyente tributar a  base  de  la  renta
+presunta o efectiva - Instrucciones  sobre  aplicación  de  estos  regímenes
+tributarios en circulares Nºs. 58 y 63, de 1990 y Nº 22,  de  1991  -  Si  a
+través  del  proceso  productivo  el  bien  original  o  natural  pierde  su
+identidad propia - Se trataría de una actividad industrial  y  clasifica  en
+el Art. 20º, Nº 3 - Debiendo declararse renta efectiva.
+
+
+1.-   Por E-mail indicado en el antecedente, solicita se le informe  si  una
+empresa dueña de un  predio  agrícola,  cuyo  giro  será  la  producción  de
+huevos, enteros, líquidos y en polvo, tributa de acuerdo  con  lo  dispuesto
+en el Nº 1 ó 3 del artículo 20 de la ley de la Renta.
+
+2.-   Sobre el particular, cabe señalar  que  la  letra  b)  del  Nº  1  del
+artículo 20 de la Ley sobre Impuesto a la  Renta,  establece  en  su  inciso
+primero, que los contribuyentes  propietarios  o  usufructuarios  de  bienes
+raíces agrícolas, que no sean sociedades anónimas, y  que  cumplan  con  los
+requisitos que más adelante indica la citada norma, pagarán el  impuesto  de
+Primera Categoría sobre la base de la renta de dichos predios agrícolas,  la
+que se presume de derecho es igual al 10% ó 4%  del  avalúo  fiscal  de  los
+referidos inmuebles vigente al 1º de enero del año en  que  deba  declararse
+el impuesto, según  si  los  citados  predios  se  explotan  en  calidad  de
+propietario, usufructuario o arrendatario.
+
+      En consecuencia, las rentas que se encuentran afectas a  la  modalidad
+de tributación presunta antes  indicada,  son  aquellas  que  provienen  del
+desarrollo de “actividades  agrícolas”  o  de  la  explotación  de  “predios
+agrícolas”, ejercida por los propietarios o usufructuarios de dichos  bienes
+o por terceras personas, que no sean sociedades anónimas.
+
+3.-   Ahora bien, el Reglamento de Contabilidad Agrícola,  contenido  en  el
+Decreto Supremo del Ministerio de Hacienda Nº 1139, publicado en  el  Diario
+Oficial de 05 de Enero de 1991, define  lo que debe entenderse  por  “predio
+agrícola” y “actividad agrícola” para los fines antes señalados. En  efecto,
+dicho texto legal en su artículo 2º Nº 1 dispone que  “predio  agrícola”  es
+todo inmueble o parte de él, cualquiera  que  sea  su  ubicación,  que  esté
+destinado a la obtención de productos primarios del reino vegetal o  animal,
+o en que existan establecimientos  cuyo  fin  sea  la  obtención  de  dichos
+productos o que económicamente sea susceptible de producir tales  bienes  en
+forma predominante. Por su parte, el Nº 2 de la  misma  norma  legal  define
+la “actividad agrícola” como  el  conjunto  de  operaciones  que  tiene  por
+finalidad la obtención de los productos de predios agrícolas, incluyendo  su
+elaboración, conservación, faenamiento y acondicionamiento, siempre  que  se
+trate de bienes de producción propia y que predominen en el  producto  final
+resultante.
+
+4.-   En consecuencia, y de acuerdo a  las  definiciones  de  los  conceptos
+antes indicados, y basado en los escasos antecedentes que entrega en  su  E-
+mail - en donde no se describe claramente en que  consiste  la  actividad  a
+desarrollar- se  informa  que  si  la  actividad  de  producción  de  huevos
+enteros, líquidos y en polvo, no  obstante  someterse  el  bien  original  o
+natural a algunos procesos de elaboración,  no pierde  su  identidad  propia
+predominando en el producto  final  resultante,  dicha  actividad  para  los
+efectos tributarios se clasifica en el artículo 20  Nº 1,  letra  b)  de  la
+Ley de la Renta, pudiendo el contribuyente  tributar  a  base  de  la  renta
+presunta  o  efectiva,  si  se  cumple  en  la  especie  los  requisitos   y
+condiciones que dicha norma legal exige para la aplicación  de  uno  u  otro
+sistema de tributación. Las  instrucciones  sobre  la  aplicación  de  estos
+regímenes tributarios, este Servicio las impartió  mediante  las  Circulares
+Nº 58 y 63 de 1990 y 22, de 1991, publicadas en los Boletines de  los  meses
+de Noviembre, Diciembre y Abril de los años  respectivos,  especialmente  la
+última Circular indicada a través de la cual se comenta el alcance que  debe
+dársele a los conceptos de  predio  agrícola  y  actividad  agrícola.  Ahora
+bien, si mediante el desarrollo de la citada actividad, no  se  cumplen  las
+condiciones antes señaladas, esto es, que a través  del  proceso  productivo
+el bien original o natural pierde su identidad propia,  no  predominando  en
+el producto final resultante, se trataría de una  actividad  industrial  que
+para los efectos tributarios se clasifica en el artículo 20 Nº 3 de  la  Ley
+de la Renta, debiendo declararse  la  renta  efectiva  determinada  mediante
+contabilidad completa y balance general.
+
+
+
+
+                          JAVIER ETCHEBERRY CELHAY
+                                  DIRECTOR
+
+
+
+                        Oficio Nº 380, del 01.02.2000
+                           Subdirección Normativa
+                          Depto. Impuestos Directos

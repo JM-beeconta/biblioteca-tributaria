@@ -1,0 +1,194 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-04-01
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr01.htm
+- Hash SHA-256: 26a926b8a33eee885595b2c3905cf62f7e39624c037bb52ea4597c5dc4ae9011
+
+## Resumen
+
+cia puertos chilenos � Exenci�n, condicionada a que... (Oficio N� 995, del 01.04.1999). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 3 Abril 1999 Word Empresa con giro de administraci�n y venta de programas de reembolsos m�dicos � Calidad de contribuyentes, considera actividad que se realiza en el plano econ�mico... (Oficio N� 690, del 19.03.1999). Renta - Actual ley sobre impuesto a la Art. 17�, N� 3 Abril 1999 Word Indemnizaciones por a�os de servicio � Contribuyente legalmente obligado a pagar por habe…
+
+## Referencias detectadas
+
+- {"type":"circular","number":29,"year":1991}
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 17º, Nº 3
+
+Home | Ley Renta - 1999 RENTA  ACTUAL LEY SOBRE IMPUESTO A LA  ART. 17º, Nº
+
+3
+
+Indemnizaciones por años de servicio  Contribuyente legalmente
+
+obligado a pagar por haber adquirido calidad de empleador en una relación laboral
+
+preexistente  Derecho a deducirla como gasto  Sólo indemnizaciones que se
+
+generen a partir de la fecha de las nuevas obligaciones que contrae  Oportunidad
+
+para efectuar la rebaja como gasto  Situación tributaria desde el punto de vista
+
+del beneficiario de las indemnizaciones  Instrucciones, Circular Nº 29, de 1991.
+
+1. - Se ha recibido en este Servicio su presentación indicada en
+
+el antecedente, mediante la cual expresa que se encuentra efectuando la reorganización de
+
+un grupo de empresas, donde ciertos empleados serán traspasados de una coligada a otra
+
+reconociéndole esta última los años de servicios prestados a la primera. Agrega que
+
+respecto de esta materia la Dirección del Trabajo ha dictaminado que la filial y/o la
+
+sociedad coligada donde el empleado siga prestando sus servicios puede reconocer la
+
+antigüedad que el trabajador tenía en las empresas coligadas anteriores.
+
+De acuerdo con lo señalado desea ratificar que dicho principio
+
+también se aplica a los aspectos tributarios, en especial, a la calidad de ingreso no
+
+renta de las indemnizaciones por años de servicios contemplada en el artículo 17 Nº 13
+
+de la Ley de la Renta. Es decir, la empresa coligada en la que queda prestando servicios
+
+el empleado en el caso de despido deberá pagar las indemnizaciones por años de servicios
+
+agregando los años de trabajo que tenía en la o las otras empresas coligadas del mismo
+
+grupo o filiales para su cálculo.
+
+2. - Sobre el particular cabe señalar en primer término, que esta
+
+Dirección en respuesta a consulta, en la que se solicitó confirmación respecto de la
+
+situación tributaria de las indemnizaciones por años de servicios que un contribuyente
+
+se vea legalmente obligado a pagar por haber adquirido la calidad de empleador en una
+
+relación laboral preexistente, conforme a lo dispuesto por el inciso 2º del artículo
+
+4º del Código del Trabajo, en cuanto al derecho de la empresa continuadora a deducirla
+
+como un gasto de su renta bruta, dictaminó que en el caso de una empresa que se encuentre
+
+en la situación prevista por esta disposición, sólo podrá rebajar como gasto aquellas
+
+indemnizaciones que se generen a partir de la fecha de las nuevas obligaciones que
+
+contrae, aclarando para tales efectos que si tales indemnizaciones son pactadas a todo
+
+evento las podrá rebajar como gasto mediante su provisión con cargo a los resultados del
+
+ejercicio a contar de la fecha que adquiere tal obligación, y las no pactadas a todo
+
+evento, sólo podrá rebajarlas como gasto cuando ocurra su pago efectivo, sin que tenga
+
+incidencia en lo anteriormente expuesto las indemnizaciones ya deducidas como gasto por el
+
+antiguo empleador, ya que en cada oportunidad en que se adeudaron dichas indemnizaciones
+
+mediante su provisión el empleador original las rebajó como gasto para la determinación
+
+de la renta líquida de cada período tributario para la declaración y pago del impuesto
+
+de Primera Categoría correspondiente.
+
+3. - Ahora bien, en lo que respecta a la situación tributaria de las
+
+indemnizaciones por años de servicios desde el punto de vista del beneficiario de ellas,
+
+considerando también para ello la situación prevista en el inciso segundo del artículo
+
+4º del Código del Trabajo, cabe expresar en primer término, que el artículo 17 Nº 13,
+
+de la Ley sobre Impuesto a la Renta, establece que no constituye renta, la asignación
+
+familiar, los beneficios previsionales y la indemnización por desahucio y la de retiro
+
+hasta un máximo de un mes de remuneración por cada año de servicio o fracción superior
+
+a seis meses. Agrega la citada norma que tratándose de dependientes del sector privado,
+
+se considerará remuneración mensual el promedio de lo ganado en los últimos 24 meses,
+
+excluyendo gratificaciones, participaciones, bonos y otras remuneraciones extraordinarias
+
+y reajustando previamente cada remuneración de acuerdo a la variación que haya
+
+experimentado el Indice de Precios al Consumidor entre el último día del mes anterior al
+
+del devengamiento de la remuneración y el último día del mes anterior al del término
+
+del contrato.
+
+Ahora bien, respecto de la aplicación de la disposición señalada,
+
+esta Dirección impartió las instrucciones pertinentes a través de la Circular Nº 29,
+
+de 1991. De acuerdo con lo señalado por tales instrucciones, dicha norma legal tiene
+
+aplicación en el caso de las indemnizaciones por término de funciones cuyo pago nace en
+
+virtud de un contrato de trabajo celebrado individualmente entre el trabajador y el
+
+empleador, y sobre aquellas cuya cancelación nace de la mera liberalidad de una de las
+
+partes, vale decir, las pagadas voluntariamente por el empleador.
+
+Agrega la citada instrucción, que tales indemnizaciones, no
+
+constituyen renta para los efectos tributarios hasta por un monto máximo equivalente a un
+
+mes de remuneración por cada año de servicio o fracción superior a seis meses, ya sea,
+
+que se trate de trabajadores del sector público o privado
+
+Señala además, que en el caso de trabajadores dependientes que se
+
+rigen por las normas del sector privado, se considera como remuneración mensual el
+
+promedio de lo ganado en los últimos veinticuatro meses, reajustando previamente cada
+
+remuneración por la variación del índice de precios al consumidor existente entre el
+
+último día del mes anterior al del devengamiento de la remuneración y el último día
+
+del mes anterior al del término del contrato de trabajo; y que en el caso de los
+
+trabajadores que no alcancen a completar veinticuatro meses de labores, pero siempre que
+
+tengan un número de meses superior a seis, el citado promedio se calculará de acuerdo
+
+con el número de meses efectivamente trabajados.
+
+4. - Ahora bien, respecto de su consulta, en cuanto a la aplicación de
+
+la norma contenida en el artículo 17, Nº 13, de la Ley de la Renta, considerando al
+
+efecto lo dispuesto en el inciso segundo del artículo 4º del Código del Trabajo, cabe
+
+expresar que para el cálculo de las indemnizaciones que no constituyen renta respecto de
+
+los trabajadores de empresas que se encuentren en la situación prevista por la citada
+
+disposición del Código del Trabajo, deben considerarse tanto las remuneraciones
+
+obtenidas, como los años de servicios trabajados con el empleador original.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 684, del 18.03.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Directos

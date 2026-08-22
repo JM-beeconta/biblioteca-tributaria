@@ -1,0 +1,118 @@
+# Oficio de 1997
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1997
+- Fecha: 1997-11-27
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/feb03.htm
+- Hash SHA-256: 4b2e795e71f091e728ec828bb39165ad200d4601f00c2449db8f490073e4d129
+
+## Resumen
+
+les o jur�dicas excepto sociedades an�nimas... (Oficio N� 522, del 13.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 2�, N� 6 y 17�, N� 8, Letra h), Word Sociedad contractual y legal minera - Sociedades de personas - Tratamiento tributario que les afecta es el mismo establecido para sociedades de personas - Excepto respecto de... (Oficio N� 507, del 11.02.1998). Renta - Actual ley sobre impuesto a la Art. 17�, N� 18, Word Contrato colectivo de trabajo - Bono de escolaridad - Requisitos que deben reunir p…
+
+## Referencias detectadas
+
+- {"type":"circular","number":10,"year":1993}
+
+## Texto extraído
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 17°, N° 18
+
+Home | Ley Renta - 1998 RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 17°, N° 18
+
+Contrato colectivo de trabajo - Bono de escolaridad - Requisitos que
+
+deben reunir para que sumas entregadas a los trabajadores constituyan becas de estudio o
+
+asignación de escolaridad - Tratamiento tributario aplicable - Instrucciones en Circular
+
+N° 10, de 1993, complementada por Circular N° 23, del mismo año - Si cumplen
+
+condiciones para ser consideradas beca de estudio, sumas no constituyen renta para efectos
+
+tributarios - Caso contrario se consideran asignación de estudio o escolaridad, afecto a
+
+Impuesto Unico de Segunda Categoría.
+
+1.- Por presentación indicada en el antecedente, se señala que
+
+con fecha 27 de noviembre de 1997, el sindicato y la empresa individualizados,
+
+suscribieron un contrato colectivo que rige las relaciones comunes de trabajo y
+
+remuneración hasta el 30 de noviembre de 1999.
+
+En el artículo 10º del instrumento contractual se convino el
+
+otorgamiento de un BONO DE ESCOLARIDAD pagadero los meses de febrero y mayo de cada año
+
+con el objeto de beneficiar a los hijos estudiantes de los trabajadores y asimismo a los
+
+trabajadores estudiantes. Dicho bono de escolaridad según su opinión reúne los
+
+requisitos necesarios para ser considerado una BECA DE ESTUDIO, a la luz de lo que este
+
+Servicio ha sostenido en su Circular Nº 10, de 26 de enero de 1993, y por consiguiente no
+
+constituye renta y tampoco una mayor remuneración para el trabajador por sus servicios
+
+personales.
+
+En mérito de lo antes expuesto, señala que solicitó un
+
+pronunciamiento de la Dirección del Trabajo en orden a absolver la consulta, en cuanto a
+
+si el denominado beneficio BONO DE ESCOLARIDAD, establecido en el artículo 10º del
+
+contrato colectivo, al constituir una beca de estudio, debería o no ser imponible.
+
+2.- Sobre el particular, cabe señalar en primer lugar, que este
+
+Servicio mediante Circular Nº 10, de 1993, complementada por Circular Nº 23, del mismo
+
+año, publicadas en los Boletines que edita mensualmente este Servicio de los meses de
+
+enero y mayo de 1993, estableció los requisitos que deben reunir las sumas que se
+
+entregan a los trabajadores para que éstas constituyan una beca de estudio o una
+
+asignación de escolaridad, estableciendo, a su vez, el tratamiento tributario aplicable a
+
+cada beneficio según la calificación que se le hubiere dado según el cumplimiento de
+
+los requisitos exigidos para cada una de ellas.
+
+Por lo tanto, si en la especie se cumplen las condiciones para que
+
+dichas sumas sean consideradas como una beca de estudio, éstas conforme a lo dispuesto
+
+por el Nº 18 del artículo 17 de la Ley de la Renta, no constituyen renta para los
+
+efectos tributarios, no afectándose con ningún impuesto. En caso contrario, serán
+
+consideradas como una asignación de estudio o escolaridad, afectas al impuesto Unico de
+
+Segunda Categoría.
+
+3.- Ahora bien, en relación a la consulta formulada, este Servicio
+
+entiende que lo que el recurrente desea saber es si las sumas entregadas como un bono de
+
+escolaridad, según el artículo 10 del contrato colectivo, son o no imponibles para los
+
+efectos previsionales, informándose al respecto que tal materia no es de competencia de
+
+este Servicio, debiendo recurrirse a los organismos competentes correspondientes.
+
+BENJAMIN SCHÜTZ GARCIA
+
+DIRECTOR SUBROGANTE
+
+Oficio Nº 0505, del 11.02.1998
+
+Subdirección Normativa
+
+Depto. Impuestos Directos

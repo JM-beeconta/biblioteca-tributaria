@@ -1,0 +1,117 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-11-17
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre10.doc
+- Hash SHA-256: b94ddab78d53d31261d97864e931d1d7b1f7fd7169f04737b7693522c747e2d5
+
+## Resumen
+
+, Art. 8� Y Art. 20, N� 3 Y 4. Octubre 1999 Word Impuesto al Valor agregado que afecta a la actividad de "turismo rural" prestado por familias campesinas, como actividad estacional y cuyos ingresos son complementarios al obtenido en la producci�n agr�cola. (Of. N� 4.179, de 17.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Arts. N�s. 2�, N� 2, Art. 8� y Art. 20�, N� 3. Octubre 1999 Word Impuesto al Valor Agregado que afecta al servicio de administraci�n de edificios, prestado por…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO LEY IMPUESTO A LAS - ARTS. 2º, Nº 2,
+ART. 8º  Y   ART. 20º, Nº 3.
+
+________________________________________________________________________
+_____
+
+
+
+Servicio de administración de edificio - Aseo, mantención,
+recaudación de gastos comunes y lo relacionado con personal encargado -
+Suministro de servicios - Comprendida en el Nº 3, del Art. 20º, de la
+Ley de la Renta - Afecta a Impuesto al Valor Agregado.
+
+
+
+
+
+1.-	Se ha recibido en esta Dirección Nacional su presentación del
+antecedente, mediante la cual consulta acerca del Impuesto al Valor
+Agregado que grava al servicio de administración de edificios,
+realizado por una sociedad que tributaría en Primera Categoría, de
+acuerdo a la Ley sobre Impuesto a la Renta.
+
+
+
+Expone que proyecta constituir una sociedad cuyo giro será la
+administración de edificios, labor remunerada que consiste en atender
+las diversas materias relacionadas con el funcionamiento de los
+inmuebles administrados, como son: aseo, mantención, recaudación de
+los gastos comunes y todo lo relacionado con  el personal encargado de
+dichas labores.
+
+
+
+2.-	El artículo 8º, del D.L. Nº 825, de 1974, grava con el impuesto
+al valor agregado a las ventas y a los servicios y el artículo 2º, Nº
+2, del citado cuerpo legal define al servicio, como hecho gravado con el
+tributo en comento, como: “la acción o prestación que una persona
+realiza para otra y por la cual percibe un interés, prima, comisión o
+cualquiera otra forma de remuneración, siempre que provenga del
+ejercicio de las actividades comprendidas en los Nºs 3 o 4, del
+Artículo 20º,  de la Ley sobre Impuesto a la Renta”.
+
+
+
+A su vez, el artículo 20º, del mencionado texto legal, incluye dentro
+de las rentas clasificadas en su Nº 3, a las rentas del comercio.
+
+
+
+Por otra parte el artículo 3º, Nº 7, del Código de Comercio, dispone
+que son actos de comercio los efectuados, entre otras, por las
+“empresas de suministros”.
+
+
+
+3.-	Sobre el particular,  cabe señalar que del estudio de los
+antecedentes se concluye que la actividad que pretende desarrollar el
+ocurrente constituye un suministro de servicios, conforme a lo
+establecido en el artículo 3º, Nº 7, del Código de Comercio, ya que
+por una parte, de acuerdo a la naturaleza de los citados servicios,
+éstos tienen una permanencia en el tiempo pues conformarían el giro
+habitual o normal de la empresa prestadora al constituirse precisamente
+para ejecutar tales servicios, elemento básico que caracteriza al
+suministro de servicios, y por otra, al no referirse exclusivamente la
+disposición del Código de Comercio antes mencionada sólo al
+suministro de bienes, debe entenderse también comprendida en ella el
+suministro de servicios.
+
+
+
+4.-	Por lo tanto, conforme a las normas legales mencionadas,  el
+servicio de administración de edificios efectuado por una sociedad que
+tributaría en primera categoría, se clasifica en el artículo 20º,
+Nº 3, de la Ley sobre Impuesto a la Renta, por tratarse de un
+suministro de servicios, quedando en consecuencia gravado con el
+impuesto al valor agregado de acuerdo al artículo 8º, en concordancia
+con el artículo 2º, Nº 2, del D.L. Nº 825. 
+
+
+
+
+
+       JAVIER ETCHEBERRY CELHAYDIRECTOR
+
+	
+
+
+
+
+
+Oficio Nº 4.155, del 16.11.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

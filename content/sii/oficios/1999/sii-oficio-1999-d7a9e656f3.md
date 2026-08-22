@@ -1,0 +1,197 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-08-30
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto14.doc
+- Hash SHA-256: ad289ea9b3f3abe0dd0e9bb81eaf3a819f3e10977fb6e0d3626ca481c81e09c7
+
+## Resumen
+
+las � Art. 13�, N�s 7 y 8 y 2�, N� 2 - art. 20� N� 3 del Decreto Ley N� 824 y Art. 3�, N� 7 del C�digo de Comercio. Agosto 1999 Word Aplicaci�n de exenci�n del art. 13� N� 7 a empresa externa por atenci�n de beneficiarios con derecho al sistema del salud p�blica (OF. N� 3.280, del 30.08.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 36� - Art. 18� de la Ordenanza de Aduanas. Agosto 1999 Word Reimportaci�n de mercanc�as por cuya venta al exterior el exportador ha recuperado el imp…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO LEY IMPUESTO A LAS - ART. 36º - ART.
+18 DE LA ORDENANZA DE ADUANAS
+
+
+
+
+
+Reimportación de mercancías vendidos originalmente al exterior en que
+el exportador ha recuperado el Impuesto al Valor Agregado conforme al
+Art. 36º - Exportación  es trámite aduanero (Art. 18 Ordenanza de
+Aduanas) - Facultad del Servicio de Aduanas de autorizar la libre
+reimportación  de mercancías salidas al exterior amparadas por
+Declaración de Exportación y que han sido rechazadas en el país de
+destino - Constancia en resolución que se dicte respecto de que se ha
+acreditado la no percepción o devolución por el Fisco del IVA u otro 
+beneficio pecuniario de fomento a las exportaciones - Requisitos (Circ.
+240, de 12.04.91, Serv. Nac. de Aduanas) Debe indicarse expresamente que
+se deja sin efecto la declaración de exportación por haber resultado
+ineficaz la exportación - Debe verificarse por Aduanas si la
+exportación original permitió al exportador recuperar el Impuesto al
+Valor Agregado conforme al Art. 36 debe aplicarse al reintegro de las
+mercancías al país los derechos e impuestos que corresponda -
+Reeembolso del IVA soportado al adquirir bienes o utilizar servicios
+destinados a la exportación debe solicitarse por cada período
+tributario en que se efectúan ventas al exterior (D.S. de Economía Nº
+348, de 1975) - Remanentes de créditos fiscales de períodos anteriores
+al que se efectúa la exportación, relacionados con ventas o servicios
+internos, se recuperan hasta el porcentaje establecido por Art. 14 -
+Aplicación de porcentaje al valor FOB de las exportaciones -
+Contribuyentes con ventas internas y exportaciones: el porcentaje tope
+del remanente a recuperar está dado en relación al valor FOB de la
+exportación - Alteración de valor por quedar sin efecto parte de la
+exportación hace variar el monto que tuvo derecho a recuperar -
+Competencia del Servicio de Aduanas para declarar la libre
+reimportación de mercancías respecto de cuyo período de exportación
+original se le demuestre que no se ha recuperado el IVA - En  caso que
+se compruebe la recuperación del IVA correspondiente a la exportación
+original: El Servicio de Aduanas debe aplicar el tributo que grave a la
+operación de su reingreso de acuerdo a normas del Art. 16º, letra a) -
+Certificación por Tesorerías de la circunstancia de haberse recuperado
+el IVA u otro reembolso por la exportación original.
+
+
+
+1.-	Esa Tesorería General de la República ha requerido a través de su
+Departamento Jurídico, se determine la autoridad competente para
+pronunciarse en una reimportación de mercancías, por cuya venta
+original al exterior el exportador que las reimporta haya recuperado
+impuesto al valor agregado, conforme las disposiciones del artículo
+36º del Decreto Ley Nº  825, de 1974.
+
+
+
+Manifiesta que Aduanas ha impartido instrucciones en la materia,
+estableciendo que esa operación puede ser declarada libre de derechos e
+impuestos, si el importador (reimportador) acredita por medio de un
+Certificado emanado de la autoridad competente,  que no recuperó IVA o
+no percibió otro beneficio pecuniario por la exportación original de
+las mismas mercancías.
+
+
+
+Expresa que aún cuando la Solicitud de Recuperación del crédito
+fiscal IVA Exportador se presenta al Servicio de Tesorerías, a juicio
+del requirente, el conocimiento y resolución de esta materia, como la
+procedencia o improcedencia de otorgar el Certificado requerido por el
+reimportador, a fin de cumplir las instrucciones del Servicio de
+Aduanas, competiría a este Servicio de Impuestos Internos.
+
+
+
+2.-	La exportación es un trámite aduanero, definido en el  artículo
+18º de la Ordenanza del ramo, como el envío legal de mercancías para
+su uso o consumo en el exterior.
+
+
+
+
+
+De acuerdo a lo señalado por el Servicio de Aduanas en el Oficio
+Circular Nº 240 de 12 de Abril de 1991, compete a los Directores
+Regionales y Administradores de Aduanas la facultad de autorizar la
+libre reimportación de mercancías salidas al exterior amparadas por
+Declaración de Exportación y que han sido rechazadas en el país de
+destino, dejando constancia en la Resolución que se dicte al efecto que
+se ha acreditado la no percepción o devolución en arcas fiscales del
+IVA o de cualquier otro beneficio pecuniario de fomento a las
+exportaciones percibidos por esa exportación, y, además, que la
+mercancía será objeto de examen físico.
+
+
+
+Expresa asimismo el referido Oficio Circular, que se debe indicar
+expresamente que se deja sin efecto la Declaración de Exportación, por
+cuanto se estima que al retornar las mercancías al país y autorizarse
+su libre reimportación significa que la Declaración de Exportación ha
+resultado ineficaz, en atención a que el objetivo final, cual es el uso
+o consumo en el exterior, no se cumplió y, al no tener objeto no causa,
+procede que se deje sin efecto.
+
+
+
+Si el Servicio de Aduanas verifica que esa exportación original de las
+especies ha permitido a su exportador –en lo que interesa- recuperar
+impuesto al valor agregado conforme las disposiciones del artículo 36º
+del Decreto Ley Nº 825, de 1974, debe aplicar a ese reingreso de las
+mercancías al país los derechos e impuestos que corresponda.
+
+
+
+3.-	Ahora bien, el reembolso del impuesto al valor agregado soportado al
+adquirir bienes o al utilizar servicios destinados a la actividad de
+exportación –que faculta el artículo 36º del Decreto Ley Nº 825,
+de 1974- debe solicitarse por cada período tributario en que se haya
+efectuado ventas hacia el exterior, con el procedimiento y en las
+condiciones que establece el reglamento de la norma legal, contenido en
+el D.S. de Economía Nº 348, de 1975.
+
+
+
+En efecto, el artículo 1º inciso 3º del referido Reglamento,
+establece que los remanentes de créditos fiscales de períodos
+anteriores a aquel en que se efectuó la exportación, relacionados con
+ventas o servicios internos, se recuperarán hasta la suma que resulte
+de aplicar el porcentaje establecido en el artículo 14º del D.L. 825,
+de 1974, al valor FOB de las exportaciones.
+
+
+
+4.-	De lo expuesto aparece que tratándose de contribuyentes que tengan
+ventas internas y exportaciones, el porcentaje tope de remanente que se
+puede recuperar se establece en relación al valor FOB de la
+exportación correspondiente, por lo que, en la medida en que tal valor
+se altere, como resultado de haber quedado parte de la exportación sin
+efecto, también podría variar el monto que se tuvo derecho a
+recuperar.
+
+
+
+5.-	De acuerdo con el predicamento adoptado por el Servicio de Aduanas
+en la materia, se desprende su competencia para declarar la libre
+reimportación de aquellas mercancías, respecto de cuyo período de
+exportación original se le demuestre que no se ha recuperado Impuesto
+al Valor Agregado.
+
+
+
+Cuando en cambio,  Aduanas compruebe que se ha recuperado IVA por el
+período de la exportación original de las especies cuestionadas, debe
+aplicar el tributo que grave a la operación de su reingreso, de acuerdo
+a las reglas generales que rigen las importaciones comunes, esto es,
+sobre la base imponible que establece el artículo 16º, letra a), del
+Decreto Ley Nº 825, de 1974.
+
+
+
+Asimismo, será esa propia Tesorería General de la República quien
+deba certificar no haberse recuperado impuesto al valor agregado por el
+período de la exportación de las mercancías que reingresan al país,
+o el eventual reembolso de cualquier monto del tributo, que haya podido
+disponer con motivo y en el período de la exportación original de esas
+especies.
+
+
+
+						JAVIER ETCHEBERRY CELHAY
+
+							                 DIRECTOR
+
+
+
+Oficio Nº 3.279, del 30.08.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

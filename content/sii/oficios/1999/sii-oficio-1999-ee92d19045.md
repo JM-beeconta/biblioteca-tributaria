@@ -1,0 +1,62 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-06-23
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jul08.htm
+- Hash SHA-256: 8b50e98dae2139d46a7e07088898c8ce462c99b4141ed94ef70452b680d99780
+
+## Resumen
+
+> Reimportaci�n de mercanc�as por cuya venta al exterior el exportador ha recuperado el impuesto IVA. (OF. N� 3.279, del 30.08.1999 - I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las� Art. 23�. ,Julio 1999 Word IVA en venta de suministros efectuados a la European Southern Observatory (E.S.O).(Of. N� 3.113, del 11.08.1999 � I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 12�, Letra B, N� 10., Julio 1999 Word Exenci�n de IVA en la importaci�n de automotores de pasajeros…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Jurisprudencia Administrativa
+
+Home | Ventas y Servicios - 1999
+
+VENTAS Y SERVICIOS – NUEVO TEXTO LEY IMPUESTO A LAS – ART. 12º, Nº 10, LETRA B)
+
+Exención del IVA en importación de coches de ferrocarril de acuerdo al Art. 12º, letra B, Nº 10 – Exención del IVA en importación de bienes de capital (Art. 12º, Letra B), Nº 10) – Reconocimiento de franquicia y devolución o imputación de impuestos indebidamente enterados – Exención del IVA a importación de especies efectuados por inversionistas siempre que consistan en bienes de capital que cumplan los requisitos que la ley exige – Calificación por Ministerio de Economía, Fomento y Reconstrucción – Devolución del impuesto pagado dependerá de calificación previa.
+
+1.- Se traslada una solicitud de la EMPRESA DE LOS FERROCARRILES DEL ESTADO, quien pide se declare que se encontraba exenta del impuesto al valor agregado –de acuerdo con las disposiciones del artículo 12º, letra B, Nº 10, del Decreto Ley Nº 825, de 1974- al importar ciertos automotores de pasajeros.
+
+Con motivo de esa importación habría pagado el tributo de modo que, de accederse a la procedencia de la franquicia, esa solución resultaría indebida.
+
+Manifiesta que, en conformidad con la norma invocada, esa importación recayó en bienes de capital y fue realizada por ella como inversionista nacional, cumpliéndose –según sostiene- todos los requisitos que esa norma exige para la procedencia de la exención de IVA.
+
+Por todas estas razones solicita que, una vez reconocida esa liberación, se le devuelva o se impute a futuros pagos el impuesto que ya ha enterado en arcas fiscales –en forma diferida- por tal concepto, según las resoluciones exentas que detalla
+
+2.- Dispone en lo pertinente el artículo 12º del Decreto Ley Nº 825, de 1974, en el Nº 10. de su letra B:
+
+"Artículo 12º.- Estarán exentos del impuesto establecido en este Título (IVA):
+
+"........................................
+
+"B.- La importación de las especies efectuadas por:
+
+"........................................
+
+"10.- Los inversionistas ....................siempre que consistan en bienes de capital que formen "parte de un proyecto de inversión extranjera formalmente convenido con el Estado de "acuerdo a las disposiciones del Decreto Ley Nº 600, de 1974, o en bienes de capital que "no se produzcan en Chile en calidad y cantidad suficiente, que formen parte de un "proyecto similar de inversión nacional, que sea considerado de interés para el país, "circunstancias todas que serán calificadas por resolución fundada del Ministerio de "Economía Fomento y Reconstrucción, refrendada además por el Ministerio de Hacienda, "Los bienes de capital a que se refiere el presente número deberán estar incluídos en una "lista que el Ministerio de Economía, Fomento y Reconstrucción fijará por Decreto "Supremo.
+
+3.- Al tenor de las disposiciones transcritas, la calificación de la concurrencia de los requisitos que exige la norma para que proceda la exención, es de la competencia del Ministerio de Economía, Fomento y Reconstrucción.
+
+Realizada esa calificación, la franquicia procedería –o no- de pleno derecho, dependiendo de ello la eventual devolución del impuesto pagado que pudiera solicitarse a esa Dirección Regional.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 3.055, del 04.08.1999
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

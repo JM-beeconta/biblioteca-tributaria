@@ -1,0 +1,176 @@
+# Oficio de 1999
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1999
+- Fecha: 1999-09-11
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre09.doc
+- Hash SHA-256: 703881cdb1ed871558518ada60949ef196c50e52bf488f15bd8cf61e21829634
+
+## Resumen
+
+Noviembre 1999 Word Cambio de sujeto de los impuestos que afectan a la venta de oro, hecha por un pirquinero a un contribuyente de la primera categor�a del tributo a la renta que declara su renta efectiva seg�n contabilidad completa. (Of. N� 4.304, del 26.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 46� - Ley N� 19.633, del Ministerio de Hacienda. (D.O. 11.09.99). Noviembre 1999 Word Incidencia de la Ley N� 19.633, en la posterior enajenaci�n de un veh�culo importado al am…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO - LEY IMPUESTO A LAS - ART. 46º  -  LEY  Nº
+19.633 DEL MINISTERIO DE HACIENDA (D.O. 11.09.99)
+____________________________________________________________________________
+___
+
+Enajenación de vehículo  importado  al  amparo  de  la  Partida  00.04,  del
+Arancel Aduanero - Beneficio tributario solicitado estando  vigente  sistema
+anterior - Modificaciones al régimen tributario que afecta  a  importaciones
+de automóviles acogidos a franquicias especiales Ley  Nº  19.633  -  Primera
+enajenación en el país se encuentra  gravada  con  el  IVA  y  con  impuesto
+Adicional del Art. 46º - Ley se aplica a contar de la  fecha  que  entra  en
+vigencia.
+
+
+1.-  El recurrente requiere un pronunciamiento de este Servicio,  acerca  de
+la incidencia de la Ley Nº 19.633, del Ministerio de Hacienda, publicada  en
+el diario oficial de fecha 11  de  Septiembre  de  1999,   en  la  posterior
+enajenación de un vehículo importado al  amparo  de  la  partida  00.04  del
+Arancel Aduanero.
+
+
+Expresa el recurrente que en su calidad de funcionario  dependiente   de  la
+Universidad de Chile y por haber permanecido  en  comisión  de  servicio  en
+Lyon Francia, tiene derecho a  acogerse  a  la  partida  00.04  del  Arancel
+Aduanero en la importación de un vehículo, por lo cual,  pide se  le  señale
+por esta superioridad,  los  cambios  que  se  producen  con  motivo  de  la
+publicación de  la  Ley  19.633,  en  lo  que  se  refiere  a  la  posterior
+enajenación del vehículo importado al amparo de la referida partida y si  se
+deberán pagar los impuestos del artículo 46 de la ley del IVA,  considerando
+ que al momento en que solicitó el beneficio aduanero se encontraba  vigente
+el sistema anterior.
+
+2.- Sobre el particular, cabe  manifestar  a  Ud.  que,  efectivamente,  con
+fecha 11 de Septiembre de 1999, se publicó en el diario oficial  la  Ley  Nº
+19.633, del Ministerio de Hacienda, que modifica el régimen  tributario  que
+afecta a la importación de automóviles acogidos a franquicias especiales.
+
+En  su  artículo  1º,  la  referida  ley  introduce  modificaciones  a   los
+Tratamientos Arancelarios del  Arancel Aduanero, Sección 0 , cuya  norma  ha
+quedado como sigue:
+
+Nota Legal Nacional Nº 3.
+
+
+"Los  vehículos  automóviles  importados  al  amparo  de  las  Partidas  del
+Capítulo 0, del Arancel Aduanero, en cuya virtud gozan de exención  total  o
+parcial de derechos con respecto a los que  les  afectarían  en  el  régimen
+general, no podrán ser objeto de negociaciones  de  ninguna  especie,  tales
+como compraventa, arrendamiento, comodato  o  cualquier  acto  jurídico  que
+signifique la tenencia, posesión o dominio de ellos por persona  extraña  al
+beneficiario  de  la   franquicia   aduanera,   antes  de   transcurrido  el
+plazo de  tres años, contados desde la fecha  de  su  importación  al  país,
+salvo que se entere en arcas fiscales   la  diferencia   de   los   derechos
+que   exista   entre   los   efectivamente   pagados  al   momento   de   su
+importación y los vigentes a la fecha de numeración de la solicitud de  pago
+de acuerdo a la clasificación arancelaria que  a  ellos  corresponda  en  el
+régimen general.
+
+
+
+
+
+
+
+Para el cálculo de estos derechos, la base imponible estará constituida  por
+el  valor  aduanero  del  vehículo,  menos  la  depreciación  por  uso,  que
+ascenderá a un diez por ciento por cada año completo transcurrido  entre  1º
+de enero del año del modelo y el momento en que se  pagan  dichos  derechos.
+Si en el valor aduanero ya se  hubiese  considerado  rebaja  por  uso,  sólo
+procederá depreciación por los años  no  tomados  en  cuenta.  Los  derechos
+determinados precedentemente, serán girados  por  el  Servicio  Nacional  de
+Aduanas,  a  la  persona  beneficiaria  de  la  franquicia,   quien   deberá
+enterarlos en arcas fiscales dentro de los 10 días  siguientes  a  la  fecha
+del giro.
+
+
+Los Notarios no podrán autorizar ningún documento ni las firmas  puestas  en
+él tratándose de un contrato afecto a los derechos en  referencia,  sin  que
+se les acredite previamente el pago de  dichos  gravámenes,  debiendo  dejar
+constancia  de  este  hecho  en  el  instrumento  respectivo.  Asimismo,  el
+Servicio de Registro Civil e Identificación no inscribirá en su registro  de
+vehículos motorizados ninguna transferencia de los vehículos afectos  a  los
+derechos, sino constare en el título respectivo, el hecho de haberse  pagado
+los derechos establecidos en la presente nota legal.
+
+La diferencia de derechos que corresponda cancelar conforme a  lo  dispuesto
+en el inciso anterior será reducida al 75% y 50%  después  de  transcurridos
+más de un año o más de dos años, respectivamente contados desde la fecha  de
+su importación.
+
+
+Derógase  toda  otra  exigencia  o  limitación  establecida  en   cualquiera
+disposición legal que se relacione con la  aplicación  de  estas  normas  de
+desafectación".
+
+
+Asimismo,  mediante el mismo artículo, se reemplaza la glosa de  la  partida
+00.04, Sección 0 , en lo que dice relación con  las  mercancías  a  las  que
+procede aplicar  la  franquicia,  por  la  siguiente:  "Efectos  Personales,
+Menaje de Casa,  Equipos  y  Herramientas  de  Trabajo,  de  funcionarios  o
+empleados chilenos, que presten sus  servicios  en  el  exterior".   Con  la
+referida modificación  se  elimina  la  exención  a  la  importación  de  un
+vehículo automóvil y una embarcación deportiva,  que  podía  ser  efectuada,
+antes de la entrada en vigencia de esta ley, por funcionarios  del  gobierno
+de Chile que presten servicios en el exterior.
+
+
+En su artículo 5º el referido texto legal,  agrega el inciso  segundo  a  la
+letra a) del artículo 8º del D.L. Nº 825, de 1974, estableciéndose que,  "se
+considerará venta  la  primera  enajenación  de  los  vehículos  automóviles
+importados al amparo de las partidas del Capítulo 0  del  Arancel  Aduanero,
+en cuya virtud gozan de exención total o parcial  de  derechos  e  impuestos
+con respecto a los que le afectarían en el régimen general".
+
+
+También allí se establece que tales vehículos no quedan favorecidos  con  la
+exención que establece el Nº  1  de  la  letra  A),  del  artículo  12,  del
+referido decreto ley, para la venta de vehículos motorizados usados.
+
+Además, en el mismo artículo de la Ley, se agregan dos  incisos  finales  al
+artículo  46,  del  D.L.  Nº  825,  de  1974,  gravándose,   mediante   esta
+modificación con el impuesto adicional, la primera  enajenación en  el  país
+de vehículos automóviles importados al amparo de las partidas  del  Capítulo
+0 del Arancel Aduanero.
+
+
+En consecuencia, de acuerdo a  estas modificaciones, la primera  enajenación
+en el país de los referidos vehículos se encontrará gravada con el  impuesto
+al valor agregado y con el impuesto adicional contemplado en el artículo  46
+del D.L. Nº 825, de 1974.
+
+3.- Finalmente cabe dejar establecido que  la  ley  entró  en  vigencia  con
+fecha 1º de Octubre de 1999, y se aplica, por lo  tanto  en  las  ventas  de
+vehículos, importados al amparo de las partidas del capítulo 0  del  Arancel
+Aduanero, que se efectúen a contar de dicha fecha.
+
+
+
+
+
+
+                                                                      JAVIER
+      ETCHEBERRY CELHAY
+
+                                     DIRECTOR
+
+
+
+
+
+
+
+                       Oficio Nº 4.268, del 25.11.1999
+                           Subdirección Normativa
+                         Depto. Impuestos Indirectos

@@ -1,0 +1,160 @@
+# Oficio de 1998
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 1998
+- Fecha: 1998-04-30
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/mar15.doc
+- Hash SHA-256: 8cb79ee830d0a968d4556417bd7ffbd05f57bd6b5223d74dad94d639cc211f0e
+
+## Resumen
+
+br> (Oficio N� 1164, del 30.04.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Abril 1998 Word Servicios gravados con IVA - Concepto de servicio - Servicios consistentes en poner a disposici�n de otra empresa personal para el desarrollo de sus labores... (Oficio N� 0955, del 08.04.1998). Ventas y servicios - Nuevo texto impuesta a las - Art. 23�, N� 2�. Marzo 1998 Word Empresa de promoci�n y publicidad - Adquisici�n de bienes entregados gratuitamente con fines promocionales o publicitarios -…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - NUEVO TEXTO IMPUESTO A LAS -
+
+ART. 23°, N°  2°.
+
+______________________________________________________
+
+
+
+Empresa de promoción y publicidad - Adquisición de bienes entregados
+gratuítamente con fines promocionales o publicitarios - Se consideran
+rentas los retiros de bienes corporales muebles destinados a rifas y
+sorteos, aún a título gratuíto - Norma aplicable a vendedores -
+Entrega de bienes corporales muebles a título gratuíto efectuada por
+prestadores de servicios, no constituye un hecho gravado con IVA-
+Improcedencia de utilizar como crédito fiscal el impuesto soportado en
+la adquisición de dichos bienes.
+
+
+
+
+
+
+
+1.-	Se ha recibido en esta Dirección Nacional su presentación del
+antecedente, mediante la cual consulta si procede que una empresa
+dedicada a la prestación de asesorías en marketing y promociones,
+utilice el crédito fiscal recargado en la adquisición de bienes
+entregados gratuitamente con fines promocionales o publicitarios.
+
+
+
+	Manifiesta que su cliente, es una empresa dedicada a la prestación de
+asesorías en marketing y promociones que ha suscrito un contrato por el
+que se obliga a administrar y desarrollar para ella una campaña
+promocional consistente en la distribución de premios entre los
+clientes de la tienda que acumulen una suma determinada de puntos.
+Agrega que la referida campaña publicitaria incluye la adquisición y
+posterior entrega gratuita de los bienes otorgados como premio a los
+clientes frecuentes de dicha tienda.
+
+
+
+	Señala que este Servicio ha sostenido que en estos casos, el impuesto
+al valor agregado recargado en la adquisición de bienes para ser
+entregados gratuitamente, no da derecho a crédito fiscal, sino que
+constituye un mayor costo para el prestador del servicio, criterio que,
+a su entender, no resulta aplicable en el caso de empresas dedicadas a
+la realización de campañas promocionales y de marketing, toda vez que
+en estos casos la adquisición de bienes para su entrega gratuita
+constituye un gasto de tipo general asociado directamente con su giro. 
+
+	
+
+2.-	El artículo 23º, del D.L. Nº 825, de 1974, en su Nº 2, dispone
+que no procede el derecho al crédito fiscal por la importación o
+adquisición de bienes o la utilización de servicios que se afecten a
+hechos no gravados con el impuesto al valor agregado o a operaciones
+exentas o que no guarden relación directa con la actividad del
+vendedor.
+
+
+
+3.-	Al respecto, cabe hacer presente a Ud. que, de acuerdo al sistema
+del impuesto al valor agregado, como regla general, un contribuyente
+tiene derecho a utilizar este tributo soportado en la importación o
+adquisición de bienes corporales muebles como crédito fiscal, cuando
+la transferencia de dominio de estos mismos bienes queda gravada con
+dicho impuesto. 
+
+
+
+	Por el contrario, no tiene derecho a la utilización del impuesto al
+valor agregado como crédito fiscal, cuando la adquisición o
+importación de dichos bienes se afecta o destina a hechos no gravados o
+exentos de este tributo o no guarda relación directa con la actividad
+del vendedor.
+
+
+
+	Asimismo, de acuerdo a lo dispuesto en el artículo 8º, letra d),
+inciso segundo, del D.L. Nº 825, se consideran ventas los retiros de
+bienes corporales muebles destinados a rifas y sorteos, aún a título
+gratuito, y sean o no del giro del contribuyente, efectuados con fines
+promocionales o de propaganda por los vendedores afectos al impuesto al
+valor agregado. En el inciso tercero de esta letra se dispone que lo
+mismo se aplicará a toda entrega o distribución gratuita de bienes
+corporales muebles que los vendedores efectúen con iguales fines.
+
+	
+
+	Ahora bien, esta última norma se refiere sólo a los vendedores y no a
+los prestadores de servicios, motivo por el cual la entrega de bienes
+corporales muebles otorgada a título gratuito como premio, con fines
+promocionales, por prestadores de servicios, constituye una
+transferencia de dominio de un bien corporal mueble no gravada con dicho
+impuesto.
+
+
+
+	Por lo tanto, por afectarse la adquisición de bienes corporales
+muebles entregados como premio por una empresa prestadora de servicios
+de promoción y marketing a los clientes de una empresa comercial, con
+fines promocionales, a un hecho no gravado con el tributo al valor
+agregado, esta Dirección Nacional estima que, de acuerdo a lo dispuesto
+en el Nº 2, del artículo 23, del D.L. Nº825, no procede que se
+utilice como crédito fiscal el impuesto soportado en su adquisición.
+
+	
+
+	Asimismo, cabe expresar también que tampoco es posible considerar la
+adquisición de dichos bienes como un gasto de tipo general, como lo
+sugiere el recurrente, porque dichos bienes no se usan ni se consumen en
+la empresa prestadora del servicio, sino que son transferidos a
+terceros.
+
+	
+
+4.-	En lo referente a la mención que se hace a ciertos pronuncia-
+mientos emitidos por este Servicio, que presuntamente tendrían
+relación con el tema, cabe dejar establecido, que aquellos no guardan
+relación con la petición específica del recurrente.
+
+
+
+
+
+
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+
+
+Oficio Nº 0737, del 17.03.1998
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

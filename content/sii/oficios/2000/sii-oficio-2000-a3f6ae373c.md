@@ -1,0 +1,194 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-01-31
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero14.htm
+- Hash SHA-256: 0dcaabcab5657bf40eb741a78e4ec9d2637a0c9815ce7ff03b11c80db7656a8d
+
+## Resumen
+
+> Renta - actual ley sobre impuesto a la - Art. 97�, Art. 69� del codigo tributario - Art. 2521 del codigo civil Word Plazo de devoluci�n de remanente de pagos provisionales mensuales. (Of. N� 349, del 31.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 88�, 90� y 98� - Art. 126� del C�digo Tributario Word Devoluci�n de pagos provisionales mensuales, por haber sido cancelados indebidamente al no existir tal obligaci�n, debido a que en el a�o comercial inmediatamente anterior obtuvo p�rdida trib…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"126"}
+
+## Texto extraído
+
+RENTA
+
+Home | Ley Renta - 2000
+
+RENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 88º, 90º Y 98º - ART. 126º CODIGO
+
+TRIBUTARIO.
+
+Devolución
+
+de pagos provisionales - Normas aplicables - Ley de la Renta otorga facultad al
+
+contribuyente para no efectuar los pagos provisionales mensuales o suspenderlos - Cuando
+
+se encuentre en situación de pérdida tributaria - Si continúa realizando dichos pagos -
+
+Debe entenderse efectuados en calidad de pagos voluntarios - A menos que acredite
+
+fehacientemente que los efectuó por un error - Devolución de los referidos pagos debe
+
+regirse por artículo 126 del Código Tributario.
+
+1.- Por Ordinario
+
+indicado en el antecedente, se expresa que la empresa "XY", solicita la
+
+devolución de Pagos Provisionales Mensuales de los meses de Enero, Febrero y Marzo de
+
+1999, por haber sido cancelados indebidamente al no existir tal obligación, debido a que
+
+en el año comercial inmediatamente anterior obtuvo pérdida tributaria.
+
+Agrega,
+
+que la petición del contribuyente se fundamenta en la facultad que le otorga el artículo
+
+90 de la Ley de la Renta, donde se establece que los contribuyentes de la Primera
+
+Categoría que en un año comercial obtuvieren pérdidas podrán no efectuar los pagos
+
+provisionales correspondientes a los ingresos brutos del primer trimestre del año
+
+comercial siguiente.
+
+En
+
+relación con lo anterior, consulta si el término podrán se puede
+
+interpretar como una opción que debe ser decidida por el contribuyente antes de la
+
+presentación de las declaraciones mensuales respectivas, y por lo tanto, una vez
+
+declarados y cancelados los pagos provisionales pasarían a tener la calidad de pagos
+
+provisionales mensuales voluntarios establecidos en el artículo 89 (sic) de la Ley de la
+
+Renta. En este evento, la imputación de los pagos provisionales debería efectuarse de
+
+acuerdo a lo señalado en los artículos 88 inciso primero y 93 de la Ley de la Renta y,
+
+si existieran remanentes en la declaración anual de impuestos, la devolución debería
+
+estarse a lo establecido en el artículo 97 del mismo cuerpo legal.
+
+2.- Sobre el
+
+particular, en primer término cabe señalar, que el artículo 90 de la Ley de la Renta,
+
+en su inciso primero, establece que los contribuyentes de la Primera Categoría que en un
+
+año comercial obtuvieren pérdidas para los efectos de declarar dicho impuesto, podrán
+
+suspender los pagos provisionales correspondientes a los ingresos brutos del primer
+
+trimestre del año comercial siguiente. Agrega la citada norma, que si la situación de
+
+pérdida se mantiene en el primero, segundo y tercer trimestre de dicho ejercicio
+
+comercial, o se produce en alguno de los citados trimestres, podrán suspender los pagos
+
+provisionales correspondientes a los ingresos brutos del trimestre siguiente a aquél en
+
+que la pérdida se produjo. Producida la utilidad en algún trimestre, deberán reanudarse
+
+los pagos provisionales correspondientes a los ingresos brutos del trimestre
+
+inmediatamente siguiente.
+
+Por
+
+su parte, el artículo 88 de la citada ley, en su inciso primero, señala que los
+
+contribuyentes sometidos obligatoriamente al sistema de pagos provisionales mensuales
+
+podrán efectuar pagos voluntarios por cualquier cantidad, de un modo esporádico o
+
+permanente. Estos pagos provisionales voluntarios podrán ser imputados por el
+
+contribuyente al cumplimiento de los posteriores pagos provisionales obligatorios que
+
+correspondan al mismo ejercicio comercial, gozando del reajuste a que se refiere el
+
+artículo 95 de la referida ley, hasta el último día del mes anterior al de su
+
+imputación.
+
+Por
+
+otro lado, el artículo 98 de la ley del ramo, preceptúa que el pago provisional mensual
+
+será considerado, para los efectos de su declaración y pago y aplicación de sanciones,
+
+como impuesto sujeto a retención y, en consecuencia, le serán aplicables todas las
+
+disposiciones que al respecto rigen en este Título y en el Código Tributario.
+
+Finalmente,
+
+el artículo 126 del Código Tributario, dispone que no constituirán reclamo las
+
+peticiones de devolución de impuesto cuyo fundamento sea, entre otras, obtener la
+
+restitución de sumas pagadas doblemente, en exceso o indebidamente a título de
+
+impuestos, reajustes, intereses y multas (Nº 2 artículo 126 del Código Tributario).
+
+Agrega
+
+la citada norma, en su inciso tercero, que las peticiones a que se refieren los números
+
+que ella contiene, deberán presentarse dentro del plazo de un año, contado desde el acto
+
+o hecho que le sirve de fundamento.
+
+3.- De lo dispuesto
+
+por las normas legales antes mencionadas, se concluye que el artículo 90 de la Ley de la
+
+Renta le otorga una facultad al contribuyente para no efectuar los pagos provisionales mensuales o suspender éstos cuando se encuentre
+
+en una situación de pérdida tributaria. Ahora bien, si el contribuyente encontrándose
+
+en la situación antes descrita continúa realizando
+
+dichos pagos debe entenderse en principio que su voluntad es seguir efectuando tales
+
+cantidades en calidad de voluntarias, a menos que acredite fehacientemente ante la
+
+Dirección Regional respectiva que los mencionados pagos los efectuó por un error y no
+
+por una decisión voluntaria. En el evento que se dé esta última situación, la
+
+devolución de los referidos pagos debe regirse por lo dispuesto por el artículo 126 del
+
+Código Tributario, obviamente en la medida que se cumplan los supuestos básicos que
+
+exige esta última disposición legal.
+
+JAVIER ETCHEBERRY
+
+CELHAY
+
+DIRECTOR
+
+Oficio Nº 308,
+
+del 27.01.2000
+
+Subdirección Normativa
+
+Depto.
+
+Impuestos Directos

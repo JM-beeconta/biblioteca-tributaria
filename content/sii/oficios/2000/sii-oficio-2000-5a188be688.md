@@ -1,0 +1,250 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-04-17
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo08.htm
+- Hash SHA-256: e2d9ad1483b50604b14a9ea5088934e59e161e368feb5beebada05f7dd982aba
+
+## Resumen
+
+mayo09.htm'>Renta - Actual Ley sobre Impuesto a la - Art. 41 bis. Word Solicita se indique el procedimiento que corresponde aplicar en la Declaraci�n Anual de Impuesto a la Renta, en el c�lculo de los intereses de dep�sitos en d�lares. ( Of. N� 1.261, de 17.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuestos a la - Art. 17� N� 11, Art. 20 N� 4. Word Situaci�n Tributaria de los cobros realizados por Colegios por concepto de cuotas de Incorporaci�n, matr�culas y mensualidades. ( Of. N� 1.297, de 20.04.2000 -…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+RENTA  ACTUAL LEY SOBRE IMPUESTO A LA
+
+Home | Ley Renta - 2000
+
+RENTA  ACTUAL LEY SOBRE IMPUESTO A LA  ART. 17°, N°11,
+
+ART. 20°, N° 4.
+
+Situación tributaria de cobros por concepto de
+
+cuotas de incorporación, matrículas y mensualidades  Corporación de derecho
+
+privado regida por Título XXXIII del Libro I del Código Civil  Estará afecta por
+
+impuestos en la medida que obtenga rentas clasificadas en la primera categoría de la Ley
+
+de la Renta  Rentas provenientes de establecimientos educacionales  Clasifican
+
+en artículo 20 N° 4, de la Ley de la Renta  Art. 17 N° 11, establece que no
+
+constituyen renta "las cuotas que eroguen los asociados"  Para que adopten
+
+tal calidad respecto de sus beneficiarios es necesario que no correspondan a aportes de
+
+capital  Cobros efectuados por la entidad recurrente  Constituyen una renta
+
+ordinaria para ella que debe tributar conforme a las normas generales de la Ley de la
+
+Renta.
+
+1.- Por Ordinario indicado en el antecedente se ha remitido la
+
+presentación de Colegio, quién consulta si los ingresos que percibe dicha Corporación
+
+provenientes en su totalidad de cuotas sociales establecidas en sus estatutos, son
+
+ingresos no constitutivos de renta de acuerdo al artículo 17 Nº 11 de la Ley de la
+
+Renta. Señala por otro lado, que las cuotas sociales corresponden a contribuciones
+
+periódicas fijas, que los socios entregan con el fin de afrontar los gastos que demanda
+
+el fin social de la institución, que es dar educación a los hijos de sus socios,
+
+agregando como antecedente, que Colegio, de similares características de funcionamiento,
+
+estatutos y formación jurídica, no paga impuesto a la renta, ni entrega boletas por los
+
+ingresos de cuotas.
+
+2.- Sobre el particular, cabe señalar en primer término, que la
+
+institución recurrente de acuerdo a sus estatutos se trata de una Corporación de Derecho
+
+Privado regida por el Título XXXIIII del Libro I del Código Civil y demás disposiciones
+
+legales y reglamentarias pertinentes, cuya personalidad jurídica fue otorgada por el
+
+Decreto Supremo N° 612, de 15.04.94, del Ministerio de Justicia, rectificado por D.S. N°
+
+895, de 13.06.94, del mismo Ministerio.
+
+De acuerdo al artículo tercero de sus estatutos, dicha entidad tiene
+
+por objeto, entre otros, la administración o mantención de establecimientos privados de
+
+enseñanza y educación, en particular la Scuola Italiana Giuseppe Verdi de la ciudad de
+
+Copiapó, en los niveles de enseñanza materna, básica y media.
+
+Por su parte, conforme a lo establecido en el artículo sexto de sus
+
+estatutos, su patrimonio está conformado, entre otros conceptos, por las cuotas sociales,
+
+y según su artículo octavo, no obstante carecer de fines de lucro, la Corporación
+
+podrá efectuar actividades de carácter económico, cuyo producto deberá destinar
+
+íntegramente a los fines propuestos en los estatutos.
+
+Las cuotas sociales de incorporación y ordinarias, de conformidad al
+
+artículo noveno de su contrato social, serán determinadas anualmente por el Consejo
+
+Directivo. Las cuotas de incorporación no podrán ser inferiores a dos punto uno UTM ni
+
+superiores a cuatro UTM. Las cuotas ordinarias no podrán ser inferiores a cero punto dos
+
+UTM ni superiores a cero punto cuatro UTM. Su pago será anual. Respecto de las cuotas
+
+extraordinarias, según el artículo décimo, serán determinadas por Asamblea General de
+
+socios a propuesta del Consejo Directivo, cada vez que las necesidades de la Corporación
+
+lo requieran para financiar proyectos o actividades previamente determinadas.
+
+3.- Ahora bien, en relación con las normas tributarias, debe tenerse
+
+presente que las personas naturales y jurídicas, revisten la calidad de
+
+"contribuyentes" en la medida que se vean afectadas con alguno de los tributos
+
+que establecen las leyes tributarias, lo cual ocurre respecto de la Ley de la Renta,
+
+cuando tales personas posean bienes o realicen actividades susceptibles de generar rentas
+
+que se clasifiquen en la Primera Categoría. En efecto, la ley del ramo, salvo excepciones
+
+taxativas, no atiende a la naturaleza o fines que persigan las personas para gravarlas o
+
+no con impuesto, sino que considera la actividad que realizan en el plano económico y los
+
+beneficios pecuniarios que puedan obtener.
+
+Por consiguiente, las personas jurídicas regidas por el Título XXXIII
+
+del Libro I del Código Civil, dentro de las cuales se encuentra la entidad recurrente,
+
+estarán afectadas por impuestos en la medida que obtengan rentas clasificadas en la
+
+Primera Categoría de la Ley de la Renta, atendiendo a la fuente generadora de sus
+
+ingresos, los cuales pueden provenir, entre otros, de actividades rentísticas,
+
+inversiones mobiliarias, de servicio o de cualesquiera otras prestaciones que se
+
+encuentren comprendidas en los números 1 al 5 del artículo 20 de la ley antes
+
+mencionada.
+
+4.- Por otro lado, debe expresarse que esta Dirección Nacional ha
+
+instruído a través de varios pronunciamientos, que las rentas provenientes de
+
+establecimientos educacionales, cualquiera sea su condición o calidad jurídica, conforme
+
+a lo establecido expresamente por el número 4º del artículo 20 de la Ley de la Renta,
+
+se clasifican en dicho número, y en virtud de tal tipificación, quedan sometidos a todas
+
+las obligaciones tributarias inherentes a los contribuyentes de la Primera Categoría.
+
+5.- También es importante consignar que el número 11 del artículo 17
+
+de la Ley de la Renta establece que no constituyen renta "las cuotas que eroguen los
+
+asociados", las cuales para que adopten tal calidad respecto de sus beneficiarios, es
+
+necesario que no correspondan a aportes de capital, sino que a contribuciones ordinarias o
+
+extraordinarias fijas o variables, que los asociados entreguen a la persona jurídica
+
+respectiva, con el fin de cumplir con sus objetivos.
+
+6.- Ahora bien, conforme a lo dispuesto en los números anteriores, y
+
+basado en el análisis de los antecedentes adjuntos a la presentación, especialmente los
+
+estatutos e información sobre el funcionamiento de dicha fundación, esta Dirección
+
+Nacional concluye en la especie que los cobros efectuados por la entidad recurrente a los
+
+apoderados, los que de acuerdo a los antecedentes antes señalados y elaborados por el
+
+establecimiento, se originan en cuotas de incorporación, matrículas y mensualidades, que
+
+constituyen un ingreso percibido por la prestación de un servicio, consistente éste en
+
+impartir educación a los alumnos del establecimiento educacional que posee y administra,
+
+razón por la cual constituyen una renta ordinaria para ella, que debe tributar en
+
+conformidad a las normas generales de la Ley de la Renta, y en ningún caso puede
+
+sostenerse que tales valores corresponden a cuotas sociales destinadas a afrontar los
+
+gastos que demanda el fin social de la entidad como lo sostiene en su escrito su
+
+representante. Lo anterior se ve corroborado por la circunstancia que en los antecedentes
+
+adjuntos a estos cobros no se les identifican como cuotas sociales, sino que se les
+
+designan genéricamente bajo la expresión de "aranceles", sin exigir como
+
+condición para la admisión del alumno en el establecimiento, la exigencia de ser socio
+
+de la Corporación. También es necesario agregar que en el evento que se asimilen a
+
+cuotas sociales, sean de incorporación, ordinarias o extraordinarias, los cobros
+
+efectuados por el establecimiento por los conceptos indicados, exceden de los límites
+
+máximos fijados en el artículo noveno de sus estatutos. Además, de acuerdo al mismo
+
+artículo, la imposición de cuotas ordinarias es anual, y no mensual como ocurre con las
+
+mensualidades cobradas a los apoderados.
+
+7.- En consecuencia, de acuerdo a lo antes expuesto, no correspondiendo
+
+los citados ingresos a cuotas sociales de la Corporación, sino a cobros ordinarios por la
+
+enseñanza impartida a los alumnos del establecimiento educacional que posee la
+
+Corporación, y teniendo presente que la actividad de la educación se clasifica en el
+
+número 4 º del artículo 20 de la Ley de la Renta, tales ingresos deben tributar en
+
+conformidad a las normas generales de la Primera Categoría, a menos que la citada
+
+Corporación cuente con una exención expresa que la libere de tributar conforme a lo
+
+dispuesto por el número 4º del artículo 40 de la Ley de la Renta, antecedente que no
+
+hace alusión en su presentación, y tampoco dicha entidad en los registros de
+
+instituciones exentas que lleva esta Dirección Nacional figura como beneficiaria de
+
+alguna liberación de impuesto.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 1.297, del 20.04.2000
+
+Subdirección Normativa
+
+Depto. de Impuestos Directos

@@ -1,0 +1,189 @@
+# Oficio de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2000
+- Fecha: 2000-10-24
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/noviembre08.doc
+- Hash SHA-256: d554e5b56e51f04a33ec1825edb3e736253fb4e4881b46154d8a4815e5fe58b4
+
+## Resumen
+
+/font> Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 8� letra g), Art. 12� N� 11�. Word Impuesto al valor agregado en arrendamiento de m�dulos ubicados dentro de un supermercado. (of. N� 4.111, de 24.10.2000 � i. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 4�, Art. 5�. Word Territorialidad del Impuesto al valor agregado. (of. N� 4.062, de 20.10.2000 � i. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 2�, Art. 12� letra d), Art. 36�. Word Calidad…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 4°, ART. 5°.
+
+Territorialidad  del  Impuesto  al  Valor  Agregado  –  Régimen   tributario
+aplicable – Para que venta de bien mueble o inmueble sea gravada con IVA  es
+requisito que se encuentre ubicado en el territorio  nacional  –  Careciendo
+de relevancia , para estos efectos el lugar donde se celebra  la  convención
+– La comisión es un  contrato  definido  y  reglamentado  en  el  Código  de
+Comercio – Para efectos tributarios abarca no sólo al contrato de  comisión,
+propiamente tal, sino que  dentro  de  él  se  comprenden  otras  figuras  y
+remuneraciones por otro tipo de servicios prestados – Ingresos  que  empresa
+chilena percibe de la empresa extranjera por los  servicios  que  le  presta
+deben  ser  facturados  y  aplicarse   el   IVA   correspondiente    -    La
+representación es un contrato consensual – Para efectos tributarios  resulta
+irrelevante si los servicios de representación contratados se han  convenido
+formalmente o no – En ambos casos se está en presencia de un hecho gravado.
+
+1.- Se ha recibido su Oficio señalado en el antecedente, por medio del  cual
+ traslada una presentación  acerca de la  territorialidad   en  el  Impuesto
+al Valor Agregado.
+
+Se expone que una empresa con domicilio en Chile, cuyo giro es la  venta  de
+equipos de oficina  y  telecomunicaciones,  representante  de  otra  empresa
+domiciliada en el extranjero, ha  comenzado  la  comercialización  de  estos
+bienes, vendiendo equipos a  una  empresa  multinacional  con  domicilio  en
+Chile, y con sedes  en  otros  países,   equipos  que  no  posee,  pero  que
+adquiere en el extranjero a su representada,  la  cual  se  obliga  a  hacer
+entrega de ellos en las filiales o  agencias  de  la  empresa  multinacional
+chilena en el extranjero que adquiere  dichos  equipos,  específicamente  en
+Argentina, España y República Dominicana.  Aclaran que los  bienes  vendidos
+se encuentran situados en el extranjero  y  nunca  serán  nacionalizados  en
+Chile.
+
+      Agregan, con respecto al flujo de facturas,  que  la  empresa  chilena
+factura directamente  a  la  empresa  multinacional  chilena  por  la  venta
+efectuada, sin recargar el  IVA  por  tratarse  de  bienes  situados  en  el
+extranjero.  Posteriormente,  la  empresa  chilena  compra  a   la   empresa
+extranjera que representa los bienes vendidos en  Chile,  los  cuales  serán
+despachados directamente a cada punto  en  el  extranjero  que  solicita  la
+multinacional, facturándose por la empresa extranjera a la  empresa  chilena
+que la representa, por el costo real de los bienes adquiridos.  Por  último,
+la empresa multinacional adquirente efectuará la internación de  los  bienes
+comprados en cada uno de  los  países  correspondientes  de  acuerdo  a  los
+trámites que exige cada país, utilizando para ello la  factura  emitida  por
+la empresa chilena que le vendió los equipos.
+
+En relación a la operación descrita se formulan las siguientes consultas:
+
+      1.-   ¿Corresponde a venta de bienes  situados  fuera  del  territorio
+nacional, por lo tanto, no procede la aplicación de IVA.  según  lo  dispone
+el artículo 4 del D.L. N° 825 de 1974?
+
+2.-   ¿Esta operación debe ser catalogada como un “Servicio” de Comisiones?
+
+      3.-   ¿Que sucede si la misma operación descrita se realiza con  otras
+empresas extranjeras de las cuales la empresa chilena no es representante?
+
+      4.-   ¿Que sucede si no existe un contrato  formal  de  representación
+entre la empresa chilena y la empresa extranjera.?
+
+      5.-   ¿Que sucede si la empresa compradora de  los  bienes  en   Chile
+es otra empresa extranjera sin domicilio ni  residencia  en  el  país  y  la
+venta se produce desde Chile sin haber nacionalizado los bienes?
+
+
+
+2.-   El artículo 4 del D.L. N° 825, de 1974 dispone que  “Estarán  gravadas
+con el impuesto de esta  Ley las  ventas  de  bienes  corporales  muebles  e
+inmuebles ubicados en el territorio nacional, independientemente  del  lugar
+donde se celebre la  convención  respectiva.”  El   inciso  segundo  dispone
+“Para los efectos de este Artículo, se entenderán ubicados en el  territorio
+nacional, aun cuando al tiempo de celebrarse  la  convención  se  encuentren
+transitoriamente fuera  de  él,  los  bienes  cuya  inscripción,  matrícula,
+patente o padrón hayan sido otorgados en Chile”.
+
+El artículo 5, del  mismo  cuerpo  legal,  refiriéndose   a  los  servicios,
+señala que “El impuesto  establecido  en  esta  Ley  gravará  los  servicios
+prestados o utilizados en el territorio nacional, sea  que  la  remuneración
+correspondiente se pague o perciba en Chile o  en  el  extranjero”.  Por  su
+parte el inciso segundo  dispone  que  “Se  entenderá  que  el  servicio  es
+prestado en el territorio nacional cuando la actividad que  genera  servicio
+es desarrollada  en  Chile,  independientemente  del  lugar  donde  éste  se
+utilice”.
+
+3.-   Con respecto a  la  primera  consulta  formulada,  en  atención  a  lo
+dispuesto por el artículo 4 del D.L. N° 825,  para que  la venta de un  bien
+mueble o inmueble sea gravada con  IVA  es requisito que éste  se  encuentre
+ubicado en el territorio nacional,  careciendo  de  relevancia,  para  estos
+efectos, el lugar donde se celebra la respectiva convención, de  manera  que
+aún cuando ella  se perfeccione en  el  extranjero,  encontrándose  el  bien
+ubicado dentro del territorio nacional  habrá  lugar  a  la  aplicación  del
+IVA, debiendo  cumplirse, en todo caso, con los demás requisitos legales.  A
+contrario sensu, salvo en los casos de excepción, no procede  la  aplicación
+de IVA   si  los  bienes  transferidos  se  encuentran  ubicados  fuera  del
+territorio nacional, aún cuando  la  respectiva  convención  se  celebre  en
+Chile y se cumpla con los demás requisitos legales para  la  aplicación  del
+impuesto.
+
+Conviene tener presente que la exigencia de que  los  bienes  se  encuentren
+en el territorio nacional para que su venta se encuentre afecta a IVA  desde
+un punto de vista temporal, debe  cumplirse  al  momento  de  celebrarse  la
+respectiva convención por  la  cual  se  transfiere  su  dominio,  ello  sin
+perjuicio de lo dispuesto en el inciso segundo del artículo 4° del  D.L.  N°
+825, de 1974.
+
+De esta forma, la venta  de  equipos  de  oficina  que  se  describe  en  la
+presentación, no se  encuentra  afecta  a  IVA  ,aún  cuando  la  respectiva
+convención, por la cual se  transfiere  el  dominio  de  dichos  bienes,  se
+celebra en Chile,  puesto  que  la  venta  recae  sobre  bienes  extranjeros
+ubicados fuera  del   territorio  nacional  y  que  tampoco   se  encuentran
+inscritos  o patentados  en  el  país,  no  cumpliéndose  en  el  hecho,  el
+requisito de territorialidad  que es exigido por la  Ley para la  aplicación
+del impuesto.
+
+4.-   Con relación  a la segunda consulta,  cabe  señalar  que  si  bien  la
+comisión es un contrato definido y reglamentado en el  Código  de  Comercio,
+para efectos tributarios dicho término debe ser entendido en  sentido  lato,
+es decir,  abarca no sólo al contrato de comisión propiamente tal, sino  que
+dentro de él se comprenden otras figuras y remuneraciones por otro  tipo  de
+servicios prestados, como por ejemplo, el corretaje de propiedades,  agentes
+de  comercio,  martilleros,  etc.    En   este   sentido,   se   encontraría
+comprendida en tal concepto, la representación de empresas  extranjeras,  en
+tanto y en cuanto importe la celebración de actos  o  contratos  mercantiles
+para dar  cumplimiento  a  las  funciones  encomendadas,  percibiéndose  una
+remuneración por tales servicios.
+
+En el caso particular consultado, la representación que la  empresa  chilena
+tiene de la empresa extranjera, tenga exclusividad o no, es un  servicio  de
+comisión puesto que no sólo implica  mostrar  a  la  empresa  extranjera  en
+Chile, sino que también vender sus productos y prestar servicios  post-venta
+a nombre de ella, tales como  mantenimiento  y  reparación  de  los  equipos
+vendidos, como asimismo suministrar los repuestos e insumos necesarios.   De
+esta forma, los ingresos que  la  empresa  chilena  percibe  de  la  empresa
+extranjera  por  los  servicios  que  le  presta  deben  ser  facturados,  y
+aplicarse el IVA correspondiente.
+
+5.-   También en relación a la representación, y con respecto  a  la  cuarta
+consulta planteada, esto es, que sucede si no existe un contrato  formal  de
+representación,  cabe  señalar  que  la  representación   es   un   contrato
+consensual,  de  manera  que  no  se   requiere    escrituración   para   su
+perfeccionamiento,  bastando  el   sólo   consentimiento   de   las   partes
+contratantes, en cuanto al  servicio  prestado  y  la  remuneración  por  el
+mismo.
+
+Así, en consideración a  lo  anterior,  para  efectos  tributarios,  resulta
+irrelevante si los servicios de representación contratados se han  convenido
+formalmente o no, puesto que en ambos casos  se  está  en  presencia  de  un
+hecho gravado, de manera que toda  remuneración  que  se  perciba  por  este
+concepto  debe  ser  debidamente  facturada   y   recargada   con   el   IVA
+correspondiente.
+
+6.-   Por último, en cuanto a la tercera y  quinta  consulta,  cabe  señalar
+que los planteamientos allí  expuestos  en  nada  alteran  las  conclusiones
+anteriores, en lo que dice relación al IVA por  la  operación  de  venta  de
+bienes ubicados en el exterior.  Sin embargo, evidentemente  si  la  empresa
+chilena no goza de  representación alguna de la  empresa  extranjera  de  la
+cual adquiere los bienes, no existe servicio de  comisión,  siendo  en  este
+caso una simple operación de  compra  y  venta  de  bienes  ubicados  en  el
+extranjero.
+
+
+                          JAVIER ETCHEBERRY CELHAY
+                                  DIRECTOR
+
+
+Oficio Nº 4.062, del 20.10.2000
+Subdirección Normativa
+
+Depto. de Impuestos Indirectos
