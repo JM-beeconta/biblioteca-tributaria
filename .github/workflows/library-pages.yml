@@ -1,0 +1,85 @@
+name: Actualizar y publicar biblioteca
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * 1'
+      timezone: 'America/Santiago'
+  workflow_dispatch:
+    inputs:
+      full_history:
+        description: 'Forzar carga histórica completa del SII'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: biblioteca-tributaria
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Instalar extractor PDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Actualizar fuentes oficiales
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        shell: bash
+        run: |
+          if [ "${{ inputs.full_history }}" = "true" ]; then
+            node scripts/update.mjs --full
+          else
+            node scripts/update.mjs --weekly
+          fi
+
+      - name: Guardar cambios de la biblioteca
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        shell: bash
+        run: |
+          if git diff --quiet -- data content; then
+            echo "Sin cambios"
+          else
+            git config user.name "beeconta-library-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add -- data content
+            git commit -m "chore: actualizar biblioteca tributaria"
+            git push
+          fi
+
+      - name: Construir sitio estático
+        run: node scripts/build-site.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Publicar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
