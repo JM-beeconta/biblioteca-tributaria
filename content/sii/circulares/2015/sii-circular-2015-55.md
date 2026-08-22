@@ -1,0 +1,350 @@
+# Circular N° 55 de 2015
+
+- Fuente: SII
+- Tipo: circular
+- Número: 55
+- Año: 2015
+- Fecha: 2015-06-25
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu55.pdf
+- Hash SHA-256: 133b0413a38af6f6c377037544cbb4d2827a4a445312704e9a33c6ab2f688981
+
+## Resumen
+
+/i> Circular N° 56 del 25 de Junio del 2015 Facultad de ordenar el diseño y ejecución de actividades de muestreo y punto fijo para la fiscalización del correcto cumplimiento tributario de los contribuyentes. Fuente: Departamento de Asesoría Jurídica Vigencia de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuente: Departamento de Asesoría Jurídica Circular N° 54 del 24 de Junio del 2015 Reemplazo de libros de contabilida…
+
+## Referencias detectadas
+
+- {"type":"circular","number":55,"year":2014}
+- {"type":"articulo","law":"CT","article":"4"}
+
+## Texto extraído
+
+Dejada sin efecto por Circular N° 42, del 11 de julio de 2016
+
+
+  DEPARTAMENTO EMISOR:
+  DEPARTAMENTO DE ASESORÍA JURÍDICA                   CIRCULAR Nº 55.-
+  1875
+  SISTEMA DE PUBLICACIONES                            FECHA: 24 DE JUNIO DE 2015
+  ADMINISTRATIVAS
+
+
+  MATERIA: Vigencia de las normas anti elusión       REFERENCIA:
+  establecidas en los artículos 4° bis, 4° ter, 4°
+  quáter, 4° quinquies, 100 bis, 119 y 160 bis del   Nº Y NOMBRE DEL VOLUMEN:
+  Código Tributario.                                 Artículos 4° bis, 4° ter, 4° quáter, 4° quinquies,
+  Complementa instrucciones contenidas en la         100 bis, 119 y 160 bis del Código Tributario, y
+  Circular N° 55 de 2014, de este Servicio.          artículo 15° transitorio de la Ley N° 20.780.
+
+
+
+
+                                                                to
+                                                              ec
+1.-   Por Circular N° 55, de 16 de octubre de 2014, que instruye sobre la vigencia y transición de las
+      normas contenidas en la Ley N° 20.780, de 29 de septiembre del mismo año, sobre reforma
+      tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el
+      sistema tributario, en su Capítulo II, N° 2 VIGENCIA DE LAS NUEVAS NORMAS, letra C)
+
+      instruyó, en lo que interesa, lo siguiente:
+                                                  ef
+      NORMAS QUE RIGEN A CONTAR DEL 30 DE SEPTIEMBRE DE 2015, literal a, este Servicio
+
+
+      “C) NORMAS QUE RIGEN A CONTAR DEL 30 DE SEPTIEMBRE DE 2015.
+
+      La Ley también introduce una serie de modificaciones al Código Tributario (CT), las que como
+                                n
+      regla general, regirán transcurrido un año desde la publicación de la Ley, es decir, a contar del
+      30 de septiembre de 2015.
+                             si
+
+      Con todo, de acuerdo a la Ley, lo establecido en los artículos 4 bis, 4 ter, 4 quáter, 4 quinquies,
+      100 bis, 119 y 160 bis del CT, sólo será aplicable respecto de los hechos, actos o negocios, o
+      conjunto o serie de ellos, a que se refieren dichas disposiciones, realizados o concluidos a partir
+      del 30 de septiembre de 2015.
+                  a
+
+
+      Las modificaciones efectuadas al CT, siguiendo el orden de su articulado, son las siguientes:
+
+      a) Normas generales anti elusión.
+  ad
+
+
+
+      Estas modificaciones tienen por objeto principal otorgar a la administración tributaria facultades
+      para impugnar los actos o negocios u otras actividades llevadas a cabo por los contribuyentes
+      con abuso de las formas jurídicas o simuladamente con la finalidad exclusiva o principal de eludir
+      el pago de impuestos; las que serán susceptibles del respectivo control de los tribunales de
+ej
+
+
+
+
+      justicia. Con tal fin, se agregan al CT los artículos 4 bis, 4 ter, 4 quáter y 4 quinquies.”.
+
+2.-   Por esta Circular se complementa lo señalado en la instrucción transcrita de la Circular N° 55 de
+      2014, a efecto de precisar la vigencia y ámbito de aplicación temporal de las normas anti elusivas.
+D
+
+
+
+
+3.-   Para el fin señalado, se debe interpretar sistemáticamente lo previsto en el artículo decimoquinto
+      transitorio de la Ley N° 20.780, conforme al cual:
+
+      “Las modificaciones al Código Tributario regirán transcurrido un año desde la publicación de la
+      ley, con excepción de lo dispuesto en el número 25, letra b. del artículo 10°, que regirá a partir
+      del 1 de enero de 2015.
+
+      No obstante lo dispuesto en el inciso precedente, lo establecido en los artículos 4° bis, 4° ter, 4°
+      quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario sólo será aplicable respecto de
+      los hechos, actos o negocios o conjunto o serie de ellos, a que se refieren dichas disposiciones,
+      realizados o concluidos a partir de la entrada en vigencia de las mismas.”.
+
+
+
+
+                                                                                                         1
+4.-   De la disposición transcrita se puede observar que, sobre la vigencia de las modificaciones
+      introducidas al Código Tributario por la Ley Nº 20.780, el legislador distingue dos ámbitos de
+      validez material.
+
+      El primero, referido a la época en que entrarán en vigencia las modificaciones al Código
+      Tributario, excluyendo aquellas normas que establecen medidas anti elusivas de aplicación
+      general en materia tributaria. Sobre esta materia, bastan las instrucciones contenidas en la citada
+      Circular N° 55 de 2014, sobre vigencia general de las modificaciones introducidas al Código
+      Tributario.
+
+5.-   El segundo ámbito, contenido en el inciso segundo del artículo decimoquinto transitorio de la Ley
+      N° 20.780, se refiere a la vigencia de las medidas anti elusión de carácter general y a los
+      procedimientos de aplicación de las mismas, que se incorporaron al Código Tributario por la
+      citada Ley.
+
+
+
+
+                                                                to
+6.-   Según lo establecido en la norma que aquí se analiza, los nuevos artículos 4° bis, 4° ter, 4°quáter,
+      4° quinquies, 100 bis, 119 y 160 bis del Código Tributario, estarán vigentes a partir del 30 de
+      septiembre de 2015. A contar de esa fecha, el Servicio podrá aplicar, en las fiscalizaciones que
+
+
+
+
+                                                              ec
+      desarrolle, las nuevas normas anti elusivas de carácter general contenidas en los artículos 4º
+      bis, 4º ter y 4º quáter y perseguir la aplicación de la multa establecida en el artículo 100 bis.
+
+7.-   A pesar que el término de vacancia legal respecto de las normas analizadas en esta Circular es
+      claro, es necesario determinar el ámbito de validez temporal que tendrá la nueva normativa anti
+      elusión, esto es, definir temporalmente el universo de hechos, actos, negocios o conjunto o serie
+
+                                                   ef
+      de ellos a que se puede aplicar la nueva normativa anti elusión.
+
+      Al efecto, si bien el legislador ha restringido la potestad fiscalizadora del Servicio – disponiendo
+      que la aplicación de las normas generales anti elusión se limite a los hechos, actos o negocios o
+      conjunto o serie de ellos, realizados o concluidos a partir de la entrada en vigencia de las mismas
+      – una interpretación sistemática de las normas que limitan la retroactividad no puede poner en
+                                 n
+      riesgo la finalidad que el propio legislador tuvo en consideración al establecer las normas
+      permanentes del Código Tributario (normas generales anti elusión), permitiendo espacios de
+                              si
+
+      elusión que esas mismas normas buscan evitar.
+
+      Lo anterior supone analizar el alcance de la expresión “realizados o concluidos” que emplea el
+      legislador en el artículo decimoquinto transitorio de la Ley Nº 20.780, entendiéndose que el
+      sentido y alcance de ambas palabras debe aportar a la interpretación sistemática antes señalada,
+                  a
+
+
+      en cuanto no han sido empleadas como una redundante repetición de una referencia a hechos
+      acaecidos con posterioridad a la fecha de entrada en vigencia de estas normas.
+  ad
+
+
+
+8.-   A este fin, las expresiones “realizado” y “concluido”, se emplean para excluir los hechos, actos o
+      negocios o conjunto o serie de ellos, que se han ejecutado, celebrado o perfeccionado
+      íntegramente en un tiempo pasado (antes del 30 de septiembre de 2015).
+
+      De este modo, es posible que hechos, actos o negocios o conjunto o serie de ellos, aun iniciados
+      antes del 30 de septiembre de 2015, sean alcanzados por las normas permanentes anti elusivas
+ej
+
+
+
+
+      cuando, existiendo abuso o simulación, se encuentre pendiente el cumplimiento de sus efectos
+      jurídicos o tributarios a la fecha de entrar en vigencia las referidas normas. En este tipo de casos,
+      esos efectos jurídicos o tributarios, susceptibles de ser considerados elusivos, se producen una
+      vez que los hechos o actos jurídicos se “realizan” o “concluyen” bajo el imperio de las normas
+D
+
+
+
+
+      anti elusivas permanentes. Tal será el caso, por ejemplo, de actos o contratos:
+
+      a) Sujetos a un plazo o condición, ya sea en cuanto al perfeccionamiento mismo del acto o
+         contrato, así como para el nacimiento de los derechos u obligaciones que de ellos emanan
+         o su exigibilidad (efectos jurídicos pendientes);
+
+      b) De “tracto sucesivo”; o,
+
+      c) En general, aquellos cuyos efectos tributarios no se hayan consumado o materializado
+         íntegramente antes del 30 de septiembre de 2015, según se define en el siguiente numeral
+         9.-
+
+
+
+
+                                                                                                          2
+9.-   Respecto de lo señalado en la letra c) del numeral anterior, se entenderá que los efectos
+      tributarios de un hecho, acto o negocio, o conjunto o serie de ellos, no se encuentran
+      íntegramente consumados o materializados a la fecha de entrada en vigencia de las normas
+      permanentes cuando el acto o hecho apto para producir los efectos tributarios aún no se haya
+      realizado o concluido. Se entenderá que un acto o hecho realizado o concluido genera efectos
+      tributarios cuando la ley le atribuye a esos actos o hechos una determinada consecuencia para
+      efectos de la aplicación de tributos. Tal será, por ejemplo, el caso de un proceso de fusión iniciado
+      antes del 31 de diciembre de 2014, pero en que el hecho, acto o negocio que permita generar
+      una diferencia entre el valor de la inversión total realizada y el capital propio de la sociedad
+      absorbida se realiza o concluye después de entrar en vigencia las normas anti elusión a que se
+      refiere esta Circular, ello independientemente del año tributario en que tal diferencia sea
+      posteriormente incorporada en una declaración anual de impuestos a la renta.
+
+      En cambio, no quedarán alcanzados aquellos actos o hechos (entre los que se pueden incluir
+
+
+
+
+                                                                to
+      fusiones y, en general, cualquier operación), en que la consecuencia tributaria correspondiente
+      se concrete o materialice íntegramente antes de la entrada en vigencia de las normas anti elusión
+      a que se refiere esta Circular, aun cuando sus efectos sean incorporados en futuras
+      declaraciones de impuestos.
+
+
+
+
+                                                              ec
+10.- Por otra parte, se entenderá que el hecho, acto, negocio, o conjunto o serie de ellos se encuentra
+     concluido cuando se ha ejecutado, celebrado o perfeccionado íntegramente el último hecho,
+     acto, negocio, de una serie de ellos que, en su conjunto, obedecen a una sola transacción u
+     operación que produzca una consecuencia tributaria susceptible de ser considerada como
+     elusiva.
+
+                                                   ef
+      Para estos fines se entenderá que los hechos, actos o negocios, o conjunto o serie de ellos
+      obedecen a una sola transacción u operación que se “realiza” o “concluye” a partir del 30 de
+      septiembre de 2015 cuando, y a modo meramente ejemplar, se realizan o ejecutan en
+      cumplimiento de un plan preestablecido en un acuerdo previo; su vinculación se colige a partir
+                                 n
+      del resultado final que subyace tras los hechos, actos o negocios, o conjunto o serie de ellos; o,
+      cuando exista una mutua interdependencia entre ellos, de suerte que cada uno, aisladamente
+      considerado, carece de significación relevante por sí mismo desde el punto de vista de las
+                              si
+
+      normas anti elusión, formando parte de un todo coherente con un determinado fin elusivo. En
+      estos casos, el hecho, acto o negocio con el cual se “realiza” o “concluye” el conjunto o serie de
+      ellos, es aquel que, en atención a los hechos gravados que se apliquen al caso concreto, genera
+      el efecto tributario susceptible de considerarse como abuso o simulación a partir del 30 de
+      septiembre de 2015.
+                  a
+
+
+      De esta forma, el Servicio podrá aplicar las medidas anti elusión a que se refieren los artículos
+      4° bis, 4° ter y 4° quáter y 100 bis del Código Tributario, a través de la ejecución de los
+  ad
+
+
+
+      procedimientos administrativos y jurisdiccionales a que se refiere el artículo 4° quinquies, en las
+      fiscalizaciones que se efectúen a contar del 30 de septiembre de 2015, respecto de actos,
+      hechos, negocios o conjunto o series de ellos ejecutados a contar de esa fecha y también
+      respecto de hechos, actos o negocios, o conjunto o serie de ellos, que produzcan consecuencias
+      tributarias susceptibles de ser consideradas como elusivas si se han realizado o concluido
+      después de esa fecha.
+ej
+
+
+
+
+11.- Conforme lo expuesto precedentemente, y a modo meramente ejemplar, podrán ser objeto de
+     fiscalización, cuando pueda considerarse como abuso de las formas jurídicas o simulación por
+D
+
+
+
+
+     aplicación de lo dispuesto en los artículos 4° bis a 4° quáter del Código Tributario, los siguientes
+     hechos, actos o negocios, o conjunto o serie de ellos:
+
+      -   Un proceso de fusión concluido o realizado a partir del 30 de septiembre de 2015, cuando
+          exista simulación o abuso de acuerdo a los artículos 4° ter o 4° quáter del Código Tributario,
+          aun cuando el inicio de dicho proceso haya ocurrido antes del 31 de diciembre de 2014.
+
+      -   Un contrato de arrendamiento, de regalías o de provisión de servicios periódicos, suscrito
+          antes del 30 de septiembre de 2015, cuando exista abuso de las formas jurídicas o simulación
+          conforme a lo dispuesto en los artículos 4° ter o 4° quáter del Código Tributario,
+          respectivamente, y se ejecute a partir de la fecha señalada.
+
+      -   Un proceso de reestructuración societaria que comprenda varias etapas que, habiéndose
+          iniciado antes del 30 de septiembre de 2015, cuando exista abuso de las formas jurídicas o
+
+
+                                                                                                          3
+      simulación conforme a lo dispuesto en los artículos 4° ter o 4° quáter del Código Tributario,
+      sus efectos tributarios, en los términos ya señalados para el caso de la fusión, se realicen o
+      concluyan a partir de la fecha señalada.
+
+12.- Es importante recordar que el Director de este Servicio podrá requerir al Tribunal Tributario y
+     Aduanero competente la aplicación de las normas anti elusión a que se refiere esta Circular,
+     según lo establecido en el inciso segundo del artículo 4° quinquies del Código Tributario, sólo
+     “en la medida que el monto de las diferencias de impuestos determinadas provisoriamente
+     por el Servicio al contribuyente respectivo, exceda la cantidad equivalente a 250 unidades
+     tributarias mensuales a la fecha de presentación del requerimiento”.
+
+     Lo anterior supone que el contribuyente respecto del cual el Servicio estima que ha realizado
+     actos o negocios o un conjunto o serie de ellos susceptibles de ser considerados elusivos,
+     conforme a las definiciones legales, debe reflejar en su liquidación o giro de impuestos una
+
+
+
+
+                                                           to
+     diferencia superior a 250 UTM.
+
+
+
+
+                                                         ec
+Saluda a Uds.,
+
+
+
+
+                                              ef        JUAN ALBERTO ROJAS BARRANTI
+                                                                 DIRECTOR (S)
+                             n
+                          si
+
+DISTRIBUCIÓN:
+  -INTERNET
+  -BOLETIN
+                 a
+
+
+  -DIARIO OFICIAL EN EXTRACTO
+  ad
+ej
+D
+
+
+
+
+                                                                                                   4

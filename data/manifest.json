@@ -1,17 +1,21 @@
 {
-  "generated_at": "2026-08-22T02:48:48.747Z",
-  "total_documents": 3512,
+  "generated_at": "2026-08-22T02:56:39.943Z",
+  "total_documents": 3984,
   "by_source": {
-    "SII": 3509,
+    "SII": 3981,
     "BCN": 3
   },
   "by_type": {
-    "oficio": 2942,
-    "circular": 567,
+    "oficio": 3128,
+    "circular": 853,
     "norma": 3
   },
   "by_year": {
     "1974": 3,
+    "2013": 96,
+    "2014": 99,
+    "2015": 145,
+    "2016": 132,
     "2017": 119,
     "2018": 112,
     "2019": 287,
@@ -113,6 +117,38 @@
       "count": 119,
       "source": "SII",
       "year": 2017
+    },
+    {
+      "name": "2016.json",
+      "path": "data/index/2016.json",
+      "relations_path": "data/relations/2016.json",
+      "count": 132,
+      "source": "SII",
+      "year": 2016
+    },
+    {
+      "name": "2015.json",
+      "path": "data/index/2015.json",
+      "relations_path": "data/relations/2015.json",
+      "count": 145,
+      "source": "SII",
+      "year": 2015
+    },
+    {
+      "name": "2014.json",
+      "path": "data/index/2014.json",
+      "relations_path": "data/relations/2014.json",
+      "count": 99,
+      "source": "SII",
+      "year": 2014
+    },
+    {
+      "name": "2013.json",
+      "path": "data/index/2013.json",
+      "relations_path": "data/relations/2013.json",
+      "count": 96,
+      "source": "SII",
+      "year": 2013
     }
   ]
 }
