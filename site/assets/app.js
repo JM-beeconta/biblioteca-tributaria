@@ -133,11 +133,14 @@ function populateFilters() {
 }
 
 async function init() {
-  const [index, meta] = await Promise.all([
-    fetch('./data/index.json').then((r) => r.json()),
+  const [catalog, meta] = await Promise.all([
+    fetch('./data/catalog.json').then((r) => {
+      if (!r.ok) throw new Error(`catalog.json ${r.status}`);
+      return r.json();
+    }),
     fetch('./data/meta.json').then((r) => r.json()),
   ]);
-  docs = index;
+  docs = catalog;
   populateFilters();
   els.updated.textContent = `Actualizado: ${new Date(meta.generated_at).toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })}`;
   render();
