@@ -1,0 +1,50 @@
+{
+  "pageUrl": "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2026/ley_impuesto_renta_jadm2026.htm",
+  "status": 200,
+  "htmlLength": 5697,
+  "anchorCount": 0,
+  "anchors": [],
+  "scripts": [
+    "https://www.sii.cl/responsive/js/sidebar_pie.js",
+    "https://www.sii.cl/js/responsive_barranav.js",
+    "https://www.sii.cl/normativa_legislacion/js/funciones_jurisprudencia.js"
+  ],
+  "inlineLines": [
+    "mostrar(\"../../../index_normativa_legislacion.html|Normativa y legislaci&oacute;n|../../../jurisprudencia_y_tribunales.html|Jurisprudencia y tribunales|../../indice_jadm.htm|Jurisprudencia administrativa||Ley de Impuesto a la Renta\");",
+    "mostrarMenuIzqPie(\"jurisprudencia_y_tribunales\");",
+    "var filename_aux = 'ley_impuesto_renta_jadm###___###.htm';",
+    "window.open('https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ley_renta2008.htm', '_newtab');",
+    "$.ajax({",
+    "urlAux = \"abreDoctoJurAdm('\"+response[i].pubNumOficio+\"-\"+response[i].pubFechaPubli+\".pdf', '\"+response[i].extensionArchPublica+\"', 'download', '\"+response[i].idBlobArchPublica+\"', '\"+response[i].mTypeArchPublica+\"')\";",
+    "respuesta += \"<tr><td><h5 style='margin-bottom:3px;'><a href=\\\"javascript:\"+urlAux+\"\\\">\"+response[i].pubLegal+\" - (\"+response[i].tipoArchPublica+\" \"+response[i].pubNumOficio+\", de \"+response[i].pubFechaPubli+\")</a></h5><p style='margin-top:0px;margin-bottom:5px;text-align:justify;'>\"+response[i].pubResumen+\"</p><p style='margin-top:0px;margin-bottom:20px;font-size:12px;text-align:justify;'></p></td></tr>\";"
+  ],
+  "interesting": [
+    {
+      "url": "https://www.sii.cl/responsive/js/sidebar_pie.js",
+      "lines": [
+        "document.write(             '<li><a href=\"https://www4.sii.cl/acjui/internet/#/instancia/1\">Administrador de contenido de jurisprudencia</a></li>');",
+        "document.write(             '<li id=\"jurisprudencia_y_tribunales\"><a href=\"/normativa_legislacion/jurisprudencia_y_tribunales.html\">Jurisprudencia y tribunales</a></li>');",
+        "case 2:   // jurisprudencia administrativa (renta)",
+        "case 3:   // jurisprudencia administrativa (ventas y servicios)",
+        "case 4:   // jurisprudencia administrativa (otras)"
+      ]
+    },
+    {
+      "url": "https://www.sii.cl/js/responsive_barranav.js",
+      "lines": [
+        "var menuSOL = { opciones: [{id:1026,nivel:2,padre:1009,texto:'OCULTO',url:'https://www.sii.cl/servicios_online/1026-.html'},{id:3261,nivel:3,padre:1026,texto:'APP&acute;s',url:'https://www.sii.cl/ayudas/apps/'},{id:3263,nivel:4,padre:3261,texto:'e-Renta',url:'https://www.sii.cl/ayudas/apps/erenta/ayuda_app_erenta.html', origen:1026},{id:3262,nivel:4,padre:3261,texto:'e-RUT',url:'https://www.sii.cl/ayudas/apps/erut/ayuda_app_erut.html', origen:1026},{id:3603,nivel:3,padre:1026,texto:'Pago en L&iacute;nea - PEEL (SAG y BBRR)',url:''},{id:3758,nivel:3,padre:1026,texto:'Sistema expediente electr&o",
+        "document.write(\"                               <li><a href='https://www4.sii.cl/acjui/internet/#/instancia/1'>Administrador de contenido de Jurisprudencia</a></li>\\n\");",
+        "document.write(\"                               <li><a href='https://www.sii.cl/normativa_legislacion/jurisprudencia_y_tribunales.html'>Jurisprudencia y tribunales</a></li>\\n\");",
+        "document.write(\"                               <li><a href='https://www4.sii.cl/acjui/internet/#/instancia/1'>Administrador de contenido de Jurisprudencia</a></li>\\n\");",
+        "document.write(\"                               <li><a href='https://www.sii.cl/normativa_legislacion/jurisprudencia_y_tribunales.html'>Jurisprudencia y tribunales</a></li>\\n\");"
+      ]
+    },
+    {
+      "url": "https://www.sii.cl/normativa_legislacion/js/funciones_jurisprudencia.js",
+      "lines": [
+        "/* Inicializar DataTables... */",
+        "$('#dt_listado').DataTable({"
+      ]
+    }
+  ]
+}
