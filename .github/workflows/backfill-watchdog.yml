@@ -1,0 +1,49 @@
+name: Vigilar Carga Histórica
+
+on:
+  workflow_run:
+    workflows: ['Cargar Historia Tributaria Completa']
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: biblioteca-backfill-watchdog
+  cancel-in-progress: false
+
+jobs:
+  mark-failure:
+    if: github.event.workflow_run.conclusion != 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Marcar carga como fallida
+        shell: bash
+        env:
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+          if [ ! -f data/backfill-status.json ]; then exit 0; fi
+          node <<'NODE'
+          const fs=require('fs');
+          const status=JSON.parse(fs.readFileSync('data/backfill-status.json','utf8'));
+          if(status.status==='completed') process.exit(0);
+          status.status='failed';
+          status.updated_at=new Date().toISOString();
+          status.failure_conclusion=process.env.CONCLUSION || 'failure';
+          status.workflow_url=process.env.RUN_URL || null;
+          fs.writeFileSync('data/backfill-status.json', JSON.stringify(status,null,2)+'\n');
+          NODE
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/backfill-status.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: registrar fallo de carga histórica"
+          git pull --rebase origin main
+          git push

@@ -180,11 +180,15 @@ function renderCorpusMonitor(meta, backfill) {
   els.backfillProgress.hidden = false;
   const done = Number(backfill.completed_count || 0);
   const total = Number(backfill.total_ranges || 0);
+  els.backfillProgress.classList.remove('completed', 'failed');
   if (backfill.status === 'completed') {
     els.backfillProgress.classList.add('completed');
     els.backfillText.textContent = `Histórico completo · ${done}/${total} tramos`;
+  } else if (backfill.status === 'failed') {
+    els.backfillProgress.classList.add('failed');
+    const last = backfill.last_completed_range ? ` · último completo: ${backfill.last_completed_range}` : '';
+    els.backfillText.textContent = `Carga histórica detenida por error · ${done}/${total} tramos${last}`;
   } else {
-    els.backfillProgress.classList.remove('completed');
     const last = backfill.last_completed_range ? ` · último: ${backfill.last_completed_range}` : '';
     els.backfillText.textContent = `Carga histórica en curso · ${done}/${total} tramos${last}`;
   }
