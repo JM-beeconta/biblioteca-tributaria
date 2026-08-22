@@ -3,7 +3,7 @@
 Biblioteca pública de fuentes tributarias chilenas para consulta humana y por agentes.
 
 - **BCN / LeyChile:** Ley sobre Impuesto a la Renta (DL 824), Ley sobre Impuesto a las Ventas y Servicios (DL 825) y Código Tributario (DL 830), con artículos individualizados.
-- **SII:** Circulares y Jurisprudencia Administrativa (Oficios) en Renta, IVA y Otras Normas.
+- **SII:** Circulares, Jurisprudencia Administrativa (Oficios) en Renta, IVA y Otras Normas, y Resoluciones Exentas (desde 2013).
 
 **Sitio:** https://jm-beeconta.github.io/biblioteca-tributaria/
 
@@ -77,6 +77,7 @@ La corrida semanal:
 - relee las tres normas base de BCN;
 - revisa año actual y anterior de Circulares SII;
 - revisa año actual y anterior de Oficios SII;
+- revisa año actual y anterior de Resoluciones SII;
 - calcula SHA-256 para detectar cambios;
 - actualiza Markdown, índice y relaciones;
 - guarda cambios en Git y vuelve a publicar.
@@ -91,7 +92,8 @@ Objetivo:
 
 - Circulares SII desde 1974;
 - Jurisprudencia Administrativa SII desde 1975;
-- LIR, LIVS y Código Tributario vigentes desde BCN/LeyChile, también por artículo.
+- Resoluciones Exentas SII desde 2013 (no existe índice agregado del SII para años anteriores);
+- LIR, LIVS y Código Tributario vigentes desde BCN/LeyChile, también por artículo, con historial completo de versiones.
 
 El marcador `.bootstrap-full-history` y el checkpoint `.bootstrap-state.json` se eliminan automáticamente al finalizar.
 

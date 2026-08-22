@@ -45,6 +45,7 @@ function refLabel(ref) {
   if (ref.type === 'articulo') return `Art. ${ref.article} ${ref.law}`;
   if (ref.type === 'oficio') return `Oficio ${ref.number}/${ref.year}`;
   if (ref.type === 'circular') return `Circular ${ref.number}/${ref.year}`;
+  if (ref.type === 'resolucion') return `Resolución ${ref.number}/${ref.year}`;
   return ref.type;
 }
 
@@ -165,9 +166,10 @@ function populateFilters() {
 function renderCorpusMonitor(meta, backfill) {
   const oficioCount = docs.filter((doc) => doc.source === 'SII' && doc.type === 'oficio').length;
   const circularCount = docs.filter((doc) => doc.source === 'SII' && doc.type === 'circular').length;
+  const resolucionCount = docs.filter((doc) => doc.source === 'SII' && doc.type === 'resolucion').length;
   const bcnCount = docs.filter((doc) => doc.source === 'BCN').length;
   els.corpusTotal.textContent = docs.length.toLocaleString('es-CL');
-  els.corpusBreakdown.textContent = `Oficios ${oficioCount.toLocaleString('es-CL')} · Circulares ${circularCount.toLocaleString('es-CL')} · BCN ${bcnCount.toLocaleString('es-CL')}`;
+  els.corpusBreakdown.textContent = `Oficios ${oficioCount.toLocaleString('es-CL')} · Circulares ${circularCount.toLocaleString('es-CL')} · Resoluciones ${resolucionCount.toLocaleString('es-CL')} · BCN ${bcnCount.toLocaleString('es-CL')}`;
 
   const generated = meta?.generated_at ? new Date(meta.generated_at) : null;
   const updatedLabel = generated && !Number.isNaN(generated.getTime())
