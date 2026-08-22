@@ -72,10 +72,13 @@
       </div>
       <button id="readerClose" aria-label="Cerrar">×</button>
     </div>
-    <div id="readerText" class="reader-text"></div>
+    <div class="reader-stage">
+      <div id="readerLoading" class="reader-loading">Preparando lectura…</div>
+      <iframe id="readerFrame" class="reader-frame" title="Documento tributario" loading="eager"></iframe>
+    </div>
     <div class="reader-actions">
       <a id="readerOfficial" class="button primary" target="_blank" rel="noopener">Abrir fuente oficial</a>
-      <a id="readerRaw" class="button" target="_blank" rel="noopener">Abrir texto local</a>
+      <a id="readerHtml" class="button" target="_blank" rel="noopener">Abrir ficha HTML</a>
     </div>
   </dialog>
 
