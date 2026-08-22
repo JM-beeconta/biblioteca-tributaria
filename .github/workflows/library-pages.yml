@@ -30,6 +30,25 @@ jobs:
       - name: Construir sitio estático
         run: npm run build
 
+      - name: Validar lector HTML generado
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const catalog = JSON.parse(fs.readFileSync('dist/data/catalog.json', 'utf8'));
+          if (!Array.isArray(catalog) || !catalog.length) throw new Error('catalog.json vacío');
+          const invalidSummary = catalog.find((doc) => !doc.summary_short || /[\r\n]/.test(doc.summary_short));
+          if (invalidSummary) throw new Error(`summary_short inválido: ${invalidSummary.id}`);
+          const sample = catalog.find((doc) => doc.source === 'SII' && doc.type === 'oficio') || catalog[0];
+          if (!sample.html_path) throw new Error(`html_path ausente: ${sample.id}`);
+          const htmlFile = path.join('dist', sample.html_path);
+          if (!fs.existsSync(htmlFile)) throw new Error(`ficha HTML ausente: ${sample.html_path}`);
+          const html = fs.readFileSync(htmlFile, 'utf8');
+          if (!html.includes('document-shell') || !html.includes('Texto del documento')) throw new Error(`ficha HTML incompleta: ${sample.id}`);
+          console.log(`Lector HTML validado con ${sample.id}; ${catalog.length} documentos en catálogo.`);
+          NODE
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
@@ -58,7 +77,19 @@ jobs:
           curl -fsSL --retry 5 --retry-delay 2 "$BASE/data/catalog.json" -o /tmp/catalog.json
           curl -fsSL --retry 5 --retry-delay 2 "$BASE/data/index.json" -o /tmp/index.json
           curl -fsSL --retry 5 --retry-delay 2 "$BASE/llms.txt" -o /tmp/llms.txt
-          node -e "const fs=require('fs'); const c=JSON.parse(fs.readFileSync('/tmp/catalog.json','utf8')); const i=JSON.parse(fs.readFileSync('/tmp/index.json','utf8')); if(!Array.isArray(c)||!Array.isArray(i)||c.length!==i.length) process.exit(1); console.log('Documentos publicados:', c.length);"
+          SAMPLE_PATH=$(node - <<'NODE'
+          const fs=require('fs');
+          const c=JSON.parse(fs.readFileSync('/tmp/catalog.json','utf8'));
+          const i=JSON.parse(fs.readFileSync('/tmp/index.json','utf8'));
+          if(!Array.isArray(c)||!Array.isArray(i)||c.length!==i.length) process.exit(1);
+          const sample=c.find(d=>d.source==='SII'&&d.type==='oficio')||c[0];
+          if(!sample?.html_path||!sample?.summary_short) process.exit(1);
+          process.stdout.write(sample.html_path);
+          NODE
+          )
+          curl -fsSL --retry 5 --retry-delay 2 "$BASE/$SAMPLE_PATH" -o /tmp/document.html
+          grep -q 'document-shell' /tmp/document.html
+          grep -q 'Texto del documento' /tmp/document.html
           test -s /tmp/home.html
           test -s /tmp/llms.txt
           echo "Pages verificado: $BASE"
