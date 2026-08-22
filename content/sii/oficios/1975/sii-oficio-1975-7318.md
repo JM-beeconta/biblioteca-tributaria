@@ -3,8 +3,8 @@
 - Fuente: SII
 - Tipo: oficio
 - Número: 7318
-- Año: N/A
-- Fecha: N/A
+- Año: 1975
+- Fecha: 1975-09-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/ja5259_75.htm
 - Hash SHA-256: 9365341031cd04e78db17f9eb71d16a192058cb7d4366de99bccd4913aa54147

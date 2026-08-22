@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-22T19:23:39.904Z",
-  "total_documents": 11138,
+  "generated_at": "2026-08-22T19:56:03.625Z",
+  "total_documents": 11137,
   "by_source": {
-    "SII": 10349,
+    "SII": 10348,
     "BCN": 789
   },
   "by_type": {
     "resolucion": 1975,
-    "oficio": 7521,
+    "oficio": 7520,
     "circular": 853,
     "norma": 294,
     "articulo": 495
   },
   "by_year": {
     "1974": 499,
-    "1975": 16,
+    "1975": 18,
     "1976": 16,
     "1977": 4,
     "1978": 6,
@@ -56,7 +56,7 @@
     "2014": 244,
     "2015": 276,
     "2016": 272,
-    "2017": 256,
+    "2017": 255,
     "2018": 267,
     "2019": 435,
     "2020": 563,
@@ -65,8 +65,7 @@
     "2023": 647,
     "2024": 385,
     "2025": 547,
-    "2026": 319,
-    "sin-fecha": 2
+    "2026": 319
   },
   "min_year": 1974,
   "max_year": 2026,
@@ -79,8 +78,6 @@
     "LIVS",
     "CT"
   ],
-  "mode": "backfill:Resoluciones-2013-2026",
-  "last_scrape_at": "2026-08-22T19:23:38.795Z",
-  "touched_documents": 1975,
-  "backfill_status": "completed"
+  "mode": "fix:fecha-exacta-oficio-1975-7318",
+  "last_scrape_at": "2026-08-22T19:56:02.870Z"
 }

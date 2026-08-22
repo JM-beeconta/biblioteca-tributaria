@@ -40,6 +40,13 @@ test('convierte fecha chilena', () => {
   assert.equal(inferDate('Circular N° 26 del 18 de Junio del 2026', 2026), '2026-06-18');
 });
 
+test('reconoce fechas de índices agregados antiguos sin el conector "de" (regresión)', () => {
+  // Los índices "años anteriores" pre-1994 del SII suelen escribir "DD MES AAAA" sin "de"
+  // (p.ej. "ORD.- N 5259, DE 09 SEPTIEMBRE 1975"), a diferencia del formato moderno con "de".
+  assert.equal(inferDate('ORD.- N 5259, DE 09 SEPTIEMBRE 1975'), '1975-09-09');
+  assert.equal(inferDate('Oficio N° 7318, de 21 Noviembre 1975.'), '1975-11-21');
+});
+
 test('separa artículos BCN', () => {
   const articles = splitArticlesForTests('TÍTULO I\nArtículo 1° Texto uno.\nArtículo 2° Texto dos.');
   assert.equal(articles.length, 2);
@@ -125,6 +132,12 @@ test('no confunde una Resolución con un Oficio ni viceversa al extraer el núme
 test('particiona SII por año y BCN en shard propio', () => {
   assert.equal(shardName({ source: 'SII', year: 2025 }), '2025.json');
   assert.equal(shardName({ source: 'BCN', year: 2025 }), 'bcn.json');
+});
+
+test('un documento sin año va al shard sin-fecha, no a "0.json" (regresión)', () => {
+  // Number(null) === 0 y Number.isInteger(0) === true: sin guard explícito, esto caía en "0.json".
+  assert.equal(shardName({ source: 'SII', year: null }), 'sin-fecha.json');
+  assert.equal(shardName({ source: 'SII', year: undefined }), 'sin-fecha.json');
 });
 
 test('calcula contador global de biblioteca', () => {
