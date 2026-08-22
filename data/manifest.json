@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-08-22T03:37:52.086Z",
-  "total_documents": 8366,
+  "generated_at": "2026-08-22T03:38:41.997Z",
+  "total_documents": 8377,
   "by_source": {
-    "SII": 8363,
+    "SII": 8374,
     "BCN": 3
   },
   "by_type": {
-    "oficio": 7510,
+    "oficio": 7521,
     "circular": 853,
     "norma": 3
   },
   "by_year": {
     "1974": 3,
+    "1975": 3,
+    "1976": 8,
     "1978": 2,
     "1979": 3,
     "1980": 3,
@@ -447,6 +449,22 @@
       "count": 2,
       "source": "SII",
       "year": 1978
+    },
+    {
+      "name": "1976.json",
+      "path": "data/index/1976.json",
+      "relations_path": "data/relations/1976.json",
+      "count": 8,
+      "source": "SII",
+      "year": 1976
+    },
+    {
+      "name": "1975.json",
+      "path": "data/index/1975.json",
+      "relations_path": "data/relations/1975.json",
+      "count": 3,
+      "source": "SII",
+      "year": 1975
     },
     {
       "name": "0.json",
