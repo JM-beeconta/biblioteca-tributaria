@@ -4,6 +4,7 @@ const downloadUrl = 'https://www4.sii.cl/gabineteAdmInternet/descargaArchivo';
 
 const page = await fetch(pageUrl, { headers: { 'user-agent': 'BeecontaBibliotecaTributaria/diagnostic' } });
 const html = await page.text();
+const formTag = (html.match(/<form[^>]+(?:name|id)=["']frm["'][^>]*>/i) ?? [null])[0];
 
 const list = await fetch(listUrl, {
   method: 'POST',
@@ -20,26 +21,24 @@ const first = rows[0] ?? null;
 let download = null;
 if (first) {
   const filename = `${first.pubNumOficio}-${first.pubFechaPubli}.pdf`;
-  const form = new URLSearchParams({
+  const params = new URLSearchParams({
     nombreDocumento: filename,
     extension: first.extensionArchPublica ?? 'pdf',
     acc: 'download',
     id: String(first.idBlobArchPublica ?? ''),
     mediaType: first.mTypeArchPublica ?? 'application/pdf',
   });
-  const response = await fetch(downloadUrl, {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/x-www-form-urlencoded',
-      'user-agent': 'BeecontaBibliotecaTributaria/diagnostic',
-    },
-    body: form,
+  const finalUrl = `${downloadUrl}?${params.toString()}`;
+  const response = await fetch(finalUrl, {
+    method: 'GET',
+    headers: { 'user-agent': 'BeecontaBibliotecaTributaria/diagnostic' },
     redirect: 'follow',
     signal: AbortSignal.timeout(20000),
   });
   const buffer = Buffer.from(await response.arrayBuffer());
   download = {
     status: response.status,
+    finalUrl: response.url,
     contentType: response.headers.get('content-type'),
     contentDisposition: response.headers.get('content-disposition'),
     bytes: buffer.length,
@@ -52,6 +51,7 @@ console.log(JSON.stringify({
   pageUrl,
   pageStatus: page.status,
   htmlLength: html.length,
+  formTag,
   listUrl,
   listStatus: list.status,
   count: Array.isArray(rows) ? rows.length : null,
