@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-03
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/octubre17.htm
 - Hash SHA-256: be488875a7193d5181e21ddafad4ea29273a6bac367b7a9ef59ff936687b326c
 
 ## Resumen
 
-999 - I. Directos). C�digo de Aguas - Actual texto - ART. 257 Y 258. Octubre 1999 Word Tributaci�n a que estar�a afecta una Asociaci�n de canalistas cuyos ingresos se componen por los cobros de cuotas a socios y por operaciones realizadas con una empresa el�ctrica por el traspaso de aguas en ciertas temporadas del a�o. (Of. N� 4.030, del 03.11.1999 - I. Directos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46,…
+ctos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999. Octubre 1999
 
 ## Referencias detectadas
 

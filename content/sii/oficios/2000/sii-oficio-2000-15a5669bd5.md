@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-24
+- Fecha: 2000-01-20
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero25.doc
 - Hash SHA-256: b41b1fdbd255b2e2598683fd00b00e0cf10313a485fc47ff65728f19a03d26e2
 
 ## Resumen
 
-Se solicita un pronunciamiento que unifique los diversos criterios relativos a la procedencia de la franquicia tributaria para capacitaci�n respecto de los organismos p�blicos personificados, corporaciones privadas sin fines de lucro y dem�s entidades que persiguen fines ben�ficos. (Of. N� 197, de 24.02.2000 - I. Directos). Ley N� 19.578, de 1998, Art. 3� transitorio - Art. 100� de la ley N� 18.045 - Art. 20�, N� 1, Art. 39�, N� 3, de la ley de la Renta. Word Forma de determinar la renta de los bienes ra�ces no ag…
+Word Forma de determinar la renta de los bienes ra�ces no agr�colas cuando la de algunos de ellos es inferior al 11% del aval�o fiscal. (Of. N� 149, de 20.01.2000 - I. Directos)
 
 ## Referencias detectadas
 

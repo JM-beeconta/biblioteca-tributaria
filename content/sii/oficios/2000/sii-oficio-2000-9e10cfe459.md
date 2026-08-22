@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-25
+- Fecha: 2000-01-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero24.doc
 - Hash SHA-256: 36a38a07aaa504e2ccc7c75e754c3e94bea38fdc1b5779d2076c466d6b1af351
 
 ## Resumen
 
-e efectuar al exterior en pago de un cr�dito convenido con una entidad extranjera, quedan sometidos al r�gimen general del Impuesto Adicional de la Ley de la Renta. (Of. N� 260, del 25.01.2000 - I. Directos) Renta � Ley sobre Impuesto a la � Art. 40, N�2 � Ley N� 10.502, Art. 4. (Ord. N� 192, de 24.01.2000) Word Vigencia de exenci�n del Impuesto de Primera Categor�a de la Ley de la Renta. Renta - actual ley sobre impuesto a la - Art. 41�, A y B. Word Forma de acreditar la devoluci�n de los capitales invertidos en…
+Word Vigencia de exenci�n del Impuesto de Primera Categor�a de la Ley de la Renta.
 
 ## Referencias detectadas
 

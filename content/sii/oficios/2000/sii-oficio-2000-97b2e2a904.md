@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-23
+- Fecha: 2000-11-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4504.htm
 - Hash SHA-256: ddb3cdef2f605cd2eb4bd190dc75b4fe3b00f7bdd8aa567b922bebcfdb1f5a20
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�. (Ord. N� 4529, de 23.11.2000) Word Impuesto al Valor Agregado en servicios prestados a Isapres y; Pronunciamiento acerca del procedimiento utilizado para documentar las ventas de medicamentos efectuadas por farmacias y sujetas a bonificaci�n por una empresa que presta este servicio a las Isapres. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a) � Ley N� 18.483, Art. 21�, de 1985. (Ord. N� 4504, de 2…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a) � Ley N� 18.483, Art. 21�, de 1985. (Ord. N� 4504, de 22.11.2000)
 
 ## Referencias detectadas
 

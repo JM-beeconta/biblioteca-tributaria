@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2000
-- Fecha: 2000-10-06
+- Fecha: 2000-10-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/noviembre02.doc
 - Hash SHA-256: 5c945892c25ffd1fb5fbd1fd2e9a6f2a27072aed7970454db70f3ae8440de4c1
 
 ## Resumen
 
-taci�n de intereses obtenidos por dep�sitos de excedentes efectuados por fundaci�n de salud de trabajadores de un banco. (of. N� 3.919, de 06.10.2000- i. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N�22�, Art. 31�, N� 1� - Art. 165�, de la Ley de quiebra. � Art. 26� de la Ley N� 6.640. Word Situaci�n Tributaria de los intereses provenientes de Cr�ditos que posteriormente resultaron sobrese�dos en virtud de una norma legal. (of. N� 4.054, de 20.10.2000- i. Directos) Renta - Actual Ley sobre Impuest…
+Word Situaci�n Tributaria de los intereses provenientes de Cr�ditos que posteriormente resultaron sobrese�dos en virtud de una norma legal. (of. N� 4.054, de 20.10.2000- i. Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-29
+- Fecha: 1999-10-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre09.doc
 - Hash SHA-256: 61eb00ff20524d9c6a57f9e60d2a3d084edcee73a9dfab3ae144bf192bba71cd
 
 ## Resumen
 
-inario N� 3991, de 29 Octubre de 1999. Impuesto al Valor Agregado (IVA) en servicios derivados de un contrato de perforaci�n minera en la Cordillera de Los Andes. (Of. N�3991 de 29 de octubre de 1999.- I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 8�, letras i) y g) - Art. 20�, N�s 1, 3, 4 Y 5 - Art. 39�, N� 3 Ley de la Renta. Octubre 1999 Word Tributaci�n que afecta a sociedad de responsabilidad limitada en lo referente al IVA, por valores recaudados por concepto de d…
+Word Tributaci�n que afecta a sociedad de responsabilidad limitada en lo referente al IVA, por valores recaudados por concepto de derecho a ingreso al recinto de Asociaci�n cobrado a socios y terceros y por arriendo de piso a los comerciantes ajenos a la sociedad. (Of. N� 3.928, de 22.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

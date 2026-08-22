@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-08
+- Fecha: 1998-03-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/mar14.doc
 - Hash SHA-256: 146312ad907cdd56af055e22529e14e69ffb47c6772811fccd9baffb2a14b07a
 
 ## Resumen
 
-5, del 08.04.1998). Ventas y servicios - Nuevo texto impuesta a las - Art. 23�, N� 2�. Marzo 1998 Word Empresa de promoci�n y publicidad - Adquisici�n de bienes entregados gratuitamente con fines promocionales o publicitarios - Se consideran rentas los retiros de bienes... (Oficio N� 0737, del 17.03.1998). Ventas y servicios - Nuevo texto impuesto a las - arts. 9�, letra e) Y 55�, Marzo 1998 Word Servicio remunerado de comunicaci�n telef�nica - Afecto al Impuesto al Valor Agregado - Actividad incluida en el N� 3,…
+Word Servicio remunerado de comunicaci�n telef�nica - Afecto al Impuesto al Valor Agregado - Actividad incluida en el N� 3, del Art. 20�, de la Ley de la Renta - Per�odo en que debe emitirse la factura - Servicios peri�dicos. (Oficio N� 0619, del 04.03.1998 ).
 
 ## Referencias detectadas
 

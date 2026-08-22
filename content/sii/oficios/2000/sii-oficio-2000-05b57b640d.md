@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ALIGN='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 19.288, de 1994, Art. 5�, Art. 6� - D.F.L. N�2, de 1997, Art. 2�, N�2. (Ord. N� 4620, de 29.11.2000) Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto adicional a las bebidas alcoh�licas, analcoh�licas y otras similares, a bebidas de fabricaci�n nacional adquiridas en otros pa�ses. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 16�, letra h) � Circular N� 44, de 1996. (O…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 16�, letra h) � Circular N� 44, de 1996. (Ord. N� 4619, de 29.11.2000)
 
 ## Referencias detectadas
 

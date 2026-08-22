@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-07-05
+- Fecha: 2000-06-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2438.htm
 - Hash SHA-256: e60fc38092ac3efb68e474fc09dc2d5e4c3e17140643b9cc19c5b5c42a8f3cb7
 
 ## Resumen
 
-l amparo de la Partida 0 del Arancel Aduanero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 37� - Ley N� 18.840, Art. 39�. (Ord. N� 2681, de 05.07.2000) Word Aplicaci�n de impuesto a la venta de monedas de oro de curso legal de la Casa Real de pa�s extranjero Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 3�- Ley N� 19.633, 1999. (Ord. N� 2438, de 23.06.2000) Word Consideraciones acerca de la Ley N� 19.633. Ventas y Servicios…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 3�- Ley N� 19.633, 1999. (Ord. N� 2438, de 23.06.2000)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-21
+- Fecha: 1999-04-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may09.doc
 - Hash SHA-256: ce3287b97ef1bc738555728c3350d23b50fdef160c128a780a3585db4008cc85
 
 ## Resumen
 
-font> Renta - Actual ley sobre impuesto a la - Art. 59� Mayo 1999 Word Empresa argentina otorga a empresa chilena la representaci�n no exclusiva para la comercializaci�n de los productos de software � Convenio para evitar la doble tributaci�n celebrado... (Oficio N� 1.524, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Instrumentos de ahorro que pueden acogerse al mecanismo establecido en el Art. 57� bis de la Ley de la Renta � Acciones emitidas por sociedades an�nimas abiert…
+Word Instrumentos de ahorro que pueden acogerse al mecanismo establecido en el Art. 57� bis de la Ley de la Renta � Acciones emitidas por sociedades an�nimas abiertas que cumplan ciertas condiciones... (Oficio N� 1.474, del 16.04.1999).
 
 ## Referencias detectadas
 

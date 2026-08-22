@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 38
 - Año: 2000
-- Fecha: 2000-12-19
+- Fecha: 2000-12-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta04.doc
 - Hash SHA-256: e91b0d33ffd37a246466f01b0c512ea6423a535b6efb39bc16724110ac150653
 
 ## Resumen
 
-t. 21�, Del D.L. N� 910, en Venta y Promesas de Venta de Inmuebles Destinados a la Habitaci�n. (Of. N� 4.853, de 19.12.2000 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 17�N� 13� y N� 18�- Circular N� 75�, de 1976 � Circular N� 66�, de 1977 � Circular N� 41�, de 1999. Word Situaci�n Tributaria de Beneficios Otorgados por las Cajas de Compensaci�n. (Of. N� 4.777, de 12.12.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 14� � Res. Ex. N� 2.154, de 1991 - Circular N� 40�, de 1991 y…
+Word Situaci�n Tributaria de Beneficios Otorgados por las Cajas de Compensaci�n. (Of. N� 4.777, de 12.12.2000 � I. Directos)
 
 ## Referencias detectadas
 

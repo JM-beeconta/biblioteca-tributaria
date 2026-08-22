@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-13
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/marzo01.htm
 - Hash SHA-256: bfb54a5075893429049dfcdb48523323f7d6994b1560fb48d9687137b630244a
 
 ## Resumen
 
-Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 y 18�. Word Presunci�n de habitualidad en la compra y venta de acciones de una sociedad de responsabilidad limitada... (Oficio N� 782, del 13.03.2000 - I. Directos) Renta - Actual Ley sobre Iimpuesto a la -. Word Tratamiento tributario que de acuerdo con la Ley de la Renta chilena se aplica a los "pactos de recompra o reporto". (Of. N� 1.174, del 11.04.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - ART. 31�, N� 6. Word Tratamiento de la utilidad…
+Renta - Actual Ley sobre Iimpuesto a la -.
 
 ## Referencias detectadas
 

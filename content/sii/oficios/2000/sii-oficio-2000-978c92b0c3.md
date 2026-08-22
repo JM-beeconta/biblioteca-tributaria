@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-29
+- Fecha: 2000-03-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero02.doc
 - Hash SHA-256: 2a4a1171563f47e47ab5780433031e7e25c7367562a456c56dc5d5de15680dd1
 
 ## Resumen
 
-ario. Word Solicita se confirme que el aporte en dominio de acciones de una Sociedad An�nima es suceptible... (Oficio N� 676, del 29.02.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Art. 18�. Word Situaci�n Tributaria de la enajenaci�n de acciones efectuado al cr�dito cuya obligaci�n de pago se cumple...(Oficio N� 696, del 01.03.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 y 18�. Word Presunci�n de habitualidad en la compra y venta de acciones de una s…
+Word Situaci�n Tributaria de la enajenaci�n de acciones efectuado al cr�dito cuya obligaci�n de pago se cumple...(Oficio N� 696, del 01.03.2000 - I. Directos)
 
 ## Referencias detectadas
 

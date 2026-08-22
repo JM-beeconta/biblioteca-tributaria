@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-12
+- Fecha: 2000-12-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4713.htm
 - Hash SHA-256: dd9881c2533bd6b2f2917d194753d3c1839c693e6f4e5a76f0c577a7e4469e2b
 
 ## Resumen
 
-os � Nuevo Texto � Actual Ley sobre Impuesto a las - Tratado de Paz, Amistad y Comercio, suscrito entre el Gobierno de Chile y Bolivia, de 1904. (Ord. N� 4774, de 12.12.2000) Word Pide se declare, que la Asociaci�n de empresarios bolivianos de transporte nacional e internacional, se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904�. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 128�. (Ord. N� 4713, de 06.12.2000)
 
 ## Referencias detectadas
 

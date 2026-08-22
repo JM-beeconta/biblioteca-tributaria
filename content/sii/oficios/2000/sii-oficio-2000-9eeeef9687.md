@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-24
+- Fecha: 2000-01-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero09.doc
 - Hash SHA-256: f50ffe8365caa7b18affbe12e5ed3f5cdf68fc50d4d37d75760daef4bfdaca5f
 
 ## Resumen
 
-a � Ley sobre Impuesto a la � Art. 40, N�2 � Ley N� 10.502, Art. 4. (Ord. N� 192, de 24.01.2000) Word Vigencia de exenci�n del Impuesto de Primera Categor�a de la Ley de la Renta. Renta - actual ley sobre impuesto a la - Art. 41�, A y B. Word Forma de acreditar la devoluci�n de los capitales invertidos en el exterior. (Of. N� 180, del 21.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 20�, N� 4, Art. 42, N� 2. Word Consulta si una empresa de corretaje de seguros que tributa en primera categor�…
+Word Forma de acreditar la devoluci�n de los capitales invertidos en el exterior. (Of. N� 180, del 21.01.2000 - I. Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-05
+- Fecha: 2000-11-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta11.doc
 - Hash SHA-256: e31824aef5f8d856cdf5550648795bd4b34a50d9f9dfd6d5066af4e1eb72a67c
 
 ## Resumen
 
-t="_blank">Renta � Actual Ley Sobre Impuesto a la � Art. 59�. Situaci�n tributaria de reembolso de gastos efectuados por una filial a su casa matriz en el exterior. (Ord. N� 4706-A de 05.12.2000) Renta � Actual Ley Sobre Impuesto a la � Art. 57� Bis - Ley N� 19.578, de 1998, Art. 18� - Circular N� 71�, de 1998. Word Beneficio Tributario Del Art�culo 57� Bis de la Ley de la Renta Respecto de Los Dep�sitos a Plazo. (Of. N� 4.622, de 29.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 57�Bis - Cir…
+Word Beneficio Tributario Del Art�culo 57� Bis de la Ley de la Renta Respecto de Los Dep�sitos a Plazo. (Of. N� 4.622, de 29.11.2000 � I. Directos)
 
 ## Referencias detectadas
 

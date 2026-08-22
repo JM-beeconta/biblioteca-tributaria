@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-01-18
+- Fecha: 1999-01-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene01.htm
 - Hash SHA-256: 7647677312375dba05d3cf6c5bf89e2baa0404257eba2a35fb3424414ba5f143
 
 ## Resumen
 
-enido en la enajenaci�n � Excepto respecto de... (Oficio N� 112, del 18.01.1999). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 2 Enero 1999 Word Actividad parcialmente exenta del Impuesto al Valor Agregado � Compras destinadas a operaciones gravadas y exentas � Utilizaci�n del cr�dito fiscal en forma proporcional... (Oficio N� 102, del 15.01.1999). Renta - Actual ley sobre impuesto a la - Art. 14�, Letra a), N� 1, Letra c) Enero 1999 Word Divisi�n de sociedades � Ley N� 18.046, sobre sociedades an�nimas,…
+15.01.1999). Renta - Actual ley sobre impuesto a la - Art. 14�, Letra a), N� 1, Letra c) Enero 1999
 
 ## Referencias detectadas
 

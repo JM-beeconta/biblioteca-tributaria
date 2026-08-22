@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-10
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/septiembre06.htm
 - Hash SHA-256: 0b95ef068389ba33f18e8206955d2dd9a786a75dcb99f1d3dda0f532a15e4e1a
 
 ## Resumen
 
-Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2�, Art. 8� letra E), Art. 16�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996. Word Tratamiento tributario de contrato de Concesi�n de Obra P�blica denominada, " Complejo Ecol�gico Recreativo y Cultural Metropolitano". (Of. N� 3.150, de 10.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 199…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996.
 
 ## Referencias detectadas
 

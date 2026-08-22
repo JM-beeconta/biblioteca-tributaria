@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-04
+- Fecha: 1998-08-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep05.htm
 - Hash SHA-256: 634fb246a2eac7681f614d735a6042adbecc85c067dccd132490b76fd4156cc2
 
 ## Resumen
 
-stos Global Complementario o Adicional - Utilidades... (Oficio N� 2.347, del 04.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 3 Word Caso que p�rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas - Impuesto de Primera Categor�a pagado sobre dichas utilidades se considera pago provisional... (Oficio N� 2.269, del 26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 12. Word Deducci�n de la renta bruta de gastos necesarios - Pagos efectuados al exterior p…
+26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 12.
 
 ## Referencias detectadas
 

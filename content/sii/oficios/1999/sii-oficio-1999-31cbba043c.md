@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-29
+- Fecha: 1999-04-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may10.htm
 - Hash SHA-256: 4c81d0105dfd0427ff999b710d7596efbb445f1ad45afe9ac9ead91d01f8a3b1
 
 ## Resumen
 
-Renta proveniente de la propiedad de la regal�a... (Oficio N� 1.773, del 29.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 20� Y 56� Mayo 1999 Word R�gimen tributario a la renta establecido en la ley del ramo � Sistema de integraci�n entre el impuesto de Primera Categor�a y el impuesto Global Complementario o Adicional... (Oficio N� 1.644, del 26.04.1999) Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Acciones de sociedades an�nimas abiertas � Instrumento de ahorro incorporado al me…
+26.04.1999) Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999
 
 ## Referencias detectadas
 

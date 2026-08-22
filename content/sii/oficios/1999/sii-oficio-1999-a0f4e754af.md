@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-22
+- Fecha: 1999-11-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre08.doc
 - Hash SHA-256: 131ac9f7aac4d0fb80ac31b376ff46b3b68b0cb89a60d2ae28a4e0f67c7b3334
 
 ## Resumen
 
-y Servicios - Nuevo texto - Ley Impuesto a las - Art. N� 9�, letra f), Art. 23�, Art. 27� Bis, Art. 55�, inciso 2�. Noviembre 1999 Word Si procede reembolso del remanente acumulado de cr�dito fiscal del IVA soportado al adquirir un inmueble del activo fijo. (Of. N� 4.208, del 22.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 8� Y Art. 20, N� 3 Y 4. Octubre 1999 Word Impuesto al Valor agregado que afecta a la actividad de "turismo rural" prestado por familias c…
+Word Impuesto al Valor agregado que afecta a la actividad de "turismo rural" prestado por familias campesinas, como actividad estacional y cuyos ingresos son complementarios al obtenido en la producci�n agr�cola. (Of. N� 4.179, de 17.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

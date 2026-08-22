@@ -11,7 +11,7 @@
 
 ## Resumen
 
-face="arial" size="2"> Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1, Letra b) Enero 1999 Word Actividad agr�cola � R�gimen de renta presunta � Requisitos y condiciones, Ley N� 18.985- Instrucciones en Circulares N�s. 58 y 63, de 1990 � Contribuyentes que no cumplen... (Oficio N� 113, del 18.01.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, Letra b) y 18�. Enero 1999 Word Enajenaci�n no habitual de bienes ra�ces � No constituye renta el mayor valor incluido el reajuste del saldo de prec…
+Word Enajenaci�n no habitual de bienes ra�ces � No constituye renta el mayor valor incluido el reajuste del saldo de precio obtenido en la enajenaci�n � Excepto respecto de... (Oficio N� 112, del 18.01.1999).
 
 ## Referencias detectadas
 

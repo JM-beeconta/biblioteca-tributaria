@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y servicios - Nuevo Texto impuesto a las - Art. 8�, Letra i), Word Arrendamiento de boxes para estacionar autom�viles - Edificio especialmente construido con tal objeto - Concepto de estacionar - Hecho gravado especial. (Oficio N� 3136, del 30.12.1997) Ventas y servicios - Nuevo Texto impuesto a las - Art. 2�, N� 2 Word Intermediaci�n en la adquisici�n de seguros efectuada por una empresa que forma parte de un "holding" - Pago de primas respectivas en forma global - Distribuci�n o asignaci�n... ( Oficio N�…
+Word Intermediaci�n en la adquisici�n de seguros efectuada por una empresa que forma parte de un "holding" - Pago de primas respectivas en forma global - Distribuci�n o asignaci�n... ( Oficio N� 3067 del 22.12.1997)
 
 ## Referencias detectadas
 

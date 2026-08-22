@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-20
+- Fecha: 2000-10-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja3929.doc
 - Hash SHA-256: 8237c6ba4944c00641a0eefc2b77ff82171bd43acce5ed61dea867d7172da2f3
 
 ## Resumen
 
-font face='arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo N� 502, de 1978, Art. 1�, Art. 54�. (Ord. N� 4063, de 20.10.2000) Word Pide acogerse a exenciones establecidas en el art�culo 54 de la Ley General de Cooperativas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las- Art. 8�, letra g). (Ord. N� 3929, de 10.10.2000) Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una activ…
+Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial.
 
 ## Referencias detectadas
 

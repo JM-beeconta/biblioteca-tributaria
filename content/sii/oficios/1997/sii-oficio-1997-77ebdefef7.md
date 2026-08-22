@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-03-19
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/abr06.htm
 - Hash SHA-256: bc9c164e05f77c548993e57742eafafa1f3b483cd3f1fa0a8cc439384e2d6e53
 
 ## Resumen
 
-ituaci�n del cr�dito fiscal recargado en factura recibida oportunamente y contabilizada por un monto menor. (Of. No 738, del 10/04/97. I. Indirectos). Ventas y Servicios - Nuevo Texto de Impuesto A Las - Art. 2�, No. 2., Abril 1997 Servicios de recopilaci�n de antecedentes de posibles clientes, para el mercado de capitales, no se encuentran gravados con el IVA. (Of. No 723, del 09/04/97. I. Indirectos). Ventas y Servicios - Nuevo Texto de Impuesto a Las - Art. 12�, Letra E, No. 2., Abril 1997 Transporte terrestre…
+Indirectos). Ventas y Servicios - Nuevo Texto de Impuesto a Las - Art. 12�, Letra E, No. 2., Abril 1997 Transporte terrestre internacional denominado autotransporte, se encuentra exento del IVA. (Of. No 682, del 03/04/97. I. Indirectos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-24
+- Fecha: 1998-09-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep04.htm
 - Hash SHA-256: 91be47a2c573c66a7a1253a7ab6e64dcad4fb4d77fd386496e18fe0c261769ab
 
 ## Resumen
 
-eficiadas - Normas generales Ley de la Renta - Concepto amplio... (Oficio N� 2.572, del 24.09.1998). Renta - Actual ley sobre impuesto a la - Art. 14� BIS. Word R�gimen optativo Art. 14� bis de la Ley de la Renta - Contribuyentes pueden ingresar al iniciar actividades - Requisito, capital propio inicial igual o inferior al equivalente... (Oficio N� 2.545, del 17.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 7 Word Donaciones en especies - Unico fin sea la realizaci�n de programas de instrucci�n…
+17.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 7
 
 ## Referencias detectadas
 

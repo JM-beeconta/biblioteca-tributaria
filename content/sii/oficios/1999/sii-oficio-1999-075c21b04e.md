@@ -11,7 +11,7 @@
 
 ## Resumen
 
-). Convenio entre Chile y Argentina para evitar doble tributaci�n - Decreto supremo N� 32, del ministerio de RR.EE. � Arts. 2�, Letra i) y 9� Word Rentas peri�dicas a t�tulo de derechos de autor � Utilizaci�n de software en Argentina y desarrollado e inscrito en Chile � concepto de regal�a para efectos del convenio � Jurisdicci�n tributaria... (Oficio N� 365, del 02.02.1999). Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art.43� Enero 1999 Word Certificaci�n o acreditaci�n de aport…
+02.02.1999). Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art.43� Enero 1999
 
 ## Referencias detectadas
 

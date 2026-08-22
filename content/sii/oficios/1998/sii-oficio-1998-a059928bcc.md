@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-05-18
+- Fecha: 1998-05-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/may01.doc
 - Hash SHA-256: 78562cd72b1c2b4dc742a1185b27b0e80da4b61a545233708c0c0ea86f34107e
 
 ## Resumen
 
-N� 1319, del 18.05.1998). Renta - Actual ley sobre impuesto a la - Art.. 20�, N�2 Word Dividendos distribuidos por sociedades an�nimas - Acciones que est�n en el patrimonio de la empresa que declara con contabilidad completa - Dividendos constituyen un ingreso... (Oficio N� 1278, del 12.05.1998). Renta - Actual ley sobre impuesto a la - Arts. 3� y 10� Word Personas afectas a impuesto - con domicilio o residencia en Chile, sobre rentas de cualquier origen - No residentes en Chile, sobre rentas cuya fuente est� situ…
+Word Personas afectas a impuesto - con domicilio o residencia en Chile, sobre rentas de cualquier origen - No residentes en Chile, sobre rentas cuya fuente est� situada... (Oficio N� 1234, del 08.05.1998).
 
 ## Referencias detectadas
 

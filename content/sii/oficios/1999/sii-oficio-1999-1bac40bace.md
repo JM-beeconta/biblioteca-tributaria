@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-10
+- Fecha: 1999-11-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre05.doc
 - Hash SHA-256: fcf978df03f52a20e8d5b38b0eb9e474f27cebc03d91a9398e8c967277a3c22c
 
 ## Resumen
 
-1, letra b) - Ley N� 18.985 (D.O. 28.06.90). Octubre 1999 Word Partici�n de una sucesi�n hereditaria dentro de la cual existe un bien ra�z agr�cola que se encuentra en renta efectiva y uno de los herederos es agricultor y est� bajo el sistema de renta presunta. (Oficio N� 4.101, de 10.10.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 5 - Circulares N� 132, de 1975 y 61, de 1978. Octubre 1999 Word Vida �til de bienes que conforman el activo inmovilizado, para efectos de su depreciaci�n t…
+Word Vida �til de bienes que conforman el activo inmovilizado, para efectos de su depreciaci�n tributaria. (Oficio N� 4.032, de 03.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-08
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/septiembre09.htm
 - Hash SHA-256: 03337bc0249b9a51d548385884c4d5b99eda341038060a3a40bd8d6faf67f632
 
 ## Resumen
 
-.07.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 1, Art. 8�- Art. 4� del Reglamento del D. L. N� 825. Word Tributaci�n que afectar�a a la venta de caballos adiestrados, adquiridos para pr�cticas de equitaci�n. (Of. N� 3105, de 08.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 27� bis. Word Sociedad comercial solicita un pronunciamiento acerca del planteamiento sostenido por la misma en cuanto al derecho que le asistir�a en su calida…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 27� bis.
 
 ## Referencias detectadas
 

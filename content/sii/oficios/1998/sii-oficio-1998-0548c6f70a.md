@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-05
+- Fecha: 1998-10-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/oct12.doc
 - Hash SHA-256: 61e79d283815f11906f30c62bf847220652681eebd374e768bb58b489b9a30fb
 
 ## Resumen
 
-e='arial' size='2'> Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Noviembre 1998 Word Asesor�as prestadas por corredores de seguro - Dentro del pa�s, dise�o y renovaci�n de p�lizas, determinaci�n del valor de los activos a asegurar, seguro de vida y de salud, estudios de riesgo de activos, soporte en la... (Oficio N� 2.981, del 05.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 2�, N� 2 Y 8� , Letra i) Octubre 1998 Word Servicio de control de estacionamiento en �rea central de u…
+Word Servicio de control de estacionamiento en �rea central de una ciudad - Utilizaci�n de sistema de tarjetas de estacionamiento - Modalidades - Concepto de servicio - Concesi�n otorgada... (Oficio N� 2.700, del 07.10.1998).
 
 ## Referencias detectadas
 

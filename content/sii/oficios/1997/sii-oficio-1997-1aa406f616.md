@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributaci�n del mayor valor obtenido en la enajenaci�n de solicitud de patente industrial registrada en el extranjero de propiedad de una sociedad an�nima chilena. (Of. N� 2.832 del 24/11/97). Renta - Actual Ley sobre Impuesto a la- Arts- 3�, 4� y 10� Situaci�n tributaria de artista chileno residente en el extranjero (Of. N� 2.831 del 24/11/97) Renta - Actual Ley sobre Impuesto a la- Art. 42�, N� 1 y 45� Modalidad de c�lculo del impuesto �nico de Segunda Categor�a que afecta a asignaci�n complementaria pagada a fu…
+4/11/97) Renta - Actual Ley sobre Impuesto a la- Art. 42�, N� 1 y 45� Modalidad de c�lculo del impuesto �nico de Segunda Categor�a que afecta a asignaci�n complementaria pagada a funcionarios p�blicos en virtud del Art. 12�... (Of. N� 2.800 del 03/12/97).
 
 ## Referencias detectadas
 

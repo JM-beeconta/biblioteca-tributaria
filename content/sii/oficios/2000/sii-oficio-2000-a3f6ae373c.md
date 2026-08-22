@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-31
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero14.htm
 - Hash SHA-256: 0dcaabcab5657bf40eb741a78e4ec9d2637a0c9815ce7ff03b11c80db7656a8d
 
 ## Resumen
 
-> Renta - actual ley sobre impuesto a la - Art. 97�, Art. 69� del codigo tributario - Art. 2521 del codigo civil Word Plazo de devoluci�n de remanente de pagos provisionales mensuales. (Of. N� 349, del 31.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 88�, 90� y 98� - Art. 126� del C�digo Tributario Word Devoluci�n de pagos provisionales mensuales, por haber sido cancelados indebidamente al no existir tal obligaci�n, debido a que en el a�o comercial inmediatamente anterior obtuvo p�rdida trib…
+Renta - actual ley sobre impuesto a la - Art. 88�, 90� y 98� - Art. 126� del C�digo Tributario
 
 ## Referencias detectadas
 

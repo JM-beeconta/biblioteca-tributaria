@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-20
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/junio14.htm
 - Hash SHA-256: 101d33cb1d7d53c4816c14b9bab3389c88280adebe1354a80d3e9ed207eb5fcd
 
 ## Resumen
 
-al Ley sobre Impuesto a la - Art. 14�, letra A) N� 1, letra C). Word Solicitan revisi�n del criterio contenido en Oficio N� 62, de 11.01.99, en relaci�n con las obligaciones Tributarias a cumplir en caso de la divisi�n de una sociedad. ( Of. N� 1.301, de 20.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 6. Word Solicita opini�n del Servicio respecto a s� la visaci�n o autorizaci�n del informe de importaci�n es suficiente para considerar cumplida la exigencia de autorizaci�n del contr…
+Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 6.
 
 ## Referencias detectadas
 

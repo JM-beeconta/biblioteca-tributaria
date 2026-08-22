@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-24
+- Fecha: 1999-11-22
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/noviembre11.doc
 - Hash SHA-256: 95fda248e96b37cd60db635ce70559cc165271b5e0cfc68acf45ddfa003c3b77
 
 ## Resumen
 
-/a> Solicita se precise el sujeto a quien corresponde el uso del beneficio tributario establecido en el Art. 8� del D.L. N� 2.564, de 1979, en el caso de importaci�n de aeronaves que son arrendadas a un explotador comercial. (Of. N� 4.250, del 24.11.1999 - I. Indirectos). Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 36� - Art. 14� Bis, 20�, de la Ley sobre Impuesto a la Renta - Circular N� 19, de 1999. Noviembre 1999 Word Posibilidad de hacer uso de la franquicia tributaria S…
+Word Posibilidad de hacer uso de la franquicia tributaria SENCE, por la Corporaci�n Consejo de Defensa del Ni�o. (Of. N� 4.205, del 22.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

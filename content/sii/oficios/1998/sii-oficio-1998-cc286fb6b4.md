@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-01-26
+- Fecha: 1998-01-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ene01.doc
 - Hash SHA-256: 81287b6461e24597660dd7d5629a4e7c27e2a92de6a473f70e68edd0733e8e74
 
 ## Resumen
 
-gn="JUSTIFY"> Renta Actual ley sobre impuesto a la Art. 20�, N� 3 -Impuesto a las ventas y servicios Art. 2�, N� 2., Word Administraci�n de sistema de salud animal - Forma de operar - Actividades constituye suministro de servicio - Art. 3�, N� 7, del C�digo de Comercio... (Oficio N� 214, del 26.01.1998). Renta - Actual Ley Sobre Impuesto a la - Arts.. 2�, Nos 2 y 3, 15� y 29�, Word Venta a terceros del derecho de uso de departamentos - Modalidad tiempo compartido - Acuerdo de voluntades en orden a vender, ceder y…
+Word Venta a terceros del derecho de uso de departamentos - Modalidad tiempo compartido - Acuerdo de voluntades en orden a vender, ceder y transferir... (Oficio N� 95, del 13.01.1998).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ro26.htm">Ley N� 19.622- establece beneficio tributario por adquisici�n de viviendas nuevas acogidas a normas del DFL N� 2. (D.O. 31.07.59) - circular N� 46, de 1999. Word Se solicita aclaraci�n de consultas relacionadas sobre la aplicaci�n del beneficio tributario. (Of. N� 351, del 31.01.2000 - I. Directos). C�digo tributario - actual texto - Art. 28� - Art. 3� y 507�, del c�digo de comercio - circular N� 29, de 1999. Word Improcedencia de la celebraci�n de un contrato de asociaci�n o cuentas en participaci�n ent…
+Word Improcedencia de la celebraci�n de un contrato de asociaci�n o cuentas en participaci�n entre personas que no sean calificadas de comerciantes. (Of. N� 350, de 31.01.2000 - I. Directos).
 
 ## Referencias detectadas
 

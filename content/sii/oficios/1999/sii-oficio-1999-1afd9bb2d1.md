@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-21
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/septiembre03.htm
 - Hash SHA-256: 16b6036b1515f26ceddcecd133e8d7f57f47200dd71cb76a6582114054065d50
 
 ## Resumen
 
-t face="arial" size="2"> Renta - Actual Ley sobre Impuesto a la - Art. 20�, N�s. 2 Y 5, Art. 40 N� 1 - Art. 20 del D.F.L. N� 211, de 1960. Octubre 1999 Word Tributaci�n que afecta a la Corporaci�n de Fomento de la Producci�n por las rentas obtenidas en la enajenaci�n de acciones de sociedades an�nimas e intereses provenientes de pr�stamos y dep�sitos en el mercado de capitales. (Oficio N� 3.911, de 21.10.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Y Art. 20� Decret…
+ctos). Renta - Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Y Art. 20� Decreto LEY N� 3.500. Septiembre 1999
 
 ## Referencias detectadas
 

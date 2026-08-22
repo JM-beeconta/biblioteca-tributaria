@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Ord. N� 4504, de 22.11.2000) Word Consulta acerca de los tributos directos e indirectos que afectan a la importaci�n de partes o piezas de veh�culos para su posterior armado en Chile y a la importaci�n de veh�culos usados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�1, Art. 12�, Letra E), N� 12, Art. 52�, Art. 55� - Res. Ex N� 6080, de 1999. (Ord. N� 4503, de 22.11.2000) Word Documentaci�n exigible, en ventas y prestaciones de servicio, efectuadas a asignatarios de rec…
+Word Documentaci�n exigible, en ventas y prestaciones de servicio, efectuadas a asignatarios de recursos financieros.
 
 ## Referencias detectadas
 

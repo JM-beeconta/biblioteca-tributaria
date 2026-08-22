@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-16
+- Fecha: 1999-12-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/Diciembre12.doc
 - Hash SHA-256: 8abd06e39a23dde511eb7fdb319efd628d1a4b3009f6ae094b2c7f9a306a4a2d
 
 ## Resumen
 
-- Art. 20�, N�s 3, 4 y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n que afecta al servicio de soporte prestado a clientes usuarios de los software comercializados por empresa - Servicio comprende: asesor�a telef�nica o v�a internet. Oficio N� 4.561, del 16.12.1999 Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, Art. 36�, Inciso 4� - Art�culo 58� de la Ley de la Renta. Diciembre 1999 Word Recuperaci�n del Impuesto al Valor Agregado - Empresa de transporte a�reo internacional de carga y…
+Word Recuperaci�n del Impuesto al Valor Agregado - Empresa de transporte a�reo internacional de carga y pasajeros - No se ha constituido como persona jur�dica en Chile - Conceptos - Empresa. Oficio N� 4.522, del 14.12.1999.
 
 ## Referencias detectadas
 

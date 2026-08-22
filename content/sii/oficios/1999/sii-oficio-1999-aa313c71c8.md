@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-30
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto13.htm
 - Hash SHA-256: 15213a085921af34ad35a2408ca9ec692c282a4fc6f5946cef5eb14465fd878e
 
 ## Resumen
 
-o. (OF.N� 3.282, del 30.08.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art.2� y 8� - Art. 20� N� 3 del Decreto Ley N� 824 y Art. 3� N� 7 del C�digo de Comercio. Agosto 1999 Word Tributaci�n que afecta a servicios de vigilancia prestados a una municipalidad por una empresa externa. (OF. N� 3.281, del 30.08.1999 � I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 13�, N�s 7 y 8 y 2�, N� 2 - art. 20� N� 3 del Decreto Ley N� 824 y Art. 3�, N� 7 del C�digo de Co…
+ctos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 13�, N�s 7 y 8 y 2�, N� 2 - art. 20� N� 3 del Decreto Ley N� 824 y Art. 3�, N� 7 del C�digo de Comercio. Agosto 1999
 
 ## Referencias detectadas
 

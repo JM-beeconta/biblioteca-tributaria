@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-02-04
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/feb14.htm
 - Hash SHA-256: b98cb5ed687630418f85c49546054604d708dc36d34e68ae47372e85cc24083f
 
 ## Resumen
 
-o fiscal del IVA, soportado en los gastos mantenci�n, combustible y repuestos de un veh�culo station wagon usado por una funeraria. (Of. N� 278 de 04.02.1997) Ventas Y Servicios - Nuevo Texto Ley De Impuesto A Las - Art., 13�, N� 7, Febrero 1997 L�mite a partir del cual la cotizaci�n legal de salud, se encuentra afecta a Impuesto al Valor Agregado. (Of. No 257, del 03/02/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 13�, N� 4, Febrero 1997 Ingresos percibidos por una guarder�a i…
+Indirectos). Ventas y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 13�, N� 4, Febrero 1997 Ingresos percibidos por una guarder�a infantil, se encuentran exentos del Impuesto al Valor Agregado. (Of. No 113, del 20/01/97. I. Indirectos)
 
 ## Referencias detectadas
 

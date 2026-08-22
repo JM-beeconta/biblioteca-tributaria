@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-28
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/junio17.htm
 - Hash SHA-256: 9b161f0f19b508504b5edec192a38c1eb4ced589e4b09d3d74562df22ceda478
 
 ## Resumen
 
-I. Directos). Timbres y Estampillas - Nuevo Texto � Ley sobre Impuesto de - Art. 3� Decreto Ley N� 3.475, de 1980 � Art. 4�, letra c) de Ley N� 19.589, de 1998 � Circular N� 49, de 1999. Word Entrada en vigencia de las nuevas tasas del Impuesto de Timbres y Estampillas incorporadas por Ley N� 19.589, de 1998, en relaci�n... (Of. N� 2.557, de 28.06.2000 - Depto. T�cnica Tributaria) Franquicias Tributarias - Decreto Ley N� 910 - Art. 21 (D.O. del 1� de Marzo de 1975). Word Solicita pronunciamiento en cuanto a que se…
+Tributaria) Franquicias Tributarias - Decreto Ley N� 910 - Art. 21 (D.O. del 1� de Marzo de 1975).
 
 ## Referencias detectadas
 

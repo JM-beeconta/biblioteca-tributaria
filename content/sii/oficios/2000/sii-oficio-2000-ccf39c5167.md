@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-06
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros3989.htm
 - Hash SHA-256: d3607ea92c40624fda118fb08a601c0a8c63816a78d5d9b8490b6384dac4fa23
 
 ## Resumen
 
-(Of. N� 4.049, de 19.10.2000 � Depto. de T�cnica Tributaria.) Franquicia Tributaria - Ley N� 19.518 � Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36�, Art. 40�, Art. 41� y 42� � Circular N� 34, de 1993 � Circular N� 19�, de 1999. Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n. (Of. N� 4.039, de 18.10.2000 � I. Directos). D.F.L. N� 2, sobre Plan Habitacional de 1959 � Art. 15� - Modificado por la Ley N� 19.622, de 1999 - Circular N� 53�, de 1997. Word Situaci�n…
+. Directos). D.F.L. N� 2, sobre Plan Habitacional de 1959 � Art. 15� - Modificado por la Ley N� 19.622, de 1999 - Circular N� 53�, de 1997.
 
 ## Referencias detectadas
 

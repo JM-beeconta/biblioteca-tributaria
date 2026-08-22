@@ -11,7 +11,7 @@
 
 ## Resumen
 
-" size="2"> Franquicias tributarias - Capacitaci�n y empleo, Estatuto de - Actual Texto - ART. 21� Decreto con fuerza de ley N� 1 Word Agricultor persona natural - Capacitaci�n ocupacional de los trabajadores - T�rmino trabajador comprende tambi�n a personas naturales y socios de sociedades de persona... (Oficio N� 3021, del 16.12.1997). C�digo Tributario - Actual Texto - Art. 64�. (Of. N� 2.925 del 03/12/97), Diciembre 1997 Valor de aporte de acciones de una sociedad an�nima, a la constituci�n de una nueva socied…
+16.12.1997). C�digo Tributario - Actual Texto - Art. 64�. (Of. N� 2.925 del 03/12/97), Diciembre 1997 Valor de aporte de acciones de una sociedad an�nima, a la constituci�n de una nueva sociedad. (Of. N� 2.925, del 03/12/97).
 
 ## Referencias detectadas
 

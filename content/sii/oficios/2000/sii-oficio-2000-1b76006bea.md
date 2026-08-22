@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-04
+- Fecha: 2000-03-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja1015.doc
 - Hash SHA-256: ae2ba7d7c94ffacebd1ecb9a58bdd58978ecfd3254678ef21e7c8ad0e10903a4
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 18.392, de 1985, Art. 11�, Art. 8�, Art. 12�. (Ord. N� 1093, de 04.04.2000) Word Interpretaci�n del art�culo 8� de la Ley N� 18.392, de 1985. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g). (Ord. N� 1015, de 28.03.2000) Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial. Ventas y Servicios � Nuevo Texto � Actual…
+Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial.
 
 ## Referencias detectadas
 

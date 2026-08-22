@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-19
+- Fecha: 1999-10-18
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/septiembre10.doc
 - Hash SHA-256: d3d65fc23b28b3c615ba1fda3ffc34a6e498f0de35fba1049363974cf847968c
 
 ## Resumen
 
-07.59) - Circular N� 46, de 1999. Octubre 1999 Word Sentido y alcance de la expresi�n "propietario" si se refiere al propietario del terreno a entregar en garant�a hipotecaria o al que ser� propietario de la vivienda a construir. (Of. N� 3.892, de 19.10.1999 - I. Directos). Timbres y estampillas - Nuevo texto Ley sobre Impuesto de - Art. 1�, N�3, Art. 2� - Art. 9�, D.L. N� 3.475, de 1980. Septiembre 1999 Word Impuesto De Timbres Y Estampillas Que Grava A Los Intereses Adeudados Al Momento De Prorrogarse El Plazo D…
+Word Impuesto De Timbres Y Estampillas Que Grava A Los Intereses Adeudados Al Momento De Prorrogarse El Plazo De Pago De Un Mutuo De Dinero. (Of. N� 3.884, Del 18.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

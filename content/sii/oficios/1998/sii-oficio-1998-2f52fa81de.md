@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, atenci�n y seguimiento de cardi�patas sin recursos - Textos legales que establecen beneficios... (Oficio N� 989, del 13.04.1998). Renta - actual ley sobre impuesto a la - Arts. 17�, N� 15 Y 42�, N� 1, Word Asignaciones de pasajes y vi�ticos - Consejeros Regionales, Ley 19.175, Art. 39� - Instrucciones generales, Circular N� 7, de 1993... (Oficio N� 990, del 13.04.1998). Renta actual, ley sobre impuesto a la - Arts. 2�, N� 1 Y 20�, N� 2, Word Cobro intereses en venta de terrenos para construcci�n - Tributaci�n -…
+13.04.1998). Renta actual, ley sobre impuesto a la - Arts. 2�, N� 1 Y 20�, N� 2,
 
 ## Referencias detectadas
 

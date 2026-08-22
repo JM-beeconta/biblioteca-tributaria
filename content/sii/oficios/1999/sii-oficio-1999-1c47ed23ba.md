@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-04
+- Fecha: 1999-04-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may16.doc
 - Hash SHA-256: b990ec9dfdf3409d06eb0ae1f45c808b22a96be1d4acd8a976689e04a69bb920
 
 ## Resumen
 
-gn="JUSTIFY"> Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999 Word Servicios prestados a terceros por empresas concesionarias de terminales de pasajeros de aeropuertos � Regidas por normas generales del D.L. 825 � Situaci�n del arrendamiento...Oficio N� 1.814, del 04.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999 Word Contrato general de construcci�n � Obras a ejecutar en Embajada de pa�s extranjero en Chile � Afecto a Impuesto al Valor Agregado…
+Word Contrato general de construcci�n � Obras a ejecutar en Embajada de pa�s extranjero en Chile � Afecto a Impuesto al Valor Agregado � Franquicias establecidas en Convenci�n sobre Relaciones Diplom�ticas no son aplicables al caso. Oficio N� 1.539, del 22.04.1999
 
 ## Referencias detectadas
 

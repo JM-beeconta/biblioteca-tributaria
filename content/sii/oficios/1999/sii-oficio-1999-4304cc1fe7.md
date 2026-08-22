@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-13
+- Fecha: 1999-09-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/agosto15.doc
 - Hash SHA-256: 95438281ff20000027c0da84e4297497f43f9ce3fae061015548e55fecb695b0
 
 ## Resumen
 
-Normas del D.F.L. N� 2.(D.O. de 31.07.59). Agosto 1999 Word Situaci�n de una vivienda transferida en principio con fines de inversi�n, luego a trav�s de una donaci�n para ser finalmente vendida a terceros para su uso. (OF. N� 3.437, del 13.09.1999 - I. Indirectos). Ley N� 19.622. Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.59). Agosto 1999 Word Procedencia de la rebaja tributaria establecida en la Ley N� 19.622, en caso de un bien ra�z adquirid…
+Word Procedencia de la rebaja tributaria establecida en la Ley N� 19.622, en caso de un bien ra�z adquirido en comunidad por c�nyuges. (OF. N� 3.305, del 01.09.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

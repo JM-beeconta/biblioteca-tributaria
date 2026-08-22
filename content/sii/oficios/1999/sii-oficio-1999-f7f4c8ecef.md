@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20�, N�s 3,4 y 5 de la Ley de la Renta. Diciembre 1999 Word IVA que afecta al servicio que consiste en proporcionar informaci�n sobre valoraci�n de instrumentos financieros - Concepto - Superintendencia de AFP no es propiedad una empresa. Oficio N� 4.597, del 20.12.1999. Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20� N�s 1,2,3,4 y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n ap…
+20.12.1999. Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20� N�s 1,2,3,4 y 5 de la Ley de la Renta. Diciembre 1999
 
 ## Referencias detectadas
 

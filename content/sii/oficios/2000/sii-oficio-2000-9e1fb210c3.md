@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-06
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/septiembre10.htm
 - Hash SHA-256: 5c89e8205f278497a5f75f6e3f2f69adf76b3f48f85f5f9e881575c13e26e866
 
 ## Resumen
 
-el reconocimiento de deuda que consta de la escritura ... (Of. N� 3.564, de 06.09.2000 - Depto. T�cnica Tributaria.) Franquicia Tributaria - Ley N� 19.518 - Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art.36�, Art. 40�, Art.41� y 42�. Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n. (Of. N� 3.393, de 24.08.2000 - I. Directos). Ley N� 18.681, de 1987 - Art. 69 - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993. Word Situaci�n tributaria de las donac…
+. Directos). Ley N� 18.681, de 1987 - Art. 69 - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993.
 
 ## Referencias detectadas
 

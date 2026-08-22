@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-27
+- Fecha: 2000-10-19
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros4049.doc
 - Hash SHA-256: 79bbaf1b4a02ebd729385d4fd1052fe4d2449045b89ffaf4278d6bade86d491f
 
 ## Resumen
 
-e 1987 - Circular N� 29, de 1999 � Art. 507 Al 511 Del C�digo de Comercio. Word Situaci�n Tributaria Del Cr�dito Establecido en el Art. 21� Del D. Ley N� 910, en el Caso de Un Contrato de Asociaci�n O Cuentas en Participaci�n. (Of. N� 4.557, de 27.11.2000 � I. Directos). Timbres y Estampillas - Nuevo Texto � Ley sobre Impuesto de � Art. 19�, Decreto Ley N� 3.475, de 1980 - Art. 102� y 103� de Ley N� 18.092, de 1982. Word Tipo, forma y caracter�sticas de los Pagar�s. (Of. N� 4.049, de 19.10.2000 � Depto. de T�cnica…
+Word Tipo, forma y caracter�sticas de los Pagar�s. (Of. N� 4.049, de 19.10.2000 � Depto. de T�cnica Tributaria.)
 
 ## Referencias detectadas
 

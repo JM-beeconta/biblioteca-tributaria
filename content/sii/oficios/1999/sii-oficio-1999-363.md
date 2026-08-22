@@ -11,7 +11,7 @@
 
 ## Resumen
 
-script>anio_docu(2, 29) A�os Anteriores LEY DE IMPUESTO A LA RENTA 1999 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 y 18�. Diciembre 1999 Word Venta de acciones - Calificaci�n de habitualidad - No se consideran habituales las inversiones en acciones de sociedades de complementaci�n industrial. (Oficio N� 4.563, del 16.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 3�…
+Word Venta de acciones - Calificaci�n de habitualidad - No se consideran habituales las inversiones en acciones de sociedades de complementaci�n industrial. (Oficio N� 4.563, del 16.12.1999).
 
 ## Referencias detectadas
 

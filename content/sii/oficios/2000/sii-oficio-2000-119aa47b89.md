@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-15
+- Fecha: 2000-04-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/marzo04.doc
 - Hash SHA-256: 51b8163c52e75b740816fd751c9b8f85a526cacf68bf61766b7f88d512de27dc
 
 ## Resumen
 
-USTIFY'> Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 1,2 y 3, Art. 8� letra g) - Ley N�11.534. Word Vigencia y eventuales modificaciones de la Ley N� 11.534 cuyo art�culo 1�, declara exentas del pago......(Of. N� 540, de 15.02.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 1 Y 3� Y Art. 8�. Word Solicita pronunciamiento respecto a si la actividad efectuada por la Federaci�n de Sindicatos de Trabajadores Independientes de Taxis Colectivos B�sicos ...…
+Word Solicita pronunciamiento respecto a si la actividad efectuada por la Federaci�n de Sindicatos de Trabajadores Independientes de Taxis Colectivos B�sicos ...(Of. N� 1.216, del 14.04.2000 � I. Indirectos).
 
 ## Referencias detectadas
 

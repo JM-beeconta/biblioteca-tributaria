@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-29
+- Fecha: 1999-11-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre01.htm
 - Hash SHA-256: f1e079fe58b58694e6bb8136a2b68755848eb6a235ccfe11a49598831dd7eebb
 
 ## Resumen
 
-el enajenante, el mayor valor obtenido en la enajenaci�n, hasta la concurrencia del valor que informa la tasaci�n efectuada en conformidad al art�culo 5� de la Ley N� 18.985. (Oficio N� 4.322, del 29.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 14 Situaci�n tributaria del impuesto de Primera Categor�a frente al Registro FUT. (Oficio N� 4306 de 26.11.1999) Renta - Actual Ley sobre Impuesto a la - Art. 6�, Circular N� 143, de 1972. Noviembre 1999 Word Solicitan informaci�n tributaria de los…
+26.11.1999) Renta - Actual Ley sobre Impuesto a la - Art. 6�, Circular N� 143, de 1972. Noviembre 1999
 
 ## Referencias detectadas
 

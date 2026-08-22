@@ -11,7 +11,7 @@
 
 ## Resumen
 
-arial" size="2"> Franquicia Tributaria - Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art. 36�, Circular N� 19, de 23.02.1999. Word Consultas relacionadas con Franquicia Tributaria, relativas al cr�dito por gastos de capacitaci�n contemplada... (Of. N� 383 de 01 de febrero de 2000) DFL N� 2, de 1996 - Art. 5� - beneficio tributario otorgado a subvenciones de establecimientos educacionales. Word Solicita se confirme si es correcto contabilizar dentro de los ingresos normales de la actividad educacional la s…
+Word Solicita se confirme si es correcto contabilizar dentro de los ingresos normales de la actividad educacional la subvenci�n otorgada por el Fisco en conformidad al Art. 5� del DFL N� 2, de 1996. (Of. N� 378, de 01.02.2000 - I. Directos).
 
 ## Referencias detectadas
 

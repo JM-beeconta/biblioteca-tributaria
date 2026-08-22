@@ -11,7 +11,7 @@
 
 ## Resumen
 
-egundo Transitorio de la Ley N� 19.578, de 1998 ... (Of. N� 1.439, de 02.05.2000 - I. Directos ). Ley N� 19.578, de 1998 - Art. 2� Transitorio - Art. 17� N� 8 y N� 13 y Art. 57 bis de la Ley sobre Impuesto a la Renta. Word Situaci�n Tributaria de la Venta de Acciones compradas con fondeos de Indemnizaci�n por a�os de servicio. ( Of. N� 1.418, de 28.04.2000 - I. Directos ). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2 ( D.O. 31.07.59 ) - Circ…
+Directos ). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2 ( D.O. 31.07.59 ) - Circular N� 46, de 1999.
 
 ## Referencias detectadas
 

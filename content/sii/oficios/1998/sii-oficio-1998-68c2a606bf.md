@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-03-06
+- Fecha: 1998-03-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar06.doc
 - Hash SHA-256: 02d7ca59380f447002fbed70b0aaab99ac98d885c79a77ba094dd3f8fa5e2e75
 
 ## Resumen
 
-(Oficio N� 831, del 26.03.1998). Renta - actual ley sobre impuesto a la - Arts. 29� y 30� Word Ingresos obtenidos con motivo de contratos de promesa de venta de inmueble - Incluidos en ingresos brutos del a�o en que se suscriba el contrato de venta... (Oficio N� 783, del 23.03.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 16, Word Gastos de representaci�n - Tratamiento tributario - No constituyen rentas las sumas percibidas, siempre que dichos gastos est�n establecidos en la ley - Interpretaci�n y..…
+Word Gastos de representaci�n - Tratamiento tributario - No constituyen rentas las sumas percibidas, siempre que dichos gastos est�n establecidos en la ley - Interpretaci�n y... (Oficio N� 738, del 17.03.1998).
 
 ## Referencias detectadas
 

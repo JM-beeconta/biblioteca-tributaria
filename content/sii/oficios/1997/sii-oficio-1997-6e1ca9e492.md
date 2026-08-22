@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Improcedencia de recuperar impuesto espec�fico al petr�leo diesel, por empresa de transporte terrestre de carga internacional calificada como exportador. (Of. N� 2.568 del 28/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Arts. 21� y 57�, Noviembre 1997 Improcedencia de devoluci�n de impuesto por facturas de servicios impagos, anuladas con notas de cr�dito (Of. N� 2.567 del 28/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8�, letra g), Noviembre 1997 Impuesto al Valor Agregado en arrendam…
+el 28/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8�, letra g), Noviembre 1997 Impuesto al Valor Agregado en arrendamiento de galp�n modulado dotado de energ�a el�ctrica y alfombra (Of. N� 2.504 del 24/10/97)
 
 ## Referencias detectadas
 

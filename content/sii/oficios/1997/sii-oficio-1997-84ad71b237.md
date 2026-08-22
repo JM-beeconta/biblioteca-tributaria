@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de buses interprovinciales, a empresas de transporte usuarias de ellos, aplicaci�n del Impuesto a las Ventas y Servicios. (Of. No 483, del 04/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Marzo 1997 Suministro de agua de pozo efectuado por una cooperativa agr�cola, aplicaci�n del Impuesto a las Ventas y Servicios. (Of. No 481, del 04/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2 y 23�, Marzo 1997 Utilizaci�n como cr�dito fiscal, d…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2 y 23�, Marzo 1997 Utilizaci�n como cr�dito fiscal, del IVA, soportado en la construcci�n de locales, entregado en comodato de accionistas. (Of. No 475, del 28/02/97. I. Indirectos).
 
 ## Referencias detectadas
 

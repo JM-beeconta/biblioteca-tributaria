@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Competencia del Servicio de Impuestos Internos, respecto del procedimiento de c�lculo de la cotizaci�n adicional de salud a que se refiere el Art. 8�, de la Ley 18.566. (Of. No 1.154, del 03/06/97. I. Directos). Actual Ley Sobre Impuesto a La Renta - Art. 45 y 46., Junio 1997 Tributaci�n de bonificaciones anuales complementarias a las remuneraciones. (Of. No 1.141, del 02/06/97. I. Directos). Franquicias Tributarias - Capacitaci�n y Empleo - Estatuto del Actual Texto - Art. 21�, Junio 1997 Contribuyentes que puede…
+. Directos). Franquicias Tributarias - Capacitaci�n y Empleo - Estatuto del Actual Texto - Art. 21�, Junio 1997 Contribuyentes que pueden acogerse al beneficio tributario establecido en el Art. 21�. (Of. No 1.099, del 23/05/97. I. Directos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-24
+- Fecha: 2000-10-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/noviembre06.doc
 - Hash SHA-256: 2187e62df146504c3955250c2fa66da0a4e4a97bb4c34771bba2c0f06a34ddc0
 
 ## Resumen
 
-rt. 2�, Art. 12� letra d), Art. 36�. Word Calidad de exportaci�n de Ventas de combustible efectuado a empresas de aeronavegaci�n extranjera, en que el combustible es entregado en territorio nacional.( Of. N� 4.120, de 24.10.2000. I. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Art. 13� N� 3� - Art. 20� N� 3� de la Ley de la renta � Circular N�68, del 19.05.1975. Word Aplicabilidad del Impuesto al valor agregado a los establecimientos educacionales que tienen buses, mic…
+Word Aplicabilidad del Impuesto al valor agregado a los establecimientos educacionales que tienen buses, microbuses u otros veh�culos para el transporte de sus alumnos y cobran a �stos una remuneraci�n por este concepto. (of. N� 4.050, de 19.10.2000 � i. Indirectos)
 
 ## Referencias detectadas
 

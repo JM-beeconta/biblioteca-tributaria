@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5246
 - Año: 2000
-- Fecha: 2000-07-27
+- Fecha: 2000-07-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2901.doc
 - Hash SHA-256: 8c6bce9b1575d5b893b5fb70c05f989d1ab5edbeb8121facfa6c4b14e3ec8cb1
 
 ## Resumen
 
-a las � Ley N� 19288, de 1994, Art 2�, Art. 6�. (Ord. N� 2965, de 27.07.2000) Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto adicional a las bebidas alcoh�licas, analcoh�licas y otras similares, a bebidas de fabricaci�n nacional adquiridas en otros pa�ses. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - Ley N� 19.633, de 1999. (Ord. N� 2901, de 25.07.2000) Word Efectos de la Ley N� 19.633, de 1999, en la posterior enajenaci�n de un veh�culo ingresado al…
+Word Efectos de la Ley N� 19.633, de 1999, en la posterior enajenaci�n de un veh�culo ingresado al pa�s al amparo de la Partida 0 del Arancel Aduanero.
 
 ## Referencias detectadas
 

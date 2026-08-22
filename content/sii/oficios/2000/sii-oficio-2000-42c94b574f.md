@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-16
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo10.htm
 - Hash SHA-256: fbbd46df470b8000c7a15bc20548609440d04690afa9d835a40b5c3a06868fd5
 
 ## Resumen
 
-ze='2'> Renta - Actual Ley sobre Impuesto a la - Art. 31� N� 5, Art. 41� N� 2. Word Solicita se aclare el sentido que este Servicio le ha dado a la expresi�n depreciaci�n lineal y la incorporaci�n a ella del factor de acelerada ... ( Of. N� 1.786, de 16.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 20� N� 1 - Art. 3� de la Ley N� 18.985, de 1990 - Circulares N� 58 y N� 63, del a�o 1990. Word Solicita pronunciamiento acerca si constituye o no renta el aumento de capital que tendr�a su repres…
+Renta - Actual Ley sobre Impuesto a la - Art. 20� N� 1 - Art. 3� de la Ley N� 18.985, de 1990 - Circulares N� 58 y N� 63, del a�o 1990.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-03
+- Fecha: 1999-10-28
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/octubre17.doc
 - Hash SHA-256: b5b816265e3a8ac55e2855e85fa79fd62beff8d5dd3f70ba47a6d2df0d0ec0df
 
 ## Resumen
 
-Tributaci�n a que estar�a afecta una Asociaci�n de canalistas cuyos ingresos se componen por los cobros de cuotas a socios y por operaciones realizadas con una empresa el�ctrica por el traspaso de aguas en ciertas temporadas del a�o. (Of. N� 4.030, del 03.11.1999 - I. Directos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999. Octubre 1999 Word Si deudores de la obligaci�n hipotecaria mantienen el derec…
+Word Si deudores de la obligaci�n hipotecaria mantienen el derecho a usufructuar de la franquicia tributaria en el caso de cesi�n de los mutuos hipotecarios endosables a terceras personas y la venta de viviendas por los bancos con saldo de precios a potenciales compradores. (Of. N� 3.979, de 28.10.1999 - I. Directos).
 
 ## Referencias detectadas
 

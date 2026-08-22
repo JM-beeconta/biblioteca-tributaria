@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-28
+- Fecha: 2000-12-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4841.htm
 - Hash SHA-256: 79d375ddbc68b242749a53a1a64055bc44faf677d9f18a0b9911a857d2f144b3
 
 ## Resumen
 
-ce='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 4935 de 28.12.2000) Word Aplicaci�n del art�culo 21�, del D.L. N� 910, de 1975, al contrato celebrado para la edificaci�n de departamentos, construidos como parte de un proyecto de remodelaci�n de un edificio existente. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� bis, Art. 23�. (Ord. N� 4841, de 18.12.2000) Word Solicita pronunciamiento sobre so…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� bis, Art. 23�. (Ord. N� 4841, de 18.12.2000)
 
 ## Referencias detectadas
 

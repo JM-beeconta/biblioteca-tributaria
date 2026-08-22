@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-01
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero04.htm
 - Hash SHA-256: 326081b32930dc71da5e67518da94216ad7e888ab61fd0bdaa0ac2ae6f1fc46d
 
 ## Resumen
 
-Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18� - circular N� 158, de 1976. Word Tributaci�n que afecta a la enajenaci�n de acciones. (Of. N� 382, del 01.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18�. Word Tratamiento tributario aplicable al resultado obtenido en la enajenaci�n de acciones realizada por una sociedad de inversiones.. (Of. N� 381, del 01.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18� Word Tributaci…
+Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18�.
 
 ## Referencias detectadas
 

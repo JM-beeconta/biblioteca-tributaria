@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-23
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo23.htm
 - Hash SHA-256: 2679f3af3f80eea86c75b21aa714f9c564f0de8ca6b4ac053713bdb6b50221b6
 
 ## Resumen
 
-stancia del deseo de acogerse a dicha franquicia. (Of. N� 1.997, de 23/05/2000 - I. Directos). Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Decreto Ley N� 3.475, de 1980 - Circular N� 48, de 1987 y Circular N� 50, de 1986. Word Factibilidad de emitir voucher expresados en valores reajustables. (Of. N� 1.801, de 17.05.2000 - Depto. T�cnica Tributaria ) Ley N� 19.578, de 1998, Art. 2� Transitorio - Art. 14�, letra A) N� 1, letra C) - Art. 17� N� 8 - Art. 20� N� 2 de la Ley de la Renta - Circular N�…
+Tributaria ) Ley N� 19.578, de 1998, Art. 2� Transitorio - Art. 14�, letra A) N� 1, letra C) - Art. 17� N� 8 - Art. 20� N� 2 de la Ley de la Renta - Circular N� 59, de 1998 - Art. 69 del C�digo Tributario.
 
 ## Referencias detectadas
 

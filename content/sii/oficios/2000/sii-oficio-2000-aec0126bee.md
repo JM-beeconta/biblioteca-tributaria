@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-28
+- Fecha: 2000-04-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo09.doc
 - Hash SHA-256: f0fe1e057739a0e58dad94c3c246e99abfac6ddb39d84fd81ca3743656079d0e
 
 ## Resumen
 
-a> Word Solicita pronunciamiento acerca si constituye o no renta el aumento de capital que tendr�a su representada producto de la transformaci�n ... ( Of. N� 1.412, de 28.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 41 bis. Word Solicita se indique el procedimiento que corresponde aplicar en la Declaraci�n Anual de Impuesto a la Renta, en el c�lculo de los intereses de dep�sitos en d�lares. ( Of. N� 1.261, de 17.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuestos a la - Art. 17� N�…
+Word Solicita se indique el procedimiento que corresponde aplicar en la Declaraci�n Anual de Impuesto a la Renta, en el c�lculo de los intereses de dep�sitos en d�lares. ( Of. N� 1.261, de 17.04.2000 - I. Directos )
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 738
 - Año: 1998
-- Fecha: 1998-03-26
+- Fecha: 1998-03-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar06.htm
 - Hash SHA-256: 02cbea5a19fa2fd9c5491591fb33b1f5b747f48b508b98eb01eb001ad9dc886c
 
 ## Resumen
 
-establecido en Art. 46�, de la Ley de Rentas Municipales - Requisitos de instituciones... (Oficio N� 831, del 26.03.1998). Renta - actual ley sobre impuesto a la - Arts. 29� y 30� Word Ingresos obtenidos con motivo de contratos de promesa de venta de inmueble - Incluidos en ingresos brutos del a�o en que se suscriba el contrato de venta... (Oficio N� 783, del 23.03.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 16, Word Gastos de representaci�n - Tratamiento tributario - No constituyen rentas las sum…
+23.03.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 16,
 
 ## Referencias detectadas
 

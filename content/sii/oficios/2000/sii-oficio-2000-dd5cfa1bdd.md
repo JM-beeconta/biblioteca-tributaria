@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-24
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio03.htm
 - Hash SHA-256: d013ceca99bcd301743050e84603d82a67dde0489add991dec067a49fb8e4bea
 
 ## Resumen
 
-1'> Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8�, letra m) - Art. 52 y sgtes. - Art. 97�, N� 10, del C�digo Tributario - Art. 6�, letra a, N� 1 del D.L. N� 830, de 1974. Word Solicitan se se�ale qui�n debe emitir la factura en remate judicial en el evento de negativa ausencia del ejecutado. (Of. N� 2.034, de 24/05/2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 2, - Art. 20� N� 3 y 4 de la Ley de la Renta - Art. 126� y 128� del C�digo Tributario. Word Tr…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 2, - Art. 20� N� 3 y 4 de la Ley de la Renta - Art. 126� y 128� del C�digo Tributario.
 
 ## Referencias detectadas
 

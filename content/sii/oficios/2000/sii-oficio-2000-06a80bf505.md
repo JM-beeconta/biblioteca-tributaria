@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-31
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero19.htm
 - Hash SHA-256: c62f994b3cd46fca8f5f568ed2884a1860f6a5017a34343be3decbdbce662a85
 
 ## Resumen
 
-beneficio tributario. (Of. N� 351, del 31.01.2000 - I. Directos). C�digo tributario - actual texto - Art. 28� - Art. 3� y 507�, del c�digo de comercio - circular N� 29, de 1999. Word Improcedencia de la celebraci�n de un contrato de asociaci�n o cuentas en participaci�n entre personas que no sean calificadas de comerciantes. (Of. N� 350, de 31.01.2000 - I. Directos). C�digo tributario - actual texto - Art. 28� - Art. 14� de ley de la renta - Art. 507 al 511 del c�digo de comercio - circular N� 29, de 1999 Word Se…
+. Directos). C�digo tributario - actual texto - Art. 28� - Art. 14� de ley de la renta - Art. 507 al 511 del c�digo de comercio - circular N� 29, de 1999
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-05
+- Fecha: 1999-10-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre06.doc
 - Hash SHA-256: 105befd0a9c45af2b0ffa330312407e554dc330a736829f1b09eee41679622cb
 
 ## Resumen
 
-de venta - Art. 1.915 Y 1.916 C. Civil - Circular N� 41, de 1990. Septiembre 1999 Word Tratamiento Tributario De Cuotas De Pago Del Precio De Un Contrato De Leasing Para La Adquisici�n De Terreno En Que Se Construir� Una Nueva Planta Industrial. (Of. N� 3.747, Del 05.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N�S. 1 Y 3 - Art. 8� letras C) Y F), D.L. N� 825. Septiembre 1999 Word T�rmino De Giro De Un Comerciante Que Fallece Y Que Debe Realizar La Comunidad De Sus Hered…
+Word T�rmino De Giro De Un Comerciante Que Fallece Y Que Debe Realizar La Comunidad De Sus Herederos. (Of. N� 3.736, Del 04.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

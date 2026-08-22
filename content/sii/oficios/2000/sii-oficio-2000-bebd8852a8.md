@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-18
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros1140.htm
 - Hash SHA-256: de609fe3faf1bea302d75b38ccd7d152e9b3568db107c4493d5dd139d11c4694
 
 ## Resumen
 
-rias sujetas a las normas establecidas en la Ley N� 18.401 ... (Of. N� 1.277, de 18.04.2000 - I. Directos ) Ley N� 18.768, Art. 13� ( D.O. 29.12.88 ). Word Concepto de costo a que se refiere el art�culo 13� de la Ley N� 18.768 de 1988, para los efectos de la recuperaci�n como pago provisional del impuesto Adicional pagado sobre ... (Of. N� 1.258, de 17.04.2000 - I. Directos ). Ley N� 19.542, de 1997 � Art�culo 4� Transitorio � Art. 178 del C�digo del Trabajo � Art. 17� N� 13 de la Ley sobre Impuesto a la Renta � A…
+Directos ). Ley N� 19.542, de 1997 � Art�culo 4� Transitorio � Art. 178 del C�digo del Trabajo � Art. 17� N� 13 de la Ley sobre Impuesto a la Renta � Art. 126 del C�digo Tributario.
 
 ## Referencias detectadas
 

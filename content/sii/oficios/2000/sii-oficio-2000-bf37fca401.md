@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-03
+- Fecha: 2000-12-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4920.htm
 - Hash SHA-256: 9ae13d319851e9183b1ea1df99f5bedeb796aad92187ef0f3a28fc3f091c263f
 
 ## Resumen
 
-p align='JUSTIFY'> Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3. (Ord. N�9, de 03.01.2000) Word Forma de recuperar el Impuesto de Primera Categor�a en el caso de utilidades tributables absorbidas por p�rdidas tributarias. Rentan � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 61�, Art. 62�. (Ord. N� 4920, de 27.12.2000) Word Tributaci�n que afecta a chileno que se radica en el exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8. (Ord. N� 4840, de 18.12.2000) Word Tributaci�n que a…
+Rentan � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 10�, Art. 61�, Art. 62�. (Ord. N� 4920, de 27.12.2000)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-10
+- Fecha: 2000-07-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2965.doc
 - Hash SHA-256: 037fddc9d04ffcfe7f3b18225d6c8f8d97533f97145f7366fedb951a011a310f
 
 ## Resumen
 
-ref='ventas/ja3929.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las- Art. 8�, letra g). (Ord. N� 3929, de 10.10.2000) Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19288, de 1994, Art 2�, Art. 6�. (Ord. N� 2965, de 27.07.2000) Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto adicional a las bebida…
+Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto adicional a las bebidas alcoh�licas, analcoh�licas y otras similares, a bebidas de fabricaci�n nacional adquiridas en otros pa�ses.
 
 ## Referencias detectadas
 

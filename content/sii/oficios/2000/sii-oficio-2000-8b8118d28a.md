@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-17
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero03.htm
 - Hash SHA-256: 755639d68914c6d19782ace4aa873ab77332bc1e1092818cc0496f8befd9d879
 
 ## Resumen
 
-Art. 17�, N� 13� - Art. 46� - Art. 161 al 163 - Art. 172� y Art. 178� del C�digo del Trabajo - Circular N� 10, de 1999, N� 29, de 1991 y N� 37 de 1990. Word Tributaci�n de Indemnizaciones pactadas en Contratos Colectivos y canceladas conjuntamente con... (Oficio N� 575, del 17.02.2000 - I. Directos) Renta - Actual Ley sobre Impueto a la - Art. 17�, N� 8, Art. 64� del C�digo Tributario. Word Solicita se confirme que el aporte en dominio de acciones de una Sociedad An�nima es suceptible... (Oficio N� 676, del 29.02.…
+Renta - Actual Ley sobre Impueto a la - Art. 17�, N� 8, Art. 64� del C�digo Tributario.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iones a que qe refiere el DFL N� 1, de 1986. Word Instituci�n solicita autorizaci�n para ser considerada donataria apta para recibir donaciones susceptibles de descuentos tributarios y emitir los certificados pertinentes. (Of. N� 363, del 31.01.2000 - I. Directos) Ley N� 19.622- establece beneficio tributario por adquisici�n de viviendas nuevas acogidas a normas del DFL N� 2. (D.O. 31.07.59) - circular N� 46, de 1999. Word Se solicita aclaraci�n de consultas relacionadas sobre la aplicaci�n del beneficio tributari…
+Word Se solicita aclaraci�n de consultas relacionadas sobre la aplicaci�n del beneficio tributario. (Of. N� 351, del 31.01.2000 - I. Directos).
 
 ## Referencias detectadas
 

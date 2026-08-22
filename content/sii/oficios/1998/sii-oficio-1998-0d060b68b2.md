@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-12-09
+- Fecha: 1998-11-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/dic02.htm
 - Hash SHA-256: c94f2dd36671b53fa41723e062d84d5e8e19b4858c58e90ec108b9ce01c772ae
 
 ## Resumen
 
-ario 22, AT 1998 � Remanente del cr�dito que qued� pendiente... (Oficio N� 3.364, de 09.12.1998). Ley sobre Impuesto a la Renta � Arts. 14 y 39 N� 4 LIR, Word Efectos tributarios del retiro de un bien ra�z por parte del socio de una sociedad agr�cola, (Oficio N� 3182, de 23.11.1998). Renta - Actual ley sobre impuesto a la . Art. 17�, N� 15 Word Aceptaci�n como gasto de los desembolsos en que incurran empleados en actividades de ventas por el uso de sus propios autom�viles � Procedimiento, Circular N� 59, de 1997..…
+23.11.1998). Renta - Actual ley sobre impuesto a la . Art. 17�, N� 15
 
 ## Referencias detectadas
 

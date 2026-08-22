@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 33�, N�1, letra e) � C�digo Tributario, Art. 64� � Convenio entre la Rep�blica de Argentina y la Rep�blica de Chile para evitar la doble Tributaci�n en Materia de Impuestos sobre la Renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio, Art. 2�, Letra e), Letra k), Art. 12�. (Ord. N� 4.657, de 01.12.2000) Word Situaci�n Tributaria de p�rdida Obtenida en la Operaci�n de Venta de Acciones que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 74� N� 2�, Ar…
+Word Situaci�n Tributaria de p�rdida Obtenida en la Operaci�n de Venta de Acciones que se indica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-29
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros3798.htm
 - Hash SHA-256: 0f8dd8eac752b57301b730ea363e454775923902783beaa913861cea4bb49df6
 
 ## Resumen
 
-exportaciones. Exenci�n de impuesto de timbres y estampillas Art. 24, N� 11. (Of. N� 3.843, de 29.09.2000 - Depto. de T�cnica Tributaria.) C�digo Tributario - Actual Texto � Art.17� Y Art. 18�. Word Forma de determinar los resultados tributarios en el caso de contribuyentes que lleven contabilidad en moneda extranjera. (Of. N� 3.839, de 29.09.2000 � I. Directos). Beneficio Tributario � Decreto Ley N� 889, de 1975 � Art. 13�. Word Vigencia de la exenci�n tributaria, para los pensionados que residen en la XI, XII y…
+. Directos). Beneficio Tributario � Decreto Ley N� 889, de 1975 � Art. 13�.
 
 ## Referencias detectadas
 

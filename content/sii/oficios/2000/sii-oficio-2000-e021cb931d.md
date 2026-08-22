@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-24
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero22.htm
 - Hash SHA-256: 7220af05a2f42300c0864b8fe9d554852577e7d9a4fc2dd021c30e0d39ce259c
 
 ## Resumen
 
-nes ben�ficos. (Of. N� 197, de 24.02.2000 - I. Directos). Ley N� 19.578, de 1998, Art. 3� transitorio - Art. 100� de la ley N� 18.045 - Art. 20�, N� 1, Art. 39�, N� 3, de la ley de la Renta. Word Forma de determinar la renta de los bienes ra�ces no agr�colas cuando la de algunos de ellos es inferior al 11% del aval�o fiscal. (Of. N� 149, de 20.01.2000 - I. Directos) Franquicias Tributarias - Decreto Ley N� 910 - Art. 21�. Word Instrucciones existentes sobre la franquicia aplicable a las empresas constructoras cuan…
+I. Directos) Franquicias Tributarias - Decreto Ley N� 910 - Art. 21�.
 
 ## Referencias detectadas
 

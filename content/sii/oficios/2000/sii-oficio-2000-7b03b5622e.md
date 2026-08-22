@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-20
+- Fecha: 2000-09-06
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/septiembre14.doc
 - Hash SHA-256: d8eb446bb285c8076805ff254bc3c6042f6f682e481d7e41687654d8a21189d1
 
 ## Resumen
 
-vo Texto - Ley sobre Impuesto de - Art. 1� N� 3�, Art. 24� N� 9�, Decreto Ley N� 3.475, de 1980 - Circular N� 121, DE 1974. Word C�lculo del Impuesto de Ley de Timbres y Estampillas a l�nea de Cr�dito. (Of. N� 3.733, de 20.09.2000 - Depto. de T�cnica Tributaria.) Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 1� N� 3� inciso 1�, Decreto Ley N� 3.475, de 1980 - Art. 1�, Ley N� 18.010, de 1981. Word Solicita se informe si procede o no el pago del Impuesto de Timbres y Estampillas, respecto del re…
+Word Solicita se informe si procede o no el pago del Impuesto de Timbres y Estampillas, respecto del reconocimiento de deuda que consta de la escritura ... (Of. N� 3.564, de 06.09.2000 - Depto. T�cnica Tributaria.)
 
 ## Referencias detectadas
 

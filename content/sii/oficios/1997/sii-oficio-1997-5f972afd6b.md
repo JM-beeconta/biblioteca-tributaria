@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-05-07
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/may05.htm
 - Hash SHA-256: 8766fa1424fd8444c08fe4a273eddbc3b7dfb4f12e6573c2e658a71d0833ed19
 
 ## Resumen
 
-el caso de permuta de inmuebles entre sociedades. (Of. No 954, del 07/05/97. I. Directos). Ley sobre impuesto a la Renta-Art. 41 N�9 Determinaci�n del resultado tributario en la enajenaci�n de derechos sociales efectuada por contribuyentes obligados a determinar su renta efectiva mediante contabilidad completa. (Of. N� 953 de 07-05-1997). Renta - Actual Ley Sobre Impuesto a La - Art. Nos. 17� No. 8 y 18� Calidad no habitual de la enajenaci�n de acciones efectuadas por una empresa cuyo capital le pertenece en m�s d…
+5-1997). Renta - Actual Ley Sobre Impuesto a La - Art. Nos. 17� No. 8 y 18� Calidad no habitual de la enajenaci�n de acciones efectuadas por una empresa cuyo capital le pertenece en m�s de un 50% de la sociedad emisora de las acciones. (Of. No 945, del 06/05/97. I. Directos)
 
 ## Referencias detectadas
 

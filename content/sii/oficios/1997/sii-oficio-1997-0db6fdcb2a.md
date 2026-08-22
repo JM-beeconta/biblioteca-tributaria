@@ -11,7 +11,7 @@
 
 ## Resumen
 
-al que deben corresponder los datos para determinar el monto del IVA recuperable por los exportadores, en el caso que la venta al exterior.. (Of. N� 2.740 del 11/11/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8�, letra g), Noviembre 1997 Impuesto al Valor Agregado en servicio de monta de caballo de fina sangre de carrera, destinado a reproductor. (Of. N� 2.634, del 20/10/97) Ley de Impuesto a las Ventas y Servicios Procedencia o no de la aplicaci�n del cr�dito especial del art. 21 del D.L. N�910, de…
+el 20/10/97) Ley de Impuesto a las Ventas y Servicios Procedencia o no de la aplicaci�n del cr�dito especial del art. 21 del D.L. N�910, de 1975, en proyectos del gobierno Regional relacionadas con la construcci�n. (Of. 2630 de octubre de 1997)
 
 ## Referencias detectadas
 

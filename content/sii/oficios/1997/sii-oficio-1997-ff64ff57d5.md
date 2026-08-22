@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-10-03
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/oct08.htm
 - Hash SHA-256: cb296fd9c88ad6164bfd4134265661f1773bc7de571a2a98c60b19ee8c753de7
 
 ## Resumen
 
-ia de los retiros efectuados por un socio de una sociedad de personas (Ord. N� 2.315, del 03/10/1997) Renta - Actual Ley sobre Impuesto a la - Art. 20�. N� 5 Situaci�n tributaria del arrendamiento de derechos sociales de una sociedad de responsabilidad limitada, celebrado entre c�nyuges separados totalmente de bienes (Of. N� 2.314 del 3/10/97) Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 2, Alcance del concepto comisiones pagadas al exterior para los efectos de la exenci�n del Impuesto Adicional. (Of. N�…
+3/10/97) Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 2, Alcance del concepto comisiones pagadas al exterior para los efectos de la exenci�n del Impuesto Adicional. (Of. N� 2.313 del 3/10/97).
 
 ## Referencias detectadas
 

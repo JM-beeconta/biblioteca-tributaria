@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 46� - Ley N� 19.542 - Oficio N� 1.140, de 2000. (Ord. N� 4611, de 29.11.2000) Word Procedencia de devoluci�n de impuesto �nico a los trabajadores del art�culo 42 N� 1 de la Ley de la Renta, en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 69�. (Ord. N� 4609, de 29.11.2000) Word Resuelve consultas formuladas por Congregaci�n Religiosa que se indica. Renta - Actual Ley Sobre Impuesto a la � Art. 31�, N�5, Art. 41�, N�2. (Ord. N� 4428…
+Renta � Actual Ley Sobre Impuesto a la � Art. 69�. (Ord. N� 4609, de 29.11.2000)
 
 ## Referencias detectadas
 

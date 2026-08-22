@@ -11,7 +11,7 @@
 
 ## Resumen
 
-compromisos parciales de compraventa. (Of. N� 2.568, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 1, inciso 2� - Art. 19�, N� 24, inciso 3� Constituci�n Pol�tica del Estado - Art. 38� Ley Org�nica de Procedimiento de Expropiaciones, aprobada por D.L. N� 2.186, de 1978. Word Tributaci�n que afecta a la indemnizaci�n otorgada por el Estado por expropiaci�n de un bien ra�z. (Of. N� 2.571, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.14�. Word Tratamie…
+Word Tributaci�n que afecta a la indemnizaci�n otorgada por el Estado por expropiaci�n de un bien ra�z. (Of. N� 2.571, de 29.06.2000 - I. Directos)
 
 ## Referencias detectadas
 

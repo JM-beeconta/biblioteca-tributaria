@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 537
 - Año: 1999
-- Fecha: 1999-02-02
+- Fecha: 1999-01-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene05.doc
 - Hash SHA-256: 3d3c2227c5da00c2396f70b2125c3caffe5f7c569526d5f9df93fac7ff29111a
 
 ## Resumen
 
-ace="arial" size="2"> Renta - Actual ley sobre impuesto a la - Art. 17�, N� 10 Febrero 1999 Word Compa��as de seguros � Eventuales beneficios que obtengan al extinguirse la obligaci�n de pago de una renta vitalicia � Inaplicabilidad de la norma contenida en el N� 10, del art�culo 17�... (Oficio N� 337, del 02.02.1999). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 13 Enero 1999 Word Indemnizaciones por a�os de servicios � Tratamiento tributario � Indemnizaciones pagadas en virtud de una ley � En su totalid…
+Word Indemnizaciones por a�os de servicios � Tratamiento tributario � Indemnizaciones pagadas en virtud de una ley � En su totalidad no constituye renta � Cuantificaci�n debe considerar... (Oficio N� 233, del 28.01.1999)
 
 ## Referencias detectadas
 

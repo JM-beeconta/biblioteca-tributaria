@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"0" width="630"> A�os Anteriores OTRAS 1997 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Ley N� 19.533 - Arts. 3� y 12�, Word Aguinaldo de Navidad y de Fiestas Patrias - Trabajadores que ley se�ala - Beneficios no imponibles - Ingresos afectos a Impuesto Unico de Segunda Categor�a - Aplicaci�n del... (Oficio N� 3140, del 30.12.1997). Franquicias tributarias - Capacitaci�n y empleo, Estatuto de - Actual Texto - ART. 21� Decreto con fuerza de…
+Ley N� 19.533 - Arts. 3� y 12�,
 
 ## Referencias detectadas
 

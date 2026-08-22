@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-04
+- Fecha: 1998-11-02
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/nov09.doc
 - Hash SHA-256: 10133ec1e4e96bd368acab2425c0c83989fc70750cb3845d29d9df799445bfcf
 
 ## Resumen
 
-"> C�digo tributario - Actual texto - Arts. 126� y 128� Noviembre 1998 Word Servicios de recepci�n, acopio y disposici�n final de la basura, conformando un relleno sanitario - No gravados con IVA, por provenir del ejercicio de actividades clasificadas en el N� 5... (Oficio N� 2.953, del 04.11.1998) Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 30� Noviembre1998 Word Sistema de capacitaci�n y empleo - Objetivos - Incumbe a las empresas atender las necesidades de capacitaci�n de…
+Word Sistema de capacitaci�n y empleo - Objetivos - Incumbe a las empresas atender las necesidades de capacitaci�n de sus trabajadores - Franquicia en favor de contribuyentes de la rimera Categor�a. (Oficio N� 2.925, del 02.11.1998)
 
 ## Referencias detectadas
 

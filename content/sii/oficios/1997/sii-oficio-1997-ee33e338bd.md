@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2, Noviembre 1997 Impuesto al Valor Agregado en servicios consistentes en custodia, almacenamiento y bodegaje de todo tipo de papeles, memoriales, y documentos... (Of. N� 2.415 del 15/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 3�, Noviembre 1997 Impuesto al Valor Agregado en servicios utilizados por Asociaciones de Canalistas. (Of,. 2.338 , 7/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 23�, Octubre 1997 Situaci�n del cr�dito fiscal IVA por servicios recibidos de una empresa ope…
+8 , 7/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 23�, Octubre 1997 Situaci�n del cr�dito fiscal IVA por servicios recibidos de una empresa operadora de tarjetas de cr�dito (Of. 2.287 del 1/10/97)
 
 ## Referencias detectadas
 

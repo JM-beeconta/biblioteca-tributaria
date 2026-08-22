@@ -11,7 +11,7 @@
 
 ## Resumen
 
-embre11.doc">Word Impuesto De Timbres Y Estampillas Que Afecta A Los Actos De Protesto De Letras De Cambio Y Pagar�s A La Orden, Aceptados A Favor De Una Universidad Del Estado O Reconocida Por �ste. (Of. N� 3.819, Del 13.10.1999 - I. Indirectos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2. (D.O. DE 31.07.59) - ART. 43�, N� 1 Y 52� de la Ley de la Renta. Septiembre 1999 Word Situaci�n Del Beneficio Tributario Por La Compra De Una Vivienda…
+Word Situaci�n Del Beneficio Tributario Por La Compra De Una Vivienda Nueva Acogida A D.F.L N� 2, La Cual Posteriormente Es Donada A Los Hijos O C�nyuge Del Adquirente. (Of. N� 3.817, Del 13.10.1999 - I. Directos).
 
 ## Referencias detectadas
 

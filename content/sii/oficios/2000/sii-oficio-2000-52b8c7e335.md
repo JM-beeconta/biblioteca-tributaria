@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-11-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4593.doc
 - Hash SHA-256: 76486da90c73c9b469a5462a6dae851fb93dfa78fefb762901e5b5dd7f20de51
 
 ## Resumen
 
-ntas/ja4617.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 25� - Res. Ex. N� 2.107, de 1983. (Ord. N� 4617, de 29.11.2000) Word El documento original de la factura, respalda el uso del Cr�dito Fiscal del IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 18.502, Art. 6�, letra b), Art. 7� - Circular N� 32, d e 1986. (Ord. N� 4593, de 28.11.2000) Word Recuperaci�n del impuesto espec�fico al petr�leo diesel, establecido en el art�culo 6�, letra…
+Word Recuperaci�n del impuesto espec�fico al petr�leo diesel, establecido en el art�culo 6�, letra b), de la Ley N� 18.502, utilizado en camiones empleados en faenas de movimiento de tierras.
 
 ## Referencias detectadas
 

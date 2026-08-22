@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-26
+- Fecha: 2000-04-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo13.doc
 - Hash SHA-256: e559a4d91abdbedbb8a067c77edebbf78c7babe66c09be77940ff92eadc0c148
 
 ## Resumen
 
-Inversiones en dep�sitos a plazo a m�s de un a�o, tomados con anterioridad al 1� de agosto de 1998 y acogidos al beneficio establecido en el Art. 57 bis, de la Ley de la Renta. (Of. N� 1.364, de 26.04.2000 ) Renta - Actual Ley sobre Impuesto a la - Art. 42� N� 1 - Art. 46� inciso 1�. Word Solicita aclaraci�n respecto de las normas Tributarias que corresponde aplicar en caso de extranjero que ingresa al pa�s, acreditando que constituy� ... ( Of. N� 1.413 de 28.04.2000 - I. Directos ) Renta - Actual Ley sobre Impues…
+Word Solicita aclaraci�n respecto de las normas Tributarias que corresponde aplicar en caso de extranjero que ingresa al pa�s, acreditando que constituy� ... ( Of. N� 1.413 de 28.04.2000 - I. Directos )
 
 ## Referencias detectadas
 

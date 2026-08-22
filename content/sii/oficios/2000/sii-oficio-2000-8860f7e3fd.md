@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-26
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/octubre04.htm
 - Hash SHA-256: 001a7c8995259752f65f98ccb1391d4dede7469dac0c6095fb817568f64f8f2b
 
 ## Resumen
 
-Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 4�, Art. 36� - Art. 126 del C�digo Tributario - Decreto Supremo de Econom�a N� 348, de 1975. Word Recuperaci�n del impuesto al valor agregado exportador y aplicaci�n del plazo establecido en el art�culo 2� letra b) , del Decreto Supremo de Econom�a N� 348, de 1975. (Of. N� 3.797, de 26.09.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2�, Art. 8�- Art. 20� N� 4�, de Ley de la Renta. Word Impuesto al valor agregad…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2�, Art. 8�- Art. 20� N� 4�, de Ley de la Renta.
 
 ## Referencias detectadas
 

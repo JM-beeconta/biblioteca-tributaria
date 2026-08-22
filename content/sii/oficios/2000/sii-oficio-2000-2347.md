@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2347
 - Año: 2000
-- Fecha: 2000-06-23
+- Fecha: 2000-05-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja1537.doc
 - Hash SHA-256: 370d28a38a94f4b42f171637441bbb161d62d35f81a100c3c4bec54d43495924
 
 ## Resumen
 
-23.06.2000) Word Contribuyentes que tienen derecho a acogerse al beneficio tributario establecido por la Ley N� 19.622, de 1999. Renta - Actual Ley Sobre Impuesto a la - (Art. 59�, Art. 74�, N�4, Art. 79�. (Ord. N� 1537, 11.05.2000) Word Tributaci�n de los intereses provenientes de bonos pagaderos en moneda extranjera y expresados en pesos o en unidades de fomento. Renta - Actual Ley Sobre Impuesto a la - Art. 57� bis � Ley N� 19.578, Art. 18� - Circulares N� 56 de 1993 y N� 71, de 1998. (Ord. N� 1.522, de 09.05.2…
+Word Tributaci�n de los intereses provenientes de bonos pagaderos en moneda extranjera y expresados en pesos o en unidades de fomento.
 
 ## Referencias detectadas
 

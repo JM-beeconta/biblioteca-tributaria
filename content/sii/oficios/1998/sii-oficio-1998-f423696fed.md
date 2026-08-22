@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-10
+- Fecha: 1998-09-03
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/may07.htm
 - Hash SHA-256: beb7af402a701efd94248035349a11ab78a36ca3b58df6c937737172272d0095
 
 ## Resumen
 
-s del impuesto. (Oficio N� 2.501, del 10.09.1998) Franquicias tributarias - Capacitaci�n y empleo - Estatuto y empleo de - Art. 36�. Septiembre 1998 Word Corporaciones - Programas de capacitaci�n ocupacional de sus trabajadores - Ley N� 19.518, nuevo Estatuto de Capacitaci�n y Empleo - Art. 36� , mantiene sin variaciones el beneficio... (Oficio N� 2.339, del 03.09.1998). C�digo tributario - Actual texto - Art. 8�, N� 13 - Renta - Actual ley de impuesto a la - Arts. 14� Y 38� Bis -Ventas y servicios - nuevo impuest…
+03.09.1998). C�digo tributario - Actual texto - Art. 8�, N� 13 - Renta - Actual ley de impuesto a la - Arts. 14� Y 38� Bis -Ventas y servicios - nuevo impuesto a la - Art.. 8�, Letra d) Mayo 1998
 
 ## Referencias detectadas
 

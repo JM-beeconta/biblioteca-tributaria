@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N� 37, de 1990. Word Periodo tributario en que deben declarar las rentas accesorias o complementarias que se indican. (Of. N� 3.158, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 41�A. Word Contribuyentes obligados a inscribirse en el Registro de Inversiones en el Extranjero que lleva el SII. (Of. N� 3.157, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 41�, bis. Word C�lculo de intereses en el caso de dep�sitos en moneda extranjera. (Of. N� 3.110,…
+Word Contribuyentes obligados a inscribirse en el Registro de Inversiones en el Extranjero que lleva el SII. (Of. N� 3.157, de 10.08.2000 - I. Directos)
 
 ## Referencias detectadas
 

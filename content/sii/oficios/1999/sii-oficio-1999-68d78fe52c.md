@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-16
+- Fecha: 1999-04-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr02.htm
 - Hash SHA-256: 4ce3ecac7bd8bc25857e6764c65ddb0e490d09d7676c90c3bc4608e27ac47f26
 
 ## Resumen
 
-nimas abiertas que cumplan ciertas condiciones... (Oficio N� 1.474, del 16.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59�, N� 4 Abril 1999 Word Impuesto adicional que afecta a naves extranjeras por fletes mar�timos � Exenci�n sobre base de reciprocidad � Facultad de emitir certificado de dicha norma, est� radicada en... (Oficio N� 1179, del 08.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 Letra a) y 18� Abril 1999 Word Mayor valor obtenido en la enajenaci�n de acciones � Calificac…
+08.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 Letra a) y 18� Abril 1999
 
 ## Referencias detectadas
 

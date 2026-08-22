@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-01
+- Fecha: 1998-02-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/feb05.doc
 - Hash SHA-256: 8fc0f2ec1f424aed3e03829312a506fff2869e2c62e2d7761e76f377c3155670
 
 ## Resumen
 
-1.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 17�, N�8, Letra a) y 18), Word Enajenaci�n de acciones - Mayor valor obtenido - Tratamiento tributario - Contribuyente habitual en dicho tipo de operaciones, gravado con impuestos generales de la Ley... (Oficio N� 504, del 11.02.1998). Renta - Actual ley sobre impuesto a la Art. 50� Word Ingresos profesionales - Rentas Art. 42�, N� 2, Ley de la Renta - Contribuyentes que opten por rebajar gastos efectivos, deben atenerse a las normas... (Oficio N� 491, del…
+Word Ingresos profesionales - Rentas Art. 42�, N� 2, Ley de la Renta - Contribuyentes que opten por rebajar gastos efectivos, deben atenerse a las normas... (Oficio N� 491, del 10.02.1998).
 
 ## Referencias detectadas
 

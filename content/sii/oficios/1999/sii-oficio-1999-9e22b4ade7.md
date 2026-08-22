@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20� N�s 1,2,3,4 y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n aplicable a prestaciones que efectuar� Universidad a terceros - Universidades son contribuyentes de primera categor�a - Sus rentas derivadas del desarrollo de actividades clasificadas. Oficio N� 4.464, del 10.12.1999 Ventas Y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20�, N�s 3, 4 y 5 de la Ley de la Renta. Diciembre 199…
+l 10.12.1999 Ventas Y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20�, N�s 3, 4 y 5 de la Ley de la Renta. Diciembre 1999
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-12-22
+- Fecha: 1997-12-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/dic09.htm
 - Hash SHA-256: b8de6f7150ebdddf5eef5970d767e9419f4b4b0be8cb7640289bd63169c5984d
 
 ## Resumen
 
-el Area de Turismo Receptivo. (Of. N�3066 de 22 de diciembre de 1997) Ventas y Servicios - Nuevo Texto impuesto a las -Art. 42� Word Impuesto Adicional a las bebidas alcoh�licas - Decreto Supremo N� 78, de 31.07.1986, Ministerio de Agricultura - Definiciones de c�ctel, licor y cola de mono.... (Oficio N� 3033, del 18.12.1997) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 2�, N� 1 y 3�, Diciembre 1997 Supervisi�n de la edificaci�n de un inmueble no es prestaci�n que integre la construcci�n misma del bien (…
+18.12.1997) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 2�, N� 1 y 3�, Diciembre 1997 Supervisi�n de la edificaci�n de un inmueble no es prestaci�n que integre la construcci�n misma del bien (Of. N� 2.742, del 11/11/97)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-25
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto02.htm
 - Hash SHA-256: 80e17717a24d0961d77c64e91e2b27477f191cf017950baa44c21a873138b399
 
 ## Resumen
 
-ign="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 45� y 46� - Art. 6�, letra b, N� 9 del C�digo Tributario. Agosto 1999 Word Momento en que debe considerarse para efectos tributarios el beneficio recibido consistente en un premio de antig�edad que el empleador paga al trabajador al cumplimiento del plazo establecido en el contrato para recibirlo. (Oficio N� 3.224, del 25.08.1999 � I. Directos). Renta - Actual Ley Sobre Impuesto a la - Arts. N� 21�. Agosto 1999 Word Situaci�n tributaria de los pr�stamos…
+. Directos). Renta - Actual Ley Sobre Impuesto a la - Arts. N� 21�. Agosto 1999
 
 ## Referencias detectadas
 

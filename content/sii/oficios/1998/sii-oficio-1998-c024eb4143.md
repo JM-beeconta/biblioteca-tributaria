@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Art.14� , Letra A), N� 1, Letra b) Word Divisi�n de sociedades - Sociedades de personas - Socios nuevas sociedades corresponden los mismos derechos y participaciones... (Oficio N� 2.616, del 29.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 5 Ventas y servicios - Nuevo texto a impuesto a las - Art. 23� , N� 1 Word Equipos de lubricaci�n adquiridos y entregados a concesionarios - Compromiso de adquisici�n de un cierto volumen de lubricantes - E…
+Word Equipos de lubricaci�n adquiridos y entregados a concesionarios - Compromiso de adquisici�n de un cierto volumen de lubricantes - Entrega a concesionarios no es posible calificarla de... (Oficio N� 2.615, del 29.09.1998).
 
 ## Referencias detectadas
 

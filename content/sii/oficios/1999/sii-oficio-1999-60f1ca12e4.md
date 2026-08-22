@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-06
+- Fecha: 1999-04-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr06.htm
 - Hash SHA-256: 8f95a31fac35033929e9072fc560145fed8d1fb26d5e962d7aad9609516a52f9
 
 ## Resumen
 
-s de impuesto adicional, si operaciones son... (Oficio N� 1062, del 06.04.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N� 2 Abril 1999 Word Sociedad de profesionales que presten exclusivamente servicios o asesor�as profesionales � Opci�n de declarar rentas de acuerdo con normas de la Primera Categor�a � En dicho caso... (Oficio N� 1061, del 06.04.1999). Renta - Actual sobre impuesto a la - Art. 59�, N� 4 Abril 1999 Word Impuesto Adicional que afecta a naves extranjeras por fletes mar�timos, comisiones…
+06.04.1999). Renta - Actual sobre impuesto a la - Art. 59�, N� 4 Abril 1999
 
 ## Referencias detectadas
 

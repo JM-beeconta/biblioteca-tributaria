@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-06-23
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jul08.htm
 - Hash SHA-256: 8b50e98dae2139d46a7e07088898c8ce462c99b4141ed94ef70452b680d99780
 
 ## Resumen
 
-> Reimportaci�n de mercanc�as por cuya venta al exterior el exportador ha recuperado el impuesto IVA. (OF. N� 3.279, del 30.08.1999 - I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las� Art. 23�. ,Julio 1999 Word IVA en venta de suministros efectuados a la European Southern Observatory (E.S.O).(Of. N� 3.113, del 11.08.1999 � I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 12�, Letra B, N� 10., Julio 1999 Word Exenci�n de IVA en la importaci�n de automotores de pasajeros…
+ctos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 12�, Letra B, N� 10., Julio 1999
 
 ## Referencias detectadas
 

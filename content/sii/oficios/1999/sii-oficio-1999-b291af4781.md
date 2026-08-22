@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-06
+- Fecha: 1999-04-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr03.htm
 - Hash SHA-256: 824b3338271fa49cbe01e85104beefc2b0d58fac3dd7433997e426c42be05d8e
 
 ## Resumen
 
-normas de la Primera Categor�a � En dicho caso... (Oficio N� 1061, del 06.04.1999). Renta - Actual sobre impuesto a la - Art. 59�, N� 4 Abril 1999 Word Impuesto Adicional que afecta a naves extranjeras por fletes mar�timos, comisiones o participaciones en fletes mar�timos desde o hacia puertos chilenos � Exenci�n, condicionada a que... (Oficio N� 995, del 01.04.1999). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 3 Abril 1999 Word Empresa con giro de administraci�n y venta de programas de reembolsos m�dico…
+01.04.1999). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 3 Abril 1999
 
 ## Referencias detectadas
 

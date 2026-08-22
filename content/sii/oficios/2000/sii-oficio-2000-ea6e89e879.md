@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio04.htm
 - Hash SHA-256: d56c3f4ce2dc437c2409e86b700a0c0f86b21afe3d80a3f7c00cf0e1eba1329a
 
 ## Resumen
 
-16.773 - Art�culo 64� del C�digo Tributario - Circular N� 158, de 1976. Word Reorganizaci�n empresarial, respecto del accionista controlador cuyo objeto es aportar las acciones a una nueva sociedad, con el fin de constituir una sociedad ...(Of. N� 2.564, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 15, Art. 21�, Art. 31� Y 33�, N� 1 - Circular N� 59, de 1997. Word Tratamiento tributario de los gastos por concepto de combustibles de veh�culos de propiedad de trabajadores de acu…
+Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 15, Art. 21�, Art. 31� Y 33�, N� 1 - Circular N� 59, de 1997.
 
 ## Referencias detectadas
 

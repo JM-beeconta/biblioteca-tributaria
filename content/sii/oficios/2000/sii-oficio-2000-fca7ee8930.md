@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-23
+- Fecha: 2000-06-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/julio11.doc
 - Hash SHA-256: 4098d24df613480cf2014c4a7e4dd6f682d0c26eb2e1b62a02c9f381bff1e7e2
 
 ## Resumen
 
-face='arial' size='2'> Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2. Word Se solicita un pronunciamiento sobre procedimiento utilizado por un administrador de edificios de oficinas para cobrar gastos comunes. (Of. N� 1995, del 23/05/2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 37, Art. 40� - Ley N� 18.840. Art. 39�, inciso 3�. Word Aplicaci�n del Impuesto al Valor Agregado e Impuesto Adicional, a la venta posterior de productos con contenido de oro met�…
+Word Aplicaci�n del Impuesto al Valor Agregado e Impuesto Adicional, a la venta posterior de productos con contenido de oro met�lico adquirido a pirquinero...(Of. N� 2.584, de 29.06.2000 - I. Indirectos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-02
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo22.htm
 - Hash SHA-256: 84a2e7fa2bf9fbb22f162be170b576cee684dea350b277a76841fc70c69e93dc
 
 ## Resumen
 
-Ley N� 19.578, de 1998, Art. 2� Transitorio - Art. 14�, letra A) N� 1, letra C) - Art. 17� N� 8 - Art. 20� N� 2 de la Ley de la Renta - Circular N� 59, de 1998 - Art. 69 del C�digo Tributario. Word Consulta sobre el tratamiento Tributario que se debe dar en casos relacionados con el Art�culo Segundo Transitorio de la Ley N� 19.578, de 1998 ... (Of. N� 1.439, de 02.05.2000 - I. Directos ). Ley N� 19.578, de 1998 - Art. 2� Transitorio - Art. 17� N� 8 y N� 13 y Art. 57 bis de la Ley sobre Impuesto a la Renta. Word Si…
+Directos ). Ley N� 19.578, de 1998 - Art. 2� Transitorio - Art. 17� N� 8 y N� 13 y Art. 57 bis de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

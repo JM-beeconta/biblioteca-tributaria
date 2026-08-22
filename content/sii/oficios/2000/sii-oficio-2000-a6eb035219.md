@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-09
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/septiembre01.htm
 - Hash SHA-256: 72fa59f9f6cef098ab2865bf3dc17a5e093e4b117885824f6e19e97c656134e0
 
 ## Resumen
 
-Renta - Actual Ley sobre Impuesto a la - Art. 41�, bis. Word C�lculo de intereses en el caso de dep�sitos en moneda extranjera. (Of. N� 3.110, de 09.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - ART. 20�, N�1�, letra B) - Circulares N� 58 y 63, de 1990. Word Se solicita un pronunciamiento respecto de la aplicaci�n del art�culo 20, n�mero 1�, letra b), en el caso de una persona natural, due�a de un predio agr�cola que tributa ... (Of. N� 3.156, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre…
+Renta - Actual Ley sobre Impuesto a la - ART. 20�, N�1�, letra B) - Circulares N� 58 y 63, de 1990.
 
 ## Referencias detectadas
 

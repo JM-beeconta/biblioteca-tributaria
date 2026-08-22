@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-10-07
+- Fecha: 1998-10-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/oct05.doc
 - Hash SHA-256: 51788359401344f62c983532be1ab1e596d47714857788b774c567a0cedba5d4
 
 ## Resumen
 
-font face="arial" size="2"> Renta - Actual ley sobre impuesto a la - Art. 30� Word Valorizaci�n de existencias - Costo Directo de venta de mercader�as, materias primas y otros bienes del activo realizable - Deben utilizarse los costos directos m�s antiguos (sistema Fifo).. (Oficio N� 2.701, del 07.10.1998). Renta - Actual ley sobre impuesto a la - Art. 17� , N� 7 C�digo tributario - Actual texto - Art. 64� Word Adjudicaci�n convencional de bienes - Partici�n de sociedad comercial de responsabilidad limitada - Devo…
+Word Adjudicaci�n convencional de bienes - Partici�n de sociedad comercial de responsabilidad limitada - Devoluci�n de capitales sociales - Ingreso no constitutivo de renta... (Oficio N� 2.687, del 06.10.1998).
 
 ## Referencias detectadas
 

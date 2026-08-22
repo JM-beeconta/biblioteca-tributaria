@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-11-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4428.htm
 - Hash SHA-256: 2b8d616ec4b635589dc0bdcf4c5af1d06c733310b776d38991e6702300ec3c6d
 
 ## Resumen
 
-size='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 69�. (Ord. N� 4609, de 29.11.2000) Word Resuelve consultas formuladas por Congregaci�n Religiosa que se indica. Renta - Actual Ley Sobre Impuesto a la � Art. 31�, N�5, Art. 41�, N�2. (Ord. N� 4428, de 15.11.2000) Word Clasificaci�n de art�culos de porcelana, loza, vidrio, manteler�a, cuchiller�a para los fines tributarios. Renta - Actual Ley Sobre Impuesto a la - Ley N� 19.518, Art. 36� - Circular 19, de 1999. (Ord. N� 4362, de 13.11.2000) Word Monto m�ximo h…
+Renta - Actual Ley Sobre Impuesto a la � Art. 31�, N�5, Art. 41�, N�2. (Ord. N� 4428, de 15.11.2000)
 
 ## Referencias detectadas
 

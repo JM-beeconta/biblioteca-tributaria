@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-30
+- Fecha: 2000-06-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio03.doc
 - Hash SHA-256: 134242187e2f0ad6f923dfd99a744d74be5081d754d95b5db9b8d8eff574b742
 
 ## Resumen
 
-Tratamiento tributario de los gastos por concepto de combustibles de veh�culos de propiedad de trabajadores de acuerdo a lo dispuesto por la Circular N� 59, de 1997. (Of. N� 2.586, de 30.06.2000 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra b), Art. 18�. Word Situaci�n tributaria de la enajenaci�n de predio agr�cola en etapas sucesivas con compromisos parciales de compraventa. (Of. N� 2.568, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 1, incis…
+Word Situaci�n tributaria de la enajenaci�n de predio agr�cola en etapas sucesivas con compromisos parciales de compraventa. (Of. N� 2.568, de 29.06.2000 - I. Directos)
 
 ## Referencias detectadas
 

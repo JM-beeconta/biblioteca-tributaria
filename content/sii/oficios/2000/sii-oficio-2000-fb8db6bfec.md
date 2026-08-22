@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-20
+- Fecha: 2000-05-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo07.doc
 - Hash SHA-256: df3a4edd7682647a7bff119583c4650ac1e3233805ff890826ee1dc0616298ff
 
 ## Resumen
 
-a> Situaci�n Tributaria de los cobros realizados por Colegios por concepto de cuotas de Incorporaci�n, matr�culas y mensualidades. ( Of. N� 1.297, de 20.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra A) N� 1 - Circular N� 17 de 1993, Circular N� 60 de 1990 y N� 81 de 1998. Word Tributaci�n de los retiros cuando �stos exceden el registro FUT y parte de ellos han sido reinvertidos cumpli�ndose con todos los requisitos formales para suspender su tributaci�n. ( Of. N� 1.802, de 17.05.…
+Word Tributaci�n de los retiros cuando �stos exceden el registro FUT y parte de ellos han sido reinvertidos cumpli�ndose con todos los requisitos formales para suspender su tributaci�n. ( Of. N� 1.802, de 17.05.2000 - I. Directos )
 
 ## Referencias detectadas
 

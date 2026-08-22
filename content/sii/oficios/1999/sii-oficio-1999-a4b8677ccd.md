@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-02
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto09.htm
 - Hash SHA-256: e3017c0e46c9da1b0a8dde6284d2107ff577330b7e1df327ec2996e6aa951c85
 
 ## Resumen
 
-e acondicionado para realizar una actividad comercial. (OF. N� 3.331, del 02.09.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 12�, letra e, N� 17. Agosto 1999 Word Exenci�n de impuesto que beneficia a empresas hoteleras por servicios prestados a turistas, pagados por un tercero. (OF.N� 3.282, del 30.08.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art.2� y 8� - Art. 20� N� 3 del Decreto Ley N� 824 y Art. 3� N� 7 del C�digo de Comercio. Agosto 1999…
+ctos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art.2� y 8� - Art. 20� N� 3 del Decreto Ley N� 824 y Art. 3� N� 7 del C�digo de Comercio. Agosto 1999
 
 ## Referencias detectadas
 

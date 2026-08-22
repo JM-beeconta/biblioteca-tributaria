@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-14
+- Fecha: 1998-09-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep02.htm
 - Hash SHA-256: aadda568ea803910f60e172ad6c3cac6678441b53b834fe4977396f2b160ccc1
 
 ## Resumen
 
-dad de Fomento - Desembolsos de amortizaciones e intereses... (Oficio N� 2.516, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art.. 33� Bis. Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado - Remanentes que se produzcan durante los a�os tributarios 1999 al 2002, podr�n imputarse al impuesto de Primera... (Oficio N� 2.503, del 10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 20� , N� 2 Word Rentas de capitales mobiliarios - Intereses, pensiones o cualesquiera otros produc…
+10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 20� , N� 2
 
 ## Referencias detectadas
 

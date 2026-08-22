@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-26
+- Fecha: 1999-04-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may10.doc
 - Hash SHA-256: 8338e7d727fcd28c3eb6ed7557ff3b321d589bde865f431638d180b6e32eafa4
 
 ## Resumen
 
-/p> Renta - Actual ley sobre impuesto a la - Arts. 20� Y 56� Mayo 1999 Word R�gimen tributario a la renta establecido en la ley del ramo � Sistema de integraci�n entre el impuesto de Primera Categor�a y el impuesto Global Complementario o Adicional... (Oficio N� 1.644, del 26.04.1999) Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Acciones de sociedades an�nimas abiertas � Instrumento de ahorro incorporado al mecanismo de incentivo � T�tulos en que se invierte deben cumplir con las condicione…
+Word Acciones de sociedades an�nimas abiertas � Instrumento de ahorro incorporado al mecanismo de incentivo � T�tulos en que se invierte deben cumplir con las condiciones necesarias para... (Oficio N� 1.541, del 22.04.1999).
 
 ## Referencias detectadas
 

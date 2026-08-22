@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-08-03
+- Fecha: 1998-07-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ago02.doc
 - Hash SHA-256: 8b5d6cb2f816108bd54e0cea79bf6cb2cea0ffcb5a52a776f32ef9da0f49933a
 
 ## Resumen
 
-p align="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Arts.. 5� Y 57� BIS-, Letra A.-, N� 1 Word Comunidad hereditaria - Rentas efectivas o presuntas - Corresponden a comuneros en proporci�n a sus cuotas - Patrimonio hereditario indiviso - Franquicia establecida en.. (Oficio N� 2.060, del 03.08.1998 Renta - Actual ley sobre impuesto a la - Art. 20� , N� 1, letra b) Word Agricultor en renta presunta - Constituci�n sociedad que le preste servicios de movimiento de tierra y agr�colas y a terceras personas - Par…
+Word Agricultor en renta presunta - Constituci�n sociedad que le preste servicios de movimiento de tierra y agr�colas y a terceras personas - Participaci�n m�s del 10% - Normas de relaci�n... (Oficio N� 1.956, del 24.07.1998).
 
 ## Referencias detectadas
 

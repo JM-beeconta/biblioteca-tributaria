@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 205
 - Año: 1999
-- Fecha: 1999-01-21
+- Fecha: 1999-01-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene06.doc
 - Hash SHA-256: a966859fa742614fb843a777fc4dc211e95335c646dc8ea23877ba8883072fce
 
 ## Resumen
 
-Renta - Actual ley sobre impuesto a la - Art. 33� Bis Enero 1999 Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado, adquiridos nuevos o terminados de construir durante el ejercicio � No se aplica el referido cr�dito respecto... (Oficio N� 146, del 21.01.1999). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1, Letra b) Enero 1999 Word Actividad agr�cola � R�gimen de renta presunta � Requisitos y condiciones, Ley N� 18.985- Instrucciones en Circulares N�s. 58 y 63, de 1990 � Contribuyente…
+Word Actividad agr�cola � R�gimen de renta presunta � Requisitos y condiciones, Ley N� 18.985- Instrucciones en Circulares N�s. 58 y 63, de 1990 � Contribuyentes que no cumplen... (Oficio N� 113, del 18.01.1999).
 
 ## Referencias detectadas
 

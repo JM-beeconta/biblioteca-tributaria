@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-06-23
+- Fecha: 1999-08-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jul08.doc
 - Hash SHA-256: cfbd13a4c6ee00eeb9fb7d71d1de7ee5ddf1bb5ad2b933c17fd4e1f100c81552
 
 ## Resumen
 
-99 - I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las� Art. 23�. ,Julio 1999 Word IVA en venta de suministros efectuados a la European Southern Observatory (E.S.O).(Of. N� 3.113, del 11.08.1999 � I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 12�, Letra B, N� 10., Julio 1999 Word Exenci�n de IVA en la importaci�n de automotores de pasajeros como inversi�n en bienes de capital. (Of. N� 3.055, del 04.08.1999 � I. Indirectos). Ventas y Servicios - Art�culo 24�. Ordinario…
+Word Exenci�n de IVA en la importaci�n de automotores de pasajeros como inversi�n en bienes de capital. (Of. N� 3.055, del 04.08.1999 � I. Indirectos).
 
 ## Referencias detectadas
 

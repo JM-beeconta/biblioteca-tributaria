@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-21
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/septiembre01.htm
 - Hash SHA-256: 77e8973bf7e940dcd14c5818f568883bfbc97d1c888d99b12a5574c4f6074eaf
 
 ## Resumen
 
-99-I. Directos). Ley de Impuesto a la Renta. Art�culos N�s 43 Y 52. Procedencia del beneficio tributario contenido en la Ley N� 19.622, de 1999, respecto de los mutuos hipotecarios otorgados por la Mutualidad de Carabineros. (Oficio N� 3536, de 22 Septiembre 1999) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra B) Y Art. 18�, inciso tercero y Art. 1.567 del C�digo Civil. Septiembre 1999 Word Efectos Tributarios De Resciliaci�n De Contrato De Venta De Inmueble En Relaci�n Con Normas De La Letra B) De…
+Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra B) Y Art. 18�, inciso tercero y Art. 1.567 del C�digo Civil. Septiembre 1999
 
 ## Referencias detectadas
 

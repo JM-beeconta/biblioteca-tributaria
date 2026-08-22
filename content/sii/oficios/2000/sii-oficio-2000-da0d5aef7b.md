@@ -11,7 +11,7 @@
 
 ## Resumen
 
-11, de 29.11.2000) Word Procedencia de devoluci�n de impuesto �nico a los trabajadores del art�culo 42 N� 1 de la Ley de la Renta, en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 69�. (Ord. N� 4609, de 29.11.2000) Word Resuelve consultas formuladas por Congregaci�n Religiosa que se indica. Renta - Actual Ley Sobre Impuesto a la � Art. 31�, N�5, Art. 41�, N�2. (Ord. N� 4428, de 15.11.2000) Word Clasificaci�n de art�culos de porcelana, loza, vidrio, manteler�a, cuchiller�a para los fine…
+Word Resuelve consultas formuladas por Congregaci�n Religiosa que se indica.
 
 ## Referencias detectadas
 

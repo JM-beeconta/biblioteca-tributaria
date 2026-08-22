@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ce='arial' size='2'> Renta - Actual Ley Sobre Impuesto a la - Art. 2� N�1�, Art. 42� N�1�. Word Tratamiento Tributario Aplicable a las Asignaciones Pagadas Al Personal de Venta por el Uso de Celular en el Desempe�o de sus Funciones. (Of. N� 4.520, de 23.11.2000- I. Directos) Renta - actual ley sobre impuesto a la - Art. 97�, Art. 69� del codigo tributario - Art. 2521 del codigo civil Word Plazo de devoluci�n de remanente de pagos provisionales mensuales. (Of. N� 349, del 31.01.2000 - I. Directos) Renta - actual le…
+Renta - actual ley sobre impuesto a la - Art. 97�, Art. 69� del codigo tributario - Art. 2521 del codigo civil
 
 ## Referencias detectadas
 

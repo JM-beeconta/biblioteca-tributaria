@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-05
+- Fecha: 1999-05-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may12.htm
 - Hash SHA-256: 1c4610343fd37ec9ae76acbd4c30e114d23fe7d07508ba442989a72fd874b6a1
 
 ## Resumen
 
-Mayo de 1999). Renta - Actual ley sobre impuesto a la - Arts. 15�, 29� y 31� Mayo 1999 Word Pagos por el uso de infraestructura y otros � Sociedad concesionaria subcontrata la totalidad de la construcci�n de la obra por suma alzada � Costo de construcci�n se encuentra... (Oficio N� 1844, del 05.05.1999) Renta - Actual ley sobre impuesto a la - Art. 59�, N� 2 Mayo 1999 Word Trabajos de ingenier�a o asesor�as t�cnica en general � Prestados por empresa extranjera � Impuesto Adicional con tasa 20% - Impuesto con car�c…
+05.05.1999) Renta - Actual ley sobre impuesto a la - Art. 59�, N� 2 Mayo 1999
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-24
+- Fecha: 1999-05-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jun03.doc
 - Hash SHA-256: 7d142644221748c6ec80815a24d5c0bb2ec8396f0b3160c9c0b7dea2a46973d9
 
 ## Resumen
 
-Renta - Actual ley sobre impuesto a la - Art. 31�. Junio 1999 Word Indemnizaciones por a�os de servicio � No pactadas a todo evento (y que por ende no han sido provisionadas) � Pagadas por un empleador que tiene la calidad de continuador legal... (Oficio N� 2.231, del 24.05.1999). Renta - Actual ley sobre impuesto a la - Art. 17, N� 8 Y 41� Junio 1999 Word Aportes de derechos sociales a una sociedad � Enajenaci�n � Aportes efectuados a sociedad en formaci�n o en constituci�n � Aportantes no se encuentran relaciona…
+Word Aportes de derechos sociales a una sociedad � Enajenaci�n � Aportes efectuados a sociedad en formaci�n o en constituci�n � Aportantes no se encuentran relacionados en los t�rminos... (Oficio N� 2.099, del 14.05.1999).
 
 ## Referencias detectadas
 

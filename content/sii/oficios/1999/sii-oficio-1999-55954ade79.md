@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-25
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto06.htm
 - Hash SHA-256: 95a35b9c3f350ab409273faa0a843b502963280fbd0e4de98556feac427ca61c
 
 ## Resumen
 
-recibirlo. (Oficio N� 3.224, del 25.08.1999 � I. Directos). Renta - Actual Ley Sobre Impuesto a la - Arts. N� 21�. Agosto 1999 Word Situaci�n tributaria de los pr�stamos otorgados por sociedades an�nimas cerradas a sus accionistas que detentan la calidad de personas jur�dicas afectas al impuesto adicional. (Oficio N� 3.223, del 25.08.1999 - I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2 del Decreto Ley N� 825 y Ley N� 18.490. Agosto 1999 Word Tributaci�n de cobranza de atenciones cl�nicas pr…
+ctos). Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2 del Decreto Ley N� 825 y Ley N� 18.490. Agosto 1999
 
 ## Referencias detectadas
 

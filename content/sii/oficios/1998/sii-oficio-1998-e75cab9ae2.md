@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-30
+- Fecha: 1998-03-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/mar15.doc
 - Hash SHA-256: 8cb79ee830d0a968d4556417bd7ffbd05f57bd6b5223d74dad94d639cc211f0e
 
 ## Resumen
 
-br> (Oficio N� 1164, del 30.04.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Abril 1998 Word Servicios gravados con IVA - Concepto de servicio - Servicios consistentes en poner a disposici�n de otra empresa personal para el desarrollo de sus labores... (Oficio N� 0955, del 08.04.1998). Ventas y servicios - Nuevo texto impuesta a las - Art. 23�, N� 2�. Marzo 1998 Word Empresa de promoci�n y publicidad - Adquisici�n de bienes entregados gratuitamente con fines promocionales o publicitarios -…
+Word Empresa de promoci�n y publicidad - Adquisici�n de bienes entregados gratuitamente con fines promocionales o publicitarios - Se consideran rentas los retiros de bienes... (Oficio N� 0737, del 17.03.1998).
 
 ## Referencias detectadas
 

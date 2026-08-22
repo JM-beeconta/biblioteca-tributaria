@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-26
+- Fecha: 1999-05-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jun09.doc
 - Hash SHA-256: eb69e288539b8c070a728bbf7601c3f918250c491951ac0c796ba51bf070957f
 
 ## Resumen
 
-Nuevo texto ley impuesto a las - Art. 8�, Letra e) � Renta � Actual ley sobre impuesto a la - Arts. 29� Y 30 Junio 1999 Word Contrato de servicios de ingenier�a, suministros, construcci�n y montaje para la remodelaci�n de una planta industrial � Contratos generales de construcci�n gravados con Impuesto al Valor Agregado...(Oficio N� 2.277, del 26.05.1999) . Ventas y servicios - Nuevo texto ley impuesto a las - Artes. 2� Y 8�. Word Direcci�n Nacional del Trabajo � Cobro por gastos de emisi�n de documentos � Central…
+Word Direcci�n Nacional del Trabajo � Cobro por gastos de emisi�n de documentos � Centralizaci�n de documentaci�n, autorizaci�n de jornada especial, certificado de contratista, ratificaci�n de finiquitos � No se encuentran gravados con impuesto al ...Oficio N� 2.235, del 25.05.1999
 
 ## Referencias detectadas
 

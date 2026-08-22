@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ratos entre productores y exportadores - Venta fruta que se producir� en la temporada completa, factur�ndose conforme a entregas parciales... (Oficio N� 1596, del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 1 Word Normas internacionales o nacionales - Bienes incorporales - Venta no constituye hecho gravado "venta", b�sico, ni tampoco especial. (Oficio N� 1594, del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Word Servicios consistentes en la disposici�…
+del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2
 
 ## Referencias detectadas
 

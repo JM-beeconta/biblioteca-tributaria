@@ -11,7 +11,7 @@
 
 ## Resumen
 
-�, No. 8, Letra B). Situaci�n tributaria de la venta de un inmueble por medio de un contrato de leaseback. (Of. No 1.956, del 29/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 40�, No. 4 Requisitos que se deben cumplir para acceder a la exenci�n del Impuesto de Primera Categor�a. (Of. No 1.933, del 28/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra A), Situaci�n tributaria de mayor valor obtenido en la enajenaci�n de acciones. (Of. No 1.932, del 28/08/97. I.…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra A), Situaci�n tributaria de mayor valor obtenido en la enajenaci�n de acciones. (Of. No 1.932, del 28/08/97. I. Directos).
 
 ## Referencias detectadas
 

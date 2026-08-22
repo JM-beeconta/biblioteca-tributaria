@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-22
+- Fecha: 1999-04-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may04.htm
 - Hash SHA-256: 5ecec112c980b1aa493c145fd58cd51ee2980a0d12be756178c4d172140937b5
 
 ## Resumen
 
-invierte deben cumplir con las condiciones necesarias para... (Oficio N� 1.541, del 22.04.1999). Renta - Actual ley sobre impuesto a la - Art. 66� Mayo 1999 Word Interventor judicial � Rentas de bienes en litigio � Informaci�n al Servicio, de los ingresos, individualizaci�n y RUT del actual propietario de los bienes intervenidos... (Oficio N� 1.528, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 Y 18� Mayo 1999 Word Enajenaci�n de acciones � Tributaci�n del mayor valor obtenido � Contrib…
+21.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 Y 18� Mayo 1999
 
 ## Referencias detectadas
 

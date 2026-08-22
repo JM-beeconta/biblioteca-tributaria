@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-27
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/diciembre05.htm
 - Hash SHA-256: 98331cc04713cc0bb828daf2488bf30a6dedaecd0de219ae4f74b1f4db6f12c5
 
 ## Resumen
 
-, Art. 10�, Art. 11� - Oficios N� 324 de 29.01.90, N�3.985, de 08.11.94, N� 1.969, de 03.07.95 y N� 3.708, de 01.10.99 . Word Tratamiento Tributario aplicable a transacciones de acciones de sociedades an�nimas chilenas en una bolsa de valores extranjera.(of. N� 3.807, de 27.09.2000- i. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 65�, ART. 69� - Art. 97� N� 2� del C�digo Tributario. Word Contribuyentes obligados a presentar una declaraci�n de impuesto. (Of. N� 3.880, de 03.10.2000 � I. Directos.) Renta…
+Renta - Actual Ley sobre Impuesto a la - Art. 65�, ART. 69� - Art. 97� N� 2� del C�digo Tributario.
 
 ## Referencias detectadas
 

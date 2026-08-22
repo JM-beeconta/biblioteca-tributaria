@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-20
+- Fecha: 1999-12-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/Diciembre14.doc
 - Hash SHA-256: 8db5c7417dd6c4737e900c2c1501d7af97a3f55494066f0874ade2a7b6cae277
 
 ## Resumen
 
-. 20�, N�s 3,4 y 5 de la Ley de la Renta. Diciembre 1999 Word IVA que afecta al servicio que consiste en proporcionar informaci�n sobre valoraci�n de instrumentos financieros - Concepto - Superintendencia de AFP no es propiedad una empresa. Oficio N� 4.597, del 20.12.1999. Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20� N�s 1,2,3,4 y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n aplicable a prestaciones que efectuar� Universidad a terceros - Universidades son con…
+Word Tributaci�n aplicable a prestaciones que efectuar� Universidad a terceros - Universidades son contribuyentes de primera categor�a - Sus rentas derivadas del desarrollo de actividades clasificadas. Oficio N� 4.464, del 10.12.1999
 
 ## Referencias detectadas
 

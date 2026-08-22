@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-25
+- Fecha: 1999-08-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto06.doc
 - Hash SHA-256: a08769dba004a15623d793c447cc7be71db11190a05591577adbad05ca8febf4
 
 ## Resumen
 
-.htm">Renta - Actual Ley Sobre Impuesto a la - Arts. N� 21�. Agosto 1999 Word Situaci�n tributaria de los pr�stamos otorgados por sociedades an�nimas cerradas a sus accionistas que detentan la calidad de personas jur�dicas afectas al impuesto adicional. (Oficio N� 3.223, del 25.08.1999 - I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2 del Decreto Ley N� 825 y Ley N� 18.490. Agosto 1999 Word Tributaci�n de cobranza de atenciones cl�nicas prestadas a lesionados en accidentes de tr�nsito cuyos p…
+Word Tributaci�n de cobranza de atenciones cl�nicas prestadas a lesionados en accidentes de tr�nsito cuyos pagos son cubiertos por la ley sobre seguros obligatorios de accidentes personales. (Oficio N� 3.212, del 24.08.1999 � I. Directos).
 
 ## Referencias detectadas
 

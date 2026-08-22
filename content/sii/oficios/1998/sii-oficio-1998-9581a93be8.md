@@ -11,7 +11,7 @@
 
 ## Resumen
 
-3.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 13�, N�3. (Ord. N� 2.223, de 06.06.2000) Word Proporcionalidad del cr�dito fiscal aplicable en adquisici�n de bienes y utilizaci�n de servicios destinados a las actividades realizadas por empresa de transportes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 46�. (Ord. N� 1798, de 17.05.2000) Word R�gimen tributario aplicable a veh�culo importado al amparo de franquicia. Ventas y Servicios…
+Word R�gimen tributario aplicable a veh�culo importado al amparo de franquicia.
 
 ## Referencias detectadas
 

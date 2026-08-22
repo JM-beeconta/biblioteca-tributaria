@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 4�, ART. 5�. Word Territorialidad del Impuesto al Valor Agregado. (Of. N� 4.062, de 20.10.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2�, Art. 12� letra d), ART. 36�. Word Calidad de exportaci�n de ventas de combustible efectuado a empresas de aeronavegaci�n extranjera, en que el combustible es entregado en territorio nacional.( Of. N� 4.120, de 24.10.2000. I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impue…
+Word Calidad de exportaci�n de ventas de combustible efectuado a empresas de aeronavegaci�n extranjera, en que el combustible es entregado en territorio nacional.( Of. N� 4.120, de 24.10.2000. I. Indirectos)
 
 ## Referencias detectadas
 

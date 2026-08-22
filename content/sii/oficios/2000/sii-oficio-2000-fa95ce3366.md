@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-11
+- Fecha: 2000-01-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros30.doc
 - Hash SHA-256: a37d92aff2e3cce5f0e7dc663845e23345e363bc5433b2c6f26bb0fdcb5daab7
 
 ## Resumen
 
-tario por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.59) Circular N� 46, de 1999 - Art. 1707 del C�digo Civil Word Procedimiento para acceder a beneficio tributario - Art. 1� de la Ley N� 19.622 y Circular N� 46 establecen que: Adquirente de la vivienda deber� dejar constancia expresa en escritura respectiva. (Oficio N� 67, del 11.01.2000). Ley N� 18.502 - Art. 6� - Impuesto a los Combustibles Word Empresa de transporte de carga terrestre - Recuperaci�n del impuesto espec�fico al…
+Word Empresa de transporte de carga terrestre - Recuperaci�n del impuesto espec�fico al petr�leo diesel - Utilizado en las c�maras frigor�ficas de los camiones destinados a su giro. (Oficio N� 030, del 05.01.2000).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-) -Circular N� 46, de 1999. Septiembre 1999 Word Procedencia De La Rebaja Tributaria En El Caso De Bienes Ra�ces Adquiridos En Comunidad. (Of. N� 3.549, Del 22.09.1999 - I. Directos). Ley N� 19.622. establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999 - Art. 8� Ley N� 18.660 (D.O. 20.10.87). Septiembre 1999 Word Procedencia Del Beneficio Tributario Respecto De Los Mutuos Hipotecarios Otorgados Por Una Mutual. (Of. N� 3.536,…
+Word Procedencia Del Beneficio Tributario Respecto De Los Mutuos Hipotecarios Otorgados Por Una Mutual. (Of. N� 3.536, Del 22.09.1999 - I. Directos).
 
 ## Referencias detectadas
 

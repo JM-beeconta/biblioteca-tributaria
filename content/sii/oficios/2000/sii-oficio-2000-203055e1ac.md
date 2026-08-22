@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-25
+- Fecha: 2000-01-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero24.htm
 - Hash SHA-256: 7e6794d32428c9fc40114dd198b54e5f604caf8ebfda63e9be7e75bef2b094c9
 
 ## Resumen
 
-Reconsideraci�n de lo dictaminado por este Servicio mediante Oficio N� 3132, de 1998, en que se determin� que las remesas de inter�s que la empresa debe efectuar al exterior en pago de un cr�dito convenido con una entidad extranjera, quedan sometidos al r�gimen general del Impuesto Adicional de la Ley de la Renta. (Of. N� 260, del 25.01.2000 - I. Directos) Renta � Ley sobre Impuesto a la � Art. 40, N�2 � Ley N� 10.502, Art. 4. (Ord. N� 192, de 24.01.2000) Word Vigencia de exenci�n del Impuesto de Primera Categor�a…
+Renta � Ley sobre Impuesto a la � Art. 40, N�2 � Ley N� 10.502, Art. 4. (Ord. N� 192, de 24.01.2000)
 
 ## Referencias detectadas
 

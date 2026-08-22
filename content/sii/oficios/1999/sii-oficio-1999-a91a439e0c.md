@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. 45� y 46� - Art. 6�, letra b, N� 9 del C�digo Tributario. Agosto 1999 Word Momento en que debe considerarse para efectos tributarios el beneficio recibido consistente en un premio de antig�edad que el empleador paga al trabajador al cumplimiento del plazo establecido en el contrato para recibirlo. (Oficio N� 3.224, del 25.08.1999 � I. Directos). Renta - Actual Ley Sobre Impuesto a la - Arts. N� 21�. Agosto 1999 Word Situaci�n tributaria de los pr�stamos otorgados por sociedades an�nimas cerradas a sus accionista…
+Word Situaci�n tributaria de los pr�stamos otorgados por sociedades an�nimas cerradas a sus accionistas que detentan la calidad de personas jur�dicas afectas al impuesto adicional. (Oficio N� 3.223, del 25.08.1999 - I. Directos).
 
 ## Referencias detectadas
 

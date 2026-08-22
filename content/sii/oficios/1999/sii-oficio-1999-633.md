@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="2"> Renta - Actual ley sobre impuesto a la - Art. 57� BIS. Junio 1999 Word Mecanismo de incentivo al ahorro � Certificados de dep�sitos a plazo fijo - Requisitos - Fecha de vencimiento constituyen un giro o retiro � En evento que sea renovado en la misma oportunidad... (Oficio N� 2.408, del 01.06.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 1, Letra c) Y 17�, N� 8 Junio 1999 Word Divisi�n de sociedades de personas � No existe impedimento desde el punto de vista tributario � Inclusive p…
+Word Divisi�n de sociedades de personas � No existe impedimento desde el punto de vista tributario � Inclusive producto de dicha divisi�n se puede crear una sociedad an�nima... (Oficio N� 2.407, del 01.06.1999).
 
 ## Referencias detectadas
 

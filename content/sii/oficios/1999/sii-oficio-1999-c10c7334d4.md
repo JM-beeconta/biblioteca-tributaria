@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-01
+- Fecha: 1999-08-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto07.doc
 - Hash SHA-256: 61edb57f24a0e143a411091537b84515892ca7e47dbf5aa37764923380497cef
 
 ## Resumen
 
-Art. 18�, Inciso Tercero y 17�, n� 8, letra b). Agosto 1999 Word Presunci�n de habitualidad establecida en el inciso tercero del art�culo 18�, en caso de enajenaci�n en derechos o cuotas sobre bienes ra�ces y la adquisici�n de tales bienes por donaci�n. (Oficio N� 3.303, del 01.09.1999 - I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 45� y 46� - Art. 6�, letra b, N� 9 del C�digo Tributario. Agosto 1999 Word Momento en que debe considerarse para efectos tributarios el beneficio recibido consistente en…
+Word Momento en que debe considerarse para efectos tributarios el beneficio recibido consistente en un premio de antig�edad que el empleador paga al trabajador al cumplimiento del plazo establecido en el contrato para recibirlo. (Oficio N� 3.224, del 25.08.1999 � I. Directos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t. 8�- Art. 20� N� 4�, de Ley de la Renta. Word Impuesto al valor agregado, a los ingresos generados por la prestaci�n de servicios consistentes en el arriendo de pistas de Ski y de transporte de esquiadores ...( Of. N� 3.716, de 14.09.2000. I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, - Art. 20� N� 3� de la Ley de la Renta - Art. 3� N� 7, del C�digo de Comercio. Word Aplicaci�n del impuesto al valor agregado en Contrato de Administraci�n de la Cartera Hipotecaria d…
+Word Aplicaci�n del impuesto al valor agregado en Contrato de Administraci�n de la Cartera Hipotecaria deudores SERVIU. (Of. N� 3.715, de 14.09.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

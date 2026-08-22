@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3
 - Año: 2000
-- Fecha: 2000-05-23
+- Fecha: 2000-05-17
 - Categoría: Renta, Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo17.doc
 - Hash SHA-256: 077dba8eb84ed640f903dd5d410539e40270a51980c450532b7b64d5f8351ca5
 
 ## Resumen
 
-1959) - Circular N� 46, de 1999 - Art. 1707 del C�digo Civil. Word Forma de acogerse al beneficio tributario que establece Ley N� 19.622, cuando no se estipul� cl�usula que dejara constancia del deseo de acogerse a dicha franquicia. (Of. N� 1.997, de 23/05/2000 - I. Directos). Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Decreto Ley N� 3.475, de 1980 - Circular N� 48, de 1987 y Circular N� 50, de 1986. Word Factibilidad de emitir voucher expresados en valores reajustables. (Of. N� 1.801, de 17.05.…
+Word Factibilidad de emitir voucher expresados en valores reajustables. (Of. N� 1.801, de 17.05.2000 - Depto. T�cnica Tributaria )
 
 ## Referencias detectadas
 

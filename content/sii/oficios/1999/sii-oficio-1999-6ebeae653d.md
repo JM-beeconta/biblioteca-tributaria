@@ -11,7 +11,7 @@
 
 ## Resumen
 
-_anteriores.htm">A�os Anteriores OTRAS 1999 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Ley N� 18.502 - Art. 6� y 7� - Impuesto a los Combustibles - Art. 13�, N� 5 - Art. 24� D.L. N� 825, de 1974 - Dto. de Ministerio de Hacienda N� 311, Art. 2�, de 1986. Diciembre 1999 Word Impuesto espec�fico al petr�leo diesel - Establecimientos hospitalarios dependientes del Servicio de Salud - Impuesto soportado en las adquisiciones de combustibles que…
+Word Impuesto espec�fico al petr�leo diesel - Establecimientos hospitalarios dependientes del Servicio de Salud - Impuesto soportado en las adquisiciones de combustibles que realizan para sus centrales t�rmicas. (Oficio N� 4558, del 16.12.1999).
 
 ## Referencias detectadas
 

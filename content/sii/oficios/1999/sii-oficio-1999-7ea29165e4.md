@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-13
+- Fecha: 1999-09-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto08.doc
 - Hash SHA-256: 600c20b0ab6cb0bd0d85766a29f2da1f81e9c2c909b7284eba40228b4b63fad2
 
 ## Resumen
 
-Texto Ley Impuesto a las � Art. 13�, N�s. 6 y 7 - 23�, N� 2. Agosto 1999 Word Tributaci�n que afecta a medicamentos incluidos en prestaciones de salud canceladas por sistema pad y utilizaci�n como cr�dito fiscal del impuesto soportado en la adquisici�n de esos medicamentos. (OF. N� 3.436, del 13.09.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � art. 2� N�s 1 y 3. Agosto 1999 Word Aplicaci�n del tributo en venta de la opci�n por parte del due�o de un veh�culo de alquiler, inscrito en r…
+Word Aplicaci�n del tributo en venta de la opci�n por parte del due�o de un veh�culo de alquiler, inscrito en registro municipal de taxis colectivos para reemplazarlo por uno de fabricaci�n m�s reciente.(OF. N� 3.332, del 02.09.1999 � I. Indirectos).
 
 ## Referencias detectadas
 

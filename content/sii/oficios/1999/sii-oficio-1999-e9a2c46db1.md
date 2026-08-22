@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-06
+- Fecha: 1999-05-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may06.doc
 - Hash SHA-256: 087e4ab5ad182740cc31655d81f872d66a3d9417bd47749d905483e7e6a72308
 
 ## Resumen
 
-/font> Renta - Actual ley sobre impuesto a la - Art. 14�. Mayo 1999 Word Sociedades An�nimas Abiertas � Emisoras acciones de pago � Adquiridas con utilidades acogidas al beneficio de la reinversi�n � Sociedad receptora debe registrar tales sumas en registro... (Oficio N� 2.037, del 11.05.1999) Renta - Actual ley sobre impuesto a la - Art. 18� Mayo 1999 Word Cr�as o acciones liberadas � Incrementan el n�mero de acciones de propiedad del contribuyente � Manteni�ndose como valor de adquisici�n del conjunto de accione…
+Word Cr�as o acciones liberadas � Incrementan el n�mero de acciones de propiedad del contribuyente � Manteni�ndose como valor de adquisici�n del conjunto de acciones s�lo el valor de adquisici�n... (Oficio N� 2.036, del 11.05.1999).
 
 ## Referencias detectadas
 

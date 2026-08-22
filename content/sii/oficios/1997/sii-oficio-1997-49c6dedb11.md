@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sp; Uso del remanente acumulado de cr�dito fiscal del IVA por contribuyente que cambia de giro. (Of. No 1.739, del 01/08/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 15�, Agosto 1997 Gastos de cobranza judicial de rentas de arrendamiento con opci�n de compra de cosas muebles, no forman parte de la base imponible del IVA. (Of. No 1.720, del 30/07/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Agosto 1997 Aplicaci�n del impuesto a las ventas y serv…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Agosto 1997 Aplicaci�n del impuesto a las ventas y servicios, en transferencia de dominio de bienes corporales muebles del giro de una sociedad an�nima que es absorbida por otra sociedad an�nima. (Of. No 1.637, del 22/27/97. I. Indirectos).
 
 ## Referencias detectadas
 

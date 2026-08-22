@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-07-29
+- Fecha: 1998-08-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago07.htm
 - Hash SHA-256: 06ea0dbf5f00c237a359792727621b72f01b2493ab7f6ae85ff8fa47a34c856c
 
 ## Resumen
 
-io constituye un hecho gravado con IVA - Exenci�n que favorece a las personas... (Oficio N� 2.010, del 29.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 9� Y 23�. Agosto 1998 Word Anticipo a proveedores de bienes corporales muebles - No existe obligaci�n de facturar los anticipos de dinero - En caso que se emita la factura antes de la entrega de los bienes, se produce... (Oficio N� 1.936, del 23.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts.. 2� , N� 1 y 23� , N� 1 Agosto 1998…
+del 23.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts.. 2� , N� 1 y 23� , N� 1 Agosto 1998
 
 ## Referencias detectadas
 

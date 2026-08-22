@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ficio N� 4.360, del 01.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Circular N� 158, de 1976. Diciembre 1999 Word Divisi�n de sociedad an�nima - Constituyendo en el acto de divisi�n una nueva sociedad - Venta de acciones a un tercero una vez efectuada la divisi�n - Tratamiento tributario del mayor valor obtenido. (Oficio N� 4.359, del 01.12.1999) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra b) e inciso 4� - Art�culo 5� Transitorio de la Ley N� 18.985. Noviembre 1999 Word Tr…
+01.12.1999) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra b) e inciso 4� - Art�culo 5� Transitorio de la Ley N� 18.985. Noviembre 1999
 
 ## Referencias detectadas
 

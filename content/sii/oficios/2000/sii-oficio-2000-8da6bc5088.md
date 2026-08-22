@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-17
+- Fecha: 2000-05-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja1782.htm
 - Hash SHA-256: 35a607d08bccd0d048cd0d539631bc0ce90126f9ec10105101f3916a3500addf
 
 ## Resumen
 
-de bienes y utilizaci�n de servicios destinados a las actividades realizadas por empresa de transportes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 46�. (Ord. N� 1798, de 17.05.2000) Word R�gimen tributario aplicable a veh�culo importado al amparo de franquicia. Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � C�digo de Comercio, Art. 3�. (Ord. N� 1782, de 16.05.2000) Word IVA que afecta a servicios computacionales consistentes en…
+Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � C�digo de Comercio, Art. 3�. (Ord. N� 1782, de 16.05.2000)
 
 ## Referencias detectadas
 

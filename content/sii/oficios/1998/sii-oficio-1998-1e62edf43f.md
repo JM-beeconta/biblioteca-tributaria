@@ -11,7 +11,7 @@
 
 ## Resumen
 
-al 2002, podr�n imputarse al impuesto de Primera... (Oficio N� 2.503, del 10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 20� , N� 2 Word Rentas de capitales mobiliarios - Intereses, pensiones o cualesquiera otros productos derivados del dominio, posesi�n o tenencia a t�tulo precario de cualquier clase de capital mobiliario... (Oficio N� 2.502, del 10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 58�. Word Utilidades de las empresas mientras se mantengan invertidas en las mismas y registradas…
+10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 58�.
 
 ## Referencias detectadas
 

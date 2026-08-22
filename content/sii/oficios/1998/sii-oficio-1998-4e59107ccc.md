@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-01-13
+- Fecha: 1998-01-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ene03.doc
 - Hash SHA-256: f2f6f73652dc57b6ed0fb6a851c306e18c07ea860da37e6b703757ab8f02688d
 
 ## Resumen
 
-> Renta - Actual Ley Sobre Impuesto a la - Arts.. 2�, Nos 2 y 3, 15� y 29�, Word Venta a terceros del derecho de uso de departamentos - Modalidad tiempo compartido - Acuerdo de voluntades en orden a vender, ceder y transferir... (Oficio N� 95, del 13.01.1998). Renta - Actual ley sobre impuesto a la - Arts. 15�, 29�, 30� y 84� Impuesto a las ventas y servicios - Arts. 16� y 55� Word A) Contrato de concesi�n municipal - remodelaci�n, construcci�n y concesi�n bandej�n central de una avenida - pago de los trabajos con…
+Word A) Contrato de concesi�n municipal - remodelaci�n, construcci�n y concesi�n bandej�n central de una avenida - pago de los trabajos con entrega en concesi�n exclusiva... B) Licitaci�n Municipal - Construcci�n y habitaci�n de vertederos de residuos s�lidos - Ingresos empresas concesionarias por explotaci�n y recuperaci�n de costos... (Oficio N� 54, del 07.01.1998 )
 
 ## Referencias detectadas
 

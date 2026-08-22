@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-17
+- Fecha: 1998-02-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar01.doc
 - Hash SHA-256: ce22308a11276d8a1d54f2bcba9dad40705cf895a9d3b6c8817e83149b980024
 
 ## Resumen
 
-gn="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, letra a) Y 18� Word Venta de acciones - Calificaci�n de habitual o no de tales operaciones - Elementos de juicio en Circular N� 158, de 1976 - Tributaci�n aplicable - Utilidad por venta de monedas extranjeras... (Oficio N� 551, del 17.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a) Word Corredores de Bolsa - Contrato de Administraci�n de Cartera - Determinaci�n costo de venta de acciones compradas y vendidas por cor…
+Word Corredores de Bolsa - Contrato de Administraci�n de Cartera - Determinaci�n costo de venta de acciones compradas y vendidas por corredora... (Oficio N� 539, del 13.02.1998).
 
 ## Referencias detectadas
 

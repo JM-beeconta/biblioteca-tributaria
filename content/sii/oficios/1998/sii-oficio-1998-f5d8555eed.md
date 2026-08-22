@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-03-04
+- Fecha: 1998-02-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/mar16.doc
 - Hash SHA-256: f5a64cb83b2b5970a7078a8b1fac5224d1a7394d7d4988720afdea8f147da95e
 
 ## Resumen
 
-Ventas y servicios - Nuevo texto impuesto a las - arts. 9�, letra e) Y 55�, Marzo 1998 Word Servicio remunerado de comunicaci�n telef�nica - Afecto al Impuesto al Valor Agregado - Actividad incluida en el N� 3, del Art. 20�, de la Ley de la Renta - Per�odo en que debe emitirse la factura - Servicios peri�dicos. (Oficio N� 0619, del 04.03.1998 ). Ventas y servicios - nuevos texto a las - Art. 27� Bis. Marzo 1998 Word Empresa dedicada al arrendamiento de autom�viles - Remanente acumulado de cr�dito fiscal IVA, sopor…
+Word Empresa dedicada al arrendamiento de autom�viles - Remanente acumulado de cr�dito fiscal IVA, soportado al adquirir los veh�culos - Pronunciamientos del Servicio - Inclusi�n de... (Oficio N� 0545, del 16.02.1998).
 
 ## Referencias detectadas
 

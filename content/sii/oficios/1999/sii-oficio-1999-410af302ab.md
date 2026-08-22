@@ -11,7 +11,7 @@
 
 ## Resumen
 
-encia del beneficio tributario contenido en la Ley N� 19.622, de 1999, respecto de los mutuos hipotecarios otorgados por la Mutualidad de Carabineros. (Oficio N� 3536, de 22 Septiembre 1999) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra B) Y Art. 18�, inciso tercero y Art. 1.567 del C�digo Civil. Septiembre 1999 Word Efectos Tributarios De Resciliaci�n De Contrato De Venta De Inmueble En Relaci�n Con Normas De La Letra B) Del N� 8 Del Art�culo 17� E Inciso Tercero Del Art�culo 18�. (Oficio N� 3.51…
+Word Efectos Tributarios De Resciliaci�n De Contrato De Venta De Inmueble En Relaci�n Con Normas De La Letra B) Del N� 8 Del Art�culo 17� E Inciso Tercero Del Art�culo 18�. (Oficio N� 3.516, Del 21.09.1999 - I. Directos).
 
 ## Referencias detectadas
 

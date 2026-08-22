@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-25
+- Fecha: 1998-11-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/nov08.htm
 - Hash SHA-256: f59f12b68b266f15e02b2eff4631e0e00ec373e2e9b74bcf250be22a07a6dec1
 
 ## Resumen
 
-.. ( Oficio N� 3.213, de 25.11.1998) Ley N� 18.985 - Art. 3� Normas sobre reformas tributaria Noviembre 1998 Word Enajenaci�n de predios agr�colas - Adquisici�n se produce pasado el primer ejercicio en que enajenante debe tributar sometido al r�gimen de renta efectiva - No se traspasa dicha obligaci�n... (Oficio N� 3.062, del 11.11.1998). C�digo tributario - Actual texto - Arts. 126� y 128� Noviembre 1998 Word Servicios de recepci�n, acopio y disposici�n final de la basura, conformando un relleno sanitario - No gr…
+11.11.1998). C�digo tributario - Actual texto - Arts. 126� y 128� Noviembre 1998
 
 ## Referencias detectadas
 

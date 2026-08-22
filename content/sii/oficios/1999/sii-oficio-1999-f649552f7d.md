@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-24
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/noviembre11.htm
 - Hash SHA-256: 79ed3eed4c2b9085b8cb58b53c3a37434a5768c8bf6da7851592a534336a1ca3
 
 ## Resumen
 
-12.1999). Franquicias Tributarias - Decreto Ley N� 2.564, de 1979 - Art. 8�. Noviembre 1999 Word Solicita se precise el sujeto a quien corresponde el uso del beneficio tributario establecido en el Art. 8� del D.L. N� 2.564, de 1979, en el caso de importaci�n de aeronaves que son arrendadas a un explotador comercial. (Of. N� 4.250, del 24.11.1999 - I. Indirectos). Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 36� - Art. 14� Bis, 20�, de la Ley sobre Impuesto a la Renta - Circul…
+Indirectos). Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 36� - Art. 14� Bis, 20�, de la Ley sobre Impuesto a la Renta - Circular N� 19, de 1999. Noviembre 1999
 
 ## Referencias detectadas
 

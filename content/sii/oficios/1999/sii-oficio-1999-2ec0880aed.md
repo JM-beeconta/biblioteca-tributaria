@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-01-28
+- Fecha: 1999-01-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene09.htm
 - Hash SHA-256: ef3cd6f46fe60ae4ea1d881f0d04715046cb2e4560ea94a522a74af97b22c29f
 
 ## Resumen
 
-constituye renta � Cuantificaci�n debe considerar... (Oficio N� 233, del 28.01.1999) Renta - Actual texto sobre impuesto a la - Art. 31� Enero 1999 Word Gasto necesario para producir la renta � Susceptible de ser rebajado en la determinaci�n de la renta l�quida imponible � Requisitos que debe reunir � En especial el que dice relaci�n... (Oficio N� 216, del 27.01.1999) Renta - Actual ley sobre impuesto a la - Art. 33� Bis Enero 1999 Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado, adquiridos…
+27.01.1999) Renta - Actual ley sobre impuesto a la - Art. 33� Bis Enero 1999
 
 ## Referencias detectadas
 

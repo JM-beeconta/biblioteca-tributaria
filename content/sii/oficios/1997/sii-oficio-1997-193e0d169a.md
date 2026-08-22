@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-10-03
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/oct06.htm
 - Hash SHA-256: 42512e725ceabff6f22c11c598285187d327dafdcb36e1f68a632828b637a715
 
 ## Resumen
 
-) - C�digo tributario - Art. 69� La figura jur�dica de la fusi�n tambi�n es aplicable a las sociedades de personas (Of. N� 2.389 del 13/10/97) Renta - Actual Ley Sobre Impuesto a la - Arts. 14, 31, 42 y 52 Situaci�n tributaria de los retiros efectuados por un socio de una sociedad de personas (Ord. N� 2.315, del 03/10/1997) Renta - Actual Ley sobre Impuesto a la - Art. 20�. N� 5 Situaci�n tributaria del arrendamiento de derechos sociales de una sociedad de responsabilidad limitada, celebrado entre c�nyuges separad…
+10/1997) Renta - Actual Ley sobre Impuesto a la - Art. 20�. N� 5 Situaci�n tributaria del arrendamiento de derechos sociales de una sociedad de responsabilidad limitada, celebrado entre c�nyuges separados totalmente de bienes (Of. N� 2.314 del 3/10/97)
 
 ## Referencias detectadas
 

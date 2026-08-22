@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-10
+- Fecha: 1999-12-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/Diciembre11.doc
 - Hash SHA-256: c2e7cd0b0f9dc43975a47c02bfb9235aa68cb3a6d25cd2f6e3291f19b4f3f156
 
 ## Resumen
 
-y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n aplicable a prestaciones que efectuar� Universidad a terceros - Universidades son contribuyentes de primera categor�a - Sus rentas derivadas del desarrollo de actividades clasificadas. Oficio N� 4.464, del 10.12.1999 Ventas Y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20�, N�s 3, 4 y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n que afecta al servicio de soporte prestado a clientes usuarios de los software comerc…
+Word Tributaci�n que afecta al servicio de soporte prestado a clientes usuarios de los software comercializados por empresa - Servicio comprende: asesor�a telef�nica o v�a internet. Oficio N� 4.561, del 16.12.1999
 
 ## Referencias detectadas
 

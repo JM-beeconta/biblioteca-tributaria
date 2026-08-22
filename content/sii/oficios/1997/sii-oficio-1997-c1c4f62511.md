@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cumplir los cr�ditos incobrables para su aceptaci�n como gasto tributario (Of. N� 2.231 del 25/9/97). Renta - Actual Ley sobre Impuesto a la - Arts. 14�, p�rrafo a), N� 1, letra c) y 38� bis Situaci�n tributaria de las sumas de dinero pagadas por el marido a su c�nyuge con motivo de la liquidaci�n de la sociedad conyugal. (Of. N� 2.218 del 24/9/97). Renta - Actual Ley sobre Impuesto a la - Arts. 14� y 31� Efectos tributarios de la absorci�n de una sociedad an�nima extranjera. (Of. 2.179, del 22/9/97). Renta - Actu…
+4/9/97). Renta - Actual Ley sobre Impuesto a la - Arts. 14� y 31� Efectos tributarios de la absorci�n de una sociedad an�nima extranjera. (Of. 2.179, del 22/9/97).
 
 ## Referencias detectadas
 

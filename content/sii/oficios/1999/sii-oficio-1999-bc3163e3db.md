@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Tratamiento tributario de indemnizaci�n por a�os de servicio establecida en el art�culo 4� transitorio de la Ley N� 19.542. Renta - Actual Ley Sobre Impuesto a la - Ley N� 19.622 - Circulares N� 19, de 2000 y N� 46, de 1999. (Ord. N� 938, de 22.03.2000) Word Nuevo plazo para acogerse a los beneficios tributarios del DFL N� 2 de 1959, establecidos por la Ley N� 19.622, de 1999. Renta Actual Ley Sobre Impuesto a la � Ley N� 19.606 � Circular N� 66 de 1999. (Ord. N� 937, de 22.03.2000) Word Informe sobre proyect…
+Word Nuevo plazo para acogerse a los beneficios tributarios del DFL N� 2 de 1959, establecidos por la Ley N� 19.622, de 1999.
 
 ## Referencias detectadas
 

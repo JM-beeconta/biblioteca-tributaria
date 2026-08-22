@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras08.htm
 - Hash SHA-256: 9a959be9ffdc3b17093954a7312e63e28a666fbe4b5ff0d07eb2a731b251c8b4
 
 ## Resumen
 
-as por Instituciones Acogidas Al Leasing Habitacional. (Of. N� 4.607, de 29.11.2000 � I. Directos) Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36� - Circular N� 19, de 1999. Word Contribuyentes Que Tienen Derecho Al Cr�dito por Gastos de Capacitaci�n. (Of. N� 4.606, de 29.11.2000 � I. Directos) Franquicias Tributarias � Decreto Ley N� 910, de 1975 � Art. 21� - Circular N� 26, de 1987 - Circular N� 29, de 1999 � Art. 507 Al 511 Del C�digo de Comercio.…
+I. Directos) Franquicias Tributarias � Decreto Ley N� 910, de 1975 � Art. 21� - Circular N� 26, de 1987 - Circular N� 29, de 1999 � Art. 507 Al 511 Del C�digo de Comercio.
 
 ## Referencias detectadas
 

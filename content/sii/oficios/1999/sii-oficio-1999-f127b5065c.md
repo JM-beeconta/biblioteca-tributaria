@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-14
+- Fecha: 1999-03-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/abr08.doc
 - Hash SHA-256: 51c4f68787b2e422bd6cdadae7c61ac270241ca4a2210a698b7740b27fdc0b2c
 
 ## Resumen
 
-ef="ventas/abr09.htm">Ventas y servicios - Nuevo texto - Ley impuesto a las - Arts. 8�, Letra i) Abril 1999 Word Estacionamiento de veh�culos motorizados en la v�a p�blica � Definici�n de v�a p�blica � No puede entenderse que la v�a p�blica se encuentre destinada, aunque sea en forma parcial...Oficio N� 1243, del 14.04.1999. Ventas y servicios - Nuevo texto - Ley impuesto a las - Arts. 2� Y 13� N� 3 Abril 1999 Word Transporte de pasajeros � Concepto � Exenci�n de Impuesto al Valor Agregado � Transporte con fines m…
+Word Transporte de pasajeros � Concepto � Exenci�n de Impuesto al Valor Agregado � Transporte con fines meramente tur�stico � Esto es si concurren en la prestaci�n elementos tales...Oficio N� 924, del 30.03.1999
 
 ## Referencias detectadas
 

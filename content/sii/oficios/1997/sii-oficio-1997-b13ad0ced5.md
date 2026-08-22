@@ -11,7 +11,7 @@
 
 ## Resumen
 
-fectos tributarios de la disoluci�n de una sociedad de responsabilidad limitada y posterior adjudicaci�n de los bienes. Renta - Actual Ley Sobre Impuesto a la - Art. 17�, N� 13 � C�digo Tributario, Art. 126� - C�digo del Trabajo, Art. 178� - Ley N� 19.542, Art 4� transitorio. (Ord. N� 1071 de 31.03.2000) Word Tratamiento tributario de indemnizaci�n por a�os de servicio establecida en el art�culo 4� transitorio de la Ley N� 19.542. Renta - Actual Ley Sobre Impuesto a la - Ley N� 19.622 - Circulares N� 19, de 2000 y…
+Word Tratamiento tributario de indemnizaci�n por a�os de servicio establecida en el art�culo 4� transitorio de la Ley N� 19.542.
 
 ## Referencias detectadas
 

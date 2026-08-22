@@ -11,7 +11,7 @@
 
 ## Resumen
 
-4.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�7 Word Disminuci�n de capital - Destinada a absolver p�rdida de arrastre de 1997, saldo se distribuir� entre los accionistas - No constituyen renta las devoluciones de capitales sociales y los... (Oficio N� 2.970, del 04.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�2 Word Indemnizaciones por accidentes del trabajo - Consistan en sumas fijas, rentas o pensiones - Alcance tributario de lo dispuesto por el N� 2, del Art. 17�, de la Ley…
+Word Indemnizaciones por accidentes del trabajo - Consistan en sumas fijas, rentas o pensiones - Alcance tributario de lo dispuesto por el N� 2, del Art. 17�, de la Ley de la Renta... (Oficio N� 2.971, del 04.11.1998).
 
 ## Referencias detectadas
 

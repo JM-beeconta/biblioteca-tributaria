@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-23
+- Fecha: 2000-12-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta4706a.pdf
 - Hash SHA-256: abb9cd8b0d452c5c1e5b1406a3b02fefc5750dd9c71e1d7d7919243230002fb1
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 59� N� 2� Inc.4�, Art. 74� N� 4�, Art. 79�. Word Impuesto Adicional Que Grava a las Asesor�as T�cnicas. (Of. N� 4.587, de 23.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 59�. Situaci�n tributaria de reembolso de gastos efectuados por una filial a su casa matriz en el exterior. (Ord. N� 4706-A de 05.12.2000) Renta � Actual Ley Sobre Impuesto a la � Art. 57� Bis - Ley N� 19.578, de 1998, Art. 18� - Circular N� 71�, de 1998. Word Beneficio Tributar…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59�. Situaci�n tributaria de reembolso de gastos efectuados por una filial a su casa matriz en el exterior. (Ord. N� 4706-A de 05.12.2000)
 
 ## Referencias detectadas
 

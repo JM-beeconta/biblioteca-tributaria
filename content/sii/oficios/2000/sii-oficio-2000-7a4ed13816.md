@@ -11,7 +11,7 @@
 
 ## Resumen
 
-995 � Decreto Supremo de Hacienda N� 1.334, de 1996 � Franquicia Tributaria Establecida en Ley N� 19.622 � Ley N� 19.578, de 1998, Art. 5� Transitorio. Word Tributaci�n de Rentas Pagadas por Instituciones Acogidas Al Leasing Habitacional. (Of. N� 4.607, de 29.11.2000 � I. Directos) Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36� - Circular N� 19, de 1999. Word Contribuyentes Que Tienen Derecho Al Cr�dito por Gastos de Capacitaci�n. (Of. N� 4.606, de 2…
+Word Contribuyentes Que Tienen Derecho Al Cr�dito por Gastos de Capacitaci�n. (Of. N� 4.606, de 29.11.2000 � I. Directos)
 
 ## Referencias detectadas
 

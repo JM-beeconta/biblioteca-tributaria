@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-29
+- Fecha: 1999-11-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre04.doc
 - Hash SHA-256: fa9e97b101aaa623735f9130508b3de811c17161ffc724d8e2ffc6a4c56941ee
 
 ## Resumen
 
-entas/noviembre07.doc">Word Situaci�n tributaria de los gastos por concepto de mantenci�n, reparaci�n y adquisici�n de combustibles y repuestos para los veh�culos denominados "coches mortuorios" utilizados en la prestaci�n de sus servicios. (Of. N� 4.321, del 29.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N�s. 1 y 3, Art�culo 37�, letra a), Art�culo 40� - Res. Ex. 3338, de 1992. Noviembre 1999 Word Cambio de sujeto de los impuestos que afectan a la venta de oro, hecha…
+Word Cambio de sujeto de los impuestos que afectan a la venta de oro, hecha por un pirquinero a un contribuyente de la primera categor�a del tributo a la renta que declara su renta efectiva seg�n contabilidad completa. (Of. N� 4.304, del 26.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

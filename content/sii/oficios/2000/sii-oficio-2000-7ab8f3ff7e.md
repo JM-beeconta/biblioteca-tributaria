@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-07
+- Fecha: 2000-03-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja713.doc
 - Hash SHA-256: e4bd462679f7343e11d55d157caf83bf63362371500444a9adb1a3048cef62a6
 
 ## Resumen
 
-ze='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12� - D.L. N� 2.858, de 1979. (Ord. N� 729, de 07.03.2000) Word Exenci�n establecida en el Art. 12�, letra B, N� 1, del D.L. N� 825, en la importaci�n de armamento, municiones y otros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley 825, de 1975. (Ord. N� 713, de. 06.03.2000) Word No existe exenci�n alguna para servicios prestados a bienes que ingresan temporalmente al pa�s para participar en ferias.…
+Word No existe exenci�n alguna para servicios prestados a bienes que ingresan temporalmente al pa�s para participar en ferias.
 
 ## Referencias detectadas
 

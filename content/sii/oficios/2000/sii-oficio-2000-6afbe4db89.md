@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 16�, letra h) � Circular N� 44, de 1996. (Ord. N� 4619, de 29.11.2000) Word Tratamiento tributario de los subsidios en las concesiones de obras p�blicas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 25� - Res. Ex. N� 2.107, de 1983. (Ord. N� 4617, de 29.11.2000) Word El documento original de la factura, respalda el uso del Cr�dito Fiscal del IVA. Ventas y Servicios � Nuevo Texto � Actu…
+Word El documento original de la factura, respalda el uso del Cr�dito Fiscal del IVA.
 
 ## Referencias detectadas
 

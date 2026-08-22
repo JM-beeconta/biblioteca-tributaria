@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-06-15
+- Fecha: 1998-07-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ago04.htm
 - Hash SHA-256: 531683544dd9eed410f0cffbec595ac59945d2a3851a06cd8f328175df39538f
 
 ## Resumen
 
-uce ... (Oficio N� 1.938 del 23.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 42� , N� 1 y 74� - C�digo tributario - Nuevo texto - Art. 126� Word Impuesto �nico que afecta a las remuneraciones, montep�os y pensiones - Obligaci�n de retener y por tanto, de calcular el impuesto recae sobre el pagador de las rentas - Empleador... (Oficio N� 1.893, del 20.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 31� , N� 5 Y 33 Bis. Word Colegios subvencionados - Ingresos por subvenci�n, derechos por matr�cu…
+20.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 31� , N� 5 Y 33 Bis.
 
 ## Referencias detectadas
 

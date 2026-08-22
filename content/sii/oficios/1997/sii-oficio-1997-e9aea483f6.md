@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tario establecido en el Art. 21�. (Of. No 1.099, del 23/05/97. I. Directos). Timbres y Estampillas - Nuevo Texto Ley de Impuesto de - Art. 3�, Junio 1997 Acerca de la aplicaci�n del Impuesto Unico establecido en el Art. 3�, del DL No 3.475, a la documentaci�n relativa a mercader�as adquiridas y vendidas en el extranjero, por una empresa chilena. (Of. No 1.045, del 15/05/97. I. Indirectos). C�digo Tributario - Actual Texto - Art. 64 - Dl No. 825, Art. 8, Letra M), Mayo 1997 Situaci�n tributaria frente al Impuesto a…
+Indirectos). C�digo Tributario - Actual Texto - Art. 64 - Dl No. 825, Art. 8, Letra M), Mayo 1997 Situaci�n tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Servicios del aporte de bienes f�sicos del activo inmovilizado y acciones de una sociedad an�nima a otras sociedades an�nimas de las cuales es accionista. (Of. No 878, del 24/04/97. I. Indirectos).
 
 ## Referencias detectadas
 

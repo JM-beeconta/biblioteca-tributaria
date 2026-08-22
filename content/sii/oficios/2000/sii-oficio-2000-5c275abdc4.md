@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-28
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo09.htm
 - Hash SHA-256: ebee6f4301b8be888015e3c03ef506c792f90419b7393c647bc847e0e3077d2c
 
 ## Resumen
 
-20� N� 1 - Art. 3� de la Ley N� 18.985, de 1990 - Circulares N� 58 y N� 63, del a�o 1990. Word Solicita pronunciamiento acerca si constituye o no renta el aumento de capital que tendr�a su representada producto de la transformaci�n ... ( Of. N� 1.412, de 28.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 41 bis. Word Solicita se indique el procedimiento que corresponde aplicar en la Declaraci�n Anual de Impuesto a la Renta, en el c�lculo de los intereses de dep�sitos en d�lares. ( Of. N� 1.26…
+Renta - Actual Ley sobre Impuesto a la - Art. 41 bis.
 
 ## Referencias detectadas
 

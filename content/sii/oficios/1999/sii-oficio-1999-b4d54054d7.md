@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-05
+- Fecha: 1999-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may02.doc
 - Hash SHA-256: 90bfea30f2bab19ffe380269f3968c0493edcb1e001dd2d2c2ffab9e6472af73
 
 ## Resumen
 
-17�, N� 16 Y 31�, N� 6 � Ventas y servicios � Nuevo texto ley impuesto a las - Art. 23�, N� 1. Mayo 1999 Word Gastos de representaci�n � Sumas o asignaciones fijas y globales � Para ser utilizadas por los trabajadores en representaciones o actividades relacionadas con el giro de la empresa... (Oficio N� 1.842, del 05.05.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A, N� 1, Letra c) Y 41�. Mayo 1999 Word Enajenaci�n de derechos en sociedades de personas � Mayor valor � Instrucciones Circular N�…
+Word Enajenaci�n de derechos en sociedades de personas � Mayor valor � Instrucciones Circular N� 60, de 1990 � Concepto de reinversi�n � Extensivo al mayor valor obtenido en la enajenaci�n... (Oficio N� 1.801, del 03.05.1999).
 
 ## Referencias detectadas
 

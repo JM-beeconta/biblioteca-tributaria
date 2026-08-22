@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-17
+- Fecha: 2000-05-02
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo23.doc
 - Hash SHA-256: cd27ea8f6ffb18ab6098a92db160d37f27bb2185be96a72542fa5e9afea1dd81
 
 ## Resumen
 
-- Ley sobre Impuesto de - Decreto Ley N� 3.475, de 1980 - Circular N� 48, de 1987 y Circular N� 50, de 1986. Word Factibilidad de emitir voucher expresados en valores reajustables. (Of. N� 1.801, de 17.05.2000 - Depto. T�cnica Tributaria ) Ley N� 19.578, de 1998, Art. 2� Transitorio - Art. 14�, letra A) N� 1, letra C) - Art. 17� N� 8 - Art. 20� N� 2 de la Ley de la Renta - Circular N� 59, de 1998 - Art. 69 del C�digo Tributario. Word Consulta sobre el tratamiento Tributario que se debe dar en casos relacionados co…
+Word Consulta sobre el tratamiento Tributario que se debe dar en casos relacionados con el Art�culo Segundo Transitorio de la Ley N� 19.578, de 1998 ... (Of. N� 1.439, de 02.05.2000 - I. Directos ).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rt. 8� - Art. 17�, N�s. 9 Y 11, Art. 20�, N� 1 al 5 y Art. 40, N� 4 de la Ley de la Renta. Octubre 1999 Word Exenci�n de pago de IVA, PPM e Impuesto a la Renta por los ingresos derivados de la edici�n de revista ambiental educativa. (Of. N� 4.104, de 10.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Arts. 2�, N� 1 Y 3�, Art. 12�, Art. 36� - Art. 7� Decreto Ley N� 3.059, de 1979. Octubre 1999 Word Rancho de naves - Aprovisionamiento por un proveedor de naves y recuperaci�n del IVA…
+Word Rancho de naves - Aprovisionamiento por un proveedor de naves y recuperaci�n del IVA soportado para proveerlo a naves de transporte desde o hacia Chile, o a naves en tr�nsito por el pa�s. (Of. N� 3.992, de 29.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

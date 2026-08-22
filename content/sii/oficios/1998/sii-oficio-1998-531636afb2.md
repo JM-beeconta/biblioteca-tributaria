@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-18
+- Fecha: 1998-02-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar01.htm
 - Hash SHA-256: 5641a360f084a25ecf236d7cfc74dcf8d347cd1d9751f8d50848b3bf10d113b2
 
 ## Resumen
 
-ima legal - D.F.L. N� 251,... (Oficio N� 557, del 18.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, letra a) Y 18� Word Venta de acciones - Calificaci�n de habitual o no de tales operaciones - Elementos de juicio en Circular N� 158, de 1976 - Tributaci�n aplicable - Utilidad por venta de monedas extranjeras... (Oficio N� 551, del 17.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a) Word Corredores de Bolsa - Contrato de Administraci�n de Cartera - Determinaci�n costo…
+17.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-les o jur�dicas excepto sociedades an�nimas... (Oficio N� 522, del 13.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 2�, N� 6 y 17�, N� 8, Letra h), Word Sociedad contractual y legal minera - Sociedades de personas - Tratamiento tributario que les afecta es el mismo establecido para sociedades de personas - Excepto respecto de... (Oficio N� 507, del 11.02.1998). Renta - Actual ley sobre impuesto a la Art. 17�, N� 18, Word Contrato colectivo de trabajo - Bono de escolaridad - Requisitos que deben reunir p…
+11.02.1998). Renta - Actual ley sobre impuesto a la Art. 17�, N� 18,
 
 ## Referencias detectadas
 

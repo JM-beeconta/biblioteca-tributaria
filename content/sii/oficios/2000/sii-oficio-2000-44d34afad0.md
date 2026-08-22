@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-11
+- Fecha: 2000-01-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros7.htm
 - Hash SHA-256: 1b5b14b34a2cf058a563d35905ded5696730b01028294993f9c064dc277bc61e
 
 ## Resumen
 
-la vivienda deber� dejar constancia expresa en escritura respectiva. (Oficio N� 67, del 11.01.2000). Ley N� 18.502 - Art. 6� - Impuesto a los Combustibles Word Empresa de transporte de carga terrestre - Recuperaci�n del impuesto espec�fico al petr�leo diesel - Utilizado en las c�maras frigor�ficas de los camiones destinados a su giro. (Oficio N� 030, del 05.01.2000). Ley N�19.578 - Art. 3� transitorio - Art. 100� de la Ley N� 18.045 (D.O. 29.07.1998) Word Contribuciones de bienes ra�ces - Contribuyentes que no pue…
+05.01.2000). Ley N�19.578 - Art. 3� transitorio - Art. 100� de la Ley N� 18.045 (D.O. 29.07.1998)
 
 ## Referencias detectadas
 

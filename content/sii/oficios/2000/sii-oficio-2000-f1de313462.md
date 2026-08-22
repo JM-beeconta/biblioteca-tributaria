@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-19
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras04.htm
 - Hash SHA-256: fe0a5a326ee2e7664ada2b74f7ec6ee3b410343ef4bb0b9ddcd776930c289bd2
 
 ## Resumen
 
-cial del Art. 21� del D. Ley N� 910, en Venta y Promesas de Venta de Inmuebles Destinados a la Habitaci�n. (Of. N� 4.853, de 19.12.2000 � I. Directos) . C�digo Tributario � Actual Texto � Art. 69� - Circular N�50, de 1986. Word Se Solicita la Devoluci�n de Impuesto Pagado en Exceso en Una Absorci�n de Sociedades. (Of. N� 4.852, de 19.12.2000 � I. Indirectos) Beneficio Tributario � D.F.L. N� 2�, de 1998, Del Ministerio de Educaci�n � Art. 5� � Art. 20� N� 4�, Art. 33� de la Ley de la Renta. Word Situaci�n Tributari…
+Indirectos) Beneficio Tributario � D.F.L. N� 2�, de 1998, Del Ministerio de Educaci�n � Art. 5� � Art. 20� N� 4�, Art. 33� de la Ley de la Renta.
 
 ## Referencias detectadas
 

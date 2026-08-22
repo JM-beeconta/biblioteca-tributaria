@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-01
+- Fecha: 1999-11-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre03.doc
 - Hash SHA-256: 7774cb56333b028b07008076ea3116704ad5a5e9321f3ab9dfb33ea540244e63
 
 ## Resumen
 
-� 158, de 1976. Diciembre 1999 Word Divisi�n de sociedad an�nima - Constituyendo en el acto de divisi�n una nueva sociedad - Venta de acciones a un tercero una vez efectuada la divisi�n - Tratamiento tributario del mayor valor obtenido. (Oficio N� 4.359, del 01.12.1999) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra b) e inciso 4� - Art�culo 5� Transitorio de la Ley N� 18.985. Noviembre 1999 Word Tributaci�n aplicable al caso de enajenaci�n de predio agr�cola mediante la figura legal de aportarlo e…
+Word Tributaci�n aplicable al caso de enajenaci�n de predio agr�cola mediante la figura legal de aportarlo en dominio a una sociedad de personas de giro agr�cola y si constituyen renta para el enajenante, el mayor valor obtenido en la enajenaci�n, hasta la concurrencia del valor que informa la tasaci�n efectuada en conformidad al art�culo 5� de la Ley N� 18.985. (Oficio N� 4.322, del 29.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

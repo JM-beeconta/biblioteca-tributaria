@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-20
+- Fecha: 2000-02-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero12.doc
 - Hash SHA-256: 33c79d418e2c3ea8756d54a5c017165241f5e866c975caf1e1a5369f01a8e3cd
 
 ## Resumen
 
-de la Ley de la Renta, es aplicable a la situaci�n contemplada en el N� 6, del mismo art�culo, y si dicho criterio se mantiene a�n luego de las modificaciones al Compendio de Normas de Cambios Internacionales. (Of. N� 145, de 20.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 59�, N� 3. Word Impuesto adicional que afecta a las primas sobre reaseguros convenidas con empresas no establecidas en Chile (Of. N� 509, del 10.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 59�, N�…
+Word Impuesto adicional que afecta a las primas sobre reaseguros convenidas con empresas no establecidas en Chile (Of. N� 509, del 10.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

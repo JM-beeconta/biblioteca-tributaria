@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2�, N�S. 1 Y 3 - Art. 8� letras C) Y F), D.L. N� 825. Septiembre 1999 Word T�rmino De Giro De Un Comerciante Que Fallece Y Que Debe Realizar La Comunidad De Sus Herederos. (Of. N� 3.736, Del 04.10.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto Ley Impuesto a las - Art. 27� bis - Decreto Supremo de Hacienda N� 1.139, de 1990 (D.O. 05.01.91), Circular N� 22, de 1991, Circular N� 63, de 1990. Septiembre 1999 Word Clasificaci�n En El Activo Fijo De Ganado Reproductor Y De Plantaci�n De Hierba Forrajera Adquir…
+Word Clasificaci�n En El Activo Fijo De Ganado Reproductor Y De Plantaci�n De Hierba Forrajera Adquiridos Por Un Agricultor. (Of. N� 3.735, Del 04.10.1999, I. Indirectos).
 
 ## Referencias detectadas
 

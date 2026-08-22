@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Franquicias tributarias - Capacitaci�n y empleo - Estatuto de Art. 46� Octubre 1998 Word Reglamento general de la Ley 19.518, que fija el nuevo Estatuto de Capacitaci�n y Empleo - D.S. N� 98, de 1998, del Ministerio del Trabajo y Previsi�n Social Requisitos para optar al financiamiento de la ejecuci�n de. ( Oficio N� 2.674, del 05.10.1998). Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto Art. 36�. Septiembre 1998 Word Suplementeros estacionados - Contribuyentes del art�culo 22� de la L…
+05.10.1998). Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto Art. 36�. Septiembre 1998
 
 ## Referencias detectadas
 

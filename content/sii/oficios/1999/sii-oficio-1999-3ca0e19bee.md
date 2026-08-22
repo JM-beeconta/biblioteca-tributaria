@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-02-02
+- Fecha: 1999-01-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene07.htm
 - Hash SHA-256: d491d86251b9c5187c960ca87bce0fde8b436269cab93b06d8265740076848fc
 
 ## Resumen
 
-nida en el N� 10, del art�culo 17�... (Oficio N� 337, del 02.02.1999). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 13 Enero 1999 Word Indemnizaciones por a�os de servicios � Tratamiento tributario � Indemnizaciones pagadas en virtud de una ley � En su totalidad no constituye renta � Cuantificaci�n debe considerar... (Oficio N� 233, del 28.01.1999) Renta - Actual texto sobre impuesto a la - Art. 31� Enero 1999 Word Gasto necesario para producir la renta � Susceptible de ser rebajado en la determinaci�n de…
+28.01.1999) Renta - Actual texto sobre impuesto a la - Art. 31� Enero 1999
 
 ## Referencias detectadas
 

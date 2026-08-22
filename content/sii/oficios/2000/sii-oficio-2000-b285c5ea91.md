@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Monto m�ximo hasta el cual procede el cr�dito por gasto de capacitaci�n establecido en la Ley N� 19.518, sobre Nuevo Estatuto de Capacitaci�n y Empleo. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 - Ley N� 19.518, Art. 36�. (Ord. N� 4334, de 10.11.2000) Word T�rminos en que las empresas o sociedades acogidas a renta presunta se pueden acoger al cr�dito por gastos de capacitaci�n respecto de sus propietarios o socios que trabajen en ellas. Renta� Actual Ley Sobre Impuesto a la � Art. 20�, N�1 letra b…
+Word T�rminos en que las empresas o sociedades acogidas a renta presunta se pueden acoger al cr�dito por gastos de capacitaci�n respecto de sus propietarios o socios que trabajen en ellas.
 
 ## Referencias detectadas
 

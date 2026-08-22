@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-05-07
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/may08.htm
 - Hash SHA-256: 1876f525f85faa06e203df8a780afabbfaccbf76e6de1e6d27009fd42ba8cf37
 
 ## Resumen
 
-erminar su renta efectiva mediante contabilidad completa. (Of. N� 953 de 07-05-1997). Renta - Actual Ley Sobre Impuesto a La - Art. Nos. 17� No. 8 y 18� Calidad no habitual de la enajenaci�n de acciones efectuadas por una empresa cuyo capital le pertenece en m�s de un 50% de la sociedad emisora de las acciones. (Of. No 945, del 06/05/97. I. Directos) Renta - Actual Ley Sobre Impuesto a La - Art. 20 No. 1 Letra B) Requisitos que deben cumplirse para volver al r�gimen de renta presunta en el caso de los contribuyent…
+irectos) Renta - Actual Ley Sobre Impuesto a La - Art. 20 No. 1 Letra B) Requisitos que deben cumplirse para volver al r�gimen de renta presunta en el caso de los contribuyentes agricultores y normas de relaci�n. (Of. No 944, del 06/05/97. I. Directos).
 
 ## Referencias detectadas
 

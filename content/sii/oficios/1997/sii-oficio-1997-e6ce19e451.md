@@ -11,7 +11,7 @@
 
 ## Resumen
 
-c) y 38� bis Situaci�n tributaria de las sumas de dinero pagadas por el marido a su c�nyuge con motivo de la liquidaci�n de la sociedad conyugal. (Of. N� 2.218 del 24/9/97). Renta - Actual Ley sobre Impuesto a la - Arts. 14� y 31� Efectos tributarios de la absorci�n de una sociedad an�nima extranjera. (Of. 2.179, del 22/9/97). Renta - Actual Ley Sobre Impuesto a La - Art. 59�, No. 4 T�rminos en que debe certificarse la exenci�n de Impuesto Adicional. (Of. No 2.135, del 12/09/97. I. Directos). Renta - Actual Ley So…
+2/9/97). Renta - Actual Ley Sobre Impuesto a La - Art. 59�, No. 4 T�rminos en que debe certificarse la exenci�n de Impuesto Adicional. (Of. No 2.135, del 12/09/97. I. Directos).
 
 ## Referencias detectadas
 

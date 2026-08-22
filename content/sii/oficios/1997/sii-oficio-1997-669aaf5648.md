@@ -11,7 +11,7 @@
 
 ## Resumen
 
-realizar operaciones gravadas y operaciones exentas o no gravadas, de un club. (Of. No 335, del 11/02/97. I. Indirectos). Ventas Y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 23., Febrero 1997 Procedencia de la utilizaci�n como cr�dito fiscal del IVA, soportado en los gastos mantenci�n, combustible y repuestos de un veh�culo station wagon usado por una funeraria. (Of. N� 278 de 04.02.1997) Ventas Y Servicios - Nuevo Texto Ley De Impuesto A Las - Art., 13�, N� 7, Febrero 1997 L�mite a partir del cual la co…
+04.02.1997) Ventas Y Servicios - Nuevo Texto Ley De Impuesto A Las - Art., 13�, N� 7, Febrero 1997 L�mite a partir del cual la cotizaci�n legal de salud, se encuentra afecta a Impuesto al Valor Agregado. (Of. No 257, del 03/02/97. I. Indirectos).
 
 ## Referencias detectadas
 

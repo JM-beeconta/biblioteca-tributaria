@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-10-05
+- Fecha: 1998-09-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/sep11.doc
 - Hash SHA-256: 720e87d49ed76c5a6a9d0044b5ee9a839ed327dab9bd76f2e1e1edd02e600a93
 
 ## Resumen
 
-tuto de Art. 46� Octubre 1998 Word Reglamento general de la Ley 19.518, que fija el nuevo Estatuto de Capacitaci�n y Empleo - D.S. N� 98, de 1998, del Ministerio del Trabajo y Previsi�n Social Requisitos para optar al financiamiento de la ejecuci�n de. ( Oficio N� 2.674, del 05.10.1998). Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto Art. 36�. Septiembre 1998 Word Suplementeros estacionados - Contribuyentes del art�culo 22� de la Ley de la Renta - No son contribuyentes afectos al impu…
+Word Suplementeros estacionados - Contribuyentes del art�culo 22� de la Ley de la Renta - No son contribuyentes afectos al impuesto general de la Primera Categor�a de los Arts. 14�... (Oficio N� 2.518, del 14.09.1998)
 
 ## Referencias detectadas
 

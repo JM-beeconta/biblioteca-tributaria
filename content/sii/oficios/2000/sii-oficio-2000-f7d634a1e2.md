@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-09
+- Fecha: 2000-08-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/agosto11.doc
 - Hash SHA-256: 9ed61e1c395ddac5e74cea17c20ad46a14a1c1444d98affbf35f89306e20be87
 
 ## Resumen
 
-ial" size="2"> Ley N� 18.681, de 1987 - Art. 69 - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993. Word Situaci�n tributaria de las donaciones efectuadas a las instituciones de educaci�n superior en relaci�n con los art�culos 69 y 70 de la Ley N� 18.681, de 1987. (Of. N� 3.111, de 09.08.2000 - I. Directos). Decreto Ley 830, 1974 - C�digo Tributario - Art. 51�. Word Aplicabilidad de la norma contenida en el Art�culo 51� del c�digo tributario, en caso de sumas pagadas por concepto de p.…
+Word Aplicabilidad de la norma contenida en el Art�culo 51� del c�digo tributario, en caso de sumas pagadas por concepto de p.p.m. no imputados en su oportunidad. (Of. N� 3048, de 04.08.2000 - Depto. de Planificaci�n y Control de Fiscalizaci�n) .
 
 ## Referencias detectadas
 

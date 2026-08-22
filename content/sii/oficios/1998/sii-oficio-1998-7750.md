@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 7750
 - Año: 1998
-- Fecha: 1998-07-23
+- Fecha: 1998-06-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/jun02.doc
 - Hash SHA-256: c126e19470bd6f1d3c20aef301dd6449145009763ad471d66b06f115d8cea437
 
 ## Resumen
 
-(Oficio N� 1.935, del 23.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts.23�, N� 5 y 55� Word Exportaci�n de fruta - Contratos entre productores y exportadores - Venta fruta que se producir� en la temporada completa, factur�ndose conforme a entregas parciales... (Oficio N� 1596, del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 1 Word Normas internacionales o nacionales - Bienes incorporales - Venta no constituye hecho gravado "venta", b�sico, ni tampoco especial. (Ofi…
+Word Normas internacionales o nacionales - Bienes incorporales - Venta no constituye hecho gravado "venta", b�sico, ni tampoco especial. (Oficio N� 1594, del 15.06.1998).
 
 ## Referencias detectadas
 

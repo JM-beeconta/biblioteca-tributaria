@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-14
+- Fecha: 1999-11-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre08.doc
 - Hash SHA-256: fe05cadfa90bf0c6348ef549a6084e159002bbb5d2f1441f953a23a23c128873
 
 ## Resumen
 
-Art. 36�, Inciso 4� - Art�culo 58� de la Ley de la Renta. Diciembre 1999 Word Recuperaci�n del Impuesto al Valor Agregado - Empresa de transporte a�reo internacional de carga y pasajeros - No se ha constituido como persona jur�dica en Chile - Conceptos - Empresa. Oficio N� 4.522, del 14.12.1999. Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 27� Bis - Art. 126� del C�digo Tributario. Noviembre 1999 Word Recuperar a trav�s del mecanismo del Art. 27� bis, el cr�dito fiscal de una factura registrada en…
+Word Recuperar a trav�s del mecanismo del Art. 27� bis, el cr�dito fiscal de una factura registrada en el libro de compraventa fuera de los per�odos indicados en la ley o si es posible efectuar tal recuperaci�n a trav�s del mecanismo del Art. 126 del C�digo Tributario en la medida en que se haya producido un pago de impuesto al Valor Agregado. (Of. N� 4.324, del 29.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

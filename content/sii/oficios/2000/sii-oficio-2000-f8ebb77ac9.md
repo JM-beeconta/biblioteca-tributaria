@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-10
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo14.htm
 - Hash SHA-256: 05114044f03b2b2bbc94affa315a8317f7a22182050bfde6dfac2d0f0cffd328
 
 ## Resumen
 
-to a la - Art. 84 letra A) - Circular N� 16, de 1991 - Circular N� 52, de 1993 - Circular N� 82, de 1976. Word Situaci�n Tributaria de Rentas provenientes del exterior frente a la obligaci�n de efectuar pagos provisionales mensuales. ( Of. N� 1.529, de 10.05.2000 - I Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 57� bis. Word Inversiones en dep�sitos a plazo a m�s de un a�o, tomados con anterioridad al 1� de agosto de 1998 y acogidos al beneficio establecido en el Art. 57 bis, de la Ley de la Renta. (Of…
+Renta - Actual Ley sobre Impuesto a la - Art. 57� bis.
 
 ## Referencias detectadas
 

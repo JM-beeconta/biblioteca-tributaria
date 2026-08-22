@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Art. 42�, N�1 Enero 1999 Word Pensi�n no contributiva de sobrevivencia � Ley N� 19.234, que estableci� beneficios previsionales por gracia a personas exoneradas por motivos pol�ticos � Ley no precisa situaci�n tributaria... (Oficio N� 362, del 02.02.1999) Renta - Actual ley sobre impuesto a la - Art. 17�, N� 10 Febrero 1999 Word Compa��as de seguros � Eventuales beneficios que obtengan al extinguirse la obligaci�n de pago de una renta vitalicia � Inaplicabilidad…
+Word Compa��as de seguros � Eventuales beneficios que obtengan al extinguirse la obligaci�n de pago de una renta vitalicia � Inaplicabilidad de la norma contenida en el N� 10, del art�culo 17�... (Oficio N� 337, del 02.02.1999).
 
 ## Referencias detectadas
 

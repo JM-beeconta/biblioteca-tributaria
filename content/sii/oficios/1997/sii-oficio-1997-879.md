@@ -11,7 +11,7 @@
 
 ## Resumen
 
-relaci�n. (Of. No 944, del 06/05/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17� No. 8 y 18�. Calidad de no habitual de la enajenaci�n de acciones efectuadas por una empresa cuyo capital le pertenece en m�s de un 50% de la sociedad emisora de las acciones. (Of. No 885, del 24/04/97. I. Directos). Ley de Impuesto a la Renta. Art�culos 2� ,14� y 52�. Oportunidad en que se gravan respecto de sus accionistas las utilidades aportadas a otras sociedades, producto de fusiones o reorganizaci�n de empre…
+Ley de Impuesto a la Renta. Art�culos 2� ,14� y 52�. Oportunidad en que se gravan respecto de sus accionistas las utilidades aportadas a otras sociedades, producto de fusiones o reorganizaci�n de empresas. (Ordinario N� 879, de 24 de Abril de 1997)
 
 ## Referencias detectadas
 

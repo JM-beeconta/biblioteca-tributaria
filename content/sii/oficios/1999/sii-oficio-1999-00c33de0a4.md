@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-26
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre06.htm
 - Hash SHA-256: 10b3b677519a8d5c869a1cd6677a6e2d0728272db16d4441fa73b9e22fa157ec
 
 ## Resumen
 
-Of. N� 4.304, del 26.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 46� - Ley N� 19.633, del Ministerio de Hacienda. (D.O. 11.09.99). Noviembre 1999 Word Incidencia de la Ley N� 19.633, en la posterior enajenaci�n de un veh�culo importado al amparo de la partida 0004, del Arancel Aduanero. (Of. N� 4.268, de 25.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. N� 9�, letra f), Art. 23�, Art. 27� Bis, Art. 55�, inciso 2�. Noviembre 1999 Wor…
+Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. N� 9�, letra f), Art. 23�, Art. 27� Bis, Art. 55�, inciso 2�. Noviembre 1999
 
 ## Referencias detectadas
 

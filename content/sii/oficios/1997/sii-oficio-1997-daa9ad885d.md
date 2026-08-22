@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-12-22
+- Fecha: 1997-12-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/dic04.htm
 - Hash SHA-256: 97ee996de43663b2c9ce69522eb9a6b8fb5ec3defb570bae0d459571b2ec05aa
 
 ## Resumen
 
-.. (Oficio N� 3063, del 22.12.1997). Renta - Actual ley sobre impuesto a la - Arts. 3�, 10� y 17� N� 8, letra a) Word Disminuci�n de capital sociedad extranjera de la cual una sociedad chilena es su filial - Sociedad extranjera filial de casa matriz establecida en Alemania... (Oficio N� 3038, del 18.12.1997) Renta - Actual Ley sobre Impuesto a la- Art. 17� , N� 8, letra i)- Ley N� 18.985 - Art. 5� Transitorio Tributaci�n del mayor valor obtenido en venta de derechos o cuotas sobre ra�z pose�do en comunidad y proce…
+12.1997) Renta - Actual Ley sobre Impuesto a la- Art. 17� , N� 8, letra i)- Ley N� 18.985 - Art. 5� Transitorio Tributaci�n del mayor valor obtenido en venta de derechos o cuotas sobre ra�z pose�do en comunidad y procedencia de contribuyente acogido a.... (Of. N� 2.924, del 03/12/1997) .
 
 ## Referencias detectadas
 

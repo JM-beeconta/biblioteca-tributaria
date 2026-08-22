@@ -11,7 +11,7 @@
 
 ## Resumen
 
-responda exclusivamente al aprovisionamiento de rancho de naves que s�lo efect�an transporte de carga desde y hacia Chile, en forma separada de la solicitud de reembolso de todo el impuesto soportado en el per�odo por cada una de las navieras. (Of. N� 4.320, del 29.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, N� 4 - Art. 31� de la Ley de la Renta - Circular N� 71, de 1977 - Res. 34, de 24.03.81 (D.O. 25.04.81). Noviembre 1999 Word Situaci�n tributaria de los gastos po…
+Word Situaci�n tributaria de los gastos por concepto de mantenci�n, reparaci�n y adquisici�n de combustibles y repuestos para los veh�culos denominados "coches mortuorios" utilizados en la prestaci�n de sus servicios. (Of. N� 4.321, del 29.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

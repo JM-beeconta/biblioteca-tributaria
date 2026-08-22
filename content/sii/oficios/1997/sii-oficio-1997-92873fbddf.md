@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r> Servicios odontol�gicos consistentes en prestaciones dentales ambulatorias, no se encuentran gravados con el IVA. (Of. No 752, del 14/04/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 53., Mayo 1997 Documentos que deben emitir las cl�nicas por prestaciones m�dicas pagadas en parte por una ISAPRES y en parte por el beneficiario. (Of. No 751, del 14/04/97. I. Directos). Ventas y Servicios - Nuevo Texto de Impuesto a Las - Art. 24�, Abril 1997 Situaci�n del cr�dito fiscal recargado en f…
+. Directos). Ventas y Servicios - Nuevo Texto de Impuesto a Las - Art. 24�, Abril 1997 Situaci�n del cr�dito fiscal recargado en factura recibida oportunamente y contabilizada por un monto menor. (Of. No 738, del 10/04/97. I. Indirectos).
 
 ## Referencias detectadas
 

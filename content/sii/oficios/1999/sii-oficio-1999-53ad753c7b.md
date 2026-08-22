@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-24
+- Fecha: 1999-05-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jun06.htm
 - Hash SHA-256: a3869929c0752a95a6686fdf2218217d4acd6eb7777a740f16c301de098de293
 
 ## Resumen
 
-ene la calidad de continuador legal... (Oficio N� 2.231, del 24.05.1999). Renta - Actual ley sobre impuesto a la - Art. 17, N� 8 Y 41� Junio 1999 Word Aportes de derechos sociales a una sociedad � Enajenaci�n � Aportes efectuados a sociedad en formaci�n o en constituci�n � Aportantes no se encuentran relacionados en los t�rminos... (Oficio N� 2.099, del 14.05.1999). Renta - Actual ley sobre impuesto a la - Arts. 42� N� 1, 45� Y 46�. Junio 1999 Word Contrato colectivo de trabajo � Premio de antig�edad � Beneficio p…
+14.05.1999). Renta - Actual ley sobre impuesto a la - Arts. 42� N� 1, 45� Y 46�. Junio 1999
 
 ## Referencias detectadas
 

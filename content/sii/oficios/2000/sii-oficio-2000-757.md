@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 757
 - Año: 2000
-- Fecha: 2000-10-06
+- Fecha: 2000-09-29
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/octubre12.doc
 - Hash SHA-256: 47c57ef1a3a2ea9c021e92262337793a5ad007d99da4a3fa5581a45176f3690e
 
 ## Resumen
 
-Arial"> Ley de Herencias y Donaciones. Art�culos 1�. 24� y 27� ley 16.271. Ordinario N� 3924, de 06 de Octubre del 2000.- Tratamiento tributario de donaciones realizadas en el extranjero, de bienes ubicados en el extranjero, en caso que el donante tenga domicilio en Chile. (Oficio N� 3924 de 6-10-2000). Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24� N� 11�, Decreto Ley N� 3.475, de 1980 - Circular N� 31, de 1992. Word Autorizaci�n para sustituir obligaci�n establecida en la Circular N� 31,…
+Word Autorizaci�n para sustituir obligaci�n establecida en la Circular N� 31, de 1992, sobre el pago del cr�dito destinado a financiar exportaciones. Exenci�n de impuesto de timbres y estampillas Art. 24, N� 11. (Of. N� 3.843, de 29.09.2000 - Depto. de T�cnica Tributaria.)
 
 ## Referencias detectadas
 

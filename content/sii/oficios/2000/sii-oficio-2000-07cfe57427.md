@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-17
+- Fecha: 2000-02-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero03.doc
 - Hash SHA-256: e1de4bd5ba4b5dfef6ba80ea1cb26e03f04fb5a26df3ce716470ed723121ccda
 
 ## Resumen
 
-. Word Tributaci�n de Indemnizaciones pactadas en Contratos Colectivos y canceladas conjuntamente con... (Oficio N� 575, del 17.02.2000 - I. Directos) Renta - Actual Ley sobre Impueto a la - Art. 17�, N� 8, Art. 64� del C�digo Tributario. Word Solicita se confirme que el aporte en dominio de acciones de una Sociedad An�nima es suceptible... (Oficio N� 676, del 29.02.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Art. 18�. Word Situaci�n Tributaria de la enajenaci�n de acciones efectu…
+Word Solicita se confirme que el aporte en dominio de acciones de una Sociedad An�nima es suceptible... (Oficio N� 676, del 29.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an�nima a otras sociedades an�nimas de las cuales es accionista. (Of. No 878, del 24/04/97. I. Indirectos). Franquicias Tributarias Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art. 21�, Mayo 1997 Procede invocar el cr�dito por gastos de capacitaci�n incurridos por las Corporaciones Municipales de Desarrollo Social y/o Educacional y de Salud. (Of. No 847, del 18/04/97. I. Directos). Franquicias Tributarias - Ley No. 18.768, Art. 13�, Abril 1997 Recuperaci�n proporcional del impuesto adicional cuando las as…
+. Directos). Franquicias Tributarias - Ley No. 18.768, Art. 13�, Abril 1997 Recuperaci�n proporcional del impuesto adicional cuando las asesor�as t�cnicas contratadas son cargadas tanto al costo de bienes exportados como a los vendidos en el mercado nacional. (Of. No 643, del 27/03/97. I. Indirectos).
 
 ## Referencias detectadas
 

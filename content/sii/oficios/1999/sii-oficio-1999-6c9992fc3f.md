@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-14
+- Fecha: 1999-05-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may01.htm
 - Hash SHA-256: b5a1563f98c3f1975c13b8ec3f9211c357016c1fa850b305ba77ff2f3cc736ee
 
 ## Resumen
 
-an relacionados en los t�rminos... (Oficio N� 2.099, del 14.05.1999). Renta - Actual ley sobre impuesto a la - Arts. 42� N� 1, 45� Y 46�. Junio 1999 Word Contrato colectivo de trabajo � Premio de antig�edad � Beneficio pagado se trata de una remuneraci�n accesoria o complementaria � Devengamiento en m�s de un per�odo habitual de... (Oficio N� 2.080, del 12.05.1999). Renta - Actual ley sobre impuesto a la - Art. 14�. Mayo 1999 Word Sociedades An�nimas Abiertas � Emisoras acciones de pago � Adquiridas con utilidades…
+12.05.1999). Renta - Actual ley sobre impuesto a la - Art. 14�. Mayo 1999
 
 ## Referencias detectadas
 

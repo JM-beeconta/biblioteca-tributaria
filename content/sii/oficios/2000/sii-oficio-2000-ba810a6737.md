@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-23
+- Fecha: 2000-01-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero15.doc
 - Hash SHA-256: fd52907083857a244059fbeb3acaa780038fe650aea404ecf42994092a0adb7d
 
 ## Resumen
 
-1.doc'>Word Tratamiento Tributario Aplicable a las Asignaciones Pagadas Al Personal de Venta por el Uso de Celular en el Desempe�o de sus Funciones. (Of. N� 4.520, de 23.11.2000- I. Directos) Renta - actual ley sobre impuesto a la - Art. 97�, Art. 69� del codigo tributario - Art. 2521 del codigo civil Word Plazo de devoluci�n de remanente de pagos provisionales mensuales. (Of. N� 349, del 31.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 88�, 90� y 98� - Art. 126� del C�digo Tributario Word D…
+Word Plazo de devoluci�n de remanente de pagos provisionales mensuales. (Of. N� 349, del 31.01.2000 - I. Directos)
 
 ## Referencias detectadas
 

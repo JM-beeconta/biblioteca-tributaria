@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ular N� 63, de 1990. Septiembre 1999 Word Clasificaci�n En El Activo Fijo De Ganado Reproductor Y De Plantaci�n De Hierba Forrajera Adquiridos Por Un Agricultor. (Of. N� 3.735, Del 04.10.1999, I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 8�, letra G) Decreto Ley N� 825 - Art. 589 C�digo Civil - Arts. N�S 44� Y 45�, Ley General de Pesca y Acuicultura N� 18.892, de 1989. Septiembre 1999 Word Impuesto Al Valor Agregado Que Afecta Al Arrendamiento De Una Concesi�n De Acuicultura De Porci�…
+Word Impuesto Al Valor Agregado Que Afecta Al Arrendamiento De Una Concesi�n De Acuicultura De Porci�n De Agua Y Fondo De Mar. (Of. N� 3.734, Del 04.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

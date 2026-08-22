@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bsp; Word anticipado por parte del IVA que grava la venta de carne faenada, que debe hacer el matadero que preste el servicio de faenamiento de ganado en las condiciones que establece el Art. 11. (Of. N� 4.178, de 17.11.1999 - I. Indirectos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999. Noviembre 1999 Word Solicitud de acogerse a los beneficios establecidos en el art�culo primero de la Ley N� 19.622…
+Word Solicitud de acogerse a los beneficios establecidos en el art�culo primero de la Ley N� 19.622 y cual ser�a el procedimiento de control que tiene el Servicio para verificar la informaci�n que remitan las instituciones bancarias y financieras respecto a si efectivamente se cumplen los requisitos para que contribuyentes tengan derecho a la franquicia tributaria. (Of. N� 4.177, del 17.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

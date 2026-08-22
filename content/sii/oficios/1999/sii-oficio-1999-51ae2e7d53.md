@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-03-10
+- Fecha: 1999-03-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/mar02.htm
 - Hash SHA-256: 20c0352ce1501897a574d25d43d1c1e9b7c0ffeb706cd38b1e6a42cbea8c7d37
 
 ## Resumen
 
-ferencia de tecnolog�a y asesor�a... (Oficio N� 564, del 10.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 1, Letra c) Y 17� N� 7 Marzo 1999 Word Sociedad de responsabilidad limitada � Transformaci�n en sociedad an�nima � Valor de adquisici�n de las acciones � Respuesta a consulta, Oficio N� 997, de 1995... (Oficio N�548, del 09.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 3, Letra d) y 17�, N� 7. Marzo 1999 Word Sociedades an�nimas � Retiros, remesas o dis…
+09.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 3, Letra d) y 17�, N� 7. Marzo 1999
 
 ## Referencias detectadas
 

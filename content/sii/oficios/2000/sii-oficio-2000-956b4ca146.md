@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-16
+- Fecha: 2000-04-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja1217.doc
 - Hash SHA-256: b85100ac5d6cbf3bbb1b4f600707bfcc78143f59f45d29189f1bd0e6b204c583
 
 ## Resumen
 
-� Art. 8�, Art. 2�, N�2 � C�digo de Comercio, Art. 3�. (Ord. N� 1782, de 16.05.2000) Word IVA que afecta a servicios computacionales consistentes en: dise�o y desarrollo de p�ginas Web para usuarios de Internet, Instalaci�n y soporte t�cnico de Intranet y certificaci�n digital de redes y p�ginas Web. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 37�. (Ord. N� 1217, de 14.04.2000) Word Impuesto al Valor Agregado e Impuesto Adicional que grava a la venta efectuada por la Direcci�…
+Word Impuesto al Valor Agregado e Impuesto Adicional que grava a la venta efectuada por la Direcci�n General de Cr�dito Prendario y Martillo, de 175 medallas de oro pertenecientes al Fondo de Re-construcci�n Nacional.
 
 ## Referencias detectadas
 

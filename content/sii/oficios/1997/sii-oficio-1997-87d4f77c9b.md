@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-04-24
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/may06.htm
 - Hash SHA-256: d64be7846d27aff13c24707cab540f21b0216917bb21350e08692b4c0a0dfbcf
 
 ## Resumen
 
-apital le pertenece en m�s de un 50% de la sociedad emisora de las acciones. (Of. No 945, del 06/05/97. I. Directos) Renta - Actual Ley Sobre Impuesto a La - Art. 20 No. 1 Letra B) Requisitos que deben cumplirse para volver al r�gimen de renta presunta en el caso de los contribuyentes agricultores y normas de relaci�n. (Of. No 944, del 06/05/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17� No. 8 y 18�. Calidad de no habitual de la enajenaci�n de acciones efectuadas por una empresa cuyo capital l…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 17� No. 8 y 18�. Calidad de no habitual de la enajenaci�n de acciones efectuadas por una empresa cuyo capital le pertenece en m�s de un 50% de la sociedad emisora de las acciones. (Of. No 885, del 24/04/97. I. Directos).
 
 ## Referencias detectadas
 

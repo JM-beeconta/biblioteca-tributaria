@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-05
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/marzo11.htm
 - Hash SHA-256: 5b0c6dd1d01e1a83f9c65bd4e4b8276d5bf6fed860f12d793c06811cfb1fbad9
 
 ## Resumen
 
-gn="justify"> Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 3� - Decreto Ley N� 3.475, de 1980 - Art. 53� y siguientes - Art. 109, inciso 2� y Art. 200� del C�digo Tributario. Word Alcance del Impuestos de Timbres y Estampillas a operaciones de importaci�n pagadas directamente por el importador con disponibilidades propias de divisas. (Of. N� 1.102, de 05.04.2000 - Depto T�cnica Tributaria ) Ley N� 19.578, de 1998 �Art. 2� Transitorio � Art. 17� N� 8 � Art. 18� Art. 20, N� 2 � Art. 39, N� 4 y…
+Tributaria ) Ley N� 19.578, de 1998 �Art. 2� Transitorio � Art. 17� N� 8 � Art. 18� Art. 20, N� 2 � Art. 39, N� 4 y 54 N� 1 de la Ley de la Renta � Circular N� 59, de 1998 y N� 158, de 1976.
 
 ## Referencias detectadas
 

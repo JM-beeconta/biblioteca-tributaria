@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-31
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero23.htm
 - Hash SHA-256: 19c8b8879d40dc59b0ec00a3224b1ccfe1b2a979e5d0ddf03ca7ec5acb401d4b
 
 ## Resumen
 
-alificadas de comerciantes. (Of. N� 350, de 31.01.2000 - I. Directos). C�digo tributario - actual texto - Art. 28� - Art. 14� de ley de la renta - Art. 507 al 511 del c�digo de comercio - circular N� 29, de 1999 Word Se consulta respecto a situaciones tributarias relacionadas con una asociaci�n o cuenta en participaci�n. (Of. N� 307, de 27.01.2000 - I. Directos) Franquicia Tributaria - Capacitaci�n Y Empleo - Estatuto De - Actual Texto - Art. 36�. Word Se solicita un pronunciamiento que unifique los diversos crite…
+Directos) Franquicia Tributaria - Capacitaci�n Y Empleo - Estatuto De - Actual Texto - Art. 36�.
 
 ## Referencias detectadas
 

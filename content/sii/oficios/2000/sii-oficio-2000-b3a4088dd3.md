@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-24
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/agosto11.htm
 - Hash SHA-256: ad613348999ec2ca24e85602655eb515e13a45ea37eb14fd64a6a122e42f0113
 
 ## Resumen
 
-(Of. N� 3.393, de 24.08.2000 - I. Directos). Ley N� 18.681, de 1987 - Art. 69 - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993. Word Situaci�n tributaria de las donaciones efectuadas a las instituciones de educaci�n superior en relaci�n con los art�culos 69 y 70 de la Ley N� 18.681, de 1987. (Of. N� 3.111, de 09.08.2000 - I. Directos). Decreto Ley 830, 1974 - C�digo Tributario - Art. 51�. Word Aplicabilidad de la norma contenida en el Art�culo 51� del c�digo tributario, en caso de su…
+. Directos). Decreto Ley 830, 1974 - C�digo Tributario - Art. 51�.
 
 ## Referencias detectadas
 

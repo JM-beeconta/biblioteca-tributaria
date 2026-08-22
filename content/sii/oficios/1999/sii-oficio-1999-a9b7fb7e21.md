@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-23
+- Fecha: 1999-12-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/Diciembre10.doc
 - Hash SHA-256: f8e0012643a5af9f4caa2b94aa8fcffe965b625d3228202b8616c9f523440ec7
 
 ## Resumen
 
-de 23.12.1999) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 1, Art. 8�, Letra g) y m), Art. 55� - Ley sobre Impuesto a la Renta, Art. 20�, N� 3 y N� 4. (Ord. N� 4639, de 23.12.1999) Cesi�n del arriendo y de la opci�n de compra en contrato de arrendamiento de un bien en leasing financiero. Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20�, N�s 3,4 y 5 de la Ley de la Renta. Diciembre 1999 Word IVA que afecta al servicio que consiste en proporcionar inform…
+Word IVA que afecta al servicio que consiste en proporcionar informaci�n sobre valoraci�n de instrumentos financieros - Concepto - Superintendencia de AFP no es propiedad una empresa. Oficio N� 4.597, del 20.12.1999.
 
 ## Referencias detectadas
 

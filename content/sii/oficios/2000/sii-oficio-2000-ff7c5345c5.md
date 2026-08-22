@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-10
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/septiembre03.htm
 - Hash SHA-256: e7fb85764f09281399f6db51d7d1e9520e96c70110fb5cbe9d7737cd76a5987b
 
 ## Resumen
 
-a la - Art. 45� inciso 2�, Art. 46� inciso 2� y 3�- Ley N� 19.553, de 1998 - Ley N� 19.646, de 1999 - Circular N� 37, de 1990. Word Periodo tributario en que deben declarar las rentas accesorias o complementarias que se indican. (Of. N� 3.158, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 41�A. Word Contribuyentes obligados a inscribirse en el Registro de Inversiones en el Extranjero que lleva el SII. (Of. N� 3.157, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la -…
+Renta - Actual Ley sobre Impuesto a la - Art. 41�A.
 
 ## Referencias detectadas
 

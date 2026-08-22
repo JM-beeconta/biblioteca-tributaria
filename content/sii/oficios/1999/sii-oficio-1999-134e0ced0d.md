@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-28
+- Fecha: 1999-05-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jun03.htm
 - Hash SHA-256: caa929f46e7530182f4efab540b9181293cb10bbf4fbf1917eff85f6847094a9
 
 ## Resumen
 
-efectivamente pagado por los t�tulos accionarios... (Oficio N� 2.360, del 28.05.1999). Renta - Actual ley sobre impuesto a la - Art. 31�. Junio 1999 Word Indemnizaciones por a�os de servicio � No pactadas a todo evento (y que por ende no han sido provisionadas) � Pagadas por un empleador que tiene la calidad de continuador legal... (Oficio N� 2.231, del 24.05.1999). Renta - Actual ley sobre impuesto a la - Art. 17, N� 8 Y 41� Junio 1999 Word Aportes de derechos sociales a una sociedad � Enajenaci�n � Aportes efect…
+24.05.1999). Renta - Actual ley sobre impuesto a la - Art. 17, N� 8 Y 41� Junio 1999
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-L�mite a partir del cual la cotizaci�n legal de salud, se encuentra afecta a Impuesto al Valor Agregado. (Of. No 257, del 03/02/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 13�, N� 4, Febrero 1997 Ingresos percibidos por una guarder�a infantil, se encuentran exentos del Impuesto al Valor Agregado. (Of. No 113, del 20/01/97. I. Indirectos) Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - Art. 55�, Enero 1997 El traslado de frutas desde los huertos a los packing que s�lo atr…
+Indirectos) Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - Art. 55�, Enero 1997 El traslado de frutas desde los huertos a los packing que s�lo atraviesen el camino p�blico no deben emitir documentaci�n para amparar el traslado de dichas especies. (Of. No 77 del 14/1/97. A. Jur�dica).
 
 ## Referencias detectadas
 

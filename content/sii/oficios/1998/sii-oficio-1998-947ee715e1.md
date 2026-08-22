@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-13
+- Fecha: 1998-11-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov05.doc
 - Hash SHA-256: 8a55b50a06019bae654e3832cc23f823a57971976e14487d814e6894e54ea6ae
 
 ## Resumen
 
-ont> Renta - Actual ley sobre impuesto a la - Art. - 14�, Letra A, N� 1, Letra C Word Divisi�n de sociedades � Ley N� 18.046, sobre sociedades an�nimas, Art. 94� - Distribuci�n de patrimonio � Accionistas de sociedad que se divide, les corresponde la misma... (Oficio N� 3.110, del 13.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�8 Word Primera enajenaci�n de predios agr�colas - Efectuadas por contribuyentes agricultores que deban tributar sobre renta efectiva determinada a base de contabilidad com…
+Word Primera enajenaci�n de predios agr�colas - Efectuadas por contribuyentes agricultores que deban tributar sobre renta efectiva determinada a base de contabilidad completa... (Oficio N� 3.024, del 10.11.1998)
 
 ## Referencias detectadas
 

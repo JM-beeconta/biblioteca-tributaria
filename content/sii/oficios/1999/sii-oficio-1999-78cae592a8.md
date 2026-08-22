@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-21
+- Fecha: 1999-04-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr07.htm
 - Hash SHA-256: ab221a0baeee76c6b36b109845cc37ab319ddec429cd12218afc7d139413b503
 
 ## Resumen
 
-evitar la doble tributaci�n celebrado... (Oficio N� 1.524, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Instrumentos de ahorro que pueden acogerse al mecanismo establecido en el Art. 57� bis de la Ley de la Renta � Acciones emitidas por sociedades an�nimas abiertas que cumplan ciertas condiciones... (Oficio N� 1.474, del 16.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59�, N� 4 Abril 1999 Word Impuesto adicional que afecta a naves extranjeras por fletes mar�timos…
+16.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59�, N� 4 Abril 1999
 
 ## Referencias detectadas
 

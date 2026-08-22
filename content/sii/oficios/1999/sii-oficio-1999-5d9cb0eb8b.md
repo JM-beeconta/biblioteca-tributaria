@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-01-18
+- Fecha: 1999-01-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene08.htm
 - Hash SHA-256: 76fc331b7395a206fcbd117ed45165a32319b66ac12e873691299be9893ae75b
 
 ## Resumen
 
-e 1990 � Contribuyentes que no cumplen... (Oficio N� 113, del 18.01.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, Letra b) y 18�. Enero 1999 Word Enajenaci�n no habitual de bienes ra�ces � No constituye renta el mayor valor incluido el reajuste del saldo de precio obtenido en la enajenaci�n � Excepto respecto de... (Oficio N� 112, del 18.01.1999). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 2 Enero 1999 Word Actividad parcialmente exenta del Impuesto al Valor Agregado � Compras destina…
+18.01.1999). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 2 Enero 1999
 
 ## Referencias detectadas
 

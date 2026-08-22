@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-05-18
+- Fecha: 1998-05-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/may03.doc
 - Hash SHA-256: f4e9e457fdb39835da46b1cf1edfb0473f98fe57574e4d483dad8054537f2f87
 
 ## Resumen
 
-g> Renta - Actual ley sobre impuesto a la - Arts. 30� Y 41�, N� 3 Word Costo directo de ventas - Mercader�as, materias primas y otros bienes activo realizable - Utilizaci�n costos directos m�s antiguos, sin perjuicio que el contribuyente opte por utilizar... (Oficio N� 1319, del 18.05.1998). Renta - Actual ley sobre impuesto a la - Art.. 20�, N�2 Word Dividendos distribuidos por sociedades an�nimas - Acciones que est�n en el patrimonio de la empresa que declara con contabilidad completa - Dividendos constituyen un…
+Word Dividendos distribuidos por sociedades an�nimas - Acciones que est�n en el patrimonio de la empresa que declara con contabilidad completa - Dividendos constituyen un ingreso... (Oficio N� 1278, del 12.05.1998).
 
 ## Referencias detectadas
 

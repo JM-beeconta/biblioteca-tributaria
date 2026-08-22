@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Texto Impuesto a Las - Art. 52., Junio 1997 Oportunidad en que deben emitirse las facturas en un contrato de construcci�n de una nave. (Of. 1.166, del 04/06/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 9�, Junio 1997 Momento en que se devenga el impuesto al Valor Agregado en la venta de bienes corporales muebles. (Of. N� 1.126, de 28/05/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 15�, Junio 1997 Determinaci�n de la base imponible del Impuesto al Valor Ag…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 15�, Junio 1997 Determinaci�n de la base imponible del Impuesto al Valor Agregado en operaciones de L�ase - back, respecto de bienes gravados en la letra m), del Art. 8�, del DL No 825, y bienes ya nacionalizados. (Of. No 1.051, del 16/05/97. I. Indirectos).
 
 ## Referencias detectadas
 

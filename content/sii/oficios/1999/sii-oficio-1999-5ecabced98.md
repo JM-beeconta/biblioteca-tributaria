@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-14
+- Fecha: 1999-05-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jun06.doc
 - Hash SHA-256: 3be581618a31c4e8e1b8b59a97ffabfaee976d93f928b42e41533c8215eed596
 
 ## Resumen
 
-face="arial" size="2"> Renta - Actual ley sobre impuesto a la - Art. 17, N� 8 Y 41� Junio 1999 Word Aportes de derechos sociales a una sociedad � Enajenaci�n � Aportes efectuados a sociedad en formaci�n o en constituci�n � Aportantes no se encuentran relacionados en los t�rminos... (Oficio N� 2.099, del 14.05.1999). Renta - Actual ley sobre impuesto a la - Arts. 42� N� 1, 45� Y 46�. Junio 1999 Word Contrato colectivo de trabajo � Premio de antig�edad � Beneficio pagado se trata de una remuneraci�n accesoria o comp…
+Word Contrato colectivo de trabajo � Premio de antig�edad � Beneficio pagado se trata de una remuneraci�n accesoria o complementaria � Devengamiento en m�s de un per�odo habitual de... (Oficio N� 2.080, del 12.05.1999).
 
 ## Referencias detectadas
 

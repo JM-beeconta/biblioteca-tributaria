@@ -11,7 +11,7 @@
 
 ## Resumen
 
-...Oficio N�542, del 08.03.1999 Ventas y servicios - Nuevo texto - Ley impuesto a las - Art. 2�, N� 2 Marzo 1999 Word Servicio de eliminaci�n de basura, mediante conformaci�n del denominado relleno sanitario � Concepto de servicio para efectos del D.L. 825, de 1974 � Servicios de aseo de calles, recogida...Oficio N�528, del 03.03.1999 . Ley de impuesto a las Ventas y Servicios Venta de bienes corporales muebles del activo fijo - antes de doce meses desde su adquisici�n - que fueron importados a zona franca de exte…
+Ley de impuesto a las Ventas y Servicios Venta de bienes corporales muebles del activo fijo - antes de doce meses desde su adquisici�n - que fueron importados a zona franca de extensi�n pagando el impuesto del art�culo 11� de la Ley N� 18.211.(Oficio N�158 de 21.01.1999).
 
 ## Referencias detectadas
 

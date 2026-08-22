@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-06
+- Fecha: 2000-12-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ventas04.doc
 - Hash SHA-256: a5074c02d13b78d4b63c32806307e7ec0bdb3dad73e055e9a1e2b2f2dd85975e
 
 ## Resumen
 
-/font> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley 825, de 1975. (Ord. N� 713, de. 06.03.2000) Word No existe exenci�n alguna para servicios prestados a bienes que ingresan temporalmente al pa�s para participar en ferias. Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�. Word Recuperaci�n Del Impuesto Al Valor Agregado por Empresa de Aeronavegaci�n Internacional Que Efect�a Transporte de Pasajeros Desde Chile Hacia el Exterior y Viceversa Con Modalidad de "C�dig…
+Word Recuperaci�n Del Impuesto Al Valor Agregado por Empresa de Aeronavegaci�n Internacional Que Efect�a Transporte de Pasajeros Desde Chile Hacia el Exterior y Viceversa Con Modalidad de "C�digo Compartido". (Of. N�4.842, de 18.12.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Situaci�n tributaria de artista chileno residente en el extranjero (Of. N� 2.831 del 24/11/97) Renta - Actual Ley sobre Impuesto a la- Art. 42�, N� 1 y 45� Modalidad de c�lculo del impuesto �nico de Segunda Categor�a que afecta a asignaci�n complementaria pagada a funcionarios p�blicos en virtud del Art. 12�... (Of. N� 2.800 del 03/12/97). Renta - Actual Ley sobre Impuesto a la- Art. 14� Plazo para materializar la reinversi�n de utilidades consistente en el aporte de un bien ra�z agr�cola a una nueva sociedad. (Of…
+/12/97). Renta - Actual Ley sobre Impuesto a la- Art. 14� Plazo para materializar la reinversi�n de utilidades consistente en el aporte de un bien ra�z agr�cola a una nueva sociedad. (Of. N� 2.751, del 12/11/97).
 
 ## Referencias detectadas
 

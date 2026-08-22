@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-11
+- Fecha: 1998-02-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/feb06.htm
 - Hash SHA-256: 057da0d767c661f2b0f9b9d4ebd0025da1b17140199857d61650d2e3123a2110
 
 ## Resumen
 
-- Contribuyente habitual en dicho tipo de operaciones, gravado con impuestos generales de la Ley... (Oficio N� 504, del 11.02.1998). Renta - Actual ley sobre impuesto a la Art. 50� Word Ingresos profesionales - Rentas Art. 42�, N� 2, Ley de la Renta - Contribuyentes que opten por rebajar gastos efectivos, deben atenerse a las normas... (Oficio N� 491, del 10.02.1998). Renta - Actual ley sobre impuesto a la Art. 57� BIS, LETRA A, N� 1., Word Divisi�n de sociedades an�nimas - Ley N� 18.046, sobre Sociedades An�nimas…
+10.02.1998). Renta - Actual ley sobre impuesto a la Art. 57� BIS, LETRA A, N� 1.,
 
 ## Referencias detectadas
 

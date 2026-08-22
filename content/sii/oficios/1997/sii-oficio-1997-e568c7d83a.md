@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-08-05
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/sep08.htm
 - Hash SHA-256: 1f5ae4ece1fe936173445666a964df16d9200617b2c2f99cad7fe9afec2ec4a5
 
 ## Resumen
 
-t. 40�, No. 4 Requisitos que se deben cumplir para acceder a la exenci�n del Impuesto de Primera Categor�a. (Of. No 1.933, del 28/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra A), Situaci�n tributaria de mayor valor obtenido en la enajenaci�n de acciones. (Of. No 1.932, del 28/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 41�, Letras A y B Situaci�n tributaria de las rentas e inversiones en el exterior efectuadas en agencias o establecimientos permanentes…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 41�, Letras A y B Situaci�n tributaria de las rentas e inversiones en el exterior efectuadas en agencias o establecimientos permanentes. (Of. No 1.872, del 22/08/97. I. Directos).
 
 ## Referencias detectadas
 

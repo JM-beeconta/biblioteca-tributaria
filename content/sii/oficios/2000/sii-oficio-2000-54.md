@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 54
 - Año: 2000
-- Fecha: 2000-03-28
+- Fecha: 2000-03-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja918.doc
 - Hash SHA-256: 17ba21f7141e2c08d0fac5761a76071716729413a9b47701abe3d54551c0ba0d
 
 ## Resumen
 
-size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g). (Ord. N� 1015, de 28.03.2000) Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo tributario, Art. 1�. (Ord. N� 918, de 22.03.2000) Word Presunta irregularidades en la aplicaci�n del IVA al tratamiento de basura. Ventas y Servicios � Nuevo Texto � Actual L…
+Word Presunta irregularidades en la aplicaci�n del IVA al tratamiento de basura.
 
 ## Referencias detectadas
 

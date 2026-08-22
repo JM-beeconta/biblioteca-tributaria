@@ -11,7 +11,7 @@
 
 ## Resumen
 
-�n del Impuesto al valor agregado al aporte, adjudicaci�n o retiro de bienes corporales muebles o inmuebles del activo fijo. (Of. No 567, del 14/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto de Impuesto A Las - Art. 2�, No. 2 y 4., Abril 1997 Derechos cobrados por la direcci�n de Vialidad por el uso de la faja de los caminos y otras obras viales. (Of. No 566, del 14/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, Nos. 1 y 3, Marzo 1997 Venta de sitios agr�colas urbanizad…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, Nos. 1 y 3, Marzo 1997 Venta de sitios agr�colas urbanizados, aplicaci�n del Impuesto a las Ventas y Servicios. (Of. No 516, del 07/03/97. I. Indirectos).
 
 ## Referencias detectadas
 

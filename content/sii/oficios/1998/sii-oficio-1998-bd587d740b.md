@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ofesional o universitaria - Pueden ser rebajadas como gastos... (Oficio N� 2.517, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art. 59� Word Intereses provenientes de la emisi�n de bonos en el extranjero - Reajustables de acuerdo a la evoluci�n del valor de la Unidad de Fomento - Desembolsos de amortizaciones e intereses... (Oficio N� 2.516, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art.. 33� Bis. Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado - Remanentes que s…
+14.09.1998). Renta - Actual ley sobre impuesto a la - Art.. 33� Bis.
 
 ## Referencias detectadas
 

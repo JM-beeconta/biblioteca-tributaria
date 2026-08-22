@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-08-04
+- Fecha: 1998-08-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago08.htm
 - Hash SHA-256: fcdb925c989e599f60da62bd0a81f135289206c5210028e1210a57a7f2f5b617
 
 ## Resumen
 
-emente civil - Remuneraci�n clasificada en el N� 5, del Art. 20� de la Ley de la Renta - No gravada con Impuesto... (Oficio N� 2.066, del 04.08.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 13� , N� 4 Agosto 1998 Word Venta de videos que contienen material educativo - Efectuadas a establecimientos educacionales - No procede exenci�n Art. 13� , N� 4, del D.L. N� 825... (Oficio N� 2.023, del 30.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2 y 13� , N� 7 Agosto 1998 Word Ex…
+del 30.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2 y 13� , N� 7 Agosto 1998
 
 ## Referencias detectadas
 

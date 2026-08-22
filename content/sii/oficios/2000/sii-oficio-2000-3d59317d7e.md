@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-11-27
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras08.doc
 - Hash SHA-256: deb08d75cb7504ad52da7ad3ab86552cdfabc08679002a8a756e7e0e1ac17850
 
 ## Resumen
 
-cia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36� - Circular N� 19, de 1999. Word Contribuyentes Que Tienen Derecho Al Cr�dito por Gastos de Capacitaci�n. (Of. N� 4.606, de 29.11.2000 � I. Directos) Franquicias Tributarias � Decreto Ley N� 910, de 1975 � Art. 21� - Circular N� 26, de 1987 - Circular N� 29, de 1999 � Art. 507 Al 511 Del C�digo de Comercio. Word Situaci�n Tributaria Del Cr�dito Establecido en el Art. 21� Del D. Ley N� 910, en el Caso de Un Contr…
+Word Situaci�n Tributaria Del Cr�dito Establecido en el Art. 21� Del D. Ley N� 910, en el Caso de Un Contrato de Asociaci�n O Cuentas en Participaci�n. (Of. N� 4.557, de 27.11.2000 � I. Directos).
 
 ## Referencias detectadas
 

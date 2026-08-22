@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-02
+- Fecha: 1999-08-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto11.doc
 - Hash SHA-256: 01d2dc2c784d971569113b293b0a5fe0e865bb3c6a53f44c7870babed288c10c
 
 ## Resumen
 
-align="JUSTIFY"> Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 8�, letra g). Agosto 1999 Word Tributaci�n que afecta al arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial. (OF. N� 3.331, del 02.09.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 12�, letra e, N� 17. Agosto 1999 Word Exenci�n de impuesto que beneficia a empresas hoteleras por servicios prestados a turistas, pagados por un tercero. (OF.N� 3.282, del 30.08.1999…
+Word Exenci�n de impuesto que beneficia a empresas hoteleras por servicios prestados a turistas, pagados por un tercero. (OF.N� 3.282, del 30.08.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

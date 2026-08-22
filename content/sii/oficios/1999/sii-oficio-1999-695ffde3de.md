@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-29
+- Fecha: 1999-11-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre01.doc
 - Hash SHA-256: e503735e66f88725c61330f8d0c6503487183ec217196f6df785af008dc2f881
 
 ## Resumen
 
-rmidad al art�culo 5� de la Ley N� 18.985. (Oficio N� 4.322, del 29.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 14 Situaci�n tributaria del impuesto de Primera Categor�a frente al Registro FUT. (Oficio N� 4306 de 26.11.1999) Renta - Actual Ley sobre Impuesto a la - Art. 6�, Circular N� 143, de 1972. Noviembre 1999 Word Solicitan informaci�n tributaria de los contratos de Joint Ventures. (Oficio N� 4.270, de 25.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8…
+Word Solicitan informaci�n tributaria de los contratos de Joint Ventures. (Oficio N� 4.270, de 25.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

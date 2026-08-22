@@ -11,7 +11,7 @@
 
 ## Resumen
 
-icio N� 1.893, del 20.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 31� , N� 5 Y 33 Bis. Word Colegios subvencionados - Ingresos por subvenci�n, derechos por matr�cula, derechos de escolaridad y donaciones, que se destinen entre otros fines a inversiones y equipamientos de los... (Oficio N� 1.892, del 20.07.1998). Ley de Impuesto a la Renta. Art�culo 58� N� 1. Tributaci�n que afecta a los desembolsos efectuados en Chile por un contribuyente del art�culo 58� N� 1 de la Ley de la Renta. (Oficio N� 1599, d…
+Ley de Impuesto a la Renta. Art�culo 58� N� 1. Tributaci�n que afecta a los desembolsos efectuados en Chile por un contribuyente del art�culo 58� N� 1 de la Ley de la Renta. (Oficio N� 1599, de 15 de Junio de 1998)
 
 ## Referencias detectadas
 

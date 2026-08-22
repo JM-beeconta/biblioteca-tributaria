@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-15
+- Fecha: 2000-11-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4362.htm
 - Hash SHA-256: 44f71eade43ee2168f3e82a2b41d50732cfc0b418f66a58144f185e5ff31590a
 
 ## Resumen
 
-align='JUSTIFY'> Renta - Actual Ley Sobre Impuesto a la � Art. 31�, N�5, Art. 41�, N�2. (Ord. N� 4428, de 15.11.2000) Word Clasificaci�n de art�culos de porcelana, loza, vidrio, manteler�a, cuchiller�a para los fines tributarios. Renta - Actual Ley Sobre Impuesto a la - Ley N� 19.518, Art. 36� - Circular 19, de 1999. (Ord. N� 4362, de 13.11.2000) Word Monto m�ximo hasta el cual procede el cr�dito por gasto de capacitaci�n establecido en la Ley N� 19.518, sobre Nuevo Estatuto de Capacitaci�n y Empleo. Renta � Actua…
+Renta - Actual Ley Sobre Impuesto a la - Ley N� 19.518, Art. 36� - Circular 19, de 1999. (Ord. N� 4362, de 13.11.2000)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n como gasto... (Oficio N� 2.924, del 02.11.1998). Renta - Actual ley sobre impuesto a la - Art. 2,14,38 bis Efectos tributarios por reorganizaci�n de una Asociaci�n y de la Corporaci�n que ha creado y de la cual forma parte, por el aporte total de los activos y pasivos que hace esta �ltima a una sociedad an�nima cerrada preexistente, para continuaci�n disolverse. (Oficio N� 2.923, del 02.11.1998). Renta - Actual ley sobre impuesto a la - Art. 15� Word Venta de acciones de una sociedad an�nima - Pago diferido del…
+02.11.1998). Renta - Actual ley sobre impuesto a la - Art. 15�
 
 ## Referencias detectadas
 

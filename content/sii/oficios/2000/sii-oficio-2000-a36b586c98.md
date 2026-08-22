@@ -11,7 +11,7 @@
 
 ## Resumen
 
-IFY'> Renta - Actual Ley Sobre Impuesto a la � Art. 22�, Art. 31� - Ley N� 19.518, Art. 36. Circular N� 19, de 1999. (Ord. N� 4055, de 20.10.2000) Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 58�, N�1 � Oficio N� 1.599, de 1998. (Ord. N� 4053, de 20.10.2000). Word Tratamiento tributario de los egresos en que incurren contribuyentes extranjeros cuyas actividades realizadas en Chile no generan ingresos y s�lo est�n destinadas a…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 58�, N�1 � Oficio N� 1.599, de 1998. (Ord. N� 4053, de 20.10.2000).
 
 ## Referencias detectadas
 

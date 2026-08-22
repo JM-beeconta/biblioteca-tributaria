@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-28
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta08.htm
 - Hash SHA-256: 5312e18d3cd0d167cae727b0c3c9952938b00c41b608739f35217ce1dd74209b
 
 ## Resumen
 
-FY'> Renta � Actual Ley Sobre Impuesto a la � Art. 57�Bis - Circular N� 71�, de 1998. Word Efectos Tributarios de Los Dep�sitos a Plazo Acogidos Al Art. 57� Bis de la Ley de la Renta. (Of. N� 4.586, de 28.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 33� - D.F.L. N� 2� de 1998 Del Min. de Educacion, Art. 5� - Circular N� 91, de 1980. Word Disposiciones Tributarias Para Colegios Subvencionados por el Estado. (Of. N� 4.558, de 27.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la �…
+Renta � Actual Ley Sobre Impuesto a la � Art. 33� - D.F.L. N� 2� de 1998 Del Min. de Educacion, Art. 5� - Circular N� 91, de 1980.
 
 ## Referencias detectadas
 

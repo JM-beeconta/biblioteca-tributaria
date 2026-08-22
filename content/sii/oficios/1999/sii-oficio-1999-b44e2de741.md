@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-05
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre06.htm
 - Hash SHA-256: c67b5dcb7da2763a497b1105211f625001f32a7babf476f6381408d99d38b1f9
 
 ## Resumen
 
-Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 21�, 31� Y 33� bis Ley de la Rentas - Ley N� 19.281 sobre arrendamiento de viviendas con promesa de venta - Art. 1.915 Y 1.916 C. Civil - Circular N� 41, de 1990. Septiembre 1999 Word Tratamiento Tributario De Cuotas De Pago Del Precio De Un Contrato De Leasing Para La Adquisici�n De Terreno En Que Se Construir� Una Nueva Planta Industrial. (Of. N� 3.747, Del 05.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las…
+Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N�S. 1 Y 3 - Art. 8� letras C) Y F), D.L. N� 825. Septiembre 1999
 
 ## Referencias detectadas
 

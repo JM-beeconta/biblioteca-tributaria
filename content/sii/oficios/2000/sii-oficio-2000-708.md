@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Timbres y estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24� N� 11 - Decreto Ley N� 3.475, de 1980. Word Alcance del exenci�n del Impuesto de Timbres y Estampillas establecido en el N� 11 del art�culo 24� del Decreto Ley N� 3.475. (Of. N� 0832, de 16.03.2000 - Depto. T�cnica Tributaria ) Franquicias Tributarias - Ley N� 18.392, Art. 11� y 12� (D.O. 14.01.1985). Word Solicita se confirme criterio contenido en Of. N� 708, de 28.02.86, a trav�s del cual se dej� establecido que... (Of N� 774 de 10 de marzo…
+Word Solicita se confirme criterio contenido en Of. N� 708, de 28.02.86, a trav�s del cual se dej� establecido que... (Of N� 774 de 10 de marzo de 2000)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley sobre Impuesto a las � Art. 8�, Art. 37�. (Ord. N� 1217, de 14.04.2000) Word Impuesto al Valor Agregado e Impuesto Adicional que grava a la venta efectuada por la Direcci�n General de Cr�dito Prendario y Martillo, de 175 medallas de oro pertenecientes al Fondo de Re-construcci�n Nacional. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g). (Ord. N� 1215, de 14.04.2000) Word Impuesto al Valor Agregado que grava el arrendamiento de locales comerciales y espacios f�sic…
+Word Impuesto al Valor Agregado que grava el arrendamiento de locales comerciales y espacios f�sicos sin instalaciones ubicados en malls.
 
 ## Referencias detectadas
 

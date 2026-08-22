@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Actual Ley sobre Impuesto a la - Art. 17� letra b) y 18� Situaci�n tributaria de la enajenaci�n de un bien ra�z (Of. N� 2.507 del 24/10/97). Renta - Actual Ley sobre Impuesto a la - Arts. 42�,N� 1 y 43�, N� 1 Situaci�n tributaci�n de las pensiones otorgadas en virtud de la Ley 19.169, que reglamenta los Premios Nacionales (Of. N� 2.420, del 15/10/97) Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9 Tratamiento tributario del traspaso de gastos incurridos por un tercero (Of. N� 2.419 el 15/10/97). Renta - Ac…
+5/10/97) Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9 Tratamiento tributario del traspaso de gastos incurridos por un tercero (Of. N� 2.419 el 15/10/97).
 
 ## Referencias detectadas
 

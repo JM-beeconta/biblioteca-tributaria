@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-03-12
+- Fecha: 1998-02-20
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/mar09.doc
 - Hash SHA-256: 4f602f592b1fda642c22044fba3761819ee33cba9217b283aa544cc0506a5b4a
 
 ## Resumen
 
-ze="2">. (Oficio N� 680, del 12.03.1998). C�digo tributario - Actual texto - Art. 64�. Marzo 1998 Word Aporte de bienes de cualquier clase constituye una enajenaci�n - Bienes adquiridos con subvenci�n, derechos de matr�culas, derechos de escolaridad... (Oficio N� 0566, del 20.02.1998). C�digo tributario - Actual texto - Art. 64�. Marzo 1998 Word Aporte de bienes a sociedades de cualquier clase - Enajenaci�n - Valor en que deben aportarse - Acuerdo partes contratantes en la respectiva... (Oficio N� 0565, del 20.02.…
+Word Aporte de bienes a sociedades de cualquier clase - Enajenaci�n - Valor en que deben aportarse - Acuerdo partes contratantes en la respectiva... (Oficio N� 0565, del 20.02.1998).
 
 ## Referencias detectadas
 

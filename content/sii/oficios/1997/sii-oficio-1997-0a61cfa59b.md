@@ -11,7 +11,7 @@
 
 ## Resumen
 
-yas remuneraciones son pagadas desde el exterior. (Of. No 165, del 27/01/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 31, No. 3, Febrero 1997 Improcedencia de hacer uso de las p�rdidas tributarias acumuladas, en caso que la empresa generadora de ellas, no tenga en su poder los libros de contabilidad. (Of. No 164, del 27/01/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17, No. 4 y 31, Tratamiento tributario aplicable a las asignaciones de movilizaci�n y colaci�n entregadas a un…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 17, No. 4 y 31, Tratamiento tributario aplicable a las asignaciones de movilizaci�n y colaci�n entregadas a un estudiante en pr�ctica. (Of. N� 163, del 27/01/97. I. directos).
 
 ## Referencias detectadas
 

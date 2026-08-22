@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-24
+- Fecha: 1998-11-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/nov11.htm
 - Hash SHA-256: 7085c6ca5da916e81516753f1672ddbaf55b5d2e00bf7bd23f35ec0b38c84885
 
 ## Resumen
 
-o de dinero cuyos intereses se encuentran exentos de IVA � Cr�dito otorgado... (Oficio N� 3.204, de 24.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 13�, Nos. 6 y 7 Noviembre 1998 Word Laboratorios de an�lisis cl�nico - Ley N� 18.933, Art. 21, las Instituciones de Salud Previsional (Isapres) sustituyen a los Servicios de Salud y al Fondo Nacional de Salud en prestaci�n... (Oficio N� 3.110, del 13.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Noviembre 1998 Word Asesor…
+del 13.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Noviembre 1998
 
 ## Referencias detectadas
 

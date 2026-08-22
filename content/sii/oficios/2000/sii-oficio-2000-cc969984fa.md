@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 45�, Art. 46� - Circular N� 37, de 1990. Word Tributaci�n de bono de feriado establecido en contrato colectivo de trabajo. ( Of. N� 1.785, de 16.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 31� N� 5, Art. 41� N� 2. Word Solicita se aclare el sentido que este Servicio le ha dado a la expresi�n depreciaci�n lineal y la incorporaci�n a ella del factor de acelerada ... ( Of. N� 1.786, de 16.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 20� N� 1 - Art. 3� de la Ley…
+Word Solicita se aclare el sentido que este Servicio le ha dado a la expresi�n depreciaci�n lineal y la incorporaci�n a ella del factor de acelerada ... ( Of. N� 1.786, de 16.05.2000 - I. Directos )
 
 ## Referencias detectadas
 

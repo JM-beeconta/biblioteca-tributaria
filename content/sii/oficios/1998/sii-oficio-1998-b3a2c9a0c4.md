@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-08
+- Fecha: 1998-03-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/mar14.htm
 - Hash SHA-256: a55210ae81c84d13ca594e5ea622afdd5de085087b27ad533942abe05423cda7
 
 ## Resumen
 
-rvicios consistentes en poner a disposici�n de otra empresa personal para el desarrollo de sus labores... (Oficio N� 0955, del 08.04.1998). Ventas y servicios - Nuevo texto impuesta a las - Art. 23�, N� 2�. Marzo 1998 Word Empresa de promoci�n y publicidad - Adquisici�n de bienes entregados gratuitamente con fines promocionales o publicitarios - Se consideran rentas los retiros de bienes... (Oficio N� 0737, del 17.03.1998). Ventas y servicios - Nuevo texto impuesto a las - arts. 9�, letra e) Y 55�, Marzo 1998 Word…
+del 17.03.1998). Ventas y servicios - Nuevo texto impuesto a las - arts. 9�, letra e) Y 55�, Marzo 1998
 
 ## Referencias detectadas
 

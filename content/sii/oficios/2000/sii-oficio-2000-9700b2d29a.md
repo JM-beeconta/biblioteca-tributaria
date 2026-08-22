@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-15
+- Fecha: 2000-06-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2223.htm
 - Hash SHA-256: 1d348bce3c3b71956fcb290b03f4334600c7ccfb87ca48b44ddbc1eb3ad48c56
 
 ## Resumen
 
-ont> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - Ley N� 19633 � C�digo Tributario, Art. 3� (Ord. N� 2351, de 15.06.2000). Word Efectos de la Ley N� 19.633, de 1999, en la posterior enajenaci�n de un veh�culo ingresado al pa�s al amparo de la Partida 0 del Arancel Aduanero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 13�, N�3. (Ord. N� 2.223, de 06.06.2000) Word Proporcionalidad del cr�dito fiscal aplicable en adquisici�n de bienes y utiliz…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 13�, N�3. (Ord. N� 2.223, de 06.06.2000)
 
 ## Referencias detectadas
 

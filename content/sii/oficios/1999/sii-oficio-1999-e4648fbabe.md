@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gn="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 y 18� Enero 1999 Word Venta de acciones � Calificaci�n de habitualidad � No se consideran habituales las inversiones en acciones de sociedades de complementaci�n industrial y en acciones de sociedades cuyo... (Oficio N� 363, del 02.02.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N�1 Enero 1999 Word Pensi�n no contributiva de sobrevivencia � Ley N� 19.234, que estableci� beneficios previsionales por gracia a personas exoneradas por…
+Word Pensi�n no contributiva de sobrevivencia � Ley N� 19.234, que estableci� beneficios previsionales por gracia a personas exoneradas por motivos pol�ticos � Ley no precisa situaci�n tributaria... (Oficio N� 362, del 02.02.1999)
 
 ## Referencias detectadas
 

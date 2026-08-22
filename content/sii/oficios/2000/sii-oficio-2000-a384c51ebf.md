@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-27
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta07.htm
 - Hash SHA-256: be4fcd79f1a570223199a77b499ed99fa3205f74cbb7792de6e7bec1669b46fb
 
 ## Resumen
 
-nt face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 33� - D.F.L. N� 2� de 1998 Del Min. de Educacion, Art. 5� - Circular N� 91, de 1980. Word Disposiciones Tributarias Para Colegios Subvencionados por el Estado. (Of. N� 4.558, de 27.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�- Art. 50� - Art. 126� Del Codigo Tributario � Circular N� 21�, de 1991 � Circular N� 151�, de 1976 y N� 42�, de 1990. Word Situaci�n Tributaria de Los Honorarios Boleteados por Los So…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�- Art. 50� - Art. 126� Del Codigo Tributario � Circular N� 21�, de 1991 � Circular N� 151�, de 1976 y N� 42�, de 1990.
 
 ## Referencias detectadas
 

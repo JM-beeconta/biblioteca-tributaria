@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m">Ley N� 13.039 - Art. 35�, Diciembre 1997 Forma de acreditar las rentas para los efectos de la franquicia aduanera del Art. 35�, de la Ley N� 13.039. (Of. 2.752 del 12/11/97) C�digo del Trabajo - Art. 47�, Noviembre 1997 Impuesto de Primera Categor�a que debe rebajarse para los efectos de la determinaci�n de la utilidad l�quida afecta a gratificaciones legales. (Of. N� 2.738, del 11/11/97) Convenio entre Chile y Argentina para evitar la doble tributaci�n - Decreto Supremo N� 32 de RR.EE de 1986, Noviembre 1997 T…
+el 11/11/97) Convenio entre Chile y Argentina para evitar la doble tributaci�n - Decreto Supremo N� 32 de RR.EE de 1986, Noviembre 1997 Tributaci�n que afecta a trabajadores extranjeros que realizan actividades en Chile. (Of. 2.685 del 31/10/97)
 
 ## Referencias detectadas
 

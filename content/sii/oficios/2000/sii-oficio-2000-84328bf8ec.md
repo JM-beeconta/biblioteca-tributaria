@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-10
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo15.htm
 - Hash SHA-256: e7a09b77b4ef8448ffdba7494870c77bc7a4cc10851d0aff103c00f3bc93ac15
 
 ## Resumen
 
-03.htm'>Renta- Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Art. 74, N� 1 Y Art. 78. Word Forma de declarar el impuesto �nico de segunda categor�a en el caso de una empresa extranjera, sin domicilio, residencia, ni representante legal ...(Of. N� 1.141, del 10.04.2000 � I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 84 letra A) - Circular N� 16, de 1991 - Circular N� 52, de 1993 - Circular N� 82, de 1976. Word Situaci�n Tributaria de Rentas provenientes del exterior frente a la oblig…
+Renta - Actual Ley sobre Impuesto a la - Art. 84 letra A) - Circular N� 16, de 1991 - Circular N� 52, de 1993 - Circular N� 82, de 1976.
 
 ## Referencias detectadas
 

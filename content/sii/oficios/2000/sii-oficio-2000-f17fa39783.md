@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-31
+- Fecha: 2000-01-27
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero19.doc
 - Hash SHA-256: 2868f342492e72b0a8be46953b75d093d1f95c335e02304a80c143abf5c3ea95
 
 ## Resumen
 
-ual texto - Art. 28� - Art. 3� y 507�, del c�digo de comercio - circular N� 29, de 1999. Word Improcedencia de la celebraci�n de un contrato de asociaci�n o cuentas en participaci�n entre personas que no sean calificadas de comerciantes. (Of. N� 350, de 31.01.2000 - I. Directos). C�digo tributario - actual texto - Art. 28� - Art. 14� de ley de la renta - Art. 507 al 511 del c�digo de comercio - circular N� 29, de 1999 Word Se consulta respecto a situaciones tributarias relacionadas con una asociaci�n o cuenta en p…
+Word Se consulta respecto a situaciones tributarias relacionadas con una asociaci�n o cuenta en participaci�n. (Of. N� 307, de 27.01.2000 - I. Directos)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 45 y 46., Junio 1997 Tributaci�n de bonificaciones anuales complementarias a las remuneraciones. (Of. No 1.141, del 02/06/97. I. Directos). Franquicias Tributarias - Capacitaci�n y Empleo - Estatuto del Actual Texto - Art. 21�, Junio 1997 Contribuyentes que pueden acogerse al beneficio tributario establecido en el Art. 21�. (Of. No 1.099, del 23/05/97. I. Directos). Timbres y Estampillas - Nuevo Texto Ley de Impuesto de - Art. 3�, Junio 1997 Acerca de la aplicaci�n del Impuesto Unico establecido en el Art. 3�…
+. Directos). Timbres y Estampillas - Nuevo Texto Ley de Impuesto de - Art. 3�, Junio 1997 Acerca de la aplicaci�n del Impuesto Unico establecido en el Art. 3�, del DL No 3.475, a la documentaci�n relativa a mercader�as adquiridas y vendidas en el extranjero, por una empresa chilena. (Of. No 1.045, del 15/05/97. I. Indirectos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Y"> Ley N� 18.502 - Art. 6� Impuesto a los combustibles. Octubre 1999 Word Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel, utilizado en camiones destinados a faenas mineras que no transitan por calles o v�as p�blicas. (Of. N� 4.180, de 17.11.1999 - I. Indirectos). Franquicias Tributarias - Ley N� 18.392, Art. 11 (D.O. 14.01.1985). Octubre 1999 Word anticipado por parte del IVA que grava la venta de carne faenada, que debe hacer el matadero que preste el servicio de faenamiento de ganado en las condiciones…
+Word anticipado por parte del IVA que grava la venta de carne faenada, que debe hacer el matadero que preste el servicio de faenamiento de ganado en las condiciones que establece el Art. 11. (Of. N� 4.178, de 17.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-misma oportunidad... (Oficio N� 2.408, del 01.06.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 1, Letra c) Y 17�, N� 8 Junio 1999 Word Divisi�n de sociedades de personas � No existe impedimento desde el punto de vista tributario � Inclusive producto de dicha divisi�n se puede crear una sociedad an�nima... (Oficio N� 2.407, del 01.06.1999). Renta - Actual ley sobre impuesto a la - Art. 41�. Junio 1999 Word Costo directo de venta de las mercader�as, materias primas y otros bienes del activo…
+01.06.1999). Renta - Actual ley sobre impuesto a la - Art. 41�. Junio 1999
 
 ## Referencias detectadas
 

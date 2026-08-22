@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-10
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/octubre02.htm
 - Hash SHA-256: 8e3f7ca5f8482c0587dd209b16ebc030ea4bbed237490f3c07372ab48c1c6cf4
 
 ## Resumen
 
-ART. 20�, N�1�, letra B) - Circulares N� 58 y 63, de 1990. Word Se solicita un pronunciamiento respecto de la aplicaci�n del art�culo 20, n�mero 1�, letra b), en el caso de una persona natural, due�a de un predio agr�cola que tributa ... (Of. N� 3.156, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 35�. Word Determinaci�n de la renta l�quida imponible de primera categor�a, de acuerdo al art�culo 35. (Of. N� 3.392, de 24.08.2000 - I. Directos.) Renta - Actual Ley sobre Impuesto a la - Ar…
+Renta - Actual Ley sobre Impuesto a la - Art. 35�.
 
 ## Referencias detectadas
 

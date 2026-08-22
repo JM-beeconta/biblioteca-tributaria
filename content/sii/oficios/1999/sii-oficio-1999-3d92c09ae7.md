@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-26
+- Fecha: 1999-05-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may18.htm
 - Hash SHA-256: 7ddfef0d173de97910e23e4e13737d9552c236dfa1aaacd2d2c94b5359477d6e
 
 ## Resumen
 
-N� 2.277, del 26.05.1999) . Ventas y servicios - Nuevo texto ley impuesto a las - Artes. 2� Y 8�. Word Direcci�n Nacional del Trabajo � Cobro por gastos de emisi�n de documentos � Centralizaci�n de documentaci�n, autorizaci�n de jornada especial, certificado de contratista, ratificaci�n de finiquitos � No se encuentran gravados con impuesto al ...Oficio N� 2.235, del 25.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra i) Mayo 1999 Word Estacionamiento de autom�viles � Playas de estacion…
+l 25.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra i) Mayo 1999
 
 ## Referencias detectadas
 

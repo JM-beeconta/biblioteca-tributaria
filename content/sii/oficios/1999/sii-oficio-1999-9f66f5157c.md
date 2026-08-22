@@ -11,7 +11,7 @@
 
 ## Resumen
 
-io de los bienes intervenidos... (Oficio N� 1.528, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 Y 18� Mayo 1999 Word Enajenaci�n de acciones � Tributaci�n del mayor valor obtenido � Contribuyente habitual en dicho tipo de operaciones , constituye renta para todos los efectos tributarios � cualquiera.... (Oficio N� 1.525, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59� Mayo 1999 Word Empresa argentina otorga a empresa chilena la representaci�n no exclusiva para la com…
+21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59� Mayo 1999
 
 ## Referencias detectadas
 

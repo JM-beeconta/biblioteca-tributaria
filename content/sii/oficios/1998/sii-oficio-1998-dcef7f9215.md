@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-05-15
+- Fecha: 1998-05-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/may11.htm
 - Hash SHA-256: 92a621661fb1fefac4c63c96351b881b4da8abc355c6a8b0d5764f1cb9729ccb
 
 ## Resumen
 
-destinados habitualmente a competencias deportivas - Estos �ltimos, son aquellos que s�lo tienen un motor auxiliar. (Oficio N� 1305, del 15.05.1998). Ventas y servicios -. Nuevo impuesto a las - Art. 8�, LETRA m) Mayo 1998 Word Veh�culos de transporte de carga - Financiados mediante sistema leasing - Ejercicio de opci�n de compra para su enajenaci�n posterior - C�mputo del plazo... (Oficio N� 1232, del 08.05.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 24� Mayo 1998 Word Declaraciones rectificator…
+del 08.05.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 24� Mayo 1998
 
 ## Referencias detectadas
 

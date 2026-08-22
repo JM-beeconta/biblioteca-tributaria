@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Tratamiento tributario de algunos desembolsos incurridos por empresas licitantes que obtuvieron una concesi�n de Obras P�blicas, los cuales por norma expresa... (Of. N� 3.025, de 02.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.18�. Circular N� 158, de 1976. Word Normas que regulan la habitualidad en la compra y venta de acciones. (Of. N� 3.020, de 02.08.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 59� N�1, Art. 74� N�4 y 79�. Word Tributaci�n que afecta a intereses obt…
+Word Normas que regulan la habitualidad en la compra y venta de acciones. (Of. N� 3.020, de 02.08.2000- I. Directos)
 
 ## Referencias detectadas
 

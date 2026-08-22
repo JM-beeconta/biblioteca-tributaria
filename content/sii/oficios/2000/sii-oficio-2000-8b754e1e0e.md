@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-01
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero17.htm
 - Hash SHA-256: 0d92afeb27d83c3644cd1fa628719f70e217a7ebf934faa9ac40e82db5e8909e
 
 ## Resumen
 
-� 383 de 01 de febrero de 2000) DFL N� 2, de 1996 - Art. 5� - beneficio tributario otorgado a subvenciones de establecimientos educacionales. Word Solicita se confirme si es correcto contabilizar dentro de los ingresos normales de la actividad educacional la subvenci�n otorgada por el Fisco en conformidad al Art. 5� del DFL N� 2, de 1996. (Of. N� 378, de 01.02.2000 - I. Directos). C�digo tributario - actual texto - Art. 28�. Word Tratamiento tributario aplicable a la asociaci�n o cuentas en participaci�n estableci…
+. Directos). C�digo tributario - actual texto - Art. 28�.
 
 ## Referencias detectadas
 

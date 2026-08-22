@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-02
+- Fecha: 2000-08-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/septiembre05.doc
 - Hash SHA-256: a1b54c6820a95b770fcf1380cbe5f34a450e668fbf8740c262dc685fde5bbde9
 
 ## Resumen
 
-Art.18�. Circular N� 158, de 1976. Word Normas que regulan la habitualidad en la compra y venta de acciones. (Of. N� 3.020, de 02.08.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 59� N�1, Art. 74� N�4 y 79�. Word Tributaci�n que afecta a intereses obtenidos por persona que carece de domicilio o residencia en Chile por dep�sito en moneda extranjera ... (Of. N� 3.195, de 16.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 45� inciso 2�, Art. 46� inciso 2� y 3�- Ley N� 19.553, d…
+Word Tributaci�n que afecta a intereses obtenidos por persona que carece de domicilio o residencia en Chile por dep�sito en moneda extranjera ... (Of. N� 3.195, de 16.08.2000 - I. Directos)
 
 ## Referencias detectadas
 

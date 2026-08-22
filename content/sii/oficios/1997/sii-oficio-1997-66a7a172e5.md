@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-04-24
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/abr01.htm
 - Hash SHA-256: ce0e90a56ae27f66360e09f84b2d71de7a7bb3232239ba32f10fcb8c41bc4937
 
 ## Resumen
 
-en que se gravan respecto de sus accionistas las utilidades aportadas a otras sociedades, producto de fusiones o reorganizaci�n de empresas. (Ordinario N� 879, de 24 de Abril de 1997) Renta - Actual Ley Sobre Impuesto a La - Art. 17 No. 15. Tratamiento Tributario de las asignaciones de traslaci�n y vi�ticos. (Of. No 761, del 14/04/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 14� y 31�, C�digo Tributario, Art. 64� Situaci�n tributaria del aporte de bienes de Asociaciones Gremiales a sociedades co…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 14� y 31�, C�digo Tributario, Art. 64� Situaci�n tributaria del aporte de bienes de Asociaciones Gremiales a sociedades comerciales en formaci�n. Alcances de las instrucciones de la circular No 68, de 1996. (Of. No 696, del 04/04/97. I. Directos).
 
 ## Referencias detectadas
 

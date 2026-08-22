@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta - Actual ley sobre impuesto a la - Art. 57� Bis Word Sociedad conyugal - Adquisici�n de acciones de primera emisi�n acogidas a beneficio tributario - Disoluci�n de la sociedad conyugal en virtud de pacto de separaci�n de bienes... (Oficio N� 2.575, del 24.09.1998). Renta - Actual ley sobre impuesto a la - Art. 14� , Letra A),N� 1, Letra c) Word Rentas retiradas para ser reinvertidas en otras empresas - No gravadas con impuestos Global Complementario o Adicional, mientras no sean retiradas - Inversiones s�lo…
+Word Rentas retiradas para ser reinvertidas en otras empresas - No gravadas con impuestos Global Complementario o Adicional, mientras no sean retiradas - Inversiones s�lo pueden... (Oficio N� 2.573, del 24.09.1998).
 
 ## Referencias detectadas
 

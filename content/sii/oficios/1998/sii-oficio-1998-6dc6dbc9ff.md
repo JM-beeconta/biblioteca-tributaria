@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Unico de Segunda... (Oficio N� 1114, del 27.04.1998). Decreto ley N� 3.500 - Nuevo sistema de pensiones - ART. 71� Mayo 1998 Word Excedentes de libre disposici�n - Retiro afecto a un Impuesto Unico - Determinaci�n de la tasa - Aplicaci�n sobre el monto de cada retiro - Retenci�n por la Administradora... (Oficio N� 1113, del 27.04.1998). Timbres y estampillas - Nuevo texto ley sobre - Impuesto de Arts. 15� Y 16� Abril 1998 Word Escrituras p�blicas que contienen operaciones de cr�dito de dinero - Afectas impuesto Le…
+27.04.1998). Timbres y estampillas - Nuevo texto ley sobre - Impuesto de Arts. 15� Y 16� Abril 1998
 
 ## Referencias detectadas
 

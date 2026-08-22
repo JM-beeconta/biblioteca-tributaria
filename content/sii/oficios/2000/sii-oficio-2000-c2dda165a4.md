@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.506, de 1997. (Ord. N� 4472, de 21.11.2000) Word Base imponible del impuesto especial a la transferencia de veh�culos motorizados usados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra i). (Ord. N� 4471, de 21.11.2000) Word Solicita pronunciamiento aclaratorio acerca de la tributaci�n con Impuesto al Valor Agregado que afecta al estacionamiento de veh�culos en la v�a p�blica. Ventas y Servicios � Nue…
+Word Solicita pronunciamiento aclaratorio acerca de la tributaci�n con Impuesto al Valor Agregado que afecta al estacionamiento de veh�culos en la v�a p�blica.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Arts. 17�, N� 8 Letra a) y 18� Abril 1999 Word Mayor valor obtenido en la enajenaci�n de acciones � Calificaci�n de habitual o no de tales operaciones � Se consideran el conjunto de circunstancias previas o concurrentes a la enajenaci�n... (Oficio N� 1178, del 08.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59�, N� 2 � Ventas y servicios - Nuevo texto - Ley impuesto a las - Art. 12�, Letra E, N� 7 Abril 1999 Word Emisi�n y colocaci�n de instrumentos de deuda p�blica en el extranjero � Agentes colocadore…
+Word Emisi�n y colocaci�n de instrumentos de deuda p�blica en el extranjero � Agentes colocadores, bancos de inversi�n extranjeros � comisiones exentas de impuesto adicional, si operaciones son... (Oficio N� 1062, del 06.04.1999).
 
 ## Referencias detectadas
 

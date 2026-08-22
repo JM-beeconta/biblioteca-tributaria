@@ -11,7 +11,7 @@
 
 ## Resumen
 
-; Impuesto al Valor Agregado y base imponible aplicable en arrendamiento de inmueble amoblado (Of. N� 2.463 del 20/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 2�, N� 2, Noviembre 1997 Impuesto al Valor Agregado en servicios consistentes en custodia, almacenamiento y bodegaje de todo tipo de papeles, memoriales, y documentos... (Of. N� 2.415 del 15/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 3�, Noviembre 1997 Impuesto al Valor Agregado en servicios utilizados por Asociaciones de…
+el 15/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 3�, Noviembre 1997 Impuesto al Valor Agregado en servicios utilizados por Asociaciones de Canalistas. (Of,. 2.338 , 7/10/97)
 
 ## Referencias detectadas
 

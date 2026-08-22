@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-03-08
+- Fecha: 1999-03-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/mar04.doc
 - Hash SHA-256: 92705cd2e4da8a40fd7805416c2f5d6e4fa0bde547c6057ad2039e78cb2a39de
 
 ## Resumen
 
-e="arial" size="2"> Ventas y servicios - Nuevo texto - Ley de impuesto a las - Arts. 42�, N� 2 y 43�, N� 2. Marzo1999 Word Servicios profesionales prestados por dentistas en una unidad m�vil de emergencia dental �Profesionales independientes quedan clasificados en la segunda categor�a � No es �bice...Oficio N�542, del 08.03.1999 Ventas y servicios - Nuevo texto - Ley impuesto a las - Art. 2�, N� 2 Marzo 1999 Word Servicio de eliminaci�n de basura, mediante conformaci�n del denominado relleno sanitario � Concepto d…
+Word Servicio de eliminaci�n de basura, mediante conformaci�n del denominado relleno sanitario � Concepto de servicio para efectos del D.L. 825, de 1974 � Servicios de aseo de calles, recogida...Oficio N�528, del 03.03.1999 .
 
 ## Referencias detectadas
 

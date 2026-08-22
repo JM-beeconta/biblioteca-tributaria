@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o Impuesto a las - Arts. 21� y 57�, Noviembre 1997 Improcedencia de devoluci�n de impuesto por facturas de servicios impagos, anuladas con notas de cr�dito (Of. N� 2.567 del 28/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8�, letra g), Noviembre 1997 Impuesto al Valor Agregado en arrendamiento de galp�n modulado dotado de energ�a el�ctrica y alfombra (Of. N� 2.504 del 24/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8� letra g) y 17�, Noviembre 1997 Impuesto al Valor Agregado y bas…
+el 24/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8� letra g) y 17�, Noviembre 1997 Impuesto al Valor Agregado y base imponible aplicable en arrendamiento de inmueble amoblado (Of. N� 2.463 del 20/10/97)
 
 ## Referencias detectadas
 

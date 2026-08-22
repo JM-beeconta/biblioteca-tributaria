@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-30
+- Fecha: 1998-04-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/may05.htm
 - Hash SHA-256: dad2335a0faa5a13c8afc3f45548add1320765c57091fdde1d673f38e5812a96
 
 ## Resumen
 
-es originados en cr�ditos destinados a adquirir bienes del activo fijo. (Ordinario N� 1165 de 30-04-1998). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 1 Y 43� N� 1 Word Aguinaldo de Navidad, Ley N� 19.502, de 1997 - Ingreso no imponible - Para efectos tributarios constituye renta - Afecto a Impuesto Unico de Segunda... (Oficio N� 1135, del 28.04.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, LETRA B) Word R�gimen de incentivo al ahorro establecido en el Art. 57� Bis, letra B, de la Ley de…
+28.04.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, LETRA B)
 
 ## Referencias detectadas
 

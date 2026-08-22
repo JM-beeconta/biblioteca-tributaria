@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-04-24
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/may07.htm
 - Hash SHA-256: 08ca5bd48af0effe9599607382a88b57ffc242f3de3faad48b2e287583f5659e
 
 ## Resumen
 
-ctos). Ley de Impuesto a la Renta. Art�culos 2� ,14� y 52�. Oportunidad en que se gravan respecto de sus accionistas las utilidades aportadas a otras sociedades, producto de fusiones o reorganizaci�n de empresas. (Ordinario N� 879, de 24 de Abril de 1997) Renta - Actual Ley Sobre Impuesto a La - Art. 17 No. 15. Tratamiento Tributario de las asignaciones de traslaci�n y vi�ticos. (Of. No 761, del 14/04/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 14� y 31�, C�digo Tributario, Art. 64� Situaci�n t…
+Renta - Actual Ley Sobre Impuesto a La - Art. 17 No. 15. Tratamiento Tributario de las asignaciones de traslaci�n y vi�ticos. (Of. No 761, del 14/04/97. I. Directos).
 
 ## Referencias detectadas
 

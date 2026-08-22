@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-17
+- Fecha: 1998-09-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep07.htm
 - Hash SHA-256: 648a6aca82b567322b8e888f8aa2daadc34161094075d5a8e73e185954ee0f68
 
 ## Resumen
 
-capital propio inicial igual o inferior al equivalente... (Oficio N� 2.545, del 17.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 7 Word Donaciones en especies - Unico fin sea la realizaci�n de programas de instrucci�n b�sica o media gratuitas, t�cnica, profesional o universitaria - Pueden ser rebajadas como gastos... (Oficio N� 2.517, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art. 59� Word Intereses provenientes de la emisi�n de bonos en el extranjero - Reajustables de acuerdo a…
+14.09.1998). Renta - Actual ley sobre impuesto a la - Art. 59�
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1001
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-06-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio07.doc
 - Hash SHA-256: da88dd3a6e0ea7eebe22fce7ec58c352cb5981925d57ef1873558626b1be72a7
 
 ## Resumen
 
-/a> Word Situaci�n tributaria de aportes empresariales entregados a Proyectos de Fomento, patrocinados por la Corporaci�n de Fomento de la Producci�n...(Of. N� 2.566, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 31�. Word Solicita un pronunciamiento respecto a que si los aportes efectuados por entes privados para la construcci�n de una obra vial, podr�an ser... (Of. N� 2.609, de 30.06.2000 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 2, Art. 33�, Art. 59�, Art…
+Word Solicita un pronunciamiento respecto a que si los aportes efectuados por entes privados para la construcci�n de una obra vial, podr�an ser... (Of. N� 2.609, de 30.06.2000 - I. Directos).
 
 ## Referencias detectadas
 

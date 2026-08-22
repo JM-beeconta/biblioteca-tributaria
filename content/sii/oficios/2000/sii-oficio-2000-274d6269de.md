@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-12
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ventas01.htm
 - Hash SHA-256: d3be2832aee953ac4b34cee457a43e67037234beb4559d197721083196f5c09b
 
 ## Resumen
 
-arial' size='1'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Art. 13� N� 3� - Art. 20� N� 3� de la Ley de la Renta � Art. 3� N� 6�, Del Codigo de Comercio - Circular N� 68�, de 1975. Word Impuesto Al Valor Agregado Que Afecta Al Transporte de Personal, Materiales y Objetos. (Of. N� 4.775 de 12.12.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 1�, Art. 8�, Art. 13� N� 5�. Word IVA en Venta de Drogas Antineopl�sicas en Establecimientos Del Sistem…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 1�, Art. 8�, Art. 13� N� 5�.
 
 ## Referencias detectadas
 

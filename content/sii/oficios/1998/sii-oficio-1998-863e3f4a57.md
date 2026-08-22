@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mpuesto a la - Arts. 15�, 29�, 30� y 84� Impuesto a las ventas y servicios - Arts. 16� y 55� Word A) Contrato de concesi�n municipal - remodelaci�n, construcci�n y concesi�n bandej�n central de una avenida - pago de los trabajos con entrega en concesi�n exclusiva... B) Licitaci�n Municipal - Construcci�n y habitaci�n de vertederos de residuos s�lidos - Ingresos empresas concesionarias por explotaci�n y recuperaci�n de costos... (Oficio N� 54, del 07.01.1998 ) Renta - Actual ley sobre impuesto a la - Art. 17�, N� 3…
+07.01.1998 ) Renta - Actual ley sobre impuesto a la - Art. 17�, N� 3,
 
 ## Referencias detectadas
 

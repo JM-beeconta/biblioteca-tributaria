@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-21
+- Fecha: 1999-04-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/abr09.doc
 - Hash SHA-256: cf8f219b60dd17a3bbce06b6283603885097d4d9d5a01eb00a34ecc5734151e0
 
 ## Resumen
 
-="MsoNormal"> Venta y servicios - Nuevo texto ley impuesto a las - Arts. 2� N� 1 Y 8� Mayo 1999 Word Sociedad de profesionales � Construcci�n de inmuebles encomendado a constructora a suma alzada � Venta de oficinas a sus socios � Transferencia no afecta a IVA... Oficio N� 1.528, del 21.04.1999 Ventas y servicios - Nuevo texto - Ley impuesto a las - Arts. 8�, Letra i) Abril 1999 Word Estacionamiento de veh�culos motorizados en la v�a p�blica � Definici�n de v�a p�blica � No puede entenderse que la v�a p�blica se e…
+Word Estacionamiento de veh�culos motorizados en la v�a p�blica � Definici�n de v�a p�blica � No puede entenderse que la v�a p�blica se encuentre destinada, aunque sea en forma parcial...Oficio N� 1243, del 14.04.1999.
 
 ## Referencias detectadas
 

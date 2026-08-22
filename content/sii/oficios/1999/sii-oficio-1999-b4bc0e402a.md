@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"> Renta - Actual ley sobre impuesto a la - Art. 59�, N� 4 Abril 1999 Word Impuesto adicional que afecta a naves extranjeras por fletes mar�timos � Exenci�n sobre base de reciprocidad � Facultad de emitir certificado de dicha norma, est� radicada en... (Oficio N� 1179, del 08.04.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 Letra a) y 18� Abril 1999 Word Mayor valor obtenido en la enajenaci�n de acciones � Calificaci�n de habitual o no de tales operaciones � Se consideran el conjunto de circunsta…
+Word Mayor valor obtenido en la enajenaci�n de acciones � Calificaci�n de habitual o no de tales operaciones � Se consideran el conjunto de circunstancias previas o concurrentes a la enajenaci�n... (Oficio N� 1178, del 08.04.1999).
 
 ## Referencias detectadas
 

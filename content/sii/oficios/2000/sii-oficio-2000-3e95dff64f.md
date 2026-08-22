@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-02
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio02.htm
 - Hash SHA-256: 3100af3558864abda1b6013f72d9ffab3cc7d5e5899596aaa1483065c8341676
 
 ## Resumen
 
-Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 2, - Art. 20� N� 3 y 4 de la Ley de la Renta - Art. 126� y 128� del C�digo Tributario. Word Tributaci�n que afecta a contrato de "Prestaci�n de servicios de maquinarias y camiones tolvas de volteo" suscrito por una Municipalidad con un contratista. (Of. N� 2.186, del 02/06/2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, Art. 3�, Art. 8 - Art. 5� Ley de Impuesto a la Renta - Art. 69� del C�digo Tributario. Wor…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, Art. 3�, Art. 8 - Art. 5� Ley de Impuesto a la Renta - Art. 69� del C�digo Tributario.
 
 ## Referencias detectadas
 

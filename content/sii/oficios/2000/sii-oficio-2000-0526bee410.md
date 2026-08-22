@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-01
+- Fecha: 2000-05-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/junio06.doc
 - Hash SHA-256: 61b3cda45ee39f8619f611f64da23ef1b6967094d2cf78d321c25b9aa8a918e7
 
 ## Resumen
 
-Solicita se confirmen los criterios expresados en el Oficio N� 3.625, del a�o 1995, de este Servicio, en relaci�n con los efectos tributarios que se producen como consecuencia de la fusi�n de sociedades. (Of. N� 2.172 de 01/06/2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 2�, N� 1. Word Tributaci�n de pagos a favor de un trabajador que es trasladado al extranjero efectuados por su empleador para los efectos de mantener su continuidad en el sistema previsional y de salud Chileno. (Of. N� 1.863,…
+Word Tributaci�n de pagos a favor de un trabajador que es trasladado al extranjero efectuados por su empleador para los efectos de mantener su continuidad en el sistema previsional y de salud Chileno. (Of. N� 1.863, de 22/05/2000 - I. Directos)
 
 ## Referencias detectadas
 

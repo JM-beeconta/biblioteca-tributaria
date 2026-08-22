@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-13
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/agosto17.htm
 - Hash SHA-256: d37a1afabbda1219e8b7b85c9d1ee082c84b02b7dd7dab9f2571331506c1427b
 
 ## Resumen
 
-3.437, del 13.09.1999 - I. Indirectos). Ley N� 19.622. Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.59). Agosto 1999 Word Procedencia de la rebaja tributaria establecida en la Ley N� 19.622, en caso de un bien ra�z adquirido en comunidad por c�nyuges. (OF. N� 3.305, del 01.09.1999 - I. Indirectos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2.(D.O. de 31.07.59). Agosto 199…
+ctos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2.(D.O. de 31.07.59). Agosto 1999
 
 ## Referencias detectadas
 

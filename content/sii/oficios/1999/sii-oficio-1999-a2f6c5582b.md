@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-29
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre07.htm
 - Hash SHA-256: 85e1f051b8eb1646c7da96f280a0e3f31c22c6c5b3734e0952ca5f27a7606d5e
 
 ## Resumen
 
-- Art. 2�, N� 2, Art. 12�, N� 2, letra e), Art. 20�, N� 3 y 4, Art. 23�, Art. 36� - Art. 7� del D.L. N� 3.059, de 1979. Noviembre 1999 Word Solicita recuperaci�n del IVA que corresponda exclusivamente al aprovisionamiento de rancho de naves que s�lo efect�an transporte de carga desde y hacia Chile, en forma separada de la solicitud de reembolso de todo el impuesto soportado en el per�odo por cada una de las navieras. (Of. N� 4.320, del 29.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo Texto - Ley Impuesto a…
+Indirectos). Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, N� 4 - Art. 31� de la Ley de la Renta - Circular N� 71, de 1977 - Res. 34, de 24.03.81 (D.O. 25.04.81). Noviembre 1999
 
 ## Referencias detectadas
 

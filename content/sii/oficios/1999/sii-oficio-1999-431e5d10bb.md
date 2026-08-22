@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-24
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jul02.htm
 - Hash SHA-256: d9ee287ad6f4515030fc251ef7a2ef380d9aa3795fd7db659f8f84e90e961fdc
 
 ## Resumen
 
-08.1999 - I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2 del Decreto Ley N� 825 y Ley N� 18.490. Agosto 1999 Word Tributaci�n de cobranza de atenciones cl�nicas prestadas a lesionados en accidentes de tr�nsito cuyos pagos son cubiertos por la ley sobre seguros obligatorios de accidentes personales. (Oficio N� 3.212, del 24.08.1999 � I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. N�s. 17�, N� 5 Y 7 Y 33� N� 1, Letra f). , Julio 1999 Word Valor de emisi�n y suscripci�n de acciones…
+. Directos). Renta - Actual Ley sobre Impuesto a la - Art. N�s. 17�, N� 5 Y 7 Y 33� N� 1, Letra f). , Julio 1999
 
 ## Referencias detectadas
 

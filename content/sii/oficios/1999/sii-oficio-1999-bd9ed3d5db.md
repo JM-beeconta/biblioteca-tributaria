@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-15
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/octubre15.htm
 - Hash SHA-256: 82749c7a9828b885d038a123fefc9fdbfe5a68a7cc60869fabdabcd85b5d76ad
 
 ## Resumen
 
-"arial" size="2"> Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 30, 36 - Art. 20�, N� 2, letras c) y d) de la Ley sobre Impuesto a La Renta - Circular N� 19, de 1999. Octubre 1999 Word Respecto a la procedencia de que Indap puede acceder al beneficio de la franquicia SENCE contemplada en la Ley N� 19.518, para la capacitaci�n de sus funcionarios. (Of. N� 4.149, de 15.11.1999 - I. Directos). Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto Art. 36� -…
+ctos). Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto Art. 36� - Art. 14 bis, 20�, N� 2, letras c) y d) de la Ley sobre Impuesto a la Renta - Circular N� 143, de 1972. Octubre 1999
 
 ## Referencias detectadas
 

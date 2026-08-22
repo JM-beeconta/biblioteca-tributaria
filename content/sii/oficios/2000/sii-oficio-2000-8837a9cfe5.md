@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-20
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/marzo05.htm
 - Hash SHA-256: e4179bacb79d54c03fc6d47020bd5cc9ff98864fbe709dcd33e41a31818911de
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 4 � Art. 31 de la Ley de la Renta � Circular N� 71 y 130 de 1977. Word Tratamiento tributario que debe darse a las adquisiciones de veh�culos station wagon o minibuses y de sus repuestos e insumos (Of. N� 854, del 20.03.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Letra g), Art. 13 N� 3 � Art. 20� N� 3 de la Ley de la Renta � Art. 3� N� 3 del C�digo de Comercio. Word IVA que afecta a los se…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Letra g), Art. 13 N� 3 � Art. 20� N� 3 de la Ley de la Renta � Art. 3� N� 3 del C�digo de Comercio.
 
 ## Referencias detectadas
 

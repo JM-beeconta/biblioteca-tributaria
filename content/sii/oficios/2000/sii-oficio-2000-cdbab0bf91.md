@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio05.htm
 - Hash SHA-256: 1795743c6038a675a4161b001da0d7d68d793f07b2bf4fdb6f062836f06ceb0d
 
 ## Resumen
 
-59�, Art. 74�, N� 4 Y Art. 79� - Art.. 16 del C�digo Tributario. Word Situaci�n tributaria de operaci�n de financiamiento que proviene del exterior y por lo cual se formulan las siguientes consultas: a) tributo al cual estar�a afecto....(Of. N� 2.563, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 18�, Art. 58�, N� 1 - Art. 103� de Ley N� 13.305, modificado por el Art�culo 18� de la Ley N� 16.773 - Art�culo 64� del C�digo Tributario - Circular N� 158, de 1976. Word Reorganizaci�n empres…
+Renta - Actual Ley sobre Impuesto a la - Art. 18�, Art. 58�, N� 1 - Art. 103� de Ley N� 13.305, modificado por el Art�culo 18� de la Ley N� 16.773 - Art�culo 64� del C�digo Tributario - Circular N� 158, de 1976.
 
 ## Referencias detectadas
 

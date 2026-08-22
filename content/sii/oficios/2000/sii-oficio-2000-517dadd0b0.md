@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-28
+- Fecha: 2000-11-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4567.htm
 - Hash SHA-256: ab3e747f09804c42e1709ec2b36bbe26b5547da5d49c3dc540f21f42ccd6228b
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 12�, letra A), N�1, Art. 41�. (Ord. N� 4592, de 28.11.2000) Word Sentido y alcance que tiene la expresi�n �veh�culos motorizados� para los efectos de la aplicaci�n de la exenci�n contemplada en el art�culo 12 letra A) N� 1 del D.L. N� 825. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� - Ley N� 18.660, de 1987, Art. 7�, Art. 8� - Decreto Ley N� 1092, de 1975, Art. 3�. (Ord. N� 4567, de 27.11.2000) Word…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� - Ley N� 18.660, de 1987, Art. 7�, Art. 8� - Decreto Ley N� 1092, de 1975, Art. 3�. (Ord. N� 4567, de 27.11.2000)
 
 ## Referencias detectadas
 

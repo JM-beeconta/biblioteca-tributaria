@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-23
+- Fecha: 1998-03-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/abr04.doc
 - Hash SHA-256: 63492107ffd82336f21789f178dfd162665bb5f7e9b638f2572befae0f7f1751
 
 ## Resumen
 
-JUSTIFY"> Timbres y estampillas - Nuevo texto ley sobre - Impuesto de Arts. 15� Y 16� Abril 1998 Word Escrituras p�blicas que contienen operaciones de cr�dito de dinero - Afectas impuesto Ley de Timbres y Estampillas - Sujeto responsable del pago del impuesto - Caso... (Oficio N� 1086, del 23.04.1998). C�digo tributario - Actual texto - Arts. 126�, 200� Y 201� Abril 1998 Word Errores contables, rectificaci�n - inexistencia de plazo - Efectos tributarios - Impuesto mayor al declarado, servicio facultado para efectu…
+Word Errores contables, rectificaci�n - inexistencia de plazo - Efectos tributarios - Impuesto mayor al declarado, servicio facultado para efectuar su cobro dentro plazo de... (Oficio N� 0784, del 23.03.1998).
 
 ## Referencias detectadas
 

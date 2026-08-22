@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nda Categor�a que afecta a asignaci�n complementaria pagada a funcionarios p�blicos en virtud del Art. 12�... (Of. N� 2.800 del 03/12/97). Renta - Actual Ley sobre Impuesto a la- Art. 14� Plazo para materializar la reinversi�n de utilidades consistente en el aporte de un bien ra�z agr�cola a una nueva sociedad. (Of. N� 2.751, del 12/11/97). Renta - Actual Ley sobre Impuesto a la - Arts. 41� A, 41� B y 41� C Requisitos que se deben cumplir para acceder al cr�dito por impuestos pagados, retenidos o adeudados por inv…
+/11/97). Renta - Actual Ley sobre Impuesto a la - Arts. 41� A, 41� B y 41� C Requisitos que se deben cumplir para acceder al cr�dito por impuestos pagados, retenidos o adeudados por inversiones en el exterior. (Of. N� 2.678 del 7/11/97)
 
 ## Referencias detectadas
 

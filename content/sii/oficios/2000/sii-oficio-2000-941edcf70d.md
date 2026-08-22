@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-18
+- Fecha: 2000-12-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ventas03.doc
 - Hash SHA-256: 573ef02f3014a92afc5afbac8bf478e5f77e4061a97972dabc487ec15ad53532
 
 ## Resumen
 
-'ventas/ventas04.htm'>Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�. Word Recuperaci�n Del Impuesto Al Valor Agregado por Empresa de Aeronavegaci�n Internacional Que Efect�a Transporte de Pasajeros Desde Chile Hacia el Exterior y Viceversa Con Modalidad de "C�digo Compartido". (Of. N�4.842, de 18.12.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8�, Letra G). Word Incidencia Del IVA. en Contrato Que Se Describe Como "Servicio de Venta Automatizada de Boletos d…
+Word Incidencia Del IVA. en Contrato Que Se Describe Como "Servicio de Venta Automatizada de Boletos de Pasaje". (Of. N� 4.895, de 26.12.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

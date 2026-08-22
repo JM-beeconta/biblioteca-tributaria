@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-09
+- Fecha: 2000-04-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja1419.htm
 - Hash SHA-256: b6ad0412a16b4feab761faae7f1fcb25161c500f4f57c5266a9d3a48c8e624dc
 
 ## Resumen
 
-arial' size='2'> Renta - Actual Ley Sobre Impuesto a la - Art. 57� bis � Ley N� 19.578, Art. 18� - Circulares N� 56 de 1993 y N� 71, de 1998. (Ord. N� 1.522, de 09.05.2000). Word Beneficios tributarios del art�culo 57 bis de la Ley de la Renta respecto de dep�sitos a plazo. Renta - Actual Ley Sobre Impuesto a la - Art. 17�, N� 8, letra a), Art. 17�, N� 13. (Ord. N� 1419, de 28.04.2000) Word Venta de acciones adquiridas a cuenta de indemnizaci�n por a�os de servicio. Renta � Actual Ley Sobre Impuesto a la � Art. 41…
+Renta - Actual Ley Sobre Impuesto a la - Art. 17�, N� 8, letra a), Art. 17�, N� 13. (Ord. N� 1419, de 28.04.2000)
 
 ## Referencias detectadas
 

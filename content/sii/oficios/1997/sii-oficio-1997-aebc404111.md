@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-10-30
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/nov15.htm
 - Hash SHA-256: 5209889beb9f84c5a1f667ac382c533f0ce9e4a6410a2169ecc2320f9b8fa76c
 
 ## Resumen
 
-Supervisi�n de la edificaci�n de un inmueble no es prestaci�n que integre la construcci�n misma del bien (Of. N� 2.742, del 11/11/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 36�, Diciembre 1997 Per�odo tributario al que deben corresponder los datos para determinar el monto del IVA recuperable por los exportadores, en el caso que la venta al exterior.. (Of. N� 2.740 del 11/11/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8�, letra g), Noviembre 1997 Impuesto al Valor Agregado en servicio…
+el 11/11/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 8�, letra g), Noviembre 1997 Impuesto al Valor Agregado en servicio de monta de caballo de fina sangre de carrera, destinado a reproductor. (Of. N� 2.634, del 20/10/97)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-02
+- Fecha: 2000-06-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio02.doc
 - Hash SHA-256: 374379e7391130d1dc6f795984b3d42e4305bbc8c4785d8ee93d28a8a1523579
 
 ## Resumen
 
-Ley de la Renta - Art. 126� y 128� del C�digo Tributario. Word Tributaci�n que afecta a contrato de "Prestaci�n de servicios de maquinarias y camiones tolvas de volteo" suscrito por una Municipalidad con un contratista. (Of. N� 2.186, del 02/06/2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, Art. 3�, Art. 8 - Art. 5� Ley de Impuesto a la Renta - Art. 69� del C�digo Tributario. Word Aplicaci�n del Impuesto al Valor Agregado a la cesi�n de derechos hereditarios que se efectar�n…
+Word Aplicaci�n del Impuesto al Valor Agregado a la cesi�n de derechos hereditarios que se efectar�n como aporte a la creaci�n de una sociedad comercial. (Of. N� 2.169, del 01/06/2000 - I. Indirectos)
 
 ## Referencias detectadas
 

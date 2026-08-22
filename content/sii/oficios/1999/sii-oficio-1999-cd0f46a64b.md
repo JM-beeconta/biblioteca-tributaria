@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-29
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre05.htm
 - Hash SHA-256: 5ceb5646933a3c643ed2825b7ce28888a970d04a0c52a8fe93c1193d75088ea2
 
 ## Resumen
 
-sto a las - Art. 27� Bis - Art. 126� del C�digo Tributario. Noviembre 1999 Word Recuperar a trav�s del mecanismo del Art. 27� bis, el cr�dito fiscal de una factura registrada en el libro de compraventa fuera de los per�odos indicados en la ley o si es posible efectuar tal recuperaci�n a trav�s del mecanismo del Art. 126 del C�digo Tributario en la medida en que se haya producido un pago de impuesto al Valor Agregado. (Of. N� 4.324, del 29.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a…
+Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 12�, N� 2, letra e), Art. 20�, N� 3 y 4, Art. 23�, Art. 36� - Art. 7� del D.L. N� 3.059, de 1979. Noviembre 1999
 
 ## Referencias detectadas
 

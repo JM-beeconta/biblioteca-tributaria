@@ -11,7 +11,7 @@
 
 ## Resumen
 
-para sus beneficiarios si se considera razonable a juicio del Director Regional respectivo... (Oficio N� 2.618, del 29.09.1998). Renta - Actual ley sobre impuesto a la - Art.14� , Letra A), N� 1, Letra b) Word Divisi�n de sociedades - Sociedades de personas - Socios nuevas sociedades corresponden los mismos derechos y participaciones... (Oficio N� 2.616, del 29.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 5 Ventas y servicios - Nuevo texto a impuesto a las - Art. 23� , N� 1 Word Equipos de lubr…
+29.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 5 Ventas y servicios - Nuevo texto a impuesto a las - Art. 23� , N� 1
 
 ## Referencias detectadas
 

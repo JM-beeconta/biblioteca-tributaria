@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Marzo de 1998) Renta - Actual ley sobre impuesto a la - Art. 31� Word Pensi�n alimenticia - Improcedencia de deducir para determinar base imponible - No se enmarcan dentro del concepto de gasto necesario para producir la renta. (Oficio N� 564, del 20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 41� BIS Y 101� Word Cuentas de ahorro para el arrendamiento de viviendas con promesas de compraventa - Ley N� 19.281, reglamentada por D.S. N� 1.334, de 1995... (Oficio N� 563, del 20.02.1998). Renta - Actual…
+Word Cuentas de ahorro para el arrendamiento de viviendas con promesas de compraventa - Ley N� 19.281, reglamentada por D.S. N� 1.334, de 1995... (Oficio N� 563, del 20.02.1998).
 
 ## Referencias detectadas
 

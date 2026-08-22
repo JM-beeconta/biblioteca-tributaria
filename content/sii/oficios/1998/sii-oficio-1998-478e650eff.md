@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-14
+- Fecha: 1998-09-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep02.doc
 - Hash SHA-256: f67f79aff19bde9e00c4e0232aa27602f491e1992ab8ec5396183f8e5eb75475
 
 ## Resumen
 
-del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art.. 33� Bis. Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado - Remanentes que se produzcan durante los a�os tributarios 1999 al 2002, podr�n imputarse al impuesto de Primera... (Oficio N� 2.503, del 10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 20� , N� 2 Word Rentas de capitales mobiliarios - Intereses, pensiones o cualesquiera otros productos derivados del dominio, posesi�n o tenencia a t�tulo precario de cualquier cl…
+Word Rentas de capitales mobiliarios - Intereses, pensiones o cualesquiera otros productos derivados del dominio, posesi�n o tenencia a t�tulo precario de cualquier clase de capital mobiliario... (Oficio N� 2.502, del 10.09.1998).
 
 ## Referencias detectadas
 

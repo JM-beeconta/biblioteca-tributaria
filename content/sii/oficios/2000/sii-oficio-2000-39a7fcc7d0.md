@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-11
+- Fecha: 2000-12-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4693.htm
 - Hash SHA-256: 3ea6c21a07942be1cee995689fcb8f7c28eeb2f14738bff61c03146498ea7dc2
 
 ## Resumen
 
-ize='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�4. (Ord. N� 4730, de 11.12.2000) Word Informa sobre procedencia de exenci�n de impuesto Adicional a los fletes mar�timos establecida en el N� 4 del art�culo 59 de la Ley de la Renta respecto de naves extranjeras. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�5, Art. 41�. (Ord. N�4693, de 04.12.2000) Word Determinaci�n del costo tributario de la enajenaci�n de pr�stamo efectuado a una sociedad de personas. Renta � Actual Ley Sobre Impuesto a la �…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�5, Art. 41�. (Ord. N�4693, de 04.12.2000)
 
 ## Referencias detectadas
 

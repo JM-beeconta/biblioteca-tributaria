@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en cesi�n de servidumbres de pasto de l�neas el�ctricas y en venta de l�neas el�ctricas. (Of. No862, del 22/04/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 37� y 40�, Mayo 1997 Art�culos de adornos para damas, confeccionados con oro, se gravan con el impuesto adicional establecido en los Arts. 37� y 40� del D.L. No 825, de 1974. (Of. No778, del 14/04/97. I. Indirectos) Ventas y Servicios- Nuevo Texto Impuesto a Las - Art. 2�, No 2�, Mayo 1997 Servicios odontol�gicos consistentes en pr…
+Indirectos) Ventas y Servicios- Nuevo Texto Impuesto a Las - Art. 2�, No 2�, Mayo 1997 Servicios odontol�gicos consistentes en prestaciones dentales ambulatorias, no se encuentran gravados con el IVA. (Of. No 752, del 14/04/97. I. Indirectos).
 
 ## Referencias detectadas
 

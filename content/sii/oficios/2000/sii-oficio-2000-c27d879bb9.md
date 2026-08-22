@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-22
+- Fecha: 2000-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja853.doc
 - Hash SHA-256: 9888d9fc9ed85ed90606a61efdd340ef96ac268b6dc49a95b23d399ec7578048
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo tributario, Art. 1�. (Ord. N� 918, de 22.03.2000) Word Presunta irregularidades en la aplicaci�n del IVA al tratamiento de basura. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� bis, Art. 23�, Art. 8� letra m). (Ord. N� 853, de 20.03.2000) Word Devoluci�n de remanente acumulado de cr�dito fiscal de IVA, seg�n el art�culo 27 bis, correspondiente a inmueble que se entregar� en arrendamiento amoblado. Ventas y S…
+Word Devoluci�n de remanente acumulado de cr�dito fiscal de IVA, seg�n el art�culo 27 bis, correspondiente a inmueble que se entregar� en arrendamiento amoblado.
 
 ## Referencias detectadas
 

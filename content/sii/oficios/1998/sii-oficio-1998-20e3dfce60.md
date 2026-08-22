@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-13
+- Fecha: 1998-11-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov01.htm
 - Hash SHA-256: 88a67a6cc31aa66390d02a892f1cb2db837cd7049329d0a9e4788c972d4b53b1
 
 ## Resumen
 
-nio � Accionistas de sociedad que se divide, les corresponde la misma... (Oficio N� 3.110, del 13.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�8 Word Primera enajenaci�n de predios agr�colas - Efectuadas por contribuyentes agricultores que deban tributar sobre renta efectiva determinada a base de contabilidad completa... (Oficio N� 3.024, del 10.11.1998) Renta - Actual ley sobre impuesto a la - Art. 14�, Letra A), N� 3 Word Contribuyentes de Primera Categor�a que declaran renta efectiva mediante…
+10.11.1998) Renta - Actual ley sobre impuesto a la - Art. 14�, Letra A), N� 3
 
 ## Referencias detectadas
 

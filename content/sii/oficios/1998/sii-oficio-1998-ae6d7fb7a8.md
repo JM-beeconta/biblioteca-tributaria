@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-29
+- Fecha: 1998-09-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/oct03.htm
 - Hash SHA-256: 9884689830ecc96adf354caeffaebe7607f6b1ac5cad1870e5b141843f065d79
 
 ## Resumen
 
-icantes - Entrega a concesionarios no es posible calificarla de... (Oficio N� 2.615, del 29.09.1998). Renta - Actual ley sobre impuesto a la - Art. 57� Bis Word Sociedad conyugal - Adquisici�n de acciones de primera emisi�n acogidas a beneficio tributario - Disoluci�n de la sociedad conyugal en virtud de pacto de separaci�n de bienes... (Oficio N� 2.575, del 24.09.1998). Renta - Actual ley sobre impuesto a la - Art. 14� , Letra A),N� 1, Letra c) Word Rentas retiradas para ser reinvertidas en otras empresas - No gr…
+24.09.1998). Renta - Actual ley sobre impuesto a la - Art. 14� , Letra A),N� 1, Letra c)
 
 ## Referencias detectadas
 

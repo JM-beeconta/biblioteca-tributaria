@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"> Franquicias tributarias - Decreto ley N� 910 - Art. 21�. Septiembre 1998 Word Cr�dito especial del 0.65 del d�bito fiscal IVA - Procedencia - Contratos de pavimentaci�n - Urbanizaciones destinadas exclusivamente a la vivienda - Concepto... ( Oficio N� 2.512, del 10.09.1998) Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Art. 36�. Septiembre 1998 Word Objetivo del sistema de capacitaci�n y empleo - Capacitaci�n de trabajadores de empresas - Alcance del t�rmino trabajador - Beneficiarios del cr�d…
+Word Objetivo del sistema de capacitaci�n y empleo - Capacitaci�n de trabajadores de empresas - Alcance del t�rmino trabajador - Beneficiarios del cr�dito - Sistema dirigido a los entes privados que sean contribuyentes del impuesto. (Oficio N� 2.501, del 10.09.1998)
 
 ## Referencias detectadas
 

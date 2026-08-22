@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-23
+- Fecha: 1998-04-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/abr02.htm
 - Hash SHA-256: d408efc676f6255d80b23a90d5817458a3078709ce7adcb4e0a105cd16c6c2dc
 
 ## Resumen
 
-rmas sobre forma de contabilizar activos y pasivos... (Oficio N� 1081, del 23.04.1998). Rentas municipales - Actual ley sobre - Art. 46� Decreto ley N� 3.063 Word Fundaci�n cuyo objeto es colaborar con Servicios de Salud en detecci�n, atenci�n y seguimiento de cardi�patas sin recursos - Textos legales que establecen beneficios... (Oficio N� 989, del 13.04.1998). Renta - actual ley sobre impuesto a la - Arts. 17�, N� 15 Y 42�, N� 1, Word Asignaciones de pasajes y vi�ticos - Consejeros Regionales, Ley 19.175, Art. 3…
+13.04.1998). Renta - actual ley sobre impuesto a la - Arts. 17�, N� 15 Y 42�, N� 1,
 
 ## Referencias detectadas
 

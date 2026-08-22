@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre05.htm
 - Hash SHA-256: 2c37b93c9239ff978f301c183db613907f688541fee64526865ee43aa2763a67
 
 ## Resumen
 
-o Ley Impuesto a las � Art. 2�, N� 2 - Art. 12�, N� 2, Letra E - Art. 23� Y Art. 36�, inciso 4�, D.L. N� 825 - Art. 20�, N�S. 3 Y 4 - Art. 58. N� 1 Ley de la Renta. Septiembre1999 Word Recuperaci�n Del Impuesto Al Valor Agregado Por Empresa De Aeronavegaci�n Internacional, Que Efect�a Transporte De Pasajeros Y Carga Desde Chile Al Exterior Y Viceversa Con La Modalidad De "C�digo Compartido". (Of. N� 3.822, Del 13.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8…
+ctos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 20�, N� 3 Y 4 D.L. N� 824 -Art. 107� Constituci�n Pol�tica del Estado. Septiembre 1999
 
 ## Referencias detectadas
 

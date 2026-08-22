@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-14
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/septiembre07.htm
 - Hash SHA-256: 440140c78e20c041e64e6667043f38e12987c46895f58cb14e7446bef1621ed3
 
 ## Resumen
 
-Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� letra m) - Circular N� 41, de 1995. Word Situaci�n tributaria de venta de veh�culo adquirido por contrato leasing en el cual se ejerci� la opci�n de compra y que forma parte del activo fijo de la empresa. (Of. N� 3.187, de 14.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2�, Art. 8� letra E), Art. 16�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996. Word Tratamiento tributari…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2�, Art. 8� letra E), Art. 16�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996.
 
 ## Referencias detectadas
 

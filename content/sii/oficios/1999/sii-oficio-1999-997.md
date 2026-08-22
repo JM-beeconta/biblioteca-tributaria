@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 997
 - Año: 1999
-- Fecha: 1999-03-10
+- Fecha: 1999-03-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/mar03.doc
 - Hash SHA-256: 5dce4998eba89528e8679503cb90c05967f0ea83ccdcfa472407a5ed4e6ac0ca
 
 ## Resumen
 
-ze="2"> Renta - Actual ley sobre impuesto a la - Arts. 1, N� 2, 20�, N� 5 Y 41� a Marzo 1999 Word Sociedad an�nima cerrada con domicilio en Chile � Contrato de coinversi�n para constituir sociedad en el extranjero � Aporte, transferencia de tecnolog�a y asesor�a... (Oficio N� 564, del 10.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 1, Letra c) Y 17� N� 7 Marzo 1999 Word Sociedad de responsabilidad limitada � Transformaci�n en sociedad an�nima � Valor de adquisici�n de las acciones � R…
+Word Sociedad de responsabilidad limitada � Transformaci�n en sociedad an�nima � Valor de adquisici�n de las acciones � Respuesta a consulta, Oficio N� 997, de 1995... (Oficio N�548, del 09.03.1999).
 
 ## Referencias detectadas
 

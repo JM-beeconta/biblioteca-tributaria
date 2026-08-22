@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p align="center"> A�os Anteriores OTRAS 2000 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Franquicias Tributarias � Decreto Ley N� 910, de 1975 � Art. 21�. Word Aplicaci�n de Este Art�culo, Al Contrato Celebrado Para la Edificaci�n de Departamentos, Construidos Como Parte de Un Proyecto de Remodelaci�n de Un Edificio Existente. (Of. N� 4.935, de 28.12.2000 � I. Indirectos). Franquicia Tributaria � Decreto Supremo de Hacienda N� 341, de 1977…
+Word Aplicaci�n de Este Art�culo, Al Contrato Celebrado Para la Edificaci�n de Departamentos, Construidos Como Parte de Un Proyecto de Remodelaci�n de Un Edificio Existente. (Of. N� 4.935, de 28.12.2000 � I. Indirectos).
 
 ## Referencias detectadas
 

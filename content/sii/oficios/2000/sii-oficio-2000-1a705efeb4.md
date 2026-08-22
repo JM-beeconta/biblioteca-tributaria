@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-05
+- Fecha: 2000-01-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/enero16.doc
 - Hash SHA-256: c06aac51e7aefd4a75ea691db15e4b769e819ce5b4ee1ea7de4ef53007067306
 
 ## Resumen
 
-GN='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 1�, Art. 8�, Art. 13� N� 5�. Word IVA en Venta de Drogas Antineopl�sicas en Establecimientos Del Sistema de Salud P�blico. (Of. N� 4.706, de 05.12.2000 � I. Indirectos) Ventas y servicios - nuevo texto ley impuesto a las - Art. 8�, Art. 36� - Art. 7� del decreto ley N� 3.059, de 1979. Word No procede calificar como exportaci�n la venta de provisiones a naves de tr�fico internacional. (Of. N� 366, del 31.01.2000 - I. Indirectos) Ventas y Ser…
+Word No procede calificar como exportaci�n la venta de provisiones a naves de tr�fico internacional. (Of. N� 366, del 31.01.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

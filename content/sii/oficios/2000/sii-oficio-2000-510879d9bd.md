@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-03
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero05.htm
 - Hash SHA-256: 6fc49787b900a84716672e7b5e9f569bdaafb31ce1d8c4e7758eea2d94a93f5b
 
 ## Resumen
 
-nta/enero06.htm'>Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18� - Art. 64 del C�digo Tributario. Word Facultad de tasar del Servicio de acuerdo con el Art. 64�, en el caso del producto burs�til denominado venta corta y pr�stamo de acciones. (Of. N� 449, del 03.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18� - circular N� 158, de 1976. Word Tributaci�n que afecta a la enajenaci�n de acciones. (Of. N� 382, del 01.02.2000 - I. Directos) Renta - actual ley so…
+Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18� - circular N� 158, de 1976.
 
 ## Referencias detectadas
 

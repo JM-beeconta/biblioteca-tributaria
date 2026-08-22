@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-05-07
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/may09.htm
 - Hash SHA-256: a02849c4c9f9379d4c9d30e4f8c12d0f972db7184c9d90f898de09b7ba6c63df
 
 ## Resumen
 
-Art. 31�, No. 5, Imposibilidad de depreciar terrenos conforme a las normas establecidas en la Ley de Renta. (Of. No 1.190, del 06/06/97 I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8 Tratamiento tributario de la enajenaci�n de acciones efectuadas por personas naturales. (Of. No 1.049, del 15/05/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 20, No. 1 y 31 No. 3 Valorizaci�n de activos en el caso de permuta de inmuebles entre sociedades. (Of. No 954, del 07/05/97. I. Directo…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 20, No. 1 y 31 No. 3 Valorizaci�n de activos en el caso de permuta de inmuebles entre sociedades. (Of. No 954, del 07/05/97. I. Directos).
 
 ## Referencias detectadas
 

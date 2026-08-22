@@ -11,7 +11,7 @@
 
 ## Resumen
 
-or�as t�cnicas prestadas a empresas domiciliadas en el exterior. (Of. No 1921, del 26/08/97). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, N� 2, Septiembre 1997 Aplicaci�n del Impuesto a las Ventas y Servicios en gastos de cobranza efectuado por empresas de servicios sanitarios, para la recuperaci�n de deuda vencida de sus clientes. (Of. No 1920, del 26/08/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Septiembre 1997 Aplicaci�n del Impuesto a las Ventas Y Servi…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Septiembre 1997 Aplicaci�n del Impuesto a las Ventas Y Servicios en emisi�n y comercializaci�n de Tarjetas de descuento. (Of. No 1.843, del 19/08/97. I. Indirectos).
 
 ## Referencias detectadas
 

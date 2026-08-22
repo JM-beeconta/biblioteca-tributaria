@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"> A�os Anteriores LEY DE IMPUESTO A LA RENTA 1998 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Ley sobre impuesto a la Renta � Art. 59� Tributaci�n que afecta a sumas remesadas al exterior por importaci�n de software. (Ordinario N� 3532 de 29-12-1998). Ley de Impuesto a la Renta. Art�culos 20� N� 1, letra d. Situaci�n tributaria de las empresas de leasing frente al cr�dito por contribuciones de bienes ra�ces. (Oficio N� 3448, de 1…
+Ley sobre impuesto a la Renta � Art. 59� Tributaci�n que afecta a sumas remesadas al exterior por importaci�n de software. (Ordinario N� 3532 de 29-12-1998).
 
 ## Referencias detectadas
 

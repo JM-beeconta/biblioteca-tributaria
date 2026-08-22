@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r inversiones en el exterior. (Of. N� 2.678 del 7/11/97) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 letra b), C�digo tributario - Art. 64� Tratamiento aplicable a la adjudicaci�n de bienes ra�ces, con motivo de liquidaci�n de una sociedad an�nima, y facultad de tasar del Servicio de Impuestos Internos. (Of. N� 2.656, del 5/11/97). Renta - Actual Ley sobre Impuesto a la - Art. 17� letra b) y 18� Situaci�n tributaria de la enajenaci�n de un bien ra�z (Of. N� 2.507 del 24/10/97). Renta - Actual Ley sobre…
+/11/97). Renta - Actual Ley sobre Impuesto a la - Art. 17� letra b) y 18� Situaci�n tributaria de la enajenaci�n de un bien ra�z (Of. N� 2.507 del 24/10/97).
 
 ## Referencias detectadas
 

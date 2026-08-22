@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-04
+- Fecha: 1998-11-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov07.doc
 - Hash SHA-256: 71f63f60f83d347a835577fdfe98d40df7dfc4275ff44bcd057a5f3cff9f2fba
 
 ## Resumen
 
-� 2.970, del 04.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�2 Word Indemnizaciones por accidentes del trabajo - Consistan en sumas fijas, rentas o pensiones - Alcance tributario de lo dispuesto por el N� 2, del Art. 17�, de la Ley de la Renta... (Oficio N� 2.971, del 04.11.1998). Renta - Actual ley sobre impuesto a la - Art. 31� Word Empresa concesionaria de construcci�n y explotaci�n de v�as camineras - Promoci�n consistente en entrega de cupones de combustibles - Aceptaci�n como gasto... (Ofic…
+Word Empresa concesionaria de construcci�n y explotaci�n de v�as camineras - Promoci�n consistente en entrega de cupones de combustibles - Aceptaci�n como gasto... (Oficio N� 2.924, del 02.11.1998).
 
 ## Referencias detectadas
 

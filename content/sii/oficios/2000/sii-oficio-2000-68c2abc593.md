@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os � nuevo texto � Ley Impuesto a las � Art. 36� � Decreto Supremo de economia N� 348�, de 1975 � Circular N� 12�, de 10.02. 2000. Word Solicita pronunciamiento sobre procedimiento de recuperaci�n de Cr�dito fiscal, efectuado por empresa titular de una concesi�n portuaria. (of. N� 4.119, de 24.10.2000 � i. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 8� letra g), Art. 12� N� 11�. Word Impuesto al valor agregado en arrendamiento de m�dulos ubicados dentro de un supermercado. (of. N� 4.11…
+Word Impuesto al valor agregado en arrendamiento de m�dulos ubicados dentro de un supermercado. (of. N� 4.111, de 24.10.2000 � i. Indirectos)
 
 ## Referencias detectadas
 

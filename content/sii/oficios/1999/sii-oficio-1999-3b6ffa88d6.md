@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-22
+- Fecha: 1999-10-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre07.doc
 - Hash SHA-256: 86aca893909b7d45f0d30e6629e19702b1dca57f7912e4be988857edce255b60
 
 ## Resumen
 
-d limitada en lo referente al IVA, por valores recaudados por concepto de derecho a ingreso al recinto de Asociaci�n cobrado a socios y terceros y por arriendo de piso a los comerciantes ajenos a la sociedad. (Of. N� 3.928, de 22.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 2 - Art. 12�, N� 2, Letra E - Art. 23� Y Art. 36�, inciso 4�, D.L. N� 825 - Art. 20�, N�S. 3 Y 4 - Art. 58. N� 1 Ley de la Renta. Septiembre1999 Word Recuperaci�n Del Impuesto Al Valor Agregado Por…
+Word Recuperaci�n Del Impuesto Al Valor Agregado Por Empresa De Aeronavegaci�n Internacional, Que Efect�a Transporte De Pasajeros Y Carga Desde Chile Al Exterior Y Viceversa Con La Modalidad De "C�digo Compartido". (Of. N� 3.822, Del 13.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

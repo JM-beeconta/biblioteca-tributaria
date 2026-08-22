@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-14
+- Fecha: 2000-08-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/septiembre07.doc
 - Hash SHA-256: 6115ba146551e9253470b82697e0c570242c8a76969923d56b2d0e26bccd30b7
 
 ## Resumen
 
-N� 41, de 1995. Word Situaci�n tributaria de venta de veh�culo adquirido por contrato leasing en el cual se ejerci� la opci�n de compra y que forma parte del activo fijo de la empresa. (Of. N� 3.187, de 14.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2�, Art. 8� letra E), Art. 16�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996. Word Tratamiento tributario de contrato de Concesi�n de Obra P�blica denominada, " Complejo Ecol�gico Recreati…
+Word Tratamiento tributario de contrato de Concesi�n de Obra P�blica denominada, " Complejo Ecol�gico Recreativo y Cultural Metropolitano". (Of. N� 3.150, de 10.08.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

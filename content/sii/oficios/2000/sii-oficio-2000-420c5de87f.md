@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-27
+- Fecha: 2000-10-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/diciembre05.doc
 - Hash SHA-256: a0f827d3cd12faf60cc9e7877934ca465af34cfb05434a37152729dc7aa026a2
 
 ## Resumen
 
-nta/noviembre01.doc'>Word Tratamiento Tributario aplicable a transacciones de acciones de sociedades an�nimas chilenas en una bolsa de valores extranjera.(of. N� 3.807, de 27.09.2000- i. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 65�, ART. 69� - Art. 97� N� 2� del C�digo Tributario. Word Contribuyentes obligados a presentar una declaraci�n de impuesto. (Of. N� 3.880, de 03.10.2000 � I. Directos.) Renta - Actual Ley sobre Impuesto a la - Art. 59�, Art. 74� N� 4�, Art. 79�. Word Solicitud de devoluci�n…
+Word Contribuyentes obligados a presentar una declaraci�n de impuesto. (Of. N� 3.880, de 03.10.2000 � I. Directos.)
 
 ## Referencias detectadas
 

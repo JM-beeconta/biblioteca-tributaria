@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-27
+- Fecha: 1998-04-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/abr07.doc
 - Hash SHA-256: 2d9b6f9067b65b3c6e2b19373b2eacde6cf91261569fb806df74e9d5af1b959a
 
 ## Resumen
 
-f="otras/may09.htm">Decreto ley N� 3.500 - Nuevo sistema de pensiones - ART. 71� Mayo 1998 Word Excedentes de libre disposici�n - Retiro afecto a un Impuesto Unico - Determinaci�n de la tasa - Aplicaci�n sobre el monto de cada retiro - Retenci�n por la Administradora... (Oficio N� 1113, del 27.04.1998). Timbres y estampillas - Nuevo texto ley sobre - Impuesto de Arts. 15� Y 16� Abril 1998 Word Escrituras p�blicas que contienen operaciones de cr�dito de dinero - Afectas impuesto Ley de Timbres y Estampillas - Sujet…
+Word Escrituras p�blicas que contienen operaciones de cr�dito de dinero - Afectas impuesto Ley de Timbres y Estampillas - Sujeto responsable del pago del impuesto - Caso... (Oficio N� 1086, del 23.04.1998).
 
 ## Referencias detectadas
 

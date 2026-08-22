@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-06-23
+- Fecha: 1999-06-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jun11.htm
 - Hash SHA-256: d647f646eff2c3125d85d1b92543f76e06406ab9eb3f72c040b6b578b0098c06
 
 ## Resumen
 
-de 23 de junio de 1999). Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2�, N�s. 1 y 3, Y 13�, N�s 5 y 6. Junio 1999 Word Hospitales administrados por direcciones de salud � Ventas y prestaciones � Conceptos de venta y servicio � Exenci�n que favorece a los hospitales dependientes, entre otros, del Estado...(Oficio N� 2.406, del 01.06.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra e) � Renta � Actual ley sobre impuesto a la - Arts. 29� Y 30 Junio 1999 Word Contrato de serv…
+01.06.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra e) � Renta � Actual ley sobre impuesto a la - Arts. 29� Y 30 Junio 1999
 
 ## Referencias detectadas
 

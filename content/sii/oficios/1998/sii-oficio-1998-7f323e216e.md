@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-06-15
+- Fecha: 1998-05-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/jun03.doc
 - Hash SHA-256: 7fafa08aa96a1a1e59def7812d27ec35a00cee4c9853eeebe08cd667298515c4
 
 ## Resumen
 
-�ndose conforme a entregas parciales... (Oficio N� 1596, del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 1 Word Normas internacionales o nacionales - Bienes incorporales - Venta no constituye hecho gravado "venta", b�sico, ni tampoco especial. (Oficio N� 1594, del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Word Servicios consistentes en la disposici�n de basura para relleno sanitario - No afectos a IVA a los servicios - Actividad no se clasifica en l…
+Word Servicios consistentes en la disposici�n de basura para relleno sanitario - No afectos a IVA a los servicios - Actividad no se clasifica en los Nos. 3 � 4, del art�culo 20�... (Oficio N� 1395, del 25.05.1998).
 
 ## Referencias detectadas
 

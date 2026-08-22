@@ -11,7 +11,7 @@
 
 ## Resumen
 
-libro de compraventa fuera de los per�odos indicados en la ley o si es posible efectuar tal recuperaci�n a trav�s del mecanismo del Art. 126 del C�digo Tributario en la medida en que se haya producido un pago de impuesto al Valor Agregado. (Of. N� 4.324, del 29.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 12�, N� 2, letra e), Art. 20�, N� 3 y 4, Art. 23�, Art. 36� - Art. 7� del D.L. N� 3.059, de 1979. Noviembre 1999 Word Solicita recuperaci�n del IVA que cor…
+Word Solicita recuperaci�n del IVA que corresponda exclusivamente al aprovisionamiento de rancho de naves que s�lo efect�an transporte de carga desde y hacia Chile, en forma separada de la solicitud de reembolso de todo el impuesto soportado en el per�odo por cada una de las navieras. (Of. N� 4.320, del 29.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

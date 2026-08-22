@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tributarias que afectan a las actividades de establecimientos subvencionados de educaci�n secundaria. (Of. No 1.480, del 08/07/97. I. Indirectos). Renta - Actual Ley Sobre Impuesto a La - Art. 57� Bis Personas que puedan hacer uso de los beneficios tributarios del Art. 57� bis, en el caso de acciones en custodia. (Of. No 1.354, del 24/06/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 13 Requisitos que se deben cumplir para que beneficios otorgados por los departamentos de Bienestar de emp…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 13 Requisitos que se deben cumplir para que beneficios otorgados por los departamentos de Bienestar de empresas privadas no constituyan renta. (Of. No 1.289, del 17/06/97. I. Directos).
 
 ## Referencias detectadas
 

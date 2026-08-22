@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-21
+- Fecha: 2000-02-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero08.doc
 - Hash SHA-256: 214ea21f0eddfc058c9834d870b74195fb6aa1a362cead3eb2d8f9e20fa953e1
 
 ## Resumen
 
-a - Art. 41�, A y B. Word Forma de acreditar la devoluci�n de los capitales invertidos en el exterior. (Of. N� 180, del 21.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 20�, N� 4, Art. 42, N� 2. Word Consulta si una empresa de corretaje de seguros que tributa en primera categor�a podr�a cambiar su tributaci�n bajo las normas de la segunda categor�a. (Of. N� 450, del 03.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 20�, N� 1 y N� 3 - circulares N�s. 58 y 63, de 1990 y 2…
+Word Consulta si una empresa de corretaje de seguros que tributa en primera categor�a podr�a cambiar su tributaci�n bajo las normas de la segunda categor�a. (Of. N� 450, del 03.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

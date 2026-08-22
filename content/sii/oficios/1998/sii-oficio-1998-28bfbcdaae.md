@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-01-28
+- Fecha: 1998-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/feb07.htm
 - Hash SHA-256: 4db8f3e145184997af9bea2af16d9458291063764d64b592e65df9d2504e4256
 
 ## Resumen
 
-la Renta. Art�culo 14. Forma de certificar los retiros de rentas e informaci�n al SII. ( Oficio N� 381, de 30 Enero de 1998) Renta - Actual ley sobre impuesto a la Art. 58�, N� 1, Word Sociedad extranjera - Actividad desarrollada en Chile, realizada por personal que no asume su representaci�n - No constituye en el pa�s un... (Oficio N� 303, del 28.01.1998). Renta Actual ley sobre impuesto a la Art. 20�, N� 3 -Impuesto a las ventas y servicios Art. 2�, N� 2., Word Administraci�n de sistema de salud animal - Forma d…
+e 30 Enero de 1998) Renta - Actual ley sobre impuesto a la Art. 58�, N� 1,
 
 ## Referencias detectadas
 

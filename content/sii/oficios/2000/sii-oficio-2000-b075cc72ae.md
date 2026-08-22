@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-10
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/septiembre02.htm
 - Hash SHA-256: a31622da1649ac5001139ec26adb35ab8f3478fd53ee025fc1073d6b40a7d84d
 
 ## Resumen
 
-n='JUSTIFY'> Renta - Actual Ley sobre Impuesto a la - Art. 41�A. Word Contribuyentes obligados a inscribirse en el Registro de Inversiones en el Extranjero que lleva el SII. (Of. N� 3.157, de 10.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 41�, bis. Word C�lculo de intereses en el caso de dep�sitos en moneda extranjera. (Of. N� 3.110, de 09.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - ART. 20�, N�1�, letra B) - Circulares N� 58 y 63, de 1990. Word Se solicita un pronuncia…
+Renta - Actual Ley sobre Impuesto a la - Art. 41�, bis.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-12
+- Fecha: 1998-11-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/dic05.doc
 - Hash SHA-256: ca4c52d015da9b15fcd405ccd35225206cdb79ff692b59297d15f32d59a76955
 
 ## Resumen
 
-font> Renta - Actual ley sobre impuesto a la - Art. 17�, N� 29 Word Bienes correspondientes a obras sanitarias adquiridos o construidos con recursos del Fondo Nacional de Desarrollo Regional � Transferencia a las respectivas empresas sanitarias filiales de... (Oficio N� 3.129, de 12.11.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, Letra A) Word Inversi�n en instrumentos o valores de ahorro � Cr�dito imputable al Impuesto Unico de segunda categor�a o al Impuesto Global Complementario � Cuotas de fon…
+Word Inversi�n en instrumentos o valores de ahorro � Cr�dito imputable al Impuesto Unico de segunda categor�a o al Impuesto Global Complementario � Cuotas de fondos mutuos... (Oficio N� 3.113 de 13.11.1998)
 
 ## Referencias detectadas
 

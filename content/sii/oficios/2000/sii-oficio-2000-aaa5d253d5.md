@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-07-25
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/agosto02.htm
 - Hash SHA-256: 9074497d6a7bcd345c333b6460c9b2027c1c1f621b0dc6d43630feeb758f4aff
 
 ## Resumen
 
-o03.htm'>Renta - Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43 , N� 1- Oficio N� 5313, de 16.09.76 - Circular N� 7 de 15.01.93. Word Tributaci�n que afecta a las remuneraciones percibidas por los abogados integrantes de las Cortes de Apelaciones. (Of. N� 2.908, de 25.07.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9. Word Tratamiento tributario de algunos desembolsos incurridos por empresas licitantes que obtuvieron una concesi�n de Obras P�blicas, los cuales por norma expre…
+Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-28
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta01.htm
 - Hash SHA-256: 66878007c141f85e9959e3e41da3371e548aacb8aeaa88ab0420b5fd30b526e0
 
 ## Resumen
 
-a la - Art. 2�, N�1�- Ley N� 19.378, de 1995 - Art. 45�. Word Tributaci�n Aplicable a las Asignaciones Especiales Establecidas en el Art. 45� de la Ley Antes Se�alada, y a Otras Asignaciones Especiales Acordadas por el Concejo Municipal. (Of. N� 4585, de 28.11.2000 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 2� N�1�, Art. 42� N�1�. Word Tratamiento Tributario Aplicable a las Asignaciones Pagadas Al Personal de Venta por el Uso de Celular en el Desempe�o de sus Funciones. (Of. N� 4.520, de 23.11.20…
+Renta - Actual Ley Sobre Impuesto a la - Art. 2� N�1�, Art. 42� N�1�.
 
 ## Referencias detectadas
 

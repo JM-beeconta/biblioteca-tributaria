@@ -11,7 +11,7 @@
 
 ## Resumen
 
-taci�n. (Of. N� 4.039, de 18.10.2000 � I. Directos). D.F.L. N� 2, sobre Plan Habitacional de 1959 � Art. 15� - Modificado por la Ley N� 19.622, de 1999 - Circular N� 53�, de 1997. Word Situaci�n tributaria del mayor valor obtenido en la venta de viviendas acogidas al D.F.L. N� 2�, efectuadas a una sociedad securitizadora. (Of. N� 3.989, de 16.10.2000 � I. Directos). Ley de Herencias y Donaciones. Art�culos 1�. 24� y 27� ley 16.271. Ordinario N� 3924, de 06 de Octubre del 2000.- Tratamiento tributario de donaciones…
+ectos). Ley de Herencias y Donaciones. Art�culos 1�. 24� y 27� ley 16.271. Ordinario N� 3924, de 06 de Octubre del 2000.- Tratamiento tributario de donaciones realizadas en el extranjero, de bienes ubicados en el extranjero, en caso que el donante tenga domicilio en Chile. (Oficio N� 3924 de 6-10-2000).
 
 ## Referencias detectadas
 

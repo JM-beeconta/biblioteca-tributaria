@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-24
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/jul10.htm
 - Hash SHA-256: 60dc80c7b00a4409e86fb7ad01a47bff211f601341df5891cdf9423321af85d6
 
 ## Resumen
 
-; Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2.(D.O. de 31.07.59). Agosto 1999 Word Aplicaci�n del concepto de vivienda nueva en caso de divisi�n de empresas y la distribuci�n de inmuebles a las empresas nuevas que con motivo de ella se crean. (OF. N� 3.211, del 24.08.1999 - I. Indirectos). Otros Textos Legales - Ley N� 19.622. (D.O. 29.07.99) Y D.F.L. N� 2 (D.O. 31.07.59). Julio 1999 Word Concepto de vivienda nueva acogida a normas del DFL…
+ctos). Otros Textos Legales - Ley N� 19.622. (D.O. 29.07.99) Y D.F.L. N� 2 (D.O. 31.07.59). Julio 1999
 
 ## Referencias detectadas
 

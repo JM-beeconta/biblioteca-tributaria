@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Timbres y Estampillas a operaci�n denominada "Apertura de L�nea de Cr�dito Destinada a cubrir pago de boletas de Garant�a". (Of. No 377, del 14/02/97. I. Indirectos). Franquicias Tributarias - DFL N� 341, Art. 21�Y 23� Do 08.06.77, Febrero 1997 Acerca de aplicaci�n del Impuesto a las Ventas y Servicios en ventas realizadas en Zona de Extensi�n. (Of. No 331, del 10/02/97. I. Indirectos). Fondos de Inversi�n de Capital Extranjero Ley 18.657 - Art. 15�, Febrero 1997 De las obligaciones tributarias que deben cumpli…
+Indirectos). Fondos de Inversi�n de Capital Extranjero Ley 18.657 - Art. 15�, Febrero 1997 De las obligaciones tributarias que deben cumplir las entidades organizadas como Fondos de inversi�n de Capital Extranjero que se refiere la Ley 18.657, publicada en el DO de Septiembre de 1987. (Of. No 328, del 10/02/97. I. Directos).
 
 ## Referencias detectadas
 

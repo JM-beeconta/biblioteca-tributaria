@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-13
+- Fecha: 1998-11-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/oct12.htm
 - Hash SHA-256: a31a80d56b36d723f2a2f14f44a61f0a68ca68802694537839677829898f1cf4
 
 ## Resumen
 
-lud y al Fondo Nacional de Salud en prestaci�n... (Oficio N� 3.110, del 13.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Noviembre 1998 Word Asesor�as prestadas por corredores de seguro - Dentro del pa�s, dise�o y renovaci�n de p�lizas, determinaci�n del valor de los activos a asegurar, seguro de vida y de salud, estudios de riesgo de activos, soporte en la... (Oficio N� 2.981, del 05.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 2�, N� 2 Y 8� , Letra i) Octubre 1998…
+del 05.11.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 2�, N� 2 Y 8� , Letra i) Octubre 1998
 
 ## Referencias detectadas
 

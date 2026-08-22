@@ -11,7 +11,7 @@
 
 ## Resumen
 
-7, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art. 59� Word Intereses provenientes de la emisi�n de bonos en el extranjero - Reajustables de acuerdo a la evoluci�n del valor de la Unidad de Fomento - Desembolsos de amortizaciones e intereses... (Oficio N� 2.516, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art.. 33� Bis. Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado - Remanentes que se produzcan durante los a�os tributarios 1999 al 2002, podr�n imputarse al impu…
+Word Cr�dito por adquisici�n de bienes f�sicos del activo inmovilizado - Remanentes que se produzcan durante los a�os tributarios 1999 al 2002, podr�n imputarse al impuesto de Primera... (Oficio N� 2.503, del 10.09.1998).
 
 ## Referencias detectadas
 

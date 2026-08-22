@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ra efectos tributarios constituye renta - Afecto a Impuesto Unico de Segunda... (Oficio N� 1135, del 28.04.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, LETRA B) Word R�gimen de incentivo al ahorro establecido en el Art. 57� Bis, letra B, de la Ley de la Renta - Instrumentos o valores susceptibles de acogerse al citado... (Oficio N� 1133, del 28.04.1998). Renta - Actual ley sobre impuesto a la - Arts. 12� Y 41, B, N� 4 Word Inversiones efectuadas en el extranjero en sociedades de personas - Incompe…
+28.04.1998). Renta - Actual ley sobre impuesto a la - Arts. 12� Y 41, B, N� 4
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-11-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4593.htm
 - Hash SHA-256: 5686fab5ec661825253c278d5a35bcbeee361bed66b1e4482ef3c9700529a83a
 
 ## Resumen
 
-to tributario de los subsidios en las concesiones de obras p�blicas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 25� - Res. Ex. N� 2.107, de 1983. (Ord. N� 4617, de 29.11.2000) Word El documento original de la factura, respalda el uso del Cr�dito Fiscal del IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 18.502, Art. 6�, letra b), Art. 7� - Circular N� 32, d e 1986. (Ord. N� 4593, de 28.11.2000) Word Recuperaci�n del impuesto espec�fico al pe…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 18.502, Art. 6�, letra b), Art. 7� - Circular N� 32, d e 1986. (Ord. N� 4593, de 28.11.2000)
 
 ## Referencias detectadas
 

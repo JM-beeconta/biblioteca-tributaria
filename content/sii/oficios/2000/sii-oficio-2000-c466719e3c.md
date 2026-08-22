@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-22
+- Fecha: 2000-12-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja916.htm
 - Hash SHA-256: c089293c11ada28967cff173ea293135ffdd1048b7033c6b4521ceeda7f9fec9
 
 ## Resumen
 
-Renta Actual Ley Sobre Impuesto a la � Ley N� 19.606 � Circular N� 66 de 1999. (Ord. N� 937, de 22.03.2000) Word Informe sobre proyecto de telecomunicaciones acogido a la Ley N� 19.606. Renta � Actual Ley Sobre Impuesto a la � Art. 33�, N�1, letra e) � C�digo Tributario, Art. 64� � Convenio entre la Rep�blica de Argentina y la Rep�blica de Chile para evitar la doble Tributaci�n en Materia de Impuestos sobre la Renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio, Art. 2�, Letra e), Letra k), Art. 12�. (O…
+Renta � Actual Ley Sobre Impuesto a la � Art. 33�, N�1, letra e) � C�digo Tributario, Art. 64� � Convenio entre la Rep�blica de Argentina y la Rep�blica de Chile para evitar la doble Tributaci�n en Materia de Impuestos sobre la Renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio, Art. 2�, Letra e), Letra k), Art. 12�. (Ord. N� 4.657, de 01.12.2000)
 
 ## Referencias detectadas
 

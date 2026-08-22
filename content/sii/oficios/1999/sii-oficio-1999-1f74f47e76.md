@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 12�, letra e, N� 17. Agosto 1999 Word Exenci�n de impuesto que beneficia a empresas hoteleras por servicios prestados a turistas, pagados por un tercero. (OF.N� 3.282, del 30.08.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art.2� y 8� - Art. 20� N� 3 del Decreto Ley N� 824 y Art. 3� N� 7 del C�digo de Comercio. Agosto 1999 Word Tributaci�n que afecta a servicios de vigilancia prestados a una municipalidad por una empresa ex…
+Word Tributaci�n que afecta a servicios de vigilancia prestados a una municipalidad por una empresa externa. (OF. N� 3.281, del 30.08.1999 � I. Indirectos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ro de un bien ra�z por parte del socio de una sociedad agr�cola, (Oficio N� 3182, de 23.11.1998). Renta - Actual ley sobre impuesto a la . Art. 17�, N� 15 Word Aceptaci�n como gasto de los desembolsos en que incurran empleados en actividades de ventas por el uso de sus propios autom�viles � Procedimiento, Circular N� 59, de 1997... (Oficio N� 3.165, de 19.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 29 Word Bienes correspondientes a obras sanitarias adquiridos o construidos con recursos del Fond…
+19.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 29
 
 ## Referencias detectadas
 

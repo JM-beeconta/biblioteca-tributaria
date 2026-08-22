@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-14
+- Fecha: 1999-03-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/mar05.htm
 - Hash SHA-256: b591419d3a4a076f33546979c8394edd1f45d00fbce2f981d37a313ae0ffd929
 
 ## Resumen
 
-a, aunque sea en forma parcial...Oficio N� 1243, del 14.04.1999. Ventas y servicios - Nuevo texto - Ley impuesto a las - Arts. 2� Y 13� N� 3 Abril 1999 Word Transporte de pasajeros � Concepto � Exenci�n de Impuesto al Valor Agregado � Transporte con fines meramente tur�stico � Esto es si concurren en la prestaci�n elementos tales...Oficio N� 924, del 30.03.1999 Ventas y servicios - Nuevo texto - Ley de impuesto a las - Arts. 42�, N� 2 y 43�, N� 2. Marzo1999 Word Servicios profesionales prestados por dentistas en u…
+30.03.1999 Ventas y servicios - Nuevo texto - Ley de impuesto a las - Arts. 42�, N� 2 y 43�, N� 2. Marzo1999
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-19
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras02.htm
 - Hash SHA-256: 0643e0d68a228e37dcdd3147d112de63bc20afdc9f92fc31995e812260930be6
 
 ## Resumen
 
-n Una Absorci�n de Sociedades. (Of. N� 4.852, de 19.12.2000 � I. Indirectos) Beneficio Tributario � D.F.L. N� 2�, de 1998, Del Ministerio de Educaci�n � Art. 5� � Art. 20� N� 4�, Art. 33� de la Ley de la Renta. Word Situaci�n Tributaria de la Subvenci�n Recibida por Los Colegios Del Estado y sus Gastos Asociados. (Of. N� 4.608, de 29.11.2000 � I. Directos). Ley N� 19.281, de 1993 � Leasing Habitacional � Modificada por Ley N� 19.406, de 1995 � Decreto Supremo de Hacienda N� 1.334, de 1996 � Franquicia Tributaria E…
+. Directos). Ley N� 19.281, de 1993 � Leasing Habitacional � Modificada por Ley N� 19.406, de 1995 � Decreto Supremo de Hacienda N� 1.334, de 1996 � Franquicia Tributaria Establecida en Ley N� 19.622 � Ley N� 19.578, de 1998, Art. 5� Transitorio.
 
 ## Referencias detectadas
 

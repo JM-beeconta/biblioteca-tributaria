@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-10
+- Fecha: 2000-04-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo18.doc
 - Hash SHA-256: 65ef53f99fd41c6610caa338a6778370b12a479c3d91e79da03d35f3c31acb01
 
 ## Resumen
 
-la Ley sobre Impuesto a la Renta � Art. 126 del C�digo Tributario. Word Tratamiento tributario de indemnizaci�n por a�os de servicio establecida en el art�culo 4� transitorio de la ley antes se�alada. (Of. N� 1.140, del 10.04.2000 � I. Directos). Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 3� - Decreto Ley N� 3.475, de 1980 - Art. 53� y siguientes - Art. 109, inciso 2� y Art. 200� del C�digo Tributario. Word Alcance del Impuestos de Timbres y Estampillas a operaciones de importaci�n pagadas…
+Word Alcance del Impuestos de Timbres y Estampillas a operaciones de importaci�n pagadas directamente por el importador con disponibilidades propias de divisas. (Of. N� 1.102, de 05.04.2000 - Depto T�cnica Tributaria )
 
 ## Referencias detectadas
 

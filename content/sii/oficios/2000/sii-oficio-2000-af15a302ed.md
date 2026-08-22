@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-14
+- Fecha: 2000-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/marzo06.doc
 - Hash SHA-256: cf329a5679c15f6d14a03d2e8b99508ffcceebe41f9728732f95bcdf3e155325
 
 ## Resumen
 
-Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 1 Y 3� Y Art. 8�. Word Solicita pronunciamiento respecto a si la actividad efectuada por la Federaci�n de Sindicatos de Trabajadores Independientes de Taxis Colectivos B�sicos ...(Of. N� 1.216, del 14.04.2000 � I. Indirectos). Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 4 � Art. 31 de la Ley de la Renta � Circular N� 71 y 130 de 1977. Word Tratamiento tributario que debe darse a las adquisiciones de veh�culos station wagon o minibuse…
+Word Tratamiento tributario que debe darse a las adquisiciones de veh�culos station wagon o minibuses y de sus repuestos e insumos (Of. N� 854, del 20.03.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-04
+- Fecha: 1999-09-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto12.doc
 - Hash SHA-256: 48cc75f0f5be61ba381176c1eb0ee8edcd8aac0293c059b84a7b764c37d17180
 
 ## Resumen
 
-Decreto Ley N� 825 - Art. 589 C�digo Civil - Arts. N�S 44� Y 45�, Ley General de Pesca y Acuicultura N� 18.892, de 1989. Septiembre 1999 Word Impuesto Al Valor Agregado Que Afecta Al Arrendamiento De Una Concesi�n De Acuicultura De Porci�n De Agua Y Fondo De Mar. (Of. N� 3.734, Del 04.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 13�, N�s. 6 y 7 - 23�, N� 2. Agosto 1999 Word Tributaci�n que afecta a medicamentos incluidos en prestaciones de salud canceladas por sistema pad y…
+Word Tributaci�n que afecta a medicamentos incluidos en prestaciones de salud canceladas por sistema pad y utilizaci�n como cr�dito fiscal del impuesto soportado en la adquisici�n de esos medicamentos. (OF. N� 3.436, del 13.09.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

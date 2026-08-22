@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-04
+- Fecha: 2000-05-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta06.htm
 - Hash SHA-256: 03b1945b7fcfdd865d3865a81aa7fb93f5a091e2271fb1c2972dc66a67217faf
 
 ## Resumen
 
-. 126� Del Codigo Tributario � Circular N� 21�, de 1991 � Circular N� 151�, de 1976 y N� 42�, de 1990. Word Situaci�n Tributaria de Los Honorarios Boleteados por Los Socios de Sociedades de Profesionales por Servicios Prestados a sus Respectivas Sociedades. ( Of. N� 4.694, de 04.12.2000. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 3� - Ley N� 19.420, de 1995. Word Usuarios de Los Centros de Exportaci�n de Acuerdo a la Ley N� 19.669, Del 2.000 Se Encuentran Afectos O No Al Impuesto de Primera…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 3� - Ley N� 19.420, de 1995.
 
 ## Referencias detectadas
 

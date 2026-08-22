@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-12-22
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/renta3063.htm
 - Hash SHA-256: 59e8932cdf58d4a033afc81d815471baf7020191a1c63bec576e75cbfa02b517
 
 ## Resumen
 
-. (Oficio N� 3065, del 22.12.1997) Renta - actual ley sobre impuesto a la -Art. 41�, B, Word Agencia o sucursal en el extranjero, de sociedad chilena - Contabilizaci�n y resultado tributario - Determinaci�n del resultado tributario - Impuesto adicional... (Oficio N� 3064, del 22.12.1997). Renta - actual ley sobre impuesto a la - Arts. 58�, 59� y 60� - Impuesto a las ventas y servicios - Arts. 2�, N� 2 y 12�, Letra E, N� 16, Word Aplicaci�n del Impuesto Adicional que afecta a personas que no tienen domicilio ni res…
+2.1997). Renta - actual ley sobre impuesto a la - Arts. 58�, 59� y 60� - Impuesto a las ventas y servicios - Arts. 2�, N� 2 y 12�, Letra E, N� 16,
 
 ## Referencias detectadas
 

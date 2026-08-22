@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-28
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras06.htm
 - Hash SHA-256: af25b23fecbcacd9d4b50b83f5f472ae305523bc6c00a5e3344995bcd3577062
 
 ## Resumen
 
-istente. (Of. N� 4.935, de 28.12.2000 � I. Indirectos). Franquicia Tributaria � Decreto Supremo de Hacienda N� 341, de 1977 � Art. 10 Bis - Circular N� 16, de 1986. Word Vigencia Del Oficio Ord. N� 2.926, de 06.09.1983, en Relaci�n a Si la Generaci�n de Energ�a El�ctrica Debe Ser Considerada Como Una Actividad Industrial. (Of. N� 4.894, de 26.12.2000 � I. Indirectos) Franquicia Tributaria � Decreto Supremo de Hacienda N� 341, de 1977 � Art. 23�. Word Factibilidad de Comercializar Energ�a El�ctrica Prestado por Un…
+Indirectos) Franquicia Tributaria � Decreto Supremo de Hacienda N� 341, de 1977 � Art. 23�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-03-06
+- Fecha: 1998-02-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar08.htm
 - Hash SHA-256: 23f937e8c0886f59941bf4a243588ac643c04b9f4da1a5f4d410180e8f54efcf
 
 ## Resumen
 
-an> 639, de 06 de Marzo de 1998) Renta - Actual ley sobre impuesto a la - Art. 31� Word Pensi�n alimenticia - Improcedencia de deducir para determinar base imponible - No se enmarcan dentro del concepto de gasto necesario para producir la renta. (Oficio N� 564, del 20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 41� BIS Y 101� Word Cuentas de ahorro para el arrendamiento de viviendas con promesas de compraventa - Ley N� 19.281, reglamentada por D.S. N� 1.334, de 1995... (Oficio N� 563, del 20.02.1998).…
+20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 41� BIS Y 101�
 
 ## Referencias detectadas
 

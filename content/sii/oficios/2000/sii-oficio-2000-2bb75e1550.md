@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-06
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ventas04.htm
 - Hash SHA-256: ebd45bce11e05c63a615db45ef8b5124a55a1dfca4b79fcb076fec03c90e6f33
 
 ## Resumen
 
-la importaci�n de armamento, municiones y otros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley 825, de 1975. (Ord. N� 713, de. 06.03.2000) Word No existe exenci�n alguna para servicios prestados a bienes que ingresan temporalmente al pa�s para participar en ferias. Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�. Word Recuperaci�n Del Impuesto Al Valor Agregado por Empresa de Aeronavegaci�n Internacional Que Efect�a Transporte de Pasajeros Desde Chile Hacia el Ex…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�.
 
 ## Referencias detectadas
 

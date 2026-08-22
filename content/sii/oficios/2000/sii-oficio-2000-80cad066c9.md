@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-31
+- Fecha: 2000-04-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/marzo09.doc
 - Hash SHA-256: b2fdf27ef14994610107334197d0d9f3798770169ca05ce5e712fda6f547839c
 
 ## Resumen
 
-Ley Impuesto a las � Art. 23� A 28� - Art. 30� y 31� de la Ley de la Renta. Word Procedencia del uso de cr�dito fiscal en adquisiciones efectuadas por CONAF con cargo al Convenio de Administraci�n de Fondo de terceros. (Of. N� 1.067, del 31.03.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 43� bis y 46� - Art. 126� N� 3, Inciso 2� del C�digo Tributario � Circular N� 48, DE 1997. Word Consulta si procede devoluci�n de impuestos de los Arts. 43 bis y 46 del D. Ley N� 825, en virtu…
+Word Consulta si procede devoluci�n de impuestos de los Arts. 43 bis y 46 del D. Ley N� 825, en virtud del Art. 126 N� 3, inciso 2� del C�digo Tributario, al no ...( Of. N� 1112, del 06.04.2000. I. Indirectos)
 
 ## Referencias detectadas
 

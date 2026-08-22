@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Informa sobre procedencia de exenci�n de impuesto Adicional a los fletes mar�timos establecida en el N� 4 del art�culo 59 de la Ley de la Renta respecto de naves extranjeras. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�5, Art. 41�. (Ord. N�4693, de 04.12.2000) Word Determinaci�n del costo tributario de la enajenaci�n de pr�stamo efectuado a una sociedad de personas. Renta � Actual Ley Sobre Impuesto a la � Art. 22� - D.L. N� 825, Art 29�. (Ord. N� 4621, de 29.11.2000) Word Tributaci�n de los comercia…
+Word Determinaci�n del costo tributario de la enajenaci�n de pr�stamo efectuado a una sociedad de personas.
 
 ## Referencias detectadas
 

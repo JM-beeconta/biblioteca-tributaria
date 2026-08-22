@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os trabajadores constituyan becas de estudio o... (Oficio N� 505, del 11.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 17�, N�8, Letra a) y 18), Word Enajenaci�n de acciones - Mayor valor obtenido - Tratamiento tributario - Contribuyente habitual en dicho tipo de operaciones, gravado con impuestos generales de la Ley... (Oficio N� 504, del 11.02.1998). Renta - Actual ley sobre impuesto a la Art. 50� Word Ingresos profesionales - Rentas Art. 42�, N� 2, Ley de la Renta - Contribuyentes que opten por rebaj…
+11.02.1998). Renta - Actual ley sobre impuesto a la Art. 50�
 
 ## Referencias detectadas
 

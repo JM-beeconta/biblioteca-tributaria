@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-24
+- Fecha: 1999-06-15
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/jun08.doc
 - Hash SHA-256: 3a9ebb6da54529c01ecbc78d29832f3dda6f48af414d179b8e823a131499c6a6
 
 ## Resumen
 
-. N� 3.211, del 24.08.1999 - I. Indirectos). Otros Textos Legales - Ley N� 19.622. (D.O. 29.07.99) Y D.F.L. N� 2 (D.O. 31.07.59). Julio 1999 Word Concepto de vivienda nueva acogida a normas del DFL N� 2. (Of. N� 3.117, del 11.08.1999 � I. Directos). Fondo de Inversi�n de capital extranjero - Ley N� 18.657 � ART. 14�, Letra b) Junio 1999 Word Fondo de Inversi�n de Capital Extranjero � Inversiones al amparo del D.L. N� 600, de 1974, o el art�culo 47� de la Ley Org�nica del Banco Central de Chile � Excepciones � Reme…
+Word Fondo de Inversi�n de Capital Extranjero � Inversiones al amparo del D.L. N� 600, de 1974, o el art�culo 47� de la Ley Org�nica del Banco Central de Chile � Excepciones � Remesa al exterior del capital aportado no podr� efectuarse... (Oficio N� 2.563, del 15.06.1999)
 
 ## Referencias detectadas
 

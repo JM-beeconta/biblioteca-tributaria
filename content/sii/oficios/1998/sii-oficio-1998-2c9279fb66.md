@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-05-25
+- Fecha: 1998-05-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/may10.htm
 - Hash SHA-256: f013d8fba6519a63e05cf8f7b4a1ed9b32a4e1ea5f20fd8bb1d7444ae55fe8e6
 
 ## Resumen
 
-del art�culo 20�... (Oficio N� 1395, del 25.05.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 37�, Letra g) Mayo 1998 Word Impuesto Adicional - Primera venta o importaci�n de yates - Excepci�n, yates cuyo principal medio de propulsi�n sea la vela, y los destinados habitualmente a competencias deportivas - Estos �ltimos, son aquellos que s�lo tienen un motor auxiliar. (Oficio N� 1305, del 15.05.1998). Ventas y servicios -. Nuevo impuesto a las - Art. 8�, LETRA m) Mayo 1998 Word Veh�culos de transport…
+del 15.05.1998). Ventas y servicios -. Nuevo impuesto a las - Art. 8�, LETRA m) Mayo 1998
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-29
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/noviembre04.htm
 - Hash SHA-256: dcf8854ac47fbb9a5b649d7795ba6c16b8a449469cd43139c848d5caa6dffa4b
 
 ## Resumen
 
-y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, N� 4 - Art. 31� de la Ley de la Renta - Circular N� 71, de 1977 - Res. 34, de 24.03.81 (D.O. 25.04.81). Noviembre 1999 Word Situaci�n tributaria de los gastos por concepto de mantenci�n, reparaci�n y adquisici�n de combustibles y repuestos para los veh�culos denominados "coches mortuorios" utilizados en la prestaci�n de sus servicios. (Of. N� 4.321, del 29.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N�s. 1 y 3…
+ctos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N�s. 1 y 3, Art�culo 37�, letra a), Art�culo 40� - Res. Ex. 3338, de 1992. Noviembre 1999
 
 ## Referencias detectadas
 

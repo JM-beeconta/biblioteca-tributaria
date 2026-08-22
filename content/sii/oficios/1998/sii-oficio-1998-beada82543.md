@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-01-28
+- Fecha: 1998-01-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/feb04.doc
 - Hash SHA-256: 32adeb797f9457d8711989ca4bf2237dde286c16d676ff0031f73ce6dbce4fd8
 
 ## Resumen
 
-ro de 1998) Renta - Actual ley sobre impuesto a la Art. 58�, N� 1, Word Sociedad extranjera - Actividad desarrollada en Chile, realizada por personal que no asume su representaci�n - No constituye en el pa�s un... (Oficio N� 303, del 28.01.1998). Renta Actual ley sobre impuesto a la Art. 20�, N� 3 -Impuesto a las ventas y servicios Art. 2�, N� 2., Word Administraci�n de sistema de salud animal - Forma de operar - Actividades constituye suministro de servicio - Art. 3�, N� 7, del C�digo de Comercio... (Oficio N� 21…
+Word Administraci�n de sistema de salud animal - Forma de operar - Actividades constituye suministro de servicio - Art. 3�, N� 7, del C�digo de Comercio... (Oficio N� 214, del 26.01.1998).
 
 ## Referencias detectadas
 

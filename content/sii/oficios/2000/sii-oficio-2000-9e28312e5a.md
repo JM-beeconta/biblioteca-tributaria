@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-19
+- Fecha: 2000-05-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio04.doc
 - Hash SHA-256: a66ae2295d9da778c3f104263c8fab4344c6a88c2901d8960db88e8e9abbc977
 
 ## Resumen
 
-ntas/junio05.doc'>Word Se solicita autorizaci�n para calcular la proporcionalidad del cr�dito fiscal establecido en el art�culo 23�, N� 3, del D.L. N� 825, en relaci�n con el art�culo 43�, del Reglamento con un mes de desface. (Of. N� 1.854, de 19/05/2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8�, letra m) - Art. 52 y sgtes. - Art. 97�, N� 10, del C�digo Tributario - Art. 6�, letra a, N� 1 del D.L. N� 830, de 1974. Word Solicitan se se�ale qui�n debe emitir la factura en rema…
+Word Solicitan se se�ale qui�n debe emitir la factura en remate judicial en el evento de negativa ausencia del ejecutado. (Of. N� 2.034, de 24/05/2000 - I. Indirectos)
 
 ## Referencias detectadas
 

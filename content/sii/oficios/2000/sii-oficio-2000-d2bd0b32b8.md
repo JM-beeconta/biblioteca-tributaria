@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributaci�n de los intereses provenientes de bonos pagaderos en moneda extranjera y expresados en pesos o en unidades de fomento. Renta - Actual Ley Sobre Impuesto a la - Art. 57� bis � Ley N� 19.578, Art. 18� - Circulares N� 56 de 1993 y N� 71, de 1998. (Ord. N� 1.522, de 09.05.2000). Word Beneficios tributarios del art�culo 57 bis de la Ley de la Renta respecto de dep�sitos a plazo. Renta - Actual Ley Sobre Impuesto a la - Art. 17�, N� 8, letra a), Art. 17�, N� 13. (Ord. N� 1419, de 28.04.2000) Word Venta de acc…
+Word Beneficios tributarios del art�culo 57 bis de la Ley de la Renta respecto de dep�sitos a plazo.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-10
+- Fecha: 2000-11-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4275.doc
 - Hash SHA-256: 6099a40ba5b2039019e179705673ec2a34b3391cf4594de089dd9d307cca016c
 
 ## Resumen
 
-FY'> Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� - C�digo de Comercio, Art. 3�, N�6. (Ord. N� 4339, de 10.11.2000) Word Aplicaci�n del IVA a estaci�n de transferencia de tratamiento de basuras. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Art. 8�, Art. 2�, N�2. (Ord. N� 4275, de 07.11.2000) Word Impuesto al Valor Agregado en prestaci�n de servicios dentales ambulatorios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art.…
+Word Impuesto al Valor Agregado en prestaci�n de servicios dentales ambulatorios.
 
 ## Referencias detectadas
 

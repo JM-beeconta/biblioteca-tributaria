@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-01
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/agosto06.htm
 - Hash SHA-256: 575b36357844ed2f27499ce569a586ebe2f943987bc335b699211bc709af01ef
 
 ## Resumen
 
-f. N� 3.008, de 01.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8�, letra i). Word Impuesto al Valor Agregado que afecta al estacionamiento de veh�culos en la v�a p�blica controlado mediante m�quinas port�tiles. (Of. N� 2.987, de 28.07.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 3, Art. 8� letra m), Art. 23�- Art. 39 inciso 1� del Reglamento del D. L. N� 825. Word Solicita se reconozca derecho a utilizar el cr�dito fiscal de IVA…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 3, Art. 8� letra m), Art. 23�- Art. 39 inciso 1� del Reglamento del D. L. N� 825.
 
 ## Referencias detectadas
 

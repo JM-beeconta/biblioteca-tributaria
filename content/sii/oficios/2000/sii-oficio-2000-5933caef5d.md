@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-16
+- Fecha: 2000-04-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja1217.htm
 - Hash SHA-256: 4d722718387df0ab353cb43bac34a42ede368bf5d5798d38ed752bf2dfc7c6b9
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � C�digo de Comercio, Art. 3�. (Ord. N� 1782, de 16.05.2000) Word IVA que afecta a servicios computacionales consistentes en: dise�o y desarrollo de p�ginas Web para usuarios de Internet, Instalaci�n y soporte t�cnico de Intranet y certificaci�n digital de redes y p�ginas Web. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 37�. (Ord. N� 1217, de 14.04.2000) Word Impuesto al Valor Agregado…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 37�. (Ord. N� 1217, de 14.04.2000)
 
 ## Referencias detectadas
 

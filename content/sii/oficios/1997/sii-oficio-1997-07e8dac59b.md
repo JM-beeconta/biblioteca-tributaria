@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href="otras/nov08.htm">C�digo Tributario - Actual texto - Art. 51�, Noviembre 1997 Imputaci�n de remanentes de PPM y cr�dito por gastos de capacitaci�n en caso de fusi�n de sociedades an�nimas. (Of. N� 2.632 del 31/10/97). Franquicias Tributarias - Decreto Ley N� 910 - Art. 21�, Noviembre 1997 Aplicaci�n del cr�dito especial en proyectos de Gobierno Regional. (Of. N� 2.630 del 31/10/97) Convenio entre Chile y Argentina para evitar doble tributaci�n - Decreto Supremo N� 32, de RR.EE de 1986, Octubre 1997 Certificac…
+el 31/10/97) Convenio entre Chile y Argentina para evitar doble tributaci�n - Decreto Supremo N� 32, de RR.EE de 1986, Octubre 1997 Certificaci�n del Servicio de Impuestos Internos a contribuyentes para evitar la doble tributaci�n entre Chile y Argentina. (Of. N� 2.231 del 25/9/97
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA">( Oficio N� 381, de 30 Enero de 1998) Renta - Actual ley sobre impuesto a la Art. 58�, N� 1, Word Sociedad extranjera - Actividad desarrollada en Chile, realizada por personal que no asume su representaci�n - No constituye en el pa�s un... (Oficio N� 303, del 28.01.1998). Renta Actual ley sobre impuesto a la Art. 20�, N� 3 -Impuesto a las ventas y servicios Art. 2�, N� 2., Word Administraci�n de sistema de salud animal - Forma de operar - Activ…
+28.01.1998). Renta Actual ley sobre impuesto a la Art. 20�, N� 3 -Impuesto a las ventas y servicios Art. 2�, N� 2.,
 
 ## Referencias detectadas
 

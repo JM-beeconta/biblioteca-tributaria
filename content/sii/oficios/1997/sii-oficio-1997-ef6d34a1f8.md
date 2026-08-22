@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 21�, Noviembre 1997 Aplicaci�n del cr�dito especial en proyectos de Gobierno Regional. (Of. N� 2.630 del 31/10/97) Convenio entre Chile y Argentina para evitar doble tributaci�n - Decreto Supremo N� 32, de RR.EE de 1986, Octubre 1997 Certificaci�n del Servicio de Impuestos Internos a contribuyentes para evitar la doble tributaci�n entre Chile y Argentina. (Of. N� 2.231 del 25/9/97 Timbres y Estampillas - Nuevo Texto Ley sobre Impuesto de - Art. 24� N� 11, Octubre 1997 Exenci�n del Impuesto de Timbres y Estamp…
+del 25/9/97 Timbres y Estampillas - Nuevo Texto Ley sobre Impuesto de - Art. 24� N� 11, Octubre 1997 Exenci�n del Impuesto de Timbres y Estampillas que favorece a los pagar�s con que se documentan los anticipos de dinero percibidos por la exportaci�n de mercanc�as. (Of. N� 2.229 del 25/9/97)
 
 ## Referencias detectadas
 

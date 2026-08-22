@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-06
+- Fecha: 2000-10-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4063.htm
 - Hash SHA-256: 2fa913978ecd31c22d80fe0fe98d5640a10c6a24cb52407577c5e92189e2aa91
 
 ## Resumen
 
-' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 42�, Art. 43� - C�digo Tributario, Art. 97�, N�10. (Ord. N� 4216, de 06.11.2000) Word Solicita se confirme criterio en relaci�n a la aplicaci�n del Impuesto Adicional a las Bebidas Alcoh�licas, debido a la especial forma de facturar los productos transferidos. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo N� 502, de 1978, Art. 1�, Art. 54�. (Ord. N� 4063, de 20.10.2000) Word Pide a…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Supremo N� 502, de 1978, Art. 1�, Art. 54�. (Ord. N� 4063, de 20.10.2000)
 
 ## Referencias detectadas
 

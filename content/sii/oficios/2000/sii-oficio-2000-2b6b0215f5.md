@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-29
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros3839.htm
 - Hash SHA-256: eeaff9fd8139aad87b1d91d550763fc0bc150f9c11295528cf79e537335c4ac6
 
 ## Resumen
 
-Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24� N� 11�, Decreto Ley N� 3.475, de 1980 - Circular N� 31, de 1992. Word Autorizaci�n para sustituir obligaci�n establecida en la Circular N� 31, de 1992, sobre el pago del cr�dito destinado a financiar exportaciones. Exenci�n de impuesto de timbres y estampillas Art. 24, N� 11. (Of. N� 3.843, de 29.09.2000 - Depto. de T�cnica Tributaria.) C�digo Tributario - Actual Texto � Art.17� Y Art. 18�. Word Forma de determinar los resultados tributarios en…
+Tributaria.) C�digo Tributario - Actual Texto � Art.17� Y Art. 18�.
 
 ## Referencias detectadas
 

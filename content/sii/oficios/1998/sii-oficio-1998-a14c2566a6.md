@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-20
+- Fecha: 1998-02-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/feb08.doc
 - Hash SHA-256: 38c252c1cc12cd0449c8c31cb37651258069ba04cdaa178f48d5cb6c53a7237b
 
 ## Resumen
 
-(Oficio N� 0565, del 20.02.1998). LEY N� 18.768 - ART. 13�. Marzo 1998 Word Servicio de asistencia t�cnica - Contrato suscrito referido a una asesor�a integral - Valor cargado al costo de todos los bienes del activo inmovilizado - No se ve inconveniente... (Oficio N� 0540, del 13.02.1998). C�digo tributario - Actual texto - Art. 28�, Febrero 1998 Word Asociaci�n de cuentas en participaci�n - Definici�n Art. 507�, C�digo de Comercio - Gestor responsable exclusivo del cumplimiento de las obligaciones... (Oficio N� 0…
+Word Asociaci�n de cuentas en participaci�n - Definici�n Art. 507�, C�digo de Comercio - Gestor responsable exclusivo del cumplimiento de las obligaciones... (Oficio N� 0506, del 11.02.1998).
 
 ## Referencias detectadas
 

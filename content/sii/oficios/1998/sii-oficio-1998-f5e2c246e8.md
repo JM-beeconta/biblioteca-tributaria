@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-02
+- Fecha: 1998-10-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov02.doc
 - Hash SHA-256: aa41c16fa9782cd5e18454b88279f453c367d3bdea9938201ddb335761284582
 
 ## Resumen
 
-STIFY"> Renta - Actual ley sobre impuesto a la - Art. 2,14,38 bis Efectos tributarios por reorganizaci�n de una Asociaci�n y de la Corporaci�n que ha creado y de la cual forma parte, por el aporte total de los activos y pasivos que hace esta �ltima a una sociedad an�nima cerrada preexistente, para continuaci�n disolverse. (Oficio N� 2.923, del 02.11.1998). Renta - Actual ley sobre impuesto a la - Art. 15� Word Venta de acciones de una sociedad an�nima - Pago diferido del precio en tres per�odos tributarios - Oport…
+Word Venta de acciones de una sociedad an�nima - Pago diferido del precio en tres per�odos tributarios - Oportunidad en que deben declararse los respectivos ingresos - Norma general para imputaci�n de ingresos - Estos deben incluirse en el ejercicio en que hayan sido devengados o percibidos - Norma de excepci�n - Operaciones generadoras de la renta que abarquen m�s de un per�odo, como ocurre en. ( Oficio N� 2.836, del 26.10.1998).
 
 ## Referencias detectadas
 

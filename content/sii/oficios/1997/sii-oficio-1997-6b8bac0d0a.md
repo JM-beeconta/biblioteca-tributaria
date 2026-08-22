@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-02-04
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/feb17.htm
 - Hash SHA-256: 1127a7aef4212d51181566ae05df1acf615fc1185229e3090a4b27c008d44d86
 
 ## Resumen
 
-Suministro de agua de pozo efectuado por una cooperativa agr�cola, aplicaci�n del Impuesto a las Ventas y Servicios. (Of. No 481, del 04/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2 y 23�, Marzo 1997 Utilizaci�n como cr�dito fiscal, del IVA, soportado en la construcci�n de locales, entregado en comodato de accionistas. (Of. No 475, del 28/02/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 23�, Febrero 1997 Utilizaci�n del cr�dito fiscal d…
+Indirectos). Ventas y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 23�, Febrero 1997 Utilizaci�n del cr�dito fiscal del IVA, soportado en las construcci�n de un recinto de eventos, estacionamientos y otras dependencias, destinados a realizar operaciones gravadas y operaciones exentas o no gravadas, de un club. (Of. No 335, del 11/02/97. I. Indirectos).
 
 ## Referencias detectadas
 

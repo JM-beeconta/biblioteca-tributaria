@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-01
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/agosto08.htm
 - Hash SHA-256: b8c0f080117e6d639c58fca9e9804490a7ca75f7b2391eff7b9c52f2e03b7b20
 
 ## Resumen
 
-s) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 55, inciso 8�. Word Solicita autorizaci�n para emitir gu�as de despacho en entrega de parte de los insumos y medicamentos necesarios para la elaboraci�n de alimento extruido, adquirido... (Of. N� 3.002, de 01.08.2000 - I. Indirectos). Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8�, letra m), Art. 23�, N� 2 - Art. 31 N�9 Ley de la Renta. Word Situaci�n tributaria de desembolsos incurridos en actividad minera y de impuesto al valor agre…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8�, letra m), Art. 23�, N� 2 - Art. 31 N�9 Ley de la Renta.
 
 ## Referencias detectadas
 

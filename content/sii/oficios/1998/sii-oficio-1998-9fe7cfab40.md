@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-10
+- Fecha: 1998-08-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep03.doc
 - Hash SHA-256: a01380bc8dcb83b1332ec8c19c29e15399e4ce49d47fe74db735818d32b6070f
 
 ## Resumen
 
-502, del 10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 58�. Word Utilidades de las empresas mientras se mantengan invertidas en las mismas y registradas en el FUT, no se afectan con los impuestos Global Complementario o Adicional - Utilidades... (Oficio N� 2.347, del 04.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 3 Word Caso que p�rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas - Impuesto de Primera Categor�a pagado sobre dichas utilidades se consid…
+Word Caso que p�rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas - Impuesto de Primera Categor�a pagado sobre dichas utilidades se considera pago provisional... (Oficio N� 2.269, del 26.08.1998).
 
 ## Referencias detectadas
 

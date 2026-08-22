@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ado en la venta de bienes corporales muebles. (Of. N� 1.126, de 28/05/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 15�, Junio 1997 Determinaci�n de la base imponible del Impuesto al Valor Agregado en operaciones de L�ase - back, respecto de bienes gravados en la letra m), del Art. 8�, del DL No 825, y bienes ya nacionalizados. (Of. No 1.051, del 16/05/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2� y 9�., Junio 1997 Aplicaci�n de las ventas y Servicios en…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2� y 9�., Junio 1997 Aplicaci�n de las ventas y Servicios en aporte de capital a la formaci�n de una empresa constructora, consistente en el desarrollo parcial de un proyecto de construcci�n, planos de arquitectura, c�lculo e instalaciones. (Of. No 952, del 07/05/97. I. Indirectos).
 
 ## Referencias detectadas
 

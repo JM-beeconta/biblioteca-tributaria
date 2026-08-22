@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-12-22
+- Fecha: 1997-12-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/renta3038.doc
 - Hash SHA-256: f82971d609eee4cdcd4a00a16a29b0ac955539fb15b235d6a57eba2960a097ca
 
 ## Resumen
 
-59� y 60� - Impuesto a las ventas y servicios - Arts. 2�, N� 2 y 12�, Letra E, N� 16, Word Aplicaci�n del Impuesto Adicional que afecta a personas que no tienen domicilio ni residencia en Chile - Personas naturales extranjeras y sociedades de personas jur�dicas... (Oficio N� 3063, del 22.12.1997). Renta - Actual ley sobre impuesto a la - Arts. 3�, 10� y 17� N� 8, letra a) Word Disminuci�n de capital sociedad extranjera de la cual una sociedad chilena es su filial - Sociedad extranjera filial de casa matriz estable…
+Word Disminuci�n de capital sociedad extranjera de la cual una sociedad chilena es su filial - Sociedad extranjera filial de casa matriz establecida en Alemania... (Oficio N� 3038, del 18.12.1997)
 
 ## Referencias detectadas
 

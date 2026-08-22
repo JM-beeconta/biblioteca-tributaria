@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-27
+- Fecha: 2000-12-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta07.doc
 - Hash SHA-256: 14812505748d48d8e28020f79e5219f2442a4b38dbed14db31e2abaef50c0fa5
 
 ## Resumen
 
-Disposiciones Tributarias Para Colegios Subvencionados por el Estado. (Of. N� 4.558, de 27.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�- Art. 50� - Art. 126� Del Codigo Tributario � Circular N� 21�, de 1991 � Circular N� 151�, de 1976 y N� 42�, de 1990. Word Situaci�n Tributaria de Los Honorarios Boleteados por Los Socios de Sociedades de Profesionales por Servicios Prestados a sus Respectivas Sociedades. ( Of. N� 4.694, de 04.12.2000. I. Directos). Renta � Actual Ley Sobre Im…
+Word Situaci�n Tributaria de Los Honorarios Boleteados por Los Socios de Sociedades de Profesionales por Servicios Prestados a sus Respectivas Sociedades. ( Of. N� 4.694, de 04.12.2000. I. Directos).
 
 ## Referencias detectadas
 

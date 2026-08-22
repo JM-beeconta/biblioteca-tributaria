@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-03-08
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene10.htm
 - Hash SHA-256: 493b46ce9371d153a480c812292a2d8ea3c0a5960872dfe3f8e0f8ea93b33943
 
 ## Resumen
 
-enta, siempre que no correspondan... (Oficio N� 541, del 08.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 y 18� Enero 1999 Word Venta de acciones � Calificaci�n de habitualidad � No se consideran habituales las inversiones en acciones de sociedades de complementaci�n industrial y en acciones de sociedades cuyo... (Oficio N� 363, del 02.02.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N�1 Enero 1999 Word Pensi�n no contributiva de sobrevivencia � Ley N� 19.234, que estableci� benefi…
+02.02.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N�1 Enero 1999
 
 ## Referencias detectadas
 

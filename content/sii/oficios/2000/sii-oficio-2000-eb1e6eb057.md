@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-13
+- Fecha: 2000-11-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4334.htm
 - Hash SHA-256: fd0ee3e8f0065f0de085598e16644a497dbe04eda8dc6d3a4c33b82d66e581fe
 
 ## Resumen
 
-> Renta - Actual Ley Sobre Impuesto a la - Ley N� 19.518, Art. 36� - Circular 19, de 1999. (Ord. N� 4362, de 13.11.2000) Word Monto m�ximo hasta el cual procede el cr�dito por gasto de capacitaci�n establecido en la Ley N� 19.518, sobre Nuevo Estatuto de Capacitaci�n y Empleo. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 - Ley N� 19.518, Art. 36�. (Ord. N� 4334, de 10.11.2000) Word T�rminos en que las empresas o sociedades acogidas a renta presunta se pueden acoger al cr�dito por gastos de capacitaci�n r…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1 - Ley N� 19.518, Art. 36�. (Ord. N� 4334, de 10.11.2000)
 
 ## Referencias detectadas
 

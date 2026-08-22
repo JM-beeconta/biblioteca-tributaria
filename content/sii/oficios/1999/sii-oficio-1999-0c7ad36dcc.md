@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-13
+- Fecha: 1999-05-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may17.htm
 - Hash SHA-256: f43c26dff1ef9ac55f305356ce3cf4c430076fb10b158ede25c516fabb70b894
 
 ## Resumen
 
-o, gravados con Impuesto al Valor Agregado...(Oficio N� 2.093, del 13.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Art. 13�, N� 4 Mayo 1999 Word Emisi�n de certificados de estudios y de alumno regular � Establecimientos de educaci�n, exenta de IVA., por ingresos que perciban en raz�n de su actividad docente propiamente tal...(Oficio N� 1.849, del 05.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999 Word Servicios prestados a terceros por empresas concesionar…
+05.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999
 
 ## Referencias detectadas
 

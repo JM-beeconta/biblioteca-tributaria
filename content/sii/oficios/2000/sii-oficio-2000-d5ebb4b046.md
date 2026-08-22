@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-18
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero04.htm
 - Hash SHA-256: 0dd56163cfea2819bc5ba2442744db13b6fdebaa16d64543a619182eb24a12ca
 
 ## Resumen
 
-tm'>Renta - Actual Ley sobre Impuesto a la - Art.20, N� 3, Art. 29 al 33. Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art.2� N� 1 y 3, Art. 8� letra e). Word Aplicaci�n de IVA e Impuesto a la Renta a Empresas Inmobiliarias (Of. N� 587 del 18.02.2000. I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 13� - Art. 46� - Art. 161 al 163 - Art. 172� y Art. 178� del C�digo del Trabajo - Circular N� 10, de 1999, N� 29, de 1991 y N� 37 de 1990. Word Tributaci�n de Indemnizaciones pactadas en Co…
+Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 13� - Art. 46� - Art. 161 al 163 - Art. 172� y Art. 178� del C�digo del Trabajo - Circular N� 10, de 1999, N� 29, de 1991 y N� 37 de 1990.
 
 ## Referencias detectadas
 

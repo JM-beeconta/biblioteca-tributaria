@@ -11,7 +11,7 @@
 
 ## Resumen
 
-era - Determinaci�n costo de venta de acciones compradas y vendidas por corredora... (Oficio N� 539, del 13.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 13 Word Indemnizaciones por a�os de servicios - Tratamiento tributario - Instrucciones Circular N� 29, de 1991, publicada en Bolet�n del Servicio, mes de Mayo... (Oficio N� 537, del 13.02.1998) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, letra b) Y 20�, N� 1, Word Bienes ra�ces no agr�colas - Renta igual o inferior al 11% del aval�…
+13.02.1998) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, letra b) Y 20�, N� 1,
 
 ## Referencias detectadas
 

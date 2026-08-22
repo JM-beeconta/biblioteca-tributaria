@@ -11,7 +11,7 @@
 
 ## Resumen
 
-20� N� 3 del Decreto Ley N� 824 y Art. 3� N� 7 del C�digo de Comercio. Agosto 1999 Word Tributaci�n que afecta a servicios de vigilancia prestados a una municipalidad por una empresa externa. (OF. N� 3.281, del 30.08.1999 � I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 13�, N�s 7 y 8 y 2�, N� 2 - art. 20� N� 3 del Decreto Ley N� 824 y Art. 3�, N� 7 del C�digo de Comercio. Agosto 1999 Word Aplicaci�n de exenci�n del art. 13� N� 7 a empresa externa por atenci�n de beneficiarios con derec…
+Word Aplicaci�n de exenci�n del art. 13� N� 7 a empresa externa por atenci�n de beneficiarios con derecho al sistema del salud p�blica (OF. N� 3.280, del 30.08.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eceptora debe registrar tales sumas en registro... (Oficio N� 2.037, del 11.05.1999) Renta - Actual ley sobre impuesto a la - Art. 18� Mayo 1999 Word Cr�as o acciones liberadas � Incrementan el n�mero de acciones de propiedad del contribuyente � Manteni�ndose como valor de adquisici�n del conjunto de acciones s�lo el valor de adquisici�n... (Oficio N� 2.036, del 11.05.1999). Ley de Impuesto a la Renta. Art�culos 14, 21, 54� N� 1, y 56� N�3. Forma de otorgar el incremento por Impuesto de Primera Categor�a en el cas…
+11.05.1999). Ley de Impuesto a la Renta. Art�culos 14, 21, 54� N� 1, y 56� N�3. Forma de otorgar el incremento por Impuesto de Primera Categor�a en el caso de gastos rechazados y retiros. ( Oficio N� 1911, de 06 de Mayo de 1999).
 
 ## Referencias detectadas
 

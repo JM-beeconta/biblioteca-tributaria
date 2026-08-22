@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-22
+- Fecha: 1999-11-17
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/octubre16.doc
 - Hash SHA-256: 01f099f97114c3109b52ac56ebfa47d3f5918842a1ae7a2617ff059d4189c6bd
 
 ## Resumen
 
-m">Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 36� - Art. 14� Bis, 20�, de la Ley sobre Impuesto a la Renta - Circular N� 19, de 1999. Noviembre 1999 Word Posibilidad de hacer uso de la franquicia tributaria SENCE, por la Corporaci�n Consejo de Defensa del Ni�o. (Of. N� 4.205, del 22.11.1999 - I. Directos). Ley N� 18.502 - Art. 6� Impuesto a los combustibles. Octubre 1999 Word Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel, utilizado en camiones destinados a faenas…
+Word Recuperaci�n del Impuesto Espec�fico al Petr�leo Diesel, utilizado en camiones destinados a faenas mineras que no transitan por calles o v�as p�blicas. (Of. N� 4.180, de 17.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

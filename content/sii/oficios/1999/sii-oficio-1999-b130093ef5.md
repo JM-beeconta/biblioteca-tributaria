@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-06
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may03.htm
 - Hash SHA-256: 9a1d16f876598d766ae548e522f77d7520feeb6429633c21c4d78eb41f5f50b1
 
 ## Resumen
 
-. Ley de Impuesto a la Renta. Art�culos 14, 21, 54� N� 1, y 56� N�3. Forma de otorgar el incremento por Impuesto de Primera Categor�a en el caso de gastos rechazados y retiros. ( Oficio N� 1911, de 06 de Mayo de 1999). Renta - Actual ley sobre impuesto a la - Arts. 15�, 29� y 31� Mayo 1999 Word Pagos por el uso de infraestructura y otros � Sociedad concesionaria subcontrata la totalidad de la construcci�n de la obra por suma alzada � Costo de construcci�n se encuentra... (Oficio N� 1844, del 05.05.1999) Renta - Ac…
+sp; Renta - Actual ley sobre impuesto a la - Arts. 15�, 29� y 31� Mayo 1999
 
 ## Referencias detectadas
 

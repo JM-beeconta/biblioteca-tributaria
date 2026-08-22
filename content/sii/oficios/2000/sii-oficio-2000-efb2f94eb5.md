@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-06-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio04.doc
 - Hash SHA-256: d8cf89951a3735f64d18f0f64eb4d8b736e51c1c7adc767e93d63877ce522c25
 
 ## Resumen
 
-�n empresarial, respecto del accionista controlador cuyo objeto es aportar las acciones a una nueva sociedad, con el fin de constituir una sociedad ...(Of. N� 2.564, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 15, Art. 21�, Art. 31� Y 33�, N� 1 - Circular N� 59, de 1997. Word Tratamiento tributario de los gastos por concepto de combustibles de veh�culos de propiedad de trabajadores de acuerdo a lo dispuesto por la Circular N� 59, de 1997. (Of. N� 2.586, de 30.06.2000 - I. Dir…
+Word Tratamiento tributario de los gastos por concepto de combustibles de veh�culos de propiedad de trabajadores de acuerdo a lo dispuesto por la Circular N� 59, de 1997. (Of. N� 2.586, de 30.06.2000 - I. Directos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributario - Actual Texto - Art. 64�. (Of. N� 2.925 del 03/12/97), Diciembre 1997 Valor de aporte de acciones de una sociedad an�nima, a la constituci�n de una nueva sociedad. (Of. N� 2.925, del 03/12/97). Ley N� 13.039 - Art. 35�, Diciembre 1997 Forma de acreditar las rentas para los efectos de la franquicia aduanera del Art. 35�, de la Ley N� 13.039. (Of. 2.752 del 12/11/97) C�digo del Trabajo - Art. 47�, Noviembre 1997 Impuesto de Primera Categor�a que debe rebajarse para los efectos de la determinaci�n de la u…
+el 12/11/97) C�digo del Trabajo - Art. 47�, Noviembre 1997 Impuesto de Primera Categor�a que debe rebajarse para los efectos de la determinaci�n de la utilidad l�quida afecta a gratificaciones legales. (Of. N� 2.738, del 11/11/97)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-26
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/junio11.htm
 - Hash SHA-256: 15c5e1d3f97ecfa8c65023752157f3cc7e30c8a77e154d39fc8b9b5e6c66f2e0
 
 ## Resumen
 
-Renta - Actual Ley sobre Impuesto a la - Art. 40�, N� 1 - Oficio N� 1442, de 13/04/92. Word Situaci�n tributaria del Servicio de Gendarmer�a de Chile y sus respectivos Centros de Educaci�n y Trabajo. (Of. N� 2.066, de 26/05/2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 31�. Word Tratamiento tributario de gastos globales en base a prorrateos razonables por asociaci�n a una red mundial de servicios profesionales. (Of. N� 2.040, de 25/05/2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la -…
+Renta - Actual Ley sobre Impuesto a la - Art. 31�.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Venta de acciones de una sociedad an�nima - Pago diferido del precio en tres per�odos tributarios - Oportunidad en que deben declararse los respectivos ingresos - Norma general para imputaci�n de ingresos - Estos deben incluirse en el ejercicio en que hayan sido devengados o percibidos - Norma de excepci�n - Operaciones generadoras de la renta que abarquen m�s de un per�odo, como ocurre en. ( Oficio N� 2.836, del 26.10.1998). Renta - Actual ley sobre impuesto a la - Art. 30� Word Valorizaci�n de existencias -…
+26.10.1998). Renta - Actual ley sobre impuesto a la - Art. 30�
 
 ## Referencias detectadas
 

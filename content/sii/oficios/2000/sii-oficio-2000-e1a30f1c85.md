@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-01
+- Fecha: 2000-03-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero01.doc
 - Hash SHA-256: 041ef21291dd052749dc3009469296a48687feb4d1937bef232353258f2094af
 
 ## Resumen
 
-N� 8 - Art. 18�. Word Situaci�n Tributaria de la enajenaci�n de acciones efectuado al cr�dito cuya obligaci�n de pago se cumple...(Oficio N� 696, del 01.03.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 y 18�. Word Presunci�n de habitualidad en la compra y venta de acciones de una sociedad de responsabilidad limitada... (Oficio N� 782, del 13.03.2000 - I. Directos) Renta - Actual Ley sobre Iimpuesto a la -. Word Tratamiento tributario que de acuerdo con la Ley de la Renta chilena se ap…
+Word Presunci�n de habitualidad en la compra y venta de acciones de una sociedad de responsabilidad limitada... (Oficio N� 782, del 13.03.2000 - I. Directos)
 
 ## Referencias detectadas
 

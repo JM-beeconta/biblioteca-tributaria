@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-13
+- Fecha: 2000-04-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/marzo01.doc
 - Hash SHA-256: cbf4f3dd2321c7403792fa07ca51d758c0bdbeaf9c51d0b95b39f00909728c7b
 
 ## Resumen
 
-17�, N� 8 y 18�. Word Presunci�n de habitualidad en la compra y venta de acciones de una sociedad de responsabilidad limitada... (Oficio N� 782, del 13.03.2000 - I. Directos) Renta - Actual Ley sobre Iimpuesto a la -. Word Tratamiento tributario que de acuerdo con la Ley de la Renta chilena se aplica a los "pactos de recompra o reporto". (Of. N� 1.174, del 11.04.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - ART. 31�, N� 6. Word Tratamiento de la utilidad obtenida en la enajenaci�n de acciones de una…
+Word Tratamiento tributario que de acuerdo con la Ley de la Renta chilena se aplica a los "pactos de recompra o reporto". (Of. N� 1.174, del 11.04.2000 - I. Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-13
+- Fecha: 1999-05-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may19.doc
 - Hash SHA-256: 6ca5bf697f1eb752cfa9e52e419d5fbeb112d2c1ae64910431a8f991cfea3736
 
 ## Resumen
 
-e="arial" size="2"> Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra i) Mayo 1999 Word Estacionamiento de autom�viles � Playas de estacionamiento u otros lugares destinados a dicho fin � Ingresos percibidos por dicho concepto, gravados con Impuesto al Valor Agregado...(Oficio N� 2.093, del 13.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Art. 13�, N� 4 Mayo 1999 Word Emisi�n de certificados de estudios y de alumno regular � Establecimientos de educaci�n, exenta de IVA., por in…
+Word Emisi�n de certificados de estudios y de alumno regular � Establecimientos de educaci�n, exenta de IVA., por ingresos que perciban en raz�n de su actividad docente propiamente tal...(Oficio N� 1.849, del 05.05.1999).
 
 ## Referencias detectadas
 

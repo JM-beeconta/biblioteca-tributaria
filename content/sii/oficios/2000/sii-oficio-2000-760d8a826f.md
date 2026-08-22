@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-24
+- Fecha: 2000-10-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/diciembre08.doc
 - Hash SHA-256: fca4ac25dd87f68ffb79f1a1cbb8d47108e9d316c63a0b330b7cc29ef209aa6f
 
 ## Resumen
 
-/font> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8� letra g), Art. 12� N� 11�. Word Impuesto al valor agregado en arrendamiento de m�dulos ubicados dentro de un supermercado. (Of. N� 4.111, de 24.10.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 4�, ART. 5�. Word Territorialidad del Impuesto al Valor Agregado. (Of. N� 4.062, de 20.10.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2�, Art. 12� letra d), ART. 36�. Word Calidad…
+Word Territorialidad del Impuesto al Valor Agregado. (Of. N� 4.062, de 20.10.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

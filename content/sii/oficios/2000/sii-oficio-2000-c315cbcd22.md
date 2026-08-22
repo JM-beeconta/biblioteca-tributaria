@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-12
+- Fecha: 2000-06-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/junio13.doc
 - Hash SHA-256: accf99109bf3842d7fbd145217d31daafdbfddfed224712e683a4cc6b5c5e1e6
 
 ## Resumen
 
-licita opini�n del Servicio respecto a s� la visaci�n o autorizaci�n del informe de importaci�n es suficiente para considerar cumplida la exigencia de autorizaci�n del contrato de arriendo de los bienes de ... (Of. N� 2.280, de 12/06/2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 58�, N� 1. Word Solicita se confirme criterios sobre calificaci�n como establecimientos permanentes en Chile de Sociedades o Fondos Extranjeros que realizan inversiones en Chile. (Of. N� 2.205, de 05/06/2000 - I. Direct…
+Word Solicita se confirme criterios sobre calificaci�n como establecimientos permanentes en Chile de Sociedades o Fondos Extranjeros que realizan inversiones en Chile. (Of. N� 2.205, de 05/06/2000 - I. Directos)
 
 ## Referencias detectadas
 

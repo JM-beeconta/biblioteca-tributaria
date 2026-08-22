@@ -11,7 +11,7 @@
 
 ## Resumen
 
-impuesto a la - Art. 59�, N� 2 � Ventas y servicios - Nuevo texto - Ley impuesto a las - Art. 12�, Letra E, N� 7 Abril 1999 Word Emisi�n y colocaci�n de instrumentos de deuda p�blica en el extranjero � Agentes colocadores, bancos de inversi�n extranjeros � comisiones exentas de impuesto adicional, si operaciones son... (Oficio N� 1062, del 06.04.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N� 2 Abril 1999 Word Sociedad de profesionales que presten exclusivamente servicios o asesor�as profesionales � O…
+Word Sociedad de profesionales que presten exclusivamente servicios o asesor�as profesionales � Opci�n de declarar rentas de acuerdo con normas de la Primera Categor�a � En dicho caso... (Oficio N� 1061, del 06.04.1999).
 
 ## Referencias detectadas
 

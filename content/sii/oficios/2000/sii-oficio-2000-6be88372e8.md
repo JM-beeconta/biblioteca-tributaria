@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-11
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/marzo03.htm
 - Hash SHA-256: 7e139771aca9c8659f3a58a9ef173a5eff084a4433f638fd22b2f167d012c575
 
 ## Resumen
 
-nta - Actual Ley sobre Impuesto a la - ART. 31�, N� 6. Word Tratamiento de la utilidad obtenida en la enajenaci�n de acciones de una sociedad an�nima argentina frente a la determinaci�n de la utilidad l�quida de una empresa en Chile ...(Of. N� 1.175, del 11.04.2000 - I. Directos) Renta- Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Art. 74, N� 1 Y Art. 78. Word Forma de declarar el impuesto �nico de segunda categor�a en el caso de una empresa extranjera, sin domicilio, residencia, ni representan…
+Renta- Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Art. 74, N� 1 Y Art. 78.
 
 ## Referencias detectadas
 

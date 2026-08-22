@@ -11,7 +11,7 @@
 
 ## Resumen
 
-">Ventas y Servicios � Nuevo Texto Ley Impuesto a las � art. 2� N�s 1 y 3. Agosto 1999 Word Aplicaci�n del tributo en venta de la opci�n por parte del due�o de un veh�culo de alquiler, inscrito en registro municipal de taxis colectivos para reemplazarlo por uno de fabricaci�n m�s reciente.(OF. N� 3.332, del 02.09.1999 � I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 8�, letra g). Agosto 1999 Word Tributaci�n que afecta al arrendamiento de un inmueble especialmente acondicionado para rea…
+Word Tributaci�n que afecta al arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial. (OF. N� 3.331, del 02.09.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

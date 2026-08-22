@@ -11,7 +11,7 @@
 
 ## Resumen
 
-c">Word Personas que tienen derecho al beneficio tributario establecido en la Ley N� 19.622. (Of. N� 2.896, de 24.07.2000 - Depto. de T�cnica Tributaria.) Decreto Ley N� 828, de 1974 - de Impuesto a los Tabacos Manufacturados - Art. 3�, 4�, 5�, 8� y 17�. Word Base imponible aplicable en la importaci�n de tabacos. (Of. N� 2.608, de 30.06.2000 - I. Indirectos). Ley N� 19.622 - establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de…
+Indirectos). Ley N� 19.622 - establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de 1999.
 
 ## Referencias detectadas
 

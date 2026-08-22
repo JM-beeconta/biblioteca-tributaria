@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Rentas municipales - Actual ley sobre - Art. 46� Decreto ley N� 3.063 Word Fundaci�n cuyo objeto es colaborar con Servicios de Salud en detecci�n, atenci�n y seguimiento de cardi�patas sin recursos - Textos legales que establecen beneficios... (Oficio N� 989, del 13.04.1998). Renta - actual ley sobre impuesto a la - Arts. 17�, N� 15 Y 42�, N� 1, Word Asignaciones de pasajes y vi�ticos - Consejeros Regionales, Ley 19.175, Art. 39� - Instrucciones generales, Circular N� 7, de 1993... (Oficio N� 990, del 13.04.1998).…
+Word Asignaciones de pasajes y vi�ticos - Consejeros Regionales, Ley 19.175, Art. 39� - Instrucciones generales, Circular N� 7, de 1993... (Oficio N� 990, del 13.04.1998).
 
 ## Referencias detectadas
 

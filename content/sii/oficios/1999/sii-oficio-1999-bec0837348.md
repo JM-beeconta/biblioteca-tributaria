@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-23
+- Fecha: 1999-05-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jun02.doc
 - Hash SHA-256: 76f4f013cee71156bf2d94465871bfadd58ae35157892a1aa9387ecd620e0ec6
 
 ## Resumen
 
-Renta - Actual ley sobre impuesto a la - Art. 41�. Junio 1999 Word Costo directo de venta de las mercader�as, materias primas y otros bienes del activo realizable � Costo directo de bienes, cuando se apliquen a procesos productivos y/o art�culos terminados... (Oficio N� 2.361, del 23.05.1999) Renta Actual ley sobre impuesto a la - Art. 17�, N� 8. Junio 1999 Word Adquisici�n de acciones de pago � Suscripci�n previa de contrato de opci�n de suscripci�n de acciones � Valor de adquisici�n � Monto efectivamente pagado…
+Word Adquisici�n de acciones de pago � Suscripci�n previa de contrato de opci�n de suscripci�n de acciones � Valor de adquisici�n � Monto efectivamente pagado por los t�tulos accionarios... (Oficio N� 2.360, del 28.05.1999).
 
 ## Referencias detectadas
 

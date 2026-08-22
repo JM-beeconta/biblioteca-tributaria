@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-01-13
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/feb12.htm
 - Hash SHA-256: 125a4febe6f5d5c3dce615368a5115ecbf6215f274fdbb1a0a8bd04928690edb
 
 ## Resumen
 
-r una guarder�a infantil, se encuentran exentos del Impuesto al Valor Agregado. (Of. No 113, del 20/01/97. I. Indirectos) Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - Art. 55�, Enero 1997 El traslado de frutas desde los huertos a los packing que s�lo atraviesen el camino p�blico no deben emitir documentaci�n para amparar el traslado de dichas especies. (Of. No 77 del 14/1/97. A. Jur�dica). Ventas y Servicios - Nuevo Texto Ley de Impuestos a Las - Art. 8�, Letra I), Febrero 1997 El cobro a copropietarios y…
+. Jur�dica). Ventas y Servicios - Nuevo Texto Ley de Impuestos a Las - Art. 8�, Letra I), Febrero 1997 El cobro a copropietarios y arrendatarios de un edificio de departamentos por ocupaci�n de un sector del terreno o bien com�n del inmueble para el estacionamiento de veh�culos, no se encuentra gravado con el IVA. (Of. No 66, del 13/01/97. I. Indirectos).
 
 ## Referencias detectadas
 

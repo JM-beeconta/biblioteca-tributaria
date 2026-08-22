@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-08-26
+- Fecha: 1998-08-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ago01.htm
 - Hash SHA-256: afb6c59bf46ca223e8ef7169ea490c8165800783dc4e2505fb093ec862754bea
 
 ## Resumen
 
-rior por los conceptos indicados en el inciso primero del Art. 59�... (Oficio N� 2.268, del 26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 21�. Word Pr�stamos que efect�an las sociedades an�nimas cerradas a sus accionistas, personas naturales - Afectos a impuesto �nico - Instrucciones Circular N� 37, de 1995 - Partidas se... (Oficio N� 2.067, del 04.08.1998). Renta - Actual ley sobre impuesto a la - Arts.. 5� Y 57� BIS-, Letra A.-, N� 1 Word Comunidad hereditaria - Rentas efectivas o presuntas - Corres…
+04.08.1998). Renta - Actual ley sobre impuesto a la - Arts.. 5� Y 57� BIS-, Letra A.-, N� 1
 
 ## Referencias detectadas
 

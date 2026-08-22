@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-26
+- Fecha: 2000-05-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio05.doc
 - Hash SHA-256: 14f0a8e51259391c4f5ef7767a5176b4ff258673d9b233f0c6f1e857dd00ca30
 
 ## Resumen
 
-39, de 03.05.89. Word Impuesto al Valor Agregado que afecta al Transporte de Pacientes en ambulancia y el Servicio consistente en promocionar a diferentes instituciones ... ( Of. N� 1.357, del 26.04.2000 - I. Directos ) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, N� 3, Art. 36�, inciso 4� - D.S. N� 348, del Ministerio de Econom�a, Fomento y Reconstrucci�n - Art. 43�, del D.S. de Hacienda N� 55. Word Se solicita autorizaci�n para calcular la proporcionalidad del cr�dito fiscal establecido en e…
+Word Se solicita autorizaci�n para calcular la proporcionalidad del cr�dito fiscal establecido en el art�culo 23�, N� 3, del D.L. N� 825, en relaci�n con el art�culo 43�, del Reglamento con un mes de desface. (Of. N� 1.854, de 19/05/2000 - I. Indirectos)
 
 ## Referencias detectadas
 

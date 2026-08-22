@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-17
+- Fecha: 2000-04-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/mayo02.doc
 - Hash SHA-256: f50da26eb6a00b166c3bcb44e4bbf47b6c500f271d7ac932ea5648a26ce5d493
 
 ## Resumen
 
-cios - Nuevo Texto - Ley Impuesto a las - Art. 4�, Art. 8� y 46� - Art. 5� - Ley N� 19.633, de 1999. Word R�gimen Tributario aplicable a Veh�culo Importado al amparo de Franquicia Especial. ( Of. N� 1.789, del 17/05/2000 - I. Directos ) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, Art. 13�, N� 3 - Art. 20�, N� 3 de la Ley sobre Impuesto a la Renta - Of. Circular N� 1439, de 03.05.89. Word Impuesto al Valor Agregado que afecta al Transporte de Pacientes en ambulancia y el Servicio…
+Word Impuesto al Valor Agregado que afecta al Transporte de Pacientes en ambulancia y el Servicio consistente en promocionar a diferentes instituciones ... ( Of. N� 1.357, del 26.04.2000 - I. Directos )
 
 ## Referencias detectadas
 

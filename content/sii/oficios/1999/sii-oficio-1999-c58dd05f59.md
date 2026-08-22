@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-25
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre06.htm
 - Hash SHA-256: 83b5c45edeff3573f0d9933882ecd11341d7ae7769ed60c02515c43a60038a28
 
 ## Resumen
 
-ntures. (Oficio N� 4.270, de 25.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, Art�culo N� 18, inciso 1�. Noviembre 1999 Word Oportunidad en que se entienden adquiridos o enajenados los bienes ra�ces y calificaci�n de la indemnizaci�n por expropiaci�n de un bien ra�z. (Oficio N� 4.176, de 17.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 41�, N� 3, letra d). Octubre 1999 Word Interpretaci�n del Servicio, a la frase "dependiendo si son del mismo g�nero, calid…
+ctos). Renta - Actual Ley sobre Impuesto a la - Art. 41�, N� 3, letra d). Octubre 1999
 
 ## Referencias detectadas
 

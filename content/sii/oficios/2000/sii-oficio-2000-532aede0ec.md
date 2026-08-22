@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-07-27
+- Fecha: 2000-07-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2901.htm
 - Hash SHA-256: 59fd8c37b312dd2f2581eb7f10606a8efac27a7b2af33829c8eb2c29083158a6
 
 ## Resumen
 
-' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19288, de 1994, Art 2�, Art. 6�. (Ord. N� 2965, de 27.07.2000) Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto adicional a las bebidas alcoh�licas, analcoh�licas y otras similares, a bebidas de fabricaci�n nacional adquiridas en otros pa�ses. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - Ley N� 19.633, de 1999. (Ord. N� 2901, de 25.07.2000) Word Efectos de la Ley N�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - Ley N� 19.633, de 1999. (Ord. N� 2901, de 25.07.2000)
 
 ## Referencias detectadas
 

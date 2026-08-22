@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="renta/mar02.htm">Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A), N� 3, Letra d) y 17�, N� 7. Marzo 1999 Word Sociedades an�nimas � Retiros, remesas o distribuciones � Orden de imputaci�n � Devoluciones de capitales sociales y reajustes de �stos � No constituyen renta, siempre que no correspondan... (Oficio N� 541, del 08.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8 y 18� Enero 1999 Word Venta de acciones � Calificaci�n de habitualidad � No se consideran habituales las inversio…
+Word Venta de acciones � Calificaci�n de habitualidad � No se consideran habituales las inversiones en acciones de sociedades de complementaci�n industrial y en acciones de sociedades cuyo... (Oficio N� 363, del 02.02.1999).
 
 ## Referencias detectadas
 

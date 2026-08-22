@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Hacienda N� 341, de 1977 � Art. 23�. Word Factibilidad de Comercializar Energ�a El�ctrica Prestado por Un Usuario de Zona Franca de Iquique a Clientes Tambi�n Usuarios de la Misma. (Of. N� 4.857, de 19.12.2000 � I. Indirectos). Franquicias Tributarias � Decreto Ley N� 910, de 1975 � Art. 21� - Art. 1�, Art.2�, Art. 8�, Art. 55� del Decreto Ley N� 825, de 1974 � Art. 17� N� 1�, Art.29� de la Ley de la Renta. Word Aplicaci�n del IVA, Impuesto a la Renta y Cr�dito Especial del Art. 21� del D. Ley N� 910, en Venta…
+Word Aplicaci�n del IVA, Impuesto a la Renta y Cr�dito Especial del Art. 21� del D. Ley N� 910, en Venta y Promesas de Venta de Inmuebles Destinados a la Habitaci�n. (Of. N� 4.853, de 19.12.2000 � I. Directos) .
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lign="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Art. 17� , N� 4 Word Asignaci�n de movilizaci�n - Tratamiento tributario - Circular N� 36, de 1988 - No constituye renta para sus beneficiarios si se considera razonable a juicio del Director Regional respectivo... (Oficio N� 2.618, del 29.09.1998). Renta - Actual ley sobre impuesto a la - Art.14� , Letra A), N� 1, Letra b) Word Divisi�n de sociedades - Sociedades de personas - Socios nuevas sociedades corresponden los mismos derechos y participaciones... (O…
+Word Divisi�n de sociedades - Sociedades de personas - Socios nuevas sociedades corresponden los mismos derechos y participaciones... (Oficio N� 2.616, del 29.09.1998).
 
 ## Referencias detectadas
 

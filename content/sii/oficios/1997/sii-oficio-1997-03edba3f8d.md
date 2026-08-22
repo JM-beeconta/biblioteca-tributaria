@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r> T�rminos en que debe certificarse la exenci�n de Impuesto Adicional. (Of. No 2.135, del 12/09/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 31�, No. 7 - Ley 18.681, Art. 69� Limite que debe considerar para los efectos de cuantificar el monto de las donaciones que se aceptan como gastos. (Of. No 2.116, del 08/09/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra B). Situaci�n tributaria de la venta de un inmueble por medio de un contrato de leaseback. (Of. No 1.95…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra B). Situaci�n tributaria de la venta de un inmueble por medio de un contrato de leaseback. (Of. No 1.956, del 29/08/97. I. Directos).
 
 ## Referencias detectadas
 

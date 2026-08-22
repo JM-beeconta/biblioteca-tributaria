@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-24
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/febrero06.htm
 - Hash SHA-256: fe8810544e0843ff4243e4e5c4b3d20a943803c92261a8b969b4f7b491efd30c
 
 ## Resumen
 
-font face='arial' size='1'> Ventas y Servicios -Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 9� Letra a) - Art. 20�, N� 3 de la Ley de la Renta - Art. 3�, N� 7 y 807 del C�digo de Comercio. Word Se reitera consulta sobre procedencia de Contrato de Dep�sito de Mercader�as en que actuar�a como......(Of. N� 633, de 24.02.2000 � I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 1,2 y 3, Art. 8� letra g) - Ley N�11.534. Word Vigencia y eventuales modificaciones de la Ley N� 11…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 1,2 y 3, Art. 8� letra g) - Ley N�11.534.
 
 ## Referencias detectadas
 

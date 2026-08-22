@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-08-05
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/sep01.htm
 - Hash SHA-256: 35eb2557526626fb91b4e5826480e70d3f81287581084174a3f6d17ea0ee3388
 
 ## Resumen
 
-05 de agosto de 1997. I. Directos) Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra A) y 18� Tributaci�n que afecta a la enajenaci�n de bien ra�z agr�cola, perteneciente a una sociedad que tributa sobre la base de un contrato de arrendamiento y sobre renta presunta, (Of. No 1.751, del 05/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Arts. 17�, No. 8, Letra A) y 17�, No. 13 Situaci�n tributaria de la venta de acciones adquiridas con fondos de indemnizaci�n, de desahucio o retiro. (Of.…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Arts. 17�, No. 8, Letra A) y 17�, No. 13 Situaci�n tributaria de la venta de acciones adquiridas con fondos de indemnizaci�n, de desahucio o retiro. (Of. No 1.722, del 30/07/97. I. Directos).
 
 ## Referencias detectadas
 

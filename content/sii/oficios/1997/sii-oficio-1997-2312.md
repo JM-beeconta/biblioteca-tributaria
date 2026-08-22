@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sociedad de responsabilidad limitada, celebrado entre c�nyuges separados totalmente de bienes (Of. N� 2.314 del 3/10/97) Renta - Actual Ley sobre Impuesto a la - Art. 59�, N� 2, Alcance del concepto comisiones pagadas al exterior para los efectos de la exenci�n del Impuesto Adicional. (Of. N� 2.313 del 3/10/97). Ley de Impuesto a la Renta. Art�culos 14� y 58�. Tributaci�n que afecta a las empresas constituidas como sociedades an�nimas o sociedades de personas. (Ord N� 2312, de 03 de Octubre de 1997) Renta - Actual…
+Ley de Impuesto a la Renta. Art�culos 14� y 58�. Tributaci�n que afecta a las empresas constituidas como sociedades an�nimas o sociedades de personas. (Ord N� 2312, de 03 de Octubre de 1997)
 
 ## Referencias detectadas
 

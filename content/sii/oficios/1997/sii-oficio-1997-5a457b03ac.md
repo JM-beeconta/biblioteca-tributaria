@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Of. No 1.045, del 15/05/97. I. Indirectos). C�digo Tributario - Actual Texto - Art. 64 - Dl No. 825, Art. 8, Letra M), Mayo 1997 Situaci�n tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Servicios del aporte de bienes f�sicos del activo inmovilizado y acciones de una sociedad an�nima a otras sociedades an�nimas de las cuales es accionista. (Of. No 878, del 24/04/97. I. Indirectos). Franquicias Tributarias Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art. 21�, Mayo 1997 Procede invocar e…
+Indirectos). Franquicias Tributarias Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art. 21�, Mayo 1997 Procede invocar el cr�dito por gastos de capacitaci�n incurridos por las Corporaciones Municipales de Desarrollo Social y/o Educacional y de Salud. (Of. No 847, del 18/04/97. I. Directos).
 
 ## Referencias detectadas
 

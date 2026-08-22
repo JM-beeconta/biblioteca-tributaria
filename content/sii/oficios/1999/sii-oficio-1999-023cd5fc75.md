@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/septiembre13.htm
 - Hash SHA-256: 42e85a5837f3fbc7f3cfc91f8e7147c1c1d9b4f4b039deda79113a39384c0e96
 
 ## Resumen
 
-Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2. (D.O. DE 31.07.59) - ART. 43�, N� 1 Y 52� de la Ley de la Renta. Septiembre 1999 Word Situaci�n Del Beneficio Tributario Por La Compra De Una Vivienda Nueva Acogida A D.F.L N� 2, La Cual Posteriormente Es Donada A Los Hijos O C�nyuge Del Adquirente. (Of. N� 3.817, Del 13.10.1999 - I. Directos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas…
+ctos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. DE 31.07.59) -Circular N� 46, de 1999. Septiembre 1999
 
 ## Referencias detectadas
 

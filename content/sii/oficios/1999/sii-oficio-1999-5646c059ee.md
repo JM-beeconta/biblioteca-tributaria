@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-03
+- Fecha: 1999-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre04.doc
 - Hash SHA-256: 7c853149a0a68eb3ed3581711715b53343684811e5da6a2313faac1a8084c818
 
 ## Resumen
 
-obre Impuesto a la - Art. 31�, N� 5 - Circulares N� 132, de 1975 y 61, de 1978. Octubre 1999 Word Vida �til de bienes que conforman el activo inmovilizado, para efectos de su depreciaci�n tributaria. (Oficio N� 4.032, de 03.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 5 - Circulares N� 132 (1975) y N� 21 (1991) - Manual p�rrafo 6(12)45.01 y suplemento 6(12)73, de 16.12.1965. Octubre 1999 Word A�os de vida �til de m�quina m�dica seg�n la clasificaci�n del S.I.I. y posibilidad de apl…
+Word A�os de vida �til de m�quina m�dica seg�n la clasificaci�n del S.I.I. y posibilidad de aplicar depreciaci�n acelerada. (Oficio N� 3.981, de 28.10.1999 - I. Directos).
 
 ## Referencias detectadas
 

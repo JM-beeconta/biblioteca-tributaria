@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-17
+- Fecha: 1998-09-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep07.doc
 - Hash SHA-256: f246e0596cbd94774b0e87ec7bb577aaea7876c1bf0aaffc7ea8beceb1ff11c5
 
 ## Resumen
 
-5, del 17.09.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 7 Word Donaciones en especies - Unico fin sea la realizaci�n de programas de instrucci�n b�sica o media gratuitas, t�cnica, profesional o universitaria - Pueden ser rebajadas como gastos... (Oficio N� 2.517, del 14.09.1998). Renta - Actual ley sobre impuesto a la - Art. 59� Word Intereses provenientes de la emisi�n de bonos en el extranjero - Reajustables de acuerdo a la evoluci�n del valor de la Unidad de Fomento - Desembolsos de amortizac…
+Word Intereses provenientes de la emisi�n de bonos en el extranjero - Reajustables de acuerdo a la evoluci�n del valor de la Unidad de Fomento - Desembolsos de amortizaciones e intereses... (Oficio N� 2.516, del 14.09.1998).
 
 ## Referencias detectadas
 

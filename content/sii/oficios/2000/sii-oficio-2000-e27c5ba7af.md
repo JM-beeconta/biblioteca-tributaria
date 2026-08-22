@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-22
+- Fecha: 2000-06-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio09.doc
 - Hash SHA-256: a97b9e74496dd32642b94f4d5e9c77eb18df22cafddf23aea35e66c0af778550
 
 ## Resumen
 
-e pagos a favor de un trabajador que es trasladado al extranjero efectuados por su empleador para los efectos de mantener su continuidad en el sistema previsional y de salud Chileno. (Of. N� 1.863, de 22/05/2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 41, N� 9, inciso 1�, 3� y siguientes. Word Persona natural que tiene participaci�n en diferentes sociedades de responsabilidad limitada y desea iniciar actividades como comerciante...(Of. N� 2.570, de 29.06.2000 - I: Directos) Renta - Actual Ley…
+Word Persona natural que tiene participaci�n en diferentes sociedades de responsabilidad limitada y desea iniciar actividades como comerciante...(Of. N� 2.570, de 29.06.2000 - I: Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-20
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo07.htm
 - Hash SHA-256: abc7e45f628de7025ff3a01898f53b8ae321485d9d275d534df3f06e72ed4a0c
 
 ## Resumen
 
-ont face='arial' size='2'> Renta - Actual Ley sobre Impuestos a la - Art. 17� N� 11, Art. 20 N� 4. Word Situaci�n Tributaria de los cobros realizados por Colegios por concepto de cuotas de Incorporaci�n, matr�culas y mensualidades. ( Of. N� 1.297, de 20.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra A) N� 1 - Circular N� 17 de 1993, Circular N� 60 de 1990 y N� 81 de 1998. Word Tributaci�n de los retiros cuando �stos exceden el registro FUT y parte de ellos han sido reinvertidos cu…
+Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra A) N� 1 - Circular N� 17 de 1993, Circular N� 60 de 1990 y N� 81 de 1998.
 
 ## Referencias detectadas
 

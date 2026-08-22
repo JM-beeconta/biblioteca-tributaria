@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. (Oficio N� 3.818, Del 13.10.1999 � I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. N� 17�, N� 8, letra B) Y Art. 3�. Septiembre 1999 Word Tributaci�n De La Venta De Acciones Adquiridas A Trav�s Del Canje De Adrs, Cuando Dicha Venta Es Efectuada En Una Fecha Anterior A Dicho Canje. (Oficio N� 3.708, Del 01.10.1999-I. Directos). Ley de Impuesto a la Renta. Art�culos N�s 43 Y 52. Procedencia del beneficio tributario contenido en la Ley N� 19.622, de 1999, respecto de los mutuos hipotecarios otorgados po…
+ctos). Ley de Impuesto a la Renta. Art�culos N�s 43 Y 52. Procedencia del beneficio tributario contenido en la Ley N� 19.622, de 1999, respecto de los mutuos hipotecarios otorgados por la Mutualidad de Carabineros. (Oficio N� 3536, de 22 Septiembre 1999)
 
 ## Referencias detectadas
 

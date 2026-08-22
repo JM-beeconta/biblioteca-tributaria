@@ -11,7 +11,7 @@
 
 ## Resumen
 
-- Impuesto de Primera Categor�a pagado sobre dichas utilidades se considera pago provisional... (Oficio N� 2.269, del 26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 12. Word Deducci�n de la renta bruta de gastos necesarios - Pagos efectuados al exterior por los conceptos indicados en el inciso primero del Art. 59�... (Oficio N� 2.268, del 26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 21�. Word Pr�stamos que efect�an las sociedades an�nimas cerradas a sus accionistas, personas natu…
+26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 21�.
 
 ## Referencias detectadas
 

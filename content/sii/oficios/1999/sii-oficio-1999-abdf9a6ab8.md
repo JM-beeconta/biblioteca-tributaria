@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-05
+- Fecha: 1999-05-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may16.htm
 - Hash SHA-256: fe9e6489f4d6151771da9f194e8c41185cdc1bb2cf0afa686bba914ceb65b9e0
 
 ## Resumen
 
-perciban en raz�n de su actividad docente propiamente tal...(Oficio N� 1.849, del 05.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999 Word Servicios prestados a terceros por empresas concesionarias de terminales de pasajeros de aeropuertos � Regidas por normas generales del D.L. 825 � Situaci�n del arrendamiento...Oficio N� 1.814, del 04.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999 Word Contrato general de construcci�n � Obras a ejecut…
+l 04.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999
 
 ## Referencias detectadas
 

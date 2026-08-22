@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-03-18
+- Fecha: 1999-03-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/mar01.doc
 - Hash SHA-256: ac682e42cf5a0f1ec1246c2b132393854a1e48606d6279d848f049945f1a3e0d
 
 ## Resumen
 
-face="arial" size="2"> Renta - Actual ley sobre impuesto a la Art. 17�, N� 3 Abril 1999 Word Indemnizaciones por a�os de servicio � Contribuyente legalmente obligado a pagar por haber adquirido calidad de empleador en una relaci�n laboral preexistente � Derecho a deducirla como gasto... (Oficio N� 684, del 18.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 1, N� 2, 20�, N� 5 Y 41� a Marzo 1999 Word Sociedad an�nima cerrada con domicilio en Chile � Contrato de coinversi�n para constituir sociedad en el ext…
+Word Sociedad an�nima cerrada con domicilio en Chile � Contrato de coinversi�n para constituir sociedad en el extranjero � Aporte, transferencia de tecnolog�a y asesor�a... (Oficio N� 564, del 10.03.1999).
 
 ## Referencias detectadas
 

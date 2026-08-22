@@ -11,7 +11,7 @@
 
 ## Resumen
 
-�, No. 17 Situaci�n tributaria de las pensiones o jubilaciones o jubilaciones de fuente extranjera. (Of. No 1.556, del 15/07/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Arts. 14� y 31� Valor de adquisici�n de acciones que forman parte del activo de una sociedad an�nima que se disuelve. (Of. No 1.483, del 08/07/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 20�, No. 1,Letra B) Requisitos que deben cumplirse para volver al r�gimen de renta presunta en el caso de contribuyentes agricul…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 20�, No. 1,Letra B) Requisitos que deben cumplirse para volver al r�gimen de renta presunta en el caso de contribuyentes agricultores y normas de relaci�n. (Of. No 1.481, del 08/07/97. I. Directos).
 
 ## Referencias detectadas
 

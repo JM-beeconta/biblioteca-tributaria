@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-16
+- Fecha: 2000-02-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/febrero09.doc
 - Hash SHA-256: 6ad35dca08e21a54f5e98fbcc6a5ed48e700e0b623fec6bc3df05fa5c27eb99d
 
 ## Resumen
 
-0.htm'>Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� - Art. 20�, N� 3 y 4 de la Ley de la Renta. Word Consulta si las sumas pagadas por Isapre Vida Tres S.A. a Vida Integra S.A. por la administraci�n de planes...(Of. N� 554, de 16.02.2000 � I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� Letra e), Art. 16�, Letra c) - Art�culo 1996 del C�digo Civil Febrero 2000. Word Consulta si los gastos realizados por el constructor de un inmueble, por cuenta de su mandante en un…
+Word Consulta si los gastos realizados por el constructor de un inmueble, por cuenta de su mandante en un...(Of. N� 663, del 29.02.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

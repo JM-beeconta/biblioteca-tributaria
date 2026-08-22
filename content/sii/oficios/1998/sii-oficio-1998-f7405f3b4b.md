@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y servicios - Nuevo texto impuesto a las - Arts. 9� Y 23�. Agosto 1998 Word Anticipo a proveedores de bienes corporales muebles - No existe obligaci�n de facturar los anticipos de dinero - En caso que se emita la factura antes de la entrega de los bienes, se produce... (Oficio N� 1.936, del 23.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts.. 2� , N� 1 y 23� , N� 1 Agosto 1998 Word Empresa constructora e inmobiliaria - Venta inmueble construido parcialmente por ella - Inmuebles construidos…
+Word Empresa constructora e inmobiliaria - Venta inmueble construido parcialmente por ella - Inmuebles construidos por administraci�n, quien encarga la obra inviste tambi�n la calidad... (Oficio N� 1.935, del 23.07.1998).
 
 ## Referencias detectadas
 

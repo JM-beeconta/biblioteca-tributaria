@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-17
+- Fecha: 1998-02-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar05.htm
 - Hash SHA-256: e179a74236e3f5e7b2e9f8c4412136e7ff99eee3c5414169c8b0b371119a5238
 
 ## Resumen
 
-Circular N� 158, de 1976 - Tributaci�n aplicable - Utilidad por venta de monedas extranjeras... (Oficio N� 551, del 17.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a) Word Corredores de Bolsa - Contrato de Administraci�n de Cartera - Determinaci�n costo de venta de acciones compradas y vendidas por corredora... (Oficio N� 539, del 13.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 13 Word Indemnizaciones por a�os de servicios - Tratamiento tributario - Instrucciones Circ…
+13.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 13
 
 ## Referencias detectadas
 

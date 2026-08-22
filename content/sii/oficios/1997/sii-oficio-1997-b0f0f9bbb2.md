@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de las primas de seguros de vida totales contratadas por una empresa en su favor y tomados a nombre de sus trabajadores. (Of. No 1.686, del 25/07/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Arts. 17�, No. 8 y 18� Tributaci�n que afecta a enajenaci�n de bien ra�z adquirido por donaci�n. (Of. No 1.578, del 17/07/97. I. Directos). Renta - Actual Ley Sobre Impuesto A La - Art. 74�, No. 2 Contribuyente obligado a practicar la retenci�n del Art. 74�, no 2, de la ley de la renta, en caso que se indica. (Of…
+rectos). Renta - Actual Ley Sobre Impuesto A La - Art. 74�, No. 2 Contribuyente obligado a practicar la retenci�n del Art. 74�, no 2, de la ley de la renta, en caso que se indica. (Of. No 1.564, del 15/07/97. I. Indirectos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.2000) Word Procedimiento de c�lculo de los intereses provenientes de dep�sitos en d�lares. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�3 - Ley N� 18.657 de 1987, Art. 15� � Decreto Ley N� 600 de 1974. (Ord. N� 1.259, de 17.04.2000) Word Tributaci�n que afecta a los excedentes producidos en liquidaci�n de fondo de inversi�n de capital extranjero acogido a la Ley N� 18.657, de 1987. Renta - Actual Ley Sobre Impuesto a la -� Art. 57� bis � Oficio N� 1.354, de 1997. (Ord. N� 1139, de 10.04.2000) Word Persona…
+Word Tributaci�n que afecta a los excedentes producidos en liquidaci�n de fondo de inversi�n de capital extranjero acogido a la Ley N� 18.657, de 1987.
 
 ## Referencias detectadas
 

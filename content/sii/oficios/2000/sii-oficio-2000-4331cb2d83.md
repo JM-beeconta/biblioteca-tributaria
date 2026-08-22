@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-28
+- Fecha: 2000-12-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4841.doc
 - Hash SHA-256: b142e90f569d2c28a8b8ad9cfa9d82bc778d7eddac04bba26d73198398c3429f
 
 ## Resumen
 
-l Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 4935 de 28.12.2000) Word Aplicaci�n del art�culo 21�, del D.L. N� 910, de 1975, al contrato celebrado para la edificaci�n de departamentos, construidos como parte de un proyecto de remodelaci�n de un edificio existente. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 27� bis, Art. 23�. (Ord. N� 4841, de 18.12.2000) Word Solicita pronunciamiento sobre solicitud de devoluci�n seg�n lo establecido en el art�culo 27…
+Word Solicita pronunciamiento sobre solicitud de devoluci�n seg�n lo establecido en el art�culo 27 bis, del D.L. N� 825 y, posibilidad de solicitar certificado a Tesorer�a para imputar dicho remanente a otros impuestos que se adeuden.
 
 ## Referencias detectadas
 

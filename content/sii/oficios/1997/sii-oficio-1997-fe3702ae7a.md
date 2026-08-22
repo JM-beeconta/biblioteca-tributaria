@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-08-05
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/sep03.htm
 - Hash SHA-256: 2562cbeb4a212ae147a13fac2405399de0ebcb452edcf26e1a4fc79873acdbfc
 
 ## Resumen
 
-ncontrarse �stos en litigio. (Of. No 1.754, del 05/08/97. I. Directos). Ley de Impuesto a la Renta. Art�culo 54. Ordinario N� 1752, de 05 de Agosto de 1997.- Efectos tributarios del incremento por concepto de Impuesto de Primera Categor�a. (Of. N�1752, de 05 de agosto de 1997. I. Directos) Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra A) y 18� Tributaci�n que afecta a la enajenaci�n de bien ra�z agr�cola, perteneciente a una sociedad que tributa sobre la base de un contrato de arrendamiento y sob…
+Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra A) y 18� Tributaci�n que afecta a la enajenaci�n de bien ra�z agr�cola, perteneciente a una sociedad que tributa sobre la base de un contrato de arrendamiento y sobre renta presunta, (Of. No 1.751, del 05/08/97. I. Directos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-das a un estudiante en pr�ctica. (Of. N� 163, del 27/01/97. I. directos). Renta - Actual Ley Sobre Impuesto a La - Art. 21, Inciso Final y 41, Febrero 1997 Acerca de la situaci�n tributaria aplicable a la enajenaci�n de derechos sociales. (Of. No 123, del 21/01/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La- Art. 20, No. 3 Y 58 No. 1., Tratamiento tributario en relaci�n a los Impuestos de la Ley de Renta que afecta a las agencias de viajes. (Of. No 68, del 14/01/97. I. Directos).
+rectos). Renta - Actual Ley Sobre Impuesto a La- Art. 20, No. 3 Y 58 No. 1., Tratamiento tributario en relaci�n a los Impuestos de la Ley de Renta que afecta a las agencias de viajes. (Of. No 68, del 14/01/97. I. Directos).
 
 ## Referencias detectadas
 

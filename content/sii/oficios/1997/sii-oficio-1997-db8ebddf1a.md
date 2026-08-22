@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de los beneficios tributarios del Art. 57� bis, en el caso de acciones en custodia. (Of. No 1.354, del 24/06/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 13 Requisitos que se deben cumplir para que beneficios otorgados por los departamentos de Bienestar de empresas privadas no constituyan renta. (Of. No 1.289, del 17/06/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 29� Oportunidad en que debe ser reconocido tributariamente el anticipo del valor de la opci�n de compra p…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 29� Oportunidad en que debe ser reconocido tributariamente el anticipo del valor de la opci�n de compra pactado en un contrato de Leasing. (Of. No 1.288, del 24/06/97. I. Directos).
 
 ## Referencias detectadas
 

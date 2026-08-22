@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-23
+- Fecha: 2000-06-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2406.htm
 - Hash SHA-256: 0f8d2e108e0c1c47b1060e4706f9a1f50b3b131e890a33aa348929bb2242efef
 
 ## Resumen
 
-Aplicaci�n de impuesto a la venta de monedas de oro de curso legal de la Casa Real de pa�s extranjero Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 3�- Ley N� 19.633, 1999. (Ord. N� 2438, de 23.06.2000) Word Consideraciones acerca de la Ley N� 19.633. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Art. 3�, Art. 64�. (Ord. N� 2406, de 21.06.2000). Word Aplicaci�n de la Ley N� 18.320, a los agentes retenedores de IVA que no han declarado las retenc…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Art. 3�, Art. 64�. (Ord. N� 2406, de 21.06.2000).
 
 ## Referencias detectadas
 

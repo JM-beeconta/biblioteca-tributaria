@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-10-07
+- Fecha: 1998-10-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/oct11.doc
 - Hash SHA-256: f8c67cde46fbb8fc365a924d17d33f5bba26b69d5a655ce52a3be6ea2effb90c
 
 ## Resumen
 
-Ventas y servicios - Nuevo texto impuesto a las - Arts. 2�, N� 2 Y 8� , Letra i) Octubre 1998 Word Servicio de control de estacionamiento en �rea central de una ciudad - Utilizaci�n de sistema de tarjetas de estacionamiento - Modalidades - Concepto de servicio - Concesi�n otorgada... (Oficio N� 2.700, del 07.10.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Octubre 1998 Word Servicios prestados por Universidades - Aplicaci�n en la actividad docente - Concepto de servicios - An�lisis de suel…
+Word Servicios prestados por Universidades - Aplicaci�n en la actividad docente - Concepto de servicios - An�lisis de suelo, de soluciones acuosas, ex�menes de hematolog�a, bioqu�mica, encimolog�a... (Oficio N� 2.653, del 02.10.1998).
 
 ## Referencias detectadas
 

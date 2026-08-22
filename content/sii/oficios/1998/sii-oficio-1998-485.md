@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 485
 - Año: 1998
-- Fecha: 1998-11-10
+- Fecha: 1998-11-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov06.doc
 - Hash SHA-256: 7ef4f0b281c93e59723b0aa3cf7977cb8083442a97593f827a013a42e31fb01d
 
 ## Resumen
 
-l 10.11.1998) Renta - Actual ley sobre impuesto a la - Art. 14�, Letra A), N� 3 Word Contribuyentes de Primera Categor�a que declaran renta efectiva mediante contabilidad completa - Obligaci�n de llevar registro FUT - Empresa que obtiene en su gesti�n rentas... (Oficio N� 2.985, del 05.11.1998). Renta - Actual ley sobre impuesto a la - Art. 20�, N�5 Word Cesi�n del derecho de usufructo sobre un inmueble - Tributaci�n aplicable, oficio N� 485, de 1997 - Expresi�n "bienes ra�ces" se refiere a la generalidad de los b…
+Word Cesi�n del derecho de usufructo sobre un inmueble - Tributaci�n aplicable, oficio N� 485, de 1997 - Expresi�n "bienes ra�ces" se refiere a la generalidad de los bienes ra�ces... (Oficio N� 2.972, del 04.11.1998).
 
 ## Referencias detectadas
 

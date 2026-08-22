@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio02.htm
 - Hash SHA-256: fde32d74a8a08227ccfa61fc89c43ab368964b782a5ac59902401c7e51ab5712
 
 ## Resumen
 
-Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra b), Art. 18�. Word Situaci�n tributaria de la enajenaci�n de predio agr�cola en etapas sucesivas con compromisos parciales de compraventa. (Of. N� 2.568, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 1, inciso 2� - Art. 19�, N� 24, inciso 3� Constituci�n Pol�tica del Estado - Art. 38� Ley Org�nica de Procedimiento de Expropiaciones, aprobada por D.L. N� 2.186, de 1978. Word Tributaci�n que afecta a la indemnizaci�n…
+Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 1, inciso 2� - Art. 19�, N� 24, inciso 3� Constituci�n Pol�tica del Estado - Art. 38� Ley Org�nica de Procedimiento de Expropiaciones, aprobada por D.L. N� 2.186, de 1978.
 
 ## Referencias detectadas
 

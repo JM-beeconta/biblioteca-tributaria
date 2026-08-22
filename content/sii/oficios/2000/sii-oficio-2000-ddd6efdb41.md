@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-04
+- Fecha: 2000-11-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4621.doc
 - Hash SHA-256: b6dd70364b0256557f70160f63e0dad48479d1a8e9b21458fd71fb4333b185bc
 
 ## Resumen
 
-1�. (Ord. N�4693, de 04.12.2000) Word Determinaci�n del costo tributario de la enajenaci�n de pr�stamo efectuado a una sociedad de personas. Renta � Actual Ley Sobre Impuesto a la � Art. 22� - D.L. N� 825, Art 29�. (Ord. N� 4621, de 29.11.2000) Word Tributaci�n de los comerciantes de ferias libres, frente a las normas de la Ley de la Renta e Impuesto al Valor Agregado. Renta � Actual Ley Sobre Impuesto a la � Art. 46� - Ley N� 19.542 - Oficio N� 1.140, de 2000. (Ord. N� 4611, de 29.11.2000) Word Procedencia de dev…
+Word Tributaci�n de los comerciantes de ferias libres, frente a las normas de la Ley de la Renta e Impuesto al Valor Agregado.
 
 ## Referencias detectadas
 

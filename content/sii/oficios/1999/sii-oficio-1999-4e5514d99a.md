@@ -11,7 +11,7 @@
 
 ## Resumen
 
-re03.htm">Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, Letra a). Diciembre 1999 Word Permuta de acciones - Divisi�n de sociedad - Operaci�n motivo de la cual se constituir�a una nueva sociedad - Patrimonio se distribuir�a por partes iguales entre ambas sociedades. (Oficio N� 4.360, del 01.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Circular N� 158, de 1976. Diciembre 1999 Word Divisi�n de sociedad an�nima - Constituyendo en el acto de divisi�n una nueva sociedad - Venta de accio…
+Word Divisi�n de sociedad an�nima - Constituyendo en el acto de divisi�n una nueva sociedad - Venta de acciones a un tercero una vez efectuada la divisi�n - Tratamiento tributario del mayor valor obtenido. (Oficio N� 4.359, del 01.12.1999)
 
 ## Referencias detectadas
 

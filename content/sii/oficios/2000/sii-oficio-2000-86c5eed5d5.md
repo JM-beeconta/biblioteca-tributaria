@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-02
+- Fecha: 2000-07-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/agosto05.doc
 - Hash SHA-256: 4a75a77e5cc324f7abdeaaa8c88d55f6bd7a6862ef0d6e78d6b13f232bf235ef
 
 ## Resumen
 
-vicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 3, Art. 8� letra m), Art. 23�- Art. 39 inciso 1� del Reglamento del D. L. N� 825. Word Solicita se reconozca derecho a utilizar el cr�dito fiscal de IVA al adquirente, al no haberlo utilizado la vendedora. (Of. N� 3.021, de 02.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�- Art. 20� N� 5 Ley de la Renta. Word IVA que afectar�a a una asesor�a t�cnica consistente en la preparaci�n de probetas de Pino radiat…
+Word IVA que afectar�a a una asesor�a t�cnica consistente en la preparaci�n de probetas de Pino radiata, para su utilizaci�n en ensayos... (Of. N� 2.885, de 20.07.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

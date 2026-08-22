@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-03-06
+- Fecha: 1998-02-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar07.doc
 - Hash SHA-256: 5799cd59cceab2832e36e803606689e8c591bd1f90d5a58ca7f3ab70891a8b41
 
 ## Resumen
 
-uesto a la Renta. Art�culos 17�, 18�, 20� y 39� Complementa dictamen sobre bienes ra�ces no agr�colas cuya renta de explotaci�n es igual o inferior al 11% del aval�o fiscal. (Oficio N� 639, de 06 de Marzo de 1998) Renta - Actual ley sobre impuesto a la - Art. 31� Word Pensi�n alimenticia - Improcedencia de deducir para determinar base imponible - No se enmarcan dentro del concepto de gasto necesario para producir la renta. (Oficio N� 564, del 20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 41� BIS Y 101…
+Word Pensi�n alimenticia - Improcedencia de deducir para determinar base imponible - No se enmarcan dentro del concepto de gasto necesario para producir la renta. (Oficio N� 564, del 20.02.1998).
 
 ## Referencias detectadas
 

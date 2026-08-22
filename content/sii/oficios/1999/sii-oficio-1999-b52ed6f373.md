@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/septiembre14.htm
 - Hash SHA-256: 19e94e50819638ab501a9f6d3e8b0205b36c529b039a1a25def385035565637b
 
 ## Resumen
 
-Timbres y estampillas - Nuevo texto Ley sobre Impuesto de - Arts. 4�, 11�, 23� N� 3, del Decreto Ley N� 3.475, de 1980. Septiembre 1999 Word Impuesto De Timbres Y Estampillas Que Afecta A Los Actos De Protesto De Letras De Cambio Y Pagar�s A La Orden, Aceptados A Favor De Una Universidad Del Estado O Reconocida Por �ste. (Of. N� 3.819, Del 13.10.1999 - I. Indirectos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2. (D.O. DE 31.07.59) - ART. 43…
+ctos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2. (D.O. DE 31.07.59) - ART. 43�, N� 1 Y 52� de la Ley de la Renta. Septiembre 1999
 
 ## Referencias detectadas
 

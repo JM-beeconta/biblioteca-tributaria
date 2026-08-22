@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-29
+- Fecha: 2000-03-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/696_2000.pdf
 - Hash SHA-256: 0d5c01357ea3c46bc80adb6c86ae3315eddaf71c328a766b165233f575f930c0
 
 ## Resumen
 
-Renta - Actual Ley sobre Impueto a la - Art. 17�, N� 8, Art. 64� del C�digo Tributario. Word Solicita se confirme que el aporte en dominio de acciones de una Sociedad An�nima es suceptible... (Oficio N� 676, del 29.02.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Art. 18�. Word Situaci�n Tributaria de la enajenaci�n de acciones efectuado al cr�dito cuya obligaci�n de pago se cumple...(Oficio N� 696, del 01.03.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N�…
+Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Art. 18�.
 
 ## Referencias detectadas
 

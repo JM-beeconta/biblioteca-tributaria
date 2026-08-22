@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-10
+- Fecha: 1998-09-03
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/sep09.doc
 - Hash SHA-256: 278d97ffe0911d3afcd0140ed9f57c42f386d31aff5c7e8203da5da1efc98b55
 
 ## Resumen
 
-citaci�n y empleo - Estatuto de - Art. 36�. Septiembre 1998 Word Objetivo del sistema de capacitaci�n y empleo - Capacitaci�n de trabajadores de empresas - Alcance del t�rmino trabajador - Beneficiarios del cr�dito - Sistema dirigido a los entes privados que sean contribuyentes del impuesto. (Oficio N� 2.501, del 10.09.1998) Franquicias tributarias - Capacitaci�n y empleo - Estatuto y empleo de - Art. 36�. Septiembre 1998 Word Corporaciones - Programas de capacitaci�n ocupacional de sus trabajadores - Ley N� 19.51…
+Word Corporaciones - Programas de capacitaci�n ocupacional de sus trabajadores - Ley N� 19.518, nuevo Estatuto de Capacitaci�n y Empleo - Art. 36� , mantiene sin variaciones el beneficio... (Oficio N� 2.339, del 03.09.1998).
 
 ## Referencias detectadas
 

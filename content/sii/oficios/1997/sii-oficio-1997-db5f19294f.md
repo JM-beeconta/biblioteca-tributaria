@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Aplicaci�n del Impuesto a las Ventas Y Servicios en emisi�n y comercializaci�n de Tarjetas de descuento. (Of. No 1.843, del 19/08/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Agosto 1997 Estudios aerofotogram�tricos para la confecci�n de planos topogr�ficos o fotogram�tricos no constituyen hechos gravados con el IVA: (Of. No 1.740, del 01/08/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 23�, Agosto 1997 Uso del remanente acumulado de cr�dito fis…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 23�, Agosto 1997 Uso del remanente acumulado de cr�dito fiscal del IVA por contribuyente que cambia de giro. (Of. No 1.739, del 01/08/97. I. Indirectos).
 
 ## Referencias detectadas
 

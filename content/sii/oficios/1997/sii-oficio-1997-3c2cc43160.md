@@ -11,7 +11,7 @@
 
 ## Resumen
 
-buta sobre la base de un contrato de arrendamiento y sobre renta presunta, (Of. No 1.751, del 05/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Arts. 17�, No. 8, Letra A) y 17�, No. 13 Situaci�n tributaria de la venta de acciones adquiridas con fondos de indemnizaci�n, de desahucio o retiro. (Of. No 1.722, del 30/07/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Arts. 21� y 31� Situaci�n tributaria de las primas de seguros de vida totales contratadas por una empresa en su favor y tomados…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Arts. 21� y 31� Situaci�n tributaria de las primas de seguros de vida totales contratadas por una empresa en su favor y tomados a nombre de sus trabajadores. (Of. No 1.686, del 25/07/97. I. Directos).
 
 ## Referencias detectadas
 

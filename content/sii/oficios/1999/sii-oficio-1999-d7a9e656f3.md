@@ -11,7 +11,7 @@
 
 ## Resumen
 
-las � Art. 13�, N�s 7 y 8 y 2�, N� 2 - art. 20� N� 3 del Decreto Ley N� 824 y Art. 3�, N� 7 del C�digo de Comercio. Agosto 1999 Word Aplicaci�n de exenci�n del art. 13� N� 7 a empresa externa por atenci�n de beneficiarios con derecho al sistema del salud p�blica (OF. N� 3.280, del 30.08.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 36� - Art. 18� de la Ordenanza de Aduanas. Agosto 1999 Word Reimportaci�n de mercanc�as por cuya venta al exterior el exportador ha recuperado el imp…
+Word Reimportaci�n de mercanc�as por cuya venta al exterior el exportador ha recuperado el impuesto IVA. (OF. N� 3.279, del 30.08.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

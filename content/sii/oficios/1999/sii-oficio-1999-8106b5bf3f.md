@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-03
+- Fecha: 1999-04-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may08.doc
 - Hash SHA-256: 79209193ef3c0dda4bfcddf9272c8f6a7dcd2c395ce21206d6d0d1b6a34d1e6a
 
 ## Resumen
 
-="renta/may02.htm">Renta - Actual ley sobre impuesto a la - Arts. 14�, Letra A, N� 1, Letra c) Y 41�. Mayo 1999 Word Enajenaci�n de derechos en sociedades de personas � Mayor valor � Instrucciones Circular N� 60, de 1990 � Concepto de reinversi�n � Extensivo al mayor valor obtenido en la enajenaci�n... (Oficio N� 1.801, del 03.05.1999). Renta - Actual ley sobre impuesto a la - Arts. 20�, N� 5, 31�, N� 5 Y 60� Mayo 1999 Word Regal�a consistente en percibir un porcentaje del producto neto de fundici�n de metales � E…
+Word Regal�a consistente en percibir un porcentaje del producto neto de fundici�n de metales � Enajenaci�n � Adquisici�n desde el extranjero � Renta proveniente de la propiedad de la regal�a... (Oficio N� 1.773, del 29.04.1999).
 
 ## Referencias detectadas
 

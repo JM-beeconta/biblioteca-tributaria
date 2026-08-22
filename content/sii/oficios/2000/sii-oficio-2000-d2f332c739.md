@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-01
+- Fecha: 2000-11-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4620.htm
 - Hash SHA-256: 6e0338c7853d27fbc1fab3b0730f76c17587347ebf60359c5df75c3ec34da4c4
 
 ## Resumen
 
-e devoluci�n de IVA solicitada en caso de recargo y pago indebido. Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� - Ley de la Renta, Art. 3�. (Ord. N� 4659, de 01.12.2000) Word Aplicaci�n de IVA a honorarios de cobranza en procedimiento de cobro a deudores. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 19.288, de 1994, Art. 5�, Art. 6� - D.F.L. N�2, de 1997, Art. 2�, N�2. (Ord. N� 4620, de 29.11.2000) Word Solicita se confirme exenci�n de i…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Ley N� 19.288, de 1994, Art. 5�, Art. 6� - D.F.L. N�2, de 1997, Art. 2�, N�2. (Ord. N� 4620, de 29.11.2000)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-12-09
+- Fecha: 1998-11-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov23.doc
 - Hash SHA-256: 2dd14ac5020757a2454f25f9506293c3df71d9f5978f52d842d207d97fee5c8a
 
 ## Resumen
 
-Renta - Actual ley sobre impuesto a la - Art. 56� Word Cr�dito por impuesto de primera categor�a � C�digo 625 del recuadro N� 8, del formulario 22, AT 1998 � Remanente del cr�dito que qued� pendiente... (Oficio N� 3.364, de 09.12.1998). Ley sobre Impuesto a la Renta � Arts. 14 y 39 N� 4 LIR, Word Efectos tributarios del retiro de un bien ra�z por parte del socio de una sociedad agr�cola, (Oficio N� 3182, de 23.11.1998). Renta - Actual ley sobre impuesto a la . Art. 17�, N� 15 Word Aceptaci�n como gasto de los dese…
+Word Efectos tributarios del retiro de un bien ra�z por parte del socio de una sociedad agr�cola, (Oficio N� 3182, de 23.11.1998).
 
 ## Referencias detectadas
 

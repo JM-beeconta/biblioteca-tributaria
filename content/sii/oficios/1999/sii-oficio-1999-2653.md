@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> IVA en venta de suministros efectuados a la European Southern Observatory (E.S.O).(Of. N� 3.113, del 11.08.1999 � I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las - Art. 12�, Letra B, N� 10., Julio 1999 Word Exenci�n de IVA en la importaci�n de automotores de pasajeros como inversi�n en bienes de capital. (Of. N� 3.055, del 04.08.1999 � I. Indirectos). Ventas y Servicios - Art�culo 24�. Ordinario N� 2653, de 23 de Junio de 1999 .- Recaudaci�n por las Municipalidades del Impuesto a la Renta de…
+Indirectos). Ventas y Servicios -
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Noviembre 1999 Word Cambio de sujeto de los impuestos que afectan a la venta de oro, hecha por un pirquinero a un contribuyente de la primera categor�a del tributo a la renta que declara su renta efectiva seg�n contabilidad completa. (Of. N� 4.304, del 26.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 46� - Ley N� 19.633, del Ministerio de Hacienda. (D.O. 11.09.99). Noviembre 1999 Word Incidencia de la Ley N� 19.633, en la posterior enajenaci�n de un veh�culo importado al am…
+Word Incidencia de la Ley N� 19.633, en la posterior enajenaci�n de un veh�culo importado al amparo de la partida 0004, del Arancel Aduanero. (Of. N� 4.268, de 25.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

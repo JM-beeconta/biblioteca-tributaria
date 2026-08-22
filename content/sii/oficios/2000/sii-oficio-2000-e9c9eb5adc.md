@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-28
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo19.htm
 - Hash SHA-256: bcb08ac4fefe81a4e98b83569c5aa298c47221926c2a10aa0127334c9a9e9055
 
 ## Resumen
 
-de 1959. (Of. N� 1.411, de 28.04.2000 - I. Directos ) Ley N� 19.578 - Art. 3� Transitorio - Art. 31� N� 5 - Art. 41� N� 2 de la Ley de la Renta - Circular N� 49, de 1998. Word Alcance que debe darse al concepto de " valor neto " para efectos de aplicar el Art�culo 3� Transitorio de la Ley N� 19.578, de 1998. (Of. N� 1.393 de 28.04.2000 - I. Directos ). Ley N� 18.401, Art. 11� ( D.O. 26.01.85 ) sobre Capitalismo Popular - Ley N� 19.396 ( 29.07.95 ). Word Tratamiento Tributario de los dividendos distribuidos por emp…
+Directos ). Ley N� 18.401, Art. 11� ( D.O. 26.01.85 ) sobre Capitalismo Popular - Ley N� 19.396 ( 29.07.95 ).
 
 ## Referencias detectadas
 

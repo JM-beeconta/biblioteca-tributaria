@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-04
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre08.htm
 - Hash SHA-256: 9fba39578320de287b2ce21ac499e7653054df0da494ee9350530ed3e7b08d5c
 
 ## Resumen
 
-/font> Ventas y Servicios - Nuevo texto Ley Impuesto a las - Art. 27� bis - Decreto Supremo de Hacienda N� 1.139, de 1990 (D.O. 05.01.91), Circular N� 22, de 1991, Circular N� 63, de 1990. Septiembre 1999 Word Clasificaci�n En El Activo Fijo De Ganado Reproductor Y De Plantaci�n De Hierba Forrajera Adquiridos Por Un Agricultor. (Of. N� 3.735, Del 04.10.1999, I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 8�, letra G) Decreto Ley N� 825 - Art. 589 C�digo Civil - Arts. N�S 44� Y 45�, Ley…
+ctos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 8�, letra G) Decreto Ley N� 825 - Art. 589 C�digo Civil - Arts. N�S 44� Y 45�, Ley General de Pesca y Acuicultura N� 18.892, de 1989. Septiembre 1999
 
 ## Referencias detectadas
 

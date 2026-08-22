@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-12
+- Fecha: 1998-11-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/dic01.htm
 - Hash SHA-256: c1f3313e9eeb3a818420a5c11bb5d4e45ff6cbc224e0eea19ccbc3e65ff8b877
 
 ## Resumen
 
-� Transferencia a las respectivas empresas sanitarias filiales de... (Oficio N� 3.129, de 12.11.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, Letra A) Word Inversi�n en instrumentos o valores de ahorro � Cr�dito imputable al Impuesto Unico de segunda categor�a o al Impuesto Global Complementario � Cuotas de fondos mutuos... (Oficio N� 3.113 de 13.11.1998) Renta - Actual ley sobre impuesto a la - Art. - 14�, Letra A, N� 1, Letra C Word Divisi�n de sociedades � Ley N� 18.046, sobre sociedades an�nima…
+13.11.1998) Renta - Actual ley sobre impuesto a la - Art. - 14�, Letra A, N� 1, Letra C
 
 ## Referencias detectadas
 

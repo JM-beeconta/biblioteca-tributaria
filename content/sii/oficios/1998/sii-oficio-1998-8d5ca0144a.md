@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-05-08
+- Fecha: 1998-04-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/abr08.htm
 - Hash SHA-256: 646814548c2af36bdb095768de0b7082ac33e5c59e87f4053940b0f5d839875d
 
 ## Resumen
 
-iante sistema leasing - Ejercicio de opci�n de compra para su enajenaci�n posterior - C�mputo del plazo... (Oficio N� 1232, del 08.05.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 24� Mayo 1998 Word Declaraciones rectificatorias de Impuesto al Valor Agregado - Objetivo obtener la devoluci�n de impuesto pagado indebidamente - Causa, no haber hecho uso de un cr�dito fiscal... (Oficio N� 1164, del 30.04.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Abril 1998 Word Servicios gr…
+del 30.04.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Abril 1998
 
 ## Referencias detectadas
 

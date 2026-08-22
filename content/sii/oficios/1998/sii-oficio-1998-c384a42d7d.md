@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ones de bienes ra�ces. (Oficio N� 3448, de 17 Diciembre de 1998). Renta - Actual ley sobre impuesto a la - Art. 56� Word Cr�dito por impuesto de primera categor�a � C�digo 625 del recuadro N� 8, del formulario 22, AT 1998 � Remanente del cr�dito que qued� pendiente... (Oficio N� 3.364, de 09.12.1998). Ley sobre Impuesto a la Renta � Arts. 14 y 39 N� 4 LIR, Word Efectos tributarios del retiro de un bien ra�z por parte del socio de una sociedad agr�cola, (Oficio N� 3182, de 23.11.1998). Renta - Actual ley sobre impu…
+09.12.1998). Ley sobre Impuesto a la Renta � Arts. 14 y 39 N� 4 LIR,
 
 ## Referencias detectadas
 

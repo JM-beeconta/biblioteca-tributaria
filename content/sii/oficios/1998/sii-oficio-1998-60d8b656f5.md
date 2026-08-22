@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-17
+- Fecha: 1998-02-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar05.doc
 - Hash SHA-256: 28df315a1168f24330f3a03a8fc20be3bfff603383a13e760d0dffe85ce0de6a
 
 ## Resumen
 
-... (Oficio N� 551, del 17.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 8, letra a) Word Corredores de Bolsa - Contrato de Administraci�n de Cartera - Determinaci�n costo de venta de acciones compradas y vendidas por corredora... (Oficio N� 539, del 13.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 13 Word Indemnizaciones por a�os de servicios - Tratamiento tributario - Instrucciones Circular N� 29, de 1991, publicada en Bolet�n del Servicio, mes de Mayo... (Oficio N� 537, del 1…
+Word Indemnizaciones por a�os de servicios - Tratamiento tributario - Instrucciones Circular N� 29, de 1991, publicada en Bolet�n del Servicio, mes de Mayo... (Oficio N� 537, del 13.02.1998)
 
 ## Referencias detectadas
 

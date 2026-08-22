@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-15
+- Fecha: 1998-08-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago10.doc
 - Hash SHA-256: 8f6a28b6f636d7dd50c787c94f0baca1fd4bbaeb4ba96d277f2d7018eb95fe43
 
 ## Resumen
 
-1998). Ventas y servicios - Nuevo texto impuesto a las Art. 8� , LETRA b Septiembre 1998 Word Divisi�n de sociedades an�nimas - Ley sociedades an�nimas - Distribuci�n del patrimonio entre s� y una o m�s sociedades an�nimas que se constituyen - No existe transferencia de bienes... (Oficio N� 2.528, del 15.09.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2. Agosto 1998 Word Servicios administrativos de apoyo a la contrataci�n de seguros - Criterio de aplicabilidad del IVA en Oro. N� 2.741, de…
+Word Servicios administrativos de apoyo a la contrataci�n de seguros - Criterio de aplicabilidad del IVA en Oro. N� 2.741, de 1997 - Bolet�n del Servicio de Impuestos Internos Diciembre 1997... (Oficio N� 2.077, del 05.08.1998).
 
 ## Referencias detectadas
 

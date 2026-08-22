@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-28
+- Fecha: 1999-10-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre03.doc
 - Hash SHA-256: d83d4a79fa220a5226dea915e91d9bced11c4f1209e09bc381aa89508d823dcc
 
 ## Resumen
 
-a la - Art. 14�, letra A), N� 1, letra c). Octubre 1999 Word Definici�n del concepto Patrimonio Neto, para determinar si est� asociado al Patrimonio Financiero o corresponde al Capital Propio Tributario, en el caso de divisi�n de sociedades. (Oficio N� 3.980, de 28.10.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N�s. 2 Y 5, Art. 40 N� 1 - Art. 20 del D.F.L. N� 211, de 1960. Octubre 1999 Word Tributaci�n que afecta a la Corporaci�n de Fomento de la Producci�n por las rentas obtenidas en l…
+Word Tributaci�n que afecta a la Corporaci�n de Fomento de la Producci�n por las rentas obtenidas en la enajenaci�n de acciones de sociedades an�nimas e intereses provenientes de pr�stamos y dep�sitos en el mercado de capitales. (Oficio N� 3.911, de 21.10.1999 - I. Directos).
 
 ## Referencias detectadas
 

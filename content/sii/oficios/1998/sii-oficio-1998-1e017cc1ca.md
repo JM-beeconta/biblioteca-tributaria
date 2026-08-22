@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-10-06
+- Fecha: 1998-09-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/oct04.doc
 - Hash SHA-256: b5eab8cce539f09d4218a3b6c2f70c71b202fdaa02a2e4df71bb484a5dcf3e9c
 
 ## Resumen
 
-n="JUSTIFY"> Renta - Actual ley sobre impuesto a la - Art. 17� , N� 7 C�digo tributario - Actual texto - Art. 64� Word Adjudicaci�n convencional de bienes - Partici�n de sociedad comercial de responsabilidad limitada - Devoluci�n de capitales sociales - Ingreso no constitutivo de renta... (Oficio N� 2.687, del 06.10.1998). Renta - Actual ley sobre impuesto a la - Art. 17� , N� 4 Word Asignaci�n de movilizaci�n - Tratamiento tributario - Circular N� 36, de 1988 - No constituye renta para sus beneficiarios si se con…
+Word Asignaci�n de movilizaci�n - Tratamiento tributario - Circular N� 36, de 1988 - No constituye renta para sus beneficiarios si se considera razonable a juicio del Director Regional respectivo... (Oficio N� 2.618, del 29.09.1998).
 
 ## Referencias detectadas
 

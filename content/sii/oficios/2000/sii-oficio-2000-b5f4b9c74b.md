@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-11-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta13.doc
 - Hash SHA-256: e0ce6c8e7092f12646be6aa0e4303a8fb1b0d92c97499e59fe11cbb7853b0e0f
 
 ## Resumen
 
-Emisi�n de Boletas Correspondiente a Honorarios Percibidos por Los Ejecutores de Los Proyectos a Nombre de la Secretar�a Regional Ministerial de Educaci�n. (Of. N� 4.604, de 29.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N� 2� Inc.4�, Art. 74� N� 4�, Art. 79�. Word Impuesto Adicional Que Grava a las Asesor�as T�cnicas. (Of. N� 4.587, de 23.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 59�. Situaci�n tributaria de reembolso de gastos efectuados por una filial a su…
+Word Impuesto Adicional Que Grava a las Asesor�as T�cnicas. (Of. N� 4.587, de 23.11.2000 � I. Directos)
 
 ## Referencias detectadas
 

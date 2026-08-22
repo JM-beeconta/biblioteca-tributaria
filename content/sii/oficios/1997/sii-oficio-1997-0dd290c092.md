@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sas muebles, no forman parte de la base imponible del IVA. (Of. No 1.720, del 30/07/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2, Agosto 1997 Aplicaci�n del impuesto a las ventas y servicios, en transferencia de dominio de bienes corporales muebles del giro de una sociedad an�nima que es absorbida por otra sociedad an�nima. (Of. No 1.637, del 22/27/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 24� - C�digo Tributario - Art. 126�, Julio 1997 Devol…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 24� - C�digo Tributario - Art. 126�, Julio 1997 Devoluci�n de remanente de cr�dito fiscal, en caso que existe incremento del cr�dito sin producirse un pago. (Of. No 1.500, del 09/07/97. I. Indirectos).
 
 ## Referencias detectadas
 

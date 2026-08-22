@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio08.htm
 - Hash SHA-256: 31222842848f6dc2e85411819f8edb6f13e08481f67cef7f0785ad767c3588d9
 
 ## Resumen
 
-'> Renta - Actual Ley sobre Impuesto a la - Art. 41, N� 9, inciso 1�, 3� y siguientes. Word Persona natural que tiene participaci�n en diferentes sociedades de responsabilidad limitada y desea iniciar actividades como comerciante...(Of. N� 2.570, de 29.06.2000 - I: Directos) Renta - Actual Ley sobre Impuesto a la - Art. 31� - Circular N� 39, del 2000 - Resoluci�n Ex. N� 6.080, de 1999. Word Situaci�n tributaria de aportes empresariales entregados a Proyectos de Fomento, patrocinados por la Corporaci�n de Fomento d…
+Renta - Actual Ley sobre Impuesto a la - Art. 31� - Circular N� 39, del 2000 - Resoluci�n Ex. N� 6.080, de 1999.
 
 ## Referencias detectadas
 

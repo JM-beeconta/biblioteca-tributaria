@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-03
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/agosto10.htm
 - Hash SHA-256: 8826d4adcbeb292988245dfc706c9182ead78d38a88bba42ebf6ed5db876078c
 
 ## Resumen
 
-3.09.1999 - I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � art. 2� N�s 1 y 3. Agosto 1999 Word Aplicaci�n del tributo en venta de la opci�n por parte del due�o de un veh�culo de alquiler, inscrito en registro municipal de taxis colectivos para reemplazarlo por uno de fabricaci�n m�s reciente.(OF. N� 3.332, del 02.09.1999 � I. Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 8�, letra g). Agosto 1999 Word Tributaci�n que afecta al arrendamiento de un inmueble especialme…
+Indirectos). Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 8�, letra g). Agosto 1999
 
 ## Referencias detectadas
 

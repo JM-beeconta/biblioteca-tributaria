@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre04.htm
 - Hash SHA-256: fe7408e3f5563c49dfafb44a5d2bff50da2abe0af16c277b92d18405b709f982
 
 ## Resumen
 
-p align="JUSTIFY"> Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 20�, N� 3 Y 4 D.L. N� 824 -Art. 107� Constituci�n Pol�tica del Estado. Septiembre 1999 Word IVA Que Afecta A La Venta De Bienes Y A La Prestaci�n De Servicios Efectuados A Distintas Municipalidades Por Un Organismo Dependiente De Gendarmer�a De Chile. (Of. N� 3.821, Del 13.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 21�, 3…
+Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 21�, 31� Y 33� bis Ley de la Rentas - Ley N� 19.281 sobre arrendamiento de viviendas con promesa de venta - Art. 1.915 Y 1.916 C. Civil - Circular N� 41, de 1990. Septiembre 1999
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/septiembre12.htm
 - Hash SHA-256: 7bba28da2ae1b5a71b4f8ca0c6f9b5843ece07ef7505ead1600ea0dd2637315f
 
 ## Resumen
 
-817, Del 13.10.1999 - I. Directos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. DE 31.07.59) -Circular N� 46, de 1999. Septiembre 1999 Word Procedencia De La Rebaja Tributaria En El Caso De Bienes Ra�ces Adquiridos En Comunidad. (Of. N� 3.549, Del 22.09.1999 - I. Directos). Ley N� 19.622. establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999 - A…
+ctos). Ley N� 19.622. establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999 - Art. 8� Ley N� 18.660 (D.O. 20.10.87). Septiembre 1999
 
 ## Referencias detectadas
 

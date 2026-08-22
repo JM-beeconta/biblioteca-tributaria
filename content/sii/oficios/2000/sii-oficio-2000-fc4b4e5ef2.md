@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-01
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta14.htm
 - Hash SHA-256: f9b237737b493e16f45dee64f1c7170b617b0bcd1384cf9479e5dff2a8f97d72
 
 ## Resumen
 
-ile para evitar la doble Tributaci�n en Materia de Impuestos sobre la Renta, Ganancia o Beneficio y sobre el Capital y el Patrimonio, Art. 2�, Letra e), Letra k), Art. 12�. (Ord. N� 4.657, de 01.12.2000) Word Situaci�n Tributaria de p�rdida Obtenida en la Operaci�n de Venta de Acciones que se indica. Renta � Actual Ley Sobre Impuesto a la � Art. 74� N� 2�, Art. 78�, Art. 84� - Decreto Supremo N� 71�, Del Ministerio de Educaci�n Publica, Del 2000 � Art. 39� y Sgtes. Word Emisi�n de Boletas Correspondiente a Honorar…
+Renta � Actual Ley Sobre Impuesto a la � Art. 74� N� 2�, Art. 78�, Art. 84� - Decreto Supremo N� 71�, Del Ministerio de Educaci�n Publica, Del 2000 � Art. 39� y Sgtes.
 
 ## Referencias detectadas
 

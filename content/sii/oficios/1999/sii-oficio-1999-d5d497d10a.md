@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-24
+- Fecha: 1999-08-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jul02.doc
 - Hash SHA-256: 3a1744cf51a6b5ea405774623ef8f8a1d9522d0d3be062093c7633c23aa3b08d
 
 ## Resumen
 
-Sobre Impuesto a la � Art. 42�, N� 2 del Decreto Ley N� 825 y Ley N� 18.490. Agosto 1999 Word Tributaci�n de cobranza de atenciones cl�nicas prestadas a lesionados en accidentes de tr�nsito cuyos pagos son cubiertos por la ley sobre seguros obligatorios de accidentes personales. (Oficio N� 3.212, del 24.08.1999 � I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. N�s. 17�, N� 5 Y 7 Y 33� N� 1, Letra f). , Julio 1999 Word Valor de emisi�n y suscripci�n de acciones en sociedad an�nima cerrada para incorpora…
+Word Valor de emisi�n y suscripci�n de acciones en sociedad an�nima cerrada para incorporar a la sociedad a nuevos accionistas vinculados a los originales por parentesco. (Oficio N� 3.146, del 13.08.1999-I. Directos).
 
 ## Referencias detectadas
 

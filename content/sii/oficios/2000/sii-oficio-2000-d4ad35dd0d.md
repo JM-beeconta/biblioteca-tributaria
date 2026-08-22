@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-05
+- Fecha: 2000-05-30
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/junio15.doc
 - Hash SHA-256: 3c7ccb7446f9ea7aa89eaa2d68c95133e332c11d540f7b940d11c69cf4c68d33
 
 ## Resumen
 
-0 - Art. 21 (D.O. del 1� de Marzo de 1975). Word Solicita pronunciamiento en cuanto a que se determine si los contratos para realizar mejoras en viviendas sociales se benefician con la franquicia del art�culo 21. (Of. N� 2.204, de 05/06/2000 - I. Indirectos) Ley N� 19.606, Art. 1� y 4�, Cr�dito Tributario de la Ley Austral - Ley N� 18.892, General de Pesca y Acuicultura - Art. 12� Transitorio -Circular N� 66, de 1999. Word Cr�dito tributario de la Ley Austral en relaci�n con las inversiones efectuadas para dar cum…
+Word Cr�dito tributario de la Ley Austral en relaci�n con las inversiones efectuadas para dar cumplimiento al Art. 12� transitorio de la Ley N� 18.892, General de Pesca y Acuicultura. (Of. N� 2.102, de 30/05/2000 - I. Directos).
 
 ## Referencias detectadas
 

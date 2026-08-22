@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-01
+- Fecha: 1999-04-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr01.htm
 - Hash SHA-256: 26a926b8a33eee885595b2c3905cf62f7e39624c037bb52ea4597c5dc4ae9011
 
 ## Resumen
 
-cia puertos chilenos � Exenci�n, condicionada a que... (Oficio N� 995, del 01.04.1999). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 3 Abril 1999 Word Empresa con giro de administraci�n y venta de programas de reembolsos m�dicos � Calidad de contribuyentes, considera actividad que se realiza en el plano econ�mico... (Oficio N� 690, del 19.03.1999). Renta - Actual ley sobre impuesto a la Art. 17�, N� 3 Abril 1999 Word Indemnizaciones por a�os de servicio � Contribuyente legalmente obligado a pagar por habe…
+19.03.1999). Renta - Actual ley sobre impuesto a la Art. 17�, N� 3 Abril 1999
 
 ## Referencias detectadas
 

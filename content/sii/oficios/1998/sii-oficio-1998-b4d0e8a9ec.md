@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Renta - Actual ley sobre impuesto a la - Art. 57� BIS, Letra A) Word Inversi�n en instrumentos o valores de ahorro � Cr�dito imputable al Impuesto Unico de segunda categor�a o al Impuesto Global Complementario � Cuotas de fondos mutuos... (Oficio N� 3.113 de 13.11.1998) Renta - Actual ley sobre impuesto a la - Art. - 14�, Letra A, N� 1, Letra C Word Divisi�n de sociedades � Ley N� 18.046, sobre sociedades an�nimas, Art. 94� - Distribuci�n de patrimonio � Accionistas de sociedad que se divide, les corresponde la…
+Word Divisi�n de sociedades � Ley N� 18.046, sobre sociedades an�nimas, Art. 94� - Distribuci�n de patrimonio � Accionistas de sociedad que se divide, les corresponde la misma... (Oficio N� 3.110, del 13.11.1998).
 
 ## Referencias detectadas
 

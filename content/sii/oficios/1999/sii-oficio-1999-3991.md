@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n="JUSTIFY"> Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Arts. 2�, N� 1 Y 3�, Art. 12�, Art. 36� - Art. 7� Decreto Ley N� 3.059, de 1979. Octubre 1999 Word Rancho de naves - Aprovisionamiento por un proveedor de naves y recuperaci�n del IVA soportado para proveerlo a naves de transporte desde o hacia Chile, o a naves en tr�nsito por el pa�s. (Of. N� 3.992, de 29.10.1999 - I. Indirectos). Ley de Impuestos a las Ventas y Servicios. Art�culos 2�, 5� , 8� , 12, letra E, N� 16, y 52�. Ordinario N� 3991, de…
+ectos). Ley de Impuestos a las Ventas y Servicios. Art�culos 2�, 5� , 8� , 12, letra E, N� 16, y 52�. Ordinario N� 3991, de 29 Octubre de 1999. Impuesto al Valor Agregado (IVA) en servicios derivados de un contrato de perforaci�n minera en la Cordillera de Los Andes. (Of. N�3991 de 29 de octubre de 1999.- I. Indirectos).
 
 ## Referencias detectadas
 

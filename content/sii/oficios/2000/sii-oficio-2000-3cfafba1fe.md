@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-24
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/diciembre09.htm
 - Hash SHA-256: 75afe4a9b36683beecacc51bf36b7433417e72f82c77608da93ff60aeb085667
 
 ## Resumen
 
-l' size='1'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36� � Decreto Supremo de Econom�a N� 348�, de 1975 � Circular N� 12�, de 10.02. 2000. Word Solicita pronunciamiento sobre procedimiento de recuperaci�n de cr�dito fiscal, efectuado por empresa titular de una concesi�n portuaria. (Of. N� 4.119, de 24.10.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8� letra g), Art. 12� N� 11�. Word Impuesto al valor agregado en arrendamiento de m�dulos ubicados dentro de…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8� letra g), Art. 12� N� 11�.
 
 ## Referencias detectadas
 

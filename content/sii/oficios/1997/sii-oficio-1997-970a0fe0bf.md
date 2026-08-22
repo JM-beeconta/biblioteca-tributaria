@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-01-30
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/feb06.htm
 - Hash SHA-256: 90166636fc4c2460452815c6efc738142a45eda883db91f9afc917e0bd0f1547
 
 ## Resumen
 
-establecimientos educacionales. (Of. 215 de 30/01/1997. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 5, 17, No. 8, A) y 31, No. 5, A) tratamiento tributario de la enajenaci�n de acciones efectuada por una sucesi�n. B) Vida �til y depreciaci�n de camiones comprados usados por una empresa de transporte de carga. (Of. No 190, del 29/01/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 42, No. 1 y 43, No. 1, Febrero 1997 Acerca de la tributaci�n que afecta a personas residentes en Chile, c…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 42, No. 1 y 43, No. 1, Febrero 1997 Acerca de la tributaci�n que afecta a personas residentes en Chile, cuyas remuneraciones son pagadas desde el exterior. (Of. No 165, del 27/01/97. I. Directos).
 
 ## Referencias detectadas
 

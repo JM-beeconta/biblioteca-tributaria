@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Recuperaci�n Del Impuesto Al Valor Agregado Por Empresa De Aeronavegaci�n Internacional, Que Efect�a Transporte De Pasajeros Y Carga Desde Chile Al Exterior Y Viceversa Con La Modalidad De "C�digo Compartido". (Of. N� 3.822, Del 13.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 20�, N� 3 Y 4 D.L. N� 824 -Art. 107� Constituci�n Pol�tica del Estado. Septiembre 1999 Word IVA Que Afecta A La Venta De Bienes Y A La Prestaci�n De Servicios Efect…
+Word IVA Que Afecta A La Venta De Bienes Y A La Prestaci�n De Servicios Efectuados A Distintas Municipalidades Por Un Organismo Dependiente De Gendarmer�a De Chile. (Of. N� 3.821, Del 13.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-"2"> Ley N� 19.578, de 1998 - Art. 2� transitorio - Art. 11� de la ley de la renta - circular N� 59, de 1998. Word Aplicaci�n del art�culo 2� transitorio de la Ley N� 19.578, de 1998, en el caso de transacci�n de acciones en Bolsa Offshore. (Of. N� 448, de 03.02.2000 - I. Directos). Franquicia Tributaria - Capacitaci�n y Empleo - Estatuto de - Actual Texto - Art. 36�, Circular N� 19, de 23.02.1999. Word Consultas relacionadas con Franquicia Tributaria, relativas al cr�dito por gastos de capacitaci�n contemplada...…
+Word Consultas relacionadas con Franquicia Tributaria, relativas al cr�dito por gastos de capacitaci�n contemplada... (Of. N� 383 de 01 de febrero de 2000)
 
 ## Referencias detectadas
 

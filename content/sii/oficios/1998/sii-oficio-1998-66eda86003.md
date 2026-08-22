@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-01-26
+- Fecha: 1998-01-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ene03.htm
 - Hash SHA-256: 3a278a258cadb4df100050fbf642adf7f1bc1981db03bccce1e60af7f9af9d3e
 
 ## Resumen
 
-es constituye suministro de servicio - Art. 3�, N� 7, del C�digo de Comercio... (Oficio N� 214, del 26.01.1998). Renta - Actual Ley Sobre Impuesto a la - Arts.. 2�, Nos 2 y 3, 15� y 29�, Word Venta a terceros del derecho de uso de departamentos - Modalidad tiempo compartido - Acuerdo de voluntades en orden a vender, ceder y transferir... (Oficio N� 95, del 13.01.1998). Renta - Actual ley sobre impuesto a la - Arts. 15�, 29�, 30� y 84� Impuesto a las ventas y servicios - Arts. 16� y 55� Word A) Contrato de concesi�…
+13.01.1998). Renta - Actual ley sobre impuesto a la - Arts. 15�, 29�, 30� y 84� Impuesto a las ventas y servicios - Arts. 16� y 55�
 
 ## Referencias detectadas
 

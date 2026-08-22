@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-07-23
+- Fecha: 1998-07-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ago06.doc
 - Hash SHA-256: 5fca80e49c8f38d3489a0cd830b8dd11cbc0ec4779ac1c54988978f8bf98cbf8
 
 ## Resumen
 
-ace="arial" size="2"> Renta - Actual ley sobre impuesto a la - Art. 41�. Word Sistema de correcci�n monetaria - mecanismo integral y permanente que tiene por objeto corregir o depurar los estados financieros de los efectos o distorsiones que la inflaci�n produce ... (Oficio N� 1.938 del 23.07.1998). Renta - Actual ley sobre impuesto a la - Arts. 42� , N� 1 y 74� - C�digo tributario - Nuevo texto - Art. 126� Word Impuesto �nico que afecta a las remuneraciones, montep�os y pensiones - Obligaci�n de retener y por tan…
+Word Impuesto �nico que afecta a las remuneraciones, montep�os y pensiones - Obligaci�n de retener y por tanto, de calcular el impuesto recae sobre el pagador de las rentas - Empleador... (Oficio N� 1.893, del 20.07.1998).
 
 ## Referencias detectadas
 

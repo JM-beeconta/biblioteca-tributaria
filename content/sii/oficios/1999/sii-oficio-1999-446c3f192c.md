@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-06-01
+- Fecha: 1999-05-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/jun02.htm
 - Hash SHA-256: a171119fd2e31a77e0a5f6b233396ffc8300d2e9fd9b9a75f08a3f026d7e30e3
 
 ## Resumen
 
-se puede crear una sociedad an�nima... (Oficio N� 2.407, del 01.06.1999). Renta - Actual ley sobre impuesto a la - Art. 41�. Junio 1999 Word Costo directo de venta de las mercader�as, materias primas y otros bienes del activo realizable � Costo directo de bienes, cuando se apliquen a procesos productivos y/o art�culos terminados... (Oficio N� 2.361, del 23.05.1999) Renta Actual ley sobre impuesto a la - Art. 17�, N� 8. Junio 1999 Word Adquisici�n de acciones de pago � Suscripci�n previa de contrato de opci�n de su…
+23.05.1999) Renta Actual ley sobre impuesto a la - Art. 17�, N� 8. Junio 1999
 
 ## Referencias detectadas
 

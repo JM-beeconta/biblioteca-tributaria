@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s y Servicios en arrendamiento de parte de un galp�n, dotado de agua potable y electricidad trif�sica. (Of. No 1.954, del 29/08/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Arts. 8�, Letra G) y 12�, Letra E), No. 7, Septiembre 1997 Aplicaci�n del Impuesto a las Ventas y Servicio en contrato de fletamento de naves a casco desnudo. (Of. No 1.922, del 26/08/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�,No. 2, Septiembre 1997 Aplicaci�n del Impuesto a las Ventas…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�,No. 2, Septiembre 1997 Aplicaci�n del Impuesto a las Ventas y Servicios en asesor�as t�cnicas prestadas a empresas domiciliadas en el exterior. (Of. No 1921, del 26/08/97).
 
 ## Referencias detectadas
 

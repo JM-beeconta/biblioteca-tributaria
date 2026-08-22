@@ -11,7 +11,7 @@
 
 ## Resumen
 
-- Art. 16� Fecha en que debe practicarse el cierre del Ejercicio comercial para los efectos tributarios. (Of. N� 2.244, del 29/9/97) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra g) Situaci�n tributaria de la adjudicaci�n de acciones en la liquidaci�n de una sociedad conyugal (Of. N� 2.232 del 25/9/97) Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 4 Requisitos que deben cumplir los cr�ditos incobrables para su aceptaci�n como gasto tributario (Of. N� 2.231 del 25/9/97). Renta - Actual Ley…
+25/9/97) Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 4 Requisitos que deben cumplir los cr�ditos incobrables para su aceptaci�n como gasto tributario (Of. N� 2.231 del 25/9/97).
 
 ## Referencias detectadas
 

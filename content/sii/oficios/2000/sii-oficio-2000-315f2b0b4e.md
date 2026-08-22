@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-19
+- Fecha: 2000-10-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/diciembre10.doc
 - Hash SHA-256: 9eed44ba10c97080ce3bb245d71211a627b8f0151ac2642f2ea017443e5a2f62
 
 ## Resumen
 
-Word Aplicabilidad del Impuesto al valor agregado a los establecimientos educacionales que tienen buses, microbuses u otros veh�culos para el transporte de sus alumnos y cobran a �stos una remuneraci�n por este concepto. (of. N� 4.050, de 19.10.2000 � i. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36� � Decreto Supremo de Econom�a N� 348�, de 1975 � Circular N� 12�, de 10.02. 2000. Word Solicita pronunciamiento sobre procedimiento de recuperaci�n de cr�dito fiscal, efectuado por empres…
+Word Solicita pronunciamiento sobre procedimiento de recuperaci�n de cr�dito fiscal, efectuado por empresa titular de una concesi�n portuaria. (Of. N� 4.119, de 24.10.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

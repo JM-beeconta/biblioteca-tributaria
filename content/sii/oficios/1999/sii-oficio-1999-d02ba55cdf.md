@@ -11,7 +11,7 @@
 
 ## Resumen
 
-re Impuesto a la � Art. 3�, Art. 10�, Art. 61�, Art. 62�. (Ord. N� 4920, de 27.12.2000) Word Tributaci�n que afecta a chileno que se radica en el exterior. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8. (Ord. N� 4840, de 18.12.2000) Word Tributaci�n que afecta a la enajenaci�n de parte de un predio agr�cola efectuada bajo las condiciones que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�4. (Ord. N� 4730, de 11.12.2000) Word Informa sobre procedencia de exenci�n de impuesto Adicional a l…
+Word Tributaci�n que afecta a la enajenaci�n de parte de un predio agr�cola efectuada bajo las condiciones que se indican.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-10-05
+- Fecha: 1998-09-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/sep12.htm
 - Hash SHA-256: 79e12374331f03be9739ea58aaf3319de26cad675312c2e41081b806be5cd792
 
 ## Resumen
 
-ont>( Oficio N� 2.674, del 05.10.1998). Franquicias tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto Art. 36�. Septiembre 1998 Word Suplementeros estacionados - Contribuyentes del art�culo 22� de la Ley de la Renta - No son contribuyentes afectos al impuesto general de la Primera Categor�a de los Arts. 14�... (Oficio N� 2.518, del 14.09.1998) Franquicias tributarias - Decreto ley N� 910 - Art. 21�. Septiembre 1998 Word Cr�dito especial del 0.65 del d�bito fiscal IVA - Procedencia - Contratos de pav…
+14.09.1998) Franquicias tributarias - Decreto ley N� 910 - Art. 21�. Septiembre 1998
 
 ## Referencias detectadas
 

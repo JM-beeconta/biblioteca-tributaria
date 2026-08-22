@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-16
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre07.htm
 - Hash SHA-256: e845211fdb2bbdd62363b09450cb6255dfbe32208bb40d2d78c3bc10518132ca
 
 ## Resumen
 
-evo texto - Ley Impuesto a las - Arts. N�s. 2�, N� 2, Art. 8� y Art. 20�, N� 3. Octubre 1999 Word Impuesto al Valor Agregado que afecta al servicio de administraci�n de edificios, prestado por una sociedad que tributa en primera categor�a y cuya labor remunerada consiste en atender diversas materias relativas al funcionamiento de los inmuebles administrados como son: aseo, mantenci�n, recaudaci�n de gastos comunes, etc. (Of. N� 4.155, de 16.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto…
+Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N�s. 1 y 2, Art. 3�, Art. 8� - Art. 17�, N�s. 9 Y 11, Art. 20�, N� 1 al 5 y Art. 40, N� 4 de la Ley de la Renta. Octubre 1999
 
 ## Referencias detectadas
 

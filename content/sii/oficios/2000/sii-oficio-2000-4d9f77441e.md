@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-28
+- Fecha: 2000-05-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo12.doc
 - Hash SHA-256: 2312febdaa5a65fa24d700637ebec65b4484851d9be61eff241ed6af2028a7ee
 
 ## Resumen
 
-icita aclaraci�n respecto de las normas Tributarias que corresponde aplicar en caso de extranjero que ingresa al pa�s, acreditando que constituy� ... ( Of. N� 1.413 de 28.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 42� N� 1, Art. 43� N� 1, Art. 45�, Art. 46� - Circular N� 37, de 1990. Word Tributaci�n de bono de feriado establecido en contrato colectivo de trabajo. ( Of. N� 1.785, de 16.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 31� N� 5, Art. 41� N� 2. Word Sol…
+Word Tributaci�n de bono de feriado establecido en contrato colectivo de trabajo. ( Of. N� 1.785, de 16.05.2000 - I. Directos )
 
 ## Referencias detectadas
 

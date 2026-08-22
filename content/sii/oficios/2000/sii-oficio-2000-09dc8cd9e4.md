@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-06
+- Fecha: 2000-12-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4659.htm
 - Hash SHA-256: 06fff0ed523017bc8106c5d30f2ca9058555bf5d48fa23cad9ee92f962e717ee
 
 ## Resumen
 
-de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904�. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 128�. (Ord. N� 4713, de 06.12.2000) Word Consulta sobre devoluci�n de IVA solicitada en caso de recargo y pago indebido. Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� - Ley de la Renta, Art. 3�. (Ord. N� 4659, de 01.12.2000) Word Aplicaci�n de IVA a honorarios de cobranza en procedimiento d…
+Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� - Ley de la Renta, Art. 3�. (Ord. N� 4659, de 01.12.2000)
 
 ## Referencias detectadas
 

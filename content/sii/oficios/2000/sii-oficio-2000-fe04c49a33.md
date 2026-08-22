@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-01
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta05.htm
 - Hash SHA-256: e76a1e6b108355a19c2283bdb7b4416d9d07bb562ec4e610d8cfe81c4330187e
 
 ## Resumen
 
-� 3� - Ley N� 19.420, de 1995. Word Usuarios de Los Centros de Exportaci�n de Acuerdo a la Ley N� 19.669, Del 2.000 Se Encuentran Afectos O No Al Impuesto de Primera Categor�a de la Ley de la Renta y por Ende Obligados a Efectuar Pagos Provisionales Mensuales. ( Of. N� 4.656, de 01.12.2000. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 17�N� 1�, Art. 29�- Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 1�, Art.2�, Art. 8�, Art. 55� - Art. 21� Del Decreto Ley N� 910, de 1975. Word Aplicac…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�N� 1�, Art. 29�- Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 1�, Art.2�, Art. 8�, Art. 55� - Art. 21� Del Decreto Ley N� 910, de 1975.
 
 ## Referencias detectadas
 

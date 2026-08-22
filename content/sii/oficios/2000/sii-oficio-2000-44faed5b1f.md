@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja4053.doc'>Word Tratamiento tributario de los egresos en que incurren contribuyentes extranjeros cuyas actividades realizadas en Chile no generan ingresos y s�lo est�n destinadas a observar oportunidades de negocios en nuestro pa�s y estudiar el comportamiento de inversiones que empresa extranjeras relacionadas con ellas mantienen en Chile. Renta - Actual Ley Sobre Impuesto a la - Art. 43�, N�1, Art. 52� - Ley N� 19.622, de 1999 � Circular N� 46, de 1999. (Ord. N�2439, de 23.06.2000) Word Contribuyentes que tiene…
+Renta - Actual Ley Sobre Impuesto a la - Art. 43�, N�1, Art. 52� - Ley N� 19.622, de 1999 � Circular N� 46, de 1999. (Ord. N�2439, de 23.06.2000)
 
 ## Referencias detectadas
 

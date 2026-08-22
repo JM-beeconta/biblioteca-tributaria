@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-07-05
+- Fecha: 2000-06-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2438.doc
 - Hash SHA-256: 553091ba14e96ece00254ff52fcb6206a40c173b0d3281d66c9118a5d111b498
 
 ## Resumen
 
-tas/ja2681.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 37� - Ley N� 18.840, Art. 39�. (Ord. N� 2681, de 05.07.2000) Word Aplicaci�n de impuesto a la venta de monedas de oro de curso legal de la Casa Real de pa�s extranjero Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 3�- Ley N� 19.633, 1999. (Ord. N� 2438, de 23.06.2000) Word Consideraciones acerca de la Ley N� 19.633. Ventas y Servicios � Nuevo Texto � Actual Ley sobr…
+Word Consideraciones acerca de la Ley N� 19.633.
 
 ## Referencias detectadas
 

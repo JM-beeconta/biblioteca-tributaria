@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-10
+- Fecha: 1999-12-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/Diciembre12.htm
 - Hash SHA-256: 3d833cedf8ede388c9b9ff08b2ea6c551a2ad7e13082d2229ad89c2d201331cb
 
 ## Resumen
 
-el 10.12.1999 Ventas Y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8� - Art. 20�, N�s 3, 4 y 5 de la Ley de la Renta. Diciembre 1999 Word Tributaci�n que afecta al servicio de soporte prestado a clientes usuarios de los software comercializados por empresa - Servicio comprende: asesor�a telef�nica o v�a internet. Oficio N� 4.561, del 16.12.1999 Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, Art. 36�, Inciso 4� - Art�culo 58� de la Ley de la Renta. Diciembre 1999 Word Recupe…
+16.12.1999 Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, Art. 36�, Inciso 4� - Art�culo 58� de la Ley de la Renta. Diciembre 1999
 
 ## Referencias detectadas
 

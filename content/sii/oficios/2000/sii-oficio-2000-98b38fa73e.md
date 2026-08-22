@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-18
+- Fecha: 2000-04-17
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo20.doc
 - Hash SHA-256: ef109852da938aa7afff7b9f0697c0cb80dd3b6f1ecae031ab77792dc7df99d0
 
 ## Resumen
 
-2000 - I. Directos ). Ley N� 18.401, Art. 11� ( D.O. 26.01.85 ) sobre Capitalismo Popular - Ley N� 19.396 ( 29.07.95 ). Word Tratamiento Tributario de los dividendos distribuidos por empresas bancarias sujetas a las normas establecidas en la Ley N� 18.401 ... (Of. N� 1.277, de 18.04.2000 - I. Directos ) Ley N� 18.768, Art. 13� ( D.O. 29.12.88 ). Word Concepto de costo a que se refiere el art�culo 13� de la Ley N� 18.768 de 1988, para los efectos de la recuperaci�n como pago provisional del impuesto Adicional pagad…
+Word Concepto de costo a que se refiere el art�culo 13� de la Ley N� 18.768 de 1988, para los efectos de la recuperaci�n como pago provisional del impuesto Adicional pagado sobre ... (Of. N� 1.258, de 17.04.2000 - I. Directos ).
 
 ## Referencias detectadas
 

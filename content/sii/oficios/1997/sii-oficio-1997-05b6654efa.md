@@ -11,7 +11,7 @@
 
 ## Resumen
 
-�, Agosto 1997 IVA, en construcci�n, confecci�n e instalaci�n de especialidades, dentro del recinto de zona franca. (Of. No 1.713, del 29/07/97. I. Indirectos). Ley 18.985 - Art. 5� Transitorio, Agosto 1997 Tasaci�n comercial del predio agr�cola a que se refiere la letra c) del no 1 del Art. 5� transitorio de la ley 18.985, de 1990. (Of. No 1.502 de 09/07/97 i. Directos). Ley 18.985 - Art. 5� Transitorio, Agosto 1997 Situaci�n tributaria del mayor valor obtenido en el caso de enajenaci�n de bienes ra�ces. (Of. No…
+. Directos). Ley 18.985 - Art. 5� Transitorio, Agosto 1997 Situaci�n tributaria del mayor valor obtenido en el caso de enajenaci�n de bienes ra�ces. (Of. No 1.501, del 09/07/97. I. Directos).
 
 ## Referencias detectadas
 

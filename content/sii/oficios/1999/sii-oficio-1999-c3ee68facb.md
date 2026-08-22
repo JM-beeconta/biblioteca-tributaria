@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-06
+- Fecha: 1999-04-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr04.htm
 - Hash SHA-256: 4d69d4613b02097c25ea5bce3d5602a5bb948c6f2360ab9fdd6fef45b3f0e63c
 
 ## Resumen
 
-> Renta - Actual ley sobre impuesto a la - Art. 59�, N� 2 � Ventas y servicios - Nuevo texto - Ley impuesto a las - Art. 12�, Letra E, N� 7 Abril 1999 Word Emisi�n y colocaci�n de instrumentos de deuda p�blica en el extranjero � Agentes colocadores, bancos de inversi�n extranjeros � comisiones exentas de impuesto adicional, si operaciones son... (Oficio N� 1062, del 06.04.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N� 2 Abril 1999 Word Sociedad de profesionales que presten exclusivamente servicios o…
+06.04.1999). Renta - Actual ley sobre impuesto a la - Art. 42�, N� 2 Abril 1999
 
 ## Referencias detectadas
 

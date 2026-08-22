@@ -11,7 +11,7 @@
 
 ## Resumen
 
-agregado en arrendamiento de m�dulos ubicados dentro de un supermercado. (of. N� 4.111, de 24.10.2000 � i. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 4�, Art. 5�. Word Territorialidad del Impuesto al valor agregado. (of. N� 4.062, de 20.10.2000 � i. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 2�, Art. 12� letra d), Art. 36�. Word Calidad de exportaci�n de Ventas de combustible efectuado a empresas de aeronavegaci�n extranjera, en que el combustible es entr…
+Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 2�, Art. 12� letra d), Art. 36�.
 
 ## Referencias detectadas
 

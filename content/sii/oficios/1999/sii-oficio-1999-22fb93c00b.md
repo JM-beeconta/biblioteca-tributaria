@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-22
+- Fecha: 1999-09-13
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/agosto16.doc
 - Hash SHA-256: 29667d89891ac67802f584ea1c36dad63bc940e8121bb704a8a3c9c1af8ecec2
 
 ## Resumen
 
-F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999 - Art. 8� Ley N� 18.660 (D.O. 20.10.87). Septiembre 1999 Word Procedencia Del Beneficio Tributario Respecto De Los Mutuos Hipotecarios Otorgados Por Una Mutual. (Of. N� 3.536, Del 22.09.1999 - I. Directos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2.(D.O. de 31.07.59). Agosto 1999 Word Situaci�n de una vivienda transferida en principio con fines de inversi�n, luego a trav�s de una donaci�…
+Word Situaci�n de una vivienda transferida en principio con fines de inversi�n, luego a trav�s de una donaci�n para ser finalmente vendida a terceros para su uso. (OF. N� 3.437, del 13.09.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

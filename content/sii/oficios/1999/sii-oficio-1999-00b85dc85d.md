@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-26
+- Fecha: 1999-11-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.doc
 - Hash SHA-256: 74825ef98b60f8be947c5943a484ce40e5c121139e4700542dd73a343ced19c3
 
 ## Resumen
 
-06 de 26.11.1999) Renta - Actual Ley sobre Impuesto a la - Art. 6�, Circular N� 143, de 1972. Noviembre 1999 Word Solicitan informaci�n tributaria de los contratos de Joint Ventures. (Oficio N� 4.270, de 25.11.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, Art�culo N� 18, inciso 1�. Noviembre 1999 Word Oportunidad en que se entienden adquiridos o enajenados los bienes ra�ces y calificaci�n de la indemnizaci�n por expropiaci�n de un bien ra�z. (Oficio N� 4.176, de 17.11.1999 - I. Dire…
+Word Oportunidad en que se entienden adquiridos o enajenados los bienes ra�ces y calificaci�n de la indemnizaci�n por expropiaci�n de un bien ra�z. (Oficio N� 4.176, de 17.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

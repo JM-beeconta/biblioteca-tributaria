@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-17
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/noviembre10.htm
 - Hash SHA-256: 4fa90df4c5d451a367ad348f4a2160a6314129f3a96fbf3269065936d1ca30ca
 
 ## Resumen
 
-(Of. N� 4.180, de 17.11.1999 - I. Indirectos). Franquicias Tributarias - Ley N� 18.392, Art. 11 (D.O. 14.01.1985). Octubre 1999 Word anticipado por parte del IVA que grava la venta de carne faenada, que debe hacer el matadero que preste el servicio de faenamiento de ganado en las condiciones que establece el Art. 11. (Of. N� 4.178, de 17.11.1999 - I. Indirectos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46,…
+ctos). Ley N� 19.622 - Establece beneficios tributarios por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999. Noviembre 1999
 
 ## Referencias detectadas
 

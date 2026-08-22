@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Oficio N� 4.563, del 16.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 3� - Art. 8, N� 8, C�digo Tributario - Art. 59, C�digo Civil. Diciembre 1999 Word Plazo de tres a�os que se aplica a contribuyentes extranjeros con domicilio o residencia en el pa�s - Criterios para otorgar pr�rroga - Art. 8�, N� 8, del C�digo Tributario. (Oficio N� 4.562, del 16.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 20� N� 1, 2 - Art.29 - Art. 39� N� 4 - Art. 41 bis. Diciembre 1999 Word Tributaci�n que afecta a inte…
+16.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 20� N� 1, 2 - Art.29 - Art. 39� N� 4 - Art. 41 bis. Diciembre 1999
 
 ## Referencias detectadas
 

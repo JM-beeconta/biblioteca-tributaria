@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mayo04.htm'>Ventas y Servicios - Nuevo Texto - Ley Impuestos a las - Art. 13�, N� 3, Circular N� 68, de 19.05.75. Word Solicita pronunciamiento sobre alcance de la exenci�n del Impuesto al Valor Agregado relativa a Empresas de movilizaci�n contenida en ... ( Of. N� 1.521, del 09.05.2000 - I. Indirectos ) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 4�, Art. 8� y 46� - Art. 5� - Ley N� 19.633, de 1999. Word R�gimen Tributario aplicable a Veh�culo Importado al amparo de Franquicia Especial. ( Of. N�…
+Word R�gimen Tributario aplicable a Veh�culo Importado al amparo de Franquicia Especial. ( Of. N� 1.789, del 17/05/2000 - I. Directos )
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tas. (Of. No 475, del 28/02/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 23�, Febrero 1997 Utilizaci�n del cr�dito fiscal del IVA, soportado en las construcci�n de un recinto de eventos, estacionamientos y otras dependencias, destinados a realizar operaciones gravadas y operaciones exentas o no gravadas, de un club. (Of. No 335, del 11/02/97. I. Indirectos). Ventas Y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 23., Febrero 1997 Procedencia de la utilizaci�n como cr�dit…
+Indirectos). Ventas Y Servicios - Nuevo Texto Ley de Impuesto a Las - Art. 23., Febrero 1997 Procedencia de la utilizaci�n como cr�dito fiscal del IVA, soportado en los gastos mantenci�n, combustible y repuestos de un veh�culo station wagon usado por una funeraria. (Of. N� 278 de 04.02.1997)
 
 ## Referencias detectadas
 

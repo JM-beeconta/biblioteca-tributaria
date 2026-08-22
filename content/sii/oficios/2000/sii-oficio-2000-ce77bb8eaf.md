@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-27
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero13.htm
 - Hash SHA-256: 6beb96b72a2d5282c47f159d000542c426f9849ef23447ebf601aa81c0f9565c
 
 ## Resumen
 
-88�, 90� y 98� - Art. 126� del C�digo Tributario Word Devoluci�n de pagos provisionales mensuales, por haber sido cancelados indebidamente al no existir tal obligaci�n, debido a que en el a�o comercial inmediatamente anterior obtuvo p�rdida tributaria. (Of. N� 308, del 27.01.2000 - I. Directos) Renta - Actual Ley Sobre Impuesto A La - Art. 59�, N� 6 Word Solicitan se informe si criterio sostenido en la Circular N� 52, de fecha 01.12.1992, del SII, relativa a "Instrucciones para la procedencia de la exenci�n del im…
+Renta - Actual Ley Sobre Impuesto A La - Art. 59�, N� 6
 
 ## Referencias detectadas
 

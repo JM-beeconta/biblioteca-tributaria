@@ -11,7 +11,7 @@
 
 ## Resumen
 
-entas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Letra g), Art. 13 N� 3 � Art. 20� N� 3 de la Ley de la Renta � Art. 3� N� 3 del C�digo de Comercio. Word IVA que afecta a los servicios que las empresas concesionarias de terminales de aeropuertos prestan a las l�neas a�reas. (Of. 1.136, del 10.04.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 5. Word Solicitan pronunciamiento sobre procedimiento alternativo de pago a proveedores, en relaci�n co…
+Word Solicitan pronunciamiento sobre procedimiento alternativo de pago a proveedores, en relaci�n con la norma del art�culo 23�, N� 5, del D. Ley N� 825. (Of. N� 1.135, del 10.04.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

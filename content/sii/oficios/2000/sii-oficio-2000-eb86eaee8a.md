@@ -11,7 +11,7 @@
 
 ## Resumen
 
-face="arial" size="2"> Ley N� 19.622 - Establece Beneficio Tributario por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.59) Circular N� 46, de 1999 - Art. 1707 del C�digo Civil Word Procedimiento para acceder a beneficio tributario - Art. 1� de la Ley N� 19.622 y Circular N� 46 establecen que: Adquirente de la vivienda deber� dejar constancia expresa en escritura respectiva. (Oficio N� 67, del 11.01.2000). Ley N� 18.502 - Art. 6� - Impuesto a los Combustibles Word Empresa de transpo…
+11.01.2000). Ley N� 18.502 - Art. 6� - Impuesto a los Combustibles
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1265
 - Año: 2000
-- Fecha: 2000-12-26
+- Fecha: 2000-12-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ventas02.doc
 - Hash SHA-256: 2733bff3b7e87c600faf9bb7e80ece554092575ee57b0ac9e0315789265cd265
 
 ## Resumen
 
-� Nuevo Texto � Ley Impuesto a las � Art. 8�, Letra G). Word Incidencia Del IVA. en Contrato Que Se Describe Como "Servicio de Venta Automatizada de Boletos de Pasaje". (Of. N� 4.895, de 26.12.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Art. 13� N� 3� - Art. 20� N� 3� de la Ley de la Renta � Art. 3� N� 6�, Del Codigo de Comercio - Circular N� 68�, de 1975. Word Impuesto Al Valor Agregado Que Afecta Al Transporte de Personal, Materiales y Objetos. (Of. N� 4.7…
+Word Impuesto Al Valor Agregado Que Afecta Al Transporte de Personal, Materiales y Objetos. (Of. N� 4.775 de 12.12.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

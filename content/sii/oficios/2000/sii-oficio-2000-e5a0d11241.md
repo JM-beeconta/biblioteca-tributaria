@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-02
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/agosto01.htm
 - Hash SHA-256: ff0f83b32841fd74680bbab4bff0311c785e1445c8e5d81e5118665b0f3784b8
 
 ## Resumen
 
-gosto02.htm'>Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9. Word Tratamiento tributario de algunos desembolsos incurridos por empresas licitantes que obtuvieron una concesi�n de Obras P�blicas, los cuales por norma expresa... (Of. N� 3.025, de 02.08.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.18�. Circular N� 158, de 1976. Word Normas que regulan la habitualidad en la compra y venta de acciones. (Of. N� 3.020, de 02.08.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.…
+Renta - Actual Ley sobre Impuesto a la - Art.18�. Circular N� 158, de 1976.
 
 ## Referencias detectadas
 

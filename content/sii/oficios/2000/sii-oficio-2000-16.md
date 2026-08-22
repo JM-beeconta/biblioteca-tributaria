@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. 51�. Word Aplicabilidad de la norma contenida en el Art�culo 51� del c�digo tributario, en caso de sumas pagadas por concepto de p.p.m. no imputados en su oportunidad. (Of. N� 3048, de 04.08.2000 - Depto. de Planificaci�n y Control de Fiscalizaci�n) . Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de 1999. Word Contribuyentes que tienen derecho a acogerse al beneficio tributario establecido por la Ley N� 1…
+Word Contribuyentes que tienen derecho a acogerse al beneficio tributario establecido por la Ley N� 19.622, de 1999. (Of. N� 3.046, de 04.08.2000 - I. Directos).
 
 ## Referencias detectadas
 

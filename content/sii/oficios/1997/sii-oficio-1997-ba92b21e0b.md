@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font> Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Acciones de sociedades an�nimas abiertas � Instrumento de ahorro incorporado al mecanismo de incentivo � T�tulos en que se invierte deben cumplir con las condiciones necesarias para... (Oficio N� 1.541, del 22.04.1999). Renta - Actual ley sobre impuesto a la - Art. 66� Mayo 1999 Word Interventor judicial � Rentas de bienes en litigio � Informaci�n al Servicio, de los ingresos, individualizaci�n y RUT del actual propietario de los bienes int…
+Word Interventor judicial � Rentas de bienes en litigio � Informaci�n al Servicio, de los ingresos, individualizaci�n y RUT del actual propietario de los bienes intervenidos... (Oficio N� 1.528, del 21.04.1999).
 
 ## Referencias detectadas
 

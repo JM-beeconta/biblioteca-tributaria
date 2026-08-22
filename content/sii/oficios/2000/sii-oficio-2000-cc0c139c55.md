@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-30
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio06.htm
 - Hash SHA-256: 6bcfad99243dc51107438e974d6ee9cac844598f4c28bf53b02a621376c249ab
 
 ## Resumen
 
-Renta - Actual Ley sobre Impuesto a la - Art. 31�. Word Solicita un pronunciamiento respecto a que si los aportes efectuados por entes privados para la construcci�n de una obra vial, podr�an ser... (Of. N� 2.609, de 30.06.2000 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 2, Art. 33�, Art. 59�, Art. 74�, N� 4 Y Art. 79� - Art.. 16 del C�digo Tributario. Word Situaci�n tributaria de operaci�n de financiamiento que proviene del exterior y por lo cual se formulan las siguientes consultas: a) t…
+Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 2, Art. 33�, Art. 59�, Art. 74�, N� 4 Y Art. 79� - Art.. 16 del C�digo Tributario.
 
 ## Referencias detectadas
 

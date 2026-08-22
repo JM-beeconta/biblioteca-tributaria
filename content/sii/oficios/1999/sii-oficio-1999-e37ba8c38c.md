@@ -11,7 +11,7 @@
 
 ## Resumen
 
-neficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de 1999. Word Personas que tienen derecho al beneficio tributario establecido por la Ley N� 19.622, de 1999. (Of. N� 3.774, de 25.09.2000 - I. Directos) . Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959). Word Adquisici�n en forma conjunta con c�nyuge de vivienda nueva acogida a las normas del D.F.L. N�…
+Word Adquisici�n en forma conjunta con c�nyuge de vivienda nueva acogida a las normas del D.F.L. N� 2�, de 1959. (Of. N� 3.734, de 20.09.2000 - Depto. de T�cnica Tributaria)
 
 ## Referencias detectadas
 

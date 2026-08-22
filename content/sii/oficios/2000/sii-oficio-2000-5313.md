@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5313
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-07-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/agosto03.doc
 - Hash SHA-256: 5a0cee56494517a47344dbee13e0812df2b94c067fb32beb241f9351c1945a20
 
 ## Resumen
 
-encia entre el precio de adquisici�n de las acciones de una S.A. y el valor de libros de los activos y pasivos de la sociedad absorbida. (Of. N� 2.567, de 29.06.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43 , N� 1- Oficio N� 5313, de 16.09.76 - Circular N� 7 de 15.01.93. Word Tributaci�n que afecta a las remuneraciones percibidas por los abogados integrantes de las Cortes de Apelaciones. (Of. N� 2.908, de 25.07.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.…
+Word Tributaci�n que afecta a las remuneraciones percibidas por los abogados integrantes de las Cortes de Apelaciones. (Of. N� 2.908, de 25.07.2000 - I. Directos)
 
 ## Referencias detectadas
 

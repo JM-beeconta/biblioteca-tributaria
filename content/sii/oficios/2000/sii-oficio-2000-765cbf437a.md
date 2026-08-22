@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-29
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/octubre05.htm
 - Hash SHA-256: 93bb916dd5fe01f67cff0c3a47584fb7a50949ea46262d5c353e378bf7b1cc9b
 
 ## Resumen
 
-36, de 29.09.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� letra d), Art. 23�. Word Impuesto al valor agregado que afecta a la entrega gratuita de muestras de productos del giro, efectuada por un contribuyente. (Of. N� 3.874, de 03.10.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 4�, Art. 36� - Art. 126 del C�digo Tributario - Decreto Supremo de Econom�a N� 348, de 1975. Word Recuperaci�n del impuesto al valor agregado exportador y aplica…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 4�, Art. 36� - Art. 126 del C�digo Tributario - Decreto Supremo de Econom�a N� 348, de 1975.
 
 ## Referencias detectadas
 

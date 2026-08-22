@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-09-10
+- Fecha: 1998-09-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/sep08.doc
 - Hash SHA-256: 5fec449fff9d909b3537a593fb784e5944619f99149f3cb04607a1d63c377e49
 
 ## Resumen
 
-10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 20� , N� 2 Word Rentas de capitales mobiliarios - Intereses, pensiones o cualesquiera otros productos derivados del dominio, posesi�n o tenencia a t�tulo precario de cualquier clase de capital mobiliario... (Oficio N� 2.502, del 10.09.1998). Renta - Actual ley sobre impuesto a la - Art. 58�. Word Utilidades de las empresas mientras se mantengan invertidas en las mismas y registradas en el FUT, no se afectan con los impuestos Global Complementario o Adicion…
+Word Utilidades de las empresas mientras se mantengan invertidas en las mismas y registradas en el FUT, no se afectan con los impuestos Global Complementario o Adicional - Utilidades... (Oficio N� 2.347, del 04.09.1998).
 
 ## Referencias detectadas
 

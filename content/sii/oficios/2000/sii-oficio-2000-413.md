@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 413
 - Año: 2000
-- Fecha: 2000-10-03
+- Fecha: 2000-10-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/diciembre03.doc
 - Hash SHA-256: b26de0f86dc30d6e9f0d391c0438f2aa6eb71aee39d8f10a5281a7d0de590d05
 
 ## Resumen
 
-Solicitud de devoluci�n de impuesto adicional retenido a empresa extranjera domiciliada en Chile, por remesa a intereses correspondientes a cr�ditos externos. (Of. N� 3.879, de 03.10.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 20� N�1� al 5�, Art. 39� N� 4� letra c) y g). Word Tributaci�n de intereses obtenidos por dep�sitos de excedentes efectuados por Fundaci�n de Salud de Trabajadores de un Banco. (Of. N� 3.919, de 06.10.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�,…
+Word Tributaci�n de intereses obtenidos por dep�sitos de excedentes efectuados por Fundaci�n de Salud de Trabajadores de un Banco. (Of. N� 3.919, de 06.10.2000- I. Directos)
 
 ## Referencias detectadas
 

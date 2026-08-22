@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-01-21
+- Fecha: 1999-01-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene02.htm
 - Hash SHA-256: c47ca82d1fd1cc9117af31451eeedde3795ed169485a4e6ce0c02223a2925a02
 
 ## Resumen
 
-se aplica el referido cr�dito respecto... (Oficio N� 146, del 21.01.1999). Renta - Actual ley sobre impuesto a la - Art. 20�, N� 1, Letra b) Enero 1999 Word Actividad agr�cola � R�gimen de renta presunta � Requisitos y condiciones, Ley N� 18.985- Instrucciones en Circulares N�s. 58 y 63, de 1990 � Contribuyentes que no cumplen... (Oficio N� 113, del 18.01.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, Letra b) y 18�. Enero 1999 Word Enajenaci�n no habitual de bienes ra�ces � No constituye renta e…
+18.01.1999). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, Letra b) y 18�. Enero 1999
 
 ## Referencias detectadas
 

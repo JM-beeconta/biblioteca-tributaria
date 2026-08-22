@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Renta - Actual ley sobre impuesto a la - Art. 14� , Letra A),N� 1, Letra c) Word Rentas retiradas para ser reinvertidas en otras empresas - No gravadas con impuestos Global Complementario o Adicional, mientras no sean retiradas - Inversiones s�lo pueden... (Oficio N� 2.573, del 24.09.1998). Renta - Actual ley sobre impuesto a la - Art. 2� , N� 1 Word Programa de Generaci�n de Empleos del Ministerio de Hacienda - Ingresos percibidos por personas beneficiadas - Normas generales Ley de la Renta - Concepto amplio...…
+Word Programa de Generaci�n de Empleos del Ministerio de Hacienda - Ingresos percibidos por personas beneficiadas - Normas generales Ley de la Renta - Concepto amplio... (Oficio N� 2.572, del 24.09.1998).
 
 ## Referencias detectadas
 

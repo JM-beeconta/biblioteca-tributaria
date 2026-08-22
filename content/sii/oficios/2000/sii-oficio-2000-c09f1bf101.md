@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-10
+- Fecha: 2000-02-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/febrero07.doc
 - Hash SHA-256: c35387a843ab879e00c1e813919827c4fb8a4b7c307020a01676ae87bfefbc3e
 
 ## Resumen
 
-Art. 2�, N� 2, Art. 23�, N� 3 - Art. 20� N� 3, de la Ley sobre Impuesto a la Renta. Word Aplicaci�n del Cr�dito Fiscal proporcional del IVA a las Instituciones Bancarias por las adquisiciones......(Of. N� 773, de 10.03.2000 � I. Indirectos) Ventas y Servicios -Nuevo Texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 9� Letra a) - Art. 20�, N� 3 de la Ley de la Renta - Art. 3�, N� 7 y 807 del C�digo de Comercio. Word Se reitera consulta sobre procedencia de Contrato de Dep�sito de Mercader�as en que actuar�a como....…
+Word Se reitera consulta sobre procedencia de Contrato de Dep�sito de Mercader�as en que actuar�a como......(Of. N� 633, de 24.02.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

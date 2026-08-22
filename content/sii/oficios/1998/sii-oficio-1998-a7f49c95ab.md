@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-05
+- Fecha: 1998-11-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov04.htm
 - Hash SHA-256: d50857b96065c2fd1a3d588451d91c2a06f80ffacf2b9d2dd580e214262ea72c
 
 ## Resumen
 
-gistro FUT - Empresa que obtiene en su gesti�n rentas... (Oficio N� 2.985, del 05.11.1998). Renta - Actual ley sobre impuesto a la - Art. 20�, N�5 Word Cesi�n del derecho de usufructo sobre un inmueble - Tributaci�n aplicable, oficio N� 485, de 1997 - Expresi�n "bienes ra�ces" se refiere a la generalidad de los bienes ra�ces... (Oficio N� 2.972, del 04.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�7 Word Disminuci�n de capital - Destinada a absolver p�rdida de arrastre de 1997, saldo se distribuir…
+04.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N�7
 
 ## Referencias detectadas
 

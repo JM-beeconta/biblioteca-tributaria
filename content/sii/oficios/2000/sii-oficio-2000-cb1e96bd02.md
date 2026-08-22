@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-28
+- Fecha: 2000-06-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/junio17.doc
 - Hash SHA-256: 35b31acbf60f3ecb59f596958ef94373cc52755002c0a8cca22c1d2496036e06
 
 ## Resumen
 
-uevo Texto � Ley sobre Impuesto de - Art. 3� Decreto Ley N� 3.475, de 1980 � Art. 4�, letra c) de Ley N� 19.589, de 1998 � Circular N� 49, de 1999. Word Entrada en vigencia de las nuevas tasas del Impuesto de Timbres y Estampillas incorporadas por Ley N� 19.589, de 1998, en relaci�n... (Of. N� 2.557, de 28.06.2000 - Depto. T�cnica Tributaria) Franquicias Tributarias - Decreto Ley N� 910 - Art. 21 (D.O. del 1� de Marzo de 1975). Word Solicita pronunciamiento en cuanto a que se determine si los contratos para realiz…
+Word Solicita pronunciamiento en cuanto a que se determine si los contratos para realizar mejoras en viviendas sociales se benefician con la franquicia del art�culo 21. (Of. N� 2.204, de 05/06/2000 - I. Indirectos)
 
 ## Referencias detectadas
 

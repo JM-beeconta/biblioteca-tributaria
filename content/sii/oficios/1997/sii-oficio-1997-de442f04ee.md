@@ -11,7 +11,7 @@
 
 ## Resumen
 
-03.htm">Renta - Actual Ley sobre Impuesto a la - Arts. 14� y 31� Efectos tributarios de la absorci�n de una sociedad an�nima extranjera. (Of. 2.179, del 22/9/97). Renta - Actual Ley Sobre Impuesto a La - Art. 59�, No. 4 T�rminos en que debe certificarse la exenci�n de Impuesto Adicional. (Of. No 2.135, del 12/09/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 31�, No. 7 - Ley 18.681, Art. 69� Limite que debe considerar para los efectos de cuantificar el monto de las donaciones que se aceptan como g…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 31�, No. 7 - Ley 18.681, Art. 69� Limite que debe considerar para los efectos de cuantificar el monto de las donaciones que se aceptan como gastos. (Of. No 2.116, del 08/09/97. I. Directos).
 
 ## Referencias detectadas
 

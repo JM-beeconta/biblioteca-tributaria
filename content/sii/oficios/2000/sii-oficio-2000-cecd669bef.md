@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-29
+- Fecha: 2000-09-26
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otros3798.doc
 - Hash SHA-256: be606502befa17a6445a93b54d3c58bc7b8186c67f3f466a0513ce2641c9bcd4
 
 ## Resumen
 
-N� 3.843, de 29.09.2000 - Depto. de T�cnica Tributaria.) C�digo Tributario - Actual Texto � Art.17� Y Art. 18�. Word Forma de determinar los resultados tributarios en el caso de contribuyentes que lleven contabilidad en moneda extranjera. (Of. N� 3.839, de 29.09.2000 � I. Directos). Beneficio Tributario � Decreto Ley N� 889, de 1975 � Art. 13�. Word Vigencia de la exenci�n tributaria, para los pensionados que residen en la XI, XII y Provincia de Chilo�. (Of. N� 3.798, de 26.09.2000 � I. Directos) Ley N� 19.622 - E…
+Word Vigencia de la exenci�n tributaria, para los pensionados que residen en la XI, XII y Provincia de Chilo�. (Of. N� 3.798, de 26.09.2000 � I. Directos)
 
 ## Referencias detectadas
 

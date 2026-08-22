@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-10-03
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/nov01.htm
 - Hash SHA-256: 584171076a1ac0136e853131120c22f276e38a894a7a00c7174bd80e89d62e5e
 
 ## Resumen
 
-Ley sobre Impuesto a la - Arts. 42�,N� 1 y 43�, N� 1 Situaci�n tributaci�n de las pensiones otorgadas en virtud de la Ley 19.169, que reglamenta los Premios Nacionales (Of. N� 2.420, del 15/10/97) Renta - Actual Ley sobre Impuesto a la - Art. 31�, N� 9 Tratamiento tributario del traspaso de gastos incurridos por un tercero (Of. N� 2.419 el 15/10/97). Renta - Actual Ley sobre Impuesto a la - Art. 14� letra a), N� 1 letra c) - C�digo tributario - Art. 69� La figura jur�dica de la fusi�n tambi�n es aplicable a las so…
+/10/97). Renta - Actual Ley sobre Impuesto a la - Art. 14� letra a), N� 1 letra c) - C�digo tributario - Art. 69� La figura jur�dica de la fusi�n tambi�n es aplicable a las sociedades de personas (Of. N� 2.389 del 13/10/97)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 62
 - Año: 2000
-- Fecha: 2000-05-17
+- Fecha: 2000-05-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo06.doc
 - Hash SHA-256: 44d44b01af82ef2d3544c27c1115eeff79881f0b52d27ab71a62682c5aa6cd26
 
 ## Resumen
 
-Tributaci�n de los retiros cuando �stos exceden el registro FUT y parte de ellos han sido reinvertidos cumpli�ndose con todos los requisitos formales para suspender su tributaci�n. ( Of. N� 1.802, de 17.05.2000 - I. Directos ) Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra A) N� 1, letra C). Word Solicitan revisi�n del criterio contenido en Oficio N� 62, de 11.01.99, en relaci�n con las obligaciones Tributarias a cumplir en caso de la divisi�n de una sociedad. ( Of. N� 1.301, de 20.05.2000 - I. Directos…
+Word Solicitan revisi�n del criterio contenido en Oficio N� 62, de 11.01.99, en relaci�n con las obligaciones Tributarias a cumplir en caso de la divisi�n de una sociedad. ( Of. N� 1.301, de 20.05.2000 - I. Directos )
 
 ## Referencias detectadas
 

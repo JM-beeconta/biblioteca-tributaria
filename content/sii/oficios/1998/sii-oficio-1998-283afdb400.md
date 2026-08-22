@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-05-12
+- Fecha: 1998-05-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/may06.doc
 - Hash SHA-256: 42b8e17a8bfa5caca42861534b6ec1c07ee01c9e3983e3502cef525927db4dfa
 
 ## Resumen
 
-r> (Oficio N� 1278, del 12.05.1998). Renta - Actual ley sobre impuesto a la - Arts. 3� y 10� Word Personas afectas a impuesto - con domicilio o residencia en Chile, sobre rentas de cualquier origen - No residentes en Chile, sobre rentas cuya fuente est� situada... (Oficio N� 1234, del 08.05.1998). Renta Actual ley sobre impuesto a la - Art. 59� Word Importaci�n de software - R�gimen tributario - Soporte intelectual - Sistema inform�tico estandarizado - Sumas remesadas al exterior por el derecho de uso - Afectos a…
+Word Importaci�n de software - R�gimen tributario - Soporte intelectual - Sistema inform�tico estandarizado - Sumas remesadas al exterior por el derecho de uso - Afectos a Impuesto... (Oficio N� 1233, del 08.05.1998).
 
 ## Referencias detectadas
 

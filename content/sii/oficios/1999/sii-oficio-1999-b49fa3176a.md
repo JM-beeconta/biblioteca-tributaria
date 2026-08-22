@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-21
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto04.htm
 - Hash SHA-256: ba2df429844d6a734b2e7ffc735f5fc36ab307c858a4a1c2eb0d43c31497c425
 
 ## Resumen
 
-span> Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, letra B) Y Art. 18�, inciso tercero y Art. 1.567 del C�digo Civil. Septiembre 1999 Word Efectos Tributarios De Resciliaci�n De Contrato De Venta De Inmueble En Relaci�n Con Normas De La Letra B) Del N� 8 Del Art�culo 17� E Inciso Tercero Del Art�culo 18�. (Oficio N� 3.516, Del 21.09.1999 - I. Directos). Renta - Actual Ley Sobre Impuesto a la - Art. 31�, N� 3, 93� y 97� - Art. 69� y 126� del C�digo Tributario - Art. 2.521 del C�digo Civil y Art. 3� de l…
+. Directos). Renta - Actual Ley Sobre Impuesto a la - Art. 31�, N� 3, 93� y 97� - Art. 69� y 126� del C�digo Tributario - Art. 2.521 del C�digo Civil y Art. 3� de la Ley N� 18.046. Agosto 1999
 
 ## Referencias detectadas
 

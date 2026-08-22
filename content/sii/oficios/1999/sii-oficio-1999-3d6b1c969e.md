@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-05
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre09.htm
 - Hash SHA-256: c3f06b64826c62ff65dbcca8974a7bc6b6648bfa293c843572882eb156d73655
 
 ## Resumen
 
-Se Construir� Una Nueva Planta Industrial. (Of. N� 3.747, Del 05.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N�S. 1 Y 3 - Art. 8� letras C) Y F), D.L. N� 825. Septiembre 1999 Word T�rmino De Giro De Un Comerciante Que Fallece Y Que Debe Realizar La Comunidad De Sus Herederos. (Of. N� 3.736, Del 04.10.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto Ley Impuesto a las - Art. 27� bis - Decreto Supremo de Hacienda N� 1.139, de 1990 (D.O. 05.01.91), Circular N� 22, d…
+ctos). Ventas y Servicios - Nuevo texto Ley Impuesto a las - Art. 27� bis - Decreto Supremo de Hacienda N� 1.139, de 1990 (D.O. 05.01.91), Circular N� 22, de 1991, Circular N� 63, de 1990. Septiembre 1999
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sp; Word Solicita pronunciamiento sobre solicitud de devoluci�n seg�n lo establecido en el art�culo 27 bis, del D.L. N� 825 y, posibilidad de solicitar certificado a Tesorer�a para imputar dicho remanente a otros impuestos que se adeuden. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Tratado de Paz, Amistad y Comercio, suscrito entre el Gobierno de Chile y Bolivia, de 1904. (Ord. N� 4774, de 12.12.2000) Word Pide se declare, que la Asociaci�n de empresarios bolivianos de transporte nacional…
+Word Pide se declare, que la Asociaci�n de empresarios bolivianos de transporte nacional e internacional, se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904�.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-10
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/marzo07.htm
 - Hash SHA-256: 51f3fd05ae91b98058015e6a276790072b854ada9f975cabf83b200e83ca7d01
 
 ## Resumen
 
-ze='1'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8�, Letra g), Art. 13 N� 3 � Art. 20� N� 3 de la Ley de la Renta � Art. 3� N� 3 del C�digo de Comercio. Word IVA que afecta a los servicios que las empresas concesionarias de terminales de aeropuertos prestan a las l�neas a�reas. (Of. 1.136, del 10.04.2000 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 5. Word Solicitan pronunciamiento sobre procedimiento alternativo de pago a proveedores, en re…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 5.
 
 ## Referencias detectadas
 

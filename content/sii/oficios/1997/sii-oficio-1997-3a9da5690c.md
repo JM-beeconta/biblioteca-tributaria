@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-12-03
+- Fecha: 1997-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/dic02.htm
 - Hash SHA-256: 4a570b5fa4fdbfd0a546928ffa8d7b10e2895f6143d47dd1b3d9abb49f7d8231
 
 ## Resumen
 
-pose�do en comunidad y procedencia de contribuyente acogido a.... (Of. N� 2.924, del 03/12/1997) . Renta - Actual Ley sobre Impuesto a la- Arts. 3� y 10� Tributaci�n del mayor valor obtenido en la enajenaci�n de solicitud de patente industrial registrada en el extranjero de propiedad de una sociedad an�nima chilena. (Of. N� 2.832 del 24/11/97). Renta - Actual Ley sobre Impuesto a la- Arts- 3�, 4� y 10� Situaci�n tributaria de artista chileno residente en el extranjero (Of. N� 2.831 del 24/11/97) Renta - Actual Ley…
+/11/97). Renta - Actual Ley sobre Impuesto a la- Arts- 3�, 4� y 10� Situaci�n tributaria de artista chileno residente en el extranjero (Of. N� 2.831 del 24/11/97)
 
 ## Referencias detectadas
 

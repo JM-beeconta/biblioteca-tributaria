@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-06-23
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jun10.htm
 - Hash SHA-256: 6d1986ea853f914b48f61ab9c197568a6e1a617987adce525013398368f4453c
 
 ## Resumen
 
-ntas y Servicios - Art�culo 24�. Ordinario N� 2653, de 23 de Junio de 1999 .- Recaudaci�n por las Municipalidades del Impuesto a la Renta de los peque�os contribuyentes de la Ley de la Renta e indicaciones para que los peque�os comerciantes puedan acogerse al r�gimen de tributaci�n simplificada del Impuesto al Valor Agregado. (Of. 2653 de 23 de junio de 1999). Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2�, N�s. 1 y 3, Y 13�, N�s 5 y 6. Junio 1999 Word Hospitales administrados por direcciones de sa…
+Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2�, N�s. 1 y 3, Y 13�, N�s 5 y 6. Junio 1999
 
 ## Referencias detectadas
 

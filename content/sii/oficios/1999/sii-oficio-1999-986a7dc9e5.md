@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-01
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto07.htm
 - Hash SHA-256: 37456ea6d9e726aadf1c140da2e3962448169198306885ebcfb2f32899b2ae70
 
 ## Resumen
 
-.1999 � I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 18�, Inciso Tercero y 17�, n� 8, letra b). Agosto 1999 Word Presunci�n de habitualidad establecida en el inciso tercero del art�culo 18�, en caso de enajenaci�n en derechos o cuotas sobre bienes ra�ces y la adquisici�n de tales bienes por donaci�n. (Oficio N� 3.303, del 01.09.1999 - I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 45� y 46� - Art. 6�, letra b, N� 9 del C�digo Tributario. Agosto 1999 Word Momento en que debe considerarse…
+ctos). Renta � Actual Ley Sobre Impuesto a la � Art. 45� y 46� - Art. 6�, letra b, N� 9 del C�digo Tributario. Agosto 1999
 
 ## Referencias detectadas
 

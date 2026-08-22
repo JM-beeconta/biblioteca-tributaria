@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tratamiento tributario de la enajenaci�n del derecho de usufructo sobre un bien ra�z agr�cola. (Of. 485 del 04/03/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 97� Acerca del plazo en que se debe solicitar la devoluci�n de cr�ditos a favor del contribuyente, con motivo del t�rmino de giro. (Of. No 329, del 10/02/97. I. Directos) . Renta � Ley sobre Impuesto a la � Art. 31 inciso 4�, N� 9, Art. 41. Periodo tributario en que deben rebajarse como gasto las cuotas de arriendo de un bien inmueble adqu…
+) . Renta � Ley sobre Impuesto a la � Art. 31 inciso 4�, N� 9, Art. 41. Periodo tributario en que deben rebajarse como gasto las cuotas de arriendo de un bien inmueble adquirido mediante un contrato leasing. (Ord. N� 297, de 05/02/1997)
 
 ## Referencias detectadas
 

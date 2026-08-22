@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-06-23
+- Fecha: 1999-08-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/jul09.doc
 - Hash SHA-256: d41482bc497723e5f186f8fa2aa7bea746a285965fa8b30486920e4a0434f0e1
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto Ley Impuesto a las � Art. 36� - Art. 18� de la Ordenanza de Aduanas. Agosto 1999 Word Reimportaci�n de mercanc�as por cuya venta al exterior el exportador ha recuperado el impuesto IVA. (OF. N� 3.279, del 30.08.1999 - I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a las� Art. 23�. ,Julio 1999 Word IVA en venta de suministros efectuados a la European Southern Observatory (E.S.O).(Of. N� 3.113, del 11.08.1999 � I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impue…
+Word IVA en venta de suministros efectuados a la European Southern Observatory (E.S.O).(Of. N� 3.113, del 11.08.1999 � I. Indirectos).
 
 ## Referencias detectadas
 

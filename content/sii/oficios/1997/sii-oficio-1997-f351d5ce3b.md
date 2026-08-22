@@ -11,7 +11,7 @@
 
 ## Resumen
 
-impuestos al Valor Agregado y Ley de la Renta. (Of. No 911, del 28/04/97. I. Directos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2 y 8, Letras G) y M), Mayo 1997 Aplicaci�n del Impuesto a las Ventas y Servicios en la cesi�n de servidumbre de aguas, en cesi�n de servidumbres de pasto de l�neas el�ctricas y en venta de l�neas el�ctricas. (Of. No862, del 22/04/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 37� y 40�, Mayo 1997 Art�culos de adornos para damas, confeccionados c…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 37� y 40�, Mayo 1997 Art�culos de adornos para damas, confeccionados con oro, se gravan con el impuesto adicional establecido en los Arts. 37� y 40� del D.L. No 825, de 1974. (Of. No778, del 14/04/97. I. Indirectos)
 
 ## Referencias detectadas
 

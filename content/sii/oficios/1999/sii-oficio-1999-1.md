@@ -11,7 +11,7 @@
 
 ## Resumen
 
-obra por suma alzada � Costo de construcci�n se encuentra... (Oficio N� 1844, del 05.05.1999) Renta - Actual ley sobre impuesto a la - Art. 59�, N� 2 Mayo 1999 Word Trabajos de ingenier�a o asesor�as t�cnica en general � Prestados por empresa extranjera � Impuesto Adicional con tasa 20% - Impuesto con car�cter de �nico a la renta... (Oficio N� 1.843, del 05.05.1999) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 16 Y 31�, N� 6 � Ventas y servicios � Nuevo texto ley impuesto a las - Art. 23�, N� 1. Mayo 199…
+05.05.1999) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 16 Y 31�, N� 6 � Ventas y servicios � Nuevo texto ley impuesto a las - Art. 23�, N� 1. Mayo 1999
 
 ## Referencias detectadas
 

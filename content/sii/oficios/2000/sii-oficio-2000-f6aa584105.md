@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-10
+- Fecha: 2000-04-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja1083.htm
 - Hash SHA-256: 91ecdd932b084aa870ce1485592963d5297c799040283d21a0f193c8f61240ae
 
 ## Resumen
 
-e='arial' size='2'> Renta - Actual Ley Sobre Impuesto a la -� Art. 57� bis � Oficio N� 1.354, de 1997. (Ord. N� 1139, de 10.04.2000) Word Personas que pueden hacer uso de los beneficios tributarios del art�culo 57 bis de la Ley de la Renta en el caso de acciones en custodia. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 57� bis � C�digo Tributario, Art. 64� - Oficio N� 2.687, de 1998. (Ord. N� 1.083, de 03.04.2000) Word Efectos tributarios de la disoluci�n de una sociedad de responsabilidad limitada y po…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 57� bis � C�digo Tributario, Art. 64� - Oficio N� 2.687, de 1998. (Ord. N� 1.083, de 03.04.2000)
 
 ## Referencias detectadas
 

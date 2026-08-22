@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-29
+- Fecha: 2000-06-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/julio10.doc
 - Hash SHA-256: c615cbcb3391adddfa6d861d3f62f15725ee6dbd6a1a52485391069d283b8f30
 
 ## Resumen
 
-a las - Art. 37, Art. 40� - Ley N� 18.840. Art. 39�, inciso 3�. Word Aplicaci�n del Impuesto al Valor Agregado e Impuesto Adicional, a la venta posterior de productos con contenido de oro met�lico adquirido a pirquinero...(Of. N� 2.584, de 29.06.2000 - I. Indirectos). Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 3�, Art. 64� -D.S. N� 55, de 1977, Art. 2�, Art. 78� - Ley N� 18.320 (D.O. 17.07.1984). Word Aplicaci�n de la Ley N� 18.320, a los agentes retenedores del impuesto al valor agregado que no…
+Word Aplicaci�n de la Ley N� 18.320, a los agentes retenedores del impuesto al valor agregado que no han declarado o que han subdeclarado...(Of. N� 2.406, de 21.06.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

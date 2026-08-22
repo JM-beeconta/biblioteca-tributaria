@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-04
+- Fecha: 2000-12-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta06.doc
 - Hash SHA-256: f78e1069ffead32837060249301ed58376adb91b0b81ab456e0a86a176684810
 
 ## Resumen
 
-='renta/renta07.doc'>Word Situaci�n Tributaria de Los Honorarios Boleteados por Los Socios de Sociedades de Profesionales por Servicios Prestados a sus Respectivas Sociedades. ( Of. N� 4.694, de 04.12.2000. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 3� - Ley N� 19.420, de 1995. Word Usuarios de Los Centros de Exportaci�n de Acuerdo a la Ley N� 19.669, Del 2.000 Se Encuentran Afectos O No Al Impuesto de Primera Categor�a de la Ley de la Renta y por Ende Obligados a Efectuar Pagos Provisional…
+Word Usuarios de Los Centros de Exportaci�n de Acuerdo a la Ley N� 19.669, Del 2.000 Se Encuentran Afectos O No Al Impuesto de Primera Categor�a de la Ley de la Renta y por Ende Obligados a Efectuar Pagos Provisionales Mensuales. ( Of. N� 4.656, de 01.12.2000. I. Directos).
 
 ## Referencias detectadas
 

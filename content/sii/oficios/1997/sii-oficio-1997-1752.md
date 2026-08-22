@@ -11,7 +11,7 @@
 
 ## Resumen
 
-efectuadas en agencias o establecimientos permanentes. (Of. No 1.872, del 22/08/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra B) y 20�, No. 1, Letra B) Situaci�n tributaria de la enajenaci�n de bienes ra�ces agr�colas no incorporadas al activo, por encontrarse �stos en litigio. (Of. No 1.754, del 05/08/97. I. Directos). Ley de Impuesto a la Renta. Art�culo 54. Ordinario N� 1752, de 05 de Agosto de 1997.- Efectos tributarios del incremento por concepto de Impuesto de Primera Cate…
+s). Ley de Impuesto a la Renta. Art�culo 54. Ordinario N� 1752, de 05 de Agosto de 1997.- Efectos tributarios del incremento por concepto de Impuesto de Primera Categor�a. (Of. N�1752, de 05 de agosto de 1997. I. Directos)
 
 ## Referencias detectadas
 

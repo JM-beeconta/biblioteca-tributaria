@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a el contrato de venta... (Oficio N� 783, del 23.03.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 16, Word Gastos de representaci�n - Tratamiento tributario - No constituyen rentas las sumas percibidas, siempre que dichos gastos est�n establecidos en la ley - Interpretaci�n y... (Oficio N� 738, del 17.03.1998). Ley de Impuesto a la Renta. Art�culos 17�, 18�, 20� y 39� Complementa dictamen sobre bienes ra�ces no agr�colas cuya renta de explotaci�n es igual o inferior al 11% del aval�o fiscal. (Oficio…
+Ley de Impuesto a la Renta. Art�culos 17�, 18�, 20� y 39� Complementa dictamen sobre bienes ra�ces no agr�colas cuya renta de explotaci�n es igual o inferior al 11% del aval�o fiscal. (Oficio N� 639, de 06 de Marzo de 1998)
 
 ## Referencias detectadas
 

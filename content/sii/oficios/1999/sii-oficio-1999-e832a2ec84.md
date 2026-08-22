@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-09-08
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto05.htm
 - Hash SHA-256: adc3767ff4a891aa4a9b8a4d58c390f5522a0f9ff8409a3b8810ab5c113f50fa
 
 ## Resumen
 
-Directos). Renta - Actual Ley Sobre Impuesto a la - Art. 31�, N� 4, Inciso 2�, del C�digo Tributario. Agosto 1999 Word Situaci�n tributaria de las indemnizaciones por a�os de servicios pagadas por empresas que reconocen la antig�edad de trabajadores ocurrida en otras empresas de las cuales son sus continuadoras legales. (Oficio N� 3.374, del 08.09.1999 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 41� y art. 24� del Decreto Ley N� 3.063, de 1979. Agosto 1999 Word Determinaci�n del capital propio pa…
+. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 41� y art. 24� del Decreto Ley N� 3.063, de 1979. Agosto 1999
 
 ## Referencias detectadas
 

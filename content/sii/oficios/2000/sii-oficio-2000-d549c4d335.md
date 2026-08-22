@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-18
+- Fecha: 2000-02-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero04.doc
 - Hash SHA-256: d5f8a1eeeaa2785b55dde5d18978cadedf1072b54989fd57fd824089adf07a82
 
 ## Resumen
 
-Aplicaci�n de IVA e Impuesto a la Renta a Empresas Inmobiliarias (Of. N� 587 del 18.02.2000. I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 13� - Art. 46� - Art. 161 al 163 - Art. 172� y Art. 178� del C�digo del Trabajo - Circular N� 10, de 1999, N� 29, de 1991 y N� 37 de 1990. Word Tributaci�n de Indemnizaciones pactadas en Contratos Colectivos y canceladas conjuntamente con... (Oficio N� 575, del 17.02.2000 - I. Directos) Renta - Actual Ley sobre Impueto a la - Art. 17�, N� 8, Art. 64� del C�…
+Word Tributaci�n de Indemnizaciones pactadas en Contratos Colectivos y canceladas conjuntamente con... (Oficio N� 575, del 17.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

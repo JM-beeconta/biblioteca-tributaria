@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-17
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo08.htm
 - Hash SHA-256: e2d9ad1483b50604b14a9ea5088934e59e161e368feb5beebada05f7dd982aba
 
 ## Resumen
 
-mayo09.htm'>Renta - Actual Ley sobre Impuesto a la - Art. 41 bis. Word Solicita se indique el procedimiento que corresponde aplicar en la Declaraci�n Anual de Impuesto a la Renta, en el c�lculo de los intereses de dep�sitos en d�lares. ( Of. N� 1.261, de 17.04.2000 - I. Directos ) Renta - Actual Ley sobre Impuestos a la - Art. 17� N� 11, Art. 20 N� 4. Word Situaci�n Tributaria de los cobros realizados por Colegios por concepto de cuotas de Incorporaci�n, matr�culas y mensualidades. ( Of. N� 1.297, de 20.04.2000 -…
+Renta - Actual Ley sobre Impuestos a la - Art. 17� N� 11, Art. 20 N� 4.
 
 ## Referencias detectadas
 

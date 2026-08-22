@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-25
+- Fecha: 1999-05-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may19.htm
 - Hash SHA-256: 43d2b44939ea85f816ef0aeca5d3a568bb8bd65b14b844aa0c54a884f9a9a73a
 
 ## Resumen
 
-No se encuentran gravados con impuesto al ...Oficio N� 2.235, del 25.05.1999 Ventas y servicios - Nuevo texto ley impuesto a las - Art. 8�, Letra i) Mayo 1999 Word Estacionamiento de autom�viles � Playas de estacionamiento u otros lugares destinados a dicho fin � Ingresos percibidos por dicho concepto, gravados con Impuesto al Valor Agregado...(Oficio N� 2.093, del 13.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Art. 13�, N� 4 Mayo 1999 Word Emisi�n de certificados de estudios y de alumno regula…
+13.05.1999). Ventas y servicios - Nuevo texto ley impuesto a las - Art. 13�, N� 4 Mayo 1999
 
 ## Referencias detectadas
 

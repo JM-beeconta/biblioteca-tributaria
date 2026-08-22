@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-19
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras01.htm
 - Hash SHA-256: 9d409e30e51008ceb229ff2c5325e6f9f8d7a52b0b91363f4d96e4eb864f0df5
 
 ## Resumen
 
-justify"> Franquicias Tributarias � Decreto Ley N� 910, de 1975 � Art. 21� - Art. 1�, Art.2�, Art. 8�, Art. 55� del Decreto Ley N� 825, de 1974 � Art. 17� N� 1�, Art.29� de la Ley de la Renta. Word Aplicaci�n del IVA, Impuesto a la Renta y Cr�dito Especial del Art. 21� del D. Ley N� 910, en Venta y Promesas de Venta de Inmuebles Destinados a la Habitaci�n. (Of. N� 4.853, de 19.12.2000 � I. Directos) . C�digo Tributario � Actual Texto � Art. 69� - Circular N�50, de 1986. Word Se Solicita la Devoluci�n de Impuesto P…
+. Directos) . C�digo Tributario � Actual Texto � Art. 69� - Circular N�50, de 1986.
 
 ## Referencias detectadas
 

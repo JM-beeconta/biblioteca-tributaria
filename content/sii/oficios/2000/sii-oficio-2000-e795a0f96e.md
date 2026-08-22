@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-26
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio05.htm
 - Hash SHA-256: 6bac729e00e31ac062b8ae082d0d3c2bbbfd4473afd018810f466f426eb7bcae
 
 ## Resumen
 
-ALIGN='JUSTIFY'> Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, Art. 13�, N� 3 - Art. 20�, N� 3 de la Ley sobre Impuesto a la Renta - Of. Circular N� 1439, de 03.05.89. Word Impuesto al Valor Agregado que afecta al Transporte de Pacientes en ambulancia y el Servicio consistente en promocionar a diferentes instituciones ... ( Of. N� 1.357, del 26.04.2000 - I. Directos ) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, N� 3, Art. 36�, inciso 4� - D.S. N� 348, del Mini…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 23�, N� 3, Art. 36�, inciso 4� - D.S. N� 348, del Ministerio de Econom�a, Fomento y Reconstrucci�n - Art. 43�, del D.S. de Hacienda N� 55.
 
 ## Referencias detectadas
 

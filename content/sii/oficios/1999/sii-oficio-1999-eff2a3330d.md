@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-05-06
+- Fecha: 1999-05-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/may06.htm
 - Hash SHA-256: 1c46d61833acf2517c3670b2432e8800f8132df6ac57af580df4f28b9483db2d
 
 ## Resumen
 
-Devengamiento en m�s de un per�odo habitual de... (Oficio N� 2.080, del 12.05.1999). Renta - Actual ley sobre impuesto a la - Art. 14�. Mayo 1999 Word Sociedades An�nimas Abiertas � Emisoras acciones de pago � Adquiridas con utilidades acogidas al beneficio de la reinversi�n � Sociedad receptora debe registrar tales sumas en registro... (Oficio N� 2.037, del 11.05.1999) Renta - Actual ley sobre impuesto a la - Art. 18� Mayo 1999 Word Cr�as o acciones liberadas � Incrementan el n�mero de acciones de propiedad del c…
+11.05.1999) Renta - Actual ley sobre impuesto a la - Art. 18� Mayo 1999
 
 ## Referencias detectadas
 

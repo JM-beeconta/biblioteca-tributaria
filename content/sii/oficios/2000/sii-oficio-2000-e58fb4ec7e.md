@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-10
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero11.htm
 - Hash SHA-256: 9da98dcd9ebcacda254ec9a69d7e88510032a072988da9ea4bfdc6ed0bef4b93
 
 ## Resumen
 
-n='JUSTIFY'> Renta - actual ley sobre impuesto a la - Art. 59�, N� 3. Word Impuesto adicional que afecta a las primas sobre reaseguros convenidas con empresas no establecidas en Chile (Of. N� 509, del 10.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 59�, N� 2, inciso 4� - Art. 233 y 235 del codigo de comercio. Word Solicita se confirme que eventual comisi�n que deba pag�rsele desde Chile a empresa comisionista extranjera, no domiciliada en el pa�s, est� amparada por el Art. 59�, N� 2, inciso…
+Renta - actual ley sobre impuesto a la - Art. 59�, N� 2, inciso 4� - Art. 233 y 235 del codigo de comercio.
 
 ## Referencias detectadas
 

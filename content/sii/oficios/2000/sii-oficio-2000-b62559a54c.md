@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-30
+- Fecha: 2000-10-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4130.doc
 - Hash SHA-256: 55a4e06b436b6b407f56504e8c60f47effc077910bf9ea9506d61d1326cf7d1d
 
 ## Resumen
 
-Tributario, Art 64� - Circular 68, de 1996. (Ord. N� 4154, de 30.10.2000) Word Valor en que deben aportarse los bienes en el caso de reorganizaci�n de empresas. Renta - Actual Ley Sobre Impuesto a la � Art. 59�, N�1. (Ord. N� 4130, de 25.10.2000) Word Calidad de Banco, de instituci�n que se indica para tributaci�n de intereses conforme a lo dispuesto por el N� 1 del inciso cuarto del art�culo 59, de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 41� A. (Ord. N� 4123, de 24.10.2000) Word Proceden…
+Word Calidad de Banco, de instituci�n que se indica para tributaci�n de intereses conforme a lo dispuesto por el N� 1 del inciso cuarto del art�culo 59, de la Ley de la Renta.
 
 ## Referencias detectadas
 

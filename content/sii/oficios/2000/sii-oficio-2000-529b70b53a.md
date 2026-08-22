@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-14
+- Fecha: 2000-10-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/noviembre10.doc
 - Hash SHA-256: 9bc878d7a9ea2edb155bf5460bbbd0f0d007b75b168e5ce8974d46030ebf562a
 
 ## Resumen
 
-t. 2� N� 2, Art. 8�, - Art. 20� N� 3� de la Ley de la Renta - Art. 3� N� 7, del C�digo de Comercio. Word Aplicaci�n del impuesto al valor agregado en Contrato de Administraci�n de la Cartera Hipotecaria deudores SERVIU. (Of. N� 3.715, de 14.09.2000 - I. Indirectos) Ventas y servicios � nuevo texto � Ley Impuesto a las � Art. 36� � Decreto Supremo de economia N� 348�, de 1975 � Circular N� 12�, de 10.02. 2000. Word Solicita pronunciamiento sobre procedimiento de recuperaci�n de Cr�dito fiscal, efectuado por empresa…
+Word Solicita pronunciamiento sobre procedimiento de recuperaci�n de Cr�dito fiscal, efectuado por empresa titular de una concesi�n portuaria. (of. N� 4.119, de 24.10.2000 � i. Indirectos)
 
 ## Referencias detectadas
 

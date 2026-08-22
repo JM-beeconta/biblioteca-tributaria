@@ -11,7 +11,7 @@
 
 ## Resumen
 
-- D.F.L. N�2, de 1997, Art. 2�, N�2. (Ord. N� 4620, de 29.11.2000) Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto adicional a las bebidas alcoh�licas, analcoh�licas y otras similares, a bebidas de fabricaci�n nacional adquiridas en otros pa�ses. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 16�, letra h) � Circular N� 44, de 1996. (Ord. N� 4619, de 29.11.2000) Word Tratamiento tributario de los subsidios en las concesiones de obras p�blicas. Ventas y Servici…
+Word Tratamiento tributario de los subsidios en las concesiones de obras p�blicas.
 
 ## Referencias detectadas
 

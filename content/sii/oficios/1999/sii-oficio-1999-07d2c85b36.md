@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-16
+- Fecha: 1999-04-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/abr07.doc
 - Hash SHA-256: 280f39373e1b96e4f27908e81e89c2dabfcd0f92d062e183d72897ccc989c7f4
 
 ## Resumen
 
-"JUSTIFY"> Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Instrumentos de ahorro que pueden acogerse al mecanismo establecido en el Art. 57� bis de la Ley de la Renta � Acciones emitidas por sociedades an�nimas abiertas que cumplan ciertas condiciones... (Oficio N� 1.474, del 16.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59�, N� 4 Abril 1999 Word Impuesto adicional que afecta a naves extranjeras por fletes mar�timos � Exenci�n sobre base de reciprocidad � Facultad de emitir certi…
+Word Impuesto adicional que afecta a naves extranjeras por fletes mar�timos � Exenci�n sobre base de reciprocidad � Facultad de emitir certificado de dicha norma, est� radicada en... (Oficio N� 1179, del 08.04.1999).
 
 ## Referencias detectadas
 

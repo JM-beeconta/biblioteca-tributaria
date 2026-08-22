@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uperar el Impuesto Adicional, como pago provisional mensual, por asesor�as t�cnicas pagadas por exportadores, vinculados con bienes del activo fijo. (Of. No 504, del 05/03/97. I. Directos). Personal Fuerzas Armadas - Estatuto del - Art. 115� Y 118�, Marzo 1997 Tratamiento tributario a ciertas asignaciones que favorecen al personal de las Fuerzas Armadas. (Of. No 408, del 12/02/97. I. Directos). Timbres y Estampillas - Nuevo Texto Ley de Impuestos de - Art. 24�, No. 9, Febrero 1997 Acerca de aplicaci�n del Impuesto…
+. Directos). Timbres y Estampillas - Nuevo Texto Ley de Impuestos de - Art. 24�, No. 9, Febrero 1997 Acerca de aplicaci�n del Impuesto de Timbres y Estampillas a operaci�n denominada "Apertura de L�nea de Cr�dito Destinada a cubrir pago de boletas de Garant�a". (Of. No 377, del 14/02/97. I. Indirectos).
 
 ## Referencias detectadas
 

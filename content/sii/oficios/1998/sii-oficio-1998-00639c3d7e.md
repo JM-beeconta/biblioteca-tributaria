@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-08-05
+- Fecha: 1998-08-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago09.doc
 - Hash SHA-256: 349c12a3d47907df9e72d462d7b6f66feea71ea8040be14a7ee82b6783ae5638
 
 ## Resumen
 
-09.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2. Agosto 1998 Word Servicios administrativos de apoyo a la contrataci�n de seguros - Criterio de aplicabilidad del IVA en Oro. N� 2.741, de 1997 - Bolet�n del Servicio de Impuestos Internos Diciembre 1997... (Oficio N� 2.077, del 05.08.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2. Agosto 1998 Word Custodia de archivos y documentos valorados - Mandato eminentemente civil - Remuneraci�n clasificada en el N� 5, del Ar…
+Word Custodia de archivos y documentos valorados - Mandato eminentemente civil - Remuneraci�n clasificada en el N� 5, del Art. 20� de la Ley de la Renta - No gravada con Impuesto... (Oficio N� 2.066, del 04.08.1998).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� - Art. 97� N� 2� del C�digo Tributario. Word Contribuyentes obligados a presentar una declaraci�n de impuesto. (Of. N� 3.880, de 03.10.2000 � I. Directos.) Renta - Actual Ley sobre Impuesto a la - Art. 59�, Art. 74� N� 4�, Art. 79�. Word Solicitud de devoluci�n de impuesto adicional retenido a empresa extranjera domiciliada en Chile, por remesa a intereses correspondientes a cr�ditos externos. (Of. N� 3.879, de 03.10.2000- I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 20� N�1� al 5�, Art. 39� N� 4�…
+Word Solicitud de devoluci�n de impuesto adicional retenido a empresa extranjera domiciliada en Chile, por remesa a intereses correspondientes a cr�ditos externos. (Of. N� 3.879, de 03.10.2000- I. Directos)
 
 ## Referencias detectadas
 

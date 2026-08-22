@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-08
+- Fecha: 1999-10-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre02.doc
 - Hash SHA-256: 9f860cc66a02611f3bd3b6dbc23826434c1ad7632ec9a9d244e265f7210284f8
 
 ## Resumen
 
-ze="2"> Renta � Ley sobre Impuesto a la � Art. 17, N�13, Art. 20 N� 2, Art. 39 inciso final, Art. 73 - Circular N� 29, de 1991. Situaci�n tributaria de pr�stamos otorgados por la empresa a sus trabajadores, los cuales posteriormente podr�n compensarse con las indemnizaciones por a�os de servicio. (Ord. N� 4065, de 08.11.1999). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 1, letra b) - Ley N� 18.985 (D.O. 28.06.90). Octubre 1999 Word Partici�n de una sucesi�n hereditaria dentro de la cual existe un bien ra…
+Word Partici�n de una sucesi�n hereditaria dentro de la cual existe un bien ra�z agr�cola que se encuentra en renta efectiva y uno de los herederos es agricultor y est� bajo el sistema de renta presunta. (Oficio N� 4.101, de 10.10.1999 - I. Directos).
 
 ## Referencias detectadas
 

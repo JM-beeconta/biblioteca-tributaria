@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta - Actual Ley Sobre Impuesto a La - Art. 20�, No. 4 - Impuesto a Las Ventas y Servicios - Art. 2�, No. 2 - C�digo Tributario - Arts. 66�, 68� y 69� Impuestos a la Renta y al Valor Agregado, y otras obligaciones tributarias que afectan a las actividades de establecimientos subvencionados de educaci�n secundaria. (Of. No 1.480, del 08/07/97. I. Indirectos). Renta - Actual Ley Sobre Impuesto a La - Art. 57� Bis Personas que puedan hacer uso de los beneficios tributarios del Art. 57� bis, en el caso de acciones e…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 57� Bis Personas que puedan hacer uso de los beneficios tributarios del Art. 57� bis, en el caso de acciones en custodia. (Of. No 1.354, del 24/06/97. I. Directos).
 
 ## Referencias detectadas
 

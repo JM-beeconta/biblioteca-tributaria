@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e tributaci�n - Decreto Supremo N� 32 de RR.EE de 1986, Noviembre 1997 Tributaci�n que afecta a trabajadores extranjeros que realizan actividades en Chile. (Of. 2.685 del 31/10/97) C�digo Tributario - Actual texto - Art. 51�, Noviembre 1997 Imputaci�n de remanentes de PPM y cr�dito por gastos de capacitaci�n en caso de fusi�n de sociedades an�nimas. (Of. N� 2.632 del 31/10/97). Franquicias Tributarias - Decreto Ley N� 910 - Art. 21�, Noviembre 1997 Aplicaci�n del cr�dito especial en proyectos de Gobierno Regional.…
+l 31/10/97). Franquicias Tributarias - Decreto Ley N� 910 - Art. 21�, Noviembre 1997 Aplicaci�n del cr�dito especial en proyectos de Gobierno Regional. (Of. N� 2.630 del 31/10/97)
 
 ## Referencias detectadas
 

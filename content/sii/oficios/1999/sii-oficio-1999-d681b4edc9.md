@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-16
+- Fecha: 1999-11-24
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/noviembre12.doc
 - Hash SHA-256: 7b8c722b71c4bb31bc4bb1fabd999e9c3158fc6cbeba49a17d30be913ac20287
 
 ## Resumen
 
-25, de 1974 - Dto. de Ministerio de Hacienda N� 311, Art. 2�, de 1986. Diciembre 1999 Word Impuesto espec�fico al petr�leo diesel - Establecimientos hospitalarios dependientes del Servicio de Salud - Impuesto soportado en las adquisiciones de combustibles que realizan para sus centrales t�rmicas. (Oficio N� 4558, del 16.12.1999). Franquicias Tributarias - Decreto Ley N� 2.564, de 1979 - Art. 8�. Noviembre 1999 Word Solicita se precise el sujeto a quien corresponde el uso del beneficio tributario establecido en el…
+Word Solicita se precise el sujeto a quien corresponde el uso del beneficio tributario establecido en el Art. 8� del D.L. N� 2.564, de 1979, en el caso de importaci�n de aeronaves que son arrendadas a un explotador comercial. (Of. N� 4.250, del 24.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

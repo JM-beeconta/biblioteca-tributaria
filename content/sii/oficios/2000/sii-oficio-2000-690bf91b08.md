@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-03-10
+- Fecha: 2000-03-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/febrero13.doc
 - Hash SHA-256: 7208b5d34752af83da577b709d0ab589d6139320db6630a37f5a0b55179cf704
 
 ## Resumen
 
-ustify"> Franquicias Tributarias - Ley N� 18.392, Art. 11� y 12� (D.O. 14.01.1985). Word Solicita se confirme criterio contenido en Of. N� 708, de 28.02.86, a trav�s del cual se dej� establecido que... (Of N� 774 de 10 de marzo de 2000) Ley N� 19.622, establece beneficio Tributario por Adquisici�n de Viviendas Nuevas acogidas a normas del D.F.L. N� 2, (D.O. 31.07.59). Word Obligaci�n establecida en la Res. Ex. N� 8.145, D.O. 11.12.99, de informar a este Servicio y de certificar... (Of N� 695 de 01 de marzo de 2000…
+Word Obligaci�n establecida en la Res. Ex. N� 8.145, D.O. 11.12.99, de informar a este Servicio y de certificar... (Of N� 695 de 01 de marzo de 2000).
 
 ## Referencias detectadas
 

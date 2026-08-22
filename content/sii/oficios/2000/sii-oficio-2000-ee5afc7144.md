@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-10
+- Fecha: 2000-02-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero05.doc
 - Hash SHA-256: b9bbbea2e136f62187fbc605f2872f7516f5031d01802f245806bfc8079e803a
 
 ## Resumen
 
-ansferidos v�a reinversi�n de acuerdo al art�culo 14�, letra A, N� 1, letra c). (Of. N� 508, del 10.02.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art.20, N� 3, Art. 29 al 33. Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art.2� N� 1 y 3, Art. 8� letra e). Word Aplicaci�n de IVA e Impuesto a la Renta a Empresas Inmobiliarias (Of. N� 587 del 18.02.2000. I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 13� - Art. 46� - Art. 161 al 163 - Art. 172� y Art. 178� del C�digo de…
+Word Aplicaci�n de IVA e Impuesto a la Renta a Empresas Inmobiliarias (Of. N� 587 del 18.02.2000. I. Directos)
 
 ## Referencias detectadas
 

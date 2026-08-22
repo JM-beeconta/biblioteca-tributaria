@@ -11,7 +11,7 @@
 
 ## Resumen
 
-La - Art. 17�, No. 8 Tratamiento tributario de la enajenaci�n de acciones efectuadas por personas naturales. (Of. No 1.049, del 15/05/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 20, No. 1 y 31 No. 3 Valorizaci�n de activos en el caso de permuta de inmuebles entre sociedades. (Of. No 954, del 07/05/97. I. Directos). Ley sobre impuesto a la Renta-Art. 41 N�9 Determinaci�n del resultado tributario en la enajenaci�n de derechos sociales efectuada por contribuyentes obligados a determinar su renta e…
+rectos). Ley sobre impuesto a la Renta-Art. 41 N�9 Determinaci�n del resultado tributario en la enajenaci�n de derechos sociales efectuada por contribuyentes obligados a determinar su renta efectiva mediante contabilidad completa. (Of. N� 953 de 07-05-1997).
 
 ## Referencias detectadas
 

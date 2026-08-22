@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-01-18
+- Fecha: 1999-01-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene08.doc
 - Hash SHA-256: c7059a93bd5847fd5d6ffef344613c950050570b7fd567a2db691951a62c9e98
 
 ## Resumen
 
-USTIFY"> Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, Letra b) y 18�. Enero 1999 Word Enajenaci�n no habitual de bienes ra�ces � No constituye renta el mayor valor incluido el reajuste del saldo de precio obtenido en la enajenaci�n � Excepto respecto de... (Oficio N� 112, del 18.01.1999). Renta - Actual ley sobre impuesto a la - Art. 31�, N� 2 Enero 1999 Word Actividad parcialmente exenta del Impuesto al Valor Agregado � Compras destinadas a operaciones gravadas y exentas � Utilizaci�n del cr�dito fis…
+Word Actividad parcialmente exenta del Impuesto al Valor Agregado � Compras destinadas a operaciones gravadas y exentas � Utilizaci�n del cr�dito fiscal en forma proporcional... (Oficio N� 102, del 15.01.1999).
 
 ## Referencias detectadas
 

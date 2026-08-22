@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4065
 - Año: 1999
-- Fecha: 1999-11-10
+- Fecha: 1999-11-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ord_4065.pdf
 - Hash SHA-256: 52a10179f7400a9e14badc92bc2a9eee0241732ef9818e1df595e19b019dd9fd
 
 ## Resumen
 
-999 Word Interpretaci�n del Servicio, a la frase "dependiendo si son del mismo g�nero, calidad y caracter�sticas", relativa al ajuste por correcci�n monetaria de los bienes adquiridos en el segundo o primer semestre del ejercicio y si se contabilizan los precios unitarios al equivalente en d�lares norteamericanos utilizados por las Aduanas en la liquidaci�n de los derechos de importaci�n respectivos. (Oficio N� 4.102, de 10.11.1999 - I. Directos). Renta � Ley sobre Impuesto a la � Art. 17, N�13, Art. 20 N� 2, Art.…
+Directos). Renta � Ley sobre Impuesto a la � Art. 17, N�13, Art. 20 N� 2, Art. 39 inciso final, Art. 73 - Circular N� 29, de 1991. Situaci�n tributaria de pr�stamos otorgados por la empresa a sus trabajadores, los cuales posteriormente podr�n compensarse con las indemnizaciones por a�os de servicio. (Ord. N� 4065, de 08.11.1999).
 
 ## Referencias detectadas
 

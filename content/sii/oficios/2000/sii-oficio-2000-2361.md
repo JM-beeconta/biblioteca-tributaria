@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2361
 - Año: 2000
-- Fecha: 2000-02-29
+- Fecha: 2000-03-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/febrero08.doc
 - Hash SHA-256: 4748f7baae60dbe23154054aff6b953ebdb59ad0227b72e3e47daae35bdebee5
 
 ## Resumen
 
-Nuevo Texto - Ley Impuesto a las - Art. 8� Letra e), Art. 16�, Letra c) - Art�culo 1996 del C�digo Civil Febrero 2000. Word Consulta si los gastos realizados por el constructor de un inmueble, por cuenta de su mandante en un...(Of. N� 663, del 29.02.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley de Impuesto a las - Art. 2�, N� 2, Art. 23�, N� 3 - Art. 20� N� 3, de la Ley sobre Impuesto a la Renta. Word Aplicaci�n del Cr�dito Fiscal proporcional del IVA a las Instituciones Bancarias por las adquisicio…
+Word Aplicaci�n del Cr�dito Fiscal proporcional del IVA a las Instituciones Bancarias por las adquisiciones......(Of. N� 773, de 10.03.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

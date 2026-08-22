@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-17
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo18.htm
 - Hash SHA-256: d723c88fde361b1a5b09511a133131782a5b4c4d4d2b8bc8bb74dcec14ed59f5
 
 ## Resumen
 
-17.04.2000 - I. Directos ). Ley N� 19.542, de 1997 � Art�culo 4� Transitorio � Art. 178 del C�digo del Trabajo � Art. 17� N� 13 de la Ley sobre Impuesto a la Renta � Art. 126 del C�digo Tributario. Word Tratamiento tributario de indemnizaci�n por a�os de servicio establecida en el art�culo 4� transitorio de la ley antes se�alada. (Of. N� 1.140, del 10.04.2000 � I. Directos). Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 3� - Decreto Ley N� 3.475, de 1980 - Art. 53� y siguientes - Art. 109, inc…
+. Directos). Timbres y Estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 3� - Decreto Ley N� 3.475, de 1980 - Art. 53� y siguientes - Art. 109, inciso 2� y Art. 200� del C�digo Tributario.
 
 ## Referencias detectadas
 

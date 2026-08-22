@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-20
+- Fecha: 2000-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero12.htm
 - Hash SHA-256: 7e98c6a488d723849655b27830990f91560abdbc6563ed0a5ff62ec61bcb51c9
 
 ## Resumen
 
-nstrucciones para la procedencia de la exenci�n del impuesto adicional establecido en el inciso 1� del N� 2, del Art. 59� de la Ley de la Renta, es aplicable a la situaci�n contemplada en el N� 6, del mismo art�culo, y si dicho criterio se mantiene a�n luego de las modificaciones al Compendio de Normas de Cambios Internacionales. (Of. N� 145, de 20.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 59�, N� 3. Word Impuesto adicional que afecta a las primas sobre reaseguros convenidas con empresas…
+Renta - actual ley sobre impuesto a la - Art. 59�, N� 3.
 
 ## Referencias detectadas
 

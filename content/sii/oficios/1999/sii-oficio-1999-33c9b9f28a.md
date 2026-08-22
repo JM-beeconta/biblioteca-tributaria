@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-10
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre02.htm
 - Hash SHA-256: 2b379fb767c2c86154b36acc3865fb1b9913ca0aab7df7463603d4ccbb763541
 
 ## Resumen
 
-de los derechos de importaci�n respectivos. (Oficio N� 4.102, de 10.11.1999 - I. Directos). Renta � Ley sobre Impuesto a la � Art. 17, N�13, Art. 20 N� 2, Art. 39 inciso final, Art. 73 - Circular N� 29, de 1991. Situaci�n tributaria de pr�stamos otorgados por la empresa a sus trabajadores, los cuales posteriormente podr�n compensarse con las indemnizaciones por a�os de servicio. (Ord. N� 4065, de 08.11.1999). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 1, letra b) - Ley N� 18.985 (D.O. 28.06.90). Octubre…
+1999). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N� 1, letra b) - Ley N� 18.985 (D.O. 28.06.90). Octubre 1999
 
 ## Referencias detectadas
 

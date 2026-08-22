@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tes consultas: a) tributo al cual estar�a afecto....(Of. N� 2.563, de 29.06.2000 - I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 18�, Art. 58�, N� 1 - Art. 103� de Ley N� 13.305, modificado por el Art�culo 18� de la Ley N� 16.773 - Art�culo 64� del C�digo Tributario - Circular N� 158, de 1976. Word Reorganizaci�n empresarial, respecto del accionista controlador cuyo objeto es aportar las acciones a una nueva sociedad, con el fin de constituir una sociedad ...(Of. N� 2.564, de 29.06.2000 - I. Directos)…
+Word Reorganizaci�n empresarial, respecto del accionista controlador cuyo objeto es aportar las acciones a una nueva sociedad, con el fin de constituir una sociedad ...(Of. N� 2.564, de 29.06.2000 - I. Directos)
 
 ## Referencias detectadas
 

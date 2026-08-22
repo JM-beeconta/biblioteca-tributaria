@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-11-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/renta10.doc
 - Hash SHA-256: 8039d20ba31b3c54f64e2203699bbfee675a2e269f85f87e0ceb53dcb182ef5f
 
 ## Resumen
 
-71�, de 1998. Word Beneficio Tributario Del Art�culo 57� Bis de la Ley de la Renta Respecto de Los Dep�sitos a Plazo. (Of. N� 4.622, de 29.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 57�Bis - Circular N� 71�, de 1998. Word Efectos Tributarios de Los Dep�sitos a Plazo Acogidos Al Art. 57� Bis de la Ley de la Renta. (Of. N� 4.586, de 28.11.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 33� - D.F.L. N� 2� de 1998 Del Min. de Educacion, Art. 5� - Circular N� 91, de 1980. Wor…
+Word Efectos Tributarios de Los Dep�sitos a Plazo Acogidos Al Art. 57� Bis de la Ley de la Renta. (Of. N� 4.586, de 28.11.2000 � I. Directos)
 
 ## Referencias detectadas
 

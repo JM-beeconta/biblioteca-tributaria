@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-07-30
+- Fecha: 1998-07-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago11.htm
 - Hash SHA-256: 28dec2639d734a49236b7a3bdc2949370077bc925e7ffb963eb5c6b9b9307a1c
 
 ## Resumen
 
-ducacionales - No procede exenci�n Art. 13� , N� 4, del D.L. N� 825... (Oficio N� 2.023, del 30.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2 y 13� , N� 7 Agosto 1998 Word Ex�menes de laboratorio - Actividad comprendida en el N� 4, del Art. 20� , de la Ley de la Renta - Servicio constituye un hecho gravado con IVA - Exenci�n que favorece a las personas... (Oficio N� 2.010, del 29.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 9� Y 23�. Agosto 1998 Word Anticipo a pro…
+del 29.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 9� Y 23�. Agosto 1998
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-30
+- Fecha: 2000-05-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/junio16.doc
 - Hash SHA-256: 2d67524ff34c2aedfa1e91beb8333a742271dc69706a4487d7342e3424dc82e1
 
 ## Resumen
 
-de 1999. Word Cr�dito tributario de la Ley Austral en relaci�n con las inversiones efectuadas para dar cumplimiento al Art. 12� transitorio de la Ley N� 18.892, General de Pesca y Acuicultura. (Of. N� 2.102, de 30/05/2000 - I. Directos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2 (D.O. 31/07/1959) - Circular N� 46, de 1999 - Art. 1707 del C�digo Civil. Word Forma de acogerse al beneficio tributario que establece Ley N� 19.622, cuando no se…
+Word Forma de acogerse al beneficio tributario que establece Ley N� 19.622, cuando no se estipul� cl�usula que dejara constancia del deseo de acogerse a dicha franquicia. (Of. N� 1.997, de 23/05/2000 - I. Directos).
 
 ## Referencias detectadas
 

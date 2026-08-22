@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ucciones Circular N� 29, de 1991, publicada en Bolet�n del Servicio, mes de Mayo... (Oficio N� 537, del 13.02.1998) Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, letra b) Y 20�, N� 1, Word Bienes ra�ces no agr�colas - Renta igual o inferior al 11% del aval�o fiscal - Personas naturales o jur�dicas excepto sociedades an�nimas... (Oficio N� 522, del 13.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 2�, N� 6 y 17�, N� 8, Letra h), Word Sociedad contractual y legal minera - Sociedades de personas…
+13.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 2�, N� 6 y 17�, N� 8, Letra h),
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enta3065.htm">Renta - actual ley sobre impuesto a la - Art. 20�, N� 1, letra d) Word Rentas de bienes ra�ces no agr�cola - Renta efectiva - Contabilidad fidedigna - Contabilidad completa o simplificada - Personas naturales que explotan bienes ra�ces no agr�colas en... (Oficio N� 3065, del 22.12.1997) Renta - actual ley sobre impuesto a la -Art. 41�, B, Word Agencia o sucursal en el extranjero, de sociedad chilena - Contabilizaci�n y resultado tributario - Determinaci�n del resultado tributario - Impuesto adicional…
+Word Agencia o sucursal en el extranjero, de sociedad chilena - Contabilizaci�n y resultado tributario - Determinaci�n del resultado tributario - Impuesto adicional... (Oficio N� 3064, del 22.12.1997).
 
 ## Referencias detectadas
 

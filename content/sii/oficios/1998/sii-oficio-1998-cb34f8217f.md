@@ -11,7 +11,7 @@
 
 ## Resumen
 
-A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 1998 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Venta y servicios - Nuevo texto impuesto a las - Arts. 8� Diciembre 1998 Word Gastos notariales, de cobranza y de administraci�n del cr�dito � Acceden a operaciones de cr�dito de dinero cuyos intereses se encuentran exentos de IVA � Cr�dito otorgado... (Oficio N� 3.204, de 24.11.1998). Ventas y servicios - Nuevo texto…
+Word Gastos notariales, de cobranza y de administraci�n del cr�dito � Acceden a operaciones de cr�dito de dinero cuyos intereses se encuentran exentos de IVA � Cr�dito otorgado... (Oficio N� 3.204, de 24.11.1998).
 
 ## Referencias detectadas
 

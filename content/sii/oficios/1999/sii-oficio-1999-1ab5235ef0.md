@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-17
+- Fecha: 1999-11-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre10.doc
 - Hash SHA-256: b94ddab78d53d31261d97864e931d1d7b1f7fd7169f04737b7693522c747e2d5
 
 ## Resumen
 
-, Art. 8� Y Art. 20, N� 3 Y 4. Octubre 1999 Word Impuesto al Valor agregado que afecta a la actividad de "turismo rural" prestado por familias campesinas, como actividad estacional y cuyos ingresos son complementarios al obtenido en la producci�n agr�cola. (Of. N� 4.179, de 17.11.1999 - I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Arts. N�s. 2�, N� 2, Art. 8� y Art. 20�, N� 3. Octubre 1999 Word Impuesto al Valor Agregado que afecta al servicio de administraci�n de edificios, prestado por…
+Word Impuesto al Valor Agregado que afecta al servicio de administraci�n de edificios, prestado por una sociedad que tributa en primera categor�a y cuya labor remunerada consiste en atender diversas materias relativas al funcionamiento de los inmuebles administrados como son: aseo, mantenci�n, recaudaci�n de gastos comunes, etc. (Of. N� 4.155, de 16.11.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

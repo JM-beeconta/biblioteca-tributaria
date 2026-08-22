@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-03-19
+- Fecha: 1999-03-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/mar01.htm
 - Hash SHA-256: aa764a5cdc0f26cd9cae710ec77193e65dac7beabe39931637698299ab35fc5f
 
 ## Resumen
 
-e se realiza en el plano econ�mico... (Oficio N� 690, del 19.03.1999). Renta - Actual ley sobre impuesto a la Art. 17�, N� 3 Abril 1999 Word Indemnizaciones por a�os de servicio � Contribuyente legalmente obligado a pagar por haber adquirido calidad de empleador en una relaci�n laboral preexistente � Derecho a deducirla como gasto... (Oficio N� 684, del 18.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 1, N� 2, 20�, N� 5 Y 41� a Marzo 1999 Word Sociedad an�nima cerrada con domicilio en Chile � Contrato d…
+18.03.1999). Renta - Actual ley sobre impuesto a la - Arts. 1, N� 2, 20�, N� 5 Y 41� a Marzo 1999
 
 ## Referencias detectadas
 

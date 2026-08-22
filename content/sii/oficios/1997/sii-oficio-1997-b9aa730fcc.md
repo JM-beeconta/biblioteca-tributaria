@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5 - Art. 5� Transitorio, Agosto 1997 Tasaci�n comercial del predio agr�cola a que se refiere la letra c) del no 1 del Art. 5� transitorio de la ley 18.985, de 1990. (Of. No 1.502 de 09/07/97 i. Directos). Ley 18.985 - Art. 5� Transitorio, Agosto 1997 Situaci�n tributaria del mayor valor obtenido en el caso de enajenaci�n de bienes ra�ces. (Of. No 1.501, del 09/07/97. I. Directos). Franquicias Tributarias - Ley 18.566, Art. 8., Junio 1997 Competencia del Servicio de Impuestos Internos, respecto del procedimiento de…
+. Directos). Franquicias Tributarias - Ley 18.566, Art. 8., Junio 1997 Competencia del Servicio de Impuestos Internos, respecto del procedimiento de c�lculo de la cotizaci�n adicional de salud a que se refiere el Art. 8�, de la Ley 18.566. (Of. No 1.154, del 03/06/97. I. Directos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os Internos a contribuyentes para evitar la doble tributaci�n entre Chile y Argentina. (Of. N� 2.231 del 25/9/97 Timbres y Estampillas - Nuevo Texto Ley sobre Impuesto de - Art. 24� N� 11, Octubre 1997 Exenci�n del Impuesto de Timbres y Estampillas que favorece a los pagar�s con que se documentan los anticipos de dinero percibidos por la exportaci�n de mercanc�as. (Of. N� 2.229 del 25/9/97) C�digo Del Trabajo - Art. 68�, Septiembre 1997 Situaci�n tributaria de sumas pagadas por concepto de feriado adicional. (Of.…
+del 25/9/97) C�digo Del Trabajo - Art. 68�, Septiembre 1997 Situaci�n tributaria de sumas pagadas por concepto de feriado adicional. (Of. No 2.117, del 08/09/97. I. directos).
 
 ## Referencias detectadas
 

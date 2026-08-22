@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-31
+- Fecha: 2000-09-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/octubre07.doc
 - Hash SHA-256: 65e62ae546ae6fc16b04a9e5b8f1033925045293ce2f573ae2c69f2c1e8d3024
 
 ## Resumen
 
-htm'>Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996. Word Tratamiento tributario aplicable a los ingresos complementarios percibidos con motivo de contratos de Concesi�n de Obras P�blicas. (Of. N� 3.501, de 31.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 55�. Word Solicita se informe acerca de la oportunidad en que deben emitirse las facturas en virtud de un contrat…
+Word Solicita se informe acerca de la oportunidad en que deben emitirse las facturas en virtud de un contrato de construcci�n. (Of. N� 3.836, de 29.09.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

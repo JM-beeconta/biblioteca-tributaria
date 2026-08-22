@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-27
+- Fecha: 2000-11-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4529.htm
 - Hash SHA-256: 67319a37f1fc997a1918ff51220cc428a03c813dde5ef251939cf50039b9b8fa
 
 ## Resumen
 
-2 letra A) N� 1 del D.L. N� 825. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2� - Ley N� 18.660, de 1987, Art. 7�, Art. 8� - Decreto Ley N� 1092, de 1975, Art. 3�. (Ord. N� 4567, de 27.11.2000) Word Beneficios tributarios que favorecen a la Mutual de Carabineros de Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�. (Ord. N� 4529, de 23.11.2000) Word Impuesto al Valor Agregado en servicios prestados a Isapres y; Pronunciamiento acerca del procedimient…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 55�. (Ord. N� 4529, de 23.11.2000)
 
 ## Referencias detectadas
 

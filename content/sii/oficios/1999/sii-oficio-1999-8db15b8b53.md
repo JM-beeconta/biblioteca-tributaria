@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-19
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/septiembre10.htm
 - Hash SHA-256: 499bc67c946bf2d1ae717b0ba927995d22460ab0ac0439e1fe7f7316298b6d43
 
 ## Resumen
 
-ce="arial" size="2"> Ley N� 19.622 - Establece beneficio tributario por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999. Octubre 1999 Word Sentido y alcance de la expresi�n "propietario" si se refiere al propietario del terreno a entregar en garant�a hipotecaria o al que ser� propietario de la vivienda a construir. (Of. N� 3.892, de 19.10.1999 - I. Directos). Timbres y estampillas - Nuevo texto Ley sobre Impuesto de - Art. 1�, N�3, Art. 2� - Art. 9�, D.L.…
+ctos). Timbres y estampillas - Nuevo texto Ley sobre Impuesto de - Art. 1�, N�3, Art. 2� - Art. 9�, D.L. N� 3.475, de 1980. Septiembre 1999
 
 ## Referencias detectadas
 

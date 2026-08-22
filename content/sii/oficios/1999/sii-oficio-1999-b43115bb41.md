@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-08-24
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/jun08.htm
 - Hash SHA-256: 2794e51b0e1905513bb03fdeb011827cd7d5579259e124f03734846cbb446848
 
 ## Resumen
 
-divisi�n de empresas y la distribuci�n de inmuebles a las empresas nuevas que con motivo de ella se crean. (OF. N� 3.211, del 24.08.1999 - I. Indirectos). Otros Textos Legales - Ley N� 19.622. (D.O. 29.07.99) Y D.F.L. N� 2 (D.O. 31.07.59). Julio 1999 Word Concepto de vivienda nueva acogida a normas del DFL N� 2. (Of. N� 3.117, del 11.08.1999 � I. Directos). Fondo de Inversi�n de capital extranjero - Ley N� 18.657 � ART. 14�, Letra b) Junio 1999 Word Fondo de Inversi�n de Capital Extranjero � Inversiones al amparo…
+ctos). Fondo de Inversi�n de capital extranjero - Ley N� 18.657 � ART. 14�, Letra b) Junio 1999
 
 ## Referencias detectadas
 

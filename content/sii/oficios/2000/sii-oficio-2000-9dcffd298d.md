@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-02-03
+- Fecha: 2000-02-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero07.doc
 - Hash SHA-256: a078517626b0bf157cad44918c6cc691d2366a893aad3ff108685cba5ef5d377
 
 ## Resumen
 
-Consulta si una empresa de corretaje de seguros que tributa en primera categor�a podr�a cambiar su tributaci�n bajo las normas de la segunda categor�a. (Of. N� 450, del 03.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 20�, N� 1 y N� 3 - circulares N�s. 58 y 63, de 1990 y 22, de 1991 Word Tributaci�n aplicable a empresa due�a de un predio agr�cola cuyo giro ser� la producci�n de huevos enteros, l�quidos y en polvo. (Of. N� 380, del 01.02.2000 - I. Directos) Renta - actual ley sobre impuesto a…
+Word Tributaci�n aplicable a empresa due�a de un predio agr�cola cuyo giro ser� la producci�n de huevos enteros, l�quidos y en polvo. (Of. N� 380, del 01.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

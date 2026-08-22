@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-16
+- Fecha: 1999-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/diciembre19.htm
 - Hash SHA-256: 76bb2d85b351601a19524a61bd9921301cabea41abd0f617a401d4c80d975787
 
 ## Resumen
 
-"0" width="630"> A�os Anteriores OTRAS 1999 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Ley N� 18.502 - Art. 6� y 7� - Impuesto a los Combustibles - Art. 13�, N� 5 - Art. 24� D.L. N� 825, de 1974 - Dto. de Ministerio de Hacienda N� 311, Art. 2�, de 1986. Diciembre 1999 Word Impuesto espec�fico al petr�leo diesel - Establecimientos hospitalarios dependientes del Servicio de Salud - Impuesto soportado en las adquisiciones de combustibles que…
+Ley N� 18.502 - Art. 6� y 7� - Impuesto a los Combustibles - Art. 13�, N� 5 - Art. 24� D.L. N� 825, de 1974 - Dto. de Ministerio de Hacienda N� 311, Art. 2�, de 1986. Diciembre 1999
 
 ## Referencias detectadas
 

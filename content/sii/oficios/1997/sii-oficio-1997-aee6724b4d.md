@@ -11,7 +11,7 @@
 
 ## Resumen
 
-encia de las facultades del Servicio de Impuestos Interno con el beneficio establecido en el Art. 21�, del Estatuto de Capacitaci�n y Empleo. (Of. No 1.782, del 11/08/97) Decreto Supremo No. 348, de Econom�a - Texto Refundido - Art. 6�, Septiembre 1997 Oportunidad legal para requerir el beneficio tributario previsto en el Art. 13�, de la Ley 18.768. (Of. No 1.775, del 11/08/97. I. Directos) Franquicias Tributarias - DFL No. 341, de 1977 - de Hacienda - Art. 23�, Agosto 1997 IVA, en construcci�n, confecci�n e insta…
+I. Directos) Franquicias Tributarias - DFL No. 341, de 1977 - de Hacienda - Art. 23�, Agosto 1997 IVA, en construcci�n, confecci�n e instalaci�n de especialidades, dentro del recinto de zona franca. (Of. No 1.713, del 29/07/97. I. Indirectos).
 
 ## Referencias detectadas
 

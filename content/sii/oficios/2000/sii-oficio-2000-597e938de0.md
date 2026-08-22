@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-28
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/junio15.htm
 - Hash SHA-256: 08ba02fc194ba55728e9cba38708c425e8fe4da53fd4512230ee5aa6a98030b7
 
 ## Resumen
 
-laci�n... (Of. N� 2.557, de 28.06.2000 - Depto. T�cnica Tributaria) Franquicias Tributarias - Decreto Ley N� 910 - Art. 21 (D.O. del 1� de Marzo de 1975). Word Solicita pronunciamiento en cuanto a que se determine si los contratos para realizar mejoras en viviendas sociales se benefician con la franquicia del art�culo 21. (Of. N� 2.204, de 05/06/2000 - I. Indirectos) Ley N� 19.606, Art. 1� y 4�, Cr�dito Tributario de la Ley Austral - Ley N� 18.892, General de Pesca y Acuicultura - Art. 12� Transitorio -Circular N�…
+Indirectos) Ley N� 19.606, Art. 1� y 4�, Cr�dito Tributario de la Ley Austral - Ley N� 18.892, General de Pesca y Acuicultura - Art. 12� Transitorio -Circular N� 66, de 1999.
 
 ## Referencias detectadas
 

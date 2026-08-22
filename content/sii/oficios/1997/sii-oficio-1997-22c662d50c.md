@@ -11,7 +11,7 @@
 
 ## Resumen
 
-miales a sociedades comerciales en formaci�n. Alcances de las instrucciones de la circular No 68, de 1996. (Of. No 696, del 04/04/97. I. Directos). Rentas Municipales - Actual Ley Sobre - Art. 47� Requisitos que deben reunir las fundaciones para recibir donaciones al amparo de la ley sobre Rentas Municipales. (Of. No 571, del 14/03/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra B) Tratamiento tributario de la enajenaci�n del derecho de usufructo sobre un bien ra�z agr�cola. (Of.…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 17�, No. 8, Letra B) Tratamiento tributario de la enajenaci�n del derecho de usufructo sobre un bien ra�z agr�cola. (Of. 485 del 04/03/97. I. Directos).
 
 ## Referencias detectadas
 

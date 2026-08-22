@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-01
+- Fecha: 2000-05-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio01.doc
 - Hash SHA-256: 8cbf1df17b2c872e043517cf334c26bf73323a3f561868b3cfb512e499bcc036
 
 ## Resumen
 
-as y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2�, Art. 3�, Art. 8 - Art. 5� Ley de Impuesto a la Renta - Art. 69� del C�digo Tributario. Word Aplicaci�n del Impuesto al Valor Agregado a la cesi�n de derechos hereditarios que se efectar�n como aporte a la creaci�n de una sociedad comercial. (Of. N� 2.169, del 01/06/2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2. Word Se solicita un pronunciamiento sobre procedimiento utilizado por un administrador de edificios…
+Word Se solicita un pronunciamiento sobre procedimiento utilizado por un administrador de edificios de oficinas para cobrar gastos comunes. (Of. N� 1995, del 23/05/2000 - I. Indirectos)
 
 ## Referencias detectadas
 

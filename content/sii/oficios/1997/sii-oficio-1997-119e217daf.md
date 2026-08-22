@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Abril 1997 Derechos cobrados por la direcci�n de Vialidad por el uso de la faja de los caminos y otras obras viales. (Of. No 566, del 14/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, Nos. 1 y 3, Marzo 1997 Venta de sitios agr�colas urbanizados, aplicaci�n del Impuesto a las Ventas y Servicios. (Of. No 516, del 07/03/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2� y 8�, Letra I), Marzo 1997 Cobro de derechos de anden y uso de losas, efectuado…
+Indirectos). Ventas y Servicios - Nuevo Texto Impuesto a Las - Art. 2�, No. 2� y 8�, Letra I), Marzo 1997 Cobro de derechos de anden y uso de losas, efectuado por administradores de lugares de terminal de recorridos de buses interprovinciales, a empresas de transporte usuarias de ellos, aplicaci�n del Impuesto a las Ventas y Servicios. (Of. No 483, del 04/03/97. I. Indirectos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-10
+- Fecha: 2000-05-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/mayo15.doc
 - Hash SHA-256: f225f4c16e7f15e930a8194841dda50cb7b031890760679ea436b41afaf65004
 
 ## Resumen
 
-impuesto �nico de segunda categor�a en el caso de una empresa extranjera, sin domicilio, residencia, ni representante legal ...(Of. N� 1.141, del 10.04.2000 � I. Directos) Renta - Actual Ley sobre Impuesto a la - Art. 84 letra A) - Circular N� 16, de 1991 - Circular N� 52, de 1993 - Circular N� 82, de 1976. Word Situaci�n Tributaria de Rentas provenientes del exterior frente a la obligaci�n de efectuar pagos provisionales mensuales. ( Of. N� 1.529, de 10.05.2000 - I Directos ) Renta - Actual Ley sobre Impuesto a l…
+Word Situaci�n Tributaria de Rentas provenientes del exterior frente a la obligaci�n de efectuar pagos provisionales mensuales. ( Of. N� 1.529, de 10.05.2000 - I Directos )
 
 ## Referencias detectadas
 

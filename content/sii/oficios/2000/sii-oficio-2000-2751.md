@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2751
 - Año: 2000
-- Fecha: 2000-01-14
+- Fecha: 2000-02-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/enero01.doc
 - Hash SHA-256: 4d043c9991ac86ad5e523ab846ff4cb7e1973a7b33fa95833636dc826706b45e
 
 ## Resumen
 
-se refiere a los efectos tributarios de la divisi�n de una sociedad de responsabilidad limitada, cre�ndose a consecuencia de la divisi�n, una sociedad an�nima. (Of. N� 100, del 14.01.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 14�, letra a) N� 1, letra c) - Art. 64� del C�digo Tributario Word Solicita se confirme la vigencia del criterio contenido en el oficio N� 2751, del a�o 1997, en lo que dice relaci�n con la valorizaci�n de los activos al momento de ser transferidos v�a reinversi�n de ac…
+Word Solicita se confirme la vigencia del criterio contenido en el oficio N� 2751, del a�o 1997, en lo que dice relaci�n con la valorizaci�n de los activos al momento de ser transferidos v�a reinversi�n de acuerdo al art�culo 14�, letra A, N� 1, letra c). (Of. N� 508, del 10.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

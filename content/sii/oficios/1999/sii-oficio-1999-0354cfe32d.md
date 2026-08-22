@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Directos). Fondo de Inversi�n de capital extranjero - Ley N� 18.657 � ART. 14�, Letra b) Junio 1999 Word Fondo de Inversi�n de Capital Extranjero � Inversiones al amparo del D.L. N� 600, de 1974, o el art�culo 47� de la Ley Org�nica del Banco Central de Chile � Excepciones � Remesa al exterior del capital aportado no podr� efectuarse... (Oficio N� 2.563, del 15.06.1999) Ley de donaciones con fines culturales - Contenida en el Art. 8�, Ley N� 18.985. Mayo 1999 Word Beneficiarios o donatarios � Requisitos que deben…
+15.06.1999) Ley de donaciones con fines culturales - Contenida en el Art. 8�, Ley N� 18.985. Mayo 1999
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-01-13
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/ene03.htm
 - Hash SHA-256: e114d7e6e1af3fd3f6629f6c91181a156524bd3c9ce5d4cd6c64eb090f0a5aca
 
 ## Resumen
 
-r Agregado que afecta a los ingresos obtenidos por un gimnasio. (Of. N� 65 de 13.01.1997). Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - Art. 12, Letra E), No. 13., Enero 1997 Los servicios de porteo, estiba y desestiba, necesarios para la exportaci�n de productos se encuentran exentos del IVA, en su cobro a las empresas navieras extranjeras. (Of. N� 37, del 8/1/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - ART. 23, No. 1., Enero 1997 Utilizaci�n como cr�dito fiscal del IVA, rec…
+Indirectos). Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - ART. 23, No. 1., Enero 1997 Utilizaci�n como cr�dito fiscal del IVA, recargado en la factura respectiva, por la adquisici�n de veh�culos nuevos efectuada por una Compa��a de Seguro para ser entregado en pago de indemnizaciones. (Of. N� 18, del 7/1/97. I. Directos).
 
 ## Referencias detectadas
 

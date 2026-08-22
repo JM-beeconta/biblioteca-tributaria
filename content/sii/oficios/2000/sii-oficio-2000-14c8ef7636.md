@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-01-31
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/enero26.htm
 - Hash SHA-256: 6c3dc9a2b24f0710de390c39d97868e7cba633ace111546f595dc08152a6e199
 
 ## Resumen
 
-ular N� 29, de 1999. (Of. N� 364, de 31.01.2000 - I. Directos) Donaciones Efectuadas a Instituciones a que qe refiere el DFL N� 1, de 1986. Word Instituci�n solicita autorizaci�n para ser considerada donataria apta para recibir donaciones susceptibles de descuentos tributarios y emitir los certificados pertinentes. (Of. N� 363, del 31.01.2000 - I. Directos) Ley N� 19.622- establece beneficio tributario por adquisici�n de viviendas nuevas acogidas a normas del DFL N� 2. (D.O. 31.07.59) - circular N� 46, de 1999. Wo…
+I. Directos) Ley N� 19.622- establece beneficio tributario por adquisici�n de viviendas nuevas acogidas a normas del DFL N� 2. (D.O. 31.07.59) - circular N� 46, de 1999.
 
 ## Referencias detectadas
 

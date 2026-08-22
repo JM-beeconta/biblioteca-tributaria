@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-07
+- Fecha: 2000-11-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4216.doc
 - Hash SHA-256: b5918ab388fe6cc7dca4f779b5af24c97aa404b3a5f7c9687b629f45ab206a8c
 
 ## Resumen
 
-'2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley de la Renta, Art. 20�, N� 3 y N�4, Art. 39, N�3. (Ord. N� 4274, de 07.11.2000) Word Tributaci�n de IVA y Renta a ingresos que se�ala. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 23�, Art. 42�, Art. 43� - C�digo Tributario, Art. 97�, N�10. (Ord. N� 4216, de 06.11.2000) Word Solicita se confirme criterio en relaci�n a la aplicaci�n del Impuesto Adicional a las Bebidas Alcoh�licas, debido a la es…
+Word Solicita se confirme criterio en relaci�n a la aplicaci�n del Impuesto Adicional a las Bebidas Alcoh�licas, debido a la especial forma de facturar los productos transferidos.
 
 ## Referencias detectadas
 

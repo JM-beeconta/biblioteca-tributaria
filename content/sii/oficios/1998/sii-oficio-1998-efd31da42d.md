@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-20
+- Fecha: 1998-02-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar04.doc
 - Hash SHA-256: c27025d1e9f966ef214d1346a4206fc1f3dc83485f6fae2e65ae509f528537f9
 
 ## Resumen
 
-renta. (Oficio N� 564, del 20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 41� BIS Y 101� Word Cuentas de ahorro para el arrendamiento de viviendas con promesas de compraventa - Ley N� 19.281, reglamentada por D.S. N� 1.334, de 1995... (Oficio N� 563, del 20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 10 Word Compa��as de Seguros - Rentas vitalicias financiadas con fondos previsionales o privados del contratante - Reserva obligatoria m�nima legal - D.F.L. N� 251,... (Oficio N� 557, d…
+Word Compa��as de Seguros - Rentas vitalicias financiadas con fondos previsionales o privados del contratante - Reserva obligatoria m�nima legal - D.F.L. N� 251,... (Oficio N� 557, del 18.02.1998).
 
 ## Referencias detectadas
 

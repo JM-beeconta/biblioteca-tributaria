@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-11-11
+- Fecha: 1999-11-03
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/otras/octubre12.doc
 - Hash SHA-256: 350d6474fe8299fbee55ed389b64cd418336321d79500f4901a2144384c1d206
 
 ## Resumen
 
-a la Renta - Circular N� 143, de 1972. Octubre 1999 Word Derecho que les asiste a las comunidades de copropietarios sometidas al r�gimen de copropiedad inmobiliaria reguladas por la Ley N� 19.537, de acogerse a la franquicia tributaria por gastos de capacitaci�n establecido en el Estatuto de Capacitaci�n y Empleo. (Of. N� 4.116, del 11.11.1999 - I. Directos). C�digo de Aguas - Actual texto - ART. 257 Y 258. Octubre 1999 Word Tributaci�n a que estar�a afecta una Asociaci�n de canalistas cuyos ingresos se componen p…
+Word Tributaci�n a que estar�a afecta una Asociaci�n de canalistas cuyos ingresos se componen por los cobros de cuotas a socios y por operaciones realizadas con una empresa el�ctrica por el traspaso de aguas en ciertas temporadas del a�o. (Of. N� 4.030, del 03.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

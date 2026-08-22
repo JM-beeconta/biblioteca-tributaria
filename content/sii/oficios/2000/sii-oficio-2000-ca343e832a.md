@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-30
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/julio14.htm
 - Hash SHA-256: be8100c962d5ca5cdacc4c991f4e5e0305ca6fbab7a8c22967ce2a1852231f53
 
 ## Resumen
 
-. (Of. N� 2.608, de 30.06.2000 - I. Indirectos). Ley N� 19.622 - establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de 1999. Word Contribuyentes que tienen derecho al beneficio tributario establecido por la Ley N� 19.622, de 1999. (Of. N� 2.569, de 29.06.2000 - I. Directos). Timbres y Estampillas - Nuevo Texto � Ley sobre Impuesto de - Art. 3� Decreto Ley N� 3.475, de 1980 � Art. 4�, letra c) de Ley N� 19.589, de 1998 � Circula…
+. Directos). Timbres y Estampillas - Nuevo Texto � Ley sobre Impuesto de - Art. 3� Decreto Ley N� 3.475, de 1980 � Art. 4�, letra c) de Ley N� 19.589, de 1998 � Circular N� 49, de 1999.
 
 ## Referencias detectadas
 

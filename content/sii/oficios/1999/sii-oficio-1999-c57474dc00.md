@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-14
+- Fecha: 1999-12-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/Diciembre05.htm
 - Hash SHA-256: c15092c8b72b27efab99dbbfaf9e2571658dda63eefd671dcf7183fb027c6717
 
 ## Resumen
 
-renta presunta. (Oficio N� 4.520, del 14.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8, Letra a). Diciembre 1999 Word Permuta de acciones - Divisi�n de sociedad - Operaci�n motivo de la cual se constituir�a una nueva sociedad - Patrimonio se distribuir�a por partes iguales entre ambas sociedades. (Oficio N� 4.360, del 01.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Circular N� 158, de 1976. Diciembre 1999 Word Divisi�n de sociedad an�nima - Constituyendo en el acto de div…
+01.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 8 - Circular N� 158, de 1976. Diciembre 1999
 
 ## Referencias detectadas
 

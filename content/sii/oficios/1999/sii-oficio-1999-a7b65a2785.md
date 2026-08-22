@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-22
+- Fecha: 1999-04-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/may15.doc
 - Hash SHA-256: 89ace2afdd68d3da032b6421c14b0136cf02f0b8bf4c88c78295b1a0db889e48
 
 ## Resumen
 
-">Ventas y servicios - Nuevo texto ley impuesto a las - Arts. 2� Y 8� Mayo 1999 Word Contrato general de construcci�n � Obras a ejecutar en Embajada de pa�s extranjero en Chile � Afecto a Impuesto al Valor Agregado � Franquicias establecidas en Convenci�n sobre Relaciones Diplom�ticas no son aplicables al caso. Oficio N� 1.539, del 22.04.1999 Venta y servicios - Nuevo texto ley impuesto a las - Arts. 2� N� 1 Y 8� Mayo 1999 Word Sociedad de profesionales � Construcci�n de inmuebles encomendado a constructora a suma…
+Word Sociedad de profesionales � Construcci�n de inmuebles encomendado a constructora a suma alzada � Venta de oficinas a sus socios � Transferencia no afecta a IVA... Oficio N� 1.528, del 21.04.1999
 
 ## Referencias detectadas
 

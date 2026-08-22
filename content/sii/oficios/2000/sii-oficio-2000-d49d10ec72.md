@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 4�, Art. 33� de la Ley de la Renta. Word Situaci�n Tributaria de la Subvenci�n Recibida por Los Colegios Del Estado y sus Gastos Asociados. (Of. N� 4.608, de 29.11.2000 � I. Directos). Ley N� 19.281, de 1993 � Leasing Habitacional � Modificada por Ley N� 19.406, de 1995 � Decreto Supremo de Hacienda N� 1.334, de 1996 � Franquicia Tributaria Establecida en Ley N� 19.622 � Ley N� 19.578, de 1998, Art. 5� Transitorio. Word Tributaci�n de Rentas Pagadas por Instituciones Acogidas Al Leasing Habitacional. (Of. N� 4.…
+Word Tributaci�n de Rentas Pagadas por Instituciones Acogidas Al Leasing Habitacional. (Of. N� 4.607, de 29.11.2000 � I. Directos)
 
 ## Referencias detectadas
 

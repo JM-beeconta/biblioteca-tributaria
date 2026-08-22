@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2.2000) Word Pide se declare, que la Asociaci�n de empresarios bolivianos de transporte nacional e internacional, se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904�. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 128�. (Ord. N� 4713, de 06.12.2000) Word Consulta sobre devoluci�n de IVA solicitada en caso de recargo y pago indebido. Ventas y Serv…
+Word Consulta sobre devoluci�n de IVA solicitada en caso de recargo y pago indebido.
 
 ## Referencias detectadas
 

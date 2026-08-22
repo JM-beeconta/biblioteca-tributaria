@@ -11,7 +11,7 @@
 
 ## Resumen
 
-butaci�n que afecta a comunidad que se forma de liquidaci�n de una sociedad de responsabilidad limitada. (Of. No 1.264, del 13/06/97 I. Directos). Rentas Municipales - Actual Ley Sobre - Art. 46�. Requisitos que deben cumplir los para acogerse a los beneficios del Art. 46�, del DL No 3.063, sobre Ley de Rentas Municipales. (Of. No 1.213, del 10/06/97. I. Directos). Renta - Actual Ley Sobre Impuesto a La - Art. 31�, No. 5, Imposibilidad de depreciar terrenos conforme a las normas establecidas en la Ley de Renta. (O…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Art. 31�, No. 5, Imposibilidad de depreciar terrenos conforme a las normas establecidas en la Ley de Renta. (Of. No 1.190, del 06/06/97 I. Directos).
 
 ## Referencias detectadas
 

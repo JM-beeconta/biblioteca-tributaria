@@ -11,7 +11,7 @@
 
 ## Resumen
 
-I. Directos ). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas acogidas a Normas del D.F.L. N� 2 ( D.O. 31.07.59 ) - Circular N� 46, de 1999. Word Personas que tienen derecho a la Franquicia Tributaria por la Adquisici�n de Viviendas nuevas acogidas a las normas de D.F.L. N� 2, de 1959. (Of. N� 1.411, de 28.04.2000 - I. Directos ) Ley N� 19.578 - Art. 3� Transitorio - Art. 31� N� 5 - Art. 41� N� 2 de la Ley de la Renta - Circular N� 49, de 1998. Word Alcance que debe darse al c…
+. Directos ) Ley N� 19.578 - Art. 3� Transitorio - Art. 31� N� 5 - Art. 41� N� 2 de la Ley de la Renta - Circular N� 49, de 1998.
 
 ## Referencias detectadas
 

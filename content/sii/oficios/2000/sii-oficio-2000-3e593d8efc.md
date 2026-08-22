@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-28
+- Fecha: 2000-04-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja1260.htm
 - Hash SHA-256: 2aef10fd64db24aeebbfd884c4e899f96f3547abec650572b77a2201df8f518e
 
 ## Resumen
 
-Renta - Actual Ley Sobre Impuesto a la - Art. 17�, N� 8, letra a), Art. 17�, N� 13. (Ord. N� 1419, de 28.04.2000) Word Venta de acciones adquiridas a cuenta de indemnizaci�n por a�os de servicio. Renta � Actual Ley Sobre Impuesto a la � Art. 41� bis. (Ord. N� 1260, de 17.04.2000) Word Procedimiento de c�lculo de los intereses provenientes de dep�sitos en d�lares. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�3 - Ley N� 18.657 de 1987, Art. 15� � Decreto Ley N� 600 de 1974. (Ord. N� 1.259, de 17.04.2000) Wor…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41� bis. (Ord. N� 1260, de 17.04.2000)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-975 � Art. 21� - Art. 1�, Art.2�, Art. 8�, Art. 55� del Decreto Ley N� 825, de 1974 � Art. 17� N� 1�, Art.29� de la Ley de la Renta. Word Aplicaci�n del IVA, Impuesto a la Renta y Cr�dito Especial del Art. 21� del D. Ley N� 910, en Venta y Promesas de Venta de Inmuebles Destinados a la Habitaci�n. (Of. N� 4.853, de 19.12.2000 � I. Directos) . C�digo Tributario � Actual Texto � Art. 69� - Circular N�50, de 1986. Word Se Solicita la Devoluci�n de Impuesto Pagado en Exceso en Una Absorci�n de Sociedades. (Of. N� 4.85…
+Word Se Solicita la Devoluci�n de Impuesto Pagado en Exceso en Una Absorci�n de Sociedades. (Of. N� 4.852, de 19.12.2000 � I. Indirectos)
 
 ## Referencias detectadas
 

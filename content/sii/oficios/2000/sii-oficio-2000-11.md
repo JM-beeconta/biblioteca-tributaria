@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 11
 - Año: 2000
-- Fecha: 2000-12-18
+- Fecha: 2000-12-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4730.doc
 - Hash SHA-256: ed894ae886c2f9a0da4691a65ddf2c7fbc75dae5c2a8d0cf2329e45674dec790
 
 ## Resumen
 
-N�8. (Ord. N� 4840, de 18.12.2000) Word Tributaci�n que afecta a la enajenaci�n de parte de un predio agr�cola efectuada bajo las condiciones que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N�4. (Ord. N� 4730, de 11.12.2000) Word Informa sobre procedencia de exenci�n de impuesto Adicional a los fletes mar�timos establecida en el N� 4 del art�culo 59 de la Ley de la Renta respecto de naves extranjeras. Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N�5, Art. 41�. (Ord. N�4693, de 04.12.2000)…
+Word Informa sobre procedencia de exenci�n de impuesto Adicional a los fletes mar�timos establecida en el N� 4 del art�culo 59 de la Ley de la Renta respecto de naves extranjeras.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2'> Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 27� bis. Word Sociedad comercial solicita un pronunciamiento acerca del planteamiento sostenido por la misma en cuanto al derecho que le asistir�a en su calidad ... (Of. N� 3.188, de 14.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� letra m) - Circular N� 41, de 1995. Word Situaci�n tributaria de venta de veh�culo adquirido por contrato leasing en el cual se ejerci� la opci�n de compra y que forma parte del a…
+Word Situaci�n tributaria de venta de veh�culo adquirido por contrato leasing en el cual se ejerci� la opci�n de compra y que forma parte del activo fijo de la empresa. (Of. N� 3.187, de 14.08.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

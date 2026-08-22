@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-12-16
+- Fecha: 1997-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/otras/dic07.htm
 - Hash SHA-256: 345c2c2e2f2214702cd1730b31860388f679f63cac0740e6228e6f3346af8462
 
 ## Resumen
 
-Capacitaci�n ocupacional de los trabajadores - T�rmino trabajador comprende tambi�n a personas naturales y socios de sociedades de persona... (Oficio N� 3021, del 16.12.1997). C�digo Tributario - Actual Texto - Art. 64�. (Of. N� 2.925 del 03/12/97), Diciembre 1997 Valor de aporte de acciones de una sociedad an�nima, a la constituci�n de una nueva sociedad. (Of. N� 2.925, del 03/12/97). Ley N� 13.039 - Art. 35�, Diciembre 1997 Forma de acreditar las rentas para los efectos de la franquicia aduanera del Art. 35�, de…
+l 03/12/97). Ley N� 13.039 - Art. 35�, Diciembre 1997 Forma de acreditar las rentas para los efectos de la franquicia aduanera del Art. 35�, de la Ley N� 13.039. (Of. 2.752 del 12/11/97)
 
 ## Referencias detectadas
 

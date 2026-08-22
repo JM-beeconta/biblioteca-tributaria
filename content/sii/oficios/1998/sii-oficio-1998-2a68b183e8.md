@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-19
+- Fecha: 1998-11-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/dic05.htm
 - Hash SHA-256: d298a10be08fdb0db9e8c4f14701f6b7250ee9a86a88eaf2d0752b7481468799
 
 ## Resumen
 
-om�viles � Procedimiento, Circular N� 59, de 1997... (Oficio N� 3.165, de 19.11.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 29 Word Bienes correspondientes a obras sanitarias adquiridos o construidos con recursos del Fondo Nacional de Desarrollo Regional � Transferencia a las respectivas empresas sanitarias filiales de... (Oficio N� 3.129, de 12.11.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, Letra A) Word Inversi�n en instrumentos o valores de ahorro � Cr�dito imputable al Impues…
+12.11.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, Letra A)
 
 ## Referencias detectadas
 

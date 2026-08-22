@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont> Renta - Actual ley sobre impuesto a la - Art. 20� , N� 1, letra b) Word Agricultor en renta presunta - Constituci�n sociedad que le preste servicios de movimiento de tierra y agr�colas y a terceras personas - Participaci�n m�s del 10% - Normas de relaci�n... (Oficio N� 1.956, del 24.07.1998). Renta - Actual ley sobre impuesto a la - Art. 41�. Word Sistema de correcci�n monetaria - mecanismo integral y permanente que tiene por objeto corregir o depurar los estados financieros de los efectos o distorsiones que…
+Word Sistema de correcci�n monetaria - mecanismo integral y permanente que tiene por objeto corregir o depurar los estados financieros de los efectos o distorsiones que la inflaci�n produce ... (Oficio N� 1.938 del 23.07.1998).
 
 ## Referencias detectadas
 

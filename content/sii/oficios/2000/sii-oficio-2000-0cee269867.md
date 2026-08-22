@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-19
+- Fecha: 2000-11-29
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras04.doc
 - Hash SHA-256: 8b03c5c0a7ce426b9d32f661a38673719a86c70f081e048ea98576dd9de004a7
 
 ## Resumen
 
-C�digo Tributario � Actual Texto � Art. 69� - Circular N�50, de 1986. Word Se Solicita la Devoluci�n de Impuesto Pagado en Exceso en Una Absorci�n de Sociedades. (Of. N� 4.852, de 19.12.2000 � I. Indirectos) Beneficio Tributario � D.F.L. N� 2�, de 1998, Del Ministerio de Educaci�n � Art. 5� � Art. 20� N� 4�, Art. 33� de la Ley de la Renta. Word Situaci�n Tributaria de la Subvenci�n Recibida por Los Colegios Del Estado y sus Gastos Asociados. (Of. N� 4.608, de 29.11.2000 � I. Directos). Ley N� 19.281, de 1993 � Lea…
+Word Situaci�n Tributaria de la Subvenci�n Recibida por Los Colegios Del Estado y sus Gastos Asociados. (Of. N� 4.608, de 29.11.2000 � I. Directos).
 
 ## Referencias detectadas
 

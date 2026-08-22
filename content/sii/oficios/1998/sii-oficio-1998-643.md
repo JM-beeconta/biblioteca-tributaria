@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el Servicio para verificar la informaci�n que remitan las instituciones bancarias y financieras respecto a si efectivamente se cumplen los requisitos para que contribuyentes tengan derecho a la franquicia tributaria. (Of. N� 4.177, del 17.11.1999 - I. Directos). Franquicias Tributarias - Capacitaci�n y empleo - Estatuto de - Actual texto - Art. 30, 36 - Art. 20�, N� 2, letras c) y d) de la Ley sobre Impuesto a La Renta - Circular N� 19, de 1999. Octubre 1999 Word Respecto a la procedencia de que Indap puede accede…
+Word Respecto a la procedencia de que Indap puede acceder al beneficio de la franquicia SENCE contemplada en la Ley N� 19.518, para la capacitaci�n de sus funcionarios. (Of. N� 4.149, de 15.11.1999 - I. Directos).
 
 ## Referencias detectadas
 

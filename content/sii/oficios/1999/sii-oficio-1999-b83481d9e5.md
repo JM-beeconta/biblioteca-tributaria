@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-12-16
+- Fecha: 1999-12-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/Diciembre07.doc
 - Hash SHA-256: 0e4b7ec4d0b1775d0d884d7f1496880f715a06c65eae88a45e4fc736eb2091a8
 
 ## Resumen
 
-sto a la - Art. 3� - Art. 8, N� 8, C�digo Tributario - Art. 59, C�digo Civil. Diciembre 1999 Word Plazo de tres a�os que se aplica a contribuyentes extranjeros con domicilio o residencia en el pa�s - Criterios para otorgar pr�rroga - Art. 8�, N� 8, del C�digo Tributario. (Oficio N� 4.562, del 16.12.1999). Renta - Actual Ley sobre Impuesto a la - Art. 20� N� 1, 2 - Art.29 - Art. 39� N� 4 - Art. 41 bis. Diciembre 1999 Word Tributaci�n que afecta a intereses de inversiones efectuadas en el mercado nacional y extranje…
+Word Tributaci�n que afecta a intereses de inversiones efectuadas en el mercado nacional y extranjero - Actividad agr�cola - Tributan en base a renta presunta. (Oficio N� 4.520, del 14.12.1999).
 
 ## Referencias detectadas
 

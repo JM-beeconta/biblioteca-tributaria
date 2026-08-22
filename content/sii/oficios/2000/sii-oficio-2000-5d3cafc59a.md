@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-10-10
+- Fecha: 2000-07-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2965.htm
 - Hash SHA-256: b95d230f2b50c1099660cbe75db12f3d99dbb349027a3376e58070aca556ce66
 
 ## Resumen
 
-t�culo 54 de la Ley General de Cooperativas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las- Art. 8�, letra g). (Ord. N� 3929, de 10.10.2000) Word Impuesto al Valor Agregado que grava el arrendamiento de un inmueble especialmente acondicionado para realizar una actividad comercial. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19288, de 1994, Art 2�, Art. 6�. (Ord. N� 2965, de 27.07.2000) Word Solicita se confirme exenci�n de impuesto al valor agregado e impuesto a…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19288, de 1994, Art 2�, Art. 6�. (Ord. N� 2965, de 27.07.2000)
 
 ## Referencias detectadas
 

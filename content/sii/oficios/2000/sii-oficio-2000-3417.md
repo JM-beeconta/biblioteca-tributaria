@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3417
 - Año: 2000
-- Fecha: 2000-07-20
+- Fecha: 2000-08-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/agosto04.doc
 - Hash SHA-256: f78937515494402c4e91e1bb0de50db8de34f73a48554c8c0885a120c6fb2668
 
 ## Resumen
 
-'>Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�- Art. 20� N� 5 Ley de la Renta. Word IVA que afectar�a a una asesor�a t�cnica consistente en la preparaci�n de probetas de Pino radiata, para su utilizaci�n en ensayos... (Of. N� 2.885, de 20.07.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 1, Art. 8�- Art. 4� del Reglamento del D. L. N� 825. Word Tributaci�n que afectar�a a la venta de caballos adiestrados, adquiridos para pr�cticas de equita…
+Word Tributaci�n que afectar�a a la venta de caballos adiestrados, adquiridos para pr�cticas de equitaci�n. (Of. N� 3105, de 08.08.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

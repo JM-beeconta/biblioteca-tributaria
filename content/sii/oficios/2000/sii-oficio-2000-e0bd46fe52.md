@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-29
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/otras03.htm
 - Hash SHA-256: afe48de2da790ec7ca0dec2007199111160afa908f98f7e9d622c755f2730adc
 
 ## Resumen
 
-rectos). Ley N� 19.281, de 1993 � Leasing Habitacional � Modificada por Ley N� 19.406, de 1995 � Decreto Supremo de Hacienda N� 1.334, de 1996 � Franquicia Tributaria Establecida en Ley N� 19.622 � Ley N� 19.578, de 1998, Art. 5� Transitorio. Word Tributaci�n de Rentas Pagadas por Instituciones Acogidas Al Leasing Habitacional. (Of. N� 4.607, de 29.11.2000 � I. Directos) Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36� - Circular N� 19, de 1999. Word C…
+I. Directos) Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art. 30�, Art. 36� - Circular N� 19, de 1999.
 
 ## Referencias detectadas
 

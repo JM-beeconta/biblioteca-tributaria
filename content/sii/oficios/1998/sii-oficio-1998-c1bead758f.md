@@ -11,7 +11,7 @@
 
 ## Resumen
 
-, del 11.08.1999 � I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 17�, N� 13 � Y Art. 4� C�digo del Trabajo., Julio 1999 Word Situaci�n tributaria de la indemnizaci�n por a�os de servicio, respecto de un trabajador traspasado a una filial en el extranjero y posteriormente a una sociedad relacionada en Chile. (Oficio N� 2.999, del 28.07.1999 � I. Directos). Renta - Actual ley sobre impuesto a la - Art. 57� BIS. Junio 1999 Word Mecanismo de incentivo al ahorro � Certificados de dep�sitos a plazo fijo -…
+ctos). Renta - Actual ley sobre impuesto a la - Art. 57� BIS. Junio 1999
 
 ## Referencias detectadas
 

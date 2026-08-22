@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-12-02
+- Fecha: 1998-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/otras/dic06.htm
 - Hash SHA-256: d645dda534d6c050aad802c223a48958da623d9813031834ba2836c9216095d5
 
 ## Resumen
 
-"0" width="630"> A�os Anteriores OTRAS 1998 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Ley N� 19.030 � Crea fondo de estabilizaci�n de precios del petr�leo - Art. 6� Diciembre 1998 Word Impuesto o cr�dito que afecta a la primera venta o importaci�n de combustibles derivados del petr�leo � Ley 19.030, Art. 6�, inciso final, dispone que impuestos que establece dicha... ( Oficio N� 3.287, de 02.12.1998). Ley N� 19.578- Art. 3� Transitorio Di…
+Ley N� 19.030 � Crea fondo de estabilizaci�n de precios del petr�leo - Art. 6� Diciembre 1998
 
 ## Referencias detectadas
 

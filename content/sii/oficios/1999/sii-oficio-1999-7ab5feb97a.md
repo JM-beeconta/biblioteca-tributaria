@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-28
+- Fecha: 1999-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/octubre03.htm
 - Hash SHA-256: 8c58dd783c073d3382ae5e8ca4032d549bfff6234cb20ae66c37f0a18bb3162a
 
 ## Resumen
 
-ficio N� 3.981, de 28.10.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 14�, letra A), N� 1, letra c). Octubre 1999 Word Definici�n del concepto Patrimonio Neto, para determinar si est� asociado al Patrimonio Financiero o corresponde al Capital Propio Tributario, en el caso de divisi�n de sociedades. (Oficio N� 3.980, de 28.10.1999 - I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N�s. 2 Y 5, Art. 40 N� 1 - Art. 20 del D.F.L. N� 211, de 1960. Octubre 1999 Word Tributaci�n que a…
+ctos). Renta - Actual Ley sobre Impuesto a la - Art. 20�, N�s. 2 Y 5, Art. 40 N� 1 - Art. 20 del D.F.L. N� 211, de 1960. Octubre 1999
 
 ## Referencias detectadas
 

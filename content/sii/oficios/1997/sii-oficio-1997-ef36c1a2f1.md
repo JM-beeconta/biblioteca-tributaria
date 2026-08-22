@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1997
-- Fecha: 1997-03-19
+- Fecha: 1997-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/abr05.htm
 - Hash SHA-256: ee90b8dd80ed835e0a4acc3a87a4c6fefea7bc7adc9bd640eacc3bc8d17df5bd
 
 ## Resumen
 
-nado autotransporte, se encuentra exento del IVA. (Of. No 682, del 03/04/97. I. Indirectos). Ley de Impuestos a las Ventas y Servicios. Art�culos 23, inciso 1�, 24� y 36� Correcci�n de errores propios por cr�ditos fiscales omitidos por un exportador. (Of. 593 de 19 de marzo de 1997 ) Ventas y Servicios - Nuevo Texto de Impuesto a Las - Art. 8�, Letra M)., Abril 1997 Aplicaci�n del Impuesto al valor agregado al aporte, adjudicaci�n o retiro de bienes corporales muebles o inmuebles del activo fijo. (Of. No 567, del…
+Ventas y Servicios - Nuevo Texto de Impuesto a Las - Art. 8�, Letra M)., Abril 1997 Aplicaci�n del Impuesto al valor agregado al aporte, adjudicaci�n o retiro de bienes corporales muebles o inmuebles del activo fijo. (Of. No 567, del 14/03/97. I. Indirectos).
 
 ## Referencias detectadas
 

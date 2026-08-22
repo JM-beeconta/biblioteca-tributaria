@@ -11,7 +11,7 @@
 
 ## Resumen
 
-br> Consideraciones acerca de la Ley N� 19.633. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Art. 3�, Art. 64�. (Ord. N� 2406, de 21.06.2000). Word Aplicaci�n de la Ley N� 18.320, a los agentes retenedores de IVA que no han declarado las retenciones efectuadas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - Ley N� 19633 � C�digo Tributario, Art. 3� (Ord. N� 2351, de 15.06.2000). Word Efectos de la Ley N� 19.633, de 1999, en la posterior enajenaci�n de un veh…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - Ley N� 19633 � C�digo Tributario, Art. 3� (Ord. N� 2351, de 15.06.2000).
 
 ## Referencias detectadas
 

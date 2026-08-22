@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-12-05
+- Fecha: 2000-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/febrero10.htm
 - Hash SHA-256: c323257611707f3a353cf642ae7f9a4b8b705e109c668938b0c53ef0179dbc80
 
 ## Resumen
 
-.706, de 05.12.2000 � I. Indirectos) Ventas y servicios - nuevo texto ley impuesto a las - Art. 8�, Art. 36� - Art. 7� del decreto ley N� 3.059, de 1979. Word No procede calificar como exportaci�n la venta de provisiones a naves de tr�fico internacional. (Of. N� 366, del 31.01.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� - Art. 20�, N� 3 y 4 de la Ley de la Renta. Word Consulta si las sumas pagadas por Isapre Vida Tres S.A. a Vida Integra S.A. por la administraci�n de plane…
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� - Art. 20�, N� 3 y 4 de la Ley de la Renta.
 
 ## Referencias detectadas
 

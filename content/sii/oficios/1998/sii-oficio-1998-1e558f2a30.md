@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-02-20
+- Fecha: 1998-02-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/mar02.doc
 - Hash SHA-256: 7af1b9b1f5b80b6e87268261a38072c5d91fb4f6ce3891f813a3ae0d2409d5cc
 
 ## Resumen
 
-l 20.02.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 10 Word Compa��as de Seguros - Rentas vitalicias financiadas con fondos previsionales o privados del contratante - Reserva obligatoria m�nima legal - D.F.L. N� 251,... (Oficio N� 557, del 18.02.1998). Renta - Actual ley sobre impuesto a la - Arts. 17�, N� 8, letra a) Y 18� Word Venta de acciones - Calificaci�n de habitual o no de tales operaciones - Elementos de juicio en Circular N� 158, de 1976 - Tributaci�n aplicable - Utilidad por venta de mo…
+Word Venta de acciones - Calificaci�n de habitual o no de tales operaciones - Elementos de juicio en Circular N� 158, de 1976 - Tributaci�n aplicable - Utilidad por venta de monedas extranjeras... (Oficio N� 551, del 17.02.1998).
 
 ## Referencias detectadas
 

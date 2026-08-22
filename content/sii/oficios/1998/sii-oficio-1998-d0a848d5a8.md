@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-06-15
+- Fecha: 1998-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/renta1319.htm
 - Hash SHA-256: 01bcc654579c8fa733d6069638bed49c403f1cb1b0c73b81e449fc2deb152248
 
 ## Resumen
 
-y donaciones, que se destinen entre otros fines a inversiones y equipamientos de los... (Oficio N� 1.892, del 20.07.1998). Ley de Impuesto a la Renta. Art�culo 58� N� 1. Tributaci�n que afecta a los desembolsos efectuados en Chile por un contribuyente del art�culo 58� N� 1 de la Ley de la Renta. (Oficio N� 1599, de 15 de Junio de 1998) Renta - Actual ley sobre impuesto a la - Arts. 30� Y 41�, N� 3 Word Costo directo de ventas - Mercader�as, materias primas y otros bienes activo realizable - Utilizaci�n costos dire…
+98) Renta - Actual ley sobre impuesto a la - Arts. 30� Y 41�, N� 3
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-departamentos por ocupaci�n de un sector del terreno o bien com�n del inmueble para el estacionamiento de veh�culos, no se encuentra gravado con el IVA. (Of. No 66, del 13/01/97. I. Indirectos). Ventas y Servicios - Nuevo Texto Ley De Impuesto a Las - Art. 13�, N� 4, Febrero 1997 Impuesto al Valor Agregado que afecta a los ingresos obtenidos por un gimnasio. (Of. N� 65 de 13.01.1997). Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - Art. 12, Letra E), No. 13., Enero 1997 Los servicios de porteo, estiba y dese…
+13.01.1997). Ventas y Servicios - Nuevo Texto Ley Impuesto a Las - Art. 12, Letra E), No. 13., Enero 1997 Los servicios de porteo, estiba y desestiba, necesarios para la exportaci�n de productos se encuentran exentos del IVA, en su cobro a las empresas navieras extranjeras. (Of. N� 37, del 8/1/97. I. Indirectos).
 
 ## Referencias detectadas
 

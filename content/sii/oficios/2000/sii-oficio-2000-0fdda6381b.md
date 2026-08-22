@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-11-22
+- Fecha: 2000-11-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja4472.doc
 - Hash SHA-256: 94f91985a297204e87c5e8d206675c7c02573ccf758e11efd3fa784554e9dd5b
 
 ## Resumen
 
-os � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�1, Art. 12�, Letra E), N� 12, Art. 52�, Art. 55� - Res. Ex N� 6080, de 1999. (Ord. N� 4503, de 22.11.2000) Word Documentaci�n exigible, en ventas y prestaciones de servicio, efectuadas a asignatarios de recursos financieros. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.506, de 1997. (Ord. N� 4472, de 21.11.2000) Word Base imponible del impuesto especial a la transferencia de veh�culos motorizados usados. Vent…
+Word Base imponible del impuesto especial a la transferencia de veh�culos motorizados usados.
 
 ## Referencias detectadas
 

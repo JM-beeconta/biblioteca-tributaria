@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-07-29
+- Fecha: 1998-07-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/ago11.doc
 - Hash SHA-256: 16e4ae68448a33331b48523ce48b3a0498499ee8c42c1b7676a699dd39f7fa1d
 
 ## Resumen
 
-/font> Ventas y servicios - Nuevo texto impuesto a las - Art. 2� , N� 2 y 13� , N� 7 Agosto 1998 Word Ex�menes de laboratorio - Actividad comprendida en el N� 4, del Art. 20� , de la Ley de la Renta - Servicio constituye un hecho gravado con IVA - Exenci�n que favorece a las personas... (Oficio N� 2.010, del 29.07.1998). Ventas y servicios - Nuevo texto impuesto a las - Arts. 9� Y 23�. Agosto 1998 Word Anticipo a proveedores de bienes corporales muebles - No existe obligaci�n de facturar los anticipos de dinero -…
+Word Anticipo a proveedores de bienes corporales muebles - No existe obligaci�n de facturar los anticipos de dinero - En caso que se emita la factura antes de la entrega de los bienes, se produce... (Oficio N� 1.936, del 23.07.1998).
 
 ## Referencias detectadas
 

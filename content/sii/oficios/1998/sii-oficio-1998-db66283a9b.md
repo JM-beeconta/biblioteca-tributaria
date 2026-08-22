@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-06-15
+- Fecha: 1998-05-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/may03.htm
 - Hash SHA-256: f7a0005e34945c837ef8c12e5bcc3b255823dd746574053c865bef0e59e5eb18
 
 ## Resumen
 
-lo 58� N� 1 de la Ley de la Renta. (Oficio N� 1599, de 15 de Junio de 1998) Renta - Actual ley sobre impuesto a la - Arts. 30� Y 41�, N� 3 Word Costo directo de ventas - Mercader�as, materias primas y otros bienes activo realizable - Utilizaci�n costos directos m�s antiguos, sin perjuicio que el contribuyente opte por utilizar... (Oficio N� 1319, del 18.05.1998). Renta - Actual ley sobre impuesto a la - Art.. 20�, N�2 Word Dividendos distribuidos por sociedades an�nimas - Acciones que est�n en el patrimonio de la…
+18.05.1998). Renta - Actual ley sobre impuesto a la - Art.. 20�, N�2
 
 ## Referencias detectadas
 

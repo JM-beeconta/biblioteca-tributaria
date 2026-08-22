@@ -11,7 +11,7 @@
 
 ## Resumen
 
-re impuesto a la - Art. 17�, N� 8, Art. 18� - circular N� 158, de 1976. Word Tributaci�n que afecta a la enajenaci�n de acciones. (Of. N� 382, del 01.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18�. Word Tratamiento tributario aplicable al resultado obtenido en la enajenaci�n de acciones realizada por una sociedad de inversiones.. (Of. N� 381, del 01.02.2000 - I. Directos) Renta - actual ley sobre impuesto a la - Art. 17�, N� 8, Art. 18� Word Tributaci�n que afectar�a al ma…
+Word Tratamiento tributario aplicable al resultado obtenido en la enajenaci�n de acciones realizada por una sociedad de inversiones.. (Of. N� 381, del 01.02.2000 - I. Directos)
 
 ## Referencias detectadas
 

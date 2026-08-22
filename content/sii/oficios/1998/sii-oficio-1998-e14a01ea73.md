@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-04-28
+- Fecha: 1998-04-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/may02.doc
 - Hash SHA-256: 01b1a3e872eeb2cc8b0cdad03618f3cfdda1b4e959c1eedab961137779210377
 
 ## Resumen
 
-� 1135, del 28.04.1998). Renta - Actual ley sobre impuesto a la - Art. 57� BIS, LETRA B) Word R�gimen de incentivo al ahorro establecido en el Art. 57� Bis, letra B, de la Ley de la Renta - Instrumentos o valores susceptibles de acogerse al citado... (Oficio N� 1133, del 28.04.1998). Renta - Actual ley sobre impuesto a la - Arts. 12� Y 41, B, N� 4 Word Inversiones efectuadas en el extranjero en sociedades de personas - Incompetencia del Servicio para impartir normas sobre forma de contabilizar activos y pasivos...…
+Word Inversiones efectuadas en el extranjero en sociedades de personas - Incompetencia del Servicio para impartir normas sobre forma de contabilizar activos y pasivos... (Oficio N� 1081, del 23.04.1998).
 
 ## Referencias detectadas
 

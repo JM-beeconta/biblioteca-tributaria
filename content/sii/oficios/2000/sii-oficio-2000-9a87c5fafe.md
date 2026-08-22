@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-07-28
+- Fecha: 2000-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/julio12.htm
 - Hash SHA-256: 498c1f9464410f2ee53343c944ca681c2d2e968065292501b40eb1fc2023425f
 
 ## Resumen
 
-(Of. N� 2.986, de 28.07.2000 � Depto. T�cnica Tributaria) Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2 (D.O. 31.07.1959) - Circular N� 46, de 1999. Word Personas que tienen derecho al beneficio tributario establecido en la Ley N� 19.622. (Of. N� 2.896, de 24.07.2000 - Depto. de T�cnica Tributaria.) Decreto Ley N� 828, de 1974 - de Impuesto a los Tabacos Manufacturados - Art. 3�, 4�, 5�, 8� y 17�. Word Base imponible aplicable en la importaci…
+Tributaria.) Decreto Ley N� 828, de 1974 - de Impuesto a los Tabacos Manufacturados - Art. 3�, 4�, 5�, 8� y 17�.
 
 ## Referencias detectadas
 

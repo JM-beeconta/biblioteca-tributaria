@@ -11,7 +11,7 @@
 
 ## Resumen
 
-18� Tributaci�n que afecta a enajenaci�n de bien ra�z adquirido por donaci�n. (Of. No 1.578, del 17/07/97. I. Directos). Renta - Actual Ley Sobre Impuesto A La - Art. 74�, No. 2 Contribuyente obligado a practicar la retenci�n del Art. 74�, no 2, de la ley de la renta, en caso que se indica. (Of. No 1.564, del 15/07/97. I. Indirectos). Renta - Actual Ley Sobre Impuesto a La - Arts. 14�, P�rrafo A, No. 1, Letra C) y 38� - Impuesto a Las Ventas y Servicios - Art. 8�, Letra C), Situaci�n tributaria de liquidaci�n de s…
+rectos). Renta - Actual Ley Sobre Impuesto a La - Arts. 14�, P�rrafo A, No. 1, Letra C) y 38� - Impuesto a Las Ventas y Servicios - Art. 8�, Letra C), Situaci�n tributaria de liquidaci�n de sociedad conyugal, existiendo dentro de su patrimonio utilidades registradas en el FUT, producto de actividades comerciales desarrolladas por el marido. (Of. No 1.561, del 15/07/97. I. Directos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-10-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/septiembre04.doc
 - Hash SHA-256: 0a651e0b98cd86601b14e3d6c65f96e291f08d6a2d6a212cf75e30181c958472
 
 ## Resumen
 
-Afecta A La Venta De Bienes Y A La Prestaci�n De Servicios Efectuados A Distintas Municipalidades Por Un Organismo Dependiente De Gendarmer�a De Chile. (Of. N� 3.821, Del 13.10.1999 - I. Indirectos). Ventas y Servicios � Nuevo texto Ley Impuesto a las � Art. 2�, N� 1 - Art. 8� D.L. N� 825 - Art. 21�, 31� Y 33� bis Ley de la Rentas - Ley N� 19.281 sobre arrendamiento de viviendas con promesa de venta - Art. 1.915 Y 1.916 C. Civil - Circular N� 41, de 1990. Septiembre 1999 Word Tratamiento Tributario De Cuotas De Pa…
+Word Tratamiento Tributario De Cuotas De Pago Del Precio De Un Contrato De Leasing Para La Adquisici�n De Terreno En Que Se Construir� Una Nueva Planta Industrial. (Of. N� 3.747, Del 05.10.1999 - I. Indirectos).
 
 ## Referencias detectadas
 

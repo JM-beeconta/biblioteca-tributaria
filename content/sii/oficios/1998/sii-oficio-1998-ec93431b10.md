@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-03-30
+- Fecha: 1998-03-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/abr03.htm
 - Hash SHA-256: 1cf92a83e9478817c3537e6f4c03bbb64a3cf90540bdd838c0ad9ef144690455
 
 ## Resumen
 
-N� 2, del Art. 20 - Afectas a primera... (Oficio N� 859, del 30.03.1998). Rentas municipales - Actual ley sobre - Art. 46� Decreto ley N� 3.063 Word Donaciones destinadas a actividades culturales de las Municipalidades - Beneficio tributario establecido en Art. 46�, de la Ley de Rentas Municipales - Requisitos de instituciones... (Oficio N� 831, del 26.03.1998). Renta - actual ley sobre impuesto a la - Arts. 29� y 30� Word Ingresos obtenidos con motivo de contratos de promesa de venta de inmueble - Incluidos en in…
+26.03.1998). Renta - actual ley sobre impuesto a la - Arts. 29� y 30�
 
 ## Referencias detectadas
 

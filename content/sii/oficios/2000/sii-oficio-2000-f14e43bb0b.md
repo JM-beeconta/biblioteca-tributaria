@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-05-02
+- Fecha: 2000-04-28
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo22.doc
 - Hash SHA-256: 82c2fc305805f39eb392f279234948adf4d48f8a38b1d6e04780fafd64f1f61e
 
 ## Resumen
 
-- Art. 17� N� 8 - Art. 20� N� 2 de la Ley de la Renta - Circular N� 59, de 1998 - Art. 69 del C�digo Tributario. Word Consulta sobre el tratamiento Tributario que se debe dar en casos relacionados con el Art�culo Segundo Transitorio de la Ley N� 19.578, de 1998 ... (Of. N� 1.439, de 02.05.2000 - I. Directos ). Ley N� 19.578, de 1998 - Art. 2� Transitorio - Art. 17� N� 8 y N� 13 y Art. 57 bis de la Ley sobre Impuesto a la Renta. Word Situaci�n Tributaria de la Venta de Acciones compradas con fondeos de Indemnizaci�…
+Word Situaci�n Tributaria de la Venta de Acciones compradas con fondeos de Indemnizaci�n por a�os de servicio. ( Of. N� 1.418, de 28.04.2000 - I. Directos ).
 
 ## Referencias detectadas
 

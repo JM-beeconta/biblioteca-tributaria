@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 324
 - Año: 1999
-- Fecha: 1999-10-13
+- Fecha: 1999-10-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/septiembre02.doc
 - Hash SHA-256: 17256f7c34784755b5e2367fe59c94c811f4a203329200f5204c9b16d03a1f01
 
 ## Resumen
 
-p align="JUSTIFY"> Renta - Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Y Art. 20� Decreto LEY N� 3.500. Septiembre 1999 Word Situaci�n Tributaria De Pensiones De Invalidez Otorgadas Por Las AFP. (Oficio N� 3.818, Del 13.10.1999 � I. Directos). Renta - Actual Ley sobre Impuesto a la - Art. N� 17�, N� 8, letra B) Y Art. 3�. Septiembre 1999 Word Tributaci�n De La Venta De Acciones Adquiridas A Trav�s Del Canje De Adrs, Cuando Dicha Venta Es Efectuada En Una Fecha Anterior A Dicho Canje. (Oficio N…
+Word Tributaci�n De La Venta De Acciones Adquiridas A Trav�s Del Canje De Adrs, Cuando Dicha Venta Es Efectuada En Una Fecha Anterior A Dicho Canje. (Oficio N� 3.708, Del 01.10.1999-I. Directos).
 
 ## Referencias detectadas
 

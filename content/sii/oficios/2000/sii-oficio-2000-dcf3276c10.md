@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-09-29
+- Fecha: 2000-10-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/octubre06.doc
 - Hash SHA-256: aee16ea1270a3febfd91197eeb8de203259e2ffee8c02f7445bc65e32c6e384a
 
 ## Resumen
 
-Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 55�. Word Solicita se informe acerca de la oportunidad en que deben emitirse las facturas en virtud de un contrato de construcci�n. (Of. N� 3.836, de 29.09.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 8� letra d), Art. 23�. Word Impuesto al valor agregado que afecta a la entrega gratuita de muestras de productos del giro, efectuada por un contribuyente. (Of. N� 3.874, de 03.10.2000 - I. Indirectos) Ventas y Servicios…
+Word Impuesto al valor agregado que afecta a la entrega gratuita de muestras de productos del giro, efectuada por un contribuyente. (Of. N� 3.874, de 03.10.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

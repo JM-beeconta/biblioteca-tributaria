@@ -11,7 +11,7 @@
 
 ## Resumen
 
-RIPT> A�os Anteriores LEY DE IMPUESTO A LA RENTA 1997 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta - actual ley sobre impuesto a la - Art. 20�, N� 1, letra d) Word Rentas de bienes ra�ces no agr�cola - Renta efectiva - Contabilidad fidedigna - Contabilidad completa o simplificada - Personas naturales que explotan bienes ra�ces no agr�colas en... (Oficio N� 3065, del 22.12.1997) Renta - actual ley sobre impuesto a la -Art. 41�…
+Word Rentas de bienes ra�ces no agr�cola - Renta efectiva - Contabilidad fidedigna - Contabilidad completa o simplificada - Personas naturales que explotan bienes ra�ces no agr�colas en... (Oficio N� 3065, del 22.12.1997)
 
 ## Referencias detectadas
 

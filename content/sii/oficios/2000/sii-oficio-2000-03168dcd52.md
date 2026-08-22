@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-08-10
+- Fecha: 2000-08-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/septiembre06.doc
 - Hash SHA-256: 125ce12e7855fd7281aa91e197d743cdfa97f35204b0fd3bfffa8ae884430bf1
 
 ## Resumen
 
-. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996. Word Tratamiento tributario de contrato de Concesi�n de Obra P�blica denominada, " Complejo Ecol�gico Recreativo y Cultural Metropolitano". (Of. N� 3.150, de 10.08.2000 - I. Indirectos) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 2, Art. 8�, Art. 52� - Art. 15�, Art. 29� de la Ley de la Renta - Circular N� 49, de 1996. Word Tratamiento tributario aplicable a los ingresos complementarios percibidos con motivo de contratos de Con…
+Word Tratamiento tributario aplicable a los ingresos complementarios percibidos con motivo de contratos de Concesi�n de Obras P�blicas. (Of. N� 3.501, de 31.08.2000 - I. Indirectos)
 
 ## Referencias detectadas
 

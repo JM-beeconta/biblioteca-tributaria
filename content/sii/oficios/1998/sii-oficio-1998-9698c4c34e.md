@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-06-15
+- Fecha: 1998-05-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/may12.htm
 - Hash SHA-256: d4f2f4f315f515a7ad6f92ad89c2eccd82992f4f6bfa254e585184ad4b8ed1d0
 
 ## Resumen
 
-nacionales - Bienes incorporales - Venta no constituye hecho gravado "venta", b�sico, ni tampoco especial. (Oficio N� 1594, del 15.06.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 2�, N� 2 Word Servicios consistentes en la disposici�n de basura para relleno sanitario - No afectos a IVA a los servicios - Actividad no se clasifica en los Nos. 3 � 4, del art�culo 20�... (Oficio N� 1395, del 25.05.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 37�, Letra g) Mayo 1998 Word Impuesto Adicio…
+del 25.05.1998). Ventas y servicios - Nuevo texto impuesto a las - Art. 37�, Letra g) Mayo 1998
 
 ## Referencias detectadas
 

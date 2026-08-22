@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-10-29
+- Fecha: 1999-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/octubre09.htm
 - Hash SHA-256: 538ca3d2d9e0e00eef949e36b6f83fa20877eb6948f32ff05ae64aeb12c624a7
 
 ## Resumen
 
-I. Indirectos). Ley de Impuestos a las Ventas y Servicios. Art�culos 2�, 5� , 8� , 12, letra E, N� 16, y 52�. Ordinario N� 3991, de 29 Octubre de 1999. Impuesto al Valor Agregado (IVA) en servicios derivados de un contrato de perforaci�n minera en la Cordillera de Los Andes. (Of. N�3991 de 29 de octubre de 1999.- I. Indirectos). Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 8�, letras i) y g) - Art. 20�, N�s 1, 3, 4 Y 5 - Art. 39�, N� 3 Ley de la Renta. Octubre 1999 Word Tributaci�n q…
+Ventas y Servicios - Nuevo texto - Ley Impuesto a las - Art. 2�, N� 2, Art. 8�, letras i) y g) - Art. 20�, N�s 1, 3, 4 Y 5 - Art. 39�, N� 3 Ley de la Renta. Octubre 1999
 
 ## Referencias detectadas
 

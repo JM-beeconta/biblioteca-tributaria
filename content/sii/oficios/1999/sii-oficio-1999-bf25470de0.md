@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1999
-- Fecha: 1999-04-22
+- Fecha: 1999-04-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1999/ventas/abr09.htm
 - Hash SHA-256: 4901150c660c59f017221eb355162819bc19935adf26d6083bc167f7e262fd62
 
 ## Resumen
 
-en Convenci�n sobre Relaciones Diplom�ticas no son aplicables al caso. Oficio N� 1.539, del 22.04.1999 Venta y servicios - Nuevo texto ley impuesto a las - Arts. 2� N� 1 Y 8� Mayo 1999 Word Sociedad de profesionales � Construcci�n de inmuebles encomendado a constructora a suma alzada � Venta de oficinas a sus socios � Transferencia no afecta a IVA... Oficio N� 1.528, del 21.04.1999 Ventas y servicios - Nuevo texto - Ley impuesto a las - Arts. 8�, Letra i) Abril 1999 Word Estacionamiento de veh�culos motorizados en…
+21.04.1999 Ventas y servicios - Nuevo texto - Ley impuesto a las - Arts. 8�, Letra i) Abril 1999
 
 ## Referencias detectadas
 

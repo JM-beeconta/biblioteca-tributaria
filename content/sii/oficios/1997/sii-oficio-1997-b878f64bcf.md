@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Servicios - Nuevo Texto Impuesto a las - Art. 3�, Noviembre 1997 Impuesto al Valor Agregado en servicios utilizados por Asociaciones de Canalistas. (Of,. 2.338 , 7/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 23�, Octubre 1997 Situaci�n del cr�dito fiscal IVA por servicios recibidos de una empresa operadora de tarjetas de cr�dito (Of. 2.287 del 1/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 27� bis - Impuesto a la Renta - Art. 31�, Octubre 1997 Servicios que deben integrar el co…
+del 1/10/97) Ventas y Servicios - Nuevo Texto Impuesto a las - Art. 27� bis - Impuesto a la Renta - Art. 31�, Octubre 1997 Servicios que deben integrar el costo de bienes activo fijo, para los efectos de obtener el reembolso del remanente acumulado de cr�dito fiscal del IVA respectivo. (Of. N� 2.219 del 24/9/97)
 
 ## Referencias detectadas
 

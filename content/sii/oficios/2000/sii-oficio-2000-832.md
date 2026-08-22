@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 832
 - Año: 2000
-- Fecha: 2000-03-10
+- Fecha: 2000-02-25
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo16.htm
 - Hash SHA-256: 8804a2d2f1a3a8082fd1f7ba7e79bbfb46fdd107fed46672d837c1f52062dc5a
 
 ## Resumen
 
-propias de divisas. (Of. N� 1.102, de 05.04.2000 - Depto T�cnica Tributaria ) Ley N� 19.578, de 1998 �Art. 2� Transitorio � Art. 17� N� 8 � Art. 18� Art. 20, N� 2 � Art. 39, N� 4 y 54 N� 1 de la Ley de la Renta � Circular N� 59, de 1998 y N� 158, de 1976. Word Tratamiento tributario que debe d�rsele a las p�rdidas generadas ... (Of. N� 861, del 20.03.2000 � I. Directos) Timbres y estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24� N� 11 - Decreto Ley N� 3.475, de 1980. Word Alcance del exenci�n del Impues…
+I. Directos) Timbres y estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24� N� 11 - Decreto Ley N� 3.475, de 1980.
 
 ## Referencias detectadas
 

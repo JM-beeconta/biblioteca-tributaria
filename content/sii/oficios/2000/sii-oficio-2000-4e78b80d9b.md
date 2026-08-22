@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-06-23
+- Fecha: 2000-06-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/ja2406.doc
 - Hash SHA-256: 2be4e409539f5b38a2add19adb00bfdf639c42dfe158fc9a6abea8d21ce5e528
 
 ## Resumen
 
-'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � C�digo Tributario, Art. 3�- Ley N� 19.633, 1999. (Ord. N� 2438, de 23.06.2000) Word Consideraciones acerca de la Ley N� 19.633. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las - Art. 3�, Art. 64�. (Ord. N� 2406, de 21.06.2000). Word Aplicaci�n de la Ley N� 18.320, a los agentes retenedores de IVA que no han declarado las retenciones efectuadas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� - L…
+Word Aplicaci�n de la Ley N� 18.320, a los agentes retenedores de IVA que no han declarado las retenciones efectuadas.
 
 ## Referencias detectadas
 

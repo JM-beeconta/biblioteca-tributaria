@@ -11,7 +11,7 @@
 
 ## Resumen
 
-para todos los efectos tributarios � cualquiera.... (Oficio N� 1.525, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 59� Mayo 1999 Word Empresa argentina otorga a empresa chilena la representaci�n no exclusiva para la comercializaci�n de los productos de software � Convenio para evitar la doble tributaci�n celebrado... (Oficio N� 1.524, del 21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999 Word Instrumentos de ahorro que pueden acogerse al mecanismo establecido en el Art.…
+21.04.1999). Renta - Actual ley sobre impuesto a la - Art. 57� Bis Mayo 1999
 
 ## Referencias detectadas
 

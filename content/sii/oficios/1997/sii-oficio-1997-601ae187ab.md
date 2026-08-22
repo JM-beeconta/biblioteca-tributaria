@@ -11,7 +11,7 @@
 
 ## Resumen
 
-poraciones Municipales de Desarrollo Social y/o Educacional y de Salud. (Of. No 847, del 18/04/97. I. Directos). Franquicias Tributarias - Ley No. 18.768, Art. 13�, Abril 1997 Recuperaci�n proporcional del impuesto adicional cuando las asesor�as t�cnicas contratadas son cargadas tanto al costo de bienes exportados como a los vendidos en el mercado nacional. (Of. No 643, del 27/03/97. I. Indirectos). Decreto Supremo No. 348, de Econom�a - Texto Refundido - Art. 6�., Marzo 1997 Oportunidad para recuperar el Impuesto…
+Indirectos). Decreto Supremo No. 348, de Econom�a - Texto Refundido - Art. 6�., Marzo 1997 Oportunidad para recuperar el Impuesto Adicional, como pago provisional mensual, por asesor�as t�cnicas pagadas por exportadores, vinculados con bienes del activo fijo. (Of. No 504, del 05/03/97. I. Directos).
 
 ## Referencias detectadas
 

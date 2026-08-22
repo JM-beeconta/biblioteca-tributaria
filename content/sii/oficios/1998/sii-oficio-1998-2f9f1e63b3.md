@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-08-26
+- Fecha: 1998-08-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/ago03.doc
 - Hash SHA-256: ffbefa807714580b1e294b36f14533cb6d66fe23337207d5f1ae145fb9c7ea99
 
 ## Resumen
 
-onal... (Oficio N� 2.269, del 26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 31� , N� 12. Word Deducci�n de la renta bruta de gastos necesarios - Pagos efectuados al exterior por los conceptos indicados en el inciso primero del Art. 59�... (Oficio N� 2.268, del 26.08.1998). Renta - Actual ley sobre impuesto a la - Art. 21�. Word Pr�stamos que efect�an las sociedades an�nimas cerradas a sus accionistas, personas naturales - Afectos a impuesto �nico - Instrucciones Circular N� 37, de 1995 - Partidas se..…
+Word Pr�stamos que efect�an las sociedades an�nimas cerradas a sus accionistas, personas naturales - Afectos a impuesto �nico - Instrucciones Circular N� 37, de 1995 - Partidas se... (Oficio N� 2.067, del 04.08.1998).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 1998
-- Fecha: 1998-11-24
+- Fecha: 1998-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/dic08.htm
 - Hash SHA-256: 6214e30c88579215d54a1b66612a81e88c497ab4f8a6b85faac54bb3fa630ec3
 
 ## Resumen
 
-' width='630'> A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 1998 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Venta y servicios - Nuevo texto impuesto a las - Arts. 8� Diciembre 1998 Word Gastos notariales, de cobranza y de administraci�n del cr�dito � Acceden a operaciones de cr�dito de dinero cuyos intereses se encuentran exentos de IVA � Cr�dito otorgado... (Oficio N� 3.204, de 24.11.1998). Ventas y servicio…
+Venta y servicios - Nuevo texto impuesto a las - Arts. 8� Diciembre 1998
 
 ## Referencias detectadas
 

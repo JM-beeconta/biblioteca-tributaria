@@ -11,7 +11,7 @@
 
 ## Resumen
 
-hipotecaria mantienen el derecho a usufructuar de la franquicia tributaria en el caso de cesi�n de los mutuos hipotecarios endosables a terceras personas y la venta de viviendas por los bancos con saldo de precios a potenciales compradores. (Of. N� 3.979, de 28.10.1999 - I. Directos). Ley N� 19.622 - Establece beneficio tributario por adquisici�n de viviendas nuevas acogidas a normas del D.F.L. N� 2 (D.O. 31.07.59) - Circular N� 46, de 1999. Octubre 1999 Word Sentido y alcance de la expresi�n "propietario" si se r…
+Word Sentido y alcance de la expresi�n "propietario" si se refiere al propietario del terreno a entregar en garant�a hipotecaria o al que ser� propietario de la vivienda a construir. (Of. N� 3.892, de 19.10.1999 - I. Directos).
 
 ## Referencias detectadas
 

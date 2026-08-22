@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2000
-- Fecha: 2000-04-11
+- Fecha: 2000-04-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/marzo03.doc
 - Hash SHA-256: cdb7f208ceb2b33746b205e1427241d79493d8b3c101602c783ca77be3a2b6c8
 
 ## Resumen
 
-ento de la utilidad obtenida en la enajenaci�n de acciones de una sociedad an�nima argentina frente a la determinaci�n de la utilidad l�quida de una empresa en Chile ...(Of. N� 1.175, del 11.04.2000 - I. Directos) Renta- Actual Ley sobre Impuesto a la - Art. 42�, N� 1, Art. 43�, N� 1, Art. 74, N� 1 Y Art. 78. Word Forma de declarar el impuesto �nico de segunda categor�a en el caso de una empresa extranjera, sin domicilio, residencia, ni representante legal ...(Of. N� 1.141, del 10.04.2000 � I. Directos) Renta - Ac…
+Word Forma de declarar el impuesto �nico de segunda categor�a en el caso de una empresa extranjera, sin domicilio, residencia, ni representante legal ...(Of. N� 1.141, del 10.04.2000 � I. Directos)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;mso-fareast-font-family:"Times New Roman";mso-ansi-language: ES;mso-fareast-language:ES;mso-bidi-language:AR-SA"> Ley sobre impuesto a la Renta-Art. 30� y 31� Improcedencia de rectificar declaraci�n de renta fundada en tratamiento tributario aplicable a intereses originados en cr�ditos destinados a adquirir bienes del activo fijo. (Ordinario N� 1165 de 30-04-1998). Renta - Actual ley sobre impuesto a la - Arts. 42�, N� 1 Y 43� N� 1 Word Aguinaldo de Navidad, Ley N� 19.502, de 1997 - Ingreso no imponible - Para ef…
+Word Aguinaldo de Navidad, Ley N� 19.502, de 1997 - Ingreso no imponible - Para efectos tributarios constituye renta - Afecto a Impuesto Unico de Segunda... (Oficio N� 1135, del 28.04.1998).
 
 ## Referencias detectadas
 
