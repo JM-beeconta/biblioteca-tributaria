@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { decodeBuffer, extractAnchors, extractReferences, inferDate, stripHtml } from '../lib/utils.mjs';
 import { splitArticlesForTests } from '../lib/bcn.mjs';
-import { buildDownloadUrlForTests, extractDynamicConfigForTests } from '../lib/sii.mjs';
+import { buildDownloadUrlForTests, extractDynamicConfigForTests, sourceSetsForTests } from '../lib/sii.mjs';
 
 test('extrae links y contexto de un índice SII', () => {
   const html = `<div><h5>Circular N° 26 del 18 de Junio del 2026</h5><p>Actualiza instrucciones.</p><a href="circu26.pdf">Ver documento</a></div>`;
@@ -54,4 +54,11 @@ test('construye URL oficial de descarga de Oficio', () => {
   assert.match(url, /^https:\/\/www4\.sii\.cl\/gabineteAdmInternet\/descargaArchivo\?/);
   assert.match(url, /nombreDocumento=2111-19%2F08%2F2026\.pdf/);
   assert.match(url, /id=blob-123/);
+});
+
+test('mantiene las claves oficiales de materias de Jurisprudencia SII', () => {
+  const sources = sourceSetsForTests();
+  assert.equal(sources.find((s) => s.category === 'Renta')?.apiKey, 'RENTA');
+  assert.equal(sources.find((s) => s.category === 'IVA')?.apiKey, 'IVA');
+  assert.equal(sources.find((s) => s.category === 'Otras Normas')?.apiKey, 'OTROS');
 });
