@@ -1,8 +1,8 @@
 {
   "status": "completed",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T23:48:33.231Z",
-  "completed_at": "2026-08-22T23:48:33.231Z",
+  "updated_at": "2026-08-22T23:49:30.837Z",
+  "completed_at": "2026-08-22T23:49:30.837Z",
   "total_ranges": 14,
   "completed_ranges": [
     "2021-2024",
@@ -32,10 +32,11 @@
     "Gapfill-1989-1992",
     "Gapfill-1985-1988",
     "Gapfill-1981-1984",
-    "Gapfill-1977-1980"
+    "Gapfill-1977-1980",
+    "Gapfill-1974-1976"
   ],
-  "completed_count": 28,
-  "last_completed_range": "Gapfill-1977-1980",
+  "completed_count": 29,
+  "last_completed_range": "Gapfill-1974-1976",
   "last_range_documents": 20,
   "total_documents": 11246
 }

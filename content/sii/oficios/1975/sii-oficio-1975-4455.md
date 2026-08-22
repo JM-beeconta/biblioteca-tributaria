@@ -6,29 +6,26 @@
 - Año: 1975
 - Fecha: 1975-07-31
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/2478_75.htm
-- Hash SHA-256: 1e196417ae261e75a3c25f222031fec17c4d1d15d39790433940c3d4ff2c5db2
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/jul4455.htm
+- Hash SHA-256: 4095ec87fc31c2c3425489906a8a6122cfaa04b9f9b59c5a3fec48f581360c08
 
 ## Resumen
 
-"2"> Ley Sobre Impuesto a Las Ventas y Servicios Autoriza a Compañías de Seguros para Llevar Otro Tipo de Control de sus Operaciones en vez de Facturas (. Ley de Impuestos a las Ventas y Servicios. Artículos 2, 8, 12, letra A, N° 3, y 52. Exención del Impuesto al Valor Agregado en caso de la regalía de paño a los trabajadores textiles , forma de determinar el límite exento de IVA y obligación de emisión de boletas en la forma que indica. (Oficio N° 2478 de 6 de mayo de 1975).
+Ley Sobre Impuesto a Las Ventas y Servicios Autoriza a Compañías de Seguros para Llevar Otro Tipo de Control de sus Operaciones en vez de Facturas (.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":2478,"year":1975}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-OFICIO N° 2478 DE 1975
+Oficio 4455 de 1975
 
-Home
-| Años anteriores
+Home | Ventas y Servicios -
+Anteriores
+LEY SOBRE IMPUESTO A LAS VENTAS Y
+SERVICIOS - ORDINARIO N� 4455 DE 31 DE JULIO DE 1975
 
-LEY DE IMPUESTOS A LAS VENTAS Y SERVICIOS. ARTICULOS 2,
-8, 12, letra A, N° 3, y 52. OFICIO N°
-2478, de 06 de Mayo de 1975.
-
-MATERIA: Exención
-del Impuesto al Valor Agregado en caso de la regalía de paño a los
-trabajadores textiles , forma de determinar el límite exento de IVA y
-obligación de emisión de boletas en la forma que indica.
+AUTORIZA A COMPA�IAS DE
+SEGUROS PARA LLEVAR OTRO TIPO DE CONTROL DE SUS OPERACIONES EN VEZ DE
+FACTURAS.

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5259
 - Año: 1975
-- Fecha: 1975-08-13
+- Fecha: 1975-09-09
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/4679_75.htm
-- Hash SHA-256: f5debc5684073ab6c53e5dcc9a7865014a397a583e68a5a36f0279b125d2d5ad
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/ja5259_75.htm
+- Hash SHA-256: 9365341031cd04e78db17f9eb71d16a192058cb7d4366de99bccd4913aa54147
 
 ## Resumen
 
-t-font-family: Times New Roman; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA">Ley sobre impuesto a las ventas y servicios Sobre momento en que se devenga el IVA en la entrega de bienes afectos en calidad de deposito gratuito, donde el depositario se obliga a la custodia y conservación. ( Ley de Impuestos a las Ventas y Servicios Sobre tributación de las ventas de concentrados de cobre a ENAMI, en relación al Impuesto al Valor Agregado. (Oficio N° 4679, de 13 de Agosto de 1975) Ley Sobr…
+Ley sobre impuesto a las ventas y servicios Sobre momento en que se devenga el IVA en la entrega de bienes afectos en calidad de deposito gratuito, donde el depositario se obliga a la custodia y conservación. (
 
 ## Referencias detectadas
 
@@ -19,10 +19,14 @@ t-font-family: Times New Roman; mso-ansi-language: ES; mso-fareast-language: ES;
 
 ## Texto extraído
 
-Ordinario N� 4679, de 13 de Agosto de 1975.
+LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS.
 
 Home | Ventas y Servicios -
 Anteriores
 LEY SOBRE
-IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N� 4679, de 13 de
-Agosto de 1975.
+IMPUESTO A LAS VENTAS Y SERVICIOS - ORD.- N� 5259, DE 09 SEPTIEMBRE
+1975
+
+SOBRE MOMENTO EN QUE SE DEVENGA EL IVA EN LA ENTREGA DE BIENES AFECTOS EN
+CALIDAD DE DEPOSITO GRATUITO, DONDE EL DEPOSITARIO SE OBLIGA A LA CUSTODIA
+Y CONSERVACION.

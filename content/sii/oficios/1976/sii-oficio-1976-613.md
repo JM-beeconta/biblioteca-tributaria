@@ -6,12 +6,12 @@
 - Año: 1976
 - Fecha: 1976-02-03
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/7319_75.htm
-- Hash SHA-256: 771645873f7b55490f265a7976583979394181c6ec062198638a7caa2b25e2e3
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/feb613.htm
+- Hash SHA-256: 2cabe5bb59cfb9c910029bc1b0d9d246808257aee31920d7daeb66ec40865f96
 
 ## Resumen
 
-st-font-family: Times New Roman; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"> Base Imponible del IVA en la Distribución Gratuita de Muestras Medicas que los Laboratorios Hacen en Forma Exclusiva a Médicos y Profesionales del Ramo. ( Ley de Impuestos a las Ventas y Servicios. Artículos 62° Obligación de constar en certificado emitido por profesional contable, el hecho de haberse retirado del establecimiento comercial los Libros de Compras y Ventas Diarias, por un plazo máximo de tres…
+e Agosto de 1976) Ley Sobre Impuesto a las Ventas y Servicios Base Imponible del IVA en la Distribución Gratuita de Muestras Medicas que los Laboratorios Hacen en Forma Exclusiva a Médicos y Profesionales del Ramo. (
 
 ## Referencias detectadas
 
@@ -19,15 +19,14 @@ st-font-family: Times New Roman; mso-ansi-language: ES; mso-fareast-language: ES
 
 ## Texto extraído
 
-LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS OFICIO 7319 DE 1975
+OFICIO 613 DE 1976
 
-Home | Ventas
-y Servicios - Anteriores
+Home | Años
+anteriores
 LEY SOBRE
-IMPUESTO A LAS VENTAS Y SERVICIOS ARTICULO 62�- ORD.- N� 7319,
-DE 21 DE NOVIEMBRE DE 1975
+IMPUESTO A LAS VENTAS Y SERVICIOS - ORDINARIO N° 613 DE 03 DE
+FEBRERO DE 1976.
 
-MATERIA: Obligaci�n
-de constar en certificado emitido por profesional contable, el hecho de
-haberse retirado del establecimiento comercial los Libros de Compras y
-Ventas Diarias, por un plazo m�ximo de tres d�as h�biles.
+BASE IMPONIBLE
+DEL IVA EN LA DISTRIBUCIÓN GRATUITA DE MUESTRAS MEDICAS QUE LOS
+LABORATORIOS HACEN EN FORMA EXCLUSIVA A MÉDICOS Y PROFESIONALES DEL RAMO.
