@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { decodeBuffer, extractAnchors, extractReferences, inferDate, stripHtml } from '../lib/utils.mjs';
 import { splitArticlesForTests } from '../lib/bcn.mjs';
+import { buildDownloadUrlForTests, extractDynamicConfigForTests } from '../lib/sii.mjs';
 
 test('extrae links y contexto de un índice SII', () => {
   const html = `<div><h5>Circular N° 26 del 18 de Junio del 2026</h5><p>Actualiza instrucciones.</p><a href="circu26.pdf">Ver documento</a></div>`;
@@ -35,4 +36,22 @@ test('limpia HTML básico', () => {
 test('decodifica páginas antiguas Windows-1252', () => {
   const bytes = Buffer.from([0x4f, 0x66, 0x69, 0x63, 0x69, 0x6f, 0x20, 0x4e, 0xba, 0x20, 0x31]);
   assert.equal(decodeBuffer(bytes, 'text/html; charset=windows-1252'), 'Oficio Nº 1');
+});
+
+test('detecta configuración AJAX de Jurisprudencia Administrativa', () => {
+  const html = `$.ajax({ url: 'https://www3.sii.cl/getPublicacionesCTByMateria', data: '{"key":"RENTA","year":"2026"}' });`;
+  assert.deepEqual(extractDynamicConfigForTests(html), { key: 'RENTA', year: 2026 });
+});
+
+test('construye URL oficial de descarga de Oficio', () => {
+  const url = buildDownloadUrlForTests({
+    pubNumOficio: '2111',
+    pubFechaPubli: '19/08/2026',
+    extensionArchPublica: 'pdf',
+    idBlobArchPublica: 'blob-123',
+    mTypeArchPublica: 'application/pdf',
+  });
+  assert.match(url, /^https:\/\/www4\.sii\.cl\/gabineteAdmInternet\/descargaArchivo\?/);
+  assert.match(url, /nombreDocumento=2111-19%2F08%2F2026\.pdf/);
+  assert.match(url, /id=blob-123/);
 });
