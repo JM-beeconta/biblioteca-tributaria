@@ -103,6 +103,21 @@ function documentHtml(doc, body) {
   return `<!doctype html>\n<html lang="es">\n<head>\n  <meta charset="utf-8" />\n  <meta name="viewport" content="width=device-width, initial-scale=1" />\n  <meta name="robots" content="index,follow" />\n  <title>${escapeHtml(doc.title)} · Biblioteca Tributaria Beeconta</title>\n  <link rel="preconnect" href="https://fonts.googleapis.com" />\n  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700;800&family=IBM+Plex+Serif:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" />\n  <link rel="stylesheet" href="../assets/document.css" />\n</head>\n<body>\n  <article class="document-shell">\n    <div class="document-topline">\n      <div class="document-brand"><span class="document-brand-mark"></span>Beeconta · Biblioteca Tributaria</div>\n      <a class="document-source-link" href="${escapeHtml(doc.source_url)}" target="_blank" rel="noopener">Ver fuente oficial ↗</a>\n    </div>\n    <header class="document-hero">\n      <p class="document-kicker"><span class="cite-stamp ${sourceClass}">${escapeHtml(stamp)}</span>${identity ? ` ${escapeHtml(identity)}` : ''}</p>\n      <h1 class="document-title">${escapeHtml(doc.title)}</h1>\n      <p class="document-summary">${escapeHtml(summary)}</p>\n      <div class="document-meta"><span class="document-chip ${sourceClass}">${escapeHtml(doc.source)}</span>${date ? `<span class="document-chip">${escapeHtml(date)}</span>` : ''}${version}${categories}</div>\n    </header>\n    ${refs ? `<section class="document-references"><h2>Referencias detectadas</h2><div class="reference-list">${refs}</div></section>` : ''}\n    <section class="document-body"><div class="document-body-label">Texto del documento</div>${renderLegalBody(body)}</section>\n    <footer class="document-footer"><strong>Fuente de respaldo:</strong> ${escapeHtml(doc.source)}. Esta vista facilita lectura y búsqueda; ante cualquier diferencia, prevalece el documento publicado en la fuente oficial.</footer>\n  </article>\n</body>\n</html>`;
 }
 
+// catalog.json es lo único que descarga el navegador para buscar/filtrar/listar — llegó a pesar
+// 31 MB (11.137 documentos con TODOS sus campos, incluidos varios que el front nunca lee:
+// sha256, content_path, blob_id, timestamps de auditoría, etc.). Se recorta a una lista explícita
+// de lo que site/assets/app.js realmente usa; data/index/AAAA.json sigue teniendo el registro
+// técnico completo para auditoría.
+const CATALOG_FIELDS = ['id', 'source', 'type', 'number', 'year', 'date', 'title', 'categories', 'source_url', 'references', 'norm_code', 'article', 'version_date'];
+
+function toCatalogEntry(doc, extra) {
+  const entry = {};
+  for (const key of CATALOG_FIELDS) {
+    if (doc[key] !== undefined) entry[key] = doc[key];
+  }
+  return { ...entry, ...extra };
+}
+
 function safeDocumentName(id) {
   return String(id).replace(/[^a-zA-Z0-9._-]+/g, '-');
 }
@@ -124,7 +139,7 @@ for (const doc of index) {
     body = String(doc.search_text ?? doc.summary ?? '');
   }
   await fs.writeFile(path.join(DIST, htmlPath), documentHtml(doc, body), 'utf8');
-  catalog.push({ ...doc, summary_short: oneLineSummary(doc.summary), html_path: htmlPath, search_text: compactSearchText(doc) });
+  catalog.push(toCatalogEntry(doc, { summary_short: oneLineSummary(doc.summary), html_path: htmlPath, search_text: compactSearchText(doc) }));
 }
 await fs.writeFile(path.join(DIST, 'data', 'catalog.json'), `${JSON.stringify(catalog)}\n`, 'utf8');
 
