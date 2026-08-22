@@ -11,6 +11,11 @@ const els = {
   loadMore: document.querySelector('#loadMore'),
   showAll: document.querySelector('#showAll'),
   updated: document.querySelector('#updatedAt'),
+  corpusTotal: document.querySelector('#corpusTotal'),
+  corpusBreakdown: document.querySelector('#corpusBreakdown'),
+  corpusUpdated: document.querySelector('#corpusUpdated'),
+  backfillProgress: document.querySelector('#backfillProgress'),
+  backfillText: document.querySelector('#backfillText'),
   reader: document.querySelector('#reader'),
   readerTitle: document.querySelector('#readerTitle'),
   readerBadge: document.querySelector('#readerBadge'),
@@ -50,7 +55,7 @@ function score(doc, query) {
   const title = normalize(doc.title);
   const summary = normalize(doc.summary_short || doc.summary);
   const refs = normalize((doc.references || []).map(refLabel).join(' '));
-  const identity = normalize(`${doc.type || ''} ${doc.number || ''} ${doc.year || ''} ${doc.norm_code || ''} ${doc.article || ''}`);
+  const identity = normalize(`${doc.type || ''} ${doc.number || ''} ${doc.year || ''} ${doc.norm_code || ''} ${doc.article || ''} ${doc.version_date || ''}`);
   const haystack = normalize(`${doc.search_text || ''} ${(doc.categories || []).join(' ')} ${doc.norm_code || ''}`);
   let total = 0;
 
@@ -142,8 +147,7 @@ function openReader(doc) {
   els.readerBadge.textContent = doc.source;
   els.readerBadge.className = `badge ${doc.source === 'SII' ? 'sii' : ''}`;
   els.readerOfficial.href = doc.source_url;
-
-  const htmlPath = doc.html_path ? `./${doc.html_path}` : `./${doc.content_path}`;
+  const htmlPath = `./${doc.html_path}`;
   els.readerHtml.href = htmlPath;
   els.readerLoading.hidden = false;
   els.readerFrame.onload = () => { els.readerLoading.hidden = true; };
@@ -158,17 +162,53 @@ function populateFilters() {
   els.year.innerHTML += years.map((x) => `<option value="${x}">${x}</option>`).join('');
 }
 
+function renderCorpusMonitor(meta, backfill) {
+  const oficioCount = docs.filter((doc) => doc.source === 'SII' && doc.type === 'oficio').length;
+  const circularCount = docs.filter((doc) => doc.source === 'SII' && doc.type === 'circular').length;
+  const bcnCount = docs.filter((doc) => doc.source === 'BCN').length;
+  els.corpusTotal.textContent = docs.length.toLocaleString('es-CL');
+  els.corpusBreakdown.textContent = `Oficios ${oficioCount.toLocaleString('es-CL')} · Circulares ${circularCount.toLocaleString('es-CL')} · BCN ${bcnCount.toLocaleString('es-CL')}`;
+
+  const generated = meta?.generated_at ? new Date(meta.generated_at) : null;
+  const updatedLabel = generated && !Number.isNaN(generated.getTime())
+    ? generated.toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })
+    : 'sin fecha';
+  els.corpusUpdated.textContent = `Última actualización: ${updatedLabel}`;
+  els.updated.textContent = `Actualizado: ${updatedLabel}`;
+
+  if (!backfill) return;
+  els.backfillProgress.hidden = false;
+  const done = Number(backfill.completed_count || 0);
+  const total = Number(backfill.total_ranges || 0);
+  if (backfill.status === 'completed') {
+    els.backfillProgress.classList.add('completed');
+    els.backfillText.textContent = `Histórico completo · ${done}/${total} tramos`;
+  } else {
+    els.backfillProgress.classList.remove('completed');
+    const last = backfill.last_completed_range ? ` · último: ${backfill.last_completed_range}` : '';
+    els.backfillText.textContent = `Carga histórica en curso · ${done}/${total} tramos${last}`;
+  }
+}
+
+async function optionalJson(url) {
+  try {
+    const response = await fetch(url, { cache: 'no-store' });
+    return response.ok ? response.json() : null;
+  } catch { return null; }
+}
+
 async function init() {
-  const [catalog, meta] = await Promise.all([
-    fetch('./data/catalog.json').then((r) => {
+  const [catalog, meta, backfill] = await Promise.all([
+    fetch('./data/catalog.json', { cache: 'no-store' }).then((r) => {
       if (!r.ok) throw new Error(`catalog.json ${r.status}`);
       return r.json();
     }),
-    fetch('./data/meta.json').then((r) => r.json()),
+    optionalJson('./data/meta.json'),
+    optionalJson('./data/backfill-status.json'),
   ]);
   docs = catalog;
   populateFilters();
-  els.updated.textContent = `Actualizado: ${new Date(meta.generated_at).toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })}`;
+  renderCorpusMonitor(meta, backfill);
   render();
 }
 
@@ -176,18 +216,10 @@ async function init() {
   visibleLimit = PAGE_SIZE;
   render();
 }));
-els.loadMore.addEventListener('click', () => {
-  visibleLimit += PAGE_SIZE;
-  render();
-});
-els.showAll.addEventListener('click', () => {
-  visibleLimit = Number.MAX_SAFE_INTEGER;
-  render();
-});
+els.loadMore.addEventListener('click', () => { visibleLimit += PAGE_SIZE; render(); });
+els.showAll.addEventListener('click', () => { visibleLimit = Number.MAX_SAFE_INTEGER; render(); });
 els.readerClose.addEventListener('click', closeReader);
-els.reader.addEventListener('click', (event) => {
-  if (event.target === els.reader) closeReader();
-});
+els.reader.addEventListener('click', (event) => { if (event.target === els.reader) closeReader(); });
 document.addEventListener('keydown', (e) => {
   if (e.key === '/' && document.activeElement !== els.search) { e.preventDefault(); els.search.focus(); }
 });
@@ -195,4 +227,5 @@ document.addEventListener('keydown', (e) => {
 init().catch((error) => {
   console.error(error);
   els.updated.textContent = 'No se pudo cargar la biblioteca.';
+  els.corpusUpdated.textContent = 'No se pudo cargar el contador.';
 });
