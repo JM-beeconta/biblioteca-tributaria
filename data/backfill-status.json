@@ -1,0 +1,10 @@
+{
+  "status": "running",
+  "requested_at": "2026-08-22T02:04:56.806Z",
+  "updated_at": "2026-08-22T02:04:56.806Z",
+  "total_ranges": 14,
+  "completed_ranges": [],
+  "completed_count": 0,
+  "last_completed_range": null,
+  "total_documents": null
+}
