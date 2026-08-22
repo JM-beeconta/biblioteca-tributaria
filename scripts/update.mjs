@@ -3,7 +3,7 @@ import path from 'node:path';
 import { crawlBcn } from '../lib/bcn.mjs';
 import { crawlSii } from '../lib/sii.mjs';
 import { markdownDocument } from '../lib/utils.mjs';
-import { loadDocuments, writeLibraryData } from '../lib/store.mjs';
+import { loadDocuments, mergeDocuments, writeLibraryData } from '../lib/store.mjs';
 
 const ROOT = process.cwd();
 
@@ -15,32 +15,17 @@ function argNumber(name) {
 }
 
 const existing = await loadDocuments(ROOT);
-const byId = new Map(existing.map((doc) => [doc.id, doc]));
-const bySourceUrl = new Map(existing.filter((doc) => doc.source_url).map((doc) => [doc.source_url, doc]));
-const touched = new Set();
+// Se recolectan todos los documentos de esta corrida antes de fusionarlos (en vez de fusionar
+// uno por uno a medida que llegan) porque mergeDocuments necesita ver el lote completo para saber
+// qué source_url son ambiguas (compartidas por varios documentos, como los artículos BCN que citan
+// la misma norma) antes de decidir si puede usarlas como respaldo de identidad.
+const collected = [];
 
 async function onDocument(doc, body) {
-  const oldByUrl = bySourceUrl.get(doc.source_url);
-  const old = byId.get(doc.id) ?? oldByUrl;
-  if (old && old.id !== doc.id) byId.delete(old.id);
-
-  const now = new Date().toISOString();
-  const merged = {
-    ...old,
-    ...doc,
-    categories: [...new Set([...(old?.categories ?? []), ...(doc.categories ?? [])])],
-    first_seen_at: old?.first_seen_at ?? now,
-    last_seen_at: now,
-    changed_at: old && old.sha256 !== doc.sha256 ? now : old?.changed_at ?? null,
-  };
-
-  byId.set(merged.id, merged);
-  if (merged.source_url) bySourceUrl.set(merged.source_url, merged);
-  touched.add(merged.id);
-
-  const target = path.join(ROOT, merged.content_path);
+  collected.push(doc);
+  const target = path.join(ROOT, doc.content_path);
   await fs.mkdir(path.dirname(target), { recursive: true });
-  await fs.writeFile(target, markdownDocument(merged, body), 'utf8');
+  await fs.writeFile(target, markdownDocument(doc, body), 'utf8');
 }
 
 const now = new Date();
@@ -75,7 +60,7 @@ if (!skipSii) console.log(`Años SII: ${years.at(-1)}-${years[0]}`);
 if (!skipBcn) await crawlBcn({ onDocument });
 if (!skipSii) await crawlSii({ years, onDocument });
 
-const documents = [...byId.values()];
+const { documents, touched } = mergeDocuments(existing, collected);
 await writeLibraryData(ROOT, documents, {
   mode,
   years,
