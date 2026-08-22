@@ -52,5 +52,16 @@ jobs:
             exit 0
           fi
           git commit -m "chore: actualización semanal SII y BCN"
-          git pull --rebase origin main
-          git push
+          # git push puede perder la carrera contra otro workflow empujando a main al mismo
+          # tiempo (visto en producción: "fetch first" incluso después del rebase, porque otro
+          # push llegó en la ventana entre el rebase y el push) — sin reintento, todo el trabajo
+          # de esta corrida se pierde en silencio al terminar el job. Se reintenta con backoff.
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "Push rechazado (intento $attempt/5), reintentando..."
+            sleep $((attempt * 5))
+          done
+          echo "No se pudo publicar tras 5 intentos" >&2
+          exit 1

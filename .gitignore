@@ -6,3 +6,4 @@ dist/
 .bcn-output/
 .preflight/
 .reso-output/
+audit-report.json
