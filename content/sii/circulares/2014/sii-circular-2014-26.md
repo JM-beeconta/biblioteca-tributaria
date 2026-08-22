@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2014
-- Fecha: 2014-04-16
+- Fecha: 2014-04-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu26.pdf
 - Hash SHA-256: bad43d1aeb2fff06f28c770df72fdd6c024c4323ebed7d568a81893b64e415e0
 
 ## Resumen
 
-njeros Fuente: Subdirección Normativa Circular N° 27 del 16 de Abril del 2014 Tabl de Cálculos de Reajustes, Intereses y Multas mayo 2014. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2014 y el 9 de mayo del año 2014. Fuente: Oficina de Gestión Normativa Circular N° 25 del 09 de Abril del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2014 e información adicional rela…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2014 y el 9 de mayo del año 2014. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

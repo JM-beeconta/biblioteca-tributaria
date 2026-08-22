@@ -6,60 +6,96 @@
 - Año: 2016
 - Fecha: 2016-11-18
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2869.doc
-- Hash SHA-256: 2c788813a92e916dbe98cb6a4b8de00b9c9cc8701cb04d9956e50c040c082c28
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja3099.htm
+- Hash SHA-256: df61c7effafaaedde75fee353f4ac6b180117ddf64b3fe89905785db392584a5
 
 ## Resumen
 
-.633, de 2015. (Ord. Nº 3099, de 18-11-2016) | Word Solicita confirmar criterios relativos a exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas. Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; ley N° 16.271 &ndash; Art. 18, N°2, N°5 &ndash; Ley N° 18.985, art. 8 &ndash; Circular N° 34, de 2014. (Ord. Nº 2869, de 18-10-2016) | Word Consulta sobre tratamiento de donaciones recibidas para financiar actividades de institución que indica. Ley sobre Impues…
+Timbres y Estampillas. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Resolución N° 137, de 1975 &ndash; .633, de 2015. (Ord. Nº 3099, de 18-11-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":34,"year":2014}
+- {"type":"circular","number":46,"year":1979}
+- {"type":"circular","number":58,"year":1978}
+- {"type":"oficio","number":2633,"year":2015}
+- {"type":"oficio","number":1599,"year":2014}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N° 16.271 – ART. 18, N°2, N°5 – LEY N° 18.985, ART. 8 – CIRCULAR N° 34, DE 2014. (ORD. N° 2869, DE 18.10.2016)
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – RESOLUCIÓN N° 137, DE 1975 – OFICIO N° 2.633, DE 2015. (Ord. Nº 3099, de 18-11-2016)
 
-Consulta sobre tratamiento de donaciones recibidas para financiar actividades de institución que indica.
+SOLICITA CONFIRMAR CRITERIOS RELATIVOS A EXENCIÓN CONTEMPLADA EN EL ARTÍCULO 24 N° 6 DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
 
-S e ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario aplicable y documentación de respaldo en el caso de donaciones recibidas para financiar sus actividades .
 I ANTECEDENTES
-De acuerdo a su presentación, la Corporación Cultural TTTTT (en adelante, la “corporación”), es una institución sin fines de lucro que financia sus actividades con ingresos propios, con donaciones acogidas a la ley de donaciones con fines culturales así como con donaciones recibidas de personas que integran el denominado XXXX , las cuales manifiestan su voluntad de colaborar firmando una solicitud de socio colaborador.
-Con la finalidad de ampliar el alcance del XXXX a nivel nacional e internacional, se desea automatizar el proceso de inscripción y tramitación de pagos y diversificar las formas de aportar, tales como, aportes de socios, donaciones acogidas a la ley de donaciones con fines culturales y donaciones simples.
-Para respaldar tributariamente los pagos recibidos por parte del XXXX , se contaría con un formulario en línea, con la identificación completa del donante, la voluntad del mismo para colaborar con una suma de dinero y la opción de pago vía AAA , operado por BBB .
-Asimismo, mediante correo electrónico de fecha 24.08.2016, complementa la presentación original exponiendo el “plan de negocios” que quiere desarrollar para captar socios colaboradores, donaciones acogidas a la ley de donaciones culturales, donaciones menores y donaciones o aportes espontáneos, consulta ndo lo siguiente:
-En el caso de la c ap tación de socios colaboradores, consulta si en lugar de una solicitud en papel es admisible un formulario en línea llenado por el socio colaborador;
-En el caso de las donaciones on l ine , consulta si la corporación puede recibir donaciones menores, en las que no se solicita certificado de donación, realizadas por medio de una plataforma digital, sin haberse realizado el trámite de insinuación;
-Qué monto de la donación se puede considerar de “buena costumbre”, para los efectos de eximirse del trámite de insi nuación y del pago de impuestos;
-Consulta como se declaran las donaciones realizadas espontáneamente a la corporación , por personas que no son contribuyentes y que no solicitan certificado de donación, o no aportan mayor información de contacto, para pagar el impuesto a las donaciones correspondientes;
-Para permitir aportes en línea espontáneos de extranjeros, sugiere usar como estrategia de captación la de “haz un regalo”, contra la emisión de una boleta.
+
+De acuerdo a la presentación y los antecedentes acompañados, su representada, XXXXXX, es una empresa de giro financiero que realiza, entre otras, operaciones de factoring doméstico, adquiriendo cuentas por cobrar documentadas con facturas, letras de cambio, pagarés u otros documentos, con o sin responsabilidad para el cedente, adelantando en algunos casos el valor de dichos documentos, otorgando financiamiento con garantía constituida sobre los referidos documentos[1].
+
+El financiamiento de su representada proviene fundamentalmente de la suscripción de créditos y pagarés con bancos, fondos de inversión, sociedades de inversión y personas naturales que entregan dineros a interés.
+
+Luego cita el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas y los requisitos que establece para acogerse a la exención, concluyendo que las operaciones de XXXXXX cumplen con dichos ellos.
+
+Conforme a lo expresado, solicita se confirme que:
+
+XXXXXX califica como institución financiera
+
+Los documentos que dan cuenta de mutuos y pagarés otorgados con ocasión de la captación de fondos de inversionistas locales se encuentran expresamente señalados en la Resolución N° 137 de 1975,
+
+Los bancos mutuantes, fondos de inversión, sociedades de inversión y personas naturales respecto del financiamiento que conceden son inversionistas locales para efectos de la exención del Impuesto de Timbres y Estampillas en comento.
+
 II ANÁLISIS
-De acuerdo al tenor de la presentación y las consultas formuladas, fluye que su preocupación son las donaciones distintas de aquellas canalizadas a través de los mecanismos dispuestos por la ley sobre donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985.
-Respecto de estas últimas donaciones, su tratamiento tributario, requisitos de procedencia para acogerse a los beneficios que contempla y documentos que acreditan el monto de la donación, tanto para el donante como el donatario, se encuentran regulados en el cuerpo legal indicado y en su reglamento, de conocimiento de la peticionaria, así como en las instrucciones actualizadas impartidas por este Servicio mediante la Circular N° 34 de 2014.
-Por otra parte, y en atención a los criterios que solicita confirmar en las letras b) y siguientes, se entiende que sus consultas dicen relación con la aplicación de lo dispuesto en el artículo 18 N° 2 de la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones , según el cual están exentas del referido impuesto las donaciones de poca monta establecidas por la costumbre, en beneficio de personas que no se encuentren amparadas por una exención estableci da en el artículo 2°.
-En relación con dicha exención, este Servicio ha interpretado que, para su procedencia, las donaciones deben cumplir los siguientes requisitos:
-Que sean de poca monta. Al no encontrarse definida esta expresión en la Ley N° 16.271, dichas palabras deben entenderse en su sentido natural y obvio según el uso general de las mismas, de acuerdo a lo dispuesto en el artículo 20° del Código Civil. Al respecto, conforme a las definiciones que provee el Diccionario de la Real Academia Española, para que una donación pueda ser beneficiada con la franquicia en análisis, debe ser de un monto y/o valor de poca importancia.
-Las donaciones deben estar establecidas por la costumbre, esto es, el hábito, modo habitual de obrar o proceder establecido por tradición o por la repetición de los mismos actos y que puede llegar a adquirir fuerza de precepto.
-Las donaciones deben ser efectuadas a personas que respecto del donante, no sean, el cónyuge, ascendiente o adoptante, hijo o adoptado o a la descendencia de ellos. Asimismo, se excluyen a los donatarios que tengan con el causante un parentesco colateral de segundo, tercero o cuarto grado.
-Conforme lo expuesto precedentemente, y respondiendo sus consultas, se puede informar lo siguiente:
-Tratándose de las donaciones de poca monta establecidas por la costumbre efectuadas por socios colaboradores, en principio es admisible la suscripción de un formulario en línea llenado por el socio colaborador, el cual contenga las menciones necesarias para individualizar al donante y el monto donado, sin perjuicio de mantener y conservar un registro que permita su posterior fiscalización.
-En cuanto a la posibilidad que la corporación reciba donaciones de poca monta on line, sin realiza r el trámite d e insinuación, cabe señalar que dicha cuestión excede las materias de índole tributaria .
-En efecto, de acuerdo al artículo 18 de la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones, las donaciones que enumera se encuentran exentas del Impuesto a las Donaciones, pero no las libera expresamente del trámite de insinuación, contemplado en los artículos 1401 y siguientes del Código Civil y en el Título IX, Libro IV del Código de Procedimiento Civil . En consecuencia, no compete a este Servicio pronunciarse sobre la materia.
-En cuanto al monto de las donaciones, para que puedan considerarse de “ poca monta” establecida s por la c ostumbre , cabe señalar que, según ha resuelto este Servicio en otras oportunidades, no es posible establecer a priori y sin consideración a las condiciones concretas en que se verifique el acto en particular, que una donación dentro de determinado rango sea de poca monta, pues se trata de un aspecto que debe ser analizado caso a caso .
-Por otra parte, es pertinente precisar que la exención alcanza a las donaciones (de poca monta) “establecidas por la costumbre”, esto es, aquellas respecto de las cuales donar constituya un hábito o modo habitual de obrar o proceder establecido por tradición o por la repetición de los mismos actos y que alcance fuerza de precepto ; requisito que se cumpliría en la especie, en la medida que, habitualmente las actividades culturales, dada su naturaleza, se financian con donaciones del público.
-Luego, en el caso analizado, quedarían amparadas las donaciones que efectúen los socios colaboradores destinados a financiar distintos programas de la corporación (tales como becar a niños y jóvenes en los diversos programas de formación artística de la propia corporación y su escuela de las artes), mediante aportes espontáneos únicos de poca monta efectuados por personas naturales.
-En relación con lo consultado en la letra d) del Antecedente, téngase presente lo señalado en las letras a) y b) anteriores del Análisis, precisándose que, especialmente en la modalidad de donación on line o a través de la plataforma de BBB , es posible mantener y conservar un registro con información mínima para individualizar al donante y el monto donado , aunque no se proporcione mayor información de contacto.
-En cuanto a los documentos que debería emitir para acreditar la recepción de esas donaciones, por tratarse de operaciones que no dan cuenta de un servicio o una venta , gravados con el Impuesto al Valor Agregado, no existe la obligación de emitir boletas o facturas . E n consecuencia, la corporación podrá utilizar y emitir cualquier documento de carácter interno que estime conveniente y que acredite fehacientemente la recepción de la donación recibida.
-Finalmente, respecto de donaciones que no puedan acogerse a la exención contenida en el artículo 18 N° 2 de la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones, ni en ninguna otra ley especial, podría ser aplicable lo dispuesto en el N° 5 del citado artículo 18, que declara exentas las donaciones cuyo único fin sea la beneficencia, la difusión de la instrucción o el adelanto de las ciencias en el país, entendiéndose que las actividades y fines estatutarios de la corporación se vinculan directamente con la difusión de la instrucción en el país.
-Tal podría ser el caso de las donaciones efectuadas con la finalidad específica de financiar el programa “butacas educativas”, en virtud del cual la corporación asigna asientos a los colegios que deseen asistir con sus alumnos a las funciones que programe la corporación, sin costo para los alumnos.
+
+El artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas dispone que sólo estarán exentos de los impuestos que establece ese decreto ley, los documentos que den cuenta de los actos, contratos o convenciones que a continuación señala, dentro de los cuales, el N° 6 contempla los documentos otorgados por bancos o instituciones financieras en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones. La norma agrega que la lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile.
+
+En cumplimiento de la citada disposición, la Resolución N° 137, de 1975, estableció los documentos exentos de impuesto de acuerdo con la misma norma, instruyendo que respecto de ellos debían concurrir los siguientes requisitos copulativos:
+
+Que el emisor del documento sea una institución financiera.
+
+Que el o los documentos incidan en operaciones de captación de capitales de ahorrantes o inversionistas.
+
+Que el o los documentos den cuenta de operaciones de crédito de dinero.
+
+Que el o los documentos sean necesarios para la realización de dichas operaciones de crédito de dinero.
+
+Dicho lo anterior y en lo que respecta específicamente a los criterios que solicita confirmar, se puede señalar lo siguiente.
+
+En primer lugar, y sobre el concepto de &ldquo;institución financiera&rdquo; la Superintendencia de Bancos e Instituciones Financieras, mediante Carta Circular N° 46 de 1979, ha señalado que es una expresión genérica que comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último cuando expresamente está facultada por la ley para ello.
+
+Atendido el concepto genérico de &ldquo;institución financiera&rdquo; empleado por la Superintendencia del ramo, este Servicio ha reconocido tal calidad a diferentes contribuyentes, siempre que se acredite cumplir los elementos del concepto de &ldquo;institución financiera&rdquo; ya citado, cuestión de hecho entregada a las instancias de fiscalización correspondientes[2].
+
+En el presente caso, si bien la peticionaria no es de aquellas instituciones que por ley se encuentre sujeta a la fiscalización de la Superintendencia y por la misma razón no cuenta con un pronunciamiento previo de la Superintendencia que le confiera el carácter de &ldquo;institución financiera&rdquo;, cumpliría los elementos básicos del concepto genérico contenido en la Carta Circular N° 46 de 1979, esto es, tratarse de una empresa que habitualmente se dedica a prestar dinero o a conceder créditos con sus propios fondos.
+
+Luego, si bien este Servicio no puede calificar a priori y en forma indefinida la calidad de &ldquo;institución financiera&rdquo;, la exención contenida en el N° 6 del artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas, será procedente en la medida que &ndash; junto con las demás exigencias legales &ndash; la peticionaria efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con sus propios fondos; cuestión de hecho que debe ser verificada en la instancia de fiscalización correspondiente.
+
+En segundo lugar, y en relación con los documentos otorgados con ocasión de la captación de fondos de inversionistas locales expresamente señalados en la Resolución N° 137, de 1975, cabe señalar que efectivamente se enumeran el contrato de mutuo y los pagarés (resolutivo 1°, letras b y d),
+
+Al respecto, en cuanto al requisito de incidir los documentos otorgados en operaciones de &ldquo;captación&rdquo; de capitales, este Servicio se ha remitido al concepto amplio contenido en la Recopilación Actualizada de Normas, Capítulo 2-1, de la Superintendencia de Bancos e Instituciones Financieras, en el sentido que &ldquo;El concepto de captación tiene en la legislación vigente una acepción amplia, de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del público, sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma. Así, por ejemplo, constituyen captaciones la recepción de depósitos en cuentas corrientes bancarias o en cuentas de ahorro, los depósitos a la vista o a plazo en general, la emisión y colocación en el mercado de bonos o letras de crédito y las ventas con pacto de retrocompra de títulos de crédito.&rdquo;
+
+En tercer lugar, se señala que los &ldquo;inversionistas locales&rdquo; no sólo pueden ser bancos, sino también otras personas jurídicas y naturales que colocan dinero con la finalidad de percibir un interés. En este sentido se pronunció la Circular N° 58 de 1978, concluyendo que inversionista es genéricamente una persona o institución que hace una inversión de caudales con el objeto de obtener o redituar un interés o beneficio pecuniario. Luego, se comparte que los bancos mutuantes, fondos de inversión, sociedades de inversión y personas naturales respecto del financiamiento que conceden pueden calificar como inversionistas locales para efectos de la exención en análisis.
+
+Finalmente, en cuanto a la exigencia que los documentos sean necesarios para la realización de operaciones de crédito de dinero, cabe recordar que, como lo ha señalado este Servicio previamente, se excluyen aquellas operaciones de crédito que no reúnen el carácter de indispensables para la institución financiera porque no se relacionan con la finalidad de captar ahorros y efectuar intermediación financiera, como es la obtención de créditos para efectos de su financiamiento.[3]
 
 III CONCLUSIÓN
-Ténga n se por absueltas las diversas consultas formuladas, en los términos indicados en el Análisis precedente.
+
+De acuerdo con lo anteriormente expuesto, y respecto de las materias específicamente consultadas, se señala que:
+
+En principio, XXXXXX puede considerarse una institución financiera, en la medida que acredite ante las instancias fiscalizadoras que cumple los requisitos señalados en el análisis precedente.
+
+Los contratos de mutuo y pagarés, en la medida que incidan en la captación de capitales y den cuenta de operaciones de crédito de dinero, son documentos que pueden acogerse a la exención en comento (Resolución N° 137 de 1975).
+
+Dentro del concepto de &ldquo;inversionistas locales&rdquo;, pueden considerarse los bancos y otro tipo de entidades o personas naturales que colocan recursos con el objeto de percibir un interés.
 
 FERNANDO BARRAZA LUENGO
+
 DIRECTOR
 
-Oficio N° 2869 de 18.10.2016
+Oficio N° 3099, de 18.11.2016
+
 Subdirección Normativa
+
 Dpto. de Técnica Tributaria
+
+[1] Artículo cuarto, sobre el objeto de la sociedad, contenido en la escritura pública de constitución de la sociedad, de fecha 21.12.2011, otorgada ante la Notario Público de Santiago, TTT, suplente del titular don YYYY.
+
+[2] Oficio N° 2633 de 2015
+
+[3] Oficio N°1599 de 2014 y N°1264 de 2009.

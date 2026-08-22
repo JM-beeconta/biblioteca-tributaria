@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='margin-bottom:0px;'> Circular N° 42 del 11 de Julio del 2016 Vigencia y aplicación de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuente: Departamento de Asesoría Jurídica Modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, introducidas a los artículos 26 bis y 100 bis del Código Tributario y al procedimiento administrat…
+;a Jurídica Modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, introducidas a los artículos 26 bis y 100 bis del Código Tributario y al procedimiento administrativo de calificacion de actos o negocios como elusivos, incorporado en materia de medidas antielusivas por la Ley N° 20.780. Fuente: Departamento de Asesoría Jirídica
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2014
-- Fecha: 2014-05-19
+- Fecha: 2014-05-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu30.pdf
 - Hash SHA-256: 4e9141316d6dceca135cc5fdb65c5ba214679c15772cca3842d6b6de39c613ff
 
 ## Resumen
 
-ular N° 31 del 19 de Mayo del 2014 Regula obligación de inscribirse en el registro del Rol Único Tributario y de dar aviso de Inicio de Actividades, respecto de personas sin domicilio no residencia en Chile y de otros entes con o sin personalidad jurídica constituidos u organizados en el extranjero Fuente: Departamento de Normas Internacionales Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2014 y el 9 de junio del año 2014 Fuente: Oficina de Gestión Normativa Circular N° 29 d…
+as Internacionales Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2014 y el 9 de junio del año 2014 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

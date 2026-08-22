@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 59
 - Año: 2016
-- Fecha: 2016-10-12
+- Fecha: 2016-09-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu59.pdf
 - Hash SHA-256: 3688829e04ade2429640b51440e7792ac3def3a873097b08d5a8c20db15f39a1
 
 ## Resumen
 
-> Fuente: Oficina de Gestión Normativa Circular N° 60 del 12 de Octubre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2016 y el 9 de noviembre del año 2016 Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2016 Fuente: Subdirección de Fiscalización Circular N° 58 del 09 de Septiembre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2016 y el 9 de octubre del año 2016 F…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

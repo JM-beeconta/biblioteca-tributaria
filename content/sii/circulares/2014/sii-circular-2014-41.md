@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 41
 - Año: 2014
-- Fecha: 2014-07-30
+- Fecha: 2014-07-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu41.pdf
 - Hash SHA-256: 39647e9cf98aeb1ce9596b74d984341a109fdd2031c557056ea318a41ec7810d
 
 ## Resumen
 
-> Fuente: Oficina de Gestión Normativa Circular N° 42 del 30 de Julio del 2014 Tabla de Cálculos de Reajustes, Intereses y Multas agosto 2014 Fuente: Subdirección de Fiscalización Complementa Circular N° 20, de 2014, respecto de la rebaja del impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente. Fuente: Subdirección de Avaluaciones Circular N° 40 del 10 de Julio del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2014 y el 9 de…
+scalización Complementa Circular N° 20, de 2014, respecto de la rebaja del impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

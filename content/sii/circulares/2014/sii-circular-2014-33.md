@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2014
-- Fecha: 2014-06-05
+- Fecha: 2014-05-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu33.pdf
 - Hash SHA-256: 54298b5e1e81a287d1717e770d2b90e4a0a4476b8b369cec417bdd6ac6f271a9
 
 ## Resumen
 
-Circular N° 34 del 05 de Junio del 2014 Instruye sobre el tratamiento tributario de las donaciones con fines culturales,a raíz de la sustitución del artículo 8° de la Ley N°18.985, efectuada por el artículo único de la Ley N°20.675. Fuente: Impuestos Directos Tablas de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2014 Fuente: Subdirección de Fiscalización Circular N° 32 del 27 de Mayo del 201…
+Impuestos Directos Tablas de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2016
-- Fecha: 2016-09-09
+- Fecha: 2016-08-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu56.pdf
 - Hash SHA-256: 8ea55bc6f9c6c20dea78e0bc07c2d6e709c6da6b0fef424b7d1effae4adc8144
 
 ## Resumen
 
-Circular N° 57 del 09 de Septiembre del 2016 Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de octubre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas septiembre 2016 Fuente: Subdirección de Fiscalización Circular N° 55 del 19 de Agosto del 2016 Refunde y actualiza instrucciones sobre la aplicación del crédito tributario establecido a favor de las empresas co…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas septiembre 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

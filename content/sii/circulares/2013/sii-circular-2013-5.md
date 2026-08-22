@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-top:0px;margin-bottom:0px;'>Instruye sobre las modificaciones efectuadas por la Ley 20.630, a la Ley sobre Impuesto a la Renta, que rebaja las escalas de tasas de los impuestos Únicos de Segunda Categoría y Global Complementario, perfecciona las normas que permiten efectuar una reliquidación anual del impuesto Único de Segunda categoría y establece un crédito por gastos en educación imputable a los referidos tributos. Fuente: Depto. Impuestos Directos. Tabla de Cálculos de Reajustes, Intereses y Multas febr…
+mpuestos Directos. Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2013. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

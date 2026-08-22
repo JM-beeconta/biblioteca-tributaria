@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 al beneficio tributario contenido en el artículo 57 bis de la Ley sobre Impuesto a la Renta a contar del 1° de enero de 2015, su derogación a partir del 1° de enero de 2017 y sobre el tratamiento del saldo de ahorro por las inversiones que se efectúen hasta el 31.12.2016 y se hayan acogido a dicha norma legal. Fuente: Impuestos Directos Instruye sobre las modificaciones a la Ley sobre Impuesto a la Renta que se indican, efectuadas por la Ley N° 20…
+Impuestos Directos Instruye sobre las modificaciones a la Ley sobre Impuesto a la Renta que se indican, efectuadas por la Ley N° 20.780 y que rigen a contar del 1° de enero de 2015 Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

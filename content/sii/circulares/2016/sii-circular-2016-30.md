@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2016
-- Fecha: 2016-05-12
+- Fecha: 2016-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu30.pdf
 - Hash SHA-256: 8b36cbab2aebfc26e4f6afa68c44a3f4838817b09c9820dca93df3b43bf083d3
 
 ## Resumen
 
-N° 31 del 12 de Mayo del 2016 Instruye sobre las sanciones aplicables conforme a lo dispuesto por el N°6 del Artículo 41 e de la Ley sobre Impuesto a la Renta (LIR), por la no presentación de la declaración jurada a que se refiere dicha norma, o su presentación errónea, incompleta, extemporanea, o maliciosamente falsa. Fuente: Departamento Análisis Selectivo del Cumplimiento Tributario Modificaciones introducidas por la Ley N° 20.899, de 8 de febrero de 2016, al Código Tributario. Modifica las Circulares N°s 47, 5…
+imiento Tributario Modificaciones introducidas por la Ley N° 20.899, de 8 de febrero de 2016, al Código Tributario. Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015. Complementa la Circular N° 58, de 2015. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

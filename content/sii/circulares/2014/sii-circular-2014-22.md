@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Abril del 2014 Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 1° de abril de 2014. Fuente: Impuestos Directos Tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley 20.444, en vi…
+Impuestos Directos Tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley 20.444, en virtud de las modificaciones efectuada por la Ley N° 20.565. Fuente: Depto. de Impuestos Directos
 
 ## Referencias detectadas
 

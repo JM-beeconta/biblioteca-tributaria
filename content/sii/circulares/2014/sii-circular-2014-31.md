@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2014
-- Fecha: 2014-05-27
+- Fecha: 2014-05-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu31.pdf
 - Hash SHA-256: 673fe84d173a468f6c94b1b65e77ac0a95ce56915e9090a165d6b88eba95fbbe
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 32 del 27 de Mayo del 2014 Tabla de Cálculos de Reajustes, Intereses y Multas junio 2014 Fuente: Subdirección de Fiscalización Regula obligación de inscribirse en el registro del Rol Único Tributario y de dar aviso de Inicio de Actividades, respecto de personas sin domicilio no residencia en Chile y de otros entes con o sin personalidad jurídica constituidos u organizados en el extranjero Fuente: Departamento de Normas Internacionales Circular N° 30 del 13 de Mayo…
+scalización Regula obligación de inscribirse en el registro del Rol Único Tributario y de dar aviso de Inicio de Actividades, respecto de personas sin domicilio no residencia en Chile y de otros entes con o sin personalidad jurídica constituidos u organizados en el extranjero Fuente: Departamento de Normas Internacionales
 
 ## Referencias detectadas
 

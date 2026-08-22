@@ -6,157 +6,49 @@
 - Año: 2014
 - Fecha: 2014-02-24
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja343.doc
-- Hash SHA-256: feadc76f599ed88dc7b08768a8eace9dde5129fbfe913e3a948af173da05be3f
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja344.htm
+- Hash SHA-256: 0c55a295948a32e0d516a30386b11ef3f8e6588ee34900630d49df1e5f108d0f
 
 ## Resumen
 
-dash; Circular N° 56, de 1993 &ndash; .818, de 2004 (Ord. Nº 344, de 24-02-2014) | Word Solicita se considere a una determinada institución, como receptora para los efectos del artículo 57 bis de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 54°, N°3, Art. 42°, ter &ndash; Circulares N° 23, de 2002 y N° 18, de 2011. (Ord. Nº 343, de 24-02-2014) | Word Retiros de excedentes de libre disposición inferiores a las 200 o 800 UTM a que se refiere el inciso 1°, del artículo 4…
+Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 57° bis Letra A), Art. 43°, N°1 &ndash; Circular N° 56, de 1993 &ndash; .818, de 2004 (Ord. Nº 344, de 24-02-2014) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":23,"year":2002}
-- {"type":"circular","number":18,"year":2011}
-- {"type":"articulo","law":"LIR","article":"54"}
-- {"type":"articulo","law":"LIR","article":"42 ter"}
-- {"type":"articulo","law":"LIR","article":"42 quáter"}
-- {"type":"articulo","law":"LIR","article":"42  ter"}
+- {"type":"circular","number":56,"year":1993}
+- {"type":"articulo","law":"LIR","article":"57 BIS"}
+- {"type":"articulo","law":"LIR","article":"57 bis"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 54°, N°3, ART. 42°, TER –
-  CIRCULARES N° 23, DE 2002 Y N° 18, DE 2011. (ORD. N° 343, DE 24.02.2014)
-
-
-Retiros de excedentes de libre disposición inferiores a las 200 o 800 UTM  a
-que se refiere el inciso 1°, del artículo 42 ter de la Ley sobre Impuesto  a
-la Renta, constituyen rentas exentas del Impuesto Global Complementario.
-
-I.- ANTECEDENTES.
-
-Manifiesta que el suplemento tributario correspondiente  al  año  tributario
-2013 de este Servicio, al señalar  las rentas que se informan  en  la  línea
-8,  esto es, aquellas exentas del Impuesto  Global  Complementario,  indica,
-entre otras,  en  su  letra  (h)  a  los  retiros  de  excedentes  de  libre
-disposición, cuyo monto no ha excedido de los límites  exentos  de  impuesto
-de 200 o 800 UTM, los que deben declararse como rentas  exentas  de  acuerdo
-con las disposición mencionada, en concordancia con lo  establecido  por  el
-N° 3, del artículo 54 de la LIR.
-
-No obstante ello, indica, el suplemento tributario  correspondiente  al  año
-anterior (año tributario  2012)  señaló  algo  distinto,  indicando  que  de
-acuerdo al alcance que se le dio a la expresión  “libre  de  impuestos“  que
-utilizan los artículos 42 ter y 42 quáter de la LIR,  mediante  la  Circular
-18 de 2011 de este Servicio, en cuanto que dicha expresión  debe  entenderse
-que las rentas no se afectan con ninguna tributación respecto a los  retiros
-de los ELD efectuados durante el año  calendario  2011,  conforme  con   las
-normas del artículo 42 ter de  la  LIR,  cuyos  montos  no  exceden  de  los
-límites exentos de 200 o 800 UTM, según corresponda, al 31 de  diciembre  de
-2011, no existiendo obligación de declararlas en esa línea como  una  “renta
-exenta” para los fines de la progresión del Impuesto  Global  Complementario
-ordenada por el N° 3, del artículo 54 de la LIR.
-
-Seguidamente, recalca que el texto del artículo 42 ter referido, utiliza  la
-expresión “libre de impuestos”, con ciertas restricciones,  pero  en  ningún
-caso lo denomina renta exenta, como lo hace  el  citado  Suplemento,  y  esa
-idea se recalca en la Circular 18 de 2011.
-
-Por lo anterior, considera importante el corregir tal  información  para  el
-suplemento tributario correspondiente al año tributario 2014, y  permitir  a
-los  contribuyentes  que  declararon  como  exentas  los  retiros  de   ELD,
-rectificar sus declaraciones de impuestos en ese año.
-
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 57° BIS LETRA A), ART. 43°, N°1 – CIRCULAR N° 56, DE 1993 – OFICIO N° 2.818, DE 2004 (ORD. N° 344, DE 24.02.2014)
+SOLICITA SE CONSIDERE A UNA DETERMINADA INSTITUCIÓN, COMO RECEPTORA PARA LOS EFECTOS DEL ARTÍCULO 57 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA.
+I.- ANTECEDENTES. Expresa, que en virtud de lo dispuesto en la Ley N°18.660, la Mutual XXXX se encuentra autorizada para celebrar contratos de seguros de vida a base de prima, rigiéndose por el D.F.L. N°251 de 1931, del Ministerio de Hacienda.
+Dentro de sus operaciones, señala que la referida Corporación intermedia diversas modalidades de seguros de vida, entre los cuales se encuentran los seguros de vida con cuenta única de inversión, coberturas de aseguramiento que además de brindar protección en caso de fallecimiento y de otros eventos, disponen de una cuenta de ahorro a favor del asegurado. Agrega, que en la actualidad en el mercado asegurador, algunas compañías de seguros de vida, intermedian seguros con cuenta única de inversión acogiéndose al artículo 57 bis de la LIR, en atención a que dichos productos disponen de una cuenta de ahorro asociada a un seguro de vida, que cumple con las características indicadas en el artículo 57 bis, quedando claramente establecido en las condiciones generales que rigen dicho contrato.
+Por lo anterior, atendido a que esa corporación dispone que ese tipo de seguros de vida y que su intención es permitir que sus asegurados puedan acogerse al mecanismo establecido en el artículo 57 bis de la LIR, solicita que este Servicio considere a la Mutual XXXX para los efectos del referido artículo.
 II- ANÁLISIS.
-El artículo 42 ter de la LIR, dispone que el monto de los ELD, calculado  de
-acuerdo a lo establecido en el Decreto Ley N° 3.500 de  1980  y  determinado
-al momento en que los afiliados opten por pensionarse,  puede  ser  retirado
-libre de impuesto hasta por un  máximo  anual  equivalente  a  200  unidades
-tributarias mensuales, no pudiendo, en todo caso, exceder dicha exención  al
-equivalente  a  1.200  unidades  tributarias  mensuales.   Conforme   a   lo
-establecido por la  referida  disposición,  el  contribuyente  puede  optar,
-alternativamente, por acoger sus  retiros  a  una  exención  máxima  de  800
-unidades tributarias mensuales durante un año.
-El inciso segundo del artículo 42 ter de la  LIR,  preceptúa  que  para  que
-opere la exención señalada, los aportes  que  se  efectúen  para  constituir
-dicho ELD,  por  concepto  de  cotización  voluntaria,  depósito  de  ahorro
-voluntario o  depósito  ahorro  previsional  voluntario  colectivo,  deberán
-haberse efectuado con a lo menos cuarenta y ocho meses de anticipación a  la
-determinación de dicho excedente.
-En este sentido, si bien el inciso primero, del artículo 42 ter  de  la  LIR
-utiliza la expresión “libre de impuesto”, el inciso segundo de  esta  norma,
-otorga expresamente a dicha liberación el carácter de  una  exención,  y  en
-consecuencia las cantidades retiradas deben formar parte de la  renta  bruta
-del Impuesto Global Complementario, de acuerdo a lo que estipula  el  N°  3,
-del artículo 54 de la LIR, declarándose en la línea  8  del  formulario  22,
-para efectos de la declaración anual de impuestos a la  renta,  como  ocurre
-con la generalidad de las rentas exentas del referido tributo.
+El artículo 57 bis de la LIR, en su letra A), dispone que las personas gravadas con los impuestos establecidos en los artículos 43 N°1, o 52, de la misma ley, que opten por invertir en los instrumentos o valores que se indican en dicha norma, en aquellas instituciones que se acojan al sistema allí establecido, tendrán derecho a un crédito imputable al impuesto Global Complementario o al impuesto único a las rentas del trabajo, según corresponda o, en su caso, deberán considerar un débito al impuesto en las condiciones y forma que indica.
 
-En consonancia con el texto legal, la Circular N° 23 de 2002,  publicada  en
-la página web de este Servicio (www.sii.cl), señala, luego de  analizar  las
-modalidades de retiro de ELD  que  la  analizada,  se  trata  de  una  renta
-exenta.  Tal  situación  ha   sido   reiterada   en   forma   sostenida   en
-pronunciamientos anteriores  de  este  Servicio[1],  donde  se  insiste  que
-conforme a lo dispuesto por el N° 3, del artículo 54 de la  LIR  y  atendido
-el carácter global y  progresivo  del  Impuesto  Global  Complementario,  el
-pensionado está obligado a declarar todas las rentas  percibidas  en   dicho
-tributo, tanto las afectas como las exentas, es decir,  en  tal  caso,  debe
-declarar en la base imponible de dicho  impuesto  como  rentas  afectas,  el
-monto de los ELD que supera los límites exentos, y como rentas  exentas,  la
-parte de dichos excedentes que se encuentra dentro de tales límites.
-Por otra parte, debe tenerse presente que la Circular N° 18 de 2011 de  este
-Servicio, que interpreta  el  alcance  de  la  frase  “libre  de  impuestos”
-contenida en el artículo 42 quáter de la LIR, se refiere a lo que  establece
-dicha norma y en el contexto de lo que ella dispone, y por tanto,  no  puede
-extenderse su interpretación a lo preceptuado en el artículo 42  ter  de  la
-LIR.
+El N°1 de dicho artículo, establece que los instrumentos o valores susceptibles de acogerse al mecanismo que trata esa letra deben ser extendidos a nombre del contribuyente, en forma unipersonal y nominativa, pudiendo sólo ser emitidos o tomados por bancos, sociedades financieras, compañías de seguros de vida, fondos mutuos, fondos de inversión, y administradoras de fondos de pensiones, establecidos en Chile, los que para este efecto se denominan Instituciones receptoras, agregando que las compañías de seguros de vida se incluyen en éstas sólo en lo que se refiere a las cuentas de ahorro asociadas a seguros de vida.
+De este modo, supuesto a que se cumplan con las condiciones establecidas en el artículo, se incluyen dentro de los instrumentos o valores indicados, las cuentas de ahorro asociadas a seguros de vida, agregando, que en ningún caso, podrán acogerse al mecanismo establecido en esa letra los instrumentos a plazo fijo de menos de un año, debiendo este Servicio establecer la lista de instrumentos susceptibles de acogerse al mecanismo que trata dicha letra, obligación que cumplió a través de la dictación de la Circular N°56 de 1993.
+
+En su Capítulo III, Letra B), N°2, letras b), c) y d), en lo concerniente a las cuentas de ahorro asociadas a los seguros de vida, dicho instructivo prescribe que requirió un informe sobre el tema a la Superintendencia de Valores y Seguros, organismo que informó que tales cuentas se refieren al componente de ahorro de aquellos seguros de vida con valores garantizados y cuya prima tiene además del componente de ahorro, un componente de riesgo, teniendo las siguientes características:
+• Estos seguros contemplan en el condicionado general y particular de sus pólizas un artículo relacionado con los valores garantizados, específicamente el derecho a "valores de rescate". Se entiende por "valor de rescate" el retiro anticipado que el propio asegurado puede hacer de sus ahorros acumulados en la póliza, luego de un período de vigencia básica, generalmente 3 años.
+• Las condiciones generales de todos ellos se encuentran registradas en la Superintendencia de Valores y Seguros;
+• Las compañías de seguros deben constituir, por ellos, un pasivo denominado "reserva matemática"; y
+• La prima o tarifa de estos seguros tiene un componente de riesgo y un componente de ahorro.
+El instructivo reitera que aquellas entidades que opten por acogerse al sistema de incentivo de ahorro en referencia y, por consiguiente, emitan o tomen los instrumentos o valores en los cuales los contribuyentes pueden invertir, para los efectos de la administración de este mecanismo se denominarán Instituciones Receptoras, debiendo emitir especialmente los instrumentos o valores indicados para los efectos del referido mecanismo, diferenciándolos claramente de los demás títulos o instrumentos de ahorro que emitan.
+Así, dentro de las instituciones que pueden emitir los citados instrumentos o valores se encuentran las Compañías de Seguros de Vida, en el caso de las cuentas de ahorro asociadas a seguros de vida.
+En relación con la materia, la Circular declara que las Instituciones Receptoras no necesitarán inscribirse en ningún registro, ni dar cuenta a determinada autoridad de su decisión de incorporarse a este sistema. Bastará que dé cumplimiento a las exigencias de la ley y a su reglamentación y que celebre con el cliente el respectivo contrato con la adquisición del instrumento o la apertura de la cuenta de ahorro, según corresponda.
+En coherencia con ello, este Servicio por la vía administrativa ha señalado que carece de competencia para autorizar textos de pólizas de seguros para que la cuenta de ahorro asociada al seguro sea acogida al sistema establecido en el artículo 57 bis de la LIR, no siendo necesario contar con tal anuencia .
+Por la consideración precedente, resulta improcedente que este Servicio efectúe una declaración en orden a considerar a la ocurrente como Institución Receptora para los efectos del artículo 57 bis de la LIR.
+
 III.- CONCLUSIÓN.
+Este Servicio carece de facultades para declarar formalmente que la Mutual de Seguros ocurrente puede operar como Institución Receptora para los efectos previstos en el artículo 57 bis de la LIR. No obstante lo anterior, se hace presente que para actuar en tal calidad, tanto la institución como los instrumentos respectivos, deben cumplir con los requisitos establecidos en la Ley y en la Circular N°56 de 1993, antes comentada, cuyo texto íntegro se encuentra disponible en la página web de este Servicio www.sii.cl., y sus modificaciones posteriores, de la cual sólo se mencionaron aspectos esenciales en el análisis precedente.
 
-Atendidos los términos del artículo 42 ter de la LIR, así como lo  instruido
-por este Servicio en la Circular N° 23 de 2002 sobre la materia, y  teniendo
-presente que las instrucciones contenidas en la Circular N° 18  de  2011  se
-refieren a lo dispuesto en el artículo 42 quáter de  la  LIR,  cabe  señalar
-que la primera de estas disposiciones otorga el carácter de renta  exenta  a
-los retiros de  ELD  que  no  superen  los  límites  allí  establecidos.  En
-consecuencia, se confirman las instrucciones  contenidas  en  el  suplemento
-tributario correspondiente al año tributario 2013, en  el  sentido  que  las
-cantidades exentas que allí se indican, deben incorporarse  en  la  línea  8
-del Formulario 22, como rentas exentas del Impuesto  Global  Complementario,
-para los fines de determinar la progresividad del referido tributo según  lo
-dispone el N° 3, del artículo 54 de la LIR.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR(S)
 
-
-
-
-
-
-
-
-
-
-
-                                              JUAN ALBERTO ROJAS BARRANTI
-
-
-       DIRECTOR (S)
-
-
-
-
-
-
-
-
-                        Oficio N° 343, de 24.02.2014
-                           Subdirección Normativa
-                        Dpto. de Impuestos Directos.
-
-
-
-
-
-
-
-
------------------------
-[1] Por ejemplo, Oficios N°s, 2.446 y 3.987 de 2005; 648,706, 834 y 1.485
-de 2008, de este Servicio.
+Oficio N° 344, de 24.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

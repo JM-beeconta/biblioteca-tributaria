@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 46
 - Año: 2014
-- Fecha: 2014-09-10
+- Fecha: 2014-08-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu46.pdf
 - Hash SHA-256: 391e0dde6f3488a5c7530ae136a8e993db9dbbb2655ecb18dfa971297b15eaeb
 
 ## Resumen
 
-n> Circular N° 47 del 10 de Septiembre del 2014 Tablas de Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2014 e información adicional relacionada con dicho tributos Fuente: Oficina de Gestión Normativa Tablas de Cálculos de reajustes, intereses y multas septiembre 2014 Fuente: Subdirección de Fiscalización Circular N° 45 del 21 de Agosto del 2014 Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.752 al artículo segundo transi…
+oacute;n Normativa Tablas de Cálculos de reajustes, intereses y multas septiembre 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

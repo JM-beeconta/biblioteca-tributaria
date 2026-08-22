@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 6
 - Año: 2014
-- Fecha: 2014-02-07
+- Fecha: 2014-01-31
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu6.pdf
 - Hash SHA-256: 58213ab7019e2040cb03c0272826ab43a3b28acf84a5d89286d9e8f4b0b706b9
 
 ## Resumen
 
-ttom:0px;'> Circular N° 7 del 07 de Febrero del 2014 Instrucciones respecto del término de la vigencia de las normas establecidas en la Ley N°20.365 de 2009, que otorgan un crédito tributario a las empresas constructoras que instalen Sistemas Solares Térmicos en las viviendas que construyan Fuente: Impuestos Directos Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas habitacionales, estacionamientos y bodegas acogidos a copropiedad inmobiliaria, sitios no edificados…
+Impuestos Directos Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas habitacionales, estacionamientos y bodegas acogidos a copropiedad inmobiliaria, sitios no edificados, propiedades abandonadas y pozos lastreros reavaluados Fuente: Subdirección Avaluaciones
 
 ## Referencias detectadas
 

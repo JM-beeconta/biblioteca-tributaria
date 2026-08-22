@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización Circular N° 26 del 09 de Abril del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2014 y el 9 de mayo del año 2014. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 24 del 09 de Abril del 2014 Informa porcentaje de reajuste a…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

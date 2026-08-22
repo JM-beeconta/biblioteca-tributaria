@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an> Circular N° 3 del 09 de Enero del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Informa factores a utilizar para los efectos de determinar el incremento por impuesto de primera categoría de la Ley de la Renta y su correspondiente crédito por igual concepto, a que se refieren los artículos 38 bis, 54 n° 1, 62, 56 n° 3 y 63 de la Ley precitad…
+oacute;n Normativa Informa factores a utilizar para los efectos de determinar el incremento por impuesto de primera categoría de la Ley de la Renta y su correspondiente crédito por igual concepto, a que se refieren los artículos 38 bis, 54 n° 1, 62, 56 n° 3 y 63 de la Ley precitada. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

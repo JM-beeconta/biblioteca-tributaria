@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2014
-- Fecha: 2014-02-12
+- Fecha: 2014-02-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu9.pdf
 - Hash SHA-256: 9e0eb932a52ccde3ef6a30170d54170849795a00414a3e295926c0d8c6c38bb6
 
 ## Resumen
 
-an> Circular N° 10 del 12 de Febrero del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2014 y el 9 de marzo del año 2014 Fuente: Oficina de Gestión Normativa Circular N° 8 del 07 de Febrero del 2014 Instruye sobre las modificaciones efectuadas por la Ley N°20.6…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2014 y el 9 de marzo del año 2014 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

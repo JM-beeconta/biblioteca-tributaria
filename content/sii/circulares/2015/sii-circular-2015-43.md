@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2015
-- Fecha: 2015-06-10
+- Fecha: 2015-06-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu43.pdf
 - Hash SHA-256: 57426c33e8c8b6ead2e68c115b196d0b0f9cc8b3ce40e6e7167447070e3c9b53
 
 ## Resumen
 
-pan> Circular N° 44 del 10 de Junio del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global complementario para el mes de julio del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel Fuente: Departamento de Asesoría Jurídica Circular N° 42 del 05 de Junio del 2015 Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artí…
+oacute;n Normativa Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

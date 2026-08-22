@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 58
 - Año: 2014
-- Fecha: 2014-11-14
+- Fecha: 2014-11-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu58.pdf
 - Hash SHA-256: a092376066ac55f66424c708332fc4b0f675cb72f618d87ccc292cd690ef450d
 
 ## Resumen
 
-://www.sii.cl/normativa_legislacion/circulares/2014/circu59.pdf' target='_blank'>Circular N° 59 del 14 de Noviembre del 2014 Modifica las instrucciones contenidas en Circular N°14, de 2014, relativas a la aplicación de los convenios para evitar la doble tributación internacional a las rentas e impuesto que establecen los artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta Fuente: Impuestos Directos Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre de…
+Impuestos Directos Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

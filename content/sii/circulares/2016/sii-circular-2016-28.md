@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Fuente: Departamento de Asesoría Jurídica Circular N° 29 del 10 de Mayo del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2016 y el 9 de junio del año 2016. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2016, e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 27 del 03 de Mayo del 2016 Modificación introducida por e…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2016, e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

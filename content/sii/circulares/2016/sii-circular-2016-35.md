@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 36 del 15 de Junio del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2016 y el 9 de julio del año 2016. Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 34 del 07 de Junio del 2016 Modificaciones efectuadas por l…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

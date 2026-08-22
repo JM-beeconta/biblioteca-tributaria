@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2014
-- Fecha: 2014-07-10
+- Fecha: 2014-06-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu38.pdf
 - Hash SHA-256: b387173e74d9ad5f749d366ff96528fa2fd2150bb4b3846aeb7eb9d79d72f062
 
 ## Resumen
 
-span> Circular N° 39 del 10 de Julio del 2014 Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de agosto del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes , Intereses y Multas Julio 2014 Fuente: Subdirección de Fiscalización Circular N° 37 del 10 de Junio del 2014 Imparte instrucciones sobre la aplicación de la exención contenida en el Art. 12°, letra E), N°17, del D.L. N°825, de 197…
+oacute;n Normativa Tabla de Cálculos de Reajustes , Intereses y Multas Julio 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

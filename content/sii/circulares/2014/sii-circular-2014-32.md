@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 33 del 27 de Mayo del 2014 Tablas de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2014 Fuente: Subdirección de Fiscalización Tabla de Cálculos de Reajustes, Intereses y Multas junio 2014 Fuente: Subdirección de Fiscalización Circular N° 31 del 19 de Mayo del 2014 Regula obligación de inscribirse en el registro del Rol Único Tributario y de dar aviso de Inicio de Actividades, respe…
+scalización Tabla de Cálculos de Reajustes, Intereses y Multas junio 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

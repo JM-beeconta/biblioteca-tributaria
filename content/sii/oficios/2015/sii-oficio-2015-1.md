@@ -4,51 +4,205 @@
 - Tipo: oficio
 - Número: 1
 - Año: 2015
-- Fecha: 2015-07-27
+- Fecha: 2015-07-29
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1921.htm
-- Hash SHA-256: 89bd8475271d2532a1474820e09d1f6625f3c84b2f892f6878064be7cc29d080
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1946.doc
+- Hash SHA-256: 85161a63c9f1da60a7069b0e7f2311ba7850a1595f0e3c2af6ad6bb073ac27a0
 
 ## Resumen
 
-| Word Solicita se reconsidere criterio contenido en .269 de 2013, respecto de la presunción legal de habitualidad en la enajenación de bien raíz, establecida en el inciso 3°, del artículo 18 de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndndash; Art. 15°, Art. 31°, N°9, Art. 64° bis &ndash; Ley N° 20.630, de 2012. (Ord. Nº 1921, de 27-07-2015) | Word Incidencia del goodwill producido en la fusión de sociedades que tributan en el Impuesto Específico a la Actividad Minera (IEAM)…
+| Word Solicita se reconsidere criterio contenido en .269 de 2013, respecto de la presunción legal de habitualidad en la enajenación de bien raíz, establecida en el inciso 3°, del artículo 18 de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"64 bis"}
+- {"type":"circular","number":8,"year":2000}
+- {"type":"oficio","number":1269,"year":2013}
+- {"type":"oficio","number":302,"year":2012}
+- {"type":"articulo","law":"LIR","article":"18"}
+- {"type":"articulo","law":"LIR","article":"70"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 15°, ART. 31°, N°9, ART. 64° BIS – LEY N° 20.630, DE 2012. (ORD. N° 1921, DE 27.07.2015)
-INCIDENCIA DEL GOODWILL PRODUCIDO EN LA FUSIÓN DE SOCIEDADES QUE TRIBUTAN EN EL IMPUESTO ESPECÍFICO A LA ACTIVIDAD MINERA (IEAM), EN LA DETERMINACIÓN DE LA BASE IMPONIBLE, AFECTA A DICHO IMPUESTO.
-Se ha solicitado un pronunciamiento a este Servicio, respecto de la incidencia del goodwill que puede producirse en la fusión de sociedades que tributan con el Impuesto Específico a la Actividad Minera (IEAM). I.- ANTECEDENTES.
-Señala, que el año 2007 se produjo la fusión por incorporación de dos empresas mineras. Al momento de la fusión, se ocasionó una diferencia entre el capital propio tributario de la absorbida y el valor tributario al cual se encontraba registrada la inversión en la absorbente, produciéndose en consecuencia un goodwill.
-Agrega, que esa Dirección practicó a la empresa minera absorbente, liquidaciones de impuesto como consecuencia de haberse determinado un ajuste en la Renta Imponible Operacional Minera (RIOM), producto de la amortización del goodwill generado en la referida fusión. Las liquidaciones consideran que el goodwill, no debe incidir en la determinación de la base imponible del IEAM, dado que dichas partidas no dicen relación con la venta de productos mineros, sino que son el resultado de la fusión por incorporación de dos sociedades. Es decir, si bien no se niega al contribuyente el derecho a amortizar la pérdida generada en la operación para los fines de la determinación de la RLI, por la razón señalada, dicha amortización debe ser agregada para los efectos de la conformación de la RIOM.
-Por su parte, el contribuyente argumenta, de acuerdo con el artículo 64 bis de la LlR (vigente al momento de la fusión), que para la aplicación del IEAM se deben rebajar de la RLI aquellos ingresos que no provienen directamente de la venta de productos mineros y deben agregarse los gastos y costos asociados a los ingresos objeto de dicha deducción. En consecuencia, sostiene, no existe ninguna disposición que directa o indirectamente indique que el goodwill no debe ser considerado para efectos de la determinación de la RIOM, por lo tanto, en la medida que existan activos no monetarios que se vinculen con la venta de productos mineros, no correspondería efectuar el ajuste que por dicho concepto sostiene el Servicio.
-Mediante presentación de fecha 19 de octubre de 2012, la empresa minera absorbente en el proceso de fusión en cuestión, ha solicitado ante esa Dirección, revisión de la actuación fiscalizadora de las liquidaciones practicadas.
-En atención a los antecedentes expuestos, solicita ratificar o modificar alguno de los siguientes criterios:
-1. El IEAM, por tratarse de un impuesto especial, se somete a reglas especiales, y el artículo 64 bis de la LlR (vigente al momento de la fusión) persigue depurar la RIOM. En consecuencia, el goodwill o badwill, no debe incidir en la determinación de la base imponible del IEAM, dado que dichas partidas no tienen relación directa con la venta de productos mineros, sino que son el resultado de una inversión, en este caso, de la fusión de dos sociedades; o
-2. Al tratarse de la fusión de sociedades que tributan en el IEAM, sí procede la amortización del goodwill o badwill para la determinación de la RIOM de la sociedad absorbente, incorporándolo a los activos no monetarios recibidos que se encuentren vinculados directamente con ingresos provenientes de la venta de productos mineros.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, ART. 70° – CÓDIGO CIVIL,
+ ART. 47°, N°3 – CÓDIGO DE PROCEDIMIENTO CIVIL, ART. 495° – OFICIO N° 1269,
+                   DE 2013. (ORD. N° 1946, DE 29.07.2015)
+
+
+
+
+Solicita se reconsidere criterio contenido  en  Oficio  N°  1.269  de  2013,
+respecto de la presunción legal de habitualidad en la  enajenación  de  bien
+raíz, establecida en el inciso 3°, del artículo 18 de la Ley sobre  Impuesto
+a la Renta.
+
+
+I.- ANTECEDENTES.
+
+1.- Señala, en su primer  requerimiento  que  mediante  Oficio  N°1.269,  de
+2013, se dio respuesta a su solicitud de pronunciamiento  para  los  efectos
+del cómputo del plazo de un año para la determinación de la concurrencia  de
+la presunción  legal  de  habitualidad  que  contempla  el  inciso  3°,  del
+artículo 18 de la LIR, en caso que la adquisición hubiera sido efectuada  en
+un proceso de pública  subasta.  Agrega,  que  en  este  pronunciamiento  se
+indica que para los efectos del  cómputo  de  un  año  que  contempla  dicha
+norma, se debe considerar la fecha de  la  inscripción  del  título  que  da
+cuenta de la adquisición, y de la posterior enajenación,  en  el  respectivo
+Registro de Propiedad del Conservador de Bienes Raíces.
+
+Añade, que el artículo 495 del Código de Procedimiento  Civil,  dispone  que
+el acta de remate de la clase de bienes a que se refiere el inciso  2°,  del
+artículo  1801  del  Código  Civil  (entre  ellos  los  bienes  raíces),  se
+extenderá en el registro del secretario que  intervenga  en  la  subasta,  y
+será firmada por el juez, el rematante y el secretario. El acta valdrá  como
+escritura pública para el efecto del citado artículo  del  Código  Civil.  A
+continuación transcribe el señalado artículo 1801  del  Código  Civil,  cuyo
+inciso 2° establece que la venta de bienes  raíces  no  se  reputa  perfecta
+ante la Ley,  mientras no se ha otorgado escritura pública.
+
+Concluye, que en el caso en consulta, la venta, conforme lo  establecen  las
+disposiciones legales antes citadas, se habría reputado perfecta ya  que  el
+acta de remate fue suscrita el 20 de julio de  2010,  es  decir,  hace  casi
+tres años, por lo que al existir texto legal expreso en virtud  de  la  cual
+la venta se entiende perfeccionada,  no  se  requeriría  inscripción  en  el
+Registro de Propiedad del  Conservador de  Bienes  Raíces  para  efectos  de
+determinar  el  transcurso  del  plazo  que  establece  la  norma  legal  en
+referencia.
+
+2.- En un segundo requerimiento agrega que frente a  un  mismo  hecho,  esto
+es, la adquisición de un bien raíz, este Servicio  aplicaría  dos  criterios
+distintos; explicando dicho  planteamiento  indicando  que  por  una  parte,
+conforme  a  la  Circular  N°8  de  2000,  para  efectos  de  una   eventual
+fiscalización para demostrar  el  origen  de  los  fondos  con  los  que  ha
+efectuado la adquisición del bien raíz en remate público debería  probar  el
+origen de los fondos antes de la inversión efectuada,  esto  es,  antes  del
+pago, lo que ocurrió en julio de 2010; y  en  cambio  para  los  efectos  de
+determinar la presunción de habitualidad en la venta del  mismo  bien  raíz,
+este Servicio  consideraría  la  fecha  de  inscripción  del  título  en  el
+Conservador de Bienes Raíces, esto es, en  agosto  de  2013,  lo  que  a  su
+juicio sería una incongruencia.
+
+Acompaña copia de la escritura definitiva de compraventa y adjudicación  del
+bien raíz, de fecha 12 de agosto de 2013, y copia de su  inscripción  en  el
+Registro de Propiedad del Conservador de Bienes Raíces, de día 21 del  mismo
+mes y año.
+
+3.- Por consiguiente, solicita se ratifique que para  la  aplicación  de  la
+presunción legal de habitualidad que establece la última parte,  del  inciso
+3°, del artículo  18  de  la  LIR,  se  debería  considerar  como  fecha  de
+adquisición del bien raíz, la de suscripción del acta de remate  en  pública
+subasta, evento que ocurrió el 20  de  julio  de  2010  y  no  la  fecha  de
+inscripción de la escritura de venta suscrita, que ocurrió el 21  de  agosto
+de 2013.
+
+
+
+
+
+
 II.- ANÁLISIS.
-Cabe señalar, en primer término, que la situación planteada se refiere a una fusión de sociedades ocurrida con anterioridad a la modificación introducida a los artículos 15 y 31 N° 9 de la LIR, por la Ley N° 20.630, de 2012, en la cual se produce un goodwill cuyo tratamiento frente a la RIOM solicita se precise. De acuerdo a ello, debe considerarse lo señalado por el Servicio a través de su jurisprudencia administrativa , en la que se había referido al tratamiento tributario del goodwill, concepto que corresponde a la diferencia que se produce entre el valor pagado por el total de las acciones o derechos sociales de la sociedad absorbida por sobre el valor del capital propio tributario de ésta. En tal caso, se había establecido que la citada diferencia de valor debía distribuirse proporcionalmente entre todos los activos no monetarios provenientes de la sociedad absorbida, quedando tal diferencia sujeta al mismo tratamiento tributario que correspondía al activo no monetario al que se incorporaba. En el caso que no existieran activos no monetarios, dicha diferencia debía reconocerse como un gasto diferido, amortizándose en montos proporcionales iguales en un período de 6 años.
-Por su parte, el inciso séptimo del artículo 64 bis de la LIR, cuya redacción fue recogida en iguales términos por el actual artículo 64 ter de la misma ley , en sus primeros dos números establece que:
-“Se entenderá por renta imponible operacional minera, para los efectos de este artículo, la que resulte de efectuar los siguientes ajustes a la renta líquida imponible determinada en los artículos 29 a 33 de la presente ley:
-1. Deducir todos aquellos ingresos que no provengan directamente de la venta de productos mineros.
-2. Agregar los gastos y costos necesarios para producir los ingresos a que se refiere el número 1 precedente. Deberán, asimismo, agregarse los gastos de imputación común del explotador minero que no sean asignables exclusivamente a un determinado tipo de ingresos, en la misma proporción que representen los ingresos a que se refiere el numeral precedente respecto del total de los ingresos brutos del explotador minero;”
-Al tenor de la disposición transcrita, aparece claro que el objeto de tales normas es evitar que se aplique el IEAM a todos aquellos ingresos que no provengan directamente de la venta de productos mineros. Consecuente con ello, y para guardar la debida correlación en la determinación de la RIOM, el N° 2 de la norma señalada dispone el agregado de los gastos y costos que dicen relación con los ingresos que conforme con el N° 1 se deducen, para precisamente no ser gravados con el IEAM.
-En una interpretación a contrario sensu, este Servicio ha señalado que dicha norma establece que la base imponible del tributo en comento, sólo debe estar conformada por los ingresos, costos y gastos necesarios provenientes directamente de la venta de productos mineros, definidos estos conceptos en los términos indicados en los N°s 2 y 3, del inciso 2°, del artículo 64 bis de la LIR.
-Como en la situación en análisis se está frente a la absorción de una empresa mediante la adquisición del 100% de las acciones de ésta, produciéndose un goodwill como consecuencia de que el precio pagado por las acciones fue superior al valor del capital propio tributario de la empresa absorbida, y que dicha diferencia queda sujeta al mismo tratamiento tributario que corresponda al activo no monetario al que se incorpora, para la determinación de la RIOM se debe analizar si el cargo a resultado, ya sea como costo de venta, depreciación, amortización, etc., del valor de los activos a los que se incorporó el goodwill, se encuentra vinculado directamente o no con ingresos provenientes de la venta de productos mineros.
-Por otra parte, cuando no existan activos no monetarios en la sociedad que se disuelve, el goodwill adopta el carácter de un gasto diferido que debe ser amortizado en el plazo de 6 años, y en tal caso, es evidente que la amortización de dicho gasto no se relaciona de manera alguna con la venta de productos mineros, razón por la cual no podría afectar la determinación de la RIOM.
-Conforme a lo señalado, y teniendo presente lo manifestado en su presentación, en cuanto a que en el caso en análisis el goodwill se distribuyó proporcionalmente entre las existencias, cuentas por cobrar , activos fijos e inversiones de la empresa absorbida, a continuación se analiza la incidencia de la asignación de la parte del goodwill en cada uno de tales activos, desde el punto de vista de la aceptación del cargo a resultado o la amortización respectiva de éstos, para los fines de la determinación de la RIOM:
-• En el caso de la parte del goodwill asignado a las existencias de productos mineros que se traspasan con motivo de la fusión, y que se lleva a resultado a través del costo de venta de las mismas, resulta evidente que existe una vinculación directa con los ingresos provenientes de la venta de productos mineros. En consecuencia, resulta procedente la deducción del costo asociado a esta parte del goodwill para los fines de la determinación de la RIOM, en tanto los ingresos por la venta de dichas existencias también forme parte de tal base imponible.
-• En el caso de la parte del goodwill asignado a las cuentas por cobrar, no es posible efectuar tal vinculación, por cuanto no existiría un ingreso por la venta de productos mineros asociado. En consecuencia, no procedería la deducción del eventual costo o gasto asociado a la parte del goodwill asignado a las cuentas por cobrar para la determinación de la RIOM.
-• En el caso de la parte del goodwill asignado los activos fijos y a las inversiones, deberá analizarse específicamente si existe la vinculación señalada, por cuanto el gasto por depreciación de tales inversiones, debe asociarse directamente con la generación de ingresos provenientes de la venta de productos mineros. Se desconoce el tipo de activos fijos y de inversiones de que se trata, y si están éstos vinculados o no directamente con ingresos por la venta de productos mineros.
+
+1.- En primer lugar, se debe señalar que tanto el Oficio N°1.269,  de  2013,
+a que se refiere su requerimiento, como otros  sobre  el  mismo  punto,  han
+sido dictados en conformidad a  lo establecido en el ordenamiento  jurídico,
+en el sentido que para la enajenación y adquisición del dominio se exige  la
+concurrencia de dos elementos jurídicos, a saber, un título  y  un  modo  de
+adquirir; ya que los contratos como el de  compraventa,  no  transfieren  el
+dominio ni ningún otro derecho real, sino que de ellos sólo emanan  derechos
+personales o de crédito. En el caso de los bienes raíces, dicha  adquisición
+se efectúa precisamente por la inscripción del  título  en  el  Registro  de
+Propiedad del Conservador de Bienes Raíces respectivo, acto  en  virtud  del
+cual  se  lleva  a  cabo  la  tradición  de  los  indicados  bienes[1].  Por
+consiguiente, si bien en el caso en consulta se habría suscrito el  acta  de
+remate en el mes de julio de 2010, en cuanto al momento en que  se  entiende
+adquirido o enajenado el dominio del  bien  raíz  para  los  efectos  de  la
+aplicación de la presunción legal de habitualidad establecida en la  segunda
+parte, del inciso 3°,  del  artículo  18  de  la  LlR,  la  "adquisición"  y
+“enajenación”, tiene  lugar  sólo  cuando  el  título  de  transferencia  de
+dominio del inmueble respectivo, esto  es,  la  compraventa  definitiva,  se
+encuentre debidamente inscrita a nombre del nuevo adquirente en el  Registro
+de Propiedad del Conservador de Bienes Raíces.
+
+Por lo anteriorla venta forzada  y  más  propiamente  el  modo  de  adquirir
+tradición del  derecho  real  de  dominio,  constituido  por  la  competente
+inscripción, que tiene por título  dicha  venta  por  el  ministerio  de  la
+justicia, en una venta forzada, el modo de adquirir el  dominio,  es  decir,
+la  tradición  del  derecho  real  de  dominio  sobre  el  bien  raíz,  está
+constituido por la competente inscripción en el Registro  de  Propiedad  del
+Conservador de Bienes Raíces, que tiene por título  dicha  venta,  efectuada
+por el ministerio de la justicia[2].
+
+2.- En cuanto a lo expresado en su segunda presentación,  cabe  señalar  que
+ella se refiere a una materia distinta a  la  que  resuelve  el  Oficio  que
+solicita sea reconsiderado. Por una parte, alude al artículo 70 de  la  LIR,
+que dispone que cuando no se acredite el origen de los fondos  con  los  que
+se  han  efectuado  determinados  gastos,  desembolsos  o  inversiones,   se
+presumirá que corresponden  a  utilidades  afectas  a  Impuesto  de  Primera
+Categoría del N°3, del artículo 20, o en la Segunda  Categoría  conforme  al
+N° 2, del artículo 42, según corresponda; y por otro  lado,  se  refiere  al
+inciso 3°, del artículo 18 de la LIR que  establece  la  aplicación  de  una
+presunción legal de  habitualidad  en  la  venta  o  enajenación  de  bienes
+raíces. Dichas disposiciones legales tienen presupuestos diferentes, ya  que
+en el primer caso se debe  acreditar  la  disponibilidad  de  fondos  cuando
+ocurre el hecho material del gasto, desembolso o inversión, y en el caso  en
+consulta, se trata de la aplicación de una presunción legal de  habitualidad
+cuando se efectúe una enajenación de bien raíz, por lo  cual  no  existe  la
+señalada incongruencia que menciona en su requerimiento.
+
+3.- Sin perjuicio de lo anterior,  cabe  indicar,  como  se  señaló  en  las
+conclusiones  del  Oficio  N°1.269,  de  2013,  así   como   en   anteriores
+pronunciamientos de este Servicio, que la presunción de  habitualidad[3]  en
+estudio es de carácter legal, por lo que en dicha  condición  admite  prueba
+en contrario por parte del contribuyente en la  instancia  de  fiscalización
+correspondiente[4], ello por aplicación de lo dispuesto  en  el  inciso  3°,
+del artículo 47 del Código Civil, que establece que se permitirá  probar  la
+no existencia del hecho que legalmente se presume, aunque sean  ciertos  los
+antecedentes o circunstancias de que lo infiere la ley.
 III.- CONCLUSIÓN.
-Para los efectos de definir si procede o no la rebaja por concepto de depreciación, amortización o rebaja como costo o gasto, de aquella parte del goodwill incorporado en el valor de los activos no monetarios recibidos con ocasión de la fusión, todo ello para los efectos de la determinación de la RIOM, se debe distinguir el tipo de activo de que se trate, pues sólo procederá dicha rebaja en tanto éste activo se encuentre vinculado directamente con ingresos provenientes de la venta de productos mineros.
+De acuerdo a lo expuesto con anterioridad, sólo cabe confirmar  el  criterio
+contenido en el Oficio N°1.269, de 2013, en el sentido que para los  efectos
+del cómputo del plazo de un año establecido en el inciso  3°,  del  artículo
+18 de la LIR, se deben considerar las fechas de inscripción en  el  Registro
+de Propiedad del Conservador de  Bienes  Raíces,  de  los  títulos  que  dan
+cuenta de la adquisición, y posterior enajenación del bien raíz.
 
-JUAN ALBERTO ROJAS BARRANTI
-DIRECTOR (S)
+De acuerdo a ello, en principio procederá aplicar  la  presunción  legal  de
+habitualidad antes señalada, en caso que entre la  fecha  de  adquisición  y
+enajenación del bien raíz respectivo haya transcurrido un plazo  inferior  a
+un año. Sin embargo, al tratarse de una presunción  simplemente  legal,  tal
+como  se  ha  señalado  en  el  análisis,  podrá  ser  desvirtuada  por   el
+contribuyente al admitir prueba en contrario; y en la medida  que  no  tenga
+efectivamente otras operaciones de la misma especie, podría  concluirse  que
+el recurrente no es habitual en tales actividades, lo cual  es  válido  sólo
+si no existen otras circunstancias previas o concurrentes a  la  enajenación
+que permitan a  este  Servicio  concluir  que  se  trata  de  una  operación
+realizada habitualmente, todo lo cual deberá ser ponderado en  la  instancia
+de fiscalización respectiva, a la luz de los antecedentes aportados  por  el
+contribuyente, y otros que obren en poder de este Servicio.
 
-Oficio N° 1921, de 27.07.2015
-Subdirección Normativa
-Dpto. de Impuestos Directos
+
+
+
+
+
+                         JUAN ALBERTO ROJAS BARRANTI
+                                              DIRECTOR (S)
+
+
+
+
+
+
+
+                        Oficio N° 1946, de 29.07.2015
+                           Subdirección Normativa
+                         Dpto. de Impuestos Directos
+                           -----------------------
+[1] Artículos 675 y 686 del Código Civil.
+[2] Al respecto, Rol: 3612-2010Corte Suprema, Primera Sala Civil, Rol  3612-
+2010 (Considerandos 5° y 6°).
+
+[3]  En  pronunciamientos  anteriores,  este  Servicio  se  ha  referido  al
+conjunto de circunstancias previas y concurrentes que  deben  ser  evaluadas
+para  establecer  si  el  contribuyente  es  habitual  en   este   tipo   de
+operaciones. Por ejemplo, Oficio N° 302 de 2012, 1438 de 2008, entre otros.
+[4] En este sentido, Oficio N° 4.840 de 2000, de este Servicio.

@@ -6,45 +6,44 @@
 - Año: 2015
 - Fecha: 2015-07-27
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1913.htm
-- Hash SHA-256: 570b29b68e9ca843c1a6bc3966e841d61ba20602a6d4d64bd1665beb5a38cd55
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1914.htm
+- Hash SHA-256: 7f6f877a12a6aa0898ee17eac86ab0a4ac5a2968667c9cc9e64ab9c914b97a41
 
 ## Resumen
 
-1° B), Art. 59° &ndash; . (Ord. Nº 1914, de 27-07-2015) | Word Situación tributaria de intereses obtenidos por una sucursal en el exterior provenientes de depósitos efectuados en su casa matriz constituida en Chile. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; D.F.L. N° 2, de 1959, Art. 1° Art. 18° &ndash; Circular N° 37, de 2002. (Ord. Nº 1913, de 24-07-2015) | Word Consulta sobre obligatoriedad de reducir a escritura pública permiso de ampliación de vivienda social previamente acogida al DFL N° 2 de 1959…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 74°, N°4, Art. 41° B), Art. 59° &ndash; . (Ord. Nº 1914, de 27-07-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":37,"year":2002}
-- {"type":"circular","number":37,"year":2003}
+- {"type":"oficio","number":2047,"year":2011}
+- {"type":"articulo","law":"LIR","article":"41 B"}
+- {"type":"articulo","law":"LIR","article":"74"}
+- {"type":"articulo","law":"LIR","article":"41 B d"}
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIR","article":"31"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – D.F.L. N° 2, DE 1959, ART. 1° ART. 18° – CIRCULAR N° 37, DE 2002. (ORD. N° 1913, DE 24.07.2015)
-CONSULTA SOBRE OBLIGATORIEDAD DE REDUCIR A ESCRITURA PÚBLICA PERMISO DE AMPLIACIÓN DE VIVIENDA SOCIAL PREVIAMENTE ACOGIDA AL DFL N° 2 DE 1959.
-Se ha recibido la presentación indicada en el antecedente, solicitando a este Servicio pronunciarse sobre la necesidad de reducir a escritura pública un permiso de ampliación respecto de una vivienda social previamente acogida al DFL N° 2 de 1959, a efectos de mantener dicho tratamiento.
-I. ANTECEDENTES
-De acuerdo a la presentación, en caso de efectuarse ampliaciones a una vivienda originalmente acogida a las franquicias contempladas en el DFL N° 2, no sería necesario reducir a escritura pública el permiso de edificación respecto de las ampliaciones en la medida que se mantengan las características necesarias para conservar dichas franquicias.
-En opinión del peticionario, la exigencia de reducir a escritura pública los permisos de edificación solamente aplicaría a las viviendas que se acogen por primera vez a las franquicias del DFL N° 2, de acuerdo a lo dispuesto en el artículo 1° inciso 7°, en relación al artículo 18 del mismo cuerpo legal.
-Señala que, con anterioridad, realizo la consulta al Servicio, recibiendo como respuesta que la exigencia de reducir el permiso de obra o ampliación a escritura pública proviene de la Dirección de Obras Municipales. La Dirección de Obras Municipales, por su parte, le habría informado que la exigencia proviene de este Servicio.
-
-II. ANALISIS
-Conforme lo dispuesto en el artículo 18 del DFL N° 2, una vez aprobado el permiso de edificación para una ‘vivienda económica’, el permiso debe ser reducido a escritura pública que tiene el carácter de contrato.
-El inciso final del mismo artículo agrega que si estas viviendas fueren destruidas, se iniciare su demolición o transformación de modo que vayan a perder sus características, las franquicias, exenciones y beneficios, serán caducados, lo que debe ser informado al Servicio de Impuestos Internos.
-
-Por su parte, el inciso séptimo del artículo 1°, DFL N° 2, dispone que los edificios ya construidos, al ser alterados o reparados, se transformen en viviendas de una superficie edificada que no supere los 140 metros cuadrados, podrán acogerse a los beneficios de las viviendas económicas y se considerarán como tales para todos los efectos legales, siempre que reúnan las características, requisitos y condiciones que se determinan en el mismo DFL N° 2 y demás normas que se señalan, agregando que el permiso de alteración o reparación, una vez aprobado por la Dirección de Obras Municipales, debe reducirse a escritura pública en la forma y condiciones que determina el artículo 18 del DFL N° 2, ya citado.
-Por lo tanto, atendido que la escritura pública en que se reduce el permiso de construcción original constituye un ‘contrato’, y los contratos no pueden modificarse unilateralmente por las partes, es lógico que, como disponen las normas citadas, toda modificación, alteración, ampliación o transformación de la construcción original deba ser aprobada nuevamente por la Dirección de Obras Municipales correspondiente, reduciendo a escritura pública el permiso respectivo.
-Consecuente con lo anterior, la Circular N° 37 de 2003, de este Servicio, instruye que, en el caso de viviendas económicas ampliadas hasta una superficie construida igual o menor a 140 m², se requiere autorización municipal, modificación de permiso de edificación reducido a escritura pública y recepción municipal, para mantener o modificar, si corresponde, el plazo de vigencia de la exención del 50% del impuesto territorial de acuerdo a lo señalado en el artículo 14º del DFL Nº 2.
-La misma Circular instruye que la modificación de la superficie construida sin permiso municipal, así como la ampliación de la superficie edificada por sobre el máximo permitido para las viviendas económicas, constituye una infracción a las normas del D.F.L Nº 2, de 1959, ya que significa una alteración del permiso de edificación reducido a escritura pública; de suerte que si las ampliaciones no cuentan con permiso municipal, se debe proceder a dejar sin efecto los beneficios, franquicias y exenciones del DFL Nº 2.
-Finalmente, cabe mencionar que el artículo 167 de la Ley General de Urbanismo y Construcciones autoriza expresamente al Servicio para que, mediante resolución, deje sin efecto los beneficios aprobados por las Direcciones de Obras Municipales con infracción al DFL N° 2, sin perjuicio de la apelación que pueda deducir el afectado ante la Secretaría Regional Ministerial de Vivienda y Urbanismo.
-
-III. CONCLUSION
-Conforme lo dispuesto en los artículos 1° y 18 del DFL N° 2, se debe reducir a escritura pública el permiso de ampliación para que una vivienda social, acogida a las franquicias establecidas en el mismo DFL N° 2, conserve dichas franquicias.
-Sin perjuicio que el permiso para construir la ampliación deba ser otorgado por la correspondiente municipalidad y reducirse a escritura pública, compete a este Servicio fiscalizar la correcta aplicación de las exenciones y franquicias tributarias contenidas en el DFL Nº 2, de 1959; pudiendo dejarlas sin efecto en caso de comprobarse que no cumplen con los requisitos legales.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°4, ART. 41° B), ART. 59° – OFICIO N° 2047, DE 2011. (ORD. N° 1914, DE 27.07.2015)
+SITUACIÓN TRIBUTARIA DE INTERESES OBTENIDOS POR UNA SUCURSAL EN EL EXTERIOR PROVENIENTES DE DEPÓSITOS EFECTUADOS EN SU CASA MATRIZ CONSTITUIDA EN CHILE.
+Se ha solicitado un pronunciamiento sobre la situación tributaria de los intereses obtenidos por una sucursal en el exterior, provenientes de depósitos efectuados en su casa matriz constituida en Chile, para efectos de lo previsto en el N° 1, del artículo 41 B de la Ley sobre Impuesto a la Renta (LIR). I.- ANTECEDENTES.
+Señala, que un banco domiciliado en Chile mantiene una sucursal en los Estados Unidos de América, y que dentro de sus operaciones habituales realiza operaciones de time deposit en el banco chileno, por las cuales este último remesa los intereses al extranjero y retiene el Impuesto Adicional con la tasa de 4%, que establece el N° 4, del artículo 74 de la LIR.
+Indica, que la sucursal no paga en el exterior impuestos por estos intereses, ya que conforme a la legislación del mismo país, se califican como ingresos no conectados; razón por la cual, el impuesto retenido en Chile no puede ser utilizado como crédito contra el impuesto a la renta que grava a la sucursal en el extranjero.
+Agrega, que el banco incorpora anualmente a su resultado tributario de primera categoría, la renta líquida imponible determinada por la sucursal, de acuerdo a lo dispuesto en el artículo 41 B de la LIR, produciéndose según estima, una doble tributación respecto de un mismo ingreso.
+Al respecto, solicita se confirme que los intereses obtenidos por la sucursal, producto de la inversión efectuada en Chile, deberían deducirse en la determinación de la renta líquida imponible de la sucursal en el extranjero, pues se trataría de rentas que completaron su tributación con el Impuesto Adicional, que se aplica en calidad de único.
+II.- ANÁLISIS.
+Conforme a lo dispuesto en el N°1, del artículo 41 B de la LIR, los ingresos y gastos incurridos por una sucursal en el exterior de empresas constituidas en Chile, sólo deben ser registrados por la entidad que los genera en el exterior, esto es, la respectiva sucursal. En tanto, la casa principal o matriz, debe registrar en Chile el resultado de ganancia o pérdida tributaria obtenida en el ejercicio respectivo por la referida sucursal, sobre base percibida o devengada, determinado éste de acuerdo con las normas contenidas en el N°1, del artículo 41 B de la LlR, lo que en términos generales implica que dicho resultado se calcula aplicando las normas de la LIR, sobre la determinación de la base imponible de primera categoría, lo cual implica que la sucursal debe reconocer como ingreso tales intereses percibidos o devengados.
+Por su parte, el inciso 4°, del artículo 59 de la LIR, establece que el Impuesto Adicional que contempla, se aplicará, con una tasa de 35%, respecto de las rentas que se paguen o abonen en cuenta a personas sin residencia ni domicilio en Chile, por concepto de intereses. Sin embargo, estarán afectos a este impuesto, pero con una tasa del 4%, los intereses provenientes de las operaciones que indica el N° 1 de la misma norma legal.
+En relación con la aplicación de esta última norma, mediante el Oficio N° 2.047 de 2011, este Servicio expresó con anterioridad que en atención a que dicha norma legal no contempla excepción alguna respecto del Impuesto Adicional de 35% o 4% que establece, según corresponda, respecto de las sumas que se paguen o abonen en cuenta a personas sin domicilio ni residencia en el país por concepto de intereses, también es aplicable a los intereses pagados o remesados por una casa matriz a su agencia o establecimiento permanente domiciliada en el extranjero, provenientes de depósitos efectuados en aquélla.
+Ahora bien, en relación con su consulta específica, en cuanto a no considerar en el resultado de ganancia o pérdida que obtenga la sucursal en el exterior, los intereses por depósitos efectuados en el país en la casa matriz, cabe señalar que una medida de tal naturaleza requeriría de una disposición legal expresa, puesto que las normas legales señaladas no contemplan una excepción en tal sentido.
+En efecto, las rentas de agencias, sucursales o establecimientos permanentes en el exterior, de empresas que declaren su renta efectiva según contabilidad, constituyen rentas clasificadas en la primera categoría de la LIR, conforme a las normas generales del mismo texto legal, debiendo para ello agregarse a la renta líquida imponible de la empresa, casa matriz o principal, al término del ejercicio, la que debe incluir los ingresos por intereses percibidos o devengados provenientes de los depósitos efectuados en Chile.
+Finalmente, cabe señalar que no se comparte el juicio que expone en su presentación, en orden a señalar que tales sumas se afectarían con una doble tributación, puesto que si bien los intereses se gravan con el Impuesto Adicional en su remesa al exterior, y deben ser reconocidos como ingresos por la sucursal y por esa vía formar parte de los resultados que deben reconocerse en Chile, debe tenerse presente que al mismo tiempo, el banco local deduce como gasto los intereses pagados o devengados por tales depósitos, de acuerdo a lo establecido en el N° 1, del artículo 31 de la LIR.
+III.- CONCLUSIÓN.
+En atención a que la LIR no establece una norma que permita deducir del resultado obtenido por la sucursal en el exterior, las rentas a que se refiere su requerimiento, no es factible acceder a su solicitud, por lo cual, solo cabe concluir que en la situación planteada, se deberá considerar dentro del resultado de la sucursal que corresponda determinar conforme lo establece el N° 1, del artículo 41 B de la LIR, los intereses percibidos o devengados por depósitos realizados en su casa principal o matriz en Chile.
 
 JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Oficio N° 1913, de 24.07.2015
+Oficio N° 1914, de 27.07.2015
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+Dpto. de Impuestos Directos

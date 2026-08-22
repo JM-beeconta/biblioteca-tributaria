@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2014
-- Fecha: 2014-02-10
+- Fecha: 2014-02-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu8.pdf
 - Hash SHA-256: 1f11a870117cf1504490abf9fdea1f8bf7f01f0a1d0fcf12e61221874d64ba04
 
 ## Resumen
 
-10px;'> Fuente: Oficina de Gestión Normativa Circular N° 9 del 10 de Febrero del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2014 y el 9 de marzo del año 2014 Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones efectuadas por la Ley N°20.630 a la ley sobre Impuesto a la renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícolas, de la minería, transporte terrestre de carga ajena y de pasajeros Fuent…
+oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N°20.630 a la ley sobre Impuesto a la renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícolas, de la minería, transporte terrestre de carga ajena y de pasajeros Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

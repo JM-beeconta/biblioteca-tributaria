@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2014
-- Fecha: 2014-09-23
+- Fecha: 2014-09-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu48.pdf
 - Hash SHA-256: 693e56ebe42276d025020b391ab00e8c6deb5a4f53a6ca7adf300d17c87d455d
 
 ## Resumen
 
-de 2014. Fuente: Impuestos Indirectos Circular N° 49 del 23 de Septiembre del 2014 Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2014 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2014 y el 9 de octubre del año 2014. Fuente: Oficina de Gestión Normativa Circular N° 47 del 10 de Septiembre del 2014 Tablas de Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2014…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2014 y el 9 de octubre del año 2014. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

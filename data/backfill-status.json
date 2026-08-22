@@ -1,8 +1,8 @@
 {
   "status": "completed",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T23:00:43.079Z",
-  "completed_at": "2026-08-22T23:00:43.079Z",
+  "updated_at": "2026-08-22T23:08:13.003Z",
+  "completed_at": "2026-08-22T23:08:13.003Z",
   "total_ranges": 14,
   "completed_ranges": [
     "2021-2024",
@@ -22,10 +22,11 @@
     "Resoluciones-2013-2026",
     "Gapfill-2025-2026",
     "Gapfill-2021-2024",
-    "Gapfill-2017-2020"
+    "Gapfill-2017-2020",
+    "Gapfill-2013-2016"
   ],
-  "completed_count": 18,
-  "last_completed_range": "Gapfill-2017-2020",
-  "last_range_documents": 1490,
-  "total_documents": 11146
+  "completed_count": 19,
+  "last_completed_range": "Gapfill-2013-2016",
+  "last_range_documents": 952,
+  "total_documents": 11150
 }

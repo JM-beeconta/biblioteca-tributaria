@@ -11,7 +11,7 @@
 
 ## Resumen
 
-fectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017, particularmente sobre las normas relativas a la tributación de las devoluciones de capital y de las rentas o cantidades acumuladas al término de giro de la empresa, así como también respecto de las modificaciones introducidas a otros cuerpos legales, con el objeto de adecuar su texto a las nuevas normas que regulan los regímenes generales de tributación. Fuente: Impuestos Directos Instruye sobre las modificaciones incorporadas por…
+Impuestos Directos Instruye sobre las modificaciones incorporadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017, particularmente sobre las normas para la armonización de dichos regímenes y nuevas obligaciones de informar al Servicio que tendrán las empresas. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

@@ -6,37 +6,43 @@
 - Año: 2013
 - Fecha: 2013-09-10
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja1972.htm
-- Hash SHA-256: 63d2715845c6a84f90bd25131ae5e9ef44b0863e3dff8029f6e6138527d18375
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja1983.htm
+- Hash SHA-256: 16d986bf6f2eaddc7a76439cfe55a32bef5ea7cb74541bff2d85d44501520d5c
 
 ## Resumen
 
-tyle='margin-bottom:3px;'> Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 27° &ndash; D.L. N° 1939, de 1977, Art. 61° &ndash;. (Ord. Nº 1983, de 10-09-2013) | Word Aplicación de exención de Impuesto Territorial a inmueble de propiedad fiscal entregado en concesión a una Fundación. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 27° &ndash; Oficios N° 212, de 2013 y N° 1790, de 2011. (Ord. Nº 1972, de 09-09-2013) | Word Pago de Impuesto Territorial por funcionarios a quienes se…
+Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 27° &ndash; D.L. N° 1939, de 1977, Art. 61° &ndash;. (Ord. Nº 1983, de 10-09-2013) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":2113,"year":2010}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 27° – OFICIOS N° 212, DE 2013 Y N° 1790, DE 2011. (ORD. N° 1972, DE 09.09.2013)
-PAGO DE IMPUESTO TERRITORIAL POR FUNCIONARIOS A QUIENES SE ASIGNÓ VIVIENDA DE PROPIEDAD DEL INSTITUTO DE PREVISIÓN SOCIAL. INFORMA CAMBIO DE CRITERIO DEL SERVICIO DE IMPUESTOS INTERNOS.
-1.- Se ha recibido para conocimiento de esta Dirección Nacional, el Oficio del antecedente, por el cual esa Contraloría absolvió la consulta efectuada por el Instituto de Previsión Social, en relación con el período a partir del cual debe exigirse el pago de Impuesto Territorial a los funcionarios públicos a quienes se les asignó una vivienda de propiedad de dicho instituto. Señala la Contraloría que, a través del Oficio N° 75.795, y de acuerdo con lo informado en esa oportunidad por este Servicio , se concluyó que los bienes raíces de propiedad del Instituto de Previsión Social se encontraban afectos al pago del impuesto territorial y que conforme al art. 27 de la Ley 17.235, están obligados a dicho pago, los funcionarios beneficiados con los inmuebles asignados, como casa habitación en la medida que no deban residir en ellos por razones inherentes a su cargo.
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 27° – D.L. N° 1939, DE 1977, ART. 61° –OFICIO N° 2113, DE 2010. (ORD. N° 1983, DE 10.09.2013)
+APLICACIÓN DE EXENCIÓN DE IMPUESTO TERRITORIAL A INMUEBLE DE PROPIEDAD FISCAL ENTREGADO EN CONCESIÓN A UNA FUNDACIÓN.
+Se consulta a este Servicio sobre la aplicación de exención de Impuesto Territorial en el caso que indica. I.- ANTECEDENTES
+En la presentación se solicita informar la procedencia de la exención establecida en el Cuadro Anexo de la Ley sobre Impuesto Territorial, párrafo I letra D), respecto del bien raíz fiscal ROL N° xxx-xx de la comuna de TTT, propiedad entregada en concesión a la fundación YYYY.
+Se indica que la consulta es efectuada en atención a que existen procesos de cobro judicial por pago de contribuciones de bienes raíces respecto de dicho inmueble y que, según señala, podrían concluir en la subasta del mismo.
+II.- ANÁLISIS
+Al respecto, por Oficio Ord. N° 2113 de 19.11.2010, este Servicio señaló que los inmuebles de propiedad de la fundación a que se refiere la presentación, se benefician con la exención del 100% del impuesto Territorial, contemplada en el número 3), letra D), Párrafo I del Cuadro Anexo de la Ley de Impuesto Territorial, siempre que las rentas que produzca el inmueble sean destinadas íntegramente a financiar las actividades de beneficencia de la institución y se mantenga el cumplimiento de los demás requisitos que dicha disposición establece.
+En el caso ahora planteado, la institución no es dueña de la propiedad, sino que se trata de un bien raíz fiscal el cual, mediante Decreto Exento N° 692, de 13.12.2008, le fue entregado en concesión gratuita por el Ministerio de Bienes Nacionales, por el plazo de veinticinco años, contado desde la fecha de suscripción de la escritura pública de concesión.
+De acuerdo a dicho Decreto, la fundación concesionaria se obligó a dar cumplimiento al proyecto que fundamenta el otorgamiento de esta concesión gratuita del terreno, y que consiste en la construcción y habilitación de un instituto de rehabilitación infantil para un universo de 500 niños y jóvenes en condición de discapacidad, generando así mejores condiciones de igualdad de oportunidades que permitan la integración de un segmento importante de la población regional, todo ello, en la forma, condiciones y plazos que se convengan en el contrato de concesión que al efecto se debió haber suscrito dentro de los treinta días desde la fecha publicación del citado decreto exento, el cual no se acompaña en su presentación.
+Ahora bien, el Cuadro Anexo de la Ley N° 17.235, sobre Impuesto Territorial, establece en el acápite I, letra A, número 1), una exención del 100% a favor del Fisco, con excepción, entre otros, de los casos en que cabe aplicar el artículo 27 de la misma ley.
+El referido artículo 27, tratando de los obligados al pago del impuesto, dispone en su inciso primero que el concesionario u ocupante a cualquier título de bienes raíces fiscales, pagará los impuestos correspondientes al bien raíz ocupado .
+Por su parte, el artículo 57, en relación con el inciso 5° del artículo 61 del D.L. N° 1.939 de 1977, sobre Adquisición, Administración y Disposición de Bienes del Estado, permiten la concesión gratuita de inmuebles fiscales por parte del Ministerio de Bienes Nacionales, situación que es la acontecida en el caso planteado.
+Como resulta de las disposiciones legales citadas, la exención de Impuesto Territorial que se establece a favor del Fisco, no rige respecto de los inmuebles de su propiedad que han sido objeto de concesión a terceros, a cualquier título. En estos casos, por expresa disposición de la ley, el concesionario u ocupante deberá pagar los impuestos correspondientes al bien raíz fiscal ocupado.
+En consecuencia, en la situación expuesta, tratándose de un inmueble fiscal dado en concesión, la concesionaria no se encuentra exenta del Impuesto Territorial, siendo obligada por la ley al pago de las contribuciones que correspondan, a menos que a su respecto opere a su vez algún tipo de exención tributaria específica que le favorezca.
+Al respecto, para que proceda la exención del 100% del impuesto territorial contemplada en el número 3), letra D), Párrafo I del Cuadro Anexo citado, se requiere entre otros requisitos, que el bien raíz sea de propiedad de alguna de las instituciones beneficiadas .
+Por consiguiente, dado que la Fundación YYY no es la propietaria del bien raíz individualizado, sino que sólo lo detenta en calidad de concesionaria, no se configura a su respecto la exención del 100% del Impuesto Territorial contemplada en el número 3), letra D), Párrafo I citado.
 
-2.- Al respecto, cabe señalar que este Servicio mantuvo hasta enero del 2013, el criterio conforme al cual no estaban amparados bajo la exención de contribuciones, establecida en el párrafo I, letra A, número 1) del Cuadro Anexo, de la Ley Nº 17.235, sobre Impuesto Territorial, los bienes raíces pertenecientes a servicios públicos descentralizados o con personalidad jurídica y patrimonio propios, como es el caso del Instituto de Previsión Social.
-No obstante, a través del Ordinario N°212, de 2013, a propósito de una consulta efectuada por la Defensoría Penal Pública, este Servicio concluyó que el texto vigente del referido Cuadro Anexo de la Ley Nº 17.235, incluye en la exención a los bienes raíces pertenecientes, entre otras instituciones, a los ‘Servicios Públicos’, con excepción de aquellos que correspondan a sus sedes matrices , sin distinguir expresamente la ley si se trata de servicios públicos con o sin personalidad jurídica propia .
-Para dicha conclusión se consideró además el concepto de ‘servicio público’ empleado por la Contraloría General de la República, en el sentido que son aquellos que se encuadran dentro del sector fiscal (administración central) o bien dentro del sector autónomo (administración descentralizada), según la personalidad jurídica que los habilite para actuar y atendiendo a la naturaleza de sus recursos
-Asimismo, se consideró como argumento que la norma del Cuadro Anexo citado, en concordancia con lo dispuesto en el artículo 27 de la Ley sobre Impuesto Territorial, establece un beneficio a favor de los ‘funcionarios públicos’ que por razones inherentes a sus cargos deben residir en predios fiscales (inciso final), y que, sobre esta materia, la Contraloría ha sostenido que también son funcionarios públicos, en general, quienes sirven en servicios públicos descentralizados, integrantes de la administración del Estado .
-Luego, dado el concepto amplio de ‘funcionario público’, debe entenderse que son bienes fiscales a que refiere el artículo 27, tanto los que pertenecen al Fisco como aquellos que pertenecen a servicios públicos con personalidad jurídica y patrimonio propios.
-En consecuencia, a falta de regla en contrario, el oficio indicó que mantienen su exención los bienes inmuebles pertenecientes a los servicios públicos que no constituyan sedes matrices de sus respectivos servicios, sea que posean o no personalidad jurídica y patrimonio propio.
-El cambio de criterio expuesto favorece a los servicios públicos como el Instituto de Previsión Social, que tienen personalidad jurídica propia, distinta del Fisco.
-
-3.- Por consiguiente, de acuerdo a lo expuesto se informa que el criterio actualmente vigente de este Servicio es que quedan también amparados bajo la exención de Impuesto Territorial, establecida en el párrafo I, letra A, número 1) del Cuadro Anexo, de la Ley Nº 17.235, los inmuebles pertenecientes a los Servicios Públicos con personalidad jurídica y patrimonio propios, con excepción de los bienes raíces de sus sedes matrices.
-Se adjunta copia del Oficio 212 de 2013, para su conocimiento y fines pertinentes.
+III.- CONCLUSIÓN
+La Fundación YYY, en su condición de concesionaria del inmueble fiscal ROL N° xxx-xx de la comuna de TTT, no se encuentra especialmente exenta de Impuesto Territorial, según lo dispuesto en el artículo 27 citado.
+Sin perjuicio de lo anterior, se sugiere revisar en este caso la procedencia del embargo y subasta, considerando que, como reconoce la presentación, dicho inmueble es de propiedad fiscal.
 
 JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Oficio N° 1972, de 09.09.2013
+Oficio N°1983, de 10.09.2013
 Subdirección Normativa
 Dpto. de Técnica Tributaria

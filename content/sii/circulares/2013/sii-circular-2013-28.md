@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 28
 - Año: 2013
-- Fecha: 2013-06-14
+- Fecha: 2013-05-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu28.pdf
 - Hash SHA-256: d2718b343e3618595c99c25104cfbef1a606b505a6002e6eb720ca4567ff0d85
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 29 del 14 de Junio del 2013 Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencias contenidas en la Ley sobre Impuestos a la Renta. Fuente: Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multas Junio de 2013. Fuente: Subdirección de Fiscalización. Circular N° 27 del 29 de Mayo del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisio…
+Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multas Junio de 2013. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

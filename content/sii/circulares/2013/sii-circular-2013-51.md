@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 51
 - Año: 2013
-- Fecha: 2013-11-13
+- Fecha: 2013-11-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu51.pdf
 - Hash SHA-256: 8347262aa5a7b2be17ea2cbe18bf09c9504534078b2c62422b685aa97a664296
 
 ## Resumen
 
-Gestión Normativa Circular N° 52 del 13 de Noviembre del 2013 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Modifica Circular N° 50, de 2013, sobre tabla de Cálculos de reajustes, intereses y multas noviembre 2013 Fuente: Subdirección de Fiscalización Circular N° 50 del 23 de Octubre del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas novie…
+oacute;n Normativa Modifica Circular N° 50, de 2013, sobre tabla de Cálculos de reajustes, intereses y multas noviembre 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

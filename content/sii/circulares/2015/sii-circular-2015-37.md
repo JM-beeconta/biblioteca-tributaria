@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2015
-- Fecha: 2015-06-02
+- Fecha: 2015-05-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu37.pdf
 - Hash SHA-256: 5d422b985617454c55914ff041cbe1e7a002f1a7013fedeca31952d35c36aa1c
 
 ## Resumen
 
-Circular N° 38 del 02 de Junio del 2015 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2015 Fuente: Subdirección de Fiscalización Instruye sobre el nuevo régimen de tributación en base a renta presunta de los contribuyentes que tengan como actividad la explotación de bienes raíces agrícolas, la minería y el transporte terrestre de carga ajena o de pasajeros, conforme al nuevo texto del…
+scalización Instruye sobre el nuevo régimen de tributación en base a renta presunta de los contribuyentes que tengan como actividad la explotación de bienes raíces agrícolas, la minería y el transporte terrestre de carga ajena o de pasajeros, conforme al nuevo texto del artículo 34 de la Ley sobre Impuesto a la Renta, modificado por la Ley N° 20.780. También se instruye sobre las modificaciones efectuadas al régimen de tributación que afecta a las rentas provenientes de la explotación de bienes raíces. Fuente: Imp…
 
 ## Referencias detectadas
 

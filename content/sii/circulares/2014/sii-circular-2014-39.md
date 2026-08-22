@@ -11,7 +11,7 @@
 
 ## Resumen
 
-10px;'> Fuente: Subdirección de Avaluaciones Circular N° 40 del 10 de Julio del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2014 y el 9 de agosto del año 2014. Fuente: Oficina de Gestión Normativa Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de agosto del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 38 del 12 de Junio del 2014 Tabla de Cálculos de Rea…
+oacute;n Normativa Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de agosto del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

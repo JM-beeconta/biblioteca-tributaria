@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2015
-- Fecha: 2015-03-09
+- Fecha: 2015-03-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu17.pdf
 - Hash SHA-256: 0bd2b5d1b571d421881bf1d77c867088cd5bcae3277ebf249cf5dd181d7ce4f3
 
 ## Resumen
 
-/span> Circular N° 18 del 09 de Marzo del 2015 Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de abril del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina Gestión Normativa Imparte instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria, a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980. Fuente: Subd…
+oacute;n Normativa Imparte instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria, a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

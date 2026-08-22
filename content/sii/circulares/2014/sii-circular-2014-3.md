@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización Circular N° 4 del 10 de Enero del 2014 valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2014 y el 9 de febrero del año 2014 Fuente: Oficina de Gestión Normativa Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2014 Fuente: Oficina Gestión Normativa Circular N° 2 del 10 de Enero del 2014 Tablas de Impuesto único de Segunda Categoría y del Impuesto Global Complementario para el mes de…
+oacute;n Normativa Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2014 Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

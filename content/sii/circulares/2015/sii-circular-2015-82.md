@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 82
 - Año: 2015
-- Fecha: 2015-10-19
+- Fecha: 2015-10-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu82.pdf
 - Hash SHA-256: 437b328460ac4e4661294c1b3ce2adfdb49efc30eeadf54aa78cc279946db9d5
 
 ## Resumen
 
-as noviembre 2015 Fuente: Subdirección de Fiscalización Circular N° 83 del 19 de Octubre del 2015 Deja sin efecto Circular N° 80, de 29 de septiembre de 2015. Fuente: Impuestos Indirectos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2015 y el 9 de noviembre del año 2015. Fuente: Oficina de Gestión Normativa Circular N° 81 del 14 de Octubre del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2015 e i…
+puestos Indirectos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2015 y el 9 de noviembre del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

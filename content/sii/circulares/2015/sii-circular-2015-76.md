@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:10px;'> Fuente: Impuestos Directos Circular N° 77 del 10 de Septiembre del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2015 y el 9 de octubre del año 2015. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de octubre del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 75 del 21 de Agosto del 2015 Tabla de cálcu…
+oacute;n Normativa Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de octubre del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

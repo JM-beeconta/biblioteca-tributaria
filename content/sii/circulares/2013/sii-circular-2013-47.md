@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2013
-- Fecha: 2013-10-11
+- Fecha: 2013-09-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu47.pdf
 - Hash SHA-256: 0adeb94056b05c8cf931cc63ecbdd8e5a6215a6eb988be4119b64f4f67a7d38d
 
 ## Resumen
 
-Circular N° 48 del 11 de Octubre del 2013 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Instruye publicación de actividades de las autoridades que indica Fuente: Subdirección Jurídica Circular N° 46 del 25 de Septiembre del 2013 Tabla de Calculos de Reajustes, Intereses y Multas Octubre 2013 Fuente: Subdireccion de Fiscalizacion Circular N° 45 del…
+oacute;n Normativa Instruye publicación de actividades de las autoridades que indica Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

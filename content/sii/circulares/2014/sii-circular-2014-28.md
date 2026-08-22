@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 28
 - Año: 2014
-- Fecha: 2014-05-09
+- Fecha: 2014-04-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu28.pdf
 - Hash SHA-256: f0e883bf947282a4902ed1378af843788037185c4d49f2749ce7d6fbf3278f53
 
 ## Resumen
 
-/span> Circular N° 29 del 09 de Mayo del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Modifica Circular N°56 de 2007, para actualizar referencia a artículo para el Código Penal que sanciona como delito el cohecho a funcionarios públicos extranjeros Fuente: Subdirección Normativa Circular N° 27 del 16 de Abril del 2014 Tabl de Cálculos de Reajuste…
+oacute;n Normativa Modifica Circular N°56 de 2007, para actualizar referencia a artículo para el Código Penal que sanciona como delito el cohecho a funcionarios públicos extranjeros Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

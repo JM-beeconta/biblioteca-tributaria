@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2014
-- Fecha: 2014-04-08
+- Fecha: 2014-04-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu21.pdf
 - Hash SHA-256: d2cf4ae2ba3d575ba5ec97ac7285688eced961d7665e253b08556f2843eae56f
 
 ## Resumen
 
-Fuente: Impuestos Directos Circular N° 22 del 08 de Abril del 2014 Tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley 20.444, en virtud de las modificaciones efectuada por la Ley N° 20.565. Fuente: Depto. de Impuestos Directos Imparte instrucciones respecto del recurso de reposición del avalúo que formulen los contribuyentes y Municipalidades con motivo del proceso de retasación general o modificación individual de bienes raíces. Fuente: Subdirección Jurí…
+Impuestos Directos Imparte instrucciones respecto del recurso de reposición del avalúo que formulen los contribuyentes y Municipalidades con motivo del proceso de retasación general o modificación individual de bienes raíces. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

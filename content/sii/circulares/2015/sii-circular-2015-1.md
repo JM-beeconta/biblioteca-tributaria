@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2015
-- Fecha: 2015-01-09
+- Fecha: 2015-01-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu1.pdf
 - Hash SHA-256: 45246904ef5d64e7fba6a08765ac556c0c52566811779382c3e6c59b752efbdc
 
 ## Resumen
 
-iva_legislacion/circulares/2015/circu2.pdf' target='_blank'>Circular N° 2 del 09 de Enero del 2015 Informa factores a utilizar para los efectos de determinar el incremento por impuesto de primera categoría de la Ley de la Renta y su correspondiente crédito por igual concepto, a que se refieren los artículos 38 bis, 54 n° 1, 62, 56 n° 3 y 63 de la Ley precitada. Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones introducidas por la Ley N° 20.780, a la Ley sobre Impuesto a la Renta y otras normas…
+oacute;n Normativa Instruye sobre las modificaciones introducidas por la Ley N° 20.780, a la Ley sobre Impuesto a la Renta y otras normas legales que se indican, que entran en vigencia a contar del 1° de enero de 2015. Fuente: Departamento de Impuestos Directos function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2015'); } else{ $(location).attr('href', '../'
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 52
 - Año: 2014
-- Fecha: 2014-10-13
+- Fecha: 2014-10-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu52.pdf
 - Hash SHA-256: 89eec6b2295843093caf4c2c61aa8239c9cb90163bcb5278f30ddd9dfb600add
 
 ## Resumen
 
-> Fuente: Oficina de Gestión Normativa Circular N° 53 del 13 de Octubre del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2014 y el 9 de noviembre del año 2014 Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría. Fuente: Departamento de Impuest…
+oacute;n Normativa Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 44
 - Año: 2013
-- Fecha: 2013-09-23
+- Fecha: 2013-09-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu44.pdf
 - Hash SHA-256: 2d186201b09152b7125b3a0a29188b89f280742a06079270682453b3004b79b6
 
 ## Resumen
 
-'> Fuente: Subdireccion de Fiscalizacion Circular N° 45 del 23 de Septiembre del 2013 Instruye sobre la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, con motivo de la sustitución de dicho artículo por la Ley N°20.630 de 2012 Fuente: Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2013 y el 9 de octubre del año 2013. Fuente: Oficina de Gestión Normativa Circular N° 43 del 10 de Septiembre del 2013 Tablas del Impuesto Únic…
+Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2013 y el 9 de octubre del año 2013. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

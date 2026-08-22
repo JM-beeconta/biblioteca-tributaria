@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2015
-- Fecha: 2015-02-20
+- Fecha: 2015-02-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu14.pdf
 - Hash SHA-256: ca063be2c7b9f2edc76bc8174d0f2276eec3e2f5ae5e7094ab8e13adcda63eb1
 
 ## Resumen
 
-. Fuente: Oficina Gestión Normativa Circular N° 15 del 20 de Febrero del 2015 Tabla de Cálculos de Reajustes, Intereses y Multas marzo 2015 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2015 y el 9 de marzo del año 2015. Fuente: Oficina Gestión Normativa Circular N° 13 del 11 de Febrero del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2015 e información adicional…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2015 y el 9 de marzo del año 2015. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

@@ -6,36 +6,34 @@
 - Año: 2016
 - Fecha: 2016-05-17
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1381.htm
-- Hash SHA-256: b4a6357c6af27390c2b027d0dccbf4c36c353e9926e04e145ca6279d3fbfba4b
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1382.htm
+- Hash SHA-256: 66bc21d0f8761f969dd8e2c88a422e304ca98d8b37549913b971e79c2893efcd
 
 ## Resumen
 
-s &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, letra h) &ndash; . (Ord. Nº 1382, de 17-05-2016) | Word Solicita se le informe sobre la tributación de los derechos de imagen en el caso de deportistas. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12, letra F) &ndash; Ley N° 20.780, de 2014 &ndash; Ley N° 20.899, Art. 2. (Ord. Nº 1381, de 17-05-2016) | Word Consulta sobre aplicación de IVA en la compra de vivienda con subsidio. Ventas y Ser…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, letra h) &ndash; . (Ord. Nº 1382, de 17-05-2016) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"oficio","number":4842,"year":2004}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12, LETRA F) – LEY N° 20.780, DE 2014 – LEY N° 20.899, ART. 2. (OFICIO N° 1381, DE 17.05.2016) (ORD. N° 1381, DE 17.05.2016)
-CONSULTA SOBRE APLICACIÓN DE IVA EN LA COMPRA DE VIVIENDA CON SUBSIDIO.
-Mediante el ordinario indicado en el antecedente se ha remitido a este Servicio su presentación de fecha 26.06.2015, enviada al correo electrónico de la Presidencia de la República. I ANTECEDENTES
-Por encargo del Sr. Subsecretario de Hacienda, se da respuesta a la presentación que usted hiciera a S.E. la Presidenta de la República, donde consulta si la compra de una vivienda con subsidio y con crédito hipotecario queda afecta al pago de Impuesto al Valor Agregado (IVA).
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA H) – OFICIO N° 4842, DE 2004. (ORD. N° 1382, DE 17.05.2016)
+SOLICITA SE LE INFORME SOBRE LA TRIBUTACIÓN DE LOS DERECHOS DE IMAGEN EN EL CASO DE DEPORTISTAS.
+Se ha trasladado a este Servicio su presentación, consultando cuál sería el tratamiento tributario de los derechos de imagen de los deportistas. I ANTECEDENTES
+De acuerdo a su presentación, efectuada a través del portal web del Ministerio de Hacienda, ha tratado de encontrar la legislación sobre la tributación de los derechos de imagen de deportistas en Chile, pero no ha podido hacerlo. Quisiera le pudieran facilitar esa ley (sic) o que le indicaran cómo se tributa.
 II ANÁLISIS
-Sobre el particular cabe señalar que, conforme a la nueva letra F, agregada al artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios en virtud de la modificación introducida por el artículo 2°, numeral 5, letra b), de la Ley N° 20.780, sobre reforma tributaria, se encuentra exenta de IVA, en términos generales, la venta de una vivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, cuando ésta haya sido financiada, en todo o parte, por el referido subsidio.
-Al respecto, se hace presente que, en virtud de las recientes modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, publicada mediante su inserción en el Diario Oficial de fecha 08.02.2016, el beneficio tributario antes referido ha sido mejorado y precisado.
-Conforme el nuevo texto del artículo 12, Letra F, de la Ley sobre Impuesto a las Ventas y Servicios, tras las modificaciones introducidas por la Ley N° 20.899 y en lo que interesa a su consulta, está exenta:
-“La venta de una vivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, los contratos generales de construcción y los contratos de arriendo con opción de compra, cuando tales ventas, contratos o arriendos con opción de compra hayan sido financiados en definitiva, en todo o parte, por el referido subsidio. Para estos efectos, se considerará también como beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, a la persona natural o jurídica que adquiera o encargue la construcción de un bien corporal inmueble para venderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado por dicho Ministerio, siempre que lo anterior conste en el contrato respectivo, debiendo aplicarse el impuesto al valor agregado en caso contrario. En este caso, si la venta o el contrato de arriendo con opción de compra posteriores no se celebran con beneficiarios de tales subsidios, deberá aplicarse el impuesto al valor agregado conforme a las reglas que corresponda según el caso, sin que proceda la exención establecida en el número 11, de la letra E, del artículo 12, y la venta a un tercero de una vivienda entregada en arrendamiento con opción de compra al beneficiario de un subsidio habitacional otorgado por el mismo Ministerio, cuando la opción de compra sea financiada, en todo o parte, por el señalado subsidio.”
-
+En relación con su consulta, se informa en primer lugar que nuestro sistema tributario no contempla, en estricto rigor, una ley que regule en general el tratamiento impositivo de los deportistas en Chile, como tampoco una que regule específicamente el tratamiento tributario de sus derechos de imagen.
+Sin perjuicio de lo anterior, y de acuerdo al tenor de su consulta, este Servicio entiende que ella está dirigida a conocer el tratamiento de los derechos de imagen de los deportistas en relación con el Impuesto al Valor Agregado, contenido en la Ley sobre Impuesto a las Ventas y Servicios, Decreto Ley N° 825 de 1974.
+Al respecto, se informa que este Servicio dio respuesta a esa inquietud en el Oficio N° 4842 de 2004, el cual se encuentra publicado en el sitio web de este Servicio, www.sii.cl; específicamente en el buscador asociado al administrador de contenido normativo, el cual se acompaña para su conocimiento.
+En lo fundamental, allí se concluye que, en caso de celebrarse un contrato por el cual se permite el uso en avisos publicitarios del nombre, imagen y figura personal de un deportista, se configura el hecho gravado establecido en el artículo 8°, letra h), del Decreto Ley N° 825 de 1974, que se refiere a cualquier forma de cesión del uso o goce temporal de marcas, patentes de invención, procedimientos o fórmulas industriales y otras prestaciones similares, considerando que jurídicamente el concepto de “marca” puede comprender el nombre y el retrato de una persona natural que así lo registre.
+Lo anterior, por entenderse, conforme a la Ley N° 19.039, que establece normas aplicables a los privilegios industriales y protección de los derechos de Propiedad Industrial, que las marcas comerciales sujetas a su protección comprenden también el nombre, el seudónimo o el retrato de una persona natural cualquiera que consienta en ello (artículo 20°, letra c).
 III CONCLUSIÓN
-Como se aprecia, tanto la ley de reforma tributaria (Ley N° 20.780) como la de simplificación del sistema de tributación a la renta y perfeccionamiento de otras disposiciones legales tributarias (Ley N° 20.899), han eximido expresamente al beneficiario de un subsidio habitacional otorgado por el Ministerio de la Vivienda y Urbanismo. La exención opera sea que el referido subsidio sirva para financiar en todo o en parte la adquisición de la vivienda respectiva.
-Por lo expuesto, y dando respuesta a su pregunta, se puede señalar que si usted adquiere una vivienda con subsidio y con crédito hipotecario, la compra de la vivienda no queda afecta al pago del IVA.
-
+Conforme lo expuesto precedentemente, se da respuesta a su consulta y se adjunta copia del Oficio N° 4842 de 2004, que incide en la materia.
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 1381, de 17.05.2016
+Oficio N° 1382, de 17.05.2016
 Subdirección Normativa
 Dpto. de Técnica Tributaria

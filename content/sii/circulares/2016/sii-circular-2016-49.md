@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:0px;'>Establece política de condonación de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°, N° 2 y N° 11 del Código Tributario, condonación de intereses en el caso de deudas por concepto de impuesto territorial, supervisión de la concesión del beneficio y política de transparencia. Fuente: Subdirección de Fiscalización Instruye sobre las modificaciones efectuadas por las Leyes N°s 20.780 y 20.899 a la Ley sob…
+scalización Instruye sobre las modificaciones efectuadas por las Leyes N°s 20.780 y 20.899 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

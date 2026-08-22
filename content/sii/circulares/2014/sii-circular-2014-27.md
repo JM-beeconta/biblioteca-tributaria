@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2014
-- Fecha: 2014-04-25
+- Fecha: 2014-04-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu27.pdf
 - Hash SHA-256: 950962030c514b994098a91708f26df16af715c2c8bf75c8ff82c65954f76379
 
 ## Resumen
 
-0px;'> Fuente: Oficina de Gestión Normativa Circular N° 28 del 25 de Abril del 2014 Modifica Circular N°56 de 2007, para actualizar referencia a artículo para el Código Penal que sanciona como delito el cohecho a funcionarios públicos extranjeros Fuente: Subdirección Normativa Tabl de Cálculos de Reajustes, Intereses y Multas mayo 2014. Fuente: Subdirección de Fiscalización Circular N° 26 del 09 de Abril del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2014 y el 9 de m…
+oacute;n Normativa Tabl de Cálculos de Reajustes, Intereses y Multas mayo 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

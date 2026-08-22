@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5> Instruye sobre la aplicación del crédito de carácter tributario que procede por los desembolsos directamente relacionados con la implementación y aplicación de los sistemas de trazabilidad o marcación de bienes o productos establecidos en el artículo 13 bis del Decreto Ley N° 828 de 1974 y en el artículo 60 quinquies del Código Tributario. Fuente: Subdirección Normativa Tabla de cálculos de reajustes, intereses y Multas junio 2015 Fuente: Subdirección de Fiscalización Circular N° 34 del 15 de Mayo del 2015 Impa…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y Multas junio 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

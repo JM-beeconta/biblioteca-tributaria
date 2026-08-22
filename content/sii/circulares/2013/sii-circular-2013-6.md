@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 6
 - Año: 2013
-- Fecha: 2013-02-06
+- Fecha: 2013-01-28
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu6.pdf
 - Hash SHA-256: af64516a643339ad78e5214e8bf35b790e263625f42794a7d7e1413371d77b9a
 
 ## Resumen
 
-i> Circular N° 7 del 06 de Febrero del 2013 Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas no habitacionales reavaluados. Fuente: Subdirección de Avaluaciones Departamento de Catastro y Tasaciones. Instruye sobre las modificaciones efectuadas por la Ley 20.630, a la Ley sobre Impuesto a la Renta, que rebaja las escalas de tasas de los impuestos Únicos de Segunda Categoría y Global Complementario, perfecciona las normas que permiten efectuar una reliquidación anu…
+stro y Tasaciones. Instruye sobre las modificaciones efectuadas por la Ley 20.630, a la Ley sobre Impuesto a la Renta, que rebaja las escalas de tasas de los impuestos Únicos de Segunda Categoría y Global Complementario, perfecciona las normas que permiten efectuar una reliquidación anual del impuesto Único de Segunda categoría y establece un crédito por gastos en educación imputable a los referidos tributos. Fuente: Depto. Impuestos Directos.
 
 ## Referencias detectadas
 

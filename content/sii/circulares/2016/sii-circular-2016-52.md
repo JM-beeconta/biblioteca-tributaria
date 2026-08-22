@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 52
 - Año: 2016
-- Fecha: 2016-08-09
+- Fecha: 2016-07-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu52.pdf
 - Hash SHA-256: 232cd83e53ab852d8698d107c727f04946686ad73425d8dec25bd36cdaf97bef
 
 ## Resumen
 
-> Fuente: Oficina de Gestión Normativa Circular N° 53 del 09 de Agosto del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2016 y el 9 de septiembre del año 2016. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas agosto 2016 Fuente: Subdirección de Fiscalización Circular N° 51 del 29 de Julio del 2016 Sustituye El numeral 1.7 del Capítulo Tercero de la Circular N° 33, de 2013, que actualiza los procedimientos para determinar el avalú…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas agosto 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'margin-bottom:0px;'> Circular N° 24 del 03 de Mayo del 2016 Modificación introducida por la Ley N° 20.899, de 8 de febrero de 2016, al artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos. Modifica la Circular N° 41, de 5 de junio de 2015. Fuente: Departamento de Asesoría Jurídica Imparte instrucciones acerca de las modificaciones introducidas por la Ley N° 20.899, al artículo 11, del Código Tributario. Modifica en las partes pertinentes la Circular N° 34, de 2015. Fuente: Departamento de Asesoría Ju…
+;a Jurídica Imparte instrucciones acerca de las modificaciones introducidas por la Ley N° 20.899, al artículo 11, del Código Tributario. Modifica en las partes pertinentes la Circular N° 34, de 2015. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

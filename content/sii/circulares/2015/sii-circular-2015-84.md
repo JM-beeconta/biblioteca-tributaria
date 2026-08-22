@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 84
 - Año: 2015
-- Fecha: 2015-11-11
+- Fecha: 2015-10-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu84.pdf
 - Hash SHA-256: 1974b43452f24629c8d57ad1fd3d5c4716e701a4ed7d042c9d624ff9b118a68e
 
 ## Resumen
 
-Circular N° 85 del 11 de Noviembre del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2015 e Información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Tabla de cálculos de Reajustes, Intereses y Multas noviembre 2015 Fuente: Subdirección de Fiscalización Circular N° 83 del 19 de Octubre del 2015 Deja sin efecto Circular N° 80, de 29 de septiembre de 2015. Fuente: Impuestos Indirectos Circular N° 82 del 14 d…
+oacute;n Normativa Tabla de cálculos de Reajustes, Intereses y Multas noviembre 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

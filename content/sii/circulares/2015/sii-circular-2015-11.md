@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 12 del 30 de Enero del 2015 Instruye sobre las modificaciones efectuadas a los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta por las Leyes N°s 20.727 y 20.780 de 2014, y la incorporación de los artículos 41 F y 41 H efectuada por esta última Ley. Fuente: Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 al beneficio tributario contenido en el artículo 57 bis de la Ley sobre Impuesto a la Renta a contar del 1° de enero de 2015, su derogación a partir del 1°…
+Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 al beneficio tributario contenido en el artículo 57 bis de la Ley sobre Impuesto a la Renta a contar del 1° de enero de 2015, su derogación a partir del 1° de enero de 2017 y sobre el tratamiento del saldo de ahorro por las inversiones que se efectúen hasta el 31.12.2016 y se hayan acogido a dicha norma legal. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

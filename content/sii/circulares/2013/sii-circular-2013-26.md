@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 26
 - Año: 2013
-- Fecha: 2013-05-29
+- Fecha: 2013-05-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu26.pdf
 - Hash SHA-256: 80d76195362eee0adf4bc46904e7720597205e26305a5713a990cea3586556c9
 
 ## Resumen
 
-Circular N° 27 del 29 de Mayo del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2013. Fuente: Subdirección de Fiscalización. Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que establecen el listado de obras específicas de naturaleza pública y privada que se pueden acoger a los beneficios tributarios por donaciones, según lo dispuesto por el artículo 8° de la Ley…
+calización. Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que establecen el listado de obras específicas de naturaleza pública y privada que se pueden acoger a los beneficios tributarios por donaciones, según lo dispuesto por el artículo 8° de la Ley 20.444/2010; quedando sin efecto la Circular N° 31, DE 2012 . Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

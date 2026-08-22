@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an> Circular N° 46 del 12 de Julio del 2016 Tablas de Impuesto Único de Segunda Categoría y de impuesto global complementario para el mes de agosto del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2016 y el 9 de agosto del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 44 del 12 de Julio del 2016 Instruye sobre las modificaciones efectuadas por la Ley N° 20.78…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2016 y el 9 de agosto del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

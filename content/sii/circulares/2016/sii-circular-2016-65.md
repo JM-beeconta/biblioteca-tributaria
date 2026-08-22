@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 65
 - Año: 2016
-- Fecha: 2016-11-25
+- Fecha: 2016-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu65.pdf
 - Hash SHA-256: 968632adb155c4221881b167246473e733e8315c1d1cb6036d4008b847098cfd
 
 ## Resumen
 
-ta (LIR). Fuente: Impuestos Directos Circular N° 66 del 25 de Noviembre del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2016 Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de diciembre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 64 del 11 de Noviembre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de nov…
+scalización Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de diciembre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

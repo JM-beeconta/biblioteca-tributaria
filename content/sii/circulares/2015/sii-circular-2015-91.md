@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 91
 - Año: 2015
-- Fecha: 2015-12-29
+- Fecha: 2015-12-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu91.pdf
 - Hash SHA-256: 80fa9465c52b7002c5d44cd478970d86e6da9cba0b4947615b32b1f8229be597
 
 ## Resumen
 
-Circular N° 92 del 29 de Diciembre del 2015 Tabla de Cálculos de reajustes, intereses y Multas enero 2016 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2015 y el 9 de enero del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 90 del 11 de Diciembre del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2016 e información adicional relacionada con dichos trib…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2015 y el 9 de enero del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

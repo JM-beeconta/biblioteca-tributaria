@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 77
 - Año: 2015
-- Fecha: 2015-09-16
+- Fecha: 2015-09-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu77.pdf
 - Hash SHA-256: b9a2c765f9f5bc224135778ab41a76967dd1ba45588920efcad5d8c5b67a5ca6
 
 ## Resumen
 
-mbre del 2015 Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 16 de septiembre de 2015. Fuente: Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2015 y el 9 de octubre del añ…
+Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2015 y el 9 de octubre del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

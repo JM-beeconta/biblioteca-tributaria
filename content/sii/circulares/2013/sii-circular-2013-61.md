@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que establecen el listado de obras específicas de naturaleza pública y privada que se pueden acoger a los beneficios tributarios por donaciones, según lo dispuesto por el artículo 8° de la Ley N° 20.444/2010; quedando sin efecto la Circular N° 26, de 2013. Fuente: Oficina de Gestión Normativa Circular N° 60 del 24 de Diciembre del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2
+Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que establecen el listado de obras específicas de naturaleza pública y privada que se pueden acoger a los beneficios tributarios por donaciones, según lo dispuesto por el artículo 8° de la Ley N° 20.444/2010; quedando sin efecto la Circular N° 26, de 2013. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

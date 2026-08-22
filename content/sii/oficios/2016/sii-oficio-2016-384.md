@@ -6,87 +6,76 @@
 - Año: 2016
 - Fecha: 2016-10-25
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2896.htm
-- Hash SHA-256: 048f0b021ee84a41c2712a3e99672cb949032d19f8c0b0c103f61b78f06bfbc7
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2952.htm
+- Hash SHA-256: 6c6dca4c2d639a3a20adea660cec681ae767887f4f36e06987eae017808628f0
 
 ## Resumen
 
-enta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 18.152, de 1982, Art. 1 &ndash; Convenio de Seguridad Social entre Chile y Perú, Art. 2 &ndash; . (Ord. Nº 2952, de 25-10-2016) | Word Devolución de impuesto único de segunda categoría por aplicación del Convenio de Seguridad Social suscrito entre Chile y Perú. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Letra A) &ndash; Ley N° 20.780, de 2014, Artículo 3 transitorio, Numeral I &ndash; Circulares N°&acute;s 17 y 39, de 2016. (Ord. Nº 2896…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 18.152, de 1982, Art. 1 &ndash; Convenio de Seguridad Social entre Chile y Perú, Art. 2 &ndash; . (Ord. Nº 2952, de 25-10-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":49,"year":2016}
-- {"type":"circular","number":17,"year":2016}
-- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"oficio","number":384,"year":2014}
+- {"type":"articulo","law":"LIR","article":"74 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, LETRA A) – LEY N° 20.780, DE 2014, ARTÍCULO 3 TRANSITORIO, NUMERAL I – CIRCULARES N°´S 17 Y 39, DE 2016. (Ord. Nº 2896, de 20-10-2016)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 18.152, DE 1982, ART. 1 – CONVENIO DE SEGURIDAD SOCIAL ENTRE CHILE Y PERÚ, ART. 2 – OFICIO N° 384, DE 2014. (Ord. Nº 2952, de 25-10-2016)
 
-IMPUESTO SUSTITUTIVO SOBRE LAS RENTAS ACUMULADAS EN EL REGISTRO FUT AL 31 DE DICIEMBRE DE LOS AÑOS 2015 Y/O 2016.
+DEVOLUCIÓN DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA POR APLICACIÓN DEL CONVENIO DE SEGURIDAD SOCIAL SUSCRITO ENTRE CHILE Y PERÚ.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual consulta sobre el cálculo de la tasa variable del impuesto sustitutivo sobre las rentas acumuladas en el Registro Fondo de Utilidades Tributables (FUT) al 31 de diciembre de los años 2015 y/o 2016, en el caso particular de acciones entregadas en usufructo.
+Se pide un pronunciamiento respecto de la devolución de impuesto único de segunda categoría retenido en la devolución de fondos previsionales, basado en lo dispuesto en el Convenio de Seguridad Social entre Chile y Perú.
 
-I.- ANTECEDENTES.
+I. ANTECEDENTES
 
-1.- La presentación relata el caso de unas sociedades anónimas, las cuales estarían evaluando la posibilidad de acogerse al régimen opcional de tributación sobre rentas acumuladas en el Registro FUT contenido en el artículo tercero transitorio, numeral I.-, N° 11 de la Ley N° 20.780, complementado por el artículo primero transitorio de la Ley N° 20.899.
+La Superintendencia de Pensiones ha remitido su presentación en la que solicita la devolución de impuestos retenidos por AFP TTTT sobre los fondos previsionales que le fueron devueltos en su calidad de técnico extranjero. En su opinión, la tributación aplicada a dicha devolución no sería procedente por cuanto dicha devolución fue realizada meses después de haberse jubilado, encontrándose en el marco del Convenio de Seguridad Social entre Chile y Perú.
 
-Dichas sociedades, las cuales determinan sus resultados reales conforme a renta efectiva según contabilidad completa, iniciaron sus actividades con anterioridad al 1° de diciembre del año 2015, manteniendo al término del año comercial 2015 un saldo de utilidades no distribuidas pendientes de tributación con Impuesto Global Complementario (IGC).
+II. ANÁLISIS
 
-Las acciones de dichas sociedades habrían sido entregadas en usufructo a personas naturales, siendo también personas naturales los nudos propietarios de ellas.
+Al respecto se estima pertinente señalar como antecedente para resolver la situación que plantea, que la Ley N° 18.156, de 1982, dispone que los trabajadores técnicos extranjeros y sus empleadores, que cumplan los requisitos que se indican en ese cuerpo legal, se encuentran liberados del cumplimiento de las leyes de previsión que rijan para los trabajadores, no estando obligados, en consecuencia, a efectuar imposiciones de ninguna naturaleza en organismos de previsión chilenos. Previendo el legislador que se podría presentar el caso de trabajadores extranjeros que a pesar de estar liberados de cotizar en Chile, registraren cotizaciones en una Administradora de Fondos de Pensiones (AFP), estableció en el artículo 7° de dicha ley, que los trabajadores extranjeros que registraren cotizaciones en una AFP, pueden solicitar la devolución de los fondos previsionales que hubieren depositado, siempre que dieren cumplimiento los requisitos establecidos en el artículo 1° de esa ley.
 
-Considerando que tanto los nudos propietarios como también los usufructuarios de las acciones emitidas por las mencionadas sociedades serían personas naturales contribuyentes de IGC, y no se habrían verificado ventas, cesiones o transferencias de acciones con posterioridad al 1° de diciembre del 2015, la presentación considera que las sociedades cumplirían con los requisitos para aplicar la tasa variable a que se refiere el inciso segundo de la letra e) del Artículo primero transitorio de la Ley N° 20.899, consistente en el " promedio ponderado, de acuerdo a la participación que cada socio, comunero o accionista mantenga en la empresa al 31 de diciembre del 2015 o 2016, según corresponda, de las tasas más altas del Impuesto Global Complementario que les haya afectado en los 3 últimos años tributarios respectivamente &rdquo;.
+En lo que respecta al tratamiento tributario que corresponde aplicar, este Servicio ha sostenido en diversos oficios, el último de los cuales es el N° 384, de 2014, que la devolución, conforme a la ley citada, de las cotizaciones previsionales obligatorias que trabajadores extranjeros tengan registradas a su nombre en una AFP, constituyen una renta afecta a impuesto, gravadas con el Impuesto Único de Segunda Categoría, ya que al perder su carácter previsional, deben ser afectadas con el impuesto del que quedaron temporalmente exentas cuando ellas fueron percibidas por el trabajador. Se agregó en el oficio, que es la respectiva AFP, conforme a lo establecido por el artículo 74 N° 1 de la LIR, quién debe efectuar la retención del Impuesto Único de Segunda Categoría.
 
-2.- Basándose en las definiciones de dominio y de usufructo de los artículos 582 y 764 del Código Civil, indica que el derecho de usufructo supone la coexistencia de dos derechos actuales: el derecho de propiedad del nudo propietario; y el derecho real del usufructuario sobre la cosa. Según su extensión o la integridad de las facultades, la propiedad puede ser plena o nuda propiedad. El dueño y poseedor de la cosa es el nudo propietario, quien conserva la facultad de disposición, la cual define al propietario; el usufructuario, si bien es dueño y poseedor de su derecho real de usufructo, es un mero detentador de la cosa fructuaria. En el caso de las acciones de una sociedad anónima, el Artículo 46 del Reglamento de la Ley N°18.046 señala que en el usufructo de acciones, la calidad de accionista reside en el nudo propietario.
+En lo que se refiere a la incidencia que tendría en esta materia el Convenio de Seguridad Social entre Chile y Perú, cabe señalar que dicho convenio se aplica exclusivamente a materias de seguridad social, tal como se aprecia en la norma que se transcribe a continuación:
 
-Así la presentación concluye que el "accionista" a que se refiere la Ley N° 20.780 y la Ley N°20.899 para efectos de calcular la tasa variable del impuesto sustitutivo, en el caso de las sociedades indicadas, sería el nudo propietario y, en consecuencia se deben considerar las tasas más altas de IGC de los nudos propietarios de los años tributarios correspondientes.
+Convenio de Seguridad Social entre Chile y Perú:
 
-No pugna con la conclusión anterior el derecho del usufructuario a los frutos de la cosa fructuaria. En el caso de las acciones de una sociedad anónima, los frutos que produce la cosa son civiles, y consisten en los dividendos que la sociedad distribuye, que obviamente pertenecen al usufructuario.
+&ldquo;Artículo 2° Ámbito de Aplicación Material.
 
-3.- Añade que la Circular N°49, del 2016, al referirse al concepto de renta atribuida del párrafo segundo del N° 2 de la Ley sobre Impuesto a la Renta (LIR), identifica como una característica de dicho concepto legal, que lo que determina la atribución de rentas a un sujeto es la relación de propiedad que dicho sujeto tiene con la empresa, comunidad o sociedad respectiva que realiza la atribución, en calidad de propietario, comunero, socio o accionista de la misma. Así, según indica la Circular, basta con conservar la nuda propiedad de la empresa, de las cuotas, derechos sociales o acciones, según corresponda, para tener la calidad de propietario, comunero, socio o accionista a quién se atribuyen las rentas que la ley establece.
+El presente convenio se aplicará:
 
-La norma jurídica cuando define renta atribuida, utiliza un concepto equivalente al que emplea para regular el impuesto sustitutivo sobre las rentas acumuladas en el Registro FUT al 31 de diciembre de los años 2015 y/o 2016. Ambas normas se refieren, en distinto orden, pero con idénticas palabras, al "socio, comunero o accionista". En consecuencia, si para la definición de la renta atribuida, el Servicio de Impuestos Internos considera que el nudo propietario es el "socio, comunero o accionista" , lo mismo debiera concluirse para los efectos de calcular la tasa variable del impuesto sustitutivo que trata la presentación.
+Respecto de Chile; a la legislación sobre:
 
-4.- En consideración a lo anteriormente expuesto, requiere la confirmación de los siguientes criterios o bien se establezca el criterio aplicable al caso descrito:
+El Sistema de pensiones de vejez, invalidez y sobrevivencia, basado en la capitalización individual.
 
-a) En un usufructo constituido sobre acciones de una sociedad anónima, la calidad de accionista la tiene el nudo propietario; y
+Los regímenes de pensiones de vejez, invalidez y sobrevivencia administrados por el Instituto de Normalización Previsional y.
 
-b) De acogerse las sociedades anónimas descritas al régimen opcional de tributación sobre rentas acumuladas en el FUT al 31 de diciembre de los años 2015 y/o 2016, a que se refiere el Artículo tercero transitorio, numeral I.-, N° 11 de la Ley N° 20.780, complementado por el Artículo primero transitorio de la Ley N°20.899, la tasa variable debe calcularse utilizando las tasas más altas de IGC que afectaron a los nudos propietarios de las acciones en los años tributarios que correspondan.
+Los regímenes de prestaciones de salud, para efectos de lo dispuesto en los artículos 10° y 17°, N° 7.&rdquo;
 
-II.- ANÁLISIS.
+En la letra C, de este artículo 2°, Disposiciones Comunes, se incluye la siguiente disposición:
 
-De acuerdo a lo dispuesto en el artículo tercero transitorio, numeral I.-, N° 11 de la Ley N° 20.780[1] y en el artículo primero transitorio de la Ley N° 20.899[2], los contribuyentes sujetos al Impuesto de Primera Categoría (IDPC) sobre la base de un balance general según contabilidad completa, pueden optar durante los años 2015, 2016 y hasta el 30 de abril del 2017, por pagar un impuesto sustitutivo de los impuestos finales sobre las utilidades tributables determinadas conforme a lo dispuesto en la letra A) del Artículo 14 de la LIR acumuladas en el FUT al término de los años comerciales 2014, 2015 o 2016, según corresponda.
+&ldquo;c) En materia de tributación se aplicará la legislación tributaria interna de cada Estado, sin perjuicio de la aplicación del Convenio para Evitar la Doble Tributación y para Prevenir la Evasión Fiscal en relación al Impuesto a la Renta y al Patrimonio, suscrito entre las Repúblicas de Chile y del Perú en el año 2001.&rdquo;
 
-Conforme a lo señalado en el Artículo primero transitorio de la Ley N°20.899, cuyas instrucciones fueron impartidas a través de la Circular N° 17, del 2016, modificada por Circular N°39, de 08 de julio de 2016, aquellos contribuyentes que apliquen el impuesto sustitutivo respecto de utilidades tributables acumuladas en el FUT al 31 de diciembre del año 2015, deben ejercer dicha opción durante el año comercial 2016 y aquellos que lo apliquen respecto de las rentas acumuladas en el FUT al 31 de diciembre de 2016 deben ejercer dicha opción hasta el 30 de abril del 2017. En ambos casos deben haber iniciado actividades con anterioridad al 1° de diciembre del 2015
+De lo dispuesto en las norma del Convenio de Seguridad Social transcritas en el párrafo anterior se desprende en forma clara e inequívoca que ese convenio se aplica exclusivamente a materias de carácter previsional. En lo que se refiere a materias tributarias, el Convenio dispone expresamente que se aplicará la legislación tributaria interna de cada Estado, sin perjuicio de la aplicación del Convenio para Evitar la Doble Tributación y para Prevenir la Evasión Fiscal en relación al Impuesto a la Renta y al Patrimonio, en los casos en que procediere.
 
-La tasa general del impuesto sustitutivo es de 32%. Sin embargo, aquellos contribuyentes que se encuentren conformados exclusivamente por personas naturales contribuyentes de IGC podrán aplicar, en reemplazo de la tasa de 32%, una tasa variable equivalente al promedio ponderado, de acuerdo a la participación que cada socio, comunero o accionista mantenga en la empresa, de las tasas más altas de IGC que les haya afectado en los 3 últimos años tributarios respectivamente.
+Respecto de este último convenio, que se aplica respecto a los impuestos sobre las rentas que se obtengan y a las cantidades que se paguen, abonen en cuenta, se pongan a disposición o se contabilicen como gasto, a partir del 1 de enero del año 2004, podría ser aplicable en la medida que acredite, que tiene residencia en ese país de acuerdo a lo que prescribe el artículo 4 de dicho convenio.
 
-Las instrucciones de la Circular N° 17, del 2016, en lo pertinente al cálculo de la tasa especial variable, señalan que la tasa marginal corresponde a la más alta que haya afectado al propietario, comunero, socio o accionista respectivo, en su declaración anual de impuesto a la renta en cada uno de los últimos 3 años tributarios, contados hacia atrás desde el 31 de diciembre del año que corresponda[3], sea que las rentas o cantidades declaradas provengan de la empresa o sociedad, o bien, se trate de otras sumas afectadas con IGC, como por ejemplo, sueldos, honorarios, rentas de capitales mobiliarios, etc.
+En el caso que ello ocurriere, la norma aplicable, de acuerdo a la naturaleza de la renta que dio origen a la devolución o restitución de imposiciones previsionales, es aquella contenida en el artículo 15, Servicios Personales Dependientes del Convenio. Conforme a dicha norma, si el perceptor de la renta permanece en el otro Estado durante un período o períodos cuya duración exceda de 183 días en cualquier período de doce meses que comience o termine en el año tributario considerado, el Estado donde se ejerce el empleo tiene derecho a gravar la renta sin límites. De acuerdo a los antecedentes con que se cuenta, el período de 183 días que contempla el convenio se habría excedido largamente, razón por la cual Chile de acuerdo al convenio tendría derecho a gravar la renta percibida por el recurrente.
 
-Si el propietario, o uno o más de los comuneros, socios o accionistas, no quedaron afectos al IGC o quedaron exentos del referido tributo en uno o más de los períodos señalados, la referida tasa promedio se calculará considerando sólo aquellos períodos en que el propietario, comunero, socio o accionista se haya afectado con alguna tasa.
+III. CONCLUSIÓN
 
-Las normas e instrucciones indicadas, condicionan la aplicación de la tasa variable del impuesto sustitutivo al cumplimiento de los siguientes requisitos copulativos: (i) a lo menos, desde el 1° de diciembre de 2015 y hasta la fecha en que se ejerza la opción, la sociedad o comunidad contribuyente de IDPC debe estar formada exclusivamente por personas naturales contribuyentes de IGC; (ii) desde del 1° de diciembre de 2015, no debe haberse verificado la cesión, a título gratuito u oneroso, de una parte o del total de los derechos, cuotas o acciones de la entidad o sociedad contribuyente de IDPC; (iii) la tasa determinada debe ser distinta de cero, considerando la totalidad de las cantidades incluidas en la renta bruta global, y no solo aquellas percibidas o retiradas de la empresa, comunidad o sociedad o distribuidas por la sociedad anónima. Tampoco podrán aplicar la tasa variable si en los últimos 3 años tributarios, el propietario, o todos los socios, comuneros o accionistas no estuvieron afectos al IGC, al no existir tasas del referido tributo.
+En relación a la tributación de la devolución de cotizaciones previsionales obligatorias conforme a la Ley N° 18.156, de 1982, el Servicio mediante el Oficio N° 384, de 2014, sostuvo que la devolución de las cotizaciones previsionales obligatorias que trabajadores extranjeros tengan registradas a su nombre en una AFP conforme a la ley citada, constituyen una renta afecta a impuesto, gravadas con el Impuesto Único de Segunda Categoría, ya que al perder su carácter previsional, deben ser afectadas con el impuesto del que quedaron temporalmente exentas cuando ellas sean percibidas por el trabajador.
 
-En caso de haberse constituido un usufructo sobre las acciones de la sociedad que pretende acogerse al impuesto sustitutivo, en la fórmula de cálculo de la tasa variable se debe considerar la tasa marginal más alta del IGC que haya gravado a los propietarios de las acciones, esto es al nudo propietario, y no al usufructuario de ellas quien conforme señala el artículo 714 del Código Civil[4], es un mero detentador de la cosa fructuaria reconociendo dominio ajeno.
+Del análisis de las normas del Convenio de Seguridad Social entre Chile y Perú, se desprende que ese convenio se aplica exclusivamente a materias de carácter previsional y no afecta a la aplicación de normas tributarias, tal como lo señala expresamente el propio convenio.
 
-III.- CONCLUSIÓN.
-
-En caso de existir un usufructo sobre las acciones, en el cálculo de la tasa variable del impuesto sustitutivo que grava las rentas acumuladas en el FUT al 31 de diciembre del 2015 o 2016, se deben considerar las tasas marginales más altas del IGC que gravaron al nudo propietario de las acciones durante los últimos 3 años tributarios que preceden al ejercicio de la opción.
+Para los efectos de invocar la aplicación del Convenio para evitar la doble imposición entre Chile y Perú, tendría que acreditar que tuvo residencia en ese país en los términos que define dicho convenio, en los períodos que percibió rentas en Chile. En el caso que ello ocurriere, Chile podría gravar la renta sin ninguna limitación por cuanto el recurrente habría permanecido en el país por un período superior a 183 días, lo que autorizaría a gravar la renta a nuestro país, de conformidad a lo dispuesto en el convenio.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2896, de 20.10.2016
+Oficio N° 2952, de 25.10.2016
 
 Subdirección Normativa
 
-Dpto. de Impuestos Directos
-
-[1] Publicada en el Diario Oficial el 29.09.2014.
-
-[2] Publicada en el Diario Oficial el 08.02.2016.
-
-[3] Aquellos contribuyentes que ejerzan la opción el año 2016 deben considerar las tasas marginales más altas del IGC que haya gravado al propietario, socios, comuneros o accionistas en los años tributarios 2015, 2014 y 2013. Aquellos contribuyentes que ejerzan la opción el 2017 (hasta el 30 de abril), deben considerar las tasas marginales más altas de IGC que haya gravado al propietario, socios, comuneros o accionistas en los años tributarios 2016, 2015 y 2014.
-
-[4] El Artículo 714 del Código Civil indica: &ldquo;Se llama mera tenencia la que se ejerce sobre una cosa, no como dueño, sino en lugar o a nombre del dueño. El acreedor prendario, el secuestre, el usufructuario, el usuario, el que tiene el derecho de habitación, son meros tenedores de la cosa empeñada, secuestrada, o cuyo usufructo, uso o habitación les pertenece. Lo dicho se aplica generalmente a todo el que tiene una cosa reconociendo dominio ajeno.&rdquo;
+Dpto. de Normas Internacionales

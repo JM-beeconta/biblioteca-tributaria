@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 86
 - Año: 2015
-- Fecha: 2015-11-18
+- Fecha: 2015-11-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu86.pdf
 - Hash SHA-256: 83263371ef20ef228ace243d32dec9dd8f70eb76f32087fe957aa9e7588fee54
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 87 del 18 de Noviembre del 2015 Deja sin efecto Circular N° 47, de 26 de septiembre de 2013. Fuente: Departamento de Asesoría Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2015 y el 9 de diciembre del año 2015. Fuente: Oficina de Gestión Normativa Circular N° 85 del 11 de Noviembre del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2015 e…
+;a Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2015 y el 9 de diciembre del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

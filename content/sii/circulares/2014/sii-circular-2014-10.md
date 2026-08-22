@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 10
 - Año: 2014
-- Fecha: 2014-02-25
+- Fecha: 2014-02-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu10.pdf
 - Hash SHA-256: 266e033e2c2a265373225ede1bb584ad25719379700921c275dbd18c07685da7
 
 ## Resumen
 
-ación Circular N° 11 del 25 de Febrero del 2014 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los articulos 23 y 34 N° 1 de la ley de la renta. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 9 del 10 de Febrero del 2014 Valor de la…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

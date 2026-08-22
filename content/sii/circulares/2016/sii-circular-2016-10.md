@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 11 del 15 de Marzo del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2016 y el 9 de abril del año 2016. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2016, e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 9 del 29 de Febrero del 2016 Nuevas escalas y tasas para la…
+oacute;n Normativa Tablas del Impuesto Único de segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2016, e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

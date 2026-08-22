@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2015, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2014, y sobre los retiros en exceso que se mantengan a esa fecha. Fuente: Depto. de Impuestos Directos Circular N° 69 del 30 de Diciembre del 2014 Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a con…
+Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2015, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2014, y sobre los retiros en exceso que se mantengan a esa fecha. Fuente: Depto. de Impuestos Directos
 
 ## Referencias detectadas
 

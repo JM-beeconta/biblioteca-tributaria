@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2016
-- Fecha: 2016-07-29
+- Fecha: 2016-07-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu50.pdf
 - Hash SHA-256: 1b7f6a508fac8e73442e386727e2aaa16d9a273df9e3ac1e699cffd4455c08c6
 
 ## Resumen
 
-rgin-bottom:0px;'> Circular N° 51 del 29 de Julio del 2016 Sustituye El numeral 1.7 del Capítulo Tercero de la Circular N° 33, de 2013, que actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley Nº 19.537. Fuente: Subdirección de Avaluaciones Establece política de condonación de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°,…
+;n de Avaluaciones Establece política de condonación de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°, N° 2 y N° 11 del Código Tributario, condonación de intereses en el caso de deudas por concepto de impuesto territorial, supervisión de la concesión del beneficio y política de transparencia. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

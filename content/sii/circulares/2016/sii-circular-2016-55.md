@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2016
-- Fecha: 2016-08-23
+- Fecha: 2016-08-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu55.pdf
 - Hash SHA-256: 658a697dd8ed7fca3282fbeba52e4015f529b24be605a05f8c247d4b6e9d7b09
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 56 del 23 de Agosto del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas septiembre 2016 Fuente: Subdirección de Fiscalización Refunde y actualiza instrucciones sobre la aplicación del crédito tributario establecido a favor de las empresas constructoras que instalen sistemas solares térmicos (SST) en las viviendas, con motivo de las modificaciones incorporadas por la Ley N° 20.897 a la Ley N° 20.365. Fuente: Impuestos Directos Circular N° 54 del 09 de Agosto…
+scalización Refunde y actualiza instrucciones sobre la aplicación del crédito tributario establecido a favor de las empresas constructoras que instalen sistemas solares térmicos (SST) en las viviendas, con motivo de las modificaciones incorporadas por la Ley N° 20.897 a la Ley N° 20.365. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

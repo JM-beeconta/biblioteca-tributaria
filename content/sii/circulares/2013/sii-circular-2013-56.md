@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: oficina de Gestión Normativa Circular N° 57 del 27 de Noviembre del 2013 Instrucciones relativas a la entrada en vigencia de la Ley N°20.650 de 2012 que modifica la Ley N°17.235 sobre Impuesto Territorial Fuente: Técnica Tributaria Imparte instrucciones sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Crédito Fuente: Departamento de Aten…
+e;cnica Tributaria Imparte instrucciones sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Crédito Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

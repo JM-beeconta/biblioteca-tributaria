@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2015
-- Fecha: 2015-06-09
+- Fecha: 2015-06-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu42.pdf
 - Hash SHA-256: b47c7720a0027ec653372ad635cb57a9e53f927c64c67d9f7b6e4056d5910de9
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 43 del 09 de Junio del 2015 Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel Fuente: Departamento de Asesoría Jurídica Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 2°, 8°, 9°, 12° letra F, 16° letras D y G, 18°,19°, y 23° N° 6 del D.L. N° 825, de 1974, y normas transitorias respectivas, relacionadas con la inclusión en la normativa tributaria sobre…
+a Jurídica Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 2°, 8°, 9°, 12° letra F, 16° letras D y G, 18°,19°, y 23° N° 6 del D.L. N° 825, de 1974, y normas transitorias respectivas, relacionadas con la inclusión en la normativa tributaria sobre el Impuesto al Valor Agregado de la venta de inmuebles efectuada por vendedores habituales. Fuente: Departamento de Impuestos Indirectos
 
 ## Referencias detectadas
 

@@ -6,66 +6,81 @@
 - Año: 2016
 - Fecha: 2016-12-16
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3311.htm
-- Hash SHA-256: 3e08f7308af13d1cb8897d39e843aa8a0c6ed003e57d8517d1593a19318e16d6
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3312.htm
+- Hash SHA-256: 290491cec78bfb3e29b6b7b009962c3e6095ad2d89133944be5c8ab6cd3ad008
 
 ## Resumen
 
-, N°1, N°3, Art. 9, letra f), Art. 16, letra g), Art. 17 &ndash; . (Ord. Nº 3312, de 16-12-2016) | Word Solicita un pronunciamiento sobre aplicación de la Ley de Impuesto a las Ventas y Servicios, en la venta de inmuebles. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, letra i). (Ord. Nº 3311, de 16-12-2016) | Word Impuesto al Valor Agregado en arrendamiento de boxes de estacionamiento. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &n…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 2, N°1, N°3, Art. 9, letra f), Art. 16, letra g), Art. 17 &ndash; . (Ord. Nº 3312, de 16-12-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":71,"year":2001}
-- {"type":"oficio","number":1814,"year":2015}
+- {"type":"oficio","number":1844,"year":2016}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA I). (Ord. Nº 3311, de 16-12-2016)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1, N°3, ART. 9, LETRA F), ART. 16, LETRA G), ART. 17 – OFICIO N° 1844, DE 2016. (Ord. Nº 3312, de 16-12-2016)
 
-IMPUESTO AL VALOR AGREGADO EN ARRENDAMIENTO DE BOXES DE ESTACIONAMIENTO.
+SOLICITA UN PRONUNCIAMIENTO SOBRE APLICACIÓN DE LA LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS, EN LA VENTA DE INMUEBLES.
 
-Se ha recibido en esta Dirección Nacional, su oficio del antecedente, mediante el cual solicita un pronunciamiento respecto de la aplicación de IVA al arriendo de boxes de estacionamiento.
+Se ha solicitado a esta Dirección Nacional, un pronunciamiento o ratificar el criterio de esa Dirección Regional, acerca de consulta realizada por el contribuyente Inversiones XXXX, sobre la aplicación del Impuesto a las Ventas y Servicios en la venta de inmuebles, con ocasión de la Reforma Tributaria.
 
-I.- ANTECEDENTES
+I.- ANTECEDENTES:
 
-Expone que la XIII Dirección Regional Metropolitana Santiago xxx recibió presentación del contribuyente don TTT, en la cual indica que es propietario de una edificación que, además de oficinas, cuenta con boxes para estacionamiento de vehículos, los que desea explotar mediante el arrendamiento mensual de los mismos a particulares, percibiendo el pago de una renta, con un contrato cuya duración será por un año. Seguidamente, solicita aclarar si la operación descrita queda afecta a IVA, especialmente al tenor de los Oficios N° 2931, de 29.10.2012, y N°1814, de 13.07.2015.
+El contribuyente en su presentación plantea las siguientes consultas:
 
-Hace presente que ambos oficios señalan que el arrendamiento de un box de estacionamiento ubicado en el mismo edificio en que se arrienda una oficina y celebrado por las mismas partes que suscribieron el contrato de arrendamiento de aquella, no se encuentra gravado con IVA. Por su parte, el Oficio N° 1814 de 2015 agrega que tampoco se encuentra afecto a dicho tributo el arriendo de boxes de estacionamiento a los trabajadores de las mismas empresas que arriendan las respectivas oficinas; criterio similar al establecido en Oficio N° 613 de 26.02.2015.
+Según el artículo 7° Transitorio de la Ley N° 20.780, quedan exentos de IVA todos los bienes inmuebles que tienen permiso de edificación al 31.12.2015 y que se venden durante el año 2016 &iquest;Este artículo Transitorio rige para las propiedades usadas?
 
-Señala además que el Oficio N°3136 de 30.12.1997 determina qué se entiende por estacionar para efectos de la letra i), del artículo 8° del D.L. N° 825, de 1974.
+&iquest;Qué sucede con los bienes inmuebles comprados durante el año 2016 y que se venden el mismo año, y que además tengan permiso de edificación al 31.12.2015, están afectos a IVA?
 
-En resumen, y de acuerdo a los oficios analizados, expone que los pronunciamientos del Servicio en la materia han considerado dos situaciones:
+En caso de bienes inmuebles que se compren en remates judiciales y para el efecto del pago de IVA, &iquest;Cuándo rige la fecha de la compra en el acta de remate o escritura?; y
 
-Arriendo de boxes de estacionamiento a arrendatarios de oficinas en el mismo edificio, o a trabajadores de las mismas empresas que arriendan las respectivas oficinas, casos en los cuales la operación no se encontrará gravada con IVA; y
+&iquest;Si compro un bien inmueble con IVA al vender el mismo bien se aplica nuevamente el IVA al bien inmueble? (artículo 16°, letra g) del D.L. N° 825).
 
-Arriendo de boxes de estacionamiento a personas ajenas al edificio, si el inmueble se ha construido especialmente con el objeto de estacionar automóviles, caso en el cual el arriendo se grava con IVA, de conformidad con la letra i), del artículo 8° del D.L. N° 825, de 1974.
+La Dirección Regional consultante emite a continuación su opinión sobre los temas consultados.
 
-Señala que la consulta del contribuyente plantea una situación distinta a aquellas sobre las cuales se ha pronunciado el Servicio, toda vez que desea explotar los boxes de estacionamiento respecto de personas ajenas al edificio (no arrendatarios de oficinas ni trabajadores de las empresas arrendatarias de oficinas), sin que el inmueble se haya construido especialmente para estacionar automóviles, toda vez que dispone tanto de oficinas como de boxes de estacionamiento.
+II.- ANÁLISIS Y CONCLUSIÓN:
 
-En opinión de esa Dirección Regional, para que la prestación en estudio configure un hecho gravado especial del IVA, deben concurrir todos los elementos que lo constituyen, de tal forma, no tratándose los boxes en cuestión de inmuebles con instalaciones ni estando el inmueble especialmente destinado al servicio de estacionamiento, el arriendo de los mismos, en este caso anual, contratados con personas no arrendatarias de oficinas en el mismo edificio ni con trabajadores de empresas domiciliadas en el mismo recinto, tampoco constituiría un hecho gravado con el Impuesto al Valor Agregado.
+Las Leyes N° 20.780 y 20.899, modificaron el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, respecto de la aplicación del Impuesto al Valor Agregado (IVA) en la enajenación de inmuebles
 
-De acuerdo a lo expuesto y según lo dispuesto en la Circular N° 71 de 2001, no habiendo considerado los anteriores pronunciamientos del Servicio la situación específica planteada por el consultante, concluye solicitando un pronunciamiento por parte de esta Dirección.
+Así, se modificaron los conceptos de &ldquo;venta&rdquo; y &ldquo;vendedor&rdquo; establecidos en los N° 1 y 3 del artículo 2° del D.L. N° 825, de 1974, quedando éstos del siguiente tenor:
 
-II.- ANÁLISIS
+&ldquo;Artículo 2°.- Para efectos de esta Ley, salvo que la naturaleza del texto implique otros significados, se entenderá:
 
-El artículo 8°, letra g) del Decreto Ley N° 825, de 1974, grava con Impuesto al Valor Agregado el arrendamiento, subarrendamiento, usufructo o cualquier otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de establecimiento de comercio, hecho gravado que pende de una situación objetiva, cual es, que el inmueble objeto del contrato de arrendamiento cuente con muebles o bien con instalaciones que permitan o posibiliten el ejercicio de una actividad comercial o industrial, aun cuando en el hecho ésta no se ejerza. Así, el elemento determinante para configurar este hecho gravado especial, está dado por la existencia de muebles o instalaciones en el inmueble arrendado, y no por la destinación que el arrendatario pretenda darle a dicho inmueble.
+1°) Por &ldquo; venta &rdquo; , toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos los terrenos , de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.
 
-Por otra parte, el artículo 8°, letra i), del mismo cuerpo legal aludido, grava con Impuesto al Valor Agregado el estacionamiento de automóviles, y otros vehículos en playas de estacionamiento u otros lugares destinados al mismo fin.
+3°) Por &ldquo;vendedor&rdquo; cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Para efectos de la venta de inmuebles, se presumirá que existe habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo no se considerará habitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías hipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución judicial. La transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada habitual.
 
-En relación a la situación planteada, esto es, explotar los boxes de estacionamiento respecto de personas ajenas al edificio, es decir, al público en general, se configuraría el hecho gravado especial estipulado en la letra i), del artículo 8° del Decreto Ley N° 825 de 1974, sin que sea relevante que el inmueble se haya construido especialmente para estacionar automóviles o no. En ese sentido, queda claro que la finalidad de dicha norma fue gravar el estacionamiento, no siendo determinante para tal efecto el medio que se use para dicho fin, en cuanto éste se encuentre en los hechos destinados para ello, toda vez que la norma no es taxativa (abarcando &ldquo;otros lugares destinados al mismo fin&rdquo;). Por &ldquo;destinar&rdquo; cabe entender el acto de &ldquo;ordenar, señalar o determinar algo para algún fin o efecto&rdquo;[1], ya sea en forma permanente, ocasional o transitoria.
+Se considerará también &ldquo;vendedor&rdquo; al productor, fabricante o vendedor habitual de bienes corporales inmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos productivos&rdquo;.
 
-III.- CONCLUSIÓN
+Por otra parte, el artículo séptimo transitorio de la Ley N° 20.780, establece una exención a las ventas que se graven como consecuencia de las modificaciones que se efectúen al D.L. N° 825, de 1974, norma que fue complementada por la Ley N° 20.899, siendo su redacción definitiva la siguiente:
 
-El estacionamiento ofrecido directamente por el consultante al público en general, se encuentra gravado con IVA al tenor de lo dispuesto en la letra i), del artículo 8° del Decreto Ley N° 825, sin que sea relevante que el inmueble se haya construido especialmente para estacionar automóviles o no, en cuanto éste se encuentre en los hechos destinados para dicho fin.
+&ldquo;Artículo Séptimo Transitorio: Estarán exentas del impuesto al valor agregado las ventas de bienes corporales inmuebles que se graven como consecuencia de la modificación que se introduce en el artículo 2° del decreto ley N° 825, de 1974, a través de la letra a) del numeral 1 del artículo 2° de la presente ley, siempre que dichos bienes cuenten, al 1 de enero de 2016, con el permiso de edificación a que se refiere la Ley General de Urbanismo y Construcciones, y las ventas respectivas se efectúen dentro del plazo de un año contado desde la fecha a que se refiere el numeral 1 del artículo quinto transitorio. Estarán también exentas del impuesto al valor agregado, en el caso de bienes corporales inmuebles nuevos que cuenten con el permiso de construcción a la fecha señalada, la venta u otras transferencias de dominio, incluido el contrato de arriendo con opción de compra, que se graven como consecuencia de estas modificaciones siempre que respecto de tales bienes se haya ingresado, al 1 de enero de 2017, la solicitud de recepción definitiva de la obra ante la Dirección de Obras Municipales correspondiente conforme lo establece el artículo 144 de la ley General de Urbanismo y Construcciones&rdquo;.
+
+Ahora bien, como lo ha señalado este Servicio[1], con las modificaciones que la Ley N° 20.780 hace a los N° 1 y 3 del artículo 2° del Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, la aplicación del IVA a las ventas de inmuebles, que estaba restringida exclusivamente a las transferencias de inmuebles de propiedad de una empresa constructora construidos por ella, o en parte por un tercero para ella; a contar del 1° de enero del 2016, se amplía a todas las ventas de inmuebles, sean éstos nuevos o usados, en la medida que sean efectuadas por un vendedor habitual, entendiendo por este último a cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales inmuebles, sean ellos de su propia construcción o adquiridos de terceros, con la salvedad referida a las transferencias de terrenos.
+
+Sin perjuicio de lo señalado precedentemente, la primera parte del artículo séptimo transitorio de la ley N° 20.780, establece que se encontrarán exentas del impuesto al Valor Agregado, las ventas de inmuebles que cumplan ciertos requisitos, como es contar con el permiso de edificación a que se refiere la Ley General de Urbanismo y Construcción al 01 de enero de 2016 y que su venta se realice en el plazo de un año a contar de esa fecha.
+
+Luego, dando respuesta a la primera consulta del contribuyente, tratándose de inmuebles usados, éstos cumplen con el requisito de contar con el permiso de edificación a que se refiere la norma referida precedentemente, y en la medida que su venta se haga a más tardar 1° de enero de 2017, su enajenación se encontrará exenta de IVA.
+
+En cuanto a la segunda consulta, referida a la venta de inmuebles adquiridos en el año 2016 y vendidos en el mismo año, como consecuencia de modificación al N° 3 del artículo 2° de la ley, se incorporó una presunción de habitualidad cuando entre la adquisición o construcción de un bien raíz y su posterior venta, transcurre un plazo igual o inferior a un año, por lo que dicha venta se encontraría gravada con IVA; sin perjuicio de ello, es aplicable en este caso, la exención establecida en el artículo séptimo transitorio de la ley N° 20.780, al cumplirse los requisitos de contar con permiso de edificación al 1° de enero de 2016 y su venta efectuarse durante el año 2016.
+
+En relación a la tercera consulta, sobre cuál es la fecha que se debe considerar para fines del pago del impuesto (IVA) en el caso de inmuebles que se compren en remates judiciales, se debe considerar que la letra f), del artículo 9° del D.L. N° 825, de 1974, establece que en el caso de la venta de bienes corporales inmuebles, el impuesto se devenga en el momento de emitirse la o las facturas; por otra parte, el artículo 55° de la ley establece que en el caso de la venta de inmueble la factura debe emitirse al momento de suscribirse la escritura de compraventa por el precio total, incluyendo la sumas pagadas previamente que se imputen al mismo a cualquier título.
+
+De acuerdo a lo dispuesto en el artículo 495 del Código de Procedimiento Civil el acta de remate extendida en el registro del secretario del tribunal que intervenga en el remate hace las veces de escritura pública, por lo tanto al momento de ser ésta extendida, deberá emitirse la factura correspondiente, con lo cual se devenga el impuesto y nace la obligación de su pago.
+
+Finalmente, sobre la aplicación del Impuesto al Valor Agregado en la venta de un inmueble, respecto del cual en su adquisición se pagó el referido impuesto, si la venta respectiva es realizada por un vendedor habitual se encontrará gravada con IVA, y el impuesto soportado constituirá un crédito fiscal que podrá imputarse contra el débito que se genera en la venta, estando la base imponible determinada según lo establecido en el inciso 2° del artículo 17° del D.L. N° 825, de 1974.
+
+Distinta es la situación cuando en la adquisición del inmueble por un vendedor habitual de dichos bienes, no se soporta IVA, ya que en este caso, la posterior venta del inmueble, al ser efectuada por un vendedor habitual, también se encontrará gravada con el referido impuesto, pero para fines de la determinación de la base imponible, deben aplicarse las normas establecidas en la letra g) del artículo 16° de la ley.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 3311, de 16.12.2016
+Oficio N° 3312, de 16.12.2016
 
 Subdirección Normativa
 
 Dpto. de Impuestos Indirectos
 
-[1] Diccionario de la Real Academia Española (www.rae.es) voz &ldquo;destinar&rdquo;, primera acepción.
+[1] Oficio N° 1844, de 24 de junio de 2016.

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2014
-- Fecha: 2014-03-19
+- Fecha: 2014-03-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu15.pdf
 - Hash SHA-256: 63c3488c43d2695a3ff88b9e66b9cbe1fa55250e1fe2f7d5569ed42eb6325592
 
 ## Resumen
 
-span> Circular N° 16 del 19 de Marzo del 2014 Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que…
+oacute;n Normativa Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

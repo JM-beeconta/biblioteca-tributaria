@@ -6,244 +6,122 @@
 - Año: 2015
 - Fecha: 2015-02-26
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja727.doc
-- Hash SHA-256: 0fc0d311c65772d1f3ef3697dca59700933c4704837cdda46dca26caadf72f94
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja823.doc
+- Hash SHA-256: 97c686650648c237d04d9fe678e4e26aab29dfd07c810e98dd9c9d71a92070bc
 
 ## Resumen
 
-Solicita se aclare y complemente el . Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42°, N°1, Art. 54° bis &ndash; Circular N° 11, de 2015 &ndash; Oficio N° 718, de 2015. (Ord. Nº 727, de 11-03-2015) | Word Tratamiento tributario de la inversión en Cuentas de Ahorro Voluntario y en Depósitos de Ahorro Previsional Voluntario, Cotizaciones Voluntarias y Ahorro Previsional Voluntario Colectivo, que se hubieran acogido al artículo 57 bis o al nuevo artículo 54 bis, ambos de la Ley sobre Impuesto a la Renta…
+| Word Solicita se aclare y complemente el .
 
 ## Referencias detectadas
 
-- {"type":"circular","number":11,"year":2015}
-- {"type":"circular","number":62,"year":2014}
-- {"type":"oficio","number":718,"year":2015}
-- {"type":"articulo","law":"LIR","article":"57  bis"}
-- {"type":"articulo","law":"LIR","article":"54 bis"}
-- {"type":"articulo","law":"LIR","article":"57 bis"}
-- {"type":"articulo","law":"LIR","article":"42 bis"}
-- {"type":"articulo","law":"LIR","article":"42"}
-- {"type":"articulo","law":"LIR","article":"41 bis"}
+- {"type":"oficio","number":627,"year":2015}
+- {"type":"articulo","law":"LIR","article":"41 E"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42°, N°1, ART. 54° BIS –
-     CIRCULAR N° 11, DE 2015 – OFICIO N° 718, DE 2015. (ORD. N° 727, DE
-                                 11.03.2015)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° E – CÓDIGO DE COMERCIO,
+     ART. 239° – CÓDIGO CIVIL, ART. 1444°.  (ORD. N° 823, DE 24.04.2015)
 
 
 
-Tratamiento tributario de la inversión en Cuentas de Ahorro Voluntario y  en
-Depósitos de  Ahorro  Previsional  Voluntario,  Cotizaciones  Voluntarias  y
-Ahorro  Previsional  Voluntario  Colectivo,  que  se  hubieran  acogido   al
-artículo 57 bis o al nuevo  artículo 54 bis, ambos de la Ley sobre  Impuesto
-a la Renta, según corresponda.
+Solicita se aclare y complemente el Oficio N° 627, de fecha 26  de  febrero
+de 2015.
 
 
-I.- ANTECEDENTES.
-
-Señala que Ley N°20.780, incorporó a la LIR el nuevo artículo  54  bis,  que
-crea un régimen tributario aplicable a los  instrumentos  que  señala  dicha
-disposición, así como a los demás instrumentos que determine  el  Ministerio
-de Hacienda. Este organismo estableció[1] que  pueden  acogerse  al  régimen
-que contempla esa norma legal, entre otros, las inversiones  en  Cuentas  de
-Ahorro Voluntario establecidas en el artículo 21, del D.L. N°3.500 de  1980,
-sobre  Sistema  de  Pensiones;  y  en  Depósitos   de   Ahorro   Previsional
-Voluntario,  Cotizaciones  Voluntarias  y  Ahorro   Previsional   Voluntario
-Colectivo, regulados en los párrafos 2° y  3°,  del  Título  III  del  mismo
-Decreto Ley.
-
-Por otra parte, la citada Ley N° 20.780, derogó el artículo  57  bis  de  la
-LIR a  partir  del  1°  de  enero  2017,  disponiendo  que  las  inversiones
-efectuadas hasta el 31 de diciembre de 2014 se sujetarán al citado  artículo
-sin modificaciones,  regulando  además  un  régimen  diferenciado  para  las
-inversiones realizadas al amparo de esa norma legal, en los ejercicios  2015
-y 2016.
-
-Considerando  lo  anterior,  en   relación   a   los   ahorros   voluntarios
-administrados por las AFP, y que se puedan sujetar al artículo 54 bis  ó  57
-bis de la LIR, solicita un pronunciamiento sobre las siguientes materias:
-
-1) El inciso 3°, del artículo 54 bis de la LIR, dispone que el  monto  total
-destinado anualmente al ahorro en el conjunto de los  instrumentos  acogidos
-a  dicho  artículo,  no  podrá  exceder  del  equivalente  a  100   Unidades
-Tributarias Anuales (UTA); agregando su inciso 6° que  las  inversiones  que
-excedan de este límite se sujetarán a las normas generales  de  la  LIR.  Al
-respecto,  indica  que  se  requiere  aclarar  el   tratamiento   tributario
-aplicable a tales excesos,  cuando  se  produzcan  respecto  de  inversiones
-efectuadas en instrumentos de ahorro voluntario del Sistema de Pensiones.
-
-2)  Respecto de las inversiones realizadas los ejercicios 2015  y  2016  que
-se sujeten al artículo 57 bis de la LIR, la Ley N°20.780  establece  que  en
-la determinación del ahorro neto del año, los giros o retiros efectuados  se
-considerarán sólo por el monto del capital girado o retirado, excluyendo  la
-rentabilidad asociada a ese  capital;  no  contemplándose  el  mecanismo  de
-reajustabilidad para determinar ese capital en cada retiro.
-
-II.- ANÁLISIS.
-
-1.- Ahorro Voluntario administrado por las AFP, acogidos al artículo 54  bis
-de la LIR[2].
-
-El tratamiento tributario del “Ahorro Previsional” en  Depósitos  de  Ahorro
-Previsional  Voluntario,  Cotizaciones  Voluntarias  y  Ahorro   Previsional
-Voluntario Colectivo que se puede efectuar en una AFP  está  establecido  en
-el artículo 42 bis de la LIR, en  concordancia  con  lo  dispuesto  por  los
-artículos 20 y siguientes del Decreto Ley N°3.500 de 1980[3]. Por su  parte,
-el tratamiento tributario de  las  Cuentas  de  Ahorro  Voluntario  que  los
-trabajadores  mantienen  abiertas  en  las  AFP,  está  establecido  en  los
-artículos 21 y 22 del D.L. N°3.500 de 1980, en relación al  inciso  2°,  del
-N° 1, del artículo 42 de la LIR, las que han sido comentadas  en  anteriores
-pronunciamientos[4].
-
-De los términos de la presentación, este Servicio entiende que  se  consulta
-sobre la situación tributaria de las inversiones efectuadas en Depósitos  de
-Ahorro   Previsional   Voluntario,   Cotizaciones   Voluntarias   y   Ahorro
-Previsional Voluntario Colectivo y de  las  efectuadas  en  las  Cuentas  de
-Ahorro Voluntario, que administran las AFP,  que  se  hubieran  sujetado  al
-régimen tributario previsto en el artículo 54 bis de  la  LIR,  respecto  de
-los montos ahorrados o depositados que excedan de la suma equivalente a  las
-100 UTA, y que por lo  tanto,  conforme  a  esta  última  norma  legal,  los
-rendimientos asociados queden excluidos de la misma disposición.
-
-Al respecto, cabe señalar que la Ley N° 20.780, incorporó a  contar  del  1°
-de octubre de 2014, un nuevo artículo 54 bis a la LIR, el que  establece  un
-incentivo tributario al ahorro  e  inversión  en  determinados  instrumentos
-financieros, en tanto se cumplan  los  requisitos  establecidos  al  efecto.
-Este beneficio tributario consiste en que los rendimientos  provenientes  de
-los instrumentos en que se haya invertido, acogidos a las disposiciones  del
-artículo 54 bis de la LIR, no se considerarán  percibidos  para  efectos  de
-aplicar el Impuesto Global Complementario (IGC),  en  la  medida  que  tales
-rendimientos  no  sean  retirados  por  el  contribuyente  y  se   mantengan
-ahorrados en dichos instrumentos  o  en  otros  del  mismo  tipo.  Según  lo
-expresa en su presentación, el Ministerio de Hacienda estableció que  pueden
-acogerse al régimen  que  contempla  esta  norma  legal,  entre  otros,  las
-inversiones en Cuentas de Ahorro Voluntario establecidas en el  artículo  21
-del Decreto Ley N° 3.500, y en Depósitos de Ahorro  Previsional  Voluntario,
-Cotizaciones  Voluntarias  y   Ahorro   Previsional   Voluntario   Colectivo
-regulados por el mismo Decreto Ley.
-
-El inciso 6°, del citado artículo 54 bis,  establece  que  en  caso  que  el
-total de las inversiones  efectuadas  durante  un  año  exceda  de  la  suma
-equivalente a las 100 UTA, las inversiones a partir de las  cuales  se  haya
-producido dicho exceso, quedarán excluidas del beneficio establecido en  tal
-norma, y por lo tanto,  el  contribuyente  deberá  declarar  los  intereses,
-dividendos y demás rendimientos percibidos que obtenga de estas  inversiones
-de acuerdo con las reglas generales.
-
-Por lo tanto, se puede  concluir  que  los  intereses,  dividendos  y  demás
-rendimientos  percibidos  que  obtenga  de  las  inversiones  efectuadas  en
-Cuentas  de  Ahorro  Voluntario  y  en  Depósitos  de   Ahorro   Previsional
-Voluntario,  Cotizaciones  Voluntarias  y  Ahorro   Previsional   Voluntario
-Colectivo, en aquella parte que excedan  del  límite  de  100  UTA,  deberán
-sujetarse al tratamiento tributario general  aplicable  a  los  rendimientos
-provenientes de dichos ahorros e inversiones, regulado en el inciso 2°,  del
-N° 1, del artículo 42 de la LIR, y en el artículo 42 bis de  la  misma  Ley,
-respectivamente.
-
-2.- Reajuste del capital invertido los años  2015  y  2016,  en  Cuentas  de
-Ahorro Voluntario acogidas al artículo 57 bis de la LIR.
-
-En cuanto a la consulta signada con el  N°  2)  de  los  antecedentes,  cabe
-señalar en primer término, que el artículo 22 del D.L. N°3.500, dispone  que
-los afiliados del Sistema de Pensiones podrán acogerse,  por  cada  depósito
-de ahorro voluntario que efectúen, a las normas  que  se  establecen  en  la
-letra A.- del artículo 57 bis de la LIR, con excepción de  los  retiros  que
-se  destinen  a  incrementar  el  saldo  de  la  cuenta  de   capitalización
-individual y a los fines indicados en el inciso 5° del artículo 21.
-
-|Tal como lo indica en su presentación, la Ley N°20.780, modificó el  |                                                                      |
-|régimen de la franquicia tributaria del artículo 57 bis de la LIR,   |                                                                      |
-|respecto de las inversiones que se acojan a esa norma contar del 1°  |                                                                      |
-|de enero de 2015 y hasta el 31 de diciembre de 2016[5]; regulando    |                                                                      |
-|asimismo el tratamiento tributario del saldo de ahorro neto por las  |                                                                      |
-|inversiones que se hayan efectuado hasta el 31 de diciembre de 2016 y|                                                                      |
-|que se hayan acogido a esa norma legal. El referido artículo 57 bis, |                                                                      |
-|es derogado conforme lo establece la misma Ley, a partir del 1° de   |                                                                      |
-|enero de 2017[6].                                                    |                                                                      |
+I.-   ANTECEDENTES.
+En el Oficio  N°627,  de  26  de  febrero  de  2015  de  este  Servicio,  se
+respondieron varias consultas de XXXX (agencia).
+En el N° 2, de la Sección II, "Análisis", se indicó que XXXX (agencia),  por
+el hecho de gestionar y coordinar  en  nuestro  país  algunos  servicios  en
+favor de su matriz extranjera TTT, actúa como mandataria de esta  última  en
+el marco de una comisión o mandato comercial, señalando en particular  sobre
+este punto:
+"Se hace presente que se vislumbra en esta operación, según lo descrito  por
+el consultante, la existencia de una comisión  mercantil  efectuada  por  la
+agencia en Chile,  toda  vez  que  ella  gestiona  y  coordina  el  servicio
+prestado por la matriz en Alemania. Según lo prescrito por el  artículo  239
+del  Código  de  Comercio,  la  comisión  mercantil  es  por  su  naturaleza
+asalariada, de manera que la agencia debe reconocer  un  ingreso  tributable
+en Chile conforme las reglas generales por dicha comisión".
+Al respecto, el consultante indica que comparte la opinión del Servicio  en
+cuanto a la existencia de un mandato, en el que la agencia en  Chile  actúa
+como mandataria de su matriz en el exterior. Pero señala que a  su  juicio,
+no tendría  la  obligación  o  deber  de  reconocer  en  Chile  un  ingreso
+tributable por la prestación de sus servicios, ya que, siguiendo  el  tenor
+del artículo 239 del Código de Comercio, entiende que la onerosidad  no  es
+un elemento de la esencia del contrato  de  comisión,  atendido  que  dicha
+disposición legal es del siguiente tenor: “La comisión es por su naturaleza
+asalariada".
 
 
-Ahora bien, respecto de las inversiones acogidas al artículo 57  bis  de  la
-LIR, efectuadas entre el 1° de enero de 2015 y el 31 de diciembre  de  2016,
-la Ley N°20.780 establece que los contribuyentes  deberán  aplicar  todo  lo
-dispuesto en el citado  artículo,  con  las  excepciones  que  establece[7].
-Entre dichas excepciones, se dispone  que  para  efectos  de  determinar  el
-ahorro neto del ejercicio  comercial  respectivo,  sólo  se  considerará  la
-parte del giro o retiro que corresponda al capital originalmente  invertido,
-excluyendo la ganancia de capital o rentabilidad  percibida  al  momento  de
-cada giro o retiro, la que se gravará  con  el  IGC,  de  conformidad  a  lo
-dispuesto en los artículos 52 y siguientes de la LIR.
+Concluye señalando que XXXX no cobra ni percibe remuneración alguna por los
+servicios que presta  a  su  matriz  en  Alemania,  y  solicita  aclarar  y
+complementar el Oficio N°627 de 2015, en cuanto a si  de  todas  formas  la
+agencia en Chile debería reconocer  un  ingreso  tributable  en  Chile,  no
+obstante la existencia de una comisión o mandato comercial no remunerado.
 
-En cuanto al punto específico planteado en su consulta, esto  es,  la  forma
-de  reajustar  el  capital  por  inversiones  efectuadas  durante  los  años
-comerciales 2015 y 2016 en una Cuenta de Ahorro Voluntario que  se  hubieran
-acogido al artículo 57 bis de la LIR, cabe señalar que  dicha  circunstancia
-ya fue resuelta por este Servicio mediante la Circular N°11 de 2015, la  que
-dispone que respecto de instrumentos o valores  cuyas  rentas  consistan  en
-intereses u otros  rendimientos  de  similar  naturaleza,  para  efectos  de
-determinar el monto del capital y la  rentabilidad  u  otras  ganancias  que
-forman parte de los giros o retiros de los fondos invertidos entre el 1°  de
-enero de 2015 y el 31 de diciembre de 2016 en  los  instrumentos  o  valores
-acogidos al artículo 57 bis de la  LIR,  se  aplicará  lo  dispuesto  en  el
-artículo 41 bis de la LIR. De esta forma, para determinar la parte del  giro
-que constituye pago del capital, éste se reajustará por la variación  de  la
-Unidad  de  Fomento  (UF)  experimentada  en  el  plazo  que  comprende   la
-operación, vale decir entre el momento de la inversión y la del rescate.
 
-III.- CONCLUSIONES.
+II.-  ANÁLISIS.
 
-En  relación  a  la  primera  consulta,  cabe  señalar  que  los  intereses,
-dividendos y demás rendimientos percibidos que obtenga  de  las  inversiones
-efectuadas en  Cuentas  de  Ahorro  Voluntario  y  en  Depósitos  de  Ahorro
-Previsional  Voluntario,  Cotizaciones  Voluntarias  y  Ahorro   Previsional
-Voluntario Colectivo, en aquella parte que excedan del límite  de  100  UTA,
-deberán  sujetarse  al  tratamiento  tributario  general  aplicable  a   los
-rendimientos provenientes de dichos ahorros e inversiones,  regulado  en  el
-inciso 2°, del N° 1, del artículo 42 de la LIR, y en el artículo 42  bis  de
-la misma Ley, respectivamente.
+En efecto, tal como lo señala el consultante, el artículo 239 del Código de
+Comercio, prescribe que la remuneración es un elemento de la naturaleza del
+mandato comercial.
+Por su parte, de acuerdo a lo dispuesto por el artículo  1.444  del  Código
+Civil, un elemento es de la naturaleza de  un  contrato  cuando  no  siendo
+esencial a  ese  contrato,  se  entiende  pertenecerle,  sin  necesidad  de
+cláusula especial.
 
-En cuanto a la segunda consulta, para efectos de determinar el saldo de
-ahorro neto del ejercicio, por inversiones acogidas al artículo 57 bis de
-la LIR efectuadas durante los años comerciales 2015 y 2016, sólo se deberá
-considerar la parte del giro o retiro del capital correspondiente,
-debidamente reajustado en la forma establecida en el artículo 41 bis de la
-LIR. Esto significa que dicho capital se reajustará por la variación de la
-UF experimentada en el plazo que comprende la operación, vale decir entre
-el momento de la inversión y la del rescate, debiendo para estos efectos
-darse aplicación a las instrucciones que al respecto se contienen en la
-Circular N° 11 de 2015 de este Servicio.
+De este modo, según las normas citadas, la  remuneración  es  inherente  al
+mandato comercial, es decir, se presume su existencia, pero las partes,  en
+uso de la autonomía de la voluntad, pueden pactar que no  se  devengue  tal
+remuneración. No  existiendo  remuneración,  no  corresponde  reconocer  un
+ingreso tributable en los términos señalados.
+
+En todo caso, corresponderá al  contribuyente  probar  por  los  medios  de
+prueba legal, en la instancia de fiscalización pertinente, la existencia de
+un acuerdo de exclusión de la remuneración en este mandato.
+
+Todo lo anterior, sin perjuicio de la facultad con que cuenta este Servicio
+de aplicar lo dispuesto en el artículo 41 E de la  LIR,  sobre  precios  de
+transferencia, esto es, de impugnar los precios, valores  o  rentabilidades
+fijados, o establecerlos en caso de no haberse fijado  alguno,  cuando  las
+operaciones transfronterizas que contribuyentes domiciliados, o  residentes
+o establecidos en Chile, lleven  a  cabo  con  partes  relacionadas  en  el
+extranjero y no se hayan efectuado  a  precios,  valores  o  rentabilidades
+normales de mercado.
+
+
+III.- CONCLUSIÓN.
+
+En principio, no debe reconocerse un ingreso tributable en caso de  haberse
+pactado por las partes que el mandato  comercial  no  será  remunerado.  Lo
+anterior, es sin perjuicio de  las  facultades  de  fiscalización  con  que
+cuenta este Servicio, como ejemplo, aquella dispuesta en el artículo  41  E
+de la LIR, de establecer los  precios  o  valores  correspondientes  a  las
+remuneraciones tratándose de operaciones transfronterizas realizadas  entre
+una agencia y su casa matriz en el  exterior,  cuando  éstas  no  se  hayan
+efectuado a precios, valores o rentabilidades normales de mercado.
 
 
 
 
 
 
-                           MICHEL JORRATT DE LUIS
-                              DIRECTOR (T Y P)
+
+
+
+
+                                       MICHEL JORRATT DE LUIS
+
+                                                           DIRECTOR (T y P)
 
 
 
 
 
-                        Oficio N° 727, de 11.03.2015
+
+                        Oficio N° 823, de 24.03.2015
+
                            Subdirección Normativa
                          Dpto. de Impuestos Directos
-                           -----------------------
-[1] Mediante el Decreto Supremo N° 1.539, publicado en el Diario Oficial  el
-24 de diciembre de 2014.
-[2] Mediante  la  Circular  N°  62  de  2014,  este  Servicio  impartió  las
-instrucciones relativas a esta norma legal.
-
-[3] Las instrucciones de este Servicio sobre  la  materia,  fueron  dictadas
-mediante Circulares N° 51 de 2008 y N° 8 de 2012.
-
-[4] Así por ejemplo, Oficios N°s 1267 de 2010; 1588 de 2011 y 718  de  2015,
-todos de este Servicio.
-[5] De acuerdo al numeral VI), del artículo  tercero  de  las  disposiciones
-transitorias de la Ley N° 20.780.
-
-[6] Las instrucciones de carácter tributario sobre  las  materias  señaladas
-fueron impartidas por este Servicio mediante la Circular N° 11 de 2015.
-
-[7] Conforme lo dispuesto en  el  N°  2),  del  numeral  VI),  del  artículo
-tercero de las disposiciones transitorias de la Ley N° 20.780.

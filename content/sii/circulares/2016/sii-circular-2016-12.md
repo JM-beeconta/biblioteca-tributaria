@@ -11,7 +11,7 @@
 
 ## Resumen
 
-zo del 2016 Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, en lo que dice relación con el D.L. N° 825 sobre Impuesto a las Ventas y Servicios, Ley 20.780 y Art. 21°, del D.L. N° 910, sobre crédito especial de empresas constructoras. Fuente: Impuestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas abril 2016 Fuente: Subdirección de Fiscalización Circular N° 11…
+puestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas abril 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

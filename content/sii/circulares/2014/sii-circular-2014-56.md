@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2014
-- Fecha: 2014-11-12
+- Fecha: 2014-10-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu56.pdf
 - Hash SHA-256: 8bb424ec684a0b1e8b4c1f8202b11b3a3579e2ed7129228a9ae40322094ee6f6
 
 ## Resumen
 
-uente: Oficina de Gestión Normativa Circular N° 57 del 12 de Noviembre del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2014 y el 9 de diciembre del año 2014. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de reajustes, Intereses y Multas noviembre 2014. Fuente: Subdirección de Fiscalización Circular N° 55 del 16 de Octubre del 2014 Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.780, de 29 de septiembre de 2014, sobre refor…
+oacute;n Normativa Tabla de Cálculos de reajustes, Intereses y Multas noviembre 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

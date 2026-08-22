@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 78
 - Año: 2015
-- Fecha: 2015-09-29
+- Fecha: 2015-09-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu78.pdf
 - Hash SHA-256: 11a0081434d61284c708d70601b801744d479a51de63effe0d9a5956b2f4a3a9
 
 ## Resumen
 
-regado. Fuente: Impuestos Indirectos Circular N° 79 del 29 de Septiembre del 2015 Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2015. Fuente: Subdirección de Fiscalización Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 16…
+scalización Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 16 de septiembre de 2015. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

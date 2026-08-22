@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 62
 - Año: 2014
-- Fecha: 2014-12-12
+- Fecha: 2014-12-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu62.pdf
 - Hash SHA-256: 4e7807d1d82b67147e5bf7e2bd1e375dfebb34e5f3791cf7c26038a0047add02
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 63 del 12 de Diciembre del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2014 y el 9 de enero del año 2015. Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. Fuente: Depto. de Impuestos Directos Circular N° 61 del 01 de Diciembre del 2014 Modificación introduc…
+oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. Fuente: Depto. de Impuestos Directos
 
 ## Referencias detectadas
 

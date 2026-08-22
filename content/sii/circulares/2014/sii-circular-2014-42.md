@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2014
-- Fecha: 2014-08-14
+- Fecha: 2014-07-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu42.pdf
 - Hash SHA-256: aaeb33b41318ec6ff307aa88bcd16e4e4acbd8c40f20d05fcd48a019c27b1e2d
 
 ## Resumen
 
-Circular N° 43 del 14 de Agosto del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2014 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas agosto 2014 Fuente: Subdirección de Fiscalización Circular N° 41 del 21 de Julio del 2014 Complementa Circular N° 20, de 2014, respecto de la rebaja del impuesto territorial correspondiente a propiedades de adu…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas agosto 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2013 Imparte instrucciones sobre cumplimiento de obligaciones de Inscripción en el Rol Único Tributario, dar Aviso de Inicio de Actividades y Aviso de Modificaciones, a partir de la vigencia de la Ley N° 20.659, de 2013, que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Tratamiento tributario de garantías y gastos incurridos en cumplimiento de planes de cierre de faenas e instalaciones mineras para lo…
+de Contribuyentes. Tratamiento tributario de garantías y gastos incurridos en cumplimiento de planes de cierre de faenas e instalaciones mineras para los efectos de los impuestos a la renta y a las ventas y servicios Fuente: Impuestos Directos.
 
 ## Referencias detectadas
 

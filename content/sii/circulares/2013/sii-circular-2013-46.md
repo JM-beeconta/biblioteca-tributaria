@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 46
 - Año: 2013
-- Fecha: 2013-09-26
+- Fecha: 2013-09-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu46.pdf
 - Hash SHA-256: 6cfb32829f7b5402b4480d022eb57a9f711cf93674eefa9fedd19e7a0a9439b5
 
 ## Resumen
 
-onal relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 47 del 26 de Septiembre del 2013 Instruye publicación de actividades de las autoridades que indica Fuente: Subdirección Jurídica Tabla de Calculos de Reajustes, Intereses y Multas Octubre 2013 Fuente: Subdireccion de Fiscalizacion Circular N° 45 del 23 de Septiembre del 2013 Instruye sobre la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, con motivo de la sustitución de dicho artículo por la Ley N…
+;n Jurídica Tabla de Calculos de Reajustes, Intereses y Multas Octubre 2013 Fuente: Subdireccion de Fiscalizacion
 
 ## Referencias detectadas
 

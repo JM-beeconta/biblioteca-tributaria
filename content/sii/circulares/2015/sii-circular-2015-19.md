@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2015
-- Fecha: 2015-03-20
+- Fecha: 2015-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu19.pdf
 - Hash SHA-256: 75d2edc9b4db0cbf8afb2e5b26fd615af72b90c47625a49ef7c0cb6eadb817b9
 
 ## Resumen
 
-om:0px;'> Circular N° 20 del 20 de Marzo del 2015 Noma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Departamento de Catastro y Tasaciones Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2015 y el 9 de abril del año 2015. Fuente: Oficina de Gestión Normativa. Circular N° 18 del 09 de Marzo del 2015 Tablas del i…
+astro y Tasaciones Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2015 y el 9 de abril del año 2015. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

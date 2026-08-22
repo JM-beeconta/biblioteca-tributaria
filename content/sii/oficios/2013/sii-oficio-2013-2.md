@@ -6,39 +6,39 @@
 - Año: 2013
 - Fecha: 2013-06-14
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1305.htm
-- Hash SHA-256: e56029e76867b73ee31fa0f53bffbad520adb5e16b48245cd594254293712f37
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1306.htm
+- Hash SHA-256: 5adda7c1e1de4e9eadafa0b65bd52f8dedf05f29615fee167c59ff0f2142ef25
 
 ## Resumen
 
-Ley sobre Impuesto a la &ndash; Ley N° 20.241, Art. 5° &ndash; .883, de 2008 (Ord. Nº 1306, de 14-06-2013) | Word No procede la aplicación de los beneficios tributarios establecidos en la Ley N° 20.241, a empresas públicas. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17°, N°18, Art. 42°, N°2. (Ord. Nº 1305, de 14-06-2013) | Word Asignación por beca de doctorado, no constituye una renta gravada en el artículo 42 N° 2 de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &nd…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.241, Art. 5° &ndash; .883, de 2008 (Ord. Nº 1306, de 14-06-2013) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"42 N"}
-- {"type":"articulo","law":"LIR","article":"42"}
-- {"type":"articulo","law":"LIR","article":"17 N"}
-- {"type":"articulo","law":"LIR","article":"17"}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°18, ART. 42°, N°2. (ORD. N° 1305, DE 14.06.2013)
-ASIGNACIÓN POR BECA DE DOCTORADO, NO CONSTITUYE UNA RENTA GRAVADA EN EL ARTÍCULO 42 N° 2 DE LA LEY SOBRE IMPUESTO A LA RENTA.
-Se ha solicitado un pronunciamiento a este Servicio, respecto de la calificación para efectos tributarios de una asignación percibida por un becario de XXX
-I.- ANTECEDENTES.
-Señala que la Superintendencia de Pensiones recibió una consulta de un beneficiario de una beca de doctorado XXX, solicitando se le aclare si debe destinar algún monto de su beca al pago de cotizaciones previsionales.
-En mérito a ello, solicita a este Servicio que informe, con el fin de responder al interesado, si dicha asignación de beca por doctorado constituye una renta gravada en el N° 2 del artículo 42 de la Ley sobre Impuesto a la Renta, lo que determina la obligatoriedad de cotizar de los trabajadores independientes.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.241, ART. 5° – OFICIO N° 2.883, DE 2008 (ORD. N° 1306, DE 14.06.2013)
+NO PROCEDE LA APLICACIÓN DE LOS BENEFICIOS TRIBUTARIOS ESTABLECIDOS EN LA LEY N° 20.241, A EMPRESAS PÚBLICAS.
+I.- ANTECEDENTES. Indica que la XXXX, durante sus labores de difusión de la Ley N° 20.241, ha recibido diversas consultas acerca de si es procedente que las empresas públicas creadas por Ley, o las sociedades del Estado, pueden hacer uso de los beneficios tributarios a la inversión en Investigación y Desarrollo que contempla el citado texto legal. Lo anterior, en atención a que la Ley N° 20.570, de 2012, que perfecciona ciertos aspectos de los incentivos tributarios establecidos para las inversiones en Investigación y Desarrollo, suprimió en la denominación de aquélla, la expresión “privada”.
+Señala al respecto, que este Servicio en Oficio N° 2.883, de 2008, expresó que las empresas del Estado carecen del carácter de privadas que requiere la Ley N° 20.241 para otorgar el incentivo tributario que contempla.
+Agrega que para la determinación de la aplicabilidad del beneficio tributario, se debe distinguir las empresas del Estado, por una parte, que son aquellas creadas por Ley, y por otro lado, las sociedades del Estado, que no nacen directamente de la Ley, sino que son creadas por un órgano del Estado autorizado por Ley de Quórum Calificado, bajo la fórmula de sociedades privadas, cuyo régimen jurídico es de derecho privado determinado en una escritura social y cuyo capital o la mayor parte de él pertenece al Estado o sus instituciones.
 
-II- ANÁLISIS.
-En primer lugar, cabe señalar que no se acompañó a su presentación, las bases o el convenio donde se estipulen los derechos y beneficios que se otorgan al becario en función de la beca señalada. No obstante lo anterior, el artículo 17 N° 18, de la Ley sobre Impuesto a la Renta, dispone que no constituyen renta “las cantidades percibidas o los gastos pagados con motivo de becas de estudio”, lo cual significa que ellas no se encuentran gravadas con los impuestos establecidos en dicha ley.
-Por tal razón, las becas de estudio no se comprenden como rentas gravadas con impuesto en el N° 2, del artículo 42 de la Ley sobre Impuesto a la Renta.
+II.- ANÁLISIS.
+Este Servicio indicó mediante Oficio N° 2.883, de 2008, que la Ley N° 20.241 contempla un incentivo tributario a la inversión privada en Investigación y Desarrollo, al establecer como objetivo del proyecto aumentar la inversión por parte de dichas empresas en ambas áreas mencionadas; por lo cual, se concluyó, que las empresas del Estado al no tener el carácter de privadas que requiere la Ley para otorgar el incentivo tributario que establece, se encuentran inhabilitadas de invocar el crédito que contiene conforme a su texto legal.
+Ahora bien, la Ley N° 20.570 de 2012 , introdujo una serie de modificaciones y adecuaciones a la citada Ley N° 20.241, con el objeto de perfeccionar los incentivos tributarios que establece a favor de la inversión en Investigación y Desarrollo. Entre otras reformas, tal como la que indica en su consulta, dicha Ley modificó la denominación de la Ley N° 20.241 contenida en su encabezado, suprimiendo de ella la expresión “privada”.
+Al respecto, y en relación a su consulta, este Servicio estima que la finalidad u objetivo de la Ley N° 20.241, plasmada en la historia fidedigna de su establecimiento, cual fue crear una franquicia tributaria en favor de la inversión privada en Investigación y Desarrollo, no puede ser objeto de modificaciones, salvo que así haya sido contemplado expresamente; lo que en la especie no ha ocurrido, ya que, como se indicó previamente, las modificaciones y adecuaciones contenidas en la Ley N° 20.570, sólo tuvieron por objeto perfeccionar el régimen tributario que contempla dicha norma legal. En efecto, en las actas que contienen la historia fidedigna del establecimiento de esta Ley, y específicamente en el Mensaje del Ejecutivo que dio inicio a su tramitación, se expresa que el proyecto tiene por objeto modificar la Ley N° 20.241, el que contempla un “Incentivo Tributario a la Inversión Privada en Investigación y Desarrollo, perfeccionando ciertos aspectos de los incentivos tributarios establecidos para las inversiones en Investigación y Desarrollo que las empresas realicen a través de Centros de Investigación, otorgando nuevos beneficios tributarios a las inversiones de este tipo que hagan las empresas con sus capacidades internas.” A mayor abundamiento, en dichas actas se indica expresamente que el propósito de la iniciativa legal consiste en perfeccionar los incentivos tributarios establecidos por la Ley N° 20.241 para la inversión privada en Investigación y Desarrollo .
+Por consiguiente, al no existir antecedentes en las actas de la Ley N° 20.570 que permitan sostener que la exclusión del término “privada” en la denominación de la norma, tuvo por objeto hacer extensivo los beneficios que contempla, a las empresas de carácter público, lo cual sólo podría haberse efectuado a través de una referencia expresa, y en atención a que la Ley N° 20.570 sólo tuvo por objeto perfeccionar ciertos aspectos tributarios de la Ley N° 20.241, a juicio de este Servicio, la exclusión del término “privada” del encabezado de la Ley N° 20.241, no altera su carácter y sentido, plasmado en la historia fidedigna de su establecimiento, cual fue, otorgar un incentivo tributario a la inversión de las empresas del sector privado, en Investigación y Desarrollo. Por lo anterior, se considera que se encuentra plenamente vigente el criterio contenido en el Oficio N° 2.883, en el sentido que las empresas del Estado se encuentran inhabilitadas de hacer uso de los beneficios tributarios previstos en la Ley N° 20.241, según el texto modificado por la Ley N° 20.570.
+A juicio de este Servicio, la limitación referida también se aplica a las sociedades del Estado, ya que teniendo en consideración lo expresado por la Contraloría General de la República en dictamen que cita en su consulta, así como otros pronunciamientos del órgano contralor , dichas sociedades son organismos del Estado, a través de los cuales éste asume funciones empresariales y, por lo tanto, para los efectos tributarios en comento, no cumplen con el requisito de tratarse de empresas del sector privado, para poder hacer uso de la franquicia tributaria que establece la citada Ley N° 20.241.
+Lo anterior, se ve confirmado por la inclusión de dos normas en la Ley N° 20.241, una en el inciso final del artículo 5°, en relación a los contratos de investigación y desarrollo, y otra en el artículo 21, en relación con los proyectos de investigación y desarrollo, las cuales disponen que no procederán los beneficios que la Ley establece, sobre aquella parte de la inversión que sea financiada con recursos públicos.
 
 III.- CONCLUSIÓN.
-La asignación pagada por concepto de beca estudio, corresponde a un ingreso no constitutivo de renta conforme a lo dispuesto en el N° 18, del artículo 17 de la Ley sobre Impuesto a la Renta, y por tanto, no se comprende como una renta del artículo 42 N° 2 de la misma ley que deba gravarse con impuesto.
+Las empresas y sociedades del Estado, al carecer éstas del carácter de privadas que requiere la Ley N° 20.241 para otorgar los beneficios tributarios que establece, no se encuentran autorizadas para invocar la franquicia tributaria, conforme a su texto legal en vigor.
 
 JULIO PEREIRA GANDARILLAS
 DIRECTOR
 
-Oficio N°1305, de 14.06.2013
+Oficio N° 1306, de 14.06.2013
 Subdirección Normativa
-Dpto., de Impuestos Directos
+Dpto. de Impuestos Directos

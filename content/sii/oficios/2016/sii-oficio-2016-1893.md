@@ -6,224 +6,48 @@
 - Año: 2016
 - Fecha: 2016-04-04
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja846.doc
-- Hash SHA-256: 0174a06786c898685d302a059167a8cadfef2399b941b98b6bf8ea065efc46ee
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja847.htm
+- Hash SHA-256: 86a3aaadc6e93ff515ef28814f00790a9163e184da9b06e3ab86155406a9d0e8
 
 ## Resumen
 
-, Art. 13 &ndash; . (Ord. Nº 847, de 04-04-2016) | Word Solicitud de devolución de Impuesto Único de Segunda Categoría pagado en exceso. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art 31 &ndash; Circulares N° 41 y 60, de 1999 &ndash; Oficio N° 1305, de 2013. (Ord. Nº 846, de 04-04-2016) | Word Situación tributaria de una beca de estudio otorgada a un trabajador para la realización de un Master en Administración de Negocios, en relación con la empresa que la paga. Renta &ndash; Actual Ley sobre Impuesto a…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Tributario, Art. 126 &ndash; Decreto Ley N° 889, de 1975, Art. 13 &ndash; . (Ord. Nº 847, de 04-04-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":41,"year":1999}
-- {"type":"oficio","number":1305,"year":2013}
+- {"type":"oficio","number":1893,"year":1998}
+- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"articulo","law":"CT","article":"8 Bis N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART 31 – CIRCULARES N° 41 Y 60, DE
-        1999 – OFICIO N° 1305, DE 2013. (ORD. N° 846, DE 04.04.2016)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO TRIBUTARIO, ART. 126 – DECRETO LEY N° 889, DE 1975, ART. 13 – OFICIO N° 1893, DE 1998. (ORD. N° 847, DE 04.04.2016)
+SOLICITUD DE DEVOLUCIÓN DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PAGADO EN EXCESO.
+Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre la titularidad para solicitar la devolución de Impuesto Único de Segunda Categoría pagado en exceso. I ANTECEDENTES
+Mediante el Ordinario del antecedente, esa Dirección Regional traslada la presentación efectuada a través del Formulario 2117 por XXXX, en la cual expone que se ha desempeñado como funcionario de la Corporación de Fomento de la Producción (CORFO), de la Región de xxxx desde el año 2009 a la fecha y solicita la devolución del Impuesto Único de Segunda Categoría descontado y pagado en exceso en virtud de un error de su empleador al no haber realizado la rebaja por Zona Extrema, de acuerdo a lo dispuesto por el artículo 13 del Decreto Ley N° 889 de 1975 .
+Al respecto, el Director Regional señala que existiría una posible contradicción de criterios o procedimientos en cuanto a quién posee la titularidad para solicitar la devolución de Impuesto de Segunda Categoría pagado erróneamente por el agente retenedor.
+Por un lado se encontraría el Reservado N° 111 de 1997, que estableció el procedimiento para la verificación de solicitudes de devoluciones de impuesto, el que expresamente indica que “es procedente que el deudor directo del Impuesto Único a la Renta de Segunda Categoría (persona a quien se le retuvo el impuesto), solicite la devolución de impuestos ingresados indebidamente o en exceso, por sus retenedores, debiendo en tales casos las Direcciones Regionales disponer la devolución administrativa del Impuesto citado, que se habría descontado indebidamente al peticionario, previa comprobación de la causal que invoca y demás requisitos pertinentes y siempre que la petición haya sido presentada dentro de plazo.” El punto N° 4 agrega que, “con todo, será el retenedor o pagador de la renta quien deberá solicitar la devolución de Impuesto Único de Segunda Categoría ingresado en arcas fiscales, en forma errónea, excesiva o indebida, en aquellos casos en que el pago en exceso por Impuesto Único de Segunda Categoría no ha significado una disminución de la remuneración líquida del trabajador o pensionado, o simplemente se haya aplicado dicho tributo a cantidades que en definitiva no percibirá el trabajador pensionado.”
+Por el otro lado, señala que el Servicio, mediante Oficio N° 1893 de 1998, sostuvo un criterio distinto, resolviendo que resulta improcedente que el contribuyente, por la vía de la rectificación de su Declaración Anual de Impuesto a la Renta, pretenda obtener el exceso de Impuesto Único retenido por el empleador, señalando expresamente que ante tal situación, es el pagador de la renta quien debe solicitar dicha devolución a nombre del trabajador, a través de una petición administrativa, sujeta a la normativa y plazo dispuesto por el artículo 126 del Código Tributario.
+Ahora bien, en opinión de la Dirección Regional consultante, y según los antecedentes allegados por el contribuyente, es el trabajador quien se encontraría habilitado para solicitar la devolución de los impuestos enterados en exceso, considerando que es éste el principal afectado por el error cometido por su empleador, teniendo además a la vista lo dispuesto en el artículo 8 Bis N° 2 del Código Tributario, que establece el derecho del contribuyente de obtener en forma completa y oportuna las devoluciones previstas en las leyes tributarias.
+Conforme a lo anterior, solicita un pronunciamiento formal que despeje las dudas sobre la situación planteada.
+II ANÁLISIS
+Como cuestión previa al fondo de la consulta, es necesario precisar que tanto la procedencia de la franquicia establecida en el artículo 13 del Decreto Ley N° 889 de 1975 así como la efectividad y monto del Impuesto de Segunda Categoría retenido en exceso son cuestiones que deberá ponderar la propia Dirección Regional, conforme a los antecedentes acompañados por el contribuyente.
+Ahora bien, en cuanto a la aparente contradicción o disparidad de criterios sobre la titularidad para solicitar la devolución del impuesto en comento, cabe señalar lo siguiente.
+De una atenta y rigurosa lectura, se desprende que el Reservado N° 111 de 1997 está destinado a regular propiamente un “procedimiento” para la verificación de “solicitudes” de devolución de impuestos al amparo del artículo 126 del Código Tributario. Precisamente por tratarse de una “solicitud”, el Reservado exige una serie de menciones que ella debe contener así como “acompañar a la solicitud” de devolución correspondiente una declaración jurada prestada por el empleador, pagador o retenedor del impuesto indebido o en exceso, dejando constancia de otro conjunto de antecedentes.
+Por tanto, e independientemente de quién tenga la “titularidad” para presentar la solicitud de devolución, lo cierto es que el Reservado N° 111 de 1997 formula las exigencias mínimas de carácter formal destinadas a tener por “presentada” una solicitud o petición administrativa que desencadene un acto administrativo terminal, acogiendo o rechazando la solicitud.
+En cambio, el Oficio N° 1893 de 1998 está destinado a esclarecer si es correcta la devolución del Impuesto Único “vía rectificatoria de la Declaración de Renta”, o bien, el contribuyente del impuesto retenido en exceso “debe solicitarlo vía administrativa, dentro de los plazos que establece el artículo 126 del Código Tributario.” En otras palabras, la consulta no está destinada a resolver quién tiene la titularidad de la solicitud de devolución de impuestos sino sencillamente a determinar si acaso la “rectificatoria de la declaración de renta” puede considerarse como vía administrativa idónea para solicitar una devolución del Impuesto Único de Segunda Categoría.
+Al respecto, el punto 5 del Oficio en comento resuelve “respecto de su consulta… que resulta improcedente que el contribuyente por la vía de la rectificación de su Declaración Anual de Impuesto a la Renta pretenda obtener el exceso de impuesto único retenido por el empleador.” En otras palabras, la vía administrativa idónea consiste en presentar una “petición administrativa” sujeta a la normativa y plazos establecidos por el artículo 126 del Código Tributario.
+Lo anterior tiene perfecta lógica atendido que, al menos en el específico caso analizado, una “rectificatoria” es simplemente una modificación de la declaración presentada originalmente debido a que contiene inconsistencias, lo cual exige verificar la naturaleza y alcance de las mismas, sin poseer esa rectificación propiamente la calidad de una “petición administrativa” de devolución del Impuesto Único de Segunda Categoría pagado indebidamente o en exceso.
+Esclarecido lo anterior y en cuanto a la titularidad de la solicitud de devolución, el Oficio N° 1893 de 1998 se limita a señalar que el error “puede ser corregido” por el respectivo empleador por la vía administrativa idónea, la que en todo caso “debe solicitarse” a través de una “petición administrativa” y tramitada en la forma correspondiente.
+Por cierto, lo anterior no obsta a que, como ha resuelto reiteradamente este Servicio el trabajador puede solicitar la devolución correspondiente “en la unidad” del Servicio de Impuestos Internos de su domicilio, para el caso de haberse retenido el Impuesto Único de Segunda Categoría en exceso o de manera indebida por parte del empleador y haya sufrido detrimento patrimonial, ciñéndose para tal efecto a la normativa del artículo 126 del Código Tributario, sin que sean aplicables las normas del artículo 128 del mismo cuerpo legal, en tanto éste se refiere a los impuestos de traslación o recargo, calidad que no reviste el tributo cuya devolución se impetra.
+En el caso señalado, como es evidente, la mera rectificatoria de la declaración de renta tampoco es la vía idónea para solicitar o efectuar una petición administrativa de devolución del Impuesto Único de Segunda Categoría pagado indebidamente o en exceso.
+III CONCLUSIÓN
+Conforme a lo expuesto, se informa que no existe contradicción de criterios entre el Reservado N° 111 de 1997 y el Oficio N° 1893 de 1998, en la medida que este último está destinado exclusivamente a señalar que la mera rectificatoria de la declaración de renta no constituye la vía idónea para solicitar la devolución del Impuesto Único de Segunda Categoría pagado indebidamente o en exceso.
+En caso que el trabajador desee solicitar la devolución del impuesto indicado, deberá hacerlo presentando la correspondiente petición administrativa en la unidad del Servicio de Impuestos Internos de su domicilio, ciñéndose para tal efecto a la normativa del artículo 126 del Código Tributario.
 
-Situación tributaria de una beca de estudio otorgada a  un  trabajador  para
-la realización de un Master en Administración de Negocios, en  relación  con
-la empresa que la paga.
+FERNANDO BARRAZA LUENGO
+DIRECTOR
 
-Se ha solicitado un pronunciamiento a  este  Servicio,  sobre  la  situación
-tributaria de una beca de estudio otorgada en beneficio  de  un  trabajador,
-para la realización de un Master en Administración  de  Negocios  (MBA),  en
-relación con la empresa que la paga.
-
-I.- ANTECEDENTES.
-
-Solicita se ratifique que la beca de estudios otorgada a un trabajador  para
-la realización de un MBA, constituye un gasto necesario  para  producir  las
-rentas de la empresa pagadora de dicha beca.
-
-En base a las consideraciones, normas legales y pronunciamientos  que  cita,
-a juicio de la Dirección Regional consultante, las becas de estudio para  un
-MBA  no  cumplirían  los  requisitos  para   su   deducción   para   efectos
-tributarios, ya que por la naturaleza del programa no serían  indispensables
-para el desarrollo de las actividades de la empresa.
-
-El requirente señala por su parte, que dentro de las  políticas  permanentes
-de la compañía está el desarrollo de los  recursos  humanos  para  el  mejor
-desempeño de los trabajadores en sus cargos; razón por la cual,  de  acuerdo
-a sus políticas de capacitación les otorga becas de estudio en el ámbito  de
-la administración, a través del financiamiento del 50% de su  costo,  a  una
-institución reconocida  por  el  Estado  de  Chile;  con  el  compromiso  de
-permanencia por el plazo de duración del curso o de reembolsar  dicho  monto
-en caso contrario. El sistema de pago consiste en que el  empleador  cancela
-el 100% del curso directamente a la institución, descontando  posteriormente
-el 50% de este valor de los sueldos del respectivo trabajador.
-
-Añade, que la Circular N°41, de  1999,  contempla  dentro  del  concepto  de
-“becas de estudio” la participación en cursos de  perfeccionamiento,  dentro
-del cual se comprenderían los cursos correspondientes a un MBA.  Agrega  que
-este Servicio ha calificado la beca de doctorado como beca de estudio,  para
-su determinación como ingreso no renta[1].
-
-Sin embargo, agrega, se habría objetado dicho  desembolso  por  una  errónea
-interpretación contenida en la sección preguntas  frecuentes  de  la  página
-internet de este Servicio.
-
-En razón de lo anterior, solicita se confirme que  el  gasto  ascendente  al
-50% del valor de  dicha beca corporativa financiado por la  compañía,  tiene
-el carácter de necesario para producir las rentas de la empresa  ya  que  no
-hacen más que perfeccionar los  conocimientos  adquiridos  en  los  estudios
-técnico-profesionales o universitarios.
-
-II.- ANÁLISIS.
-
-Este Servicio, mediante la Circular N°41,  de  1999,  complementada  por  la
-Circular  N°60,  del  mismo  año,  impartió  las  instrucciones  pertinentes
-relativas al tratamiento tributario de las becas de estudio, desde el  punto
-de vista del trabajador beneficiario de dichas sumas y de las  empresas  que
-desembolsan tales cantidades[2].
-
-En cuanto a la definición de becas de  estudio,  la  citada  Circular  N°41,
-señala  que  de  acuerdo  con  la  acepción  número  seis  contenida  en  el
-Diccionario de  la  Real  Academia  Española,  constituye  un  estipendio  o
-pensión temporal que se concede para que una  persona  continúe  o  complete
-sus estudios.
-
-Establece además  este  instructivo,  que  deben  considerarse  comprendidos
-dentro de  este  concepto,  todos  aquellos  beneficios  percibidos  por  el
-becario, tales como pagos de matrículas, cuotas de enseñanza o  escolaridad,
-viáticos, pasajes, etc., destinados exclusivamente a  la  obtención  de  una
-instrucción básica, media, técnico-profesional o universitaria por parte  de
-los becarios, o la participación de éstos en cursos de  perfeccionamiento  o
-de capacitación motivo de la beca.
-
-En relación con la empresa pagadora, este instructivo agrega que,  para  que
-tal beneficio sea aceptado como un gasto deducible en  la  formación  de  la
-Renta Líquida Imponible, es menester  que  cumpla  con  los  requisitos  que
-establece el artículo 31 de la Ley sobre Impuesto a  la  Renta  (LIR),  esto
-es,  que  se  trate  de  gastos   necesarios   para   producir   la   renta,
-considerándose no sólo la naturaleza del gasto, sino que además,  hasta  qué
-monto han sido  efectivamente  necesarios  para  producir  la  renta  y  qué
-relación tienen dichos gastos con su giro, y por lo tanto  sólo  podrán  ser
-aceptados aquellos desembolsos erogados en favor de los trabajadores ya  que
-son los que coadyuvan a generar la renta y no aquellos beneficios  otorgados
-en provecho de personas extrañas a la empresa.  Establece  en  este  sentido
-que, para su aceptación tributaria, dicho gasto debe decir relación  con  el
-giro del negocio o actividad del contribuyente;  esto  es,  que  los  cursos
-financiados con las becas de estudio tengan aplicación  en  el  giro  de  la
-empresa o redunden en un perfeccionamiento de los trabajadores mejorando  su
-desempeño laboral, en cuanto a la obtención de la renta afecta.
-
-Por consiguiente, a objeto de dar respuesta a la consulta,  debe  analizarse
-en conjunto, las condiciones dispuestas por esta Circular,  para  determinar
-si el programa consistente en un MBA, esto es, un postgrado en  el  área  de
-la administración, queda o no comprendido dentro de las becas de estudio  en
-los términos que establece la citada Circular N°41, especialmente  si  puede
-considerarse como un curso de  perfeccionamiento  o  de  capacitación  y  si
-dicho gasto se relaciona con el giro de la empresa a objeto de  coadyuvar  a
-la obtención de las rentas.
-
-La  legislación  nacional  vigente  sólo  hace  referencia  a   los   grados
-académicos de Doctor y Magíster[3]. Sin embargo, tal como se  indica  en  su
-consulta, el boletín N°6  del  Consejo  Nacional  de  Educación  señala  que
-existen  otras  certificaciones  académicas  cuyos  conceptos  no  han  sido
-definidos en la normativa. Ello ocurre  con  los  postítulos  y  diplomados.
-Añade  el  Consejo  Nacional  de  Educación,  que  pueden   entenderse   los
-postítulos   como   las   certificaciones   académicas   que   otorgan   las
-instituciones  de  educación  superior   a   propósito   de   programas   de
-especialización o de actualización orientados a un mejor  desempeño  laboral
-y dirigidos a personas que ya cuentan  con  títulos  profesionales,  títulos
-técnicos de nivel superior o grados académicos. Los diplomados  podrían  ser
-definidos  como  certificaciones  de  estudios  que  entregan  entidades  de
-capacitación  e  instituciones  de  educación  superior  en   relación   con
-determinados  programas  de  formación  generalmente  abiertos  a  toda   la
-comunidad. El reconocimiento oficial de los diplomados dependerá de  si  han
-sido otorgados por instituciones que cuenten con reconocimiento oficial.
-
-De lo señalado por esta institución, se podría entender en este sentido  que
-la aprobación o realización de varios diplomados  en  materias  relacionadas
-con el campo de la administración de negocios equivalen a un MBA.
-
-Por su parte, en documento adjunto a  los  antecedentes[4],  se  indica  que
-para acceder a las becas de estudio corporativas que ofrece la  empresa,  es
-requisito que dichos estudios tengan relación con la labor que desempeña  el
-colaborador dentro de ella, ya sea en su ocupación actual o en un área  para
-la cual sus superiores consideren que posee un potencial próximo  razonable,
-y a la vez que estos estudios resulten en beneficio  para  la  empresa;  las
-que deben ser aprobadas  por  la  jefatura  directiva;  debiendo  efectuarse
-además un análisis de las postulaciones a los  programas.  Agrega,  que  una
-vez hecha la selección debe firmarse un anexo al  contrato  de  trabajo,  de
-compromiso de permanencia del trabajador  durante  un  período  determinado,
-sujeto a la duración de los estudios y en caso  de  retiro  antes  de  dicho
-término de restituir las sumas correspondientes[5].
-
-En base a las consideraciones señaladas,  a  juicio  de  este  Servicio,  el
-otorgamiento de una beca para cursar un programa de estudios en el campo  de
-la  administración  o  MBA,  reuniría  las  características   básicas   para
-calificarlo como beca de estudio conforme la define  la  Circular  N°41,  de
-1999, siempre que consistan en cursos de perfeccionamiento, de  capacitación
-o continuación de sus estudios  que  le  permiten  al  trabajador  un  mejor
-desempeño de sus funciones actuales y por consiguiente una mayor  eficiencia
-laboral, lo  cual  redundaría  en  un  mejor  cometido  en  las  actividades
-desarrolladas  en  el  área  de  gestión  y/o  administración,  en   directo
-beneficio de la empresa.
-
-Sin  embargo,  la  verificación  y  validación  de  las  circunstancias  que
-permiten calificarla como  gasto  aceptado  tributariamente  al  cumplir  la
-totalidad de los requisitos  establecidos  por  dicho  instructivo,  es  una
-materia de competencia de la respectiva unidad fiscalizadora.
-
-III.- CONCLUSIONES.
-
-De acuerdo a lo expresado y en respuesta a la consulta planteada, se  señala
-que las instrucciones impartidas por este Servicio a través de  la  Circular
-N°41, de 1999, son plenamente aplicables a la  situación  que  se  describe.
-Por consiguiente, en el caso en que el  beneficiario  sea  un  empleado  del
-área de administración de la empresa y la beca diga directa relación con  su
-perfeccionamiento laboral en su  actual  ocupación,  y  no  con  potenciales
-labores a desarrollar en el futuro; en el sentido que  ellas  tiendan  a  un
-mejor desempeño laboral, una mayor eficiencia en sus actuales actividades  y
-ello vaya en directo beneficio de la empresa,  los  montos  correspondientes
-podrán  ser  aceptados  para  efectos  tributarios;  siempre  que  ello  sea
-debidamente acreditado, no sean considerados excesivos en los  términos  que
-contempla ese instructivo y se cumplan los demás requisitos  que  establece;
-circunstancias todas que sólo podrán ser determinadas  en  la  instancia  de
-fiscalización correspondiente, a la vista de los respectivos antecedentes.
-
-
-
-
-                           FERNANDO BARRAZA LUENGO
-                                                      DIRECTOR
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        Oficio N° 846, de 04.04.2016
-                           Subdirección Normativa
-                        Dpto. de Impuestos Directos.
-                           -----------------------
-[1] Oficio N° 1.305 de 2013.
-[2] Publicadas en la página Web de este Servicio (www.sii.cl).
-[3] Ley N° 18.962, Orgánica Constitucional de Enseñanza.
-[4] Política de “Becas de Estudio Corporativas: Programas  de  Post  Grado”,
-actualizado al 04/10/2013.
-[5] Se adjunta a los antecedentes, anexo de contrato de trabajo y  carta  de
-compromiso de un trabajador que se desempeña como jefe de  compensaciones  y
-estudios, en el área de gestión de personas.
+Oficio N° 847, de 04.04.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

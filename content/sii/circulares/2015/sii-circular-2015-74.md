@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 74
 - Año: 2015
-- Fecha: 2015-08-21
+- Fecha: 2015-08-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu74.pdf
 - Hash SHA-256: 42d8269c2613549d791478361d7ca6dde1cfdcb16ab04544d0f9ab83a578b126
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 75 del 21 de Agosto del 2015 Tabla de cálculos de Reajustes, Intereses y Multas septiembre 2015 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2015 y el 9 de septiembre del año 2015. Fuente: Oficina de Gestión Normativa Circular N° 73 del 13 de Agosto del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2015 e inform…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2015 y el 9 de septiembre del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

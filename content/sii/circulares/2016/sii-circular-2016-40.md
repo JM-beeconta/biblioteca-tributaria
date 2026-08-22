@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, introducidas a los artículos 26 bis y 100 bis del Código Tributario y al procedimiento administrativo de calificacion de actos o negocios como elusivos, incorporado en materia de medidas antielusivas por la Ley N° 20.780. Fuente: Departamento de Asesoría Jirídica Instrucciones sobre el artículo 41 G de la Ley sobre Impuesto a la Renta, incorporado por la Ley N°20.780 y mo…
+;a Jirídica Instrucciones sobre el artículo 41 G de la Ley sobre Impuesto a la Renta, incorporado por la Ley N°20.780 y modificado por la Ley N°20.899, que regula el tratamiento tributario de las rentas pasivas percibidas o devengadas por entidades controladas sin domicilio ni residencia en Chile (Sustituye a la Circular N°30, de 2015). Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

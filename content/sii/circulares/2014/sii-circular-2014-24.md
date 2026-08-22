@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/span> Circular N° 25 del 09 de Abril del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la Renta a declarar en el año tributario 2014, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Circular N° 23 del 09 de Abri…
+oacute;n Normativa Informa porcentaje de reajuste a aplicar a los impuestos anuales a la Renta a declarar en el año tributario 2014, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:0px;'> Circular N° 5 del 15 de Enero del 2015 Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario Correspondiente al año tributario 2015. Fuente: Oficina Gestión Normativa Protocolo de fiscalización de la exención de impuesto territorial que favorece al deporte. Fuente: Subdirección Avaluaciones Circular N° 3 del 09 de Enero del 2015 Tablas del Impuesto Único de Segunda Ca…
+oacute;n Normativa Protocolo de fiscalización de la exención de impuesto territorial que favorece al deporte. Fuente: Subdirección Avaluaciones
 
 ## Referencias detectadas
 

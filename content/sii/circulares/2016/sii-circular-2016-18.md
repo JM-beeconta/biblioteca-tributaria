@@ -11,7 +11,7 @@
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Impuestos Directos Circular N° 19 del 13 de Abril del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2016 y el 9 de mayo del año 2016. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 17 del 13 de Abril del 2016 Instruye sobre e…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

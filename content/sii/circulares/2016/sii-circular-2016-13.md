@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puestos Directos Circular N° 14 del 24 de Marzo del 2016 (Zip 8.106KB) Suplemento Tributario con la normativa vigente para efectuar la declaración de los impuestos anuales a la renta correspondientes al Año Tributario 2016 Fuente: Oficina de Gestión Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, en lo que dice relación con el D.L. N° 825 sobre Impuesto a las Ventas…
+oacute;n Normativa Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, en lo que dice relación con el D.L. N° 825 sobre Impuesto a las Ventas y Servicios, Ley 20.780 y Art. 21°, del D.L. N° 910, sobre crédito especial de empresas constructoras. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

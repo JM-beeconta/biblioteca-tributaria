@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2013
-- Fecha: 2013-03-11
+- Fecha: 2013-03-04
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu11.pdf
 - Hash SHA-256: 67eb4503fcc7f03f2f17822a03209c727d3039900085f4e4665a8b483a393463
 
 ## Resumen
 
-;'> Fuente: Oficina de Gestión Normativa. Circular N° 12 del 11 de Marzo del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2013 y el 9 de abril del año 2013. Fuente: Oficina de Gestión Normativa. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°1 de la Ley de la Renta. Fuente: Oficina de Gestión Normativa. Circular N° 10 del 21 de Febrero del 2013 Tabla de cálculo de reajuste…
+acute;n Normativa. Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°1 de la Ley de la Renta. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

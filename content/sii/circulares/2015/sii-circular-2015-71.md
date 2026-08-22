@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Oficina de Gestión Normativa Circular N° 72 del 23 de Julio del 2015 Tabla de Cálculos de reajustes e Intereses y Multas Agosto 2015. Fuente: Subdirección de Fiscalización Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con la tributación establecida en su artículo 21 y las normas sobre retención de impuesto contenidas en el N° 4, del artículo 74. También se instruye sobre las modificaciones incorporadas a las escalas de rentas y tasas co…
+scalización Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con la tributación establecida en su artículo 21 y las normas sobre retención de impuesto contenidas en el N° 4, del artículo 74. También se instruye sobre las modificaciones incorporadas a las escalas de rentas y tasas contenidas en los artículos 43 N° 1 y 52 de la Ley sobre Impuesto a la Renta, y la incorporación del nuevo artículo 52 bis a dicha ley. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

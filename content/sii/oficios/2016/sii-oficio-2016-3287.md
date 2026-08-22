@@ -6,59 +6,56 @@
 - Año: 2016
 - Fecha: 2016-04-05
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja879.doc
-- Hash SHA-256: 65c3c5987df5c7edee2f26670f3c9fc9500b1856ef81bd1498ce33a84e6c8e6a
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja882.htm
+- Hash SHA-256: 948900230b7111d1551937bc1871821566516669a4c3f8d5e56865e184a5c15c
 
 ## Resumen
 
-6 &ndash; . (Ord. Nº 882, de 05-04-2016) | Word Solicita un pronunciamiento sobre el sujeto obligado al pago de contribuciones en el marco de un contrato de leasing. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Párrafo I, Letra B, N° 2 &ndash; Ley N° 18.681, Art. 69 &ndash; Circular N° 45, de 2012 &ndash; Oficio N° 4587, de 2005. (Ord. Nº 879, de 05-04-2016) | Word Solicita se interprete alcance de la exención del Impuesto Territorial otorgada a las Universidades. Ley sobre Impuesto T…
+s grandes mineras. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 25 &ndash; Código Tributario, Art. 6 &ndash; . (Ord. Nº 882, de 05-04-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":45,"year":2012}
-- {"type":"oficio","number":4587,"year":2005}
+- {"type":"oficio","number":3287,"year":2009}
+- {"type":"articulo","law":"CT","article":"6"}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – CUADRO ANEXO, PÁRRAFO I, LETRA B, N° 2 – LEY N° 18.681, ART. 69 – CIRCULAR N° 45, DE 2012 – OFICIO N° 4587, DE 2005. (ORD. N° 879, DE 05.04.2016)
-
-Solicita se interpret e alcance de la exención del Impuesto Territorial otorgada a las Universidades.
-
-Mediante presentación indicada en el antecedente, solicita se interprete el alcance de la expresión “destinados a”, contenida en el Cuadro Anexo , Párrafo I, Letra B, N° 2, de la Ley sobre Impuesto Territorial.
-I ANTECEDENTES
-En su presentación expone que su cliente es una Universidad que ha recibido donaciones destinadas a financiar la adquisición de bienes raíces que permiten la realización de sus fines educacionales, de investigación y de extensión.
-Por circunstancias ajenas a la Universidad, algunos de estos bienes raíces aún no han podid o ser completamente habilitados, razón por la cual solicita interpretar si el requisito de destinación que establece la exención del Impuesto Territorial contenida en el Cuadro Anexo, Párrafo I, Letra B, N° 2, de la citada ley, exige la habilitación previa de dicho bien raíz .
-La consulta anterior se plantea porque la contribuyente tiene dos terreno s los cuales quiere acoger a la franquicia, ya que estarán destinados a la educación, investigación y/o extensión del estudiantado: sobre uno de los terrenos ya se ha iniciado un proceso de construcción; en el otro, las instalaciones se encuentran en estudio, en tramitación o en aprobación de los permisos correspondientes .
-Señala que el artículo 69 de la Ley N° 18. 681, dispone que los bienes raíces adquiridos con las donaciones que regula esa norma quedarán afectados a los fines de docencia, investigación y exten sión de la institución. Agrega que la Universidad dejó constancia expresa en las escrituras de compra de las bienes raíces que las destinaría a esos fines.
-Concluye que para beneficiarse de la exención, debe tratarse de una universidad, instituto profesional o centro de formación técnica, de carácter público o privado, que cuente con el reconocimiento del Ministerio de Educación, que el bien raíz de su propiedad esté destinado a la educación, investigación o extensión y que no produzca renta por actividades distintas de las señaladas.
-Luego expone que la destinación requerida sólo puede referirse a la finalidad dada a los bienes raíces , sin importar el estado de avance de sus construcciones .
-Hace presente que:
-S u cliente no realiza otras actividades económicas distintas d e su giro exclusivo ;
-L os bienes raíces forman parte de un único c ampus educacional ;
-F ueron adquiridos con recursos provenientes de donaciones reguladas por el artículo 69 de la Ley N° 18.681;
-En el contrato de adquisi ción de los bienes raíces se expresó cuál sería el destino que se les daría ; y ,
-L os proyectos de infraestructura educacionales han sido presentados formalmente al Ministerio de Educación, por lo que su destinación constaría en los registro s de este Servicio .
-Analizando los antecedentes expuestos, que dan fe del destino que se les dará a los bienes raíces , estima que debe aplicarse la exención, no obstante que las construcciones aún no estén habilitadas o recepcionadas . Lo contrario significaría imponer un gravamen carente de toda lógica jurídica y económica, en perjuicio de la contribuyente.
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 25 – CÓDIGO TRIBUTARIO, ART. 6 – OFICIO N° 3287, DE 2009. (ORD. N° 882, DE 05.04.2016)
+SOLICITA UN PRONUNCIAMIENTO SOBRE EL SUJETO OBLIGADO AL PAGO DE CONTRIBUCIONES EN EL MARCO DE UN CONTRATO DE LEASING.
+Se ha solicitado a este Servicio un pronunciamiento sobre si corresponde a XXXX pagar el Impuesto Territorial que afecta a un inmueble respecto del cual celebró un contrato de leasing. I ANTECEDENTES
+En su presentación expone que XXXX celebró un contrato de leasing con un Banco, con la finalidad de adquirir un inmueble para el funcionamiento de XXXX en la ciudad de Santiago.
+En el contrato se estipuló que el Banco pagaría el Impuesto Territorial que grava los inmuebles arrendados, que se devengaran durante la vigencia del contrato, siempre que se mantuvieran vigentes las normas que establecen dicho impuesto como crédito contra el impuesto de primera categoría.
+Recuerda que la Ley N° 20.780 eliminó el citado crédito a contar del 01.01.2016 a los contribuyentes que den en arrendamiento bienes raíces y lo limitó al 50% durante el año comercial 2015.
+Cita el artículo 25 de la Ley sobre Impuesto Territorial, en virtud del cual este impuesto es pagado por el dueño o el ocupante de la propiedad. Efectuado el pago por el arrendatario, éste queda autorizado a deducir la suma respectiva de los cánones de arrendamiento.
+En virtud de lo anterior, XXXX estaría obligada a reembolsar al Banco el monto correspondiente al 50% del Impuesto Territorial pagado en 2015 y, a partir del año 2016, a pagar íntegramente las contribuciones correspondientes.
+Agrega que, de acuerdo al Dictamen N° 29808 de la Contraloría General de la República, no le corresponde a los servicios públicos pagar contribuciones de inmuebles que no le pertenecen, salvo norma legal que los autorice, ya que dicha obligación corresponde al propietario del inmueble.
+Finalmente, hace presente que, de acuerdo a una “pregunta frecuente” del sitio de internet de este Servicio, el contribuyente obligado al pago de las contribuciones de un bien raíz es el propietario, independientemente de los acuerdos que establezcan las partes.
+Por las razones expuestas precedentemente, solicita un pronunciamiento sobre la materia, que determine si, atendida la naturaleza de servicio público de XXXX, le corresponde asumir la obligación del pago del Impuesto Territorial en el caso propuesto y, de proceder su pago, la forma en que éste debe efectuarse y de qué manera resulta aplicable el inciso segundo del artículo 25 de la Ley sobre Impuesto Territorial.
 II ANÁLISIS
-D e acuerdo al Cuadro Anexo, Párrafo I, Letra B, N° 2 , de la Ley sobre Impuesto Territorial, están exentos del referido impuesto los bienes raíces pertenecientes “ a las Universidades, Institu tos Profesionales y Centros de F ormación Técnica, reconocidos por el M inisterio de Educación, de carácter público o privado, respecto de los bienes raíces de su propiedad destinados a educación, investigación o extensión, y siempre que no produzcan renta por actividades distintas a dichos objetos. ”
-Al respecto, y sin perjuicio de los argumentos de lógica económica o jurídica invocados por el peticionario, lo cierto es que la exención referida procede “mientras se cumpla la condición que en cada caso se indica”, lo cual, como ha señalado este Servicio para otras exenciones del mismo Cuadro Anexo, Párrafo I, Letra B, se traduce en “aplicar” el bien raíz al destino relevante o, lo que es lo mismo, que “efectivamente” se ejecuten las actividades propias del destino en cuestión .
-Al respecto, resulta esclarecedor lo instruido por este Servicio a propósito de la exención de Impuesto Territorial establecida en el Cuadro Anexo, Párrafo I, letra B), N° 5, que favorece a los templos y sus dependencias “destinados al” servicio de un culto, como asimismo a las habitaciones anexas a tales templos ocupadas por los funcionarios del culto y siempre que no produzcan renta.
-En efecto, según instruye la Circular N° 45 de 2012, “el sólo hecho de haber adquirido una propiedad con la intención de destinarla al servicio de un culto, no permite por sí sola otorgar la exención, sino que debe constatarse en la especie que dicha propiedad se encuentra actualmente al servicio de un culto, o bien, que se proyecta en forma cierta y concreta la construcción de un edificio que se destinará en forma exclusiva al servicio de un culto.”
-En otras palabras, el requisito de estar destinados los bien es raíces a un determinado fin (esto es, “mientras se cumpla la condición que en cada caso se indica”), no se satisface con un mero ejercicio intelectual fundado en documentos, sino que exige desplegar actual o efectivamente las actividades propias del destino en el bien raíz . De este modo, al me nos para los fines de la exenciones de Impuesto Territorial contenidas en el Cuadro Anexo, Párrafo I, letra B), no basta declarar que el bien raíz estará destinado, como en el caso del N° 2, a la educación, investigación o extensión ni que su adquisición haya sido financiada con donaciones que, conforme al artículo 69 de la Ley N° 18.68 1, estaban afectadas a los fines de docencia, investigación y extensión de la institución.
-Sin perjuicio de lo anterior, y a propósito de otras exenciones establecidas en el Cuadro Anexo, Párrafo I, Letra B, este Servicio también ha estimado procedente solicitar la exención una vez que, aprobado el permiso de construcción por parte del Municipio, se hayan iniciado las obras; entendiéndose que ello ocurre una vez realizados los trazados y comenzadas las excavaciones contempladas en los planos del proyecto, según lo señalado en el artículo 1.4.17 de la Ordenanza General de Urbanismo y Construcción.
-Lo anterior, en el entendido que la aprobación del permiso de construcción por parte del Municipio y el inicio de las obras en los términos indicados, constituye un hito relevante y objetivo en el sentido que las obras están siendo destinadas al cumplimiento del fin exigido por la norma.
-En cualquier caso, debe estarse a lo dispuesto en el artículo 1.4.17 de la citada Ordenanza, en el sentido que si el permiso caduca automáticamente a los tres años de concedido si no se hubieren iniciado las obras correspondientes o si éstas hubieren permanecido paralizadas durante el mismo lapso, corresponde dejar sin efecto la exención concedida.
-El cumplimiento de las condiciones señaladas es una cuestión de hecho que corresponde verificar a las instancias de fiscalización.
-Finalmente, y conforme el criterio expuesto para efectos de acceder a la exención – esto es, tener al menos aprobado el permiso de construcción por parte del Municipio e iniciado las obras , entr e otros requisitos copulativos –, el inmueble respecto del cual sólo existen estudios, encontrándose pendientes de tramitación o aprobación los permisos correspondientes , no es susceptible de acogerse a la exención.
+En relación a la consulta, es pertinente señalar que, por mandato expreso del artículo 25 de la Ley sobre Impuesto Territorial:
+“El impuesto a los bienes raíces será pagado por el dueño o por el ocupante de la propiedad, ya sea éste usufructuario, arrendatario o mero tenedor, sin perjuicio de la responsabilidad que afecte al propietario. No obstante, los usufructuarios, arrendatarios y, en general, los que ocupen una propiedad en virtud de un acto o contrato que no importe transferencia de dominio, no estarán obligados a pagar el impuesto devengado con anterioridad al acto o contrato.
+Efectuado el pago por el arrendatario, éste quedará autorizado para deducir la suma respectiva de los cánones de arrendamiento.”
+A partir del citado artículo se desprende que, si bien el primer responsable por el pago del impuesto es el dueño o propietario del bien raíz, el arrendatario también puede resultar obligado al pago del impuesto.
+Al respecto, la Ley sobre Impuesto Territorial se limita a disponer que, en caso de resultar el arrendatario obligado al pago del impuesto:
+a) No estará obligado a pagar el impuesto devengado con anterioridad al acto o contrato.
+b) Efectuado el pago, quedará autorizado para deducir la suma respectiva de los cánones de arrendamiento.
+De este modo, nada impide que el arrendatario resulte obligado al pago del impuesto o que deba soportarlo económicamente por acuerdo entre las partes.
+Por esa razón, este Servicio ha resuelto que si Impuesto Territorial es pagado por el arrendatario del inmueble, constituye una mayor renta de arrendamiento para el arrendador, en tanto que para el arrendatario es un mayor desembolso por concepto de arrendamiento de la propiedad, que podrá rebajarse como gasto necesario para producir la renta .
+Otra cuestión, en cambio, es determinar si la conclusión anterior se altera conforme lo resuelto en el Dictamen N° 29808 de 1987, de la Contraloría General de la República, para el caso particular de los servicios públicos.
+En efecto, de acuerdo al señalado dictamen, a los servicios de la Administración del Estado no les corresponde pagar contribuciones de inmuebles que no sean de su dominio, salvo que norma legal lo autorice, ya que dicha obligación corresponde al propietario del respectivo inmueble.
+Sobre esta materia, este Servicio puede informar que, según lo expuesto y de acuerdo al citado artículo 25 de la Ley sobre Impuesto Territorial, en principio los arrendatarios sí pueden resultar obligados al pago del impuesto, sin perjuicio de quedar autorizados para deducir la suma respectiva de los cánones de arrendamiento.
+Por otra parte, al menos del texto de la Ley sobre Impuesto Territorial, no se desprende la existencia de un impedimento legal, en el caso particular de los servicios de la Administración del Estado, para pagar contribuciones de inmuebles que no sean de su dominio.
+Con todo, por tratarse de una interpretación contenida en un dictamen de la Contraloría General de la República, no corresponde a este Servicio determinar si dicha interpretación se encuentra aún vigente – atendida su fecha de emisión – como tampoco precisar la validez de la cláusula contractual en el caso planteado.
+Al respecto, es necesario señalar que, de acuerdo al artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda, y artículo 6° del Código Tributario, sólo corresponde a este Servicio interpretar, aplicar y fiscalizar normas tributarias cuyo control no esté encomendado por ley a una autoridad diferente .
+Finalmente, respecto de la información contenida en la sección “preguntas frecuentes” de este Servicio, cabe precisar que ella es meramente referencial, atendido que corresponde al Director de este Servicio, en particular, interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos (artículo 6°, inciso segundo, Letra A.-, N° 1°, del Código Tributario).
 III CONCLUSIÓN
-L a exención contemplada en el Cuadro Anexo, Párrafo I, Letra B, N° 2, de la Ley sobre Impuesto Territorial, procede en la medida que el contribuyente acredite, entre otros requisitos , tener al menos aprobado el permiso de construcción por parte del Municipio y haber iniciado las obras, entendiéndose que ello ocurre una vez realizados los trazados y comenzadas las excavaciones contempladas en los planos del proyecto, según lo señalado en el artículo 1.4.17 de la Ordenanza General de Urbanismo y Construcción.
-No procede la exención, por tanto, respecto del inmueble sobre el cual sólo existen estudios, encontrándose pendientes de tramitación o aprobación los permisos correspondientes.
-Respecto del terreno sobre el cual ya se ha iniciado un proceso de construcción, procedería la exención en los términos y cumpliendo los requisitos señalados en la letra a) precedente.
-El cumplimiento de esos requisito s , así como su mantención en el tiempo, es una cuestión de hecho que corresponde verificar a las instancias de fiscalización.
+Conforme lo establecido en el artículo 25 de la Ley sobre Impuesto Territorial, el arrendatario puede resultar obligado al pago del impuesto.
+En razón de lo anterior, las partes pueden determinar contractualmente cuál de ellas, y en qué casos, deba soportar económicamente el impuesto.
+Respecto del criterio contenido en el Dictamen N° 29808 de 1987, de la Contraloría General de la República, no corresponde a este Servicio determinar si aún se encuentra vigente, como tampoco precisar la validez de la cláusula contractual en el caso planteado
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 879, de 05.04.2016
+Oficio N° 882, de 05.04.2016
 Subdirección Normativa
-Dpto. de Técnica Tributaria.
+Dpto. de Técnica Tributaria

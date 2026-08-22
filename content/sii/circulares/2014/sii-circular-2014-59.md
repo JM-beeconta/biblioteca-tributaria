@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 59
 - Año: 2014
-- Fecha: 2014-11-27
+- Fecha: 2014-11-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu59.pdf
 - Hash SHA-256: 91d6cab25a0a9b4b069d7c1f3bada4a5c8bbb43d82fb0d866468cd71186bd37a
 
 ## Resumen
 
-Fuente: Departamento Emisor Impuestos Indirectos Circular N° 60 del 27 de Noviembre del 2014 Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2014 Fuente: Subdirección de Fiscalización Modifica las instrucciones contenidas en Circular N°14, de 2014, relativas a la aplicación de los convenios para evitar la doble tributación internacional a las rentas e impuesto que establecen los artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta Fuente: Impuestos Directos Circular N° 58 del 12 de Noviembre del…
+scalización Modifica las instrucciones contenidas en Circular N°14, de 2014, relativas a la aplicación de los convenios para evitar la doble tributación internacional a las rentas e impuesto que establecen los artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 75
 - Año: 2015
-- Fecha: 2015-09-10
+- Fecha: 2015-08-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu75.pdf
 - Hash SHA-256: 914d11ea3225e3c58c36106be60739b88e37498d1e72da22aad5b7e7fbe239b0
 
 ## Resumen
 
-Circular N° 76 del 10 de Septiembre del 2015 Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de octubre del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Tabla de cálculos de Reajustes, Intereses y Multas septiembre 2015 Fuente: Subdirección de Fiscalización Circular N° 74 del 14 de Agosto del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2015 y el 9 de septiembre de…
+oacute;n Normativa Tabla de cálculos de Reajustes, Intereses y Multas septiembre 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

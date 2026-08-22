@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 88
 - Año: 2015
-- Fecha: 2015-11-25
+- Fecha: 2015-11-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu88.pdf
 - Hash SHA-256: 191c2ddd7b0a3a19299940e763ae0bae98cbcc2ea7c56495ce79ba44607e2ab3
 
 ## Resumen
 
-te;n Normativa Circular N° 89 del 25 de Noviembre del 2015 Sustituye capítulo XIII de la Circular N° 21, de 19.04.2013, en materia de Política de Transparencia, incorporado en el referido cuerpo normativo por la Circular N° 41 de 05.09.2013 Fuente: Departamento de Asesoría Jurídica Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2015. Fuente: Subdirección de Fiscalización Circular N° 87 del 18 de Noviembre del 2015 Deja sin efecto Circular N° 47, de 26 de septiembre de 2013. Fuente: Departamento de As…
+;a Jurídica Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2015. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

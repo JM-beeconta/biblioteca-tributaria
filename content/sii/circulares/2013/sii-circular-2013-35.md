@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 35
 - Año: 2013
-- Fecha: 2013-07-24
+- Fecha: 2013-07-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu35.pdf
 - Hash SHA-256: db4e5afc974fe81bde49ab7a19958b88faea901ad886da708173c263c125b095
 
 ## Resumen
 
-ute;timas Fuente: Técnica Tributaria Circular N° 36 del 24 de Julio del 2013 Tabla de cálculos de reajustes, intereses y multas Agosto 2013 Fuente: Subdirección de Fiscalización Circular UF para los días comprendidos entre el 10 de Julio y el 9 de agosto del 2013. Fuente: Oficina de Gestión Normativa. Circular N° 34 del 15 de Julio del 2013 Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de agosto del año 2013 e información adicional relacionada con dichos tributos.…
+scalización Circular UF para los días comprendidos entre el 10 de Julio y el 9 de agosto del 2013. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

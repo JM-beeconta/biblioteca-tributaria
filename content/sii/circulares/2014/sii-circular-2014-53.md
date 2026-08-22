@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 54 del 13 de Octubre del 2014 Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de noviembre del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2014 y el 9 de noviembre del año 2014 Fuente: Oficina de Gestión Normativa Circular N° 52 del 10 de Octubre del 2014 Instruye sobre las modificaciones de la tasa del Impuesto…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2014 y el 9 de noviembre del año 2014 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

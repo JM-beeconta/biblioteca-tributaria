@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span> Circular N° 27 del 14 de Abril del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2015 y el 9 de mayo del año 2015. Fuente: Oficina de Destión Normativa Circular N° 25 del 08 de Abril del 2015 Informa porcentaje de reajuste a aplicar a los Impuestos Anuales…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2015 y el 9 de mayo del año 2015. Fuente: Oficina de Destión Normativa
 
 ## Referencias detectadas
 

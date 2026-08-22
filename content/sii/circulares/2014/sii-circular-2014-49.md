@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2014
-- Fecha: 2014-10-03
+- Fecha: 2014-09-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu49.pdf
 - Hash SHA-256: 20e69aa1275b81b5db9010a60cc48adbc5740c6320baca95dfbd89e6cc4aff39
 
 ## Resumen
 
-om:0px;'> Circular N° 50 del 03 de Octubre del 2014 Modificaciones al Decreto Ley N° 828 de 1974, que establece normas para el cultivo, elaboración, comercialización e impuestos que afectan al tabaco introducidas por el artículo 4° de la Ley N° 20.780 de 29 de Septiembre de 2014. Fuente: Impuestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2014 Fuente: Subdirección de Fiscalización Circular N° 48 del 10 de Septiembre del 2014 Valor de la Unidad de Fomento para los días comprendidos entre…
+puestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

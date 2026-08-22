@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:0px;'>Complementa la Circular N° 33, de 2013, respecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas por la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria, y actualiza el formulario N° 2802, &ldquo;CERTIFICADO DE ANTECEDENTES PREVIOS PARA EL CÁLCULO DEL AVALÚO FISCAL&rdquo; Fuente: Departamento de Catastro y Tasaciones Modificaciones introducidas por la Ley N° 20.780, de 29 d…
+astro y Tasaciones Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 20 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974. Fuente: Oficina de Análisis de Jurisprudencia
 
 ## Referencias detectadas
 

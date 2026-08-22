@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 61
 - Año: 2015
-- Fecha: 2015-07-10
+- Fecha: 2015-07-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu61.pdf
 - Hash SHA-256: dc81b1e13ad1fd6842ce45d86fd72497e076bb649c8bb25436a990e842703cdd
 
 ## Resumen
 
-5 style='margin-bottom:0px;'> Circular N° 62 del 10 de Julio del 2015 Imparte instrucciones sobre el procedimiento de consulta pública de circulares e instrucciones que interpreten con carácter general normas tributarias o que modifiquen criterios interpretativos previos. Fuente: Departamento de Asesoría Jurídica Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de agosto del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión N…
+;a Jurídica Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de agosto del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

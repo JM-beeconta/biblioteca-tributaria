@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 60
 - Año: 2014
-- Fecha: 2014-12-01
+- Fecha: 2014-11-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu60.pdf
 - Hash SHA-256: 40661ab123bae05f9de037673a8a423a370a0804e2cc21336b36094f46f1b645
 
 ## Resumen
 
-Circular N° 61 del 01 de Diciembre del 2014 Modificación introducida por la Ley N° 20.780, de 29 de septiembre de 2014, al Art. 64, del D.L. N° 825, de 1974, relativa a la postergación del pago del Impuesto al Valor Agregado para grupo de contribuyentes que se indica. Fuente: Departamento Emisor Impuestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2014 Fuente: Subdirección de Fiscalización Circular N° 59 del 14 de Noviembre del 2014 Modifica las instrucciones contenidas en Circular N°1…
+puestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

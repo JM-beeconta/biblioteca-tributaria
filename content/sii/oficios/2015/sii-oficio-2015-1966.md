@@ -6,41 +6,52 @@
 - Año: 2015
 - Fecha: 2015-02-26
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja607.htm
-- Hash SHA-256: d0a0e09e6863728028dd48566d624b12ec700320a07e5ce8fbef5ec97ea94c16
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja643.htm
+- Hash SHA-256: f3af0918d4275c7afd3777ad7bece9c4bdb19f5b2e5d8bb7e11578921911b47d
 
 ## Resumen
 
-' rel='modal'>Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; Ley N°16.271 &ndash; Art. 18°, N°1, N°5 &ndash; . (Ord. Nº 643, de 26-02-2015) | Word Aplicación numerales 1 ó 5, del artículo 18°, de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, en el caso de asignaciones testamentarias que indica. Convenio entre Chile y Colombia para evitar la doble Imposición y Prevenir la Evasión Fiscal en relación a los Impuestos sobre la Renta y al Patrimonio &ndash; Art. 2° &ndash; Ley…
+Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; Ley N°16.271 &ndash; Art. 18°, N°1, N°5 &ndash; . (Ord. Nº 643, de 26-02-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":25,"year":2008}
-- {"type":"articulo","law":"LIR","article":"41 A"}
+- {"type":"oficio","number":1966,"year":2011}
 
 ## Texto extraído
 
-CONVENIO ENTRE CHILE Y COLOMBIA PARA EVITAR LA DOBLE IMPOSICIÓN Y PREVENIR LA EVASIÓN FISCAL EN RELACIÓN A LOS IMPUESTOS SOBRE LA RENTA Y AL PATRIMONIO – ART. 2° – LEY SOBRE IMPUESTO A LA RENTA, ART. 41° A, ART. 41° C. (ORD. N° 607, DE 26.02.2015)
-CONSULTA RESPECTO DE LA DEDUCCIÓN COMO CRÉDITO, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 41 A Y 41 C DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR), DE IMPUESTO PAGADO EN COLOMBIA.
-I. ANTECEDENTE En el oficio se expone que la Ley N° 1.607, de 2012, dictada por Colombia, establece un “impuesto sobre la renta para la equidad” que se aplica sobre la base imponible determinada de acuerdo a lo preceptuado por el artículo 22 de ese cuerpo legal y cuya recaudación se destina al financiamiento de programas de inversión orientados prioritariamente a la población usuaria más necesitada.
-En relación a la normativa interna aplicable, señala que el N° 3, de la letra D del artículo 41 A de la LIR, cuyas instrucciones se impartieron mediante la Circular N° 25, de 2008, establece que solo darán derecho a crédito los impuestos obligatorios a la renta pagados o retenidos en el exterior, en forma definitiva, que sean equivalentes o similares a los impuestos contenidos en la LIR, ya sea que se apliquen sobre rentas determinadas de resultados reales o rentas presuntas sustitutivas de ellos.
-En opinión de esa Dirección Regional, el “impuesto sobre la renta para la equidad” cumpliría con los requisitos exigidos por la norma recién aludida para que proceda su uso como crédito en Chile, en la medida que, se trata de un impuesto obligatorio y definitivo a la renta, similar al impuesto de primera categoría de la LIR.
+LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N°16.271 – ART. 18°, N°1, N°5 – OFICIO N°1966 DE 2011. (ORD. N° 643, DE 26.02.2015)
+APLICACIÓN NUMERALES 1 Ó 5, DEL ARTÍCULO 18°, DE LA LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES, EN EL CASO DE ASIGNACIONES TESTAMENTARIAS QUE INDICA.
+Se ha solicitado a esta Dirección Nacional informar si procede aplicar las exenciones dispuestas en los numerales 1 ó 5, artículo 18, de la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones (en adelante, Ley N° 16.271), a las asignaciones testamentarias dejadas por TTTT.
+I ANTECEDENTES
+De acuerdo al correo electrónico del Departamento Jurídico de la Dirección Regional Metropolitana Santiago XXX, acompañado en el Memo indicado en el antecedente, se consulta a la Subdirección Jurídica sobre la posibilidad de considerar exentas diversas asignaciones testamentarias dejadas a su fallecimiento por TTTT, según lo dispuesto en los números 1 ó 5 del artículo 18 de la ley 16.271.
+Conforme al correo electrónico, con fecha xx.xx.xx el causante otorgó testamento designando heredero universal a la Fundación YYYY, a quien legó todos sus bienes, con excepción del menaje de la casa que habitaba, el que legó a ZZZ que le sucedan y vivan en dicho inmueble.
+En cuanto a la Fundación, el correo electrónico informa que el testamento estableció que los bienes asignados deben destinarse a la manutención de ZZZ, como asimismo a los seminaristas necesitados del seminario de AAA.
+En opinión del Departamento Jurídico de la Dirección Regional Metropolitana Santiago XXX, no procede la exención dispuesta en el numeral 1 del citado artículo 18 porque ésta favorece a las Fundaciones de derecho público (y la Fundación que recibe la asignación es de derecho privado); como tampoco la exención dispuesta en el numeral 5°, porque la Fundación que recibe las asignaciones tiene fines educacionales y no de beneficencia.
+En su Memo, la Subdirección Jurídica comparte la improcedencia de la exención establecida en el numeral 1 del artículo 18, pero discrepa de las razones esgrimidas para considerar improcedente la exención del numeral 5, atendido que el legislador atiende al destino otorgado a la asignación testamentaria misma y no a la naturaleza o fines del legatario, por lo que cabría analizar la calidad de ‘necesitados’ que puedan presentar los ZZZ de esa ciudad, beneficiarios de las asignaciones.
+II ANÁLISIS
+De acuerdo al correo electrónico puede colegirse que las asignaciones testamentarias tienen como beneficiarios:
+a) A la Fundación YYYY, a quien se legan todos los bienes del causante (excepto el menaje de la casa), los cuales deben ser destinados a la manutención de ZZZ, como asimismo a los seminaristas del seminario de AAA.
+b) A ZZZ que le sucedan y vivan en la casa que habitaba el causante, a quienes se lega el menaje de la referida casa.
 
-II. ANÁLISIS
-1. En relación a la consulta que se plantea, cabe señalar que el Convenio entre Chile y Colombia para evitar la doble imposición y prevenir la evasión fiscal en relación a los impuestos sobre la renta y al patrimonio, define en el artículo 2 el ámbito de aplicación del mismo, señalando en el párrafo 1 que el Convenio se aplica a los impuestos sobre la renta y sobre el patrimonio exigibles por cada uno de los Estados Contratantes, agregando en el párrafo 2, que se consideran impuestos sobre la renta y sobre el patrimonio los que gravan la totalidad de la renta o del patrimonio o cualquier parte de los mismos, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, los impuestos sobre el importe de sueldos o salarios pagados por las empresas, así como los impuestos sobre las plusvalías.
-En el párrafo 3 de la misma norma, se enumeran los impuestos a los que se aplica el Convenio, vigentes al momento de la firma del mismo. El párrafo incluye, en el caso de Chile, los impuestos establecidos en la Ley sobre Impuesto a la Renta, y en el de Colombia, el Impuesto sobre la renta y Complementarios y el Impuesto de orden nacional sobre el patrimonio.
-Previendo la posibilidad de cambios en la legislación de ambos países, en el párrafo 4 se establece que: “El Convenio se aplicará igualmente a los impuestos de naturaleza idéntica o sustancialmente análoga e impuestos que se establezcan con posterioridad a la fecha de la firma del mismo, y que se añadan a los actuales o les sustituyan….”
-En el caso que se consulta, el “impuesto sobre la renta para la equidad”, contenido en la ley 1.607 de Colombia es un impuesto de carácter fiscal, que se añade a los vigentes al momento de suscribir el Convenio y grava la renta de las sociedades, personas jurídicas y asimiladas, y la renta de las sociedades y entidades extranjeras que tienen sucursales y establecimientos permanentes en Colombia, de modo que cumple con todos los requisitos que el artículo 2 exige para que se le aplique el Convenio.
-2. El impuesto colombiano que se analiza, cumple también con los requisitos que exige el artículo 41 A de la LIR, que contempla un crédito unilateral por impuestos extranjeros en el caso de rentas provenientes de países con los cuales no existe un convenio vigente para evitar la doble imposición. En efecto, la letra A de la norma indicada establece que los contribuyentes que perciban dividendos o efectúen retiros de sociedades constituidas en el extranjero, podrán reclamar como crédito en la declaración de impuesto a la renta que deben efectuar en Chile, los impuestos a la renta que hayan debido pagar o que se les hubiera retenido en el extranjero por esas cantidades.
-En la letra D del artículo 41 A de la LIR, que contiene normas comunes para el crédito unilateral y bilateral, se precisan las características que deben tener los impuestos extranjeros susceptibles de ser acreditados en Chile. La norma indicada señala: “Darán derecho a crédito los impuestos obligatorios a la renta pagados o retenidos, en forma definitiva, en el exterior siempre que sean equivalentes o similares a los impuestos contenidos en la presente ley, ya sea que se apliquen sobre rentas determinadas de resultados reales o rentas presuntas sustitutivas de ellos”.
-El “impuesto sobre la renta para la equidad”, que se aplica en Colombia por las características que tiene y que se describieron en el numeral anterior, reúne todos los requisitos que exige la LIR para que se reclame como crédito unilateral en Chile.
+Descontando cierta impropiedad de lenguaje en el correo electrónico, atendido que las asignaciones a título universal (esto es, cuando se dejan todos los bienes), no constituyen legados , cabe señalar que, conforme al numeral 1 del artículo 18, Ley 16.271, están exentas las asignaciones y donaciones que se dejen o hagan a la Beneficencia Pública Chilena, a las Municipalidades de la República y a las corporaciones o fundaciones de derecho público costeadas o subvencionadas con fondos del Estado.
+Considerando que la Fundación YYYY es un la Fundación de derecho privado no incluida en ninguna de las instituciones mencionadas por el numeral 1, no puede acogerse a dicha exención. Tampoco pueden acogerse a ella ZZZ que le sucedan y vivan en la casa que habitaba el causante, respecto del menaje.
+En cuanto a la exención dispuesta en el numeral 5 del citado artículo 18, dicha exención favorece a las asignaciones y donaciones cuyo único fin sea la beneficencia, la difusión de la instrucción o el adelanto de la ciencia en el país.
+Luego, puede sostenerse que la exención opera cuando se cumplen los siguientes requisitos:
+a) La asignación tenga por fin alguno de los indicados expresamente en la disposición legal, circunstancia sujeta a la posterior verificación por las instancias de fiscalización .
+b) En lo que respecta específicamente a la ‘beneficencia’, y atendido que no existe definición legal, puede recurrirse al Diccionario de la Real Academia Española, que define ‘beneficencia’ como la ‘virtud de hacer bien’ y, específicamente al término ‘benéfico’, en forma mucho restringida como ‘perteneciente o relativo a la ayuda gratuita que se presta a los necesitados’. En el mismo sentido se ha pronunciado este Servicio a propósito de otras materias, resolviendo que la beneficencia consiste en proporcionar ayuda gratuita a personas menesterosas o de escasos recursos .
+c) La finalidad prevista para la asignación debe ser ‘única’.
+En lo que respecta a los requisitos a) y c), se comparte la opinión que el fin único de la asignación constituye una exigencia aplicable a la asignación misma y no al beneficiario, sin perjuicio que si la asignación no hubiere establecido un fin específico sino, por ejemplo, el ‘cumplimiento de los objetivos de la Fundación’, en ese caso la procedencia de la exención necesariamente debe calificarse ‘a la luz del objeto de la entidad beneficiaria’ .
+En cuanto al requisito indicado en la letra b), también se comparte que la asignación testamentaria analizada podría considerarse como beneficencia en la medida que ZZZ puedan considerarse como ‘necesitados’, circunstancia que naturalmente queda sujeta a la posterior verificación por las instancias que correspondan.
 
-III. CONCLUSIÓN
-Por las razones expuestas, se puede concluir que “impuesto sobre la renta para la equidad”, pagado por empresas chilenas en Colombia, puede invocarse como crédito en Chile de acuerdo a lo establecido en los artículos 41 A y 41 C de la LIR y a lo dispuesto en el artículo 2 del Convenio suscrito entre Chile y Colombia para evitar la doble imposición y prevenir la evasión fiscal en relación a los impuestos sobre la renta y al patrimonio.
+III CONCLUSIÓN
+Conforme a los antecedentes expuestos precedentemente, se concluye que no procede la exención contenida en el artículo 18, numeral 1, de la Ley 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones.
+En cambio, en la medida que ZZZ califiquen como personas necesitadas o menesterosas, las asignaciones destinadas al único fin de beneficiar gratuitamente a dichas personas, las asignaciones pueden acogerse a la exención contenida en el numeral 5 del artículo 18 de la Ley N° 16.271.
+No es óbice para la procedencia de la exención que la entidad asignataria sea una fundación cuyo objeto sea la creación, administración, instalación y dirección de establecimientos educacionales pues dicha calidad no es relevante para que proceda la exención en la medida que la asignación tenga como único fin la beneficencia, en los términos descritos en el párrafo inmediatamente anterior.
+Para tal efecto, corresponde a la unidad fiscalizadora comprobar si ZZZ del seminario de la ciudad pueden calificar como personas menesterosas o necesitadas.
 
 JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Oficio N° 607, de 26.02.2015
+Oficio N° 643, de 26.02.2015
 Subdirección Normativa
-Dpto. de Normas Internacionales
+Dpto. de Técnica Tributaria

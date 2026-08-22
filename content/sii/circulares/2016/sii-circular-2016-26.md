@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mativa Circular N° 27 del 03 de Mayo del 2016 Modificación introducida por el artículo 3° de la Ley N° 20.899, de 08 de febrero de 2016, al N° 6 del artículo 97 del Código Tributario. Fuente: Departamento de Asesoría Jurídica Adecua instrucciones de acuerdo a las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, al N° 3 del artículo 165 del Código Tributario. Fuente: Departamento de Asesoría Jurídica Circular N° 25 del 0…
+;a Jurídica Adecua instrucciones de acuerdo a las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, al N° 3 del artículo 165 del Código Tributario. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

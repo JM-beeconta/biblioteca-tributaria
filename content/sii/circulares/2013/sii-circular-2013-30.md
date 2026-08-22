@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización Circular N° 31 del 17 de Junio del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2013 y el 9 de julio del año 2013. Fuente: Oficina Gestión Normativa. Tabla del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de Julio del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 29 del 14 de Junio del 2013 Instruye sobre las modificacion…
+acute;n Normativa. Tabla del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de Julio del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

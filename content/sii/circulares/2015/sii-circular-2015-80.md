@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 80
 - Año: 2015
-- Fecha: 2015-10-14
+- Fecha: 2015-09-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu80.pdf
 - Hash SHA-256: 8bdaa921dd9e5ada101d7be8c30b205f6c7fe8d6f0b92185a7e15926a5f33191
 
 ## Resumen
 
-Circular N° 81 del 14 de Octubre del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Aclara y precisa el concepto de &ldquo;laboratorio&rdquo;, para efectos de gravar la actividad desarrollada por estos establecimientos con el Impuesto al Valor Agregado. Fuente: Impuestos Indirectos Circular N° 79 del 29 de Septiembre del 2015 Tabla de Cálculos…
+oacute;n Normativa Aclara y precisa el concepto de &ldquo;laboratorio&rdquo;, para efectos de gravar la actividad desarrollada por estos establecimientos con el Impuesto al Valor Agregado. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2016
-- Fecha: 2016-05-10
+- Fecha: 2016-05-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu27.pdf
 - Hash SHA-256: 71d26b951a7d2d8d7f1ab4e4cb0d65368508003ea4f5b5ebe26fe96617713e11
 
 ## Resumen
 
-/span> Circular N° 28 del 10 de Mayo del 2016 Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2016, e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Modificación introducida por el artículo 3° de la Ley N° 20.899, de 08 de febrero de 2016, al N° 6 del artículo 97 del Código Tributario. Fuente: Departamento de Asesoría Jurídica Circular N° 26 del 03 de Mayo del 2016 Adecua instrucciones de acuerdo a las modif…
+oacute;n Normativa Modificación introducida por el artículo 3° de la Ley N° 20.899, de 08 de febrero de 2016, al N° 6 del artículo 97 del Código Tributario. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

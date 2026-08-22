@@ -6,63 +6,56 @@
 - Año: 2015
 - Fecha: 2015-10-07
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja2387.doc
-- Hash SHA-256: 9bb6a55ae8719b3b10de08122ca5f9ebe0b5247926e3ce6b7597beda5e289539
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja2531.htm
+- Hash SHA-256: 1d693416d190add94fe040d9cb2edf09291a9023ba094cf30a2b2f00aa218ab7
 
 ## Resumen
 
-deg; &ndash; Circular N° 45, de 2001 &ndash; . (Ord. Nº 2531, de 07-10-2015) | Word Consulta sobre aplicación de la facultad de tasación en un proceso de reorganización empresarial. Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; Art. 26, inciso tercero. (Ord. Nº 2387, de 21-09-2015) | Word Alcance del artículo 26, inciso tercero, Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; Ley N°16.271 &ndash;…
+Código Tributario &ndash; Nuevo Texto &ndash; Art. 64° &ndash; Ley N° 18.046, Art. 94° &ndash; Circular N° 45, de 2001 &ndash; . (Ord. Nº 2531, de 07-10-2015) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"circular","number":45,"year":2001}
+- {"type":"oficio","number":3590,"year":2009}
+- {"type":"oficio","number":340,"year":2004}
+- {"type":"articulo","law":"CT","article":"64"}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – ART. 26, INCISO TERCERO. (ORD. N° 2387, DE 21.09.2015)
-
-Alcance del artículo 26 , inciso tercero, Ley N° 16.271 , sobre Impuesto a las Herencias, Asignaciones y Donaciones .
-
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 64° – LEY N° 18.046, ART. 94° – CIRCULAR N° 45, DE 2001 – OFICIO N° 3590, DE 2009. (ORD. N° 2531, DE 07.10.2015)
+CONSULTA SOBRE APLICACIÓN DE LA FACULTAD DE TASACIÓN EN UN PROCESO DE REORGANIZACIÓN EMPRESARIAL.
 I ANTECEDENTES
-Luego de citar lo dispuesto en el artículo 26, inciso tercero, de l a Ley N° 16.271 , relativo a la distribución de fondos quedados cuando fallece uno de los titulares de una cuenta , y sin perjuicio de algunas consideraciones adicionales, su presentación solicita confirmar lo siguiente:
-Que, d el monto total existente en una cuenta bipersonal a la fecha de fallecimiento de uno de sus titulares, el sobreviviente se considera dueño, por el solo ministerio de la ley, de cinco unidades tributarias anuales.
-Si los montos existentes en la cuenta bipersonal a la fecha de fallecimiento son superiores a cinco unidades tributarias anuales, la cantidad que excede este monto pertenece por el solo ministerio de la ley , por partes iguales, en un 50 % a los herederos y el otro 50% al titular sobreviviente .
-La suma que debe ser declarada por los herederos del titular fallecido para efectos del Impuesto a la Herencia corresponde al 50% del monto que excede las cinco unidades tributarias anuales.
-El titular sobreviviente de la cuenta bipersonal sigue siendo dueño del 50% del saldo que resulta al restar a la suma existente en la cuenta al momento de fallecimiento , sobre las cinco unidades tributarias anuales.
+AAA y BBB son hermanos, chilenos, residentes en Chile. Durante el año 2014 heredaron el 50% cada uno de acciones de una sociedad anónima cerrada constituida el año 2003, en adelante Sociedad XXX, alcanzando en conjunto el 100% de participación.
+La sociedad se dedica al desarrollo de la actividad agrícola y actualmente es propietaria de dos inmuebles de destino agrícola, ubicados en la Región Metropolitana, denominados para estos efectos “Fundo XXXX” y “Fundo YYYY”. Señala que el valor comercial de ambos fundos es casi idéntico, siendo éste muy superior al costo tributario por haberse adquirido hace muchos años.
+Tanto AAA como BBB tienen la intención de seguir desarrollando el negocio agrícola, pero en forma separada.
+En razón de lo anterior, están pensando dividir la Sociedad XXX, naciendo la sociedad anónima ZZZ, asignando uno de los fundos a la sociedad continuadora y otro a la sociedad que nacería producto de la división.
+De esta forma los accionistas tendrían el siguiente porcentaje de participación en las sociedades:
+- Sociedad XXX: AAA 99,9% y BBB 0,1%
+- Sociedad ZZZ: AAA 0,1% y BBB 99,9%
+En relación al caso planteado, señala que el artículo 100 de la Ley N° 18.046 de Sociedades Anónimas, dispone que ningún accionista a menos que consienta en ello, podrá perder su calidad de tal con motivo de un canje de acciones, fusión, incorporación, transformación o división de una sociedad anónima.
+En virtud de lo anterior, señala que, en su entendimiento, si un accionista puede consentir en perder por completo su calidad de tal como resultado de una división, bien puede consentir en disminuir su participación en la sociedad dividida con motivo de un canje de acciones.
+En este mismo sentido, indica que el nuevo Reglamento de Sociedades Anónimas, publicado el 6 de julio de 2012, señala en su artículo 147 g) que “el acuerdo de división no podrá modificar las participaciones relativas a dicho accionistas, a menos que se acuerde algo distinto por la unanimidad de las acciones emitidas de la sociedad que se divide”.
+Sin embargo, señala que el criterio del Servicio de Impuestos Internos, consignado en el Oficio N°3590 de 2009, es que a los accionistas de una sociedad dividida siempre les cabe la misma proporción en el capital de las sociedades nuevas producto del canje.
+Asimismo, indica que el referido oficio manifestó que el artículo 100 de la Ley N° 18.046 de Sociedades Anónimas busca la “protección de intereses minoritarios, pero que en caso alguno puede desvirtuar uno de los elementos de la esencia de una división, esto es, la distribución del patrimonio en una o más sociedades, correspondiendo a los partícipes de la sociedad dividida, la misma proporción en el capital social de cada una de las nuevas”.
+En opinión del consultante, dicho criterio no se encontraría vigente, a la luz de lo dispuesto por el nuevo artículo 147, letra g) del Reglamento de Sociedades Anónimas, antes citado.
+Finalmente, y en consideración a la actual normativa, solicita se confirme que es posible en un proceso de división, que los socios o accionistas actuales de la sociedad dividida modifiquen su porcentaje de participación en la sociedad continuadora y en la que nace como consecuencia de la división, no procediendo la facultad de tasar del Servicio de Impuestos Internos, si los inmuebles se mantienen registrados a su valor tributario.
 II ANÁLISIS
-El artículo 26, inciso tercero, de la Ley N° 16.271 dispone textualmente lo siguiente: “fallecido uno de los titulares de una cuenta bipersonal, los fondos se considerarán del patrimonio exclusivo del sobreviviente hasta concurrencia de la cantidad señalada en el inciso primero. El saldo sobre ese monto, si lo hubiere, pertenecerá por iguales partes al otro depositante y a los herederos del fallecido, con las mismas prerrogativas que este artículo establece.”
-A partir del texto citado, y en relación a las consultas formuladas, se informa lo siguiente:
-Fallecido uno de los titulares de la cuenta bipersonal, los fondos se consideran del patrimonio exclusivo del titular sobreviviente hasta la concurrencia de cinco unidades tributarias anuales (cantidad señalada en el artículo 26 , inciso primero, ya citado).
+En lo pertinente, el artículo 64, inciso cuarto, del Código Tributario, dispone que este Servicio no podrá ejercer sus facultades de tasación en los casos de división o fusión por creación o por incorporación de sociedades, siempre que la nueva sociedad o la subsistente mantenga registrado el valor tributario que tenían los activos y pasivos en la sociedad dividida o aportante.
+Por su parte, la Circular N° 45 de 16 de julio de 2001, que impartió las instrucciones sobre la materia, estableció que para la aplicación de lo dispuesto en el referido inciso cuarto del artículo 64, las figuras jurídicas que indica la norma (división, fusión por creación y por incorporación) deben entenderse de acuerdo a lo establecido en la Ley N° 18.046, sobre Sociedades Anónimas.
+Al respecto, el artículo 94 de la Ley N° 18.046 establece que la división de una sociedad anónima consiste en la “distribución de su patrimonio entre sí y una o más sociedades anónimas que se constituyan al efecto, correspondiéndole a los accionistas de la sociedad dividida, la misma proporción en el capital de cada una de las nuevas sociedades que aquella que poseían en la sociedad que se divide.”
+Adicionalmente, este Servicio ha precisado que siendo la división una distribución del patrimonio de la sociedad que se divide, no existe propiamente una transferencia o transmisión de bienes, sino que existe una especificación de derechos preexistentes, los cuales en virtud de la decisión societaria adoptada, quedan radicados en una entidad jurídica independiente, y consecuentemente, la asignación de bienes que se hace a la nueva sociedad resultante de la división, no constituye una enajenación.
+Como se puede apreciar de lo expuesto precedentemente, las facultades de tasación no son aplicables en el entendido que la “distribución de patrimonio” de la sociedad dividida no constituye propiamente transferencia o transmisión de bienes. En consecuencia, no cabe confundir el efecto tributario que tiene la división a nivel de la sociedad dividida – en cuanta distribución de patrimonio – con el eventual efecto tributario generado como consecuencia de modificar la participación que tenían los socios en la sociedad dividida. En este sentido, lo que su presentación denomina “canje” de acciones no es otra cosa que una permuta (tasable), en cuyo caso se debe comparar el respectivo costo de adquisición con la participación patrimonial que recibe a cambio, siguiendo el criterio sustentado en el Oficio N° 340 de 2004.
+Finalmente, cabe señalar que el artículo 147 letra g) del Reglamento de Sociedades Anónimas, que permite a los accionistas, mediante acuerdo unánime, modificar sus participaciones relativas en un proceso de división, fuera de tener una jerarquía inferior, no altera el concepto legal de división para efectos tributarios ni tampoco predetermina el tratamiento tributario que deba darse a dichas modificaciones.
 
-Atendidos los términos imperativos en que se encuentra redactada la norma (se “consid erarán” del patrimonio exclusivo ) , se comparte el primer criterio señalado en su presentación, en el sentido que la suma de cinco unidades tributarias anuales corresponde al titular sobreviviente de la cuenta bipersonal por el sólo ministerio de la ley.
-
-En cuanto al segundo criterio que solicita confirmar, cabe señalar que, de acuerdo al texto de la ley, fallecido uno de los titulares de una cuenta bipersonal, el saldo que registre la cuenta bipersonal por sobre las cinco unidades tributarias anuales pertenece “por iguales partes al otro depositante y a los herederos del fallecido”.
-
-Al respecto, “pertenecer por iguales partes” podría significar tanto que el saldo se prorratea en partes iguales por el número total de concurrentes (el otro depositante o titular sobreviviente de la cuenta bipersonal , más los herederos del causante , todos con la misma cuota o proporción en el saldo ); o, como plantea en su consulta, que un 50% del saldo se prorratea entre l os herederos y el otro 50% pertenece exclusivamente al titular sobreviviente.
-
-Sobre la materia este Servicio estima que, cuando la ley ordena distribuir por partes iguales “al otro depositante” y “a los h erederos”, quiere decir que “ una parte ” corresponde al otro depositante y “la otra parte” a l conjunto de los herederos. Esto es , que el saldo se divide en dos partes iguales : un 50% del saldo p ertenece exclusivamente al titular o depositante sobreviviente y el otro 50% del saldo al conjunto de los herederos, cualquiera sea su número . De haber pretendido distribuir el saldo equitativamente “entre todos” los concurrentes (titular sobreviviente y herederos) por iguales partes , lo hubiera dispuesto expresamente o con otra s expresiones análoga s que implique n repartir el saldo por el número total de concurrentes , sin distinción .
-
-Ahora bien, es importante notar que la ley emplea la expresión genérica “titular” sobreviviente u “otro depositante”, de suerte que éste podría ser, por ejemplo, el cónyuge (sobreviviente) del causante o un tercero.
-
-D esde un punto de vista sistemático, parece evidente que las reglas dispuestas en el artículo 26 , inciso tercero, de la Ley N° 16.271 , dado su tenor imperativo (“pertenecerá”), operan p or el sólo ministerio de la ley, pero sólo respecto de las relaciones entre “cónyuge, padres e hijos” (artículo 26, inciso primero), casos en que “bastará probar el estado civil y no será necesaria la resolución que concede la posesión efectiva ni acreditar el pago o exención de la contribución de herencias . ” ( Artículo 26, inciso final).
-
-En cambio , no corresponde aplicar dichas reglas en caso que el titular sobreviviente u otro depositante de la cuenta bipersonal fuese un tercero completamente ajeno , a quien el estado civil del causante o el decreto de posesión efectiva le son in oponibles para reclamar la parte que le corresponde en los fondos registrados en una cuenta bipersonal . En estos casos, el tercero, titular sobreviviente u otro depositante de la cuenta bi personal p odrá acreditar que le pertenece todo o parte de los fondos mediante comprobantes de depósito, transferencias o cualquier otro medio de prueba legal , sin aplicar tampoco la regla de las cinco unidades tributarias anuales.
-
-En consecuencia, se confirma parcialmente el criterio indicado en la letra b) de su presentación, en el sentido que si bien el exceso por sobre las cinco unidades tributarias anuales pertenece, por el solo ministerio de la ley, por partes iguales, en un 50% a los herederos y el otro 50% al titular sobreviviente , esta regla no aplica cuando el titular sobreviviente u otro depositante es un tercero que no tiene la calidad de cónyuge, padre o hijo del causante.
-
-Siguiendo el análisis pr ecedente y atendido que lo dispuesto en el artículo 26 de la Ley N° 16.271 mira a la determinación y aplicación de l Impuesto a la Herencia , se comparte que la suma a ser declarada por los herederos del titular fallecido para los efectos del i mpuesto , corresponde al 50% del monto que excede las cinco unidades tributarias anuales.
-
-Respecto del cuarto criterio que solicita confirmar, estese a lo resuelto en las letras anteriores.
-III CONCLUSIÓ N
-
-Fallecido uno de los titulares de la cuenta bipersonal, los fondos se consideran del patrimonio exclusivo del sobreviviente hasta la concurrencia de cin co unidades tributarias anuales.
-El saldo que excede las cinco unidades tributarias anuales, se reparte en un 50% , que pertenece exclusivamente al titular sobreviviente , y otro 50% que se prorratea entre los herederos , po r el sólo ministerio de la ley.
-Las reglas anteriores no se aplican en caso que el otro depositante o titular sobreviviente de la cuenta bipersonal sea un tercero, en cuyo caso éste puede acreditar qué parte de los fondos le pertenecen con todo medio de prueba legal.
-L a suma a ser declarada por los herederos del titular fallecido para los efectos del impuesto corresponde al 50% del monto que excede las cinco unidades tributarias anuales.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente, no es posible confirmar el criterio señalado en su presentación atendido que:
+a) El concepto legal de división no ha sido modificado, de suerte que el Oficio N° 3590 de 2009 se encuentra plenamente vigente para efectos tributarios.
+b) Si bien el Reglamento de Sociedades Anónimas autoriza a los accionistas para modificar sus respectivas participaciones en el proceso de división, lo anterior en nada altera los efectos tributarios que dichas modificaciones generan para los socios.
+c) En caso que los accionistas de la sociedad dividida, en virtud de una permuta o cualquier otro acto jurídico, modifiquen su porcentaje de participación en la sociedad continuadora y en la que nace como consecuencia de la división, procederá la facultad de tasación de este Servicio en los términos señalados en el artículo 64 del Código Tributario.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 2387, de 21.09.2015
+Oficio N° 2531, de 07.10.2015
 Subdirección Normativa
 Dpto. de Técnica Tributaria

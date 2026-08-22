@@ -6,69 +6,111 @@
 - Año: 2016
 - Fecha: 2016-11-18
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3108.htm
-- Hash SHA-256: d29bfcfa88eb6d4c561650fe56c95b453c9b12d18e1369f8c42b2238fd92652c
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3109.htm
+- Hash SHA-256: 1a579c5161cd8efc7e5e0841a261b4fbdc8065629de161edca7b09fd75331eae
 
 ## Resumen
 
-a) &ndash; Reglamento Sanitario de los Alimentos, Art. 480 &ndash; Ley N° 20.780, de 2014 &ndash; . (Ord. Nº 3109, de 18-11-2016) | Word Solicita aclarar aplicación de impuesto a bebidas azucaradas según Ley N° 20.780. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, Art. 2, N°1 &ndash; Ley N° 20.780, de 2014, Art. 2, N°1 &ndash; Circular N° 42, de 2015. (Ord. Nº 3108, de 18-11-2016) | Word Impuesto al Valor Agregado que afecta a la venta de terrenos eriazos, que se en…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 42, letra a) &ndash; Reglamento Sanitario de los Alimentos, Art. 480 &ndash; Ley N° 20.780, de 2014 &ndash; . (Ord. Nº 3109, de 18-11-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":42,"year":2015}
-- {"type":"circular","number":26,"year":1987}
-- {"type":"articulo","law":"LIVS","article":"2"}
+- {"type":"circular","number":6,"year":1986}
+- {"type":"oficio","number":635,"year":2016}
+- {"type":"oficio","number":1612,"year":2015}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, ART. 2, N°1 – LEY N° 20.780, DE 2014, ART. 2, N°1 – CIRCULAR N° 42, DE 2015. (Ord. Nº 3108, de 18-11-2016)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42, LETRA A) – REGLAMENTO SANITARIO DE LOS ALIMENTOS, ART. 480 – LEY N° 20.780, DE 2014 – OFICIO N° 635, DE 2016. (Ord. Nº 3109, de 18-11-2016)
 
-IMPUESTO AL VALOR AGREGADO QUE AFECTA A LA VENTA DE TERRENOS ERIAZOS, QUE SE ENCUENTRAN DESPROVISTOS DE EDIFICACIONES O CONSTRUCCIONES. ASIMISMO CONSULTA SI LAS SERVIDUMBRES DE TRÁNSITO, SOBRE TERRENOS URBANIZADOS, QUE CONSTITUIRÁ EN FAVOR DE SUS COMPRADORES, SE ENCUENTRAN GRAVADAS CON EL TRIBUTO EN COMENTO.
+SOLICITA ACLARAR APLICACIÓN DE IMPUESTO A BEBIDAS AZUCARADAS SEGÚN LEY N° 20.780.
 
-I.- ANTECEDENTES:
+I.- ANTECEDENTES
 
-XXXX es dueña de tres lotes agrícolas que próximamente serán vendidos a terceros en calidad de sitios eriazos, ya que éstos se encuentran actualmente desprovistos de todo tipo de edificaciones o construcciones.
+Señala que el N° 10 del artículo 2° de la Ley 20.780, reemplazó el inciso primero del artículo 42 del D.L. N° 825, de 1974, gravando con Impuesto Adicional, en lo pertinente, a las bebidas analcohólicas naturales o artificiales, energizantes o hipertónicas, jarabes sus sustitutos y aguas minerales o termales a las cuales se les adiciones colorante, sabor o edulcorantes, sin perjuicio de aplicar una sobretasa en los casos en que dichas especies presenten composición nutricional de elevado contenido de azucares.
 
-Los referidos terrenos se emplazan en un sitio de mayor extensión en el cual XXXX ha construido y pavimentado caminos interiores que permitirán a los futuros compradores de los lotes acceder a las autopistas urbanas y avenidas principales ubicadas en la comuna de Pudahuel. Asimismo, XXXX ha construido en los caminos señalados ciertas obras que permitirán a los compradores de los lotes conectarse a las redes de alcantarillado, electricidad, agua potable, entre otras.
+En relación a dicho impuesto consulta:
 
-No obstante lo anterior esos caminos y obras construidas por el contribuyente se emplazan en terrenos adyacentes de su propiedad y que no serán objeto de la venta. En otros términos, las obras o construcciones no se ubican al interior de los lotes que serán vendidos por éste.
+&iquest;Es aplicable el impuesto a los siguientes productos?
 
-De este modo, a la fecha en que se suscribirán los respectivos contratos de compraventa sobre los terrenos aludidos, XXXX constituirá en favor de los futuros compradores servidumbres de tránsito para que estos últimos puedan utilizar caminos interiores construidos por la primera.
+El té o el café listos para tomar, cuando son bebidas presentadas en diversos tipos de envase, por ejemplo, lata, botella, otros.
 
-Finalmente solicita confirmar lo siguiente:
+Las bebidas de fantasía, expedidas desde máquinas dispensadoras, por ejemplo en instalaciones de elaboración y expendio con consumo en el lugar.
 
-1.- Que la venta de los lotes de propiedad de XXXX no se encuentra afecta a IVA, ya que el objeto de la enajenación corresponde exclusivamente a terrenos eriazos o inmuebles por naturaleza los cuales se encuentran desprovistos de todo tipo de edificaciones o construcciones, toda vez que los caminos interiores dotados de pavimentación, desag&uuml;es y arranques para acceso a redes de energía eléctrica, alcantarillado y agua potable no se incluyen en la venta de los referidos lotes y;
+La cerveza sin alcohol.
 
-2.- Que, de conformidad con lo dispuesto en el artículo 847, del Código Civil, el contribuyente, en su calidad de dueño del predio sirviente, tiene la obligación legal de constituir servidumbre de tránsito en favor de los futuros compradores de los terrenos y, por consiguiente, no existe una convención destinada a transferir un derecho real constituido sobre bienes corporales inmuebles, como lo exige la definición de venta contenida en el actual artículo 2°, N° 1, de la Ley de IVA.
+Bebidas del tipo &ldquo;leche&rdquo; de soya o de almendra o de coco y otras semejantes de diversos productos vegetales.
 
-II.- ANÁLISIS:
+Productos en polvo que sirven para preparar bebidas, refrescos o semejantes, por ejemplo los refrescos en polvo de diversas marcas, en sus variedades tradicionales o &ldquo;light&rdquo;, o sin azúcar.
 
-El Art. 8°, del D.L. N° 825, grava con Impuesto al Valor Agregado las ventas y los servicios. Para estos efectos el Art. 2°, N° 1, del D.L. N° 825, modificado por el Art. 2, N° 1, de la Ley N° 20.780, establece en lo pertinente que debe entenderse por &ldquo;venta&rdquo; &ldquo;toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta&rdquo;.
+En relación a la letra b) del artículo 42 del D.L. 825, de 1974, &iquest;Podría confirmar que el límite para aplicar una diferencia en el impuesto será 6,25 g / 100 ml, mientras no exista una modificación en la Ley sobre Impuesto a las Ventas y Servicios? Expone, sobre lo anterior que el reglamento que ejecuta la Ley 20.606 es el Decreto N°13 de junio de 2015, y éste mismo establece cuáles son los alimentos afectos y los límites a aplicar. Dicho reglamento entró en vigencia el 27 de junio de este año 2016.
 
-Al respecto, la Circular N° 42, de 5/6/2015 que instruye sobre la materia, señala en su Título III, Subtítulo III.1, párrafo segundo, que &ldquo;Con la modificación introducida a la norma aludida ya no es necesario que el contribuyente que transfiere el dominio de un inmueble sea una &ldquo;empresa constructora&rdquo;, pudiendo serlo cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, quienes en la medida que se den todos los elementos del hecho gravado, van a estar afectas al Impuesto al Valor Agregado por la realización de la operación denominada &ldquo;venta&rdquo; en conformidad al N° 1 del artículo 2° del D.L. N° 825&rdquo;.
+II.- ANÁLISIS
 
-En los párrafos siguientes, la mencionada Circular agrega que la norma tuvo por objeto dejar claramente establecido que lo que se grava es la venta de un inmueble construido y no la mera venta de un terreno, razón por la cual el terreno debe descontarse de la base imponible afecta a IVA, cuando se trata de la venta de un inmueble construido. No así cuando se trata solamente de un terreno sin construcción alguna, en cuyo caso dicha venta no se encuentra gravada con Impuesto al Valor Agregado.
+En relación a su primera consulta, cabe tener presente que el artículo 2°, N° 10, de la Ley N° 20.780, publicada en el D.O. el 29 de septiembre de 2014, reemplazó en su totalidad el inciso primero del artículo 42° del D.L. N° 825, de 1974, incorporando en éste básicamente tres cambios, consistentes en (i) la modificación de las tasas del impuesto, (ii) la inclusión de las bebidas energizantes o hipertónicas, dentro de aquellas cuya venta o importación se encuentra afecta al Impuesto Adicional y (iii) la incorporación de un nuevo inciso en la letra a), del mencionado artículo 42°, que condiciona la tasa a aplicar a la composición nutricional de elevado contenido de azúcares, presente en las bebidas señaladas en dicha letra.
 
-Al respecto, cabe señalar que en Circular N° 26, de 1987 emitida por este Servicio, las urbanizaciones constituyen también, para efectos de la aplicación del gravamen, la construcción de un bien corporal inmueble. Estas instrucciones resultan plenamente vigentes aún después de las modificaciones introducidas al D.L. N° 825, tanto por la Ley N° 20.780, como por la Ley N° 20.899, toda vez que el hecho gravado sigue recayendo en la venta de inmuebles construidos, tal como se instruyó en Circular N° 42, de 2015, sólo que en la actualidad no es requisito para la configuración de éste que dichos inmuebles sean de propiedad de una empresa constructora y que hayan sido construidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella.
+De este modo, el actual artículo 42°, del D.L. N° 825 quedó, en lo pertinente, de la siguiente manera:
 
-Por lo tanto, la venta de un sitio urbanizado efectuada por un vendedor, conforme a lo que debe entenderse por tal, según lo dispuesto en el Artículo 2°, N° 3, del D.L. N° 825, se encuentra gravada con el tributo en comento, por tratarse, de acuerdo a lo señalado precedentemente, de la transferencia de un bien corporal inmueble construido, siempre que las obras respectivas se encuentren comprendidas, al menos en parte, en los terrenos que se venden.
+&ldquo;Sin perjuicio del impuesto establecido en el Título II de esta ley, las ventas o importaciones, sean estas últimas habituales o no, de las especies que se señalan en este artículo, pagarán un impuesto adicional con la tasa que en cada caso se indica, que se aplicará sobre la misma base imponible que la del impuesto al valor agregado:
 
-Por el contrario si la venta recae sobre sitios eriazos, sin ningún tipo de construcción, incluyendo en este concepto a las urbanizaciones, no se encontrará gravada con Impuesto al Valor Agregado por no constituirse a su respecto el hecho gravado venta, contenido en el Art. 2°, N° 1, del D.L. N° 825, toda vez que éste excluye en forma expresa de la aplicación del tributo a los terrenos.
+Bebidas analcohólicas naturales o artificiales, energizantes o hipertónicas, jarabes y en general cualquier otro producto que las sustituya o que sirva para preparar bebidas similares, y aguas minerales o termales a las cuales se les haya adicionado colorante, sabor o edulcorantes, tasa del 10%
 
-Respecto de las servidumbres de tránsito que el contribuyente pretende establecer en favor de los futuros compradores, cabe manifestar que la constitución de las mismas no se encuentra afecta a IVA, sin perjuicio que conforme Art. 577, del Código Civil, las servidumbres son derechos reales que se constituirán, en este caso, sobre un bien corporal inmueble urbanizado. Ello, porque conforme al Art. 8, en concordancia con el Art. 2°, N° 1, del D.L. N° 825, el Impuesto al Valor Agregado afecta sólo a la transferencia a título oneroso de los referidos derechos reales y no a la mera constitución de los mismos.
+En el caso que las especies señaladas en esta letra presenten la composición nutricional de elevado contenido de azúcares a que se refiere el artículo 5° de la Ley N° 20.606, la que para estos efectos se considerará existente cuando tengan más de 15 gramos (g) por cada 240 mililitros (ml) o porción equivalente, la tasa será del 18%.
 
-III.- CONCLUSIÓN:
+(&hellip;)&rdquo;
 
-De las normas legales precedentemente señaladas, se concluye en el caso de su consulta signada con el N° 1, que la venta de sitios eriazos, desprovistos de todo tipo de edificaciones y construcciones, incluyendo en este concepto a las urbanizaciones, no se encuentra afecta a IVA, por no configurarse a su respecto el hecho gravado básico de &ldquo;venta&rdquo;, contenido en el Art. 2°, N° 1, del D.L. N° 825, que excluye expresamente a los terrenos.
+Las instrucciones sobre esta materia fueron impartidas por este Servicio mediante Circular N° 51, de fecha 3 de octubre de 2014.
 
-Respecto de su segunda consulta, signada con el N° 2, cabe confirmar que la constitución de servidumbres de tránsito en favor de los futuros adquirentes de sitios eriazos, no se encuentra gravada con IVA, como consecuencia de no cumplirse el presupuesto establecido en el Art. 2°, N° 1, del D.L. N° 825, para afectar con el tributo en comento la operación, esto es, que se produzca la transferencia de derechos reales constituidos sobre bienes corporales inmuebles, toda vez que en el caso bajo análisis no existe transferencia de los mencionados derechos, sino que la mera constitución de los mismos.
+Sobre el particular y como se desprende del primer párrafo de este Título, las modificaciones efectuadas al artículo 42°, letra a), del D.L. N° 825, de 1974, no alteraron el hecho gravado, para efectos de la aplicación del tributo, en lo que dice relación con el concepto de bebida analcohólica. En este sentido, la modificación solamente incorporó a las bebidas energizantes o hipertónicas, al hecho gravado por el tributo adicional en comento.
+
+De lo anterior, se desprende que los productos considerados bebidas analcohólicas con anterioridad a la modificación legal, mantienen tal calidad y, por tanto, su forma de tributar, salvo por la tasa a aplicar, ya que conforme a la modificación incorporada por el artículo 2°, N° 10, de la ley N° 20.780, los productos que presenten una composición nutricional de elevado contenido de azúcares, el que para estos efectos se considerará existente cuando tengan más de 15 gramos (g) por cada 240 mililitros (ml) o porción equivalente, se verán afectados con una tasa del 18%. En cambio, aquellos productos que no excedan dichos parámetros les corresponden tributar con una tasa del 10%.
+
+En cuanto a la definición de bebida analcohólica utilizada para efectos de aplicar la tributación establecida en el artículo 42°, letra a), del D.L. N° 825, cabe aplicar, en virtud del principio interpretativo establecido en el artículo 20 del Código Civil, la definición técnica contenida en el artículo 478 del Decreto 977, de 1996, del Ministerio de Salud, Reglamento Sanitario de los Alimentos, el cual dispone que &ldquo;Son bebidas analcohólicas aquellas elaboradas a base de agua potable, carbonatada o no, y adicionadas de una o más de las siguientes sustancias: azúcares, jugos de fruta, extractos vegetales, ácidos, esencias, proteínas, sales minerales, colorantes y otros aditivos permitidos; que no contengan más de 0,5% en volumen de alcohol etílico, con excepción de los jarabes, los que podrán contener hasta 2,5 % en volumen de alcohol etílico&rdquo;[1].
+
+De este modo, todas aquellas bebidas que en su composición se ajusten a la definición antes señalada se encontrarán gravadas con el Impuesto Adicional contenido en el artículo 42°, letra a) del referido Decreto Ley, sin que sea relevante su envase o forma de presentación en la medida que no altere su calificación dentro de dicho concepto.
+
+Por otra parte, respecto de la interpretación que debe darse a la norma cuando se refiere a &ldquo;cualquier otro producto que las sustituya o que sirva para preparar bebidas similares&rdquo;, este Servicio se ha pronunciado señalando que ella debe entenderse referida exclusivamente a productos que sirvan para que el consumidor, en forma directa prepare bebidas analcohólicas, lo que excluye del impuesto a todos aquellos productos que constituyen materias primas para preparar bebidas analcohólicas, pero que no pueden ser reconstituidas directamente por el consumidor. Es así como la Circular N° 6, de fecha 10 de enero de 1986, señala que el tributo en comento aplica a los productos que sirven para la elaboración de bebidas analcohólicas, como polvos, pastas, etc., así como también a otros que permitan obtener bebidas artificiales al momento de consumirse.
+
+Asimismo, es conveniente aclarar que para efectos de la aplicación del Impuesto Adicional en comento, la frase &ldquo;o que sirva para preparar bebidas similares&rdquo; incluye también a aquellos productos que objetivamente sean aptos para el fin o propósito indicado, aun cuando en definitiva el adquirente no lo destine a ese objeto, ya que no es el uso lo gravado sino que la importación o venta de especies con la potencialidad suficiente para preparar tales bebidas[2].
+
+Por su parte, en relación a los jugos de frutas, cabe señalar que la mencionada Circular N° 6 de 1986, aclara el punto señalando que no quedan gravados con el Impuesto Adicional los jugos de frutas, en estado puro, incluyendo al que se reconstituya para mantener su condición líquida, sin adición artificial de ninguna especie, salvo los agentes de preservación necesarios para mantener el buen estado de consumo por un determinado número de días.
+
+Ahora bien, para verificar el cumplimiento de las características técnicas que debe tener un jugo de fruta para ser considerado en estado puro, hay que remitirse a los requisitos establecidos por la autoridad competente, en este caso el Ministerio de Salud, en los Artículos 482 y siguientes del Reglamento Sanitario de los Alimentos.
+
+En relación a la segunda consulta planteada, cabe, en primer término aclarar que la disposición que regula una sobretasa a las especies que presenten la composición nutricional de elevado contenido de azúcares corresponde, conforme al texto de la Ley N° 20.780, publicada en el Diario Oficial del día 29 de septiembre de 2014, al párrafo segundo de la letra a) del artículo 42° del D.L. N° 825, de 1974, y no, como se señala en su presentación a una letra b) del mismo artículo.
+
+Dicho lo anterior, cabe considerar que, sin perjuicio de que dicha norma se refiere al artículo 5 de la Ley N° 20.606, la cual dispone en lo pertinente y para efectos sanitarios que &ldquo;El Ministerio de Salud determinará los alimentos que, por unidad de peso o volumen, o por porción de consumo, presenten en su composición nutricional elevados contenidos de calorías, grasas, azúcares, sal u otros ingredientes que el reglamento determine (&hellip;)&rdquo;, el párrafo segundo de la letra a) del artículo 42 del D.L. N° 825, de 1974, dispone expresamente una regla para efectos tributarios, la cual señala que la composición nutricional de elevado contenido de azúcares se considerará existente cuando las especies en cuestión tengan más de 15 gramos (g) por cada 240 mililitros (ml) o porción equivalente, aumentando la tasa en estos casos del 10% al 18%.
+
+Como es posible apreciar, la norma considera expresamente la posibilidad de calcular dicho umbral en base a una porción equivalente, de tal forma que 6,25 gramos (g) de azúcares por cada 100 mililitros (ml) se encuentra dentro de la proporción establecida legalmente.
+
+III.- CONCLUSIÓN
+
+Todas aquellas bebidas que en su composición se ajusten a la definición técnica contenida en el artículo 478, del Decreto 977, de 1996, del Ministerio de Salud, Reglamento Sanitario de los Alimentos, se encontrarán gravadas con el Impuesto Adicional contenido en el artículo 42°, letra a) del D.L. N° 825, de 1974.
+
+En relación a los productos consultados cabe concluir:
+
+El té o el café corresponden a productos regulados en los artículos 452 y siguientes, y los artículos 455 y siguientes, respectivamente, del Reglamento Sanitario de los Alimentos, susceptibles de ser comercializados en distintas formas, en lo pertinente, preparados o líquidos como infusión o reconstituidos con agua, ya sea solo o en mezcla, de tal manera que en cuanto correspondan a categorías distintas de las bebidas analcohólicas, no se encontrarían gravados por el Impuesto Adicional de la letra a) del artículo 42 del D.L. N° 825, de 1974.
+
+Respecto de las bebidas de fantasía, cabe señalar, en conformidad a lo dispuesto en el artículo 480 del Reglamento Sanitario de los Alimentos, que corresponden a una especie del género bebida analcohólica, de tal manera que se encontrarían gravadas por el Impuesto Adicional en análisis, sin que sea relevante la forma en que sean expedidas.
+
+Respecto de la cerveza sin alcohol, la aplicación del tributo en comento procederá en cuanto la composición de dicho producto corresponda a aquella propia de las bebidas analcohólicas, situación de hecho que deberá ser determinada por el organismo técnico competente.
+
+Respecto de las bebidas del tipo &ldquo;leche&rdquo; de soya o de almendra o de coco y otras semejantes de diversos productos vegetales, la aplicación del tributo en comento procederá, de igual forma, en cuanto la composición de dicho producto corresponda a aquella propia de las bebidas analcohólicas, situación de hecho que deberá ser determinada por el organismo técnico competente.
+
+Respecto de los productos en polvo que sirven para preparar bebidas, refrescos o semejantes, tales como los refrescos en polvo de diversas marcas, en sus variedades tradicionales o &ldquo;light&rdquo;, o sin azúcar, cabe sostener que se encontrarían gravados con Impuesto Adicional por corresponder a productos que sustituyen o que sirven para preparar bebidas similares a las gravadas en la letra a) del artículo 42 del D.L. N° 825, de 1974.
+
+Finalmente, el umbral de 6,25 gramos (g) de azúcares por cada 100 mililitros (ml) se encuentra dentro de la proporción establecida legalmente en el párrafo segundo de la letra a) del artículo 42 del referido Decreto Ley, por constituir una porción equivalente.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 3108, de 18.11.2016
+Oficio N° 3109, de 18.11.2016
 
 Subdirección Normativa
 
 Dpto. de Impuestos Indirectos
+
+[1] En este sentido, Oficio N° 1612 de 2015.
+
+[2] Oficio N° 635 de 2016.

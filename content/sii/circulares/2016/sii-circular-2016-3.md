@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2016
-- Fecha: 2016-01-20
+- Fecha: 2016-01-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu3.pdf
 - Hash SHA-256: 0c3cf330c74189931da8f384fd429f096ac5542ee7cad7977dde8992cd7cad3e
 
 ## Resumen
 
-p> Fuente: Departamento de Catastro y Tasaciones Circular N° 4 del 20 de Enero del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2016 Fuente: Subdirección de Fiscalización Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2016 Fuente: Oficina De Gestión Normativa Circular N° 2 del 12 de Enero del 2016 Tablas del Impuesto Único De Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2016 e información adicional…
+scalización Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2016 Fuente: Oficina De Gestión Normativa
 
 ## Referencias detectadas
 

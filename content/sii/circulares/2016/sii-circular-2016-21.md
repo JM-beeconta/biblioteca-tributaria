@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2016
-- Fecha: 2016-04-22
+- Fecha: 2016-04-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu21.pdf
 - Hash SHA-256: 636c02ad37d687bf6a563025e6cb4b738e2b9df5b96cf78dd960907a82814f9f
 
 ## Resumen
 
-Fuente: Departamento de Asesoría Jurídica Circular N° 22 del 22 de Abril del 2016 tabla de Cálculos de Reajustes, Intereses y Multas mayo 2016 Fuente: Subdirección de Fiscalización Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.899, de 8 de febrero de 2016, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias. Fuente: Impuestos Directos Circular N° 20 del 19 de Abril del 2016 Instrucciones sobre las modificaciones efectuadas por…
+scalización Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.899, de 8 de febrero de 2016, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

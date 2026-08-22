@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Tributario, Art. 126 &ndash; Decreto Ley N° 889, de 1975, Art. 13 &ndash; Oficio N° 1893, de 1998. (Ord. Nº 847, de 04-04-2016) | Word Solicitud de devolución de Impuesto Único de Segunda Categoría pagado en exceso. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art 31 &ndash; Circulares N° 41 y 60, de 1999 &ndash; . (Ord. Nº 846, de 04-04-2016) | Word Situación tributaria de una beca de estudio otorgada a un trabajador para la realización de un Mas…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art 31 &ndash; Circulares N° 41 y 60, de 1999 &ndash; . (Ord. Nº 846, de 04-04-2016) |
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 3 del 10 de Enero del 2014 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2014 Fuente: Oficina Gestión Normativa Tablas de Impuesto único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa Circular N° 1 del 08 de Enero del 2014 Informa datos relacionados…
+oacute;n Normativa Tablas de Impuesto único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

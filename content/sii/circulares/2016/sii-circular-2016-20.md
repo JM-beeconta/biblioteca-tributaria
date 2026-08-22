@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 21 del 19 de Abril del 2016 Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.899, de 8 de febrero de 2016, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias. Fuente: Impuestos Directos Instrucciones sobre las modificaciones efectuadas por la Ley N°20.899, a la Ley N°20.780, respecto del régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del…
+Impuestos Directos Instrucciones sobre las modificaciones efectuadas por la Ley N°20.899, a la Ley N°20.780, respecto del régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2015 o 1° de enero de 2016, y hasta el 31 de diciembre de 2016, según se indica. Modifica en parte instrucciones contenidas en Circular N°69, de 2014. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

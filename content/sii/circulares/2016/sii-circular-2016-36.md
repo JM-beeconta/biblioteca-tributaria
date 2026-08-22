@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2016
-- Fecha: 2016-06-22
+- Fecha: 2016-06-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu36.pdf
 - Hash SHA-256: efb1172d7916737fa56621ddb3df5889342a11998c22cfd2e13a15f6b0569c9f
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Circular N° 37 del 22 de Junio del 2016 Tabla de cálculos de Reajustes, Intereses y Multas julio 2016 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2016 y el 9 de julio del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 35 del 15 de Junio del 2016 Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2016, e información adicional re…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2016 y el 9 de julio del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 65 del 11 de Noviembre del 2016 Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de diciembre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2016 y el 9 de diciembre del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 63 del 24 de Octubre del 2016 Tabla de cálculos de Reajustes, Intereses y Multas n…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2016 y el 9 de diciembre del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

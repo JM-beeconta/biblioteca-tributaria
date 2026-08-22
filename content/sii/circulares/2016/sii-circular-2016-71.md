@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Instrucciones sobre el régimen de tributación aplicable a los Fondos administrados por Administradoras de Fondos de Terceros y Carteras Individuales, establecido en la Ley N° 20.712, conforme a las modificaciones efectuadas por las leyes 20.780 y 20.899, y que rigen a partir del 1 de enero de 2017; así como sobre las modificaciones efectuadas por la Ley N° 20.780 al artículo 108 y la Ley N° 20.956 al artículo 104, ambos de la Ley sobre Impuesto a la Renta (LIR). Fuente: Impuestos Directos Circular…
+Instrucciones sobre el régimen de tributación aplicable a los Fondos administrados por Administradoras de Fondos de Terceros y Carteras Individuales, establecido en la Ley N° 20.712, conforme a las modificaciones efectuadas por las leyes 20.780 y 20.899, y que rigen a partir del 1 de enero de 2017; así como sobre las modificaciones efectuadas por la Ley N° 20.780 al artículo 108 y la Ley N° 20.956 al artículo 104, ambos de la Ley sobre Impuesto a la Renta (LIR). Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

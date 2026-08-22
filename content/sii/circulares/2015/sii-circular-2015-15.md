@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2015
-- Fecha: 2015-02-24
+- Fecha: 2015-02-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu15.pdf
 - Hash SHA-256: f82478a1bf2f9c1b542f75a61c6fc7839f51cc3239cc50b6519632fb733c899a
 
 ## Resumen
 
-rmativa Circular N° 16 del 24 de Febrero del 2015 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 1 de la Ley de la Renta. Fuente: Oficina Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas marzo 2015 Fuente: Subdirección de Fiscalización Circular N° 14 del 11 de Febrero del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2015 y el 9 de marzo del año 2015.…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas marzo 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

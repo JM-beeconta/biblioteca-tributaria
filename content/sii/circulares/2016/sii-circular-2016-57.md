@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Fiscalización Circular N° 58 del 09 de Septiembre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2016 y el 9 de octubre del año 2016 Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de octubre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 56 del 23 de Agosto del 2016 Tabla de Cálculos de Reaju…
+oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de octubre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

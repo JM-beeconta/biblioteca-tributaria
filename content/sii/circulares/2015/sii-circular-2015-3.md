@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 3
 - Año: 2015
-- Fecha: 2015-01-15
+- Fecha: 2015-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu3.pdf
 - Hash SHA-256: c0fe84d9e37027e943c6b348c32b73a7a0d6fb353d78ae52c8796d04337be4c1
 
 ## Resumen
 
-Fuente: Oficina Gestión Normativa Circular N° 4 del 15 de Enero del 2015 Protocolo de fiscalización de la exención de impuesto territorial que favorece al deporte. Fuente: Subdirección Avaluaciones Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 2 del 09 de Enero del 2015 Informa factores a utilizar para los efectos de determinar el increm…
+ute;n Avaluaciones Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

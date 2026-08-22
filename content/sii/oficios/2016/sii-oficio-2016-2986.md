@@ -6,36 +6,39 @@
 - Año: 2016
 - Fecha: 2016-08-01
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2130.htm
-- Hash SHA-256: f9ead3d943cdd8b4a307cad109e92865e43c00643d447eebf9c1ad844cdfabf7
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2140.htm
+- Hash SHA-256: 62a2666a3cb35233d5450da05adfae728b02797d7bd51eabbc22c9e37cfc2fc5
 
 ## Resumen
 
-> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42, N°1, Art. 43, N°1 &ndash;Ley N° 18.225, Art. 2 &ndash; . (Ord. Nº 2140, de 01-08-2016) | Word Tributación que afecta al excedente originado en la desafiliación al sistema de pensiones. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Decreto Ley N° 3063, de 1979, Art. 46 &ndash; Decreto con Fuerza de Ley N° 1, Art. 2, letra d). (Ord. Nº 2130, de 29-07-2016) | Word Solicita se modifique la letra d) del artículo 2° del DFL N° 1, de 1986. Renta &ndas…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42, N°1, Art. 43, N°1 &ndash;Ley N° 18.225, Art. 2 &ndash; . (Ord. Nº 2140, de 01-08-2016) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":2986,"year":2012}
+- {"type":"articulo","law":"LIR","article":"42 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO LEY N° 3063, DE 1979, ART. 46 – DECRETO CON FUERZA DE LEY N° 1, ART. 2, LETRA D). (ORD. N° 2130, DE 29.07.2016)
-SOLICITA SE MODIFIQUE LA LETRA D) DEL ARTÍCULO 2° DEL DFL N° 1, DE 1986.
-Mediante el ordinario indicado en el antecedente se ha trasladado a este Servicio su carta presentada con fecha 27.11.2015 en la Presidencia de la República. I ANTECEDENTES
-De acuerdo con su presentación, la institución que representa, XXXXXX, tiene entre otros fines, investigar, crear, desarrollar y difundir la cultura y las ciencias sociales, inspirada en el legado de TTTTT.
-En ese contexto agrega que, con el propósito de financiar sus actividades en el ámbito de las Ciencias Sociales, han iniciado las gestiones para emitir certificados de donación bajo el DL N° 3.063 (Ley de Rentas Municipales), para lo cual deben cumplir con lo dispuesto en la letra d), del artículo 2, del DFL N° 1, de 1986, que fija requisitos para descuento tributario de las donaciones a instituciones que indica, conforme al cual, para los efectos tributarios a que se refiere ese DFL, las instituciones donatarias que tengan por finalidad la creación, investigación o difusión de las artes y las ciencias o que realicen programas de acción social en beneficio exclusivo de los sectores de mayor necesidad, deben cumplir, entre otros requisitos, “…acreditar, mediante certificado que se indica a continuación, que durante los últimos dos años han llevado a cabo programas estables y públicos destinados al cumplimiento de su objetivo y de su divulgación a través de medios especializados. El certificado correspondiente deberá ser emitido en un plazo máximo de 60 días contado desde su requerimiento, por una Facultad de la especialidad que desarrolla la donataria perteneciente a una Universidad reconocida por el Estado con sede en Santiago, o por el Consejo Superior de Ciencia establecido por el decreto con fuerza de ley N° 33, de Educación Pública, de 1981, siempre que se cumplan, a su juicio exclusivo, los requisitos establecidos en esta letra.”
-Agrega, que a su juicio, la precitada norma, contraviene lo dispuesto en el artículo 19° N° 2 de la Constitución Política del Estado, toda vez que discrimina sin fundamento aparente a las Universidades que no tienen sede en Santiago en su capacidad de acreditar el requisito señalado. Esto impacta a las organizaciones establecidas a lo largo de Chile que, para cumplir la citada norma, deben desplazarse a Santiago y realizar gestiones ante universidades que son ajenas a su quehacer regional. Por las razones indicadas, solicitan respetuosamente instruir al Ministerio de Hacienda que modifique el citado DFL, eliminando la frase “con sede en Santiago”.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1, ART. 43, N°1 –LEY N° 18.225, ART. 2 – OFICIO N° 2986, DE 2012. (ORD. N° 2140, DE 01.08.2016)
+TRIBUTACIÓN QUE AFECTA AL EXCEDENTE ORIGINADO EN LA DESAFILIACIÓN AL SISTEMA DE PENSIONES.
+Se solicita a este Servicio un pronunciamiento sobre la tributación que afecta a los excedentes originados en el cambio voluntario de sistema previsional. I ANTECEDENTES
+En su presentación la recurrente expone que, con motivo de la desafiliación al sistema de pensiones regido por el Decreto Ley N° 3.500 de 1981, quedó con un saldo a favor por la suma de $7.239.258, el cual está sujeto al pago del Impuesto Único de Segunda Categoría, según lo instruido en el Oficio N° 2986 de 2012, de este Servicio.
+Respecto de esa obligación señala que se le ha descontado impuesto por las remuneraciones percibidas durante 35 años de trabajo como docente y que no correspondería que se le cobre impuesto nuevamente por el excedente originado en la desafiliación del sistema de pensiones.
+Por las razones que expone, solicita se le devuelva el impuesto retenido.
 II ANÁLISIS
-El artículo 46 del DL Nº 3.063 de 1979, sobre Rentas Municipales, cuyo texto refundido y sistematizado está contenido en el Decreto Supremo Nº 2.385 de 1996, del Ministerio del Interior, establece que los contribuyentes que de acuerdo con lo dispuesto en la Ley de la Renta, declaren sus rentas efectivas demostradas mediante un balance general y que efectúen donaciones a las entidades o instituciones que señala, pueden rebajar como gasto las sumas pagadas por tal concepto en la determinación de la renta líquida imponible gravada con los tributos que establece dicha ley, sólo en cuanto no excedan del 10% de la base imponible del impuesto que afecta al donante.
-Por otra parte, mediante el DFL Nº 1 de 1986, del Ministerio de Hacienda, se establecieron los requisitos que tales instituciones donatarias deben cumplir para que las donaciones que reciban surtan los efectos tributarios respecto de los donantes.
-Ahora bien, en lo que dice relación específicamente con el requisito señalado en el artículo 2°, letra d), del DFL N° 1, a que hace referencia su presentación, es menester tener presente que la certificación exigida no se limita exclusivamente a la proporcionada por una facultad de la especialidad que desarrolla la donataria perteneciente a una Universidad reconocida por el Estado con sede en Santiago, sino que también puede ser proporcionada por el Consejo Superior de Ciencias establecido por el DFL N° 33 de 1981, que crea el fondo nacional de desarrollo científico y tecnológico y fija normas de financiamiento de la investigación científica y tecnológica.
-Finalmente, es pertinente aclarar que el certificado tampoco requiere ser emitido por la Sede en Santiago de la respectiva Universidad, sino que por una facultad de la especialidad que desarrolla la donataria “perteneciente a una Universidad” reconocida por el Estado y con sede en Santiago. Por tanto, nada impide que, una facultad ubicada en alguna Región del país emita el certificado, siempre y cuando dicha facultad de la especialidad que desarrolla la donataria pertenezca a una Universidad reconocida por el Estado, con sede en Santiago.
+Sobre el particular, cabe señalar que este Servicio ha emitido varios pronunciamientos precisando el tratamiento tributario de los excedentes que los trabajadores afiliados al sistema de pensiones de capitalización individual obtenidos al desafiliarse de dicho sistema, así como el fundamento legal de ese tratamiento.
+Sin perjuicio de lo anterior, es conveniente aclarar una cuestión deslizada en su presentación, en el sentido que, al gravarse con Impuesto Único de Segunda Categoría el saldo a favor obtenido tras la desafiliación, se verificaría un doble pago de impuesto.
+Al respecto cabe señalar que la base imponible para la aplicación del Impuesto Único de Segunda Categoría establecido en el artículo 42 N° 1 de la Ley sobre Impuesto a la Renta (LIR), en relación al artículo 43 N° 1 del mismo cuerpo legal, está conformado por el total de las remuneraciones mensuales pagadas por el empleador, menos las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro.
+Es decir, las remuneraciones destinadas a la formación de fondos de previsión y retiro se liberan de impuesto al momento de su percepción, pero esta liberación es sólo temporal. Por esta razón, tal como se informa en el oficio N° 2986 de 2012, citado en su presentación, se paga el impuesto que corresponda al momento de percibirse una pensión de jubilación o excedente, como en este caso.
+De acuerdo con lo anterior, en ningún caso se produce un doble pago de impuestos como se indica en la presentación.
 III CONCLUSIÓN
-Conforme lo expuesto precedentemente, téngase por absuelta la consulta formulada.
+Conforme lo expuesto precedentemente se confirma lo resuelto por este Servicio, entre otros, en el Oficios N° 2986 de 2012; agregando que no corresponde devolver el impuesto retenido al percibir el excedente originado en el cambio voluntario del sistema previsional, conforme al artículo 2° de la Ley N° 18.225.
+Por otra parte, atendido que en su momento las remuneraciones destinadas a la formación de fondos de previsión y retiro se encontraban liberadas de impuesto al momento de su percepción, no se verifica un doble pago de impuestos por el hecho de gravarse la pensión de jubilación o excedente, al momento de su percepción.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 2130, de 29.07.2016
+Oficio N° 2140, de 01.08.2016
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+Dpto. de Técnica Tributaria.

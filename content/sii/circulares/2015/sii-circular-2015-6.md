@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección Jurídica Circular N° 7 del 15 de Enero del 2015 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2015 Fuente: Oficina Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2015 y el 9 de febrero del año 2015. Fuente: Oficina Gestión Normativa Circular N° 5 del 15 de Enero del 2015 Informa datos relacionados con la aplicación del sistema de corrección monetaria, rea…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2015 y el 9 de febrero del año 2015. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

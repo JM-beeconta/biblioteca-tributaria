@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2014
-- Fecha: 2014-03-17
+- Fecha: 2014-03-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu14.pdf
 - Hash SHA-256: bcb9b0258f07051215988694f7590bd89181833abc75df96bb03304de61f5e76
 
 ## Resumen
 
-' class='modificada'>Circular N° 15 del 17 de Marzo del 2014 Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a la Ley sobre Impuesto a la Renta, rela…
+Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a la Ley sobre Impuesto a la Renta, relacionadas con la tributación internacional. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

@@ -4,56 +4,42 @@
 - Tipo: oficio
 - Número: 1835
 - Año: 2016
-- Fecha: 2016-01-20
+- Fecha: 2016-01-01
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja157.htm
-- Hash SHA-256: 20b5b64c8eacdf6a2b2755b3b655dc809a209ca96acafbb6ccc5d50c49d4e990
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja158.htm
+- Hash SHA-256: 3c26a83a30dad20ca4fc2182d71ab5dcbda273d4148d2f57878e0ccf0379c48e
 
 ## Resumen
 
-entas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, letra l) &ndash; . (Ord. Nº 158, de 20-01-2016) | Word Consulta sobre si cuotas por pago de contrato de Leaseback se encuentran gravadas con IVA. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 2, N°1, Art. 21, N°&acute;s 2 y 3, Art. 55, Art. 57 &ndash; Ley N° 19.496, de 1997, Art. 20, Art. 21. (Ord. Nº 157, de 20-01-2016) | Word Procedencia de la emisión de documento tributario…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8, letra l) &ndash; . (Ord. Nº 158, de 20-01-2016) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":1835,"year":2015}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1, ART. 21, N°´S 2 Y 3, ART. 55, ART. 57 – LEY N° 19.496, DE 1997, ART. 20, ART. 21. (ORD. N° 0157, DE 20.01.2016)
-PROCEDENCIA DE LA EMISIÓN DE DOCUMENTO TRIBUTARIO EN CASO DE REEMPLAZO DE BIENES DEFECTUOSOS O VENCIDOS EN CUMPLIMIENTO DE LA OBLIGACIÓN LEGAL DE GARANTÍA.
-
-Se ha solicitado un pronunciamiento a este Servicio, respecto de la procedencia de emitir documentación tributaria en caso de reemplazo de bienes defectuosos o vencidos en cumplimiento de la obligación legal de garantía, mediante la confirmación de los criterios operativos que expone. I.- ANTECEDENTES:
-XXXX se dedica a la distribución de alimentos perecibles, tales como snack, galletas, chocolates, productos horneados, avenas y cereales, los que en sus distintos formatos, a esta fecha ascienden a 215 tipos de productos.
-El proceso de distribución y venta de la empresa se efectúa a través de tres canales, a saber:
-a) Canal Mayorista y Supermercados
-Este canal, desde el punto de vista tributario, sería el de menor complejidad, puesto que todas las transacciones son documentadas. Por la alta rotación de venta que tienen estos productos en los canales mayoristas y supermercados, generalmente la mercancía no sufre daño u obsolescencia por vencimiento, en el evento que ello ocurra, los clientes efectúan devolución de estos productos, para lo cual se emite guía de despacho y junto con la recepción del producto, la empresa emite la respectiva nota de crédito.
-b) Canal de pre-venta
-Este proceso se efectúa en el comercio detallista, previo a la venta. El procedimiento consistiría en efectuar una visita previa al cliente por parte de un vendedor (pre-vendista), quien recepciona el pedido y prepara la nota de venta; posteriormente, un despachador hace entrega de la mercadería solicitada en la respectiva factura. El despachador sólo entrega productos, no está facultado para acciones comerciales. La fecha de vencimiento varía entre los 60 días y un año, dependiendo del tipo de producto.
-En este proceso los clientes solicitan la reposición de los productos vencidos o dañados, reposición que es respaldada con guía de despacho.
-c) Canal comerciantes detallistas (camionetas).
-Este proceso de distribución es efectuado directamente por los vendedores, quienes desarrollan una ruta de ventas, y consiste en trasladar la cantidad de mercadería que se estima será vendida durante el día respaldada con guía de despacho. Por cada venta, el vendedor emite la factura respectiva. En el evento que el cliente que está siendo atendido solicite cambio de producto por daño o vencimiento, el vendedor efectúa el canje y retorna estos productos a la empresa, para lo cual no emite otro documento, dado que la guía de despacho del día respalda el traslado de vuelta de los productos.
-En este sentido, manifiesta que en su opinión y teniendo presente lo expresado por este Servicio en los oficios 6602 de 1976, 4823 de 1976 y 2919 de 2006, el reemplazo a título gratuito de bienes corporales muebles propios del giro del vendedor, no constituye una venta, por el contrario constituirían una perdida para la empresa, por lo que no procedería la emisión de nota de crédito ni factura, sólo la emisión de guía de despacho en los casos que proceda.
-Por lo anterior, solicita emitir un pronunciamiento que confirme la forma de operar en la restitución de los productos dañados o vencidos a sus clientes o, en su defecto, señalar el correcto procedimiento a seguir en esta materia.
-II.- ANÁLISIS:
-El artículo 2° del D.L. N° 825, de 1974, en su numeral 1° define venta como “toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles de propiedad de una empresa constructora construidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta”.
-De acuerdo a lo señalado en su presentación y a lo dispuesto en los artículos 20° y 21° de la Ley 19.496, de 1997, sobre protección de los derechos de los consumidores, la entrega que el vendedor hace a su comprador de productos nuevos en reemplazo de productos que, encontrándose dentro del período de garantía establecido por las partes o por la ley presentaron diferencias en su fabricación, constituye una operación de carácter gratuita para el comprador, es decir, respecto de la cual no debe efectuar desembolso alguno en razón del deber de garantía.
-El artículo 55° del D.L N° 825 en su parte final señala lo siguiente “La guía de despacho a que se refiere el inciso cuarto, o la factura o boleta respectiva, deberá exhibirse, a requerimiento del Servicio de Impuestos Internos, durante el traslado de especies afectas al Impuesto al Valor Agregado, realizado en vehículos destinados al transporte de carga. Para estos efectos, el vendedor o prestador de servicios deberá emitir guías de despacho también cuando efectúe traslados de bienes corporales muebles que no importen ventas”.
-Por otra parte, el artículo 57°, inciso 1°, del mismo cuerpo legal, señala: “Los vendedores y prestadores de servicios afectos a los impuestos del Título II, del artículo 40° y del Párrafo 3° del Título III deberán emitir notas de crédito por los descuentos o bonificaciones otorgados con posterioridad a la facturación a sus compradores o beneficiarios de servicios, como, asimismo, por las devoluciones a que se refieren los números 2° y 3° del artículo 21°”.
-De lo anterior es posible desprender, en primer lugar, que conforme lo ha señalado reiteradamente este Servicio y, tal como usted lo ha expresado, la mera reposición de productos en cumplimiento del deber legal de garantía no constituye una venta, por cuanto no concurren a su respecto los requisitos que este supuesto impositivo exige, en razón de su gratuidad, consecuentemente no procede la emisión de boletas o facturas, documentos destinados a respaldar este tipo de operaciones.
-La sola reposición de los productos bajo las condiciones indicadas, no implicarían ni aumento ni disminución del impuesto facturado, por cuanto solo se produce un reemplazo del producto por otro idéntico, consecuentemente, no se está en ninguno de los casos que la ley autoriza a emitir nota de crédito o débito. No así en el caso que el cumplimiento de la garantía legal se efectúe mediante la devolución del producto, evento en el cual procederá la emisión de la respectiva nota de crédito de acuerdo a lo establecido en el artículo 57° antes detallado.
-No obstante, en este caso se está en presencia de la situación regulada en el artículo 55° del DL N° 825, de 1974, ya citado, por cuanto a pesar de no existir una venta, se realiza el traslado de especies afectas al Impuesto al Valor Agregado, en vehículos destinados al transporte de carga, por lo que dicho traslado debe ser amparado con una guía de despacho.
-Ahora bien, a la luz de las normas previamente señaladas, respecto de la operatoria descrita en la letra a) del N° 3 de su presentación, es posible desprender que no se presenta una mera reposición, sino una devolución de productos, igualmente en cumplimiento del deber de garantía, circunstancia que difiere del supuesto analizado previamente y respecto del cual procederá la emisión de una nota de crédito, toda vez que se estaría en presencia del supuesto que autoriza la emisión de dicho documento, esto es una disminución del impuesto facturado, encontrándose conforme a la norma la operatoria descrita.
-Respecto del otro canal de distribución, signado en la letra b) de dicho número, es posible señalar que si el traslado o entrega de productos se realiza con motivo de una reposición gratuita en los términos señalados precedentemente, deberá ser respaldada mediante la respectiva guía de despacho, la que debe dar cuenta que su salida de inventario se debe al cumplimiento del deber de garantía legal.
-Con relación al procedimiento mencionado en la letra c) del referido número, al no existir una venta ni devolución respecto de los productos canjeados o sustituidos, no procede la emisión de algún documento tributario, siendo la guía de despacho emitida el documento que ampara el traslado de dichas mercaderías.
-
-III.- CONCLUSIÓN:
-Conforme a lo anterior, es posible concluir que el mero reemplazo de productos de manera gratuita hecho en virtud del deber de garantía legal, no constituye una venta, consecuentemente no procede la emisión de boletas o facturas, como tampoco notas de crédito o débito por cuanto en la condición de gratuidad, no hay una modificación en el impuesto previamente facturado.
-Consecuentemente para respaldar el traslado de dichos productos, se deberá emitir una guía de despacho, en la que se indique expresamente que la salida del bien de inventario de la empresa es a causa del cumplimiento del deber de garantía legal o convencional.
-Teniendo presente lo expuesto, es posible señalar que la operatoria descrita en los tres canales de distribución se encuentra conforme a las disposiciones que regulan la materia.
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA L) – OFICIO N° 1835, DE 2015. (ORD. N° 0158, DE 20.01.2016)
+CONSULTA SOBRE SI CUOTAS POR PAGO DE CONTRATO DE LEASEBACK SE ENCUENTRAN GRAVADAS CON IVA.
+Se ha solicitado a esta Dirección Nacional pronunciamiento respecto de la interpretación y aplicación de normas del D.L. N° 825, en relación al siguiente caso. I.- ANTECEDENTES
+Los consultantes manifiestan que la administración municipal de XXX pretende llevar a votación del Concejo Municipal una operación de leaseback en la cual se enajenaría el inmueble municipal denominado TTTT, edificación continua al xxx y donde funcionan las direcciones municipales y no han sido claros en especificar si la operación resulta gravada o no con IVA.
+Indican que el contrato de arriendo con opción de compra que nace de la operación Leaseback, es de tracto sucesivo y por ende, las cuotas que se devenguen con posterioridad al 1 de enero de 2016 sí estarían gravadas con el Impuesto al Valor Agregado.
+Al respecto se solicita un pronunciamiento en relación con las cuotas que se devengan tras una operación de Leaseback se encuentran gravadas con IVA.
+II.- ANÁLISIS
+Sobre el particular, cabe señalar en primer lugar que las operaciones sustentadas en un contrato de Leaseback se caracterizan porque del contenido de dicho acto se derivan dos operaciones claramente diferenciadas una de otra. Se trata de la venta que hace una persona de un bien de su propiedad a un tercero quien, acto seguido, se lo entrega en arrendamiento a aquél con el derecho de ejercer la opción de compra sobre dicho bien en un tiempo determinado. En resumen, en la especie se trata de un contrato de compraventa de un bien inmueble, acompañado o asociado a un contrato de arriendo con opción de compra (leasing), recaído sobre el mismo bien raíz .
+En el caso bajo análisis, la operación a celebrar recaería sobre un bien raíz de propiedad de la Municipalidad de XXXX con el fin de venderlo a un tercero, para posteriormente celebrar un contrato de arriendo con opción de compra sobre el mismo bien.
+Sobre el particular, la nueva letra l) del artículo 8° del D.L. N° 825 sobre Impuesto a las Ventas y Servicios, la cual entrará a regir el 1 de enero de 2016, establece:
+“Artículo 8°.- El impuesto de este Título afecta a las ventas y servicios. Para estos efectos serán consideradas también como ventas y servicios, según corresponda:
+l) Las promesas de venta, y los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles realizadas por un vendedor. Para los efectos de la aplicación de esta ley, estos últimos contratos se asimilarán en todo a las promesas de venta”.
+La norma vigente al 31 de diciembre de 2015 establece como hechos gravados las promesas de venta de bienes corporales inmuebles de propiedad de una empresa constructora, y los contratos de arriendo con opción de compra que celebren estas empresas, en ambos casos respecto de inmuebles de su giro.
+Con la modificación efectuada a la letra l), del artículo 8°, del D.L. N° 825 quedarán gravadas con IVA las promesas de venta y los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles realizadas por un vendedor.
+En ese sentido, con fecha 14 de julio de 2015 se emitió, por parte de este Servicio, el Oficio N° 1835, en el cual se estableció, entre otros hechos, que si fue firmado un contrato de arrendamiento con opción de compra sobre bienes corporales inmuebles por un vendedor con anterioridad al 1° de enero de 2016, los cánones que se paguen después de la fecha mencionada, se deberán gravar con IVA en conformidad a lo dispuesto en la nueva letra l), del artículo 8°, del D.L. N° 825.
+III.- CONCLUSIÓN
+Confirmando el criterio ya expresado por este Servicio en el Oficio N° 1835, de 2015, los cánones devengados a partir del 1° de enero de 2016 de un contrato de arriendo con opción de compra de un bien corporal inmueble suscrito con anterioridad a dicha fecha, deberán gravarse con IVA en la medida que cumplan con lo dispuesto en la nueva letra l), del artículo 8° del D.L. N° 825 vigente a partir del 1° de enero de 2016.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 157, de 20.01.2016
+Oficio N° 0158, de 20.01.2016
 Subdirección Normativa
-Dpto. de Impuestos Indirectos.
+Dpto. de Impuestos Indirectos

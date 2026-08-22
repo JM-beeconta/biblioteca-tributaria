@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2014
-- Fecha: 2014-01-23
+- Fecha: 2014-01-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu4.pdf
 - Hash SHA-256: b8f52704ea5608ddb145c516687c5f3d2f26e3855e7b8d2f6c0bab4698e172c9
 
 ## Resumen
 
-dos Fuente: Subdirección Avaluaciones Circular N° 5 del 23 de Enero del 2014 Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2014 Fuente: Subdirección de Fiscalización valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2014 y el 9 de febrero del año 2014 Fuente: Oficina de Gestión Normativa Circular N° 3 del 10 de Enero del 2014 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2014 Fuente: Oficina Gestión Normativ…
+scalización valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2014 y el 9 de febrero del año 2014 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

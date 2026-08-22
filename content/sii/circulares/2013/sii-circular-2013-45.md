@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2013
-- Fecha: 2013-09-25
+- Fecha: 2013-09-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu45.pdf
 - Hash SHA-256: 2d03253b7b49e86e4818c17842553d9c41ad9911706f4601faba15f132d30d19
 
 ## Resumen
 
-des que indica Fuente: Subdirección Jurídica Circular N° 46 del 25 de Septiembre del 2013 Tabla de Calculos de Reajustes, Intereses y Multas Octubre 2013 Fuente: Subdireccion de Fiscalizacion Instruye sobre la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, con motivo de la sustitución de dicho artículo por la Ley N°20.630 de 2012 Fuente: Impuestos Directos Circular N° 44 del 10 de Septiembre del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre…
+n de Fiscalizacion Instruye sobre la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, con motivo de la sustitución de dicho artículo por la Ley N°20.630 de 2012 Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

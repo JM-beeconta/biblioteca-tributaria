@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 73
 - Año: 2015
-- Fecha: 2015-08-14
+- Fecha: 2015-08-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu73.pdf
 - Hash SHA-256: 24b0e646139dbdc1ad7bb64fdda8954e79561cf11bec7a7941d4f00ec33cb30f
 
 ## Resumen
 
-te: Subdirección de Fiscalización Circular N° 74 del 14 de Agosto del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2015 y el 9 de septiembre del año 2015. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 72 del 23 de Julio del 2015 Tabla de Cálculos de re…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2013
-- Fecha: 2013-06-20
+- Fecha: 2013-06-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu32.pdf
 - Hash SHA-256: 47caea5751994f09c3495393493e81e5ebd085465b6100560662fbb5475bdb8e
 
 ## Resumen
 
-. Circular N° 33 del 20 de Junio del 2013 Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la ley N°19.537 Fuente: Subdirección de Avaluaciones. Tabla de Cálculos de reajustes, intereses y multas julio 2013. Fuente: Subdirección de Fiscalización Circular N° 31 del 17 de Junio del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2013 y el 9 de julio del año 2013. Fuente: Oficina Ges…
+n de Avaluaciones. Tabla de Cálculos de reajustes, intereses y multas julio 2013. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

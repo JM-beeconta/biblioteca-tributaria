@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2016
-- Fecha: 2016-01-13
+- Fecha: 2016-01-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu2.pdf
 - Hash SHA-256: e21507c91efe7be2d04afcf3b12085a6cb7649fdc453ea641c79cf7cfee69cd5
 
 ## Resumen
 
-ottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 3 del 13 de Enero del 2016 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2016 Fuente: Oficina De Gestión Normativa Tablas del Impuesto Único De Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2016 e información adicional relacionada con dichos Tributos. Fuente: Oficina de Gestión Normativa Circular N° 1 del 07 de Enero del 2016 Informa datos relacionados c…
+oacute;n Normativa Tablas del Impuesto Único De Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2016 e información adicional relacionada con dichos Tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2013
-- Fecha: 2013-03-12
+- Fecha: 2013-03-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu12.pdf
 - Hash SHA-256: 8a8cc199aa049f51368a6d5cfea0e48e9e816dc565f9087bf11726c0ce802797
 
 ## Resumen
 
-n> Circular N° 13 del 12 de Marzo del 2013 Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2013 y el 9 de abril del año 2013. Fuente: Oficina de Gestión Normativa. Circular N° 11 del 04 de Marzo del 2013 Nuevas escalas y tasas para la determinación de los impuestos qu…
+acute;n Normativa. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2013 y el 9 de abril del año 2013. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

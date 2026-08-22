@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 66
 - Año: 2014
-- Fecha: 2014-12-24
+- Fecha: 2014-12-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu66.pdf
 - Hash SHA-256: 13d12c8aa6b1ea0db0355a406254709f985c0c3fcff57802c9a5027ea7dfa854
 
 ## Resumen
 
-Circular N° 67 del 24 de Diciembre del 2014 Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 20 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974. Fuente: Oficina de Análisis de Jurisprudencia Tabla de cálculos de reajustes, intereses y multas enero 2015 Fuente: Subdirección de Fiscalización Circular N° 65 del 15 de Diciembre del 2014 Imparte instrucciones sobre modificaciones introducidas al artículo 21° del D.L. N° 910, de 1975, por el artículo 5°…
+de Jurisprudencia Tabla de cálculos de reajustes, intereses y multas enero 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

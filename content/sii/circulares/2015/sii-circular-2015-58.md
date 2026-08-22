@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5> Regula la facultad de examinar la información contable y tributaria de los contribuyentes, accediendo a los sistemas tecnológicos que sirvan de soporte a dicha información, y a los que permitan la generación de libros impresos en hojas sueltas, permitiéndole también verificar, para fines tributarios, el correcto funcionamiento de dichos sistemas. Fuente: Departamento de Asesoría Jurídica Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 68 y 69 del Código Tributario.…
+;a Jurídica Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 68 y 69 del Código Tributario. Deroga la Circular N° 12, de 4 de febrero de 2003, y las Resoluciones Exentas N°s 29 y 41 de 2002. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

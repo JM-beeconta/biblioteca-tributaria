@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Leyes N° N°20.780 &ldquo;reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario&rdquo;, y 20.720, que &ldquo;sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo&rdquo; en materia de procedimientos de liquidación de empresas y personas. Fuente: Departamento de Asesoría Jurídica Valor de la Unidad de Fomento para los días comprendidos entre…
+;a Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2015 y el 9 de agosto del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

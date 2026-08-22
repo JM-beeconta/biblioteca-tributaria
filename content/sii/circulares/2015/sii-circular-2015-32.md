@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 32
 - Año: 2015
-- Fecha: 2015-05-13
+- Fecha: 2015-05-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu32.pdf
 - Hash SHA-256: 37da7925023ad263ca2d85fd1d4403cfd90ea3c60e0a8b53924027818f8ae621
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica Circular N° 33 del 13 de Mayo del 2015 Imparte instrucciones respecto de los plazos que posee el Servicio para las actuaciones de fiscalización en las materias que indica. Fuente: Departamento de Asesoría Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2015 y el 9 de junio del año 2015. Fuente: Oficina de Gestión Normativa Circular N° 31 del 12 de Mayo del 2015 Tablas del Impuesto Único de Segunda Cate…
+;a Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2015 y el 9 de junio del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

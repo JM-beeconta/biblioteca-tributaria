@@ -11,7 +11,7 @@
 
 ## Resumen
 
-f='circu41.pdf' target='_blank'>Circular N° 41 del 05 de Junio del 2015 Actualiza y sistematiza instrucciones sobre la competencia territorial de las Unidades del Servicio de Impuestos Internos y la radicación de la fiscalización, en conformidad a las modificaciones incorporadas por la Ley 20.780. Fuente: Departamento de Asesoría Jurídica Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.780, al artículo 21 del Código Tributario en materia de empleo de expedien-tes electrónicos. Fuente:…
+;a Jurídica Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.780, al artículo 21 del Código Tributario en materia de empleo de expedien-tes electrónicos. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

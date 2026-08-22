@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 25
 - Año: 2013
-- Fecha: 2013-05-22
+- Fecha: 2013-05-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu25.pdf
 - Hash SHA-256: 55ace716045ec6707b77d6e8bffe8869dba9cd1b758c30fd500d9362147bc925
 
 ## Resumen
 
-deg; 26 del 22 de Mayo del 2013 Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que establecen el listado de obras específicas de naturaleza pública y privada que se pueden acoger a los beneficios tributarios por donaciones, según lo dispuesto por el artículo 8° de la Ley 20.444/2010; quedando sin efecto la Circular N° 31, DE 2012 . Fuente: Oficina de Gestión Normativa. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2013 y el 9 de junio del año 2013. Fuente: O…
+acute;n Normativa. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2013 y el 9 de junio del año 2013. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

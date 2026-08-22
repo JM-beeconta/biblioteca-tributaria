@@ -6,36 +6,47 @@
 - Año: 2015
 - Fecha: 2015-12-21
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja3193.htm
-- Hash SHA-256: 325f83059fbb46fa728f768aa7f24cf441f9e63aef665725744b315dac70fffe
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja3218.htm
+- Hash SHA-256: fce18d4e40fd46fc5a31951f58015e03c4beafd488f7145502b03c0cbc6dad11
 
 ## Resumen
 
-bottom:3px;'> Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 27°, Cuadro Anexo, Párrafo I, Letra A), N° 1° &ndash; . (Ord. Nº 3218, de 21-12-2015) | Word Aplicación del artículo 27 de la Ley sobre Impuesto Territorial a inmuebles de propiedad de la Empresa de los Ferrocarriles del Estado. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Numeral I, Letra A, número 2. (Ord. Nº 3193, de 17-12-2015) | Word Solicita pronunciamiento sobre pago de contribuciones en operación d…
+Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 27°, Cuadro Anexo, Párrafo I, Letra A), N° 1° &ndash; . (Ord. Nº 3218, de 21-12-2015) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":212,"year":2013}
+- {"type":"oficio","number":639,"year":2014}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – CUADRO ANEXO, NUMERAL I, LETRA A, NÚMERO 2. (ORD. N° 3193, DE 17.12.2015)
-SOLICITA PRONUNCIAMIENTO SOBRE PAGO DE CONTRIBUCIONES EN OPERACIÓN DE LEASEBACK QUE EXPONE.
-Se ha solicitado a este Servicio un pronunciamiento para determinar si un inmueble de propiedad municipal entregado en leaseback queda afecto a Impuesto Territorial, a pesar de continuar en poder de la Municipalidad y sirviendo para los fines propios de la misma. I ANTECEDENTES
-En su presentación expone que la Municipalidad de TTTT es propietaria de un inmueble respecto del cual pretende suscribir un contrato de leaseback con una institución financiera. El inmueble es una de las principales dependencias donde funciona la Municipalidad y durante la existencia del leaseback continuará sirviendo a los fines de dicha Corporación en forma exclusiva.
-Precisa que en el año 2008, el municipio quedó exento del pago de contribuciones respecto de otro de sus inmuebles que fue objeto de un leaseback. En esa oportunidad, la Municipalidad obtuvo devoluciones de Impuesto Territorial correspondientes a las cuotas de los años 2001 a 2006.
-Considerando lo anterior, solicita confirmar el criterio que el Servicio utilizó el año 2008, tomando en cuenta que el inmueble siempre estará en poder de la Municipalidad y sirviendo a sus fines y que, en caso de tener que pagar las contribuciones, sólo encarecería la operación que ya pagaría importantes impuestos.
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 27°, CUADRO ANEXO, PÁRRAFO I, LETRA A), N° 1° – OFICIO N° 212, DE 2013. (ORD. N° 3218, DE 21.12.2015)
+APLICACIÓN DEL ARTÍCULO 27 DE LA LEY SOBRE IMPUESTO TERRITORIAL A INMUEBLES DE PROPIEDAD DE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO.
+Se ha solicitado a este Servicio informar si determinados bienes raíces de propiedad de la Empresa de los Ferrocarriles del Estado (en adelante, “EFE”) califican como “fiscales” para efectos de aplicar lo dispuesto en el artículo 27 de la Ley N° 17.235, sobre Impuesto Territorial. I ANTECEDENTES
+De acuerdo a los antecedentes, EFE es propietaria de algunos bienes raíces ubicados en la comuna de XXX, los cuales actualmente se encuentran arrendados a la empresa TTT
+XXX plantea que, respecto de los referidos bienes raíces, EFE no está amparada por la exención de Impuesto Territorial contenida en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235, y cuyo texto dispone que están exentas las siguientes personas: “Fisco, con excepción de los bienes raíces de las sedes matrices de los Poderes Ejecutivo, Legislativo y Judicial, de los Ministerios, Servicios Públicos, Intendencias y Gobernaciones, y los casos en que cabe aplicar el artículo 27 de la presente ley. En todo caso, dicho artículo no será aplicable a las propiedades fiscales en las cuales, por razones inherentes a sus cargos, estén obligados a residir funcionarios públicos.”
+En concepto de XXX, ni los bienes raíces de EFE serían “fiscales” (conforme al artículo 589 del Código Civil y lo dispuesto en la Ley Orgánica respectiva ) ni EFE tendría la calidad de “servicio público”, de acuerdo a ciertos dictámenes de la Contraloría General de la República que cita .
+En consecuencia, no estando EFE amparada por la referida exención, tampoco sería aplicable a XXX lo dispuesto en el artículo 27 de la Ley sobre Impuesto Territorial, en el sentido que el concesionario u ocupante por cualquier título de bienes fiscales, municipales o nacionales de uso público, pague los impuestos correspondientes al bien raíz ocupado.
 II ANÁLISIS
-Conforme al Cuadro Anexo, Numeral I, Letra A, número 2, de la Ley N° 17.235, las personas jurídicas “Municipalidades” están exentas del 100% del Impuesto Territorial.
-Sobre el particular, y tal como este Servicio ha resuelto, la referida exención sólo opera respecto de bienes que sean de propiedad o dominio de las Municipalidades.
-Luego, en caso de transferirse el dominio o propiedad del inmueble a un tercero en el marco de una operación financiera de leaseback,evidentemente la Municipalidad pierde la exención, aun cuando el inmueble siga materialmente bajo su poder y continúe destinándose al cumplimiento de sus fines propios.
-Dicho lo anterior, no es necesario referirse a la situación del otro inmueble que señala en su presentación, sin perjuicio de remitirse los antecedentes a la Dirección Regional respectiva a fin de fiscalizar la correcta aplicación de la exención en comento y, si es del caso, cobrar los impuestos que corresponda.
+Como primera cuestión es importante recordar que, conforme al criterio vigente de este Servicio , la exención de Impuesto Territorial contenida en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235, procede respecto de los “servicios públicos” centralizados y descentralizados, tengan o no personalidad jurídica y patrimonio propios, en la medida que los inmuebles beneficiados no correspondan a alguna de las sedes matrices de los mismos Servicios, indicadas en el Decreto N° 1.187 del Ministerio de Hacienda, de 2006. Luego, es necesario determinar si EFE califica como “servicio público” para los efectos de la exención.
+Al respecto, teniendo presente el estatuto jurídico de EFE, contenido en el DFL N° 1 de 1993, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley Orgánica de la Empresa de los Ferrocarriles del Estado (en adelante, “LOEFE”); así como las normas pertinentes de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado (en adelante, LOCBGAE), se puede establecer lo que sigue:
+
+a) EFE es una empresa autónoma del Estado, dotada de personalidad jurídica de derecho público y patrimonio propio, que se relaciona con el Gobierno a través del Ministerio de Transportes y Telecomunicaciones (artículo 1°, LOEFE). Por tanto, califica como una “empresa pública creada por ley”, formando parte de la Administración del Estado (artículo 1°, LOCBGAE).
+b) Tiene por objeto establecer, desarrollar, impulsar, mantener y explotar servicios de transporte de pasajeros y carga a realizarse por medio de vías férreas o sistemas similares y servicios de transporte complementarios, cualquiera sea su modo, incluyendo todas las actividades conexas necesarias para el debido cumplimiento de esta finalidad. Asimismo, podrá explotar comercialmente los bienes de que es dueña (artículo 2°, LOEFE).
+c) Si bien goza de personalidad jurídica y patrimonio propio, según ha determinado el Contralor General de la República, EFE se incluye entre las “empresas públicas creadas por ley que se relacionan con el Ejecutivo a través” del Ministerio de Transportes y Telecomunicaciones; y que, por tanto, pertenecen a la Administración del Estado.
+En este mismo sentido, el organismo Contralor recientemente ha precisado “que acorde a la jurisprudencia de esta Contraloría General, especialmente sus dictámenes N°s. 52.639, de 2007 y 19.414, de 2015, EFE es una empresa pública creada por ley, de modo que, conforme a lo previsto en el citado inciso segundo del artículo 1° de la ley N° 18.575, integra la Administración del Estado. Siendo ello así… EFE es un órgano que integra la Administración del Estado…”
+Adicionalmente, y respecto de la específica calidad de “servicio público” de EFE tras las modificaciones experimentadas en su estatuto jurídico, cabe señalar que un reciente fallo de casación de la Excelentísima Corte Suprema, a propósito del cobro de patentes municipales a EFE, sostuvo que “a primera vista pareciera indiscutible que [EFE] se trata de una empresa que tiene por objeto la realización de actividades comerciales… Sin embargo, tal análisis es insuficiente, pues en la especie –tal como lo sostiene el recurrente– se está en presencia de una actividad que constituye un servicio público. En efecto, el servicio prestado por la reclamante básicamente se refiere al transporte público de pasajeros como al transporte de carga, el que responde a lo que doctrinariamente se conoce como un "Servicio Público", puesto que satisface un interés general básico de la sociedad. Tal calidad la conserva, pues en la práctica esa función la realiza una empresa pública, como lo es la reclamante…”.
+Conforme lo expuesto, no cabe duda que, bajo la legislación vigente y el entendimiento de la Contraloría General de la República, así como del máximo tribunal de la República, EFE debe considerarse como “servicio público”.
+Finalmente, a fin de confirmar la naturaleza jurídica de “servicio público” de EFE en el caso particular, este Servicio realizó la consulta correspondiente al Contralor General de la República, informándose básicamente que se trata de una empresa pública creada por ley, de modo que conforme al artículo 1° de la Ley N° 18.575, integra la Administración del Estado. Asimismo, como deja constancia el ente contralor, en el marco de la consulta formulada por este Servicio, XXX efectuó una presentación expresando los argumentos por los cuales estima que EFE se encontraría afecta a impuesto territorial, argumentos que, al tenor de lo dictaminado por el ente contralor, deben entenderse rechazados.
+Dicho lo anterior, resulta innecesario profundizar en los argumentos adicionales expuestos por XXX en una minuta adjunta, de suerte que EFE se encuentra exenta del Impuesto Territorial, precisándose que, en virtud de lo dispuesto en el Artículo 27 de la Ley sobre Impuesto Territorial, todo arrendatario de un bien raíz fiscal queda obligado a pagar las contribuciones territoriales durante todo el plazo del arrendamiento y mientras esté ocupando materialmente el predio. Conjuntamente con el pago de las rentas deberá comprobarse el cumplimiento oportuno de esta obligación tributaria.
+
 III CONCLUSIÓN
-Conforme lo expuesto precedentemente, si el inmueble de propiedad municipal es entregado en propiedad a un tercero en el marco de una operación financiera de leaseback se pierde la exención de Impuesto Territorial que favorece a la Municipalidad, quedando el inmueble afecto a Impuesto Territorial conforme las reglas generales.
+Atendido que conforme los criterios vigentes de este Servicio EFE califica como “servicio público” y los roles individualizados en el Oficio N° 639 de 2014, de la Dirección Regional, no corresponden a la sede matriz de EFE, indicada en el Decreto N° 1.187 del Ministerio de Hacienda, de 2006, se concluye que la referida entidad goza de la exención de Impuesto Territorial contenida en el Cuadro Anexo de la Ley N° 17.235, párrafo I, Letra A, N° 1.
+Por otra parte, considerando que XXX realizó gestiones ante el Contralor General de la República, se recomienda a esa Dirección Regional seguir el mismo procedimiento seguido por dicho organismo contralor, en el sentido de enviar copia de su respuesta a Empresa de los Ferrocarriles del Estado e XXX, conjuntamente.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 3193, de 17.12.2015
+Oficio N° 3218, de 21.12.2015
 Subdirección Normativa
 Dpto. de Técnica Tributaria.

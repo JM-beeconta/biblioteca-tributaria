@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;font-size:12px;text-align:justify;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, de 2014 - Circular N° 13, de 2014. (Oficio N° 3102.2016) (Ord. Nº 3102, de 18-11-2016) | Word Consulta sobre la tributación en la enajenación de bienes raíces. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, de 2014, Art. 24 transitorio &ndash; Circular N° 8 de 2015 &ndash; . (Ord. Nº 3101, de 18-11-2016) | Word Solicita un pronunciamiento sobre la aplicación del artículo 24° transitorio…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, de 2014, Art. 24 transitorio &ndash; Circular N° 8 de 2015 &ndash; . (Ord. Nº 3101, de 18-11-2016) |
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2013
-- Fecha: 2013-05-03
+- Fecha: 2013-04-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu21.pdf
 - Hash SHA-256: 5b63fc4dc23af2cbec6df52a38b09ef7834992264084b7e5a4a829f38a60bf5a
 
 ## Resumen
 
-uyentes. Circular N° 22 del 03 de Mayo del 2013 Tratamiento tributario de garantías y gastos incurridos en cumplimiento de planes de cierre de faenas e instalaciones mineras para los efectos de los impuestos a la renta y a las ventas y servicios Fuente: Impuestos Directos. Política de Condonación de Intereses y Sanciones Pecuniarias Impuestas por Infracciones a las Obligaciones Tributarias Contempladas en el Artículo 97 N° 1 Inciso 1°, N° 2 y N° 11 del Código Tributario; Condonación de Recargos por Mora en el Pago…
+mpuestos Directos. Política de Condonación de Intereses y Sanciones Pecuniarias Impuestas por Infracciones a las Obligaciones Tributarias Contempladas en el Artículo 97 N° 1 Inciso 1°, N° 2 y N° 11 del Código Tributario; Condonación de Recargos por Mora en el Pago del Impuesto Territorial y Supervisión de la Concesión del Beneficio. Deroga Circulares 42 de 2006, 60 y 64 de 2010. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

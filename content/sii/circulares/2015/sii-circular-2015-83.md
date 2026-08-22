@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 83
 - Año: 2015
-- Fecha: 2015-10-29
+- Fecha: 2015-10-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu83.pdf
 - Hash SHA-256: dc3fdb398b019c8472da2db7c6f638d10bd928fe8acfb9ab61c1c95e0e4b35de
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 84 del 29 de Octubre del 2015 Tabla de cálculos de Reajustes, Intereses y Multas noviembre 2015 Fuente: Subdirección de Fiscalización Deja sin efecto Circular N° 80, de 29 de septiembre de 2015. Fuente: Impuestos Indirectos Circular N° 82 del 14 de Octubre del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2015 y el 9 de noviembre del año 2015. Fuente: Oficina de Gestión Normativa <a href='https://www.sii.cl/normativa_le…
+scalización Deja sin efecto Circular N° 80, de 29 de septiembre de 2015. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

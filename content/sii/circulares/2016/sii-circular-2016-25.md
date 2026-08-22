@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s://www.sii.cl/normativa_legislacion/circulares/2016/circu26.pdf' target='_blank'>Circular N° 26 del 03 de Mayo del 2016 Adecua instrucciones de acuerdo a las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, al N° 3 del artículo 165 del Código Tributario. Fuente: Departamento de Asesoría Jurídica Adecua instrucciones de acuerdo a las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributac…
+;a Jurídica Adecua instrucciones de acuerdo a las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, a los artículos 75, 84 bis y 88 del Código Tributario. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

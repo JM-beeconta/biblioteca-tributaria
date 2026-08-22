@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 69
 - Año: 2014
-- Fecha: 2014-12-31
+- Fecha: 2014-12-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu69.pdf
 - Hash SHA-256: 0677caafe7bc861f50ef881e7efda62176f2cccd7b04195868b9532bfa9a3da2
 
 ## Resumen
 
-le='margin-bottom:0px;'> Circular N° 70 del 31 de Diciembre del 2014 Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2015, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2014, y sobre los retiros en exceso que se mantengan a esa fecha. Fuente: Depto. de Impuestos Directos Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que ri…
+Impuestos Directos Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2015 Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

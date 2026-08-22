@@ -6,37 +6,41 @@
 - Año: 2015
 - Fecha: 2015-04-27
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1148.htm
-- Hash SHA-256: cfa3d361388eddce3dd652843c946d2dd2b310f05a024e85903d6d222e30229e
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1149.htm
+- Hash SHA-256: bd9a88026c62b092644392e3dd9c72d2ca6c8ebd6b89e1bdfe2b3f42c8aff76b
 
 ## Resumen
 
-mpuesto a las &ndash; Art. 8°, Art. 2°, N°2 &ndash; . (Ord. Nº 1149, de 27-04-2015) | Word Impuesto al Valor Agregado que afecta al servicio prestados por un cementerio, consistente en el grabado de lápidas y frontones. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12°, letra B), N°10 &ndash; Circular N° 48, de 1978. (Ord. Nº 1148, de 27-04-2015) | Word Procedencia de exención tributaria, conforme al artículo 12°, letra b), N° 10 de la Ley sobre Impuesto a las Ventas y…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 8°, Art. 2°, N°2 &ndash; . (Ord. Nº 1149, de 27-04-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":48,"year":1978}
-- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"oficio","number":5186,"year":2004}
+- {"type":"articulo","law":"LIR","article":"20"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12°, LETRA B), N°10 – CIRCULAR N° 48, DE 1978. (ORD. N° 1148, DE 27.04.2015)
-PROCEDENCIA DE EXENCIÓN TRIBUTARIA, CONFORME AL ARTÍCULO 12°, LETRA B), N° 10 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
-I. ANTECEDENTES: En documento aludido en el antecedente se indica que se recibió en dicha Secretaría de Estado, una presentación de la empresa XXX, donde solicita se informe sobre la procedencia de la exención tributaria conforme al artículo 12°, letra B), N° 10 de la Ley sobre Impuesto a las Ventas y Servicios.
-En dicha presentación solicita se aclare si procede dicha exención cuando el inversionista nacional realiza el proyecto de inversión a través de un contrato a suma alzada, lo que implicaría que quien importa los bienes de capital sería el constructor de dicho proyecto y no el inversionista propiamente tal.
-Añade que sobre la materia, corresponde anotar que el artículo 12°, letra B), N° 10 de la Ley sobre Impuesto a las Ventas y Servicios establece una exención al inversionista nacional cuando se cumplen dos requisitos: a) Que la importación se trate de bienes de capital que no se produzcan en Chile en calidad o cantidad suficiente, y b) Que los referidos bienes de capital formen parte de un proyecto similar de inversión nacional, que sea considerado de interés para el país.
-Señala que dicha norma establece que corresponderá al Ministerio de Economía, Fomento y Turismo calificar las circunstancias que hacen procedente la declaración de interés para el país. No obstante ello, no correspondería a ese Ministerio determinar el alcance de dicha norma en relación con los requisitos de ejecución del proyecto.
-II. ANÁLISIS:
-Sobre el particular, cabe señalar que de conformidad al artículo 12°, letra B), N° 10, del D.L. N° 825, se desprende que la franquicia en comento es de carácter personal ya que favorece la importación de bienes de capital que cumplan con los requisitos allí establecidos cuando ésta es efectuada por un inversionista nacional.
-Tal situación es confirmada en la misma Circular emitida al respecto que en su numeral N° 5 señala que “5.- En el caso del inversionista nacional, también la disposición en análisis constituye una exención de tipo personal, (…)”.
-En razón de lo anterior, no es posible que una persona distinta del inversor nacional, a quien le beneficia la franquicia, pueda favorecerse con aquélla.
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8°, ART. 2°, N°2 – OFICIO N° 5186, DE 2004. (ORD. N° 1149, DE 27.04.2015)
+IMPUESTO AL VALOR AGREGADO QUE AFECTA AL SERVICIO PRESTADOS POR UN CEMENTERIO, CONSISTENTE EN EL GRABADO DE LÁPIDAS Y FRONTONES.
+I.- ANTECEDENTES:
 
-III. CONCLUSIÓN:
-De lo anterior se concluye que no procede la exención establecida en el artículo 12°, letra B), N° 10 del D.L. N° 825 cuando la importación es llevada a cabo por una persona distinta de aquellas beneficiadas personalmente por la exención en conformidad a la norma vigente.
+XXXXX presta una serie de servicios habituales de los camposantos, tales como, inhumaciones, exhumaciones, traslados internos, reducciones, uso de capilla, salas de velatorio, emisión de certificados, etc. Actualmente desea implementar la prestación del servicio de grabado en lápidas y frontón, esto es, escribir en las lápidas y frontones el nombre del difunto, fecha de defunción y en general lo que la familia del difunto solicite expresar. El contribuyente aclara que dicho servicio se realiza en el lugar de la bóveda (lugar de sepultación), por personal externo, quienes cobran a la Sociedad XXXXX, mediante boletas de honorarios, que son canceladas una vez realizado el servicio de grabado. Los grabadores trabajan en el lugar de la sepultación, tallando o escribiendo con sus herramientas lo que el cliente ha estipulado en el contrato suscrito con el Cementerio.
+Al respecto esa Dirección Regional postula que el servicio en comento podrá ser considerado un servicio no afecto al Impuesto al Valor Agregado en la medida que la prestación del mismo diga relación directa con las otras actividades propias del cementerio, tales como inhumaciones, exhumaciones, incineraciones, entre otras.
+
+II.- ANÁLISIS:
+
+El Art. 8°, del D.L. N° 825, grava con Impuesto al Valor Agregado las ventas y los servicios, estos últimos siempre que su remuneración provenga del ejercicio de alguna de las actividades comprendidas en los N° 3 ó 4, del artículo 20, de la Ley sobre Impuesto a la Renta, según lo dispuesto por el Art. 2°, N° 2, del D.L. N° 825.
+Sobre el particular, efectivamente este Servicio ha señalado que los servicios propios de un cementerio, tales como inhumaciones, exhumaciones, incineraciones, entre otros, no se encuentran afectos a IVA. Sin embargo, ha aclarado que ello no obedece a que el prestador sea un cementerio, pues este tipo de establecimientos no cuenta con ningún tipo de exención de IVA que le favorezca. Por el contrario, dichos pronunciamientos obedecen sólo a la aplicación de las normas generales citadas en el párrafo precedente.
+Por lo tanto, en la medida que los servicios prestados por el cementerio no encuentren una clasificación en los N°s 3 ó 4, del Art. 20, de la Ley sobre Impuesto a la Renta, la remuneración obtenida por dicha actividad no se encontrará afecta a IVA.
+Consecuente con lo anterior, y analizado el tipo de servicio que pretende prestar el contribuyente, cabe manifestar que dicha actividad, en la forma que pretende ser prestada, no encuentra una clasificación en el Art. 20, N° 3 o 4, de la Ley Sobre Impuesto a la Renta.
+
+III.- CONCLUSIÓN:
+
+Del análisis de los antecedentes y de las normas precedentemente señaladas se concluye que el servicio de grabado que implementará la Sociedad XXXXX, consistente en escribir en las lápidas y frontones el nombre del difunto, fecha de defunción y en general lo que la familia del difunto solicite expresar, no se encuentra afecto al Impuesto al Valor Agregado, conforme al Art. 8°, en concordancia con el Art. 2°, N° 2, del D.L. N° 825.
 
 MICHEL JORRATT DE LUIS
 DIRECTOR (T y P)
 
-Oficio N° 1148, de 27.04.2015
+Oficio N° 1149, de 27.04.2015
 Subdirección Normativa
 Dpto. de Impuestos Indirectos

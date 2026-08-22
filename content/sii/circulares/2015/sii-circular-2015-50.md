@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N° 51 del 22 de Junio del 2015 Imparte instrucciones sobre la obligación de los órganos que indica de remitir información financiera y de otro tipo al Servicio de Impuestos Internos conforme al nuevo artículo 84 bis del Código Tributario incorporado por la Ley N° 20.780. Fuente: Departamento de Asesoría Jurídica Facultad del Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o…
+;a Jurídica Facultad del Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

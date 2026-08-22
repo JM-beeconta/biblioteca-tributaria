@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 61
 - Año: 2016
-- Fecha: 2016-10-18
+- Fecha: 2016-10-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu61.pdf
 - Hash SHA-256: 0fb6d87af86ddccee6162b587a47e86ef3ca3891cb511509fcb4f9fabdc26ad8
 
 ## Resumen
 
-2 del 18 de Octubre del 2016 Imparte instrucciones sobre imputación o devolución de impuestos contenidos en los títulos II y III, del D.L. N° 825, establecida en el nuevo artículo 27 ter, del D.L. N° 825, incorporado a dicho texto legal por el artículo 393, de la Ley N° 20.720, y sobre las disposiciones de dicha Ley que inciden en materia de Impuesto a la Renta. Fuente: Impuestos Indirectos Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de noviembre del año 2016, e in…
+puestos Indirectos Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de noviembre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

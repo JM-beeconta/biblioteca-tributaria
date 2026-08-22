@@ -11,7 +11,7 @@
 
 ## Resumen
 
-buyentes que tengan como actividad la explotación de bienes raíces agrícolas, la minería y el transporte terrestre de carga ajena o de pasajeros, conforme al nuevo texto del artículo 34 de la Ley sobre Impuesto a la Renta, modificado por la Ley N° 20.780. También se instruye sobre las modificaciones efectuadas al régimen de tributación que afecta a las rentas provenientes de la explotación de bienes raíces. Fuente: Impuestos Directos Instruye sobre la aplicación del crédito de carácter tributario que procede por l…
+Impuestos Directos Instruye sobre la aplicación del crédito de carácter tributario que procede por los desembolsos directamente relacionados con la implementación y aplicación de los sistemas de trazabilidad o marcación de bienes o productos establecidos en el artículo 13 bis del Decreto Ley N° 828 de 1974 y en el artículo 60 quinquies del Código Tributario. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

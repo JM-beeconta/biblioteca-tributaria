@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2013
-- Fecha: 2013-04-19
+- Fecha: 2013-04-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu19.pdf
 - Hash SHA-256: 8e9451bfe84dd1ee0caa81e886dc197f5f7ed531761656a5a02f8835e8c5e7d7
 
 ## Resumen
 
-> Fuente: Subdirección Jurídica Circular N° 20 del 19 de Abril del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas mayo 2013. Fuente: Subdirección de Fiscalización. Instruye sobre la aplicación de los beneficios tributarios por la inversión privada en Investigación y Desarrollo contemplados en la Ley N° 20.241, modificada por la Ley N° 20.570. Fuente: Impuestos Directos. Circular N° 18 del 10 de Abril del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2013 y el 9 de m…
+calización. Instruye sobre la aplicación de los beneficios tributarios por la inversión privada en Investigación y Desarrollo contemplados en la Ley N° 20.241, modificada por la Ley N° 20.570. Fuente: Impuestos Directos.
 
 ## Referencias detectadas
 

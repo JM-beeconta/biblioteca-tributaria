@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Departamento de Asesoría Jurídica Circular N° 54 del 24 de Junio del 2015 Reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos Fuente: Departamento de Asesoría Jurídica Imparte instrucciones sobre la publicación de información y estadísticas en el sitio web del Servicio de Impuestos Internos. Fuente: Departamento de Asesoría Jurídica Circular N° 52 del 23 de Junio del 2015 Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos co…
+;a Jurídica Imparte instrucciones sobre la publicación de información y estadísticas en el sitio web del Servicio de Impuestos Internos. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

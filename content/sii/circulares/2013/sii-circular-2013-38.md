@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2013
-- Fecha: 2013-08-13
+- Fecha: 2013-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu38.pdf
 - Hash SHA-256: 5c662f4a57b0ad1c4e76ee9b7ba5632fb7aefa5ef2ce86c99a0517c7a9b3726b
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Circular N° 39 del 13 de Agosto del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2013 y el 9 de septiembre del año 2013 Fuente: Oficina Gestión Normativa Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 37 del 30 de Julio del 2013 Complementa instrucciones…
+oacute;n Normativa Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

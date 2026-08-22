@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 60
 - Año: 2015
-- Fecha: 2015-07-09
+- Fecha: 2015-07-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu60.pdf
 - Hash SHA-256: 57242dd186fdac6c4b2d34b01498c46ccbe6700ddef0752efb91c87eee8fa85a
 
 ## Resumen
 
-n> Circular N° 61 del 09 de Julio del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de agosto del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Modifica instrucciones impartidas en Circular N° 23 del 03 de Mayo de 2013, referente a la obligación de informar ciertas modificaciones directamente en el Servicio de Impuestos Internos para Sociedades por Acciones, Sociedades en Comandita por Acciones, Sociedad…
+oacute;n Normativa Modifica instrucciones impartidas en Circular N° 23 del 03 de Mayo de 2013, referente a la obligación de informar ciertas modificaciones directamente en el Servicio de Impuestos Internos para Sociedades por Acciones, Sociedades en Comandita por Acciones, Sociedades Anónimas Cerradas y Sociedades Anónimas de Garantía Recíproca. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

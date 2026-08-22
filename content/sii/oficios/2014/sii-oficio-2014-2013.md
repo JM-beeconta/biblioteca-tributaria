@@ -6,338 +6,105 @@
 - Año: 2014
 - Fecha: 2014-01-31
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja192.doc
-- Hash SHA-256: 2a5c48a515de38b9d330f43006fc97d3776b3691ac0f9ad6ed7edca5b38b8e61
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja193.htm
+- Hash SHA-256: 2a60409ce452e1010ec0996f35c2ccb282620e75c223b9b624d8c93c52ca0f09
 
 ## Resumen
 
-dash; . (Ord. Nº 193, de 31-01-2014) | Word Sistema de valorización para determinar el costo tributario de títulos de deuda de oferta pública que indica. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17°, N°11, Art. 21°, Art. 20°, N°4, Art. 33°, N°1, letra e) &ndash; Ley N° 19.518, Art. 23°, Art. 36°, Art. 37°. (Ord. Nº 192, de 31-01-2014) | Word Consulta si resulta procedente que las OTIC financien los conceptos que indica, con el 15% de los recursos aportados por las empresas aportantes, destinados a…
+mercial del tipo Mall. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 104°, Art. 17°, N°8, Art. 18° bis &ndash; Circular N° 42, de 2009 &ndash; . (Ord. Nº 193, de 31-01-2014) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":68,"year":2010}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"circular","number":42,"year":2009}
+- {"type":"oficio","number":2013,"year":2012}
+- {"type":"articulo","law":"LIR","article":"104"}
+- {"type":"articulo","law":"LIR","article":"17 N"}
+- {"type":"articulo","law":"LIR","article":"18"}
 - {"type":"articulo","law":"LIR","article":"17"}
-- {"type":"articulo","law":"LIR","article":"29"}
-- {"type":"articulo","law":"LIR","article":"33  N"}
-- {"type":"articulo","law":"LIR","article":"21"}
-- {"type":"articulo","law":"LIR","article":"33 N"}
+- {"type":"articulo","law":"LIR","article":"106"}
+- {"type":"articulo","law":"LIR","article":"41"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°11, ART. 21°, ART.
- 20°, N°4, ART. 33°, N°1, LETRA E) – LEY N° 19.518, ART. 23°, ART. 36°, ART.
-                                    37°.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 104°, ART. 17°, N°8, ART. 18° BIS – CIRCULAR N° 42, DE 2009 – OFICIO N° 2013, DE 2012. (Ord. Nº 193, de 31-01-2014)
 
-                        (ORD. N° 192, DE 31.01.2014)
+SISTEMA DE VALORIZACIÓN PARA DETERMINAR EL COSTO TRIBUTARIO DE TÍTULOS DE DEUDA DE OFERTA PÚBLICA QUE INDICA.
 
+Se ha solicitado un pronunciamiento a este Servicio, sobre la aplicación de alguno de los sistemas de valorización que indica para determinar el costo tributario de títulos de deuda de oferta pública, en su calidad de activos subyacentes de los instrumentos denominados Global Depositary Notes transados en el extranjero.
 
+1.- ANTECEDENTES.
 
+El consultante expone que los instrumentos denominados Global Depositary Notes ("GDN"), son certificados emitidos por un banco extranjero y negociables en el exterior, que representan propiedad del tenedor de dichos certificados sobre títulos de deuda emitidos por instituciones chilenas y depositados en un banco local.
 
-Consulta si resulta procedente que las OTIC  financien  los  conceptos  que
-indica, con el 15% de los recursos aportados por las  empresas  aportantes,
-destinados a sus gastos de administración y consulta sobre  el  tratamiento
-tributario de tales sumas.
+Indica que el proceso de emisión y colocación de los GDN implica que un inversionista extranjero que opera los GDN ordena a un corredor de bolsa nacional u otro intermediario, el que normalmente tiene la calidad de agente responsable para fines tributarios bajo la Resolución N° 36 del 2011 (&ldquo;Representante&rdquo;), la compra, a través de un procedimiento de subasta continua de títulos de deuda pública chilena acogidos al artículo 104 de la LIR (&ldquo;TD&rdquo;).
 
+Los TD, una vez adquiridos por el Representante, quedan en depósito en un banco custodio nacional, al cual se ha designado para recibir en depósito tales instrumentos ("Banco Custodio") registrando la factura de adquisición de cada título en el inventario de los instrumentos subyacentes. Contra los TD depositados en Chile, un banco extranjero (&ldquo;Banco Depositario&rdquo;) emite los correspondientes GDN, los que son perfectamente identificables respecto de los activos subyacentes que los respaldan.
 
+El inversionista sin domicilio o residencia en Chile, sea éste su tomador primario o secundario, puede negociar y transar los GDN en el mercado extranjero o bien requerir su canje por los TD subyacentes.
 
-Se ha solicitado un pronunciamiento a este Servicio,  respecto  al  uso  que
-una OTIC puede dar al  15%  de  los  recursos  aportados  por  las  empresas
-aportantes, destinados a sus gastos de administración, vale  decir,  si  los
-recursos correspondientes  a  dicho  15%,  pueden  ser  utilizados,  en  las
-circunstancias que indica, en el financiamiento de la  capacitación  de  las
-propias empresas o bien en el pago de actividades ajenas  al  ámbito  de  la
-instrucción o capacitación.
+En el primer caso, el consultante sostiene que las transferencias efectuadas en la bolsa extranjera de los GDN, conforme al Oficio N° 2.013, del 2012, no tendrían efecto tributario en Chile.
 
-I.- ANTECEDENTES.
+En el segundo escenario, cuando el inversionista extranjero opta por presentar los GDN para su canje por los instrumentos subyacentes, el Banco Depositario contacta al Banco Custodio para la entrega de los títulos. Atendida la clara identificación entre cada emisión de GDN y los TD en custodia que los respaldan, el Banco Custodio tiene la certeza que los TD fueron originalmente adquiridos en bolsa en un sistema de subasta continua, puesto que conforme a los términos contractuales que rigen las relaciones entre el Banco Depositario y el Custodio, se estipula que éste último no puede aceptar en depósito TD que no hayan sido adquiridos cumpliendo con los requisitos del artículo 104 de la Ley sobre Impuesto a la Renta (&ldquo;LIR&rdquo;).
 
-Señala, que su representada es una persona jurídica de derecho  privada  sin
-fines de lucro, reconocida  por  el  Servicio  Nacional  de  Capacitación  y
-Empleo (SENCE), que actúa como Organismo Técnico Intermedio de  Capacitación
-(OTIC), rigiéndose en consecuencia por la Ley N°19.518,  sobre  Estatuto  de
-Capacitación y Empleo y el Decreto Supremo N°122  de  1999,  del  Ministerio
-del Trabajo y Previsión Social, que contiene el Reglamento  Especial  de  la
-Ley N°19.518, sobre Organismos Técnicos Intermedios para Capacitación.
+De esta forma, si el inversionista extranjero decide posteriormente vender los TD en una bolsa local en un proceso de subasta continua, con cumplimiento de todos los requisitos establecidos en el artículo 104 de la LIR, la ganancia obtenida podrá acogerse al régimen establecido en dicha norma legal.
 
-Expresa, que en  su  calidad  de  OTIC  y  de  conformidad  con  las  normas
-contenidas en la Ley N°19.518, su representada entrega apoyo técnico  a  las
-empresas adheridas, a través de la promoción, organización y supervisión  de
-programas de instrucción  y  capacitación  para  los  trabajadores.  En  ese
-contexto, ofrece sus servicios  de  gestión  y  administración  de  aquellos
-fondos que son aportados por las empresas, para ser destinados a acciones  o
-programas de capacitación ocupacional, dineros que, según  lo  dispuesto  en
-el inciso  primero  del  artículo  36°,  de  la  Ley  N°19.518,  pueden  ser
-rebajados como crédito, por la empresa aportante, de su Impuesto de  Primera
-Categoría (franquicia SENCE).
+Si no se cumple alguna de las exigencias contempladas en el artículo 104 de la LIR, como podría ser la venta fuera de bolsa, la ganancia derivada de la operación es tributable, calificación que está fuera del alcance del Banco Custodio.
 
-Indica que, según lo dispuesto en el inciso primero, del artículo  10°,  del
-Decreto Supremo N°122, la Corporación destina - a lo menos - el 85%  de  los
-aportes efectuados por  las  empresas  adheridas  para  la  organización  de
-programas de capacitación, mientras que sus  costos  de  administración  son
-financiados con una parte de esos aportes que no puede exceder  del  15%  de
-ellos. Según lo dispuesto en el  inciso  tercero  del  mismo  artículo,  los
-fondos para administración deben  cubrir  todos  aquellos  gastos  que  deba
-efectuar el OTIC en el contexto de una normal  y  eficiente  administración,
-tales como, arriendo de oficinas, remuneraciones del  personal,  adquisición
-de bienes, contratación de servicios, gastos de mantención, reparaciones  y,
-en general, aquellos que sean  necesarios  para  su  regular  funcionamiento
-administrativo.
+En este escenario, se hace necesario que el Banco Custodio informe debidamente al Inversionista y al Representante certeramente el costo de los TD recibido por éste en canje.
 
-Dado que existe un límite  anual  de  fondos  que  pueden  destinarse  a  la
-franquicia SENCE, eventualmente las empresas  deben  efectuar  un  copago  o
-contribución adicional, siguiendo el  tenor  del  artículo  37°  de  la  Ley
-N°19.518.
-
-
-En tal situación  señala  que  su  representada,  en  el  ejercicio  de  sus
-actividades de administración y organización de programas de capacitación  e
-instrucción, ha recibido solicitudes de algunas empresas en orden a que  con
-dineros correspondientes a la parte de los aportes  destinados  a  solventar
-sus costos de administración (hasta un 15% del aporte),  cubra  el  referido
-copago, esto es, aquella parte de los costos de capacitación  que  no  logre
-ser cubierta con la franquicia SENCE.
-
-Expresa a continuación, que en muchos casos se solicita que su  representada
-financie  actividades  ajenas  al  ámbito  de  la  instrucción  a  modo   de
-contraprestación para las empresas aportantes o sus ejecutivos  principales,
-tales como, viajes de gerentes de las empresas aportantes;  fiestas  de  fin
-de año o navidad, viáticos, etc., con aquella parte de  los  aportes  (hasta
-un  15%  del  aporte)  que  han  de  destinarse  a  cubrir  sus  costos   de
-administración.
-
-En  virtud  de  los  antecedentes  expuestos,  solicita  un  pronunciamiento
-respecto de la legalidad de los procedimientos descritos en  esta  consulta,
-esto es, acerca de si  resulta  legalmente  procedente  que  los  OTIC,  con
-aquella parte del aporte destinado a cubrir sus  gastos  de  administración,
-financien:
-
-a) el valor de acciones de capacitación o instrucción que exceda  los  topes
-de la franquicia SENCE; y
-
-b) actividades de carácter festivo o  recreativo  y,  si  tal  proceder,  se
-ajusta o no la Ley N°19.518 y sus reglamentos.
-
-A través  de  una  presentación  complementaria,  solicita  expresamente  un
-pronunciamiento de este Servicio acerca del  tratamiento  tributario,  desde
-el punto de vista de la  Ley  sobre  Impuesto  a  la  Renta  (LIR),  de  las
-partidas señaladas, tanto en lo que respecta a las OTIC como  a  la  empresa
-aportante. En su opinión, tales desembolsos  efectuados  por  las  OTIC,  en
-tanto exceden la finalidad y destino establecidos claramente en la Ley y  su
-Reglamento, constituyen gastos no aceptados tributariamente  como  tales,  y
-por tanto, le son aplicables las normas de los  artículos  31  y  33  N°  1,
-letra g), de la LIR. Por su parte, los aportantes afiliados a  las  OTIC  no
-pueden beneficiarse con la franquicia SENCE, en aquella parte  que  la  OTIC
-desvíe a tales fines, y  en  consecuencia,  no  pueden  ser  imputados  como
-crédito contra el Impuesto de Primera Categoría.
+De quedar sujetos los TD a tributación en Chile, en opinión del consultante, sería posible en el caso expuesto aplicar analógicamente el criterio contenido en el Oficio N° 1.969 de 1995, conforme al cual, el Custodio podría asignar a los TD entregados en canje su valor usando el método LIFO o el FIFO respecto del inventario de TD correspondiente a cada programa de emisión de GDN.
 
 II.- ANÁLISIS.
 
-1.- En relación con el derecho al crédito  SENCE  que  tienen  las  empresas
-asociadas a los OTIC  con  motivo  de  los  aportes  que  efectúan  a  tales
-organismos como parte de sus actividades de capacitación, es decir sobre  el
-beneficio tributario que establece la Ley N°19.518 a favor de  las  empresas
-aportantes,   cabe   señalar   que   este   Servicio,   a   través   de   su
-jurisprudencia[1], ha señalado que el artículo 36 de la  Ley  N°19.518,  que
-establece el crédito tributario por  gastos  en  capacitación,  dispone  que
-dicha franquicia resulta aplicable tanto a las actividades  de  capacitación
-que ejecuten las empresas por sí mismas, como a aquellas que  contraten  con
-las instituciones citadas en el artículo 12 del mismo  texto  legal,  o  con
-los OTIC.
+1.- El artículo 104 de la LIR, incorporado por la Ley N° 20.343, del año 2009, dispone que no obstante lo dispuesto en los artículos 17 N° 8 y 18 bis [1] , no constituirá renta el mayor valor obtenido en la enajenación de instrumentos de deuda de oferta pública, que cumplan los requisitos que establece la misma disposición, cuando los instrumentos indicados hayan sido adquiridos y enajenados en una bolsa local, en un procedimiento de subasta continua que contemple un plazo de cierre de las transacciones que permita la activa participación de todos los intereses de compra y de venta, previamente autorizado por la Superintendencia de Valores y Seguros y este Servicio mediante resolución conjunta, y por intermedio de un corredor de bolsa o agente de valores registrado en la Superintendencia de Valores y Seguros, excepto en el caso de los bancos en cuanto actúen de acuerdo a sus facultades legales.
 
-Cuando las empresas realicen las actividades o acciones  de  capacitación  a
-través de los OTIC reconocidos por el SENCE, los "costos directos" para  los
-efectos de la franquicia tributaria, están conformados  por  los  aportes  o
-cuotas que las empresas adherentes efectúen de conformidad a lo  establecido
-en el artículo 38 de la Ley N°19.518.
+Las instrucciones sobre la materia, fueron impartidas por este Servicio mediante la Circular N° 42 del 2009, señalándose que para efectos de determinar el mayor valor a que se refiere el artículo 104 de la LIR, se aplican las normas generales dispuestas para tal efecto en los artículos 17 N° 8, 18, 33 N° 4 y 41 de la LIR, según corresponda.
 
-En conformidad con lo dispuesto por el artículo 23 de la Ley  N°19.518,  los
-OTIC tienen por objeto otorgar  apoyo  técnico  a  sus  empresas  adheridas,
-principalmente a través de  la  promoción,  organización  y  supervisión  de
-programas de capacitación y de asistencia  técnica  para  el  desarrollo  de
-recursos humanos.
+Por su parte, el artículo 17 N° 8 de la LIR, preceptúa que no constituye renta, entre otros, el mayor valor, incluido el reajuste del saldo de precio, obtenido en la enajenación de bonos y debentures, sin perjuicio de lo dispuesto en el artículo 18 de la LIR.
 
-Por su parte, el artículo 27 de dicha  Ley  dispone  que,  corresponderá  al
-SENCE velar porque estos organismos observen sus disposiciones,  las  de  su
-reglamento y las instrucciones de carácter general que  se  dicten  por  los
-organismos respectivos para el desarrollo de acciones comprendidas en  dicha
-ley, y fiscalizar sus actividades.
+La norma precisa en su inciso 2°, que no constituye renta sólo aquella parte del mayor valor que se obtenga hasta la concurrencia de la cantidad que resulte de aplicar al valor de adquisición del bien respectivo el porcentaje de variación experimentada por el Índice de Precios al Consumidor en el período comprendido entre el último día del mes anterior al de la adquisición y el último día del mes anterior al de la enajenación, todo ello sin perjuicio de lo dispuesto en el artículo 18. Por fecha de enajenación se entenderá la del respectivo contrato, instrumento u operación. Cuando se trate de la enajenación de bonos y demás títulos de deuda, su valor de adquisición deberá disminuirse por las amortizaciones de capital recibidas por el enajenante, reajustadas de acuerdo al porcentaje de variación del Índice de Precios al Consumidor entre el mes anterior al de la adquisición y el mes anterior al de su enajenación.
 
-Para efectos de hacer  valer  el  crédito  tributario  que  corresponda,  el
-artículo 43 de la Ley N°19.518, dispone que las empresas  que  realicen  sus
-actividades  de  capacitación  a  través  de  un  OTIC,  deben  mantener  un
-certificado de dicho organismo en que conste si éstas  fueron  realizadas  o
-no, así como el monto y la  fecha  en  que  se  efectuaron  los  respectivos
-aportes. Agrega la norma, que tales antecedentes deben estar visados por  el
-SENCE, quien sin perjuicio  de  sus  propias  facultades  de  fiscalización,
-pondrá  en  conocimiento  de  este  Servicio  cualquier  circunstancia   que
-modifique los costos previstos en el  programa  o  les  haga  aparecer  como
-injustificados o excesivos, con el  objeto  que  éste  último  ejercite  sus
-facultades fiscalizadoras.
+En caso de instrumentos tales como bonos y debentures no acogidos al artículo 104 de la LIR, la parte del mayor valor que exceda de la cantidad referida en el inciso anterior se grava con Impuesto de Primera Categoría aplicado en carácter de Impuesto Único a la Renta, a menos que operen las normas sobre habitualidad a que se refiere el artículo 18 de la LIR, o la enajenación se efectúe a partes relacionadas o en la que tengan intereses, en los términos que establece el inciso 4°, del N° 8, del artículo 17 de la LIR, en cuyo caso el mayor valor queda sometido a los Impuestos de Primera Categoría y Global Complementario o Adicional, según corresponda.
 
-Por su parte, el Reglamento  de  la  Ley  N°19.518,  relativo  a  los  OTIC,
-contenido en el D.S. N°122, del Ministerio del Trabajo y  Previsión  Social,
-publicado en el Diario Oficial de 30 de marzo de 1999, dispone en el  inciso
-1° de su artículo 10, que estos organismos destinarán para  la  organización
-de cursos de capacitación, no menos del 85% del monto  de  los  aportes  que
-perciban de sus empresas afiliadas, destinando el  saldo  que  reste  a  sus
-costos de administración. Seguidamente, en su inciso 3°,  expresa  que  para
-los efectos de dicho artículo, se considerarán costos de administración  los
-gastos que deban efectuar los referidos OTIC, en el contexto de  una  normal
-y eficiente administración, tales como arriendo de oficinas,  remuneraciones
-del personal, adquisición de bienes, contratación de  servicios,  gastos  de
-mantención y reparaciones, y en general aquellos que  sean  necesarios  para
-su regular funcionamiento administrativo, en el  marco  de  las  finalidades
-que la ley les reconoce.
+De lo anterior se desprende, que la tributación derivada de la enajenación de títulos de deuda a que se refiere el artículo 104 de la LIR, puede quedar sometida a alguno de los regímenes tributarios indicados a continuación, dependiendo de la concurrencia de los requisitos indicados:
 
-Finalmente, el artículo 79 de la Ley N°19.518, dispone que  si  los  aportes
-que efectuaren los asociados a  los  OTIC  no  se  destinaren  a  los  fines
-previstos en el artículo 23, no  habrá  lugar  a  la  franquicia  tributaria
-correspondiente que contempla dicho cuerpo legal. Todo ello,  sin  perjuicio
-de la cancelación de la inscripción en el registro del organismo  y  de  las
-acciones legales que procedieren.
+(i) El del artículo 104 de la LIR, que beneficia exclusivamente las enajenaciones instrumentos de deuda de oferta pública, cuando ésta fuese efectuada en subasta pública en una bolsa de valores del país y por medio de un corredor de bolsa, agente de valores registrado o banco, habiéndose adquirido los títulos de las mismas formas, y cumpliendo los demás requisitos legales. De acuerdo a lo previsto en el artículo 104 de la LIR e instrucciones impartidas por este Servicio, el mayor valor que se obtenga en la referida enajenación no constituirá renta.
 
-En consecuencia, si la OTIC destina una parte de los  aportes  que  hubieren
-efectuado los asociados a  fines  distintos  de  aquellos  previstos  en  el
-artículo 23 de la Ley N°19.518, esto es,  a  otorgar  apoyo  técnico  a  sus
-empresas adheridas, principalmente a través de la promoción, organización  y
-supervisión de programas de capacitación y de  asistencia  técnica  para  el
-desarrollo de recursos humanos, o a los costos de administración  de  dichos
-recursos, en los términos que establece el inciso 3°, del  artículo  10  del
-Reglamento especial de la Ley N°19.518, relativo a los OTIC, no habrá  lugar
-a la franquicia tributaria por dicha parte. En todo caso,  se  reitera  que,
-de acuerdo  a  lo  establecido  en  el  artículo  27  de  la  Ley  N°19.518,
-corresponde  al  SENCE  velar   porque   estos   organismos   observen   sus
-disposiciones, las de su reglamento y fiscalizar sus actividades.
+(ii) De no cumplirse con los requisitos del artículo 104 de la LIR, ya sea al no efectuarse la adquisición o enajenación de los títulos en pública subasta o de no cumplir los títulos con los requisitos de emisión, cotización, colocación, y demás indicados en la norma, el mayor valor quedaría afecto al Impuesto de Primera Categoría aplicado en carácter de Impuesto Único a la Renta.
 
-2.- En lo que respecta al tratamiento tributario que los OTIC  deben  dar  a
-las cantidades que señala, procede indicar en primer  término  que  conforme
-con las instrucciones y jurisprudencia de este  Servicio,  tales  organismos
-son contribuyentes de la Primera Categoría, clasificados en  el  N°  4,  del
-artículo 20 de la LIR[2].
+(iii) Cuando no se cumplan con los requisitos del artículo 104 y la enajenación se efectúe a partes relacionadas o en las que tengan intereses, en los términos del inciso 4°, del N° 8, del artículo 17 de la LIR, o bien la enajenación sea el resultado de operaciones o actividades realizadas en forma habitual por el contribuyente, de acuerdo a lo preceptuado en el artículo 18 de la LIR, el mayor valor que se obtenga estará afecto a los Impuestos de Primera Categoría y Global Complementario o Adicional, según corresponda.
 
-Conforme con ello, corresponde analizar el tratamiento tributario  que  debe
-darse a los aportes que reciben de sus asociados, así como  también,  a  los
-costos, gastos y desembolsos en que  incurren  para  el  desarrollo  de  los
-fines previstos en el artículo 23 de la  Ley  N°19.518,  u  otros  ajenos  a
-éstos.
+No obstante la diferencia en la tributación en todos los casos anteriores, el mayor valor obtenido en la enajenación de bonos o debentures siempre se deberá determinar conforme lo establece expresamente el artículo 17 N° 8 de la LIR, esto es, deduciendo del precio de enajenación de los títulos, el valor de adquisición del bien reajustado según el porcentaje de variación de Índice de Precios al Consumidor entre el último día del mes anterior al de la adquisición y el último día del mes anterior al de la enajenación [2] . Para este efecto, el valor de adquisición deberá ser disminuido por las amortizaciones de capital recibidas por el enajenante, reajustadas en la misma forma señalada precedentemente.
 
-En cuanto a los aportes que  reciben  de  sus  asociados,  éstos  tienen  el
-carácter de ingresos no constitutivos de renta, conforme a lo  dispuesto  en
-el N°11, del artículo 17 de la LIR[3], “cuotas que eroguen  los  asociados”.
-De esta manera, en la determinación de la renta líquida imponible afecta  al
-Impuesto  de  Primera  Categoría,  dichas  entidades   deben   deducir   las
-cantidades recibidas a  títulos  de  aportes  o  cuotas  de  los  asociados,
-siempre que hayan aumentado la renta declarada, es decir, siempre que  hayan
-sido contabilizado como ingreso,  puesto  que  no  corresponden  a  ingresos
-brutos de aquellos a que se refiere el artículo 29 de la LIR.
+2.- Ahora bien, respecto de la situación específica que plantea, este Servicio señaló frente a una consulta sobre GDN formulada con anterioridad, previa respuesta oficiada por la Superintendencia de Valores y Seguros y el Banco Central, que tales instrumentos tienen la misma naturaleza que los ADR, correspondiendo en ambos casos a valores extranjeros con respaldo en valores chilenos, por lo cual el tratamiento tributario de los GDN debiese ser similar al otorgado a los ADR, siempre y cuando se cumplan con los requisitos legales y reglamentarios que correspondan para su transacción, si fuere el caso, en nuestro país y se den los mismos supuestos de hecho en los que se fundamenta el tratamiento tributario otorgado a los ADR [3] .
 
-En relación con los costos, gastos y desembolsos en  que  incurren  para  el
-desarrollo de los fines previstos en el artículo 23 de la  Ley  N°19.518,  u
-otros ajenos a éstos, cabe  señalar  que  conforme  a  lo  dispuesto  en  el
-artículo  33  N°1,  letra  e)  de  la  LIR,  éstos  deben  agregarse  en  la
-determinación  de  la  referida  renta  líquida,  en  la  medida  que  hayan
-disminuido la renta declarada, es decir, cuando  hayan  sido  contabilizados
-como costo o gasto, afectando los resultados del  ejercicio  respectivo.  Lo
-anterior, por cuanto tales costos, gastos y  desembolsos  son  imputables  a
-los ingresos no  constitutivos  de  renta  correspondientes  a  los  aportes
-respectivos recibidos, y no corresponde que  sean  deducidos  de  los  demás
-ingresos que  puedan  obtener  los  OTIC  afectos  al  Impuesto  de  Primera
-Categoría.
+Por ello, se considera la enajenación de GDN como renta de fuente extranjera, la cual de ser realizada por inversionistas sin domicilio o residencia en Chile, no sería tributable en Chile.
 
-De acuerdo a lo establecido en la Circular N°68, de 2010, de este  Servicio,
-dichas cantidades, si bien no pueden  ser  deducidas  como  gasto  necesario
-para producir la renta de los  OTIC,  en  ningún  caso  se  afectan  con  la
-tributación dispuesta en el artículo 21 de la LIR.
+No obstante lo anterior, las rentas de los TD como asimismo los resultados obtenido en su enajenación, constituyen rentas de fuente chilena las cuales quedan sometidas a las reglas de tributación señaladas precedentemente.
+
+Más aun, en el mismo pronunciamiento este Servicio precisó, en forma particular para los GDN, que el valor de canje para fines tributarios, independiente del que hayan establecido las partes en el contrato de GDN, remite a la regla para la determinación del mayor contenido en el inciso 2°, del N° 8, del artículo 17 de la LIR, esto es, el valor de adquisición de los títulos debidamente reajustado, menos las amortizaciones del capital recibidas por el enajenante, también reajustadas.
+
+Por lo anterior, no se comparte su entendimiento del alcance del Oficio N° 1.969 de 1995, que cita en la presentación, al indicar que el banco custodio puede asignarles a los TD entregados en canje su costo tributario usando el método LIFO o el FIFO.
+
+En efecto, el Oficio N° 1.969 no establece que el valor o costo tributario de los instrumentos canjeados se determine por medio de los sistemas LIFO o FIFO que Ud. señala, debiendo desprenderse de dicho pronunciamiento que el contribuyente si bien puede valerse de los mecanismos de control que estime pertinentes, sea éste el FIFO o LIFO para determinar, identificar y atribuir al inversionista extranjero los títulos o instrumentos subyacentes canjeados en virtud el GDN, dichos sistemas de valoración no son utilizables en la especie para fijar o establecer el costo tributario del instrumento subyacente canjeado, el cual en el caso de bonos, debentures e instrumentos de deuda de oferta pública, por disposición expresa de la LIR, debe establecerse según indica el inciso 2°, del N° 8, del artículo 17 de la LIR.
 
 III.- CONCLUSIÓN.
 
-En primer término cabe señalar que  en  principio,  no  corresponde  a  este
-Servicio determinar si los desembolsos que indica en su  consulta  pueden  o
-no ser calificados como gastos de administración  de  los  OTIC  autorizados
-por la Ley N°19.518 y su Reglamento. De  acuerdo  a  lo  establecido  en  el
-artículo 27 de la Ley N°19.518, corresponde  al  SENCE  velar  porque  estos
-organismos observen sus disposiciones, las de  su  reglamento  y  fiscalizar
-sus actividades. Sin perjuicio de lo anterior, si los fondos que  aporta  el
-contribuyente a  la  OTIC  fueran  destinados  a  actividades  ajenas  a  la
-instrucción o capacitación, este Servicio  podrá  ejercer  las  acciones  de
-fiscalización que sean pertinentes para velar por la procedencia y  correcto
-uso del crédito que se establece en la ley precitada.
+El Banco Custodio, mediante los mecanismos de control que resulten fehacientes, debe determinar cuáles títulos adquiridos para cada emisión de GDN son los que han sido canjeados al inversionista extranjero. Una vez realizado el canje de los TD, el inversionista sólo podrá utilizar como costo tributario aquel establecido en el N° 8, del artículo 17 de la LIR.
 
-En efecto, si bien el inciso 2° del artículo 27 de la  ley  supracitada,  le
-confiere al SENCE la facultad  de  fiscalizar  que  los  OTIC  observen  las
-disposiciones de dicha ley, su reglamento y las  instrucciones  de  carácter
-general que se dicten para el desarrollo de acciones de  capacitación,  debe
-tenerse presente que, según lo  dispuesto  en  el  inciso  final  del  mismo
-artículo 27, ya citado, este Servicio no se encuentra  inhibido  de  ejercer
-la facultad de fiscalizar la procedencia y el correcto uso de la  franquicia
-tributaria establecida en el inciso primero del artículo 36 de  la  referida
-Ley   N°19.518,   pudiendo   y   debiendo,   en   consecuencia,   fiscalizar
-especialmente el destino de los fondos aportados  por  el  contribuyente  al
-OTIC, cuando éstos se  empleen  en  actividades  o  prestaciones  ajenas  al
-ámbito de la capacitación o instrucción, como aquellos que se  mencionan  en
-su  consulta,  en  cuanto  digan  relación   con   actividades   de   índole
-recreacional, festiva, vacacional, de esparcimiento o  cuando  se  traduzcan
-en contraprestaciones a la empresa aportante o a su personal y que no  digan
-relación con la capacitación de éste.
+Ahora bien, de acuerdo a lo señalado en el Oficio N° 1.969 de 1995, el inversionista que posea títulos adquiridos en distintas fechas, deberá determinar el costo tributario en la enajenación de tales títulos conforme a lo señalado en el párrafo anterior, ya que es la única persona válidamente capacitada para decidir cuáles títulos son los que está enajenando, sin perjuicio de que pueda utilizar a su elección, cualquiera de los métodos para identificar tales títulos, como puede ser el FIFO o LIFO.
 
-En virtud de lo anterior, se debe concluir que si la OTIC destina una  parte
-o el total de los aportes, que hubieren efectuado  los  asociados,  a  fines
-distintos de aquellos previstos en el artículo 23 de la Ley  N°19.518,  esto
-es, a otorgar apoyo técnico  a  sus  empresas  adheridas,  principalmente  a
-través  de  la  promoción,  organización  y  supervisión  de  programas   de
-capacitación  y  de  asistencia  técnica  para  el  desarrollo  de  recursos
-humanos, o a  los  costos  de  administración  de  dichos  recursos  en  los
-términos que  establece  el  inciso  3°,  del  artículo  10  del  Reglamento
-especial de la Ley N°19.518 relativo  a  los  OTIC,  no  habrá  lugar  a  la
-franquicia tributaria por dicha parte.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-Por otra parte, cabe señalar que los ingresos que reciben las OTIC a  título
-de  aportes  de  sus  asociados,  tienen  el   carácter   de   ingresos   no
-constitutivos de renta, conforme a lo dispuesto en el N°  11,  del  artículo
-17 de la LIR.
+Oficio N° 193, de 31.01.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos
 
-En relación con los costos, gastos y desembolsos en  que  incurren  para  el
-desarrollo de los fines previstos en el artículo 23 de la  Ley  N°19.518,  u
-otros ajenos a éstos, cabe  señalar  que  conforme  a  lo  dispuesto  en  el
-artículo 33 N°  1,  letra  e)  de  la  LIR,  éstos  deben  agregarse  en  la
-determinación  de  la  referida  renta  líquida,  en  la  medida  que  hayan
-disminuido la renta declarada, por cuanto son imputables a los  ingresos  no
-constitutivos  de  renta  correspondientes   a   los   aportes   respectivos
-recibidos, y no corresponde que sean deducidos de  los  demás  ingresos  que
-puedan obtener los OTIC afectos al Impuesto de Primera Categoría. Con  todo,
-dichas cantidades en ningún caso se afectan con la tributación dispuesta  en
-el artículo 21 de la LIR.
+[1] El artículo 18 bis fue derogado por la Ley N° 20.448 del 2010, reemplazándose por el artículo 106 de la LIR.
 
+[2] Tratándose de contribuyentes obligados a aplicar las normas sobre corrección monetaria del artículo 41 de la LIR, y sólo en caso que el instrumento haya sido pactado en moneda extranjera o contenga cláusulas de reajustabilidad, se ajustará de acuerdo con el valor de cotización de la respectiva moneda o con el reajuste pactado, en su caso, determinados a la fecha del balance correspondiente al ejercicio inmediatamente anterior a aquél en que se efectúa la enajenación. Los instrumentos que han sido pactados en moneda nacional y que no contengan cláusulas de reajustabilidad, se considerarán a su valor de adquisición histórico.
 
+Tratándose de contribuyentes no obligados a aplicar las normas sobre corrección monetaria, deberán reajustar estos instrumentos de acuerdo con el porcentaje de variación experimentada por el IPC en el período comprendido entre el último día del mes anterior a la adquisición, o amortización de capital, si corresponde, y el último día del mes anterior a la fecha de enajenación.
 
-
-
-
-
-
-
-
-
-
-
-
-
-                                       JUAN ALBERTO ROJAS BARRANTI
-
-
-       DIRECTOR (S)
-
-
-
-
-
-                        Oficio N° 192, de 31.01.2014
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-
-
------------------------
-[1] Por ejemplo, en Oficios N°s 1.743 de 2010; 1940 y 1941, ambos de 2012.
-[2] Por ejemplo, en Oficios N° 71 de 2001 y 758 de 2001.
-[3] Al respecto, se pueden consultar por ejemplo, los Oficios N°s  2.419  de
-2013; 2.403 de 2010, entre otros.
+[3] Oficio N° 2.013 de 2012.

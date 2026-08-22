@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 23
 - Año: 2013
-- Fecha: 2013-05-10
+- Fecha: 2013-05-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu23.pdf
 - Hash SHA-256: 5da72f818f3d088cb5ff9a65cba6637eb0bfb7b05cbc65c58a83254ddd483cca
 
 ## Resumen
 
-an> Circular N° 24 del 10 de Mayo del 2013 . Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Imparte instrucciones sobre cumplimiento de obligaciones de Inscripción en el Rol Único Tributario, dar Aviso de Inicio de Actividades y Aviso de Modificaciones, a partir de la vigencia de la Ley N° 20.659, de 2013, que simplifica el régimen de constitución, modi…
+acute;n Normativa Imparte instrucciones sobre cumplimiento de obligaciones de Inscripción en el Rol Único Tributario, dar Aviso de Inicio de Actividades y Aviso de Modificaciones, a partir de la vigencia de la Ley N° 20.659, de 2013, que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

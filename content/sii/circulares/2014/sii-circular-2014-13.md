@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:10px;'> Fuente: Impuestos Directos Circular N° 14 del 07 de Marzo del 2014 Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a la Ley sobre Impuesto a la Renta, relacionadas con la tributación internacional. Fuente: Impuestos Directos Instruye sobre las modificaciones incorporadas por la Ley N°20.630 de 2012, a los artículos 15,17 N°8, 31 N°9 y 41 de la Ley sobre Impuesto a la Renta, y la modificación introducida por el N°1, del artículo 5°, de la Ley N°20.727, al inciso 2°, del N°8, del artíc…
+Impuestos Directos Instruye sobre las modificaciones incorporadas por la Ley N°20.630 de 2012, a los artículos 15,17 N°8, 31 N°9 y 41 de la Ley sobre Impuesto a la Renta, y la modificación introducida por el N°1, del artículo 5°, de la Ley N°20.727, al inciso 2°, del N°8, del artículo 17, de la misma Ley. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan> Circular N° 7 del 11 de Febrero del 2016 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2016 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2016 y el 9 de marzo del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 5 del 02 de Febrero del 2016 Norma aplicación de ajustes al avalúo de terreno a casos par…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2016 y el 9 de marzo del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

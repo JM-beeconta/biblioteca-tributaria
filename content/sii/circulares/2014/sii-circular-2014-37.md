@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2014
-- Fecha: 2014-06-12
+- Fecha: 2014-06-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu37.pdf
 - Hash SHA-256: 72fa54bb5dd9d20208a3e015a686b70a48e5e6ff57cda7da5cd19adfb431c1b7
 
 ## Resumen
 
-/p> Fuente: Oficina de Gestión Normativa Circular N° 38 del 12 de Junio del 2014 Tabla de Cálculos de Reajustes , Intereses y Multas Julio 2014 Fuente: Subdirección de Fiscalización Imparte instrucciones sobre la aplicación de la exención contenida en el Art. 12°, letra E), N°17, del D.L. N°825, de 1974. Deroga en parte Circular N°56 del 03/12/1991. Fuente: Impuestos Indirectos Circular N° 36 del 09 de Junio del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2014 y el 9…
+scalización Imparte instrucciones sobre la aplicación de la exención contenida en el Art. 12°, letra E), N°17, del D.L. N°825, de 1974. Deroga en parte Circular N°56 del 03/12/1991. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

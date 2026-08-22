@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2016
-- Fecha: 2016-02-19
+- Fecha: 2016-02-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu7.pdf
 - Hash SHA-256: f0257a77642d8ad98bd3fac280a2ba1348bdb176061aa5797df960b4b8b405f6
 
 ## Resumen
 
-> Fuente: Oficina de Gestión de Normativa Circular N° 8 del 19 de Febrero del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas marzo 2016 Fuente: Subdirección de Fiscalización Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2016 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 6 del 11 de Febrero del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del…
+scalización Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2016 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

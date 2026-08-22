@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Fiscalización Circular N° 69 del 14 de Diciembre del 2016 Tablas de Impuesto Único de Segunda Categoría para el mes de enero del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2016 y el 9 de enero de 2016. Fuente: Oficina de Gestión Normativa Circular N° 67 del 07 de Diciembre del 2016 Instruye sobre el régimen de tributación que afecta a los fondos administrados…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2016 y el 9 de enero de 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

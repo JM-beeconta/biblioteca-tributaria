@@ -6,45 +6,52 @@
 - Año: 2016
 - Fecha: 2016-07-06
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1949.htm
-- Hash SHA-256: 50b6b33401451d95111f1b2d80f2908217cd2719391072d4238d8376d50198b7
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1950.htm
+- Hash SHA-256: f24ace163bdf07a86af8f2b71e5f37d07fb6325feb1e59053f97545b949d3182
 
 ## Resumen
 
-N°3 &ndash; Ley sobre Impuesto a las Ventas y Servicios, Art. 13, N° 1 &ndash; Ley N° 18.168 General de Telecomunicaciones, Art. 21 &ndash; Ley N° 20.433, Art. 1, art. 9, Art. 13, Art. 16 &ndash; . (Ord. Nº 1950, de 06-07-2016) | Word Obligaciones tributarias que afectan a los Servicios de Radiodifusión Comunitaria Ciudadana, Ley N° 20.433. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20, N°1, Art. 39, N°3 &ndash; Ley N° 20.780, de 2014, Art. 1, N°22, letra b). (Ord. Nº 1949, de 06-07-2016) | Word Imp…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20, N°3 &ndash; Ley sobre Impuesto a las Ventas y Servicios, Art. 13, N° 1 &ndash; Ley N° 18.168 General de Telecomunicaciones, Art. 21 &ndash; Ley N° 20.433, Art. 1, art. 9, Art. 13, Art. 16 &ndash; . (Ord. Nº 1950, de 06-07-2016) |
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"20"}
-- {"type":"articulo","law":"LIR","article":"39"}
+- {"type":"oficio","number":2169,"year":2016}
+- {"type":"articulo","law":"LIR","article":"20 N"}
+- {"type":"articulo","law":"LIR","article":"68"}
+- {"type":"articulo","law":"LIR","article":"84"}
+- {"type":"articulo","law":"LIVS","article":"2 N"}
+- {"type":"articulo","law":"CT","article":"66"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N°1, ART. 39, N°3 – LEY N° 20.780, DE 2014, ART. 1, N°22, LETRA B). (ORD. N° 1949, DE 06.07.2016)
-IMPUESTOS QUE AFECTAN A LOS BIENES RAÍCES.
-
-I ANTECEDENTES De acuerdo a su correo electrónico, las personas que arriendan bienes raíces habitacionales no pagarían ningún tipo de impuesto, lo que en su concepto no debiese ocurrir.
-Por otra parte, en cuanto a los Impuestos a las Herencias, Asignaciones y Donaciones y al Impuesto Territorial, estima que se debería cobrar un impuesto que tuviera presente la capacidad económica de las personas.
-Al respecto, y por encargo del Sr. Subsecretario de Hacienda, se da respuesta a la presentación que usted hiciera a S.E. la Presidenta de la República.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N°3 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 13, N° 1 – LEY N° 18.168 GENERAL DE TELECOMUNICACIONES, ART. 21 – LEY N° 20.433, ART. 1, ART. 9, ART. 13, ART. 16 – OFICIO N° 2169, DE 2016. (ORD. N° 1950, DE 06.07.2016)
+OBLIGACIONES TRIBUTARIAS QUE AFECTAN A LOS SERVICIOS DE RADIODIFUSIÓN COMUNITARIA CIUDADANA, LEY N° 20.433.
+Se ha trasladado a esta Dirección Nacional su Ordinario del antecedente, enviado a la Dirección Regional Santiago XXX, donde consulta sobre las obligaciones tributarias que afectan a los Servicios de Radiodifusión Comunitaria Ciudadana, creados en virtud de la Ley N° 20.433. I ANTECEDENTES
+El Ordinario de esa Subsecretaría de Telecomunicaciones informa que, y en el marco de las Mesas Técnicas de Radios Comunitarias Ciudadanas convocadas por ella, se han recepcionado varias inquietudes respecto a la forma en que deben operar los concesionarios frente al Servicio de Impuestos Internos y/o realizar el timbraje de facturas, debido a que las respectivas Direcciones Regionales han señalado que, dada la naturaleza de las organizaciones – al no tener fines de lucro – no podrían realizar dichos trámites.
 II ANÁLISIS
-Respecto del primer punto mencionado en su presentación, se informa que conforme a la legislación vigente hasta el día 31.12.2015, las personas que entregan en arrendamiento bienes raíces no agrícolas – entre ellos, los habitacionales – están afectas al pago del impuesto de primera categoría conforme al artículo 20, N° 1, letra d), de la Ley sobre Impuesto a la Renta (LIR).
-De acuerdo a la norma citada, se presume que la renta de los bienes raíces no agrícolas es igual al 7% de su avalúo, respecto del propietario o usufructuario. Sin embargo, puede declararse la renta efectiva siempre que se demuestre mediante contabilidad fidedigna de acuerdo con las normas generales que dicta el Director. En todo caso, debe declararse la renta efectiva de dichos bienes cuando ésta exceda del 11% de su avalúo fiscal. Estas personas quedan además afectas al pago del Impuesto Global Complementario o Adicional por esas rentas, según si tienen residencia en Chile o en el extranjero.
-Con todo, debe agregarse que, a contar del 01.01.2016 (año tributario 2017), el N° 1, del artículo 20 de la LIR, vigente a contar de la fecha indicada, establece en su letra a), como regla general, que los contribuyentes que posean o exploten a cualquier título bienes raíces se gravarán sobre la renta efectiva de dichos bienes.
-Sin perjuicio de lo anterior, la letra b), del referido N°1, dispone que en el caso de contribuyentes que no declaren su renta efectiva según contabilidad completa y den en arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal, bienes raíces, se gravará la renta efectiva de dichos bienes, acreditada mediante el respectivo contrato, sin deducción alguna.
-Asimismo, de acuerdo a la modificación introducida por el artículo 1°, numeral 22), letra b) de la Ley N° 20.780, se informa que a partir del 01.01.2016 se sustituye el número 3° del artículo 39 de la Ley sobre Impuesto a la Renta, en el sentido que se encuentra exenta del impuesto de primera categoría “la renta efectiva de los bienes raíces no agrícolas obtenida por personas naturales con domicilio o residencia en el país.”
-Como se aprecia, salvo exenciones establecidas en las leyes, las personas que explotan bienes raíces no agrícolas sí están sujetas al pago del impuesto a la renta, al cumplimiento de las demás obligaciones tributarias anexas y a la fiscalización de este Servicio.
-Respecto del Impuesto a las Herencias, Asignaciones y Donaciones, establecido en la Ley N° 16.271, se informa que la base imponible está constituida por el valor líquido de cada asignación o donación. Por su parte, el impuesto se determina mediante una escala de tasas progresivas, empezando con una tasa de 1% para el primer tramo y terminando con una tasa de 25% en el último tramo.
-Por disposición del artículo 2°, inciso segundo de la Ley N° 16.271, las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo adoptado, o a la descendencia de ellos, están exentas de impuesto en la parte que no exceda de 50 unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas, por su parte, se eximen de este impuesto en la parte que no exceda de 5 unidades tributarias anuales.
-Cuando los asignatarios o donatarios tengan con el causante un parentesco más lejano, o no existiere parentesco alguno, el impuesto determinado según la escala, se aplica con recargos.
-Según se advierte, el efecto combinado de la exención, la escala progresiva de tasas y los recargos, implica incorporar al impuesto importantes elementos de justicia tributaria. De este modo, si la asignación o donación es de escaso o poco valor, queda exenta del impuesto o bien se paga uno de monto menor.
-Finalmente, en lo que respecta al Impuesto Territorial, cabe señalar que existen numerosas exenciones, reales y personales, de suerte que un elevado número de bienes raíces se encuentran actualmente exentos del impuesto o pagan uno muy bajo. De hecho, de acuerdo a estimaciones de este Servicio, del total de bienes raíces con destino habitacional para el segundo semestre de 2015, aproximadamente un 78% se encuentra completamente exento del pago del Impuesto Territorial.
+De acuerdo al artículo 1° de la Ley N° 20.433, se crean los Servicios Comunitarios y Ciudadanos de Radiodifusión de Libre Recepción (los “Servicios”), los cuales tienen como zona de servicio máxima una comuna o agrupación de comunas, conforme al ámbito de acción comunitaria de la entidad concesionaria. Son aplicables a los Servicios, en cuanto no se opongan a lo establecido en la ley, las disposiciones relativas a los Servicios de radiodifusión de libre recepción contenidas en la ley Nº 18.168, General de Telecomunicaciones.
+En lo que interesa al presente análisis, se debe tener presente, además, lo dispuesto en los artículos 9°, 13 y 16 de la citada Ley N° 20.433.
+Conforme al artículo 9°, sólo podrán ser titulares de una concesión de Servicio de Radiodifusión Comunitaria Ciudadana, “las personas jurídicas de derecho privado sin fines de lucro, a excepción de las corporaciones y fundaciones municipales, las universidades y las personas jurídicas regidas por la ley 19.638, que tengan entre sus fines esenciales la promoción del interés general, mediante la prosecución de objetivos específicos de carácter cívico, social, cultural, espiritual o de promoción de los derechos o principios constitucionales, y que estén constituidas en Chile y tengan domicilio en el país.”
+Por su parte, y con la finalidad de financiar las actividades propias de la radiodifusión, el artículo 13 autoriza a las organizaciones concesionarias de Servicios para “difundir menciones comerciales o de servicios que se encuentren en su zona de servicio, para financiar las necesidades propias de la radiodifusión… Se entenderá por menciones comerciales el saludo o agradecimiento a una entidad, empresa, establecimiento o local comercial, indicando únicamente su nombre y dirección. En ningún caso podrá emitir propaganda electoral o política. Las organizaciones concesionarias de estos Servicios que realicen menciones comerciales, deberán, sólo en cuanto al giro publicitario, haber efectuado la iniciación de actividades ante el Servicio de Impuestos Internos y sujetarse a lo dispuesto en el inciso final del artículo 21 de la ley Nº 18.168, General de Telecomunicaciones. La concesionaria de estos Servicios deberá, asimismo, informar a la Subsecretaría de Telecomunicaciones del ejercicio de esta actividad, para ser incluida en un registro especial que se creará al efecto.”
+El inciso segundo del artículo 13 dispone que las “rentas, utilidades, beneficios o excedentes generados por estos Servicios pertenecerán a la entidad concesionaria del servicio y no podrán ser distribuidas a sus afiliados, ni aun en caso de disolución.”
+El artículo 16, letra b) de la ley N° 20.433, a su turno, dispone que el incumplimiento de lo dispuesto en el artículo 13, es motivo de caducidad de la concesión.
+Finalmente, de acuerdo al inciso final del artículo 21 de la Ley N° 18.168, toda concesionaria o permisionaria, sea que persiga o no fines de lucro, que cobre por la prestación de sus servicios o realice publicidad o propaganda de cualquier naturaleza, deberá llevar contabilidad completa de la explotación de la concesión o permiso y quedará afecta a la Ley sobre Impuesto a la Renta, como si se tratare de una sociedad anónima.
+Conforme las normas anteriores se desprende claramente que, no obstante que los titulares de la concesión de Servicios de Radiodifusión Comunitaria Ciudadana sólo pueden revestir la forma de personas jurídicas de derecho privado sin fines de lucro (junto con demás corporaciones y fundaciones que señala la ley), se les permite difundir menciones comerciales, en cuyo caso y sólo para el giro publicitario, deben efectuar el trámite de iniciación de actividades ante este Servicio, sin perjuicio que por la prestación de servicios de publicidad o propaganda de cualquier naturaleza, deben llevar contabilidad completa de la explotación de la concesión o permiso y quedar afecta a la Ley sobre Impuesto a la Renta.
+Lo anterior, por lo demás, es consistente con la reiterada jurisprudencia de este Servicio, en el sentido que toda persona, natural o jurídica, reviste la calidad de contribuyente en la medida que posea bienes o realice actividades susceptibles de causar impuestos. De este modo, salvo excepciones taxativamente contempladas en la propia ley, no se atiende a la naturaleza o finalidad de las personas para gravarlas con impuesto; siendo indiferente, si persiguen o no fines de lucro .
+De acuerdo con lo expuesto precedentemente, se informa que, por las menciones comerciales, los titulares de concesiones de Servicios de Radiodifusión Comunitaria Ciudadana se someten a las siguientes obligaciones tributarias:
+1) Por aplicación del artículo 20 N° 3 de la Ley sobre Impuesto a la Renta, las rentas que provengan en general de la actividad de radiodifusión, y en particular de las menciones comerciales, se encuentran gravadas con el Impuesto de Primera Categoría; sin perjuicio de afectarles también el Impuesto Único del inciso primero del artículo 21 de la citada Ley, por estar obligadas a llevar una contabilidad completa en el caso que se generen las partidas a que alude dicho precepto; todo lo anterior de conformidad a lo dispuesto en el inciso final del artículo 21 de la Ley N° 18.168.
+2) Por su parte, de acuerdo al artículo 2 N° 2 de la Ley sobre Impuesto a las Ventas y Servicios, en relación con los artículos 13 N° 1 de la misma ley y 20 N° 3 de la Ley sobre Impuesto a la Renta, si bien los ingresos que perciban las empresas radioemisoras por su actividad de radiodifusión se encuentran exentos de IVA, dicha exención no alcanza a los ingresos que se generen por los avisos y propaganda de cualquier especie. En otras palabras, los ingresos obtenidos por las menciones comerciales se encontrarán afectos a IVA.
+3) Finalmente, junto con dar aviso de inicio de actividades respecto del giro publicitario, los titulares de concesiones de Servicios de Radiodifusión Comunitaria Ciudadana se encontrarán afectos, entre otras, a las siguientes obligaciones tributarias:
+a) Inscribirse en el Rol Único Tributario (artículo 66 del Código Tributario).
+b) Llevar los Libros de una contabilidad completa (artículo 68 de la Ley sobre Impuesto a la Renta).
+c) Presentar Declaraciones Anuales de Impuesto (artículos 65 y 69 de la Ley sobre Impuesto a la Renta).
+d) Efectuar pagos provisionales mensuales conforme a las normas del artículo 84° de la Ley sobre Impuesto a la Renta y dar cumplimiento a todas las demás obligaciones tributarias, ya sea de carácter legal o administrativas en su calidad de contribuyente de la Primera Categoría.
 III CONCLUSIÓN
-Conforme lo expuesto, se desprende que las personas que arriendan bienes raíces habitacionales sí están afectas al pago de impuesto a la renta.
-En lo que respecta al Impuesto a las Herencias, Asignaciones y Donaciones y al Impuesto Territorial, se desprende que la aplicación sistemática de las respectivas disposiciones legales introduce elementos de justicia tributaria, teniendo presente la capacidad económica de las personas.
+Conforme lo expuesto en el Análisis precedente, se da respuesta a la consulta formulada por esa Subsecretaría de Telecomunicaciones, indicándose las obligaciones tributarias a que se encuentran sujetos los titulares de concesiones de Servicios de Radiodifusión Comunitaria Ciudadana constituidos conforme a la Ley N° 20.433.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 1949, de 06.07.2016
+|Oficio N° 1950, de 06.07.2016
 Subdirección Normativa
 Dpto. de Técnica Tributaria

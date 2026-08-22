@@ -6,50 +6,166 @@
 - Año: 2013
 - Fecha: 2013-03-12
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja455.doc
-- Hash SHA-256: 7fa5893690b660313dddf28b1cf4e16c773c19bc23ee434b8387a22952d73a38
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja487.doc
+- Hash SHA-256: f57d7876005dbf84ba3ffc28f49b33f7b59ecdbbff7d564294ddc9005c3d8252
 
 ## Resumen
 
-Nuevo Texto &ndash; Art. 69° &ndash; . (Ord. Nº 487, de 12-03-2013) | Word Solicita aclarar Oficio N° 2070 de 2012.Oportunidad en que la fallida debe realizar el término de giro. Código Tributario &ndash; Nuevo Texto &ndash; Art. 38 &ndash; D.L. N° 3.475, de 1980, Art. 17°. (Ord. Nº 455, de 11-03-2013) | Word Solicita se autorice el pago del Impuesto de Timbres y Estampillas de una forma distinta a la establecida en el artículo 17 del D.L. N° 3.475. Código Tributario &ndash; Nuevo Texto &ndash; Art. 16°, Art. 17,…
+| Word Solicita aclarar .Oportunidad en que la fallida debe realizar el término de giro.
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"CT","article":"38"}
+- {"type":"circular","number":27,"year":1985}
+- {"type":"oficio","number":2070,"year":2012}
 
 ## Texto extraído
 
-CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 38 – D.L. N° 3.475, DE 1980, ART. 17°. (ORD. N° 455, DE 11.03.2013)
+CÓDIGO TRIBUTARIO – NUEVO TEXTO –  ART. 69° – OFICIO N° 2070, DE 2012.
+                        (ORD. N° 487, DE 12.03.2013)
 
-Solicita se autorice el pago del Impuesto de Timbres y Estampillas de una forma distinta a la establecida en el artículo 17 del D.L. N° 3.475
+Término de giro – Oportunidad en que la fallida  debe  dar  el  aviso  –  La
+circunstancia de dejar de estar afecto a impuestos,  refiere  exclusivamente
+a los impuestos normales y propios que deriven  del  ejercicio  regular  del
+giro o actividad que termina y no a otros que  puedan  seguir  afectando  al
+contribuyente por otras razones  o  por  los  actos  de  liquidación  de  la
+empresa o sociedad.
 
-ANTECEDENTES
 
-S e ha solicitado a esta Dirección Nacional, ejercer la facultad establecida en el artículo 18 del D.L. N° 3.475, en el sentido de autorizar el pago del Impuestos de Timbres y Estampillas de una forma distinta a la establecida en el artículo 17 del mismo cuerpo legal, que señala que éste solo se podrá pagar mediante ingreso de dinero en Tesorería o mediante el uso de estampillas para el caso del N° 1 del artículo 15 del D.L N° 3.475.
 
-En la presentación se expone que el artículo 18 del D.L. N° 3.475, facultaría al Director del Servicio de Impuestos Internos a autorizar o imponer el pago del Impuesto de Timbres y Estampillas de una forma distinta a las señaladas anteriormente, por lo que solicita se autorice su pago mediante la utilización de otros medios en general, y en especial, mediante el uso de tarjetas de débito y crédito, puesto que ello no significa un costo financiero para el Fisco y garantiza convenientemente la recaudación.
+   I. ANTECEDENTES
 
-ANÁLISIS
+Expone que, por Oficio indicado en el antecedente, se  dio  respuesta  a  la
+situación tributaria de su representada, especialmente en lo referente a  la
+oportunidad  en  que  la  fallida  debe  realizar  su   término   de   giro,
+concluyéndose  que  ello  corresponde  desde  el  momento  en  que  cesa  su
+actividad  regular,  esto  es,  cuando  se  le  revoca  la  autorización  de
+existencia por parte de la  Superintendencia  de  Valores  y  Seguros  y  se
+procede a ceder sus activos a otra compañía, ambas condiciones  copulativas.
 
-El artículo 17 del D.L. N° 3.475 establece que el Impuesto de Timbres y Estampillas se deberá pagar por ingreso en dinero en Tesorería o mediante el uso de estampillas, tratándose de instrumentos privados y otros documentos gravados con este tributo.
 
-Por su parte, el artículo 38 del Código Tributario, establece que el pago de los impuestos se hará en Tesorería, en moneda nacional o extranjera, según corresponda de acuerdo a lo dispuesto en el artículo 18 (del mismo código), por medio de dinero efectivo, vale vista, letra bancaria o cheque, y su pago se acreditará con el correspondiente recibo, a menos, que se trate de impuestos que deban solucionarse por medio de estampillas, papel sellado u otras especies valoradas.
+En  su  nueva  presentación  informa  la  existencia  de  una   demanda   de
+indemnización de perjuicios en contra del XXXX, acción  judicial  en  actual
+tramitación pero de inicio previo a la declaración de  quiebra  y  originada
+en operaciones  financieras  de  inversión  de  activos  representativos  de
+patrimonio y reservas técnicas propias del giro de la  aseguradora  –  a  su
+juicio – y cuyo resultado final, en caso de ser favorable  a  YYY,  derivará
+en una nueva cesión de activos de la  empresa  que  asumió  los  derechos  y
+obligaciones emanados de pólizas de seguros de  rentas  vitalicias  emitidas
+por la fallida, extendiéndose por tanto la fecha fijada para  estos  efectos
+más allá del día 30.09.2018.
 
-Por otra parte, el inciso segundo del citado artículo 38, introducido por el artículo 3° N° 7 de la Ley N° 19.506, faculta al Tesorero General de la República para autorizar el pago de los i mpuestos mediante tarjetas de dé bito, crédito u otros medios, siempre que esto no signifique un costo financiero adicional para el Fisco, limitación que no se aplica para las tarjetas de crédito y dé bito emitidas en el extranjero, debiendo en su caso, impartir además las instrucciones administrativas necesarias para resguardar el interés fiscal.
+En virtud de lo anterior, solicita aclarar la  conclusión  contenida  en  el
+Oficio ya mencionado, en el sentido que la instancia para que el síndico  de
+YYY en quiebra, dé el aviso  de  término  de  giro  en  conformidad  con  el
+artículo  69  del  Código  Tributario,  corresponde  a  aquella  en  que  se
+completen  en  definitiva  las  gestiones  y  trámites   relativos   a   las
+operaciones financieras aludidas  (pactos)  originadas  en  forma  previa  y
+anterior a la declaratoria de quiebra y que derivarían  en  nuevos  ingresos
+de fondos y nueva cesión complementaria de la cartera de  rentas  vitalicias
+y siniestros de pólizas de seguros de escolaridad.
 
-En consecuencia, de acuerdo a la disposición citada, la Ley faculta al Tesorero General de República, y no al Director del Servicio de Impuestos Internos, para autorizar el pago de los impuestos, incluido el de Timbres y Estampillas, mediante el uso tarjetas de crédito y tarjetas de débito.
+  II. ANÁLISIS
 
-Esta facultad que la ley le confiere al Tesorero General de la República, es especial frente a la más general prevista en el artículo 18 del D.L. N° 3475, citado, considerando que se refiere específicamente a la autorización de ciertos medios de pago, como son las tarjetas bancarias. La especialidad de la norma en este caso dice relación con los medios de pago de los tributos, en particular con aquellos (tarjetas de crédito y débito) que, precisamente, interesan a la Tesorería.
+Como fundamento para solicitar la modificación del Oficio N° 2070  de  2012,
+se expone un nuevo antecedente de hecho (la existencia  de  una  demanda  de
+indemnización de perjuicios) que podría variar, en opinión  del  interesado,
+la oportunidad para efectuar el término de giro.
 
-De esta manera, teniendo en vista que el asunto planteado se refiere a la autorización del uso de tarjetas bancarias para el pago de tributos, resulta aplicable el inciso segundo del artículo 38 del Código Tributario, que le otorga facultades al Tesorero General de la República, por ser una norma específica referida al pago de los impuestos por esos medios, y que, por la misma razón, prima sobre la disposición más general del artículo 18 citado.
+Al respecto, debe  reiterarse  que,  conforme  al  artículo  69  del  Código
+Tributario, la obligación de dar aviso de término de giro  pesa  sobre  toda
+persona que por terminación de su giro comercial  o  industrial,  o  de  sus
+actividades, deje de estar afecta a impuestos[1].
 
-III. CONCLUSION
+Según fuera expuesto en el oficio  citado,  la  circunstancia  de  dejar  de
+estar afecto a impuestos, refiere exclusivamente a los impuestos normales  y
+propios que deriven del ejercicio regular del giro o actividad  que  termina
+y no a otros que puedan seguir afectando al contribuyente por otras  razones
+o por los actos de liquidación de la empresa o sociedad[2].
 
-Por lo expuesto, se informa que esta Dirección Nacional carece de prerrogativas para acceder a lo solicitado, toda vez que la facultad para autorizar el pago de los impuestos mediante el uso de tarjetas bancarias, impartiendo las instrucciones administrativas necesarias para resguardar el interés fiscal, corresponde al Tesorero General de la República, según lo dispuesto específicamente en el inciso segundo del artículo 38 del Código Tributario.
 
-JULIO PEREIRA GANDARILLAS
-DIRECTOR
 
-Oficio N° 455, de 11.03.2013
-Subdirección Normativa
-Dpto. de Técnica Tributaria
+
+Sobre este punto (ejercicio regular  del  giro  o  actividad),  y  según  se
+desprende del artículo  4°,  DFL  N°  251  de  1931,  Ley  de  Seguros,  las
+entidades aseguradoras tienen por objeto (giro)  ‘exclusivo’ el comercio  de
+asegurar riesgos a  base  de  primas  así  como  también  el  desarrollo  de
+actividades afines o complementarias que  autorice  la  Superintendencia  de
+Valores y Seguros mediante norma de carácter general.
+
+Respecto de las actividades afines  o  complementarias  autorizadas  por  la
+Superintendencia, dicha entidad, de acuerdo a la  información  publicada  en
+su sitio institucional, ha autorizado la actuación como agentes  colocadores
+de cuotas de fondos mutuos (para el caso de las entidades  aseguradoras  del
+segundo grupo)[3] y el otorgamiento de préstamos a personas naturales[4].
+
+Luego y conforme lo expuesto, aún cuando  la  demanda  de  indemnización  de
+perjuicios individualizada  en  su  presentación  pudiera  provenir,  en  su
+origen  remoto,  de  operaciones  financieras  de   inversión   de   activos
+representativos  de  patrimonio  y  reservas  técnicas   no   ejecutadas   o
+judicialmente  controvertidas,  ciertamente  dicha  acción  judicial  y   la
+actividad de llevarla a adelante en todas sus instancias no  constituye  una
+modalidad de ejercer, ejecutar o desarrollar el giro o actividad propia  del
+contribuyente (el comercio de asegurar riesgos a base de primas) ni  tampoco
+de actividades afines o complementarias a ella.
+
+Junto con lo anterior, se hace presente que una razón  fundamental  para  la
+conclusión del oficio 2070 citado, en cuanto a la  oportunidad  de  efectuar
+el termino de giro, es la revocación, por la  autoridad  competente,  de  la
+autorización de la existencia de la compañía de seguros a que se refiere  la
+presentación, situación que no  cambia  con  el  nuevo  antecedente  que  se
+proporciona.
+
+
+
+
+ III. CONCLUSIÓN
+
+El antecedente de la demanda de indemnización de perjuicios referida  en  la
+presentación, no permite modificar la conclusión  del  oficio  2017  citado,
+toda  vez  que  su  tramitación   y   resultado   eventualmente   favorable,
+estrictamente no forman parte del  ejercicio,  ejecución  o  desarrollo  del
+giro o actividad propio del contribuyente, esto es, el comercio de  asegurar
+riesgos  a  base  de  primas  o  el  desarrollo  de  actividades  afines   o
+complementarias a ella. Pero, sobretodo,  no  ha  variado  la  circunstancia
+fundamental tenida en vista en  dicho  pronunciamiento,  consistente  en  la
+revocación de la autorización de la existencia de  la  compañía  de  seguros
+por la Superintendencia de Valores y Seguros.
+
+En  consecuencia,  se  reitera  para  el  caso  planteado  que  la  compañía
+declarada en quiebra, a la  cual  se  ha  revocado  la  autorización  de  su
+existencia, ha  terminado  la  actividad  aseguradora,  correspondiendo  dar
+aviso de término de giro dentro  del  plazo  legal  y  pagar  los  impuestos
+correspondientes hasta el momento del  balance  final,  según  establece  el
+artículo 69 citado.
+
+
+
+
+
+
+
+
+
+                          JULIO PEREIRA GANDARILLAS
+                                  DIRECTOR
+
+
+
+
+
+                        Oficio N° 487, de 12.03.2013
+                           Subdirección Normativa
+                         Dpto. de Técnica Tributaria
+                           -----------------------
+[1] Por otra parte, como este Servicio  ha  señalado  (Oficio  N°  3.961  de
+01.10.2001), es perfectamente posible que una persona jurídica que no  tenga
+actividad comercial y que por lo tanto deje de  estar  afecta  a  impuestos,
+presente aviso de término de giro sin haberse disuelto  legalmente,  ya  que
+el término de giro no implica necesariamente la disolución  de  la  sociedad
+que  dejó  de  tener  actividad  comercial,  sino  que  ella  sólo  deja  de
+encontrarse  afecta  a  impuestos  por  haber  cesado  en  sus  actividades,
+debiendo pagar los tributos correspondientes, aún cuando  continúe  teniendo
+existencia como sujeto de derecho
+[2] Circular N° 27 de 1985.
+[3] Norma de carácter general N° 156 de 2003
+[4] Norma de carácter general N° 140 de 2002

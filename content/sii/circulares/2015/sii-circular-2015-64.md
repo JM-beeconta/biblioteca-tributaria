@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 64
 - Año: 2015
-- Fecha: 2015-07-23
+- Fecha: 2015-07-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu64.pdf
 - Hash SHA-256: a18d780af00e22b0ecc694059ce699a0b7e92ef24a1312ae66b0ca4e945aa0a7
 
 ## Resumen
 
-e: Impuestos Directos Circular N° 65 del 23 de Julio del 2015 Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por la Ley N° 20.780, en materia de medidas anti elusión Fuente: Departamento de Asesoría Jurídica Instruye sobre modificaciones introducidas al Código Tributario por las Leyes N° N°20.780 &ldquo;reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario&rdquo;, y 20.720, que &ldquo;sustituye el régimen concurs…
+;a Jurídica Instruye sobre modificaciones introducidas al Código Tributario por las Leyes N° N°20.780 &ldquo;reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario&rdquo;, y 20.720, que &ldquo;sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo&rdquo; en materia de procedimientos de liquidación de empresas y personas. Fuente: Departamento d…
 
 ## Referencias detectadas
 

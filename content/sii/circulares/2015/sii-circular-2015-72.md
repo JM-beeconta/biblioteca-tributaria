@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 72
 - Año: 2015
-- Fecha: 2015-08-13
+- Fecha: 2015-07-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu72.pdf
 - Hash SHA-256: 25271ee2cd3b3fe4bef076f707ada18a927b19748823d1eb1da958c64a361ee3
 
 ## Resumen
 
-Circular N° 73 del 13 de Agosto del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de reajustes e Intereses y Multas Agosto 2015. Fuente: Subdirección de Fiscalización Circular N° 71 del 23 de Julio del 2015 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con…
+oacute;n Normativa Tabla de Cálculos de reajustes e Intereses y Multas Agosto 2015. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

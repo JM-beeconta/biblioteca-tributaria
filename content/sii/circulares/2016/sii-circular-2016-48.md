@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2016
-- Fecha: 2016-07-14
+- Fecha: 2016-07-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu48.pdf
 - Hash SHA-256: a9dda4da0cf1a58422d8ff23d0bda202bf5d4305bb18cc66d2c9855ce61c734e
 
 ## Resumen
 
-df' target='_blank' class="complementada">Circular N° 49 del 14 de Julio del 2016 Instruye sobre las modificaciones efectuadas por las Leyes N°s 20.780 y 20.899 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017. Fuente: Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014 y Ley N° 20.899 de 2016 a los artículo…
+Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014 y Ley N° 20.899 de 2016 a los artículos 41 A, 41 B, y 41 C, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Y, créditos por impuesto pagado en el extranjero sobre rentas pasivas, conforme al artículo 41 G de la LIR, vigente a contar del 1° de enero de 2016. Fuente: Impuestos Directoa
 
 ## Referencias detectadas
 

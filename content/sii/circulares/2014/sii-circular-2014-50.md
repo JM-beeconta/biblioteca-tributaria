@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Circular N° 51 del 03 de Octubre del 2014 Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los Artículos 3°, 12°, letra B), 23°, N° 4 y 42°, del D.L. N° 825, de 1974. Fuente: Departamento de Impuestos Indirectos Modificaciones al Decreto Ley N° 828 de 1974, que establece normas para el cultivo, elaboración, comercialización e impuestos que afectan al tabaco introducidas por el artículo 4° de la Ley N° 20.780 de 29 de Septiembre de 2014. Fuente: Impuestos Indirectos Circular N° 49…
+puestos Indirectos Modificaciones al Decreto Ley N° 828 de 1974, que establece normas para el cultivo, elaboración, comercialización e impuestos que afectan al tabaco introducidas por el artículo 4° de la Ley N° 20.780 de 29 de Septiembre de 2014. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

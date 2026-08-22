@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 58 del 12 de Noviembre del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2014 y el 9 de diciembre del año 2014. Fuente: Oficina de Gestión Normativa Circular N° 56 del 23 de Octubre del 2014 Tabla de Cálculos de reajustes, Intereses y Multas n…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2014 y el 9 de diciembre del año 2014. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

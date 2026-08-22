@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 14
 - Año: 2013
-- Fecha: 2013-03-28
+- Fecha: 2013-03-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu14.pdf
 - Hash SHA-256: f2421ded9233ce157338e9a7f40819ddf1803eae68fe2b53daa92462c5209c14
 
 ## Resumen
 
-: Oficina de Gestión Normativa. Circular N° 15 del 28 de Marzo del 2013 (Zip KB) Suplemento Tributario con la normativa para efectuar la Declaración de los Impuestos Anuales correspondientes al año tributario 2013. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas abril 2013 Fuente: Subdirección de Fiscalización. Circular N° 13 del 12 de Marzo del 2013 Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2013 e inform…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas abril 2013 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

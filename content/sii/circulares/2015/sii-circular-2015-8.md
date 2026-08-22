@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2015
-- Fecha: 2015-01-22
+- Fecha: 2015-01-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu8.pdf
 - Hash SHA-256: 6fafcd0bea0cb2328552c2080a8892f1d9e550f7d149bc9492c6ca6dd1f36316
 
 ## Resumen
 
-de enero de 2015 Fuente: Impuestos Directos Circular N° 9 del 22 de Enero del 2015 Tabla de Cálculos de reajustes, Intereses y Multas febrero 2015 Fuente: Subdirección de Fiscalización Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo 24° transitorio de la Ley N°20.780. Fuente: Subdirección Jurídica Circular N° 7 del 15 de Enero del 2015 Informa nuevos límites máximos imponibles para los efectos previsionales v…
+scalización Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo 24° transitorio de la Ley N°20.780. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

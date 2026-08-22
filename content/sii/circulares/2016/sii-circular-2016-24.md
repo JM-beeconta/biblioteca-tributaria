@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/www.sii.cl/normativa_legislacion/circulares/2016/circu25.pdf' target='_blank'>Circular N° 25 del 03 de Mayo del 2016 Adecua instrucciones de acuerdo a las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, a los artículos 75, 84 bis y 88 del Código Tributario. Fuente: Departamento de Asesoría Jurídica Modificación introducida por la Ley N° 20.899, de 8 de febrero de 2016, al artículo 9° de la Ley Orgánica del Servicio de…
+;a Jurídica Modificación introducida por la Ley N° 20.899, de 8 de febrero de 2016, al artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos. Modifica la Circular N° 41, de 5 de junio de 2015. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

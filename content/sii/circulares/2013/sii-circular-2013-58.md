@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te: Subdirección de Fiscalización Circular N° 59 del 16 de Diciembre del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2013 y el 9 de enero del año 2014 Fuente: Oficina de Gestión Normativa Tablas de Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de enero del año 2014 e información adicional relacionada con dichos tributos Fuente: oficina de Gestión Normativa Circular N° 57 del 27 de Noviembre del 2013 Instrucciones relativas a…
+oacute;n Normativa Tablas de Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de enero del año 2014 e información adicional relacionada con dichos tributos Fuente: oficina de Gestión Normativa
 
 ## Referencias detectadas
 

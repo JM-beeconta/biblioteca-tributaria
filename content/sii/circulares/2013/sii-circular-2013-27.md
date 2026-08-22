@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a la Renta. Fuente: Impuestos Directos Circular N° 28 del 29 de Mayo del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas Junio de 2013. Fuente: Subdirección de Fiscalización. Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2013. Fuente: Subdirección de Fiscalización. Circular N° 26 del 22 de Mayo del 2013 Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que estab…
+calización. Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2013. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

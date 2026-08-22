@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2013
-- Fecha: 2013-02-21
+- Fecha: 2013-02-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu9.pdf
 - Hash SHA-256: 404e91376bc3f1e1c17208a3b245e4254dd9ca8f0ab2bdc4be7202474ac5912c
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa. Circular N° 10 del 21 de Febrero del 2013 Tabla de cálculo de reajustes, intereses y multas marzo 2013. Fuente: Subdirección de Fiscalización Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 8 del 13 de Febrero del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año…
+scalización Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

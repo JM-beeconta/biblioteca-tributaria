@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 53
 - Año: 2013
-- Fecha: 2013-11-25
+- Fecha: 2013-11-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu53.pdf
 - Hash SHA-256: 061f04c4e45d1ce91c40af597ab583b98e6860bb91059b4ef16c657bda9c3009
 
 ## Resumen
 
-ón Circular N° 54 del 25 de Noviembre del 2013 Instruye sobre las modificaciones efectuadas a las normas sobre retención de impuestos establecidas en el N°4, del artículo 74 de la Ley sobre Impuesto a la Renta, por la Ley N°20.630, del 27 de septiembre del 2012. Fuente: Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2013 y el 9 de diciembre del año 2013. Fuente: Oficina de Gestión Normativa Circular N° 52 del 13 de Noviembre del 2013 Tablas del Impuesto…
+Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2013 y el 9 de diciembre del año 2013. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

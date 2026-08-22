@@ -6,54 +6,368 @@
 - Año: 2013
 - Fecha: 2013-06-11
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja946.doc
-- Hash SHA-256: bfb7563160b01a4c114d6e8d017b4bfd634712128d7a16bef19e5b07624c5db2
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja957.doc
+- Hash SHA-256: ff79767c6d9df63addc2fff5274ae743d7a88fcaf3dea3d1335ddcaab26b9708
 
 ## Resumen
 
-oacute;n del .268, del 11 de junio del 2013; y consulta sobre la aplicación del inciso 2°, del N° 3 del artículo 126 del Código Tributario para obtener la devolución del Impuesto Adicional en el caso que indica. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; D.F.L. N°2, de 1959, Art. 1, Art. 18 &ndash; Ley N° 20.455, de 2010 &ndash; Circular N° 57, de 2010. (Ord. Nº 946, de 13-04-2016) | Word Solicita criterios en relación con beneficios tributarios establecidos en el DFL N° 2 de 1959, sobre Plan Habitaciona…
+| Word Solicita la reconsideración del .268, del 11 de junio del 2013; y consulta sobre la aplicación del inciso 2°, del N° 3 del artículo 126 del Código Tributario para obtener la devolución del Impuesto Adicional en el caso que indica.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":57,"year":2010}
-- {"type":"circular","number":37,"year":2003}
+- {"type":"circular","number":54,"year":2013}
+- {"type":"oficio","number":1268,"year":2013}
+- {"type":"articulo","law":"LIR","article":"63"}
+- {"type":"articulo","law":"LIR","article":"74 N"}
+- {"type":"articulo","law":"LIR","article":"74"}
+- {"type":"articulo","law":"LIR","article":"58"}
+- {"type":"articulo","law":"LIR","article":"75"}
+- {"type":"articulo","law":"LIR","article":"58 c"}
+- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"articulo","law":"CT","article":"126 N"}
+- {"type":"articulo","law":"CT","article":"126  N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – D.F.L. N°2, DE 1959 , ART. 1, ART. 18 – LEY N° 20.455, DE 2010 – CIRCULAR N° 57, DE 2010. (ORD. N° 946, DE 13.04.2016)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 58, N°2, ART. 63, ART. 74,
+ N°4 – CÓDIGO TRIBUTARIO, ART. 126, N°3, INCISO 2° – LEY N° 20.630, DE 2012
+    – CIRCULAR N° 54, DE 2013 – OFICIO N° 1268, DE 2013. (ORD. N° 957, DE
+                                 13.04.2016)
 
-Solicita criterios en relación con beneficios tributarios establecidos en el DFL N° 2 de 1959, sobre Plan Habitacional.
-Mediante ordinario indicad o en el antecedente se solicita a esta Dirección Nacional definir criterios para la aplicación de los beneficios contenidos en el DFL N° 2 de 1959, sobre Plan Habitacional , respecto de una tercera propiedad .
-I ANTECEDENTES
-El ordinario expone el caso de un contribuyente persona natural quien consulta si puede gozar de los beneficios establecidos en el DFL N° 2 de 1959, sobre Plan Habitacional (en adelante “DFL N ° 2”), si adquiere una tercera vivienda económica y luego vende una de las dos que h abía adquirido con anterioridad .
-Informa que el contribuyente no señaló s i las viviendas fueron adquiridas antes de las modificaciones efe ctuadas por la Ley N° 20.455 al DFL N° 2 .
-Con la finalidad de dar respuesta al contribuyente, la Dirección Regional revisó el DFL N° 2 citado , la Circular N° 37 de 2003, la Ley N° 20.455 y la Circular N° 57 de 2010. Expresa que tanto la Ley N° 20.455 como la Circular N° 57 de 2010 disponen que sólo las personas naturales pueden acogerse a los beneficios del DFL N° 2 y respecto d e un máximo de dos viviendas, limitación que se establece desde la fecha de entrada en vigencia de la ley.
-Concluye que los documentos analizados no permiten dar respuesta certera al contribuyente, ya que no existe un pronunciamiento claro respecto de su consulta. Recuerda que, de acuerdo a la Circular N° 57 de 2010, si a la fecha de entrada de vigencia de la Ley N° 20.455 el contribuyente ya era dueño de dos viviendas acogidas a los beneficios establecidos por el DFL N° 2 , no puede gozar de ellos respecto de una tercera que adquiera en el futuro, a menos que venda una de las que compró con anterior idad. Sin embargo, la instrucción sólo regula ría la situación en que la persona natural compra un bien raíz con posterioridad a la entrada en vigencia de las modificaciones legales.
-A juicio de la Dirección Regional, de la historia de la Ley N° 20.455 y de las Circulares N°57 de 2010 y N° 2 de 2012, queda claro que el legislador limitó la “ cantidad ” de inmuebles que pueden acogerse a los beneficios en comento, pero no que fueran sólo las dos primeras . En consecuencia, si una persona natural tiene tres viviendas económicas y vende una de las que adquirió en primer lugar, podría gozar de los beneficios tributarios del DFL N° 2 respecto de la propiedad adquirida en tercer lugar.
-II ANÁLISIS
-El artículo 1°, inciso segundo, del DFL N° 2 establece que “A los beneficios para las "viviendas económicas" que contempla el presente decreto con fuerza de ley, solamente podrán acogerse las personas naturales, respecto de un máximo de dos viviendas que adquieran, nuevas o usadas. En caso que posean más de dos "viviendas económicas", los beneficios solamente procederán respecto de las dos de dichas viviendas que tengan una data de adquisición anterior . ”
-Por su parte, el punto 6.1., viviendas económicas adquiridas a la fecha de entrar en vigencia las modificaciones, de la Circular N° 57 de 2010 instruye lo siguiente:
-“Los contribuyentes, personas naturales o jurídicas de cualesquier clase, que actualmente son propietarias de viviendas económicas, así como aquellos contribuyentes que adquieran sus viviendas económicas antes de entrar en vigencia las modificaciones al DFL N° 2, podrán seguir gozando de los mismos beneficios. En otras palabras, continúan amparados aquellos contribuyentes que sean propietarios o adquieran sus viviendas económicas al día 31 de octubre de 2010.
-Con todo, esas viviendas económicas o cuotas sobre ellas adquiridas nuevas o usadas, por acto entre vivos, antes entrar en vigencia las modificaciones al DFL N° 2, igualmente serán consideradas para calcular el límite máximo de viviendas económicas por cada persona natural. De este modo, si al 01 de noviembre de 2010 la persona ya es propietaria de dos o más viviendas económicas, o cuotas de dominio sobre ellas, no podrá gozar de los beneficios establecidos en el nuevo texto del DFL N° 2 respecto de las nuevas viviendas económicas que adquiera en el futuro, a menos que enajene las viviendas económicas beneficiadas, liberando su cupo máximo para nuevas adquisiciones.” 
-Dicho lo anterior, y excluyendo el caso de viviendas adquiri das por sucesión por causa de muerte (las cuales no se computan para calcular el límite máximo) , a partir de las normas legales e instrucciones impartidas por este Servicio se desprende que:
-Si la persona natural ya era propietaria de dos o más viviendas (o cuotas de dominio sobre ellas) a la fecha de entrar en vigencia las modificaciones al DFL N° 2 (esto es, al 01 de noviembre de 2010), no puede gozar de los beneficios establecidos en el nuevo texto del DFL N° 2 respecto de ninguna vivienda económica que adquiera a partir del 01 de noviembre de 2010.
+Solicita la reconsideración del Oficio N° 1.268, del 11 de junio del  2013;
+y consulta sobre la aplicación del inciso 2°, del N° 3 del artículo 126 del
+Código Tributario para obtener la devolución del Impuesto Adicional  en  el
+caso que indica.
 
-En otras palabras y para el caso analizado , la persona natural partió con su límite de viviendas excedido a la fecha de entrar en vigencia las modificaciones al DFL N° 2.
 
-Con todo , la persona natural igualmente podrá gozar de los beneficios establecidos en el nuevo texto del DFL N° 2 respecto de la nueva vivienda económica que adquiera a partir del 01 de noviembre de 2010, en caso de enajenar las viviendas económicas beneficiadas, “liberando su cupo máximo para nuevas adquisiciones”. Esto es:
+Se ha solicitado a este Servicio, se  reconsidere  la  respuesta  formulada
+mediante el Oficio N° 1.268, del 11 de junio del 2013, y adicionalmente  se
+consulta sobre la procedencia de solicitar la devolución conforme al inciso
+segundo del N° 3 del  artículo  126  del  Código  Tributario  (CT),  de  la
+diferencia de Impuesto Adicional (IA) generada por el incremento de la base
+imponible por disposición del artículo 58 N° 2 de la Ley sobre  Impuesto  a
+la Renta (LIR) tratándose de dividendos  provisorios,  cuando  la  sociedad
+anónima restituye el crédito por Impuesto de Primera Categoría  (IDPC)  del
+artículo 63 de la LIR.
 
-Debe enajenar cuantas viviendas económicas beneficiadas sea necesario para “liberar” uno o dos de los cupos que admite la ley .
+   I. ANTECEDENTES.
+1.- Inicia su presentación citando el Oficio N° 1.268 del 11  de  junio  del
+2013, en el cual se planteó que si parte del IA retenido y  pagado  “deviene
+en excesivo”, en el caso  de  dividendos  provisorios,  cuando  la  sociedad
+anónima domiciliada en Chile restituye por cuenta del accionista  extranjero
+el crédito por IDPC imputado contra el IA, según  la  obligación  tributaria
+prevista en el artículo 74 N° 4 de la LlR, por haberse materializado un  FUT
+insuficiente al 31 de diciembre del año respectivo.
+Al respecto cita parte del  Oficio  referido  señalando:  "En  la  situación
+planteada, no existe un pago efectuado doblemente,  en  exceso  o  indebido,
+sino  que  más  bien,  se  han  cumplido  las  obligaciones  tributarias  de
+retención y restitución, en la forma que dispone el artículo 74, N°4  de  la
+LlR y las instrucciones de este Servicio".
+Agrega que comparte el criterio contenido en el  Oficio  citado,  en  cuanto
+señala que al momento de  efectuarse  la  retención  del  IA,  la  situación
+tributaria de los dividendos  pagados  no  es  definitiva  y  por  tanto  es
+correcto efectuar un incremento en  la  base  imponible  correspondiente  al
+100% de la tasa del IDPC, para efectuar la retención del  IA.  Sin  embargo,
+frente a un FUT que ha resultado insuficiente (no  cero)  existe  una  parte
+del crédito por IDPC utilizado por el accionista al que  sí  tenía  derecho.
+Si bien es cierto que se le giró al contribuyente la diferencia que  existía
+entre el 100% del crédito utilizado en forma provisoria y el crédito al  que
+en definitiva tenía derecho, igualmente existe un impacto en el  cálculo  de
+la retención  del  IA  efectuada  al  momento  de  la  distribución  de  los
+dividendos que no habría sido  considerado  posteriormente  al  momento  del
+giro, que no fue tratado expresamente en el Oficio N° 1.268 del 2013.
+Por lo mismo, requiere una reconsideración del citado oficio por  cuanto  en
+la consulta no se precisó adecuadamente la situación del derecho al  crédito
+por IDPC y el consecuente impacto del incremento en la  base  imponible  del
+IA.
+2.- Luego, prosigue exponiendo sobre los  hechos  pertinentes,  e  indicando
+que en su opinión, al restituirse el  crédito  en  exceso  por  la  sociedad
+anónima, por cuenta del contribuyente de IA, se habría generado un  pago  en
+exceso de IA durante los años tributarios 2008 y 2009.
+En el año tributario 2008, la base imponible del IA de  $xx.xxx.xxx  incluyó
+una suma equivalente al 100% del crédito por IDPC que  en  forma  provisoria
+se utilizó al momento de la distribución de los dividendos, en tanto que  la
+base imponible que consideraba el incremento asociado al  crédito  por  IDPC
+al que en definitiva se tenía derecho ascendía  a  $xx.xxx.xxx;  y  respecto
+del año tributario 2009, para la retención del  IA  se  consideró  una  base
+imponible de $x.xxx.xxx que incluye un incremento equivalente  al  100%  del
+crédito por IDPC, en vez de la suma de $x.xxx.xxx  que  comprendía  solo  el
+incremento asociado al  crédito  de  IDPC  al  que  efectivamente  se  tenía
+derecho.
 
-La liberación del primer o segundo cupo debe ser previa a la adquisición de las nuevas viviendas que pretende adquirir con los beneficios ( liberando su cupo máximo “ para nuevas adquisiciones”).
 
-Atendido que la ley no distingue, la persona natural puede elegir cuál de las viviendas económicas ya beneficiadas (cupo) decide liberar, sin atender a su antigüedad. De este modo, si el contribuyente registra sólo dos viviendas económicas ya beneficiadas (dos cupos) , una adquirida el año 2008 y otra el año 2010, podrá liberar un o cualquiera de los cupo s enajenando cualquiera de las dos viviendas. Por cierto, en el ejemplo señalado, también puede enajenar ambas viviendas con el fin de liberar los dos cupos.
+De esta forma, al ordenarse la restitución por cuenta del  contribuyente  de
+IA del crédito de IDPC,  no  fue  considerado  el  impacto  que  produjo  el
+incremento en la base imponible del IA, redundando por  consiguiente  en  un
+exceso del mismo soportado por el contribuyente de dicho impuesto.
+Lo anterior se debió a que en la fecha en que acontecieron  los  hechos,  el
+artículo 74 N° 4 de la LIR, antes de su modificación por la Ley  N°  20.630,
+del 27 de septiembre del 2012, disponía que este Servicio sólo podía  emitir
+los giros por el exceso de crédito otorgado. Así, este Servicio no  tuvo  la
+facultad legal  para  descontar  en  los  giros,  el  monto  en  exceso  que
+experimentó la base imponible del IA y, además, el  contribuyente  de  dicho
+impuesto no  estaba  obligado  a  presentar  un  Formulario  N°  22  que  le
+permitiera  solicitar  la  devolución  del   IA   pagado   en   exceso.   En
+consecuencia, a la fecha solo cabía solicitar la  devolución  a  través  del
+artículo 126 del Código Tributario, el cual en su N° 3  del  inciso  segundo
+dispone: "A lo dispuesto en este número se sujetarán también las  peticiones
+de devolución de tributos o de cantidades que  se  asimilen  a  éstos,  que,
+encontrándose dentro del plazo  legal  que  establece  este  artículo,  sean
+consideradas fuera de plazo de acuerdo  a  las  normas  especiales  que  las
+regulen".
+Esta última situación fue subsanada por la Ley N° 20.630, ya  que  el  nuevo
+inciso quinto del N°4 del artículo 74 de la LlR, dispuso al efecto:  "Si  la
+deducción del crédito establecido en  el  artículo  63  resultare  indebida,
+total o parcialmente, la sociedad deberá pagar  al  Fisco,  por  cuenta  del
+contribuyente de IA, la diferencia de impuesto que se determine  al  haberse
+deducido indebidamente el crédito, sin perjuicio del derecho de la  sociedad
+de repetir contra aquél. Esta cantidad se pagará en la declaración  anual  a
+la renta que deba presentar la sociedad,  reajustada  en  el  porcentaje  de
+variación del Índice de Precios al Consumidor entre el mes  anterior  al  de
+la retención y el mes anterior  a  la  presentación  de  la  declaración  de
+impuesto a la renta de la sociedad, oportunidad en la  que  deberá  realizar
+la restitución”.
+Más aun, la Circular N° 54, de 2013, señala:  “(…)  deberá  recalcularse  el
+crédito por IDPC que efectivamente corresponde deducir y la  base  imponible
+sobre la cual se practicó la retención del referido tributo, en  el  sentido
+de no considerar como incremento de ésta, el todo o parte  del  crédito  por
+IDPC que resulte en definitiva, total o parcialmente improcedente".
+3.- Atendido lo anteriormente expuesto,  solicita  una  reconsideración  del
+Oficio N° 1.268, de fecha 11 de junio de 2013, por cuanto  sostiene  que  en
+aquel no se aborda el efecto del incremento de la base imponible del IA  por
+el crédito de IDPC otorgado, cuando  la  sociedad  anónima  restituye  dicho
+crédito.
+Asimismo, pide confirmar que al producirse un aumento de la  base  imponible
+del IA el contribuyente habría soportado dicho impuesto en  exceso,  por  lo
+cual tendría derecho a  solicitar  la  devolución  del  IA  que  deviene  en
+excesivo conforme a las normas del artículo 126 N° 3 inciso segundo del  CT.
 
-III CONCLUSIÓN
-Conforme lo expuesto , téngase por absuelta su consulta en los tér minos precedentemente señalados; en particular, en el sentido que, en caso de tener dos viviendas previamente acogidas al DFL N° 2, la persona natural puede elegir cuál de esas dos viviendas económicas ya beneficiadas decide liberar, sin atender a un orden según su antigüedad de adquisición.
+II.-  ANÁLISIS.
 
-FERNANDO BARRAZA LUENGO
-DIRECTOR
+1.- En primer término, según el texto del N° 4 del artículo  74  de  la  LIR
+antes  de  su  sustitución  por  la  Ley  N°  20.630,  del  2012[1],  y  las
+instrucciones sobre la materia vigentes en la fecha en  que  ocurrieron  los
+hechos descritos[2], cuando una sociedad anónima efectuaba una  distribución
+de dividendos provisorios, esto es, aquellos no imputados al FUT, FUF  o  al
+FUNT registrado por la sociedad al  31  de  diciembre  del  año  precedente,
+debido a la  ausencia  o  insuficiencia  de  éstos,  dicha  distribución  se
+entendía efectuada con cargo a las utilidades generadas en el  ejercicio  en
+curso, debiendo la sociedad retener el IA aplicando una tasa  de  35%  sobre
+el monto del dividendo distribuido e imputar a la suma retenida  el  crédito
+por IDPC,  con  la  alícuota  que  correspondiese,  aunque  tales  rentas  o
+cantidades a la fecha de la distribución aun no hubiesen sido afectadas  con
+el citado tributo de categoría.
 
-Oficio N° 946, de 13.04.2016
-Subdirección Normativa
-Dpto. de Técnica Tributaria.
+Conforme lo establecen los artículos 58 N° 2 y 63 de  la  LIR[3],  cada  vez
+que se invocara el crédito por IDPC respecto de  un  dividendo  gravado  con
+IA, se debía agregar un monto equivalente a dicho crédito para  calcular  la
+base imponible del IA.  De  acuerdo  a  la  misma  norma,  este  agregado  o
+incremento se consideraba como suma afectada por el IDPC para el cálculo  de
+dicho crédito.
+
+En el evento que  el  crédito  por  IDPC  resultara  improcedente,  total  o
+parcialmente, al final del ejercicio, por haberse  determinado  una  pérdida
+tributaria,  por  haberse  generado  utilidades  tributarias   insuficientes
+durante el ejercicio  para  cubrir  el  monto  del  dividendo  provisorio  o
+utilidades sin derecho al referido crédito, o por cualquiera otra causa,  la
+parte final del inciso primero del  N°  4  del  artículo  74  de  la  LIR  e
+instrucciones impartidas sobre la materia vigentes  a  la  fecha,  disponían
+que la sociedad anónima respectiva, por cuenta del accionista sin  domicilio
+o residencia en el país, debía restituir en arcas fiscales, el  total  o  el
+exceso del crédito por IDPC rebajado indebidamente de la retención  del  IA.
+El reintegro del crédito por la sociedad  anónima  debía  efectuarse  en  la
+misma fecha en que la  sociedad  debía  efectuar  su  declaración  anual  de
+impuesto a la renta debidamente reajustada en la  variación  del  Índice  de
+Precios al Consumidor existente entre el último día del mes anterior  al  de
+la retención del IA y el último día del mes anterior al de  la  presentación
+de la declaración anual.
+
+Por lo anterior, la legislación vigente  en  la  fecha  que  ocurrieron  los
+hechos, ordenaba a  la  sociedad  anónima  restituir  el  crédito  por  IDPC
+indebidamente rebajado o deducido de la retención de IA, en su totalidad,  o
+bien en forma parcial de haberse  generado  utilidades  tributables  que  se
+afectaron con IDPC durante el curso del año, sin existir base  legal  en  la
+LIR o en las instrucciones impartidas por este  Servicio  para  autorizar  a
+efectuar descuentos o compensaciones en contra del crédito  de  IDPC  objeto
+de restitución.
+
+Así, ni el texto del artículo 74 N°  4  de  la  LIR,  ni  las  instrucciones
+vigentes sobre  la  materia,  de  acuerdo  a  lo  señalado  precedentemente,
+permitían rebajar del crédito por IDPC que debía restituirse, la  diferencia
+generada por  el  incremento  de  la  base  imponible  de  IA  en  un  monto
+equivalente al crédito de IDPC objeto de la restitución[4].
+
+Por lo mismo, no cabe sino confirmar lo señalado en el Oficio N°  1.268  del
+2013, por cuanto tanto la retención del IA como la restitución  del  crédito
+por IDPC, se efectuaron por los montos que correspondían conforme a  la  LIR
+e instrucciones vigentes sobre la materia por lo cual, en lo  tocante  a  la
+solicitud de devolución de impuestos  utilizando  para  ello  el  N°  2  del
+artículo 126 del CT, planteada en el Oficio N°  1.268  del  2013,  no  puede
+señalarse que haya existido un pago  de  impuestos  que  se  haya  efectuado
+doblemente, en exceso o que resulte indebido, es  decir,  efectuado  por  un
+monto  distinto  de  aquel  que  correspondía,  no  siendo   procedente   la
+utilización del mecanismo indicado.
+
+
+
+
+
+
+
+
+
+Asimismo, no es efectivo que en el Oficio N° 1.268 del  2013,  no  trate  el
+incremento por el crédito del IDPC, que redunda en la retención y  pago  del
+IA, atendido que dicha situación se expone en los  hechos  explicados[5],  y
+cuya respuesta debe entenderse comprendida en las conclusiones  del  Oficio,
+cuando se señala que no ha existido un pago efectuado doblemente  en  exceso
+o indebido.
+
+2.- Ahora bien, esta presentación tiene por objeto también  consultar  sobre
+la procedencia de aplicar el mecanismo del artículo 126 del CT para  obtener
+una devolución de la diferencia de IA generada por el incremento de la  base
+imponible de la retención, ahora basada en la causal establecida  en  inciso
+segundo del N° 3 de dicha norma.
+
+Al respecto, puede señalarse que el N° 3  establece  que:  "No  constituirán
+reclamo las peticiones de devolución de impuestos cuyo fundamento  sea:  (…)
+3°.- La  restitución  de  tributos  que  ordenan  leyes  de  fomento  o  que
+establecen franquicias tributarias.
+A lo dispuesto en  este  número  se  sujetarán  también  las  peticiones  de
+devolución de tributos o  de  cantidades  que  se  asimilen  a  éstos,  que,
+encontrándose dentro del plazo  legal  que  establece  este  artículo,  sean
+consideradas fuera de plazo de acuerdo  a  las  normas  especiales  que  las
+regulen”.
+Las instrucciones impartidas por  este  Servicio  sobre  la  materia  en  la
+Circular N° 72, del 11 de octubre del 2001, señalan  que  resulta  aplicable
+el inciso segundo del N° 3 del artículo 126 del CT, cuando teniendo  derecho
+el contribuyente conforme a una ley especial a solicitar  la  devolución  de
+tributos o de cantidades que se asimilen a tales, se ha extinguido el  plazo
+especial previsto en el régimen específico que le rija pero aún se  mantiene
+pendiente el plazo que contempla el artículo 126 de 3  años  contados  desde
+el hecho o acto  que  sirve  de  fundamento,  el  cual,  para  la  hipótesis
+analizada sería la fecha de entrada en vigor de la ley de fomento en que  se
+establece la franquicia tributaria que dispone la devolución.
+Claramente, del texto de la norma y las instrucciones indicadas,  la  causal
+invocada supone en primer término, la existencia de una  ley  de  fomento  o
+que establezca una franquicia  tributaria  la  cual  conceda  el  derecho  a
+obtener la devolución de tributos, dentro de un plazo especial, lo  cual  no
+acontece en el caso examinado.
+3.- Sin perjuicio de lo señalado anteriormente, cabe tener presente  que  en
+la situación analizada, si bien los accionistas sin domicilio ni  residencia
+en el país, contribuyentes señalados en el N° 2, del artículo 58 de la  LIR,
+no se encuentran obligados a presentar una declaración anual de impuestos  a
+la renta, éstos igualmente  pueden  voluntariamente  optar  por  presentarla
+cuando tengan derecho a solicitar la devolución de eventuales remanentes  de
+impuestos a su  favor  provenientes  de  retenciones  que  se  les  hubieren
+practicado.
+En tal sentido, cabe precisar que la restitución efectuada por  la  sociedad
+anónima al Fisco del crédito por IDPC deducido en  exceso,  por  cuenta  del
+accionista contribuyente de IA, para todos los  efectos  se  considera  como
+una mayor retención de dicho impuesto, al momento en que ésta se  declara  y
+paga por la sociedad respectiva.
+
+En consecuencia, la referida restitución  de  crédito  deducido  en  exceso,
+siempre que haya sido pagada por la sociedad respectiva, podrá ser  imputada
+por el accionista no domiciliado ni residente en el país en  su  declaración
+anual de impuesto a la renta presentada voluntariamente para tal efecto,  en
+contra del IA que en definitiva le afecte, debiendo previamente  reajustarla
+por la variación experimentada por el  IPC  entre  el  último  día  del  mes
+anterior al de la retención que origina el exceso de  crédito  y  el  último
+día del mes  anterior  a  la  fecha  de  cierre  del  ejercicio  respectivo,
+conforme a lo dispuesto por el artículo 75 de la  LIR,  sin  agregar  ningún
+otro reajuste a dicha cantidad.
+
+
+
+
+
+III.- CONCLUSIÓN.
+De acuerdo a lo  anteriormente  expresado,  se  confirman  las  conclusiones
+vertidas en el Oficio N° 1.268,  de  fecha  11  de  junio  de  2013,  en  lo
+referente  a  que  en  la  especie  no  existió  un  pago  de  IA  efectuado
+doblemente, en forma indebida o en  exceso,  por  lo  cual  es  improcedente
+utilizar el mecanismo del  articulo  126  N°  2  del  CT  para  impetrar  la
+devolución del IA.
+Tampoco sería procedente solicitar la devolución del  impuesto  que  resulte
+del incremento en la base imponible  del  IA,  conforme  a  las  normas  del
+artículo 126 N° 3 inciso segundo del CT, que plantea en la  nueva  consulta,
+atendido que no acontece en el caso examinado el  supuesto  esencial  de  la
+norma, el cual supone la existencia de una ley de fomento o  que  establezca
+una  franquicia  tributaria  la  cual  conceda  el  derecho  a  obtener   la
+devolución de tributos dentro de un determinado plazo.
+Sin perjuicio de lo anterior, se hace presente que si bien  los  accionistas
+sin domicilio ni residencia en el país, contribuyentes señalados  en  el  N°
+2, del artículo 58 de la LIR, no se encuentran  obligados  a  presentar  una
+declaración  anual  de  impuestos  a  la  renta,  éstos  igualmente   pueden
+voluntariamente optar por presentarla cuando tengan derecho a  solicitar  la
+devolución de eventuales remanentes de impuestos a su favor provenientes  de
+retenciones que se les hubieren practicado.
+
+
+
+
+
+                                       FERNANDO BARRAZA LUENGO
+
+
+       DIRECTOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Oficio N° 957, de 13.04.2016
+
+                           Subdirección Normativa
+                        Dpto. de Impuestos Directos.
+                           -----------------------
+[1] El N° 4 del artículo 74 de la LIR, antes de su sustitución  por  la  Ley
+N° 20.630 del año 2012, establecía lo  siguiente  en  la  parte  pertinente:
+“4º.- (…) En el caso de dividendos pagados  por  sociedades  anónimas  o  en
+comandita por acciones, si la  deducción  del  crédito  resultare  indebida,
+total o parcialmente, la sociedad  deberá  restituir  al  Fisco  el  crédito
+deducido en exceso, por cuenta  del  contribuyente  de  impuesto  adicional.
+Esta cantidad se pagará reajustada en la  proporción  de  la  variación  del
+índice de precios al consumidor entre el último día del mes anterior  al  de
+la retención y el último día del  mes  anterior  a  la  presentación  de  la
+declaración de impuesto a la renta de la sociedad  anónima,  oportunidad  en
+la que deberá realizar la restitución (…)”.
+
+[2] Las instrucciones en relación con lo dispuesto por dicho precepto  legal
+fueron impartidas por este Servicio principalmente mediante  las  Circulares
+N° 53, del 17 de octubre de 1990 y 60 del 3 de diciembre del año 1990.
+
+[3] Tanto el N° 2 del artículo 58 como el artículo  63  de  la  LIR,  fueron
+modificados por la Ley N° 20.780, del 29 de septiembre del  2014,  en  ambos
+casos con vigencia a partir del 1° de enero del 2017.
+
+[4] El artículo 74 N° 4 de la LIR, sustituido por  la  Ley  N°  20.630,  del
+2012, contempla en su nuevo inciso quinto, que si la deducción  del  crédito
+del artículo 63 de la LIR  resultare  indebida,  total  o  parcialmente,  la
+sociedad deberá pagar al Fisco, por  cuenta  del  contribuyente  de  IA,  la
+diferencia de impuesto que se determine al  haberse  deducido  indebidamente
+el crédito, debidamente reajustada, en la declaración anual a la  renta  que
+deba presentar la sociedad sin perjuicio  del  derecho  de  la  sociedad  de
+repetir contra aquél. Las instrucciones impartidas sobre la modificación  en
+comento, contenidas en la Circular N° 54, de 2013,  abordan  el  efecto  del
+incremento por el crédito de IDPC en la  base  imponible  de  la  retención,
+señalando que en tal situación debe recalcularse tanto el crédito  por  IDPC
+que efectivamente corresponde deducir como la base imponible sobre  la  cual
+se  practicó  la  retención  del  referido  tributo,  sin  considerar   como
+incremento de ésta, todo o  parte  del  crédito  por  IDPC  que  resulte  en
+definitiva, total o parcialmente improcedente.
+[5] El Oficio  N°  1.268  del  2013,  en  la  sección  I.-  relativa  a  los
+Antecedentes, señala: “Puede advertirse desde ya, que la tasa  de  retención
+de 35% de IA se aplica tanto a la renta gravada ($830), como  al  incremento
+por  el  crédito  por  Impuesto  de  Primera  Categoría  ($170).  Luego,  si
+finalmente  dicho  crédito  resulta  improcedente,  el  Impuesto   Adicional
+aplicado sobre el citado incremento, también resultaría improcedente.”.

@@ -6,51 +6,61 @@
 - Año: 2016
 - Fecha: 2016-06-24
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1835.doc
-- Hash SHA-256: 6a308f40913647da349f8e206d8c3883f36309fbb5061e7ab26bddf3300d93ec
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1845.htm
+- Hash SHA-256: 7c31ae1b9124c06a8c6eb52959ecb5f94c6eba47938d015518c245fd5b9a8ebd
 
 ## Resumen
 
-deg; 137, de 1975 &ndash; . (Ord. Nº 1845, de 24-06-2016) | Word Aplicación de exención contenida en el artículo 24 N° 6 de la Ley de Timbres y Estampillas a documento que indica. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash;Cuadro Anexo, Número 1, Letra A, N°9 &ndash; Ley N° 20.033, Art. 2 &ndash; Oficio N° 212, de 2013. (Ord. Nº 1835, de 23-06-2016) | Word Solicita pronunciamiento sobre exención de contribuciones de bienes raíces pertenecientes a las Fábricas y Maestranzas del Ejército. Timbres y…
+ituciones financieras. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Circular N° 58, de 1978 &ndash; Resolución Exenta N° 137, de 1975 &ndash; . (Ord. Nº 1845, de 24-06-2016) |
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":212,"year":2013}
+- {"type":"circular","number":58,"year":1978}
+- {"type":"oficio","number":1559,"year":2014}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 –CUADRO ANEXO, NÚMERO 1, LETRA A, N°9 – LEY N° 20.033, ART. 2 – OFICIO N° 212, DE 2013.
-(ORD. N° 1835, DE 23.06.2016)
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – CIRCULAR N° 58, DE 1978 – RESOLUCIÓN EXENTA N° 137, DE 1975 – OFICIO N° 1559, DE 2014. (ORD. N° 1845, DE 24.06.2016)
+APLICACIÓN DE EXENCIÓN CONTENIDA EN EL ARTÍCULO 24 N° 6 DE LA LEY DE TIMBRES Y ESTAMPILLAS A DOCUMENTO QUE INDICA.
+Se ha recibido en este Servicio la presentación del antecedente, mediante la cual solicita aclarar si resulta aplicable la exención contenida en el artículo 24 N° 6 de la Ley de Timbres y Estampillas al documento que daría cuenta de un crédito otorgado por una institución bancaria a una Caja de Compensación y Asignación Familiar, para efectos de su financiamiento. I ANTECEDENTES
+De acuerdo a la consulta, una institución bancaria local ha recibido una solicitud de crédito por parte de una Caja de Compensación y Asignación Familiar (en adelante, la “Caja”), para su financiamiento.
+Tras una serie de consideraciones que serán analizadas más adelante, la presentación señala que el documento a emitir por la institución bancaria no sería de aquellos que dan cuenta de una captación de capital de otra institución congénere y tampoco se trataría de documentos que una Caja emitirá para la captación de fondos, surgiendo la duda de si el documento en cuestión, que da cuenta de una operación de crédito de dinero, se encontraría exento del Impuesto de Timbres y Estampillas, conforme al N° 6 del artículo 24, de la Ley del ramo.
+Al respecto, tras citar la parte pertinente de la Circular N° 58 de 1978 y lo resuelto en el Oficio 1271 de 2013, el peticionario manifiesta dudas respecto de si la exención contenida en el artículo 24 N° 6, antes citado, es extensiva a los documentos que se emitan con motivo del crédito que se otorgue a una Caja para efectos de su financiamiento, pues no se darían los supuestos explicados en la Circular N° 58, en especial porque la operación no calificaría como una operación de captación de capital de otras instituciones congéneres.
+Pendiente la respuesta a su consulta, el peticionario ha presentado un escrito para reiterar y complementar la petición anterior en vista del Oficio N° 1559 de 2014, en el sentido de aclarar a quién corresponde determinar el destino de los fondos del crédito y, si para efectos de aplicar la exención, basta la declaración que formule al banco la respectiva Caja en cuanto a dicho destino, limitándose la responsabilidad de la entidad bancaria, sin perjuicio de las facultades de fiscalización de este Servicio respecto de la Caja de Compensación.
+II ANALISIS
+Conforme al artículo 24 N° 6 de la Ley de Timbres y Estampillas, se encuentran exentos de dicho impuesto los documentos que dan cuenta de los siguientes actos, contratos o convenciones:
+“Documentos otorgados por instituciones financieras, en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones (…).
+La lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile.”
+En cumplimiento de la norma citada, la Resolución N° 137 de 1975, determina que los documentos exentos de Impuesto de Timbres y Estampillas son los siguientes:
+a) Letras de cambio y libranzas aceptadas por instituciones financieras con ocasión de captación de ahorros, con provisión de fondos por el inversionista;
+b) Reconocimientos de deudas, pagarés y recibos de dinero en que las instituciones financieras se reconozcan deudoras de una captación de ahorros;
+c) Documentos que den cuenta de la captación de fondos a inversionistas, que se efectúe mediante la constitución de depósitos de ahorro u otorgando derechos sobre la cartera de valores de propiedad de la institución financiera, reconociéndose ésta en ambos casos como deudora de los fondos captados;
+d) Contratos de mutuo en que el deudor sea una institución financiera;
+e) Letras hipotecarias, bonos en sus diversas especies y debentures de sociedades anónimas;
+f) Contratos de compraventa de títulos de crédito en que el vendedor sea una institución financiera, y
+g) Contratos de compraventa de títulos de créditos con pacto de recompra, en que el vendedor es una institución financiera.
+Sin perjuicio de lo anterior, la referida resolución dispone además que la exención sólo procederá cuando concurran “copulativamente” los requisitos que, para los efectos del presente análisis, se resumen a continuación:
 
-Solicita pronunciamiento sobre exención de contribuciones de bienes raíces pertenecientes a las Fábricas y Maestranzas del Ejército.
+a) Que el emisor del documento sea una institución financiera
+b) Que los documentos incidan en operaciones de captación de capitales de ahorrantes e inversionistas
+c) Que el o los documentos den cuenta de operaciones de crédito de dinero; y
+d) Que el o los documentos sean necesarios para la realización de dichas operaciones de crédito de dinero.
+Considerando que las Cajas de Compensación tienen la calidad de “instituciones financieras” para los efectos de la exención , de su presentación se desprende que la consulta se limita a determinar si un documento emitido con motivo de un crédito otorgado a una Caja, para efectos de su financiamiento, califica o no como una “operación de captación” .
+Sobre el particular, y a propósito de materias relacionadas, este Servicio ha señalado que el concepto de “captación” tiene una acepción amplia , de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del público, sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma.
+Por su parte, y en lo que interesa, los documentos deben ser “necesarios para la realización de estas operaciones” (se entiende, de las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales). Luego, que los documentos sean necesarios (indispensables, inevitables o forzosos) para el cumplimiento de las referidas operaciones, excluye aquellos documentos que incidan en otro tipo de operaciones, como serían las operaciones destinadas a obtener créditos para el financiamiento de la propia Caja de Compensación, la adquisición de un inmueble o el pago de deudas .
+Sobre esta materia cabe tener presente que, según reiterada jurisprudencia administrativa, por tratarse de normas excepcionales, las exenciones se interpretan restringidamente y deben cumplirse estrictamente todos sus requisitos de aplicación . Por tanto, no todo documento se encuentra exento conforme al artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas, sino sólo aquellos que, fuera de incluirse en la lista establecida por la Resolución N° 137 de 1975, se encuentren destinados directa e inmediatamente a documentar operaciones de depósito o de captación de capitales de ahorrantes e inversionistas locales.
+Finalmente, y en cuanto a los criterios que solicita aclarar en su presentación complementaria de fecha 07.08.2015, se informa lo siguiente:
+a) Por tratarse de un requisito que incide en el destino otorgado a los créditos por parte de la Caja de Compensación, no corresponde a la entidad bancaria – en el ejemplo - determinar el destino efectivo de los fondos.
+Con todo, la entidad bancaria debe adoptar las medidas de control a su alcance, como exigir una declaración de la propia Caja respecto del destino que dará a los fondos.
+b) Conforme lo anterior, velar por el correcto uso de la exención corresponde a las instancias de fiscalización de este Servicio, sin perjuicio de las responsabilidades que correspondan a la Caja por la aplicación indebida de la exención.
 
-Se ha solicitado a este Servicio un pronunciamiento para determinar s i los bienes raíces de propiedad de l as Fábricas y Maestranzas del Ejército (en adelante, “ FAMAE ” ) están exentos de contribuciones de bienes raíces .
-I ANTECEDENTES
-De acuerdo a su presentación, el propósito de la misma es obtener un pronunciamiento sobre la naturaleza jurídica del impuesto que lleva por denominación “ contribuciones de bienes raíces ” , mediante el cual se hace cobro a sus fábricas.
-Con la finalidad de complementar la solicitud anterior, estima relevante hacer presente que FAMAE es una Corporación de Derecho Público que goza de personalidad jurídica, administración autónoma y patrimonio propio , y se relaciona con el Supremo Gobierno por intermedio del Ministerio de Defensa Nacional.
-D estaca en su presentación que , de acuerdo al artículo 10° de la ley orgánica de dicha entidad, le asiste a FAMAE una exención respecto de “ … toda clase de impuestos, contribuciones, derechos, tasas, patentes y demás gravámenes establecidos en favor del Fisco u otros organismos del Estado … ”
-En consecuencia, estima que si las “ contribuciones de bienes raíces ” que FAMAE ha solventado hasta este momento poseen el carácter de “ gravamen ” y éstas, a su vez, han sido establecidas en favor del fisco u de otro organismo del Estado, es dable concluir que – por disposición legal – no le corresponde a esa Corporación la obligación de pagar tales conceptos, ya que se encuentra exenta de ese pago.
-Por lo expuesto, solicita un pronunciamiento y se decret en las medidas que en derecho correspondan .
-II ANÁLISIS
-Como cuestión preliminar, cabe precisar que la “ contribución de bienes raíces ” a que a lude en su presentaci ón, corresponde a l “ Impuesto Territorial ” establecido y regulado en la Ley N° 17.235.
-Por otra parte, y en atención al tenor de su consulta, se desprende que ella no está dirigida tanto a determinar la naturaleza jurídica de la denominada “ contribución de bienes raíces ” – y esclarecer si queda subsumida bajo el concepto de “ gravamen ” – sino derechamente a resolver si FAMAE se encuentra o no exenta de Impuesto Territorial en conformidad a la liberación amplia de “ toda clase de impuestos, contribuciones, derechos, tasas, patentes y demás gravámenes ” , establecida en el artículo 10° del DFL N° 223 de 1953, Ley Orgánica de FAMAE .
-Sin embargo, y por las razones que se expondrán a continuación, ese ejercicio intelectual no es necesario en la medida que la exención de Impuesto Territorial (contribución de bienes raíces) de que gozaba FAMAE fue derogada en virtud de lo dispuesto por el artículo 2° de la Ley N° 20.033.
-En efecto, según este Servicio ya resolvió en base a las actas legislativas de la Ley N° 20.033 y lo dispuesto en su artículo 2°, dicha ley no sólo reemplazó los primitivos Cuadros Anexos de la Ley N° 17.235 , por un nuevo y único, sino además derogó expresamente las normas legales que habían establecido exenciones de Impuesto Territorial y que , como consecuencia de la conformación del nuevo Cuadro Anexo , fueron suprimidas .
-Por consiguiente, en la medida que la primitiva exención de Impuesto Territorial , emanada de la exención más amplia contenida en el artículo 10° de la Ley Orgánica de FAMAE , fue incorporada al anterior Cuadro Anexo N° 1 de la Ley N° 17.235 (específicamente en el Numeral I , L etra A), N° 9), su vigencia y validez fue alcanzada por la derogación general dispuesta en el artículo 2° de la Ley N° 20.033.
-E n otras palabras, la exención de Impuesto Territorial que pod ía desprenderse del artículo 10 ° de la Ley Orgánica de FAMAE , e incorporada en el anterior Cuadro Anexo de la Ley 17.235, qued ó derogada por disposición expresa del artículo 2° de la Ley N° 20.033.
-Sin perjuicio de lo anterior, es importante recordar que, conforme al criterio vigente de este Servicio , la exención de Impuesto Territorial contenida en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235, procede respecto de los “servicios públicos” centralizados y descentralizados, tengan o no personalidad jurídica y patrimonio propios, en la medida que los inmuebles beneficiados no correspondan a alguna de las sedes matrices de los mismos Servicios, indicadas en el Decreto N° 1.187 del Ministerio de Hacienda, de 2006.
-Dicho lo anterior y de acuerdo al artículo 1° del DFL N° 223 de 1953, del Ministerio de D efensa Nacional, que aprobó la L ey O rgánica de las Fábricas y Maestranzas del Ejército, cuyo texto refundido, coordinado y s istematizado fue fijado por el D ecreto N° 375 de 1978, de la misma Secretaría de Estado, se concluye que FAMAE es una corporación de derecho público, que goza de personalidad jurídica, administración autónoma y de patrimonio propio, de conformidad a lo dispuesto en tal cuerpo legal, y que se relaciona con el Gobierno por intermedio del Ministerio de Defensa.
-En lo que respecta a su naturaleza jurídica , la Contraloría General de la República ha señalado que FAMAE tiene el carácter de empresa pública creada por ley y forma parte de la Administración del Estado, de acuerdo a lo dispuesto en el inciso segundo del artículo 1° de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
-Precisando la naturaleza jurídica y caracteres de las empresas públicas del Estado o empresas del Estado, la Contraloría General de la República ha señalado que nacen a la vida del derecho por una ley de quorum calificado, la que señala su naturaleza jurídica de “servicio público” descentralizado funcionalmente, establece sus objetivos, sus funciones, su estructura, incluidas sus autoridades y atribuciones de ellas, su régimen financiero, su régimen de personal, etc.; enumerando entre las empresas del Estado, entre otras instituciones, a las Fabricas y Maestranzas del Ejercito.
-Luego, y conforme lo anterior, se concluye que FAMAE se encuentra exenta de Impuesto Territorial por aplicación de lo dispuesto en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235 , referido antes.
-III CONCLUSIÓN
-C onforme lo dispuesto en el artículo 2° de la Ley N° 20.033, se encuentra derogada tanto la exención contenida en el primitivo Cuadro Anexo N° 1, Numeral I, Letra A), N° 9) de la Ley N° 17.235, como su fuente normativa directa, contenida en el artículo 10° de la Ley Orgánica de FAMAE , en lo que dice relación con el Impuesto Territorial.
-Sin perjuicio de lo anterior, FAMAE se encuentra exenta de Impuesto Territorial por considerarse un “servicio público”, de acuerdo a lo dispuesto en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235 , en la medida que los inmuebles beneficiados no correspondan a alguna de las sedes matrices de los mismos Servicios, indicadas en el Decreto N° 1.187 del Ministerio de Hacienda, de 2006.
-De acuerdo con lo anterior, no es necesario un análisis sobre la naturaleza jurídica de las “contribuciones de bienes raíces”.
+III CONCLUSION
+Conforme los hechos descritos en su presentación, puede concluirse que no cumplen la finalidad específica prevista por la ley para que proceda la exención del artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas, los documentos que no sean necesarios para la realización de operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, sino que incidan en operaciones destinadas al financiamiento de la propia Caja.
+Respecto de las aclaraciones solicitadas en su presentación complementaria, estése a lo indicado en el cuerpo del Análisis precedente.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 1835, de 23.06.2016
+Oficio N° 1845, de 24.06.2016
 Subdirección Normativa
-Dpto. de T écnica Tributaria
+Dpto. de Técnica Tributaria

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Fiscalización. Circular N° 4 del 15 de Enero del 2013 Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2013. Fuente: Oficina de Gestión Normativa. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2013 y el 9 de febrero del año 2013. Fuente: Oficina de Gestión Normativa. Circular N° 2 del 09 de Enero del 2013 Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para…
+acute;n Normativa. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2013 y el 9 de febrero del año 2013. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

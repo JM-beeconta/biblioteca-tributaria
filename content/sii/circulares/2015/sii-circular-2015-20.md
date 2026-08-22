@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 20
 - Año: 2015
-- Fecha: 2015-03-24
+- Fecha: 2015-03-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu20.pdf
 - Hash SHA-256: 18a97625fe4f929aeac49a05157332f3f0d0410513f9fb922191cd337cffa606
 
 ## Resumen
 
-ativa Circular N° 21 del 24 de Marzo del 2015 Instruye procedimiento para efectuar el Acuse de Recibo señalado en el nuevo N°7 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios Fuente: Departamento de Atención y Asistencia de Contribuyente Noma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Departamento de Catastro y Tasaciones Circu…
+a de Contribuyente Noma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

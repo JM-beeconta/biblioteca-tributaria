@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 40
 - Año: 2013
-- Fecha: 2013-09-05
+- Fecha: 2013-08-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu40.pdf
 - Hash SHA-256: 10f3e230c6782433cf15060bf23c3bbe9e168689570bb3042a7d91f8c96ce838
 
 ## Resumen
 
-Fuente: Departamento de Atención y Asistencia de Contribuyentes. Circular N° 41 del 05 de Septiembre del 2013 Modifica y complementa Circular N° 21 del 19 de abril de 2013, sobre política de condonación de intereses y sanciones pecuniarias. Fuente: Subdirección de Fiscalización. Tabla de Cálculos de Reajustes, Intereses y Multas Septiembre 2013 Fuente: Subdirección de Fiscalización Circular N° 39 del 13 de Agosto del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2013 y…
+calización. Tabla de Cálculos de Reajustes, Intereses y Multas Septiembre 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

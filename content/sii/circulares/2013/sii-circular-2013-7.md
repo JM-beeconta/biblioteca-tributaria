@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2013
-- Fecha: 2013-02-13
+- Fecha: 2013-02-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu7.pdf
 - Hash SHA-256: 0a853fca0a2cf2426dd0d627f5547bf476036267dea73c05e003fea858ef1607
 
 ## Resumen
 
-px;'> Fuente: Oficina de Gestión Normativa Circular N° 8 del 13 de Febrero del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2013 y el 9 de marzo del año 2013. Fuente: Oficina de Gestión Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas no habitacionales reavaluados. Fuente: Subdirección de Avaluaciones Departamento de Catastro y Tasaciones. Circular N° 6 del 28 de Enero del 2013 Instruye sobre las modificaci…
+acute;n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas no habitacionales reavaluados. Fuente: Subdirección de Avaluaciones Departamento de Catastro y Tasaciones.
 
 ## Referencias detectadas
 

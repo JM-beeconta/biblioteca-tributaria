@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;'> Circular N° 21 del 04 de Abril del 2014 Imparte instrucciones respecto del recurso de reposición del avalúo que formulen los contribuyentes y Municipalidades con motivo del proceso de retasación general o modificación individual de bienes raíces. Fuente: Subdirección Jurídica Rebaja del impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente. Fuente: Subdirección de Avaluaciones Circular N° 19 del 26 de Marzo del 2014 Tablas de Cálculos de Reajustes, Intereses y Multas…
+;n Jurídica Rebaja del impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

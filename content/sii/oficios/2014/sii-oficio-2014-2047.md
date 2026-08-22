@@ -6,152 +6,43 @@
 - Año: 2014
 - Fecha: 2014-02-24
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja330.doc
-- Hash SHA-256: 10a399f34ba6169a25ff20316622dee31bc3b436cf4e885f0f61726ec3b2087f
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja342.htm
+- Hash SHA-256: c718719c1370b3c8d3aa21aaa24e714449648673a82e5dceb136dd164ae73f66
 
 ## Resumen
 
-1, &ndash; Ley N° 20.544, Art. 3° &ndash; . (Ord. Nº 342, de 24-02-2014) | Word Tributación que afecta a los ingresos provenientes de derivados financieros, obtenidos por una agencia establecida en el exterior, cuya casa matriz está domiciliada en Chile. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31°, N°7 &ndash; Circular N° 24, de 1993. (Ord. Nº 330, de 20-02-2014) | Word Consulta si fundación que señala, califica como institución donataria para los fines de lo dispuesto en el artículo 31 N° 7 de l…
+Global Complementario. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 41° B), N° 1, &ndash; Ley N° 20.544, Art. 3° &ndash; . (Ord. Nº 342, de 24-02-2014) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":24,"year":1993}
-- {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"31 N"}
+- {"type":"oficio","number":2047,"year":2011}
+- {"type":"articulo","law":"LIR","article":"41 B"}
+- {"type":"articulo","law":"LIR","article":"41 B N"}
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIR","article":"10"}
+- {"type":"articulo","law":"LIR","article":"58 n"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°7 – CIRCULAR N° 24, DE
-                     1993.  (ORD. N° 330, DE 20.02.2014)
-
-
-
-
-
-Consulta si fundación que señala, califica como institución donataria  para
-los fines de lo dispuesto en el artículo 31 N° 7 de la Ley sobre Impuesto a
-la Renta (LIR); o bien respecto de algún otro texto  legal  que  regule  la
-recepción de donaciones con beneficios tributarios.
-
-
-Se ha solicitado un pronunciamiento a este  Servicio,  respecto  a  si  los
-donantes  que  deseen  aportar  fondos  para   programas   de   instrucción
-desarrollados por  la  Fundación  que  representa,  pueden  acogerse  a  lo
-dispuesto en el número 7, del artículo 31 de la LIR, para hacer uso de  los
-beneficios tributarios que dicha disposición contempla.
-
-
-I.- ANTECEDENTES.
-Señala, que la Fundación TTTT, en adelante “la Fundación”, de acuerdo a  sus
-estatutos, tiene por objeto perpetuar la memoria de  don  XXXX  mediante  la
-creación de instituciones sin fines de lucro, que se dediquen en  general  a
-la promoción, desarrollo y protección del medio ambiente; y a  la  educación
-y desarrollo integral, personal y colectivo del ser humano. En su  dimensión
-ambiental, tiene por objetivo la preservación  y  conservación  de  la  vida
-silvestre, el estudio, la investigación la difusión, estudio, cría,  cuidado
-y  preservación  de  los  Cóndores.  En  su  dimensión  educacional  y  para
-propender al desarrollo integral  del  ser  humano,  desarrolla  actividades
-tendientes   a   la   formación,   capacitación   y   perfeccionamiento   de
-instructores, que tendrán a su cargo la formación y crecimiento integral  de
-niños, jóvenes y adultos, en contacto con la naturaleza.
-En virtud de lo anterior, la Fundación se dedica a desarrollar  proyectos  y
-actividades relativas a la preservación y conservación de la naturaleza y  a
-la ejecución de  programas  con  el  fin  de  desarrollar  aptitudes,  crear
-conciencia y producir y transmitir información y conocimientos  relativos  a
-esta materia para  promover  una  cultura  de  sustentabilidad.  Para  estos
-efectos, imparte cursos y  charlas  de  educación  medio  ambiental,  cambio
-climático, biodiversidad, reciclaje, forestación, compostaje,  limpiezas  de
-ríos y playas, generando en algunas oportunidades material audiovisual.
-Al respecto, la Fundación tiene interés en la posibilidad de que se  aplique
-en beneficio de sus donantes, lo dispuesto en el número 7, del  artículo  31
-de la LIR, norma que,  a  diferencia  de  otras  disposiciones  legales  que
-establecen  beneficios  tributarios,  no  impone  requisitos   o   calidades
-especiales en relación con la persona del  donatario,  sino,  según  indica,
-sólo requiere que se destine el monto donado a la realización  de  programas
-de instrucción.
-Expresa finalmente, que la Fundación destinaría  los  montos  donados  a  la
-realización de proyectos sobre educación medio ambiental, los  que  estarían
-encaminados a realizarse a través de  distintos  establecimientos  docentes,
-del Consejo Ambiental de Pucón, entre otros.
-De acuerdo con lo señalado  solicita  un  pronunciamiento  del  Servicio  en
-torno a los siguientes temas:
-Si los donantes que deseen aportar  fondos  para  programas  de  instrucción
-desarrollados por la Fundación, pueden acogerse a lo dispuesto en el  N°  7,
-del artículo 31 de la LIR, en la medida que las donaciones se utilicen  para
-llevar a cabo proyectos educativos específicos; y en  caso  de  no  resultar
-aplicable la norma antes citada, se les señale si la Fundación es apta  para
-recibir donaciones con derecho a  beneficios  tributarios  para  el  donante
-conforme a alguna de  las  otras  normas  que  nuestra  legislación  vigente
-contempla.
-
-
-
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° B), N° 1, – LEY N° 20.544, ART. 3° – OFICIO N° 2047, DE 2011. (ORD. N° 342, DE 24.02.2014)
+TRIBUTACIÓN QUE AFECTA A LOS INGRESOS PROVENIENTES DE DERIVADOS FINANCIEROS, OBTENIDOS POR UNA AGENCIA ESTABLECIDA EN EL EXTERIOR, CUYA CASA MATRIZ ESTÁ DOMICILIADA EN CHILE.
+Se ha solicitado un pronunciamiento a este Servicio, sobre la tributación que afecta a los ingresos provenientes de derivados financieros obtenidos por una agencia establecida en el exterior, cuya casa matriz está domiciliada en Chile, en virtud de lo establecido en el artículo 3° de la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados financieros y el artículo 41 B de la Ley sobre Impuesto a la Renta (LIR). I.- ANTECEDENTES.
+Señala, que un Banco constituido en Chile mantiene una sucursal o agencia en el exterior, la que dentro de sus actividades habituales, realiza operaciones de derivados, suscritos con contrapartes también domiciliadas en el exterior.
+Al respecto, solicita se ratifique que para determinar los resultados de dicha sucursal, conforme a lo previsto en el N° 1, del artículo 41 B N°1, de la LIR, tales ingresos deberían ser calificados como no renta, conforme a lo dispuesto en el artículo 3°, de la Ley N° 20.544, ya que al ser obtenidos por un contribuyente domiciliado o residente en el exterior, deberían entenderse de fuente externa, y en virtud de tal calificación, correspondería que dichos ingresos se deduzcan de la rentas afectas de la citada sucursal situada en el extranjero.
+Se argumenta que lo antes señalado se desprendería del Oficio N°2.047 de 2011, de este Servicio, en el que se indicó que el Impuesto Adicional que establece el N°1, del inciso cuarto, del artículo 59 de la LIR, es aplicable a los pagos de intereses efectuados por un banco local a su sucursal en el exterior, de lo que se derivaría, según plantea, que dicha sucursal o agencia no tendría domicilio ni residencia en Chile; y por lo tanto, en atención a que en el caso en consulta, los ingresos de derivados financieros son obtenidos por un contribuyente con domicilio en el exterior, no quedarían afectos a impuestos en Chile.
 II.- ANÁLISIS.
-El N° 7, del artículo 31 de la LIR, establece que  se  podrán  rebajar  como
-gasto de la renta bruta del Impuesto de  Primera  Categoría  las  donaciones
-efectuadas cuyo único fin sea la realización  de  programas  de  instrucción
-básica o media gratuitas, técnica, profesional o universitaria en  el  país,
-ya sean privados o fiscales, sólo en cuanto no excedan del 2%  de  la  renta
-líquida imponible de la empresa o del 1,6%o (Uno  coma  seis  por  mil)  del
-capital propio de la empresa al término del  correspondiente  ejercicio,  no
-siendo aplicable tal disposición a las empresas afectas a la Ley N°16.624
-Agrega dicha norma en su inciso tercero, que tales donaciones no  requerirán
-del trámite de la insinuación y estarán exentas de toda clase de impuestos.
-La jurisprudencia e instrucciones de este Servicio  sobre  la  materia,  han
-señalado que para que los donantes puedan hacer uso de la rebaja  tributaria
-que contempla dicha disposición legal, es  condición  indispensable  que  el
-donatario destine la donación al cumplimiento del fin exclusivo y único  que
-establece el citado precepto legal, esto es, destinarla a la realización  de
-un programa de instrucción en los niveles que se indican, entendiéndose  por
-instrucción para tales efectos, como la acción de enseñar,  doctrinar,  etc.
-En efecto, para la procedencia de la rebaja  como  gasto  de  las  referidas
-donaciones, no es requisito que  los  programas  de  instrucción  a  que  se
-refiere  dicha  norma  sean  realizados  directamente  por  la   institución
-donataria, pudiendo ser éstos llevados a cabo a través de otras entidades  o
-establecimientos docentes, académicos o educacionales[1].
-Además del requisito antes indicado, los donantes para poder acogerse  a  lo
-dispuesto  por  dicha  norma  legal  deben  cumplir  con  todas  las   demás
-condiciones que se establecen en la ley, como ser,  deducir  las  donaciones
-realizadas hasta los  topes  o  límites  máximos  que  se  contemplan  y  su
-acreditación fehaciente mediante un  documento  emitido  por  el  donatario,
-condiciones éstas que  han  sido  explicitadas  mediante  las  instrucciones
-contenidas en la Circular N° 24, del año 1993, instructivo que se  encuentra
-publicado en el sitio web que este organismo tiene habilitado en Internet  y
-cuya dirección es www.sii.cl.
-De acuerdo con ello y conforme a los fines  descritos  de  la  Fundación  en
-referencia, que junto con ser indicados por el recurrente en su escrito,  se
-encuentran establecidos en el artículo primero de  sus  estatutos;  teniendo
-en consideración además lo expresado por el recurrente, respecto  a  que  la
-Fundación destinaría los montos donados a la realización de proyectos  sobre
-educación medio ambiental, los  que  estarían  encaminados  a  realizarse  a
-través de distintos establecimientos  docentes,  del  Consejo  Ambiental  de
-Pucón, entre otros, cabe expresar que en principio, las donaciones que  como
-institución donataria reciba, se enmarcarían  dentro  de  la  normativa  del
-artículo 31 N° 7 de la LIR.
-III.- CONCLUSIÓN.
-Este  Servicio,  sin  perjuicio  del  ejercicio  de  sus   facultades   para
-fiscalizar el cumplimiento de la norma, no ve  inconveniente  que  tanto  la
-Fundación donataria recurrente, así como las respectivas  empresas  donantes
-puedan acogerse a los beneficios tributarios que  establece  el  N°  7,  del
-artículo 31 de la LIR,  en  la  medida  que  dicha  entidad  cumpla  con  el
-requisito fundamental que exige la norma legal precitada, esto es,  destinar
-las donaciones a programas de instrucción  en  las  materias  que  señala  a
-través   de   entidades   o   establecimientos   docentes,   académicos    o
-educacionales, y con el cumplimiento de los demás requisitos  y  condiciones
-que exige el precepto legal en comento y que han sido explicitados por  este
-Servicio a través de la citada Circular N°24 de 1993.
+El artículo 3°, de la Ley N°20.544, de 2011, que regula el tratamiento tributario de los instrumentos derivados financieros, establece que para los efectos de dicha Ley y de lo dispuesto en el artículo 10 de la LIR, las rentas provenientes de derivados, incluyendo las primas de emisión, se consideran como rentas de fuente chilena cuando sean percibidas o devengadas por contribuyentes domiciliados o residentes en Chile, o por contribuyentes del artículo 58 número 1° de la LIR. La referida norma agrega que, en consecuencia, y con la salvedad establecida en el inciso segundo, de su artículo 3°, las rentas de derivados percibidas o devengadas por personas o entidades sin domicilio ni residencia en el país, no estarán afectas a ninguno de los impuestos de la LIR.
+La consecuencia señalada en el párrafo anterior, atiende a que las rentas de derivados percibidas o devengadas por personas o entidades sin domicilio ni residencia en el país son consideradas por la Ley N°20.544, en la situación que establece el inciso tercero del artículo 3°, como rentas de fuente extranjera, y por tanto, al ser éstas obtenidas con un contribuyente no residente ni domiciliado en el país, no se afectan con ningún impuesto de la LIR, ya sea por las remesas que se efectúen desde Chile hacia el exterior, o bien, por los resultados que se obtengan en definitiva en dichas operaciones. Por tanto, la sucursal en el exterior no debe verse afectada con los impuestos de la LIR por tales rentas, atendido que se trata de rentas de fuente extranjera.
+En todo caso, cabe hacer presente que las circunstancias señaladas en los párrafos precedentes, no implican que tales ingresos deban considerarse como no constitutivos de renta para la sucursal, sino que sólo, según se ha señalado, que corresponden a rentas de fuente extranjera.
+Ahora bien, el N°1, del artículo 41 B, de la LIR, dispone que las empresas constituidas en Chile que declaren su renta efectiva según contabilidad, en el caso que tengan agencias, sucursales u otros establecimientos permanentes en el exterior, deberán reconocer en Chile el resultado de ganancias o pérdidas que éstas obtengan, sobre base percibida o devengada, y que dicho resultado se calculará aplicando las normas de la LIR sobre determinación de la base imponible de primera categoría, con excepción de la deducción de la pérdida de ejercicios anteriores dispuesta en el inciso segundo, del N°3 del artículo 31 de la misma Ley.
+De los términos de la norma legal referida, se concluye que los resultados de la sucursal en el exterior, se calculan considerando las normas de la LIR sobre determinación de la base imponible de primera categoría, sin distinguir si se trata de rentas de fuente chilena o extranjera, y que por tanto, tal resultado debe necesariamente reconocer los ingresos provenientes de los contratos de derivados, aplicando al efecto las normas generales que establece la LIR, y no aquellas contenidas en la Ley N°20.544.
+Al respecto, cabe reiterar que el procedimiento que describe el N°1, del artículo 41 B de la LIR, se realiza para determinar la renta proveniente de agencias, sucursales u otros establecimientos permanentes en el exterior, que obtienen las empresas constituidas en Chile que declaren su renta efectiva según contabilidad, y sobre la cual estas últimas deben afectarse con los impuestos de la LIR. Por tanto, no corresponde que en la determinación de tal resultado se deduzcan las rentas de fuente extranjera provenientes de derivados que ha obtenido la referida sucursal.
+III.- CONCLUSIONES.
+Para efectos de determinar los resultados provenientes de una sucursal en el exterior, conforme a lo establecido en el N°1, del artículo 41 B, de la LIR, no corresponde excluir las rentas correspondientes a derivados financieros obtenidas por ésta, atendido que para ellas se trata de rentas de fuente extranjera y no de ingresos no constitutivos de renta. De acuerdo a esto, tales resultados se calculan considerando las normas de la LIR sobre determinación de la base imponible de primera categoría, y no aquellas contenidas en la Ley N°20.544.
 
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-
-
-                                       JUAN ALBERTO ROJAS BARRANTI
-
-
-       DIRECTOR (S)
-
-
-                        Oficio N° 330, de 20.02.2014
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Oficios N°s 4.907 de 2006, 3.409 de 2005; 3.988 de 2005; entre otros.
+Oficio N° 342, de 24.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

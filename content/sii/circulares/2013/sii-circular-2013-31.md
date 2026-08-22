@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Fuente: Subdirección de Avaluaciones. Circular N° 32 del 17 de Junio del 2013 Tabla de Cálculos de reajustes, intereses y multas julio 2013. Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2013 y el 9 de julio del año 2013. Fuente: Oficina Gestión Normativa. Circular N° 30 del 17 de Junio del 2013 Tabla del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de Julio del año 2013 e información adicional…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2013 y el 9 de julio del año 2013. Fuente: Oficina Gestión Normativa.
 
 ## Referencias detectadas
 

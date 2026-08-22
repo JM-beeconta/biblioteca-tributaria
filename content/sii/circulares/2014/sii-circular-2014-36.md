@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2014
-- Fecha: 2014-06-10
+- Fecha: 2014-06-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu36.pdf
 - Hash SHA-256: 24ceafab1fffd5a21fb95cc1abce041895cea6a96c1c95aa8ead9decc2859a95
 
 ## Resumen
 
-ción Circular N° 37 del 10 de Junio del 2014 Imparte instrucciones sobre la aplicación de la exención contenida en el Art. 12°, letra E), N°17, del D.L. N°825, de 1974. Deroga en parte Circular N°56 del 03/12/1991. Fuente: Impuestos Indirectos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2014 y el 9 de julio del año 2014. Fuente: Oficina de Gestión Normativa Circular N° 35 del 09 de Junio del 2014 Tablas del Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Com…
+puestos Indirectos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2014 y el 9 de julio del año 2014. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

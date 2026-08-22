@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 37
 - Año: 2016
-- Fecha: 2016-07-05
+- Fecha: 2016-06-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu37.pdf
 - Hash SHA-256: ce96c859b528cd003f1c13116c184007542b8118f9e078a9a9e7ba4681839b2d
 
 ## Resumen
 
-ente: Impuestos Directos Circular N° 38 del 05 de Julio del 2016 Actualiza e imparte instrucciones sobre procedimiento de emisión de los Certificados de Avalúo Fiscal y deroga Circulares N°s 58, de 1996 y 52, de 1999. Fuente: Subdirección de Avaluaciones Tabla de cálculos de Reajustes, Intereses y Multas julio 2016 Fuente: Subdirección de Fiscalización Circular N° 36 del 15 de Junio del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2016 y el 9 de julio del año 2016. Fue…
+;n de Avaluaciones Tabla de cálculos de Reajustes, Intereses y Multas julio 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

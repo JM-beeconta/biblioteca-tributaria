@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2015
-- Fecha: 2015-06-22
+- Fecha: 2015-06-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu49.pdf
 - Hash SHA-256: a6dc72b85c695d7dfe8f0f596709bf8179afda36c42d38bc2c60278a70604903
 
 ## Resumen
 
-Circular N° 50 del 22 de Junio del 2015 Facultad del Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades. Fuente: Departamento de Asesoría Jurídica Tabla de Cálculos de reajustes, Intereses y Multas Julio 2015 Fuente: Subdirección de Fiscalización Circular N° 48 del 15 de Junio del 2015 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen t…
+;a Jurídica Tabla de Cálculos de reajustes, Intereses y Multas Julio 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

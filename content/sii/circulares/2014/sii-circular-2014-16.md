@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 17 del 19 de Marzo del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2014 y el 9 de abril del año 2014. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 15 del 17 de Marzo del 2014 Aclara y precisa la vige…
+oacute;n Normativa Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2014
-- Fecha: 2014-01-31
+- Fecha: 2014-01-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu5.pdf
 - Hash SHA-256: 09dcea92537088d8a2da3ce90a58f5efbc70a1d162f1febefe60859b5a4e1870
 
 ## Resumen
 
-sii.cl/normativa_legislacion/circulares/2014/circu6.pdf' target='_blank'>Circular N° 6 del 31 de Enero del 2014 Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas habitacionales, estacionamientos y bodegas acogidos a copropiedad inmobiliaria, sitios no edificados, propiedades abandonadas y pozos lastreros reavaluados Fuente: Subdirección Avaluaciones Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2014 Fuente: Subdirección de Fiscalización Circular N° 4 d…
+ute;n Avaluaciones Tabla de Cálculos de Reajustes, Intereses y Multas Febrero 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

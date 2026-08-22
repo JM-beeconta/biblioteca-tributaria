@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2015
-- Fecha: 2015-06-25
+- Fecha: 2015-06-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu55.pdf
 - Hash SHA-256: 133b0413a38af6f6c377037544cbb4d2827a4a445312704e9a33c6ab2f688981
 
 ## Resumen
 
-/i> Circular N° 56 del 25 de Junio del 2015 Facultad de ordenar el diseño y ejecución de actividades de muestreo y punto fijo para la fiscalización del correcto cumplimiento tributario de los contribuyentes. Fuente: Departamento de Asesoría Jurídica Vigencia de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuente: Departamento de Asesoría Jurídica Circular N° 54 del 24 de Junio del 2015 Reemplazo de libros de contabilida…
+;a Jurídica Vigencia de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

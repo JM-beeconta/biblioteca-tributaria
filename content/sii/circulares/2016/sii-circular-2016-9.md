@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2016
-- Fecha: 2016-03-15
+- Fecha: 2016-02-29
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu9.pdf
 - Hash SHA-256: 46c20d51945f03e5875a624e198178dac8edb910e7f4e9ab4543dc7c6459cb15
 
 ## Resumen
 
-pan> Circular N° 10 del 15 de Marzo del 2016 Tablas del Impuesto Único de segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2016, e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 de la Ley de la Renta. Fuente: Oficina de Gestión de Normativa Circular N° 8 del 19 de Febrero del 2016 Tabla de Cálcul…
+oacute;n Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 de la Ley de la Renta. Fuente: Oficina de Gestión de Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 61
 - Año: 2014
-- Fecha: 2014-12-02
+- Fecha: 2014-12-01
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu61.pdf
 - Hash SHA-256: 5dc79830c3fbbc7beee2fc53210c8bab7991a182f7302e4745fe52160d439d57
 
 ## Resumen
 
-m:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 62 del 02 de Diciembre del 2014 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. Fuente: Depto. de Impuestos Directos Modificación introducida por la Ley N° 20.780, de 29 de septiembre de 2014, al Art. 64, del D.L. N° 825, de 1974, relativa a la postergación del pago del Impuesto al Valor Agregado para grupo de contribuyentes que se…
+Impuestos Directos Modificación introducida por la Ley N° 20.780, de 29 de septiembre de 2014, al Art. 64, del D.L. N° 825, de 1974, relativa a la postergación del pago del Impuesto al Valor Agregado para grupo de contribuyentes que se indica. Fuente: Departamento Emisor Impuestos Indirectos
 
 ## Referencias detectadas
 

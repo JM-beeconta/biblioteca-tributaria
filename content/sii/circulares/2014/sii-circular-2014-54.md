@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 54
 - Año: 2014
-- Fecha: 2014-10-16
+- Fecha: 2014-10-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu54.pdf
 - Hash SHA-256: ee1f6dd3a8385ea6b094cb4cef4ab9cdd241bb2988d09919a556c07999f29b7d
 
 ## Resumen
 
-style='margin-bottom:0px;'> Circular N° 55 del 16 de Octubre del 2014 Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario. Fuente: Departamento de Impuestos Directos Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de noviembre del año 2014 e información adicional relacionada co…
+Impuestos Directos Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de noviembre del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

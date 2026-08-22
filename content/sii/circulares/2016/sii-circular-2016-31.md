@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 31
 - Año: 2016
-- Fecha: 2016-05-23
+- Fecha: 2016-05-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu31.pdf
 - Hash SHA-256: e9e3dde3b63866cffe4a01b7adbe6686323edafd224f38cb7a41d53ba72d760a
 
 ## Resumen
 
-Circular N° 32 del 23 de Mayo del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2016. Fuente: Subdirección de Fiscalización Instruye sobre las sanciones aplicables conforme a lo dispuesto por el N°6 del Artículo 41 e de la Ley sobre Impuesto a la Renta (LIR), por la no presentación de la declaración jurada a que se refiere dicha norma, o su presentación errónea, incompleta, extem…
+scalización Instruye sobre las sanciones aplicables conforme a lo dispuesto por el N°6 del Artículo 41 e de la Ley sobre Impuesto a la Renta (LIR), por la no presentación de la declaración jurada a que se refiere dicha norma, o su presentación errónea, incompleta, extemporanea, o maliciosamente falsa. Fuente: Departamento Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

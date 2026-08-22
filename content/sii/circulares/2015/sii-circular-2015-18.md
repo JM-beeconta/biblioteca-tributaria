@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2015
-- Fecha: 2015-03-11
+- Fecha: 2015-03-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu18.pdf
 - Hash SHA-256: 4b08515949e6b7b0deb9c3ab539b1970303ddee183a65298fb8b43df58d7ffa1
 
 ## Resumen
 
-px;'> Fuente: Departamento de Catastro y Tasaciones Circular N° 19 del 11 de Marzo del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2015 y el 9 de abril del año 2015. Fuente: Oficina de Gestión Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de abril del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina Gestión Normativa Circular N° 17 del 02 de Marzo del 2015 Imparte instruccion…
+acute;n Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de abril del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2013
-- Fecha: 2013-01-23
+- Fecha: 2013-01-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu4.pdf
 - Hash SHA-256: b370d9f36a50f936d227e1e8b17b2a64b0114f44d4978606e6ab3fd606237238
 
 ## Resumen
 
-utos. Fuente: Depto. Impuestos Directos. Circular N° 5 del 23 de Enero del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2013. Fuente: Subdirección de Fiscalización. Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2013. Fuente: Oficina de Gestión Normativa. Circular N° 3 del 15 de Enero del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2013 y el 9 de febrero del año 2013. Fuente: Oficina de Gestión No…
+calización. Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2013. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

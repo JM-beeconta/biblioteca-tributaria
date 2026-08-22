@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2016
-- Fecha: 2016-04-13
+- Fecha: 2016-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu16.pdf
 - Hash SHA-256: 5767024787a9a187688f51763f93222409535e1967f585789f3d6cdb0d0d6dd4
 
 ## Resumen
 
-n-bottom:0px;'> Circular N° 17 del 13 de Abril del 2016 Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2016 y/o hasta el 30 de abril de 2017, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2015 y/o al 31 de diciembre de 2016. Fuente: Impuestos Directos Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2016, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Ofici…
+Impuestos Directos Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2016, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

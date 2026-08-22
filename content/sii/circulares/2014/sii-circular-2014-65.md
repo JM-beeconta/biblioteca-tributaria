@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 65
 - Año: 2014
-- Fecha: 2014-12-22
+- Fecha: 2014-12-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu65.pdf
 - Hash SHA-256: 7026be7e2b75cb8a75be6ee450514b0c89f582fb282c8eccb9132c0239fcb842
 
 ## Resumen
 
-Fuente: Oficina de Análisis de Jurisprudencia Circular N° 66 del 22 de Diciembre del 2014 Tabla de cálculos de reajustes, intereses y multas enero 2015 Fuente: Subdirección de Fiscalización Imparte instrucciones sobre modificaciones introducidas al artículo 21° del D.L. N° 910, de 1975, por el artículo 5° de la Ley 20.780, de 29 de septiembre de 2014. Fuente: Depto. de Impuestos Indirectos Circular N° 64 del 12 de Diciembre del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementari…
+scalización Imparte instrucciones sobre modificaciones introducidas al artículo 21° del D.L. N° 910, de 1975, por el artículo 5° de la Ley 20.780, de 29 de septiembre de 2014. Fuente: Depto. de Impuestos Indirectos
 
 ## Referencias detectadas
 

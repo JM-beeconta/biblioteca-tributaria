@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 42
 - Año: 2013
-- Fecha: 2013-09-10
+- Fecha: 2013-09-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu42.pdf
 - Hash SHA-256: 1bbb50c6a20b7addfc7a3faefbb4e60c7ad7195c27147aae33fec106f74e8159
 
 ## Resumen
 
-Circular N° 43 del 10 de Septiembre del 2013 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Complementa Circular N° 66 del 29 de octubre de 1998, para su aplicación en la Dirección de Grandes Contribuyentes. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Circular N° 41 del 05 de Septiembre del 2013 Modifica y complementa Circular N°…
+oacute;n Normativa Complementa Circular N° 66 del 29 de octubre de 1998, para su aplicación en la Dirección de Grandes Contribuyentes. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

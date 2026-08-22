@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2016
-- Fecha: 2016-12-31
+- Fecha: 2016-04-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu19.pdf
 - Hash SHA-256: ac10f75c8faeed315e7b1f9fdb82fd8522d1a9315c399c9d8a1deca0d708c1e1
 
 ## Resumen
 
-Instrucciones sobre las modificaciones efectuadas por la Ley N°20.899, a la Ley N°20.780, respecto del régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2015 o 1° de enero de 2016, y hasta el 31 de diciembre de 2016, según se indica. Modifica en parte instrucciones contenidas en Circular N°69, de 2014. Fuente: Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2016…
+Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2016 y el 9 de mayo del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

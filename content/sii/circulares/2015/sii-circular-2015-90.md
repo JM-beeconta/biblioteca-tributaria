@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e: Subdirección de Fiscalización Circular N° 91 del 11 de Diciembre del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2015 y el 9 de enero del año 2016. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2016 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 89 del 25 de Noviembre del 2015 Sustituye capítulo XIII…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2016 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

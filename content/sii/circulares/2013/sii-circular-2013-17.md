@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Impuestos Directos. Circular N° 18 del 10 de Abril del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2013 y el 9 de mayo del año 2013. Fuente: Oficina de Gestión Normativa. Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa. Circular N° 16 del 08 de Abril del 2013 Informa po…
+cute;n Normativa. Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

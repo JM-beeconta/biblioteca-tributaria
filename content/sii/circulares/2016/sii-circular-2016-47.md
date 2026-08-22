@@ -11,7 +11,7 @@
 
 ## Resumen
 
-class="modificada"> Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014 y Ley N° 20.899 de 2016 a los artículos 41 A, 41 B, y 41 C, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Y, créditos por impuesto pagado en el extranjero sobre rentas pasivas, conforme al artículo 41 G de la LIR, vigente a contar del 1° de enero de 2016. Fuente: Impuestos Directoa Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes pro…
+Impuestos Directoa Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas, contenido en el artículo 8° de la Ley N° 20.780, de 29 de septiembre de 2014, modificado por el artículo 8°, N° 2, de la Ley N° 20.899, de 8 de febrero de 2016, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales. Deja sin efecto Circular N° 52, de 2015. Fuente: Técnica Tributaria
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i>Fuente: Subdirección de Fiscalización Circular N° 14 del 11 de Febrero del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2015 y el 9 de marzo del año 2015. Fuente: Oficina Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa Circular N° 12 del 30 de Enero del 2015 Instruye sobre las modificacione…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

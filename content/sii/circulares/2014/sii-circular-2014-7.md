@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l/normativa_legislacion/circulares/2014/circu8.pdf' target='_blank'>Circular N° 8 del 07 de Febrero del 2014 Instruye sobre las modificaciones efectuadas por la Ley N°20.630 a la ley sobre Impuesto a la renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícolas, de la minería, transporte terrestre de carga ajena y de pasajeros Fuente: Impuestos Directos Instrucciones respecto del término de la vigencia de las normas establecidas en la Ley N°20.365 de 2009, que otorg…
+Impuestos Directos Instrucciones respecto del término de la vigencia de las normas establecidas en la Ley N°20.365 de 2009, que otorgan un crédito tributario a las empresas constructoras que instalen Sistemas Solares Térmicos en las viviendas que construyan Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

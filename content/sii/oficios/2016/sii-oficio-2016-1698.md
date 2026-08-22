@@ -6,38 +6,65 @@
 - Año: 2016
 - Fecha: 2016-04-05
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja869.doc
-- Hash SHA-256: c31e5b7aff6a4467fa1d7d8fc884b79760ba625aa59b4ffbe2d3ec506e7d4594
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja878.htm
+- Hash SHA-256: 9a5578772a956aff2553b6abcf5cfa18db11f4efcf428bdd1217de079476af3d
 
 ## Resumen
 
-2 &ndash; Circular N° 2, de 1998 &ndash; . (Ord. Nº 878, de 05-04-2016) | Word Fecha a considerar para efectos de aplicar exención de Impuesto Territorial en caso de inmueble adquirido por fusión impropia. Convenio con Brasil para Evitar la Doble Imposición y Prevenir la Evasión Fiscal en Relación al Impuesto sobre la Renta &ndash; Art. 2, Art. 22. (Ord. Nº 869, de 05-04-2016) | Word Impuesto de contribución social sobre utilidad neta (CSLL). Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones &ndash; Le…
+a a las Universidades. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 20, Cuadro Anexo, Párrafo I, Letra B, N° 2 &ndash; Ley N° 18.046, Art. 103, N°2 &ndash; Circular N° 2, de 1998 &ndash; . (Ord. Nº 878, de 05-04-2016) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"circular","number":2,"year":1998}
+- {"type":"oficio","number":1698,"year":2015}
 
 ## Texto extraído
 
-CONVENIO CON BRASIL PARA EVITAR LA DOBLE IMPOSICIÓN Y PREVENIR LA EVASIÓN FISCAL EN RELACIÓN AL IMPUESTO SOBRE LA RENTA – ART. 2, ART. 22. (ORD. N° 869, DE 05.04.2016)
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 20, CUADRO ANEXO, PÁRRAFO I, LETRA B, N° 2 – LEY N° 18.046, ART. 103, N°2 – CIRCULAR N° 2, DE 1998 – OFICIO N° 1698, DE 2015. (ORD. N° 878, DE 05.04.2016)
+FECHA A CONSIDERAR PARA EFECTOS DE APLICAR EXENCIÓN DE IMPUESTO TERRITORIAL EN CASO DE INMUEBLE ADQUIRIDO POR FUSIÓN IMPROPIA.
+Mediante ordinario indicado en el antecedente, se solicita confirmar la fecha que debe considerarse para otorgar la exención contenida en el Cuadro Anexo, Párrafo I, Letra B, N° 2 de la Ley sobre Impuesto Territorial, en el caso de inmueble adquirido como consecuencia de haberse reunido la totalidad de las acciones o una fusión impropia. I ANTECEDENTES
+De acuerdo a los antecedentes acompañados, con fecha 31.12.2013 se otorgó escritura de disolución de la sociedad XXXX S.A., disuelta de pleno derecho como consecuencia de haberse reunido la totalidad de las acciones de ésta en poder de la TTTT. Producto de lo anterior, la universidad pasó a ser dueña de un inmueble.
+El inmueble fue inscrito en el Registro de Propiedad del Conservador de Bienes Raíces a nombre de la universidad el 04.04.2014 y, mediante formulario 2118 de fecha 15.10.2014, el contribuyente solicitó la exención contemplada en el Cuadro Anexo, Párrafo I, Letra B, N° 2 de la Ley sobre Impuesto Territorial.
+Conforme lo anterior, la Dirección Regional otorgó la exención mediante resolución exenta de fecha 13.04.2015, con efecto a partir del 01.01.2015.
+Sin embargo, mediante presentación administrativa de fecha 08.09.2015, el contribuyente alega que la resolución adolece de un vicio o error manifiesto, puesto que la exención es de carácter personal, de tal manera que debió concederse con vigencia a partir del 31.12.2013.
+Tras citar lo dispuesto en los artículos 13, 20 y 22 de la Ley sobre Impuesto Territorial, esa Dirección Regional insiste en que la exención sólo pudo concederse con efecto a partir del 1° de enero siguiente a la fecha en que las propiedades cumplan las condiciones.
+Agrega que, como la propiedad se inscribió en el Registro de Propiedad del Conservador de Bienes Raíces el 04.04.2014, recién desde esta fecha la modificación es oponible a terceros, de acuerdo con lo dispuesto en el artículo 1703 den el Código Civil.
+II ANÁLISIS
+Como primera cuestión, corresponde esclarecer si la exención contenida en el Cuadro Anexo, Párrafo I, Letra B, N° 2 de la Ley sobre Impuesto Territorial efectivamente es de carácter personal, como afirma el contribuyente.
+Al respecto, este Servicio ha señalado que las exenciones de Impuesto Territorial son personales en la medida que los bienes raíces pertenezcan a ciertas personas señaladas en la propia ley, como en el caso de los bienes pertenecientes a la persona jurídica “fisco”. En cambio, son reales u objetivas cuando las exenciones se otorgan en razón del destino del inmueble, como es el caso de un inmueble destinado a fines educacionales y que no genera rentas por otro destino.
+Dicho lo anterior, y para determinar qué carácter tiene la exención contenida en el Cuadro Anexo, Párrafo I, Letra B, N° 2, es pertinente considerar como elementos de interpretación su ubicación sistemática y requisitos de procedencia.
+Respecto de lo primero, y a diferencia de las exenciones contenidas en la Cuadro Anexo, Párrafo I, Letra A (que favorecen a las “personas jurídicas” que indica), el Cuadro Anexo, Párrafo I, Letra B, parte con el encabezado (están exentos) “los siguientes Bienes Raíces mientras se cumpla la condición que en cada caso se indica”. Por tanto, partiendo desde su ubicación sistemática se advierte que, mientras las exenciones de la Letra A favorecen a ciertas “personas”, las exenciones de la Letra B favorecen a ciertos “bienes” en tanto “cumplan” la condición específica.
+En cuanto a sus requisitos de procedencia, y partir de lo dispuesto en el Cuadro Anexo, Párrafo I, Letra B, N° 2, se desprende que la exención en análisis se establece a favor de ciertos bienes raíces que cumplan la condición de:
+a) Pertenecer a (ser de propiedad de) universidades, Institutos Profesionales y Centros de Formación Técnica, reconocidos por el Ministerio de Educación, de carácter público o privado
+b) Sean destinados a educación, investigación o extensión, y
+c) Siempre que no produzcan renta por actividades distintas a dichos objetos.
+Luego, es claro que la exención en comento atiende al cumplimiento de condiciones distintas de la mera titularidad (dominio) del inmueble, de suerte que el simple hecho de pertenecer el inmueble a una universidad, Instituto Profesional o Centro de Formación Técnica – reconocidos por el Ministerio de Educación, de carácter público o privado – en caso alguno hace procedente la exención ni la torna del tipo “personal” con efectos desde que el inmueble entra en el dominio del contribuyente.
+Finalmente, es claro que la exención en comento además cumple los elementos esenciales del ejemplo antes anotado sobre exención real u objetiva “como es el caso de un inmueble destinado a fines educacionales y que no genera rentas por otro destino”.
 
-Impuesto de contribución social sobre utilidad neta (CSLL).
+De este modo, esclarecido que la exención no es personal, resta determinar en qué momento:
+a) La universidad jurídicamente adquirió el inmueble en cuestión;
+b) Cumplió las condiciones de procedencia de la franquicia; y,
+c) Solicitada la exención, corresponde otorgarle efecto a la misma.
+Sobre lo primero cabe señalar que, con fecha 31.12.2013 se otorgó escritura de disolución de la sociedad XXXX S.A., como consecuencia de haberse reunido la totalidad de las acciones de ésta en poder de la universidad.
+Sobre los efectos de reunirse en una sola mano la totalidad de las acciones, o fusión impropia, cabe tener presente lo dispuesto en el artículo 103 N° 2) de la Ley N° 18.046, sobre Sociedades Anónimas, en virtud del cual la sociedad anónima “se disuelve” por reunirse, por un período ininterrumpido que exceda de 10 días, todas las acciones en manos de una sola persona.
+Respecto de los efectos de la fusión impropia, y tras consultar previamente a la Superintendencia de Valores y Seguros, este Servicio instruyó mediante la Circular N° 2 de 1998 que el comprador, al producir con su operación de compra la disolución de la sociedad, extingue esas acciones y los derechos sociales, con lo que “se hace dueño de todos los activos” que pertenecían a la sociedad disuelta, por un acto de enajenación cuyo antecedente o título es precisamente la disolución de la sociedad que se produce por el solo ministerio de la ley, siendo la ley en este caso, el modo de adquirir.
+Por otra parte, atendido que el efecto anterior deriva de reunirse en una sola mano la totalidad de las acciones, nada impide que esa “mano” sea una corporación de derecho privado.
+Conforme lo anterior debe concluirse entonces que la universidad se hizo dueña del activo inmueble en el momento inmediatamente posterior a la disolución legal de la sociedad XXXX S.A., por el solo ministerio de la ley, y sin necesidad de la competente inscripción la cual – para estos efectos – sólo tiene un fin de publicidad.
+En cuanto al segundo punto, siendo una cuestión de hecho cuya comprobación queda entregada a las instancias de fiscalización, no puede sostenerse que la mera adquisición del inmueble por parte de la universidad implique cumplir las condiciones de procedencia de la exención.
 
-1. Se ha recibido en este Servicio el correo electrónico indicado en el antecedente, mediante el cual remite una Nota Verbal de la Embajada de Brasil en Chile, que informa de la publicación en dicho país de una ley que contiene un Artículo con una cláusula interpretativa que aclara que en todos los Convenios para evitar la doble imposición vigentes en Brasil, se entiende inclu ida la exención de la Contribución Social sobre la Utilidad Neta ( CSLL).
+En efecto, despejado que la exención en comento no es de carácter personal, acreditar que el inmueble se encuentra destinado a la educación, investigación o extensión y no produce rentas por actividades distintas a dicho objeto, supone la verificación de condiciones de hecho cuya existencia se materializa a través del tiempo y se predica del contribuyente que solicita la exención. En otras palabras, no son condiciones que puedan tenerse por cumplidas en forma instantánea ni tampoco considerando el comportamiento del dueño anterior del inmueble.
+En cualquier caso, aun aceptando que las condiciones de procedencia de la exención pudieran darse por acreditadas retroactivamente a la fecha de adquirirse el inmueble como consecuencia de operar la fusión impropia, tampoco podría reconocerse la exención a esa fecha como sostiene el peticionario, según se explica a continuación.
 
-En la nota se indica, que a la luz de la nueva legislación brasileña, todos los Convenios para evitar la doble imposición que no tenían una mención expresa de la exención de CSLL, pasan, por efecto de la interpretación legal consagrada, a incluir ese beneficio, inclusive con efecto retroactivo.
-
-2. En relación a lo expuesto en la N ota Verbal remitida por la E mbajada de Brasil en Chile, cabe señalar que el Conve nio entre Chile y Brasil para evitar la doble imposición y prevenir la evasión fiscal en relación al impuesto sobre la renta, define en el artículo 2 el ámbito de aplicación del mismo, señalando en el párrafo 1 que el Convenio se aplica a los impuestos a la renta exigibles por cada uno de los Estados Contratantes, agregando en el párrafo 2, que se consideran impuestos sobre la renta los que gravan la totalidad de la renta o cualquier parte de la misma.
-
-En el párrafo 3 de la misma norma, se enumeran los impuestos a los que se aplica el Convenio que son, en la República de Chile, los impuestos establecidos en la Ley sobre Impuesto a la Renta, Decreto Ley N° 824, y en la República Federativa del Brasil, el impuesto federal sobre la renta. El hecho que en el caso de Brasil no se mencione expresamente la ley que establezca el impuesto, como ocurre en el caso de Chile, no significa que el Convenio no se aplique en la medida que el impuesto cumpla con los requisitos de gravar la totalidad de la renta o una parte de la misma y de tener el carácter de un impuesto federal.
-
-En la especie, por informaciones recibidas informalmente de personeros brasileños y por lo señalado en la Nota Verbal de la Embajada de Brasil, que fija la posición de ese país sobre la materia, se puede concluir que el impuesto denominado “Contribución Social sobre l a Utilidad Neta ”, es un impuesto federal que se aplica sobre la renta de las empresas, antes de la provisión para el impuesto a la renta y para el propio impuesto sobre “Contribución Social sobre la Utilidad Neta”, con los agregados y deducciones que contempla la legislación, cumpliendo así todos los requisitos que el artículo 2 contempla para que quede comprendido dentro de los impuestos brasileños a los que se les aplica el Convenio.
-
-E n la actualidad, y por informaciones recibidas, el impuesto se aplica a lo s residentes en Chile que desarrollan negocios en Brasil y el único efecto que se produce con esta notificación, es que c larifica que la s cantidades pagadas por dicho s residentes en Brasil , por concepto de “Contribución Social sobre la Utilidad Neta” , las pueden deducir en Chile de los impuestos a la renta que les afecten, conforme lo dispone el artículo 22 del Convenio.
+En efecto, y abordando el tercer punto, es necesario tener presente que, siendo la exención en comento una exención de carácter real , es aplicable a su respecto lo dispuesto en el artículo 20 de la Ley sobre Impuesto Territorial. Esto es, la exención tendrá efecto desde el 1º de enero siguiente a la fecha en que las propiedades cumplan las condiciones de la franquicia. “Si el interesado no hubiere pedido en su oportunidad la exención, en ningún caso podrá ésta otorgarse con anterioridad al rol vigente.”
+En el caso analizado, y considerando que a la fecha de presentarse la petición administrativa mediante formulario 2118 (esto es, el día 15.10.2014) ya existía un rol vigente, no cabe otra alternativa que conceder la exención a contar del 01.01.2015.
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente, la exención contemplada en el Cuadro Anexo, Párrafo I, Letra B, N° 2 de la Ley sobre Impuesto Territorial es de carácter real y no personal.
+Siendo de carácter real, corresponde otorgarla con efecto desde el 1° de enero del año siguiente a la fecha en que las propiedades cumplan las condiciones de la franquicia, pero en ningún caso con anterioridad al rol vigente si el interesado no la hubiere pedido en su oportunidad, según lo dispone el artículo 20 de la citada ley.
+Atendido que en el presente caso la exención fue solicitada mediante formulario 2118 de fecha 15.10.2014, y en caso de haberse verificado el cumplimiento de los requisitos de procedencia, se concuerda con esa Dirección Regional en el sentido que la exención sólo pudo concederse con efecto a partir del 01.01.2015.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 869, de 05.04.2016
+Oficio N° 878, de 05.04.2016
 Subdirección Normativa
-Dpto. de Normas Internacionales
+Dpto. de Técnica Tributaria.

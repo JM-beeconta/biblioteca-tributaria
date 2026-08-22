@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Impuestos Directos Circular N° 45 del 10 de Junio del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2015 y el 9 de julio del año 2015. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global complementario para el mes de julio del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 43 del 09 de Junio del 2015 Facultad de exigi…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global complementario para el mes de julio del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

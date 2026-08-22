@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 2
 - Año: 2013
-- Fecha: 2013-01-15
+- Fecha: 2013-01-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu2.pdf
 - Hash SHA-256: 15ccc979305f9b6bc0b8d72e6f2671279df9ae1f8eb37d73d922f4aa697d5ce0
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Oficina de Gestión Normativa. Circular N° 3 del 15 de Enero del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2013 y el 9 de febrero del año 2013. Fuente: Oficina de Gestión Normativa. Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina De Gestión Normativa Circular N° 1 del 09 de Enero del 2013 Informa datos re…
+acute;n Normativa. Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina De Gestión Normativa
 
 ## Referencias detectadas
 

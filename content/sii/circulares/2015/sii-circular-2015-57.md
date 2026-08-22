@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 57
 - Año: 2015
-- Fecha: 2015-06-30
+- Fecha: 2015-06-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu57.pdf
 - Hash SHA-256: 88e67b41b722dc47b029ef5a2b76599b537a8481a8f5e18348f64ecbb24c7857
 
 ## Resumen
 
-pdf' target='_blank'>Circular N° 58 del 30 de Junio del 2015 Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 68 y 69 del Código Tributario. Deroga la Circular N° 12, de 4 de febrero de 2003, y las Resoluciones Exentas N°s 29 y 41 de 2002. Fuente: Departamento de Asesoría Jurídica Facultad del Servicio para examinar las hojas sueltas y sistemas tecnológicos que sirvan de soporte a la contabilidad y registros auxiliares. Requerimiento de antecedentes con el fin de recab…
+;a Jurídica Facultad del Servicio para examinar las hojas sueltas y sistemas tecnológicos que sirvan de soporte a la contabilidad y registros auxiliares. Requerimiento de antecedentes con el fin de recabar información del contribuyente. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

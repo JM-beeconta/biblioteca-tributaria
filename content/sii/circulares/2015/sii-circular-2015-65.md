@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:0px;'>Instruye sobre las modificaciones incorporadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017, particularmente sobre el régimen de imputación total del crédito por Impuesto de Primera Categoría en los impuestos finales. Fuente: Impuestos Directos Imparte instrucciones acerca de las normas incorporadas en el…
+Impuestos Directos Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por la Ley N° 20.780, en materia de medidas anti elusión Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

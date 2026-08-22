@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Impuestos Directos Circular N° 47 del 11 de Junio del 2015 Obligación de incorporar sellos o marcas distintivas como mecanismo de &ldquo;trazabilidad&rdquo; de bienes afectos a impuestos específicos. Fuente: Departamento de Asesoría Jurídica Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014, a los artículos 41 A, 41 B, 41 C y 41 D, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos Circul…
+;a Jurídica Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014, a los artículos 41 A, 41 B, 41 C y 41 D, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

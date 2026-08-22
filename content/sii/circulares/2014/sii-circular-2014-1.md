@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2014
-- Fecha: 2014-01-10
+- Fecha: 2014-01-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu1.pdf
 - Hash SHA-256: 3c839af71a41fc22fa215ab59c29274d772f171e7298c89426cba95166d2873c
 
 ## Resumen
 
-i> Circular N° 2 del 10 de Enero del 2014 Tablas de Impuesto único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa Informa datos relacionados con la aplicación del Sistema de Corrección Monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2014 Fuente: Oficina de Gestión Normativa funct…
+oacute;n Normativa Informa datos relacionados con la aplicación del Sistema de Corrección Monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2014 Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2014'); }
 
 ## Referencias detectadas
 

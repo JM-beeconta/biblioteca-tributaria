@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2013
-- Fecha: 2013-06-17
+- Fecha: 2013-06-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu29.pdf
 - Hash SHA-256: 6527eeedca5104596e88b72c038fccdf65c4224bec55ae64d0ff5fc093cbeddb
 
 ## Resumen
 
-span> Circular N° 30 del 17 de Junio del 2013 Tabla del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de Julio del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencias contenidas en la Ley sobre Impuestos a la Renta. Fuente: Impuestos Directos Circular N° 28 del 29 de Mayo del 2013 Tabla de Cálculos de Reajustes, Int…
+oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencias contenidas en la Ley sobre Impuestos a la Renta. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

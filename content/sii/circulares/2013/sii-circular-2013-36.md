@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 36
 - Año: 2013
-- Fecha: 2013-07-30
+- Fecha: 2013-07-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu36.pdf
 - Hash SHA-256: ea9fdecec2662db79b0523f0753ae7554e55d872189049bbd7b14ce4e4938cca
 
 ## Resumen
 
-cina de Gestión Normativa Circular N° 37 del 30 de Julio del 2013 Complementa instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos en la tramitación de Concesiones Marítimas Fuente: Técnica Tributaria Tabla de cálculos de reajustes, intereses y multas Agosto 2013 Fuente: Subdirección de Fiscalización Circular N° 35 del 15 de Julio del 2013 Circular UF para los días comprendidos entre el 10 de Julio y el 9 de agosto del 2013. Fuente: Oficina de Gestión Normativa.…
+e;cnica Tributaria Tabla de cálculos de reajustes, intereses y multas Agosto 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

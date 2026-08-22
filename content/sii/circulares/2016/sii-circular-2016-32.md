@@ -11,7 +11,7 @@
 
 ## Resumen
 
-°12, de 2015. Fuente: Impuestos Directos Circular N° 33 del 23 de Mayo del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas junio 2016. Fuente: Subdirección de Fiscalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2016. Fuente: Subdirección de Fiscalización Circular N° 31 del 12 de Mayo del 2016 Instruye sobre las sanciones aplicables conforme a lo dispuesto por el N°6 de…
+scalización Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2016. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 66
 - Año: 2016
-- Fecha: 2016-12-07
+- Fecha: 2016-11-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu66.pdf
 - Hash SHA-256: 4425724f992a911b655ace62b002f47f8cb25ebf2cd082b81dd1644f46b9c9b4
 
 ## Resumen
 
-'>Circular N° 67 del 07 de Diciembre del 2016 Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR). Fuente: Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2016 Fuente: Subdirección de Fiscalización Circular N° 65 del 11 de Noviembre del 2016 Tablas de Impuesto Único de…
+Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multas diciembre 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

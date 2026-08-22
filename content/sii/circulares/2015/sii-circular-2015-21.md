@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 21
 - Año: 2015
-- Fecha: 2015-03-26
+- Fecha: 2015-03-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu21.pdf
 - Hash SHA-256: 832a3bfc9ba57a1c651387d08a42355c4a8eff625e18469d6d89b064d24b4f41
 
 ## Resumen
 
-estos Directos Circular N° 22 del 26 de Marzo del 2015 (Zip 12.346KB) Suplemento Tributario con la normativa vigente para efectuar la declaración de los impuestos anuales a la Renta correspondientes al año tributario 2015. Fuente: Oficina de Gestión Normativa Instruye procedimiento para efectuar el Acuse de Recibo señalado en el nuevo N°7 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios Fuente: Departamento de Atención y Asistencia de Contribuyente Circular N° 20 del 20 de Marzo del 2015 Noma apli…
+oacute;n Normativa Instruye procedimiento para efectuar el Acuse de Recibo señalado en el nuevo N°7 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios Fuente: Departamento de Atención y Asistencia de Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 62
 - Año: 2016
-- Fecha: 2016-10-24
+- Fecha: 2016-10-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu62.pdf
 - Hash SHA-256: 74fef139403a51253c6dceb16565438882cadbf5dd5a1d36a79e910d90c3e75c
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 63 del 24 de Octubre del 2016 Tabla de cálculos de Reajustes, Intereses y Multas noviembre 2016 Fuente: Subdirección de Fiscalización Imparte instrucciones sobre imputación o devolución de impuestos contenidos en los títulos II y III, del D.L. N° 825, establecida en el nuevo artículo 27 ter, del D.L. N° 825, incorporado a dicho texto legal por el artículo 393, de la Ley N° 20.720, y sobre las disposiciones de dicha Ley que inciden en materia de Impuesto a la Renta.…
+scalización Imparte instrucciones sobre imputación o devolución de impuestos contenidos en los títulos II y III, del D.L. N° 825, establecida en el nuevo artículo 27 ter, del D.L. N° 825, incorporado a dicho texto legal por el artículo 393, de la Ley N° 20.720, y sobre las disposiciones de dicha Ley que inciden en materia de Impuesto a la Renta. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

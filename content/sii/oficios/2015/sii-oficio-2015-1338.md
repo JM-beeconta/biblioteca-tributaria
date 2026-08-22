@@ -6,39 +6,45 @@
 - Año: 2015
 - Fecha: 2015-11-04
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja2786.htm
-- Hash SHA-256: 57dcb460eb8823e831f7c02f514147493fd1eb231b8fcea6af93cda8fabade66
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja2787.htm
+- Hash SHA-256: 4891cb03aa127aa46a2a9607847fb1e881ae6331c0934ff2e6af4c1e8660284f
 
 ## Resumen
 
-> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20°, N°3 y N°4 &ndash; . (Ord. Nº 2787, de 04-11-2015) | Word Tratamiento tributario que tendría un Estado extranjero en Chile. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, Art. 24° transitorio, numeral 3.2. (Ord. Nº 2786, de 04-11-2015) | Word Consulta sobre declaración de comisiones reinvertidas en Islas Vírgenes Británicas conforme al artículo 24° transitorio de la Ley N° 20.780. Renta &ndash; Actual Ley sobre Impuesto a la &ndas…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20°, N°3 y N°4 &ndash; . (Ord. Nº 2787, de 04-11-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":8,"year":2015}
+- {"type":"oficio","number":1338,"year":2014}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, ART. 24° TRANSITORIO, NUMERAL 3.2. (ORD. N° 2786, DE 04.11.2015)
-CONSULTA SOBRE DECLARACIÓN DE COMISIONES REINVERTIDAS EN ISLAS VÍRGENES BRITÁNICAS CONFORME AL ARTÍCULO 24° TRANSITORIO DE LA LEY N° 20.780.
-Se ha recibido en este Servicio la presentación indicada en el antecedente, solicitando se aclare si pueden ser declaradas dentro del sistema voluntario establecido en el artículo 24° transitorio de la Ley N° 20.780, las comisiones que indica.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°, N°3 Y N°4 – OFICIO N° 1338, DE 2014. (ORD. N° 2787, DE 04.11.2015)
+TRATAMIENTO TRIBUTARIO QUE TENDRÍA UN ESTADO EXTRANJERO EN CHILE.
 I ANTECEDENTES
-Se expone el caso de un cliente que ha celebrado contratos consensuales con una entidad extranjera por los cuales ha recibido comisiones en el año comercial 2014 (año tributario 2015), las que ha invertido en una sociedad domiciliada en las Islas Vírgenes Británicas.
-Recuerda que, conforme al artículo 24° transitorio, numeral 3.2., de la Ley N° 20.780, uno de los requisitos para que los bienes o rentas sean susceptibles de acogerse a la declaración, es que el contribuyente tenga el carácter de propietario de los bienes con anterioridad al 01.01.2014.
-Agrega que la Circular N° 8 de 2015 instruye que las rentas que se pueden incluir en la declaración son aquellas por las cuales el contribuyente haya o esté obligado a declarar y/o pagar impuestos en Chile, el año tributario 2015 o anteriores.
-Al respecto consulta si las comisiones indicadas precedentemente deben ser ingresadas a la base imponible para efectos de gravarlas con el 8% y no quedar afectas al impuesto global complementario, no siendo necesario rectificar.
+El Ordinario expone que, a propósito de ciertos instrumentos financieros en que están invertidos el Fondo de Reserva de Pensiones y el Fondo de Estabilización Económica y Social, la administración tributaria del Reino Unido ha solicitado completar un formulario, adjunto, para los efectos de obtener una devolución de impuestos en ese país.
+Específicamente se pide responder la pregunta número 8 del cuestionario que, de acuerdo a la traducción proporcionada por esa Secretaría de Estado, requiere contestar:
+a) Si el gobierno local (Chile) reconoce el principio de la inmunidad soberana de la Corona (Fisco) en materia de impuestos; y, b) Si provee al Fisco un estatuto especial exento de impuestos.
 II ANÁLISIS
-Como primera cuestión es importante recordar que, según lo dispuesto en el número 3.2.- del artículo 24° transitorio de la Ley N° 20.780, “sólo podrán acogerse a este artículo los bienes o derechos que el contribuyente acredite fehacientemente haber adquirido con anterioridad al 1 de enero de 2014 y las rentas que provengan de tales bienes, ello sin perjuicio de la obligación de cumplir en el futuro con los impuestos y demás obligaciones que pudieren afectar a tales bienes o rentas conforme a las normas legales que les sean aplicables, para efectos de índole aduanera, cambiaria, societaria, de mercado de valores, entre otras.”
-Luego, del artículo citado se desprende que las únicas rentas devengadas o percibidas durante el año comercial 2014 susceptibles de ser declaradas mediante este mecanismo son aquellas rentas provenientes de bienes o derechos respecto de los cuales el contribuyente acredite fehacientemente haberlos adquirido con anterioridad al 1 de enero de 2014.
-Se encuentran en dicha situación, por ejemplo, los intereses, dividendos y otras rentas provenientes de bienes o derechos respecto de los cuales el contribuyente era titular o beneficiario con anterioridad al 1 de enero de 2014.
-Luego, atendido que en el caso analizado las rentas no provienen de bienes o derechos adquiridos con anterioridad al 1 de enero de 2014 sino de “comisiones” recibidas el año comercial 2014, dichas comisiones no cumplen un requisito esencial para acceder al mecanismo de declaración establecido en el artículo 24° transitorio de la Ley N° 20.780.
-
+Previo a resolver el fondo de la consulta, y a pesar que en último término Estado y Fisco son lo mismo, este Servicio entiende que cuando se habla de la “Corona” (soberana) del Reino Unido, no se refiere al “Fisco” (en el sentido más restringido que tiene ese término en nuestro sistema legal) sino al concepto más genérico de “Estado” (extranjero).
+Asimismo, se entiende que el principio de inmunidad soberana de la Corona dice relación, en el contexto de la pregunta en análisis, específicamente con el impuesto a la renta.
+Finalmente, atendido que la redacción de la consulta – en su idioma original – no es del todo clara, se asume que la pregunta signada en la letra a) se refiere al tratamiento tributario que nuestro país confiere a Estados extranjeros respecto del impuesto a la renta, en tanto que la pregunta b) alude al tratamiento tributario que el Fisco chileno tiene (en Chile) respecto del mismo impuesto.
+Dicho lo anterior, y contestando la primera pregunta, cabe señalar que en materia de impuesto a la renta la ley del ramo no reconoce, como ocurre en otras legislaciones, el principio de inmunidad soberana del (otro) Estado. En efecto, la Ley sobre Impuesto a la Renta no contempla norma alguna que exima de impuesto, sobre la base de exenciones recíprocas, a Estados extranjeros, sus agencias gubernamentales y bancos centrales.
+En consecuencia, las rentas de fuente chilena que perciban o devenguen los Estados extranjeros en nuestro país quedan sujetas a los impuestos conforme las reglas generales, salvo que puedan invocar exenciones establecidas por ley en atención al tipo de renta.
+El Oficio N° 1338, de 2014, cuya copia se acompaña, explica el tratamiento tributario de las rentas derivadas del dominio, posesión o tenencia y enajenación de bonos soberanos chilenos, obtenidas por Estados extranjeros o sus bancos centrales.
+Respecto de la pregunta signada con la letra b), se informa que en ámbito interno la Ley sobre Impuesto a la Renta establece lo siguiente respecto de las rentas que perciba o devengue el Fisco (chileno):
+“Artículo 40°. Estarán exentas del impuesto a la presente categoría las rentas percibidas por las personas que en seguida se enumeran:
+1°. El Fisco, las instituciones fiscales y semifiscales, las instituciones fiscales y semifiscales de administración autónoma, las instituciones y organismos autónomos del Estado y las Municipalidades.”
+En su inciso final la norma citada agrega que: “Con todo, las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20.”
+De la norma transcrita se desprende que el Fisco (chileno) y las instituciones fiscales se encuentran exentas del pago de impuesto por las rentas que perciban o devenguen, excepto cuando realizan actividades empresariales o perciben rentas de los números 3 y 4 del artículo 20; esto es, rentas de la industria, del comercio, de la minería, de la explotación de las riquezas del mar y demás actividades extractivas.
+Como se puede observar, la exención que contempla la LIR solo alcanza a las rentas pasivas, tales como dividendos e intereses, pero no se aplica cuando las rentas provienen de una actividad empresarial del Estado, que quedan sujetas al pago de impuesto conforme a las reglas generales.
 III CONCLUSIÓN
-Conforme al texto de la ley se concluye que las “comisiones” recibidas el año comercial 2014 no pueden acogerse ni ser declaradas mediante el mecanismo establecido en el artículo 24° transitorio de la Ley N° 20.780.
+La Ley sobre Impuesto a la Renta no reconoce el principio de inmunidad soberana de la Corona del Reino Unido en materia de impuestos.
+En el ámbito interno, la señalada ley exime del impuesto a las rentas obtenidas por el Fisco, excepto cuando realiza actividades empresariales o se trate de rentas de los números 3 y 4 del artículo 20 del cuerpo legal indicado.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 2786, de 04.11.2015
+Oficio N° 2787, de 04.11.2015
 Subdirección Normativa
-Dpto. de Técnica Tributaria.
+Dpto. de Técnica Tributaria

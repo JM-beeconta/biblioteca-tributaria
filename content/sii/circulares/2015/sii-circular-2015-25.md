@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 25
 - Año: 2015
-- Fecha: 2015-04-14
+- Fecha: 2015-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu25.pdf
 - Hash SHA-256: 08f05d02e27625ca36f8749d64f8918d3bd6b8737887f67e9a082ddabdbe0849
 
 ## Resumen
 
-m:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 26 del 14 de Abril del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2015 y el 9 de mayo del año 2015. Fuente: Oficina de Destión Normativa Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a Declarar en el año tributario 2015, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Circular N° 24 del 31 de Marzo del 2015 Ta…
+oacute;n Normativa Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a Declarar en el año tributario 2015, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

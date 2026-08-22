@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2016
-- Fecha: 2016-03-23
+- Fecha: 2016-03-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu11.pdf
 - Hash SHA-256: e89d9d06f075a7d0ae8a97cba6ac83d76a5b827c61d98b34a70c4c5e5eaae389
 
 ## Resumen
 
-constructoras. Fuente: Impuestos Indirectos Circular N° 12 del 23 de Marzo del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas abril 2016 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2016 y el 9 de abril del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 10 del 15 de Marzo del 2016 Tablas del Impuesto Único de segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2016, e información adic…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2016 y el 9 de abril del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

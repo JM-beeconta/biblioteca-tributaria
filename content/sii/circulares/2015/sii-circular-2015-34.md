@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2015
-- Fecha: 2015-05-25
+- Fecha: 2015-05-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu34.pdf
 - Hash SHA-256: a34db8cd6bad05b3a02f9f19c99783689be73658c87d87a61cf2a4526c8ae94b
 
 ## Resumen
 
-utario. Fuente: Subdirección Normativa Circular N° 35 del 25 de Mayo del 2015 Tabla de cálculos de reajustes, intereses y Multas junio 2015 Fuente: Subdirección de Fiscalización Imparte instrucciones acerca de las modificaciones introducidas por las Leyes 20.420 y 20.780, al inciso primero del artículo 11 y por la Ley 20.780, al artículo 13 del Código Tributario. Fuente: Subdirección Jurídica Circular N° 33 del 13 de Mayo del 2015 Imparte instrucciones respecto de los plazos que posee el Servicio para las actuacio…
+scalización Imparte instrucciones acerca de las modificaciones introducidas por las Leyes 20.420 y 20.780, al inciso primero del artículo 11 y por la Ley 20.780, al artículo 13 del Código Tributario. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

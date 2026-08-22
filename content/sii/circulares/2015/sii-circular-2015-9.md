@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 9
 - Año: 2015
-- Fecha: 2015-01-30
+- Fecha: 2015-01-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu9.pdf
 - Hash SHA-256: 58cd02e0b53ed89bfd7fadbec94cae44730d50fbe0de19e06efed5cb7ccd1c47
 
 ## Resumen
 
-Fuente: Impuestos Directos Circular N° 10 del 30 de Enero del 2015 Instruye sobre las modificaciones a la Ley sobre Impuesto a la Renta que se indican, efectuadas por la Ley N° 20.780 y que rigen a contar del 1° de enero de 2015 Fuente: Impuestos Directos Tabla de Cálculos de reajustes, Intereses y Multas febrero 2015 Fuente: Subdirección de Fiscalización Circular N° 8 del 16 de Enero del 2015 Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustit…
+Impuestos Directos Tabla de Cálculos de reajustes, Intereses y Multas febrero 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 44
 - Año: 2014
-- Fecha: 2014-08-21
+- Fecha: 2014-08-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu44.pdf
 - Hash SHA-256: 7d96412981b501b30ed1e055c0b35322d99e07a55b83642c05a612454d456ef1
 
 ## Resumen
 
-'> Circular N° 45 del 21 de Agosto del 2014 Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.752 al artículo segundo transitorio de la Ley N°20.322, artículo 132 y 147 del Código Tributario, y modifica la Circular N°73, de 2001. Fuente: Departamento de Asesoría Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2014 y el 9 de septiembre del año 2014. Fuente: Oficina de Gestión Normativa Circular N° 43 del 14 de Agosto del 2014 Tablas del Imp…
+;a Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2014 y el 9 de septiembre del año 2014. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

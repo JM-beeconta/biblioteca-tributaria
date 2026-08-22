@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 56
 - Año: 2015
-- Fecha: 2015-06-26
+- Fecha: 2015-06-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu56.pdf
 - Hash SHA-256: 3a4e5e535faae411bd7df8ff1cd4b49bc79628bb6e73b81135aace97f95b1427
 
 ## Resumen
 
-Circular N° 57 del 26 de Junio del 2015 Facultad del Servicio para examinar las hojas sueltas y sistemas tecnológicos que sirvan de soporte a la contabilidad y registros auxiliares. Requerimiento de antecedentes con el fin de recabar información del contribuyente. Fuente: Departamento de Asesoría Jurídica Facultad de ordenar el diseño y ejecución de actividades de muestreo y punto fijo para la fiscalización del correcto cumplimiento tributario de los contribuyentes. Fuente: Departamento de Asesoría Jurídica Circul…
+;a Jurídica Facultad de ordenar el diseño y ejecución de actividades de muestreo y punto fijo para la fiscalización del correcto cumplimiento tributario de los contribuyentes. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

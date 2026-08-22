@@ -6,46 +6,48 @@
 - Año: 2016
 - Fecha: 2016-06-23
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1829.htm
-- Hash SHA-256: 7ff95d4442fd749221a199df4ab1350191e3a13de2592ff2473df74848dd6f62
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1835.htm
+- Hash SHA-256: f35acf9e3d963c0c5fd435d1bf3f11917c5dbb38f23954c52ef712122ba4d425
 
 ## Resumen
 
-mento que indica. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash;Cuadro Anexo, Número 1, Letra A, N°9 &ndash; Ley N° 20.033, Art. 2 &ndash; . (Ord. Nº 1835, de 23-06-2016) | Word Solicita pronunciamiento sobre exención de contribuciones de bienes raíces pertenecientes a las Fábricas y Maestranzas del Ejército. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 1, N° 3, Art. N°2, Art. 3 &ndash; Ley N° 20.780, Art. 6, Art. 7 &ndash; D.F.L. N° 2, de 1959, Art. 12 &ndash;…
+documento que indica. Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash;Cuadro Anexo, Número 1, Letra A, N°9 &ndash; Ley N° 20.033, Art. 2 &ndash; . (Ord. Nº 1835, de 23-06-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":55,"year":2014}
-- {"type":"circular","number":17,"year":2015}
-- {"type":"circular","number":27,"year":2007}
+- {"type":"oficio","number":212,"year":2013}
 
 ## Texto extraído
 
-TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 1, N° 3, ART. N°2, ART. 3 – LEY N° 20.780, ART. 6, ART. 7 – D.F.L. N° 2, DE 1959, ART. 12 – CIRCULARES N° 55, DE 2014 Y N° 17, DE 2015. (ORD. N° 1829, DE 23.06.2016)
-TASA DE IMPUESTO DE TIMBRES Y ESTAMPILLAS EN LA ADQUISICIÓN DE VIVIENDAS ECONÓMICAS Y MECANISMO DE DEVOLUCIÓN DE IMPUESTOS.
-Se ha solicitado a este Servicio emitir un pronunciamiento que aclare la forma de hacer efectiva la tasa preferente de Impuesto de Timbres y Estampillas en la adquisición de viviendas económicas y se establezca un procedimiento destinado a solicitar la devolución en los casos que se pague un mayor impuesto por este concepto. I ANTECEDENTES
-Conforme al oficio del antecedente, XXXX ha solicitado oficiar a este Servicio para que informe sobre la aplicación del artículo 6° de la Ley N° 20.780, en relación con el artículo 7° de la misma ley.
-Se indica que el artículo 6° elevó la tasa máxima del Impuesto de Timbres y Estampillas de 0,4% a 0,8%; en tanto que el artículo 7° reemplazó la expresión “50%”, contenida en el artículo 12 del DFL N° 2 de 1959, sobre Plan Habitacional, por la de “25%”, de suerte que la tasa de Impuesto de Timbres y Estampillas aplicable a créditos destinados a la adquisición de viviendas económicas se mantuviera en 0,2% (25% de 0,8%).
-Se agrega que este Servicio, mediante la Circular N° 55 de 2014, señaló que se dictarían las instrucciones específicas sobre las modificaciones efectuadas por la Ley N° 20.780.
-Al respecto, señala que si bien la Circular N° 17 de 2015, impartió instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, no se refirió a la modificación efectuada por el artículo 7° de la misma ley. De este modo, el Servicio no habría dictado hasta la fecha instrucciones sobre la tasa máxima del Impuesto de Timbres y Estampillas aplicable a las operaciones destinadas a financiar viviendas económicas.
-Por tanto, se solicita emitir un pronunciamiento, especificando el procedimiento que debe seguirse para requerir la devolución de impuestos pagados en exceso por este concepto.
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 –CUADRO ANEXO, NÚMERO 1, LETRA A, N°9 – LEY N° 20.033, ART. 2 – OFICIO N° 212, DE 2013. (ORD. N° 1835, DE 23.06.2016)
+SOLICITA PRONUNCIAMIENTO SOBRE EXENCIÓN DE CONTRIBUCIONES DE BIENES RAÍCES PERTENECIENTES A LAS FÁBRICAS Y MAESTRANZAS DEL EJÉRCITO.
+Se ha solicitado a este Servicio un pronunciamiento para determinar si los bienes raíces de propiedad de las Fábricas y Maestranzas del Ejército (en adelante, “FAMAE”) están exentos de contribuciones de bienes raíces. I ANTECEDENTES
+De acuerdo a su presentación, el propósito de la misma es obtener un pronunciamiento sobre la naturaleza jurídica del impuesto que lleva por denominación “contribuciones de bienes raíces”, mediante el cual se hace cobro a sus fábricas.
+Con la finalidad de complementar la solicitud anterior, estima relevante hacer presente que FAMAE es una Corporación de Derecho Público que goza de personalidad jurídica, administración autónoma y patrimonio propio, y se relaciona con el Supremo Gobierno por intermedio del Ministerio de Defensa Nacional.
+Destaca en su presentación que, de acuerdo al artículo 10° de la ley orgánica de dicha entidad, le asiste a FAMAE una exención respecto de “… toda clase de impuestos, contribuciones, derechos, tasas, patentes y demás gravámenes establecidos en favor del Fisco u otros organismos del Estado…”
+En consecuencia, estima que si las “contribuciones de bienes raíces” que FAMAE ha solventado hasta este momento poseen el carácter de “gravamen” y éstas, a su vez, han sido establecidas en favor del fisco u de otro organismo del Estado, es dable concluir que – por disposición legal – no le corresponde a esa Corporación la obligación de pagar tales conceptos, ya que se encuentra exenta de ese pago.
+Por lo expuesto, solicita un pronunciamiento y se decreten las medidas que en derecho correspondan.
 II ANÁLISIS
-Sobre el particular, se informa que en el Capítulo II, apartado D.3.), letra a) de la Circular N° 55 de 2014, se instruye que, a partir del 01.01.2016, estarán vigentes las modificaciones que se mencionan a continuación:
-i) Se incrementa la tasa máxima del Impuesto establecido en los artículos 1 N° 3, 2, y 3 inciso 2°, del D. L. 3.475 de 1980.
-ii) Se modifica el artículo 12, del DFL N° 2 de 1959, sobre Plan Habitacional, estableciéndose que la escritura que se extienda con motivo de la construcción o transferencia de viviendas económicas estará afecta al 25% de los impuestos que correspondan. Anteriormente el guarismo era de un 50%.
-Si bien la referida Circular anuncia que oportunamente se dictarían las instrucciones específicas, se entiende que lo anterior dice relación con modificaciones de carácter sustantivo, sin que pareciera necesario aclarar el sentido y alcance de una modificación legal limitada a cambiar el guarismo “50%” por el de “25%”, cuya aplicación práctica no requiere implementar un mecanismo especial.
-En cuanto al procedimiento para solicitar la devolución del Impuesto de Timbres y Estampillas pagado indebidamente o en exceso, este Servicio ha señalado en diversas oportunidades que corresponde aplicar los artículos 126 y 128 del Código Tributario, siendo el agente retenedor quien debe presentar la solicitud, acreditando la respectiva restitución del gravamen a quien lo soportó.
-Sin perjuicio de lo anterior, a propósito de las operaciones de compraventa de viviendas sociales del Decreto Ley N° 2552 de 1979 así como de compraventas de propiedades DFL N° 2, adquiridas con créditos o mutuos hipotecarios otorgados por bancos y respecto de las cuales los notarios cobraron erróneamente el impuesto, este Servicio resolvió en su oportunidad que las personas a las cuales se les recargó o retuvo el tributo en forma indebida o en exceso, pueden solicitar a la Dirección Regional correspondiente que se declare esta circunstancia, aplicándose al efecto el procedimiento contemplado en la Circular N° 27 de 2007.
-En esos casos, la devolución corresponde a quien efectuó la retención y pago del impuesto indebido o en exceso, siempre que éste, a su vez, haya restituido las sumas correspondientes al respectivo comprador de la vivienda y rectificado la declaración respectiva.
+Como cuestión preliminar, cabe precisar que la “contribución de bienes raíces” a que alude en su presentación, corresponde al “Impuesto Territorial” establecido y regulado en la Ley N° 17.235.
+Por otra parte, y en atención al tenor de su consulta, se desprende que ella no está dirigida tanto a determinar la naturaleza jurídica de la denominada “contribución de bienes raíces” – y esclarecer si queda subsumida bajo el concepto de “gravamen” – sino derechamente a resolver si FAMAE se encuentra o no exenta de Impuesto Territorial en conformidad a la liberación amplia de “toda clase de impuestos, contribuciones, derechos, tasas, patentes y demás gravámenes”, establecida en el artículo 10° del DFL N° 223 de 1953, Ley Orgánica de FAMAE .
+Sin embargo, y por las razones que se expondrán a continuación, ese ejercicio intelectual no es necesario en la medida que la exención de Impuesto Territorial (contribución de bienes raíces) de que gozaba FAMAE fue derogada en virtud de lo dispuesto por el artículo 2° de la Ley N° 20.033.
+En efecto, según este Servicio ya resolvió en base a las actas legislativas de la Ley N° 20.033 y lo dispuesto en su artículo 2°, dicha ley no sólo reemplazó los primitivos Cuadros Anexos de la Ley N° 17.235, por un nuevo y único, sino además derogó expresamente las normas legales que habían establecido exenciones de Impuesto Territorial y que, como consecuencia de la conformación del nuevo Cuadro Anexo, fueron suprimidas .
+Por consiguiente, en la medida que la primitiva exención de Impuesto Territorial, emanada de la exención más amplia contenida en el artículo 10° de la Ley Orgánica de FAMAE, fue incorporada al anterior Cuadro Anexo N° 1 de la Ley N° 17.235 (específicamente en el Numeral I, Letra A), N° 9), su vigencia y validez fue alcanzada por la derogación general dispuesta en el artículo 2° de la Ley N° 20.033.
+En otras palabras, la exención de Impuesto Territorial que podía desprenderse del artículo 10° de la Ley Orgánica de FAMAE, e incorporada en el anterior Cuadro Anexo de la Ley 17.235, quedó derogada por disposición expresa del artículo 2° de la Ley N° 20.033.
+Sin perjuicio de lo anterior, es importante recordar que, conforme al criterio vigente de este Servicio , la exención de Impuesto Territorial contenida en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235, procede respecto de los “servicios públicos” centralizados y descentralizados, tengan o no personalidad jurídica y patrimonio propios, en la medida que los inmuebles beneficiados no correspondan a alguna de las sedes matrices de los mismos Servicios, indicadas en el Decreto N° 1.187 del Ministerio de Hacienda, de 2006.
+
+Dicho lo anterior y de acuerdo al artículo 1° del DFL N° 223 de 1953, del Ministerio de Defensa Nacional, que aprobó la Ley Orgánica de las Fábricas y Maestranzas del Ejército, cuyo texto refundido, coordinado y sistematizado fue fijado por el Decreto N° 375 de 1978, de la misma Secretaría de Estado, se concluye que FAMAE es una corporación de derecho público, que goza de personalidad jurídica, administración autónoma y de patrimonio propio, de conformidad a lo dispuesto en tal cuerpo legal, y que se relaciona con el Gobierno por intermedio del Ministerio de Defensa.
+En lo que respecta a su naturaleza jurídica, la Contraloría General de la República ha señalado que FAMAE tiene el carácter de empresa pública creada por ley y forma parte de la Administración del Estado, de acuerdo a lo dispuesto en el inciso segundo del artículo 1° de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+Precisando la naturaleza jurídica y caracteres de las empresas públicas del Estado o empresas del Estado, la Contraloría General de la República ha señalado que nacen a la vida del derecho por una ley de quorum calificado, la que señala su naturaleza jurídica de “servicio público” descentralizado funcionalmente, establece sus objetivos, sus funciones, su estructura, incluidas sus autoridades y atribuciones de ellas, su régimen financiero, su régimen de personal, etc.; enumerando entre las empresas del Estado, entre otras instituciones, a las Fabricas y Maestranzas del Ejercito.
+Luego, y conforme lo anterior, se concluye que FAMAE se encuentra exenta de Impuesto Territorial por aplicación de lo dispuesto en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235, referido antes.
 III CONCLUSIÓN
-No obstante que, por las razones señaladas, se ha considerado innecesario impartir instrucciones sobre la modificación de la tasa del Impuesto de Timbres y Estampillas aplicable a las operaciones destinadas a financiar viviendas acogidas al DFL N° 2 de 1959, en el punto II anterior (Análisis) se cumple lo solicitado por la XXXX.
-En cuanto a la solicitud de devolución de impuestos pagados indebidamente o en exceso respecto de operaciones crediticias en las cuales el acreedor es un banco, dicha solicitud debe ser efectuada por el banco o por el notario que autorizó la escritura correspondiente, dependiendo de quien haya efectuado su pago en arcas fiscales.
-Con todo, las personas a las cuales se les recargaron o retuvieron indebidamente o en exceso el tributo, pueden solicitar que se declare esta circunstancia por la Dirección Regional correspondiente.
-La devolución se hará a quien efectuó la retención y pago del impuesto indebido o en exceso, siempre que éste, a su vez, acredite fehacientemente que ha restituido las sumas correspondientes al respectivo comprador de la vivienda y rectificado la declaración respectiva.
+Conforme lo dispuesto en el artículo 2° de la Ley N° 20.033, se encuentra derogada tanto la exención contenida en el primitivo Cuadro Anexo N° 1, Numeral I, Letra A), N° 9) de la Ley N° 17.235, como su fuente normativa directa, contenida en el artículo 10° de la Ley Orgánica de FAMAE, en lo que dice relación con el Impuesto Territorial.
+Sin perjuicio de lo anterior, FAMAE se encuentra exenta de Impuesto Territorial por considerarse un “servicio público”, de acuerdo a lo dispuesto en el numeral 1°, Letra A), Párrafo I, Cuadro Anexo de la Ley N° 17.235, en la medida que los inmuebles beneficiados no correspondan a alguna de las sedes matrices de los mismos Servicios, indicadas en el Decreto N° 1.187 del Ministerio de Hacienda, de 2006.
+De acuerdo con lo anterior, no es necesario un análisis sobre la naturaleza jurídica de las “contribuciones de bienes raíces”.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 1829, de 23.06.2016
+Oficio N° 1835, de 23.06.2016
 Subdirección Normativa
 Dpto. de Técnica Tributaria

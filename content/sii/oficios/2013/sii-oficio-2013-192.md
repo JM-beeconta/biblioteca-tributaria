@@ -6,36 +6,207 @@
 - Año: 2013
 - Fecha: 2013-06-18
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja847.htm
-- Hash SHA-256: 7e7dbea897da773423d895f38925dbc66700008befed2e4b36cd88f2828c951d
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja1332.doc
+- Hash SHA-256: ec21d2b59380908c8a276af9007733ef012741b8d99a3166e2b3fe30f1eb2ec6
 
 ## Resumen
 
-°, N°3. (Ord. Nº 1332, de 18-06-2013) | Word Solicita aclaración del . Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Ley N°18.502, Art. 1 &ndash; Ley N° 20.052, de 2005 &ndash; Ley N° 20.265, de 2008. (Ord. Nº 847, de 25-04-2013) | Word Procedencia del pago de un impuesto anual a vehículos con combustión a gas natural. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 2°, N°2, Art. 12°, Letra E), N°4 &ndash; Ley N° 20.552, de 2011.…
+| Word Solicita aclaración del .
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":192,"year":2011}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N°18.502, ART. 1 – LEY N° 20.052, DE 2005 – LEY N° 20.265, DE 2008. (ORD. N° 847, DE 25.04.2013)
-PROCEDENCIA DEL PAGO DE UN IMPUESTO ANUAL A VEHÍCULOS CON COMBUSTIÓN A GAS NATURAL.
-Se ha recibido en esta Dirección Nacional, ordinario del antecedente mediante el cual el señor Coordinador Legal Administrativo del Ministerio de Hacienda, remite consulta realizada por XXX, quien solicita se le informe en relación a la procedencia del cobro de un impuesto anual a los vehículos de la locomoción colectiva. I.- ANTECEDENTES
-Mediante correo electrónico enviado a casilla electrónica “Contáctate con el Presidente”, del sitio web www.gob.cl, el recurrente plantea que su padre habría adquirido dos colectivos bencineros en el año 2012 y los habría transformado a combustible a gas, suscribiendo un contrato a tres años con la empresa Abastible por la instalación de equipos en los respectivos vehículos que explota como taxi o colectivo.
-Expone que a su padre le habrían señalado que tendría que pagar la suma de un millón ochocientos mil pesos por vehículo, por concepto de un impuesto anual, por usar este tipo de combustible, lo que representaría más de un 40% de las ganancias.
-En relación a lo anterior consulta si procede el cobro de tal impuesto anual a la locomoción colectiva.
-II.- ÁNALISIS:
-Sobre el particular cabe señalar que en su artículo 1° la Ley 18.502 establece a beneficio fiscal un impuesto específico al consumo vehicular y a la utilización de los combustibles gas natural comprimido y gas licuado de petróleo.
-Dicho impuesto se devenga al tiempo de la venta que efectúe el distribuidor de estos combustibles, al vendedor de estos combustibles para consumo vehicular.
-Su declaración y pago son de cargo del distribuidor, quien debe enterarlos en arcas fiscales dentro de los primeros 10 días hábiles siguientes en que se efectuaron las transferencias.
-Cabe hacer presente que en el año 2005 mediante la Ley 20.052, se modificó dicho articulo 1° estableciéndose que en su carácter de mixto, el referido impuesto consideraba un componente variable aplicable al consumo vehicular, de cargo del distribuidor y un componente fijo por la utilización o empleo de dichos combustibles, el cual debía pagar y declarar en el mes de enero, el propietario de los vehículos que utilizaban gas natural comprimido o gas licuado de petróleo como combustible. Sin embargo, posteriormente dicho componente fijo fue eliminado, a contar del 01 de Mayo de 2008 .
-II.- CONCLUSIÓN:
-En relación a su consulta, se informa a Usted que conforme a la normativa vigente, la declaración y pago del impuesto específico al consumo vehicular de gas natural comprimido y gas licuado de petróleo son de cargo del distribuidor, quien deberá enterarlos en arcas fiscales dentro del plazo anteriormente señalado, no existiendo en la actualidad impuestos que por dicho concepto deban declarar y pagar los propietarios de los vehículos que utilicen dichos combustibles.
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART.
+ 23°, N°1, ART. 25° – DECRETO SUPREMO N° 55, DE 1977, ART. 41°, N°3.  (ORD.
+                           N° 1332, DE18.06.2013)
 
-JUAN ALBERTO ROJAS BARRANTI
-DIRECTOR SUBROGANTE
 
-Oficio N° 847, de 25.04.2013
-Subdirección Normativa
-Dpto. de Impuestos Indirectos
+
+Solicita aclaración del Oficio N°192, de 2011, en relación con el  uso  como
+crédito fiscal del Impuesto al Valor  Agregado  soportado  en  servicios  de
+reparación de vehículos.
+
+
+Se ha solicitado a esta Dirección Nacional una aclaración del  Oficio  N°192
+de 2011, específicamente respecto del uso como crédito fiscal  del  Impuesto
+al Valor Agregado soportado por una concesionaria de venta de  vehículos  en
+servicios de reparación prestados por un  taller  o  servicio  técnico  para
+cumplir con  la  obligación  de  garantía,  en  aquellos  casos  en  que  la
+concesionaria haya contratado un  seguro  o  pactado  una  garantía  con  el
+distribuidor de los vehículos para resarcirse del costo incurrido en  dichas
+reparaciones.
+
+I.-         ANTECEDENTES:
+
+En la presentación respondida a través del Oficio N°192, de 2011, se  expuso
+el caso de una concesionaria de automóviles  dedicada  exclusivamente  a  la
+venta de vehículos nuevos, la cual para cubrir el costo de las  reparaciones
+encargadas a un taller o servicio técnico por desperfectos de los  vehículos
+vendidos durante el período de garantía (legal o contractual),  contrata  un
+seguro  con  una  compañía  de  seguros  o  pacta  una   garantía   con   la
+distribuidora que le vendió los vehículos.
+
+En dicha oportunidad se consultó primeramente si la sumas  reintegradas  por
+el distribuidor o la aseguradora a la concesionaria no calificaban  como  un
+hecho  gravado  con  Impuesto  al  Valor  Agregado  atendido   su   carácter
+indemnizatorio, y adicionalmente, si los servicios de reparación  encargados
+al taller mecánico calificaban como un  gasto  general  relacionado  con  el
+giro o actividad  de  la  concesionaria  que  la  habilitara  para  usar  el
+Impuesto al Valor Agregado soportado en ellos como crédito fiscal,  bajo  el
+supuesto que no existía  un  mandato  otorgado  por  el  distribuidor  o  la
+aseguradora a la concesionaria.
+
+A través del Oficio N°192, de 2011 en lo que respecta  al  uso  del  crédito
+fiscal por el Impuesto al Valor  Agregado  soportado  en  los  servicios  de
+reparación, se indicó que los gastos incurridos para dar cumplimiento  a  la
+obligación de reparar los desperfectos de los  vehículos  vendidos  no  dice
+relación directa con la actividad de venta de vehículos desarrollada por  la
+empresa concesionaria cuyo giro es la venta de vehículos y no el  arreglo  o
+compostura de los mismos.
+
+En la nueva presentación se plantea  un  nuevo  escenario,  en  el  cual  la
+concesionaria, adicionalmente a la venta de automóviles, tendría  como  giro
+y  efectivamente  realizaría  la  actividad  de  reparación  de   vehículos,
+solicitándose en esta nueva presentación aclarar si bajo el nuevo  supuesto,
+la concesionaria podría utilizar como crédito fiscal el  Impuesto  al  Valor
+Agregado soportado en la reparación de vehículos.
+
+II.-  ANÁLISIS:
+
+En relación con la materia en consulta, el N°1 del Art. 23 del  Decreto  Ley
+N°825, de 1974,  dispone  en  lo  pertinente,  que  los  contribuyentes  del
+Impuesto al Valor Agregado tienen derecho a un crédito fiscal en contra  del
+débito fiscal determinado por el mismo período  tributario,  equivalente  al
+Impuesto al Valor Agregado recargado en las  facturas  de  adquisiciones  de
+bienes o utilización de servicios, o pagado en la importación  de  especies,
+siempre que los bienes o servicios  estén  destinados  a  formar  parte  del
+activo fijo, activo realizable, o correspondan a gastos de tipo general  que
+digan relación con el giro o actividad del contribuyente.
+
+Por su parte, el N°2 de la citada norma dispone que no procede el derecho  a
+crédito fiscal  respecto  del  Impuesto  al  Valor  Agregado  pagado  en  la
+importación o adquisición de  bienes  o  utilización  de  servicios  que  se
+afecten a operaciones  exentas  o  hechos  no  gravados  por  la  Ley  sobre
+Impuesto a las Ventas y Servicios, o bien que no  guarden  relación  directa
+con la actividad del vendedor.
+
+A su vez, el Art. 41 N°3 del Reglamento de  la  Ley  sobre  Impuesto  a  las
+Ventas y Servicios, Decreto Supremo N°55 de Hacienda de  1977,  dispone  que
+no procede el derecho al crédito fiscal respecto de  gravámenes  pagados  en
+la importación o compra  de  bienes  corporales  muebles  o  utilización  de
+servicios que no guarden relación  directa  con  la  actividad  o  giro  del
+contribuyente, agregando que se entiende que las adquisiciones de  bienes  o
+utilización servicios no guardan relación directa con el  giro  o  actividad
+del contribuyente cuando se destinen a  fines  diferentes  de  aquellos  que
+constituyen su giro o actividad habitual, como  ocurriría  por  ejemplo  con
+las  importaciones,  adquisiciones  o  utilización  de  servicios  que  éste
+efectuara para su uso  particular,  o  que,  destinándolo  a  su  empresa  o
+negocio, dicha destinación sea con fines ajenos a  los  de  su  industria  o
+actividad, de forma tal que no pueda estimarse que guarda  relación  directa
+con su giro.
+
+Adicionalmente, el Art. 25 del Decreto Ley N°825 señala que para  hacer  uso
+del crédito fiscal los contribuyentes deben acreditar  que  el  Impuesto  al
+Valor Agregado le ha sido recargado separadamente en una  factura,  la  cual
+ha sido a su  vez  debidamente  registrada  en  los  libros  especiales  que
+establece el Reglamento de la Ley sobre Impuesto a las Ventas  y  Servicios,
+o bien, tratándose de importaciones, el  referido  tributo  ha  sido  pagado
+según los comprobantes de ingreso.
+
+De las normas transcritas, se desprende que  la  procedencia  del  uso  como
+crédito fiscal del Impuesto al Valor Agregado soportado en adquisiciones  de
+bienes y servicios descansa sobre el cumplimiento de exigencias de  forma  y
+de fondo. Desde una perspectiva documentaria, el Impuesto al Valor  Agregado
+debe ser indicado separadamente en una factura emitida  para  documentar  la
+transacción, o en el  comprobante  de  ingreso  en  caso  de  importaciones,
+documentos los cuales a su vez deben haber sido registrados  en  los  libros
+especiales que señala el Decreto Supremo N°55. A su vez,  desde  un  enfoque
+substantivo, el adquirente del bien o servicio  debe  ser  un  contribuyente
+del Impuesto al Valor Agregado;  el  bien  o  servicio  adquirido  debe  ser
+destinado a operaciones afectas al Impuesto al Valor  Agregado  que  guarden
+relación directa con la actividad o giro del contribuyente;  y  por  último,
+no debe tratarse de transacciones respecto de las cuales expresamente no  se
+permite el uso del Impuesto al Valor Agregado pagado como crédito fiscal.
+
+En consecuencia, conforme a las normas  citadas,  el  financiamiento  de  la
+reparación no aparece como  un  obstáculo  legal  para  la  procedencia  del
+crédito fiscal por el Impuesto al Valor Agregado pagado en  razón  de  ella,
+siendo lo determinante para ello, el cabal cumplimiento  de  los  requisitos
+substanciales y de forma previstos en la Ley.
+
+En la situación consultada habida cuenta que  la  concesionaria  tiene  como
+giro y efectivamente desarrolla la reparación de  vehículos,  este  Servicio
+estima que el Impuesto al Valor Agregado pagado en la  contratación  directa
+por la concesionaria de servicios de compostura  de  automóviles  constituye
+un  gasto  relacionado  con  su  actividad,  al  estar  destinado  a   fines
+inherentes a su industria,  por lo tanto, en la  medida  que  se  verifiquen
+todos los requisitos  de  fondo  y  de  forma  requeridos  en  la  Ley,   la
+concesionaria estaría  habilitada  para  utilizar  como  crédito  fiscal  el
+Impuesto  al  Valor  Agregado  recargado  en  los  servicios  de  reparación
+contratados directamente  por  ella.  Distinto  sería  el  caso  en  que  la
+compañía aseguradora o el distribuidor, no se haya obligado al pago  de  una
+indemnización sino que a reparar directamente el vehículo con  desperfectos,
+puesto que el adquirente de los servicios de  reparación  prestados  por  un
+tercero o de las partes o piezas adquiridas  sería  la  distribuidora  o  la
+asegurada y no la concesionaria.
+
+
+
+
+
+
+
+
+
+
+
+
+III.- CONCLUSIÓN:
+
+El Impuesto al Valor Agregado soportado por la  concesionaria  en  servicios
+de reparación de automóviles prestados por un  taller  o  servicio  técnico,
+podría ser utilizado por la concesionaria como crédito fiscal en  la  medida
+que  se  verifiquen  cabalmente  los  demás  requisitos  formales  para   su
+procedencia establecidos en la Ley.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          JULIO PEREIRA GANDARILLAS
+                                  DIRECTOR
+
+
+
+
+
+
+
+
+
+
+
+
+                        Oficio N° 1332, de 18.06.2013
+                           Subdirección Normativa
+                        Dpto. de Impuestos Indirectos

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 57
 - Año: 2013
-- Fecha: 2013-12-16
+- Fecha: 2013-11-27
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu57.pdf
 - Hash SHA-256: 21643f91193ea1eba9fba1574b9ce508fc5d3a1214070c5e70b2317402298824
 
 ## Resumen
 
-n> Circular N° 58 del 16 de Diciembre del 2013 Tablas de Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de enero del año 2014 e información adicional relacionada con dichos tributos Fuente: oficina de Gestión Normativa Instrucciones relativas a la entrada en vigencia de la Ley N°20.650 de 2012 que modifica la Ley N°17.235 sobre Impuesto Territorial Fuente: Técnica Tributaria Circular N° 56 del 27 de Noviembre del 2013 Imparte instrucciones sobre cesión de créditos contenidos e…
+oacute;n Normativa Instrucciones relativas a la entrada en vigencia de la Ley N°20.650 de 2012 que modifica la Ley N°17.235 sobre Impuesto Territorial Fuente: Técnica Tributaria
 
 ## Referencias detectadas
 

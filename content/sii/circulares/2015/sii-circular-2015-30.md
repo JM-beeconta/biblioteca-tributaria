@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 30
 - Año: 2015
-- Fecha: 2015-05-12
+- Fecha: 2015-05-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu30.pdf
 - Hash SHA-256: 7688c09fea538512dcd33671b9dd95c323ecf3da81a7a1fff8113a8dbb78cd49
 
 ## Resumen
 
-span> Circular N° 31 del 12 de Mayo del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Instruye respecto de la incorporación del nuevo artículo 41 G a la Ley sobre Impuesto a la Renta, efectuada por la Ley N° 20.780, sobre el cómputo en Chile de las rentas pasivas percibidas o devengadas por empresas controladas en el exterior. Fuente: Departamento…
+oacute;n Normativa Instruye respecto de la incorporación del nuevo artículo 41 G a la Ley sobre Impuesto a la Renta, efectuada por la Ley N° 20.780, sobre el cómputo en Chile de las rentas pasivas percibidas o devengadas por empresas controladas en el exterior. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

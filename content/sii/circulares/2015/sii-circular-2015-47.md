@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 47
 - Año: 2015
-- Fecha: 2015-06-15
+- Fecha: 2015-06-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu47.pdf
 - Hash SHA-256: a62465a01d700bfa87779a58368dfd6eb91b8709d9196a88c24135bfd2326210
 
 ## Resumen
 
-oacute;n Circular N° 48 del 15 de Junio del 2015 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario para la micro, pequeña y mediana empresa contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos Obligación de incorporar sellos o marcas distintivas como mecanismo de &ldquo;trazabilidad&rdquo; de bienes afectos a impuestos específicos. Fuente: Departamento de Asesoría Jurídica Circular N° 46 del 11 de Junio del 2015…
+Impuestos Directos Obligación de incorporar sellos o marcas distintivas como mecanismo de &ldquo;trazabilidad&rdquo; de bienes afectos a impuestos específicos. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

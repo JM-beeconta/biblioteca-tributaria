@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ada">Circular N° 70 del 23 de Julio del 2015 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, ambos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017 y reemplaza dos ejemplos contenidos en la Circular N° 42 de 2015. Fuente: Impuestos Directos Instruye sobre las modificaciones incorporadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con los nu…
+Impuestos Directos Instruye sobre las modificaciones incorporadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017, particularmente sobre las normas relativas a la tributación de las devoluciones de capital y de las rentas o cantidades acumuladas al término de giro de la empresa, así como también respecto de las modificaciones introducidas a otros cu…
 
 ## Referencias detectadas
 

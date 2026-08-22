@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 48
 - Año: 2015
-- Fecha: 2015-06-18
+- Fecha: 2015-06-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu48.pdf
 - Hash SHA-256: 8e25054f3918fec84bedf09b9fb8c79989a3e1985a3f381cf6450ded8faa2532
 
 ## Resumen
 
-Fuente: Departamento de Asesoría Jurídica Circular N° 49 del 18 de Junio del 2015 Tabla de Cálculos de reajustes, Intereses y Multas Julio 2015 Fuente: Subdirección de Fiscalización Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario para la micro, pequeña y mediana empresa contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos Circular N° 47 del 11 de Junio del 2015 Obligación de incorporar sellos o marcas distinti…
+scalización Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario para la micro, pequeña y mediana empresa contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

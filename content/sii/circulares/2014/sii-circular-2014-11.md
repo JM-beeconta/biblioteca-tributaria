@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 11
 - Año: 2014
-- Fecha: 2014-02-27
+- Fecha: 2014-02-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu11.pdf
 - Hash SHA-256: 54927af05c087799f25d5c392cf767ad929c558830e64d5ecbaf69917adb4556
 
 ## Resumen
 
-la misma Ley. Fuente: Impuestos Directos Circular N° 12 del 27 de Febrero del 2014 Tabla de cálculos de reajustes, intereses y multas marzo 2014 Fuente: Subdirección de Fiscalización Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los articulos 23 y 34 N° 1 de la ley de la renta. Fuente: Oficina de Gestión Normativa Circular N° 10 del 12 de Febrero del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario pa…
+scalización Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los articulos 23 y 34 N° 1 de la ley de la renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

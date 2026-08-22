@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 69
 - Año: 2016
-- Fecha: 2016-12-27
+- Fecha: 2016-12-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu69.pdf
 - Hash SHA-256: d94479eda22979bd433e64d117162be6f7e62c427ed636afacb9b7b89fd093b6
 
 ## Resumen
 
-Renta (LIR). Fuente: Impuestos Directos Circular N° 70 del 27 de Diciembre del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas enero 2017 Fuente: Subdirección de Fiscalización Tablas de Impuesto Único de Segunda Categoría para el mes de enero del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa Circular N° 68 del 14 de Diciembre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2016 y el 9 de enero de 2016…
+scalización Tablas de Impuesto Único de Segunda Categoría para el mes de enero del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

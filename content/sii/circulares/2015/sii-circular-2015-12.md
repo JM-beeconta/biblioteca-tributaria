@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 12
 - Año: 2015
-- Fecha: 2015-02-11
+- Fecha: 2015-01-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu12.pdf
 - Hash SHA-256: 77f654d930a04a6ad2567bc4de6115b352026a0042e3f16a6cf4f2e5280abb7d
 
 ## Resumen
 
-/span> Circular N° 13 del 11 de Febrero del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa Instruye sobre las modificaciones efectuadas a los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta por las Leyes N°s 20.727 y 20.780 de 2014, y la incorporación de los artículos 41 F y 41 H efectuada por esta última Ley. Fuente: Impuestos Directos Circ…
+oacute;n Normativa Instruye sobre las modificaciones efectuadas a los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta por las Leyes N°s 20.727 y 20.780 de 2014, y la incorporación de los artículos 41 F y 41 H efectuada por esta última Ley. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

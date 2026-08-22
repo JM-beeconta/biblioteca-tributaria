@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2015
-- Fecha: 2015-03-02
+- Fecha: 2015-02-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu16.pdf
 - Hash SHA-256: 56f5077ea9b49cb347a171677491892dd46c1e06d5d7b0906bc5000f2d449bd5
 
 ## Resumen
 
-f='https://www.sii.cl/normativa_legislacion/circulares/2015/circu17.pdf' target='_blank'>Circular N° 17 del 02 de Marzo del 2015 Imparte instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria, a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980. Fuente: Subdirección Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que…
+oacute;n Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 1 de la Ley de la Renta. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

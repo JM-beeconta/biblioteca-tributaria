@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Tabla de Cálculos de reajustes, intereses y Multas enero 2016 Fuente: Subdirección de Fiscalización Circular N° 91 del 11 de Diciembre del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2015 y el 9 de enero del año 2016. Fuente: Oficina de Gestión Normativa <a href='https://www.sii.cl/nor
+Tabla de Cálculos de reajustes, intereses y Multas enero 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

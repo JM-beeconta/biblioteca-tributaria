@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 15
 - Año: 2016
-- Fecha: 2016-04-08
+- Fecha: 2016-04-06
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu15.pdf
 - Hash SHA-256: 878e6cb0d9deff639ba022ea041cb6bb2ddd6184cece04299080aeffe56a7758
 
 ## Resumen
 
-Circular N° 16 del 08 de Abril del 2016 Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2016, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Instruye sobre la situación tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artículo 2°, de la Ley N° 20.809, y el artículo 41 de la Ley…
+oacute;n Normativa Instruye sobre la situación tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artículo 2°, de la Ley N° 20.809, y el artículo 41 de la Ley N°16.441. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

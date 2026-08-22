@@ -6,48 +6,58 @@
 - Año: 2013
 - Fecha: 2013-09-09
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1696.htm
-- Hash SHA-256: b95ec7f43dd8c9c2b7b52dfab5e02742fc479f34722c5b4f349bc8897733fa19
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1971.doc
+- Hash SHA-256: 8f2576b22a2f1264dfcff0f0011c45013a4aab4ee3401e010f45ef4975fd1a8a
 
 ## Resumen
 
-7, de 2009 &ndash; . (Ord. Nº 1971, de 09-09-2013) | Word Vigencia Oficio N° 3660 de 2005 y obligatoriedad de normas sobre castigo de créditos de instituciones financieras, a emisoras u operadoras de tarjetas de crédito. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 18° ter, inciso 3 (derogado) &ndash; ley N° 18.045, Art. 199° &ndash; Circular N° 7, de 2002 &ndash; Oficios N°&rsquo;s 2731 y 3086, de 2008 y 3249, de 2009. (Ord. Nº 1696, de 07-08-2013) | Word Tratamiento tributario de la enajenación de a…
+| Word Vigencia .
 
 ## Referencias detectadas
 
-- {"type":"circular","number":7,"year":2002}
-- {"type":"articulo","law":"LIR","article":"18 TER"}
-- {"type":"articulo","law":"LIR","article":"18 ter"}
+- {"type":"circular","number":24,"year":2008}
+- {"type":"circular","number":47,"year":2009}
+- {"type":"oficio","number":3660,"year":2005}
+- {"type":"articulo","law":"LIR","article":"31 N"}
+- {"type":"articulo","law":"LIR","article":"31 n"}
+- {"type":"articulo","law":"CT","article":"6"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 18° TER, INCISO 3 (DEROGADO) – LEY N° 18.045, ART. 199° – CIRCULAR N° 7, DE 2002 – OFICIOS N°’S 2731 Y 3086, DE 2008 Y 3249, DE 2009. (ORD. N° 1696, DE 07.08.2013)
-TRATAMIENTO TRIBUTARIO DE LA ENAJENACIÓN DE ACCIONES EFECTUADA DURANTE LA VIGENCIA DEL EX-ARTÍCULO 18 TER, DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR), DE ACUERDO CON LO DISPUESTO EN EL INCISO 3° DE DICHA DISPOSICIÓN.
-Se consulta si el requisito de la presencia bursátil, es aplicable en la situación a la que se refiere el inciso 3° del derogado artículo 18 ter de la LIR, para los fines de la exención de impuestos a la renta, respecto del mayor valor obtenido en la enajenación de acciones que establecía. I.- ANTECEDENTES.
-Manifiesta que un accionista de una sociedad anónima abierta que transa en bolsa, en un proceso de Oferta Pública de Acciones, regido por el Título XXV, de la Ley N° 18.045, y, durante la vigencia del artículo 18 ter de la LIR, vendió acciones de una sociedad anónima abierta, las que permitieron al adquirente tomar el control de dicha sociedad. Las acciones así vendidas, agrega, a la fecha de su enajenación, no registraban presencia bursátil.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°4 – CÓDIGO TRIBUTARIO, ART. 6° – CIRCULARES N°’S 24, DE 2008 Y 47, DE 2009 – OFICIO N° 3660, DE 2005. (ORD. N° 1971, DE 09.09.2013)
 
-Señala que el inciso 3° del artículo 18 ter, disponía: “Con todo, cuando se trate de la enajenación de un conjunto de acciones que permita al adquirente tomar el control de una sociedad anónima abierta, la exención se aplicará en la medida que la enajenación sea efectuada como parte de un proceso de oferta pública de adquisición de las mismas, regido por el título XXV de la Ley N° 18.045, o bien si se efectúa en una bolsa del país, sin exceder el precio al que se refiere la letra ii) del inciso tercero del artículo 199 de dicha ley.”
-Expresa que a su juicio, la utilidad o mayor valor obtenido en la venta de acciones a que se refiere, se beneficiaba con la liberación tributaria contenida en el entonces inciso 3° del artículo 18 ter, ello en consideración a que esta disposición establecía una hipótesis de exención especial, específica y sustitutiva de la del inciso 1°, que hacía aplicable la exención tributaria al mayor valor obtenido en la enajenación de acciones que permitieran al adquirente la toma de control de una sociedad anónima abierta, exigiendo requisitos específicos al respecto, esto es, que la enajenación se efectuara en un proceso de Oferta Pública de Acciones, o bien, directamente en bolsa, siempre que en este último caso el precio no excediera aquél establecido en el artículo 199 inciso 3°, letra ii), de la Ley N° 18.045. Es decir, que la norma del inciso 3° en comento, no requería que las acciones tuvieran presencia bursátil, pues sólo exigía que ellas hubieran sido emitidas por una sociedad anónima abierta y tampoco se establecían requisitos específicos en lo concerniente a la adquisición de las acciones.
-II.- ANÁLISIS.
-Las instrucciones impartidas por este Servicio , sobre el derogado artículo 18 ter de la LIR, establecieron que las acciones que podían ampararse en sus normas, eran aquellas que se hubieren adquirido bajo cualquiera de las siguientes formas:
-a) En una bolsa de valores del país;
-b) En un proceso de oferta pública de adquisición de acciones regido por el Título XXV de la Ley N° 18.045;
-c) En una colocación de acciones de primera emisión, con motivo de la constitución de una sociedad anónima;
-d) En una colocación de acciones de primera emisión, originada en un aumento de capital posterior a la constitución de la sociedad, y
-e) En un canje de bonos convertibles en acciones.
-Por otra parte, precisaban que para que fuera procedente el tratamiento tributario que establecía la norma en referencia, debían cumplirse los siguientes requisitos a la fecha de la enajenación de las acciones:
-a) Que su enajenación se produjera en una bolsa de valores del país o del extranjero, en este último caso, autorizada por la Superintendencia de Valores y Seguros, o bien, en un proceso de oferta pública de adquisición de acciones, regido por el Título XXV de la Ley N° 18.045. Respecto de la última forma de enajenación señalada, se establece en las referidas instrucciones, que era la única habilitante de la exención, cuando la enajenación versaba sobre un conjunto de acciones que permitía al adquirente tomar el control de una sociedad anónima abierta. Con todo, el inciso 3° de la disposición en referencia admitía como válida la procedencia de la exención cuando la enajenación sólo se efectuaba en una bolsa del país, siempre que el precio asignado a la operación no excediera a aquel a que se refiere la letra ii), del inciso 3° del artículo 199, de la Ley N°18.045. Esto es, el que determinare la Superintendencia de Valores y Seguros y que no puede ser inferior al 10% ni superior al 15% del precio de mercado, entendiéndose por éste el definido en la letra i) del inciso tercero del artículo 199 de la Ley N° 18.045, y
-b) Que al momento de la enajenación la acción tenga presencia bursátil, entendiéndose dicha presencia en los términos establecidos en el N° 1, del artículo 13°, del D.L. N° 1.328, de 1976.
-Ahora bien, la jurisprudencia de este Servicio sostuvo sobre la materia que los requisitos que se debían cumplir al momento de la enajenación son copulativos, es decir, ambos debían reunirse cuando ocurría la cesión de las acciones.
-Respecto de la exención que establecía el inciso 3°, del artículo 18 ter de la LIR, para que proceda dicha liberación tributaria, se expresó, que además debía cumplirse el requisito de la presencia bursátil a que hace referencia el inciso 1° del mismo artículo, ya que dicho inciso comenzaba con la expresión “Con todo”, lo que implica que son aplicables también en la especie los requisitos que el artículo 18 ter exige en su inciso 1°, como lo es el de la presencia bursátil.
-En este sentido, el inciso 3°, del artículo 18 ter de la LIR, limita la exención en el caso que la enajenación de las acciones permita al adquirente tomar el control de una sociedad anónima abierta, al establecer requisitos adicionales para su procedencia. La debida correspondencia y armonía que debe existir entre las diferentes partes de la norma, ilustra el sentido que tiene el inciso 3°, en orden a que los requisitos que expresamente señala, se suman a los requisitos generales que se establecen en el inciso 1° del mismo artículo.
+Vigencia Oficio N° 3660 de 2005 y obligatoriedad de normas sobre castigo de créditos de instituciones financieras, a emisoras u operadoras de tarjetas de crédito.
 
-III.- CONCLUSIÓN.
-Conforme a lo señalado, sólo cabe reiterar los pronunciamientos anteriores de este Servicio sobre la materia, en el sentido que el inciso 3° del derogado artículo 18 ter de la LIR, establecía que para que procediera dicha liberación tributaria, además de reunirse las condiciones especiales que exige, también debía cumplirse el requisito de la presencia.
+Se consulta a esta Dirección Nacional sobre la vigencia del Oficio N° 3660 de 2005, así como también sobre el carácter obligatorio , para la s entidades que indica, de las normas sobre castigo de créditos aplicables a los bancos e instituciones financieras .
 
-ALEJANDRO BURR ORTÚZAR
+I.- ANTECEDENTES
+
+M ediante resolución de fecha xx.xx.xx , dictada en la causa ROL N° xxx , por reclamo de liquidaciones presentado por el contribuyente TTTT , se ha ordenado oficiar a este Servicio a fin que emita un pronunciamiento sobre los siguientes puntos:
+
+Si el criterio contenido en el Oficio N° 3660 de 2005 se encuentra vigente, solicitando se acompañe copia autorizada del mismo; y,
+Si, conforme a lo instruido en el oficio antes indicado, las normas sobre castigo de créditos, contenidas en los incisos segundo, tercero y cuarto del artículo 31 N° 4, de la Ley sobre Impuesto a la Renta, relativas a los bancos e instituciones f inancie ras, son obligatorias para una institución f inanciera, sometida a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, como son las entidades emisoras u operadoras d e tarjetas de créd ito abiertas, considerando que, según indica, el intérprete administrativo no ha podido establecer una opción desde que el legislador no la ha previsto.
+
+II.- ANÁLISIS
+
+E l artículo 31 número 4°, inciso segundo, de la Ley sobre Impuesto a la Renta (LIR) , establece que la deducción como gasto necesario para producir la renta, de las provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos e instituciones financieras, procederá de acuerdo a las instrucciones que impartan en conjunto la Superintendencia de Bancos e Instituciones Financieras (en adelante SBIF) y este Servicio, y fija las condiciones que deben contener (inciso cuarto).
+
+Dichas instrucciones se encuent ran actualmente incluid as en la Circular N° 24 de 2008 y en la Circular N° 47 de 2009 , de este Servicio.
+
+Por otra parte, el Oficio N° 3660 de 2005 , referido en la consulta, da respuesta a una presentación de la SBIF , en l a cual este organismo expuso que consideraba a las empresas emisoras y operadoras de tarjetas de crédito como instituciones financieras , y some tía al dictamen de este Servicio su planteamiento en orden a que , por esa razón, les eran aplicabl es las normas sobre provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos e instituciones financieras, según lo es tablecido en el artículo 31 N° 4 de la Ley sobre Impuesto a la Renta .
+
+En el oficio citado se informó que, atendido a que la SBIF cuenta con las facultades legales necesarias para poder calificar como “institución financiera” a las empresas emisoras y operadoras de tarjetas de crédito, este Servicio no ve inconveniente en que , a tales entidades , le sean aplicables las mismas normas legales e instrucciones impartidas sobre la materia , que rigen el tratamiento tributario de las provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos e instituciones financieras . Dicho Oficio y el criterio que contiene, se encuentran plenamente vigentes.
+
+De acuerdo a lo anterior, si el organismo competente (SBIF), ha califica do c omo institución financiera a las empresa s emisora s u operadora s de tarjetas de crédito, ésta s deberá n regirse , en cuanto a la deducción como gasto de los créditos incluidos en su cartera vencida, por las normas que establece el artículo 31 número 4°, incisos segundo y siguientes , de la ley sobre Impuesto a la Renta.
+
+III.- CONCLUSIÓN
+
+Conforme a lo expuesto, se informa que el Oficio N° 3660 de 2005 se encuentra vigente y que, dado que la SBIF ha considerado a las empresas emisoras u operadoras de tarjetas de crédito co mo instituciones financieras, le resultan obligatorias las normas contenidas en los incisos segundo y siguientes del artículo 31 N° 4 de la LIR y , por consiguiente , las instrucciones adminis trativas impartidas según lo ordena dicha disposición legal.
+
+Finalmente se hace presente que, en virtud de lo dispuesto en el artículo 3° transitorio de la Ley N° 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera, los Directores Regionales del Servicio, en el ejercicio de sus facultades jurisdiccionales, no se encuentran sujetos a lo dispuesto en el inciso final del artículo 6° del Código Tributario.
+
+JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Oficio N° 1696, de 07.08.2013
+Oficio N° 1971, de 09.09.2013
 Subdirección Normativa
-Dpto. de Impuestos Directos.
+Dpto. de Técnica Tributaria

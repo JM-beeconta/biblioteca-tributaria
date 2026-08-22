@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 60
 - Año: 2013
-- Fecha: 2013-12-27
+- Fecha: 2013-12-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu60.pdf
 - Hash SHA-256: 3d4fc1058c03b8c3cf03add4f910c6373a080d5d2700ec6b039725f369f702a9
 
 ## Resumen
 
-el 27 de Diciembre del 2013 Actualiza nómina de Decretos Supremos del Ministerio de Hacienda que establecen el listado de obras específicas de naturaleza pública y privada que se pueden acoger a los beneficios tributarios por donaciones, según lo dispuesto por el artículo 8° de la Ley N° 20.444/2010; quedando sin efecto la Circular N° 26, de 2013. Fuente: Oficina de Gestión Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2014 Fuente: Subdirección de Fiscalización Circular N° 59 del 16 de Diciemb…
+oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

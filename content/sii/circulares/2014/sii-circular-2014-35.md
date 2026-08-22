@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Impuestos Indirectos Circular N° 36 del 09 de Junio del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2014 y el 9 de julio del año 2014. Fuente: Oficina de Gestión Normativa Tablas del Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 34 del 05 de Junio del 2014 Instruye sob…
+oacute;n Normativa Tablas del Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

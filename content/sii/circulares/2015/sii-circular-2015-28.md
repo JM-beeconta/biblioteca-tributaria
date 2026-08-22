@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 28
 - Año: 2015
-- Fecha: 2015-05-05
+- Fecha: 2015-04-30
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu28.pdf
 - Hash SHA-256: f4ad333676555f4dbef060ef9ea3254d8c2438978585cc7e56cfacebf70fb0f1
 
 ## Resumen
 
-ectos Circular N° 29 del 05 de Mayo del 2015 Modificaciones introducidas por el artículo 10 de la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 6 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974. Fuente: Oficina de Análisis de la Jurisprudencia Tablas de Cálculos de Reajustes, Intereses y Multas mayo 2015 Fuente: Subdirección de Fiscalización Circular N° 27 del 14 de Abril del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de m…
+la Jurisprudencia Tablas de Cálculos de Reajustes, Intereses y Multas mayo 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

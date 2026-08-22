@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 54 del 09 de Agosto del 2016 Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de septiembre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2016 y el 9 de septiembre del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 52 del 29 de Julio del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas agosto…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2016 y el 9 de septiembre del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

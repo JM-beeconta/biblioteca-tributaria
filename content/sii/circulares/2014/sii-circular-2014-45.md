@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2014
-- Fecha: 2014-08-22
+- Fecha: 2014-08-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu45.pdf
 - Hash SHA-256: c3977d9a0d156707847fe63740fd6e9b9e9de19c487c904b3676a93beab0a909
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 46 del 22 de Agosto del 2014 Tablas de Cálculos de reajustes, intereses y multas septiembre 2014 Fuente: Subdirección de Fiscalización Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.752 al artículo segundo transitorio de la Ley N°20.322, artículo 132 y 147 del Código Tributario, y modifica la Circular N°73, de 2001. Fuente: Departamento de Asesoría Jurídica Circular N° 44 del 14 de Agosto del 2014 Valor de la Unidad de Fomento para los…
+scalización Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.752 al artículo segundo transitorio de la Ley N°20.322, artículo 132 y 147 del Código Tributario, y modifica la Circular N°73, de 2001. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

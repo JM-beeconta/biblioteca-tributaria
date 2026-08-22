@@ -6,48 +6,38 @@
 - Año: 2015
 - Fecha: 2015-12-03
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja3049.htm
-- Hash SHA-256: 76d10705dd41acde02245771a05c6f33276cf6ba7418c883f7e3609b32da3e6f
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja3088.htm
+- Hash SHA-256: 7f6bfad3d6327e3371e113a49cac291c05d14c1e32662d5264921dccc880a32a
 
 ## Resumen
 
-39 &ndash; . Nº 3088, de 03-12-2015) | Word Documento que acredita el pago de Impuesto al Valor Agregado en la importación para efectos de lo dispuesto en el artículo 25 de la Ley sobre Impuesto a las Ventas y Servicios. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12°, letra B), N°10 &ndash; Decreto Ley N° 600, de 1974 &ndash; Circular N° 48, de 1978. (Ord. Nº 3049, de 30-11-2015) | Word Aplicación de la exención contenida en el Art. 12°, letra B), número 10) del Dec…
+13. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual ley sobre Impuesto a las &ndash; Art. 23 &ndash; Art. 25° &ndash; Decreto Supremo N° 55 de 1977, Art. 39 &ndash; . Nº 3088, de 03-12-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":48,"year":1978}
+- {"type":"oficio","number":25,"year":2006}
+- {"type":"articulo","law":"LIVS","article":"25"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12°, LETRA B), N°10 – DECRETO LEY N° 600, DE 1974 – CIRCULAR N° 48, DE 1978. (ORD. N° 3049, DE 30.11.2015)
-APLICACIÓN DE LA EXENCIÓN CONTENIDA EN EL ART. 12°, LETRA B), NÚMERO 10) DEL DECRETO LEY N° 825, DE 1974.
-Se ha recibido en esta Dirección Nacional copia de Resolución de Exención de IVA a importación de bienes de capital.
-I.- ANTECEDENTES:
-Fue recibida en el Ministerio de Hacienda, para su firma, la Resolución Exenta N° xxx de 2015, del Ministerio de Economía, Fomento y Turismo mediante la cual se declara exenta del Impuesto al Valor Agregado, la importación del bien de capital que allí se especifica como dos “XXXX, de la empresa TTTTT.
-Al respecto, dicho Ministerio solicita tomar conocimiento de la referida resolución y de sus antecedentes, y dar a conocer los comentarios u observaciones que pudieren merecer, de conformidad a lo dispuesto en la letra p), del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos.
+13. VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 23 – ART. 25° – DECRETO SUPREMO N° 55 DE 1977, ART. 39 – OFICIO N° 25, DE 2006 (ORD. N° 3088, DE 03.12.2015)
+DOCUMENTO QUE ACREDITA EL PAGO DE IMPUESTO AL VALOR AGREGADO EN LA IMPORTACIÓN PARA EFECTOS DE LO DISPUESTO EN EL ARTÍCULO 25 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
+Se ha solicitado a esta Dirección Nacional un pronunciamiento respecto de la procedencia de utilizar como crédito fiscal, el Impuesto al Valor Agregado pagado mediante “Formulario 09 o Giro y Comprobante de pago”, en los casos en que el Servicio Nacional de Aduanas ha formulado a posteriori un cargo por diferencias de gravámenes aduaneros e Impuesto al Valor Agregado asociados a una determinada importación. I.- ANALISIS:
+Sobre el particular, cabe señalar que, conforme a lo dispuesto en el artículo 23° del D.L. N° 825 de 1974, los contribuyentes afectos al Impuesto al Valor Agregado tendrán derecho a un crédito fiscal contra el débito fiscal determinado por el mismo período tributario, el que será equivalente, según dispone el N° 1 del referido artículo, al Impuesto al Valor Agregado pagado por la importación de las especies al territorio nacional, respecto del mismo período tributario, siempre que los bienes adquiridos o los servicios utilizados se destinen a formar parte de su activo realizable o activo fijo, o bien, se relacionen con gastos de tipo general, que digan relación con el giro o actividad del contribuyente.
+A su vez, el artículo 25°, del mismo Decreto Ley, establece que para hacer uso del crédito fiscal el contribuyente deberá acreditar que el impuesto ha sido pagado según los comprobantes de ingreso del impuesto tratándose de importaciones, requisito cuya exigencia se reitera en el inciso segundo del artículo 39, del D.S de Hacienda N° 55, de 1977, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios.
+De las normas precedentemente señaladas se deprende que en el caso de las importaciones, para hacer uso del crédito fiscal, el importador debe acreditar el pago del Impuesto al Valor Agregado mediante los comprobantes de ingreso del tributo.
+En la especie, el contribuyente presenta el Formulario 09 o Giro y Comprobante de Pago Adicional, documento emitido por el Servicio Nacional de Aduanas, que da cuenta de un cobro por diferencia de tributos aduaneros e Impuesto al Valor Agregado, determinados adicionalmente a la Declaración de Internación. Por lo tanto, el pago de estas diferencias de impuesto asociadas a una importación se encuentra en un documento aduanero.
+Ahora bien, siendo el referido formulario un documento emitido por un órgano competente, se estima que en la medida que dé cuenta del pago del Impuesto al Valor Agregado, constituye un comprobante de ingreso del referido tributo en los términos que lo requiere el artículo 25 de la Ley sobre Impuesto a las Ventas y Servicios.
+En este sentido, cabe precisar que el período en que el importador puede hacer uso del crédito, como lo ha señalado anteriormente este Servicio corresponde al mismo período tributario del pago del impuesto. Por lo tanto, si el Servicio Nacional de Aduanas determina diferencias de impuesto asociadas a una importación, el importador podrá hacer uso del respetivo crédito en el período tributario en que éstas sean pagadas.
 
-II.- ANÁLISIS.
-El Art. 12°, letra B), N° 10, del Decreto Ley N° 825, de 1974, señala que están exentas del IVA las importaciones de especies efectuadas por los inversionistas y las empresas receptoras por el monto de la inversión efectivamente recibida en calidad de aporte, siempre que consistan en bienes de capital que formen parte de un proyecto de inversión extranjera formalmente convenido con el Estado de acuerdo a las disposiciones del Decreto Ley N°600, de 1974, o en bienes de capital que no se produzcan en Chile en calidad y cantidad suficiente, que formen parte de un proyecto similar de inversión nacional, que sea considerado de interés para el país, circunstancias todas que serán calificadas por resolución fundada del Ministerio de Economía, Fomento y Turismo, refrendada además por el Ministerio de Hacienda. Los bienes de capital deberán estar incluidos en una lista que el Ministerio de Economía, Fomento y Turismo fijará por Decreto Supremo.
-
-Según las instrucciones impartidas por este Servicio mediante la Circular N°48, del 21.04.1978, la exención aludida es de tipo personal, beneficiando a los inversionistas extranjeros o nacionales que importen bienes de capital incluidos en el listado actualmente contenido en el Decreto Supremo N° 181 del 30.12.2011, del Ministerio de Economía, Fomento y Turismo.
-
-En el caso de inversionistas nacionales el artículo 12, letra B), N° 10, requiere la concurrencia de los siguientes requisitos:
-
-(a) Los bienes de capital que sean importados no se produzcan en Chile en calidad y cantidad suficiente.
-(b) Dichos bienes formen parte de un proyecto de inversión nacional, similar a otro de inversión extranjera acogido al Decreto Ley N°600, de 1974, destinado a producir bienes o servicios de la misma especie o características semejantes.
-
-En relación a este requisito este Servicio ha interpretado que la disposición legal es clara en el sentido de exigir como requisito para que proceda la exención de IVA para las importaciones de bienes de capital que efectúen inversionistas nacionales, que tales importaciones formen parte de un proyecto similar a un proyecto extranjero formalmente convenido con el Estado de acuerdo a las disposiciones del Estatuto del Inversionista Extranjero.
-Tal condición se cumple cuando ambos proyectos tengan por objeto producir bienes o servicios de similares características, de modo que estén llamados a competir entre sí, ya que el propósito de la exención aludida es equiparar el tratamiento tributario frente al IVA del proyecto nacional con el proyecto extranjero que esté gozando de pleno derecho de la liberación de este impuesto, con lo cual se evita discriminar en contra del inversionista nacional.
-En consecuencia, es condición indispensable para que un inversionista nacional pueda obtener la exención aludida el que exista ya aprobado un proyecto de inversión extranjera destinado a producir bienes o servicios de la misma especie o características semejantes que impliquen una alternativa para el consumidor o usuario en el rubro respectivo.
-(c) La inversión sea considerada de interés para el país.
-(d) Los bienes de capital que se pretende importar liberados deben estar incluidos en la lista fijada al efecto por Decreto Supremo emanado del Ministerio de Economía, Fomento y Turismo.
-No obstante lo señalado, se informa a Ud. que tanto la calificación de los requisitos necesarios para la concurrencia de la exención, como su posterior refrendación deben ser efectuados por autoridades distintas de este Servicio, quien carece de competencia para pronunciarse sobre el particular, según ya se ha señalado en forma reiterada .
-III.- CONCLUSIÓN:
-La facultad de calificar la concurrencia de los requisitos necesarios para el otorgamiento de la franquicia del Art. 12°, letra B), N°10 del Decreto Ley N°825, de 1974, por disposición expresa de la citada norma, recae en el Ministerio de Economía, Fomento y Turismo, cuya decisión, de ser afirmativa, debe ser refrendada por el Ministerio de Hacienda. Por lo anterior, este Servicio carece de competencia para pronunciarse sobre el cumplimiento de los requisitos legales para acceder al beneficio tributario solicitado, por tratarse de un asunto que por disposición expresa del Decreto Ley N°825, de 1974, escapa de la esfera de sus atribuciones.
+II.- CONCLUSION:
+En consecuencia, en respuesta a su consulta, debo señalar a usted que tratándose de importaciones y previo al cumplimiento de los demás requisitos señalados en la Ley, procederá la utilización del crédito fiscal por el Impuesto al Valor Agregado pagado mediante el Formulario 09 o Giro y Comprobante de Pago.
+Lo anterior, por cuanto se estima que el referido documento emitido por el Servicio Nacional de Aduanas, en la medida que dé cuenta del pago del Impuesto al Valor Agregado constituye un comprobante de ingreso del impuesto, que habilita al contribuyente para hacer uso del crédito fiscal conforme lo establece el artículo 25° de la Ley sobre Impuesto a las Ventas y Servicios.
+El importador podrá hacer uso del crédito en el mismo período de pago del correspondiente impuesto, determinado en el Formulario 09 o Giro y Comprobante de Pago.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 3049, de 30.11.2015
+Oficio N°3088, de 03.12.2015
 Subdirección Normativa
 Dpto. de Impuestos Indirectos

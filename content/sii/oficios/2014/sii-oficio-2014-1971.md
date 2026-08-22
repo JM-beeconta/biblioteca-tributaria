@@ -6,212 +6,52 @@
 - Año: 2014
 - Fecha: 2014-02-07
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja205.doc
-- Hash SHA-256: dcaa21a6e5755a4818082820a23caf32a2d4696a090ad51b0ae78379153df46d
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja239.htm
+- Hash SHA-256: 50e2da34579839c9dad4d8fb21cfac35a3384f75478ebe6955dfc47e3d327f99
 
 ## Resumen
 
-de 2009 &ndash; . (Ord. Nº 239, de 07-02-2014) | Word Aplicación de las normas sobre provisiones y castigos de los créditos existentes en cartera perteneciente a una sociedad emisora y operadora de tarjetas de crédito no bancarias. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31°, N°7, Art. 21° &ndash; Decreto Ley N° 3063, Art. 46°. (Ord. Nº 205, de 31-01-2014) | Word Aplicación de normas legales que otorgan beneficios tributarios, respecto de donaciones que se efectúen a una Municipalidad para financ…
+izaciones voluntarias. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 31°, N°4 &ndash; Circulares N° 24, de 2008 y N° 47, de 2009 &ndash; . (Ord. Nº 239, de 07-02-2014) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":24,"year":1993}
-- {"type":"articulo","law":"LIR","article":"31 N"}
+- {"type":"circular","number":47,"year":2009}
+- {"type":"circular","number":24,"year":2008}
+- {"type":"oficio","number":1971,"year":2013}
 - {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"21"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°7, ART. 21° – DECRETO
-             LEY N° 3063, ART. 46°. (ORD. N°205, DE 31.01.2014)
-
-
-
-      Aplicación de normas  legales  que  otorgan  beneficios  tributarios,
-respecto de donaciones que se efectúen a una Municipalidad  para  financiar
-un proyecto piloto.
-
-
-
-
-I. ANTECEDENTES.
-
-Señala, que la Municipalidad de XXX se encuentra gestionando un proyecto  de
-educación  ambiental,  cuyo  resumen  explicativo  se  acompaña,  denominado
-"TTT", el que tiene por objetivo  construir  un  espacio  educativo  piloto,
-experimental e interactivo  donde  se  demuestre  el  funcionamiento  de  un
-sistema integrado, caracterizado porque diversas tecnologías se reúnen  para
-la valorización de residuos y para  la  producción  sostenible  de  energía,
-agua y alimentos, además de la protección del  entorno,  lo  que  tiene  por
-finalidad cumplir una  función  de  investigación,  pero  principalmente  de
-docencia y difusión. Señala que  el  TTT  estará  constituido  por  diversos
-módulos que funcionan de manera integrada  pero  que  en  su  funcionamiento
-individual posee particularidades propias de la tecnología  que  se  aplica.
-Cada módulo cumple así una función  dentro  del  parque  y  propuestos  como
-programas pilotos a pequeña escala[1].
-
-Al respecto el requirente indica que  las  donaciones  no  tendrían  ninguna
-contraprestación por parte del Municipio,  consultando  si  el  proyecto  es
-susceptible  de  generar  franquicias  por  donaciones   a   las   empresas,
-específicamente dado que tendría  una  finalidad  educacional  en  el  campo
-ambiental, proyecto que sería de carácter recreativo y participativo.
-
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°4 – CIRCULARES N° 24, DE 2008 Y N° 47, DE 2009 – OFICIO N° 1971, DE 2013. (ORD. N° 239, DE 27.02.2014)
+APLICACIÓN DE LAS NORMAS SOBRE PROVISIONES Y CASTIGOS DE LOS CRÉDITOS EXISTENTES EN CARTERA PERTENECIENTE A UNA SOCIEDAD EMISORA Y OPERADORA DE TARJETAS DE CRÉDITO NO BANCARIAS.
+I.- ANTECEDENTES.
+Señala en su primera presentación, que una sociedad anónima emisora y operadora de tarjetas de crédito no bancarias, y que no está regulada ni sujeta actualmente a normas bancarias, ha solicitado se ratifique que en caso de constituirse en filial de una sociedad bancaria, y desde que ello se materialice, puede deducir como gasto, por aplicación del N° 4, del artículo 31 de la Ley sobre Impuesto a la Renta (LIR), las provisiones y castigos de los créditos nuevos que otorgue y aquellos que hayan sido cursados y efectuados con anterioridad. Agrega que la sociedad anónima pasaría a ser filial de la empresa bancaria por un aumento de capital que sería suscrito por esta última; estructura que se presentó para análisis y revisión por parte de la Superintendencia de Bancos e Instituciones Financieras (SBIF).
+Por las razones que indica, solicita se ratifique que en caso que la sociedad anónima sea calificada como institución financiera por la SBIF y se sujete a la fiscalización de la misma entidad:
+a) Se regiría para el castigo y provisión de créditos de su cartera vencida, por el N° 4, del artículo 31 de la LIR y las instrucciones contenidas en la Circular N° 47 de 2009, tanto respecto de los nuevos créditos que otorgue como respecto de los que adquiera de otra entidad financiera.
+b) En cuanto a los créditos de la solicitante que estén en cartera al momento de pasar a ser filial bancaria, se debe distinguir:
+b.1) Los créditos que se encuentren vigentes, es decir, que no estén vencidos, podrán ser llevados a gasto conforme a las normas indicadas en la letra a) anterior.
+b.2) En ningún caso serían aplicables dichas disposiciones respecto de los créditos existentes en su cartera vencida al momento de constituirse en filial del banco.
+En una segunda presentación, complementaria de la anterior, acompaña documento mediante el cual la SBIF otorga la autorización para la participación mayoritaria de la entidad bancaria en la sociedad, en atención a que el giro que desarrollará esta última corresponde a operaciones autorizadas para los bancos; la que por consiguiente se transforma en una sociedad de apoyo al giro bancario.
+Al respecto, solicita se determine si la autorización otorgada por la SBIF es suficiente para aplicar el tratamiento tributario que plantea, respecto de las provisiones y castigos anteriores y posteriores a la autorización referida, o bien si se requiere previamente el cumplimiento de las exigencias que se contemplan en esa autorización.
 II.- ANÁLISIS.
+El inciso 2°, del N° 4, del artículo 31 de la LIR, establece que se podrá deducir como gasto las provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos e instituciones financieras, de acuerdo a las instrucciones que impartan en conjunto la SBIF y este Servicio. En cumplimiento de esta disposición legal, a través de la Circular N° 47 de 2009 , se actualizaron las instrucciones que de acuerdo con lo dispuesto por la citada norma legal, deben impartir en forma conjunta ambos organismos sobre las provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos e instituciones financieras.
+Al respecto, tal como lo indica en su presentación , este Servicio ha señalado que las instrucciones de la Circular N°47 de 2009, son aplicables a los Bancos e Instituciones Financieras que en conformidad a lo dispuesto por el artículo 2° de la Ley General de Bancos (LGB) quedan sujetas a la fiscalización de la SBIF, y al señalado sistema de provisiones y castigos .
+Sin embargo, cabe precisar que este Servicio también ha indicado que, en atención a que la SBIF ha considerado a las empresas emisoras u operadoras de tarjetas de crédito como instituciones financieras, le resultan obligatorias las normas contenidas en los incisos 2° y siguientes del N° 4, del artículo 31 de la LIR, y por tanto, las instrucciones contenidas en la Circular N° 47 .
+De acuerdo a ello, el tratamiento tributario que corresponda dar a las provisiones y castigos de los créditos, dependerá, en la situación analizada, de si dicha entidad puede considerarse como una institución financiera de acuerdo a lo señalado en el párrafo anterior, ya que en tal caso, le resultan aplicables plenamente las instrucciones contenidas en la Circular N° 47.
+Al respecto, cabe señalar que de acuerdo a lo establecido en la letra A), de la Circular N° 47, las instrucciones de la misma se aplican respecto de créditos otorgados por bancos (o instituciones financieras) que cumplan copulativamente con las características que a continuación se señalan:
+a) Que se trate de créditos que constituyan operaciones de crédito de dinero conforme a lo dispuesto por el artículo 1°, de la Ley N° 18.010, a favor del banco (e instituciones financieras) y originadas por operaciones del giro bancario (o financiero), sea que hayan sido pactadas en su origen por la institución o correspondan a títulos de crédito que, en el ejercicio de su giro, hayan sido adquiridos o descontados por el banco (o instituciones financieras) a otras instituciones financieras.
+b) Que correspondan al tipo de operaciones que, de acuerdo con las normas de la SBIF, deben clasificarse en los rubros “créditos y cuentas por cobrar a clientes” en el Estado de Situación Financiera que deben confeccionar los bancos (o instituciones financieras). Se excluyen las operaciones de factoraje, como asimismo todas las cuentas por cobrar que no correspondan a operaciones de crédito de dinero o que deban considerarse como créditos para fines tributarios en su origen o posteriormente, como el caso de la cartera de leasing o de saldos correspondientes a créditos cedidos que no se han dado de baja del Estado de Situación Financiera.
+De esta manera, para que puedan aplicarse las instrucciones contenidas en la Circular N° 47 de 2009, es requisito que se trate de créditos originados por operaciones del giro de institución financiera, sea que hayan sido pactados directamente por dicha entidad, o hayan sido adquiridos o descontados por la institución financiera a otras instituciones financieras, pero siempre en el ejercicio del giro de esa institución financiera. Por tanto, quedan excluidos de las instrucciones de la Circular 47, aquellos créditos que no cumplan con los requisitos copulativos señalados.
+III.- CONCLUSIONES.
+Atendidas las normas legales, instrucciones y pronunciamientos indicados en los antecedentes, si la sociedad en forma previa a la autorización otorgada por la SBIF, desarrollaba su actividad como una empresa emisora u operadora de tarjetas de crédito, considerándose por la SBIF como una institución financiera, aun cuando no hubiera estado sujeta a su fiscalización, le resultan aplicables las normas contenidas en los incisos 2° y siguientes del N° 4, del artículo 31 de la LIR, y las instrucciones contenidas en la Circular N° 47 de 2009. Lo anterior, siempre que dichos créditos cumplan los requisitos que establece dicho instructivo y que hayan sido o sean otorgados, adquiridos o descontados en los términos señalados, durante su actividad como empresa emisora u operadora de tarjetas de crédito; e independientemente de que con posterioridad a dicha circunstancia tal sociedad sea autorizada por la SBIF, para constituirse en filial bancaria, sujetándose a partir de esa fecha a la fiscalización de la misma entidad.
+En cambio, si la sociedad, en forma previa a la autorización otorgada por la SBIF, no desarrollaba su actividad como una empresa emisora u operadora de tarjetas de crédito, no considerándose por la SBIF como una institución financiera, cabe distinguir las siguientes situaciones:
+En relación con el criterio que se expone en la letra a) de los antecedentes, al pasar a ser una filial bancaria, sujetándose además a la fiscalización de la misma entidad, se regirá por el N° 4, del artículo 31 de la LIR y las instrucciones contenidas en la Circular N° 47 de 2009, para efectos de la deducción como gasto de las provisiones y castigos de los créditos que cumplan los requisitos que establece dicho instructivo y que sean otorgados, adquiridos o descontados en los términos señalados, a partir de la fecha en que se legalice completamente la reorganización y por consiguiente pase a ser filial bancaria.
+Respecto de los criterios indicados en la letra b) de los antecedentes, esto es, el tratamiento tributario que correspondería dar a los créditos otorgados con anterioridad a la señalada autorización, momento en que pasa a ser una filial bancaria, cabe indicar que las instrucciones contenidas en la Circular N° 47 de 2009, no pueden ser aplicadas a créditos que originalmente hayan sido otorgados por personas que desarrollan un giro o actividad distinto al que corresponde al ámbito de aplicación de la norma legal, como es el caso de los créditos que hubieran sido otorgados con anterioridad a su calificación como entidad financiera, razón por la cual, en tal caso, dichos créditos sólo pueden deducirse como gasto conforme a las instrucciones de la Circular N° 24 de 2008.
+Por lo tanto, sírvase dar respuesta al consultante en los términos antes indicados, haciendo referencia que la respuesta se basa en el presente Oficio.
 
-En primer término, cabe señalar que de los términos de la presentación y  de
-los  documentos  acompañados  a  su  consulta,  se  deriva  que  la  entidad
-donataria y beneficiaria de los recursos que  se  obtengan  vía  donaciones,
-será la respectiva Municipalidad[2].
+ALEJANDRO BURR ORTUZAR
+DIRECTOR
 
-Teniendo en consideración lo anterior, en relación a la  procedencia  de  la
-aplicación del artículo 46 del D.L. Nº 3.063, sobre  rentas  municipales,  y
-sin perjuicio de las atribuciones que corresponden a la Contraloría  General
-de la República en las materias de su competencia, dada la calidad  jurídica
-que deben  tener  las  instituciones  para  ser  calificadas  de  donatarias
-hábiles y los fines exclusivos que deben perseguir para los  efectos  de  lo
-dispuesto por la norma  legal,  se  concluye  que  la  Municipalidad  no  se
-comprende en las entidades que menciona el texto legal, debido a que  no  se
-trata de una institución regida por las normas del Título XXXIII  del  Libro
-I, o creadas por Ley, para la investigación o difusión de las  artes  y  las
-ciencias o que realicen programas de acción social  en  beneficio  exclusivo
-de los sectores de mayor necesidad,  no  siendo,  por  lo  tanto,  donataria
-hábil para recibir donaciones acogidas  a  los  beneficios  tributarios  del
-artículo 46 del D.L. Nº3.063, de 1979.
-
-En cuanto a lo dispuesto en el artículo 3° de la Ley N°19.247, que  contiene
-el texto de la Ley de Donaciones con Fines Educacionales,  y  sin  perjuicio
-de las atribuciones de otras autoridades sobre la materia[3],  a  juicio  de
-esta Dirección no resulta aplicable al  caso  en  comento  tanto  porque  la
-Municipalidad no reúne alguna de las calidad que  debe  tener  el  donatario
-según este texto legal, como en cuanto a la naturaleza  que  debe  tener  el
-proyecto  educativo  conforme  al  mismo,  definido  como  el  conjunto   de
-actividades que, concebidas integralmente en  torno  a  la  formación  y  al
-desarrollo de los alumnos, permitan mejorar o  mantener  la  calidad  de  la
-educación que se  imparte  en  uno  o  más  establecimientos  educacionales;
-condiciones  que  no  concurren  en  el  proyecto  a  desarrollar   por   la
-Municipalidad.
-
-En relación a la aplicación de lo dispuesto en el artículo 31 N°  7,  de  la
-LIR[4], cabe señalar que esta norma legal establece que los donantes  puedan
-hacer uso de la rebaja tributaria que contempla en  caso  que  el  donatario
-destine la donación al cumplimiento del fin exclusivo y único que  establece
-el citado precepto legal,  esto  es,  destinarla  a  la  realización  de  un
-programa de instrucción en los niveles que  se  indican,  entendiéndose  por
-instrucción para tales efectos, de acuerdo a pronunciamientos  emitidos  por
-este Servicio sobre la materia  en  comento,  como  la  acción  de  enseñar,
-doctrinar, etc. Cabe tener presente, como lo ha indicado  este  Servicio  en
-anteriores pronunciamientos que, para  la  procedencia  de  la  rebaja  como
-gasto de las referidas donaciones, no es  requisito  que  los  programas  de
-instrucción a que se refiere dicha norma sean  realizados  directamente  por
-la institución donataria, pudiendo ser éstos llevados a  cabo  a  través  de
-otras entidades o establecimientos docentes, académicos o educacionales[5].
-
-De los documentos acompañados, esta  Dirección  entiende  que  la  finalidad
-educacional del proyecto gestionado por la Municipalidad,  se  realizaría  a
-través  de  tareas  de  difusión,  capacitación  y  aprendizaje  dirigido  a
-estudiantes, comunidad educativa, vecinos y público en general, respecto  de
-los procesos llevados a cabo por el mismo proyecto.
-
-Sólo en dichas circunstancias, a juicio de  esta  Dirección  las  donaciones
-realizadas que tengan el exclusivo fin de desarrollar  dichos  programas  de
-instrucción y capacitación en el ámbito ambiental y utilización  sustentable
-de recursos, podrían ser deducidas como  gasto  por  el  donante  respectivo
-conforme a lo dispuesto en el artículo 31, N° 7 de la  LIR,  dentro  de  los
-márgenes autorizados por dicho precepto legal y el  límite  global  absoluto
-que dispone  el  artículo  10  de  la  Ley  N°19.885  ,  y  siempre  que  se
-justifiquen en forma fehaciente en cuanto a su cuantía y  que  el  monto  de
-ellas sean utilizadas en la finalidad señalada en el referido  texto  legal,
-al tratarse de una donación condicionada al fin único contemplado  en  ella,
-el que debe constar en el certificado o documento que se  emita  al  efecto.
-Si dichas donaciones se aplican a  proyectos  que  no  sean  educativos,  se
-destinen a los fines propios de la entidad municipal, o bien, se destinan  a
-la construcción y habilitación de los módulos del referido Eco  Parque,  las
-empresas donantes no podrán deducir como gasto  dichas  erogaciones  en  las
-condiciones señaladas, aplicándose además, en su caso, lo  dispuesto  en  el
-artículo 21 de la LIR.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-III.- CONCLUSIÓN.
-
-Del  análisis  de  las  disposiciones  legales  que  establecen   beneficios
-tributarios  a  las  donaciones,  y  de  los  antecedentes  adjuntos  a   la
-presentación, se puede concluir que el único  beneficio  tributario  al  que
-podrían sujetarse las donaciones que se efectúen a la Municipalidad para  el
-desarrollo de un proyecto de educación y capacitación en el campo  ambiental
-y en el uso de recursos en forma sustentable, es aquel a que se  refiere  el
-N°7, del  artículo  31  de  la  LIR;  siempre  que  las  donaciones  que  se
-recepcionen,  sean  destinadas  única   y   exclusivamente   a   los   fines
-educacionales que indica, ya sea que se lleven a cabo  directamente  por  la
-Municipalidad  o  por  medio  de  establecimientos  docentes,  académicos  o
-educacionales; no así respecto de aquellas que se destinen  a  otros  fines,
-como sería la construcción y habilitación de los módulos  del  referido  Eco
-Parque. Las circunstancias antes señaladas sólo podrán  ser  verificadas  en
-la instancia de fiscalización correspondiente.
-
-Por lo tanto, sírvase dar respuesta al consultante  en  los  términos  antes
-indicados, haciendo referencia que la  respuesta  se  basa  en  el  presente
-Oficio.
-
-
-
-
-
-
-
-
-
-                                       JUAN ALBERTO ROJAS BARRANTI
-
-
-       DIRECTOR (S)
-
-
-
-
-
-                        Oficio N° 205, de 31.01.2014
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1]  Según  los  antecedentes  acompañados,  los  módulos  comprenden  Salas
-experimentales, Biodigestores Orgánicos, Biodisel Demostrativo,  Compostaje,
-Lombricultura, Huerto y Vivero.
-[2] Lo señalado, conforme a lo expresado en “Modelo  de  Operación”,  página
-14, adjunto a los antecedentes.
-[3]  La  Ley  N°  19.247  sobre  Donaciones  con  Fines   Educacionales   ha
-encomendado expresamente a las Intendencias Regionales la aprobación de  los
-Proyectos Educativos que se podrán financiar a través de las donaciones  que
-contempla dicha Ley.
-[4] Las instrucciones impartidas por este Servicio sobre los requisitos  que
-deben cumplir los contribuyentes para acceder a los  beneficios  tributarios
-que  establece  esta  norma  legal,  así  como   los   procedimientos   para
-impetrarlos, se encuentran contenidos en la Circular N°24 de 1993,  la  cual
-fue complementada posteriormente por las Circulares  N°55  y  59,  ambas  de
-2003, todas las cuales se encuentran publicadas en la  página  web  de  este
-Servicio, www.sii.cl.
-[5] Al respecto, Oficio N° 3.988, de 2005.
+Oficio N° 239, de 07.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

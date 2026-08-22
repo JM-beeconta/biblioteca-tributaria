@@ -6,39 +6,55 @@
 - Año: 2014
 - Fecha: 2014-01-14
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja42.htm
-- Hash SHA-256: ef814e41f4959f53813262ee4feeeaa8c877bfa152fc65ce23b67003e8413128
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja85.htm
+- Hash SHA-256: 7d9fc7a2a9320f38c8afe2923d0d746039a05be59fb1dbb6461f64ebdf256140
 
 ## Resumen
 
-rel='modal'>Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 59°, N°2, Art. 36°, Art. 41° &ndash; Resoluciones Exentas N°s 17 de 2003 y 148 de 2006 &ndash; .318 de 2009. (Ord. Nº 85, de 14-01-2014) | Word Aplicación de la exención de Impuesto Adicional establecida en el N° 2, del inciso 4°, del artículo 59 de la Ley sobre Impuesto a la Renta, al transporte de gas desde el extranjero a través de gasoductos. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley General de Pesca y Acuicultura, Art. 69° &n…
+idas a la Ley Austral. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 59°, N°2, Art. 36°, Art. 41° &ndash; Resoluciones Exentas N°s 17 de 2003 y 148 de 2006 &ndash; .318 de 2009. (Ord. Nº 85, de 14-01-2014) |
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIR","article":"5"}
+- {"type":"articulo","law":"LIR","article":"36"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY GENERAL DE PESCA Y ACUICULTURA, ART. 69° – CIRCULAR N° 68 DE 28.11.1996. (ORD. N° 42, DE 10.01.2014)
-SOLICITA PRONUNCIAMIENTO RESPECTO DE APLICACIÓN DEL INCISO FINAL DEL ARTÍCULO 69 DE LEY GENERAL DE PESCA Y ACUICULTURA, RESPECTO DE SOLICITUDES DE CONCESIONES DE ACUICULTURA ASIGNADAS EN PROCESO DE DIVISIÓN DE SOCIEDADES.
-Se ha solicitado a este Servicio informar al tenor de lo expuesto a ese organismo contralor por la Subsecretaría de Pesca y Acuicultura, en la presentación que adjunta. I. ANTECEDENTES
-Mediante presentación de la referencia, el Sr. Subsecretario de Pesca y Acuicultura (S), solicita a ese organismo contralor su pronunciamiento respecto de la aplicación del inciso final del artículo 69 de la Ley General de Pesca y Acuicultura, que prohíbe la transferencia de solicitudes de concesiones de acuicultura.
-Señala que el inciso final del artículo 69 de la Ley General de Pesca y Acuicultura (LGPA) dispone lo siguiente: “Se prohíbe la transferencia de solicitudes de concesiones y autorizaciones de acuicultura y la celebración de todo acto o contrato preparatorio de trasferencias, arriendos y otra forma de explotación por terceros, en forma previa al otorgamiento de la concesión o autorización de acuicultura, según corresponda”
-Expone que la norma antes señalada tuvo como objetivo evitar la especulación de los titulares de solicitudes de concesión de acuicultura, sin embargo, dicha norma no resuelve la situación de las solicitudes de concesión que cambian de titular producto de la división de una sociedad, cuando éstas quedan en el patrimonio de la o las nuevas sociedades que se crean.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°2, ART. 36°, ART. 41° – RESOLUCIONES EXENTAS N°S 17 DE 2003 Y 148 DE 2006 – OFICIO N° 1.318 DE 2009. (ORD. N° 085, DE 14.01.2014)
+APLICACIÓN DE LA EXENCIÓN DE IMPUESTO ADICIONAL ESTABLECIDA EN EL N° 2, DEL INCISO 4°, DEL ARTÍCULO 59 DE LA LEY SOBRE IMPUESTO A LA RENTA, AL TRANSPORTE DE GAS DESDE EL EXTRANJERO A TRAVÉS DE GASODUCTOS.
+Se solicitado un pronunciamiento a este Servicio, respecto de la aplicación de la exención de Impuesto Adicional, establecida en el N° 2, del inciso 4°, del artículo 59 de la Ley sobre Impuesto a la Renta (en adelante LIR), a los pagos por el servicio de transporte de gas a través de gasoductos desde Argentina hacia Chile. I.- ANTECEDENTES.
+Expone que su representada XXX S.A., mantiene un contrato vigente con YYY Chile para efectuar un servicio de transporte de gas natural desde un punto dentro de la provincia de Jujuy, en la República de Argentina, hasta un punto en la localidad de Paposo, Región de Antofagasta, donde se emplaza la central de generación eléctrica de dicha compañía. El contrato de transporte, se celebró bajo la modalidad “a firme”, que significa que el precio pactado para el servicio está compuesto por una tarifa fija mensual independiente de las cantidades de gas natural transportado, y una tarifa variable en función del volumen transportado.
+Para efectos de proveer este servicio, su representada utiliza dos gasoductos:
 
-II. ANÁLISIS
-En relación a lo consultado, en primer término, cabe señalar que la división de sociedades es una materia tratada en la Ley N° 18.046 sobre Sociedades Anónimas, y, por tanto, el Director del Servicio de Impuestos Internos carece de facultades para su interpretación, salvo en lo que diga relación con materias de índole tributaria, y únicamente para dichos efectos .
-De esta forma, y a fin de determinar las implicancias tributarias de la división de sociedades, este Servicio ha basado su interpretación en lo señalado por la Superintendencia de Valores y Seguros sobre la naturaleza y efectos jurídicos de dicha forma de reorganización.
-En efecto, la Circular N° 68 de 28.11.1996, que instruye sobre la valoración para los efectos de la Ley sobre Impuesto a la Renta, de los traspasos de bienes originados en las fusiones, divisiones y otras reorganizaciones en que subsista la empresa aportante, indica en relación a la división lo siguiente: “Sobre este tipo de reorganización de sociedades de cualquier clase, cabe señalar que, teniendo presente un pronunciamiento de la Superintendencia de Valores y Seguros, este Servicio ha concluido que en el caso de división de una sociedad, la distribución que se hace del patrimonio de la sociedad que se divide corresponde a la asignación de cuotas de una universalidad jurídica y, consecuencialmente, no existe propiamente una transferencia o transmisión de bienes, sino que se trata de una especificación de derechos preexistentes los cuales, en virtud de la decisión societaria adoptada, quedan radicados en una entidad jurídica independiente.”
+a. El transporte en el territorio chileno es provisto mediante un gasoducto de su propiedad y operación directa, el cual comienza en la frontera internacional de Chile y Argentina en un punto situado cerca al Paso de Jama, y se extiende hasta el destino requerido por el cliente.
+b. El transporte en Argentina se efectúa mediante un gasoducto de propiedad y operación de la empresa TTT S.A., la cual ha sido contratada al efecto por XXX S.A.
+Señala que en Argentina el transporte de gas natural es un servicio público regulado, que solo puede ser prestado por personas jurídicas de derecho privado, habilitadas mediante la correspondiente concesión, licencia o permiso y cuyo giro único sea el transporte de gas (salvo autorización expresa del ente regulador). En virtud de ello, el servicio de transporte de gas efectuado por TTT a su representada fue establecido mediante un proceso de concurso abierto, conforme a la regulación aplicable, que fijó las bases generales y dio lugar a diversos contratos individuales de transporte, utilizando para tal efecto la modalidad “base firme” (ship or pay), en forma análoga al contrato de transporte celebrado entre YYY Chile y su representada.
+Agrega que, durante los años en que ha estado vigente el contrato y hasta el año 2012, los pagos que efectuó su representada a TTT por el referido servicio de transporte, estaban regidos por lo dispuesto en el Convenio para Evitar la Doble Tributación entre Chile y Argentina. En conformidad con dicho convenio, la potestad tributaria respecto de la renta, en este caso estaba radicada exclusivamente en Argentina. Sin embargo, atendido que en virtud de la denuncia del Tratado efectuada por Argentina, éste dejó de producir efectos a contar del 1 de enero de 2013, razón por la cual solicita confirmar que los pagos por éstos servicios estarían ahora regidos por lo dispuesto en el N° 2, del inciso 4°, del artículo 5, de la LIR, aplicándose la exención de impuesto establecida en dicha norma respecto de los fletes, en tanto se cumpla la exigencia de información al Servicio dispuesta en la parte final de la citada disposición.
 
-III. CONCLUSIÓN
-Este Servicio basa su interpretación de los efectos tributarios de la división de sociedades en lo señalado sobre la materia por la Superintendencia de Valores y Seguros, organismo competente para interpretar administrativamente la Ley de Sociedades Anónimas.
-Conforme lo anterior, se ha concluido que, para efectos tributarios, la distribución del patrimonio que se efectúa en este tipo de reorganización societaria no constituye transferencia o transmisión de bienes, sino que una “especificación de derechos preexistentes”.
-De acuerdo al requerimiento de ese organismo contralor, se hace presente que este oficio fue preparado con la intervención de abogados de este Servicio.
+II.- ANÁLISIS.
+El inciso 1°, del N° 2, del inciso 4°, del artículo 59 de la LIR, establece una exención de impuesto adicional, que beneficia a distintos tipos de servicios prestados en el extranjero, entre las que se encuentran las sumas pagadas en el exterior por concepto de fletes. Para gozar de esta exención, es necesario que las respectivas operaciones sean informadas a este Servicio en el plazo que éste determine, así como las condiciones de la operación, pudiendo ejercer las mismas facultades que confiere el artículo 36, inciso primero de la LIR.
+Mediante el Oficio N° 1.318 de 2009, este Servicio señaló que de acuerdo a lo establecido en el artículo 2.013 del Código Civil, el término “flete” utilizado por el inciso 1°, del N° 2, del inciso 4°, del artículo 59 de la LIR, debe ser entendido como el precio convenido por transportar o hacer transportar una cosa de un paraje a otro.
+En este sentido, y considerando las características del bien respecto del cual se está consultando, esto es, un combustible cuyo estado puede ser gaseoso o líquido, es perfectamente posible que su transporte, se realice a través de tuberías especialmente construidas para tal fin. En efecto, el D.F.L. N° 323 de 1931, que contiene la ley de servicios de gas, en el N° 4, de su artículo 2°, define redes de transporte como “el conjunto de tuberías, equipos y accesorios destinados a transportar gas, también denominados gasoductos, que unen centros de producción o almacenamiento con redes de distribución de gas u otros centros de producción, almacenamiento o consumo.”
+Ahora bien, es necesario examinar si en la especie, el contrato celebrado entre XXX S.A. y TTT, constituye un contrato de transporte de gas, de acuerdo a los términos contractuales y a la legislación aplicable, y en consecuencia los pagos efectuados por tales servicios corresponderían a fletes.
+Según lo señalado en la Sección 2.2. de las “Condiciones Generales” del contrato denominado “Servicio de transporte a firme”, que acompaña a su presentación, el servicio convenido consiste en:
+a) La recepción del gas del cliente en el punto de recepción hasta la entrega diaria programada más el gas compensatorio;
+b) El transporte de dicho gas a través del gasoducto en base firme;
+c) La entrega de volúmenes de gas por parte del transportista al cliente, o a cuenta del cliente, en los puntos de entrega, de manera tal que las entregas reales y las recepciones reales (menos el gas compensatorio) sean cantidades equivalentes; y
+d) La instalación, operación, mantención y reparación, a sus propias expensas, del gasoducto y las estaciones de medición.
+Por su parte, la sección 2.7. del citado documento, se refiere a la programación del procedimiento para la recepción del combustible desde el proveedor de gas, su transporte y posterior entrega al cliente en los puntos de entrega establecidos.
+Cabe señalar, tal como se indica en informe adjunto a su presentación, que por tratarse de un servicio prestado en Argentina, está sujeto a la legislación de ese país, especialmente a lo dispuesto en la Ley N° 24.076, que regula el transporte y distribución de gas natural, en la Ley N° 17.319, sobre hidrocarburos, y sometido a la regulación del Ente Nacional Regulador de Gas (ENARGAS), autoridad competente para la aplicación de la citada Ley N° 24.076.
+De acuerdo con el artículo 1° de la Ley N° 24.076, el transporte y distribución de gas natural constituyen un servicio público nacional. Por su parte, el artículo 11 de la misma ley, señala que se considera transportista a toda persona jurídica que es responsable del transporte del gas natural desde el punto de ingreso al sistema de transporte hasta el punto de recepción por los distribuidores, consumidores que contraten directamente con el productor y almacenadores. Esta norma también señala que la calidad de transportista se adquiere por: a) habilitación como transportista otorgada bajo el régimen de la citada ley; b) por concesión de transporte otorgada; o c) por subrogación en una concesión de transporte.
+De los antecedentes acompañados, se desprende que efectivamente se trataría de un contrato de transporte de gas celebrado bajo regulación de la ley de la República Argentina, y en consecuencia, el precio pactado tendría el carácter de flete para los efectos de lo dispuesto en el inciso 1°, del N° 2, del inciso 4°, del artículo 59 de la LIR.
 
-ALEJANDRO BURR ORTÚZAR
-DIRECTOR
+III.- CONCLUSIÓN.
+En razón de lo anteriormente expuesto, se puede colegir que el contrato celebrado entre TTT y XXX S.A., considera la prestación de servicios de transporte, en virtud del cual la primera se obliga a prestar el servicio de transporte de gas natural, a través de gasoductos de su propiedad, desde un punto de recepción ubicado en la provincia de Jujuy, República de Argentina, hasta un punto de entrega ubicado cerca del paso de Jama, en la frontera internacional de Chile y Argentina; y la segunda a pagar por este servicio un precio convenido.
+Por lo tanto, independientemente de la modalidad pactada para la determinación del precio –para el caso “base firme”, el precio pagado por el servicio de transporte prestado dentro de la República de Argentina, corresponde al concepto de “flete” a que se refiere el inciso 1°, del N° 2, del inciso 4°, del artículo 59 de la LIR, siendo aplicable la exención de impuesto adicional contenida en la citada norma, siempre y cuando el contribuyente cumpla además con la obligación que establece la parte final, del inciso 1° referido, debiendo informar las operaciones en cuestión mediante la Declaración Jurada N° 1854, en la forma y plazo establecidos en la Resolución Exenta N° 1 de 2003, modificada por las Resoluciones Exentas N°s 17 de 2003 y 148 de 2006.
+Lo anterior, es sin perjuicio de las facultades de fiscalización con que cuenta este Servicio, contenidas en los artículos 36 y 41 E de la LIR.
 
-Oficio N° 42, de 10.01.2014
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 085, de 14.01.2014
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+Dpto. de Impuestos Directos

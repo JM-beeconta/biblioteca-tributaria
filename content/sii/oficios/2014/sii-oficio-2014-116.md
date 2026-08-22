@@ -6,297 +6,39 @@
 - Año: 2014
 - Fecha: 2014-10-10
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1721.doc
-- Hash SHA-256: ba541a616c1ec36e619915a6db5e16aad0787e355c1b1816bd45918886b42bf5
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1832.htm
+- Hash SHA-256: 53a8ff8b6e94c488be0eba16d1d2ae738620fcbbab7a4236fa85122872fb0020
 
 ## Resumen
 
-Impuesto a la &ndash; Art. 59°, N°1 &ndash; . (Ord. Nº 1832, de 10-10-2014) | Word Calificación de actividad financiera, para los efectos previstos en el N° 1, del artículo 59 de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17°, N°8, Art. 74°, N°4, Art. 79° &ndash; Oficio N° 1235, de 2014. (Ord. Nº 1721, de 26-09-2014) | Word Solicita aclarar y complementar el Oficio N° 1235, de 21.07.2014 Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 21°, Art. 33°, N°1 &n…
+on Fines Culturales. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 59°, N°1 &ndash; . (Ord. Nº 1832, de 10-10-2014) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":54,"year":2013}
-- {"type":"oficio","number":1235,"year":2014}
-- {"type":"articulo","law":"LIR","article":"18"}
-- {"type":"articulo","law":"LIR","article":"17 N"}
-- {"type":"articulo","law":"LIR","article":"17  N"}
-- {"type":"articulo","law":"LIR","article":"17\n        N"}
-- {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"oficio","number":116,"year":2013}
+- {"type":"articulo","law":"LIR","article":"59"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°8, ART. 74°, N°4, ART.
-        79° – OFICIO N° 1235, DE 2014. (ORD. N° 1721, DE 26.09.2014)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°1 – OFICIO N° 116, DE 2013. (ORD. N° 1832, DE 10.10.2014)
+CALIFICACIÓN DE ACTIVIDAD FINANCIERA, PARA LOS EFECTOS PREVISTOS EN EL N° 1, DEL ARTÍCULO 59 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+Se ha solicitado la opinión de este Servicio, respecto a la calificación de actividad financiera del objeto social de la entidad que indica, para los efectos previstos en el N° 1, del artículo 59 de la Ley sobre Impuesto a la Renta (LIR). I.- ANTECEDENTES.
+Señala que mediante Oficio Ord. N° 116 de 2013, este Servicio informó, sobre la base del análisis de los antecedentes acompañados a la presentación, que en la medida que la empresa solicitante “XXXX,” desarrollara en el país en forma exclusiva las actividades de carácter financiero explicitadas en el numeral /i/ del artículo segundo de sus estatutos, esto es, arrendamiento de bienes y en particular bajo la modalidad de leasing, no se observaba inconveniente legal alguno para que ese Ministerio, haciendo uso de la facultad otorgada por el inciso final del N° 1, del artículo 59 de la LlR, calificara mediante resolución fundada, la actividad desarrollada por la entidad recurrente como de carácter financiero. En cuanto a las actividades complementarias que esta sociedad puede desarrollar conforme a sus estatutos, también se indicó en dicho pronunciamiento que éstas tendrán el carácter de financiero, siempre y cuando digan estricta y directa relación con las actividades principales que desarrolla la citada empresa.
+Añade que, mediante Resolución Exenta N° xx de 2013, ese Ministerio calificó como financiera las actividades desarrolladas por la empresa.
+Agrega, que analizados nuevamente los antecedentes que motivaron el Oficio Ordinario y Resolución citados, aparece que del artículo segundo de los estatutos de la empresa, dentro de sus objetos se cuentan otras actividades que podrían revestir el carácter de financiero, además de las señaladas en el numeral /i/, particularmente la actividad descrita en el numeral /iii/, cual es “efectuar operaciones de crédito de dinero, según éstas sean permitidas por las leyes”.
+Por lo tanto, en atención a que en el Oficio Ordinario citado no se emite pronunciamiento sobre este último objeto social, solicita se informe si ella puede ser calificada como de carácter financiero, independientemente de si ésta se realiza de manera conjunta o independiente de la actividad de leasing, para efectos de que ese Ministerio proceda a ampliar las actividades calificadas como financieras.
 
-Solicita aclarar y complementar el Oficio N° 1235, de 21.07.2014
+II.- ANÁLISIS.
+En primer término cabe señalar que, de acuerdo a los antecedentes que constan a este Servicio, la única actividad informada por dicha sociedad es el “leasing financiero”. Basado en ello, y en el análisis de los antecedentes aportados por dicha empresa, por el período comprendido entre octubre de 2011, fecha de inicio de sus actividades, hasta abril de 2012, se informó en el Oficio Ord. N° 116 de 2013, que en la medida que desarrolle en el país la actividad contemplada en el numeral /i/, del artículo segundo de sus estatutos, y en la medida que ello se efectuara en forma exclusiva, no se observaba inconveniente legal alguno para que ese Ministerio, haciendo uso de la facultad otorgada por el inciso final del N° 1, del artículo 59 de la LIR, la calificara mediante Resolución fundada como de carácter financiero, bajo la condición de que dicha situación se mantuviera en el tiempo; perdiéndose por consiguiente dicha calidad, para los efectos de la citada norma legal, cuando en cualquier momento, desarrollara otras actividades ajenas a su giro financiero.
+Ahora bien, en cuanto a su nuevo requerimiento, este Servicio, es de opinión, salvo mejor parecer de ese Ministerio, que en tanto efectivamente la empresa desarrolle las actividades consistentes en efectuar operaciones de crédito de dinero, ella puede ser calificada de carácter financiero para los efectos de lo dispuesto en el inciso final, del N° 1, del artículo 59 de la LIR, siempre que dicha actividad la realice en forma conjunta con su actividad principal de arrendamiento de bienes bajo la modalidad de leasing, calificada previamente como actividad financiera, o bien, lo haga en forma independiente y en forma exclusiva, pues legalmente no es procedente favorecer otras actividades que no tengan la naturaleza de financiera; circunstancias que este Servicio podrá verificar en cualquier momento, en sus procesos normales de fiscalización.
+III.- CONCLUSIONES.
+Del análisis de los antecedentes acompañados a la primera presentación, este Servicio informó en Oficio Ordinario N° 116 de 2013, que, en la medida que la empresa requirente desarrolle en el país en forma exclusiva las actividades de carácter financiero explicitadas en el numeral /i/, del artículo segundo de sus estatutos, esto es “leasing financiero”, dicha empresa, puede ser calificada como de carácter financiero, siempre que ello se mantenga en el tiempo; y sin perjuicio de otras actividades complementarias que dicha sociedad también pueda desarrollar conforme a sus estatutos, y que tengan estricta y directa relación con las actividades principales de carácter financiero que desarrolla la citada empresa.
+En relación a su nueva presentación, se puede informar a Ud. que en la medida que la empresa, que tiene como giro informado ante este Servicio sólo el de leasing financiero, desarrolle además la actividad consistente en el otorgamiento de créditos de dinero a terceros, según éstas sean permitidas por la Ley, no se aprecia inconveniente alguno, salvo el mejor parecer de ese Ministerio, para que ellas sean calificadas como de carácter financiero para los efectos de lo dispuesto en el inciso final, del N° 1, del artículo 59 de la LIR, bajo la condición de que dicha situación se mantenga en el tiempo; perdiéndose por consiguiente dicha calidad, para los efectos de la citada norma legal, cuando en cualquier momento, desarrolle actividades ajenas a ese carácter.
+Finalmente, se hace presente que lo señalado se entiende sin perjuicio de las facultades de este Servicio para aplicar los impuestos que correspondan, en cualquier momento en que la ocurrente no cumpla con los requisitos antes indicados.
 
-Se ha solicitado  un  pronunciamiento  a  este  Servicio,  respecto  de  la
-tributación de la ganancia de capital o mayor  valor  que  los  vendedores,
-inversionistas no residentes ni domiciliados en Chile, pueden  obtener  con
-ocasión de la venta de la totalidad  de  sus  acciones  en  dos  sociedades
-contractuales mineras constituidas en el país.
-I.- ANTECEDENTES.
-Indica que las empresas que representa, solicitaron confirmar la  aplicación
-del Impuesto de Primera Categoría en carácter de impuesto único a la  renta,
-establecido en la letra a), del número 8, del artículo 17 de  la  Ley  sobre
-Impuesto a la Renta  ("LlR"),  sobre  la  ganancia  de  capital  que  dichas
-sociedades, en su calidad  de  vendedoras,  obtuvieran  con  ocasión  de  la
-eventual venta de su participación en las sociedades  contractuales  mineras
-XXXX y BBBB, respectivamente.
-Lo anterior, en la medida que en la referida enajenación  se  cumpliera  con
-los requisitos copulativos establecidos para la aplicación de este  régimen,
-de conformidad con la letra a) y el inciso 3° del artículo 17  N°  8,  y  el
-artículo 18 de la LIR, a saber:
-(a)  que entre la fecha de adquisición y enajenación haya transcurrido a  lo
-menos un año;
-(b)  que la enajenación no sea  hecha  a  una  persona  relacionada  de  las
-vendedoras, en los términos establecidos en el inciso 4°,  del  artículo  17
-N° 8 de la LlR; y
-(c) que las vendedoras no tengan el carácter de "habituales"  en  este  tipo
-de operaciones, de conformidad con el artículo 18 de la LIR.
-Señala que, con fecha 21 de julio de  2014  les  fue  notificado  el  Oficio
-N°1.235, mediante el cual se dio respuesta a una consulta  anterior,  en  la
-que el Servicio se pronunció sobre el tratamiento  tributario  aplicable  al
-mayor valor obtenido en  la  enajenación  de  acciones  y  derechos  en  una
-sociedad legal minera o en  una  sociedad  contractual  minera  que  no  sea
-anónima,   constituida    exclusivamente    para    explotar    determinadas
-pertenencias.
-Al respecto, el análisis efectuado en el Oficio N°1.235 considera solamente
-el régimen tributario aplicable a la ganancia de capital para el  caso  que
-sea aplicable el artículo 17 N°8, letra h), de la LIR, pero no se pronuncia
-acerca de la situación en que la venta de la participación en una  sociedad
-contractual minera no deba subsumirse en  la  hipótesis  de  hecho  gravado
-contenida en dicha norma, cuestión que venimos en  solicitar  se  aclare  y
-complemente.
-En efecto, en atención a los antecedentes de hecho y  de  derecho  indicados
-tanto en  la  solicitud  original,  como  de  los  nuevos  antecedentes  que
-acompaña a esta presentación, solicita se aclare  y  complemente  el  Oficio
-N°1.235 y, en consecuencia, confirme que la eventual venta que PD XXXX y  PD
-BBBB puedan efectuar de XXXX y BBBB,  respectivamente,  puede  tributar  con
-Impuesto de Primera Categoría, en carácter de impuesto  único  a  la  renta,
-dado que no resulta aplicable la letra h), del artículo 17 N° 8 de  la  LIR,
-y en la medida que  se  cumpla  con  los  requisitos  copulativos  indicados
-anteriormente.
-Para el caso específico del nacimiento de la obligación  tributaria  que  se
-regirá por la letra h), del artículo 17 N°8 de la LIR,  es  necesario,  como
-lo prescribe la propia ley, que se trate de la  enajenación  de  acciones  o
-derechos de una sociedad legal minera o de una sociedad  contractual  minera
-que no sea anónima y que haya sido constituida exclusivamente para  explotar
-determinadas pertenencias.
-Dicho lo anterior, es necesario señalar que, en caso que a la venta  de  la
-participación de una sociedad contractual minera (como es el caso de XXXX y
-BBBB) no le sea aplicable la letra h), del artículo 17 N°8 de la  LIR,  por
-no subsumirse la hipótesis fáctica en el hecho gravado contenido  en  dicha
-norma,  corresponde  aplicar  a  dicha  venta  el  tratamiento   tributario
-establecido para la enajenación de la participación en  las  sociedades  de
-personas en general, entre  los  cuales  se  encuentra  la  posibilidad  de
-aplicar el régimen establecido en la letra a), del artículo 17  N°8  de  la
-LIR.
-De acuerdo a los nuevos antecedentes de hecho y  fundamentos  acompañados  a
-su presentación, solicita aclarar y complementar el Oficio  N°1.235,  en  el
-siguiente sentido:
-    (a)    Que no procede aplicar a la enajenación de XXXX y BBBB por parte
-        de PD XXXX y PD BBBB, respectivamente, la letra h), del artículo  17
-        N°8 de la LIR. En particular, solicita se confirme que  en  el  caso
-        bajo análisis no se  cumplirían  los  presupuestos  establecidos  en
-        letra h), del artículo 17 N°8 de la LIR, considerando que de acuerdo
-        con el objeto social de estas últimas sociedades,  XXXX  y  BBBB  no
-        fueron  constituidas  exclusivamente  para   explotar   determinadas
-        pertenencias mineras.
-    (b) Que la ganancia de capital que puedan obtener PD XXXX y PD BBBB con
-        ocasión de la venta de XXXX y BBBB debe gravarse de acuerdo con  las
-        normas generales  contenidas  en  la  LIR  para  las  sociedades  de
-        personas, calificando  para  el  régimen  del  Impuesto  de  Primera
-        Categoría en carácter de impuesto único a la renta, contenido en  el
-        artículo 17 N° 8, letra a), de la LIR, en caso que se cumpla con los
-        siguientes requisitos copulativos:
-        (i)      Que las sociedades vendedoras  PD  XXXX  y  PD  BBBB  hayan
-           mantenido sus acciones en XXXX y BBBB, respectivamente, por  más
-           de 1 año;
-        (ii)     Que las sociedades vendedoras PD XXXX y  PD  BBBB  no  sean
-           "habituales" en la venta de las acciones; y
-        (iii)    Que las acciones de XXXX y BBBB sean vendidas a terceros no
-           relacionados con las sociedades vendedoras, de  conformidad  con
-           el inciso 4°, del artículo 17 N°8, letra a), de la LIR.
-    (c)    Que en caso que el mayor valor obtenido por PD XXXX  y  PD  BBBB
-        como consecuencia de la venta de su participación en XXXX y BBBB  se
-        afecte con Impuesto de Primera Categoría, en  carácter  de  impuesto
-        único a la renta, por cumplir los requisitos establecidos en la  LIR
-        para ello, considerando que las sociedades vendedoras PD XXXX  y  PD
-        BBBB son entidades no residentes o domiciliadas en Chile, el  o  los
-        compradores de las acciones de XXXX y BBBB deberán retener un  monto
-        equivalente  al  5%  del  precio  de  venta  de   dichas   acciones,
-        respectivamente, de conformidad con lo dispuesto en los artículos 74
-        N°4 y 79 de la LIR.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-II.-  ANÁLISIS.
-
-1.- De acuerdo a los términos expresados en su  nueva  presentación  y  los
-antecedentes acompañados a la misma, es posible complementar el  Oficio  N°
-1.235 del 21 de julio de 2014 en el siguiente sentido:
-
-En relación con la enajenación de acciones a las que se refiere su consulta
-y de acuerdo con lo que al efecto dispone la LIR a través del  párrafo  1°,
-de la letra h), del  N°  8,  de  su  artículo  17,  cabe  expresar  que  no
-constituye renta, el mayor valor, incluido el reajuste del saldo de precio,
-obtenido en la enajenación de acciones y derechos  en  una  sociedad  legal
-minera o en una sociedad contractual minera que no sea anónima, constituida
-exclusivamente para explotar determinadas pertenencias, siempre  que  quien
-enajene haya adquirido sus derechos antes de la  inscripción  del  acta  de
-mensura o dentro de los 5 años siguientes a  dicha  inscripción  y  que  la
-enajenación se efectúe antes de transcurrido  8  años,  contados  desde  la
-inscripción del acta de mensura.
-
-A través de la Ley N°18.293, de 1984,  se  modificó  la  calificación  como
-ingreso no constitutivo de renta, establecida por la referida  disposición,
-entre otras, limitándola sólo a la parte del mayor  valor  que  se  obtenga
-hasta la concurrencia  del  costo  inicial  de  las  acciones,  debidamente
-actualizado por la variación del índice de precios al consumidor, pasando a
-constituir renta el exceso, el  cual,  a  partir  de  la  vigencia  de  tal
-modificación, debe tributar  con  el  impuesto  de  Primera  Categoría,  en
-calidad de impuesto  único  a  la  renta,  en  tanto  se  cumplan  con  los
-requisitos que la norma citada dispone.
-
-Consecuente con lo señalado en los párrafos precedentes, en  el  Oficio  N°
-1.235 referido, este Servicio se pronunció sobre el régimen de  tributación
-que afecta al mayor valor obtenido en la enajenación de acciones y derechos
-en una sociedad legal minera o en una sociedad contractual  minera  que  no
-sea  anónima,  constituida  exclusivamente   para   explotar   determinadas
-pertenencias, estableciéndose la siguiente distinción:
-
-a) Queda sujeto al Impuesto de Primera Categoría, en carácter  de  impuesto
-único a la renta, cuando se cumplan las siguientes condiciones y requisitos
-copulativos:
-
-i. Que el enajenante haya adquirido sus derechos antes  de  la  inscripción
-del acta de mensura o dentro de los 5 años siguientes a dicha inscripción;
-
-ii. Que la enajenación se efectúe antes de transcurridos 8  años,  contados
-desde la inscripción del acta de mensura;
-
-iii. Que el enajenante  no  sea  un  contribuyente  que  declare  la  renta
-efectiva en la Primera Categoría;
-
-iv. Que las sociedades cuyas acciones  o  derechos  se  enajenan,  no  sean
-contribuyentes que declaren la renta efectiva en la Primera Categoría;
-
-v. Que el enajenante no se encuentre relacionado con el adquirente  en  los
-términos que establece el párrafo 4°, del N°8 del artículo 17 de la LIR; y
-
-vi. Que las operaciones de  enajenación  no  representen  el  resultado  de
-negociaciones o actividades realizadas habitualmente por  el  contribuyente
-enajenante.
-
-b) Queda sujeto a los impuestos generales de la Ley  sobre  Impuesto  a  la
-Renta, esto es, al Impuesto de Primera Categoría sobre la base de la  renta
-percibida o devengada, e impuesto Global Complementario o Adicional, cuando
-no se cumplan una o más de las  condiciones  copulativas  indicadas  en  la
-letra a) precedente.
-
-2.- Ahora bien, el mayor valor obtenido en la  enajenación  de  acciones  y
-derechos en una sociedad legal minera o en una sociedad contractual  minera
-que no sea anónima  y  que  no  se  haya  constituido  exclusivamente  para
-explotar determinadas pertenencias, no puede quedar sujeto  al  régimen  de
-tributación que dispone la letra h), del N° 8, del artículo 17 de  la  LIR,
-puesto que no se satisface uno de los presupuestos  básicos  que  contempla
-dicha  disposición,  cuál  es,  que  las  acciones  o  derechos  enajenados
-correspondan a una sociedad legal minera o una sociedad contractual  minera
-que no sea anónima, constituida exclusivamente para  explotar  determinadas
-pertenencias.
-
-En la situación de hecho  materia  de  esta  consulta,  de  acuerdo  a  los
-antecedentes analizados, resulta que las acciones  que  se  enajenarían  se
-mantienen en dos Sociedades Contractuales Mineras, que no son  anónimas,  y
-no cumplen con el requisito  de  haberse  constituido  exclusivamente  para
-explotar determinadas pertenencias.
-
-En efecto, en las escrituras de constitución de las Sociedades XXXX y BBBB,
-se estipula que el objeto social,  en  ambos  casos,  es  “la  prospección,
-exploración y explotación de las concesiones mineras de que actualmente  es
-dueña o pudiera adquirir o sobre los cuales detente algún tipo de  derechos
-en la República de Chile, el procesamiento de los  minerales  extraídos  de
-ellas, el transporte y comercialización  de  los  productos  derivados,  la
-enajenación de los bienes de la Compañía, cualquier actividad  accesoria  a
-lo anteriormente mencionado...”
-
-En consecuencia, atendido que no corresponde en este caso la aplicación  de
-lo dispuesto en la letra h), del N° 8, del artículo  17  de  la  LIR,  cabe
-señalar que la norma que si resulta aplicable a la situación  analizada  es
-aquella de carácter general establecida en la letra a), del mismo N° 8, del
-referido artículo, respecto de la enajenación de derechos en sociedades  de
-personas.
-
-De acuerdo a ello, el  mayor  valor  obtenido  en  la  enajenación  de  las
-acciones referidas podrá quedar sujeto al Impuesto de Primera Categoría  en
-carácter de impuesto único a la renta, o bien, sujeto al régimen general de
-tributación,  esto  es,  al  Impuesto  de  Primera   Categoría   y   Global
-Complementario o Adicional, según corresponda, de acuerdo a las  normas  de
-la LIR y las instrucciones impartidas con anterioridad  por  este  Servicio
-sobre la materia.
-
-III.- CONCLUSIÓN.
-De  acuerdo  al  análisis  de  los  nuevos  antecedentes  y   planteamientos
-efectuados mediante esta segunda presentación, se aclara  y  complementa  lo
-resuelto mediante el Oficio N°1.235, en el siguiente sentido:
-a) Atendido el objeto social con el cual fueron constituidas las  sociedades
-XXXX y BBBB cuyas acciones se  enajenarían,  no  procede  aplicar  al  mayor
-valor obtenido en dicha enajenación lo dispuesto en la letra h), del  N°  8,
-del artículo 17 de la LIR.
-b) El mayor valor que puedan obtener PD XXXX y PD BBBB  con  ocasión  de  la
-venta de XXXX y BBBB debe gravarse  de  acuerdo  con  las  normas  generales
-contenidas en la LIR para las sociedades de personas,  calificando  para  el
-régimen del Impuesto de Primera Categoría en carácter de  impuesto  único  a
-la renta, siempre que se cumpla con los siguientes requisitos copulativos:
-        i)  Que las sociedades vendedoras PD XXXX y PD BBBB hayan  mantenido
-           sus acciones en XXXX y BBBB, respectivamente, por más de 1 año;
-        ii)      Que las sociedades vendedoras PD XXXX y  PD  BBBB  no  sean
-           "habituales" en la venta  de  las  acciones,  de  acuerdo  a  lo
-           establecido en el artículo 18 de la LIR, y las instrucciones  de
-           este Servicio sobre la materia;
-        iii)     Que las acciones de XXXX y BBBB sean vendidas a terceros no
-           relacionados o  en  las  que  tengan  intereses  las  sociedades
-           vendedoras, de conformidad con lo dispuesto en el inciso 4°, del
-           N° 8, del artículo 17 de la LIR.
-c) En caso que el  mayor  valor  obtenido  por  PD  XXXX  y  PD  BBBB  como
-consecuencia de la venta de su participación en XXXX y BBBB se  afecte  con
-Impuesto de Primera Categoría, en carácter de impuesto único  a  la  renta,
-por cumplir los requisitos establecidos en la LIR para  ello,  considerando
-que las sociedades vendedoras PD XXXX y PD BBBB son entidades no residentes
-o domiciliadas en Chile, el o los compradores de las  acciones  de  XXXX  y
-BBBB deberán retener provisionalmente un monto equivalente al 5%  sobre  el
-total de la cantidad a remesar,  sin  deducción  alguna,  salvo  que  pueda
-determinarse el mayor valor afecto a impuesto, en cuyo caso,  la  retención
-se hará con la tasa del Impuesto de Primera  Categoría  sobre  dicho  mayor
-valor, de conformidad con lo dispuesto en los artículos 74 N°4 y 79  de  la
-LIR[1].
-
-
-
-
-
-
-                                       MICHEL JORRATT DE LUIS
-
-                                                            DIRECTOR  (T  y
-       P)
-
-
-
-
-
-
-                        Oficio N° 1721, de 26.09.2014
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-
-
-
-
-
-
-
-
-
------------------------
-[1] Las instrucciones sobre la materia, fueron impartidas por este  Servicio
-mediante la Circular N° 54 de 2013.
+Oficio N° 1832, de 10.10.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

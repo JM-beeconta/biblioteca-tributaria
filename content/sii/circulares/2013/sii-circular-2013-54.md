@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 54
 - Año: 2013
-- Fecha: 2013-11-27
+- Fecha: 2013-11-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu54.pdf
 - Hash SHA-256: 93d2237f81dbacb9bcf904daf6fc0659dc4fa272f53de5e193b6b61254d4e90a
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Circular N° 55 del 27 de Noviembre del 2013 Tablas de Cálculos de Reajustes, Intereses y Multas Diciembre 2013 Fuente: Subdirección de Fiscalización Instruye sobre las modificaciones efectuadas a las normas sobre retención de impuestos establecidas en el N°4, del artículo 74 de la Ley sobre Impuesto a la Renta, por la Ley N°20.630, del 27 de septiembre del 2012. Fuente: Impuestos Directos Circular N° 53 del 13 de…
+scalización Instruye sobre las modificaciones efectuadas a las normas sobre retención de impuestos establecidas en el N°4, del artículo 74 de la Ley sobre Impuesto a la Renta, por la Ley N°20.630, del 27 de septiembre del 2012. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

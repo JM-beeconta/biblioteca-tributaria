@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 1
 - Año: 2016
-- Fecha: 2016-01-12
+- Fecha: 2016-01-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu1.pdf
 - Hash SHA-256: eab9c0e4708a92f93b9769dc870a339762037b46311688f519d816538d8632f0
 
 ## Resumen
 
-pan> Circular N° 2 del 12 de Enero del 2016 Tablas del Impuesto Único De Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2016 e información adicional relacionada con dichos Tributos. Fuente: Oficina de Gestión Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario correspondiente al año tributario 2016. Fuente: Oficina de Gestión Normati…
+oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario correspondiente al año tributario 2016. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select
 
 ## Referencias detectadas
 

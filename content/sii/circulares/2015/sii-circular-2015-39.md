@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 40 del 05 de Junio del 2015 Imparte instrucciones acerca de las modificaciones introducidas por la Ley 20.780, al artículo 21 del Código Tributario en materia de empleo de expedien-tes electrónicos. Fuente: Departamento de Asesoría Jurídica Imparte instrucciones sobre nuevo número 3° que se intercala en el artículo 165 del Código Tributario por la ley N° 20.780 Fuente: Oficina de Análisis de la Jurisprudencia Circular N° 38 del 02 de Junio del 2015 Tabla de Cálculos de Reajustes, Intereses y Multas sob…
+;a Jurídica Imparte instrucciones sobre nuevo número 3° que se intercala en el artículo 165 del Código Tributario por la ley N° 20.780 Fuente: Oficina de Análisis de la Jurisprudencia
 
 ## Referencias detectadas
 

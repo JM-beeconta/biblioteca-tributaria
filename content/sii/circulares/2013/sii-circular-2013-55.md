@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/circulares/2013/circu56.pdf' target='_blank'>Circular N° 56 del 27 de Noviembre del 2013 Imparte instrucciones sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Crédito Fuente: Departamento de Atención y Asistencia de Contribuyentes Tablas de Cálculos de Reajustes, Intereses y Multas Diciembre 2013 Fuente: Subdirección de Fiscalización Circular N° 54 del 25 de N…
+de Contribuyentes Tablas de Cálculos de Reajustes, Intereses y Multas Diciembre 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

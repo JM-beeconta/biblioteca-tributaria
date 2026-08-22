@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2016
-- Fecha: 2016-06-07
+- Fecha: 2016-05-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu33.pdf
 - Hash SHA-256: 761f5b6527a0d0072542a2e0376f26994349058390c4069749347ce77daf846a
 
 ## Resumen
 
-0px;'> Circular N° 34 del 07 de Junio del 2016 Modificaciones efectuadas por la Ley N° 20.899 a los artículos 41F y 41H de la Ley sobre Impuesto a la Renta; y al primer párrafo, del número 2, del inciso cuarto del artículo 59, de la misma Ley. Complementa Circular N°12, de 2015. Fuente: Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multas junio 2016. Fuente: Subdirección de Fiscalización Circular N° 32 del 23 de Mayo del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provision…
+Impuestos Directos Tabla de Cálculos de Reajustes, Intereses y Multas junio 2016. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

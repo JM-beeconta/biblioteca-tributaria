@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ente: Departamento de Asesoría Jurídica Circular N° 63 del 10 de Julio del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio del año 2015 y el 9 de agosto del año 2015. Fuente: Oficina de Gestión Normativa Imparte instrucciones sobre el procedimiento de consulta pública de circulares e instrucciones que interpreten con carácter general normas tributarias o que modifiquen criterios interpretativos previos. Fuente: Departamento de Asesoría Jurídica Circular N° 61 del 09 de Julio del…
+oacute;n Normativa Imparte instrucciones sobre el procedimiento de consulta pública de circulares e instrucciones que interpreten con carácter general normas tributarias o que modifiquen criterios interpretativos previos. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

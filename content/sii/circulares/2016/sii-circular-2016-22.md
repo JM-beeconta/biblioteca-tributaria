@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 22
 - Año: 2016
-- Fecha: 2016-05-03
+- Fecha: 2016-04-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu22.pdf
 - Hash SHA-256: 514ad9aa97a1ea6909f85984c687fd019ee5d64ea1a6e35bd0aff86f02cd34b6
 
 ## Resumen
 
-rídica Circular N° 23 del 03 de Mayo del 2016 Imparte instrucciones acerca de las modificaciones introducidas por la Ley N° 20.899, al artículo 11, del Código Tributario. Modifica en las partes pertinentes la Circular N° 34, de 2015. Fuente: Departamento de Asesoría Jurídica tabla de Cálculos de Reajustes, Intereses y Multas mayo 2016 Fuente: Subdirección de Fiscalización Circular N° 21 del 19 de Abril del 2016 Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.899, de 8 de febrero de…
+;a Jurídica tabla de Cálculos de Reajustes, Intereses y Multas mayo 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

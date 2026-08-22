@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span class="modificada"> Instrucciones sobre el artículo 41 G de la Ley sobre Impuesto a la Renta, incorporado por la Ley N°20.780 y modificado por la Ley N°20.899, que regula el tratamiento tributario de las rentas pasivas percibidas o devengadas por entidades controladas sin domicilio ni residencia en Chile (Sustituye a la Circular N°30, de 2015). Fuente: Impuestos Directos Instrucciones sobre las modificaciones efectuadas por la Ley N°20.899, a la Ley sobre Impuesto a la Renta y a la Ley N° 20.780 respecto, ent…
+Impuestos Directos Instrucciones sobre las modificaciones efectuadas por la Ley N°20.899, a la Ley sobre Impuesto a la Renta y a la Ley N° 20.780 respecto, entre otros, al régimen de tributación en base a renta presunta; exención del Impuesto de Primera Categoría a la renta efectiva de bienes raíces no agrícolas; adjudicación de bienes con ocasión de la disolución y liquidación de empresas y valor de costo a considerar por los adjudicatarios respecto de los bienes adjudicados; impuesto único a los gastos rechazado…
 
 ## Referencias detectadas
 

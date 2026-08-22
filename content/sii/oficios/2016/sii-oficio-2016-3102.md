@@ -6,44 +6,57 @@
 - Año: 2016
 - Fecha: 2016-11-18
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja3101.doc
-- Hash SHA-256: 1510b44992a841c8a072d0b60cf39d6940a0275d18e04dad3d74e67210cff74e
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja3102.htm
+- Hash SHA-256: 9adf6e5ac21457841d3679847e70e2619b9c6cd960607bb88b1834537717b15b
 
 ## Resumen
 
-(.2016) (Ord. Nº 3102, de 18-11-2016) | Word Consulta sobre la tributación en la enajenación de bienes raíces. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, de 2014, Art. 24 transitorio &ndash; Circular N° 8 de 2015 &ndash; Oficio N° 3195, de 2015. (Ord. Nº 3101, de 18-11-2016) | Word Solicita un pronunciamiento sobre la aplicación del artículo 24° transitorio de la Ley N° 20.780 a rentas percibidas durante el año 2015. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 74, N°1 &ndash;…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, de 2014 - Circular N° 13, de 2014. (.2016) (Ord. Nº 3102, de 18-11-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":8,"year":2015}
-- {"type":"oficio","number":3195,"year":2015}
+- {"type":"circular","number":13,"year":2014}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, DE 2014, ART. 24 TRANSITORIO – CIRCULAR N° 8 DE 2015 – OFICIO N° 3195, DE 2015.
-(OFICIO N° 3101, DE 18.11.2016)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, DE 2014 - CIRCULAR N° 13, DE 2014. (OFICIO N° 3102.2016) (Ord. Nº 3102, de 18-11-2016)
 
-Solicita un pronunciamiento sobre la aplicación del artículo 24° transitorio de la Ley N° 20.780 a rentas percibidas durante el año 2015 .
-Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre la aplicación del artículo 24° transitorio de la Ley N° 20.780 a rentas percibidas durante el año 2015.
-I ANTECEDENTES
-De acuerdo al Ordinario del antecedente y a propósito de la situación tributaria de un contribuyente acogido durante el año 2015 al sistema voluntario y extraordinario de declaración de bienes o rentas establecido en el artículo 24° transitorio de la Ley N° 20.780, se solicita aclarar si en caso de haberse pagado el impuesto único del 8% por concepto de capital, más intereses acumulados al 31.12.2015, corresponde que en el año tributario 2016 se declare y pague impuestos sólo por los intereses ganados en los meses restantes del año comercial 2015, es decir, noviembre y diciembre.
-Tras algunas consideraciones sobre el carácter extraordinario o excepcional de la declaración de bienes o rentas al amparo del artículo 24° transitorio de la Ley N° 20.780, la cual operaría sólo respecto de impuestos que no hayan sido oportunamente declarados y/o gravados con los tributos correspondientes en Chile, esa Dirección Regional concluye que todas las demás rentas de fuente extrajera percibidas durante el año 2015 deberían tributar conforme a las reglas generales, debiendo declararse y pagarse el impuesto correspondiente en el año tributario 2016.
-II ANÁLISIS
-Sobre el particular, cabe señalar que este Servicio ya se pronunció en su oportunidad sobre la misma materia consultada, mediante el Oficio N° 3195 de 2015, publicado en el sitio web institucional.
-En lo fundamental, allí se resuelve que, a partir del texto de la ley y las instrucciones impartidas:
-Sólo pueden acogerse “los bienes o derechos que el contribuyente acredite fehacientemente haber adquirido con anterioridad al 1 de enero del 2014 y las rentas que provengan de tales bienes, ello sin perjuicio de la obligación de cumplir en el futuro con los impuestos y demás obligaciones que pudieran afectar a tales bienes o rentas conforme a las normas legales que les sean aplicables, para efectos de índole aduanera, cambiaria, societaria, de mercado de valores, entre otras” (artículo 24° transitorio, numeral 3.2.).
-En consecuencia, para determinar la base de cálculo del impuesto único establecido en la norma transitoria analizada, correspondía declarar tanto las rentas mantenidas al 31.12.2013 y sus rendimientos, excluyendo las rentas adquiridas a partir 01.01.2015.
-L o anterior , conforme lo dispuesto en el artículo 24° transitorio, numero 3.1.-, letra c), y lo instruido en la Circular N° 8 de 2015, número 5, párrafo final, en el sentido que si los fondos mantenidos al 31.12.2013 produjeron intereses, el contribuyente sólo pudo incluir en su declaración los intereses respecto de los cuales haya estado o esté obligado a declarar y/o pagar impuestos en Chile, “en el año tributario 2015”. 
-Luego, y siguiendo el caso descrito en la presentación que dio origen al citado Oficio, no correspondía incluir los intereses obtenidos entre el 01.01.2015 y septiembre de 2015, por corresponder a rentas que el contribuyente estaba obligado a declarar y/o pagar impuestos en Chile en el AT 2016. 
-Finalmente, y respecto de las r entas afectas al Impuesto Global Complementario ( AT 2016), el mismo oficio citado precisa que, c onsistente mente con lo anterior, “ el contribuyente deberá pagar el Impuesto Global Complementario respecto del AT 2016 sobre todas sus rentas, locales o extranjeras generadas durante el año calendario 2015, con exclusión de las correspondientes a la base imponible del artículo 24° transitorio en los términos indicados precedentemente. ”
+CONSULTA SOBRE LA TRIBUTACIÓN EN LA ENAJENACIÓN DE BIENES RAÍCES.
 
-III CONCLUSIÓN
-Conforme lo expuesto se informa que el contribuyente debió pagar el Impuesto Global Complementario respecto del AT 2016 sobre todas sus rentas, locales o extranjeras generadas durante el año calendario 2015, con exclusión de las que correctamente correspondía incluir dentro de la base imponible del artículo 24° transitorio.
-Se precisa que no correspondía incluir en la referida declaración voluntaria los intereses obtenidos durante el año comercial 2015, por corresponder a rentas respecto de las cuales el contribuyente estaba obligado a declarar y/o pagar impuestos en Chile en el AT 2016 .
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual consulta sobre la tributación en la enajenación de bienes raíces adquiridos antes del 01.01.2004.
+
+I.- ANTECEDENTES.
+
+Un contribuyente y su cónyuge, son dueños en partes iguales de un inmueble no agrícola en la comuna de Lo Barnechea. Lo adquirieron el año 1999, esto es, con anterioridad al 01.01.2004. Indica que se dispone, en lo que queda de este año 2016, como persona natural y bajo el mismo RUT, a dar aviso de inicio de actividades como agricultor, contribuyente de primera categoría, en calidad de persona natural.
+
+A la luz de estos antecedentes, solicita se confirmen las siguientes inquietudes:
+
+a) Por no ser habitual en la enajenación de bienes raíces, el mayor valor que obtenga en la venta a un no relacionado del inmueble, constituye un ingreso no renta, sin importar que la fecha de venta sea o no posterior al 01.01.2017.
+
+b) Bajo los mismos supuestos, de constituirse como empresario individual, contribuyente de primera categoría, y el inmueble en cuestión no sea aportado ni forme parte de los activos de su empresa individual, si lo enajena, el mayor valor que obtenga, para él y su cónyuge, constituye un ingreso no renta.
+
+II.- ANÁLISIS.
+
+Respecto de la enajenación de bienes raíces adquiridos hasta el 31.12.2003, cualquiera sea su fecha de enajenación, el inciso final, del numeral XVI, del artículo tercero.- de las disposiciones transitorias de la Ley N° 20.780, dispone que el mayor valor se sujetará a las disposiciones de la LIR vigentes hasta el 31.12.14. Esto es, en términos generales, constituye ingreso no renta, es decir, no se devenga impuesto a la renta sobre el mayor valor obtenido por personas naturales o sociedades de personas formadas exclusivamente por personas naturales en la enajenación del bien raíz, en la medida que no se verifique alguna de las siguientes condiciones:
+
+1) Que la enajenación sea el resultado de negociaciones o actividades realizadas habitualmente por el enajenante, circunstancia que no se verifica en esto caso conforme a los antecedentes señalados.
+
+2) Que los inmuebles formen parte del activo de empresas que declaren su renta efectiva en la primera categoría, según contabilidad completa. En la medida que no incluya en el activo de la empresa que pretende constituir el inmueble o una cuota del mismo, tampoco se verificaría esta circunstancia.
+
+3) Que la enajenación se efectúe a una empresa o sociedad relacionada con el cedente. Esta relación se verifica cuando el enajenante tiene la calidad de socio o accionista de la empresa adquirente y tratándose de sociedades anónimas abiertas es dueño del 10% o más de las acciones, o bien, tiene un interés patrimonial o económico en ellas o posee participación indirecta a través de otras sociedades. La consulta no se refiere a la existencia de participación societaria o interés patrimonial, por lo que se desconoce si se verifica esta circunstancia.
+
+Las instrucciones sobre la tributación aplicable a la enajenación de bienes raíces, de acuerdo a las disposiciones vigentes hasta el 31.12.2014, se encuentran en Circular N° 13 de 2014.
+
+III.- CONCLUSIÓN.
+
+La enajenación de bienes raíces que hayan sido adquiridos hasta el 31.12.2003, se rigen por las disposiciones de la LIR, vigentes hasta el 31.12.2014, y el mayor valor obtenido en la enajenación constituirá un ingreso no renta en la medida que cumpla los requisitos señalados en el análisis.
 
 FERNANDO BARRAZA LUENGO
+
 DIRECTOR
 
-Oficio N° 3101, de 18.11.2016
+Oficio N°3102, de 18.11.2016
+
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+
+Dpto. de Impuestos Directos

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 27
 - Año: 2015
-- Fecha: 2015-04-30
+- Fecha: 2015-04-14
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu27.pdf
 - Hash SHA-256: 82a489a33ba8df6599e2235c325e85786cbb2c0c7041f16faba7a4e02de08490
 
 ## Resumen
 
-Fuente: Oficina de Análisis de la Jurisprudencia Circular N° 28 del 30 de Abril del 2015 Tablas de Cálculos de Reajustes, Intereses y Multas mayo 2015 Fuente: Subdirección de Fiscalización Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 26 del 14 de Abril del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril d…
+scalización Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

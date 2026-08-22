@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 43
 - Año: 2016
-- Fecha: 2016-07-12
+- Fecha: 2016-07-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu43.pdf
 - Hash SHA-256: 22d5b90c19e60737393f0234f6c60d3fb52d60eb1867fbc450bb89258588aa1b
 
 ## Resumen
 
-f='circu44.pdf' target='_blank' class="modificada">Circular N° 44 del 12 de Julio del 2016 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 y la Ley N° 20.899 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, todos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, modificada por la Ley N° 20.899, al régimen tributario para…
+Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, modificada por la Ley N° 20.899, al régimen tributario para la micro, pequeña y mediana empresa contenido en el artículo 14 ter de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

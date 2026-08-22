@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 24 del 31 de Marzo del 2015 Tabla de cálculos de reajustes, intereses y multas abril 2015 Fuente: Subdirección de Fiscalización Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de la catástrofe ocurrida el día 25 de marzo de 2015. Fuente: I…
+scalización Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de la catástrofe ocurrida el día 25 de marzo de 2015. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

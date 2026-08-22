@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an class="modificada"> Instruye sobre las modificaciones incorporadas por la Ley N°20.630 de 2012, a los artículos 15,17 N°8, 31 N°9 y 41 de la Ley sobre Impuesto a la Renta, y la modificación introducida por el N°1, del artículo 5°, de la Ley N°20.727, al inciso 2°, del N°8, del artículo 17, de la misma Ley. Fuente: Impuestos Directos Tabla de cálculos de reajustes, intereses y multas marzo 2014 Fuente: Subdirección de Fiscalización Circular N° 11 del 25 de Febrero del 2014 Nuevas escalas y tasas para la determin…
+Impuestos Directos Tabla de cálculos de reajustes, intereses y multas marzo 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

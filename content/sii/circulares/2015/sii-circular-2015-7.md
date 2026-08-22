@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 7
 - Año: 2015
-- Fecha: 2015-01-16
+- Fecha: 2015-01-15
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu7.pdf
 - Hash SHA-256: 213db77da2fca43a259b0f861f30bada50c6c10af948553c75d904332a41f130
 
 ## Resumen
 
-Circular N° 8 del 16 de Enero del 2015 Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo 24° transitorio de la Ley N°20.780. Fuente: Subdirección Jurídica Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2015 Fuente: Oficina Gestión Normativa Circular N° 6 del 15 de Enero del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de ener…
+;n Jurídica Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2015 Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

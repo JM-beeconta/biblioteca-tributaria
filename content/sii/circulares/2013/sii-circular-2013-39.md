@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 39
 - Año: 2013
-- Fecha: 2013-08-27
+- Fecha: 2013-08-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu39.pdf
 - Hash SHA-256: 3d756a555b42110bf6f5ee095f4ea5767b581f35cb0d1159cf345ff2de34205d
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización. Circular N° 40 del 27 de Agosto del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas Septiembre 2013 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2013 y el 9 de septiembre del año 2013 Fuente: Oficina Gestión Normativa Circular N° 38 del 09 de Agosto del 2013 Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de septiembre del año 2013 e informaci…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2013 y el 9 de septiembre del año 2013 Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

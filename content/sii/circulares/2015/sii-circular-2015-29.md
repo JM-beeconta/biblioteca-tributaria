@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2015
-- Fecha: 2015-05-08
+- Fecha: 2015-05-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu29.pdf
 - Hash SHA-256: 07ebb57d313374a7f6754239d77d23ddfc69d748e5a1f67c0841cefc9af23d48
 
 ## Resumen
 
-5 style='margin-bottom:0px;'> Circular N° 30 del 08 de Mayo del 2015 Instruye respecto de la incorporación del nuevo artículo 41 G a la Ley sobre Impuesto a la Renta, efectuada por la Ley N° 20.780, sobre el cómputo en Chile de las rentas pasivas percibidas o devengadas por empresas controladas en el exterior. Fuente: Departamento de Impuestos Directos Modificaciones introducidas por el artículo 10 de la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 6 del Código Tributario, contenido en el Decreto…
+Impuestos Directos Modificaciones introducidas por el artículo 10 de la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 6 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974. Fuente: Oficina de Análisis de la Jurisprudencia
 
 ## Referencias detectadas
 

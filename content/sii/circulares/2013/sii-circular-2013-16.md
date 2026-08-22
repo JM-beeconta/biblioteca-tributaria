@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 16
 - Año: 2013
-- Fecha: 2013-04-10
+- Fecha: 2013-04-08
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu16.pdf
 - Hash SHA-256: 9dc8fc811280c3f8f2aab8253a64a8e33ca68d44cd0de44c1a016618c4566b46
 
 ## Resumen
 
-an> Circular N° 17 del 10 de Abril del 2013 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de mayo del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2013, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre impuesto a la renta . Fuente: Oficina de Gestión Normativa. Circular N° 15 del 28 de Mar…
+acute;n Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2013, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre impuesto a la renta . Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

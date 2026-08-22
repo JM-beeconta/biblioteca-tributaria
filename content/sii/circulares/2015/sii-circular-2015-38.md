@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 38
 - Año: 2015
-- Fecha: 2015-06-05
+- Fecha: 2015-06-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu38.pdf
 - Hash SHA-256: d83a841aedecd4515b250df68e765db0ee8fed866366798fff4612e616ac8079
 
 ## Resumen
 
-:10px;'> Fuente: Departamento de Asesoría Jurídica Circular N° 39 del 05 de Junio del 2015 Imparte instrucciones sobre nuevo número 3° que se intercala en el artículo 165 del Código Tributario por la ley N° 20.780 Fuente: Oficina de Análisis de la Jurisprudencia Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2015 Fuente: Subdirección de Fiscalización Circular N° 37 del 28 de Mayo del 2…
+la Jurisprudencia Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el año 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

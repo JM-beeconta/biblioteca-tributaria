@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 67
 - Año: 2016
-- Fecha: 2016-12-14
+- Fecha: 2016-12-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu67.pdf
 - Hash SHA-256: 5df7482d169c96aaad4f859bf989db5355aaa9f9736c1ef6177536a0cf94b66d
 
 ## Resumen
 
-ttom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 68 del 14 de Diciembre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2016 y el 9 de enero de 2016. Fuente: Oficina de Gestión Normativa Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR)…
+oacute;n Normativa Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR). Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

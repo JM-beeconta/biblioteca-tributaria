@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 13
 - Año: 2013
-- Fecha: 2013-03-22
+- Fecha: 2013-03-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu13.pdf
 - Hash SHA-256: 96afce0c1d88b36dd3a496473b90a1e732db27eb19f26762f86f99b0abcca25a
 
 ## Resumen
 
-/p> Fuente: Oficina de Gestión Normativa Circular N° 14 del 22 de Marzo del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas abril 2013 Fuente: Subdirección de Fiscalización. Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa. Circular N° 12 del 11 de Marzo del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del añ…
+calización. Tablas del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de abril del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

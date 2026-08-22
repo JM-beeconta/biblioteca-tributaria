@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ubdirección de Fiscalización Circular N° 48 del 10 de Septiembre del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2014 y el 9 de octubre del año 2014. Fuente: Oficina de Gestión Normativa Tablas de Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2014 e información adicional relacionada con dicho tributos Fuente: Oficina de Gestión Normativa Circular N° 46 del 22 de Agosto del 2014 Tablas de Cálculos de r…
+oacute;n Normativa Tablas de Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2014 e información adicional relacionada con dicho tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

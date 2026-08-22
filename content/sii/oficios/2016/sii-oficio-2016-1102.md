@@ -6,56 +6,62 @@
 - Año: 2016
 - Fecha: 2016-09-06
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2404.htm
-- Hash SHA-256: 356d2b0990d3134063ef8a534f49c8db15213eb5de6f1a06d39c1b826cdf3bf3
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2497.htm
+- Hash SHA-256: 9babb12781eea3e48dcc8f9c45880b9c2871dbbf47532234b90c13bed3043782
 
 ## Resumen
 
-tyle='margin-bottom:3px;'> Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 3, Art. 14, Art. 15, N° 4 &ndash; Ley N° 20.780, de 2014, Art. 6 &ndash; Circular N° 39, de 1991 &ndash; . (Ord. Nº 2497, de 06-09-2016) | Word Solicita confirmar criterios sobre aplicación del artículo 3° de la Ley sobre Impuesto de Timbres y Estampillas en operación que indica. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Res. Exenta N° 137, de 19…
+contrato de leaseback. Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 3, Art. 14, Art. 15, N° 4 &ndash; Ley N° 20.780, de 2014, Art. 6 &ndash; Circular N° 39, de 1991 &ndash; . (Ord. Nº 2497, de 06-09-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":46,"year":1979}
-- {"type":"circular","number":58,"year":1978}
+- {"type":"circular","number":39,"year":1991}
+- {"type":"oficio","number":1102,"year":2000}
 
 ## Texto extraído
 
-TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – RES. EXENTA N° 137, DE 1975 – OFICIOS N° 1599, DE 2014 Y N° 2633, DE 2015. (ORD. N° 2404, DE 26.08.2016)
-SOLICITA CONFIRMAR CRITERIOS RELATIVOS A EXENCIÓN CONTEMPLADA EN EL ARTÍCULO 24 N° 6 DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
-Se ha solicitado a este Servicio confirmar los criterios que señala relativos a la exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas. I ANTECEDENTES
-De acuerdo a la presentación y los antecedentes acompañados, su representada, XXXX (en adelante “XXXX”), es una empresa de giro financiero que realiza, entre otras, operaciones de factoring doméstico, adquiriendo cuentas por cobrar documentadas con facturas, letras de cambio, pagarés u otros documentos, con o sin responsabilidad para el cedente, adelantando en algunos casos el valor de dichos documentos, otorgando financiamiento con garantía constituida sobre los referidos documentos .
-El financiamiento de su representada proviene fundamentalmente de la suscripción de créditos y pagarés con bancos, fondos de inversión, sociedades de inversión y personas naturales que entregan dineros a interés.
-Luego cita el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas y los requisitos que establece para acogerse a la exención, concluyendo que las operaciones de XXXX cumplen con dichos requisitos.
-Conforme a lo expresado, solicita se confirme que:
-a) XXXX califica como institución financiera
-b) Los documentos que dan cuenta de mutuos y pagarés otorgados con ocasión de la captación de fondos de inversionistas locales se encuentran expresamente señalados en la Resolución N° 137 de 1975,
-c) Los bancos mutuantes, fondos de inversión, sociedades de inversión y personas naturales respecto del financiamiento que conceden son inversionistas locales para efectos de la exención del Impuesto de Timbres y Estampillas en comento.
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 3, ART. 14, ART. 15, N° 4 – LEY N° 20.780, DE 2014, ART. 6 – CIRCULAR N° 39, DE 1991 – OFICIO N° 1102, DE 2000. (ORD. N° 2497, DE 06.09.2017)
+SOLICITA CONFIRMAR CRITERIOS SOBRE APLICACIÓN DEL ARTÍCULO 3° DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS EN OPERACIÓN QUE INDICA.
+Se ha solicitado a este Servicio confirmar ciertos criterios sobre la aplicación del artículo 3° de la Ley sobre Impuesto de Timbres y Estampillas, contenida en el decreto ley N° 3.475 de 1980, en el caso de créditos destinados a financiar operaciones de importación otorgados bajo la modalidad que indica. I ANTECEDENTES
+De acuerdo a su presentación, el Banco XXXX (en adelante, el “banco”) está desarrollando un producto para el financiamiento de importaciones, en los siguientes términos:
+a) El cliente solicita un crédito en pesos o UF, señalando que el propósito del crédito es financiar una importación e instruyendo que los pesos chilenos que obtenga en virtud del crédito, se destinen a comprar divisas y que con ellas se cancele al proveedor extranjero.
+
+b) Aprobado el crédito, el banco compraría las divisas correspondientes y, de acuerdo con las instrucciones del importador, pagaría directamente al proveedor, antes de la importación de las mercaderías al país o de su ingreso a la zona franca. Así se evitaría el riesgo económico del cliente respecto de la variación del tipo de cambio o el costo de contratar instrumentos financieros destinados a cubrir ese riesgo.
+c) El crédito se documentaría con un pagaré a plazo con vencimiento en una fecha posterior a la de aceptación del respectivo documento de destinación aduanera o de ingreso a zona franca de la mercadería.
+Tras citar el texto del artículo 3° de la Ley sobre Impuesto de Timbres y Estampillas y analizar los elementos que, en su concepto, configuran el hecho gravado, la base imponible, tasa y devengo del impuesto, solicita confirmar los siguientes criterios:
+a) La importación de mercancías a través de un crédito otorgado al importador en pesos moneda local reúne los elementos constitutivos del hecho gravado establecido en el artículo 3° citado, toda vez que las partes suscriben un documento (contrato de crédito o pagaré) necesario para efectuar una importación y dicho crédito se pagará con posterioridad a la aceptación del documento de internación aduanera.
+b) Que la base imponible del impuesto sustitutivo será el monto de la cuota o del crédito en pesos moneda nacional, excluidos los intereses.
+
+c) Que la tasa aplicable será el porcentaje resultante de multiplicar 0.033% por cada mes o fracción de mes que medie entre la fecha de aceptación o ingreso del bien importado y la fecha de pago de la cuota o del crédito en pesos moneda nacional.
+d) Que el banco deberá enterar el impuesto dentro del mes siguiente al mes de devengamiento, esto es, dentro del mes siguiente a aquel en que se paga la cuota o el crédito.
+En su opinión, una interpretación en sentido contrario vulneraría el principio de no discriminación en materia tributaria contenido en el N° 20 del artículo 19 de la Constitución Política de la República, porque ante una misma situación, se perjudicaría a quien, con el objeto de protegerse de la fluctuación de tipo de cambio, decide contraer una obligación en moneda nacional.
 II ANÁLISIS
-El artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas dispone que sólo estarán exentos de los impuestos que establece ese decreto ley, los documentos que den cuenta de los actos, contratos o convenciones que a continuación señala, dentro de los cuales, el N° 6 contempla los documentos otorgados por bancos o instituciones financieras en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones. La norma agrega que la lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile.
-En cumplimiento de la citada disposición, la Resolución N° 137, de 1975, estableció los documentos exentos de impuesto de acuerdo con la misma norma, instruyendo que respecto de ellos debían concurrir los siguientes requisitos copulativos:
-a) Que el emisor del documento sea una institución financiera.
-b) Que el o los documentos incidan en operaciones de captación de capitales de ahorrantes o inversionistas.
-c) Que el o los documentos den cuenta de operaciones de crédito de dinero.
-d) Que el o los documentos sean necesarios para la realización de dichas operaciones de crédito de dinero.
-Dicho lo anterior y en lo que respecta específicamente a los criterios que solicita confirmar, se puede señalar lo siguiente.
-En primer lugar, y sobre el concepto de “institución financiera” la Superintendencia de Bancos e Instituciones Financieras, mediante Carta Circular N° 46 de 1979, ha señalado que es una expresión genérica que comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último cuando expresamente está facultada por la ley para ello.
-Atendido el concepto genérico de “institución financiera” empleado por la Superintendencia del ramo, este Servicio ha reconocido tal calidad a diferentes contribuyentes, siempre que acrediten cumplir con los elementos del concepto de “institución financiera” ya citado, cuestión de hecho entregada a las instancias de fiscalización correspondientes .
-En el presente caso, si bien la peticionaria no es de aquellas instituciones que por ley se encuentre sujeta a la fiscalización de la Superintendencia y por la misma razón no cuenta con un pronunciamiento previo de la Superintendencia que le confiera el carácter de “institución financiera”, cumpliría los elementos básicos del concepto genérico contenido en la Carta Circular N° 46 de 1979, esto es, tratarse de una empresa que habitualmente se dedica a prestar dinero o a conceder créditos con sus propios fondos.
-Luego, si bien este Servicio no puede calificar a priori y en forma indefinida la calidad de “institución financiera”, la exención contenida en el N° 6 del artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas, será procedente en la medida que – junto con las demás exigencias legales – la peticionaria efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con sus propios fondos; cuestión de hecho que debe ser verificada en la instancia de fiscalización correspondiente.
-En segundo lugar, y en relación con los documentos otorgados con ocasión de la captación de fondos de inversionistas locales expresamente señalados en la Resolución N° 137, de 1975, cabe señalar que efectivamente se enumeran el contrato de mutuo y los pagarés (resolutivo 1°, letras b y d),
-Al respecto, en cuanto al requisito de incidir los documentos otorgados en operaciones de “captación” de capitales, este Servicio se ha remitido al concepto amplio contenido en la Recopilación Actualizada de Normas, Capítulo 2-1, de la Superintendencia de Bancos e Instituciones Financieras, en el sentido que “El concepto de captación tiene en la legislación vigente una acepción amplia, de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del público, sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma. Así, por ejemplo, constituyen captaciones la recepción de depósitos en cuentas corrientes bancarias o en cuentas de ahorro, los depósitos a la vista o a plazo en general, la emisión y colocación en el mercado de bonos o letras de crédito y las ventas con pacto de retrocompra de títulos de crédito.”
-En tercer lugar, se señala que los “inversionistas locales” no sólo pueden ser bancos, sino también otras personas jurídicas y naturales que colocan dinero con la finalidad de percibir un interés. En este sentido se pronunció la Circular N° 58 de 1978, concluyendo que inversionista es genéricamente una persona o institución que hace una inversión de caudales con el objeto de obtener o redituar un interés o beneficio pecuniario. Luego, se comparte que los bancos mutuantes, fondos de inversión, sociedades de inversión y personas naturales respecto del financiamiento que conceden pueden calificar como inversionistas locales para efectos de la exención en análisis.
-Finalmente, en cuanto a la exigencia que los documentos sean necesarios para la realización de operaciones de crédito de dinero, cabe recordar que, como lo ha señalado este Servicio previamente, se excluyen aquellas operaciones de crédito que no reúnen el carácter de indispensables para la institución financiera porque no se relacionan con la finalidad de captar ahorros y efectuar intermediación financiera, como es la obtención de créditos para efectos de su financiamiento.
+Para efectos de una acertada inteligencia del precepto, forzoso es citar a continuación el texto literal del artículo 3° de la Ley sobre Impuesto de Timbres y Estampillas:
+“En reemplazo de los impuestos establecidos en las demás disposiciones de esta ley, estará afecta al impuesto único establecido en este artículo la documentación necesaria para efectuar una importación o para el ingreso de mercaderías desde el exterior a zonas francas, bajo el sistema de cobranzas, acreditivos, cobertura diferida o cualquier otro en que el pago de la operación o de los créditos obtenidos para realizarla se efectúe con posterioridad a la fecha de aceptación del respectivo documento de destinación aduanera o de ingreso a zona franca de la mercadería.
+Este impuesto tendrá una tasa de 0,066% que se aplicará por cada mes o fracción de mes que medie entre la fecha de aceptación o ingreso y aquella en que se adquiera la moneda extranjera necesaria para el pago del precio o crédito, o la cuota de los mismos que corresponda, y se calculará sobre el monto pagado por dicha adquisición, excluyendo los intereses. En todo caso, la tasa que en definitiva se aplique no podrá exceder del 0,8%.
+Para los efectos del presente artículo, se incluirán entre los documentos necesarios para efectuar una importación o para el ingreso a zona franca, todos aquellos que se emita o suscriban con ocasión del pago o la constitución de garantías a favor del exportador extranjero o de los bancos que intervienen en la operación.”
+Conforme lo dispuesto en la parte final del inciso primero se sigue que, como requisito del impuesto sustitutivo, el pago de la operación o de los créditos obtenidos para realizarla se efectúe “con posterioridad” a la fecha de aceptación del respectivo documento de destinación aduanera o de ingreso a zona franca de la mercadería.
 
+Lo anterior, a su turno, es consistente con el hecho que, de acuerdo al inciso segundo, la tasa se aplique por cada mes o fracción de mes que medie entre la “fecha de aceptación o ingreso” y aquella en que “se adquiera la moneda extranjera necesaria” para el pago del precio o crédito, o la cuota de los mismos que corresponda.
+En consecuencia, de una interpretación armónica y sistemática de los incisos primero y segundo de la norma en comento se sigue que, para operar el impuesto sustitutivo, deben darse los siguientes elementos de orden temporal:
+a) En el tiempo uno, debe haber aceptación del respectivo documento de destinación aduanera o de ingreso a zona franca de la mercadería.
+b) A continuación, y en el tiempo dos, se debe “adquirir” la moneda extranjera necesaria para pagar el precio o crédito o la cuota de los mismos que corresponda.
+Sobre este segundo elemento, si bien es posible – para efectos de la exención – pagar lo adeudado al exterior con “recursos propios” (de suerte que, en estricto rigor, no se “adquiere” moneda extranjera), igualmente se ha exigido que ese pago con recursos propios se verifique con posterioridad al momento descrito en la letra a) precedente, cuestión que no se verifica en su presentación.
+De no cumplirse esos hechos operativos, en el orden temporal dispuesto por la ley, no se verifica el impuesto sustitutivo ni es posible aplicar consecuencialmente la tasa por cada mes o fracción de mes que medie entre las fechas indicadas.
+
+Considerando que en el caso analizado la moneda extranjera necesaria para la operación se adquiere antes de ocurrida la importación, precisamente para evitarle al cliente las vicisitudes propias de las variaciones del tipo de cambio, no se verifican los elementos de orden temporal exigidos por la norma de suerte que no procede su aplicación.
+Finalmente, se debe tener presente lo dispuesto en los artículos 14, inciso final, y 15 N° 4° de la Ley sobre Impuesto sobre Timbres y Estampillas.
+De acuerdo al primer precepto legal, cuando el impuesto del artículo 3º deba ser ingresado en arcas fiscales por el banco o entidad que venda la moneda extranjera, el tributo se “devengará” al momento de dicha venta. En los demás casos, el impuesto “se devengará” cuando se efectúe el pago al exterior.
+A su turno, conforme al artículo 15 N° 4, salvo norma expresa en contrario los impuestos de la referida ley “deberán pagarse” dentro del mes siguiente a aquel en que se “devengue” el impuesto del artículo 3º.
+Luego, concediendo que la moneda extranjera se “venda” al momento inmediatamente posterior de otorgarse el crédito al importador en pesos moneda local (fijando el tipo de cambio), en ese mismo momento debiera entenderse devengado el impuesto (artículo 14, inciso final), de suerte que su pago debiera enterarse dentro del mes siguiente del devengo (artículo 15, N° 4).
+Sin embargo, en el caso planteado, ello tampoco ocurre si el banco entiende que debe enterar el impuesto dentro del mes siguiente a aquel en que se paga la cuota o el crédito.
+De este modo, atendido que el hecho generador del devengo y la época de su pago son elementos fijados por la propia ley, su configuración no queda sujeta al arbitrio de las partes. Asimismo, de la estructura del impuesto sustitutivo dispuesta en el artículo 3° de la Ley sobre Impuesto de Timbres y Estampilla, no se vislumbra un vicio de entidad suficiente para vulnerar el principio de igualdad.
 III CONCLUSIÓN
-De acuerdo con lo anteriormente expuesto, y respecto de las materias específicamente consultadas, se señala que:
-a) En principio, XXXX puede considerarse una institución financiera, en la medida que acredite ante las instancias fiscalizadoras que cumple los requisitos señalados en el análisis precedente.
-b) Los contratos de mutuo y pagarés, en la medida que incidan en la captación de capitales y den cuenta de operaciones de crédito de dinero, son documentos que pueden acogerse a la exención en comento (Resolución N° 137 de 1975).
-c) Dentro del concepto de “inversionistas locales”, pueden considerarse los bancos y otro tipo de entidades o personas naturales que colocan recursos con el objeto de percibir un interés.
+En razón de lo expuesto precedentemente, no es posible aplicar el artículo 3° de la Ley sobre Impuesto de Timbres y Estampillas como tampoco confirmar los criterios señalados en su presentación respecto de la operación descrita en el antecedente.
 
-VICTOR VILLALON MENDEZ
-DIRECTOR (S)
+FERNANDO BARRAZA LUENGO
+DIRECTOR
 
-Oficio N° 2404, de 26.08.2016
+Oficio N° 2497, de 06.09.2016
 Subdirección Normativa
-Dpto. de Técnica tributaria.
+Dpto. de Técnica Tributaria

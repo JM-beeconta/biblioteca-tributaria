@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 51
 - Año: 2015
-- Fecha: 2015-06-23
+- Fecha: 2015-06-22
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu51.pdf
 - Hash SHA-256: 274f1bc05d245ab71967829002aad464a09730d4e8cecad5569fcf605149ed3c
 
 ## Resumen
 
-N° 52 del 23 de Junio del 2015 Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas, contenido en el artículo 8° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario. Fuente: Técnica Tributaria Imparte instrucciones sobre la obligación de los órganos que indica de remitir información financiera y de otro tipo a…
+e;cnica Tributaria Imparte instrucciones sobre la obligación de los órganos que indica de remitir información financiera y de otro tipo al Servicio de Impuestos Internos conforme al nuevo artículo 84 bis del Código Tributario incorporado por la Ley N° 20.780. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

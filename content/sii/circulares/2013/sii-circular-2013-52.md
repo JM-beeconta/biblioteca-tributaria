@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:10px;'> Fuente: Impuestos Directos Circular N° 53 del 13 de Noviembre del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2013 y el 9 de diciembre del año 2013. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 51 del 08 de Noviembre del 2013 Modifica…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

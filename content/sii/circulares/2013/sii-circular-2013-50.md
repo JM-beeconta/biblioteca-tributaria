@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 50
 - Año: 2013
-- Fecha: 2013-11-08
+- Fecha: 2013-10-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu50.pdf
 - Hash SHA-256: 322ae14197d49f22078206ac9963d86319b3f993461c562381014597443b3f55
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 51 del 08 de Noviembre del 2013 Modifica Fuente: Subdirección de Fiscalización Circular N° 50 del 23 de Octubre del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas noviembre 2013 Fuente: Subdirección de Fiscalización Circular N° 49 del 11 de Octubre del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2013 y el 9 de noviembre del año 2013. Fuente: Oficina de Gestión Normativa <a href='https://…
+scalización Tabla de Cálculos de Reajustes, Intereses y Multas noviembre 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

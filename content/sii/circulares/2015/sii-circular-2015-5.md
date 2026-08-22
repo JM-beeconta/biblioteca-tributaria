@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bottom:10px;'> Fuente: Oficina Gestión Normativa Circular N° 6 del 15 de Enero del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2015 y el 9 de febrero del año 2015. Fuente: Oficina Gestión Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario Correspondiente al año tributario 2015. Fuente: Oficina Gestión Normativa Circular N° 4…
+oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario Correspondiente al año tributario 2015. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

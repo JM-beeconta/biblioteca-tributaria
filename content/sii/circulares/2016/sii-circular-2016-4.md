@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 4
 - Año: 2016
-- Fecha: 2016-02-02
+- Fecha: 2016-01-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu4.pdf
 - Hash SHA-256: c336aba1b42ead738dff94d44a8f63123c76c0edc2a1cde20104d84395753f9d
 
 ## Resumen
 
-:0px;'> Circular N° 5 del 02 de Febrero del 2016 Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2016 Fuente: Subdirección de Fiscalización Circular N° 3 del 13 de Enero del 2016 Informa nuevos límites máximos imponibles para los efectos previsiona…
+astro y Tasaciones Tabla de Cálculos de Reajustes, Intereses y Multas febrero 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

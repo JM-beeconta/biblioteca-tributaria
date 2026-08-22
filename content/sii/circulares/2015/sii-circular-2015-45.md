@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 45
 - Año: 2015
-- Fecha: 2015-06-11
+- Fecha: 2015-06-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu45.pdf
 - Hash SHA-256: 615db4b657fbd642b9803ab76cff21e1590e242646389509a915f4e8f5feb761
 
 ## Resumen
 
-nto de Asesoría Jurídica Circular N° 46 del 11 de Junio del 2015 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014, a los artículos 41 A, 41 B, 41 C y 41 D, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2015 y el 9 de julio del año 2015. Fuente: Oficina de Gestión Normativa Circular N° 44 del 10 de Junio del 2015 Tablas del Impuesto Único de Seg…
+Impuestos Directos Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2015 y el 9 de julio del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

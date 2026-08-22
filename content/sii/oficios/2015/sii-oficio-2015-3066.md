@@ -6,43 +6,70 @@
 - Año: 2015
 - Fecha: 2015-07-29
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1942.htm
-- Hash SHA-256: 4bca79311822d7d4a21fbd4cd6d75df5c7617f2226ddbe71bfa6f6b45d78abe0
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1948.htm
+- Hash SHA-256: 86ef1c65662dcc35c2d3d79b9fbf8ddfa528c9b359d439c0665b016505c23eb5
 
 ## Resumen
 
-rt. 53° &ndash; Circular N° 94, de 2001 &ndash; Resolución Exenta N° 6080, de 1999 &ndash; . (Ord. Nº 1948, de 29-07-2015) | Word Diversas consultas en materia de Impuesto al Valor Agregado y emisión de facturas. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12°, letra B), N°10 &ndash; Decreto Ley N° 600, de 1974 &ndash; Circular N° 48, de 1978. (Ord. Nº 1942, de 28-07-2015) | Word Se ha recibido en esta Dirección Nacional copia de Resolución de Exención de IVA a impor…
+Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 13°, N°3, Art. 27° bis, Art. 53° &ndash; Circular N° 94, de 2001 &ndash; Resolución Exenta N° 6080, de 1999 &ndash; . (Ord. Nº 1948, de 29-07-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":48,"year":1978}
+- {"type":"circular","number":94,"year":2001}
+- {"type":"circular","number":68,"year":1975}
+- {"type":"oficio","number":3066,"year":1997}
+- {"type":"oficio","number":1530,"year":1996}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12°, LETRA B), N°10 – DECRETO LEY N° 600, DE 1974 – CIRCULAR N° 48, DE 1978. (ORD. N° 1942, DE 28.07.2015)
-SE HA RECIBIDO EN ESTA DIRECCIÓN NACIONAL COPIA DE RESOLUCIÓN DE EXENCIÓN DE IVA A IMPORTACIÓN DE BIENES DE CAPITAL.
-I.- ANTECEDENTES: Fue recibida en el Ministerio de Hacienda, para su firma, la Resolución Exenta N° xx de 2015, del Ministerio de Economía, Fomento y Turismo mediante la cual se declara exenta del Impuesto al Valor Agregado, la importación del bien de capital que especifica como “Parque Solar Fotovoltaico – XXXX”, Código xxxx, de la empresa Planta Solar TTTT.
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 13°, N°3, ART. 27° BIS, ART. 53° – CIRCULAR N° 94, DE 2001 – RESOLUCIÓN EXENTA N° 6080, DE 1999 – OFICIO N° 3066, DE 1997. (ORD. N° 1948, DE 29.07.2015)
+DIVERSAS CONSULTAS EN MATERIA DE IMPUESTO AL VALOR AGREGADO Y EMISIÓN DE FACTURAS.
+I.- ANTECEDENTES:
 
-Al respecto, dicho Ministerio solicita tomar conocimiento de la referida resolución y de sus antecedentes, y dar a conocer los comentarios u observaciones que pudieren merecer, de conformidad a lo dispuesto en la letra p), del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos.
-II.- ANÁLISIS.
-El Art. 12°, letra B), N° 10, del Decreto Ley N° 825, de 1974, señala que están exentas del IVA las importaciones de especies efectuadas por los inversionistas y las empresas receptoras por el monto de la inversión efectivamente recibida en calidad de aporte, siempre que consistan en bienes de capital que formen parte de un proyecto de inversión extranjera formalmente convenido con el Estado de acuerdo a las disposiciones del Decreto Ley N°600, de 1974, o en bienes de capital que no se produzcan en Chile en calidad y cantidad suficiente, que formen parte de un proyecto similar de inversión nacional, que sea considerado de interés para el país, circunstancias todas que serán calificadas por resolución fundada del Ministerio de Economía, Fomento y Turismo, refrendada además por el Ministerio de Hacienda. Los bienes de capital deberán estar incluidos en una lista que el Ministerio de Economía, Fomento y Turismo fijará por Decreto Supremo.
-Según las instrucciones impartidas por este Servicio mediante la Circular N°48, del 21.04.1978, la exención aludida es de tipo personal, beneficiando a los inversionistas extranjeros o nacionales que importen bienes de capital incluidos en el listado actualmente contenido en el Decreto Supremo N° 181 del 30.12.2011, del Ministerio de Economía, Fomento y Turismo.
-En el caso de inversionistas nacionales el artículo 12, letra B), N° 10, requiere la concurrencia de los siguientes requisitos:
-(a) Los bienes de capital que sean importados no se produzcan en Chile en calidad y cantidad suficiente.
-(b) Dichos bienes formen parte de un proyecto de inversión nacional, similar a otro de inversión extranjera acogido al Decreto Ley N°600, de 1974, destinado a producir bienes o servicios de la misma especie o características semejantes.
+La empresa denominada “XXXX”, se encuentra desarrollando un proyecto turístico en la Región TTT y solicita un pronunciamiento oficial de este Servicio sobre la correcta aplicación de la normativa de IVA en las situaciones que se indican más adelante, las cuales se responderán a continuación de cada consulta.
+II.- ANÁLISIS Y CONCLUSIONES
 
-En relación a este requisito este Servicio ha interpretado que la disposición legal es clara en el sentido de exigir como requisito para que proceda la exención de IVA para las importaciones de bienes de capital que efectúen inversionistas nacionales, que tales importaciones formen parte de un proyecto similar a un proyecto extranjero formalmente convenido con el Estado de acuerdo a las disposiciones del Estatuto del Inversionista Extranjero.
-Tal condición se cumple cuando ambos proyectos tengan por objeto producir bienes o servicios de similares características, de modo que estén llamados a competir entre sí, ya que el propósito de la exención aludida es equiparar el tratamiento tributario frente al IVA del proyecto nacional con el proyecto extranjero que esté gozando de pleno derecho de la liberación de este impuesto, con lo cual se evita discriminar en contra del inversionista nacional.
-En consecuencia, es condición indispensable para que un inversionista nacional pueda obtener la exención aludida el que exista ya aprobado un proyecto de inversión extranjera destinado a producir bienes o servicios de la misma especie o características semejantes que impliquen una alternativa para el consumidor o usuario en el rubro respectivo.
-(c) La inversión sea considerada de interés para el país.
-(d) Los bienes de capital que se pretende importar liberados deben estar incluidos en la lista fijada al efecto por Decreto Supremo emanado del Ministerio de Economía, Fomento y Turismo.
-No obstante lo señalado, se informa a Ud. que tanto la calificación de los requisitos necesarios para la concurrencia de la exención, como su posterior refrendación deben ser efectuados por autoridades distintas de este Servicio, quien carece de competencia para pronunciarse sobre el particular, según ya se ha señalado en forma reiterada .
-III.- CONCLUSIÓN:
-La facultad de calificar la concurrencia de los requisitos necesarios para el otorgamiento de la franquicia del Art. 12°, letra B), N°10 del Decreto Ley N°825, de 1974, por disposición expresa de la citada norma, recae en el Ministerio de Economía, Fomento y Turismo, cuya decisión, de ser afirmativa, debe ser refrendada por el Ministerio de Hacienda. Por lo anterior, este Servicio carece de competencia para pronunciarse sobre el cumplimiento de los requisitos legales para acceder al beneficio tributario solicitado, por tratarse de un asunto que por disposición expresa del Decreto Ley N°825, de 1974, escapa de la esfera de sus atribuciones.
+A. Reembolso de crédito fiscal acumulado en adquisición de activo fijo
+La empresa efectuó desde hace un tiempo una inversión consistente en la construcción de un lodge y pretende acogerse a la devolución del crédito IVA remanente por este concepto, en virtud del Art. 27° bis, del D.L. N° 825. La empresa sólo genera ventas afectas a IVA y ventas exentas a extranjeros no residentes, que igualmente dan derecho a crédito IVA.
+Se solicita confirmar que la restitución de la devolución que se obtenga deberá hacerse mediante los pagos efectivos en Tesorería por concepto de IVA, generado en las operaciones normales que se efectúen a contar del mes siguiente, es decir, el impuesto que resulte a pagar después de haber efectuado la deducción normal entre débitos y créditos de cada período.
+Respecto de esta consulta, cabe señalar que de acuerdo con lo dispuesto en la primera parte del inciso segundo del artículo 27 bis, del D.L. 825, los contribuyentes que obtuvieren devoluciones de acuerdo al inciso primero de la señalada disposición “restituirán las sumas recibidas mediante los pagos efectivos que realicen en Tesorería por concepto del Impuesto al Valor Agregado, generado en las operaciones normales que efectúen a contar del mes siguiente del período al cual esas sumas corresponden”. Agrega dicho inciso que en el caso de producirse en cualquiera de los períodos tributarios siguientes operaciones no gravadas o exentas, se deberá efectuar una restitución adicional calculada en la forma señalada en el referido artículo.
+De lo anterior se desprende que la restitución de las sumas recibidas debe efectuarse mediante los pagos efectivos que se realicen en Tesorería por concepto de Impuesto al Valor Agregado, es decir, el impuesto que resulte a pagar después de haber efectuado la deducción normal entre débitos y créditos del período.
+Las instrucciones sobre esta materia fueron impartidas en Circular 94, de 19/12/2001.
+B. Abonos por concepto de reservas
+
+La empresa suele recibir abonos de dinero por concepto de reservas de alojamiento, que están sujetas a devolución parcial o total según las normas de anulación de reservas vigentes en cada caso. Estos abonos pueden provenir de clientes extranjeros o nacionales y se contabilizan en el pasivo exigible de la empresa hasta su facturación al confirmarse la prestación del servicio respectivo.
+
+Se solicita aclarar que dichos abonos no deben entenderse como “prepagos” a los que se refiere el Ord. N° 3066, del 22/12/1997, que obligarían a facturar el monto recibido antes de prestar el servicio respectivo, ya que dada su naturaleza provisoria no pueden considerarse “remuneración”. A mayor abundamiento, si se trata de clientes extranjeros, la emisión de una factura de exportación exige acreditar su ingreso al país y su carácter de extranjero no residente mediante la exhibición de su pasaporte.
+Al respecto, cabe señalar que las sumas recibidas por concepto de reservas, cuya finalidad es asegurar al turista que la efectúa, la disponibilidad de alojamiento para determinadas fechas, no se encuentran gravadas con IVA, en la medida que éstas no remuneren el servicio de alojamiento. Sin embargo, si dichas sumas son abonadas al valor final del servicio, éstas pasaran a formar parte del precio, debiendo emitirse en ese momento la respectiva documentación tributaria.
+
+C. Servicios en el extranjero vendidos por empresas chilenas
+
+Si una agencia de turismo vende un programa que corresponde a servicios prestados en el extranjero, además de transporte desde Chile al destino, emite a su cliente una factura exenta de IVA por cuenta del prestador extranjero. El Ord. N° 3066, de 1997, así como el Ord. N° 212, de 2013 (sic) y el Ord. 2602, de 1985, se refieren a esta materia e indican la forma de determinar la base imponible del Impuesto IVA, separando en una facturación exenta por cuenta del prestador extranjero los servicios otorgados por este último.
+Se solicita confirmar que, siendo TTT una sociedad que opera con el giro de agencia de viajes, entre otros, vende un programa que contiene servicios prestados por ella misma en Chile, además de otros servicios que serán prestados por otros operadores en el extranjero, le corresponde emitir a su cliente una factura mixta: una parte exenta de IVA, por cuenta del operador extranjero, y el saldo afecto, que incluye prestaciones otorgadas por la propia empresa y comisiones por el programa completo.
+Se solicita además indicar el procedimiento a aplicar en caso de que el cliente sea extranjero sin R.U.T., ya que normalmente la factura exige indicar el R.U.T. del cliente.
+Sobre el particular, cabe manifestar que resulta clara la aplicación del criterio contenido en el Ord. N° 3066, de 1997, respecto de los servicios prestados directamente por la sociedad, en el sentido que la base imponible en este caso la constituirá el precio cobrado por dichas prestaciones, debiendo emitir por ese concepto el documento tributario correspondiente.
+Sin embargo, respecto de aquellos servicios ofrecidos por la agencia pero prestados por otros operadores en el extranjero, el contribuyente estaría actuando como un mero mandatario en la venta de dichos servicios, por lo que no procede emitir una factura exenta a sus clientes por estas prestaciones, ya que no es el contribuyente quien las realiza. En tal caso, se estima que para acreditar la recepción de dichas sumas, procede emitir cualquier otro documento que se estime conveniente y que acredite fehacientemente la operación que se está realizando.
+Por las comisiones percibidas por la operación, las cuales se encuentran afectas a IVA, debe emitir la factura correspondiente.
+En relación a la documentación a emitir por la agencia de viajes y la exigencia de indicar en el caso de facturas el R.U.T. del beneficiario del servicio, cabe manifestar que conforme a lo dispuesto en el Art. 53°, del D.L. N° 825, procede emitir factura, según la letra a), de dicha norma legal, sólo respecto de las operaciones que el contribuyente realice con otros vendedores, importadores y prestadores de servicios. En los casos no contemplados en dicha letra la norma indica en su letra b) que procede la emisión de una boleta.
+
+En el caso bajo análisis, considerando que el turista extranjero no tiene y/o no acredita gozar de la calidad de vendedor, importador o prestador de servicios, procede la emisión de una boleta, la cual puede contener además de los requisitos mínimos exigidos en el Art. 69°, letra B), del D.S. de Hacienda N° 55, de 1977, la identificación del turista nacional o extranjero, el detalle de los servicios prestados, la forma de pago, etc., u otra mención que estime conveniente el emisor.
+
+D. Transporte de turistas por una empresa de transporte
+
+El transporte de pasajeros por parte de empresas navieras, entre otras, está exento de IVA (Art. 13, N° 3, del D.L. N° 825). El Oficio N° 1530, de 1996 aclara que este transporte puede ser efectuado mediante “vehículos propios o que se hallen a su servicio”. También ha dictaminado que una empresa de turismo puede contratar el servicio de transporte para sus turistas con una empresa de transporte público (aéreo, terrestre, marítimo o lacustre), caso en el cual recibirá una factura exenta de IVA por ese servicio de transporte, la que dará derecho a rebajar dicho importe de la base imponible de la factura final de la empresa de turismo al turista.
+La empresa de Turismo XXXX posee una nave que efectúa viajes regulares en un lago de TTT. Mediante un contrato de asociación, dicha nave está a disposición de su filial denominada “YYYY”, que es una empresa de transporte público de pasajeros, que utiliza la nave como medio de transporte público para viajeros y pobladores del lago, con un itinerario fijo entre dos puertos del mismo y sujeto a horarios predeterminados. En el trayecto entre estos dos puertos no se prestan servicios turísticos ni existen atractivos paisajísticos especiales. Por su parte, la empresa TTT solicita a la empresa YYYY el traslado de sus clientes turistas entre los mismos dos puertos del lago junto con los pasajeros de ésta última, en su itinerario habitual y a partir del puerto de llegada, XXXX le ofrece a sus turistas una excursión en la misma nave a un importante glaciar, con guía e informaciones turísticas.
+Se solicita confirmar si a la empresa TTT le corresponde facturar a XXXX, exento de IVA, el recorrido de transporte de los turistas entre los dos puertos del lago. XXXX, por lo tanto, sólo emitirá a sus clientes turistas factura o boleta afecta correspondiente a la excursión de turismo y les entregará por cuenta de TTT una simple tarjeta de embarque para cubrir el tramo entre los dos puertos.
+
+Al respecto, cabe manifestar que de acuerdo a las instrucciones contenidas en la Circular Nº 68, de 1975, sobre la exención que beneficia a las empresas de movilización colectiva respecto del transporte de pasajeros, esta exención también comprende el transporte de turistas. Por lo tanto, si la empresa XXXX es quien contrató los servicios, procede entonces que TTT emita la factura a nombre de aquella. De ser así, el Oficio N° 3066, de 1997, estima procedente que se desglose el valor de dicho transporte del precio de la prestación del servicio de turismo, para determinar la base imponible del tributo.
+
+E. Tratamiento de pasajeros liberados
+Ocasionalmente se incluyen en el pasaje del barco a personas invitadas o liberadas de pago, miembros del Cuerpo de Carabineros u otros, que pueden o no participar de la excursión al glaciar, sin que ello irrogue costo adicional alguno a la operación de la nave.
+Se solicita aclarar que, al no existir servicio remunerado, no se requiere de la emisión de factura o boleta.
+La emisión de facturas o boletas, ya sea por operaciones gravadas u operaciones no gravadas y/o exentas de aquellas establecidas en la Res. Ex. N° 6080, de 1999, tienen como fundamento el control de operaciones que pueden estar afectas a un determinado tributo. Para ello, dichas operaciones deben tener una base imponible donde ese tributo pueda aplicarse. Bajo esta perspectiva, no resulta procedente emitir una factura o boleta por el servicio prestado cuando no se percibe por éste remuneración alguna.
 
 JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Oficio N° 1942, de 28.07.2015
+Oficio N° 1948, de 29.07.2015
 Subdirección Normativa
-Dpto. de Impuestos Indirectos.
+Dpto. de Impuestos Indirectos

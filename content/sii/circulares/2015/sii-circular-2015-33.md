@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2015
-- Fecha: 2015-05-15
+- Fecha: 2015-05-13
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu33.pdf
 - Hash SHA-256: 9d9853c49fe37f1fc1f1e36b9249e6f0bd0eaf9b276f5d3ef0c90638aa30453a
 
 ## Resumen
 
-Circular N° 34 del 15 de Mayo del 2015 Imparte instrucciones acerca de las modificaciones introducidas por las Leyes 20.420 y 20.780, al inciso primero del artículo 11 y por la Ley 20.780, al artículo 13 del Código Tributario. Fuente: Subdirección Jurídica Imparte instrucciones respecto de los plazos que posee el Servicio para las actuaciones de fiscalización en las materias que indica. Fuente: Departamento de Asesoría Jurídica Circular N° 32 del 12 de Mayo del 2015 Valor de la Unidad de Fomento para los días comp…
+;n Jurídica Imparte instrucciones respecto de los plazos que posee el Servicio para las actuaciones de fiscalización en las materias que indica. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

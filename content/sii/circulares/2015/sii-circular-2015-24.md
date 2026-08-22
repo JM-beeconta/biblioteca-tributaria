@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 24
 - Año: 2015
-- Fecha: 2015-04-08
+- Fecha: 2015-03-31
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu24.pdf
 - Hash SHA-256: 1e1b26257c1e8002817a10a1e9a723a3e17aa2d87e07a0ce2ad511015b994b1e
 
 ## Resumen
 
-Circular N° 25 del 08 de Abril del 2015 Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a Declarar en el año tributario 2015, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa Tabla de cálculos de reajustes, intereses y multas abril 2015 Fuente: Subdirección de Fiscalización Circular N° 23 del 31 de Marzo del 2015 Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servic…
+oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas abril 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

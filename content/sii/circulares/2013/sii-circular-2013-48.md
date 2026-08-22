@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e: Subdirección de Fiscalización Circular N° 49 del 11 de Octubre del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2013 y el 9 de noviembre del año 2013. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 47 del 26 de Septiembre del 2013 Instruye publicació…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 18
 - Año: 2013
-- Fecha: 2013-04-15
+- Fecha: 2013-04-10
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu18.pdf
 - Hash SHA-256: 74457fc61478fe46ff25bca1a59c61e34654a6db76eb389ceb4a636536702efb
 
 ## Resumen
 
-. Circular N° 19 del 15 de Abril del 2013 Instruye sobre la aplicación de los beneficios tributarios por la inversión privada en Investigación y Desarrollo contemplados en la Ley N° 20.241, modificada por la Ley N° 20.570. Fuente: Impuestos Directos. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2013 y el 9 de mayo del año 2013. Fuente: Oficina de Gestión Normativa. Circular N° 17 del 10 de Abril del 2013 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Comple…
+mpuestos Directos. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril de 2013 y el 9 de mayo del año 2013. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 58
 - Año: 2016
-- Fecha: 2016-09-26
+- Fecha: 2016-09-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu58.pdf
 - Hash SHA-256: a46469e9b2e904a5b98c85c2b7fbadc4bb33d1fd1f2b780d117462c050d28720
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 59 del 26 de Septiembre del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2016 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2016 y el 9 de octubre del año 2016 Fuente: Oficina de Gestión Normativa Circular N° 57 del 09 de Septiembre del 2016 Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de octubre del año 2016, e infor…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2016 y el 9 de octubre del año 2016 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

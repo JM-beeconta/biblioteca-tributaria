@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 8
 - Año: 2016
-- Fecha: 2016-02-29
+- Fecha: 2016-02-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu8.pdf
 - Hash SHA-256: a12de8560c5f83ff3975836cdde864b74c3b5698fa2581714d1fef89a25ae775
 
 ## Resumen
 
-;n Normativa Circular N° 9 del 29 de Febrero del 2016 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 de la Ley de la Renta. Fuente: Oficina de Gestión de Normativa Tabla de Cálculos de Reajustes, Intereses y Multas marzo 2016 Fuente: Subdirección de Fiscalización Circular N° 7 del 11 de Febrero del 2016 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2016…
+ute;n de Normativa Tabla de Cálculos de Reajustes, Intereses y Multas marzo 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 33
 - Año: 2013
-- Fecha: 2013-07-15
+- Fecha: 2013-06-20
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf
 - Hash SHA-256: 80b3a844a99d937bdb16dc88716c8e34198b7225043cac7959e43a01e1ea6569
 
 ## Resumen
 
-n> Circular N° 34 del 15 de Julio del 2013 Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de agosto del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa. Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la ley N°19.537 Fuente: Subdirección de Avaluaciones. Circular N° 32 del 17 de Junio del 2013 Tabla de Cálculos de reaju…
+acute;n Normativa. Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la ley N°19.537 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-io Circular N° 30 del 10 de Mayo del 2016 Modificaciones introducidas por la Ley N° 20.899, de 8 de febrero de 2016, al Código Tributario. Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015. Complementa la Circular N° 58, de 2015. Fuente: Departamento de Asesoría Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2016 y el 9 de junio del año 2016. Fuente: Oficina de Gestión Normativa Circular N° 28 del 10 de Mayo del 2016 Tablas de Impuesto Único de Segunda C…
+;a Jurídica Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2016 y el 9 de junio del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

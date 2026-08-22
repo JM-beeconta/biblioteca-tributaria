@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 718
 - Año: 2015
-- Fecha: 2015-02-26
+- Fecha: 2015-03-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja727.htm
 - Hash SHA-256: 7e9476c8fd08fb49cd9b4d2dbd1ea633325277088df18a613e409bd8850cc50e
 
 ## Resumen
 
-l Ley sobre Impuesto a la &ndash; Art. 41° E &ndash; Código de Comercio, Art. 239° &ndash; Código Civil, Art. 1444°. (Ord. Nº 823, de 24-03-2015) | Word Solicita se aclare y complemente el Oficio N° 627, de fecha 26 de febrero de 2015. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42°, N°1, Art. 54° bis &ndash; Circular N° 11, de 2015 &ndash; . (Ord. Nº 727, de 11-03-2015) | Word Tratamiento tributario de la inversión en Cuentas de Ahorro Voluntario y en Depósitos de Ahorro Previsional Voluntario, Coti…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42°, N°1, Art. 54° bis &ndash; Circular N° 11, de 2015 &ndash; . (Ord. Nº 727, de 11-03-2015) |
 
 ## Referencias detectadas
 

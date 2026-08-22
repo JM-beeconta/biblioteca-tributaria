@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 49
 - Año: 2013
-- Fecha: 2013-10-23
+- Fecha: 2013-10-11
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu49.pdf
 - Hash SHA-256: 201beb74f5f58df2d21698feeeabcc53136a6d534867bbef02b7fea6f9b40941
 
 ## Resumen
 
-y multas noviembre 2013 Fuente: Subdirección de Fiscalización Circular N° 50 del 23 de Octubre del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas noviembre 2013 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2013 y el 9 de noviembre del año 2013. Fuente: Oficina de Gestión Normativa Circular N° 48 del 11 de Octubre del 2013 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviem…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2013 y el 9 de noviembre del año 2013. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

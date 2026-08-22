@@ -4,148 +4,66 @@
 - Tipo: oficio
 - Número: 987
 - Año: 2015
-- Fecha: 2015-01-29
+- Fecha: 2015-02-09
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja251.doc
-- Hash SHA-256: 6562364fb1fd474bcf3547b86c3de676b2278cb238250c604e553ad21511d750
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja400.doc
+- Hash SHA-256: dea9491b492305e9a33d1167aa0af0438f118612e6f813cfdf21f563967bd230
 
 ## Resumen
 
-y;'>Tratamiento tributario de dividendos acordados distribuir, incorporados a una cuenta corriente mercantil que mantiene una sociedad anónima con su matriz. Solicita reconsiderar . Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20°, Art. 104°, N°1. (Ord. Nº 251, de 29-01-2015) | Word Modificaciones introducidas por la Ley N° 20.712, a la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash;Art. 42°, N°1, Art. 43°, N°1, Art. 47°, Art. 74°, N°1 &ndash; Ley N° 18.225, Art. 2°…
+| Word Tratamiento tributario de dividendos acordados distribuir, incorporados a una cuenta corriente mercantil que mantiene una sociedad anónima con su matriz. Solicita reconsiderar .
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"104"}
+- {"type":"oficio","number":987,"year":2014}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°, ART. 104°, N°1.
-                        (ORD. N° 251, DE 29.01.2015)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 604°, ART. 609° – CÓDIGO CIVIL, ART. 1568° – OFICIO N° 987, DE 2014.
+(ORD. N° 400, DE 09.02.2015)
 
-Modificaciones introducidas por la Ley N° 20.712, a la Ley sobre Impuesto a
-la Renta.
+Tratamiento tributario de dividendos acordados distribuir, incorporados a una cuenta corriente mercantil que mantiene una sociedad anónima con su matriz. Solicita reconsiderar Oficio N° 987 de 2014 por razones que indica .
 
+I ANTECEDENTES
+El Ordinario N° 535 de esa Dirección de Grandes Contribuyentes parte citando el siguiente párrafo del Oficio N° 987, relativo a la cuenta corriente mercantil:
+‘Es consustancial a este tipo de contrato, de acuerdo al artículo 609 del Código de Comercio, que las acreencias y débitos registrados en la cuenta, se efectúen en función de las relaciones comerciales permanentes mantenidas entre comerciantes para extinguir obligaciones derivadas de ellas, sin contraprestación recíproca y sin aplicación a un empleo determinado’.
+A partir de la expresión – destacada en negrillas por esa Dirección – se deduciría que el Oficio exige que ambas partes sean comerciantes para configurar un contrato de cuenta corriente mercantil.
+Al respecto, y sin perjuicio que el Ordinario N° 535 contiene una serie de consideraciones que merecen un análisis particular, a continuación sólo se dará respuesta a la consulta formulada en los Antecedentes, en el sentido que si es necesario reconsiderar las conclusiones del Oficio N° 987 de 2014 en el entendido que el contrato de cuenta corriente mercantil no requiere que ambas partes sean comerciantes.
+II ANÁLISIS
+Elementos ‘esenciales’ de un acto o contrato y autonomía de la voluntad
+Como cuestión preliminar, es importante despejar un problema de carácter general deslizado en el Ordinario N° 535, sobre la posibilidad de celebrar un contrato de cuenta corriente mercantil entre un comerciante y un no comerciante.
+Al respecto se comparte, desde ya, que en base al artículo 604 del Código Comercio y la doctrina el contrato de cuenta corriente mercantil no requiere que ambas partes sean comerciantes.
+Sin embargo, el fundamento de la conclusión anterior deriva de la propia ley (que lo admite), de suerte que ninguna incidencia tiene para estos efectos la libertad contractual como principio general del derecho. Si este fuere el caso, habría que convenir, además, que las partes serían libres para constituir y configurar sus relaciones contractuales con independencia de los elementos esenciales establecidos por la ley, lo cual no es efectivo .
+Posibilidad de reconsiderar el Oficio N° 987 de 2014
+Establecido que para la existencia de un contrato de cuenta corriente mercantil no es necesario que ambas partes sean comerciantes, resta determinar si lo anterior permite variar o reconsiderar las conclusiones del Oficio N° 987 de 2014.
+A fin de resolver este punto, es necesario situar correctamente el contexto en el cual se contiene el párrafo en discusión. De acuerdo al Oficio ‘es consustancial a este tipo de contrato, de acuerdo al artículo 609 del Código de Comercio, que las acreencias y débitos registrados en la cuenta se efectúen en función de las relaciones comerciales permanentes mantenidas entre comerciantes para extinguir obligaciones derivadas de ellas, sin contraprestación recíproca y sin aplicación a un empleo determinado. Si se condiciona a un empleo determinado o se le afecta a una finalidad preestablecida, deja de ser cuenta corriente pasando a ser otro tipo de convención o contrato. Este principio ha sido recogido por la jurisprudencia en una sentencia de la Corte de Apelaciones de Valdivia...’
+Como se puede apreciar, la “consustancialidad” de que trata el Oficio está destinada a delimitar el ámbito del artículo 609 en relación con el artículo 604, ambos del Código de Comercio, el cual exige que las cuentas corrientes mercantiles se celebren en el marco de relaciones habituales entre las partes. No cumpliría la exigencia anterior, por ejemplo, un contrato de cuenta corriente que sólo registre una única operación de crédito de dinero o en la cual una sola parte remesa dineros, de suerte que no sea necesario liquidar la cuenta para determinar cuál de las partes resulta acreedora o deudora.
+Considerando que, de acuerdo a la doctrina, el Código de Comercio ha seguido un criterio “objetivo” para calificar las operaciones como mercantiles (esto es, en atención al acto en sí mismo y no a los sujetos que intervienen), entonces lo propio de la cuenta corriente mercantil será dar cuerpo a relaciones habituales (no necesariamente celebradas “entre” comerciantes) consistentes en la acreditación de cantidades de dinero u otros valores sin aplicación a un empleo determinado ni la obligación de tener a la orden del acreditante una cantidad o valor equivalente .
+Por tanto, compartiendo que en base al artículo 604 del Código Comercio y la doctrina, el contrato de cuenta corriente mercantil no requiere que ambas partes sean comerciantes, el párrafo antes citado del Oficio N° 987 de 2014 sólo está destinado a ilustrar que las operaciones registradas en la cuenta corriente sean el resultado de una relación habitual entre las partes en el marco de ese contrato y no para encubrir “una” operación u operaciones esporádicas en que sólo una de las partes efectúa remesas y la otra las recibe.
+Luego, la precisión relativa a la calidad de las partes, en el contexto más general del Oficio, no exige reconsiderar sus conclusiones .
+Efecto novatorio de la anotación del dividendo en la cuenta corriente mercantil
+A pesar que no está directamente relacionado con el problema relativo a la calidad de las partes envueltas en el contrato, en la conclusión del Ordinario N° 535 se afirma que “en lo que respecta al pago del dividendo, podría concluirse que encontrándose éste contabilizado en una cuenta corriente mercantil es procedente la extinción de la obligación de pago vía novación, siempre que se acredite la existencia de dicha cuenta corriente”.
+Como primera cuestión, es importante precisar que el “pago” efectivo o solución, en base a la definición contenida en el artículo 1568 del Código Civil, consiste en la prestación de lo que se debe al estricto tenor de lo pactado. En cambio, la novación no equivale al “pago” sino propiamente a uno de sus efectos, cual es la “extinción” de todo o parte de la obligación.
+En consecuencia, existe cierta imprecisión al señalar que el dividendo se “paga vía novación”, atendido que la novación no constituye propiamente un “pago” (en su sentido legal).
+Dicho lo anterior y en lo que respecta al efecto novatorio que tendría la admisión del crédito en la cuenta corriente mercantil, cabe señalar que existe cierta discusión en la doctrina nacional y comparada en el sentido que se trate “propiamente” de una novación (o en cambio, de una “especie” de novación o novación “sui generis”) así como de sus efectos y momento en el cual se configuraría la misma .
+En cualquier caso, y a partir del artículo 607 del Código de Comercio puede sostenerse con base legal que en nuestro sistema:
+En realidad, una obligación no es sustituida por otra sino que por un asiento contable (razón por la cual la doctrina más purista habla de “especie” de novación o novación “sui generis”, atendido que no se estaría extinguiendo un vínculo obligacional por otro sino que por un mero asiento contable).
+Dicha sustitución, en todo caso, tiene efecto novatorio porque produce la extinción de la obligación primitiva.
+Que el efecto novatorio (extinción de la obligación primitiva) se verifica al momento de registrarse el respectivo crédito en la cuenta corriente y no en un momento posterior (como sería al liquidarse la cuenta).
+Por tratarse la novación de un efecto otorgado por ley al registro de un valor, crédito o fondo en un asiento contable en el marco de una cuenta corriente mercantil, no es posible extender ese efecto novatorio a otras figuras, como podría ser la denominada cuenta de gestión.
+Sin embargo, nada impide que al momento de liquidarse la cuenta de gestión, y cumpliéndose los requisitos legales, las obligaciones puedan extinguirse hasta el monto que corresponda en virtud de la compensación legal y por el sólo ministerio de la ley (artículo 1656, inciso primero, del Código Civil).
+III CONCLUSIÓN
+P ara que exist a un contrato de cuenta corriente mercantil no se exige que ambas partes sean comerciantes.
 
-Se ha solicitado un pronunciamiento de este Servicio sobre la incidencia de
-las modificaciones efectuadas por la Ley N°20.712, a los artículos 20 N°  2
-y 104 de la Ley sobre Impuesto a la Renta.
+A tendido que la carga o peso argumentativo del Oficio N° 987 de 2014 no reside en la expresión ‘entre comerciantes’, la cual se ofrece sólo para ilustrar otro requisito (la habitualidad de las relaciones) y en calidad de obiter dictum, de suerte que la precisión referida en el punto 1 anterior no afecta la conclusión del Oficio.
 
-I.- ANTECEDENTES.
-Señala, que en el marco de las modificaciones introducidas  por  la  Ley  N°
-20.712 a la Ley Sobre Impuesto  a  la  Renta  (LlR),  y  con  el  objeto  de
-proceder con la elaboración y posterior dictación de las  normas  a  que  se
-refieren  dichas  disposiciones,  solicita  se  emita   un   pronunciamiento
-respecto a las siguientes materias:
-1.- Si a partir de las disposiciones contenidas en los artículos  20  y  104
-de la LlR, sólo se entenderían comprendidos  dentro  de  la  letra  g),  del
-referido artículo 20:
-a)  Los  instrumentos  de  deuda  de  oferta  pública  emitidos   en   Chile
-previamente inscritos en el Registro de Valores,  que  en  su  escritura  de
-emisión se establezca que los instrumentos se acogerán a lo dispuesto en  el
-artículo 104 de la LlR, y para los que para cada  colocación  efectuada  por
-el emisor en bolsa o fuera de ella, se determine la tasa de  interés  fiscal
-conforme a  la  metodología  establecida  en  el  mismo  artículo  104,  sin
-importar si el emisor en Chile de los instrumentos es o  no  una  persona  o
-entidad nacional o extranjera; y
-b) Los instrumentos emitidos  por  el  Banco  Central  de  Chile  o  por  la
-Tesorería General de la República, siempre que los  respectivos  títulos  se
-encuentren incluidos en la nómina  de  instrumentos  elegibles,  establecida
-por el Ministro de Hacienda mediante  decreto  supremo,  y  siempre  que  se
-cumplan con las características y condiciones que en  el  mismo  decreto  se
-hayan definido.
-2.- Si es efectivo que bastaría con que el emisor de  los  instrumentos,  no
-informe su intención de acoger la colocación a la modalidad descrita  en  el
-inciso 6°, del número 1, del artículo 104 de la LIR, para  que  la  tasa  de
-interés fiscal aplicable a las colocaciones  posteriores,  no  obstante  ser
-inferiores a la de la primera colocación, corresponda a la de la  respectiva
-colocación.
-También solicita se confirme si, para efectos de lo  establecido  en  dichos
-párrafos debe entenderse por  "reapertura",  cualquier  modificación  de  la
-escritura de emisión que tenga por objeto aumentar  el  monto  inscrito,  no
-considerándose bajo ese término a las nuevas emisiones  y  colocaciones  que
-se efectúen contra el monto previamente inscrito en  tanto  dicho  monto  no
-sea aumentado; por una "misma emisión" a todos los títulos inscritos  en  el
-Registro de Valores al amparo de un mismo contrato de  emisión;  y  por  una
-"misma serie de títulos" a los "instrumentos seriados" a que se  refiere  la
-letra c) del artículo 4° Bis de la Ley N°18.045.
+L a concurrencia de los requisitos legales para la existencia de una cuenta corriente mercantil constituye una cuestión de hecho que deberá verificarse en la instancia de fiscalización respectiva.
 
-II.- ANÁLISIS.
+Al momento de registrarse el respectivo crédito en la cuenta corriente se produce el efecto novatorio (extinción de la obligación primitiva).
 
-Sobre la materia, cabe señalar que:
+MICHEL JORRATT DE LUIS
+D IRECTOR (T y P)
 
-1.- El artículo 104 de la LIR, dispone en su número 1.- que podrán acogerse
-a las disposiciones de dicho artículo, los instrumentos que cumplan con los
-siguientes requisitos copulativos:
-
-a) Que se trate de instrumentos de  deuda  de  oferta  pública  previamente
-inscritos en el Registro de Valores conforme a la Ley Nº 18.045.
-
-b) Que hayan sido emitidos en Chile.
-
-c) Que se establezca, en  la  respectiva  escritura  de  emisión,  que  los
-instrumentos se acogerán a lo dispuesto en el artículo 104  de  la  LIR,  y
-que, además de la tasa de cupón o de  carátula,  se  determine,  para  cada
-colocación y después de cada una de ellas, una tasa de interés fiscal  para
-efectos del cálculo de los intereses devengados conforme al inciso 3°,  del
-número 2, del artículo 20 de la misma Ley.
-
-Por su parte, el número 4.-, del artículo 104 de la LIR, establece que  los
-instrumentos emitidos por el Banco Central de  Chile  o  por  la  Tesorería
-General de la República podrán acogerse a lo dispuesto  en  dicho  artículo
-aunque no cumplan con uno o más de los requisitos establecidos  al  efecto,
-siempre que los respectivos títulos se encuentren incluidos en la nómina de
-instrumentos elegibles que, para estos efectos, establecerá el Ministro  de
-Hacienda mediante decreto supremo, y que cumplan con las características  y
-condiciones que en el mismo se  definan,  incluyendo  la  tasa  de  interés
-fiscal.
-
-2.- De acuerdo a los incisos 6° y 7°, del número 1, del artículo 104 de  la
-LIR, una o varias colocaciones  de  la  misma  emisión,  posteriores  a  la
-primera, o en caso de aumentar el monto  emitido  de  una  misma  serie  de
-títulos que cumplan copulativamente los requisitos señalados en las  letras
-a), b) y c) del referido número 1, a través de una reapertura, de  la  cual
-se deje constancia en la escritura de emisión, el nuevo monto emitido y sus
-respectivas colocaciones, tendrán la misma tasa de  interés  fiscal  de  la
-primera colocación, sólo si su respectiva tasa de  colocación  es  menor  o
-igual a la tasa de interés fiscal de la primera colocación, en cuyo caso se
-aplicará la tasa de interés fiscal correspondiente a la colocación inicial,
-siempre que, previo a la respectiva colocación, el emisor haya informado  a
-la Superintendencia de Valores y Seguros, en la forma  que  ésta  determine
-mediante norma de carácter general,  que  acogerá  dicha  colocación  a  lo
-dispuesto en los incisos 6° y 7° respectivamente.
-
-III.- CONCLUSIÓN.
-
-De acuerdo a lo expuesto en  el  número  II.-  anterior,  a  partir  de  la
-vigencia de las modificaciones incorporadas por la Ley N°20.712[1],  a  los
-artículos 20 y 104 de la  LlR,  se  confirman  los  criterios  sometidos  a
-consideración de este Servicio.
-
-
-
-
-
-
-
-
-
-
-                                       MICHEL JORRATT DE LUIS
-
-                                                           DIRECTOR (T y P)
-
-
-
-
-
-
-
-                        Oficio N° 251, de 29.01.2015
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-
-
-
------------------------
-[1] Las modificaciones introducidas a los artículos 20 y 104 de la LIR  por
-la Ley N° 20.712, rigen a contar del día 1° de mayo de 2014.
+Oficio N° 400, de 09.02.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria

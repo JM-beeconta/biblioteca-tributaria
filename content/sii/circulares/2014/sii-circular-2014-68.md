@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 68
 - Año: 2014
-- Fecha: 2014-12-30
+- Fecha: 2014-12-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf
 - Hash SHA-256: 29b4c2c35cc7c17e1253913094e98b3608a03f46c1f162c6232785017ffbb721
 
 ## Resumen
 
-i> Circular N° 69 del 30 de Diciembre del 2014 Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2015 Fuente: Impuestos Directos Complementa la Circular N° 33, de 2013, respecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas por…
+Impuestos Directos Complementa la Circular N° 33, de 2013, respecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas por la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria, y actualiza el formulario N° 2802, &ldquo;CERTIFICADO DE ANTECEDENTES PREVIOS PARA EL CÁLCULO DEL AVALÚO FISCAL&rdquo; Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

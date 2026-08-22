@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2016
-- Fecha: 2016-06-15
+- Fecha: 2016-06-07
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu34.pdf
 - Hash SHA-256: 7eb44eed8d8314a0c3ea7332c30db39ac666f95a63316f690f6bd95489e7d22f
 
 ## Resumen
 
-pan> Circular N° 35 del 15 de Junio del 2016 Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Modificaciones efectuadas por la Ley N° 20.899 a los artículos 41F y 41H de la Ley sobre Impuesto a la Renta; y al primer párrafo, del número 2, del inciso cuarto del artículo 59, de la misma Ley. Complementa Circular N°12, de 2015. Fuente: Impuestos Directos Ci…
+oacute;n Normativa Modificaciones efectuadas por la Ley N° 20.899 a los artículos 41F y 41H de la Ley sobre Impuesto a la Renta; y al primer párrafo, del número 2, del inciso cuarto del artículo 59, de la misma Ley. Complementa Circular N°12, de 2015. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

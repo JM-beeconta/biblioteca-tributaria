@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 5
 - Año: 2016
-- Fecha: 2016-02-11
+- Fecha: 2016-02-02
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu5.pdf
 - Hash SHA-256: 87a16f4c76a39ad73c974c5fc4109094655903d17b8fa0ab20d689fa230c3b5f
 
 ## Resumen
 
-0px;'> Fuente: Oficina de Gestión Normativa Circular N° 6 del 11 de Febrero del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2016 y el 9 de marzo del año 2016. Fuente: Oficina de Gestión Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones Circular N° 4…
+oacute;n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

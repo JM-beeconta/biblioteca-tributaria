@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 34
 - Año: 2014
-- Fecha: 2014-06-09
+- Fecha: 2014-06-05
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu34.pdf
 - Hash SHA-256: 0eab1c8db2419b690a4b36a9a8a217104ffaf8eef81d4d6da69c7c1d4cc9ce6b
 
 ## Resumen
 
-Circular N° 35 del 09 de Junio del 2014 Tablas del Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Instruye sobre el tratamiento tributario de las donaciones con fines culturales,a raíz de la sustitución del artículo 8° de la Ley N°18.985, efectuada por el artículo único de la Ley N°20.675. Fuente: Impuestos Directos Circular N° 33 del 27 de Mayo del 2014 Tabl…
+oacute;n Normativa Instruye sobre el tratamiento tributario de las donaciones con fines culturales,a raíz de la sustitución del artículo 8° de la Ley N°18.985, efectuada por el artículo único de la Ley N°20.675. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

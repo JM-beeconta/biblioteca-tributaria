@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 64
 - Año: 2014
-- Fecha: 2014-12-15
+- Fecha: 2014-12-12
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu64.pdf
 - Hash SHA-256: 6d86f8cc3c05cbb688d028a70922fc15ecdcc0abc9d528cc8f3d467b51b0a6fe
 
 ## Resumen
 
-acute;n Circular N° 65 del 15 de Diciembre del 2014 Imparte instrucciones sobre modificaciones introducidas al artículo 21° del D.L. N° 910, de 1975, por el artículo 5° de la Ley 20.780, de 29 de septiembre de 2014. Fuente: Depto. de Impuestos Indirectos Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 63 del 12 de Diciembre del 2014 Valor de…
+puestos Indirectos Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

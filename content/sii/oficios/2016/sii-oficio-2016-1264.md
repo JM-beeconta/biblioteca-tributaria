@@ -6,39 +6,137 @@
 - Año: 2016
 - Fecha: 2016-05-31
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1384.doc
-- Hash SHA-256: bfc0871657af83cef8b63505f64b796e01fe6c2837face28aed168bdafa5ba62
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1495.doc
+- Hash SHA-256: 3168b5f888593793c0df7104b89c8d18636b4b493599d56ae5b9a0661c84857e
 
 ## Resumen
 
-&ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Resolución N° 137, de 1975 &ndash; . (Ord. Nº 1495, de 31-05-2016) | Word Solicita confirmar vigencia del criterio contenido en el Oficio N° 1264 de 2009. Código Tributario &ndash; Nuevo Texto &ndash; Art. 6 &ndash; D.F.L. N° 7, de 1980 &ndash; Circulares N° 60 de 2002, 31 de 2007 y 7 de 2008. (Ord. Nº 1384, de 17-05-2016) | Word Ley N° 19.749, que establece normas para facilitar la creación de microempresas familiares. Ley sobre Impuesto Territorial &ndas…
+| Word Solicita confirmar vigencia del criterio contenido en el .
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"CT","article":"6"}
+- {"type":"circular","number":46,"year":1979}
+- {"type":"oficio","number":1264,"year":2009}
+- {"type":"oficio","number":2633,"year":2015}
 
 ## Texto extraído
 
-CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 6 – D.F.L. N° 7, DE 1980 – CIRCULARES N° 60 DE 2002, 31 DE 2007 Y 7 DE 2008. (ORD. N° 1384, DE 17.05.2016)
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6
+           – RESOLUCIÓN N° 137, DE 1975 – OFICIO N° 1264, DE 2009.
 
-Ley N° 19.749, que establece normas para facilitar la creación de microempresas familiares .
-Se ha solicitado a este Servicio informar al tenor de lo consultado por XXXX mediante presentación efectuada ante la Contraloría General de la República.
-I ANTECEDENTES
-Mediante el ordinario referido en el antecedente, se adjunta para su análisis e informe la presentación efectuada por XXXX ante la Contraloría General de la República.
-En su presentación, XXXX indica que, en la página web del Ministerio de Hacienda, se ha publicado bajo el título de “Ley 19.479” (sic) y en otros medios de información, la norma, requisitos, obligaciones y prohibiciones para quienes participan en los procedimientos que se deben cumplir, tanto por quienes califican las peticiones como por los solicitantes.
-Al respecto, desea saber si el referido documento publicado es obligatorio y si su contenido debe ser cumplido a cabalidad, especialmente lo relativo a las actividades excluidas por la ley o emprendimiento que derechamente aparecen como prohibidos.
-Para mejor entendimiento, se acompaña el documento.
-II ANÁLISIS
-D e acuerdo a l tenor de la consulta ( requisitos, obligaciones y prohibiciones para quienes participan en los procedimientos que se deben cumplir) así como del contenido del documento adjunto, relativo a determinar qué se entiende por actividad inofensiva , qué servicios públicos otorgan autorizaciones ( como SERNAPESCA , SAG, municipalidades y otras autoridades sanitarias), qué actividades se excluyen o regulan ( peligrosas, contaminantes, molestas ), así como los requisitos de higiene, personal, etc. , a que se someten las referidas empresas, se desprende que la consulta formulada por el Sr. Hernández no dice relación con disposiciones tributarias internas sujetas a interpretación o fiscalización de este Servicio.
-Al respecto, es necesario señalar que, de acuerdo al artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda, y artículo 6° del Código Tributario, corresponde a este Servicio interpretar, aplicar y fiscalizar las normas tributarias cuyo control no esté encomendado por ley a una autoridad diferente. Dicha competencia, como ha tenido oportunidad de precisar la Contraloría General de la República en numerosos pronunciamientos, es de carácter “exclusiva” del Servicio de Impuestos Internos.
-En cualquier caso, se hace presente que este Servicio ha impartido instrucciones de carácter general sobre creación y tributación de microempresas familiares en las Circulares N° 60 de 2002, N° 31 de 2007 y N° 7 de 2008.
-Finalmente, es pertinente hacer presente que la consulta formulada por XXXX nace a partir del documento adjunto, el cual no ha sido preparado por este Servicio, de modo que no corresponde calificar si sus disposiciones sean o no obligatorias, y en qué medida.
-III CONCLUSIÓN
-Conforme a lo expuesto precedentemente , se informa que las materias consultadas por el peticionario no son de competencia de este Servicio, sin perjuicio que el documento adjunto – y respecto del cual se formulan las consultas – tampoco ha sido preparado por este Servicio.
+                        (ORD. N° 1495, DE 31.05.2016)
 
-FERNANDO BARRAZA LUENGO
-DIRECTOR
 
-Oficio N° 1384, de 17.05.2016
-Subdirección Normativa
-Dpto. de Técnica Tributaria.
+
+Solicita confirmar vigencia del criterio contenido en el Oficio N°  1264  de
+    2009.
+
+Se ha solicitado a este Servicio confirmar la vigencia del  Oficio  N°  1264
+de 2009, según el  cual  una  empresa  de  factoring  puede  calificar  como
+institución financiera para los efectos del artículo  24  N°  6  de  la  Ley
+sobre Impuesto de Timbres y Estampillas.
+
+I     ANTECEDENTES
+
+En su presentación recuerda que, conforme al Oficio N° 1264  de  2009,  este
+Servicio  ha  aceptado  que  una  empresa  de   factoring   califique   como
+institución financiera para los efectos  de  la  exención  dispuesta  en  el
+artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
+
+Sin embargo, expone que algunas Direcciones Regionales  han  descartado  que
+las empresas de factoring no bancarias puedan ser instituciones  financieras
+para los efectos señalados, desconociendo en su  opinión  la  jurisprudencia
+administrativa señalada.
+
+Por esa razón, solicita confirmar la vigencia del criterio  expuesto  en  el
+Oficio N° 1264 de 2009, en el sentido que una  empresa  de  factoring  puede
+ser calificada como institución financiera para los efectos de aplicar a  su
+respecto la exención comentada.
+
+II    ANÁLISIS
+
+Conforme al artículo 24  N°  6  de  la  Ley  sobre  Impuesto  de  Timbres  y
+Estampillas, están exentos del impuesto los documentos otorgados por  bancos
+o instituciones financieras en las operaciones de depósito  o  de  captación
+de capitales, de ahorrantes  e  inversionistas  locales,  cuando  éstos  den
+cuenta de operaciones de  crédito  de  dinero  y  sean  necesarios  para  la
+realización de estas operaciones. La norma agrega  que  la  lista  de  tales
+documentos será determinada por resolución  del  Director  del  Servicio  de
+Impuestos Internos, previo informe favorable del Banco Central de Chile[1].
+
+Sobre el concepto de “institución financiera” la Superintendencia de  Bancos
+e Instituciones Financieras, mediante Carta  Circular  N°  46  de  1979,  ha
+señalado que es una expresión genérica que  comprende  a  toda  empresa  que
+habitualmente se dedica a prestar dinero o a conceder créditos, sea  que  lo
+haga con sus propios fondos o con fondos recibidos de terceros, esto  último
+cuando expresamente está facultada por la ley para ello.
+
+Ahora bien,  atendido  el  concepto  genérico  de  “institución  financiera”
+empleado por la Superintendencia del ramo,  este  Servicio  ha  interpretado
+que nada impide reconocer  dicha  calidad  en  casos  similares,  sólo  para
+efectos tributarios. Lo anterior,  siempre  que  el  contribuyente  acredite
+cumplir los elementos del concepto de “institución  financiera”  ya  citado,
+cuestión  de   hecho   entregada   a   las   instancias   de   fiscalización
+correspondientes[2].
+
+La doctrina anterior no se limita al caso específico del Oficio N°  1264  de
+2009,  en  que  la  empresa  peticionaria  era  una  institución  financiera
+inscrita en la Superintendencia de Valores y Seguros.
+
+
+
+
+
+
+
+
+
+III   CONCLUSIÓN
+
+Conforme lo expuesto, se confirma la vigencia de la  doctrina  contenida  en
+el Oficio N° 1264 de 2009, en el sentido que si  un  contribuyente  acredita
+cumplir  los  elementos  que  configuran   el   concepto   de   “institución
+financiera”, cuestión de hecho entregada a las instancias de  fiscalización,
+nada le impide acceder a la exención contenida en el artículo 24 N° 6 de  la
+Ley sobre Impuesto de Timbres y Estampillas.
+
+La doctrina anterior se extiende al caso de  una  empresa  de  factoring  no
+bancaria no sujeta a la fiscalización de la Superintendencia o  que  carezca
+de un pronunciamiento  previo,  emanado  de  esa  Superintendencia,  que  le
+confiera el carácter de institución financiera.
+
+
+
+
+
+
+
+
+
+
+                           FERNANDO BARRAZA LUENGO
+                                                               DIRECTOR
+
+
+
+
+
+
+                        Oficio N° 1495, de 31.05.2016
+                           Subdirección Normativa
+                         Dpto. de Técnica Tributaria
+
+
+
+-----------------------
+[1] En cumplimiento de la disposición  citada,  la  Resolución  N°  137,  de
+1975, estableció los documentos exentos de impuesto de acuerdo con la  misma
+norma, instruyendo que respecto de ellos  debían  concurrir  los  siguientes
+requisitos copulativos:
+a) Que el emisor del documento sea una institución financiera.
+b) Que el o los documentos incidan en operaciones de captación de  capitales
+   de ahorrantes o inversionistas.
+c) Que el o los documentos den cuenta de operaciones de crédito de dinero.
+d) Que el o los documentos sean necesarios para  la  realización  de  dichas
+   operaciones de crédito de dinero.
+[2] Oficio N° 2633 de 2015

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 51
 - Año: 2014
-- Fecha: 2014-10-10
+- Fecha: 2014-10-03
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu51.pdf
 - Hash SHA-256: 90af5b27f77ca8aa69960cc8aa5f3ef2fcb917fc043b5fbfddf7c89822573215
 
 ## Resumen
 
-'https://www.sii.cl/normativa_legislacion/circulares/2014/circu52.pdf' target='_blank'>Circular N° 52 del 10 de Octubre del 2014 Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría. Fuente: Departamento de Impuestos Directos Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los Artículos 3°, 12°,…
+Impuestos Directos Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los Artículos 3°, 12°, letra B), 23°, N° 4 y 42°, del D.L. N° 825, de 1974. Fuente: Departamento de Impuestos Indirectos
 
 ## Referencias detectadas
 

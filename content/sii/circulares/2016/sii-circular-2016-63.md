@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 63
 - Año: 2016
-- Fecha: 2016-11-11
+- Fecha: 2016-10-24
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu63.pdf
 - Hash SHA-256: a250b45b0043dda2d9f690714578259eaf1cf216b3cdc17446c04a9fb1964a72
 
 ## Resumen
 
-uente: Oficina de Gestión Normativa Circular N° 64 del 11 de Noviembre del 2016 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2016 y el 9 de diciembre del año 2016. Fuente: Oficina de Gestión Normativa Tabla de cálculos de Reajustes, Intereses y Multas noviembre 2016 Fuente: Subdirección de Fiscalización Circular N° 62 del 18 de Octubre del 2016 Imparte instrucciones sobre imputación o devolución de impuestos contenidos en los títulos II y III, del D.L. N° 825, estableci…
+oacute;n Normativa Tabla de cálculos de Reajustes, Intereses y Multas noviembre 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 10
 - Año: 2013
-- Fecha: 2013-03-04
+- Fecha: 2013-02-21
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu10.pdf
 - Hash SHA-256: 033c0cd7a72e696ac2c40aa6a8088b37dc4f13b2c399ee07af50a1ba0e72cf9a
 
 ## Resumen
 
-mativa. Circular N° 11 del 04 de Marzo del 2013 Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°1 de la Ley de la Renta. Fuente: Oficina de Gestión Normativa. Tabla de cálculo de reajustes, intereses y multas marzo 2013. Fuente: Subdirección de Fiscalización Circular N° 9 del 13 de Febrero del 2013 Tabla del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2013 e inf…
+acute;n Normativa. Tabla de cálculo de reajustes, intereses y multas marzo 2013. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

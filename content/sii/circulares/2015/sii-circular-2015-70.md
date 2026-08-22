@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con la tributación establecida en su artículo 21 y las normas sobre retención de impuesto contenidas en el N° 4, del artículo 74. También se instruye sobre las modificaciones incorporadas a las escalas de rentas y tasas contenidas en los artículos 43 N° 1 y 52 de la Ley sobre Impuesto a la Renta, y la incorporación del nuevo artículo 52 bis a dicha ley. Fuente: Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a los N…
+Impuestos Directos Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, ambos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017 y reemplaza dos ejemplos contenidos en la Circular N° 42 de 2015. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

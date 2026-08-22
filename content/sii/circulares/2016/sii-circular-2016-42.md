@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;'> Circular N° 43 del 11 de Julio del 2016 Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, modificada por la Ley N° 20.899, al régimen tributario para la micro, pequeña y mediana empresa contenido en el artículo 14 ter de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos Vigencia y aplicación de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuent…
+Impuestos Directos Vigencia y aplicación de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 19
 - Año: 2014
-- Fecha: 2014-04-04
+- Fecha: 2014-03-26
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu19.pdf
 - Hash SHA-256: a86e4b09f9c594da7731183c235cb001dc7f53803f2b6536290b0b59ad5785c4
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección Jurídica Circular N° 20 del 04 de Abril del 2014 Rebaja del impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente. Fuente: Subdirección de Avaluaciones Tablas de Cálculos de Reajustes, Intereses y Multas abril 2014 Fuente: Subdirección de Fiscalización Circular N° 18 del 24 de Marzo del 2014 (Zip 12501KB) Suplemento tributario con la normativa vigente para efectuar la Declaración de los Impuestos Anuales a la renta correspondien…
+;n de Avaluaciones Tablas de Cálculos de Reajustes, Intereses y Multas abril 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

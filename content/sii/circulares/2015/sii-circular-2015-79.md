@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 80 del 29 de Septiembre del 2015 Aclara y precisa el concepto de &ldquo;laboratorio&rdquo;, para efectos de gravar la actividad desarrollada por estos establecimientos con el Impuesto al Valor Agregado. Fuente: Impuestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2015. Fuente: Subdirección de Fiscalización Circular N° 78 del 22 de Septiembre del 2015 Instruye sobre el plazo y procedimiento a través del cual los…
+puestos Indirectos Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2015. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

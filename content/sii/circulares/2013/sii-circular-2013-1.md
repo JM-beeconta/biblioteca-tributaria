@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span> Circular N° 2 del 09 de Enero del 2013 Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina De Gestión Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos del FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2013. Fuente: Oficina de Gestión Normat…
+oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos del FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2013. Fuente: Oficina de Gestión Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2013');
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-entre otros, al régimen de tributación en base a renta presunta; exención del Impuesto de Primera Categoría a la renta efectiva de bienes raíces no agrícolas; adjudicación de bienes con ocasión de la disolución y liquidación de empresas y valor de costo a considerar por los adjudicatarios respecto de los bienes adjudicados; impuesto único a los gastos rechazados; y retención de impuesto Adicional. Fuente: Impuestos Directos Actualiza e imparte instrucciones sobre procedimiento de emisión de los Certificados de Ava…
+Impuestos Directos Actualiza e imparte instrucciones sobre procedimiento de emisión de los Certificados de Avalúo Fiscal y deroga Circulares N°s 58, de 1996 y 52, de 1999. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

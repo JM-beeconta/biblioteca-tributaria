@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Circular N° 42 del 05 de Septiembre del 2013 Complementa Circular N° 66 del 29 de octubre de 1998, para su aplicación en la Dirección de Grandes Contribuyentes. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Modifica y complementa Circular N° 21 del 19 de abril de 2013, sobre política de condonación de intereses y sanciones pecuniarias. Fuente: Subdirección de Fiscalización. Circular N° 40 del 27 de Agosto del 2013 Tabla de Cálculos de Re…
+de Contribuyentes. Modifica y complementa Circular N° 21 del 19 de abril de 2013, sobre política de condonación de intereses y sanciones pecuniarias. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

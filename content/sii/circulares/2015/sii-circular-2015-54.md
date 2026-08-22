@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ía Jurídica Circular N° 55 del 24 de Junio del 2015 Vigencia de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Fuente: Departamento de Asesoría Jurídica Reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos Fuente: Departamento de Asesoría Jurídica Circular N° 53 del 24 de Junio del 2015 Imparte instrucciones sobre la publicación de información y estadísticas en el sitio web del S…
+;a Jurídica Reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

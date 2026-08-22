@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N° 64 del 12 de Diciembre del 2014 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2014 y el 9 de enero del año 2015. Fuente: Oficina de Gestión Normativa Circular N° 62 del 02 de Diciembre del 2014 Instruye sobre las modificaciones efectuadas por la Ley N°…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2014 y el 9 de enero del año 2015. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

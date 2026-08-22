@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 29
 - Año: 2014
-- Fecha: 2014-05-13
+- Fecha: 2014-05-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu29.pdf
 - Hash SHA-256: 18fdb0916526b215aba72d863c1d7c86bc908752ec18e7facbc9508a05f76895
 
 ## Resumen
 
-:10px;'> Fuente: Departamento de Normas Internacionales Circular N° 30 del 13 de Mayo del 2014 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo del año 2014 y el 9 de junio del año 2014 Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 28 del 25 de Abril del 2014 Modifica Circular…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de junio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

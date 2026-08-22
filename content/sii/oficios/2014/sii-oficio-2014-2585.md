@@ -6,179 +6,53 @@
 - Año: 2014
 - Fecha: 2014-11-12
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2068.doc
-- Hash SHA-256: 92cccd83b25235e7d7d473d39a3480505cb122bdf4f0f12b12d5a1c0950ef474
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2069.htm
+- Hash SHA-256: 1bbeb103f094c0ce25e018058445bd80638cca4c3d7d7d9f876b26106ae72197
 
 ## Resumen
 
-ttom:3px;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 29°, Art. 31° &ndash; . (Ord. Nº 2069, de 12-11-2014) | Word Posibilidad de provisionar gastos por prestaciones médicas adeudadas. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 41°, A, letra D), N°2, Art. 12° &ndash; Circular N° 25, de 2008. (Ord. Nº 2068, de 12-11-2014) | Word Crédito por impuestos pagados en el exterior, en caso que la inversión respectiva se encuentre inscrita en el Registro de Inversiones en el Extranjero, pero n…
+ute;n de una sociedad. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 29°, Art. 31° &ndash; . (Ord. Nº 2069, de 12-11-2014) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":25,"year":2008}
-- {"type":"articulo","law":"LIR","article":"41  A"}
-- {"type":"articulo","law":"LIR","article":"12"}
+- {"type":"oficio","number":2585,"year":2004}
+- {"type":"articulo","law":"LIR","article":"31"}
+- {"type":"articulo","law":"CT","article":"21"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41°, A, LETRA D), N°2, ART.
-        12° – CIRCULAR N° 25, DE 2008. (ORD. N° 2068, DE 12.11.2014)
-
-
-
-Crédito por impuestos pagados en el exterior, en caso que la inversión
-respectiva se encuentre inscrita en el Registro de Inversiones en el
-Extranjero, pero no se ha regularizado la titularidad de la misma.
-
-
-
-
-Solicita se  confirme  que  resulta  procedente  el  uso  del  crédito  por
-impuestos pagados en el exterior, por una sociedad que nace de una división
-y que registra entre los activos que le fueron asignados la inversión en el
-extranjero,  haciendo  presente  que   la   información   relativa   a   la
-actualización  de  la  inversión  en  el  Registro  de  Inversiones  en  el
-Extranjero (RIE) que lleva este  Servicio,  se  llevó  a  cabo  en  un  año
-comercial posterior al de la percepción de las rentas de fuente extranjera.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 29°, ART. 31° – OFICIO N° 2585, DE 2004. (ORD. N° 2069, DE 12.11.2014)
+POSIBILIDAD DE PROVISIONAR GASTOS POR PRESTACIONES MÉDICAS ADEUDADAS.
 
 I.- ANTECEDENTES.
+Expresa, que esa Dirección recibió una presentación de la empresa BBB, con domicilio en xxx, en la cual solicita se emita un pronunciamiento respecto a la posibilidad de deducir como gastos necesarios para producir la renta, aquellos amparados por documentos que acreditan prestaciones o cirugías médicas realizadas por médicos a usuarios de esa empresa, servicios que no constan en boletas o facturas, sino que en protocolos, fichas médicas y presupuestos de honorarios médicos, donde se indica el arancel Fonasa de cada prestación y los honorarios del equipo médico quirúrgico, señalando que esta materia fue sometida a la consideración de esa Dirección, y fue respondida en términos negativos mediante el Ordinario N° xxxxxxx.
 
+En su presentación, la ocurrente expone que su principal actividad consiste en la asesoría empresarial y la prestación de servicios médicos por cuenta de terceros contratados para tal efecto. Para el cumplimiento de su giro, la sociedad realiza sus prestaciones mediante la adquisición de servicios a médicos y profesionales de la salud, debidamente calificados por los organismos competentes, celebrando contratos de prestación de servicios y/o cobranza de los honorarios por encargo de los prestadores.
+Indica, que durante el proceso de cobranza de las prestaciones médicas realizadas por los prestadores, la sociedad emite una boleta o factura por el pago a los pacientes e instituciones, las que constituyen sus ingresos brutos percibidos o devengados y para la determinación de su renta líquida imponible, deduce de sus ingresos brutos, los costos directos, que corresponden a los honorarios cancelados a los prestadores médicos, los que en promedio, equivalen al 97% del valor de cada prestación, debidamente documentados por la boleta entregada por el prestador médico a la sociedad, y de la diferencia de las sumas cobradas a los pacientes e instituciones por las prestaciones médicas (ingresos brutos) y el valor pagado a los prestadores, en promedio el 3% del valor de la prestación, determina el margen operacional, diferencia sobre la cual la sociedad deduce sus gastos necesarios (sueldos, honorarios administrativos, arriendo), determinando el monto que resulta afecto a impuesto.
+En razón de lo anterior, le surgen dudas respecto a la correcta imputación del gasto por los honorarios médicos que al cierre del ejercicio comercial se encuentran pendientes de pago o liquidación a los prestadores, por cirugías realizadas en el período en que se está declarando, toda vez que la sociedad liquida a los prestadores las cuentas que han sido efectivamente canceladas por los pacientes e instituciones pagadoras, sin perjuicio de que tribute por todos los documentos emitidos en base a renta percibida o devengada.
+Por ello, y ante una consulta realizada en esa Dirección, en un proceso de fiscalización realizado a la sociedad se indicó por parte de funcionarios de este Servicio que el único medio probatorio que éste aceptaba como prueba fehaciente de un gasto es la boleta o factura emitida por cada prestador médico o proveedor, de lo cual resulta que sólo aquellos honorarios médicos que se encuentran pendientes de pago a los prestadores médicos al término del ejercicio y que se encuentran facturados cumplirían los requisitos para ser considerados como un gasto necesario, siendo a su juicio sólo semántica la discusión respecto del mérito probatorio de documentos que dan fe del detalle de prestaciones médicas tales como protocolos operatorios, ficha médica del paciente, presupuesto de honorarios médicos y todos los documentos de cobranza que respaldan el proceso de cobranza, tal como lo establece el Ordinario N° 77312013726 la que establece que los documentos emitidos para acreditar un gasto deben tener el carácter de fehacientes.
 
-Indica, que la “Sociedad AAA”, se constituyó durante el año comercial 2010,
-producto de la división de la “Sociedad BBB”, y  que  en  tal  acto  se  le
-asignó una inversión en Perú.
-
-Señala, que en el mismo año percibió dividendos de la sociedad  extranjera,
-los que fueron reconocidos en sus resultados tributarios, y que al  término
-del año comercial 2010, la inversión aún figuraba en el RIE que lleva  este
-Servicio, a nombre de la “Sociedad BBB”,  situación  que  se  regularizó  y
-actualizó durante el año comercial 2011.
-
-Por tanto, solicita se confirme que la  “Sociedad  AAA”,  tiene  derecho  a
-utilizar el crédito  por  impuestos  pagados  en  el  exterior  en  el  Año
-Tributario 2011, ya que a la sociedad le corresponden los mismos derechos y
-obligaciones que la sociedad dividida y, por  ende,  ella  solo  tiene  que
-actualizar la información en el ya mencionado  registro  y  no  inscribirse
-nuevamente en el RIE, toda vez que en la figura jurídica de la división  no
-hay enajenación.
+Por lo anterior, no resultando claro si procede o no la rebaja del gasto, considerando que la respuesta de la Dirección Regional se limita a mencionar que los documentos que respaldan gastos deben tener el carácter de fehacientes, solicita se determine si este Servicio considera como fehaciente los documentos que dan fe de de las prestaciones o cirugías realizadas a los pacientes los protocolos operatorios y fichas médicas y documentos que los respaldan los presupuestos y procesos de cobranza tales como presupuestos de honorarios médicos, avisos de cobranza, documentos donde consta el código de arancel Fonasa, etc.
 
 II.- ANÁLISIS.
+El inciso primero, del artículo 31 de la Ley sobre Impuesto a la Renta (LIR), dispone que la renta líquida se determinará deduciendo de la renta bruta todos los gastos necesarios para producirla, que no hayan sido rebajados en virtud del artículo 30 de la misma ley, pagados o adeudados, durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante este Servicio .
 
-1.- El artículo 41 A, letra D), N° 2, de la Ley sobre Impuesto  a  la  Renta
-(LIR), dispone que los contribuyentes domiciliados  o  residentes  en  Chile
-que perciban dividendos o  efectúen  retiros  de  utilidades  de  sociedades
-constituidas en el extranjero en conformidad al artículo  12,  de  la  misma
-Ley, para hacer uso del crédito establecido en  la  letras  A.-  y  B.-  del
-mismo artículo, deberán inscribirse previamente en el  RIE  que  lleva  este
-Servicio.
+De acuerdo a los antecedentes descritos, el objeto de la consulta es determinar si procede aceptar la deducción como gasto de los honorarios médicos adeudados y no pagados en un ejercicio, sin que exista en forma previa la emisión de una boleta o factura, constando su efectividad en instrumentos privados de diversa índole, mencionándose a vía de ejemplo, protocolos operatorios, fichas médicas, presupuestos de honorarios médicos y avisos de cobranza y documentos en que consta el arancel Fonasa de cada prestación, etc.
 
-2.- Las instrucciones sobre la materia se contienen en la  Circular  N°  25,
-de 2008, la cual se encuentra publicada en la página web de  este  Servicio,
-www.sii.cl,  y  señala  en  su  punto  III,  N°  2,  letra   c),   que   los
-contribuyentes que deseen hacer uso del beneficio  tributario  en  análisis,
-deberán presentar en la Dirección Regional que corresponda a su domicilio  o
-en la Dirección Grandes Contribuyentes, según sea el caso,  una  Declaración
-Jurada Simple, proporcionando toda la información relativa  a  la  inversión
-que se contempla en el modelo de formulario de solicitud de  inscripción  en
-el RIE[1].
+De acuerdo a ello, es necesario analizar especialmente el cumplimiento de dos de los requisitos exigidos por el inciso primero, del artículo 31 de la LIR, cuales son; que dichas cantidades se encuentren pagadas o adeudadas, y que se acrediten fehacientemente antes este Servicio.
 
-La misma Circular establece  que  la  no  presentación  de  esta  solicitud,
-acarrea como sanción que  los  contribuyentes  sólo  podrán  hacer  uso  del
-crédito por los impuestos soportados en el extranjero  por  aquellas  rentas
-percibidas o devengadas, según corresponda, a partir del  año  comercial  en
-que se solicite la inscripción de las inversiones de  las  cuales  provienen
-dichas  rentas,  indicándose  además  que   si   se   hacen   modificaciones
-posteriores, ellas deberán  también  informarse  del  mismo  modo,  lo  cual
-permitirá mantener actualizado el RIE y,  por  consiguiente,  habilitado  al
-contribuyente para que  pueda  hacer  uso  del  crédito  por  los  impuestos
-pagados, retenidos o adeudados en el exterior, según corresponda.
+En el primer caso, es necesario que el contribuyente haya incurrido efectivamente en el gasto, sea que éste se encuentre pagado o adeudado al término del ejercicio. De este modo, para el debido cumplimiento de este requisito, es menester que el gasto tenga su origen en una adquisición o prestación real y efectiva y no en una mera apreciación o estimación del contribuyente. Que el gasto se encuentre adeudado, implica para el deudor que ha nacido la obligación de pago, aun cuando ésta pueda ser exigida con posterioridad por haberse estipulado un plazo u oportunidad para dicho pago, mientras que para el acreedor implica el nacimiento de un derecho correlativo, el cual es coincidente con el concepto de renta devengada.
+Que se acrediten o justifiquen en forma fehaciente ante este Servicio, implica que el contribuyente debe probar la naturaleza, necesidad, efectividad y monto de los gastos con los medios probatorios de que disponga, pudiendo el Servicio impugnarlos, si por razones fundadas no se estimaren fehacientes. Al respecto, debe tenerse presente lo establecido en el artículo 21 del Código Tributario, en cuanto dispone que corresponde al contribuyente probar la verdad de sus declaraciones o la naturaleza de los antecedentes y montos de las operaciones con los documentos, libros de contabilidad u otros medios que la ley establezca, en cuanto sean necesarios u obligatorios para él.
+Finalmente, cabe señalar que como un principio general, los gastos deducibles en la determinación de la renta líquida imponible de Primera Categoría del ejercicio, deben tener una relación directa con los ingresos brutos del mismo a que se refiere el artículo 29 de la ley del ramo, a objeto de establecer la debida correlatividad que debe existir entre ingresos y gastos del período.
 
-Finalmente se indica que,  en  el  caso  en  que  como  consecuencia  de  la
-enajenación de la inversión,  fusión,  absorción  o  “por  otra  causa”,  se
-produzca el cambio del titular de una inversión ya inscrita en  el  RIE,  el
-nuevo titular no  tendrá  derecho  al  crédito  mientras  no  regularice  la
-titularidad de dicha inversión. Una vez regularizado el registro,  el  nuevo
-titular de la inversión podrá invocar el crédito respecto de  los  impuestos
-soportados en el extranjero que  correspondan  a  las  rentas  percibidas  o
-devengadas a partir del año comercial en que se solicitó  la  regularización
-señalada, siempre que se cumplan los demás requisitos legales.
-
-3.- Por otra parte, conforme a lo dispuesto por el artículo 94, de  la  Ley
-N° 18.046, la división de una sociedad anónima consiste en la  distribución
-de su  patrimonio  entre  sí  y  una  o  más  sociedades  anónimas  que  se
-constituyan al efecto, correspondiéndole a los accionistas de  la  sociedad
-dividida, la misma proporción en el capital  de  cada  una  de  las  nuevas
-sociedades que aquella que poseían en la sociedad que se divide.
-
-
-En relación con la figura jurídica señalada, este Servicio ha expresado que
-la distribución que se hace del patrimonio de la sociedad  que  se  divide,
-corresponde a la asignación de cuotas  de  una  universalidad  jurídica  y,
-consecuencialmente, no existe propiamente una transferencia  o  transmisión
-de bienes, sino que  una  especificación  de  derechos  preexistentes,  los
-cuales en virtud de la decisión societaria adoptada,  quedan  radicados  en
-una entidad jurídica independiente, de modo que la asignación de bienes que
-se hace a la nueva sociedad resultante de la  división  no  constituye  una
-enajenación, así como tampoco se produce en ese  evento  un  cambio  en  el
-titular de  la  inversión,  sino  que  sólo  se  especifican  los  derechos
-preexistentes sobre la inversión referida.
-Por tanto, como se puede apreciar, la situación descrita en su  presentación
-no se refiere a una nueva inversión que se efectúe  en  el  exterior,  a  la
-enajenación de ésta, o al cambio del titular de  la  misma,  motivo  por  el
-cual, no le resultan aplicables las instrucciones y sanciones contenidas  en
-la Circular N° 25, de 2008.
 III.- CONCLUSIÓN.
+La deducción de los gastos referidos procederá en la medida que se dé cumplimiento a los requisitos que establece el artículo 31 de la LIR, particularmente en la situación analizada, que se encuentren pagados o adeudados y se acrediten fehacientemente ante este Servicio, todo ello en los términos señalados en el análisis.
+Para efectos de su acreditación fehaciente, el contribuyente deberá probar con los documentos, libros de contabilidad u otros medios que la ley establezca, según el caso, en cuanto sean necesarios u obligatorios para él, pudiendo en todo caso, este Servicio impugnarlos, si por razones fundadas no se estimaren fehacientes.
+Lo anterior, resulta ser una cuestión de hecho que debe ser analizada en la instancia de fiscalización respectiva, verificándose el cumplimiento de los requisitos señalados para la procedencia de la deducción de los gastos referidos, sin que pueda este Servicio pronunciarse a priori sobre la materia.
 
-Según se ha señalado, en la situación descrita en su presentación,  sólo  se
-produce una especificación de derechos preexistentes sobre una inversión  ya
-inscrita en el RIE que lleva este Servicio, razón por la cual no  existe  la
-obligación de volver a cumplir con la inscripción que establece el N° 2,  de
-la letra D), del  artículo  41  A,  de  la  LIR,  así  como  tampoco  existe
-obligación de actualizar la información que consta en el referido  registro,
-sin perjuicio de la conveniencia  para  el  contribuyente  de  efectuar  tal
-trámite en conformidad a Res. Ex. N° 50, de 2011.
+MICHEL JORRATT DE LUIS
+DIRECTOR
 
-En cuanto al  aprovechamiento  del  crédito  por  impuestos  pagados  en  el
-extranjero, cabe expresar que al no corresponder a una nueva inversión y  al
-no producirse el cambio de titular de la  misma,  la  sociedad  en  la  cual
-queda radicada  la  inversión  en  el  extranjero,  “Sociedad  AAA”,  tendrá
-derecho a usar el referido crédito en su declaración anual  de  impuestos  a
-la renta correspondiente al año tributario 2011, respecto de  los  impuestos
-soportados en el extranjero que correspondan  a  los  dividendos  percibidos
-durante el año comercial 2010, en conformidad al artículo 12 de la LIR y  en
-concordancia con el artículo 41 A, de la misma Ley, siempre que  se  cumplan
-los demás requisitos legales.
-
-
-
-
-
-
-                                       MICHEL JORRATT DE LUIS
-
-                                                            DIRECTOR (T y
-       P)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        Oficio N° 2068, de 12.11.2014
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Mediante Res. Ex.  50,  de  2011,  se  modificó  la  forma  en  que  los
-contribuyentes deben informar, modificar,  rectificar  o  actualizar,  según
-corresponda, las inversiones incorporadas al RIE que  lleva  este  Servicio,
-para lo cual deberán utilizar el  registro  electrónico  que  al  efecto  se
-crea.
+Oficio N°2069, de 12.11.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Circular N° 35 del 15 de Julio del 2013 Circular UF para los días comprendidos entre el 10 de Julio y el 9 de agosto del 2013. Fuente: Oficina de Gestión Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de agosto del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa. Circular N° 33 del 20 de Junio del 2013 Actualiza los p…
+acute;n Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de agosto del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

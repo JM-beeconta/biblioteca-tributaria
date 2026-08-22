@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 17
 - Año: 2014
-- Fecha: 2014-03-24
+- Fecha: 2014-03-19
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu17.pdf
 - Hash SHA-256: 285ee77a3773b923e0657195e499869bb3c9105bc7e2ec5a4555a86815d271d5
 
 ## Resumen
 
-alización Circular N° 18 del 24 de Marzo del 2014 (Zip 12501KB) Suplemento tributario con la normativa vigente para efectuar la Declaración de los Impuestos Anuales a la renta correspondientes al año tributario 2014 Fuente: Oficina de Gestión Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2014 y el 9 de abril del año 2014. Fuente: Oficina de Gestión Normativa Circular N° 16 del 19 de Marzo del 2014 Tablas del Impuesto Único de Segunda categoría y del Impuesto Global…
+oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo del año 2014 y el 9 de abril del año 2014. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

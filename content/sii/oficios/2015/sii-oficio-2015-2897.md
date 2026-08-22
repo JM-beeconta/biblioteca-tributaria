@@ -6,48 +6,52 @@
 - Año: 2015
 - Fecha: 2015-06-02
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1444.htm
-- Hash SHA-256: 6d620201a83cfc76c6992c650c335fe7e9cb2ec5432d8fd67ba5627b36c95a54
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1469.htm
+- Hash SHA-256: dc48eee948f01e278d30c7ecb157d18f4e4541a7c91a2dcfca0abf959b093b06
 
 ## Resumen
 
-N° 1 &ndash; Decreto Ley N° 3500, de 1980, Art. 18° &ndash; . (Ord. Nº 1469, de 02-06-2015) | Word Tratamiento tributario de una pensión o jubilación de acuerdo con las normas de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42° ter, Art. 54°, N°3 &ndash; Decreto Ley N° 3500, de 1980, Art. 71° &ndash; Circular N° 23, de 2002. (Ord. Nº 1444, de 29-05-2015) | Word Calidad tributaria y forma de declarar en el Formulario de declaración de Impuestos Anuales a la Renta, el i…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 42°, N° 1 &ndash; Decreto Ley N° 3500, de 1980, Art. 18° &ndash; . (Ord. Nº 1469, de 02-06-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":23,"year":2002}
-- {"type":"articulo","law":"LIR","article":"42 ter"}
-- {"type":"articulo","law":"LIR","article":"54"}
+- {"type":"oficio","number":2897,"year":2012}
+- {"type":"articulo","law":"LIR","article":"42 N"}
 - {"type":"articulo","law":"LIR","article":"42"}
-- {"type":"articulo","law":"LIR","article":"54 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42° TER, ART. 54°, N°3 – DECRETO LEY N° 3500, DE 1980, ART. 71° – CIRCULAR N° 23, DE 2002. (ORD. N° 1444, DE 29.05.2015)
-CALIDAD TRIBUTARIA Y FORMA DE DECLARAR EN EL FORMULARIO DE DECLARACIÓN DE IMPUESTOS ANUALES A LA RENTA, EL INGRESO CORRESPONDIENTE A UN RETIRO DE EXCEDENTES DE LIBRE DISPOSICIÓN, EFECTUADO DE UNA AFP DE ACUERDO AL D.L. N° 3.500.
-I.- ANTECEDENTES. Mediante su presentación, señala que en enero de 2012 efectuó un retiro de M$xxxxx, correspondiente a Excedentes de Libre Disposición. Agrega que el D.L. N°3.500 , establece que se puede retirar hasta 800 Unidades Tributarias Mensuales (UTM) libres de impuestos; y que el exceso paga Impuesto Global Complementario.
-Añade, que el Año Tributario 2013 no declaró las 800 UTM, declarando sólo el exceso, y pagando por impuestos aproximadamente M$xxxx; lo que habría sido autorizado por este Servicio en el Suplemento de Declaración de Impuestos correspondiente al Año Tributario 2012, en la Línea 8, indicando en la letra h) que no es obligación informar las 800 UTM señaladas, en esa línea.
-Indica, que este Servicio habría cambiado su interpretación en su Instructivo Renta del Año Tributario 2013, señalando que es obligación declarar esta renta en la línea 8 del Formulario N°22. Agrega que se habría objetado su declaración por el retiro efectuado el año 2012 y que por tanto debería declarar las 800 UTM en la línea 8, con lo cual aumenta su Impuesto Global Complementario, debiendo pagar otros M$xxxx.
-Señala que la Corte Suprema habría fallado en su contra, ya que se habría efectuado la corrección correspondiente, conforme a la rectificatoria de impuestos realizada.
-Por lo anterior, consulta sobre la razón del cambio de criterio, según lo antes indicado; solicitando asimismo que se analice la tramitación con carácter retroactivo de una reforma legal, cambiando en el artículo 42 ter de la Ley sobre Impuesto a la Renta, la palabra exención por libre de impuesto, con el objeto de dar solución a esta situación, ya que el espíritu de la Ley sería que esas sumas estén liberadas de todo tributo.
-
-II.- ANÁLISIS.
-El artículo 71 del D.L. N°3.500 de 1980, dispone que los retiros de Excedente de Libre Disposición (ELD) que se generen por opción de los afiliados que se pensionen, estarán afectos a un impuesto que se calculará y se pagará según lo dispuesto en el artículo 42 ter de la Ley sobre Impuesto a la Renta (LIR).
-Esta última disposición legal establece en su inciso 1°, que el monto de los ELD calculado de acuerdo a lo establecido en el D.L. N°3.500 y determinado al momento en que los afiliados opten por pensionarse, puede ser retirado libre de impuesto hasta por un máximo anual equivalente a 200 UTM, no pudiendo, en todo caso, exceder dicha exención el equivalente a 1.200 UTM. El contribuyente podrá alternativamente, optar por acoger sus retiros a una exención máxima de 800 UTM.
-
-El inciso 2° de esta norma legal, preceptúa que para que opere la exención señalada, los aportes que se efectúen para constituir dicho excedente, por concepto de cotización voluntaria, depósito de ahorro voluntario o depósito ahorro previsional voluntario colectivo, deberán haberse efectuado con a lo menos cuarenta y ocho meses de anticipación a la determinación de dicho excedente. En este sentido, si bien el inciso 1°, del artículo 42 ter de la LIR, citado en el párrafo anterior, utiliza la expresión “libre de impuesto”, el inciso 2° de esta norma, otorga expresamente a dicha liberación el carácter de una exención, y en consecuencia, las cantidades retiradas deben formar parte de la renta bruta del Impuesto Global Complementario, de acuerdo a lo que estipula el N° 3, del artículo 54 de la LIR, declarándose en la línea 8 del formulario 22, para efectos de la declaración anual de impuestos a la renta, como ocurre con la generalidad de las rentas exentas del referido tributo.
-En efecto, el N°3, del artículo 54 de la LIR, establece que las rentas totalmente exentas de Impuesto Global Complementario, las rentas parcialmente exentas de dicho tributo, en la parte que lo estén, las rentas sujetas a impuestos sustitutivos especiales y las rentas del N° 1 del artículo 42 de la LIR, deben incluirse en la base imponible del referido tributo personal, sólo para los efectos de aplicar la escala progresiva del citado gravamen, ya que se dará como crédito en contra del impuesto que resulte de aplicar la escala mencionada al conjunto de las rentas obtenidas, el impuesto que afectaría a las rentas exentas declaradas si se les aplicara aisladamente la tasa media que, según dicha escala, resulte para el conjunto total de rentas del contribuyente.
-En consonancia con las normas legales referidas, la Circular N°23 de 2002, en su Capítulo III, señala, luego de analizar las modalidades de retiro de ELD, es decir, respecto de aquellos que no exceden de los topes que señala la Ley, que estas suman corresponden a rentas exentas del Impuesto Global Complementario; lo que ha sido reiterado en forma sostenida en pronunciamientos de este Servicio , donde se insiste que conforme a lo dispuesto por el artículo 54 N°3 de la LIR, y atendido el carácter global y progresivo del Impuesto Global Complementario, el pensionado está obligado a declarar todas las rentas percibidas en dicho tributo, tanto las afectas como las exentas, es decir, en tal caso, debe declarar en el referido impuesto como rentas afectas, el monto de los ELD que supera los límites exentos, y como rentas exentas, la parte de los ELD que no supera los referidos topes exentos.
-En consecuencia, para los efectos de precisar la tributación de este tipo de retiros deben tenerse presente el texto legal y las instrucciones contenidas en la Circular N°23 referida, y lo indicado en el Suplemento Tributario correspondiente al Año Tributario 2013, según las cuales, estas cantidades inevitablemente forman parte de la renta bruta global en los términos citados.
-En todo caso, es menester destacar que la obligación de declarar las rentas exentas en la base imponible del Impuesto Global Complementario, sólo rige cuando el contribuyente durante el año calendario respectivo ha obtenido otras rentas afectas al mencionado tributo personal; exigencia que afecta a cualquier contribuyente cualquiera sea su actividad, sea pensionado o no, que hayan obtenido rentas gravadas y exentas en un año determinado.
-
-III.- CONCLUSIÓN.
-Este Servicio se ha pronunciado en anteriores oportunidades en relación a la materia específica en consulta, en el sentido que si bien el inciso 1°, del artículo 42 ter de la LIR, utiliza la expresión “libre de impuesto” respecto de los montos de ELD que no excedan los topes legales, el inciso 2° de la misma norma legal otorga a dicha liberación el carácter de una “exención”; y en tal calidad, por aplicación de lo establecido en el N°3, del artículo 54 de la LIR, deben formar parte de la renta bruta del Impuesto Global Complementario. En consecuencia, tales rentas deben incorporarse en la Línea N° 8 del Formulario N°22, como ocurre con la generalidad de las rentas exentas. Lo anterior, con el objeto de preservar el principio de progresividad del Impuesto Global Complementario, esto es, para efectos de que los contribuyentes que tienen un mismo nivel de rentas cualquiera sea su actividad, tenga el mismo nivel de tributación; sin perjuicio de lo cual la calidad de rentas exentas es resguardada a través del reconocimiento del derecho a usar un crédito proporcional a ellas, el cual se imputa en la línea N° 21 del mismo Formulario .
-En cuanto a la petición de efectuar una modificación legal sobre la materia, se informa que ello no es de competencia de este Servicio, correspondiendo que ésta sea analizada por las instancias decisorias de política tributaria.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42°, N° 1 – DECRETO LEY N° 3500, DE 1980, ART. 18° – OFICIO N° 2897, DE 2012. (ORD. N° 1469, DE 02.06.2015)
+TRATAMIENTO TRIBUTARIO DE UNA PENSIÓN O JUBILACIÓN DE ACUERDO CON LAS NORMAS DE LA LEY SOBRE IMPUESTO A LA RENTA.
+I ANTECEDENTES
+Mediante su consulta enviada por correo electrónico a la Presidencia de la República, señala que en el protocolo de acuerdo firmado por el Ejecutivo y la Comisión de Hacienda del Senado no encontró nada relacionado a la derogación del artículo 42 N°1, norma que establece a qué rentas se aplicará el Impuesto Único al Trabajo, en lo referente a las pensiones.
+Agrega que para una mejor comprensión, dentro del glosario de términos utilizados por la reforma tributaria, se lee: “Es un impuesto único de retención progresivo que grava mensualmente las rentas cuya fuente generadora es el trabajo, siempre que la prestación de servicios se realice bajo un vínculo de dependencia con un empleador o patrón.”
+Al respecto, y por especial encargo del Jefe de Gabinete del Subsecretario de Hacienda, a continuación se da respuesta a las preguntas que usted hiciera a S.E. la Presidenta de la República en mismo orden de su presentación.
+II ANÁLISIS
+1. ¿La pensión o jubilación se considera una renta?
+En base a lo informado por este Servicio en otras oportunidades sobre el tratamiento tributario aplicable a las pensiones , se puede señalar lo siguiente.
+Conforme al artículo 42 N°1 de la Ley sobre Impuesto a la Renta, se encuentran gravados con Impuesto Único de Segunda Categoría (establecido en el artículo 43 del mismo texto legal), los sueldos, sobresueldos, salarios, premios, dietas, gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que aumenten la remuneración pagada por servicios personales, montepíos y “pensiones”, exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro, y las cantidades percibidas por concepto de gastos de representación.
+Por su parte, el artículo 18 del DL N° 3.500 de 1980 dispone que aquella parte de la remuneración y renta imponible destinada al pago de las cotizaciones que los trabajadores efectúen en su cuenta de capitalización individual de conformidad con el artículo 17 de dicho texto legal debe entenderse comprendida dentro de las excepciones que contempla el N°1 del artículo 42 de la Ley sobre Impuesto a la Renta.
+De esta manera, y según se colige de las disposiciones antes citadas, las cotizaciones obligatorias destinadas a la formación de la pensión de vejez y efectuadas de conformidad con lo dispuesto por el DL N° 3.500, se excluyen de la base imponible para los efectos de aplicar el Impuesto Único de Segunda Categoría, de manera que dichas cantidades no quedan, en dicha oportunidad, afectas a tributación. Lo mismo ocurre con el ahorro previsional voluntario que se efectúe dentro de los topes que establece la ley.
+Cabe agregar además, que por expresa disposición del DL N° 3.500, la rentabilidad del fondo, a través de los incrementos que experimenten las cuotas de los fondos de pensiones, tienen igualmente el tratamiento de ingreso no renta.
+En otras palabras, y respondiendo derechamente su consulta, se informa que las cotizaciones efectuadas al fondo de pensiones y la rentabilidad que experimente dicho fondo se encuentran liberadas de tributación cuando se aportan al fondo de pensiones y cuando se obtienen por dicho fondo, respectivamente. Sin embargo, una vez que la persona se jubila y comienza a recibir su pensión, debe pagar el Impuesto Único de Segunda Categoría que, por disposición expresa del artículo 42 N°1 de la Ley sobre Impuesto a la Renta, grava también a las pensiones.
+2. ¿La fuente generadora de una pensión es el trabajo?
+Conforme al artículo 17 del DL N° 3.500, los trabajadores están obligados a cotizar en su cuenta de capitalización individual el 10 por ciento de sus remuneraciones y rentas imponibles. Esta obligación, de acuerdo al artículo 2° del mismo cuerpo legal nace al inicio de la labor del trabajador, que en caso de no ser afiliado, genera la afiliación automática al Sistema.
+Esta afiliación constituye una relación jurídica entre el trabajador y el Sistema de Pensiones de Vejez, Invalidez y Sobrevivencia que origina, entre otros, el derecho a las prestaciones y la obligación de cotización. La afiliación al sistema es única y permanente y subsiste durante toda la vida del afiliado, ya sea que se mantenga o no en actividad, que ejerza una o varias actividades simultáneas o sucesivas, o que cambie de Institución dentro del Sistema.
+Luego, puede sostenerse que la fuente generadora de la pensión recibida por un trabajador al momento de cumplirse los requisitos legales para pensionarse y cuyo monto se ha formado por las cotizaciones efectuadas por los trabajadores en su cuenta de capitalización individual, proviene, en último término, del trabajo.
+3. ¿Se puede considerar que una pensión o jubilación es una prestación de servicios?
+De acuerdo con lo expuesto precedentemente y sin perjuicio que la pensión puede tener como origen o fundamento último la existencia de una relación de trabajo, la pensión propiamente tal que recibe una persona, una vez cumplidos los requisitos legales para su pago, no constituye una prestación de servicios.
+4. ¿Cuál sería el vínculo de dependencia con un empleador o patrón de un jubilado?
+Sin perjuicio que su consulta no dice relación con materias de índole tributaria, dentro de la competencia de este Servicio, cabe señalar que el hecho de recibir la persona una jubilación, una vez cumplidos los requisitos de procedencia, es distinto al hecho que esa misma persona, en virtud de un vínculo de dependencia y subordinación, reciba una remuneración, como parece desprenderse de su consulta.
+III CONCLUSIÓN
+1. Las cotizaciones efectuadas al fondo de pensiones se encuentran liberadas de tributación cuando se aportan al fondo de pensiones; sin perjuicio que, una vez que la persona se jubila y comienza a recibir su pensión, deba pagar en esa oportunidad el Impuesto Único de Segunda Categoría que grava a las pensiones.
+2. Puede sostenerse que, en último término, la fuente generadora de la pensión recibida por un trabajador, cuyo monto se ha formado por las cotizaciones efectuadas por él en su cuenta de capitalización individual, proviene del trabajo.
+3. La pensión que recibe una persona no constituye una prestación de servicios.
+4. El hecho de recibir una jubilación es distinto al hecho que esa misma persona reciba una remuneración aparte de la jubilación.
 
 JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Oficio N° 1444, de 29.05.2015
+Oficio N° 1469, de 02.06.2015
 Subdirección Normativa
-Dpto. de Impuestos Directos
+Dpto. de Técnica Tributaria

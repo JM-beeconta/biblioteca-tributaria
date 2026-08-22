@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 59
 - Año: 2013
-- Fecha: 2013-12-24
+- Fecha: 2013-12-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2013/circu59.pdf
 - Hash SHA-256: ff98647a890a15baf15c512265f99a21369735a854473f63d21cb41889e33229
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 60 del 24 de Diciembre del 2013 Tabla de Cálculos de Reajustes, Intereses y Multas Enero 2014 Fuente: Subdirección de Fiscalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2013 y el 9 de enero del año 2014 Fuente: Oficina de Gestión Normativa Circular N° 58 del 16 de Diciembre del 2013 Tablas de Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de enero del año 2014 e información ad…
+scalización Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2013 y el 9 de enero del año 2014 Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

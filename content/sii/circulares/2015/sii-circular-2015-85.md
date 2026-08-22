@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tamento de Asesoría Jurídica Circular N° 86 del 11 de Noviembre del 2015 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2015 y el 9 de diciembre del año 2015. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2015 e Información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Circular N° 84 del 29 de Octubre del 2015 Tabla de cálculos de R…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2015 e Información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

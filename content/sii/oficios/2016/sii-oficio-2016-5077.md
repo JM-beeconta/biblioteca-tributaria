@@ -6,66 +6,69 @@
 - Año: 2016
 - Fecha: 2016-12-27
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja3389.htm
-- Hash SHA-256: 622e6375ea4f2d8b01d28bf8702a9394e71432680a557e9ec0beeadad2bb7371
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja3397.htm
+- Hash SHA-256: d4614cd63bcdf05d3b38ed50a43b2a2942e6e6bfb558d4b9b5bd6c7a118f40b3
 
 ## Resumen
 
-ual Ley sobre Impuesto a la &ndash; Art. 20, N°2, Art. 31, Art. 41, N°10 y N°12, letra d) &ndash; . (Ord. Nº 3397, de 27-12-2016) | Word Vigencia del Oficio N°5.077, de 1978, y su aplicabilidad en el caso de un crédito bancario destinado a la adquisición de activos que no generan rentas gravadas en la Ley sobre Impuesto a la Renta (LIR). Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Decreto Supremo N° 458, de 1975, Art. 167 &ndash; Decreto con Fuerza de Ley N° 2, de 1959 &ndash; Circular N° 37, de 2003. (Or…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 20, N°2, Art. 31, Art. 41, N°10 y N°12, letra d) &ndash; . (Ord. Nº 3397, de 27-12-2016) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":37,"year":2003}
-- {"type":"oficio","number":2517,"year":1993}
+- {"type":"oficio","number":5077,"year":1978}
+- {"type":"articulo","law":"LIR","article":"31"}
+- {"type":"articulo","law":"LIR","article":"41"}
+- {"type":"articulo","law":"LIR","article":"41 bis"}
+- {"type":"articulo","law":"LIR","article":"20 N"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO SUPREMO N° 458, DE 1975, ART. 167 – DECRETO CON FUERZA DE LEY N° 2, DE 1959 – CIRCULAR N° 37, DE 2003. (Ord. Nº 3389, de 27-12-2016)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N°2, ART. 31, ART. 41, N°10 Y N°12, LETRA D) – OFICIO N° 5077, DE 1978. (Ord. Nº 3397, de 27-12-2016)
 
-APLICACIÓN DE LOS BENEFICIOS, FRANQUICIAS Y EXENCIONES DEL DECRETO CON FUERZA DE LEY N° 2, DE 1959.
+VIGENCIA DEL OFICIO N°5.077, DE 1978, Y SU APLICABILIDAD EN EL CASO DE UN CRÉDITO BANCARIO DESTINADO A LA ADQUISICIÓN DE ACTIVOS QUE NO GENERAN RENTAS GRAVADAS EN LA LEY SOBRE IMPUESTO A LA RENTA (LIR).
 
-Se ha trasladado a esta Dirección Nacional su presentación efectuada ante la Contraloría General de la República, donde expone sobre el término de los beneficios establecidos en el DFL N° 2, de 1959, sobre Plan Habitacional, en caso que indica.
+Se ha solicitado un pronunciamiento a este Servicio sobre la vigencia del Oficio N° 5.077, de 1978; y sobre el tratamiento tributario del reajuste de un crédito bancario, destinado a la adquisición de activos que no generan rentas gravadas en la LIR, reajuste que se encuentra incorporado implícitamente en la tasa de interés única pactada y no en una cláusula específicamente incorporada por las partes como reajuste.
 
-I ANTECEDENTES
+I.- Antecedentes.
 
-De acuerdo a su presentación, este Servicio, tras una fiscalización efectuada en junio de 2015, habría determinado que los apartamentos de su empresa corresponden al tipo apart-hotel, procediendo a declarar la caducidad de los beneficios, franquicias y exenciones del Decreto con Fuerza de Ley N° 2, de 1959 (en adelante &ldquo;DFL N° 2&rdquo;), respecto de ellos.
+Expone el consultante sobre el caso de una empresa que declara en base a renta efectiva determinada por medio de contabilidad completa, la cual habría obtenido un préstamo bancario para destinarlo a la adquisición de determinados activos que no producirían rentas afectas a los tributos de la LIR.
 
-Como consecuencia de lo anterior, se realizaron cobros adicionales de contribuciones por el año 2015, continuado su cobro durante el presente año.
+Indica, a modo de ejemplo, que el préstamo contratado es por un capital de $1.000. La tasa de interés anual asciende a un 4%, pactándose un factor adicional de un 4% por concepto de reajuste por IPC. Esto totaliza una tasa anual de un 8% estipulada como tasa única.
 
-Estima que este Servicio habría cometido un error, atendido que su representada no ejerce el giro de apart-hotel en los inmuebles fiscalizados, sino que arrendamiento de inmuebles amoblados.
+Así, el consultante considera que al margen de la denominación con que el banco haya incluido el cobro del reajuste en el respectivo contrato, vale decir, de la calificación que le asignen las partes, los conceptos económicos subyacentes tras cobro del banco acreedor serían dos: (i) un factor de reajuste por corrección monetaria; y (ii) un factor por interés real, correspondiente a cualquiera suma que exceda del reajuste.
 
-Agrega que, habiendo recurrido ante el mismo órgano de control ante las sucesivas fiscalizaciones efectuadas por la I. Municipalidad XXXX, mediante el Dictamen N° xxxx, acompañado en los antecedentes, personal fiscalizador de la Contraloría General de la República y de la respectiva Municipalidad realizó una visita a la propiedad sin que pudiera verificarse la prestación de servicios complementarios asociados a un apart-hotel ni encontrar moradores en los departamentos indicados, a excepción de uno que comentó arrendarlo.
+Luego de un análisis de los artículos 41 N° 10, 41 bis y 20 N° 2, todos de la LIR, normas que considera serían aplicables al caso expuesto y de lo expresado por el Servicio en el Oficio N° 5.077, de 1978, documento éste en el que se sostiene que respecto de aquellos créditos contraídos para adquirir activos que no son susceptibles de generar rentas gravadas, igualmente es deducible el reajuste pactado sobre el crédito contraído, pero sólo hasta el monto equivalente al que resulte de aplicar a dichos pasivos un porcentaje de revalorización igual al que sirvió de base para revalorizar a su vez los activos adquiridos, solicita que se confirmen los siguientes criterios:
 
-El mismo Dictamen, citando jurisprudencia administrativa del órgano de control, señala que, &ldquo;si en una edificación con destino habitacional se pretenden desarrollar actividades lucrativas propias de un apart hotel, que incluyan la prestación a los clientes de servicios adicionales, es preciso tramitar previamente el cambio de destino del inmueble, en el entendido que el nuevo destino se encuentre permitido dentro del respectivo uso de suelo, de acuerdo a la normativa contenida en el instrumento de planificación territorial correspondiente.&rdquo;
+Que el Oficio N° 5.077, de 1978, se mantiene vigente, en términos que el reajuste sobre pasivos debe aceptarse como gasto, aun cuando el interés derivado de dicho pasivo no sea un gasto aceptado. Ello sin perjuicio de que sólo se acepte hasta el monto de reajuste que corresponde al activo correlativo.
 
-En razón de lo indicado, solicita la injerencia del órgano de control, el cual se abstuvo de emitir un pronunciamiento y remitió los antecedentes a este Servicio para los fines procedentes.
+Que este criterio se aplicaría aun cuando en el contrato del que se deriva el pasivo se ha incorporado dicho reajuste implícitamente, como un factor adicional para el cálculo de la tasa de interés única, y no en una cláusula específicamente incorporada por las partes para tales efectos.
 
-II ANÁLISIS
+II.- ANÁLISIS.
 
-Como primera cuestión, y sin perjuicio de lo informado más adelante, se hace presente que no constituye ésta la vía idónea para revisar su situación, en particular porque se solicita la &ldquo;injerencia&rdquo; del órgano contralor, sin impugnar derechamente una actuación de este Servicio o solicitar su revisión ante las instancias competentes y exponiendo los hechos relevantes.
+Conforme a las normas de la LIR, los contribuyentes del Impuesto de Primera Categoría deben tributar por sus utilidades determinadas éstas en los términos establecidos en los artículos 29 al 33 de la ley precitada.
 
-Dicho lo anterior, y desde un punto de vista estrictamente normativo, se informa que, de acuerdo a lo dispuesto en el DFL N° 2, pueden acogerse a los beneficios que dicha ley establece las &ldquo;viviendas económicas&rdquo; que cumplan determinadas condiciones o características.
+Al respecto, el inciso primero del artículo 31 de la LIR, establece en general, que no se deducirán los gastos incurridos en la adquisición, mantención o explotación de bienes no destinados al giro del negocio o empresa. En el mismo sentido, el N° 1 de este artículo reitera esta negativa, esta vez para el caso específico de los intereses y reajustes pagados o adeudados, respecto de créditos o préstamos empleados directa o indirectamente en la adquisición, mantención y/o explotación de bienes que no produzcan rentas gravadas en esta categoría.
 
-En lo que interesa al presente análisis, este Servicio, mediante la Circular N° 37 de 2003, ha interpretado que, para los efectos del citado DFL N° 2, &ldquo;vivienda económica&rdquo; se refiere al &ldquo;concepto básico de vivienda, la cual corresponde al edificio destinado a la habitación o morada de una persona física o una familia, constituyendo el lugar o sede de su vida doméstica.&rdquo; En consecuencia, si una "vivienda económica" deja de tener como destino principal el habitacional, en los términos señalados, la Circular instruye dejar sin efecto o declarar caducados los beneficios, franquicias y exenciones que establece el DFL N° 2.
+Por su parte, el artículo 41 de la LIR, de acuerdo con lo que dispone en su inciso primero, establece normas de reajuste de los estados contables de los contribuyentes de la Primera Categoría que declaren sus rentas efectivas conforme a las normas contenidas en el artículo 20, demostradas mediante un balance general, vale decir, establece normas de ajuste de dichos estados para corregir distorsiones que en los mismos pueda provocar la variable inflación. En tal sentido, y según dispone el N° 10 de este artículo, las deudas u obligaciones reajustables, como las del caso en análisis, existentes a la fecha del balance, se reajustan de acuerdo al reajuste pactado. Ahora bien, la letra d), del N° 12 de este mismo artículo, establece la contabilización de dicho ajuste, disponiendo que el monto de dicho reajuste se cargue a la cuenta de resultado &ldquo;Corrección Monetaria&rdquo;, previniendo o advirtiendo sin embargo al mismo tiempo, sobre su procedencia de acuerdo con las normas de los artículos 31 y 33.
 
-En ese contexto, este Servicio ha señalado que, por ejemplo, pierden las franquicias, beneficios y exenciones establecidas en el DFL N° 2, los inmuebles que sean destinados a la prestación de servicios de alojamiento bajo la modalidad de apart-hotel o apart-departamento[1], agregando que éstos corresponden a establecimientos en que se prestan servicios de alojamiento turístico en departamentos independientes de un mismo edificio y en departamentos independientes de más de un edificio respectivamente, existiendo en ambos casos una unidad de administración y explotación, y en los cuales además se pueden ofrecer otros servicios complementarios tales como el de mucama, teléfono, lavado de ropa y otros. De esta forma, son establecimientos en que se prestan servicios de similar naturaleza a los de hoteles, con la diferencia que los apart-hoteles o apart-departamentos se destinan a la prestación de tales servicios en departamentos independientes y no como dependencias que constituyen un todo homogéneo.
+De lo dicho, junto con indicar en primer término, que las normas de la LIR en análisis, vale decir, las disposiciones contenidas en sus artículos 31 N° 1 y 41 N° 10 son plenamente concordantes, cabe expresar que no obstante ser aplicable, en el caso de los créditos reajustables en general existentes a la fecha del balance, el cargo a resultado por &ldquo;Corrección Monetaria&rdquo;, ello por aplicación de la norma del N° 10 del artículo 41; la propia ley dispone en su artículo 31 N° 1 en concordancia con el artículo 41 N° 12, letra d), que cuando se trate de créditos o préstamos empleados directa o indirectamente en la adquisición, mantención y/o explotación de bienes que no produzcan rentas gravadas en la Primera Categoría, dicho cargo a resultado no se acepta como tal para los fines de la determinación de la renta líquida imponible de este impuesto.
 
-De lo expuesto, y sin que conste en esta instancia la efectividad de lo reseñado en su presentación así como la situación actual de los inmuebles aparentemente objetados, en principio es posible sostener que, si el inmueble se arrienda amoblado pero sin agregar la prestación de servicios de similar naturaleza a los de hoteles, no se verificaría en la especie un cambio del destino habitacional que prive a los inmuebles de los beneficios, franquicias y exenciones contenidas en el DFL N° 2.
+En relación a lo que manifiesta respecto a la denominación o distinción como interés o reajuste del cobro acordado con el banco en el respectivo contrato, o de la calificación que le asignen las partes, sólo cabe señalar a este Servicio en el ámbito de su competencia, que la disposición del artículo 41 bis de la LIR, aplica en caso de ingresos por intereses de contribuyentes que desarrollen actividades del artículo 20 N° 2 de la LIR, no demostradas mediante un balance general, no extensible por tanto a contribuyentes sometidos al sistema de corrección monetaria. Dicha distinción, sin embargo, en el caso examinado y para los fines de su consulta, no reviste relevancia, ello atendido que conforme a lo dispuesto por el inciso primero del N° 1 del artículo 31 de la LIR, tanto el interés como el reajuste, sea que estén adeudados o pagados, cuando deriven de una obligación o deuda empleada directa o indirectamente en la adquisición, mantención y/o explotación de bienes que no produzcan rentas gravadas en la Primera Categoría, situación que indica sería el caso de su presentación, no son aceptados tributariamente por la ley, como un gasto necesario para producir la renta en la determinación de la renta imponible afecta al Impuesto de Primera Categoría.
 
-Conforme al artículo 167 del Decreto Supremo N° 458 de 1975, del Ministerio de Vivienda y Urbanismo, que contiene el texto de la Ley General de Urbanismo y Construcciones, la resolución que declare la caducidad de los beneficios, franquicias y exenciones del DFL N° 2, que dicte este Servicio, es apelable ante la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo, dentro del plazo de 30 días, contados desde su notificación
+Finalmente, en cuanto a su consulta sobre la actual vigencia del criterio contenido en el Oficio N° 5.077, de 1978, citado en su presentación, se puede señalar que éste indica expresamente en su apartado a-4: &ldquo;El criterio anterior rigió hasta el año tributario 1976 y él fue publicado en las instrucciones para llenar el Formulario N° 2511.1, sobre Corrección Monetaria del citado año tributario 1976.&rdquo;, lo cual indica claramente que no se encuentra vigente dicho pronunciamiento.
 
-III CONCLUSIÓN
+III.- CONCLUSIÓN.
 
-De acuerdo a lo expuesto precedentemente, téngase por respondida la presentación formulada por el peticionario ante la Contraloría General de la República y trasladadas, por su intermedio, a este Servicio.
+En la situación que Ud. indica en su presentación, esto es, en el caso de un préstamo bancario destinado a la adquisición de determinados activos que producen rentas no afectas a impuesto a la renta, tanto los intereses como los reajustes pagados o adeudados por dicho crédito, no son aceptados como un gasto tributario en la determinación de la renta líquida imponible afecta al Impuesto de Primera Categoría, ello conforme a lo que expresamente señala el N° 1, del inciso cuarto del artículo 31 de la LIR.
 
-FERNANDO BARRAZA LUEGO
+Respecto a la vigencia del Oficio N° 5.077, de 1978, cabe expresar que dicho pronunciamiento no se encuentra actualmente vigente, toda vez que estableció un criterio que rigió hasta el año tributario 1976, según lo expresamente señalado en el mismo Oficio.
+
+FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 3389, de 27.12.2016
+Oficio N° 3397, de 27.12.2016
 
 Subdirección Normativa
 
-Dpto. de Técnica Tributaria
-
-[1] Oficio N° 2517 de 1993.
+Dpto. de Impuestos Directos

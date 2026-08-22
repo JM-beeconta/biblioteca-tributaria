@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/p> Fuente: Oficina de Gestión Normativa Circular N° 52 del 29 de Julio del 2016 Tabla de Cálculos de Reajustes, Intereses y Multas agosto 2016 Fuente: Subdirección de Fiscalización Sustituye El numeral 1.7 del Capítulo Tercero de la Circular N° 33, de 2013, que actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley Nº 19.537. Fuente: Subdirección de Avaluaciones Circular N° 50 del 20 de Julio del 2016 Establece política…
+scalización Sustituye El numeral 1.7 del Capítulo Tercero de la Circular N° 33, de 2013, que actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley Nº 19.537. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

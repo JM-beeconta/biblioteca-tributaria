@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 89
 - Año: 2015
-- Fecha: 2015-12-11
+- Fecha: 2015-11-25
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu89.pdf
 - Hash SHA-256: 31c0a5d9a8ae83079e02d0de85ea99b1feae9793360990b24f8f8b40a8d019e7
 
 ## Resumen
 
-Circular N° 90 del 11 de Diciembre del 2015 Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de enero del año 2016 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa Sustituye capítulo XIII de la Circular N° 21, de 19.04.2013, en materia de Política de Transparencia, incorporado en el referido cuerpo normativo por la Circular N° 41 de 05.09.2013 Fuente: Departamento de Asesoría Jurídica Circular N° 88 del 18 de Noviembre del…
+oacute;n Normativa Sustituye capítulo XIII de la Circular N° 21, de 19.04.2013, en materia de Política de Transparencia, incorporado en el referido cuerpo normativo por la Circular N° 41 de 05.09.2013 Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

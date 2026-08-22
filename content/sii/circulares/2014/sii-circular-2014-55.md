@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 55
 - Año: 2014
-- Fecha: 2014-10-23
+- Fecha: 2014-10-16
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2014/circu55.pdf
 - Hash SHA-256: 4b8d0e2e510ea8e33da1729be903bd025eddda789842d7d0ef58045c18ce051c
 
 ## Resumen
 
-Fuente: Oficina de Gestión Normativa Circular N° 56 del 23 de Octubre del 2014 Tabla de Cálculos de reajustes, Intereses y Multas noviembre 2014. Fuente: Subdirección de Fiscalización Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario. Fuente: Departamento de Impuestos Directos Circular N° 54 del 13 de Octubre del 2014 Tabl…
+scalización Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 54
 - Año: 2016
-- Fecha: 2016-08-19
+- Fecha: 2016-08-09
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2016/circu54.pdf
 - Hash SHA-256: 966cfe409c0f97021968c4ffa14e7a83f3c69ace2aa828b5888c81c6ca4b680d
 
 ## Resumen
 
-ativa_legislacion/circulares/2016/circu55.pdf' target='_blank'>Circular N° 55 del 19 de Agosto del 2016 Refunde y actualiza instrucciones sobre la aplicación del crédito tributario establecido a favor de las empresas constructoras que instalen sistemas solares térmicos (SST) en las viviendas, con motivo de las modificaciones incorporadas por la Ley N° 20.897 a la Ley N° 20.365. Fuente: Impuestos Directos Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de septiembre del…
+Impuestos Directos Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de septiembre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:10px;'> Fuente: Impuestos Directos Circular N° 44 del 10 de Septiembre del 2013 Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2013 y el 9 de octubre del año 2013. Fuente: Oficina de Gestión Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa Circular N° 42 del 05 de Septiembre del 2013 Complement…
+oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2013 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-yle='margin-top:0px;margin-bottom:0px;'>Política de Condonación de Intereses y Sanciones Pecuniarias Impuestas por Infracciones a las Obligaciones Tributarias Contempladas en el Artículo 97 N° 1 Inciso 1°, N° 2 y N° 11 del Código Tributario; Condonación de Recargos por Mora en el Pago del Impuesto Territorial y Supervisión de la Concesión del Beneficio. Deroga Circulares 42 de 2006, 60 y 64 de 2010. Fuente: Subdirección Jurídica Tabla de Cálculos de Reajustes, Intereses y Multas mayo 2013. Fuente: Subdirección de…
+n Jurídica Tabla de Cálculos de Reajustes, Intereses y Multas mayo 2013. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

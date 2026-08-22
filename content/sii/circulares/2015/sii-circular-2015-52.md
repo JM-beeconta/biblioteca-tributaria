@@ -4,14 +4,14 @@
 - Tipo: circular
 - Número: 52
 - Año: 2015
-- Fecha: 2015-06-24
+- Fecha: 2015-06-23
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2015/circu52.pdf
 - Hash SHA-256: 39f19d8c6ace29bcdeb22579a26df7d8fd20117690fe10f483a1fa11606dbb86
 
 ## Resumen
 
-to de Asesoría Jurídica Circular N° 53 del 24 de Junio del 2015 Imparte instrucciones sobre la publicación de información y estadísticas en el sitio web del Servicio de Impuestos Internos. Fuente: Departamento de Asesoría Jurídica Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas, contenido en el artículo 8° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta…
+;a Jurídica Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas, contenido en el artículo 8° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario. Fuente: Técnica Tributaria
 
 ## Referencias detectadas
 

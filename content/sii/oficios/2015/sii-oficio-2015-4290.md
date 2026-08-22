@@ -6,39 +6,42 @@
 - Año: 2015
 - Fecha: 2015-02-26
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja615.htm
-- Hash SHA-256: e67f6d072fa6d1a699ae5b64ffa31d1522c478d2a710ad25617324b00197b236
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja616.htm
+- Hash SHA-256: 2aecbc0e498c89cf3d1391a191ac17232d6900e1e7157daf0571e9952f698a9a
 
 ## Resumen
 
-&ndash; . (Ord. Nº 616, de 26-02-2015) | Word Limitaciones que establecen los artículos 11 y 13, de la Ley N° 19.885, respecto de las donaciones que otorgan beneficios tributarios al donante, en la situación que consulta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Tributario, Art. 126° &ndash; Ley N° 20.365, Art. 9° &ndash; Circular N° 50, de 2010. (Ord. Nº 615, de 26-02-2015) | Word Requisitos que debe cumplir el Crédito por Sistemas Solares Térmicos para su deducción. Renta &ndash; Actual Ley so…
+Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.885, Art. N° 11°, Art. N° 13° &ndash; Circular N° 71, de 2010 &ndash; . (Ord. Nº 616, de 26-02-2015) |
 
 ## Referencias detectadas
 
-- {"type":"circular","number":50,"year":2010}
-- {"type":"articulo","law":"CT","article":"126"}
+- {"type":"circular","number":71,"year":2010}
+- {"type":"oficio","number":4290,"year":2006}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO TRIBUTARIO, ART. 126° – LEY N° 20.365, ART. 9° – CIRCULAR N° 50, DE 2010. (ORD. N° 615, DE 26.02.2015)
-REQUISITOS QUE DEBE CUMPLIR EL CRÉDITO POR SISTEMAS SOLARES TÉRMICOS PARA SU DEDUCCIÓN.
-Se ha solicitado un pronunciamiento a este Servicio, sobre la procedencia de la utilización del crédito por sistemas solares térmicos establecido mediante la Ley N°20.365, efectuada por una empresa constructora, en el caso que los depósitos acumuladores o parte de ellos, no se encuentran incorporados en el registro que lleva la Superintendencia de Electricidad y Combustibles (SEC). I.- ANTECEDENTES.
-Señala, que un contribuyente de su jurisdicción ha solicitado se pronuncie sobre la procedencia de la utilización del crédito por sistemas solares térmicos establecido a favor de las empresas constructoras a través de la Ley N°20.365, el cual no habría sido otorgado debido a que la única empresa certificada como laboratorio de ensayos de los referidos sistemas, no contó con la capacidad operativa para la realización de éstos, razón por la cual, los componentes utilizados en los referidos sistemas no constan en el registro que lleva la SEC, de conformidad a lo establecido en el artículo 9 de la Ley.
-Indica que el referido contribuyente cuenta con los permisos de edificación otorgados por la municipalidad respectiva, así como también con los certificados que dan cuenta de la recepción municipal definitiva.
-Finalmente señala que considerando los antecedentes descritos y la normativa vigente, si un contribuyente no ha podido certificar una de las partes del sistema solar térmico, no puede utilizar el beneficio que establece la Ley N°20.365, por no cumplir con uno de los requisitos establecidos en ella.
-
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.885, ART. N° 11°, ART. N° 13° – CIRCULAR N° 71, DE 2010 – OFICIO N° 4290, DE 2006. (ORD. N° 616, DE 26.02.2015)
+LIMITACIONES QUE ESTABLECEN LOS ARTÍCULOS 11 Y 13, DE LA LEY N° 19.885, RESPECTO DE LAS DONACIONES QUE OTORGAN BENEFICIOS TRIBUTARIOS AL DONANTE, EN LA SITUACIÓN QUE CONSULTA.
+I.- ANTECEDENTES. Señala, que una sociedad ha propuesto hacer una donación a una Fundación para implementar en su Escuela de Formación Profesional de Oficios, un banco de repuestos, partes y piezas de automóviles, para la enseñanza de la mecánica, electricidad y electrónica automotriz. Al respecto, solicita se indique si se pierden los beneficios tributarios de Ley N°19.885, a favor de las donaciones hechas a esta Fundación, en caso que el donatario con cargo a los dineros recibidos compra estos repuestos directamente de la sociedad donante o de otras del mismo grupo de empresas, a precio de costo, conforme a lo establecido en el artículo 11 de la referida Ley. A su juicio, no se perderían tales beneficios ya que el donatario no estaría realizando una contraprestación a favor del donante como lo exige la norma citada para la aplicación de la limitación que establece.
+Asimismo, consulta sobre la aplicación, en esta situación, de la limitación que contempla el artículo 13 de la misma Ley.
 II.- ANÁLISIS.
-La Ley N°20.365, del año 2009, estableció un crédito tributario en beneficio de las empresas constructoras que instalen sistemas solares térmicos en las viviendas que construyan. Las instrucciones de este Servicio sobre la materia, se encuentran contenidas en la Circular N°50, del año 2010.
-Los requisitos para la procedencia del referido crédito, se encuentran contenidos principalmente en los artículos 3° y 4°, de la Ley N° 20.365, en concordancia con el artículo 9°, de la misma Ley. Sobre ellos, la letra c), del N°3, del Capítulo III, de la Circular N°50, estableció que “Los componentes utilizados en los SST deben corresponder a equipos o bienes nuevos, que no hayan sido instalados previamente en otros inmuebles, ya sea en Chile o el extranjero, independientemente del período que pudiere transcurrir entre una instalación y otra, y sin importar si se hubieren efectuado reparaciones o mantenciones a los equipos y bienes referidos. Tales componentes deberán constar en el registro que al efecto llevará la Superintendencia de Electricidad y Combustibles (SEC), de conformidad con lo dispuesto en el artículo 9°, de la Ley.”
-Como se puede apreciar, de acuerdo a las instrucciones referidas, para que una empresa constructora tenga derecho al crédito de esta Ley, debe cumplir con una serie de requisitos copulativos, dentro de los que se cuenta que los componentes de los sistemas deben constar en el registro que lleva la SEC.
-III.- CONCLUSIÓN.
-De acuerdo a lo señalado anteriormente, para tener derecho al crédito establecido en la Ley N°20.365, las empresas constructoras deben cumplir con todos los requisitos copulativos establecidos en la referida disposición legal, particularmente en sus artículos 3° y 4°, en concordancia con el artículo 9° de la misma Ley.
-Por tanto, en la medida que los componentes utilizados en los sistemas solares térmicos no consten en el registro que lleva la SEC, de conformidad con lo dispuesto en el artículo 9°, de la Ley N°20.365, la empresa constructora no tiene derecho al crédito referido, pues no cumple con uno de los requisitos establecidos en la Ley para tal efecto.
-Ahora bien, si con posterioridad tales componentes se incorporan al referido registro, y siempre que se cumpla con todos los demás requisitos legales y reglamentarios, el contribuyente tendrá derecho al crédito señalado, el cual se entenderá devengado en el mes en que se haya obtenido la recepción municipal final de cada inmueble destinado a la habitación en cuya construcción se haya incorporado el respectivo sistema, razón por la cual, el contribuyente podrá proceder en los términos establecidos en el artículo 126, del Código Tributario.
+Las instrucciones sobre lo dispuesto en los artículos 11 y 13 de la Ley N°19.885, fueron impartidas por este Servicio mediante la Circular N° 71, de 2010.
+Respecto del artículo 11, se señaló que esta disposición prohíbe la realización de prestaciones por parte del donatario, ya que para que las donaciones sean consideradas como tales, deben ser a título gratuito; y como rasgo fundamental de este contrato, debe existir una disminución del patrimonio del donante y el recíproco enriquecimiento o aumento del patrimonio del donatario.
+Dicho instructivo añade que, al utilizar la norma legal la expresión prestación, ha querido significar que las instituciones que reciban donaciones que permitan a los donantes acceder a beneficios tributarios, no podrán efectuar a tales donantes ninguna prestación, ya sea, en forma directa o indirecta, que implique un beneficio o servicio a favor del donante, cuyo pago pueda ser imputable al monto donado. Asimismo, indica que la disposición legal citada no prohíbe estrictamente la realización de prestaciones por parte del donatario en la medida que éstas sean remuneradas, de manera tal, que la remuneración guarde relación con la prestación.
+Por su parte, en Oficio N°4.290 de 2006, se señaló que el donante y donatario pueden celebrar ciertos contratos, que se ajusten a los precios del mercado, sin que ello signifique una contraprestación prohibida por la norma del aludido artículo 11, por lo que se indicó que el donatario no estaba impedido de adquirir del donante los bienes a que se refiere tal pronunciamiento, en tanto que el precio del bien se ajuste al normal o de mercado. Agrega que, sin embargo, la donación no puede condicionarse a la compra futura de un bien del donante o a la prestación de un servicio por el donatario, puesto que ello constituiría una contraprestación de las mencionadas por el artículo 11 de la Ley N°19.885, esto es, de aquellas que la Ley denomina otras contraprestaciones efectuadas en forma indirecta y que se realiza con ocasión o a causa de la donación.
+Por consiguiente, conforme a lo expresado se puede concluir que el texto del artículo 11 de la Ley en comento, no prohíbe en términos absolutos determinadas prestaciones del donatario a favor del donante, siempre que no se realicen en forma exclusiva, en condiciones especiales o exigiendo menos requisitos que los que exijan en general; pudiendo realizarse éstas, siempre que se efectúen a precios de mercado.
+En relación a las prohibiciones que establece el artículo 13 de la Ley en comento, respecto del donante, cabe señalar que no se podrán utilizar los beneficios tributarios que la Ley establece cuando entre otros casos, dentro de los dos años anteriores a la donación, hubieren realizado transacciones, operaciones o cualquier otro acto con la entidad donataria, en condiciones de precio o financiamiento distintas a las normales del mercado. De los antecedentes descritos en su presentación no se verifica el hecho de que se hubieren realizado tales transacciones, operaciones o cualquier otro acto con la entidad donataria, razón por la cual dicha limitación no sería aplicable.
+
+III.- CONCLUSIONES.
+A juicio de esta Dirección y basado en los antecedentes que describe en su presentación, se concluye que los beneficios tributarios que establece la Ley N°19.885, a favor de las donaciones hechas a esta Fundación, no se pierden en caso que el donatario, con cargo a los dineros recibidos, compre los repuestos directamente de la sociedad donante o de otras del mismo grupo de empresas, en tanto que el precio del bien se ajuste al normal o de mercado, y siempre que dicha compra no haya sido establecida como una condición para efectuar la misma donación, puesto que en tal caso, el hecho de la compra aún a precio normal, constituiría una prestación de las mencionadas por el artículo 11 de la Ley N°19.885.
+Se hace presente que el precio de costo que describe en su presentación, no correspondería al precio normal cobrado en operaciones de venta de repuestos, así como tampoco al valor de mercado de los mismos, por lo que de cobrarse dicho precio, la operación también se comprendería dentro de las prestaciones que la Ley prohíbe.
+Respecto de la limitación que establece el artículo 13 de la Ley N°19.885, cabe señalar que de los antecedentes descritos en su presentación no se verifica la realización de transacciones, operaciones o cualquier otro acto con la entidad donataria dentro de los dos años anteriores a la donación, razón por la cual dicha limitación no sería aplicable.
+
+En todo caso, se hace presente que la verificación de las circunstancias de hecho que rodean la operación, son materias propias de la instancia de fiscalización respectiva.
 
 JUAN ALBERTO ROJAS BARRANTI
 DIRECTOR (S)
 
-Ord. N° 615, de 26.02.2015
+Oficio N° 616, de 26.02.2015
 Subdirección Normativa
 Dpto. de Impuestos Directos
