@@ -99,36 +99,60 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          # steps.deployment.outputs.page_url puede traer un \r final invisible en el log (curl lo
-          # rechaza con "Malformed input to a URL function" al quedar embebido en medio de la URL
-          # una vez armada) — se limpia explícitamente en vez de asumir que la variable ya es texto
-          # plano.
-          BASE="${PAGE_URL%/}"
-          BASE="${BASE//$'\r'/}"
-          CACHE_BUST="$(date +%s)"
-          curl -fsSL --retry 8 --retry-delay 3 "$BASE/?v=$CACHE_BUST" -o /tmp/home.html
-          curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/catalog.json?v=$CACHE_BUST" -o /tmp/catalog.json
-          curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/manifest.json?v=$CACHE_BUST" -o /tmp/manifest.json
-          curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/backfill-status.json?v=$CACHE_BUST" -o /tmp/backfill.json
-          curl -fsSL --retry 8 --retry-delay 3 "$BASE/llms.txt?v=$CACHE_BUST" -o /tmp/llms.txt
-          SAMPLE_PATH=$(node - <<'NODE'
-          const fs=require('fs');
-          const c=JSON.parse(fs.readFileSync('/tmp/catalog.json','utf8'));
-          const m=JSON.parse(fs.readFileSync('/tmp/manifest.json','utf8'));
-          const b=JSON.parse(fs.readFileSync('/tmp/backfill.json','utf8'));
-          if(!Array.isArray(c)||!c.length) throw new Error('catálogo publicado vacío');
-          if(Number(m.total_documents)!==c.length) throw new Error(`publicado: manifest=${m.total_documents}, catálogo=${c.length}`);
-          if(b.status!=='completed') throw new Error(`backfill publicado no está completo: ${b.status}`);
-          if(c.length<8000) throw new Error(`corpus publicado incompleto: ${c.length}`);
-          const sample=c.find(d=>d.source==='SII'&&d.type==='oficio')||c[0];
-          if(!sample?.html_path||!sample?.summary_short) throw new Error('ficha de muestra inválida');
-          console.log(`Corpus público verificado: ${c.length} documentos.`);
-          process.stdout.write(sample.html_path);
+          # Antes esto usaba curl por línea de comandos; curl empezó a fallar en todos los runners
+          # con "URL rejected: Malformed input to a URL function" incluso con la URL saneada a mano
+          # (probablemente un problema del binario/imagen del runner, no de este script). fetch()
+          # de Node evita por completo esa capa.
+          node <<'NODE'
+          async function getText(url, { retries = 8, delayMs = 3000 } = {}) {
+            let lastError;
+            for (let attempt = 1; attempt <= retries; attempt++) {
+              try {
+                const response = await fetch(url, { cache: 'no-store' });
+                if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+                return await response.text();
+              } catch (error) {
+                lastError = error;
+                if (attempt < retries) await new Promise((r) => setTimeout(r, delayMs));
+              }
+            }
+            throw new Error(`No se pudo obtener ${url}: ${lastError.message}`);
+          }
+
+          async function main() {
+            const base = (process.env.PAGE_URL || '').trim().replace(/\/$/, '');
+            if (!base) throw new Error('PAGE_URL vacío');
+            const bust = Date.now();
+            const at = (path) => `${base}${path}${path.includes('?') ? '&' : '?'}v=${bust}`;
+
+            const [home, catalogRaw, manifestRaw, backfillRaw, llms] = await Promise.all([
+              getText(at('/')),
+              getText(at('/data/catalog.json')),
+              getText(at('/data/manifest.json')),
+              getText(at('/data/backfill-status.json')),
+              getText(at('/llms.txt')),
+            ]);
+
+            const catalog = JSON.parse(catalogRaw);
+            const manifest = JSON.parse(manifestRaw);
+            const backfill = JSON.parse(backfillRaw);
+            if (!Array.isArray(catalog) || !catalog.length) throw new Error('catálogo publicado vacío');
+            if (Number(manifest.total_documents) !== catalog.length) throw new Error(`publicado: manifest=${manifest.total_documents}, catálogo=${catalog.length}`);
+            if (backfill.status !== 'completed') throw new Error(`backfill publicado no está completo: ${backfill.status}`);
+            if (catalog.length < 8000) throw new Error(`corpus publicado incompleto: ${catalog.length}`);
+            if (!home.includes('corpusTotal')) throw new Error('monitor de corpus ausente en portada');
+            if (!llms.trim()) throw new Error('llms.txt vacío');
+
+            const sample = catalog.find((d) => d.source === 'SII' && d.type === 'oficio') || catalog[0];
+            if (!sample?.html_path || !sample?.summary_short) throw new Error('ficha de muestra inválida');
+
+            const documentHtml = await getText(at(`/${sample.html_path}`));
+            if (!documentHtml.includes('document-shell')) throw new Error('ficha HTML sin document-shell');
+            if (!documentHtml.includes('Texto del documento')) throw new Error('ficha HTML sin "Texto del documento"');
+
+            console.log(`Pages verificado: ${base}`);
+            console.log(`Corpus público verificado: ${catalog.length} documentos.`);
+          }
+
+          main().catch((error) => { console.error(error.message); process.exit(1); });
           NODE
-          )
-          curl -fsSL --retry 8 --retry-delay 3 "$BASE/$SAMPLE_PATH?v=$CACHE_BUST" -o /tmp/document.html
-          grep -q 'document-shell' /tmp/document.html
-          grep -q 'Texto del documento' /tmp/document.html
-          grep -q 'corpusTotal' /tmp/home.html
-          test -s /tmp/llms.txt
-          echo "Pages verificado: $BASE"
