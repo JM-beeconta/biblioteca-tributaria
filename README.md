@@ -1,9 +1,11 @@
 # Biblioteca Tributaria Beeconta
 
-MVP de biblioteca pública para consultar en un mismo lugar:
+Biblioteca pública de fuentes tributarias chilenas para consulta humana y por agentes.
 
 - **BCN / LeyChile:** Ley sobre Impuesto a la Renta (DL 824), Ley sobre Impuesto a las Ventas y Servicios (DL 825) y Código Tributario (DL 830).
 - **SII:** Circulares y Jurisprudencia Administrativa (Oficios) en Renta, IVA y Otras Normas.
+
+**Sitio:** https://jm-beeconta.github.io/biblioteca-tributaria/
 
 El proyecto no usa Supabase, n8n, Make, base de datos ni servidor permanente.
 
@@ -11,65 +13,91 @@ El proyecto no usa Supabase, n8n, Make, base de datos ni servidor permanente.
 
 ```text
 BCN / LeyChile ─┐
-                ├─> Node crawler ─> JSON + Markdown ─> GitHub Pages
-SII público ────┘                         │
-                                          ├─> navegador humano
-                                          ├─> ChatGPT / agentes web
-                                          └─> Claude / agentes web
+                ├─> crawler Node ─> JSON + Markdown ─┐
+SII público ────┘                                    │
+                                                     ├─> GitHub Pages / buscador
+                                                     ├─> ChatGPT / agentes web
+                                                     └─> Claude / agentes web
 ```
+
+La publicación y la recolección de datos están desacopladas: un problema temporal del SII no deja fuera de línea el buscador.
+
+## Endpoints públicos
+
+```text
+https://jm-beeconta.github.io/biblioteca-tributaria/
+https://jm-beeconta.github.io/biblioteca-tributaria/data/index.json
+https://jm-beeconta.github.io/biblioteca-tributaria/data/relations.json
+https://jm-beeconta.github.io/biblioteca-tributaria/data/meta.json
+https://jm-beeconta.github.io/biblioteca-tributaria/llms.txt
+https://jm-beeconta.github.io/biblioteca-tributaria/sitemap.xml
+```
+
+`source_url` siempre apunta a la fuente jurídica oficial SII o BCN. La copia Markdown sólo facilita búsqueda y lectura.
 
 ## Archivos importantes
 
 - `data/index.json`: índice estructurado para humanos y agentes.
-- `data/relations.json`: referencias entre circulares, oficios y artículos detectadas automáticamente.
+- `data/relations.json`: referencias detectadas entre Circulares, Oficios y artículos.
+- `data/meta.json`: estado y fecha de actualización del corpus.
+- `data/deploy-health.json`: última verificación automática de GitHub Pages.
 - `content/`: copia de consulta en Markdown de cada documento extraído.
 - `site/`: front estático.
-- `llms.txt`: se genera en cada build para facilitar el acceso de agentes.
-- `.github/workflows/library-pages.yml`: actualización semanal + despliegue.
+- `scripts/build-site.mjs`: genera el sitio, `llms.txt`, `robots.txt` y `sitemap.xml`.
+- `.github/workflows/library-pages.yml`: build, deploy y health check de GitHub Pages.
+- `.github/workflows/library-update.yml`: actualización semanal y backfill histórico.
 
-## Primera puesta en marcha
+## Publicación
 
-1. Crear un repositorio público en GitHub, por ejemplo `JM-beeconta/biblioteca-tributaria`.
-2. Subir el contenido completo de este proyecto a `main`.
-3. En GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. Ir a **Actions → Actualizar y publicar biblioteca → Run workflow** y marcar `full_history = true`.
-5. La primera carga hará el backfill histórico y publicará el sitio.
-6. Desde entonces, la Action corre **cada lunes a las 06:00 America/Santiago**.
+Cada cambio en `main` dispara `Publicar Biblioteca Tributaria`:
+
+1. ejecuta tests;
+2. construye el sitio estático;
+3. publica en GitHub Pages;
+4. comprueba por HTTP el front, `data/index.json` y `llms.txt`;
+5. registra el resultado en `data/deploy-health.json`.
 
 ## Actualización semanal
 
+`Actualizar Biblioteca Tributaria` corre cada lunes a las **06:17 America/Santiago**.
+
 La corrida semanal:
 
-- vuelve a leer las tres normas base de BCN para detectar cambios;
+- relee las tres normas base de BCN para detectar cambios;
 - revisa el año actual y anterior de Circulares SII;
 - revisa el año actual y anterior de Oficios SII en Renta, IVA y Otras Normas;
 - calcula SHA-256 para detectar cambios de contenido;
 - actualiza Markdown, índice y relaciones;
-- guarda los cambios en Git;
-- vuelve a publicar GitHub Pages.
+- guarda cambios en Git;
+- publica nuevamente el sitio actualizado.
 
-La carga histórica inicial recorre Circulares desde 1974 y Jurisprudencia Administrativa desde 1998. Años o rutas que no existan se omiten sin detener el proceso.
+Las descargas usan timeout, reintentos y concurrencia baja para no sobrecargar los sitios públicos.
+
+## Backfill histórico
+
+La carga inicial se ejecuta por bloques de cuatro años y guarda checkpoints en Git. Si un tramo falla, el avance previo no se pierde.
+
+Objetivo inicial:
+
+- Circulares SII desde 1974;
+- Jurisprudencia Administrativa SII desde el rango histórico disponible en los índices del Servicio;
+- LIR, LIVS y Código Tributario vigentes desde BCN/LeyChile, separados también por artículos.
+
+El marcador `.bootstrap-full-history` se elimina automáticamente una vez completado el backfill.
 
 ## Acceso para ChatGPT / Claude
 
-Una vez publicado, un agente puede comenzar por:
+Un agente debe comenzar por `llms.txt` o `data/index.json`. Cada registro incluye:
 
-```text
-https://<dominio>/data/index.json
-https://<dominio>/data/relations.json
-https://<dominio>/llms.txt
-```
-
-Cada entrada del índice contiene:
-
-- `source_url`: enlace oficial SII o BCN que debe usarse como fuente jurídica;
-- `content_path`: texto local extraído para búsqueda/lectura rápida;
+- `source_url`: URL oficial que debe citarse como respaldo jurídico;
+- `content_path`: texto extraído para lectura rápida;
 - `references`: artículos, Oficios y Circulares detectados;
-- `sha256`: huella para identificar cambios.
+- `sha256`: huella del contenido para detectar modificaciones;
+- metadata de fuente, tipo, número, fecha, año y materia.
 
 ## Buscador
 
-El front busca localmente, sin backend. Prioriza coincidencias en título y resumen y luego texto de búsqueda. Permite filtrar por:
+El front busca localmente, sin backend. Permite filtrar por:
 
 - BCN / SII;
 - Norma / Artículo / Oficio / Circular;
@@ -78,12 +106,12 @@ El front busca localmente, sin backend. Prioriza coincidencias en título y resu
 
 ## Criterios de seguridad y respeto de fuentes
 
-- sólo consulta páginas públicas;
+- sólo consulta información pública;
 - no usa login ni credenciales;
-- las solicitudes son secuenciales y con pausa;
+- usa concurrencia baja, pausas, timeout y caché en Git;
 - la revisión recurrente es semanal, no continua;
-- no reemplaza la fuente oficial: cada ficha mantiene su URL original;
-- el front advierte que la copia local puede contener errores de extracción.
+- cada documento conserva el enlace a la fuente oficial;
+- la copia local puede contener errores de extracción y no sustituye el texto oficial.
 
 ## Desarrollo local
 
@@ -95,13 +123,14 @@ npm run build
 python -m http.server 8080 -d dist
 ```
 
-Para ejecutar el crawler se requiere `pdftotext` (paquete `poppler-utils`). En GitHub Actions se instala automáticamente.
+Para extraer PDFs se requiere `pdftotext` (`poppler-utils`), instalado automáticamente en GitHub Actions.
 
 ```bash
-npm run update       # semana actual + anterior
-npm run bootstrap    # carga histórica completa
+npm run update
+node scripts/update.mjs --from=2023 --to=2026
+npm run bootstrap
 ```
 
-## Alcance de este MVP
+## Alcance
 
-Esta versión prioriza que la biblioteca **funcione y sea fácil de mantener**. No incluye todavía embeddings, RAG, login, favoritos ni un backend de IA. La búsqueda semántica puede agregarse más adelante sin cambiar el corpus ni las URLs públicas.
+La prioridad es un corpus confiable, rastreable y fácil de mantener. Embeddings, RAG, login y favoritos quedan fuera del núcleo: pueden agregarse después sin cambiar las URLs públicas ni la fuente de verdad.
