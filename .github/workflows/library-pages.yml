@@ -17,6 +17,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -28,16 +29,23 @@ jobs:
         run: npm test
 
       - name: Construir sitio estático
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
         run: npm run build
 
       - name: Validar catálogo, contador y lector HTML
         shell: bash
         run: |
+          set -euo pipefail
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
           const catalog = JSON.parse(fs.readFileSync('dist/data/catalog.json', 'utf8'));
+          const manifest = JSON.parse(fs.readFileSync('dist/data/manifest.json', 'utf8'));
+          const backfill = JSON.parse(fs.readFileSync('dist/data/backfill-status.json', 'utf8'));
           if (!Array.isArray(catalog) || !catalog.length) throw new Error('catalog.json vacío');
+          if (manifest.total_documents !== catalog.length) throw new Error(`manifest=${manifest.total_documents}, catálogo=${catalog.length}`);
+          if (backfill.status === 'completed' && catalog.length < 8000) throw new Error(`Histórico marcado completo con sólo ${catalog.length} documentos`);
           const invalidSummary = catalog.find((doc) => !doc.summary_short || /[\r\n]/.test(doc.summary_short));
           if (invalidSummary) throw new Error(`summary_short inválido: ${invalidSummary.id}`);
           const sample = catalog.find((doc) => doc.source === 'SII' && doc.type === 'oficio') || catalog[0];
@@ -48,17 +56,14 @@ jobs:
           if (!html.includes('document-shell') || !html.includes('Texto del documento')) throw new Error(`ficha HTML incompleta: ${sample.id}`);
           const home = fs.readFileSync('dist/index.html','utf8');
           if(!home.includes('corpusTotal') || !home.includes('backfillProgress')) throw new Error('monitor de corpus ausente');
-          const manifestPath='dist/data/manifest.json';
-          if(fs.existsSync(manifestPath)) {
-            const manifest=JSON.parse(fs.readFileSync(manifestPath,'utf8'));
-            if(manifest.total_documents!==catalog.length) throw new Error(`manifest=${manifest.total_documents}, catálogo=${catalog.length}`);
-          }
-          console.log(`Publicación validada: ${catalog.length} documentos.`);
+          console.log(`Publicación validada: ${catalog.length} documentos; backfill=${backfill.status}.`);
           NODE
+          du -sh dist
 
       - uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v3
+      - name: Subir artefacto de GitHub Pages
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 
@@ -67,35 +72,42 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     needs: build
     steps:
       - name: Publicar GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Verificar publicación
+      - name: Verificar corpus publicado
         env:
           PAGE_URL: ${{ steps.deployment.outputs.page_url }}
         shell: bash
         run: |
           set -euo pipefail
           BASE="${PAGE_URL%/}"
-          curl -fsSL --retry 5 --retry-delay 2 "$BASE/" -o /tmp/home.html
-          curl -fsSL --retry 5 --retry-delay 2 "$BASE/data/catalog.json" -o /tmp/catalog.json
-          curl -fsSL --retry 5 --retry-delay 2 "$BASE/data/meta.json" -o /tmp/meta.json
-          curl -fsSL --retry 5 --retry-delay 2 "$BASE/llms.txt" -o /tmp/llms.txt
+          CACHE_BUST="$(date +%s)"
+          curl -fsSL --retry 8 --retry-delay 3 "$BASE/?v=$CACHE_BUST" -o /tmp/home.html
+          curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/catalog.json?v=$CACHE_BUST" -o /tmp/catalog.json
+          curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/manifest.json?v=$CACHE_BUST" -o /tmp/manifest.json
+          curl -fsSL --retry 8 --retry-delay 3 "$BASE/data/backfill-status.json?v=$CACHE_BUST" -o /tmp/backfill.json
+          curl -fsSL --retry 8 --retry-delay 3 "$BASE/llms.txt?v=$CACHE_BUST" -o /tmp/llms.txt
           SAMPLE_PATH=$(node - <<'NODE'
           const fs=require('fs');
           const c=JSON.parse(fs.readFileSync('/tmp/catalog.json','utf8'));
-          const m=JSON.parse(fs.readFileSync('/tmp/meta.json','utf8'));
-          if(!Array.isArray(c)||!c.length) process.exit(1);
-          if(Number(m.total_documents||c.length)!==c.length) process.exit(1);
+          const m=JSON.parse(fs.readFileSync('/tmp/manifest.json','utf8'));
+          const b=JSON.parse(fs.readFileSync('/tmp/backfill.json','utf8'));
+          if(!Array.isArray(c)||!c.length) throw new Error('catálogo publicado vacío');
+          if(Number(m.total_documents)!==c.length) throw new Error(`publicado: manifest=${m.total_documents}, catálogo=${c.length}`);
+          if(b.status!=='completed') throw new Error(`backfill publicado no está completo: ${b.status}`);
+          if(c.length<8000) throw new Error(`corpus publicado incompleto: ${c.length}`);
           const sample=c.find(d=>d.source==='SII'&&d.type==='oficio')||c[0];
-          if(!sample?.html_path||!sample?.summary_short) process.exit(1);
+          if(!sample?.html_path||!sample?.summary_short) throw new Error('ficha de muestra inválida');
+          console.log(`Corpus público verificado: ${c.length} documentos.`);
           process.stdout.write(sample.html_path);
           NODE
           )
-          curl -fsSL --retry 5 --retry-delay 2 "$BASE/$SAMPLE_PATH" -o /tmp/document.html
+          curl -fsSL --retry 8 --retry-delay 3 "$BASE/$SAMPLE_PATH?v=$CACHE_BUST" -o /tmp/document.html
           grep -q 'document-shell' /tmp/document.html
           grep -q 'Texto del documento' /tmp/document.html
           grep -q 'corpusTotal' /tmp/home.html
