@@ -1,0 +1,73 @@
+# Oficio de 2004
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2004
+- Fecha: 2004-07-12
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja775.htm
+- Hash SHA-256: 74b36e67385c692b61b3e7599f961d99381f3aa1468857c5282e3fe1805190dd
+
+## Resumen
+
+>Impuesto al Valor Agregado, en la Intermediaci�n dirigida a la obtenci�n de Cr�ditos de Consumo. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 3. (Ord. N� 2.975, de 12.07.2004) Word Aplicaci�n del Impuesto al Valor Agregado, a la Prestaci�n de Servicios de Ingenier�a. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 13�, N� 7 � Ley de la Renta, Art. 20�, N� 4 � Ley N� 16.744, Art. 8�, Art…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS � NUEVO TEXTO � ACTUAL LEY SOBRE IMPUESTO A LAS � ART. 8�, ART. 2�, N� 2, ART. 13�, N� 7 � LEY DE LA RENTA, ART. 20�, N� 4 � LEY N� 16.744, ART. 8�, ART. 9�, ART. 10�, ART. 29� � ORD. N� 1.084, DE 1994. (ORD. N�2.956, DE 09.07.2004)
+
+Home | Ventas y Servicios - 2004
+VENTAS Y SERVICIOS � NUEVO TEXTO � ACTUAL LEY SOBRE IMPUESTO A LAS � ART. 8�, ART. 2�, N� 2, ART. 13�, N� 7 � LEY DE LA RENTA, ART. 20�, N� 4 � LEY N� 16.744, ART. 8�, ART. 9�, ART. 10�, ART. 29� � ORD. N� 1.084, DE 1994. (ORD. N�2.956, DE 09.07.2004)
+
+NO PROCEDE APLICAR LA EXENCI�N DEL ART�CULO 13�, N� 7�, DEL D.L. N� 825 A ESTABLECIMIENTOS DE SALUD PARTICULARES QUE EN VIRTUD DE CONTRATOS CELEBRADOS CON EL INSTITUTO DE NORMALIZACI�N PREVISIONAL, OTORGAN PRESTACIONES DE SALUD A BENEFICIARIOS DEL SEGURO OBLIGATORIO CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO � LAS PRESTACIONES M�DICAS EFECTUADAS EN CL�NICAS, HOSPITALES, LABORATORIOS Y OTROS ESTABLECIMIENTOS AN�LOGOS PARTICULARES, SE ENCUENTRAN EXPRESAMENTE GRAVADAS CON EL IMPUESTO AL VALOR AGREGADO, POR TRATARSE DE ACTIVIDADES CLASIFICADAS EN EL ART�CULO 20�, N� 4, DE LA LEY SOBRE IMPUESTO A LA RENTA � DICHAS PRESTACIONES SE ENCUENTRAN EXENTAS DEL TRIBUTO EN COMENTO CUANDO SON EFECTUADAS POR PERSONAS NATURALES O JUR�DICAS QUE EN VIRTUD DE UN CONTRATO O UNA AUTORIZACI�N SUSTITUYAN, AL FONDO NACIONAL DE SALUD Y A LOS SERVICIOS DE SALUD, EN LA PRESTACI�N DE LOS BENEFICIOS ESTABLECIDOS POR LEY � LAS PRESTACIONES DE SALUD EFECTUADAS POR LAS MUTUALIDADES EN CL�NICAS, HOSPITALES U OTROS ESTABLECIMIENTOS DE SALUD QUE �STAS POSEAN, SE ENCUENTRAN GRAVADAS CON IMPUESTO AL VALOR AGREGADO � CUANDO DICHAS PRESTACIONES DE SALUD SE EFECT�AN COMO INDEMNIZACI�N DE UN ACCIDENTE DEL TRABAJO O UNA ENFERMEDAD PROFESIONAL A UNO DE SUS AFILIADOS, DEBEN REALIZARSE EN FORMA GRATUITA, SEG�N EL ART�CULO 29�, DE LA LEY N� 16.744, Y DADA ESA GRATUIDAD ES QUE DICHA PRESTACI�N NO SE ENCUENTRA AFECTA A IVA.
+
+1.- Se ha recibido en esta Direcci�n Nacional su presentaci�n del antecedente, mediante la cual consulta si procede aplicar la exenci�n del art�culo 13�, N� 7, del D.L. N� 825 a establecimientos de salud particulares por las prestaciones de salud que en virtud de contratos celebrados con el Instituto de Normalizaci�n Previsional, otorgan a beneficiarios del seguro obligatorio contra riesgos de accidentes del trabajo, establecido en la Ley N� 16.744. Expone que el Instituto de Normalizaci�n Previsional en su calidad de sucesor legal de las ex Cajas de Previsi�n y del ex Servicio de Seguro Social, administra dicho seguro y, de conformidad a lo dispuesto en el art�culo 10�, de la Ley 16.744, se encuentra facultado para contratar el otorgamiento de las referidas prestaciones m�dicas en caso de carecer de adecuados servicios m�dicos propios.
+En virtud de ello, en los �ltimos a�os, el Instituto de Normalizaci�n Previsional ha suscrito contratos con establecimientos privados, para el otorgamiento de las prestaciones m�dicas respectivas a sus beneficiarios. Al tenor de los mencionados instrumentos, paga a los referidos prestadores el valor de las atenciones m�s el impuesto al valor agregado.
+Por otra parte, se�ala que mediante Res. Ex. N� 5424, de 15/10/81, de la Direcci�n Regional Metropolitana Santiago Centro, se determin� respecto de las Mutualidades �organismos privados que administran el seguro� que se encuentran entre aquellas instituciones a que se refiere el Art. 13�, N� 7, del D.L. N� 825, de 1974, por lo tanto los ingresos percibidos en virtud de un contrato celebrado para el otorgamiento de las prestaciones m�dicas establecidas en la Ley N� 16.744, no est�n afectos al impuesto al valor agregado.
+As� las cosas, concluye que los contratos celebrados por ese Instituto con establecimientos particulares para que �stos otorguen las prestaciones m�dicas establecidas en el art�culo 29�, de la Ley N� 16.744, son similares a los celebrados por las Mutualidades, por lo tanto proceder�a aplicar la exenci�n del art�culo 13�, N� 7, del D.L. N� 825.
+2.- El art�culo 8�, del D.L. N� 825, grava con impuesto al valor agregado las ventas y los servicios.
+A su vez, el art�culo 2�, N� 2, del citado decreto ley define servicio como �la acci�n o prestaci�n que una persona realiza para otra y por la cual percibe un inter�s, prima, comisi�n o cualquiera otra forma de remuneraci�n, siempre que provenga del ejercicio de las actividades comprendidas en los N�s 3 y 4, del art�culo 20�, de la Ley sobre Impuesto a la Renta�.
+Ahora bien, la actividad desarrollada en cl�nicas, hospitales, laboratorios y otros establecimientos an�logos particulares se encuentra comprendida en el N� 4, del mencionado art�culo 20�, de la Ley sobre Impuesto a la Renta.
+Por otra parte, el art�culo 13�, N� 7, del D.L. N� 825, exime del impuesto al valor agregado a las personas naturales o jur�dicas que en virtud de un contrato o una autorizaci�n sustituyan a las instituciones mencionadas en las letras a), b) y c) del N� 6, del mismo art�culo 13�, en la prestaci�n de los beneficios establecidos por ley.
+A su vez, el N� 6, del se�alado art�culo, exime de impuesto al valor agregado, por los servicios que presten a terceros, entre otros, a:
+
+a) El Servicio de Seguro Social;
+
+b) El Servicio M�dico Nacional de Empleados;
+
+c) El Servicio Nacional de Salud.
+La menci�n efectuada en dicho art�culo al Servicio M�dico Nacional de Empleados y al Servicio Nacional de Salud, debe entenderse referida actualmente al Fondo Nacional de Salud y a los Servicios de Salud, de acuerdo con lo dispuesto en los art�culos 17� y 26�, del D.L. N� 2.763, de 1979.
+3.- De otro lado, la Ley N� 16.744, sobre Accidentes del Trabajo y Enfermedades Profesionales, mediante la cual se cre� el Seguro contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales, dispone en su art�culo 8�, que: �La administraci�n del seguro estar� a cargo del Servicio de Seguro Social, del Servicio Nacional de Salud, de las Cajas de Previsi�n y de las Mutualidades de Empleadores, en conformidad a las reglas contenidas en los art�culos siguientes�.
+En su art�culo 9�, inciso primero, agrega que: �Respecto de los afiliados en el Servicio de Seguro Social, el seguro ser� administrado por �ste, correspondiendo al Servicio Nacional de Salud otorgarles las prestaciones m�dicas y los subsidios por incapacidad temporal, sin perjuicio de las dem�s funciones que le encomiende la presente ley.
+A su vez, el art�culo 10�, de la mencionada ley dispone que �Respecto de los afiliados en otras Cajas de Previsi�n, administrar� este seguro el respectivo organismo previsional en que est�n afiliados.
+Estos organismos, en caso de carecer de adecuados servicios m�dicos propios, podr�n contratar el otorgamiento de las prestaciones m�dicas. No obstante, para el Servicio Nacional de Salud ser� obligatorio convenir el otorgamiento de tales prestaciones, con las Cajas que lo soliciten, sujeto ello al pago de las tarifas que fijar� peri�dicamente�.
+Finalmente, el art�culo 1�, de la Ley N� 18.689, dispuso la fusi�n en el Instituto de Normalizaci�n Previsional, del Servicio de Seguro Social y de las diversas cajas de previsi�n se�aladas en el mismo art�culo, entendi�ndose en lo sucesivo que �toda referencia que las leyes o reglamentos hacen a cada una de las indicadas instituciones se entender�n efectuadas al Instituto de Normalizaci�n Previsional�.
+Ahora bien, armonizando el texto del art�culo 1�, de la Ley N� 18.689, con lo se�alado en el Art�culo 8�, N� 3, de la Ley N� 16.744, se desprende que actualmente corresponde al Instituto de Normalizaci�n Previsional administrar el Seguro contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales.
+No obstante, los encargados de efectuar las prestaciones m�dicas son, los servicios de salud y los terceros contratados por el INP para tal efecto, en virtud del art�culo 9� inciso primero y del art�culo 10�, de la Ley N� 16.744, respectivamente.
+4.- Respecto de las prestaciones m�dicas efectuadas en cl�nicas, hospitales, laboratorios y otros establecimientos an�logos particulares, cabe se�alar que se encuentran expresamente gravadas con el impuesto al valor agregado conforme al art�culo 8�, del D.L. N� 825, en concordancia con el art�culo 2�, N� 2, del mismo texto legal, por tratarse de actividades clasificadas en el art�culo 20�, N� 4, de la Ley sobre Impuesto a la Renta.
+Sin embargo, seg�n lo dispuesto en el art�culo 13�, N� 7, del citado cuerpo legal, dichas prestaciones se encuentran exentas del tributo en comento cuando son efectuadas por personas naturales o jur�dicas que en virtud de un contrato o una autorizaci�n sustituyan, al Fondo Nacional de Salud y a los Servicios de Salud, en la prestaci�n de los beneficios establecidos por ley.
+Ahora bien, de la sola lectura de las normas transcritas en el N� 3 de este oficio, en particular el inciso primero del art�culo 9�, de la Ley N� 16.744, sobre Accidentes del Trabajo y Enfermedades Profesionales, se tiene que el I.N.P., en cuanto sucesor legal del Servicio de Seguro Social, solamente tiene como prerrogativa y obligaci�n la administraci�n del seguro regulado en la ley referida, correspondi�ndole seg�n la misma norma citada al Servicio Nacional de Salud, referido actualmente a los Servicios de Salud y a los terceros contratados por el I.N.P, en virtud del art�culo 10�, de la mencionada Ley, otorgar las prestaciones m�dicas, prestaciones que como ya se se�al� se encuentran afectas a IVA pero exentas de dicho tributo cuando se prestan por las entidades se�aladas en el N� 6, del art�culo 13� y por extensi�n, de acuerdo a lo previsto en el N� 7, de dicha disposici�n a quienes sustituyen a aquellas.
+De lo anterior se sigue que el INP solamente podr�a entenderse sustituido respecto de su �nica facultad, en lo que interesa, a saber la administraci�n del seguro en cuesti�n, siendo imposible desde el punto de vista legal entender que el INP es sustituido por la entidad que efect�a en definitiva las prestaciones m�dicas. Ello por cuanto como ya se se�al�, son los Servicios de Salud y los terceros contratados por el INP, los encargados de efectuar las prestaciones de salud derivadas del seguro que se trata, siendo los Servicios de Salud, los �nicos que podr�an convenir con terceros su sustituci�n en las referidas prestaciones.
+As� las cosas, en el caso bajo an�lisis, no procede aplicar la exenci�n del art�culo 13�, N� 7, a las entidades contratadas por la ocurrente para efectuar las prestaciones m�dicas a sus afiliados, ya que �stas no act�an en sustituci�n de los Servicios de Salud, toda vez que de los antecedentes se desprende que s�lo existe un convenio entre el INP y estas entidades y no un contrato o una autorizaci�n suscrita por �stas con los Servicios de Salud en que se convenga que las prestaciones efectuadas son realizadas en sustituci�n de �stos, requisito b�sico que las entidades beneficiadas deben cumplir para probar la sustituci�n en virtud de la cual operan con la referida exenci�n.
+Por lo tanto, las prestaciones m�dicas efectuadas por cl�nicas, hospitales, laboratorios y otros establecimientos an�logos particulares en virtud de contratos celebrados con la ocurrente se encuentran gravadas con impuesto al valor agregado.
+5.- Respecto de la exenci�n que argumenta en su presentaci�n favorecer�a a las Mutualidades, cabe manifestar que este Servicio se pronunci�, mediante Ord. N� 1084, de 16/3/94, sobre la tributaci�n con impuesto al valor agregado que afecta a estas instituciones se�alando que en general las prestaciones de salud efectuadas por las mutualidades en cl�nicas, hospitales u otros establecimientos de salud que �stas posean, se encuentran gravadas con impuesto al valor agregado, de acuerdo al art�culo 8�, en concordancia con el art�culo 2�, N� 2, del D.L. N� 825, por encontrarse dicha actividad clasificada en el art�culo 20�, N� 4, de la Ley sobre Impuesto a la Renta.
+
+Sin embargo cuando dichas prestaciones de salud se efect�an como indemnizaci�n de un accidente del trabajo o una enfermedad profesional a uno de sus afiliados, deben realizarse en forma gratuita, seg�n el art�culo 29�, de la Ley N� 16.744, y dada esa gratuidad es que dicha prestaci�n no se encuentra afecta a IVA, pues conforme a la definici�n de servicio establecida en el art�culo 2�, N� 2, del D.L. N� 825, para que se configure el hecho gravado �servicio� debe existir �una prestaci�n por la cual se perciba una remuneraci�n�. En estas condiciones las prestaciones efectuadas por la Mutualidad no se afectan con impuesto al Valor Agregado, no por favorecerse con alguna exenci�n sino que por no constituir dichas prestaciones, hecho gravado con el tributo.
+De lo anterior cabe concluir, que las Mutualidades no se favorecen con la exenci�n contenida en el art�culo 13�, N� 7, del D.L. N� 825, salvo que dichas prestaciones de salud sean financiadas por FONASA, en virtud de un contrato o una autorizaci�n entre ambas instituciones, pues se entiende que en este caso las mutualidades estar�an sustituyendo al FONASA en la prestaci�n de los beneficios establecidos por Ley.
+La misma normativa es aplicable a las prestaciones de salud realizadas en virtud de un contrato o una autorizaci�n pactada con las ISAPRES, respecto de la exenci�n que las ampara.
+Sin embargo, cuando dichas prestaciones son financiadas por una ISAPRE, el monto exento alcanzar� s�lo al valor equivalente al Nivel 1, 2, o 3 del arancel vigente de Fonasa para dicha prestaci�n, seg�n sea el grupo o nivel en que se encuentre inscrito en Fonasa el referido prestador, grav�ndose con IVA toda suma que exceda a dicho monto.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Oficio N� 2.956, de 09.07.2004.
+
+Subdirecci�n Normativa
+
+Dpto. de Impuestos Indirectos

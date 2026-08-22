@@ -1,0 +1,53 @@
+# Oficio de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2001
+- Fecha: 2001-03-05
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja161.htm
+- Hash SHA-256: fc50f6310f3cb6238376e5562a01c70a9227c6a94b50ce5c2fd1957a45557584
+
+## Resumen
+
+(Of. N� 926, de 05.03.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 2� y 3�, Art. 29� - D.F.L. de Hacienda N� 251�, de 1931, Art. 61� - D. Supremo de Hacienda N� 863, de 1990. Word Oportunidad en que se Devenga el Ingreso Proveniente del Cumplimiento de Un Contrato de Seguro. (Of. N� 988, de 13.03.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 54� N� 1�, Art. 101� - Circular N� 57�, de 1998 � Resoluciones N� 5111, de 1995 y N� 6509, de 1993. Word Tributaci�n de Intereses…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 54� N� 1�, ART. 101� - CIRCULAR N� 57�, DE 1998 � RESOLUCIONES N� 5111, DE 1995 Y N� 6509, DE 1993.
+
+Home | Ley Renta - 2001
+RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 54� N� 1�, ART. 101� - CIRCULAR N� 57�, DE 1998 � RESOLUCIONES N� 5111, DE 1995 Y N� 6509, DE 1993.
+
+TRIBUTACI�N DE INTERESES INFORMADOS POR BANCO � CALIFICACI�N DE INTERESES - PROVIENEN O NO DE UNA OPERACI�N DE CAPTACI�N � ART. 101 DE LA LEY DE LA RENTA ESTABLECE OBLIGACI�N A LA CUAL EST�N SOMETIDOS LOS BANCOS E INSTITUCIONES FINANCIERAS DE INFORMAR � DIRECCI�N NACIONAL LO REGLAMENT� MEDIANTE CIRCULAR N� 57, DE 1998 Y RESOLUCIONES N� 5111, DE 1955 Y N� 6509, DE 1993 Y SUS MODIFICACIONES POSTERIORES � CONCEPTO DE CAPTACI�N � EN CASO PLANTEADO NO EXISTE DUDA QUE RENTAS SE DERIVAN DE LA APLICACI�N DE LO PRECEPTUADO POR EL INCISO FINAL DEL ART. 101 � BANCO INFORMO A ESTE SERVICIO QUE AL CONTRIBUYENTE LE PAG� INTERESES POR CONCEPTO DE UNA OPERACI�N DE CAPTACI�N � ESTE ORGANISMO NO TIENE OTRA ALTERNATIVA QUE EXIGIR QUE LAS CITADAS RENTAS SEAN DECLARADAS EN LAS BASES IMPONIBLES DE LOS IMPUESTOS QUE CORRESPONDAN � CONTRIBUYENTE NO PUEDE COMPENSAR DICHOS INTERESES CON LOS DIVIDENDOS HIPOTECARIOS QUE PAGO AL BANCO POR LA MISMA OPERACI�N.
+
+1.- Por Ordinario indicado en el antecedente, se�ala que mediante Programa Operaci�n Renta 2000, se notific� al contribuyente XX RUT 0.000.000-K, inconsistencias en su declaraci�n de impuesto a la renta, A�o Tributario 2000, con la observaci�n, entre otras, G-36: "Las rentas percibidas por concepto de capitales mobiliarios y del art�culo 17 N� 8 de la Ley de la Renta, registradas en L�nea 7, C�digo 155, se encuentran subdeclaradas". Agrega, que seg�n informaci�n proporcionada por el Vector de Renta, este contribuyente registra intereses pagados e informados por el Banco , ascendente a $ 9.145.071 (actualizados), seg�n certificado N� 000000, de 11.01.2000 y no declarados por el contribuyente. Estos intereses se originan por Letras Hipotecarias de la Serie AD-00000-A1, seg�n contrato de Mutuo e Hipoteca de fecha 31.07.1997, Notar�a Ren� Benavente Cash, pactadas a 20 a�os, las cuales se mantuvieron en custodia a su favor hasta el 10 de diciembre de 1999, producto de un Cr�dito Hipotecario de Libre Disponibilidad N� 00000, otorgado el 01.07.1997.
+Expresa a continuaci�n, que el contribuyente mediante carta de 10.08.2000, enviada a esa Direcci�n Regional, se�ala entre otras cosas, que no declar� los intereses informados por el Banco , porque a su parecer "no son rentas" afectas al impuesto Global Complementario, detallando algunos hechos que le sirven de base a su presentaci�n, entre los cuales indica:
+a) El suscrito efectu� una operaci�n hipotecaria sobre su bien ra�z con el objetivo de efectuar ciertas inversiones inmobiliarias.
+b) Dadas las condiciones de mercado y a la espera que ellas mejoraran, decidi� posponer tales inversiones, las cuales no se han realizado a la fecha.
+c) Dado los puntos anteriores, el Banco no ha vendido las letras hipotecarias, estando en poder del suscrito. Bajo tales condiciones ha procedido a cancelar los dividendos y el Banco me los ha reembolsado en cada vencimiento de cup�n.
+d) El Banco mantuvo las letras hipotecarias en custodia y sin vender hasta el 10.12.99, fecha en la cual le comunic� verbalmente que no las pod�a seguir manteniendo en custodia y que deber�a traspasarlas a su empresa S Corredores de Valores, con un determinado costo para el suscrito. Por tal raz�n, tom� la decisi�n de tenerlas en custodia con la empresa de corredores de bolsa XX y C�a., la cual no le cobraba nada.
+e) Seg�n su parecer, no se ha configurado renta alguna y se lo hizo saber al Banco . Es as� como con fecha 07.04.2000, le envi� FAX a su ejecutiva de cuentas en dicho banco, manifestando su opini�n con respecto al certificado en cuesti�n y requiriendo la opini�n del SII. Al no tener respuesta y estar muy cerca la fecha de vencimiento para efectuar la declaraci�n de Impuesto a la Renta, en m�ltiples oportunidades solicit� respuesta y/o copia de la presentaci�n que requiri�, sin tener respuesta satisfactoria.
+De acuerdo con los antecedentes antes expuestos, esa Direcci�n Regional solicita un pronunciamiento respecto a si los mencionados intereses informados por el Banco , son rentas afectas al Impuesto Global Complementario.
+
+2.- Sobre el particular, cabe se�alar en primer t�rmino, que el art�culo 101 de la Ley de la Renta, en su inciso final, dispone que a la obligaci�n que establece dicha norma en su inciso primero, quedar�n sometidos los bancos e instituciones financieras respecto de los intereses u otras rentas que paguen o abonen a sus clientes, durante el a�o inmediatamente anterior a aqu�l en que deba presentarse el informe, por operaciones de captaci�n de cualquier naturaleza que �stos mantengan en dichas instituciones. Dicho informe deber� ser presentado antes del 15 de marzo de cada a�o y deber� cumplir con las exigencias que al efecto establezca el Servicio de Impuestos Internos.
+
+3.- Ahora bien, lo establecido por la norma legal antes referida, esta Direcci�n Nacional lo reglament� mediante la dictaci�n de la Circular N� 57, de 1998 y Resoluciones N�s. 5111, de 1995 y 6509, de 1993, y sus modificaciones posteriores, definiendo especialmente el tipo de operaciones de las cuales deb�an provenir los intereses u otras rentas respecto de las que nac�a la obligaci�n para las citadas entidades, se�alando, y conforme a las instrucciones impartidas por el organismo t�cnico competente sobre la materia, esto es, la Superintendencia de Bancos e Instituciones Financieras, que el concepto de captaci�n tiene en la legislaci�n vigente una acepci�n amplia, de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del p�blico, sea como dep�sito, mutuo, participaci�n, cesi�n o transferencia de efectos de comercio o en cualquiera otra forma. As�, por ejemplo, constituyen captaciones la recepci�n de dep�sitos en cuentas corrientes bancarias o en cuentas de ahorro, los dep�sitos a la vista o a plazo en general, la emisi�n y colocaci�n en el mercado de bonos o letras de cr�dito y las ventas con pacto de retrocompra de t�tulos de cr�dito.
+
+4.- En el caso espec�fico planteado, se trata de calificar si los intereses en cuesti�n provienen o no de una operaci�n de captaci�n, respecto de la cual no existe duda que tales rentas se derivan de la aplicaci�n de lo preceptuado por el inciso final del art�culo 101 de la Ley de la Renta, todo ello basado en los antecedentes que se acompa�an a la presentaci�n.
+5.- Por lo tanto, si el Banco inform� a este Servicio que al contribuyente individualizado le pag� intereses por concepto de una operaci�n de captaci�n e igual informaci�n le certific� al recurrente mediante el documento respectivo, rentas que el contribuyente reconoce haber percibido efectivamente de dicha instituci�n financiera, este organismo no tiene otra alternativa que exigir que las citadas rentas sean declaradas en las bases imponibles de los impuestos que correspondan, sin que sea posible que dichos intereses el contribuyente los pueda compensar con los dividendos hipotecarios que pag� al Banco por la misma operaci�n, ya que �ste �ltimo tipo de desembolsos, conforme a lo dispuesto por el art�culo 54 N� 1 de la Ley de la Renta, no es posible su imputaci�n o deducci�n de los mencionados intereses.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio N� 205, del 17.01.2001
+
+Subdirecci�n Normativa
+
+Depto. Impuestos Directos

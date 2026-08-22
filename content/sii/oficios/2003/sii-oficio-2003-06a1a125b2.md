@@ -1,0 +1,50 @@
+# Oficio de 2003
+
+- Fuente: SII
+- Tipo: oficio
+- Número: N/A
+- Año: 2003
+- Fecha: 2003-10-21
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja584.htm
+- Hash SHA-256: 162b34e6943ed80ba60a5d262fecc4a11e2484bacb1b6de51ebba5bc2141662e
+
+## Resumen
+
+Word Tributaci�n de los contribuyentes acogidos a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 5297, de 21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Procedencia de beneficios del 55 bis de la Ley de la Renta, en caso de reestructuraci�n de cr�dito hipotecario. (Ord. N� 5296, de 21.10.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 43 N� 1 y 42 bis LIR Word Se emite pronunciamiento sobre reconsideraci�n de Oficios N� 2.758, de fecha 25.07.2002 y 104 de 10.01.2003, del SII.…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA � ARTS. 42 N� 1, 43 N� 1 Y 42 BIS LIR (ORD. N� 5295, DE 21.10.2003
+
+Home | Ley Renta - 2003
+LEY SOBRE IMPUESTO A LA RENTA � ARTS. 42 N� 1, 43 N� 1 Y 42 BIS LIR (ORD. N� 5295, DE 21.10.2003
+
+SE EMITE PRONUNCIAMIENTO SOBRE RECONSIDERACI�N DE OFICIOS N� 2.758, DE FECHA 25.07.2002 Y 104 DE 10.01.2003, DEL SII.
+
+1.- Por presentaci�n indicada en el antecedente, solicita un pronunciamiento respecto de la situaci�n tributaria que afecta a un trabajador de nacionalidad mexicana que representa, con motivo de dos dict�menes emitidos por este Servicio y se�alados con la materia.
+
+Expresa, que su representado ha trabajado por espacio de 10 a�os en este pa�s y durante toda su actividad laboral procedi� a cotizar en una Administradora de Fondos de Pensiones, en su calidad de empleado sujeto a remuneraci�n mensual. Es del caso que ha sido trasladado a trabajar a M�xico y de conformidad con la legislaci�n vigente, concurri� a la AFP que se�ala con el objeto de que se le hiciera devoluci�n de sus fondos previsionales, encontr�ndose con la sorpresa que s�lo se procede a la restituci�n de sus fondos si previamente paga el Impuesto a la Renta por el monto total de lo ahorrado, alcanzando el tributo al 40%, o sea, el m�ximo de la escala, consider�ndosele como si hubiera percibido esa renta en un solo mes.
+En lo que respecta al derecho, expone que la Ley N� 18.156, modificada por la Ley N� 18.726, regula los aportes previsionales de los t�cnicos extranjeros que trabajen en Chile bajo un contrato de trabajo seg�n lo establece el C�digo del ramo. Dicha ley establece en su art�culo 1� los requisitos que debe cumplir un t�cnico extranjero para efectuar sus cotizaciones previsionales fuera del pa�s.
+Por su parte, el art�culo 7� de la ley establece que los trabajadores extranjeros que registren cotizaciones en una Administradora de Fondos de Pensiones podr�n solicitar la devoluci�n de estos fondos siempre que cumplan los requisitos del art�culo 1�. Adem�s, seg�n lo estipulado por la Circular N� 54, de fecha 17.12.82, de este Servicio, en su n�mero 2�, en caso de cumplirse los requisitos estipulados en la Ley N� 18.156, estos valores se considerar�n siempre como no rentas para efectos de la Ley de la Renta.
+Agrega que como no existe como requisito previo para efectuar los retiros de los fondos, acreditar que tales sumas se destinar�n al pago de cotizaciones previsionales en el extranjero y adem�s, en dicha ley no se establece el mecanismo de tributaci�n de estos aportes en caso de destinarlos a un fin diferente al de cotizaci�n previsional, el Director Nacional de este Servicio asume que estos valores no estar�n destinados a previsi�n o seguridad social del t�cnico extranjero, y ha dictado normas en los Oficios N�s. 2.758, de fecha 25.07.2002 y 104 de fecha 10.01.2003, en total perjuicio del trabajador extranjero, al establecer que descuentos a su sueldo por concepto de imposiciones que fueron enteradas al sistema previsional mes a mes durante a�os y que, por ende, no quedaron afectos al art�culo 42 N� 1 y a la tasa del art�culo 43 N� 1 de la Ley de la Renta del mes correspondiente. Al retirarlos de la Administradora, de acuerdo al art�culo 7� de la citada ley, ser�n considerados como ingresos del mes y hace aplicables los art�culos 42 N� 1 y 43 N� 1 de la Ley de la Renta, con lo cual caen en los tramos m�s altos, aplicando tasas depredadoras a los fondos previsionales de dichos trabajadores, en caso de no destinarse a su objetivo inicial que es la previsi�n y seguridad social del t�cnico extranjero, sosteniendo que en tal situaci�n se deber�a aplicar el art�culo 46 de la Ley de la Renta, tal como lo aconseja la Superintendencia de AFP en su solicitud de un pronunciamiento sobre esta materia, seg�n lo establece el Ordinario N� 104, de fecha 10.01.2003.
+Por otra parte, se�ala que se produce una paradoja, seg�n lo establece el Ordinario N� 104 del Servicio, dado que si un trabajador extranjero cotiza en forma obligatoria y tambi�n en forma voluntaria, cotizaciones que persiguen el mismo fin de obtener una pensi�n futura del trabajador y adem�s, ninguna fue afectada por los art�culos 42 N� 1 y 43 N� 1 de la Ley de la Renta por lo que no pagaron impuestos sobre dichas rentas, al retirarlos por el trabajador, a juicio de este Servicio las obligatorias se regir�n como un ingreso mensual y se aplicar�n las tasas de acuerdo al tramo en que se afecten seg�n los art�culos 42 N� 1 y 43 N� 1 de la Ley de la Renta, y las voluntarias quedar�n gravadas por el art�culo 42 bis N� 3 y se pagar�n junto al impuesto Global Complementario que establece que la tasa del impuesto ser� aumentada en 3 puntos porcentuales al resultado de multiplicar por 1,1 el producto, expresado como porcentaje, que resulte de dividir, por el monto reajustado del retiro efectuado, la diferencia entre el monto del impuesto Global Complementario determinado sobre las remuneraciones del ejercicio incluyendo el monto reajustado del retiro y el monto del mismo impuesto determinado sin considerar dicho retiro. Por ello, visualiza que dos aportes por el mismo monto y concepto tendr�an dos tratamientos totalmente diferentes por este Servicio. En el primer caso, aplicar�a una tabla de impuesto mensual y en el segundo caso, la misma tabla, pero aumentada por doce, con lo cual a pesar de los aumentos que establece el art�culo 42 bis N� 3 de la Ley de la Renta , el impuesto determinado es significativamente inferior.
+Por otra parte, si el trabajador extranjero decide no cotizar en Chile, puede remitir sus fondos a la instituci�n previsional extranjera y ese monto no se considerar� renta, con el l�mite de las 60 Unidades de Fomento mensuales que establece el D.L. N� 3.500. Pero, si cotiza en Chile, al momento del retiro sus cotizaciones deben pagar el impuesto a la renta, impidi�ndole destinar todo ese dinero para entregarlo �ntegro a la instituci�n previsional de su pa�s.
+Por lo anterior, lo expresado por el Director del Servicio en el Oficio N� 2.758, y refrendado en el Oficio Ordinario N� 104 citado, en el sentido que la devoluci�n de dichos aportes previsionales constituye una remuneraci�n normal percibida por dichos trabajadores extranjeros en la oportunidad de su devoluci�n y no lo que realmente son, o sea, diferencias o saldos de remuneraciones no gravadas en su oportunidad por los citados art�culos de la Ley de la Renta, vulnera lo dispuesto en el art�culo 19 N�s. 20 y 24 de la Constituci�n Pol�tica del Estado, ya que no hay igual repartici�n de tributos o igual repartici�n de cargas p�blicas, sin perjuicio de que tambi�n se afecta el derecho de propiedad, ya que se considera que se debe tributar al obtener el retiro de sus fondos, como si dicha cantidad hubiera sido percibida en un solo mes, con lo cual la suma que resulte queda gravada con el m�ximo de tributos y no aplicando una tabla de impuesto anual, solicitando un pronunciamiento acerca de lo consultado.
+2.- Sobre el particular, cabe se�alar en primer lugar, que la Ley de la Renta ni ning�n otro texto legal establece un tratamiento tributario especial para el retiro de las cotizaciones previsionales que efect�en los trabajadores extranjeros en uso de la facultad contenida en el art�culo 7� de la Ley N� 18.156, de lo que se concluye que ante la ausencia de una norma expresa que fije la tributaci�n a que quedar�an afectas dichas rentas, �stas necesariamente quedan sometidos a las disposiciones generales de la Ley de la Renta, y cuyo tratamiento tributario no puede ser otro el que este Servicio inform� mediante los Oficios N�s. 2.758, del a�o 2002 y 104, del a�o 2003; el cual no responde a una interpretaci�n de este organismo, atendido las razones legales expresadas en los mencionados dict�menes.
+3.- En cuanto a lo se�alado en el p�rrafo s�ptimo del N� 1 precedente, debe hacerse presente que lo ah� establecido no es efectivo, debido a que si un trabajador de aquellos a que alude el art�culo 42 bis de la Ley de la Renta se acoge a la franquicia tributaria que contiene dicha norma, efectuando cotizaciones obligatorias y voluntarias para los fines de mejorar su pensi�n, cuando retire las cotizaciones obligatorias v�a pensi�n, �stas quedan afectas al impuesto Unico de Segunda Categor�a de acuerdo al monto de su jubilaci�n, y por el retiro de las cotizaciones voluntarias acogidas al citado art�culo 42 bis, obviamente queda sujeto a la tributaci�n especial (y no al impuesto Global Complementario anual como lo sostiene el ocurrente) que establece dicha disposici�n legal, atendido a que el contribuyente no destin� los fondos a aumentar su pensi�n, efectuando su retiro en forma anticipada, y al no cumplirse con el objetivo que persigue tal precepto, los mencionados retiros quedan afectos al impuesto �nico que contiene el referido precepto legal.
+4.- En consecuencia, por las razones antes indicadas, se informa que no es posible acceder a la reconsideraci�n que se solicita, no existiendo otra alternativa que confirmar en todas sus partes lo expresado a trav�s de los Oficios indicados anteriormente.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+OFICIO N� 5295, DE 21.10.2003
+
+DEPTO. IMPTOS. DIRECTOS
+
+SUBDIRECCION NORMATIVA
