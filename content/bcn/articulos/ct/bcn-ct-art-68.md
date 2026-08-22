@@ -1,0 +1,65 @@
+# Artículo 68 — Código Tributario
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 68
+- Año: 1974
+- Fecha: N/A
+- Categoría: Código Tributario
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=6374
+- Hash SHA-256: ed5d3e46ae61d26508cc13221cb9635e01d1910e516e1c6ce871587dc1f07d6d
+
+## Resumen
+
+Artículo 68.- Las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 1º, letra a), 3°, 4° y 5° de los artículos 20, contribuy Ley 20780 Art. 10 N° 20 D.O. 29.09.2014 entes del artículo 34 que sean propietarios o usufructuarios y exploten bienes raíces agrícolas, 42 N° 2° y 48 de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquél en que comiencen sus actividades, un…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"34 q"}
+
+## Texto extraído
+
+Artículo 68.- Las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 1º, letra a), 3°, 4° y 5° de los artículos 20, contribuy Ley 20780
+Art. 10 N° 20
+D.O. 29.09.2014 entes del artículo 34 que sean propietarios o usufructuarios y exploten bienes raíces agrícolas, 42 N° 2° y 48 de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquél en que comiencen sus actividades, una declaración jurada sobre dicha iniciación. El Director podrá, mediante normas de carácter general, eximir de pr LEY 19506
+Art. 3º Nº 11 b)
+D.O. 30.07.1997 esentar esta declaración a contribuyentes o grupos de contribuyentes de escasos recursos económicos o que no tengan la preparación necesaria para confeccionarla, o bien, para sustituir esta exigencia por otros procedimientos que constituyan un trámite simplificado. Los contribuyentes favorecidos con esta facultad podrán acogerse a la exención o al régimen simplificado dentro de los noventa días siguientes a la publicación de la resolución respectiva, aun cuando no hayan cumplido oportunamente con la obligación establecida en este artículo, no siéndoles aplicable sanción alguna en ese caso. Sin embargo, el contribuyente beneficiado con esta eximición o sustitución podrá, optativamente, efectuar la declaración común de iniciación de actividades a que se refiere la primera parte de este inciso.
+Igualmente el Dire LEY 19738
+Art. 1º i)
+D.O. 19.06.2001 ctor podrá eximir de la obligación establecida en este artículo a aquellos contribuyentes no domiciliados ni residentes en el país, que solamente obtengan rentas de capitales mobiliarios, sea producto de su tenencia o enajenación, o re LEY 20263
+Art. 1º Nº 1
+D.O. 02.05.2008 ntas de aquellas que establezca el Servicio de Impuestos Internos mediante resolución, aun cuando estos contribuyentes hayan designado un representante a cargo de dichas inversiones en el país.
+Para los efectos de est LEY 19506
+Art. 3º Nº 11 c)
+D.O. 30.07.1997 e artículo, se entenderá que se inician actividades cuando se efectúe cualquier acto u operación que constituya elemento necesario para la determinación de los impuestos periódicos que afecten a la actividad que se desarrollará, o que generen los referidos impuestos. Asimismo, Ley 21648
+Art. único
+D.O. 05.02.2024 se entenderá que inician actividades los contribuyentes que, dentro de un período móvil de doce meses, efectúen una o más importaciones cuyo valor de transacción, según la definición establecida en el artículo 1 del Acuerdo relativo a la Aplicación del Artículo VII del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 y en el artículo 12 del decreto Nº 1.134, promulgado en 2001 y publicado en 2002, del Ministerio de Hacienda, sea de al menos tres mil dólares de Estados Unidos de América o su equivalente, por cada importación o de manera agregada, a menos que, en cualquiera de los casos, acrediten fehacientemente que se trata de bienes destinados a su consumo o uso personal.
+La declaración inicial se hará en una carpeta tributaria electrónica que el Servicio habilitará para cada contribuyente que incluirá un formulario con todos los campos requeridos para el enrolamiento Ley 21210
+Art. primero N° 31 a)
+D.O. 24.02.2020 del contribuyente en cada uno de los registros en que deba inscribirse. Junto con completar el formulario indicado precedentemente, el contribuyente que realiza la declaración inicial deberá adjuntar en la carpeta tributaria electrónica los antecedentes relacionados con el inicio de actividades. Mediante esta declaración inicial el contribuyente cumplirá con todas las obligaciones de inscripción que correspondan, sin necesidad de otros trámites. Para estos efectos, el Servicio procederá a inscribir al contribuyente que realiza la declaración inicial en todos los registros pertinentes. Tratándose de una empresa individual, se deberá comunicar además los activos relevantes del empresario que se incorporan al giro de la empresa individual, según lo determine el Servicio mediante resolución.
+Los contribuyentes deberán comunicar al Servicio, a través de la carpeta tributaria electrónica, cualquier modificación a la información contenida en el formulario de inicio de actividades dentro del plazo de dos meses contados desde que se efectúe la modificación respectiva o, si fuera procedente, desde la fecha de la inscripción respectiva en el Registro de Comercio correspondiente, adjuntando en la carpeta tributaria electrónica los antecedentes que dan cuenta de la modificación. La carpeta tributaria electrónica contendrá un formulario con los campos requeridos para la actualización de los registros. Conforme lo anterior, el contribuyente cumplirá con todas las obligaciones de actualización de información que le correspondan, sin necesidad de otros trámites, debiendo el Servicio actualizar todos los registros que correspondan e incorporar los antecedentes a la referida carpeta.
+De la misma forma indicada Ley 21210
+Art. primero N° 31 b)
+D.O. 24.02.2020 en el inciso precedente, con iguales fines y en el mismo plazo, los contribuyentes deberán comunicar al Servicio las modificaciones de representantes legales o convencionales con poderes generales de administración; modificaciones de capital, acuerdos de participación en las utilidades distinta a la participación en el capital social y series de acciones que otorguen derechos para el pago preferente de dividendos; modificación de los socios, accionistas o comuneros; fusiones, incluyendo aquella que se produce por la reunión de la totalidad de la participación de una sociedad; divisiones; y, transformaciones o conversión de un empresario individual en una sociedad.
+La obligación de informar las modificaciones de accionistas no regirá para sociedades anónimas abiertas, sin perjuicio de informarse en todo caso los cambios de controladores en los mismos plazos señalados.
+Tratándose de contribuyentes que desarrollen su actividad económica en un lugar geográfico sin cobertura de datos móviles o fijos de operadores de telecomunicaciones que tengan infraestructura, o sin acceso a energía eléctrica o en un lugar decretado como zona de catástrofe conforme a la legislación vigente, no estarán obligados a dar la declaración de inicio de actividades, o de actualizar la información mediante la carpeta electrónica, pudiendo siempre optar por hacerlo en las oficinas del Servicio o en los puntos de atención que éste señale mediante resolución.
+Las entidades sin personalidad jurídica estarán sujetas a las mismas obligaciones y procedimientos en caso que resulten aplicables a través de su respectivo administrador.
+El Ley 21713
+Art. 1 N° 30 a)
+D.O. 24.10.2024 incumplimiento de la obligación de información establecida en este artículo será sancionado conforme al número 1° del artículo 97. Además, los plazos de prescripción a que se refieren los artículos 200 y 201 se entenderán aumentados o renovados en doce meses, según corresponda, para la revisión de todos los efectos tributarios que se desprendan de las modificaciones y acuerdos no informados, respecto de todos los contribuyentes que intervinieren en ellos, a partir de la fecha en que sean informados al Servicio o de la fecha en que este último detecte el incumplimiento. El plazo de prescripción se aumentará en doce meses a continuación del término de los plazos originales de prescripción y la renovación ocurrirá en la medida que el contribuyente cumpla su obligación de informar o el Servicio detecte el incumplimiento fuera de los plazos originales de prescripción. Con todo el plazo máximo de prescripción, considerando la renovación, no podrá superar los seis años.
+El Ley 21713
+Art. 1 N° 30 b)
+D.O. 24.10.2024 aumento o ampliación de la prescripción señalado en el inciso anterior procederá exclusivamente cuando el incumplimiento busca evitar el pago de un impuesto, ocultar al sujeto pasivo o evitar la aplicación de una norma especial o general antielusiva. Se encuentran en esta situación los contribuyentes que no declaren un impuesto o declaren un impuesto menor cuyo origen sea la modificación no informada, no presenten una declaración jurada que contenga o dé cuenta de la modificación o cuando la información omitida sea esencial para la calificación de una operación como elusiva o para la aplicación de una norma especial para evitar la elusión. Con todo, el Servicio podrá, de oficio, actualizar la información que el contribuyente deba proporcionar conforme al inciso sexto, cuando obtenga dicha información de fuentes públicas o pueda desprenderse de los antecedentes proporcionados por el contribuyente respecto de otro tipo de actuaciones frente al Servicio, la que se incorporará en la carpeta tributaria y se notificará al contribuyente, y no será aplicable en tal caso la multa del inciso anterior.
+Las siguientes entidades se encontrarán obligadas a exigir la acreditación de haber efectuado ante el Servicio el trámite de inicio de actividades descrito en el inciso primero, respecto de las personas o contribuyentes que a continuación se señalan, a menos que éstos acrediten que existe una autorización expresa que la libere de esta obligación:
+
+a) Todos los órganos de la administración del Estado, gobiernos regionales y municipalidades respecto de las personas que requieran una autorización para desarrollar una actividad económica o que dicha autorización sea parte de los requisitos a cumplir para ser autorizado a desarrollar una actividad económica habitual.
+b) Los administradores, operadores o proveedores de medios de pago electrónico, respecto de quienes contraten sus servicios a efectos de desarrollar una actividad económica.
+Se podrán eximir de esta obligación cuando la persona declare que su actividad no está sujeta a la obligación de inicio de actividades. Los administradores, operadores y proveedores deberán también exigir que las personas o entidades que contraten sus servicios acrediten el cumplimiento de sus obligaciones tributarias en la forma y plazo que determine el Servicio por resolución. Este último certificado podrá obtenerse a través del sitio personal del contribuyente.
+Los administradores, operadores y proveedores señalados en este literal deberán informar al Servicio de forma anual, en la forma y plazo que establezca el Servicio por resolución, las personas y entidades que le hubieren declarado que no requieren inicio de actividades, la cantidad de operaciones y el monto acumulado de las mismas. También deberán informar, a solicitud del Servicio, la cantidad de operaciones y el monto acumulado de estas respecto de contribuyentes determinados.
+c) Los operadores de plataformas digitales de intermediación que permitan operaciones entre terceros para la adquisición de bienes o servicios, respecto de las entidades que ofrezcan sus productos. Se podrán eximir de esta obligación cuando la persona declare que su operación no está sujeta a la obligación de inicio de actividades. Los operadores deberán también exigir que las personas o entidades que ofrezcan sus productos o servicios acrediten el cumplimiento de sus obligaciones tributarias en la forma y plazo que determine el Servicio por resolución. Este último certificado podrá obtenerse a través del sitio personal del contribuyente.
+NOTA
+Los operadores señalados en este literal deberán informar al Servicio de forma anual, en la forma y plazo que establezca el Servicio por resolución, las personas y entidades registradas en la plataforma digital y, en el caso de aquellos que hubieran declarado que no requieren inicio de actividades, la cantidad de operaciones y el monto acumulado de las mismas. También deberán informar, a solicitud del Servicio, la cantidad de operaciones y el monto acumulado de estas respecto de contribuyentes determinados.
+La forma de cumplir con la obligación del inciso precedente será regulada por el Servicio mediante resolución.
+
+NOTA
+El artículo primero transitorio N° 8 de la ley 21713, publicada el 24.10.2024, establece que los incisos duodécimo y final del presente artículo, entrarán en vigencia seis meses después de la publicación de la citada ley.

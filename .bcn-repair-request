@@ -1,5 +1,4 @@
 {
-  "status": "requested",
-  "reason": "Crawler corregido: LeyChile sirve el texto real vía API JSON (nuevo.leychile.cl/servicios/Navegar/get_norma_json), no vía el HTML impreso que devolvía sólo la cáscara de carga de la SPA.",
-  "requested_at": "2026-08-22T15:05:00.000Z"
+  "status": "completed",
+  "updated_at": "2026-08-22T18:17:51.788Z"
 }
