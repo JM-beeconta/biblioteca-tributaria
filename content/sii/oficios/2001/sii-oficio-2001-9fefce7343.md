@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja151.htm
 - Hash SHA-256: 9ed9366d18cd29f05b1c0feddcbc43ba3c07704d212cef5edc89414001075e76
 
 ## Resumen
 
-3� N� 3�, que Favorece a las Universidades. (Of. N� 0187, de 15.01.2001 � Depto. de T�cnica Tributaria). Franquicia Tributaria � Ley N� 18.392 - Art. 1�, Art. 2�, Art. 9� - C�digo Tributario, Art. 6�, Letra a) N� 1�. Word Empresas que Tienen Derecho a las Franquicias Regionales Establecidas en la Ley N� 18.392, de 1985, Ley Navarino. (Of. N� 170, de 12.01.2001 � I. Indirectos) . Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art.36� - Circular N� 19, de 1999 � Circular…
+Indirectos) . Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art.36� - Circular N� 19, de 1999 � Circular N� 47�, de 1977.
 
 ## Referencias detectadas
 

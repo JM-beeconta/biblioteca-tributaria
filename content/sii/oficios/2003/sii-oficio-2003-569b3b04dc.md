@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-02-26
+- Fecha: 2003-02-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja441.htm
 - Hash SHA-256: b01b160cf25bfe20694413db6791e6f5797bf004f9378da2275413cbab7421ed
 
 ## Resumen
 
-dito de dinero destinados a la adquisici�n o construcci�n de viviendas. ( Oficio N� 650 de 26 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Vigencia temporal del impuesto de timbres y estampillas al descuento de letra de cambio. ( Oficio N� 564, de 14 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Consulta sobre alcance de la exenci�n contemplada en el articulo 24� N� 11 de la Ley sobre Impuesto de Timbres y Estampillas. ( O…
+o de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

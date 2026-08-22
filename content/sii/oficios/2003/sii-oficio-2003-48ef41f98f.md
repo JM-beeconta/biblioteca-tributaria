@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Categor�a frente al FUT. (Ord. N� 2276, de 29.04.2003) Ley sobre Impuesto a la Renta � Arts. 14 N� 1 Letra A) y 31 N� 5 Word Situaci�n tributaria de la diferencia entre la depreciaci�n normal y acelerada de los bienes f�sicos del activo inmovilizado frente al FUT. (Ord. N� 2275, de 29.04.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 74 N� 1 Word Situaci�n tributaria de los ingresos que perciben los Oficiales del Registro Civil e Identificaci�n. (Ord. N� 1759, de 23.04.2003) Ley de Impuesto a la Renta. Ar…
+Word Situaci�n tributaria de los ingresos que perciben los Oficiales del Registro Civil e Identificaci�n. (Ord. N� 1759, de 23.04.2003)
 
 ## Referencias detectadas
 

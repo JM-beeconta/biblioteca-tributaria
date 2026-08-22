@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 255
 - Año: 2003
-- Fecha: 2003-02-12
+- Fecha: 2003-01-21
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja429.doc
 - Hash SHA-256: 880a45da5bcfa1d891401e481f6d518ec2310b1e963566c3504d41486ed909d6
 
 ## Resumen
 
-io N� 544, de 12 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el articulo 24 N� 17, del D.L. N� 3.475, de 1980.- ( Oficio N� 325, de 24 de Enero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word C�lculo del Impuesto de Ley de Timbres y Estampillas sobre Pagar�s en cuotas. ( Oficio N� 255 de 21 de Enero de 2003). Convenio Marco relativo a la Ejecuci�n de la Ayuda Financiera y T…
+Word C�lculo del Impuesto de Ley de Timbres y Estampillas sobre Pagar�s en cuotas. ( Oficio N� 255 de 21 de Enero de 2003).
 
 ## Referencias detectadas
 

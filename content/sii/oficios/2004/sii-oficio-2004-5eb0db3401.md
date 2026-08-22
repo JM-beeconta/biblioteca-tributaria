@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-04
+- Fecha: 2004-09-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja818.doc
 - Hash SHA-256: b428644430a65fa769436647ac65631efb7cbaab807f3f1f754508153493bdb6
 
 ## Resumen
 
-, de 2004 y N� 905, de 2003. Word Situaci�n tributaria del retiro de Excedente de Libre Disposici�n en el caso que indica. (Ord. N� 4.577, de 04.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N� 1, Art. 78� � D.L. N� 825 de 1974, Art. 2�, N� 2, Art. 8�, Art. 23�, N� 1 � Res. Exenta N� 6.080, de 1999 � C�digo Tributario, Art. 8�, N� 5 � C�digo de Comercio, Art. 23�. Word Absuelve Consultas sobre Situaci�n Tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Servicios relativo al estableci…
+Word Absuelve Consultas sobre Situaci�n Tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Servicios relativo al establecimiento en el pa�s de Presidencia Regional de Compa��a Extranjera Internacional que Opera en Chile. (Ord. N� 4.508, de 29.09.2004)
 
 ## Referencias detectadas
 

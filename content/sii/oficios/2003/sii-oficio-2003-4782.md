@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4782
 - Año: 2003
-- Fecha: 2003-09-25
+- Fecha: 2003-09-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja566.doc
 - Hash SHA-256: 8bfd38d32a1763ca9e9686f2944922834aeda4618dab0bc41b6fe6fcfa372b77
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4811 de 25 de Septiembre de 2003.- Word Impuesto al Valor Agregado en la comercializaci�n de tarjetas de descuento para servicios tur�sticos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4782 de 23 de Septiembre de 2003. Word Recuperaci�n de remanentes de cr�dito fiscal originados en la adquisici�n de una l�nea de transmisi�n de energ�a el�ctrica, en virtud del art�culo 27 bis del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4514 de 12…
+Word Recuperaci�n de remanentes de cr�dito fiscal originados en la adquisici�n de una l�nea de transmisi�n de energ�a el�ctrica, en virtud del art�culo 27 bis del D.L. N� 825.
 
 ## Referencias detectadas
 

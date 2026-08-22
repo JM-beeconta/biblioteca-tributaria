@@ -11,7 +11,7 @@
 
 ## Resumen
 
-A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 2001 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, letra E), N� 17, Art. 42� � Ley N� 18.841, de 1989 � Circulares N� 14, de 1989, N� 17 de 04, 1991 y N� 56 de 1991. (Ord. N� 4686, de 30.11.2001). Word Devoluci�n del IVA a personas no domiciliadas ni residentes en Chile. Ventas y Servicios…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, letra E), N� 17, Art. 42� � Ley N� 18.841, de 1989 � Circulares N� 14, de 1989, N� 17 de 04, 1991 y N� 56 de 1991. (Ord. N� 4686, de 30.11.2001).
 
 ## Referencias detectadas
 

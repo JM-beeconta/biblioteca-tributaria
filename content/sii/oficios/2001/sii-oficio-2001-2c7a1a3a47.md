@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja138.htm
 - Hash SHA-256: a651ba163cd4a5a2263faed0217517564c73998641bf5953d1a6c821ed359b81
 
 ## Resumen
 
-s Sociales por Inversionista Extranjero Acogido al D. Ley 600, de 1974. (Of. N� 179, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 31� N� 1� y 8�, Art. 41� - Circular N� 158�, de 1976. Word Situaci�n Tributaria de los Pr�stamos Efectuados por Un Socio a una Sociedad de Personas. (Of. N� 180, de 15.01.2001 � I. Directos) enta � Actual Ley Sobre Impuesto a la � Art. 31�. Word Tratamiento Tributario Respecto de los Desembolsos Incurridos en Mantenci�n y Mejoramiento de Camino P�blico por…
+enta � Actual Ley Sobre Impuesto a la � Art. 31�.
 
 ## Referencias detectadas
 

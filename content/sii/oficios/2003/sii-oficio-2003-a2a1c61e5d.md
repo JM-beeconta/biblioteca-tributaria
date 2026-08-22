@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de veh�culos semiterminados, para la armadur�a o ensamblaje en el pa�s. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2525 de 23 de Mayo de 2003. Word Consulta sobre recuperaci�n del impuesto al valor agregado en aporte propio efectuado por beneficiario del subsidio dispuesto en la Ley N� 18.450. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2517 de 23 de Mayo de 2003. Word Procedencia de aplicar opini�n contenida en Memor�ndum N� 30, de 6-3-2001, a las empresas constructoras que solicitan modificar su…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2517 de 23 de Mayo de 2003.
 
 ## Referencias detectadas
 

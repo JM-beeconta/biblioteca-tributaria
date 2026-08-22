@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-08
+- Fecha: 2001-04-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja1547.htm
 - Hash SHA-256: 6508a9671d844c31bfd8546243e6d85d18274193d5a94718dbfead080dee615e
 
 ## Resumen
 
-='ventas/ja2971.doc'>Word Legislaci�n tributaria aplicable, a gasolina de 120 octanos, utilizada en aviaci�n particular o deportiva. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 1941, de 08.05.2001) Word IVA en contrato de prestaci�n de servicios de acceso a bases de datos en l�nea. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 46� � Circular 14, de 2000. (Ord. N� 1547, de 06.04.2001) Word Gravamen que afecta a e…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 46� � Circular 14, de 2000. (Ord. N� 1547, de 06.04.2001)
 
 ## Referencias detectadas
 

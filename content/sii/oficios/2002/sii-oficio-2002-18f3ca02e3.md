@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-01
+- Fecha: 2002-06-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja305.htm
 - Hash SHA-256: 891b141925102a6bf888a28f361651852a878998c8222f660829bf84df8f646f
 
 ## Resumen
 
-">Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 2371, de 01.07.2002) Ley sobre Impuesto a la Renta � Ley N� 19.749 Word Beneficios tributarios que favorecen a las microempresas. (Ord. N� 2300, de 25.06.2002) Ley sobre Impuesto a la Renta � Art. 55 bis Word Procedencia de acogerse a beneficio del art�culo 55 bis de la Ley de la Renta antes que se verifique la adquisici�n de un bien ra�z, en…
+25.06.2002) Ley sobre Impuesto a la Renta � Art. 55 bis
 
 ## Referencias detectadas
 

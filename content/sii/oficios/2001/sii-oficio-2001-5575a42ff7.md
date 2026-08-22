@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3, Art. 41� B. (Ord. N� 1297, de 29.03.2001) Word Tratamiento tributario de la disminuci�n de capital de una agencia en el exterior de sociedad an�nima chilena efectuada en forma de acciones de sociedades an�nimas extranjeras. Renta � Actual Ley Sobre Impuesto a la � (Ord. N� 1284, de 29.03.2001) Word Forma de acreditar al entero de un aporte social, en trabajo, experiencia y conocimiento del giro de la empresa que se constituye. Renta � Actual Ley Sobre Impuest…
+Word Forma de acreditar al entero de un aporte social, en trabajo, experiencia y conocimiento del giro de la empresa que se constituye.
 
 ## Referencias detectadas
 

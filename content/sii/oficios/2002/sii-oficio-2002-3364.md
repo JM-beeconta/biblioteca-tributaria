@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3365 de 12 de Septiembre de 2002. Word Sujeto obligado al pago del IVA que grava el arancel establecido en favor del Registro de Multas del Tr�nsito No Pagadas, y la posibilidad de traspasar el monto del impuesto al propietario del veh�culo multado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3364 de 12 de Septiembre de 2002. Word Para efectos de tramitar la devoluci�n de IVA, en virtud del art�culo 36�, del D.L. N� 825, ante la Tesorer�a General de la…
+Word Para efectos de tramitar la devoluci�n de IVA, en virtud del art�culo 36�, del D.L. N� 825, ante la Tesorer�a General de la Rep�blica, no procede reemplazar el conocimiento de embarque exigido en el art�culo 2�, letra c), del D.S. de Econom�a N� 348, de 1975, en el caso de exportaci�n de bienes, por la declaraci�n de exportaci�n como se sugiere.
 
 ## Referencias detectadas
 

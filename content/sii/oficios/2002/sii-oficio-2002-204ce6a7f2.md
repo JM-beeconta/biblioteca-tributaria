@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-04
+- Fecha: 2002-05-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja297.htm
 - Hash SHA-256: 9b87a525ba50ace65939824b9dcdfc14d6bdb08ebdf846a926536a9c8ff4e349
 
 ## Resumen
 
-letra f) del N� 1 del art�culo 33 de la Ley de la Renta, en caso de mutuo en dinero efectuado por una sociedad de responsabilidad limitada a favor de un hijo de sus socios. (Ord. N� 1731, de 04.06.2002) Ley sobre Impuesto a la Renta � Ley N� 19.123 Word Situaci�n tributaria de pensiones de reparaci�n a que se refiere la Ley N� 19.123. (Ord. N� 1707, de 31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respect…
+31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518
 
 ## Referencias detectadas
 

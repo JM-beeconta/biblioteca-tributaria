@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Normas Internacionales � Convenio Marco con la Uni�n Europea-Ley sobre Impuesto a la Renta Procedimiento para hacer efectivas las exenciones tributarias contenidas en el Convenio Marco con la Uni�n europea. (Ordinario N� 5300 de 21 Octubre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 24, N�17, del D. L. N�3.475, de 1980.- ( Oficio N� 5197 de 10 de Octubre de 2003). Decreto Ley N� 3475, de 1980, Impuesto de T…
+Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 24, N�17, del D. L. N�3.475, de 1980.- ( Oficio N� 5197 de 10 de Octubre de 2003).
 
 ## Referencias detectadas
 

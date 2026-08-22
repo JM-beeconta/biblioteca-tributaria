@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto a la Renta � art. 55 bis Word Concepto que comprende la rebaja tributaria del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1411, de 30.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1405, de 30.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Caso en el cual se mantiene el beneficio tributario de la Ley N� 19.622, de 1999. (Ord. N� 1397, de 29.04.2002) Ley sobre Impuesto a la…
+30.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis
 
 ## Referencias detectadas
 

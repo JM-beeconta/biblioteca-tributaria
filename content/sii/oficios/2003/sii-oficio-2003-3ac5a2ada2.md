@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-09
+- Fecha: 2003-05-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja535.htm
 - Hash SHA-256: 3f225e9ce7c2daadc75f03b5d2a6398b9cc26569f98912b27395e29012b7380a
 
 ## Resumen
 
-llas establecida en el art�culo 24, N�17, del D.L. N�3.475, de 1980.- ( Oficio N� 3411 de 09 de Julio de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n o imputaci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402. ( Oficio N� 3231 de 02 de Julio de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicitud de devoluci�n de Impuesto de Timbres y Estampillas pagado como consecuencia de un contrato de mutuo hipotecario endosabl…
+o de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

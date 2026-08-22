@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3767
 - Año: 2003
-- Fecha: 2003-07-18
+- Fecha: 2003-07-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja529.doc
 - Hash SHA-256: f3eda729b1a2dfd8021bf66ed75323a90325dfdf91dae2860f4d4b23a659661e
 
 ## Resumen
 
-ont face='arial' size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3669 de 18 de Julio de 2003 Word Solicita pronunciamiento sobre el alcance del t�rmino �prestaciones�, utilizado en el art�culo 9�, de la Ley N� 18.712, para efectos de aplicar la exenci�n del impuesto al valor agregado all� contenida. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3767 de 28 de Julio de 2003.- Word Sujeto obligado al pago del IVA que grava el arancel establecido a favor del Registro de Multas del Tr�nsito No Pagad…
+Word Sujeto obligado al pago del IVA que grava el arancel establecido a favor del Registro de Multas del Tr�nsito No Pagadas, en el caso que la municipalidad que recaude la multa sea una distinta de aquella en cuyo territorio se curs� la infracci�n.
 
 ## Referencias detectadas
 

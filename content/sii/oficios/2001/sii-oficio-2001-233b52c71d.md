@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-08
+- Fecha: 2001-04-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja1547.doc
 - Hash SHA-256: e30a64794f57d711256f6ea126e327d6736f5d3334eb10222ebdf71f30e66598
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 1941, de 08.05.2001) Word IVA en contrato de prestaci�n de servicios de acceso a bases de datos en l�nea. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 46� � Circular 14, de 2000. (Ord. N� 1547, de 06.04.2001) Word Gravamen que afecta a enajenaci�n de veh�culos ingresados al pa�s en misi�n diplom�tica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las…
+Word Gravamen que afecta a enajenaci�n de veh�culos ingresados al pa�s en misi�n diplom�tica.
 
 ## Referencias detectadas
 

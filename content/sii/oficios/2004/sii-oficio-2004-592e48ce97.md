@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-04
+- Fecha: 2004-09-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja818.htm
 - Hash SHA-256: 03190cbd19135a69c3abcd0239c7bfd8d7f16e48193bfec517b101d26ead1a30
 
 ## Resumen
 
-ace="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � C�digo Tributario, Art. 6�, letra A), N�1 � Ley N� 19.768, Art. 1� y 6� transitorios � Decreto Ley N� 3.500, de 1980 � Circular 23, de 2002 � Oficios N��s 2.487, de 2004 y N� 905, de 2003. Word Situaci�n tributaria del retiro de Excedente de Libre Disposici�n en el caso que indica. (Ord. N� 4.577, de 04.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N� 1, Art. 78� � D.L. N� 825 de 1974, Art. 2�, N� 2, Art. 8�, Art. 23�, N� 1…
+Renta � Actual Ley Sobre Impuesto a la � Art. 74�, N� 1, Art. 78� � D.L. N� 825 de 1974, Art. 2�, N� 2, Art. 8�, Art. 23�, N� 1 � Res. Exenta N� 6.080, de 1999 � C�digo Tributario, Art. 8�, N� 5 � C�digo de Comercio, Art. 23�.
 
 ## Referencias detectadas
 

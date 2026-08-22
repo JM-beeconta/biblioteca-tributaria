@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-05
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3650.doc
 - Hash SHA-256: f1f485319511855f1fe40715d4ecf5ea9f08c3f7b67279a3fb34704659e01c5b
 
 ## Resumen
 
-='1'> Renta � Actual Ley Sobre Impuesto a la � Oficio N� 2.100, de 1996. (Ord. N� 3651, de 05.09.2001) Word Tratamiento tributario aplicable en caso de asignaci�n de predio agr�cola a una sociedad que se crea. Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1, letra a) � Circular N� 40, del a�o 1991. (Ord. N� 3650, de 05.09.2001) Word Reconocimiento de rentas devengadas de acuerdo a lo establecido en el inciso segundo de la letra a) del N� 1 de la letra A) del art�culo 14 de la Ley sobre Impuesto a…
+Word Reconocimiento de rentas devengadas de acuerdo a lo establecido en el inciso segundo de la letra a) del N� 1 de la letra A) del art�culo 14 de la Ley sobre Impuesto a la Renta.
 
 ## Referencias detectadas
 

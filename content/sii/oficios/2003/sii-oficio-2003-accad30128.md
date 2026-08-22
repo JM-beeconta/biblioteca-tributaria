@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la Ley de la Renta. (Ord. N� 6349, de 12.12.2003) Ley sobre Impuesto a la Renta � Art.. 31 N� 5 Word Improcedencia de continuar aplicando el r�gimen de depreciaci�n acelerada a que se refiere el N� 5 del art�culo 31 de la Ley de la Renta a los bienes f�sicos del activo inmovilizado que se traspasan con motivo de fusi�n de sociedades. (Ord. N� 6348, de 12.12.2003) Ley sobre Impuesto a la Renta � Arts. 60 y 63 LIR y 27 bis y 36 D.L. N� 825, de 1974 Word Tributaci�n que corresponde aplicar a socio extranjero de socie…
+12.12.2003) Ley sobre Impuesto a la Renta � Arts. 60 y 63 LIR y 27 bis y 36 D.L. N� 825, de 1974
 
 ## Referencias detectadas
 

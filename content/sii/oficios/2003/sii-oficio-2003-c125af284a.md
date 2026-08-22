@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-23
+- Fecha: 2003-04-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja475.doc
 - Hash SHA-256: 87e3825e05cc4b2369ae61620024441ce262c8a3701d6a16e3707605aaa0e52e
 
 ## Resumen
 
-3) Ley sobre Impuesto a la Renta � Art. 17 N� 8 Word Situaci�n tributaria que afecta a comuneros de una comunidad agr�cola acogida a renta presunta que aportan sus derechos o cuotas a una sociedad en formaci�n o constituci�n. (Ord. N� 1736, de 23.04.2003) Ley sobre Impuesto a la Renta � Art. 2� N� 1 LIR y Art. 23 N� 1 D.L. N� 825, de 1974 Word Tributaci�n que afecta a los impuestos y derechos de cargo de un importador de una mercader�a pagados por el exportador extranjero. (Ord. N� 1673, de 22.04.2003) Ley sobre I…
+Word Tributaci�n que afecta a los impuestos y derechos de cargo de un importador de una mercader�a pagados por el exportador extranjero. (Ord. N� 1673, de 22.04.2003)
 
 ## Referencias detectadas
 

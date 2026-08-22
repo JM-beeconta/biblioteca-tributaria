@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Ley sobre Impuesto a la Renta � Arts. 31 N� 6 y 42 N� 1 LIR Word Improcedencia de aplicar la rebaja del art�culo 42 bis de la Ley de la Renta, respecto del sueldo empresarial asignado o pagado al empresario individual y socios de sociedades de personas. (Ord. N� 6524, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 58 N� 1 y 74 N� 4 LIR Word Aplicaci�n de la retenci�n establecida en el Art�culo 74 N� 4 de la Ley de la Renta, en el caso de la remesa de utilidades efectuada por contribuyente del art�culo 58 N…
+Word Aplicaci�n de la retenci�n establecida en el Art�culo 74 N� 4 de la Ley de la Renta, en el caso de la remesa de utilidades efectuada por contribuyente del art�culo 58 N� 1 de la ley precitada. (Ord. N� 6523, de 19.12.2003)
 
 ## Referencias detectadas
 

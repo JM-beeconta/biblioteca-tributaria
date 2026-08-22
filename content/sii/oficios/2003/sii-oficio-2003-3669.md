@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3669
 - Año: 2003
-- Fecha: 2003-07-24
+- Fecha: 2003-07-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja532.doc
 - Hash SHA-256: b8cabbf30dfc4d28d55de5d811e891c35d03e531f3ad16ec01f87d5e8520913a
 
 ## Resumen
 
-cas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3717 de 24 de Julio de 2003.- Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, del usufructo de un bosque. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3669 de 18 de Julio de 2003 Word Solicita pronunciamiento sobre el alcance del t�rmino �prestaciones�, utilizado en el art�culo 9�, de la Ley N� 18.712, para efectos de aplicar la exenci�n del impuesto al valor agregado all� contenida. Ley de Impuesto a las Ventas y Servicios. Of…
+Word Solicita pronunciamiento sobre el alcance del t�rmino �prestaciones�, utilizado en el art�culo 9�, de la Ley N� 18.712, para efectos de aplicar la exenci�n del impuesto al valor agregado all� contenida.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-12
+- Fecha: 2002-09-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja354.htm
 - Hash SHA-256: 22ce1a12e7addef4b83c9c040513707144da44a84ba8cf6d4e4d1ad4299e2025
 
 ## Resumen
 
-e sugiere. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3363 de 12 de Septiembre de 2002. Word Improcedencia de exenci�n de IVA al ingreso por concepto de entradas a espect�culos art�sticos, cient�ficos o culturales, teatrales, musicales, po�ticos, de danza y canto, cuando en los locales en que se efect�en se transfieran bebidas alcoh�licas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3255 de 5 de Septiembre de 2002. Word Cobro del beneficio de asignaci�n por muerte, contemplado en el DFL N� 90, efe…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3255 de 5 de Septiembre de 2002.
 
 ## Referencias detectadas
 

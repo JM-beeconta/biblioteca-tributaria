@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3090
 - Año: 2003
-- Fecha: 2003-06-26
+- Fecha: 2003-06-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja516.doc
 - Hash SHA-256: fb37ede9199f65615975218f1ac88a37098a8378395c9e895de06fe585c1a358
 
 ## Resumen
 
-� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3161 de 26 de Junio de 2003.- Word Solicita opini�n e informe acerca de la tasa que se aplica a la venta de oro manufacturado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3090 de 20 de Junio de 2003. Word Utilizaci�n como cr�dito fiscal de sumas reintegradas en arcas fiscales en raz�n de haber obtenido una devoluci�n de IVA exportadores improcedente, extempor�nea o superior a la que correspond�a. Ley de Impuesto a las Ventas y Servicios. Oficio N�…
+Word Utilizaci�n como cr�dito fiscal de sumas reintegradas en arcas fiscales en raz�n de haber obtenido una devoluci�n de IVA exportadores improcedente, extempor�nea o superior a la que correspond�a.
 
 ## Referencias detectadas
 

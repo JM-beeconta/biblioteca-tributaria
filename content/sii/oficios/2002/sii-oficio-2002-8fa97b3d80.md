@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-10-04
+- Fecha: 2002-09-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja367.htm
 - Hash SHA-256: 00bc724bc103048e7fd551482959e08c69f89e312e7c3fa9babaf49a978c3407
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 3564 de 4 de Octubre de 2002. Word Consulta acerca de procedencia de utilizar como cr�dito fiscal el impuesto soportado en la ejecuci�n de un proyecto para drenaje, en circunstancias que el predio beneficiado con dicha obra se encuentra arrendado y su propietario no se encuentra ejerciendo su actividad agr�cola durante el per�odo que dura dicho arriendo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3528 de 30 de Septiembre de 2002. Word Pide se aclare modi…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3528 de 30 de Septiembre de 2002.
 
 ## Referencias detectadas
 

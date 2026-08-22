@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-30
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja207.htm
 - Hash SHA-256: 36c790028a5335f043d5ca7a96df5e7a921314ebe55104378bd73b642ce680e7
 
 ## Resumen
 
-Plazo. (Of. N� 2380, de 30.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 4�, Art. 5� y Art. 12� Letra E) N�17�. Word No Procede Recuperaci�n del IVA, por Parte de una Empresa Extranjera en Gastos Efectuados por su Participaci�n en Feria Realizada en Nuestro Pa�s. (Of. N� 2353, de 29.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 3� y Art. 52� - Convencion Sobre Prerrogativas E Inmunidades de las Naciones Unidas y sus Organismos Dependie…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 3� y Art. 52� - Convencion Sobre Prerrogativas E Inmunidades de las Naciones Unidas y sus Organismos Dependientes, Art. Ii, Seccion 7� Letra a) � D. L. N� 1051, de 1975, Articulo Unico.
 
 ## Referencias detectadas
 

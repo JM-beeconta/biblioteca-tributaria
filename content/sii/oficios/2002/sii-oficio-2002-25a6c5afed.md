@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-03
+- Fecha: 2002-04-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja281.doc
 - Hash SHA-256: a0ad65ade98f676badd232e16ee5443d57a89f2aeff68d84f53b74cbdb960d2b
 
 ## Resumen
 
-(Ord. N� 1436, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 33 Ley N� 19.518 Word Procedencia de cr�dito por gastos de capacitaci�n contenido en la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo, respecto de trabajadores sujetos a precontratos laborales. (Ord. N� 1435, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Concepto que comprende la rebaja tributaria del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1411, de 30.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Cond…
+Word Concepto que comprende la rebaja tributaria del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1411, de 30.04.2002)
 
 ## Referencias detectadas
 

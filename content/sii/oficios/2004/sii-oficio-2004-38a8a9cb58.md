@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-29
+- Fecha: 2004-09-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja817.htm
 - Hash SHA-256: 8af3c62d22fdd353c95c9d1f97004ae9bea00ea5aeb738795a36b3787191dd52
 
 ## Resumen
 
-5 de 1974, Art. 2�, N� 2, Art. 8�, Art. 23�, N� 1 � Res. Exenta N� 6.080, de 1999 � C�digo Tributario, Art. 8�, N� 5 � C�digo de Comercio, Art. 23�. Word Absuelve Consultas sobre Situaci�n Tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Servicios relativo al establecimiento en el pa�s de Presidencia Regional de Compa��a Extranjera Internacional que Opera en Chile. (Ord. N� 4.508, de 29.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 7 � Ley N� 18.985, Art. 8� � Ley N� 19.227, de 1…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 7 � Ley N� 18.985, Art. 8� � Ley N� 19.227, de 1993, Art. 10� � Circulares N�s 24 y 50 de 1993, 57 de 2001 y 55 y 59 de 2003.
 
 ## Referencias detectadas
 

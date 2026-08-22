@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-10
+- Fecha: 2001-04-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja185.doc
 - Hash SHA-256: 9ac08e276336a63d417ee2e628ebdabaf5476d1bbc989025a2f96179babf16a8
 
 ## Resumen
 
-Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales, Art.24� - D. S. del Ministerio del Interior N�2.385, de 1996. Word Tributaci�n de Sociedad Agr�cola que Solicita se Determine Si Dicha Empresa se Encuentra en la Situaci�n Prevista en el Art�culo 24�, Inciso 5� del Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales. (Of. N� 1582, de 10.04.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 20� N� 1�, Letra B) y C). Word Situaci�n Tributaria de Contribuyente que Tributa en Renta Presunta, a…
+Word Situaci�n Tributaria de Contribuyente que Tributa en Renta Presunta, al que se Le Ha Ofrecido el Pago de Un Arriendo por el Derecho de Paso por su Predio, Ofrecido por una Empresa que Construye Autopista. (Of. N� 1644, de 17.04.2001 � I. Directos)
 
 ## Referencias detectadas
 

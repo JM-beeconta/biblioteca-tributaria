@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ambio a considerar para los efectos de corregir monetariamente las inversiones en el exterior. (Ord. N� 2277, de 29.04.2003) Ley sobre Impuesto a la Renta � Arts. 31 N� 6 y 33 N� 1 Word Tratamiento tributario del Impuesto de Primera Categor�a frente al FUT. (Ord. N� 2276, de 29.04.2003) Ley sobre Impuesto a la Renta � Arts. 14 N� 1 Letra A) y 31 N� 5 Word Situaci�n tributaria de la diferencia entre la depreciaci�n normal y acelerada de los bienes f�sicos del activo inmovilizado frente al FUT. (Ord. N� 2275, de 29.…
+Word Situaci�n tributaria de la diferencia entre la depreciaci�n normal y acelerada de los bienes f�sicos del activo inmovilizado frente al FUT. (Ord. N� 2275, de 29.04.2003)
 
 ## Referencias detectadas
 

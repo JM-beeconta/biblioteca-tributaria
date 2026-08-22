@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bre Impuesto a la � Art. 38�, Inciso 1�, Art. 58�, N� 1. Word Situaci�n Tributaria de la Agencia de Empresa Extranjera Establecida en Chile. (Ord. N� 2.556, de 08.06.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�1, Art. 20�, N� 3, 4 y 5, Art. 40�, N�1, Art. 65�, N�1 � D.L. N� 825, de 1974, Art. 2�, N� 2, Art. 8�, Art. 52�, Art. 55� � C�digo Tributario, Art. 8�, N� 5. Word Tributaci�n de Excedentes Producidos en el Desarrollo del Convenio suscrito entre el Servicio Agr�cola Ganadero y la Asociaci�n Naci…
+Word Tributaci�n de Excedentes Producidos en el Desarrollo del Convenio suscrito entre el Servicio Agr�cola Ganadero y la Asociaci�n Nacional de Productores de Semillas. (Ord. N�2.554, de 08.06.2004)
 
 ## Referencias detectadas
 

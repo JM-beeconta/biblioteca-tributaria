@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-02
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja128.htm
 - Hash SHA-256: b802831be8b733dc2016f1df0da42a72cb05d8b3c9641abcdcc7109eaa272f46
 
 ## Resumen
 
-. (Of. N� 13, de 02.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 3�, Art. 4�, Art. 10�, Art. 61� y 62� � Codigo Civil, Art. 59�, Art. 65� - Codigo Tributario, Art.8� N� 8� - D.F.L. N� 2, de 1959, Art. 15�. Word Tributaci�n que Afecta a Ciudadano Chileno que se Radica en el Exterior. (Of. N� 4.920, de 27.12.2000 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 2�, N�3�, Art. 59� N� 1�, Art. 74� N� 4�, Art. 79�, Art. 82� - Circular N� 21, de 1991. Word Procedencia del Impuesto Adi…
+Renta � Actual Ley Sobre Impuesto a la - Art. 2�, N�3�, Art. 59� N� 1�, Art. 74� N� 4�, Art. 79�, Art. 82� - Circular N� 21, de 1991.
 
 ## Referencias detectadas
 

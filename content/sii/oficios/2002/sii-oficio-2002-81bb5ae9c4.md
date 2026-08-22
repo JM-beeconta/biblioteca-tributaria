@@ -11,7 +11,7 @@
 
 ## Resumen
 
-contratos generales de construcci�n que no sea por administraci�n, de inmuebles para habitaci�n que incluyen piscinas, en los casos que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4122, de 11 de Noviembre de 2002.- Word Tributaci�n aplicable al contrato de handling de combustible importado a trav�s de la Zona Franca de Iquique. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4121 de 11 de Noviembre de 2002. Word Solicita reconsideraci�n del Oficio N� 3074, del 28 de Agosto del 2002. Ley de Impu…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4121 de 11 de Noviembre de 2002.
 
 ## Referencias detectadas
 

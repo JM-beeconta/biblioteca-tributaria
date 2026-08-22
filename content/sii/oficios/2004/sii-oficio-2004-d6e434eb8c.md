@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-07
+- Fecha: 2004-06-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja706.htm
 - Hash SHA-256: e3b003938f5d31da49d9a6a94fdb7035a677695042236a5784412c2344ad63dd
 
 ## Resumen
 
-e la Renegociaci�n de Cr�dito Hipotecario acogido a la Ley N� 19.622 (Ord. N� 2.868, de 07.07.2004) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 9, Art. 1�, N� 3. Word Impuesto de Timbres y Estampillas aplicable a las Operaciones de Cr�dito a Plazo. (Ord. N� 2.748, de 23.06.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3�, N� 1, Art. 9�, N� 3, Art. 14�, Art. 16�, Art. 23�, N� 1 � C�digo Tributario, Art. 126� y 128�. Word Devoluci�n del Impuesto de Timbres y…
+23.06.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3�, N� 1, Art. 9�, N� 3, Art. 14�, Art. 16�, Art. 23�, N� 1 � C�digo Tributario, Art. 126� y 128�.
 
 ## Referencias detectadas
 

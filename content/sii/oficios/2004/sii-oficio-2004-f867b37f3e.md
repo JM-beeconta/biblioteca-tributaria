@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-23
+- Fecha: 2004-11-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja832.doc
 - Hash SHA-256: ffccf14b013b04455078fc63e7e3400ac984709abb3327d41c3c344cff3b66f8
 
 ## Resumen
 
-FY"> Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � C�digo de Comercio, Art. 602� � Ley N� 18.010, Art. 1�. Word Impuesto de Timbres y Estampillas, aplicable a Contrato de Cuenta Corriente Mercantil (Ord. N� 5.115, de 23.12.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, inciso 3�, Art. 2�. Word Impuesto de Timbres y Estampillas Art�culo 1�, N�3 y Art. 2�, del D.L. N� 3.475, de 1980, Pr�rroga o Renovaci�n de Cr�ditos Documentados mediante Suscripci�n de…
+Word Impuesto de Timbres y Estampillas Art�culo 1�, N�3 y Art. 2�, del D.L. N� 3.475, de 1980, Pr�rroga o Renovaci�n de Cr�ditos Documentados mediante Suscripci�n de Pagar�s (Ord. N� 5.003, de 12.11.2004)
 
 ## Referencias detectadas
 

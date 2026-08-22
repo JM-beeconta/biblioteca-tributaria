@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ord. N� 741, de 04.03.2002 Decreto de Ley N�600-Art�culos 1,2 y 5 - Ley de la Renta, Art. 14�, letra A), 17� N�7. Reconsideraci�n de pronunciamiento sobre repartici�n de capital aportado en forma de tecnolog�a por inversionista extranjero acogido a las normas de Decreto Ley 600. Ord. N� 736, de 28.02.2002 Ley sobre Impuesto a la Renta - Art. 14 bis. Word Forma de acreditar las remuneraciones imponibles para los efectos de la franquicia tributaria por gastos de capacitaci�n. - Oficio N� 670, de 21 de febrero de 200…
+Word Forma de acreditar las remuneraciones imponibles para los efectos de la franquicia tributaria por gastos de capacitaci�n. - Oficio N� 670, de 21 de febrero de 2002.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-10-21
+- Fecha: 2002-10-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja381.htm
 - Hash SHA-256: 8d1a0febb7aa5dec603c2dc9166135ecb95fb472c3f9a91cbeaaa4abb1012c12
 
 ## Resumen
 
-nvasado, efectuada por una empresa cuyo giro es la Fabricaci�n de Vinos y Embotelladora de Alcoholes. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3787 de 21 de Octubre de 2002. Word Se encuentra afecta a IVA la convenci�n por la cual una persona concede a otra el uso de su oficina amoblada para �compartir� los gastos de su funcionamiento. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3737 de 16 de Octubre de 2002. Word Aplicaci�n del beneficio otorgado por el art�culo 29 de la Ley N� 18.591, a los ac…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3737 de 16 de Octubre de 2002.
 
 ## Referencias detectadas
 

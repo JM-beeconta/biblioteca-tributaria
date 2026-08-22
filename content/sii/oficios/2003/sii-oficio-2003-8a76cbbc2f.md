@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-23
+- Fecha: 2003-12-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6525.htm
 - Hash SHA-256: 2441345b4280fab2f996a498f22a4bb2cde68740d51ba895544f4bd14ceab5d3
 
 ## Resumen
 
-del art�culo 64 del C�digo Tributario. (Ord. N� 6598, de 23.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 42 bis y 50 Word Cotizaciones obligatorias a considerar para los fines del l�mite de la rebaja del ahorro previsional voluntario que establece el art�culo 50 de la Ley de la Renta, en el caso de trabajador independiente. (Ord. N� 6534, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 2 LIR Word Forma de acreditar las rentas que se indican. (Ord. N� 6525, de 19.12.2003) Ley sobre Impuesto a…
+19.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 2 LIR
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-10
+- Fecha: 2002-06-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja301.doc
 - Hash SHA-256: ec133277e4211e3c130597ca33df0898c10399c0ac93bb4258b88c2f3bcfc64d
 
 ## Resumen
 
-1793, de 10.06.2002) Ley sobre Impuesto a la Renta � arts. 42 y 52 Word Requisitos y condiciones que se deben cumplir para acceder al beneficio de la asignaci�n de zona establecida por el art�culo 13 del D.L. N� 889, de 1975. (Ord. N� 1789, de 07.06.2002) Ley sobre Impuesto a la Renta � arts. 42 bis y 48 Word Imposibilidad de directores o consejeros de sociedades an�nimas de rebajar gastos efectivos o presuntos y de deducir los ahorros previsionales voluntarios a que se refiere el art�culo 42 bis de la Ley de la R…
+Word Imposibilidad de directores o consejeros de sociedades an�nimas de rebajar gastos efectivos o presuntos y de deducir los ahorros previsionales voluntarios a que se refiere el art�culo 42 bis de la Ley de la Renta. (Ord. N� 1787, de 07.06.2002)
 
 ## Referencias detectadas
 

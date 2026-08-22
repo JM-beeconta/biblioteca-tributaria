@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-05
+- Fecha: 2002-09-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja360.doc
 - Hash SHA-256: 6bf105fae40028eb69738ca407b84faa076cbe0e2ed6d24a6fdba66bd8153d4c
 
 ## Resumen
 
-de fecha 05.09.2002. (Ord. N� 3542, de 02.10.2002) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 34� bis Word Clasificaci�n de rentas obtenidas por empresa de transporte de pasajeros por actividades que se indican. (Ord. N� 3477, de 27.09.2002) Ley sobre Impuesto a la Renta � Art. 55 bis y Art. 3� transitorio Ley N� 19.753, de 2001 Word Plazo para la presentaci�n de Declaraci�n Jurada Simple a que se refiere el art�culo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 3400, de 16.09.2002) Ley sobre Impuesto…
+Word Plazo para la presentaci�n de Declaraci�n Jurada Simple a que se refiere el art�culo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 3400, de 16.09.2002)
 
 ## Referencias detectadas
 

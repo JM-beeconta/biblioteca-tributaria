@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4518
 - Año: 2004
-- Fecha: 2004-01-22
+- Fecha: 2004-01-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja646.doc
 - Hash SHA-256: fbf82ecda3c091b9098fbd9bba572514c897bb17afdc06b65dbc4935325bfa2d
 
 ## Resumen
 
-="JUSTIFY"> Ley sobre Impuesto a la Renta � Art. 18 inciso 3� Word Absuelve consultas sobre aplicaci�n de norma de habitualidad contenida en el inciso tercero del art�culo 18 de la Ley de la Renta, respecto de bienes adquiridos por sucesi�n por causa de muerte. (Ord. N� 315, de 22.01.2004) Ley sobre Impuesto a la Renta � Arts. 14 y 21 LIR Word Solicita pronunciamiento sobre la imputaci�n del impuesto de Primera Categor�a al FUT. (Ord. N� 299, de 20.01.2004) Ley sobre Impuesto a la Renta � Arts. 59 N�. 3, 74 N� 4 y…
+Word Solicita pronunciamiento sobre la imputaci�n del impuesto de Primera Categor�a al FUT. (Ord. N� 299, de 20.01.2004)
 
 ## Referencias detectadas
 

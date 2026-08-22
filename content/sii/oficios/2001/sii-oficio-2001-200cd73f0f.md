@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja141.htm
 - Hash SHA-256: 90eccc747c8de1cfb52153e21de6aebbf33880f1ef3736c3feb537c06a7b4d03
 
 ## Resumen
 
-Acciones que se Pueden Acoger a las Normas del N� 1� de la Letra a) del Anterior Texto del Art�culo 57 Bis de la Ley de la Renta. (Of. N�177, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 42�. Word Impuesto �nico de Segunda Categor�a que Afecta a los Trabajadores Agr�colas. (Of. N�42, de 04.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, Art. 84� - Decreto Ley N� 825, Art. 27� � Codigo Tributario, Art. 57�. Word Situaci�n Tributaria de Reajuste Proveniente de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, Art. 84� - Decreto Ley N� 825, Art. 27� � Codigo Tributario, Art. 57�.
 
 ## Referencias detectadas
 

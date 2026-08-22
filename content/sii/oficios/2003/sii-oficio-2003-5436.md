@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5436
 - Año: 2003
-- Fecha: 2003-11-03
+- Fecha: 2003-10-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja599.doc
 - Hash SHA-256: 43c0ebc8c82cb826b458ed51469c16b7430d6af0d5be7ec3069f73a790ced6c6
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 5437 de 03 de Noviembre de 2003.- Word Impuesto al Valor Agregado en venta de mercader�as a Carabineros de Chile, efectuada a trav�s de Zona Franca. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5436 de 03 de Noviembre de 2003.- Word Aplicaci�n IVA e impuesto espec�fico, a la adquisici�n de petr�leo diesel para el transporte terrestre de mercanc�as en tr�nsito a la Rep�blica de Bolivia. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5348 de 23 de Octub…
+Word Aplicaci�n IVA e impuesto espec�fico, a la adquisici�n de petr�leo diesel para el transporte terrestre de mercanc�as en tr�nsito a la Rep�blica de Bolivia.
 
 ## Referencias detectadas
 

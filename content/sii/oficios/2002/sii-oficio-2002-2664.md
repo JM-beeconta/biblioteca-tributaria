@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2664
 - Año: 2002
-- Fecha: 2002-07-19
+- Fecha: 2002-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja319.doc
 - Hash SHA-256: 40eca8ba819dec3885dc75c7abe46b59e4c43febb1e8b921530f44c2a5817497
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 2665 de 19 de Julio de 2002. Word Tratamiento tributario aplicable a las inversiones materializadas en forma de aporte de tecnolog�a efectuadas al amparo del D.L. N� 600, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2664, de 19-07-2002.- Word Momento en que se devenga el IVA en las importaciones para efectos de aplicar las multas establecidas en el art�culo 97�, N� 11, del C�digo Tributario. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2639…
+Word Momento en que se devenga el IVA en las importaciones para efectos de aplicar las multas establecidas en el art�culo 97�, N� 11, del C�digo Tributario.
 
 ## Referencias detectadas
 

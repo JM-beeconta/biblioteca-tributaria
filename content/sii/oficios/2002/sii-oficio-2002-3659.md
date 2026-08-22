@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 3661 de 11 de Octubre de 2002. Word IVA en transporte de carga efectuado desde y hacia el territorio beneficiado con r�gimen preferencial aduanero y tributario, Ley N� 18.392, de 1985 (XII Regi�n de Magallanes y Ant�rtica Chilena). Ley de Impuesto a las Ventas y Servicios. Oficio N� 3659 de 11 de Octubre de 2002. Word Tributaci�n con IVA de un �vacunatorio�, con el cual ampliar� su giro una Soc. de Servicios M�dicos. Ley de Impuesto a las Ventas y Servicios. Ofic…
+Word Tributaci�n con IVA de un �vacunatorio�, con el cual ampliar� su giro una Soc. de Servicios M�dicos.
 
 ## Referencias detectadas
 

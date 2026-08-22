@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja139.htm
 - Hash SHA-256: 9b076af6906e9e871fa2cb368d8db8f72e5f837c32f0aa1d6ce4659df966bca9
 
 ## Resumen
 
-01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, Art. 65�, Art. 69�, Art. 74� N� 4� - Decreto Ley N� 600, de 1974 � Art. 6�. Word Procedencia de Compensar Resultados Positivos y Negativos en Enajenaci�n de Derechos Sociales por Inversionista Extranjero Acogido al D. Ley 600, de 1974. (Of. N� 179, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 31� N� 1� y 8�, Art. 41� - Circular N� 158�, de 1976. Word Situaci�n Tributaria de los Pr�stamos Efectuados por Un Socio…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� N� 1� y 8�, Art. 41� - Circular N� 158�, de 1976.
 
 ## Referencias detectadas
 

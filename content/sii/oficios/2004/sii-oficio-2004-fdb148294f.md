@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N�s 63, de 1990, 19, de 1991 y 5, de 1996 Word Tributaci�n que afecta a enajenaci�n de Predio Agr�cola adquirido antes del a�o 1990, conforme a lo dispuesto por el art�culo 5�, Transitorio de la Ley N�18.985, de 1990. (Oficio N� 5.492, de 31.12.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra i), Art. 20�, N� 1, letra b) � Oficios N�s 1.736, de 2003 y 4.522, de 1992 Word Tributaci�n que afecta a la enajenaci�n de Derechos o Cuotas respecto de un Bien Ra�z Agr�cola pose�do en Comunidad, seg�n lo…
+Word Tributaci�n que afecta a la enajenaci�n de Derechos o Cuotas respecto de un Bien Ra�z Agr�cola pose�do en Comunidad, seg�n lo dispuesto por la letra i), del N� 8, del Art�culo 17�, de la Ley de la Renta. (Oficio N� 5.491, de 31.12.2004)
 
 ## Referencias detectadas
 

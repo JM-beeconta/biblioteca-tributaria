@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-12
+- Fecha: 2003-08-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja541.htm
 - Hash SHA-256: 2b9c7e15bd6babe94de28e038a00ca4ff7f124b05c2ed271c47845d7fae46d52
 
 ## Resumen
 
-40, de 2002 Word Tributaci�n de la sociedades plataforma de negocios a que se refiere el art�culo 41 D de la Ley de la Renta. (Ord. N� 4516, de 12.09.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 11, 20 N� 2 y 39 N� 4 Word Tributaci�n de rentas obtenidas por corporaci�n que se indica. (Ord. N� 4178, de 26.08.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 2, 74 N� 2, 84 LIR y Ley N� 18.450, de 1985 Word Emisi�n de boletas de honorarios para los efectos de impetrar beneficios establecidos en la Ley N� 18.450,…
+26.08.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 2, 74 N� 2, 84 LIR y Ley N� 18.450, de 1985
 
 ## Referencias detectadas
 

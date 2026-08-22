@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-08
+- Fecha: 2004-05-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja752.htm
 - Hash SHA-256: 9f723daa5fa5c22e40d2db8a9f0596a37d14de76f7009ec22b82d8a3cdb1c35e
 
 ## Resumen
 
-3.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 36� � C�digo Tributario, Art. 126�, N� 3 � D.S. N� 348, de 1975, Art. 2� � D.L. N� 3.059, Art. 7�. (Ord. N� 2.563, de 08.06.2004) Word Recuperaci�n del Impuesto al valor Agregado, en virtud del art�culo 36�, del D.L. N� 825, efectuado por Empresa Naviera Extranjera, por Concepto de Cr�dito Fiscal soportado en la utilizaci�n de Servicio de Remolcadores, facturado con posterioridad al Zarpe de la Nave. Ventas y Servicios � Nuevo Texto �…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 42�, Art. 43�, Art. 44� � C�digo de Comercio, Art. 30� � Circular N� 23, de 1978. (Ord. N� 2.497, de. 31.05.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-19
+- Fecha: 2002-08-22
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/otras/ja334.doc
 - Hash SHA-256: 126806fc6b10d8ec047238366feea1c1d5918a95785bce6390d486933e3ee000
 
 ## Resumen
 
-Oficio N� 4668 de 19 de Noviembre de 2002). Oficio N� 3.770 de 10/10/2002 Word Consulta respecto del procedimiento para hacer efectivas las exenciones contenidas en un Convenio Marco suscrito entre Chile y la Comunidad Europea . Oficio N� 3.770 de 10/10/2002 C�digo Tributario - Actual Texto - Art. 17� y 18� Word Forma en que debe llevarse la contabilidad en moneda extranjera. (Ord. N� 2986 de 22.08.2002 - I. Directos) Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 2� bis. Exenci�n de…
+Word Forma en que debe llevarse la contabilidad en moneda extranjera. (Ord. N� 2986 de 22.08.2002 - I. Directos)
 
 ## Referencias detectadas
 

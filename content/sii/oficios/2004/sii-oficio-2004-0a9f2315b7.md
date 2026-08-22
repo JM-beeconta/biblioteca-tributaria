@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-21
+- Fecha: 2004-10-15
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja813.htm
 - Hash SHA-256: a502265e9006ab703d6233337f8746b7498e8ba277c632f3504606a93587a913
 
 ## Resumen
 
-n de exenci�n tributaria contenida en el Convenio Marco con la Uni�n Europea. (Ord. N� 4771, de 21.10.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � Oficio N� 2.436, de 2002. Word Impuesto de Timbres y Estampillas aplicable a las Importaciones. Art�culo 3�, del Decreto Ley N� 3.475, de 1980. ( Ord. N� 4.717, de 15.10.2004) Doble Tributaci�n Internacional � Convenio suscrito entre las rep�blicas de Canad� y Chile, Art. 2�, N� 4, Art. 11� � Ley de la Renta, Art. 59� N� 1. Word Absuelv…
+15.10.2004) Doble Tributaci�n Internacional � Convenio suscrito entre las rep�blicas de Canad� y Chile, Art. 2�, N� 4, Art. 11� � Ley de la Renta, Art. 59� N� 1.
 
 ## Referencias detectadas
 

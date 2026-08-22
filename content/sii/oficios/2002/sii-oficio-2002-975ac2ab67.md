@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-24
+- Fecha: 2002-07-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja313.htm
 - Hash SHA-256: a07470bd6206e9a30e9b5eaa2dfda3bd444ea7762b1236b6e0ad9907dd89221e
 
 ## Resumen
 
-o dotal. (Ord. N� 2745, de 24.07.2002) Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 43 N� 1 y art. 13 D.L. N� 889, de 1974 Word Procedimiento a aplicar para establecer el l�mite m�ximo a que asciende la presunci�n de asignaci�n de zona dispuesta en el art�culo 13 del D.L. N� 889, de 1974. (Ord. N� 2666, de 19.07.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Procedencia del cr�dito por gastos de capacitaci�n en el caso de los Comit�s de Agua Potable Rural, en los t�rminos que se indican. (Ord. N� 2438…
+Ley sobre Impuesto a la Renta � Ley N� 19.518
 
 ## Referencias detectadas
 

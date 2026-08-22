@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-07
+- Fecha: 2004-06-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja957.doc
 - Hash SHA-256: ba6308dc855187958d182ca717d6f1b1ff18685362bbfdec0c476311fda309d3
 
 ## Resumen
 
-t face="arial" size="2"> Ley N� 19.622, de 1999 � Renegociaci�n de Cr�ditos Hipotecarios � Ley N� 19.840, de 2002 � oficio 1.756, de 2001. Word Consulta Electr�nica sobre Tratamiento Tributario de la Renegociaci�n de Cr�dito Hipotecario acogido a la Ley N� 19.622 (Ord. N� 2.868, de 07.07.2004) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 9, Art. 1�, N� 3. Word Impuesto de Timbres y Estampillas aplicable a las Operaciones de Cr�dito a Plazo. (Ord. N� 2.748, de 23.06.2004) Timbres Y Est…
+Word Impuesto de Timbres y Estampillas aplicable a las Operaciones de Cr�dito a Plazo. (Ord. N� 2.748, de 23.06.2004)
 
 ## Referencias detectadas
 

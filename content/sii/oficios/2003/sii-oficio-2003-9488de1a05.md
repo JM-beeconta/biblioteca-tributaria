@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-16
+- Fecha: 2003-12-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6431.doc
 - Hash SHA-256: 344d9ff98cf957ba1d041439dba4f49e82a423aa486b5285f472f9aacb90a799
 
 ## Resumen
 
-asociaciones gremiales. (Ord. N� 6473, de 16.12.2003) Ley sobre Impuesto a la Renta � Art. 41 D Word Resuelve consultas relacionadas con la tributaci�n de las sociedades acogidas al art�culo 41 D de la Ley de la Renta. (Ord. N� 6432, de 15.12.2003) Ley sobre Impuesto a la Renta � Art. 14 de la LIR y Art. 94 Ley N� 18.046 Word Situaci�n que se presenta con motivo de la divisi�n de empresa del transporte que tributa en r�gimen de renta efectiva, espec�ficamente en relaci�n con la posibilidad de que la empresa que na…
+Word Situaci�n que se presenta con motivo de la divisi�n de empresa del transporte que tributa en r�gimen de renta efectiva, espec�ficamente en relaci�n con la posibilidad de que la empresa que nace producto de la divisi�n pueda tributar en conformidad con el r�gimen de renta presunta. (Ord. N� 6431, de 15.12.2003)
 
 ## Referencias detectadas
 

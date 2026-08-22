@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Word Situaci�n tributaria de las Gratificaciones a que se refiere el art�culo 189� del Estatuto del personal de las Fuerzas Armadas. (Ord. N� 1.903, de 23.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Ley N�19.840, de 2002, Art. 1�� Circulares N�s 132, de 1975 y 21, de 1991 � Res. Exenta N� 43, de 2002 � Oficios N�s 4.476, de 1994, 756, de 1995 y 3.981, de 1999. Word A�os de vida �til a utilizar por empresa del Sector Sanitario para la Depreciaci�n de los bienes del Activo Inmovilizado. (Ord.…
+Word A�os de vida �til a utilizar por empresa del Sector Sanitario para la Depreciaci�n de los bienes del Activo Inmovilizado. (Ord. N�1.902, de 23.04.2004)
 
 ## Referencias detectadas
 

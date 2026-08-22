@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-29
+- Fecha: 2004-04-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja714.htm
 - Hash SHA-256: 1591b028660f97344a2a2fe3903d06a48ebb7a2e11a8629ba46664d061ffd412
 
 ## Resumen
 
-os del Petr�leo, el producto denominado BioDiesel. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) y letra h). (Ord. N� 1.995, de 29.04.2004) Word Aplicaci�n del Impuesto al valor Agregado al Arrendamiento de Locales Comerciales Ubicados en las Estaciones de la Red del Ferrocarril Metropolitano de Santiago. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, N�2, Art. 12�, Letra A), N�3 � C�digo del Trabajo, Art. 87�, Art. 91�, Art. 95�. (Ord. N� 17…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, N�2, Art. 12�, Letra A), N�3 � C�digo del Trabajo, Art. 87�, Art. 91�, Art. 95�. (Ord. N� 1797, de 19.04.2004)
 
 ## Referencias detectadas
 

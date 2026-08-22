@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � D.F.L. N� 1, del Ministerio de Defensa, de 1997, Art. 189� � D.F.L. N� 1, de Guerra, de 1968, Arts. 115� y 118� � Oficios N�s 3.219, de 1982, 408, de 1997 y 2.244, de 1971. Word Situaci�n tributaria de las Gratificaciones a que se refiere el art�culo 189� del Estatuto del personal de las Fuerzas Armadas. (Ord. N� 1.903, de 23.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Ley N�19.840, de 2002, Art. 1�� Circulares N�s 132, de 1975 y 21…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Ley N�19.840, de 2002, Art. 1�� Circulares N�s 132, de 1975 y 21, de 1991 � Res. Exenta N� 43, de 2002 � Oficios N�s 4.476, de 1994, 756, de 1995 y 3.981, de 1999.
 
 ## Referencias detectadas
 

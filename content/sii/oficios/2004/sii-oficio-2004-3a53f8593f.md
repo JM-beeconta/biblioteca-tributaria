@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-06
+- Fecha: 2004-07-28
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja793.htm
 - Hash SHA-256: debf76011a8edd3674a8978792b832b532d68bf897fe5e6e919067c0f3ed793a
 
 ## Resumen
 
-sto de Timbres y Estampillas, aplicable a Pagar� Protestado ( Ord. N� 4.200, de 06.09.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 7� � Ley N� 18.092, Art. 11�. Word Impuesto de Timbres y Estampillas, respecto de Letras de Cambio o Pagar� aceptados en Blanco. (Ord. N� 3.602, de 28.07.2004) Herencia, Asignaciones y Donaciones � Impuesto a la � Ley N� 16.271 � C�digo Civil, Art. 1.398� � Resoluci�n N� 125, de 2004. Word Solicita pronunciamiento respecto de la Aplicaci�n del Impuesto a la…
+28.07.2004) Herencia, Asignaciones y Donaciones � Impuesto a la � Ley N� 16.271 � C�digo Civil, Art. 1.398� � Resoluci�n N� 125, de 2004.
 
 ## Referencias detectadas
 

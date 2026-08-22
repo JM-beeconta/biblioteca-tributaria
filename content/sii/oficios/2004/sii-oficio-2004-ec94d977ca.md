@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-20
+- Fecha: 2004-01-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja833.htm
 - Hash SHA-256: 3b8067fb2494d13a151f8fddade04a4c3300f40d0790342bbe4083a8a4c864f5
 
 ## Resumen
 
-y 3475 de 1980, art�culo 1�, N� 3. Ordinario N� 3467 de 20 de Julio de 2004. - Concepto de documentos que contengan operaciones de cr�dito de dinero para los efectos de aplicar o no el impuesto del art�culo 1�, N� 3, del D.L. N� 3.475. (Ordinario N� 3467 de 20 de julio de 2004) Tratado Internacional para Evitar la Doble Tributaci�n, Suscrito por las Rep�blicas de Chile y Per� � Ley sobre Impuesto a la Renta, Art. 41� D � ley N� 18.046, Art. 86� y 87� � D.L. N� 3.063, Sobre Rentas Municipales � Circular N� 43, de 2…
+Tratado Internacional para Evitar la Doble Tributaci�n, Suscrito por las Rep�blicas de Chile y Per� � Ley sobre Impuesto a la Renta, Art. 41� D � ley N� 18.046, Art. 86� y 87� � D.L. N� 3.063, Sobre Rentas Municipales � Circular N� 43, de 2003.
 
 ## Referencias detectadas
 

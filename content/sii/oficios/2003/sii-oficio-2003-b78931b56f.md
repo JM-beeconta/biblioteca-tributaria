@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-25
+- Fecha: 2003-09-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja566.htm
 - Hash SHA-256: 64563ffef9fc30061b3901d05229198bf52e16db6a5690a6ce50762e73e472a8
 
 ## Resumen
 
-, los servicios de difusi�n de Programas de Desarrollo implementados por XXXX, prestados por radioemisoras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4811 de 25 de Septiembre de 2003.- Word Impuesto al Valor Agregado en la comercializaci�n de tarjetas de descuento para servicios tur�sticos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4782 de 23 de Septiembre de 2003. Word Recuperaci�n de remanentes de cr�dito fiscal originados en la adquisici�n de una l�nea de transmisi�n de energ�a el�ctrica, en…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4782 de 23 de Septiembre de 2003.
 
 ## Referencias detectadas
 

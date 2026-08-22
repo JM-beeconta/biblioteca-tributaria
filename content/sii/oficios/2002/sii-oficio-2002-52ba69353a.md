@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-01-25
+- Fecha: 2002-01-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja243.htm
 - Hash SHA-256: bff6356762921ce06aa0c7012afae1a22ee82251f29c447b706b2b103afc43e2
 
 ## Resumen
 
-doc'>Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, de los servicios de telefon�a de larga distancia internacional. Ley de Impuesto a las Ventas y Servicios. Oficio N� 327 de 25 de Enero de 2002. Word Impuesto al Valor Agregado que grava a distintas remuneraciones que se originan en un contrato de securitizaci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 194 de 14-01-2002. Word Facultad de imputar o pedir reembolso del remanente de cr�dito fiscal, originado en adquisici�n de bien…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 194 de 14-01-2002.
 
 ## Referencias detectadas
 

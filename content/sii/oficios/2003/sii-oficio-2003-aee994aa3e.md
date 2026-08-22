@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-02
+- Fecha: 2003-03-27
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja534.htm
 - Hash SHA-256: 4888b20597db6f8badd114d50fcc0af31c0303439deb46f5e1a6fe6d88911120
 
 ## Resumen
 
-seg�n la ley N�18.402. ( Oficio N� 3231 de 02 de Julio de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicitud de devoluci�n de Impuesto de Timbres y Estampillas pagado como consecuencia de un contrato de mutuo hipotecario endosable resciliado. ( Oficio N� 2432 de 12 de Mayo de 2003). Decreto Ley N� 3475, Impuesto de Timbres y Estampillas. Word Aclaraci�n de Oficio N� 255 de 21.01.2003 sobre c�lculo del Impuesto de Ley de Timbres y Estampillas sobre Pagar�s en cuotas. ( Oficio N� 1…
+yo de 2003). Decreto Ley N� 3475, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

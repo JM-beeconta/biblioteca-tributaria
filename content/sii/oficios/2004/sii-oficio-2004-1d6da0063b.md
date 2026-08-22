@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Requisitos para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1117, de 04.03.2004) Ley sobre Impuesto a la Renta � Arts. 31 N� 3 y 90 LIR Word Suspensi�n de Pagos Provisionales Mensuales en caso que se indica. (Ord. N� 1116, de 04.03.2004) Ley sobre Impuesto a la Renta � Ley N� 19.420, de 1998 Word Beneficio tributario establecido en la Ley N� 19.420 de 1995. (Ord. N� 1115, de 04.03.2004) Ley sobre Impuesto a la Renta � Art. 40 N� 3 Word Tratamiento tributario de los ingres…
+Ley sobre Impuesto a la Renta � Ley N� 19.420, de 1998
 
 ## Referencias detectadas
 

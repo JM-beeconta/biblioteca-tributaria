@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3670
 - Año: 2003
-- Fecha: 2003-07-28
+- Fecha: 2003-07-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja528.doc
 - Hash SHA-256: b0557cb6c4fb2f3334068c62d5a38c1eadff15023f468a2616132c20e6afcd46
 
 ## Resumen
 
-a529.htm'>Ley de Impuesto a las Ventas y Servicios. Oficio N� 3767 de 28 de Julio de 2003.- Word Sujeto obligado al pago del IVA que grava el arancel establecido a favor del Registro de Multas del Tr�nsito No Pagadas, en el caso que la municipalidad que recaude la multa sea una distinta de aquella en cuyo territorio se curs� la infracci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3670 de 18 de Julio de 2003. Word Imposibilidad de devolver sumas que no han sido trasladadas como impuesto. Ley de Impuesto…
+Word Imposibilidad de devolver sumas que no han sido trasladadas como impuesto.
 
 ## Referencias detectadas
 

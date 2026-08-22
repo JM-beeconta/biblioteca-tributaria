@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-29
+- Fecha: 2001-08-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3428.htm
 - Hash SHA-256: 0589f3bf56c8ea5446689e0f4ca4d7bbbd61539fd67eefa234f1662c0b3f1189
 
 ## Resumen
 
-font face='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 16�, letra a) � Ley N� 18.525, Art. 6�, Art. 7�, Art. 8�, Art. 9�. (Ord. N� 3590, de 29.08.2001) Word Solicita autorizaci�n para calcular el Impuesto al Valor Agregado causado en la importaci�n de bananos, sobre el valor CIF de los mismos y no sobre su valor aduanero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Oficio N� 3. (Ord. N� 3428, de 17.08.2001) Word Pide aclarac…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Oficio N� 3. (Ord. N� 3428, de 17.08.2001)
 
 ## Referencias detectadas
 

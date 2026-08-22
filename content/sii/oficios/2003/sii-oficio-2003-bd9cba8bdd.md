@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-24
+- Fecha: 2003-09-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja564.htm
 - Hash SHA-256: 01134ebe8b848702522fd7cd6da5718c4d5f2056349089674f74b2f3cd8fd172
 
 ## Resumen
 
-Estado por parte de una empresa concesionaria. (Ord. N� 4786, de 24.09.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� LIR y Ley N� 19.857, de 2003 Word Situaci�n tributaria de aporte de acciones y derechos sociales efectuadas por parte de personas naturales afectas al impuesto Global Complementario a empresas o sociedades. (Ord. N� 4677, de 12.09.2003) Ley sobre Impuesto a la Renta � Art. 21 LIR Word Situaci�n tributaria del impuesto territorial frente al Registro FUT. (Ord. N� 4518, de 12.09.2003) Ley so…
+12.09.2003) Ley sobre Impuesto a la Renta � Art. 21 LIR
 
 ## Referencias detectadas
 

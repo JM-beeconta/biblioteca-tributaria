@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2492
 - Año: 2003
-- Fecha: 2003-05-23
+- Fecha: 2003-05-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja495.doc
 - Hash SHA-256: 22eb8adeccfd4fa223517951a2a8b8bcdc4c5ff62cc26425ed194782f65e2743
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 2517 de 23 de Mayo de 2003. Word Procedencia de aplicar opini�n contenida en Memor�ndum N� 30, de 6-3-2001, a las empresas constructoras que solicitan modificar sus remanentes de cr�ditos por la v�a de correcci�n del d�bito o cr�dito. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2492 de 20 de Mayo de 2003. Word Imputaci�n de remanentes del cr�dito especial contemplado en el art�culo 21, del D.L. N� 910 de 1975, al IVA retenido en facturas de compra, por un…
+Word Imputaci�n de remanentes del cr�dito especial contemplado en el art�culo 21, del D.L. N� 910 de 1975, al IVA retenido en facturas de compra, por una empresa constructora, que a la vez es agente retenedor opcional de dicho impuesto.
 
 ## Referencias detectadas
 

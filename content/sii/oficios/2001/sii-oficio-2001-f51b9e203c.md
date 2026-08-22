@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-20
+- Fecha: 2001-05-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja227.htm
 - Hash SHA-256: 36e26d4719876d592dc9a68efee62d6babe3b81ee0c91bb32693991db8927b15
 
 ## Resumen
 
-ign="JUSTIFY"> Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1� N� 3�, Art. 15� N� 3, Decreto Ley N� 3.475, de 1980. Word Aplicaci�n del Impuesto de Timbres y Estampillas en Operaciones de Cr�dito Efectuadas con Letras o Pagar�s y Banco Responsable del Pago del Tributo en Operaciones de Cr�dito de Dinero que Provienen del Exterior. ( Of. N� 2716, de 20.06.2001. Depto. de T�cnica Tributaria). Ley N� 18.985, de 1990 � Art. 8� Ley Sobre Donaciones con Fines Culturales Modificada por la Ley N� 19…
+Tributaria). Ley N� 18.985, de 1990 � Art. 8� Ley Sobre Donaciones con Fines Culturales Modificada por la Ley N� 19.721, de 05.05.2001, Art. 2� � Circulares N� 24 y 50 de 1993.
 
 ## Referencias detectadas
 

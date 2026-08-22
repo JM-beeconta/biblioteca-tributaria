@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size="1"> Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Situaci�n Tributaria de Aporte de Acciones a otra Sociedad. (Ord. N� 3.927, de 19.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 18� ter, Art. 21�, Art. 33, N�1, letra e). Word Tratamiento Tributario de las P�rdidas en Operaciones del Art�culo 18� ter de la Ley de la Renta. (Ord. N� 3.926, de 19.08.2004) Renta � Actual Ley Sobre Impuesto a la Renta � Art. 69 de la Ley N� 18.681, de 1987…
+Word Tratamiento Tributario de las P�rdidas en Operaciones del Art�culo 18� ter de la Ley de la Renta. (Ord. N� 3.926, de 19.08.2004)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt-size: 10.0pt"> Ley sobre impuesto a la Renta-Art. 59� Tratamiento tributario de operaci�n que se indica resultante de �swap� realizada por el Ministerio de Hacienda. (Ordinario 3671 de 11-10-2002) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1 y 62 Word Tributaci�n aplicable a las remuneraciones obtenidas por una empresa prestadora de servicios de administraci�n de gerencias. (Ord. N� 3670, de 11.10.2002) Ley sobre Impuesto a la Renta � Arts. 33 Ley N� 19.518 Word Reconsideraci�n de criterio tributario estab…
+2002) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1 y 62
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-52.htm'>Ley de Impuesto a las Ventas y Servicios. Oficio N� 3074 de 28 de Agosto de 2002. Word Oportunidad en que se produce el devengo del Impuesto al Valor Agregado respecto de los cobros por las prestaciones de corte y reposici�n de suministro y cargo fijo durante el lapso en que el servicio domiciliario de agua potable se encuentra suspendido por no pago. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3073 de 28 de Agosto de 2002. Word Recuperaci�n del impuesto espec�fico a los combustibles establecido po…
+Word Recuperaci�n del impuesto espec�fico a los combustibles establecido por la Ley N� 19.030, cuando �ste es ingresado desde r�gimen general a Zona Franca y posteriormente es vendido all� a empresas navieras.
 
 ## Referencias detectadas
 

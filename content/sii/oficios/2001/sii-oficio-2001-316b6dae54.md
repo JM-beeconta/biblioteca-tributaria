@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e afecta al beneficio que se Produce entre el Valor Pactado de los Veh�culos entre la Empresa y sus Trabajadores y el Valor Comercial de dichos Bienes. (Ord. N� 2.459, de 27.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, bis, Art. 18� ter, Art. 18� quater, Art. 42�, N�s 1 y 2 � Ley N� 18.045, Art. 199�, inciso tercero, letra ii) � Ley N� 18.815 � D.L. N� 1.328, de 1976 � Circulares N�s 7, 10 y 31, de 2002. Word Situaci�n Tributaria de APV, en el caso de los Fondos Mutuos. (Ord. N� 2.423, de 25.05.2004…
+Word Situaci�n Tributaria de APV, en el caso de los Fondos Mutuos. (Ord. N� 2.423, de 25.05.2004)
 
 ## Referencias detectadas
 

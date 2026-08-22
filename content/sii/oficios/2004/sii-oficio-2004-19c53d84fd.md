@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-16
+- Fecha: 2004-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja824.doc
 - Hash SHA-256: 887b32d22db87ee9c64902e4e4f97942dba388ae42a6945180fa05acdede3576
 
 ## Resumen
 
-IGN='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 3 (Ord. N� 4.349, de 16.09.2004) Word Tributaci�n con IVA al monto cobrado por la empresa XXXXX S.A., en la adquisici�n de Tarjeta. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra f) � D.S N� 1.139, de 1991, Art. 2�, N� 4. (Ord. N� 4.348 de 16.09 .2004) Word IVA en venta de Predio Agr�cola y de Animales destinados a la Producci�n y al Trabajo. Ventas y Servicios � Nuevo Texto � Actua…
+Word IVA en venta de Predio Agr�cola y de Animales destinados a la Producci�n y al Trabajo.
 
 ## Referencias detectadas
 

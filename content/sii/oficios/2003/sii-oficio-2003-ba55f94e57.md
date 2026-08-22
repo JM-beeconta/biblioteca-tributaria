@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-18
+- Fecha: 2003-07-02
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja537.htm
 - Hash SHA-256: 4cdb84cd10a795d0fd397637fc5a10677cf1d578f14ae08e24b8948847cafa78
 
 ## Resumen
 
-i�n de viviendas que no alcanzan la tasa m�xima. ( Oficio N� 4007 de 18 de Agosto de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 24, N�17, del D.L. N�3.475, de 1980.- ( Oficio N� 3411 de 09 de Julio de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n o imputaci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402. ( Oficio N� 3231 de 02 de Julio de 200…
+io de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

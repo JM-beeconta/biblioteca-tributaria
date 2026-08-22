@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 55� bis � Ley N� 19.753, de 2001, Art. 3� transitorio � Ley N� 19.840, de 2002 � Circular N� 87, de 2001. Word Forma en que procede el beneficio Tributario del Art�culo 55 bis de la Ley de la Renta, en el caso que se indica. (Ord. N� 1.705, de 12.04.2004 ) Renta � Actual Ley Sobre Impuesto a la � Art. 42� bis, Art. 50� � D.L. N� 3.500 � Oficio N� 6.534, de 2003. Word Cotizaciones obligatorias que deben considerarse para los efectos del APV en el caso de los contribuyen…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42� bis, Art. 50� � D.L. N� 3.500 � Oficio N� 6.534, de 2003.
 
 ## Referencias detectadas
 

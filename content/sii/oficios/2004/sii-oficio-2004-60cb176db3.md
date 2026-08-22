@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 5� transitorio � Circular N� 63, de 1990. Word Aplicaci�n del Art�culo 5� Transitorio de la Ley N� 18.985, en el caso de la Enajenaci�n de Bien Ra�z Agr�cola adquirido por causa de Sucesi�n de Muerte, hace m�s de catorce A�os. (Ord. N� 4.617, de 06.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � C�digo Tributario, Art. 6�, letra A), N�1 � Ley N� 19.768, Art. 1� y 6� transitorios � Decreto Ley N� 3.500, de 1980 � Circular 23, de 2002 � Of…
+06.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � C�digo Tributario, Art. 6�, letra A), N�1 � Ley N� 19.768, Art. 1� y 6� transitorios � Decreto Ley N� 3.500, de 1980 � Circular 23, de 2002 � Oficios N��s 2.487, de 2004 y N� 905, de 2003.
 
 ## Referencias detectadas
 

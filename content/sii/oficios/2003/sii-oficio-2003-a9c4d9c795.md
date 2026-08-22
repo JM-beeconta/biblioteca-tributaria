@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-12
+- Fecha: 2003-06-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja504.htm
 - Hash SHA-256: 5c0676c4e585ad15588c3661ad0c24b61ff95273aa3e82ef36ad7834c7555c26
 
 ## Resumen
 
-n arcas fiscales en raz�n de haber obtenido una devoluci�n de IVA exportadores improcedente, extempor�nea o superior a la que correspond�a. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2985 de 12 de Junio de 2003. Word Aplicaci�n de IVA a cesi�n de contrato de prestaci�n de servicios que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2769 de 03 de Junio de 2003. Word Implicancias tributarias de las asignaciones de carros bomba efectuadas por la Junta Nacional de Cuerpos de Bomberos a los cuerpo…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2769 de 03 de Junio de 2003.
 
 ## Referencias detectadas
 

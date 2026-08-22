@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-24
+- Fecha: 2001-09-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3725.htm
 - Hash SHA-256: 07574c6c84e88b4bfb681329a3019eb0d20c10e35f59deed2cae6b6c1169d7ff
 
 ## Resumen
 
-ola de igual naturaleza jur�dica. Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 8� � Circulares N�s. 24 y 50, de 1993 y 57, de 2001. (Ord. N� 3851, de 24.09.2001) Word Condiciones bajo las cuales la Comisi�n Nacional del Medio Ambiente puede recibir donaciones con beneficios tributarios del art�culo 8� de la Ley N� 18.985, de 1990. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�9. (Ord. N� 3725, de 11.09.2001) Word Determinaci�n del costo tributario de la venta de derechos sociales. Renta � Ac…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�9. (Ord. N� 3725, de 11.09.2001)
 
 ## Referencias detectadas
 

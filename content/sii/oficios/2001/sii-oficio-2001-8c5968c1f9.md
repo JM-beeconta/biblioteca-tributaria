@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-17
+- Fecha: 2001-03-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja184.doc
 - Hash SHA-256: 88a7f60aa09ea303d1cb2c41700d12e27f3f5feeaafb20d934343b5ff66bd78b
 
 ## Resumen
 
-'renta/ja185.doc'>Word Situaci�n Tributaria de Contribuyente que Tributa en Renta Presunta, al que se Le Ha Ofrecido el Pago de Un Arriendo por el Derecho de Paso por su Predio, Ofrecido por una Empresa que Construye Autopista. (Of. N� 1644, de 17.04.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 1�, Art. 42� N�1�, Art. 43� N�1�, Art. 74� N�1� y Art. 78� - Ley N� 19.123, de 1992, Art. 2� N�4�, Art. 8� N� 2� y Art. 17� - Ley N� 19.234, de 1993, Art.15�. Word Tributaci�n de Pensi�n Mensual d…
+Word Tributaci�n de Pensi�n Mensual de Reparaci�n que Establece el Art. 17� de la Ley N� 19.123 y de Pensi�n No Contributiva de Sobrevivencia por Muerte de C�nyuge Concedida por la Ley 19.234. (Of. N� 1265, de 28.03.2001- I. Directos)
 
 ## Referencias detectadas
 

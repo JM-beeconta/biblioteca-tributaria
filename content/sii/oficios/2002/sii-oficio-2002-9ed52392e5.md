@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-05
+- Fecha: 2002-07-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja310.doc
 - Hash SHA-256: bd2a3d6a07a83681a7e366e8601f47f26cf236ffbcf880660dcdf132b86ff970
 
 ## Resumen
 
-os que se indican. (Ord. N� 2438, de 05.07.2002) Ley sobre Impuesto a la Renta � art. 17 N� 8 Word Consecuencias tributarias que se producen con motivo de la transformaci�n de una Sociedad de Responsabilidad Limitada en Sociedad An�nima. (Ord. N� 2383, de 02.07.2002) Ley sobre Impuesto a la Renta � art. 2� transitorio Ley N� 19.768 Word Condiciones bajo las cuales un contribuyente se puede acoger al r�gimen tributario opcional que establece el art. 2� transitorio de la Ley N� 19.768, del a�o 2001, respecto de acci…
+Word Condiciones bajo las cuales un contribuyente se puede acoger al r�gimen tributario opcional que establece el art. 2� transitorio de la Ley N� 19.768, del a�o 2001, respecto de acciones que pose�a un causante. (Ord. N� 2372, de 01.07.2002)
 
 ## Referencias detectadas
 

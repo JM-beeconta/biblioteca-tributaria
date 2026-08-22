@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-10
+- Fecha: 2003-10-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja574.htm
 - Hash SHA-256: e0ae00016b72262fc547126077332584c76e073a6da4b9bdf6a03eb3663c79f2
 
 ## Resumen
 
-de la Ley N� 18.591, a anticipo de IVA, facturado a contribuyente declarado en quiebra. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5192 de 10 de Octubre de 2003.- Word Emisi�n de notas de cr�dito y d�bito en servicios de telecomunicaciones de larga distancia, prestados por empresas portadoras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5138 de 07 de Octubre de 2003.- Word Tasa aplicable al IVA en las importaciones. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5017 de 01 de Octubre de 2003.…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5138 de 07 de Octubre de 2003.-
 
 ## Referencias detectadas
 

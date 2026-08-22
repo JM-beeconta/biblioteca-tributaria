@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3791
 - Año: 2003
-- Fecha: 2003-03-20
+- Fecha: 2003-03-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja459.doc
 - Hash SHA-256: 42bd5348daf1d44b02e7900cb90c19867c925f332c5e72714e3306c4de9596e9
 
 ## Resumen
 
-(Ord. N� 1015, de 20.03.2003) Ley sobre Impuesto a la Renta � Arts. 31 N� 9 y 41 de la LIR y Art. 24 D.L. N� 3.063/79 Word Competencia del Servicio respecto de la determinaci�n del Capital Propio para los efectos de las patentes municipales. (Ord. N� 906, de 13.03.2003) Ley sobre Impuesto a la Renta � Art. 42 ter LIR y Ley N� 19.768 Word Tributaci�n de los excedentes de libre disposici�n efectuados con cargo a cotizaciones obligatorias. (Ord. N� 905, de 13.03.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 17 LIR…
+Word Tributaci�n de los excedentes de libre disposici�n efectuados con cargo a cotizaciones obligatorias. (Ord. N� 905, de 13.03.2003)
 
 ## Referencias detectadas
 

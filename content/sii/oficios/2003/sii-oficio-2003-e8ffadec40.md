@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-02
+- Fecha: 2003-06-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja514b.htm
 - Hash SHA-256: 985a439d2aab8acb510639bd5555795672dcbbec604bc8d5a59ee6a9e82df933
 
 ## Resumen
 
-� 3262, de 04.07.2003) Ley de Impuesto a la Renta. Art�culos 22 N� 5 y 26 bis. Informa sobre consultas relacionadas con los Pescadores Artesanales respecto del Programa Pro-empleo Bonificaci�n para el Aprendizaje. ( Ord N� 3234, de 02 de Julio del 2003) Ley sobre Impuesto a la Renta - Art. 31� N� 3 y 90 Word Suspensi�n de pagos provisionales mensuales por p�rdidas obtenidas en un a�o comercial. (Ord. N� 3163, de 26.06.2003) Ley sobre Impuesto a la Renta � Art. 41 D N� 3� Word Aplicabilidad del concepto �moneda ext…
+Ley sobre Impuesto a la Renta - Art. 31� N� 3 y 90
 
 ## Referencias detectadas
 

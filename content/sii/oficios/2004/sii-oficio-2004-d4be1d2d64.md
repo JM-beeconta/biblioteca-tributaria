@@ -11,7 +11,7 @@
 
 ## Resumen
 
-roceso de Divisi�n de Sociedad de Responsabilidad Limitada. (Ord. N� 1.482, de 29.03.2004 Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n de Impuesto de Timbres y Estampillas respecto de documentos que autorice u ordene el Ministerio P�blico. ( Oficio N� 1119 de 04 de Marzo de 2004) Normas Internacionales � Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27� � Convenci�n de Viena sobre Derecho de los Trat…
+rzo de 2004) Normas Internacionales � Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27� � Convenci�n de Viena sobre Derecho de los Tratados, Art. 24�, p�rrafo 1� � C�digo Civil, Art. 7� � C�digo Tributario, Art. 3�.
 
 ## Referencias detectadas
 

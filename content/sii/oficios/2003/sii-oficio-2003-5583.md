@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5583
 - Año: 2003
-- Fecha: 2003-11-20
+- Fecha: 2003-11-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja602.doc
 - Hash SHA-256: 49fe60dd495284efd244bcf50aca9549ebe9bf48cd943dd7d527404fca1b551a
 
 ## Resumen
 
-/font> Ley de Impuesto a las Ventas y Servicios. Oficio N� 5698 de 20 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a diversos servicios de intermediaci�n en la obtenci�n de cr�ditos o celebraci�n de contratos de seguros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5583 de 12 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de provisi�n de personal. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5496 de 06 de Noviembre de 2003.- Word Aclarac…
+Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de provisi�n de personal.
 
 ## Referencias detectadas
 

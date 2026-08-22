@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-26
+- Fecha: 2001-03-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja172.doc
 - Hash SHA-256: 6986a39f75f280b4a03143b7df3b4a2d41b4a8c1e7e1ba9c41d4ea5b3bb658dc
 
 ## Resumen
 
-o las P�rdidas Sufridas en las Operaciones de Compra y Venta de Productos Encomendadas a Empresa Extranjera a Trav�s de Un Mandato a Nombre Propio o Sin Representaci�n y Efectuadas con el Prop�sito de Estabilizar los Precios de los Mismos Productos a Nivel Mundial. (Of. N� 831, de 26.02.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 6�, Art. 14�, Art. 20� N�3�, Art. 29� al 33�, Art. 41�, Art. 65� N� 1�, Art. 68�, Art. 69� N� 1�- Circulares N� 60, de 1990 y N� 40, de 1991. Word Tributaci�n que Af…
+Word Tributaci�n que Afecta a las Comunidades. (Of. N� 926, de 05.03.2001 � I. Directos)
 
 ## Referencias detectadas
 

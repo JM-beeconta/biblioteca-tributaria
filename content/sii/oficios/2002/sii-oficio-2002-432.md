@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 432
 - Año: 2002
-- Fecha: 2002-02-21
+- Fecha: 2002-01-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja246.doc
 - Hash SHA-256: 45d71af73f3f35e4d89833c800c124e26b0de975a684ff91e3fdcb21cb205e09
 
 ## Resumen
 
-e la emisi�n de notas de cr�dito. Ley de Impuesto a las Ventas y Servicios. Oficio N� 664, de 21 de febrero de 2002.- Word Impuesto al valor Agregado en la confecci�n de un Mosaico ortofotogram�trico infrarojo digital. Ley de Impuesto a las Ventas y Servicios. Oficio N� 432 de 31 de Enero de 2002. Word Consulta sobre el derecho a cr�dito fiscal que asistir�a a beneficiarios de Subsidios de Riego Campesino de INDAP, en distintas situaciones. Ley de Impuesto a las Ventas y Servicios. Ofcio N� 336 de 28 de Enero de 2…
+Word Consulta sobre el derecho a cr�dito fiscal que asistir�a a beneficiarios de Subsidios de Riego Campesino de INDAP, en distintas situaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.518, Art. 30�, Art. 36� � Word Condiciones que deben cumplirse para que las empresas puedan invocar el Cr�dito Sence, respecto de la Capacitaci�n impartida a los Propietarios o socios de las Empresas, de acuerdo a las normas de la Ley N�19.518,de 1997. (Oficio N� 5.424, de 27.12.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, incisos 3 y 4, Art. 47�, N� 4, Art. 65�, Art. 69� � Decreto Ley N� 600, de 1974, Art. 6�. Word Situaci�n Tributaria de la Enajen…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�, incisos 3 y 4, Art. 47�, N� 4, Art. 65�, Art. 69� � Decreto Ley N� 600, de 1974, Art. 6�.
 
 ## Referencias detectadas
 

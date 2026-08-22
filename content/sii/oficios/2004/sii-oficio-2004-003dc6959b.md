@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Circular N� 26, de 1987. (Ord. N� 5.187, de 01.12.2004) Word Aplicaci�n del Cr�dito Especial establecido en el Art�culo 21�, del D.L. N� 910, de 1975, a Construcci�n de un Colector de Alcantarillado Particular y de una Planta de Tratamiento de Aguas Servidas de un Regimiento Militar. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 5. (Ord. N� 5.186, de 01.12.2004) Word Impuesto al Valor Agregado que Afecta a Servicio de Incineraci�n. Venta…
+Word Impuesto al Valor Agregado que Afecta a Servicio de Incineraci�n.
 
 ## Referencias detectadas
 

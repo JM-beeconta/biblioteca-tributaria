@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2 y 4, 78� y 79� � Res. Ex. N� 2.154, de 1991 Word Contribuyentes obligados a llevar el Libro del Fondo de Utilidades Tributables. (Ord. N� 1.954, de 28.04.2004) Renta � Actual Ley Sobre Impuesto a la � D.F.L. N� 1, del Ministerio de Defensa, de 1997, Art. 189� � D.F.L. N� 1, de Guerra, de 1968, Arts. 115� y 118� � Oficios N�s 3.219, de 1982, 408, de 1997 y 2.244, de 1971. Word Situaci�n tributaria de las Gratificaciones a que se refiere el art�culo 189� del Estatuto del personal de las Fuerzas Armadas. (Ord. N� 1…
+Word Situaci�n tributaria de las Gratificaciones a que se refiere el art�culo 189� del Estatuto del personal de las Fuerzas Armadas. (Ord. N� 1.903, de 23.04.2004)
 
 ## Referencias detectadas
 

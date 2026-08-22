@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-20
+- Fecha: 2003-02-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja447.htm
 - Hash SHA-256: 82794362ec7c88cf3d904bd7fca0a675255740c1de8de209f9b38959076a7dc1
 
 ## Resumen
 
-a licitaci�n de una planta faenadora de carne. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1018 de 20 de Marzo de 2003. Word Informe sobre la recuperaci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte terrestre internacional de carga. Ley de Impuesto a las Ventas y Servicios. Oficio N� 619 de 24 de Febrero de 2003. Word Solicitud de reconsideraci�n del Oficio Ord. N� 3.365 del 12 de Septiembre del 2002. Ley de Impuesto a las Ventas y Servicios. Of…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 619 de 24 de Febrero de 2003.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-17
+- Fecha: 2002-06-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja303.htm
 - Hash SHA-256: b68780c7b320bb9b7947d6d5916920a78600844a65e9a1285606325e55e4e9d3
 
 ## Resumen
 
-enta antes que se verifique la adquisici�n de un bien ra�z, en caso de promesas de compraventas destinadas a la adquisici�n de viviendas con cr�ditos con garant�a hipotecaria. (Ord. N� 1884, de 17.06.2002) Ley sobre Impuesto a la Renta � Ley N� 19.234 Word Tributaci�n de pensi�n no contributiva de sobrevivencia otorgada por la Ley N� 19.234. (Ord. N� 1799, de 10.06.2002) Ley sobre Impuesto a la Renta � Suplemento 6(18)-1, Complemento 6 Word Forma de determinar la utilidad l�quida y el capital propio invertido en l…
+10.06.2002) Ley sobre Impuesto a la Renta � Suplemento 6(18)-1, Complemento 6
 
 ## Referencias detectadas
 

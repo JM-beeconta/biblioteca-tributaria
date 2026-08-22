@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 826
 - Año: 2004
-- Fecha: 2004-02-17
+- Fecha: 2004-02-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja657.doc
 - Hash SHA-256: c81ce4fb6f8ead565cee44cf879dcda6a009ba594e652e48f2c828933103512c
 
 ## Resumen
 
-anterioridad al aumento de la tasa de ese tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 933 de 17 de Febrero de 2004.- Word Impuesto al Valor Agregado en la importaci�n de dispositivo para implante coclear. Ley de Impuesto a las Ventas y Servicios. Oficio N� 826 de 12 de Febrero de 2004.- Word C�lculo de la proporcionalidad establecida en el art�culo 43 del Reglamento del D.L. N� 825, de 1974, para determinar el cr�dito fiscal del per�odo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 755 de 1…
+Word C�lculo de la proporcionalidad establecida en el art�culo 43 del Reglamento del D.L. N� 825, de 1974, para determinar el cr�dito fiscal del per�odo.
 
 ## Referencias detectadas
 

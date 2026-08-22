@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-20
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja173.htm
 - Hash SHA-256: 7252c18557950fc46b87183d7aefc8d43fcf0b59bc239dfe20550c3d3ceb67a7
 
 ## Resumen
 
-resentar una Declaraci�n de Impuesto Global Complementario, en Caso Indicado. (Of. N� 1196, de 20.03.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 29� al 33� � Art. 16� del Codigo Tributario. Word Ajustes al Resultado Contable para los Fines de la Determinaci�n del Resultado Tributario. (Of. N� 987, de 13.03.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 30�, Art. 31� � Codigo Civil, Art. 1448�, Art. 2151�. Word Improcedencia de Deducir Como Gasto las P�rdidas Sufr…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 30�, Art. 31� � Codigo Civil, Art. 1448�, Art. 2151�.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 3 y 90 LIR Word Suspensi�n de Pagos Provisionales Mensuales en caso que se indica. (Ord. N� 1116, de 04.03.2004) Ley sobre Impuesto a la Renta � Ley N� 19.420, de 1998 Word Beneficio tributario establecido en la Ley N� 19.420 de 1995. (Ord. N� 1115, de 04.03.2004) Ley sobre Impuesto a la Renta � Art. 40 N� 3 Word Tratamiento tributario de los ingresos que obtiene una caja de compensaci�n de asignaci�n familiar con motivo de la securitizaci�n de los cr�ditos de sus asociados. (Ord. N� 977, de 19.02.2004) Ley sob…
+04.03.2004) Ley sobre Impuesto a la Renta � Art. 40 N� 3
 
 ## Referencias detectadas
 

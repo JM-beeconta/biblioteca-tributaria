@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-14
+- Fecha: 2003-11-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja605.doc
 - Hash SHA-256: c1c60fd63570a64ff6b422c5bb676826406c7ee1f1860d3a82c59bedcd237b47
 
 ## Resumen
 
-s pagadas a t�tulo de patentes mineras. (Ord. N� 5612, de 14.11.2003) Ley sobre Impuesto a la Renta � Art. 63 N� 3 Ley N� 19.712 Word Alcance de la expresi�n �v�nculos patrimoniales� que utiliza en el N� 3 del art�culo 63 de la Ley N� 19.712, sobre Ley del Deporte. (Ord. N� 5611, de 14.11.2003) Ley sobre Impuesto a la Renta � Arts. 21 y 33 N� 1 LIR Word Tratamiento tributario de la entrega de canastas y regalos de Navidad por las empresas en favor de sus empleados. (Ord. N� 5556, de 10.11.2003) Ley sobre Impuesto…
+Word Tratamiento tributario de la entrega de canastas y regalos de Navidad por las empresas en favor de sus empleados. (Ord. N� 5556, de 10.11.2003)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-31
+- Fecha: 2002-05-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja294.doc
 - Hash SHA-256: c061ad8a7bdcfb7cf71b2e103c227a129d15b6f1121ea12c88e006ddfa9e8b39
 
 ## Resumen
 
-la capacitaci�n impartida a sus propietarios socios. (Ord. N� 1705, de 31.05.2002) Ley sobre Impuesto a la Renta � arts. 42 N� 1 y 54 N�3 Word Tributaci�n de pensi�n no contributiva de sobrevivencia otorgada por la Ley N� 19.234. (Ord. N� 1694, de 29.05.2002) Ley sobre Impuesto a la Renta � arts. 17 N� 8 letra b), 60, 65, 69 y 74 N�4 Word Tributaci�n que afecta a enajenaci�n de un bien ra�z agr�cola perteneciente a sociedad extranjera que tiene como giro la compraventa de bienes ra�ces. (Ord. N� 1693, de 29.05.200…
+Word Tributaci�n que afecta a enajenaci�n de un bien ra�z agr�cola perteneciente a sociedad extranjera que tiene como giro la compraventa de bienes ra�ces. (Ord. N� 1693, de 29.05.2002)
 
 ## Referencias detectadas
 

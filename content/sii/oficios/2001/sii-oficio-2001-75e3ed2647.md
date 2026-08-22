@@ -11,7 +11,7 @@
 
 ## Resumen
 
-) Word Situaci�n tributaria de bonificaci�n para el aprendizaje y capacitaci�n otorgada a empresas que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1 � Circular N� 41, de 1999. (Ord. N� 3433, de 17.08.2001) Word Tipos de gastos que comprende una beca de estudio. Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 5� � Circular N� 66, de 1999. (Ord. N� 3432, de 17.08.2001) Word Determinaci�n del monto de la cauci�n que establece el art�culo 5� de la Ley N� 19.606, de 1999…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 5� � Circular N� 66, de 1999. (Ord. N� 3432, de 17.08.2001)
 
 ## Referencias detectadas
 

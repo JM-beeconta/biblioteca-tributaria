@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4490
 - Año: 2003
-- Fecha: 2003-10-10
+- Fecha: 2003-09-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja558.doc
 - Hash SHA-256: b0851ae722231f2b4d6d7565ffdc0ede8b14a90efffc1c927bf473c07affbfc8
 
 ## Resumen
 
-Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 24, N�17, del D. L. N�3.475, de 1980.- ( Oficio N� 5197 de 10 de Octubre de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402, respecto de cr�ditos de enlace. ( Oficio N� 4490 de 11 de Septiembre de 2003). Ley sobre Impuesto Territorial - Ley N� 17.235 - Art. 27 � L…
+Word Devoluci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402, respecto de cr�ditos de enlace. ( Oficio N� 4490 de 11 de Septiembre de 2003).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cesario para producir la renta de los desembolsos que indica en su presentaci�n. (Ord. N� 1118, de 04.03.2004) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Requisitos para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1117, de 04.03.2004) Ley sobre Impuesto a la Renta � Arts. 31 N� 3 y 90 LIR Word Suspensi�n de Pagos Provisionales Mensuales en caso que se indica. (Ord. N� 1116, de 04.03.2004) Ley sobre Impuesto a la Renta � Ley N� 19.420, de 1998 Word Beneficio tributa…
+Ley sobre Impuesto a la Renta � Arts. 31 N� 3 y 90 LIR
 
 ## Referencias detectadas
 

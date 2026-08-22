@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-20
+- Fecha: 2002-08-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja327.htm
 - Hash SHA-256: c831c0a72c980f15100950367487eadd3e303cdcdd1ae729b3faad720d548c89
 
 ## Resumen
 
-das en Circular N� 158, de 1976. (Ord. N� 2967, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 17 N� 2 D.L. N� 824, de 1974 y Art. 54 D.S. N� 502, de 1978 Word Situaci�n tributaria frente al impuesto a la renta del aporte de bienes del activo fijo de una cooperativa a una sociedad an�nima de la cual es accionista. (Ord. N� 2872, de 09.08.2002) Ley sobre Impuesto a la Renta � Art. 18 quater LIR y art.17 D.L. N� 1.328, de 1976 Word Valoraci�n de las cuotas de fondos mutuos para los efectos de su rescate. (Ord.…
+09.08.2002) Ley sobre Impuesto a la Renta � Art. 18 quater LIR y art.17 D.L. N� 1.328, de 1976
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-18
+- Fecha: 2003-08-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja531.htm
 - Hash SHA-256: 36b4a619e2af750b8e6bb9ebe84161a4c077ad714491ad14d7890d8ac72901a1
 
 ## Resumen
 
-a/ja540.doc">Word Efectos que produce la permuta de derechos sociales en el caso que se indica. (Ord. N� 4011, de 18.08.2003) Ley sobre Impuesto a la Renta � Arts. 18 ter, 42 bis y 42 ter de la LIR y D.L. N� 1328, de 1976 y Ley N� 19.768, de 2001 Word Situaci�n tributaria de part�cipes de fondos mutuos en caso que se indica. (Ord. N� 3928, de 11.08.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 42, N� 2 inciso 3� de la LIR y Art. 36 Ley N� 19.518 Word Franquicia tributaria por gastos de capacitaci�n en el c…
+11.08.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 42, N� 2 inciso 3� de la LIR y Art. 36 Ley N� 19.518
 
 ## Referencias detectadas
 

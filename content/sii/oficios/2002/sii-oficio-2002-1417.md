@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1417
 - Año: 2002
-- Fecha: 2002-05-29
+- Fecha: 2002-05-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja282.doc
 - Hash SHA-256: 086ffa6048dddeb8cb5ad3dde21fdabddba6f7967d176e3e7631be58338bce61
 
 ## Resumen
 
-ulo 0 del Arancel Aduanero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1692 de 29 de Mayo de 2002. Word Impuesto al Valor Agregado respecto de las comisiones que el D.L. N� 3.500, de 1980, faculta a cobrar a las A.F.P. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1417 de 02 de Mayo de 2002. Word Recuperaci�n del IVA exportador soportado por una empresa minera en la adquisici�n de bienes o utilizaci�n de servicios relacionados con actividades destinadas al cierre de faenas mineras. Ley de Impuesto a…
+Word Recuperaci�n del IVA exportador soportado por una empresa minera en la adquisici�n de bienes o utilizaci�n de servicios relacionados con actividades destinadas al cierre de faenas mineras.
 
 ## Referencias detectadas
 

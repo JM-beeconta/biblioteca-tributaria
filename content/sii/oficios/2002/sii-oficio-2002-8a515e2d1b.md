@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-04
+- Fecha: 2002-05-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja297.doc
 - Hash SHA-256: b075b7ca21d959dea89a898de17828b4fddbf424dc7ae6ed37ff02ae49780d21
 
 ## Resumen
 
-dinero efectuado por una sociedad de responsabilidad limitada a favor de un hijo de sus socios. (Ord. N� 1731, de 04.06.2002) Ley sobre Impuesto a la Renta � Ley N� 19.123 Word Situaci�n tributaria de pensiones de reparaci�n a que se refiere la Ley N� 19.123. (Ord. N� 1707, de 31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respecto de la capacitaci�n impartida a sus propietarios o socios y trabajadores suj…
+Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respecto de la capacitaci�n impartida a sus propietarios o socios y trabajadores sujetos a precontratos laborales. (Ord. N� 1706, de 31.05.2002)
 
 ## Referencias detectadas
 

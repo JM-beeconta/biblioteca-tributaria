@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3566
 - Año: 2002
-- Fecha: 2002-10-08
+- Fecha: 2002-10-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja371.doc
 - Hash SHA-256: 3629790817acccd446f181873dcd26fdb8ad698be1926a952a9a3bd334b58491
 
 ## Resumen
 
-FY'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3616, de 8 de Octubre de 2002.- Word Absuelve consultas sobre tributaci�n frente al Impuesto al Valor Agregado e Impuesto a la Renta de una Organizaci�n No Gubernamental constituida seg�n las normas del T�tulo XXXIII del Libro I del C�digo Civil. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3566 de 4 de Octubre de 2002. Word Solicita aclaraci�n de Ord. N� 3030, de 23-8-02.- Ley de Impuesto a las Ventas y Servicios. Oficio N� 3565 de 4 de Octubre de 20…
+Word Solicita aclaraci�n de Ord. N� 3030, de 23-8-02.-
 
 ## Referencias detectadas
 

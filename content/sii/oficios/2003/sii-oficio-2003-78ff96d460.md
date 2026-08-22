@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-02
+- Fecha: 2003-04-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja485.doc
 - Hash SHA-256: 0510d0d797f59f0e23c6f6ecb01ee84c8cd28b20faad3bc07c092158f8288a34
 
 ## Resumen
 
-align="JUSTIFY"> Ley sobre Impuesto a la Renta � Arts. 20 N� 4 y 84 y Ley N� 19.518 Word Tributaci�n que afecta a los Colegios administrados por Corporaciones de Derecho Privado. (Ord. N� 2293, de 02.05.2003) Ley sobre Impuesto a la Renta � Arts. 14 bis, 20 N� 3 y 21 de la LIR, Art. 28 C�digo Tributario, Art. 507 y sgtes. del C�digo de Comercio y Art. 1610 C�digo Civil Word Tributaci�n que afecta a Contrato de Asociaci�n o Cuentas en Participaci�n y pago por subrogaci�n seg�n la causal N� 5 del art�culo 1.610 del…
+Word Tributaci�n que afecta a Contrato de Asociaci�n o Cuentas en Participaci�n y pago por subrogaci�n seg�n la causal N� 5 del art�culo 1.610 del C�digo Civil. (Ord. N� 2278, de 29.04.2003)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3064
 - Año: 2002
-- Fecha: 2002-08-28
+- Fecha: 2002-08-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja346.doc
 - Hash SHA-256: b6b84a000e1da1f85f68314803192876441e71c50407f9b56dcfde8484c82260
 
 ## Resumen
 
-posteriormente es vendido all� a empresas navieras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3072 de 28 de Agosto de 2002. Word Tributaci�n de las Donaciones que se efect�an a las Instituciones de Discapacitados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3064 de 27 de Agosto de 2002. Word Pago del IVA en forma diferida, en importaci�n de un veh�culo para persona lisiada. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3031 de 26 de Agosto de 2002. Word Consulta referida a la interpretaci�n…
+Word Pago del IVA en forma diferida, en importaci�n de un veh�culo para persona lisiada.
 
 ## Referencias detectadas
 

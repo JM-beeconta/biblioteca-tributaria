@@ -11,7 +11,7 @@
 
 ## Resumen
 
-responsabilidad limitada. (Ord. N� 2985, de 22.08.2002) Ley sobre Impuesto a la Renta � Art. 33 bis Word Forma de imputar el remanente de cr�dito a que se refiere el art�culo 33 bis de la Ley de la Renta a los ejercicios siguientes. (Ord. N� 2984, de 22.08.2002) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 letra e) y 42 N� 2 Word Documento que debe emitirse para acreditar operaci�n que se indica. (Ord. N� 2983, de 22.08.2002) Ley sobre Impuesto a la Renta � Art. 55 bis LIR y Art. 3� transitorio Ley N� 19.753, de…
+Word Documento que debe emitirse para acreditar operaci�n que se indica. (Ord. N� 2983, de 22.08.2002)
 
 ## Referencias detectadas
 

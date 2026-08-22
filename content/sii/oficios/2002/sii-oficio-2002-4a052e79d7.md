@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-22
+- Fecha: 2002-08-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja329.htm
 - Hash SHA-256: 68059d51939b777d3bccedae166185952eb11f43805caefdb7e475ab25a9878b
 
 ## Resumen
 
-ntas y Servicios. Oficio N� 2977 de 22 de Agosto de 2002. Word IVA en el dise�o y construcci�n de p�ginas Web. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2966, de 20 de Agosto de 2002. Word No procede el reembolso del IVA, pagado en atenci�n hospitalaria, por un ciudadano extranjero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2965 de 20 de Agosto de 2002. Word Pide se declare que se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�,…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2965 de 20 de Agosto de 2002.
 
 ## Referencias detectadas
 

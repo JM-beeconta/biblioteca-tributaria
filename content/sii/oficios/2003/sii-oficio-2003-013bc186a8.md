@@ -11,7 +11,7 @@
 
 ## Resumen
 
-damiento de inmuebles amoblados en que se suscribe un contrato de arrendamiento por el inmueble y otro por los muebles. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3261 de 04 de Julio de 2003. Word Impuesto al Valor Agregado en contrato de venta de un sistema de transmisi�n de energ�a el�ctrica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3260 de 04 de Julio de 2003.- Word Impuesto al Valor Agregado que afectar�a a licitaci�n de una planta faenadora de carne. Ley de Impuesto a las Ventas y Servicio…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3260 de 04 de Julio de 2003.-
 
 ## Referencias detectadas
 

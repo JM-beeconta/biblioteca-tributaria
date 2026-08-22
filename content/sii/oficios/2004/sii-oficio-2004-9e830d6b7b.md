@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-09
+- Fecha: 2004-10-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja832.htm
 - Hash SHA-256: 06ef46e391e3cc90bb6dd107e3b5399a867d0e51602aa9a58b5f9380abafbe5c
 
 ## Resumen
 
-nt face='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, Art. 27� bis � C�digo Tributario, Art. 64�. (Ord. N� 4.913, de 09.11.2004) Word Solicita se se�ale si el IVA soportado en la Construcci�n e Implementaci�n de la Nueva Planta de Tratamiento de Agua, puede ser Recuperado conforme dispone el Art�culo 27� bis del D.L. N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7 � Regl…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7 � Reglamento D.L. N� 825, de 1974, Art. 73� � Circular N� 126, de 1977. (Ord. N� 4.845 de 28.10.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-05-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja203.doc
 - Hash SHA-256: b1013c936805331b112317260c81f03f3f98d090ab6d657e298376c20a8d8b1a
 
 ## Resumen
 
-Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 12� Letra E) N�2� - Ley de la Renta, Art. 20 N� 3� - Codigo de Comercio, Art. 930� y 965�. Word IVA en Fletamentos y Subfletamentos de Naves que Realizan Transporte de Carga Internacional. (Of. N� 2132, de 17.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 12�, Letra E), N� 12� - Ley de la Renta, Art. 20 N� 3� y N� 4�. Word IVA que Grava a Servicios Prestados por Familias Campesinas Orientado a D…
+Word IVA que Grava a Servicios Prestados por Familias Campesinas Orientado a Desarrollar el Turismo Rural. (Of. N� 1992, de 11.05.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

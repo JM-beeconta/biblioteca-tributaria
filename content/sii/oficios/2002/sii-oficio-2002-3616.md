@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3616
 - Año: 2002
-- Fecha: 2002-10-11
+- Fecha: 2002-10-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja372.doc
 - Hash SHA-256: 96c59a2954efc82ec23014aa584a23f7a6ac299b6391614a95c8c1a8d0de366d
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 3658 de 11 de Octubre de 2002. Word IVA en el servicio de recolecci�n y tratamiento de aguas servidas prestado por una Municipalidad y forma de cobro de tales servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3616, de 8 de Octubre de 2002.- Word Absuelve consultas sobre tributaci�n frente al Impuesto al Valor Agregado e Impuesto a la Renta de una Organizaci�n No Gubernamental constituida seg�n las normas del T�tulo XXXIII del Libro I del C�digo Civil…
+Word Absuelve consultas sobre tributaci�n frente al Impuesto al Valor Agregado e Impuesto a la Renta de una Organizaci�n No Gubernamental constituida seg�n las normas del T�tulo XXXIII del Libro I del C�digo Civil.
 
 ## Referencias detectadas
 

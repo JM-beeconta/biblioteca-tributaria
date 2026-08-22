@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-06
+- Fecha: 2001-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja1193.htm
 - Hash SHA-256: e77e9bb51f739eb081b0c18ef7ab512676d9de3d0002b8fce1c04379ff1be66e
 
 ## Resumen
 
-1941.doc'>Word IVA en contrato de prestaci�n de servicios de acceso a bases de datos en l�nea. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 46� � Circular 14, de 2000. (Ord. N� 1547, de 06.04.2001) Word Gravamen que afecta a enajenaci�n de veh�culos ingresados al pa�s en misi�n diplom�tica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, N�3, Art. 57�. (Ord. N� 1193, de 20.03.2001) Word Documentaci�n a emitir, en el evento de menor valor…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, N�3, Art. 57�. (Ord. N� 1193, de 20.03.2001)
 
 ## Referencias detectadas
 

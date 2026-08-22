@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-08
+- Fecha: 2002-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja283.htm
 - Hash SHA-256: 710405a317e86e81ee42218088bbab26dd4889407278ec6c501db17a7dd56b05
 
 ## Resumen
 
-> Word Tributaci�n de pensi�n mensual de reparaci�n que establece el art�culo 17� de la Ley N� 19.123. (Ord. N� 1470, de 08.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Improcedencia de acogerse al beneficio establecido en el art�culo 55 bis de la Ley de la Renta por las razones que se indican. (Ord. N� 1436, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 33 Ley N� 19.518 Word Procedencia de cr�dito por gastos de capacitaci�n contenido en la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo,…
+03.05.2002) Ley sobre Impuesto a la Renta � art. 33 Ley N� 19.518
 
 ## Referencias detectadas
 

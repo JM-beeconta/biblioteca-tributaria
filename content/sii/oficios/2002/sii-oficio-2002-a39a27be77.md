@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Ord. N� 3477, de 27.09.2002) Ley sobre Impuesto a la Renta � Art. 55 bis y Art. 3� transitorio Ley N� 19.753, de 2001 Word Plazo para la presentaci�n de Declaraci�n Jurada Simple a que se refiere el art�culo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 3400, de 16.09.2002) Ley sobre Impuesto a la Renta � Art. 57 bis Letra A) Word Situaci�n tributaria de inversiones efectuadas en conformidad a la letra A) del actual art�culo 57 bis de la Ley de la Renta, en caso del fallecimiento del inversionista. (Ord.…
+Word Situaci�n tributaria de inversiones efectuadas en conformidad a la letra A) del actual art�culo 57 bis de la Ley de la Renta, en caso del fallecimiento del inversionista. (Ord. N� 3399, de 16.09.2002)
 
 ## Referencias detectadas
 

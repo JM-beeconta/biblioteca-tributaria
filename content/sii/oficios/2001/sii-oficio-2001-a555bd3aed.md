@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-05-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja194.doc
 - Hash SHA-256: 7d61cce70cd713e80d21328d5206a7c69b65695ab5c19e65cc881669c4c91ca7
 
 ## Resumen
 
-'arial' size='2'> Renta � Actual Ley Sobre Impuesto a la - Art. 17�, N�8� y 13�, Art. 18�, Art. 57� Bis � Codigo del Trabajo, Art. 178� - Ley N� 19.578, Art. 2� Transitorio. Word Situaci�n Tributaria en Un Caso de Enajenaci�n de Acciones. (Of. N� 2122, de 17.05.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 14�- Resolucion Ex. N� 2.154, de 1991 � Of. N� 2.567, del 2000 y Of. N� 4.355, de 1985. Word Se Absuelve Consultas Relativas a Diferencias Entre Precio de Adquisici�n de Derechos Sociales y e…
+Word Se Absuelve Consultas Relativas a Diferencias Entre Precio de Adquisici�n de Derechos Sociales y el Valor de Libros de los Activos y Pasivos de Sociedad Absorbida por Fusi�n Impropia. (Of. N� 1849, de 02.05.2001- I. Directos)
 
 ## Referencias detectadas
 

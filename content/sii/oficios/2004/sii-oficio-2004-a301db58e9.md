@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-28
+- Fecha: 2004-08-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja834.htm
 - Hash SHA-256: e7403782be5b255ed775a543a51149f98bb92b5afb3fd4693127120812e89429
 
 ## Resumen
 
-/font> Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra b), Art. 58�, N�1, Art. 56�, N� 3, Art. 63 � Oficio N� 2.616, de 1998. Word Situaci�n tributaria de los Excesos de Retiro en el caso de una Sociedad, de acuerdo a lo dispuesto por el Art�culo 14�, de la Ley de la Renta. (Ord. N� 4.843, de 28.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2, Art.20�, letra c) � D.L. N� 825, de 1974, Art. 8�, letra h) � Circular N� 21, de 1991 � Res. Exenta N� 83, de 30.08.2004 Word Tribu…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2, Art.20�, letra c) � D.L. N� 825, de 1974, Art. 8�, letra h) � Circular N� 21, de 1991 � Res. Exenta N� 83, de 30.08.2004
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4667
 - Año: 2002
-- Fecha: 2002-12-17
+- Fecha: 2002-12-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja413.doc
 - Hash SHA-256: 7b5816f4df54bdd459787d81ce54800400935605ff928eff46592aa7f9646222
 
 ## Resumen
 
-dica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4690 de 17 de Diciembre de 2002. Word Aplicaci�n del art�culo 27 bis, del D.L. N� 825, a los servicios de desbrote en la formaci�n de vides destinadas a la producci�n de vino. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4667 de 13-12-2002. Word Interpretaci�n de la disposici�n contenida en la letra e) del art�culo 10 bis del D.F.L. N� 341, de 1977. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4666 de 13 de Diciembre de 2002. Word Determinaci�…
+Word Interpretaci�n de la disposici�n contenida en la letra e) del art�culo 10 bis del D.F.L. N� 341, de 1977.
 
 ## Referencias detectadas
 

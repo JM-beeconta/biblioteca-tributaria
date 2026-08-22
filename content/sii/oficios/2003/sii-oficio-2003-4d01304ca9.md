@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-23
+- Fecha: 2003-11-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja5699.htm
 - Hash SHA-256: a7a738678ae83f982fab6870ce0d861a35030cbbb052af83862183a7f449ffc3
 
 ## Resumen
 
-t> A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 2003 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ley de Impuesto a las Ventas y Servicios � Nuevo Texto � Oficio N� 4155, de 1999. (Ord. N� 5699, de 20-11-2003) Word Administraci�n de Edificios. Solicita reconsideraci�n de Oficio que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6606 de 23 de Diciembre de 2003. Word Procedencia de emitir nota de d�b…
+Ley de Impuesto a las Ventas y Servicios � Nuevo Texto � Oficio N� 4155, de 1999. (Ord. N� 5699, de 20-11-2003)
 
 ## Referencias detectadas
 

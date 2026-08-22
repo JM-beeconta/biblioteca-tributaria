@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os. Oficio N� 296 de 20 de Enero de 2004.- Word Consulta si procede aumentar, a ra�z del alza de tasa del impuesto al valor agregado, la facturaci�n de los contratos vigentes de �Transporte y Recolecci�n de Residuos S�lidos Domiciliarios� y �Servicio de Mantenci�n de Areas Verdes de la Comuna de XX�, pactados con anterioridad al alza de tasa del referido tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 295 de 20 de Enero de 2004 Word Adquisici�n de veh�culos por parte de organizaciones con liberalidade…
+Word Adquisici�n de veh�culos por parte de organizaciones con liberalidades, para ser utilizados en Proyectos de los que no forman parte.
 
 ## Referencias detectadas
 

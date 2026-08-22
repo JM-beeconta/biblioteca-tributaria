@@ -11,7 +11,7 @@
 
 ## Resumen
 
-renta/ja506.doc">Word Informa sobre tratamiento tributario de empresas individuales de responsabilidad limitada. (Ord. N� 2621, de 02.06.2003) Ley sobre Impuesto a la Renta � Arts. 31 y 59 Word Impuesto Adicional que afecta a sociedad chilena que presta servicios de clasificaci�n de naves que recalen en costas chilenas y extranjeras. (Ord. N� 2620, de 02.06.2003) Ley sobre Impuesto a la Renta � Arts.38 bis y 54 N� 1 Word Reliquidaci�n de Impuesto Global Complementario en el caso de t�rmino de giro de una empresa.…
+02.06.2003) Ley sobre Impuesto a la Renta � Arts.38 bis y 54 N� 1
 
 ## Referencias detectadas
 

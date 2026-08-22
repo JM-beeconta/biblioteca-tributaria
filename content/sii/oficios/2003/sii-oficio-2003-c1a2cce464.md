@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-14
+- Fecha: 2003-10-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja567.htm
 - Hash SHA-256: 428feb1bf45edfe60f7dec173cb45f97ec6cd131c423ac293cd650f9600db2a1
 
 ## Resumen
 
-ciedad de personas. (Ord. N� 5221, de 14.10.2003) Ley sobre Impuesto a la Renta � Art. 41 D LIR Word Situaci�n tributaria de las sociedades plataforma de negocios a que se refiere el art�culo 41 D de la Ley sobre Impuesto a la Renta frente al tratado para evitar la doble tributaci�n internacional celebrado con la Rep�blica de Argentina. (Ord. N� 5029, de 02.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 letra b) e inciso 4� y 18 inciso 3� LIR Word Apreciaci�n de habitualidad respecto de enajenaci�n viviend…
+02.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 letra b) e inciso 4� y 18 inciso 3� LIR
 
 ## Referencias detectadas
 

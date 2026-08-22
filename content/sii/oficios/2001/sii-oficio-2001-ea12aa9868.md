@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-26
+- Fecha: 2001-10-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4259.doc
 - Hash SHA-256: 1bf2ab1ff7fcc0d036d70f69155ecb58d2184699255e589136c737fc1b08bc67
 
 ## Resumen
 
-entas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.518, de 1997, Art. 36� � Decreto Supremo N� 98, de 1998, del Ministerio del Trabajo y Previsi�n Social � Circular N� 19, de 1999. (Ord. N� 4275, de 26.10.2001 Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 20�, N�5. (Ord. N� 4259, de 25.10.2001) Word Impuesto al Valor Agregado que grava al servicio de certificaci�n de in…
+Word Impuesto al Valor Agregado que grava al servicio de certificaci�n de instalaciones de gas.
 
 ## Referencias detectadas
 

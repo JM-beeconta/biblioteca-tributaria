@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-29
+- Fecha: 2002-05-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja290.htm
 - Hash SHA-256: a6621362a526c11a7f521e5e7a1e4cb31484e75bfda1dd896f0e1f7295addfa2
 
 ## Resumen
 
-extranjera que tiene como giro la compraventa de bienes ra�ces. (Ord. N� 1693, de 29.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Improcedencia de acogerse a beneficio tributario establecido en el art�culo 55 bis de la Ley de la Renta en caso de novaci�n de obligaciones hipotecarias. (Ord. N� 1640, de 23.05.2002) Ley sobre Impuesto a la Renta � art. 69 Ley N� 18.681, de 1987 Word Situaci�n jur�dica de donaciones efectuadas a Universidad, en conformidad al art�culo 69 de la Ley N� 18.681, de 1987. (Ord…
+Ley sobre Impuesto a la Renta � art. 69 Ley N� 18.681, de 1987
 
 ## Referencias detectadas
 

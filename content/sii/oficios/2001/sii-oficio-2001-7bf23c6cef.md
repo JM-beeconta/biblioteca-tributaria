@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-11
+- Fecha: 2001-12-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja237.doc
 - Hash SHA-256: e46891f5bbaeb49a93fad6dae17b8c4b6bf2c752650a6527046016d905c94df7
 
 ## Resumen
 
-rial' size='2'> Actual Ley Sobre Impuesto a la Renta - Arts. 2� N� 3, 59 N� 1, 74 N� 4 Y 79 - Lir Word Procedencia del impuesto adicional establecido en el N� 1 del art�culo 59 de la Ley de la Renta, en caso en que opere la extinci�n de la obligaci�n por el modo denominado compensaci�n. (OF. N� 4843, de 11.12.2001) Actual Ley Sobre Impuesto a la Renta - Art. 17 N� 13 Lir, Art. 25 Ley N� 16.723, de 1967 y Ley N� 16.455 Word Situaci�n tributaria de indemnizaciones por a�os de servicios. (Of. N� 4816, de 10.12.2001)…
+Word Situaci�n tributaria de indemnizaciones por a�os de servicios. (Of. N� 4816, de 10.12.2001)
 
 ## Referencias detectadas
 

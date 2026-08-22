@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-16
+- Fecha: 2003-12-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6431.htm
 - Hash SHA-256: 53b123d3fa702f5119ad56a0a9ae3fa465fff1ea07fa6420cf277832d4988aec
 
 ## Resumen
 
-ts. 30 y 31 Word Situaci�n tributaria de cuotas sociales enteradas a asociaciones gremiales. (Ord. N� 6473, de 16.12.2003) Ley sobre Impuesto a la Renta � Art. 41 D Word Resuelve consultas relacionadas con la tributaci�n de las sociedades acogidas al art�culo 41 D de la Ley de la Renta. (Ord. N� 6432, de 15.12.2003) Ley sobre Impuesto a la Renta � Art. 14 de la LIR y Art. 94 Ley N� 18.046 Word Situaci�n que se presenta con motivo de la divisi�n de empresa del transporte que tributa en r�gimen de renta efectiva, es…
+15.12.2003) Ley sobre Impuesto a la Renta � Art. 14 de la LIR y Art. 94 Ley N� 18.046
 
 ## Referencias detectadas
 

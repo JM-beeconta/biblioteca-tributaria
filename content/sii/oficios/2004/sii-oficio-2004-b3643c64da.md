@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-20
+- Fecha: 2004-08-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja797.doc
 - Hash SHA-256: 0c83ae5f32049b26eececb08bf785255f971f9ad95c30f7ea9f0afaea6c864da
 
 ## Resumen
 
-e="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � 20�, N� 1 � D.S. N� 1.139, de 1990 � Circular N� 22, de 1991. Word Tributaci�n de Contribuyente propietario de predio Agr�cola que desarrolla actividad de Producci�n de Flores. (Ord. N� 3.972, de 20.08.2004) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Situaci�n Tributaria de Aporte de Acciones a otra Sociedad. (Ord. N� 3.927, de 19.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 18…
+Word Situaci�n Tributaria de Aporte de Acciones a otra Sociedad. (Ord. N� 3.927, de 19.08.2004)
 
 ## Referencias detectadas
 

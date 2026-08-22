@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-24
+- Fecha: 2003-02-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja442.htm
 - Hash SHA-256: 4162645df0221bcf46d23eb275a58d546b275ac2198dc1d0ec2ffa9e2943f23d
 
 ## Resumen
 
-en Chile. ( Oficio N� 1054, de 24 de Marzo de 2003). Decreto Ley N� 3.475, Impuesto de Timbres y Estampillas. Word Tasa de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de dinero destinados a la adquisici�n o construcci�n de viviendas. ( Oficio N� 650 de 26 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Vigencia temporal del impuesto de timbres y estampillas al descuento de letra de cambio. ( Oficio N� 564, de 14 de Febrero de 200…
+o de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

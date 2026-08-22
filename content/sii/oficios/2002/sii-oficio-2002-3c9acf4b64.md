@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ario de agua potable se encuentra suspendido por no pago. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3073 de 28 de Agosto de 2002. Word Recuperaci�n del impuesto espec�fico a los combustibles establecido por la Ley N� 19.030, cuando �ste es ingresado desde r�gimen general a Zona Franca y posteriormente es vendido all� a empresas navieras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3072 de 28 de Agosto de 2002. Word Tributaci�n de las Donaciones que se efect�an a las Instituciones de Discapacitado…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3072 de 28 de Agosto de 2002.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-06-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja218.doc
 - Hash SHA-256: 5267775da90a423e37bc7e29015e21b5830752f2e5bb6d52e6a8e7aebec12cc6
 
 ## Resumen
 
-las � Art. 2� N� 2�, Art. 8�, Art. 10�, Art. 53� - Ley de la Renta, Art. 20 N� 3� y N� 4� - Codigo de Comercio, Art. 3� N� 7�. Word Impuesto al Valor Agregado que Afecta a Servicios de Asesor�a y Gesti�n en la Operaci�n de Colocaci�n, Transferencia o Pr�stamo de Jugadores de F�tbol. (Of. N� 2477, de 06.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Ley de la Renta, Art. 20� N�4. Word Impuesto al Valor Agregado en Subsidios Entregados en Cumplimiento del Pro…
+Word Impuesto al Valor Agregado en Subsidios Entregados en Cumplimiento del Programa �Vacaciones Tercera Edad�. (Of. N� 2436, de 05.06.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

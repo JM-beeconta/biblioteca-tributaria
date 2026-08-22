@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l' size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3788 de 21 de Octubre de 2002. Word Se encuentra afecta al impuesto del art�culo 42, letra c) del D.L. N� 825, de 1974, la venta directa al p�blico de vino a granel y envasado, efectuada por una empresa cuyo giro es la Fabricaci�n de Vinos y Embotelladora de Alcoholes. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3787 de 21 de Octubre de 2002. Word Se encuentra afecta a IVA la convenci�n por la cual una persona concede a otra el uso de su ofic…
+Word Se encuentra afecta a IVA la convenci�n por la cual una persona concede a otra el uso de su oficina amoblada para �compartir� los gastos de su funcionamiento.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-20
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja239.doc
 - Hash SHA-256: 7c62a4b61b210fd27a840a91b8c15e846d61aefa903b13fa3477513d77b59d62
 
 ## Resumen
 
-n del seguro de cesant�a, establecido por Ley N� 19.728. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4975 de 20/12/2001 Word Aplicaci�n del IVA a las comisiones cobradas por una cooperativa de ahorro y prestamo a sus cooperados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4860 de 12-12-2001 Word Impuesto al valor agregado en arrendamiento de recinto deportivo equipado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4838 de 10-12-2001 Word IVA en prestaci�n remunerada de acceso v�a Internet, a…
+Word Impuesto al valor agregado en arrendamiento de recinto deportivo equipado.
 
 ## Referencias detectadas
 

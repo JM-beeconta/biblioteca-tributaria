@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5017
 - Año: 2003
-- Fecha: 2003-10-07
+- Fecha: 2003-10-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja572.doc
 - Hash SHA-256: 21dc01471492bd35efcedab5499c534e5fe50979972c18a3827cdcba6b3753ae
 
 ## Resumen
 
-arga distancia, prestados por empresas portadoras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5138 de 07 de Octubre de 2003.- Word Tasa aplicable al IVA en las importaciones. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5017 de 01 de Octubre de 2003.- Word Vigencia del impuesto establecido en el art�culo 43� bis, del D.L. N� 825, en especial la relacionada con la aplicaci�n de la tasa m�nima dispuesta en el inciso cuarto del mencionado art�culo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4…
+Word Vigencia del impuesto establecido en el art�culo 43� bis, del D.L. N� 825, en especial la relacionada con la aplicaci�n de la tasa m�nima dispuesta en el inciso cuarto del mencionado art�culo.
 
 ## Referencias detectadas
 

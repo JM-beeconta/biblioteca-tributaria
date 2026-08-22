@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-27
+- Fecha: 2003-05-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja492.doc
 - Hash SHA-256: dd2d9ba4b33536c48e49f9b61ca620cbcdba556ed0d72696f4b9ccbe24c46385
 
 ## Resumen
 
-e la Ley de la Renta. (Ord. N� 2549, de 27.05.2003) Ley sobre Impuesto a la Renta � Art. 59 de la LIR y Art. 10 D.L. 3.059, de 1979 Word Mantenci�n de exenci�n de impuesto adicional establecida en el art�culo 10 del D.L. N� 3.059, de 1979. (Ord. N� 2548, de 27.05.2003) Ley sobre Impuesto a la Renta � Arts. 47 y 48 C�digo del Trabajo Word Situaci�n tributaria de utilidades obtenidas en la enajenaci�n de un bien ra�z para los efectos de las gratificaciones legales. (Ord. N� 2430, de 12.05.2003) Ley sobre Impuesto a…
+Word Situaci�n tributaria de utilidades obtenidas en la enajenaci�n de un bien ra�z para los efectos de las gratificaciones legales. (Ord. N� 2430, de 12.05.2003)
 
 ## Referencias detectadas
 

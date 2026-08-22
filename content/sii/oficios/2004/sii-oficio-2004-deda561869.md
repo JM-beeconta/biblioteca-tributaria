@@ -11,7 +11,7 @@
 
 ## Resumen
 
-conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 41� D � Ley N� 18.046, Art. 87� � Circular N� 43, de 2003 Word Sociedades que se pueden acoger a las Normas del Art�culo 41� D, de la Ley de la Renta. (Oficio N� 5493 de 31.12.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 5� transitorio � Circulares N�s 63, de 1990, 19, de 1991 y 5, de 1996 Word Tributaci�n que afecta a enajenaci�n de Predio…
+31.12.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 5� transitorio � Circulares N�s 63, de 1990, 19, de 1991 y 5, de 1996
 
 ## Referencias detectadas
 

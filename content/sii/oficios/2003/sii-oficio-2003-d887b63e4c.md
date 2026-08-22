@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-30
+- Fecha: 2003-08-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja542.htm
 - Hash SHA-256: 384caa515234e62c6fff7be262ae7e26e4cf4bd9729c7964e1f2572096695a53
 
 ## Resumen
 
-N� 18.502, utilizado en camiones empleados en faenas de extracci�n y acopio de minerales al interior de la mina. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3817 de 30 de Julio de 2003.- Word Aplicaci�n de la Ley N� 18.502, al transporte de pasajeros efectuado en catamaranes, en Regi�n de Ays�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4009 de 18 de Agosto de 2003.- Word Utilizaci�n de los remanentes de cr�dito fiscal del impuesto adicional a las bebidas alcoh�licas y analcoh�licas. Ley de Impue…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4009 de 18 de Agosto de 2003.-
 
 ## Referencias detectadas
 

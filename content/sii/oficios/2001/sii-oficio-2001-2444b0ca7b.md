@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt face='arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 13�, N�2 � Ley N� 10.621, Art. 1� � Resoluci�n Exenta N� 6080, de 1999. (Ord. N� 3848, de 24.09.2001) Word Impuesto al Valor Agregado, en prestaci�n de servicios de agencia noticiosa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 3847, de 24.09.2001) Word Tributaci�n frente al IVA, de actividad consistente en la prestaci�n de servicios a trav�s de un po…
+Word Tributaci�n frente al IVA, de actividad consistente en la prestaci�n de servicios a trav�s de un portal de Internet.
 
 ## Referencias detectadas
 

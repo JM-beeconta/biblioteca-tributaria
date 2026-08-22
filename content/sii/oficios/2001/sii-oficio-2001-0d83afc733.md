@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iliarios, a pacientes seg�n diagn�stico. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46�, letra d) � Ley N� 18.455, Art. 2�, letra b). (Ord. N� 4334, de 05.11.2001) Word Aplicaci�n del impuesto adicional a las bebidas alcoh�licas, analcoh�licas y similares a los productos farmac�uticos complementarios que se indican. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, letra m). (Ord. N� 4333, de 05.11.2001) Word No procede aplicar Ord. N� 3489,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1, Art. 8�, letra m). (Ord. N� 4333, de 05.11.2001)
 
 ## Referencias detectadas
 

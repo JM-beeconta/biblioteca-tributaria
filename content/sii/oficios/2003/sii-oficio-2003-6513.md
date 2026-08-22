@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 6513
 - Año: 2003
-- Fecha: 2003-12-22
+- Fecha: 2003-12-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja616.doc
 - Hash SHA-256: 8a7ae8246503805b700dcf0eb85e72e4cf00ac581e1051c433a7269c1684d972
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 6587 de 22 de Diciembre de 2003. Word Impuesto al Valor Agregado que grava el monto que se paga por ingresar a Parques, Reservas y Monumentos Nacionales administrados por la Corporaci�n Nacional Forestal (CONAF) Ley de Impuesto a las Ventas y Servicios. Oficio N� 6513 de 18 de Diciembre de 2003. Word Tributaci�n con IVA de Organizaci�n que no persigue fines de lucro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6471 de 16 de Diciembre de 2003. Word Benefic…
+Word Tributaci�n con IVA de Organizaci�n que no persigue fines de lucro.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rovenientes de dep�sitos bancarios. (Ord. N� 1738, de 23.04.2003) Ley sobre Impuesto a la Renta � Art. 14 Letra A) N� 1 letra c) Word Concepto de patrimonio neto a que se refiere la letra c) del N� 1 de la Letra A) del art�culo 14 de la Ley de la Renta (Ord. N� 1737, de 23.04.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 Word Situaci�n tributaria que afecta a comuneros de una comunidad agr�cola acogida a renta presunta que aportan sus derechos o cuotas a una sociedad en formaci�n o constituci�n. (Ord. N� 1736…
+Word Situaci�n tributaria que afecta a comuneros de una comunidad agr�cola acogida a renta presunta que aportan sus derechos o cuotas a una sociedad en formaci�n o constituci�n. (Ord. N� 1736, de 23.04.2003)
 
 ## Referencias detectadas
 

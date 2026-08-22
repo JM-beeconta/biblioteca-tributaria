@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-23
+- Fecha: 2001-10-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4083.doc
 - Hash SHA-256: ec71a079bfc47e0fbef5ab821d13c6e138438c4d15d8695170e2916f2514a9e8
 
 ## Resumen
 
-entas/ja4222.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra m), Art. 23�, N�5. (Ord. N� 4222, de 23.10.2001) Word Impuesto al Valor Agregado en venta de veh�culos motorizados usados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � D.S. N� 348, de 1975, del Ministerio de Econom�a, Fomento y Reconstrucci�n � Circular N� 12, del a�o 2000. (Ord. N� 4083, de 11.10.2001) Word Proporcionalidad aplicable para el c�lculo de la recuperaci�n de cr�dito…
+Word Proporcionalidad aplicable para el c�lculo de la recuperaci�n de cr�dito fiscal, establecida en el art�culo 36�, inciso final, cuando existen cr�ditos de utilizaci�n com�n.
 
 ## Referencias detectadas
 

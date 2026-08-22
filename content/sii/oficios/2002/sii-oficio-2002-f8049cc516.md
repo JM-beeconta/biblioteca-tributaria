@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-08
+- Fecha: 2002-07-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja312.htm
 - Hash SHA-256: 3e76991348a60986a3e6b76a4b8fe1e7e9f7b18d2e1ae7f6f068115e8850da05
 
 ## Resumen
 
-ntribuyente que construy� locales comerciales que entregar� en arrendamiento amoblados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2454, de 08 de Julio de 2002.- Word IVA e Impuesto Adicional del Articulo 37 Letra A) del D.L. N� 825, de 1974, Aplicable a la Venta de Monedas de oro Conmemorativas del 50 Aniversario del XXXXXXXXXXXXXXXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2388, de 03 de Julio de 2002.- Word Tributaci�n con IVA del arancel equivalente a un porcentaje de la multa pagada, q…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2388, de 03 de Julio de 2002.-
 
 ## Referencias detectadas
 

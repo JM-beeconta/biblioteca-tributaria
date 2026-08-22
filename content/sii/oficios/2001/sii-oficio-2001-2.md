@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2001
-- Fecha: 2001-01-17
+- Fecha: 2001-01-15
 - Categoría: Renta, Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja152.doc
 - Hash SHA-256: 9923b04a2dcde988c221396e1f28891d36d4b9fed07a7c1ca0bd45edaf193bde
 
 ## Resumen
 
-nt face="arial" size="2"> Ley N� 18.681, de 1987 � Art. 69� - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993. Word . Situaci�n Tributaria de Donaciones Efectuadas a Universidad en Conformidad a Lo Establecido en el Art. 69� de la Ley N� 18.681. (Of. N� 204, de 17.01.2001 � I. Directos) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de - Art. 23� N� 3� D. Ley 3.475. Word Exenci�n de Impuesto de Timbres y Estampillas que Contempla el Art�culo 23� N� 3�, que Favorece a las Uni…
+Word Exenci�n de Impuesto de Timbres y Estampillas que Contempla el Art�culo 23� N� 3�, que Favorece a las Universidades. (Of. N� 0187, de 15.01.2001 � Depto. de T�cnica Tributaria).
 
 ## Referencias detectadas
 

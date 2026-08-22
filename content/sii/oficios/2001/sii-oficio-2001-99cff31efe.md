@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-07-23
+- Fecha: 2001-07-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3082.htm
 - Hash SHA-256: 814647267559cc871d2a7e7ddd0d368c0879970010f0291055584ff7fe66a882
 
 ## Resumen
 
-TIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Tratado de Paz, Amistad y Comercio, de 1904, Art. VI. (Ord. N� 3113, de 23.07.2001) Word El beneficio tributario establecido en el art�culo VI del Tratado de Paz, Amistad y Comercio, suscrito entre Chile y Bolivia con fecha 20.10.1904, no favorece a la adquisici�n del combustible utilizado en el transporte de la carga en tr�nsito, desde o hacia Bolivia. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley de la Renta, Art. 20�, N�5. (Ord. N� 3082, de 20.07.2001)
 
 ## Referencias detectadas
 

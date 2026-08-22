@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font face="arial" size="2"> Donaciones � Ley N� 19.712 � Ley N� 19.885, de 2003, Art. 11� � C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386�, Art. 1.417�, Art. 1.422�, Art. 1.404�, Art. 1.423�. Word Alcance de la expresi�n �en tanto la donaci�n no se hubiere utilizado �ntegramente por la instituci�n donataria�, Contenida en el Art�culo 11�, de la Ley N� 19.885, de 2003. (Ord. N� 3.700, de 04.08.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, Art. 14�, Art. 24�. Wor…
+04.08.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, Art. 14�, Art. 24�.
 
 ## Referencias detectadas
 

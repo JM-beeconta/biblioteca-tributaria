@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-21
+- Fecha: 2003-10-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja589.htm
 - Hash SHA-256: 82f1b660f4cdd7326b6a8a8b966b8a22e49e4dd420198e0ae4d48b82caa3d34c
 
 ## Resumen
 
-udaci�n de primas de seguros contratados por terceros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5291 de 21 de Octubre de 2003.- Word Aplicaci�n de IVA en servicios de administraci�n de cartera de contratos de arrendamiento con opci�n de compra de inmuebles y de contratos de mutuo hipotecario. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5263 de 16 de Octubre de 2003.- Word Asignaciones de material mayor y menor que la Junta Nacional de Cuerpos de Bomberos realiza a los diversos cuerpos de bombero…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5263 de 16 de Octubre de 2003.-
 
 ## Referencias detectadas
 

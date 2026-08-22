@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-04
+- Fecha: 2002-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja389.htm
 - Hash SHA-256: d7ca0d8e15fa841342e66346ffa3ef867454bffc7514824800cf671d2159fba1
 
 ## Resumen
 
-as que tienen la calidad de codeudores solidarios en la adquisici�n de un bien ra�z. (Ord. N� 3973, de 04.11.2002) Ley sobre Impuesto a la Renta � Arts. 22 N� 1 y 23 de la LIR y Ley N� 19.518, de 1997 Word Cr�dito por gastos de capacitaci�n en el caso de peque�os mineros artesanales que optan por declarar la renta presunta de su actividad. (Ord. N� 3949, de 30.10.2002) Ley sobre Impuesto a la Renta � Arts. 4 y 70 de la LIR y Art. 8 N� 8 C�digo Tributario Word Situaci�n tributaria de chilenos radicados en el extran…
+2002) Ley sobre Impuesto a la Renta � Arts. 4 y 70 de la LIR y Art. 8 N� 8 C�digo Tributario
 
 ## Referencias detectadas
 

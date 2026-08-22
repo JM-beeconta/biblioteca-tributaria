@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2698
 - Año: 2002
-- Fecha: 2002-08-07
+- Fecha: 2002-07-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja321.doc
 - Hash SHA-256: 1ca0c7e2c1dcb8d023d22b7aa50bf6b8b932631498863e0ae3505681b9b908a5
 
 ## Resumen
 
-2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2852 de 07 de Agosto de 2002. Word Solicita reconsideraci�n de Ord. N� 1033, de 5-9-2001, referido al impuesto al valor agregado que grava a los servicios de corta, arranque de maleza y apilamiento de las mismas, ejecutados por empresas operadoras en el marco de un Plan de Manejo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2698 de 23 de Julio de 2002. Word Consultas referidas a la interpretaci�n de la modificaci�n introducida por la Ley N� 19.738 en…
+Word Consultas referidas a la interpretaci�n de la modificaci�n introducida por la Ley N� 19.738 en la letra m) del art�culo 8� del D.L. N� 825, de 1974.
 
 ## Referencias detectadas
 

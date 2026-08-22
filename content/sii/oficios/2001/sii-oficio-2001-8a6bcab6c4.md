@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-07-23
+- Fecha: 2001-07-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3082.doc
 - Hash SHA-256: dc2eb5bb6f036bc628354913624a680d392e805753f6ecbd0126b0dc8fabae2e
 
 ## Resumen
 
-N� 3113, de 23.07.2001) Word El beneficio tributario establecido en el art�culo VI del Tratado de Paz, Amistad y Comercio, suscrito entre Chile y Bolivia con fecha 20.10.1904, no favorece a la adquisici�n del combustible utilizado en el transporte de la carga en tr�nsito, desde o hacia Bolivia. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2 � Ley de la Renta, Art. 20�, N�5. (Ord. N� 3082, de 20.07.2001) Word Pide confirmaci�n de medidas adoptadas, para calificar la cobranza judic…
+Word Pide confirmaci�n de medidas adoptadas, para calificar la cobranza judicial y/o extrajudicial, como una actividad aut�noma, no gravada con IVA.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-10
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja166.htm
 - Hash SHA-256: 4edf80fbb96cd0add9dcc0e07df84d305167a58b235f9812beea77cd7ccb4e2c
 
 ## Resumen
 
-ndirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�2�, Art. 10� - Ley de la Renta, Art. 20� N� 3� y N� 4� - Ley N� 18.936, de 1990, Art. 1� y 2�. Word �. Impuesto al Valor Agregado en los Servicios de Explotaci�n de Un Casino de Juegos Realizada por el Concesionario del Mismo. (Of. N� 1578, de 10.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�, Art. 42� - Decreto Supremo N� 341�, de 1977, Art. 10� Bis � Circular N� 16�, de 1986. Word Recuperaci�n…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�, Art. 42� - Decreto Supremo N� 341�, de 1977, Art. 10� Bis � Circular N� 16�, de 1986.
 
 ## Referencias detectadas
 

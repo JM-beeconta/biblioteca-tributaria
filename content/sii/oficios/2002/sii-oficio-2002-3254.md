@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3254
 - Año: 2002
-- Fecha: 2002-10-11
+- Fecha: 2002-09-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja368.doc
 - Hash SHA-256: 632c7e77f8a2b477dec7ccf93567090aae1f1d51638468541393171221998ff2
 
 ## Resumen
 
-(Ordinario 3671 de 11-10-2002) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1 y 62 Word Tributaci�n aplicable a las remuneraciones obtenidas por una empresa prestadora de servicios de administraci�n de gerencias. (Ord. N� 3670, de 11.10.2002) Ley sobre Impuesto a la Renta � Arts. 33 Ley N� 19.518 Word Reconsideraci�n de criterio tributario establecido en Oficio N� 3254, de fecha 05.09.2002. (Ord. N� 3542, de 02.10.2002) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 34� bis Word Clasificaci�n de rentas obtenid…
+Word Reconsideraci�n de criterio tributario establecido en Oficio N� 3254, de fecha 05.09.2002. (Ord. N� 3542, de 02.10.2002)
 
 ## Referencias detectadas
 

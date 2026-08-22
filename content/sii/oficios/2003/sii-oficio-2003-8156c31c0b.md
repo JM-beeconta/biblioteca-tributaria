@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-21
+- Fecha: 2003-01-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja425.htm
 - Hash SHA-256: 03858cc04318a9f6c708367f3f957ff61d40dff96a1e1624280975d2b3543333
 
 ## Resumen
 
-IVA de las cantidades correspondientes a la retenci�n que afecta a los compradores de harina, seg�n Res. Ex. N� 5282, de 30-11-2000. Ley de Impuesto a las Ventas y Servicios. Oficio N� 251 de 21 de Enero de 2003. Word Aplicaci�n de IVA en prestaci�n de servicios de suministro de informaci�n y noticias. Ley de Impuesto a las Ventas y Servicios. Oficio N� 195 de 16 de Enero de 2003. Word Aplicaci�n de IVA a instalaci�n de postes y l�neas para electrificaci�n de predio, seg�n contrato suscrito por un socio con una Co…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 195 de 16 de Enero de 2003.
 
 ## Referencias detectadas
 

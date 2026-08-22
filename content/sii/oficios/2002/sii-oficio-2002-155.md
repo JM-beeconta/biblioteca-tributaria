@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 155
 - Año: 2002
-- Fecha: 2002-02-14
+- Fecha: 2002-01-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja249.doc
 - Hash SHA-256: 1ebc45e0971432db1c7fc0d92c521d68026868c5ceb2171ba18b3761e1923ad5
 
 ## Resumen
 
-, de acuerdo al art�culo 14� de la ley precitada. Oficio N� 567, de 14 de febrero de 2002. Ley Sobre Impuesto a la Renta - Art. 17, N� 11. - Word Aplicaci�n del N� 11 del art�culo 17 del D.L. N� 824, de 1974, en relaci�n con el N� 2 del mismo art�culo. Oficio N� 224, de 15 de enero de 2002. Ley Sobre Impuesto a la Renta - Ley N� 19.768, de 2001 Word Forma de acogerse al r�gimen tributario opcional que establece el art�culo 2� transitorio de la Ley N� 19.768 del a�o 2001. (Oficio N� 155, de 11 de enero de 2002). Le…
+Word Forma de acogerse al r�gimen tributario opcional que establece el art�culo 2� transitorio de la Ley N� 19.768 del a�o 2001. (Oficio N� 155, de 11 de enero de 2002).
 
 ## Referencias detectadas
 

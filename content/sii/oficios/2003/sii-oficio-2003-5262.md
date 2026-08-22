@@ -11,7 +11,7 @@
 
 ## Resumen
 
-LIGN='JUSTIFY'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 5263 de 16 de Octubre de 2003.- Word Asignaciones de material mayor y menor que la Junta Nacional de Cuerpos de Bomberos realiza a los diversos cuerpos de bomberos del pa�s, en relaci�n al Impuesto al Valor Agregado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5262 de 16 de Octubre de 2003.- Word Impuesto al Valor Agregado en arrendamiento con opci�n de compra de inmueble destinado a sede institucional. Ley de Impuesto a las Ventas y Servi…
+Word Impuesto al Valor Agregado en arrendamiento con opci�n de compra de inmueble destinado a sede institucional.
 
 ## Referencias detectadas
 

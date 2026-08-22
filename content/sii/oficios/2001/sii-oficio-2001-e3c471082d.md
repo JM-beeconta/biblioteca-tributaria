@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-29
+- Fecha: 2001-01-08
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja183.htm
 - Hash SHA-256: d22d4fc7d99e6b1f1368ba6b6bc14c795d736b4fa9000bf3525500654b8ae47d
 
 ## Resumen
 
-mpuesto Adicional Dispuesta por el Art�culo 10 del Decreto Ley N� 3.059, Respecto de las Sumas a Remesar por los Conceptos que se Indican. (Of. N� 1298, de 29.03.2001 � I. Directos) C�digo Tributario � Actual Texto � Art.126� - Ord. N�1164, de 30.04.98. Word Monto por el Cual Debe Autorizarse una Solicitud de Rectificatoria. (Of. N� 964, de 09.03.2001 � I. Indirectos.) Franquicia Tributaria � Ley N� 19.518 � Capacitaci�n y Empleo � Estatuto de - Actual Texto � Art. 36� - Circular N� 47�, de 1977 � Oficio N� 71�, d…
+Indirectos.) Franquicia Tributaria � Ley N� 19.518 � Capacitaci�n y Empleo � Estatuto de - Actual Texto � Art. 36� - Circular N� 47�, de 1977 � Oficio N� 71�, del 08.01.2001.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-26
+- Fecha: 2002-08-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja337.doc
 - Hash SHA-256: a384db3ec7d12c6884f8c06905dcf3ff497864f85f42a885b0c35ebd856c17a4
 
 ## Resumen
 
-que se establece en el inciso tercero del art�culo 18 de la Ley de la Renta. (Ord. N� 3032, de 26.08.2002) Ley sobre Impuesto a la Renta � Art. 41 y 68 LIR y arts. 17 y 18 C�digo Tributario Word Forma en que debe llevarse la contabilidad en moneda extranjera. (Ord. N� 2986, de 22.08.2002) Ley sobre Impuesto a la Renta � Arts. 14 y 41 Word Situaci�n tributaria de enajenaci�n de derechos sociales de una sociedad de responsabilidad limitada. (Ord. N� 2985, de 22.08.2002) Ley sobre Impuesto a la Renta � Art. 33 bis Wo…
+Word Situaci�n tributaria de enajenaci�n de derechos sociales de una sociedad de responsabilidad limitada. (Ord. N� 2985, de 22.08.2002)
 
 ## Referencias detectadas
 

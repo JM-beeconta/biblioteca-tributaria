@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Situaci�n tributaria de la diferencia entre la depreciaci�n normal y acelerada de los bienes f�sicos del activo inmovilizado frente al FUT. (Ord. N� 2275, de 29.04.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 74 N� 1 Word Situaci�n tributaria de los ingresos que perciben los Oficiales del Registro Civil e Identificaci�n. (Ord. N� 1759, de 23.04.2003) Ley de Impuesto a la Renta. Art�culos 2�, 14� , 18 ter y 57 bis. An�lisis tributario de algunas situaciones que se producen con motivo de la divisi�n de u…
+4.2003) Ley de Impuesto a la Renta. Art�culos 2�, 14� , 18 ter y 57 bis. An�lisis tributario de algunas situaciones que se producen con motivo de la divisi�n de una sociedad an�nima. ( Ord N� 1740, de 23 de Abril del 2003)
 
 ## Referencias detectadas
 

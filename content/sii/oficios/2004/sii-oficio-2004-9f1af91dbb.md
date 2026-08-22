@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-07
+- Fecha: 2004-09-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja807.doc
 - Hash SHA-256: ca0351476793b2981d106f9a9490ab12e97dbc30b162e169e449933bacdc0371
 
 ## Resumen
 
-las � Ley N� 18.392, Art. 9� � Ley N� 18.502, Art. 7� � D.S. N� 311, de 1986, de Hacienda � Circular N� 52, de 1985. (Ord. N� 4.202 de 07.09.2004). Word Aplicaci�n y Recuperaci�n del Impuesto espec�fico al petr�leo Diesel e Impuesto al Valor Agregado en ventas efectuadas a Empresas acogidas a las Normas de la Ley N� 18.392. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Letra g). (Ord. N� 4.163 de 02.09.2004) Word Consulta acerca de la aplicaci�n del Impuesto al Valor Agregado al Arr…
+Word Consulta acerca de la aplicaci�n del Impuesto al Valor Agregado al Arrendamiento de Inmuebles.
 
 ## Referencias detectadas
 

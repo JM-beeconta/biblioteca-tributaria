@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-03
+- Fecha: 2003-10-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja595.htm
 - Hash SHA-256: afd60f7284f1a655d9721908cef3bd390baec979cbeed4a4f6689b98e797b21b
 
 ## Resumen
 
-Carabineros de Chile, efectuada a trav�s de Zona Franca. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5436 de 03 de Noviembre de 2003.- Word Aplicaci�n IVA e impuesto espec�fico, a la adquisici�n de petr�leo diesel para el transporte terrestre de mercanc�as en tr�nsito a la Rep�blica de Bolivia. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5348 de 23 de Octubre de 2003.- Word Tributaci�n con el Impuesto al Valor Agregado aplicable a las remuneraciones obtenidas por una empresa administradora de cemen…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5348 de 23 de Octubre de 2003.-
 
 ## Referencias detectadas
 

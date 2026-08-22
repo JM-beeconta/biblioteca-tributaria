@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-15
+- Fecha: 2004-08-19
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja813.doc
 - Hash SHA-256: 155382ae4754e43c9cc6b90d5f5c152d9d4fe44e1c7e976b67d0fefac378f7fa
 
 ## Resumen
 
-mbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � Oficio N� 2.436, de 2002. Word Impuesto de Timbres y Estampillas aplicable a las Importaciones. Art�culo 3�, del Decreto Ley N� 3.475, de 1980. ( Ord. N� 4.717, de 15.10.2004) Doble Tributaci�n Internacional � Convenio suscrito entre las rep�blicas de Canad� y Chile, Art. 2�, N� 4, Art. 11� � Ley de la Renta, Art. 59� N� 1. Word Absuelve consultas relativas a la Aplicaci�n del Tratado para Evitar la Doble Tributaci�n Suscrito por las Rep�blicas…
+Word Absuelve consultas relativas a la Aplicaci�n del Tratado para Evitar la Doble Tributaci�n Suscrito por las Rep�blicas de Chile y canad� a las Normas sobre Exceso de Endeudamiento contenidas en el Art�culo 59�, N� 1, de la Ley Sobre Impuesto a la Renta (Ord. N� 3.939, de 19.08.2004)
 
 ## Referencias detectadas
 

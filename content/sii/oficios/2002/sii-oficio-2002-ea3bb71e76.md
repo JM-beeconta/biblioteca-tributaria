@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-10
+- Fecha: 2002-05-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja285.doc
 - Hash SHA-256: 2cdaf547f628799713a9284a485a2cd3547cfe484880d1acdd49cb08c62bb125
 
 ## Resumen
 
-STIFY"> Ley sobre Impuesto a la Renta � arts. 3�, 10�, 11� y 59� N� 2 de la Ley de la Renta y arts. 5� y 12 Letra E N� 7 del D.L. N� 825, de 1974. Word Tributaci�n aplicable a Operadores Directos, respecto de transacciones de valores extranjeros efectuadas a trav�s de Corredores de Bolsa en el pa�s. (Ord. N� 1529, de 10.05.2002) Ley sobre Impuesto a la Renta � art. 43� N� 1 Word Tributaci�n de pensi�n mensual de reparaci�n que establece el art�culo 17� de la Ley N� 19.123. (Ord. N� 1470, de 08.05.2002) Ley sobre I…
+Word Tributaci�n de pensi�n mensual de reparaci�n que establece el art�culo 17� de la Ley N� 19.123. (Ord. N� 1470, de 08.05.2002)
 
 ## Referencias detectadas
 

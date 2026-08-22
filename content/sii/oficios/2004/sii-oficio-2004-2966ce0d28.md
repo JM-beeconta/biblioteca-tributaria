@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis � Circular N� 59, de 1991 Word Situaci�n Tributaria de los Contribuyentes Acogidos a la Tributaci�n del Art�culo 14� bis de la ley de la Renta, cuando al cuarto a�o de su opci�n, superan el L�mite de las 3000 UTM. (Ord. N� 4.268, de 10.09.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.884, Art. 13�, Art. 14�, art. 15�. Word Situaci�n Tributaria de desembolsos destinados al Financiamiento de Campa�as Electorales. (Ord. N� 4.267, de 10.09…
+Word Situaci�n Tributaria de desembolsos destinados al Financiamiento de Campa�as Electorales. (Ord. N� 4.267, de 10.09.2004)
 
 ## Referencias detectadas
 

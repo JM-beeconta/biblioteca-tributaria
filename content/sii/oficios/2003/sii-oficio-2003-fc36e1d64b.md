@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-20
+- Fecha: 2003-03-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja459.htm
 - Hash SHA-256: 016c4f68f2b1b5861464e7740a2a34fc68f0a0db4dd1f416f2ddf53cb63975f9
 
 ## Resumen
 
-o derechos utilizados en concesi�n de obra p�blica, en caso de su transferencia a un tercero. (Ord. N� 1015, de 20.03.2003) Ley sobre Impuesto a la Renta � Arts. 31 N� 9 y 41 de la LIR y Art. 24 D.L. N� 3.063/79 Word Competencia del Servicio respecto de la determinaci�n del Capital Propio para los efectos de las patentes municipales. (Ord. N� 906, de 13.03.2003) Ley sobre Impuesto a la Renta � Art. 42 ter LIR y Ley N� 19.768 Word Tributaci�n de los excedentes de libre disposici�n efectuados con cargo a cotizacione…
+13.03.2003) Ley sobre Impuesto a la Renta � Art. 42 ter LIR y Ley N� 19.768
 
 ## Referencias detectadas
 

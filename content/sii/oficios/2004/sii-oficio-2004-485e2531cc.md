@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2.324, de 18.05.2004) Ley de Impuesto a la Renta. Art�culos 17� N� 8, y 18. Tributaci�n que afecta a la enajenaci�n de bienes ra�ces. ( Ordinario N� 2323, de 18.05.2004). Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.712 � Circulares N�s 81, de 2001 y 55, de 2003. Word Situaci�n Tributaria de Donaciones efectuadas por Empresas para financiar actividades de Deportistas destacados a nivel Internacional. (Ord. N� 2.322, de 18.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 55� bis � Ley N� 19.753, de 2001…
+Word Situaci�n Tributaria de Donaciones efectuadas por Empresas para financiar actividades de Deportistas destacados a nivel Internacional. (Ord. N� 2.322, de 18.05.2004)
 
 ## Referencias detectadas
 

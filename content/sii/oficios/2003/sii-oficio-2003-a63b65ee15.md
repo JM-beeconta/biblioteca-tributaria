@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� 4 de la Ley de la Renta, en el caso de la remesa de utilidades efectuada por contribuyente del art�culo 58 N� 1 de la ley precitada. (Ord. N� 6523, de 19.12.2003) Ley sobre Impuesto a la Renta � Art. 14 bis LIR Word Tributaci�n de los contribuyentes acogidos al r�gimen de tributaci�n simplificada del art�culo 14 bis de la Ley de la Renta. (Ord. N� 6522, de 19.12.2003) Ley sobre Impuesto a la Renta � Art. 59 LIR y Art. 10 D.L. N� 3059, de 1979, Ley de Fomento a la Marina Mercante Word Improcedencia de exenci�n de…
+19.12.2003) Ley sobre Impuesto a la Renta � Art. 59 LIR y Art. 10 D.L. N� 3059, de 1979, Ley de Fomento a la Marina Mercante
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-14
+- Fecha: 2002-05-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja289.doc
 - Hash SHA-256: a8a2962d9392cbe04b176baaa007efc44f8062fbe8b327fccb414caee7ab8c31
 
 ## Resumen
 
-nt> Ley sobre Impuesto a la Renta � art. 69 Ley N� 18.681, de 1987 Word Situaci�n jur�dica de donaciones efectuadas a Universidad, en conformidad al art�culo 69 de la Ley N� 18.681, de 1987. (Ord. N� 1557, de 14.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones y requisitos que se deben cumplir para acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1538, de 13.05.2002) Ley sobre Impuesto a la Renta � arts. 29 al 33. Word Situaci�n tributaria de los colegios qu…
+Word Condiciones y requisitos que se deben cumplir para acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1538, de 13.05.2002)
 
 ## Referencias detectadas
 

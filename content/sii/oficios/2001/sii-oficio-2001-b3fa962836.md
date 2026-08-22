@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-22
+- Fecha: 2001-01-19
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja149.doc
 - Hash SHA-256: 17539098e7296aa1d9d338dbc20a1cdde506b1a7a2169937697e33a198a3b211
 
 ## Resumen
 
-USTIFY"> Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2�(D. o. 31.07.59) Circular N� 46�, de 1999. Word T�rminos en que Procede el Beneficio Tributario Establecido por la Ley N� 19.622, de 1999. (Of. N� 317, de 22.01.2001 � I. Directos). Ley N� 18.211, de 1983 � Art. 11� - Circular N� 21, de 1983. Word Tipo de Cambio que se Debe Utilizar para Efectos de la Determinaci�n y Pago en Moneda Nacional del Impuesto Contemplado en el Art�culo 11 de la…
+Word Tipo de Cambio que se Debe Utilizar para Efectos de la Determinaci�n y Pago en Moneda Nacional del Impuesto Contemplado en el Art�culo 11 de la Ley N� 18.211, de 1983. (Of. N� 243, de 19.01.2001 � I. Indirectos).
 
 ## Referencias detectadas
 

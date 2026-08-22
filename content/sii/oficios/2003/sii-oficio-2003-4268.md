@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4268
 - Año: 2003
-- Fecha: 2003-09-09
+- Fecha: 2003-08-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja555.doc
 - Hash SHA-256: afed64f73a0298e76273c123180dc299cf97301700eaf98132adae649b588108
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4454 de 09 de Septiembre de 2003. Word Exenci�n de impuestos contenida en el art�culo VI del Tratado de Paz, Amistad y Comercio suscrito entre el Gobierno de Chile y el Gobierno de Bolivia, en el a�o 1904. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4268 de 02 de Septiembre de 2003.- Word No corresponde a este Servicio, autorizar o fiscalizar, la legalidad del cobro llamado �cargo de facturaci�n�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4239 d…
+Word No corresponde a este Servicio, autorizar o fiscalizar, la legalidad del cobro llamado �cargo de facturaci�n�.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � C�digo de Comercio, Art. 602� � Ley N� 18.010, Art. 1�. Word Impuesto de Timbres y Estampillas, aplicable a Contrato de Cuenta Corriente Mercantil (Ord. N� 5.115, de 23.12.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, inciso 3�, Art. 2�. Word Impuesto de Timbres y Estampillas Art�culo 1�, N�3 y Art. 2�, del D.L.…
+23.12.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, inciso 3�, Art. 2�.
 
 ## Referencias detectadas
 

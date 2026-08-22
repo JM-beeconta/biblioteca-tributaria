@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley sobre Impuesto a la Renta � Art. 55 bis Word Improcedencia de acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta las personas que tienen la calidad de codeudores solidarios en la adquisici�n de un bien ra�z. (Ord. N� 3974, de 04.11.2002) Ley sobre Impuesto a la Renta � Art. 55 bis Word Improcedencia de acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta las personas que tienen la calidad de codeudores solidarios en la adquisici�n de un bien ra�z. (Ord. N� 3973, de…
+Word Improcedencia de acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta las personas que tienen la calidad de codeudores solidarios en la adquisici�n de un bien ra�z. (Ord. N� 3973, de 04.11.2002)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-16
+- Fecha: 2001-02-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja169.doc
 - Hash SHA-256: af29482fe4961a1b0641d566c8fd749f7657dae59871371a0c76ba3cdf850a59
 
 ## Resumen
 
-. 71�, del 2001, a Fin de Consignar Si los Organismos T�cnicos Intermedios para Capacitaci�n Son Contribuyentes de la Primera Categor�a y Bajo que Concepto y Si en Ese Sentido Es V�lida la Doble Aplicaci�n de la Franquicia Tributaria Sobre los Mismos Recursos. (Of. N� 758, de 16.02.2001 � I. Directos) Franquicia Tributaria � Ley N� 19.518 � Capacitaci�n y Empleo � Estatuto de - Actual Texto � Art. 36�, Art.41� - Ley de la Renta, Art. 33� - Circular N� 19�, de 1999. Word Trabajadores Respecto de los Cuales los Cont…
+Word Trabajadores Respecto de los Cuales los Contribuyentes Pueden Acceder al Cr�dito por Gastos de Capacitaci�n Establecido en la Ley N� 19.518. (Of. N� 525, de 05.02.2001 � I. Directos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-18
+- Fecha: 2003-08-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja536.doc
 - Hash SHA-256: 0cdedb39cf06637ff3e547a35f68f63fda09be1ecc6b63bc8dfb6bdb6b02af6a
 
 ## Resumen
 
-N� 4012, de 18.08.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 8 y N� 9 inciso 2�, 3� y 4� Art. 41 Word Efectos que produce la permuta de derechos sociales en el caso que se indica. (Ord. N� 4011, de 18.08.2003) Ley sobre Impuesto a la Renta � Arts. 18 ter, 42 bis y 42 ter de la LIR y D.L. N� 1328, de 1976 y Ley N� 19.768, de 2001 Word Situaci�n tributaria de part�cipes de fondos mutuos en caso que se indica. (Ord. N� 3928, de 11.08.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 42, N� 2 inciso 3� de…
+Word Situaci�n tributaria de part�cipes de fondos mutuos en caso que se indica. (Ord. N� 3928, de 11.08.2003)
 
 ## Referencias detectadas
 

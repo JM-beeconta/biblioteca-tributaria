@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ro de 2004.- Word Aplicaci�n del Impuesto al Valor Agregado a servicios de movimiento de tierras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 934 de 17 de Febrero de 2004.- Word IVA en contrato de servicios de aseo comunal, suscritos con anterioridad al aumento de la tasa de ese tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 933 de 17 de Febrero de 2004.- Word Impuesto al Valor Agregado en la importaci�n de dispositivo para implante coclear. Ley de Impuesto a las Ventas y Servicios. Oficio N�…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 933 de 17 de Febrero de 2004.-
 
 ## Referencias detectadas
 

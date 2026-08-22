@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-26
+- Fecha: 2003-11-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja603.htm
 - Hash SHA-256: 0d988c3124f080add007b9a8472f97f488c2b868bfb2526a9ca56daaaff7ac02
 
 ## Resumen
 
-se para los efectos de determinar el l�mite de las 3000 UTM a que se refiere el art�culo 14 bis de la Ley de la Renta. (Ord. N� 6060, de 26.11.2003) Ley sobre Impuesto a la Renta � Arts. 21 inciso 3� y 33 N� 1 LIR y 163 y sgtes. del C�digo de Miner�a Word Tratamiento tributario de las cantidades pagadas a t�tulo de patentes mineras. (Ord. N� 5612, de 14.11.2003) Ley sobre Impuesto a la Renta � Art. 63 N� 3 Ley N� 19.712 Word Alcance de la expresi�n �v�nculos patrimoniales� que utiliza en el N� 3 del art�culo 63 de…
+14.11.2003) Ley sobre Impuesto a la Renta � Art. 63 N� 3 Ley N� 19.712
 
 ## Referencias detectadas
 

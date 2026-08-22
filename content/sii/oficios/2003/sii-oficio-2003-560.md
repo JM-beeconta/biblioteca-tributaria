@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Y'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 561 de 14 de Febrero de 2003. Word No procede la emisi�n de una factura recargando el IVA, en reemplazo de la otorgada originalmente como exenta en la misma operaci�n, habi�ndose girado el impuesto correspondiente por el servicio. Ley de Impuesto a las Ventas y Servicios. Oficio N� 560 de 14 de Febrero de 2003. Word Aplicaci�n del Impuesto al Valor Agregado a la Certificaci�n de Origen que debe Realizar la Direcci�n General de Relaciones Econ�micas Internacio…
+Word Aplicaci�n del Impuesto al Valor Agregado a la Certificaci�n de Origen que debe Realizar la Direcci�n General de Relaciones Econ�micas Internacionales, en Virtud del Acuerdo Suscrito con la Uni�n Europea.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-22
+- Fecha: 2004-10-21
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja828.htm
 - Hash SHA-256: 92c255368090d5c1fe2a8ebcd7923e6497595e51fb3924f8091af62d0bc2df1c
 
 ## Resumen
 
-"arial" size="2">(Ord. N� 4.794, de 22.10.2004) Convenio Marco relativo a la Ejecuci�n de la Ayuda Financiera y T�cnica y de la Cooperaci�n Econ�mica en Chile suscrito entre el Gobierno de Chile y la Comunidad Europea. Word Consulta respecto de aplicaci�n de exenci�n tributaria contenida en el Convenio Marco con la Uni�n Europea. (Ord. N� 4771, de 21.10.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � Oficio N� 2.436, de 2002. Word Impuesto de Timbres y Estampillas aplicable a las Imp…
+21.10.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � Oficio N� 2.436, de 2002.
 
 ## Referencias detectadas
 

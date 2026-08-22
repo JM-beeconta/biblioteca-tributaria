@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-11
+- Fecha: 2004-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja836.htm
 - Hash SHA-256: 9efd6bd669be16e40b4abb6418d8e26f82f15458d63b851d4cbaa23c5d9fa97b
 
 ## Resumen
 
-r los Art�culos 45� y 46� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Decreto Ley N�3.500, de 1980, Art. 71� � Ley N� 19.768, Art. 1� y 6� transitorios. Word Situaci�n tributaria de Excedente de Libre Disposici�n que se Indica. (Ord. N� 4.957, de 11.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Ley N� 18.985, de 1990, Art. 3�, N� 4 � Circular 63, de 1990. Word Valorizaci�n de �rboles Frutales y Plantaciones de Sociedad Agr�cola que opta por Declarar…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Ley N� 18.985, de 1990, Art. 3�, N� 4 � Circular 63, de 1990.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-25
+- Fecha: 2004-05-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja746.htm
 - Hash SHA-256: 2979638f5575ce66cbd3e895cf7dfcd1f357ee1017907962fba66e3770c33e87
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9 � Ley N� 16.271 � C�digo Civil, Art. 889�, Art. 1.401� � Decreto Ley N� 359, de 1974, Art. 5� � Decreto Ley N� 3.063, sobre Ley de Rentas Municipales. Word Aplicabilidad del Art�culo 5�, del Decreto Ley N� 359, de 1974, a Donaciones recibidas por Fundaci�n Educacional que Indica. (Ord. N� 2.422, de 25.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � Ley N� 19.010, Art. 20� - C�digo del Trabajo, art. 178�. Word Condiciones que deben cumplir…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � Ley N� 19.010, Art. 20� - C�digo del Trabajo, art. 178�.
 
 ## Referencias detectadas
 

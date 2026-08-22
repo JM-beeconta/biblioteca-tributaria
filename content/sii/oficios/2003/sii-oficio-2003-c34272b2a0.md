@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-20
+- Fecha: 2003-01-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja430.htm
 - Hash SHA-256: 5b87bfce97f02a763958683ac6f5614c49b7b1391df8e5f9f447e1dc1df12021
 
 ## Resumen
 
-l art�culo 59 de la Ley de la Renta, respecto de cr�dito otorgado desde el exterior a una empresa en el a�o 1998, la cual fue posteriormente absorbida por otra en el a�o 2000. (Ord. N� 232, de 20.01.2003) Ley sobre Impuesto a la Renta � Art. 46 del D.L. N� 3.063, de 1979 Word Tratamiento tributario de donaciones que se indican. (Ord. N� 226, de 17.01.2003) Ley sobre Impuesto a la Renta �Arts. N�s. 42 N� 1, 43 N� 1 y 74 N� 1 de la LIR y Ley N� 18.156 Word Determinaci�n del Impuesto Unico de Segunda Categor�a que af…
+17.01.2003) Ley sobre Impuesto a la Renta �Arts. N�s. 42 N� 1, 43 N� 1 y 74 N� 1 de la LIR y Ley N� 18.156
 
 ## Referencias detectadas
 

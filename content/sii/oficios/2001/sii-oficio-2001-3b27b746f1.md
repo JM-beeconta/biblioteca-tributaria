@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja199.htm
 - Hash SHA-256: 869483d3c06f26845af290ea36748b36f9b98e0db154647233ff10bf4ae3913c
 
 ## Resumen
 
-2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis. Word Tratamiento Tributario del Cr�dito Establecido en el Art�culo 33 Bis de la Ley de la Renta, Imputado al Impuesto de Primera Categor�a, Frente a las Normas de la Determinaci�n del Fut y Declaraci�n de Renta en el Formulario N� 22. ( Of. N� 2119, de 17.05.2001. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Ley N� 19.721, del 2001, Art. 3� - Circular N� 41�, de 1999 � Circular N� 60, de 1999. Word Tipos de Gastos que Co…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31� - Ley N� 19.721, del 2001, Art. 3� - Circular N� 41�, de 1999 � Circular N� 60, de 1999.
 
 ## Referencias detectadas
 

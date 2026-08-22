@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4882 de 26 de Septiembre.- Word Se encuentran gravados con IVA, los servicios de difusi�n de Programas de Desarrollo implementados por XXXX, prestados por radioemisoras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4811 de 25 de Septiembre de 2003.- Word Impuesto al Valor Agregado en la comercializaci�n de tarjetas de descuento para servicios tur�sticos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4782 de 23 de Septiembre de 2003. Word…
+Word Impuesto al Valor Agregado en la comercializaci�n de tarjetas de descuento para servicios tur�sticos.
 
 ## Referencias detectadas
 

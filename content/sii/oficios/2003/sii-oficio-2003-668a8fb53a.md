@@ -11,7 +11,7 @@
 
 ## Resumen
 
-opci�n de compra que recae sobre inmuebles con instalaciones y plant�os. (Ord. N� 2832, de 10.06.2003) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1, 56 N� 3, 62 y 63 Word Solicita reconsideraci�n del Oficio N� 4.306, de 26.11.1999, sobre tratamiento tributario del Impuesto de Primera Categor�a frente a la determinaci�n del FUT. (Ord. N� 2762, de 03.06.2003) Ley sobre Impuesto a la Renta � Ley N� 19.853 y 18.392 y D.L. N� 889 Word Tratamiento tributario de bonificaci�n a la contrataci�n de mano de obra. (Ord.…
+03.06.2003) Ley sobre Impuesto a la Renta � Ley N� 19.853 y 18.392 y D.L. N� 889
 
 ## Referencias detectadas
 

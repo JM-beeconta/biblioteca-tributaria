@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja147.doc
 - Hash SHA-256: 197f882a671d8e35b36d5d821a9ad205318abc0f29684b6bd1a61ea73b14e612
 
 ## Resumen
 
-ef='ventas/ja148.htm'>Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8�,Letra G). Word IVA en Arrendamiento de Inmuebles Amoblados, en el que se Suscribe Un Contrato de Arrendamiento por el Inmueble y Otro en Comodato por los Muebles.. (Of. N� 184, de 15.01.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 55� - Art. 20� N�3� de la Ley de la Renta � Art. 2.215 del Codigo Civil. Word Implicancias Tributarias que se Derivan del Contrato de Compraventa de…
+Word Implicancias Tributarias que se Derivan del Contrato de Compraventa de Dep�sito y Convenio de Asesor�a en Explotaci�n de Farmacias. (Of. N� 241, de 19.01.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

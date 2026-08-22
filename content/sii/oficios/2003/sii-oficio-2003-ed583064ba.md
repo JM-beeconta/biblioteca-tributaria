@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-20
+- Fecha: 2003-01-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja443.doc
 - Hash SHA-256: c388bbd306a88674dd509ecf028cd2f95fc522c22661249bb156b240fad1363b
 
 ## Resumen
 
-font> Ley sobre Impuesto a la Renta � Art. 10 Ley N� 18.392, de 1985 Word El Servicio de Impuestos Internos carece de competencia para pronunciarse acerca del requisito de integraci�n y sobre bonificaci�n establecida en el art�culo 10 de la Ley N� 18.392, de 1985. (Ord. N� 259, de 21.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 letra a) Word Costo tributario de las acciones originadas de la transformaci�n de una sociedad de responsabilidad limitada en sociedad an�nima. (Oficio N� 257, de 21.01.2003) Ley d…
+Word Costo tributario de las acciones originadas de la transformaci�n de una sociedad de responsabilidad limitada en sociedad an�nima. (Oficio N� 257, de 21.01.2003)
 
 ## Referencias detectadas
 

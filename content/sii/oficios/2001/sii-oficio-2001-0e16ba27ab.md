@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-29
+- Fecha: 2001-03-09
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja182.doc
 - Hash SHA-256: 64be7823dee9b07885692eb2994b6b1bb36edc189cdf922231f274d4e0656777
 
 ## Resumen
 
-s/ja192.htm">Decreto Ley N� 3.059, de 1979 Sobre R�gimen de Fomento de la Marina Mercante Nacional � Art. 10� � Circular N� 49�, de 1981. Word Alcance de la Exenci�n del Impuesto Adicional Dispuesta por el Art�culo 10 del Decreto Ley N� 3.059, Respecto de las Sumas a Remesar por los Conceptos que se Indican. (Of. N� 1298, de 29.03.2001 � I. Directos) C�digo Tributario � Actual Texto � Art.126� - Ord. N�1164, de 30.04.98. Word Monto por el Cual Debe Autorizarse una Solicitud de Rectificatoria. (Of. N� 964, de 09.03…
+Word Monto por el Cual Debe Autorizarse una Solicitud de Rectificatoria. (Of. N� 964, de 09.03.2001 � I. Indirectos.)
 
 ## Referencias detectadas
 

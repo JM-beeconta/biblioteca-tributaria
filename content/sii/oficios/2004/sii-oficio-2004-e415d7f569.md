@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 12�, Art. 29�, Art. 41� A, Art. 42�, N� 2 � Circular N� 52, de 1993. Word Tratamiento Tributario de las Asesor�as T�cnicas prestadas en Chile, de acuerdo al Art. 41 A, de la Ley de la Renta. (Ord. N� 2.768, de 24.06 .2004) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, N� 6 � Ley N� 18.634. Word Aplicaci�n del N� 6 del Inciso Cuarto del Art�culo 59� de la Ley de la Renta, frente a la Intermediaci�n de bienes de Capital de un pa�s de Europa, sin Pago de derechos Adu…
+Word Aplicaci�n del N� 6 del Inciso Cuarto del Art�culo 59� de la Ley de la Renta, frente a la Intermediaci�n de bienes de Capital de un pa�s de Europa, sin Pago de derechos Aduaneros por aplicaci�n del TLC. (Ord. N� 2.653, de 16.06. 2004)
 
 ## Referencias detectadas
 

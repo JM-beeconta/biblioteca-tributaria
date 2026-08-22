@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-10
+- Fecha: 2002-05-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja284.htm
 - Hash SHA-256: 18b57613024c50cac85c46e3456e7d18516ded23038b698efe72b7843131907e
 
 ## Resumen
 
-/a> Tributaci�n aplicable a Operadores Directos, respecto de transacciones de valores extranjeros efectuadas a trav�s de Corredores de Bolsa en el pa�s. (Ord. N� 1529, de 10.05.2002) Ley sobre Impuesto a la Renta � art. 43� N� 1 Word Tributaci�n de pensi�n mensual de reparaci�n que establece el art�culo 17� de la Ley N� 19.123. (Ord. N� 1470, de 08.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Improcedencia de acogerse al beneficio establecido en el art�culo 55 bis de la Ley de la Renta por las razones…
+08.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-05
+- Fecha: 2002-09-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja360.htm
 - Hash SHA-256: ff26cbbb710c3faa3c901d2a6a3b1768c06151c67c762995c3d64e69d7a633c5
 
 ## Resumen
 
-19.518 Word Reconsideraci�n de criterio tributario establecido en Oficio N� 3254, de fecha 05.09.2002. (Ord. N� 3542, de 02.10.2002) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 34� bis Word Clasificaci�n de rentas obtenidas por empresa de transporte de pasajeros por actividades que se indican. (Ord. N� 3477, de 27.09.2002) Ley sobre Impuesto a la Renta � Art. 55 bis y Art. 3� transitorio Ley N� 19.753, de 2001 Word Plazo para la presentaci�n de Declaraci�n Jurada Simple a que se refiere el art�culo 3� transito…
+27.09.2002) Ley sobre Impuesto a la Renta � Art. 55 bis y Art. 3� transitorio Ley N� 19.753, de 2001
 
 ## Referencias detectadas
 

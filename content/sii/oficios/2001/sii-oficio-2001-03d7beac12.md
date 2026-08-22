@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-16
+- Fecha: 2001-03-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja1297.htm
 - Hash SHA-256: 2c3110c2a8c2d0eb54d34783f26965a4707446b832ceb121af9f267e16c57ac0
 
 ## Resumen
 
-bis, letra A). (Ord. N� 2059, de 16.05.2001) Word Situaci�n tributaria de los Seguros de Vida que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 17, N�8, Art. 18. (Ord. N� 1951, de 09.05.2001) Word Tributaci�n que afecta a enajenaci�n de predio agr�cola en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3, Art. 41� B. (Ord. N� 1297, de 29.03.2001) Word Tratamiento tributario de la disminuci�n de capital de una agencia en el exterior de sociedad an�nima chilena efectuada…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3, Art. 41� B. (Ord. N� 1297, de 29.03.2001)
 
 ## Referencias detectadas
 

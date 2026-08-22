@@ -11,7 +11,7 @@
 
 ## Resumen
 
-utaria del arriendo de un predio agr�cola con instalaciones de parking y frigor�fico. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 9�, letra e). (Ord. N� 4336, de 05.11.2001) Word Impuesto al Valor Agregado que afecta al suministro de agua potable, prestado a un complejo tur�stico y residencial. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Circular N� 39, de 2000. (Ord. N� 4335, de 05.11.2001) Word Impuesto al Valor…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Circular N� 39, de 2000. (Ord. N� 4335, de 05.11.2001)
 
 ## Referencias detectadas
 

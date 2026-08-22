@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1137
 - Año: 2002
-- Fecha: 2002-04-11
+- Fecha: 2002-04-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja263.doc
 - Hash SHA-256: 39f4c87b61f7ac61758418683b9a1496f8916d939181d3df97b83688aa9fc3d0
 
 ## Resumen
 
-font> Ley de Impuesto a las Ventas y Servicios. Oficio N� 1172 de 11 de Abril de 2002. Word Impuesto al valor agregado que afecta a subsidios entregados por el Programa de Asistencia y Modernizaci�n de la Miner�a Artesanal (PAMMA). Ley de Impuesto a las Ventas y Servicios. Oficio N� 1137 de 05 de Abril de 2002 Word Estacionamiento de veh�culos en la v�a p�blica, hecho gravado con IVA en caso que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1029 de 26 de Marzo de 2002 Word Impuesto al Valor Agregado…
+Word Estacionamiento de veh�culos en la v�a p�blica, hecho gravado con IVA en caso que indica.
 
 ## Referencias detectadas
 

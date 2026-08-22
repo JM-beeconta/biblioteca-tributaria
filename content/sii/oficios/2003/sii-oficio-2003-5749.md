@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> No procede considerar como �centro vitivin�cola� a sociedad an�nima, para efectos de otorgarle el car�cter de productor, conforme a lo dispuesto en el art�culo 100�, del D.S. de Hacienda N� 55 y as� liberarse del impuesto adicional establecido en el art�culo 42�, letra c), del D.L. N� 825, en las ventas de vino a granel que efect�e a otros vendedores sujetos del impuesto. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5749 de 21 de Noviembre de 2003.- Word Consulta sobre aplicaci�n de IVA a servicios que i…
+Word Consulta sobre aplicaci�n de IVA a servicios que indica.
 
 ## Referencias detectadas
 

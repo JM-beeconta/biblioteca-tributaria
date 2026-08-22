@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o del consultante, o que no digan relaci�n con proyectos de inversi�n o negocios espec�ficos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3789 de 21 de Octubre de 2002. Word Aplicaci�n del beneficio establecido en el art�culo 21 del D.L. N� 910, de 1975, a la construcci�n de viviendas destinadas a formar parte de un centro recreacional. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3788 de 21 de Octubre de 2002. Word Se encuentra afecta al impuesto del art�culo 42, letra c) del D.L. N� 825, de 1974,…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3788 de 21 de Octubre de 2002.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-28
+- Fecha: 2003-10-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja586.doc
 - Hash SHA-256: df0d31ae668f2d218c85a4b9e192c68c8cddde021334b2395c9f74bf24c72105
 
 ## Resumen
 
-Situaci�n tributaria que se produce con motivo de la absorci�n de sociedades en el caso que se indica. (Ord. N� 5379, de 28.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 3 y 4, 20 N� 2, 42 ter y 54 Word Situaci�n tributaria de los dep�sitos convenidos. (Ord. N� 5351, de 23.10.2003) Ley sobre Impuesto a la Renta � Art. 14 bis LIR Word Tributaci�n de los contribuyentes acogidos a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 5297, de 21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis L…
+Word Tributaci�n de los contribuyentes acogidos a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 5297, de 21.10.2003)
 
 ## Referencias detectadas
 

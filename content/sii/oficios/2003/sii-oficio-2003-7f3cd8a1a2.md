@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-15
+- Fecha: 2003-03-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja490.htm
 - Hash SHA-256: 160c28c31bac46e8ba0cb298b2da0e33ae8c47b249431ed1d49c152c3e4aa4eb
 
 ## Resumen
 
-los espacios comunes de un edificio de departamentos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2454 de 15 de Mayo de 2003. Word Emisi�n de facturas por servicios no afectos o exentos y aplicaci�n del c�lculo de la proporcionalidad en el uso del cr�dito fiscal en caso de reembolso de gastos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1055 de 24 de Marzo de 2003. Word Tratamiento tributario de situaci�n que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1545 de 10-04-2003. Word Impue…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1055 de 24 de Marzo de 2003.
 
 ## Referencias detectadas
 

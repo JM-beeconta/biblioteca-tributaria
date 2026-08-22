@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ci�n que corresponde aplicar a socio extranjero de sociedad que realizar� inversiones en nuestro pa�s frente a las normas de la Ley de la Renta e Impuesto a las Ventas y Servicios. (Ord. N� 6347, de 12.12.2003) Ley sobre Impuesto a la Renta � Arts. 31 y 33 N� 1 letra e) LIR Word Situaci�n tributaria de corporaci�n sin fines de lucro. (Ord. N� 6346, de 12.12.2003) Ley sobre Impuesto a la Renta � Art. 41 N� 9 e inciso 3� y siguientes de la LIR Word Determinaci�n del costo tributario de la venta de derechos sociales.…
+12.12.2003) Ley sobre Impuesto a la Renta � Art. 41 N� 9 e inciso 3� y siguientes de la LIR
 
 ## Referencias detectadas
 

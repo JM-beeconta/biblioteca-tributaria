@@ -11,7 +11,7 @@
 
 ## Resumen
 
-irculares N�s 29, de 1986 y 32 de 1986. (Ord. N� 1.501, de 30.03.2004) Word No procede que empresas con giro, entre otros, de transporte de carga terrestre, utilicen la facultad de recuperar el Impuesto espec�fico al Petr�leo Diesel soportado, seg�n lo dispone el D.S. N� 311, de 1986. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 3�, Art. 9�, Art. 15� � Ley N� 19.888, de 2003. (Ord. N� 1500, de 30.03.2004) Word Interpretaci�n de la Ley N� 19.888, de 2003, que aument� la tasa del IVA, de…
+Word Interpretaci�n de la Ley N� 19.888, de 2003, que aument� la tasa del IVA, de 18% a 19%.
 
 ## Referencias detectadas
 

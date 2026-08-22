@@ -11,7 +11,7 @@
 
 ## Resumen
 
-A�os Anteriores OTRAS 2003 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas Word Impuesto de Timbres y Estampillas aplicable a mutuo hipotecario resciliado. ( Oficio N� 6539 de 19 de Diciembre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas es…
+Word Impuesto de Timbres y Estampillas aplicable a mutuo hipotecario resciliado. ( Oficio N� 6539 de 19 de Diciembre de 2003).
 
 ## Referencias detectadas
 

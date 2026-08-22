@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 640
 - Año: 2004
-- Fecha: 2004-02-10
+- Fecha: 2004-02-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja654.doc
 - Hash SHA-256: 61b9712fa666cf60e9b8bd3d1b2abb9ac4caada2f091378b783beed74a264d70
 
 ## Resumen
 
-del art�culo 70�, del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 754 de 10 de Febrero de 2004.- Word IVA en la cesi�n de espacios publicitarios en un estadio donde se desarrolla un Campeonato de F�tbol. Ley de Impuesto a las Ventas y Servicios. Oficio N� 640 de 04 de Febrero de 2004.- Word Tratamiento tributario de la operaci�n de exportaci�n descrita. Ley de Impuesto a las Ventas y Servicios. Oficio N� 335 de 26 de Enero de 2004.- Word El cr�dito fiscal en las importaciones, corresponde al m…
+Word Tratamiento tributario de la operaci�n de exportaci�n descrita.
 
 ## Referencias detectadas
 

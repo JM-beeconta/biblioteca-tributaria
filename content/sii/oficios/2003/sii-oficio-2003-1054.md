@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1054
 - Año: 2003
-- Fecha: 2003-05-12
+- Fecha: 2003-03-24
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja464.doc
 - Hash SHA-256: 4d356f188accb191bc90accfc168b67ea9d85cd8e350ea47533fac45dd9ed6aa
 
 ## Resumen
 
-ficio N� 2432 de 12 de Mayo de 2003). Decreto Ley N� 3475, Impuesto de Timbres y Estampillas. Word Aclaraci�n de Oficio N� 255 de 21.01.2003 sobre c�lculo del Impuesto de Ley de Timbres y Estampillas sobre Pagar�s en cuotas. ( Oficio N� 1096 de 27 de Marzo de 2003).- Decreto Ley N� 3.475, Impuesto de Timbres y Estampillas. Word Decreto Ley N�3.475, de 1980, art�culo 26�, sobre Impuesto de Timbres y Estampillas. Aplicaci�n del Impuesto respecto de pagar� suscrito en el extranjero entre personas domiciliadas en el e…
+Word Decreto Ley N�3.475, de 1980, art�culo 26�, sobre Impuesto de Timbres y Estampillas. Aplicaci�n del Impuesto respecto de pagar� suscrito en el extranjero entre personas domiciliadas en el exterior, en que la garant�a ha sido otorgada por una persona domiciliada en Chile, para efectos de su cobro en Chile. ( Oficio N� 1054, de 24 de Marzo de 2003).
 
 ## Referencias detectadas
 

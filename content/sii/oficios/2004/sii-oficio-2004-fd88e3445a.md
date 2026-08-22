@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-08
+- Fecha: 2004-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja750.htm
 - Hash SHA-256: 6f0cc5f6f336dfa51292acb50d98c95895d8553b7bba4bcc4c40f40ec575f192
 
 ## Resumen
 
-(Ord. N� 2.653, de 16.06. 2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 1 � Art. 12�, letra B), N� 7 � Ley N� 16.271 � C�digo Tributario, Art. 1� � C�digo Civil, Art. 16� � D.L. N� 359, de 1974. Word Situaci�n Tributaria de Donaci�n que indica. (Ord. N�2.633, de 15.06 .2004) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 60�, 61�, Art. 62�, Art. 63� � C�digo Tributario, Art. 8�, N�8 � C�digo Civil, Art. 59�. Word Acreditaci�n de Domicilio o de Residencia en Chile, de Contribuyente que se ind…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 60�, 61�, Art. 62�, Art. 63� � C�digo Tributario, Art. 8�, N�8 � C�digo Civil, Art. 59�.
 
 ## Referencias detectadas
 

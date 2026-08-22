@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-22
+- Fecha: 2001-01-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja144.doc
 - Hash SHA-256: 0c1e120a849129dcf322d75523c584bc6466b5ba98b861e5f1f982e5a567a6b6
 
 ## Resumen
 
-'renta/ja153.htm'>Renta - Actual Ley Sobre Impuesto a la - Art. 14�, Art. 21� - Codigo Tributario, Art. 8� N� 13�, Art. 69� - Circular N� 17�, de 1995. Word Efectos Tributarios de la Transformaci�n de una Sociedad An�nima en una Sociedad de Responsabilidad Limitada. (Of. N� 313, de 22.01.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74 N� 4�, Art. 79� - Decreto Ley N� 825, de 1974, Art. 12� Letra E), N� 7�. Word Tributaci�n con Renta E IVA que Afecta al Contrato de Franchising. (Of. N�…
+Word Tributaci�n con Renta E IVA que Afecta al Contrato de Franchising. (Of. N�203, de 17.01.2001 � I. Directos)
 
 ## Referencias detectadas
 

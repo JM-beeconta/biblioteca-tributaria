@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-17
+- Fecha: 2001-02-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja160.doc
 - Hash SHA-256: 7778db8b2d095d321651247a99c138fe379c9c4dd1d96273604de9a4dc1c76e7
 
 ## Resumen
 
-ce='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 54� N� 1�, Art. 101� - Circular N� 57�, de 1998 � Resoluciones N� 5111, de 1995 y N� 6509, de 1993. Word Tributaci�n de Intereses Provenientes de una Operaci�n de Captaci�n. (Of. N� 205, de 17.01.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis � Circular N� 41, de 1990 � Circular N� 44, de 1993 � Circular N� 53, de 1998. Word Base de C�lculo del Cr�dito Establecido en el Art�culo 33 Bis de la Ley de al Renta, Respecto de…
+Word Base de C�lculo del Cr�dito Establecido en el Art�culo 33 Bis de la Ley de al Renta, Respecto de Bienes Adquiridos en Virtud de Un Contrato de Arriendo con Opci�n de Compra. (Of. N� 724, de 14.02.2001 � I. Directos).
 
 ## Referencias detectadas
 

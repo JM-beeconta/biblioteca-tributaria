@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 341
 - Año: 2004
-- Fecha: 2004-08-19
+- Fecha: 2004-01-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja795.doc
 - Hash SHA-256: 8d2fdcc79d68c632d67b171347835dea6c77f86a240a9b8f329c5e8ffd8f1aa5
 
 ## Resumen
 
-lign="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 18� ter, Art. 21�, Art. 33, N�1, letra e). Word Tratamiento Tributario de las P�rdidas en Operaciones del Art�culo 18� ter de la Ley de la Renta. (Ord. N� 3.926, de 19.08.2004) Renta � Actual Ley Sobre Impuesto a la Renta � Art. 69 de la Ley N� 18.681, de 1987 Word Rectifica Oficio N� 341, de 26.01.2004, en la Parte que se Indica.- (Ord. N� 3.950, de 20.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 17�, Art. 29�, Art. 30�, Ar…
+Word Rectifica Oficio N� 341, de 26.01.2004, en la Parte que se Indica.- (Ord. N� 3.950, de 20.08.2004)
 
 ## Referencias detectadas
 

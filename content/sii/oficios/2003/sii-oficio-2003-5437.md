@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5437
 - Año: 2003
-- Fecha: 2003-11-06
+- Fecha: 2003-11-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja600.doc
 - Hash SHA-256: d996634d721aca821d6a9ea7e769f4d01973d1ee11843bf4131f79d3cd38c9d7
 
 ## Resumen
 
-='ventas/ja601.htm'>Ley de Impuesto a las Ventas y Servicios. Oficio N� 5496 de 06 de Noviembre de 2003.- Word Aclaraci�n de Oficio N� 3255 de 2002, de este Servicio e interpretaci�n de la expresi�n �correspondiente factura�, contenida en el inciso final del art�culo 3�, del D.F.L. N� 90, del Ministerio del Trabajo y Previsi�n Social. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5437 de 03 de Noviembre de 2003.- Word Impuesto al Valor Agregado en venta de mercader�as a Carabineros de Chile, efectuada a trav…
+Word Impuesto al Valor Agregado en venta de mercader�as a Carabineros de Chile, efectuada a trav�s de Zona Franca.
 
 ## Referencias detectadas
 

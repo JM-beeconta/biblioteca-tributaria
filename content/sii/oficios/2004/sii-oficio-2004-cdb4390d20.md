@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 1050 de 27 de Febrero de 2004.- Word Situaci�n tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Servicios producida con motivo de la adquisici�n de un veh�culo para transporte de insumos que pretende realizar una Sociedad de Servicios M�dicos y Odontol�gicos que tributa en Primera Categor�a. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1049 de 27 de Febrero de 2004.- Word Aplicaci�n del Impuesto al Valor Agregado a servicios de movimiento…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1049 de 27 de Febrero de 2004.-
 
 ## Referencias detectadas
 

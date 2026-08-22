@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja765.doc">Word Aplicaci�n del N� 6 del Inciso Cuarto del Art�culo 59� de la Ley de la Renta, frente a la Intermediaci�n de bienes de Capital de un pa�s de Europa, sin Pago de derechos Aduaneros por aplicaci�n del TLC. (Ord. N� 2.653, de 16.06. 2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 1 � Art. 12�, letra B), N� 7 � Ley N� 16.271 � C�digo Tributario, Art. 1� � C�digo Civil, Art. 16� � D.L. N� 359, de 1974. Word Situaci�n Tributaria de Donaci�n que indica. (Ord. N�2.633, de 15.06 .2004) Renta � Ac…
+Word Situaci�n Tributaria de Donaci�n que indica. (Ord. N�2.633, de 15.06 .2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-19
+- Fecha: 2003-12-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6473.doc
 - Hash SHA-256: 8b289a252c7ecef703c642d651a1e6640111ca74815364c85bb7c4918d6fc735
 
 ## Resumen
 
-fy"> Ley sobre Impuesto a la Renta � Art. 59 LIR y Art. 10 D.L. N� 3059, de 1979, Ley de Fomento a la Marina Mercante Word Improcedencia de exenci�n de impuesto Adicional de la Ley de la Renta, contenida en el art�culo 10� del D.L. N� 3.059, de 1979, sobre Ley de Fomento a la Marina Mercante. (Ord. N� 6521, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 30 y 31 Word Situaci�n tributaria de cuotas sociales enteradas a asociaciones gremiales. (Ord. N� 6473, de 16.12.2003) Ley sobre Impuesto a la Renta � Art. 4…
+Word Situaci�n tributaria de cuotas sociales enteradas a asociaciones gremiales. (Ord. N� 6473, de 16.12.2003)
 
 ## Referencias detectadas
 

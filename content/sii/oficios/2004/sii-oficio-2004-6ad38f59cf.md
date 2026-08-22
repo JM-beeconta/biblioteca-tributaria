@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l" size="1"> Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis � C�digo Tributario, Art. 126�. Word Situaci�n Tributaria de devoluci�n de Remanente de Impuesto. (Ord. N� 1.778, de 16.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 9� � Ley Org�nica Constitucional N�3/1979, de 1979, Art. 1�. Word Improcedencia de Certificaci�n para acceder a Franquicia tributaria establecida en el art�culo 9�, de la Ley de la Renta. (Ord. N� 1.777, de 16.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 41…
+Word Improcedencia de Certificaci�n para acceder a Franquicia tributaria establecida en el art�culo 9�, de la Ley de la Renta. (Ord. N� 1.777, de 16.04.2004)
 
 ## Referencias detectadas
 

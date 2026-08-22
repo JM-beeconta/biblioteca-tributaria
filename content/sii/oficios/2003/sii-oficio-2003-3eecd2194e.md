@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-24
+- Fecha: 2003-12-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6534.htm
 - Hash SHA-256: cee2d3ce7d0e82de1b23eaa90eac087448d26ff58f91b44ad0a4e6d905aaa4a0
 
 ## Resumen
 
-(Ord. N� 6625, de 24.12.2003) Ley sobre Impuesto a la Renta � Arts. 14, 17 N� 7 y 8 LIR y Art. 64 C�digo Tributario Word Tratamiento tributario de liquidaci�n de sociedad an�nima y devoluci�n de capital a accionistas. Factibilidad de aplicar facultad de tasaci�n contenida en el inciso tercero del art�culo 64 del C�digo Tributario. (Ord. N� 6598, de 23.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 42 bis y 50 Word Cotizaciones obligatorias a considerar para los fines del l�mite de la rebaja del ahorro pre…
+23.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 42 bis y 50
 
 ## Referencias detectadas
 

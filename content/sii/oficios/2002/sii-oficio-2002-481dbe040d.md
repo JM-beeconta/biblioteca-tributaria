@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/ja364.doc'>Word Tributaci�n aplicable a los contratos de cesi�n de uso de inmuebles, bajo la modalidad de tiempo compartido. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3397 de 16 de Septiembre de 2002. Word Aplicaci�n del Impuesto al Valor Agregado a los servicios descritos en la presentaci�n, que prestar� la empresa que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3396 de 16 de Septiembre de 2002. Word Utilizaci�n del cr�dito fiscal del IVA, recargado en facturas pendientes de pago, emiti…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3396 de 16 de Septiembre de 2002.
 
 ## Referencias detectadas
 

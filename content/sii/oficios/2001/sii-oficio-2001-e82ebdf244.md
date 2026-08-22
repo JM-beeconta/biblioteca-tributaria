@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bien ra�z. Actual Ley Sobre Impuesto a la Renta - Ley N� 19.622, De 1999 Y Circ. N� 46, del SII Word Contribuyentes que tienen derecho a acogerse al beneficio tributario de la Ley N� 19.622, de 1999. (OF. N� 4856, de 11.12.2001) Actual Ley Sobre Impuesto a la Renta - Arts. 2� N� 3, 59 N� 1, 74 N� 4 Y 79 - Lir Word Procedencia del impuesto adicional establecido en el N� 1 del art�culo 59 de la Ley de la Renta, en caso en que opere la extinci�n de la obligaci�n por el modo denominado compensaci�n. (OF. N� 4843, de 1…
+Word Procedencia del impuesto adicional establecido en el N� 1 del art�culo 59 de la Ley de la Renta, en caso en que opere la extinci�n de la obligaci�n por el modo denominado compensaci�n. (OF. N� 4843, de 11.12.2001)
 
 ## Referencias detectadas
 

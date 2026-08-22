@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-29
+- Fecha: 2004-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja712.htm
 - Hash SHA-256: cb6aa84c41be727487ce30f8cfbc63bb44ad65dc2d54c598e3822dcccf888c8d
 
 ## Resumen
 
-ca sobre tratamiento tributario que afecta a la devoluci�n de fondos previsionales efectuados a los trabajadores t�cnicos extra njeros, estableciendo que es de aplicaci�n general para la industria de AFP. ( Ordinario N� 1480, de 29 de Marzo 2004) enta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra a), incisos 2�, 3� y 4�, Art. 60�, inciso 1�, Art. 74�, N� 4, Art. 65�, N� 1 y N�4, Art. 79�, Art. 97� � Circular N� 8, de 1998. Word Solicita pronunciamiento sobre Retenci�n de Impuesto Adicional que procede a…
+enta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra a), incisos 2�, 3� y 4�, Art. 60�, inciso 1�, Art. 74�, N� 4, Art. 65�, N� 1 y N�4, Art. 79�, Art. 97� � Circular N� 8, de 1998.
 
 ## Referencias detectadas
 

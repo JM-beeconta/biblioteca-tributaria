@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ria de las Cooperativas frente al cr�dito por gastos de capacitaci�n establecido por la Ley N� 19.518, de 1997. (Ord. N� 3180, de 03.09.2002) Ley sobre Impuesto a la Renta � Art. 34 bis N� 2 LIR y Art. 47 C�digo del Trabajo Word Contribuyentes que tienen derecho a gratificaciones legales, conforme a las normas del C�digo del Trabajo. (Ord. N� 3174, de 03.09.2002) Ley sobre Impuesto a la Renta � Ley N� 19.622, de 1999 Word P�rdida de beneficio tributario de la Ley N� 19.622, de 1999, en caso que se indica. (Ord. N�…
+03.09.2002) Ley sobre Impuesto a la Renta � Ley N� 19.622, de 1999
 
 ## Referencias detectadas
 

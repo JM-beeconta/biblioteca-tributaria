@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja137.htm
 - Hash SHA-256: a6d46d39c00a1f15a800244e63adee42ecc8fc18d5a000ac622d2d1beef6a70b
 
 ## Resumen
 
-s Pr�stamos Efectuados por Un Socio a una Sociedad de Personas. (Of. N� 180, de 15.01.2001 � I. Directos) enta � Actual Ley Sobre Impuesto a la � Art. 31�. Word Tratamiento Tributario Respecto de los Desembolsos Incurridos en Mantenci�n y Mejoramiento de Camino P�blico por el Cual se Accede a Predio Agr�cola. (Of. N� 12, de 02.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20 N� 4�, Art. 29� al 33�- Circular N� 42, de 1990 � D.F.L. N� 2�, de 1998 del Ministerio de Educacion, Art, 5�. Word Rem…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20 N� 4�, Art. 29� al 33�- Circular N� 42, de 1990 � D.F.L. N� 2�, de 1998 del Ministerio de Educacion, Art, 5�.
 
 ## Referencias detectadas
 

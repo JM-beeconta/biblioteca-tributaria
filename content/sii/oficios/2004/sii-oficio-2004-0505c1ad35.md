@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja841.htm">Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�s 1 y 2, Art. 43�, N�s 1 y 2, Art. 74�, N� 2 � D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980. Word Tributaci�n que Afecta a las Remuneraciones que Perciben los Trabajadores de Artes y Espect�culos a que se refiere la Ley N� 19.889, de 2003, conforme a los Art�culos 42�, N�s 1 y 2, 43�, N�s 1 y 2 y 74�, N�2, de la Ley de la Renta. (Oficio N� 5.060, de 17.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 19.518, Art. 36�, Art. 37�, Art.…
+17.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 19.518, Art. 36�, Art. 37�, Art. 40�, Art. 42� � Circulares N�s 19, de 1999, 89, de 2001 y 61, de 2002.
 
 ## Referencias detectadas
 

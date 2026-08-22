@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributaci�n Internacional � Convenio suscrito entre las rep�blicas de Canad� y Chile, Art. 2�, N� 4, Art. 11� � Ley de la Renta, Art. 59� N� 1. Word Absuelve consultas relativas a la Aplicaci�n del Tratado para Evitar la Doble Tributaci�n Suscrito por las Rep�blicas de Chile y canad� a las Normas sobre Exceso de Endeudamiento contenidas en el Art�culo 59�, N� 1, de la Ley Sobre Impuesto a la Renta (Ord. N� 3.939, de 19.08.2004) Donaciones � Ley N� 19.712 � Ley N� 19.885, de 2003, Art. 11� � C�digo Tributario, Art.…
+19.08.2004) Donaciones � Ley N� 19.712 � Ley N� 19.885, de 2003, Art. 11� � C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386�, Art. 1.417�, Art. 1.422�, Art. 1.404�, Art. 1.423�.
 
 ## Referencias detectadas
 

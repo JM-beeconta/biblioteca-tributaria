@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5698
 - Año: 2003
-- Fecha: 2003-11-21
+- Fecha: 2003-11-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja607.doc
 - Hash SHA-256: 932d79347e1c67e4397bdbb8155f501c662750d46914c6db79180edf9e67997d
 
 ## Resumen
 
-vendedores sujetos del impuesto. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5749 de 21 de Noviembre de 2003.- Word Consulta sobre aplicaci�n de IVA a servicios que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5698 de 20 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a diversos servicios de intermediaci�n en la obtenci�n de cr�ditos o celebraci�n de contratos de seguros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5583 de 12 de Noviembre de 2003.- Word Aplicaci…
+Word Aplicaci�n del Impuesto al Valor Agregado a diversos servicios de intermediaci�n en la obtenci�n de cr�ditos o celebraci�n de contratos de seguros.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2317
 - Año: 2002
-- Fecha: 2002-07-01
+- Fecha: 2002-06-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja307.doc
 - Hash SHA-256: d1319d304d630bf1b9558b66f34ab1674e8a4f81167438108b20f899ab821cf2
 
 ## Resumen
 
-que percibir� el Registro de Multas de Tr�nsito No Pagadas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2367 de 01 de Julio de 2002 Word Sujeto y Base Imponible del IVA, en contrato de prestaci�n de servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2317 de 27 de Junio de 2002. Word Ingreso al resto del pa�s de veh�cu- los nacionales o nacionalizados provenientes de Zona Franca Primaria a trav�s de la Secci�n 0 del Arancel Aduanero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1703 de 31…
+Word Ingreso al resto del pa�s de veh�cu- los nacionales o nacionalizados provenientes de Zona Franca Primaria a trav�s de la Secci�n 0 del Arancel Aduanero.
 
 ## Referencias detectadas
 

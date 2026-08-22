@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-14
+- Fecha: 2001-01-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja0357.doc
 - Hash SHA-256: 8801a2ad9f2da1a69f825f1cc1d3d913b6cf923825cbe2c5b39db7addd116ffe
 
 ## Resumen
 
-face='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 723, de 14.02.2001) Word Impuesto al Valor Agregado que afecta al servicio de certificaci�n de instalaciones de gas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�. (Ord. N� 357, de 24.01.2001) Word Impuesto al Valor Agregado que afecta al servicio de inspecci�n de redes sanitarias e industriales por medio de c�maras de televisi�n. Ley de Impuesto a las Ventas y…
+Word Impuesto al Valor Agregado que afecta al servicio de inspecci�n de redes sanitarias e industriales por medio de c�maras de televisi�n.
 
 ## Referencias detectadas
 

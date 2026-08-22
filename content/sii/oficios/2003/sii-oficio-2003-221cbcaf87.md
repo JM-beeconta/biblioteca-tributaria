@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-18
+- Fecha: 2003-12-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja615.htm
 - Hash SHA-256: 4cdd5e22953a65ff7e1912bfdedf0c3ddd8295f6c07aa53c3852171b8d3edb33
 
 ## Resumen
 
-que grava el monto que se paga por ingresar a Parques, Reservas y Monumentos Nacionales administrados por la Corporaci�n Nacional Forestal (CONAF) Ley de Impuesto a las Ventas y Servicios. Oficio N� 6513 de 18 de Diciembre de 2003. Word Tributaci�n con IVA de Organizaci�n que no persigue fines de lucro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6471 de 16 de Diciembre de 2003. Word Beneficiario del cr�dito establecido en el art�culo 21�, del D.L. N� 910, cuando en la realizaci�n de una obra, existe una e…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 6471 de 16 de Diciembre de 2003.
 
 ## Referencias detectadas
 

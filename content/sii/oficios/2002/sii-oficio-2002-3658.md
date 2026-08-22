@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gallanes y Ant�rtica Chilena). Ley de Impuesto a las Ventas y Servicios. Oficio N� 3659 de 11 de Octubre de 2002. Word Tributaci�n con IVA de un �vacunatorio�, con el cual ampliar� su giro una Soc. de Servicios M�dicos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3658 de 11 de Octubre de 2002. Word IVA en el servicio de recolecci�n y tratamiento de aguas servidas prestado por una Municipalidad y forma de cobro de tales servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3616, de 8 de Octubre de…
+Word IVA en el servicio de recolecci�n y tratamiento de aguas servidas prestado por una Municipalidad y forma de cobro de tales servicios.
 
 ## Referencias detectadas
 

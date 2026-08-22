@@ -11,7 +11,7 @@
 
 ## Resumen
 
-LIR y arts. 17 y 18 C�digo Tributario Word Forma en que debe llevarse la contabilidad en moneda extranjera. (Ord. N� 2986, de 22.08.2002) Ley sobre Impuesto a la Renta � Arts. 14 y 41 Word Situaci�n tributaria de enajenaci�n de derechos sociales de una sociedad de responsabilidad limitada. (Ord. N� 2985, de 22.08.2002) Ley sobre Impuesto a la Renta � Art. 33 bis Word Forma de imputar el remanente de cr�dito a que se refiere el art�culo 33 bis de la Ley de la Renta a los ejercicios siguientes. (Ord. N� 2984, de 22.…
+22.08.2002) Ley sobre Impuesto a la Renta � Art. 33 bis
 
 ## Referencias detectadas
 

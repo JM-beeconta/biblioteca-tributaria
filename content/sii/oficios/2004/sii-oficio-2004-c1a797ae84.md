@@ -11,7 +11,7 @@
 
 ## Resumen
 
-">(Ord. N� 2.323, de 18.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art.42�, N� 2, Art. 74� � C�digo Tributario, Arts. 66� y 68� � Ley N� 19.418, Art. 29� - Decreto Supremo N� 58, de 1997 � Circular N� 21, de 1991. Word Obligaciones Tributarias que afectan a Organizaci�n Comunitaria Funcional que se Indica. (Ord. N� 2.324, de 18.05.2004) Ley de Impuesto a la Renta. Art�culos 17� N� 8, y 18. Tributaci�n que afecta a la enajenaci�n de bienes ra�ces. ( Ordinario N� 2323, de 18.05.2004). Renta � Actual…
+Ley de Impuesto a la Renta. Art�culos 17� N� 8, y 18. Tributaci�n que afecta a la enajenaci�n de bienes ra�ces. ( Ordinario N� 2323, de 18.05.2004).
 
 ## Referencias detectadas
 

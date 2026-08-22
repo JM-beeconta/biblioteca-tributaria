@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-23
+- Fecha: 2003-04-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja474.htm
 - Hash SHA-256: 1eccf0418ab6c410abcdde311e6adfa8ca9c8c183f6cd8a774761ba18fcb304e
 
 ## Resumen
 
-enta presunta que aportan sus derechos o cuotas a una sociedad en formaci�n o constituci�n. (Ord. N� 1736, de 23.04.2003) Ley sobre Impuesto a la Renta � Art. 2� N� 1 LIR y Art. 23 N� 1 D.L. N� 825, de 1974 Word Tributaci�n que afecta a los impuestos y derechos de cargo de un importador de una mercader�a pagados por el exportador extranjero. (Ord. N� 1673, de 22.04.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 LIR y Art. 64 C�digo Tributario Word Precio que deben enajenarse las acciones de sociedades an…
+22.04.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 LIR y Art. 64 C�digo Tributario
 
 ## Referencias detectadas
 

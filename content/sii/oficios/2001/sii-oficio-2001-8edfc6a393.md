@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-10
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja214.htm
 - Hash SHA-256: d13de37a3feef54f958e99f405b66033d7adfd7e61b7d20b3f527797d8ae04a5
 
 ## Resumen
 
-Word Situaci�n tributaria de indemnizaciones por a�os de servicios. (Of. N� 4816, de 10.12.2001) Renta � Actual Ley Sobre Impuesto a la - Art. 31. Word Improcedencia de Deducci�n Como Gasto Necesario para Producir la Renta de Sumas Pagadas por Adquisici�n de Derechos en Leasing Sobre Un Bien Ra�z. (Of. N� 2454, de 05.06.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 17� N�14�, Art. 42� N� 1� y Art. 43� N� 1�. Word Tratamiento Tributario de las Asignaciones Otorgadas por Concepto de Alimentaci�n.…
+Renta - Actual Ley Sobre Impuesto a la - Art. 17� N�14�, Art. 42� N� 1� y Art. 43� N� 1�.
 
 ## Referencias detectadas
 

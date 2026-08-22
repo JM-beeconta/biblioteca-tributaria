@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-12
+- Fecha: 2003-12-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja618.doc
 - Hash SHA-256: 6e8ad639f44cb473179e1c3f156e6ac949ddda268a32288b4e40a15b1867ed71
 
 ## Resumen
 
-aci�n tributaria de corporaci�n sin fines de lucro. (Ord. N� 6346, de 12.12.2003) Ley sobre Impuesto a la Renta � Art. 41 N� 9 e inciso 3� y siguientes de la LIR Word Determinaci�n del costo tributario de la venta de derechos sociales. (Ord. N� 6237, de 10.12.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 2; 39 N�s. 1 y 4; 56 N� 3 y 63 de la LIR Word Tributaci�n de sociedad de inversiones cuyo objeto exclusivo ser� la inversi�n en capitales mobiliarios. (Ord. N� 6235, de 10.12.2003) Ley sobre Impuesto a la Rent…
+Word Tributaci�n de sociedad de inversiones cuyo objeto exclusivo ser� la inversi�n en capitales mobiliarios. (Ord. N� 6235, de 10.12.2003)
 
 ## Referencias detectadas
 

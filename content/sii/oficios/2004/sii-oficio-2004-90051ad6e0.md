@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-01-22
+- Fecha: 2004-01-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja645.htm
 - Hash SHA-256: c837de07a90fdf98c67fe4c8ecafd03e17690bf9c6b795ad0ffb858a75c0397e
 
 ## Resumen
 
-la Ley de la Renta, respecto de bienes adquiridos por sucesi�n por causa de muerte. (Ord. N� 315, de 22.01.2004) Ley sobre Impuesto a la Renta � Arts. 14 y 21 LIR Word Solicita pronunciamiento sobre la imputaci�n del impuesto de Primera Categor�a al FUT. (Ord. N� 299, de 20.01.2004) Ley sobre Impuesto a la Renta � Arts. 59 N�. 3, 74 N� 4 y 79 Word Pronunciamiento en relaci�n con el c�lculo y aplicaci�n del impuesto Adicional que afecta a los reaseguros. (Ord. N� 298, de 20.01.2004)
+Ley sobre Impuesto a la Renta � Arts. 59 N�. 3, 74 N� 4 y 79
 
 ## Referencias detectadas
 

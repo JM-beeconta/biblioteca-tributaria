@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-04
+- Fecha: 2001-01-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja141.doc
 - Hash SHA-256: 904ee15f554f8da760679c01f134b2fcde9b61abf897eac9483c439a8a7950c3
 
 ## Resumen
 
-. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 42�. Word Impuesto �nico de Segunda Categor�a que Afecta a los Trabajadores Agr�colas. (Of. N�42, de 04.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 41�, Art. 84� - Decreto Ley N� 825, Art. 27� � Codigo Tributario, Art. 57�. Word Situaci�n Tributaria de Reajuste Proveniente de la Aplicaci�n del Art�culo 27 del D. Ley N� 825, Sobre Ley de Impuesto a las Ventas y Servicios. (Of. N�69, de 08.01.2001 � I. Directos) Renta � Actual Ley Sob…
+Word Situaci�n Tributaria de Reajuste Proveniente de la Aplicaci�n del Art�culo 27 del D. Ley N� 825, Sobre Ley de Impuesto a las Ventas y Servicios. (Of. N�69, de 08.01.2001 � I. Directos)
 
 ## Referencias detectadas
 

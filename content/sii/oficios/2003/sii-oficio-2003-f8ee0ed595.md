@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-19
+- Fecha: 2003-12-16
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja620.htm
 - Hash SHA-256: 7fa004ab07b9b1a362bc50c53a8829eb33acc76c1f6ae30d123b57935f61e657
 
 ## Resumen
 
-pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas Word Impuesto de Timbres y Estampillas aplicable a mutuo hipotecario resciliado. ( Oficio N� 6539 de 19 de Diciembre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 2� Transitorio de la Ley N�19.840.- (…
+re de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

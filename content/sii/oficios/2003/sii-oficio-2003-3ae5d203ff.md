@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Art. 55 bis LIR Word Resuelve reconsideraci�n de Ordinario N� 2.549, de 27.05.2003 del SII. (Ord. N� 5294, de 21.10.2003) Ley sobre Impuesto a la Renta � Arts. 2 N� 1 y 31 N� 9 de la LIR y Art. 28 C�digo Tributario Word Tratamiento de asociaciones o cuentas en participaci�n en caso que se indica. (Ord. N� 5266, de 16.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis Word Requisitos que se deben cumplir para poder acogerse al beneficio tributario establecido en el art�culo 55 bis de la Ley de la Renta. (…
+16.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis
 
 ## Referencias detectadas
 

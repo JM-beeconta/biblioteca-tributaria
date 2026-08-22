@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-06
+- Fecha: 2001-04-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja177.doc
 - Hash SHA-256: 382de34ccbf4c289a64a5f11410c2644e2827a49f34b5588c1ce1d0593f0ab70
 
 ## Resumen
 
-� Letra E) N� 2�, Art. 23� - D. S. N� 341�, de 1977, Art. 10� Bis. Word Exenci�n Establecida en el Art�culo 12 Letra E) N� 2� del D. L. N� 825, al Transporte de Mercader�as Desde el Puerto de Iquique a la Zona Franca de Dicha Ciudad. (Of. N� 1546, de 06.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�2�, Art. 10� - Ley de la Renta, Art. 20� N� 3� y N� 4� - Ley N� 18.936, de 1990, Art. 1� y 2�. Word �. Impuesto al Valor Agregado en los Servicios de Explotaci�n de Un Casino…
+Word �. Impuesto al Valor Agregado en los Servicios de Explotaci�n de Un Casino de Juegos Realizada por el Concesionario del Mismo. (Of. N� 1578, de 10.04.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

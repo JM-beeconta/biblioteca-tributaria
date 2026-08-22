@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-20
+- Fecha: 2003-05-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja494.htm
 - Hash SHA-256: 2c214b3e6a573fd9b880bcf018b4d6bcb123fa5b2fbae9709e0036d69ac89094
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 2492 de 20 de Mayo de 2003. Word Imputaci�n de remanentes del cr�dito especial contemplado en el art�culo 21, del D.L. N� 910 de 1975, al IVA retenido en facturas de compra, por una empresa constructora, que a la vez es agente retenedor opcional de dicho impuesto. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2455 de 15 de Mayo de 2003. Word Aplicaci�n del art�culo 21�, del D.L. N� 910, de 1975, a contrato de construcci�n pactado a suma alzada, para ejecuta…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2455 de 15 de Mayo de 2003.
 
 ## Referencias detectadas
 

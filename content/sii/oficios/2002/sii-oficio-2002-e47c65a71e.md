@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-07
+- Fecha: 2002-06-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja300.doc
 - Hash SHA-256: 1b9ea69b2069f04024cfede626e615f7cabd82c75bcc824ab648cdfd5b0e7886
 
 ## Resumen
 
-" size="2"> Ley sobre Impuesto a la Renta � arts. 42 bis y 48 Word Imposibilidad de directores o consejeros de sociedades an�nimas de rebajar gastos efectivos o presuntos y de deducir los ahorros previsionales voluntarios a que se refiere el art�culo 42 bis de la Ley de la Renta. (Ord. N� 1787, de 07.06.2002) Ley sobre Impuesto a la Renta � art. 59 N� 1, letra b) Word Situaci�n tributaria de intereses remesados al extranjero seg�n la letra b) del N� 1 del art�culo 59 de la Ley de la Renta. (Ord. N� 1777, de 06.06.…
+Word Situaci�n tributaria de intereses remesados al extranjero seg�n la letra b) del N� 1 del art�culo 59 de la Ley de la Renta. (Ord. N� 1777, de 06.06.2002)
 
 ## Referencias detectadas
 

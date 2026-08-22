@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-23
+- Fecha: 2003-12-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6534.doc
 - Hash SHA-256: f0b49244d5633184055ad0f2c52d7c2022cd4163f09b17bdd10b3771bf224966
 
 ## Resumen
 
-2"> Ley sobre Impuesto a la Renta � Arts. 14, 17 N� 7 y 8 LIR y Art. 64 C�digo Tributario Word Tratamiento tributario de liquidaci�n de sociedad an�nima y devoluci�n de capital a accionistas. Factibilidad de aplicar facultad de tasaci�n contenida en el inciso tercero del art�culo 64 del C�digo Tributario. (Ord. N� 6598, de 23.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 42 bis y 50 Word Cotizaciones obligatorias a considerar para los fines del l�mite de la rebaja del ahorro previsional voluntario que es…
+Word Cotizaciones obligatorias a considerar para los fines del l�mite de la rebaja del ahorro previsional voluntario que establece el art�culo 50 de la Ley de la Renta, en el caso de trabajador independiente. (Ord. N� 6534, de 19.12.2003)
 
 ## Referencias detectadas
 

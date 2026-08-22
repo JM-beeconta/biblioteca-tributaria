@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-27
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja228.htm
 - Hash SHA-256: e1782749ac22849a296f5769be39473c709f36e16cfd286e8f847f61d39f8b42
 
 ## Resumen
 
-Franquicia Tributaria � Ley N� 18.392, de 1985 (Ley Navarino) � Art. 12� - Ley N� 18.211, Art. 11�. Word Consulta Si las Disposiciones de la Ley N� 18.392, Son Aplicables al Proyecto Denominado �Remodelaci�n de la Base Ant�rtica O�Higgins�, a Materializarse en la XII Regi�n Magallanes y Ant�rtica Chilena. (Of. N� 2817 de 27.06.2001 � I. Indirectos). Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1� N� 3�, Art. 15� N� 3, Decreto Ley N� 3.475, de 1980. Word Aplicaci�n del Impuesto de Timbres y E…
+Indirectos). Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1� N� 3�, Art. 15� N� 3, Decreto Ley N� 3.475, de 1980.
 
 ## Referencias detectadas
 

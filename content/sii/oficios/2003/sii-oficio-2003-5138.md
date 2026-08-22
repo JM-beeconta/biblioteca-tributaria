@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5138
 - Año: 2003
-- Fecha: 2003-10-10
+- Fecha: 2003-10-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja574.doc
 - Hash SHA-256: 932fbb88036bb5045aa35283893a587e9470f6da57ea21d1c58553b7765988e3
 
 ## Resumen
 
-face='arial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 5192 de 10 de Octubre de 2003.- Word Emisi�n de notas de cr�dito y d�bito en servicios de telecomunicaciones de larga distancia, prestados por empresas portadoras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5138 de 07 de Octubre de 2003.- Word Tasa aplicable al IVA en las importaciones. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5017 de 01 de Octubre de 2003.- Word Vigencia del impuesto establecido en el art�culo 43� bis,…
+Word Tasa aplicable al IVA en las importaciones.
 
 ## Referencias detectadas
 

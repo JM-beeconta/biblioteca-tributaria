@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3031
 - Año: 2002
-- Fecha: 2002-08-27
+- Fecha: 2002-08-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja345.doc
 - Hash SHA-256: e0643b1860b102966d4d32589d9408b7bac9015820e4b80a2cc0650496fb273d
 
 ## Resumen
 
-que se efect�an a las Instituciones de Discapacitados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3064 de 27 de Agosto de 2002. Word Pago del IVA en forma diferida, en importaci�n de un veh�culo para persona lisiada. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3031 de 26 de Agosto de 2002. Word Consulta referida a la interpretaci�n de la modificaci�n introducida por la Ley N� 19.738, en la letra m) del art�culo 8� del D.L. N� 825, de 1974, en relaci�n con la compraventa de veh�culos usados. Ley de…
+Word Consulta referida a la interpretaci�n de la modificaci�n introducida por la Ley N� 19.738, en la letra m) del art�culo 8� del D.L. N� 825, de 1974, en relaci�n con la compraventa de veh�culos usados.
 
 ## Referencias detectadas
 

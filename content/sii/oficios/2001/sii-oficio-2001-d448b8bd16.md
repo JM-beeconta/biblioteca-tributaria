@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-10
+- Fecha: 2001-09-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3652.doc
 - Hash SHA-256: a30f4d75d0b9b6f2c5e0a0575c84b08be9abe903448807fcb51fa18b10122634
 
 ## Resumen
 
-face='arial' size='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra a), Art. 18�. (Ord. N� 3692, de 10.09.2001) Word Situaci�n tributaria de aporte de acciones por parte de un contribuyente a su propia empresa unipersonal. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b), Art. 18�. (Ord. N� 3652, de 05.09.2001) Word Tributaci�n que afecta al mayor valor obtenido en la enajenaci�n de lotes de terrenos urbanos producto de la subdivisi�n de terrenos urbanos adjudicados por sucesi�n po…
+Word Tributaci�n que afecta al mayor valor obtenido en la enajenaci�n de lotes de terrenos urbanos producto de la subdivisi�n de terrenos urbanos adjudicados por sucesi�n por causa de muerte, como tambi�n de la entrega en pago de uno de tales lotes.
 
 ## Referencias detectadas
 

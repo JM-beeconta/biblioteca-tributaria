@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-24
+- Fecha: 2004-06-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja759.doc
 - Hash SHA-256: 539072a851ad3f7e20ae38d9b595450876a2f7ea67a438048f963da2e5b3a5b8
 
 ## Resumen
 
-href='ventas/ja761.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, Letra E), N� 1, letra d) � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.767, de 24.06.2004) Word Exenci�n a las Entradas cobradas por Espect�culos Circenses. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley de la Renta � Art. 42�, N�1 y N� 2 �Circular N� 21, de 1991. (Ord. N� 2.718, de 18.06.2004) Word Consulta si procede emitir Facturas de Exportaci�n por el Servicio de Teleop…
+Word Consulta si procede emitir Facturas de Exportaci�n por el Servicio de Teleoperador de Telefon�a Nacional.
 
 ## Referencias detectadas
 

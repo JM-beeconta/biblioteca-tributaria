@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ple a que se refiere el art�culo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 3400, de 16.09.2002) Ley sobre Impuesto a la Renta � Art. 57 bis Letra A) Word Situaci�n tributaria de inversiones efectuadas en conformidad a la letra A) del actual art�culo 57 bis de la Ley de la Renta, en caso del fallecimiento del inversionista. (Ord. N� 3399, de 16.09.2002) Ley sobre Impuesto a la Renta � Arts. 17 N� 22, 31 N�s. 1 y 3 y 33 N� 1 letra e) Word Tratamiento tributario de la recuperaci�n de p�rdidas de empresas…
+16.09.2002) Ley sobre Impuesto a la Renta � Arts. 17 N� 22, 31 N�s. 1 y 3 y 33 N� 1 letra e)
 
 ## Referencias detectadas
 

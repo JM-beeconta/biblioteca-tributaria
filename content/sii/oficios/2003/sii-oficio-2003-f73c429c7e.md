@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-16
+- Fecha: 2003-11-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja606.htm
 - Hash SHA-256: 3175f4a5f4a28497cc2ebb5fd8d3910bf6d205e2d0ebd433759593e606959d1e
 
 ## Resumen
 
-la Ley N�19.840.- ( Oficio N� 6460 de 16 de Diciembre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicitud de devoluci�n de Impuesto de Timbres y Estampillas pagado por un contrato de mutuo hipotecario, que no fue autorizado por el Notario. ( Oficio N� 6402 de 12 de Diciembre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicita devoluci�n de impuesto de Timbres y Estampillas, pagado indebidamente. (Oficio N� 5614 de 14 de Noviembre de 2003). Le…
+re de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-10
+- Fecha: 2003-10-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja597.htm
 - Hash SHA-256: b590b228c8d7e3ed1a13b2128b20e5d881ff556ceab9b7d9556a9628e560890b
 
 ## Resumen
 
-miento tributario de la entrega de canastas y regalos de Navidad por las empresas en favor de sus empleados. (Ord. N� 5556, de 10.11.2003) Ley sobre Impuesto a la Renta � Art. 14 Letra A N� 1, letra c) inciso 4� Word Aplicaci�n de la norma contenida en el art�culo 14 Letra A N� 1, letra c), inciso cuarto de la Ley de la Renta en caso que se indica. (Ord. N� 5418, de 30.10.2003) Ley sobre Impuesto a la Renta � Art. 38 bis Word T�rminos en que se aplica el impuesto �nico establecido en el art�culo 38 bis de la Ley d…
+30.10.2003) Ley sobre Impuesto a la Renta � Art. 38 bis
 
 ## Referencias detectadas
 

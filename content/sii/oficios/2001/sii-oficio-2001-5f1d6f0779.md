@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-29
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3591.doc
 - Hash SHA-256: 22437f274b41dbe97da04dd3f628a8f208beeefeb81e10f6da8429f0087763fd
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Ordinarios N� 3.468, de 1995 y 2.100, de 1996. (Ord. N� 3595, de 29.08.2001) Word Fecha de adquisici�n de predio agr�cola asignado a nueva sociedad resultante de la divisi�n de una sociedad de personas. Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.110, Art. 2� � Ley N� 17.169, Art. 15�. (Ord. N� 3591, de 29.08.2001) Word Sujeto del impuesto establecido en el art�culo 2� de la Ley N� 18.110. Renta � Actual Ley Sobre Impuesto a la � (Ord. N� 3574, de 28.08.2001) Word Si…
+Word Sujeto del impuesto establecido en el art�culo 2� de la Ley N� 18.110.
 
 ## Referencias detectadas
 

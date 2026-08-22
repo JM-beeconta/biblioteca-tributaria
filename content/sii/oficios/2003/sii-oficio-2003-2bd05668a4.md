@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-09
+- Fecha: 2003-04-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja465.doc
 - Hash SHA-256: dfd5c4ad0ebf4b63b683765765bcb9f6bffaa54ab6660d456afd976553e7c84c
 
 ## Resumen
 
-ci�n de Pagos Provisionales Mensuales de empresa que desaparece con motivo de fusi�n por absorci�n. (Ord. N� 1514, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 Word Tributaci�n del mayor valor obtenido en la enajenaci�n de un bien ra�z. (Ord. N� 1395, de 04.04.2003) Ley sobre Impuesto a la Renta � Arts. 59 N� 2 y 74 N� 4 Word Aplicaci�n del impuesto Adicional establecido en la Ley de Impuesto a la Renta, en la situaci�n que se indica. (Ord. N� 1306, de 02.04.2003) Ley sobre Impuesto a la Renta…
+Word Aplicaci�n del impuesto Adicional establecido en la Ley de Impuesto a la Renta, en la situaci�n que se indica. (Ord. N� 1306, de 02.04.2003)
 
 ## Referencias detectadas
 

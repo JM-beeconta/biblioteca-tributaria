@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-07-19
+- Fecha: 2001-07-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja2971.doc
 - Hash SHA-256: 80edae0716624f8bd2b9bcc72778f19b8aa3556f738805bcc6b824e581f3e234
 
 ## Resumen
 
-72.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� � Ley N� 19.633. (Ord. N� 3072, de 19.07.2001) Word Aplicaci�n de la Ley N� 19.633, de 1999, a la primera venta de veh�culos internados al amparo del Cap�tulo 0 del Arancel Aduanero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6� � Ley N� 19.030 � decreto N� 211, de 2000, Art. 5�. (Ord. N� 2971, de 13.07.2001) Word Legislaci�n tributaria aplicable, a gasolina de 120 octanos, utilizada…
+Word Legislaci�n tributaria aplicable, a gasolina de 120 octanos, utilizada en aviaci�n particular o deportiva.
 
 ## Referencias detectadas
 

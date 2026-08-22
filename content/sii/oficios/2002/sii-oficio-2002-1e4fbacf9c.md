@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-16
+- Fecha: 2002-08-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja358.doc
 - Hash SHA-256: 810a656c602f26cd6b3e1e9a9ca06b97f2f1fec0a6581d5719e24d4fa444a763
 
 ## Resumen
 
-Ley sobre Impuesto a la Renta � Art. 57 bis Letra A) Word Situaci�n tributaria de inversiones efectuadas en conformidad a la letra A) del actual art�culo 57 bis de la Ley de la Renta, en caso del fallecimiento del inversionista. (Ord. N� 3399, de 16.09.2002) Ley sobre Impuesto a la Renta � Arts. 17 N� 22, 31 N�s. 1 y 3 y 33 N� 1 letra e) Word Tratamiento tributario de la recuperaci�n de p�rdidas de empresas declaradas en quiebra en casos que indica. (Ord. N� 3066, de 28.08.2002) Ley sobre Impuesto a la Renta � Art…
+Word Tratamiento tributario de la recuperaci�n de p�rdidas de empresas declaradas en quiebra en casos que indica. (Ord. N� 3066, de 28.08.2002)
 
 ## Referencias detectadas
 

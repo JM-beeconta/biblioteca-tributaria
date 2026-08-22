@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l' size='2'>En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ley de Impuesto a las Ventas y Servicios � Nuevo Texto � Oficio N� 4155, de 1999. (Ord. N� 5699, de 20-11-2003) Word Administraci�n de Edificios. Solicita reconsideraci�n de Oficio que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6606 de 23 de Diciembre de 2003. Word Procedencia de emitir nota de d�bito para regularizar situaci�n de contribuyente que,…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 6606 de 23 de Diciembre de 2003.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 19.768 � Circular N� 7, de 2002. Word Aplicaci�n del Beneficio Tributario establecido en el art�culo 18� ter de la Ley de la Renta, para los rescates de cuotas de Fondos Mutuos que cumplan las Condiciones establecidos en dicha norma legal. (Ord. N�, de 4.231. 08.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�2. Word Aplicaci�n del N� 2, del Art�culo 17� del D.L. N�824, de 1974, en el caso de Cooperativas. (Ord. N� 4.230, de 08.09.2004) Renta �…
+Word Aplicaci�n del N� 2, del Art�culo 17� del D.L. N�824, de 1974, en el caso de Cooperativas. (Ord. N� 4.230, de 08.09.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-19
+- Fecha: 2004-04-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja705.htm
 - Hash SHA-256: 46dc16ec63c0c95a73b61dd08d2d27ce15feb0356163c3557dccb86347a26b9a
 
 ## Resumen
 
-omerciales Ubicados en las Estaciones de la Red del Ferrocarril Metropolitano de Santiago. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, N�2, Art. 12�, Letra A), N�3 � C�digo del Trabajo, Art. 87�, Art. 91�, Art. 95�. (Ord. N� 1797, de 19.04.2004) Word Entrega de Colaciones y Regal�as a los Trabajadores Agr�colas. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 59�, N�5, inc. 4�, Art. 20�, N�3 � C�digo de Comercio,…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 59�, N�5, inc. 4�, Art. 20�, N�3 � C�digo de Comercio, Art. 3�, N� 16 �Decreto Ley N� 3.059, Art. 3�, Art. 6� � Circular N� 53, de 1985. (Ord. N�1.739, de 13.04.2004)
 
 ## Referencias detectadas
 

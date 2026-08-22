@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-16
+- Fecha: 2003-10-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja577.doc
 - Hash SHA-256: 7a9c5e44d8151813835ee5f2cbc749104475e2f0a42ab08353e8ba464ce8ba1f
 
 ## Resumen
 
-o cuentas en participaci�n en caso que se indica. (Ord. N� 5266, de 16.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis Word Requisitos que se deben cumplir para poder acogerse al beneficio tributario establecido en el art�culo 55 bis de la Ley de la Renta. (Ord. N� 5222, de 14.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 Word Situaci�n tributaria de enajenaci�n de bien ra�z no agr�cola efectuado por una sociedad de personas. (Ord. N� 5221, de 14.10.2003) Ley sobre Impuesto a la Renta � Art. 41…
+Word Situaci�n tributaria de enajenaci�n de bien ra�z no agr�cola efectuado por una sociedad de personas. (Ord. N� 5221, de 14.10.2003)
 
 ## Referencias detectadas
 

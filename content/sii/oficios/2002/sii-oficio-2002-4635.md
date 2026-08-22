@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4635
 - Año: 2002
-- Fecha: 2002-12-13
+- Fecha: 2002-12-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja408.doc
 - Hash SHA-256: 2f58bb1bd15afe29bb6da17af4edea66725656526f9c58d566033d2e8344677f
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4666 de 13 de Diciembre de 2002. Word Determinaci�n del monto del impuesto o del cr�dito, seg�n corresponda, que los exportadores y empresas navieras deben recuperar o reintegrar, conforme a las disposiciones de la Ley N� 19.030. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4635 de 12 de Diciembre de 2002. Word Reitera lo manifestado en Oficio N� 1135, de 10-04-2000, en cuanto a improcedencia de forma alternativa de pago a la indicada en la ley, para los e…
+Word Reitera lo manifestado en Oficio N� 1135, de 10-04-2000, en cuanto a improcedencia de forma alternativa de pago a la indicada en la ley, para los efectos de lo dispuesto en el N� 5, del art�culo 23�, del Decreto Ley N� 825, de 1974.
 
 ## Referencias detectadas
 

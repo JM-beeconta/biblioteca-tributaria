@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o a las Ventas y Servicios. Ley de Impuesto a las Ventas y Servicios � Nuevo Texto � Oficio N� 4155, de 1999. (Ord. N� 5699, de 20-11-2003) Word Administraci�n de Edificios. Solicita reconsideraci�n de Oficio que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6606 de 23 de Diciembre de 2003. Word Procedencia de emitir nota de d�bito para regularizar situaci�n de contribuyente que, a su juicio, vio afectado su remanente de cr�dito fiscal al ser objetada por este Servicio a su contraparte, nota de cr�di…
+Word Procedencia de emitir nota de d�bito para regularizar situaci�n de contribuyente que, a su juicio, vio afectado su remanente de cr�dito fiscal al ser objetada por este Servicio a su contraparte, nota de cr�dito emitida por �sta y asociada a la prestaci�n de servicios administrativos.
 
 ## Referencias detectadas
 

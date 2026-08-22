@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-02-21
+- Fecha: 2002-02-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja251.htm
 - Hash SHA-256: c27fca16edd98272821c967fbc9e9392c0ab37a9433dac674d471d9b3839ef05
 
 ## Resumen
 
-obre repartici�n de capital aportado en forma de tecnolog�a por inversionista extranjero acogido a las normas de Decreto Ley 600. Ord. N� 736, de 28.02.2002 Ley sobre Impuesto a la Renta - Art. 14 bis. Word Forma de acreditar las remuneraciones imponibles para los efectos de la franquicia tributaria por gastos de capacitaci�n. - Oficio N� 670, de 21 de febrero de 2002. Ley sobre Impuesto a la Renta - Art. 14 bis. - Word Tratamiento tributario que afecta a las rentas generadas y retenidas en el r�gimen de tributaci…
+ero de 2002. Ley sobre Impuesto a la Renta - Art. 14 bis. -
 
 ## Referencias detectadas
 

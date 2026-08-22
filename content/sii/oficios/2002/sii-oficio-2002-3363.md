@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2002. Word Para efectos de tramitar la devoluci�n de IVA, en virtud del art�culo 36�, del D.L. N� 825, ante la Tesorer�a General de la Rep�blica, no procede reemplazar el conocimiento de embarque exigido en el art�culo 2�, letra c), del D.S. de Econom�a N� 348, de 1975, en el caso de exportaci�n de bienes, por la declaraci�n de exportaci�n como se sugiere. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3363 de 12 de Septiembre de 2002. Word Improcedencia de exenci�n de IVA al ingreso por concepto de entradas…
+Word Improcedencia de exenci�n de IVA al ingreso por concepto de entradas a espect�culos art�sticos, cient�ficos o culturales, teatrales, musicales, po�ticos, de danza y canto, cuando en los locales en que se efect�en se transfieran bebidas alcoh�licas.
 
 ## Referencias detectadas
 

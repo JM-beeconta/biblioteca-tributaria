@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-26
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja171.htm
 - Hash SHA-256: e236e72ebdd07327975746447e0cbf4a59848344d95031ef578bd0647c85633b
 
 ## Resumen
 
-smos Productos a Nivel Mundial. (Of. N� 831, de 26.02.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 6�, Art. 14�, Art. 20� N�3�, Art. 29� al 33�, Art. 41�, Art. 65� N� 1�, Art. 68�, Art. 69� N� 1�- Circulares N� 60, de 1990 y N� 40, de 1991. Word Tributaci�n que Afecta a las Comunidades. (Of. N� 926, de 05.03.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 2� y 3�, Art. 29� - D.F.L. de Hacienda N� 251�, de 1931, Art. 61� - D. Supremo de Hacienda N� 863, de 1990. Word Opo…
+Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 2� y 3�, Art. 29� - D.F.L. de Hacienda N� 251�, de 1931, Art. 61� - D. Supremo de Hacienda N� 863, de 1990.
 
 ## Referencias detectadas
 

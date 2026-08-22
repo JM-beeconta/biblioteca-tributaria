@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-10-11
+- Fecha: 2002-09-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja366.doc
 - Hash SHA-256: 8315eaff9123ac8ad089047368efdd67bcaeaa63670f4bf153fbe62e737f631f
 
 ## Resumen
 
-una empresa prestadora de servicios de administraci�n de gerencias. (Ord. N� 3670, de 11.10.2002) Ley sobre Impuesto a la Renta � Arts. 33 Ley N� 19.518 Word Reconsideraci�n de criterio tributario establecido en Oficio N� 3254, de fecha 05.09.2002. (Ord. N� 3542, de 02.10.2002) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 34� bis Word Clasificaci�n de rentas obtenidas por empresa de transporte de pasajeros por actividades que se indican. (Ord. N� 3477, de 27.09.2002) Ley sobre Impuesto a la Renta � Art. 55 bis…
+Word Clasificaci�n de rentas obtenidas por empresa de transporte de pasajeros por actividades que se indican. (Ord. N� 3477, de 27.09.2002)
 
 ## Referencias detectadas
 

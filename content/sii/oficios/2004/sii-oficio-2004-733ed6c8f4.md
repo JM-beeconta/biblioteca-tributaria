@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-29
+- Fecha: 2004-12-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja859.htm
 - Hash SHA-256: 51d23a975da9274929f8311d37ad5d3a239b2d1a1721aae25eb854ae6f5e1b19
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 3, Art. 33�, N� 1, letra e), Art. 17�, N� 8, letra a) Word Tratamiento Tributario de las P�rdidas generadas en Enajenaci�n de Acciones de Sociedades An�nimas Calificadas de no Habituales, conforme a las normas de la letra a), del art�culo 17�, de la Ley de la Renta. (Oficio N� 5.445, de 29.12.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�. Word Situaci�n Tributaria de Gastos Incurridos con Motivo de la Celebraci�n de un Contrato de Publicidad…
+Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�.
 
 ## Referencias detectadas
 

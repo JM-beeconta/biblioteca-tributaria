@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-08
+- Fecha: 2003-05-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja487.htm
 - Hash SHA-256: 106898ccb7fc9340afe07411b50b73105e82002dfb96f16c0f3654c2e063d227
 
 ## Resumen
 
-so 1� y Art. 8� Ley N� 18.985, de 1990 Word Franquicia Tributaria de la Ley de Donaciones con Fines Culturales. (Ord. N� 2354, de 08.05.2003) Ley sobre Impuesto a la Renta � Art. 34 N�s. 2 y 3 y Art. 28 C�digo Tributario Word Tributaci�n de los Contratos de Asociaci�n o Cuentas en Participaci�n. (Ord. N� 2329, de 07.05.2003) Ley sobre Impuesto a la Renta � Art. 55 bis Word Plazo fatal para la presentaci�n de Declaraci�n Jurada Simple. (Ord. N� 2294, de 02.05.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 4 y 84…
+07.05.2003) Ley sobre Impuesto a la Renta � Art. 55 bis
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-03
+- Fecha: 2004-08-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja787.doc
 - Hash SHA-256: 0483ca4b51a6bae61f5bb35cc80049556fe3b3c555b807eb89a0b0e4fe6be65f
 
 ## Resumen
 
-a la Explotaci�n de Bosques, de acuerdo con lo dispuesto en el art�culo 14 del Decreto Ley N� 701, sobre Fomento Forestal y su relaci�n con la Ley de la Renta y con el art�culo 5� transitorio de la Ley N� 19.561, de 1998. (Ord. N�3.669, de 03.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�, Art. 17� � D.L. N� 825, de 1974, Art. 8� � Ley N� 18.985, Art. 8�, Art. 14� � D.S. N� 787, de 1990, Art. 2� Word Situaci�n tributaria de Donaciones efectuadas a una Fundaci�n Sin Fines de Lucro. (Ord. N� 3.…
+Word Situaci�n tributaria de Donaciones efectuadas a una Fundaci�n Sin Fines de Lucro. (Ord. N� 3.623, de 02.08.2004)
 
 ## Referencias detectadas
 

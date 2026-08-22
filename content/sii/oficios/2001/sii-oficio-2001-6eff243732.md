@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze='1'> Rentan� Actual Ley Sobre Impuesto a la � Art. 17�, N�13, Art.42 N� 1, Art. 43 N� 1 � Circulares N�s. 29, de 1991 y 10, de 1999. (Ord. N� 2082, de 16.05.2001) Word Situaci�n tributaria de las indemnizaciones por a�os de servicios. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�3, Art. 57� bis, letra A). (Ord. N� 2059, de 16.05.2001) Word Situaci�n tributaria de los Seguros de Vida que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 17, N�8, Art. 18. (Ord. N� 1951, de 09.05.2001) Word Tributa…
+Word Situaci�n tributaria de los Seguros de Vida que se indican.
 
 ## Referencias detectadas
 

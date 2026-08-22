@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-11-14
+- Fecha: 2001-11-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4441.htm
 - Hash SHA-256: 83a2aec9445594f165bd1daed6d43e766dc68f59f56c7b6c3d3534455e49233a
 
 ## Resumen
 
-> Devoluci�n del IVA a personas no domiciliadas ni residentes en Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.S. N� 348, de 1975, Art. 2�, letra b) � C�digo Tributario, Art. 126�, N�3. (Ord. N� 4465, de 14.11.2001) Word Consulta sobre el momento en el cual se produce la exportaci�n en la situaci�n que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�3. (Ord. N� 4441, de 13.11.2001) Word Impuesto al Valor Agregado en los…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�3. (Ord. N� 4441, de 13.11.2001)
 
 ## Referencias detectadas
 

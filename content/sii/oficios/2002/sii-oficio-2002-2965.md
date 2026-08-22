@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dise�o y construcci�n de p�ginas Web. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2966, de 20 de Agosto de 2002. Word No procede el reembolso del IVA, pagado en atenci�n hospitalaria, por un ciudadano extranjero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2965 de 20 de Agosto de 2002. Word Pide se declare que se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904. Ley de Impuest…
+Word Pide se declare que se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904.
 
 ## Referencias detectadas
 

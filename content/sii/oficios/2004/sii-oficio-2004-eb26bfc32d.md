@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-13
+- Fecha: 2004-08-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja790.doc
 - Hash SHA-256: a51b84df51be77ae24c5dcabf78a15adcf3028edf604f1c2fefcae6cf643091a
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 17�, Art. 29�, Art. 30�, Art. 31�, Art. 41�, N� 7. Word Tratamiento Tributario de las Inversiones efectuadas en terreno Ajeno. (Ord. N�3.844, de 13.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 31�, N� 3, Art. 93� a 97� � Circular N� 72, de 2001. Word Momento en que deben reconocerse como Ingreso, el Pago provisional por Utilidades Absorbidas, de acuerdo a lo dispuesto por el N� 3, del Art�culo 31�, de la Ley de la Renta. (Ord. N� 3.759, de 0…
+Word Momento en que deben reconocerse como Ingreso, el Pago provisional por Utilidades Absorbidas, de acuerdo a lo dispuesto por el N� 3, del Art�culo 31�, de la Ley de la Renta. (Ord. N� 3.759, de 09.08.2004)
 
 ## Referencias detectadas
 

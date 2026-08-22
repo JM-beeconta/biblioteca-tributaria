@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n. Renta � Actual Ley Sobre Impuesto a la � Circulares N�s. 50, de 1995 y 66, de 1999 � Ley N�18.392, Art. 1�. (Ord. N� 3922, de 26.09.2001) Word El Servicio de Impuestos Internos carece de competencia para definir la expresi�n proceso de elaboraci�n, conservaci�n y transformaci�n que utiliza el inciso tercero del art�culo 1� de la Ley N� 18.392. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, Art. 18�. (Ord. N� 3921, de 26.09.2001) Word Tratamiento tributario de enajenaci�n de acciones en que existe vincu…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, Art. 18�. (Ord. N� 3921, de 26.09.2001)
 
 ## Referencias detectadas
 

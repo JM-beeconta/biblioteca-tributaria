@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, Art. 6� � Decreto Supremo N� 311, de 1986 � Circulares N�s 29, de 1986 y 32 de 1986. (Ord. N� 1.501, de 30.03.2004) Word No procede que empresas con giro, entre otros, de transporte de carga terrestre, utilicen la facultad de recuperar el Impuesto espec�fico al Petr�leo Diesel soportado, seg�n lo dispone el D.S. N� 311, de 1986. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 3�, Art. 9�, Art.…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 3�, Art. 9�, Art. 15� � Ley N� 19.888, de 2003. (Ord. N� 1500, de 30.03.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-04
+- Fecha: 2002-10-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja391.doc
 - Hash SHA-256: fe40cf894bc94ba4347a91a7bc1b44805a7cb175cd549f040e82ce015e684382
 
 ## Resumen
 
-Ley sobre Impuesto a la Renta � Art. 55 bis Word Improcedencia de acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta las personas que tienen la calidad de codeudores solidarios en la adquisici�n de un bien ra�z. (Ord. N� 3973, de 04.11.2002) Ley sobre Impuesto a la Renta � Arts. 22 N� 1 y 23 de la LIR y Ley N� 19.518, de 1997 Word Cr�dito por gastos de capacitaci�n en el caso de peque�os mineros artesanales que optan por declarar la renta presunta de su actividad. (Ord. N� 3949, de 30.10.20…
+Word Cr�dito por gastos de capacitaci�n en el caso de peque�os mineros artesanales que optan por declarar la renta presunta de su actividad. (Ord. N� 3949, de 30.10.2002)
 
 ## Referencias detectadas
 

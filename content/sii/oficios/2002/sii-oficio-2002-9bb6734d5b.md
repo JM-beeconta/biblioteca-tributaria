@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-08
+- Fecha: 2002-05-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja283.doc
 - Hash SHA-256: 55aa20acd18a36c3001f8406e16461337cdb30c69ad019809b2eaa38c84af971
 
 ## Resumen
 
-que establece el art�culo 17� de la Ley N� 19.123. (Ord. N� 1470, de 08.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Improcedencia de acogerse al beneficio establecido en el art�culo 55 bis de la Ley de la Renta por las razones que se indican. (Ord. N� 1436, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 33 Ley N� 19.518 Word Procedencia de cr�dito por gastos de capacitaci�n contenido en la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo, respecto de trabajadores sujetos a precontratos lab…
+Word Procedencia de cr�dito por gastos de capacitaci�n contenido en la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo, respecto de trabajadores sujetos a precontratos laborales. (Ord. N� 1435, de 03.05.2002)
 
 ## Referencias detectadas
 

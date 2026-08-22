@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-06
+- Fecha: 2002-09-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja348.htm
 - Hash SHA-256: a3582b4c940505f20948f6af8f5739ef1b4ae3ceea23c83eb37df15b616b3b54
 
 ## Resumen
 
-Word Impuesto Adicional que afecta a remuneraciones por servicios prestados en el exterior. (Ord. N� 3262, de 06.09.2002) Ley sobre Impuesto a la Renta � Art. 36 Ley N� 19.518, de 1997 Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 3254, de 05.09.2002) Ley sobre Impuesto a la Renta � Art. 36 de la Ley N� 19.518, de 1997 Word Situaci�n tributaria de las Cooperativas frente al cr�dito por gastos de capacitaci�n establecido por la Ley N� 1…
+2002) Ley sobre Impuesto a la Renta � Art. 36 de la Ley N� 19.518, de 1997
 
 ## Referencias detectadas
 

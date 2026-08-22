@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 977
 - Año: 2004
-- Fecha: 2004-08-09
+- Fecha: 2004-08-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja789.doc
 - Hash SHA-256: e2800f06255634aae9589ba29eab6c3bd5a221fd66df72ee99dc51f071b66e88
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Art. 2�, Art. 31�, N� 3, Art. 93� a 97� � Circular N� 72, de 2001. Word Momento en que deben reconocerse como Ingreso, el Pago provisional por Utilidades Absorbidas, de acuerdo a lo dispuesto por el N� 3, del Art�culo 31�, de la Ley de la Renta. (Ord. N� 3.759, de 09.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 40� . Word Resuelve Solicitud de Reconsideraci�n sobre lo Dictaminado a trav�s de Oficio Ordinario N� 977, de 2004,de este Servicio. (Ord. N� 3.6…
+Word Resuelve Solicitud de Reconsideraci�n sobre lo Dictaminado a trav�s de Oficio Ordinario N� 977, de 2004,de este Servicio. (Ord. N� 3.670, de03.08.2004)
 
 ## Referencias detectadas
 

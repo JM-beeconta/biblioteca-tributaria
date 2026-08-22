@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-08
+- Fecha: 2004-04-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja695.doc
 - Hash SHA-256: c6b0a3ddb7482f9172fd6061e2abeec579aaa42334e75d0038d5085c721cf7bb
 
 ## Resumen
 
-tas N�s 5.396, de 2000 y N� 3, de 2001 � Ley de Impuesto a las Ventas y Servicios, Art. 52�. Word Moneda en que Deben pagarse los Impuestos que resulten de Liquidaci�n de Comisiones de Agentes. (Ord. N� 1.657, de 08.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 22�, Art. 42 bis, N� 3 � Decreto Ley N� 3.500, de 1980, Art. 21�, Art. 22� � Circulares N�s 56, de 1993 y 32, de 1994. Word Situaci�n tributaria de las Cuentas de Ahorro Voluntario abiertas en las AFP. (Ord. N� 1.626, de 06.04.2004.) Ley de Impuest…
+Word Situaci�n tributaria de las Cuentas de Ahorro Voluntario abiertas en las AFP. (Ord. N� 1.626, de 06.04.2004.)
 
 ## Referencias detectadas
 

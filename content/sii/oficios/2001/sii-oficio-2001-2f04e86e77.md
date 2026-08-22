@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-04
+- Fecha: 2001-01-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja145.doc
 - Hash SHA-256: 75c87b1e663ee3b28c6dbc600c2ba0f84097171b9f0b1958e12470545b249c1b
 
 ## Resumen
 
-ace='arial' size='2'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Art. 20� N� 3� y N� 4� de la Ley de la Renta. Word Procedencia de IVA en el Contrato de Asesor�as Computacionales. (Of. N� 33, de 04.01.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1�, Art. 6�, Art. 8� - Ley de la Renta, Art. 20� N� 3� y 4� - Ley N� 18.297, Art. 1�. Word IVA en Ventas y Servicios Prestados por el Servicio Aerofotogram�trico de la Fuerza A�rea a la Empresa…
+Word IVA en Ventas y Servicios Prestados por el Servicio Aerofotogram�trico de la Fuerza A�rea a la Empresa Nacional de Aeron�utica. (Of. N� 269, de 22.01.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

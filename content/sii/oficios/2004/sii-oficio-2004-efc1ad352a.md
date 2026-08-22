@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-10
+- Fecha: 2004-06-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja747.htm
 - Hash SHA-256: e3926ab39ef49b22f393451c9c693220496d6680cbd1069342dcf44909f8534f
 
 ## Resumen
 
-2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�2, Art. 15�, Art. 29�, Art. 30�, Art. 31�, Art. 33� � Oficio N� 3.255, de 1977. Word Condiciones en que se Acepta la Provisi�n de Gastos por parte de una Empresa de Distribuci�n de Energ�a El�ctrica. (Ord. N� 2.585, de 10.06.2004) Renta � Actual Ley Sobre Impuesto a la � Art.20�, N�5, Art. 42�, N�2, Art. 45� - C�digo Tributario, Art. 64�. Word Tratamiento Tributario de la entrega de Acciones a Ejecutivos de Empresas en cumplimiento de Plan denominado �Long…
+Renta � Actual Ley Sobre Impuesto a la � Art.20�, N�5, Art. 42�, N�2, Art. 45� - C�digo Tributario, Art. 64�.
 
 ## Referencias detectadas
 

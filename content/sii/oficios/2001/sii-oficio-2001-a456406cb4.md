@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-28
+- Fecha: 2001-12-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja241.htm
 - Hash SHA-256: 973fe6c9d5af0633638c3a5cb63ae395a7131b188b56437fb17ba883430496bf
 
 ## Resumen
 
-d Impuesto al Valor Agregado que afecta al servicio de inspecci�n de redes sanitarias e industriales por medio de c�maras de televisi�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5052 de 28-12-2001. Word Impuesto al Valor Agregado que grava a las comisiones por administraci�n del seguro de cesant�a, establecido por Ley N� 19.728. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4975 de 20/12/2001 Word Aplicaci�n del IVA a las comisiones cobradas por una cooperativa de ahorro y prestamo a sus cooperado…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4975 de 20/12/2001
 
 ## Referencias detectadas
 

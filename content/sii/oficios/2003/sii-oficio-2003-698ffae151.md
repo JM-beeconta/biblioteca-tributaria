@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja578.doc">Word Requisitos que se deben cumplir para poder acogerse al beneficio tributario establecido en el art�culo 55 bis de la Ley de la Renta. (Ord. N� 5222, de 14.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 Word Situaci�n tributaria de enajenaci�n de bien ra�z no agr�cola efectuado por una sociedad de personas. (Ord. N� 5221, de 14.10.2003) Ley sobre Impuesto a la Renta � Art. 41 D LIR Word Situaci�n tributaria de las sociedades plataforma de negocios a que se refiere el art�culo 41 D de la…
+14.10.2003) Ley sobre Impuesto a la Renta � Art. 41 D LIR
 
 ## Referencias detectadas
 

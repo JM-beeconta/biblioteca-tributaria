@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 6059
 - Año: 2003
-- Fecha: 2003-12-03
+- Fecha: 2003-11-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja609.doc
 - Hash SHA-256: a89a0eff395e76d0c5d565c6033d87e128eeda2587af64d80cbc0e34ff26b80e
 
 ## Resumen
 
-ALIGN='JUSTIFY'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 6176 de 03 de Diciembre de 2003.- Word Impuesto al Valor Agregado que afecta a Convenio de Prestaciones Gastroenterol�gicas, entre un centro m�dico y los profesionales de la salud que all� desempe�an sus labores. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6059 de 26 de Noviembre de 2003.- Word No procede considerar como �centro vitivin�cola� a sociedad an�nima, para efectos de otorgarle el car�cter de productor, conforme a lo dispuesto e…
+Word No procede considerar como �centro vitivin�cola� a sociedad an�nima, para efectos de otorgarle el car�cter de productor, conforme a lo dispuesto en el art�culo 100�, del D.S. de Hacienda N� 55 y as� liberarse del impuesto adicional establecido en el art�culo 42�, letra c), del D.L. N� 825, en las ventas de vino a granel que efect�e a otros vendedores sujetos del impuesto.
 
 ## Referencias detectadas
 

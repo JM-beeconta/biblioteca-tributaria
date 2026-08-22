@@ -11,7 +11,7 @@
 
 ## Resumen
 
-des destinadas a la producci�n de vino. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4667 de 13-12-2002. Word Interpretaci�n de la disposici�n contenida en la letra e) del art�culo 10 bis del D.F.L. N� 341, de 1977. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4666 de 13 de Diciembre de 2002. Word Determinaci�n del monto del impuesto o del cr�dito, seg�n corresponda, que los exportadores y empresas navieras deben recuperar o reintegrar, conforme a las disposiciones de la Ley N� 19.030. Ley de Impuest…
+Word Determinaci�n del monto del impuesto o del cr�dito, seg�n corresponda, que los exportadores y empresas navieras deben recuperar o reintegrar, conforme a las disposiciones de la Ley N� 19.030.
 
 ## Referencias detectadas
 

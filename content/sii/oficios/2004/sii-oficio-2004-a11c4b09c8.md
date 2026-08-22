@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-12
+- Fecha: 2004-07-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja775.htm
 - Hash SHA-256: 74b36e67385c692b61b3e7599f961d99381f3aa1468857c5282e3fe1805190dd
 
 ## Resumen
 
->Impuesto al Valor Agregado, en la Intermediaci�n dirigida a la obtenci�n de Cr�ditos de Consumo. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 3. (Ord. N� 2.975, de 12.07.2004) Word Aplicaci�n del Impuesto al Valor Agregado, a la Prestaci�n de Servicios de Ingenier�a. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 13�, N� 7 � Ley de la Renta, Art. 20�, N� 4 � Ley N� 16.744, Art. 8�, Art…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2, Art. 13�, N� 7 � Ley de la Renta, Art. 20�, N� 4 � Ley N� 16.744, Art. 8�, Art. 9�, Art. 10�, Art. 29� � Ord. N� 1.084, de 1994. (Ord. N�2.956, de 09.07.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-17
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja184.htm
 - Hash SHA-256: 73ac832d935ae9ede385ee0c16c80668358c775ef1129f0d3be1a13934547838
 
 ## Resumen
 
-.04.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 20� N� 1�, Letra B) y C). Word Situaci�n Tributaria de Contribuyente que Tributa en Renta Presunta, al que se Le Ha Ofrecido el Pago de Un Arriendo por el Derecho de Paso por su Predio, Ofrecido por una Empresa que Construye Autopista. (Of. N� 1644, de 17.04.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 1�, Art. 42� N�1�, Art. 43� N�1�, Art. 74� N�1� y Art. 78� - Ley N� 19.123, de 1992, Art. 2� N�4�, Art. 8� N� 2� y Art…
+Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 1�, Art. 42� N�1�, Art. 43� N�1�, Art. 74� N�1� y Art. 78� - Ley N� 19.123, de 1992, Art. 2� N�4�, Art. 8� N� 2� y Art. 17� - Ley N� 19.234, de 1993, Art.15�.
 
 ## Referencias detectadas
 

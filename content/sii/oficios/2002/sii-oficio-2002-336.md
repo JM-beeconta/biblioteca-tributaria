@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 336
 - Año: 2002
-- Fecha: 2002-01-31
+- Fecha: 2002-01-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja245.doc
 - Hash SHA-256: 0d208c103b482005722dfb3ffa774f4cb9bfda38162cadd95dd8a284c70acc76
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 432 de 31 de Enero de 2002. Word Consulta sobre el derecho a cr�dito fiscal que asistir�a a beneficiarios de Subsidios de Riego Campesino de INDAP, en distintas situaciones. Ley de Impuesto a las Ventas y Servicios. Ofcio N� 336 de 28 de Enero de 2002. Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, de los servicios de telefon�a de larga distancia internacional. Ley de Impuesto a las Ventas y Servicios. Oficio N� 327 de 25 de Enero de 2002…
+Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, de los servicios de telefon�a de larga distancia internacional.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-06
+- Fecha: 2001-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja1193.doc
 - Hash SHA-256: 516d43b7f9ccc306db8d8d516939b348ab9889fa1521afe1b85822340c093a90
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 46� � Circular 14, de 2000. (Ord. N� 1547, de 06.04.2001) Word Gravamen que afecta a enajenaci�n de veh�culos ingresados al pa�s en misi�n diplom�tica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 3�, N�3, Art. 57�. (Ord. N� 1193, de 20.03.2001) Word Documentaci�n a emitir, en el evento de menor valor en precio de productos hidrobiol�gicos, por condiciones de calidad o cantidad y cuya adquisici…
+Word Documentaci�n a emitir, en el evento de menor valor en precio de productos hidrobiol�gicos, por condiciones de calidad o cantidad y cuya adquisici�n se encuentra documentada con factura de compra.
 
 ## Referencias detectadas
 

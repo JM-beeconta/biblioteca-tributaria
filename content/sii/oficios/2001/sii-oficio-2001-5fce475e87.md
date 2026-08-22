@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja197.htm
 - Hash SHA-256: 0a31c26b2f4f650e806c3c8d0c670af44386e5c17d4db0e5d354fa65665757c2
 
 ## Resumen
 
-de 17.05.2001. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art. 31� - Codigo Tributario, Art. 126. Word Procedencia de Rectificar Declaraciones de Renta con el Fin de Utilizar Cr�dito en Contra del Impuesto de Primera Categor�a por Contribuciones de Bienes Ra�ces Pagadas con Retraso. (Of. N� 2118, de 17.05.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 3�, Art. 29� al 33�, Art. 41� y 84� - D. Ley N� 825, de 1974, Art. 8� - D. Ley N� 3.500, de 1980, Art. 22� Bis, Art.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 3�, Art. 29� al 33�, Art. 41� y 84� - D. Ley N� 825, de 1974, Art. 8� - D. Ley N� 3.500, de 1980, Art. 22� Bis, Art. 28� y 29�.
 
 ## Referencias detectadas
 

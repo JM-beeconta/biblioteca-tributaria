@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-08
+- Fecha: 2004-09-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja827.htm
 - Hash SHA-256: 8b6ac350b649c42c1b84c86afe79d6c8406ea30c3fd4c9e33905ff02208a90f4
 
 ## Resumen
 
-ndidos con Posterioridad exentos del Impuesto al valor Agregado. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 17�. (Ord. N� 4.637 de 08.10.2004) Word Impuesto al Valor Agregado en Arrendamiento de Inmuebles Amoblados o con Instalaciones que permitan el Ejercicio de una Actividad Comercial o Industrial Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991. (Ord. N� 4.511 de 29.09.2004) Word Devoluci�n de Remanentes…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991. (Ord. N� 4.511 de 29.09.2004)
 
 ## Referencias detectadas
 

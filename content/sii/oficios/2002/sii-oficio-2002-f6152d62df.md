@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span>realizada por el Ministerio de Hacienda. (Ordinario 3671 de 11-10-2002) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1 y 62 Word Tributaci�n aplicable a las remuneraciones obtenidas por una empresa prestadora de servicios de administraci�n de gerencias. (Ord. N� 3670, de 11.10.2002) Ley sobre Impuesto a la Renta � Arts. 33 Ley N� 19.518 Word Reconsideraci�n de criterio tributario establecido en Oficio N� 3254, de fecha 05.09.2002. (Ord. N� 3542, de 02.10.2002) Ley sobre Impuesto a la Renta � Arts. 20 N� 5…
+11.10.2002) Ley sobre Impuesto a la Renta � Arts. 33 Ley N� 19.518
 
 ## Referencias detectadas
 

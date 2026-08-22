@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1545
 - Año: 2003
-- Fecha: 2003-03-24
+- Fecha: 2003-04-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja467.doc
 - Hash SHA-256: 827f16bf8752c4e55df6bf75767399b0306a369da30a50fc5c1ab50c06769572
 
 ## Resumen
 
-en el uso del cr�dito fiscal en caso de reembolso de gastos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1055 de 24 de Marzo de 2003. Word Tratamiento tributario de situaci�n que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1545 de 10-04-2003. Word Impuesto al Valor Agregado que afectar�a a licitaci�n de una planta faenadora de carne. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1018 de 20 de Marzo de 2003. Word Informe sobre la recuperaci�n del impuesto especial al petr�leo diesel es…
+Word Impuesto al Valor Agregado que afectar�a a licitaci�n de una planta faenadora de carne.
 
 ## Referencias detectadas
 

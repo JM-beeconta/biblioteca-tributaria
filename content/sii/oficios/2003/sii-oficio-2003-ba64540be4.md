@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-12
+- Fecha: 2003-05-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja489.htm
 - Hash SHA-256: 2f63410040532958d01a15205cff3a3150b4192614bad06610caf9a05c846655
 
 ## Resumen
 
-utaria de utilidades obtenidas en la enajenaci�n de un bien ra�z para los efectos de las gratificaciones legales. (Ord. N� 2430, de 12.05.2003) Ley sobre Impuesto a la Renta � Art. 42 bis N� 3 Word Tratamiento tributario de las comisiones cobradas por las instituciones autorizadas para administrar los Planes de Ahorro Previsional Voluntario. (Ord. N� 2410, de 09.05.2003) Ley sobre Impuesto a la Renta � Art. 31, inciso 1� y Art. 8� Ley N� 18.985, de 1990 Word Franquicia Tributaria de la Ley de Donaciones con Fines…
+09.05.2003) Ley sobre Impuesto a la Renta � Art. 31, inciso 1� y Art. 8� Ley N� 18.985, de 1990
 
 ## Referencias detectadas
 

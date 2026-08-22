@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ja541.doc">Word Emisi�n de boletas de honorarios para los efectos de impetrar beneficios establecidos en la Ley N� 18.450, de 1985. (Ord. N� 4012, de 18.08.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 8 y N� 9 inciso 2�, 3� y 4� Art. 41 Word Efectos que produce la permuta de derechos sociales en el caso que se indica. (Ord. N� 4011, de 18.08.2003) Ley sobre Impuesto a la Renta � Arts. 18 ter, 42 bis y 42 ter de la LIR y D.L. N� 1328, de 1976 y Ley N� 19.768, de 2001 Word Situaci�n tributaria de part�cipes d…
+18.08.2003) Ley sobre Impuesto a la Renta � Arts. 18 ter, 42 bis y 42 ter de la LIR y D.L. N� 1328, de 1976 y Ley N� 19.768, de 2001
 
 ## Referencias detectadas
 

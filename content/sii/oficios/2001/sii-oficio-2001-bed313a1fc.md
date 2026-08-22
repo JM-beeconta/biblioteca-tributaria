@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja96.htm
 - Hash SHA-256: 21f53e82ba46dda02730f878e966adc46ad925a136dcd46b2b2665100482df55
 
 ## Resumen
 
-Word Tributaci�n de intereses en caso que se indica. Renta� Actual Ley Sobre Impuesto a la � Art. 41� A, letra C), N�1 � Circular N� 52, de 1993 (Ord. N� 178, de 15.01.2001) Word Concepto del Mercado Cambiario Formal para los efectos de lo dispuesto en el N� 1 de la Letra C) del art�culo 41A de la Ley de la Renta. Renta� Actual Ley Sobre Impuesto a la � Art. 14�, Art. 74�, N�4 � Circular N� 53, DE 1990 (Ord. N� 96, de 09.01.2001) Word Retenci�n de impuesto adicional establecida en el art�culo 74 N� 4 de la Ley de…
+Renta� Actual Ley Sobre Impuesto a la � Art. 14�, Art. 74�, N�4 � Circular N� 53, DE 1990 (Ord. N� 96, de 09.01.2001)
 
 ## Referencias detectadas
 

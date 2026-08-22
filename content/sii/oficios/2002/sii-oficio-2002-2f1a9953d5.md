@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-12-26
+- Fecha: 2002-11-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja417.doc
 - Hash SHA-256: 734a80adb55d5d0662731a326f4ae73d2196b455388da9415c99c68752417ebc
 
 ## Resumen
 
-face='arial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4764 de 26 de Diciembre de 2002 Word No es procedente el otorgamiento por este Servicio de un certificado de reciprocidad para efectos de solicitar devoluci�n de IVA en pa�s extranjero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4763 de 26 de Diciembre de 2002. Word Aplicaci�n del art�culo 8� letra m) del D.L. N� 825, a la venta de un cami�n que efect�a un empresario unipersonal del transporte. Ley de Impuesto a las Ventas y Servic…
+Word Aplicaci�n del art�culo 8� letra m) del D.L. N� 825, a la venta de un cami�n que efect�a un empresario unipersonal del transporte.
 
 ## Referencias detectadas
 

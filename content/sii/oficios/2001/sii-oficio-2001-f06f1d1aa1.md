@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-16
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja148.htm
 - Hash SHA-256: 737837d77afd8e3da3b482581f7d04eb37fbb0e8ff0e679db8a4550c8e6f19e2
 
 ## Resumen
 
-stos por Inscripci�n y Transferencia. (Of. N� 759, de 16.02.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y N� 3�, Art. 8� - Codigo Civil, Art. 607, Art. 608. Word IVA en Venta de Derechos de Cuota de Captura del Recurso Hidrobiol�gico, Conocido Como �Jurel�. (Of. N� 568, de 07.02.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8�,Letra G). Word IVA en Arrendamiento de Inmuebles Amoblados, en el que se Suscribe Un Contrato de Arrendami…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 8�,Letra G).
 
 ## Referencias detectadas
 

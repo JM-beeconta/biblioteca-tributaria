@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ados v�a Internet, conforme a lo dispuesto por los Art�culos 30�, 31�, inciso primero y 59�, inciso primero de la Ley de la Renta, e Impuesto al valor Agregado que afecta a la Operaci�n conforme el Art�culo 8�, letra h) del D.L. N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991 � Ley sobre Impuesto a la Renta, Art. 20� N� 1, letras a) y b) � Oficios N�s 2.219, de 1997 y 3.940, de 2004. (Ord. N� 5.132, de 25.11.2004) Word Procedencia de autor…
+Word Procedencia de autorizar Solicitud de Devoluci�n de Cr�dito Fiscal en Virtud del Art�culo 27� bis, soportado en la Adquisici�n de Plantaciones de Bosques de Eucaliptos y Pinos en Pie, adem�s de Instalaciones de Sistemas de Riego y Electrificaci�n entre otros.
 
 ## Referencias detectadas
 

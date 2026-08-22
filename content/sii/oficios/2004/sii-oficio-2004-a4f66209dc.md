@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-26
+- Fecha: 2004-10-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja829.doc
 - Hash SHA-256: f503c0ddb75b003f963528867d84c8100088eff3e361dba807e008855dd8d025
 
 ## Resumen
 
-bre Impuesto a las � Art. 23� � D.S N� 55, de 1977, Art. 43�. (Ord. N� 4.814 de 26.10.2004) Word Utilizaci�n del Cr�dito Fiscal Originado en la Adquisici�n de Veh�culos, cuya venta no se encuentra previamente determinada, cuando algunos de ellos son Vendidos con Posterioridad exentos del Impuesto al valor Agregado. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 17�. (Ord. N� 4.637 de 08.10.2004) Word Impuesto al Valor Agregado en Arrendamiento de Inmuebles Amoblados o…
+Word Impuesto al Valor Agregado en Arrendamiento de Inmuebles Amoblados o con Instalaciones que permitan el Ejercicio de una Actividad Comercial o Industrial
 
 ## Referencias detectadas
 

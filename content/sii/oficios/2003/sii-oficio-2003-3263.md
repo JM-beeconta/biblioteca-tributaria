@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3263
 - Año: 2003
-- Fecha: 2003-07-18
+- Fecha: 2003-07-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja527.doc
 - Hash SHA-256: 569a00f624571e496a3f26d67a4a294b3a059373ab883af0dcddbef75c9bc244
 
 ## Resumen
 
-se curs� la infracci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3670 de 18 de Julio de 2003. Word Imposibilidad de devolver sumas que no han sido trasladadas como impuesto. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3263 de 04 de Julio de 2003.- Word Impuesto al Valor Agregado en arrendamiento de inmuebles amoblados en que se suscribe un contrato de arrendamiento por el inmueble y otro por los muebles. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3261 de 04 de Julio de 2003. Word Impues…
+Word Impuesto al Valor Agregado en arrendamiento de inmuebles amoblados en que se suscribe un contrato de arrendamiento por el inmueble y otro por los muebles.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Oficio N� 3. (Ord. N� 3428, de 17.08.2001) Word Pide aclaraci�n de pronunciamiento anterior. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra a) � D.S. N� 78, de 1986, del Ministerio de Agricultura, Art. 1�, N�17 � Ley N� 18.455, de 1985. (Ord. N� 3427, de 17.08.2001) Word Consulta sobre la tasa del impuesto adicional a las bebidas alcoh�licas aplicable a determinado producto. Ventas y Servicios �…
+Word Consulta sobre la tasa del impuesto adicional a las bebidas alcoh�licas aplicable a determinado producto.
 
 ## Referencias detectadas
 

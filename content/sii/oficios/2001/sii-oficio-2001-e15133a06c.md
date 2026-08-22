@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-22
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja156.htm
 - Hash SHA-256: 88fa3e6d4764ace63fd5802f6742e7a7776b5a76f98a2277ef8eafb7e8eaa495
 
 ## Resumen
 
-rectos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1� al 5�, Art. 40� N� 1� - Art. 2� N� 2� del D. Ley N� 825, de 1974. Word Tributaci�n de Derechos que Percibir� y Cobrar� la Superintendencia de Valores y Seguros por los Conceptos que Indica, Frente a las Normas de la Ley de la Renta y del IVA. (Of. N� 315, de 22.01.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1� Letra B) � Ley N� 18.985, de 1990, Art. 3� Inciso 6�. Word Forma en que Determinan la Renta de su Actividad Tant…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1� Letra B) � Ley N� 18.985, de 1990, Art. 3� Inciso 6�.
 
 ## Referencias detectadas
 

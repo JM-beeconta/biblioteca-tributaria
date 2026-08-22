@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-17
+- Fecha: 2001-08-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3385.doc
 - Hash SHA-256: 3555d35f777149019eed16c5ee2f392ade9f0171a112a212be1fa8f7069c9d76
 
 ## Resumen
 
-puesto a las � Art. 42�, letra a) � D.S. N� 78, de 1986, del Ministerio de Agricultura, Art. 1�, N�17 � Ley N� 18.455, de 1985. (Ord. N� 3427, de 17.08.2001) Word Consulta sobre la tasa del impuesto adicional a las bebidas alcoh�licas aplicable a determinado producto. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 11�, Art. 12�, Art. 16� y Art. 46� � Ley N� 19.633 de 1999. (Ord. N� 3385, de 14.08.2001) Word Depreciaci�n, veh�culos autom�viles, importados al amparo de las partida…
+Word Depreciaci�n, veh�culos autom�viles, importados al amparo de las partidas del Cap�tulo 0 del Arancel Aduanero, para los efectos de aplicar los impuestos establecidos en el D.L. N� 825, de 1974.
 
 ## Referencias detectadas
 

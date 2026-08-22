@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-19
+- Fecha: 2004-04-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja718.doc
 - Hash SHA-256: 29777194ab3884bce1cf1122859fc7ab1e443800918e03ec490fea8630fd6e8b
 
 ## Resumen
 
-e 1998 � Ord. N� 492, de 1995. Word RENTA � ACTUAL LEY SOBRE IMPUESTO A LA � ART. 57� BIS, LETRA A), N�1, ART. 43�, N�1, ART. 52� � LEY N� 19.578, ART. 1�, N�5 � C�DIGO TRIBUTARIO, ART. 8�, N�5 � C�DIGO CIVIL, ART. 252� � CIRCULAR N�71, DE 1998 � ORD. N� 492, DE 1995. (Ord. N� 1.790, de 19.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis � C�digo Tributario, Art. 126�. Word Situaci�n Tributaria de devoluci�n de Remanente de Impuesto. (Ord. N� 1.778, de 16.04.2004) Renta � Actual Ley Sobre Impuesto a…
+Word Situaci�n Tributaria de devoluci�n de Remanente de Impuesto. (Ord. N� 1.778, de 16.04.2004)
 
 ## Referencias detectadas
 

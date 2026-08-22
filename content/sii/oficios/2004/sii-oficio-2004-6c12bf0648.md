@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-12
+- Fecha: 2004-11-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja833.htm
 - Hash SHA-256: 9771f1fb9f236004059a4db14c74a86a619279d050f933e08d5556d4a95f9213
 
 ## Resumen
 
-entre otros. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 4. (Ord. N� 5.005, de 12.11.2004) Word Impuesto al valor Agregado que afecta a Servicio consistente en la Detecci�n de fallas de M�quinas Industriales, mediante Sensores y un sofisticado Analizador de Vibraciones Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, Art. 27� bis � C�digo Tributario, Art. 64�. (Ord. N� 4.913, de 09.11.2004) Word Solicita s…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, Art. 27� bis � C�digo Tributario, Art. 64�. (Ord. N� 4.913, de 09.11.2004)
 
 ## Referencias detectadas
 

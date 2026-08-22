@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-01-29
+- Fecha: 2004-01-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja644.htm
 - Hash SHA-256: 1e532777adc749d8b4899de459d5680ba499d13d9b862c238753dd0341b8bc2e
 
 ## Resumen
 
-cr�dito fiscal en las importaciones, corresponde al monto del impuesto al valor agregado, que se ha recargado en los comprobantes de ingreso de ese tributo, enterado en arcas fiscales. Ley de Impuesto a las Ventas y Servicios. Oficio N� 417 de 29 de Enero de 2004.- Word Aplicaci�n del Impuesto al Valor Agregado a un contrato de �C�digo Compartido�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 296 de 20 de Enero de 2004.- Word Consulta si procede aumentar, a ra�z del alza de tasa del impuesto al valor agrega…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 296 de 20 de Enero de 2004.-
 
 ## Referencias detectadas
 

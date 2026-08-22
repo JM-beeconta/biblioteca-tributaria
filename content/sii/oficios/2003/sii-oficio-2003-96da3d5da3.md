@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-22
+- Fecha: 2003-08-18
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja547.htm
 - Hash SHA-256: b5bb0073eaab47a41d114e8f45b952f8b90821e534e4dd0278f5687596b35370
 
 ## Resumen
 
-ont face="arial" size="2"> Ley sobre Impuesto Territorial - Ley N� 17.235 - Art. 27 � Ley de Concesiones de Obras P�blicas - Ley 19.460- Art. 16 - Decreto N� 900 Word Se ha consultado a esta Direcci�n Nacional sobre la tributaci�n relativa al Impuesto Territorial, de los bienes nacionales de uso p�blico entregados en concesi�n para la construcci�n, conservaci�n, reparaci�n y explotaci�n de una obra p�blica ( Oficio N� 4143 de 22 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. W…
+de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

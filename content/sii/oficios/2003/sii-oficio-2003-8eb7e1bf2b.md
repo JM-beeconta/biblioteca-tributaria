@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-26
+- Fecha: 2003-11-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja603.doc
 - Hash SHA-256: 879ccc8aa173f3c4e77c506948067bc3d43ae5c6842c930b49881d01e3654f36
 
 ## Resumen
 
-14 bis de la Ley de la Renta. (Ord. N� 6060, de 26.11.2003) Ley sobre Impuesto a la Renta � Arts. 21 inciso 3� y 33 N� 1 LIR y 163 y sgtes. del C�digo de Miner�a Word Tratamiento tributario de las cantidades pagadas a t�tulo de patentes mineras. (Ord. N� 5612, de 14.11.2003) Ley sobre Impuesto a la Renta � Art. 63 N� 3 Ley N� 19.712 Word Alcance de la expresi�n �v�nculos patrimoniales� que utiliza en el N� 3 del art�culo 63 de la Ley N� 19.712, sobre Ley del Deporte. (Ord. N� 5611, de 14.11.2003) Ley sobre Impuest…
+Word Alcance de la expresi�n �v�nculos patrimoniales� que utiliza en el N� 3 del art�culo 63 de la Ley N� 19.712, sobre Ley del Deporte. (Ord. N� 5611, de 14.11.2003)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-11-07
+- Fecha: 2001-11-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4336.htm
 - Hash SHA-256: f57d1591c91fc32e86739bc855276f879f4d1dfa4f5d711ce073d98c25226d4e
 
 ## Resumen
 
-a4404.doc'>Word Medidas relacionadas con la aplicaci�n de la Ley N� 19.709. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 12� letra E) N� 11, Art. 17� (Ord. N� 4356, de 07.11.2001) Word Situaci�n tributaria del arriendo de un predio agr�cola con instalaciones de parking y frigor�fico. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 9�, letra e). (Ord. N� 4336, de 05.11.2001) Word Impuesto al Valor Agregado que afecta al…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 9�, letra e). (Ord. N� 4336, de 05.11.2001)
 
 ## Referencias detectadas
 

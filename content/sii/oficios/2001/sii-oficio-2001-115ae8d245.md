@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-10
+- Fecha: 2001-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja180.doc
 - Hash SHA-256: e81045e4868f68e390548d39b9a66d60a4826fc77c7e7ec739c734aa60069fb6
 
 ## Resumen
 
-vo Texto � Ley Impuesto a las � Art. 55�� Circular N� 39�, del 2000 � Res. Ex. N� 6080, de 1999. Word Consulta Sobre Tipo de Documento que se Debe Emitir para el Cobro de Servicios de Consultor�a en Computaci�n que Presta en el Extranjero. (Of. N� 1580, de 10.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 25�, Art. 57� - Decreto Supremo N� 55�, de 1977, Art. 39� - Codigo Tributario, Art. 97� N�16�. Word Solicita Autorizaci�n para Emitir Notas de Cr�dito para Anular Facturas y…
+Word Solicita Autorizaci�n para Emitir Notas de Cr�dito para Anular Facturas y Nota de D�bito Extraviadas y en el Mismo Acto Emitir Nuevos Documentos a Objeto de que sus Clientes Contabilicen Tales Operaciones y Puedan Hacer Uso del Cr�dito Fiscal Correspondiente. (Of. N� 1192, de 20.03.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

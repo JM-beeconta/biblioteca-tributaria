@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-19
+- Fecha: 2004-07-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja779.htm
 - Hash SHA-256: 4a3d25377c152d5e1503c837b5138c098af6d5f308bfab9c7cbf95726f1ad72f
 
 ## Resumen
 
-ze='2'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1990 � C�digo Civil, Art. 909� � Circular N� 53, de 1978. (Ord. N� 3.940 de 19.08.2004) Word Procede autorizar solicitud de Devoluci�n de Cr�dito Fiscal en virtud del art�culo 27� bis, en el caso de una Plantaci�n de 250 Hect�reas de patronales con las habilitaciones de Riego y Electrificaci�n necesarias cuando se encuentran en terrenos arrendados. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impues…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, N� 3 � D.S. de Hacienda, N� 55 de 1977, Art. 43�, N� 5. (Ord. N� 3.483, de 21.07.2004)
 
 ## Referencias detectadas
 

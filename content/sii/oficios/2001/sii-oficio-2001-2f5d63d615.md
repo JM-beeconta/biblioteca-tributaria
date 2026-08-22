@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-02
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja187.htm
 - Hash SHA-256: 0cd221030a71796e0a62e8443112af730cd7b987c5e9af695d156d79297398b2
 
 ## Resumen
 
-nt face='arial' size='1'> Renta - Actual Ley Sobre Impuesto a la - Art. 14�- Resolucion Ex. N� 2.154, de 1991 � Of. N� 2.567, del 2000 y Of. N� 4.355, de 1985. Word Se Absuelve Consultas Relativas a Diferencias Entre Precio de Adquisici�n de Derechos Sociales y el Valor de Libros de los Activos y Pasivos de Sociedad Absorbida por Fusi�n Impropia. (Of. N� 1849, de 02.05.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 53� - Codigo Civil, Art. 150, Art. 1.750. Word Tributaci�n de Mujer Casada en R�gi…
+Renta � Actual Ley Sobre Impuesto a la � Art. 53� - Codigo Civil, Art. 150, Art. 1.750.
 
 ## Referencias detectadas
 

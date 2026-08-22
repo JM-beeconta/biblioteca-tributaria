@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-05
+- Fecha: 2002-09-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja347.doc
 - Hash SHA-256: fbb1e68e231bbbb873ad097850343381f2736726bfe83090be22348df87d1a02
 
 ## Resumen
 
-05.09.2002) Ley sobre Impuesto a la Renta � Art. 36 de la Ley N� 19.518, de 1997 Word Situaci�n tributaria de las Cooperativas frente al cr�dito por gastos de capacitaci�n establecido por la Ley N� 19.518, de 1997. (Ord. N� 3180, de 03.09.2002) Ley sobre Impuesto a la Renta � Art. 34 bis N� 2 LIR y Art. 47 C�digo del Trabajo Word Contribuyentes que tienen derecho a gratificaciones legales, conforme a las normas del C�digo del Trabajo. (Ord. N� 3174, de 03.09.2002) Ley sobre Impuesto a la Renta � Ley N� 19.622, de…
+Word Contribuyentes que tienen derecho a gratificaciones legales, conforme a las normas del C�digo del Trabajo. (Ord. N� 3174, de 03.09.2002)
 
 ## Referencias detectadas
 

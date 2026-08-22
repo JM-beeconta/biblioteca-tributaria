@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4239
 - Año: 2003
-- Fecha: 2003-09-02
+- Fecha: 2003-08-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja554.doc
 - Hash SHA-256: 8ed4b93bd82d87bcd2b38e78596854d759db825aeb7ede1bfb8ac205d8277213
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4268 de 02 de Septiembre de 2003.- Word No corresponde a este Servicio, autorizar o fiscalizar, la legalidad del cobro llamado �cargo de facturaci�n�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4239 de 28 de Agosto de 2003.- Word Emisi�n de documentos tributarios en caso de cesi�n de cr�ditos relacionados con convenios complementarios de concesiones de obras p�blicas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4240 de 28 de Agosto de 2003.- Word…
+Word Emisi�n de documentos tributarios en caso de cesi�n de cr�ditos relacionados con convenios complementarios de concesiones de obras p�blicas.
 
 ## Referencias detectadas
 

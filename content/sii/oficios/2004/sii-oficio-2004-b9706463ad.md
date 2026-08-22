@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r>Tributaci�n con IVA al monto cobrado por la empresa XXXXX S.A., en la adquisici�n de Tarjeta. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra f) � D.S N� 1.139, de 1991, Art. 2�, N� 4. (Ord. N� 4.348 de 16.09 .2004) Word IVA en venta de Predio Agr�cola y de Animales destinados a la Producci�n y al Trabajo. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 13�, N� 6 y 7 � Ley N� 18.933,Art. 21�. (Ord. N� 4.339 de 15.09.2004) Word S…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2, Art. 13�, N� 6 y 7 � Ley N� 18.933,Art. 21�. (Ord. N� 4.339 de 15.09.2004)
 
 ## Referencias detectadas
 

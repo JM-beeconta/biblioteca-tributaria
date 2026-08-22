@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-02
+- Fecha: 2001-01-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja205.doc
 - Hash SHA-256: 64eb6934f5472b607139671c0cc2d972799bafb203985a1b2fe5bf84c8935732
 
 ## Resumen
 
-htm'>Renta � Actual Ley Sobre Impuesto a la � Circular N� 11 de 1988 � Oficios N�s. 2997, de 29.08.86; 4744, de 11.12.87; 3323, de 03.09.93 y 13, de 02.01.2001. (Ord. N� 526, de 05.02.2001) Word Tributaci�n que afecta a los cementerios por ingresos de contratos de promesa de venta y servicios de mantenci�n y sepultaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 54�, N�1, Art. 101� - Circular N� 57, de 1998. (Ord. N� 205, de 17.01.2001) Word Tributaci�n de intereses en caso que se indica. Renta� Actual Ley Sob…
+Word Tributaci�n de intereses en caso que se indica.
 
 ## Referencias detectadas
 

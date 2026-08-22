@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Momento en que se devenga el IVA en las importaciones para efectos de aplicar las multas establecidas en el art�culo 97�, N� 11, del C�digo Tributario. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2639, de 17-07-2002.- Word Tributaci�n aplicable al contrato de Handling de combustible importado a trav�s de la Zona Franca de Iquique. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2638 de 17 de Julio de 2002. Word Tributaci�n que afecta a peluqueros independientes, due�os de salones de belleza o arrendata…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2638 de 17 de Julio de 2002.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-15
+- Fecha: 2001-05-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja201.doc
 - Hash SHA-256: 286c2f1d96221ca96b55fa51e4c287718efed4173468b51281671186cbbca179
 
 ## Resumen
 
-ey Impuesto a las � Art. 2� N� 2, Art. 8� - Ley Sobre Impuesto a la Renta, Art. 20�. Word IVA que Afecta a los Ingresos Obtenidos por una Sociedad An�nima Cerrada por Concepto de Traducci�n de Documentos, Servicios de Int�rprete y Organizaci�n de Eventos. (Of. N� 2029, de 15.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 3�, Art. 8� Letras B) y C) - Ley de la Renta, Art. 5�, Art. 38� Bis. Word Tributaci�n con el Impuesto a la Renta E Impuesto al Valor Agregado, que…
+Word Tributaci�n con el Impuesto a la Renta E Impuesto al Valor Agregado, que Afectar�a a una Sucesi�n, con Ocasi�n del T�rmino de Giro de Un Contribuyente Fallecido, E Inicio de Actividades por Parte de la Misma. (Of. N� 2305, de 23.05.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

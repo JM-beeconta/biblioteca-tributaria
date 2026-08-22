@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-08
+- Fecha: 2004-03-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja703.htm
 - Hash SHA-256: 04cdd805be90b3fe965044c2b89147f20e374ac053c75c47337835aab231eded
 
 ## Resumen
 
-e Cabotaje realizados por empresa Nacional tanto en naves de bandera Chilena como extranjera. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�1, Art. 8�, Letra m). (Ord. N� 1.664, de 08.04.2004.) Word Impuesto al Valor Agregado en la venta de una Cartera de leasing que contiene Bienes Corporales Muebles e inmuebles Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, Art. 6� � Decreto Supremo N� 311, de 1986 � Circulares N�s 29, de 1986 y 32 de 1986. (…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, Art. 6� � Decreto Supremo N� 311, de 1986 � Circulares N�s 29, de 1986 y 32 de 1986. (Ord. N� 1.501, de 30.03.2004)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bonificaci�n establecida en el art�culo 10 de la Ley N� 18.392, de 1985. (Ord. N� 259, de 21.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 letra a) Word Costo tributario de las acciones originadas de la transformaci�n de una sociedad de responsabilidad limitada en sociedad an�nima. (Oficio N� 257, de 21.01.2003) Ley de Impuesto a la Renta. Art�culos 30� y 31�. Situaci�n tributaria de los desembolsos incurridos por empresas que explotan en concesi�n una obra de uso p�blico. (Oficio N� 233, de 20 de Enero de…
+Ley de Impuesto a la Renta. Art�culos 30� y 31�. Situaci�n tributaria de los desembolsos incurridos por empresas que explotan en concesi�n una obra de uso p�blico. (Oficio N� 233, de 20 de Enero del 2003)
 
 ## Referencias detectadas
 

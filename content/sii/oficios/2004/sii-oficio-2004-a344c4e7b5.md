@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-30
+- Fecha: 2004-10-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja833.doc
 - Hash SHA-256: 4de22c0d1234b9d60cadc5d95733f6a556afb7126a5443cff7aa872304c7417c
 
 ## Resumen
 
-, Art.20�, letra c) � D.L. N� 825, de 1974, Art. 8�, letra h) � Circular N� 21, de 1991 � Res. Exenta N� 83, de 30.08.2004 Word Tributaci�n que Afecta al Uso de Imagen de Jugador de F�tbol Profesional. (Ord. N� 4.842, de 28.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N� 1, letra c), Art. 56�, N� 3�, Art. 63� � Circulares N�s 70, de 1998 y 49, del 2001. Word Situaci�n Tributaria de las Utilidades Reinvertidas en una Sociedad An�nima, en el Evento en que dicha Sociedad An�nima se Transforme…
+Word Situaci�n Tributaria de las Utilidades Reinvertidas en una Sociedad An�nima, en el Evento en que dicha Sociedad An�nima se Transforme en Sociedad de Responsabilidad Limitada, conforme a lo dispuesto por la letra c) del N� 1 de la letra A) del Art�culo 14� de la Ley de la Renta. (Ord. N� 4.796, de 25.10.2004)
 
 ## Referencias detectadas
 

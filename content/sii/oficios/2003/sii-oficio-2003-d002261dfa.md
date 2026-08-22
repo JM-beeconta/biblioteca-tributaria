@@ -11,7 +11,7 @@
 
 ## Resumen
 
-8 bis y 54 N� 1 Word Reliquidaci�n de Impuesto Global Complementario en el caso de t�rmino de giro de una empresa. (Ord. N� 2550, de 27.05.2003) Ley sobre Impuesto a la Renta � Art. 55 bis Word Requisitos que se deben cumplir para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 2549, de 27.05.2003) Ley sobre Impuesto a la Renta � Art. 59 de la LIR y Art. 10 D.L. 3.059, de 1979 Word Mantenci�n de exenci�n de impuesto adicional establecida en el art�culo 10 del D.L. N� 3.059, de 1…
+27.05.2003) Ley sobre Impuesto a la Renta � Art. 59 de la LIR y Art. 10 D.L. 3.059, de 1979
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-30
+- Fecha: 2004-04-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja729.htm
 - Hash SHA-256: b09b3dc895c62237928deda72ec205bf9370b8d6c1211e70e86a6b1aaa93c3e6
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42�, Art. 78� � D.S., N� 268, de Hacienda, de 1976 � Res. Ex. N� 6.509, de 1993. Word Retenci�n Impuesto Unico de Segunda Categor�a en caso de Chilenos que trabajan en Representaciones Diplom�ticas Extranjeras, residentes en Chile. (Ord. N� 2.000, de 30.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art. 14�, Letra A), N� 3 � C�digo Tributario, Arts. N�s 66�, 68�, 69�, 74�, N� 1 2 y 4, 78� y 79� � Res. Ex. N� 2.154, de 1991 Word Contribuyentes obligados a…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art. 14�, Letra A), N� 3 � C�digo Tributario, Arts. N�s 66�, 68�, 69�, 74�, N� 1 2 y 4, 78� y 79� � Res. Ex. N� 2.154, de 1991
 
 ## Referencias detectadas
 

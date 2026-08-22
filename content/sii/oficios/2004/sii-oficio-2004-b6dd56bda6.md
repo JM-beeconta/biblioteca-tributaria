@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-28
+- Fecha: 2004-07-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja781.htm
 - Hash SHA-256: 31a1399e6696ef80c53c7f9e50d2ce3e2431982f4f9c52475874acef310ce2d3
 
 ## Resumen
 
-ales que se Indican. (Ord. N� 3.583, de 28.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b) y N� 9 � C�digo Civil, Art. 1.401� � Ley N� 16.271. Word Tributaci�n que afecta a Donaci�n de Saldo de precio en Venta de un Inmueble. (Ord. N� 3.529, de 23.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17, N� 8, Art. 18� � Ley N� 13.305, Art. 103� � Ley N� 16.773, Art. 18� � Circular N� 158, de 1976 � Word Apreciaci�n de Habitualidad en la Enajenaci�n de Acciones de Sociedades cuyo capita…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17, N� 8, Art. 18� � Ley N� 13.305, Art. 103� � Ley N� 16.773, Art. 18� � Circular N� 158, de 1976 �
 
 ## Referencias detectadas
 

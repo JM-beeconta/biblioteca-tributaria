@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja210.htm
 - Hash SHA-256: 3f66b0cc68854711417c2640bf99948b6ae9d1b4f56682de075df09af5635017
 
 ## Resumen
 
-N� 3.475, de 1980, Cuando Importaci�n se Paga con Tarjeta de Cr�dito. (Of. N� 2462, de 06.06.2001. Depto. de T�cnica Tributaria). C�digo Tributario � Actual Texto � Art.17� y 18� - Oficio N� 3.839, de 29.09.2000 y Reservado N� 69, de 27.05.1999. Word Alcance de la Autorizaci�n para Llevar Contabilidad en Moneda Extranjera. (Of. N� 2453, de 05.06.2001 � I. Directos). Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art.30�, Art. 36�, Art. 37� - Circular N� 19, de 1999. Wo…
+. Directos). Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art.30�, Art. 36�, Art. 37� - Circular N� 19, de 1999.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3
 - Año: 2004
-- Fecha: 2004-06-08
+- Fecha: 2004-06-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja748.doc
 - Hash SHA-256: 03044072179a053329ce985c925e7843c44d4c3a361450960c258935fe49e76e
 
 ## Resumen
 
-bajo, Art. 4� � Oficios N�s 684 y 2.999, de 1999. Word C�mputo del Plazo para el c�lculo de monto No Constitutito de Renta de Indemnizaciones por A�os de Servicio en situaci�n prevista en el Art�culo 4�, del C�digo del Trabajo. (Ord. N� 2.566, de 08.06.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, N�2, Art. 15�, Art. 29�, Art. 30�, Art. 31�, Art. 33� � Oficio N� 3.255, de 1977. Word Condiciones en que se Acepta la Provisi�n de Gastos por parte de una Empresa de Distribuci�n de Energ�a El�ctrica. (Ord. N�…
+Word Condiciones en que se Acepta la Provisi�n de Gastos por parte de una Empresa de Distribuci�n de Energ�a El�ctrica. (Ord. N� 2.585, de 10.06.2004)
 
 ## Referencias detectadas
 

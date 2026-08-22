@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-08
+- Fecha: 2004-03-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja668.htm
 - Hash SHA-256: cb50c2618b153a0b80a2d1ea5e66fa27675af1ce5d31cf2d4547914933ea0503
 
 ## Resumen
 
-utaci�n de suma pagada seg�n Convenio Colectivo que se indica. (Ord. N� 1158, de 08.03.2004) Ley sobre Impuesto a la Renta � Art. 31 inciso primero LIR Word Calificaci�n como gasto necesario para producir la renta de los desembolsos que indica en su presentaci�n. (Ord. N� 1118, de 04.03.2004) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Requisitos para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1117, de 04.03.2004) Ley sobre Impuesto a la Renta � Arts. 31 N� 3 y 90…
+Ley sobre Impuesto a la Renta � Art. 55 bis LIR
 
 ## Referencias detectadas
 

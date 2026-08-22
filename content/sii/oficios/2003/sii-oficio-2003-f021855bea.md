@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto a la Renta � Ley N� 19.622 Word Improcedencia del uso de la franquicia tributaria de la Ley N� 19.622, de 1999, en el caso que se indica. (Ord. N� 1739, de 23.04.2003) Ley sobre Impuesto a la Renta � Art. 41 bis Word Procedimiento de c�lculo de intereses provenientes de dep�sitos bancarios. (Ord. N� 1738, de 23.04.2003) Ley sobre Impuesto a la Renta � Art. 14 Letra A) N� 1 letra c) Word Concepto de patrimonio neto a que se refiere la letra c) del N� 1 de la Letra A) del art�culo 14 de la Ley de la Renta (Or…
+23.04.2003) Ley sobre Impuesto a la Renta � Art. 14 Letra A) N� 1 letra c)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 107
 - Año: 2002
-- Fecha: 2002-01-11
+- Fecha: 2002-01-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja247.doc
 - Hash SHA-256: fc4197a64ed9c47aabde86ecd8c315850c92c5a843f9250ff9eba5051c417339
 
 ## Resumen
 
-art�culo 2� transitorio de la Ley N� 19.768 del a�o 2001. (Oficio N� 155, de 11 de enero de 2002). Ley Sobre Impuesto a la Renta. Word Tributaci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 154, de 11 de enero de 2002). Ley Sobre Impuesto a la Renta - Art. 101. Word Rentas que debe informar al SII el Banco Central de Chile, conforme a lo dispuesto por el art�culo 101 de la Ley de la Renta. (Oficio N� 107, de 10 de enero de 2002).
+Word Rentas que debe informar al SII el Banco Central de Chile, conforme a lo dispuesto por el art�culo 101 de la Ley de la Renta. (Oficio N� 107, de 10 de enero de 2002).
 
 ## Referencias detectadas
 

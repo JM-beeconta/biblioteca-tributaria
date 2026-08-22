@@ -11,7 +11,7 @@
 
 ## Resumen
 
-07.2003) Ley sobre Impuesto a la Renta �Art. 20 de la LIR y Art. 36 Ley N� 19.518 Word Procedencia de las Corporaciones Municipales constituidas al amparo del Decreto con Fuerza de Ley 1-3.063, del Ministerio del Interior, de 1980 , para acogerse a la franquicia tributaria contenida en el art�culo 36 de la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo. (Ord. N� 3671, de 18.07.2003) Ley sobre Impuesto a la Renta � Arts. 84 y Art. 100 Word Tratamiento tributario de los fondos que administran los agentes ope…
+18.07.2003) Ley sobre Impuesto a la Renta � Arts. 84 y Art. 100
 
 ## Referencias detectadas
 

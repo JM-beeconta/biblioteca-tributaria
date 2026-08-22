@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley sobre Impuesto a la Renta � art. 42 bis. Word L�mite hasta el cual ascienden los ahorros previsionales voluntarios efectuados directamente por los afiliados a las instituciones recaudadoras autorizadas, conforme al art�culo 42 bis de la Ley de la Renta. (Ord. N� 1536, de 13.05.2002) Ley sobre Impuesto a la Renta � arts. 3�, 10�, 11� y 59� N� 2 de la Ley de la Renta y arts. 5� y 12 Letra E N� 7 del D.L. N� 825, de 1974. Word Tributaci�n aplicable a Operadores Directos, respecto de transacciones de valores extra…
+Word Tributaci�n aplicable a Operadores Directos, respecto de transacciones de valores extranjeros efectuadas a trav�s de Corredores de Bolsa en el pa�s. (Ord. N� 1529, de 10.05.2002)
 
 ## Referencias detectadas
 

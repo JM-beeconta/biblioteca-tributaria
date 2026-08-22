@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ficio N� 3847, de 24-09-2001. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1195 de 11 de Abril de 2002. Word Impuesto al valor agregado aplicable a �Contrato de estudios, ingenier�a de detalles, Central Hidroel�ctrica�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1172 de 11 de Abril de 2002. Word Impuesto al valor agregado que afecta a subsidios entregados por el Programa de Asistencia y Modernizaci�n de la Miner�a Artesanal (PAMMA). Ley de Impuesto a las Ventas y Servicios. Oficio N� 1137 de 05 de…
+Word Impuesto al valor agregado que afecta a subsidios entregados por el Programa de Asistencia y Modernizaci�n de la Miner�a Artesanal (PAMMA).
 
 ## Referencias detectadas
 

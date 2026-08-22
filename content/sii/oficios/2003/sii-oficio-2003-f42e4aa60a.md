@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Ord. N� 6237, de 10.12.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 2; 39 N�s. 1 y 4; 56 N� 3 y 63 de la LIR Word Tributaci�n de sociedad de inversiones cuyo objeto exclusivo ser� la inversi�n en capitales mobiliarios. (Ord. N� 6235, de 10.12.2003) Ley sobre Impuesto a la Renta � Arts. 41 N� 9 de la LIR y Art. 64 C�digo Tributario Word Tributaci�n de enajenaci�n de derechos sociales efectuada por contribuyente obligado a determinar su renta efectiva seg�n contabilidad completa. (Ord. N� 6234, de 10.12.2003)…
+Word Tributaci�n de enajenaci�n de derechos sociales efectuada por contribuyente obligado a determinar su renta efectiva seg�n contabilidad completa. (Ord. N� 6234, de 10.12.2003)
 
 ## Referencias detectadas
 

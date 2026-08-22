@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1096
 - Año: 2003
-- Fecha: 2003-05-12
+- Fecha: 2003-03-27
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja534.doc
 - Hash SHA-256: 511ec2a4866ef47ecfaf638dff6a1fd82babb9b66d4f3aa123fc813ab17f4a6a
 
 ## Resumen
 
-de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicitud de devoluci�n de Impuesto de Timbres y Estampillas pagado como consecuencia de un contrato de mutuo hipotecario endosable resciliado. ( Oficio N� 2432 de 12 de Mayo de 2003). Decreto Ley N� 3475, Impuesto de Timbres y Estampillas. Word Aclaraci�n de Oficio N� 255 de 21.01.2003 sobre c�lculo del Impuesto de Ley de Timbres y Estampillas sobre Pagar�s en cuotas. ( Oficio N� 1096 de 27 de Marzo de 2003).- Decreto Ley N� 3.475, Imp…
+Word Aclaraci�n de Oficio N� 255 de 21.01.2003 sobre c�lculo del Impuesto de Ley de Timbres y Estampillas sobre Pagar�s en cuotas. ( Oficio N� 1096 de 27 de Marzo de 2003).-
 
 ## Referencias detectadas
 

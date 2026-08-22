@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27� � Convenci�n de Viena sobre Derecho de los Tratados, Art. 24�, p�rrafo 1� � C�digo Civil, Art. 7� � C�digo Tributario, Art. 3�. Word Fecha de Entrada en Vigencia de Convenio de Doble Tributaci�n con Espa�a. (Ord. N� 1.113, de 04.03.2004) Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Aplicabilidad del art�culo 15� N�2 de la Ley sobre Impuesto de Timbres y Estampillas, respecto de documentos representativos…
+Word Aplicabilidad del art�culo 15� N�2 de la Ley sobre Impuesto de Timbres y Estampillas, respecto de documentos representativos de operaciones de cr�dito de dinero cuyo beneficiario o acreedor es un Fondo de Inversiones de la Ley N�18.815. ( Oficio N� 632 de 04 de Febrero de 2004)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/a> Tratamiento tributario del pago anticipado de colegiaturas percibidas por un colegio particular. Renta � Actual Ley Sobre Impuesto a la � Ordinarios N� 3.468, de 1995 y 2.100, de 1996. (Ord. N� 3595, de 29.08.2001) Word Fecha de adquisici�n de predio agr�cola asignado a nueva sociedad resultante de la divisi�n de una sociedad de personas. Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.110, Art. 2� � Ley N� 17.169, Art. 15�. (Ord. N� 3591, de 29.08.2001) Word Sujeto del impuesto establecido en el art�culo 2…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.110, Art. 2� � Ley N� 17.169, Art. 15�. (Ord. N� 3591, de 29.08.2001)
 
 ## Referencias detectadas
 

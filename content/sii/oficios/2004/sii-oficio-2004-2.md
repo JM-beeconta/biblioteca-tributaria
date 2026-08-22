@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2004
-- Fecha: 2004-10-21
+- Fecha: 2004-10-15
 - Categoría: Renta, IVA, Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja828.doc
 - Hash SHA-256: 6b1e29b1405120fc55edcb0dcf8eaed94260f7ce7b8340de1f19b7d1c6499c08
 
 ## Resumen
 
-="2"> Convenio Marco relativo a la Ejecuci�n de la Ayuda Financiera y T�cnica y de la Cooperaci�n Econ�mica en Chile suscrito entre el Gobierno de Chile y la Comunidad Europea. Word Consulta respecto de aplicaci�n de exenci�n tributaria contenida en el Convenio Marco con la Uni�n Europea. (Ord. N� 4771, de 21.10.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3� � Oficio N� 2.436, de 2002. Word Impuesto de Timbres y Estampillas aplicable a las Importaciones. Art�culo 3�, del Decreto Ley N…
+Word Impuesto de Timbres y Estampillas aplicable a las Importaciones. Art�culo 3�, del Decreto Ley N� 3.475, de 1980. ( Ord. N� 4.717, de 15.10.2004)
 
 ## Referencias detectadas
 

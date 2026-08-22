@@ -11,7 +11,7 @@
 
 ## Resumen
 
-go Tributario, Art. 69� � Ley N� 18.046, de 1981, Art. 99. (Ord. N� 4276, de 26.10.2001) Word Efectos tributarios en caso de fusi�n por absorci�n de una sociedad que mantiene remanentes de cr�dito fiscal. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.518, de 1997, Art. 36� � Decreto Supremo N� 98, de 1998, del Ministerio del Trabajo y Previsi�n Social � Circular N� 19, de 1999. (Ord. N� 4275, de 26.10.2001 Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n…
+Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n.
 
 ## Referencias detectadas
 

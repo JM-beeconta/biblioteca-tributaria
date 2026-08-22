@@ -11,7 +11,7 @@
 
 ## Resumen
 
-" width="630"> A�os Anteriores OTRAS 2002 En esta p�gina encontrar� diversos pronunciamientos del Servicio referido a consultas generales de car�cter tributario. Decreto Ley N� 3.475, sobre Impuesto de Timbres y Estampillas. Word Tasa m�xima de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito destinadas a la adquisici�n o construcci�n de viviendas D.F.L. 2. ( Oficio N� 4668 de 19 de Noviembre de 2002). Oficio N� 3.770 de 10/10/2002 Word Consulta respecto del procedimiento para…
+Decreto Ley N� 3.475, sobre Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

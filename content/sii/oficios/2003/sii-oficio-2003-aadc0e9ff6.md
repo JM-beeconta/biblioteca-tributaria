@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-11
+- Fecha: 2003-07-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja530.htm
 - Hash SHA-256: e325beca82b956f84d3f0dc93129b6fc63860b5a4de6888f8522c6f17ff5a0b4
 
 ## Resumen
 
-fondos mutuos en caso que se indica. (Ord. N� 3928, de 11.08.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 42, N� 2 inciso 3� de la LIR y Art. 36 Ley N� 19.518 Word Franquicia tributaria por gastos de capacitaci�n en el caso de sociedades de profesionales que optan por tributar acogidas a las normas de la Primera Categor�a. (Ord. N� 3819, de 31.07.2003) Ley sobre Impuesto a la Renta �Art. 20 de la LIR y Art. 36 Ley N� 19.518 Word Procedencia de las Corporaciones Municipales constituidas al amparo del Decre…
+31.07.2003) Ley sobre Impuesto a la Renta �Art. 20 de la LIR y Art. 36 Ley N� 19.518
 
 ## Referencias detectadas
 

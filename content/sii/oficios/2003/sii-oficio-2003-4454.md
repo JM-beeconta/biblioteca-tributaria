@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4454
 - Año: 2003
-- Fecha: 2003-09-11
+- Fecha: 2003-09-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja557.doc
 - Hash SHA-256: 28584bf704bd429c8bb734e650be37e52076962c31b732881063ce1f7ec8a27e
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4492 de 11 de Septiembre de 2003.- Word IVA en los servicios de inspecci�n y certificaci�n de instalaciones interiores de gas de viviendas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4454 de 09 de Septiembre de 2003. Word Exenci�n de impuestos contenida en el art�culo VI del Tratado de Paz, Amistad y Comercio suscrito entre el Gobierno de Chile y el Gobierno de Bolivia, en el a�o 1904. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4268 de 02 de Sep…
+Word Exenci�n de impuestos contenida en el art�culo VI del Tratado de Paz, Amistad y Comercio suscrito entre el Gobierno de Chile y el Gobierno de Bolivia, en el a�o 1904.
 
 ## Referencias detectadas
 

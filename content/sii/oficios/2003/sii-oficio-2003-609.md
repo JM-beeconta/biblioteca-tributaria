@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 609
 - Año: 2003
-- Fecha: 2003-02-24
+- Fecha: 2003-02-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja443.doc
 - Hash SHA-256: c503842f412cf56a71ab7e62f3ea7879fef31d973929f0d933ed3e24ca0b0b21
 
 ## Resumen
 
-nal de carga. Ley de Impuesto a las Ventas y Servicios. Oficio N� 619 de 24 de Febrero de 2003. Word Solicitud de reconsideraci�n del Oficio Ord. N� 3.365 del 12 de Septiembre del 2002. Ley de Impuesto a las Ventas y Servicios. Oficio N� 609 de 20 de Febrero de 2003. Word Impuesto al Valor Agregado en suministro de energ�a el�ctrica que es prestado entre empresas generadoras de electricidad como consecuencia de la operatoria del Sistema Interconectado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 561 de 14…
+Word Impuesto al Valor Agregado en suministro de energ�a el�ctrica que es prestado entre empresas generadoras de electricidad como consecuencia de la operatoria del Sistema Interconectado.
 
 ## Referencias detectadas
 

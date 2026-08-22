@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-25
+- Fecha: 2004-11-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja834.htm
 - Hash SHA-256: 8bd93163959e212279286cd0854a128e2b334bd9037b31dddb635ef1e64d903e
 
 ## Resumen
 
-exto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991 � Ley sobre Impuesto a la Renta, Art. 20� N� 1, letras a) y b) � Oficios N�s 2.219, de 1997 y 3.940, de 2004. (Ord. N� 5.132, de 25.11.2004) Word Procedencia de autorizar Solicitud de Devoluci�n de Cr�dito Fiscal en Virtud del Art�culo 27� bis, soportado en la Adquisici�n de Plantaciones de Bosques de Eucaliptos y Pinos en Pie, adem�s de Instalaciones de Sistemas de Riego y Electrificaci�n entre otros. Ventas y Servicios � Nuevo Texto �…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 4. (Ord. N� 5.005, de 12.11.2004)
 
 ## Referencias detectadas
 

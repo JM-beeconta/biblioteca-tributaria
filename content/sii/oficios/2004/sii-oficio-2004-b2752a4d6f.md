@@ -11,7 +11,7 @@
 
 ## Resumen
 
-D.L. N� 1.277, de 1975. (Ord. N�2.564, de 08.06.2004) Word Aplicaci�n de la Exenci�n de impuesto, establecida en Art. 91�, de la Ley N� 18.961, Org�nica Constitucional de Carabineros de Chile, al Tributo del Art. 6�, de la Ley N�18.502. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 36� � C�digo Tributario, Art. 126�, N� 3 � D.S. N� 348, de 1975, Art. 2� � D.L. N� 3.059, Art. 7�. (Ord. N� 2.563, de 08.06.2004) Word Recuperaci�n del Impuesto al valor Agregado, en virtud del art�culo 36�,…
+Word Recuperaci�n del Impuesto al valor Agregado, en virtud del art�culo 36�, del D.L. N� 825, efectuado por Empresa Naviera Extranjera, por Concepto de Cr�dito Fiscal soportado en la utilizaci�n de Servicio de Remolcadores, facturado con posterioridad al Zarpe de la Nave.
 
 ## Referencias detectadas
 

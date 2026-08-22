@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-01-11
+- Fecha: 2002-01-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja247.htm
 - Hash SHA-256: a7d295d5af9ace5336adbcc19c40470f28971661eb4f4a20c2d4ff9c5c7b27e1
 
 ## Resumen
 
-> Forma de acogerse al r�gimen tributario opcional que establece el art�culo 2� transitorio de la Ley N� 19.768 del a�o 2001. (Oficio N� 155, de 11 de enero de 2002). Ley Sobre Impuesto a la Renta. Word Tributaci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 154, de 11 de enero de 2002). Ley Sobre Impuesto a la Renta - Art. 101. Word Rentas que debe informar al SII el Banco Central de Chile, conforme a lo dispuesto por el art�culo 101 de la Ley de la Renta. (Oficio N� 107, de 10…
+Ley Sobre Impuesto a la Renta - Art. 101.
 
 ## Referencias detectadas
 

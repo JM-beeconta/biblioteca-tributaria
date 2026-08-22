@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-13
+- Fecha: 2001-01-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja161.doc
 - Hash SHA-256: 7a493fbd372efab1cdcf285fba2de744493c2160cbbb9698e5122e099cfb9e35
 
 ## Resumen
 
-tual Ley Sobre Impuesto a la - Art. 2� N� 2� y 3�, Art. 29� - D.F.L. de Hacienda N� 251�, de 1931, Art. 61� - D. Supremo de Hacienda N� 863, de 1990. Word Oportunidad en que se Devenga el Ingreso Proveniente del Cumplimiento de Un Contrato de Seguro. (Of. N� 988, de 13.03.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 54� N� 1�, Art. 101� - Circular N� 57�, de 1998 � Resoluciones N� 5111, de 1995 y N� 6509, de 1993. Word Tributaci�n de Intereses Provenientes de una Operaci�n de Captaci�n. (Of. N�…
+Word Tributaci�n de Intereses Provenientes de una Operaci�n de Captaci�n. (Of. N� 205, de 17.01.2001 � I. Directos).
 
 ## Referencias detectadas
 

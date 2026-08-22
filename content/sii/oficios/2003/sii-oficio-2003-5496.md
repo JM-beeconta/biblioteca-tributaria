@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5496
 - Año: 2003
-- Fecha: 2003-11-12
+- Fecha: 2003-11-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja601.doc
 - Hash SHA-256: 2f8dfc4a963738a1d55f63977f20afd138d054ec31545ed142e759add639cd47
 
 ## Resumen
 
-guros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5583 de 12 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de provisi�n de personal. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5496 de 06 de Noviembre de 2003.- Word Aclaraci�n de Oficio N� 3255 de 2002, de este Servicio e interpretaci�n de la expresi�n �correspondiente factura�, contenida en el inciso final del art�culo 3�, del D.F.L. N� 90, del Ministerio del Trabajo y Previsi�n Social. Ley de Impuesto a la…
+Word Aclaraci�n de Oficio N� 3255 de 2002, de este Servicio e interpretaci�n de la expresi�n �correspondiente factura�, contenida en el inciso final del art�culo 3�, del D.F.L. N� 90, del Ministerio del Trabajo y Previsi�n Social.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-04
+- Fecha: 2004-01-08
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja707.htm
 - Hash SHA-256: 502d8193aa52a34ab3390c54ccc31757a891fae84d79448c48b0fc4daad89cff
 
 ## Resumen
 
-004) Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Aplicabilidad del art�culo 15� N�2 de la Ley sobre Impuesto de Timbres y Estampillas, respecto de documentos representativos de operaciones de cr�dito de dinero cuyo beneficiario o acreedor es un Fondo de Inversiones de la Ley N�18.815. ( Oficio N� 632 de 04 de Febrero de 2004) Donaciones � Ley N� 19.885 � Art. 11� � Circular N� 55, de 2003. Word Sentido y Alcance del T�rmino �contraprestaciones� del Art�culo 11�, de la Ley N� 19.885. (Ord.…
+ero de 2004) Donaciones � Ley N� 19.885 � Art. 11� � Circular N� 55, de 2003.
 
 ## Referencias detectadas
 

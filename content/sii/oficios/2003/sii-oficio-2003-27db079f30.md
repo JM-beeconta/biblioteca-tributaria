@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ey N� 13.713, de 1959, complementada por el art�culo 14 del Decreto Ley N� 1604, de 1976. (Ord. N� 1016, de 20.03.2003) Ley sobre Impuesto a la Renta � Arts. 21 y 33 N� 1 de la LIR Word Tratamiento tributario de pagos efectuados al Estado por bienes o derechos utilizados en concesi�n de obra p�blica, en caso de su transferencia a un tercero. (Ord. N� 1015, de 20.03.2003) Ley sobre Impuesto a la Renta � Arts. 31 N� 9 y 41 de la LIR y Art. 24 D.L. N� 3.063/79 Word Competencia del Servicio respecto de la determinaci�…
+20.03.2003) Ley sobre Impuesto a la Renta � Arts. 31 N� 9 y 41 de la LIR y Art. 24 D.L. N� 3.063/79
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-23
+- Fecha: 2002-07-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja320.htm
 - Hash SHA-256: 2a4288b9a3998f3df51cbd60d941476d05c325af5974211cec502b64bb16f6a9
 
 ## Resumen
 
-rranque de maleza y apilamiento de las mismas, ejecutados por empresas operadoras en el marco de un Plan de Manejo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2698 de 23 de Julio de 2002. Word Consultas referidas a la interpretaci�n de la modificaci�n introducida por la Ley N� 19.738 en la letra m) del art�culo 8� del D.L. N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2665 de 19 de Julio de 2002. Word Tratamiento tributario aplicable a las inversiones materializadas en forma de apor…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2665 de 19 de Julio de 2002.
 
 ## Referencias detectadas
 

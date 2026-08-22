@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-31
+- Fecha: 2003-07-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja530.doc
 - Hash SHA-256: 015dc28836f80acc1d0d759e38c4ad57a35326978da0f3a8a2cf971a0a60152e
 
 ## Resumen
 
-align="JUSTIFY"> Ley sobre Impuesto a la Renta � Arts. 20 N� 5 y 42, N� 2 inciso 3� de la LIR y Art. 36 Ley N� 19.518 Word Franquicia tributaria por gastos de capacitaci�n en el caso de sociedades de profesionales que optan por tributar acogidas a las normas de la Primera Categor�a. (Ord. N� 3819, de 31.07.2003) Ley sobre Impuesto a la Renta �Art. 20 de la LIR y Art. 36 Ley N� 19.518 Word Procedencia de las Corporaciones Municipales constituidas al amparo del Decreto con Fuerza de Ley 1-3.063, del Ministerio del I…
+Word Procedencia de las Corporaciones Municipales constituidas al amparo del Decreto con Fuerza de Ley 1-3.063, del Ministerio del Interior, de 1980 , para acogerse a la franquicia tributaria contenida en el art�culo 36 de la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo. (Ord. N� 3671, de 18.07.2003)
 
 ## Referencias detectadas
 

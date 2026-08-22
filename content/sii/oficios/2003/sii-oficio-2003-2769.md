@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2769
 - Año: 2003
-- Fecha: 2003-06-12
+- Fecha: 2003-06-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja504.doc
 - Hash SHA-256: 1cdc7718ea4a8b6b9bf85e6afb89d58a95a854a3a0efa11c9cc1e5315642940c
 
 ## Resumen
 
-a la que correspond�a. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2985 de 12 de Junio de 2003. Word Aplicaci�n de IVA a cesi�n de contrato de prestaci�n de servicios que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2769 de 03 de Junio de 2003. Word Implicancias tributarias de las asignaciones de carros bomba efectuadas por la Junta Nacional de Cuerpos de Bomberos a los cuerpos de bomberos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2574 de 29 de Mayo de 2003. Word Utilizaci�n del c…
+Word Implicancias tributarias de las asignaciones de carros bomba efectuadas por la Junta Nacional de Cuerpos de Bomberos a los cuerpos de bomberos.
 
 ## Referencias detectadas
 

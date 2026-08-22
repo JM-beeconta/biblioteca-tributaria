@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.doc'>Word Solicita autorizaci�n para calcular el Impuesto al Valor Agregado causado en la importaci�n de bananos, sobre el valor CIF de los mismos y no sobre su valor aduanero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Oficio N� 3. (Ord. N� 3428, de 17.08.2001) Word Pide aclaraci�n de pronunciamiento anterior. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra a) � D.S. N� 78, de 1986, del Ministerio de Agricultura, Art. 1�, N�17 � Ley N� 18.455, de 198…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra a) � D.S. N� 78, de 1986, del Ministerio de Agricultura, Art. 1�, N�17 � Ley N� 18.455, de 1985. (Ord. N� 3427, de 17.08.2001)
 
 ## Referencias detectadas
 

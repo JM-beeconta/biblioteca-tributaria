@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-12
+- Fecha: 2004-11-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja838.htm
 - Hash SHA-256: 57c670abbb14841769f34620e42f182ea791efcc524f1f434050d94dc82f4d6d
 
 ## Resumen
 
-ont> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, Art. 45�, Art. 46� � Circular N� 37, de 1990. (Ord. N� 5.006, de 12.11.2004) Word Tributaci�n que Afecta a Bono de Antig�edad Pagado seg�n Contrato Colectivo, seg�n lo dispuesto por los Art�culos 45� y 46� de la Ley de la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Decreto Ley N�3.500, de 1980, Art. 71� � Ley N� 19.768, Art. 1� y 6� transitorios. Word Situaci�n tributaria de Excedente de Libre Disposici�n que se Indica. (Ord…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Decreto Ley N�3.500, de 1980, Art. 71� � Ley N� 19.768, Art. 1� y 6� transitorios.
 
 ## Referencias detectadas
 

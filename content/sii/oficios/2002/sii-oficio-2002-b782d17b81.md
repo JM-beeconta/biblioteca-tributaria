@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-02-28
+- Fecha: 2002-02-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja254.htm
 - Hash SHA-256: cc46f7a19455e6923d56f4808de5964ff61648881a3e62d0dbb0a5a3505deb2c
 
 ## Resumen
 
-n referente a la Red Vial Nacional (Infraestructura, Medio Ambiente, Riesgos Naturales)�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 734, de 28 de Febrero de 2002.- Word No se encuentra afecta a IVA, la entrega gratuita de alimentaci�n al personal de su dependencia, por un establecimiento cuyo giro es el expendio de comidas y bebidas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 669, de 21 de febrero de 2002.- Word Solicita pronunciamiento sobre procedimiento para regularizar facturas emitidas y no…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 669, de 21 de febrero de 2002.-
 
 ## Referencias detectadas
 

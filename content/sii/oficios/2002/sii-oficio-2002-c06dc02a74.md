@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2-2001, relativo a Impuesto al Valor Agregado que afecta a las comisiones por administraci�n del Seguro de Cesant�a, establecido en la Ley N� 19.728. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3398 de 16 de Septiembre de 2002. Word Tributaci�n aplicable a los contratos de cesi�n de uso de inmuebles, bajo la modalidad de tiempo compartido. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3397 de 16 de Septiembre de 2002. Word Aplicaci�n del Impuesto al Valor Agregado a los servicios descritos en la pres…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3397 de 16 de Septiembre de 2002.
 
 ## Referencias detectadas
 

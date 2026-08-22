@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-28
+- Fecha: 2004-12-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja858.doc
 - Hash SHA-256: 0f9cc3b9e404742c6d18d6ea7cf3be1c827b5e1feef0c19dbc77b316a3d76da3
 
 ## Resumen
 
-nt face="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 31�. Word Situaci�n Tributaria de Gastos Incurridos con Motivo de la Celebraci�n de un Contrato de Publicidad, conforme a las Normas del Art�culo 31�, de la Ley de la Renta. (Oficio N� 5.433, de 28.12.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.518, Art. 30�, Art. 36� � Word Condiciones que deben cumplirse para que las empresas puedan invocar el Cr�dito Sence, respecto de la Capacitaci�n impartida a los Propietarios o so…
+Word Condiciones que deben cumplirse para que las empresas puedan invocar el Cr�dito Sence, respecto de la Capacitaci�n impartida a los Propietarios o socios de las Empresas, de acuerdo a las normas de la Ley N�19.518,de 1997. (Oficio N� 5.424, de 27.12.2004)
 
 ## Referencias detectadas
 

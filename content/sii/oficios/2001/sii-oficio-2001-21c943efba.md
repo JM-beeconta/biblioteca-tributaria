@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 17� N�9. Word Tributaci�n que Afecta a las Ofrendas Religiosas. (Of. N� 316, de 22.01.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 14�, Art. 21� - Codigo Tributario, Art. 8� N� 13�, Art. 69� - Circular N� 17�, de 1995. Word Efectos Tributarios de la Transformaci�n de una Sociedad An�nima en una Sociedad de Responsabilidad Limitada. (Of. N� 313, de 22.01.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 74 N…
+Word Efectos Tributarios de la Transformaci�n de una Sociedad An�nima en una Sociedad de Responsabilidad Limitada. (Of. N� 313, de 22.01.2001- I. Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-11-13
+- Fecha: 2001-11-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4404.htm
 - Hash SHA-256: 5c1b5dcb4e9b79ca23734e3763382c5b131b03e0fed70eeefdcb8772e00ed8df
 
 ## Resumen
 
-to en el cual se produce la exportaci�n en la situaci�n que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�, Art. 13�, N�3. (Ord. N� 4441, de 13.11.2001) Word Impuesto al Valor Agregado en los ingresos percibidos por la adquisici�n de kil�metros del Programa Pasajeros Frecuentes de empresa a�rea. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.709 de Zona Franca de Tocopilla � Circular 48, de 2001. (Ord. N� 4404, de 09.11.2001) Word…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.709 de Zona Franca de Tocopilla � Circular 48, de 2001. (Ord. N� 4404, de 09.11.2001)
 
 ## Referencias detectadas
 

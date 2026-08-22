@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Sociedades An�nimas � Art. 96� � Ley de la Renta, Art. 14�, Letra A), N�1, letra C) � Ley N� 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones � C�digo Tributario, Art. 64� � Circular N� 68, de 1986. Word Constituci�n de Derecho Real de Usufructo en proceso de Divisi�n de Sociedad de Responsabilidad Limitada. (Ord. N� 1.482, de 29.03.2004 Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n de Impuesto de Timbres y Estampillas respecto de documentos que autorice u orden…
+e 29.03.2004 Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

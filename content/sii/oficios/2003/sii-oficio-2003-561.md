@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 561
 - Año: 2003
-- Fecha: 2003-02-20
+- Fecha: 2003-02-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja436.doc
 - Hash SHA-256: 5c60759b433ef45da58daaf418407047d79c554f53b0a62f8fe4c7d889675769
 
 ## Resumen
 
-='JUSTIFY'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 609 de 20 de Febrero de 2003. Word Impuesto al Valor Agregado en suministro de energ�a el�ctrica que es prestado entre empresas generadoras de electricidad como consecuencia de la operatoria del Sistema Interconectado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 561 de 14 de Febrero de 2003. Word No procede la emisi�n de una factura recargando el IVA, en reemplazo de la otorgada originalmente como exenta en la misma operaci�n, habi�ndose girad…
+Word No procede la emisi�n de una factura recargando el IVA, en reemplazo de la otorgada originalmente como exenta en la misma operaci�n, habi�ndose girado el impuesto correspondiente por el servicio.
 
 ## Referencias detectadas
 

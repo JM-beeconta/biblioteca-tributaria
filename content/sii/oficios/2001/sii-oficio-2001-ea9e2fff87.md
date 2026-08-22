@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-29
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4276.doc
 - Hash SHA-256: 8b0942f4ccc550fb5c0d8ca924298e6d5b7ba406d116e3289b66f49135930a2a
 
 ## Resumen
 
-os � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2. (Ord. N� 4282, de 29.10.2001) Word Impuesto al Valor Agregado en contrato de mandato celebrado para la realizaci�n de determinadas funciones relacionadas con el Programa de Agua Potable Rural. Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 28� � C�digo Tributario, Art. 69� � Ley N� 18.046, de 1981, Art. 99. (Ord. N� 4276, de 26.10.2001) Word Efectos tributarios en caso de fusi�n por absorci�n de una sociedad que…
+Word Efectos tributarios en caso de fusi�n por absorci�n de una sociedad que mantiene remanentes de cr�dito fiscal.
 
 ## Referencias detectadas
 

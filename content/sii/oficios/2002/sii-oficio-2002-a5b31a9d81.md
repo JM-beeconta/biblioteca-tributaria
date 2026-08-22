@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-03-26
+- Fecha: 2002-03-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja260.htm
 - Hash SHA-256: 4347589bd02195b16e0690aa2a21035bcafbe3b59931ff496abce34b55048313
 
 ## Resumen
 
-Abril de 2002 Word Estacionamiento de veh�culos en la v�a p�blica, hecho gravado con IVA en caso que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1029 de 26 de Marzo de 2002 Word Impuesto al Valor Agregado respecto de servicios de mantenci�n preventiva de equipos electromec�nicos. Ley de Impuesto a las Ventas y Servicios. Oficio N�947 de 21 de Marzo de 2002. Word Impuesto al Valor Agregado que grava al proyecto denominado �Levantamiento de Informaci�n referente a la Red Vial Nacional (Infraestructur…
+Ley de Impuesto a las Ventas y Servicios. Oficio N�947 de 21 de Marzo de 2002.
 
 ## Referencias detectadas
 

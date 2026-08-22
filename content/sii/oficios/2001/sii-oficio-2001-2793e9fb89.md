@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-08
+- Fecha: 2001-05-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja205.doc
 - Hash SHA-256: 6a67234588b04cf14d4b5425f48bdb2e533a14ce4bea4771dd16e4fa6d6d3169
 
 ## Resumen
 
-30�, Art. 31� - Circular N� 103, de 1979. Word Solicita se Confirme Criterio en Relaci�n al IVA E Impuesto a la Renta de los Reemplazos de Piezas o Partes Defectuosas que se Realizan en Cumplimiento de Un Contrato de Marc. (Of. N� 1940, de 08.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 52� y Sgtes. - Ley Sobre Impuesto a la Renta, Art. 20 - Resolucion Ex. N� 143, de 1984. Word Impuesto al Valor Agregado en Actividad Realizada por Empresa Liquidadora…
+Word Impuesto al Valor Agregado en Actividad Realizada por Empresa Liquidadora de Seguros. (Of. N� 2028, de 15.05.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

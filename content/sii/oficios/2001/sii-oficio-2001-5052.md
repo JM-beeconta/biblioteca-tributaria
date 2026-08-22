@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5052
 - Año: 2001
-- Fecha: 2001-01-24
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja242.doc
 - Hash SHA-256: 605470d0ad3d522d4235a5f4bb17e4aecd907179b4284111198b0046a2aa2879
 
 ## Resumen
 
-font face='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�. (Ord. N� 357, de 24.01.2001) Word Impuesto al Valor Agregado que afecta al servicio de inspecci�n de redes sanitarias e industriales por medio de c�maras de televisi�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5052 de 28-12-2001. Word Impuesto al Valor Agregado que grava a las comisiones por administraci�n del seguro de cesant�a, establecido por Ley N� 19.728. Ley de Impuesto a las Ventas y Servicio…
+Word Impuesto al Valor Agregado que grava a las comisiones por administraci�n del seguro de cesant�a, establecido por Ley N� 19.728.
 
 ## Referencias detectadas
 

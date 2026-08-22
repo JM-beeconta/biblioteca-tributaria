@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-24
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja181.htm
 - Hash SHA-256: 72cce9e3d2915637b9e15ab4658e726f44dd59a5ff9936b39c2ce00951ceb789
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2�, Art. 8�, Art. 23� N�2�, Art. 55� Inciso 1� - Ley de la Renta, Art. 20� - Codigo Tributario, Art. 64�. Word Tratamiento Tributario de la Entrega de Bienes y Prestaci�n de Servicios con Fines Promocionales a Trav�s del Sistema de Canje de Puntos. (Of. N� 1750, de 24.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55�� Circular N� 39�, del 2000 � Res. Ex. N� 6080, de 1999. Word Consulta Sobre Tipo de Documento que s…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55�� Circular N� 39�, del 2000 � Res. Ex. N� 6080, de 1999.
 
 ## Referencias detectadas
 

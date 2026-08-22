@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-10-11
+- Fecha: 2002-10-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja372.htm
 - Hash SHA-256: d1241ed4407a9fae8ea4d6321b3f48f25ac8d9851b2aba16e1202de716177ef7
 
 ## Resumen
 
-ja374.doc'>Word Tributaci�n con IVA de un �vacunatorio�, con el cual ampliar� su giro una Soc. de Servicios M�dicos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3658 de 11 de Octubre de 2002. Word IVA en el servicio de recolecci�n y tratamiento de aguas servidas prestado por una Municipalidad y forma de cobro de tales servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3616, de 8 de Octubre de 2002.- Word Absuelve consultas sobre tributaci�n frente al Impuesto al Valor Agregado e Impuesto a la R…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3616, de 8 de Octubre de 2002.-
 
 ## Referencias detectadas
 

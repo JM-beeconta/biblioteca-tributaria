@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-05
+- Fecha: 2004-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja648.htm
 - Hash SHA-256: 6f1cf7ecb55d5cd174a3308c36fab53a1e6553efa09ff61070da80bdd6da6d45
 
 ## Resumen
 
-a Renta, en el caso de pagos efectuados al exterior por los conceptos que se indican. (Ord. N� 679, de 05.02.2004) Ley sobre Impuesto a la Renta � Art. 69 Ley N� 18.681, de 1987 Word Tratamiento tributario de donaciones efectuadas al amparo del art�culo 69 de la Ley N� 18.681/87. (Ord. N� 341, de 26.01.2004) Ley sobre Impuesto a la Renta � Arts. 14, Letra B, N� 1; 52 y 54 N� 1 Word Tributaci�n del mayor valor obtenido en la enajenaci�n de derechos sociales en sociedades de personas. (Ord. N� 339, de 26.01.2004) Le…
+Ley sobre Impuesto a la Renta � Arts. 14, Letra B, N� 1; 52 y 54 N� 1
 
 ## Referencias detectadas
 

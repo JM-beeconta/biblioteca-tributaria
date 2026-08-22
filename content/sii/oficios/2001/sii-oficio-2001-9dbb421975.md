@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja150.doc
 - Hash SHA-256: 7a2cce2fadd17c08278285f1e5db7bb08799379b04cfb726dd827a2938d46cfa
 
 ## Resumen
 
-face="arial" size="2"> Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de - Art. 23� N� 3� D. Ley 3.475. Word Exenci�n de Impuesto de Timbres y Estampillas que Contempla el Art�culo 23� N� 3�, que Favorece a las Universidades. (Of. N� 0187, de 15.01.2001 � Depto. de T�cnica Tributaria). Franquicia Tributaria � Ley N� 18.392 - Art. 1�, Art. 2�, Art. 9� - C�digo Tributario, Art. 6�, Letra a) N� 1�. Word Empresas que Tienen Derecho a las Franquicias Regionales Establecidas en la Ley N� 18.392, de 1985, Ley N…
+Word Empresas que Tienen Derecho a las Franquicias Regionales Establecidas en la Ley N� 18.392, de 1985, Ley Navarino. (Of. N� 170, de 12.01.2001 � I. Indirectos) .
 
 ## Referencias detectadas
 

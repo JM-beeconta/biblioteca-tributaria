@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Comisiones de Agentes. (Ord. N� 1.657, de 08.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 22�, Art. 42 bis, N� 3 � Decreto Ley N� 3.500, de 1980, Art. 21�, Art. 22� � Circulares N�s 56, de 1993 y 32, de 1994. Word Situaci�n tributaria de las Cuentas de Ahorro Voluntario abiertas en las AFP. (Ord. N� 1.626, de 06.04.2004.) Ley de Impuesto a la Renta. Art�culos 42 N�1, 42 bis 43 N� 1. Ratifica criterio expresado en Oficio que indica sobre tratamiento tributario que afecta a la devoluci�n de fondos previ…
+d. N� 1.626, de 06.04.2004.) Ley de Impuesto a la Renta. Art�culos 42 N�1, 42 bis 43 N� 1. Ratifica criterio expresado en Oficio que indica sobre tratamiento tributario que afecta a la devoluci�n de fondos previsionales efectuados a los trabajadores t�cnicos extra njeros, estableciendo que es de aplicaci�n general para la industria de AFP. ( Ordinario N� 1480, de 29 de Marzo 2004)
 
 ## Referencias detectadas
 

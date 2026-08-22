@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-25
+- Fecha: 2003-09-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja582.htm
 - Hash SHA-256: 9f567527beb22a50e91dc404de1baba78262969b97dda580400b9a4a2d0075d0
 
 ## Resumen
 
-nbsp; Word Apreciaci�n de habitualidad respecto de enajenaci�n viviendas por un particular a partir de inmueble urbano que se subdivide. (Ord. N� 4813, de 25.09.2003) Ley sobre Impuesto a la Renta � Art. 15 LIR Word Tratamiento tributario de los subsidios recibidos del Estado por parte de una empresa concesionaria. (Ord. N� 4786, de 24.09.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� LIR y Ley N� 19.857, de 2003 Word Situaci�n tributaria de aporte de acciones y derechos sociales efectuadas por parte de p…
+24.09.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� LIR y Ley N� 19.857, de 2003
 
 ## Referencias detectadas
 

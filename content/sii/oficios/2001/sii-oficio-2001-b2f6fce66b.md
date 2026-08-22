@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-10
+- Fecha: 2001-08-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3267.doc
 - Hash SHA-256: 248a0eaf4787b054d49ddf64183b4c4049569cbf7885c706dea0267ffb1645e6
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 3330, de 10.08.2001) Word Aplicaci�n del art�culo 21�, del D.L. N� 910, de 1975, en contratos de construcci�n de Residencias para Adultos Mayores Autovalentes. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36�. (Ord. N� 3267, de 03.08.2001) Word Exenci�n del Impuesto al Valor Agregado, en el aprovisionamiento efectuado por naves o aeronaves extranjeras que no efect�en t…
+Word Exenci�n del Impuesto al Valor Agregado, en el aprovisionamiento efectuado por naves o aeronaves extranjeras que no efect�en transporte de pasajeros o de carga.
 
 ## Referencias detectadas
 

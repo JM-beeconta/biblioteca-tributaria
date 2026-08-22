@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a la Renta, Art. 20�, N� 3 y 4. (Ord. N� 2.565, de 08.06.2004) Word Aplicaci�n del Impuesto al Valor Agregado a los pagos por concepto de la denominada Participaci�n Municipal, pactados en un Contrato de Concesi�n de Estacionamientos en la v�a p�blica. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley N� 18.502, Art. 6�� Ley N� 18.961, art. 91� � D.L. N� 1.277, de 1975. (Ord. N�2.564, de 08.06.2004) Word Aplicaci�n de la Exenci�n de impuesto, establecida en Art. 91�, de la Le…
+Word Aplicaci�n de la Exenci�n de impuesto, establecida en Art. 91�, de la Ley N� 18.961, Org�nica Constitucional de Carabineros de Chile, al Tributo del Art. 6�, de la Ley N�18.502.
 
 ## Referencias detectadas
 

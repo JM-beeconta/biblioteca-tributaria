@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-03
+- Fecha: 2004-08-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja787.htm
 - Hash SHA-256: 1379730b8c0ddfdfd5bda4c1866ae7d7fe23be1db41f7e046e8c67f0d53dcfe6
 
 ## Resumen
 
-1998, Art. 15�, Art. 14�, Art. 17�, Art. 13�, Art. 9� � Ley N� 19.561, de 1998, Art. 5�, transitorio. Word Tributaci�n de los Bienes Ra�ces Agr�colas destinados a la Explotaci�n de Bosques, de acuerdo con lo dispuesto en el art�culo 14 del Decreto Ley N� 701, sobre Fomento Forestal y su relaci�n con la Ley de la Renta y con el art�culo 5� transitorio de la Ley N� 19.561, de 1998. (Ord. N�3.669, de 03.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�, Art. 17� � D.L. N� 825, de 1974, Art. 8� � Le…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 33�, Art. 17� � D.L. N� 825, de 1974, Art. 8� � Ley N� 18.985, Art. 8�, Art. 14� � D.S. N� 787, de 1990, Art. 2�
 
 ## Referencias detectadas
 

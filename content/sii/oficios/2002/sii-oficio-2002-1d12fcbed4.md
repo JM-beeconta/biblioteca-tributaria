@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-09
+- Fecha: 2002-08-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja323.htm
 - Hash SHA-256: 11a8777c17e18e99130533a158a9fcedda677dc6f612675a64a62ad6edfa9de0
 
 ## Resumen
 
-utuos para los efectos de su rescate. (Ord. N� 2871, de 09.08.2002) Ley sobre Impuesto a la Renta � Leyes N�s. 19.622, de 1999 y 19.747, de 2001 Word Condiciones bajo las cuales se mantiene el beneficio tributario de Ley N� 19.622, en el caso de la renegociaci�n de cr�ditos hipotecarios en virtud de la Ley N� 19.747, de 2001. (Ord. N� 2844, de 05.08.2002) Ley sobre Impuesto a la Renta �Arts. 42 N� 1 y 43 N� 1, Art. 7 Ley N� 18.156 y D.L. N� 3.500, de 1980 Word Tratamiento tributario de retiro de cotizaciones previ…
+05.08.2002) Ley sobre Impuesto a la Renta �Arts. 42 N� 1 y 43 N� 1, Art. 7 Ley N� 18.156 y D.L. N� 3.500, de 1980
 
 ## Referencias detectadas
 

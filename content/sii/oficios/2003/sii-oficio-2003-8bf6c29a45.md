@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-20
+- Fecha: 2003-11-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja602.htm
 - Hash SHA-256: d09035d533e32ba8383389bb45cdd88849632ea58e0c4d2037d298e4ede0b636
 
 ## Resumen
 
-Consulta sobre aplicaci�n de IVA a servicios que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5698 de 20 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a diversos servicios de intermediaci�n en la obtenci�n de cr�ditos o celebraci�n de contratos de seguros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5583 de 12 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de provisi�n de personal. Ley de Impuesto a las Ventas y Servicios. Oficio…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5583 de 12 de Noviembre de 2003.-
 
 ## Referencias detectadas
 

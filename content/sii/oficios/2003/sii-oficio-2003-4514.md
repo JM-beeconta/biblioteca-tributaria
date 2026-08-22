@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4514
 - Año: 2003
-- Fecha: 2003-09-23
+- Fecha: 2003-09-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja565.doc
 - Hash SHA-256: 16360b36373e40149b85db36433284d83f4c30a39d64ee67b12dfaa8aedaf1e5
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4782 de 23 de Septiembre de 2003. Word Recuperaci�n de remanentes de cr�dito fiscal originados en la adquisici�n de una l�nea de transmisi�n de energ�a el�ctrica, en virtud del art�culo 27 bis del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4514 de 12 de Septiembre de 2003. Word Aplicaci�n de IVA a los apuntes de clases vendidos a sus alumnos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4494 de 11 de Septiembre de 2003.- Word Presenta…
+Word Aplicaci�n de IVA a los apuntes de clases vendidos a sus alumnos.
 
 ## Referencias detectadas
 

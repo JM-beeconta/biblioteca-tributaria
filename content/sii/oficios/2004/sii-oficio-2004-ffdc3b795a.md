@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-04
+- Fecha: 2004-03-29
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja708.doc
 - Hash SHA-256: 0b457e06f489298b4bfe770af9db54b0090101697f1023dfbaa45902e7f444bd
 
 ## Resumen
 
-e 1974, en relaci�n con la aplicaci�n de la exenci�n del Impuesto sobre Herencias, Asignaciones y Donaciones, establecida en el inciso 4�, del art�culo N�13, del referido cuerpo legal (Ord. N� 1.623, de 06.04.2004) Ley de Sociedades An�nimas � Art. 96� � Ley de la Renta, Art. 14�, Letra A), N�1, letra C) � Ley N� 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones � C�digo Tributario, Art. 64� � Circular N� 68, de 1986. Word Constituci�n de Derecho Real de Usufructo en proceso de Divisi�n de Sociedad de…
+Word Constituci�n de Derecho Real de Usufructo en proceso de Divisi�n de Sociedad de Responsabilidad Limitada. (Ord. N� 1.482, de 29.03.2004
 
 ## Referencias detectadas
 

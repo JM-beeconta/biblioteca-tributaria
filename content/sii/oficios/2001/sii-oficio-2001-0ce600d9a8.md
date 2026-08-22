@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-27
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja164.htm
 - Hash SHA-256: b9bd7851a43cd7c20fa7a259904626085c13fd1ce3d54eba147d12b4e045a5b8
 
 ## Resumen
 
-size='1'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 55� - Art. 20� N�3� y N�4�, de la Ley de la Renta. Word . Tributaci�n y Momento de Emisi�n de la Boleta en el Contrato Denominado por las Partes Como �Prestaci�n de Servicios de Lavander�a� Celebrado Entre una Empresa y la Comunidad de Un Edificio. (Of. N� 842, de 27.02.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8� - Art. 55� - Art. 20� N�3� de la Ley de la Renta. Wo…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8� - Art. 55� - Art. 20� N�3� de la Ley de la Renta.
 
 ## Referencias detectadas
 

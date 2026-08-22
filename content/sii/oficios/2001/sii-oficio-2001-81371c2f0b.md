@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-26
+- Fecha: 2001-02-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja163.doc
 - Hash SHA-256: cf01bf92bc30f0d9bccf31f1b7eb39e3cf97aa46afc463f133e04e9cbec05d98
 
 ## Resumen
 
-enta. Word Impuesto al Valor Agregado en Financiamiento de Gastos de Operaci�n de Embarcaciones Pesqueras y en Servicios de Mantenci�n y Reparaci�n de las Mismas, Pactados en Virtud de Un Contrato de Suministro de Pesca. (Of. N� 830, de 26.02.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 1�, Art. 8� - Art. 46� - Ley N� 19.506, de 1997, Art. 2� N� 4� - Ley de Rentas Municipales, Art. 41� N� 7�. Word Representaci�n Diplom�tica Solicita Informe Sobre Impuestos que Gravan el…
+Word Representaci�n Diplom�tica Solicita Informe Sobre Impuestos que Gravan el Valor Extraf�brica de Veh�culos de Producci�n Nacional, Gastos por Inscripci�n y Transferencia. (Of. N� 759, de 16.02.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

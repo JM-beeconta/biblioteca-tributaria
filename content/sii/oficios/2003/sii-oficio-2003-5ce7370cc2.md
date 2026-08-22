@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-19
+- Fecha: 2003-12-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6432.htm
 - Hash SHA-256: b229e48403f0bd08cfff2f887bb55c4b33a42d8dd8141bc2a4b13cead866fdb4
 
 ## Resumen
 
-Improcedencia de exenci�n de impuesto Adicional de la Ley de la Renta, contenida en el art�culo 10� del D.L. N� 3.059, de 1979, sobre Ley de Fomento a la Marina Mercante. (Ord. N� 6521, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 30 y 31 Word Situaci�n tributaria de cuotas sociales enteradas a asociaciones gremiales. (Ord. N� 6473, de 16.12.2003) Ley sobre Impuesto a la Renta � Art. 41 D Word Resuelve consultas relacionadas con la tributaci�n de las sociedades acogidas al art�culo 41 D de la Ley de la Ren…
+16.12.2003) Ley sobre Impuesto a la Renta � Art. 41 D
 
 ## Referencias detectadas
 

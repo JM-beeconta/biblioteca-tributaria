@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-08
+- Fecha: 2004-08-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja799.htm
 - Hash SHA-256: 924a91bcc151e114d73d5b6e970cd289b71544431b0b6729266fe7a7cf4b83be
 
 ## Resumen
 
-s. (Ord. N� 4.230, de 08.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1 � Ley N� 19.882 � Circular N� 7, de 1993. Word Tributaci�n de Asignaci�n de Dietas a Consejeros de alta Direcci�n P�blica de acuerdo a la Ley N� 19.882. (Ord. N� 4.005, de 26.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art., 33� bis � Circulares N�s 41 de 1990, 44, de 1993 y 53, de 1998 Word Procedencia de la Utilizaci�n del Cr�dito de 4% del Valor de los Bienes F�sicos del Activo Inmovilizado adquiridos…
+Renta � Actual Ley Sobre Impuesto a la � Art., 33� bis � Circulares N�s 41 de 1990, 44, de 1993 y 53, de 1998
 
 ## Referencias detectadas
 

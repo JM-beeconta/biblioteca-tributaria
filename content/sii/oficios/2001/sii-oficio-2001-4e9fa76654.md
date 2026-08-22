@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-08
+- Fecha: 2001-02-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja889.doc
 - Hash SHA-256: 2d55204e51f7b5cb93d0307a313cf98e05d8a94364126ef962d3d7128432341e
 
 ## Resumen
 
-e='arial' size='1'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 945, de 08.03.2001) Word IVA, en contrato para el suministro de personal, para servicios determinados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 889, de 28.02.2001) Word Tributaci�n con el Impuesto al Valor Agregado en empresas de aseo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 10�, Art. 12�, N�3,…
+Word Tributaci�n con el Impuesto al Valor Agregado en empresas de aseo.
 
 ## Referencias detectadas
 

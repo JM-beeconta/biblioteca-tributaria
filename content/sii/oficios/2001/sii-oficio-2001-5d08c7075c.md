@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-28
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja176.htm
 - Hash SHA-256: d889e999d0b9d1dd8acd286677507f85d65c428346ce27e5b2ecad013e760bc5
 
 ## Resumen
 
-l' size='2'> Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 1�, Art. 42� N�1�, Art. 43� N�1�, Art. 74� N�1� y Art. 78� - Ley N� 19.123, de 1992, Art. 2� N�4�, Art. 8� N� 2� y Art. 17� - Ley N� 19.234, de 1993, Art.15�. Word Tributaci�n de Pensi�n Mensual de Reparaci�n que Establece el Art. 17� de la Ley N� 19.123 y de Pensi�n No Contributiva de Sobrevivencia por Muerte de C�nyuge Concedida por la Ley 19.234. (Of. N� 1265, de 28.03.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 59� N� 2�. Wor…
+Renta � Actual Ley Sobre Impuesto a la � Art. 59� N� 2�.
 
 ## Referencias detectadas
 

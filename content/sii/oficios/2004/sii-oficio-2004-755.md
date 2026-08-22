@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 755
 - Año: 2004
-- Fecha: 2004-02-12
+- Fecha: 2004-02-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja656.doc
 - Hash SHA-256: 8340d71b727e50846b30bf9132740c9a27d6040cefe89dd9d215c59590dd3eb3
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 826 de 12 de Febrero de 2004.- Word C�lculo de la proporcionalidad establecida en el art�culo 43 del Reglamento del D.L. N� 825, de 1974, para determinar el cr�dito fiscal del per�odo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 755 de 10 de Febrero de 2004.- Word Consulta sobre posibilidad de emitir Notas de Cr�dito sin impuesto en caso que la devoluci�n de los bienes o la resciliaci�n de los servicios se produzca con posterioridad a los tres meses, esta…
+Word Consulta sobre posibilidad de emitir Notas de Cr�dito sin impuesto en caso que la devoluci�n de los bienes o la resciliaci�n de los servicios se produzca con posterioridad a los tres meses, establecidos en el inciso segundo del art�culo 70�, del D.L. N� 825.
 
 ## Referencias detectadas
 

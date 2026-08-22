@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-15
+- Fecha: 2003-12-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6349.doc
 - Hash SHA-256: e23ccc0f21100cd55b3f73b5071521ecdd7655e78fccbe2ea7c46efe78b42697
 
 ## Resumen
 
-sobre Impuesto a la Renta � Art. 14 de la LIR y Art. 94 Ley N� 18.046 Word Situaci�n que se presenta con motivo de la divisi�n de empresa del transporte que tributa en r�gimen de renta efectiva, espec�ficamente en relaci�n con la posibilidad de que la empresa que nace producto de la divisi�n pueda tributar en conformidad con el r�gimen de renta presunta. (Ord. N� 6431, de 15.12.2003) Ley sobre Impuesto a la Renta � Art.. 41 D Word Resuelve consultas sobre operaciones adicionales anexas realizadas por �sociedades p…
+Word Resuelve consultas sobre operaciones adicionales anexas realizadas por �sociedades plataforma de negocios� a que se refiere el art�culo 41 D de la Ley de la Renta. (Ord. N� 6349, de 12.12.2003)
 
 ## Referencias detectadas
 

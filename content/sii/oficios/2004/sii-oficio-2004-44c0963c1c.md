@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-23
+- Fecha: 2004-11-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja831.htm
 - Hash SHA-256: 93494b7ff3c838f16c513f898bcc75bf927ee4c64dd6a28c722c044ddec24161
 
 ## Resumen
 
-e="arial" size="2">(Ord. N� 5.115, de 23.12.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, inciso 3�, Art. 2�. Word Impuesto de Timbres y Estampillas Art�culo 1�, N�3 y Art. 2�, del D.L. N� 3.475, de 1980, Pr�rroga o Renovaci�n de Cr�ditos Documentados mediante Suscripci�n de Pagar�s (Ord. N� 5.003, de 12.11.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 24�, N� 17 � C�digo Tributario, Art. 128� � C�digo Civil, Art. 1.707� � Circular N� 71, de 2002. W…
+12.11.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 24�, N� 17 � C�digo Tributario, Art. 128� � C�digo Civil, Art. 1.707� � Circular N� 71, de 2002.
 
 ## Referencias detectadas
 

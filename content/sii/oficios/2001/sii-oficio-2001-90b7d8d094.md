@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-04
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja132.htm
 - Hash SHA-256: d0bd61ace6369d11b0bcd7eadb8245ddcbc66d87aaef81577dfb0e45e2d80de1
 
 ## Resumen
 
-esi�n por Causa de Muerte. (Of. N� 39, de 04.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 8�, Letra a), Art. 18�- Ley N� 18.293, de 1984, Art. 3� - Ley N� 19..578, Art 2� Transitorio. Word Tributaci�n en la Enajenaci�n de Acciones Adquiridas por Sucesi�n por Causa de Muerte. ( Of. N� 136, de 11.01.2001. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 17�. Word Situaci�n Tributaria de Extranjeros que Desean Radicarse en el Pa�s. ( Of. N� 189, de 15.01.2001. I. Direc…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 17�.
 
 ## Referencias detectadas
 

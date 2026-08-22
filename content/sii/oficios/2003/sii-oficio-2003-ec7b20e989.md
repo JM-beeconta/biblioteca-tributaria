@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-22
+- Fecha: 2003-04-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja473.doc
 - Hash SHA-256: 6746dfd38f3c8e306478163132cbd41e023f3c0998a66d2f5667cc4b20b0c15f
 
 ## Resumen
 
-cargo de un importador de una mercader�a pagados por el exportador extranjero. (Ord. N� 1673, de 22.04.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 LIR y Art. 64 C�digo Tributario Word Precio que deben enajenarse las acciones de sociedades an�nimas. (Ord. N� 1631, de 16.04.2003) Ley sobre Impuesto a la Renta � Art. 33 N� 1 Word Tratamiento tributario del exceso de sueldo empresarial asignado. (Ord. N� 1630, de 16.04.2003) Ley sobre Impuesto a la Renta � Art. 33 Ley N� 19.518 Word Condiciones en que pro…
+Word Tratamiento tributario del exceso de sueldo empresarial asignado. (Ord. N� 1630, de 16.04.2003)
 
 ## Referencias detectadas
 

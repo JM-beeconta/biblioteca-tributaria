@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-02-21
+- Fecha: 2002-02-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja251.doc
 - Hash SHA-256: 9e078a63f7e13d9516eada8cb4e91e723fb70548aeecb5d5261c882e1e062a1e
 
 ## Resumen
 
-njero acogido a las normas de Decreto Ley 600. Ord. N� 736, de 28.02.2002 Ley sobre Impuesto a la Renta - Art. 14 bis. Word Forma de acreditar las remuneraciones imponibles para los efectos de la franquicia tributaria por gastos de capacitaci�n. - Oficio N� 670, de 21 de febrero de 2002. Ley sobre Impuesto a la Renta - Art. 14 bis. - Word Tratamiento tributario que afecta a las rentas generadas y retenidas en el r�gimen de tributaci�n simplificado del art�culo 14 bis de la Ley de la Renta, cuando el contribuyente…
+Word Tratamiento tributario que afecta a las rentas generadas y retenidas en el r�gimen de tributaci�n simplificado del art�culo 14 bis de la Ley de la Renta, cuando el contribuyente pasa al r�gimen general de tributaci�n, de acuerdo al art�culo 14� de la ley precitada. Oficio N� 567, de 14 de febrero de 2002.
 
 ## Referencias detectadas
 

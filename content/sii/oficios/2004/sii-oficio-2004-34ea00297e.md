@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-04
+- Fecha: 2004-02-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja661.htm
 - Hash SHA-256: 516170b095a77e165190b5be86ff390cf3580a75eb254e024170cf56174762e5
 
 ## Resumen
 
-Ley N� 19.420 de 1995. (Ord. N� 1115, de 04.03.2004) Ley sobre Impuesto a la Renta � Art. 40 N� 3 Word Tratamiento tributario de los ingresos que obtiene una caja de compensaci�n de asignaci�n familiar con motivo de la securitizaci�n de los cr�ditos de sus asociados. (Ord. N� 977, de 19.02.2004) Ley sobre Impuesto a la Renta � Art. 64 C�digo Tributario Word Adjudicaci�n de lotes de inmueble urbano pose�do en comunidad y facultad de tasar contenida en el art�culo 64 del C�digo Tributario. (Ord. N� 976, de 19.02.200…
+Ley sobre Impuesto a la Renta � Art. 64 C�digo Tributario
 
 ## Referencias detectadas
 

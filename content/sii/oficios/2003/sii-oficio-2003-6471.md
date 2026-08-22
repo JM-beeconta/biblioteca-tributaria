@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 6471
 - Año: 2003
-- Fecha: 2003-12-18
+- Fecha: 2003-12-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja615.doc
 - Hash SHA-256: 80faa1c18a0e049d510ff227e3a91b0e3df786c456c3c8e191245ba47fe82e0c
 
 ## Resumen
 
-acional Forestal (CONAF) Ley de Impuesto a las Ventas y Servicios. Oficio N� 6513 de 18 de Diciembre de 2003. Word Tributaci�n con IVA de Organizaci�n que no persigue fines de lucro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6471 de 16 de Diciembre de 2003. Word Beneficiario del cr�dito establecido en el art�culo 21�, del D.L. N� 910, cuando en la realizaci�n de una obra, existe una empresa constructora que celebra un contrato de construcci�n a suma alzada para la ejecuci�n de la misma, pero a su vez sub…
+Word Beneficiario del cr�dito establecido en el art�culo 21�, del D.L. N� 910, cuando en la realizaci�n de una obra, existe una empresa constructora que celebra un contrato de construcci�n a suma alzada para la ejecuci�n de la misma, pero a su vez subcontrata bajo la misma modalidad con otra empresa cons-tructora, quien en definitiva realizar� materialmente los trabajos de construcci�n.
 
 ## Referencias detectadas
 

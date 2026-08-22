@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-19
+- Fecha: 2001-02-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja155.doc
 - Hash SHA-256: c5543ac2ebf95dac147542b3b522a666ca985d0952fb54f6b96db19e9701adf9
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1� Letra B) � Ley N� 18.985, de 1990, Art. 3� Inciso 6�. Word Forma en que Determinan la Renta de su Actividad Tanto el Enajenante Como el Adquirente de Un Predio Agr�cola en Situaci�n Indicada. (Of. N� 254, de 19.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 22� � Ley N� 18.175, Arts. 191�, 192� y 193�. Word Aplicaci�n del Art. 17� N� 22, de la Ley de la Renta a la Situaci�n de Quiebra a que se Refiere el Art. 191� de la Ley N� 18.…
+Word Aplicaci�n del Art. 17� N� 22, de la Ley de la Renta a la Situaci�n de Quiebra a que se Refiere el Art. 191� de la Ley N� 18.175. (Of. N� 675, de 12.02.2001 � I. Directos)
 
 ## Referencias detectadas
 

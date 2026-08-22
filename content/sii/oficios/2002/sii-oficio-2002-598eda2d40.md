@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-03
+- Fecha: 2002-08-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja339.htm
 - Hash SHA-256: cc833d0e15604ce2e96e4392c74b54d9d439bafec002b1ae0a465ce716e02f03
 
 ## Resumen
 
-l Trabajo Word Contribuyentes que tienen derecho a gratificaciones legales, conforme a las normas del C�digo del Trabajo. (Ord. N� 3174, de 03.09.2002) Ley sobre Impuesto a la Renta � Ley N� 19.622, de 1999 Word P�rdida de beneficio tributario de la Ley N� 19.622, de 1999, en caso que se indica. (Ord. N� 3033, de 26.08.2002) Ley sobre Impuesto a la Renta � Art. 18 inciso tercero Word Fecha de adquisici�n de inmueble pose�do en com�n por ex socios de sociedad de responsabilidad limitada que se disuelve, para los ef…
+26.08.2002) Ley sobre Impuesto a la Renta � Art. 18 inciso tercero
 
 ## Referencias detectadas
 

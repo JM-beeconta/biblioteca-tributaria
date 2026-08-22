@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-14
+- Fecha: 2001-01-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja159.doc
 - Hash SHA-256: 53e598fc6f606aba0dadfbea63ad99ec20df1d5ee9146ac11262ff52706a4620
 
 ## Resumen
 
-.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis � Circular N� 41, de 1990 � Circular N� 44, de 1993 � Circular N� 53, de 1998. Word Base de C�lculo del Cr�dito Establecido en el Art�culo 33 Bis de la Ley de al Renta, Respecto de Bienes Adquiridos en Virtud de Un Contrato de Arriendo con Opci�n de Compra. (Of. N� 724, de 14.02.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis � Circular N� 41, de 1990. Word Aplicaci�n del Cr�dito del 4% Establecido en el Art�culo 33 Bis de la Le…
+Word Aplicaci�n del Cr�dito del 4% Establecido en el Art�culo 33 Bis de la Ley de la Renta, en el Caso de la Adquisici�n de Bien Ra�z. (Of. N� 312, de 22.01.2001 � I. Directos).
 
 ## Referencias detectadas
 

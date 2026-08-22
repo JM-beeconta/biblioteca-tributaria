@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i�n de pensi�n no contributiva de sobrevivencia otorgada por la Ley N� 19.234. (Ord. N� 1694, de 29.05.2002) Ley sobre Impuesto a la Renta � arts. 17 N� 8 letra b), 60, 65, 69 y 74 N�4 Word Tributaci�n que afecta a enajenaci�n de un bien ra�z agr�cola perteneciente a sociedad extranjera que tiene como giro la compraventa de bienes ra�ces. (Ord. N� 1693, de 29.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Improcedencia de acogerse a beneficio tributario establecido en el art�culo 55 bis de la Ley de la…
+29.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis
 
 ## Referencias detectadas
 

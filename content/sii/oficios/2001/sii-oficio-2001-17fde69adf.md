@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-31
+- Fecha: 2001-08-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3595.htm
 - Hash SHA-256: 3cd09fb28dacb983a27eaa11c9dd7c84f0afd698752e6836e6a2c66fbaeb84e2
 
 ## Resumen
 
-o establecido en el inciso segundo de la letra a) del N� 1 de la letra A) del art�culo 14 de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 19� � Circular N� 100, del a�o 1975 (Ord. N� 3626, de 31.08.2001) Word Tratamiento tributario del pago anticipado de colegiaturas percibidas por un colegio particular. Renta � Actual Ley Sobre Impuesto a la � Ordinarios N� 3.468, de 1995 y 2.100, de 1996. (Ord. N� 3595, de 29.08.2001) Word Fecha de adquisici�n de predio agr�cola asigna…
+Renta � Actual Ley Sobre Impuesto a la � Ordinarios N� 3.468, de 1995 y 2.100, de 1996. (Ord. N� 3595, de 29.08.2001)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2966
 - Año: 2002
-- Fecha: 2002-04-23
+- Fecha: 2002-08-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja330.doc
 - Hash SHA-256: 1d05ff55e49f9681d5e88637c83d971c0f26f4ca5baf45d7e03d50d44084c70e
 
 ## Resumen
 
-220, del 23 de Abril de 2002, del se�or Director Regional Metropolitano Santiago Centro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2977 de 22 de Agosto de 2002. Word IVA en el dise�o y construcci�n de p�ginas Web. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2966, de 20 de Agosto de 2002. Word No procede el reembolso del IVA, pagado en atenci�n hospitalaria, por un ciudadano extranjero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2965 de 20 de Agosto de 2002. Word Pide se declare que se fa…
+Word No procede el reembolso del IVA, pagado en atenci�n hospitalaria, por un ciudadano extranjero.
 
 ## Referencias detectadas
 

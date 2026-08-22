@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 296
 - Año: 2004
-- Fecha: 2004-01-29
+- Fecha: 2004-01-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja644.doc
 - Hash SHA-256: 9b33e55f1b67a7eacb44b3f5da51171bfea65c6f66eeeaca7cad54711e5a7ec4
 
 ## Resumen
 
-antes de ingreso de ese tributo, enterado en arcas fiscales. Ley de Impuesto a las Ventas y Servicios. Oficio N� 417 de 29 de Enero de 2004.- Word Aplicaci�n del Impuesto al Valor Agregado a un contrato de �C�digo Compartido�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 296 de 20 de Enero de 2004.- Word Consulta si procede aumentar, a ra�z del alza de tasa del impuesto al valor agregado, la facturaci�n de los contratos vigentes de �Transporte y Recolecci�n de Residuos S�lidos Domiciliarios� y �Servicio de…
+Word Consulta si procede aumentar, a ra�z del alza de tasa del impuesto al valor agregado, la facturaci�n de los contratos vigentes de �Transporte y Recolecci�n de Residuos S�lidos Domiciliarios� y �Servicio de Mantenci�n de Areas Verdes de la Comuna de XX�, pactados con anterioridad al alza de tasa del referido tributo.
 
 ## Referencias detectadas
 

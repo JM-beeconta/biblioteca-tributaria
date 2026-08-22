@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-12
+- Fecha: 2004-05-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja724.doc
 - Hash SHA-256: 2edad79eb577803c675b61f5a421098a637ae148ae00df9f14bedce5912ccb05
 
 ## Resumen
 
-� 18.046, Art. 94� � Circular N� 26, de 1987 � Oficio N� 2.528, de 1999. (Ord. N� 2.236, de 12.05.2004) Word IVA en la Divisi�n de una Sociedad Constructora en que los inmuebles constru�dos por ella, pasar�an a formar parte de una nueva Sociedad. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � ley de la Renta, Art. 20�, N� 3 y N� 4 � Res. Exenta N� 6.080, de 1999. (Ord. N� 2.185, de 11.05.2004) Word Impuesto al Valor Agregado, aplicable a la Certificaci�n del Perfil de…
+Word Impuesto al Valor Agregado, aplicable a la Certificaci�n del Perfil de ADN, de caballos Chilenos.
 
 ## Referencias detectadas
 

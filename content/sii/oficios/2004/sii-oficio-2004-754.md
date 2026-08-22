@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tas/ja656.htm'>Ley de Impuesto a las Ventas y Servicios. Oficio N� 755 de 10 de Febrero de 2004.- Word Consulta sobre posibilidad de emitir Notas de Cr�dito sin impuesto en caso que la devoluci�n de los bienes o la resciliaci�n de los servicios se produzca con posterioridad a los tres meses, establecidos en el inciso segundo del art�culo 70�, del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 754 de 10 de Febrero de 2004.- Word IVA en la cesi�n de espacios publicitarios en un estadio donde se des…
+Word IVA en la cesi�n de espacios publicitarios en un estadio donde se desarrolla un Campeonato de F�tbol.
 
 ## Referencias detectadas
 

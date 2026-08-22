@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-12-12
+- Fecha: 2002-12-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja407.htm
 - Hash SHA-256: aa2f86e98d1aeeede6db396792502bcadf5bbd123a3e2f96016e657993f58795
 
 ## Resumen
 
-iones de la Ley N� 19.030. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4635 de 12 de Diciembre de 2002. Word Reitera lo manifestado en Oficio N� 1135, de 10-04-2000, en cuanto a improcedencia de forma alternativa de pago a la indicada en la ley, para los efectos de lo dispuesto en el N� 5, del art�culo 23�, del Decreto Ley N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4622 de 10 de Diciembre de 2002. Word Aplicaci�n del impuesto adicional del art�culo 42�, del D.L. N� 825, de 1974, a…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4622 de 10 de Diciembre de 2002.
 
 ## Referencias detectadas
 

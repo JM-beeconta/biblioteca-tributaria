@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3688
 - Año: 2002
-- Fecha: 2002-10-16
+- Fecha: 2002-10-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja376.doc
 - Hash SHA-256: ec99e4b312aa426033369a857cbee9b2e16fd6c1854111c51911aa405e32a655
 
 ## Resumen
 
-rial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3737 de 16 de Octubre de 2002. Word Aplicaci�n del beneficio otorgado por el art�culo 29 de la Ley N� 18.591, a los acreedores de facturas impagas emitidas a contribuyentes declarados en quiebra. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3688 de 14 de Octubre de 2002. Word Consulta sobre la posibilidad de que un contribuyente exportador que ha cometido errores en el formulario de declaraci�n de IVA y que como consecuencia se encuentra im…
+Word Consulta sobre la posibilidad de que un contribuyente exportador que ha cometido errores en el formulario de declaraci�n de IVA y que como consecuencia se encuentra impedido de solicitar la devoluci�n del cr�dito fiscal, se le autorice a enmendar los errores cometidos en las declaraciones correspondientes y solicitar la devoluci�n pendiente a trav�s del mecanismo del art�culo 126 N� 3 del C�digo Tributario.
 
 ## Referencias detectadas
 

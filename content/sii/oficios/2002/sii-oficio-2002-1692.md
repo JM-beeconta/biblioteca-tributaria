@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1692
 - Año: 2002
-- Fecha: 2002-05-31
+- Fecha: 2002-05-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja292.doc
 - Hash SHA-256: 4e5c3d444ed140d7b452f46884da3545d07e9abb8fa0462522c3121a9b028d07
 
 ## Resumen
 
-ce='arial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 1703 de 31 de Mayo de 2002. Word Aplicaci�n de Ley N� 19.633, de 1999, a enajenaci�n de veh�culo de diplom�tico, ingresado al pa�s al amparo de las Partidas del Cap�tulo 0 del Arancel Aduanero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1692 de 29 de Mayo de 2002. Word Impuesto al Valor Agregado respecto de las comisiones que el D.L. N� 3.500, de 1980, faculta a cobrar a las A.F.P. Ley de Impuesto a las Ventas y Servicios. Oficio N�…
+Word Impuesto al Valor Agregado respecto de las comisiones que el D.L. N� 3.500, de 1980, faculta a cobrar a las A.F.P.
 
 ## Referencias detectadas
 

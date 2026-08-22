@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-05-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja2082.doc
 - Hash SHA-256: 5393fa0c39f81d829aac29ef7fe569ed73fbc5f52a7950e2e2426a578f35934b
 
 ## Resumen
 
-font> Renta� Actual Ley Sobre Impuesto a la � Art. 41�, N�9. (Ord. N� 2494, 06.06.2001) Word Valor de derechos sociales en el caso de divisi�n de sociedad. Rentan� Actual Ley Sobre Impuesto a la � Art. 17�, N�13, Art.42 N� 1, Art. 43 N� 1 � Circulares N�s. 29, de 1991 y 10, de 1999. (Ord. N� 2082, de 16.05.2001) Word Situaci�n tributaria de las indemnizaciones por a�os de servicios. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�3, Art. 57� bis, letra A). (Ord. N� 2059, de 16.05.2001) Word Situaci�n tributar…
+Word Situaci�n tributaria de las indemnizaciones por a�os de servicios.
 
 ## Referencias detectadas
 

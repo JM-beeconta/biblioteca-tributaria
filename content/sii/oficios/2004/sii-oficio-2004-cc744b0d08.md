@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ign="JUSTIFY"> Renta � Actual Ley Sobre Impuesto a la � Art.20�, N�5, Art. 42�, N�2, Art. 45� - C�digo Tributario, Art. 64�. Word Tratamiento Tributario de la entrega de Acciones a Ejecutivos de Empresas en cumplimiento de Plan denominado �Long Term Equiti Ownership Plan�, en virtud del cual se entrega Beneficio sindicado como �Performance Shares�, a sus ejecutivos de m�s alto nivel. (Ord. N� 2.567, de 08.06.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 38�, Inciso 1�, Art. 58�, N� 1. Word Situaci�n Tributar…
+08.06.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 38�, Inciso 1�, Art. 58�, N� 1.
 
 ## Referencias detectadas
 

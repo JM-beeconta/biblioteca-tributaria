@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-23
+- Fecha: 2002-05-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja290.doc
 - Hash SHA-256: d6396c8ead79f0b03362b263c7fb434aa3a324c7ae17137ec3367eaa9a3481d1
 
 ## Resumen
 
-/font> Ley sobre Impuesto a la Renta � art. 55 bis Word Improcedencia de acogerse a beneficio tributario establecido en el art�culo 55 bis de la Ley de la Renta en caso de novaci�n de obligaciones hipotecarias. (Ord. N� 1640, de 23.05.2002) Ley sobre Impuesto a la Renta � art. 69 Ley N� 18.681, de 1987 Word Situaci�n jur�dica de donaciones efectuadas a Universidad, en conformidad al art�culo 69 de la Ley N� 18.681, de 1987. (Ord. N� 1557, de 14.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones…
+Word Situaci�n jur�dica de donaciones efectuadas a Universidad, en conformidad al art�culo 69 de la Ley N� 18.681, de 1987. (Ord. N� 1557, de 14.05.2002)
 
 ## Referencias detectadas
 

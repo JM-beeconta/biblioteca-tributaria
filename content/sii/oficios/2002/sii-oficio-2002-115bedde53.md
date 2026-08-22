@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pensiones de reparaci�n a que se refiere la Ley N� 19.123. (Ord. N� 1707, de 31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respecto de la capacitaci�n impartida a sus propietarios o socios y trabajadores sujetos a precontratos laborales. (Ord. N� 1706, de 31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacita…
+31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518
 
 ## Referencias detectadas
 

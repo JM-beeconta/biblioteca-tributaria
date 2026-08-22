@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-17
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja150.htm
 - Hash SHA-256: 6cedba23229107175a305533a06ea2d3cbd8a9dc60587352b75af01aed3264a5
 
 ## Resumen
 
-Conformidad a Lo Establecido en el Art. 69� de la Ley N� 18.681. (Of. N� 204, de 17.01.2001 � I. Directos) Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuesto de - Art. 23� N� 3� D. Ley 3.475. Word Exenci�n de Impuesto de Timbres y Estampillas que Contempla el Art�culo 23� N� 3�, que Favorece a las Universidades. (Of. N� 0187, de 15.01.2001 � Depto. de T�cnica Tributaria). Franquicia Tributaria � Ley N� 18.392 - Art. 1�, Art. 2�, Art. 9� - C�digo Tributario, Art. 6�, Letra a) N� 1�. Word Empresas que Tienen D…
+Tributaria). Franquicia Tributaria � Ley N� 18.392 - Art. 1�, Art. 2�, Art. 9� - C�digo Tributario, Art. 6�, Letra a) N� 1�.
 
 ## Referencias detectadas
 

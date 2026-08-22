@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-04
+- Fecha: 2004-04-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja730.doc
 - Hash SHA-256: cdc1369682c6663f723d81652c7942325d0bfec0760cc56f16fafd72b757990b
 
 ## Resumen
 
-ey N� 19.753, de 2001, Art. 3� transitorio � Ley N� 19.622, de 1999 � Ley N� 19.840, de 2002 � D.F.L. N� 2 de 1.959 � Circulares N�s 87, de 2001 y 70, de 2002. Word Renuncia a Franquicia Tributaria de la Ley N� 19.622, de 1999. (Ord. N� 2.043, de 04.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, Art. 78� � D.S., N� 268, de Hacienda, de 1976 � Res. Ex. N� 6.509, de 1993. Word Retenci�n Impuesto Unico de Segunda Categor�a en caso de Chilenos que trabajan en Representaciones Diplom�ticas Extranjeras, res…
+Word Retenci�n Impuesto Unico de Segunda Categor�a en caso de Chilenos que trabajan en Representaciones Diplom�ticas Extranjeras, residentes en Chile. (Ord. N� 2.000, de 30.04.2004)
 
 ## Referencias detectadas
 

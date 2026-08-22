@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ipt>mostrar() A�os Anteriores LEY DE IMPUESTO A LA RENTA 2003 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Ley sobre Impuesto a la Renta � Arts. 42 N�s. 1 y 2, 42 bis, 50 inciso 3� Word Consultas relacionadas con el tratamiento tributario del Ahorro Previsional Voluntario. (Oficio N� 6626, de 24.12.2003) Ley sobre Impuesto a la Renta � Art. 59 LIR y D.L. N� 3.500/80 Word Tratamiento tributario de operaci�n de inversi�n que se indic…
+Ley sobre Impuesto a la Renta � Arts. 42 N�s. 1 y 2, 42 bis, 50 inciso 3�
 
 ## Referencias detectadas
 

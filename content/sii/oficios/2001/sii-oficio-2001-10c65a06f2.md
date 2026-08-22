@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-20
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja179.htm
 - Hash SHA-256: 393a86dea4c30528c764ab722ab56c52b4b834a73b21562e075625f1e889fe2f
 
 ## Resumen
 
-'ventas/ja180.htm'>Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 25�, Art. 57� - Decreto Supremo N� 55�, de 1977, Art. 39� - Codigo Tributario, Art. 97� N�16�. Word Solicita Autorizaci�n para Emitir Notas de Cr�dito para Anular Facturas y Nota de D�bito Extraviadas y en el Mismo Acto Emitir Nuevos Documentos a Objeto de que sus Clientes Contabilicen Tales Operaciones y Puedan Hacer Uso del Cr�dito Fiscal Correspondiente. (Of. N� 1192, de 20.03.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto �…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 1� - Ley de la Renta, Art. 21�, Art. 31�, Art. 33� N� 1�.
 
 ## Referencias detectadas
 

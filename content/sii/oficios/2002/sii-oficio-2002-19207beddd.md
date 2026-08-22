@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-13
+- Fecha: 2002-09-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja350.doc
 - Hash SHA-256: b8a57efe8120d8c5ac68a9cca0594288901fb9694924886f2670e39cebb90ffb
 
 ## Resumen
 
-355.doc">Word Tratamiento tributario de indemnizaci�n que se indica. (Ord. N� 3367, de 13.09.2002) Ley sobre Impuesto a la Renta � Art. 59 N� 2 Word Impuesto Adicional que afecta a remuneraciones por servicios prestados en el exterior. (Ord. N� 3262, de 06.09.2002) Ley sobre Impuesto a la Renta � Art. 36 Ley N� 19.518, de 1997 Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 3254, de 05.09.2002) Ley sobre Impuesto a la Renta � Art. 36 de…
+Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 3254, de 05.09.2002)
 
 ## Referencias detectadas
 

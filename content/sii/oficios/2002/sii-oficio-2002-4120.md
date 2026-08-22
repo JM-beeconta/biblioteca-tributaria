@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stible importado a trav�s de la Zona Franca de Iquique. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4121 de 11 de Noviembre de 2002. Word Solicita reconsideraci�n del Oficio N� 3074, del 28 de Agosto del 2002. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4120 de 11 de Noviembre de 2002. Word Procedencia del Impuesto al Valor Agregado en convenio entre ISAPRE y cotizantes, por el cual se otorga el derecho a adquirir medicamentos con descuento en determinada cadena de farmacias, pag�ndose como contrap…
+Word Procedencia del Impuesto al Valor Agregado en convenio entre ISAPRE y cotizantes, por el cual se otorga el derecho a adquirir medicamentos con descuento en determinada cadena de farmacias, pag�ndose como contraprestaci�n una suma fija mensual a todo evento.
 
 ## Referencias detectadas
 

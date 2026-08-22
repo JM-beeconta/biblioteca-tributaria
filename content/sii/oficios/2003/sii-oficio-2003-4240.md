@@ -11,7 +11,7 @@
 
 ## Resumen
 
-' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4239 de 28 de Agosto de 2003.- Word Emisi�n de documentos tributarios en caso de cesi�n de cr�ditos relacionados con convenios complementarios de concesiones de obras p�blicas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4240 de 28 de Agosto de 2003.- Word S�lo se favorece con la exenci�n de IVA establecida en el art�culo 12�, letra E) N� 17, del D.L. N� 825, los servicios de hoteler�a, prestados en �lodge de pesca� a turistas extranjeros. Ley…
+Word S�lo se favorece con la exenci�n de IVA establecida en el art�culo 12�, letra E) N� 17, del D.L. N� 825, los servicios de hoteler�a, prestados en �lodge de pesca� a turistas extranjeros.
 
 ## Referencias detectadas
 

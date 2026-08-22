@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4379
 - Año: 2002
-- Fecha: 2002-12-05
+- Fecha: 2002-11-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja403.doc
 - Hash SHA-256: 88a42c0eddb15f337d151b7e50c7a12171ec074e0511ec2bb3238501ad00c65c
 
 ## Resumen
 
-a venta de chicha a granel efectuada por productores a otros vendedores. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4568 de 5 de Diciembre de 2002. Word IVA en el estacionamiento de veh�culos en las v�as p�blicas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4379 de 26 de Noviembre de 2002. Word Improcedencia de aplicar la exenci�n de los impuestos que indica, a la internaci�n de bebidas alcoh�licas y tabacos, efectuada por pasajeros provenientes de la Zona Franca Primaria y la Zona Franca de Exten…
+Word Improcedencia de aplicar la exenci�n de los impuestos que indica, a la internaci�n de bebidas alcoh�licas y tabacos, efectuada por pasajeros provenientes de la Zona Franca Primaria y la Zona Franca de Extensi�n.
 
 ## Referencias detectadas
 

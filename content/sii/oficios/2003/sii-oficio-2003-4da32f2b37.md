@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-18
+- Fecha: 2003-07-09
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja539.htm
 - Hash SHA-256: a7b2bc8f0dd991768bf6aa926247f9dda7892c36dbe9c2fff19644bda04b6ed5
 
 ## Resumen
 
-� 4008 de 18 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Tasa mensual de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de dinero destinados a la adquisici�n o construcci�n de viviendas que no alcanzan la tasa m�xima. ( Oficio N� 4007 de 18 de Agosto de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 24, N�17, del D.L. N�3.475, de…
+to de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

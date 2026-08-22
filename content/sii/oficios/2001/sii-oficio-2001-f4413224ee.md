@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-10
+- Fecha: 2001-08-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3306.htm
 - Hash SHA-256: 0044160a959bc72697a7db4c4e1fb166d9ef2f6679a324f141dce9cea5b61331
 
 ## Resumen
 
->Word Tributaci�n de usufructo sobre instrumentos mercantiles. Rentan � Actual Ley Sobre Impuesto a la � Art. 43, N�1, Art. 52�, Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3327, de 10.08.2001) Word Mantenci�n del beneficio tributario establecido por la Ley N� 19.622, en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3306, de 08.08.2001) Word C�lculo del l�mite anual de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3306, de 08.08.2001)
 
 ## Referencias detectadas
 

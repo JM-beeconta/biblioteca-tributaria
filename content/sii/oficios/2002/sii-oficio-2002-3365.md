@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3365
 - Año: 2002
-- Fecha: 2002-09-16
+- Fecha: 2002-07-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja361.doc
 - Hash SHA-256: 01d6ec490379c260029aa5c75d158460faba92ead2327798e7c680b3cf471703
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 3396 de 16 de Septiembre de 2002. Word Utilizaci�n del cr�dito fiscal del IVA, recargado en facturas pendientes de pago, emitidas a contribuyentes declarados en quiebra, seg�n el art�culo 29, de la Ley N� 18.591. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3365 de 12 de Septiembre de 2002. Word Sujeto obligado al pago del IVA que grava el arancel establecido en favor del Registro de Multas del Tr�nsito No Pagadas, y la posibilidad de traspasar el monto de…
+Word Sujeto obligado al pago del IVA que grava el arancel establecido en favor del Registro de Multas del Tr�nsito No Pagadas, y la posibilidad de traspasar el monto del impuesto al propietario del veh�culo multado.
 
 ## Referencias detectadas
 

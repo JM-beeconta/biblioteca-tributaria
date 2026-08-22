@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-05-16
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja213.doc
 - Hash SHA-256: 8904eb423cda97b7286a7275de025dd148abee59b172d1305b59456dea29a929
 
 ## Resumen
 
-Texto � Art.30�, Art. 36�, Art. 37� - Circular N� 19, de 1999. Word Contribuyentes a Qui�nes Beneficia el Cr�dito por Gastos de Capacitaci�n Establecido en la Ley N� 19.518, Sobre Estatuto de Capacitaci�n y Empleo. (Of. N� 2133, de 17.05.2001 � I. Directos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circular N� 46, de 1999. Word Contribuyentes Respecto de los Cuales Opera la Franquicia Tributaria Establecida en la Ley…
+Word Contribuyentes Respecto de los Cuales Opera la Franquicia Tributaria Establecida en la Ley N� 19.622, de 1999. (Of. N� 2061, de 16.05.2001 � I. Directos).
 
 ## Referencias detectadas
 

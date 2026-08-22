@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nta/ja140.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 41�, Art. 65�, Art. 69�, Art. 74� N� 4� - Decreto Ley N� 600, de 1974 � Art. 6�. Word Procedencia de Compensar Resultados Positivos y Negativos en Enajenaci�n de Derechos Sociales por Inversionista Extranjero Acogido al D. Ley 600, de 1974. (Of. N� 179, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 31� N� 1� y 8�, Art. 41� - Circular N� 158�, de 1976. Word Situaci�n Tributaria de los Pr�stamos Efectuados por Un Socio a una So…
+Word Situaci�n Tributaria de los Pr�stamos Efectuados por Un Socio a una Sociedad de Personas. (Of. N� 180, de 15.01.2001 � I. Directos)
 
 ## Referencias detectadas
 

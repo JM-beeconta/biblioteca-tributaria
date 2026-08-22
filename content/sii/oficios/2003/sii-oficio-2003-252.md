@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 252
 - Año: 2003
-- Fecha: 2003-02-14
+- Fecha: 2003-01-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja427.doc
 - Hash SHA-256: ca12d79928929f655f2badaa617ca0337ce4d5b38ed919689d9fc017703c2e1e
 
 ## Resumen
 
-t face='arial' size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 560 de 14 de Febrero de 2003. Word Aplicaci�n del Impuesto al Valor Agregado a la Certificaci�n de Origen que debe Realizar la Direcci�n General de Relaciones Econ�micas Internacionales, en Virtud del Acuerdo Suscrito con la Uni�n Europea. Ley de Impuesto a las Ventas y Servicios. Oficio N� 252 de 21 de Enero de 2003. Word Imputaci�n al IVA de las cantidades correspondientes a la retenci�n que afecta a los compradores de harina, seg�n Res…
+Word Imputaci�n al IVA de las cantidades correspondientes a la retenci�n que afecta a los compradores de harina, seg�n Res. Ex. N� 5282, de 30-11-2000.
 
 ## Referencias detectadas
 

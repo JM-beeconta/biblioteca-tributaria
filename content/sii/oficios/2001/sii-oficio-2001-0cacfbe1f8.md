@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-07
+- Fecha: 2001-08-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3590.htm
 - Hash SHA-256: 5ed8e9c09e8b9c054b811389827d680b9acc125bd37acd50647f32ba77263524
 
 ## Resumen
 
-ALIGN='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 3686, de 07.09.2001) Word Impuesto al Valor Agregado que grava a la intermediaci�n v�a Internet para contactar a compradores y vendedores de mercader�as o bien a usuarios y prestadores de servicios, cobr�ndoles a cada uno de ellos una cuota fija mensual por acceder al sistema. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a),…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 16�, letra a) � Ley N� 18.525, Art. 6�, Art. 7�, Art. 8�, Art. 9�. (Ord. N� 3590, de 29.08.2001)
 
 ## Referencias detectadas
 

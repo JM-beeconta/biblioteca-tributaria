@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-12
+- Fecha: 2003-06-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja508.htm
 - Hash SHA-256: 139f113d382884197e2f69722c8d94dd702a78180a366b939c93e261f12c9d7f
 
 ## Resumen
 
-Word Situaci�n tributaria de las becas de estudios otorgadas por las Cajas de Compensaci�n. (Ord. N� 2928, de 12.06.2003) Ley sobre Impuesto a la Renta � Arts. 41 N� 2 y 31 N� 5 Word Tratamiento tributario de un contrato de arriendo con opci�n de compra que recae sobre inmuebles con instalaciones y plant�os. (Ord. N� 2832, de 10.06.2003) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1, 56 N� 3, 62 y 63 Word Solicita reconsideraci�n del Oficio N� 4.306, de 26.11.1999, sobre tratamiento tributario del Impuesto de…
+10.06.2003) Ley sobre Impuesto a la Renta � Arts. 14, 54 N� 1, 56 N� 3, 62 y 63
 
 ## Referencias detectadas
 

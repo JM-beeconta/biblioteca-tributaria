@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-02
+- Fecha: 2004-08-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja806.htm
 - Hash SHA-256: f04804c2f5209fbc0da4009055403275d0d92f167b2b616972a5502b1231f0bd
 
 ## Resumen
 
-spec�fico al petr�leo Diesel e Impuesto al Valor Agregado en ventas efectuadas a Empresas acogidas a las Normas de la Ley N� 18.392. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Letra g). (Ord. N� 4.163 de 02.09.2004) Word Consulta acerca de la aplicaci�n del Impuesto al Valor Agregado al Arrendamiento de Inmuebles. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1990 � C�digo Civil, Art. 909� � Circular N� 53, de 1978. (Ord. N�…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1990 � C�digo Civil, Art. 909� � Circular N� 53, de 1978. (Ord. N� 3.940 de 19.08.2004)
 
 ## Referencias detectadas
 

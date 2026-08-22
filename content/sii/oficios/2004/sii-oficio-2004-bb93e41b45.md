@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-11
+- Fecha: 2004-05-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja723.doc
 - Hash SHA-256: 437a25077ba8f63d410e5be94f0339532126e278bd1ce4878dda389b9d72f76f
 
 ## Resumen
 
-ntas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � ley de la Renta, Art. 20�, N� 3 y N� 4 � Res. Exenta N� 6.080, de 1999. (Ord. N� 2.185, de 11.05.2004) Word Impuesto al Valor Agregado, aplicable a la Certificaci�n del Perfil de ADN, de caballos Chilenos. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, Art. 24�, Art. 27�, Art. 27� bis. (Ord. N� 2.148, de 10.05.2004) Word Solicitud de Devoluci�n de Remanentes de Cr�dito Fiscal originados en la…
+Word Solicitud de Devoluci�n de Remanentes de Cr�dito Fiscal originados en la Adquisici�n de Activos Fijos que fueron enajenados antes de efectuar dicha Solicitud.
 
 ## Referencias detectadas
 

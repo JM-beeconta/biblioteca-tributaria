@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-06-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja221.doc
 - Hash SHA-256: 3ee541ed605106b6d981d23aa766bc8250b2eee1408fa0d17e44b11f04155b4b
 
 ## Resumen
 
-ar N� 103, de 1979 � Codigo Tributario, Art. 97� N� 10. Word Solicita Pronunciamiento Sobre Obligaci�n de Portar Gu�a de Despacho o Factura en los Traslados de Mercader�as de Terceros, en Veh�culos de Carga. (Of. N� 2476, de 06.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 10� - D. S. de Hacienda N� 55 que Contiene el Reglamento del Decreto Ley N� 825, Art.22�, Art. 73� - Circular N� 126, de 1977. Word Aplicaci�n del Procedimiento Establecido para los Comisionistas Vendedore…
+Word Aplicaci�n del Procedimiento Establecido para los Comisionistas Vendedores y/o Compradores a las Agencias Comisionistas que Prestan Servicios por Cuenta de Otros Contribuyentes. (Of. N� 2513, de 08.06.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

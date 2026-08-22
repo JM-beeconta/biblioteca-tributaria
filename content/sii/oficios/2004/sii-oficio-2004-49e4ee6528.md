@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.884, Art. 13�, Art. 14�, art. 15�. Word Situaci�n Tributaria de desembolsos destinados al Financiamiento de Campa�as Electorales. (Ord. N� 4.267, de 10.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 18� ter � Ley N� 19.768 � Circular N� 7, de 2002. Word Aplicaci�n del Beneficio Tributario establecido en el art�culo 18� ter de la Ley de la Renta, para los rescates de cuotas de Fondos Mutuos que cumplan las Condiciones establecidos en dicha norma legal. (Ord…
+Word Aplicaci�n del Beneficio Tributario establecido en el art�culo 18� ter de la Ley de la Renta, para los rescates de cuotas de Fondos Mutuos que cumplan las Condiciones establecidos en dicha norma legal. (Ord. N�, de 4.231. 08.09.2004)
 
 ## Referencias detectadas
 

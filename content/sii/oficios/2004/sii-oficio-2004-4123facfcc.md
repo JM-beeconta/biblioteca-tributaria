@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-10
+- Fecha: 2004-01-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja652.htm
 - Hash SHA-256: d0e23dc9906edc68f45337a766ef81e945338ecc1b95985ddc90d798f18a9e7d
 
 ## Resumen
 
-ficio N� 754 de 10 de Febrero de 2004.- Word IVA en la cesi�n de espacios publicitarios en un estadio donde se desarrolla un Campeonato de F�tbol. Ley de Impuesto a las Ventas y Servicios. Oficio N� 640 de 04 de Febrero de 2004.- Word Tratamiento tributario de la operaci�n de exportaci�n descrita. Ley de Impuesto a las Ventas y Servicios. Oficio N� 335 de 26 de Enero de 2004.- Word El cr�dito fiscal en las importaciones, corresponde al monto del impuesto al valor agregado, que se ha recargado en los comprobantes d…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 335 de 26 de Enero de 2004.-
 
 ## Referencias detectadas
 

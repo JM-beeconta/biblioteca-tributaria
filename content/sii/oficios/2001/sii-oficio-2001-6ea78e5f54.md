@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-24
+- Fecha: 2001-09-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3718.htm
 - Hash SHA-256: 41a95d1187c7221e9fef4a6695c48fec3f399c792c2d8353ef814231a87608b1
 
 ## Resumen
 
-s/ja3848.doc'>Word Impuesto al Valor Agregado, en prestaci�n de servicios de agencia noticiosa. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 3847, de 24.09.2001) Word Tributaci�n frente al IVA, de actividad consistente en la prestaci�n de servicios a trav�s de un portal de Internet. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 37�, Art. 42� � Ley N�18.413, de 1985 � Circular N� 26, de 1985. (Ord. N� 3718, de 11.09.2001) Word Aplic…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 37�, Art. 42� � Ley N�18.413, de 1985 � Circular N� 26, de 1985. (Ord. N� 3718, de 11.09.2001)
 
 ## Referencias detectadas
 

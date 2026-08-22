@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-07-06
+- Fecha: 2001-06-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja2494.doc
 - Hash SHA-256: 012f539febc63b284a2792ee63017a01610b9f2cbb86fc4856f50403a4270013
 
 ## Resumen
 
-ize='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 43�, N� 1, Art. 52 � Ley N� 19.622 � Circular N� 46, de 1999. (Ord. N� 2909, 06.07.2001) Word Improcedencia de acogerse al beneficio tributario establecido por la Ley N� 19.622, en los t�rminos que se indican. Renta� Actual Ley Sobre Impuesto a la � Art. 41�, N�9. (Ord. N� 2494, 06.06.2001) Word Valor de derechos sociales en el caso de divisi�n de sociedad. Rentan� Actual Ley Sobre Impuesto a la � Art. 17�, N�13, Art.42 N� 1, Art. 43 N� 1 � Circulares N�s. 29,…
+Word Valor de derechos sociales en el caso de divisi�n de sociedad.
 
 ## Referencias detectadas
 

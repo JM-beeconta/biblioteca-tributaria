@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-29
+- Fecha: 2001-04-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja186.doc
 - Hash SHA-256: e07b34ecbdde607152c9012ce00af89101903b841dcae251905f3361d3e8f7f5
 
 ## Resumen
 
-nt face='arial' size='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 53� - Codigo Civil, Art. 150, Art. 1.750. Word Tributaci�n de Mujer Casada en R�gimen de Sociedad Conyugal. (Of. N� 1295, de 29.03.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1�, Letra B), Art.41� - Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales, Art.24� - D. S. del Ministerio del Interior N�2.385, de 1996. Word Tributaci�n de Sociedad Agr�cola que Solicita se Determine Si Dicha Empresa se Encuentra en la…
+Word Tributaci�n de Sociedad Agr�cola que Solicita se Determine Si Dicha Empresa se Encuentra en la Situaci�n Prevista en el Art�culo 24�, Inciso 5� del Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales. (Of. N� 1582, de 10.04.2001 � I. Directos)
 
 ## Referencias detectadas
 

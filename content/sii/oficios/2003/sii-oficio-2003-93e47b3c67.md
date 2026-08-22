@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-20
+- Fecha: 2003-03-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja515.doc
 - Hash SHA-256: b974268f46a9a480941cb38f4996d14fddc0d66f8a868af549687384c4c8a4eb
 
 ## Resumen
 
-FY'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3090 de 20 de Junio de 2003. Word Utilizaci�n como cr�dito fiscal de sumas reintegradas en arcas fiscales en raz�n de haber obtenido una devoluci�n de IVA exportadores improcedente, extempor�nea o superior a la que correspond�a. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2985 de 12 de Junio de 2003. Word Aplicaci�n de IVA a cesi�n de contrato de prestaci�n de servicios que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2769 de 03 de Jun…
+Word Aplicaci�n de IVA a cesi�n de contrato de prestaci�n de servicios que indica.
 
 ## Referencias detectadas
 

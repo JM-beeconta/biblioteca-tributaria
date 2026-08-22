@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-07-13
+- Fecha: 2001-05-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja1941.doc
 - Hash SHA-256: 56712feb974616deae34ffd4e5baca34c66625c8b65031afe1ee4b99e4a49161
 
 ## Resumen
 
-ze='2'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6� � Ley N� 19.030 � decreto N� 211, de 2000, Art. 5�. (Ord. N� 2971, de 13.07.2001) Word Legislaci�n tributaria aplicable, a gasolina de 120 octanos, utilizada en aviaci�n particular o deportiva. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 1941, de 08.05.2001) Word IVA en contrato de prestaci�n de servicios de acceso a bases de datos en l�nea. Ventas y Servicios…
+Word IVA en contrato de prestaci�n de servicios de acceso a bases de datos en l�nea.
 
 ## Referencias detectadas
 

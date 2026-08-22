@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Ley sobre Impuesto a la Renta � art. 2� transitorio Ley N� 19.768 Word Condiciones bajo las cuales un contribuyente se puede acoger al r�gimen tributario opcional que establece el art. 2� transitorio de la Ley N� 19.768, del a�o 2001, respecto de acciones que pose�a un causante. (Ord. N� 2372, de 01.07.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 2371, de 01.07.2002) Ley sobre Imp…
+Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 2371, de 01.07.2002)
 
 ## Referencias detectadas
 

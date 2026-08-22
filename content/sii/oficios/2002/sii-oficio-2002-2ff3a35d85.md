@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-10-14
+- Fecha: 2002-10-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja375.htm
 - Hash SHA-256: 4e5bc86096cb3f97ff1a93882a81848eede6684c9b2ed155b4c169517d6f824b
 
 ## Resumen
 
-a las Ventas y Servicios. Oficio N� 3688 de 14 de Octubre de 2002. Word Consulta sobre la posibilidad de que un contribuyente exportador que ha cometido errores en el formulario de declaraci�n de IVA y que como consecuencia se encuentra impedido de solicitar la devoluci�n del cr�dito fiscal, se le autorice a enmendar los errores cometidos en las declaraciones correspondientes y solicitar la devoluci�n pendiente a trav�s del mecanismo del art�culo 126 N� 3 del C�digo Tributario. Ley de Impuesto a las Ventas y Servi…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3661 de 11 de Octubre de 2002.
 
 ## Referencias detectadas
 

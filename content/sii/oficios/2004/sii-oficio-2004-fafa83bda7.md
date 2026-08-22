@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-10
+- Fecha: 2004-02-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja654.htm
 - Hash SHA-256: 3e8c288ad50c9bd701b64aee87b00c56c5c2974509256085bea2a03481d666ad
 
 ## Resumen
 
-s bienes o la resciliaci�n de los servicios se produzca con posterioridad a los tres meses, establecidos en el inciso segundo del art�culo 70�, del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 754 de 10 de Febrero de 2004.- Word IVA en la cesi�n de espacios publicitarios en un estadio donde se desarrolla un Campeonato de F�tbol. Ley de Impuesto a las Ventas y Servicios. Oficio N� 640 de 04 de Febrero de 2004.- Word Tratamiento tributario de la operaci�n de exportaci�n descrita. Ley de Impuesto…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 640 de 04 de Febrero de 2004.-
 
 ## Referencias detectadas
 

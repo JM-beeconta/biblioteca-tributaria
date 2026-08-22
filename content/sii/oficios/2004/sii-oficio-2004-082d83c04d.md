@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-28
+- Fecha: 2004-04-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja728.htm
 - Hash SHA-256: 70ee56d8d6e4d05700657843c759cbe374be7026b4a2e4a44a5f3d7dda9e4914
 
 ## Resumen
 
-> Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art. 14�, Letra A), N� 3 � C�digo Tributario, Arts. N�s 66�, 68�, 69�, 74�, N� 1 2 y 4, 78� y 79� � Res. Ex. N� 2.154, de 1991 Word Contribuyentes obligados a llevar el Libro del Fondo de Utilidades Tributables. (Ord. N� 1.954, de 28.04.2004) Renta � Actual Ley Sobre Impuesto a la � D.F.L. N� 1, del Ministerio de Defensa, de 1997, Art. 189� � D.F.L. N� 1, de Guerra, de 1968, Arts. 115� y 118� � Oficios N�s 3.219, de 1982, 408, de 1997 y 2.244, de 1971. Word Situ…
+Renta � Actual Ley Sobre Impuesto a la � D.F.L. N� 1, del Ministerio de Defensa, de 1997, Art. 189� � D.F.L. N� 1, de Guerra, de 1968, Arts. 115� y 118� � Oficios N�s 3.219, de 1982, 408, de 1997 y 2.244, de 1971.
 
 ## Referencias detectadas
 

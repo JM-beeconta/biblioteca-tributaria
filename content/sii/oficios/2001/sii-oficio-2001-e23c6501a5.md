@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-11
+- Fecha: 2001-01-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja130.doc
 - Hash SHA-256: 8a10d69cdf62f49833397b01765b74459d62f1b749ab6882f3b1a4bb600bc970
 
 ## Resumen
 
-la � Art. 17� N� 8� y 13� � Art. 178� del Codigo del Trabajo � Ley N� 19.578, de 1998, Art. 2� Transitorio � Circular N� 59�, de 1998. Word Tratamiento Tributario Aplicable en Venta de Acciones Recibidas en Pago de Indemnizaciones por A�os de Servicios. (Of. N� 137, de 11.01.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 15�, Art.29� - Decreto Supremo N� 357, del Ministerio de Salud, de 1970 - Circular N� 11�, de 1988. Word Per�odo en que Deben Computarse Como Ingresos Brutos los Provenientes d…
+Word Per�odo en que Deben Computarse Como Ingresos Brutos los Provenientes de Venta de Sepulturas de Parques Cementerios. (Of. N� 13, de 02.01.2001 � I. Directos)
 
 ## Referencias detectadas
 

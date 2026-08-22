@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ce="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art., 33� bis � Circulares N�s 41 de 1990, 44, de 1993 y 53, de 1998 Word Procedencia de la Utilizaci�n del Cr�dito de 4% del Valor de los Bienes F�sicos del Activo Inmovilizado adquiridos nuevos o terminados de construir durante el ejercicio que establece el art�culo 33� bis de la Ley de la Renta, en caso que se indica. (Ord. N� 3.995, de 24.08.2004) Renta � Actual Ley Sobre Impuesto a la � 20�, N� 1 � D.S. N� 1.139, de 1990 � Circular N� 22, de 1991.…
+24.08.2004) Renta � Actual Ley Sobre Impuesto a la � 20�, N� 1 � D.S. N� 1.139, de 1990 � Circular N� 22, de 1991.
 
 ## Referencias detectadas
 

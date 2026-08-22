@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-02
+- Fecha: 2003-09-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja568.doc
 - Hash SHA-256: 2298381ca435747e3a9ebff5c1ff2a4cac30a99223037a865630683d370c2159
 
 ## Resumen
 
-ca de Argentina. (Ord. N� 5029, de 02.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 letra b) e inciso 4� y 18 inciso 3� LIR Word Apreciaci�n de habitualidad respecto de enajenaci�n viviendas por un particular a partir de inmueble urbano que se subdivide. (Ord. N� 4813, de 25.09.2003) Ley sobre Impuesto a la Renta � Art. 15 LIR Word Tratamiento tributario de los subsidios recibidos del Estado por parte de una empresa concesionaria. (Ord. N� 4786, de 24.09.2003) Ley sobre Impuesto a la Renta � Art. 41 incis…
+Word Tratamiento tributario de los subsidios recibidos del Estado por parte de una empresa concesionaria. (Ord. N� 4786, de 24.09.2003)
 
 ## Referencias detectadas
 

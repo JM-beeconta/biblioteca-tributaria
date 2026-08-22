@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5264
 - Año: 2003
-- Fecha: 2003-10-21
+- Fecha: 2003-10-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja593.doc
 - Hash SHA-256: 3ae0e8e1160e330f6de04396ec3371c81d16b31143d2d4b4741f5710953460bc
 
 ## Resumen
 
-> Ley de Impuesto a las Ventas y Servicios. Oficio N� 5290 de 21 de Octubre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de gesti�n de funciones administrativas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5264 de 16 de Octubre de 2003.- Word No se encuentra gravado con IVA, el servicio de cobranza y recaudaci�n de primas de seguros contratados por terceros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5291 de 21 de Octubre de 2003.- Word Aplicaci�n de IVA en servicios de…
+Word No se encuentra gravado con IVA, el servicio de cobranza y recaudaci�n de primas de seguros contratados por terceros.
 
 ## Referencias detectadas
 

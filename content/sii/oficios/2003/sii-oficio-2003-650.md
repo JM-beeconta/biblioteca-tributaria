@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 650
 - Año: 2003
-- Fecha: 2003-03-24
+- Fecha: 2003-02-26
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja448.doc
 - Hash SHA-256: e8bdbd3686279efc087268e7d9253eb6ec25a162909e569e4383b80528d1a915
 
 ## Resumen
 
-bsp; Word Decreto Ley N�3.475, de 1980, art�culo 26�, sobre Impuesto de Timbres y Estampillas. Aplicaci�n del Impuesto respecto de pagar� suscrito en el extranjero entre personas domiciliadas en el exterior, en que la garant�a ha sido otorgada por una persona domiciliada en Chile, para efectos de su cobro en Chile. ( Oficio N� 1054, de 24 de Marzo de 2003). Decreto Ley N� 3.475, Impuesto de Timbres y Estampillas. Word Tasa de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de…
+Word Tasa de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de dinero destinados a la adquisici�n o construcci�n de viviendas. ( Oficio N� 650 de 26 de Febrero de 2003).
 
 ## Referencias detectadas
 

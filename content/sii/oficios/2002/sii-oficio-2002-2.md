@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Situaci�n tributaria de las becas de estudio otorgadas por las Cajas de Compensaci�n. ( Ordinario N� 6233, de 10 Diciembre de 2003). Ley sobre Impuesto a la Renta � Arts. 42 N� 1; 43 N� 1 y 74 N� 1 de la LIR y Ley N� 18.156 Word Resuelve reconsideraci�n de Oficios N�s 2.758, de fecha 25.07.2002 y 104, de fecha 10.01.2003, del SII. (Ord. N� 6141, de 02.12.2003) Ley sobre Impuesto a la Renta � Art. 14 bis Word Ingresos que deben considerarse para los efectos de determinar el l�mite de las 3000 UTM a que se refiere e…
+Word Resuelve reconsideraci�n de Oficios N�s 2.758, de fecha 25.07.2002 y 104, de fecha 10.01.2003, del SII. (Ord. N� 6141, de 02.12.2003)
 
 ## Referencias detectadas
 

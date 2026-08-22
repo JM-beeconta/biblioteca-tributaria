@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-18
+- Fecha: 2004-05-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja727.doc
 - Hash SHA-256: 247d3494cbca78d2f53bacfc9d2585f58c21eece94793f8abe0f86d3d4d8b9d9
 
 ## Resumen
 
-to a las � Art. 8�, Art. 2�, N�2 � Ley de la Renta, Art. 20� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 2.329, de 18.05.2004) Word Impuesto al Valor Agregado a los servicios de Gesti�n de Negocios que prestar� la consultante. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra e), Art. 9�, letra f), Art. 11�, letra f), Art. 16�, letra c), Art. 55� � Ley N� 19.888, de 2003. (Ord. N� 2.261, de 13.05.2004) Word IVA en Contrato suscrito con anterioridad al aumento de la Tasa de ese Tr…
+Word IVA en Contrato suscrito con anterioridad al aumento de la Tasa de ese Tributo.
 
 ## Referencias detectadas
 

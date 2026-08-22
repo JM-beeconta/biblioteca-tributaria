@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-23
+- Fecha: 2004-04-06
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja709.htm
 - Hash SHA-256: 6bdb50ccc2801911e6c918193d62ca33de73acb3cb3ad46ca23f3adb15bdb32a
 
 ## Resumen
 
-48, de 23.06.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3�, N� 1, Art. 9�, N� 3, Art. 14�, Art. 16�, Art. 23�, N� 1 � C�digo Tributario, Art. 126� y 128�. Word Devoluci�n del Impuesto de Timbres y estampillas respecto de Pagar�s en que el fisco es el beneficiario o acreedor del documento. (Ord. N� 1.624, de 06.04.2004) Ley sobre Fomento Forestal � D.L. N� 701, Art. 13�, inciso 4�, Art. 7� � D. L. N� 1.341, de 1998, Art. 6� y Art. 7� � Circular N� 78, de 2001. Word Posibilidad de Efec…
+06.04.2004) Ley sobre Fomento Forestal � D.L. N� 701, Art. 13�, inciso 4�, Art. 7� � D. L. N� 1.341, de 1998, Art. 6� y Art. 7� � Circular N� 78, de 2001.
 
 ## Referencias detectadas
 

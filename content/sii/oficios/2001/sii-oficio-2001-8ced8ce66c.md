@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nbsp; Word Impuesto al Valor Agregado que grava a la intermediaci�n v�a Internet para contactar a compradores y vendedores de mercader�as o bien a usuarios y prestadores de servicios, cobr�ndoles a cada uno de ellos una cuota fija mensual por acceder al sistema. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra a), Art. 16�, letra a) � Ley N� 18.525, Art. 6�, Art. 7�, Art. 8�, Art. 9�. (Ord. N� 3590, de 29.08.2001) Word Solicita autorizaci�n para calcular el Impuesto al Valor Agre…
+Word Solicita autorizaci�n para calcular el Impuesto al Valor Agregado causado en la importaci�n de bananos, sobre el valor CIF de los mismos y no sobre su valor aduanero.
 
 ## Referencias detectadas
 

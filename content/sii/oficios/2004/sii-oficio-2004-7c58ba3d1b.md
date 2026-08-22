@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-19
+- Fecha: 2004-02-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja660.htm
 - Hash SHA-256: 07a9d67a17af8bf6f871fd0df29405fc4f2a7a4910625bf64a8fd5ef54e2cea6
 
 ## Resumen
 
-n de los cr�ditos de sus asociados. (Ord. N� 977, de 19.02.2004) Ley sobre Impuesto a la Renta � Art. 64 C�digo Tributario Word Adjudicaci�n de lotes de inmueble urbano pose�do en comunidad y facultad de tasar contenida en el art�culo 64 del C�digo Tributario. (Ord. N� 976, de 19.02.2004) Ley sobre Impuesto a la Renta � Art. 59 N� 2 Word Improcedencia de exenci�n de impuesto adicional establecida en el inciso segundo del n�mero 2 del art�culo 59 de la Ley de la Renta, en el caso de pagos efectuados al exterior por…
+Ley sobre Impuesto a la Renta � Art. 59 N� 2
 
 ## Referencias detectadas
 

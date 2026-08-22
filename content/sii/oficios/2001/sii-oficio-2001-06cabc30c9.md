@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-25
+- Fecha: 2001-10-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4222.htm
 - Hash SHA-256: 61faf9b5d8dcaf8507c9cb0a9504a34b62112112a2dbae4834a117ec88810a28
 
 ## Resumen
 
-sp; Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 20�, N�5. (Ord. N� 4259, de 25.10.2001) Word Impuesto al Valor Agregado que grava al servicio de certificaci�n de instalaciones de gas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra m), Art. 23�, N�5. (Ord. N� 4222, de 23.10.2001) Word Impuesto al Valor Agregado en venta de veh�culos motorizados usados. Ventas…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra m), Art. 23�, N�5. (Ord. N� 4222, de 23.10.2001)
 
 ## Referencias detectadas
 

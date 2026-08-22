@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-22
+- Fecha: 2002-11-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja399.htm
 - Hash SHA-256: c364d44277c502ac81b0af1adfec75c1d77c2a116e044f7b4a3860535a4ff211
 
 ## Resumen
 
-tm'>Ley de Impuesto a las Ventas y Servicios. Oficio N� 4356 de 22 de Noviembre de 2002. Word Aplicaci�n del IVA a cuota de cierre del vertedero XXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4295 de 21 de Noviembre de 2002. Word Vigencia de la Circular N� 41, de 29 de julio del 2001. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4123 de 11 de Noviembre de 2002. Word Procedencia del uso, por parte de las empresas constructoras, del cr�dito especial establecido en el art�culo 21, del D.L. N� 910,…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4123 de 11 de Noviembre de 2002.
 
 ## Referencias detectadas
 

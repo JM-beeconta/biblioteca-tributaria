@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Art. 9�, N� 3, Art. 14�, Art. 16�, Art. 23�, N� 1 � C�digo Tributario, Art. 126� y 128�. Word Devoluci�n del Impuesto de Timbres y estampillas respecto de Pagar�s en que el fisco es el beneficiario o acreedor del documento. (Ord. N� 1.624, de 06.04.2004) Ley sobre Fomento Forestal � D.L. N� 701, Art. 13�, inciso 4�, Art. 7� � D. L. N� 1.341, de 1998, Art. 6� y Art. 7� � Circular N� 78, de 2001. Word Posibilidad de Efectuar una segunda Donaci�n respecto de un predio acogido al Decreto Ley N� 701, de 1974, en relaci…
+Word Posibilidad de Efectuar una segunda Donaci�n respecto de un predio acogido al Decreto Ley N� 701, de 1974, en relaci�n con la aplicaci�n de la exenci�n del Impuesto sobre Herencias, Asignaciones y Donaciones, establecida en el inciso 4�, del art�culo N�13, del referido cuerpo legal (Ord. N� 1.623, de 06.04.2004)
 
 ## Referencias detectadas
 

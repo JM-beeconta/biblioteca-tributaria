@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 6587
 - Año: 2003
-- Fecha: 2003-12-23
+- Fecha: 2003-12-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja637.doc
 - Hash SHA-256: f1d6896a8df81b03fe7873cb528add773a479cab43b893f8a7d755d7d2549beb
 
 ## Resumen
 
-os. Oficio N� 6606 de 23 de Diciembre de 2003. Word Procedencia de emitir nota de d�bito para regularizar situaci�n de contribuyente que, a su juicio, vio afectado su remanente de cr�dito fiscal al ser objetada por este Servicio a su contraparte, nota de cr�dito emitida por �sta y asociada a la prestaci�n de servicios administrativos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6587 de 22 de Diciembre de 2003. Word Impuesto al Valor Agregado que grava el monto que se paga por ingresar a Parques, Reservas y…
+Word Impuesto al Valor Agregado que grava el monto que se paga por ingresar a Parques, Reservas y Monumentos Nacionales administrados por la Corporaci�n Nacional Forestal (CONAF)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-01-26
+- Fecha: 2004-08-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja791.doc
 - Hash SHA-256: 076b03082ab14d533bdb86dfe100cfab433a392b1a95210e8febc67120352f3b
 
 ## Resumen
 
-> Renta � Actual Ley Sobre Impuesto a la Renta � Art. 69 de la Ley N� 18.681, de 1987 Word Rectifica Oficio N� 341, de 26.01.2004, en la Parte que se Indica.- (Ord. N� 3.950, de 20.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 17�, Art. 29�, Art. 30�, Art. 31�, Art. 41�, N� 7. Word Tratamiento Tributario de las Inversiones efectuadas en terreno Ajeno. (Ord. N�3.844, de 13.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 31�, N� 3, Art. 93� a 97� � Circular N� 72, de 2001. Word Mome…
+Word Tratamiento Tributario de las Inversiones efectuadas en terreno Ajeno. (Ord. N�3.844, de 13.08.2004)
 
 ## Referencias detectadas
 

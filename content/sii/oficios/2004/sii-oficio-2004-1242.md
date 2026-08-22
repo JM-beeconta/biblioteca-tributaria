@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1242
 - Año: 2004
-- Fecha: 2004-03-17
+- Fecha: 2004-03-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja675.doc
 - Hash SHA-256: 23e834fbd0f130d32c2fce0546cccd9fba31f63044ef317b99fc6d5c2b44cc5d
 
 ## Resumen
 
-nvenio de canje hotelero Ley de Impuesto a las Ventas y Servicios. Oficio N� 1274, de 17 de Marzo de 2004 Word IVA en contrato de servicios de aseo comunal, suscritos con anterioridad al aumento de la tasa de ese tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1242 de 15 de Marzo de 2004 Word Impuesto al Valor Agregado a los pagos que el Fisco efect�a a la empresa concesionaria del puerto de Arica, en virtud del convenio celebrado entre el Fisco de Chile y la Empresa Portuaria XXXX. Ley de Impuesto a…
+Word Impuesto al Valor Agregado a los pagos que el Fisco efect�a a la empresa concesionaria del puerto de Arica, en virtud del convenio celebrado entre el Fisco de Chile y la Empresa Portuaria XXXX.
 
 ## Referencias detectadas
 

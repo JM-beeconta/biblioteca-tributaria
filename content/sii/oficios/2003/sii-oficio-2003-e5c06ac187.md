@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-30
+- Fecha: 2003-06-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja505.doc
 - Hash SHA-256: 1c4ee8d50e437492650406f26b31ac27821dd4f0bf692f8909f105729e05f13e
 
 ## Resumen
 
-Tratamiento tributario de bonificaci�n a la contrataci�n de mano de obra. (Ord. N� 2616, de 30.05.2003) Ley sobre Impuesto a la Renta � Art. 14 Ley N� 19.857 Word Informa sobre tratamiento tributario de empresas individuales de responsabilidad limitada. (Ord. N� 2621, de 02.06.2003) Ley sobre Impuesto a la Renta � Arts. 31 y 59 Word Impuesto Adicional que afecta a sociedad chilena que presta servicios de clasificaci�n de naves que recalen en costas chilenas y extranjeras. (Ord. N� 2620, de 02.06.2003) Ley sobre Im…
+Word Impuesto Adicional que afecta a sociedad chilena que presta servicios de clasificaci�n de naves que recalen en costas chilenas y extranjeras. (Ord. N� 2620, de 02.06.2003)
 
 ## Referencias detectadas
 

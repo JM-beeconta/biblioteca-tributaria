@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4356
 - Año: 2002
-- Fecha: 2002-11-26
+- Fecha: 2002-11-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja401.doc
 - Hash SHA-256: 287d1d88a90ab4c0d4b913030230195b0d806f77fdc999874ed95870c5612a90
 
 ## Resumen
 
-'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4379 de 26 de Noviembre de 2002. Word Improcedencia de aplicar la exenci�n de los impuestos que indica, a la internaci�n de bebidas alcoh�licas y tabacos, efectuada por pasajeros provenientes de la Zona Franca Primaria y la Zona Franca de Extensi�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4356 de 22 de Noviembre de 2002. Word Aplicaci�n del IVA a cuota de cierre del vertedero XXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4295 de 21 de…
+Word Aplicaci�n del IVA a cuota de cierre del vertedero XXXXXX.
 
 ## Referencias detectadas
 

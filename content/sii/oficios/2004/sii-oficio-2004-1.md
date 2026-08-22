@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1
 - Año: 2004
-- Fecha: 2004-09-20
+- Fecha: 2004-09-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja805.doc
 - Hash SHA-256: 2425a4ddea6a1c0883edbfbff9d5043ae13d98240b0fd44ed25a266b09ce3659
 
 ## Resumen
 
-. 57� bis, Letra A), N�5, Art. 68�, Art. 42�, N� 2 � Circulares N�s 21 de 1991, 56 de 1993, 38 de 1996, 56 de 1997 y 71 de 1998. Word Tributaci�n de Retiros de Fondos Invertidos de acuerdo al Art�culo 57� bis de la Ley de la Renta. (Ord. N� 4.403, de 20.09.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.884, Art. 21�, Art. 19� � Ley N� 19.885, Art. 8� � Oficio N� 1.765, de 2004. Word Situaci�n tributaria de las Donaciones efectuadas a Partidos Pol�ticos. (Ord. N� 4.304, de 13.09.2004) Renta � Actual Ley S…
+Word Situaci�n tributaria de las Donaciones efectuadas a Partidos Pol�ticos. (Ord. N� 4.304, de 13.09.2004)
 
 ## Referencias detectadas
 

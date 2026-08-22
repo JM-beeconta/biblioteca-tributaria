@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-30
+- Fecha: 2002-04-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja278.doc
 - Hash SHA-256: fc641465684923018d0908a2678d42571482df45c1fcf5fafc2f01a069c17a72
 
 ## Resumen
 
-Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1405, de 30.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Caso en el cual se mantiene el beneficio tributario de la Ley N� 19.622, de 1999. (Ord. N� 1397, de 29.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1385, de 26.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Wor…
+Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1385, de 26.04.2002)
 
 ## Referencias detectadas
 

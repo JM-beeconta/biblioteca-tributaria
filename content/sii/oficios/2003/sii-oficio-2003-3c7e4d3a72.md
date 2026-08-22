@@ -11,7 +11,7 @@
 
 ## Resumen
 
-doc">Word Competencia del Servicio respecto de la determinaci�n del Capital Propio para los efectos de las patentes municipales. (Ord. N� 906, de 13.03.2003) Ley sobre Impuesto a la Renta � Art. 42 ter LIR y Ley N� 19.768 Word Tributaci�n de los excedentes de libre disposici�n efectuados con cargo a cotizaciones obligatorias. (Ord. N� 905, de 13.03.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 17 LIR Word Situaci�n tributaria de pensiones o jubilaciones obtenidas en el exterior. (Ord. N� 817, de 11.03.2003) Ley…
+13.03.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 17 LIR
 
 ## Referencias detectadas
 

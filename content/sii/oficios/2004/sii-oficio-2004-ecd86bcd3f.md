@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-17
+- Fecha: 2004-11-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja839.htm
 - Hash SHA-256: 18898a6a511b31f8cfa498b67392202d3f1e2aa473ee760ebe9bede4402420c5
 
 ## Resumen
 
-a840.htm">Renta � Actual Ley Sobre Impuesto a la � Art. 31� � Ley N� 19.518, Art. 36�, Art. 37�, Art. 40�, Art. 42� � Circulares N�s 19, de 1999, 89, de 2001 y 61, de 2002. Word Situaci�n Tributaria de los Gastos que Exceden de los L�mites establecidos en el Art�culo 36� de la Ley N�19.518, de 1997, en concordancia con lo establecido en los Art�culos 37�, 40� y 42� de la misma Ley. (Oficio N� 5.059, de 17.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, Art. 45�, Art. 46� � Circular N� 3…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, Art. 45�, Art. 46� � Circular N� 37, de 1990. (Ord. N� 5.006, de 12.11.2004)
 
 ## Referencias detectadas
 

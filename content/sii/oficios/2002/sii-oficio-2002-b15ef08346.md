@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-05
+- Fecha: 2002-09-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja347.htm
 - Hash SHA-256: 0cae9a9c1a9ab736c0ac49254317ee9905e3518dce00550767171f4b7d3a671d
 
 ## Resumen
 
-sas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 3254, de 05.09.2002) Ley sobre Impuesto a la Renta � Art. 36 de la Ley N� 19.518, de 1997 Word Situaci�n tributaria de las Cooperativas frente al cr�dito por gastos de capacitaci�n establecido por la Ley N� 19.518, de 1997. (Ord. N� 3180, de 03.09.2002) Ley sobre Impuesto a la Renta � Art. 34 bis N� 2 LIR y Art. 47 C�digo del Trabajo Word Contribuyentes que tienen derecho a gratificaciones legales, conforme a…
+03.09.2002) Ley sobre Impuesto a la Renta � Art. 34 bis N� 2 LIR y Art. 47 C�digo del Trabajo
 
 ## Referencias detectadas
 

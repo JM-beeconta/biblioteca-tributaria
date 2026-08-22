@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-08
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja205.htm
 - Hash SHA-256: f2c1187080637e397837f895d3fc23c57c925be781ad643dc55690245d6a6a31
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 18� Inciso 1�, Art. 55� Inciso 8� - Ley de la Renta, Art. 30�, Art. 31� - Circular N� 103, de 1979. Word Solicita se Confirme Criterio en Relaci�n al IVA E Impuesto a la Renta de los Reemplazos de Piezas o Partes Defectuosas que se Realizan en Cumplimiento de Un Contrato de Marc. (Of. N� 1940, de 08.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 52� y Sgtes. - Ley Sobr…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 52� y Sgtes. - Ley Sobre Impuesto a la Renta, Art. 20 - Resolucion Ex. N� 143, de 1984.
 
 ## Referencias detectadas
 

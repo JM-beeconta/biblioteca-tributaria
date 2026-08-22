@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-28
+- Fecha: 2002-09-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja353.htm
 - Hash SHA-256: 00e34120ebafc80ba6d9bfac3a1f5db71d12d6f1df18ec545172561be81924d4
 
 ## Resumen
 
-a> Word Tratamiento tributario de la recuperaci�n de p�rdidas de empresas declaradas en quiebra en casos que indica. (Ord. N� 3066, de 28.08.2002) Ley sobre Impuesto a la Renta � Art. 42 N� 1 y 43 N� 1 LIR y Art. 1� transitorio Ley N� 19.170 Word Tratamiento tributario de indemnizaci�n que se indica. (Ord. N� 3367, de 13.09.2002) Ley sobre Impuesto a la Renta � Art. 59 N� 2 Word Impuesto Adicional que afecta a remuneraciones por servicios prestados en el exterior. (Ord. N� 3262, de 06.09.2002) Ley sobre Impuesto a…
+2002) Ley sobre Impuesto a la Renta � Art. 59 N� 2
 
 ## Referencias detectadas
 

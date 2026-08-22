@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-31
+- Fecha: 2004-05-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja741.doc
 - Hash SHA-256: 7e22f6cc0a2802adf283e98b6d3101c00f8fd4417cf885bf9bd79e76e7ec645f
 
 ## Resumen
 
-3500, de 1980, Art. 98�� Circular N� 23, de 2002. Word Tributaci�n que afecta a Afiliados que hicieron Retiros de Excedentes de Libre Disposici�n (ELD), antes de la Publicaci�n de la Ley N� 19.768, de 2001. (Ord. N� 2.487, de 31.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 42�, N� 1 � C�digo Tributario, Art. 64� � D.L. N� 825, de 1974, Art. 8�, letra m). Word Tributaci�n que afecta al beneficio que se Produce entre el Valor Pactado de los Veh�culos entre la Empresa y sus Trabajadores y el…
+Word Tributaci�n que afecta al beneficio que se Produce entre el Valor Pactado de los Veh�culos entre la Empresa y sus Trabajadores y el Valor Comercial de dichos Bienes. (Ord. N� 2.459, de 27.05.2004)
 
 ## Referencias detectadas
 

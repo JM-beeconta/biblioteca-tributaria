@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-03
+- Fecha: 2004-02-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja664.htm
 - Hash SHA-256: 5b70401165bae99e1ffa49ac8bd23c29291eecb83f9460c144a08ec9d364fa9b
 
 ## Resumen
 
-o, por corresponder al prestado generalmente por una agencia de negocios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1109 de 03 de Marzo de 2004.- Word El IVA recargado en las facturas, por la adquisici�n de bienes corporales muebles, se devenga al momento de la emisi�n de ese documento o al de la entrega real o simb�lica de tales bienes. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1050 de 27 de Febrero de 2004.- Word Situaci�n tributaria frente al Impuesto a la Renta e Impuesto a las Ventas y Ser…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1050 de 27 de Febrero de 2004.-
 
 ## Referencias detectadas
 

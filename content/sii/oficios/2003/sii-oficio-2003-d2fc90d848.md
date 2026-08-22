@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-01
+- Fecha: 2003-09-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja570.htm
 - Hash SHA-256: 3dc0e223a3e2e3a7998083b8d0d19a8fe906556f8f0e77d8fb2beb708aafe5e5
 
 ## Resumen
 
-en las importaciones. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5017 de 01 de Octubre de 2003.- Word Vigencia del impuesto establecido en el art�culo 43� bis, del D.L. N� 825, en especial la relacionada con la aplicaci�n de la tasa m�nima dispuesta en el inciso cuarto del mencionado art�culo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4883 de 26 de Septiembre de 2003.- Word Tributaci�n con Impuesto al Valor Agregado de arrendamiento con opci�n de compra de inmueble con uso y destino industrial.…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4883 de 26 de Septiembre de 2003.-
 
 ## Referencias detectadas
 

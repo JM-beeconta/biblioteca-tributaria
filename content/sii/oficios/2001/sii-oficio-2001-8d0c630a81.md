@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-22
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja168.htm
 - Hash SHA-256: 20ca87f1b22e136e3df20fb1ca04b42152a1c057d2f8b716aa377aaa661e91da
 
 ## Resumen
 
-tablecido por la Ley N� 19.622, de 1999. (Of. N� 317, de 22.01.2001 � I. Directos). Ley N� 18.211, de 1983 � Art. 11� - Circular N� 21, de 1983. Word Tipo de Cambio que se Debe Utilizar para Efectos de la Determinaci�n y Pago en Moneda Nacional del Impuesto Contemplado en el Art�culo 11 de la Ley N� 18.211, de 1983. (Of. N� 243, de 19.01.2001 � I. Indirectos). Ley N� 18.681, de 1987 � Art. 69� - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993. Word . Situaci�n Tributaria de Donaciones…
+Indirectos). Ley N� 18.681, de 1987 � Art. 69� - Donaciones para Instituciones de Educaci�n Superior - Circular N� 24, de 1993.
 
 ## Referencias detectadas
 

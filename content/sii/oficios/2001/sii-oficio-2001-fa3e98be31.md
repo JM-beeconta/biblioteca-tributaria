@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-26
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja191.htm
 - Hash SHA-256: 61fca0e05720338b307a1a0d63705131003195524b3eebca425c770fe8c8c5f0
 
 ## Resumen
 
-Aplicar al Pisco Sour. (Of. N� 1797, de 26.04.2001 � I. Indirectos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circular N� 46, de 1999. Word Beneficio Tributario del D.F.L. N� 2 en el Caso de Renegociaci�n de Deuda Hipotecaria. (Of. N� 1756, de 25.04.2001 � I. Directos). Decreto Ley N� 1.328, de 1976 � Art. 17� y 19�. Word Indice de Reajustabilidad a Utilizar para Calcular el Mayor Valor Obtenido en el Rescate de Cuot…
+. Directos). Decreto Ley N� 1.328, de 1976 � Art. 17� y 19�.
 
 ## Referencias detectadas
 

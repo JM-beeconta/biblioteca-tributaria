@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/font> Renta � Actual Ley Sobre Impuesto a la � Art. 42�, bis, Art. 18� ter, Art. 18� quater, Art. 42�, N�s 1 y 2 � Ley N� 18.045, Art. 199�, inciso tercero, letra ii) � Ley N� 18.815 � D.L. N� 1.328, de 1976 � Circulares N�s 7, 10 y 31, de 2002. Word Situaci�n Tributaria de APV, en el caso de los Fondos Mutuos. (Ord. N� 2.423, de 25.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9 � Ley N� 16.271 � C�digo Civil, Art. 889�, Art. 1.401� � Decreto Ley N� 359, de 1974, Art. 5� � Decreto Ley N� 3.063,…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 9 � Ley N� 16.271 � C�digo Civil, Art. 889�, Art. 1.401� � Decreto Ley N� 359, de 1974, Art. 5� � Decreto Ley N� 3.063, sobre Ley de Rentas Municipales.
 
 ## Referencias detectadas
 

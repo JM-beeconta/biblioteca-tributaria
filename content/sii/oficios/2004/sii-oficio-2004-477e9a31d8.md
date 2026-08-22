@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-18
+- Fecha: 2004-06-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja756.htm
 - Hash SHA-256: 76258e12474379fe1b84dd87e13393e76093c9653effd2ffc404bad380129015
 
 ## Resumen
 
-ont> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�s 1, 2 y 3�, Art. 8�, Art. 12�, letra E), N� 1, letra b) � C�digo Civil, Art. 2.259� � Ley N� 4.566, Sobre Hip�dromos, Art. 4� � D.S. N� 55, de 1980, Art. 4�. (Ord. N� 2.717, de 18.06.2004) Word Aplicaci�n de IVA, a sumas Cobradas por Concepto de Entradas a carreras de Caballos a la Chilena y de Perros Galgos. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 6 y N� 7 � Ley N� 18.933, Art. 21� � D.L…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 6 y N� 7 � Ley N� 18.933, Art. 21� � D.L. N� 2.763, de 1979, Art. 17�, Art. 26�. (Ord. N� 2.646, de 16.06.2004)
 
 ## Referencias detectadas
 

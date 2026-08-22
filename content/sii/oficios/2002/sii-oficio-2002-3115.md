@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3115
 - Año: 2002
-- Fecha: 2002-08-22
+- Fecha: 2002-08-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja332.doc
 - Hash SHA-256: 57ecdc824b6c11e805fd952e1739ab863d47db1ea7c8719407141f1fdfbee47f
 
 ## Resumen
 
-(Ord. N� 2983, de 22.08.2002) Ley sobre Impuesto a la Renta � Art. 55 bis LIR y Art. 3� transitorio Ley N� 19.753, de 2001 Word Plazo para la presentaci�n de Declaraci�n Jurada Simple a que se refiere el art�culo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 2969, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 74 N� 4 Word Situaci�n tributaria de reinversi�n de utilidades en el caso de inversionistas extranjeros. (Ord. N� 2968, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 18 LIR y Circular N� 1…
+Word Situaci�n tributaria de reinversi�n de utilidades en el caso de inversionistas extranjeros. (Ord. N� 2968, de 20.08.2002)
 
 ## Referencias detectadas
 

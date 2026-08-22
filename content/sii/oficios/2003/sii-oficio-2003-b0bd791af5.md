@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-03
+- Fecha: 2003-11-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja609.htm
 - Hash SHA-256: e63af93799946f211c69c0508634eec6c86271a2d410bd837e330689fa62a157
 
 ## Resumen
 
-t�culo 27 bis del D.L. N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6176 de 03 de Diciembre de 2003.- Word Impuesto al Valor Agregado que afecta a Convenio de Prestaciones Gastroenterol�gicas, entre un centro m�dico y los profesionales de la salud que all� desempe�an sus labores. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6059 de 26 de Noviembre de 2003.- Word No procede considerar como �centro vitivin�cola� a sociedad an�nima, para efectos de otorgarle el car�cter de productor, co…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 6059 de 26 de Noviembre de 2003.-
 
 ## Referencias detectadas
 

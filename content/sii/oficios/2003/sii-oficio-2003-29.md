@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eight: 12.0pt"> Convenio Marco relativo a la Ejecuci�n de la Ayuda Financiera y T�cnica y de la Cooperaci�n Econ�mica en Chile suscrito entre el Gobierno de Chile y la Comunidad Europea. Word Medidas para hacer efectivas las exenciones tributarias contenidas en el Convenio Marco con la Uni�n Europea. (Ord. N� 205, de 16.01.2003) Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Solicita pronunciamiento respecto a emisi�n de bonos subordinados en el exterior. Decreto Ley N�3.475, de 1980, Impue…
+Word Solicita pronunciamiento respecto a emisi�n de bonos subordinados en el exterior. Decreto Ley N�3.475, de 1980, Impuesto de Timbres y Estampillas. (Oficio N� 029 de 03 de Enero de 2003).
 
 ## Referencias detectadas
 

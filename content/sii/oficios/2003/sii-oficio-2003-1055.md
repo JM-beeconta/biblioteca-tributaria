@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1055
 - Año: 2003
-- Fecha: 2003-05-15
+- Fecha: 2003-03-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja490.doc
 - Hash SHA-256: 7e8a56da5af54c24fe17e48d31a816280a83796ebfde1355c5d5c1cf89bc72dd
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 2454 de 15 de Mayo de 2003. Word Emisi�n de facturas por servicios no afectos o exentos y aplicaci�n del c�lculo de la proporcionalidad en el uso del cr�dito fiscal en caso de reembolso de gastos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1055 de 24 de Marzo de 2003. Word Tratamiento tributario de situaci�n que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1545 de 10-04-2003. Word Impuesto al Valor Agregado que afectar�a a licitaci�n de un…
+Word Tratamiento tributario de situaci�n que indica.
 
 ## Referencias detectadas
 

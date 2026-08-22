@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3028
 - Año: 2002
-- Fecha: 2002-08-26
+- Fecha: 2002-04-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja342.doc
 - Hash SHA-256: 808906f6d7c7be227118e18bc38a010686c55b5f46a56a845ac2d72f0313fa66
 
 ## Resumen
 
-ial' size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3029 de 26 de Agosto de 2002. Word Consulta acerca de si las ventas en Zona Franca a clientes que formulan ofertas de compra a trav�s de medios electr�nicos, se encuentran amparadas por la norma liberatoria de IVA contenida en el art�culo 23 del D.F.L. N� 341, de 1977. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3028 de 26 de Agosto de 2002. Word Solicita reconsideraci�n del Oficio N� 220, del 23 de Abril de 2002, del se�or Director Regiona…
+Word Solicita reconsideraci�n del Oficio N� 220, del 23 de Abril de 2002, del se�or Director Regional Metropolitano Santiago Centro.
 
 ## Referencias detectadas
 

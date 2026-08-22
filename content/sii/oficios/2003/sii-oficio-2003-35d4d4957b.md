@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-09
+- Fecha: 2003-09-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja555.htm
 - Hash SHA-256: e93c5d346cb5ab3e139732c2a17edba997945dcc4cf39240e979334d1bcd60e6
 
 ## Resumen
 
-instalaciones interiores de gas de viviendas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4454 de 09 de Septiembre de 2003. Word Exenci�n de impuestos contenida en el art�culo VI del Tratado de Paz, Amistad y Comercio suscrito entre el Gobierno de Chile y el Gobierno de Bolivia, en el a�o 1904. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4268 de 02 de Septiembre de 2003.- Word No corresponde a este Servicio, autorizar o fiscalizar, la legalidad del cobro llamado �cargo de facturaci�n�. Ley de Impue…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4268 de 02 de Septiembre de 2003.-
 
 ## Referencias detectadas
 

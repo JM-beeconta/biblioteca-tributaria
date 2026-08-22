@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Word Oportunidad en que deben reconocerse Tributariamente los Ingresos provenientes de la Cesi�n de un Contrato de Arriendo de Sitio Industrial con galpones e Instalaciones. � Deducci�n como gasto de las sumas pagadas por parte del Arrendatario por este concepto. � Impuesto al Valor Agregado en la Cesi�n de un Contrato de Arriendo de Inmueble con Instalaciones. Ley de Impuestos a las Ventas y Servicios. Oficio N� 1391 de 23 de marzo de 2004. Word Aplicaci�n de Res. Ex. N� 1087, de 1978, en la venta de gas licua…
+Word Aplicaci�n de Res. Ex. N� 1087, de 1978, en la venta de gas licuado de petr�leo para uso automotriz.
 
 ## Referencias detectadas
 

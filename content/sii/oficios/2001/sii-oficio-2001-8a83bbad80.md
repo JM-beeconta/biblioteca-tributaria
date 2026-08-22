@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t. 15�. (Ord. N� 3591, de 29.08.2001) Word Sujeto del impuesto establecido en el art�culo 2� de la Ley N� 18.110. Renta � Actual Ley Sobre Impuesto a la � (Ord. N� 3574, de 28.08.2001) Word Situaci�n tributaria de bonificaci�n para el aprendizaje y capacitaci�n otorgada a empresas que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1 � Circular N� 41, de 1999. (Ord. N� 3433, de 17.08.2001) Word Tipos de gastos que comprende una beca de estudio. Renta � Actual Ley Sobre Impuesto a la…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1 � Circular N� 41, de 1999. (Ord. N� 3433, de 17.08.2001)
 
 ## Referencias detectadas
 

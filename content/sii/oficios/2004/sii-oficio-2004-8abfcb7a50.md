@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-23
+- Fecha: 2004-03-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja701.doc
 - Hash SHA-256: 18de104db369b4e86d469c47c914a741bc3105e071b306bc29a1b804265249d4
 
 ## Resumen
 
-evo Texto � Actual Ley Sobre Impuesto a las � Art. 3�, Art. 9�, Art. 15� � Ley N� 19.888, de 2003. (Ord. N� 1500, de 30.03.2004) Word Interpretaci�n de la Ley N� 19.888, de 2003, que aument� la tasa del IVA, de 18% a 19%. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�1 � Ley de Impuesto a la Renta, Art. 15�, Art. 20, N� 5, Art. 29�, inciso 2�, Art. 30�, Art. 31�. (Ord. N� 1.478, de 29.03.2004) Word Oportunidad en que deben reconocerse Tributariamente los Ingresos provenie…
+Word Oportunidad en que deben reconocerse Tributariamente los Ingresos provenientes de la Cesi�n de un Contrato de Arriendo de Sitio Industrial con galpones e Instalaciones. � Deducci�n como gasto de las sumas pagadas por parte del Arrendatario por este concepto. � Impuesto al Valor Agregado en la Cesi�n de un Contrato de Arriendo de Inmueble con Instalaciones.
 
 ## Referencias detectadas
 

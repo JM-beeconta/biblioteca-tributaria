@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-12-10
+- Fecha: 2002-12-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja406.htm
 - Hash SHA-256: a9dd78b38871a76baf927f3b49122b75b79b99e3552d2c2f7e55f62e4b22914b
 
 ## Resumen
 
-n la ley, para los efectos de lo dispuesto en el N� 5, del art�culo 23�, del Decreto Ley N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4622 de 10 de Diciembre de 2002. Word Aplicaci�n del impuesto adicional del art�culo 42�, del D.L. N� 825, de 1974, a la venta de chicha a granel efectuada por productores a otros vendedores. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4568 de 5 de Diciembre de 2002. Word IVA en el estacionamiento de veh�culos en las v�as p�blicas. Ley de Impuesto a l…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4568 de 5 de Diciembre de 2002.
 
 ## Referencias detectadas
 

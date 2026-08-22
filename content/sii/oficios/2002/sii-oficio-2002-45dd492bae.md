@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-25
+- Fecha: 2002-07-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja316.htm
 - Hash SHA-256: 78b0433e0de763efd982bf0aa863d47e30340d398a8f757bb96db00ae1ef858e
 
 ## Resumen
 
-extranjeros de las Administradoras de Fondos de Pensiones en virtud de la facultad establecida en el art�culo 7� de la Ley N� 18.156, de 1988. (Ord. N� 2758, de 25.07.2002) Ley sobre Impuesto a la Renta � Art. 17 N� 3 Word C�lculo del monto no constitutivo de renta respecto de cantidades percibidas en cumplimiento de un seguro dotal. (Ord. N� 2745, de 24.07.2002) Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 43 N� 1 y art. 13 D.L. N� 889, de 1974 Word Procedimiento a aplicar para establecer el l�mite m�ximo a qu…
+24.07.2002) Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 43 N� 1 y art. 13 D.L. N� 889, de 1974
 
 ## Referencias detectadas
 

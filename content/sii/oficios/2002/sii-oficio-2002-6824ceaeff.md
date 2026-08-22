@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-10
+- Fecha: 2002-06-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja301.htm
 - Hash SHA-256: 7568c2507bd641ec19f1f3d3e6b34f4a7ca24e2ee8bd3d1cc51e2b11f0234ba6
 
 ## Resumen
 
-ades distintas para efectos de las gratificaciones legales. (Ord. N� 1793, de 10.06.2002) Ley sobre Impuesto a la Renta � arts. 42 y 52 Word Requisitos y condiciones que se deben cumplir para acceder al beneficio de la asignaci�n de zona establecida por el art�culo 13 del D.L. N� 889, de 1975. (Ord. N� 1789, de 07.06.2002) Ley sobre Impuesto a la Renta � arts. 42 bis y 48 Word Imposibilidad de directores o consejeros de sociedades an�nimas de rebajar gastos efectivos o presuntos y de deducir los ahorros previsiona…
+Ley sobre Impuesto a la Renta � arts. 42 bis y 48
 
 ## Referencias detectadas
 

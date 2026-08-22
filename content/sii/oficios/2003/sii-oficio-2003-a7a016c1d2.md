@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-02
+- Fecha: 2003-05-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja500.doc
 - Hash SHA-256: 7cd4326792e3dccd95a3b84fa8271e13f5f4fa79aecfaee1763e5417df0f067f
 
 ## Resumen
 
-esta servicios de clasificaci�n de naves que recalen en costas chilenas y extranjeras. (Ord. N� 2620, de 02.06.2003) Ley sobre Impuesto a la Renta � Arts.38 bis y 54 N� 1 Word Reliquidaci�n de Impuesto Global Complementario en el caso de t�rmino de giro de una empresa. (Ord. N� 2550, de 27.05.2003) Ley sobre Impuesto a la Renta � Art. 55 bis Word Requisitos que se deben cumplir para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 2549, de 27.05.2003) Ley sobre Impuesto a la Rent…
+Word Requisitos que se deben cumplir para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 2549, de 27.05.2003)
 
 ## Referencias detectadas
 

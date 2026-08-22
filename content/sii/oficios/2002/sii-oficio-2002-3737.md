@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3737
 - Año: 2002
-- Fecha: 2002-10-21
+- Fecha: 2002-10-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja381.doc
 - Hash SHA-256: 77664c2288d928f33d6e286100bd00ad13aebae744023eddecbb8f413ebc56e9
 
 ## Resumen
 
-'arial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3787 de 21 de Octubre de 2002. Word Se encuentra afecta a IVA la convenci�n por la cual una persona concede a otra el uso de su oficina amoblada para �compartir� los gastos de su funcionamiento. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3737 de 16 de Octubre de 2002. Word Aplicaci�n del beneficio otorgado por el art�culo 29 de la Ley N� 18.591, a los acreedores de facturas impagas emitidas a contribuyentes declarados en quiebra. Ley de…
+Word Aplicaci�n del beneficio otorgado por el art�culo 29 de la Ley N� 18.591, a los acreedores de facturas impagas emitidas a contribuyentes declarados en quiebra.
 
 ## Referencias detectadas
 

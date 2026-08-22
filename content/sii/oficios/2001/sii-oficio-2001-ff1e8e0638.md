@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-05
+- Fecha: 2001-03-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja171.doc
 - Hash SHA-256: d627545cb908bcf602105adc83726b47e42fd6e9027cd0eb2ce612135960d164
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la - Art. 6�, Art. 14�, Art. 20� N�3�, Art. 29� al 33�, Art. 41�, Art. 65� N� 1�, Art. 68�, Art. 69� N� 1�- Circulares N� 60, de 1990 y N� 40, de 1991. Word Tributaci�n que Afecta a las Comunidades. (Of. N� 926, de 05.03.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 2� N� 2� y 3�, Art. 29� - D.F.L. de Hacienda N� 251�, de 1931, Art. 61� - D. Supremo de Hacienda N� 863, de 1990. Word Oportunidad en que se Devenga el Ingreso Proveniente del Cumplimiento de Un C…
+Word Oportunidad en que se Devenga el Ingreso Proveniente del Cumplimiento de Un Contrato de Seguro. (Of. N� 988, de 13.03.2001- I. Directos)
 
 ## Referencias detectadas
 

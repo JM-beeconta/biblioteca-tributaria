@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-26
+- Fecha: 2001-09-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3872.doc
 - Hash SHA-256: ebb5228e902b9134f9a11029b79a7e906c73e5e9ec97ca878ba4f7485d998759
 
 ## Resumen
 
-br> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, Art. 18�. (Ord. N� 3921, de 26.09.2001) Word Tratamiento tributario de enajenaci�n de acciones en que existe vinculaci�n patrimonial entre cedente y adquirente. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b). (Ord. N� 3872, de 25.09.2001) Word Situaci�n tributaria que afecta a la enajenaci�n de un bien ra�z efectuado por una Sociedad Agr�cola Ltda. A otra sociedad agr�cola de igual naturaleza jur�dica. Renta � Actual Ley Sobre Impuesto a…
+Word Situaci�n tributaria que afecta a la enajenaci�n de un bien ra�z efectuado por una Sociedad Agr�cola Ltda. A otra sociedad agr�cola de igual naturaleza jur�dica.
 
 ## Referencias detectadas
 

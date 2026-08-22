@@ -11,7 +11,7 @@
 
 ## Resumen
 
-obre Impuesto a la Renta � Art. 55 bis Word Plazo fatal para la presentaci�n de Declaraci�n Jurada Simple. (Ord. N� 2294, de 02.05.2003) Ley sobre Impuesto a la Renta � Arts. 20 N� 4 y 84 y Ley N� 19.518 Word Tributaci�n que afecta a los Colegios administrados por Corporaciones de Derecho Privado. (Ord. N� 2293, de 02.05.2003) Ley sobre Impuesto a la Renta � Arts. 14 bis, 20 N� 3 y 21 de la LIR, Art. 28 C�digo Tributario, Art. 507 y sgtes. del C�digo de Comercio y Art. 1610 C�digo Civil Word Tributaci�n que afecta…
+02.05.2003) Ley sobre Impuesto a la Renta � Arts. 14 bis, 20 N� 3 y 21 de la LIR, Art. 28 C�digo Tributario, Art. 507 y sgtes. del C�digo de Comercio y Art. 1610 C�digo Civil
 
 ## Referencias detectadas
 

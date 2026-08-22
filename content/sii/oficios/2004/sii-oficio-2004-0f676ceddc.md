@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-08
+- Fecha: 2004-09-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja827.doc
 - Hash SHA-256: 0a10868d2804d4487f24dadb82e5104991027542655879526ce711e217efe60d
 
 ## Resumen
 
-'ventas/ja829.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g), Art. 17�. (Ord. N� 4.637 de 08.10.2004) Word Impuesto al Valor Agregado en Arrendamiento de Inmuebles Amoblados o con Instalaciones que permitan el Ejercicio de una Actividad Comercial o Industrial Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991. (Ord. N� 4.511 de 29.09.2004) Word Devoluci�n de Remanentes de cr�dito fiscal seg�n el art�culo 27 bis, de…
+Word Devoluci�n de Remanentes de cr�dito fiscal seg�n el art�culo 27 bis, del D.L. N� 825, originados en la actividad forestal.
 
 ## Referencias detectadas
 

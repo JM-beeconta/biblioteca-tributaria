@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-23
+- Fecha: 2004-09-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja815.htm
 - Hash SHA-256: d84117c06969b32ce02416c0f11ad982c5b50e1ab77d9c897216ef14b9ac9146
 
 ## Resumen
 
-4.418, de 23.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, inciso 3�, Art. 58�, N� 1, Art. 66�, Art. 68�, Art. 69�, Art. 74�, N�4, Art. 79�. Word Tributaci�n de Empresa Nacional que Representa Establecimientos Hoteleros Mexicanos en el Pa�s. (Ord. N� 4.414, de 21.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis, Letra A), N�5, Art. 68�, Art. 42�, N� 2 � Circulares N�s 21 de 1991, 56 de 1993, 38 de 1996, 56 de 1997 y 71 de 1998. Word Tributaci�n de Retiros de Fondos Invertidos de acuerdo…
+Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis, Letra A), N�5, Art. 68�, Art. 42�, N� 2 � Circulares N�s 21 de 1991, 56 de 1993, 38 de 1996, 56 de 1997 y 71 de 1998.
 
 ## Referencias detectadas
 

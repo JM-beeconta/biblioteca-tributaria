@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4561
 - Año: 2004
-- Fecha: 2004-09-15
+- Fecha: 2004-09-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja814.doc
 - Hash SHA-256: 6eebd1ca273963813ac3c0dd260d75a3d1bd5e4dd1a84e605c4beef2ffa5723a
 
 ## Resumen
 
-2�, N�2, Art. 13�, N� 6 y 7 � Ley N� 18.933,Art. 21�. (Ord. N� 4.339 de 15.09.2004) Word Solicita exenci�n del Impuesto al Valor Agregado, en virtud del art�culo 13�, N� 7, del D.L. N� 825, por los Servicios de Tele-electrocardiograf�a prestado a entidades de Salud del Sector P�blico, Municipal y Previsional de Salud. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�. (Ord. N� 4.232 de 08.09.2004) Word IVA en asesor�as utilizando Internet a modo de Comunicaci�n y Entrega d…
+Word IVA en asesor�as utilizando Internet a modo de Comunicaci�n y Entrega de Informaci�n a Clientes.
 
 ## Referencias detectadas
 

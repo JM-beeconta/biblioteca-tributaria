@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-12
+- Fecha: 2004-02-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja656.htm
 - Hash SHA-256: 9d9ce1a9fa3245460a0deb5b9ce8323ce6829f28fb0186be50b946b174a38b1d
 
 ## Resumen
 
-entas/ja658.doc'>Word Impuesto al Valor Agregado en la importaci�n de dispositivo para implante coclear. Ley de Impuesto a las Ventas y Servicios. Oficio N� 826 de 12 de Febrero de 2004.- Word C�lculo de la proporcionalidad establecida en el art�culo 43 del Reglamento del D.L. N� 825, de 1974, para determinar el cr�dito fiscal del per�odo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 755 de 10 de Febrero de 2004.- Word Consulta sobre posibilidad de emitir Notas de Cr�dito sin impuesto en caso que la devoluc…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 755 de 10 de Febrero de 2004.-
 
 ## Referencias detectadas
 

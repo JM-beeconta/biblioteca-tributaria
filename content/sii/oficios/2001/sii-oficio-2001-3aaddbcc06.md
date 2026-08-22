@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-22
+- Fecha: 2001-02-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja158.doc
 - Hash SHA-256: 3a8c952d066094d225bf5b8bbcdbbe226826d0fefd95274a80cc0b5df9d4cffd
 
 ## Resumen
 
-font face='arial' size='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis � Circular N� 41, de 1990. Word Aplicaci�n del Cr�dito del 4% Establecido en el Art�culo 33 Bis de la Ley de la Renta, en el Caso de la Adquisici�n de Bien Ra�z. (Of. N� 312, de 22.01.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 30� y 31�. Word Tratamiento Tributario de las Cuotas Pagadas por Contrato de Leasing. (Of. N� 563, de 07.02.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1� a…
+Word Tratamiento Tributario de las Cuotas Pagadas por Contrato de Leasing. (Of. N� 563, de 07.02.2001 � I. Directos).
 
 ## Referencias detectadas
 

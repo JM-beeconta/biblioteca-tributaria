@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-30
+- Fecha: 2004-06-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja761.doc
 - Hash SHA-256: 0103dfc78d949083b6cf25a23fd301ed9a376017fe8115aceaf630bfaaae346d
 
 ## Resumen
 
-Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.815, de 30.06.2004) Word Impuesto al valor Agregado que afecta a Prestaciones ambulatorias efectuadas por un centro M�dico a Pacientes Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, Letra E), N� 1, letra d) � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.767, de 24.06.2004) Word Exenci�n a las Entradas cobradas por Espect�culos Circenses. Ventas y Se…
+Word Exenci�n a las Entradas cobradas por Espect�culos Circenses.
 
 ## Referencias detectadas
 

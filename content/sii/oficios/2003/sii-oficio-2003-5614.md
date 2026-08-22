@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5614
 - Año: 2003
-- Fecha: 2003-12-12
+- Fecha: 2003-11-14
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja606.doc
 - Hash SHA-256: 89e45f278266a6ec334960d7a9f5c6c4cb103b404dfdab2a12161d68eb19d938
 
 ## Resumen
 
-. Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicitud de devoluci�n de Impuesto de Timbres y Estampillas pagado por un contrato de mutuo hipotecario, que no fue autorizado por el Notario. ( Oficio N� 6402 de 12 de Diciembre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Solicita devoluci�n de impuesto de Timbres y Estampillas, pagado indebidamente. (Oficio N� 5614 de 14 de Noviembre de 2003). Ley de Herencias y Donaciones. Art�culo 18� ley 16.271 Tratamien…
+Word Solicita devoluci�n de impuesto de Timbres y Estampillas, pagado indebidamente. (Oficio N� 5614 de 14 de Noviembre de 2003).
 
 ## Referencias detectadas
 

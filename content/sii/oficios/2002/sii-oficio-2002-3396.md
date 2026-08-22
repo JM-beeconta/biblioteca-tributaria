@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tido. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3397 de 16 de Septiembre de 2002. Word Aplicaci�n del Impuesto al Valor Agregado a los servicios descritos en la presentaci�n, que prestar� la empresa que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3396 de 16 de Septiembre de 2002. Word Utilizaci�n del cr�dito fiscal del IVA, recargado en facturas pendientes de pago, emitidas a contribuyentes declarados en quiebra, seg�n el art�culo 29, de la Ley N� 18.591. Ley de Impuesto a las Ventas y Se…
+Word Utilizaci�n del cr�dito fiscal del IVA, recargado en facturas pendientes de pago, emitidas a contribuyentes declarados en quiebra, seg�n el art�culo 29, de la Ley N� 18.591.
 
 ## Referencias detectadas
 

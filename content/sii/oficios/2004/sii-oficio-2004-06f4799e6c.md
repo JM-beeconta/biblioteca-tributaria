@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-19
+- Fecha: 2004-04-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja705.doc
 - Hash SHA-256: ec895a0a91c2b727edfbd7c4437cb52915096c754bb4f86afa76c5d0d2c07d6d
 
 ## Resumen
 
-A), N�3 � C�digo del Trabajo, Art. 87�, Art. 91�, Art. 95�. (Ord. N� 1797, de 19.04.2004) Word Entrega de Colaciones y Regal�as a los Trabajadores Agr�colas. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 59�, N�5, inc. 4�, Art. 20�, N�3 � C�digo de Comercio, Art. 3�, N� 16 �Decreto Ley N� 3.059, Art. 3�, Art. 6� � Circular N� 53, de 1985. (Ord. N�1.739, de 13.04.2004) Word Tributaci�n de Servicios de Cabotaje realizados por empresa Nacional tanto…
+Word Tributaci�n de Servicios de Cabotaje realizados por empresa Nacional tanto en naves de bandera Chilena como extranjera.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-esto al Valor Agregado. Documentaci�n que se debe emitir en caso de venta de bienes situados en el extranjero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 40� � Leyes N��s 19.738, y 19.747, de 2001. (Ord. N� 3331, de 10.08.2001) Word Solicita se aclare la tasa establecida en el art�culo 40 del D.L. N� 825, de 1974. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 3330, de 10.08.2001) Word Aplicaci�n del art�culo 21�,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Decreto Ley N� 910, de 1975, Art. 21�. (Ord. N� 3330, de 10.08.2001)
 
 ## Referencias detectadas
 

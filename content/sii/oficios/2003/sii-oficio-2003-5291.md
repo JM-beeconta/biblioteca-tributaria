@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5291
 - Año: 2003
-- Fecha: 2003-10-16
+- Fecha: 2003-10-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja592.doc
 - Hash SHA-256: 24d034a2fa165913e42b55cb3c18c581cb4b5c92a07a0f73055d5ad4e6677440
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 5264 de 16 de Octubre de 2003.- Word No se encuentra gravado con IVA, el servicio de cobranza y recaudaci�n de primas de seguros contratados por terceros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5291 de 21 de Octubre de 2003.- Word Aplicaci�n de IVA en servicios de administraci�n de cartera de contratos de arrendamiento con opci�n de compra de inmuebles y de contratos de mutuo hipotecario. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5263 de 16…
+Word Aplicaci�n de IVA en servicios de administraci�n de cartera de contratos de arrendamiento con opci�n de compra de inmuebles y de contratos de mutuo hipotecario.
 
 ## Referencias detectadas
 

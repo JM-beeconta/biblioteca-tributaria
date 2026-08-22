@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-25
+- Fecha: 2004-10-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja822.doc
 - Hash SHA-256: 5b60229277b5f8b9376cacef33ef7235fd36adc250d2fa7b143e57162951ba0c
 
 ## Resumen
 
-br> Situaci�n Tributaria de las Utilidades Reinvertidas en una Sociedad An�nima, en el Evento en que dicha Sociedad An�nima se Transforme en Sociedad de Responsabilidad Limitada, conforme a lo dispuesto por la letra c) del N� 1 de la letra A) del Art�culo 14� de la Ley de la Renta. (Ord. N� 4.796, de 25.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Circular N� 132, de 1975 � Res. Exenta N� 43, de 2002. Word Tratamiento Tributario de los Neum�ticos para Faenas Mineras frente a las Normas del N�…
+Word Tratamiento Tributario de los Neum�ticos para Faenas Mineras frente a las Normas del N� 5 del Art�culo 31� de la Ley de la Renta. (Ord. N� 4.629, de 07.10.2004)
 
 ## Referencias detectadas
 

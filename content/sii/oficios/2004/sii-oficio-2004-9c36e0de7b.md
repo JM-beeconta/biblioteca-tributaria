@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-11
+- Fecha: 2004-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja836.doc
 - Hash SHA-256: b0897e5cf4188e03306dd631e249c2de744bec20eca3fec20ec3c15233af7101
 
 ## Resumen
 
-ef="renta/ja838.htm">Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Decreto Ley N�3.500, de 1980, Art. 71� � Ley N� 19.768, Art. 1� y 6� transitorios. Word Situaci�n tributaria de Excedente de Libre Disposici�n que se Indica. (Ord. N� 4.957, de 11.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � Ley N� 18.985, de 1990, Art. 3�, N� 4 � Circular 63, de 1990. Word Valorizaci�n de �rboles Frutales y Plantaciones de Sociedad Agr�cola que opta por Declarar la Renta Efectiva mediante…
+Word Valorizaci�n de �rboles Frutales y Plantaciones de Sociedad Agr�cola que opta por Declarar la Renta Efectiva mediante Contabilidad Complementaria, conforme a lo dispuesto por el Inciso d�cimo de la letra b) del N� 1 del Art�culo 20� de la Ley de la Renta, en concordancia con lo dispuesto por el Art�culo 3�, permanente de la Ley N� 18.895, de 1990. (Ord. N� 4.844, de 28.10.2004)
 
 ## Referencias detectadas
 

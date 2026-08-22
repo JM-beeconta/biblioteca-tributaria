@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en la adquisici�n de un bien ra�z. (Ord. N� 3974, de 04.11.2002) Ley sobre Impuesto a la Renta � Art. 55 bis Word Improcedencia de acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta las personas que tienen la calidad de codeudores solidarios en la adquisici�n de un bien ra�z. (Ord. N� 3973, de 04.11.2002) Ley sobre Impuesto a la Renta � Arts. 22 N� 1 y 23 de la LIR y Ley N� 19.518, de 1997 Word Cr�dito por gastos de capacitaci�n en el caso de peque�os mineros artesanales que optan por decla…
+04.11.2002) Ley sobre Impuesto a la Renta � Arts. 22 N� 1 y 23 de la LIR y Ley N� 19.518, de 1997
 
 ## Referencias detectadas
 

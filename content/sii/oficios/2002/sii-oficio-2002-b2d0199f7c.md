@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enta/ja383.doc">Word P�rdida de franquicia tributaria del art�culo 57 bis de la Ley de la Renta, en el caso de la transformaci�n de una sociedad an�nima abierta en cerrada. (Ord. N� 3776, de 18.10.2002) Ley sobre Impuesto a la Renta �Art. 59 N� 1, letra b), inciso segundo Word Concepto de operaci�n de cr�dito que se indica. (Ord. N� 3775, de 18.10.2002) Ley sobre Impuesto a la Renta �Art. 28 C�digo Tributario y Art. 507 C�digo de Comercio Word Factibilidad de celebrar un contrato de Asociaci�n o Cuentas en Partici…
+18.10.2002) Ley sobre Impuesto a la Renta �Art. 28 C�digo Tributario y Art. 507 C�digo de Comercio
 
 ## Referencias detectadas
 

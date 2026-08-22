@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-07
+- Fecha: 2001-01-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja157.doc
 - Hash SHA-256: 066e86420e949105ebaaf800db7894f331a06cf3d1d157c61af0ea4cde7bded2
 
 ## Resumen
 
-ctos). Renta � Actual Ley Sobre Impuesto a la � Art. 30� y 31�. Word Tratamiento Tributario de las Cuotas Pagadas por Contrato de Leasing. (Of. N� 563, de 07.02.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1� al 5�, Art. 40� N� 1� - Art. 2� N� 2� del D. Ley N� 825, de 1974. Word Tributaci�n de Derechos que Percibir� y Cobrar� la Superintendencia de Valores y Seguros por los Conceptos que Indica, Frente a las Normas de la Ley de la Renta y del IVA. (Of. N� 315, de 22.01.2001 � I. Direct…
+Word Tributaci�n de Derechos que Percibir� y Cobrar� la Superintendencia de Valores y Seguros por los Conceptos que Indica, Frente a las Normas de la Ley de la Renta y del IVA. (Of. N� 315, de 22.01.2001 � I. Directos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-11
+- Fecha: 2001-09-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3698.doc
 - Hash SHA-256: 416c5789831cbd9fd0adbb02b7409648595932840b21b5ab84fd59ca43b9dda4
 
 ## Resumen
 
-ref='ventas/ja3718.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 37�, Art. 42� � Ley N�18.413, de 1985 � Circular N� 26, de 1985. (Ord. N� 3718, de 11.09.2001) Word Aplicaci�n del art�culo 37 letra I), del D.L. N� 825, de 1974, a importaci�n de especies que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra a) � Ley N� 19.716, de 2001. (Ord. N� 3698, de 10.09.2001) Word Consulta sobre calificaci�n de los productos farmac�uticos complementar…
+Word Consulta sobre calificaci�n de los productos farmac�uticos complementarios que se indican.
 
 ## Referencias detectadas
 

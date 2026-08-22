@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-15
+- Fecha: 2003-12-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6348.htm
 - Hash SHA-256: 8d1d8f6e2e2053f95748e4f73b994ba09edc3fb8db34e14c52511f23ee27cfda
 
 ## Resumen
 
-ace producto de la divisi�n pueda tributar en conformidad con el r�gimen de renta presunta. (Ord. N� 6431, de 15.12.2003) Ley sobre Impuesto a la Renta � Art.. 41 D Word Resuelve consultas sobre operaciones adicionales anexas realizadas por �sociedades plataforma de negocios� a que se refiere el art�culo 41 D de la Ley de la Renta. (Ord. N� 6349, de 12.12.2003) Ley sobre Impuesto a la Renta � Art.. 31 N� 5 Word Improcedencia de continuar aplicando el r�gimen de depreciaci�n acelerada a que se refiere el N� 5 del a…
+12.12.2003) Ley sobre Impuesto a la Renta � Art.. 31 N� 5
 
 ## Referencias detectadas
 

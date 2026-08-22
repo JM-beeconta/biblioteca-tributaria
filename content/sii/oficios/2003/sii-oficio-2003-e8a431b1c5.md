@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-15
+- Fecha: 2003-12-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta6348.doc
 - Hash SHA-256: a5063d8dc98bcc0f9115e6c0c6ace0d51d00a1bf6936e30e64fc35d98911b0a1
 
 ## Resumen
 
-presunta. (Ord. N� 6431, de 15.12.2003) Ley sobre Impuesto a la Renta � Art.. 41 D Word Resuelve consultas sobre operaciones adicionales anexas realizadas por �sociedades plataforma de negocios� a que se refiere el art�culo 41 D de la Ley de la Renta. (Ord. N� 6349, de 12.12.2003) Ley sobre Impuesto a la Renta � Art.. 31 N� 5 Word Improcedencia de continuar aplicando el r�gimen de depreciaci�n acelerada a que se refiere el N� 5 del art�culo 31 de la Ley de la Renta a los bienes f�sicos del activo inmovilizado que…
+Word Improcedencia de continuar aplicando el r�gimen de depreciaci�n acelerada a que se refiere el N� 5 del art�culo 31 de la Ley de la Renta a los bienes f�sicos del activo inmovilizado que se traspasan con motivo de fusi�n de sociedades. (Ord. N� 6348, de 12.12.2003)
 
 ## Referencias detectadas
 

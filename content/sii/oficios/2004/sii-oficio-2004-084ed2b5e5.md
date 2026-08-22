@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-29
+- Fecha: 2004-07-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja783.htm
 - Hash SHA-256: 7110671ac1933bbabcbcc7a0bd2c53ce10357c45508a3eb74022d90bf9def479
 
 ## Resumen
 
-opiedad. (Ord. N� 3.604, de 29.07.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 11� � Ley N� 18.985, de 1990, Art. 8� � Circular N� 55, de 2003 � Word Situaci�n Tributaria de Donaciones con Fines Culturales que se indican. (Ord. N� 3.584, de 28.07.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 2�, Art. 3�, Art. 11�, Art. 13� � Ley N� 18.985, Art. 8� � Circular N� 55, de 2003 � Word Situaci�n tributaria de las donaciones efectuadas a Establecimientos Educac…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 2�, Art. 3�, Art. 11�, Art. 13� � Ley N� 18.985, Art. 8� � Circular N� 55, de 2003 �
 
 ## Referencias detectadas
 

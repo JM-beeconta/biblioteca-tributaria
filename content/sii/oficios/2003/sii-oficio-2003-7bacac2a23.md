@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-10
+- Fecha: 2003-03-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja453.doc
 - Hash SHA-256: 0e86e0065300d5e4b19e07c4d38c5113c1b364d0d0d819f1ad295e3c2dfe4613
 
 ## Resumen
 
-a Renta, en el caso de divisi�n de sociedades. (Ord. N� 801, de 10.03.2003) Ley sobre Impuesto a la Renta � Art. 36 Ley N� 19.518 Word Informa sobre beneficio tributario establecido en el art�culo 36� de la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo. (Ord. N� 739, de 05.03.2003) Ley sobre Impuesto a la Renta � Ley N� 18.985 Word Informa sobre procedimientos establecidos en la Ley N� 18.985, sobre Donaciones con Fines Culturales. (Ord. N� 738, de 05.03.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 13…
+Word Informa sobre procedimientos establecidos en la Ley N� 18.985, sobre Donaciones con Fines Culturales. (Ord. N� 738, de 05.03.2003)
 
 ## Referencias detectadas
 

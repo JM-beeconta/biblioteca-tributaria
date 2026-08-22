@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-26
+- Fecha: 2002-08-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja330.htm
 - Hash SHA-256: ed86982deb1c92d33148b8c1b271b4a49f48f8aac5b7437a9bfe002b97866840
 
 ## Resumen
 
-3028 de 26 de Agosto de 2002. Word Solicita reconsideraci�n del Oficio N� 220, del 23 de Abril de 2002, del se�or Director Regional Metropolitano Santiago Centro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2977 de 22 de Agosto de 2002. Word IVA en el dise�o y construcci�n de p�ginas Web. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2966, de 20 de Agosto de 2002. Word No procede el reembolso del IVA, pagado en atenci�n hospitalaria, por un ciudadano extranjero. Ley de Impuesto a las Ventas y Servici…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2966, de 20 de Agosto de 2002.
 
 ## Referencias detectadas
 

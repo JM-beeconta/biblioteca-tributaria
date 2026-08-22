@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-15
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja201.htm
 - Hash SHA-256: e49cd59ac3e1386422ccf1ee816c68a54d4bfee78efc07ea1b4e0bea9adc41de
 
 ## Resumen
 
-Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Ley Sobre Impuesto a la Renta, Art. 20�. Word IVA que Afecta a los Ingresos Obtenidos por una Sociedad An�nima Cerrada por Concepto de Traducci�n de Documentos, Servicios de Int�rprete y Organizaci�n de Eventos. (Of. N� 2029, de 15.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 3�, Art. 8� Letras B) y C) - Ley de la Renta, Art. 5�, Art. 38� Bis. Word Tributaci�n con el Impues…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 3�, Art. 8� Letras B) y C) - Ley de la Renta, Art. 5�, Art. 38� Bis.
 
 ## Referencias detectadas
 

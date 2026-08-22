@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-19
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja146.htm
 - Hash SHA-256: 2492d1ba2b0bc157044f60e0e9e5b61286ed2fed97159b5bbe867faf3359634a
 
 ## Resumen
 
-01 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 55� - Art. 20� N�3� de la Ley de la Renta � Art. 2.215 del Codigo Civil. Word Implicancias Tributarias que se Derivan del Contrato de Compraventa de Dep�sito y Convenio de Asesor�a en Explotaci�n de Farmacias. (Of. N� 241, de 19.01.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Art. 20� N� 3� y N� 4� de la Ley de la Renta. Word Procedencia de IVA en el Contrato de A…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Art. 20� N� 3� y N� 4� de la Ley de la Renta.
 
 ## Referencias detectadas
 

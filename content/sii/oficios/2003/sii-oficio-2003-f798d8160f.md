@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-21
+- Fecha: 2003-01-03
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja428.htm
 - Hash SHA-256: 5d15e595fdc07b9c8052d058f91d0fd6423574c9ddaa00f90799b45554219881
 
 ## Resumen
 
-icio N� 255 de 21 de Enero de 2003). Convenio Marco relativo a la Ejecuci�n de la Ayuda Financiera y T�cnica y de la Cooperaci�n Econ�mica en Chile suscrito entre el Gobierno de Chile y la Comunidad Europea. Word Medidas para hacer efectivas las exenciones tributarias contenidas en el Convenio Marco con la Uni�n Europea. (Ord. N� 205, de 16.01.2003) Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Solicita pronunciamiento respecto a emisi�n de bonos subordinados en el exterior. Decreto Ley N�…
+16.01.2003) Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

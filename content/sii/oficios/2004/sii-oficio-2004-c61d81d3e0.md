@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-30
+- Fecha: 2004-04-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja715.htm
 - Hash SHA-256: c6d564e681a7b0b3e437bd89edcdab123c3818cc8e7fc2cd68c55d1295d1da6f
 
 ## Resumen
 
-ALIGN='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley 18.502, Art. 6�, letra b) � Ley N� 19.030. (Ord. N�2.013, de 30.04.2004) Word No se encuentra afecto al Impuesto Espec�fico al Petr�leo Diesel establecido en el Art�culo 6�, letra b), de la Ley N� 18.502, ni a la normativa de la Ley N� 19.030, que cre� el Fondo de Estabilizaci�n de Precios del Petr�leo, el producto denominado BioDiesel. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) y l…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) y letra h). (Ord. N� 1.995, de 29.04.2004)
 
 ## Referencias detectadas
 

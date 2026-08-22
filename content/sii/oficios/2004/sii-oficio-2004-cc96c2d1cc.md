@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-06
+- Fecha: 2004-04-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja716.doc
 - Hash SHA-256: e2f66233047c1f0cf4a45151276a947dc7a9c9aae0fd46d3014b543c902d45c8
 
 ## Resumen
 
-�2, Art. 5�, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N�3 � C.P.E, Art. 5�, 32�, N�17, Art. 50�, N�1. (Ord. N� 2.108, de 06.05.2004) Word Impuesto al Valor Agregado aplicable a los Servicios de Roaming Internacional, prestados por una Empresa establecida en Chile a Clientes Europeos. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley 18.502, Art. 6�, letra b) � Ley N� 19.030. (Ord. N�2.013, de 30.04.2004) Word No se encuentra afecto al Impuesto Espec�fico al Petr�leo Diesel establec…
+Word No se encuentra afecto al Impuesto Espec�fico al Petr�leo Diesel establecido en el Art�culo 6�, letra b), de la Ley N� 18.502, ni a la normativa de la Ley N� 19.030, que cre� el Fondo de Estabilizaci�n de Precios del Petr�leo, el producto denominado BioDiesel.
 
 ## Referencias detectadas
 

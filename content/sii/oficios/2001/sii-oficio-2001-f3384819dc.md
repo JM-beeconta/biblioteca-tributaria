@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-16
+- Fecha: 2001-02-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja723.doc
 - Hash SHA-256: f19ba906d6618d495b30967a75ecdc62e15f2dd437dd90b2652ceb6749df93f3
 
 ## Resumen
 
-/font> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 10�, Art. 12�, N�3, Art. 46�(Ord. N� 760, de 16.02.2001) Word Consideraciones acerca de la Ley N� 19.633, de 1999, planteadas por Embajada extranjera. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 723, de 14.02.2001) Word Impuesto al Valor Agregado que afecta al servicio de certificaci�n de instalaciones de gas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto…
+Word Impuesto al Valor Agregado que afecta al servicio de certificaci�n de instalaciones de gas.
 
 ## Referencias detectadas
 

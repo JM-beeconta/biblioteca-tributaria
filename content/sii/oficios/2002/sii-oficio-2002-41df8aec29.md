@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-01
+- Fecha: 2002-06-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja306.doc
 - Hash SHA-256: 1b1f109f51db3ab5b9b0bfd79616f0e3bdabfab8bfc9074e0e3ee068d81b07db
 
 ## Resumen
 
-ey N� 19.768, del a�o 2001, respecto de acciones que pose�a un causante. (Ord. N� 2372, de 01.07.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Resuelve diversas consultas relacionadas con la utilizaci�n del cr�dito por concepto de gastos de capacitaci�n. (Ord. N� 2371, de 01.07.2002) Ley sobre Impuesto a la Renta � Ley N� 19.749 Word Beneficios tributarios que favorecen a las microempresas. (Ord. N� 2300, de 25.06.2002) Ley sobre Impuesto a la Renta � Art. 55 bis Word Procedencia de acogerse a beneficio…
+Word Beneficios tributarios que favorecen a las microempresas. (Ord. N� 2300, de 25.06.2002)
 
 ## Referencias detectadas
 

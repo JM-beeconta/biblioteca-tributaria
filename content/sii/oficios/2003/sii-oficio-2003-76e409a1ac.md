@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Informa sobre procedimientos establecidos en la Ley N� 18.985, sobre Donaciones con Fines Culturales. (Ord. N� 738, de 05.03.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 13 y D.L. N� 2.757 Word Beneficios tributarios otorgados por Cajas de Compensaci�n. Imposibilidad del SII de divulgar fuente o cuant�a de rentas de contribuyentes. (Ord. N� 737, de 05.03.2003) Ley sobre Impuesto a la Renta � Art. 53 LIR y Ley N� 16.271 y Art�culo 772 del C�digo Civil Word Consultas sobre usufructo a t�tulo gratuito sobre accio…
+.2003) Ley sobre Impuesto a la Renta � Art. 53 LIR y Ley N� 16.271 y Art�culo 772 del C�digo Civil
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-20
+- Fecha: 2004-07-14
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja771.doc
 - Hash SHA-256: b6a9c29e248e61c2aa3a1b0fff70b434f6fe730791c39ebc6e661df506c2e878
 
 ## Resumen
 
-e="2"> Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001 � Word Situaci�n Tributaria de aporte de acciones que se indica a la Formaci�n de una nueva Sociedad. (Ord. N�3.469, de 20.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A, N� 3, letra d), Art. 17�, N� 7 y N� 8, Art. 57� bis, Art. 41� B � Word Situaci�n Tributaria de Repatriaci�n de capital Invertido en el Extranjero. (Ord. N� 3.422, de 14.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 4…
+Word Situaci�n Tributaria de Repatriaci�n de capital Invertido en el Extranjero. (Ord. N� 3.422, de 14.07.2004)
 
 ## Referencias detectadas
 

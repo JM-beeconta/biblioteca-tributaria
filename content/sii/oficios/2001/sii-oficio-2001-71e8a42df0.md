@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-11
+- Fecha: 2001-06-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja215.doc
 - Hash SHA-256: 8be384a2be4c7db1de343bf09341ff96a292de8a59072a6a84a73adbcd06bf13
 
 ## Resumen
 
-do denominado compensaci�n. (OF. N� 4843, de 11.12.2001) Actual Ley Sobre Impuesto a la Renta - Art. 17 N� 13 Lir, Art. 25 Ley N� 16.723, de 1967 y Ley N� 16.455 Word Situaci�n tributaria de indemnizaciones por a�os de servicios. (Of. N� 4816, de 10.12.2001) Renta � Actual Ley Sobre Impuesto a la - Art. 31. Word Improcedencia de Deducci�n Como Gasto Necesario para Producir la Renta de Sumas Pagadas por Adquisici�n de Derechos en Leasing Sobre Un Bien Ra�z. (Of. N� 2454, de 05.06.2001 � I. Directos) Renta - Actual…
+Word Improcedencia de Deducci�n Como Gasto Necesario para Producir la Renta de Sumas Pagadas por Adquisici�n de Derechos en Leasing Sobre Un Bien Ra�z. (Of. N� 2454, de 05.06.2001 � I. Directos)
 
 ## Referencias detectadas
 

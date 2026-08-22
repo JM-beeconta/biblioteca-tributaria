@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-19
+- Fecha: 2004-04-16
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja717.htm
 - Hash SHA-256: 5d03781375364c5bb918c7cbb0d7e5d355fc1b4edd2c04db58499ce5adbcb7db
 
 ## Resumen
 
-�DIGO CIVIL, ART. 252� � CIRCULAR N�71, DE 1998 � ORD. N� 492, DE 1995. (Ord. N� 1.790, de 19.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis � C�digo Tributario, Art. 126�. Word Situaci�n Tributaria de devoluci�n de Remanente de Impuesto. (Ord. N� 1.778, de 16.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 9� � Ley Org�nica Constitucional N�3/1979, de 1979, Art. 1�. Word Improcedencia de Certificaci�n para acceder a Franquicia tributaria establecida en el art�culo 9�, de la Ley de la Renta.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 9� � Ley Org�nica Constitucional N�3/1979, de 1979, Art. 1�.
 
 ## Referencias detectadas
 

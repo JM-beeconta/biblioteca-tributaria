@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ituaci�n que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1545 de 10-04-2003. Word Impuesto al Valor Agregado que afectar�a a licitaci�n de una planta faenadora de carne. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1018 de 20 de Marzo de 2003. Word Informe sobre la recuperaci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte terrestre internacional de carga. Ley de Impuesto a las Ventas y Servicios. Oficio N� 619 de 24 de Febrero de 2…
+Word Informe sobre la recuperaci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte terrestre internacional de carga.
 
 ## Referencias detectadas
 

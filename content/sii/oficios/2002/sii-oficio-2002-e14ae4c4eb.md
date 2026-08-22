@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-19
+- Fecha: 2002-07-05
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja311.htm
 - Hash SHA-256: bf9e790f5b3c6ac3a31fea2c35cf05fdb413ef637f2e946a2d56ea1199a35108
 
 ## Resumen
 
-la presunci�n de asignaci�n de zona dispuesta en el art�culo 13 del D.L. N� 889, de 1974. (Ord. N� 2666, de 19.07.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Procedencia del cr�dito por gastos de capacitaci�n en el caso de los Comit�s de Agua Potable Rural, en los t�rminos que se indican. (Ord. N� 2438, de 05.07.2002) Ley sobre Impuesto a la Renta � art. 17 N� 8 Word Consecuencias tributarias que se producen con motivo de la transformaci�n de una Sociedad de Responsabilidad Limitada en Sociedad An�nim…
+05.07.2002) Ley sobre Impuesto a la Renta � art. 17 N� 8
 
 ## Referencias detectadas
 

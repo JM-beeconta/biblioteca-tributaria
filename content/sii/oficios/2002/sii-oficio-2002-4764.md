@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4766 de 26 de Diciembre de 2002. Word Aplicaci�n del art�culo 8�, letra i), del D.L. N� 825, sobre Impuesto a las Ventas y Servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4764 de 26 de Diciembre de 2002 Word No es procedente el otorgamiento por este Servicio de un certificado de reciprocidad para efectos de solicitar devoluci�n de IVA en pa�s extranjero. Ley de Impuesto a las Ventas…
+Word No es procedente el otorgamiento por este Servicio de un certificado de reciprocidad para efectos de solicitar devoluci�n de IVA en pa�s extranjero.
 
 ## Referencias detectadas
 

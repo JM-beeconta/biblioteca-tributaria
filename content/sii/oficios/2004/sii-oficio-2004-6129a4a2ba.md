@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-23
+- Fecha: 2004-03-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja677.htm
 - Hash SHA-256: 3b642926288af1527a8fca63695c15fd8bb9dddf09371a2a2b7d8ae4179c8ba3
 
 ## Resumen
 
-1391 de 23 de marzo de 2004. Word Aplicaci�n de Res. Ex. N� 1087, de 1978, en la venta de gas licuado de petr�leo para uso automotriz. Ley de Impuestos a las Ventas y Servicios. Oficio N� 1377, de 22 de Marzo 2004. Word Solicita reconsideraci�n del Oficio N� 5348, del 23 de octubre del 2003. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1340, de 18 de Marzo de 2004-03-18 Word Impuesto al Valor Agregado en convenio de canje hotelero Ley de Impuesto a las Ventas y Servicios. Oficio N� 1274, de 17 de Marzo de 2…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1340, de 18 de Marzo de 2004-03-18
 
 ## Referencias detectadas
 

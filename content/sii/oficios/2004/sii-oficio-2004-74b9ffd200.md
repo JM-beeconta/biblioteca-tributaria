@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-16
+- Fecha: 2004-06-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja755.htm
 - Hash SHA-256: ed6bc7ee96404eb278f90cb47a612839b210ce541578b9c6bf2ece19b409f489
 
 ## Resumen
 
-s. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 6 y N� 7 � Ley N� 18.933, Art. 21� � D.L. N� 2.763, de 1979, Art. 17�, Art. 26�. (Ord. N� 2.646, de 16.06.2004) Word No procede Exenci�n del Art�culo 13�, N� 7, del D.L. N� 825, a la Jefatura de Administraci�n de los Fondos de Salud del Ej�rcito. (JEAFOSALE) Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley de Impuesto a la Renta, Art. 20�, N� 3 y 4. (Ord. N� 2.565, de 08.06.2004) Wo…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley de Impuesto a la Renta, Art. 20�, N� 3 y 4. (Ord. N� 2.565, de 08.06.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-12
+- Fecha: 2003-06-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja507.doc
 - Hash SHA-256: f41c4c7c5dc2bab377711ef8eee48e7a0780e3e5fbbedfbcee455f8b38ef21d6
 
 ## Resumen
 
-confirmar tratamiento tributario de becas de estudio. (Ord. N� 2929, de 12.06.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 13 y 18 y 31 N� 6 bis, 74 N� 1 y 76 Word Situaci�n tributaria de las becas de estudios otorgadas por las Cajas de Compensaci�n. (Ord. N� 2928, de 12.06.2003) Ley sobre Impuesto a la Renta � Arts. 41 N� 2 y 31 N� 5 Word Tratamiento tributario de un contrato de arriendo con opci�n de compra que recae sobre inmuebles con instalaciones y plant�os. (Ord. N� 2832, de 10.06.2003) Ley sobre Imp…
+Word Tratamiento tributario de un contrato de arriendo con opci�n de compra que recae sobre inmuebles con instalaciones y plant�os. (Ord. N� 2832, de 10.06.2003)
 
 ## Referencias detectadas
 

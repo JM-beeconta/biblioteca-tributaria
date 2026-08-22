@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-02
+- Fecha: 2003-07-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja521.htm
 - Hash SHA-256: 8aa182fe6889e0d7f713573d9af629a97e4ad827628c1ede2ac024471582b739
 
 ## Resumen
 
-Ministerio del Interior, de 1980 , para acogerse a la franquicia tributaria contenida en el art�culo 36 de la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo. (Ord. N� 3671, de 18.07.2003) Ley sobre Impuesto a la Renta � Arts. 84 y Art. 100 Word Tratamiento tributario de los fondos que administran los agentes operadores de proyectos. (Ord. N� 3265, de 04.07.2003) Ley sobre Impuesto a la Renta � Art. 31 N� 3� y Art. 100 Ley N� 18.045 Word Situaci�n de p�rdida tributaria en el caso que se indica. (Ord. N� 326…
+04.07.2003) Ley sobre Impuesto a la Renta � Art. 31 N� 3� y Art. 100 Ley N� 18.045
 
 ## Referencias detectadas
 

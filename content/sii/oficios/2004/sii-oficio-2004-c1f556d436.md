@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-25
+- Fecha: 2004-10-06
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja821.htm
 - Hash SHA-256: e96d4484dcfbb913fa3bf7b5e4b5054c919e6412410bed2a2cfe0d0fba531854
 
 ## Resumen
 
-� 4.796, de 25.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Circular N� 132, de 1975 � Res. Exenta N� 43, de 2002. Word Tratamiento Tributario de los Neum�ticos para Faenas Mineras frente a las Normas del N� 5 del Art�culo 31� de la Ley de la Renta. (Ord. N� 4.629, de 07.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 59� � Oficio N� 4.279, de 1988. Word Situaci�n Tributaria de Sumas Remesadas en Conformidad a Contratos Swaps suscrito con bancos Extranjeros, conforme a las No…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 59� � Oficio N� 4.279, de 1988.
 
 ## Referencias detectadas
 

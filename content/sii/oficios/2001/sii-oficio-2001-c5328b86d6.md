@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/font> Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1�. Word Tributaci�n de Predio Agr�cola. ( Of. N� 41, de 04.01.2001. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 8� Letra a), Art.18� - Ley N� 18.293, de 1984, Art.3� - Circular N� 158, de 1976 � Ley N� 19.578, Art. 2� Transitorio. Word Enajenaci�n de Acciones Adquiridas por Sucesi�n por Causa de Muerte. (Of. N� 39, de 04.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 8�, Letra a), Art. 18�- Ley N� 18.29…
+Word Enajenaci�n de Acciones Adquiridas por Sucesi�n por Causa de Muerte. (Of. N� 39, de 04.01.2001 � I. Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-12
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja222.htm
 - Hash SHA-256: 9b7cc8b8374af8dbc1e172a19bcaa10f9f5271d9f7d83dad53e8a1e271c91195
 
 ## Resumen
 
-12-12-2001 Word Impuesto al valor agregado en arrendamiento de recinto deportivo equipado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4838 de 10-12-2001 Word IVA en prestaci�n remunerada de acceso v�a Internet, a p�gina Web, que contiene informaci�n tributaria, legal y previsional. Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55� Inciso 8� - D. S. de Hacienda N� 55, de 1977, Art. 70� - Circular N� 103, de 1979 � Codigo Tributario, Art. 97� N� 10. Word Solicita Pronunciamiento Sobre Obligac…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55� Inciso 8� - D. S. de Hacienda N� 55, de 1977, Art. 70� - Circular N� 103, de 1979 � Codigo Tributario, Art. 97� N� 10.
 
 ## Referencias detectadas
 

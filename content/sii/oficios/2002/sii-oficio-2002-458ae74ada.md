@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bra, seg�n el art�culo 29, de la Ley N� 18.591. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3365 de 12 de Septiembre de 2002. Word Sujeto obligado al pago del IVA que grava el arancel establecido en favor del Registro de Multas del Tr�nsito No Pagadas, y la posibilidad de traspasar el monto del impuesto al propietario del veh�culo multado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3364 de 12 de Septiembre de 2002. Word Para efectos de tramitar la devoluci�n de IVA, en virtud del art�culo 36�, del…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3364 de 12 de Septiembre de 2002.
 
 ## Referencias detectadas
 

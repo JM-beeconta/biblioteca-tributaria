@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2454
 - Año: 2002
-- Fecha: 2002-07-16
+- Fecha: 2002-07-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja314.doc
 - Hash SHA-256: 62380f713ff4ed977add4976948506f5d1daab554e7ecc0c81cca2e952674fad
 
 ## Resumen
 
-Oficio N� 2624, de 16 de Julio de 2002.- Word Solicita pronunciamiento acerca de solicitud de reconsideraci�n de Ord. N� 114/2, de 30-01-2002, de esa Direcci�n Regional, mediante el cual se deneg� la solicitud de devoluci�n de cr�dito fiscal en virtud del art. 27 bis a contribuyente que construy� locales comerciales que entregar� en arrendamiento amoblados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2454, de 08 de Julio de 2002.- Word IVA e Impuesto Adicional del Articulo 37 Letra A) del D.L. N� 825, de 1…
+Word IVA e Impuesto Adicional del Articulo 37 Letra A) del D.L. N� 825, de 1974, Aplicable a la Venta de Monedas de oro Conmemorativas del 50 Aniversario del XXXXXXXXXXXXXXXXXXX.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-28
+- Fecha: 2003-08-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja552.htm
 - Hash SHA-256: 4f584750780436cac5bb48ac70f870e0a7aecbb66f678ea80843b6ff7ebdaa13
 
 ## Resumen
 
-ncesiones de obras p�blicas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4240 de 28 de Agosto de 2003.- Word S�lo se favorece con la exenci�n de IVA establecida en el art�culo 12�, letra E) N� 17, del D.L. N� 825, los servicios de hoteler�a, prestados en �lodge de pesca� a turistas extranjeros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4183 de 26 de Agosto de 2003. Word Impuesto al Valor Agregado aplicable a contratos de asesor�a y consultor�a vinculados a licencias y sublicencias de programas co…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4183 de 26 de Agosto de 2003.
 
 ## Referencias detectadas
 

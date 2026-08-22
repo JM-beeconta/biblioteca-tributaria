@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-16
+- Fecha: 2004-04-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja710.htm
 - Hash SHA-256: 43922d7acd9102fe75f759d2a6f06c4124e40b867e46fd9148cf126df31f8f07
 
 ## Resumen
 
-(Ord. N� 1.778, de 16.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 9� � Ley Org�nica Constitucional N�3/1979, de 1979, Art. 1�. Word Improcedencia de Certificaci�n para acceder a Franquicia tributaria establecida en el art�culo 9�, de la Ley de la Renta. (Ord. N� 1.777, de 16.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 41�, letra B, Art. 17�, N�1, Art. 21�, Art. 58�, N� 1, Art. 74�, N� 4, Art. 79� � Circulares N�s 29, de 1991, 52, de 1993 y 61, de 1997 � Ley de Impuesto al Valor Agre…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, Art. 41�, letra B, Art. 17�, N�1, Art. 21�, Art. 58�, N� 1, Art. 74�, N� 4, Art. 79� � Circulares N�s 29, de 1991, 52, de 1993 y 61, de 1997 � Ley de Impuesto al Valor Agregado � Art. 2�, N� 2, Art. 8�, letra h), Art. 12�, Letra E), N� 7 � ley N� 17.336, Art. 8�, Art. 10� � Oficio N� 2.622, de 1996.
 
 ## Referencias detectadas
 

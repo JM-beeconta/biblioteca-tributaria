@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-16
+- Fecha: 2003-01-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja424.htm
 - Hash SHA-256: 89afbfd09075867615552aa85e3915fb238d0805585135078b34e6c2cfc66483
 
 ## Resumen
 
-en prestaci�n de servicios de suministro de informaci�n y noticias. Ley de Impuesto a las Ventas y Servicios. Oficio N� 195 de 16 de Enero de 2003. Word Aplicaci�n de IVA a instalaci�n de postes y l�neas para electrificaci�n de predio, seg�n contrato suscrito por un socio con una Cooperativa El�ctrica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 148 de 14 de Enero de 2003. Word Informe sobre la devoluci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transpo…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 148 de 14 de Enero de 2003.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t. 52�, Art. 69� � Ley de la Renta, Art. 20�, N� 3 y 4. (Ord. N� 3.424, de 14.07.2004) Word Aplicaci�n del Impuesto al Valor Agregado a Servicios de Inspecci�n y Certificaci�n de Semillas y An�lisis de Laboratorio. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 20�, N� 4 � Circular N� 21, de 1991 � Oficios N�s 2.661, de 1996 y 723, de 1997. (Ord. N� 3.423, de 14.07.2004) Word Impuesto al Valor Agregado, en la Intermediaci�n dirigida a la obtenci�n…
+Word Impuesto al Valor Agregado, en la Intermediaci�n dirigida a la obtenci�n de Cr�ditos de Consumo.
 
 ## Referencias detectadas
 

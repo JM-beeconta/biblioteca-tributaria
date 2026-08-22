@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2367
 - Año: 2002
-- Fecha: 2002-07-03
+- Fecha: 2002-07-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja308.doc
 - Hash SHA-256: 80ae7c8a1d6dfe3bb17000d86c3f4403753715c7c3714d0b07cd0b2a18718efc
 
 ## Resumen
 
-> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2388, de 03 de Julio de 2002.- Word Tributaci�n con IVA del arancel equivalente a un porcentaje de la multa pagada, que percibir� el Registro de Multas de Tr�nsito No Pagadas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2367 de 01 de Julio de 2002 Word Sujeto y Base Imponible del IVA, en contrato de prestaci�n de servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2317 de 27 de Junio de 2002. Word Ingreso al resto del pa�s de veh�cu- los naci…
+Word Sujeto y Base Imponible del IVA, en contrato de prestaci�n de servicios.
 
 ## Referencias detectadas
 

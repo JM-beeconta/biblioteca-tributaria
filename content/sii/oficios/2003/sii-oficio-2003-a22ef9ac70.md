@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-27
+- Fecha: 2003-05-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja498.htm
 - Hash SHA-256: e9b3ef9c79b897fbfc8b7bb02b2ad1f3d3d957f571c2f4de3dd42b238360831e
 
 ## Resumen
 
-ont> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2546 de 27 de Mayo de 2003. Word Tributaci�n en la transacci�n de veh�culos �hechizos�, destinados al transporte terrestre de carga y en la importaci�n de conjuntos, partes o piezas, de veh�culos semiterminados, para la armadur�a o ensamblaje en el pa�s. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2525 de 23 de Mayo de 2003. Word Consulta sobre recuperaci�n del impuesto al valor agregado en aporte propio efectuado por beneficiario del subsidio dispue…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2525 de 23 de Mayo de 2003.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-09
+- Fecha: 2003-05-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja488.doc
 - Hash SHA-256: 5f55020de52bf81a4feca721ffe67f85d98f710daad96c683d56db1fd7650f00
 
 ## Resumen
 
-anes de Ahorro Previsional Voluntario. (Ord. N� 2410, de 09.05.2003) Ley sobre Impuesto a la Renta � Art. 31, inciso 1� y Art. 8� Ley N� 18.985, de 1990 Word Franquicia Tributaria de la Ley de Donaciones con Fines Culturales. (Ord. N� 2354, de 08.05.2003) Ley sobre Impuesto a la Renta � Art. 34 N�s. 2 y 3 y Art. 28 C�digo Tributario Word Tributaci�n de los Contratos de Asociaci�n o Cuentas en Participaci�n. (Ord. N� 2329, de 07.05.2003) Ley sobre Impuesto a la Renta � Art. 55 bis Word Plazo fatal para la presentac…
+Word Tributaci�n de los Contratos de Asociaci�n o Cuentas en Participaci�n. (Ord. N� 2329, de 07.05.2003)
 
 ## Referencias detectadas
 

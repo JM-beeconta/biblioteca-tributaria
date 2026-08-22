@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3717
 - Año: 2003
-- Fecha: 2003-08-18
+- Fecha: 2003-07-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja533.doc
 - Hash SHA-256: 7dbd8d20b1d3f4add3959f149abd8d5d1f852be119c489f37a7b46c5dc9e9cb5
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4009 de 18 de Agosto de 2003.- Word Utilizaci�n de los remanentes de cr�dito fiscal del impuesto adicional a las bebidas alcoh�licas y analcoh�licas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3717 de 24 de Julio de 2003.- Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, del usufructo de un bosque. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3669 de 18 de Julio de 2003 Word Solicita pronunciamiento sobre el alcance del t�rm…
+Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, del usufructo de un bosque.
 
 ## Referencias detectadas
 

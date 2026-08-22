@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4883 de 26 de Septiembre de 2003.- Word Tributaci�n con Impuesto al Valor Agregado de arrendamiento con opci�n de compra de inmueble con uso y destino industrial. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4882 de 26 de Septiembre.- Word Se encuentran gravados con IVA, los servicios de difusi�n de Programas de Desarrollo implementados por XXXX, prestados por radioemisoras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4811 de 25 de Septiembre de 20…
+Word Se encuentran gravados con IVA, los servicios de difusi�n de Programas de Desarrollo implementados por XXXX, prestados por radioemisoras.
 
 ## Referencias detectadas
 

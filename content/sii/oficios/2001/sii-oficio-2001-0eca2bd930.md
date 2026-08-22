@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Art. 14� bis � Circulares N�s 59, de 1991 y 49, de 1997. Word C�mputo del Plazo de los Tres �ltimos Ejercicios, a que se refiere el Art�culo 14� bis, de la Ley de la Renta. (Ord. N� 2.493, de 31.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Ley N� 19.768, Art. 6�, transitorio � D.L. N� 3500, de 1980, Art. 98�� Circular N� 23, de 2002. Word Tributaci�n que afecta a Afiliados que hicieron Retiros de Excedentes de Libre Disposici�n (ELD), antes de la Publicaci�n d…
+Word Tributaci�n que afecta a Afiliados que hicieron Retiros de Excedentes de Libre Disposici�n (ELD), antes de la Publicaci�n de la Ley N� 19.768, de 2001. (Ord. N� 2.487, de 31.05.2004)
 
 ## Referencias detectadas
 

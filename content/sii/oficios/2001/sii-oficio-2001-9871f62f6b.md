@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja217.htm
 - Hash SHA-256: 91493ed62ab6d8c6a775a5fca94f62597a454862219a52ba550c18efe2e3cb4d
 
 ## Resumen
 
-o Pr�stamo de Jugadores de F�tbol. (Of. N� 2477, de 06.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Ley de la Renta, Art. 20� N�4. Word Impuesto al Valor Agregado en Subsidios Entregados en Cumplimiento del Programa �Vacaciones Tercera Edad�. (Of. N� 2436, de 05.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 16�, Art. 55� - Codigo Tributario, Art. 64�. Word Tratamiento Tributario Aplicable…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 16�, Art. 55� - Codigo Tributario, Art. 64�.
 
 ## Referencias detectadas
 

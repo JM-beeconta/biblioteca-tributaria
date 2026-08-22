@@ -11,7 +11,7 @@
 
 ## Resumen
 
-xportador soportado por una empresa minera en la adquisici�n de bienes o utilizaci�n de servicios relacionados con actividades destinadas al cierre de faenas mineras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1196 de 11 de Abril de 2002. Word Pide se reconsidere pronunciamiento de este Servicio, contenido en Oficio N� 3847, de 24-09-2001. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1195 de 11 de Abril de 2002. Word Impuesto al valor agregado aplicable a �Contrato de estudios, ingenier�a de detall…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1195 de 11 de Abril de 2002.
 
 ## Referencias detectadas
 

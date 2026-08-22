@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 96
 - Año: 2004
-- Fecha: 2004-01-20
+- Fecha: 2004-01-06
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja641.doc
 - Hash SHA-256: 667288ca309f5374b7587dbe0f0f828f11d337d40f0083a3c512285749ecd147
 
 ## Resumen
 
-ont> Ley de Impuesto a las Ventas y Servicios. Oficio N� 294 de 20 de Enero de 2004 Word Consulta sobre qui�n es el responsable del pago del aumento del impuesto al valor agregado en el cumplimiento de obligaciones contratadas con anterioridad al alza de tasa del referido tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 96 de 06 de Enero de 2004.- Word Procedencia del cr�dito especial del art�culo 21 del D.L. N� 910, de 1975, en contratos de pavimentaci�n. Ley de Impuesto a las Ventas y Servicios. Ofic…
+Word Procedencia del cr�dito especial del art�culo 21 del D.L. N� 910, de 1975, en contratos de pavimentaci�n.
 
 ## Referencias detectadas
 

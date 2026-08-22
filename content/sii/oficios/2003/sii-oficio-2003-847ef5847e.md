@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-02
+- Fecha: 2003-09-25
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja567.doc
 - Hash SHA-256: 82394cbff2a2bddcbdbf19974ba38e68951d7242291ba211351caf12b3139b6d
 
 ## Resumen
 
-nta/ja573.htm">Ley sobre Impuesto a la Renta � Art. 41 D LIR Word Situaci�n tributaria de las sociedades plataforma de negocios a que se refiere el art�culo 41 D de la Ley sobre Impuesto a la Renta frente al tratado para evitar la doble tributaci�n internacional celebrado con la Rep�blica de Argentina. (Ord. N� 5029, de 02.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 letra b) e inciso 4� y 18 inciso 3� LIR Word Apreciaci�n de habitualidad respecto de enajenaci�n viviendas por un particular a partir de in…
+Word Apreciaci�n de habitualidad respecto de enajenaci�n viviendas por un particular a partir de inmueble urbano que se subdivide. (Ord. N� 4813, de 25.09.2003)
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-utario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1299, de 19.04.2002) Ley sobre Impuesto a la Renta � arts. 43 N� 1 y 52. Word Marido tiene derecho a impetrar el beneficio tributario de la Ley N� 19.622, de 1999, en caso de adquisici�n de un inmueble por su mujer con recursos provenientes del haber absoluto de la sociedad conyugal. (Ord. N� 1298, de 19.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis. Word Requisitos que deben reunirse para acceder al beneficio tributario del art�culo 55 bis de la Le…
+19.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis.
 
 ## Referencias detectadas
 

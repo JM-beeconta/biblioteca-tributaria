@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-22
+- Fecha: 2003-12-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja616.htm
 - Hash SHA-256: 06bf4d13b5150310fa891481278081d7ac509405f0104c52dbde8f7e0eee6864
 
 ## Resumen
 
-restaci�n de servicios administrativos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6587 de 22 de Diciembre de 2003. Word Impuesto al Valor Agregado que grava el monto que se paga por ingresar a Parques, Reservas y Monumentos Nacionales administrados por la Corporaci�n Nacional Forestal (CONAF) Ley de Impuesto a las Ventas y Servicios. Oficio N� 6513 de 18 de Diciembre de 2003. Word Tributaci�n con IVA de Organizaci�n que no persigue fines de lucro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6471…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 6513 de 18 de Diciembre de 2003.
 
 ## Referencias detectadas
 

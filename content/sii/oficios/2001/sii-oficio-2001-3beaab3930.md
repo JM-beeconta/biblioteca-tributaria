@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-08
+- Fecha: 2001-06-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja220.doc
 - Hash SHA-256: 69642d3907aa2b29b7f73e879d2bc435f6b067a29a675051b2f11f856ec1c196
 
 ## Resumen
 
-55 que Contiene el Reglamento del Decreto Ley N� 825, Art.22�, Art. 73� - Circular N� 126, de 1977. Word Aplicaci�n del Procedimiento Establecido para los Comisionistas Vendedores y/o Compradores a las Agencias Comisionistas que Prestan Servicios por Cuenta de Otros Contribuyentes. (Of. N� 2513, de 08.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 4�. Resoluciones Ex. N� 5.007 y N� 5.137, del 2000. Word Territorialidad del IVA y Aplicaci�n de las Resoluciones Ex. N� 5.007 y N…
+Word Territorialidad del IVA y Aplicaci�n de las Resoluciones Ex. N� 5.007 y N� 5.137, del 2000, a las Operaciones de Comercio Internacional Respecto de Mercader�as Situadas en el Extranjero o Situadas en Chile y No Nacionalizadas. (Of. N� 2837, de 28.06.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

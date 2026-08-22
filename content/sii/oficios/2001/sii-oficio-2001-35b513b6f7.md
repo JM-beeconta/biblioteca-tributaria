@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-10
+- Fecha: 2001-02-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja166.doc
 - Hash SHA-256: d203b3ee8f9a81bf3ac84dd72e89b926ee8c7ef7223b7e081ac602f9e7ce8c6e
 
 ## Resumen
 
-a las � Art. 2� N�2�, Art. 10� - Ley de la Renta, Art. 20� N� 3� y N� 4� - Ley N� 18.936, de 1990, Art. 1� y 2�. Word �. Impuesto al Valor Agregado en los Servicios de Explotaci�n de Un Casino de Juegos Realizada por el Concesionario del Mismo. (Of. N� 1578, de 10.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 36�, Art. 42� - Decreto Supremo N� 341�, de 1977, Art. 10� Bis � Circular N� 16�, de 1986. Word Recuperaci�n de IVA E Impuesto Adicional a las Bebidas Alcoh�licas en Ve…
+Word Recuperaci�n de IVA E Impuesto Adicional a las Bebidas Alcoh�licas en Ventas a Zona Franca. (Of. N� 843, de 27.02.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

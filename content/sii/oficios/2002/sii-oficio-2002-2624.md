@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2624
 - Año: 2002
-- Fecha: 2002-07-17
+- Fecha: 2002-07-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja315.doc
 - Hash SHA-256: bde2fbd4317d6aff8c17e5965f51a9b71b4e25f2a4b99c0485e9199e08dab348
 
 ## Resumen
 
-la Zona Franca de Iquique. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2638 de 17 de Julio de 2002. Word Tributaci�n que afecta a peluqueros independientes, due�os de salones de belleza o arrendatarios de sill�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2624, de 16 de Julio de 2002.- Word Solicita pronunciamiento acerca de solicitud de reconsideraci�n de Ord. N� 114/2, de 30-01-2002, de esa Direcci�n Regional, mediante el cual se deneg� la solicitud de devoluci�n de cr�dito fiscal en virtud del…
+Word Solicita pronunciamiento acerca de solicitud de reconsideraci�n de Ord. N� 114/2, de 30-01-2002, de esa Direcci�n Regional, mediante el cual se deneg� la solicitud de devoluci�n de cr�dito fiscal en virtud del art. 27 bis a contribuyente que construy� locales comerciales que entregar� en arrendamiento amoblados.
 
 ## Referencias detectadas
 

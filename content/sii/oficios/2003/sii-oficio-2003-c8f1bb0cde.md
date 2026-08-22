@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bases administrativas y t�cnicas para efectuar llamados a licitaci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3162 de 26 deJunio de 2003. Word Recuperaci�n de cr�dito fiscal originado en la construcci�n de un inmueble, a trav�s del mecanismo establecido en el art�culo 27 bis del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3161 de 26 de Junio de 2003.- Word Solicita opini�n e informe acerca de la tasa que se aplica a la venta de oro manufacturado. Ley de Impuesto a las Ventas y Serv…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3161 de 26 de Junio de 2003.-
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-16
+- Fecha: 2003-04-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja471.doc
 - Hash SHA-256: 22174e98117cb9311eb903f2898210b8938597b12af5f11b623d03e518641557
 
 ## Resumen
 
-Tratamiento tributario del exceso de sueldo empresarial asignado. (Ord. N� 1630, de 16.04.2003) Ley sobre Impuesto a la Renta � Art. 33 Ley N� 19.518 Word Condiciones en que procede el cr�dito por gastos de capacitaci�n efectuada mediante la modalidad del pre-contrato. (Ord. N� 1546, de 09.04.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 Word Tributaci�n que afecta a operaci�n de venta de acciones, en caso que se indica. (Ord. N� 1517, de 09.04.2003) Ley sobre Impuesto a la Renta � Art. 41 y Ley N� 19.857 Wor…
+Word Tributaci�n que afecta a operaci�n de venta de acciones, en caso que se indica. (Ord. N� 1517, de 09.04.2003)
 
 ## Referencias detectadas
 

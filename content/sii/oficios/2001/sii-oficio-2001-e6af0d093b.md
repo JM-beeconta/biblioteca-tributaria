@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja134.htm
 - Hash SHA-256: 6772e3ef2d0abb198041b3124e7f599cac7acdb26664d6f08eadd28d962eea4a
 
 ## Resumen
 
-esto a la � Art. 20�N� 1� al 5�, Art. 40� N� 4�, Art. 84�. Word Situaci�n Tributaria de Corporaci�n de Derecho Privado. (Of. N� 176, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1�. Word Tributaci�n de Predio Agr�cola. ( Of. N� 41, de 04.01.2001. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 8� Letra a), Art.18� - Ley N� 18.293, de 1984, Art.3� - Circular N� 158, de 1976 � Ley N� 19.578, Art. 2� Transitorio. Word Enajenaci�n de Acciones Adquiridas por Suces…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 8� Letra a), Art.18� - Ley N� 18.293, de 1984, Art.3� - Circular N� 158, de 1976 � Ley N� 19.578, Art. 2� Transitorio.
 
 ## Referencias detectadas
 

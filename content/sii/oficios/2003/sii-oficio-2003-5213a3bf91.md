@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-31
+- Fecha: 2003-01-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja445.doc
 - Hash SHA-256: b74a7e9388c5201bf01c9811310180b9067689258583858a1982c9bbefaad808
 
 ## Resumen
 
-Aplicaci�n del art�culo 59 N� 1, en el caso de exceso de endeudamiento. (Ord. N� 426, de 31.01.2003) Ley sobre Impuesto a la Renta � Art. 42 N� 2 Word Tratamiento tributario de sumas pagadas en conformidad a un contrato de transacci�n y finiquito. (Ord. N� 329, de 27.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 17 Word Situaci�n tributaria de pensiones y fondos de jubilaci�n obtenidos en el exterior. (Ord. N� 327, de 27.01.2003) Ley sobre Impuesto a la Renta � Art. 10 Ley N� 18.392, de 1985 Word El Servicio…
+Word Situaci�n tributaria de pensiones y fondos de jubilaci�n obtenidos en el exterior. (Ord. N� 327, de 27.01.2003)
 
 ## Referencias detectadas
 

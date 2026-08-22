@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-20
+- Fecha: 2001-04-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja179.doc
 - Hash SHA-256: 8da3ee984c21c24f696afcba1b3ab51ff77ec3965dc3999a99c6ec431cf1c67c
 
 ## Resumen
 
-N�16�. Word Solicita Autorizaci�n para Emitir Notas de Cr�dito para Anular Facturas y Nota de D�bito Extraviadas y en el Mismo Acto Emitir Nuevos Documentos a Objeto de que sus Clientes Contabilicen Tales Operaciones y Puedan Hacer Uso del Cr�dito Fiscal Correspondiente. (Of. N� 1192, de 20.03.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 23� N� 1� - Ley de la Renta, Art. 21�, Art. 31�, Art. 33� N� 1�. Word Tributaci�n que Afecta a una Empresa, por la Contrataci�n de Seguro por…
+Word Tributaci�n que Afecta a una Empresa, por la Contrataci�n de Seguro por Enfermedades Catastr�ficas Suscrito en Beneficio de sus Trabajadores. (Of. N� 1594, de 11.04.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

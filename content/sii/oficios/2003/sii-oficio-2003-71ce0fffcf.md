@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-02
+- Fecha: 2003-06-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja514.doc
 - Hash SHA-256: 2edd353ff28124eeffc595129be493574825668e59feb874f063ce1f295e88ef
 
 ## Resumen
 
-( Ord N� 3234, de 02 de Julio del 2003) Ley sobre Impuesto a la Renta - Art. 31� N� 3 y 90 Word Suspensi�n de pagos provisionales mensuales por p�rdidas obtenidas en un a�o comercial. (Ord. N� 3163, de 26.06.2003) Ley sobre Impuesto a la Renta � Art. 41 D N� 3� Word Aplicabilidad del concepto �moneda extranjera de libre convertibilidad�, a que se refiere el n�mero 3 del art�culo 41 D de la Ley de la Renta, en el caso de inversiones efectuadas en pesos argentinos. (Ord. N� 3075, de 19.06.2003) Ley sobre Impuesto a…
+Word Aplicabilidad del concepto �moneda extranjera de libre convertibilidad�, a que se refiere el n�mero 3 del art�culo 41 D de la Ley de la Renta, en el caso de inversiones efectuadas en pesos argentinos. (Ord. N� 3075, de 19.06.2003)
 
 ## Referencias detectadas
 

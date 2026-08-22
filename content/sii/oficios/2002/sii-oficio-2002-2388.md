@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2388
 - Año: 2002
-- Fecha: 2002-07-08
+- Fecha: 2002-07-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja312.doc
 - Hash SHA-256: 5f33ea365fbf090565c0d771c59c186e72911e00886aeca4f0ffe8626a08eef7
 
 ## Resumen
 
-1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2454, de 08 de Julio de 2002.- Word IVA e Impuesto Adicional del Articulo 37 Letra A) del D.L. N� 825, de 1974, Aplicable a la Venta de Monedas de oro Conmemorativas del 50 Aniversario del XXXXXXXXXXXXXXXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2388, de 03 de Julio de 2002.- Word Tributaci�n con IVA del arancel equivalente a un porcentaje de la multa pagada, que percibir� el Registro de Multas de Tr�nsito No Pagadas. Ley de Impuesto a las Ven…
+Word Tributaci�n con IVA del arancel equivalente a un porcentaje de la multa pagada, que percibir� el Registro de Multas de Tr�nsito No Pagadas.
 
 ## Referencias detectadas
 

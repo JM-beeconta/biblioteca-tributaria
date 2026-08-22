@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3398
 - Año: 2002
-- Fecha: 2002-09-23
+- Fecha: 2002-09-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja364.doc
 - Hash SHA-256: 9ea8d29e23997cc74174e9907151c75b4e8df390fb66ea04a95070d446f85b6e
 
 ## Resumen
 
-JUSTIFY'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3413 de 23 de Septiembre de 2002. Word Solicita reconsideraci�n Oficio Ord. N� 5052, de 28-12-2001, relativo a Impuesto al Valor Agregado que afecta a las comisiones por administraci�n del Seguro de Cesant�a, establecido en la Ley N� 19.728. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3398 de 16 de Septiembre de 2002. Word Tributaci�n aplicable a los contratos de cesi�n de uso de inmuebles, bajo la modalidad de tiempo compartido. Ley de Impuesto…
+Word Tributaci�n aplicable a los contratos de cesi�n de uso de inmuebles, bajo la modalidad de tiempo compartido.
 
 ## Referencias detectadas
 

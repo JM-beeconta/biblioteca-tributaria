@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-11
+- Fecha: 2003-03-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja456.doc
 - Hash SHA-256: e1af4bbc6d85a3ad81da4b5380aef90b8b2697fc341bc136ef8e600c899dfd1b
 
 ## Resumen
 
-l exterior. (Ord. N� 817, de 11.03.2003) Ley sobre Impuesto a la Renta � Art. 18 LIR y Ley N� 18.046 Word Resuelve reconsideraci�n Oficio Ordinario N� 2.036, de 11.05.99 del SII, respecto a la fecha de adquisici�n de las cr�as o acciones liberadas. (Ord. N� 802, de 10.03.2003) Ley sobre Impuesto a la Renta � Art. 59 N� 1 Word Normas sobre determinaci�n del patrimonio y del endeudamiento total para establecer la existencia o no de exceso de endeudamiento conforme a la normativa contenida en el art�culo 59 N� 1 de l…
+Word Normas sobre determinaci�n del patrimonio y del endeudamiento total para establecer la existencia o no de exceso de endeudamiento conforme a la normativa contenida en el art�culo 59 N� 1 de la Ley de la Renta, en el caso de divisi�n de sociedades. (Ord. N� 801, de 10.03.2003)
 
 ## Referencias detectadas
 

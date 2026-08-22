@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-26
+- Fecha: 2004-12-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja855.htm
 - Hash SHA-256: 14d8ef86878254aba806d9a493e8cb8919396c31867a30d5f3575607f084c582
 
 ## Resumen
 
-s. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23� � D.S. N�55, de 1977, Art�culo 43�, N� 2. (Ord. N�4.814, de 26.10.2004) Word Utilizaci�n del cr�dito fiscal originado en la adquisici�n de veh�culos, cuya venta no se encuentra previamente determinada, cuando algunos de ellos son vendidos con posterioridad exentos de impuesto al valor agregado. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N�s 3 y…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N�s 3 y 4 � C�digo Tributario, Art. 64� � Ley N� 19.886, Art. 16�, Art. 30�, letra f) � Decreto Supremo N� 250, de Hacienda, Art. 80�, Art. 81�, Art. 91�. (Ord. N� 5.420, de 27.12.2004)
 
 ## Referencias detectadas
 

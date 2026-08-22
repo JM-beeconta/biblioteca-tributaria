@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-12
+- Fecha: 2003-09-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja560.htm
 - Hash SHA-256: f3bea6111731983bbee96d14ec570f1148526860c19f83ee8b0e997e8dac89e7
 
 ## Resumen
 
-de 12 de Septiembre de 2003. Word Aplicaci�n de IVA a los apuntes de clases vendidos a sus alumnos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4494 de 11 de Septiembre de 2003.- Word Presentaci�n de fecha 21-08-2003, de XXXXXXXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4493 de 11 de Septiembre de 2003.- Word Tributaci�n con IVA, a la entrega de fondos por parte de una sociedad en comandita por acciones a la sociedad gestora. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4492 de 11 de…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4493 de 11 de Septiembre de 2003.-
 
 ## Referencias detectadas
 

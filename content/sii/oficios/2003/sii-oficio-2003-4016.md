@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4067 de 19 de Agosto de 2003. Word Aplicaci�n Art. 21, del D.L. N� 910, de 1975, a proyectos de remodelaci�n de inmuebles emplazados en zona t�pica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4016 de 19 de Agosto de 2003. Word Recuperaci�n del impuesto espec�fico al petr�leo diesel, establecido en el art�culo 6�, letra b), de la Ley N� 18.502, utilizado en camiones empleados en faenas de extracci�n y acopio de minerales al interior de la mina. Ley de Imp…
+Word Recuperaci�n del impuesto espec�fico al petr�leo diesel, establecido en el art�culo 6�, letra b), de la Ley N� 18.502, utilizado en camiones empleados en faenas de extracci�n y acopio de minerales al interior de la mina.
 
 ## Referencias detectadas
 

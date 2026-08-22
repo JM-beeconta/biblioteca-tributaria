@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-05
+- Fecha: 2002-03-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja261.htm
 - Hash SHA-256: 7afcbca8866617c5a5028ddae63c926399ff478f983a2c8933ee2049e627ffaa
 
 ## Resumen
 
-'ventas/ja264.doc'>Word Impuesto al valor agregado que afecta a subsidios entregados por el Programa de Asistencia y Modernizaci�n de la Miner�a Artesanal (PAMMA). Ley de Impuesto a las Ventas y Servicios. Oficio N� 1137 de 05 de Abril de 2002 Word Estacionamiento de veh�culos en la v�a p�blica, hecho gravado con IVA en caso que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1029 de 26 de Marzo de 2002 Word Impuesto al Valor Agregado respecto de servicios de mantenci�n preventiva de equipos electromec…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1029 de 26 de Marzo de 2002
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-08
+- Fecha: 2001-08-03
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3264.htm
 - Hash SHA-256: e36b2c0ddeecda667b163e964a6ac71ad2cb6db991029a00c4361ce225605dcf
 
 ## Resumen
 
-n los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3306, de 08.08.2001) Word C�lculo del l�mite anual del beneficio tributario establecido por la Ley N� 19.622, de 1999, por la adquisici�n de viviendas nuevas acogidas a las normas del DFL N� 2. Renta� Actual Ley Sobre Impuesto a la � Ley N� 19.518, Art. 36� � D.L. 1446, de 1976 � Circular 19, de 1999. (Ord. N� 3264, de 03.08.2001) Word Procedencia del beneficio…
+Renta� Actual Ley Sobre Impuesto a la � Ley N� 19.518, Art. 36� � D.L. 1446, de 1976 � Circular 19, de 1999. (Ord. N� 3264, de 03.08.2001)
 
 ## Referencias detectadas
 

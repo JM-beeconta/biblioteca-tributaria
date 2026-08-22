@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 544
 - Año: 2003
-- Fecha: 2003-02-26
+- Fecha: 2003-02-12
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja441.doc
 - Hash SHA-256: 951858c81663caf335ef54a5f8193e47728c2446a6737751fe4838975aeabacf
 
 ## Resumen
 
-="arial" size="2">Oficio N� 650 de 26 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Vigencia temporal del impuesto de timbres y estampillas al descuento de letra de cambio. ( Oficio N� 564, de 14 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Consulta sobre alcance de la exenci�n contemplada en el articulo 24� N� 11 de la Ley sobre Impuesto de Timbres y Estampillas. ( Oficio N� 544, de 12 de Febrero de 2003). Decreto Ley N�…
+Word Consulta sobre alcance de la exenci�n contemplada en el articulo 24� N� 11 de la Ley sobre Impuesto de Timbres y Estampillas. ( Oficio N� 544, de 12 de Febrero de 2003).
 
 ## Referencias detectadas
 

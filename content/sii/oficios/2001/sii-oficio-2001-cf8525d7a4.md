@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-17
+- Fecha: 2001-01-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja178.htm
 - Hash SHA-256: e18886d665ec00ebc31acc35b6667b8533f57cea07aa2fb4234996bbfb505ab2
 
 ## Resumen
 
-p; Word Tributaci�n que afecta a los cementerios por ingresos de contratos de promesa de venta y servicios de mantenci�n y sepultaci�n. Renta � Actual Ley Sobre Impuesto a la � Art. 54�, N�1, Art. 101� - Circular N� 57, de 1998. (Ord. N� 205, de 17.01.2001) Word Tributaci�n de intereses en caso que se indica. Renta� Actual Ley Sobre Impuesto a la � Art. 41� A, letra C), N�1 � Circular N� 52, de 1993 (Ord. N� 178, de 15.01.2001) Word Concepto del Mercado Cambiario Formal para los efectos de lo dispuesto en el N� 1…
+Renta� Actual Ley Sobre Impuesto a la � Art. 41� A, letra C), N�1 � Circular N� 52, de 1993 (Ord. N� 178, de 15.01.2001)
 
 ## Referencias detectadas
 

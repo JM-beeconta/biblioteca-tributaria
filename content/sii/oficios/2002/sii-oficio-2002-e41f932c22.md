@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-12-03
+- Fecha: 2002-11-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja405.doc
 - Hash SHA-256: 0a35914bd38964c1ecb3590c0b8822bfc116a395b4e185552b8dabb131972052
 
 ## Resumen
 
-una Comisi�n de Confianza Permanente asociada al proyecto. (Ord. N� 4536, de 03.12.2002) Oficio reservado ( 2 diciembre 2002 ) Aqu� podr� ver el dictamen realizado por el SII y acceder a toda la documentaci�n legal que el Servicio tuvo a la vista para emitir este dictamen. Ley sobre Impuesto a la Renta � Art. 34 bis N�s. 2 y 3 Word R�gimen de tributaci�n que afecta a los contribuyentes que explotan veh�culos motorizados en el transporte terrestre de pasajeros. (Ord. N� 4399, de 27.11.2002) Ley sobre Impuesto a la…
+Word R�gimen de tributaci�n que afecta a los contribuyentes que explotan veh�culos motorizados en el transporte terrestre de pasajeros. (Ord. N� 4399, de 27.11.2002)
 
 ## Referencias detectadas
 

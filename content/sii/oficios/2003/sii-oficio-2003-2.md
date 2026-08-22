@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2
 - Año: 2003
-- Fecha: 2003-01-20
+- Fecha: 2003-01-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja430.doc
 - Hash SHA-256: 4c6a674ac986cb36aab5763359c6c936a106537a192bb4647f18faad1eaed696
 
 ## Resumen
 
-nte absorbida por otra en el a�o 2000. (Ord. N� 232, de 20.01.2003) Ley sobre Impuesto a la Renta � Art. 46 del D.L. N� 3.063, de 1979 Word Tratamiento tributario de donaciones que se indican. (Ord. N� 226, de 17.01.2003) Ley sobre Impuesto a la Renta �Arts. N�s. 42 N� 1, 43 N� 1 y 74 N� 1 de la LIR y Ley N� 18.156 Word Determinaci�n del Impuesto Unico de Segunda Categor�a que afecta a la devoluci�n de fondos previsionales que t�cnicos extranjeros mantengan en una Administradora de Fondos de Pensiones, en virtud d…
+Word Determinaci�n del Impuesto Unico de Segunda Categor�a que afecta a la devoluci�n de fondos previsionales que t�cnicos extranjeros mantengan en una Administradora de Fondos de Pensiones, en virtud de la Ley N� 18.156. (Ord. N� 104, de 10.01.2003)
 
 ## Referencias detectadas
 

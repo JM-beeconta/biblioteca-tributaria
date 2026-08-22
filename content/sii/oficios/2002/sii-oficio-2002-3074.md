@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3074
 - Año: 2002
-- Fecha: 2002-09-05
+- Fecha: 2002-08-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja352.doc
 - Hash SHA-256: 0fbba74f57da75f517dd8297e0a5f51598e34406179b444b7231b8e606cef6a6
 
 ## Resumen
 
-bebidas alcoh�licas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3255 de 5 de Septiembre de 2002. Word Cobro del beneficio de asignaci�n por muerte, contemplado en el DFL N� 90, efectuado por las empresas funerarias. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3074 de 28 de Agosto de 2002. Word Oportunidad en que se produce el devengo del Impuesto al Valor Agregado respecto de los cobros por las prestaciones de corte y reposici�n de suministro y cargo fijo durante el lapso en que el servicio domici…
+Word Oportunidad en que se produce el devengo del Impuesto al Valor Agregado respecto de los cobros por las prestaciones de corte y reposici�n de suministro y cargo fijo durante el lapso en que el servicio domiciliario de agua potable se encuentra suspendido por no pago.
 
 ## Referencias detectadas
 

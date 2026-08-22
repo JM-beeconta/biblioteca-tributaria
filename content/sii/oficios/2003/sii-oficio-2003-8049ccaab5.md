@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuesto al Valor Agregado aplicable a contratos de asesor�a y consultor�a vinculados a licencias y sublicencias de programas computacionales. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4087 de 20 de Agosto de 2003.- Word IVA en servicios de tour prestados a turistas extranjeros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4086, de 20 de Agosto de 2003.- Word Solicita reconsideraci�n de Ord. N� 498, de 24/02/99. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4067 de 19 de Agosto de 2003. Word…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4086, de 20 de Agosto de 2003.-
 
 ## Referencias detectadas
 

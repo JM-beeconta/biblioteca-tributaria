@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-08
+- Fecha: 2004-03-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja668.doc
 - Hash SHA-256: 8c5aef4830343dcd3f730df3442a7bfcfb5db4e4cc8b5d6490b298d9de943be8
 
 ## Resumen
 
-08.03.2004) Ley sobre Impuesto a la Renta � Art. 31 inciso primero LIR Word Calificaci�n como gasto necesario para producir la renta de los desembolsos que indica en su presentaci�n. (Ord. N� 1118, de 04.03.2004) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Requisitos para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1117, de 04.03.2004) Ley sobre Impuesto a la Renta � Arts. 31 N� 3 y 90 LIR Word Suspensi�n de Pagos Provisionales Mensuales en caso que se indica. (Ord.…
+Word Requisitos para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1117, de 04.03.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-20
+- Fecha: 2001-04-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja189.doc
 - Hash SHA-256: 7ab010842900a8a261781d85797e5880aba2d337c1c086059ff0bccf5cf4bab1
 
 ## Resumen
 
-4� - Circular N� 26�, de 1980 � Circular N� 44, de 1988. Word Aplicaci�n del Art�culo 64� Inc. 4� del D. L. 825, Sobre Pago Diferido de IVA en el Caso que el Importador Sea Un Empresario del Transporte de Pasajeros. (Of. N� 1718, de 20.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art.8� Inciso 2� Letra a), Art. 16� Letra a), Art. 46� - Codigo Tributario, Art. 64� Inciso 3� - Ord. N� 600, de 29.12.2000. Word Facultad que Tiene el S.I.I. para Efectuar la Tasaci�n de Un Veh�culo Si…
+Word Facultad que Tiene el S.I.I. para Efectuar la Tasaci�n de Un Veh�culo Siniestrado Declarado P�rdida Total. (Of. N� 1751, de 24.04.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3178
 - Año: 2003
-- Fecha: 2003-07-04
+- Fecha: 2003-06-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja519.doc
 - Hash SHA-256: e255308a2e22405b7247a3c8356c387230dbcac82b787030b53f64c390fb9e44
 
 ## Resumen
 
-el�ctrica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3260 de 04 de Julio de 2003.- Word Impuesto al Valor Agregado que afectar�a a licitaci�n de una planta faenadora de carne. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3178 de 30 de Junio de 2003.- Word Impuesto al valor agregado que afecta a la entrega gratuita y onerosa de bases administrativas y t�cnicas para efectuar llamados a licitaci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3162 de 26 deJunio de 2003. Word Recuperaci�n de cr…
+Word Impuesto al valor agregado que afecta a la entrega gratuita y onerosa de bases administrativas y t�cnicas para efectuar llamados a licitaci�n.
 
 ## Referencias detectadas
 

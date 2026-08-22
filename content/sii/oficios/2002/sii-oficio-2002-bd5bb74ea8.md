@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-19
+- Fecha: 2002-04-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja272.htm
 - Hash SHA-256: 45a5100f9fe1dc2b411b10d367ec0d1c60477ea85081caae4729ab3265c14932
 
 ## Resumen
 
-de adquisici�n de un inmueble por su mujer con recursos provenientes del haber absoluto de la sociedad conyugal. (Ord. N� 1298, de 19.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis. Word Requisitos que deben reunirse para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1274, de 18.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis. Word Requisitos que se deben cumplir para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta (Ord. N� 1273, de 18.04.2…
+Ley sobre Impuesto a la Renta � art. 55 bis.
 
 ## Referencias detectadas
 

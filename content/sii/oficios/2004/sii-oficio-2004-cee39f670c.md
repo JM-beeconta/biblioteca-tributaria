@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-21
+- Fecha: 2004-07-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja778.doc
 - Hash SHA-256: 56b295282b0e30e3d8a023b4206422400c4c29756fefa084783f4a9eaeaaa8f6
 
 ## Resumen
 
-Actual Ley Sobre Impuesto a las � Art. 23�, N� 3 � D.S. de Hacienda, N� 55 de 1977, Art. 43�, N� 5. (Ord. N� 3.483, de 21.07.2004) Word Solicita autorizaci�n para Calcular el Cr�dito Fiscal Proporcional del Impuesto al Valor Agregado, con un mes de desfase. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�, Art. 52�, Art. 69� � Ley de la Renta, Art. 20�, N� 3 y 4. (Ord. N� 3.424, de 14.07.2004) Word Aplicaci�n del Impuesto al Valor Agregado a Servicios de Inspecci�n y Cert…
+Word Aplicaci�n del Impuesto al Valor Agregado a Servicios de Inspecci�n y Certificaci�n de Semillas y An�lisis de Laboratorio.
 
 ## Referencias detectadas
 

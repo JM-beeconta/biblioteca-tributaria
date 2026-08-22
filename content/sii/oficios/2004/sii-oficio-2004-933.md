@@ -6,12 +6,12 @@
 - Año: 2004
 - Fecha: 2004-02-17
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja658.doc
-- Hash SHA-256: 235d848aa3202ab857ee5c8227dfb53834b119c0620b0f9b1a5fb1c240256fd0
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja659.doc
+- Hash SHA-256: 7f4cb788dabc810a3279a3130bb35f70d009a2f3ecb4b4c0c5532f58a4559abd
 
 ## Resumen
 
-movimiento de tierras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 934 de 17 de Febrero de 2004.- Word IVA en contrato de servicios de aseo comunal, suscritos con anterioridad al aumento de la tasa de ese tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 933 de 17 de Febrero de 2004.- Word Impuesto al Valor Agregado en la importaci�n de dispositivo para implante coclear. Ley de Impuesto a las Ventas y Servicios. Oficio N� 826 de 12 de Febrero de 2004.- Word C�lculo de la proporcionalidad estable…
+Word IVA en contrato de servicios de aseo comunal, suscritos con anterioridad al aumento de la tasa de ese tributo.
 
 ## Referencias detectadas
 
@@ -19,100 +19,93 @@ movimiento de tierras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 934
 
 ## Texto extraído
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N° 933 de 17 de
-          Febrero de 2005.-
+Ley de Impuesto a las Ventas y Servicios. Oficio N° 933 de 17 de Febrero  de
+    2004.-
 
-
-    Impuesto al Valor  Agregado  en  la  importación  de  dispositivo  para
-    implante coclear.
-
+IVA en contrato de servicios de aseo comunal, suscritos con anterioridad  al
+aumento de la tasa de ese tributo.
 
 
 
 
 
-    1.-     Se  ha  recibido  en  esta  Dirección  Nacional  su  carta  del
-          antecedente, por medio de la cual solicita la exención del pago de
-          IVA  en la importación de un dispositivo para efectuar un implante
-          coclear, proveniente de Colorado, Estados Unidos, a su  hija  XXX,
-          de cuatro años, quien padece del Síndrome de Down  y  una  sordera
-          profunda bilateral.
+1.-   El señor Contralor General de la República (s),  ha  remitido  a  este
+    Servicio su presentación XXX, por la cual mediante Oficio Reservado  N°
+    XX de 4-12-2003, pide un pronunciamiento acerca  del  sujeto  que  debe
+    asumir el  aumento  del  1%  del  IVA,  en  contrato  de  “Servicio  de
+    recolección de residuos sólidos domiciliarios y aseo de ferias libres y
+    chacarero”, en la Municipalidad de XX.
+
+      Señala que, mediante Decreto Alcaldicio  N°  XX   de  30-11-2003,  esa
+    Municipalidad adjudicó  a la empresa XX, la propuesta pública  para  la
+    prestación  del  “Servicio   de   recolección   de   residuos   sólidos
+    domiciliarios y aseo de ferias libres y chacarero”, en razón a  que  su
+    oferta resultaba más  ventajosa  para  el  municipio.   Agrega  que  la
+    referida empresa ofreció sus servicios para  todos  los  rubros  en  un
+    precio  determinado,  incluido  el  IVA,  de  acuerdo   a   las   Bases
+    Administrativas y Técnicas de la Licitación.
+
+      Expresa el Sr. Alcalde que a  su  juicio  no  se  pueden  alterar  los
+    precios pactados en el contrato, debiendo  ser  la  empresa  XX,  quién
+    deberá absorber el aumento del 1% del IVA establecido en el artículo 1°
+    de la Ley N° 19.888.
+
+2.-   El artículo 9°, letra a), del D.L. N° 825,  de  1974,  dispone  en  lo
+    pertinente  que  el  impuesto  al  valor  agregado  se  devenga  en  la
+    prestación de servicios, en la fecha de emisión de la factura o boleta,
+    señalando en su parte final que “si no se hubieren emitido  facturas  o
+    boletas, según corresponda, o no correspondiere emitirlas,  el  tributo
+    se devengará en la fecha en que la remuneración se perciba o se  ponga,
+    en cualquier forma, a disposición del prestador del servicio”.
+
+      Por su parte, el artículo 55°, del mismo decreto  ley,  establece  que
+    “en los casos  de  prestaciones  de  servicios,  las  facturas  deberán
+    emitirse en el mismo período  tributario  en  que  la  remuneración  se
+    perciba o se ponga, en cualquier forma, a disposición del prestador del
+    servicio”.
+
+      A su vez, el artículo 14°, del citado decreto ley, modificado  por  el
+    artículo 1°, de la Ley N° 19.888, de 13/8/2003, establece una  tasa  de
+    impuesto al valor agregado de 19%, a contar del 1° de Octubre de 2003.
 
 
-      Expone que esta importación tuvo un costo de   US$  13.515  y  se  ha
-          hecho  posible  gracias  a   la   colaboración   de   la   Ilustre
-          Municipalidad de XX, Isapre XX que financia el 50% del  costo  del
-          dispositivo, al Hospital XX  y  a  los  fondos  obtenidos  por  la
-          familia y  amigos,  motivos  por  los  cuales,  para  los  efectos
-          impositivos, la internación de este dispositivo, en términos de su
-          objetivo último, que es mejorar  la  calidad  de  vida  de  Sofía,
-          debería ser, en su opinión, calificada como de “socorro”
+    Por aplicación de la citada normativa legal,  todo  impuesto  al  valor
+    agregado devengado a partir del 1° de Octubre de 2003,  debe  aplicarse
+    con la tasa de 19%.
 
 
-      Dado lo expuesto, solicitan favorecer a su hija con la  exención  del
-          pago de IVA de la mencionada importación, la cual se encuentra  en
-          almacén particular desde el día 17 de diciembre de 2003.
+3.-   Por otra parte, el artículo 3° del D.L. N°  825,  de  1974,  establece
+    que el contribuyente o sujeto de derecho del impuesto al valor agregado
+    es el vendedor o el prestador de  servicios,  el  cual,  al  emitir  la
+    correspondiente factura, debe recargar en forma separada el  monto  del
+    impuesto al valor agregado respectivo, según la tasa vigente al momento
+    en que se devenga el referido impuesto.
+
+    De tal manera que en el caso en  consulta,  si  el  impuesto  al  valor
+    agregado se devengó,  conforme  a  las  disposiciones  legales  citadas
+    precedentemente, desde el 1° de  octubre  del  año  2003  en  adelante,
+    deberá aplicarse con tasa del 19%.
 
 
+    La determinación del contratante que deba soportar  financieramente  el
+    aumento del impuesto por la diferencia de tasas que se produjo entre la
+    celebración del contrato y el pago de la obligación,  es  un  tema  que
+    corresponde resolver a las partes que intervinieron en  la  convención,
+    no siendo posible a este Servicio pronunciarse sobre el particular  por
+    tratarse de una materia que escapa a sus facultades legales. En efecto,
+    la forma en que se pacte el precio de un contrato y su   interpretación
+    posterior en caso de conflicto, es una materia que indudablemente  sólo
+    compete determinar a quienes han intervenido en su celebración o a  los
+    Tribunales de Justicia  en  subsidio,  y  ello  es  sin  perjuicio  del
+    ejercicio de la potestad tributaria del  Estado  en  cuanto  a  que  en
+    ningún caso puede alterarse  las  normas  sobre  determinación  de  los
+    impuestos que se encuentran fijadas en la ley.
 
 
-      2.-   El artículo 8° del D.L. N° 825, de 1974, en su letra  a),  grava
-          con IVA las importaciones, sean o  no  habituales,  hecho  gravado
-          especial que se extiende a todas aquéllas operaciones  calificadas
-          como tales, esto es, en los términos de la Ordenanza de Aduanas, a
-          cualquier  introducción  legal  de   bienes   corporales   muebles
-          extranjeros para su uso o consumo en el país, sin que se considere
-          el título de compraventa, donación, permuta u otro que origine  el
-          ingreso de las mercancías al territorio nacional.
-
-          Por otra parte, en general, en nuestro  país,  toda  persona  debe
-          soportar en su patrimonio la carga del impuesto al valor agregado,
-          en  su  carácter  de  adquirente  o  importador  de  bienes  o  de
-          beneficiario de servicios, sin embargo, el principio de  legalidad
-          en materia tributaria, indica que no  puede  existir  contribución
-          alguna sin que se encuentre establecida en una ley, pero al  mismo
-          tiempo, teniendo presente que el Estado no  puede  evadirse  a  su
-          obligación de incurrir en los gastos indispensables  para  cumplir
-          su función, no podrá haber exenciones de impuestos  que  no  estén
-          expresamente previstas en las leyes.
-
-          Así,  sólo  mediante  normas  de  rango  legal  pueden  concederse
-          exenciones, habiéndose determinado por el legislador con precisión
-          los casos en que ellas proceden, razón por  la  cual,  cumplo  con
-          informar a Ud.  que  este  Servicio  carece  de  competencia  para
-          conceder  una  exención  tributaria  que  no   esté   expresamente
-          establecida en una ley.
+    ALFREDO ECHEVERRIA HERRERA
+    DIRECTOR (S)
 
 
-
-
-    3.-    En lo que dice relación con la calificación de “socorro”  de  la
-          importación que se analiza, de conformidad con lo  establecido  en
-          el inciso segundo del N° 7, de la letra B), del artículo  12,  del
-          D.L. N° 825, de 1974, se encontrarán exentas del impuesto al valor
-          agregado, las importaciones que constituyan donaciones y  socorros
-          calificados como tales a juicio exclusivo del Servicio Nacional de
-          Aduanas,  destinadas  a  Corporaciones  y  Fundaciones  y  a   las
-          Universidades.  Para  estos  efectos  corresponderá  al  donatario
-          acompañar los antecedentes que justifiquen la exención.
-
-
-          Como puede apreciarse, el sujeto que puede ser beneficiado con  la
-          señalada  exención  debe  ser   una   corporación,   fundación   o
-          universidad, razón por la cual, ella no procede  respecto  de  una
-          persona natural.
-
-
-          Por último, la calificación de “socorro” de una importación,  sólo
-          puede ser efectuada,  a  su  juicio  exclusivo,  por  el  Servicio
-          Nacional de Aduanas,  por  lo  que  no  compete  a  este  Servicio
-          pronunciarse sobre dicho aspecto.
-
-
-          ALFREDO ECHEVERRIA HERRERA
-          DIRECTOR (S)
-
-
-          Oficio N° 933 de 17-02-2004
-          Subdirección Normativa
-          Depto. Impuestos Indirectos
+    Oficio N° 933 de 17-02-2004
+    Subdirección Normativa
+    Depto. de Impuestos Indirectos

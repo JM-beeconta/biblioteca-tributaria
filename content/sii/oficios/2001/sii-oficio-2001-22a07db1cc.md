@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja195.htm
 - Hash SHA-256: 193ebf3800c6afec3521fec0b09f8327f2f5e46a9f2a6696f16da71dc18ffe20
 
 ## Resumen
 
-las Administradoras de Fondos de Pensiones. (Of. N� 2120, de 17.05.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20� - D. Ley N� 825, de 1974, Art. 2� N� 2�, Art. 8�, Art. 12� - Circular N� 29, de 1999. Word Tributaci�n que Afecta a las Rentas Provenientes de Un Contrato de Bonofactoring. (Of. N� 2381, de 30.05.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 17�, N�8� y 13�, Art. 18�, Art. 57� Bis � Codigo del Trabajo, Art. 178� - Ley N� 19.578, Art. 2� Transitorio. Word Situa…
+Renta � Actual Ley Sobre Impuesto a la - Art. 17�, N�8� y 13�, Art. 18�, Art. 57� Bis � Codigo del Trabajo, Art. 178� - Ley N� 19.578, Art. 2� Transitorio.
 
 ## Referencias detectadas
 

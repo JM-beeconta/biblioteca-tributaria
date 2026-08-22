@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-14
+- Fecha: 2004-07-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja770.doc
 - Hash SHA-256: 223cc9cbcb8a584845b68788c917824e93cfbf141804bb499b25a235fb4c25a4
 
 ## Resumen
 
-7�, N� 7 y N� 8, Art. 57� bis, Art. 41� B � Word Situaci�n Tributaria de Repatriaci�n de capital Invertido en el Extranjero. (Ord. N� 3.422, de 14.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 41� D, Art. 58�, N� 2, Art. 63�, Art. 41� C, Art. 41� B � C�digo Tributario, Art. N� 68�, Art. 165� � Ley N� 18.046, Art. 87� � Circular N� 43, de 2003. (Ord. N� 2.958, de 12.07.2004) Word Destino de las Sociedades Extranjeras a que se Refiere el Art�culo 41D de la Ley de la Renta. (Ord. N� 2.958, de 12.07.2004) Ren…
+Word Destino de las Sociedades Extranjeras a que se Refiere el Art�culo 41D de la Ley de la Renta. (Ord. N� 2.958, de 12.07.2004)
 
 ## Referencias detectadas
 

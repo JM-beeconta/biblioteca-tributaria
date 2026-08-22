@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-07-18
+- Fecha: 2003-07-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja527.htm
 - Hash SHA-256: be1fba2e4fd069efe226008289ecfe8477c7336b7f272ca2c35148e0be2cc466
 
 ## Resumen
 
-r�nsito No Pagadas, en el caso que la municipalidad que recaude la multa sea una distinta de aquella en cuyo territorio se curs� la infracci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3670 de 18 de Julio de 2003. Word Imposibilidad de devolver sumas que no han sido trasladadas como impuesto. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3263 de 04 de Julio de 2003.- Word Impuesto al Valor Agregado en arrendamiento de inmuebles amoblados en que se suscribe un contrato de arrendamiento por el inmue…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3263 de 04 de Julio de 2003.-
 
 ## Referencias detectadas
 

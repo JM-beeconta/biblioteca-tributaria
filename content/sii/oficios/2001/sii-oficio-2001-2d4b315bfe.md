@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-24
+- Fecha: 2001-12-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja242.htm
 - Hash SHA-256: a69e8af7ffa6badf6d836d196f4f179dfd4e2ba6d35600bf88711161a418d1cd
 
 ## Resumen
 
-Impuesto al Valor Agregado que afecta al servicio de certificaci�n de instalaciones de gas. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�. (Ord. N� 357, de 24.01.2001) Word Impuesto al Valor Agregado que afecta al servicio de inspecci�n de redes sanitarias e industriales por medio de c�maras de televisi�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5052 de 28-12-2001. Word Impuesto al Valor Agregado que grava a las comisiones por administraci�n del seguro de cesant�a, establ…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5052 de 28-12-2001.
 
 ## Referencias detectadas
 

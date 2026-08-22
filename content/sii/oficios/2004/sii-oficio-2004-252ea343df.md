@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2">(Ord. N� 3.623, de 02.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, Art. 18�, Art. 20�,N� 1, letra b) � C�digo Tributario, Art. 64 � � Ley N� 3.918, de 1923 � Circulares N�s 58 y 63, de 1990.- Word Efectos Tributarios que Producen la Disoluci�n y Liquidaci�n de una Sociedad de Responsabilidad Limitada (Ord. N� 3.622, de 02.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra a), Art. 18� � Ley N� 18.293, de 1984, Art. 3� � Ley N� 16.271, Art. 6� � Circular N� 158, de 1976…
+02.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra a), Art. 18� � Ley N� 18.293, de 1984, Art. 3� � Ley N� 16.271, Art. 6� � Circular N� 158, de 1976 � Oficio N� 21, de 1996.-
 
 ## Referencias detectadas
 

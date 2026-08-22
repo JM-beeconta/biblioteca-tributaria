@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-13
+- Fecha: 2001-02-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja173.doc
 - Hash SHA-256: f0197686fb51237ff5e21aa3577877ed7ba3996aff756dcc6109159cd670bfe7
 
 ## Resumen
 
-ze='1'> Renta � Actual Ley Sobre Impuesto a la � Art. 29� al 33� � Art. 16� del Codigo Tributario. Word Ajustes al Resultado Contable para los Fines de la Determinaci�n del Resultado Tributario. (Of. N� 987, de 13.03.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, Art. 30�, Art. 31� � Codigo Civil, Art. 1448�, Art. 2151�. Word Improcedencia de Deducir Como Gasto las P�rdidas Sufridas en las Operaciones de Compra y Venta de Productos Encomendadas a Empresa Extranjera a Trav�s de Un Mandato a…
+Word Improcedencia de Deducir Como Gasto las P�rdidas Sufridas en las Operaciones de Compra y Venta de Productos Encomendadas a Empresa Extranjera a Trav�s de Un Mandato a Nombre Propio o Sin Representaci�n y Efectuadas con el Prop�sito de Estabilizar los Precios de los Mismos Productos a Nivel Mundial. (Of. N� 831, de 26.02.2001 � I. Directos)
 
 ## Referencias detectadas
 

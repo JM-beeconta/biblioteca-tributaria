@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-18
+- Fecha: 2002-04-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja267.htm
 - Hash SHA-256: a12d13e38cdaa440b038819e8fd1d477acb8ecd306d6299efb787674a17c2fe2
 
 ## Resumen
 
-icio tributario establecido en el art�culo 55 bis de la Ley de la Renta. (Ord. N� 1272, de 18.04.2002) Ley sobre Impuesto a la Renta - art. 57 bis. Word Efectos tributarios de renovaci�n de dep�sitos a plazo acogidos al art�culo 57 bis de la Ley de la Renta. (Ord. N� 1263, de 16.04.2002) Ley sobre Impuesto a la Renta � art. 17 N� 8, letra b). Word Situaci�n tributaria de enajenaci�n de terreno perteneciente a sociedad en el cual uno de los socios edific� una casa. (Ord. N� 1187, de 11.04.2002) Ley sobre Impuesto a…
+Ley sobre Impuesto a la Renta � art. 17 N� 8, letra b).
 
 ## Referencias detectadas
 

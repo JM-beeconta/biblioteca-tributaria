@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4568
 - Año: 2002
-- Fecha: 2002-12-10
+- Fecha: 2002-12-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja406.doc
 - Hash SHA-256: f124c575fd8eda7d14194bf86b7e317816fbacd79b291da5b09ab1bee672f5bc
 
 ## Resumen
 
-e='arial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4622 de 10 de Diciembre de 2002. Word Aplicaci�n del impuesto adicional del art�culo 42�, del D.L. N� 825, de 1974, a la venta de chicha a granel efectuada por productores a otros vendedores. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4568 de 5 de Diciembre de 2002. Word IVA en el estacionamiento de veh�culos en las v�as p�blicas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4379 de 26 de Noviembre de 2002. Word Improcedencia d…
+Word IVA en el estacionamiento de veh�culos en las v�as p�blicas.
 
 ## Referencias detectadas
 

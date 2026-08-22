@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 335
 - Año: 2004
-- Fecha: 2004-02-04
+- Fecha: 2004-01-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja652.doc
 - Hash SHA-256: 3e4ca282b3536c759885b534565325bf1b1b2ab9e961eeec80bc72c2671895e0
 
 ## Resumen
 
-s publicitarios en un estadio donde se desarrolla un Campeonato de F�tbol. Ley de Impuesto a las Ventas y Servicios. Oficio N� 640 de 04 de Febrero de 2004.- Word Tratamiento tributario de la operaci�n de exportaci�n descrita. Ley de Impuesto a las Ventas y Servicios. Oficio N� 335 de 26 de Enero de 2004.- Word El cr�dito fiscal en las importaciones, corresponde al monto del impuesto al valor agregado, que se ha recargado en los comprobantes de ingreso de ese tributo, enterado en arcas fiscales. Ley de Impuesto a…
+Word El cr�dito fiscal en las importaciones, corresponde al monto del impuesto al valor agregado, que se ha recargado en los comprobantes de ingreso de ese tributo, enterado en arcas fiscales.
 
 ## Referencias detectadas
 

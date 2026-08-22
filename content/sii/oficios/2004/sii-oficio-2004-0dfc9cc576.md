@@ -11,7 +11,7 @@
 
 ## Resumen
 
-="2"> Normas Internacionales � Derecho Internacional P�blico � Convenio entre Chile y Espa�a para Evitar la Doble Imposici�n y Prevenir la Evasi�n Fiscal, Art. 27� � Convenci�n de Viena sobre Derecho de los Tratados, Art. 24�, p�rrafo 1� � C�digo Civil, Art. 7� � C�digo Tributario, Art. 3�. Word Fecha de Entrada en Vigencia de Convenio de Doble Tributaci�n con Espa�a. (Ord. N� 1.113, de 04.03.2004) Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Aplicabilidad del art�culo 15� N�2 de la Ley sob…
+04.03.2004) Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

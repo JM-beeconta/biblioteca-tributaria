@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-03
+- Fecha: 2003-06-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja506.doc
 - Hash SHA-256: fb0e789a0ee1cda6fb681d24a2e0af2a0ac15f278e60d41296b852fac019b8f7
 
 ## Resumen
 
-rio del Impuesto de Primera Categor�a frente a la determinaci�n del FUT. (Ord. N� 2762, de 03.06.2003) Ley sobre Impuesto a la Renta � Ley N� 19.853 y 18.392 y D.L. N� 889 Word Tratamiento tributario de bonificaci�n a la contrataci�n de mano de obra. (Ord. N� 2616, de 30.05.2003) Ley sobre Impuesto a la Renta � Art. 14 Ley N� 19.857 Word Informa sobre tratamiento tributario de empresas individuales de responsabilidad limitada. (Ord. N� 2621, de 02.06.2003) Ley sobre Impuesto a la Renta � Arts. 31 y 59 Word Impuest…
+Word Informa sobre tratamiento tributario de empresas individuales de responsabilidad limitada. (Ord. N� 2621, de 02.06.2003)
 
 ## Referencias detectadas
 

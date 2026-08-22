@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1109
 - Año: 2004
-- Fecha: 2004-03-09
+- Fecha: 2004-03-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja665.doc
 - Hash SHA-256: 474cec15818de5d794e3b78b25fd8c6006b0a055fd84f0f9493c2f40ed157f93
 
 ## Resumen
 
-'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 1182 de 09 de Marzo de 2004.- Word Consulta si procede otorgar la exenci�n del art�culo 12�, letra E), 12, del D.L. N� 825, a servicio que fue gravado con Impuesto al Valor Agregado, por corresponder al prestado generalmente por una agencia de negocios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1109 de 03 de Marzo de 2004.- Word El IVA recargado en las facturas, por la adquisici�n de bienes corporales muebles, se devenga al momento de la emisi�n de e…
+Word El IVA recargado en las facturas, por la adquisici�n de bienes corporales muebles, se devenga al momento de la emisi�n de ese documento o al de la entrega real o simb�lica de tales bienes.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circular N� 46, de 1999. Word Contribuyentes que Tienen Derecho a Acogerse al Beneficio Tributario. (Of. N� 2060, de 16.05.2001 � I. Directos). Ley N�19.716, del 2001 que Sustituyo la Letra a) del Art.42� del D. Ley N�825, de 1974, Modificado por el Articulo Unico de la Ley N�19.534, de 1997. Word Tasa de Impuesto Adicional a las Bebidas Alcoh�licas que Corresponden Aplicar al Pis…
+Word Tasa de Impuesto Adicional a las Bebidas Alcoh�licas que Corresponden Aplicar al Pisco Sour. (Of. N� 1797, de 26.04.2001 � I. Indirectos).
 
 ## Referencias detectadas
 

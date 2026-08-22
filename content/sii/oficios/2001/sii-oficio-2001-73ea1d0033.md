@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-20
+- Fecha: 2001-06-08
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja227.doc
 - Hash SHA-256: a03b9241852c69f32dff851b2502c75dbedd1fb3cdc6c0b24bdb001fdf373f00
 
 ## Resumen
 
-="otras/ja228.doc">Word Aplicaci�n del Impuesto de Timbres y Estampillas en Operaciones de Cr�dito Efectuadas con Letras o Pagar�s y Banco Responsable del Pago del Tributo en Operaciones de Cr�dito de Dinero que Provienen del Exterior. ( Of. N� 2716, de 20.06.2001. Depto. de T�cnica Tributaria). Ley N� 18.985, de 1990 � Art. 8� Ley Sobre Donaciones con Fines Culturales Modificada por la Ley N� 19.721, de 05.05.2001, Art. 2� � Circulares N� 24 y 50 de 1993. Word Situaci�n Tributaria de Donaciones Amparadas en la Le…
+Word Situaci�n Tributaria de Donaciones Amparadas en la Ley Sobre Donaciones con Fines Culturales, Cuando el Donante, Tendr�a la Doble Condici�n de Donante de Dinero y de Vendedor del Inmueble que se Adquirir�a con Dicho Dinero. (Of. N� 2534, de 08.06.2001 � I. Directos).
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-05
+- Fecha: 2001-05-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja200.doc
 - Hash SHA-256: 987d7ed6874821be1518a1f0b88545cac3301ce35e8a57f3ed2960e8a2cfcbb4
 
 ## Resumen
 
-54, de 05.06.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 17� N�14�, Art. 42� N� 1� y Art. 43� N� 1�. Word Tratamiento Tributario de las Asignaciones Otorgadas por Concepto de Alimentaci�n. (Of. N� 2497, de 06.06.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis. Word Tratamiento Tributario del Cr�dito Establecido en el Art�culo 33 Bis de la Ley de la Renta, Imputado al Impuesto de Primera Categor�a, Frente a las Normas de la Determinaci�n del Fut y Declaraci�n de Renta…
+Word Tratamiento Tributario del Cr�dito Establecido en el Art�culo 33 Bis de la Ley de la Renta, Imputado al Impuesto de Primera Categor�a, Frente a las Normas de la Determinaci�n del Fut y Declaraci�n de Renta en el Formulario N� 22. ( Of. N� 2119, de 17.05.2001. I. Directos).
 
 ## Referencias detectadas
 

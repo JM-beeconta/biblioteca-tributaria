@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nsulta sobre la posibilidad de que un contribuyente exportador que ha cometido errores en el formulario de declaraci�n de IVA y que como consecuencia se encuentra impedido de solicitar la devoluci�n del cr�dito fiscal, se le autorice a enmendar los errores cometidos en las declaraciones correspondientes y solicitar la devoluci�n pendiente a trav�s del mecanismo del art�culo 126 N� 3 del C�digo Tributario. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3661 de 11 de Octubre de 2002. Word IVA en transporte de c…
+Word IVA en transporte de carga efectuado desde y hacia el territorio beneficiado con r�gimen preferencial aduanero y tributario, Ley N� 18.392, de 1985 (XII Regi�n de Magallanes y Ant�rtica Chilena).
 
 ## Referencias detectadas
 

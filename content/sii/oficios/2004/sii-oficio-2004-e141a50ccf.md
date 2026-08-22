@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-15
+- Fecha: 2004-03-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja670.htm
 - Hash SHA-256: f54d84c339c06bad46271476c643142f7c3b50528cdced170b2ee92460c39a73
 
 ## Resumen
 
-que el Fisco efect�a a la empresa concesionaria del puerto de Arica, en virtud del convenio celebrado entre el Fisco de Chile y la Empresa Portuaria XXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1241 de 15 de Marzo de 2004. Word No procede liberaci�n de Impuesto al Valor Agregado, en importaci�n de un veh�culo motorizado para lisiados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1182 de 09 de Marzo de 2004.- Word Consulta si procede otorgar la exenci�n del art�culo 12�, letra E), 12, del D.L. N…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1182 de 09 de Marzo de 2004.-
 
 ## Referencias detectadas
 

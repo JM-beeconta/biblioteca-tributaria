@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a/ja485.htm">Ley sobre Impuesto a la Renta � Arts. 14 bis, 20 N� 3 y 21 de la LIR, Art. 28 C�digo Tributario, Art. 507 y sgtes. del C�digo de Comercio y Art. 1610 C�digo Civil Word Tributaci�n que afecta a Contrato de Asociaci�n o Cuentas en Participaci�n y pago por subrogaci�n seg�n la causal N� 5 del art�culo 1.610 del C�digo Civil. (Ord. N� 2278, de 29.04.2003) Ley sobre Impuesto a la Renta � Arts. 33 N� 1, 41 A, 41 B y 41 C Word Tipo de cambio a considerar para los efectos de corregir monetariamente las invers…
+Word Tipo de cambio a considerar para los efectos de corregir monetariamente las inversiones en el exterior. (Ord. N� 2277, de 29.04.2003)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-27
+- Fecha: 2001-09-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3922.doc
 - Hash SHA-256: 49c3df61250326788a5059e61734a3d99a41b13a1459e6ecdafc16e2094e7c56
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�9. (Ord. N� 3925, de 27.09.2001) Word Determinaci�n del costo o valor de adquisici�n de derechos sociales de una comunicad hereditaria para los efectos de su enajenaci�n. Renta � Actual Ley Sobre Impuesto a la � Circulares N�s. 50, de 1995 y 66, de 1999 � Ley N�18.392, Art. 1�. (Ord. N� 3922, de 26.09.2001) Word El Servicio de Impuestos Internos carece de competencia para definir la expresi�n proceso de elaboraci�n, conservaci�n y transformaci�n que utiliza el i…
+Word El Servicio de Impuestos Internos carece de competencia para definir la expresi�n proceso de elaboraci�n, conservaci�n y transformaci�n que utiliza el inciso tercero del art�culo 1� de la Ley N� 18.392.
 
 ## Referencias detectadas
 

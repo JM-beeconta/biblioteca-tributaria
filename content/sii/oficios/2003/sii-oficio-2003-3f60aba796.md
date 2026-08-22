@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Situaci�n tributaria de sociedades plataforma de negocios a que se refiere al art�culo 41 D de la Ley de la Renta. (Ord. N� 4517, de 12.09.2003) Ley sobre Impuesto a la Renta � Art. 41 D y Ley N� 19.840, de 2002 Word Tributaci�n de la sociedades plataforma de negocios a que se refiere el art�culo 41 D de la Ley de la Renta. (Ord. N� 4516, de 12.09.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 11, 20 N� 2 y 39 N� 4 Word Tributaci�n de rentas obtenidas por corporaci�n que se indica. (Ord. N� 4178, de 26.08.2003)…
+12.09.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 11, 20 N� 2 y 39 N� 4
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Procedencia de beneficios del 55 bis de la Ley de la Renta, en caso de reestructuraci�n de cr�dito hipotecario. (Ord. N� 5296, de 21.10.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 43 N� 1 y 42 bis LIR Word Se emite pronunciamiento sobre reconsideraci�n de Oficios N� 2.758, de fecha 25.07.2002 y 104 de 10.01.2003, del SII. (Ord. N� 5295, de 21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Resuelve reconsideraci�n de Ordinario N� 2.549, de 27.05.2003 del SII. (Ord. N� 5294, de 21.10.2003)…
+21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis LIR
 
 ## Referencias detectadas
 

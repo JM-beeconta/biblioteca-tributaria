@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-07-19
+- Fecha: 2001-07-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja2971.htm
 - Hash SHA-256: bdad412f5720920ed2e5500e59c2cba9d5889b834a163422918211ae3335bfd8
 
 ## Resumen
 
-a cobranza judicial y/o extrajudicial, como una actividad aut�noma, no gravada con IVA. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46� � Ley N� 19.633. (Ord. N� 3072, de 19.07.2001) Word Aplicaci�n de la Ley N� 19.633, de 1999, a la primera venta de veh�culos internados al amparo del Cap�tulo 0 del Arancel Aduanero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6� � Ley N� 19.030 � decreto N� 211, de 2000, Art. 5�. (Ord. N� 2971, de 13.07.20…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 18.502, Art. 6� � Ley N� 19.030 � decreto N� 211, de 2000, Art. 5�. (Ord. N� 2971, de 13.07.2001)
 
 ## Referencias detectadas
 

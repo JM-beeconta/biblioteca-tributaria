@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-27
+- Fecha: 2003-05-09
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja491.doc
 - Hash SHA-256: 6eccb98b39edfcc0f81abd34e662c8fc16607c5e655fb86c6aac76d65a2814c1
 
 ## Resumen
 
-0 del D.L. N� 3.059, de 1979. (Ord. N� 2548, de 27.05.2003) Ley sobre Impuesto a la Renta � Arts. 47 y 48 C�digo del Trabajo Word Situaci�n tributaria de utilidades obtenidas en la enajenaci�n de un bien ra�z para los efectos de las gratificaciones legales. (Ord. N� 2430, de 12.05.2003) Ley sobre Impuesto a la Renta � Art. 42 bis N� 3 Word Tratamiento tributario de las comisiones cobradas por las instituciones autorizadas para administrar los Planes de Ahorro Previsional Voluntario. (Ord. N� 2410, de 09.05.2003) L…
+Word Tratamiento tributario de las comisiones cobradas por las instituciones autorizadas para administrar los Planes de Ahorro Previsional Voluntario. (Ord. N� 2410, de 09.05.2003)
 
 ## Referencias detectadas
 

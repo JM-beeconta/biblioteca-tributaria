@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-27
+- Fecha: 2004-02-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja659.htm
 - Hash SHA-256: 59b1846457b2d69e26a5e73c8e642a02208a497bbdcac977288aa714a7fce307
 
 ## Resumen
 
-cida con motivo de la adquisici�n de un veh�culo para transporte de insumos que pretende realizar una Sociedad de Servicios M�dicos y Odontol�gicos que tributa en Primera Categor�a. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1049 de 27 de Febrero de 2004.- Word Aplicaci�n del Impuesto al Valor Agregado a servicios de movimiento de tierras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 934 de 17 de Febrero de 2004.- Word IVA en contrato de servicios de aseo comunal, suscritos con anterioridad al aume…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 934 de 17 de Febrero de 2004.-
 
 ## Referencias detectadas
 

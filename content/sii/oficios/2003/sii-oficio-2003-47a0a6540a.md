@@ -11,7 +11,7 @@
 
 ## Resumen
 
-as/ja561.doc'>Word Presentaci�n de fecha 21-08-2003, de XXXXXXXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4493 de 11 de Septiembre de 2003.- Word Tributaci�n con IVA, a la entrega de fondos por parte de una sociedad en comandita por acciones a la sociedad gestora. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4492 de 11 de Septiembre de 2003.- Word IVA en los servicios de inspecci�n y certificaci�n de instalaciones interiores de gas de viviendas. Ley de Impuesto a las Ventas y Servicios. Ofici…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4492 de 11 de Septiembre de 2003.-
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 327
 - Año: 2002
-- Fecha: 2002-01-28
+- Fecha: 2002-01-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja244.doc
 - Hash SHA-256: 838df5186cef1edfec640a159727569e3c69e6d4950550b688a6e3433832cee5
 
 ## Resumen
 
-ituaciones. Ley de Impuesto a las Ventas y Servicios. Ofcio N� 336 de 28 de Enero de 2002. Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, de los servicios de telefon�a de larga distancia internacional. Ley de Impuesto a las Ventas y Servicios. Oficio N� 327 de 25 de Enero de 2002. Word Impuesto al Valor Agregado que grava a distintas remuneraciones que se originan en un contrato de securitizaci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 194 de 14-01-2002. Word Facultad de imput…
+Word Impuesto al Valor Agregado que grava a distintas remuneraciones que se originan en un contrato de securitizaci�n.
 
 ## Referencias detectadas
 

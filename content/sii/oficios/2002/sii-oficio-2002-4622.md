@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4622
 - Año: 2002
-- Fecha: 2002-12-12
+- Fecha: 2002-12-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja407.doc
 - Hash SHA-256: f14c2aed9c973c28d7553bd198dec1ab820f21773f962f5a8f336c0bc91d589f
 
 ## Resumen
 
-size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4635 de 12 de Diciembre de 2002. Word Reitera lo manifestado en Oficio N� 1135, de 10-04-2000, en cuanto a improcedencia de forma alternativa de pago a la indicada en la ley, para los efectos de lo dispuesto en el N� 5, del art�culo 23�, del Decreto Ley N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4622 de 10 de Diciembre de 2002. Word Aplicaci�n del impuesto adicional del art�culo 42�, del D.L. N� 825, de 1974, a la venta de chic…
+Word Aplicaci�n del impuesto adicional del art�culo 42�, del D.L. N� 825, de 1974, a la venta de chicha a granel efectuada por productores a otros vendedores.
 
 ## Referencias detectadas
 

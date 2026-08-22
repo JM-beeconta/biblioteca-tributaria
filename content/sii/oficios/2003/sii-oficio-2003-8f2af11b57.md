@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-27
+- Fecha: 2003-05-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja491.htm
 - Hash SHA-256: 746fd0b29d52210c4ee71eebd57acdc6bc18559caba44410f4f1659775e82c32
 
 ## Resumen
 
-br> Mantenci�n de exenci�n de impuesto adicional establecida en el art�culo 10 del D.L. N� 3.059, de 1979. (Ord. N� 2548, de 27.05.2003) Ley sobre Impuesto a la Renta � Arts. 47 y 48 C�digo del Trabajo Word Situaci�n tributaria de utilidades obtenidas en la enajenaci�n de un bien ra�z para los efectos de las gratificaciones legales. (Ord. N� 2430, de 12.05.2003) Ley sobre Impuesto a la Renta � Art. 42 bis N� 3 Word Tratamiento tributario de las comisiones cobradas por las instituciones autorizadas para administrar…
+12.05.2003) Ley sobre Impuesto a la Renta � Art. 42 bis N� 3
 
 ## Referencias detectadas
 

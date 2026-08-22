@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-28
+- Fecha: 2003-10-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja587.doc
 - Hash SHA-256: f51ca1cf6550cb894db6fd7bec078df13322115db76e00e0cffb87f0f79f4631
 
 ## Resumen
 
-art�culo 38 bis de la Ley de la Renta. (Ord. N� 5380, de 28.10.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 letra a) Word Situaci�n tributaria que se produce con motivo de la absorci�n de sociedades en el caso que se indica. (Ord. N� 5379, de 28.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 3 y 4, 20 N� 2, 42 ter y 54 Word Situaci�n tributaria de los dep�sitos convenidos. (Ord. N� 5351, de 23.10.2003) Ley sobre Impuesto a la Renta � Art. 14 bis LIR Word Tributaci�n de los contribuyentes acogidos a l…
+Word Situaci�n tributaria de los dep�sitos convenidos. (Ord. N� 5351, de 23.10.2003)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-30
+- Fecha: 2004-11-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja843.htm
 - Hash SHA-256: 02837951af7ad0765e741dd2329275c6ee84a7e11a3fdc5d116f2095ad21f1b8
 
 ## Resumen
 
-17�, N� 8, letras a) y b), Art. 18�, inc. 3� � C�digo Tributario, Art. 64� � C�digo Civil, Art. 1.897�, Art. 1.900�. Word Efectos que Produce la Permuta de Acciones de una Sociedad An�nima Cerrada por Bienes Ra�ces Rurales, conforme a lo dispuesto por Letras a) y b) del N�8 del Art�culo 17�, de la Ley de la Renta, en concordancia con lo establecido por el Art�culo 18�, de la misma ley. (Oficio N� 5.179, de 30.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � D.L. N� 701, de 1974, Art. 14…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, letra b) � D.L. N� 701, de 1974, Art. 14� � Circulares N�s 58, de 1990 y 78, de 2001.
 
 ## Referencias detectadas
 

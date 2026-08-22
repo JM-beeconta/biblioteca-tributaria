@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 154
 - Año: 2002
-- Fecha: 2002-01-15
+- Fecha: 2002-01-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja248.doc
 - Hash SHA-256: 98a00ceb89ce27c9667c2813e45767bc4c65a96e70a7465b8af31192ee654bc4
 
 ## Resumen
 
-n relaci�n con el N� 2 del mismo art�culo. Oficio N� 224, de 15 de enero de 2002. Ley Sobre Impuesto a la Renta - Ley N� 19.768, de 2001 Word Forma de acogerse al r�gimen tributario opcional que establece el art�culo 2� transitorio de la Ley N� 19.768 del a�o 2001. (Oficio N� 155, de 11 de enero de 2002). Ley Sobre Impuesto a la Renta. Word Tributaci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 154, de 11 de enero de 2002). Ley Sobre Impuesto a la Renta - Art. 101. Word Rentas…
+Word Tributaci�n que afecta a persona extranjera que desarrolla actividad en el pa�s. (Oficio N� 154, de 11 de enero de 2002).
 
 ## Referencias detectadas
 

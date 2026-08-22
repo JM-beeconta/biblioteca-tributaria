@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-14
+- Fecha: 2004-07-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja776.htm
 - Hash SHA-256: 6278037a33b438fdec16607543bc183e8b2cee56686097c17cff1efe46f73059
 
 ## Resumen
 
-is de Laboratorio. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 20�, N� 4 � Circular N� 21, de 1991 � Oficios N�s 2.661, de 1996 y 723, de 1997. (Ord. N� 3.423, de 14.07.2004) Word Impuesto al Valor Agregado, en la Intermediaci�n dirigida a la obtenci�n de Cr�ditos de Consumo. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 3. (Ord. N� 2.975, de 12.07.2004) Word Aplicaci…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 3. (Ord. N� 2.975, de 12.07.2004)
 
 ## Referencias detectadas
 

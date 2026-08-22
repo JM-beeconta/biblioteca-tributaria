@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-15
+- Fecha: 2001-05-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja206.doc
 - Hash SHA-256: 6c5854ad56ad374a2fb838ae2c0b31d26db895d9ae02948af6c89886e241d64a
 
 ## Resumen
 
-aciones Unidas y sus Organismos Dependientes, Art. Ii, Seccion 7� Letra a) � D. L. N� 1051, de 1975, Articulo Unico. Word IVA en Venta de Software Efectuada por el Centro Latinoamericano y Caribe�o de Demograf�a. (Of. N� 2027, de 15.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 18� Inciso 1�, Art. 55� Inciso 8� - Ley de la Renta, Art. 30�, Art. 31� - Circular N� 103, de 1979. Word Solicita se Confirme Criterio en Relaci�n al IVA E Impuesto a la Renta…
+Word Solicita se Confirme Criterio en Relaci�n al IVA E Impuesto a la Renta de los Reemplazos de Piezas o Partes Defectuosas que se Realizan en Cumplimiento de Un Contrato de Marc. (Of. N� 1940, de 08.05.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

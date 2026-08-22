@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-24
+- Fecha: 2001-04-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja181.doc
 - Hash SHA-256: 227dba42e2fed8434f74dd4b82979e9107f123b9ce322cbf4f242156c470f82e
 
 ## Resumen
 
-Ley Impuesto a las � Art. 2�, Art. 8�, Art. 23� N�2�, Art. 55� Inciso 1� - Ley de la Renta, Art. 20� - Codigo Tributario, Art. 64�. Word Tratamiento Tributario de la Entrega de Bienes y Prestaci�n de Servicios con Fines Promocionales a Trav�s del Sistema de Canje de Puntos. (Of. N� 1750, de 24.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55�� Circular N� 39�, del 2000 � Res. Ex. N� 6080, de 1999. Word Consulta Sobre Tipo de Documento que se Debe Emitir para el Cobro de Serv…
+Word Consulta Sobre Tipo de Documento que se Debe Emitir para el Cobro de Servicios de Consultor�a en Computaci�n que Presta en el Extranjero. (Of. N� 1580, de 10.04.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

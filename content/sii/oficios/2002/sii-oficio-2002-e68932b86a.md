@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 3399, de 16.09.2002) Ley sobre Impuesto a la Renta � Arts. 17 N� 22, 31 N�s. 1 y 3 y 33 N� 1 letra e) Word Tratamiento tributario de la recuperaci�n de p�rdidas de empresas declaradas en quiebra en casos que indica. (Ord. N� 3066, de 28.08.2002) Ley sobre Impuesto a la Renta � Art. 42 N� 1 y 43 N� 1 LIR y Art. 1� transitorio Ley N� 19.170 Word Tratamiento tributario de indemnizaci�n que se indica. (Ord. N� 3367, de 13.09.2002) Ley sobre Impuesto a la Renta � Art. 59 N� 2 Word Impuesto Adicional que afecta a rem…
+Word Tratamiento tributario de indemnizaci�n que se indica. (Ord. N� 3367, de 13.09.2002)
 
 ## Referencias detectadas
 

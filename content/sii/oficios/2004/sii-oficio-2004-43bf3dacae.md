@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-19
+- Fecha: 2004-01-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja649.htm
 - Hash SHA-256: d0610d4bd872b752349a426c0617562037598931fcfc9edcf3556de708b17c06
 
 ## Resumen
 
-(Ord. N� 976, de 19.02.2004) Ley sobre Impuesto a la Renta � Art. 59 N� 2 Word Improcedencia de exenci�n de impuesto adicional establecida en el inciso segundo del n�mero 2 del art�culo 59 de la Ley de la Renta, en el caso de pagos efectuados al exterior por los conceptos que se indican. (Ord. N� 679, de 05.02.2004) Ley sobre Impuesto a la Renta � Art. 69 Ley N� 18.681, de 1987 Word Tratamiento tributario de donaciones efectuadas al amparo del art�culo 69 de la Ley N� 18.681/87. (Ord. N� 341, de 26.01.2004) Ley so…
+Ley sobre Impuesto a la Renta � Art. 69 Ley N� 18.681, de 1987
 
 ## Referencias detectadas
 

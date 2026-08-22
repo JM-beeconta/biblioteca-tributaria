@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-03
+- Fecha: 2001-07-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3113.htm
 - Hash SHA-256: 207745ff9b8a0a5ee90269827eb7478e62e268100e56fc457edcf58a7a940d27
 
 ## Resumen
 
-pasajeros o de carga. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, letra E, N� 10, Art. 52� � Circular N� 31, de 1981 � Resoluci�n Ex. N� 1.110, de 1978. (Ord. N� 3266, de 03.08.2001) Word Emisi�n de facturas en las comisiones cobradas por los bancos e instituciones financieras por el uso de tarjetas de cr�dito. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Tratado de Paz, Amistad y Comercio, de 1904, Art. VI. (Ord. N� 3113, de 23.07.2001) Word El beneficio…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Tratado de Paz, Amistad y Comercio, de 1904, Art. VI. (Ord. N� 3113, de 23.07.2001)
 
 ## Referencias detectadas
 

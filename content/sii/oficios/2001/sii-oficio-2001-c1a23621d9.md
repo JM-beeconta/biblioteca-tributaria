@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-11
+- Fecha: 2001-10-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4044.htm
 - Hash SHA-256: 0c3589702bfd62ba817047170d46ccd9dab6237898095a647d7d6ad0d5e2ae33
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 36� � D.S. N� 348, de 1975, del Ministerio de Econom�a, Fomento y Reconstrucci�n � Circular N� 12, del a�o 2000. (Ord. N� 4083, de 11.10.2001) Word Proporcionalidad aplicable para el c�lculo de la recuperaci�n de cr�dito fiscal, establecida en el art�culo 36�, inciso final, cuando existen cr�ditos de utilizaci�n com�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46�, N�9 � Ley N� 18.985, Art. 8�� D.F.L. N� 341,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 46�, N�9 � Ley N� 18.985, Art. 8�� D.F.L. N� 341, de 1977, Art. 21�. (Ord. N� 4044, de 08.10.2001)
 
 ## Referencias detectadas
 

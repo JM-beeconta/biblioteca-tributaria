@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3817
 - Año: 2003
-- Fecha: 2003-08-19
+- Fecha: 2003-07-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja544.doc
 - Hash SHA-256: e1327684377a27b3d2fd6e4aaf865a043250fe1bb7cf7dd0707d5072823a69f0
 
 ## Resumen
 
-e='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4016 de 19 de Agosto de 2003. Word Recuperaci�n del impuesto espec�fico al petr�leo diesel, establecido en el art�culo 6�, letra b), de la Ley N� 18.502, utilizado en camiones empleados en faenas de extracci�n y acopio de minerales al interior de la mina. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3817 de 30 de Julio de 2003.- Word Aplicaci�n de la Ley N� 18.502, al transporte de pasajeros efectuado en catamaranes, en Regi�n de Ays�n. Ley de Impue…
+Word Aplicaci�n de la Ley N� 18.502, al transporte de pasajeros efectuado en catamaranes, en Regi�n de Ays�n.
 
 ## Referencias detectadas
 

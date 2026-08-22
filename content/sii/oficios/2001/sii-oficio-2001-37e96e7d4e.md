@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-26
+- Fecha: 2001-10-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4259.htm
 - Hash SHA-256: 8942daf94cc44e8bbff485b71dcb6d5b3205fcfc42f0c53c28a82a70133348ea
 
 ## Resumen
 
-ne remanentes de cr�dito fiscal. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.518, de 1997, Art. 36� � Decreto Supremo N� 98, de 1998, del Ministerio del Trabajo y Previsi�n Social � Circular N� 19, de 1999. (Ord. N� 4275, de 26.10.2001 Word Contribuyentes que tienen derecho al cr�dito por gastos de capacitaci�n. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 20�, N�5. (Ord. N� 4259, de 25.10.2001) Word Impuesto al Valor Agregado que grava…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 20�, N�5. (Ord. N� 4259, de 25.10.2001)
 
 ## Referencias detectadas
 

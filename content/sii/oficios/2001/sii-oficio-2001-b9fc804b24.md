@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-12
+- Fecha: 2001-01-08
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja151.doc
 - Hash SHA-256: 0c9ed99d16bf42bc888fbbca6744e1f28b271cc4abc9a3c1b39c8c7a451c3935
 
 ## Resumen
 
-cia Tributaria � Ley N� 18.392 - Art. 1�, Art. 2�, Art. 9� - C�digo Tributario, Art. 6�, Letra a) N� 1�. Word Empresas que Tienen Derecho a las Franquicias Regionales Establecidas en la Ley N� 18.392, de 1985, Ley Navarino. (Of. N� 170, de 12.01.2001 � I. Indirectos) . Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art.36� - Circular N� 19, de 1999 � Circular N� 47�, de 1977. Word Personas que Tienen Derecho al Cr�dito por Gastos de Capacitaci�n. (Of. N� 71, de 08.01.2…
+Word Personas que Tienen Derecho al Cr�dito por Gastos de Capacitaci�n. (Of. N� 71, de 08.01.2001 � I. Directos).
 
 ## Referencias detectadas
 

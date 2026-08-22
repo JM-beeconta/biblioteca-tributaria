@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-26
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja163.htm
 - Hash SHA-256: 54cd8412daa68903678d44f8ebfd231ee8fdb604f30e89839fbf59915455cab5
 
 ## Resumen
 
-'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8� - Art. 55� - Art. 20� N�3� de la Ley de la Renta. Word Impuesto al Valor Agregado en Financiamiento de Gastos de Operaci�n de Embarcaciones Pesqueras y en Servicios de Mantenci�n y Reparaci�n de las Mismas, Pactados en Virtud de Un Contrato de Suministro de Pesca. (Of. N� 830, de 26.02.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 1�, Art. 8� - Art. 46� - Ley N� 19.506, de 1997, Art. 2� N� 4…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 1�, Art. 8� - Art. 46� - Ley N� 19.506, de 1997, Art. 2� N� 4� - Ley de Rentas Municipales, Art. 41� N� 7�.
 
 ## Referencias detectadas
 

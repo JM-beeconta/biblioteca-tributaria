@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-09
+- Fecha: 2001-09-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja688.htm
 - Hash SHA-256: e2abff0b8bbb8ac38d17d03b5915f9981431c55cadac44613f800201ba6296ed
 
 ## Resumen
 
-Renta� Actual Ley Sobre Impuesto a la � Art. 14�, Art. 74�, N�4 � Circular N� 53, DE 1990 (Ord. N� 96, de 09.01.2001) Word Retenci�n de impuesto adicional establecida en el art�culo 74 N� 4 de la Ley de la Renta, en el caso de utilidades de una agencia en Chile las cuales son retiradas por su casa matriz para ser reinvertidas en otra empresa chilena. Ley sobre Impuesto a la Renta � Arts. 2� N�s. 2 y 3, 15 y 29 LIR (Ord. N� 3745, de 12.09.2001) Word Tributaci�n que afecta a ingresos percibidos por adelantado por ar…
+Ley sobre Impuesto a la Renta � Arts. 2� N�s. 2 y 3, 15 y 29 LIR (Ord. N� 3745, de 12.09.2001)
 
 ## Referencias detectadas
 

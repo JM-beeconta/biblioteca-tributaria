@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-29
+- Fecha: 2001-08-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3574.doc
 - Hash SHA-256: 6891c1732f78d2a7d76fdd6732c730da10153d3d5fe17700d5c0110784b4e027
 
 ## Resumen
 
-divisi�n de una sociedad de personas. Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.110, Art. 2� � Ley N� 17.169, Art. 15�. (Ord. N� 3591, de 29.08.2001) Word Sujeto del impuesto establecido en el art�culo 2� de la Ley N� 18.110. Renta � Actual Ley Sobre Impuesto a la � (Ord. N� 3574, de 28.08.2001) Word Situaci�n tributaria de bonificaci�n para el aprendizaje y capacitaci�n otorgada a empresas que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�1, Art. 43�, N�1 � Circular N� 41, de 1999. (Or…
+Word Situaci�n tributaria de bonificaci�n para el aprendizaje y capacitaci�n otorgada a empresas que se indican.
 
 ## Referencias detectadas
 

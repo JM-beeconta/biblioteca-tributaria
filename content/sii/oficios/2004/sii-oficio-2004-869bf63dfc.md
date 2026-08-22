@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-13
+- Fecha: 2004-09-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja804.doc
 - Hash SHA-256: 2974789b209c65539486922a84b844739e9c90d1c0faed79e9b9f51e3f63c5c5
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.884, Art. 21�, Art. 19� � Ley N� 19.885, Art. 8� � Oficio N� 1.765, de 2004. Word Situaci�n tributaria de las Donaciones efectuadas a Partidos Pol�ticos. (Ord. N� 4.304, de 13.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis � Circular N� 59, de 1991 Word Situaci�n Tributaria de los Contribuyentes Acogidos a la Tributaci�n del Art�culo 14� bis de la ley de la Renta, cuando al cuarto a�o de su opci�n, superan el L�mite de las 3000 UTM. (Ord. N� 4.268,…
+Word Situaci�n Tributaria de los Contribuyentes Acogidos a la Tributaci�n del Art�culo 14� bis de la ley de la Renta, cuando al cuarto a�o de su opci�n, superan el L�mite de las 3000 UTM. (Ord. N� 4.268, de 10.09.2004)
 
 ## Referencias detectadas
 

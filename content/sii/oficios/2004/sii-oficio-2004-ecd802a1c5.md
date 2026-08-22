@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-28
+- Fecha: 2004-07-23
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja782.doc
 - Hash SHA-256: 40d128a67f2b4825d6f4d16f27b6820fe233614d4f73a4a739f86cc3bc5be023
 
 ## Resumen
 
-Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 2�, Art. 3�, Art. 11�, Art. 13� � Ley N� 18.985, Art. 8� � Circular N� 55, de 2003 � Word Situaci�n tributaria de las donaciones efectuadas a Establecimientos Educacionales que se Indican. (Ord. N� 3.583, de 28.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b) y N� 9 � C�digo Civil, Art. 1.401� � Ley N� 16.271. Word Tributaci�n que afecta a Donaci�n de Saldo de precio en Venta de un Inmueble. (Ord. N� 3.529, de 23.07.2004) Renta � Actual L…
+Word Tributaci�n que afecta a Donaci�n de Saldo de precio en Venta de un Inmueble. (Ord. N� 3.529, de 23.07.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-26
+- Fecha: 2003-08-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja540.htm
 - Hash SHA-256: 58600514e3f5eb8ce23f471b63eade5030dd1063fccc1174f58a031575204247
 
 ## Resumen
 
-Word Tributaci�n de rentas obtenidas por corporaci�n que se indica. (Ord. N� 4178, de 26.08.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 2, 74 N� 2, 84 LIR y Ley N� 18.450, de 1985 Word Emisi�n de boletas de honorarios para los efectos de impetrar beneficios establecidos en la Ley N� 18.450, de 1985. (Ord. N� 4012, de 18.08.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 8 y N� 9 inciso 2�, 3� y 4� Art. 41 Word Efectos que produce la permuta de derechos sociales en el caso que se indica. (Ord. N� 4011, de…
+18.08.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 8 y N� 9 inciso 2�, 3� y 4� Art. 41
 
 ## Referencias detectadas
 

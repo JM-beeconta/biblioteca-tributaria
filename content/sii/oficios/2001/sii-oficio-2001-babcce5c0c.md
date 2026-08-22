@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-02
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja186.htm
 - Hash SHA-256: 359948b157900bc741f19f2e3150c90ccd1701924456ac99864c68260d8b77c7
 
 ## Resumen
 
-n de Derechos Sociales y el Valor de Libros de los Activos y Pasivos de Sociedad Absorbida por Fusi�n Impropia. (Of. N� 1849, de 02.05.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 53� - Codigo Civil, Art. 150, Art. 1.750. Word Tributaci�n de Mujer Casada en R�gimen de Sociedad Conyugal. (Of. N� 1295, de 29.03.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1�, Letra B), Art.41� - Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales, Art.24� - D. S. del Ministerio del…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1�, Letra B), Art.41� - Decreto Ley N� 3.063, de 1979, Sobre Rentas Municipales, Art.24� - D. S. del Ministerio del Interior N�2.385, de 1996.
 
 ## Referencias detectadas
 

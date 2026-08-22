@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Word Determinaci�n del monto de la cauci�n que establece el art�culo 5� de la Ley N� 19.606, de 1999. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9 � Ley N� 16.271, Art. 7� C�digo Civil, Art. 647�. (Ord. N� 3328, de 10.08.2001) Word Tributaci�n de usufructo sobre instrumentos mercantiles. Rentan � Actual Ley Sobre Impuesto a la � Art. 43, N�1, Art. 52�, Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3327, de 10.08.2001) Word Mantenci�n del beneficio tributario estab…
+Rentan � Actual Ley Sobre Impuesto a la � Art. 43, N�1, Art. 52�, Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3327, de 10.08.2001)
 
 ## Referencias detectadas
 

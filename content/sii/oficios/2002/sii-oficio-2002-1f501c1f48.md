@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-26
+- Fecha: 2002-08-22
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja337.htm
 - Hash SHA-256: 073982a5bab3695233ff59cdcc994797368beeed3d9fbc161f1558230211576d
 
 ## Resumen
 
-da que se disuelve, para los efectos del c�mputo de la presunci�n de habitualidad que se establece en el inciso tercero del art�culo 18 de la Ley de la Renta. (Ord. N� 3032, de 26.08.2002) Ley sobre Impuesto a la Renta � Art. 41 y 68 LIR y arts. 17 y 18 C�digo Tributario Word Forma en que debe llevarse la contabilidad en moneda extranjera. (Ord. N� 2986, de 22.08.2002) Ley sobre Impuesto a la Renta � Arts. 14 y 41 Word Situaci�n tributaria de enajenaci�n de derechos sociales de una sociedad de responsabilidad limi…
+22.08.2002) Ley sobre Impuesto a la Renta � Arts. 14 y 41
 
 ## Referencias detectadas
 

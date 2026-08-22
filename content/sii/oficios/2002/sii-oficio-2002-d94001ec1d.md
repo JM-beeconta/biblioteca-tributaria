@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en un edificio de oficinas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3029 de 26 de Agosto de 2002. Word Consulta acerca de si las ventas en Zona Franca a clientes que formulan ofertas de compra a trav�s de medios electr�nicos, se encuentran amparadas por la norma liberatoria de IVA contenida en el art�culo 23 del D.F.L. N� 341, de 1977. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3028 de 26 de Agosto de 2002. Word Solicita reconsideraci�n del Oficio N� 220, del 23 de Abril de 2002, del se�or Dir…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3028 de 26 de Agosto de 2002.
 
 ## Referencias detectadas
 

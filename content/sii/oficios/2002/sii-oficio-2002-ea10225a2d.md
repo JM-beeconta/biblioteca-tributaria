@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-11
+- Fecha: 2002-04-05
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja263.htm
 - Hash SHA-256: c8d064df8dc60bdb36e8ff4a1c92092d9e902b50439c8e80a022c1d21aa1f387
 
 ## Resumen
 
-ord Impuesto al valor agregado aplicable a �Contrato de estudios, ingenier�a de detalles, Central Hidroel�ctrica�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1172 de 11 de Abril de 2002. Word Impuesto al valor agregado que afecta a subsidios entregados por el Programa de Asistencia y Modernizaci�n de la Miner�a Artesanal (PAMMA). Ley de Impuesto a las Ventas y Servicios. Oficio N� 1137 de 05 de Abril de 2002 Word Estacionamiento de veh�culos en la v�a p�blica, hecho gravado con IVA en caso que indica. Ley…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1137 de 05 de Abril de 2002
 
 ## Referencias detectadas
 

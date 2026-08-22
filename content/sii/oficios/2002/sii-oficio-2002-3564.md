@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3565 de 4 de Octubre de 2002. Word No procede gravar con el impuesto adicional a las bebidas alcoh�licas, analcoh�licas y productos similares al producto en polvo que sirve como base para preparar pisco sour. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3564 de 4 de Octubre de 2002. Word Consulta acerca de procedencia de utilizar como cr�dito fiscal el impuesto soportado en la ejecuci�n de un proyecto para drenaje, en circunstancias que el predio ben…
+Word Consulta acerca de procedencia de utilizar como cr�dito fiscal el impuesto soportado en la ejecuci�n de un proyecto para drenaje, en circunstancias que el predio beneficiado con dicha obra se encuentra arrendado y su propietario no se encuentra ejerciendo su actividad agr�cola durante el per�odo que dura dicho arriendo.
 
 ## Referencias detectadas
 

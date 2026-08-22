@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-02-24
+- Fecha: 2003-01-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja446.doc
 - Hash SHA-256: 82291f6f91a68928b4447a4a55ffbb63bd3c84bf7195b07ccc921bca2335c859
 
 ## Resumen
 
-d Situaci�n tributaria del traspaso de acciones en el caso de la fusi�n de compa��as que indica. (Ord. N� 621, de 24.02.2003) Ley sobre Impuesto a la Renta � Art. 59 N� 1 Word Aplicaci�n del art�culo 59 N� 1, en el caso de exceso de endeudamiento. (Ord. N� 426, de 31.01.2003) Ley sobre Impuesto a la Renta � Art. 42 N� 2 Word Tratamiento tributario de sumas pagadas en conformidad a un contrato de transacci�n y finiquito. (Ord. N� 329, de 27.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 17 Word Situaci�n tribu…
+Word Tratamiento tributario de sumas pagadas en conformidad a un contrato de transacci�n y finiquito. (Ord. N� 329, de 27.01.2003)
 
 ## Referencias detectadas
 

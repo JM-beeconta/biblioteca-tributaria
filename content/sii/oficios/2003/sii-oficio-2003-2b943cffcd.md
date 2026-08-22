@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-16
+- Fecha: 2003-12-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja611.htm
 - Hash SHA-256: 8df57058cf458d0041af5a9c33f8199cf50370f3d801ef235c3dc3da5f0a9236
 
 ## Resumen
 
-ont> Ley de Impuesto a las Ventas y Servicios. Oficio N� 6470 de 16 de Diciembre de 2003.- Word Recuperaci�n de remanentes de cr�dito fiscal originados en la adquisici�n de plantas de tratamiento de aguas servidas y redes de agua potable y alcantarillado, en virtud del art�culo 27 bis del D.L. N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6176 de 03 de Diciembre de 2003.- Word Impuesto al Valor Agregado que afecta a Convenio de Prestaciones Gastroenterol�gicas, entre un centro m�dico y los p…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 6176 de 03 de Diciembre de 2003.-
 
 ## Referencias detectadas
 

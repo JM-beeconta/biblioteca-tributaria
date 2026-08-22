@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pio Tributario del contribuyente. (Ord. N� 1516, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 59 N� 2 y 74 N� 4 Word Impuesto Adicional de la Ley de la Renta que afecta a estudio encargado a empresa extranjera. (Ord. N� 1515, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 97 de la LIR y 69 y 126 C�digo Tributario Word Consulta sobre devoluci�n de Pagos Provisionales Mensuales de empresa que desaparece con motivo de fusi�n por absorci�n. (Ord. N� 1514, de 09.04.2003) Ley sobre Impuesto a la Renta � Ar…
+Word Consulta sobre devoluci�n de Pagos Provisionales Mensuales de empresa que desaparece con motivo de fusi�n por absorci�n. (Ord. N� 1514, de 09.04.2003)
 
 ## Referencias detectadas
 

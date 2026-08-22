@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Aplicaci�n del art�culo 37 letra I), del D.L. N� 825, de 1974, a importaci�n de especies que indica. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 42�, letra a) � Ley N� 19.716, de 2001. (Ord. N� 3698, de 10.09.2001) Word Consulta sobre calificaci�n de los productos farmac�uticos complementarios que se indican. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 10�, Art. 52�. (Ord. N� 3696, de 10.09.2001) Word Tributaci�n con IVA, que afecta a operaci�…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4�, Art. 10�, Art. 52�. (Ord. N� 3696, de 10.09.2001)
 
 ## Referencias detectadas
 

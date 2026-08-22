@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-23
+- Fecha: 2002-09-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja364.htm
 - Hash SHA-256: f7147f1e4bb832586d990cc7fd8ef42cc037282d71d3229cd9d73a9c52e47864
 
 ## Resumen
 
-el D.L. N� 825, de 1974, introducida por Ley N� 19.738. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3413 de 23 de Septiembre de 2002. Word Solicita reconsideraci�n Oficio Ord. N� 5052, de 28-12-2001, relativo a Impuesto al Valor Agregado que afecta a las comisiones por administraci�n del Seguro de Cesant�a, establecido en la Ley N� 19.728. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3398 de 16 de Septiembre de 2002. Word Tributaci�n aplicable a los contratos de cesi�n de uso de inmuebles, bajo la m…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3398 de 16 de Septiembre de 2002.
 
 ## Referencias detectadas
 

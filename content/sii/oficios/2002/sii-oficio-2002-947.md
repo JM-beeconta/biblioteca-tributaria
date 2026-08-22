@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 947
 - Año: 2002
-- Fecha: 2002-03-26
+- Fecha: 2002-03-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja260.doc
 - Hash SHA-256: bc226eb44701dabf32c5faa40004d1154a37e56c11f8fe6b5a19b6dbae7e7bbf
 
 ## Resumen
 
-echo gravado con IVA en caso que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1029 de 26 de Marzo de 2002 Word Impuesto al Valor Agregado respecto de servicios de mantenci�n preventiva de equipos electromec�nicos. Ley de Impuesto a las Ventas y Servicios. Oficio N�947 de 21 de Marzo de 2002. Word Impuesto al Valor Agregado que grava al proyecto denominado �Levantamiento de Informaci�n referente a la Red Vial Nacional (Infraestructura, Medio Ambiente, Riesgos Naturales)�. Ley de Impuesto a las Ventas…
+Word Impuesto al Valor Agregado que grava al proyecto denominado �Levantamiento de Informaci�n referente a la Red Vial Nacional (Infraestructura, Medio Ambiente, Riesgos Naturales)�.
 
 ## Referencias detectadas
 

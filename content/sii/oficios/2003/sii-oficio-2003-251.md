@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 252 de 21 de Enero de 2003. Word Imputaci�n al IVA de las cantidades correspondientes a la retenci�n que afecta a los compradores de harina, seg�n Res. Ex. N� 5282, de 30-11-2000. Ley de Impuesto a las Ventas y Servicios. Oficio N� 251 de 21 de Enero de 2003. Word Aplicaci�n de IVA en prestaci�n de servicios de suministro de informaci�n y noticias. Ley de Impuesto a las Ventas y Servicios. Oficio N� 195 de 16 de Enero de 2003. Word Aplicaci�n de IVA a i…
+Word Aplicaci�n de IVA en prestaci�n de servicios de suministro de informaci�n y noticias.
 
 ## Referencias detectadas
 

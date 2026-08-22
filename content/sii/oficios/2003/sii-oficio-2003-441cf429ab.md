@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-12-23
+- Fecha: 2003-12-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja637.htm
 - Hash SHA-256: 44e41dba9e09b0e756b62348823619a24405b9551e61edd7857b71f899c77bf2
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 6606 de 23 de Diciembre de 2003. Word Procedencia de emitir nota de d�bito para regularizar situaci�n de contribuyente que, a su juicio, vio afectado su remanente de cr�dito fiscal al ser objetada por este Servicio a su contraparte, nota de cr�dito emitida por �sta y asociada a la prestaci�n de servicios administrativos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6587 de 22 de Diciembre de 2003. Word Impuesto al Valor Agregado que grava el monto que se p…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 6587 de 22 de Diciembre de 2003.
 
 ## Referencias detectadas
 

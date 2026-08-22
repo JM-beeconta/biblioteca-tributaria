@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-02
+- Fecha: 2002-04-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja269.htm
 - Hash SHA-256: a757e62f737fab60683e02c843c2081cb16d63ee289158e38a889293137bac5c
 
 ## Resumen
 
-las comisiones que el D.L. N� 3.500, de 1980, faculta a cobrar a las A.F.P. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1417 de 02 de Mayo de 2002. Word Recuperaci�n del IVA exportador soportado por una empresa minera en la adquisici�n de bienes o utilizaci�n de servicios relacionados con actividades destinadas al cierre de faenas mineras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1196 de 11 de Abril de 2002. Word Pide se reconsidere pronunciamiento de este Servicio, contenido en Oficio N� 3847,…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1196 de 11 de Abril de 2002.
 
 ## Referencias detectadas
 

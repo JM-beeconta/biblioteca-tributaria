@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-20
+- Fecha: 2001-03-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja174.doc
 - Hash SHA-256: cbeb11116e20c13bdac12190f9e2afcb5d875b95f909fddf44dcfdd0908d3605
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 54� N� 1� y N� 3�, Art. 57�, Art. 65� N� 3�. Word Contribuyentes que No Estan Obligados a Presentar una Declaraci�n de Impuesto Global Complementario, en Caso Indicado. (Of. N� 1196, de 20.03.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 29� al 33� � Art. 16� del Codigo Tributario. Word Ajustes al Resultado Contable para los Fines de la Determinaci�n del Resultado Tributario. (Of. N� 987, de 13.03.2001 � I. Directos) Renta � Actual Ley Sobre Impues…
+Word Ajustes al Resultado Contable para los Fines de la Determinaci�n del Resultado Tributario. (Of. N� 987, de 13.03.2001 � I. Directos)
 
 ## Referencias detectadas
 

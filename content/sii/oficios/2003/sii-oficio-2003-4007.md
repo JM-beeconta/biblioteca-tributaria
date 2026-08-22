@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4007
 - Año: 2003
-- Fecha: 2003-08-22
+- Fecha: 2003-08-18
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja546.doc
 - Hash SHA-256: bcb915613d4ebae6c8a40cc12f2e17891fabddcb605b39d38c21ed1d50b35b6c
 
 ## Resumen
 
-ficio N� 4143 de 22 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n o imputaci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402. ( Oficio N� 4008 de 18 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Tasa mensual de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de dinero destinados a la adquisici�n o construcci�n de viviendas que no alcanzan la tasa m�xima.…
+Word Tasa mensual de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de dinero destinados a la adquisici�n o construcci�n de viviendas que no alcanzan la tasa m�xima. ( Oficio N� 4007 de 18 de Agosto de 2003).
 
 ## Referencias detectadas
 

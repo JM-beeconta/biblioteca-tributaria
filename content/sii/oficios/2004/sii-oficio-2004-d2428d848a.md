@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-28
+- Fecha: 2004-10-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja830.doc
 - Hash SHA-256: 3ddbfc4db7374fd2807425a7592c3edcfec6fcaa03a7dc368cd7b679717694ef
 
 ## Resumen
 
-f='ventas/ja831.htm'>Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 3�� C�digo Tributario, Art. 6�. (Ord. N� 4.840 de 28.10.2004) Word Art�culo 3�, del D.L., N� 825 de, 1974. Impuesto al Valor Agregado en Actividades Ben�ficas de las Organizaciones sin Fines de Lucro. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23� � D.S N� 55, de 1977, Art. 43�. (Ord. N� 4.814 de 26.10.2004) Word Utilizaci�n del Cr�dito Fiscal Originado en la Adquisici�n de Veh�cul…
+Word Utilizaci�n del Cr�dito Fiscal Originado en la Adquisici�n de Veh�culos, cuya venta no se encuentra previamente determinada, cuando algunos de ellos son Vendidos con Posterioridad exentos del Impuesto al valor Agregado.
 
 ## Referencias detectadas
 

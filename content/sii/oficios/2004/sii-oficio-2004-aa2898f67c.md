@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-30
+- Fecha: 2004-11-25
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja850.htm
 - Hash SHA-256: f5f089f77dcd8af29d5a8579026865fd68f5926890e0ce464ffc119d9f3ab0fb
 
 ## Resumen
 
-t. 8�, letra h), Art. 12�, letra E), N� 7 � Ley de la Renta, Art. 31�, Art. 59�, Art. 74�, N�4, Art. 79� � Ley N� 17.336 � Circular N� 61, de 1997. (Ord. N� 5.176, de 30.11.2004) Word Tributaci�n que Afecta a la Importaci�n de Softwares enviados v�a Internet, conforme a lo dispuesto por los Art�culos 30�, 31�, inciso primero y 59�, inciso primero de la Ley de la Renta, e Impuesto al valor Agregado que afecta a la Operaci�n conforme el Art�culo 8�, letra h) del D.L. N� 825, de 1974. Ventas y Servicios � Nuevo Texto…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991 � Ley sobre Impuesto a la Renta, Art. 20� N� 1, letras a) y b) � Oficios N�s 2.219, de 1997 y 3.940, de 2004. (Ord. N� 5.132, de 25.11.2004)
 
 ## Referencias detectadas
 

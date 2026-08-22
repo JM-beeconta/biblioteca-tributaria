@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nta a Contrato Colectivo para que se beneficien con la Liberaci�n Tributaria del Art�culo 178� del C�digo del Trabajo. (Ord. N� 2.325, de 18.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. Word Tributaci�n que afecta a la Enajenaci�n de Bienes Ra�ces que se indican (Ord. N� 2.323, de 18.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art.42�, N� 2, Art. 74� � C�digo Tributario, Arts. 66� y 68� � Ley N� 19.418, Art. 29� - Decreto Supremo N� 58, de 1997 � Circular N�…
+18.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, Art.42�, N� 2, Art. 74� � C�digo Tributario, Arts. 66� y 68� � Ley N� 19.418, Art. 29� - Decreto Supremo N� 58, de 1997 � Circular N� 21, de 1991.
 
 ## Referencias detectadas
 

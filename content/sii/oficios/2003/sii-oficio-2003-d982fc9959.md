@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-30
+- Fecha: 2003-06-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja505.htm
 - Hash SHA-256: f70772df38c5bfeb61d67485e0b3dcf093982ad8b844f3b80ccea7d79d57a022
 
 ## Resumen
 
-Ley N� 19.853 y 18.392 y D.L. N� 889 Word Tratamiento tributario de bonificaci�n a la contrataci�n de mano de obra. (Ord. N� 2616, de 30.05.2003) Ley sobre Impuesto a la Renta � Art. 14 Ley N� 19.857 Word Informa sobre tratamiento tributario de empresas individuales de responsabilidad limitada. (Ord. N� 2621, de 02.06.2003) Ley sobre Impuesto a la Renta � Arts. 31 y 59 Word Impuesto Adicional que afecta a sociedad chilena que presta servicios de clasificaci�n de naves que recalen en costas chilenas y extranjeras.…
+02.06.2003) Ley sobre Impuesto a la Renta � Arts. 31 y 59
 
 ## Referencias detectadas
 

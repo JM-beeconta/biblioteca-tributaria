@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-05
+- Fecha: 2001-08-31
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3626.doc
 - Hash SHA-256: db120794e5762233bda41433627a9a9fdce608dfaf7d0c16f3fb8cd9a68d2cec
 
 ## Resumen
 
-m'>Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A), N�1, letra a) � Circular N� 40, del a�o 1991. (Ord. N� 3650, de 05.09.2001) Word Reconocimiento de rentas devengadas de acuerdo a lo establecido en el inciso segundo de la letra a) del N� 1 de la letra A) del art�culo 14 de la Ley sobre Impuesto a la Renta. Renta � Actual Ley Sobre Impuesto a la � Art. 2�, Art. 19� � Circular N� 100, del a�o 1975 (Ord. N� 3626, de 31.08.2001) Word Tratamiento tributario del pago anticipado de colegiaturas percibidas p…
+Word Tratamiento tributario del pago anticipado de colegiaturas percibidas por un colegio particular.
 
 ## Referencias detectadas
 

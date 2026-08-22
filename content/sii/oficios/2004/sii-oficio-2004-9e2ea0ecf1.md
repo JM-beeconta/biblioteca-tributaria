@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-02
+- Fecha: 2004-06-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja762.doc
 - Hash SHA-256: c1b1eaed845d5a419df545974689312f02fa4299ccf46b4cbd5c8b03713a5eca
 
 ## Resumen
 
-to � Actual Ley Sobre Impuesto a las � Art. 21�, N�2, Art.25� � D.S. N� 55, de 1977, Art. 69�, letra A, N�1 � Art. 39� � C�digo Tributario, Art. 97, N� 16. (Ord. N�2.845, de 02.07.2004) Word Utilizaci�n del Cr�dito Fiscal en caso de Extrav�o del Original de las Facturas Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.815, de 30.06.2004) Word Impuesto al valor Agregado que afecta a Prestaciones ambulatorias efectu…
+Word Impuesto al valor Agregado que afecta a Prestaciones ambulatorias efectuadas por un centro M�dico a Pacientes
 
 ## Referencias detectadas
 

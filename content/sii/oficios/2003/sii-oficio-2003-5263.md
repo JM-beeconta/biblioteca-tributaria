@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5263
 - Año: 2003
-- Fecha: 2003-10-21
+- Fecha: 2003-10-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja589.doc
 - Hash SHA-256: ff526252daf6bfca0d5118e89be67b3ae94648dd4c98dc194464977fbeb0de08
 
 ## Resumen
 
-> Ley de Impuesto a las Ventas y Servicios. Oficio N� 5291 de 21 de Octubre de 2003.- Word Aplicaci�n de IVA en servicios de administraci�n de cartera de contratos de arrendamiento con opci�n de compra de inmuebles y de contratos de mutuo hipotecario. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5263 de 16 de Octubre de 2003.- Word Asignaciones de material mayor y menor que la Junta Nacional de Cuerpos de Bomberos realiza a los diversos cuerpos de bomberos del pa�s, en relaci�n al Impuesto al Valor Agregado…
+Word Asignaciones de material mayor y menor que la Junta Nacional de Cuerpos de Bomberos realiza a los diversos cuerpos de bomberos del pa�s, en relaci�n al Impuesto al Valor Agregado.
 
 ## Referencias detectadas
 

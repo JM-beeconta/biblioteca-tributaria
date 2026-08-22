@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja135.doc
 - Hash SHA-256: e7f35afda599589dbd7c6ceebee558864f87dfaf5cce9f44f8e72072be1fe14c
 
 ## Resumen
 
-tos Tributarios. (Of. N� 190, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20�N� 1� al 5�, Art. 40� N� 4�, Art. 84�. Word Situaci�n Tributaria de Corporaci�n de Derecho Privado. (Of. N� 176, de 15.01.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 20� N� 1�. Word Tributaci�n de Predio Agr�cola. ( Of. N� 41, de 04.01.2001. I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 17� N� 8� Letra a), Art.18� - Ley N� 18.293, de 1984, Art.3� - Circular N� 158, de 1976…
+Word Tributaci�n de Predio Agr�cola. ( Of. N� 41, de 04.01.2001. I. Directos).
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2002) Ley sobre Impuesto a la Renta �Arts. 42 N� 1 y 43 N� 1, Art. 7 Ley N� 18.156 y D.L. N� 3.500, de 1980 Word Tratamiento tributario de retiro de cotizaciones previsionales que hagan los trabajadores extranjeros de las Administradoras de Fondos de Pensiones en virtud de la facultad establecida en el art�culo 7� de la Ley N� 18.156, de 1988. (Ord. N� 2758, de 25.07.2002) Ley sobre Impuesto a la Renta � Art. 17 N� 3 Word C�lculo del monto no constitutivo de renta respecto de cantidades percibidas en cumplimiento…
+2002) Ley sobre Impuesto a la Renta � Art. 17 N� 3
 
 ## Referencias detectadas
 

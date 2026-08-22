@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-12
+- Fecha: 2004-04-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja696.doc
 - Hash SHA-256: 19f2b5d07d872d71c582a370419002810da08489ed6cb6edfb0aa2773a4cb457
 
 ## Resumen
 
-N� 6.534, de 2003. Word Cotizaciones obligatorias que deben considerarse para los efectos del APV en el caso de los contribuyentes independientes del art�culo 42 N� 2 de la Ley de la Renta: (Ord. N� 1.704, de 12.04.2004) Renta � Actual Ley Sobre Impuesto a la � Circular N� 22, de 2001 � Res. Exentas N�s 5.396, de 2000 y N� 3, de 2001 � Ley de Impuesto a las Ventas y Servicios, Art. 52�. Word Moneda en que Deben pagarse los Impuestos que resulten de Liquidaci�n de Comisiones de Agentes. (Ord. N� 1.657, de 08.04.200…
+Word Moneda en que Deben pagarse los Impuestos que resulten de Liquidaci�n de Comisiones de Agentes. (Ord. N� 1.657, de 08.04.2004)
 
 ## Referencias detectadas
 

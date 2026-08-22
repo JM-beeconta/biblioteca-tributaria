@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-03-26
+- Fecha: 2002-03-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja258.htm
 - Hash SHA-256: 587a9137b3063bc872608782c409ecce51090e627b3d80f1bc04930a17248061
 
 ## Resumen
 
-es percibidas por los Servicios de Bienestar del Sector P�blico. (Ord. N� 1030, de 26.03.2002) Ley sobre Impuesto a la Renta - art. 14. Word Concepto de patrimonio neto a que se refiere la letra c) del N� 1 de la Letra A) del art�culo 14 de la Ley de la Renta. (Ord. N� 922, de 20.03.2002) Ley sobre Impuesto a la Renta - art. 57 bis. Word Subsistencia de beneficio del art�culo 57 bis de la Ley de la Renta, por inversi�n en acciones de pago de S.A. abierta, en el caso de fusi�n de sociedades. (Ord. N� 791, de 11.03.…
+Ley sobre Impuesto a la Renta - art. 57 bis.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-23
+- Fecha: 2004-03-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja678.htm
 - Hash SHA-256: f93960e6e845205bb299b07f65b99977964953c21d69552e850da7eacef2ac53
 
 ## Resumen
 
-as sumas pagadas por parte del Arrendatario por este concepto. � Impuesto al Valor Agregado en la Cesi�n de un Contrato de Arriendo de Inmueble con Instalaciones. Ley de Impuestos a las Ventas y Servicios. Oficio N� 1391 de 23 de marzo de 2004. Word Aplicaci�n de Res. Ex. N� 1087, de 1978, en la venta de gas licuado de petr�leo para uso automotriz. Ley de Impuestos a las Ventas y Servicios. Oficio N� 1377, de 22 de Marzo 2004. Word Solicita reconsideraci�n del Oficio N� 5348, del 23 de octubre del 2003. Ley de Imp…
+Ley de Impuestos a las Ventas y Servicios. Oficio N� 1377, de 22 de Marzo 2004.
 
 ## Referencias detectadas
 

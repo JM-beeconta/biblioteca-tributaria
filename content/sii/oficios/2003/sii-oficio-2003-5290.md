@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5290
 - Año: 2003
-- Fecha: 2003-10-23
+- Fecha: 2003-10-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja594.doc
 - Hash SHA-256: 516b8c19b86590e2c542543c4da57570c8312d61b8098ce842960c6659e896b2
 
 ## Resumen
 
-ize='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 5348 de 23 de Octubre de 2003.- Word Tributaci�n con el Impuesto al Valor Agregado aplicable a las remuneraciones obtenidas por una empresa administradora de cementerios parques. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5290 de 21 de Octubre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de gesti�n de funciones administrativas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5264 de 16 de Octubre de 2003.- Word No…
+Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de gesti�n de funciones administrativas.
 
 ## Referencias detectadas
 

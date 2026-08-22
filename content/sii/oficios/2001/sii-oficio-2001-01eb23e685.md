@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rd Documento que debe emitirse para acreditar operaci�n que se indica. (Ord. N� 2983, de 22.08.2002) Ley sobre Impuesto a la Renta � Art. 55 bis LIR y Art. 3� transitorio Ley N� 19.753, de 2001 Word Plazo para la presentaci�n de Declaraci�n Jurada Simple a que se refiere el art�culo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 2969, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 74 N� 4 Word Situaci�n tributaria de reinversi�n de utilidades en el caso de inversionistas extranjeros. (Ord. N� 2968, de…
+2002) Ley sobre Impuesto a la Renta � Art. 74 N� 4
 
 ## Referencias detectadas
 

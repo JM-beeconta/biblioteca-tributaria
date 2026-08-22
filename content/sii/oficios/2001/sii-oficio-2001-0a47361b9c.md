@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-01
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3848.doc
 - Hash SHA-256: 9d0d2f52168392da9d4a6c5579cb2ce5a8caaa09c7dbf5e7f872ba93edb756d7
 
 ## Resumen
 
-STIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letras c) y d), Art. 23�. (Ord. N� 3961, de 01.10.2001) Word Impuesto al Valor Agregado en caso de t�rmino de giro. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 13�, N�2 � Ley N� 10.621, Art. 1� � Resoluci�n Exenta N� 6080, de 1999. (Ord. N� 3848, de 24.09.2001) Word Impuesto al Valor Agregado, en prestaci�n de servicios de agencia noticiosa. Ventas y Servicios � Nuevo Texto � Actual Ley sobr…
+Word Impuesto al Valor Agregado, en prestaci�n de servicios de agencia noticiosa.
 
 ## Referencias detectadas
 

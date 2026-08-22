@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-21
+- Fecha: 2003-11-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja607.htm
 - Hash SHA-256: e54c297ad195a437e6c027b2e36937fcec33de0c401af99d07fb4cd88a399384
 
 ## Resumen
 
-sto adicional establecido en el art�culo 42�, letra c), del D.L. N� 825, en las ventas de vino a granel que efect�e a otros vendedores sujetos del impuesto. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5749 de 21 de Noviembre de 2003.- Word Consulta sobre aplicaci�n de IVA a servicios que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5698 de 20 de Noviembre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a diversos servicios de intermediaci�n en la obtenci�n de cr�ditos o celebraci�n…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5698 de 20 de Noviembre de 2003.-
 
 ## Referencias detectadas
 

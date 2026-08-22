@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pacitaci�n en el caso de peque�os mineros artesanales que optan por declarar la renta presunta de su actividad. (Ord. N� 3949, de 30.10.2002) Ley sobre Impuesto a la Renta � Arts. 4 y 70 de la LIR y Art. 8 N� 8 C�digo Tributario Word Situaci�n tributaria de chilenos radicados en el extranjero que desean invertir sus ahorros en Chile. (Ord. N� 3899, de 28.10.2002) Ley sobre Impuesto a la Renta � Art. 42 ter Word Tributaci�n aplicable a retiro de excedente de libre disposici�n que se indica. (Ord. N� 3791, de 22.10.…
+2002) Ley sobre Impuesto a la Renta � Art. 42 ter
 
 ## Referencias detectadas
 

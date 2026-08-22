@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-05
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja213.htm
 - Hash SHA-256: 9f6c4e5bf21dbaa632e9676f091d4cfe3b402caa745745fa8f137cbe1741ef11
 
 ## Resumen
 
-53, de 05.06.2001 � I. Directos). Franquicia Tributaria � Ley N� 19.518 - Capacitaci�n y Empleo � Estatuto de � Actual Texto � Art.30�, Art. 36�, Art. 37� - Circular N� 19, de 1999. Word Contribuyentes a Qui�nes Beneficia el Cr�dito por Gastos de Capacitaci�n Establecido en la Ley N� 19.518, Sobre Estatuto de Capacitaci�n y Empleo. (Of. N� 2133, de 17.05.2001 � I. Directos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � C…
+. Directos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circular N� 46, de 1999.
 
 ## Referencias detectadas
 

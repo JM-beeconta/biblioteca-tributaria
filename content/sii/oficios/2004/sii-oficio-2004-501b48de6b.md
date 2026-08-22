@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Nacionales o Extranjeras relacionadas con la producci�n y/o comercializaci�n de productos v�a Internet. � Servicios de clasificaci�n de naves frente a la Ley de la Renta. � indemnizaci�n acordada por transacci�n extrajudicial con un trabajador constituye renta para su beneficiario. (Ord. N� 1.764, de 15.04.2004 Renta � Actual Ley Sobre Impuesto a la � Ley N� 19885, de 2003, Art. 8� � Ley N� 19.884, de 2003, Art. 3�, Art. 21� Word Tratamiento Tributario de los aportes menores a 100UF efectuados a Partidos Pol�ticos…
+Word Tratamiento Tributario de los aportes menores a 100UF efectuados a Partidos Pol�ticos en per�odos no Electorales. (Ord. N� 1.765, de 15.04.2004)
 
 ## Referencias detectadas
 

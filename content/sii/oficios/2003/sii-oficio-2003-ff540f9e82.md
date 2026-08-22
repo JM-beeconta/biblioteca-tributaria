@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-20
+- Fecha: 2003-01-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja432.doc
 - Hash SHA-256: 206994a908d555930e752ad3fe07cae2d4b821874ad52d0494104d5877ce53e0
 
 ## Resumen
 
-ize="2"> Ley sobre Impuesto a la Renta � Art. 59 N� 1 Word Normas sobre exceso de endeudamiento a que se refiere el N� 1 del art�culo 59 de la Ley de la Renta, respecto de cr�dito otorgado desde el exterior a una empresa en el a�o 1998, la cual fue posteriormente absorbida por otra en el a�o 2000. (Ord. N� 232, de 20.01.2003) Ley sobre Impuesto a la Renta � Art. 46 del D.L. N� 3.063, de 1979 Word Tratamiento tributario de donaciones que se indican. (Ord. N� 226, de 17.01.2003) Ley sobre Impuesto a la Renta �Arts.…
+Word Tratamiento tributario de donaciones que se indican. (Ord. N� 226, de 17.01.2003)
 
 ## Referencias detectadas
 

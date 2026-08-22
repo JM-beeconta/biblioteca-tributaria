@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-23
+- Fecha: 2004-11-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja842.htm
 - Hash SHA-256: ff131ce60ef09c9f1b61b5414ef058d5c34b6d1a7f867228518f5acd0898de39
 
 ## Resumen
 
-0�, N� 1, letra b) � D.L. N� 701, de 1974, Art. 14� � Circulares N�s 58, de 1990 y 78, de 2001. Word Tributaci�n de Predio Agr�cola Perteneciente a Sociedad de Responsabilidad Limitada en el cual se Realiza Explotaci�n Agr�cola y Forestal de acuerdo a lo establecido en la letra b) del N� 1, del Art�culo 20�, de la Ley de la Renta y D.L. N� 701, de 1974, Sobre Fomento Forestal. (Oficio N� 5.113, de 23.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 41�� D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980 � Circular…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41�� D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980 � Circular N� 100, de 1975.
 
 ## Referencias detectadas
 

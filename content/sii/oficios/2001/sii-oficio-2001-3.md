@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-06-05
 - Categoría: Renta, Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja224.doc
 - Hash SHA-256: 2bdc42554c9cdf2e31092a2f898bf390adf98d74608672ffbd70dc88a26af0b3
 
 ## Resumen
 
-Timbres y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 3�, Decreto Ley N� 3.475, de 1980. Word Momento en que se Devenga el Impuesto del Art�culo 3� del Decreto Ley N� 3.475, de 1980, Cuando Importaci�n se Paga con Tarjeta de Cr�dito. (Of. N� 2462, de 06.06.2001. Depto. de T�cnica Tributaria). C�digo Tributario � Actual Texto � Art.17� y 18� - Oficio N� 3.839, de 29.09.2000 y Reservado N� 69, de 27.05.1999. Word Alcance de la Autorizaci�n para Llevar Contabilidad en Moneda Extranjera. (Of. N� 2453, de…
+Word Alcance de la Autorizaci�n para Llevar Contabilidad en Moneda Extranjera. (Of. N� 2453, de 05.06.2001 � I. Directos).
 
 ## Referencias detectadas
 

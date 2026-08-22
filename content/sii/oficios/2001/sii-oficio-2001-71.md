@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 71
 - Año: 2001
-- Fecha: 2001-03-09
+- Fecha: 2001-02-16
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja183.doc
 - Hash SHA-256: 6aa2fc60e37fe71cfdcf372d84ae8a73b87b01460fd2eb191564aa4236b311f6
 
 ## Resumen
 
-C�digo Tributario � Actual Texto � Art.126� - Ord. N�1164, de 30.04.98. Word Monto por el Cual Debe Autorizarse una Solicitud de Rectificatoria. (Of. N� 964, de 09.03.2001 � I. Indirectos.) Franquicia Tributaria � Ley N� 19.518 � Capacitaci�n y Empleo � Estatuto de - Actual Texto � Art. 36� - Circular N� 47�, de 1977 � Oficio N� 71�, del 08.01.2001. Word Se Solicita Reconsideraci�n de Of. 71�, del 2001, a Fin de Consignar Si los Organismos T�cnicos Intermedios para Capacitaci�n Son Contribuyentes de la Primera Cat…
+Word Se Solicita Reconsideraci�n de Of. 71�, del 2001, a Fin de Consignar Si los Organismos T�cnicos Intermedios para Capacitaci�n Son Contribuyentes de la Primera Categor�a y Bajo que Concepto y Si en Ese Sentido Es V�lida la Doble Aplicaci�n de la Franquicia Tributaria Sobre los Mismos Recursos. (Of. N� 758, de 16.02.2001 � I. Directos)
 
 ## Referencias detectadas
 

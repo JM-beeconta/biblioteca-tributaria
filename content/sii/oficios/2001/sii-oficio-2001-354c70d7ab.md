@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-15
+- Fecha: 2001-01-02
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja138.doc
 - Hash SHA-256: 735e80799b0f7bc9b377f7f21316bff94ca692861528a1a35355b602578a9922
 
 ## Resumen
 
-.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 31� N� 1� y 8�, Art. 41� - Circular N� 158�, de 1976. Word Situaci�n Tributaria de los Pr�stamos Efectuados por Un Socio a una Sociedad de Personas. (Of. N� 180, de 15.01.2001 � I. Directos) enta � Actual Ley Sobre Impuesto a la � Art. 31�. Word Tratamiento Tributario Respecto de los Desembolsos Incurridos en Mantenci�n y Mejoramiento de Camino P�blico por el Cual se Accede a Predio Agr�cola. (Of. N� 12, de 02.01.2001 � I. Directos) Renta � Actual…
+Word Tratamiento Tributario Respecto de los Desembolsos Incurridos en Mantenci�n y Mejoramiento de Camino P�blico por el Cual se Accede a Predio Agr�cola. (Of. N� 12, de 02.01.2001 � I. Directos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-23
+- Fecha: 2001-04-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja190.doc
 - Hash SHA-256: 07a391d2519fe00ed95381449680540eee7df84f8e08ad19f14d39e3fbd88377
 
 ## Resumen
 
-tras B) y C) - Ley de la Renta, Art. 5�, Art. 38� Bis. Word Tributaci�n con el Impuesto a la Renta E Impuesto al Valor Agregado, que Afectar�a a una Sucesi�n, con Ocasi�n del T�rmino de Giro de Un Contribuyente Fallecido, E Inicio de Actividades por Parte de la Misma. (Of. N� 2305, de 23.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 64� Inciso 4� - Circular N� 26�, de 1980 � Circular N� 44, de 1988. Word Aplicaci�n del Art�culo 64� Inc. 4� del D. L. 825, Sobre Pago Diferido…
+Word Aplicaci�n del Art�culo 64� Inc. 4� del D. L. 825, Sobre Pago Diferido de IVA en el Caso que el Importador Sea Un Empresario del Transporte de Pasajeros. (Of. N� 1718, de 20.04.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

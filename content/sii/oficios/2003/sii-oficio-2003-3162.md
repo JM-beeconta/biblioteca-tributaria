@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3162
 - Año: 2003
-- Fecha: 2003-06-30
+- Fecha: 2003-06-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja518.doc
 - Hash SHA-256: 21dd8262a11876ed700966ca3949fac53c279e6e3646a02f5dc423270bfec1a1
 
 ## Resumen
 
-al' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3178 de 30 de Junio de 2003.- Word Impuesto al valor agregado que afecta a la entrega gratuita y onerosa de bases administrativas y t�cnicas para efectuar llamados a licitaci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3162 de 26 deJunio de 2003. Word Recuperaci�n de cr�dito fiscal originado en la construcci�n de un inmueble, a trav�s del mecanismo establecido en el art�culo 27 bis del D.L. N� 825. Ley de Impuesto a las Ventas y Servicios…
+Word Recuperaci�n de cr�dito fiscal originado en la construcci�n de un inmueble, a trav�s del mecanismo establecido en el art�culo 27 bis del D.L. N� 825.
 
 ## Referencias detectadas
 

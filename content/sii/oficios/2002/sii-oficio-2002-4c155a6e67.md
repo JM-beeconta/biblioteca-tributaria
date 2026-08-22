@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-10-30
+- Fecha: 2002-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja389.doc
 - Hash SHA-256: 8ed3cca5ccb7b04d48953f0db65379a33ec2ddbce9756bdfb0dc169043e5b7c9
 
 ## Resumen
 
-Ley sobre Impuesto a la Renta � Arts. 22 N� 1 y 23 de la LIR y Ley N� 19.518, de 1997 Word Cr�dito por gastos de capacitaci�n en el caso de peque�os mineros artesanales que optan por declarar la renta presunta de su actividad. (Ord. N� 3949, de 30.10.2002) Ley sobre Impuesto a la Renta � Arts. 4 y 70 de la LIR y Art. 8 N� 8 C�digo Tributario Word Situaci�n tributaria de chilenos radicados en el extranjero que desean invertir sus ahorros en Chile. (Ord. N� 3899, de 28.10.2002) Ley sobre Impuesto a la Renta � Art. 4…
+Word Situaci�n tributaria de chilenos radicados en el extranjero que desean invertir sus ahorros en Chile. (Ord. N� 3899, de 28.10.2002)
 
 ## Referencias detectadas
 

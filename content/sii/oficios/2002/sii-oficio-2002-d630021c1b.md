@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-26
+- Fecha: 2002-08-22
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja341.htm
 - Hash SHA-256: 547dc52bc3aa59d082cea9252f7e2c9263f85dbbea31adda2051f8419268f127
 
 ## Resumen
 
-de medios electr�nicos, se encuentran amparadas por la norma liberatoria de IVA contenida en el art�culo 23 del D.F.L. N� 341, de 1977. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3028 de 26 de Agosto de 2002. Word Solicita reconsideraci�n del Oficio N� 220, del 23 de Abril de 2002, del se�or Director Regional Metropolitano Santiago Centro. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2977 de 22 de Agosto de 2002. Word IVA en el dise�o y construcci�n de p�ginas Web. Ley de Impuesto a las Ventas y Se…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2977 de 22 de Agosto de 2002.
 
 ## Referencias detectadas
 

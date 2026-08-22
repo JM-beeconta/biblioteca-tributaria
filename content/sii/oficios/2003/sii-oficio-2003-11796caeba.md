@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o individual y socios de sociedades de personas. (Ord. N� 6524, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 58 N� 1 y 74 N� 4 LIR Word Aplicaci�n de la retenci�n establecida en el Art�culo 74 N� 4 de la Ley de la Renta, en el caso de la remesa de utilidades efectuada por contribuyente del art�culo 58 N� 1 de la ley precitada. (Ord. N� 6523, de 19.12.2003) Ley sobre Impuesto a la Renta � Art. 14 bis LIR Word Tributaci�n de los contribuyentes acogidos al r�gimen de tributaci�n simplificada del art�culo 14 b…
+19.12.2003) Ley sobre Impuesto a la Renta � Art. 14 bis LIR
 
 ## Referencias detectadas
 

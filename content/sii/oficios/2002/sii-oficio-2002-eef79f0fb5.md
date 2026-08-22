@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font face="arial" size="2"> Ley sobre Impuesto a la Renta � Art. 17 N� 2 D.L. N� 824, de 1974 y Art. 54 D.S. N� 502, de 1978 Word Situaci�n tributaria frente al impuesto a la renta del aporte de bienes del activo fijo de una cooperativa a una sociedad an�nima de la cual es accionista. (Ord. N� 2872, de 09.08.2002) Ley sobre Impuesto a la Renta � Art. 18 quater LIR y art.17 D.L. N� 1.328, de 1976 Word Valoraci�n de las cuotas de fondos mutuos para los efectos de su rescate. (Ord. N� 2871, de 09.08.2002) Ley sobre I…
+Word Valoraci�n de las cuotas de fondos mutuos para los efectos de su rescate. (Ord. N� 2871, de 09.08.2002)
 
 ## Referencias detectadas
 

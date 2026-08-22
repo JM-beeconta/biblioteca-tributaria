@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 3528
 - Año: 2002
-- Fecha: 2002-10-04
+- Fecha: 2002-09-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja367.doc
 - Hash SHA-256: aeb8cbbb7cae403087a45b6a35c1a0de347cd91c886f6139ca4bdfec8613a0a0
 
 ## Resumen
 
-3564 de 4 de Octubre de 2002. Word Consulta acerca de procedencia de utilizar como cr�dito fiscal el impuesto soportado en la ejecuci�n de un proyecto para drenaje, en circunstancias que el predio beneficiado con dicha obra se encuentra arrendado y su propietario no se encuentra ejerciendo su actividad agr�cola durante el per�odo que dura dicho arriendo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3528 de 30 de Septiembre de 2002. Word Pide se aclare modificaci�n del inciso primero del art�culo 23, del D.L…
+Word Pide se aclare modificaci�n del inciso primero del art�culo 23, del D.L. N� 825, de 1974, introducida por Ley N� 19.738.
 
 ## Referencias detectadas
 

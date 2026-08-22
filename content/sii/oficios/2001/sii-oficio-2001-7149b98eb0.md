@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-17
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja202.htm
 - Hash SHA-256: 47d08a0e77679747da91fa8d3563a2edb5d622f8bc26e3c920dd8352c7afef87
 
 ## Resumen
 
-. (Of. N� 2132, de 17.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 12�, Letra E), N� 12� - Ley de la Renta, Art. 20 N� 3� y N� 4�. Word IVA que Grava a Servicios Prestados por Familias Campesinas Orientado a Desarrollar el Turismo Rural. (Of. N� 1992, de 11.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Ley Sobre Impuesto a la Renta, Art. 20�. Word IVA que Afecta a los Ingresos Obtenidos por u…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Ley Sobre Impuesto a la Renta, Art. 20�.
 
 ## Referencias detectadas
 

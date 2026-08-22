@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4008
 - Año: 2003
-- Fecha: 2003-08-22
+- Fecha: 2003-08-18
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja547.doc
 - Hash SHA-256: 736e29c9241f9c3f9f898fb2d1830a21ba45e55a894a7235328cb7ed52089472
 
 ## Resumen
 
-Ley de Concesiones de Obras P�blicas - Ley 19.460- Art. 16 - Decreto N� 900 Word Se ha consultado a esta Direcci�n Nacional sobre la tributaci�n relativa al Impuesto Territorial, de los bienes nacionales de uso p�blico entregados en concesi�n para la construcci�n, conservaci�n, reparaci�n y explotaci�n de una obra p�blica ( Oficio N� 4143 de 22 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n o imputaci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la…
+Word Devoluci�n o imputaci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402. ( Oficio N� 4008 de 18 de Agosto de 2003).
 
 ## Referencias detectadas
 

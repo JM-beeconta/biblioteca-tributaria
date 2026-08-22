@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-31
+- Fecha: 2004-12-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja860.htm
 - Hash SHA-256: 390fe048d0473c56f6194f51a79ce933f220b46d64eb2b471d460fdbbce3fd57
 
 ## Resumen
 
-face="arial" size="2"> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra i), Art. 20�, N� 1, letra b) � Oficios N�s 1.736, de 2003 y 4.522, de 1992 Word Tributaci�n que afecta a la enajenaci�n de Derechos o Cuotas respecto de un Bien Ra�z Agr�cola pose�do en Comunidad, seg�n lo dispuesto por la letra i), del N� 8, del Art�culo 17�, de la Ley de la Renta. (Oficio N� 5.491, de 31.12.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 3, Art. 33�, N� 1, letra e), Art. 17�, N� 8, letra a) Word Tra…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 3, Art. 33�, N� 1, letra e), Art. 17�, N� 8, letra a)
 
 ## Referencias detectadas
 

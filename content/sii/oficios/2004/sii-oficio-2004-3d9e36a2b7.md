@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nal, suscritos con anterioridad al aumento de la tasa de ese tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1242 de 15 de Marzo de 2004 Word Impuesto al Valor Agregado a los pagos que el Fisco efect�a a la empresa concesionaria del puerto de Arica, en virtud del convenio celebrado entre el Fisco de Chile y la Empresa Portuaria XXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1241 de 15 de Marzo de 2004. Word No procede liberaci�n de Impuesto al Valor Agregado, en importaci�n de un veh�culo m…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1241 de 15 de Marzo de 2004.
 
 ## Referencias detectadas
 

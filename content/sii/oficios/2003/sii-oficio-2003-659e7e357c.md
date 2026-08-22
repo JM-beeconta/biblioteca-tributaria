@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-20
+- Fecha: 2003-01-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja443.htm
 - Hash SHA-256: 0f49ff1b3a1a8134b834d21ef86f5575e5b2eb718da2f7def1729f0007acca72
 
 ## Resumen
 
-fondos de jubilaci�n obtenidos en el exterior. (Ord. N� 327, de 27.01.2003) Ley sobre Impuesto a la Renta � Art. 10 Ley N� 18.392, de 1985 Word El Servicio de Impuestos Internos carece de competencia para pronunciarse acerca del requisito de integraci�n y sobre bonificaci�n establecida en el art�culo 10 de la Ley N� 18.392, de 1985. (Ord. N� 259, de 21.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 letra a) Word Costo tributario de las acciones originadas de la transformaci�n de una sociedad de responsabili…
+21.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 letra a)
 
 ## Referencias detectadas
 

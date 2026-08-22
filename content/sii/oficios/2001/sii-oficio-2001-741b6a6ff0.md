@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-29
+- Fecha: 2001-05-15
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja207.doc
 - Hash SHA-256: e6036e7ff671a89c322d2f2a3200f1793413dbb3250e171f9c13bb240947e17f
 
 ## Resumen
 
-> Word No Procede Recuperaci�n del IVA, por Parte de una Empresa Extranjera en Gastos Efectuados por su Participaci�n en Feria Realizada en Nuestro Pa�s. (Of. N� 2353, de 29.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 3� y Art. 52� - Convencion Sobre Prerrogativas E Inmunidades de las Naciones Unidas y sus Organismos Dependientes, Art. Ii, Seccion 7� Letra a) � D. L. N� 1051, de 1975, Articulo Unico. Word IVA en Venta de Software Efectuada por el Centro Latinoamericano y C…
+Word IVA en Venta de Software Efectuada por el Centro Latinoamericano y Caribe�o de Demograf�a. (Of. N� 2027, de 15.05.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-16
+- Fecha: 2001-02-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja723.htm
 - Hash SHA-256: 03a2657992cc5848c872950efcf1d053fa235a3e078da8a079121d526ddee963
 
 ## Resumen
 
-p; Word Tributaci�n con el Impuesto al Valor Agregado en empresas de aseo. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 10�, Art. 12�, N�3, Art. 46�(Ord. N� 760, de 16.02.2001) Word Consideraciones acerca de la Ley N� 19.633, de 1999, planteadas por Embajada extranjera. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 723, de 14.02.2001) Word Impuesto al Valor Agregado que afecta al servicio de certificaci�n de instalaciones…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 723, de 14.02.2001)
 
 ## Referencias detectadas
 

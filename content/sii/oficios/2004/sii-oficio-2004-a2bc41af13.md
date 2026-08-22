@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-29
+- Fecha: 2004-09-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja826.htm
 - Hash SHA-256: 1ba33f89388446d2954b750b6bd0119772e089b2e47babdbea08abd09af2def0
 
 ## Resumen
 
-on Instalaciones que permitan el Ejercicio de una Actividad Comercial o Industrial Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � D.S. N� 1.139, de 1991. (Ord. N� 4.511 de 29.09.2004) Word Devoluci�n de Remanentes de cr�dito fiscal seg�n el art�culo 27 bis, del D.L. N� 825, originados en la actividad forestal. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � C�digo Civil, Art. 1996�. (Ord. N� 4.441 de 23.09.2004) Word Recuperaci�n de remanente…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � C�digo Civil, Art. 1996�. (Ord. N� 4.441 de 23.09.2004)
 
 ## Referencias detectadas
 

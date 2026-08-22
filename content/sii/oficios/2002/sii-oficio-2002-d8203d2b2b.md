@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-14
+- Fecha: 2002-05-13
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja288.htm
 - Hash SHA-256: d249ae7b5e137dab48480e6baf47a8868a154c4ef1121f0bd167c057e2533803
 
 ## Resumen
 
-conformidad al art�culo 69 de la Ley N� 18.681, de 1987. (Ord. N� 1557, de 14.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones y requisitos que se deben cumplir para acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1538, de 13.05.2002) Ley sobre Impuesto a la Renta � arts. 29 al 33. Word Situaci�n tributaria de los colegios que reciben subvenci�n del Estado. (Ord. N� 1537, de 13.05.2002) Ley sobre Impuesto a la Renta � art. 42 bis. Word L�mite hasta el cual…
+Ley sobre Impuesto a la Renta � arts. 29 al 33.
 
 ## Referencias detectadas
 

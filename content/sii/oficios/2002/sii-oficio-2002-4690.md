@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4690
 - Año: 2002
-- Fecha: 2002-12-20
+- Fecha: 2002-12-17
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja414.doc
 - Hash SHA-256: c54bc0a9d53ce9e82f8a28f7941e21bb2c7d83e1b57337208fcd3e04d0e19e0d
 
 ## Resumen
 
-ont face='arial' size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4736 de 20 de Diciembre de 2002. Word - Procedencia de detallar en facturas o boletas que se emitan por prestaciones m�dicas ambulatorias, los insumos, medicamentos y otros elementos utilizados. - Aplicaci�n del IVA en procedimiento m�dico que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4690 de 17 de Diciembre de 2002. Word Aplicaci�n del art�culo 27 bis, del D.L. N� 825, a los servicios de desbrote en la formaci�n de vi…
+Word Aplicaci�n del art�culo 27 bis, del D.L. N� 825, a los servicios de desbrote en la formaci�n de vides destinadas a la producci�n de vino.
 
 ## Referencias detectadas
 

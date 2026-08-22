@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-16
+- Fecha: 2002-09-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja361.htm
 - Hash SHA-256: f07ba434d110a81a20ac5fb9eacf6e24cf00d192012a4d5b9ebc1ad35390cf4c
 
 ## Resumen
 
-do a los servicios descritos en la presentaci�n, que prestar� la empresa que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3396 de 16 de Septiembre de 2002. Word Utilizaci�n del cr�dito fiscal del IVA, recargado en facturas pendientes de pago, emitidas a contribuyentes declarados en quiebra, seg�n el art�culo 29, de la Ley N� 18.591. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3365 de 12 de Septiembre de 2002. Word Sujeto obligado al pago del IVA que grava el arancel establecido en favor del…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3365 de 12 de Septiembre de 2002.
 
 ## Referencias detectadas
 

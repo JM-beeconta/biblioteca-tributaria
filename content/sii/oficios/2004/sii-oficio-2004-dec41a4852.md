@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='../anteriores/anteriores_ventas.htm'>A�os Anteriores LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 2004 En esta p�gina se re�nen pronunciamientos del Servicio referidos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23� � D.S. N�55, de 1977, Art�culo 43�, N� 2. (Ord. N�4.814, de 26.10.2004) Word Utilizaci�n del cr�dito fiscal originado en la adquisici�n de veh�culos, cuya venta no se encuentra previamente determinada,…
+Word Utilizaci�n del cr�dito fiscal originado en la adquisici�n de veh�culos, cuya venta no se encuentra previamente determinada, cuando algunos de ellos son vendidos con posterioridad exentos de impuesto al valor agregado.
 
 ## Referencias detectadas
 

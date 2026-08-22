@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-10
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3327.doc
 - Hash SHA-256: 661a0be14672889b79dad1e57ef226cea04dcf72419e2bf69f84e903f6a4eb64
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9 � Ley N� 16.271, Art. 7� C�digo Civil, Art. 647�. (Ord. N� 3328, de 10.08.2001) Word Tributaci�n de usufructo sobre instrumentos mercantiles. Rentan � Actual Ley Sobre Impuesto a la � Art. 43, N�1, Art. 52�, Art. 75� � Art. 1�, Ley N� 19.622, de 1999 � Circular N� 46, del a�o 1999. (Ord. N� 3327, de 10.08.2001) Word Mantenci�n del beneficio tributario establecido por la Ley N� 19.622, en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art…
+Word Mantenci�n del beneficio tributario establecido por la Ley N� 19.622, en los t�rminos que se indican.
 
 ## Referencias detectadas
 

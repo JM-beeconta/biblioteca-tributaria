@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Ley de Impuesto a las Ventas y Servicios. Oficio N� 669, de 21 de febrero de 2002.- Word Solicita pronunciamiento sobre procedimiento para regularizar facturas emitidas y no pagadas, mediante la emisi�n de notas de cr�dito. Ley de Impuesto a las Ventas y Servicios. Oficio N� 664, de 21 de febrero de 2002.- Word Impuesto al valor Agregado en la confecci�n de un Mosaico ortofotogram�trico infrarojo digital. Ley de Impuesto a las Ventas y Servicios. Oficio N� 432 de 31 de Enero de 2002. Word Consulta sobre el derec…
+Word Impuesto al valor Agregado en la confecci�n de un Mosaico ortofotogram�trico infrarojo digital.
 
 ## Referencias detectadas
 

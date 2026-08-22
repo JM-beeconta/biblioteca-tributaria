@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-10
+- Fecha: 2001-09-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3686.htm
 - Hash SHA-256: c563bd52aebddabeedb0783270f93195ae321e0d51e76fc1aef3b057d655393e
 
 ## Resumen
 
-n de IVA exportadores. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�1 y N�2 � Ley N� 18.392, Art. 11�. (Ord. N� 3693, de 10.09.2001) Word Solicita reconsideraci�n de Ord. N� 497, de 9-03-2000, mediante el cual se graba con IVA la entrega de petr�leo que la Armada efect�a a una empresa, en virtud de un convenio. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 3686, de 07.09.2001) Word Impuesto…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 3686, de 07.09.2001)
 
 ## Referencias detectadas
 

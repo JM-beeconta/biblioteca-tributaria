@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-08-17
+- Fecha: 2001-08-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3328.htm
 - Hash SHA-256: efd4fb216bcb1450b46e0e5730c0e33964cf57e39b2b1bb205ef27bef61f7dc8
 
 ## Resumen
 
-33, de 17.08.2001) Word Tipos de gastos que comprende una beca de estudio. Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.606, Art. 5� � Circular N� 66, de 1999. (Ord. N� 3432, de 17.08.2001) Word Determinaci�n del monto de la cauci�n que establece el art�culo 5� de la Ley N� 19.606, de 1999. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9 � Ley N� 16.271, Art. 7� C�digo Civil, Art. 647�. (Ord. N� 3328, de 10.08.2001) Word Tributaci�n de usufructo sobre instrumentos mercantiles. Rentan � Actual Ley Sobr…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�9 � Ley N� 16.271, Art. 7� C�digo Civil, Art. 647�. (Ord. N� 3328, de 10.08.2001)
 
 ## Referencias detectadas
 

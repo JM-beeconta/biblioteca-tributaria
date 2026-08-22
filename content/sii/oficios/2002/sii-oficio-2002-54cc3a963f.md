@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� 8 C�digo Tributario Word Situaci�n tributaria de chilenos radicados en el extranjero que desean invertir sus ahorros en Chile. (Ord. N� 3899, de 28.10.2002) Ley sobre Impuesto a la Renta � Art. 42 ter Word Tributaci�n aplicable a retiro de excedente de libre disposici�n que se indica. (Ord. N� 3791, de 22.10.2002) Ley sobre Impuesto a la Renta � Art. 57 bis Word P�rdida de franquicia tributaria del art�culo 57 bis de la Ley de la Renta, en el caso de la transformaci�n de una sociedad an�nima abierta en cerrada.…
+2002) Ley sobre Impuesto a la Renta � Art. 57 bis
 
 ## Referencias detectadas
 

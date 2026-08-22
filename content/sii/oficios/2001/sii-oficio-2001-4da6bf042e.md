@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-08
+- Fecha: 2001-06-06
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja225.doc
 - Hash SHA-256: 525ac59361f5415af1fae6b1984d1a604cce11554c4250d9ac8f02cb4c6590ec
 
 ## Resumen
 
-a href="otras/ja227.doc">Word Situaci�n Tributaria de Donaciones Amparadas en la Ley Sobre Donaciones con Fines Culturales, Cuando el Donante, Tendr�a la Doble Condici�n de Donante de Dinero y de Vendedor del Inmueble que se Adquirir�a con Dicho Dinero. (Of. N� 2534, de 08.06.2001 � I. Directos). C�digo Tributario � Actual Texto � Art. 64 Modificado por el Art. 17� de la Ley N� 19.705 de 20.12.2000 � Art. 58� N� 1� de la Ley Sobre Impuesto a la Renta. Word Facultad del Servicio para Tasar la Base Imponible de Acue…
+Word Facultad del Servicio para Tasar la Base Imponible de Acuerdo al Art�culo 64 del C�digo Tributario y sus Modificaciones Introducidas por la Ley N� 19.705, del A�o 2000. (Of. N� 2496, de 06.06.2001- I. Directos).
 
 ## Referencias detectadas
 

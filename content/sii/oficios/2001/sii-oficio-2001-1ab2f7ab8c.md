@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-13
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja160.htm
 - Hash SHA-256: 04c27c294d093c0dae2176e77cc691111769de80b32484f60e2fa85771182ae9
 
 ## Resumen
 
-te del Cumplimiento de Un Contrato de Seguro. (Of. N� 988, de 13.03.2001- I. Directos) Renta � Actual Ley Sobre Impuesto a la � Art. 54� N� 1�, Art. 101� - Circular N� 57�, de 1998 � Resoluciones N� 5111, de 1995 y N� 6509, de 1993. Word Tributaci�n de Intereses Provenientes de una Operaci�n de Captaci�n. (Of. N� 205, de 17.01.2001 � I. Directos). Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis � Circular N� 41, de 1990 � Circular N� 44, de 1993 � Circular N� 53, de 1998. Word Base de C�lculo del Cr�dito Est…
+Renta � Actual Ley Sobre Impuesto a la � Art. 33� Bis � Circular N� 41, de 1990 � Circular N� 44, de 1993 � Circular N� 53, de 1998.
 
 ## Referencias detectadas
 

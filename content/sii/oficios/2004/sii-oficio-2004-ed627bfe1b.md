@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-02-05
+- Fecha: 2004-01-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja648.doc
 - Hash SHA-256: 0bca7c48b815e5a7f95d8266de2ef1227f342f0284e37a1dcd3cc253996d9f86
 
 ## Resumen
 
-Ord. N� 679, de 05.02.2004) Ley sobre Impuesto a la Renta � Art. 69 Ley N� 18.681, de 1987 Word Tratamiento tributario de donaciones efectuadas al amparo del art�culo 69 de la Ley N� 18.681/87. (Ord. N� 341, de 26.01.2004) Ley sobre Impuesto a la Renta � Arts. 14, Letra B, N� 1; 52 y 54 N� 1 Word Tributaci�n del mayor valor obtenido en la enajenaci�n de derechos sociales en sociedades de personas. (Ord. N� 339, de 26.01.2004) Ley sobre Impuesto a la Renta � Art. 18 inciso 3� Word Absuelve consultas sobre aplicaci�…
+Word Tributaci�n del mayor valor obtenido en la enajenaci�n de derechos sociales en sociedades de personas. (Ord. N� 339, de 26.01.2004)
 
 ## Referencias detectadas
 

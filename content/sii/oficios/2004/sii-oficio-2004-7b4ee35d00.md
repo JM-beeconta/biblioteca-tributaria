@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-01-06
+- Fecha: 2004-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja640.htm
 - Hash SHA-256: cfa2d1aeaee934879d8de1cf50e25b7bd0df223b9bf9d0e7ef501aed9f15af0a
 
 ## Resumen
 
-sable del pago del aumento del impuesto al valor agregado en el cumplimiento de obligaciones contratadas con anterioridad al alza de tasa del referido tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 96 de 06 de Enero de 2004.- Word Procedencia del cr�dito especial del art�culo 21 del D.L. N� 910, de 1975, en contratos de pavimentaci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 02 de 02 Enero de 2004.- Word Consulta sobre el efecto que el aumento del impuesto al valor agregado provoca en las…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 02 de 02 Enero de 2004.-
 
 ## Referencias detectadas
 

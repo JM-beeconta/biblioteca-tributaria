@@ -11,7 +11,7 @@
 
 ## Resumen
 
-exto � Actual Ley sobre Impuesto a las � Art. 36�. (Ord. N� 3267, de 03.08.2001) Word Exenci�n del Impuesto al Valor Agregado, en el aprovisionamiento efectuado por naves o aeronaves extranjeras que no efect�en transporte de pasajeros o de carga. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, letra E, N� 10, Art. 52� � Circular N� 31, de 1981 � Resoluci�n Ex. N� 1.110, de 1978. (Ord. N� 3266, de 03.08.2001) Word Emisi�n de facturas en las comisiones cobradas por los bancos e institu…
+Word Emisi�n de facturas en las comisiones cobradas por los bancos e instituciones financieras por el uso de tarjetas de cr�dito.
 
 ## Referencias detectadas
 

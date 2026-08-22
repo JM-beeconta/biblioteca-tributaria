@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-21
+- Fecha: 2003-05-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja583.doc
 - Hash SHA-256: 3674f4f415b33c3bbe47a7d9ce8dd1752ce32502b71a43c653d0546a41b5d823
 
 ## Resumen
 
-structuraci�n de cr�dito hipotecario. (Ord. N� 5296, de 21.10.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 1, 43 N� 1 y 42 bis LIR Word Se emite pronunciamiento sobre reconsideraci�n de Oficios N� 2.758, de fecha 25.07.2002 y 104 de 10.01.2003, del SII. (Ord. N� 5295, de 21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Resuelve reconsideraci�n de Ordinario N� 2.549, de 27.05.2003 del SII. (Ord. N� 5294, de 21.10.2003) Ley sobre Impuesto a la Renta � Arts. 2 N� 1 y 31 N� 9 de la LIR y Art. 28 C…
+Word Resuelve reconsideraci�n de Ordinario N� 2.549, de 27.05.2003 del SII. (Ord. N� 5294, de 21.10.2003)
 
 ## Referencias detectadas
 

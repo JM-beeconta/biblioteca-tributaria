@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-06-27
+- Fecha: 2002-05-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja293.htm
 - Hash SHA-256: 0f3ef10ec1391aeb49c393e46fbd653705c614310df9999fa4355797e6cecf56
 
 ## Resumen
 
-ventas/ja308.doc'>Word Sujeto y Base Imponible del IVA, en contrato de prestaci�n de servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2317 de 27 de Junio de 2002. Word Ingreso al resto del pa�s de veh�cu- los nacionales o nacionalizados provenientes de Zona Franca Primaria a trav�s de la Secci�n 0 del Arancel Aduanero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1703 de 31 de Mayo de 2002. Word Aplicaci�n de Ley N� 19.633, de 1999, a enajenaci�n de veh�culo de diplom�tico, ingresado al pa�s a…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1703 de 31 de Mayo de 2002.
 
 ## Referencias detectadas
 

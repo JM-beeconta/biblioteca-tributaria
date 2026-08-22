@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-20
+- Fecha: 2003-08-19
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja549.htm
 - Hash SHA-256: 276ad09875979a57fef6614da951509812ecad9e6574e2ce4bfdb93bd94a514d
 
 ## Resumen
 
-o N� 4087 de 20 de Agosto de 2003.- Word IVA en servicios de tour prestados a turistas extranjeros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4086, de 20 de Agosto de 2003.- Word Solicita reconsideraci�n de Ord. N� 498, de 24/02/99. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4067 de 19 de Agosto de 2003. Word Aplicaci�n Art. 21, del D.L. N� 910, de 1975, a proyectos de remodelaci�n de inmuebles emplazados en zona t�pica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4016 de 19 de Agosto de…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4067 de 19 de Agosto de 2003.
 
 ## Referencias detectadas
 

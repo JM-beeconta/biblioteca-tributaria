@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-13
+- Fecha: 2004-09-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja803.htm
 - Hash SHA-256: f72810c9c438fc5f8806408095b9be32fc35d241bad98393e0db4641894c579b
 
 ## Resumen
 
-(Ord. N� 4.304, de 13.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14� bis � Circular N� 59, de 1991 Word Situaci�n Tributaria de los Contribuyentes Acogidos a la Tributaci�n del Art�culo 14� bis de la ley de la Renta, cuando al cuarto a�o de su opci�n, superan el L�mite de las 3000 UTM. (Ord. N� 4.268, de 10.09.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.884, Art. 13�, Art. 14�, art. 15�. Word Situaci�n Tributaria de desembolsos destinados al Financiamiento de Campa�as Electorales. (Ord. N�…
+10.09.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.884, Art. 13�, Art. 14�, art. 15�.
 
 ## Referencias detectadas
 

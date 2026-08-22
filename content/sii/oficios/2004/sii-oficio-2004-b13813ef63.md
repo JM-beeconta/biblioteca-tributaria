@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-30
+- Fecha: 2004-04-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja715.doc
 - Hash SHA-256: d264bcacaabe35d0001c50fec7d32cf5beacb41caf6cf725e1b5e2e9a6e0d02d
 
 ## Resumen
 
-ey N� 19.030. (Ord. N�2.013, de 30.04.2004) Word No se encuentra afecto al Impuesto Espec�fico al Petr�leo Diesel establecido en el Art�culo 6�, letra b), de la Ley N� 18.502, ni a la normativa de la Ley N� 19.030, que cre� el Fondo de Estabilizaci�n de Precios del Petr�leo, el producto denominado BioDiesel. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra g) y letra h). (Ord. N� 1.995, de 29.04.2004) Word Aplicaci�n del Impuesto al valor Agregado al Arrendamiento de Locales Come…
+Word Aplicaci�n del Impuesto al valor Agregado al Arrendamiento de Locales Comerciales Ubicados en las Estaciones de la Red del Ferrocarril Metropolitano de Santiago.
 
 ## Referencias detectadas
 

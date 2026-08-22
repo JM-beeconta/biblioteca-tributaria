@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-25
+- Fecha: 2004-11-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja834.doc
 - Hash SHA-256: d6d128213307dbc0269b0ac7a3c391d2c2ac5dd85d0b48473a3fa2dbda640e7a
 
 ## Resumen
 
-.132, de 25.11.2004) Word Procedencia de autorizar Solicitud de Devoluci�n de Cr�dito Fiscal en Virtud del Art�culo 27� bis, soportado en la Adquisici�n de Plantaciones de Bosques de Eucaliptos y Pinos en Pie, adem�s de Instalaciones de Sistemas de Riego y Electrificaci�n entre otros. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 4. (Ord. N� 5.005, de 12.11.2004) Word Impuesto al valor Agregado que afecta a Servicio consistente en la Det…
+Word Impuesto al valor Agregado que afecta a Servicio consistente en la Detecci�n de fallas de M�quinas Industriales, mediante Sensores y un sofisticado Analizador de Vibraciones
 
 ## Referencias detectadas
 

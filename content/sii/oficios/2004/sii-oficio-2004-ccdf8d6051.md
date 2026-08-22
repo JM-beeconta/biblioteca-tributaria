@@ -11,7 +11,7 @@
 
 ## Resumen
 
-� Actual Ley Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 11� � Ley N� 18.985, de 1990, Art. 8� � Circular N� 55, de 2003 � Word Situaci�n Tributaria de Donaciones con Fines Culturales que se indican. (Ord. N� 3.584, de 28.07.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 2�, Art. 3�, Art. 11�, Art. 13� � Ley N� 18.985, Art. 8� � Circular N� 55, de 2003 � Word Situaci�n tributaria de las donaciones efectuadas a Establecimientos Educacionales que se Indican. (Ord. N� 3.583, de 28.…
+Word Situaci�n tributaria de las donaciones efectuadas a Establecimientos Educacionales que se Indican. (Ord. N� 3.583, de 28.07.2004)
 
 ## Referencias detectadas
 

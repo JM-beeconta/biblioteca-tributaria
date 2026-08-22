@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ce="arial" size="2">(Ord. N� 3.532, de 23.07.2004) Herencia, Asignaciones y Donaciones � Impuesto a la � Ley N� 16.271 � Decreto Ley N� 359, Art. 5�. Word Solicita Reconsideraci�n de lo resuelto por �ste Servicio en Oficio N� 5.383, de 28.10.2003, en relaci�n con la Ley N� 16.271, de Impuesto a la herencia, Asignaciones y Donaciones. ( Ord. N� 3.492, de 22.07.2004) Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 1�, N� 3. Ordinario N� 3467 de 20 de Julio de 2004. - Concepto de document…
+rd. N� 3.492, de 22.07.2004) Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 1�, N� 3. Ordinario N� 3467 de 20 de Julio de 2004. - Concepto de documentos que contengan operaciones de cr�dito de dinero para los efectos de aplicar o no el impuesto del art�culo 1�, N� 3, del D.L. N� 3.475. (Ordinario N� 3467 de 20 de julio de 2004)
 
 ## Referencias detectadas
 

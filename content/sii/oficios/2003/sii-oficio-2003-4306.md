@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.09.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� LIR y Ley N� 19.857, de 2003 Word Situaci�n tributaria de aporte de acciones y derechos sociales efectuadas por parte de personas naturales afectas al impuesto Global Complementario a empresas o sociedades. (Ord. N� 4677, de 12.09.2003) Ley sobre Impuesto a la Renta � Art. 21 LIR Word Situaci�n tributaria del impuesto territorial frente al Registro FUT. (Ord. N� 4518, de 12.09.2003) Ley sobre Impuesto a la Renta � Art. 41 D y Ley N� 19.840, de 2002 Word S…
+Word Situaci�n tributaria del impuesto territorial frente al Registro FUT. (Ord. N� 4518, de 12.09.2003)
 
 ## Referencias detectadas
 

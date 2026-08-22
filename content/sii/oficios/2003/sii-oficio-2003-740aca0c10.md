@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte fiscal libre.� Ley de Impuesto a las Ventas y Servicios. Oficio N� 5193 de 10 de Octubre de 2003.- Word Aplicaci�n del art�culo 29�, de la Ley N� 18.591, a anticipo de IVA, facturado a contribuyente declarado en quiebra. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5192 de 10 de Octubre de 2003.- Word Emisi�n de notas de cr�dito y d�bito en servicios de telecomunicaciones de larga distancia, prestados por empresas portadoras.…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5192 de 10 de Octubre de 2003.-
 
 ## Referencias detectadas
 

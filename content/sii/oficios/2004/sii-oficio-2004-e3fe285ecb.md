@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-20
+- Fecha: 2004-01-05
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja833.doc
 - Hash SHA-256: 73cd6259a1423680f7b51502a80f270316509745cf9c196af549b21b62d5b291
 
 ## Resumen
 
-no el impuesto del art�culo 1�, N� 3, del D.L. N� 3.475. (Ordinario N� 3467 de 20 de julio de 2004) Tratado Internacional para Evitar la Doble Tributaci�n, Suscrito por las Rep�blicas de Chile y Per� � Ley sobre Impuesto a la Renta, Art. 41� D � ley N� 18.046, Art. 86� y 87� � D.L. N� 3.063, Sobre Rentas Municipales � Circular N� 43, de 2003. Word Absuelve Consultas relativas al Tratado Internacional para evitar la Doble Tributaci�n, suscrito entre Chile y Per� y al Art�culo 41�, D de la Ley sobre Impuesto a la Re…
+Word Absuelve Consultas relativas al Tratado Internacional para evitar la Doble Tributaci�n, suscrito entre Chile y Per� y al Art�culo 41�, D de la Ley sobre Impuesto a la Renta ( Ord. N� 2.869, de 07.07.2004)
 
 ## Referencias detectadas
 

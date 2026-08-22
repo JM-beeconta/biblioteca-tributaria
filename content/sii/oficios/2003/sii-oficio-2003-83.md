@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 83
 - Año: 2003
-- Fecha: 2003-01-14
+- Fecha: 2003-01-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja420.doc
 - Hash SHA-256: 5d59d14e0f97eaf5deacf4aac4de74da87993883aebe20474ea9208327950d77
 
 ## Resumen
 
-p> Ley de Impuesto a las Ventas y Servicios. Oficio N� 148 de 14 de Enero de 2003. Word Informe sobre la devoluci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte internacional de carga y pasajeros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 83 de 8 de Enero de 2003. Word Devoluci�n a exportador del IVA soportado en relaci�n con su actividad de exportaci�n y de los remanentes de cr�dito fiscal originado en operaciones internas.
+Word Devoluci�n a exportador del IVA soportado en relaci�n con su actividad de exportaci�n y de los remanentes de cr�dito fiscal originado en operaciones internas.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4
 - Año: 2004
-- Fecha: 2004-09-23
+- Fecha: 2004-09-16
 - Categoría: Renta, IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja825.doc
 - Hash SHA-256: db248057223903f9618fc84ce2481a00792a0bb1702c5fb6ee17af356c768f6c
 
 ## Resumen
 
-ce='arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � C�digo Civil, Art. 1996�. (Ord. N� 4.441 de 23.09.2004) Word Recuperaci�n de remanentes de Cr�dito Fiscal originados en la Construcci�n de un Hotel, en virtud del art�culo 27 bis del D.L. N� 825. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 3 (Ord. N� 4.349, de 16.09.2004) Word Tributaci�n con IVA al monto cobrado por la empresa XXXXX S.A., en la adquisici�n de Tarjeta. Vent…
+Word Tributaci�n con IVA al monto cobrado por la empresa XXXXX S.A., en la adquisici�n de Tarjeta.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-12-13
+- Fecha: 2002-12-12
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja408.htm
 - Hash SHA-256: 7923303a258a9c7ba639c94a0c6985951f6fc0db6aece05ad188d814099ec7e6
 
 ## Resumen
 
-nida en la letra e) del art�culo 10 bis del D.F.L. N� 341, de 1977. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4666 de 13 de Diciembre de 2002. Word Determinaci�n del monto del impuesto o del cr�dito, seg�n corresponda, que los exportadores y empresas navieras deben recuperar o reintegrar, conforme a las disposiciones de la Ley N� 19.030. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4635 de 12 de Diciembre de 2002. Word Reitera lo manifestado en Oficio N� 1135, de 10-04-2000, en cuanto a improceden…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4635 de 12 de Diciembre de 2002.
 
 ## Referencias detectadas
 

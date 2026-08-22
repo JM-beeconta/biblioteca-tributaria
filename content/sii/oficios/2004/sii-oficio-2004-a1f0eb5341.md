@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-30
+- Fecha: 2004-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja768.doc
 - Hash SHA-256: e35d82c757a6d56711fc4a04e6f3f1560cda5a52a734d4b6a0e2087599669736
 
 ## Resumen
 
-mpuesto a la � Art. 17�, N� 8, letra b), Art.18� � Ley N� 18.985, Art. 5�, transitorio Word Situaci�n del Aporte de un Inmueble Agr�cola a Sociedad An�nima en Formaci�n, a su Valor Comercial por parte de un Contribuyente sometido al R�gimen de Renta Presunta. (Ord. N� 2.831, de 30.06.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � D.F.L. N� 44, de 1978, Art. 1�, 3� y 19�. Word Tratamiento Tributario de Subsidios por Licencias M�dicas. (Ord. N� 2.830, de 30.06. 2004) Renta � Actual Ley Sobre Impues…
+Word Tratamiento Tributario de Subsidios por Licencias M�dicas. (Ord. N� 2.830, de 30.06. 2004)
 
 ## Referencias detectadas
 

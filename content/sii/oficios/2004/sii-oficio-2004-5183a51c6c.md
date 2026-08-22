@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-23
+- Fecha: 2004-04-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja720.doc
 - Hash SHA-256: fb210a2c10dbea55a354d9b52399c54f292ff2ac3039baed992dd767a75fd234
 
 ## Resumen
 
-� Res. Exenta N� 43, de 2002 � Oficios N�s 4.476, de 1994, 756, de 1995 y 3.981, de 1999. Word A�os de vida �til a utilizar por empresa del Sector Sanitario para la Depreciaci�n de los bienes del Activo Inmovilizado. (Ord. N�1.902, de 23.04.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 8�, N� 1 Ley N� 19.885, Art. 3� � D. S. N� 787, de Educaci�n, de 1990. Word Tratamiento tributario de Donaciones que se indican. (Ord. N� 1.829, de 19.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 57� b…
+Word Tratamiento tributario de Donaciones que se indican. (Ord. N� 1.829, de 19.04.2004)
 
 ## Referencias detectadas
 

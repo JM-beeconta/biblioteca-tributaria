@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4975
 - Año: 2001
-- Fecha: 2001-12-28
+- Fecha: 2001-12-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja241.doc
 - Hash SHA-256: 7a3dbe626e7d720ecab3a9879dfca710f0854a9555650772e6648c5e4dfcd3f4
 
 ## Resumen
 
-medio de c�maras de televisi�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5052 de 28-12-2001. Word Impuesto al Valor Agregado que grava a las comisiones por administraci�n del seguro de cesant�a, establecido por Ley N� 19.728. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4975 de 20/12/2001 Word Aplicaci�n del IVA a las comisiones cobradas por una cooperativa de ahorro y prestamo a sus cooperados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4860 de 12-12-2001 Word Impuesto al valor agregado…
+Word Aplicaci�n del IVA a las comisiones cobradas por una cooperativa de ahorro y prestamo a sus cooperados.
 
 ## Referencias detectadas
 

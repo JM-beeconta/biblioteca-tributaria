@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-07-17
+- Fecha: 2002-07-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja315.htm
 - Hash SHA-256: ffeb3298ab63437d6ab5f58781b3647614295f2544ca62929876790f92da1d8e
 
 ## Resumen
 
-Word Tributaci�n aplicable al contrato de Handling de combustible importado a trav�s de la Zona Franca de Iquique. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2638 de 17 de Julio de 2002. Word Tributaci�n que afecta a peluqueros independientes, due�os de salones de belleza o arrendatarios de sill�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2624, de 16 de Julio de 2002.- Word Solicita pronunciamiento acerca de solicitud de reconsideraci�n de Ord. N� 114/2, de 30-01-2002, de esa Direcci�n Regional…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2624, de 16 de Julio de 2002.-
 
 ## Referencias detectadas
 

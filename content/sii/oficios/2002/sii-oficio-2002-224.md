@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 224
 - Año: 2002
-- Fecha: 2002-02-14
+- Fecha: 2002-01-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja250.doc
 - Hash SHA-256: 63a4fe8d024dd5e604688d17620151df558d1255dff4626901400417d1eccb04
 
 ## Resumen
 
-a href="renta/ja251.htm">Ley sobre Impuesto a la Renta - Art. 14 bis. - Word Tratamiento tributario que afecta a las rentas generadas y retenidas en el r�gimen de tributaci�n simplificado del art�culo 14 bis de la Ley de la Renta, cuando el contribuyente pasa al r�gimen general de tributaci�n, de acuerdo al art�culo 14� de la ley precitada. Oficio N� 567, de 14 de febrero de 2002. Ley Sobre Impuesto a la Renta - Art. 17, N� 11. - Word Aplicaci�n del N� 11 del art�culo 17 del D.L. N� 824, de 1974, en relaci�n con e…
+Word Aplicaci�n del N� 11 del art�culo 17 del D.L. N� 824, de 1974, en relaci�n con el N� 2 del mismo art�culo. Oficio N� 224, de 15 de enero de 2002.
 
 ## Referencias detectadas
 

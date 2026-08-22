@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-11
+- Fecha: 2004-03-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja672.htm
 - Hash SHA-256: 85d1b6b7c43f1d472632e64a12d3d2c448b219f890144192fb973eae7510da18
 
 ## Resumen
 
-a efectuada en conformidad a lo dispuesto por el art�culo 5� transitorio de la Ley N� 18.985, de 1990. (Ord. N� 1.216, de 11.03.2004) Ley sobre Impuesto a la Renta � Arts. 14 y 39 N� 4 LIR Word Tributaci�n de intereses percibidos por sociedad que tributa en base a un sistema de renta presunta. (Ord. N� 1159, de 08.03.2004) Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 45 y 46 LIR Word Tributaci�n de suma pagada seg�n Convenio Colectivo que se indica. (Ord. N� 1158, de 08.03.2004) Ley sobre Impuesto a la Renta �…
+Ley sobre Impuesto a la Renta � Arts. 42 N� 1 y 45 y 46 LIR
 
 ## Referencias detectadas
 

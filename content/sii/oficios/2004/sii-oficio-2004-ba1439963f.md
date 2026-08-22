@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-01
+- Fecha: 2004-11-30
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja851.htm
 - Hash SHA-256: 26b983800344b760038dce9212b87fe2ae59c02c06f4322405eff7d5f7208ba1
 
 ## Resumen
 
-n de un Colector de Alcantarillado Particular y de una Planta de Tratamiento de Aguas Servidas de un Regimiento Militar. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N� 2 � Ley de la Renta, Art. 20�, N� 5. (Ord. N� 5.186, de 01.12.2004) Word Impuesto al Valor Agregado que Afecta a Servicio de Incineraci�n. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra h), Art. 12�, letra E), N� 7 � Ley de la Renta, Art. 31�, Art. 59�, Art. 74�, N�4, Ar…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, letra h), Art. 12�, letra E), N� 7 � Ley de la Renta, Art. 31�, Art. 59�, Art. 74�, N�4, Art. 79� � Ley N� 17.336 � Circular N� 61, de 1997. (Ord. N� 5.176, de 30.11.2004)
 
 ## Referencias detectadas
 

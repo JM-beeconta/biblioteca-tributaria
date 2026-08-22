@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-23
+- Fecha: 2004-09-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja825.htm
 - Hash SHA-256: 4bcbf9038fbf869b2fddb1fca8fe7459ca01db03102e3ac5bcc7fa3a7cbe71b0
 
 ## Resumen
 
-t�culo 27 bis, del D.L. N� 825, originados en la actividad forestal. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 27� bis � C�digo Civil, Art. 1996�. (Ord. N� 4.441 de 23.09.2004) Word Recuperaci�n de remanentes de Cr�dito Fiscal originados en la Construcci�n de un Hotel, en virtud del art�culo 27 bis del D.L. N� 825. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 3 (Ord. N� 4.349, de 16.09.2004) Word Tributaci�n con IVA al monto cobrado por la empres…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 13�, N� 3 (Ord. N� 4.349, de 16.09.2004)
 
 ## Referencias detectadas
 

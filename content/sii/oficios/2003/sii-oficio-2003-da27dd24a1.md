@@ -11,7 +11,7 @@
 
 ## Resumen
 
-isposici�n Efectuados bajo la Vigencia del Primitivo Art�culo 71�, del D.L: N� 3.500 y Obligaci�n de Retener Impuestos. (Oficio N� 5.185, de 01.12.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 59�, N� 2, inciso final, Art. 74�, N�4, Art.79� � C�digo Tributario, Art. 64� � Ley sobre Impuesto a las Ventas y Servicios, Art. 8�, letra h), Art. 12�, Letra E), N� 7 � Ley N� 17.336, Art. 3�, N� 16, Art. 10�. Word Reconsideraci�n de lo Dictaminado por Oficio 4.183, de fecha 26 de Agosto de 2003. (Ofi…
+Word Reconsideraci�n de lo Dictaminado por Oficio 4.183, de fecha 26 de Agosto de 2003. (Oficio N� 5.184, de 01.12.2004)
 
 ## Referencias detectadas
 

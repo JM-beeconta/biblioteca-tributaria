@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-30
+- Fecha: 2003-10-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja596.doc
 - Hash SHA-256: de70c867ccd932418e85a17ac29f8b22798e8778a91371a4566481c360883780
 
 ## Resumen
 
-1, letra c), inciso cuarto de la Ley de la Renta en caso que se indica. (Ord. N� 5418, de 30.10.2003) Ley sobre Impuesto a la Renta � Art. 38 bis Word T�rminos en que se aplica el impuesto �nico establecido en el art�culo 38 bis de la Ley de la Renta. (Ord. N� 5380, de 28.10.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 letra a) Word Situaci�n tributaria que se produce con motivo de la absorci�n de sociedades en el caso que se indica. (Ord. N� 5379, de 28.10.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s.…
+Word Situaci�n tributaria que se produce con motivo de la absorci�n de sociedades en el caso que se indica. (Ord. N� 5379, de 28.10.2003)
 
 ## Referencias detectadas
 

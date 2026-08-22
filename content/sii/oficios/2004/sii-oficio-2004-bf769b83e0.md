@@ -11,7 +11,7 @@
 
 ## Resumen
 
-esto a la � Art. 17, N� 8, Art. 18� � Ley N� 13.305, Art. 103� � Ley N� 16.773, Art. 18� � Circular N� 158, de 1976 � Word Apreciaci�n de Habitualidad en la Enajenaci�n de Acciones de Sociedades cuyo capital pertenece en un 50% o m�s a la Empresa Inversionista. (Ord. N� 3.470, de 20.07.2004) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001 � Word Situaci�n Tributaria de aporte de acciones que se indica a la Formaci�n de una nueva Sociedad. (Ord. N�3.469, de 20.07.2004)…
+Word Situaci�n Tributaria de aporte de acciones que se indica a la Formaci�n de una nueva Sociedad. (Ord. N�3.469, de 20.07.2004)
 
 ## Referencias detectadas
 

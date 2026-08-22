@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ey de Impuesto a la Renta, Art. 15�, Art. 20, N� 5, Art. 29�, inciso 2�, Art. 30�, Art. 31�. (Ord. N� 1.478, de 29.03.2004) Word Oportunidad en que deben reconocerse Tributariamente los Ingresos provenientes de la Cesi�n de un Contrato de Arriendo de Sitio Industrial con galpones e Instalaciones. � Deducci�n como gasto de las sumas pagadas por parte del Arrendatario por este concepto. � Impuesto al Valor Agregado en la Cesi�n de un Contrato de Arriendo de Inmueble con Instalaciones. Ley de Impuestos a las Ventas y…
+Ley de Impuestos a las Ventas y Servicios. Oficio N� 1391 de 23 de marzo de 2004.
 
 ## Referencias detectadas
 

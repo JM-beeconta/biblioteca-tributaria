@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1196
 - Año: 2002
-- Fecha: 2002-05-02
+- Fecha: 2002-04-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja269.doc
 - Hash SHA-256: 41c4a5507ec93b85ccfee44e0a5b2800e2e020460fef7b7f43553b86d3c71981
 
 ## Resumen
 
-font> Ley de Impuesto a las Ventas y Servicios. Oficio N� 1417 de 02 de Mayo de 2002. Word Recuperaci�n del IVA exportador soportado por una empresa minera en la adquisici�n de bienes o utilizaci�n de servicios relacionados con actividades destinadas al cierre de faenas mineras. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1196 de 11 de Abril de 2002. Word Pide se reconsidere pronunciamiento de este Servicio, contenido en Oficio N� 3847, de 24-09-2001. Ley de Impuesto a las Ventas y Servicios. Oficio N� 119…
+Word Pide se reconsidere pronunciamiento de este Servicio, contenido en Oficio N� 3847, de 24-09-2001.
 
 ## Referencias detectadas
 

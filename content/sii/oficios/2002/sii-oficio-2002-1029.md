@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1029
 - Año: 2002
-- Fecha: 2002-04-05
+- Fecha: 2002-03-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja261.doc
 - Hash SHA-256: 5d49989db7cd7274fc4e3468f35e80156657d4930395d6245177f8dc8098928b
 
 ## Resumen
 
-y Modernizaci�n de la Miner�a Artesanal (PAMMA). Ley de Impuesto a las Ventas y Servicios. Oficio N� 1137 de 05 de Abril de 2002 Word Estacionamiento de veh�culos en la v�a p�blica, hecho gravado con IVA en caso que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1029 de 26 de Marzo de 2002 Word Impuesto al Valor Agregado respecto de servicios de mantenci�n preventiva de equipos electromec�nicos. Ley de Impuesto a las Ventas y Servicios. Oficio N�947 de 21 de Marzo de 2002. Word Impuesto al Valor Agreg…
+Word Impuesto al Valor Agregado respecto de servicios de mantenci�n preventiva de equipos electromec�nicos.
 
 ## Referencias detectadas
 

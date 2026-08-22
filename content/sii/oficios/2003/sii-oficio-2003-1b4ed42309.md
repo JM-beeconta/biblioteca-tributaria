@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-02
+- Fecha: 2003-03-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja461.htm
 - Hash SHA-256: eb7cc99dfccc877eb26e550ba267fc115b6546609873dafc7c7914d6bd780395
 
 ## Resumen
 
-tablecido en la Ley de Impuesto a la Renta, en la situaci�n que se indica. (Ord. N� 1306, de 02.04.2003) Ley sobre Impuesto a la Renta � Art. 20 N�s. 1, 2 y 5 de la LIR y D.L. N� 1.604, letra d) N� 3, de 1976 Word Exenci�n de impuesto establecida en la Ley N� 13.713, de 1959, complementada por el art�culo 14 del Decreto Ley N� 1604, de 1976. (Ord. N� 1016, de 20.03.2003) Ley sobre Impuesto a la Renta � Arts. 21 y 33 N� 1 de la LIR Word Tratamiento tributario de pagos efectuados al Estado por bienes o derechos util…
+20.03.2003) Ley sobre Impuesto a la Renta � Arts. 21 y 33 N� 1 de la LIR
 
 ## Referencias detectadas
 

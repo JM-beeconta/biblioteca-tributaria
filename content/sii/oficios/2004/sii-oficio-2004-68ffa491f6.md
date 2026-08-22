@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-23
+- Fecha: 2004-04-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja719.htm
 - Hash SHA-256: 2b4729eda22eb53640155138b9d89b8eff9b55a12a63a7612f4b6edd33402eb4
 
 ## Resumen
 
-es del Activo Inmovilizado. (Ord. N�1.902, de 23.04.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 8�, N� 1 Ley N� 19.885, Art. 3� � D. S. N� 787, de Educaci�n, de 1990. Word Tratamiento tributario de Donaciones que se indican. (Ord. N� 1.829, de 19.04.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis, letra A), N�1, Art. 43�, N�1, Art. 52� � Ley N� 19.578, Art. 1�, N�5 � C�digo Tributario, Art. 8�, N�5 � C�digo Civil, Art. 252� � Circular N�71, de 1998 � Ord. N� 492, de 1995. Word RE…
+Renta � Actual Ley Sobre Impuesto a la � Art. 57� bis, letra A), N�1, Art. 43�, N�1, Art. 52� � Ley N� 19.578, Art. 1�, N�5 � C�digo Tributario, Art. 8�, N�5 � C�digo Civil, Art. 252� � Circular N�71, de 1998 � Ord. N� 492, de 1995.
 
 ## Referencias detectadas
 

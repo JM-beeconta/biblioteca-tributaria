@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l">(Oficio N� 233, de 20 de Enero del 2003) Ley sobre Impuesto a la Renta � Art. 59 N� 1 Word Normas sobre exceso de endeudamiento a que se refiere el N� 1 del art�culo 59 de la Ley de la Renta, respecto de cr�dito otorgado desde el exterior a una empresa en el a�o 1998, la cual fue posteriormente absorbida por otra en el a�o 2000. (Ord. N� 232, de 20.01.2003) Ley sobre Impuesto a la Renta � Art. 46 del D.L. N� 3.063, de 1979 Word Tratamiento tributario de donaciones que se indican. (Ord. N� 226, de 17.01.2003) Le…
+20.01.2003) Ley sobre Impuesto a la Renta � Art. 46 del D.L. N� 3.063, de 1979
 
 ## Referencias detectadas
 

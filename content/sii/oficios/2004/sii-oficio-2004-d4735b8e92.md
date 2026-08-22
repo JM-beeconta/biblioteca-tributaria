@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-27
+- Fecha: 2004-12-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja853.doc
 - Hash SHA-256: 5fb09d72336293b821c14a5e7dd9c8270d6cf8684e6d4b5a4357780a92de0d0b
 
 ## Resumen
 
-butario, Art. 64� � Ley N� 19.886, Art. 16�, Art. 30�, letra f) � Decreto Supremo N� 250, de Hacienda, Art. 80�, Art. 81�, Art. 91�. (Ord. N� 5.420, de 27.12.2004) Word Tratamiento Tributario de Tarifas cobradas por el Registro Nacional de Proveedores, creado por la Ley N� 19.886. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � D.L. N� 910, de 1975, Art. 21� � Circular N� 26, de 1987. (Ord. N� 5.187, de 01.12.2004) Word Aplicaci�n del Cr�dito Especial establecido en el Art�culo 21�, del D.L. N…
+Word Aplicaci�n del Cr�dito Especial establecido en el Art�culo 21�, del D.L. N� 910, de 1975, a Construcci�n de un Colector de Alcantarillado Particular y de una Planta de Tratamiento de Aguas Servidas de un Regimiento Militar.
 
 ## Referencias detectadas
 

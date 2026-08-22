@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 1703
 - Año: 2002
-- Fecha: 2002-06-27
+- Fecha: 2002-05-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja293.doc
 - Hash SHA-256: 792705b6ee555bed70bc0b111f306ff5f5232212cb0ac2a082c3e2ed0527b312
 
 ## Resumen
 
-face='arial' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2317 de 27 de Junio de 2002. Word Ingreso al resto del pa�s de veh�cu- los nacionales o nacionalizados provenientes de Zona Franca Primaria a trav�s de la Secci�n 0 del Arancel Aduanero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1703 de 31 de Mayo de 2002. Word Aplicaci�n de Ley N� 19.633, de 1999, a enajenaci�n de veh�culo de diplom�tico, ingresado al pa�s al amparo de las Partidas del Cap�tulo 0 del Arancel Aduanero. Ley de Impu…
+Word Aplicaci�n de Ley N� 19.633, de 1999, a enajenaci�n de veh�culo de diplom�tico, ingresado al pa�s al amparo de las Partidas del Cap�tulo 0 del Arancel Aduanero.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-22
+- Fecha: 2004-03-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja711.htm
 - Hash SHA-256: 24495f3975388dd1ceaa3157dab6b3bbd22a251d34e5cc51e5ee8317ea72fcfa
 
 ## Resumen
 
--family: Arial"> 42 N�1, 42 bis 43 N� 1,. Tratamiento tributario que afecta a la devoluci�n de fondos previsionales efectuados a los trabajadores t�cnicos extranjeros. ( Ordinario N� 1374, de 22 de Marzo 2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, de 1990, Art. 5�, transitorio, letra d). Word Vigencia de Tasaci�n de predio agr�cola efectuada en conformidad a lo dispuesto por el art�culo 5� transitorio de la Ley N� 18.985, de 1990. (Ord. N� 1.216, de 11.03.2004) Ley sobre Impuesto a la Renta � Art…
+Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, de 1990, Art. 5�, transitorio, letra d).
 
 ## Referencias detectadas
 

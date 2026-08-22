@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-10
+- Fecha: 2003-08-22
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja4143.htm
 - Hash SHA-256: 7422f82c41d46eecc02a70a40c12300e799440080c33ca071acecc626d23167e
 
 ## Resumen
 
-o 24, N�17, del D. L. N�3.475, de 1980.- ( Oficio N� 5197 de 10 de Octubre de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402, respecto de cr�ditos de enlace. ( Oficio N� 4490 de 11 de Septiembre de 2003). Ley sobre Impuesto Territorial - Ley N� 17.235 - Art. 27 � Ley de Concesiones de Obras P�blicas - Ley 19.460- Art. 16 - Decreto N� 900 Word Se ha consultado a esta Direcci�n Nacional sobre la tributaci…
+2003). Ley sobre Impuesto Territorial - Ley N� 17.235 - Art. 27 � Ley de Concesiones de Obras P�blicas - Ley 19.460- Art. 16 - Decreto N� 900
 
 ## Referencias detectadas
 

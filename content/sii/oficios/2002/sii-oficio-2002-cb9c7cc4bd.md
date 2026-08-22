@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el art�culo 55 bis de la Ley de la Renta por las razones que se indican. (Ord. N� 1436, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 33 Ley N� 19.518 Word Procedencia de cr�dito por gastos de capacitaci�n contenido en la Ley N� 19.518, sobre Estatuto de Capacitaci�n y Empleo, respecto de trabajadores sujetos a precontratos laborales. (Ord. N� 1435, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Concepto que comprende la rebaja tributaria del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1…
+03.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis
 
 ## Referencias detectadas
 

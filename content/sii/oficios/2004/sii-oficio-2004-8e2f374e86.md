@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-19
+- Fecha: 2004-08-04
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja812.doc
 - Hash SHA-256: 908764bb87291e96ee405349d773761f16813be66ab3aebf9affe416e4ee84fb
 
 ## Resumen
 
-sultas relativas a la Aplicaci�n del Tratado para Evitar la Doble Tributaci�n Suscrito por las Rep�blicas de Chile y canad� a las Normas sobre Exceso de Endeudamiento contenidas en el Art�culo 59�, N� 1, de la Ley Sobre Impuesto a la Renta (Ord. N� 3.939, de 19.08.2004) Donaciones � Ley N� 19.712 � Ley N� 19.885, de 2003, Art. 11� � C�digo Tributario, Art. 97�, N� 24 � C�digo Civil, Art. 1.386�, Art. 1.417�, Art. 1.422�, Art. 1.404�, Art. 1.423�. Word Alcance de la expresi�n �en tanto la donaci�n no se hubiere uti…
+Word Alcance de la expresi�n �en tanto la donaci�n no se hubiere utilizado �ntegramente por la instituci�n donataria�, Contenida en el Art�culo 11�, de la Ley N� 19.885, de 2003. (Ord. N� 3.700, de 04.08.2004)
 
 ## Referencias detectadas
 

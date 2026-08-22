@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-02-24
+- Fecha: 2003-02-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja443.htm
 - Hash SHA-256: 82ee985a1800e8b995f35200057b6fefb5fd8c5b26366fff018947d2f4dc82b1
 
 ## Resumen
 
-esto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte terrestre internacional de carga. Ley de Impuesto a las Ventas y Servicios. Oficio N� 619 de 24 de Febrero de 2003. Word Solicitud de reconsideraci�n del Oficio Ord. N� 3.365 del 12 de Septiembre del 2002. Ley de Impuesto a las Ventas y Servicios. Oficio N� 609 de 20 de Febrero de 2003. Word Impuesto al Valor Agregado en suministro de energ�a el�ctrica que es prestado entre empresas generadoras de electricidad como co…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 609 de 20 de Febrero de 2003.
 
 ## Referencias detectadas
 

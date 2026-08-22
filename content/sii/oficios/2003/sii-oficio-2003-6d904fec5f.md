@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iedad de inversiones cuyo objeto exclusivo ser� la inversi�n en capitales mobiliarios. (Ord. N� 6235, de 10.12.2003) Ley sobre Impuesto a la Renta � Arts. 41 N� 9 de la LIR y Art. 64 C�digo Tributario Word Tributaci�n de enajenaci�n de derechos sociales efectuada por contribuyente obligado a determinar su renta efectiva seg�n contabilidad completa. (Ord. N� 6234, de 10.12.2003) Ley de Impuesto a la Renta. Art�culo 31 N� 6 bis. Situaci�n tributaria de las becas de estudio otorgadas por las Cajas de Compensaci�n. (…
+Ord. N� 6234, de 10.12.2003) Ley de Impuesto a la Renta. Art�culo 31 N� 6 bis. Situaci�n tributaria de las becas de estudio otorgadas por las Cajas de Compensaci�n. ( Ordinario N� 6233, de 10 Diciembre de 2003).
 
 ## Referencias detectadas
 

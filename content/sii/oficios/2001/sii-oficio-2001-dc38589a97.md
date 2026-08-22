@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-11-09
+- Fecha: 2001-11-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4356.htm
 - Hash SHA-256: a7887424177206d10d1baf4c291cff804174853989e7066a2b4f7ced61315d7c
 
 ## Resumen
 
-en los ingresos percibidos por la adquisici�n de kil�metros del Programa Pasajeros Frecuentes de empresa a�rea. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Ley N� 19.709 de Zona Franca de Tocopilla � Circular 48, de 2001. (Ord. N� 4404, de 09.11.2001) Word Medidas relacionadas con la aplicaci�n de la Ley N� 19.709. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 12� letra E) N� 11, Art. 17� (Ord. N� 4356, de 07.11.2001) Word Situaci�n tributaria…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, letra g), Art. 12� letra E) N� 11, Art. 17� (Ord. N� 4356, de 07.11.2001)
 
 ## Referencias detectadas
 

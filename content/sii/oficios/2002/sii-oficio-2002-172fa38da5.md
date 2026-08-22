@@ -11,7 +11,7 @@
 
 ## Resumen
 
-(Ord. N� 2986 de 22.08.2002 - I. Directos) Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 2� bis. Exenci�n de Impuesto de Timbres y Estampillas, respecto de la emisi�n de bonos y t�tulos de deuda de corto plazo. Ordinario N� 1597 de 17 Mayo de 2002. Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 1�, N� 3. Ordinario N� 1086 de 28 de Marzo del 2002. - Reconocimiento de deuda garantizada mediante un Contrato de Hipoteca, no es hecho gravado con el Impuesto d…
+N� 1597 de 17 Mayo de 2002. Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, art�culo 1�, N� 3. Ordinario N� 1086 de 28 de Marzo del 2002. - Reconocimiento de deuda garantizada mediante un Contrato de Hipoteca, no es hecho gravado con el Impuesto de Timbres y Estampillas, conforme normativa que se indica. (Ordinario N� 1086 de 28 de marzo de 2002)
 
 ## Referencias detectadas
 

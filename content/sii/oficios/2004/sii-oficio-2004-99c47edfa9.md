@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/a> Exenci�n a las Entradas cobradas por Espect�culos Circenses. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley de la Renta � Art. 42�, N�1 y N� 2 �Circular N� 21, de 1991. (Ord. N� 2.718, de 18.06.2004) Word Consulta si procede emitir Facturas de Exportaci�n por el Servicio de Teleoperador de Telefon�a Nacional. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�s 1, 2 y 3�, Art. 8�, Art. 12�, letra E), N� 1, letra b) � C�digo Civil, Art. 2.259� � Ley N� 4.56…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�s 1, 2 y 3�, Art. 8�, Art. 12�, letra E), N� 1, letra b) � C�digo Civil, Art. 2.259� � Ley N� 4.566, Sobre Hip�dromos, Art. 4� � D.S. N� 55, de 1980, Art. 4�. (Ord. N� 2.717, de 18.06.2004)
 
 ## Referencias detectadas
 

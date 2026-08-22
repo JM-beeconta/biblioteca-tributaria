@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r"> A�os Anteriores LEY DE IMPUESTO A LA RENTA 2002 En esta p�gina podr� conocer pronunciamientos del Servicio referidos a consultas relacionadas con la Ley de Impuesto a la Renta. Ley sobre Impuesto a la Renta � Art. 74 N� 2 Word Personas que deben efectuar la retenci�n de impuesto del art�culo 74 N� 2 de la Ley de la Renta en el caso que se indica. (Ord. N� 4571, de 05.12.2002) Ley sobre Impuesto a la Renta � Art. 3� Ley N� 19.247, de 1993 Word Acreditaci�n como instituci�n donataria a entidad que se indica para…
+Word Personas que deben efectuar la retenci�n de impuesto del art�culo 74 N� 2 de la Ley de la Renta en el caso que se indica. (Ord. N� 4571, de 05.12.2002)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-03-21
+- Fecha: 2002-02-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja256.htm
 - Hash SHA-256: e6c0112e3e48fede104cbd6525d88107f80b1db9819f005ee371868c9a19a18a
 
 ## Resumen
 
-or Agregado respecto de servicios de mantenci�n preventiva de equipos electromec�nicos. Ley de Impuesto a las Ventas y Servicios. Oficio N�947 de 21 de Marzo de 2002. Word Impuesto al Valor Agregado que grava al proyecto denominado �Levantamiento de Informaci�n referente a la Red Vial Nacional (Infraestructura, Medio Ambiente, Riesgos Naturales)�. Ley de Impuesto a las Ventas y Servicios. Oficio N� 734, de 28 de Febrero de 2002.- Word No se encuentra afecta a IVA, la entrega gratuita de alimentaci�n al personal de…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 734, de 28 de Febrero de 2002.-
 
 ## Referencias detectadas
 

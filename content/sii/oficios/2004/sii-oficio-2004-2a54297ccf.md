@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-30
+- Fecha: 2004-06-24
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja761.htm
 - Hash SHA-256: 60a81d77f698f38f82d372cab9dba68b8617fb4e08f608320db6a8694b688f58
 
 ## Resumen
 
-Cr�dito Fiscal en caso de Extrav�o del Original de las Facturas Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.815, de 30.06.2004) Word Impuesto al valor Agregado que afecta a Prestaciones ambulatorias efectuadas por un centro M�dico a Pacientes Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, Letra E), N� 1, letra d) � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.767, d…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, Letra E), N� 1, letra d) � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.767, de 24.06.2004)
 
 ## Referencias detectadas
 

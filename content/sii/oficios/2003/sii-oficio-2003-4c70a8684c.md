@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-23
+- Fecha: 2003-10-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja585.htm
 - Hash SHA-256: dc6cbbb442fdbb42de06beba8ad84ab55dbb35c34c30d6f578efb12eed220f4c
 
 ## Resumen
 
-obre Impuesto a la Renta � Arts. 17 N�s. 3 y 4, 20 N� 2, 42 ter y 54 Word Situaci�n tributaria de los dep�sitos convenidos. (Ord. N� 5351, de 23.10.2003) Ley sobre Impuesto a la Renta � Art. 14 bis LIR Word Tributaci�n de los contribuyentes acogidos a las normas del art�culo 14 bis de la Ley de la Renta. (Ord. N� 5297, de 21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis LIR Word Procedencia de beneficios del 55 bis de la Ley de la Renta, en caso de reestructuraci�n de cr�dito hipotecario. (Ord. N� 5296, de…
+21.10.2003) Ley sobre Impuesto a la Renta � Art. 55 bis LIR
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-08
+- Fecha: 2004-09-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja809.doc
 - Hash SHA-256: 82a254dcc297aeb3a9a1876f5fc53d841ccf119ebfa57b0fcf0c550859ef4a1f
 
 ## Resumen
 
-N='JUSTIFY'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8�. (Ord. N� 4.232 de 08.09.2004) Word IVA en asesor�as utilizando Internet a modo de Comunicaci�n y Entrega de Informaci�n a Clientes. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23� � Ley de Sociedades An�nimas, Art. 94�. (Ord. N� 4.203 de 07.09.2004) Word Utilizaci�n de Remanente de Cr�dito Fiscal originado en la Construcci�n de un Inmueble de Propiedad de una Empresa Constructora…
+Word Utilizaci�n de Remanente de Cr�dito Fiscal originado en la Construcci�n de un Inmueble de Propiedad de una Empresa Constructora que se ha propuesto dividirse, asignando dicho inmueble a la nueva sociedad que nace de esta divisi�n.
 
 ## Referencias detectadas
 

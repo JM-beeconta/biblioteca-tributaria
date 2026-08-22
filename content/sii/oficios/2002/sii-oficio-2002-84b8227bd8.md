@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-09-30
+- Fecha: 2002-09-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja365.htm
 - Hash SHA-256: df864c6581c805648229bb680c5c002f41c55e23d2c1899ee89d1e5b54a2349f
 
 ## Resumen
 
-obra se encuentra arrendado y su propietario no se encuentra ejerciendo su actividad agr�cola durante el per�odo que dura dicho arriendo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3528 de 30 de Septiembre de 2002. Word Pide se aclare modificaci�n del inciso primero del art�culo 23, del D.L. N� 825, de 1974, introducida por Ley N� 19.738. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3413 de 23 de Septiembre de 2002. Word Solicita reconsideraci�n Oficio Ord. N� 5052, de 28-12-2001, relativo a Impues…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3413 de 23 de Septiembre de 2002.
 
 ## Referencias detectadas
 

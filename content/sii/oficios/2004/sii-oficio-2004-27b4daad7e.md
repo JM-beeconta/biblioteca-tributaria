@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Licencias M�dicas. (Ord. N� 2.830, de 30.06. 2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 1, Letra d), Art. 39�, N� 3 � Circular N� 68, de 2001. Word Procedencia del Cr�dito por Contribuciones de Bienes Ra�ces en el caso que se indica. (Ord. N� 2.769, de 24.06. 2004) Renta � Actual Ley Sobre Impuesto a la � Art. 12�, Art. 29�, Art. 41� A, Art. 42�, N� 2 � Circular N� 52, de 1993. Word Tratamiento Tributario de las Asesor�as T�cnicas prestadas en Chile, de acuerdo al Art. 41 A, de la Ley de la Renta.…
+Renta � Actual Ley Sobre Impuesto a la � Art. 12�, Art. 29�, Art. 41� A, Art. 42�, N� 2 � Circular N� 52, de 1993.
 
 ## Referencias detectadas
 

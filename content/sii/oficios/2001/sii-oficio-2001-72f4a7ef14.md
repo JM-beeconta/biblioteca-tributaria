@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-10-29
+- Fecha: 2001-10-26
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4276.htm
 - Hash SHA-256: c21cd3152baacc118c41fc71d1ca8d4abdfc1554faabcced147c6edc9c547180
 
 ## Resumen
 
-tas de bienes obsoletos efectuadas por la empresa que se indica Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 8�, Art. 2�, N�2. (Ord. N� 4282, de 29.10.2001) Word Impuesto al Valor Agregado en contrato de mandato celebrado para la realizaci�n de determinadas funciones relacionadas con el Programa de Agua Potable Rural. Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 28� � C�digo Tributario, Art. 69� � Ley N� 18.046, de 1981, Art. 99. (Ord. N� 4276, de 26.10.20…
+Ventas y Servicios � Nuevo Texto �� Actual Ley sobre Impuesto a las � Art. 28� � C�digo Tributario, Art. 69� � Ley N� 18.046, de 1981, Art. 99. (Ord. N� 4276, de 26.10.2001)
 
 ## Referencias detectadas
 

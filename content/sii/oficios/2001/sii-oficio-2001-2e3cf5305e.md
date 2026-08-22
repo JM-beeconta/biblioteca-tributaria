@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-24
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja3718.doc
 - Hash SHA-256: 58862fb17964aa2768b659e00bbc6d896e494236a24f7519339aeb8c0c8e811c
 
 ## Resumen
 
-'> Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 3847, de 24.09.2001) Word Tributaci�n frente al IVA, de actividad consistente en la prestaci�n de servicios a trav�s de un portal de Internet. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 37�, Art. 42� � Ley N�18.413, de 1985 � Circular N� 26, de 1985. (Ord. N� 3718, de 11.09.2001) Word Aplicaci�n del art�culo 37 letra I), del D.L. N� 825, de 1974, a importaci�n de especies que indic…
+Word Aplicaci�n del art�culo 37 letra I), del D.L. N� 825, de 1974, a importaci�n de especies que indica.
 
 ## Referencias detectadas
 

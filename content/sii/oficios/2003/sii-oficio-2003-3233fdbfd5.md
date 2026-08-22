@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-16
+- Fecha: 2003-10-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja579.htm
 - Hash SHA-256: b99959c59ea6c9e3a1e2d669ab24a7a16a379ee1ce26ebcf2de38f504ea8f367
 
 ## Resumen
 
-e Bomberos realiza a los diversos cuerpos de bomberos del pa�s, en relaci�n al Impuesto al Valor Agregado. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5262 de 16 de Octubre de 2003.- Word Impuesto al Valor Agregado en arrendamiento con opci�n de compra de inmueble destinado a sede institucional. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5228 de 14 de Octubre de 2003.- Word Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5228 de 14 de Octubre de 2003.-
 
 ## Referencias detectadas
 

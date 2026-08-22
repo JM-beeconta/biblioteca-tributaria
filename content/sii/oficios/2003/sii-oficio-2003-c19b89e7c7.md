@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-05-29
+- Fecha: 2003-05-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja502.htm
 - Hash SHA-256: d1cb58e6dfc564bd502f24ce5075de0382c52895f24e5f7188da85203920fc40
 
 ## Resumen
 
-or la Junta Nacional de Cuerpos de Bomberos a los cuerpos de bomberos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2574 de 29 de Mayo de 2003. Word Utilizaci�n del cr�dito fiscal generado en la construcci�n de un local comercial sobre terrenos arrendados y que posteriormente son subarrendados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2546 de 27 de Mayo de 2003. Word Tributaci�n en la transacci�n de veh�culos �hechizos�, destinados al transporte terrestre de carga y en la importaci�n de conjuntos…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2546 de 27 de Mayo de 2003.
 
 ## Referencias detectadas
 

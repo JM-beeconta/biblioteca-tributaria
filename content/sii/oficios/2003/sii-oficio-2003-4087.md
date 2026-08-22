@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4087
 - Año: 2003
-- Fecha: 2003-08-26
+- Fecha: 2003-08-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja551.doc
 - Hash SHA-256: 88aa2d4825a56b98f0843aa2ba4ca78b229fc4c46c94851b5adbfad624e0ec7b
 
 ## Resumen
 
-size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4183 de 26 de Agosto de 2003. Word Impuesto al Valor Agregado aplicable a contratos de asesor�a y consultor�a vinculados a licencias y sublicencias de programas computacionales. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4087 de 20 de Agosto de 2003.- Word IVA en servicios de tour prestados a turistas extranjeros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4086, de 20 de Agosto de 2003.- Word Solicita reconsideraci�n de Ord. N� 498, de…
+Word IVA en servicios de tour prestados a turistas extranjeros.
 
 ## Referencias detectadas
 

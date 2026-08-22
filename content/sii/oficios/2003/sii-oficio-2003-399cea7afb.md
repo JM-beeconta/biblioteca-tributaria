@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-04-09
+- Fecha: 2003-04-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja466.doc
 - Hash SHA-256: 9928d2844b9cb87570973323b60492a8a6ab2940fd45e53de53bfe8f9fb4bd36
 
 ## Resumen
 
-a extranjera. (Ord. N� 1515, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 97 de la LIR y 69 y 126 C�digo Tributario Word Consulta sobre devoluci�n de Pagos Provisionales Mensuales de empresa que desaparece con motivo de fusi�n por absorci�n. (Ord. N� 1514, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 17 N� 8 y 18 Word Tributaci�n del mayor valor obtenido en la enajenaci�n de un bien ra�z. (Ord. N� 1395, de 04.04.2003) Ley sobre Impuesto a la Renta � Arts. 59 N� 2 y 74 N� 4 Word Aplicaci�n del impue…
+Word Tributaci�n del mayor valor obtenido en la enajenaci�n de un bien ra�z. (Ord. N� 1395, de 04.04.2003)
 
 ## Referencias detectadas
 

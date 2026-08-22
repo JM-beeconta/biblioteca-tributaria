@@ -11,7 +11,7 @@
 
 ## Resumen
 
-obre Impuesto a la � Art. 17�, N� 13 � Ley N� 19.010, Art. 20� - C�digo del Trabajo, art. 178�. Word Condiciones que deben cumplir las Indemnizaciones Especiales Pactadas en Acuerdo Colectivo que Complementa a Contrato Colectivo para que se beneficien con la Liberaci�n Tributaria del Art�culo 178� del C�digo del Trabajo. (Ord. N� 2.325, de 18.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art. 18�. Word Tributaci�n que afecta a la Enajenaci�n de Bienes Ra�ces que se indican (Ord. N� 2.…
+Word Tributaci�n que afecta a la Enajenaci�n de Bienes Ra�ces que se indican (Ord. N� 2.323, de 18.05.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-12
+- Fecha: 2004-06-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja769.doc
 - Hash SHA-256: 3609d901e0bd8de126fd76113022c976055320fbca8b1f164595d79ad8c678cc
 
 ## Resumen
 
-� C, Art. 41� B � C�digo Tributario, Art. N� 68�, Art. 165� � Ley N� 18.046, Art. 87� � Circular N� 43, de 2003. (Ord. N� 2.958, de 12.07.2004) Word Destino de las Sociedades Extranjeras a que se Refiere el Art�culo 41D de la Ley de la Renta. (Ord. N� 2.958, de 12.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra b), Art.18� � Ley N� 18.985, Art. 5�, transitorio Word Situaci�n del Aporte de un Inmueble Agr�cola a Sociedad An�nima en Formaci�n, a su Valor Comercial por parte de un Contribuyent…
+Word Situaci�n del Aporte de un Inmueble Agr�cola a Sociedad An�nima en Formaci�n, a su Valor Comercial por parte de un Contribuyente sometido al R�gimen de Renta Presunta. (Ord. N� 2.831, de 30.06.2004)
 
 ## Referencias detectadas
 

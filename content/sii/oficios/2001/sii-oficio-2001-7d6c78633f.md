@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-05
+- Fecha: 2001-06-13
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja217.doc
 - Hash SHA-256: fafe7d73599c9555eca13ab9a239f4b90959bf8193d77aec2ef79f122a42245d
 
 ## Resumen
 
-al' size='2'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2, Art. 8� - Ley de la Renta, Art. 20� N�4. Word Impuesto al Valor Agregado en Subsidios Entregados en Cumplimiento del Programa �Vacaciones Tercera Edad�. (Of. N� 2436, de 05.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 2�, Art. 8�, Art. 16�, Art. 55� - Codigo Tributario, Art. 64�. Word Tratamiento Tributario Aplicable a Un Sistema de Promociones Basado en Bonificaciones y Descuentos…
+Word Tratamiento Tributario Aplicable a Un Sistema de Promociones Basado en Bonificaciones y Descuentos que Opera a Trav�s de Internet. (Of. N� 2566, de 13.06.2001 � I. Indirectos)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-12-27
+- Fecha: 2004-12-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja853.htm
 - Hash SHA-256: d8f04ed0b11549ecad4f550af54b029291457aa304660216df1a17fc8e282e59
 
 ## Resumen
 
-='arial' size='2'> Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N� 2, Art. 8� � Ley sobre Impuesto a la Renta, Art. 20�, N�s 3 y 4 � C�digo Tributario, Art. 64� � Ley N� 19.886, Art. 16�, Art. 30�, letra f) � Decreto Supremo N� 250, de Hacienda, Art. 80�, Art. 81�, Art. 91�. (Ord. N� 5.420, de 27.12.2004) Word Tratamiento Tributario de Tarifas cobradas por el Registro Nacional de Proveedores, creado por la Ley N� 19.886. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � D.L. N� 910, de 1975, Art. 21� � Circular N� 26, de 1987. (Ord. N� 5.187, de 01.12.2004)
 
 ## Referencias detectadas
 

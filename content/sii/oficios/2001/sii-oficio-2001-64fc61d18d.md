@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-09
+- Fecha: 2001-03-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja1297.doc
 - Hash SHA-256: a51caf737d7a845e9bca3225727b30d2d0a712533084c92a33e6afb303c8d8e1
 
 ## Resumen
 
-Vida que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 17, N�8, Art. 18. (Ord. N� 1951, de 09.05.2001) Word Tributaci�n que afecta a enajenaci�n de predio agr�cola en los t�rminos que se indican. Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N�3, Art. 41� B. (Ord. N� 1297, de 29.03.2001) Word Tratamiento tributario de la disminuci�n de capital de una agencia en el exterior de sociedad an�nima chilena efectuada en forma de acciones de sociedades an�nimas extranjeras. Renta � Actual Ley Sobre Impues…
+Word Tratamiento tributario de la disminuci�n de capital de una agencia en el exterior de sociedad an�nima chilena efectuada en forma de acciones de sociedades an�nimas extranjeras.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-04
+- Fecha: 2002-10-31
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja390.htm
 - Hash SHA-256: 701067ddb1d05a6eef65493aa914fdf5fd9f7e1f00312d1e442409f48539bf80
 
 ## Resumen
 
-as, pag�ndose como contraprestaci�n una suma fija mensual a todo evento. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3994 de 04 de Noviembre de 2002. Word Aplicaci�n de la exenci�n de IVA establecida en el N� 3, del art�culo 13� del D.L. 825, a ingresos por concepto de Billete de Pasaje emitido en contrato de transporte a�reo de pasajeros. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3971, de 31-10-2002.- Word Improcedencia de dar respuesta a consultas no referidas a casos concretos en que exista un…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3971, de 31-10-2002.-
 
 ## Referencias detectadas
 

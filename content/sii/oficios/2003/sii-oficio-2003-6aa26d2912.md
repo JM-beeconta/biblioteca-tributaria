@@ -11,7 +11,7 @@
 
 ## Resumen
 
-evisional voluntario que establece el art�culo 50 de la Ley de la Renta, en el caso de trabajador independiente. (Ord. N� 6534, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 42 N� 2 LIR Word Forma de acreditar las rentas que se indican. (Ord. N� 6525, de 19.12.2003) Ley sobre Impuesto a la Renta � Arts. 31 N� 6 y 42 N� 1 LIR Word Improcedencia de aplicar la rebaja del art�culo 42 bis de la Ley de la Renta, respecto del sueldo empresarial asignado o pagado al empresario individual y socios de sociedades de p…
+Word Improcedencia de aplicar la rebaja del art�culo 42 bis de la Ley de la Renta, respecto del sueldo empresarial asignado o pagado al empresario individual y socios de sociedades de personas. (Ord. N� 6524, de 19.12.2003)
 
 ## Referencias detectadas
 

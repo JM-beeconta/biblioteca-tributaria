@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-11
+- Fecha: 2003-03-10
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja456.htm
 - Hash SHA-256: 14d486f610d75024b7429ee574d2b87437931b0239f6fc2cf40f8e49ef5310b4
 
 ## Resumen
 
-doc">Word Situaci�n tributaria de pensiones o jubilaciones obtenidas en el exterior. (Ord. N� 817, de 11.03.2003) Ley sobre Impuesto a la Renta � Art. 18 LIR y Ley N� 18.046 Word Resuelve reconsideraci�n Oficio Ordinario N� 2.036, de 11.05.99 del SII, respecto a la fecha de adquisici�n de las cr�as o acciones liberadas. (Ord. N� 802, de 10.03.2003) Ley sobre Impuesto a la Renta � Art. 59 N� 1 Word Normas sobre determinaci�n del patrimonio y del endeudamiento total para establecer la existencia o no de exceso de en…
+10.03.2003) Ley sobre Impuesto a la Renta � Art. 59 N� 1
 
 ## Referencias detectadas
 

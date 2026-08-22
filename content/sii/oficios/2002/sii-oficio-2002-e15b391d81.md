@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de alimentaci�n al personal de su dependencia, por un establecimiento cuyo giro es el expendio de comidas y bebidas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 669, de 21 de febrero de 2002.- Word Solicita pronunciamiento sobre procedimiento para regularizar facturas emitidas y no pagadas, mediante la emisi�n de notas de cr�dito. Ley de Impuesto a las Ventas y Servicios. Oficio N� 664, de 21 de febrero de 2002.- Word Impuesto al valor Agregado en la confecci�n de un Mosaico ortofotogram�trico infrarojo di…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 664, de 21 de febrero de 2002.-
 
 ## Referencias detectadas
 

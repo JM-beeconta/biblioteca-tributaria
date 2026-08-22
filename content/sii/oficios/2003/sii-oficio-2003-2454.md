@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l' size='2'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2455 de 15 de Mayo de 2003. Word Aplicaci�n del art�culo 21�, del D.L. N� 910, de 1975, a contrato de construcci�n pactado a suma alzada, para ejecutar obras de terminaci�n en 55 departamentos y en los espacios comunes de un edificio de departamentos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2454 de 15 de Mayo de 2003. Word Emisi�n de facturas por servicios no afectos o exentos y aplicaci�n del c�lculo de la proporcionalidad en el uso del…
+Word Emisi�n de facturas por servicios no afectos o exentos y aplicaci�n del c�lculo de la proporcionalidad en el uso del cr�dito fiscal en caso de reembolso de gastos.
 
 ## Referencias detectadas
 

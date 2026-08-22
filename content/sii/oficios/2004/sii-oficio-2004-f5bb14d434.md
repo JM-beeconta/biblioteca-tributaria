@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-24
+- Fecha: 2004-08-20
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja798.doc
 - Hash SHA-256: 7d743316630419ffe32f3a106d66550f9d68667c30d9f28d887c3514941f5041
 
 ## Resumen
 
-de 1993 y 53, de 1998 Word Procedencia de la Utilizaci�n del Cr�dito de 4% del Valor de los Bienes F�sicos del Activo Inmovilizado adquiridos nuevos o terminados de construir durante el ejercicio que establece el art�culo 33� bis de la Ley de la Renta, en caso que se indica. (Ord. N� 3.995, de 24.08.2004) Renta � Actual Ley Sobre Impuesto a la � 20�, N� 1 � D.S. N� 1.139, de 1990 � Circular N� 22, de 1991. Word Tributaci�n de Contribuyente propietario de predio Agr�cola que desarrolla actividad de Producci�n de Fl…
+Word Tributaci�n de Contribuyente propietario de predio Agr�cola que desarrolla actividad de Producci�n de Flores. (Ord. N� 3.972, de 20.08.2004)
 
 ## Referencias detectadas
 

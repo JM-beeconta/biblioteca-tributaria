@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-08
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja204.htm
 - Hash SHA-256: d406449fab228aac7666cacc67e2ef077f509af818714a41b1dcec18ec6a79e3
 
 ## Resumen
 
-1940, de 08.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 52� y Sgtes. - Ley Sobre Impuesto a la Renta, Art. 20 - Resolucion Ex. N� 143, de 1984. Word Impuesto al Valor Agregado en Actividad Realizada por Empresa Liquidadora de Seguros. (Of. N� 2028, de 15.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 12� Letra E) N�2� - Ley de la Renta, Art. 20 N� 3� - Codigo de Comercio, Art. 930� y 965…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 12� Letra E) N�2� - Ley de la Renta, Art. 20 N� 3� - Codigo de Comercio, Art. 930� y 965�.
 
 ## Referencias detectadas
 

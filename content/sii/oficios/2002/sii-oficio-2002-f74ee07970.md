@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en el caso que se indica. (Ord. N� 4571, de 05.12.2002) Ley sobre Impuesto a la Renta � Art. 3� Ley N� 19.247, de 1993 Word Acreditaci�n como instituci�n donataria a entidad que se indica para los efectos del cr�dito tributario que establece el art�culo 3� de la Ley N� 19.247, de 1993. (Ord. N� 4570, de 05.12.2002) Ley sobre Impuesto a la Renta � Art. 3� Ley N� 19.247, de 1993 Word Financiamiento de Proyecto Educativo a trav�s de la Ley N� 19.247, de 1993, sobre Donaciones con Fines Educacionales, consistente en u…
+05.12.2002) Ley sobre Impuesto a la Renta � Art. 3� Ley N� 19.247, de 1993
 
 ## Referencias detectadas
 

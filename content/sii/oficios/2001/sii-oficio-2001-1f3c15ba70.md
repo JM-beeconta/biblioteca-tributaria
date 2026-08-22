@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-25
+- Fecha: 2001-09-24
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3851.doc
 - Hash SHA-256: da1fdd24dd2db1f206372e0ded53db8e5570cdb860c13cce0ab3643b6c7f73b4
 
 ## Resumen
 
-ize='2'> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b). (Ord. N� 3872, de 25.09.2001) Word Situaci�n tributaria que afecta a la enajenaci�n de un bien ra�z efectuado por una Sociedad Agr�cola Ltda. A otra sociedad agr�cola de igual naturaleza jur�dica. Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, Art. 8� � Circulares N�s. 24 y 50, de 1993 y 57, de 2001. (Ord. N� 3851, de 24.09.2001) Word Condiciones bajo las cuales la Comisi�n Nacional del Medio Ambiente puede recibir donaciones con b…
+Word Condiciones bajo las cuales la Comisi�n Nacional del Medio Ambiente puede recibir donaciones con beneficios tributarios del art�culo 8� de la Ley N� 18.985, de 1990.
 
 ## Referencias detectadas
 

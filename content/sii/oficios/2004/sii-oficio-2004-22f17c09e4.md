@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-17
+- Fecha: 2004-11-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja839.doc
 - Hash SHA-256: d024e3bbfdd18675b3ba318fa6820d1b935439b15738a730d33bdb3e0c552add
 
 ## Resumen
 
-href="renta/ja840.doc">Word Situaci�n Tributaria de los Gastos que Exceden de los L�mites establecidos en el Art�culo 36� de la Ley N�19.518, de 1997, en concordancia con lo establecido en los Art�culos 37�, 40� y 42� de la misma Ley. (Oficio N� 5.059, de 17.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, Art. 45�, Art. 46� � Circular N� 37, de 1990. (Ord. N� 5.006, de 12.11.2004) Word Tributaci�n que Afecta a Bono de Antig�edad Pagado seg�n Contrato Colectivo, seg�n lo dispuesto por lo…
+Word Tributaci�n que Afecta a Bono de Antig�edad Pagado seg�n Contrato Colectivo, seg�n lo dispuesto por los Art�culos 45� y 46� de la Ley de la Renta.
 
 ## Referencias detectadas
 

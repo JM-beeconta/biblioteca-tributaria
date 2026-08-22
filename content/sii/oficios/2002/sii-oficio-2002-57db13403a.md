@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-27
+- Fecha: 2002-11-04
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja393.htm
 - Hash SHA-256: 0f7fa479aeae2455b9bef2894f38e516e364bcdd9d1bd78a1fef20608f28d710
 
 ## Resumen
 
-re de pasajeros. (Ord. N� 4399, de 27.11.2002) Ley sobre Impuesto a la Renta � Ley N� 19.247, de 1993 Word Calificaci�n de los Proyectos Educativos que se indican para los fines de la aplicaci�n de la Ley N� 19.247, de 1993, sobre Donaciones con Fines Educacionales. (Ord. N� 4357, de 22.11.2002) Ley sobre Impuesto a la Renta � Art. 55 bis Word Improcedencia de acogerse al beneficio tributario del art�culo 55 bis de la Ley de la Renta las personas que tienen la calidad de codeudores solidarios en la adquisici�n de…
+Ley sobre Impuesto a la Renta � Art. 55 bis
 
 ## Referencias detectadas
 

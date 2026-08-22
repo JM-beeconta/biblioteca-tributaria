@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-25
+- Fecha: 2001-04-16
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja191.doc
 - Hash SHA-256: c6b3174b4ade81f6ff1973e9aaad0e42d28ecb7e1521e38d850b35a314367f04
 
 ## Resumen
 
-p> Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circular N� 46, de 1999. Word Beneficio Tributario del D.F.L. N� 2 en el Caso de Renegociaci�n de Deuda Hipotecaria. (Of. N� 1756, de 25.04.2001 � I. Directos). Decreto Ley N� 1.328, de 1976 � Art. 17� y 19�. Word Indice de Reajustabilidad a Utilizar para Calcular el Mayor Valor Obtenido en el Rescate de Cuotas de Fondos Mutuos. (Of. N� 1627, de 16.04.2001 � I. Directos). D…
+Word Indice de Reajustabilidad a Utilizar para Calcular el Mayor Valor Obtenido en el Rescate de Cuotas de Fondos Mutuos. (Of. N� 1627, de 16.04.2001 � I. Directos).
 
 ## Referencias detectadas
 

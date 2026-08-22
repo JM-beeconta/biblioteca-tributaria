@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Beneficiario del cr�dito establecido en el art�culo 21�, del D.L. N� 910, cuando en la realizaci�n de una obra, existe una empresa constructora que celebra un contrato de construcci�n a suma alzada para la ejecuci�n de la misma, pero a su vez subcontrata bajo la misma modalidad con otra empresa cons-tructora, quien en definitiva realizar� materialmente los trabajos de construcci�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 6470 de 16 de Diciembre de 2003.- Word Recuperaci�n de remanentes de cr�dito fisca…
+Word Recuperaci�n de remanentes de cr�dito fiscal originados en la adquisici�n de plantas de tratamiento de aguas servidas y redes de agua potable y alcantarillado, en virtud del art�culo 27 bis del D.L. N� 825, de 1974.
 
 ## Referencias detectadas
 

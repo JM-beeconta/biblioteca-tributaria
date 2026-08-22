@@ -11,7 +11,7 @@
 
 ## Resumen
 
-amental constituida seg�n las normas del T�tulo XXXIII del Libro I del C�digo Civil. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3566 de 4 de Octubre de 2002. Word Solicita aclaraci�n de Ord. N� 3030, de 23-8-02.- Ley de Impuesto a las Ventas y Servicios. Oficio N� 3565 de 4 de Octubre de 2002. Word No procede gravar con el impuesto adicional a las bebidas alcoh�licas, analcoh�licas y productos similares al producto en polvo que sirve como base para preparar pisco sour. Ley de Impuesto a las Ventas y Servi…
+Word No procede gravar con el impuesto adicional a las bebidas alcoh�licas, analcoh�licas y productos similares al producto en polvo que sirve como base para preparar pisco sour.
 
 ## Referencias detectadas
 

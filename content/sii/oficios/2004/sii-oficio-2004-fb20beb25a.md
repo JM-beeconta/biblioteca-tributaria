@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-19
+- Fecha: 2004-07-21
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja779.doc
 - Hash SHA-256: bcb3622835dbd904d9b36cec687544cd96a82d023973337efa4e164d66edcfd2
 
 ## Resumen
 
-19.08.2004) Word Procede autorizar solicitud de Devoluci�n de Cr�dito Fiscal en virtud del art�culo 27� bis, en el caso de una Plantaci�n de 250 Hect�reas de patronales con las habilitaciones de Riego y Electrificaci�n necesarias cuando se encuentran en terrenos arrendados. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 23�, N� 3 � D.S. de Hacienda, N� 55 de 1977, Art. 43�, N� 5. (Ord. N� 3.483, de 21.07.2004) Word Solicita autorizaci�n para Calcular el Cr�dito Fiscal Proporcional del Im…
+Word Solicita autorizaci�n para Calcular el Cr�dito Fiscal Proporcional del Impuesto al Valor Agregado, con un mes de desfase.
 
 ## Referencias detectadas
 

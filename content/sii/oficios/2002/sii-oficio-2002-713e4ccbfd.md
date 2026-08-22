@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-11-11
+- Fecha: 2002-11-04
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja394.htm
 - Hash SHA-256: cd6d68937349f27645f64b9947499e9efa4dd3bc4a7ee3958964c432c5348da9
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4120 de 11 de Noviembre de 2002. Word Procedencia del Impuesto al Valor Agregado en convenio entre ISAPRE y cotizantes, por el cual se otorga el derecho a adquirir medicamentos con descuento en determinada cadena de farmacias, pag�ndose como contraprestaci�n una suma fija mensual a todo evento. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3994 de 04 de Noviembre de 2002. Word Aplicaci�n de la exenci�n de IVA establecida en el N� 3, del art�culo 13� del D.L…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3994 de 04 de Noviembre de 2002.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-12
+- Fecha: 2004-04-08
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja696.htm
 - Hash SHA-256: e35b7b1ee86fbb207cd8d518b025f3beaa3cfe3fd2f3dc4f8adb82e29656473e
 
 ## Resumen
 
-font face="arial" size="1"> Renta � Actual Ley Sobre Impuesto a la � Art. 42� bis, Art. 50� � D.L. N� 3.500 � Oficio N� 6.534, de 2003. Word Cotizaciones obligatorias que deben considerarse para los efectos del APV en el caso de los contribuyentes independientes del art�culo 42 N� 2 de la Ley de la Renta: (Ord. N� 1.704, de 12.04.2004) Renta � Actual Ley Sobre Impuesto a la � Circular N� 22, de 2001 � Res. Exentas N�s 5.396, de 2000 y N� 3, de 2001 � Ley de Impuesto a las Ventas y Servicios, Art. 52�. Word Moneda…
+Renta � Actual Ley Sobre Impuesto a la � Circular N� 22, de 2001 � Res. Exentas N�s 5.396, de 2000 y N� 3, de 2001 � Ley de Impuesto a las Ventas y Servicios, Art. 52�.
 
 ## Referencias detectadas
 

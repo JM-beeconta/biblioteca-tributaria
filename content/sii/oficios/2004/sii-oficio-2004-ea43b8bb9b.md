@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-27
+- Fecha: 2004-05-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja732.htm
 - Hash SHA-256: cbf68d38ccdde30998ef7448fa30d5323726792003d492502e886ecf1d17239e
 
 ## Resumen
 
-gregado que afecta a Oficina de Representaci�n establecida en el Pa�s. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�s 1, 2, 3 y 4, Art. 3�, Art. 8�, letra e), Art. 9�, letra f), Art. 52�. (Ord. N� 2.465, de 27.05.2004) Word Impuesto al Valor Agregado en Obras complementarias a un Contrato de Concesi�n Municipal Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � Ley de la Renta, Art. 20� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 2.329,…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 2�, N�2 � Ley de la Renta, Art. 20� � C�digo de Comercio, Art. 3�, N�7. (Ord. N� 2.329, de 18.05.2004)
 
 ## Referencias detectadas
 

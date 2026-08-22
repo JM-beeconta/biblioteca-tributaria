@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-13
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja208.htm
 - Hash SHA-256: 7f24cd18eea6111002bc3e7178888afe1bf756a6a04640c20eea60407970dd91
 
 ## Resumen
 
-entos que Opera a Trav�s de Internet. (Of. N� 2566, de 13.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 21�, Art. 24�, Art. 70� - Codigo Tributario, Art. 126� - Codigo Civil, Art. 2521�. Word Emisi�n de Nota de Cr�dito por Devoluci�n de Mercader�as Fuera de Plazo. (Of. N� 2380, de 30.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 4�, Art. 5� y Art. 12� Letra E) N�17�. Word No Procede Recuperaci�n del IVA, por Parte de una Empresa Extran…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 4�, Art. 5� y Art. 12� Letra E) N�17�.
 
 ## Referencias detectadas
 

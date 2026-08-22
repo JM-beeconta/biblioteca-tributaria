@@ -11,7 +11,7 @@
 
 ## Resumen
 
-707, de 31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respecto de la capacitaci�n impartida a sus propietarios o socios y trabajadores sujetos a precontratos laborales. (Ord. N� 1706, de 31.05.2002) Ley sobre Impuesto a la Renta � Ley N� 19.518 Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respecto de la capacitaci�n impartida a sus propietarios socios.…
+Word Condiciones bajo las cuales las empresas pueden invocar el cr�dito por gastos de capacitaci�n respecto de la capacitaci�n impartida a sus propietarios socios. (Ord. N� 1705, de 31.05.2002)
 
 ## Referencias detectadas
 

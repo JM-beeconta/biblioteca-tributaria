@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-06-24
+- Fecha: 2004-06-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja759.htm
 - Hash SHA-256: af72dc893861b60987db7e7a23d769c581f2880a6913dee546eb664924db49ca
 
 ## Resumen
 
-alor Agregado que afecta a Prestaciones ambulatorias efectuadas por un centro M�dico a Pacientes Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 12�, Letra E), N� 1, letra d) � Ley sobre Impuesto a la Renta, Art. 20�, N� 5. (Ord. N�2.767, de 24.06.2004) Word Exenci�n a las Entradas cobradas por Espect�culos Circenses. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley de la Renta � Art. 42�, N�1 y N� 2 �Circular N� 21, de 1991. (Ord. N� 2.718, de 18.06.2004) Word Con…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Ley de la Renta � Art. 42�, N�1 y N� 2 �Circular N� 21, de 1991. (Ord. N� 2.718, de 18.06.2004)
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-06-06
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja221.htm
 - Hash SHA-256: 54b378b377f287359fe1794dbd2717e67430371e8a69d84cc0aa6a0932180468
 
 ## Resumen
 
-ize='1'> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55� Inciso 8� - D. S. de Hacienda N� 55, de 1977, Art. 70� - Circular N� 103, de 1979 � Codigo Tributario, Art. 97� N� 10. Word Solicita Pronunciamiento Sobre Obligaci�n de Portar Gu�a de Despacho o Factura en los Traslados de Mercader�as de Terceros, en Veh�culos de Carga. (Of. N� 2476, de 06.06.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 10� - D. S. de Hacienda N� 55 que Contiene el Reglamento del Decreto…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 10� - D. S. de Hacienda N� 55 que Contiene el Reglamento del Decreto Ley N� 825, Art.22�, Art. 73� - Circular N� 126, de 1977.
 
 ## Referencias detectadas
 

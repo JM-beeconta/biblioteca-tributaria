@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-05-03
+- Fecha: 2002-04-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja280.doc
 - Hash SHA-256: 3388042dd1ded57c98694e898bc74e69ef92582431af5b7ef7994fa1caf9c826
 
 ## Resumen
 
-8, sobre Estatuto de Capacitaci�n y Empleo, respecto de trabajadores sujetos a precontratos laborales. (Ord. N� 1435, de 03.05.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Concepto que comprende la rebaja tributaria del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1411, de 30.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1405, de 30.04.2002) Ley sobre Impuesto a la Renta � art. 55…
+Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1405, de 30.04.2002)
 
 ## Referencias detectadas
 

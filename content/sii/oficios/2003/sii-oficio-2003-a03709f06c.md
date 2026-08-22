@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a � Art. 33 Ley N� 19.518 Word Condiciones en que procede el cr�dito por gastos de capacitaci�n efectuada mediante la modalidad del pre-contrato. (Ord. N� 1546, de 09.04.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 8 Word Tributaci�n que afecta a operaci�n de venta de acciones, en caso que se indica. (Ord. N� 1517, de 09.04.2003) Ley sobre Impuesto a la Renta � Art. 41 y Ley N� 19.857 Word Bienes que no deben formar parte del Capital Propio Tributario del contribuyente. (Ord. N� 1516, de 09.04.2003) Ley sobre…
+09.04.2003) Ley sobre Impuesto a la Renta � Art. 41 y Ley N� 19.857
 
 ## Referencias detectadas
 

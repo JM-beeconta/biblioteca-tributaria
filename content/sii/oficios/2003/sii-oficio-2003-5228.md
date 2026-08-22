@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5228
 - Año: 2003
-- Fecha: 2003-10-16
+- Fecha: 2003-10-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja579.doc
 - Hash SHA-256: 4fabf98a5fa62661ed76fb93679551f24deccbc4f65ffb7c8d362bb61941e691
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 5262 de 16 de Octubre de 2003.- Word Impuesto al Valor Agregado en arrendamiento con opci�n de compra de inmueble destinado a sede institucional. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5228 de 14 de Octubre de 2003.- Word Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte fiscal libre.�Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones q…
+Word Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte fiscal libre.�Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte fiscal libre.�
 
 ## Referencias detectadas
 

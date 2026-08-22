@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tributo. Ley de Impuesto a las Ventas y Servicios. Oficio N� 295 de 20 de Enero de 2004 Word Adquisici�n de veh�culos por parte de organizaciones con liberalidades, para ser utilizados en Proyectos de los que no forman parte. Ley de Impuesto a las Ventas y Servicios. Oficio N� 294 de 20 de Enero de 2004 Word Consulta sobre qui�n es el responsable del pago del aumento del impuesto al valor agregado en el cumplimiento de obligaciones contratadas con anterioridad al alza de tasa del referido tributo. Ley de Impuesto…
+Word Consulta sobre qui�n es el responsable del pago del aumento del impuesto al valor agregado en el cumplimiento de obligaciones contratadas con anterioridad al alza de tasa del referido tributo.
 
 ## Referencias detectadas
 

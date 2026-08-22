@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-04
+- Fecha: 2004-04-06
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja708.htm
 - Hash SHA-256: 3b36845f527cd049b4fc74bfe367433e220a2fd906110c783ea24bbd2937a61c
 
 ## Resumen
 
-� 701, Art. 13�, inciso 4�, Art. 7� � D. L. N� 1.341, de 1998, Art. 6� y Art. 7� � Circular N� 78, de 2001. Word Posibilidad de Efectuar una segunda Donaci�n respecto de un predio acogido al Decreto Ley N� 701, de 1974, en relaci�n con la aplicaci�n de la exenci�n del Impuesto sobre Herencias, Asignaciones y Donaciones, establecida en el inciso 4�, del art�culo N�13, del referido cuerpo legal (Ord. N� 1.623, de 06.04.2004) Ley de Sociedades An�nimas � Art. 96� � Ley de la Renta, Art. 14�, Letra A), N�1, letra C) �…
+06.04.2004) Ley de Sociedades An�nimas � Art. 96� � Ley de la Renta, Art. 14�, Letra A), N�1, letra C) � Ley N� 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones � C�digo Tributario, Art. 64� � Circular N� 68, de 1986.
 
 ## Referencias detectadas
 

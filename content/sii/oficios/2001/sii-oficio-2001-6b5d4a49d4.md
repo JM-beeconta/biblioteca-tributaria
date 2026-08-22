@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-16
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja162.htm
 - Hash SHA-256: e4aa3eec54d3cab3d1840bc6d943ae13c870b97b8fe76143489301000a5cdab9
 
 ## Resumen
 
-/font> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 1�, Art. 8� - Art. 46� - Ley N� 19.506, de 1997, Art. 2� N� 4� - Ley de Rentas Municipales, Art. 41� N� 7�. Word Representaci�n Diplom�tica Solicita Informe Sobre Impuestos que Gravan el Valor Extraf�brica de Veh�culos de Producci�n Nacional, Gastos por Inscripci�n y Transferencia. (Of. N� 759, de 16.02.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y N� 3�, Art. 8� - Codigo Civil, Art. 607, Art. 6…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y N� 3�, Art. 8� - Codigo Civil, Art. 607, Art. 608.
 
 ## Referencias detectadas
 

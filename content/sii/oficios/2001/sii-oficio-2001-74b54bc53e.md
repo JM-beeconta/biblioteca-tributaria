@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-16
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja211.htm
 - Hash SHA-256: 5f6006a9724071688448f36840a661d681bef67155a3ba2bf1eca8e6f95f49f2
 
 ## Resumen
 
-Acogerse al Beneficio Tributario. (Of. N� 2060, de 16.05.2001 � I. Directos). Ley N�19.716, del 2001 que Sustituyo la Letra a) del Art.42� del D. Ley N�825, de 1974, Modificado por el Articulo Unico de la Ley N�19.534, de 1997. Word Tasa de Impuesto Adicional a las Bebidas Alcoh�licas que Corresponden Aplicar al Pisco Sour. (Of. N� 1797, de 26.04.2001 � I. Indirectos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circula…
+Indirectos). Ley N� 19.622 - Establece Beneficios Tributarios por Adquisici�n de Viviendas Nuevas Acogidas a Normas del D.F.L. N� 2� ( D. o. 31.07.59) � Circular N� 46, de 1999.
 
 ## Referencias detectadas
 

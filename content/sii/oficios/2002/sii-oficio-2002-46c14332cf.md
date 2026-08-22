@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Word Aplicaci�n del art�culo 8�, letra i), del D.L. N� 825, sobre Impuesto a las Ventas y Servicios. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4764 de 26 de Diciembre de 2002 Word No es procedente el otorgamiento por este Servicio de un certificado de reciprocidad para efectos de solicitar devoluci�n de IVA en pa�s extranjero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4763 de 26 de Diciembre de 2002. Word Aplicaci�n del art�culo 8� letra m) del D.L. N� 825, a la venta de un cami�n que efect�a…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4763 de 26 de Diciembre de 2002.
 
 ## Referencias detectadas
 

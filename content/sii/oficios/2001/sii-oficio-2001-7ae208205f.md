@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-09-11
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3692.doc
 - Hash SHA-256: 59ff990a7c701a5681bfd845c09bf21c89d74089a2f12041cb4b1e02cabca495
 
 ## Resumen
 
-t�culo 8� de la Ley N� 18.985, de 1990. Renta � Actual Ley Sobre Impuesto a la � Art. 41�, N�9. (Ord. N� 3725, de 11.09.2001) Word Determinaci�n del costo tributario de la venta de derechos sociales. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra a), Art. 18�. (Ord. N� 3692, de 10.09.2001) Word Situaci�n tributaria de aporte de acciones por parte de un contribuyente a su propia empresa unipersonal. Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�8, letra b), Art. 18�. (Ord. N� 3652, de 05.09.20…
+Word Situaci�n tributaria de aporte de acciones por parte de un contribuyente a su propia empresa unipersonal.
 
 ## Referencias detectadas
 

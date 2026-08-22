@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-11-30
+- Fecha: 2001-11-14
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4465.htm
 - Hash SHA-256: 151ccbf04948e23953aaa84e0acacb6dcce353f2dd9cb1cc9f1be0cb5f1cc5be
 
 ## Resumen
 
-idos a materias relacionadas con la Ley de Impuesto a las Ventas y Servicios. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 12�, letra E), N� 17, Art. 42� � Ley N� 18.841, de 1989 � Circulares N� 14, de 1989, N� 17 de 04, 1991 y N� 56 de 1991. (Ord. N� 4686, de 30.11.2001). Word Devoluci�n del IVA a personas no domiciliadas ni residentes en Chile. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.S. N� 348, de 1975, Art. 2�, letra b) � C�digo Tributario, Art. 126�,…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � D.S. N� 348, de 1975, Art. 2�, letra b) � C�digo Tributario, Art. 126�, N�3. (Ord. N� 4465, de 14.11.2001)
 
 ## Referencias detectadas
 

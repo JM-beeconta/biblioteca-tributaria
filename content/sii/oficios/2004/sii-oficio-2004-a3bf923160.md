@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N�2.633, de 15.06 .2004) Renta � Actual Ley Sobre Impuesto a la � Art. 59�, Art. 60�, 61�, Art. 62�, Art. 63� � C�digo Tributario, Art. 8�, N�8 � C�digo Civil, Art. 59�. Word Acreditaci�n de Domicilio o de Residencia en Chile, de Contribuyente que se indica. (Ord. N� 2.626, de 14.06.04) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � C�digo del Trabajo, Art. 4� � Oficios N�s 684 y 2.999, de 1999. Word C�mputo del Plazo para el c�lculo de monto No Constitutito de Renta de Indemnizaciones por A�os de Serv…
+Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 13 � C�digo del Trabajo, Art. 4� � Oficios N�s 684 y 2.999, de 1999.
 
 ## Referencias detectadas
 

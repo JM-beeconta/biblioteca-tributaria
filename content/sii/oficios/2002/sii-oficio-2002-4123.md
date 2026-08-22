@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4123
 - Año: 2002
-- Fecha: 2002-11-21
+- Fecha: 2002-11-11
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja399.doc
 - Hash SHA-256: f9b3868be4c3e7d55c7aa10b19deb37b2bb9eb18d8cfb777ba405ebb50d6a4da
 
 ## Resumen
 
-oc'>Word Aplicaci�n del IVA a cuota de cierre del vertedero XXXXXX. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4295 de 21 de Noviembre de 2002. Word Vigencia de la Circular N� 41, de 29 de julio del 2001. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4123 de 11 de Noviembre de 2002. Word Procedencia del uso, por parte de las empresas constructoras, del cr�dito especial establecido en el art�culo 21, del D.L. N� 910, de 1975, en la venta y contratos generales de construcci�n que no sea por administra…
+Word Procedencia del uso, por parte de las empresas constructoras, del cr�dito especial establecido en el art�culo 21, del D.L. N� 910, de 1975, en la venta y contratos generales de construcci�n que no sea por administraci�n, de inmuebles para habitaci�n que incluyen piscinas, en los casos que indica.
 
 ## Referencias detectadas
 

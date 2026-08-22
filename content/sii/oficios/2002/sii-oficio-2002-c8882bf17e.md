@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5 bis de la Ley de la Renta. (Ord. N� 1538, de 13.05.2002) Ley sobre Impuesto a la Renta � arts. 29 al 33. Word Situaci�n tributaria de los colegios que reciben subvenci�n del Estado. (Ord. N� 1537, de 13.05.2002) Ley sobre Impuesto a la Renta � art. 42 bis. Word L�mite hasta el cual ascienden los ahorros previsionales voluntarios efectuados directamente por los afiliados a las instituciones recaudadoras autorizadas, conforme al art�culo 42 bis de la Ley de la Renta. (Ord. N� 1536, de 13.05.2002) Ley sobre Impuest…
+Word L�mite hasta el cual ascienden los ahorros previsionales voluntarios efectuados directamente por los afiliados a las instituciones recaudadoras autorizadas, conforme al art�culo 42 bis de la Ley de la Renta. (Ord. N� 1536, de 13.05.2002)
 
 ## Referencias detectadas
 

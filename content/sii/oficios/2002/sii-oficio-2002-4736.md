@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4736
 - Año: 2002
-- Fecha: 2002-12-23
+- Fecha: 2002-12-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja415.doc
 - Hash SHA-256: 338921d88491ecbcc36a44e9b099699ebb66080ff1797c9b97cd92754a4ff2f3
 
 ## Resumen
 
-unipersonal del transporte. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4755 de 23 de Diciembre de 2002. Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de administraci�n y provisi�n de personal. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4736 de 20 de Diciembre de 2002. Word - Procedencia de detallar en facturas o boletas que se emitan por prestaciones m�dicas ambulatorias, los insumos, medicamentos y otros elementos utilizados. - Aplicaci�n del IVA en procedimiento m�dico que indi…
+Word - Procedencia de detallar en facturas o boletas que se emitan por prestaciones m�dicas ambulatorias, los insumos, medicamentos y otros elementos utilizados. - Aplicaci�n del IVA en procedimiento m�dico que indica.
 
 ## Referencias detectadas
 

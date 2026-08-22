@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2665
 - Año: 2002
-- Fecha: 2002-07-23
+- Fecha: 2002-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja320.doc
 - Hash SHA-256: b4cd32ab7833aaa0ecbcc90a23487b8c94fe932d3147459b5eb05a15e465a6fe
 
 ## Resumen
 
-r> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2698 de 23 de Julio de 2002. Word Consultas referidas a la interpretaci�n de la modificaci�n introducida por la Ley N� 19.738 en la letra m) del art�culo 8� del D.L. N� 825, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2665 de 19 de Julio de 2002. Word Tratamiento tributario aplicable a las inversiones materializadas en forma de aporte de tecnolog�a efectuadas al amparo del D.L. N� 600, de 1974. Ley de Impuesto a las Ventas y Servicios. Oficio…
+Word Tratamiento tributario aplicable a las inversiones materializadas en forma de aporte de tecnolog�a efectuadas al amparo del D.L. N� 600, de 1974.
 
 ## Referencias detectadas
 

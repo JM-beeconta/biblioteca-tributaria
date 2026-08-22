@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-29
+- Fecha: 2004-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja712.doc
 - Hash SHA-256: 576c5bdf3b344a4f46ce64485dcce364fd26cd91e2f0ac313b4ae4592cb564ec
 
 ## Resumen
 
-al para la industria de AFP. ( Ordinario N� 1480, de 29 de Marzo 2004) enta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra a), incisos 2�, 3� y 4�, Art. 60�, inciso 1�, Art. 74�, N� 4, Art. 65�, N� 1 y N�4, Art. 79�, Art. 97� � Circular N� 8, de 1998. Word Solicita pronunciamiento sobre Retenci�n de Impuesto Adicional que procede aplicar a la Operaci�n de Enajenaci�n de Acciones que indica. (Ord. N� 1.481, de 29.03 2004) Ley de Impuesto a la Renta. Art�culos 42 N�1, 42 bis 43 N� 1,. Tratamiento tributari…
+Word Solicita pronunciamiento sobre Retenci�n de Impuesto Adicional que procede aplicar a la Operaci�n de Enajenaci�n de Acciones que indica. (Ord. N� 1.481, de 29.03 2004)
 
 ## Referencias detectadas
 

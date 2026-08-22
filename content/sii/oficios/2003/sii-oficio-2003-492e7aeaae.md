@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-26
+- Fecha: 2003-06-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja512.htm
 - Hash SHA-256: ff7e7837d343128ea9524fc1e0d07010c1c375be75c26d03a0310f13e2489f65
 
 ## Resumen
 
-rovisionales mensuales por p�rdidas obtenidas en un a�o comercial. (Ord. N� 3163, de 26.06.2003) Ley sobre Impuesto a la Renta � Art. 41 D N� 3� Word Aplicabilidad del concepto �moneda extranjera de libre convertibilidad�, a que se refiere el n�mero 3 del art�culo 41 D de la Ley de la Renta, en el caso de inversiones efectuadas en pesos argentinos. (Ord. N� 3075, de 19.06.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� y sgtes. LIR y Art. 13 N� 8 C�digo Tributario Word Costo tributario en venta de derechos…
+19.06.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� y sgtes. LIR y Art. 13 N� 8 C�digo Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-10-25
+- Fecha: 2004-10-07
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja822.htm
 - Hash SHA-256: 81296820f8faac87956b7920ed427df45a444ff21fcf1edd0125f86289c71600
 
 ## Resumen
 
-Letra A), N� 1, letra c), Art. 56�, N� 3�, Art. 63� � Circulares N�s 70, de 1998 y 49, del 2001. Word Situaci�n Tributaria de las Utilidades Reinvertidas en una Sociedad An�nima, en el Evento en que dicha Sociedad An�nima se Transforme en Sociedad de Responsabilidad Limitada, conforme a lo dispuesto por la letra c) del N� 1 de la letra A) del Art�culo 14� de la Ley de la Renta. (Ord. N� 4.796, de 25.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Circular N� 132, de 1975 � Res. Exenta N� 43, de…
+Renta � Actual Ley Sobre Impuesto a la � Art. 31�, N� 5 � Circular N� 132, de 1975 � Res. Exenta N� 43, de 2002.
 
 ## Referencias detectadas
 

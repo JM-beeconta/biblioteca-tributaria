@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 4� � Circular N� 39, de 2000 � Resoluci�n Ex. N� 6.080, de 1999. (Ord. N� 3384, de 14.08.2001) Word Territorialidad del Impuesto al Valor Agregado. Documentaci�n que se debe emitir en caso de venta de bienes situados en el extranjero. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 40� � Leyes N��s 19.738, y 19.747, de 2001. (Ord. N� 3331, de 10.08.2001) Word Solicita se aclare la tasa establecida en el art�culo 40 del D.L. N� 825…
+Word Solicita se aclare la tasa establecida en el art�culo 40 del D.L. N� 825, de 1974.
 
 ## Referencias detectadas
 

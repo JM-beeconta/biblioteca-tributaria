@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a href='ventas/ja371.doc'>Word Solicita aclaraci�n de Ord. N� 3030, de 23-8-02.- Ley de Impuesto a las Ventas y Servicios. Oficio N� 3565 de 4 de Octubre de 2002. Word No procede gravar con el impuesto adicional a las bebidas alcoh�licas, analcoh�licas y productos similares al producto en polvo que sirve como base para preparar pisco sour. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3564 de 4 de Octubre de 2002. Word Consulta acerca de procedencia de utilizar como cr�dito fiscal el impuesto soportado en la…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3564 de 4 de Octubre de 2002.
 
 ## Referencias detectadas
 

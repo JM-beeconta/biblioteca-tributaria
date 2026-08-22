@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-23
+- Fecha: 2004-09-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja816.doc
 - Hash SHA-256: be215406be310ee9fb067f1e3756eaa24b58e84c2e198ed969d2e6aca0e19e17
 
 ## Resumen
 
-o a la � Art. 31�, N� 7 � Ley N� 18.985, Art. 8� � Ley N� 19.227, de 1993, Art. 10� � Circulares N�s 24 y 50 de 1993, 57 de 2001 y 55 y 59 de 2003. Word Beneficios Tributarios a Favor de Empresas Editoriales que Donan Libros. (Ord. N� 4.418, de 23.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 21�, inciso 3�, Art. 58�, N� 1, Art. 66�, Art. 68�, Art. 69�, Art. 74�, N�4, Art. 79�. Word Tributaci�n de Empresa Nacional que Representa Establecimientos Hoteleros Mexicanos en el Pa�s. (Ord. N� 4.414, de 21.09.200…
+Word Tributaci�n de Empresa Nacional que Representa Establecimientos Hoteleros Mexicanos en el Pa�s. (Ord. N� 4.414, de 21.09.2004)
 
 ## Referencias detectadas
 

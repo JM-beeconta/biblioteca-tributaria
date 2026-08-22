@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Caso en el cual se mantiene el beneficio tributario de la Ley N� 19.622, de 1999. (Ord. N� 1397, de 29.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1385, de 26.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1384, de 26.04.2002) Ley sobre Impuesto a la Renta � art. 18 ter. Wo…
+Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1384, de 26.04.2002)
 
 ## Referencias detectadas
 

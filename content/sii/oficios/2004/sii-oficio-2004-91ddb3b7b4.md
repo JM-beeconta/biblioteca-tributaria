@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-11-23
+- Fecha: 2004-11-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja842.doc
 - Hash SHA-256: 7d125bd9bd4abf8726d0e528b2fd1a2f522212205e1772e643aff8dfeab225e4
 
 ## Resumen
 
-Predio Agr�cola Perteneciente a Sociedad de Responsabilidad Limitada en el cual se Realiza Explotaci�n Agr�cola y Forestal de acuerdo a lo establecido en la letra b) del N� 1, del Art�culo 20�, de la Ley de la Renta y D.L. N� 701, de 1974, Sobre Fomento Forestal. (Oficio N� 5.113, de 23.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 41�� D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980 � Circular N� 100, de 1975. Word Tratamiento Tributario de la Provisi�n de Impuesto a la Renta frente a la Determinaci�n del Ca…
+Word Tratamiento Tributario de la Provisi�n de Impuesto a la Renta frente a la Determinaci�n del Capital Propio a que se refiere el N�1, del Art�culo 41�, de la Ley de la Renta. (Oficio N� 5.061, de 17.11.2004)
 
 ## Referencias detectadas
 

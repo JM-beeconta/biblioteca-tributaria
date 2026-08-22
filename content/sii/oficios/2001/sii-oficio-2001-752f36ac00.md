@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-04-24
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja180.htm
 - Hash SHA-256: a194fd52a5b14ad81269e2df2e1f548ac2d387dfbfbca813e5cb0f9bdd87cdb3
 
 ## Resumen
 
-N� 1750, de 24.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 55�� Circular N� 39�, del 2000 � Res. Ex. N� 6080, de 1999. Word Consulta Sobre Tipo de Documento que se Debe Emitir para el Cobro de Servicios de Consultor�a en Computaci�n que Presta en el Extranjero. (Of. N� 1580, de 10.04.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 25�, Art. 57� - Decreto Supremo N� 55�, de 1977, Art. 39� - Codigo Tributario, Art. 97� N�16�. Word Solicita…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 25�, Art. 57� - Decreto Supremo N� 55�, de 1977, Art. 39� - Codigo Tributario, Art. 97� N�16�.
 
 ## Referencias detectadas
 

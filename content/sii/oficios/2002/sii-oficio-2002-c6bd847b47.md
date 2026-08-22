@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-19
+- Fecha: 2002-04-18
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja272.doc
 - Hash SHA-256: 13590b11ae2d539ffc07e4d38705b15173a52ebb0250e32da10c7cb193030b28
 
 ## Resumen
 
-bsoluto de la sociedad conyugal. (Ord. N� 1298, de 19.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis. Word Requisitos que deben reunirse para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1274, de 18.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis. Word Requisitos que se deben cumplir para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta (Ord. N� 1273, de 18.04.2002). Ley sobre Impuesto a la Renta - art. 55 bis. Word Requisitos que se deben…
+Word Requisitos que se deben cumplir para acceder al beneficio tributario del art�culo 55 bis de la Ley de la Renta (Ord. N� 1273, de 18.04.2002).
 
 ## Referencias detectadas
 

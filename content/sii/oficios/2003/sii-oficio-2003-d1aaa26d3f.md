@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-03-24
+- Fecha: 2003-03-20
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja463.htm
 - Hash SHA-256: 1141268022eb2e21cf43daab37a2083c423cd52f4401ae3f5b62bec3892840d6
 
 ## Resumen
 
-de 24 de Marzo de 2003. Word Tratamiento tributario de situaci�n que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1545 de 10-04-2003. Word Impuesto al Valor Agregado que afectar�a a licitaci�n de una planta faenadora de carne. Ley de Impuesto a las Ventas y Servicios. Oficio N� 1018 de 20 de Marzo de 2003. Word Informe sobre la recuperaci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte terrestre internacional de carga. Ley de Impuesto a las…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 1018 de 20 de Marzo de 2003.
 
 ## Referencias detectadas
 

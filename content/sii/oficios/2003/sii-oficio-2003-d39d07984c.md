@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-08-22
+- Fecha: 2003-08-18
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja546.htm
 - Hash SHA-256: b1b081dc6e44ca0bf9bef50e6668502779fa57b433f233af29a7958c233f5549
 
 ## Resumen
 
-, conservaci�n, reparaci�n y explotaci�n de una obra p�blica ( Oficio N� 4143 de 22 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n o imputaci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402. ( Oficio N� 4008 de 18 de Agosto de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Tasa mensual de Impuesto de Timbres y Estampillas aplicable a las operaciones hipotecarias de cr�dito de dinero destinados a la adquisi…
+003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

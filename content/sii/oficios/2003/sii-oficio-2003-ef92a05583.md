@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rt. 41 inciso 3� y sgtes. LIR y Art. 13 N� 8 C�digo Tributario Word Costo tributario en venta de derechos sociales. (Ord. N� 2931, de 12.06.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 13 y 18 y 31 N� 6 bis, 74 N� 1 y 76 Word Solicita aclarar y confirmar tratamiento tributario de becas de estudio. (Ord. N� 2929, de 12.06.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 13 y 18 y 31 N� 6 bis, 74 N� 1 y 76 Word Situaci�n tributaria de las becas de estudios otorgadas por las Cajas de Compensaci�n. (Ord. N�…
+12.06.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 13 y 18 y 31 N� 6 bis, 74 N� 1 y 76
 
 ## Referencias detectadas
 

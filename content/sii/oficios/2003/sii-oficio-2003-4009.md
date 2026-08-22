@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4009
 - Año: 2003
-- Fecha: 2003-07-30
+- Fecha: 2003-08-18
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja542.doc
 - Hash SHA-256: b195819a8c6dab92626ba6eb15940c0c49814d4844b7cf4005b134ea903f1321
 
 ## Resumen
 
-br> Ley de Impuesto a las Ventas y Servicios. Oficio N� 3817 de 30 de Julio de 2003.- Word Aplicaci�n de la Ley N� 18.502, al transporte de pasajeros efectuado en catamaranes, en Regi�n de Ays�n. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4009 de 18 de Agosto de 2003.- Word Utilizaci�n de los remanentes de cr�dito fiscal del impuesto adicional a las bebidas alcoh�licas y analcoh�licas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3717 de 24 de Julio de 2003.- Word Tratamiento tributario, en relaci�…
+Word Utilizaci�n de los remanentes de cr�dito fiscal del impuesto adicional a las bebidas alcoh�licas y analcoh�licas.
 
 ## Referencias detectadas
 

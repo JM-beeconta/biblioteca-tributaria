@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributaci�n que afecta a operaci�n de venta de acciones, en caso que se indica. (Ord. N� 1517, de 09.04.2003) Ley sobre Impuesto a la Renta � Art. 41 y Ley N� 19.857 Word Bienes que no deben formar parte del Capital Propio Tributario del contribuyente. (Ord. N� 1516, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 59 N� 2 y 74 N� 4 Word Impuesto Adicional de la Ley de la Renta que afecta a estudio encargado a empresa extranjera. (Ord. N� 1515, de 09.04.2003) Ley sobre Impuesto a la Renta � Arts. 97 de la LIR…
+Word Impuesto Adicional de la Ley de la Renta que afecta a estudio encargado a empresa extranjera. (Ord. N� 1515, de 09.04.2003)
 
 ## Referencias detectadas
 

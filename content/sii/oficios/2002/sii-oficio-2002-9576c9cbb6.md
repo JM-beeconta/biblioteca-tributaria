@@ -11,7 +11,7 @@
 
 ## Resumen
 
-1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 4123 de 11 de Noviembre de 2002. Word Procedencia del uso, por parte de las empresas constructoras, del cr�dito especial establecido en el art�culo 21, del D.L. N� 910, de 1975, en la venta y contratos generales de construcci�n que no sea por administraci�n, de inmuebles para habitaci�n que incluyen piscinas, en los casos que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4122, de 11 de Noviembre de 2002.- Word Tributaci�n aplicable al contrato d…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4122, de 11 de Noviembre de 2002.-
 
 ## Referencias detectadas
 

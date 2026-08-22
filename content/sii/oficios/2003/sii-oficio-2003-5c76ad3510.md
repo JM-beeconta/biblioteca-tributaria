@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-10
+- Fecha: 2003-09-11
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja558.htm
 - Hash SHA-256: 027f69cfd7e89b77691bac9148f281a63b7480ea7ec3174b54207c0a584e8cc1
 
 ## Resumen
 
-trong>(Ordinario N� 5300 de 21 Octubre de 2003). Decreto Ley N� 3475 de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el art�culo 24, N�17, del D. L. N�3.475, de 1980.- ( Oficio N� 5197 de 10 de Octubre de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas. Word Devoluci�n de sumas pagadas en exceso a t�tulo de impuestos, seg�n la ley N�18.402, respecto de cr�ditos de enlace. ( Oficio N� 4490 de 11 de Septiembre de 2003). Ley sobre I…
+re de 2003). Decreto Ley N� 3475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

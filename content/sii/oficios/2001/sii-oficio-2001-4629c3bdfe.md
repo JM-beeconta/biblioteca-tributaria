@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-30
+- Fecha: 2001-05-17
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja195.doc
 - Hash SHA-256: 154e1bf0716bc39d68e7baefb9280620a69929e14ba43cfe0877990ce282b1e6
 
 ## Resumen
 
-ref='renta/ja196.htm'>Renta � Actual Ley Sobre Impuesto a la � Art. 20� - D. Ley N� 825, de 1974, Art. 2� N� 2�, Art. 8�, Art. 12� - Circular N� 29, de 1999. Word Tributaci�n que Afecta a las Rentas Provenientes de Un Contrato de Bonofactoring. (Of. N� 2381, de 30.05.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 17�, N�8� y 13�, Art. 18�, Art. 57� Bis � Codigo del Trabajo, Art. 178� - Ley N� 19.578, Art. 2� Transitorio. Word Situaci�n Tributaria en Un Caso de Enajenaci�n de Acciones. (Of. N� 21…
+Word Situaci�n Tributaria en Un Caso de Enajenaci�n de Acciones. (Of. N� 2122, de 17.05.2001 � I. Directos)
 
 ## Referencias detectadas
 

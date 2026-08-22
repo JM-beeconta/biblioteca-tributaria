@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-09-08
+- Fecha: 2004-08-26
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja800.doc
 - Hash SHA-256: bce5a629c0bc64474c4171aed2ff4d7ed92468887e35e58113d4d7312f6ecc30
 
 ## Resumen
 
-size="1"> Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N�2. Word Aplicaci�n del N� 2, del Art�culo 17� del D.L. N�824, de 1974, en el caso de Cooperativas. (Ord. N� 4.230, de 08.09.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 1, Art. 43�, N� 1 � Ley N� 19.882 � Circular N� 7, de 1993. Word Tributaci�n de Asignaci�n de Dietas a Consejeros de alta Direcci�n P�blica de acuerdo a la Ley N� 19.882. (Ord. N� 4.005, de 26.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art., 33� bis � Circulares N�…
+Word Tributaci�n de Asignaci�n de Dietas a Consejeros de alta Direcci�n P�blica de acuerdo a la Ley N� 19.882. (Ord. N� 4.005, de 26.08.2004)
 
 ## Referencias detectadas
 

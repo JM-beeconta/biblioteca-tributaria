@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-11-14
+- Fecha: 2003-10-30
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja598.doc
 - Hash SHA-256: 2766960a1bfdf2524428ee30f8afe79d348e230f4a03cdc489c852f86b3a4a26
 
 ## Resumen
 
-de la Ley N� 19.712, sobre Ley del Deporte. (Ord. N� 5611, de 14.11.2003) Ley sobre Impuesto a la Renta � Arts. 21 y 33 N� 1 LIR Word Tratamiento tributario de la entrega de canastas y regalos de Navidad por las empresas en favor de sus empleados. (Ord. N� 5556, de 10.11.2003) Ley sobre Impuesto a la Renta � Art. 14 Letra A N� 1, letra c) inciso 4� Word Aplicaci�n de la norma contenida en el art�culo 14 Letra A N� 1, letra c), inciso cuarto de la Ley de la Renta en caso que se indica. (Ord. N� 5418, de 30.10.2003)…
+Word Aplicaci�n de la norma contenida en el art�culo 14 Letra A N� 1, letra c), inciso cuarto de la Ley de la Renta en caso que se indica. (Ord. N� 5418, de 30.10.2003)
 
 ## Referencias detectadas
 

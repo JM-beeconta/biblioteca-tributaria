@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rnacional para Evitar la Doble Tributaci�n, Suscrito por las Rep�blicas de Chile y Per� � Ley sobre Impuesto a la Renta, Art. 41� D � ley N� 18.046, Art. 86� y 87� � D.L. N� 3.063, Sobre Rentas Municipales � Circular N� 43, de 2003. Word Absuelve Consultas relativas al Tratado Internacional para evitar la Doble Tributaci�n, suscrito entre Chile y Per� y al Art�culo 41�, D de la Ley sobre Impuesto a la Renta ( Ord. N� 2.869, de 07.07.2004) Ley N� 19.622, de 1999 � Renegociaci�n de Cr�ditos Hipotecarios � Ley N� 19.…
+07.07.2004) Ley N� 19.622, de 1999 � Renegociaci�n de Cr�ditos Hipotecarios � Ley N� 19.840, de 2002 � oficio 1.756, de 2001.
 
 ## Referencias detectadas
 

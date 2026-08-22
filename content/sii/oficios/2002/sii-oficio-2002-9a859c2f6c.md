@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-08-20
+- Fecha: 2002-08-07
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja326.htm
 - Hash SHA-256: 06f0a0432c235aa7613a29e4837a5777258580cf500693234e1571a9a1eb22d3
 
 ## Resumen
 
-pagado en atenci�n hospitalaria, por un ciudadano extranjero. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2965 de 20 de Agosto de 2002. Word Pide se declare que se favorece con la exenci�n de IVA e Impuesto Espec�fico, seg�n art�culo VI del �Tratado de Paz, Amistad y Comercio�, suscrito entre el Gobierno de Chile y Bolivia el a�o 1904. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2852 de 07 de Agosto de 2002. Word Solicita reconsideraci�n de Ord. N� 1033, de 5-9-2001, referido al impuesto al valor a…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 2852 de 07 de Agosto de 2002.
 
 ## Referencias detectadas
 

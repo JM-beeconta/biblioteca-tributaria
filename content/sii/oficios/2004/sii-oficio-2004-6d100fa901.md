@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-29
+- Fecha: 2004-07-28
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja784.doc
 - Hash SHA-256: 24a65a9dadbd2c7cea7b2a9c7d440ca134bb8cde4577b5703618c4933cb9086c
 
 ## Resumen
 
-letra a), Art. 18� � Ley N� 18.293, de 1984, Art. 3� � Ley N� 16.271, Art. 6� � Circular N� 158, de 1976 � Oficio N� 21, de 1996.- Word Determinaci�n del Valor de Costo en la Enajenaci�n de la Nuda Propiedad. (Ord. N� 3.604, de 29.07.2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 19.885, de 2003, Art. 11� � Ley N� 18.985, de 1990, Art. 8� � Circular N� 55, de 2003 � Word Situaci�n Tributaria de Donaciones con Fines Culturales que se indican. (Ord. N� 3.584, de 28.07.2004) Renta � Actual Ley Sobre Impuesto a…
+Word Situaci�n Tributaria de Donaciones con Fines Culturales que se indican. (Ord. N� 3.584, de 28.07.2004)
 
 ## Referencias detectadas
 

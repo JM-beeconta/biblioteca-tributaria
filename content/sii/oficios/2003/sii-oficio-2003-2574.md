@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2574
 - Año: 2003
-- Fecha: 2003-06-03
+- Fecha: 2003-05-29
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja503.doc
 - Hash SHA-256: 126db82c28fe02e4178f86cd2e4d154d1d153623c3df7a995823b43180911f1f
 
 ## Resumen
 
-l' size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2769 de 03 de Junio de 2003. Word Implicancias tributarias de las asignaciones de carros bomba efectuadas por la Junta Nacional de Cuerpos de Bomberos a los cuerpos de bomberos. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2574 de 29 de Mayo de 2003. Word Utilizaci�n del cr�dito fiscal generado en la construcci�n de un local comercial sobre terrenos arrendados y que posteriormente son subarrendados. Ley de Impuesto a las Ventas y Servicios. Of…
+Word Utilizaci�n del cr�dito fiscal generado en la construcci�n de un local comercial sobre terrenos arrendados y que posteriormente son subarrendados.
 
 ## Referencias detectadas
 

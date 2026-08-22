@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-01-08
+- Fecha: 2001-01-01
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja169.htm
 - Hash SHA-256: 2225d6dffd200b9c511e2056511d9b44d0da5db8f29f8e6db1b8da3bd53daaee
 
 ## Resumen
 
-pacitaci�n y Empleo � Estatuto de - Actual Texto � Art. 36� - Circular N� 47�, de 1977 � Oficio N� 71�, del 08.01.2001. Word Se Solicita Reconsideraci�n de Of. 71�, del 2001, a Fin de Consignar Si los Organismos T�cnicos Intermedios para Capacitaci�n Son Contribuyentes de la Primera Categor�a y Bajo que Concepto y Si en Ese Sentido Es V�lida la Doble Aplicaci�n de la Franquicia Tributaria Sobre los Mismos Recursos. (Of. N� 758, de 16.02.2001 � I. Directos) Franquicia Tributaria � Ley N� 19.518 � Capacitaci�n y Emp…
+I. Directos) Franquicia Tributaria � Ley N� 19.518 � Capacitaci�n y Empleo � Estatuto de - Actual Texto � Art. 36�, Art.41� - Ley de la Renta, Art. 33� - Circular N� 19�, de 1999.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto a la Renta ( Ord. N� 2.869, de 07.07.2004) Ley N� 19.622, de 1999 � Renegociaci�n de Cr�ditos Hipotecarios � Ley N� 19.840, de 2002 � oficio 1.756, de 2001. Word Consulta Electr�nica sobre Tratamiento Tributario de la Renegociaci�n de Cr�dito Hipotecario acogido a la Ley N� 19.622 (Ord. N� 2.868, de 07.07.2004) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 9, Art. 1�, N� 3. Word Impuesto de Timbres y Estampillas aplicable a las Operaciones de Cr�dito a Plazo. (Ord. N� 2.748, de…
+07.07.2004) Timbres y estampillas � Nuevo Texto � Ley Sobre Impuesto de � Art. 24�, N� 9, Art. 1�, N� 3.
 
 ## Referencias detectadas
 

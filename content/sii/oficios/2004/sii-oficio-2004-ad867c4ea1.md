@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N� 2.616, de 1998. Word Situaci�n tributaria de los Excesos de Retiro en el caso de una Sociedad, de acuerdo a lo dispuesto por el Art�culo 14�, de la Ley de la Renta. (Ord. N� 4.843, de 28.10.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N� 2, Art.20�, letra c) � D.L. N� 825, de 1974, Art. 8�, letra h) � Circular N� 21, de 1991 � Res. Exenta N� 83, de 30.08.2004 Word Tributaci�n que Afecta al Uso de Imagen de Jugador de F�tbol Profesional. (Ord. N� 4.842, de 28.10.2004) Renta � Actual Ley Sobre Impuest…
+Word Tributaci�n que Afecta al Uso de Imagen de Jugador de F�tbol Profesional. (Ord. N� 4.842, de 28.10.2004)
 
 ## Referencias detectadas
 

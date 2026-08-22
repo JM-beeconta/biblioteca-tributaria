@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-12-11
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja238.htm
 - Hash SHA-256: 619f85ca49edc55488fe1e26b64ec018d5cf256aa76cf97b05eb40747bc09bd9
 
 ## Resumen
 
-Word Tributaci�n que afecta a ingresos percibidos por adelantado por arriendo de un bien ra�z. Actual Ley Sobre Impuesto a la Renta - Ley N� 19.622, De 1999 Y Circ. N� 46, del SII Word Contribuyentes que tienen derecho a acogerse al beneficio tributario de la Ley N� 19.622, de 1999. (OF. N� 4856, de 11.12.2001) Actual Ley Sobre Impuesto a la Renta - Arts. 2� N� 3, 59 N� 1, 74 N� 4 Y 79 - Lir Word Procedencia del impuesto adicional establecido en el N� 1 del art�culo 59 de la Ley de la Renta, en caso en que opere l…
+Actual Ley Sobre Impuesto a la Renta - Arts. 2� N� 3, 59 N� 1, 74 N� 4 Y 79 - Lir
 
 ## Referencias detectadas
 

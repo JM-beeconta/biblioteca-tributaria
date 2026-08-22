@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-20
+- Fecha: 2004-08-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja796.htm
 - Hash SHA-256: a1083601e631dc363e1dd66d234c2c9db66f1d020e3a7e8a596596172e7982f7
 
 ## Resumen
 
-o Agr�cola que desarrolla actividad de Producci�n de Flores. (Ord. N� 3.972, de 20.08.2004) Renta � Actual Ley Sobre Impuesto a la � C�digo Tributario, Art. 64� � Circular N� 45, de 2001. Word Situaci�n Tributaria de Aporte de Acciones a otra Sociedad. (Ord. N� 3.927, de 19.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 18� ter, Art. 21�, Art. 33, N�1, letra e). Word Tratamiento Tributario de las P�rdidas en Operaciones del Art�culo 18� ter de la Ley de la Renta. (Ord. N� 3.926, de 19.08.2004) Re…
+Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Art. 18� ter, Art. 21�, Art. 33, N�1, letra e).
 
 ## Referencias detectadas
 

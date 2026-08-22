@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-06-19
+- Fecha: 2003-06-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja511.htm
 - Hash SHA-256: cbb2debdb59a5468364457f934faea38d684f0b581034d2a801c55720fe87343
 
 ## Resumen
 
-oneda extranjera de libre convertibilidad�, a que se refiere el n�mero 3 del art�culo 41 D de la Ley de la Renta, en el caso de inversiones efectuadas en pesos argentinos. (Ord. N� 3075, de 19.06.2003) Ley sobre Impuesto a la Renta � Art. 41 inciso 3� y sgtes. LIR y Art. 13 N� 8 C�digo Tributario Word Costo tributario en venta de derechos sociales. (Ord. N� 2931, de 12.06.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 13 y 18 y 31 N� 6 bis, 74 N� 1 y 76 Word Solicita aclarar y confirmar tratamiento tributario…
+12.06.2003) Ley sobre Impuesto a la Renta � Arts. 17 N�s. 13 y 18 y 31 N� 6 bis, 74 N� 1 y 76
 
 ## Referencias detectadas
 

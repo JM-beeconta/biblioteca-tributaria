@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 21
 - Año: 2004
-- Fecha: 2004-08-02
+- Fecha: 2004-07-29
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja785.doc
 - Hash SHA-256: 62df2143dad0b9a29914271cd3e0f176170edcb110ee12aa4e48082b1946ce1e
 
 ## Resumen
 
-ario, Art. 64 � � Ley N� 3.918, de 1923 � Circulares N�s 58 y 63, de 1990.- Word Efectos Tributarios que Producen la Disoluci�n y Liquidaci�n de una Sociedad de Responsabilidad Limitada (Ord. N� 3.622, de 02.08.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 17�, N� 8, letra a), Art. 18� � Ley N� 18.293, de 1984, Art. 3� � Ley N� 16.271, Art. 6� � Circular N� 158, de 1976 � Oficio N� 21, de 1996.- Word Determinaci�n del Valor de Costo en la Enajenaci�n de la Nuda Propiedad. (Ord. N� 3.604, de 29.07.2004) Renta…
+Word Determinaci�n del Valor de Costo en la Enajenaci�n de la Nuda Propiedad. (Ord. N� 3.604, de 29.07.2004)
 
 ## Referencias detectadas
 

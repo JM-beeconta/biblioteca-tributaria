@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ual es accionista. (Ord. N� 2872, de 09.08.2002) Ley sobre Impuesto a la Renta � Art. 18 quater LIR y art.17 D.L. N� 1.328, de 1976 Word Valoraci�n de las cuotas de fondos mutuos para los efectos de su rescate. (Ord. N� 2871, de 09.08.2002) Ley sobre Impuesto a la Renta � Leyes N�s. 19.622, de 1999 y 19.747, de 2001 Word Condiciones bajo las cuales se mantiene el beneficio tributario de Ley N� 19.622, en el caso de la renegociaci�n de cr�ditos hipotecarios en virtud de la Ley N� 19.747, de 2001. (Ord. N� 2844, de…
+Word Condiciones bajo las cuales se mantiene el beneficio tributario de Ley N� 19.622, en el caso de la renegociaci�n de cr�ditos hipotecarios en virtud de la Ley N� 19.747, de 2001. (Ord. N� 2844, de 05.08.2002)
 
 ## Referencias detectadas
 

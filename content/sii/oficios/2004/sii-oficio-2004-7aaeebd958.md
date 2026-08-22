@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-20
+- Fecha: 2004-07-23
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja792.htm
 - Hash SHA-256: 92bb6a33566b381edbb792924b49a9d4bf4f578962642502c64bf6e0b3be767c
 
 ## Resumen
 
-rial" size="2">(Ord. N� 3.602, de 28.07.2004) Herencia, Asignaciones y Donaciones � Impuesto a la � Ley N� 16.271 � C�digo Civil, Art. 1.398� � Resoluci�n N� 125, de 2004. Word Solicita pronunciamiento respecto de la Aplicaci�n del Impuesto a las Asignaciones, Herencias y Donaciones, respecto de las transferencias que indica. (Ord. N� 3.532, de 23.07.2004) Herencia, Asignaciones y Donaciones � Impuesto a la � Ley N� 16.271 � Decreto Ley N� 359, Art. 5�. Word Solicita Reconsideraci�n de lo resuelto por �ste Servici…
+23.07.2004) Herencia, Asignaciones y Donaciones � Impuesto a la � Ley N� 16.271 � Decreto Ley N� 359, Art. 5�.
 
 ## Referencias detectadas
 

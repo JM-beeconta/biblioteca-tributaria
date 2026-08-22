@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-20
+- Fecha: 2004-07-12
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja770.htm
 - Hash SHA-256: 4fadad894a7cd510cdb9c9a8cd0d5f4d3e07213b16eec136a44b01424b278bca
 
 ## Resumen
 
-nueva Sociedad. (Ord. N�3.469, de 20.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 14�, Letra A, N� 3, letra d), Art. 17�, N� 7 y N� 8, Art. 57� bis, Art. 41� B � Word Situaci�n Tributaria de Repatriaci�n de capital Invertido en el Extranjero. (Ord. N� 3.422, de 14.07.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 41� D, Art. 58�, N� 2, Art. 63�, Art. 41� C, Art. 41� B � C�digo Tributario, Art. N� 68�, Art. 165� � Ley N� 18.046, Art. 87� � Circular N� 43, de 2003. (Ord. N� 2.958, de 12.07.2004) Word…
+Renta � Actual Ley Sobre Impuesto a la � Art. 41� D, Art. 58�, N� 2, Art. 63�, Art. 41� C, Art. 41� B � C�digo Tributario, Art. N� 68�, Art. 165� � Ley N� 18.046, Art. 87� � Circular N� 43, de 2003. (Ord. N� 2.958, de 12.07.2004)
 
 ## Referencias detectadas
 

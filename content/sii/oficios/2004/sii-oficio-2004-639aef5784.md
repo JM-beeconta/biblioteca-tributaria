@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-04-13
+- Fecha: 2004-04-08
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja704.htm
 - Hash SHA-256: 328c44adca93e02e38d5834133578716e1a9a214398e29fdeb2dc6ccb95c3cbb
 
 ## Resumen
 
-Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�2, Art. 8� � Ley de la Renta, Art. 59�, N�5, inc. 4�, Art. 20�, N�3 � C�digo de Comercio, Art. 3�, N� 16 �Decreto Ley N� 3.059, Art. 3�, Art. 6� � Circular N� 53, de 1985. (Ord. N�1.739, de 13.04.2004) Word Tributaci�n de Servicios de Cabotaje realizados por empresa Nacional tanto en naves de bandera Chilena como extranjera. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�1, Art. 8�, Letra m). (Ord. N� 1…
+Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 2�, N�1, Art. 8�, Letra m). (Ord. N� 1.664, de 08.04.2004.)
 
 ## Referencias detectadas
 

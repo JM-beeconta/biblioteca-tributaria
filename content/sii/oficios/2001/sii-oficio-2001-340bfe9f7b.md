@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-15
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja206.htm
 - Hash SHA-256: 851cb93c06c41490764e714fd7b639d8793215b164aeeb594dcfe3dcf289ff85
 
 ## Resumen
 
-> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 3� y Art. 52� - Convencion Sobre Prerrogativas E Inmunidades de las Naciones Unidas y sus Organismos Dependientes, Art. Ii, Seccion 7� Letra a) � D. L. N� 1051, de 1975, Articulo Unico. Word IVA en Venta de Software Efectuada por el Centro Latinoamericano y Caribe�o de Demograf�a. (Of. N� 2027, de 15.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 18� Inciso 1�, Art. 55� Inciso 8� - Ley de l…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N� 2�, Art. 8�, Art. 18� Inciso 1�, Art. 55� Inciso 8� - Ley de la Renta, Art. 30�, Art. 31� - Circular N� 103, de 1979.
 
 ## Referencias detectadas
 

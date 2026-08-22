@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4755
 - Año: 2002
-- Fecha: 2002-12-26
+- Fecha: 2002-12-23
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja416.doc
 - Hash SHA-256: a23d6764bb9cafc6d32ca4d0b4a9745c5fd7dd3da3157367e8e114230b1246d9
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 4763 de 26 de Diciembre de 2002. Word Aplicaci�n del art�culo 8� letra m) del D.L. N� 825, a la venta de un cami�n que efect�a un empresario unipersonal del transporte. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4755 de 23 de Diciembre de 2002. Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de administraci�n y provisi�n de personal. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4736 de 20 de Diciembre de 2002. Word - Procedencia de…
+Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de administraci�n y provisi�n de personal.
 
 ## Referencias detectadas
 

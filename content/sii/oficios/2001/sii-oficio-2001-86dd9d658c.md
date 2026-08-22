@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-03-08
+- Fecha: 2001-02-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja889.htm
 - Hash SHA-256: 82c26aad030a9cffeebecd1a2af520cd5a3abfc26c190a4134b9d89f21e3e884
 
 ## Resumen
 
-precio de productos hidrobiol�gicos, por condiciones de calidad o cantidad y cuya adquisici�n se encuentra documentada con factura de compra. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 945, de 08.03.2001) Word IVA, en contrato para el suministro de personal, para servicios determinados. Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 889, de 28.02.2001) Word Tributaci�n con el Impuesto al Valor Agregado e…
+Ventas y Servicios � Nuevo Texto � Actual Ley sobre Impuesto a las � Art. 2�, N�2, Art. 8�. (Ord. N� 889, de 28.02.2001)
 
 ## Referencias detectadas
 

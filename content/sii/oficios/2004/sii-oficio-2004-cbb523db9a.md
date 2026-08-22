@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mento D.L. N� 825, de 1974, Art. 73� � Circular N� 126, de 1977. (Ord. N� 4.845 de 28.10.2004) Word Aplicaci�n desimpuesto al Valor Agregado establecido en el Art�culo 8�, del D.L. N� 825, en relaci�n al Art�culo 2�, N�2 de la citada ley a Servicios de Gesti�n y Administraci�n de una Universidad. Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 8�, Art. 3�� C�digo Tributario, Art. 6�. (Ord. N� 4.840 de 28.10.2004) Word Art�culo 3�, del D.L., N� 825 de, 1974. Impuesto al Valor Agregado en A…
+Word Art�culo 3�, del D.L., N� 825 de, 1974. Impuesto al Valor Agregado en Actividades Ben�ficas de las Organizaciones sin Fines de Lucro.
 
 ## Referencias detectadas
 

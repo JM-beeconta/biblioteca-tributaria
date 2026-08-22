@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-05-31
+- Fecha: 2004-05-27
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja741.htm
 - Hash SHA-256: 98f65e99c5112a776901c7066607e390f71c6d65475c6898c94adfba7f64b6ce
 
 ## Resumen
 
-Renta � Actual Ley Sobre Impuesto a la � Art. 42� ter � Ley N� 19.768, Art. 6�, transitorio � D.L. N� 3500, de 1980, Art. 98�� Circular N� 23, de 2002. Word Tributaci�n que afecta a Afiliados que hicieron Retiros de Excedentes de Libre Disposici�n (ELD), antes de la Publicaci�n de la Ley N� 19.768, de 2001. (Ord. N� 2.487, de 31.05.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 42�, N� 1 � C�digo Tributario, Art. 64� � D.L. N� 825, de 1974, Art. 8�, letra m). Word Tributaci�n que afecta al ben…
+Renta � Actual Ley Sobre Impuesto a la � Art. 20�, N� 5, Art. 42�, N� 1 � C�digo Tributario, Art. 64� � D.L. N� 825, de 1974, Art. 8�, letra m).
 
 ## Referencias detectadas
 

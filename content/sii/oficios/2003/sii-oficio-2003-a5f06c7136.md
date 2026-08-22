@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-01-27
+- Fecha: 2003-01-21
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja444.doc
 - Hash SHA-256: 0d6a2ff348d00f8ee104f77d19ea136bacd5586638d378770690aa4be5977520
 
 ## Resumen
 
-as pagadas en conformidad a un contrato de transacci�n y finiquito. (Ord. N� 329, de 27.01.2003) Ley sobre Impuesto a la Renta � Art. 17 N� 17 Word Situaci�n tributaria de pensiones y fondos de jubilaci�n obtenidos en el exterior. (Ord. N� 327, de 27.01.2003) Ley sobre Impuesto a la Renta � Art. 10 Ley N� 18.392, de 1985 Word El Servicio de Impuestos Internos carece de competencia para pronunciarse acerca del requisito de integraci�n y sobre bonificaci�n establecida en el art�culo 10 de la Ley N� 18.392, de 1985.…
+Word El Servicio de Impuestos Internos carece de competencia para pronunciarse acerca del requisito de integraci�n y sobre bonificaci�n establecida en el art�culo 10 de la Ley N� 18.392, de 1985. (Ord. N� 259, de 21.01.2003)
 
 ## Referencias detectadas
 

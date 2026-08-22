@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-05-23
+- Fecha: 2001-01-01
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja190.htm
 - Hash SHA-256: 18d7c349be8761f12c8487e02695717ed74328f12441a5362118348f7644c54a
 
 ## Resumen
 
-nt> Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 2� N�1� y 3�, Art. 8� Letras B) y C) - Ley de la Renta, Art. 5�, Art. 38� Bis. Word Tributaci�n con el Impuesto a la Renta E Impuesto al Valor Agregado, que Afectar�a a una Sucesi�n, con Ocasi�n del T�rmino de Giro de Un Contribuyente Fallecido, E Inicio de Actividades por Parte de la Misma. (Of. N� 2305, de 23.05.2001 � I. Indirectos) Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 64� Inciso 4� - Circular N� 26�, de 1980 � Circular N�…
+Ventas y Servicios � Nuevo Texto � Ley Impuesto a las � Art. 64� Inciso 4� - Circular N� 26�, de 1980 � Circular N� 44, de 1988.
 
 ## Referencias detectadas
 

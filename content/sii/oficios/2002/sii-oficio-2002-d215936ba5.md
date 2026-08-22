@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ulo 3� transitorio de la Ley N� 19.753, de 2001. (Ord. N� 2969, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 74 N� 4 Word Situaci�n tributaria de reinversi�n de utilidades en el caso de inversionistas extranjeros. (Ord. N� 2968, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 18 LIR y Circular N� 158, de 1976 de 1978 Word Informa sobre vigencia de instrucciones contenidas en Circular N� 158, de 1976. (Ord. N� 2967, de 20.08.2002) Ley sobre Impuesto a la Renta � Art. 17 N� 2 D.L. N� 824, de 1974 y Art. 5…
+Word Informa sobre vigencia de instrucciones contenidas en Circular N� 158, de 1976. (Ord. N� 2967, de 20.08.2002)
 
 ## Referencias detectadas
 

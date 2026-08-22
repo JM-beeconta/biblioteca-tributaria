@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rios otorgados por Cajas de Compensaci�n. Imposibilidad del SII de divulgar fuente o cuant�a de rentas de contribuyentes. (Ord. N� 737, de 05.03.2003) Ley sobre Impuesto a la Renta � Art. 53 LIR y Ley N� 16.271 y Art�culo 772 del C�digo Civil Word Consultas sobre usufructo a t�tulo gratuito sobre acciones concedido a padres de un contribuyente. (Ord. N� 736, de 05.03.2003) Ley de Impuesto a la Renta. Art�culos 17� N� 8, letra a) Costo de adquisici�n de acciones adquiridas en virtud de cesi�n de derechos hereditari…
+N� 736, de 05.03.2003) Ley de Impuesto a la Renta. Art�culos 17� N� 8, letra a) Costo de adquisici�n de acciones adquiridas en virtud de cesi�n de derechos hereditarios. ( Ordinario N� 735, de 05.03.2003)
 
 ## Referencias detectadas
 

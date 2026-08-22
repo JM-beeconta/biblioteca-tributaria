@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-08-04
+- Fecha: 2004-09-06
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja811.doc
 - Hash SHA-256: 7d92dfb89d48bdd94bdc146c9f2ffa1257bd979b3963bd3f193d321bf3fe62f2
 
 ## Resumen
 
-Art. 97�, N� 24 � C�digo Civil, Art. 1.386�, Art. 1.417�, Art. 1.422�, Art. 1.404�, Art. 1.423�. Word Alcance de la expresi�n �en tanto la donaci�n no se hubiere utilizado �ntegramente por la instituci�n donataria�, Contenida en el Art�culo 11�, de la Ley N� 19.885, de 2003. (Ord. N� 3.700, de 04.08.2004) Timbres Y Estampillas � Nuevo Texto � Ley Sobre Impuestos de � Art. 1�, N� 3, Art. 14�, Art. 24�. Word Impuesto de Timbres y Estampillas, aplicable a Pagar� Protestado ( Ord. N� 4.200, de 06.09.2004) Timbres Y Es…
+Word Impuesto de Timbres y Estampillas, aplicable a Pagar� Protestado ( Ord. N� 4.200, de 06.09.2004)
 
 ## Referencias detectadas
 

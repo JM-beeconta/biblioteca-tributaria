@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a por la Ley N� 19.738, en la letra m) del art�culo 8� del D.L. N� 825, de 1974, en relaci�n con la compraventa de veh�culos usados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3030 de 26 de Agosto de 2002. Word Impuesto al valor agregado que afecta al estacionamiento de veh�culos en un piso destinado a dicho fin en un edificio de oficinas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 3029 de 26 de Agosto de 2002. Word Consulta acerca de si las ventas en Zona Franca a clientes que formulan ofertas d…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 3029 de 26 de Agosto de 2002.
 
 ## Referencias detectadas
 

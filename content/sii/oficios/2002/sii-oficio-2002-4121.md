@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4121
 - Año: 2002
-- Fecha: 2002-11-11
+- Fecha: 2002-08-28
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja396.doc
 - Hash SHA-256: 55f36b42bde68c3464bde4da9088f64834e91c9812583463b35ecf39dd003b8e
 
 ## Resumen
 
-asos que indica. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4122, de 11 de Noviembre de 2002.- Word Tributaci�n aplicable al contrato de handling de combustible importado a trav�s de la Zona Franca de Iquique. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4121 de 11 de Noviembre de 2002. Word Solicita reconsideraci�n del Oficio N� 3074, del 28 de Agosto del 2002. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4120 de 11 de Noviembre de 2002. Word Procedencia del Impuesto al Valor Agregado en co…
+Word Solicita reconsideraci�n del Oficio N� 3074, del 28 de Agosto del 2002.
 
 ## Referencias detectadas
 

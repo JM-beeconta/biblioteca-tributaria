@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-03-22
+- Fecha: 2004-03-11
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja711.doc
 - Hash SHA-256: 3526217bc59f236fd59c48c447be6c0ee49f630b57c1d4a0a9db46ed58acfcaa
 
 ## Resumen
 
-revisionales efectuados a los trabajadores t�cnicos extranjeros. ( Ordinario N� 1374, de 22 de Marzo 2004) Renta � Actual Ley Sobre Impuesto a la � Ley N� 18.985, de 1990, Art. 5�, transitorio, letra d). Word Vigencia de Tasaci�n de predio agr�cola efectuada en conformidad a lo dispuesto por el art�culo 5� transitorio de la Ley N� 18.985, de 1990. (Ord. N� 1.216, de 11.03.2004) Ley sobre Impuesto a la Renta � Arts. 14 y 39 N� 4 LIR Word Tributaci�n de intereses percibidos por sociedad que tributa en base a un sist…
+Word Vigencia de Tasaci�n de predio agr�cola efectuada en conformidad a lo dispuesto por el art�culo 5� transitorio de la Ley N� 18.985, de 1990. (Ord. N� 1.216, de 11.03.2004)
 
 ## Referencias detectadas
 

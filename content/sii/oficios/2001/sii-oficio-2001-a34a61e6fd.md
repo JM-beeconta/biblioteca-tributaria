@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2001
-- Fecha: 2001-02-12
+- Fecha: 2001-01-01
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja153.htm
 - Hash SHA-256: a947c35c09f7f664f441acaebecca843fbc5c52f5f99a0e2073a04dfcc2a386b
 
 ## Resumen
 
-a/ja155.doc'>Word Aplicaci�n del Art. 17� N� 22, de la Ley de la Renta a la Situaci�n de Quiebra a que se Refiere el Art. 191� de la Ley N� 18.175. (Of. N� 675, de 12.02.2001 � I. Directos) Renta � Actual Ley Sobre Impuesto a la - Art. 17� N�9. Word Tributaci�n que Afecta a las Ofrendas Religiosas. (Of. N� 316, de 22.01.2001 � I. Directos) Renta - Actual Ley Sobre Impuesto a la - Art. 14�, Art. 21� - Codigo Tributario, Art. 8� N� 13�, Art. 69� - Circular N� 17�, de 1995. Word Efectos Tributarios de la Transformaci…
+Renta - Actual Ley Sobre Impuesto a la - Art. 14�, Art. 21� - Codigo Tributario, Art. 8� N� 13�, Art. 69� - Circular N� 17�, de 1995.
 
 ## Referencias detectadas
 

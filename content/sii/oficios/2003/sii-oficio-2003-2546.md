@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 2546
 - Año: 2003
-- Fecha: 2003-05-29
+- Fecha: 2003-05-27
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja502.doc
 - Hash SHA-256: 2966d6839004393972a84fcef1b5da4399a6926336e53df55566fca1e4a7ffe0
 
 ## Resumen
 
-size='1'> Ley de Impuesto a las Ventas y Servicios. Oficio N� 2574 de 29 de Mayo de 2003. Word Utilizaci�n del cr�dito fiscal generado en la construcci�n de un local comercial sobre terrenos arrendados y que posteriormente son subarrendados. Ley de Impuesto a las Ventas y Servicios. Oficio N� 2546 de 27 de Mayo de 2003. Word Tributaci�n en la transacci�n de veh�culos �hechizos�, destinados al transporte terrestre de carga y en la importaci�n de conjuntos, partes o piezas, de veh�culos semiterminados, para la armad…
+Word Tributaci�n en la transacci�n de veh�culos �hechizos�, destinados al transporte terrestre de carga y en la importaci�n de conjuntos, partes o piezas, de veh�culos semiterminados, para la armadur�a o ensamblaje en el pa�s.
 
 ## Referencias detectadas
 

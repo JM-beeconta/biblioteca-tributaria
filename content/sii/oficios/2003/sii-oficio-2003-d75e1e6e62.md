@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-09-11
+- Fecha: 2003-09-09
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja557.htm
 - Hash SHA-256: c037d9370766748c9b22362421deb794a5140731566e862b5e7ffed011b9c3ac
 
 ## Resumen
 
-aci�n con IVA, a la entrega de fondos por parte de una sociedad en comandita por acciones a la sociedad gestora. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4492 de 11 de Septiembre de 2003.- Word IVA en los servicios de inspecci�n y certificaci�n de instalaciones interiores de gas de viviendas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 4454 de 09 de Septiembre de 2003. Word Exenci�n de impuestos contenida en el art�culo VI del Tratado de Paz, Amistad y Comercio suscrito entre el Gobierno de Chil…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 4454 de 09 de Septiembre de 2003.
 
 ## Referencias detectadas
 

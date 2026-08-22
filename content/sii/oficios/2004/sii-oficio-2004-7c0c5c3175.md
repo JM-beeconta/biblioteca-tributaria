@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Renta � Actual Ley Sobre Impuesto a la � Art. 41�� D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980 � Circular N� 100, de 1975. Word Tratamiento Tributario de la Provisi�n de Impuesto a la Renta frente a la Determinaci�n del Capital Propio a que se refiere el N�1, del Art�culo 41�, de la Ley de la Renta. (Oficio N� 5.061, de 17.11.2004) Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�s 1 y 2, Art. 43�, N�s 1 y 2, Art. 74�, N� 2 � D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980. Word Tributaci�n que Afecta a las Remu…
+Renta � Actual Ley Sobre Impuesto a la � Art. 42�, N�s 1 y 2, Art. 43�, N�s 1 y 2, Art. 74�, N� 2 � D.L. N� 830, de 1974 � D.F.L. N� 7, de 1980.
 
 ## Referencias detectadas
 

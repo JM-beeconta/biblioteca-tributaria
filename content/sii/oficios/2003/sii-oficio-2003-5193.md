@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 5193
 - Año: 2003
-- Fecha: 2003-10-14
+- Fecha: 2003-10-10
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja576.doc
 - Hash SHA-256: 1be974af1b323481de6c8985816ce8163647464d329b92af5973b2e64b456adf
 
 ## Resumen
 
-icios. Oficio N� 5228 de 14 de Octubre de 2003.- Word Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte fiscal libre.�Acerca de la aplicaci�n de la proporcionalidad del cr�dito fiscal del IVA, a instituciones que perciben del Estado el �aporte fiscal libre.� Ley de Impuesto a las Ventas y Servicios. Oficio N� 5193 de 10 de Octubre de 2003.- Word Aplicaci�n del art�culo 29�, de la Ley N� 18.591, a anticipo de IVA, facturado a contribuyente…
+Word Aplicaci�n del art�culo 29�, de la Ley N� 18.591, a anticipo de IVA, facturado a contribuyente declarado en quiebra.
 
 ## Referencias detectadas
 

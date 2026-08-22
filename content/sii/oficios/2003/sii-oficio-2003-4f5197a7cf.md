@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-02-14
+- Fecha: 2003-01-24
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja440.htm
 - Hash SHA-256: f7281df1d0b463896f0e58efceca5a6d22b243a45f2516eefd1467a93601f075
 
 ## Resumen
 
-escuento de letra de cambio. ( Oficio N� 564, de 14 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Consulta sobre alcance de la exenci�n contemplada en el articulo 24� N� 11 de la Ley sobre Impuesto de Timbres y Estampillas. ( Oficio N� 544, de 12 de Febrero de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas. Word Exenci�n del Impuesto de Timbres y Estampillas establecida en el articulo 24 N� 17, del D.L. N� 3.475, de 1980.- ( Oficio N� 325, de 2…
+ro de 2003). Decreto Ley N� 3.475, de 1980, Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 

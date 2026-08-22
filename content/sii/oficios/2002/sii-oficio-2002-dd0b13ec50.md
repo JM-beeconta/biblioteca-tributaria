@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2002
-- Fecha: 2002-04-26
+- Fecha: 2002-04-19
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja275.doc
 - Hash SHA-256: aa5cb570eac034f6371555add3d1c3df60438d08db1adb2754b03bf611ae8fca
 
 ## Resumen
 
-55 bis de la Ley de la Renta. (Ord. N� 1384, de 26.04.2002) Ley sobre Impuesto a la Renta � art. 18 ter. Word Situaci�n tributaria de acciones adquiridas hasta el 19.04.2001, de acuerdo a lo dispuesto por el art�culo 2� transitorio de la Ley N� 19.768, de 2001. (Ord. N� 1383, de 26.04.2002) Ley sobre Impuesto a la Renta � art. 55 bis. Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1299, de 19.04.2002) Ley sobre Impuesto a la Renta � arts. 43 N� 1…
+Word Condiciones bajo las cuales opera el beneficio tributario del art�culo 55 bis de la Ley de la Renta. (Ord. N� 1299, de 19.04.2002)
 
 ## Referencias detectadas
 

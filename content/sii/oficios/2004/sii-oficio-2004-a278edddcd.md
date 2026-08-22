@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2004
-- Fecha: 2004-07-09
+- Fecha: 2004-07-02
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja763.doc
 - Hash SHA-256: 1946410979d3fbd748124993879ec59ac23c708c7d21d90059ff93ce4c39a191
 
 ## Resumen
 
-e 1980 y 29, de 1978 � Res. Ex. N� 2.192, de 1996. (Ord. N�2.955, de 09.07.2004) Word Solicita aclaraci�n del Oficio N�2.608, de 30.06.2000, en relaci�n con el Impuesto al Tabaco Manufacturado, en el caso de las Importaciones Ventas y Servicios � Nuevo Texto � Actual Ley Sobre Impuesto a las � Art. 21�, N�2, Art.25� � D.S. N� 55, de 1977, Art. 69�, letra A, N�1 � Art. 39� � C�digo Tributario, Art. 97, N� 16. (Ord. N�2.845, de 02.07.2004) Word Utilizaci�n del Cr�dito Fiscal en caso de Extrav�o del Original de las F…
+Word Utilizaci�n del Cr�dito Fiscal en caso de Extrav�o del Original de las Facturas
 
 ## Referencias detectadas
 

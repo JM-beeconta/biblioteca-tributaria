@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: N/A
 - Año: 2003
-- Fecha: 2003-10-21
+- Fecha: 2003-10-16
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja593.htm
 - Hash SHA-256: ebb4872e6a218eddcaf8c788b643466c13fd8f4eaad9e6b93cdb9611b0b3974c
 
 ## Resumen
 
-o al Valor Agregado aplicable a las remuneraciones obtenidas por una empresa administradora de cementerios parques. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5290 de 21 de Octubre de 2003.- Word Aplicaci�n del Impuesto al Valor Agregado a los servicios de gesti�n de funciones administrativas. Ley de Impuesto a las Ventas y Servicios. Oficio N� 5264 de 16 de Octubre de 2003.- Word No se encuentra gravado con IVA, el servicio de cobranza y recaudaci�n de primas de seguros contratados por terceros. Ley de I…
+Ley de Impuesto a las Ventas y Servicios. Oficio N� 5264 de 16 de Octubre de 2003.-
 
 ## Referencias detectadas
 
