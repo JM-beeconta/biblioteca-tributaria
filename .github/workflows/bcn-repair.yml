@@ -32,33 +32,42 @@ jobs:
       - name: Exportar LeyChile
         run: node scripts/export-bcn.mjs --out=.bcn-output
 
-      - name: Validar contenido legal
-        run: |
-          node <<'NODE'
-          const fs=require('fs');
-          const docs=JSON.parse(fs.readFileSync('.bcn-output/docs.json','utf8'));
-          const article31=docs.find(d=>d.type==='articulo'&&d.norm_code==='LIR'&&String(d.article)==='31');
-          const historical=docs.filter(d=>d.historical_version);
-          if(docs.length<100) throw new Error(`BCN insuficiente: ${docs.length} registros`);
-          if(!article31) throw new Error('No se encontró Artículo 31 LIR');
-          if(!historical.length) throw new Error('No se detectaron versiones históricas de LeyChile');
-          console.log(`BCN OK: ${docs.length} registros, ${historical.length} históricos, Art. 31 LIR presente.`);
-          NODE
-
-      - name: Fusionar BCN validado
+      - name: Validar, diagnosticar y fusionar
         shell: bash
         run: |
+          set -euo pipefail
+          VALID=$(node <<'NODE'
+          const fs=require('fs');
+          const docs=JSON.parse(fs.readFileSync('.bcn-output/docs.json','utf8'));
+          const article31=docs.some(d=>d.type==='articulo'&&d.norm_code==='LIR'&&String(d.article)==='31');
+          const historical=docs.filter(d=>d.historical_version).length;
+          process.stdout.write(String(docs.length>=100 && article31 && historical>0));
+          NODE
+          )
+
           git fetch origin main
           git checkout -B main origin/main
-          node scripts/merge-range.mjs --input=.bcn-output --range=BCN --total=14
-          node <<'NODE'
+          mkdir -p data/diagnostics
+          cp .bcn-output/stats.json data/diagnostics/bcn-repair.json
+
+          if [ "$VALID" = "true" ]; then
+            node scripts/merge-range.mjs --input=.bcn-output --range=BCN --total=14
+            STATUS=completed
+            MESSAGE="chore: reparar base legal BCN con artículos y versiones"
+          else
+            STATUS=failed
+            MESSAGE="chore: registrar diagnóstico fallido de BCN"
+          fi
+
+          STATUS="$STATUS" node <<'NODE'
           const fs=require('fs');
-          const marker={status:'completed',completed_at:new Date().toISOString()};
+          const marker={status:process.env.STATUS,updated_at:new Date().toISOString()};
           fs.writeFileSync('.bcn-repair-request',JSON.stringify(marker,null,2)+'\n');
           NODE
+
           git config user.name "beeconta-library-bot"
           git config user.email "actions@users.noreply.github.com"
           git add -A data content .bcn-repair-request
-          git commit -m "chore: reparar base legal BCN con artículos y versiones" || true
+          git commit -m "$MESSAGE" || true
           git pull --rebase origin main
           git push
