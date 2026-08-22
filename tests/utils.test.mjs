@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { extractAnchors, extractReferences, inferDate, stripHtml } from '../lib/utils.mjs';
+import { decodeBuffer, extractAnchors, extractReferences, inferDate, stripHtml } from '../lib/utils.mjs';
 import { splitArticlesForTests } from '../lib/bcn.mjs';
 
 test('extrae links y contexto de un índice SII', () => {
@@ -30,4 +30,9 @@ test('separa artículos BCN', () => {
 
 test('limpia HTML básico', () => {
   assert.equal(stripHtml('<p>Hola&nbsp;Chile</p><p>IVA</p>'), 'Hola Chile\nIVA');
+});
+
+test('decodifica páginas antiguas Windows-1252', () => {
+  const bytes = Buffer.from([0x4f, 0x66, 0x69, 0x63, 0x69, 0x6f, 0x20, 0x4e, 0xba, 0x20, 0x31]);
+  assert.equal(decodeBuffer(bytes, 'text/html; charset=windows-1252'), 'Oficio Nº 1');
 });

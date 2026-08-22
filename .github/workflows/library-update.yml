@@ -1,0 +1,141 @@
+name: Actualizar Biblioteca Tributaria
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.bootstrap-full-history'
+      - '.github/workflows/library-update.yml'
+  schedule:
+    - cron: '17 6 * * 1'
+      timezone: 'America/Santiago'
+  workflow_dispatch:
+    inputs:
+      full_history:
+        description: 'Reprocesar historia completa desde 1974'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  # Comparte el grupo con la primera versión monolítica para cancelarla al arrancar este flujo.
+  group: biblioteca-tributaria
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Ejecutar tests
+        run: npm test
+
+      - name: Instalar extractor PDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Configurar identidad del bot
+        run: |
+          git config user.name "beeconta-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Determinar modo
+        id: mode
+        shell: bash
+        run: |
+          if [ -f .bootstrap-full-history ] || { [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full_history }}" = "true" ]; }; then
+            echo "value=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=weekly" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Actualización semanal
+        if: steps.mode.outputs.value == 'weekly'
+        shell: bash
+        run: |
+          node scripts/update.mjs --weekly
+          if ! git diff --quiet -- data content; then
+            git add data content
+            git commit -m "chore: actualización semanal SII y BCN"
+            git push
+          fi
+
+      - name: Backfill histórico con checkpoints
+        if: steps.mode.outputs.value == 'full'
+        shell: bash
+        run: |
+          set -euo pipefail
+          CURRENT_YEAR=$(date +%Y)
+          MIN_YEAR=1974
+          CHUNK=4
+
+          if [ -f .bootstrap-state.json ]; then
+            NEXT_TO=$(node -e "const s=require('./.bootstrap-state.json'); console.log(s.next_to)")
+          else
+            NEXT_TO=$CURRENT_YEAR
+          fi
+
+          FIRST=1
+          while [ "$NEXT_TO" -ge "$MIN_YEAR" ]; do
+            HI=$NEXT_TO
+            LO=$((HI - CHUNK + 1))
+            if [ "$LO" -lt "$MIN_YEAR" ]; then LO=$MIN_YEAR; fi
+
+            echo "Procesando tramo SII $LO-$HI"
+            if [ "$FIRST" -eq 1 ]; then
+              node scripts/update.mjs --from="$LO" --to="$HI"
+              FIRST=0
+            else
+              node scripts/update.mjs --from="$LO" --to="$HI" --skip-bcn
+            fi
+
+            NEXT_TO=$((LO - 1))
+            printf '{\n  "next_to": %s,\n  "min_year": %s,\n  "chunk": %s\n}\n' "$NEXT_TO" "$MIN_YEAR" "$CHUNK" > .bootstrap-state.json
+
+            git add data content .bootstrap-state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: backfill tributario $LO-$HI"
+              git push
+            fi
+          done
+
+          rm -f .bootstrap-full-history .bootstrap-state.json
+          git add -A .bootstrap-full-history .bootstrap-state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: completar backfill histórico"
+            git push
+          fi
+
+      - name: Construir sitio actualizado
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: update
+    steps:
+      - name: Publicar biblioteca actualizada
+        id: deployment
+        uses: actions/deploy-pages@v4

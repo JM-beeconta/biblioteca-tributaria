@@ -13,6 +13,13 @@ async function readJson(file, fallback) {
   try { return JSON.parse(await fs.readFile(file, 'utf8')); } catch { return fallback; }
 }
 
+function argNumber(name) {
+  const arg = process.argv.find((value) => value.startsWith(`--${name}=`));
+  if (!arg) return null;
+  const value = Number(arg.split('=')[1]);
+  return Number.isInteger(value) ? value : null;
+}
+
 const existing = await readJson(DATA_FILE, []);
 const byId = new Map(existing.map((doc) => [doc.id, doc]));
 const bySourceUrl = new Map(existing.map((doc) => [doc.source_url, doc]));
@@ -41,18 +48,33 @@ async function onDocument(doc, body) {
   await fs.writeFile(target, markdownDocument(merged, body), 'utf8');
 }
 
-const requestedFull = process.argv.includes('--full');
-const firstRun = existing.length < 20;
-const full = requestedFull || firstRun;
 const now = new Date();
 const currentYear = now.getFullYear();
 const minYear = 1974;
-const years = full
-  ? Array.from({ length: currentYear - minYear + 1 }, (_, i) => currentYear - i)
-  : [currentYear, currentYear - 1];
+const requestedFull = process.argv.includes('--full');
+const requestedWeekly = process.argv.includes('--weekly');
+const skipBcn = process.argv.includes('--skip-bcn');
+const fromArg = argNumber('from');
+const toArg = argNumber('to');
 
-console.log(`Modo: ${full ? 'carga histórica' : 'actualización semanal'}`);
-await crawlBcn({ onDocument });
+let years;
+let mode;
+if (fromArg && toArg) {
+  const hi = Math.min(currentYear, Math.max(fromArg, toArg));
+  const lo = Math.max(minYear, Math.min(fromArg, toArg));
+  years = Array.from({ length: hi - lo + 1 }, (_, i) => hi - i);
+  mode = `range:${lo}-${hi}`;
+} else if (requestedFull) {
+  years = Array.from({ length: currentYear - minYear + 1 }, (_, i) => currentYear - i);
+  mode = 'full';
+} else {
+  years = [currentYear, currentYear - 1];
+  mode = requestedWeekly ? 'weekly' : 'weekly';
+}
+
+console.log(`Modo: ${mode}`);
+console.log(`Años SII: ${years.at(-1)}-${years[0]}`);
+if (!skipBcn) await crawlBcn({ onDocument });
 await crawlSii({ years, onDocument });
 
 const documents = [...byId.values()].sort((a, b) => {
@@ -69,7 +91,8 @@ await fs.writeFile(DATA_FILE, JSON.stringify(documents, null, 2) + '\n');
 await fs.writeFile(REL_FILE, JSON.stringify(relations, null, 2) + '\n');
 await fs.writeFile(META_FILE, JSON.stringify({
   generated_at: new Date().toISOString(),
-  mode: full ? 'full' : 'weekly',
+  mode,
+  years,
   total_documents: documents.length,
   touched_documents: touched.size,
   sources: ['SII', 'BCN'],
