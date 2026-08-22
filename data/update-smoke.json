@@ -1,17 +1,20 @@
 {
-  "checked_at": "2026-08-22T01:11:41.600Z",
-  "ingest_outcome": "cancelled",
-  "total_documents": 4,
-  "documents_2026": 1,
-  "oficios_2026": 0,
-  "circulares_2026": 1,
-  "oficio_2111_found": false,
-  "oficio_2111_format": null,
+  "checked_at": "2026-08-22T01:15:31.588Z",
+  "ingest_outcome": "success",
+  "total_documents": 215,
+  "documents_2026": 212,
+  "oficios_2026": 178,
+  "circulares_2026": 34,
+  "oficio_2111_found": true,
+  "oficio_2111_format": "pdf",
   "meta": {
-    "generated_at": "2026-08-21T20:18:00-04:00",
-    "mode": "seed",
-    "total_documents": 4,
-    "touched_documents": 4,
+    "generated_at": "2026-08-22T01:15:31.522Z",
+    "mode": "range:2026-2026",
+    "years": [
+      2026
+    ],
+    "total_documents": 215,
+    "touched_documents": 215,
     "sources": [
       "SII",
       "BCN"

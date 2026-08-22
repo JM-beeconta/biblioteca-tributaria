@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-21T20:18:00-04:00",
-  "mode": "seed",
-  "total_documents": 4,
-  "touched_documents": 4,
-  "sources": ["SII", "BCN"],
-  "canonical_legal_sources": ["LIR", "LIVS", "CT"]
+  "generated_at": "2026-08-22T01:15:31.522Z",
+  "mode": "range:2026-2026",
+  "years": [
+    2026
+  ],
+  "total_documents": 215,
+  "touched_documents": 215,
+  "sources": [
+    "SII",
+    "BCN"
+  ],
+  "canonical_legal_sources": [
+    "LIR",
+    "LIVS",
+    "CT"
+  ]
 }
