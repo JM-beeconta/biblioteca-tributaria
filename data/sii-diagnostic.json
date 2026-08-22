@@ -2,6 +2,7 @@
   "pageUrl": "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2026/ley_impuesto_renta_jadm2026.htm",
   "pageStatus": 200,
   "htmlLength": 5697,
+  "formTag": "<form name=\"frm\" target=\"_blank\">",
   "listUrl": "https://www3.sii.cl/getPublicacionesCTByMateria",
   "listStatus": 200,
   "count": 78,
@@ -17,11 +18,12 @@
   },
   "downloadUrl": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo",
   "download": {
-    "status": 405,
-    "contentType": "text/html;charset=utf-8",
-    "contentDisposition": null,
-    "bytes": 1131,
-    "magic": "<html><head>",
+    "status": 200,
+    "finalUrl": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2111-19%2F08%2F2026.pdf&extension=pdf&acc=download&id=5f20917e-bd58-46ca-9c9d-1a329b777701&mediaType=application%2Fpdf",
+    "contentType": "application/octet-strem",
+    "contentDisposition": "attachment;filename=2111-19/08/2026.pdf",
+    "bytes": 102576,
+    "magic": "%PDF-1.7\r\n%µ",
     "filename": "2111-19/08/2026.pdf"
   }
 }
