@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2025
-- Fecha: 2025-08-25
+- Fecha: 2025-08-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso102.pdf
 - Hash SHA-256: 0d1f3c231b176553a88d766afe9b6f8c3da169ca4cd6d16650c04471a1fd1248
 
 ## Resumen
 
-oacute;n. Resolución Exenta SII N° 103 del 25 de Agosto del 2025 Forma de acreditar la exención de IVA en la importación de bienes de bajo valor a que se refiere el artículo 12 letra b) N° 18, del decreto ley N° 825 de 1974, adquiridos de, o por medio de, contribuyentes inscritos en el régimen de tributación simplificada. Fuente: Servicio de Impuestos Internos. Establece condiciones y términos de uso para que los órganos de la administración del estado que se indican, puedan solicitar e integrar la clave tributari…
+ente: Servicio de Impuestos Internos. Establece condiciones y términos de uso para que los órganos de la administración del estado que se indican, puedan solicitar e integrar la clave tributaria sii en su sitio web. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

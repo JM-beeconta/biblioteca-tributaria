@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 135
 - Año: 2023
-- Fecha: 2023-12-12
+- Fecha: 2023-12-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso135.pdf
 - Hash SHA-256: c3c6b528753f973635f8ac7b1a81952d458bd3ee79a4f48820a58573b28b29cc
 
 ## Resumen
 
-i>Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 136 del 12 de Diciembre del 2023 Reorganiza las unidades que conformarán el departamento subdirección de tecnologías de la información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 101, de 2019. Fuente: Subdirección de Informática. Establece forma y plazo en que las entidades acreedoras deben cumplir la obligación de informar a este servicio los créditos con garantía hipotecaria contratados para la adquisici…
+rección de Informática. Establece forma y plazo en que las entidades acreedoras deben cumplir la obligación de informar a este servicio los créditos con garantía hipotecaria contratados para la adquisición de viviendas nuevas que se han acogido al beneficio tributario a que refiere la Ley N° 21.631, y de certificar el monto de los dividendos a las personas naturales que han pagado dichas obligaciones. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

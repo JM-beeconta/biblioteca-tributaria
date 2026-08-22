@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2016
-- Fecha: 2016-06-22
+- Fecha: 2016-06-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso55.pdf
 - Hash SHA-256: 764f906e7f06b99be1907584c1016ca51f1be761a96ecbac7db5812e61540abb
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 56 del 22 de Junio del 2016 Incorpora y regula el uso de cédula RUT electrónica (e-RUT) Fuente: Subdirección de Asistencia al Contribuyente Modifica Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes emisores electrónicos, modificada por Resolucion Ex. SII N° 102, de fecha 04.11.2014. Fue…
+ncia al Contribuyente Modifica Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes emisores electrónicos, modificada por Resolucion Ex. SII N° 102, de fecha 04.11.2014. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

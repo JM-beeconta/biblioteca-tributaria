@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2014
-- Fecha: 2014-09-22
+- Fecha: 2014-09-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso92.pdf
 - Hash SHA-256: 3fccf86e01aea97ddb309806e8c61b5106150edeb2a8929e9569215ec4fc8138
 
 ## Resumen
 
-oacute;n Contraloría Interna Resolución Exenta SII N° 93 del 22 de Septiembre del 2014 Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 91 del 10 de Septiembre del 2014 Crea Oficina de Comunicaciones Corporativas en la Dirección Nacio…
+ueñas Empresas Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

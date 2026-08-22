@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2013
-- Fecha: 2013-01-09
+- Fecha: 2013-01-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso1.pdf
 - Hash SHA-256: e572adfd8821d87124cc1c3e524dec75ca81ae574b608209b9fc701e283116e2
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 02 del 09 de Enero del 2013 Modifica Resoluciones Exentas SII N° 114 de 21 de julio de 2010 y N°153 de 23 de diciembre de 2011. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 01 del 08 de Enero del 2013 Autoriza como receptor de documentos Tributarios Electrónicos al Organismo Público que se señala. Fuente: Atención y Asistencia de Contribuyentes. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var arc…
+te;n Jurídica. Resolución Exenta SII N° 01 del 08 de Enero del 2013 Autoriza como receptor de documentos Tributarios Electrónicos al Organismo Público que se señala. Fuente: Atención y Asistencia de Contribuyentes. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2013'); } els…
 
 ## Referencias detectadas
 

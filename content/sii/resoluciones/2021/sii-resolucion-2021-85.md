@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 86 del 23 de Julio del 2021 Establece procedimiento para presentar la declaración de renta o corregir la subdeclaración de ingresos, para los contribuyentes transportistas de pasajeros que indica. Fuente: Subdirección de Fiscalización. Instruye sobre el cumplimiento de la obligación del artículo 29 de la Ley N°16.271, sobre impuesto a las herencias, asignaciones y donaciones, que ordena a los conservadores remitir por medios electrónicos…
+cción de Fiscalización. Instruye sobre el cumplimiento de la obligación del artículo 29 de la Ley N°16.271, sobre impuesto a las herencias, asignaciones y donaciones, que ordena a los conservadores remitir por medios electrónicos las nóminas de las inscripciones de posesiones efectivas practicadas en el mes anterior. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

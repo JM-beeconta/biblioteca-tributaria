@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2022
-- Fecha: 2022-05-06
+- Fecha: 2022-05-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso40.pdf
 - Hash SHA-256: 8b253f26005bd4998084bd999fdf0980b4724e44ef9d24cd8a15bedd5d0b9e99
 
 ## Resumen
 
-s y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática. Resolución Exenta SII N° 41 del 06 de Mayo del 2022 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Establece la forma y procedimiento para hacer efectiva postergación del pago del impuesto al valor agregado, conforme al inciso tercero del artículo 64 de la ley sobre impuesto a las ventas y servicios. Deja sin efec…
+ute;n de Asistencia al Contribuyente. Establece la forma y procedimiento para hacer efectiva postergación del pago del impuesto al valor agregado, conforme al inciso tercero del artículo 64 de la ley sobre impuesto a las ventas y servicios. Deja sin efecto Resolución Ex. SII N° 110 de 2014. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

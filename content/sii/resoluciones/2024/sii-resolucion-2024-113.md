@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 114 del 05 de Diciembre del 2024 Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59&ordf; Asamblea General del CIAT. Fuente: Subdirección Normativa Término de giro simplificado, según lo dispuesto en el inciso octavo del artículo 69° del Código Tributario. Fuente: Subdirección de Asistenci…
+Fuente: Subdirección Normativa Término de giro simplificado, según lo dispuesto en el inciso octavo del artículo 69° del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2016
-- Fecha: 2016-10-20
+- Fecha: 2016-10-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso99.pdf
 - Hash SHA-256: 7084038131cd25d964bdeeb5eca8efbb6a2496610278148d548bd9892c15cf31
 
 ## Resumen
 
-pan> Resolución Exenta SII N° 100 del 20 de Octubre del 2016 Exime a Fundación Jóvenes por una América Solidaria de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señala. Fuente: Departamento de Operaciones Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 98 del 04 de Octubre del 2016 Delega facultad que indica Fu…
+amento de Operaciones Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

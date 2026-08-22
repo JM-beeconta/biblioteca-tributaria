@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2026
-- Fecha: 2026-06-03
+- Fecha: 2026-06-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso69.pdf
 - Hash SHA-256: 029ae140e3e03051942b5410cddf8317dd7247c0d9512a192f92e55026a6ea69
 
 ## Resumen
 
-ca y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 70 del 03 de Junio del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Habilita sistema para que contribuyentes sin domicilio ni residencia en chile que presten servicios de apuestas, juegos de azar, casinos y de servicios análogos o conexos, prestados en línea o a través…
+ute;n de Asistencia al Contribuyente. Habilita sistema para que contribuyentes sin domicilio ni residencia en chile que presten servicios de apuestas, juegos de azar, casinos y de servicios análogos o conexos, prestados en línea o a través de plataformas digitales, cumplan obligaciones tributarias que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

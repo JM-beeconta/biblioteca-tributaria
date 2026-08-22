@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 125
 - Año: 2023
-- Fecha: 2023-11-10
+- Fecha: 2023-11-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso125.pdf
 - Hash SHA-256: 7b4b0000fc0550288663f9be55e5906f2b7515c3f88b5ac632a8e198638026b7
 
 ## Resumen
 
-azo a través de internet. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 126 del 10 de Noviembre del 2023 Aprueba Norma General De Participacion Ciudadana Del Servicio De Impuestos Internos Y Deja Sin Efecto La Resolución Exenta Sii N° 33, De 2015. Fuente: Subdirección de Asuntos Corporativos. Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Trib…
+cción de Asuntos Corporativos. Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 123 del 18 de Octubre del 2023 Designa secretarios titular y suplente, en el tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Talca. Fuente: Subdirección Jurídica. Autoriza a Betterfly Chile spa, Rut N° 76.837.328-0, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asiste…
+Subdirección Jurídica. Autoriza a Betterfly Chile spa, Rut N° 76.837.328-0, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

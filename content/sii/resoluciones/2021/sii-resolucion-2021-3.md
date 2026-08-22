@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2021
-- Fecha: 2021-01-13
+- Fecha: 2021-01-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso3.pdf
 - Hash SHA-256: c7dc3e49d467b6b774d48d59b976c9a7c845c64a21c79d2f69dc015894893367
 
 ## Resumen
 
-arga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 04 del 13 de Enero del 2021 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 12 de Enero del 2021 Aprueba Convenio de Colaboración entre Ministerio De Desarrollo Social y Familia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estra…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 12 de Enero del 2021 Aprueba Convenio de Colaboración entre Ministerio De Desarrollo Social y Familia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

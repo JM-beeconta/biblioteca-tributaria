@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2026
-- Fecha: 2026-06-24
+- Fecha: 2026-06-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso84.pdf
 - Hash SHA-256: 66143c2f33433bc9301da94c731a51692e0736a31df8adcdbc210aa9f43028ab
 
 ## Resumen
 
-; 86 del 24 de Junio del 2026 Complementa listado anexo de la Resolución Ex. N° 7 de 2025. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 85 del 24 de Junio del 2026 Delega facultad que indica en la funcionaria Fuente: Subdirección de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42 de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 83 del…
+cción de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42 de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

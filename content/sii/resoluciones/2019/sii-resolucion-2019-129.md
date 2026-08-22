@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 129
 - Año: 2019
-- Fecha: 2019-11-28
+- Fecha: 2019-11-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso129.pdf
 - Hash SHA-256: af8936a8ddd68b58841c395e41df4f3018c945278b4ad29f98d32f7c0dcdca2c
 
 ## Resumen
 
-Designa puntos de contacto para efectos que indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 130 del 28 de Noviembre del 2019 Amplía plazo establecido por Resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones Aprueba Convenio de Intercambio de Información y Colaboración entre Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 128 del 19 de Noviembre del 2…
+Subdirección de Avaluaciones Aprueba Convenio de Intercambio de Información y Colaboración entre Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

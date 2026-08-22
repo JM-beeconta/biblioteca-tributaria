@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2025
-- Fecha: 2025-09-09
+- Fecha: 2025-08-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso115.pdf
 - Hash SHA-256: f1b7c0f4de77d820d3e6f05d02fab7fc81451ec5ed7594fe83f5492bc35e1aeb
 
 ## Resumen
 
-iones (API), de inicio de actividades. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 116 del 09 de Septiembre del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al servicio de impuestos internos la nómina de bienes raíces no agrícolas que correspondan a…
+ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al servicio de impuestos internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

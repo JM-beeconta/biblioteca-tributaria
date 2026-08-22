@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 02 del 08 de Enero del 2014 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 08 de Enero del 2014 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluido el de sus acoplados o carros de arrastre Fuente: Subdirección…
+ute;n de Avaluaciones Resolución Exenta SII N° 01 del 08 de Enero del 2014 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluido el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/docu…
 
 ## Referencias detectadas
 

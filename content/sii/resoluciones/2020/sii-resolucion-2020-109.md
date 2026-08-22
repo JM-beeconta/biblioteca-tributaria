@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 109
 - Año: 2020
-- Fecha: 2020-09-11
+- Fecha: 2020-09-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso109.pdf
 - Hash SHA-256: 9ae776c57460501b61b2e119d95424c1a3efaa41e88ed8a9e712e076cedac83c
 
 ## Resumen
 
-ón jurada anual Nº 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 110 del 11 de Septiembre del 2020 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Actualiza y complementa Resolución Ex. SII N° 120 de 2016 sobre declaración jurada anual sobre operaciones en el exterior por medio de Formulario N° 1929. Fuente: Subdirección de Fiscalización. Resolución Exen…
+Subdirección Jurídica. Actualiza y complementa Resolución Ex. SII N° 120 de 2016 sobre declaración jurada anual sobre operaciones en el exterior por medio de Formulario N° 1929. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

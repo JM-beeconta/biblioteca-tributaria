@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2020
-- Fecha: 2020-08-03
+- Fecha: 2020-07-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso87.pdf
 - Hash SHA-256: a129d0c1f61053e7e84a4f67d22e3045a50eddac25442c75df38301973c465d3
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 88 del 03 de Agosto del 2020 Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el aporte establecido en el artículo 4° del artículo primero de la Ley N° 21.252. Fuente: Subdireccion de Fiscalización. Establece procedimiento para pago del impuesto a las ventas y servicios que se haya postergado conforme lo dispuesto en res. Ex SII N° 41 y N° 77 de 2020, en virtu…
+Subdireccion de Fiscalización. Establece procedimiento para pago del impuesto a las ventas y servicios que se haya postergado conforme lo dispuesto en res. Ex SII N° 41 y N° 77 de 2020, en virtud de importaciones aceptadas a trámite en los meses que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

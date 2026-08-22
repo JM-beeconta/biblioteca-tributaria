@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2015
-- Fecha: 2015-03-31
+- Fecha: 2015-03-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso32.pdf
 - Hash SHA-256: 61a306eb23a045fad0a46034d47d47f2be07f0c5b04fa8b6935b48ce1acc5e7c
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 33 del 31 de Marzo del 2015 Aprueba norma general de participación ciudadana del Servicio de Impuestos Internos Fuente: Oficina de Análisis de Jurisprudencia Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 31 del 27 de Marzo del 2015 Amplía excepcionalmente el pla…
+sis de Jurisprudencia Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

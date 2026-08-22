@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2026
-- Fecha: 2026-07-10
+- Fecha: 2026-07-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso90.pdf
 - Hash SHA-256: 7f614fe58c3b0fa2f1492d8dcd7d9ca89bf2b40de008d50f1cabdc31704b8527
 
 ## Resumen
 
->Autoriza acceso a los servicios de interoperabilidad cartografía digital &ldquo;Sii-mapas&rdquo; a la Ilustre Municipalidad de Chonchi. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 91 del 10 de Julio del 2026 Modifica resolución exenta SII N° 110 de 2024 Fuente: Subdirección de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que se indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 89 del 26 de Junio d…
+cción de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que se indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

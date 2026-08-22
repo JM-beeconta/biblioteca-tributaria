@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2022
-- Fecha: 2022-02-10
+- Fecha: 2022-02-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso13.pdf
 - Hash SHA-256: b39caff50e9fa28529e1e595c823d63c28d1c6d38fefb1be8fffbe9a00205e8f
 
 ## Resumen
 
-ormulario 22 sobre declaración de impuestos anuales a la renta. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 14 del 10 de Febrero del 2022 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa. Modifica Res. Ex. SII N° 21 de 2021. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 12 del 08 de Febrero del 2022 Declara término de giro según lo dispuesto en el inciso fi…
+uente: Subdirección Normativa. Modifica Res. Ex. SII N° 21 de 2021. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

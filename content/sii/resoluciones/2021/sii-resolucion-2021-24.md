@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 24
 - Año: 2021
-- Fecha: 2021-03-01
+- Fecha: 2021-02-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso24.pdf
 - Hash SHA-256: 2eb0a9e1c7f9b15269c283c4eae1f70174318ba033d6404944bbe41a559fcaf8
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 25 del 01 de Marzo del 2021 Establece procedimiento para la obtención, recuperación y cambio de clave tributaria y administración de representantes electrónicos. Deja sin efecto circular N° 58 de 2004. Fuente: Subdirección de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la Resolución Ex. SII N° 108 y N° 165 de 2020, que deja sin efecto las instrucciones relativas a vales en reemplazo de boleta…
+ute;n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la Resolución Ex. SII N° 108 y N° 165 de 2020, que deja sin efecto las instrucciones relativas a vales en reemplazo de boletas y vales electrónicos en reemplazo de la boleta de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 109
 - Año: 2017
-- Fecha: 2017-11-15
+- Fecha: 2017-11-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso109.pdf
 - Hash SHA-256: 6b5429f94c1ffc9000bdc70826ffa9d78f161a101d26f64004e38613d3b0ac06
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 110 del 15 de Noviembre del 2017 Reorganiza las unidades que conforman el Departamento Subdirección de Informática y establece sus ámbitos de competencia. Fuente: Subdirección de Informática Designa responsables en las certificaciones digitales que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 108 del 03 de Noviembre del 2017 Crea el centro de formación e investigación t…
+de Informática Designa responsables en las certificaciones digitales que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 125 del 30 de Septiembre del 2020 Establece obligación de presentar declaración jurada anual sobre Trusts; fija formato y mecanismo de declaración; y deja sin efecto Resolución Exenta SII N° 46 de 2018. Fuente: Subdirección de Fiscalización. Modifica Resolución Ex. SII Nº 124 de 26 de diciembre de 2016 que establece forma y plazo para presentar declaración jurada Nº 1933 por los mandatarios encargados de gestionar…
+cción de Fiscalización. Modifica Resolución Ex. SII Nº 124 de 26 de diciembre de 2016 que establece forma y plazo para presentar declaración jurada Nº 1933 por los mandatarios encargados de gestionar el mandato especial de administración de cartera de valores establecido en la Ley Nº 20.880. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2015
-- Fecha: 2015-12-29
+- Fecha: 2015-12-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso114.pdf
 - Hash SHA-256: 26d9f0914961e385222139a9ed15aa025d946a7d87a7a7ea9019e1cd07f183dd
 
 ## Resumen
 
-sesoría Jurídica Resolución Exenta SII N° 115 del 29 de Diciembre del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica y complementa Resolución Ex. N° 25, de 13 de marzo de 2015 y reemplaza anexos N°s 1 y 2. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 113 del 24 de Diciembre del 2015 Modifica Resolución N° 16 de 03 de marzo de…
+mplimiento Tributario Modifica y complementa Resolución Ex. N° 25, de 13 de marzo de 2015 y reemplaza anexos N°s 1 y 2. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

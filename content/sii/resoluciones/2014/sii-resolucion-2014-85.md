@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2014
-- Fecha: 2014-08-28
+- Fecha: 2014-08-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso85.pdf
 - Hash SHA-256: 9516e8cfbeb3f869df4b5ab0847955e3ee45bde0a3c520d925cb2adccf6ad0b6
 
 ## Resumen
 
-y de Micro y Pequeñas Empresas Resolución Exenta SII N° 86 del 28 de Agosto del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes Reemplaza plano de precios de la comuna de Melipilla contenido Resolución Ex. SII N°132 de 31.12.2012. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 84 del 22 de Agosto del 2014 Anexa tablas de Coeficientes Guías de terreno a plano de precios de la comu…
+cia de Contribuyentes Reemplaza plano de precios de la comuna de Melipilla contenido Resolución Ex. SII N°132 de 31.12.2012. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

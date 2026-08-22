@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 12
 - Año: 2021
-- Fecha: 2021-02-09
+- Fecha: 2021-02-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso12.pdf
 - Hash SHA-256: 55cd372ebd72b93cdec2bedadea99aae6facdc5bcfb4700c94a9bf3ffbebc224
 
 ## Resumen
 
-sin efecto resolución Ex. SII N° 129, de fecha 31.12.2014. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 13 del 09 de Febrero del 2021 Establece normas y procedimientos de operación de los libros adicionales o auxiliares electrónicos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 11 del 04 de Febrero de…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

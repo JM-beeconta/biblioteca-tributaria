@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2017
-- Fecha: 2017-05-12
+- Fecha: 2017-05-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso45.pdf
 - Hash SHA-256: c88a8675ebd049a54cddd11dae13a982f4696381660620f66f478fb4815a32d4
 
 ## Resumen
 
-et='_blank'>Resolución Exenta SII N° 46 del 12 de Mayo del 2017 Actualiza instrucciones impartidas por la Resolución Ex. SII N°2301, de 07.12.1986, que fija el procedimiento a seguir y señala los requisitos y obligaciones que se deben cumplir y los antecedentes que se deben acompañar respecto de solicitudes administrativas que se refieran a materias de avaluaciones. Fuente: Oficina de Normas y Casos Especiales Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que seña…
+as y Casos Especiales Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

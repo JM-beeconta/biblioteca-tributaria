@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2016
-- Fecha: 2016-05-06
+- Fecha: 2016-04-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso40.pdf
 - Hash SHA-256: 41b51b9252baa0643d10921fa787d9ada1e6050f8dced58aa05aec16f0c387b7
 
 ## Resumen
 
-Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 41 del 06 de Mayo del 2016 Establece nuevo procedimiento para solicitar la devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Aprueba Adendum Anexo al convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 39 del 25 de Abril del 2016…
+mplimiento Tributario Aprueba Adendum Anexo al convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

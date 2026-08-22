@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 107
 - Año: 2023
-- Fecha: 2023-09-14
+- Fecha: 2023-09-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso107.pdf
 - Hash SHA-256: dc2133058420666e854241e040ffe5360bbace457bba14fef3d3e1798a6ac19c
 
 ## Resumen
 
-;n. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 108 del 14 de Septiembre del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de María Pinto Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Designa secretarios suplentes, en el tribunal especial de alzada de los Bienes Raíces de la segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de Arica. Fuente: Subdirección Jurídica. Resolu…
+tégica y Estudios Tributarios. Designa secretarios suplentes, en el tribunal especial de alzada de los Bienes Raíces de la segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de Arica. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

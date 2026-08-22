@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2026
-- Fecha: 2026-06-26
+- Fecha: 2026-06-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso86.pdf
 - Hash SHA-256: bfcf2bae1be1aa69258944609356b59d3c64096d15e6557900b44e7b1a1b0cdc
 
 ## Resumen
 
-semestre que se indica Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 87 del 26 de Junio del 2026 Modifícase la Resolución Ex. SII N°193 de 2025, que crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Asistencia al Contribuyente. Complementa listado anexo de la Resolución Ex. N° 7 de 2025. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 85 del 24 de Junio del 2026 Delega facultad que indica en la funcionaria Fuente: Subdirec…
+ute;n de Asistencia al Contribuyente. Complementa listado anexo de la Resolución Ex. N° 7 de 2025. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Pedro Aguirre Cerda. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 156 del 06 de Noviembre del 2025 Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coyhaique. Fuente: Subdirección de Avaluaciones. Resolución Exenta SI…
+Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coyhaique. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

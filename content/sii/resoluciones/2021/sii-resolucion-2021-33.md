@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 34 del 31 de Marzo del 2021 Aprueba Convenio Intercambio de Información y Colaboración entre el Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta…
+tégica y Estudios Tributarios. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

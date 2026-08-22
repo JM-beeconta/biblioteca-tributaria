@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2016
-- Fecha: 2016-03-31
+- Fecha: 2016-03-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso25.pdf
 - Hash SHA-256: b017ee3da0fb4c39b034a8a5ade18736fda897952d0cc2b2d6804149696d0409
 
 ## Resumen
 
-electivo del Cumplimiento Tributario Resolución Exenta SII N° 26 del 31 de Marzo del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Establece modelo de Certificado N° 47, sobre retenciones practicadas conforme al artículo 74 N° 1 de la Ley sobre Impuesto a la Renta, por concepto de devolución de fondos previsionales a técnicos extranjeros y a trabajadores desafiliados del siste…
+mplimiento Tributario Establece modelo de Certificado N° 47, sobre retenciones practicadas conforme al artículo 74 N° 1 de la Ley sobre Impuesto a la Renta, por concepto de devolución de fondos previsionales a técnicos extranjeros y a trabajadores desafiliados del sistema de pensiones del D.L. N° 3.500, de 1980. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 150 del 28 de Diciembre del 2018 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Autoriza a IMPORTADORA Y DISTRIBUIDORA HERBALIFE INTERNATIONAL DE CHILE LIMITADA, RUT: 78.882.180-8 para retener y enterar en arcas fiscales el Impuesto al Valor Ag…
+cción de Fiscalización Autoriza a IMPORTADORA Y DISTRIBUIDORA HERBALIFE INTERNATIONAL DE CHILE LIMITADA, RUT: 78.882.180-8 para retener y enterar en arcas fiscales el Impuesto al Valor Agregado en los casos que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

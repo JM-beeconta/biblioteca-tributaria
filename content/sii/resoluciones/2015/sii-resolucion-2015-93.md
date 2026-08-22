@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Resolución Exenta SII N° 94 del 24 de Noviembre del 2015 Autoriza e empresa producciones Mario Enrique Riera Navarro E.I.R.L. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a empresa Ticketplus SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atenció…
+cia de Contribuyentes Autoriza a empresa Ticketplus SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

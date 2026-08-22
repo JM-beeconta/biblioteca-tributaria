@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2017
-- Fecha: 2017-03-22
+- Fecha: 2017-03-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso33.pdf
 - Hash SHA-256: 30090cc76a51871e62c4fea0fe9da95340fc5c5cafdd6b6ac988dd01de8b103d
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Operaciones Resolución Exenta SII N° 34 del 22 de Marzo del 2017 Fija nuevo plazo para presentar la Declaración Jurada anual sobre rentas obtenidas por terceros, Formulario N° 1932. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Resolución Exenta SII N° 32 del 15 de Marzo del 2…
+mplimiento Tributario Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

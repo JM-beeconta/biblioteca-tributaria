@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta SII N° 04 del 10 de Enero del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 03 del 10 de Enero del 2014 Modifica territorios jurisdiccionales de las XIII y XIV Direcciones Regionales Metropolitanas Santiago Centro y Poniente, crea Unidad Norte y autoriza delegación de facultades Fuente: Departamento de Asesoría Juríd…
+Fiscalización Resolución Exenta SII N° 03 del 10 de Enero del 2014 Modifica territorios jurisdiccionales de las XIII y XIV Direcciones Regionales Metropolitanas Santiago Centro y Poniente, crea Unidad Norte y autoriza delegación de facultades Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

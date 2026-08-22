@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lparaíso Fuente: Subdirección Jurídica. Resolución Exenta SII N° 06 del 10 de Enero del 2024 Instruye sobre declaración jurada que deben presentar las asociaciones culturales para acceder a la exención de impuesto al valor agregado por servicios culturales Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 05 del 10 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Valdivia. Fuente: Subdirecció…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 05 del 10 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Valdivia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

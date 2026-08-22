@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 5
 - Año: 2023
-- Fecha: 2023-01-23
+- Fecha: 2023-01-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso5.pdf
 - Hash SHA-256: 31bdd92431ed4e51cecf14486d0c4f7146d2d9ce94c1e64196b5d2d7dcc5e471
 
 ## Resumen
 
-Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 06 del 23 de Enero del 2023 Modifica nómina de Grandes Contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 05 del 16 de Enero del 2023 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avalu…
+ión de Grandes Contribuyentes. Resolución Exenta SII N° 05 del 16 de Enero del 2023 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2013
-- Fecha: 2013-09-11
+- Fecha: 2013-09-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso81.pdf
 - Hash SHA-256: c19715137fd45ead2a4b3c06c8116043f92c216e4ed980a3f80319646c266ff9
 
 ## Resumen
 
-;n y Asistencia de Contribuyentes. Resolución Exenta SII N° 82 del 11 de Septiembre del 2013 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Solicita Información sobre Trusts Constituidos en el Extranjero Fuente: Departamento de Normas Internacionales Resolución Exenta SII N° 80 del 05 de Septiembre del 2013 Instruye sobre presentación de Formulario 2667 de solicutud de condonación de intereses y mul…
+cia de Contribuyentes Solicita Información sobre Trusts Constituidos en el Extranjero Fuente: Departamento de Normas Internacionales
 
 ## Referencias detectadas
 

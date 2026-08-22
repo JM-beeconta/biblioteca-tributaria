@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2015
-- Fecha: 2015-12-01
+- Fecha: 2015-11-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso98.pdf
 - Hash SHA-256: eed2c47e04ef9dcba8b088d8b1efd638220e0bbea3f65a00cd5f4bd2eb2a74f8
 
 ## Resumen
 
-> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 01 de Diciembre del 2015 Complementa Resolución Exenta SII N° 125 de 30 de diciembre de 2014, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Dispone Declaración de Predios Agrícolas con mejoras efectuadas por los propietarios Fuente: Oficina de Normas y Casos Especiales Resolución Exenta SII N° 97 del 30 de Noviembre del 2015 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuy…
+randes Contribuyentes Dispone Declaración de Predios Agrícolas con mejoras efectuadas por los propietarios Fuente: Oficina de Normas y Casos Especiales
 
 ## Referencias detectadas
 

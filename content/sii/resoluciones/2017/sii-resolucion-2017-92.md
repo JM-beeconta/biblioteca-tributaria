@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2017
-- Fecha: 2017-10-12
+- Fecha: 2017-10-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso92.pdf
 - Hash SHA-256: fe16339004bb9b54644c135dd7a4bdd4e68c488ac36b1474b42929e93ba74090
 
 ## Resumen
 
-/p> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 93 del 12 de Octubre del 2017 Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Autoriza solicitud de exclusión de Nómina de Grandes Contribuyentes a Consultora en Zona Franca S.A., RUT N° 96.634.110-6. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 91 del 06 de Octubre del 2017 Elimina obligación de generar, enviar y mantener la informac…
+randes Contribuyentes Autoriza solicitud de exclusión de Nómina de Grandes Contribuyentes a Consultora en Zona Franca S.A., RUT N° 96.634.110-6. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

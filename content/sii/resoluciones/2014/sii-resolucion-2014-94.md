@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2014
-- Fecha: 2014-10-06
+- Fecha: 2014-09-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso94.pdf
 - Hash SHA-256: 03cf95a8bffe4db2080472614d27eaf2beeeccd0612f4caf8c6eb9952a33be9a
 
 ## Resumen
 
-'https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso95.pdf' target='_blank'>Resolución Exenta SII N° 95 del 06 de Octubre del 2014 Modifica Resoluciones Ex. SII N° 7590, de 1999 y 75, de 2013. Crea la "Oficina de Apoyo Jurídico a la Gestión Administrativa", incorporándola bajo la dependencia del Departamento de Asesoría Jurídica. Fuente: Departamento de Asesoría Jurídica Crea Oficina de Administración de Riesgos y Procesos Institucionales en la Subdirección de Contraloría Interna. fija su dependencia y…
+ute;a Jurídica Crea Oficina de Administración de Riesgos y Procesos Institucionales en la Subdirección de Contraloría Interna. fija su dependencia y señala sus funciones Fuente: Subdirección Contraloría Interna
 
 ## Referencias detectadas
 

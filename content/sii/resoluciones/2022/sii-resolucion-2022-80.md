@@ -11,7 +11,7 @@
 
 ## Resumen
 
-identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática. Resolución Exenta SII N° 81 del 02 de Septiembre del 2022 Aprueba convenio de colaboración entre Servicio de Impuestos Internos e Instituto Profesional LOS LEONES Fuente: Subdirección de Asistencia al Contribuyente. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y el Centro de Formación Técnica ENAC Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 79 d…
+ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y el Centro de Formación Técnica ENAC Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

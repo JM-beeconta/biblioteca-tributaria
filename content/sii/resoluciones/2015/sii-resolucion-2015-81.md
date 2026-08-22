@@ -11,7 +11,7 @@
 
 ## Resumen
 
-10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 82 del 29 de Septiembre del 2015 Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Establece nuevas fechas de pago del impuesto territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Choapa o en la comuna de Coquimbo, ambas de la IV región de Coquimbo. Fuente: Subdirección de Avaluaciones Resolución…
+randes Contribuyentes Establece nuevas fechas de pago del impuesto territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Choapa o en la comuna de Coquimbo, ambas de la IV región de Coquimbo. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nte y deja sin efecto la resolución que señala. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 27 del 14 de Marzo del 2023 Designa responsables de procesos, delega facultades y deja sin efecto resoluciones que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Exclusión de contribuyentes sin domicilio ni residencia en chile del régimen de tributación simplificada de la ley sobre impuesto a las ventas y servicios, por prestaciones de servicios con contenido ilícito.…
+tégica y Estudios Tributarios. Exclusión de contribuyentes sin domicilio ni residencia en chile del régimen de tributación simplificada de la ley sobre impuesto a las ventas y servicios, por prestaciones de servicios con contenido ilícito. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

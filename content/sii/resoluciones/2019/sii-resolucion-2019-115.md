@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2019
-- Fecha: 2019-10-16
+- Fecha: 2019-10-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso115.pdf
 - Hash SHA-256: d56968eadafb176607ae561dc6b3392017f2c994b0cd11c69c537eaac5648391
 
 ## Resumen
 
-acute;n Exenta SII N° 116 del 16 de Octubre del 2019 Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Deja sin efecto Resolución Exenta SII N° 111, de 22 de septiembre de 2008, por las r…
+tégica y Estudios Tributarios Deja sin efecto Resolución Exenta SII N° 111, de 22 de septiembre de 2008, por las razones que indica. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

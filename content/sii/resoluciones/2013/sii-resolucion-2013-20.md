@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ción y Asistencia de Contribuyentes Resolución Exenta SII N° 21 del 19 de Febrero del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de personas y de micro y pequeñas empresas Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 19 del 12 de Febrero del 2013 Resolución Exenta N° 19…
+ueñas empresas Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

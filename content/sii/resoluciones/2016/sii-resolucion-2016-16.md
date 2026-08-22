@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/h5> Amplía plazo de presentación de la Declaración Jurada Anual Formulario N° 1924, sobre rentas y créditos correspondientes a propietarios, socios, comuneros o accionistas de contribuyentes acogidos al régimen tributario de la letra a) del artículo 14 ter de la Ley sobre Impuesto a la Renta, y el de su certificación respectiva Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios de Información Avanza…
+mplimiento Tributario Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

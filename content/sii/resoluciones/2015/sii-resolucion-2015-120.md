@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os Fuente: Dirección Nacional Resolución Exenta SII N° 121 del 29 de Diciembre del 2015 Establece nueva denominación a Departamento Subdirección de Estudios Fuente: Dirección Nacional Crea Departamento Subdirección de Asuntos Corporativos, establece funciones y ámbito de competencia Fuente: Dirección Nacional Resolución Exenta SII N° 119 del 29 de Diciembre del 2015 Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes <a href='https://www.sii.cl/normativa_legislacion/resoluciones/2015/…
+cción Nacional Crea Departamento Subdirección de Asuntos Corporativos, establece funciones y ámbito de competencia Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

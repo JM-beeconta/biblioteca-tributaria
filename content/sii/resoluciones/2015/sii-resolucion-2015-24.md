@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eso25.pdf' target='_blank'>Resolución Exenta SII N° 25 del 13 de Marzo del 2015 Reemplaza formato e instrucciones de Declaración Jurada sobre retenciones de impuestos a que se refiere el artículo 74 N° 4 de la Ley Sobre Impuesto a la Renta; establece nuevo formato de Formulario N° 1912 y modelo de Certificado N° 42; y deroga Res. Ex. N° 16 de 30.01.2008. Fuente: Subdirección de Fiscalización Autoriza a Empresa Aticket Distribución Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cu…
+Fiscalización Autoriza a Empresa Aticket Distribución Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eg; 1962. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 111 del 26 de Agosto del 2025 Establece obligación de presentar anualmente información sobre bienes entregados en leasing operativo o financiero. Declaración jurada formulario N° 1961. Fuente: Subdirección de Fiscalización. Establece oportunidad, forma y condiciones de presentación del reporte sobre operaciones a través de cuentas corrientes corresponsales en Chile, según lo establecido en el artículo 66 bis del Código Tributario. Formulario…
+cción de Fiscalización. Establece oportunidad, forma y condiciones de presentación del reporte sobre operaciones a través de cuentas corrientes corresponsales en Chile, según lo establecido en el artículo 66 bis del Código Tributario. Formulario 1960. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 71
 - Año: 2026
-- Fecha: 2026-06-05
+- Fecha: 2026-06-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso71.pdf
 - Hash SHA-256: ae443440960b8d5529a804e140ba64638b6fe4d77d5aac47415988ee653546dd
 
 ## Resumen
 
-style='margin-top:0px;margin-bottom:0px;'>Crea registro especial de instituciones de beneficencia vendedoras de bienes usados y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 72 del 05 de Junio del 2026 Fija funciones del gabinete del director Fuente: Dirección Nacional Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Co…
+> Fuente: Dirección Nacional Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

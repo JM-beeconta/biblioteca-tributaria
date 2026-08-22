@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rte instrucciones sobre ampliación y prorroga de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispuesto en los numerales 4), 5) y 6) del N° 1 del decreto supremo N° 944, de 2023, del Ministerio de Hacienda, que establece medidas de índole tributaria para las comunas de las regiones afectadas por el sistema frontal, declaradas como zonas afectadas por catástrofe Fuente: Subdirección de Avaluaciones. Instruye s…
+Subdirección de Avaluaciones. Instruye sobre prórroga del plazo para la presentación de los formularios números 29 y 50 hasta 31 de octubre de 2023, conforme al decreto supremo Nº 1.131 de 2023 del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

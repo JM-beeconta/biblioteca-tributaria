@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puesto en la ley n°21.258. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 101 del 31 de Agosto del 2021 Crea modelo de certificado n° 72, y establece obligación de informar las donaciones a que se refiere el artículo 18 de la ley n° 21.258. Fuente: Subdirección de Fiscalización. Modifica resolución ex. Sii n° 114 de 2012, que establece la obligación de presentar declaraciones juradas por los contribuyentes que indica, respecto de contratos de derivados definidos en el artículo 2° de la ley n° 20.5…
+cción de Fiscalización. Modifica resolución ex. Sii n° 114 de 2012, que establece la obligación de presentar declaraciones juradas por los contribuyentes que indica, respecto de contratos de derivados definidos en el artículo 2° de la ley n° 20.544. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

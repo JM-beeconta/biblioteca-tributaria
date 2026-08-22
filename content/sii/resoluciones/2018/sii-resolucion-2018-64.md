@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2018
-- Fecha: 2018-08-23
+- Fecha: 2018-08-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso64.pdf
 - Hash SHA-256: b8d1eb6a8c07d4d123f26e48ff5558ea6af261ec61961928b0096a0d2a89dc5e
 
 ## Resumen
 
-acute;nicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 65 del 23 de Agosto del 2018 Complementa Resolución Ex. SII N° 63, de 10.08.2018, en los términos que indica, respecto de Corporación Red Alimentos. Fuente: Subdirección de Fiscalización Establece nuevo procedimiento para la declaración que deben efectuar las empresas importadoras, distribuidoras y comercializadoras de vehículos motorizados nuevos, conforme lo dispuesto en el inciso final del Artículo…
+cción de Fiscalización Establece nuevo procedimiento para la declaración que deben efectuar las empresas importadoras, distribuidoras y comercializadoras de vehículos motorizados nuevos, conforme lo dispuesto en el inciso final del Artículo 12 del Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

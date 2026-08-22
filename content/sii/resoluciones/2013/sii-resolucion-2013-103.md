@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2013
-- Fecha: 2013-12-17
+- Fecha: 2013-12-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso103.pdf
 - Hash SHA-256: d416ae8e8a7d114ca46ce3b34cc47eed4b040548d384bc3103eaf30886993a11
 
 ## Resumen
 
-amento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 104 del 17 de Diciembre del 2013 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento Medianas y Grandes Empresas Fija plazo para presentación de Declaraciones Juradas que se indican Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 102 del 10 de Diciembre del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuy…
+as y Grandes Empresas Fija plazo para presentación de Declaraciones Juradas que se indican Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

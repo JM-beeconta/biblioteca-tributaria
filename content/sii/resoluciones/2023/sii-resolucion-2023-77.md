@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 78 del 28 de Junio del 2023 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Designa secretarios titular y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio…
+tégica y Estudios Tributarios. Designa secretarios titular y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de Coyhaique. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 30 del 16 de Marzo del 2018 Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Designa responsables de procesos que indica, delega facultades y deroga Resolución Ex. SII N°2101 de 12 de mayo de 2017. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 28…
+tégica y Estudios Tributarios Designa responsables de procesos que indica, delega facultades y deroga Resolución Ex. SII N°2101 de 12 de mayo de 2017. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

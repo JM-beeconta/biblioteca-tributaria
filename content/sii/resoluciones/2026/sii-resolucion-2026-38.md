@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2026
-- Fecha: 2026-03-10
+- Fecha: 2026-03-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso38.pdf
 - Hash SHA-256: a6ed46ce974577e9f2de3a34eacf42833310131c4091e789bca5baff68269cdf
 
 ## Resumen
 
-o Aguirre Cerda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 39 del 10 de Marzo del 2026 Aprueba Convenio de Intercambio de Información entre el Ministerio Público y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Incorpora nuevos códigos al Formulario N°29 de declaración mensual y pago simultáneo de impuestos para operaciones documentadas mediante liquidaciones‑facturas. Fuente: Subdirección de Fiscalizac…
+ute;n de Asistencia al Contribuyente. Incorpora nuevos códigos al Formulario N°29 de declaración mensual y pago simultáneo de impuestos para operaciones documentadas mediante liquidaciones‑facturas. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

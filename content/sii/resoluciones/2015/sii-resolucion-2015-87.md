@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2015
-- Fecha: 2015-11-11
+- Fecha: 2015-11-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso87.pdf
 - Hash SHA-256: 8c54a3dad4a3416a0ac467df4e631e770e4ef985c1c4068fbfd0c65029e2694a
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 88 del 11 de Noviembre del 2015 Exime del timbraje de pagarés a contribuyente que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Modifica Resoluciones Exentas N°s 1 y 83, ambas de 2015, que establecen la forma en que los contribuyentes podrán acogerse al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en extranjero contenido en el artículo vige…
+ia de Contribuyentes. Modifica Resoluciones Exentas N°s 1 y 83, ambas de 2015, que establecen la forma en que los contribuyentes podrán acogerse al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en extranjero contenido en el artículo vigesimocuarto transitorio de la ley n° 20.780 publicada en el diario oficial de 29 de septiembre de 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

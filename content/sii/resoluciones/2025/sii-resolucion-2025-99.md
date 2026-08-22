@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2025
-- Fecha: 2025-08-14
+- Fecha: 2025-08-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso99.pdf
 - Hash SHA-256: 471cb96702cfb0bf8bc79830ee40ef050b25992fd3a375c9af9cd7b191f0d8a3
 
 ## Resumen
 
-0px;'> Fuente: Subdirección de Tecnologías de la Información Resolución Exenta SII N° 100 del 14 de Agosto del 2025 Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información Instruye sobre la forma en que las entidades que se indican deben verificar lo dispuesto en los incisos decimosegundo y final del artículo 68 del Código Tributario…
+ogías de la Información Instruye sobre la forma en que las entidades que se indican deben verificar lo dispuesto en los incisos decimosegundo y final del artículo 68 del Código Tributario. Deja sin efecto resolución Ex. N° 79 de 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

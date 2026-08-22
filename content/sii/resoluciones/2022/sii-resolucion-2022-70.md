@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bdirección de Fiscalización. Resolución Exenta SII N° 71 del 31 de Agosto del 2022 Reemplaza formato, contenido, definiciones e instrucciones de las declaraciones juradas que se indican, autoriza a delegar la obligación de presentar las declaraciones juradas que se indican y modifica resolución exenta SII nº 126 de 2016 Fuente: Subdirección de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 69 del 22…
+cción de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

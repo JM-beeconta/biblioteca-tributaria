@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2017
-- Fecha: 2017-08-23
+- Fecha: 2017-08-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso73.pdf
 - Hash SHA-256: a253595ed9e4ff3d182a7bd7c04c67c9eda3f8bf9c711d1b5b6ec344c7cda5a8
 
 ## Resumen
 
-n Resolución SII N° 74 del 23 de Agosto del 2017 Delega facultades que indica relativas a horas extraordinarias, y revoca las facultades que se señalan, conferidas mediante la Resolución N° 343, de 2000, de esta Dirección Nacional, a las jefaturas que se indican Fuente: Subdirección de Administración Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 72 del 11 de Agosto del 2017 Autoriza a empresa Tick…
+Administración Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

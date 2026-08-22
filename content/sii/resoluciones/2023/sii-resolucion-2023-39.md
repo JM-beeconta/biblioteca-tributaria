@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2023
-- Fecha: 2023-03-31
+- Fecha: 2023-03-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso39.pdf
 - Hash SHA-256: 607ff3d956baa784408a8329c7e27a0f3c0f9a09bcb31783c8717622c93f5278
 
 ## Resumen
 
-argin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 40 del 31 de Marzo del 2023 Establece procedimiento especial para solicitar rebaja de las contribuciones de predios ocupados, ubicados en zonas declaradas en estado de excepción constitucional de emergencia que indica. Fuente: Subdirección de Avaluaciones. Modifica resolución exenta SII Nº 128 de fecha 29.12.2022, en los términos que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII…
+Subdirección de Avaluaciones. Modifica resolución exenta SII Nº 128 de fecha 29.12.2022, en los términos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

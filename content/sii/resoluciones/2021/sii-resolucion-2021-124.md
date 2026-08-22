@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2021
-- Fecha: 2021-11-08
+- Fecha: 2021-11-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso124.pdf
 - Hash SHA-256: 3398f37140b31ad40cdf877b5a256c5f78330cdfcdc803de0ffb1844354eacda
 
 ## Resumen
 
-en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 125 del 08 de Noviembre del 2021 Destrucción de productos alimenticios cuya comercialización se ha vuelto inviable; y forma de acreditar la destrucción no voluntaria. Fuente: Subdirección de Fiscalización. Fija plazo para acompañar la información solicitada y el plazo máximo dentro del cual el servicio realizará el examen o análisis respectivo en virtud del artículo 60 del código tributario. Fuente: Subdirección de Fisc…
+cción de Fiscalización. Fija plazo para acompañar la información solicitada y el plazo máximo dentro del cual el servicio realizará el examen o análisis respectivo en virtud del artículo 60 del código tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

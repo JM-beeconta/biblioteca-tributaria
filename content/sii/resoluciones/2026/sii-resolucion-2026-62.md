@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 62
 - Año: 2026
-- Fecha: 2026-04-29
+- Fecha: 2026-04-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso62.pdf
 - Hash SHA-256: 862ebec8dcbdc62695d80d1f7cda817c34ba4a651ab2a5ee2cd846cb1081e0e7
 
 ## Resumen
 
-ja sin efecto la Resolución Exenta SII N°54, de 30.04.2025. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 63 del 29 de Abril del 2026 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 61 del 24 de Abril del 202…
+ute;n de Asistencia al Contribuyente. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ento para los efectos del inciso decimosegundo del artículo 68 del Código Tributario. Crea certificado que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 167 del 27 de Noviembre del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 165 del 26 de Noviembre del 2025 Delega facultad que indica en la funcionaria que se ind…
+Subdirección Jurídica. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

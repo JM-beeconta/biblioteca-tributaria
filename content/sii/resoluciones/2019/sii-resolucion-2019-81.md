@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2019
-- Fecha: 2019-07-02
+- Fecha: 2019-06-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso81.pdf
 - Hash SHA-256: ab51057bcfb5941ae2ef653c9ed52c49f563ef3ef3d877edc668edba9b0e1bc1
 
 ## Resumen
 
-nico de documentos tributarios electrónicos a la Unidad Administradora de los Tribunales Tributarios y Aduaneros Fuente: Subdirección Asistencia al Contribuyente Resolución Exenta SII N° 82 del 02 de Julio del 2019 Reemplaza Anexo I de Resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa Deja sin efecto Resolución Ex. SII N° 53, de 30.04.2019. Complementa Resolución Ex. SII N° 208 de 2009. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 80 del 28 de Junio del 2019 Deja sin…
+uente: Subdirección Normativa Deja sin efecto Resolución Ex. SII N° 53, de 30.04.2019. Complementa Resolución Ex. SII N° 208 de 2009. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

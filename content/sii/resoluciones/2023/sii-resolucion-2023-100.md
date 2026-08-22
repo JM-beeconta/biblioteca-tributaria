@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2023
-- Fecha: 2023-09-01
+- Fecha: 2023-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso100.pdf
 - Hash SHA-256: 9c4e1c5b68b14af70f7c73db39c76f6c5a1a728d6690ce5698863c2cf196206b
 
 ## Resumen
 
-/p> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 101 del 01 de Septiembre del 2023 Autoriza a Ticketmax spa., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y la Universidad de Talca. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 99 del 31 de Agos…
+ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y la Universidad de Talca. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

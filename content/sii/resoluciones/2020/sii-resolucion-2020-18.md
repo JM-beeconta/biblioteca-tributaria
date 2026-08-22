@@ -11,7 +11,7 @@
 
 ## Resumen
 
-al Modelo de Operación de Contabilidad Electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia Resolución Exenta SII N° 19 del 06 de Febrero del 2020 Establece obligación de declarar Formularios N°s 29 y 50 a través de internet. Fuente: Subdirección de Fiscalización Autoriza la Emisión de Documentos Tributarios en papel a los contribuyentes de las comunas de Tierra Amarilla, Diego de Almagro, Chañaral, Alto del Carmen y Copiapó por la razón que indica. Fuente: Subdirección de Asistencia al…
+ección de Fiscalización Autoriza la Emisión de Documentos Tributarios en papel a los contribuyentes de las comunas de Tierra Amarilla, Diego de Almagro, Chañaral, Alto del Carmen y Copiapó por la razón que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

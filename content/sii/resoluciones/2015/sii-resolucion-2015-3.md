@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2015
-- Fecha: 2015-01-21
+- Fecha: 2015-01-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso3.pdf
 - Hash SHA-256: 3f65021760c31c79bbeb855624e13a30ef1e6a78d2cb33bd38e4258ab27809dc
 
 ## Resumen
 
-ión y Asistencia de Contribuyentes Resolución Exenta SII N° 04 del 21 de Enero del 2015 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 03 del 13 de Enero del 2015 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. F…
+mplimiento Tributario Resolución Exenta SII N° 03 del 13 de Enero del 2015 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-k'>Resolución Exenta SII N° 43 del 20 de Abril del 2020 Ejercicio de opción de contribuyentes que tributan en renta presunta para tributar en base a renta efectiva por las rentas obtenidas en el ejercicio comercial 2019 conforme al Decreto Supremo N° 553, del Ministerio de Hacienda, publicado en el Diario Oficial el día 18 de abril de 2020 que modifica el Decreto Supremo Nº 420, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización. Autoriza a Corporación Red de Alimentos, RUT Nº 65.020.518-9, para dis…
+cción de Fiscalización. Autoriza a Corporación Red de Alimentos, RUT Nº 65.020.518-9, para distribuir alimentos, pañales y otros artículos de primera necesidad a instituciones sin fines de lucro no inscritas en el registro especial de instituciones autorizadas como receptoras de los productos Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

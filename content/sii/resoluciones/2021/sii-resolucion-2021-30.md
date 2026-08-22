@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2021
-- Fecha: 2021-03-19
+- Fecha: 2021-03-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso30.pdf
 - Hash SHA-256: 8d02c054042e1c0f56420992a12d3407575b1bd38f3751d60432b510ed644934
 
 ## Resumen
 
-resoluciones Ex SII N° 97 y n° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 31 del 19 de Marzo del 2021 Complementa y modifica Resolución Exenta SII N° 14, de 2021. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre rentas del Art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la Ley de la Renta, formula…
+cción de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre rentas del Art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la Ley de la Renta, formulario N°1887. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

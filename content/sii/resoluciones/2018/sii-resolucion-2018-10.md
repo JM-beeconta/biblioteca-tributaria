@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 11 del 30 de Enero del 2018 Fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Consejo Minero de Chile A.G Fuente: Subdirección de Fiscalización Resolució…
+Subdirección de Avaluaciones Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Consejo Minero de Chile A.G Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

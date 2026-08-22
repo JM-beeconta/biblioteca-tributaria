@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2017
-- Fecha: 2017-07-18
+- Fecha: 2017-07-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso64.pdf
 - Hash SHA-256: d34316813b433195beff24d6b694ee7ed869d4ca62e05597280eea1dd79dcc1b
 
 ## Resumen
 
-cute;dicas rechazadas o reducidas. Fuente: Subdirección de Administración Resolución Exenta SII N° 65 del 18 de Julio del 2017 Aprueba convenios de colaboración. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 63 del 14 de Julio del 2017 Delega facultad de celebrar acuerdos de colaboración tributaria en Directores Regiona…
+Estudios Tributarios Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

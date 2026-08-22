@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 49 del 25 de Mayo del 2015 Apruebe Reglamento Interno sobre Consejo de la Sociedad Civil del Servicio de Impuestos Internos Fuente: Departamento de Asesoría Jurídica Establece contenido y condiciones de la declaración que debe solicitar el pagador de una renta o cantidad al beneficiario residente en un país con el que exista un convenio vigente para evitar la doble tributación internacional, con el objeto de acreditar las circ…
+ute;a Jurídica Establece contenido y condiciones de la declaración que debe solicitar el pagador de una renta o cantidad al beneficiario residente en un país con el que exista un convenio vigente para evitar la doble tributación internacional, con el objeto de acreditar las circunstancias señaladas en el n° 4, del artículo 74 de la ley sobre impuesto a la renta, y el agente retenedor pueda no efectuar la retención del impuesto o efectuarla aplicando una tasa rebajada en virtud de lo establecido en dicho convenio.…
 
 ## Referencias detectadas
 

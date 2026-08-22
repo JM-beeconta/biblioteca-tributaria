@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 80
 - Año: 2016
-- Fecha: 2016-08-19
+- Fecha: 2016-08-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso80.pdf
 - Hash SHA-256: 7714bd3ea3211bcbc70b0a33003d6e32d742e166d7653b3a747b4b176bc60cc8
 
 ## Resumen
 
-epartamento de Análisis Masivo del Cumplimiento tributario Resolución Exenta SII N° 81 del 19 de Agosto del 2016 Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Establece requisitos que deben cumplir las entidades que se indican para ser receptoras de la &ldquo;carpeta tributaria electrónica&rdquo;. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 79 del 09 de Agosto del 2016 Aprueba convenio de…
+randes Contribuyentes Establece requisitos que deben cumplir las entidades que se indican para ser receptoras de la &ldquo;carpeta tributaria electrónica&rdquo;. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

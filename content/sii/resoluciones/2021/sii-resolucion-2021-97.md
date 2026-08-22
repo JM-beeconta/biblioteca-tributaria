@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 97
 - Año: 2021
-- Fecha: 2021-08-26
+- Fecha: 2021-08-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso97.pdf
 - Hash SHA-256: 6ccc96e73e071d8dee490d9f6a48d3135ffa4e0857a919773f7fe9fdb224dcfa
 
 ## Resumen
 
-;n exenta sii nº 25, de fecha 24.03.2016. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 98 del 26 de Agosto del 2021 Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican, y modifica resolución exenta sii nº 86 de 2018 Fuente: Subdirección de Fiscalización. Designa secretarios, titulares y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la i. Corte de apelaciones de coyhaique.…
+cción de Fiscalización. Designa secretarios, titulares y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la i. Corte de apelaciones de coyhaique. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

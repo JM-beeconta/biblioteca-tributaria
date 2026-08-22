@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 24
 - Año: 2014
-- Fecha: 2014-02-27
+- Fecha: 2014-02-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso24.pdf
 - Hash SHA-256: efe03233bc3f8aa93dd5b9919742e4c4298cc7b89ca51b682a0a8b5ebb841e19
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica Resolución Exenta SII N° 25 del 27 de Febrero del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Instala la XIX Dirección Regional Metropolitana Santiago Norte, fijando su sede y territorio jurisdiccional. Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 23 del 21 de Febrero del 2014 Establece escala de tasas conforme al precio internacional…
+ia de Contribuyentes. Instala la XIX Dirección Regional Metropolitana Santiago Norte, fijando su sede y territorio jurisdiccional. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

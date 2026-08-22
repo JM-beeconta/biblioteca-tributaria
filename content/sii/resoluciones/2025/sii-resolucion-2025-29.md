@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Unión. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 30 del 06 de Marzo del 2025 Fija nómina de territorios o jurisdicciones que tienen un régimen fiscal preferencial, conforme al Artículo 41 H de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización. Establece criterios para la proposición, negociación y aceptación de las bases de acuerdo en el procedimiento de mediación entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente. Fuente: Subdirecci…
+cción de Fiscalización. Establece criterios para la proposición, negociación y aceptación de las bases de acuerdo en el procedimiento de mediación entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

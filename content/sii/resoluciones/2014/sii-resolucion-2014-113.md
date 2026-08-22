@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Grandes Contribuyentes Resolución Exenta SII N° 114 del 05 de Diciembre del 2014 Rechaza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario Autoriza a la institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario Resolución Exenta SII N° 112 del 04 de Diciembre del 2014 Fija plazo para presen…
+mplimiento Tributario Autoriza a la institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario
 
 ## Referencias detectadas
 

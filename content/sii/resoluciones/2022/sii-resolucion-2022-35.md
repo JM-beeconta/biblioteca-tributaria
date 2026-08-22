@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2022
-- Fecha: 2022-04-22
+- Fecha: 2022-04-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso35.pdf
 - Hash SHA-256: 792d13340c68c64c0f4ea82eebb554d99cbe6607b685194acb7a42aca9770e71
 
 ## Resumen
 
-infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 22 de Abril del 2022 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Designa secretarios, titulares y suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Punta Aren…
+ute;n de Asistencia al Contribuyente. Designa secretarios, titulares y suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Punta Arenas. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

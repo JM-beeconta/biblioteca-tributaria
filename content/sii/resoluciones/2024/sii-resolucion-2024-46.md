@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2024
-- Fecha: 2024-04-15
+- Fecha: 2024-04-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso46.pdf
 - Hash SHA-256: 5adbe0c96150e9d137be5b31dc55b28b169f6c4256dc181c6c2ba679fd92201b
 
 ## Resumen
 
-ÑALADO EN SU ARTÍCULO 41 H. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 15 de Abril del 2024 AJUSTA NÓMINA &ldquo;CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO&rdquo; QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2024. Fuente: Subdirección de Fiscalización. REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 35, de 2016 Fuente: Subdirección Jurídica…
+cción de Fiscalización. REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 35, de 2016 Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

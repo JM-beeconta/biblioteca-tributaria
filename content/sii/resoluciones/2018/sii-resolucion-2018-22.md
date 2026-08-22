@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:0px;'>Deja sin efecto facultad delegatoria que indica, contenida en la Resolución Exenta N° 90, del 2004 Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 23 del 05 de Marzo del 2018 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 21 del 02 de Marzo del 2018 Deja sin efecto resoluciones exentas que establecían la…
+Subdirección Jurídica Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

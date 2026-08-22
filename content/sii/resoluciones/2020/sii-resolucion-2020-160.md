@@ -11,7 +11,7 @@
 
 ## Resumen
 
-zación. Resolución Exenta SII N° 161 del 16 de Diciembre del 2020 Instruye sobre la obligación de informar saldos de los registros de rentas empresariales por parte de los contribuyentes que pasan a estar sujetos a los regímenes pro pyme de los N° 3 y 8 de la letra d) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Implementa excepciones establecidas en el inciso segundo del Artículo 54 de la Ley sobre impuesto a las ventas y servicios, referente a la obligación de emiti…
+cción de Fiscalización. Implementa excepciones establecidas en el inciso segundo del Artículo 54 de la Ley sobre impuesto a las ventas y servicios, referente a la obligación de emitir documentos tributarios electrónicos, en la forma que indica. Deja sin efecto Resolución Ex. SII N° 72 de 31.07.2014. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

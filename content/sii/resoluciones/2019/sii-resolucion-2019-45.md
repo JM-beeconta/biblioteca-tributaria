@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2019
-- Fecha: 2019-04-17
+- Fecha: 2019-04-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso45.pdf
 - Hash SHA-256: 6656b961e8fd4cb610b56f96190e4dce687263ae4c5c8b40a7c3da934c0549a7
 
 ## Resumen
 
-ario que se individualiza. Fuente: Subdirección Jurídica Resolución Exenta SII N° 46 del 17 de Abril del 2019 Autoriza al contribuyente SABORES CARD SPA., RUT N° 76.969.846-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente Regula el intercambio de información entre el Fondo Nacional de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, referida a las cotizaciones de los trabajadores independientes del…
+ute;n de Asistencia al Contribuyente Regula el intercambio de información entre el Fondo Nacional de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N° 3.500, de 1980. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

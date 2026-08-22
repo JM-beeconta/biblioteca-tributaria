@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iago A.G. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 101 del 27 de Octubre del 2022 Elimina la obligación de autorizar ante el servicio de impuestos internos, los certificados de donaciones que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas bajo las condiciones que se indican Fuente: Subdirección de Asistencia al Contribuyente. Resolución Ex…
+ute;n de Asistencia al Contribuyente. Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas bajo las condiciones que se indican Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

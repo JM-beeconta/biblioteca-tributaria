@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2014
-- Fecha: 2014-04-01
+- Fecha: 2014-03-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso31.pdf
 - Hash SHA-256: 8213654785956dfa6c7ba5334303d5ac38b0e5d29a4add5e9dfc64b9ea667c1e
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 32 del 01 de Abril del 2014 Complementa y Rectifica Resolución Exenta SII N° 109 de 27 de Diciembre de 2013, en los términos que indica. Fuente: Dirección Grandes Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 30 del 19 de Marzo del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en lo…
+randes Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

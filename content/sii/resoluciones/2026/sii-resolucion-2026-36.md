@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 37 del 06 de Marzo del 2026 Aplicación del N° 5 del artículo 23 de la Ley de Impuesto a las Ventas y Servicios a los Contribuyentes del rubro agrícola en el contexto de solicitudes de devolución de IVA. Fuente: Subdirección de Fiscalización. Autoriza a Ticketera LONKO Ticket Limitada., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indic…
+cción de Fiscalización. Autoriza a Ticketera LONKO Ticket Limitada., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

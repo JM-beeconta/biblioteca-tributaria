@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 54 del 02 de Mayo del 2024 Modifica Resolución Ex. SII N°28, de 15 marzo de 2023, reemplazando subrogantes de la Secretaría General. Fuente: Subdirección de Asuntos Corporativos. Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° incis…
+cción de Asuntos Corporativos. Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Revoca Resolución Exenta SII N° 52, de 2023 y Resolución Exenta SII N° 33, del 11 de marzo de 2024. Fuente: Subdirección de Asuntos Corpo…
 
 ## Referencias detectadas
 

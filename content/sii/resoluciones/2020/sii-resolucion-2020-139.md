@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 139
 - Año: 2020
-- Fecha: 2020-10-30
+- Fecha: 2020-10-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso139.pdf
 - Hash SHA-256: 0aca09deb8d1affa1d842fd6c23ce74305e87dc84e0f356a7927dded0cc849d5
 
 ## Resumen
 
-g; 21.210, sobre modernización tributaria. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 140 del 30 de Octubre del 2020 Incorpórase a Bice Factoring S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 138 del 29 de Octubr…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

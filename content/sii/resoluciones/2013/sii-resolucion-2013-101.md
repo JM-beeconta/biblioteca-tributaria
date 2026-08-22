@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 101
 - Año: 2013
-- Fecha: 2013-12-10
+- Fecha: 2013-12-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso101.pdf
 - Hash SHA-256: 65cb437772e0f941e04245aca00019423e33f69e21428a2ca90bd362a79fccd4
 
 ## Resumen
 
-de Fiscalización Resolución Exenta SII N° 102 del 10 de Diciembre del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 100 del 29 de Noviembre del 2013 Autoriza como emisores de documentos tributarios…
+cia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

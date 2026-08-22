@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 161
 - Año: 2020
-- Fecha: 2020-12-17
+- Fecha: 2020-12-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso161.pdf
 - Hash SHA-256: 424c86584c403b31e36ed9287d13b64daba7124facabbb5f4a3ea3746d0eddcc
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 162 del 17 de Diciembre del 2020 Establece obligación de las administradoras de fondos de pensiones de informar, en la forma y plazo que se señala, los montos de los retiros efectuados por los afiliados en conformidad la Ley N° 21.295. Fuente: Subdirección de Fiscalización. Instruye sobre la obligación de informar saldos de los registros de rentas empresariales por parte de los contribuyentes que pasan a estar sujetos a los…
+cción de Fiscalización. Instruye sobre la obligación de informar saldos de los registros de rentas empresariales por parte de los contribuyentes que pasan a estar sujetos a los regímenes pro pyme de los N° 3 y 8 de la letra d) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

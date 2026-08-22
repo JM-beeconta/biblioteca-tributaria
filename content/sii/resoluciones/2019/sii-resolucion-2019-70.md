@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2019
-- Fecha: 2019-06-04
+- Fecha: 2019-06-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso70.pdf
 - Hash SHA-256: 95d0f7e309727bc0d7b7ba0ecf081a23e8aa2b0f7f914ab0ad9a53e62b3828d3
 
 ## Resumen
 
-nal de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 71 del 04 de Junio del 2019 Autoriza como receptor electrónico de documentos tributarios electrónicos a la SUBSECRETARÍA DE DEFENSA. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD ALVI SUPERMERCADOS MAYORISTAS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asi…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD ALVI SUPERMERCADOS MAYORISTAS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

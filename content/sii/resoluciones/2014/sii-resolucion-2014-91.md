@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 91
 - Año: 2014
-- Fecha: 2014-09-15
+- Fecha: 2014-09-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso91.pdf
 - Hash SHA-256: b24cd179e75ab43a2e6980f5ff549726053536c6b88340a3b9a3743e07cef0f2
 
 ## Resumen
 
-Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 92 del 15 de Septiembre del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Crea Oficina de Comunicaciones Corporativas en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 90 del 02 de Septiembre del 2014 Registra como emisores de documentos tributarios a contribuyent…
+randes Contribuyentes Crea Oficina de Comunicaciones Corporativas en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección de Recursos Humanos
 
 ## Referencias detectadas
 

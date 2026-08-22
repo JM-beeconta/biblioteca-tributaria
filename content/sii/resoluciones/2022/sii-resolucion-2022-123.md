@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 123
 - Año: 2022
-- Fecha: 2022-12-26
+- Fecha: 2022-12-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso123.pdf
 - Hash SHA-256: 8a30d384634ed56afaf065c94215463120910287b961abefe10170caecaf6608
 
 ## Resumen
 
-artículo 9 de la Ley 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 124 del 26 de Diciembre del 2022 Fija registro del precio corriente en plaza de helicópteros, aviones y yates, según lo establecido en el artículo 9° de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 122 del 21 de Diciem…
+Subdirección de Avaluaciones. Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

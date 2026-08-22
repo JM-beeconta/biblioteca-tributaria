@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 122
 - Año: 2021
-- Fecha: 2021-11-02
+- Fecha: 2021-10-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso122.pdf
 - Hash SHA-256: 146a8a55af5ec7433fa201092e5234da318d2911150815c1fa036e886671dfe3
 
 ## Resumen
 
-n virtud del artículo 60 del código tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 123 del 02 de Noviembre del 2021 Establece requisitos para la emisión de guías de despacho y facturas, de los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad en las jefaturas que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 121 del 26 de Octubre del 2021 Corrige error de transcripción en la resolución exenta SII N° 110 de 2021. F…
+ute;n de Asistencia al Contribuyente. Delega facultad en las jefaturas que indica. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

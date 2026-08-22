@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 148
 - Año: 2020
-- Fecha: 2020-11-30
+- Fecha: 2020-11-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso148.pdf
 - Hash SHA-256: 281326f41c0fa2a533dafe1057630068fdfd2b2fe21a7f6e429bb431ba47c2dd
 
 ## Resumen
 
-ntribuyentes no domiciliados ni residentes en Chile. Deja sin efecto Resolución Exenta SII Nº 36, de 2011. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 149 del 30 de Noviembre del 2020 Amplia plazo establecido por Resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones. Designa secretarios titulares y suplentes en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Copiapó…
+Subdirección de Avaluaciones. Designa secretarios titulares y suplentes en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Copiapó. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

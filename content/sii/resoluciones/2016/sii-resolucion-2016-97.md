@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 97
 - Año: 2016
-- Fecha: 2016-10-04
+- Fecha: 2016-09-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso97.pdf
 - Hash SHA-256: ac44205b67e2982802803ccb4f28f381701cd92f5b5f55d0dd9b99b4015b5768
 
 ## Resumen
 
-nviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 98 del 04 de Octubre del 2016 Delega facultad que indica Fuente: Departamento de Defensa Judicial Civil Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución SII N° 48 del 30 de Septiembre del 2016 Modifica Resolución N° 38, de 15.04.2016, sobre delegación de facultades. Fuente: Subdireccion de Desarrollo de Personas <…
+efensa Judicial Civil Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

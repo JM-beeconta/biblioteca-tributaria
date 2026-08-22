@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2017
-- Fecha: 2017-10-13
+- Fecha: 2017-10-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso94.pdf
 - Hash SHA-256: 24bcd5341f832ca9f3e95c6b99a49ee364336f54742896451e3a70ac7c0e0aaf
 
 ## Resumen
 
-018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 95 del 13 de Octubre del 2017 Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos. Fuente: Subdirección de Avaluaciones Reemplaza formato e instrucciones de Declaración Jurada Formulario Número 1806, modifica Resolución Exenta SII N° 187 del 23.12.2010 y elimina Declaración Jurada de Formulario 1849. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 93 del 12 de Octubre del 2017…
+ute;n de Avaluaciones Reemplaza formato e instrucciones de Declaración Jurada Formulario Número 1806, modifica Resolución Exenta SII N° 187 del 23.12.2010 y elimina Declaración Jurada de Formulario 1849. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

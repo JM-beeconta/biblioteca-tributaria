@@ -11,7 +11,7 @@
 
 ## Resumen
 
-0px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 131 del 26 de Diciembre del 2024 Fija valores de terrenos y construcciones para el reavalúo 2025, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones. Suprime el departamento Subdirección de Asuntos Corporativos. Fuente: Servicio de Impuestos Internos. Resolución Exenta SII N° 129 del 26 de Diciembre del 2024 Reo…
+Subdirección de Avaluaciones. Suprime el departamento Subdirección de Asuntos Corporativos. Fuente: Servicio de Impuestos Internos.
 
 ## Referencias detectadas
 

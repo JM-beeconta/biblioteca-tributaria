@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del Cumplimiento Tributario Resolución Exenta SII N° 119 del 26 de Diciembre del 2016 Modifica la resolución Exenta SII N°4847 de 1995 reemplazando el Formulario 1891 e instrucciones de llenado. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Reemplaza contenido e instrucciones de Declaraciones juradas sobre crédito especial empresas constructoras, Formularios N° 1842 y N° 1843, incluidas en resolución Exenta SII N°151 del 07 de octubre de 2009 Fuente: Departamento de Análisis Masivo del Cum…
+mplimiento Tributario Reemplaza contenido e instrucciones de Declaraciones juradas sobre crédito especial empresas constructoras, Formularios N° 1842 y N° 1843, incluidas en resolución Exenta SII N°151 del 07 de octubre de 2009 Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

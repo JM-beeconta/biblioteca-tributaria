@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 132
 - Año: 2021
-- Fecha: 2021-11-30
+- Fecha: 2021-11-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso132.pdf
 - Hash SHA-256: 8bbe9a5aa8d830f9ef5a05fe7441b34f625cbcb3f90f6b166b0e1f9df37819de
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 133 del 30 de Noviembre del 2021 Establece procedimiento para el aviso de pérdida de domicilio y residencia en Chile y cumplir con la obligación establecida en el artículo 103 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Delega facultades que indica en materias de personas. Refunde y deja sin efecto resoluciones que indica. Fuente: Subdirección de Desarrollo de Personas. Resolución…
+cción de Fiscalización. Delega facultades que indica en materias de personas. Refunde y deja sin efecto resoluciones que indica. Fuente: Subdirección de Desarrollo de Personas.
 
 ## Referencias detectadas
 

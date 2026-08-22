@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 117
 - Año: 2019
-- Fecha: 2019-10-25
+- Fecha: 2019-10-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso117.pdf
 - Hash SHA-256: 2b69fc77e9b3bb68a77a2dcb74ed522442546995c0757b04854cef516cbc8e9b
 
 ## Resumen
 
-vicio de Impuestos Internos y el Ministerio del Medio Ambiente. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 118 del 25 de Octubre del 2019 Complementa Resolución N° 37, de 2013, en los términos que indica. Fuente: Subdirección de Administración Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 116 del 16 de Octubre del 2019 Aprueba Convenio de Interoperabilidad…
+ción de Administración Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

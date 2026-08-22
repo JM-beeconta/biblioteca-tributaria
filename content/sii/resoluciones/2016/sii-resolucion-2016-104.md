@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2016
-- Fecha: 2016-11-11
+- Fecha: 2016-11-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso104.pdf
 - Hash SHA-256: 97e652355e1a242ee4f0c02b6d46fc7f7f3000d679449c96b287bdda96a3f461
 
 ## Resumen
 
-px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 105 del 11 de Noviembre del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 103 del 02 de Noviembre del 2016 Autoriza a las institucio…
+amento de Operaciones Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2015
-- Fecha: 2015-04-02
+- Fecha: 2015-04-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso35.pdf
 - Hash SHA-256: 84dc546def380049c72d4c1051574741746bfa64d60c52090c61888d3511834a
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 36 del 02 de Abril del 2015 Aprueba convenio de prestación de servicios de consulta sobre estado de vigencia de documentos de identidad celebrado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios Autoriza a directores regionales de la I. II, III y XII Dirección Regional para delegar en los funcionarios que se indican las facultades de aplicar sanciones, por infracciones tributarias prevista…
+ón de Estudios Autoriza a directores regionales de la I. II, III y XII Dirección Regional para delegar en los funcionarios que se indican las facultades de aplicar sanciones, por infracciones tributarias previstas y tipificadas en los artículos 97 N° 15, 16 y 109 del Código Tributario, cuyas denuncias respectivas no hayan sido reclamadas, y para conceder condonaciones de las mismas. Fuente: Oficina de Análisis de la Jurísprudencia
 
 ## Referencias detectadas
 

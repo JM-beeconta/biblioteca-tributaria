@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2025
-- Fecha: 2025-03-06
+- Fecha: 2025-03-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso27.pdf
 - Hash SHA-256: 0feda0de86c59c06f9a1b6c19f04e4340cf3cdf4bd8c072fd03f5d6fd37e5f46
 
 ## Resumen
 
-i>Fuente: Subdirección Jurídica. Resolución Exenta SII N° 28 del 06 de Marzo del 2025 Fija procedimiento para la suscripción de acuerdos anticipados de precios de transferencia, conforme al N° 7 del Artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efecto Resoluciones Ex. N° 68 de 2013 y N° 114 de 2022. Fuente: Subdirección de Fiscalización. Complementa y rectifica en el modo que indica listado anexo de la Resolución Exenta N°07 de 2025. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 26 d…
+cción de Fiscalización. Complementa y rectifica en el modo que indica listado anexo de la Resolución Exenta N°07 de 2025. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

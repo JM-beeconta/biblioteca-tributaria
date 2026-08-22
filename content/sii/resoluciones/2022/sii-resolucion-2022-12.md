@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;margin-bottom:0px;'> Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa. Resolución Exenta SII N° 13 del 08 de Febrero del 2022 Modifica Res. Ex. SII N° 21 de 2021. Fuente: Subdirección de Asistencia al Contribuyente. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 11 del 01 de…
+ute;n de Asistencia al Contribuyente. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

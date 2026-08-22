@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2021
-- Fecha: 2021-06-22
+- Fecha: 2021-06-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso61.pdf
 - Hash SHA-256: 561aaa7ecd02812a0c0ae9d405221fd6b46ce3eba36b67e1be1cdca0486b3ca1
 
 ## Resumen
 
-n de Administración. Resolución Exenta SII N° 62 del 22 de Junio del 2021 Fija formato, procedimiento y fecha para envío de información para efectos del bono alivio, que deben entregar las municipalidades del país al Servicio de Impuestos Internos conforme a la Ley N° 21.354, a través de la plataforma web del SII. Fuente: Subdirección de Fiscalización. Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de…
+cción de Fiscalización. Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

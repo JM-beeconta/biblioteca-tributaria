@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ión Resolución Exenta SII N° 127 del 30 de Diciembre del 2014 Establece procedimiento para comunicar tasaciones a valor de mercado de bienes raíces al amparo de la ley N° 20.780, de 2014. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes para acogerse al modelo de operación de contabilidad electrónica Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 125 del 30 de Diciem…
+mplimiento Tributario Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes para acogerse al modelo de operación de contabilidad electrónica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

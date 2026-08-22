@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 133
 - Año: 2020
-- Fecha: 2020-10-16
+- Fecha: 2020-10-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso133.pdf
 - Hash SHA-256: e2e2a3300919f0a6c18dd1566adc323d0e138e123d11f8f5c5683ba9adf77cf5
 
 ## Resumen
 
-os permanentes y otras entidades en el exterior. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 134 del 16 de Octubre del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Amplía el plazo establecido en la Resolución Exenta SII N° 38 de 2020, para presentar o rectificar la declaración jurada 1820 o 1829. Respecto de operaciones de derivados celebrados, modificados, cedidos o liqu…
+ute;n de Asistencia al Contribuyente. Amplía el plazo establecido en la Resolución Exenta SII N° 38 de 2020, para presentar o rectificar la declaración jurada 1820 o 1829. Respecto de operaciones de derivados celebrados, modificados, cedidos o liquidados durante el año 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

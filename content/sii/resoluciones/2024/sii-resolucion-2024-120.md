@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 120
 - Año: 2024
-- Fecha: 2024-12-19
+- Fecha: 2024-12-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso120.pdf
 - Hash SHA-256: e3516e3ae6cf09a6cb1ffdd432bb3e61bc2f6aee54b435a86939dd95b4658b1a
 
 ## Resumen
 
-de Estación Central. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 121 del 19 de Diciembre del 2024 Reitera exigencias legales sobre emisión de facturas para el caso de supermercados y restaurantes y su cumplimiento Fuente: Subdirección de Fiscalización. Establece criterios para definir un caso como relevante o de interés institucional conforme al numeral 5° de la letra C del inciso segundo del artículo 6° del Código Tributario. Fuente: Subdirección de Fiscalización.…
+cción de Fiscalización. Establece criterios para definir un caso como relevante o de interés institucional conforme al numeral 5° de la letra C del inciso segundo del artículo 6° del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

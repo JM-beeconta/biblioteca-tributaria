@@ -11,7 +11,7 @@
 
 ## Resumen
 
-g; 65 de 2015. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 118 del 28 de Septiembre del 2020 Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Exime a fundación arando esperanza, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exe…
+ute;n de Asistencia al Contribuyente. Exime a fundación arando esperanza, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

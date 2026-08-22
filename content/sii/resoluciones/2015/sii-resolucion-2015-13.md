@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2015
-- Fecha: 2015-02-27
+- Fecha: 2015-02-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso13.pdf
 - Hash SHA-256: 83b7ccea1fb719648fcd048c5ae1721caea04b91973df665354d070ccc9a8c96
 
 ## Resumen
 
-Masivo del Cumplimiento Tributario Resolución Exenta SII N° 14 del 27 de Febrero del 2015 Autoriza a institución sin fines de lucro como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica Resolución Exenta SII N° 08, del 10 de enero de 2007, en los términos que indica Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 12 del 24 de Febrero del 2015 Modifica Resolución Ex. N° 19 de 2005, que…
+mplimiento Tributario Modifica Resolución Exenta SII N° 08, del 10 de enero de 2007, en los términos que indica Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

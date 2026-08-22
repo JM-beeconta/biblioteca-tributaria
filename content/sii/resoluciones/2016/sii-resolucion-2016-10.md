@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2016
-- Fecha: 2016-03-07
+- Fecha: 2016-02-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso10.pdf
 - Hash SHA-256: 5e2d449080c27ffa00114b6d8298cafd1b9b1d871b69baf42f51f37acde0a2c9
 
 ## Resumen
 
-Resolución Exenta SII N° 11 del 07 de Marzo del 2016 Modifica Resoluciones Nro. 379, de 1991 y Exenta SII Nro. 75, de 2013. Crea el Departamento de Defensa Judicial Civil dependiente del Departamento Subdireccion Juridica, y le asigna funciones. Fuente: Departamento de Asesoria Juridica Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar modelos de máquinas registradoras, modelos de máquinas de impresión y terminales de punto de venta y para emisión de certificados técnicos de mantenci…
+de Asesoria Juridica Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar modelos de máquinas registradoras, modelos de máquinas de impresión y terminales de punto de venta y para emisión de certificados técnicos de mantención para terminales de punto de venta y máquinas registradoras. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

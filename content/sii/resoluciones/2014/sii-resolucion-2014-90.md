@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2014
-- Fecha: 2014-09-10
+- Fecha: 2014-09-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso90.pdf
 - Hash SHA-256: c2bc8b348afb2f583f6310dbc415207d9380253b9284eecfee1e038ec6c9590f
 
 ## Resumen
 
-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 91 del 10 de Septiembre del 2014 Crea Oficina de Comunicaciones Corporativas en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección de Recursos Humanos Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 89 del 29 de Agosto del 2014 Crea modelo de Certificado N°40, que acredita donaciones con f…
+n de Recursos Humanos Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

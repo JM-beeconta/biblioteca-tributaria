@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2025
-- Fecha: 2025-04-10
+- Fecha: 2025-04-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso44.pdf
 - Hash SHA-256: a7dcfa4fcb582a9f3e741481851798da0a2ba3a09442acca3644028f1173f5f3
 
 ## Resumen
 
-te: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 45 del 10 de Abril del 2025 Fija contenido, forma y plazo para dar cumplimiento a la obligación de informar de la superintendencia del medio ambiente, respecto de los proyectos de inversión, en el contexto de la contribución para el desarrollo regional. Fuente: Subdirección de Fiscalización Instruye sobre forma de documentar e identificar al pagador en las operaciones de venta conforme al artículo 92 ter del código tributario. Fuente: Subdir…
+ección de Fiscalización Instruye sobre forma de documentar e identificar al pagador en las operaciones de venta conforme al artículo 92 ter del código tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

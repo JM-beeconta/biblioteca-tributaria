@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 144
 - Año: 2020
-- Fecha: 2020-11-26
+- Fecha: 2020-11-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso144.pdf
 - Hash SHA-256: 1e8ff730894936ce0f443f5f339033f56c79bc9790f398d529672928642ff7a3
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Administración. Resolución Exenta SII N° 145 del 26 de Noviembre del 2020 Amplía plazo para restituir aporte fiscal del Art. 4° del Art. Primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación del COVID-19. Fuente: Subdirección de Fiscalización. Revoca Res. EX. SII N° 34 de 1981 y delega facultad de calificar como gastos, los desembolsos por concepto de vehículos, en directores regionales y en el director de grand…
+cción de Fiscalización. Revoca Res. EX. SII N° 34 de 1981 y delega facultad de calificar como gastos, los desembolsos por concepto de vehículos, en directores regionales y en el director de grandes contribuyentes. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

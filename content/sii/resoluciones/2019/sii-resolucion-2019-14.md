@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2019
-- Fecha: 2019-02-06
+- Fecha: 2019-02-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso14.pdf
 - Hash SHA-256: be80ce608876a086f8a7475ae759cee39b6a10a4da591aff42b636665bfa49ff
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 15 del 06 de Febrero del 2019 Autoriza a empresa MARKETING Y NEGOCIOS S.A, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Es…
+ute;n de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

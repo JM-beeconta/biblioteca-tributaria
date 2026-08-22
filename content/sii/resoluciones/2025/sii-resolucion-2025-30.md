@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2025
-- Fecha: 2025-03-13
+- Fecha: 2025-03-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso30.pdf
 - Hash SHA-256: 784c0997e4d5159e260feaa2ad641782365c2e179566a41c6e2530437f09409d
 
 ## Resumen
 
-nicipalidad de Chile Chico. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 31 del 13 de Marzo del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Unión. Fuente: Subdirección de Asistencia al Contribuyente. Fija nómina de territorios o jurisdicciones que tienen un régimen fiscal preferencial, conforme al Artículo 41 H de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización. Resoluc…
+ute;n de Asistencia al Contribuyente. Fija nómina de territorios o jurisdicciones que tienen un régimen fiscal preferencial, conforme al Artículo 41 H de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 107 del 17 de Noviembre del 2022 Aprueba convenio de colaboración mutua entre servicio de impuestos internos y coorporación instituto profesional escuela de contadores auditores de santiago Fuente: Subdirección de Asistencia al Contribuyente. Fija criterios generales para aceptar las bases de acuerdo para conciliar y avenir, conforme con lo dispuesto en los artículos 132, 132 BIS y 132 TER del Có…
+ute;n de Asistencia al Contribuyente. Fija criterios generales para aceptar las bases de acuerdo para conciliar y avenir, conforme con lo dispuesto en los artículos 132, 132 BIS y 132 TER del Código Tributario. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

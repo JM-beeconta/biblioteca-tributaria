@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2020
-- Fecha: 2020-05-20
+- Fecha: 2020-05-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso54.pdf
 - Hash SHA-256: dc1dea4b1405315b660d14ba5d952343b153d41dd6a8462ff8296c371f04f5ef
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 55 del 20 de Mayo del 2020 Regula Inscripción en el Régimen de Tributación Simplificada establecido en el Artículo 35 A del nuevo párrafo 7° Bis de La Ley Sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Autoriza a la notaria de Santiago, Sra. Valeria del Carmen Ronchera Flores, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistenc…
+cción de Fiscalización. Autoriza a la notaria de Santiago, Sra. Valeria del Carmen Ronchera Flores, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

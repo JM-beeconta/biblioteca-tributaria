@@ -11,7 +11,7 @@
 
 ## Resumen
 
-22. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 51 del 26 de Abril del 2023 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala y rectifica res. Ex. SII N°02 de 10.01.2023. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultades que indica Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 49 del 24 de Abril del 2023 Excluye De Nómina De Contribuyente Sujeto A Retención, Fijada Conforme A Res…
+ute;n de Asistencia al Contribuyente. Delega facultades que indica Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

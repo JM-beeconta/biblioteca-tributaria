@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 105 del 06 de Septiembre del 2023 Aprueba código de ética del servicio de impuestos internos. Fuente: Subdirección de Contraloría Interna. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 103 del 04 de Septiembre del 2023 Incorpórase a ACF Capital S.A. en la nómina de entidades para ser r…
+cute;n de Contraloría Interna. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

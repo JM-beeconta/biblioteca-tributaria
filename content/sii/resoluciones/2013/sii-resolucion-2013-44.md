@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n y Asistencia de Contribuyentes. Resolución Exenta SII N° 45 del 09 de Mayo del 2013 Téngase por desafiliados del Sistema de facturación electrónica a los contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza a instituciones sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento Medianas y Grandes Empresas. Resolución Exenta SII N° 43 del 06 de Mayo del 2013 Complementa resolución Exenta SII N° 208, de 2009, en relac…
+ia de Contribuyentes. Autoriza a instituciones sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento Medianas y Grandes Empresas.
 
 ## Referencias detectadas
 

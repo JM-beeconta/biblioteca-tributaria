@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 166
 - Año: 2020
-- Fecha: 2020-12-28
+- Fecha: 2020-12-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso166.pdf
 - Hash SHA-256: 0a351f73108c0ef9fb4c916a45cc561102a713accac737df3af7065e3902f4fe
 
 ## Resumen
 
-nómina de Grandes Contribuyentes. Fuente: Dirección De Grandes Contribuyentes. Resolución Exenta SII N° 167 del 28 de Diciembre del 2020 Establece obligación de informar por parte de emisores no bancarios las transacciones con tarjetas de pago según lo que se indica. Fuente: Subdirección de Fiscalización. Instruye sobre de obligatoriedad de emisión de boletas de honorarios electrónicas e implementa excepciones establecidas en el artículo 68 bis de la Ley de Impuesto a la Renta. Fuente: Subdirección de Asistencia a…
+cción de Fiscalización. Instruye sobre de obligatoriedad de emisión de boletas de honorarios electrónicas e implementa excepciones establecidas en el artículo 68 bis de la Ley de Impuesto a la Renta. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

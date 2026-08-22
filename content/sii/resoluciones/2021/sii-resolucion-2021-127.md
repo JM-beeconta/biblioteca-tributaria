@@ -11,7 +11,7 @@
 
 ## Resumen
 
-D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 128 del 11 de Noviembre del 2021 Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2022. Fuente: Subdirección de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 126 del 10 de Noviembre del 202…
+cción de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

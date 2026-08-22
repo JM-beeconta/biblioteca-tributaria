@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n cuenta única de inversión. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 73 del 31 de Agosto del 2022 Reemplaza formato, contenido e instrucciones de declaración jurada anual de caracterización tributaria global, Formulario N° 1913. Fuente: Subdirección de Fiscalización. Modifica Resolución Exenta SII N° 119 de 2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de Formulario N° 1921, en lo Relati…
+cción de Fiscalización. Modifica Resolución Exenta SII N° 119 de 2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de Formulario N° 1921, en lo Relativo a sus obligados, y reemplaza sus Instrucciones. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

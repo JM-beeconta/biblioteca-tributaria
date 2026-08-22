@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 62
 - Año: 2024
-- Fecha: 2024-06-06
+- Fecha: 2024-06-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso62.pdf
 - Hash SHA-256: 121ba906e8a927af4bf468a6ff49b4b0603e92f694b45fa6eba0d8348596b6bb
 
 ## Resumen
 
-ios Nos 1907, 1937, 1950 Y 1951. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 63 del 06 de Junio del 2024 Delega en el (la) Subdirector (a) Jurídico(a), en los (las) Directores (as) Regionales y en el Director (a) de Grandes Contribuyentes las facultades que indica. Fuente: Subdirección Jurídica. Rectifica en el modo que indica listado anexo de la Resolución Exenta SII N° 8, de 2024. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 61 del 24 de Mayo del 2024 Aprueba Convenio de Int…
+Subdirección Jurídica. Rectifica en el modo que indica listado anexo de la Resolución Exenta SII N° 8, de 2024. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

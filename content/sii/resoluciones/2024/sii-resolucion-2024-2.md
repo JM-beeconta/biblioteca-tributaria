@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2024
-- Fecha: 2024-01-08
+- Fecha: 2024-01-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso2.pdf
 - Hash SHA-256: 5a1e61864568bfde6c507f412738f6febff6df896b52bf83b17b95566885f0b5
 
 ## Resumen
 
-a. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 03 del 08 de Enero del 2024 Modifica estructura de XX dirección regional de Chillán incorporando oficina de procedimientos administrativos tributarios y crea grupo de cumplimiento tributario en terreno. Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 02 del 04 de Enero del 2024 Crea plataforma de Mandatarios Digitales, y establece condiciones y términos de uso. Fuente: Subdirección de Asistencia al Contribuyente. Resolución…
+ión de Desarrollo de Personas. Resolución Exenta SII N° 02 del 04 de Enero del 2024 Crea plataforma de Mandatarios Digitales, y establece condiciones y términos de uso. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

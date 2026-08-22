@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 110
 - Año: 2023
-- Fecha: 2023-09-20
+- Fecha: 2023-09-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso110.pdf
 - Hash SHA-256: 0e52708df5a72d80ab70eee8cdfc324f92d2f1326b6d794fa27cbf5f73660afb
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 111 del 20 de Septiembre del 2023 Instruye sobre prórroga del plazo para la presentación de los formularios números 29 y 50 hasta 31 de octubre de 2023, conforme al decreto supremo Nº 1.131 de 2023 del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización. Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo, Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuent…
+cción de Fiscalización. Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo, Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

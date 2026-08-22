@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2020
-- Fecha: 2020-08-05
+- Fecha: 2020-08-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso88.pdf
 - Hash SHA-256: 60e5ee0474198e62f2cc9113de4631edb1f571eeab417231196b3a461eaf2236
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 89 del 05 de Agosto del 2020 Aprueba Convenio de Intercambio de Información y Colaboración entre Subsecretaría de Transportes y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el aporte establecido en el artículo 4° del artículo primero de la Ley N° 21.252. Fuente: Sub…
+tégica y Estudios Tributarios. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el aporte establecido en el artículo 4° del artículo primero de la Ley N° 21.252. Fuente: Subdireccion de Fiscalización.
 
 ## Referencias detectadas
 

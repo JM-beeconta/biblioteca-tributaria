@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2017
-- Fecha: 2017-09-29
+- Fecha: 2017-09-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso87.pdf
 - Hash SHA-256: c42f3c4206112591dabe496bc3ac1266db42405d3b598fe026f26471f97aa8b3
 
 ## Resumen
 
-e: Subdirección de Fiscalización Resolución Exenta SII N° 88 del 29 de Septiembre del 2017 Aprueba protocolo de colaboración &ldquo;Red de Academias, Escuelas y Programas de Servicios Públicos&rdquo;, entre el Servicio de Impuestos Internos y el Servicio Civil. Fuente: Subdirección de Desarrollo de Personas Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 86 del 07 de Septiembre…
+esarrollo de Personas Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

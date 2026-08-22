@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2023
-- Fecha: 2023-06-30
+- Fecha: 2023-06-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso79.pdf
 - Hash SHA-256: c2902847484e290a370658cd978c2d4f87b966d241a214fcd40d91471079c8c5
 
 ## Resumen
 
-ba convenio de colaboración entre el Ministerio Público y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 80 del 30 de Junio del 2023 Otorga condonación sobre las multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de…
+cción de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

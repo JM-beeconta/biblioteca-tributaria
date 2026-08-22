@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 22
 - Año: 2013
-- Fecha: 2013-02-21
+- Fecha: 2013-02-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso22.pdf
 - Hash SHA-256: e12964f3fff3f726ef2aa4a208ba2691b80d32da7027f5280d3ab2d628c3f800
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 23 del 21 de Febrero del 2013 Modifica plazo para la presentación de declaraciones juradas que indica. Fuente: Subdirección de Fiscalización Resolución N° 20 del 19.02.2013, que autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 21 del 19 de Febrero del 2013 A…
+Fiscalización Resolución N° 20 del 19.02.2013, que autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

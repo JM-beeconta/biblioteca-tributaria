@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2021
-- Fecha: 2021-01-12
+- Fecha: 2021-01-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso2.pdf
 - Hash SHA-256: a3c8ba7440c251124ad1866ea0134a6a8847eaef5a27f4273f9c3aba3f8d9ac3
 
 ## Resumen
 
-código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 12 de Enero del 2021 Aprueba Convenio de Colaboración entre Ministerio De Desarrollo Social y Familia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 02 del 07 de Enero del 2021 Instruye sobre procedimiento especial y transitorio para utilizar boletas de honorarios no electrónicas en la forma y condiciones que se establece en casos…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 02 del 07 de Enero del 2021 Instruye sobre procedimiento especial y transitorio para utilizar boletas de honorarios no electrónicas en la forma y condiciones que se establece en casos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

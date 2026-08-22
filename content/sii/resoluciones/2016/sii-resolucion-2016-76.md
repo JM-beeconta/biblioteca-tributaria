@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/span> Resolución Exenta SII N° 77 del 09 de Agosto del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza al Conservador de Bienes Raíces de Puente Alto Sr. Gonzalo Alejandro Martín Iglesias, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 75 del 05 de A…
+Estudios Tributarios Autoriza al Conservador de Bienes Raíces de Puente Alto Sr. Gonzalo Alejandro Martín Iglesias, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

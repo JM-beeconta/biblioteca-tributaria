@@ -11,7 +11,7 @@
 
 ## Resumen
 
-se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exenta SII N° 32 del 13 de Marzo del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chile Chico. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Unión. Fuente: Subdirección de Asistencia al Contribuyente. Resolu…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Unión. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

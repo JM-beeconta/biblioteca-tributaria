@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 74
 - Año: 2020
-- Fecha: 2020-07-03
+- Fecha: 2020-07-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso74.pdf
 - Hash SHA-256: 6bb61a259c0392d0937ff0030a34998c3473354ab8b26941ef1bbd6a113ad951
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 75 del 03 de Julio del 2020 Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instruye sobre procedimiento para emitir boletas electrónicas y boletas no afectas o exentas electrónicas de ventas y servicios. Deja sin efecto resoluciones que indica. Fuente…
+tégica y Estudios Tributarios. Instruye sobre procedimiento para emitir boletas electrónicas y boletas no afectas o exentas electrónicas de ventas y servicios. Deja sin efecto resoluciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

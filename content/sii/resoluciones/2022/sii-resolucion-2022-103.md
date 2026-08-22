@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 104 del 15 de Noviembre del 2022 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Delega Facultad Que Indica En El funcionario Que Se Individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 102 del 08 de Noviembre del 2022 Aprueba convenio de intercambio de información y colaboración…
+ute;n de Asistencia al Contribuyente. Delega Facultad Que Indica En El funcionario Que Se Individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

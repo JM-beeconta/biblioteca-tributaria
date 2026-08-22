@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ividualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 88 del 22 de Agosto del 2023 Autoriza A Proceder Conforme Al Modelo De Operación De Contabilidad Electrónica A Los Contribuyentes Que Señala Y Rectifica Res. Ex. Sii N°51 De 26.04.2023. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Organismos Públicos Que Indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 86 del 17 de Agosto del 202…
+ute;n de Asistencia al Contribuyente. Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Organismos Públicos Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

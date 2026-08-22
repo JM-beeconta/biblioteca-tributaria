@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 193
 - Año: 2025
-- Fecha: 2025-12-23
+- Fecha: 2025-12-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso193.pdf
 - Hash SHA-256: d3068e7dedb01129c631c6959d31878233c7fc6fb0d3c081c59c0039fc02e565
 
 ## Resumen
 
-istro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 194 del 23 de Diciembre del 2025 Fija nómina de bienes afectos, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 192 del 22 de Diciembre del 2025 Establece formulario para decla…
+Subdirección de Avaluaciones. Crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

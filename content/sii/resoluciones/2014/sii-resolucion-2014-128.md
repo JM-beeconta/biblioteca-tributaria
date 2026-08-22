@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acion/resoluciones/2014/reso129.pdf' target='_blank'>Resolución Exenta SII N° 129 del 31 de Diciembre del 2014 Establece los requisitos que deben cumplir el libro de ingresos y egresos y el libro de caja, que se exige llevar a los contribuyentes que se acojan al régimen simplificado de tributación del artículo 14 Ter letra a), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización Establece formulario para declarar y pagar el impuesto sobre rentas acumuladas y retiros en exceso, conforme a lo e…
+Fiscalización Establece formulario para declarar y pagar el impuesto sobre rentas acumuladas y retiros en exceso, conforme a lo establecido en el N° 11, del numeral i), del artículo tercero de las disposiciones transitorias de la Ley N° 20.780 de 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

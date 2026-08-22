@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2018
-- Fecha: 2018-03-06
+- Fecha: 2018-03-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso26.pdf
 - Hash SHA-256: d1b85f010d635eba69eb53b8628eed78925b63ce8c5df0941b0a74abef8525f3
 
 ## Resumen
 
-ute;colas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 27 del 06 de Marzo del 2018 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 25 del 05 de Marzo del 2018 Deroga…
+ute;n de Asistencia al Contribuyente Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

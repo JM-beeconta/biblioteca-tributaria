@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ización Resolución Exenta SII N° 101 del 13 de Octubre del 2017 Modificase la Resolución Exenta SII N° 112, del 24 de diciembre de 2015, que crea la Declaración Jurada anual N° 1926 sobre base imponible de Primera Categoría y datos contables balance Fuente: Subdirección de Fiscalización Modifica Resolución Exenta SII N° 107 de fecha 24 de diciembre 2015 y deroga Resolución Exenta SII N° 31 de fecha 15 de marzo 2017, relativas a la obligación de presentar Declaracion Jurada de contribuyentes acogidos a las disposic…
+Fiscalización Modifica Resolución Exenta SII N° 107 de fecha 24 de diciembre 2015 y deroga Resolución Exenta SII N° 31 de fecha 15 de marzo 2017, relativas a la obligación de presentar Declaracion Jurada de contribuyentes acogidos a las disposiciones de la letra a.- del Artículo 14 ter de la LIR. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2019
-- Fecha: 2019-03-19
+- Fecha: 2019-03-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso35.pdf
 - Hash SHA-256: 247228c6d384c6d765f3cb9ba5ad5da9090c541f14e60fe18adda2087ed62c64
 
 ## Resumen
 
-cute;nica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 36 del 19 de Marzo del 2019 Incorpórase a FACTOTAL S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Exclúyase de la Resolución Exenta N° 78 de 23.08.2017 y de su anexo, al contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 34 del 01 de Marzo del 2019 Modi…
+ute;n de Asistencia al Contribuyente Exclúyase de la Resolución Exenta N° 78 de 23.08.2017 y de su anexo, al contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

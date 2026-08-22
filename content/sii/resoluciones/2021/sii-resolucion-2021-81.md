@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2021
-- Fecha: 2021-07-15
+- Fecha: 2021-07-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso81.pdf
 - Hash SHA-256: d5673ce6a35a5ce83ac8334515d994d9b74beac90b0a02eeff2cff8be8a36a3e
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 82 del 15 de Julio del 2021 Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar anticipo solidario para el pago de cotizaciones de seguridad social, establecido en la Ley N° 21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Imp…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

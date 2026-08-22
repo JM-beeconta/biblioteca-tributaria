@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2018
-- Fecha: 2018-09-28
+- Fecha: 2018-09-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso84.pdf
 - Hash SHA-256: 8374636d9b584d417c10fd609866565c457ac693f75bdf9e9533beea4bdb5f6e
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 85 del 28 de Septiembre del 2018 Deroga resoluciones que se indican, las cuales establecen la obligación de presentar las Declaraciones Juradas Formularios N°1802, N°1803, N°1844, N°1855, N° 1864, N°1868 y N°1911. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

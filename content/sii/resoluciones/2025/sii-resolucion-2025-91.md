@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 91
 - Año: 2025
-- Fecha: 2025-07-29
+- Fecha: 2025-07-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso91.pdf
 - Hash SHA-256: f8d3c0a708252713d4e55a6734aac41bf5d13f11e6bb3bb1613a274d4d8c4774
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 92 del 29 de Julio del 2025 Autoriza a sociedad comercializadora de entradas, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

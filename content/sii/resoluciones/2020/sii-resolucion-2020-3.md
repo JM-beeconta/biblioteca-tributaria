@@ -11,7 +11,7 @@
 
 ## Resumen
 
-poración de Fomento de la Producción. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 04 del 10 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 03 del 10 de Enero del 2020 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 10 de Enero del 2020 Fija tablas d…
+ección de Fiscalización Resolución Exenta SII N° 03 del 10 de Enero del 2020 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

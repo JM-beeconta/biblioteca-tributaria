@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2014
-- Fecha: 2014-04-16
+- Fecha: 2014-04-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso37.pdf
 - Hash SHA-256: 879e58c928ebffb4e707e1bddc80cc6c90a0ffca9f6d2799ba1f78435819d53a
 
 ## Resumen
 
-Asistencia de Contribuyentes Resolución Exenta SII N° 38 del 16 de Abril del 2014 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Amplía plazo de aceptación de propuesta de rebaja del Impuesto Territorial efectuada por el SII, en el marco de la Ley N°20.732, respecto de las cuotas 1 y 2 de 2014, para las regiones de Arica y Parinacota y Tarapacá Fuente: Subdirección de Avaluaciones Resoluc…
+ia de Contribuyentes. Amplía plazo de aceptación de propuesta de rebaja del Impuesto Territorial efectuada por el SII, en el marco de la Ley N°20.732, respecto de las cuotas 1 y 2 de 2014, para las regiones de Arica y Parinacota y Tarapacá Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

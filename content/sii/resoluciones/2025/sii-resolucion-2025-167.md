@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stencia al Contribuyente. Resolución Exenta SII N° 168 del 27 de Noviembre del 2025 Instruye sobre la forma de acreditar el cumplimiento de obligaciones tributarias y las situaciones que se considerarán como incumplimiento para los efectos del inciso decimosegundo del artículo 68 del Código Tributario. Crea certificado que indica. Fuente: Subdirección de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 166 del 27 de Noviembre d…
+cción de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

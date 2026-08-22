@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2021
-- Fecha: 2021-02-04
+- Fecha: 2021-01-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso10.pdf
 - Hash SHA-256: c08e7b12d7cbccff1100b6c181a3a615b331a696d87287380786587ebbab44c0
 
 ## Resumen
 
-Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 11 del 04 de Febrero del 2021 Complementa Resolución Ex. 119 del 28.09.2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de formulario N° 1921 Fuente: Subdirección de Fiscalización. Establece la forma en que los contribuyentes podrán acogerse a la opción de recalcular la tasa de los pagos provisionales a que se refiere la letra a) del artículo 84…
+cción de Fiscalización. Establece la forma en que los contribuyentes podrán acogerse a la opción de recalcular la tasa de los pagos provisionales a que se refiere la letra a) del artículo 84 de la Ley sobre Impuesto a la Renta conforme a la modificación establecida en el N° 52 artículo segundo de la Ley N° 21.210 sobre modernización de la legislación tributaria. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

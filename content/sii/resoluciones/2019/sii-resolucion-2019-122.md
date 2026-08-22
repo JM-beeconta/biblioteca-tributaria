@@ -11,7 +11,7 @@
 
 ## Resumen
 
-II N° 123 del 04 de Noviembre del 2019 Establece forma y plazo para que las municipalidades informen al Servicio de Impuestos Internos la nómina de Bienes Raíces No Agrícolas, que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Deja sin efecto Resoluciones Exentas SII N° 149, de 27.11.2006, y N° 194, de 29.12.2010. Fuente: Subdirección de Avaluaciones Determina contribuyente obligado a aplicar a los bienes o productos, sus envases…
+Subdirección de Avaluaciones Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

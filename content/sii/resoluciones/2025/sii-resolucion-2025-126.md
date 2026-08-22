@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2025
-- Fecha: 2025-09-29
+- Fecha: 2025-09-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso126.pdf
 - Hash SHA-256: cee27a0cc10f85cca2d197242f8cd8d973675eed4854b25ed3414aecffff94e6
 
 ## Resumen
 
-ente: Subdirección de Fiscalización. Resolución Exenta SII N° 127 del 29 de Septiembre del 2025 Modifica vigencia de las resoluciones Ex. SII N° 69 y N° 99, ambas de 2025, sobre cumplimiento de lo dispuesto en los incisos décimosegundo y final del artículo 68 y artículo 89, ambos del código tributario. Fuente: Subdirección de Fiscalización. Determina que los Emiratos Árabes Unidos no tiene un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, en conformidad a lo señalado en su artículo 4…
+cción de Fiscalización. Determina que los Emiratos Árabes Unidos no tiene un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, en conformidad a lo señalado en su artículo 41 H. Deja sin efecto Resolución Ex. SII N° 61 de 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

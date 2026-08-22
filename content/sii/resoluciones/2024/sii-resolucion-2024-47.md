@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 48 del 15 de Abril del 2024 DETERMINA QUE LA REPÚBLICA DE SINGAPUR NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN SU ARTÍCULO 41 H. Fuente: Subdirección de Fiscalización. AJUSTA NÓMINA &ldquo;CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO&rdquo; QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2024. Fuente: Subdirección de Fiscaliz…
+cción de Fiscalización. AJUSTA NÓMINA &ldquo;CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO&rdquo; QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

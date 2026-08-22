@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o zonas afectadas por catástrofe mediante Decreto Supremo. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 51 del 24 de Abril del 2024 Autoriza a emitir una única boleta electrónica de ventas y servicios diaria en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Trib…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

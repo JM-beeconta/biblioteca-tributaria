@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 43 del 21 de Abril del 2021 Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección…
+ute;n de Asistencia al Contribuyente. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

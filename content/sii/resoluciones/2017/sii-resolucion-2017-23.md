@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 23
 - Año: 2017
-- Fecha: 2017-02-15
+- Fecha: 2017-02-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso23.pdf
 - Hash SHA-256: d89b2aa4f769669c37f57a6643739d756e22c96bae20ff2d85cc06a37612c6fc
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 24 del 15 de Febrero del 2017 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina de Gestión Normativa. Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo de Cumplimiento Tributario. Resolución Exenta SII N° 22 del 14 de Febrero del 2017 Establece procedimiento para soli…
+ión Normativa. Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo de Cumplimiento Tributario.
 
 ## Referencias detectadas
 

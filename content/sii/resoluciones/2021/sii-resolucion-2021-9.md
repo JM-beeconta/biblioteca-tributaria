@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2021
-- Fecha: 2021-01-29
+- Fecha: 2021-01-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso9.pdf
 - Hash SHA-256: 1db342e60d382e8f37731808f475bafde28efaa5e36d3a6d42d106c10f8299ed
 
 ## Resumen
 
-Exenta SII N° 10 del 29 de Enero del 2021 Establece la forma en que los contribuyentes podrán acogerse a la opción de recalcular la tasa de los pagos provisionales a que se refiere la letra a) del artículo 84 de la Ley sobre Impuesto a la Renta conforme a la modificación establecida en el N° 52 artículo segundo de la Ley N° 21.210 sobre modernización de la legislación tributaria. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 09 del 28 de Enero del 2021 Modifica la fecha de entrada en vigencia de…
+cción de Fiscalización. Resolución Exenta SII N° 09 del 28 de Enero del 2021 Modifica la fecha de entrada en vigencia de la obligación contenida en la subletra e) de la letra E) de la Resolución Ex. SII N° 176 de fecha 31.12.2020, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

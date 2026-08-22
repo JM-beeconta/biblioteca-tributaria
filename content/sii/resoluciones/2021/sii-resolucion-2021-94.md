@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2021
-- Fecha: 2021-08-13
+- Fecha: 2021-08-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso94.pdf
 - Hash SHA-256: 1acf982a17f2b2b4f5d8534d9941efcb4e6abf0a22f05bf2de5a8deb67a60e28
 
 ## Resumen
 
->Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 95 del 13 de Agosto del 2021 Modifica registro voluntario de instituciones financieras extranjeras e internacionales, formulario y procedimiento de inscripción, para efectos de lo previsto en el artículo 59 n°1, letra b), de la ley sobre impuesto a la renta Fuente: Subdirección de Fiscalización. Exime de la obligación de autorizar ante el SII, los certificados de donaciones a que se refiere la ley n°20.675, a las instituciones que utilicen el sistema…
+cción de Fiscalización. Exime de la obligación de autorizar ante el SII, los certificados de donaciones a que se refiere la ley n°20.675, a las instituciones que utilicen el sistema de donaciones culturales dispuesto en internet por el ministerio de las culturas las artes y el patrimonio Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2025
-- Fecha: 2025-03-19
+- Fecha: 2025-03-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso33.pdf
 - Hash SHA-256: 088468336bda257532ec9244450c5b1076de5f367d8366a106b9e45a04a5004d
 
 ## Resumen
 
-ad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Quisco. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 34 del 19 de Marzo del 2025 OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exenta SII N° 32 del 13 de Marzo del 2025 Au…
+CCIÓN DE FISCALIZACIÓN Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2018
-- Fecha: 2018-04-23
+- Fecha: 2018-04-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso39.pdf
 - Hash SHA-256: ed898d205961375d0fb4697bbc0a19c50f01814dafb24540872354e1945832a4
 
 ## Resumen
 
-Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 47 de 2017 Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 40 del 23 de Abril del 2018 Complementa Resolución Ex. SII N°46, de 2017 Fuente: Subdirección de Avaluaciones Modifica Resolución Ex. SII N° 91, de 20 de septiembre de 2016 que reorganiza las unidades que conforman el Departamento Subdirección Normativa deja sin efecto Resolución Ex. SII N° 137, de 29 de octubre de 20…
+Subdirección de Avaluaciones Modifica Resolución Ex. SII N° 91, de 20 de septiembre de 2016 que reorganiza las unidades que conforman el Departamento Subdirección Normativa deja sin efecto Resolución Ex. SII N° 137, de 29 de octubre de 2008. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

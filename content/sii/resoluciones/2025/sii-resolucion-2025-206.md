@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nte: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 207 del 30 de Diciembre del 2025 Elimina obligación de incorporar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, según Resolución Ex. SII N° 74, del 2020 Fuente: Subdirección de Asistencia al Contribuyente. Designa y establece funciones del encargado de la implementación de modificaciones que la Ley Nº 21.719 incorpora en la Ley Nº 19.628 Fuente: Subdirección de Gestión Estratégica y…
+ute;n de Asistencia al Contribuyente. Designa y establece funciones del encargado de la implementación de modificaciones que la Ley Nº 21.719 incorpora en la Ley Nº 19.628 Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

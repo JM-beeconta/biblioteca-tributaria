@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 76 del 26 de Junio del 2025 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para los semestres que se indican Fuente: Subdirección de Fiscalizac…
+cción de Fiscalización. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para los semestres que se indican Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

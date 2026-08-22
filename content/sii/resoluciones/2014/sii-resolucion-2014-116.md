@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enaciones efectuadas por inversionistas institucionales extranjeros de instrumentos de oferta pública representativos de deuda emitidos por empresas constituidas en el país, y que en su emisión no se hayan acogido al art. 104 de la Ley sobre Impuesto a la Renta, de acuerdo al artículo 9° transitorio Ley N° 20.712, de 2014, sobre &ldquo;administración de fondos de terceros y carteras individuales Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Complementa Resolución Exenta SII N°109 de 27 de…
+mplimiento Tributario Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cipalidad de Paillaco. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 130 del 15 de Noviembre del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Padre Hurtado. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 128 del 13 de Noviembre del 2023 Autoriza como receptor electrónico…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

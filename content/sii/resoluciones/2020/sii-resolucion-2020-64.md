@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2020
-- Fecha: 2020-06-25
+- Fecha: 2020-06-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso64.pdf
 - Hash SHA-256: 16338fa786fac3cfd7bd887e1f43440b563039a65709a2a8727b6d8cac0c9ae8
 
 ## Resumen
 
-;'> Resolución Exenta SII N° 65 del 25 de Junio del 2020 Exime temporalmente de trámitede legalización y apostillas en los documentos exigidos en la inscripción o actualización de registro voluntario de instituciones financieras extranjeras e internacionales, para efectos de lo previsto en el artículo 59 N° 1, letra b), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Exime de la obligación de emitir facturas no afectas o exentas por el transporte de pasajeros y distribución de insumos m…
+cción de Fiscalización. Exime de la obligación de emitir facturas no afectas o exentas por el transporte de pasajeros y distribución de insumos médicos y cajas de alimentos efectuado mediante furgones de transporte escolar, en el marco del estado de excepción constitucional de catástrofe nacional por causa del COVID - 19. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

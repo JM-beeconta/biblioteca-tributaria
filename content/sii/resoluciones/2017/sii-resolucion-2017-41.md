@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2017
-- Fecha: 2017-04-13
+- Fecha: 2017-04-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso41.pdf
 - Hash SHA-256: 7a6eaaa84ebc479d243dcb0acce115c90c87d70240ac6e8a4a311b4af9d7816b
 
 ## Resumen
 
-de la letra a) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 42 del 13 de Abril del 2017 Delega facultad que indica. Fuente: Subdirección de Desarrollo de Personas. aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y Universidad Tecnológica de Chile INACAP y otros. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 40 del 31 de Marzo del 2017 Establece forma y oportunidad en que l…
+sarrollo de Personas. aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y Universidad Tecnológica de Chile INACAP y otros. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

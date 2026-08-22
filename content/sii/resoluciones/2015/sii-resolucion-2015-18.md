@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ción Resolución Exenta SII N° 19 del 09 de Marzo del 2015 Fija nuevo plazo para presentación de Declaraciones Juradas formularios N°s 1851, 1852 y 1853, establecidas mediante Resolución Exenta que se indica. Fuente: Subdirección de Fiscalización Establece forma y plazo de emisión de facturas por pagos de remanentes a clientes finales establecidos en la Ley N° 20.571. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 17 del 04 de Marzo del 2015 Delega en el Subdirector de Adm…
+Fiscalización Establece forma y plazo de emisión de facturas por pagos de remanentes a clientes finales establecidos en la Ley N° 20.571. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

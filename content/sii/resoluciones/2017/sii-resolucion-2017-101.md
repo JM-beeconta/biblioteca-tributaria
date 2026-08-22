@@ -11,7 +11,7 @@
 
 ## Resumen
 
-get='_blank'>Resolución Exenta SII N° 102 del 13 de Octubre del 2017 Establece forma y plazo para que los contribuyentes que tributen conforme a las normas del Artículo 14 letra c) N° 1 (contabilidad simplificada, planillas y contratos), y N° 2 y 34 (renta presunta), de la Ley sobre Impuesto a la Renta (LIR) entreguen y certifiquen la información que se detalla. Fuente: Subdirección de Fiscalización Modificase la Resolución Exenta SII N° 112, del 24 de diciembre de 2015, que crea la Declaración Jurada anual N° 192…
+Fiscalización Modificase la Resolución Exenta SII N° 112, del 24 de diciembre de 2015, que crea la Declaración Jurada anual N° 1926 sobre base imponible de Primera Categoría y datos contables balance Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

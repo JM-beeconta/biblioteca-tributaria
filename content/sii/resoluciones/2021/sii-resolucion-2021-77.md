@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 77
 - Año: 2021
-- Fecha: 2021-07-07
+- Fecha: 2021-07-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso77.pdf
 - Hash SHA-256: 3d44673423404e36aa7e8237f769800965944ca5554c9853dcd9edc96367d55f
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 78 del 07 de Julio del 2021 Autoriza a Administradora de Tarjetas y Créditos Limitada rut 77.119.397-8 y Banco del Estado de Chile, rut 97.030.000-7 a emitir boleta electrónica de ventas y servicios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Complementa resolución Ex. SII N° 68 de 2021, que habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del b…
+ute;n de Asistencia al Contribuyente. Complementa resolución Ex. SII N° 68 de 2021, que habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

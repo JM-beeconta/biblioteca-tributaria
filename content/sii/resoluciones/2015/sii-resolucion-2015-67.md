@@ -11,7 +11,7 @@
 
 ## Resumen
 
-om:10px;'> Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 68 del 07 de Agosto del 2015 Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección Grandes Contribuyentes Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 66 del 31 de Julio del 2015 Modifica fecha de entrada en vigencia de…
+randes Contribuyentes Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

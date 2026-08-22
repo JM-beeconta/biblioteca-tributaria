@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2016
-- Fecha: 2016-04-25
+- Fecha: 2016-04-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/resosii38.pdf
 - Hash SHA-256: fbca8c3dd14dc905f984573506cb49a16f1cb15df6c7a41c1a2a8ca2e811de40
 
 ## Resumen
 
-Resolución Exenta SII N° 39 del 25 de Abril del 2016 Aprueba Modificación a convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Delega facultades que indica. Fuente: Subdireccion de Desarrollo de Personas Resolución Exenta SII N° 37 del 15 de Abril del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección de Avaluaciones y establece ámbitos de competencia de las Unidades qu…
+Estudios Tributarios Delega facultades que indica. Fuente: Subdireccion de Desarrollo de Personas
 
 ## Referencias detectadas
 

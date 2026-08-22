@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2023
-- Fecha: 2023-08-17
+- Fecha: 2023-08-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso85.pdf
 - Hash SHA-256: 99586cd1ed83517470bea37e329348aadbdc0d745f6c889fed89fb7f99f5b47f
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 86 del 17 de Agosto del 2023 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Quemchi Fuente: Subdirección de Ges…
+tégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Quemchi Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

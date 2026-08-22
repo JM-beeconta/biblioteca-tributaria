@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2018
-- Fecha: 2018-05-17
+- Fecha: 2018-05-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso44.pdf
 - Hash SHA-256: 81e4d76ee9d990d674d4b527b3b282aab0d47723fff903b000cdc82fc71be6a4
 
 ## Resumen
 
-ción Exenta SII N° 47 de fecha 19.05.2014. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 45 del 17 de Mayo del 2018 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Autoriza a empresa ATRAPALO CHILE S.A., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Res…
+ute;n de Asistencia al Contribuyente Autoriza a empresa ATRAPALO CHILE S.A., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2026
-- Fecha: 2026-08-21
+- Fecha: 2026-08-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso105.pdf
 - Hash SHA-256: 522a18051fc7c5a756d7f2d2e8707bf24e22a973bf641a27740baadf3d3ea09f
 
 ## Resumen
 
-Resolución Exenta SII N° 106 del 21 de Agosto del 2026 Reorganiza las unidades que conforman el departamento subdirección de avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones Complementa y modifica nomina de Grandes Contribuyentes, establecida en la Resolucion Ex. SII N° 208, de fecha 30 de diciembre de 2025. Fuente: Subdireccion de grandes contribuyentes Resolución Exenta SII N° 104 del 19 de Agosto del 2026 Otorga condonac…
+: Subdirección de Avaluaciones Complementa y modifica nomina de Grandes Contribuyentes, establecida en la Resolucion Ex. SII N° 208, de fecha 30 de diciembre de 2025. Fuente: Subdireccion de grandes contribuyentes
 
 ## Referencias detectadas
 

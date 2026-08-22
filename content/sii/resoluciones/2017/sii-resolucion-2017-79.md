@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Agosto del 2017 Establece forma y plazo para presentar Declaración Jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra b) del Artículo 14 de la Ley sobre Impuesto a la Renta, y sobre saldo de retiros en exceso pendientes de imputación Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece forma y plazo para presentar la Declaración Jurada anual sobre retiros, remesas y/o dividendos distri…
+mplimiento Tributario Establece forma y plazo para presentar la Declaración Jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra a) del Artículo 14 de la Ley sobre Impuesto a la Renta y sobre saldo de retiros en exceso pendiente de imputación. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Asistencia al Contribuyente Resolución Exenta SII N° 75 del 05 de Agosto del 2016 Autoriza a instituciones sin fines de lucro, como repectora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis masivo del Cumplimiento tributario Establece forma y plazo en que las empresas, comunidades o sociedades deben certificar el valor de costo para fines tributarios, a la fecha de término de giro, de los bienes que se adjudiquen sus dueños, comuneros, socios o accionistas en la disolución o…
+mplimiento tributario Establece forma y plazo en que las empresas, comunidades o sociedades deben certificar el valor de costo para fines tributarios, a la fecha de término de giro, de los bienes que se adjudiquen sus dueños, comuneros, socios o accionistas en la disolución o liquidación de aquellas. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

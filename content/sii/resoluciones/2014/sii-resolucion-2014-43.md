@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2014
-- Fecha: 2014-05-09
+- Fecha: 2014-05-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso43.pdf
 - Hash SHA-256: 51a15c11d126cdcd79f8355ac53442ecea674431691ba7969dd3fc09d2221bf5
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 44 del 09 de Mayo del 2014 Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica Fuente: Departamento Asesoría Jurídica Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 42 del 02 de Mayo del 2014 Registra como emisores de documentos Tributarios…
+ute;a Jurídica Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

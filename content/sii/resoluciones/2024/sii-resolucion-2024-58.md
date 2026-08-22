@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2024
-- Fecha: 2024-05-20
+- Fecha: 2024-05-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso58.pdf
 - Hash SHA-256: 20adf9dc0f388b4e324ff548818fb5990c7405d8a053d29a891be35090a8da12
 
 ## Resumen
 
-ga facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 59 del 20 de Mayo del 2024 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lanco Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resoluci…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lanco Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

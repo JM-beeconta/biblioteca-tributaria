@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 28 del 28 de Febrero del 2020 Autoriza al notario público de Cauquenes, Sr. José Antonio Martínez Demandes, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza al notario público de Osorno, Sr. Abdallah Fernandez Atuez, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución…
+ute;n de Asistencia al Contribuyente. Autoriza al notario público de Osorno, Sr. Abdallah Fernandez Atuez, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 108
 - Año: 2017
-- Fecha: 2017-11-06
+- Fecha: 2017-11-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso108.pdf
 - Hash SHA-256: 1300d08d7ee0e33d29a1531d32105b74164640e23046b262181f925443860457
 
 ## Resumen
 
-e sus ámbitos de competencia. Fuente: Subdirección de Informática Resolución Exenta SII N° 109 del 06 de Noviembre del 2017 Designa responsables en las certificaciones digitales que indica. Fuente: Subdirección de Asistencia al Contribuyente Crea el centro de formación e investigación tributaria del servicio de impuestos internos. Fuente: Subdireccion de Desarrollo de Personas Resolución Exenta SII N° 107 del 26 de Octubre del 2017 Establece la obligación de presentar declaración jurada anual sobre operaciones en…
+ncia al Contribuyente Crea el centro de formación e investigación tributaria del servicio de impuestos internos. Fuente: Subdireccion de Desarrollo de Personas
 
 ## Referencias detectadas
 

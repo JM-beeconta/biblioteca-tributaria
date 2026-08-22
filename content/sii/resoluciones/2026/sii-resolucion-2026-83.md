@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 84 del 23 de Junio del 2026 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42 de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Establece régimen voluntario de cambio total del sujeto de derecho del IVA en servicios agrícolas prestados a terceros. Fuente: Subdirección de Fiscalización. Resoluc…
+cción de Fiscalización. Establece régimen voluntario de cambio total del sujeto de derecho del IVA en servicios agrícolas prestados a terceros. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

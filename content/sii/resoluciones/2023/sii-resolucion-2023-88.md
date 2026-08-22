@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2023
-- Fecha: 2023-08-23
+- Fecha: 2023-08-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso88.pdf
 - Hash SHA-256: cce24ef37a0c697d4cefccbd0b7df294a36f89608dfaefddd8153f93aca77775
 
 ## Resumen
 
-lidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Granja Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 89 del 23 de Agosto del 2023 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Autoriza A Proceder Conforme Al Modelo De Operación De Contabilidad Electrónica A Los Contribuyentes Que Señala Y Rectifica Res. Ex. Sii N°51 De 26.04.2023. Fuente: Subdirección de Asistencia al Contribuyente.…
+Subdirección Jurídica. Autoriza A Proceder Conforme Al Modelo De Operación De Contabilidad Electrónica A Los Contribuyentes Que Señala Y Rectifica Res. Ex. Sii N°51 De 26.04.2023. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

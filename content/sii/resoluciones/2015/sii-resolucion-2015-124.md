@@ -11,7 +11,7 @@
 
 ## Resumen
 
-epartamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 125 del 31 de Diciembre del 2015 Aprueba Convenio de Colaboración entre el Comité de Seguros del Agro y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios Establece Obligación de llevar Libro Auxiliar de Control del Límite de Ventas o Ingresos, de los contribuyentes acogidos a un régimen de Renta Presunta, que no estén obligados a llevar Libro de Compras y Ventas y que no califiquen como Microempresas. Fuente: Subd…
+ón de Estudios Establece Obligación de llevar Libro Auxiliar de Control del Límite de Ventas o Ingresos, de los contribuyentes acogidos a un régimen de Renta Presunta, que no estén obligados a llevar Libro de Compras y Ventas y que no califiquen como Microempresas. Fuente: Subdireción de Fiscalización
 
 ## Referencias detectadas
 

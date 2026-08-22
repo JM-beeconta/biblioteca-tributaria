@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2013
-- Fecha: 2013-09-05
+- Fecha: 2013-08-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso79.pdf
 - Hash SHA-256: 4da257370e370e76d796a3e2aaad97554a75b773f6a99be0474484c03cc1947d
 
 ## Resumen
 
-om:10px;'> Fuente: Departamento de Normas Internacionales Resolución Exenta SII N° 80 del 05 de Septiembre del 2013 Instruye sobre presentación de Formulario 2667 de solicutud de condonación de intereses y multas Fuente: Departamento de Asesoría Jurídica Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 78 del 23 de Agosto del 2013 Autoriza a proceder conforme al m…
+ute;a Jurídica Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2022
-- Fecha: 2022-07-19
+- Fecha: 2022-07-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso60.pdf
 - Hash SHA-256: 5869cbae33336ec4d146b17c1a02b732a5335cd37b1de593b0c41333384ddf8c
 
 ## Resumen
 
-oacute;n Exenta SII N° 61 del 19 de Julio del 2022 Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar a objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización. Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuest…
+cción de Fiscalización. Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación de Asistencia Legal del Colegio Médico. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

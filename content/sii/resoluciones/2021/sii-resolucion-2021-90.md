@@ -11,7 +11,7 @@
 
 ## Resumen
 
-S.A Para Operar De Acuerdo a Lo Dispuesto En Resolucion EX.SII N°172 2010 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 91 del 30 de Julio del 2021 Envío de información que deben entregar las municipalidades para los fines de la Ley N° 21.354. Fuente: Subdirección de Fiscalización. Fija requisitos de llenado, para las facturas, notas de crédito y notas de débito, utilizadas en la venta de cigarrillos, efectuadas por contribuyentes obligados a utilizar el sistema de trazabilidad fiscal. Fuente: Su…
+cción de Fiscalización. Fija requisitos de llenado, para las facturas, notas de crédito y notas de débito, utilizadas en la venta de cigarrillos, efectuadas por contribuyentes obligados a utilizar el sistema de trazabilidad fiscal. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

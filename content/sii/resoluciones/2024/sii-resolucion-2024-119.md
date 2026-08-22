@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 119
 - Año: 2024
-- Fecha: 2024-12-18
+- Fecha: 2024-12-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso119.pdf
 - Hash SHA-256: 2e45a5018702e4f832aaac5a0478715fbf7799af61b448f4ac5c8f2721ca4285
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 120 del 18 de Diciembre del 2024 Establece criterios para definir un caso como relevante o de interés institucional conforme al numeral 5° de la letra C del inciso segundo del artículo 6° del Código Tributario. Fuente: Subdirección de Fiscalización. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el…
+cción de Fiscalización. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del Artículo 3° de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

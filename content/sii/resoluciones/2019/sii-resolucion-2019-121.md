@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 121
 - Año: 2019
-- Fecha: 2019-11-04
+- Fecha: 2019-10-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso121.pdf
 - Hash SHA-256: 83c37e21cc2f5e85f4814578f94ddb4cdb30cc36bb52c1bbe2a9ba774363a152
 
 ## Resumen
 
-ta SII N° 122 del 04 de Noviembre del 2019 Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Otorga condonación sobre los intereses y/o multas infraccionales en los ca…
+cción de Fiscalización Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

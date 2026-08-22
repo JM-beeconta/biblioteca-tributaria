@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2018
-- Fecha: 2018-11-09
+- Fecha: 2018-10-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso106.pdf
 - Hash SHA-256: b440a32595378721e75d125bc236ea14bf192c202d3ae5e3db973343144a1e15
 
 ## Resumen
 
-iable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 107 del 09 de Noviembre del 2018 Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 105 del 19 de Octubr…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

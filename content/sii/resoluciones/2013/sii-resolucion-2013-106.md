@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2013
-- Fecha: 2013-12-27
+- Fecha: 2013-12-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso106.pdf
 - Hash SHA-256: d913563dd52a6d1870fde6958a68977fc198ecca4f9ec391e0b597f388c79091
 
 ## Resumen
 
-oacute;n de Avaluaciones Resolución Exenta SII N° 107 del 27 de Diciembre del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Reemplaza estructura y contenido de Declaración Juradas y Certificados que se indican Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 105 del 17 de Diciembre del 2013 Autoriza como emisores de documentos tributarios electr…
+cia de Contribuyentes Reemplaza estructura y contenido de Declaración Juradas y Certificados que se indican Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

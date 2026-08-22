@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 17
 - Año: 2025
-- Fecha: 2025-02-13
+- Fecha: 2025-02-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso17.pdf
 - Hash SHA-256: d2b513e5ad33a69d5cbb64d06e244a97a8127e07f6d43b3a888209934318ac79
 
 ## Resumen
 
-Ancud Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Resolución Exenta SII N° 18 del 13 de Febrero del 2025 Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Resolución Exen…
+cute;N DE ASISTENCIA AL CONTRIBUYENTE Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 ## Referencias detectadas
 

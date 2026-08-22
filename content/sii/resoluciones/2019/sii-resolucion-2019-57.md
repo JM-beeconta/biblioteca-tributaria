@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 58 del 07 de Mayo del 2019 Incorpórase a EUROCAPITAL S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 56 del 02 de Mayo…
+ute;n de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

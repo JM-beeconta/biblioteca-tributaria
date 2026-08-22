@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Internos y la Corporación de Actores de Chile. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 142 del 27 de Diciembre del 2018 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Chilena del Libro. Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de la Industria del Reciclaje A.G. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 140 del 27 de Di…
+cción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de la Industria del Reciclaje A.G. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

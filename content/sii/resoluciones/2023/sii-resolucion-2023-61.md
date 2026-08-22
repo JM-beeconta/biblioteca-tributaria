@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2023
-- Fecha: 2023-05-30
+- Fecha: 2023-05-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso61.pdf
 - Hash SHA-256: 4585d90226a868ea6b72309d3c747b3816309dea4fb6c3d9d6e38ca4019a326d
 
 ## Resumen
 
-ales. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 62 del 30 de Mayo del 2023 Autoriza a CHILE TIKET SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Actualiza requisitos que deben cumplirse para dar aviso de pérdida o inutilización de libros de contabilidad o documentos que sirvan para acreditar anotaciones contables o que estén relacionados…
+ute;n de Asistencia al Contribuyente. Actualiza requisitos que deben cumplirse para dar aviso de pérdida o inutilización de libros de contabilidad o documentos que sirvan para acreditar anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, de acuerdo con lo establecido en el artículo 97 N° 16 del código tributario. Deroga Resolución EX. N° 109, de 04.02.1976; y deroga en lo pertinente la Resolución Exenta N° 2301, de 1986. Fuente: Subdirección de Asistencia al Contribuyen…
 
 ## Referencias detectadas
 

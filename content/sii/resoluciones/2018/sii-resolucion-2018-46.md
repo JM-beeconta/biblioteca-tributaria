@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2018
-- Fecha: 2018-05-25
+- Fecha: 2018-05-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso46.pdf
 - Hash SHA-256: 8e54a6cf948c00a5395eda8b38e309a90707415d21e30ac7f7b186ebe2a4fba4
 
 ## Resumen
 
-e presentar anualmente información sobre cuentas financieras, de conformidad al Artículo 62 TER del código tributario. Fuente: Subdirección Normativa Resolución Exenta SII N° 47 del 25 de Mayo del 2018 Rectifica lista anexa de la Resolución N° 04 exenta, de 2018. Fuente: Subdirección de Avaluaciones Establece obligación de presentar Declaración Jurada Anual sobre trusts; fija formato y mecanismo de declaración; y deroga Resolución Exenta SII N° 47 de fecha 19.05.2014. Fuente: Subdirección de Fiscalización Resoluci…
+Subdirección de Avaluaciones Establece obligación de presentar Declaración Jurada Anual sobre trusts; fija formato y mecanismo de declaración; y deroga Resolución Exenta SII N° 47 de fecha 19.05.2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

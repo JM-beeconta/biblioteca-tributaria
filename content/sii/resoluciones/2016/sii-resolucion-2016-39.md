@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 40 del 25 de Abril del 2016 Aprueba Adendum Anexo al convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba Modificación a convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución SII N° 38 del 15 de Abril del 2016 Delega facultades…
+Estudios Tributarios Aprueba Modificación a convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

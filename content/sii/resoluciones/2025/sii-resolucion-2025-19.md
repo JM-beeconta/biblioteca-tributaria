@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2025
-- Fecha: 2025-02-20
+- Fecha: 2025-02-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso19.pdf
 - Hash SHA-256: 8c9e6478f17dd3bcbea39a80a76a64ebc95755e20483b68b382d54d26e903dc2
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN Resolución Exenta SII N° 20 del 20 de Febrero del 2025 AUTORIZA A SERVICIOS DE DESARROLLO NUTRE SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Ancud Fuente: SUBDIRECCIÓ…
+cute;N DE ASISTENCIA AL CONTRIBUYENTE Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Ancud Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 ## Referencias detectadas
 

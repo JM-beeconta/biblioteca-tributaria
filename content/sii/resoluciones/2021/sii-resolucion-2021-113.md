@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 113
 - Año: 2021
-- Fecha: 2021-10-07
+- Fecha: 2021-10-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso113.pdf
 - Hash SHA-256: 86e2bf06ef51c27e9e55cea10cc71c8aab1f152f7ce848ea7bd01a354ea77b69
 
 ## Resumen
 
-o. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 114 del 07 de Octubre del 2021 Incorpórase a INGE Sociedad Anónima de garantía recíproca, en la nómina de entidades para ser receptora de la Carpeta Tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Eliminase la aposición de cuño seco, en la autorización de documentos Tributarios en papel. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 112 del 04 de Octubre del 2021 Establece la forma y requ…
+ute;n de Asistencia al Contribuyente. Eliminase la aposición de cuño seco, en la autorización de documentos Tributarios en papel. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

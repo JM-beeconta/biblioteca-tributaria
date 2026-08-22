@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tyle='margin-top:0px;margin-bottom:0px;'>Modifica Resolución Exenta N° 66 de 2016 en los términos que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 189 del 18 de Diciembre del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 187 del…
+Subdirección Jurídica. Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2025
-- Fecha: 2025-07-24
+- Fecha: 2025-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso89.pdf
 - Hash SHA-256: 2542f868a44beee2f48eb287362768eca324eb0effdfb1e42540ae24ddd93a3c
 
 ## Resumen
 
-contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 90 del 24 de Julio del 2025 Autoriza a CONECTADOS SPA, Rut N° 76.832.409-3, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 88 del 17 de Julio del 2025 Delega en los (las) sub…
+ute;n de Asistencia al Contribuyente. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

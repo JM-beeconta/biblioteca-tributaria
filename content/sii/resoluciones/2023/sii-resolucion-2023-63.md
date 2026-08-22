@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2023
-- Fecha: 2023-05-31
+- Fecha: 2023-05-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso63.pdf
 - Hash SHA-256: 5159c861a4ba1b6c89908fd1b30c87658969021ab218a764d34bdd1245409a6c
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 64 del 31 de Mayo del 2023 Designa secretaria titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de Apelaciones de La Serena Fuente: Subdirección Jurídica. Modifica Res. Ex. SII N° 115 del 2022, en lo referido al procedimiento extraordinario para el registro de las sociedades de profesionales. Fuente: Subdirec…
+Subdirección Jurídica. Modifica Res. Ex. SII N° 115 del 2022, en lo referido al procedimiento extraordinario para el registro de las sociedades de profesionales. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

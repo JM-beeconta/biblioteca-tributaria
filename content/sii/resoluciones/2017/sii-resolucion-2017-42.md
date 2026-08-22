@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece forma y oportunidad en que los contribuyentes del impuesto de primera categoría acogidos a los regímenes tributarios: art. 14 letra a), renta presunta, o art. 14 ter deben cumplir con la obligación de informar los criterios para la distribución de utilidades, establecida en el n° 6 de la letra a) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Asistencia al Contribuyente Delega facultad que indica. Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 41 de…
+ncia al Contribuyente Delega facultad que indica. Fuente: Subdirección de Desarrollo de Personas.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2020
-- Fecha: 2020-06-01
+- Fecha: 2020-05-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso58.pdf
 - Hash SHA-256: 9e2d41ce83b050c8a7a3fa4a095a8e423e4907b0f21065ab2e9e33ba65fba12a
 
 ## Resumen
 
-ción de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 59 del 01 de Junio del 2020 Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias. Fuente: Subdirección Normativa. Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Ex…
+uente: Subdirección Normativa. Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Exentas SII N°s 80 y N°81, de 2017. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

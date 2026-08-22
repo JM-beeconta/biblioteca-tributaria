@@ -11,7 +11,7 @@
 
 ## Resumen
 
-omunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 92 del 10 de Julio del 2026 Autoriza acceso a los servicios de interoperabilidad cartografía digital &ldquo;Sii-mapas&rdquo; a la Ilustre Municipalidad de Chonchi. Fuente: Subdirección de Avaluaciones. Modifica resolución exenta SII N° 110 de 2024 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 01 de Julio del 2026 Autoriza como receptor electrónico de documentos t…
+Subdirección de Avaluaciones. Modifica resolución exenta SII N° 110 de 2024 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

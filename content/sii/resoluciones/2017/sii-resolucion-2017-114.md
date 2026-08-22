@@ -11,7 +11,7 @@
 
 ## Resumen
 
-embre del 2017 Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a empresas organizadoras o productoras de espectáculos públicos para emitir por medio de mandatarios, las boletas de servicios correspondientes a las ventas de entradas para el ingreso a espectáculos públicos y reuniones pagadas, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Establece procedimiento para que las municipalidades informen al servicio de impuestos internos respecto…
+ncia al Contribuyente Establece procedimiento para que las municipalidades informen al servicio de impuestos internos respecto de las recepciones definitivas de construcciones y, o regularizaciones que otorguen. Fuente: Subdirección de Avaluaciones, Oficina de Proyectos
 
 ## Referencias detectadas
 

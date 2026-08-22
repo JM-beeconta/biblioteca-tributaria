@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2015
-- Fecha: 2015-12-24
+- Fecha: 2015-12-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso104.pdf
 - Hash SHA-256: 6c580121ba2d7460491f9f3b2bc3af30b27db6230cb5debba85332b59dd16f24
 
 ## Resumen
 
-Resolución Exenta SII N° 105 del 24 de Diciembre del 2015 Modifica Declaraciones juradas formularios N° 1821 y 1822, y su certificacion respectiva, y extiende obligación de declarar a los contribuyentes que indica Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Aprueba Convenio de Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos Fuente: Subdirección de Estudios Resolución Exenta SII N° 103 del 21 de Diciembre del 2015 Actualiza normas de func…
+mplimiento Tributario Aprueba Convenio de Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos Fuente: Subdirección de Estudios
 
 ## Referencias detectadas
 

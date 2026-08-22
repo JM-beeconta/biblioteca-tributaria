@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ontabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 98 del 10 de Octubre del 2024 Crea registro de asociaciones culturales y deja sin efecto la Resolución Ex. SII N° 6 de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Quinta Normal. Fuente: Subdirección de Gestión Estratégica y Estudios Tributario…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Quinta Normal. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

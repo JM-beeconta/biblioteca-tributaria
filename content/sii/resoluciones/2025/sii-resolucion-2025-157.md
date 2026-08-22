@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 157
 - Año: 2025
-- Fecha: 2025-11-10
+- Fecha: 2025-11-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso157.pdf
 - Hash SHA-256: 73f586f8dd9b2c3f77e51ac4f167753c49e22b0fdd88c324bca9d7c0d034e5e4
 
 ## Resumen
 
-ceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 158 del 10 de Noviembre del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Pedro Aguirre Cerda. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N°…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Pedro Aguirre Cerda. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

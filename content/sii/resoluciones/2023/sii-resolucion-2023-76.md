@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nte: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 77 del 28 de Junio del 2023 Designa secretarios titular y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de Coyhaique. Fuente: Subdirección Jurídica. Modifica resolución exenta SII Nº 128 de 2022, en los términos que indica Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 75 del 28 de Junio del…
+Subdirección Jurídica. Modifica resolución exenta SII Nº 128 de 2022, en los términos que indica Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

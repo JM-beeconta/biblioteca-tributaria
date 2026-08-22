@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2016
-- Fecha: 2016-12-28
+- Fecha: 2016-12-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso126.pdf
 - Hash SHA-256: dc45124e8d50fb1f996a1606ae913c09b398a306347c5c2f4cec046e8d2a00d9
 
 ## Resumen
 
-an> Resolución Exenta SII N° 127 del 28 de Diciembre del 2016 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario incorporado por la Ley 20.899, del 08.02.2016 Fuente: Subdirección de Asistencia al Contribuyente Deroga y refunde lo dispuesto en la Resolución del Servicio de Impuestos Internos Ex. N° 14 de 2013 que establece la obligación de presentar Declaración Jurada Anual informativa de precios de transferencia en la presente resolución y además establece obligaci…
+ncia al Contribuyente Deroga y refunde lo dispuesto en la Resolución del Servicio de Impuestos Internos Ex. N° 14 de 2013 que establece la obligación de presentar Declaración Jurada Anual informativa de precios de transferencia en la presente resolución y además establece obligación de presentar Declaración Jurada Anual denominada &ldquo;Reporte Pais por Pais&rdquo; a contribuyentes que indica. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

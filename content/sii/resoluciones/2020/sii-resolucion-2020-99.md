@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 100 del 28 de Agosto del 2020 Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de concepción. Fuente: Departamento de Asesoría Jurídica. Establece forma y plazo para presentar declaración jurada anual sobre dividendos distribuidos y créditos correspondientes por acciones en custodia. Fuente: Subdirección d…
+o de Asesoría Jurídica. Establece forma y plazo para presentar declaración jurada anual sobre dividendos distribuidos y créditos correspondientes por acciones en custodia. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

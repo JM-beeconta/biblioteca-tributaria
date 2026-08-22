@@ -11,7 +11,7 @@
 
 ## Resumen
 
-internos Fuente: Subdirección de Administración. Resolución Exenta SII N° 90 del 23 de Agosto del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Granja Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 88 del 22 de Agosto del 2023 Autoriza A Proceder Conforme Al Modelo De Operación De Conta…
+tégica y Estudios Tributarios. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 32 del 07 de Marzo del 2024 Crea registro de contribuyentes residentes o domiciliados en Isla de Pascua. Fuente: Subdirección de Asistencia al Contribuyente. Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de…
+ute;n de Asistencia al Contribuyente. Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de San Miguel. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

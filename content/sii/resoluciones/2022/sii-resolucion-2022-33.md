@@ -11,7 +11,7 @@
 
 ## Resumen
 
-primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Punta Arenas. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 34 del 19 de Abril del 2022 Delega facultad relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Gabinete. Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SI…
+in-bottom:10px;'> Fuente: Gabinete. Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n. Resolución Exenta SII N° 105 del 26 de Agosto del 2025 Establece obligación de corredores de bolsa y agentes de valores, casas de cambio y otras entidades intermediadoras de informar al servicio operaciones que indica, efectuadas por cuenta de sus clientes. Deja sin efecto Resolución Ex. N° 4847 de 1995, y sus modificaciones. Fuente: Subdirección de Fiscalización. Remplaza formato, contenido e instrucciones de declaraciones juradas contenidas en las resoluciones que se indican. Deja sin efecto Resolución E…
+cción de Fiscalización. Remplaza formato, contenido e instrucciones de declaraciones juradas contenidas en las resoluciones que se indican. Deja sin efecto Resolución Ex. SII N° 96 de 2016 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

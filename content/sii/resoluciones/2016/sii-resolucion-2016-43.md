@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2016
-- Fecha: 2016-05-20
+- Fecha: 2016-05-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso43.pdf
 - Hash SHA-256: d3b82653c3c254557c1108402cb97bc057f10de3ce458dc440d2cb792cf27000
 
 ## Resumen
 
-atégica y Estudios Tributarios Resolución Exenta SII N° 44 del 20 de Mayo del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 42 del 13 de Mayo del 2016 Autoriza a institución sin f…
+mplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

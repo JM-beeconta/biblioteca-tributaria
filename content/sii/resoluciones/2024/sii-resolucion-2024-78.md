@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2024
-- Fecha: 2024-08-23
+- Fecha: 2024-08-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso78.pdf
 - Hash SHA-256: d2f10101daeab52ef49e5abd531d729796f5f78916421d8527a42453207263a9
 
 ## Resumen
 
-r electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 79 del 23 de Agosto del 2024 Deja sin efecto resoluciones exentas N° 1055 de 2010 y N° 96 DE 2013. Fuente: Subdirección de Administración. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 77 del 01 de Agosto del 202…
+ción de Administración. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

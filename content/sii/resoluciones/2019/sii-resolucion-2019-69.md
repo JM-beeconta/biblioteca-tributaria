@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 70 del 03 de Junio del 2019 Autoriza a la SOCIEDAD ALVI SUPERMERCADOS MAYORISTAS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD SUPER 10 S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y con…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD SUPER 10 S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

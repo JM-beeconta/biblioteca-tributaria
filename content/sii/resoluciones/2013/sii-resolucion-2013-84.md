@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2013
-- Fecha: 2013-09-30
+- Fecha: 2013-09-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso84.pdf
 - Hash SHA-256: 44f0dc07fc5a9f674d48babf638ac5e9a8761e2a98d9c0195b94375b17761bbe
 
 ## Resumen
 
-cia de Contribuyentes Resolución Exenta SII N° 85 del 30 de Septiembre del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 83 del 13 de Septiembre del 2013 Autoriza como emisores de docum…
+cia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

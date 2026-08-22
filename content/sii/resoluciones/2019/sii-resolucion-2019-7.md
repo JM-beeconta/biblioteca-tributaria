@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2019
-- Fecha: 2019-01-25
+- Fecha: 2019-01-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso7.pdf
 - Hash SHA-256: 1816bb47d2049702b74204b2483717e8a30356cb69c6cf4aacfdc4449a000c8a
 
 ## Resumen
 
-oacute;n Resolución Exenta SII N° 08 del 25 de Enero del 2019 Resuelve solicitud de British American Tobacco Chile Operaciones S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 07 del 22 de Enero del 2019 Resuelve solicitud de Tabacos Apolo S.A., en orden a prorrogar a su respecto, el plazo establecido p…
+cción de Fiscalización Resolución Exenta SII N° 07 del 22 de Enero del 2019 Resuelve solicitud de Tabacos Apolo S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 165
 - Año: 2020
-- Fecha: 2020-12-23
+- Fecha: 2020-12-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso165.pdf
 - Hash SHA-256: 2af5ea3179282ea8ea0182ee1bfb915aee0c8021e15ac65e284eac98c8ac3b94
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 166 del 23 de Diciembre del 2020 Instruye sobre de obligatoriedad de emisión de boletas de honorarios electrónicas e implementa excepciones establecidas en el artículo 68 bis de la Ley de Impuesto a la Renta. Fuente: Subdirección de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 108 de 2020, que deja sin efecto las instrucciones relativas a vales en reemplazo de bolet…
+ute;n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 108 de 2020, que deja sin efecto las instrucciones relativas a vales en reemplazo de boletas y vales electrónicos en reemplazo de la boleta de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

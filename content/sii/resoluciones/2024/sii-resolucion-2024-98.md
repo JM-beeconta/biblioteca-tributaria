@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2024
-- Fecha: 2024-10-11
+- Fecha: 2024-10-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso98.pdf
 - Hash SHA-256: 5d446c72a5daa4a5d01115fbf5dbcb05d53336f89c6b33cf7a658ffeaf7e0939
 
 ## Resumen
 
-nos y Universidad Autónoma de Chile. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 99 del 11 de Octubre del 2024 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Crea registro de asociaciones culturales y deja sin efecto la Resolución Ex. SII N° 6 de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 97 del 10 de Octubre del 2024 Autori…
+ute;n de Asistencia al Contribuyente. Crea registro de asociaciones culturales y deja sin efecto la Resolución Ex. SII N° 6 de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

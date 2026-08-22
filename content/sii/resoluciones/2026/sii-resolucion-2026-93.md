@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2026
-- Fecha: 2026-07-15
+- Fecha: 2026-07-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso93.pdf
 - Hash SHA-256: ac44bc5dbd1a9049edbd4af04eaf09eac75d51c5f821d43572d55947b8c99405
 
 ## Resumen
 
-s infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 94 del 15 de Julio del 2026 Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolució…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

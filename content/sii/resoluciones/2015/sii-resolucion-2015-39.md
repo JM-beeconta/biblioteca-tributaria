@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2015
-- Fecha: 2015-04-28
+- Fecha: 2015-04-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso39.pdf
 - Hash SHA-256: f35e998006d3e9c4d59fd0a0333efbe45d151b3d698fed17ba5115a0e0fc109d
 
 ## Resumen
 
-y Asistencia de Contribuyentes Resolución Exenta SII N° 40 del 28 de Abril del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Individualiza sujetos pasivos, conforme lo dispuesto en el Art. 3° inciso 2° de la ley 20.730 que "Regula el lobby y las Gestiones que representan Intereses Particulares ante las autoridades y funcionarios Fuente: Dirección Nacional Resolución Exenta SII N° 38 d…
+cia de Contribuyentes Individualiza sujetos pasivos, conforme lo dispuesto en el Art. 3° inciso 2° de la ley 20.730 que "Regula el lobby y las Gestiones que representan Intereses Particulares ante las autoridades y funcionarios Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

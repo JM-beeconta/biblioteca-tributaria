@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2023
-- Fecha: 2023-03-21
+- Fecha: 2023-03-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso30.pdf
 - Hash SHA-256: 7bd6befcf4e21e0169af922e160e7ada2c27c9d560d7ea909269ef8ce8465d36
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 31 del 21 de Marzo del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Constitución. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Imparte instrucciones sobre postergación de cuotas del impuesto territorial, facilidades de pago mediante convenios especiales y condonación de intereses, conforme lo di…
+tégica y Estudios Tributarios. Imparte instrucciones sobre postergación de cuotas del impuesto territorial, facilidades de pago mediante convenios especiales y condonación de intereses, conforme lo dispuesto en los numerales 4, 5 y 6 del N° 1 del decreto supremo N° 147, de 2023, del Ministerio de Hacienda, que establece medidas de índole tributaria para las regiones de Ñuble, del Biobío y de la Araucanía. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 74
 - Año: 2018
-- Fecha: 2018-09-05
+- Fecha: 2018-09-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso74.pdf
 - Hash SHA-256: 9c557a08bd62614a3e2b55e58671cc1e7d21185e5e20b131bdb195d9e8bcf7c9
 
 ## Resumen
 
-plimiento de IVA. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 75 del 05 de Septiembre del 2018 Revoca autorización a ENTEL PCS TELECOMUNICACIONES S.A. RUT N° 96.806.980-2, otorgada mediante la Resolución Exenta N° 6, del 18.01.2018. Fuente: Subdirección de Asistencia al Contribuyente Instala la XX Dirección Regional, Chillán, fijando su sede y jurisdicción territorial Fuente: Subdirección Jurídica Resolución Exenta SII N° 73 del 03 de Septiembre del 2018 Autoriza a las instituciones sin fines de…
+ute;n de Asistencia al Contribuyente Instala la XX Dirección Regional, Chillán, fijando su sede y jurisdicción territorial Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

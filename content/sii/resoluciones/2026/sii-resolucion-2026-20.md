@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;cola. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 21 del 04 de Febrero del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Rio Bueno Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 19…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Rio Bueno Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 108
 - Año: 2014
-- Fecha: 2014-11-27
+- Fecha: 2014-11-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso108.pdf
 - Hash SHA-256: 20e40c54e4815bbaaff6e7f6af09ecb6ecc800e93a9d9128f028d1dda8e826eb
 
 ## Resumen
 
-an> Resolución Exenta SII N° 109 del 27 de Noviembre del 2014 Incorpora a las Administradoras de Fondos de Inversión y de Fondos Mutuos a la obligación de presentar Declaración Jurada Anual 1807 Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Autoriza a Directores Regionales de la XIII y XIV Dirección Regional Metropolitana para delegar en los Jefes de Departamentos de Procedimientos Administrativos Tributarios las facultades que indica y revoca autorizaciones de delegación que señala Fuente…
+mplimiento Tributario Autoriza a Directores Regionales de la XIII y XIV Dirección Regional Metropolitana para delegar en los Jefes de Departamentos de Procedimientos Administrativos Tributarios las facultades que indica y revoca autorizaciones de delegación que señala Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

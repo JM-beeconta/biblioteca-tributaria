@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 116
 - Año: 2020
-- Fecha: 2020-09-28
+- Fecha: 2020-09-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso116.pdf
 - Hash SHA-256: c9377ec978ae8ca59b990c6e5b3e390941a3fa2707855a531d0cfef2c783b610
 
 ## Resumen
 
-p> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 117 del 28 de Septiembre del 2020 Exime a fundación arando esperanza, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estra…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

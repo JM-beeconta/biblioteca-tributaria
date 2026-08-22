@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;lisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 116 del 29 de Diciembre del 2015 Revoca delegación de facultades que indica y deroga la resolución Ex. SII N° 138, de 29 de octubre de 2008. Fuente: Departamento de Asesoría Jurídica Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 114 del 24 de Diciembre del 2015 Modifica y complementa Resolución E…
+ute;a Jurídica Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

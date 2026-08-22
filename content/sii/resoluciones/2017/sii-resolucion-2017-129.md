@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 128 del 29 de Diciembre del 2017 Fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 127 del 28 de Diciembre del 2017
+Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

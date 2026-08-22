@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:0px;'> Resolución Exenta SII N° 142 del 15 de Octubre del 2025 Modifica la resolucion n° 93 de 2025 que regula la declaración y pago del iva por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización Establece forma de acreditar el cobro de iva en la venta para la procedencia de la exención de iva y de arancel aduanero en la…
+ección de Fiscalización Establece forma de acreditar el cobro de iva en la venta para la procedencia de la exención de iva y de arancel aduanero en la importación de bienes de bajo valor a que se refiere el artículo 12 letra b) n°18, del decreto ley n°825 de 1974, adquiridos por medio de una plataforma digital de intermediación cuyo operador tiene domicilio o residencia en chile. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

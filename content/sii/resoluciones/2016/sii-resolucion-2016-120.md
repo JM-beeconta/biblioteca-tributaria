@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-top:0px;margin-bottom:0px;'>Establece la obligación de presentar Decolaración Anual sobre operaciones relativas a débitos y acreencias con personas sin domicilio ni residencia en el país por medio de Formulario N° 1930; y deroga las Resoluciones Ex. N°s 28 de 2004 y 109 de 2015 sobre obligación de presentar declaraciones Juradas mediante Fiormularios N°s 1857, 1858, 1859, 1860 y 1861. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece la obligación de presentar Declaración Anua…
+mplimiento Tributario Establece la obligación de presentar Declaración Anual sobre Operaciones en el Exterior por medio de Formulario N° 1929, y deroga Resoluciones N°s 16 y 113 de 2015. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

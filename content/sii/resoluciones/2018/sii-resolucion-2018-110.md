@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 110
 - Año: 2018
-- Fecha: 2018-11-12
+- Fecha: 2018-11-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso110.pdf
 - Hash SHA-256: c5872e88da98a2894ab285b09208a2ce1bcc318ca187ad1a560ae2973c5de4bd
 
 ## Resumen
 
-con discapacidad. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 111 del 12 de Noviembre del 2018 Acoge petición de MULTICAJA S.A. RUT N° 76.828.790-2 y modifica Resolución Exenta SII N° 08 del 24 de enero del 2018, conforme se indica Fuente: Subdirección de Asistencia al Contribuyente Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informá…
+ute;n de Asistencia al Contribuyente Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

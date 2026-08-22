@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 44 del 04 de Mayo del 2018 Autoriza a empresa ATRAPALO CHILE S.A., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscaliz…
+ute;n de Asistencia al Contribuyente Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

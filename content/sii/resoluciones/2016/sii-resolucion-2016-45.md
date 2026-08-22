@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2016
-- Fecha: 2016-05-24
+- Fecha: 2016-05-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso45.pdf
 - Hash SHA-256: a66d563f260df4a7294d38435d9e32aeb35be64da84dcddde09f8fc145e691ea
 
 ## Resumen
 
-o del Cumplimiento Tributario Resolución Exenta SII N° 46 del 24 de Mayo del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Dirección del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Comisión del Sistema Nacional de Certificación de Competencias Laborales Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 44 del 20 de Mayo del 2016…
+Estudios Tributarios Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Comisión del Sistema Nacional de Certificación de Competencias Laborales Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2016
-- Fecha: 2016-03-23
+- Fecha: 2016-03-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso21.pdf
 - Hash SHA-256: fe9d0fa591e1b58991d014b92ba9e2ba694bcd3bb6f47ccb5e2c9f6736160f68
 
 ## Resumen
 
-ottom:0px;'> Resolución Exenta SII N° 22 del 23 de Marzo del 2016 Modifica Res. Ex. Sii N°18 de 22.04.2003, en la forma de la emisión de representaciones impresas de documentos tributarios electrónicos en un ancho mínimo de 5,7 centímetros. Fuente: Departamento de Atención y Asistencia de Contribuyentes Rectifica Resolución Ex. SII N° 3 del 14 de enero de 2016, que fija lista de valores de vehículos motorizados. Fuente: Departamento de Catastro y Tasaciones Resolución Exenta SII N° 20 del 18 de Marzo del 2016 Reor…
+cia de Contribuyentes Rectifica Resolución Ex. SII N° 3 del 14 de enero de 2016, que fija lista de valores de vehículos motorizados. Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

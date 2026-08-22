@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 127
 - Año: 2019
-- Fecha: 2019-11-19
+- Fecha: 2019-11-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso127.pdf
 - Hash SHA-256: 1a096f3aa92b6a4120662ecbd26f13b56b4b3baf284c96ec9f37e456bd4e5ca6
 
 ## Resumen
 
-s Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 128 del 19 de Noviembre del 2019 Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Autoriza como receptor electrónico de documentos tributarios electrónicos al SERVICIO LOCAL DE EDUCACIÓN LAS BARRANCAS. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 126 del 14 de Noviembre del 2019…
+ute;n de Asistencia al Contribuyente Autoriza como receptor electrónico de documentos tributarios electrónicos al SERVICIO LOCAL DE EDUCACIÓN LAS BARRANCAS. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

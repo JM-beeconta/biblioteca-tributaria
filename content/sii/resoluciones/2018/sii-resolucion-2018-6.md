@@ -11,7 +11,7 @@
 
 ## Resumen
 
-: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones Resolución Exenta SII N° 07 del 18 de Enero del 2018 Complementa y modifica Resolución Ex. SII N° 128, de 29 de diciembre de 2017, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 18 de Enero del 2018 Autoriza reemplazo de la obligación de entrega de boletas electrónicas por el envío por correo electrónico…
+Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 18 de Enero del 2018 Autoriza reemplazo de la obligación de entrega de boletas electrónicas por el envío por correo electrónico a la empresa ENTEL PCS TELECOMUNICACIONES S.A. en la forma y condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:0px;'>Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 142 del 30 de Diciembre del 2021 Fija Nómina De Grandes Contribuyentes Fuente: Dirección De Grandes Contribuyentes. Fija Nóminas De Agentes Retenedores Y De Contribuyentes Sujetos A Retención, Conforme A Resolución Ex. Sii N° 42, De 30 De Abril De 2018, Que Dispuso El Cambio De Sujeto Para El Cumplimiento De Iva. Fuente: Sub…
+ión De Grandes Contribuyentes. Fija Nóminas De Agentes Retenedores Y De Contribuyentes Sujetos A Retención, Conforme A Resolución Ex. Sii N° 42, De 30 De Abril De 2018, Que Dispuso El Cambio De Sujeto Para El Cumplimiento De Iva. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 46 del 10 de Abril del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Fija contenido, forma y plazo para dar cumplimiento a la obligación de informar de la superintendencia del medio ambiente, respecto de los proyectos de inversión, en el contexto de la contribución para…
+ute;n de Asistencia al Contribuyente. Fija contenido, forma y plazo para dar cumplimiento a la obligación de informar de la superintendencia del medio ambiente, respecto de los proyectos de inversión, en el contexto de la contribución para el desarrollo regional. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

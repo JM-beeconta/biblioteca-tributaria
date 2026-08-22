@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2016
-- Fecha: 2016-12-27
+- Fecha: 2016-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso124.pdf
 - Hash SHA-256: 10ac6ab24eca5763c7991efe07eed189ebdeb7ec8523ad824a43e4f5d2d3c564
 
 ## Resumen
 
-imiento Tributario Resolución Exenta SII N° 125 del 27 de Diciembre del 2016 Dispone la publicación de la nómina de contribuyentes de difícil fiscalización, en la página web de este Servicio. Fuente: Departamento de Sistemas de Fiscalización Establece forma y plazo para presentar Declaración Jurada Anual N°1933 por los mandatarios encargados de gestionar el mandato especial de administración de carteras de valores establecido en la Ley N°20.880. Fuente: Departamento de Acciones de Cumplimiento Tributario Resolució…
+Fiscalización Establece forma y plazo para presentar Declaración Jurada Anual N°1933 por los mandatarios encargados de gestionar el mandato especial de administración de carteras de valores establecido en la Ley N°20.880. Fuente: Departamento de Acciones de Cumplimiento Tributario
 
 ## Referencias detectadas
 

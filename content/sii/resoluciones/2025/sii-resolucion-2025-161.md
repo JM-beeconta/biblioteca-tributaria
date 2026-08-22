@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e la secretaría general del Servicio de Impuestos Internos Fuente: Subdirección Jurídica Resolución Exenta SII N° 162 del 13 de Noviembre del 2025 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Aduanas y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resoluci…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Aduanas y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

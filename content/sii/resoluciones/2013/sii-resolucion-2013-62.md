@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 62
 - Año: 2013
-- Fecha: 2013-06-18
+- Fecha: 2013-06-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso62.pdf
 - Hash SHA-256: 08d7d02cc5e5e91f42d5f4f9d079933df28a69250371d02c92ad0336aa8edb4a
 
 ## Resumen
 
-y Asistencia de Contribuyentes. Resolución Exenta SII N° 63 del 18 de Junio del 2013 Autoriza emisor de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Modifica la resolución N° 179, de 1991, en lo relacionado con el Departamento Subdirección de Informática. Fuente: Subdirección de Informática Resolución Exenta SII N° 61 del 17 de Junio del 2013 Complementa Resolución N° 11 de 11.02.2003, fijando procedimiento d…
+cia de Contribuyentes Modifica la resolución N° 179, de 1991, en lo relacionado con el Departamento Subdirección de Informática. Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

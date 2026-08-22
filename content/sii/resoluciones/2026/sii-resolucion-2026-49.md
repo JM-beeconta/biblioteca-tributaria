@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2026
-- Fecha: 2026-04-08
+- Fecha: 2026-04-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso49.pdf
 - Hash SHA-256: 12174f7b21d708d860cb9db38286683b4c2d05f5da31b79d38b7e2c5274282b7
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 50 del 08 de Abril del 2026 Deja sin efecto resolución exenta SII N°3509, de 13.07.2000 que instruye sobre canje de información computarizada; y, la resolución exenta SII N° 5395 de 07.12.2000, que la complementa. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 48 del 01 de Abril del 2026 Estable…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

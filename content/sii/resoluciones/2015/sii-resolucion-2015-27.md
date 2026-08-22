@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;a Jurídica Resolución Exenta SII N° 28 del 17 de Marzo del 2015 Modifica territorios jurisdiccionales de la XV y XVI Direcciones Regionales Metropolitanas Santiago Oriente y Sur y cambia dependencias de Unidad La Florida Fuente: Subdirección de Fiscalización Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 26 del 16 de Marzo del 2015 Autoriza a institución sin f…
+Fiscalización Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

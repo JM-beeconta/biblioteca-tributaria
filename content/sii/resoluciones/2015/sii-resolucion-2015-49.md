@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2015
-- Fecha: 2015-06-04
+- Fecha: 2015-05-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso49.pdf
 - Hash SHA-256: 850d015ab34dc2b9132d95e5ad0c31d58331d2370aa8238d74853ade3cc1517e
 
 ## Resumen
 
-4 de Junio del 2015 Autoriza a los Directores Regionales que indica para delegar en los Jefes de Unidades de sus jurisdicciones las facultades de aplicar sanciones, por infracciones tributarias previstas y tipificadas en los artículos 97 n° 15, 16 y 109 del Código Tributario, cuyas denuncias respectivas no hayan sido reclamadas, y para conceder condonaciones de las mismas. Fuente: Departamento de Asesoría Jurídica Apruebe Reglamento Interno sobre Consejo de la Sociedad Civil del Servicio de Impuestos Internos Fuen…
+ute;a Jurídica Apruebe Reglamento Interno sobre Consejo de la Sociedad Civil del Servicio de Impuestos Internos Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2017
-- Fecha: 2017-01-25
+- Fecha: 2017-01-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso9.pdf
 - Hash SHA-256: a2f7142119c11887e816ecbe1e2440d84316803ba61c7284752641f285e1826e
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 10 del 25 de Enero del 2017 Autoriza el uso de documentos tributarios en papel a los contribuyentes de la comuna de Valparaíso Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 09 del 20 de Enero del 2017 Establece contenido y forma de llevar el registro que deben mantener los contribuyentes o patrimonios de afectación domiciliados, residentes, constituidos o establecidos en Chile que directa o indirectamente co…
+ncia al Contribuyente Resolución Exenta SII N° 09 del 20 de Enero del 2017 Establece contenido y forma de llevar el registro que deben mantener los contribuyentes o patrimonios de afectación domiciliados, residentes, constituidos o establecidos en Chile que directa o indirectamente controlen entidades sin domicilio ni residencia en el país en conformidad a lo señalado en el artículo 41 g de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

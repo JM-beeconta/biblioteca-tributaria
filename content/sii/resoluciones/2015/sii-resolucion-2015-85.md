@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uente: Subdirección de Fiscalización Resolución Exenta SII N° 86 del 20 de Octubre del 2015 Crea oficina que indica en la Subdirección de Fiscalización, fija su dependencia y señala sus funciones. Fuente: Subdirección de Fiscalización Crea el Departamento de Desarrollo Organizacional dependiente del Departamento Subdirección de Recursos Humanos. Otras medidas que indica. Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 84 del 15 de Octubre del 2015 Establece nuevas fechas de pago del Impuesto Terr…
+Fiscalización Crea el Departamento de Desarrollo Organizacional dependiente del Departamento Subdirección de Recursos Humanos. Otras medidas que indica. Fuente: Subdirección de Recursos Humanos
 
 ## Referencias detectadas
 

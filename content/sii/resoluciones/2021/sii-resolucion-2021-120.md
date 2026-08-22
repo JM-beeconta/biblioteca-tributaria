@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 120
 - Año: 2021
-- Fecha: 2021-10-26
+- Fecha: 2021-10-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso120.pdf
 - Hash SHA-256: 193e62472ef0da64d308898bc0ed02da7bf6d19b54f33ed549ccbbd05d0e0cd7
 
 ## Resumen
 
-h5> Delega facultad en las jefaturas que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 121 del 26 de Octubre del 2021 Corrige error de transcripción en la resolución exenta SII N° 110 de 2021. Fuente: Subdirección de Fiscalización. Exime a sociedad protectora de ciegos santa lucia, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 119 del 15 de Octubre d…
+cción de Fiscalización. Exime a sociedad protectora de ciegos santa lucia, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

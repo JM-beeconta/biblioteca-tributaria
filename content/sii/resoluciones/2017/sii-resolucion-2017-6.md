@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2017
-- Fecha: 2017-01-18
+- Fecha: 2017-01-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso6.pdf
 - Hash SHA-256: 40225c16a0eae7fb0587b14b0869b3d24aff778ca376bf4a2586eb495bbb3e20
 
 ## Resumen
 
-Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 07 del 18 de Enero del 2017 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Nacional de Propiedad Industrial. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 06 del 17 de Enero del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribu…
+Estudios Tributarios Resolución Exenta SII N° 06 del 17 de Enero del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

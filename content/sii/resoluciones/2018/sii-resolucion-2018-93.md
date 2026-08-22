@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e indica. Fuente: Subdirección Jurídica Resolución Exenta SII N° 94 del 05 de Octubre del 2018 Autoriza al Conservador de Bienes Raíces de Cauquenes, Sr. Yamil Abraham Antonio Najle Alee, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Suspende calidad de Agente Retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección…
+ute;n de Asistencia al Contribuyente Suspende calidad de Agente Retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

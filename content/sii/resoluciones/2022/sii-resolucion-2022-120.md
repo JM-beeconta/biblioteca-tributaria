@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 120
 - Año: 2022
-- Fecha: 2022-12-21
+- Fecha: 2022-12-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso120.pdf
 - Hash SHA-256: e8321a0d6b17c9b3cfb47c50f46f637c0631ef761d3c18dcadb56e3f5a8e6ae6
 
 ## Resumen
 
-Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 121 del 21 de Diciembre del 2022 Autoriza a sociedad de servicios transaccionales caja vecina S.A., Rut N°76.727.730-K, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización. Fija nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N°46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado con…
+cción de Fiscalización. Fija nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N°46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

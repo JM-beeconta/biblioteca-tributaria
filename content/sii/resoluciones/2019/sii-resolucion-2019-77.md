@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 77
 - Año: 2019
-- Fecha: 2019-06-28
+- Fecha: 2019-06-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso77.pdf
 - Hash SHA-256: 8be49cc03f6dd85ee47ecd93c1670ddc5873fab74a1ee8c7f2c20a4cdb6d5e3f
 
 ## Resumen
 
-ottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 78 del 28 de Junio del 2019 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección De Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyent…
+cción De Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

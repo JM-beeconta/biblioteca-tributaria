@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 57 del 22 de Junio del 2016 Deja sin efecto los cobros que indica y deroga las Resoluciones que los establecen. Fuente: Subdirección de Avaluaciones Incorpora y regula el uso de cédula RUT electrónica (e-RUT) Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 55 del 17 de Junio del 2016 Modifica Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenci…
+ute;n de Avaluaciones Incorpora y regula el uso de cédula RUT electrónica (e-RUT) Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

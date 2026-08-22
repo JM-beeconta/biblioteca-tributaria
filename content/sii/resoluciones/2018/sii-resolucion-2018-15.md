@@ -11,7 +11,7 @@
 
 ## Resumen
 
-: Subdirección de Fiscalización Resolución Exenta SII N° 16 del 14 de Febrero del 2018 Corrige compaginación y transcripción en Resolución Ex. SII n° 128, de 29 de diciembre de 2017, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones Autoriza la opción de emitir, utilizando el formato de factura electrónica, en modalidad factura turista. Modifica resolución exenta n° 46, del 10.05.2013 en los términos que indica.…
+Subdirección de Avaluaciones Autoriza la opción de emitir, utilizando el formato de factura electrónica, en modalidad factura turista. Modifica resolución exenta n° 46, del 10.05.2013 en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uente: Subdirección de Fiscalización. Resolución Exenta SII N° 138 del 20 de Diciembre del 2021 Instruye forma de declaración y pago de los impuestos establecidos en la Ley N° 16.271, sobre impuesto a las herencias, asignaciones y donaciones, y la obligación de informar del artículo 18 Nº 8, de la misma Ley. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos. Fuente:…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

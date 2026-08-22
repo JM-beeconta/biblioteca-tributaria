@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 128
 - Año: 2016
-- Fecha: 2016-12-30
+- Fecha: 2016-12-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso128.pdf
 - Hash SHA-256: e83c9af391ac797704622da4396cd70b5cea54a2d06e7fc758a2425db28d2fc6
 
 ## Resumen
 
-px;'> Resolución Exenta SII N° 129 del 30 de Diciembre del 2016 Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contyibuyentes Resolución Exenta SII N° 127 del 28 de Diciembre del 2016 Declara término de giro según lo dispuesto en el inciso final del artíc…
+ute;n de Avaluaciones Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contyibuyentes
 
 ## Referencias detectadas
 

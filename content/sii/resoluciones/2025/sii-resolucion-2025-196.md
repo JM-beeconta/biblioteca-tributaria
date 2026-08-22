@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 197 del 23 de Diciembre del 2025 Aprueba Addendum al convenio de intercambio de información y colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo. Fuente: S…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 123
 - Año: 2017
-- Fecha: 2017-12-19
+- Fecha: 2017-12-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso123.pdf
 - Hash SHA-256: 6e4dd75d1fee65f5b39aa8db961148aaef14f14e325517975a0258ae1ba90eba
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 124 del 19 de Diciembre del 2017 Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos Fuente: Subdirección de Fiscalización Autoriza a empresa QWANTIQ CHILE SPA. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente…
+Fiscalización Autoriza a empresa QWANTIQ CHILE SPA. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

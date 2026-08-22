@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2026
-- Fecha: 2026-01-26
+- Fecha: 2026-01-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso15.pdf
 - Hash SHA-256: 4c00c593e9b6522a4a65c4f7fe2747a787f4724914a13a95a54a47780406de54
 
 ## Resumen
 
-te;culo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 16 del 26 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Aprueba acuerdo de cooperación con grupo empresarial enel Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 14 del 19 de Enero del 2026 Otorga condonación sobre los intereses y multas infraccionale…
+cute;n de Asistencia al Contribuyente Aprueba acuerdo de cooperación con grupo empresarial enel Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

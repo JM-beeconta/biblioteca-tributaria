@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 134
 - Año: 2020
-- Fecha: 2020-10-23
+- Fecha: 2020-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso134.pdf
 - Hash SHA-256: 21291b22a8fafc569fe61a31a142683cf03ce3063e29b09006e9c7df98fdd374
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 135 del 23 de Octubre del 2020 Establece la forma y plazo en que los contribuyentes deberán acreditar las devoluciones, disminuciones o retiros de capital realizados en sociedades, establecimientos permanentes y otras entidades en el exterior. Fuente: Subdirección de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al…
+cción de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

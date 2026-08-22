@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 85 del 08 de Septiembre del 2022 Autoriza a empresas clientes de GASMAR a emitir factura electrónica de ventas y servicios en la forma que indica. Impone obligación de mantener un registro de operaciones a GASMAR S.A., RUT N°96.636.520-k. Fuente: Subdirección de Asistencia al Contribuyente. Complementa lista anexa de la resolucion n°8 exenta, de 2022. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 83 del 07 de Septiem…
+ute;n de Asistencia al Contribuyente. Complementa lista anexa de la resolucion n°8 exenta, de 2022. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

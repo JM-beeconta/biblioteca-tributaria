@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rtamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 99 del 21 de Octubre del 2014 Regula inscripción en sistema de facturación gratuito del SII, disponible en Internet Fuente: Departamento de Atención y Asistencia de Contribuyentes Crea departamento Subdirección de Asistencia al Contribuyente y establece funciones y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 97 del 21 de Octubre del 2014 Establece fun…
+cia de Contribuyentes Crea departamento Subdirección de Asistencia al Contribuyente y establece funciones y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

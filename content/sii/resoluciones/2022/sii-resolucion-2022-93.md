@@ -11,7 +11,7 @@
 
 ## Resumen
 
-as que se indican, para el año tributario 2023 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 94 del 04 de Octubre del 2022 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Complementa nómina de grandes contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 92 del 29 de Septiembre del 20…
+ute;n de Asistencia al Contribuyente. Complementa nómina de grandes contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

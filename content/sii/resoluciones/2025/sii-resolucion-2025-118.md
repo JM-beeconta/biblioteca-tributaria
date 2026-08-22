@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 118
 - Año: 2025
-- Fecha: 2025-09-15
+- Fecha: 2025-09-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso118.pdf
 - Hash SHA-256: 5df02da716fa79362a4048937e402f2eacc92e49f54fc5e5a93175eb53f314f4
 
 ## Resumen
 
-oacute;n Exenta SII Nº136, de 2021. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 119 del 15 de Septiembre del 2025 Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Reemplaza anexos I y II de la resolución EX. SII N°77, de 2025. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 117 del 10 de Septiembre del 2025 Establece procedimiento para solicitar acceso a…
+ute;n de Asistencia al Contribuyente. Reemplaza anexos I y II de la resolución EX. SII N°77, de 2025. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

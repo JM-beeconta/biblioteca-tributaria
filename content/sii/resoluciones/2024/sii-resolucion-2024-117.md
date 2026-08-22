@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 118 del 12 de Diciembre del 2024 Establece la forma y oportunidad en que las entidades que indica deben informar según lo dispuesto en el Artículo 9 de la Ley 21.420. Fuente: Subdirección de Avaluaciones. Fija documentos tributarios que deben emitirse por los vendedores de bienes muebles usados para identificar a su proveedor conforme al Artículo 88 bis del Código Tributario Fuente: Subdirección de Asiste…
+Subdirección de Avaluaciones. Fija documentos tributarios que deben emitirse por los vendedores de bienes muebles usados para identificar a su proveedor conforme al Artículo 88 bis del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

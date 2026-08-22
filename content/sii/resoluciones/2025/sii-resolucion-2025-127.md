@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 127
 - Año: 2025
-- Fecha: 2025-10-01
+- Fecha: 2025-09-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso127.pdf
 - Hash SHA-256: 7fd1b4804643029854a6818bf091c27759695e493f98273f89d6a5b1a4439947
 
 ## Resumen
 
-ute;a Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Iquique. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 128 del 01 de Octubre del 2025 Instruye sobre las características del documento tributario que los creadores de contenido digital deben emitir. Fuente: Subdirección de Fiscalización. Modifica vigencia de las resoluciones Ex. SII N° 69 y N° 99, ambas de 2025, sobre cumplimiento de lo dispuesto en los incisos décimosegundo y final del artículo 68 y artículo 89, ambos del código…
+cción de Fiscalización. Modifica vigencia de las resoluciones Ex. SII N° 69 y N° 99, ambas de 2025, sobre cumplimiento de lo dispuesto en los incisos décimosegundo y final del artículo 68 y artículo 89, ambos del código tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

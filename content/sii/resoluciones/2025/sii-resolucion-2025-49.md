@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2025
-- Fecha: 2025-04-24
+- Fecha: 2025-04-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso49.pdf
 - Hash SHA-256: 00cacb0f82766c08e5d80ada51b9c81a75b8a79d07425834f5304acb59139e96
 
 ## Resumen
 
-vicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 50 del 24 de Abril del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualpén. Fuente: Subdirección de Asistencia al Contribuyente. Tramitación de las autodenuncias conforme al artículo 100 sexies del Código Tributario. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 48 del 17 de Abril del 2025 Aprueba Addendum al Con…
+ute;n de Asistencia al Contribuyente. Tramitación de las autodenuncias conforme al artículo 100 sexies del Código Tributario. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

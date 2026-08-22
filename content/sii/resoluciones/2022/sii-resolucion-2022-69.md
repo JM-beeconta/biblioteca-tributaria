@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2022
-- Fecha: 2022-08-31
+- Fecha: 2022-08-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso69.pdf
 - Hash SHA-256: aae3fcf35cb750dd7e502fe0e7a2e429ab6387e34d3695e6219ac8a4a1b7304f
 
 ## Resumen
 
-entar las declaraciones juradas que se indican y modifica resolución exenta SII nº 126 de 2016 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 70 del 31 de Agosto del 2022 Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican Fuente: Subdirección de Fiscalización. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 68 del 17 de Agosto del 2022 Incorpórase a corporación de fomento de la producción,…
+cción de Fiscalización. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2022
-- Fecha: 2022-07-28
+- Fecha: 2022-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso63.pdf
 - Hash SHA-256: 3a383a6df4a6f7e3d7bad6538699cf85e280a9890f9c7f0b7b33cd9873544ef8
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 64 del 28 de Julio del 2022 Incorpora nuevos códigos al formulario 29 de declaración mensual y pago simultáneo de impuestos para declarar y enterar en arcas fiscales el IVA retenido por el cambio de sujeto dispuesto en el inciso séptimo del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Su…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

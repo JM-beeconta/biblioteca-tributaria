@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 113
 - Año: 2018
-- Fecha: 2018-11-16
+- Fecha: 2018-11-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso113.pdf
 - Hash SHA-256: 32e2bc2f8bd3b791dbec4df709829df2ae1cdb38e120649459769b979b837907
 
 ## Resumen
 
-tom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 114 del 16 de Noviembre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018, a IMS CHILE SPA y EXPORTADORA E IMPORTADORA TÉCNICA EXIMTEC LIMITADA. Fuente: Subdirección de Fiscalización Suspende calidad de agente retenedor a ENEL CHILE S.A., conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. F…
+cción de Fiscalización Suspende calidad de agente retenedor a ENEL CHILE S.A., conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

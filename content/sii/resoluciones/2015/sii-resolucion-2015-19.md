@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'margin-top:0px;margin-bottom:0px;'>Establece forma y oportunidad en que las Administradoras de Fondos de Inversión y Fondos Mutuos y las instituciones intermediarias que se señalan, deben cumplir con la obligación de informar, establecida en los artículos 81 y 82 de la ley que regula la administración de fondos de terceros y carteras individuales (la ley), contenida en el artículo primero de la Ley N° 20.712 de 2014. Fuente: Subdirección de Fiscalización Fija nuevo plazo para presentación de Declaraciones Juradas…
+Fiscalización Fija nuevo plazo para presentación de Declaraciones Juradas formularios N°s 1851, 1852 y 1853, establecidas mediante Resolución Exenta que se indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

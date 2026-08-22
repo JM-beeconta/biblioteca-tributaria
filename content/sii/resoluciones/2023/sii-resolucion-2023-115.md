@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de acciones de tratamiento en las direcciones regionales que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 116 del 04 de Octubre del 2023 Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2024. Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 114 del 22 de Septiembre del 20…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

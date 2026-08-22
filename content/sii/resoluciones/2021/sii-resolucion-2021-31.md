@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2021
-- Fecha: 2021-03-23
+- Fecha: 2021-03-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso31.pdf
 - Hash SHA-256: dc4c6eb76ec622a0ae04ced5eb280f493e4d43ba843001fdbf003f4b7ec6dc39
 
 ## Resumen
 
-ección de Asistencia al Contribuyente. Resolución Exenta SII N° 32 del 23 de Marzo del 2021 Amplía el plazo para presentar las Declaraciones Juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex SII N° 97 y n° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización. Complementa y modifica Resolución Exenta SII N° 14, de 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 30 del 18 de Marzo del 2021 Amplía el…
+cción de Fiscalización. Complementa y modifica Resolución Exenta SII N° 14, de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

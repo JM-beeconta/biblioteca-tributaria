@@ -11,7 +11,7 @@
 
 ## Resumen
 
-axibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 04 del 15 de Enero del 2018 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 03 del 15 de Enero del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Re…
+Subdirección de Avaluaciones Resolución Exenta SII N° 03 del 15 de Enero del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

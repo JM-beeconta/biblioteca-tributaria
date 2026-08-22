@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 67
 - Año: 2017
-- Fecha: 2017-07-31
+- Fecha: 2017-07-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso67.pdf
 - Hash SHA-256: 1577f6eda17391422cb9054c5435636bafbee06400bedf4d17d6d4c70f2f6ef0
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 68 del 31 de Julio del 2017 Modifica Res. Ex. SII N° 61, de 12.07.2017, ampliando universo de contribuyentes eximidos de llevar Libro de Compras y Ventas Fuente: Subdirección de Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 66 del 19 de Julio del 2017 Delega firm…
+Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 06 del 26 de Enero del 2022 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección General de Promoción de Exportaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 05 del 26 de Enero del 2022 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección de Administración. Resolución Exenta SI…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 05 del 26 de Enero del 2022 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

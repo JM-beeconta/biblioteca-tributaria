@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2025
-- Fecha: 2025-12-31
+- Fecha: 2025-07-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso84.pdf
 - Hash SHA-256: 687c1e52d6997d82ec1833141cbf2a6c13b1b69c072dab2d0ea67ca0640a6037
 
 ## Resumen
 
-e entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 85 del 10 de Julio del 2025 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 83 del 03…
+ute;n de Asistencia al Contribuyente. Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

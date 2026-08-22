@@ -11,7 +11,7 @@
 
 ## Resumen
 
-agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 130 del 26 de Diciembre del 2024 Suprime el departamento Subdirección de Asuntos Corporativos. Fuente: Servicio de Impuestos Internos. Reorganiza las unidades que conforman el departamento Subdirección de Gestión Estratégica y Estudios Tributarios, establece funciones, ámbito de competencia y deja sin efecto Resolución Exenta N°5…
+ente: Servicio de Impuestos Internos. Reorganiza las unidades que conforman el departamento Subdirección de Gestión Estratégica y Estudios Tributarios, establece funciones, ámbito de competencia y deja sin efecto Resolución Exenta N°57 de 2023 Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

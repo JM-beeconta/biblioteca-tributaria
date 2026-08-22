@@ -11,7 +11,7 @@
 
 ## Resumen
 
-&ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paine. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 129 del 01 de Octubre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Iquique. Fuente: Subdirección de Avaluaciones. Instruye sobre las características del documento tributario que los creadores de contenido digital deben emitir. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 127 del 29 de…
+Subdirección de Avaluaciones. Instruye sobre las características del documento tributario que los creadores de contenido digital deben emitir. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

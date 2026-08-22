@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece contenido y forma de llevar el registro que deben mantener los contribuyentes o patrimonios de afectación domiciliados, residentes, constituidos o establecidos en Chile que directa o indirectamente controlen entidades sin domicilio ni residencia en el país en conformidad a lo señalado en el artículo 41 g de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 08 del 18 de Enero del 2017 Autoriza a las instituciones sin fines de…
+mplimiento Tributario Resolución Exenta SII N° 08 del 18 de Enero del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

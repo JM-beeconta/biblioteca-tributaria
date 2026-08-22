@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ref='https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso122.pdf' target='_blank'>Resolución Exenta SII N° 122 del 26 de Diciembre del 2016 Establece obligación de presentar declaración Jurada por parte de los contribuyentes que paguen rentas del artículo 42 N°2 de la Ley sobre Impuesto a la renta, por servicios prestados en la Isla de Pascua. Fuente: Departamento de Sistemas de Fiscalización Establece la obligación de presentar Decolaración Anual sobre operaciones relativas a débitos y acreencias con p…
+Fiscalización Establece la obligación de presentar Decolaración Anual sobre operaciones relativas a débitos y acreencias con personas sin domicilio ni residencia en el país por medio de Formulario N° 1930; y deroga las Resoluciones Ex. N°s 28 de 2004 y 109 de 2015 sobre obligación de presentar declaraciones Juradas mediante Fiormularios N°s 1857, 1858, 1859, 1860 y 1861. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2023
-- Fecha: 2023-03-14
+- Fecha: 2023-03-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso25.pdf
 - Hash SHA-256: ca3e94489059c8199d04afac1ca175a1459f450dbe42b4f22d8f7a02e43f3704
 
 ## Resumen
 
-e;n de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 26 del 14 de Marzo del 2023 Exclusión de contribuyentes sin domicilio ni residencia en chile del régimen de tributación simplificada de la ley sobre impuesto a las ventas y servicios, por prestaciones de servicios con contenido ilícito. Fuente: Subdirección de Fiscalización. Delega en el subdirector jurídico la facultad de tramitar las solicitudes de avenimiento extrajudicial del artículo 132 ter del código tributario. Fuente: Subdirección…
+cción de Fiscalización. Delega en el subdirector jurídico la facultad de tramitar las solicitudes de avenimiento extrajudicial del artículo 132 ter del código tributario. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

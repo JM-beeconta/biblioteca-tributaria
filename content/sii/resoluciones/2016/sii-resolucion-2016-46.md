@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2016
-- Fecha: 2016-05-26
+- Fecha: 2016-05-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso46.pdf
 - Hash SHA-256: 262bfc2442c3926345dc2cff0a1456a8adc6c7d6836d574ec7ee92cb5488bb5d
 
 ## Resumen
 
-cute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 47 del 26 de Mayo del 2016 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Dirección del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 45 del 23 de Mayo del 2016 Aprueba convenio de colaboración en…
+mplimiento Tributario Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Dirección del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

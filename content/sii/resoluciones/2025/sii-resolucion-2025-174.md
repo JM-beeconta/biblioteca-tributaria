@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 174
 - Año: 2025
-- Fecha: 2025-12-04
+- Fecha: 2025-12-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso174.pdf
 - Hash SHA-256: 505fc9f9384f7cf5a2c5677f40610148a7b597f5aae8000636feb6c361bc912f
 
 ## Resumen
 
-de inscripción. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 175 del 04 de Diciembre del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Policía de Investigaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de San Fernando. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 173 del 03 de…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de San Fernando. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

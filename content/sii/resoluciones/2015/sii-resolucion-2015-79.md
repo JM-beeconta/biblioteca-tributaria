@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2015
-- Fecha: 2015-09-29
+- Fecha: 2015-09-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso79.pdf
 - Hash SHA-256: ccd2e396f882f198691ef3923329cb7f4e5fd715037413442e9926ebaa19168a
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 80 del 29 de Septiembre del 2015 Establece procedimiento para declarar mejoras de bienes raíces al amparo de la Ley N° 20.780. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de la provincia de Choapa y la comuna de Coquimbo. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 78 del 23 de Septiembre del 2015 Autoriza a pro…
+mplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de la provincia de Choapa y la comuna de Coquimbo. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la Ley sobre Impuesto a la Renta, podrán presentar solicitud de devolución del 4% de retención sobre los intereses devengados por la tenencia de instrumentos de deuda de oferta pública, durante el período en que dichos instrumentos hayan estado en su propiedad, de acuerdo a lo establecido en el inciso 4°, del N° 7, del art. 74 de la Ley sobre Impuesto a la Renta, vigente a partir del 01.02.2017. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece forma y plazo para informar los saldos…
+mplimiento Tributario Establece forma y plazo para informar los saldos que, al 31 de diciembre de 2016, mantengan los contribuyentes sujetos al impuesto de primera categoria sobre la base de un balance general según contabilidad completa, y se mantengan en dicho régimen, conforme a lo dispuesto en el articulo tercero de las disposiciones transitorias de la Ley N° 20.780, modificada por la Ley N° 20.899. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

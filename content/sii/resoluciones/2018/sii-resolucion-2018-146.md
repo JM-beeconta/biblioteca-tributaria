@@ -11,7 +11,7 @@
 
 ## Resumen
 
-018 Designa responsables de procesos que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 147 del 27 de Diciembre del 2018 Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Fija nuevas denominaciones y funciones a los departamentos que se indican, de la XIII Dirección Regional Metropolitana, Santiago Centro y de la XV Dirección Regional Metropolitana, Santiago Oriente. Fuente: Subdirección Desarrollo de Personas Resolución Exenta SI…
+ión de Grandes Contribuyentes Fija nuevas denominaciones y funciones a los departamentos que se indican, de la XIII Dirección Regional Metropolitana, Santiago Centro y de la XV Dirección Regional Metropolitana, Santiago Oriente. Fuente: Subdirección Desarrollo de Personas
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 73 del 02 de Julio del 2020 Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Departamente de Asesoría Jurídica. Establece forma de cumplir con la obligación de remitir una copia a este Servicio, de la comunicación electrónica efectuada a la Dirección del Trabajo por aquella…
+e de Asesoría Jurídica. Establece forma de cumplir con la obligación de remitir una copia a este Servicio, de la comunicación electrónica efectuada a la Dirección del Trabajo por aquellas empresas que ejecuten la medida subsidiaria señalada en la letra b) del artículo 157 ter del Código del trabajo. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

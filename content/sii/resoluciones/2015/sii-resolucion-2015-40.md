@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2015
-- Fecha: 2015-04-30
+- Fecha: 2015-04-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso40.pdf
 - Hash SHA-256: aca59f69ed86cccc7da8680a45f9c7da7c38b26b0214b4855376148a93f2cd7f
 
 ## Resumen
 
-o del Cumplimiento Tributario Resolución Exenta SII N° 41 del 30 de Abril del 2015 Autoriza el uso de documentos tributarios en papel a los contribuyentes de la provincia de Llanquihue y la comuna de Puerto Octay. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 39 del 27 de Abril del 2015 Individualiza s…
+cia de Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2017
-- Fecha: 2017-02-14
+- Fecha: 2017-02-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso21.pdf
 - Hash SHA-256: de774d27c897e298babc07bcec8927545405be644481bc221fcb7ae0d5fae33f
 
 ## Resumen
 
-io. Resolución Exenta SII N° 22 del 14 de Febrero del 2017 Establece procedimiento para solicitar condonación de los impuestos que graven los pagos o remesas realizados al exterior, conforme a lo dispuesto en el Decreto N°100, de 1 de febrero de 2017, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización. Establece procedimiento para el pago del Impuesto a las donaciones efectuadas en dinero. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 20 del 10 de Febrero del 2017 Deroga resolucione…
+Fiscalización. Establece procedimiento para el pago del Impuesto a las donaciones efectuadas en dinero. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

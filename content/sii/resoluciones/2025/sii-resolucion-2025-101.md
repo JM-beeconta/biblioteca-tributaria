@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Servicio de Impuestos Internos. Resolución Exenta SII N° 102 del 14 de Agosto del 2025 Establece condiciones y términos de uso para que los órganos de la administración del estado que se indican, puedan solicitar e integrar la clave tributaria sii en su sitio web. Fuente: Subdirección de Asistencia al Contribuyente. Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente:…
+ute;n de Asistencia al Contribuyente. Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

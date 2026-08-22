@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2013
-- Fecha: 2013-06-17
+- Fecha: 2013-06-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso57.pdf
 - Hash SHA-256: 61cd636dcf70faa337c46d61b6664d22a0e5b331093a9171acd845347614fc4e
 
 ## Resumen
 
-> Resolución Exenta SII N° 58 del 17 de Junio del 2013 Autoriza a DTICKET SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 56 del 06 de Junio del 2013 Reemplaza Planos…
+ia de Contribuyentes. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

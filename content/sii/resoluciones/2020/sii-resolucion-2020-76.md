@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 77 del 08 de Julio del 2020 Prorroga aplicación de medidas tributarias, en relación al impuesto a las ventas y servicios, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile, para los contribuyentes que se indican. Fuente: Subdirección de Fiscalización. Prorroga aplicación de medidas tributarias, en relación al impuesto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile, para los contribuyent…
+cción de Fiscalización. Prorroga aplicación de medidas tributarias, en relación al impuesto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile, para los contribuyentes que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

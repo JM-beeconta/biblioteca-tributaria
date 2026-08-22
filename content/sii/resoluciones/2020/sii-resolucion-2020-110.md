@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 110
 - Año: 2020
-- Fecha: 2020-09-14
+- Fecha: 2020-09-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso110.pdf
 - Hash SHA-256: 0f1ae000c728c1545358c6d154b62729e02860a93077e052876c473388681b8a
 
 ## Resumen
 
-: Subdirección de Avaluaciones. Resolución Exenta SII N° 111 del 14 de Septiembre del 2020 Modifica resolución Ex. SII Nº 103 de 13 de octubre de 2017 que establece la obligación de presentar declaración jurada anual Nº 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 109 del 08 de Septiembre del 2020 Actualiz…
+cción de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

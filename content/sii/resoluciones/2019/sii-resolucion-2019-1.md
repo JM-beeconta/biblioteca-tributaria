@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2019
-- Fecha: 2019-01-14
+- Fecha: 2019-01-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso1.pdf
 - Hash SHA-256: f9342b23087ae7ebef64c057c8db3b5bcf70706c9e9d9aab4f4f29dbd4a24f55
 
 ## Resumen
 
-/p> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 14 de Enero del 2019 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 07 de Enero del 2019 Incorpórase a Factoring Security S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdi…
+Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 07 de Enero del 2019 Incorpórase a Factoring Security S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab')…
 
 ## Referencias detectadas
 

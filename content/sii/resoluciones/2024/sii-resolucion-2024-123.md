@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 124 del 19 de Diciembre del 2024 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lo Espejo. Fuente: Subdirección de Gestión…
+tégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lo Espejo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

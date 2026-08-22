@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 61 del 24 de Abril del 2026 Modifica resolución exenta SII N° 94 de 2024, y reemplaza formato, contenido e instrucciones de la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero, formulario N° 1958. Fuente: Subdirección de Fiscalización. Fija antecedentes para solicitar rebaja del impuesto territorial de inmuebles ocupados, conforme con lo dispuesto en el artículo 73 de la Ley N° 21…
+cción de Fiscalización. Fija antecedentes para solicitar rebaja del impuesto territorial de inmuebles ocupados, conforme con lo dispuesto en el artículo 73 de la Ley N° 21.806. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

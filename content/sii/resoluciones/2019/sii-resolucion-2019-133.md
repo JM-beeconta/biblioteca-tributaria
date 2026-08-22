@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 133
 - Año: 2019
-- Fecha: 2019-12-06
+- Fecha: 2019-12-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso133.pdf
 - Hash SHA-256: 16185dd04b047d5019230ba8304ef7c41b48bab686c4303a0d8efbf3d5552c44
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 134 del 06 de Diciembre del 2019 Autoriza a empresa PROPASS ETICKET LIMITADA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Talcahuano, Sr. SERGIO ANIBAL CONDEZA NEUBER, para emitir boletas de honorarios electrónicas, en la fo…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Talcahuano, Sr. SERGIO ANIBAL CONDEZA NEUBER, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

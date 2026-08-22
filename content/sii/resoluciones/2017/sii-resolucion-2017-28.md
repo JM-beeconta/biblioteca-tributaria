@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2017
-- Fecha: 2017-03-10
+- Fecha: 2017-03-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso28.pdf
 - Hash SHA-256: 6fd7b8fce0ad8a00b33f71e28ab016dafbb67b42aefd023c5fe43bf43f70ed42
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 29 del 10 de Marzo del 2017 Autoriza a empresa One Ticket Spa para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Operaciones Establece procedimiento en que las Administradoras de Fondos de Inversión y Fondos Mutuos deberán obtener un número de Rol Único Tributario y mantener la información actualizada para cada uno de los…
+amento de Operaciones Establece procedimiento en que las Administradoras de Fondos de Inversión y Fondos Mutuos deberán obtener un número de Rol Único Tributario y mantener la información actualizada para cada uno de los fondos que administren, de acuerdo al artículo 81, contenido en el artículo 1° de la Ley N° 20.712, modificado por las Leyes N° 20.780 y N° 20.899. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

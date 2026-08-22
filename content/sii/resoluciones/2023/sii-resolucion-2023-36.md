@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 37 del 21 de Marzo del 2023 Modifica la resolución Ex. SII N° 30 de fecha 25.03.2022 y aplica lo dispuesto en dicha resolución a la restitución del préstamo tasa cero del artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Villarrica. Fuente: Subdirección de Gestión Estratégica…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Villarrica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

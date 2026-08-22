@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2016
-- Fecha: 2016-06-17
+- Fecha: 2016-06-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso53.pdf
 - Hash SHA-256: 415f103ca30025c1e61cc959902c1190550b7b72d507b93ed92cf372f7121618
 
 ## Resumen
 
-17 de Junio del 2016 Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de importaciones de mercancías entre partes relacionadas. Fuente: Subdirección de Fiscalización Otorga por una sola vez el plazo que se indica para informar al SII de las modificaciones relacionadas c…
+Fiscalización Otorga por una sola vez el plazo que se indica para informar al SII de las modificaciones relacionadas con la actualización de los socios y comuneros; y el porcentaje de participación en el capital y/o utilidades. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

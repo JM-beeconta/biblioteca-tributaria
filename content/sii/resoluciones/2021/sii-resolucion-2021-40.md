@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2021
-- Fecha: 2021-04-16
+- Fecha: 2021-04-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso40.pdf
 - Hash SHA-256: 54aefe1bddff54b5a0bff43b3a1de802379f569f10781a7c188ae613d910f05e
 
 ## Resumen
 
-n de Asistencia al Contribuyente. Resolución Exenta SII N° 41 del 16 de Abril del 2021 Regula procedimiento sobre reclamo administrativo por bono de clase media contenido en el artículo 18 de la Ley N° 21.323, que establece un nuevo bono de clase media y un préstamo solidario para la protección de los ingresos de la clase media Fuente: Subdirección de Fiscalización. Fija procedimiento para otorgar bono de clase media a los pensionados indicados en el inciso tercero del artículo 4 de la Ley N° 21.323, que establece…
+cción de Fiscalización. Fija procedimiento para otorgar bono de clase media a los pensionados indicados en el inciso tercero del artículo 4 de la Ley N° 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

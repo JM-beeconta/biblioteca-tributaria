@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2013
-- Fecha: 2013-04-15
+- Fecha: 2013-04-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso39.pdf
 - Hash SHA-256: bd8a9e248923f56f3b6268d3ae21330e656f4bed1fa80fe123723dbb523ce28a
 
 ## Resumen
 
-y Asistencia de Contribuyentes. Resolución Exenta SII N° 40 del 15 de Abril del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Depto. de Atención y Asistencia de Contribuyentes. Establece declaración Jurada simple a presentar por los contribuyentes, para la cesión del crédito por gastos en educación, según el artículo 55 ter de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas. Resolución Exe…
+ia de Contribuyentes. Establece declaración Jurada simple a presentar por los contribuyentes, para la cesión del crédito por gastos en educación, según el artículo 55 ter de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas.
 
 ## Referencias detectadas
 

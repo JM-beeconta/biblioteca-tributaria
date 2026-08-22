@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2024
-- Fecha: 2024-12-11
+- Fecha: 2024-12-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso115.pdf
 - Hash SHA-256: adce84425a650adf9c25e03d3a1175de3316d5b67467ffd9b5bc74ec6729e042
 
 ## Resumen
 
-al Artículo 88 bis del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 116 del 11 de Diciembre del 2024 Fija forma y periodicidad de las sesiones del comité ejecutivo. Deja sin efecto Resolución Ex. SII N° 68 de 2016. Fuente: Subdirección Jurídica. Delega en los jefes de departamentos de avaluaciones la facultad que indica Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 114 del 05 de Diciembre del 2024 Aprueba Convenio entre el Servicio de Impuestos In…
+Subdirección Jurídica. Delega en los jefes de departamentos de avaluaciones la facultad que indica Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 131
 - Año: 2023
-- Fecha: 2023-11-20
+- Fecha: 2023-11-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso131.pdf
 - Hash SHA-256: 6b2bf86070805436d5daa32adc390b07fb2466bd17090cf39a6df3ed4537ffc0
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 132 del 20 de Noviembre del 2023 Instruye sobre la forma de documentar los servicios prestados por trabajadores independientes de plataformas digitales domiciliadas o residentes en Chile. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paillaco. Fuent…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paillaco. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

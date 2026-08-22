@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2026
-- Fecha: 2026-03-06
+- Fecha: 2026-03-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso35.pdf
 - Hash SHA-256: 38cf2766ccfedf1d599ccd2a98742054e5e96537e37f3d01f39298ac32ec123b
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 06 de Marzo del 2026 Autoriza a Ticketera LONKO Ticket Limitada., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 34 del…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

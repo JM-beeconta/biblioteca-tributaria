@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 138
 - Año: 2025
-- Fecha: 2025-10-10
+- Fecha: 2025-10-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso138.pdf
 - Hash SHA-256: 053a49c568672f25a4ad26bf1023c7b66a2df0256ac50579cd3834596391465f
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 139 del 10 de Octubre del 2025 Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de mercadolibre chile ltda. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contri…
+cute;n de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

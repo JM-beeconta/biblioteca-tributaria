@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 131
 - Año: 2025
-- Fecha: 2025-10-06
+- Fecha: 2025-10-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso131.pdf
 - Hash SHA-256: fd7bece2f07c2d34275a3619cc2c63fd87fad4aced1f562ab95556b80889219e
 
 ## Resumen
 
-e acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 132 del 06 de Octubre del 2025 Rectifica listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Desarrollo Agropecuario y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contr…
+Subdirección de Avaluaciones. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Desarrollo Agropecuario y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

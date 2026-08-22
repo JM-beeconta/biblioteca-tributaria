@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ternancional. Resolución Exenta SII N° 09 del 23 de Enero del 2013 Autoriza al contribuyente SPF S.A., RUT N° 76.121.871-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Depto. Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 08 del 23 de Enero del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Depto. De Personas y de Micro y pequeñas Empresas. Resolución Exenta SII N° 07 del 17 de…
+ia de Contribuyentes. Resolución Exenta SII N° 08 del 23 de Enero del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Depto. De Personas y de Micro y pequeñas Empresas.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2026
-- Fecha: 2026-02-05
+- Fecha: 2026-02-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso21.pdf
 - Hash SHA-256: 03134f8082687784b283e5ed03499970063f754b5aa776d3317c776a70ef88c5
 
 ## Resumen
 
-/p> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 22 del 05 de Febrero del 2026 Deja sin efecto la resolución Ex. N° 209 de 2025, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. R…
+Subdirección de Avaluaciones. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

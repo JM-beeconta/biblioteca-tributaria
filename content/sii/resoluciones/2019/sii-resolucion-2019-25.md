@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2019
-- Fecha: 2019-02-18
+- Fecha: 2019-02-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso25.pdf
 - Hash SHA-256: c5062f11372ef07dee72523ab1bde683a39b2fbe73f84ec16a3d291f76dc402d
 
 ## Resumen
 
-minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exenta SII N° 26 del 18 de Febrero del 2019 Autoriza impresora fiscal MARCA EPSON, MODELO TM-T900FC, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 24 del 15 de Febrero del 2019 Resuelv…
+ute;n de Asistencia al Contribuyente Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

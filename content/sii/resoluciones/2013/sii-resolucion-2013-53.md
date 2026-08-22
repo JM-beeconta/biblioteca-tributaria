@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2013
-- Fecha: 2013-06-03
+- Fecha: 2013-05-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso53.pdf
 - Hash SHA-256: 480da0dbfccd8b8b4465dc4510bd9dd50df33705badf3fb92a781265da15f9de
 
 ## Resumen
 
-/normativa_legislacion/resoluciones/2013/reso54.pdf' target='_blank'>Resolución Exenta SII N° 54 del 03 de Junio del 2013 Reemplaza oficina de Bienestar y Servicio de las Personas, contenida en el dispositivo 3° de la resolución N° 143, de 2011, fijando nueva denominación a la Oficina dependiente del Departamento Subdirección de Recursos Humanos que indica. Fuente: Subdirección de Recursos Humanos. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fue…
+de Recursos Humanos. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

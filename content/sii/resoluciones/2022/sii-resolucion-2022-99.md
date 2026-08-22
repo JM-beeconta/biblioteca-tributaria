@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2022
-- Fecha: 2022-10-27
+- Fecha: 2022-10-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso99.pdf
 - Hash SHA-256: 7cbe2d64e5a6a30ecf77bff17715aa9f7543990fc0c7217fc863e12438f0641d
 
 ## Resumen
 
-señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 100 del 27 de Octubre del 2022 Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas bajo las condiciones que se indican Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente:…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

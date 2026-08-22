@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 42
 - Año: 2018
-- Fecha: 2018-05-04
+- Fecha: 2018-04-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso42.pdf
 - Hash SHA-256: 2e13f62c47e48a3b8c2e2a0ee0d10debc5872179f045c865944667a4a7b35b89
 
 ## Resumen
 
-s, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 43 del 04 de Mayo del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Dispone cambio de sujeto total de derecho para el cumplimiento de IVA. Deja sin efecto la Resolución Ex. SII N° 2, de 12 de Enero de 2018. Fuente: Subdirección De Fiscalización Resolución Exenta SII N…
+cción de Fiscalización Dispone cambio de sujeto total de derecho para el cumplimiento de IVA. Deja sin efecto la Resolución Ex. SII N° 2, de 12 de Enero de 2018. Fuente: Subdirección De Fiscalización
 
 ## Referencias detectadas
 

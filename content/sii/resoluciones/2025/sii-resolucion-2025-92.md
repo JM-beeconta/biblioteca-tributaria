@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2025
-- Fecha: 2025-07-30
+- Fecha: 2025-07-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso92.pdf
 - Hash SHA-256: 00bc27706f68e8bd9ce8e8d2d41cc16ce249d9c86ad292a36dd536005344dc41
 
 ## Resumen
 
-;n Jurídica. Resolución Exenta SII N° 93 del 30 de Julio del 2025 Regula la declaración y pago del IVA por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Autoriza a sociedad comercializadora de entradas, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones qu…
+cción de Fiscalización. Autoriza a sociedad comercializadora de entradas, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

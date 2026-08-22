@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2024
-- Fecha: 2024-03-26
+- Fecha: 2024-03-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso39.pdf
 - Hash SHA-256: c1bdfaeeac4b53719fc23cdf1920b6c69dae63bd68141355c74e145e7e0e4a05
 
 ## Resumen
 
-e indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 40 del 26 de Marzo del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Panguipulli. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resuelve solicitud de prórroga para implementar el sistema de marcación establecido en los artículos 60 quinquies del Código Tributario y 13 bis del D.L. N° 828 de 1974. Fuente: Subdirección de Fiscalización.…
+tégica y Estudios Tributarios. Resuelve solicitud de prórroga para implementar el sistema de marcación establecido en los artículos 60 quinquies del Código Tributario y 13 bis del D.L. N° 828 de 1974. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

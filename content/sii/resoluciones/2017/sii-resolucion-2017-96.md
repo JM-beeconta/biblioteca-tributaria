@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del 13 de Octubre del 2017 Se crea Declaración Jurada Formulario N° 1944 que establece forma y plazo para presentar Declaración Jurada Anual de Saldos de Cuentas de Inversión Acogidas el Mecanismo de Ahorro establecido en el Ex Articulo 57 bis de la Ley de la Renta, e informar y certificar lo que se indica. Deroga Resoluciones N° 1139, de 1994 y N° 171, de 2006 Fuente: Subdirección de Fiscalización Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2018. Fuente: Subdire…
+Fiscalización Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

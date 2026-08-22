@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2014
-- Fecha: 2014-08-29
+- Fecha: 2014-08-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso87.pdf
 - Hash SHA-256: 148018efeaef9a2ce65cd782305f7ad75cb9ae54c28106f8a9b7e38e2d8d6f4a
 
 ## Resumen
 
-cute;n Resolución Exenta SII N° 88 del 29 de Agosto del 2014 Fija nueva fecha de vigencia de emisión de los documentos timbrados, y prorroga plazo que dispone la Resolución Ex. SII N°99, de 2013. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 86 del 28 de Agosto del 2014 Téngase por desafiliados del Sistem…
+cia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

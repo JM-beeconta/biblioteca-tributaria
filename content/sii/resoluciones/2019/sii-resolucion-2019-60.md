@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 61 del 09 de Mayo del 2019 Imparte instrucciones al Director Regional de la XIII Dirección Regional Metropolitana, Santiago Centro, para delegar en Jefe de Unidad de Ñuñoa las facultades que indica. Fuente: Subdirección Jurídica Autoriza a la sociedad COMPAÑÍA DE PETRÓLEOS DE CHILE COPEC S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección…
+Subdirección Jurídica Autoriza a la sociedad COMPAÑÍA DE PETRÓLEOS DE CHILE COPEC S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

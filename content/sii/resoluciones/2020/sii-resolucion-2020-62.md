@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 63 del 24 de Junio del 2020 Instruye sobre cumplimiento de los requisitos, monto y forma de solicitar el beneficio transitorio para los trabajadores independientes, establecido en el artículo primero de la Ley N° 21.242 de 2020. Fuente: Subdirección de Fiscalización. Complementa Resolución Exenta SII N°143 de 31 de Diciembre de 2019, en los términos que indica. Fuente: Dirección De Grandes Contribuyentes. Reso…
+cción de Fiscalización. Complementa Resolución Exenta SII N°143 de 31 de Diciembre de 2019, en los términos que indica. Fuente: Dirección De Grandes Contribuyentes.
 
 ## Referencias detectadas
 

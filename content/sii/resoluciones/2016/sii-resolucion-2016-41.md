@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2016
-- Fecha: 2016-05-13
+- Fecha: 2016-05-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso41.pdf
 - Hash SHA-256: ee2f53c3a6539c8f089318b5b52ba9809481b02064ad1a8775f5932c6edce7a1
 
 ## Resumen
 
-s Masivo del Cumplimiento Tributario Resolución Exenta SII N° 42 del 13 de Mayo del 2016 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Establece nuevo procedimiento para solicitar la devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 40 del 25 de Abril del 2016 Aprueba Adendum Anexo al convenio…
+mplimiento Tributario Establece nuevo procedimiento para solicitar la devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

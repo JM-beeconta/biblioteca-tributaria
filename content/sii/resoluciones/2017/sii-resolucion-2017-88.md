@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección Jurídica Resolución Exenta SII N° 89 del 29 de Septiembre del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Aprueba protocolo de colaboración &ldquo;Red de Academias, Escuelas y Programas de Servicios Públicos&rdquo;, entre el Servicio de Impuestos Internos y el Servicio Civil. Fuente: Subdirección de Desarrollo de Personas Resolución Exenta SII N° 87 del 25 de Septiembre del 2017 Au…
+Fiscalización Aprueba protocolo de colaboración &ldquo;Red de Academias, Escuelas y Programas de Servicios Públicos&rdquo;, entre el Servicio de Impuestos Internos y el Servicio Civil. Fuente: Subdirección de Desarrollo de Personas
 
 ## Referencias detectadas
 

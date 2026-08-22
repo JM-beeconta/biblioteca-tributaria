@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2014
-- Fecha: 2014-02-28
+- Fecha: 2014-02-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso25.pdf
 - Hash SHA-256: 28510c8c82ad3933a59602c93f5afb3e86511d59be901b010cc6789705ca8606
 
 ## Resumen
 
-Fuente: Departamento de Personas y de Micro y Pequeñas Empresas. Resolución SII N° 06 del 28 de Febrero del 2014 Delega facultades en el Director Regional de la XIX DRM Stgo Norte Fuente: Subdirección Jurídica Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 24 del 24 de Febrero del 2014 Instala la XIX Dirección Regional Metropolitana Santiago Norte, fijando su sede y territorio jurisdiccional. Fu…
+ute;n Jurídica Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

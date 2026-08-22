@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2020
-- Fecha: 2020-09-23
+- Fecha: 2020-09-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso114.pdf
 - Hash SHA-256: 88d4a79dc57f4e3b0c2c96ad65a8ddddd54c8924f8f31fe4c24538422a53a119
 
 ## Resumen
 
-de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 115 del 23 de Septiembre del 2020 Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución…
+atégica y Estudios Tributarios Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

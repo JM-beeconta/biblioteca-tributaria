@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2020
-- Fecha: 2020-04-24
+- Fecha: 2020-04-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso43.pdf
 - Hash SHA-256: faff34284e27edcf6abfec41a5704c40707c5b834c375e542f444dbc8b1d135e
 
 ## Resumen
 
-ente: Subdirección de Fiscalización. Resolución Exenta SII N° 44 del 24 de Abril del 2020 Establece comunicaciones, verificaciones, obligaciones de información y de registro, y modelo de certificado, por aplicación de la Ley Nº 21.207 sobre Ley de Donaciones para las micro, pequeñas y medianas empresas (MIPYMES). Fuente: Subdirección de Fiscalización. Ejercicio de opción de contribuyentes que tributan en renta presunta para tributar en base a renta efectiva por las rentas obtenidas en el ejercicio comercial 2019 c…
+cción de Fiscalización. Ejercicio de opción de contribuyentes que tributan en renta presunta para tributar en base a renta efectiva por las rentas obtenidas en el ejercicio comercial 2019 conforme al Decreto Supremo N° 553, del Ministerio de Hacienda, publicado en el Diario Oficial el día 18 de abril de 2020 que modifica el Decreto Supremo Nº 420, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

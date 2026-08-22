@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2018
-- Fecha: 2018-01-30
+- Fecha: 2018-01-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso8.pdf
 - Hash SHA-256: 12154f8a2e52dbf42b171d235598abb09f3a0a762f17a65db5b817d625655a99
 
 ## Resumen
 
-:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 09 del 30 de Enero del 2018 Modifica resolución Ex. SII N° 64, de 06 de julio de 2016 que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 08 del 24 de Enero del 2018 Autoriza a Multicaja S.A., para operar sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servic…
+ción de Fiscalización Resolución Exenta SII N° 08 del 24 de Enero del 2018 Autoriza a Multicaja S.A., para operar sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes terceros afiliados a su red. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones
 
 ## Referencias detectadas
 

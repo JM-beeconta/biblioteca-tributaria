@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Administración Resolución Exenta SII N° 65 del 27 de Mayo del 2019 Autoriza a la SOCIEDAD ENTEL PCS TELECOMUNICACIONES S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Notario Público Titular de San Miguel con asiento en La Cisterna, SR. JORGE ANDRÉS OSSA CUEVAS, para emitir boletas de honorarios electrónicas, en…
+ute;n de Asistencia al Contribuyente Autoriza al Notario Público Titular de San Miguel con asiento en La Cisterna, SR. JORGE ANDRÉS OSSA CUEVAS, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

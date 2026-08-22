@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 77 del 09 de Junio del 2026 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Comisión para el Mercado Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

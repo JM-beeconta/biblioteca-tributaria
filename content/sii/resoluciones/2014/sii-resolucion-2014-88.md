@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 89 del 29 de Agosto del 2014 Crea modelo de Certificado N°40, que acredita donaciones con fines culturales a que se refiere el artículo 8° de la Ley N° 18.985, sustituido por la Ley N°20.675, de 2013. Fuente: Subdirección de Fiscalización Fija nueva fecha de vigencia de emisión de los documentos timbrados, y prorroga plazo que dispone la Resolución Ex. SII N°99, de 2013. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 87 del 28 de Agosto del 2014 Au…
+Fiscalización Fija nueva fecha de vigencia de emisión de los documentos timbrados, y prorroga plazo que dispone la Resolución Ex. SII N°99, de 2013. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

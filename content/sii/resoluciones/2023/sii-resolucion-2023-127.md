@@ -11,7 +11,7 @@
 
 ## Resumen
 
-facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 128 del 13 de Noviembre del 2023 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Instruye sobre presentación de declaración de impuestos formulario 29 fuera de plazo a través de internet. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 126 del 10 de Noviembre del 2023 Aprueba…
+ute;n de Asistencia al Contribuyente. Instruye sobre presentación de declaración de impuestos formulario 29 fuera de plazo a través de internet. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

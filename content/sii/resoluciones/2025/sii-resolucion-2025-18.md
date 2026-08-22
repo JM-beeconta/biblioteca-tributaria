@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2025
-- Fecha: 2025-02-14
+- Fecha: 2025-02-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso18.pdf
 - Hash SHA-256: 94418464de6a7021404c5793bbac6850fbf1d1f33a2501f26476182e1da5793f
 
 ## Resumen
 
-N LA FORMA Y CONDICIONES QUE INDICA. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Resolución Exenta SII N° 19 del 14 de Febrero del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Ancud Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CON…
+cute;N DE ASISTENCIA AL CONTRIBUYENTE Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 ## Referencias detectadas
 

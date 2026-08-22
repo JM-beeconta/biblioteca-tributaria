@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 11
 - Año: 2016
-- Fecha: 2016-03-10
+- Fecha: 2016-03-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso11.pdf
 - Hash SHA-256: 6e43128ba8836fb4c178d4058fc46f8c62cd8a2cd00def2c52615ce4f94aa2f6
 
 ## Resumen
 
-tyle='margin-bottom:0px;'> Resolución Exenta SII N° 12 del 10 de Marzo del 2016 Modifica Res. Ex. SII N° 67 del 11 de mayo de 2009, incorporando nuevos puntos fronterizos para la devolución de IVA turista y simplifica el procedimiento en los términos que se indican. Fuente: Subdirección de Asistencia al Contribuyente Modifica Resoluciones Nro. 379, de 1991 y Exenta SII Nro. 75, de 2013. Crea el Departamento de Defensa Judicial Civil dependiente del Departamento Subdireccion Juridica, y le asigna funciones. Fuente:…
+ncia al Contribuyente Modifica Resoluciones Nro. 379, de 1991 y Exenta SII Nro. 75, de 2013. Crea el Departamento de Defensa Judicial Civil dependiente del Departamento Subdireccion Juridica, y le asigna funciones. Fuente: Departamento de Asesoria Juridica
 
 ## Referencias detectadas
 

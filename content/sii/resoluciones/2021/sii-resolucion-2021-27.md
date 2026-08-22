@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2021
-- Fecha: 2021-03-05
+- Fecha: 2021-03-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso27.pdf
 - Hash SHA-256: 20684c83296fa1aaf7ba76d2266f54fb17d3711809003577240ae86ffee321c5
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 28 del 05 de Marzo del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional de Desarrollo Indígena y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Modificación Protocolo de Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tr…
+tégica y Estudios Tributarios. Aprueba Modificación Protocolo de Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

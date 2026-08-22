@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ción. Resolución Exenta SII N° 173 del 30 de Diciembre del 2020 Aprueba normas de procedimiento para la certificación de acuerdos que se celebren para el financiamiento mediante la participación en pymes, en el marco del régimen pro pyme establecido en la letra d del Artículo 14, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Establece forma y plazo para ejercer la opción del incentivo al ahorro a que se refiere la letra e) del Artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: S…
+cción de Fiscalización. Establece forma y plazo para ejercer la opción del incentivo al ahorro a que se refiere la letra e) del Artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

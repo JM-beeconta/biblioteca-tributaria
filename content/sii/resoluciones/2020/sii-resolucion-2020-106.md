@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2020
-- Fecha: 2020-09-08
+- Fecha: 2020-09-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso106.pdf
 - Hash SHA-256: b27aa268f79c2cd86b9636a1638470156132448894d93aa03f93bd33895950b0
 
 ## Resumen
 
-s y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 107 del 08 de Septiembre del 2020 Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.256. Fuente: Subdirección de Fiscalización. Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdire…
+cción de Fiscalización. Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática.
 
 ## Referencias detectadas
 

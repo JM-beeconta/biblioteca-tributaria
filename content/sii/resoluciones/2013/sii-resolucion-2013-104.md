@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eñas Empresas Resolución Exenta SII N° 105 del 17 de Diciembre del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta SII N° 103 del 16 de Diciembre del 2013 Fija plazo para presentación de Declaraciones Juradas que…
+cia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento Medianas y Grandes Empresas
 
 ## Referencias detectadas
 

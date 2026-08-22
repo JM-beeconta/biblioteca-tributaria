@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 62
 - Año: 2021
-- Fecha: 2021-06-23
+- Fecha: 2021-06-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso62.pdf
 - Hash SHA-256: fa56185214b5f6192ab486e96383b2a447ee6fa7bf630a22618ecd9a3d9a1e1a
 
 ## Resumen
 
-ocedimiento para la emisión masiva de boletas de honorarios electrónica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 63 del 23 de Junio del 2021 Modifica Resolución Exenta SII N° 146, de 2020, sobre delegación de facultades. Fuente: Subdirección de Administración. Fija formato, procedimiento y fecha para envío de información para efectos del bono alivio, que deben entregar las municipalidades del país al Servicio de Impuestos Internos conforme a la Ley N° 21.354, a través de la pl…
+ción de Administración. Fija formato, procedimiento y fecha para envío de información para efectos del bono alivio, que deben entregar las municipalidades del país al Servicio de Impuestos Internos conforme a la Ley N° 21.354, a través de la plataforma web del SII. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

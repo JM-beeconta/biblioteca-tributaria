@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2015
-- Fecha: 2015-11-18
+- Fecha: 2015-11-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso88.pdf
 - Hash SHA-256: 972c38bcb68af292d3ba279dc846e3fab31468db46a6aea89af38283fc467669
 
 ## Resumen
 
-;n y Asistencia de Contribuyentes Resolución Exenta SII N° 89 del 18 de Noviembre del 2015 Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas. Fuente: Departamento de Atención y Asistencia de Contribuyentes Exime del timbraje de pagarés a contribuyente que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 87 del 04 de Noviembre del 2015 Modifica Resoluciones Exentas N°s 1 y 83, ambas de 2015, que establecen la…
+cia de Contribuyentes Exime del timbraje de pagarés a contribuyente que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

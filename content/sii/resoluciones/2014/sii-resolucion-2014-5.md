@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 5
 - Año: 2014
-- Fecha: 2014-01-15
+- Fecha: 2014-01-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso5.pdf
 - Hash SHA-256: 04af4c1a33c0209aa9f67a7228f2ebb167983568ab8eef10705c52341faf68b7
 
 ## Resumen
 
-acute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 06 del 15 de Enero del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 05 del 10 de Enero del 2014 Establece obligación de presentar Declaraciones Juradas semestrales que indica. Deroga Resolución Exenta SII N°117 del 03 de octubre del 2011 Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta…
+cia de Contribuyentes Resolución Exenta SII N° 05 del 10 de Enero del 2014 Establece obligación de presentar Declaraciones Juradas semestrales que indica. Deroga Resolución Exenta SII N°117 del 03 de octubre del 2011 Fuente: Departamento Medianas y Grandes Empresas
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Departamento de Tasaciones Resolución Exenta SII N° 03 del 11 de Enero del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Chilena de Gastronomia Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 02 del 11 de Enero del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación Familias Empresarias de Chile Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 01 del 11 de Enero del 2017…
+Fiscalización Resolución Exenta SII N° 02 del 11 de Enero del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación Familias Empresarias de Chile Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

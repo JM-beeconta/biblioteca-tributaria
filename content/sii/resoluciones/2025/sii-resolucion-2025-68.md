@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;digo Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 69 del 19 de Junio del 2025 Instruye forma en que los bancos comerciales deben cumplir la obligación a que se refiere el inciso segundo del artículo 89 del código tributario. Fuente: Subdirección de Fiscalización. Crea la oficina de relaciones internacionales. Fuente: Subdirección Normativa Resolución Exenta SII N° 67 del 12 de Junio del 2025 Establece medidas para asegurar el cumplimiento del deber de reserva de conformidad co…
+cción de Fiscalización. Crea la oficina de relaciones internacionales. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

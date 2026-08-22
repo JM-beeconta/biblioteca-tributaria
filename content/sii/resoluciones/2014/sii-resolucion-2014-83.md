@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 84 del 22 de Agosto del 2014 Anexa tablas de Coeficientes Guías de terreno a plano de precios de la comuna de Melipilla contenido en la resolución Ex. SII N°108 de 27.12.2013. Fuente: Subdirección de Avaluaciones Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 82 del 22 de Agosto del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 201…
+ute;n de Avaluaciones Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

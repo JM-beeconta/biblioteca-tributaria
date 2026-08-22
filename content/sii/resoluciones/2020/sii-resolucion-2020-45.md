@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2020
-- Fecha: 2020-04-27
+- Fecha: 2020-04-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso45.pdf
 - Hash SHA-256: ee92af3e2772ea4c3f79b459efd7958f2fa1722253b170104374cd97713e02cf
 
 ## Resumen
 
-ca a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 46 del 27 de Abril del 2020 Autoriza como receptores electrónicos de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece la forma en que los contribuyentes podrán acogerse a al régimen de depreciación instantánea establecida en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.21…
+ute;n de Asistencia al Contribuyente. Establece la forma en que los contribuyentes podrán acogerse a al régimen de depreciación instantánea establecida en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210 que moderniza la Legislación Tributaria. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

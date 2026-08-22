@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Monte Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 54 del 04 de Mayo del 2023 Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Chileno Británico de Cultura. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

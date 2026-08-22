@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2016
-- Fecha: 2016-01-20
+- Fecha: 2016-01-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso3.pdf
 - Hash SHA-256: f86a4403e518ef875ab9da5a47692c7d9f1ab687377fa9ff32a7183a9da98c50
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 04 del 20 de Enero del 2016 Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 03 del 14 de Enero del 2016 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 14 de Enero del 2016 Fija tablas de valores de trolebuses, m…
+cia de Contribuyentes Resolución Exenta SII N° 03 del 14 de Enero del 2016 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

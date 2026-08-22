@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:0px;'> Resolución Exenta SII N° 24 del 13 de Marzo del 2015 Autoriza a Empresa Aticket Distribución Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a Ticket Hoy Chile S.P.A. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asi…
+cia de Contribuyentes Autoriza a Ticket Hoy Chile S.P.A. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

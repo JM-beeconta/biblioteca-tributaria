@@ -11,7 +11,7 @@
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 170 del 27 de Noviembre del 2025 Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de Mercadolibre Chile Ltda. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

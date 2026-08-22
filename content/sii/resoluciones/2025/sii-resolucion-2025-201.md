@@ -11,7 +11,7 @@
 
 ## Resumen
 
-icaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 202 del 23 de Diciembre del 2025 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Modifica la Resolución N°158, de 2025. Fuente: Subdirección de Asistencia al…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Modifica la Resolución N°158, de 2025. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

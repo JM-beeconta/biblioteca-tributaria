@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stablecido en el artículo 9° de la ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 88 del 26 de Junio del 2026 Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para el semestre que se indica Fuente: Subdirección de Fiscalización. Modifícase la Resolución Ex. SII N°193 de 2025, que crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta S…
+cción de Fiscalización. Modifícase la Resolución Ex. SII N°193 de 2025, que crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

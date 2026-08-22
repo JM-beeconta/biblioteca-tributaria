@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2021
-- Fecha: 2021-02-25
+- Fecha: 2021-02-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso21.pdf
 - Hash SHA-256: d6aba7801caf022477c0bed7c08e205c9c741e6f854b83a1428a128fcd403ae3
 
 ## Resumen
 
-inos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 22 del 25 de Febrero del 2021 Modifica resolución Ex. SII Nº 123 de 30.09.2020, que establece la forma y plazo para presentar las declaraciones juradas anual N° 1847 y N° 1926. Fuente: Subdirección de Fiscalización. Establece tipos de carpeta tributaria y regula su uso. Deja sin efecto Resolución Ex. SII N° 80, de 2016. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 20 del 24 de Febrero del…
+cción de Fiscalización. Establece tipos de carpeta tributaria y regula su uso. Deja sin efecto Resolución Ex. SII N° 80, de 2016. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

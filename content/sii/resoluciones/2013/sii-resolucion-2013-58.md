@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Empresas. Resolución Exenta SII N° 59 del 17 de Junio del 2013 Autoriza a Falabella Retail S.A., RUT 77.261.280-k , a generar representaciones impresas de boletas electrónicas en la forma que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a DTICKET SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 57 del 10 d…
+cia de Contribuyentes Autoriza a DTICKET SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

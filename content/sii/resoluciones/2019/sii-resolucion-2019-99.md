@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2019
-- Fecha: 2019-09-05
+- Fecha: 2019-09-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso99.pdf
 - Hash SHA-256: e1ec8ebdd6d29a89e2228d5297694b19eea3e01c85892da83e5cb2f12c1a8921
 
 ## Resumen
 
-stablece sus ámbitos de competencia. Fuente: Subdirección de Informática Resolución Exenta SII N° 100 del 05 de Septiembre del 2019 Autoriza como receptor electrónico de documentos tributarios electrónicos a la SUBSECRETARÍA DEL MEDIO AMBIENTE. Fuente: Subdirección de Asistencia al Contribuyente Modifica Res. Ex. SII N° 18 de 22.04.2003 y Res. Ex. SII N° 45 de 01.09.2003, eliminando la obligación de entregar un ejemplar impreso del DTE y deja sin efecto Res. Ex. N° 11 de 14.02.2003. Fuente: Subdirección de Asisten…
+ute;n de Asistencia al Contribuyente Modifica Res. Ex. SII N° 18 de 22.04.2003 y Res. Ex. SII N° 45 de 01.09.2003, eliminando la obligación de entregar un ejemplar impreso del DTE y deja sin efecto Res. Ex. N° 11 de 14.02.2003. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

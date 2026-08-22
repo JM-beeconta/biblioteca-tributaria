@@ -11,7 +11,7 @@
 
 ## Resumen
 
-se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 109 del 08 de Septiembre del 2020 Actualiza y complementa Resolución Ex. SII N° 120 de 2016 sobre declaración jurada anual sobre operaciones en el exterior por medio de Formulario N° 1929. Fuente: Subdirección de Fiscalización. Deja sin efecto las instrucciones relativas a vales en reemplazo de boletas y vales electrónicos en reemplazo de la boleta de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia…
+cción de Fiscalización. Deja sin efecto las instrucciones relativas a vales en reemplazo de boletas y vales electrónicos en reemplazo de la boleta de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

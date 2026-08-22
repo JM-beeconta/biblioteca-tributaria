@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tivos Resolución Exenta SII N° 66 del 06 de Julio del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Administración establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Administración Reorganiza las unidades que conforman el Departamento Subdirección de Asistencia al Contribuyente; establece ámbito de competencia y modifica Resolución Exenta N°98, del 21.10.2014. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 64 del 06…
+Administración Reorganiza las unidades que conforman el Departamento Subdirección de Asistencia al Contribuyente; establece ámbito de competencia y modifica Resolución Exenta N°98, del 21.10.2014. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

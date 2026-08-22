@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2018
-- Fecha: 2018-08-10
+- Fecha: 2018-08-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso60.pdf
 - Hash SHA-256: 38c8a36969cfc0260457ab6c8bdffacbdf4d9b9d89386be3a4015044c0987615
 
 ## Resumen
 
-a SII N° 61 del 10 de Agosto del 2018 Determina contribuyentes obligados a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974 e indica empresa con la cual los contribuyentes obligados deberán contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Suspende temporalmente calidad de agente retenedor a SODEXO SOLUCIONES DE…
+cción de Fiscalización Suspende temporalmente calidad de agente retenedor a SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A., RUT 96.556.930-8, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

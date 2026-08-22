@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Diciembre del 2014 Establece Declaración Jurada anual que deben presentar las entidades facultadas para emitir productos financieros acogidos al artículo 54 bis de la Ley sobre Impuesto a la Renta. Fija forma y plazo de presentación de esta declaración y de emisión del certificado a que se refiere el inciso undécimo del citado Artículo 54 bis Fuente: Subdirección de Fiscalización Establece los requisitos que deben cumplir el libro de ingresos y egresos y el libro de caja, que se exige llevar a los contribuyente…
+Fiscalización Establece los requisitos que deben cumplir el libro de ingresos y egresos y el libro de caja, que se exige llevar a los contribuyentes que se acojan al régimen simplificado de tributación del artículo 14 Ter letra a), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

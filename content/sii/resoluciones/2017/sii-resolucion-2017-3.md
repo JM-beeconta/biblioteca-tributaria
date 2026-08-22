@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2017
-- Fecha: 2017-01-13
+- Fecha: 2017-01-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso3.pdf
 - Hash SHA-256: 79943a27108ff38b7c77fd4ca09d75e3b6bfb5164fef7f8d54343e5a86c1025e
 
 ## Resumen
 
-ttom:10px;'> Fuente: Departamento de Tasaciones Resolución Exenta SII N° 04 del 13 de Enero del 2017 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Departamento de Tasaciones Resolución Exenta SII N° 03 del 11 de Enero del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Chilena de Gastronomia Fuente:…
+tamento de Tasaciones Resolución Exenta SII N° 03 del 11 de Enero del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Chilena de Gastronomia Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

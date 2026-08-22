@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2019
-- Fecha: 2019-06-18
+- Fecha: 2019-06-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso75.pdf
 - Hash SHA-256: 002dd2f3490d03e302950f985c30893d0e5c6892d66e58660c3ea8254b252785
 
 ## Resumen
 
-ubdirección de Asistencia al Contribuyente Resolución Exenta SII N° 76 del 18 de Junio del 2019 Autoriza a la Sociedad Cines e Inversiones Cineplex Limitada para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Crea modelo de certificado N° 63, sobre donaciones efectuadas a la Fundación Imagen de Chile para llevar a cabo la organización y ejecución de la Conferencia…
+ute;n de Asistencia al Contribuyente Crea modelo de certificado N° 63, sobre donaciones efectuadas a la Fundación Imagen de Chile para llevar a cabo la organización y ejecución de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre cambio climático "cop 25". Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

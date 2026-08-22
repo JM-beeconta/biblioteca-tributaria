@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2015
-- Fecha: 2015-06-10
+- Fecha: 2015-06-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso50.pdf
 - Hash SHA-256: d15f0425085e578adacb7f48183e95bd5d4bb0b4552aa8b10a93aa4d38cb75fa
 
 ## Resumen
 
-www.sii.cl/normativa_legislacion/resoluciones/2015/reso51.pdf' target='_blank'>Resolución Exenta SII N° 51 del 10 de Junio del 2015 Establece nuevo requisito para las facturas, Facturas de Compras y Guías de Despacho, Electrónicas o no Electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a los Directores Regionales que indica para delegar en los Jefes de Unidades de sus jurisdicciones las fac…
+mplimiento Tributario Autoriza a los Directores Regionales que indica para delegar en los Jefes de Unidades de sus jurisdicciones las facultades de aplicar sanciones, por infracciones tributarias previstas y tipificadas en los artículos 97 n° 15, 16 y 109 del Código Tributario, cuyas denuncias respectivas no hayan sido reclamadas, y para conceder condonaciones de las mismas. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

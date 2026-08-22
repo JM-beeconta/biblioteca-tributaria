@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ara los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exenta SII N° 47 del 27 de Marzo del 2026 Actualiza nómina de bienes afectos contenida en la Resolución Ex. N° 194 de 2025, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al Servicio de Impuestos Internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados,…
+Subdirección de Avaluaciones. Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al Servicio de Impuestos Internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

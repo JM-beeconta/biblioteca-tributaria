@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 22
 - Año: 2019
-- Fecha: 2019-02-15
+- Fecha: 2019-02-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso22.pdf
 - Hash SHA-256: 2db69ea30fd5e9820492450158670cb67d7c2284603c437b19db62bbe192ac22
 
 ## Resumen
 
-. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 23 del 15 de Febrero del 2019 Reemplaza resolutivo 2° de la Resolución Ex. SII N° 21 de 2017, que &ldquo;establece procedimiento para el pago del Impuesto a las Donaciones efectuadas en dinero&rdquo;. Fuente: Subdirección de Fiscalización Autoriza la emisión excepcional de facturas por operaciones de leasing automotriz a contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 21 del 06 de Febrero del 201…
+cción de Fiscalización Autoriza la emisión excepcional de facturas por operaciones de leasing automotriz a contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

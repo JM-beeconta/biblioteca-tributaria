@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;nica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 34 del 04 de Marzo del 2026 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puente Alto. Fuente: Subdirección de Avaluaciones. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 32 del 04 de Marzo del 2026 Otórguese acceso a la siguiente institución a…
+Subdirección de Avaluaciones. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

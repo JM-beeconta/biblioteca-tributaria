@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le='margin-bottom:0px;'> Resolución Exenta SII N° 31 del 06 de Abril del 2016 Exime a promotora CMR Falabella S.A. de la obligación de timbraje de pagarés establecida en el art. 17 inciso 2° del D.L. N° 3475 de 1980 y fija requisitos en su reemplazo. Fuente: Departamento de Atención y Asistencia de Contribuyentes Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 29 del 05 de Abril del 2016 Instruye so…
+cia de Contribuyentes Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

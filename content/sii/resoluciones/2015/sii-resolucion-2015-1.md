@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2015
-- Fecha: 2015-01-13
+- Fecha: 2015-01-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso1.pdf
 - Hash SHA-256: 0f6d23a622867ad51891d1422298de9e1c801cce5dede67cc885bd839765377e
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 13 de Enero del 2015 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 02 de Enero del 2015 Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes en el extranjero o en Chile a través de entes en el exterior, para el pago de un impues…
+ute;n de Avaluaciones Resolución Exenta SII N° 01 del 02 de Enero del 2015 Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes en el extranjero o en Chile a través de entes en el exterior, para el pago de un impuesto único y sustitutivo de aquellos no declarados o pagados en su oportunidad legal. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val()…
 
 ## Referencias detectadas
 

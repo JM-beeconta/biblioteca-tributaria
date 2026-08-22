@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2022
-- Fecha: 2022-10-04
+- Fecha: 2022-09-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso92.pdf
 - Hash SHA-256: 77e94ba9b0f87ea8bb6c318e1487740ceba5a7fd2809d02438e12cf32910a73d
 
 ## Resumen
 
-te;culo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 93 del 04 de Octubre del 2022 Complementa nómina de grandes contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes. Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.…
+ión de Grandes Contribuyentes. Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Fiscalización Resolución Exenta SII N° 20 del 10 de Febrero del 2017 Deroga resoluciones N°92 Y N°116, ambas del año 2004, que establecen la obligación de presentar las Declaraciones Juradas formularios N°1830 y N°1831, respectivamente. Fuente: Departamento de Sistemas de Fiscalización Delega facultad que indica. Fuente: Subdirección de Administración Resolución Exenta SII N° 18 del 08 de Febrero del 2017 Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Fundación Instituto Pro…
+Fiscalización Delega facultad que indica. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

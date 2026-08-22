@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2019
-- Fecha: 2019-08-08
+- Fecha: 2019-08-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso93.pdf
 - Hash SHA-256: 3fd8ff466d93eee9f5f29a9990f7b827a8bb94bb1fabf6378b33ecbb69b625b8
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 94 del 08 de Agosto del 2019 Autoriza a la SOCIEDAD CENCOSUD RETAIL S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60…
+ute;n de Asistencia al Contribuyente Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2016
-- Fecha: 2016-09-22
+- Fecha: 2016-09-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso92.pdf
 - Hash SHA-256: 3c2fe988895e657da103823faa0546d685ac4d3e8124dd6ae52108d24a3def49
 
 ## Resumen
 
-et='_blank'>Resolución Exenta SII N° 93 del 22 de Septiembre del 2016 Establece la forma y procedimiento para acogerse a los regímenes de tributación establecidos en las letras a) o b) del articulo 14 de la Ley de Impuesto a la Renta, vigentes a partir del 01.01.2017, de los contribuyentes que hayan iniciado o inicien actividades hasta el 31 de diciembre de 2016. Fuente: Subdirección de Asistencia al Contribuyente Reorganiza las unidades que conforman el Departamento Subdirección de Gestión Estratégica y Estudios…
+ncia al Contribuyente Reorganiza las unidades que conforman el Departamento Subdirección de Gestión Estratégica y Estudios Tributarios y establece ámbitos de competencia de las unidades que lo conforman. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

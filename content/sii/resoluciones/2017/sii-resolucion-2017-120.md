@@ -11,7 +11,7 @@
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 121 del 07 de Diciembre del 2017 Aprueba acuerdo de colaboración suscrito entre el Servicio de Impuestos Internos y la Universidad Adolfo Ibañez. Fuente: Subdirección de Informática Reemplaza procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley N° 19.537. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 119 del 07…
+de Informática Reemplaza procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley N° 19.537. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

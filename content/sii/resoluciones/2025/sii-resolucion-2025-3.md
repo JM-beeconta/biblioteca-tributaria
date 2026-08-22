@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2025
-- Fecha: 2025-01-09
+- Fecha: 2025-01-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso3.pdf
 - Hash SHA-256: 675eb95908043adbb6f596a1cd91d5f92f1a73d78ef9f914ec26922f1935eb85
 
 ## Resumen
 
-e al Artículo 85 ter del Código Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 04 del 09 de Enero del 2025 Declara término de giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 07 de Enero del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Modifica la Resolución N°80, de 2024. Fuente: Subdirección de Asistenc…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 07 de Enero del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Modifica la Resolución N°80, de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 27 del 03 de Marzo del 2021 Aprueba Modificación Protocolo de Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Procedimiento para la denuncia de contribuyentes sin domicilio ni residencia en Chile que hayan incumplido normas tributarias relativas a la declaración y pago del IVA que grav…
+tégica y Estudios Tributarios. Procedimiento para la denuncia de contribuyentes sin domicilio ni residencia en Chile que hayan incumplido normas tributarias relativas a la declaración y pago del IVA que grava los servicios del artículo 8° letra n) de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

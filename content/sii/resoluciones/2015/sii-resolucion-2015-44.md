@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Estudios Resolución Exenta SII N° 45 del 11 de Mayo del 2015 Complementa Resolución que revoca la facultad de decidir la interposición de denuncia o querella en casos que indica. Fuente: Dirección Nacional Revoca delegación de facultades de decidir la interposición de denuncia o querella en casos que indica Fuente: Dirección Nacional Resolución Exenta SII N° 43 del 08 de Mayo del 2015 Fija formato y condiciones de la solicitud que deben presentar los contribuyentes de…
+cción Nacional Revoca delegación de facultades de decidir la interposición de denuncia o querella en casos que indica Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

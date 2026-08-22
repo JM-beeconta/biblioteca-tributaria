@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en su artículo 41 H. Deja sin efecto Resolución Ex. SII N° 61 de 2025. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 125 del 25 de Septiembre del 2025 Aprueba Convenio de Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 123 del 25 de Septiembre del 2025 Fija las fechas de vencimiento para la presentación de declaracion…
+Subdirección Jurídica. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

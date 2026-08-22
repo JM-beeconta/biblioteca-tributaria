@@ -11,7 +11,7 @@
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 156 del 14 de Diciembre del 2020 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Pesca y Acuicultura y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Casinos de Juego y el Servicio de Impuestos Internos. Fuente: Subdirecci…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Casinos de Juego y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

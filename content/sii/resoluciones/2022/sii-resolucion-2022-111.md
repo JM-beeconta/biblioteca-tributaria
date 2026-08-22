@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;digo Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 112 del 25 de Noviembre del 2022 Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Seguridad Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reso…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Seguridad Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

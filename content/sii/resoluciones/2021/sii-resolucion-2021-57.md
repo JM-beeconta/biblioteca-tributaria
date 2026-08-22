@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'>Establece contenido y condiciones de la declaración que debe solicitar el pagador de una renta o cantidad al beneficiario residente en un país con el que exista un convenio vigente para evitar la doble tributación, con el objeto de acreditar las circunstancias señaladas en el N° 4, del artículo 74 de la ley sobre impuesto a la renta, y el agente retenedor pueda no efectuar la retención del impuesto o efectuarla con la tasa prevista en el convenio. Fuente: Subdirección de Fiscalización Aprueba Convenio de Interca…
+ección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

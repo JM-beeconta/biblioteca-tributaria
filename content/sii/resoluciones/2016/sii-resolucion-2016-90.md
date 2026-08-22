@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2016
-- Fecha: 2016-09-20
+- Fecha: 2016-09-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso90.pdf
 - Hash SHA-256: ae246eb781c44a5454b9e98d8594a356abc432ea514ac30cbad5bf35ddfc464e
 
 ## Resumen
 
-gica y Estudios Tributarios Resolución Exenta SII N° 91 del 20 de Septiembre del 2016 Reorganiza las unidades que conforman el Departamento Subdirección Normativa y establece ámbitos de competencia de las unidades que lo conforman. Fuente: Subdirección Normativa Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Resolución Exenta SII N° 89 del 31 de Agosto del 2016 Aprueba convenio de colaboración entre el Servicio de Im…
+ción Normativa Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

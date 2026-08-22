@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2015
-- Fecha: 2015-11-30
+- Fecha: 2015-11-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso95.pdf
 - Hash SHA-256: 32e5ac5738262f2e24e0a71f161d5e154ff4893d9f7cc582961112a494dd0e1a
 
 ## Resumen
 
-ivo del Cumplimiento Tributario Resolución Exenta SII N° 96 del 30 de Noviembre del 2015 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Complementa Resolución Exenta SII N° 125 de 30 de diciembre de 2014, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 94 del 24 de Noviembre del 2015 Autoriza e empresa producciones Mario Enrique Riera…
+mplimiento Tributario Complementa Resolución Exenta SII N° 125 de 30 de diciembre de 2014, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

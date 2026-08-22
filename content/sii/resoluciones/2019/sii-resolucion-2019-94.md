@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 95 del 08 de Agosto del 2019 Autoriza a la SOCIEDAD NATURA COSMÉTICOS S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD CENCOSUD RETAIL S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD CENCOSUD RETAIL S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

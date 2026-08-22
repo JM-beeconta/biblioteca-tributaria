@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2022
-- Fecha: 2022-09-29
+- Fecha: 2022-09-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso90.pdf
 - Hash SHA-256: b1b5e15e031137fd30783dd2756805cb1adcc8f6f0157257ab4410c564886d53
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 91 del 29 de Septiembre del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Promoción de la Inversión Extranjera y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Incorpora nueva columna al registro REX por operaciones afectas al impuesto único del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscaliza…
+tégica y Estudios Tributarios. Incorpora nueva columna al registro REX por operaciones afectas al impuesto único del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

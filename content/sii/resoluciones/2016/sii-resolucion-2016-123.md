@@ -11,7 +11,7 @@
 
 ## Resumen
 
-f='https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso124.pdf' target='_blank'>Resolución Exenta SII N° 124 del 26 de Diciembre del 2016 Establece forma y plazo para presentar Declaración Jurada Anual N°1933 por los mandatarios encargados de gestionar el mandato especial de administración de carteras de valores establecido en la Ley N°20.880. Fuente: Departamento de Acciones de Cumplimiento Tributario establece forma y plazo para presentar declaración Jurada Anual sobre rentas obtenidas por terceros, F…
+mplimiento Tributario establece forma y plazo para presentar declaración Jurada Anual sobre rentas obtenidas por terceros, Formulario N° 1932. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

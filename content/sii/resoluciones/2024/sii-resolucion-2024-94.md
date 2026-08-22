@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 95 del 10 de Octubre del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Pitrufquén. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad a los artículos 33 BIS N°1 y 62 TER del código tributario. Deja sin ef…
+tégica y Estudios Tributarios. Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad a los artículos 33 BIS N°1 y 62 TER del código tributario. Deja sin efecto Resolución Exenta N° 48, de 2018. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

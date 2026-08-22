@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 140
 - Año: 2021
-- Fecha: 2021-12-30
+- Fecha: 2021-12-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso140.pdf
 - Hash SHA-256: af730ed4559bd23993215243ef9153376b7f043546aff70953726d165f3d1ac9
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Dirección De Grandes Contribuyentes. Resolución Exenta SII N° 141 del 30 de Diciembre del 2021 Fija Nóminas De Agentes Retenedores Y De Contribuyentes Sujetos A Retención, Conforme A Resolución Ex. Sii N° 42, De 30 De Abril De 2018, Que Dispuso El Cambio De Sujeto Para El Cumplimiento De Iva. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Cooperación Técnica y el Servicio de Impuestos Internos. Fuente: Subdirección…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Cooperación Técnica y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

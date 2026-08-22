@@ -11,7 +11,7 @@
 
 ## Resumen
 
-top:0px;margin-bottom:0px;'>Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 27 del 20 de Febrero del 2026 Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Fiscalía Nacional Económica y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SI…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Fiscalía Nacional Económica y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

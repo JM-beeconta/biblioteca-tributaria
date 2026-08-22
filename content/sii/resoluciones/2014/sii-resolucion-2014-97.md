@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Contribuyentes Resolución Exenta SII N° 98 del 21 de Octubre del 2014 Crea departamento Subdirección de Asistencia al Contribuyente y establece funciones y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Asistencia al Contribuyente Establece funciones del Departamento Subdirección de Fiscalización y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 96 del 16 de Octubre del 2014 Téngase por desafiliados del Sistema…
+ncia al Contribuyente Establece funciones del Departamento Subdirección de Fiscalización y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

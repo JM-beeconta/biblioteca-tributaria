@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2018
-- Fecha: 2018-09-03
+- Fecha: 2018-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso72.pdf
 - Hash SHA-256: 29aa1970de6e351286117c0ada9071b0f71bea6788c19b714251828878608f74
 
 ## Resumen
 
-ional, Chillán, fijando su sede y jurisdicción territorial Fuente: Subdirección Jurídica Resolución Exenta SII N° 73 del 03 de Septiembre del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 71 del 31 de Agosto del 2018 Excl…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

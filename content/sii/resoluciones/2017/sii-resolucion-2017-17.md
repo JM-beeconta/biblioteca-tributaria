@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Administración Resolución Exenta SII N° 18 del 08 de Febrero del 2017 Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Fundación Instituto Profesional DUOC UC. Fuente: Subdirección de Asistencia al Contribuyente Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Tesorería General de la República. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 16 del 31 de Enero…
+ncia al Contribuyente Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Tesorería General de la República. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 159
 - Año: 2025
-- Fecha: 2025-11-12
+- Fecha: 2025-11-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso159.pdf
 - Hash SHA-256: b1eefebd246f7ac1eac61648ed846899a49b3ef2d1812c69e4a956d3cc64be53
 
 ## Resumen
 
-0px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 160 del 12 de Noviembre del 2025 Reorganiza las unidades que conforman el departamento Subdirección de Asistencia al Contribuyente y establece sus ámbitos de competencia. Deja sin efecto la Resolución Exenta SII N° 128 de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contri…
+ute;n de Asistencia al Contribuyente. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

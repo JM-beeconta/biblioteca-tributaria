@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2023
-- Fecha: 2023-06-16
+- Fecha: 2023-06-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso68.pdf
 - Hash SHA-256: 767a3b38f8a9462ad99c8c3d8e1a3bd1c0b04c9beb36d1f71bc388da58dbf0e4
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 69 del 16 de Junio del 2023 Instruye sobre requisitos, fija procedimiento para solicitar el subsidio temporal que beneficia a las micro, pequeñas y medianas empresas establecido en el artículo 8° de la Ley N°_21.578, y habilita plataforma para ello. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coelemu Fuente: Subdirección de Gest…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coelemu Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

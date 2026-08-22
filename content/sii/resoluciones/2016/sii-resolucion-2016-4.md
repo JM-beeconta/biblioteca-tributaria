@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 4
 - Año: 2016
-- Fecha: 2016-01-22
+- Fecha: 2016-01-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso4.pdf
 - Hash SHA-256: 16c100f8ae7b0bdbf422693b8dfcd881b2ca74b70e93ce31c6d0ea75d39c1f84
 
 ## Resumen
 
-rección de Avaluaciones Resolución Exenta SII N° 05 del 22 de Enero del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 04 del 20 de Enero del 2016 Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 03 del 14 de Enero del 2016 Fija lista de valores de vehículos motori…
+cia de Contribuyentes Resolución Exenta SII N° 04 del 20 de Enero del 2016 Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

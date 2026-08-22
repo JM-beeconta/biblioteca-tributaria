@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2023
-- Fecha: 2023-05-17
+- Fecha: 2023-05-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso58.pdf
 - Hash SHA-256: 1a163e8ad963d4d4904609c6a0c6ad4cd0c2a97332ce7dbc5f1f65b4c54ff84b
 
 ## Resumen
 
-I N° 3943 de fecha 03.11.1992. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 59 del 17 de Mayo del 2023 Autoriza a SABORES CARD SPA, RUT N° 76.969.846-9, para operar sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Crea el comité de gestión de proyectos del Servicio de Impuestos Internos, define su composición y funciones Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 5…
+ute;n de Asistencia al Contribuyente. Crea el comité de gestión de proyectos del Servicio de Impuestos Internos, define su composición y funciones Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ctáculos públicos y reuniones pagadas. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 59 del 11 de Junio del 2021 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Establece contenido y condiciones de la declaración que debe solicitar el pagador de una renta o cantidad al beneficiario residente en un país con el que exista un convenio vigente para evitar la doble tributación, con el o…
+cute;n de Asistencia al Contribuyente Establece contenido y condiciones de la declaración que debe solicitar el pagador de una renta o cantidad al beneficiario residente en un país con el que exista un convenio vigente para evitar la doble tributación, con el objeto de acreditar las circunstancias señaladas en el N° 4, del artículo 74 de la ley sobre impuesto a la renta, y el agente retenedor pueda no efectuar la retención del impuesto o efectuarla con la tasa prevista en el convenio. Fuente: Subdirección de Fisca…
 
 ## Referencias detectadas
 

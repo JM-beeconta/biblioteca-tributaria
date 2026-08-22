@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 31 de Marzo del 2021 Amplía el plazo para presentar las declaraciones juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex. SII N° 97 y N° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización. Aprueba Convenio Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégi…
+cción de Fiscalización. Aprueba Convenio Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 91
 - Año: 2023
-- Fecha: 2023-08-31
+- Fecha: 2023-08-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso91.pdf
 - Hash SHA-256: 527e5aba91ff129c0da3ba3ba9872344c51909508a636aad1c60ad2d601fe6ef
 
 ## Resumen
 
-tom:0px;'> Resolución Exenta SII N° 92 del 31 de Agosto del 2023 Imparte instrucciones sobre la obligación de los bancos e instituciones financieras de informar los intereses, pagados o abonados en cuenta, a sus inversionistas por depósitos, operaciones de captación y mantención de saldos de cuentas corrientes; deja sin efecto las Resoluciones Ex. SII que se indican. Fuente: Subdirección de Fiscalización. Crea el Archivo Histórico Institucional del Servicio de Impuestos internos Fuente: Subdirección de Administrac…
+cción de Fiscalización. Crea el Archivo Histórico Institucional del Servicio de Impuestos internos Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 20
 - Año: 2014
-- Fecha: 2014-02-13
+- Fecha: 2014-02-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso20.pdf
 - Hash SHA-256: b1635441cb070a311f75a1fe2459b6d952d92edcb94607be92518b19d064d32f
 
 ## Resumen
 
-stencia de Contribuyentes. Resolución Exenta SII N° 21 del 13 de Febrero del 2014 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Modifica la Resolución N°379 de 1991 en lo relacionado con el Departamento Subdirección de Informática Fuente: Subdirección de Informática Resolución Exenta SII N° 19 del 07 de Febrero del 2014 Exime del timbraje de pagarés a contribuyente que se indica Fuente:…
+ia de Contribuyentes. Modifica la Resolución N°379 de 1991 en lo relacionado con el Departamento Subdirección de Informática Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

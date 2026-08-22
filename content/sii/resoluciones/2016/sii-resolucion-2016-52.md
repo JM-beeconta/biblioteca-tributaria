@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2016
-- Fecha: 2016-06-15
+- Fecha: 2016-06-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso52.pdf
 - Hash SHA-256: f327fcbf7a081e29fbac81c84469b8a75cdc0e74907eb98448991f67dedab6bc
 
 ## Resumen
 
-;'> Resolución Exenta SII N° 53 del 15 de Junio del 2016 Otorga por una sola vez el plazo que se indica para informar al SII de las modificaciones relacionadas con la actualización de los socios y comuneros; y el porcentaje de participación en el capital y/o utilidades. Fuente: Subdirección de Asistencia al Contribuyente Fija nuevo plazo para presentar la Declaración Jurada Anual sobre Balance de 8 columnas y otros antecedentes, Formulario N°1847, y Declaración Jurada anual sobre Base Imponible de Primera Categorí…
+ncia al Contribuyente Fija nuevo plazo para presentar la Declaración Jurada Anual sobre Balance de 8 columnas y otros antecedentes, Formulario N°1847, y Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formulario N°1926. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario.
 
 ## Referencias detectadas
 

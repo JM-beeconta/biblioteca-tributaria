@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2014
-- Fecha: 2014-02-14
+- Fecha: 2014-02-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso21.pdf
 - Hash SHA-256: 8f8ddba56832cbf101073c380b1df1b90c5f29a6a96d1e4bc8049b0fc580254b
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa Resolución Exenta SII N° 22 del 14 de Febrero del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 20 del 10 de Febrero del 2014 Modifica la Resolución N°37…
+ia de Contribuyentes. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

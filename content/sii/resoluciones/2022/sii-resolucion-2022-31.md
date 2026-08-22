@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2022
-- Fecha: 2022-04-12
+- Fecha: 2022-04-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso31.pdf
 - Hash SHA-256: 6be693e654dc93542d133e911842fe60cc3ca6d2678e8f8cb5ebf5c7c3b229b6
 
 ## Resumen
 
-io de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 32 del 12 de Abril del 2022 Delega facultad en la jefatura que indica. Fuente: Subdirección de Administración. Autoriza a ederend chile s.a rut n° 96.781.350-8, a emitir documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 30 del 25 de Marzo del 2022 Imputación de los…
+ción de Administración. Autoriza a ederend chile s.a rut n° 96.781.350-8, a emitir documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

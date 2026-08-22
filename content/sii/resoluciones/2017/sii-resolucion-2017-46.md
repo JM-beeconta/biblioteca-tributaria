@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 47 del 12 de Mayo del 2017 Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 07 de 2016. Fuente: Subdirección de Asuntos Corporativos Actualiza instrucciones impartidas por la Resolución Ex. SII N°2301, de 07.12.1986, que fija el procedimiento a seguir y señala los requisitos y o…
+Asuntos Corporativos Actualiza instrucciones impartidas por la Resolución Ex. SII N°2301, de 07.12.1986, que fija el procedimiento a seguir y señala los requisitos y obligaciones que se deben cumplir y los antecedentes que se deben acompañar respecto de solicitudes administrativas que se refieran a materias de avaluaciones. Fuente: Oficina de Normas y Casos Especiales
 
 ## Referencias detectadas
 

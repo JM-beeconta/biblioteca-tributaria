@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2019
-- Fecha: 2019-04-24
+- Fecha: 2019-04-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso49.pdf
 - Hash SHA-256: 05bbd9f10890b0907e5c192d4d79d0717c9e05672a9fba58dab19e06908d249c
 
 ## Resumen
 
-isco. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 50 del 24 de Abril del 2019 Autoriza como receptor electrónico de documentos tributarios electrónicos al siguiente organismo público: SUBSECRETARÍA DE EVALUACIÓN SOCIAL. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD DIMERC S.A. para portar la guia de despacho electrónica y factura electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contrib…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD DIMERC S.A. para portar la guia de despacho electrónica y factura electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

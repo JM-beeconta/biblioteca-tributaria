@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2024
-- Fecha: 2024-10-25
+- Fecha: 2024-10-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso102.pdf
 - Hash SHA-256: 142424923caa3982bcbb55871e89be0c5bacafa88c21208e9c43c9f4f78a1283
 
 ## Resumen
 
-;dica. Resolución Exenta SII N° 103 del 25 de Octubre del 2024 Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes o rentas, dispuesto en el artículo undécimo transitorio de la Ley N° 21.713. Fuente: Subdirección de Fiscalización. Modifica resolución Ex. SII N° 131, de 2 de octubre de 2020, que dispone declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera…
+cción de Fiscalización. Modifica resolución Ex. SII N° 131, de 2 de octubre de 2020, que dispone declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola y fija plazo de presentación. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:0px;'>Imparte instrucciones sobre la obligación de informar al Servicio de Impuestos Internos, la opción de tributación sobre el saldo de utilidades acumuladas para los contribuyentes que se incorporaron al régimen simplificado de la letra a) del artículo 14 ter de la Ley sobre Impuesto a la Renta a partir del 1° de enero de 2015 o del 1° de enero de 2016, según corresponda. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Exime a promotora CMR Falabella S.A. de la obligación de…
+mplimiento Tributario Exime a promotora CMR Falabella S.A. de la obligación de timbraje de pagarés establecida en el art. 17 inciso 2° del D.L. N° 3475 de 1980 y fija requisitos en su reemplazo. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2013
-- Fecha: 2013-10-23
+- Fecha: 2013-10-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso89.pdf
 - Hash SHA-256: c0deddeb9b26688b00a1c2c25a631417e05715951841ff1e8fc96751225ab74e
 
 ## Resumen
 
-Medianas y Grandes Empresas Resolución Exenta SII N° 90 del 23 de Octubre del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Crea Oficina de Comunicaciones Institucionales en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección Recursos Humanos Resolución Exenta SII N° 88 del 16 de Octubre del 2013 Autoriza como emisores de documentos tributarios electrónicos…
+cia de Contribuyentes Crea Oficina de Comunicaciones Institucionales en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección Recursos Humanos
 
 ## Referencias detectadas
 

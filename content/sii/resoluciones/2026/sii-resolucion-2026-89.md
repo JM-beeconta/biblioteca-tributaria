@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2026
-- Fecha: 2026-07-01
+- Fecha: 2026-06-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso89.pdf
 - Hash SHA-256: dd005a22a0c28bfa04d430085e141d21955ce5a3ab5669dac94622ab5ab22a9a
 
 ## Resumen
 
-Modifica resolución exenta SII N° 110 de 2024 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 01 de Julio del 2026 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que se indica. Fuente: Subdirección de Asistencia al Contribuyente Actualiza nómina de bienes afectos de la Res. Ex. N°194 año 2025, según lo establecido en el artículo 9° de la ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 88 del 26 de Junio del 2026 Fij…
+cute;n de Asistencia al Contribuyente Actualiza nómina de bienes afectos de la Res. Ex. N°194 año 2025, según lo establecido en el artículo 9° de la ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

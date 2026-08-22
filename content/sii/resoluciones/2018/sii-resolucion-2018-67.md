@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 68 del 28 de Agosto del 2018 Procedimiento de solicitud de inscripción en Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal, Cuya Comercialización Se Ha Vuelto Inviable. Fuente: Subdirección de Fiscalización Autoriza al Notario Sr. Juan Carlos San Martin Molina, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de A…
+cción de Fiscalización Autoriza al Notario Sr. Juan Carlos San Martin Molina, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

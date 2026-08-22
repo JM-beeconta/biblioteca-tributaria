@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 12
 - Año: 2023
-- Fecha: 2023-02-10
+- Fecha: 2023-02-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso12.pdf
 - Hash SHA-256: 98c9d3943161bdc3b2ebdf721874eb117a0638707404b2855fcaff43bba1382c
 
 ## Resumen
 
-14 del 10 de Febrero del 2023 Designa Secretario General Subrogante Fuente: Subdirección Jurídica. Resolución Exenta SII N° 13 del 09 de Febrero del 2023 Modifica la resolución exenta SII N°103 de 31 de agosto de 2021. Fuente: Subdirección de Fiscalización. Complementa lista anexa de la resolución exenta N°4, de 2023. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 11 del 02 de Febrero del 2023 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica…
+cción de Fiscalización. Complementa lista anexa de la resolución exenta N°4, de 2023. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

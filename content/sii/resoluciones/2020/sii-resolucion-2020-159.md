@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 159
 - Año: 2020
-- Fecha: 2020-12-16
+- Fecha: 2020-12-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso159.pdf
 - Hash SHA-256: 36a9ddf1978f091f4a09c9ee9b6599ce6209a4bfafdcaa8207db7f126e5d0bae
 
 ## Resumen
 
-='margin-bottom:0px;'> Resolución Exenta SII N° 160 del 16 de Diciembre del 2020 Implementa excepciones establecidas en el inciso segundo del Artículo 54 de la Ley sobre impuesto a las ventas y servicios, referente a la obligación de emitir documentos tributarios electrónicos, en la forma que indica. Deja sin efecto Resolución Ex. SII N° 72 de 31.07.2014. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indi…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

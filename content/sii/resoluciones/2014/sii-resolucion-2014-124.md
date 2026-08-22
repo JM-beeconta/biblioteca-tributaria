@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2014
-- Fecha: 2014-12-30
+- Fecha: 2014-12-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso124.pdf
 - Hash SHA-256: d7451a8278e1b642793370588b6001c63abb42144851bb9c8698a151c9dc64cf
 
 ## Resumen
 
-p> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 125 del 30 de Diciembre del 2014 Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que señalan. Fuente: DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES Resolución Exenta SII N° 123 del 26 de Diciembre del 2014 Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas…
+randes Contribuyentes Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que señalan. Fuente: DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 
 ## Referencias detectadas
 

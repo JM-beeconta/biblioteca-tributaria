@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2025
-- Fecha: 2025-01-17
+- Fecha: 2025-01-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso10.pdf
 - Hash SHA-256: 3a5bc62b4111d7fa127ae06efc7bba299a4e73cb350691c66b0a9f3b0db4cf09
 
 ## Resumen
 
-en las condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 11 del 17 de Enero del 2025 Dispone cambio de sujeto de derecho del IVA en las ventas de Berries. Deja sin efecto las Resoluciones Ex. SII N° 55 de 2005 y N° 58 de 2006. Fuente: Subdirección de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 09 del 16 de Enero del 2025 Fija procedimiento para el giro y pago del impu…
+cción de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

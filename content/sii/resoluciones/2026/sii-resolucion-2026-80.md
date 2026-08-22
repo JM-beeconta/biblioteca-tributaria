@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 81 del 12 de Junio del 2026 Fija condiciones para autorizar excepcionalmente el traslado de funcionarios a través de vehículos institucionales y servicios de taxis y radiotaxis. Y delega esta facultad en funcionarios que indica Fuente: Subdirección de Administración. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al…
+ción de Administración. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

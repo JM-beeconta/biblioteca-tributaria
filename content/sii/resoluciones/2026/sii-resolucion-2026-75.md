@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2026
-- Fecha: 2026-06-09
+- Fecha: 2026-06-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso75.pdf
 - Hash SHA-256: 855a9ff3676d7174fca33a3fe0bc1529045ed13130e1a071293865a8eb9512d9
 
 ## Resumen
 
-ternos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 76 del 09 de Junio del 2026 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 74 del…
+ute;n de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

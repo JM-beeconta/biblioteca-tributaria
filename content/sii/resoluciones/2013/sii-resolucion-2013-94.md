@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2013
-- Fecha: 2013-11-20
+- Fecha: 2013-11-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso94.pdf
 - Hash SHA-256: d54a52f3753f5ecdc3cf7408419491d892d4cbf51b7f959afe6c82979130fccc
 
 ## Resumen
 
-Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 95 del 20 de Noviembre del 2013 Crea la Oficina de Relaciones laborales como unidad dependiente del Departamento Subdirección de Recursos Humanos Fuente: Subdirección de Recursos Humanos Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 93 del 07 de Noviembre del 2013 Téngase por desafiliados del Si…
+n de Recursos Humanos Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

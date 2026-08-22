@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 92 del 03 de Octubre del 2018 Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Rengo, Sr. Juan Raúl Cristi León, para emitir boletas de honorarios electrónicas, en la forma que indica Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SI…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Rengo, Sr. Juan Raúl Cristi León, para emitir boletas de honorarios electrónicas, en la forma que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

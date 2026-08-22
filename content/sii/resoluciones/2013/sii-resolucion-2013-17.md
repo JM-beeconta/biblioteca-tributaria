@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ww.sii.cl/normativa_legislacion/resoluciones/2013/reso18.pdf' target='_blank'>Resolución Exenta SII N° 18 del 12 de Febrero del 2013 Autoriza a Autogasco S. A. para emitir comprobantes de entrega de ventas de gas vehicular, realizadas mediante el empleo de tarjetas recargables previamente pagadas y documentadas tributariamente, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Establece forma de dar cumplimiento a las obligaciones dispuestas en los artículos 5° i…
+cia de Contribuyentes Establece forma de dar cumplimiento a las obligaciones dispuestas en los artículos 5° inciso final y 21 de la Ley N° 20.241 de 2008, modificada por la Ley 20.570, de 2012, en virtud de la cual los contribuyentes que utilicen el beneficio señalado en esta ley deben informar al Servicio de Impuestos Internos, aquella parte de los desembolsos efectuados en contratos y/o proyectos de investigación y desarrollo que no haya sido financiada con recursos públicos. Deja sin efecto Resolución Ex SII N°…
 
 ## Referencias detectadas
 

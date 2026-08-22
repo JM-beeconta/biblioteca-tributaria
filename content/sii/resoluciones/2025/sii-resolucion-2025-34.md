@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2025
-- Fecha: 2025-03-20
+- Fecha: 2025-03-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso34.pdf
 - Hash SHA-256: 02d880ae61eaf7c321b8acf6af779ea902bb5d4ae89284d96fbce9d8e427d304
 
 ## Resumen
 
-ón Nacional del Servicio Civil. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 35 del 20 de Marzo del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Quisco. Fuente: Subdirección de Asistencia al Contribuyente. OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN Resolución Exenta SII N° 33 del 13 de Marzo del 2025 Establece escala de tasas con…
+ute;n de Asistencia al Contribuyente. OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN
 
 ## Referencias detectadas
 

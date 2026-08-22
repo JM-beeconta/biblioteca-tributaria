@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 148 del 27 de Noviembre del 2020 Designa secretarios titulares y suplentes en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Copiapó. Fuente: Departamento de Asesoría Jurídica. Autoriza a la sociedad Transbank S.A. para emitir boleta de ventas y servicios por el &ldquo;servicio operación transacción extranjera&rdquo; en la forma que indic…
+o de Asesoría Jurídica. Autoriza a la sociedad Transbank S.A. para emitir boleta de ventas y servicios por el &ldquo;servicio operación transacción extranjera&rdquo; en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

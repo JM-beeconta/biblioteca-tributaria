@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:0px;'> Resolución Exenta SII N° 119 del 12 de Diciembre del 2024 Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del Artículo 3° de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Establece la forma y oportunidad en que las entidades que indica deben informar según lo dispuesto en el Artículo 9 de la L…
+cción de Fiscalización. Establece la forma y oportunidad en que las entidades que indica deben informar según lo dispuesto en el Artículo 9 de la Ley 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

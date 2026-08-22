@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pdf' target='_blank'>Resolución Exenta SII N° 108 del 27 de Diciembre del 2013 Fija Valores de terrenos y construcciones, y definiciones técnicas para el reavalúo de los bienes raíces de la segunda serie no agrícola con destino habitacional y los correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Depar…
+ute;n de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

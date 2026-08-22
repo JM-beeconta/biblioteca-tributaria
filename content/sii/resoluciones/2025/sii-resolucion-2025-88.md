@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2025
-- Fecha: 2025-07-22
+- Fecha: 2025-07-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso88.pdf
 - Hash SHA-256: c17ed87c6b228d3160d1431f424e6c974c6bc7dc940cb4150f3dfc9a5016cc42
 
 ## Resumen
 
-perar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 89 del 22 de Julio del 2025 Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización. Delega en los (las) subdirectores (as) las facultades que indica y revoca resoluciones EX.SII N° 58, de 24 de abril de 2009 y EX SII N° 23 de 21 de febrero de 2025. Fuente: Subdirección Jurídica. Resolución Ex…
+cción de Fiscalización. Delega en los (las) subdirectores (as) las facultades que indica y revoca resoluciones EX.SII N° 58, de 24 de abril de 2009 y EX SII N° 23 de 21 de febrero de 2025. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

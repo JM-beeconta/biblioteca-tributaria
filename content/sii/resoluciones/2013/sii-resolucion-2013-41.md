@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2013
-- Fecha: 2013-05-02
+- Fecha: 2013-04-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso41.pdf
 - Hash SHA-256: ce41242f76e3d62acbc0cecd1d74771e84dfc6a275b952aa3e448e64c9fafc2c
 
 ## Resumen
 
-dianas y Grandes Empresas. Resolución Exenta SII N° 42 del 02 de Mayo del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 40 del 15 de Abril del 2013 Autoriza a proceder conforme a…
+ia de Contribuyentes. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

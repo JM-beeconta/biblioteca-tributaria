@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2015
-- Fecha: 2015-12-17
+- Fecha: 2015-12-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso100.pdf
 - Hash SHA-256: bfdba11047ec35f4a903ed7b72ea2f8db9cae7c13605f16df2a02cdff952cb3a
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 101 del 17 de Diciembre del 2015 Fija plazo para presentación de declaraciones juradas que se indican. Fuente: Departamento de Sistemas de Fiscalización Establece nueva denominación "Departamento de Asistencia al Contribuyente" en las Direcciones Regionales Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 01 de Diciembre del 2015 Complementa Resolución Exenta SII N° 125 de…
+Fiscalización Establece nueva denominación "Departamento de Asistencia al Contribuyente" en las Direcciones Regionales Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

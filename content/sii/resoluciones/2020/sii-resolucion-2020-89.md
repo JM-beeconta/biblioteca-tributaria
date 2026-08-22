@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2020
-- Fecha: 2020-08-12
+- Fecha: 2020-08-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso89.pdf
 - Hash SHA-256: d97992c29961b6fb8b44fef611c6a95e477e72fa73da08d8adc811a39e6e44bb
 
 ## Resumen
 
-que se indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 12 de Agosto del 2020 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre Subsecretaría de Transportes y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exe…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre Subsecretaría de Transportes y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

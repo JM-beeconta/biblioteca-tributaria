@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2020
-- Fecha: 2020-04-29
+- Fecha: 2020-04-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso47.pdf
 - Hash SHA-256: f1a796d44e33e9320f39830bb9d358f507068678414dc734f4bcb130278a1a4a
 
 ## Resumen
 
-Nº 66 sobre donaciones asociadas al brote mundial del virus denominado CORONAVIRUS-2 o COVID-19. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 48 del 29 de Abril del 2020 Otorga condonación de las multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 46 del 27 de Abril del…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

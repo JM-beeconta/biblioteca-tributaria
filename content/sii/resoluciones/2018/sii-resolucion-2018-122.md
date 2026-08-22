@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 122
 - Año: 2018
-- Fecha: 2018-12-14
+- Fecha: 2018-12-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso122.pdf
 - Hash SHA-256: 858a2375ea7b38933be0ec0383cfc92d5dc86d206fb2c120f0c662934c8c050c
 
 ## Resumen
 
-ión se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 123 del 14 de Diciembre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 121 del 06 de Diciembre del 2018 Exime a CORPO…
+cción de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

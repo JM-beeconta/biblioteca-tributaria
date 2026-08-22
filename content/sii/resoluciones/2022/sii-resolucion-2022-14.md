@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2022
-- Fecha: 2022-02-14
+- Fecha: 2022-02-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso14.pdf
 - Hash SHA-256: a32fd216cb344c190d8582235be2cc8133cb46adf4a1d6aa26ab18a8d3af1a09
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 15 del 14 de Febrero del 2022 Información que debe proporcionar el gestor de un contrato de asociación o cuentas en participación u otro encargo fiduciario, en el formulario 22 sobre declaración de impuestos anuales a la renta. Fuente: Subdirección de Fiscalización. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa. Resol…
+cción de Fiscalización. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2014
-- Fecha: 2014-09-02
+- Fecha: 2014-08-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso89.pdf
 - Hash SHA-256: b47f673ab8cfb8be8ff22864e83228a75091ee7db8a8412e6e7eef938a152d71
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 90 del 02 de Septiembre del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Crea modelo de Certificado N°40, que acredita donaciones con fines culturales a que se refiere el artículo 8° de la Ley N° 18.985, sustituido por la Ley N°20.675, de 2013. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 88 del 29 de Agosto de…
+cia de Contribuyentes Crea modelo de Certificado N°40, que acredita donaciones con fines culturales a que se refiere el artículo 8° de la Ley N° 18.985, sustituido por la Ley N°20.675, de 2013. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

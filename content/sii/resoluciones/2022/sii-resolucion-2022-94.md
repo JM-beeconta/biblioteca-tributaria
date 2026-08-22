@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2022
-- Fecha: 2022-10-06
+- Fecha: 2022-10-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso94.pdf
 - Hash SHA-256: 8fba9e2596bc6fda21ede3db26433877f4aed01281aaf8346c25e6c338df5ead
 
 ## Resumen
 
-rgin-bottom:0px;'>Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 95 del 06 de Octubre del 2022 Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2023 Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 93 del 04 de Octubre del 2022…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

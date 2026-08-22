@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l 13 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 55 del 13 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 53 del 10 de Abril del 2026 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave t…
+Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

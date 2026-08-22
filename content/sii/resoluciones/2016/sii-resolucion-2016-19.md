@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan> Resolución Exenta SII N° 20 del 18 de Marzo del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección de Contraloría Interna y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Contraloría Interna Fija nuevo plazo para presentación de Declaración Jurada Formulario N°1851 Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 18 del 15 de Marzo del 2016 Autoriza a Director de la Dirección de Grandes Contribuyentes para delegar en el…
+aloría Interna Fija nuevo plazo para presentación de Declaración Jurada Formulario N°1851 Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

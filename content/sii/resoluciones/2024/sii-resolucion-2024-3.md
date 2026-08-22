@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2024
-- Fecha: 2024-01-10
+- Fecha: 2024-01-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso3.pdf
 - Hash SHA-256: d73030e1e48d46abc8c96a5d8340f80d70d4827f9eceb1fc0ab80874c6b71334
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 04 del 10 de Enero del 2024 Exime del régimen general de operación de ventas de gas licuado de petróleo, establecido en resolución EX. SII N°1087 de 1978, a contribuyente que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 03 del 08 de Enero del 2024 Modifica estructura de XX dirección regional de Chillán incorporando oficina de procedimientos administrativos tributarios y c…
+cción de Fiscalización. Resolución Exenta SII N° 03 del 08 de Enero del 2024 Modifica estructura de XX dirección regional de Chillán incorporando oficina de procedimientos administrativos tributarios y crea grupo de cumplimiento tributario en terreno. Fuente: Subdirección de Desarrollo de Personas.
 
 ## Referencias detectadas
 

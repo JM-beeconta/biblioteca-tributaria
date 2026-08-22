@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 17 de Enero del 2020 Establece obligación de comunicar electrónicamente información sobre enajenaciones de inmuebles por notarías y Conservadores de Bienes Raíces, al Servicio de Impuestos Internos. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 17 de Enero del 2020 Aprueba Adendum Convenio entre Subsecretaria de Economía y Empresas de Menor Tamaño y Servicio de Impuestos…
+: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 17 de Enero del 2020 Aprueba Adendum Convenio entre Subsecretaria de Economía y Empresas de Menor Tamaño y Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la Ley 20.659 y su reglamento. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

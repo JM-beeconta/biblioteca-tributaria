@@ -11,7 +11,7 @@
 
 ## Resumen
 
-las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 66 del 25 de Junio del 2020 Amplía el plazo para presentar la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero. Fuente: Subdirección de Fiscalización. Exime temporalmente de trámitede legalización y apostillas en los documentos exigidos en la inscripción o actualización de registro voluntario de instituciones financieras extranjeras e internacionales, para e…
+cción de Fiscalización. Exime temporalmente de trámitede legalización y apostillas en los documentos exigidos en la inscripción o actualización de registro voluntario de instituciones financieras extranjeras e internacionales, para efectos de lo previsto en el artículo 59 N° 1, letra b), de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 151
 - Año: 2025
-- Fecha: 2025-10-29
+- Fecha: 2025-10-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso151.pdf
 - Hash SHA-256: fbe7466dcd3ad6458b2275cfe2fa16ae421194233abb423bfbbe84deacfec7a2
 
 ## Resumen
 
-> Resolución Exenta SII N° 152 del 29 de Octubre del 2025 Aprueba prórroga del Convenio interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica. Modifica denominación de los departamentos de administración de las direcciones regionales y dirección de grandes contribuyentes y redefine sus funciones y a…
+Subdirección Jurídica. Modifica denominación de los departamentos de administración de las direcciones regionales y dirección de grandes contribuyentes y redefine sus funciones y atribuciones. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

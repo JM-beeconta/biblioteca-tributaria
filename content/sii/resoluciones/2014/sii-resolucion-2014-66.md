@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2014
-- Fecha: 2014-07-21
+- Fecha: 2014-07-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso66.pdf
 - Hash SHA-256: 27674381a37e2043dd05cd1646ed71990a4929249e750aeb4fd4581e377494a3
 
 ## Resumen
 
-ute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 67 del 21 de Julio del 2014 Autoriza a Contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 65 del 18 de Julio del 2014 Autoriza a Instituciones sin fines de lucro, como receptora…
+ia de Contribuyentes. Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

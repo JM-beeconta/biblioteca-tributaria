@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2022
-- Fecha: 2022-03-16
+- Fecha: 2022-03-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso27.pdf
 - Hash SHA-256: b8dd399298174c8fa5148f6281bdba045bbe9db4aae67ed7831f1997a72b6f50
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 28 del 16 de Marzo del 2022 Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría del Interior y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instruye sobre la obligación de informar los activos relevantes del empresario que se incorporan al giro de la empresa individual de acuerdo a lo dispuesto en el inciso cuarto del artículo 68 del Código Tributario…
+tégica y Estudios Tributarios. Instruye sobre la obligación de informar los activos relevantes del empresario que se incorporan al giro de la empresa individual de acuerdo a lo dispuesto en el inciso cuarto del artículo 68 del Código Tributario. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

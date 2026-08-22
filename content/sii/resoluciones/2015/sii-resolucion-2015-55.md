@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2015
-- Fecha: 2015-06-30
+- Fecha: 2015-06-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso55.pdf
 - Hash SHA-256: ea6578f4f0dc0a6f97c081605e00f09c145ef3d5e465e048117acd485d6b7be1
 
 ## Resumen
 
-ones Resolución Exenta SII N° 56 del 30 de Junio del 2015 Establece oficina de atención de público en la comuna de Alto Hospicio, dependiente de la I Dirección Regional Iquique y delega facultades que indica Fuente: Departamento de Asesoría Jurídica Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo disp…
+ute;a Jurídica Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del D.L. N°825, de 1974. Fuente: Departamento de Atención Y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

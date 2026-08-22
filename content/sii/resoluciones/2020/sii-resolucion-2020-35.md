@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2020
-- Fecha: 2020-03-27
+- Fecha: 2020-03-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso35.pdf
 - Hash SHA-256: 729be5ceaab7d628d023009521830c3e5355e253b23e5fdeaadba242b6fedb53
 
 ## Resumen
 
-para presentar las declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 27 de Marzo del 2020 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Amplía el plazo para presentar Declaraciones Juradas N°1933, N°3225 y N° 3226. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 34 del 25 de Marzo del 2020 Resuelve solicitud de Importadora de Tabacos…
+ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar Declaraciones Juradas N°1933, N°3225 y N° 3226. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

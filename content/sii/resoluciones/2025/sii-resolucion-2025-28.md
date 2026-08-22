@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 29 del 06 de Marzo del 2025 Establece criterios para la proposición, negociación y aceptación de las bases de acuerdo en el procedimiento de mediación entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente. Fuente: Subdirección Jurídica. Fija procedimiento para la suscripción de acuerdos anticipados de precios de transferencia, conforme al N° 7 del Artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efe…
+Subdirección Jurídica. Fija procedimiento para la suscripción de acuerdos anticipados de precios de transferencia, conforme al N° 7 del Artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efecto Resoluciones Ex. N° 68 de 2013 y N° 114 de 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

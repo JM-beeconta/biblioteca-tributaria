@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2016
-- Fecha: 2016-06-30
+- Fecha: 2016-06-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso60.pdf
 - Hash SHA-256: 45b5206ec077f253c53b2969bf5e605313a2d481de14aa3738ff05394fe84691
 
 ## Resumen
 
-Resolución Exenta SII N° 61 del 30 de Junio del 2016 Imparte instrucciones referentes al procedimiento de término de giro de emisores de documentos tributarios electrónicos, complementa Circular N° 66, de 29 de octubre de 1998. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 59 del 24 de Junio del 2016 Complementa R…
+ncia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

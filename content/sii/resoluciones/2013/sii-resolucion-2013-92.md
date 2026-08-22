@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2013
-- Fecha: 2013-11-07
+- Fecha: 2013-10-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso92.pdf
 - Hash SHA-256: 6054bea87e13326fcada6759370c1866e10740a89b0031e5f43ea65d59b43088
 
 ## Resumen
 
-te;n y Asistencia de Contribuyentes Resolución Exenta SII N° 93 del 07 de Noviembre del 2013 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución SII N° 37 del 28 de Octubre del 2013 Delega facultades que indica Delega f…
+cia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

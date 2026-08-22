@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 22 del 05 de Febrero del 2024 Reitera procedimiento especial para solicitar rebajas de avalúos o contribuciones de inmuebles ubicados en zonas afectadas por catástrofes. Fuente: Subdirección de Avaluaciones. Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 20 del 31 de Enero del 2024 Información que empresas d…
+Subdirección de Avaluaciones. Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 22 del 13 de Marzo del 2015 Autoriza a Super Ticket S.A. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Establece forma y oportunidad en que las administradoras de fondos de inversión y fondos mutuos y las instituciones intermediarias que se señalan, deben presentar las declaraciones juradas a las que se refiere el artículo 7° transitorio de la…
+cia de Contribuyentes Establece forma y oportunidad en que las administradoras de fondos de inversión y fondos mutuos y las instituciones intermediarias que se señalan, deben presentar las declaraciones juradas a las que se refiere el artículo 7° transitorio de la ley N° 20.712, de 2014, sobre &ldquo;administración de fondos de terceros y carteras individuales&rdquo;. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

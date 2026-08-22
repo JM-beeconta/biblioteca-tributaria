@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2026
-- Fecha: 2026-06-08
+- Fecha: 2026-06-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso73.pdf
 - Hash SHA-256: 62adbb4e1d4994b93a42a8451c61f336f2429ab546a99d701e05a7c33784ecf4
 
 ## Resumen
 
-de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 74 del 08 de Junio del 2026 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Crea registro especial de instituciones de beneficencia vendedoras de bienes usados y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 72 del 05 de Junio…
+ute;n de Asistencia al Contribuyente. Crea registro especial de instituciones de beneficencia vendedoras de bienes usados y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

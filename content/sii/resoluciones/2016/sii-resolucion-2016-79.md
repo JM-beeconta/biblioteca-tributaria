@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2016
-- Fecha: 2016-08-12
+- Fecha: 2016-08-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso79.pdf
 - Hash SHA-256: 07e658cac7e9dc33d62db64be5d09d25f6a44e054fe8c2ff10d6d157a32c71aa
 
 ## Resumen
 
-e Grandes Contribuyentes Resolución Exenta SII N° 80 del 12 de Agosto del 2016 Establece requisitos que deben cumplir las entidades que se indican para ser receptoras de la &ldquo;carpeta tributaria electrónica&rdquo;. Fuente: Subdirección de Asistencia al Contribuyente Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 78 del 09 de Agosto del 2016 Aprueba convenio d…
+ncia al Contribuyente Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

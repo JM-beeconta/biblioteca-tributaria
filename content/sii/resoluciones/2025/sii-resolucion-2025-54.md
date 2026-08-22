@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cación y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 55 del 30 de Abril del 2025 Imparte instrucciones sobre el procedimiento de fiscalización unificado del artículo 59 ter del código tributario. Fuente: Subdirección de fiscalización Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2°…
+cción de fiscalización Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin efecto la Resolución Exenta SII N°53, de 02.05.2024. Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

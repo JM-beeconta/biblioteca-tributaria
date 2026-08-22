@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 177 del 10 de Diciembre del 2025 Revóquese la obligación de aplicar el sistema de trazabilidad establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, a los contribuyentes que indica. Fuente: Subdirección de Fiscalización. Crea registro especial de operadores locales de plataformas digitales que intermedian en la venta remota de bienes de bajo valor y fija procedimiento de inscripción. F…
+cción de Fiscalización. Crea registro especial de operadores locales de plataformas digitales que intermedian en la venta remota de bienes de bajo valor y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

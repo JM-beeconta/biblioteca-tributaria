@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2022
-- Fecha: 2022-05-13
+- Fecha: 2022-05-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso44.pdf
 - Hash SHA-256: f24c360994dda90e9bc57d29f58df30861bf2f6c78761bd0602d275f3344f1ed
 
 ## Resumen
 
-os. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 45 del 13 de Mayo del 2022 Actualiza Valores De Avalúo Fiscal Contemplados En La Ley N°20.732, Que Rebaja El Impuesto Territorial Correspondiente A Propiedades De Adultos Mayores Vulnerables Económicamente. Fuente: Subdirección de Avaluaciones. Amplía el plazo para presentar las declaraciones de renta año tributario 2022, que no importen pago de impuesto. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 43 del 10 de Mayo del 2022 De…
+Subdirección de Avaluaciones. Amplía el plazo para presentar las declaraciones de renta año tributario 2022, que no importen pago de impuesto. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

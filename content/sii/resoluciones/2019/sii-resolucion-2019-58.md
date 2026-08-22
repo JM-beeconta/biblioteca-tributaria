@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2019
-- Fecha: 2019-05-09
+- Fecha: 2019-05-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso58.pdf
 - Hash SHA-256: 03d1b07157b6b3c3065ad6741b47cbd4bd8de468ada36f2d799b18263f87d391
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 59 del 09 de Mayo del 2019 Autoriza al Conservador de Bienes Raíces de Quellón, Sr. CLAUDIO ALEJANDRO CABELLO OLAVARRIA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Incorpórase a EUROCAPITAL S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al…
+ute;n de Asistencia al Contribuyente Incorpórase a EUROCAPITAL S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

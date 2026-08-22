@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Autoriza a directores regionales de la I. II, III y XII Dirección Regional para delegar en los funcionarios que se indican las facultades de aplicar sanciones, por infracciones tributarias previstas y tipificadas en los artículos 97 N° 15, 16 y 109 del Código Tributario, cuyas denuncias respectivas no hayan sido reclamadas, y para conceder condonaciones de las mismas. Fuente: Oficina de Análisis de la Jurísprudencia Complementa Resoluciones Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. F…
+Jurísprudencia Complementa Resoluciones Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

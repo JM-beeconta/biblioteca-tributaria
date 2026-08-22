@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2021
-- Fecha: 2021-05-18
+- Fecha: 2021-05-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso50.pdf
 - Hash SHA-256: 6330bc6a5abbe17c20ea59ddb284102f22eb3868256d86641b60df664b5040ae
 
 ## Resumen
 
-SII N° 112 de 2018. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 51 del 18 de Mayo del 2021 Amplía el plazo para presentar la declaración jurada anual sobre créditos y ppm puestos a disposición de los socios, formulario Nº 1837. Fuente: Subdirección de Fiscalización. Complementa resolución exenta sii n° 168 de 28 de diciembre de 2020, en los términos que Indica Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 49 del 10 de Mayo del 2021 Modifica resolucion exenta sii n° 146, de 2020…
+cción de Fiscalización. Complementa resolución exenta sii n° 168 de 28 de diciembre de 2020, en los términos que Indica Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

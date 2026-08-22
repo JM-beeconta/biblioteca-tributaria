@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2017
-- Fecha: 2017-12-21
+- Fecha: 2017-12-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso124.pdf
 - Hash SHA-256: 92f21e38f65bb37103c77bcbe0851fa8d6664ad02b0297b511ecba2c205a14e1
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 125 del 21 de Diciembre del 2017 Autoriza el uso de documentos tributarios en papel a los contribuyentes de la comuna de Chaiten de la Region de los Lagos Fuente: Subdirección de Asistencia al Contribuyente Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos Fuente: Subdirección de Fiscalización Resolución Ex…
+ncia al Contribuyente Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

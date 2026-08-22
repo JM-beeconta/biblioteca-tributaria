@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2014
-- Fecha: 2014-11-05
+- Fecha: 2014-11-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso102.pdf
 - Hash SHA-256: 1ef91d4ffd7c90ee49561d1e51395d782f64afbc3f406425bd894bbe1b9a49aa
 
 ## Resumen
 
-Masivo del Cumplimiento Tributario Resolución Exenta SII N° 103 del 05 de Noviembre del 2014 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamanto de Análisis Masivo del Cumplimiento Tributario Modifica resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes emisores electrónicos…
+mplimiento Tributario Modifica resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes emisores electrónicos Fuente: Departamebnto de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 139
 - Año: 2025
-- Fecha: 2025-10-15
+- Fecha: 2025-10-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso139.pdf
 - Hash SHA-256: 76859435695fbc28aeabb9a3ecbf62b8a5c816627db4f3d714ba32f64e4ac9a6
 
 ## Resumen
 
-dor tiene domicilio o residencia en chile. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 140 del 15 de Octubre del 2025 Ajusta nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de mercadolibre chile ltda. Fuente: Subdirección de Asistencia al Contribuye…
+ección de Fiscalización Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de mercadolibre chile ltda. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

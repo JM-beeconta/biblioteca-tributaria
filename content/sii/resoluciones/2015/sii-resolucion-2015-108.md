@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sii.cl/normativa_legislacion/resoluciones/2015/reso109.pdf' target='_blank'>Resolución Exenta SII N° 109 del 24 de Diciembre del 2015 Reemplaza formato e instrucciones de Declaración Jurada Formulario número 1861; modifica la obligación de presentar dicha declaración y deroga Resolución Ex. N° 06 de 21 de enero de 2004. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece obligación de presentar Declaración Jurada por parte de los empleadores de trabajadores de las artes y espectáculos,…
+mplimiento Tributario Establece obligación de presentar Declaración Jurada por parte de los empleadores de trabajadores de las artes y espectáculos, para fines previsionales. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

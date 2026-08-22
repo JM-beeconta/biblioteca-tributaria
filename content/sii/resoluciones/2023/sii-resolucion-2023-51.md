@@ -11,7 +11,7 @@
 
 ## Resumen
 
-il del 2023 Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Revoca Resolución Exenta SII N° 39, de 2022. Fuente: Subdirección de Asuntos Corporativos. Autoriza a proceder conforme al modelo de operación de contabilid…
+cción de Asuntos Corporativos. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala y rectifica res. Ex. SII N°02 de 10.01.2023. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

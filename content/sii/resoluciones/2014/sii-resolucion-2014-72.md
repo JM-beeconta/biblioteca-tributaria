@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2014
-- Fecha: 2014-08-04
+- Fecha: 2014-07-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso72.pdf
 - Hash SHA-256: a60b120130494a7805c22052d07b9e004ddb818434f8d0c555d3c3a1dfbd9434
 
 ## Resumen
 
-de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 73 del 04 de Agosto del 2014 Aprueba Protocolo de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios Implementa excepciones establecidas en el inciso segundo del artículo 54 de la ley sobre impuesto a las ventas y servicios, referente a la obligación de emitir documentos tributarios electrónicos, en la forma que indica. Fuente: Departamento de Atención y Asistencia de…
+ón de Estudios Implementa excepciones establecidas en el inciso segundo del artículo 54 de la ley sobre impuesto a las ventas y servicios, referente a la obligación de emitir documentos tributarios electrónicos, en la forma que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

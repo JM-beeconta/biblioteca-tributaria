@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 101
 - Año: 2022
-- Fecha: 2022-11-08
+- Fecha: 2022-10-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso101.pdf
 - Hash SHA-256: 5b3ca61ed5cfbd763f73213689f381e6fe34fc886c0ba038b4dbf0063a0c76b2
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 102 del 08 de Noviembre del 2022 Aprueba convenio de intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago A.G. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Elimina la obligación de autorizar ante el servicio de impuestos internos, los certificados de donaciones que se señalan. Fuente: Subdirección de Asistencia al Contribuye…
+tégica y Estudios Tributarios. Elimina la obligación de autorizar ante el servicio de impuestos internos, los certificados de donaciones que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

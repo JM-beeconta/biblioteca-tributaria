@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2020
-- Fecha: 2020-01-20
+- Fecha: 2020-01-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso8.pdf
 - Hash SHA-256: b516303764293ca297efa860bcda3c49c95ee8b040062f9c6b40d5a9a21c4d2c
 
 ## Resumen
 
-.207, sobre postergación y pago en cuotas del impuesto a las ventas y servicios. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 09 del 20 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 08 del 17 de Enero del 2020 Exime de la obligación de emisión de guía de despacho en formato electrónico a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente…
+ección de Fiscalización Resolución Exenta SII N° 08 del 17 de Enero del 2020 Exime de la obligación de emisión de guía de despacho en formato electrónico a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

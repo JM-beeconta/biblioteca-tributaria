@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2024
-- Fecha: 2024-03-28
+- Fecha: 2024-03-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso40.pdf
 - Hash SHA-256: e30b4efbf3bcacfa1ab55e5553ebd03d44a2c2800ec7ff737a18711c02e806d0
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 41 del 28 de Marzo del 2024 Amplía el plazo para presentar las declaraciones juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex. SII N° 97 y N° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Panguipulli. Fuente: Subdirección d…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Panguipulli. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

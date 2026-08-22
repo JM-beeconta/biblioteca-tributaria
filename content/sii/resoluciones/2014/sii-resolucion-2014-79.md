@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2014
-- Fecha: 2014-08-22
+- Fecha: 2014-08-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso79.pdf
 - Hash SHA-256: bb748c894e512922901831aed98c03731ab653f45fe331d4557b3fe44eb188d3
 
 ## Resumen
 
-nk'>Resolución Exenta SII N° 80 del 22 de Agosto del 2014 Modifica resolución Ex. SII N°45, de 01.09.2003, que establece normas y procedimientos de operación respectos de operación respecto de los documentos tributarios electrónicos, y Resolución Ex. SII N°93, de 02.08.2006, que complementa Res. Ex. SII. N°45, de 2003. Fuente: Departamento de Atención y Asistencia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribu…
+cia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

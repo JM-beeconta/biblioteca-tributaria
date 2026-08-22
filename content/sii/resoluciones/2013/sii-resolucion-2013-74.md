@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 74
 - Año: 2013
-- Fecha: 2013-08-09
+- Fecha: 2013-07-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso74.pdf
 - Hash SHA-256: 91beff771c63a28f174cb160d2576c15558e401abfcd37c71f1a3b8766641567
 
 ## Resumen
 
-ento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 75 del 09 de Agosto del 2013 Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica y establece ámbitos de competencia Fuente: Subdirección Jurídica Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 73 del 24 de Julio del 2013 Autoriza uso del crédito fiscal IVA y deducció…
+ute;n Jurídica Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

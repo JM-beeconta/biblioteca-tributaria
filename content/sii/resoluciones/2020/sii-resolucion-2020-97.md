@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 98 del 28 de Agosto del 2020 Establece forma y plazo para presentar declaración jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra a) y n° 3 de la letra d) del artículo 14 de la ley sobre impuesto a la renta… Fuente: Subdirección de Fiscalización. Establece obligación de presentar declaración jurada de contribuyentes acogidos a las disposiciones del artículo 14…
+cción de Fiscalización. Establece obligación de presentar declaración jurada de contribuyentes acogidos a las disposiciones del artículo 14 letra d) N° 8 de la lir, por rentas o cantidades que correspondan a sus propietarios, e informar y certificar lo que se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

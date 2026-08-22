@@ -11,7 +11,7 @@
 
 ## Resumen
 
-argin-bottom:0px;'> Resolución Exenta SII N° 120 del 26 de Diciembre del 2016 Establece la obligación de presentar Declaración Anual sobre Operaciones en el Exterior por medio de Formulario N° 1929, y deroga Resoluciones N°s 16 y 113 de 2015. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Modifica la resolución Exenta SII N°4847 de 1995 reemplazando el Formulario 1891 e instrucciones de llenado. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N°…
+mplimiento Tributario Modifica la resolución Exenta SII N°4847 de 1995 reemplazando el Formulario 1891 e instrucciones de llenado. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

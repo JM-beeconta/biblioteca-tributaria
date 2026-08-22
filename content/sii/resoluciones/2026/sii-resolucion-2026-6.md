@@ -11,7 +11,7 @@
 
 ## Resumen
 
-z de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 14 de Enero del 2026 Fija valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 14 de Enero del 2026 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 05 del…
+: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 14 de Enero del 2026 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

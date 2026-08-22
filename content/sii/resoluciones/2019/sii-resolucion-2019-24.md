@@ -11,7 +11,7 @@
 
 ## Resumen
 
-C, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 25 del 15 de Febrero del 2019 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resuelve solicitud de Philip Morris Chile Comercializadora Ltda. de fecha 17.01.2019, complementada por presentación de 01.02.2019, en orden a prorrogar a su respecto, el plazo establecido para implementar e…
+cción de Fiscalización Resuelve solicitud de Philip Morris Chile Comercializadora Ltda. de fecha 17.01.2019, complementada por presentación de 01.02.2019, en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-reas urbanas. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 128 del 28 de Diciembre del 2016 Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contyibuyentes Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario incorporado por la Ley 20.899, del 08.02.2016 Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 126 del 27 de Diciembre del 2016 Deroga y refunde lo dispuesto en la Resolución del Servicio de Impuestos…
+randes Contyibuyentes Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario incorporado por la Ley 20.899, del 08.02.2016 Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

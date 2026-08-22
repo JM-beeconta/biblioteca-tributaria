@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 206 del 30 de Diciembre del 2025 Designa y establece funciones del encargado de la implementación de modificaciones que la Ley Nº 21.719 incorpora en la Ley Nº 19.628 Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para el semestre que se indica Fuente: Subdirección de Fiscal…
+tégica y Estudios Tributarios. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para el semestre que se indica Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

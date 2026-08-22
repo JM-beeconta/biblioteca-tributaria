@@ -11,7 +11,7 @@
 
 ## Resumen
 
-017. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 85 del 22 de Julio del 2020 Establece forma de determinación del promedio de ingresos brutos a que se refiere la letra b) del N°1 de la letra d) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Establece forma y plazo para que las entidades relacionadas que se indican informen a la empresa o sociedad respectiva, el monto total de los ingresos de su giro percibidos o devengados en los ejercicios respectiv…
+cción de Fiscalización. Establece forma y plazo para que las entidades relacionadas que se indican informen a la empresa o sociedad respectiva, el monto total de los ingresos de su giro percibidos o devengados en los ejercicios respectivos y otras rentas que se señalan... Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

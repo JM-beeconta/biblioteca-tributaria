@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 11
 - Año: 2018
-- Fecha: 2018-02-01
+- Fecha: 2018-01-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso11.pdf
 - Hash SHA-256: 30c930adaf3a136f70a6a0bcba2516736e14ff96719758413c79bd413eeead94
 
 ## Resumen
 
-, Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 12 del 01 de Febrero del 2018 Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente Fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirecc…
+ute;n de Asistencia al Contribuyente Fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

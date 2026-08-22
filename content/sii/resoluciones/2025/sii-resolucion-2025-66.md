@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2025
-- Fecha: 2025-06-12
+- Fecha: 2025-06-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso66.pdf
 - Hash SHA-256: 04a9ea35a45203ad9725153f4924974afe5609197c650bcb26f9292ea5f7da01
 
 ## Resumen
 
--top:0px;margin-bottom:0px;'>Crea la oficina de relaciones internacionales. Fuente: Subdirección Normativa Resolución Exenta SII N° 67 del 12 de Junio del 2025 Establece medidas para asegurar el cumplimiento del deber de reserva de conformidad con el artículo 206 del código tributario Fuente: Subdirección Jurídica. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 65 del 29 de Mayo…
+Subdirección Jurídica. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

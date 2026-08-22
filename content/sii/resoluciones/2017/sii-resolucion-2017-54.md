@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2017
-- Fecha: 2017-06-13
+- Fecha: 2017-06-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso54.pdf
 - Hash SHA-256: a99e88266f89ce957f9ab4aca2bde19e5211bfba5509af6bdb1ab93ae9f88368
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 55 del 13 de Junio del 2017 Fija nuevo plazo para presentar la Declaración Jurada anual de Fondo de Utilidades Tributables (fut), formulario N° 1925. Fuente: Subdirección de Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 53 del 31 de Mayo del 2017 Declara término de giro según lo d…
+Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

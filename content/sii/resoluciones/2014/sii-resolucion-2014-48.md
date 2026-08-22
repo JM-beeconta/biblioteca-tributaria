@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2014
-- Fecha: 2014-05-26
+- Fecha: 2014-05-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso48.pdf
 - Hash SHA-256: c78b5fcea5ad89b159061071c2fb0ef855b55d7e853e93a5f8833ad57f4ec7cb
 
 ## Resumen
 
-et='_blank'>Resolución Exenta SII N° 49 del 26 de Mayo del 2014 Incorpora a las instrucciones que realicen operaciones de crédito de dinero de manera masiva, de conformidad a lo dispuesto en el artículo 31 de la Ley N°18.010, a las obligaciones que establece la Resolución Ex. SII N°2, de 04 de enero de 2005, sobre Auxiliar de Registro de Impuesto de Timbres y Estampillas Fuente: Departamento de Operaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan…
+amento de Operaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

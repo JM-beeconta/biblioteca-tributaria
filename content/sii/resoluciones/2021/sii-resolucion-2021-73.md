@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2021
-- Fecha: 2021-07-02
+- Fecha: 2021-07-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso73.pdf
 - Hash SHA-256: c297e8c1cf0038ceaa100c53d62f68b09d7bef138fd11a3cf6d899625de05f8c
 
 ## Resumen
 
-='margin-bottom:0px;'> Resolución Exenta SII N° 74 del 02 de Julio del 2021 Regula la exclusión de los bienes raíces correspondientes a la casa matriz y/o sucursal de los contribuyentes del regímen del artículo 14 letra d) de la Ley sobre impuesto a la renta, para efectos de la aplicación de la sobretasa establecida en el artículo 7 bis de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones. Establece procedimiento de postergación del pago del IVA, en virtud de los decretos supremos dictados a raíz de la catást…
+Subdirección de Avaluaciones. Establece procedimiento de postergación del pago del IVA, en virtud de los decretos supremos dictados a raíz de la catástrofe generada por la pandemia generada por el COVID-19. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

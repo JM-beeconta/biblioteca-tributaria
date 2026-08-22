@@ -11,7 +11,7 @@
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 103 del 13 de Octubre del 2017 Establece obligacion de presentar Declaración Jurada Anual N° 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización Establece forma y plazo para que los contribuyentes que tributen conforme a las normas del Artículo 14 letra c) N° 1 (contabilidad simplificada, planillas y contratos), y N° 2 y 34 (renta presunta), de la Ley sobre Imp…
+Fiscalización Establece forma y plazo para que los contribuyentes que tributen conforme a las normas del Artículo 14 letra c) N° 1 (contabilidad simplificada, planillas y contratos), y N° 2 y 34 (renta presunta), de la Ley sobre Impuesto a la Renta (LIR) entreguen y certifiquen la información que se detalla. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

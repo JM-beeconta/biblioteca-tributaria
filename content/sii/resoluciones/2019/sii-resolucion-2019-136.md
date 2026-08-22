@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 137 del 09 de Diciembre del 2019 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Sociedad Nacional de Pesca. Fuente: Subdireción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Nacional de Comercio, Servicios y Turismo Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 135 del 06 de D…
+eción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Nacional de Comercio, Servicios y Turismo Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

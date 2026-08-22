@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Estratégica y Estudios Tributarios. Resolución Exenta SII N° 98 del 31 de Agosto del 2023 Instruye obligación de presentar declaración anual sobre bienes raíces arrendados por medio de formulario N° 1835; deja sin efecto resoluciones exentas SII N° 19 DE 2005, N° 30 DE 2005, N° 64 DE 2005 y N° 12 DE 2015. Fuente: Subdirección de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 96 del 31 de Agosto del…
+cción de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

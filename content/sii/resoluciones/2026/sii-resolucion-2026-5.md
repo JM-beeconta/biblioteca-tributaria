@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 14 de Enero del 2026 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 05 del 14 de Enero del 2026 Dispone cambio de sujeto total y la calidad de agente retenedor del iva a los emisores de medios de pago que indica, respecto de contribuyentes que…
+: Subdirección de Avaluaciones Resolución Exenta SII N° 05 del 14 de Enero del 2026 Dispone cambio de sujeto total y la calidad de agente retenedor del iva a los emisores de medios de pago que indica, respecto de contribuyentes que no se hayan sujetado o no cumplan con lo dispuesto en el régimen de tributación simplificada, conforme al artículo 3° inciso séptimo de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

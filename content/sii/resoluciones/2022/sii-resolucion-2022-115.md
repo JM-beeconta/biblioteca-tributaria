@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2022
-- Fecha: 2022-12-02
+- Fecha: 2022-11-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso115.pdf
 - Hash SHA-256: 759006dd124958b0256a1a89a1215945f701a7f90a3c0ec7e5f813564e2935ee
 
 ## Resumen
 
-a Serena. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 116 del 02 de Diciembre del 2022 Establece procedimiento para presentar la declaración jurada sobre aviso de intención de permanencia en chile, de acuerdo a la Circular N° 63 de 2021. Fuente: Subdirección de Fiscalización. Instruye sobre los procedimientos para el registro de las sociedades de profesionales. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 114 del 28 de Noviembre del 2022 Establece…
+cción de Fiscalización. Instruye sobre los procedimientos para el registro de las sociedades de profesionales. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

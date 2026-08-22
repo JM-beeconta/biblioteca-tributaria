@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2021
-- Fecha: 2021-07-06
+- Fecha: 2021-07-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso75.pdf
 - Hash SHA-256: 31bf6f9f91da7ea991d640cf18740130722bf6de1456799bb2d68fa07ae66368
 
 ## Resumen
 
-ento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 76 del 06 de Julio del 2021 Complementa instrucciones indicadas en Res. EX. SII N° 176 de 2020. Fuente: Subdirección de Asistencia al Contribuyente. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las resoluciones EX. SII N°s 62 y 65 de 2021. Fuente: Subdirección de Fiscalización. Resolución Ex…
+ute;n de Asistencia al Contribuyente. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las resoluciones EX. SII N°s 62 y 65 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

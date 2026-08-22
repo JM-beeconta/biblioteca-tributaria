@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2017
-- Fecha: 2017-09-06
+- Fecha: 2017-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso84.pdf
 - Hash SHA-256: 109a1a840af91ab469268bba478f82e265f41c01ab1a61c9cf27ff2c3ccffc32
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 85 del 06 de Septiembre del 2017 Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Establece forma y plazo para presentar declaración jurada anual sobre movimientos y saldos de los registros de rentas empresariales del régimen de imputación parcial de crédito a que se refiere la letra b) del artículo 14 de la ley sobre impuesto a la renta, y de los r…
+randes Contribuyentes Establece forma y plazo para presentar declaración jurada anual sobre movimientos y saldos de los registros de rentas empresariales del régimen de imputación parcial de crédito a que se refiere la letra b) del artículo 14 de la ley sobre impuesto a la renta, y de los registros establecidos en el número 2) del artículo 81 de la ley 20.712 Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario
 
 ## Referencias detectadas
 

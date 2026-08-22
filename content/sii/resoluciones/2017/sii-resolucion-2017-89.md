@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2017
-- Fecha: 2017-10-03
+- Fecha: 2017-09-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso89.pdf
 - Hash SHA-256: ec9c28f9eb00c7ad754edf285c528e0f3a44bdf2fa1d29413347d29f8dc31de3
 
 ## Resumen
 
-Resolución EX. SII N° 63, del 2004. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 90 del 03 de Octubre del 2017 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 88 del 29 de Septiembre del 2017 Aprueba protocolo de colaboración &ldquo;Red de Academias, Escuelas y…
+ute;n Jurídica Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

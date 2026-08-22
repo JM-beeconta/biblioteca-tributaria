@@ -11,7 +11,7 @@
 
 ## Resumen
 
-se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 130 del 19 de Diciembre del 2018 Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 128 del 14 de Diciembre del 2018 Autoriza a…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

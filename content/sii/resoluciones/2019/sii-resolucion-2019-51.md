@@ -11,7 +11,7 @@
 
 ## Resumen
 
-meros 208, de 2009 y 117, de 2011. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 52 del 30 de Abril del 2019 Fija procedimiento de identificación como contribuyente catalogado como Exportador de Servicios Prestados y Utilizados Totalmente en el Extranjero. Fuente: Subdirección de Fiscalización Crea modelo de Certificado N° 62, sobre donaciones efectuadas a los órganos y servicios públicos incluidos en la Ley de Presupuestos que, forman parte del fisco. Fuente: Subdirección de Fiscalización Resoluc…
+cción de Fiscalización Crea modelo de Certificado N° 62, sobre donaciones efectuadas a los órganos y servicios públicos incluidos en la Ley de Presupuestos que, forman parte del fisco. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

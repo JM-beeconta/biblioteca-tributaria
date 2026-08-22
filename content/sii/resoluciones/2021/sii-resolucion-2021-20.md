@@ -11,7 +11,7 @@
 
 ## Resumen
 
-esentar las declaraciones juradas anual N° 1847 y N° 1926. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 21 del 24 de Febrero del 2021 Establece tipos de carpeta tributaria y regula su uso. Deja sin efecto Resolución Ex. SII N° 80, de 2016. Fuente: Subdirección de Asistencia al Contribuyente. Refunde y reestructura departamento subdirección de asistencia al contribuyente. Deja sin efecto res. Ex N° 98, de 2014, Res. Ex 65 de 2016 y N° 31, de 2018. Fuente: Subdirección de Asistencia al Contribuyen…
+ute;n de Asistencia al Contribuyente. Refunde y reestructura departamento subdirección de asistencia al contribuyente. Deja sin efecto res. Ex N° 98, de 2014, Res. Ex 65 de 2016 y N° 31, de 2018. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

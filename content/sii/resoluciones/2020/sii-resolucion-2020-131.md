@@ -11,7 +11,7 @@
 
 ## Resumen
 
-target='_blank'>Resolución Exenta SII N° 132 del 02 de Octubre del 2020 Fija procedimiento especial y previo para restituir el aporte fiscal del artículo 4° del artículo primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada COVID-19, para los casos en que se haya obtenido sin cumplir con los requisitos legales. Fuente: Subdirección de Fiscalización. Dispone declaración jurada de mejoras efectuadas por propietarios de bienes raíces…
+cción de Fiscalización. Dispone declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola y fija plazo de presentación. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2017
-- Fecha: 2017-05-10
+- Fecha: 2017-05-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso44.pdf
 - Hash SHA-256: a0bb449d1b3d679fd3f298e30529bc07bc031fbc912a1b2bbd44ba792aa23745
 
 ## Resumen
 
-ciones. Fuente: Oficina de Normas y Casos Especiales Resolución Exenta SII N° 45 del 10 de Mayo del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 43 del 05 de Mayo del 2017 Establece forma y oportunidad en que los contribuyentes del impuesto de prim…
+amento de Operaciones Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 11
 - Año: 2013
-- Fecha: 2013-01-24
+- Fecha: 2013-01-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso11.pdf
 - Hash SHA-256: c850d5b69fccca49686191fa1c2af9153b5a8683e1d804ed899a2a8f7200f856
 
 ## Resumen
 
-Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 12 del 24 de Enero del 2013 Téngase por desafiliados del sistema de facturación eléctrica a los contribuyentes que se indican. Fuente: Depto. Atención y Asistencia al Contribuyentes. Reorganiza Áreas Jurídicas de Direcciones Regionales que indica. Fuente: Depto. de Asesoría Jurídica. Resolución Exenta SII N° 10 del 23 de Enero del 2013 Sustituye estructura y contenido del Formulario N° 50 sobre declaración y Pago Simultáneo de impuestos. Fuente: Fis…
+ia al Contribuyentes. Reorganiza Áreas Jurídicas de Direcciones Regionales que indica. Fuente: Depto. de Asesoría Jurídica.
 
 ## Referencias detectadas
 

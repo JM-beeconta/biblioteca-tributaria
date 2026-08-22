@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2026
-- Fecha: 2026-01-29
+- Fecha: 2026-01-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso16.pdf
 - Hash SHA-256: 94ea9067228305dc07240e7a5fc5db87db3545e57c5ff233b37bc75b0bfbe7ff
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 17 del 29 de Enero del 2026 Declara término de giro a los contribuyentes que se identifican, que presentan 36 o más periodos tributarios sin operaciones según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribu…
+cute;n de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

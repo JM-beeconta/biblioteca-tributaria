@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 117
 - Año: 2021
-- Fecha: 2021-10-15
+- Fecha: 2021-10-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso117.pdf
 - Hash SHA-256: 026e491213d65b1cb1d02ffe871f59b7b9e7adefd683ec0a7682f53e3dbcfc9c
 
 ## Resumen
 
-que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 118 del 15 de Octubre del 2021 Dispone cierre de la central metropolitana de timbraje e instruye sobre autorización de documentos tributarios de contribuyentes que se indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

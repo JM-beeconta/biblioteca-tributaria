@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2024
-- Fecha: 2024-02-21
+- Fecha: 2024-02-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso27.pdf
 - Hash SHA-256: 51cd28a5132d6c1204a2ab4cce88f80ae19d09e14196369923996a9b30495964
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Normativa. Resolución Exenta SII N° 28 del 21 de Febrero del 2024 Instruye sobre prórroga del plazo para la presentación de los formularios números 29 y 50 hasta 28 de marzo de 2024, conforme al Decreto Supremo Nº 71 de 2024, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización. Exime del régimen general de operación de ventas de gas licuado de petróleo, establecido en Resolución Ex. SII N° 1087, de 1978, a contribuyente que indica. Fuen…
+cción de Fiscalización. Exime del régimen general de operación de ventas de gas licuado de petróleo, establecido en Resolución Ex. SII N° 1087, de 1978, a contribuyente que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

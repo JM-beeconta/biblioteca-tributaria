@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Informática Resolución Exenta SII N° 19 del 07 de Febrero del 2014 Exime del timbraje de pagarés a contribuyente que se indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Imparte instrucciones sobre cumplimiento del deber de informar, al Servicio de Impuestos Internos, la opción que establece el artículo transitorio de la Ley N° 20.570, de 2012, que modificó la Ley N° 20.241, de 2008, que establece un incentivo tributario a la inver…
+cia de Contribuyentes Imparte instrucciones sobre cumplimiento del deber de informar, al Servicio de Impuestos Internos, la opción que establece el artículo transitorio de la Ley N° 20.570, de 2012, que modificó la Ley N° 20.241, de 2008, que establece un incentivo tributario a la inversión privada en investigación y desarrollo. Fuente: Departamento Medianas y Grandes Empresas.
 
 ## Referencias detectadas
 

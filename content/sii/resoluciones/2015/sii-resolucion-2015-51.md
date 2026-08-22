@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rio Resolución Exenta SII N° 52 del 10 de Junio del 2015 Establece nuevo requisito para Facturas y Guías de Despacho, Electrónicas o no Electrónicas, emitidas por la venta de combustibles. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Establece nuevo requisito para las facturas, Facturas de Compras y Guías de Despacho, Electrónicas o no Electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento T…
+mplimiento Tributario Establece nuevo requisito para las facturas, Facturas de Compras y Guías de Despacho, Electrónicas o no Electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

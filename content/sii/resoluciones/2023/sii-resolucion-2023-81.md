@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2023
-- Fecha: 2023-07-24
+- Fecha: 2023-07-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso81.pdf
 - Hash SHA-256: a1b3f9e5c3eefb57866cee01b56d2808c85e81d62b90f84427a958af76ac54cb
 
 ## Resumen
 
-partamento de Defensa Judicial Penal, las facultades que indica. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 82 del 24 de Julio del 2023 Prorroga plazo para presentar los formularios números 29 y 50 hasta 31 de agosto de 2023. Conforme al decreto N° 944 de 2023 Fuente: Subdirección de Fiscalización. Aprueba convenio de colaboración entre el Ministerio Público y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 80 del 30 de Junio del 2023 Otorga condonación sobre…
+cción de Fiscalización. Aprueba convenio de colaboración entre el Ministerio Público y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

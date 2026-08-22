@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Masivo del Cumplimiento Tributario Resolución Exenta SII N° 43 del 13 de Mayo del 2016 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 41 del 06 de Mayo del 2016 Establece nuevo procedimient…
+mplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

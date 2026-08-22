@@ -11,7 +11,7 @@
 
 ## Resumen
 
-argin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 76 del 05 de Septiembre del 2018 Suspende temporalmente calidad de Agente Retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Revoca autorización a ENTEL PCS TELECOMUNICACIONES S.A. RUT N° 96.806.980-2, otorgada mediante la Resolución Exenta N° 6, del 18.01.2018. Fuente: Sub…
+cción de Fiscalización Revoca autorización a ENTEL PCS TELECOMUNICACIONES S.A. RUT N° 96.806.980-2, otorgada mediante la Resolución Exenta N° 6, del 18.01.2018. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-deróganse la Resolución Ex. SII N° 9, de 2012, del Servicio de Impuestos Internos y la Circular Normativa N° 2 de la Tesorería General de la República, que establecen regulaciones comunes en relación al intercambio de información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la República, referidas a la obligación de cotizar de los trabajadores independientes. Fuente: Subdirección de Fiscalización Delega facultad que indica en el funcionario que se in…
+cción de Fiscalización Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

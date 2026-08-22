@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2015
-- Fecha: 2015-03-02
+- Fecha: 2015-02-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso14.pdf
 - Hash SHA-256: 8287e26d97c395a4458c5b1c720918cc18866601863e5a4a1e922cd9fe25a999
 
 ## Resumen
 
-ción de Fiscalización Resolución Exenta SII N° 15 del 02 de Marzo del 2015 Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a institución sin fines de lucro como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 13 del 24 de Febrero del 2015 Modifica Resolución Exenta SII N° 08, del…
+mplimiento Tributario Autoriza a institución sin fines de lucro como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

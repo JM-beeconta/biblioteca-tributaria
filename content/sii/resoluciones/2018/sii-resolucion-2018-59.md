@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2018
-- Fecha: 2018-08-03
+- Fecha: 2018-07-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso59.pdf
 - Hash SHA-256: 20224781f7fcf0d01fec1d6d29d0a5039d18df80166dca834024e610f39ca1a9
 
 ## Resumen
 
-Subdirección de Fiscalización Resolución Exenta SII N° 60 del 03 de Agosto del 2018 Suspende temporalmente calidad de agente retenedor a SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A., RUT 96.556.930-8, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Procedimiento de solicitud de inscripción en registro de instituciones sin fines de lucro distribuidoras y/o receptoras de pañales, cuya comercialización se ha v…
+cción de Fiscalización Procedimiento de solicitud de inscripción en registro de instituciones sin fines de lucro distribuidoras y/o receptoras de pañales, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

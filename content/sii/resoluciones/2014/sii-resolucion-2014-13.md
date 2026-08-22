@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2014
-- Fecha: 2014-02-04
+- Fecha: 2014-01-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso13.pdf
 - Hash SHA-256: 9ba619d885975158426833b64dc30c0c1af7d3a6faaf0977aee1435c89d90bca
 
 ## Resumen
 
-ción y Asistencia de Contribuyentes Resolución Exenta SII N° 14 del 04 de Febrero del 2014 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 12 del 31 de Enero del 2014 Fija valores de montos de…
+ueñas Empresas Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

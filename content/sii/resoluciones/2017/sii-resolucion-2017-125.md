@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 125
 - Año: 2017
-- Fecha: 2017-12-26
+- Fecha: 2017-12-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso125.pdf
 - Hash SHA-256: 9c76d8b85ea19c1f57b51cf9dcf0d49e01bc8604cf38d8ece08bbb1a97f810f1
 
 ## Resumen
 
-cute;n de Fiscalización Resolución Exenta SII N° 126 del 26 de Diciembre del 2017 Autoriza a empresa INNTI Sociedad Anónima para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de la comuna de Chaiten de la Region de los Lagos Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 124 del 19 de…
+ncia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de la comuna de Chaiten de la Region de los Lagos Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

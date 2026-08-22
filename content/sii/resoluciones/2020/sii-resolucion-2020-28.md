@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2020
-- Fecha: 2020-03-11
+- Fecha: 2020-02-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso28.pdf
 - Hash SHA-256: 7b51acd82e782fa8c75822b482e1fe14dfa72ac878f3fa4eb167ef1c8772653a
 
 ## Resumen
 
-argin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 29 del 11 de Marzo del 2020 Exime a organización no gubernamental de desarrollo canales &ldquo;ONG CANALES&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza al notario público de Cauquenes, Sr. José Antonio Martínez Demandes, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subd…
+ute;n de Asistencia al Contribuyente. Autoriza al notario público de Cauquenes, Sr. José Antonio Martínez Demandes, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

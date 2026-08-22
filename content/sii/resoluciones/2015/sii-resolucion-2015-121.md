@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdireción de Fiscalización Resolución Exenta SII N° 122 del 29 de Diciembre del 2015 Establece nueva denominación a Departamento Subdirección de Recursos Humanos Fuente: Dirección Nacional Establece nueva denominación a Departamento Subdirección de Estudios Fuente: Dirección Nacional Resolución Exenta SII N° 120 del 29 de Diciembre del 2015 Crea Departamento Subdirección de Asuntos Corporativos, establece funciones y ámbito de competencia Fuente: Dirección…
+cción Nacional Establece nueva denominación a Departamento Subdirección de Estudios Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

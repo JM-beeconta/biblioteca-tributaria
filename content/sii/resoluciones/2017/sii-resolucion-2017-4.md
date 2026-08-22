@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 13 de Enero del 2017 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Departamento de Tasaciones Resolución Exenta SII N° 04 del 13 de Enero del 2017 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Departamento de…
+tamento de Tasaciones Resolución Exenta SII N° 04 del 13 de Enero del 2017 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Departamento de Tasaciones
 
 ## Referencias detectadas
 

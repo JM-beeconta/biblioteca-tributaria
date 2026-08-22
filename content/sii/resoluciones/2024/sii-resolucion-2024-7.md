@@ -11,7 +11,7 @@
 
 ## Resumen
 
-valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 10 de Enero del 2024 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 10 de Enero del 2024 Designa secretarios, titular y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicció…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 10 de Enero del 2024 Designa secretarios, titular y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la i. corte de apelaciones de Valparaíso Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2018
-- Fecha: 2018-06-11
+- Fecha: 2018-05-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso48.pdf
 - Hash SHA-256: 1defd8b18099bf2d18a13d0deef4cabcf1e79f35af8d05c9c177ad70cfa3a703
 
 ## Resumen
 
-p> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 49 del 11 de Junio del 2018 Autoriza a empresa Ticketmundo SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al Artículo 62 TER del código tributario. Fuente: Subdirección Normativa Resolución Exenta SII N° 47 del 2…
+ute;n de Asistencia al Contribuyente Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al Artículo 62 TER del código tributario. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

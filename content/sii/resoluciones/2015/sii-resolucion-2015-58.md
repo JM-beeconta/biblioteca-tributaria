@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2015
-- Fecha: 2015-07-10
+- Fecha: 2015-07-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso58.pdf
 - Hash SHA-256: df39b7a44daa164dbaadeb878e34776c2f7b623f431b30dbbf048aca67ae8306
 
 ## Resumen
 
-ottom:10px;'> Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 59 del 10 de Julio del 2015 Establece Unidad Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización Complementa Resolución Exenta N° 125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 57 del 30 de Junio del 2015 Establece nuevas fechas de pago para las cuotas de impuesto territorial correspon…
+Fiscalización Complementa Resolución Exenta N° 125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

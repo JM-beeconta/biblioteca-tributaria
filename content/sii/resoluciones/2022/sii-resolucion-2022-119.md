@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 119
 - Año: 2022
-- Fecha: 2022-12-14
+- Fecha: 2022-12-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso119.pdf
 - Hash SHA-256: c775db3b01448678c564406e1e9faf31009855f7095606a80c886a51a16ea14c
 
 ## Resumen
 
-tom:0px;'> Resolución Exenta SII N° 120 del 14 de Diciembre del 2022 Fija nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N°46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Renueva plazo establecido por resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones. Resolución Exenta SI…
+cción de Fiscalización. Renueva plazo establecido por resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

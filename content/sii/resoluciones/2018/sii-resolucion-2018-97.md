@@ -11,7 +11,7 @@
 
 ## Resumen
 
-omercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 98 del 09 de Octubre del 2018 Autoriza a instituciones sin fines de lucro que indica, como receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 96 del 05 de Octubre del 2018 Autoriza a institu…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

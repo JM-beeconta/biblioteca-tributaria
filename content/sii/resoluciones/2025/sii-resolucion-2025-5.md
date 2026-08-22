@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 09 de Enero del 2025 Fija procedimiento para tramitar solicitudes de ajuste correspondiente o correlativo conforme al N° 8 del Artículo 41 E de la Ley Sobre Impuesto a la Renta. Deja sin efecto la Resolución Ex. SII N° 67 de 2013 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 05 del 09 de Enero del 2025 Establece forma y plazo de presentación de la declaración jurada para información de abonos recibidos,…
+cción de Fiscalización. Resolución Exenta SII N° 05 del 09 de Enero del 2025 Establece forma y plazo de presentación de la declaración jurada para información de abonos recibidos, conforme al Artículo 85 ter del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

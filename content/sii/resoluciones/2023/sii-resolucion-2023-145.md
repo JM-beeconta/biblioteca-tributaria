@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ión de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 146 del 21 de Diciembre del 2023 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Fija registro del precio corriente en plaza de helicópteros, aviones y yates, según lo establecido en el artículo 9 de la ley 21.420. Fuente: Subdirección de Avaluaciones.…
+cción de Fiscalización. Fija registro del precio corriente en plaza de helicópteros, aviones y yates, según lo establecido en el artículo 9 de la ley 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

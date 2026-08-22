@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2021
-- Fecha: 2021-01-07
+- Fecha: 2021-01-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso1.pdf
 - Hash SHA-256: 036e7f2bd27cdbd82614e21cdeaa44235be9980c91dbcf0cc8aff16078110ad2
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 02 del 07 de Enero del 2021 Instruye sobre procedimiento especial y transitorio para utilizar boletas de honorarios no electrónicas en la forma y condiciones que se establece en casos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 05 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección de Compras y…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 05 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/do…
 
 ## Referencias detectadas
 

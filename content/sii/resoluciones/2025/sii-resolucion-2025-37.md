@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2025
-- Fecha: 2025-03-27
+- Fecha: 2025-03-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso37.pdf
 - Hash SHA-256: 9d900dbefac8ce9480b2dd53acbd426a84eeb75cf1b8e2079e5e57d9e899432e
 
 ## Resumen
 
-n el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 38 del 27 de Marzo del 2025 Fija forma de solicitar ejercicio de la facultad contenida en el inciso quinto del artículo 20 de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Complementa lista anexa de la resolución exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 36 del 20 de Marzo del 2025 Aprueba convenio entre el Servicio de Impuestos Intern…
+cción de Fiscalización. Complementa lista anexa de la resolución exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

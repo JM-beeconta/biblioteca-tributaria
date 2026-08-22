@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2019
-- Fecha: 2019-02-20
+- Fecha: 2019-02-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso29.pdf
 - Hash SHA-256: d0a7cfa39ed29e292aa4f50e9f54691a0c15caad4c3f658582cbbcb6fa66e5ef
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 30 del 20 de Febrero del 2019 Autoriza a la SOCIEDAD COMERCIAL ECCSA S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Suspende calidad de agente retenedor a EVERCRISP SNACK PRODUCTOS DE CHILE S.A, RUT N° 94.528.000-k, conforme a Resolución Ex. Sii N° 42 de 30 de abril de 2018,…
+ute;n de Asistencia al Contribuyente Suspende calidad de agente retenedor a EVERCRISP SNACK PRODUCTOS DE CHILE S.A, RUT N° 94.528.000-k, conforme a Resolución Ex. Sii N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA; y Resolución Ex. Sii N° 150 de 28 de diciembre de 2018, que fijó nómina de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

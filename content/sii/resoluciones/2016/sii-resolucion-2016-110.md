@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 110
 - Año: 2016
-- Fecha: 2016-12-20
+- Fecha: 2016-12-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso110.pdf
 - Hash SHA-256: c46e6cf2c284b6027919381c92ee05b393059921aeb16c076eacbced18e68b70
 
 ## Resumen
 
-ute;n de Asuntos Corporativos Resolución Exenta SII N° 111 del 20 de Diciembre del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumnplimiento Tributario Exime a Fundación San José Centro de Atención Familiar de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señala. Fuente: Departamento de Operaciones Resolución Exenta SII N° 109 del 01 de Diciembre del 2…
+nplimiento Tributario Exime a Fundación San José Centro de Atención Familiar de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señala. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

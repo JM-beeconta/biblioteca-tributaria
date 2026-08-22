@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 80
 - Año: 2020
-- Fecha: 2020-07-17
+- Fecha: 2020-07-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso80.pdf
 - Hash SHA-256: 3f334c002ec60239cafe6556b4fd0aa0cfd8ade30565d6816caa8dab7e8dd6dc
 
 ## Resumen
 
-resolución exenta N° 93 de 22.09.2016. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 81 del 17 de Julio del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas y utilidades reinvertidas que permanezcan en el fondo de utilidades rei…
+ute;n de Asistencia al Contribuyente. Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas y utilidades reinvertidas que permanezcan en el fondo de utilidades reinvertidas (fur), que establece el artículo vigésimo quinto transitorio de la Ley N° 21.210. Modifica resolución exenta SII N°27 del 25 de febrero del 2009. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

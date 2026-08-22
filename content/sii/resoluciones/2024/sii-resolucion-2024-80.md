@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 80
 - Año: 2024
-- Fecha: 2024-08-29
+- Fecha: 2024-08-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso80.pdf
 - Hash SHA-256: ee076bb422e7c0f58c6ed9d81f3a7e0009f41293ba2021a82246caec3b79d06b
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 81 del 29 de Agosto del 2024 Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Cont…
+ogías de la Información Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

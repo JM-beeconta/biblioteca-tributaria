@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 143
 - Año: 2020
-- Fecha: 2020-11-25
+- Fecha: 2020-11-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso143.pdf
 - Hash SHA-256: 4f5f14cdc2678f956e9469b87f562650f913fca89b2f7e2f3efd896d55f73820
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 144 del 25 de Noviembre del 2020 Revoca Res. EX. SII N° 34 de 1981 y delega facultad de calificar como gastos, los desembolsos por concepto de vehículos, en directores regionales y en el director de grandes contribuyentes. Fuente: Subdirección de Fiscalización. Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Los Organismos Públicos Que Indica. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CON…
+cción de Fiscalización. Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Los Organismos Públicos Que Indica. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 
 ## Referencias detectadas
 

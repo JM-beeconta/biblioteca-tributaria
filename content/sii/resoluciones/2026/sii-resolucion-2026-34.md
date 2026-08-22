@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2026
-- Fecha: 2026-03-05
+- Fecha: 2026-03-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso34.pdf
 - Hash SHA-256: efe57abd5fd8c3c0226f60a5e7fb711d911b69bc14ede913be047d1612469cdf
 
 ## Resumen
 
-ceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 35 del 05 de Marzo del 2026 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puente Alto. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N°…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puente Alto. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

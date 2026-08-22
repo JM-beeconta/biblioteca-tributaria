@@ -11,7 +11,7 @@
 
 ## Resumen
 
-so62.pdf' target='_blank'>Resolución Exenta SII N° 62 del 30 de Junio del 2016 Crea Departamento de Administración en la XVIII Dirección Regional, Arica; en la X Dirección Regional, Puerto Montt; en la XI Dirección Regional, Coyhaique y en la Dirección de Grandes Contribuyentes y suprime oficinas de administración de esas dependencias. Fuente: Subdirección de Asistencia al Contribuyente Imparte instrucciones referentes al procedimiento de término de giro de emisores de documentos tributarios electrónicos, compleme…
+ncia al Contribuyente Imparte instrucciones referentes al procedimiento de término de giro de emisores de documentos tributarios electrónicos, complementa Circular N° 66, de 29 de octubre de 1998. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

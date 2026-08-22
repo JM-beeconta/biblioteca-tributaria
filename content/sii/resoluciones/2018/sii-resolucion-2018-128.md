@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 128
 - Año: 2018
-- Fecha: 2018-12-19
+- Fecha: 2018-12-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso128.pdf
 - Hash SHA-256: ba28e77299236cb82295d812fd81b68ab98ed8da19098c5236a03068d80b2658
 
 ## Resumen
 
-pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 129 del 19 de Diciembre del 2018 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Autoriza a contribuyente que indica para emitir Boletas de Prestación de Servicios de Terceros Electrónicas Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 127 del 14 de Diciembre del 2018 Estab…
+cción de Fiscalización Autoriza a contribuyente que indica para emitir Boletas de Prestación de Servicios de Terceros Electrónicas Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

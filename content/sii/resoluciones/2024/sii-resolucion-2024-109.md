@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 110 del 28 de Noviembre del 2024 Fija forma de hacer efectiva la Fiscalización en los controles carreteros o móviles, habilitados por este servicio, a los vehículos de transporte de carga y Sanciona su incumplimiento Fuente: Subdirección de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 108 del 21 de Noviembre del 2024 Amplia p…
+cción de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2024
-- Fecha: 2024-04-12
+- Fecha: 2024-04-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso45.pdf
 - Hash SHA-256: b64cd064a773a5d9bc4b73b255ea9b8cd53f8388b14ffdcaba01fd4fdc695772
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 46 del 12 de Abril del 2024 REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 35, de 2016 Fuente: Subdirección Jurídica. DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994; CIRCULAR N° 29, DE 10 DE JUNIO DE 1994; RES. EX. SII N° 1124, DE 04 DE MARZO DE 1994; y, RES. EX. SII N° 2509, DE 03 DE JU…
+Subdirección Jurídica. DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994; CIRCULAR N° 29, DE 10 DE JUNIO DE 1994; RES. EX. SII N° 1124, DE 04 DE MARZO DE 1994; y, RES. EX. SII N° 2509, DE 03 DE JUNIO DE 1994, QUE FIJAN NORMAS SOBRE ENAJENACIÓN DE VEHICULOS MOTORIZADOS DESTINADOS AL TRANSPORTE DE CARGA AJENA O PASAJEROS. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

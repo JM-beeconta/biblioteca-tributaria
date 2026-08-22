@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2016
-- Fecha: 2016-02-08
+- Fecha: 2016-02-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso7.pdf
 - Hash SHA-256: 32da0353f249e320380f1f63817c9d06190493ba727154f9ebb9a43674dad1aa
 
 ## Resumen
 
-ficina de Gestión Normativa Resolución Exenta SII N° 08 del 08 de Febrero del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 07 del 05 de Febrero del 2016 Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionari…
+mplimiento Tributario Resolución Exenta SII N° 07 del 05 de Febrero del 2016 Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 39 de 2015. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

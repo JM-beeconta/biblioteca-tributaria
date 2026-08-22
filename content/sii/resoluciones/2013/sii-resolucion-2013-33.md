@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o del 2013 Modifica Resolución Ex. SII N° 67, de 2009, que establece normas para la devolución del impuesto del Título II y del artículo 42 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. N° 825, de 1974, modificando valor mínimo de compras de mercancías que dan derecho a la referida devolución. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Depto. de At…
+ia de Contribuyentes. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Depto. de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

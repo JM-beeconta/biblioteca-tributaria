@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 10 de Enero del 2024 Designa secretarios, titular y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la i. corte de apelaciones de Valparaíso Fuente: Subdirección Jurídica. Resolución Exenta SII N° 06 del 10 de Enero del 2024 Instruye sobre declaración jurada que deben presentar las asociaciones culturales para acceder a la ex…
+Subdirección Jurídica. Resolución Exenta SII N° 06 del 10 de Enero del 2024 Instruye sobre declaración jurada que deben presentar las asociaciones culturales para acceder a la exención de impuesto al valor agregado por servicios culturales Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

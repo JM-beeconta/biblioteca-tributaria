@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2024
-- Fecha: 2024-07-05
+- Fecha: 2024-07-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso72.pdf
 - Hash SHA-256: 800052d135310419edc2c4a500bb2ce7b78c9ceddf494027f1aedbd987289828
 
 ## Resumen
 
-cute;n Exenta SII N° 73 del 05 de Julio del 2024 Ampliación De Plazo De Pago De Cuotas Del Impuesto Territorial, Facilidades De Pago Mediante Convenios Especiales Y Condonación De Intereses Conforme Al Decreto Supremo N° 287 De 2024, Del Ministerio De Hacienda, Que Establece Medidas De Índole Tributaria Para La Región De Coquimbo, Afectada Por La Sequía Y Declarada Como Zona Afectada Por Catástrofe. Fuente: Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldqu…
+Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Castro. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

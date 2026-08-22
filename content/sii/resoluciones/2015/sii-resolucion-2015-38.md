@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2015
-- Fecha: 2015-04-27
+- Fecha: 2015-04-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso38.pdf
 - Hash SHA-256: 7b13975dd5c6433b90b3e761157f5afe44a595a43bbc7fdddaae2223af1c8b71
 
 ## Resumen
 
-Resolución Exenta SII N° 39 del 27 de Abril del 2015 Individualiza sujetos pasivos, conforme lo dispuesto en el Art. 3° inciso 2° de la ley 20.730 que "Regula el lobby y las Gestiones que representan Intereses Particulares ante las autoridades y funcionarios Fuente: Dirección Nacional Reorganiza las Unidades que conforman el Departamento de Delitos Tributarios del Departamento Subdirección Jurídica y establece ámbitos de competencia. Fuente: Oficina de Apoyo Jurídico a la Gestión Administrativa Resolución Exenta S…
+cción Nacional Reorganiza las Unidades que conforman el Departamento de Delitos Tributarios del Departamento Subdirección Jurídica y establece ámbitos de competencia. Fuente: Oficina de Apoyo Jurídico a la Gestión Administrativa
 
 ## Referencias detectadas
 

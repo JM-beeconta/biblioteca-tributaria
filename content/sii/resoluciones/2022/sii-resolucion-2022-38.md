@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o del 2022 Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 46, de 2021. Fuente: Subdirección de Asuntos Corporativos. Designa secretarios suplentes, en tribunales especiales de alzada…
+cción de Asuntos Corporativos. Designa secretarios suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Talca. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

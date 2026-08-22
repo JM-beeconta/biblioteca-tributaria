@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ctualiza requisitos que deben cumplirse para dar aviso de pérdida o inutilización de libros de contabilidad o documentos que sirvan para acreditar anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, de acuerdo con lo establecido en el artículo 97 N° 16 del código tributario. Deroga Resolución EX. N° 109, de 04.02.1976; y deroga en lo pertinente la Resolución Exenta N° 2301, de 1986. Fuente: Subdirección de Asistencia al Contribuyente. Fija monto mínimo para la emisión d…
+ute;n de Asistencia al Contribuyente. Fija monto mínimo para la emisión de boletas de ventas y servicios. Deroga resolución Ex. SII N° 3943 de fecha 03.11.1992. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

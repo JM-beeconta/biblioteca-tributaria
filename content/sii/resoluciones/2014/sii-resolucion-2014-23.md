@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 23
 - Año: 2014
-- Fecha: 2014-02-24
+- Fecha: 2014-02-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso23.pdf
 - Hash SHA-256: d4a7ce27b36e31cdf1f91ab86bfd28d622102752454d42692a5a2f2b554012bf
 
 ## Resumen
 
-mento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 24 del 24 de Febrero del 2014 Instala la XIX Dirección Regional Metropolitana Santiago Norte, fijando su sede y territorio jurisdiccional. Fuente: Departamento de Asesoría Jurídica Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa Resolución Exenta SII N° 22 del 14 de Febrero del 2014 Registra como emisores de documentos tributar…
+te;a Jurídica Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Asistencia al Contribuyente Resolución Exenta SII N° 114 del 27 de Noviembre del 2017 Establece procedimiento para que las municipalidades informen al servicio de impuestos internos respecto de las recepciones definitivas de construcciones y, o regularizaciones que otorguen. Fuente: Subdirección de Avaluaciones, Oficina de Proyectos Autoriza al notario Sr. Luis Alberto Maldonado Concha, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resol…
+Oficina de Proyectos Autoriza al notario Sr. Luis Alberto Maldonado Concha, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

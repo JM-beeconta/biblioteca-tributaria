@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te Resolución Exenta SII N° 69 del 11 de Julio del 2016 Establece la forma en que se deberá presentar la consulta vinculante del artículo 26 bis del Código Tributario y los requisitos que ésta debe cumplir. Fuente: Oficina Análisis de Elusión Crea Comité Anti elusión y fija sus atribuciones y funciones. Fuente: Oficina de Análisis de Elusión Resolución Exenta SII N° 67 del 06 de Julio del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las…
+sis de Elusión Crea Comité Anti elusión y fija sus atribuciones y funciones. Fuente: Oficina de Análisis de Elusión
 
 ## Referencias detectadas
 

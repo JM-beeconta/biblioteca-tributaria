@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2019
-- Fecha: 2019-11-15
+- Fecha: 2019-11-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso126.pdf
 - Hash SHA-256: 5a36bc76a3323d453207165c931aab1e386d1188f42b2e2c92511164720e5f9c
 
 ## Resumen
 
-el Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 127 del 15 de Noviembre del 2019 Autoriza como receptor electrónico de documentos tributarios electrónicos al SERVICIO LOCAL DE EDUCACIÓN LAS BARRANCAS. Fuente: Subdirección de Asistencia al Contribuyente Autoriza modalidad de timbraje de documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 125 del 12 de Noviembre del 2019 Delega facultad que indi…
+ute;n de Asistencia al Contribuyente Autoriza modalidad de timbraje de documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

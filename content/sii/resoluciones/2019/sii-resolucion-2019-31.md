@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 32 del 25 de Febrero del 2019 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago. Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile. Fuente: Subdirección de Fiscalización Resolución Exenta SII N…
+cción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

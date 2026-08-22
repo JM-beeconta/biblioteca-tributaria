@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2020
-- Fecha: 2020-06-17
+- Fecha: 2020-06-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso60.pdf
 - Hash SHA-256: 3f7b359d186eeacf3cb96bbbeddbeafcb22bdd653c3eeee2cedbd2e029999cf5
 
 ## Resumen
 
-dica. Fuente: Dirección De Grandes Contribuyentes. Resolución Exenta SII N° 61 del 17 de Junio del 2020 Modifica Resolución EX. Sii Nº 49 de 2020 que crea modelo de certificado Nº 66 sobre donaciones asociadas al brote mundial del virus denominado Coronavirus-2 o COVID-19. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 59 del 01 de Ju…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

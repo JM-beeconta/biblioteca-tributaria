@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2018
-- Fecha: 2018-07-09
+- Fecha: 2018-07-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso55.pdf
 - Hash SHA-256: f70e428dfc5c05f5157e9589ba596337d450723b19bc05a17e85d13b9e8ed2b7
 
 ## Resumen
 
-e Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 56 del 09 de Julio del 2018 Comunica nueva codificación de las actividades económicas Fuente: Subdirección de Asistencia al Contribuyente Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017. Fuente: Subdireccion de Fiscalizacion Resolución Exenta SII N° 54 del 29 de Junio del 2018 Fija nóminas de agentes retenedores y de…
+ute;n de Asistencia al Contribuyente Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017. Fuente: Subdireccion de Fiscalizacion
 
 ## Referencias detectadas
 

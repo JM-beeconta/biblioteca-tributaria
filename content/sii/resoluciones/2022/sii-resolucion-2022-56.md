@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2022
-- Fecha: 2022-06-28
+- Fecha: 2022-06-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso56.pdf
 - Hash SHA-256: 09e78dd4d447561231ab7f2524365eba5d70490b2f5d2f477e9139007ce077e4
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 57 del 28 de Junio del 2022 FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA. Fuente: Subdirección de Fiscalización. Designa Secretario Titular Y Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrís…
+cción de Fiscalización. Designa Secretario Titular Y Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

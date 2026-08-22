@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tps://www.sii.cl/normativa_legislacion/resoluciones/2013/reso61.pdf' target='_blank'>Resolución Exenta SII N° 61 del 17 de Junio del 2013 Complementa Resolución N° 11 de 11.02.2003, fijando procedimiento de entrega de boletas electrónicas, en servicios de recarga telefónica móvil a través de Internet, en los casos que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departame…
+cia de Contribuyentes Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 129 del 29 de Diciembre del 2022 Fija Valores De Terrenos Y Construcciones Para El Reavalúo 2023, De Los Bienes Raíces No Agrícolas Correspondientes A Sitios No Edificados, Propiedades Abandonadas O Pozos Lastreros, Ubicados En Las Áreas Urbanas. Fuente: Subdirección de Avaluaciones. Establece forma de declaración y pago de los impuestos establecidos en el decreto Ley Nº 3475 de 1980 sobre impuesto de timbres y estampillas. Deja sin efecto resolución exenta Nº 2824 de 1994. Fuente: Subdire…
+Subdirección de Avaluaciones. Establece forma de declaración y pago de los impuestos establecidos en el decreto Ley Nº 3475 de 1980 sobre impuesto de timbres y estampillas. Deja sin efecto resolución exenta Nº 2824 de 1994. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

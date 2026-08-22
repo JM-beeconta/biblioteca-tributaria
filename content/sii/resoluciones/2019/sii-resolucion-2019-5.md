@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 5
 - Año: 2019
-- Fecha: 2019-01-22
+- Fecha: 2019-01-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso5.pdf
 - Hash SHA-256: e097cca86d8fc98f9a7c339aa06cab9ec4eb040adedaba35fd10bf3c486bdd3d
 
 ## Resumen
 
-dirección de Fiscalización Resolución Exenta SII N° 06 del 22 de Enero del 2019 Resuelve solicitud de Tabacalera S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 05 del 21 de Enero del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. F…
+cción de Fiscalización Resolución Exenta SII N° 05 del 21 de Enero del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

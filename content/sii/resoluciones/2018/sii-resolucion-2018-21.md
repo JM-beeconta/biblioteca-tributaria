@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2018
-- Fecha: 2018-03-05
+- Fecha: 2018-03-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso21.pdf
 - Hash SHA-256: 355a421e87288c6036bf1a54002835ed813a8f7ea702582f5dd13a71be0f2532
 
 ## Resumen
 
-de Marzo del 2018 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 22 del 05 de Marzo del 2018 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Deja sin efecto resoluciones exentas que establecían la obligación de presentar las Declaraciones Juradas N°s 1884, 1885 y 1886; y sus respectivos certificados. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 20 del 28 de Febrero del 2018 Fi…
+Subdirección Jurídica Deja sin efecto resoluciones exentas que establecían la obligación de presentar las Declaraciones Juradas N°s 1884, 1885 y 1886; y sus respectivos certificados. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

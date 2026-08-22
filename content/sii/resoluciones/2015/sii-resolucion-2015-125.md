@@ -11,7 +11,7 @@
 
 ## Resumen
 
-viso y presentar antecedentes que se indican para los contribuyentes acogidos al régimen de renta presunta que a partir del 1° de enero de 2016, deban abandonar obligatoria o voluntariamente dicho régimen y declarar la renta efectiva de su actividad según contabilidad completa de acuerdo al articulo 14, o bien, conforme al régimen de la letra a) del artículo 14 ter, de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Aprueba Convenio de Colaboración entre el Com…
+mplimiento Tributario Aprueba Convenio de Colaboración entre el Comité de Seguros del Agro y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios
 
 ## Referencias detectadas
 

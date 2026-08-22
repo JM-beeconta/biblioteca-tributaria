@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2020
-- Fecha: 2020-06-26
+- Fecha: 2020-06-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso66.pdf
 - Hash SHA-256: 133dfe1a828549538b0fc947e77cde60cd55041dfab3bc6e4179b9105ca77cdb
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 67 del 26 de Junio del 2020 Establece procedimiento sobre declaración y pago del impuesto al valor agregado para contribuyentes no domiciliados ni residentes en Chile, conforme al nuevo párrafo 7° bis de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjer…
+cción de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

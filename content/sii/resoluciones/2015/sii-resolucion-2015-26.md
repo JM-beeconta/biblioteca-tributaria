@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2015
-- Fecha: 2015-03-17
+- Fecha: 2015-03-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso26.pdf
 - Hash SHA-256: 14fa01ebecd6193471e7c1e7ca906547d2dd5b6c4ea45bdbd4d41cab8284f9c9
 
 ## Resumen
 
-cción de Fiscalización Resolución Exenta SII N° 27 del 17 de Marzo del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 25 del 13 de Marzo del 2015 Reemplaza formato e instrucciones de Decla…
+mplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

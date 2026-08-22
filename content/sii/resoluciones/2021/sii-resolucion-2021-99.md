@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2021
-- Fecha: 2021-08-31
+- Fecha: 2021-08-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso99.pdf
 - Hash SHA-256: 40d9aae6966781ec97827f7492bc58ed3e666da8a4917b64e5fdc51ce83ba5bc
 
 ## Resumen
 
-rección de Fiscalización. Resolución Exenta SII N° 100 del 31 de Agosto del 2021 Modifica resolución ex. Sii n° 114 de 2012, que establece la obligación de presentar declaraciones juradas por los contribuyentes que indica, respecto de contratos de derivados definidos en el artículo 2° de la ley n° 20.544. Fuente: Subdirección de Fiscalización. Modifica resolución exenta sii n° 08, de fecha 10.01.2007, en los términos que indica y deja sin efecto resolución exenta sii nº 25, de fecha 24.03.2016. Fuente: Subdirecció…
+cción de Fiscalización. Modifica resolución exenta sii n° 08, de fecha 10.01.2007, en los términos que indica y deja sin efecto resolución exenta sii nº 25, de fecha 24.03.2016. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

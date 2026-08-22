@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2014
-- Fecha: 2014-10-16
+- Fecha: 2014-10-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso95.pdf
 - Hash SHA-256: 9622d5d68936204da4065140c86f083c52c0ad658844c3f8e972766eeaef5921
 
 ## Resumen
 
-cción de Fiscalización Resolución Exenta SII N° 96 del 16 de Octubre del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamanto de Atención y Asistencia de Contribuyentes Modifica Resoluciones Ex. SII N° 7590, de 1999 y 75, de 2013. Crea la "Oficina de Apoyo Jurídico a la Gestión Administrativa", incorporándola bajo la dependencia del Departamento de Asesoría Jurídica. Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 94 del 2…
+cia de Contribuyentes Modifica Resoluciones Ex. SII N° 7590, de 1999 y 75, de 2013. Crea la "Oficina de Apoyo Jurídico a la Gestión Administrativa", incorporándola bajo la dependencia del Departamento de Asesoría Jurídica. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

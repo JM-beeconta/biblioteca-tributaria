@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;nica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 57 del 09 de Julio del 2018 Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente Comunica nueva codificación de las actividades económicas Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 55 del 05 de Julio del 2018 Actualiza listado de países contenido en la Resolución Exe…
+ute;n de Asistencia al Contribuyente Comunica nueva codificación de las actividades económicas Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2023
-- Fecha: 2023-06-28
+- Fecha: 2023-06-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso73.pdf
 - Hash SHA-256: ffae5278d70b18173d5eb098eae4e630aa3184f0ae2839de655027990d09c824
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 74 del 28 de Junio del 2023 Reorganiza y fija el ámbito de competencias de las unidades que conforman la dirección de Grandes Contribuyentes. Deja sin efecto resoluciones exentas SII N° 95 de 2010 y sus modificaciones. Fuente: Dirección de Grandes Contribuyentes. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Nacimiento Fuente:…
+ión de Grandes Contribuyentes. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Nacimiento Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

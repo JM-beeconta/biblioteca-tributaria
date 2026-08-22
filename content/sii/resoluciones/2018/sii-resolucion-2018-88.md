@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2018
-- Fecha: 2018-10-02
+- Fecha: 2018-09-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso88.pdf
 - Hash SHA-256: aa04f21ba477a2aa296ef0932e38f792d912254b408af5a67783d5c63971427b
 
 ## Resumen
 
-ectrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 89 del 02 de Octubre del 2018 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Complementa la obligación de presentar Declaración Jurada Anual sobre operaciones en Chile por medio de Formulario N° 1946; y modifica la Resolución Ex. SII N° 107 de 2017. Fuente: Subdirección de Fiscalización Res…
+ute;n de Asistencia al Contribuyente Complementa la obligación de presentar Declaración Jurada Anual sobre operaciones en Chile por medio de Formulario N° 1946; y modifica la Resolución Ex. SII N° 107 de 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

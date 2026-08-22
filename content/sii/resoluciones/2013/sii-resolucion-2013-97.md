@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nción y Asistencia de Contribuyentes Resolución Exenta SII N° 98 del 27 de Noviembre del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y Micro y Pequeñas Empresas Aprueba Convenio de Colaboración entre la Subsecretaría de Economía y Empresas de menos Tamaño y el Servicio de Impuestos Internos Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 96 del 20 de Noviembre del 2013 Modifica resolución Ex. N°105…
+ueñas Empresas Aprueba Convenio de Colaboración entre la Subsecretaría de Economía y Empresas de menos Tamaño y el Servicio de Impuestos Internos Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

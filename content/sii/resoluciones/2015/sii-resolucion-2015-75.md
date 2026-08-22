@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 76 del 16 de Septiembre del 2015 Modifica Resolución Ex. N° 08, de 28 de enero de 2003.- Fuente: Subdirección Contraloria Interna Modifica Resolución Ex. SII N°59, de 10 de julio de 2015, que crea la Unidad de Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 74 del 14 de Septiembre del 2015 A…
+n Contraloria Interna Modifica Resolución Ex. SII N°59, de 10 de julio de 2015, que crea la Unidad de Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2020
-- Fecha: 2020-08-24
+- Fecha: 2020-08-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso92.pdf
 - Hash SHA-256: 957180a778066b306d91d4a330c847cde011018cbba2844bd1fb314af678a049
 
 ## Resumen
 
-cro no inscritas en los términos que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 93 del 24 de Agosto del 2020 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el beneficio para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada Covid-19, del art…
+ute;n de Asistencia al Contribuyente. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el beneficio para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada Covid-19, del artículo 5° del artículo primero de la Ley N° 21.252. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

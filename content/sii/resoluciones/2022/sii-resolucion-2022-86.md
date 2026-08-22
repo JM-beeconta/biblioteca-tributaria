@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2022
-- Fecha: 2022-09-14
+- Fecha: 2022-09-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso86.pdf
 - Hash SHA-256: c247aa1adabe656d32663e85f9512b25333bb5b9bff827ba80bac6ea29f8688d
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 87 del 14 de Septiembre del 2022 Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, los pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero establecido en la Ley N° 21.323. Fuente: Subdirección de Fiscalización. Modifica resolución exenta SII Nº 20 de 2021 que refunde y reestructura el departamento subdirección de asistencia al contribuyente. Fuente: Subd…
+cción de Fiscalización. Modifica resolución exenta SII Nº 20 de 2021 que refunde y reestructura el departamento subdirección de asistencia al contribuyente. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

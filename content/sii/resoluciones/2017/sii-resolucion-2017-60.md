@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Estratégica y Estudios Tributarios Resolución Exenta SII N° 61 del 12 de Julio del 2017 Crea registro de compras y ventas; exime a contribuyentes que se indican de la obligación de llevar libro de compras y ventas, o solamente de compras; y deroga resoluciones que se indican. Fuente: Subdirección de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 59 del 10 de Juli…
+Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2020
-- Fecha: 2020-05-26
+- Fecha: 2020-05-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso55.pdf
 - Hash SHA-256: e27b9d24bbdc7318f9e752b405fa56a33a66a1f01e31e592576896d9f1a64bc9
 
 ## Resumen
 
-Avaluaciones. Resolución Exenta SII N° 56 del 26 de Mayo del 2020 Instruye sobre cumplimiento de obligaciones tributarias accesorias respecto de hechos gravados beneficiados con la disminución transitoria a 0% de las tasas establecidas en los Artículos 1° numeral 3); 2° y 3° de la Ley sobre impuesto de timbres y estampillas. Fuente: Subdirección de Fiscalización. Regula Inscripción en el Régimen de Tributación Simplificada establecido en el Artículo 35 A del nuevo párrafo 7° Bis de La Ley Sobre Impuesto a las Vent…
+cción de Fiscalización. Regula Inscripción en el Régimen de Tributación Simplificada establecido en el Artículo 35 A del nuevo párrafo 7° Bis de La Ley Sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;mara Chilena del Libro. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 141 del 27 de Diciembre del 2018 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de la Industria del Reciclaje A.G. Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Manufacturas, Servicios y Turismo A.G. Fuente: Subdirección de Fiscalización Resolución Exenta SI…
+cción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Manufacturas, Servicios y Turismo A.G. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

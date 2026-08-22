@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2025
-- Fecha: 2025-01-07
+- Fecha: 2025-01-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso2.pdf
 - Hash SHA-256: 6e598ab1fd271c9da8ca8d8f7c632b809a74772897eb3598df65b80dd51525ad
 
 ## Resumen
 
-io. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 07 de Enero del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Modifica la Resolución N°80, de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 03 de Enero del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuy…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 03 de Enero del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

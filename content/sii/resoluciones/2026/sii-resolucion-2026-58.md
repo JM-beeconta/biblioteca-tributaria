@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a solicitar rebaja del impuesto territorial de inmuebles ocupados, conforme con lo dispuesto en el artículo 73 de la Ley N° 21.806. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 59 del 24 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Instruye sobre requisitos, fija procedimiento para solicitar el subsidio temporal establecido en el artículo 8° de la Ley N°21.751, y habilita plataforma al efecto. Fuente: Subdirección de Fiscalizac…
+Subdirección Jurídica. Instruye sobre requisitos, fija procedimiento para solicitar el subsidio temporal establecido en el artículo 8° de la Ley N°21.751, y habilita plataforma al efecto. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

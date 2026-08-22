@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2021
-- Fecha: 2021-06-29
+- Fecha: 2021-06-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso64.pdf
 - Hash SHA-256: 23ae73274c26d1a09950802f7c893b2af5c556deb5534e5326308c1cdd8e7750
 
 ## Resumen
 
-la primera serie agrícola. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 65 del 29 de Junio del 2021 Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a la Resolución Ex. SII N° 62 de 2021. Fuente: Subdirección de Fiscalización. Establece procedimiento para la emisión masiva de boletas de honorarios electrónica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 63 del 23 de Junio del 2021 Modifica Resolución Exenta SII N° 14…
+cción de Fiscalización. Establece procedimiento para la emisión masiva de boletas de honorarios electrónica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

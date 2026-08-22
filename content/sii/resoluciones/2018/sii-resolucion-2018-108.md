@@ -11,7 +11,7 @@
 
 ## Resumen
 
-certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática Resolución Exenta SII N° 109 del 09 de Noviembre del 2018 Autoriza a instituciones sin fines de lucro, como receptoras y/o distribuidoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N°…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-alor agregado conforme al inciso 7° del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 119 del 07 de Diciembre del 2022 Renueva plazo establecido por resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones. Aprueba Addendum al Convenio entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la ley 20.659 y su reglamen…
+Subdirección de Avaluaciones. Aprueba Addendum al Convenio entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la ley 20.659 y su reglamento. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

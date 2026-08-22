@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 200 del 23 de Diciembre del 2025 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42 de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Licantén. Fuente: Subdirección de…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Licantén. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

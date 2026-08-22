@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 68 del 21 de Junio del 2013 Imparte instrucciones sobre procedimiento de suscripción de acuerdos anticipados de precios de transferencia, de acuerdo al N°7 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Fiscalización Internacional. Establece procedimiento de presentación y tramitación de las solicitudes de rectificación conforme al N°8 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento Fiscalización Internacional. Resolución Exenta SII N° 66…
+cute;n Internacional. Establece procedimiento de presentación y tramitación de las solicitudes de rectificación conforme al N°8 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento Fiscalización Internacional.
 
 ## Referencias detectadas
 

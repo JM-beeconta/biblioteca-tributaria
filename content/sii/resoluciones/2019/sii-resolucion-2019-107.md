@@ -11,7 +11,7 @@
 
 ## Resumen
 
-es sin fines de lucro. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 108 del 30 de Septiembre del 2019 Modifica Resolución Ex. SII N° 126 de 27.12.2016, que establece la obligación de presentar Declaración Jurada N°1907 y N°1937. Fuente: Subdirección de Fiscalización Modifica Resolución Ex. SII N°80 del 31.08.2017 que establece Declaración Jurada Anual N° 1941, sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la let…
+cción de Fiscalización Modifica Resolución Ex. SII N°80 del 31.08.2017 que establece Declaración Jurada Anual N° 1941, sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra b) del artículo 14 de la Ley sobre Impuesto a la Renta, y sobre saldo de retiros en exceso pendientes de imputación Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-21.713. Deja sin efecto resolución exenta SII N° 125 de 2022. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 15 de Enero del 2025 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 15 de Enero del 2025 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 0…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 15 de Enero del 2025 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

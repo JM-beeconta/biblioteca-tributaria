@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2026
-- Fecha: 2026-07-20
+- Fecha: 2026-07-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso94.pdf
 - Hash SHA-256: 1a629acd8e9cb9df01ec68f3452a56d21b707d7911453d4e5f24e410c8a01b66
 
 ## Resumen
 
-argin-bottom:0px;'>Complementa y rectifica listado anexo de la Resolución Ex. N° 6 de 2026. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 95 del 20 de Julio del 2026 Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 93 de…
+cción de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ualiza. Fuente: Departamento Defensa Judicial Civil. Resolución Exenta SII N° 36 del 23 de Marzo del 2017 Complementa Resolución Exenta SII N° 128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Complementa resolución Exenta SII N° 101 de 08.08.2011 modificada por la Resolución 133, del 23.11.2011 en los términos que indica. Fuente: Departamento de Operaciones Resolución Exenta SII N° 34 del 22 de Marzo del 2017 Fija nuevo plazo para presentar la Declaración Jura…
+randes Contribuyentes Complementa resolución Exenta SII N° 101 de 08.08.2011 modificada por la Resolución 133, del 23.11.2011 en los términos que indica. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

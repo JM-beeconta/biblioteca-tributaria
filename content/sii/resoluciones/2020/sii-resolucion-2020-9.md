@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2020
-- Fecha: 2020-01-22
+- Fecha: 2020-01-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso9.pdf
 - Hash SHA-256: 7d243f708e4a708e64280b68971bbdfd894b9ee49f2ed43f996e92058c705349
 
 ## Resumen
 
-diente al año tributario 2020. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 10 del 22 de Enero del 2020 Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre postergación y pago en cuotas del impuesto a las ventas y servicios. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 09 del 20 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 08…
+ección De Fiscalización Resolución Exenta SII N° 09 del 20 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

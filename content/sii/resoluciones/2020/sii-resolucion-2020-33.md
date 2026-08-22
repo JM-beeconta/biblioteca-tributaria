@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2020
-- Fecha: 2020-03-25
+- Fecha: 2020-03-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso33.pdf
 - Hash SHA-256: 201d6ed46085bc1c30a6144ecca1ef450fbb5b8f753d2f4ef17ed2a702571fdc
 
 ## Resumen
 
-Fiscalización. Resolución Exenta SII N° 34 del 25 de Marzo del 2020 Resuelve solicitud de Importadora de Tabacos Austral Ltda., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Autoriza modalidad de timbraje de guías de despacho en formato papel en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución E…
+ección de Fiscalización Autoriza modalidad de timbraje de guías de despacho en formato papel en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

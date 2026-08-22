@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2013
-- Fecha: 2013-10-02
+- Fecha: 2013-09-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso85.pdf
 - Hash SHA-256: eb507476b8fcb96a48ae46d0474f65b5dea17f71e9606a6b9c6d2e53670aa742
 
 ## Resumen
 
-cute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 86 del 02 de Octubre del 2013 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 84 del 23 de Septiembre del 2013 Autoriza a instituciones si…
+cia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

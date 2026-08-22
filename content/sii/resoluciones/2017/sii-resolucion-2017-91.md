@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 92 del 06 de Octubre del 2017 Autoriza solicitud de exclusión de Nómina de Grandes Contribuyentes a Consultora en Zona Franca S.A., RUT N° 96.634.110-6. Fuente: Dirección de Grandes Contribuyentes Elimina obligación de generar, enviar y mantener la información electrónica de compras según Resolución EX. SII N° 63, del 2004. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 90 d…
+randes Contribuyentes Elimina obligación de generar, enviar y mantener la información electrónica de compras según Resolución EX. SII N° 63, del 2004. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

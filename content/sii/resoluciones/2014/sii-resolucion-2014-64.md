@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2014
-- Fecha: 2014-07-18
+- Fecha: 2014-07-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso64.pdf
 - Hash SHA-256: 44f89be75df728bf6f424e11d0a2e033d2b471785ec700b7b8e3d621cca5324c
 
 ## Resumen
 
-ción y Asistencia de Contribuyentes. Resolución Exenta SII N° 65 del 18 de Julio del 2014 Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 63 del 26 de Junio del 2014 Autoriza como emisor de boletas electrónicas a contribuyente…
+ueñas Empresas Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

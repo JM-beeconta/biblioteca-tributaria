@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 81 del 09 de Julio del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre el Centro de Información de Recursos Naturales y el Servicio de Impuestos Internos. Fuente: Subdirección de…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre el Centro de Información de Recursos Naturales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

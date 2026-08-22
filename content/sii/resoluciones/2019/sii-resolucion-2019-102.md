@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2019
-- Fecha: 2019-09-13
+- Fecha: 2019-09-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso102.pdf
 - Hash SHA-256: c326b1b2423ebb6d2f4c9d75ab28ffc93feb5be06f0dee6e244e643f7c869371
 
 ## Resumen
 
-e;a interna del sector público. Fuente: Subdirección Contraloría Interna Resolución Exenta SII N° 103 del 13 de Septiembre del 2019 Complementa Nómina de Grandes Contribuyentes establecida en la Resolución Ex. SII N° 147, de fecha 27 de diciembre de 2018. Fuente: Dirección de Grandes Contribuyentes Cambia la denominación de la Oficina de Servicios dependiente del departamento Subdirección de Administración y reorganiza las unidades que la conforman. Fuente: Subdirección de Administración Resolución Exenta SII N° 1…
+ión de Grandes Contribuyentes Cambia la denominación de la Oficina de Servicios dependiente del departamento Subdirección de Administración y reorganiza las unidades que la conforman. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

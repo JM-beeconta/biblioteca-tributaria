@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n. Resolución Exenta SII N° 37 del 31 de Marzo del 2021 Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en el N°3 de la Letra D) del Artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar las declaraciones juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex. SII N° 97 y N…
+cción de Fiscalización. Amplía el plazo para presentar las declaraciones juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex. SII N° 97 y N° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

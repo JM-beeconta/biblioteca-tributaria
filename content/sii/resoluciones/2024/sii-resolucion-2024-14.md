@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección Jurídica. Resolución Exenta SII N° 15 del 24 de Enero del 2024 Registro de instituciones sin fines de lucro distribuidoras y/o receptoras de productos cuya comercialización se ha vuelto inviable y establece procedimiento de inscripción. Deja sin efecto resolución Ex. SII N° 151 de 2018. Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución Ex. SII N°20, de 2016, en lo referido a la oficina de administración de riesgos institucionales, del departamento Subdirección de Contral…
+ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII N°20, de 2016, en lo referido a la oficina de administración de riesgos institucionales, del departamento Subdirección de Contraloría Interna que pasa a denominarse oficina de gestión de continuidad, riesgos institucionales y seguridad de la información, e incorpora nuevas funciones Fuente: Subdirección de Contraloría Interna.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 77
 - Año: 2024
-- Fecha: 2024-08-05
+- Fecha: 2024-08-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso77.pdf
 - Hash SHA-256: 03b77068b539868983c74c1c435da2dcf76ac92f9261f7022673877afd6b43cc
 
 ## Resumen
 
-s exentas N° 1055 de 2010 y N° 96 DE 2013. Fuente: Subdirección de Administración. Resolución Exenta SII N° 78 del 05 de Agosto del 2024 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a Banco de Chile a eximirse de la obligación de la emisión de liquidación a que hace referencia el resolutivo 3° de la Res. Ex. N° 328, de 1977, cumpliendo requisitos que se indican. Fuente: Subdirección de A…
+ute;n de Asistencia al Contribuyente. Autoriza a Banco de Chile a eximirse de la obligación de la emisión de liquidación a que hace referencia el resolutivo 3° de la Res. Ex. N° 328, de 1977, cumpliendo requisitos que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

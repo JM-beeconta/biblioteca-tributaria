@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Fiscalización. Resolución Exenta SII N° 77 del 31 de Agosto del 2022 Crea modelo de Certificado N° 73 sobre donaciones acogidas al título VIII bis del Decreto Ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido y sistematizado fue fijado por el Decreto N° 2.385, de 1996, del Ministerio del Interior. Fuente: Subdirección de Fiscalización. Instruye sobre la retención de impuestos de 15% por rescates de la cuenta de inversión y otras cantidades pagadas en virtud de un contrato de seguro de…
+cción de Fiscalización. Instruye sobre la retención de impuestos de 15% por rescates de la cuenta de inversión y otras cantidades pagadas en virtud de un contrato de seguro de vida con ahorro con cuenta única de inversión. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

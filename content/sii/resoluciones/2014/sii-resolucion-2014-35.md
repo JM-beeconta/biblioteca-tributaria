@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2014
-- Fecha: 2014-04-15
+- Fecha: 2014-04-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso35.pdf
 - Hash SHA-256: bad90b2b2608f6ec062ad870203aa924bf4c2aa9589fecf5fdd5aecfbd009534
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 36 del 15 de Abril del 2014 Modifican Resolución Exenta SII N°95 de 08 de junio de 2010. Fuente: Dirección de grandes Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 34 del 09 de Abril del 2014 Delega en los Jefes de Departamentos de Avaluaciones la facultad que indica Fuente: Subdirección de Avaluac…
+randes Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

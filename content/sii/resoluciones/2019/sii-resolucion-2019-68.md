@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2019
-- Fecha: 2019-06-03
+- Fecha: 2019-05-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso68.pdf
 - Hash SHA-256: 71602e929b74ff0fcabb87cffe7d905d56e448e2ca5a231d976e84d915c4401b
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 69 del 03 de Junio del 2019 Autoriza a la SOCIEDAD SUPER 10 S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente…
+ute;n de Asistencia al Contribuyente Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

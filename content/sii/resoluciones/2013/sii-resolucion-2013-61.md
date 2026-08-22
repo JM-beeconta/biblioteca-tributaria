@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 62 del 17 de Junio del 2013 Modifica la resolución N° 179, de 1991, en lo relacionado con el Departamento Subdirección de Informática. Fuente: Subdirección de Informática Complementa Resolución N° 11 de 11.02.2003, fijando procedimiento de entrega de boletas electrónicas, en servicios de recarga telefónica móvil a través de Internet, en los casos que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 6…
+de Informática Complementa Resolución N° 11 de 11.02.2003, fijando procedimiento de entrega de boletas electrónicas, en servicios de recarga telefónica móvil a través de Internet, en los casos que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

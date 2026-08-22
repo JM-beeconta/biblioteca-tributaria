@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2023
-- Fecha: 2023-03-15
+- Fecha: 2023-03-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso27.pdf
 - Hash SHA-256: 5ae68f230fbfe0e21609cd194cdc3c07f7f037b78cbac8be2d47a5fde87f5f20
 
 ## Resumen
 
-del artículo 8° de la Ley N° 17.235 Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 28 del 15 de Marzo del 2023 Encarga funciones de secretaría general a funcionaria que indica, designa subrogante y deja sin efecto la resolución que señala. Fuente: Subdirección de Asuntos Corporativos. Designa responsables de procesos, delega facultades y deja sin efecto resoluciones que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 26 del 14 de Marzo del 2023 E…
+cción de Asuntos Corporativos. Designa responsables de procesos, delega facultades y deja sin efecto resoluciones que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

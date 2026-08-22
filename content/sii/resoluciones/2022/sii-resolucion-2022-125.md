@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 125
 - Año: 2022
-- Fecha: 2022-12-28
+- Fecha: 2022-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso125.pdf
 - Hash SHA-256: a5727ad6c3b26a7aa09fd8604586432bf5fa53ba39a562ac8d166b46b51d959a
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 126 del 28 de Diciembre del 2022 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Instruye giro y pago del impuesto establecido en el artículo 9 de la Ley 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 124 del 26 de Diciembre…
+cción de Fiscalización. Instruye giro y pago del impuesto establecido en el artículo 9 de la Ley 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 96
 - Año: 2014
-- Fecha: 2014-10-21
+- Fecha: 2014-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso96.pdf
 - Hash SHA-256: 026424d4e4824d73c9bf4db3f662a96734ac009f41279b284dde6ca9df60c6b3
 
 ## Resumen
 
-de Asistencia al Contribuyente Resolución Exenta SII N° 97 del 21 de Octubre del 2014 Establece funciones del Departamento Subdirección de Fiscalización y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Fiscalización Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamanto de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 95 del 06 de Octubre del 2014 Modifica Resoluciones Ex. SII N° 7590, de 1999 y 7…
+Fiscalización Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamanto de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

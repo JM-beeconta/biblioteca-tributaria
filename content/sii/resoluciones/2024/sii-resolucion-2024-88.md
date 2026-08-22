@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2024
-- Fecha: 2024-09-05
+- Fecha: 2024-09-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso88.pdf
 - Hash SHA-256: 49ccf8e685bfd6c69c7c3d065e3e70eae190210fab4fe37d259bd7f30223a2d4
 
 ## Resumen
 
-s. Fuente: Dirección Nacional Resolución Exenta SII N° 89 del 05 de Septiembre del 2024 Designa secretaria titular y suplente en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de La Serena Fuente: Subdirección Jurídica. INCORPÓRASE A PENTA FINANCIERO S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 87 d…
+Subdirección Jurídica. INCORPÓRASE A PENTA FINANCIERO S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

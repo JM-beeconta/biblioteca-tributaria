@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y n° 27 de 2007. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 40 del 27 de Marzo del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión para el Mercado Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Actualiza nómina de bienes afectos contenida en la Resolución Ex. N° 127 de 2024, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 38 del 27…
+ute;n de Asistencia al Contribuyente. Actualiza nómina de bienes afectos contenida en la Resolución Ex. N° 127 de 2024, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

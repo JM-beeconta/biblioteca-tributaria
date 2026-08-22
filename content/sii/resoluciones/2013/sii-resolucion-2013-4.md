@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 05 del 09 de Enero del 2013 Fija Tablas de valores de Trolebuses, Microbuses, Camiones, Taxis, Taxis Colectivos, Taxibuses, Automóviles, Station Wagons, Furgones, Camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 04 del 09 de Enero del 2013 Fija lista de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 03 del 09 de Enero del 2013 Asigna funciones de S…
+te;n de Avaluaciones. Resolución Exenta SII N° 04 del 09 de Enero del 2013 Fija lista de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

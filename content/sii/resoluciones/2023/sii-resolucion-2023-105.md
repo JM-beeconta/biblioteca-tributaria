@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rídica. Resolución Exenta SII N° 106 del 06 de Septiembre del 2023 Aprueba Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica. Aprueba código de ética del servicio de impuestos internos. Fuente: Subdirección de Contraloría Interna. Resolución Exenta SII N° 104 del 06 de Septiembre del 20…
+Subdirección Jurídica. Aprueba código de ética del servicio de impuestos internos. Fuente: Subdirección de Contraloría Interna.
 
 ## Referencias detectadas
 

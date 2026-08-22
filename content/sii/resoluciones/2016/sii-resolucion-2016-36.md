@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Desarrollo de Personas Resolución Exenta SII N° 37 del 15 de Abril del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección de Avaluaciones y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección de Avaluaciones Reorganiza las Unidades que conforman el Departamento Subdirección de Informática y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección Informática Resolución Exenta SII N° 35 del 15 de Abril del 2016 Reorganiza las Unid…
+ute;n de Avaluaciones Reorganiza las Unidades que conforman el Departamento Subdirección de Informática y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección Informática
 
 ## Referencias detectadas
 

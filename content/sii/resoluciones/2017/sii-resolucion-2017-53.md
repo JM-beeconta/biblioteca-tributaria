@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2017
-- Fecha: 2017-06-09
+- Fecha: 2017-05-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso53.pdf
 - Hash SHA-256: b76f68db3f01ad63428022c957baa9fa824fca7f220bb89292321d2ac1419a01
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 54 del 09 de Junio del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 52 del 19 de Mayo del 2017…
+mplimiento Tributario Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

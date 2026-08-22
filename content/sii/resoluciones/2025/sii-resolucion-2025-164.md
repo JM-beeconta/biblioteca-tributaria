@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 164
 - Año: 2025
-- Fecha: 2025-11-26
+- Fecha: 2025-11-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso164.pdf
 - Hash SHA-256: 7fe4694886cd255d841873a550ca5ffb679f8951bd8d69c3af1dc50c24527c83
 
 ## Resumen
 
-embre del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 165 del 26 de Noviembre del 2025 Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 163 del 19 de Noviembre del 2025 Modifica resolución Ex…
+Subdirección Jurídica. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

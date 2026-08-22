@@ -11,7 +11,7 @@
 
 ## Resumen
 
-' target='_blank'>Resolución Exenta SII N° 105 del 19 de Octubre del 2018 Suspende calidad de agente retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA; y Resolución Ex. SII N° 54 de 29 de junio de 2018, que fijó nómina de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercializac…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

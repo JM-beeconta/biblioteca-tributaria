@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 113
 - Año: 2022
-- Fecha: 2022-11-28
+- Fecha: 2022-11-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso113.pdf
 - Hash SHA-256: e36c23ec533d5f351a4a6cda69e5fe0b325cddcb7804d06231f8bdbad822fc68
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 114 del 28 de Noviembre del 2022 Establece forma de presentar solicitud de acuerdo anticipado de precios de transferencia, artículo 41 E N°7 de la Ley sobre impuesto a la renta y modifica resolución SII Ex. N° 68 de 2013. Fuente: Subdirección de Fiscalización. Establece formato, contenido y medio de envío del reporte de saldos y sumas de abonos de cuentas financieras, según artículo 85 bis del Código Tributario. Fu…
+cción de Fiscalización. Establece formato, contenido y medio de envío del reporte de saldos y sumas de abonos de cuentas financieras, según artículo 85 bis del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

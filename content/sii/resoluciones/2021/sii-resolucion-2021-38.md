@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2021
-- Fecha: 2021-04-14
+- Fecha: 2021-04-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso38.pdf
 - Hash SHA-256: 99ec75ef6845b283f261e5324dc02396f117f2cd116a050f4306876ced60d586
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 39 del 14 de Abril del 2021 Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el bono clase media establecido en los incisos primero y segundo del artículo cuarto de la Ley N° 21.323. Fuente: Subdirección de Fiscalización. Establece forma en que los contribuyentes podrán acogerse y la forma de acreditar los ajustes respectivos, conforme al artículo trigésimo segundo transi…
+cción de Fiscalización. Establece forma en que los contribuyentes podrán acogerse y la forma de acreditar los ajustes respectivos, conforme al artículo trigésimo segundo transitorio de la Ley N° 21.210, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuestos cuyo origen corresponda a diferencias en la determinación del capital propio tributario informado al Servicio de Impuestos Internos. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

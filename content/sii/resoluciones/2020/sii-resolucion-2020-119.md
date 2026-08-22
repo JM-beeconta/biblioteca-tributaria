@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 119
 - Año: 2020
-- Fecha: 2020-09-29
+- Fecha: 2020-09-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso119.pdf
 - Hash SHA-256: 1c8e1e5dfe739821f12a3b931b18f4ecd08d09085d638a0b77df2f062e2289be
 
 ## Resumen
 
-a la Renta. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 120 del 29 de Septiembre del 2020 Modifica resolución exenta SII N° 110 de 2015 que establece declaración jurada anual de caracterización tributaria global, formulario N° 1913. Fuente: Subdirección de Fiscalización. Establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en chile por medio de formulario N° 1921; establece reglas para correlacionar inversiones y pasivos segú…
+cción de Fiscalización. Establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en chile por medio de formulario N° 1921; establece reglas para correlacionar inversiones y pasivos según lo dispuesto en el inciso quinto del artículo 10 de la Ley sobre Impuesto a la Renta; y deja sin efecto resolución N° 65 de 2015. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

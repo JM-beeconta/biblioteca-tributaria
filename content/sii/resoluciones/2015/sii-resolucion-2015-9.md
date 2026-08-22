@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2015
-- Fecha: 2015-02-18
+- Fecha: 2015-02-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso9.pdf
 - Hash SHA-256: 92ee151a9015149ae4c164de0790f8e10007c741acad618196f6c4a11e81baa1
 
 ## Resumen
 
-f='https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso10.pdf' target='_blank'>Resolución Exenta SII N° 10 del 18 de Febrero del 2015 Establece modelo de Certificado N|41, sobre retenciones practicadas conforme al artículo 74 N|1 de la Ley sobre Impuesto a la Renta, y otros componentes de las remuneraciones de los trabajadores agrícolas Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 09 del 17 de Febrero del 2015 Establece escala de tasas conforme al precio i…
+mplimiento Tributario Resolución Exenta SII N° 09 del 17 de Febrero del 2015 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

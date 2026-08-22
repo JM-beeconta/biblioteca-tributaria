@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2026
-- Fecha: 2026-02-04
+- Fecha: 2026-01-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso18.pdf
 - Hash SHA-256: a9be74aa628723ed4af5898f16f20f58d10a6c39836aa025b9b2d79877577827
 
 ## Resumen
 
-lustre Municipalidad de Rio Bueno Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 19 del 04 de Febrero del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Defensoría del Contribuyente y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualañé. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 17 d…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualañé. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

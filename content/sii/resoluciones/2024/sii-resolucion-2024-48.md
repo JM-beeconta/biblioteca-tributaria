@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2024
-- Fecha: 2024-04-18
+- Fecha: 2024-04-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso48.pdf
 - Hash SHA-256: 0f5776b3436d2111e958e9488d9078dade4e942cc9a8a56bf6d0d2b724d34101
 
 ## Resumen
 
-gin-bottom:0px;'> Resolución Exenta SII N° 49 del 18 de Abril del 2024 Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica. DETERMINA QUE LA REPÚBLICA DE SINGAPUR NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, E…
+Subdirección Jurídica. DETERMINA QUE LA REPÚBLICA DE SINGAPUR NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN SU ARTÍCULO 41 H. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

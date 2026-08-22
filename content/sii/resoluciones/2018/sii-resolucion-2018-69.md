@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2018
-- Fecha: 2018-06-29
+- Fecha: 2018-08-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso69.pdf
 - Hash SHA-256: 1aa3470666862d0d6ba692ced3a009e456cf18f59b621a961eab16fcb8ece4b4
 
 ## Resumen
 
-conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 70 del 30 de Agosto del 2018 Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2019. Fuente: Subdirección de Fiscalización Autoriza a empresa MDTICKET CHILE SPA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Resol…
+cción de Fiscalización Autoriza a empresa MDTICKET CHILE SPA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

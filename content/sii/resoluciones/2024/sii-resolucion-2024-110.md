@@ -11,7 +11,7 @@
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 111 del 28 de Noviembre del 2024 Modifica resolución ex. SII Nº 106 de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización. Fija forma de hacer efectiva la Fiscalización en los controles carreteros o móviles, habilitados por este servicio, a los vehículos de transporte de carga y Sanciona su…
+cción de Fiscalización. Fija forma de hacer efectiva la Fiscalización en los controles carreteros o móviles, habilitados por este servicio, a los vehículos de transporte de carga y Sanciona su incumplimiento Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

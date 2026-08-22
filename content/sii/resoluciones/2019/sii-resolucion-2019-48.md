@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 49 del 18 de Abril del 2019 Autoriza a la SOCIEDAD DIMERC S.A. para portar la guia de despacho electrónica y factura electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Antofagasta, Sr. JUAN JOSE VELOSO MORA, para emitir boletas de honorarios electrónicas, en la forma q…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Antofagasta, Sr. JUAN JOSE VELOSO MORA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

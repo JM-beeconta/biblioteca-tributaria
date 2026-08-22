@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2013
-- Fecha: 2013-10-16
+- Fecha: 2013-10-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso87.pdf
 - Hash SHA-256: 5d6586ba444a46f1fb885aac2ed536b5392433e3fd5c2822bb70ae09a3437710
 
 ## Resumen
 
-cute;n Recursos Humanos Resolución Exenta SII N° 88 del 16 de Octubre del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza al contribuyente Cencosud Servicios Integrales S.A., rut N° 76.023.825-2, para operar un sistema electrónico de intermediación en la venta de colaciones Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 86 del 02 d…
+cia de Contribuyentes Autoriza al contribuyente Cencosud Servicios Integrales S.A., rut N° 76.023.825-2, para operar un sistema electrónico de intermediación en la venta de colaciones Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

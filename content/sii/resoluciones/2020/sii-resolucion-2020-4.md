@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 4
 - Año: 2020
-- Fecha: 2020-01-17
+- Fecha: 2020-01-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso4.pdf
 - Hash SHA-256: 54f92511f394c520cb2d6dbded90d7e624d9e4c4b58c0b544323b73a9a7faf45
 
 ## Resumen
 
-argin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 05 del 17 de Enero del 2020 Aprueba Adendum Anexo al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Corporación de Fomento de la Producción. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 04 del 10 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fisc…
+atégica y Estudios Tributarios Resolución Exenta SII N° 04 del 10 de Enero del 2020 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

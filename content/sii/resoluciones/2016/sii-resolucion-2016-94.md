@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Resolución Exenta SII N° 95 del 23 de Septiembre del 2016 Autoriza como receptor electrónico de documentos tributarios electrónicos a los siguientes organismos públicos: Hospital Clínico de Magallanes, Dr. Lautaro Navarro Avaria; y Subsecretaría de las Fuerzas Armadas Fuente: Departamento de Operaciones Incorpórase en la nómina de entidades para ser receptora de la carpeta tributaria,MASAVAL S.A.G.R. Fuente: Oficina de Asistencia y Educación al Contribuyente Resolución Exenta SII N° 93 del 22 de Septiembre del…
+amento de Operaciones Incorpórase en la nómina de entidades para ser receptora de la carpeta tributaria,MASAVAL S.A.G.R. Fuente: Oficina de Asistencia y Educación al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Gestión Normativa. Resolución Exenta SII N° 23 del 14 de Febrero del 2017 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo de Cumplimiento Tributario. Establece procedimiento para solicitar condonación de los impuestos que graven los pagos o remesas realizados al exterior, conforme a lo dispuesto en el Decreto N°100, de 1 de febrero de 2017, del Minister…
+plimiento Tributario. Establece procedimiento para solicitar condonación de los impuestos que graven los pagos o remesas realizados al exterior, conforme a lo dispuesto en el Decreto N°100, de 1 de febrero de 2017, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

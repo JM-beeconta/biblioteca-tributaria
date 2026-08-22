@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 130 del 15 de Noviembre del 2021 Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos. Fuente: Subdirección de Administración. Establece procedimiento de tasación de IVA del artículo 20 del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Re…
+ción de Administración. Establece procedimiento de tasación de IVA del artículo 20 del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

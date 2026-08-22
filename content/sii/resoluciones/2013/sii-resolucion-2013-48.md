@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2013
-- Fecha: 2013-05-22
+- Fecha: 2013-05-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso48.pdf
 - Hash SHA-256: c8c118278576eaa1e40654b7335ca65d5f2cb50e049e5088dc5c37f709d7115a
 
 ## Resumen
 
-Fuente: Departamento de Personas y de Micro y Pequeña Empresas. Resolución Exenta SII N° 49 del 22 de Mayo del 2013 Déjase sin efecto Resolución Exenta SII N° 19 del 29 de enero de 2004. Fuente: Departamento de Personas y Micro y Pequeñas Empresas. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 47 del 15 de Mayo del 2013 Imparte instrucciones para acogerse al…
+eñas Empresas. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:0px;'> Resolución Exenta SII N° 16 del 07 de Febrero del 2014 Modifica Resolución Ex. SII N° 163, de fecha 16.12.2008, que establece nuevos formatos de Declaración Jurada solicitud de devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 14 del 04 de Febre…
+ueñas Empresas Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

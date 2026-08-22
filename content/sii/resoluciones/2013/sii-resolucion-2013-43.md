@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2013
-- Fecha: 2013-05-09
+- Fecha: 2013-05-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso43.pdf
 - Hash SHA-256: f0d0152ad9d6854574efecd2addc560f0ba8f4d88bd45e96624f38e9082ceb82
 
 ## Resumen
 
-Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 44 del 09 de Mayo del 2013 Autoriza a instituciones sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento Medianas y Grandes Empresas. Complementa resolución Exenta SII N° 208, de 2009, en relación a la recuperación de impuesto a que tienen derecho las empresas navieras chilenas señaladas en el artículo 36 inciso octavo, de la ley sobre impuesto a las ventas y Servicios. Fuente: Depa…
+s y Grandes Empresas. Complementa resolución Exenta SII N° 208, de 2009, en relación a la recuperación de impuesto a que tienen derecho las empresas navieras chilenas señaladas en el artículo 36 inciso octavo, de la ley sobre impuesto a las ventas y Servicios. Fuente: Departamento Medianas y Grandes Empresas.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 185
 - Año: 2025
-- Fecha: 2025-12-17
+- Fecha: 2025-12-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso185.pdf
 - Hash SHA-256: 1733bfbd7cad2b6798911dce824068727d8f7cecff46236f708438f131d7b4cf
 
 ## Resumen
 
-; 1784, ambas de 1977 y N° 1798 de 1979. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 186 del 17 de Diciembre del 2025 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 184 del 15 de Diciembre del 2025 Autoriza a la entidad que indica para incorporarse al registro de…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 108 del 09 de Noviembre del 2018 Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resoluc…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

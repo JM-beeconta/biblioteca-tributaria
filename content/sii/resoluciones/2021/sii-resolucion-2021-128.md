@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 128
 - Año: 2021
-- Fecha: 2021-11-15
+- Fecha: 2021-11-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso128.pdf
 - Hash SHA-256: f7c195f77418d18a4c2b72205bdb4c68f4471cebe2b4f9f69b96f4f62226aec8
 
 ## Resumen
 
-enda y Servicio de Impuestos Internos. Fuente: Subdirección de Administración. Resolución Exenta SII N° 129 del 15 de Noviembre del 2021 Establece procedimiento de tasación de IVA del artículo 20 del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2022. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 127 del 11 de Noviembre del 2021 Autoriza como r…
+cción de Fiscalización. Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

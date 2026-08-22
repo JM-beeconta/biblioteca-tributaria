@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2018
-- Fecha: 2018-02-22
+- Fecha: 2018-02-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso18.pdf
 - Hash SHA-256: fa7d8247c230717c894923994f3493274069d70958f7cb81208d9bebe8b32734
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 19 del 22 de Febrero del 2018 Autoriza como receptor electrónico de documentos tributarios electrónicos al siguiente organismo público: Comision Administradora del Sistema De Creditos P. Estudios Superiores Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Exenta SII N°129 de 29 de diciembre de 2017, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta S…
+ute;n de Asistencia al Contribuyente Complementa Resolución Exenta SII N°129 de 29 de diciembre de 2017, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

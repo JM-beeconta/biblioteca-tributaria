@@ -11,7 +11,7 @@
 
 ## Resumen
 
-in-bottom:0px;'> Resolución Exenta SII N° 85 del 23 de Julio del 2021 Instruye sobre el cumplimiento de la obligación del artículo 29 de la Ley N°16.271, sobre impuesto a las herencias, asignaciones y donaciones, que ordena a los conservadores remitir por medios electrónicos las nóminas de las inscripciones de posesiones efectivas practicadas en el mes anterior. Fuente: Subdirección de Fiscalización. Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación Chilena de la M…
+cción de Fiscalización. Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación Chilena de la Madera. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-' target='_blank'>Resolución Exenta SII N° 24 del 15 de Febrero del 2019 Resuelve solicitud de Philip Morris Chile Comercializadora Ltda. de fecha 17.01.2019, complementada por presentación de 01.02.2019, en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Reemplaza resolutivo 2° de la Resolución Ex. SII N° 21 de 2017, que &ldquo;establ…
+cción de Fiscalización Reemplaza resolutivo 2° de la Resolución Ex. SII N° 21 de 2017, que &ldquo;establece procedimiento para el pago del Impuesto a las Donaciones efectuadas en dinero&rdquo;. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

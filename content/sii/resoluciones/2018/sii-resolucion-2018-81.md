@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2018
-- Fecha: 2018-09-13
+- Fecha: 2018-09-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso81.pdf
 - Hash SHA-256: 5168d0c8fcdc8b36a05743712deba690bde075f8975272f95707c288ff9e9fd5
 
 ## Resumen
 
-tom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 82 del 13 de Septiembre del 2018 Aprueba Convenio de Intercambio de Información y Colaboración entre Dirección General de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Exime a Emprender Capital Servicios Financieros SPA de la obligación de timbraje de pagarés establecida en el Artículo 17 Inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en…
+tégica y Estudios Tributarios Exime a Emprender Capital Servicios Financieros SPA de la obligación de timbraje de pagarés establecida en el Artículo 17 Inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

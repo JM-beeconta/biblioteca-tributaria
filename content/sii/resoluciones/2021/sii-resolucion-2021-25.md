@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2021
-- Fecha: 2021-03-03
+- Fecha: 2021-03-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso25.pdf
 - Hash SHA-256: d261a2d723c57cf119136ec902c8c4ee5e71a02c3861f2f543eac0ffb8a6569f
 
 ## Resumen
 
-os Tributarios. Resolución Exenta SII N° 26 del 03 de Marzo del 2021 Procedimiento para la denuncia de contribuyentes sin domicilio ni residencia en Chile que hayan incumplido normas tributarias relativas a la declaración y pago del IVA que grava los servicios del artículo 8° letra n) de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Establece procedimiento para la obtención, recuperación y cambio de clave tributaria y administración de representantes electrónicos. Deja sin…
+cción de Fiscalización. Establece procedimiento para la obtención, recuperación y cambio de clave tributaria y administración de representantes electrónicos. Deja sin efecto circular N° 58 de 2004. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

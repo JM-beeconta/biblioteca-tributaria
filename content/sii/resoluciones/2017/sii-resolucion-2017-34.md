@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2017
-- Fecha: 2017-03-23
+- Fecha: 2017-03-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso34.pdf
 - Hash SHA-256: 068a2669e567010f60c9c3d9bda0b1eb0bbf7736dae1d5766daadeb7fab165af
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 35 del 23 de Marzo del 2017 Complementa resolución Exenta SII N° 101 de 08.08.2011 modificada por la Resolución 133, del 23.11.2011 en los términos que indica. Fuente: Departamento de Operaciones Fija nuevo plazo para presentar la Declaración Jurada anual sobre rentas obtenidas por terceros, Formulario N° 1932. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII…
+amento de Operaciones Fija nuevo plazo para presentar la Declaración Jurada anual sobre rentas obtenidas por terceros, Formulario N° 1932. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

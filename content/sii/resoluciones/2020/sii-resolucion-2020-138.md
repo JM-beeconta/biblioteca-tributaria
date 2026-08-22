@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 139 del 29 de Octubre del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 137 del 28 de…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

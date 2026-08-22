@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2025
-- Fecha: 2025-07-15
+- Fecha: 2025-07-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso85.pdf
 - Hash SHA-256: bdae182549022c69745c60289175eebc3583f25bbcaaa4a8b9cf544b8525c596
 
 ## Resumen
 
-024 y resolución EX. SII N°7590, de 1999. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 86 del 15 de Julio del 2025 Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 84 del 10 de Julio del 2025 Fija proce…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;'> Resolución Exenta SII N° 64 del 24 de Junio del 2020 Exime de la obligación de emitir facturas no afectas o exentas por el transporte de pasajeros y distribución de insumos médicos y cajas de alimentos efectuado mediante furgones de transporte escolar, en el marco del estado de excepción constitucional de catástrofe nacional por causa del COVID - 19. Fuente: Subdirección de Asistencia al Contribuyente Instruye sobre cumplimiento de los requisitos, monto y forma de solicitar el beneficio transitorio para los tr…
+cute;n de Asistencia al Contribuyente Instruye sobre cumplimiento de los requisitos, monto y forma de solicitar el beneficio transitorio para los trabajadores independientes, establecido en el artículo primero de la Ley N° 21.242 de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

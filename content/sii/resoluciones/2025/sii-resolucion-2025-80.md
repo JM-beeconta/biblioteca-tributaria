@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 80
 - Año: 2025
-- Fecha: 2025-06-30
+- Fecha: 2025-06-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso80.pdf
 - Hash SHA-256: f79ec97e469589f47c8dd0993284ab340335913e55e400958bb1e45d25d9da27
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 81 del 30 de Junio del 2025 Modifica fecha de entrada en vigencia de la Resolución Exenta SIIi N°41 de 2025, que dispone forma de suscripción de la Declaración Jurada exigida por las circulares N° 39 de 1991 y N° 27 de 2007. Fuente: Subdirección de Fiscalización. Establece procedimiento para presentar la solicitud de no ser notificado por correo electrónico en las situaciones que prevé el inciso primero del artículo 11 del Códi…
+cción de Fiscalización. Establece procedimiento para presentar la solicitud de no ser notificado por correo electrónico en las situaciones que prevé el inciso primero del artículo 11 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

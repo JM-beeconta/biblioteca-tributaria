@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Exenta SII N° 50 del 26 de Mayo del 2014 Establece Declaración Jurada y Modelo de Certificado a emitir, por los empleadores habilitados o pagadores de rentas del artículo 42 N°1 de la Ley sobre Impuesto a la Renta, respecto del crédito por donaciones con fines culturales a que se refiere el artículo 8°, de la Ley N° 18.985. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Incorpora a las instrucciones que realicen operaciones de crédito de dinero de manera masiva, de conformidad a lo dispues…
+ueñas Empresas Incorpora a las instrucciones que realicen operaciones de crédito de dinero de manera masiva, de conformidad a lo dispuesto en el artículo 31 de la Ley N°18.010, a las obligaciones que establece la Resolución Ex. SII N°2, de 04 de enero de 2005, sobre Auxiliar de Registro de Impuesto de Timbres y Estampillas Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

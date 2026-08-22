@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 118
 - Año: 2014
-- Fecha: 2014-12-22
+- Fecha: 2014-12-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso118.pdf
 - Hash SHA-256: 7f6bf825c6a8be43709b2750f08a2754fd726d8f95d170b39a6ab0e5b1399685
 
 ## Resumen
 
-/i> Resolución Exenta SII N° 119 del 22 de Diciembre del 2014 Fija procedimiento de pago, exención y devolución del impuesto adicional a los vehículos motorizados nuevos, livianos y medianos, en la forma que indica Fuente: Subdirección de Fiscalización Incorpora a los donatarios de donaciones culturales del artículo 8° de la Ley N° 18.985, sobre donaciones con fines culturales, la obligación de presentar Declaración Jurada Anual N° 1828 Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 117…
+Fiscalización Incorpora a los donatarios de donaciones culturales del artículo 8° de la Ley N° 18.985, sobre donaciones con fines culturales, la obligación de presentar Declaración Jurada Anual N° 1828 Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

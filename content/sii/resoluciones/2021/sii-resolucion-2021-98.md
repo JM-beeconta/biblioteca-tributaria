@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2021
-- Fecha: 2021-08-27
+- Fecha: 2021-08-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso98.pdf
 - Hash SHA-256: fe5002ab8b96f8ca019c982951df508dd83880fa66ab39523701c924d451472a
 
 ## Resumen
 
-20.544. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 99 del 27 de Agosto del 2021 Modifica resolución exenta sii n° 08, de fecha 10.01.2007, en los términos que indica y deja sin efecto resolución exenta sii nº 25, de fecha 24.03.2016. Fuente: Subdirección de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican, y modifica resolución exenta sii nº 86 de 2018 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 97 del 19 de Agosto del 2021…
+cción de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican, y modifica resolución exenta sii nº 86 de 2018 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

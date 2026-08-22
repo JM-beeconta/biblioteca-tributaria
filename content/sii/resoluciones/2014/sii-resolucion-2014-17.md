@@ -11,7 +11,7 @@
 
 ## Resumen
 
-xenta SII N° 18 del 07 de Febrero del 2014 Imparte instrucciones sobre cumplimiento del deber de informar, al Servicio de Impuestos Internos, la opción que establece el artículo transitorio de la Ley N° 20.570, de 2012, que modificó la Ley N° 20.241, de 2008, que establece un incentivo tributario a la inversión privada en investigación y desarrollo. Fuente: Departamento Medianas y Grandes Empresas. Aprueba protocolo de acuerdo entre el Servicio de Impuestos Internos, la Subsecretaría del Interior, Carabineros de C…
+s y Grandes Empresas. Aprueba protocolo de acuerdo entre el Servicio de Impuestos Internos, la Subsecretaría del Interior, Carabineros de Chile, Policia de Investigaciones de Chile, Dirección General del Territorio Marítimo y de Marina Mercante. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2024
-- Fecha: 2024-06-19
+- Fecha: 2024-06-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso64.pdf
 - Hash SHA-256: 59749ae4804efe95ac0b3412c0afbf0d6b1825327d8577f37b64ac46a93509b4
 
 ## Resumen
 
-nvenio De Colaboración Específico Entre Servicio De Impuestos Internos Y La Universidad Tecnológica Metropolitana Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 65 del 19 de Junio del 2024 REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018 Fuente: Subdirección Normativa. Prórroga del plazo para la presentación de declaraciones juradas en materia de precios de transferencia, formularios Nos 1907, 1937, 1950 Y 1951. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 63…
+uente: Subdirección Normativa. Prórroga del plazo para la presentación de declaraciones juradas en materia de precios de transferencia, formularios Nos 1907, 1937, 1950 Y 1951. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

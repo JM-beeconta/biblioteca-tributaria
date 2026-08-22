@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Contribuyente Resolución Exenta SII N° 71 del 10 de Agosto del 2017 Designa funcionario titular y suplente para la coordinación e implementación del sistema preventivo contra delitos funcionarios, lavado de activos y financiamiento del terrorismo y delega facultad que indica. Fuente: Subdirección de Fiscalización Autoriza al Conservador de Bienes Raíces de Rancagua sr. Mauricio Alfredo Astudillo Pizarro, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al C…
+Fiscalización Autoriza al Conservador de Bienes Raíces de Rancagua sr. Mauricio Alfredo Astudillo Pizarro, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

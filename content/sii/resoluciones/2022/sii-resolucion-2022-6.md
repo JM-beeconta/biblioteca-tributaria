@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2022
-- Fecha: 2022-01-28
+- Fecha: 2022-01-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso6.pdf
 - Hash SHA-256: 4ead90212bc18aac8d89d58ed0e2032bada793f6445107491d95a69db4ca3fc7
 
 ## Resumen
 
-ulos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 28 de Enero del 2022 Designa responsables de procesos y delega facultad que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 06 del 26 de Enero del 2022 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección General de Promoción de Exportaciones y el Servicio…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 06 del 26 de Enero del 2022 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección General de Promoción de Exportaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

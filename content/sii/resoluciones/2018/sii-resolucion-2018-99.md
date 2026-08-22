@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2018
-- Fecha: 2018-10-10
+- Fecha: 2018-10-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso99.pdf
 - Hash SHA-256: 63eb6fad7f42083b2d950c85cd14bb453118510178609d38e2bdd8e291a4ff00
 
 ## Resumen
 
-trónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 100 del 10 de Octubre del 2018 Incorpórase a LATAM FACTORS S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a Liga Chilena contra el Mal de Parkinson, como receptora de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N°…
+ute;n de Asistencia al Contribuyente Autoriza a Liga Chilena contra el Mal de Parkinson, como receptora de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

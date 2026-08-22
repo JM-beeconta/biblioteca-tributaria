@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 135 del 20 de Diciembre del 2018 Autoriza a la sociedad EKONO LIMITADA para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la sociedad ADMINISTRADORA DE SUPERMERCADOS HIPER LIMITADA, para cumplir la obligación de entregar boletas en papel mediante el envío de bolet…
+ute;n de Asistencia al Contribuyente Autoriza a la sociedad ADMINISTRADORA DE SUPERMERCADOS HIPER LIMITADA, para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

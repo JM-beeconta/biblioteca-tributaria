@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 122
 - Año: 2015
-- Fecha: 2015-12-31
+- Fecha: 2015-12-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso122.pdf
 - Hash SHA-256: c21eea99263740492c249bb6ca447ded6d3374341d7fb435f549fb75f81e68b1
 
 ## Resumen
 
-;'> Resolución Exenta SII N° 123 del 31 de Diciembre del 2015 Establece modo de informar gastos incurridos en supermercados y comercios similares conforme a la modificación que la Ley N° 20.780 introdujo al Inciso 1°, del Artículo 31 de la Ley sobre Impuesto a la Renta Fuente: Subdireción de Fiscalización Establece nueva denominación a Departamento Subdirección de Recursos Humanos Fuente: Dirección Nacional Resolución Exenta SII N° 121 del 29 de Diciembre del 2015 Establece nueva denominación a Departamento Subdir…
+Fiscalización Establece nueva denominación a Departamento Subdirección de Recursos Humanos Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

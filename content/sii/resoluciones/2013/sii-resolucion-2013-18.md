@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ción y Asistencia de Contribuyentes Resolución Exenta SII N° 19 del 12 de Febrero del 2013 Resolución Exenta N° 19, del 12 de febrero de 2013. Rectifica lista anexa que contiene resolución N° 04 exenta, de 2013. Fuente: Subdirección de Avaluaciones Autoriza a Autogasco S. A. para emitir comprobantes de entrega de ventas de gas vehicular, realizadas mediante el empleo de tarjetas recargables previamente pagadas y documentadas tributariamente, en la forma y condiciones que indica. Fuente: Departamento de Atención y…
+ute;n de Avaluaciones Autoriza a Autogasco S. A. para emitir comprobantes de entrega de ventas de gas vehicular, realizadas mediante el empleo de tarjetas recargables previamente pagadas y documentadas tributariamente, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

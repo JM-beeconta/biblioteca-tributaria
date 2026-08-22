@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 14 del 31 de Enero del 2013 Establece Obligación de presentar Declaración Jurada anual informativa de precios de transferencia Fuente: Departamento de Fiscalización Internacional. Modifica plazo de piloto establecido en la Resolución Ex N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la boleta de ventas y servicios por el comprobante emitido por la empresa Transbank S.A. Fuente: Depto. Atención y Asistencia de Contrib…
+cute;n Internacional. Modifica plazo de piloto establecido en la Resolución Ex N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la boleta de ventas y servicios por el comprobante emitido por la empresa Transbank S.A. Fuente: Depto. Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

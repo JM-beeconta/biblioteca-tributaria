@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 130
 - Año: 2021
-- Fecha: 2021-11-19
+- Fecha: 2021-11-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso130.pdf
 - Hash SHA-256: 44e8e63cc81e7dc75c2890abc214262967ae8203db380a3a82a0b7e5cd87b387
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 131 del 19 de Noviembre del 2021 Aprueba convenio de intercambio de información y colaboración entre la unidad de análisis financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos. Fuente: Subdirección de Adm…
+tégica y Estudios Tributarios. Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

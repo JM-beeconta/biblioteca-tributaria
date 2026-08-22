@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 140
 - Año: 2020
-- Fecha: 2020-11-13
+- Fecha: 2020-10-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso140.pdf
 - Hash SHA-256: 3dcb262f5dbaa50f50dff27e9886732ca6fa2c1ed7f6efbfb1e5da0049e6fc00
 
 ## Resumen
 
-' target='_blank'>Resolución Exenta SII N° 141 del 13 de Noviembre del 2020 Imparte instrucciones sobre la opción de informar al Servicio de Impuestos Internos, con efecto retroactivo, el ingreso diferido por las rentas o cantidades que se mantengan pendientes de tributación, conforme a lo dispuesto en el artículo décimo quinto transitorio de la Ley N° 21.210, sobre modernización tributaria. Fuente: Subdirección de Fiscalización. Incorpórase a Bice Factoring S.A., en la nómina de entidades para ser receptora de la…
+cción de Fiscalización. Incorpórase a Bice Factoring S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

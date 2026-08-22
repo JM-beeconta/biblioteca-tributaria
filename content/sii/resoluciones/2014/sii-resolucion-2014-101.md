@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 101
 - Año: 2014
-- Fecha: 2014-11-04
+- Fecha: 2014-10-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso101.pdf
 - Hash SHA-256: 55082c84ae95d066ab65b9fb797f6d5bf48d3e0273cc686c3ced9ef313ff7443
 
 ## Resumen
 
-/reso102.pdf' target='_blank'>Resolución Exenta SII N° 102 del 04 de Noviembre del 2014 Modifica resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes emisores electrónicos Fuente: Departamebnto de Análisis Masivo del Cumplimiento Tributario Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fue…
+mplimiento Tributario Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

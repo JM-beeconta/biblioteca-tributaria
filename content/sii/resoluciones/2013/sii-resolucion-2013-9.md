@@ -11,7 +11,7 @@
 
 ## Resumen
 
-om:10px;'> Fuente: Depto. de Asesoría Jurídica. Resolución Exenta SII N° 10 del 23 de Enero del 2013 Sustituye estructura y contenido del Formulario N° 50 sobre declaración y Pago Simultáneo de impuestos. Fuente: Fiscalización Internancional. Resolución Exenta SII N° 09 del 23 de Enero del 2013 Autoriza al contribuyente SPF S.A., RUT N° 76.121.871-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Depto. Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 08 de…
+ute;n Internancional. Resolución Exenta SII N° 09 del 23 de Enero del 2013 Autoriza al contribuyente SPF S.A., RUT N° 76.121.871-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Depto. Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

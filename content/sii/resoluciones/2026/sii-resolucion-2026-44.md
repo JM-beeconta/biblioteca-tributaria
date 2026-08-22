@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2026
-- Fecha: 2026-03-27
+- Fecha: 2026-03-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso44.pdf
 - Hash SHA-256: 4aa7d2fdeab66fcf4417bf5e060bd96e1ad06f07bde244c71086b370e90af184
 
 ## Resumen
 
-ere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 45 del 27 de Marzo del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 43 del 24 de Marzo del…
+ute;n de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

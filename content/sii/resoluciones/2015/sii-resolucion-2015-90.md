@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón y Asistencia de Contribuyente Resolución Exenta SII N° 91 del 20 de Noviembre del 2015 Autoriza como receptor de documentos tributarios electrónicos a organismo público que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 89 del 18 de Noviembre del 2015 Autoriza a contribuyente que indica par…
+cia de Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

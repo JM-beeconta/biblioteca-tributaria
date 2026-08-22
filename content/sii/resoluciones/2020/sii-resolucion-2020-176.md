@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2020 Años Anteriores Imparte instrucciones en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, tanto electrónica como papel y boletas no afectas o exentas, de acuerdo a lo dispuesto por el art. 54 del d.l. N° 825, de 1974. Deja sin efecto Res. Ex. SII N° 5 y N° 55, de 2015, y N° 13 de 2018. Fuente: Subdirección…
+9"> Imparte instrucciones en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, tanto electrónica como papel y boletas no afectas o exentas, de acuerdo a lo dispuesto por el art. 54 del d.l. N° 825, de 1974. Deja sin efecto Res. Ex. SII N° 5 y N° 55, de 2015, y N° 13 de 2018. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

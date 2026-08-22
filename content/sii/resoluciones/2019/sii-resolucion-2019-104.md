@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2019
-- Fecha: 2019-09-30
+- Fecha: 2019-09-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso104.pdf
 - Hash SHA-256: ab3991e63a0356c61bd7e20d4bd032ddb4eaafb8ba9aa479e1fdc5d0235dc79a
 
 ## Resumen
 
-ada N°1821. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 105 del 30 de Septiembre del 2019 Modifica Resolución Ex. SII N° 110, de 24.12.2015, que establece Declaración Jurada Anual N° 1913, de caracterización tributaria global. Fuente: Subdirección de Fiscalización Aprueba participación como servicio piloto en el proyecto de calidad de la auditoría interna del sector público. Fuente: Subdirección Contraloría Interna Resolución Exenta SII N° 103 del 13 de Septiembre del 2019 Complementa Nómina de…
+cción de Fiscalización Aprueba participación como servicio piloto en el proyecto de calidad de la auditoría interna del sector público. Fuente: Subdirección Contraloría Interna
 
 ## Referencias detectadas
 

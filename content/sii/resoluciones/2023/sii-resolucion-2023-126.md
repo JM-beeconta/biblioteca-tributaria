@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2023
-- Fecha: 2023-11-13
+- Fecha: 2023-11-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso126.pdf
 - Hash SHA-256: a0aa815064f7c7be824108817b3e180c86bbd7f241c1209bf6ced51ebf15b736
 
 ## Resumen
 
-oacute;nicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 127 del 13 de Noviembre del 2023 Instruye sobre presentación de declaración de impuestos formulario 29 fuera de plazo a través de internet. Fuente: Subdirección de Fiscalización. Aprueba Norma General De Participacion Ciudadana Del Servicio De Impuestos Internos Y Deja Sin Efecto La Resolución Exenta Sii N° 33, De 2015. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 125…
+cción de Fiscalización. Aprueba Norma General De Participacion Ciudadana Del Servicio De Impuestos Internos Y Deja Sin Efecto La Resolución Exenta Sii N° 33, De 2015. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

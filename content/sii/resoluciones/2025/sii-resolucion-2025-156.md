@@ -11,7 +11,7 @@
 
 ## Resumen
 
-contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 157 del 06 de Noviembre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Pedro Aguirre Cerda. Fuente: Subdirección de Avaluaciones. Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 155 del 06 de Noviembre del 2025 Autoriza acceso a los Servicios de Inter…
+Subdirección de Avaluaciones. Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

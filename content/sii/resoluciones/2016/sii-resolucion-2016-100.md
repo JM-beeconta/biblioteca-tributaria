@@ -11,7 +11,7 @@
 
 ## Resumen
 
-va Resolución Exenta SII N° 101 del 20 de Octubre del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Transunion Soluciones de Información Chile S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Exime a Fundación Jóvenes por una América Solidaria de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señala. Fuente: Departamento de Operaciones Resolución Exenta SII N° 99 del 06 de Octubre del 2016 Autoriza a las instituc…
+Estudios Tributarios Exime a Fundación Jóvenes por una América Solidaria de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señala. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

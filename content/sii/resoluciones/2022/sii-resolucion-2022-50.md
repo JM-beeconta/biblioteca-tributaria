@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 51 del 31 de Mayo del 2022 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Empresas Chilenas de Tecnología. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece forma en que las compañías de seguro deben calcular, rebajar, enterar e informar el detalle del impuesto que afecta a las sumas que tengan derecho a recibir los benef…
+tégica y Estudios Tributarios. Establece forma en que las compañías de seguro deben calcular, rebajar, enterar e informar el detalle del impuesto que afecta a las sumas que tengan derecho a recibir los beneficiarios de seguros de vida con ocasión de la muerte del asegurado. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

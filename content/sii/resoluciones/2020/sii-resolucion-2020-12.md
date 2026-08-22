@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón Resolución Exenta SII N° 13 del 24 de Enero del 2020 Modifica Resolución ex. Sii n° 145, de 31-12-2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces no Agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Modifica Resolución ex. Sii n° 144, de 31 de diciembre de 2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces de la primera se…
+: Subdirección de Avaluaciones Modifica Resolución ex. Sii n° 144, de 31 de diciembre de 2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

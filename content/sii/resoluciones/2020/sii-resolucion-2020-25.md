@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2020
-- Fecha: 2020-02-28
+- Fecha: 2020-02-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso25.pdf
 - Hash SHA-256: 29bf2cf746747acecf741bfd85dfcfb9e52ceb311109147ef4ee67165b950146
 
 ## Resumen
 
-ca. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 26 del 28 de Febrero del 2020 Autoriza al notario público de Antofagasta, Sr. Gonzalo Martín Hurtado Peralta, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum Modificación Convenio de Colaboración entre Tesorería General de la República y Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolu…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum Modificación Convenio de Colaboración entre Tesorería General de la República y Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

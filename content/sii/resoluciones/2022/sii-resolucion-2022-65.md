@@ -11,7 +11,7 @@
 
 ## Resumen
 
-enta SII N°72 de 2021, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 66 del 02 de Agosto del 2022 Emisión de documentos tributarios electrónicos en operaciones de compra y venta de moneda extranjera. Fuente: Subdirección de Asistencia al Contribuyente. Fija requisitos de llenado para las facturas, notas de crédito y notas de débito utilizadas en la venta de cigarrillos, emitidas por contribuyentes obligados al cambio de sujeto a productos de tabaco. Fuent…
+ute;n de Asistencia al Contribuyente. Fija requisitos de llenado para las facturas, notas de crédito y notas de débito utilizadas en la venta de cigarrillos, emitidas por contribuyentes obligados al cambio de sujeto a productos de tabaco. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

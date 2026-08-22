@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ección de Fiscalización Resolución Exenta SII N° 07 del 22 de Enero del 2019 Resuelve solicitud de Tabacos Apolo S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 06 del 22 de Enero del 2019 Resuelve solicitud de Tabacalera S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar e…
+cción de Fiscalización Resolución Exenta SII N° 06 del 22 de Enero del 2019 Resuelve solicitud de Tabacalera S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

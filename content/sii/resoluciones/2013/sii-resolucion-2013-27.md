@@ -11,7 +11,7 @@
 
 ## Resumen
 
-soluciones/2013/reso28.pdf' target='_blank'>Resolución Exenta SII N° 28 del 22 de Febrero del 2013 Establece Declaración Jurada a presentar por las Instituciones de Previsión del régimen antiguo administradas por el Instituto de Previsión Social, Dirección de Previsión de Carabineros de Chile o Caja de Previsión de la Defensa Nacional. Fuente: Subdirección de Fiscalización Sustitúyase las instrucciones de llenado de la Declaración Jurada Formulario N° 1867 a que se refiere la Resolución Ex. N° 30 de fecha 26.02.20…
+Fiscalización Sustitúyase las instrucciones de llenado de la Declaración Jurada Formulario N° 1867 a que se refiere la Resolución Ex. N° 30 de fecha 26.02.2007. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

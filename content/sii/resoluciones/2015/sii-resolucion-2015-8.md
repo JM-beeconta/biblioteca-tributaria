@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2015
-- Fecha: 2015-02-17
+- Fecha: 2015-02-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso8.pdf
 - Hash SHA-256: ceff501a6af558f38e7f28dc7da34c32f8d59bcb6910dde519fb3857e7f7939d
 
 ## Resumen
 
-nto de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 09 del 17 de Febrero del 2015 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina Gestión Normativa Resolución Exenta SII N° 08 del 13 de Febrero del 2015 Autoriza delegación de facultad que indica Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 07 del 30 de Enero del 2015 Autoriza a proceder conforme al modelo de operación de contabilida…
+tión Normativa Resolución Exenta SII N° 08 del 13 de Febrero del 2015 Autoriza delegación de facultad que indica Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

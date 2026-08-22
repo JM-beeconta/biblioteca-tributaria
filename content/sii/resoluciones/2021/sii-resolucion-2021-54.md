@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2021
-- Fecha: 2021-06-04
+- Fecha: 2021-06-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso54.pdf
 - Hash SHA-256: 4cf8dc79fa72b4887b152f148fa208b5fe0aa7231be4043826d264868bf47f4d
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 55 del 04 de Junio del 2021 Establece procedimiento a seguir respecto de las solicitudes de devolución de remanente de crédito fiscal IVA por adquisiciones de activo fijo. Deja sin efecto resolución Exenta SII Nº 617 de 1999. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero. Fuente: Subd…
+cción de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

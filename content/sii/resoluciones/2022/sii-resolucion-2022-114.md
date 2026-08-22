@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2022
-- Fecha: 2022-11-30
+- Fecha: 2022-11-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso114.pdf
 - Hash SHA-256: 69a4fd4f40815c4f52a23e389b4e5eb879334d736b694c0e995552cd7d207a09
 
 ## Resumen
 
-o de intención de permanencia en chile, de acuerdo a la Circular N° 63 de 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 115 del 30 de Noviembre del 2022 Instruye sobre los procedimientos para el registro de las sociedades de profesionales. Fuente: Subdirección de Asistencia al Contribuyente. Establece forma de presentar solicitud de acuerdo anticipado de precios de transferencia, artículo 41 E N°7 de la Ley sobre impuesto a la renta y modifica resolución SII Ex. N° 68 de 2013. Fuente: Subdi…
+ute;n de Asistencia al Contribuyente. Establece forma de presentar solicitud de acuerdo anticipado de precios de transferencia, artículo 41 E N°7 de la Ley sobre impuesto a la renta y modifica resolución SII Ex. N° 68 de 2013. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a> Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Resolución Exenta SII N° 53 del 30 de Abril del 2019 Complementa Resoluciones Ex. SII números 208, de 2009 y 117, de 2011. Fuente: Subdirección de Fiscalización Fija procedimiento de identificación como contribuyente catalogado como Exportador de Servicios Prestados y Utilizados Totalmente en el Extranjero. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 51 del 30 de Abril del 2019 Crea modelo de Cert…
+cción de Fiscalización Fija procedimiento de identificación como contribuyente catalogado como Exportador de Servicios Prestados y Utilizados Totalmente en el Extranjero. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 143 del 30 de Diciembre del 2021 Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Fija Nómina De Grandes Contribuyentes Fuente: Dirección De Grandes Contribuyentes. Resolución Exenta SII N° 141 del 30 de Diciembre del 2021 Fija Nóminas De Agentes Retenedores Y De Contribuyentes Sujetos A Retención,…
+Subdirección de Avaluaciones. Fija Nómina De Grandes Contribuyentes Fuente: Dirección De Grandes Contribuyentes.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 124 del 14 de Diciembre del 2018 Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 122 del 06 de Diciembre del…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

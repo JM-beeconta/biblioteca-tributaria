@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 117
 - Año: 2022
-- Fecha: 2022-12-07
+- Fecha: 2022-12-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso117.pdf
 - Hash SHA-256: 692761f94f270815ebbc122a555745214b583b80d8e9daefa0cc054f9236bd4c
 
 ## Resumen
 
-nes. Resolución Exenta SII N° 118 del 07 de Diciembre del 2022 Aprueba Addendum al Convenio entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la ley 20.659 y su reglamento. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y Universidad de La Serena. Fuente: Subdirección de Asistencia al Contribuyente. Resolución E…
+tégica y Estudios Tributarios. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y Universidad de La Serena. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

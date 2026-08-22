@@ -11,7 +11,7 @@
 
 ## Resumen
 
-re de 2008. Fuente: Subdirección Normativa Resolución Exenta SII N° 38 del 12 de Abril del 2018 Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Exime a AUTOFIN S.A. de la obligación de timbraje de pagarés establecida en el Articulo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo Fuente: Departamento de Asistencia al Contribuyente Resoluc…
+tégica y Estudios Tributarios Exime a AUTOFIN S.A. de la obligación de timbraje de pagarés establecida en el Articulo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo Fuente: Departamento de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

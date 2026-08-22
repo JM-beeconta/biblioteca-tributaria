@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2022
-- Fecha: 2022-02-25
+- Fecha: 2022-02-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso21.pdf
 - Hash SHA-256: 48d3b00d114d005f2f76b38f95af42c179b9103e1b93e917d1a7c6aec8d6924d
 
 ## Resumen
 
-ttom:0px;'> Resolución Exenta SII N° 22 del 25 de Febrero del 2022 Establece procedimiento para solicitar la devolución o imputación del IVA, intereses, reajustes o multas pagados en exceso por contribuyentes extranjeros sujetos al régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Modifica las resoluciones Ex. SII N°55 y N°67, ambas de 2020. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 20…
+cción de Fiscalización. Modifica las resoluciones Ex. SII N°55 y N°67, ambas de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

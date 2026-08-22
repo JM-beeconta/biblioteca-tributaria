@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 51
 - Año: 2018
-- Fecha: 2018-06-25
+- Fecha: 2018-06-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso51.pdf
 - Hash SHA-256: 067365e46ab946a667abd013e647835858112300731fd20f0d252282e0bf4ff2
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 52 del 25 de Junio del 2018 Exime a instituciones sin fines de lucro que señala, de timbrar certificados por donaciones a que se refiere el n°5 del artículo 1° de la ley n°19.885 y fija condiciones que se indican. Fuente: Subdirección De Asistencia al Contribuyente Actualiza resolución exenta SII N° 126, de 27.12.2016, en lo que dice relación con los contribuyentes obligados a presentar la declaración jurada anual sobre…
+ute;n De Asistencia al Contribuyente Actualiza resolución exenta SII N° 126, de 27.12.2016, en lo que dice relación con los contribuyentes obligados a presentar la declaración jurada anual sobre precios de transferencia, atendida la derogación del Artículo 41 D y la modificación del artículo 41 E, ambos de la Ley sobre Impuesto a la Renta, efectuadas por la Ley N° 21.047. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

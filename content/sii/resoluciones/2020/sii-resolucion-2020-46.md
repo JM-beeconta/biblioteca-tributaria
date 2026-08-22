@@ -11,7 +11,7 @@
 
 ## Resumen
 
-infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 27 de Abril del 2020 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptores electrónicos de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 45 del 24 de Abril del 2…
+ute;n de Asistencia al Contribuyente. Autoriza como receptores electrónicos de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2020
-- Fecha: 2020-02-07
+- Fecha: 2020-02-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso19.pdf
 - Hash SHA-256: 6b67e1a81efd285a03720b3af5df9676cca37d3e38c9b8637bc2eca052ab62f7
 
 ## Resumen
 
-orio de la Ilustrísima Corte de Apelaciones de Valdivia. Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 20 del 07 de Febrero del 2020 Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia Establece obligación de declarar Formularios N°s 29 y 50 a través de internet. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 18 del 06 de Febrero del 2020 Autoriza la Emisión de Documentos Tributario…
+te: Subdirección de Asistencia Establece obligación de declarar Formularios N°s 29 y 50 a través de internet. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

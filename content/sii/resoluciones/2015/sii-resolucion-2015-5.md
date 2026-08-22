@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n y Asistencia de Contibuyentes Resolución Exenta SII N° 06 del 22 de Enero del 2015 Aprueba convenio para la transferencia de información celebrado entre el Servicio de Impuestos Internos y la Superintendencia de Valores y Seguros Fuente: Subdirección de Estudios Resolución Exenta SII N° 05 del 22 de Enero del 2015 Establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas…
+ón de Estudios Resolución Exenta SII N° 05 del 22 de Enero del 2015 Establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del d.l. n°825, de 1974. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

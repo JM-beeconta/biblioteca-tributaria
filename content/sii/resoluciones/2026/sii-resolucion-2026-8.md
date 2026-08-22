@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 09 del 19 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 08 del 19 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistenc…
+cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 08 del 19 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

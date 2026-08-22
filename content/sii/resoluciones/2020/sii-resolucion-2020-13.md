@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2020
-- Fecha: 2020-01-28
+- Fecha: 2020-01-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso13.pdf
 - Hash SHA-256: d9d9844b273320748286af53794912a1e6c3d57ff891dab5718da446c310e71c
 
 ## Resumen
 
-y Estudios Tributarios Resolución Exenta SII N° 14 del 28 de Enero del 2020 Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la DDJJ Formulario N° 1879, en los casos que se señalan Fuente: Subdirección de Fiscalización Modifica Resolución ex. Sii n° 145, de 31-12-2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces no Agrícolas corresp…
+ección de Fiscalización Modifica Resolución ex. Sii n° 145, de 31-12-2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces no Agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

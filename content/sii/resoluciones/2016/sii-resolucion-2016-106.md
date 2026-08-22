@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2016
-- Fecha: 2016-11-24
+- Fecha: 2016-11-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso106.pdf
 - Hash SHA-256: 3262102f55e099619354ea3861b7f6b185c0bd8f18181acbe08ef6ad16a2aec9
 
 ## Resumen
 
-partamento de Asesoría Jurídica Resolución Exenta SII N° 107 del 24 de Noviembre del 2016 Norma Conjunta Sumerintendencia de Pensiones, Servicio de Impuestos Internos y Tesorería general de la República Fuente: Subdirección de Fiscalización Complementa Resolución Exenta SII N° 119 del 29 de diciembre de 2015, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 105 del 11 de Noviembre del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica…
+Fiscalización Complementa Resolución Exenta SII N° 119 del 29 de diciembre de 2015, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

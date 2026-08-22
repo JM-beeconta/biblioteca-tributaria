@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2024
-- Fecha: 2024-03-11
+- Fecha: 2024-04-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso52.pdf
 - Hash SHA-256: 2c385a820b7068fd15cc5c978f065cf7e5d83e8611346aeb90b51c465d4fdd7d
 
 ## Resumen
 
-Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Revoca . Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 52 del 24 de Abril del 2024 Imparte instrucciones sobre ampliación de plazo de pago de c…
+cción de Asuntos Corporativos. Imparte instrucciones sobre ampliación de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispuesto en los numerales 4), 5) y 6) del N° 1 del Decreto Supremo N° 71, de 2024, del Ministerio de Hacienda, que establece medidas de índole tributaria para las comunas afectadas por los incendios en las provincias de Marga Marga y Valparaíso, en la región de Valparaíso, declaradas como zon…
 
 ## Referencias detectadas
 

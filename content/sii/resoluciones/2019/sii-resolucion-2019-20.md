@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 21 del 06 de Febrero del 2019 Autoriza a la SOCIEDAD COLCHONES ROSEN S.A.I.C. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD RENDIC HERMANOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la form…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD RENDIC HERMANOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

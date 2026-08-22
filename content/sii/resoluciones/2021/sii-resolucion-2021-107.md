@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 107
 - Año: 2021
-- Fecha: 2021-09-10
+- Fecha: 2021-09-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso107.pdf
 - Hash SHA-256: d6e5b7205ac6ad5fa925336c4da13a64c5b6f4d9bcf1680b955695bbf10d1115
 
 ## Resumen
 
-N° 41 de 2021 para resolver las reclamaciones de préstamo solidario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 108 del 10 de Septiembre del 2021 Designa responsables de procesos y delega facultad que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre Instituto de Desarrollo Agropecuario y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre Instituto de Desarrollo Agropecuario y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

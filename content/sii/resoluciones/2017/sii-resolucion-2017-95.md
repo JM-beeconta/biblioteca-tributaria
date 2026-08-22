@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 96 del 13 de Octubre del 2017 Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2018. Fuente: Subdirección de Fiscalización Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 94 del 12 de Octubre del 2017 Reemplaza formato e instrucciones de Declaración Jurada Formulario Número 1806, modif…
+Fiscalización Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

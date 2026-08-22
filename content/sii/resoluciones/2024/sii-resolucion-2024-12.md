@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 12
 - Año: 2024
-- Fecha: 2024-01-24
+- Fecha: 2024-01-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso12.pdf
 - Hash SHA-256: 0778edbb6ee3d7090d643c2ddf2d97c7b3f0c44fa4c41fc1388e9961f685fea1
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Contraloría Interna. Resolución Exenta SII N° 13 del 24 de Enero del 2024 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instrucciones de cumplimiento obligatorio para todas las Administradoras de Fondos de Pensiones. Fuente: Servicio de Impuestos Internos. Resolución Exenta SII N° 11 del 17…
+tégica y Estudios Tributarios. Instrucciones de cumplimiento obligatorio para todas las Administradoras de Fondos de Pensiones. Fuente: Servicio de Impuestos Internos.
 
 ## Referencias detectadas
 

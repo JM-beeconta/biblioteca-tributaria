@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2023
-- Fecha: 2023-03-27
+- Fecha: 2023-03-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso37.pdf
 - Hash SHA-256: 67f8e532ab4cc7254b126572bc9bfc1fbf787afae06a7c17553d34c95fb1cf89
 
 ## Resumen
 
-términos que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 38 del 27 de Marzo del 2023 Incorpórase a servicio de cooperación técnica, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Modifica la resolución Ex. SII N° 30 de fecha 25.03.2022 y aplica lo dispuesto en dicha resolución a la restitución del préstamo tasa cero del artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización. Resoluci…
+ute;n de Asistencia al Contribuyente. Modifica la resolución Ex. SII N° 30 de fecha 25.03.2022 y aplica lo dispuesto en dicha resolución a la restitución del préstamo tasa cero del artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

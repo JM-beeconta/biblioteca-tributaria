@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 91 del 25 de Julio del 2019 Exime a FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS &ldquo;PAR&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD COMERCIALIZADORA S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la f…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD COMERCIALIZADORA S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

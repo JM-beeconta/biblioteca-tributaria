@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 109
 - Año: 2013
-- Fecha: 2013-12-30
+- Fecha: 2013-12-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso109.pdf
 - Hash SHA-256: f18e16837bbd4692c68591ff6558349b38fcb1ae60a2c7a18512d751f8ca19b0
 
 ## Resumen
 
-acute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 110 del 30 de Diciembre del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Atención y Asistencia de Contribuyentes Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 108 del 27 de Diciembre del 2013 Fija Valores de terrenos y construcciones, y definiciones técnicas para el reavalúo de los bienes raíces de l…
+cia de Contribuyentes Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

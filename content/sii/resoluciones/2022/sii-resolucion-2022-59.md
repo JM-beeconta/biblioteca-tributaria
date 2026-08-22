@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 60 del 12 de Julio del 2022 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación de Asistencia Legal del Colegio Médico. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se Señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución…
+tégica y Estudios Tributarios. Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se Señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

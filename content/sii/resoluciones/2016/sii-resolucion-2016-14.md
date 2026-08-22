@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i> Resolución Exenta SII N° 15 del 11 de Marzo del 2016 Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 13 del 10 de Marzo del 2016 Reorganiza las Unidades…
+Estudios Tributarios Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

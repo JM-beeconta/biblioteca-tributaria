@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2026
-- Fecha: 2026-07-21
+- Fecha: 2026-07-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso95.pdf
 - Hash SHA-256: 69ed2d19aa58ccba7cbe02bb63b1b6a5733dfadad0a556ea7caca32c54f32101
 
 ## Resumen
 
-siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 96 del 21 de Julio del 2026 Complementa y rectifica listado anexo de la Resolución Ex. N° 6 de 2026. Fuente: Subdirección de Avaluaciones. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 94 del 15 de Julio del 2026 Ajusta nómina &ldquo;co…
+Subdirección de Avaluaciones. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

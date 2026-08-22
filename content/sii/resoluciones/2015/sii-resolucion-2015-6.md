@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2015
-- Fecha: 2015-01-30
+- Fecha: 2015-01-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso6.pdf
 - Hash SHA-256: 7e26f7d3f5ec84b69adbd3b90c3c060a7592e6fa13b14ebd4af3da6263e89a4b
 
 ## Resumen
 
-dirección de Avaluaciones Resolución Exenta SII N° 07 del 30 de Enero del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contibuyentes Resolución Exenta SII N° 06 del 22 de Enero del 2015 Aprueba convenio para la transferencia de información celebrado entre el Servicio de Impuestos Internos y la Superintendencia de Valores y Seguros Fuente: Subdirección de Estudios Resolución Exenta SII N° 05 del 22…
+ncia de Contibuyentes Resolución Exenta SII N° 06 del 22 de Enero del 2015 Aprueba convenio para la transferencia de información celebrado entre el Servicio de Impuestos Internos y la Superintendencia de Valores y Seguros Fuente: Subdirección de Estudios
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stos Internos y la Superintendencia de Bancos e Instituciones Financieras. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 03 del 14 de Enero del 2019 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 14 de Enero del 2019 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el…
+Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 14 de Enero del 2019 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de abonos recibidos. Declaraciones juradas formularios N°s 1955 y 1959. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 108 del 26 de Agosto del 2025 Modifica Resolución Exenta SII N° 125 de 2020, sobre declaración jurada formulario N° 1952. Fuente: Subdirección de Fiscalización. Establece la obligación de las sociedades administradoras de fondos de inversión, de fondos mutuos, de fondos de inversión privados y las instituciones intermediarias que se señalan, de presentar la declaración jurada form…
+cción de Fiscalización. Establece la obligación de las sociedades administradoras de fondos de inversión, de fondos mutuos, de fondos de inversión privados y las instituciones intermediarias que se señalan, de presentar la declaración jurada formulario Nº 1922 y deja sin efecto las resoluciones Ex. SII N° 20 de 2015, N° 99 de 2017 y N° 129 de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

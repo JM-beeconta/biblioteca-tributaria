@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 109
 - Año: 2022
-- Fecha: 2022-11-25
+- Fecha: 2022-11-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso109.pdf
 - Hash SHA-256: 5e81caa7c6286ddc10f614056366bc61fd84bcc5ee535a110a7544ded0af7c76
 
 ## Resumen
 
-0px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 110 del 25 de Noviembre del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Concesiones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Addendum al Convenio de Colaboración entre el Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estrat…
+tégica y Estudios Tributarios. Aprueba Addendum al Convenio de Colaboración entre el Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

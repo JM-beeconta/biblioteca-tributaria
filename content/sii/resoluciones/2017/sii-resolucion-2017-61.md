@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2017
-- Fecha: 2017-07-14
+- Fecha: 2017-07-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso61.pdf
 - Hash SHA-256: 580eb7b9fb1b962eba50de5b63d942863b3ff98f56a3387654f7ce1833eb19ed
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 62 del 14 de Julio del 2017 Aprueba Acuerdo sobre Intercambio de Información entre Servicio Nacional De Aduanas y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Crea registro de compras y ventas; exime a contribuyentes que se indican de la obligación de llevar libro de compras y ventas, o solamente de compras; y deroga resoluciones que se indican. Fuente: Subdirección de Fiscal…
+Estudios Tributarios Crea registro de compras y ventas; exime a contribuyentes que se indican de la obligación de llevar libro de compras y ventas, o solamente de compras; y deroga resoluciones que se indican. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

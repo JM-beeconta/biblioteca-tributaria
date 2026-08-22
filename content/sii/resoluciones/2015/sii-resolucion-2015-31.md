@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2015
-- Fecha: 2015-03-30
+- Fecha: 2015-03-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso31.pdf
 - Hash SHA-256: 538de9a53a8305328c8eb7dda3def9fbb46486a8377e3432bfd56d10b17798bb
 
 ## Resumen
 
-de Análisis de Jurisprudencia Resolución Exenta SII N° 32 del 30 de Marzo del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las regiones de Antofagasta, Atacama y Coquimbo Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 30 del 24 de Marzo…
+mplimiento Tributario Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las regiones de Antofagasta, Atacama y Coquimbo Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

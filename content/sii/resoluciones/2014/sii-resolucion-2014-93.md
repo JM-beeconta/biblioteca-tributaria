@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2014
-- Fecha: 2014-09-26
+- Fecha: 2014-09-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso93.pdf
 - Hash SHA-256: 1c169156958c23d06a988b53727c9b7eacfed45cd83cfe4c3019de746247bc8d
 
 ## Resumen
 
-Resolución Exenta SII N° 94 del 26 de Septiembre del 2014 Crea Oficina de Administración de Riesgos y Procesos Institucionales en la Subdirección de Contraloría Interna. fija su dependencia y señala sus funciones Fuente: Subdirección Contraloría Interna Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 92 del 15 de Septiembre del 2014 Complementa Resolución Exenta SII N°1…
+aloría Interna Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

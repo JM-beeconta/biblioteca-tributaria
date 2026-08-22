@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2013
-- Fecha: 2013-03-28
+- Fecha: 2013-03-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso37.pdf
 - Hash SHA-256: d130e15fc325d3eb81acbcdba94c3afe1821bd3c3a985e56d3da9a4e4e5178e2
 
 ## Resumen
 
-queñas Empresas. Resolución Exenta SII N° 38 del 28 de Marzo del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican Fuente: Depto. Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 36 del 27 de Marzo del 2013 Delega facultades que indica en el Subdirector de Avaluacione…
+ia de Contribuyentes. Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican Fuente: Depto. Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

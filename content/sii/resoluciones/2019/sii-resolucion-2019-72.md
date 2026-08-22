@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2019
-- Fecha: 2019-06-07
+- Fecha: 2019-06-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso72.pdf
 - Hash SHA-256: d69483fd90de2658ad45d35c4219f0ef1fe4c188a60015e051413f0c5a2fa789
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 73 del 07 de Junio del 2019 Autoriza al Conservador de Bienes Raíces de Melipilla, Sra. ROSEMARIE DE LOURDES MERY RICCI, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración Servicio de Impuestos Internos y Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Ex…
+ute;n de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración Servicio de Impuestos Internos y Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 143
 - Año: 2021
-- Fecha: 2021-12-31
+- Fecha: 2021-12-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso143.pdf
 - Hash SHA-256: b5c2532142448721924bc641415d70de2e8310fd4d10713cfe1e810527088a7e
 
 ## Resumen
 
-ños Anteriores Resolución Exenta SII N° 144 del 31 de Diciembre del 2021 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 142 del 30 de Diciembre del 2021 Fija Nómina De Grandes Contribuyentes Fuente: Dirección De Grandes Cont…
+ute;n de Asistencia al Contribuyente. Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Comercialización Se Ha Vuelto Inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 67 del 28 de Agosto del 2018 Autoriza al Notario Sr. Juan Carlos San Martin Molina, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Archivero Judicial de Santiago, Sr. Julian Miranda Osses, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exe…
+ute;n de Asistencia al Contribuyente Autoriza al Archivero Judicial de Santiago, Sr. Julian Miranda Osses, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

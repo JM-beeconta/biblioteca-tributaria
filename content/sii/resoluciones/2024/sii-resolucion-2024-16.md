@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2024
-- Fecha: 2024-01-31
+- Fecha: 2024-01-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso16.pdf
 - Hash SHA-256: 48e9c768392b87fca9cc58f3987aa2e889aa50d3888e301849dd15b9379a2365
 
 ## Resumen
 
-21.647. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 17 del 31 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Santa Cruz. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Designa secretaria titular en tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Subdirección Jur…
+tégica y Estudios Tributarios. Designa secretaria titular en tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

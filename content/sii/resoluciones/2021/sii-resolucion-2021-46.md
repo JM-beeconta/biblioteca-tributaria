@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2021
-- Fecha: 2021-05-07
+- Fecha: 2021-05-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso46.pdf
 - Hash SHA-256: 3f80016188fe8890c6da1cd1edc6e44d9049365a057d007a76e2ea7f410e06b6
 
 ## Resumen
 
-o en el articulo 7º de la ley nº 21.323. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 07 de Mayo del 2021 Habilita plataforma y regula el procedimiento de solicitud del préstamo solidario establecido en el art. 9° de la ley n°21.323. Fuente: Subdirección de Fiscalización. Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones... Fuente: Subdirección de asuntos corporativos R…
+cción de Fiscalización. Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones... Fuente: Subdirección de asuntos corporativos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2013
-- Fecha: 2013-02-19
+- Fecha: 2013-02-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso19.pdf
 - Hash SHA-256: 9c75fe26edc986d2dd17dbce198d138e6d559a511264725e4b299eb033c6812c
 
 ## Resumen
 
-pequeñas empresas Resolución Exenta SII N° 20 del 19 de Febrero del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta N° 19, del 12 de febrero de 2013. Rectifica lista anexa que contiene resolución N° 04 exenta, de 2013. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 18 del 12 de Febrero del 2013 Autoriza a Autogasco S. A. para emitir comprobantes de e…
+cia de Contribuyentes Resolución Exenta N° 19, del 12 de febrero de 2013. Rectifica lista anexa que contiene resolución N° 04 exenta, de 2013. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

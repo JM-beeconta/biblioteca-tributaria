@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 139 del 13 de Diciembre del 2023 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Vivienda y Urbanismo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Vivienda y Urbanismo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

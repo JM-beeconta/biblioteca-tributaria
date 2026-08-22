@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2024
-- Fecha: 2024-07-30
+- Fecha: 2024-07-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso75.pdf
 - Hash SHA-256: 18b601cf44ecf4a8e3533a0c41c62c47eea38c491c0c7ecd084d9f187a06d9c7
 
 ## Resumen
 
-px;'> Resolución Exenta SII N° 76 del 30 de Julio del 2024 Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas contenidas en el registro rai, que establece el artículo décimo y undécimo de la ley N° 21.681. Modifica resolución exenta SII N°27 del 25 de febrero del 2009. Fuente: Subdirección de Fiscalización. Deja sin efecto la Resolución Ex. SII n°123 de 2021, y actualiza requisitos para la emisión de guías de despacho y fac…
+cción de Fiscalización. Deja sin efecto la Resolución Ex. SII n°123 de 2021, y actualiza requisitos para la emisión de guías de despacho y facturas, de los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2026
-- Fecha: 2026-03-25
+- Fecha: 2026-03-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso43.pdf
 - Hash SHA-256: c876d5a6f0190f14f6824f7e09acd8fe02113bb472eb15f44beaad47bbd8e66b
 
 ## Resumen
 
-aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 44 del 25 de Marzo del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 42 del…
+cute;n de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

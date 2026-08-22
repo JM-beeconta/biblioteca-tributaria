@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 97
 - Año: 2026
-- Fecha: 2026-07-23
+- Fecha: 2026-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso97.pdf
 - Hash SHA-256: cb977b3f514460e01aff9c6d12ab766a6f0c17194cb5f305f9e8ffa01b552a6f
 
 ## Resumen
 
-santiago, libertador general bernardo o&rsquo;higgins, maule, ñuble, biobío, la araucanía y los ríos. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 98 del 23 de Julio del 2026 Complementa resolución ex. Sii n° 95, de 2026 Fuente: Subdirección de Fiscalización Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 96 del 21 de Julio del 2026 Comp…
+ección de Fiscalización Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

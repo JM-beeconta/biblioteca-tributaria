@@ -11,7 +11,7 @@
 
 ## Resumen
 
-igualdad de género y conciliación de la vida laboral, familiar y personal del servicio de impuestos internos. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 23 del 03 de Marzo del 2023 Reemplaza anexo I de resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa. Establece procedimiento para solicitar condonación de los impuestos que graven los pagos o remesas realizados al exterior, conforme con lo dispuesto en el decreto N° 148, de fecha 08.02.2023, del Ministerio…
+uente: Subdirección Normativa. Establece procedimiento para solicitar condonación de los impuestos que graven los pagos o remesas realizados al exterior, conforme con lo dispuesto en el decreto N° 148, de fecha 08.02.2023, del Ministerio de Hacienda, y delega facultades que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

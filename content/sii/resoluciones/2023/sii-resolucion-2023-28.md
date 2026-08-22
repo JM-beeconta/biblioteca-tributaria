@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 29 del 15 de Marzo del 2023 Instruye forma en que se verificará el inicio de las obras para aplicar el régimen transitorio del crédito especial para empresas constructoras y revisión de oficio de la sobretasa del artículo 8° de la Ley N° 17.235 Fuente: Subdirección de Avaluaciones. Encarga funciones de secretaría general a funcionaria que indica, designa subrogante y deja sin efecto la resolución que señala. Fuente: Subdirección de Asuntos Corporati…
+Subdirección de Avaluaciones. Encarga funciones de secretaría general a funcionaria que indica, designa subrogante y deja sin efecto la resolución que señala. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

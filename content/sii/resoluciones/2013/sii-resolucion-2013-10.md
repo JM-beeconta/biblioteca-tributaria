@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Depto. Atención y Asistencia al Contribuyentes. Resolución Exenta SII N° 11 del 23 de Enero del 2013 Reorganiza Áreas Jurídicas de Direcciones Regionales que indica. Fuente: Depto. de Asesoría Jurídica. Sustituye estructura y contenido del Formulario N° 50 sobre declaración y Pago Simultáneo de impuestos. Fuente: Fiscalización Internancional. Resolución Exenta SII N° 09 del 23 de Enero del 2013 Autoriza al contribuyente SPF S.A., RUT N° 76.121.871-9, para operar un siste…
+te;a Jurídica. Sustituye estructura y contenido del Formulario N° 50 sobre declaración y Pago Simultáneo de impuestos. Fuente: Fiscalización Internancional.
 
 ## Referencias detectadas
 

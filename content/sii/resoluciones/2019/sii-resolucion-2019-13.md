@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2019
-- Fecha: 2019-02-05
+- Fecha: 2019-01-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso13.pdf
 - Hash SHA-256: 93a5089db4f2d6966b3d6b27a392d4ee0f731e91ed0fb81b0f8d5f1e6d17955c
 
 ## Resumen
 
-que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 14 del 05 de Febrero del 2019 Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Insolvencia y Reemprendimiento y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios T…
+tégica y Estudios Tributarios Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Insolvencia y Reemprendimiento y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

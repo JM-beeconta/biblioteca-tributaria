@@ -11,7 +11,7 @@
 
 ## Resumen
 
-que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 63 del 22 de Mayo del 2025 Autoriza a Banco Santander Chile, Rut n° 97.036.000-k, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección de Presupuestos y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente Resoluci…
+ección de Fiscalización Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección de Presupuestos y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

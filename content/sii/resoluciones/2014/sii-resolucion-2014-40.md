@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='margin-bottom:0px;'> Resolución Exenta SII N° 41 del 25 de Abril del 2014 Establece forma y plazo para presentar Declaración Jurada Anual que indica. A los contribuyentes pertenecientes a la nómina de grandes contribuyentes y reemplaza resolución Exenta N°03, de 2012 Fuente: Departamento Medianas y Grandes Empresas Delega facultades que indica Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 39 del 17 de Abril del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala…
+as y Grandes Empresas Delega facultades que indica Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

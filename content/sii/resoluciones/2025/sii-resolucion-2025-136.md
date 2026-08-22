@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ernos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 137 del 08 de Octubre del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación Superior y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Tecnologías de la Información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 136, de 2023. Fuente: Subdire…
+ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Tecnologías de la Información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 136, de 2023. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

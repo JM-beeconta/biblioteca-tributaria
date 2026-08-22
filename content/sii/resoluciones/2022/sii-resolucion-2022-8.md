@@ -11,7 +11,7 @@
 
 ## Resumen
 
-reso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 09 del 31 de Enero del 2022 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 31 de Enero del 2022 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Av…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 31 de Enero del 2022 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

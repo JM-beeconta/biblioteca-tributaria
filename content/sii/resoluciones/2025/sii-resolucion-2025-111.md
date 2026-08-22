@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Fiscalización. Resolución Exenta SII N° 112 del 26 de Agosto del 2025 Establece obligación de presentar anualmente información sobre fondos de inversión públicos, privados o fondos mutuos y saldos al cierre del ejercicio de sus partícipes o aportantes. Declaración jurada formulario N° 1962. Fuente: Subdirección de Fiscalización. Establece obligación de presentar anualmente información sobre bienes entregados en leasing operativo o financiero. Declaración jurada formulario N° 1961. Fuente: Subdirección de…
+cción de Fiscalización. Establece obligación de presentar anualmente información sobre bienes entregados en leasing operativo o financiero. Declaración jurada formulario N° 1961. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2018
-- Fecha: 2018-10-03
+- Fecha: 2018-10-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso89.pdf
 - Hash SHA-256: db60408b9cbdf2e56434ff11dc8d58ad6fce94d25d8e8b7549fb95dcb4985bc0
 
 ## Resumen
 
-/p> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 90 del 03 de Octubre del 2018 Autoriza al Conservador de Bienes Raíces de Arica, Sr. Fernando Rafael Manterola Salas, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 88 del 28…
+ute;n de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

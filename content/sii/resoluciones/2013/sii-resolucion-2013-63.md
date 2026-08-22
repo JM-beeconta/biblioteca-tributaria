@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2013
-- Fecha: 2013-06-20
+- Fecha: 2013-06-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso63.pdf
 - Hash SHA-256: 71b6e9ba11008723f5e867332a7dd4bad0b916e8701847675e01ad10b6d465e4
 
 ## Resumen
 
-x;'> Resolución Exenta SII N° 64 del 20 de Junio del 2013 Modifica Res. Ex. SII N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la Boleta de ventas y Servicios por el comprobante emitido por la empresa Transbank S.A. a contribuyentes que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza emisor de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exent…
+ia de Contribuyentes. Autoriza emisor de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

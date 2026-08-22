@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2022
-- Fecha: 2022-02-17
+- Fecha: 2022-02-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso15.pdf
 - Hash SHA-256: 73ba09fbdd3e7343260fffdc6a1fe5ad4519f7ad0968e6789857847f8f7dd0fd
 
 ## Resumen
 
-cute;n que se señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 16 del 17 de Febrero del 2022 Incorpórase a defensoría del contribuyente, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Información que debe proporcionar el gestor de un contrato de asociación o cuentas en participación u otro encargo fiduciario, en el formulario 22 sobre declaración de impuestos anuales a la renta. Fuente: Subd…
+ute;n de Asistencia al Contribuyente. Información que debe proporcionar el gestor de un contrato de asociación o cuentas en participación u otro encargo fiduciario, en el formulario 22 sobre declaración de impuestos anuales a la renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

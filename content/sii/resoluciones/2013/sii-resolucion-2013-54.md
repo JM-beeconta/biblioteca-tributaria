@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2013
-- Fecha: 2013-06-06
+- Fecha: 2013-06-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso54.pdf
 - Hash SHA-256: b0cfb43d03b845a0ef45255a352dc3dd1bace8b443c5eb4b12bd328ca4b305c5
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 55 del 06 de Junio del 2013 Autoriza a Directores Regionales delegar facultades que indica. Fuente: Departamento de Asesoría Jurídica. Reemplaza oficina de Bienestar y Servicio de las Personas, contenida en el dispositivo 3° de la resolución N° 143, de 2011, fijando nueva denominación a la Oficina dependiente del Departamento Subdirección de Recursos Humanos que indica. Fuente: Subdirección de Recursos Humanos. Resolución Exenta SII N° 53 del 31 de May…
+te;a Jurídica. Reemplaza oficina de Bienestar y Servicio de las Personas, contenida en el dispositivo 3° de la resolución N° 143, de 2011, fijando nueva denominación a la Oficina dependiente del Departamento Subdirección de Recursos Humanos que indica. Fuente: Subdirección de Recursos Humanos.
 
 ## Referencias detectadas
 

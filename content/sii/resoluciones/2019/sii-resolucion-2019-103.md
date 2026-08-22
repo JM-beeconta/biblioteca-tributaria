@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2019
-- Fecha: 2019-09-27
+- Fecha: 2019-09-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso103.pdf
 - Hash SHA-256: 47e0a3cc33cec3e12a667c108939d69c541a3df48b0d15630ae28c2f9fbb38e3
 
 ## Resumen
 
-de caracterización tributaria global. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 104 del 27 de Septiembre del 2019 Aprueba participación como servicio piloto en el proyecto de calidad de la auditoría interna del sector público. Fuente: Subdirección Contraloría Interna Complementa Nómina de Grandes Contribuyentes establecida en la Resolución Ex. SII N° 147, de fecha 27 de diciembre de 2018. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 102 del 06 de Septiembre del 2019 Cam…
+ón Contraloría Interna Complementa Nómina de Grandes Contribuyentes establecida en la Resolución Ex. SII N° 147, de fecha 27 de diciembre de 2018. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

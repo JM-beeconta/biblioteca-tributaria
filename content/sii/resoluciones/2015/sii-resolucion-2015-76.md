@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 76
 - Año: 2015
-- Fecha: 2015-09-23
+- Fecha: 2015-09-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso76.pdf
 - Hash SHA-256: dc6312bf5f3a326755c0176ca3a21dee21eac6280d8b2a37c8d7c0741f23b93f
 
 ## Resumen
 
-y Asistencia de Contribuyentes Resolución Exenta SII N° 77 del 23 de Septiembre del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica Resolución Ex. N° 08, de 28 de enero de 2003.- Fuente: Subdirección Contraloria Interna Resolución Exenta SII N° 75 del 16 de Septiembre del 2015 Modifica Resolución Ex. SII N°59, de 10 de julio de 2015, que crea la Unidad de Providencia dependien…
+mplimiento Tributario Modifica Resolución Ex. N° 08, de 28 de enero de 2003.- Fuente: Subdirección Contraloria Interna
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2019
-- Fecha: 2019-05-29
+- Fecha: 2019-05-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso66.pdf
 - Hash SHA-256: 89120de52b0221bfc2d47a12848373ab619077cb8753ff8722e5a898072a1a2d
 
 ## Resumen
 
-gún lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 67 del 29 de Mayo del 2019 Fija coeficientes de ajuste para la tasación de obras civiles de hormigón armado. Fuente: Subdirección de Avaluaciones Delega facultades que indica, relativas al pago de viáticos. Fuente: Subdirección de Administración Resolución Exenta SII N° 65 del 27 de Mayo del 2019 Autoriza a la SOCIEDAD ENTEL PCS TELECOMUNICACIONES S.A. para cumplir…
+Subdirección de Avaluaciones Delega facultades que indica, relativas al pago de viáticos. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

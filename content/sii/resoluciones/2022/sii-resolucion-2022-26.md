@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2022
-- Fecha: 2022-03-09
+- Fecha: 2022-03-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso26.pdf
 - Hash SHA-256: 7836fc46b9a22b32d29f92084fb28b9e09afa50fbd2c483d3573da03528dcc5f
 
 ## Resumen
 
-cción de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 27 del 09 de Marzo del 2022 Instruye sobre la obligación de informar los activos relevantes del empresario que se incorporan al giro de la empresa individual de acuerdo a lo dispuesto en el inciso cuarto del artículo 68 del Código Tributario. Fuente: Subdirección Jurídica. Reorganiza las unidades que conforman el departamento Subdirección de Avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto Res. Ex. SII N° 37, 2…
+Subdirección Jurídica. Reorganiza las unidades que conforman el departamento Subdirección de Avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto Res. Ex. SII N° 37, 2016. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

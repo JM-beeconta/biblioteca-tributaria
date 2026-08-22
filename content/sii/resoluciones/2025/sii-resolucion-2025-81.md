@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2025
-- Fecha: 2025-07-03
+- Fecha: 2025-06-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso81.pdf
 - Hash SHA-256: 8108cf760f30cd30c00383f8bd332bad44993854547f0fe83f82a7c6ad40f8d8
 
 ## Resumen
 
-e: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 82 del 03 de Julio del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Unidad Administradora de los Tribunales Tributarios y Aduaneros, y del Tribunal de Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la Resolución Exenta SIIi N°41 de 2025, que dispone forma de suscripción de la Declaración Jurada exigida por la…
+ute;n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la Resolución Exenta SIIi N°41 de 2025, que dispone forma de suscripción de la Declaración Jurada exigida por las circulares N° 39 de 1991 y N° 27 de 2007. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

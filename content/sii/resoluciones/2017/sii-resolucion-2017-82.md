@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Resolución Exenta SII N° 83 del 31 de Agosto del 2017 Establece forma y plazo para presentar la declaración jurada anual sobre movimientos y saldos de los registros de rentas empresariales del régimen de renta atribuida a que se refiere la letra a) del artículo 14 de la ley sobre impuesto a la renta Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario Establece forma y plazo para presentar Declaración Jurada Anual sobre determinación de la renta líquida imponible, renta atribuida a los propiet…
+mplimiento Tributario Establece forma y plazo para presentar Declaración Jurada Anual sobre determinación de la renta líquida imponible, renta atribuida a los propietarios, titulares, socios, accionistas de Spa o comuneros, Formulario N° 1923 e informar y certificar lo que se indica Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;'> Resolución Exenta SII N° 122 del 26 de Diciembre del 2014 Establece la Obligación de informar al Consejo Nacional de La Cultura y Las Artes, acerca de los beneficiarios de las donaciones con fines culturales establecidas en el artículo 8° de la ley N°18.985. Fuente: Departamento de Sistemas de Fiscalización Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes que comercialicen máquinas expendedoras, reemplazando resolutivo séptimo de la Resolución Ex. SII N° 63, de…
+Fiscalización Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes que comercialicen máquinas expendedoras, reemplazando resolutivo séptimo de la Resolución Ex. SII N° 63, del 30.06.2005 Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

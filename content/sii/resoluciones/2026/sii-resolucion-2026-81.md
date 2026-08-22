@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2026
-- Fecha: 2026-06-15
+- Fecha: 2026-06-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso81.pdf
 - Hash SHA-256: 2c3cb1444917e66434966f580d4045600d2697dbb8d6f8da16c1adb2f19689ac
 
 ## Resumen
 
->Establece régimen voluntario de cambio total del sujeto de derecho del IVA en servicios agrícolas prestados a terceros. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 82 del 15 de Junio del 2026 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Fija condiciones para autorizar excepcionalmente el traslado de funcionarios a través de vehículos institucionales y servicios de taxis y radiotaxis. Y delega esta facultad en funcionarios que indica Fuente: S…
+Subdirección Jurídica. Fija condiciones para autorizar excepcionalmente el traslado de funcionarios a través de vehículos institucionales y servicios de taxis y radiotaxis. Y delega esta facultad en funcionarios que indica Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

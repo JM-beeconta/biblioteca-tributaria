@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2018
-- Fecha: 2018-10-18
+- Fecha: 2018-10-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso102.pdf
 - Hash SHA-256: 80a6b703d30ac0d17962e9fe2bf9f36fd094955ebb8b7e5c973441b46abbd7f7
 
 ## Resumen
 
-imentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 103 del 18 de Octubre del 2018 Incorpórase INTERFACTOR S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 101 del 11 de Octubre del 20…
+ute;n de Asistencia al Contribuyente Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

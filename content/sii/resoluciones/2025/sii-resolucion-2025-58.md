@@ -11,7 +11,7 @@
 
 ## Resumen
 
-icos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 59 del 06 de Mayo del 2025 Establece procedimiento para efectuar denuncias anónimas de conformidad al artículo 100 quáter del código tributario Fuente: Subdirección Jurídica. Establece parámetros objetivos para determinar la cooperación eficaz, en los términos del artículo 100 ter del código tributario Fuente: Subdirección Jurídica. Resolución Exenta SII N° 57 del 05 de Mayo del 2025 Otorga cond…
+Subdirección Jurídica. Establece parámetros objetivos para determinar la cooperación eficaz, en los términos del artículo 100 ter del código tributario Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

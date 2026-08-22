@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Oficina de Apoyo Legal y Administrativo Resolución Exenta SII N° 15 del 31 de Enero del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones del Maule y Bio Bio. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 13 de…
+mplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones del Maule y Bio Bio. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

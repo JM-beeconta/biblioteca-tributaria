@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 5
 - Año: 2018
-- Fecha: 2018-01-18
+- Fecha: 2018-01-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso5.pdf
 - Hash SHA-256: 2dc708139090b098ee2134ef15e499b1ef5669b1279a2f9999b2841bd91e27cc
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 06 del 18 de Enero del 2018 Autoriza reemplazo de la obligación de entrega de boletas electrónicas por el envío por correo electrónico a la empresa ENTEL PCS TELECOMUNICACIONES S.A. en la forma y condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 15 de Enero del 2018 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóvil…
+ute;n de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 15 de Enero del 2018 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2021
-- Fecha: 2021-02-24
+- Fecha: 2021-02-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso19.pdf
 - Hash SHA-256: ef1440fe3b7ca4f5de2220d3c62057bd9cfa32d155205e172bcd302844e44fa3
 
 ## Resumen
 
-16. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 20 del 24 de Febrero del 2021 Refunde y reestructura departamento subdirección de asistencia al contribuyente. Deja sin efecto res. Ex N° 98, de 2014, Res. Ex 65 de 2016 y N° 31, de 2018. Fuente: Subdirección de Asistencia al Contribuyente. Establece formato de los registros tributarios de rentas empresariales que deben llevar los contribuyentes del régimen de tributación de la letra a) de artículo 14 de la Ley sobre Impuesto a la Re…
+ute;n de Asistencia al Contribuyente. Establece formato de los registros tributarios de rentas empresariales que deben llevar los contribuyentes del régimen de tributación de la letra a) de artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

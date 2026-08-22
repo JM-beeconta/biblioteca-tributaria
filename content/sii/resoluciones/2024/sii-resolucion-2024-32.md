@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2024
-- Fecha: 2024-03-11
+- Fecha: 2024-03-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso32.pdf
 - Hash SHA-256: 49b417e4c6c2516e4b5b8b931ffefd313354288cc0513b2b72ca91d04cf3d06b
 
 ## Resumen
 
-I N° 33 del 11 de Marzo del 2024 Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones. Inciso segundo del Artículo 3° e inciso segundo del artículo 4°de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Fuente: Subdirección de Asuntos Corporativos. Crea registro de contribuyentes residentes o domiciliados en Isla de Pas…
+cción de Asuntos Corporativos. Crea registro de contribuyentes residentes o domiciliados en Isla de Pascua. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

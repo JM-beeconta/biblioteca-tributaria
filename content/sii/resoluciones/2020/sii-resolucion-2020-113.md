@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 113
 - Año: 2020
-- Fecha: 2020-09-16
+- Fecha: 2020-09-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso113.pdf
 - Hash SHA-256: d8d0ef7a24a2aeaafcebb2656874fb73f7ef9d7e3ca0fc47fb921bc9d0fffecb
 
 ## Resumen
 
-Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 114 del 16 de Septiembre del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Modifica la resolución Exenta SII N°107 de 2017 y la estructura e instrucciones de la declaración jurada anual sobre operaciones en chile por medio de formulario N°1946. Fuente: Subdirección de Fiscalización. Resolució…
+ute;n de Asistencia al Contribuyente. Modifica la resolución Exenta SII N°107 de 2017 y la estructura e instrucciones de la declaración jurada anual sobre operaciones en chile por medio de formulario N°1946. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

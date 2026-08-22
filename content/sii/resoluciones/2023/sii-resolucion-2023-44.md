@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eroga resolución Ex. SII N°58, de 28.06.2022. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 45 del 06 de Abril del 2023 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Cobquecura. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SI…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Cobquecura. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

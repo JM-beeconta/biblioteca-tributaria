@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 23
 - Año: 2020
-- Fecha: 2020-02-14
+- Fecha: 2020-02-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso23.pdf
 - Hash SHA-256: a05c74d94553a9706f20e95e261f0b08ad8597547a840e7e62558b18a9a8d881
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 24 del 14 de Febrero del 2020 Establece Sistema para la determinación del Crédito Fiscal del Artículo 23 del D.L. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios en los casos que indica. Fuente: Subdirección de Fiscalización. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exent…
+cción de Fiscalización. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2021
-- Fecha: 2021-02-15
+- Fecha: 2021-02-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso14.pdf
 - Hash SHA-256: 0e6e43aa978e933e5eefa9bbfd3d281d2edbb753289ebed85a1084569055683d
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Secretaría General. Resolución Exenta SII N° 15 del 15 de Febrero del 2021 Establece la forma en que este servicio pondrá a disposición la información que debe proporcionar a los contribuyentes acogidos al artículo 14 letra d) N°3 y N°8, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Establece los requisitos y formato que debe cumplir el libro de ingresos y egresos y el libro de caja, que se exige llevar a los contribuyentes acogidos al régimen de tra…
+cción de Fiscalización. Establece los requisitos y formato que debe cumplir el libro de ingresos y egresos y el libro de caja, que se exige llevar a los contribuyentes acogidos al régimen de transparencia tributaria del artículo 14 letra d) N°8, pro pyme transparente, y a los contribuyentes del régimen pro pyme en base a retiros o distribuciones, del artículo 14 letra d) N°3, que decidan acogerse a contabilidad simplificada, ambos de la Ley sobre Impuesto a la Renta. Deja sin efecto resolución Ex. SII N° 129, de f…
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2022
-- Fecha: 2022-04-19
+- Fecha: 2022-04-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso32.pdf
 - Hash SHA-256: 278a13a926ab9511008327dc0fd7c79b24ff4e6a746b14b61d84573501abb778
 
 ## Resumen
 
-de propiedad del Servicio de Impuestos Internos. Fuente: Gabinete. Resolución Exenta SII N° 33 del 19 de Abril del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad en la jefatura que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 31 del 11 de Abril del 2022 Autoriza a ederend chile s.a rut n° 96.781.350-8, a emitir documentos tributarios…
+tégica y Estudios Tributarios. Delega facultad en la jefatura que indica. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

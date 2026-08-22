@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 19 del 06 de Febrero del 2019 Autoriza a la sociedad OK MARKET S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la sociedad FALABELLA RETAIL S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la for…
+ute;n de Asistencia al Contribuyente Autoriza a la sociedad FALABELLA RETAIL S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

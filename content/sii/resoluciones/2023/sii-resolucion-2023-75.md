@@ -11,7 +11,7 @@
 
 ## Resumen
 
-imera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de Coyhaique. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 76 del 28 de Junio del 2023 Modifica resolución exenta SII Nº 128 de 2022, en los términos que indica Fuente: Subdirección de Fiscalización. Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 74 del 28 de Junio del 2023 Reorganiza y fija el ámbito de competencias de las unidades que conforman la direcció…
+cción de Fiscalización. Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

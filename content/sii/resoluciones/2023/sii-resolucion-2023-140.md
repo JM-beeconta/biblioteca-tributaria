@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 141 del 13 de Diciembre del 2023 Modifica la resolución exenta SII N°103 de 31 de agosto de 2021 sobre registro anual sobre retenciones efectuadas conforme a los artículos 42 N° 1 y 74 Nº 1 de la ley de impuesto a la renta. Fuente: Subdirección de Fiscalización. Exime a porsche Volkswagen servicios financieros chile spa de la obligación de timbraje de pagarés, establecida en el artículo 17 inciso 2° del D.L. N° 3.475 de,…
+cción de Fiscalización. Exime a porsche Volkswagen servicios financieros chile spa de la obligación de timbraje de pagarés, establecida en el artículo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

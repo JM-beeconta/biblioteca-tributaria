@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2023
-- Fecha: 2023-04-06
+- Fecha: 2023-03-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso41.pdf
 - Hash SHA-256: 785ddcc0d373b8f304f0fdb7789ff83957fa280c529d8b7dbb7e4400fa95f380
 
 ## Resumen
 
-de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 42 del 06 de Abril del 2023 Establece procedimientos de solicitud y emisión de certificados de cumplimiento de obligaciones tributarias, en los casos de cambios de directores, gerente general, accionistas y determinados cambios societarios de casinos de juego. Fuente: Subdirección de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Imp…
+cción de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2023
-- Fecha: 2023-09-06
+- Fecha: 2023-09-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso103.pdf
 - Hash SHA-256: fdd26c9356a502717334d746562fc4729ce87c9ff22e3364ded4d2f524322cbc
 
 ## Resumen
 
-> Aprueba código de ética del servicio de impuestos internos. Fuente: Subdirección de Contraloría Interna. Resolución Exenta SII N° 104 del 06 de Septiembre del 2023 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Incorpórase a ACF Capital S.A. en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 102 del 01 de Septiembre del 2023 Autoriza a empresa Tuacceso P…
+Subdirección Jurídica. Incorpórase a ACF Capital S.A. en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

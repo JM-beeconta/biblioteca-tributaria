@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 142
 - Año: 2020
-- Fecha: 2020-11-23
+- Fecha: 2020-11-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso142.pdf
 - Hash SHA-256: 916fa71c24c1712c7bec1f2ba1a76ee27e573c4d19fda4d2e60bb2e205a7710b
 
 ## Resumen
 
-des contribuyentes. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 143 del 23 de Noviembre del 2020 Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Los Organismos Públicos Que Indica. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES Modifica Subrogancia De Secretaria General Fuente: Secretaria General Resolución Exenta SII N° 141 del 13 de Noviembre del 2020 Imparte instrucciones sobre la opción de informar al Servicio de Impuestos Interno…
+RIBUYENTE DEPARTAMENTO DE OPERACIONES Modifica Subrogancia De Secretaria General Fuente: Secretaria General
 
 ## Referencias detectadas
 

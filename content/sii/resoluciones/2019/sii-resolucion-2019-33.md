@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2019
-- Fecha: 2019-03-01
+- Fecha: 2019-02-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso33.pdf
 - Hash SHA-256: 00fe96005227dfcde52b6663f850b71cb9668414557981d27edaba4dd56bf332
 
 ## Resumen
 
-an> Resolución Exenta SII N° 34 del 01 de Marzo del 2019 Modifica Resolución Ex. SII N° 152, de 28 de diciembre de 2018, que fija valores de terrenos y construcciones para el reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Corrige error de transcripción en Resolución Ex. SII N° 26 de 18.02.2019 que autoriza impresora fiscal marca EPSON, MODELO TM-T900FC, para emitir vale…
+Subdirección de Avaluaciones Corrige error de transcripción en Resolución Ex. SII N° 26 de 18.02.2019 que autoriza impresora fiscal marca EPSON, MODELO TM-T900FC, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

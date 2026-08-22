@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ación tributaria global, formulario Nº 1913 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 83 del 29 de Agosto del 2024 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Procedimiento de exclusión del registro de sociedades de profesionales por incumplimiento de requisitos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 81 del 29 de Agosto del 2024 Acredita y autor…
+ute;n de Asistencia al Contribuyente. Procedimiento de exclusión del registro de sociedades de profesionales por incumplimiento de requisitos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

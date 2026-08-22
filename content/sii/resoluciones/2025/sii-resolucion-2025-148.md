@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 149 del 23 de Octubre del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Medio Ambiente y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 147 del 20 de Octubre del 2025 Autoriza a ticketera BMB SPA., para emitir…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

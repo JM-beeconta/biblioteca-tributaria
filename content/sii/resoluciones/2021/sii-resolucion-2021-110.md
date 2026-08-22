@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 110
 - Año: 2021
-- Fecha: 2021-10-01
+- Fecha: 2021-09-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso110.pdf
 - Hash SHA-256: 6f9012ef8829ab07aae192dd01e5d12a6ba1b199e8c6be6cb650ef2f4a492941
 
 ## Resumen
 
-rtículo 26 bis del Código Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 111 del 01 de Octubre del 2021 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero Fuente: Subdirección de Fiscalización. Resolución Exenta SII N°…
+ute;n de Asistencia al Contribuyente. Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

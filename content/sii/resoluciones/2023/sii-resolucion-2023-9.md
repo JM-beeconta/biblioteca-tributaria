@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 10 del 27 de Enero del 2023 Establece procedimiento para declarar y pagar o suspender la contribución para el desarrollo regional regulada en el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 09 del 27 de Enero del 2023 Instruye sobre forma y plazo para declarar y pagar las retenciones que las entidades que se indican, deberá…
+cción de Fiscalización. Resolución Exenta SII N° 09 del 27 de Enero del 2023 Instruye sobre forma y plazo para declarar y pagar las retenciones que las entidades que se indican, deberán realizar para el pago del préstamo tasa cero para pensionados bajo la modalidad de renta vitalicia establecido en el inciso quinto artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

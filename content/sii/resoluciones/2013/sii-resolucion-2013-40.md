@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2013
-- Fecha: 2013-04-17
+- Fecha: 2013-04-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso40.pdf
 - Hash SHA-256: 1c93c4da7bceb0db20d922862e88cc5aafdd0feb201e40057b8d53cb18a9832b
 
 ## Resumen
 
-ncia de Contribuyentes. Resolución Exenta SII N° 41 del 17 de Abril del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Depto. de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 39 del 12 de Abril del 2013 Establece declaración Jurada simple a pre…
+ia de Contribuyentes. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Depto. de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

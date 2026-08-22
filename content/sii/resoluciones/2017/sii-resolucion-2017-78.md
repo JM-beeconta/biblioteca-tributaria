@@ -11,7 +11,7 @@
 
 ## Resumen
 
-osto del 2017 Establece forma y plazo para presentar la Declaración Jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra a) del Artículo 14 de la Ley sobre Impuesto a la Renta y sobre saldo de retiros en exceso pendiente de imputación. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Declara Término de Giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario Fuente: Sub…
+mplimiento Tributario Declara Término de Giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 120
 - Año: 2023
-- Fecha: 2023-10-16
+- Fecha: 2023-10-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso120.pdf
 - Hash SHA-256: 2b7e890262053adb7dcc9b942019e3fadc9277d021a9b28cfe76075d9913690c
 
 ## Resumen
 
-a, Rut N° 76.837.328-0, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 121 del 16 de Octubre del 2023 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 119 del 13 de Octu…
+Subdirección Jurídica. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

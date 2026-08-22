@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cciones de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 96 del 31 de Agosto del 2023 Reemplaza formato e instrucciones de llenado de declaraciones juradas N°1929, N°1907, N°1937, N°1946, N°1950 y N°1951. Fuente: Subdirección de Fiscalización. Instruye obligación de presentar formulario N°1956 declaración jurada anual, sobre donaciones informadas al ministerio de las culturas, las artes y el patrimonio, al ministerio de hacienda y a la secretaria técnica. Dej…
+cción de Fiscalización. Instruye obligación de presentar formulario N°1956 declaración jurada anual, sobre donaciones informadas al ministerio de las culturas, las artes y el patrimonio, al ministerio de hacienda y a la secretaria técnica. Deja sin efecto resolución exenta SII N° 118 de 2014. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

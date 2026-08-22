@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2018
-- Fecha: 2018-03-21
+- Fecha: 2018-03-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso31.pdf
 - Hash SHA-256: 37e7a6c21f88b4345b944e39330d990d229259ceaca2879590f13945158ad7d6
 
 ## Resumen
 
-el Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 32 del 21 de Marzo del 2018 Otorga condonación sobre las multas infraccionales en los casos que se señalan. Fuente: Departamento de Sistemas de Fiscalización Reestructura Departamento Subdirección de Asistencia al Contribuyente. Modifica Res. Ex N° 98, de 2014. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 30 del 16 de Marzo del 2018 Aprue…
+de Sistemas de Fiscalización Reestructura Departamento Subdirección de Asistencia al Contribuyente. Modifica Res. Ex N° 98, de 2014. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

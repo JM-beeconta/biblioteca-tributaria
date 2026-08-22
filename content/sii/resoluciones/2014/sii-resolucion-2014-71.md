@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i.cl/normativa_legislacion/resoluciones/2014/reso72.pdf' target='_blank'>Resolución Exenta SII N° 72 del 31 de Julio del 2014 Implementa excepciones establecidas en el inciso segundo del artículo 54 de la ley sobre impuesto a las ventas y servicios, referente a la obligación de emitir documentos tributarios electrónicos, en la forma que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atenció…
+cia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

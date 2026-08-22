@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nes de concepción. Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 99 del 28 de Agosto del 2020 Establece forma y plazo para presentar declaración jurada anual sobre dividendos distribuidos y créditos correspondientes por acciones en custodia. Fuente: Subdirección de Fiscalización. Establece forma y plazo para presentar declaración jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra a) y n° 3 d…
+cción de Fiscalización. Establece forma y plazo para presentar declaración jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra a) y n° 3 de la letra d) del artículo 14 de la ley sobre impuesto a la renta… Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

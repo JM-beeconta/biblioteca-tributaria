@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2016
-- Fecha: 2016-02-23
+- Fecha: 2016-02-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso8.pdf
 - Hash SHA-256: c432a665f42fc53808f4f1d90b01dbe478b11273acf54c2ad3c6d85172a0f789
 
 ## Resumen
 
-nto de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 09 del 23 de Febrero del 2016 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa Resolución Exenta SII N° 08 del 08 de Febrero del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta…
+tión Normativa Resolución Exenta SII N° 08 del 08 de Febrero del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

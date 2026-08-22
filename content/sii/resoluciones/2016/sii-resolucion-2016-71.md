@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 71
 - Año: 2016
-- Fecha: 2016-07-20
+- Fecha: 2016-07-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso71.pdf
 - Hash SHA-256: af4ed0110a9bf039f2d6e53a6ca94b0d9c4690943dc7701475ff4ea1b1ddf4b9
 
 ## Resumen
 
-na Resolución Exenta SII N° 72 del 20 de Julio del 2016 Modifica resolución Ex.SII N° 80, de 05 de septiembre de 2013, sobre presentación de formulario 2667 de solicitud de condonación de intereses y multas. Fuente: Subdirección de Fiscalización Delega facultades que indica en Funcionario que señala, y Deroga en parte Resolución Exenta Número 191 de 24 de diciembre de 2010. Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 70 del 11 de Julio del 2016 Modifica Resolución Ex. SII N° 50, del 27.05…
+Fiscalización Delega facultades que indica en Funcionario que señala, y Deroga en parte Resolución Exenta Número 191 de 24 de diciembre de 2010. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

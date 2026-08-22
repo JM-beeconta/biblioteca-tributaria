@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2022
-- Fecha: 2022-06-29
+- Fecha: 2022-06-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso57.pdf
 - Hash SHA-256: ae97c38dd43b30ed6da8e14ae2d02e15cfa009737448764ff444eb9c30ade2fa
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 58 del 29 de Junio del 2022 Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdirección de Asistencia al Contribuyente. FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO…
+ute;n de Asistencia al Contribuyente. FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

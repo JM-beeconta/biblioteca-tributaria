@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2025
-- Fecha: 2025-05-05
+- Fecha: 2025-04-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso56.pdf
 - Hash SHA-256: 29833d35ef0c995e4e030497e336d7e647d928ac76c0bc440070781033030f69
 
 ## Resumen
 
-operación eficaz, en los términos del artículo 100 ter del código tributario Fuente: Subdirección Jurídica. Resolución Exenta SII N° 57 del 05 de Mayo del 2025 Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 5…
+ección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

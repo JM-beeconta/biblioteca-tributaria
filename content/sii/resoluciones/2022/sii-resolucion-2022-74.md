@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 75 del 31 de Agosto del 2022 Establece declaración jurada anual sobre bienes físicos del activo inmovilizado e ingresos operacionales de proyectos de inversión (contribución para el desarrollo regional). Fuente: Subdirección de Fiscalización. Modifica Resolución Ex. SII N° 18 de 2005 y reemplaza formato, contenido e instrucciones de la Declaración Jurada N° 1834 y del Certificado N°27, que deben presentar o e…
+cción de Fiscalización. Modifica Resolución Ex. SII N° 18 de 2005 y reemplaza formato, contenido e instrucciones de la Declaración Jurada N° 1834 y del Certificado N°27, que deben presentar o emitir las compañías de seguros para informar seguros dotales y seguros de vida con ahorro con cuenta única de inversión. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

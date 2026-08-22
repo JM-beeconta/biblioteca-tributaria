@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 133
 - Año: 2024
-- Fecha: 2024-12-30
+- Fecha: 2024-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso133.pdf
 - Hash SHA-256: 3d15fe8f0fd647f8b1aa66ce3cc95b6222418f0321b9056014a9d22fd4e9b27a
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 134 del 30 de Diciembre del 2024 Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para los semestres que se indican Fuente: Subdirección de Fiscalizac…
+tégica y Estudios Tributarios. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para los semestres que se indican Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

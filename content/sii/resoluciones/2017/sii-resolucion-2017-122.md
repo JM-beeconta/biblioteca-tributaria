@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 122
 - Año: 2017
-- Fecha: 2017-12-13
+- Fecha: 2017-12-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso122.pdf
 - Hash SHA-256: 70e8451ace5036ef7b7d825c760ad7b65ccf24c5ccc7773c178167e7612b87ba
 
 ## Resumen
 
-Subdirección de Fiscalización Resolución Exenta SII N° 123 del 13 de Diciembre del 2017 Autoriza a empresa QWANTIQ CHILE SPA. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Aprueba convenio de coordinación entre Contraloría General de la República y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 121 del 07…
+ncia al Contribuyente Aprueba convenio de coordinación entre Contraloría General de la República y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

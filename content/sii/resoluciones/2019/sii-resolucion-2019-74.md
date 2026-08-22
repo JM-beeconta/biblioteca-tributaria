@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 74
 - Año: 2019
-- Fecha: 2019-06-12
+- Fecha: 2019-06-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso74.pdf
 - Hash SHA-256: acf832f3c17686e7d90039842537d3c8d72eda6afeb3097257a61957fc7b3f88
 
 ## Resumen
 
-buyente Resolución Exenta SII N° 75 del 12 de Junio del 2019 Crea modelo de certificado N° 63, sobre donaciones efectuadas a la Fundación Imagen de Chile para llevar a cabo la organización y ejecución de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre cambio climático "cop 25". Fuente: Subdirección de Fiscalización Autoriza a la Sociedad Falabella Retail S.A. para portar la guía de despacho electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica…
+cción de Fiscalización Autoriza a la Sociedad Falabella Retail S.A. para portar la guía de despacho electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

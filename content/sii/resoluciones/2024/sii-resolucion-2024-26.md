@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2024
-- Fecha: 2024-02-14
+- Fecha: 2024-02-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso26.pdf
 - Hash SHA-256: bdea6700a5c3d205566a97fc4fa190cf2be7effb183a05ff3a9bf0ec3cb9be20
 
 ## Resumen
 
-. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 27 del 14 de Febrero del 2024 Exime del régimen general de operación de ventas de gas licuado de petróleo, establecido en Resolución Ex. SII N° 1087, de 1978, a contribuyente que indica. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 25 del 07 de Febrero del 2024 Aprueba…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

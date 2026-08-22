@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2023
-- Fecha: 2023-09-22
+- Fecha: 2023-09-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso112.pdf
 - Hash SHA-256: f7411a0d13ec921675ce0a1096dbcf8861c47f4f90ae35bd5e214ba975a8fabf
 
 ## Resumen
 
-cal. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 113 del 22 de Septiembre del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Purranque. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Imparte instrucciones sobre ampliación y prorroga de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispu…
+tégica y Estudios Tributarios. Imparte instrucciones sobre ampliación y prorroga de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispuesto en los numerales 4), 5) y 6) del N° 1 del decreto supremo N° 944, de 2023, del Ministerio de Hacienda, que establece medidas de índole tributaria para las comunas de las regiones afectadas por el sistema frontal, declaradas como zonas afectadas por catástrofe Fuente: Subdi…
 
 ## Referencias detectadas
 

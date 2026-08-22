@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 119
 - Año: 2025
-- Fecha: 2025-09-16
+- Fecha: 2025-09-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso119.pdf
 - Hash SHA-256: ea6b19ea38d1e2ccf5a4bcc5d1d8911817edbf8d1fb8c2541efcc8f5df7e1803
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 120 del 16 de Septiembre del 2025 Reorganiza las unidades que conforman el departamento Subdirección de Desarrollo de Personas, establece funciones y ámbitos de competencia. Deja sin efecto Resolución Exenta SII Nº136, de 2021. Fuente: Subdirección Desarrollo de las Personas Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistenc…
+ión Desarrollo de las Personas Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

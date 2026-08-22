@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 132 del 26 de Diciembre del 2024 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Fija valores de terrenos y construcciones para el reavalúo 2025, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o p…
+cción de Fiscalización. Fija valores de terrenos y construcciones para el reavalúo 2025, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

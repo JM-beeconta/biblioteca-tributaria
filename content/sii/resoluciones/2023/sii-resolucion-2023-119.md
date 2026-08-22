@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 120 del 13 de Octubre del 2023 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 118 del 0…
+ute;n de Asistencia al Contribuyente. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

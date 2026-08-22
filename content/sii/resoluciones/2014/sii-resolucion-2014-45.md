@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Departamento de Normas Internacionales Resolución Exenta SII N° 46 del 16 de Mayo del 2014 Autoriza como emisor de boletas electrónicas a contribuyente que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 44 del 09 de Mayo del 2014 Reorganiza las Unidades que conforman el Departamento Subdirecci…
+cia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

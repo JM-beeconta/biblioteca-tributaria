@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 133
 - Año: 2023
-- Fecha: 2023-11-29
+- Fecha: 2023-11-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso133.pdf
 - Hash SHA-256: 81d7dfbaa55ee53c6c1491f7856da97427fec220ef24588a959e41eec50e39ab
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 134 del 29 de Noviembre del 2023 Aprueba política institucional de igualdad de género y conciliación de la vida laboral, familiar y personal del Servicio de Impuestos Internos. Deja sin efecto Resolución Exenta SII N°24, de 2023. Fuente: Subdirección Desarrollo de las Personas Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Curicó. Fuente: Subdirección de Gestión…
+ión Desarrollo de las Personas Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Curicó. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

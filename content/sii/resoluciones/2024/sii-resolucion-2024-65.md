@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 66 del 19 de Junio del 2024 Aprueba Convenio De Colaboración Específico Entre Servicio De Impuestos Internos Y La Universidad Tecnológica Metropolitana Fuente: Subdirección de Asistencia al Contribuyente. REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018 Fuente: Subdirección Normativa. Resolución Exenta SII N° 64 del 07 de Junio del 2024 Prórroga del plazo para la presentación de declaraciones juradas en ma…
+ute;n de Asistencia al Contribuyente. REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018 Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

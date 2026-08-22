@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 29 del 25 de Febrero del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Sustentabilidad y Cambio Climático y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 27 del 20 de Febrero del 2026 Otorga condonación sobre los intereses y multas in…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

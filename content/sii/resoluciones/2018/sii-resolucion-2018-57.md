@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2018
-- Fecha: 2018-07-24
+- Fecha: 2018-07-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso57.pdf
 - Hash SHA-256: 82320d8cffa9f1085a670ae5ffcb4e4a8a8691d3b6d9cf007d8656c917794007
 
 ## Resumen
 
-cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 58 del 24 de Julio del 2018 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 56 del 09 de Julio del 2018 Comunica nueva co…
+ute;n de Asistencia al Contribuyente Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

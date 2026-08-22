@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 24
 - Año: 2020
-- Fecha: 2020-02-19
+- Fecha: 2020-02-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso24.pdf
 - Hash SHA-256: 3ed7800ec92334ae733ae970e136d0c68b128cac6962866c43ee009d87558f35
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 25 del 19 de Febrero del 2020 Aprueba Addendum Modificación Convenio de Colaboración entre Tesorería General de la República y Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece Sistema para la determinación del Crédito Fiscal del Artículo 23 del D.L. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios en los casos que indica.…
+tégica y Estudios Tributarios. Establece Sistema para la determinación del Crédito Fiscal del Artículo 23 del D.L. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios en los casos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cto resoluciones exentas SII N° 19 DE 2005, N° 30 DE 2005, N° 64 DE 2005 y N° 12 DE 2015. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 97 del 31 de Agosto del 2023 Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Reemplaza formato e instrucciones de llenado de declaraciones juradas N°1929, N°1907, N°1937, N°1946, N°1950 y N°1951. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 95 del 31 de Agosto del 2023…
+cción de Fiscalización. Reemplaza formato e instrucciones de llenado de declaraciones juradas N°1929, N°1907, N°1937, N°1946, N°1950 y N°1951. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

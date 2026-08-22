@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 83 del 03 de Julio del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Unidad Administradora de los Tribunales Tributarios y Aduaneros, y del Tribunal de Contratación Pública y el Servicio de Impuestos Interno…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Unidad Administradora de los Tribunales Tributarios y Aduaneros, y del Tribunal de Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

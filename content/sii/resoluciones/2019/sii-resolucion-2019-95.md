@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2019
-- Fecha: 2019-08-14
+- Fecha: 2019-08-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso95.pdf
 - Hash SHA-256: 6d784551c3ac2350ce7b7e6446d4d52a7e992b8dd6a35300e74a20d0171921a8
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 96 del 14 de Agosto del 2019 Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza a la SOCIEDAD NATURA COSMÉTICOS S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la…
+tégica y Estudios Tributarios Autoriza a la SOCIEDAD NATURA COSMÉTICOS S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

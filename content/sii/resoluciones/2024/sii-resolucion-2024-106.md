@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2024
-- Fecha: 2024-11-14
+- Fecha: 2024-11-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso106.pdf
 - Hash SHA-256: 8fe18ff4a9d202585df486e1a3b605dbcf2e72683bd0acb8295bb155f99cbb6d
 
 ## Resumen
 
-ón. Resolución Exenta SII N° 107 del 14 de Noviembre del 2024 Fija procedimiento para la declaración y pago del IVA por contribuyentes sin domicilio ni residencia en chile inscritos en el régimen de tributación simplificada del párrafo 7° bis del título II de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 105 del 30 de Octubre del 2024 Fija procedimiento…
+cción de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

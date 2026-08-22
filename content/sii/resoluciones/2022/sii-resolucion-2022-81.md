@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 81
 - Año: 2022
-- Fecha: 2022-09-07
+- Fecha: 2022-09-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso81.pdf
 - Hash SHA-256: 0eff87c6c2c3637fdbf302a4a9dc849736f32a8d8e9b87988e15d3e993bbc468
 
 ## Resumen
 
-° 09, de 2022. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 82 del 07 de Septiembre del 2022 Acredita y autoriza a DOX PSC SPA para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática. Aprueba convenio de colaboración entre Servicio de Impuestos Internos e Instituto Profesional LOS LEONES Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 80 del 02 de Sep…
+rección de Informática. Aprueba convenio de colaboración entre Servicio de Impuestos Internos e Instituto Profesional LOS LEONES Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

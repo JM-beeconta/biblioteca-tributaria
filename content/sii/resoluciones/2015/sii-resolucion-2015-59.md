@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalizacióbn Resolución Exenta SII N° 60 del 10 de Julio del 2015 Delega en los Sres. Directores regionales la facultad que indica. Fuente: Departamento de Asesoría Jurídica Establece Unidad Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 58 del 03 de Julio del 2015 Complementa Resolución Exenta N° 125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contr…
+ute;a Jurídica Establece Unidad Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

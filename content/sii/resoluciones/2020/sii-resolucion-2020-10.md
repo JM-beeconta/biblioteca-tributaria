@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rie agrícola. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 11 del 22 de Enero del 2020 Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre anticipo de devolución del impuesto a la renta correspondiente al año tributario 2020. Fuente: Subdirección De Fiscalización Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre postergación y pago en cuotas del impuesto a las ventas y servicios. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 09 d…
+ección De Fiscalización Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre postergación y pago en cuotas del impuesto a las ventas y servicios. Fuente: Subdirección De Fiscalización
 
 ## Referencias detectadas
 

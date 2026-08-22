@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2019
-- Fecha: 2019-04-18
+- Fecha: 2019-04-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso46.pdf
 - Hash SHA-256: f0c192593b8c83a219711636baad21f6bcc171405c55e64f95ab099227e16e2f
 
 ## Resumen
 
-s de Antofagasta, Sr. JUAN JOSE VELOSO MORA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 47 del 18 de Abril del 2019 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Autoriza al contribuyente SABORES CARD SPA., RUT N° 76.969.846-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente Re…
+Subdirección Jurídica Autoriza al contribuyente SABORES CARD SPA., RUT N° 76.969.846-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

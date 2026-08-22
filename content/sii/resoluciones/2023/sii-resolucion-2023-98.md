@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 99 del 31 de Agosto del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de San Clemente Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instruye obligación de presentar declaración anual sobre bienes raíces arrendados por medio de formulario N° 1835; deja sin efecto resoluciones exentas SII N° 19 DE 2005, N° 30 DE 2005, N° 64 DE 2005 y…
+tégica y Estudios Tributarios. Instruye obligación de presentar declaración anual sobre bienes raíces arrendados por medio de formulario N° 1835; deja sin efecto resoluciones exentas SII N° 19 DE 2005, N° 30 DE 2005, N° 64 DE 2005 y N° 12 DE 2015. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Imparte instrucciones sobre prórroga de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispuesto en los numerales 4), 5) y 6) del N° 1 del Decreto Supremo N° 9, de 2026, del Ministerio de Hacienda, que establece medidas de índole tributaria para las comunas de las regiones de Ñuble y del Biobío que indica Fuente: Subdirección de Avaluaciones. Inscripción de oficio en el registro especial de operadores de plat…
+Subdirección de Avaluaciones. Inscripción de oficio en el registro especial de operadores de plataformas digitales de intermediación de ventas con domicilio o residencia en chile. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2024
-- Fecha: 2024-05-07
+- Fecha: 2024-05-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso54.pdf
 - Hash SHA-256: 391e6c1886264dab79975b5193cdacad334092e388cfc84b3550c3e8a9ee4f69
 
 ## Resumen
 
-l Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 55 del 07 de Mayo del 2024 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Modifica Resolución Ex. SII N°28, de 15 marzo de 2023, reemplazando subrogantes de la Secretaría General. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 53 del 02 de Mayo del 2024 Individualiz…
+ute;n de Asistencia al Contribuyente. Modifica Resolución Ex. SII N°28, de 15 marzo de 2023, reemplazando subrogantes de la Secretaría General. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

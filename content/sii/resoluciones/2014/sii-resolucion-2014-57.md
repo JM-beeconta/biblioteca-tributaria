@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2014
-- Fecha: 2014-06-19
+- Fecha: 2014-06-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso57.pdf
 - Hash SHA-256: 8ca693d66757da28fee888d4c36a1cc814ce1746b421fc9842cd43a336b730d4
 
 ## Resumen
 
-s y de Micro y Pequeñas Empresas Resolución Exenta SII N° 58 del 19 de Junio del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 56 del 09 de Junio del 2014 Autoriza al contribuyente Alimentación Express SPA., RUT N° 76.299.578-6, p…
+cia de Contribuyentes Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

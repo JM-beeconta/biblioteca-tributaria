@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2015
-- Fecha: 2015-08-07
+- Fecha: 2015-07-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso66.pdf
 - Hash SHA-256: 4b98088272e9f675f1fd7b5f8f9396b2b2ce9b84d559f400f30d1b395923c82c
 
 ## Resumen
 
-ción Grandes Contribuyentes Resolución Exenta SII N° 67 del 07 de Agosto del 2015 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica fecha de entrada en vigencia de la Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, que establece nuevo requisito para las facturas, facturas de compras y guías de despacho, electrónicas o no electrónicas, utilizadas en el traslado de espec…
+mplimiento Tributario Modifica fecha de entrada en vigencia de la Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, que establece nuevo requisito para las facturas, facturas de compras y guías de despacho, electrónicas o no electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

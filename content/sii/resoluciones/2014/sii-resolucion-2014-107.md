@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gislacion/resoluciones/2014/reso108.pdf' target='_blank'>Resolución Exenta SII N° 108 del 25 de Noviembre del 2014 Autoriza a Directores Regionales de la XIII y XIV Dirección Regional Metropolitana para delegar en los Jefes de Departamentos de Procedimientos Administrativos Tributarios las facultades que indica y revoca autorizaciones de delegación que señala Fuente: Departamento de Asesoría Jurídica Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de…
+ute;a Jurídica Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 12
 - Año: 2013
-- Fecha: 2013-01-31
+- Fecha: 2013-01-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso12.pdf
 - Hash SHA-256: ee05198280b132888982fede3e3ddc0dee8d1bfa23c8220a54e38a71ae6795b2
 
 ## Resumen
 
-Resolución Exenta SII N° 13 del 31 de Enero del 2013 Modifica plazo de piloto establecido en la Resolución Ex N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la boleta de ventas y servicios por el comprobante emitido por la empresa Transbank S.A. Fuente: Depto. Atención y Asistencia de Contribuyentes. Téngase por desafiliados del sistema de facturación eléctrica a los contribuyentes que se indican. Fuente: Depto. Atención y Asistencia al Contribuyentes. Resolución Exenta SII N° 11 del 23 de En…
+ia de Contribuyentes. Téngase por desafiliados del sistema de facturación eléctrica a los contribuyentes que se indican. Fuente: Depto. Atención y Asistencia al Contribuyentes.
 
 ## Referencias detectadas
 

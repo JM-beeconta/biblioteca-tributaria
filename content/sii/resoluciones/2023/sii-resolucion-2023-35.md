@@ -11,7 +11,7 @@
 
 ## Resumen
 
-g; 21.323. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 21 de Marzo del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Villarrica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Natales. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resol…
+tégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Natales. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 4
 - Año: 2021
-- Fecha: 2021-01-15
+- Fecha: 2021-01-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso4.pdf
 - Hash SHA-256: f8023e1da110d7d6cc79096d33e14132b9f7cf2002b9901345cb7f57fc954c51
 
 ## Resumen
 
-alores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 05 del 15 de Enero del 2021 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 04 del 13 de Enero del 2021 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuy…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 04 del 13 de Enero del 2021 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

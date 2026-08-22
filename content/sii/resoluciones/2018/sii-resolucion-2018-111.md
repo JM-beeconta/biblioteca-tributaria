@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 112 del 12 de Noviembre del 2018 Crea modelo de Certificado N° 60, sobre donaciones a que se refiere la letra b) del artículo 157 ter del Código del Trabajo y su Reglamento, contenido en el Decreto Supremo N° 64 del año 2018, del Ministerio del Trabajo y Previsión Social sobre inclusión laboral de personas con discapacidad. Fuente: Subdirección de Fiscalización Acoge petición de MULTICAJA S.A. RUT N° 76.828.790-2 y modifica Resolución Exenta SII N° 08 del 24 de enero del 2018, conforme se…
+cción de Fiscalización Acoge petición de MULTICAJA S.A. RUT N° 76.828.790-2 y modifica Resolución Exenta SII N° 08 del 24 de enero del 2018, conforme se indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ciclaje A.G. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 140 del 27 de Diciembre del 2018 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Manufacturas, Servicios y Turismo A.G. Fuente: Subdirección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios…
+cción de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

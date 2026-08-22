@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N° 130 del 30 de Diciembre del 2016 Establece formato de determinación de la renta líquida imponible y de los registros que deben llevar los contribuyentes, según el régimen de tributación por el cual opten a partir del 1 de enero de 2017, conforme a lo dispuesto en el Artículo 14 de la Ley sobre Impuesto a la enta, vigente a partir de dicha fecha. Fuente: Subdirección de Fiscalización Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificad…
+Fiscalización Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

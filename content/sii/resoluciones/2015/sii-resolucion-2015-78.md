@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2015
-- Fecha: 2015-09-28
+- Fecha: 2015-09-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso78.pdf
 - Hash SHA-256: 8e3bf66a076b841f8e41ea93abdc1cdffd60e4ce8b8c59f88eaa2dbfb0ab16ae
 
 ## Resumen
 
-tivo del Cumplimiento Tributario Resolución Exenta SII N° 79 del 28 de Septiembre del 2015 Autoriza el uso de documentos tributarios en papel a los contribuyentes de la provincia de Choapa y la comuna de Coquimbo. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 77 del 23 de Septiembre del 2015 Autoriza…
+cia de Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

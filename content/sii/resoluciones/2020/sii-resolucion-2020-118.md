@@ -11,7 +11,7 @@
 
 ## Resumen
 
-; 119 del 28 de Septiembre del 2020 Establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en chile por medio de formulario N° 1921; establece reglas para correlacionar inversiones y pasivos según lo dispuesto en el inciso quinto del artículo 10 de la Ley sobre Impuesto a la Renta; y deja sin efecto resolución N° 65 de 2015. Fuente: Subdirección de Fiscalización. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certi…
+cción de Fiscalización. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

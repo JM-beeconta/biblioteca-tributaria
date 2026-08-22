@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2021
-- Fecha: 2021-03-09
+- Fecha: 2021-03-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso28.pdf
 - Hash SHA-256: 6633f0e3909e1331cd889940367065a649a78026a7c938ebef04cf11ed4df4fd
 
 ## Resumen
 
-te;nico de segunda categoría de la Ley de la Renta, formulario N°1887. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 29 del 09 de Marzo del 2021 Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional de Desarrollo Indígena y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional de Desarrollo Indígena y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

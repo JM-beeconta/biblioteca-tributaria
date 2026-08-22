@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2023
-- Fecha: 2023-01-12
+- Fecha: 2023-01-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso2.pdf
 - Hash SHA-256: bb66022ef3ff49bb646c043fa069495a461148bd51070acd558593e99789a0cd
 
 ## Resumen
 
-ículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 03 del 12 de Enero del 2023 Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 10 de Enero del 2023 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contr…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 10 de Enero del 2023 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

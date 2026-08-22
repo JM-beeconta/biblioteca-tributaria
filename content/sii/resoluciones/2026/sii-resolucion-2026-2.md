@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2026
-- Fecha: 2026-01-13
+- Fecha: 2026-01-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso2.pdf
 - Hash SHA-256: e5ccfa1ae81917bc3e5ceaf59536838cf5c19cd5dc625990e65228c88633d32f
 
 ## Resumen
 
-tado y el servicio de impuestos internos. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 03 del 13 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 02 del 07 de Enero del 2026 Implementa firma digital centralizada para la emisión de boletas electrónicas a través del sistema gratuito del sii Fuente: Subdirección de Asistenci…
+cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 02 del 07 de Enero del 2026 Implementa firma digital centralizada para la emisión de boletas electrónicas a través del sistema gratuito del sii Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

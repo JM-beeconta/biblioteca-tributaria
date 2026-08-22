@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2018
-- Fecha: 2018-10-25
+- Fecha: 2018-10-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso105.pdf
 - Hash SHA-256: 3ae456917df3503aa76537a713a4840f979fefcf14a4cb40dc62e08bf23652f5
 
 ## Resumen
 
-ación se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 106 del 25 de Octubre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Suspende calidad de agente retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA; y Resolución Ex. SII N° 54 de 29 de junio de 2…
+cción de Fiscalización Suspende calidad de agente retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA; y Resolución Ex. SII N° 54 de 29 de junio de 2018, que fijó nómina de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

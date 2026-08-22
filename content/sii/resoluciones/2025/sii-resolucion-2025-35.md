@@ -11,7 +11,7 @@
 
 ## Resumen
 
-argin-bottom:0px;'>Complementa lista anexa de la resolución exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 36 del 20 de Marzo del 2025 Aprueba convenio entre el Servicio de Impuestos Internos y la Dirección Nacional del Servicio Civil. Fuente: Subdirección Desarrollo de las Personas Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Quisco. Fuente: Subdirección de Asistencia al Contribuyente. Resoluci…
+ión Desarrollo de las Personas Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Quisco. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

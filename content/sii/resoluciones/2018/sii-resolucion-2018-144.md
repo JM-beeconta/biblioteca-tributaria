@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Metropolitana, Santiago Oriente. Fuente: Subdirección Desarrollo de Personas Resolución Exenta SII N° 145 del 27 de Diciembre del 2018 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de Fútbol Profesional. Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Sindicato de Actores de Chile. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 143 del 27 de Diciembre del 2018…
+cción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Sindicato de Actores de Chile. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

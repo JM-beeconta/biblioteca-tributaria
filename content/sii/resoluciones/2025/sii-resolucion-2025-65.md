@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 65
 - Año: 2025
-- Fecha: 2025-06-11
+- Fecha: 2025-05-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso65.pdf
 - Hash SHA-256: 2df7f3db277d709d534262cb59653c5cbfce35d432f84dcf4c3d85e99d5884de
 
 ## Resumen
 
-onformidad con el artículo 206 del código tributario Fuente: Subdirección Jurídica. Resolución Exenta SII N° 66 del 11 de Junio del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII…
+ute;n de Asistencia al Contribuyente. Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

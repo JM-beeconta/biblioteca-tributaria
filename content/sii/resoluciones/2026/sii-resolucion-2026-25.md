@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2026
-- Fecha: 2026-02-20
+- Fecha: 2026-02-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso25.pdf
 - Hash SHA-256: 1856ff20ee8ec2acc74e79292111c71aa9a3c386b256b60de15cd2b5115c9a66
 
 ## Resumen
 
-e se señalan Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 26 del 20 de Febrero del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Fiscalía Nacional Económica y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre SHERIFF SPA y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 24 del 10 de Febrero del 202…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre SHERIFF SPA y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

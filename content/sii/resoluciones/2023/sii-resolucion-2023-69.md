@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2023
-- Fecha: 2023-06-20
+- Fecha: 2023-06-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso69.pdf
 - Hash SHA-256: ecdc29b2c606b1f6a33c5d00499203f14aaabcff1de8082b77a6ea28d3f5250b
 
 ## Resumen
 
-> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 70 del 20 de Junio del 2023 Prórroga del plazo de presentación de declaraciones juradas en materia de precios de transferencia, formularios N°s 1907, 1937, 1950 y 1951. Fuente: Subdirección de Fiscalización. Instruye sobre requisitos, fija procedimiento para solicitar el subsidio temporal que beneficia a las micro, pequeñas y medianas empresas establecido en el artículo 8° de la Ley N°_21.578, y habilita plataforma para…
+cción de Fiscalización. Instruye sobre requisitos, fija procedimiento para solicitar el subsidio temporal que beneficia a las micro, pequeñas y medianas empresas establecido en el artículo 8° de la Ley N°_21.578, y habilita plataforma para ello. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

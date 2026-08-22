@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ilustre Municipalidad de Lanco Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 57 del 09 de Mayo del 2024 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Chileno de Derecho Tributario. Fuente: Subdirección de Asuntos Corporativos. Declara término de giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 55 del 07 de Mayo del 20…
+cción de Asuntos Corporativos. Declara término de giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

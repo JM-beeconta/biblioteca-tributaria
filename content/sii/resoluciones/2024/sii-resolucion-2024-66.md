@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2024
-- Fecha: 2024-06-28
+- Fecha: 2024-06-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso66.pdf
 - Hash SHA-256: 4be2c7c334a92b86c2be6c11d387772e6ff5f60c803aeb2fcd31ca9b92df0d08
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 67 del 28 de Junio del 2024 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Aprueba Convenio De Colaboración Específico Entre Servicio De Impuestos Internos Y La Universidad Tecnológica Metropolitana Fuente: Subdirección de Asistencia…
+cción de Fiscalización. Aprueba Convenio De Colaboración Específico Entre Servicio De Impuestos Internos Y La Universidad Tecnológica Metropolitana Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tablecida por el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 37 del 19 de Marzo del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Incorpórase a FACTOTAL S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 35 del 15 de Marzo del 20…
+ute;n de Asistencia al Contribuyente Incorpórase a FACTOTAL S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

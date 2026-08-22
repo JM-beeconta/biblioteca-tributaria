@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t='_blank'>Resolución Exenta SII N° 100 del 13 de Octubre del 2017 Modifica Resolución Exenta SII N° 107 de fecha 24 de diciembre 2015 y deroga Resolución Exenta SII N° 31 de fecha 15 de marzo 2017, relativas a la obligación de presentar Declaracion Jurada de contribuyentes acogidos a las disposiciones de la letra a.- del Artículo 14 ter de la LIR. Fuente: Subdirección de Fiscalización Adecúa Declaración Jurada Formulario N° 1922, según la normativa vigente. Fuente: Subdirección de Fiscalización Resolución Exenta…
+Fiscalización Adecúa Declaración Jurada Formulario N° 1922, según la normativa vigente. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

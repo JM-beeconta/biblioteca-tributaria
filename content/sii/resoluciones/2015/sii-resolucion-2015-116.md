@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Exenta SII N° 117 del 29 de Diciembre del 2015 Deja sin efecto Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, que establece nuevo requisito para las facturas, facturas de compras y guías de despacho, electrónicas o no electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Revoca delegación de facultades que indica y deroga la resolución Ex. SII N° 138, de 29 de octubre de 2008. Fuente: Dep…
+mplimiento Tributario Revoca delegación de facultades que indica y deroga la resolución Ex. SII N° 138, de 29 de octubre de 2008. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

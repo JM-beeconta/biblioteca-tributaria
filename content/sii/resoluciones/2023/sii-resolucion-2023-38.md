@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2023
-- Fecha: 2023-03-30
+- Fecha: 2023-03-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso38.pdf
 - Hash SHA-256: 0ffc2a8b599bdcdeda6258e0f9e6003ca3b86edc9e12af5ed2cf2e2f3c0ef3aa
 
 ## Resumen
 
-dos en zonas declaradas en estado de excepción constitucional de emergencia que indica. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 39 del 30 de Marzo del 2023 Modifica resolución exenta SII Nº 128 de fecha 29.12.2022, en los términos que indica. Fuente: Subdirección de Fiscalización. Incorpórase a servicio de cooperación técnica, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 37 del…
+cción de Fiscalización. Incorpórase a servicio de cooperación técnica, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

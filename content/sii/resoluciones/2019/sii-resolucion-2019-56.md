@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2019
-- Fecha: 2019-05-07
+- Fecha: 2019-05-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso56.pdf
 - Hash SHA-256: d457db819f8c0f5eb6d1bcff59d2a7cbe006ea486645c5bf222bde99e7c0c70b
 
 ## Resumen
 
-tora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 57 del 07 de Mayo del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3°…
+ute;n de Asistencia al Contribuyente Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 41 de 2018. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

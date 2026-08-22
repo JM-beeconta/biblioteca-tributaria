@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 101 del 14 de Agosto del 2025 Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados…
+ogías de la Información Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

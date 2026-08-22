@@ -11,7 +11,7 @@
 
 ## Resumen
 
-culo 9 de la ley 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 144 del 15 de Diciembre del 2023 Establece procedimiento especial para solicitar rebaja de las contribuciones de inmuebles ocupados en casos que indica. Deja sin efecto resolución Ex. N° 40 de 2023. Fuente: Subdirección de Avaluaciones. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agre…
+Subdirección de Avaluaciones. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

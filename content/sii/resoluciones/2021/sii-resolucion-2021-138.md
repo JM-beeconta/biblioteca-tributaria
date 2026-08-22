@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tarios. Resolución Exenta SII N° 139 del 20 de Diciembre del 2021 Instruye sobre facultades de los funcionarios fiscalizadores para efectuar actuaciones propias de su cargo relacionadas a la aplicación y fiscalización de declaraciones de los impuestos establecidos en la Ley N° 16.271 efectuadas a través del Form. N° 4412. Fuente: Subdirección de Fiscalización. Instruye forma de declaración y pago de los impuestos establecidos en la Ley N° 16.271, sobre impuesto a las herencias, asignaciones y donaciones, y la obli…
+cción de Fiscalización. Instruye forma de declaración y pago de los impuestos establecidos en la Ley N° 16.271, sobre impuesto a las herencias, asignaciones y donaciones, y la obligación de informar del artículo 18 Nº 8, de la misma Ley. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

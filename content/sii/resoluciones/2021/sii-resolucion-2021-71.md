@@ -11,7 +11,7 @@
 
 ## Resumen
 
-r el COVID-19. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 72 del 01 de Julio del 2021 Autoriza representación virtual y/o impresa de guías de despacho electrónicas a los contribuyentes que indica en la modalidad señalada. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a Natura Cosméticos S.A para emitir boletas de prestación de servicios de terceros electrónicas en la forma que se indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N°…
+ute;n de Asistencia al Contribuyente. Autoriza a Natura Cosméticos S.A para emitir boletas de prestación de servicios de terceros electrónicas en la forma que se indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

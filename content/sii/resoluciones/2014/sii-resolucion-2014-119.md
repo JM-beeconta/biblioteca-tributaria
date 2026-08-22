@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 119
 - Año: 2014
-- Fecha: 2014-12-26
+- Fecha: 2014-12-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso119.pdf
 - Hash SHA-256: 544d7daeb0beb39116233f44d5f73d2cf04bc4b72f1f760b325afa4bc0ba0c84
 
 ## Resumen
 
-ibuyente Resolución Exenta SII N° 120 del 26 de Diciembre del 2014 delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes como emisores de documentos tributarios electrónicos Fuente: Subdirección de Asistencia al Contribuyente Fija procedimiento de pago, exención y devolución del impuesto adicional a los vehículos motorizados nuevos, livianos y medianos, en la forma que indica Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 118 del 12 de Diciembre del 2014…
+ncia al Contribuyente Fija procedimiento de pago, exención y devolución del impuesto adicional a los vehículos motorizados nuevos, livianos y medianos, en la forma que indica Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 97
 - Año: 2022
-- Fecha: 2022-10-18
+- Fecha: 2022-10-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso97.pdf
 - Hash SHA-256: aca44f6cc6fc8c11ce9fe50cb4df4b68bec3d5c946b5fc940758a934dcc1e96a
 
 ## Resumen
 
-ca y Estudios Tributarios. Resolución Exenta SII N° 98 del 18 de Octubre del 2022 Deja sin efecto aplicación de reajustes e intereses penales correspondientes a la tercera cuota de contribuciones con vencimiento 30 de septiembre de 2022 y dispone la imputación de las sumas pagadas indebidamente por los contribuyentes en casos que indica. Fuente: Subdirección de Fiscalización. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 96 del 06 de Octub…
+cción de Fiscalización. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

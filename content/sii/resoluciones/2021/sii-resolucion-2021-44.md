@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2021
-- Fecha: 2021-04-29
+- Fecha: 2021-04-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso44.pdf
 - Hash SHA-256: 08104a7ab2dd2bf53e12217945949e99585703ed786d539b6ab5f18466608db7
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de asuntos corporativos Resolución Exenta SII N° 45 del 29 de Abril del 2021 Aprueba Modificación de Convenio de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Addendum al Convenio de Colaboración entre la Dirección del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios T…
+tégica y Estudios Tributarios. Aprueba Addendum al Convenio de Colaboración entre la Dirección del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

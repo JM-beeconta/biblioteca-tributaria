@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2017
-- Fecha: 2017-03-03
+- Fecha: 2017-02-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso25.pdf
 - Hash SHA-256: f3f897255ed457b3d0060c6ea473a015d4c1c84dfee384b247f48948893b025e
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Subdirección de Administración Resolución Exenta SII N° 26 del 03 de Marzo del 2017 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Establece procedimiento para hacer efectivo el derecho al Crédito Fiscal del Impuesto a las Ventas y Servicios, establecido en el Artículo Octavo transitorio de la Ley N°20.780, de 2014, modificado por la Ley N°20.899,…
+Estudios Tributarios Establece procedimiento para hacer efectivo el derecho al Crédito Fiscal del Impuesto a las Ventas y Servicios, establecido en el Artículo Octavo transitorio de la Ley N°20.780, de 2014, modificado por la Ley N°20.899, de 2016. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

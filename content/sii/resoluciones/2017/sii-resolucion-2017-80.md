@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;lisis Selectivo del Cuimplimiento Tributario Resolución Exenta SII N° 81 del 31 de Agosto del 2017 Establece forma y plazo para presentar declaración jurada anual sobre dividendos distribuidos y créditos correspondientes por acciones en custodia Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario Establece forma y plazo para presentar Declaración Jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de…
+mplimiento Tributario Establece forma y plazo para presentar Declaración Jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra b) del Artículo 14 de la Ley sobre Impuesto a la Renta, y sobre saldo de retiros en exceso pendientes de imputación Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2021
-- Fecha: 2021-10-05
+- Fecha: 2021-10-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso112.pdf
 - Hash SHA-256: 7d661b18e03b6567a347d6405bc37603927156d3365f628e804e2874471d88a4
 
 ## Resumen
 
-des para ser receptora de la Carpeta Tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 113 del 05 de Octubre del 2021 Eliminase la aposición de cuño seco, en la autorización de documentos Tributarios en papel. Fuente: Subdirección de Asistencia al Contribuyente. Establece la forma y requisitos de la consulta vinculante en materia de elusión del artículo 26 bis del Código Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 111 del 01 de Oct…
+ute;n de Asistencia al Contribuyente. Establece la forma y requisitos de la consulta vinculante en materia de elusión del artículo 26 bis del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

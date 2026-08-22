@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2021
-- Fecha: 2021-02-23
+- Fecha: 2021-02-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso18.pdf
 - Hash SHA-256: d58eef9fbd06e8b996550a49c42bb8c50f0f1cf36f0c7c1d2b862712dba921a4
 
 ## Resumen
 
-e;n de Asistencia al Contribuyente. Resolución Exenta SII N° 19 del 23 de Febrero del 2021 Establece formato de los registros tributarios de rentas empresariales que deben llevar los contribuyentes del régimen de tributación de la letra a) de artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020. Fuente: Subdirección de Fiscalización. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección…
+cción de Fiscalización. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

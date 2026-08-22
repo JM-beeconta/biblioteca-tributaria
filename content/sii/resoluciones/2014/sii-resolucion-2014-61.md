@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2014
-- Fecha: 2014-06-23
+- Fecha: 2014-06-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso61.pdf
 - Hash SHA-256: 16cdb4cf390a52855de0d85282640959c7e29686b1de7d22397b5ba0091266cc
 
 ## Resumen
 
-ón y Asistencia de Contribuyentes Resolución Exenta SII N° 62 del 23 de Junio del 2014 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Exime de timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 60 del 20 de Junio del 2014 Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención…
+ueñas Empresas Exime de timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

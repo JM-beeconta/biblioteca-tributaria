@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2026
-- Fecha: 2026-03-16
+- Fecha: 2026-03-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso40.pdf
 - Hash SHA-256: 46c73b66906298193db987d6782092f577dbb9cdd993f8d76a3726ac882f2b21
 
 ## Resumen
 
-es y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 41 del 16 de Marzo del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre la Ilustre Municipalidad de Pedro Aguirre Cerda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyen…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre la Ilustre Municipalidad de Pedro Aguirre Cerda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

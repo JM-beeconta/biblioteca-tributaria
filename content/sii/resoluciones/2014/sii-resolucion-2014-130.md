@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iva_legislacion/resoluciones/2014/reso131.pdf' target='_blank'>Resolución Exenta SII N° 131 del 31 de Diciembre del 2014 Fija formato de mandato para retiro o liquidación de inversiones efectuadas para la reinversión en la misma u otra institución habilitada, de conformidad con el inciso décimo del artículo 54 bis de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización Establece Declaración Jurada anual que deben presentar las entidades facultadas para emitir productos financieros acogidos al art…
+Fiscalización Establece Declaración Jurada anual que deben presentar las entidades facultadas para emitir productos financieros acogidos al artículo 54 bis de la Ley sobre Impuesto a la Renta. Fija forma y plazo de presentación de esta declaración y de emisión del certificado a que se refiere el inciso undécimo del citado Artículo 54 bis Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

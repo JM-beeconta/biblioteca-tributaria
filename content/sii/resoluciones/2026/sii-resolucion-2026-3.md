@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2026
-- Fecha: 2026-01-14
+- Fecha: 2026-01-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso3.pdf
 - Hash SHA-256: 3780952c924b97546674549b456e0cc2d730fe4d672ed37ff382921209dca473
 
 ## Resumen
 
-e impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 04 del 14 de Enero del 2026 Aprueba convenio de intercambio de información y colaboración entre el consejo de defensa del estado y el servicio de impuestos internos. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 03 del 13 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asiste…
+cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 03 del 13 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

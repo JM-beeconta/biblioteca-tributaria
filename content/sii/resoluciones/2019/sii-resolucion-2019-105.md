@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te: Subdirección de Fiscalización Resolución Exenta SII N° 106 del 30 de Septiembre del 2019 Modifica .12.2015, manteniendo la obligación de presentar la Declaración Jurada N° 1822 y deja sin efecto la obligación de presentar la Declaración Jurada N°1821. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 105 del 30 de Septiembre del 2019 Modifica Resolución Ex. SII N° 110, de 24.12.2015, que establece Declaración Jurada Anual N° 1913, de caracterización tributaria global. Fuente: Subdirección de Fisca…
+cción de Fiscalización Modifica Resolución Ex. SII N° 110, de 24.12.2015, que establece Declaración Jurada Anual N° 1913, de caracterización tributaria global. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

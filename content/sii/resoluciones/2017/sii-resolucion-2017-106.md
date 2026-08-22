@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2017
-- Fecha: 2017-10-26
+- Fecha: 2017-10-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso106.pdf
 - Hash SHA-256: 4c5d5d4a648fd31eb51a285c2746232a6ab81ed5f52e1d72fa869dfe806cf66f
 
 ## Resumen
 
-> Resolución Exenta SII N° 107 del 26 de Octubre del 2017 Establece la obligación de presentar declaración jurada anual sobre operaciones en chile por medio de formulario n° 1946; y deroga resoluciones n°s 1, 17, 73 de 2003; 29 de 2004; 50 de 2012; 25 de 2015; 28 y 117 de 2016. Fuente: Subdirección de Fiscalización Autoriza como receptores electrónicos de documentos tributarios electrónicos a los siguientes organismos públicos:I Municipalidad de El Bosque I Municipalidad de Quilleco Fuente: Subdirección de Asisten…
+Fiscalización Autoriza como receptores electrónicos de documentos tributarios electrónicos a los siguientes organismos públicos:I Municipalidad de El Bosque I Municipalidad de Quilleco Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

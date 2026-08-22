@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección Normativa. Resolución Exenta SII N° 22 del 03 de Marzo del 2023 Establece procedimiento para solicitar condonación de los impuestos que graven los pagos o remesas realizados al exterior, conforme con lo dispuesto en el decreto N° 148, de fecha 08.02.2023, del Ministerio de Hacienda, y delega facultades que indica. Fuente: Subdirección de Fiscalización. Autoriza a emitir diariamente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de…
+cción de Fiscalización. Autoriza a emitir diariamente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

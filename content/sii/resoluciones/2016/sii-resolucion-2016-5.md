@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 5
 - Año: 2016
-- Fecha: 2016-02-02
+- Fecha: 2016-01-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso5.pdf
 - Hash SHA-256: 88b50d6af8b8fe70a06c7bfb630eba5e8f531492f8afe54c1eb0c1f76ffdd4df
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica Resolución Exenta SII N° 06 del 02 de Febrero del 2016 Corrige error de transcripción en Resolución Ex. SII N° 118, de 29.12.2015. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 05 del 22 de Enero del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 04 del 20 de Enero del…
+ute;n de Avaluaciones Resolución Exenta SII N° 05 del 22 de Enero del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

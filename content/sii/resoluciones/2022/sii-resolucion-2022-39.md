@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2022
-- Fecha: 2022-05-03
+- Fecha: 2022-05-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso39.pdf
 - Hash SHA-256: 3d1ebe4e21cdcd22c38f70d47c2574c39cae336076f47f43b51bf5aa0f59f3e1
 
 ## Resumen
 
-encia al Contribuyente. Resolución Exenta SII N° 40 del 03 de Mayo del 2022 Establece la forma y procedimiento para hacer efectiva postergación del pago del impuesto al valor agregado, conforme al inciso tercero del artículo 64 de la ley sobre impuesto a las ventas y servicios. Deja sin efecto Resolución Ex. SII N° 110 de 2014. Fuente: Subdirección de Fiscalización. Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan…
+cción de Fiscalización. Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 46, de 2021. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

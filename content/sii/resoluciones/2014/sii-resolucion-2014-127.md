@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 127
 - Año: 2014
-- Fecha: 2014-12-31
+- Fecha: 2014-12-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso127.pdf
 - Hash SHA-256: baaab7b5798637d3539eb2bd9d38c9fe762bed1e5a15631e64cedfb1fa1e39e1
 
 ## Resumen
 
-ii.cl/normativa_legislacion/resoluciones/2014/reso128.pdf' target='_blank'>Resolución Exenta SII N° 128 del 31 de Diciembre del 2014 Establece formulario para declarar y pagar el impuesto sobre rentas acumuladas y retiros en exceso, conforme a lo establecido en el N° 11, del numeral i), del artículo tercero de las disposiciones transitorias de la Ley N° 20.780 de 2014. Fuente: Subdirección de Fiscalización Establece procedimiento para comunicar tasaciones a valor de mercado de bienes raíces al amparo de la ley N°…
+Fiscalización Establece procedimiento para comunicar tasaciones a valor de mercado de bienes raíces al amparo de la ley N° 20.780, de 2014. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

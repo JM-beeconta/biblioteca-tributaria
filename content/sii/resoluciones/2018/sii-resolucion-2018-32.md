@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2018
-- Fecha: 2018-03-22
+- Fecha: 2018-03-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso32.pdf
 - Hash SHA-256: 65e50a31f751478f0abd47088b6c9cec1db4a0ebdab5702e446afe93b2dcac52
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 33 del 22 de Marzo del 2018 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Otorga condonación sobre las multas infraccionales en los casos que se señalan. Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 31 del 19 d…
+tégica y Estudios Tributarios Otorga condonación sobre las multas infraccionales en los casos que se señalan. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

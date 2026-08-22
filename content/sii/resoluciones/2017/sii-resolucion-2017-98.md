@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de la LIR. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 99 del 13 de Octubre del 2017 Adecúa Declaración Jurada Formulario N° 1922, según la normativa vigente. Fuente: Subdirección de Fiscalización Incorpórase en Declaración Jurada Anual N° 1832 establecida mediante Resolución Ex. N° 110, de fecha 15 de diciembre de 2004, la información de la donación y pago de impuesto a las donaciones contenido en la Ley N° 16.271, según lo dispuesto en Resolución Exenta SII N° 21, de fecha 10 de febrero de 201…
+Fiscalización Incorpórase en Declaración Jurada Anual N° 1832 establecida mediante Resolución Ex. N° 110, de fecha 15 de diciembre de 2004, la información de la donación y pago de impuesto a las donaciones contenido en la Ley N° 16.271, según lo dispuesto en Resolución Exenta SII N° 21, de fecha 10 de febrero de 2017, y de aquellas donaciones recibidas como consecuencia de sismos y catástrofes. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

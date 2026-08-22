@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 146
 - Año: 2023
-- Fecha: 2023-12-27
+- Fecha: 2023-12-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso146.pdf
 - Hash SHA-256: e2cfcf09cb76eb20c8800139cb4eb5e9bd09302c311943cd37303a145e65a60f
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 147 del 27 de Diciembre del 2023 Aprueba el Convenio de Intercambio de Información y Colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto…
+tégica y Estudios Tributarios. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

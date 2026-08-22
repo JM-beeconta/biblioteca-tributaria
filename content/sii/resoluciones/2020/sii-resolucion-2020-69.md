@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 70 del 30 de Junio del 2020 Prorroga vigencia de emisión de los documentos tributarios autorizados en formato papel que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 68 del 26…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

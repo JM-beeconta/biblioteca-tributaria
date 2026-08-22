@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nálisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 24 del 23 de Marzo del 2016 Establece vigencia de código de autorización de folios para los documentos tributarios electrónicos. Fuente: Subdirección de Asistencia de Contribuyentes Exime del timbraje de pagarés a contribuyente que indica. Fuente: Departamento de Atención y Asistencia de Contribuyente Resolución Exenta SII N° 22 del 23 de Marzo del 2016 Modifica Res. Ex. Sii N°18 de 22.04.2003, en la forma de la emisión de representaciones impresa…
+cia de Contribuyentes Exime del timbraje de pagarés a contribuyente que indica. Fuente: Departamento de Atención y Asistencia de Contribuyente
 
 ## Referencias detectadas
 

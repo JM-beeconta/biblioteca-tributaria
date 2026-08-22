@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le='margin-bottom:0px;'> Resolución Exenta SII N° 51 del 23 de Mayo del 2013 Autoriza uso crédito IVA y deducción del gasto de vehículo que indica, conforme art.23, N°4 DL N° 825, de 1974 y art. 31 inciso 1° del D.L. N° 824, de 1974. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas. Autoriza a instituciones sin fines de lucro como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeña Empresas. Resolución Exenta SII N° 49 del 22 de Mayo del 2…
+eñas Empresas. Autoriza a instituciones sin fines de lucro como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeña Empresas.
 
 ## Referencias detectadas
 

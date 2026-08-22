@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 76
 - Año: 2019
-- Fecha: 2019-06-25
+- Fecha: 2019-06-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso76.pdf
 - Hash SHA-256: 20611e39367f2221aa9d7b6d908ee3ea2a3bc0747fa330ae22798fe954c2c534
 
 ## Resumen
 
-l cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección De Fiscalización Resolución Exenta SII N° 77 del 25 de Junio del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la Sociedad Cines e Inversiones Cineplex Limitada para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fu…
+te;n de Asistencia al Contribuyente Autoriza a la Sociedad Cines e Inversiones Cineplex Limitada para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

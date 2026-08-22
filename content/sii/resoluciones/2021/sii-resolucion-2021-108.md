@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 108
 - Año: 2021
-- Fecha: 2021-09-15
+- Fecha: 2021-09-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso108.pdf
 - Hash SHA-256: f9724cf48c54b663027f62a212516de4c57fadee5b9b1d8c580b0f4f5d85fc0b
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 109 del 15 de Septiembre del 2021 Prorroga el plazo fijado en el n° 2 de la letra b del resolutivo 1° de la resolución ex. N° 41 de 2021 para resolver las reclamaciones de préstamo solidario. Fuente: Subdirección de Asistencia al Contribuyente. Designa responsables de procesos y delega facultad que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 107 d…
+ute;n de Asistencia al Contribuyente. Designa responsables de procesos y delega facultad que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

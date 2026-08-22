@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 113 del 20 de Diciembre del 2016 Aprueba designación de consejeros internos y externos del Consejo de la Sociedad Civil, en el sentido que indica. Fuente: Subdirección de Asuntos Corporativos Deja sin efecto Resolución Exenta SII N° 49, de 25 de mayo de 2015, en el sentido que indica y aprueba nuevo Reglamento Interno del Consejo de la Sociedad Civil. Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 111 del 20 de Diciembre…
+Asuntos Corporativos Deja sin efecto Resolución Exenta SII N° 49, de 25 de mayo de 2015, en el sentido que indica y aprueba nuevo Reglamento Interno del Consejo de la Sociedad Civil. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2020
-- Fecha: 2020-09-01
+- Fecha: 2020-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso102.pdf
 - Hash SHA-256: 866f0fb911684677daecf1ce1d33b9b163860cc1a23c4b23dd6732b77e96dc98
 
 ## Resumen
 
-trónicas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 103 del 01 de Septiembre del 2020 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 101 del 31 de Agosto…
+cute;n de Asistencia al Contribuyente Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

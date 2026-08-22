@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 154
 - Año: 2020
-- Fecha: 2020-12-14
+- Fecha: 2020-12-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso154.pdf
 - Hash SHA-256: 1f950408acfe985b30eb4bfa3a942317bb559a29e0f0af8c3c1523bc0d8244f8
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 155 del 14 de Diciembre del 2020 Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Casinos de Juego y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuesto y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratég…
+tégica y Estudios Tributarios. Aprueba Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuesto y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

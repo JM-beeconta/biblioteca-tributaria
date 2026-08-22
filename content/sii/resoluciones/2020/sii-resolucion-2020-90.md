@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2020
-- Fecha: 2020-08-21
+- Fecha: 2020-08-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso90.pdf
 - Hash SHA-256: d5a74ad4b2f684662a7920c56a0a686b94f2cb910d1faf88549146107e209177
 
 ## Resumen
 
-el artículo 5° del artículo primero de la Ley N° 21.252. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 91 del 21 de Agosto del 2020 Establece la obligación de informar las transacciones con tarjetas de pago según lo que se indica. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 89 del 05 d…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/span> Resolución Exenta SII N° 45 del 09 de Abril del 2019 Regula el intercambio de información entre el Fondo Nacional de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N° 3.500, de 1980. Fuente: Subdirección de Fiscalización Regula el intercambio de información entre los organismos administradores del seguro de la Ley N°16.744, el Servicio de Impuestos Internos, la Tesorer…
+cción de Fiscalización Regula el intercambio de información entre los organismos administradores del seguro de la Ley N°16.744, el Servicio de Impuestos Internos, la Tesorería General de la República y la Superintendencia de Seguridad Social, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N°3500, de 1980. Deroga y reemplaza la Resolución Ex. SII N°41, del Servicio de Impuestos Internos, la Circular conjunta N°01, de la Tesorería General de la República y…
 
 ## Referencias detectadas
 

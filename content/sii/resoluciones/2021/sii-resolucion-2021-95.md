@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2021
-- Fecha: 2021-08-17
+- Fecha: 2021-08-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso95.pdf
 - Hash SHA-256: c37e21b7f85a943aeab7b200737ff9079e9d4c532c1a441430eb40941ac88c4c
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 96 del 17 de Agosto del 2021 Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar bono adicional variable y bono para el pago de cotizaciones, establecidos en la ley n° 21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización. Modifica registro voluntario de instituciones financieras extranjeras e internacionales, formulario y procedimiento de inscripción, para efectos…
+cción de Fiscalización. Modifica registro voluntario de instituciones financieras extranjeras e internacionales, formulario y procedimiento de inscripción, para efectos de lo previsto en el artículo 59 n°1, letra b), de la ley sobre impuesto a la renta Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

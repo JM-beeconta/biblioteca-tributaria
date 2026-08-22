@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 138
 - Año: 2018
-- Fecha: 2018-12-27
+- Fecha: 2018-12-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso138.pdf
 - Hash SHA-256: 8e13f333c2e0afab6b70231693aa6a97f2a207a9d65f515a2ed33dda888189a4
 
 ## Resumen
 
-ottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 139 del 27 de Diciembre del 2018 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza al Conservador de Bienes Raíces de Buin, Sr. ELIAS SALOMON MOHOR ALBORNOZ, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de A…
+tégica y Estudios Tributarios Autoriza al Conservador de Bienes Raíces de Buin, Sr. ELIAS SALOMON MOHOR ALBORNOZ, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

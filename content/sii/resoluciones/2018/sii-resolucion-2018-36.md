@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 36
 - Año: 2018
-- Fecha: 2018-04-12
+- Fecha: 2018-04-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso36.pdf
 - Hash SHA-256: a68c704e930e92eacc367c1f03546ef2cfb084363115aca0ef726409c719f816
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 37 del 12 de Abril del 2018 Exime a AUTOFIN S.A. de la obligación de timbraje de pagarés establecida en el Articulo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo Fuente: Departamento de Asistencia al Contribuyente Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos contaminantes…
+mento de Asistencia al Contribuyente Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas y la forma de emitir el giro correspondiente. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

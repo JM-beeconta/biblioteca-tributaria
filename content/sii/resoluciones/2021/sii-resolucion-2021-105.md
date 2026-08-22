@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2021
-- Fecha: 2021-09-02
+- Fecha: 2021-09-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso105.pdf
 - Hash SHA-256: 9f76b1c411336b93752c076408cead137c0fa2c2fcf312a9a53116363862d60d
 
 ## Resumen
 
-os. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 106 del 02 de Septiembre del 2021 Reorganiza las unidades que conforman El departamento subdirección de Fiscalización y ámbito de competencia de Sus unidades. Fuente: Subdirección de Fiscalización. Aprueba convenio de prestación de servicios De consulta sobre estado de vigencia de Documentos de identidad entre el servicio de Registro civil e identificación y el servicio de Impuestos internos. Fuente: Subdirección de Ge…
+cción de Fiscalización. Aprueba convenio de prestación de servicios De consulta sobre estado de vigencia de Documentos de identidad entre el servicio de Registro civil e identificación y el servicio de Impuestos internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

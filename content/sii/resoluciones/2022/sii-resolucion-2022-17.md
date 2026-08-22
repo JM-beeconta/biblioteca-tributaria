@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 17
 - Año: 2022
-- Fecha: 2022-02-22
+- Fecha: 2022-02-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso17.pdf
 - Hash SHA-256: 2232be69dfcc76d928cf6a6d337621e9847a7ca84c0860df8ca32a1598be9ea1
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 18 del 22 de Febrero del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas en la condición que se señala Fuente: Subdirección de Asistencia al…
+tégica y Estudios Tributarios. Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas en la condición que se señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2024
-- Fecha: 2024-04-11
+- Fecha: 2024-04-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso43.pdf
 - Hash SHA-256: cc5b24f57576ed6aa04f6edb0a686ec6a7448ae04cd1aa05d045508e8b8d778a
 
 ## Resumen
 
-AL TRANSPORTE DE CARGA AJENA O PASAJEROS. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 44 del 11 de Abril del 2024 AUTORIZA A EMITIR MENSUALMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA Fuente: Subdirección de Asistencia al Contribuyente. APRUEBA MODIFICACIÓN DE CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE EL INSTITUTO NACIONAL DE PROPIEDAD INDUSTRIAL Y EL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Subdirección de Gestión…
+ute;n de Asistencia al Contribuyente. APRUEBA MODIFICACIÓN DE CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE EL INSTITUTO NACIONAL DE PROPIEDAD INDUSTRIAL Y EL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

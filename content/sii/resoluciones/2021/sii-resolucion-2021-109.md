@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 109
 - Año: 2021
-- Fecha: 2021-09-20
+- Fecha: 2021-09-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso109.pdf
 - Hash SHA-256: d253ac426e20af47994247eccc2eaf1e778cf76d3c08bed1642944513b2d6088
 
 ## Resumen
 
-o. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 110 del 20 de Septiembre del 2021 Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero Fuente: Subdirección de Fiscalización. Prorroga el plazo fijado en el n° 2 de la letra b del resolutivo 1° de la resolución ex. N° 41 de 2021 para resolver las reclamaciones de préstamo solidario. Fuente: Subdirección de Asistencia al C…
+cción de Fiscalización. Prorroga el plazo fijado en el n° 2 de la letra b del resolutivo 1° de la resolución ex. N° 41 de 2021 para resolver las reclamaciones de préstamo solidario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

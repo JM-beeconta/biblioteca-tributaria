@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p style='margin-top:0px;margin-bottom:0px;'>Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin efecto la .05.2024. Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 53 del 29 de Abril…
+cute;n de asistencia al contribuyente Instruye sobre la obligación de entregar la representación impresa o virtual de la boleta electrónica y/o comprobante de pago electrónico. Deja sin efecto resolución Ex. N° 12 de 2025. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

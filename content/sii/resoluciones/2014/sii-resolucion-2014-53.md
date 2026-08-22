@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2014
-- Fecha: 2014-06-02
+- Fecha: 2014-05-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso53.pdf
 - Hash SHA-256: 3047028f5db125c976b42a0997860792e6c7862deec183e558255aa2683f6e6a
 
 ## Resumen
 
-nte: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 54 del 02 de Junio del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la ley N° 20.732, para las cuotas 3 y 4 de un año y 1 y 2 del siguiente. Fuente: S…
+randes Contribuyentes Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la ley N° 20.732, para las cuotas 3 y 4 de un año y 1 y 2 del siguiente. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 86 del 30 de Agosto del 2024 Instruye sobre obligación de presentar declaración anual sobre bienes raíces arrendados por medio de formulario N° 1835; deja sin efecto Resolución Ex. SII N°98 de 31 de agosto de 2023. Fuente: Subdirección de Fiscalización. Modifica formato, contenido e instrucciones de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 84 del 30 de Agosto del 2024…
+cción de Fiscalización. Modifica formato, contenido e instrucciones de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

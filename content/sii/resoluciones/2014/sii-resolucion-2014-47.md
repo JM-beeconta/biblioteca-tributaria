@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2014
-- Fecha: 2014-05-23
+- Fecha: 2014-05-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso47.pdf
 - Hash SHA-256: ae17242b4994bf0d716b98326094a0fa8629aa4a95b75d467636a02c99f3b534
 
 ## Resumen
 
-te: Departamento de Operaciones Resolución Exenta SII N° 48 del 23 de Mayo del 2014 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Solicita información respecto de Trusts y entidades con características similares a un Trusts creadas de acuerdo a disposiciones de derecho extranjero, y deroga Resolución Ex. SII N°81 del 10.09.2013, D.O. 13.09.2013. Fuente: Departamento de Normas Internacional…
+cia de Contribuyentes Solicita información respecto de Trusts y entidades con características similares a un Trusts creadas de acuerdo a disposiciones de derecho extranjero, y deroga Resolución Ex. SII N°81 del 10.09.2013, D.O. 13.09.2013. Fuente: Departamento de Normas Internacionales
 
 ## Referencias detectadas
 

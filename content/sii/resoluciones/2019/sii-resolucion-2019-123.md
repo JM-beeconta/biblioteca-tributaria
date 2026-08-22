@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 123
 - Año: 2019
-- Fecha: 2019-11-11
+- Fecha: 2019-11-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso123.pdf
 - Hash SHA-256: 857a40ae7b6dfdfdded1f2dff4f47fe2bae5950b0acc29b68d03a8699e39a185
 
 ## Resumen
 
-nación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Subdirección de Administración Resolución Exenta SII N° 124 del 11 de Noviembre del 2019 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Establece forma y plazo para que las municipalidades informen al Servicio de Impuestos Internos la nómina de Bienes Raíces No Agrícolas, que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a…
+cción de Fiscalización Establece forma y plazo para que las municipalidades informen al Servicio de Impuestos Internos la nómina de Bienes Raíces No Agrícolas, que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Deja sin efecto Resoluciones Exentas SII N° 149, de 27.11.2006, y N° 194, de 29.12.2010. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

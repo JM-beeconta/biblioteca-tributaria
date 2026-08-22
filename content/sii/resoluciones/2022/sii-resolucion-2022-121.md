@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 122 del 21 de Diciembre del 2022 Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria. Fuente: Subdirección de Asuntos Corporativos. Autoriza a sociedad de servicios transaccionales caja vecina S.A., Rut N°76.727.730-K, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección…
+cción de Asuntos Corporativos. Autoriza a sociedad de servicios transaccionales caja vecina S.A., Rut N°76.727.730-K, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

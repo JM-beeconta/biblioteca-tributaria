@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os afectos a IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 104 del 25 de Octubre del 2024 Establece forma de acogerse a solicitud de término anticipado de gestiones judiciales pendientes conforme al artículo duodécimo transitorio de la Ley 21.713. Fuente: Subdirección Jurídica. Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes o rentas, dispuesto en el artículo undé…
+Subdirección Jurídica. Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes o rentas, dispuesto en el artículo undécimo transitorio de la Ley N° 21.713. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

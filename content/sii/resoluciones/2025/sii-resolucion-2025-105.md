@@ -11,7 +11,7 @@
 
 ## Resumen
 
-g; 129 de 2020. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 106 del 26 de Agosto del 2025 Modifica Resolución Ex. N° 110 de 2015 y reemplaza denominación, formato, contenido e instrucciones de la declaración jurada formulario N° 1913. Fuente: Subdirección de Fiscalización. Establece obligación de corredores de bolsa y agentes de valores, casas de cambio y otras entidades intermediadoras de informar al servicio operaciones que indica, efectuadas por cuenta de sus clientes. Deja sin efecto Resolu…
+cción de Fiscalización. Establece obligación de corredores de bolsa y agentes de valores, casas de cambio y otras entidades intermediadoras de informar al servicio operaciones que indica, efectuadas por cuenta de sus clientes. Deja sin efecto Resolución Ex. N° 4847 de 1995, y sus modificaciones. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

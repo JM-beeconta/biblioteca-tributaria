@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2019
-- Fecha: 2019-05-10
+- Fecha: 2019-05-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso61.pdf
 - Hash SHA-256: 7df85eb71f9d42cc2b9be098944bfd4c7d2d0b19475b23a10a7c50bba19ba348
 
 ## Resumen
 
-5 style='margin-bottom:0px;'> Resolución Exenta SII N° 62 del 10 de Mayo del 2019 Modificación al Título XIV del Libro II del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, a la Resolución Exenta N° 40 de 2019, del Servicio de Impuestos Internos, y a la Circular Conjunta N° 4 de la Tesorería General de la República. Fuente: Subdirección de Fiscalización Imparte instrucciones al Director Regional de la XIII Dirección Regional Metropolitana, Santiago Centro, para delegar en Jefe de…
+cción de Fiscalización Imparte instrucciones al Director Regional de la XIII Dirección Regional Metropolitana, Santiago Centro, para delegar en Jefe de Unidad de Ñuñoa las facultades que indica. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

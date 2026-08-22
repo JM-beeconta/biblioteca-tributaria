@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2023
-- Fecha: 2023-04-13
+- Fecha: 2023-04-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso46.pdf
 - Hash SHA-256: 29d058d443d303479ed2435c54f5fdc398b6fdcdaf6b9c7433a865419d470405
 
 ## Resumen
 
-ciembre de 2023. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 13 de Abril del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Arica Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Otorga la calidad de agente retenedor de IVA, de acuerdo con Res. Ex N° 1087, de 28.08.1978, a Gas de Chile S.A., Rut N° 96.694.400-5. Deroga resolución Ex. SII N°58, de 28.06.2022. Fuente: Subdirección de Fis…
+tégica y Estudios Tributarios. Otorga la calidad de agente retenedor de IVA, de acuerdo con Res. Ex N° 1087, de 28.08.1978, a Gas de Chile S.A., Rut N° 96.694.400-5. Deroga resolución Ex. SII N°58, de 28.06.2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 42
 - Año: 2022
-- Fecha: 2022-05-10
+- Fecha: 2022-05-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso42.pdf
 - Hash SHA-256: 9c8ae99043267e6857e71c8b3aa26b5c662cf31a4e6dbc1511236728e91b5f2b
 
 ## Resumen
 
-m:0px;'>Amplía el plazo para presentar las declaraciones de renta año tributario 2022, que no importen pago de impuesto. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 43 del 10 de Mayo del 2022 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de…
+Subdirección Jurídica. Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 22
 - Año: 2021
-- Fecha: 2021-02-26
+- Fecha: 2021-02-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso22.pdf
 - Hash SHA-256: f324a6dc91e2e2acb0c82f523961b75cb3ef9ea09ff6a00b74fb45595d7f10a1
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 23 del 26 de Febrero del 2021 Modifica la fecha de entrada en vigencia de la obligación contenida en la subletra e) de la letra e) de la Resolución Ex. SII N° 176 de fecha 31.12.2020, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución Ex. SII Nº 123 de 30.09.2020, que establece la forma y plazo para presentar las declaraciones juradas anual N° 1847 y N° 1926. Fuente…
+ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII Nº 123 de 30.09.2020, que establece la forma y plazo para presentar las declaraciones juradas anual N° 1847 y N° 1926. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

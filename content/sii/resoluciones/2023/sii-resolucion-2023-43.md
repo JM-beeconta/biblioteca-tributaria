@@ -11,7 +11,7 @@
 
 ## Resumen
 
-io. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 44 del 06 de Abril del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Cobquecura. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puerto Varas Fuente: Subdirección de Gestión Estratégica y Estudios Tributa…
+tégica y Estudios Tributarios. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puerto Varas Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

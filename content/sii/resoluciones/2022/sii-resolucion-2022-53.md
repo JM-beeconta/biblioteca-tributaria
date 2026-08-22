@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2022
-- Fecha: 2022-06-13
+- Fecha: 2022-06-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso53.pdf
 - Hash SHA-256: 10dd2e0c66d8e770dfc2356660e1d062d34aebf068515d806e2b2f1dbcc22777
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 54 del 13 de Junio del 2022 Habilita plataforma, instruye sobre requisitos y fija procedimiento para Solicitar el subsidio temporal que beneficia a las micro, pequeñas y Medianas empresas establecido en el artículo 9° de la ley n°21.456. Fuente: Subdirección de Fiscalización. Modifica resolución Ex. SII N° 74 de fecha 02 de julio de 2020, eliminando obligación de enviar el resumen de ventas diarias en la forma y condiciones que indica.…
+cción de Fiscalización. Modifica resolución Ex. SII N° 74 de fecha 02 de julio de 2020, eliminando obligación de enviar el resumen de ventas diarias en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

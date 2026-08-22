@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2021
-- Fecha: 2021-01-22
+- Fecha: 2021-01-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso6.pdf
 - Hash SHA-256: 1e7ef757468c925321d0e3091169ef87bb9b5902d0ee5497bed67e9a70a5aad1
 
 ## Resumen
 
-ón Estratégica y Estudios Tributarios. Resolución Exenta SII N° 07 del 22 de Enero del 2021 Regula obligación de entregar por medios electrónicos información relativa a bienes raíces por parte de notarios, conservadores y contribuyentes en relación con la determinación del impuesto territorial y sobretasa. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 15 de Enero del 2021 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resoluci…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 15 de Enero del 2021 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 76 del 09 de Agosto del 2013 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica y establece ámbitos de competencia Fuente: Subdirección Jurídica Resolución Exenta SII N° 74 del 31 de Julio del 2013 Autoriza como Emisores de Documentos Tributarios Electrónicos y Bole…
+cia de Contribuyentes Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica y establece ámbitos de competencia Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

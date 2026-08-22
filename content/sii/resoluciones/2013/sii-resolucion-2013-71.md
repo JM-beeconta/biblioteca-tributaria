@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 71
 - Año: 2013
-- Fecha: 2013-07-24
+- Fecha: 2013-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso71.pdf
 - Hash SHA-256: 2e9ceda22f47fcd374f55d03fbcee614657b996f336b18186b6eb52069b899f6
 
 ## Resumen
 
-rsonas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 72 del 24 de Julio del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeña Empresas Modifica Resolución N°379, de 04 de diciembre de 1991, en lo relacionado con el Departamento Subdirección de Fiscalización y establece ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 7…
+queña Empresas Modifica Resolución N°379, de 04 de diciembre de 1991, en lo relacionado con el Departamento Subdirección de Fiscalización y establece ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

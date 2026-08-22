@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 82
 - Año: 2021
-- Fecha: 2021-07-21
+- Fecha: 2021-07-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso82.pdf
 - Hash SHA-256: 5401b7422ecaeac4e47d3eba939b91048194e7c8d6bc1a4df49a74baa44e0cf4
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 83 del 21 de Julio del 2021 Renueva plazo para complementar la información que deben entregar las municipalidades, de acuerdo a las resoluciones Ex. SII N°s 62, 65, 75 y 79 de 2021. Fuente: Subdirección de Fiscalización. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar anticipo solidario para el pago de cotizaciones de seguridad social, estableci…
+cción de Fiscalización. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar anticipo solidario para el pago de cotizaciones de seguridad social, establecido en la Ley N° 21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

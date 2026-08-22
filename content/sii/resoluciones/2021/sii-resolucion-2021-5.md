@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rios, conservadores y contribuyentes en relación con la determinación del impuesto territorial y sobretasa. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 15 de Enero del 2021 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 05 del 15 de Enero del 2021 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de A…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 05 del 15 de Enero del 2021 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

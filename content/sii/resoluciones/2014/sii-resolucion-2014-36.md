@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;'> Resolución Exenta SII N° 37 del 15 de Abril del 2014 Amplía plazo de aceptación de propuesta de rebaja del Impuesto Territorial efectuada por el SII, en el marco de la Ley N°20.732, respecto de las cuotas 1 y 2 de 2014, para las regiones de Arica y Parinacota y Tarapacá Fuente: Subdirección de Avaluaciones Modifican Resolución Exenta SII N°95 de 08 de junio de 2010. Fuente: Dirección de grandes Contribuyentes Resolución Exenta SII N° 35 del 11 de Abril del 2014 Téngase por desafiliados del Sistema de Facturaci…
+ute;n de Avaluaciones Modifican Resolución Exenta SII N°95 de 08 de junio de 2010. Fuente: Dirección de grandes Contribuyentes
 
 ## Referencias detectadas
 

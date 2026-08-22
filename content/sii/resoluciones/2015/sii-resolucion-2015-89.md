@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2015
-- Fecha: 2015-11-20
+- Fecha: 2015-11-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso89.pdf
 - Hash SHA-256: 37cb3742b53a3c2025647eed522497b93a78f9eebdc4dfb48ee15cf6a990d22a
 
 ## Resumen
 
-istencia de Contribuyentes Resolución Exenta SII N° 90 del 20 de Noviembre del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 88 del 11 de Noviembre del 2015 Exime del timbraje de pagarés a…
+cia de Contribuyentes Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

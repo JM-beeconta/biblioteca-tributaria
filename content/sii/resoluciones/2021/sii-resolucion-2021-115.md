@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2021
-- Fecha: 2021-10-12
+- Fecha: 2021-10-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso115.pdf
 - Hash SHA-256: 8b47cb3aaf608d6cf25c1dbcf3176f9d6d8a1988623f2c5db0c935d9963a041a
 
 ## Resumen
 
-s Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 116 del 12 de Octubre del 2021 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Fija plazo y forma en que este servicio debe realizar los avisos para ejecutar las medidas preventivas y de colaboración contempladas en el numeral iii. Del artículo 33 del Código Tributario. Fuente: Subdirección de F…
+ute;n de Asistencia al Contribuyente. Fija plazo y forma en que este servicio debe realizar los avisos para ejecutar las medidas preventivas y de colaboración contempladas en el numeral iii. Del artículo 33 del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 102 del 24 de Octubre del 2024 Modifica resolución Ex. SII N° 131, de 2 de octubre de 2020, que dispone declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola y fija plazo de presentación. Fuente: Subdirección de Avaluaciones. Instruye sobre la forma de documentar los servicios prestados por trabajadores independientes de plataformas digitales sin domicilio o residencia en Chile Fuente: Subdirecció…
+Subdirección de Avaluaciones. Instruye sobre la forma de documentar los servicios prestados por trabajadores independientes de plataformas digitales sin domicilio o residencia en Chile Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

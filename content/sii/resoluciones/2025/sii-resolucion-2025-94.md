@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2025
-- Fecha: 2025-07-31
+- Fecha: 2025-07-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso94.pdf
 - Hash SHA-256: 4b103d9c2c6589f97e230b1f753458b21bd786e8eb2b7b067cb3e379e3f1c14c
 
 ## Resumen
 
-/span> Resolución Exenta SII N° 95 del 31 de Julio del 2025 Establece forma y periodicidad para el envío de la información que las municipalidades deben entregar de acuerdo con el nuevo régimen de ferias libres conforme a lo dispuesto en el párrafo 7° ter del título ii de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de asistencia al contribuyente Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 93 del 30 de Julio del 2…
+cute;n de asistencia al contribuyente Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

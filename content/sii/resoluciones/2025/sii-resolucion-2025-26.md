@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2025
-- Fecha: 2025-03-04
+- Fecha: 2025-02-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso26.pdf
 - Hash SHA-256: 02054e7898571c3e89ced5ac3e69ee6bd5d0552f88056c4d7462b48420bf156d
 
 ## Resumen
 
-puesto a la Renta. Deja sin efecto Resoluciones Ex. N° 68 de 2013 y N° 114 de 2022. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 27 del 04 de Marzo del 2025 Complementa y rectifica en el modo que indica listado anexo de la Resolución Exenta N°07 de 2025. Fuente: Subdirección de Avaluaciones. AUTORIZA A EDS TICKETS SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUY…
+Subdirección de Avaluaciones. AUTORIZA A EDS TICKETS SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 ## Referencias detectadas
 

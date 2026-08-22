@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2016
-- Fecha: 2016-01-14
+- Fecha: 2016-01-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso1.pdf
 - Hash SHA-256: 51f9bfa1baee9eabcc9e54b6dbf55365330349e9d9da9823cecbf11e020b977d
 
 ## Resumen
 
-Resolución Exenta SII N° 02 del 14 de Enero del 2016 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 06 de Enero del 2016 Modifica Resolución Exenta N° 48, del 2015, en los términos que indica. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val() var arch…
+ute;n de Avaluaciones Resolución Exenta SII N° 01 del 06 de Enero del 2016 Modifica Resolución Exenta N° 48, del 2015, en los términos que indica. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2016'); } else{ $(location).attr('href', '.…
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección Jurídica Resolución Exenta SII N° 34 del 14 de Abril del 2016 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 32 del 06 de Abril del 2016 Imparte instrucciones sobre la obligación d…
+mplimiento Tributario Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

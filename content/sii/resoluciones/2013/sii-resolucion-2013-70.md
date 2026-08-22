@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2013
-- Fecha: 2013-07-22
+- Fecha: 2013-07-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso70.pdf
 - Hash SHA-256: 67e136a9688835dcd8a26040a3946bfbe2a287f65ac5eef4d4c9c3e300915688
 
 ## Resumen
 
-n-bottom:0px;'> Resolución Exenta SII N° 71 del 22 de Julio del 2013 Modifica Resolución N°379, de 04 de diciembre de 1991, en lo relacionado con el Departamento Subdirección de Fiscalización y establece ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 69 del 28 de Junio…
+Fiscalización Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Resolución Exenta SII N° 92 del 21 de Agosto del 2020 Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el beneficio para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada Covid-19, del artículo 5° del artículo primero de la Ley N° 21.252. Fuente: Subdirección de Fiscalización. Establece la obligación de informar las transacciones con tarjetas de pago según lo que se indica. Fuente: Subdirección de Fiscalización. Resolución E…
+cción de Fiscalización. Establece la obligación de informar las transacciones con tarjetas de pago según lo que se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

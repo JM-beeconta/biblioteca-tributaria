@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2026
-- Fecha: 2026-02-25
+- Fecha: 2026-02-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso27.pdf
 - Hash SHA-256: b30629d8e3b807be0bafdd25a38f41d732a6671837ecc2133d8459d95ce3403a
 
 ## Resumen
 
-te;n y Colaboración entre la Agencia de Sustentabilidad y Cambio Climático y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 28 del 25 de Febrero del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 26 del 20 de Febrero del 2026 Aprueba Convenio…
+Subdirección Jurídica. Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

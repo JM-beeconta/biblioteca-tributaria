@@ -11,7 +11,7 @@
 
 ## Resumen
 
-href='https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso17.pdf' target='_blank'>Resolución Exenta SII N° 17 del 07 de Febrero del 2014 Aprueba protocolo de acuerdo entre el Servicio de Impuestos Internos, la Subsecretaría del Interior, Carabineros de Chile, Policia de Investigaciones de Chile, Dirección General del Territorio Marítimo y de Marina Mercante. Fuente: Subdirección Jurídica Modifica Resolución Ex. SII N° 163, de fecha 16.12.2008, que establece nuevos formatos de Declaración Jurada solicitu…
+te;n Jurídica Modifica Resolución Ex. SII N° 163, de fecha 16.12.2008, que establece nuevos formatos de Declaración Jurada solicitud de devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2018
-- Fecha: 2018-05-31
+- Fecha: 2018-05-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso47.pdf
 - Hash SHA-256: 5c9d23159186c860a161ed99a571ce68a65c8ec22756808a00d01477a839231e
 
 ## Resumen
 
-a y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 48 del 31 de Mayo del 2018 Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al Artículo 62 TER del código tributario. Fuente: Subdirección Normativa Rectifica lista anexa de la Resolución N° 04 exenta, de 2018. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 46 del 18 de Mayo del 2018 Establece obligación de presentar Declaración Jurada Anual sobre…
+uente: Subdirección Normativa Rectifica lista anexa de la Resolución N° 04 exenta, de 2018. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

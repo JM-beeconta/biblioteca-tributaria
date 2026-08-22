@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2020
-- Fecha: 2020-09-15
+- Fecha: 2020-09-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso112.pdf
 - Hash SHA-256: f904c6e780b7f0007571304b37b130d9ee65dcf01068b8a7b319cbdb4704b08f
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 113 del 15 de Septiembre del 2020 Modifica la resolución Exenta SII N°107 de 2017 y la estructura e instrucciones de la declaración jurada anual sobre operaciones en chile por medio de formulario N°1946. Fuente: Subdirección de Fiscalización. Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar e…
+cción de Fiscalización. Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N° 20.732. Deja sin efecto resoluciones que indica. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2023
-- Fecha: 2023-04-24
+- Fecha: 2023-04-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso48.pdf
 - Hash SHA-256: 04770bb964295db0307c7caacb6525acda0bd1baf0da048ab16f11a14346e162
 
 ## Resumen
 
-ue indica Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 49 del 24 de Abril del 2023 Excluye De Nómina De Contribuyente Sujeto A Retención, Fijada Conforme A Resolución Ex. Sii N° 126, De 28 De Diciembre De 2022, A Real Time Inversiones S.A Fuente: Subdirección de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 13 de…
+cción de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

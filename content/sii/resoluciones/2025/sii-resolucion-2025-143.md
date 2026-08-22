@@ -11,7 +11,7 @@
 
 ## Resumen
 
-10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 144 del 16 de Octubre del 2025 Autoriza a empresa falabella retail s.a. a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma, condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación y el Servicio de Impuestos I…
+cute;n de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

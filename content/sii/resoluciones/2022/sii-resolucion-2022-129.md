@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2022 Años Anteriores Fija Valores De Terrenos Y Construcciones Para El Reavalúo 2023, De Los Bienes Raíces No Agrícolas Correspondientes A Sitios No Edificados, Propiedades Abandonadas O Pozos Lastreros, Ubicados En Las Áreas Urbanas. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 128 del 29 de Diciembre del 2022 Establece forma de declaración y pago de los impuestos establecidos en el decreto Ley Nº 3475 de 1980 sobre impuesto de…
+9"> Fija Valores De Terrenos Y Construcciones Para El Reavalúo 2023, De Los Bienes Raíces No Agrícolas Correspondientes A Sitios No Edificados, Propiedades Abandonadas O Pozos Lastreros, Ubicados En Las Áreas Urbanas. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

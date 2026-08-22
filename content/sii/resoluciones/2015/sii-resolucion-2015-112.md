@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sii.cl/normativa_legislacion/resoluciones/2015/reso113.pdf' target='_blank'>Resolución Exenta SII N° 113 del 24 de Diciembre del 2015 Modifica Resolución N° 16 de 03 de marzo de 2015, en lo relativo a la obligación de declarar y reemplaza el formato de las declaraciones Juradas Formularios N°s 1851 y 1853 y las instrucciones pertinentes Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece forma y plazo para presentar Declaración Jurada anual N° 1926 a los contribuyentes que indica; disp…
+mplimiento Tributario Establece forma y plazo para presentar Declaración Jurada anual N° 1926 a los contribuyentes que indica; dispone la obligación para las medianas empresas de presentar la Declaración Jurada N° 1847; y deroga Resoluciones Exentas N°s 1, del 2012 y 41, del 2014. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

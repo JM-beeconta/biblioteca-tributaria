@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2022
-- Fecha: 2022-03-25
+- Fecha: 2022-03-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso29.pdf
 - Hash SHA-256: a2ed3877eb039e2a5cdb9a64c002dd30de6b8a4b17dd34a9a64c1442ba60bc16
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 30 del 25 de Marzo del 2022 Imputación de los pagos anticipados, retenciones adicionales y/o pagos provisionales mensuales adicionales por la restitución del préstamo tasa cero (o préstamo solidario del estado). Fuente: Subdirección de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Reso…
+cción de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

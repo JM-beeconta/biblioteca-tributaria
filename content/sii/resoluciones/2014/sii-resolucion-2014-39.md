@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2014
-- Fecha: 2014-04-25
+- Fecha: 2014-04-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso39.pdf
 - Hash SHA-256: 9c1bba27102934777a749c70f131d53ce1d549ffaa43f1f0eaf5d17d9f460c3d
 
 ## Resumen
 
-Exenta N°03, de 2012 Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta SII N° 40 del 25 de Abril del 2014 Delega facultades que indica Fuente: Departamento de Asesoría Jurídica Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 38 del 16 de Abril del 2014 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento…
+ute;a Jurídica Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

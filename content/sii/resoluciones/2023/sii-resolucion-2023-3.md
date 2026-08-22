@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2023
-- Fecha: 2023-01-16
+- Fecha: 2023-01-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso3.pdf
 - Hash SHA-256: 7a3b96106486755fdb8f2f1a98cc4521eea19012ab8c9305d031283359a09c6a
 
 ## Resumen
 
-valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 04 del 16 de Enero del 2023 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 03 del 12 de Enero del 2023 Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asis…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 03 del 12 de Enero del 2023 Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

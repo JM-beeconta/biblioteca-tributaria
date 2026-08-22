@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 88 del 28 de Septiembre del 2018 Complementa la obligación de presentar Declaración Jurada Anual sobre operaciones en Chile por medio de Formulario N° 1946; y modifica la Resolución Ex. SII N° 107 de 2017. Fuente: Subdirección de Fiscalización Complementa la obligación de presentar Declaración Jurada Anual sobre Operaciones en el Exterior por medio de Formulario N° 1929; y modifica la Resolución Ex. SII N° 1…
+cción de Fiscalización Complementa la obligación de presentar Declaración Jurada Anual sobre Operaciones en el Exterior por medio de Formulario N° 1929; y modifica la Resolución Ex. SII N° 120 de 2016. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

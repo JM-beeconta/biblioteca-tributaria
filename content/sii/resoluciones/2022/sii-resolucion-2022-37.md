@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2022
-- Fecha: 2022-04-27
+- Fecha: 2022-04-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso37.pdf
 - Hash SHA-256: b71256e2a696af4d729a34fda99d3e76f32ec335487ed381839f87ea9a7cd383
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 38 del 27 de Abril del 2022 Designa secretarios suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Talca. Fuente: Subdirección Jurídica. Otorga condonación sobre multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 22 de Ab…
+Subdirección Jurídica. Otorga condonación sobre multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

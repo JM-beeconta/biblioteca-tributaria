@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2014
-- Fecha: 2014-04-11
+- Fecha: 2014-04-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso34.pdf
 - Hash SHA-256: aef1b12ab7b9395821ccc7836a4f78c7f676c6227b095c017e703ac045dbbf53
 
 ## Resumen
 
-ección de grandes Contribuyentes Resolución Exenta SII N° 35 del 11 de Abril del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Delega en los Jefes de Departamentos de Avaluaciones la facultad que indica Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 33 del 04 de Abril del 2014 Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el…
+cia de Contribuyentes Delega en los Jefes de Departamentos de Avaluaciones la facultad que indica Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

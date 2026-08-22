@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2020
-- Fecha: 2020-08-25
+- Fecha: 2020-08-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso94.pdf
 - Hash SHA-256: bfe58a5af6b67543c51eef8c998cdf4c399b9eea9bb20159aa6171551e2bddaf
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 95 del 25 de Agosto del 2020 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Chilena de la Construcción. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autorización a corporación red de alimentos, Rut Nº 65.020.518-9, para distribuir alimentos, pañales y otros artículos de primera necesidad a instituciones sin fines de lucro n…
+tégica y Estudios Tributarios. Autorización a corporación red de alimentos, Rut Nº 65.020.518-9, para distribuir alimentos, pañales y otros artículos de primera necesidad a instituciones sin fines de lucro no inscritas en los términos que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n el artículo 9° de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 123 del 21 de Diciembre del 2022 Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 121 d…
+ute;n de Asistencia al Contribuyente. Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

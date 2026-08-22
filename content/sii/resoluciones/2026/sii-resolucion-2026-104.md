@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2026
-- Fecha: 2026-08-20
+- Fecha: 2026-08-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso104.pdf
 - Hash SHA-256: c69d15fb1c5cb13d7d6254360add01f903b9900f358063d7ed32a555f4b9831d
 
 ## Resumen
 
-de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 105 del 20 de Agosto del 2026 Complementa y modifica nomina de Grandes Contribuyentes, establecida en la Resolucion Ex. SII N° 208, de fecha 30 de diciembre de 2025. Fuente: Subdireccion de grandes contribuyentes Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 103 del 11 de Agosto del 2026…
+ubdireccion de grandes contribuyentes Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

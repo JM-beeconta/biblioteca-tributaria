@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2014
-- Fecha: 2014-11-14
+- Fecha: 2014-11-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso105.pdf
 - Hash SHA-256: 5aea5efb3a7c91485864b2172cbe5954df49b9a54d4f27f439c2208773f116e0
 
 ## Resumen
 
-ontribuyentes Resolución Exenta SII N° 106 del 14 de Noviembre del 2014 Incorpora a las Administradoras de Fondos de Inversión a la obligación de presentar Declaración Jurada Anual 1909 y Certificado n° 38. Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN Autoriza emisión en papel de documentos tributarios que deban ser emitidos en formato electrónico a los contribuyentes que indica. Fuente: Departamento de atención y asistencia de contribuyentes Resolución Exenta SII N° 104 del 10 de Noviembre del 2014 Autoriza a las instit…
+FISCALIZACIÓN Autoriza emisión en papel de documentos tributarios que deban ser emitidos en formato electrónico a los contribuyentes que indica. Fuente: Departamento de atención y asistencia de contribuyentes
 
 ## Referencias detectadas
 

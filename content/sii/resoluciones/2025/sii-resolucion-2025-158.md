@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 158
 - Año: 2025
-- Fecha: 2025-11-11
+- Fecha: 2025-11-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso158.pdf
 - Hash SHA-256: 25597c15d52752c730ea5c655d3bc19aa045e5812906897e1337fd544687689b
 
 ## Resumen
 
-Resolución Exenta SII N° 128 de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 159 del 11 de Noviembre del 2025 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 157 del 06 de Novi…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

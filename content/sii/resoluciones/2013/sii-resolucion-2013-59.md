@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ción y Asistencia de Contribuyentes Resolución Exenta SII N° 60 del 17 de Junio del 2013 Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas. Autoriza a Falabella Retail S.A., RUT 77.261.280-k , a generar representaciones impresas de boletas electrónicas en la forma que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 58 del 17 de Junio del 2013 A…
+eñas Empresas. Autoriza a Falabella Retail S.A., RUT 77.261.280-k , a generar representaciones impresas de boletas electrónicas en la forma que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

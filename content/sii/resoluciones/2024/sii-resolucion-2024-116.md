@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 116
 - Año: 2024
-- Fecha: 2024-12-12
+- Fecha: 2024-12-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso116.pdf
 - Hash SHA-256: 810571e144643117be7f5e08feb6d8644d7a45911de001ebab8e1fa2ee2aa073
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 117 del 12 de Diciembre del 2024 Fija documentos tributarios que deben emitirse por los vendedores de bienes muebles usados para identificar a su proveedor conforme al Artículo 88 bis del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente. Fija forma y periodicidad de las sesiones del comité ejecutivo. Deja sin efecto Resolución Ex. SII N° 68 de 2016. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 115 del 05 de Diciembre del…
+ute;n de Asistencia al Contribuyente. Fija forma y periodicidad de las sesiones del comité ejecutivo. Deja sin efecto Resolución Ex. SII N° 68 de 2016. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

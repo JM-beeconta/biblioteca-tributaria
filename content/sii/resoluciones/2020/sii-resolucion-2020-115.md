@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 116 del 23 de Septiembre del 2020 Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos…
+tégica y Estudios Tributarios. Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

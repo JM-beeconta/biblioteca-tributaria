@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2021
-- Fecha: 2021-06-01
+- Fecha: 2021-05-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso53.pdf
 - Hash SHA-256: 9a905b6a579cb5fac12de477280c8cd96c5a2506e550001e11aeca09cd2ba07b
 
 ## Resumen
 
-I Nº 617 de 1999. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 54 del 01 de Junio del 2021 Amplía el plazo para presentar la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero. Fuente: Subdirección de Fiscalización. Establece criterios generales y situaciones que configuran el hecho gravado, en los casos que señala la letra g, del artículo 8°, del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdire…
+cción de Fiscalización. Establece criterios generales y situaciones que configuran el hecho gravado, en los casos que señala la letra g, del artículo 8°, del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

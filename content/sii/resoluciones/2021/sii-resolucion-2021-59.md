@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2021
-- Fecha: 2021-06-14
+- Fecha: 2021-06-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso59.pdf
 - Hash SHA-256: ab6115844a8fbbbfe70a3422f2e2f6e6f5c7f4fa1bf1ce8455372853099c03ce
 
 ## Resumen
 
-ernos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 60 del 14 de Junio del 2021 Emisión de boletas de servicios por cuenta de empresas productoras u organizadoras de espectáculos públicos y reuniones pagadas. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 58 del 11 de Junio del 2021 Estab…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

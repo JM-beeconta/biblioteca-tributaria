@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2021
-- Fecha: 2021-06-09
+- Fecha: 2021-06-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso55.pdf
 - Hash SHA-256: a2231c650511abf5ef258af398de86d917ae6512a4b0b84b512d235a15082df1
 
 ## Resumen
 
-Estudios Tributarios. Resolución Exenta SII N° 56 del 09 de Junio del 2021 Incorpora a la tabla de depreciación de Res. Ex. SII N°43 de 2002, los vehículos eléctricos o híbridos con recarga eléctrica exterior, y otros calificados como cero emisiones por resolución fundada del ministerio de energía. Fuente: Subdirección de Fiscalización. Establece procedimiento a seguir respecto de las solicitudes de devolución de remanente de crédito fiscal IVA por adquisiciones de activo fijo. Deja sin efecto resolución Exenta SI…
+cción de Fiscalización. Establece procedimiento a seguir respecto de las solicitudes de devolución de remanente de crédito fiscal IVA por adquisiciones de activo fijo. Deja sin efecto resolución Exenta SII Nº 617 de 1999. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

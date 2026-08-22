@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 76
 - Año: 2014
-- Fecha: 2014-08-14
+- Fecha: 2014-08-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso76.pdf
 - Hash SHA-256: 02e9c357183e27c7b19029f7a6d2d7f573c6ceffd0b678fa3dd2f0a34725d616
 
 ## Resumen
 
-to de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 77 del 14 de Agosto del 2014 Modifica la Resolución N°379 de 1991 en lo relacionado con el Departamento Subdirección de Informática Fuente: Subdirección de Informática Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 75 del 11 de Agosto del 2014 Autoriza impresora fiscal marca SAM4S, modelo ELLIX40…
+de Informática Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

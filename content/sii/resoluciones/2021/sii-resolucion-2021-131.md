@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 131
 - Año: 2021
-- Fecha: 2021-11-26
+- Fecha: 2021-11-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso131.pdf
 - Hash SHA-256: 5d688743ad95c416bcc8b603b8cbba2b1683b7572fd61d9d292798477ab9ab4b
 
 ## Resumen
 
-te;n establecida en el artículo 103 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 132 del 26 de Noviembre del 2021 Delega facultades que indica en materias de personas. Refunde y deja sin efecto resoluciones que indica. Fuente: Subdirección de Desarrollo de Personas. Aprueba convenio de intercambio de información y colaboración entre la unidad de análisis financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tri…
+ión de Desarrollo de Personas. Aprueba convenio de intercambio de información y colaboración entre la unidad de análisis financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

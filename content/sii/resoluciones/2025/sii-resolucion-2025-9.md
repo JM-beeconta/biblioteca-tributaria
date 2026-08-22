@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de sujeto de derecho del IVA en las ventas de Berries. Deja sin efecto las Resoluciones Ex. SII N° 55 de 2005 y N° 58 de 2006. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 10 del 16 de Enero del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 09 del 16 de Enero del 2025 Fija procedimiento para el giro y pago del impuesto establecido en el artículo 9 de la Ley N° 21.420, modificado por el artículo 5 de la Ley 21.713. D…
+Subdirección Jurídica. Resolución Exenta SII N° 09 del 16 de Enero del 2025 Fija procedimiento para el giro y pago del impuesto establecido en el artículo 9 de la Ley N° 21.420, modificado por el artículo 5 de la Ley 21.713. Deja sin efecto resolución exenta SII N° 125 de 2022. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

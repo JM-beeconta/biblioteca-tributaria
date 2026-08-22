@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 101
 - Año: 2015
-- Fecha: 2015-12-21
+- Fecha: 2015-12-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso101.pdf
 - Hash SHA-256: 949699dc67aed42bd09351e7f0823b3004b850ee9e73e01014d0a6d51adce6b5
 
 ## Resumen
 
-px;'> Resolución Exenta SII N° 102 del 21 de Diciembre del 2015 Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Fija plazo para presentación de declaraciones juradas que se indican. Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 100 del 01 de Diciembre del 2015 Establece nueva denominación "Dep…
+ute;n de Avaluaciones Fija plazo para presentación de declaraciones juradas que se indican. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

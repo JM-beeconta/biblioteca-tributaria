@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2024
-- Fecha: 2024-03-15
+- Fecha: 2024-03-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso34.pdf
 - Hash SHA-256: f3d4ef34f8295aa20577adcb89dc1757eae854d31f6b66b7828704e92a8b4f46
 
 ## Resumen
 
-e indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 35 del 15 de Marzo del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Tomé. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 33 del 11 de Marzo del 2024 Individualiza a las personas que, en razón de su función o cargo,…
+tégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

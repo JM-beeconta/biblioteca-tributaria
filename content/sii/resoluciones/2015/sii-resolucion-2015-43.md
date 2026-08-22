@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2015
-- Fecha: 2015-05-11
+- Fecha: 2015-05-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso43.pdf
 - Hash SHA-256: 04cb10e5fe303173c46104dede4396e0f656ead3d79cba11d832566ccc4d6ef0
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Dirección Nacional Resolución Exenta SII N° 44 del 11 de Mayo del 2015 Revoca delegación de facultades de decidir la interposición de denuncia o querella en casos que indica Fuente: Dirección Nacional Fija formato y condiciones de la solicitud que deben presentar los contribuyentes de impuesto adicional que realicen las operaciones a que se refieren las letras a), c), d), e), h) y j), del n° 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y soliciten a e…
+cción Nacional Fija formato y condiciones de la solicitud que deben presentar los contribuyentes de impuesto adicional que realicen las operaciones a que se refieren las letras a), c), d), e), h) y j), del n° 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y soliciten a este Servicio que determine previamente el mayor valor sobre el cual debe calcularse el impuesto de retención que afecta a dichas operaciones. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

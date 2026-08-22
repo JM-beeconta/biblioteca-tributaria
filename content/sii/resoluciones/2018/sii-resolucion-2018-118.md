@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 118
 - Año: 2018
-- Fecha: 2018-12-03
+- Fecha: 2018-11-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso118.pdf
 - Hash SHA-256: da1d43c75e1941020ef3abd11d3e6c612a3e216802a8c7a61b82e158ba65e52a
 
 ## Resumen
 
-acute;digo Tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 119 del 03 de Diciembre del 2018 Incorpórase a SERVICIOS FINANCIEROS PROGRESO S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato Fuente: Subdirección de Asistencia al Contribuyente Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exent…
+ute;n de Asistencia al Contribuyente Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

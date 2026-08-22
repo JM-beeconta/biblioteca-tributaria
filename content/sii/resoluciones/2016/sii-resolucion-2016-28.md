@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 29 del 05 de Abril del 2016 Instruye sobre procedimiento y plazo para comunicar tasaciones a valor de mercado de bienes raíces al amparo de las leyes N° 20.780, de 2014, y N° 20.899, de 2016. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece la forma y oportunidad en que los contribuyentes que invoquen la exención de impuesto adicional establecida en el N° 2 del inciso cuarto del artículo 59 de la Ley sobre Impuesto a la Renta, deberán informar sus operacione…
+mplimiento Tributario Establece la forma y oportunidad en que los contribuyentes que invoquen la exención de impuesto adicional establecida en el N° 2 del inciso cuarto del artículo 59 de la Ley sobre Impuesto a la Renta, deberán informar sus operaciones por los años tributarios 2011 al 2015; y modifica Resolución Ex. SII N° 1, de 2003. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

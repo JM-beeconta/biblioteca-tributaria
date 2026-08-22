@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lo establecido en el Artículo 9 de la Ley N° 21.420, modificada por el Artículo 5° de la Ley N° 21.713. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 126 del 20 de Diciembre del 2024 Complementa lista anexa de la Resolución Exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones. Incorpórase a comisión nacional de riego, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 124 del 19 de Di…
+Subdirección de Avaluaciones. Incorpórase a comisión nacional de riego, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

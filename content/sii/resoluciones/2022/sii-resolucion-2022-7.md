@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2022
-- Fecha: 2022-01-31
+- Fecha: 2022-01-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso7.pdf
 - Hash SHA-256: 27f3163169b8d88c997731dda7fe2384313d285da03008c83d1d98ffd3cf11d0
 
 ## Resumen
 
-es de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 31 de Enero del 2022 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 28 de Enero del 2022 Designa responsables de procesos y delega facultad que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 28 de Enero del 2022 Designa responsables de procesos y delega facultad que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

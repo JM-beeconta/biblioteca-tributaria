@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 122 del 19 de Diciembre del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Estación Central. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reitera exigencias legales sobre emisión de facturas para el caso de supermercados y restaurantes y su cumplimiento Fuente: Subdirección de Fiscalización. Resolución Exen…
+tégica y Estudios Tributarios. Reitera exigencias legales sobre emisión de facturas para el caso de supermercados y restaurantes y su cumplimiento Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

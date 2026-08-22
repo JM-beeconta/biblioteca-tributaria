@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2014
-- Fecha: 2014-01-28
+- Fecha: 2014-01-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso10.pdf
 - Hash SHA-256: 9c6c31eada978a2aef11acf1e6603f6de8d6e223399fc789702adb9cdebce881
 
 ## Resumen
 
-e;n Avaluaciones Resolución Exenta SII N° 11 del 28 de Enero del 2014 Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas y deroga Resolución Exenta N°4.845 de 1995. Fuente: Subdirección de Fiscalización Autoriza timbraje de documentos a contribuyentes de la Unidad Norte en la forma que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 09 del 22 de Enero del 2014 Sustituye estructura y contenido del Formulario N°50 sobre declar…
+Fiscalización Autoriza timbraje de documentos a contribuyentes de la Unidad Norte en la forma que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

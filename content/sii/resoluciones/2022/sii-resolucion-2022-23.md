@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 23
 - Año: 2022
-- Fecha: 2022-02-28
+- Fecha: 2022-02-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso23.pdf
 - Hash SHA-256: a74a4866c51910e117eca7fc02deba42f4fca2088a0c439835fb82bd3b8f8e85
 
 ## Resumen
 
-acute;culo 33 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 24 del 28 de Febrero del 2022 Autoriza a RED APOYO SA., Rut 76.948.390-K, para retener y enterar en arcas fiscales el impuesto al valor agregado, según se indica. Fuente: Subdirección de Fiscalización. Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribu…
+cción de Fiscalización. Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

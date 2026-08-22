@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2017
-- Fecha: 2017-11-27
+- Fecha: 2017-11-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso112.pdf
 - Hash SHA-256: ebd1a068780c6e46e4ff5a537a6a578f22db43f407784a16a678d9bd06539734
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones, Oficina de Proyectos Resolución Exenta SII N° 113 del 27 de Noviembre del 2017 Autoriza al notario Sr. Luis Alberto Maldonado Concha, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 111 del 15 de Noviembre del 2017 Ex…
+ncia al Contribuyente Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

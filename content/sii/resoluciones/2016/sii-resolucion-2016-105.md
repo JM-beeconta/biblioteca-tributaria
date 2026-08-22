@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2016
-- Fecha: 2016-11-18
+- Fecha: 2016-11-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso105.pdf
 - Hash SHA-256: 95ef29f9a217f070bc9c0f3382a461833e6e098f7daeea0c7245202aef1242a8
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 106 del 18 de Noviembre del 2016 Complementa Resolución Exenta SII N° 119 del 29 de diciembre de 2015, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Resolución Exenta SII N° 104 del 02 de Noviembre del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alim…
+randes Contribuyentes Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

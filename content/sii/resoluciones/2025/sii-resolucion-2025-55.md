@@ -11,7 +11,7 @@
 
 ## Resumen
 
-que se indican Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 56 del 30 de Abril del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente Imparte instrucciones sobre el procedimiento de fiscalización unificado del artículo 59 ter del código tributario. Fuente: Subdirección de fiscalización Resolución Exenta SII N° 54 del 30 de Abril del 2025 Ind…
+cute;n de asistencia al contribuyente Imparte instrucciones sobre el procedimiento de fiscalización unificado del artículo 59 ter del código tributario. Fuente: Subdirección de fiscalización
 
 ## Referencias detectadas
 

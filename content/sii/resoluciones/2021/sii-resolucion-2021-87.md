@@ -11,7 +11,7 @@
 
 ## Resumen
 
-io de Hacienda. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 88 del 27 de Julio del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 86 del 23 de Julio del 2021 Establece…
+tégica y Estudios Tributarios. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

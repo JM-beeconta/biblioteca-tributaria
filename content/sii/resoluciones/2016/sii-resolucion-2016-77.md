@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributarios Resolución Exenta SII N° 78 del 09 de Agosto del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 76 del 09 de Agosto del 2016 Autoriza al Cons…
+Estudios Tributarios Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

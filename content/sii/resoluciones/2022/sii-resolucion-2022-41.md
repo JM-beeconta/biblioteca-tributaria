@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ividualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 42 del 06 de Mayo del 2022 Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 40 del 03 de Mayo del 2…
+rección de Informática. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

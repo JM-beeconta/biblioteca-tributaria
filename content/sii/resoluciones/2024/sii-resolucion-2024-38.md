@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2024
-- Fecha: 2024-03-25
+- Fecha: 2024-03-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso38.pdf
 - Hash SHA-256: 97d9c2cfd701aace869964bcfc43fe7b6379d84d08e525f51f665bbf5831dcf8
 
 ## Resumen
 
-:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 39 del 25 de Marzo del 2024 Resuelve solicitud de prórroga para implementar el sistema de marcación establecido en los artículos 60 quinquies del Código Tributario y 13 bis del D.L. N° 828 de 1974. Fuente: Subdirección de Fiscalización. Rectifica en el modo que indica listado anexo de la Resolución Exenta SII N° 8, de 2024. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 37 del 15 de Marzo del 2024…
+cción de Fiscalización. Rectifica en el modo que indica listado anexo de la Resolución Exenta SII N° 8, de 2024. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

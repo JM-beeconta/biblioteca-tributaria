@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 142
 - Año: 2025
-- Fecha: 2025-10-16
+- Fecha: 2025-10-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso142.pdf
 - Hash SHA-256: f40d8dd4277095ba05cf0d0c73575466b0e137d83e87e4feab700a12a41201d0
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 143 del 16 de Octubre del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente Modifica la resolucion n° 93 de 2025 que regula la declaración y pago del iva por parte de vendedores remotos y operadores de plataformas digitales de intermediaci…
+cute;n de Asistencia al Contribuyente Modifica la resolucion n° 93 de 2025 que regula la declaración y pago del iva por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

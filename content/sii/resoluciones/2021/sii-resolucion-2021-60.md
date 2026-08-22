@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 61 del 14 de Junio del 2021 Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Emisión de boletas de servicios por cuenta de empresas productoras u organizadoras de espectáculos públicos y reuniones pagadas. Fuente: Subdirección de Fiscalización. R…
+tégica y Estudios Tributarios. Emisión de boletas de servicios por cuenta de empresas productoras u organizadoras de espectáculos públicos y reuniones pagadas. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

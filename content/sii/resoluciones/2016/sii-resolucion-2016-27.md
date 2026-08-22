@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l del 2016 Establece la forma y oportunidad en que los contribuyentes que invoquen la exención de impuesto adicional establecida en el N° 2 del inciso cuarto del artículo 59 de la Ley sobre Impuesto a la Renta, deberán informar sus operaciones por los años tributarios 2011 al 2015; y modifica Resolución Ex. SII N° 1, de 2003. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece formulario para declarar y pagar el impuesto sustitutivo sobre rentas acumuladas, para contribuyentes acogidos…
+mplimiento Tributario Establece formulario para declarar y pagar el impuesto sustitutivo sobre rentas acumuladas, para contribuyentes acogidos o que se acojan al Régimen Simplificado del artículo 14 ter de la Ley sobre Impuesto a la Renta y para contribuyentes sujetos al régimen general del impuesto a la renta. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eg; 127 del 14 de Diciembre del 2018 Establece procedimiento por el cual las Sociedades Administradoras de Fondos deberán obtener RUT y actualizar la información de cada uno de los fondos que administran, según lo dispuesto en la Ley N° 20.712 del 2014, modificada por las Leyes N° 20.780 del 2014 y, Ley N° 20.899 del 2016. Se reemplaza y deroga la resolución exenta SII N° 28 de 08.03.2017 Fuente: Subdirección de Asistencia al Contribuyente Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a…
+ute;n de Asistencia al Contribuyente Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a GLOBAL ELECTRIC LIMITADA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

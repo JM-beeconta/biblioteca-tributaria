@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2018
-- Fecha: 2018-05-18
+- Fecha: 2018-05-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso45.pdf
 - Hash SHA-256: 7495426917a8925008c1442c12799611faf905f7ed464f175169afeab1446e8f
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 46 del 18 de Mayo del 2018 Establece obligación de presentar Declaración Jurada Anual sobre trusts; fija formato y mecanismo de declaración; y deroga Resolución Exenta SII N° 47 de fecha 19.05.2014. Fuente: Subdirección de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 44 del 04 de Mayo del 2018 Autoriz…
+cción de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

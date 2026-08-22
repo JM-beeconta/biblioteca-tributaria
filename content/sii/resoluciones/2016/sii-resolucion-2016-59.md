@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2016
-- Fecha: 2016-06-29
+- Fecha: 2016-06-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso59.pdf
 - Hash SHA-256: 557402f890cc28b13c8d5f0a933263c720ebbc6c8aed3e6fe6d01017835c46dc
 
 ## Resumen
 
-de Asistencia al Contribuyente Resolución Exenta SII N° 60 del 29 de Junio del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 58 del 23 de Junio del 2016 Prorroga vigencia de emisión de los documentos timbrados que indica F…
+cia de Contribuyentes Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

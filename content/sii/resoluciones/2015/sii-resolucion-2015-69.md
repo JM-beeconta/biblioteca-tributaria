@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2015
-- Fecha: 2015-08-10
+- Fecha: 2015-08-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso69.pdf
 - Hash SHA-256: bfe04d79a3cc8c6e2cbc88757eceaa7429ec2883819a635481a1aeab06735b76
 
 ## Resumen
 
-cción de Avaluaciones Resolución Exenta SII N° 70 del 10 de Agosto del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Modifica Res. Ex. SII N° 56, de 30 de junio de 2015, en el sentido que indica Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 68 del 07 de Agosto del 2015 Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica.…
+cia de Contribuyentes Modifica Res. Ex. SII N° 56, de 30 de junio de 2015, en el sentido que indica Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

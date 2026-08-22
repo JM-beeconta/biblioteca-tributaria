@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2016
-- Fecha: 2016-03-18
+- Fecha: 2016-03-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso18.pdf
 - Hash SHA-256: 71ee2da68824b2f5fdc474b5471f8b4c9f13c83bb49c014afb55369653a05a8d
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Contraloría Interna Resolución Exenta SII N° 19 del 18 de Marzo del 2016 Fija nuevo plazo para presentación de Declaración Jurada Formulario N°1851 Fuente: Departamento de Sistemas de Fiscalización Autoriza a Director de la Dirección de Grandes Contribuyentes para delegar en el Jefe del Departamento Jurídico de su dependencia las facultades que indica Fuente: Subdirección Jurídica Resolución Exenta SII N° 17 del 15 de Marzo del 2016 Amplía plazo de presentación de la D…
+Fiscalización Autoriza a Director de la Dirección de Grandes Contribuyentes para delegar en el Jefe del Departamento Jurídico de su dependencia las facultades que indica Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

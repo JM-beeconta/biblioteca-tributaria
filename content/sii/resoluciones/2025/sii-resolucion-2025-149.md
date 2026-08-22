@@ -11,7 +11,7 @@
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 150 del 23 de Octubre del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Medio Ambiente y el Servicio de Impuestos Internos. Fuente…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Medio Ambiente y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

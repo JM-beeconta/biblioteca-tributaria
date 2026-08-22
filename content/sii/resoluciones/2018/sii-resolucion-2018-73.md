@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2018
-- Fecha: 2018-09-04
+- Fecha: 2018-09-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso73.pdf
 - Hash SHA-256: 420e74563a6395716301cf34b1cd9f71082b294a6986b0723173c1fa1e3e77eb
 
 ## Resumen
 
-980-2, otorgada mediante la Resolución Exenta N° 6, del 18.01.2018. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 74 del 04 de Septiembre del 2018 Instala la XX Dirección Regional, Chillán, fijando su sede y jurisdicción territorial Fuente: Subdirección Jurídica Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 72 del 31 de Agosto del 2018 Excluye de nómina de…
+Subdirección Jurídica Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

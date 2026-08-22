@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2015
-- Fecha: 2015-09-14
+- Fecha: 2015-08-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso73.pdf
 - Hash SHA-256: 3e67de9bff39e6a4c8ad0bbc4980967e250ec663e2c8cab57c45519b54c9cb4d
 
 ## Resumen
 
-cute;n de Fiscalización Resolución Exenta SII N° 74 del 14 de Septiembre del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica diseño del Formulario 29, sobre Declaración Mensual y Pago Simultáneo de Impuesto, incorporando una nueva línea 27, con los códigos que se indican, conforme a la modificación que la Ley N° 20.780 introduce al artículo 23 N° 4 D.L. 825, de 1974. Fuente:…
+mplimiento Tributario Modifica diseño del Formulario 29, sobre Declaración Mensual y Pago Simultáneo de Impuesto, incorporando una nueva línea 27, con los códigos que se indican, conforme a la modificación que la Ley N° 20.780 introduce al artículo 23 N° 4 D.L. 825, de 1974. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

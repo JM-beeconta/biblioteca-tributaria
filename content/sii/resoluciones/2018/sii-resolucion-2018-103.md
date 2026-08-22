@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2018
-- Fecha: 2018-10-19
+- Fecha: 2018-10-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso103.pdf
 - Hash SHA-256: 7f4b95a0e5af573988ca7e81ef3cf6d231c1c977f8deb46f192335a7552cc2ea
 
 ## Resumen
 
-de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 104 del 19 de Octubre del 2018 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Incorpórase INTERFACTOR S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 102 del 11 de Octubre del…
+cción de Fiscalización Incorpórase INTERFACTOR S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

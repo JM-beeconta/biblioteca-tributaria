@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;digo Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 78 del 26 de Junio del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Peñalolén. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para la obtención de Rut e inicio de actividades Fuente: Subdirección Jurídica. Resolución Exenta SII N° 76 del 26 de Junio del 2025 Fija nóminas de agentes retenedores y de cont…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para la obtención de Rut e inicio de actividades Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

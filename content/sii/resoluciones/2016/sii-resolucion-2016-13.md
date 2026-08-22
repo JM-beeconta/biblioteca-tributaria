@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2016
-- Fecha: 2016-03-11
+- Fecha: 2016-03-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso13.pdf
 - Hash SHA-256: 3d394a2ba4c4670f4dc53f0248836d2bd23072c957ae32e4b5efc3da06bd00e2
 
 ## Resumen
 
-Tributarios Resolución Exenta SII N° 14 del 11 de Marzo del 2016 Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Reorganiza las Unidades que conforman el Departamento Subdirección de Desarrollo de Personas y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Desarrollo de Personas Resolución Exenta SII N° 12 del 10 de Marzo del 2016 Mo…
+Estudios Tributarios Reorganiza las Unidades que conforman el Departamento Subdirección de Desarrollo de Personas y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Desarrollo de Personas
 
 ## Referencias detectadas
 

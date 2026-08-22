@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2023 Años Anteriores Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el Reavalúo de los bienes raíces de la primera serie agrícola Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 149 del 28 de Diciembre del 2023 Fija valores de terrenos y construcciones para el Reavalúo 2024, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros,…
+9"> Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el Reavalúo de los bienes raíces de la primera serie agrícola Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

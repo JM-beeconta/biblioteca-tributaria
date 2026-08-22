@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bre Impuesto a la Renta, efectuadas por la Ley N° 21.047. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 50 del 11 de Junio del 2018 Modifica instrucción contenida en el Anexo 3 de la Resolución Ex. SII Nº 40, de fecha 31 de marzo de 2017. Fuente: Subdirección de Fiscalización Autoriza a empresa Ticketmundo SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Resol…
+ción de Fiscalización Autoriza a empresa Ticketmundo SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

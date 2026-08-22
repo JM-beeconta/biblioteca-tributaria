@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 75 del 23 de Agosto del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Frutas de Chile A.G Fuente: Subdirección de Fiscalización Delega facultades que indica relativas a horas extraordinarias, y revoca las facultades que se señalan, conferidas mediante la Resolución N° 343, de 2000, de esta Dirección Nacional, a las jefaturas que se indican Fuent…
+Fiscalización Delega facultades que indica relativas a horas extraordinarias, y revoca las facultades que se señalan, conferidas mediante la Resolución N° 343, de 2000, de esta Dirección Nacional, a las jefaturas que se indican Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

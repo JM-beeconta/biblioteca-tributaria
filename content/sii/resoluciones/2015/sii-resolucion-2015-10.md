@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2015
-- Fecha: 2015-02-24
+- Fecha: 2015-02-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso10.pdf
 - Hash SHA-256: 868948580ced2680a7f1301ddc8abc1f72d86dc8bafc073ebfb7d6545b50cef5
 
 ## Resumen
 
-sis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 11 del 24 de Febrero del 2015 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis masivo del Cumplimiento Tributario Establece modelo de Certificado N|41, sobre retenciones practicadas conforme al artículo 74 N|1 de la Ley sobre Impuesto a la Renta, y otros componentes de las remuneraciones de los trabajadores agrícolas Fuente: Departamento de Análisis Masivo del…
+mplimiento Tributario Establece modelo de Certificado N|41, sobre retenciones practicadas conforme al artículo 74 N|1 de la Ley sobre Impuesto a la Renta, y otros componentes de las remuneraciones de los trabajadores agrícolas Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

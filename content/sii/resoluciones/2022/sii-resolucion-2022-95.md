@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Octubre del 2022 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 96 del 06 de Octubre del 2022 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2023 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 94 del 04 de Octubre del 2022 Declara término de giro según lo dispuesto en el inciso…
+Subdirección Jurídica. Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2023 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

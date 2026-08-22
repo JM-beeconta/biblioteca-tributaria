@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 129
 - Año: 2025
-- Fecha: 2025-10-02
+- Fecha: 2025-10-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso129.pdf
 - Hash SHA-256: 1be24c1ccf09bedcdd2fad6e455e2e95b5766d3ba602e3b04923e6e8307279e1
 
 ## Resumen
 
-gropecuario y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 130 del 02 de Octubre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paine. Fuente: Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Iquique. Fuente: Subdirección de Avaluaciones. Resolución Exen…
+Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Iquique. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

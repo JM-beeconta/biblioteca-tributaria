@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2014
-- Fecha: 2014-04-04
+- Fecha: 2014-04-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso32.pdf
 - Hash SHA-256: f7ff0f14b6af95dd9a92d76ec04e4245eb402336cd025c031d270344baaaa110
 
 ## Resumen
 
-s://www.sii.cl/normativa_legislacion/resoluciones/2014/reso33.pdf' target='_blank'>Resolución Exenta SII N° 33 del 04 de Abril del 2014 Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N°20.732, de 2014, para las cuotas 1 y 2 de 2014. Fuente: Subdirección de Avaluaciones Complementa y Rectifica Resolución Exenta SII N° 109 de 27 de Diciembre de 2013, en los términos que indi…
+ute;n de Avaluaciones Complementa y Rectifica Resolución Exenta SII N° 109 de 27 de Diciembre de 2013, en los términos que indica. Fuente: Dirección Grandes Contribuyentes
 
 ## Referencias detectadas
 

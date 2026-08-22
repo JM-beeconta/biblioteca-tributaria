@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 80 del 26 de Junio del 2025 Establece procedimiento para presentar la solicitud de no ser notificado por correo electrónico en las situaciones que prevé el inciso primero del artículo 11 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Instruye sobre la forma en que los órganos de la administración del estado, operadores y otras entidades que se indican, deberán verificar el cumplimiento del inc…
+ute;n de Asistencia al Contribuyente. Instruye sobre la forma en que los órganos de la administración del estado, operadores y otras entidades que se indican, deberán verificar el cumplimiento del inciso décimo segundo y décimo tercero del artículo 68 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

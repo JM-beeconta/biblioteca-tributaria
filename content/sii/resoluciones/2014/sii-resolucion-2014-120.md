@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ww.sii.cl/normativa_legislacion/resoluciones/2014/reso121.pdf' target='_blank'>Resolución Exenta SII N° 121 del 26 de Diciembre del 2014 Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes que comercialicen máquinas expendedoras, reemplazando resolutivo séptimo de la Resolución Ex. SII N° 63, del 30.06.2005 Fuente: Subdirección de Asistencia al Contribuyente delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes como emisores…
+ncia al Contribuyente delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes como emisores de documentos tributarios electrónicos Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

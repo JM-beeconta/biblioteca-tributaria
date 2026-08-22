@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2013
-- Fecha: 2013-06-28
+- Fecha: 2013-06-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso68.pdf
 - Hash SHA-256: 302c8bdfe3d691cfd7921af1d87b85acfcde7d36ab927c7d308f9aa6ecafe908
 
 ## Resumen
 
-stencia de Contribuyentes Resolución Exenta SII N° 69 del 28 de Junio del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes. Imparte instrucciones sobre procedimiento de suscripción de acuerdos anticipados de precios de transferencia, de acuerdo al N°7 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Fiscalización Internacional. Resolución Exenta SII N° 67 de…
+ia de Contribuyentes. Imparte instrucciones sobre procedimiento de suscripción de acuerdos anticipados de precios de transferencia, de acuerdo al N°7 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Fiscalización Internacional.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2023
-- Fecha: 2023-04-26
+- Fecha: 2023-04-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso49.pdf
 - Hash SHA-256: 1360d12512da267869c5a1208a0a03a7a3d371f74572d4922d9053fb7fe5b9c1
 
 ## Resumen
 
-e al modelo de operación de contabilidad electrónica a los contribuyentes que señala y rectifica res. Ex. SII N°02 de 10.01.2023. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 50 del 26 de Abril del 2023 Delega facultades que indica Fuente: Subdirección Desarrollo de las Personas Excluye De Nómina De Contribuyente Sujeto A Retención, Fijada Conforme A Resolución Ex. Sii N° 126, De 28 De Diciembre De 2022, A Real Time Inversiones S.A Fuente: Subdirección de Fiscalización. Resolución…
+ión Desarrollo de las Personas Excluye De Nómina De Contribuyente Sujeto A Retención, Fijada Conforme A Resolución Ex. Sii N° 126, De 28 De Diciembre De 2022, A Real Time Inversiones S.A Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

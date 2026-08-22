@@ -1,8 +1,8 @@
 {
   "status": "completed",
   "requested_at": "2026-08-22T02:04:56.806Z",
-  "updated_at": "2026-08-22T18:56:46.738Z",
-  "completed_at": "2026-08-22T18:56:46.738Z",
+  "updated_at": "2026-08-22T19:23:38.795Z",
+  "completed_at": "2026-08-22T19:23:38.795Z",
   "total_ranges": 14,
   "completed_ranges": [
     "2021-2024",
@@ -23,6 +23,6 @@
   ],
   "completed_count": 15,
   "last_completed_range": "Resoluciones-2013-2026",
-  "last_range_documents": 1959,
-  "total_documents": 11122
+  "last_range_documents": 1975,
+  "total_documents": 11138
 }

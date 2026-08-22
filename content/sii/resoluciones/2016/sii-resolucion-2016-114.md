@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ento Tributario Resolución Exenta SII N° 115 del 26 de Diciembre del 2016 Modifica la Resolución Ex. N° 187 de 2010 en cuanto reemplaza formato Formulario N° 1805 e instrucciones de llenado. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017. Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 113 del 20 de Diciembre del 2016 Aprueba designación de consejeros internos y ex…
+mplimiento Tributario Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

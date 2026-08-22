@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2016
-- Fecha: 2016-02-29
+- Fecha: 2016-02-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso9.pdf
 - Hash SHA-256: f6379406075790fbc227cbd155449f304ab78106bb69a83f6c42fee4cf2c05ae
 
 ## Resumen
 
-° 10 del 29 de Febrero del 2016 Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar modelos de máquinas registradoras, modelos de máquinas de impresión y terminales de punto de venta y para emisión de certificados técnicos de mantención para terminales de punto de venta y máquinas registradoras. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 09 del 23 de Febrero del 2016 Establece escala de tasas conforme al precio internacional de los minerale…
+cia de Contribuyentes Resolución Exenta SII N° 09 del 23 de Febrero del 2016 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

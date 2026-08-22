@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2016
-- Fecha: 2016-07-06
+- Fecha: 2016-06-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso63.pdf
 - Hash SHA-256: b61eb5c11b5933c1047676c262642a95aa9b92c4bd35a6df0601f396885676d2
 
 ## Resumen
 
-al Contribuyente Resolución Exenta SII N° 64 del 06 de Julio del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman Fuente: Subdirección de Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 62 del 30 de Junio del 2016 Crea Departamento de Administración…
+Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

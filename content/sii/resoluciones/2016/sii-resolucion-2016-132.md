@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Establece obligación para dar aviso y presentar antecedentes que se indican para los contribuyentes acogidos al régimen de renta presunta que deseen acogerse a dicho régimen o deban abandonarlo voluntaria u obligatoriamente. Deroga Resolución Ex. SII N° 126 de 31.12.2015. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 131 del 30 de Diciembre del 2016 Establece forma y plazo para que las entidades relacionadas que se indican informen a la empresa o sociedad re
+Establece obligación para dar aviso y presentar antecedentes que se indican para los contribuyentes acogidos al régimen de renta presunta que deseen acogerse a dicho régimen o deban abandonarlo voluntaria u obligatoriamente. Deroga Resolución Ex. SII N° 126 de 31.12.2015. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

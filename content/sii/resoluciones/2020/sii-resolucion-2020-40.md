@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os productos Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 41 del 13 de Abril del 2020 Aplica medidas tributaria, en relación al impuesto a las ventas y servicios, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile. Fuente: Subdirección de Fiscalización. Establece medidas tributarias, en relación al impuesto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 39 del 09 de Abril…
+cción de Fiscalización. Establece medidas tributarias, en relación al impuesto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

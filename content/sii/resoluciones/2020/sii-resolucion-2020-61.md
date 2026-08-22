@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2020
-- Fecha: 2020-06-24
+- Fecha: 2020-06-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso61.pdf
 - Hash SHA-256: cae49d935f17fe57261d3849edd64310cba9bde76b6785789d0b25aaf93e8f18
 
 ## Resumen
 
-tes, establecido en el artículo primero de la Ley N° 21.242 de 2020. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 62 del 24 de Junio del 2020 Complementa Resolución Exenta SII N°143 de 31 de Diciembre de 2019, en los términos que indica. Fuente: Dirección De Grandes Contribuyentes. Modifica Resolución EX. Sii Nº 49 de 2020 que crea modelo de certificado Nº 66 sobre donaciones asociadas al brote mundial del virus denominado Coronavirus-2 o COVID-19. Fuente: Subdirección de Fiscalización. Resoluci…
+ión De Grandes Contribuyentes. Modifica Resolución EX. Sii Nº 49 de 2020 que crea modelo de certificado Nº 66 sobre donaciones asociadas al brote mundial del virus denominado Coronavirus-2 o COVID-19. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 82
 - Año: 2018
-- Fecha: 2018-06-29
+- Fecha: 2018-09-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso82.pdf
 - Hash SHA-256: d6d369b240cbf45be8cef912ca33193a0e59e995e98ca9a56c2c1f1e5896a989
 
 ## Resumen
 
-N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 83 del 14 de Septiembre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre Dirección General de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributario…
+cción de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre Dirección General de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

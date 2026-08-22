@@ -11,7 +11,7 @@
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 109 del 14 de Septiembre del 2023 Designa Secretaria Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de María Pinto Fuente: Subdirección de…
+Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de María Pinto Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

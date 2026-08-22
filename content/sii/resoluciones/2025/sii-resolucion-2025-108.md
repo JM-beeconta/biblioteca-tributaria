@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 109 del 26 de Agosto del 2025 Modifica Res. Ex. SII N° 113 de 2022, que establece formato, contenido y medio de envío del reporte de saldos y sumas de abonos de cuentas financieras, y Res. Ex. SII N° 5 de 2025, que establece forma y plazo de presentación de la declaración jurada para información de abonos recibidos. Declaraciones juradas formularios N°s 1955 y 1959. Fuente: Subdirección de Fiscalización. Modifica Resolución Exenta SII N° 125 de 2020, sobre declaración jurada formulario N°…
+cción de Fiscalización. Modifica Resolución Exenta SII N° 125 de 2020, sobre declaración jurada formulario N° 1952. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 65
 - Año: 2026
-- Fecha: 2026-05-25
+- Fecha: 2026-05-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso65.pdf
 - Hash SHA-256: ed80187b02cef780c04c479b83ee846ca280127fb3fc5ecd0709cc6319391bf5
 
 ## Resumen
 
-del 25 de Mayo del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 66 del 25 de Mayo del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Movilización Nacional y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 64 del 30 de Abril d…
+Subdirección Jurídica. Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Movilización Nacional y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

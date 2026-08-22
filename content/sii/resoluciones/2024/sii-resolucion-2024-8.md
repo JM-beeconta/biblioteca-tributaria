@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nicipalidad de Los Muermos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 09 del 10 de Enero del 2024 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 10 de Enero del 2024 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 10 de…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 10 de Enero del 2024 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

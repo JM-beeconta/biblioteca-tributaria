@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2019
-- Fecha: 2019-08-07
+- Fecha: 2019-07-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso92.pdf
 - Hash SHA-256: 6c03eb66d861a13415d7e991350ea07a03815cbb276589f0fcb7b648cd29cc2e
 
 ## Resumen
 
-Exenta SII N° 93 del 07 de Agosto del 2019 Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Rectifica lista anexa de la Resolución Exenta N° 03, de 2019. Fuente: Subd…
+cción de Fiscalización Rectifica lista anexa de la Resolución Exenta N° 03, de 2019. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

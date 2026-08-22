@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2013
-- Fecha: 2013-07-31
+- Fecha: 2013-07-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso73.pdf
 - Hash SHA-256: 5e5f8f930dcf37fe5eff3bc4ec3999385bae30195cac9433a70f7a401922c817
 
 ## Resumen
 
-ión Jurídica Resolución Exenta SII N° 74 del 31 de Julio del 2013 Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza uso del crédito fiscal IVA y deducción del gasto de vehículos que indica, conforme art. 23 N° 4 del D.L. N°825, de 1974 y art. 31 inciso 1° del D.L: N° 824, de 1974 Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 72 del 24 de…
+cia de Contribuyentes Autoriza uso del crédito fiscal IVA y deducción del gasto de vehículos que indica, conforme art. 23 N° 4 del D.L. N°825, de 1974 y art. 31 inciso 1° del D.L: N° 824, de 1974 Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

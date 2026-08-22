@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 20
 - Año: 2020
-- Fecha: 2020-02-11
+- Fecha: 2020-02-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso20.pdf
 - Hash SHA-256: 1f7f84e9183c83344bc5c51b3371f7744e868bd6538ea45d217a68128221ff25
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Secretaria General Resolución Exenta SII N° 21 del 11 de Febrero del 2020 Designa secretario titular y suplente en tribunal especial de alzada de los Bienes Raíces de la Segunda Serie, con Jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Valdivia. Fuente: Departamento de Asesoría Jurídica. Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia…
+o de Asesoría Jurídica. Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia
 
 ## Referencias detectadas
 

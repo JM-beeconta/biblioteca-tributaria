@@ -11,7 +11,7 @@
 
 ## Resumen
 
-zo del 2015 Establece forma y oportunidad en que las administradoras de fondos de inversión y fondos mutuos y las instituciones intermediarias que se señalan, deben presentar las declaraciones juradas a las que se refiere el artículo 7° transitorio de la ley N° 20.712, de 2014, sobre &ldquo;administración de fondos de terceros y carteras individuales&rdquo;. Fuente: Subdirección de Fiscalización Establece forma y oportunidad en que las Administradoras de Fondos de Inversión y Fondos Mutuos y las instituciones inte…
+Fiscalización Establece forma y oportunidad en que las Administradoras de Fondos de Inversión y Fondos Mutuos y las instituciones intermediarias que se señalan, deben cumplir con la obligación de informar, establecida en los artículos 81 y 82 de la ley que regula la administración de fondos de terceros y carteras individuales (la ley), contenida en el artículo primero de la Ley N° 20.712 de 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

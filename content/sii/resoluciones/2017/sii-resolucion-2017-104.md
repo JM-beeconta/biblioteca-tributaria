@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2017
-- Fecha: 2017-10-17
+- Fecha: 2017-10-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso104.pdf
 - Hash SHA-256: d8d984bb517ab849ed5515bc96db9016d8e0d28b847532920e570dd6a1935c7d
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 105 del 17 de Octubre del 2017 Modifica Resolución N° 120 de 2016, que establece la obligación de presentar Declaración Jurada 1929, sobre operaciones en el exterior Fuente: Subdirección de Fiscalización Autoriza a IGT Global Solutions Corporation Chile, Rut N° 78.465.510-5, para retener y enterar en arcas fiscales el Impuesto al Valor Agregado según se indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 10…
+Fiscalización Autoriza a IGT Global Solutions Corporation Chile, Rut N° 78.465.510-5, para retener y enterar en arcas fiscales el Impuesto al Valor Agregado según se indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

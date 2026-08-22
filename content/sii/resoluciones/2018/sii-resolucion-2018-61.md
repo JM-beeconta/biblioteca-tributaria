@@ -11,7 +11,7 @@
 
 ## Resumen
 
-les cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 62 del 10 de Agosto del 2018 Excluye de nomina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54 de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Determina contribuyentes obligados a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 19…
+cción de Fiscalización Determina contribuyentes obligados a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974 e indica empresa con la cual los contribuyentes obligados deberán contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

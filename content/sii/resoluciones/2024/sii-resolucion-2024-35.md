@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;sima Corte de Apelaciones de Rancagua. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 36 del 15 de Marzo del 2024 Establece requisitos respecto de la información registrada en la sección de detalle de los documentos tributarios electrónicos que indica. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Tomé. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exen…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Tomé. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

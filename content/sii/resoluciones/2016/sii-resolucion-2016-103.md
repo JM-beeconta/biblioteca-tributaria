@@ -11,7 +11,7 @@
 
 ## Resumen
 
-: Departamento de Operaciones Resolución Exenta SII N° 104 del 02 de Noviembre del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución SII N° 102 del 24 de Octubre del 2016 Designa Representa…
+mplimiento Tributario Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

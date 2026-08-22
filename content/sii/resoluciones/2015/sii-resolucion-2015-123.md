@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ion/resoluciones/2015/reso124.pdf' target='_blank'>Resolución Exenta SII N° 124 del 31 de Diciembre del 2015 Establece Obligación de llevar Libro Auxiliar de Control del Límite de Ventas o Ingresos, de los contribuyentes acogidos a un régimen de Renta Presunta, que no estén obligados a llevar Libro de Compras y Ventas y que no califiquen como Microempresas. Fuente: Subdireción de Fiscalización Establece modo de informar gastos incurridos en supermercados y comercios similares conforme a la modificación que la Ley…
+Fiscalización Establece modo de informar gastos incurridos en supermercados y comercios similares conforme a la modificación que la Ley N° 20.780 introdujo al Inciso 1°, del Artículo 31 de la Ley sobre Impuesto a la Renta Fuente: Subdireción de Fiscalización
 
 ## Referencias detectadas
 

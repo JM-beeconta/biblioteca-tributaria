@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2013
-- Fecha: 2013-10-25
+- Fecha: 2013-10-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso90.pdf
 - Hash SHA-256: eafa040a550e81f94e7fc487be94e1d4257e1c900ccb162ccc3bc2a217b8a0d7
 
 ## Resumen
 
-> Resolución Exenta SII N° 91 del 25 de Octubre del 2013 Establece requisitos y procedimiento para la emisión de documentos tributarios en operaciones de remate de bienes corporales muebles efectuadas por martilleros públicos Fuente: Departamento Medianas y Grandes Empresas Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 89 del 17 de Octubre del 2013 Crea Oficina de…
+as y Grandes Empresas Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

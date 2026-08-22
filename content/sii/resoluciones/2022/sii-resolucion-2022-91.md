@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 92 del 29 de Septiembre del 2022 Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Promoción de la Inversión Extranjera y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estud…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Promoción de la Inversión Extranjera y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

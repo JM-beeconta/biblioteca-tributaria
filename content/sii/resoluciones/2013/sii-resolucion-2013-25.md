@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 26 del 22 de Febrero del 2013 Sustitúyase las instrucciones de llenado de la Declaración Jurada Formulario N° 1866 a que se refiere la Resolución Ex. N° 121 de fecha 31.12.2004. Fuente: Subdirección de Fiscalización Extiende obligación de presentar Declaración Jurada sobre retiros de excedentes de libre disposición y su certificación respectiva a otras instituciones que administren estos recursos. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 24 del 22 de Febrero del 2013…
+Fiscalización Extiende obligación de presentar Declaración Jurada sobre retiros de excedentes de libre disposición y su certificación respectiva a otras instituciones que administren estos recursos. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

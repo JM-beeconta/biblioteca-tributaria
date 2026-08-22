@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2020
-- Fecha: 2020-02-04
+- Fecha: 2020-01-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso14.pdf
 - Hash SHA-256: 24c562febd7d7c62a634fb0562d4a512d24f28ef92d201342f950419dfc37a0c
 
 ## Resumen
 
-10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 15 del 04 de Febrero del 2020 Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos Fuente: Subdirección De Gestión Estratégica y Estudios Tributarios Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la…
+atégica y Estudios Tributarios Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la DDJJ Formulario N° 1879, en los casos que se señalan Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

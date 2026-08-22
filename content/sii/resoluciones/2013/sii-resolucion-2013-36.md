@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 37 del 27 de Marzo del 2013 Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican Fuente: Depto. Atención y Asistencia de Contribuyentes. Delega facultades que indica en el Subdirector de Avaluaciones. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 35 del 22 de Marzo del 2013 Autoriza delegación de facultad que indica. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 34 d
+ia de Contribuyentes. Delega facultades que indica en el Subdirector de Avaluaciones. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

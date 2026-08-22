@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 09 de Octubre del 2018 Autoriza a Liga Chilena contra el Mal de Parkinson, como receptora de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 97 del 09…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

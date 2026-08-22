@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 147
 - Año: 2025
-- Fecha: 2025-10-23
+- Fecha: 2025-10-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso147.pdf
 - Hash SHA-256: 15aa32a181f843b15a41f2ea3bb8654e9ea302da168de7feeac10eff4a01bc46
 
 ## Resumen
 
-e Información y Colaboración entre la Superintendencia de Medio Ambiente y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 148 del 23 de Octubre del 2025 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Autoriza a ticketera BMB SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Con…
+Subdirección Jurídica. Autoriza a ticketera BMB SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

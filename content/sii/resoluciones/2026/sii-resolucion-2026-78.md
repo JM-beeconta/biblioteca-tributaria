@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2026
-- Fecha: 2026-06-11
+- Fecha: 2026-06-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso78.pdf
 - Hash SHA-256: b34b8ebdb3f94ceaf31ffeabc5c3eb0af3382b9ade5e093b5b57820d2ce72afe
 
 ## Resumen
 
-erfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 79 del 11 de Junio del 2026 Modifícase la Resolución Ex. SII N° 179 de 2025, que crea el registro de ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Defensoría Penal Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SI…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Defensoría Penal Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

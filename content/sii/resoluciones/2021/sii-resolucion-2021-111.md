@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 111
 - Año: 2021
-- Fecha: 2021-10-04
+- Fecha: 2021-10-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso111.pdf
 - Hash SHA-256: 514864821fb4dfc5d30ad87280e099cbf89c920e950b483ba22cecdbfd1f4669
 
 ## Resumen
 
-n de documentos Tributarios en papel. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 112 del 04 de Octubre del 2021 Establece la forma y requisitos de la consulta vinculante en materia de elusión del artículo 26 bis del Código Tributario. Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 110 del 20 de Septiembre del 20…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

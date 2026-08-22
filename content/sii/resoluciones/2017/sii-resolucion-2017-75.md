@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del Departamento Subdirección Desarrollo de Personas. Fuente: Subdirección de Desarrollo de Personas Resolución Exenta SII N° 76 del 23 de Agosto del 2017 Criterios de segmentación de contribuyentes Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Frutas de Chile A.G Fuente: Subdirección de Fiscalización Resolución SII N° 74 del 23 de Agosto del 2017 Delega facultades que indica relativas a horas extraordinar…
+Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Frutas de Chile A.G Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

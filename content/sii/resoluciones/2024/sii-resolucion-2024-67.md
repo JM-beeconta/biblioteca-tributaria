@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Tributarios. Resolución Exenta SII N° 68 del 28 de Junio del 2024 Establece nuevo aplicativo de declaración, para que las municipalidades informen al Servicio de Impuestos Internos respecto de las recepciones definitivas de construcciones y, o regularizaciones que otorguen. Deja sin efecto la Resolución Exenta SII N° 114 del año 2017. Fuente: Subdirección de Avaluaciones. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que di…
+Subdirección de Avaluaciones. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2018
-- Fecha: 2018-01-24
+- Fecha: 2018-01-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso7.pdf
 - Hash SHA-256: 69bc9789e9c0e4114ec46b1d91642a15643327b07b422fd8d61e6320135a8579
 
 ## Resumen
 
->Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 08 del 24 de Enero del 2018 Autoriza a Multicaja S.A., para operar sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes terceros afiliados a su red. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones Resolución Exenta SII N° 07 del 18 de Enero del 2018 Complementa y modifica Resolución Ex. SII N° 128, de 29 de diciembre de 2017, que fija valores de…
+buyente, Departamento de Operaciones Resolución Exenta SII N° 07 del 18 de Enero del 2018 Complementa y modifica Resolución Ex. SII N° 128, de 29 de diciembre de 2017, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

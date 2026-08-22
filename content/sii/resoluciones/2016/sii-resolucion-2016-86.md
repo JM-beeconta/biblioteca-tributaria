@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2016
-- Fecha: 2016-08-25
+- Fecha: 2016-08-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso86.pdf
 - Hash SHA-256: 0ca4d7e0bc70097ea9f4e78dcad9c1b5bae6dc3cf1c4443cde69b3915e4350db
 
 ## Resumen
 
-s://www.sii.cl/normativa_legislacion/resoluciones/2016/reso87.pdf' target='_blank'>Resolución Exenta SII N° 87 del 25 de Agosto del 2016 Determina que el Estado Autónomo de Curazao tiene un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, en conformidad a lo señalado en el artículo 41 h de dicha ley. Fuente: Departamento de Análisis Selectivo del Cumplimiento Triburtario Dispone cambio de sujeto total de derecho del IVA en las ventas de chatarra. Deroga Resolución Ex. SII N°7, de 2003.…
+plimiento Triburtario Dispone cambio de sujeto total de derecho del IVA en las ventas de chatarra. Deroga Resolución Ex. SII N°7, de 2003. Fuente: Derpartamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

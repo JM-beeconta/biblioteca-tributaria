@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 46 del 13 de Mayo del 2022 Dispone Cambio De Sujeto Total Y La Calidad De Agente Retenedor De IVA A Los Emisores De Medios De Pago Que Indica, Respecto De Los Servicios De La Letra N) Del Artículo 8° De La Ley Sobre Impuesto A Las Ventas Y Servicios. Fuente: Subdirección de Fiscalización. Actualiza Valores De Avalúo Fiscal Contemplados En La Ley N°20.732, Que Rebaja El Impuesto Territorial Correspondiente A Propiedades De Adultos Mayores…
+cción de Fiscalización. Actualiza Valores De Avalúo Fiscal Contemplados En La Ley N°20.732, Que Rebaja El Impuesto Territorial Correspondiente A Propiedades De Adultos Mayores Vulnerables Económicamente. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

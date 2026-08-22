@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 12 del 30 de Enero del 2019 Autoriza al Conservador de Bienes raíces de Puente Alto, Sr. SERGIO RODRIGO YABER LOZANO, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artícu…
+ute;n de Asistencia al Contribuyente Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

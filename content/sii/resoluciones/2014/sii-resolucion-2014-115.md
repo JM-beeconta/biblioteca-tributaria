@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 116 del 11 de Diciembre del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Complementa Resolución Exenta SII N° 109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 114 del 05 de Diciembre del 2014 Rechaza a institución sin fines de lucro, como receptora de alimentos…
+randes Contribuyentes Complementa Resolución Exenta SII N° 109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

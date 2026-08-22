@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2018
-- Fecha: 2018-07-05
+- Fecha: 2018-06-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso54.pdf
 - Hash SHA-256: e6de5301219f2470d9506ee38e226fc65b0a109627c5674f4bc2fb890e699bf4
 
 ## Resumen
 
-gin-bottom:0px;'>Comunica nueva codificación de las actividades económicas Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 55 del 05 de Julio del 2018 Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017. Fuente: Subdireccion de Fiscalizacion Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdi…
+uente: Subdireccion de Fiscalizacion Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

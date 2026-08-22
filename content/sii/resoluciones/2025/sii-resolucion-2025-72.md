@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2025
-- Fecha: 2025-06-25
+- Fecha: 2025-06-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso72.pdf
 - Hash SHA-256: c69459e4306578c71d9bd7f649821a7f3cfddd5d9749ebf16d232b0b67dd3bcc
 
 ## Resumen
 
-, según lo establecido en el artículo 9 de la ley N° 21.420, modificada por el artículo 5° de la ley 21.713 Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 73 del 25 de Junio del 2025 Complementa lista anexa de la resolución exenta n°08 de 2024. Fuente: Subdirección de Avaluaciones Establece contenido y procedimiento de suscripción y ejecución de acuerdos de cooperación con grupos empresariales, conforme con los incisos tercero y cuarto del N° 18 del artículo 8° del Código Tributario. Fuente: Subdir…
+: Subdirección de Avaluaciones Establece contenido y procedimiento de suscripción y ejecución de acuerdos de cooperación con grupos empresariales, conforme con los incisos tercero y cuarto del N° 18 del artículo 8° del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

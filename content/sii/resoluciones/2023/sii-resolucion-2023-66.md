@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2023
-- Fecha: 2023-06-15
+- Fecha: 2023-06-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso66.pdf
 - Hash SHA-256: 5f1a69feff681c838b0c5e9e690f333789dcfd66d6b0420a5f5197153feffaca
 
 ## Resumen
 
-bilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coelemu Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 67 del 15 de Junio del 2023 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chillán Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resoluci…
+Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chillán Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

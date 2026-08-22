@@ -11,7 +11,7 @@
 
 ## Resumen
 
-es y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 20 del 31 de Enero del 2024 Información que empresas de telecomunicaciones deben entregar respecto de proveedores sin domicilio ni residencia en Chile. Fuente: Subdirección de Fiscalización. Instruye sobre el cumplimiento de la obligación dispuesta en el N° 5 del artículo 46 H), del título VIII bis del D.L N° 3063 de 1979, sobre rentas municipales. Fuente: Subdirección de Fiscalización. Resolución…
+cción de Fiscalización. Instruye sobre el cumplimiento de la obligación dispuesta en el N° 5 del artículo 46 H), del título VIII bis del D.L N° 3063 de 1979, sobre rentas municipales. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

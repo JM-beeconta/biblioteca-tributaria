@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 191
 - Año: 2025
-- Fecha: 2025-12-22
+- Fecha: 2025-12-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso191.pdf
 - Hash SHA-256: f185e43dfe29686ad6c791f8e0caee3db86625a01a9ee88bc1092005e64ef269
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 192 del 22 de Diciembre del 2025 Establece formulario para declarar y pagar el impuesto sustitutivo aplicable a los contribuyentes de ferias libres del párrafo 7° ter del título II de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Modifica Resolución Ex. SII N°106, de 02 de septiembre de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito…
+cción de Fiscalización. Modifica Resolución Ex. SII N°106, de 02 de septiembre de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de sus unidades. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2023
-- Fecha: 2023-10-04
+- Fecha: 2023-09-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso114.pdf
 - Hash SHA-256: bf70e86d275034ac8a965c0b0e45228971feb7a3f17bd37153475026267dc61c
 
 ## Resumen
 
-que se indican, para el año tributario 2024. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 115 del 04 de Octubre del 2023 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del código tributario y 13 bis del D.L. N° 828, de 1974…
+ute;n de Asistencia al Contribuyente. Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del código tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar, con el objeto de implementar el sistema de trazabilidad fiscal. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

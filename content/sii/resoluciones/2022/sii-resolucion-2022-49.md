@@ -11,7 +11,7 @@
 
 ## Resumen
 
-égica y Estudios Tributarios. Resolución Exenta SII N° 50 del 31 de Mayo del 2022 Establece forma en que las compañías de seguro deben calcular, rebajar, enterar e informar el detalle del impuesto que afecta a las sumas que tengan derecho a recibir los beneficiarios de seguros de vida con ocasión de la muerte del asegurado. Fuente: Subdirección de Fiscalización. Fija nómina &ldquo;contribuyentes IVA sd Afectos a cambio de sujeto&rdquo; a que se Refiere la resolución exenta sii n°46 de 2022, respecto de cuyos servi…
+cción de Fiscalización. Fija nómina &ldquo;contribuyentes IVA sd Afectos a cambio de sujeto&rdquo; a que se Refiere la resolución exenta sii n°46 de 2022, respecto de cuyos servicios se Retendrá el impuesto al valor agregado Conforme al inciso 7° del artículo 3° de la Ley sobre impuesto a las ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2014
-- Fecha: 2014-05-30
+- Fecha: 2014-05-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso50.pdf
 - Hash SHA-256: 8eff41da52676242c36f6c7865bf5e7c97b1800d0ba7bdfe9e232d7c2186ca48
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Informática Resolución Exenta SII N° 51 del 30 de Mayo del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Establece Declaración Jurada y Modelo de Certificado a emitir, por los empleadores habilitados o pagadores de rentas del artículo 42 N°1 de la Ley sobre Impuesto a la Renta, respecto del crédito por donaciones con fines culturales a que se refiere el artículo 8°,…
+cia de Contribuyentes Establece Declaración Jurada y Modelo de Certificado a emitir, por los empleadores habilitados o pagadores de rentas del artículo 42 N°1 de la Ley sobre Impuesto a la Renta, respecto del crédito por donaciones con fines culturales a que se refiere el artículo 8°, de la Ley N° 18.985. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

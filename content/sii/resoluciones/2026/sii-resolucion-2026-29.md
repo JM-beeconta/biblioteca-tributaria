@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2026
-- Fecha: 2026-02-27
+- Fecha: 2026-02-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso29.pdf
 - Hash SHA-256: b6e9ebdaf195547d3a46c376f4bb2b3376725a7b3573d65a760f031e6734c9a5
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 30 del 27 de Febrero del 2026 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Sustentabilidad y Cambio Climático y el Servicio de Impuestos Internos. Fuente:…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Sustentabilidad y Cambio Climático y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

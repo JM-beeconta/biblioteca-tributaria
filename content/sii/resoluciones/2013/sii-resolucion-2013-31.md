@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2013
-- Fecha: 2013-03-12
+- Fecha: 2013-03-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso31.pdf
 - Hash SHA-256: 9cb88dd90f492b0b87fbcf22d933cbb6b02deb66899f8fd9b8497cda2b5494c4
 
 ## Resumen
 
-y Asistencia de Contribuyentes. Resolución Exenta SII N° 32 del 12 de Marzo del 2013 Modifica plazo de presentación de Declaración Jurada Formulario 3325, establecida por Resolución Ex SII N° 57, de 2011. Fuente: Subdirección de Fiscalización. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 30 del 27 de Febrero del 2013 Establece escala de tasas conforme al pre…
+Fiscalización. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

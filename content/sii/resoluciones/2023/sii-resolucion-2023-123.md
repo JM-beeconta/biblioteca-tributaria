@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 123
 - Año: 2023
-- Fecha: 2023-10-25
+- Fecha: 2023-10-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso123.pdf
 - Hash SHA-256: 3e9e41453ce3e822d5fb10483dbe226dc11274e5cdc39eb9cf4ad0181c6bc75d
 
 ## Resumen
 
-ernos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 124 del 25 de Octubre del 2023 Autoriza a Transbank S.A., Rut N° 96.689.310-9, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización. Designa secretarios titular y suplente, en el tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Talca. Fuente: Subdire…
+cción de Fiscalización. Designa secretarios titular y suplente, en el tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Talca. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

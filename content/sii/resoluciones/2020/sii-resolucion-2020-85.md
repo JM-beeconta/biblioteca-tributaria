@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2020
-- Fecha: 2020-07-30
+- Fecha: 2020-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso85.pdf
 - Hash SHA-256: 0960a8bb5009540232dad5762db936a6d5508da4216e878008fdcaf124cb7c42
 
 ## Resumen
 
-e;n de Fiscalización. Resolución Exenta SII N° 86 del 30 de Julio del 2020 Designación de oficial de cumplimiento titular y suplente para la coordinación e implementación del sistema preventivo contra delitos funcionarios, lavado de activos y financiamiento del terrorismo. Modifica resolución exenta N° 71 de 2017. Fuente: Subdirección de Fiscalización. Establece forma de determinación del promedio de ingresos brutos a que se refiere la letra b) del N°1 de la letra d) del artículo 14 de la Ley sobre Impuesto a la R…
+cción de Fiscalización. Establece forma de determinación del promedio de ingresos brutos a que se refiere la letra b) del N°1 de la letra d) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

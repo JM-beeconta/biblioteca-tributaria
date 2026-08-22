@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 82
 - Año: 2013
-- Fecha: 2013-09-13
+- Fecha: 2013-09-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso82.pdf
 - Hash SHA-256: dc9f6546ce4c709e6dd0bdd2b13f98ac3ac20cc851c36587c0392b1b58cf9ac8
 
 ## Resumen
 
-ntilde;as Empresas Resolución Exenta SII N° 83 del 13 de Septiembre del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 81 del 10 de Septiembre del 2013 Solicita Información sobre Trusts Constit…
+ia de Contribuyentes. Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

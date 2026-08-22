@@ -11,7 +11,7 @@
 
 ## Resumen
 
-15/reso106.pdf' target='_blank'>Resolución Exenta SII N° 106 del 24 de Diciembre del 2015 Modifica Declaraciones Juradas n°s 1888 y 1823, y Certificados N°s 8 y 17, estableciendo nueva información que deben presentar las entidades facultadas para emitir instrumentos de ahorro acogidos al artículo 57 bis de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica Declaraciones juradas formularios N° 1821 y 1822, y su certificacion respectiva, y extiende obligaci…
+mplimiento Tributario Modifica Declaraciones juradas formularios N° 1821 y 1822, y su certificacion respectiva, y extiende obligación de declarar a los contribuyentes que indica Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

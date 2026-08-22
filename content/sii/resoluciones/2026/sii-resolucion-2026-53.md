@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2026
-- Fecha: 2026-04-13
+- Fecha: 2026-04-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso53.pdf
 - Hash SHA-256: f460805a800f22c2b04e73f5c8f2a3780cc57e2e477ecc07e9d1afdc4f57c90b
 
 ## Resumen
 
-l 13 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 54 del 13 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 52 del 10 de Abril del 2026 Modifica fecha de entrada en vigen…
+Subdirección Jurídica. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

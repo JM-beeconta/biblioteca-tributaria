@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 20
 - Año: 2018
-- Fecha: 2018-03-02
+- Fecha: 2018-02-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso20.pdf
 - Hash SHA-256: 0007fc5398042015e6fac26b908688ac078693470c2b740e94271b18bd1fe0b0
 
 ## Resumen
 
-e se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 21 del 02 de Marzo del 2018 Deja sin efecto resoluciones exentas que establecían la obligación de presentar las Declaraciones Juradas N°s 1884, 1885 y 1886; y sus respectivos certificados. Fuente: Subdirección de Fiscalización Fija nuevo plazo para la entrada en vigencia de la Resolución Ex. SII N°2 de 12 de enero de 2018, que deroga la Resolución Ex. SII N°39 de 27 de marzo de 2008, que excepciona las retenciones por cambio de sujeto de der…
+cción de Fiscalización Fija nuevo plazo para la entrada en vigencia de la Resolución Ex. SII N°2 de 12 de enero de 2018, que deroga la Resolución Ex. SII N°39 de 27 de marzo de 2008, que excepciona las retenciones por cambio de sujeto de derecho de IVA a las operaciones respaldadas con documentos tributarios electrónicos. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

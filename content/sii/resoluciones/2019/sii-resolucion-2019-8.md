@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2019
-- Fecha: 2019-01-29
+- Fecha: 2019-01-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso8.pdf
 - Hash SHA-256: 24228ed41abae102a5d847ae8389d1518d13f1ec3fdc123d8d4011ecd78d602b
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 09 del 29 de Enero del 2019 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 150, de 28 de diciembre de 2018, a MOVIMIENTO DE TIERRA Y CONSTRUCCION S.A. y SERVICIOS PUBLICITARIOS EPL SPA. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 08 del 25 de Enero del 2019 Resuelve solicitud de British American Tobacco Chile Operaciones S.A., en orden a prorrogar a su respecto, el plazo…
+cción de Fiscalización Resolución Exenta SII N° 08 del 25 de Enero del 2019 Resuelve solicitud de British American Tobacco Chile Operaciones S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

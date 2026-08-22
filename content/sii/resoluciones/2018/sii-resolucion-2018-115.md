@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2018
-- Fecha: 2018-11-27
+- Fecha: 2018-11-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso115.pdf
 - Hash SHA-256: faa849087a7c7af92da8353fa8ad92c3fd8ffe4dd920bb108e6d5c8074b37c81
 
 ## Resumen
 
-iene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 116 del 27 de Noviembre del 2018 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a ROBERT BOSCH S.A. y CAVAS REUNIDAS S. A. Fuente: Subdirección de Fiscalización Resolució…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a ROBERT BOSCH S.A. y CAVAS REUNIDAS S. A. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

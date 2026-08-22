@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2020
-- Fecha: 2020-02-12
+- Fecha: 2020-02-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso21.pdf
 - Hash SHA-256: b93f546c6ae75aadf2413118cb76aa05895aaf05985b6c02d9bc340c4d5842e9
 
 ## Resumen
 
-h5> Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exenta SII N° 22 del 12 de Febrero del 2020 Modifica Subrogancia de Secretaría General Fuente: Secretaria General Designa secretario titular y suplente en tribunal especial de alzada de los Bienes Raíces de la Segunda Serie, con Jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Valdivia. Fuente: Departamento de Asesoría Jur…
+:10px;'> Fuente: Secretaria General Designa secretario titular y suplente en tribunal especial de alzada de los Bienes Raíces de la Segunda Serie, con Jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Valdivia. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

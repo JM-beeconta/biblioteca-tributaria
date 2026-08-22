@@ -11,7 +11,7 @@
 
 ## Resumen
 
-10, de 30.09.2019 que contiene instrucciones de llenado. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 152 del 09 de Diciembre del 2020 Establece procedimiento para la inscripción en el sistema de emisión de boletas electrónicas del SII. Fuente: Subdirección de Asistencia al Contribuyente. Regula la validación de los Certificados de Residencia emitidos por administraciones tributarias extranjeras para efectos tributarios, especialmente de las retenciones a que se refiere el artículo 74 N° 4 de la…
+ute;n de Asistencia al Contribuyente. Regula la validación de los Certificados de Residencia emitidos por administraciones tributarias extranjeras para efectos tributarios, especialmente de las retenciones a que se refiere el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta y sobre las cantidades sujetas a la obligación de restitución del artículo 14 A) y 63, de la misma ley. Deja sin efecto Resolución Exenta SII Nº11 de 2019. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

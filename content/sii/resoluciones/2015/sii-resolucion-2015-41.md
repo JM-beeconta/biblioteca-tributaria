@@ -11,7 +11,7 @@
 
 ## Resumen
 
-stablece la forma en que los contribuyentes deberán acreditar las circunstancias señaladas en el N° 4 del artículo 74 de la Ley sobre Impuesto a la Renta para eximirse de efectuar la retención de impuestos por operaciones de enajenación indicadas en las letras a), c), d), e), h) y j) del N°8 del artículo 17 de dicha ley, realizadas por contribuyentes sin domicilio ni residencia en Chile. Fuente: Departamento de Análisis selectivo del Cumplimiento Tributario Autoriza el uso de documentos tributarios en papel a los…
+mplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de la provincia de Llanquihue y la comuna de Puerto Octay. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

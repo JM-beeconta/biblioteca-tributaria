@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 82
 - Año: 2019
-- Fecha: 2019-07-18
+- Fecha: 2019-07-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso82.pdf
 - Hash SHA-256: 5f338e74fbeb08c059016203a785501430baada2eef58334ceba465bbb1d1b83
 
 ## Resumen
 
-a Corte de Apelaciones de La Serena. Fuente: Subdirección Jurídica Resolución Exenta SII N° 83 del 18 de Julio del 2019 Autoriza como receptor electrónico de documentos tributarios electrónicos a la Unidad Administradora de los Tribunales Tributarios y Aduaneros Fuente: Subdirección Asistencia al Contribuyente Reemplaza Anexo I de Resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa Resolución Exenta SII N° 81 del 28 de Junio del 2019 Deja sin efecto Resolución Ex. SII N° 53, de 30.04.201…
+oacute;n Asistencia al Contribuyente Reemplaza Anexo I de Resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

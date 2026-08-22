@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2016
-- Fecha: 2016-08-09
+- Fecha: 2016-08-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso75.pdf
 - Hash SHA-256: 67a73af8da492b64cfe484cf7de44815f9c6c0923586a0f5abbacc5aed8c87b0
 
 ## Resumen
 
-Resolución Exenta SII N° 76 del 09 de Agosto del 2016 Autoriza al Conservador de Bienes Raíces de Puente Alto Sr. Gonzalo Alejandro Martín Iglesias, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a instituciones sin fines de lucro, como repectora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis masivo del Cumplimiento tributario Resolución Exenta SII N° 74 del 05 de Agosto del 2016 Establece forma…
+ncia al Contribuyente Autoriza a instituciones sin fines de lucro, como repectora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis masivo del Cumplimiento tributario
 
 ## Referencias detectadas
 

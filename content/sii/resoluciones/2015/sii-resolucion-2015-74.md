@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 74
 - Año: 2015
-- Fecha: 2015-09-16
+- Fecha: 2015-09-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso74.pdf
 - Hash SHA-256: 20baf5e67e12febdc494a4e2c7e14246f0246400627844f9fede312f1f547b68
 
 ## Resumen
 
-an> Resolución Exenta SII N° 75 del 16 de Septiembre del 2015 Modifica Resolución Ex. SII N°59, de 10 de julio de 2015, que crea la Unidad de Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 73 del 28 de Agosto del 2015 Modifica diseño del Formul…
+Fiscalización Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2015
-- Fecha: 2015-02-13
+- Fecha: 2015-01-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso7.pdf
 - Hash SHA-256: 0bb2762fca35318c944743a4b1f448e626b8a2728087b3d77eb78b5344d0f8ea
 
 ## Resumen
 
-s que se señalan Fuente: Oficina Gestión Normativa Resolución Exenta SII N° 08 del 13 de Febrero del 2015 Autoriza delegación de facultad que indica Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 07 del 30 de Enero del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contibuyentes Resolución Exenta SII N° 06 del 22 de Enero del 2015 Aprueba convenio para la transferencia de información c…
+ute;n de Avaluaciones Resolución Exenta SII N° 07 del 30 de Enero del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contibuyentes
 
 ## Referencias detectadas
 

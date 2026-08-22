@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 125
 - Año: 2019
-- Fecha: 2019-11-14
+- Fecha: 2019-11-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso125.pdf
 - Hash SHA-256: 6f2b2f557ee3dc34f3bfe73bd1e2c90775553cb28a21273dcf58e21dfa3433e5
 
 ## Resumen
 
-tos tributarios electrónicos al SERVICIO LOCAL DE EDUCACIÓN LAS BARRANCAS. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 126 del 14 de Noviembre del 2019 Autoriza modalidad de timbraje de documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Delega facultad que indica, relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Subdirección de Administración Resolución Exenta SII N° 124 del 11 de Noviembre d…
+ute;n de Asistencia al Contribuyente Delega facultad que indica, relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

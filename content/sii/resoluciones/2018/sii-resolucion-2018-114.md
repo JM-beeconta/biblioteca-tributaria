@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2018
-- Fecha: 2018-11-23
+- Fecha: 2018-11-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso114.pdf
 - Hash SHA-256: 5d5d5cf84fd024b10a3083a0a54fe4acf7f19106ae5e608cf26a45fa296933cc
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 115 del 23 de Noviembre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a ROBERT BOSCH S.A. y CAVAS REUNIDAS S. A. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018, a IMS CHILE SPA y EXPORTADORA E IMPORTADORA TÉ…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018, a IMS CHILE SPA y EXPORTADORA E IMPORTADORA TÉCNICA EXIMTEC LIMITADA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

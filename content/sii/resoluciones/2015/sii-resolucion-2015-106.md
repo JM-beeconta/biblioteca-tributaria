@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Resolución Exenta SII N° 107 del 24 de Diciembre del 2015 Establece obligación de presentar Declaración Jurada de contribuyentes acogidos a las disposiciones de la letra a) del artículo 14 ter de la LIR, por rentas o cantidades que correspondan a sus dueños, socios , comuneros o accionistas, e informar y certificar lo que se indica. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica Declaraciones Juradas n°s 1888 y 1823, y Certificados N°s 8 y 17, estableciendo nueva información que debe…
+mplimiento Tributario Modifica Declaraciones Juradas n°s 1888 y 1823, y Certificados N°s 8 y 17, estableciendo nueva información que deben presentar las entidades facultadas para emitir instrumentos de ahorro acogidos al artículo 57 bis de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

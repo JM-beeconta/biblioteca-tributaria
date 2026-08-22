@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 196 del 23 de Diciembre del 2025 Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servi…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

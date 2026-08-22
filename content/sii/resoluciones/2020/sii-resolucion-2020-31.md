@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 31
 - Año: 2020
-- Fecha: 2020-03-23
+- Fecha: 2020-03-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso31.pdf
 - Hash SHA-256: 38d04683866fd5c854b761ef5f32732b08e5330941f81592b63bc0a281bf7e21
 
 ## Resumen
 
-0px;'>Autoriza modalidad de timbraje de guías de despacho en formato papel en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 32 del 23 de Marzo del 2020 Amplía el plazo para presentar las Declaraciones Juradas que se indican. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Colaboración entre Banco Central de Chile y el Servicio de Impuestos Internos para el Cruce de Bases de Datos para fines de Investigación Aplicada. Fuente: Subdirección de Gestión Es…
+cción de Fiscalización. Aprueba Convenio de Colaboración entre Banco Central de Chile y el Servicio de Impuestos Internos para el Cruce de Bases de Datos para fines de Investigación Aplicada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2024
-- Fecha: 2024-05-09
+- Fecha: 2024-05-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso55.pdf
 - Hash SHA-256: 5314d0f0bc9897216d924b1edd95f1a406ef3aaa1cd017d2bb6e705a08c3e407
 
 ## Resumen
 
-os Internos y el Instituto Chileno de Derecho Tributario. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 56 del 09 de Mayo del 2024 Declara término de giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 54 del 02 de Mayo del 2…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

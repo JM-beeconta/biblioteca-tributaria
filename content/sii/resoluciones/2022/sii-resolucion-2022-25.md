@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2022
-- Fecha: 2022-03-07
+- Fecha: 2022-03-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso25.pdf
 - Hash SHA-256: 1897185ef57727b65919be45ff50f27107dc72ce12dda721077e4c4873021979
 
 ## Resumen
 
-e;digo Tributario. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 26 del 07 de Marzo del 2022 Reorganiza las unidades que conforman el departamento Subdirección de Avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto Res. Ex. SII N° 37, 2016. Fuente: Subdirección de Avaluaciones. Establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común, destinados a producir ingresos afectos al régimen general de p…
+Subdirección de Avaluaciones. Establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común, destinados a producir ingresos afectos al régimen general de primera categoría, ingresos no renta y/o rentas exentas de los impuestos finales, conforme lo dispuesto en el N° 3), de la letra e), del N°1 del artículo 33 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

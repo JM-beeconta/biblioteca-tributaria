@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2026
-- Fecha: 2026-07-27
+- Fecha: 2026-07-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso98.pdf
 - Hash SHA-256: ab6049fecdd7ae05c5dc8f83d86bfe374e416344c7ac48167f2b882b2cb3f960
 
 ## Resumen
 
-ia al Contribuyente Resolución Exenta SII N° 99 del 27 de Julio del 2026 Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones de atacama, coquimbo, valparaíso, metropolitana de santiago, libertador general bernardo o&rsquo;higgins, maule, ñuble, biobío, la araucanía y los ríos. Fuente: Subdirección de Asistencia al Contribuyente Complementa resolución ex. Sii n° 95, de 2026 Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 97 del 22 de Julio del 2026 Otórguese acceso…
+cute;n de Asistencia al Contribuyente Complementa resolución ex. Sii n° 95, de 2026 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

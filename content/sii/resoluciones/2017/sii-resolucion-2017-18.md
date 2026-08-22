@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2017
-- Fecha: 2017-02-10
+- Fecha: 2017-02-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso18.pdf
 - Hash SHA-256: 92eae88955557c29ca7776e5383fb96149aeb2c809e913a3640805525f6b1cf3
 
 ## Resumen
 
-as Declaraciones Juradas formularios N°1830 y N°1831, respectivamente. Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 19 del 10 de Febrero del 2017 Delega facultad que indica. Fuente: Subdirección de Administración Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Fundación Instituto Profesional DUOC UC. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 17 del 08 de Febrero del 2017 Aprueba convenio de colaboración mutua entre el…
+Administración Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Fundación Instituto Profesional DUOC UC. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

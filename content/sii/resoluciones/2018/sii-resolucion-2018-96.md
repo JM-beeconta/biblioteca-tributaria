@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 96
 - Año: 2018
-- Fecha: 2018-10-09
+- Fecha: 2018-10-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso96.pdf
 - Hash SHA-256: be92387c649f66c456c30d1bfdd6c43823a067e050167d3d22633779da777efd
 
 ## Resumen
 
-de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 97 del 09 de Octubre del 2018 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 95 del 0…
+cción de Fiscalización Autoriza a instituciones que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

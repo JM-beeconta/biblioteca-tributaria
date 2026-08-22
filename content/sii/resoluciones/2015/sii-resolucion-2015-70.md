@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ección de Asistencia al Contribuyente Resolución Exenta SII N° 71 del 10 de Agosto del 2015 Modifica fecha de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII en el marco de la Ley N° 20.732. Fuente: Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 69 del 07 de Agosto del 2015 Modifica Res. Ex. SII N° 56, de…
+ute;n de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

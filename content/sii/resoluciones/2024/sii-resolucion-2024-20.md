@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 20
 - Año: 2024
-- Fecha: 2024-02-05
+- Fecha: 2024-01-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso20.pdf
 - Hash SHA-256: e37d094d9a6d0d30b203ef5053a9d67b8ad15f3ee1bb9cb37aeb7bef8658fdc5
 
 ## Resumen
 
-lúos o contribuciones de inmuebles ubicados en zonas afectadas por catástrofes. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 21 del 05 de Febrero del 2024 Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización. Información que empresas de telecomunicaciones deben entregar respecto de proveedores sin domicilio ni residencia en Chile. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 19 del 31 de Enero del 2024…
+cción de Fiscalización. Información que empresas de telecomunicaciones deben entregar respecto de proveedores sin domicilio ni residencia en Chile. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

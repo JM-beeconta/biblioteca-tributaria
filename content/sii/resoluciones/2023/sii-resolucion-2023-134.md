@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 134
 - Año: 2023
-- Fecha: 2023-12-04
+- Fecha: 2023-11-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso134.pdf
 - Hash SHA-256: 419dbe6ee666ef65efd736cdc347455d333ce5d92b3608f5951ef30d96fa7fae
 
 ## Resumen
 
-35 del 04 de Diciembre del 2023 Establece forma y plazo en que las entidades acreedoras deben cumplir la obligación de informar a este servicio los créditos con garantía hipotecaria contratados para la adquisición de viviendas nuevas que se han acogido al beneficio tributario a que refiere la Ley N° 21.631, y de certificar el monto de los dividendos a las personas naturales que han pagado dichas obligaciones. Fuente: Subdirección de Fiscalización. Aprueba política institucional de igualdad de género y conciliación…
+cción de Fiscalización. Aprueba política institucional de igualdad de género y conciliación de la vida laboral, familiar y personal del Servicio de Impuestos Internos. Deja sin efecto Resolución Exenta SII N°24, de 2023. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

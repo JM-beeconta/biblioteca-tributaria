@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2015
-- Fecha: 2015-07-30
+- Fecha: 2015-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso64.pdf
 - Hash SHA-256: 0c6616864f62c6238df3fd906f96c087d17ece3e2e439f2f7af6aae8b59cdc8f
 
 ## Resumen
 
-° 65 del 30 de Julio del 2015 Fija formato e instrucciones de llenado de la declaración Formulario N° 1921 sobre las enajenaciones a las que se refieren los articulos 10 inciso tercero y 58 N° 3, de la LIR y, establece reglas para correlacionar inversiones y pasivos según lo señalado en el inciso quinto del artículo 10 de la LIR. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: D…
+mplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

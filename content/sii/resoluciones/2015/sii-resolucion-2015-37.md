@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2015
-- Fecha: 2015-04-08
+- Fecha: 2015-04-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso37.pdf
 - Hash SHA-256: a9a3b16e7ba87164f89778bce5c2ad74834280eabea44b5da87ab7019ec3850d
 
 ## Resumen
 
-Resolución Exenta SII N° 38 del 08 de Abril del 2015 Reorganiza las Unidades que conforman el Departamento de Delitos Tributarios del Departamento Subdirección Jurídica y establece ámbitos de competencia. Fuente: Oficina de Apoyo Jurídico a la Gestión Administrativa Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de Atacama y de las comunas de Antofagasta y Taltal Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 36 del 02 de Abril del 201…
+cute;n Administrativa Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de Atacama y de las comunas de Antofagasta y Taltal Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

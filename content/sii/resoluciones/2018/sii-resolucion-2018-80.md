@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;n de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 81 del 12 de Septiembre del 2018 Exime a Emprender Capital Servicios Financieros SPA de la obligación de timbraje de pagarés establecida en el Artículo 17 Inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente Amplía autorización a SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A. RUT N° 96.556.930-8. Complementa Resolución Exenta SII N°166 de 04.11.2010, en los términos que indic…
+ute;n de Asistencia al Contribuyente Amplía autorización a SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A. RUT N° 96.556.930-8. Complementa Resolución Exenta SII N°166 de 04.11.2010, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

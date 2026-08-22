@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2014
-- Fecha: 2014-12-05
+- Fecha: 2014-12-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso112.pdf
 - Hash SHA-256: 656f72119442402bc5374cd3e14b83c17986e2d079c727728f2e20b6cebeaab4
 
 ## Resumen
 
-o al Cumplimiento Tributario Resolución Exenta SII N° 113 del 05 de Diciembre del 2014 Autoriza a la institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario Fija plazo para presentación de Declaraciones Juradas que se indican Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 111 del 04 de Diciembre del 2014 Establece Declaración Jurada y requiere antecedentes para acreditar el inicio d…
+mplimiento Tributario Fija plazo para presentación de Declaraciones Juradas que se indican Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:10px;'> Fuente: Subdireccion de Fiscalización. Resolución Exenta SII N° 87 del 30 de Julio del 2020 Establece procedimiento para pago del impuesto a las ventas y servicios que se haya postergado conforme lo dispuesto en res. Ex SII N° 41 y N° 77 de 2020, en virtud de importaciones aceptadas a trámite en los meses que indica. Fuente: Subdirección de Fiscalización. Designación de oficial de cumplimiento titular y suplente para la coordinación e implementación del sistema preventivo contra delitos funcionarios, l…
+cción de Fiscalización. Designación de oficial de cumplimiento titular y suplente para la coordinación e implementación del sistema preventivo contra delitos funcionarios, lavado de activos y financiamiento del terrorismo. Modifica resolución exenta N° 71 de 2017. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2014
-- Fecha: 2014-01-10
+- Fecha: 2014-01-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso02.pdf
 - Hash SHA-256: ee6d7b990485077aa63551f3b9f1fd7d2fa28c24ae644847be22f4bfd0b452e8
 
 ## Resumen
 
-pan> Resolución Exenta SII N° 03 del 10 de Enero del 2014 Modifica territorios jurisdiccionales de las XIII y XIV Direcciones Regionales Metropolitanas Santiago Centro y Poniente, crea Unidad Norte y autoriza delegación de facultades Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 02 del 08 de Enero del 2014 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 08 de Enero del 2014 Fija tablas de valores de t…
+ute;a Jurídica Resolución Exenta SII N° 02 del 08 de Enero del 2014 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

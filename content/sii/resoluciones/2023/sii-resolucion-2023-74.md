@@ -11,7 +11,7 @@
 
 ## Resumen
 
-3 Modifica resolución exenta SII Nº 128 de 2022, en los términos que indica Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 75 del 28 de Junio del 2023 Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes. Reorganiza y fija el ámbito de competencias de las unidades que conforman la dirección de Grandes Contribuyentes. Deja sin efecto resoluciones exentas SII N° 95 de 2010 y sus modificaciones. Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 73 del…
+ión de Grandes Contribuyentes. Reorganiza y fija el ámbito de competencias de las unidades que conforman la dirección de Grandes Contribuyentes. Deja sin efecto resoluciones exentas SII N° 95 de 2010 y sus modificaciones. Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

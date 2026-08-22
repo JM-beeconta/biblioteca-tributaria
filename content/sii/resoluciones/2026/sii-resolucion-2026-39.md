@@ -11,7 +11,7 @@
 
 ## Resumen
 
-actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 40 del 10 de Marzo del 2026 Aprueba Convenio de Intercambio de información y colaboración entre la Ilustre Municipalidad de Pedro Aguirre Cerda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información entre el Ministerio Público y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 38 de…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información entre el Ministerio Público y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

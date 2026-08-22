@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Reemplaza normas para la devolución del impuesto del Título II y del artículo 42 de la ley sobre Impuesto a las ventas y servicios contenida en el D.L. N°825, de 1974, a las personas naturales sin domicilio ni residencia en el país, que compren mercancías en la zona franca de extensión de la región de Arica y Parinacota. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Téngase por desafiliados del Sistema de facturación electrónica a los contribuyentes que señalan. Fuente: Departamento de Atención…
+ia de Contribuyentes. Téngase por desafiliados del Sistema de facturación electrónica a los contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

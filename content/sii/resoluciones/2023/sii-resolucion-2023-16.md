@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2023
-- Fecha: 2023-02-17
+- Fecha: 2023-02-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso16.pdf
 - Hash SHA-256: 93d1f80fef10198811c9bd9cab39c618e5aa254290989f45431ccaa7d164e5e8
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 17 del 17 de Febrero del 2023 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Turismo, el Servicio Nacional de Turismo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece Escala De Tasas Conforme Al Precio Internacional De Los Minerales Que Se Indican Y Para Los Efectos Que Se Señalan. Fuente: Subdirección Normativa. Reso…
+tégica y Estudios Tributarios. Establece Escala De Tasas Conforme Al Precio Internacional De Los Minerales Que Se Indican Y Para Los Efectos Que Se Señalan. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

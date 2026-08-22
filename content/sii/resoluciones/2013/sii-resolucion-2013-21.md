@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2013
-- Fecha: 2013-02-20
+- Fecha: 2013-02-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso21.pdf
 - Hash SHA-256: ae3c3e5eaf896a759a3b23a5b8223e503c954249eed8eb002d398f056ddf8c5e
 
 ## Resumen
 
-Resolución Exenta SII N° 22 del 20 de Febrero del 2013 Resolución N° 20 del 19.02.2013, que autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de personas y de micro y pequeñas empresas Resolución Exenta SII N° 20 del 19 de Febrero del 2013 Autoriza como emisore…
+cia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de personas y de micro y pequeñas empresas
 
 ## Referencias detectadas
 

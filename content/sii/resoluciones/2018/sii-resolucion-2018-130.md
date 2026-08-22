@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/p> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 131 del 19 de Diciembre del 2018 Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución E…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de pañales cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

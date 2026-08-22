@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2019
-- Fecha: 2019-09-02
+- Fecha: 2019-08-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso98.pdf
 - Hash SHA-256: c10f7d4a317bf2274b10edf827c81fdacec95ebe333ddc9a3ecd8ec44d221f9b
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 02 de Septiembre del 2019 Modifica Res. Ex. SII N° 18 de 22.04.2003 y Res. Ex. SII N° 45 de 01.09.2003, eliminando la obligación de entregar un ejemplar impreso del DTE y deja sin efecto Res. Ex. N° 11 de 14.02.2003. Fuente: Subdirección de Asistencia al Contribuyente Autoriza como receptores electrónicos de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia…
+ute;n de Asistencia al Contribuyente Autoriza como receptores electrónicos de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

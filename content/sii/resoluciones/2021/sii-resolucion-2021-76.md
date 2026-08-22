@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 77 del 06 de Julio del 2021 Complementa resolución Ex. SII N° 68 de 2021, que habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización. Complementa instrucciones indicadas en Res. EX. SII N° 176 de 2020. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 75…
+cción de Fiscalización. Complementa instrucciones indicadas en Res. EX. SII N° 176 de 2020. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

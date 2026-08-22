@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 51
 - Año: 2016
-- Fecha: 2016-06-14
+- Fecha: 2016-06-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso51.pdf
 - Hash SHA-256: c8f5b066bf625ccfd9fa98c8c375060d2abbe67076a991f46d1b5f112398e3eb
 
 ## Resumen
 
-/2016/reso52.pdf' target='_blank'>Resolución Exenta SII N° 52 del 14 de Junio del 2016 Fija nuevo plazo para presentar la Declaración Jurada Anual sobre Balance de 8 columnas y otros antecedentes, Formulario N°1847, y Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formulario N°1926. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario. Fija nuevo plazo para presentar la Declaración Jurada Anual de Fondo de Utilidades Tributables (FUT), Formulario N°…
+plimiento Tributario. Fija nuevo plazo para presentar la Declaración Jurada Anual de Fondo de Utilidades Tributables (FUT), Formulario N° 1925. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

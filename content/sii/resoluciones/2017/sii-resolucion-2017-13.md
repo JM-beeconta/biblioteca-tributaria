@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 14 del 31 de Enero del 2017 Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones del Maule y Bio Bio. Fuente: Subdirección de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de la Araucanía Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 12 del 25 de…
+ncia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de la Araucanía Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

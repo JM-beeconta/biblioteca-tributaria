@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 42
 - Año: 2014
-- Fecha: 2014-05-05
+- Fecha: 2014-05-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso42.pdf
 - Hash SHA-256: 221b13dd304ef91d09a8b59b232f083cc6e06209f65223bb0739be4584b6348c
 
 ## Resumen
 
-artamento Asesoría Jurídica Resolución Exenta SII N° 43 del 05 de Mayo del 2014 Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Registra como emisores de documentos Tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 41 del 25 de Abril del 2014 Establece forma y plazo para presentar Declaración Jurada Anual que indica.…
+ueñas Empresas Registra como emisores de documentos Tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

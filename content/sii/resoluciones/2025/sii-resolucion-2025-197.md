@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cipalidad de Licantén. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 198 del 23 de Diciembre del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al convenio de intercambio de información y colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contr…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al convenio de intercambio de información y colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

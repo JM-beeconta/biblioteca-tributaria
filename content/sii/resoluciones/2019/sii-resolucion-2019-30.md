@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2019
-- Fecha: 2019-02-25
+- Fecha: 2019-02-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso30.pdf
 - Hash SHA-256: b6c0b2558912ea9407cbbe815c75b96dd47fb975bb42a94f00d028b6bc7b2f0d
 
 ## Resumen
 
-ra de Comercio de Santiago. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 31 del 25 de Febrero del 2019 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile. Fuente: Subdirección de Fiscalización Autoriza a la SOCIEDAD COMERCIAL ECCSA S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia…
+cción de Fiscalización Autoriza a la SOCIEDAD COMERCIAL ECCSA S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

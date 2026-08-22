@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2025
-- Fecha: 2025-05-06
+- Fecha: 2025-05-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso57.pdf
 - Hash SHA-256: 22aa5a375808cbe8b0ea46942d576345f40108115b8e7719263f36282eef73b3
 
 ## Resumen
 
-00 quáter del código tributario Fuente: Subdirección Jurídica. Resolución Exenta SII N° 58 del 06 de Mayo del 2025 Establece parámetros objetivos para determinar la cooperación eficaz, en los términos del artículo 100 ter del código tributario Fuente: Subdirección Jurídica. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 56 del 30 de Abril del 2025 Aprueba Convenio de Intercambio de Información y Colaboración…
+Subdirección Jurídica. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

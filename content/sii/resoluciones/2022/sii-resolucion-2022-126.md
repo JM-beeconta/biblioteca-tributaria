@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Fiscalización. Resolución Exenta SII N° 127 del 28 de Diciembre del 2022 Regula obligación de presentar declaración anual sobre operaciones en el exterior por medio de formulario N° 1929; deja sin efecto resoluciones exentas SII Nº120 de 2016, N°105 de 2017, N°87 de 2018, N°109 de 2020. Fuente: Subdirección de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para e…
+cción de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

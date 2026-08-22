@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 171 del 27 de Noviembre del 2025 Establece el procedimiento para aplicar la presunción legal de término de giro, según lo dispuesto en el inciso final del artículo 69° del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente. Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de Mercadolibre Chile Ltda. Fuente:…
+ute;n de Asistencia al Contribuyente. Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de Mercadolibre Chile Ltda. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

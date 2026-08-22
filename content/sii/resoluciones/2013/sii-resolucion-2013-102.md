@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2013
-- Fecha: 2013-12-16
+- Fecha: 2013-12-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso102.pdf
 - Hash SHA-256: 4b21553856dd925ffd43f018455e4201dd87f6aa8902660f101539205f6a3f3c
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta SII N° 103 del 16 de Diciembre del 2013 Fija plazo para presentación de Declaraciones Juradas que se indican Fuente: Subdirección de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 101 del 09 de Diciembre del 2013 Téngase por desafiliados de…
+Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

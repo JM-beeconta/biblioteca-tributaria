@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 97 del 14 de Agosto del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudi…
+ute;n de Asistencia al Contribuyente Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

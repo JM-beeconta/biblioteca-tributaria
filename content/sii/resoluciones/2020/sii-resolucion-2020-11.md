@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 11
 - Año: 2020
-- Fecha: 2020-01-24
+- Fecha: 2020-01-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso11.pdf
 - Hash SHA-256: 6e33fbeac0a3b12cfcb3d506d6cd10a71e80ee88002b65368bec614164a0843d
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 12 del 24 de Enero del 2020 Modifica Resolución ex. Sii n° 144, de 31 de diciembre de 2019, que fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre anticipo de devolución del impuesto a la renta correspondiente al año tributario 2020. Fuente: Subdirección De Fiscalización Resolución E…
+: Subdirección de Avaluaciones Regula forma de impetrar el beneficio establecido en la ley n° 21.207, sobre anticipo de devolución del impuesto a la renta correspondiente al año tributario 2020. Fuente: Subdirección De Fiscalización
 
 ## Referencias detectadas
 

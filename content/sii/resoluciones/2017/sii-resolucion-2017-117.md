@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Asistencia al Contribuyente, Departamento de Operaciones Resolución Exenta SII N° 118 del 06 de Diciembre del 2017 Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Asuntos Corporativos Crea modelo de certificado n° 59, sobre donaciones efectuadas a la conferencia episcopal de chile con motivo de la visita del papa al país Fuente: Subdirección De Fiscalización, Departamento De Análisis M…
+Asuntos Corporativos Crea modelo de certificado n° 59, sobre donaciones efectuadas a la conferencia episcopal de chile con motivo de la visita del papa al país Fuente: Subdirección De Fiscalización, Departamento De Análisis Masivo Del Cumplimiento Tributario
 
 ## Referencias detectadas
 

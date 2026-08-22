@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 94 del 12 de Octubre del 2017 Reemplaza formato e instrucciones de Declaración Jurada Formulario Número 1806, modifica Resolución Exenta SII N° 187 del 23.12.2010 y elimina Declaración Jurada de Formulario 1849. Fuente: Subdirección de Fiscalización Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 92 del 06 de Octubre del 2017 Autoriza solicitud de exclu…
+Fiscalización Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2016
-- Fecha: 2016-10-06
+- Fecha: 2016-10-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso98.pdf
 - Hash SHA-256: 5d9cd9a85a516c932471d314cf52d1545d0dba992233271d48955fdca0db5ce3
 
 ## Resumen
 
-ente: Departamento de Operaciones Resolución Exenta SII N° 99 del 06 de Octubre del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Delega facultad que indica Fuente: Departamento de Defensa Judicial Civil Resolución Exenta SII N° 97 del 30 de Septiembre del 2016 Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de…
+mplimiento Tributario Delega facultad que indica Fuente: Departamento de Defensa Judicial Civil
 
 ## Referencias detectadas
 

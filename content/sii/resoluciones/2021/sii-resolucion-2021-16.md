@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2021
-- Fecha: 2021-02-18
+- Fecha: 2021-02-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso16.pdf
 - Hash SHA-256: 4b56c28db816635600359234241060d79ce3e23c48e2a969140ab7f6847131aa
 
 ## Resumen
 
-asas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa. Resolución Exenta SII N° 17 del 18 de Febrero del 2021 Corrige errores de transcripción de la Resolución Exenta SII N° 58 de 2020 Fuente: Subdirección de Fiscalización. Designa secretario general subrogante. Fuente: Secretaría General. Resolución Exenta SII N° 15 del 15 de Febrero del 2021 Establece la forma en que este servicio pondrá a disposición la información que debe propor…
+cción de Fiscalización. Designa secretario general subrogante. Fuente: Secretaría General.
 
 ## Referencias detectadas
 

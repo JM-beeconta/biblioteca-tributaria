@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e='margin-top:0px;margin-bottom:0px;'>Crea registro de contribuyentes de ferias libres Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 178 del 10 de Diciembre del 2025 Crea registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Revóquese la obligación de aplicar el sistema de trazabilidad establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, a los contribuyentes que indic…
+ute;n de Asistencia al Contribuyente. Revóquese la obligación de aplicar el sistema de trazabilidad establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, a los contribuyentes que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

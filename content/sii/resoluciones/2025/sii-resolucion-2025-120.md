@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;blicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 121 del 16 de Septiembre del 2025 Actualiza la nómina de bienes afectos de la Res. Ex. N°127 año 2024, según lo establecido en el artículo 9 de la ley N° 21.420. Fuente: Subdirección de Avaluaciones. Reorganiza las unidades que conforman el departamento Subdirección de Desarrollo de Personas, establece funciones y ámbitos de competencia. Deja sin efecto Resolución Exenta SII Nº136, de 2021. Fuente: Subdirección Des…
+Subdirección de Avaluaciones. Reorganiza las unidades que conforman el departamento Subdirección de Desarrollo de Personas, establece funciones y ámbitos de competencia. Deja sin efecto Resolución Exenta SII Nº136, de 2021. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

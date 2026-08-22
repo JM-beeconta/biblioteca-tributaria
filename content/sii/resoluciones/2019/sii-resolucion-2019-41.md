@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2019
-- Fecha: 2019-04-02
+- Fecha: 2019-04-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso41.pdf
 - Hash SHA-256: 46330c4c36bb5561e6e39db71ac9409b65de7252d9daf289b4d56c9f78e1e262
 
 ## Resumen
 
-pan> Resolución Exenta SII N° 42 del 02 de Abril del 2019 Regula el intercambio de información entre la Superintendencia de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N° 3.500, de 1980. Fuente: Subdirección de Fiscalización Regula el intercambio de información entre los organismos administradores del seguro de la Ley N°16.744, el Servicio de Impuestos Internos, la Tesorer…
+cción de Fiscalización Regula el intercambio de información entre los organismos administradores del seguro de la Ley N°16.744, el Servicio de Impuestos Internos, la Tesorería General de la República y la Superintendencia de Seguridad Social, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N°3500, de 1980. Deroga y reemplaza la Resolución Ex. SII N°86, del Servicio de Impuestos Internos y la Circular Conjunta N°4, de la Tesorería General de la República, a…
 
 ## Referencias detectadas
 

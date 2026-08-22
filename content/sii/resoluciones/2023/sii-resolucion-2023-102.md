@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2023
-- Fecha: 2023-09-04
+- Fecha: 2023-09-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso102.pdf
 - Hash SHA-256: 0b6e5e176761d3f6b3e3c0c9132ea2b8d0124db26353a00a9dec0fddece9428c
 
 ## Resumen
 
-acultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 103 del 04 de Septiembre del 2023 Incorpórase a ACF Capital S.A. en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a empresa Tuacceso Producciones SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de A…
+ute;n de Asistencia al Contribuyente. Autoriza a empresa Tuacceso Producciones SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

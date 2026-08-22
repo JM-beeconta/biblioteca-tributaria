@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2018
-- Fecha: 2018-04-30
+- Fecha: 2018-04-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso40.pdf
 - Hash SHA-256: 43a57491930793daaf382dacb76b8651184432355c8a855a4e51d80777dd5ac4
 
 ## Resumen
 
-te;n De Fiscalización Resolución Exenta SII N° 41 del 30 de Abril del 2018 Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 47 de 2017 Fuente: Subdirección de Asuntos Corporativos Complementa Resolución Ex. SII N°46, de 2017 Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 39 del 13 de Abril del 2018 Modifica Resoluci…
+cción de Asuntos Corporativos Complementa Resolución Ex. SII N°46, de 2017 Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

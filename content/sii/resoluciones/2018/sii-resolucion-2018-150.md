@@ -11,7 +11,7 @@
 
 ## Resumen
 
-arget='_blank'>Resolución Exenta SII N° 151 del 28 de Diciembre del 2018 Reemplaza resoluciones Ex. SII N° 59, de 20 de junio de 2014, Ex. SII N°59, de 27 de julio de 2018 y Ex. SII N° 68, de 28 de agosto de 2018, sobre procedimiento de solicitud de inscripción en registros de instituciones sin fines de lucro distribuidoras y/o receptoras de productos cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Asistencia al Contribuyente Fija nóminas de agentes retenedores y de contribuyentes sujetos a re…
+ute;n de Asistencia al Contribuyente Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

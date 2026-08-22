@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 35 del 31 de Marzo del 2021 Aprueba Convenio Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio Intercambio de Información y Colaboración entre el Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resoluc…
+tégica y Estudios Tributarios. Aprueba Convenio Intercambio de Información y Colaboración entre el Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

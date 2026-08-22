@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s://www.sii.cl/normativa_legislacion/resoluciones/2016/reso48.pdf' target='_blank'>Resolución Exenta SII N° 48 del 26 de Mayo del 2016 Autoriza a la empresa TAS Chile S.A., para operar un sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes usuarios terceros afiliados a su red. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea invi…
+cia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

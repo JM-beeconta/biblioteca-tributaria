@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2013 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 05 del 09 de Enero del 2025 Establece forma y plazo de presentación de la declaración jurada para información de abonos recibidos, conforme al Artículo 85 ter del Código Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 04 del 09 de Enero del 2025 Declara término de giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII…
+cción de Fiscalización. Resolución Exenta SII N° 04 del 09 de Enero del 2025 Declara término de giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

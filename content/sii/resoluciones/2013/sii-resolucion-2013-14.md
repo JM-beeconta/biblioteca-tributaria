@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cia de Contribuyentes. Resolución Exenta SII N° 15 del 31 de Enero del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Establece Obligación de presentar Declaración Jurada anual informativa de precios de transferencia Fuente: Departamento de Fiscalización Internacional. Resolución Exenta SII N° 13 del 31 de Enero del 2013 Modifica plazo de piloto establecido en la Resolución Ex N°…
+ia de Contribuyentes. Establece Obligación de presentar Declaración Jurada anual informativa de precios de transferencia Fuente: Departamento de Fiscalización Internacional.
 
 ## Referencias detectadas
 

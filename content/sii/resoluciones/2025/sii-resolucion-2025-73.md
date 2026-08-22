@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2025
-- Fecha: 2025-06-26
+- Fecha: 2025-06-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso73.pdf
 - Hash SHA-256: 600d075bb62136b90e5b6e84bf814f6c0362f00e9af522bd6c857b24d5b4a124
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 74 del 26 de Junio del 2025 Actualiza la nómina de bienes afectos de la Res. Ex. N°127 año 2024, según lo establecido en el artículo 9 de la ley N° 21.420, modificada por el artículo 5° de la ley 21.713 Fuente: Subdirección de Avaluaciones. Complementa lista anexa de la resolución exenta n°08 de 2024. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 72 del 19 de Junio del 2025 Establece contenido y procedi…
+Subdirección de Avaluaciones. Complementa lista anexa de la resolución exenta n°08 de 2024. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

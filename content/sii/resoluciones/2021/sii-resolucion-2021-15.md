@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2021
-- Fecha: 2021-02-18
+- Fecha: 2021-02-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso15.pdf
 - Hash SHA-256: 8954af00aa53668bf329f9b5c4afff635903319e1840a7632abc0ab4d8c1e2a0
 
 ## Resumen
 
-18 de Febrero del 2021 Corrige errores de transcripción de la Resolución Exenta SII N° 58 de 2020 Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 16 del 15 de Febrero del 2021 Designa secretario general subrogante. Fuente: Secretaría General. Establece la forma en que este servicio pondrá a disposición la información que debe proporcionar a los contribuyentes acogidos al artículo 14 letra d) N°3 y N°8, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Resolución Exenta SII…
+Fuente: Secretaría General. Establece la forma en que este servicio pondrá a disposición la información que debe proporcionar a los contribuyentes acogidos al artículo 14 letra d) N°3 y N°8, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 126 del 30 de Diciembre del 2014 Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a contribuyentes para acogerse al modelo de operación de contabilidad electrónica Fuente: Subdirección de Asistencia al Contribuyente Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 124 del 29 de Diciembre del 2014 Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que señal…
+ncia al Contribuyente Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

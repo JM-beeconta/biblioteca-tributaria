@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 16 del 24 de Enero del 2024 Designa secretaria titular en tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Subdirección Jurídica. Registro de instituciones sin fines de lucro distribuidoras y/o receptoras de productos cuya comercialización se ha vuelto inviable y establece procedimiento de inscripción. De…
+Subdirección Jurídica. Registro de instituciones sin fines de lucro distribuidoras y/o receptoras de productos cuya comercialización se ha vuelto inviable y establece procedimiento de inscripción. Deja sin efecto resolución Ex. SII N° 151 de 2018. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

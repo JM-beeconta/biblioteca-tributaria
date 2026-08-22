@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2018
-- Fecha: 2018-06-20
+- Fecha: 2018-06-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso50.pdf
 - Hash SHA-256: 03a222f571301b985c2cd383a21ca3ebdd41c1ed80ea77490a5ad1e9a2062002
 
 ## Resumen
 
-n Exenta SII N° 51 del 20 de Junio del 2018 Actualiza resolución exenta SII N° 126, de 27.12.2016, en lo que dice relación con los contribuyentes obligados a presentar la declaración jurada anual sobre precios de transferencia, atendida la derogación del Artículo 41 D y la modificación del artículo 41 E, ambos de la Ley sobre Impuesto a la Renta, efectuadas por la Ley N° 21.047. Fuente: Subdirección de Fiscalización Modifica instrucción contenida en el Anexo 3 de la Resolución Ex. SII Nº 40, de fecha 31 de marzo d…
+cción de Fiscalización Modifica instrucción contenida en el Anexo 3 de la Resolución Ex. SII Nº 40, de fecha 31 de marzo de 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

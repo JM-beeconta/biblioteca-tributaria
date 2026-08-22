@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 122
 - Año: 2025
-- Fecha: 2025-09-25
+- Fecha: 2025-09-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso122.pdf
 - Hash SHA-256: 1e4a1bbccc46151927bf90d05cfaac09332149c678f8b990802a5538d63b94fc
 
 ## Resumen
 
-acultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 123 del 25 de Septiembre del 2025 Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2026. Fuente: Subdirección de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 121 del 16 de Septiembre…
+cción de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

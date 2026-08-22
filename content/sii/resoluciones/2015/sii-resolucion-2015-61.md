@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2015
-- Fecha: 2015-07-21
+- Fecha: 2015-07-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso61.pdf
 - Hash SHA-256: 8669442d1a9ca14ad67d4bf9ba554ecf67fd53857973b3bfe09c7657bad187ec
 
 ## Resumen
 
-ción de Fiscalización Resolución Exenta SII N° 62 del 21 de Julio del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza el pago en moneda extranjera del impuesto que indica Fuente: Subdirección de Fiscalizacióbn Resolución Exenta SII N° 60 del 10 de Julio del 2015 Delega en los Sres. Directores regionales la facultad que indica. Fuente: Departamento de Asesoría Jurídica Resoluc…
+mplimiento Tributario Autoriza el pago en moneda extranjera del impuesto que indica Fuente: Subdirección de Fiscalizacióbn
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 191 del 19 de Diciembre del 2025 Modifica Resolución Ex. SII N°106, de 02 de septiembre de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de sus unidades. Fuente: Subdirección de Fiscalización. Modifica Resolución Exenta N° 66 de 2016 en los términos que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 189 del 18 de Diciembre del 2025 Delega…
+cción de Fiscalización. Modifica Resolución Exenta N° 66 de 2016 en los términos que indica. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

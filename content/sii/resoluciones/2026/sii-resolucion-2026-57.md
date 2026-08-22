@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2026
-- Fecha: 2026-04-24
+- Fecha: 2026-04-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso57.pdf
 - Hash SHA-256: b41b060e5482f926bde4b21df467c287872f170e455d8dc95eed3b8a7e1a1a22
 
 ## Resumen
 
-que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 58 del 24 de Abril del 2026 Instruye sobre requisitos, fija procedimiento para solicitar el subsidio temporal establecido en el artículo 8° de la Ley N°21.751, y habilita plataforma al efecto. Fuente: Subdirección de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 56 del 13…
+cción de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

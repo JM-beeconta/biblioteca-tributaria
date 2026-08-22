@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 22
 - Año: 2026
-- Fecha: 2026-02-10
+- Fecha: 2026-02-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso22.pdf
 - Hash SHA-256: ea6c142a1655e82e3535fc02f52112104ae845d74ad28741c06b913c57fbe0ba
 
 ## Resumen
 
-ble y del Biobío que indica Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 23 del 10 de Febrero del 2026 Inscripción de oficio en el registro especial de operadores de plataformas digitales de intermediación de ventas con domicilio o residencia en chile. Fuente: Subdirección de Fiscalización. Deja sin efecto la resolución Ex. N° 209 de 2025, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Reso…
+cción de Fiscalización. Deja sin efecto la resolución Ex. N° 209 de 2025, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

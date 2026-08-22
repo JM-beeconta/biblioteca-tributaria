@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2013
-- Fecha: 2013-01-23
+- Fecha: 2013-01-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso7.pdf
 - Hash SHA-256: 8bbcb7e0d873dde45d31ac77fd29bc40ffd20d2f9c7efea361bbdb0e301edda0
 
 ## Resumen
 
-. Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 08 del 23 de Enero del 2013 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Depto. De Personas y de Micro y pequeñas Empresas. Resolución Exenta SII N° 07 del 17 de Enero del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónica a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes - Subdirección de Fiscal…
+eñas Empresas. Resolución Exenta SII N° 07 del 17 de Enero del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónica a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes - Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

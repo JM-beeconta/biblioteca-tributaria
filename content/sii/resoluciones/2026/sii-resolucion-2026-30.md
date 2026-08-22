@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2026
-- Fecha: 2026-03-04
+- Fecha: 2026-02-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso30.pdf
 - Hash SHA-256: a91a6dca8bebd22584dbde448bf3f726dc6262097ca4a826ec42a11bc2472801
 
 ## Resumen
 
-plicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 31 del 04 de Marzo del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contri…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

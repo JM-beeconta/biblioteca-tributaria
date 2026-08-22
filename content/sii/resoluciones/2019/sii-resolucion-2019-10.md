@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 11 del 30 de Enero del 2019 Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización Establece forma y plazo en que las empresas acogidas al régimen de renta atribuida deben certificar a sus socios o accionistas, el saldo final de rentas atr…
+cción de Fiscalización Establece forma y plazo en que las empresas acogidas al régimen de renta atribuida deben certificar a sus socios o accionistas, el saldo final de rentas atribuidas propias existentes en el registro establecido en la Letra a), del N° 4.-, de la Letra a), del Artículo 14 de la LIR, en el ejercicio inmediatamente anterior a aquél en que se efectuó la enajenación o cesión de acciones o derechos sociales. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

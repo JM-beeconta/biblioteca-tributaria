@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 42
 - Año: 2013
-- Fecha: 2013-05-06
+- Fecha: 2013-05-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso42.pdf
 - Hash SHA-256: a4d5700b3e0ab520c7b1d60038cc77eebcafd70430435289138506e384fed9ef
 
 ## Resumen
 
-egislacion/resoluciones/2013/reso43.pdf' target='_blank'>Resolución Exenta SII N° 43 del 06 de Mayo del 2013 Complementa resolución Exenta SII N° 208, de 2009, en relación a la recuperación de impuesto a que tienen derecho las empresas navieras chilenas señaladas en el artículo 36 inciso octavo, de la ley sobre impuesto a las ventas y Servicios. Fuente: Departamento Medianas y Grandes Empresas. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente:…
+s y Grandes Empresas. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

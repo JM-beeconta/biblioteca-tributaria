@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2026
-- Fecha: 2026-06-12
+- Fecha: 2026-06-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso79.pdf
 - Hash SHA-256: 482bf2ac95647cbc4327cfd680fe645ec2cc9661ddb7ebc4fbbf527221b59acc
 
 ## Resumen
 
-lega esta facultad en funcionarios que indica Fuente: Subdirección de Administración. Resolución Exenta SII N° 80 del 12 de Junio del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Modifícase la Resolución Ex. SII N° 179 de 2025, que crea el registro de ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 78 del 09 de Junio del 2026 Aprueba Conveni…
+ute;n de Asistencia al Contribuyente. Modifícase la Resolución Ex. SII N° 179 de 2025, que crea el registro de ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

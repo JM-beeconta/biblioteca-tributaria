@@ -11,7 +11,7 @@
 
 ## Resumen
 
-indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 68 del 26 de Junio del 2020 Dicta normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 10 del Decreto Supremo 420 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones. Establece procedimiento sobre declaración y pago del impuesto al valor agregado para contribuyentes no domiciliados ni residentes en Chile, conforme al nuevo párrafo 7° bis de la Ley sobre imp…
+Subdirección de Avaluaciones. Establece procedimiento sobre declaración y pago del impuesto al valor agregado para contribuyentes no domiciliados ni residentes en Chile, conforme al nuevo párrafo 7° bis de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

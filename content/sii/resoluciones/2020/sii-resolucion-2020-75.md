@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2020
-- Fecha: 2020-07-08
+- Fecha: 2020-07-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso75.pdf
 - Hash SHA-256: 0d5dd71e724d433409007366d8075922ed44cf534aeb834f784bab3b2e2e44c4
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 76 del 08 de Julio del 2020 Prorroga aplicación de medidas tributarias, en relación al impuesto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile, para los contribuyentes que se indican. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Inter…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

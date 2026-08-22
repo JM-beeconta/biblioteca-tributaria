@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Avaluaciones Resolución Exenta SII N° 36 del 15 de Abril del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección de Informática y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección Informática Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección Jurídica Resolución Exenta SII N° 34 del 14 de Abril del 2016 Autoriza a institución sin fines de lucro,…
+;n Informática Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

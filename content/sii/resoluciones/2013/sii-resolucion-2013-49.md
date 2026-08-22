@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2013
-- Fecha: 2013-05-23
+- Fecha: 2013-05-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso49.pdf
 - Hash SHA-256: 8390c02bb4d43306a826f60a721a99a4536aadadee6531b9b70932c246112d21
 
 ## Resumen
 
-rsonas y de Micro y Pequeñas Empresas. Resolución Exenta SII N° 50 del 23 de Mayo del 2013 Autoriza a instituciones sin fines de lucro como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeña Empresas. Déjase sin efecto Resolución Exenta SII N° 19 del 29 de enero de 2004. Fuente: Departamento de Personas y Micro y Pequeñas Empresas. Resolución Exenta SII N° 48 del 16 de Mayo del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas…
+ueña Empresas. Déjase sin efecto Resolución Exenta SII N° 19 del 29 de enero de 2004. Fuente: Departamento de Personas y Micro y Pequeñas Empresas.
 
 ## Referencias detectadas
 

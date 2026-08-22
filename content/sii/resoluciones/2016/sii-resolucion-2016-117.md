@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i.cl/normativa_legislacion/resoluciones/2016/reso118.pdf' target='_blank'>Resolución Exenta SII N° 118 del 26 de Diciembre del 2016 Reemplaza contenido e instrucciones de Declaraciones juradas sobre crédito especial empresas constructoras, Formularios N° 1842 y N° 1843, incluidas en resolución Exenta SII N°151 del 07 de octubre de 2009 Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica Resolución Exenta SII N° 50 de 2012 reemplazando el Formulario 1848 e instrucciones de llenado Fuente: D…
+mplimiento Tributario Modifica Resolución Exenta SII N° 50 de 2012 reemplazando el Formulario 1848 e instrucciones de llenado Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

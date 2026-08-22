@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 55 del 30 de Abril del 2019 Modifica territorios jurisdiccionales de la XIII y XV Direcciones Regionales Metropolitanas Santiago Centro y Santiago Oriente y cambia dependencia de Unidad de Ñuñoa y Central Metropolitana de Timbraje. Fuente: Subdirección Desarrollo de Personas Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Resolución Exenta SII N° 53 del 30 de Abril del…
+ección Desarrollo de Personas Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

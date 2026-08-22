@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ndican, para el Año Tributario 2020. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 110 del 30 de Septiembre del 2019 Reemplaza la estructura e instrucciones de declaraciones juradas que se indican; y deja sin efecto las resoluciones que se señalan. Fuente: Subdirección de Fiscalización Modifica Resolución Ex. SII N°103 de 13.10.2017 que establece Declaración Jurada Anual N° 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fisca…
+cción de Fiscalización Modifica Resolución Ex. SII N°103 de 13.10.2017 que establece Declaración Jurada Anual N° 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

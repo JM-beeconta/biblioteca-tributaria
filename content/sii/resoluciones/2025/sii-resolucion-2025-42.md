@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 42
 - Año: 2025
-- Fecha: 2025-04-04
+- Fecha: 2025-04-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso42.pdf
 - Hash SHA-256: f584071ee417bfe21f96bb7c85e17ec9e08e42bff6daa326a56d9640fbd87c0e
 
 ## Resumen
 
-o tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 43 del 04 de Abril del 2025 Regula procedimiento para el ejercicio de la facultad de acceso a la información bancaria de que tratan los artículos 62 y 62 bis del código tributario. Fuente: Subdirección de Fiscalización Fija procedimiento simplificado para otorgar rut a contribuyentes no domiciliados ni residentes en chile Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 41 del 03 de Abril del 2025…
+ección de Fiscalización Fija procedimiento simplificado para otorgar rut a contribuyentes no domiciliados ni residentes en chile Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

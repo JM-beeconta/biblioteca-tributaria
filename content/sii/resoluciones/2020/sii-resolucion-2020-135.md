@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='reso136.pdf' target='_blank'>Resolución Exenta SII N° 136 del 23 de Octubre del 2020 Establece procedimiento de verificación de antecedentes para determinar el cumplimiento de requisitos de procedencia del beneficio del artículo 5 del artículo primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada COVID-19. Fuente: Subdirección de Fiscalización. Establece la forma y plazo en que los contribuyentes deberán acreditar las devolucione…
+cción de Fiscalización. Establece la forma y plazo en que los contribuyentes deberán acreditar las devoluciones, disminuciones o retiros de capital realizados en sociedades, establecimientos permanentes y otras entidades en el exterior. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

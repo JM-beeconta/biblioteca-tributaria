@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mativa_legislacion/resoluciones/2015/reso57.pdf' target='_blank'>Resolución Exenta SII N° 57 del 30 de Junio del 2015 Establece nuevas fechas de pago para las cuotas de impuesto territorial correspondientes a los meses de abril y junio de 2015, para los bienes raíces ubicados en la región de Atacama y en las comunas de Antofagasta y Taltal de la II región de Antofagasta. Fuente: Subdirección de Avaluaciones Establece oficina de atención de público en la comuna de Alto Hospicio, dependiente de la I Dirección Region…
+ute;n de Avaluaciones Establece oficina de atención de público en la comuna de Alto Hospicio, dependiente de la I Dirección Regional Iquique y delega facultades que indica Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

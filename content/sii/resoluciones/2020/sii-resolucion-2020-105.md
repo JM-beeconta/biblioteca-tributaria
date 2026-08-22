@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 106 del 03 de Septiembre del 2020 Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática. Complementa normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 4 del artículo 1° del decreto supremo N° 1156 de 2020 del Ministerio de Hacienda.…
+rección de Informática. Complementa normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 4 del artículo 1° del decreto supremo N° 1156 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

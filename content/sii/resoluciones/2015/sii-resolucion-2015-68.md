@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 69 del 07 de Agosto del 2015 Modifica Res. Ex. SII N° 56, de 30 de junio de 2015, en el sentido que indica Fuente: Departamento de Asesoría Jurídica Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección Grandes Contribuyentes Resolución Exenta SII N° 67 del 07 de Agosto del 2015 Autoriza a las instituciones sin fines de lucro, como receptoras de al…
+ute;a Jurídica Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección Grandes Contribuyentes
 
 ## Referencias detectadas
 

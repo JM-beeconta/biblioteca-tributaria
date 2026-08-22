@@ -11,7 +11,7 @@
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 12 del 17 de Enero del 2025 Establece la obligación de entregar representación impresa o virtual de la boleta electrónica y del comprobante de pago electrónico, en las condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Dispone cambio de sujeto de derecho del IVA en las ventas de Berries. Deja sin efecto las Resoluciones Ex. SII N° 55 de 2005 y N° 58 de 2006. Fuente: Subdi…
+ute;n de Asistencia al Contribuyente. Dispone cambio de sujeto de derecho del IVA en las ventas de Berries. Deja sin efecto las Resoluciones Ex. SII N° 55 de 2005 y N° 58 de 2006. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='_blank'>Resolución Exenta SII N° 112 del 24 de Diciembre del 2015 Establece forma y plazo para presentar Declaración Jurada anual N° 1926 a los contribuyentes que indica; dispone la obligación para las medianas empresas de presentar la Declaración Jurada N° 1847; y deroga Resoluciones Exentas N°s 1, del 2012 y 41, del 2014. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece forma y plazo para presentar Declaración Jurada anual de fondo de utilidades tributables (FUT), Formulario N°…
+mplimiento Tributario Establece forma y plazo para presentar Declaración Jurada anual de fondo de utilidades tributables (FUT), Formulario N° 1925. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

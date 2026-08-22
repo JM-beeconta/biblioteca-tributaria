@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2023
-- Fecha: 2023-04-17
+- Fecha: 2023-04-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso47.pdf
 - Hash SHA-256: 297f4b6a18e3b5906ea5f5cc7a5b2113749b3831272a8137fb5ce5482c360b33
 
 ## Resumen
 
-ciembre De 2022, A Real Time Inversiones S.A Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 48 del 17 de Abril del 2023 Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Arica Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resol…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Arica Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

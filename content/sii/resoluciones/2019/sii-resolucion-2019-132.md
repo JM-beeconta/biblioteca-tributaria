@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 133 del 05 de Diciembre del 2019 Autoriza al Conservador de Bienes Raíces de Talcahuano, Sr. SERGIO ANIBAL CONDEZA NEUBER, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de San Javier, Sr. GERARDO CARLOS NAVARRO ESCALA, para emitir boletas de honorarios electrónicas, en la f…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de San Javier, Sr. GERARDO CARLOS NAVARRO ESCALA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

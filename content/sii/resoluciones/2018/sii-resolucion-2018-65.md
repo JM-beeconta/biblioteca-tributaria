@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 65
 - Año: 2018
-- Fecha: 2018-08-28
+- Fecha: 2018-08-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso65.pdf
 - Hash SHA-256: f4d649c1e0d6d06b6e5c2bbaefda8a710859adda068bc3d2cf7d2e9ebeae1cdf
 
 ## Resumen
 
-, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 66 del 28 de Agosto del 2018 Autoriza al Archivero Judicial de Santiago, Sr. Julian Miranda Osses, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Ex. SII N° 63, de 10.08.2018, en los términos que indica, respecto de Corporación Red Alimentos. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 64 del 13…
+ute;n de Asistencia al Contribuyente Complementa Resolución Ex. SII N° 63, de 10.08.2018, en los términos que indica, respecto de Corporación Red Alimentos. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

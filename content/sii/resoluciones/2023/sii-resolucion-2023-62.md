@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rritorio de la I. Corte de Apelaciones de La Serena Fuente: Subdirección Jurídica. Resolución Exenta SII N° 63 del 30 de Mayo del 2023 Modifica Res. Ex. SII N° 115 del 2022, en lo referido al procedimiento extraordinario para el registro de las sociedades de profesionales. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a CHILE TIKET SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistenc…
+ute;n de Asistencia al Contribuyente. Autoriza a CHILE TIKET SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

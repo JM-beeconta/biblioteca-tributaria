@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;n de Asistencia al Contribuyente Resolución Exenta SII N° 83 del 19 de Agosto del 2016 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento tributario Resolución Exenta SII N° 81 del 19 de Agosto del 2016 Complementa Resolución Exe…
+mplimiento Tributario Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento tributario
 
 ## Referencias detectadas
 

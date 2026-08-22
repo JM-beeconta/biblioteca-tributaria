@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2017
-- Fecha: 2017-05-19
+- Fecha: 2017-05-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso49.pdf
 - Hash SHA-256: 99702ebc9d927390c3f73814b3a21a932a1dbd5e3a0e70d9f503d3150a322730
 
 ## Resumen
 
-Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 50 del 19 de Mayo del 2017 Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiónes de Atacama y Coquimbo Fuente: Departamento de Operaciones Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 48 del 12 de Mayo del 2017 Modif…
+amento de Operaciones Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

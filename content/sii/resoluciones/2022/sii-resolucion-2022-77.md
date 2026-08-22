@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Fiscalización. Resolución Exenta SII N° 78 del 31 de Agosto del 2022 Incorpora nuevos códigos al formulario 50 sobre &ldquo;declaración y pago simultáneo mensual de impuestos&rdquo; para declarar y pagar la retención asociada al impuesto único del artículo 107 de la ley sobre impuesto a la renta. Fuente: Subdirección de Fiscalización. Crea modelo de Certificado N° 73 sobre donaciones acogidas al título VIII bis del Decreto Ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido y sistematizad…
+cción de Fiscalización. Crea modelo de Certificado N° 73 sobre donaciones acogidas al título VIII bis del Decreto Ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido y sistematizado fue fijado por el Decreto N° 2.385, de 1996, del Ministerio del Interior. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

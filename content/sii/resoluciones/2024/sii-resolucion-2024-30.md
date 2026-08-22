@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2024
-- Fecha: 2024-03-07
+- Fecha: 2024-03-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso30.pdf
 - Hash SHA-256: 54bc7d89131b5be806ae314db8bf16c79a5c94a69f51c1707aa1f734888c0815
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 31 del 07 de Marzo del 2024 Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de San Miguel. Fuente: Subdirección Jurídica. Autoriza a KZEMOS CHILE SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que in…
+Subdirección Jurídica. Autoriza a KZEMOS CHILE SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

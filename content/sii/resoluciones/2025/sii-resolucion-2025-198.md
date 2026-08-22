@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mbio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 199 del 23 de Diciembre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Licantén. Fuente: Subdirección de Avaluaciones. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolu…
+Subdirección de Avaluaciones. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

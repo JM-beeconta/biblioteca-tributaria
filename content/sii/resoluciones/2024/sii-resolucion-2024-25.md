@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2024
-- Fecha: 2024-02-12
+- Fecha: 2024-02-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso25.pdf
 - Hash SHA-256: 191f3c85e707c6d02a112acb119d6ab11cabfb8891892cac2ae251ea3969c8e7
 
 ## Resumen
 
-N° 1087, de 1978, a contribuyente que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 26 del 12 de Febrero del 2024 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Consejo Nacional de Televisión Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 24 del 07 de Febrero del 2024 Apr…
+ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Consejo Nacional de Televisión Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

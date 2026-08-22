@@ -11,7 +11,7 @@
 
 ## Resumen
 
-xenta SII N° 80 del 14 de Julio del 2020 Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas y utilidades reinvertidas que permanezcan en el fondo de utilidades reinvertidas (fur), que establece el artículo vigésimo quinto transitorio de la Ley N° 21.210. Modifica resolución exenta SII N°27 del 25 de febrero del 2009. Fuente: Subdirección de Fiscalización. Designa secretario titular y suplente en el tribunal especial de alza…
+cción de Fiscalización. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Coyhaique. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

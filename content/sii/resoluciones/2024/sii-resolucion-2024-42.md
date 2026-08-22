@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 42
 - Año: 2024
-- Fecha: 2024-04-03
+- Fecha: 2024-04-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso42.pdf
 - Hash SHA-256: 6911f72be2db34f22969bfd73bda38c93d096afa94e68bb0a737442a437e5702
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 43 del 03 de Abril del 2024 APRUEBA MODIFICACIÓN DE CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE EL INSTITUTO NACIONAL DE PROPIEDAD INDUSTRIAL Y EL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL RE…
+tégica y Estudios Tributarios. MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAICES DE LA PRIMERA SERIE AGRÍCOLA, POR LA ACTUALIZACIÓN CATASTRAL, EN LO QUE INDICA Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

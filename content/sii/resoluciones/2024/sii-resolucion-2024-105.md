@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2024
-- Fecha: 2024-11-07
+- Fecha: 2024-10-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso105.pdf
 - Hash SHA-256: 3038e9fbcc4b137ad0c20d63a97869e579bfbd334d0c545ef64ec9cd1f97e74e
 
 ## Resumen
 
-tación simplificada del párrafo 7° bis del título II de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 106 del 07 de Noviembre del 2024 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre impuesto a las ventas y servicios, por parte de contribuyentes sin domicilio ni residencia en Ch…
+Subdirección Jurídica. Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre impuesto a las ventas y servicios, por parte de contribuyentes sin domicilio ni residencia en Chile que presten servicios afectos a IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

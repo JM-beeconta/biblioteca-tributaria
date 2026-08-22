@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2022
-- Fecha: 2022-09-15
+- Fecha: 2022-09-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso87.pdf
 - Hash SHA-256: 7a0b2ae376f7209d2dcef312a7247002b5fb393fc48f496c3efef5bff99019e2
 
 ## Resumen
 
-unicipalidad de Villa Alemana. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 88 del 15 de Septiembre del 2022 Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad de Las Américas Fuente: Subdirección de Asistencia al Contribuyente. Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, los pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero establecido en la Ley N° 21.323. Fuen…
+ute;n de Asistencia al Contribuyente. Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, los pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero establecido en la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

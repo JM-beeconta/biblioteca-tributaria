@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;'> Fuente: Depto. de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 27 del 28 de Febrero del 2014 Delega facultades en el Director Regional de la XIX Dirección Regional Metropolitana Santiago Norte. Fuente: Depto. de Asesoría Jurídica Autoriza a institución sin fines de lucro, como distribuidora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas. Resolución SII N° 06 del 28 de Febrero del 2014 Delega facultades en el Director Regiona…
+ute;a Jurídica Autoriza a institución sin fines de lucro, como distribuidora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas.
 
 ## Referencias detectadas
 

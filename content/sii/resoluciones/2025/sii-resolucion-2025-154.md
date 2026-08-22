@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 154
 - Año: 2025
-- Fecha: 2025-11-06
+- Fecha: 2025-11-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso154.pdf
 - Hash SHA-256: 4e2da035e2fd6fbd9babd60bb9c7acb6569023a9cd0ea0b8980ecaddd7308c06
 
 ## Resumen
 
-cultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 155 del 06 de Noviembre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coyhaique. Fuente: Subdirección de Avaluaciones. Fíjase exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 153 del…
+Subdirección de Avaluaciones. Fíjase exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

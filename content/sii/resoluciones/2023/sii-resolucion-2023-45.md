@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2023
-- Fecha: 2023-04-12
+- Fecha: 2023-04-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso45.pdf
 - Hash SHA-256: 43ac2c43fa71040f4b8aa58ee8d4260dd1753625daa291bb479f36b2a88156f8
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 46 del 12 de Abril del 2023 Otorga la calidad de agente retenedor de IVA, de acuerdo con Res. Ex N° 1087, de 28.08.1978, a Gas de Chile S.A., Rut N° 96.694.400-5. Deroga resolución Ex. SII N°58, de 28.06.2022. Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Ex…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

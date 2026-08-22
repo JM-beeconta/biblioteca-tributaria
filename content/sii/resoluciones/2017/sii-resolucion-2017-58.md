@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2017
-- Fecha: 2017-07-10
+- Fecha: 2017-07-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso58.pdf
 - Hash SHA-256: 3ccf862aa7a5f9a1b5078768746f91c18ea20ef7bada43ee10ca2988a981c204
 
 ## Resumen
 
-de Asistencia al Contribuyente Resolución Exenta SII N° 59 del 10 de Julio del 2017 Complementa Resolución Exenta SII N°56 de 09.06.2014 que autoriza a contribuyente que se indica para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente Establece vigencia de código de autorización de folios para los documentos tributarios electrónicos. Deroga resolución ex. SII N° 24, del 23 de marzo de 2016. Fuente: Subdirección de Asistencia al Contribuye…
+ncia al Contribuyente Establece vigencia de código de autorización de folios para los documentos tributarios electrónicos. Deroga resolución ex. SII N° 24, del 23 de marzo de 2016. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

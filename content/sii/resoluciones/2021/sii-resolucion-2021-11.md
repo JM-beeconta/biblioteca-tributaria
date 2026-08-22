@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cionales o auxiliares electrónicos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 12 del 04 de Febrero del 2021 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Complementa Resolución Ex. 119 del 28.09.2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de formulario N° 1…
+ute;n de Asistencia al Contribuyente. Complementa Resolución Ex. 119 del 28.09.2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de formulario N° 1921 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

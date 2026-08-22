@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2013
-- Fecha: 2013-05-31
+- Fecha: 2013-05-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso52.pdf
 - Hash SHA-256: ca2143771d98a370afc0b564f7752e63f4bec3459af34b73f9f7760b80bf5692
 
 ## Resumen
 
-;n de Recursos Humanos. Resolución Exenta SII N° 53 del 31 de Mayo del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Establece la forma y plazo en que deben presentar la Declaración Jurada para acogerse al beneficio de suspensión de los pagos provisionales mensuales obligatorios, establecido por el artículo 1° bis de la Ley N°19.420 de 1995, y por el artículo 1° bis de la Ley 19…
+ia de Contribuyentes. Establece la forma y plazo en que deben presentar la Declaración Jurada para acogerse al beneficio de suspensión de los pagos provisionales mensuales obligatorios, establecido por el artículo 1° bis de la Ley N°19.420 de 1995, y por el artículo 1° bis de la Ley 19.606, de 1999, los contribuyentes que efectúen inversiones al amparo de dichas leyes. Fuente: Departamento Medianas y Grandes Empresas.
 
 ## Referencias detectadas
 

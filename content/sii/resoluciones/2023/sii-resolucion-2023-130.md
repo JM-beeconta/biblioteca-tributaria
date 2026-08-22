@@ -11,7 +11,7 @@
 
 ## Resumen
 
-adas o residentes en Chile. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 131 del 15 de Noviembre del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paillaco. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Padre Hurtado. Fuente: Subdirección de Asistencia al Contribuye…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Padre Hurtado. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

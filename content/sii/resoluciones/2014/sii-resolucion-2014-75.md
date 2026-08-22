@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 75
 - Año: 2014
-- Fecha: 2014-08-13
+- Fecha: 2014-08-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso75.pdf
 - Hash SHA-256: 19c02c3315c2813509ef59036a7c2281f93706ec59809bcd9c3cb8b3d5430698
 
 ## Resumen
 
-acute;n de Informática Resolución Exenta SII N° 76 del 13 de Agosto del 2014 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza impresora fiscal marca SAM4S, modelo ELLIX40S, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 74 del 08 de Agosto del 2014 Autoriza a instituciones…
+cia de Contribuyentes Autoriza impresora fiscal marca SAM4S, modelo ELLIX40S, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

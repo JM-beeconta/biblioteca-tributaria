@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2022
-- Fecha: 2022-07-22
+- Fecha: 2022-07-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso61.pdf
 - Hash SHA-256: d82f7b7c7e9c3fbd432df9908178b67bb2e0b027452e304896ed21c454469c10
 
 ## Resumen
 
-lde;ala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 62 del 22 de Julio del 2022 Autoriza a QR Plus SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 1…
+ute;n de Asistencia al Contribuyente. Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar a objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

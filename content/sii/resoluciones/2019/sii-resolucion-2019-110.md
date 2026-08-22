@@ -11,7 +11,7 @@
 
 ## Resumen
 
-torial y giros infraccionales que no accedan al pago de impuestos. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 111 del 30 de Septiembre del 2019 Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2020. Fuente: Subdirección de Fiscalización Reemplaza la estructura e instrucciones de declaraciones juradas que se indican; y deja sin efecto las resoluciones que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 109 del 30 de Septie…
+cción de Fiscalización Reemplaza la estructura e instrucciones de declaraciones juradas que se indican; y deja sin efecto las resoluciones que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

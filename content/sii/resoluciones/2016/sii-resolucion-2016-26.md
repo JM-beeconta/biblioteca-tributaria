@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2016
-- Fecha: 2016-04-05
+- Fecha: 2016-03-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso26.pdf
 - Hash SHA-256: 1222d68153b4ca6af7611719f258bce40d473fe11dddb297f8773b727f38b2c9
 
 ## Resumen
 
-lución Exenta SII N° 27 del 05 de Abril del 2016 Establece formulario para declarar y pagar el impuesto sustitutivo sobre rentas acumuladas, para contribuyentes acogidos o que se acojan al Régimen Simplificado del artículo 14 ter de la Ley sobre Impuesto a la Renta y para contribuyentes sujetos al régimen general del impuesto a la renta. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea invi…
+mplimiento Tributario Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

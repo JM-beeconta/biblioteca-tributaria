@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2019
-- Fecha: 2019-04-30
+- Fecha: 2019-04-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso50.pdf
 - Hash SHA-256: 6516a7bcfeebde06376711ca5eccea544cf8b847926fd0eace5b96918270b100
 
 ## Resumen
 
-tranjero. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 51 del 30 de Abril del 2019 Crea modelo de Certificado N° 62, sobre donaciones efectuadas a los órganos y servicios públicos incluidos en la Ley de Presupuestos que, forman parte del fisco. Fuente: Subdirección de Fiscalización Autoriza como receptor electrónico de documentos tributarios electrónicos al siguiente organismo público: SUBSECRETARÍA DE EVALUACIÓN SOCIAL. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N°…
+cción de Fiscalización Autoriza como receptor electrónico de documentos tributarios electrónicos al siguiente organismo público: SUBSECRETARÍA DE EVALUACIÓN SOCIAL. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

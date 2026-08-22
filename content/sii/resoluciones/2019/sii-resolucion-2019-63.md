@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2019
-- Fecha: 2019-05-27
+- Fecha: 2019-05-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso63.pdf
 - Hash SHA-256: af26858b7e121d800f2881ccd47648b9949503864ded9866ab294ae486c0a405
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 64 del 27 de Mayo del 2019 Autoriza al Notario Público Titular de San Miguel con asiento en La Cisterna, SR. JORGE ANDRÉS OSSA CUEVAS, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Modifica Res. Ex. N° 5856 del 6 de octubre de 1998 que elimina otorgamiento de boletas de honorarios por profesionales y sociedades de profesionales al…
+ute;n de Asistencia al Contribuyente Modifica Res. Ex. N° 5856 del 6 de octubre de 1998 que elimina otorgamiento de boletas de honorarios por profesionales y sociedades de profesionales al fondo nacional de salud. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

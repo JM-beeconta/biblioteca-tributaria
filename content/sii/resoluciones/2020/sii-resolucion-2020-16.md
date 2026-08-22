@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Alto del Carmen y Copiapó por la razón que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 17 del 05 de Febrero del 2020 Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Aiep. Fuente: Subdirección de Asistencia al Contribuyente Autoriza como Receptor Electrónico de Documentos Tributarios Electrónicos al Servicio de Salud Aconcagua Hospital de Putaendo. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N°…
+cute;n de Asistencia al Contribuyente Autoriza como Receptor Electrónico de Documentos Tributarios Electrónicos al Servicio de Salud Aconcagua Hospital de Putaendo. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

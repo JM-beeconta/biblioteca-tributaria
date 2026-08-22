@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 133
 - Año: 2025
-- Fecha: 2025-10-08
+- Fecha: 2025-10-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso133.pdf
 - Hash SHA-256: 1bf6bc8c31a0a1c9d24dc8829d33ada0f93cf8449f9f80c4db10e94f374ed8d8
 
 ## Resumen
 
-según se indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 134 del 08 de Octubre del 2025 Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Talagante. Fuente: Subdirección de Asistencia al Contribuyente. Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 132 del 06…
+ute;n de Asistencia al Contribuyente. Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

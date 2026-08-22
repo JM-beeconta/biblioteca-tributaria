@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 43 del 06 de Abril del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puerto Varas Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece procedimientos de solicitud y emisión de certificados de cumplimiento de obligaciones tributarias, en los casos de cambios de directores, gerente genera…
+tégica y Estudios Tributarios. Establece procedimientos de solicitud y emisión de certificados de cumplimiento de obligaciones tributarias, en los casos de cambios de directores, gerente general, accionistas y determinados cambios societarios de casinos de juego. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2016
-- Fecha: 2016-07-19
+- Fecha: 2016-07-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso70.pdf
 - Hash SHA-256: b6710eb530ee1058848ba0f6afa6f373562152474e13aa58c308b26bcd7bd385
 
 ## Resumen
 
-e;n de Fiscalización Resolución Exenta SII N° 71 del 19 de Julio del 2016 Delega facultades que indica en Funcionario que señala, y Deroga en parte Resolución Exenta Número 191 de 24 de diciembre de 2010. Fuente: Subdirección de Asuntos Corporativos Modifica Resolución Ex. SII N° 50, del 27.05.2016, que autorizó a NALS Asesorías y Servicios Informáticos SPA para emitir boletas de servicios para el ingreso a espectáculos públicos por cuenta de terceros, en los términos que indica. Fuente: Subdirección de Asistencia…
+Asuntos Corporativos Modifica Resolución Ex. SII N° 50, del 27.05.2016, que autorizó a NALS Asesorías y Servicios Informáticos SPA para emitir boletas de servicios para el ingreso a espectáculos públicos por cuenta de terceros, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 96
 - Año: 2016
-- Fecha: 2016-09-30
+- Fecha: 2016-09-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso96.pdf
 - Hash SHA-256: 2056f723888a710b592d18064f2e7a3c9955ce7196eb82185af5b58b4129eaad
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución SII N° 48 del 30 de Septiembre del 2016 Modifica Resolución N° 38, de 15.04.2016, sobre delegación de facultades. Fuente: Subdireccion de Desarrollo de Personas Establece forma y oportunidad en que las empresas constructoras deben cumplir con la obligación de informar el uso del beneficio tributario establecido en la Ley N° 20.365, de 2009 modificada por la Ley N° 20.897, de 2016. Fuente: Departamento de Análisis Masivo d…
+esarrollo de Personas Establece forma y oportunidad en que las empresas constructoras deben cumplir con la obligación de informar el uso del beneficio tributario establecido en la Ley N° 20.365, de 2009 modificada por la Ley N° 20.897, de 2016. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2024
-- Fecha: 2024-03-05
+- Fecha: 2024-02-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso29.pdf
 - Hash SHA-256: f467daf98695eff5e89afe21b9e7c7edde74052a7535219968170b07d1716ab3
 
 ## Resumen
 
-nes de San Miguel. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 30 del 05 de Marzo del 2024 Autoriza a KZEMOS CHILE SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa. Resolución Exenta SII N° 28 del 21 de Febrer…
+ute;n de Asistencia al Contribuyente. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

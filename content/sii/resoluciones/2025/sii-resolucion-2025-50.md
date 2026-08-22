@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2025
-- Fecha: 2025-04-25
+- Fecha: 2025-04-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso50.pdf
 - Hash SHA-256: 1025cafeb15d14efa4ed0067dbbd0d4ed3709900e6651b16ec3f2daf2c059a11
 
 ## Resumen
 
-tes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 51 del 25 de Abril del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualpén. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Ex…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualpén. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

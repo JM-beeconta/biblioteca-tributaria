@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2016
-- Fecha: 2016-08-05
+- Fecha: 2016-07-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso73.pdf
 - Hash SHA-256: c25711246376c0cbb51df654b92a25fdac1487aca849bab0e4bc3507e4f6dd4e
 
 ## Resumen
 
-solución Exenta SII N° 74 del 05 de Agosto del 2016 Establece forma y plazo en que las empresas, comunidades o sociedades deben certificar el valor de costo para fines tributarios, a la fecha de término de giro, de los bienes que se adjudiquen sus dueños, comuneros, socios o accionistas en la disolución o liquidación de aquellas. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Aprueba Código de Ética del SII Fuente: Subdirección de Contraloría Interna Resolución Exenta SII N° 72 del 20 de Ju…
+mplimiento Tributario Aprueba Código de Ética del SII Fuente: Subdirección de Contraloría Interna
 
 ## Referencias detectadas
 

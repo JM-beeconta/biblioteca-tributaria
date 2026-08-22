@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 66 del 18 de Julio del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 64 del 01 de Julio del 2014 Registra como emisores de docum…
+ia de Contribuyentes. Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

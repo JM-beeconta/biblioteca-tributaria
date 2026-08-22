@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lectrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 73 del 05 de Junio del 2026 Crea registro especial de instituciones de beneficencia vendedoras de bienes usados y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización. Fija funciones del gabinete del director Fuente: Dirección Nacional Resolución Exenta SII N° 71 del 04 de Junio del 2026 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contr…
+cción de Fiscalización. Fija funciones del gabinete del director Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

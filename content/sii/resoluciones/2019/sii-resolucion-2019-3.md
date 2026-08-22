@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2019
-- Fecha: 2019-01-16
+- Fecha: 2019-01-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso3.pdf
 - Hash SHA-256: 015bbffb8add86b79beb327f4c3ed1da0cf86cd4061fa493ab55241d8fb6c8e0
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 04 del 16 de Enero del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 03 del 14 de Enero del 2019 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluac…
+tégica y Estudios Tributarios Resolución Exenta SII N° 03 del 14 de Enero del 2019 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

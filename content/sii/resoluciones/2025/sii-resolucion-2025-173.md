@@ -11,7 +11,7 @@
 
 ## Resumen
 
-es y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 174 del 03 de Diciembre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de San Fernando. Fuente: Subdirección de Avaluaciones. Autoriza a empresa IKSO SPA. Rut 76.993.859-1 a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condi…
+Subdirección de Avaluaciones. Autoriza a empresa IKSO SPA. Rut 76.993.859-1 a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

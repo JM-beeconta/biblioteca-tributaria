@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2017
-- Fecha: 2017-09-25
+- Fecha: 2017-09-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso86.pdf
 - Hash SHA-256: 2d98c725b44484441095df954d26b51005fcf8519a0a1834bae98aa623e04c08
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Desarrollo de Personas Resolución Exenta SII N° 87 del 25 de Septiembre del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Elimina obligación de generación y envío del Libro Contable Electrónico de Compras y Ventas según Resolución EX. SII N° 150, del 2005. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 8…
+cia al Contribuyente Elimina obligación de generación y envío del Libro Contable Electrónico de Compras y Ventas según Resolución EX. SII N° 150, del 2005. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

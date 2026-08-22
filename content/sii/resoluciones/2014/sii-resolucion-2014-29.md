@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2014
-- Fecha: 2014-03-19
+- Fecha: 2014-03-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso29.pdf
 - Hash SHA-256: cdc83c8bce4c950b4efd56cf26c0403838316495b881cc8b37fcc97db9cf0e10
 
 ## Resumen
 
-e: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 30 del 19 de Marzo del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Subdirección de Fiscalización Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 28 del 11 de Marzo del 2014 Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya…
+Fiscalización Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

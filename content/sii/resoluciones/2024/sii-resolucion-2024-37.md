@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2024
-- Fecha: 2024-03-18
+- Fecha: 2024-03-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso37.pdf
 - Hash SHA-256: 643f275249d2289661ac28e196e2ba6e67f243417c7e6d6847651c01f0ef052a
 
 ## Resumen
 
-los artículos 60 quinquies del Código Tributario y 13 bis del D.L. N° 828 de 1974. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 38 del 18 de Marzo del 2024 Rectifica en el modo que indica listado anexo de la Resolución Exenta SII N° 8, de 2024. Fuente: Subdirección de Avaluaciones. Designa secretarios suplente y titular en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua. Fuente: S…
+Subdirección de Avaluaciones. Designa secretarios suplente y titular en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

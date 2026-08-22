@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e: Subdirección de Fiscalización Resolución Exenta SII N° 120 del 28 de Octubre del 2019 Fija nueva vigencia de resolución Ex. SII N° 113 de 2019, que revoca autorización de emisión en papel de documentos tributarios, que deben ser emitidos en formato electrónico, a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y el Ministerio del Medio Ambiente. Fuente: Subdirección de Gestión…
+ute;n de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y el Ministerio del Medio Ambiente. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

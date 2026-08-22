@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subsecretaría de Transporte y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 12 del 17 de Enero del 2024 Instrucciones de cumplimiento obligatorio para todas las Administradoras de Fondos de Pensiones. Fuente: Servicio de Impuestos Internos. Autoriza eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma, condiciones y respecto de contribuyentes que indica.…
+ente: Servicio de Impuestos Internos. Autoriza eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma, condiciones y respecto de contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

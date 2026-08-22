@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario Resolución Exenta SII N° 112 del 04 de Diciembre del 2014 Fija plazo para presentación de Declaraciones Juradas que se indican Fuente: Departamento de Sistemas de Fiscalización Establece Declaración Jurada y requiere antecedentes para acreditar el inicio del proceso de fusión en los términos del numeral XIX, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780 de 2014, sobre reforma tributaria. Fuente: Subdire…
+Fiscalización Establece Declaración Jurada y requiere antecedentes para acreditar el inicio del proceso de fusión en los términos del numeral XIX, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780 de 2014, sobre reforma tributaria. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

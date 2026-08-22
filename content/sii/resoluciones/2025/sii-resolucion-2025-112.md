@@ -11,7 +11,7 @@
 
 ## Resumen
 
-12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 113 del 26 de Agosto del 2025 Establece obligación de presentar anualmente información sobre activos digitales respecto de contribuyentes con residencia tributaria en el extranjero. Declaración jurada formulario N° 1963. Fuente: Subdirección de Fiscalización. Establece obligación de presentar anualmente información sobre fondos de inversión públicos, privados o fondos mutuos y saldos al cierre del ejercicio de sus partícipes…
+cción de Fiscalización. Establece obligación de presentar anualmente información sobre fondos de inversión públicos, privados o fondos mutuos y saldos al cierre del ejercicio de sus partícipes o aportantes. Declaración jurada formulario N° 1962. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

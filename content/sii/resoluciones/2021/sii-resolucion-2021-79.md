@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2021
-- Fecha: 2021-07-09
+- Fecha: 2021-07-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso79.pdf
 - Hash SHA-256: cc708bbc0fc4da418fa2666f1ad912f86a4c420dcc25b05c26c9964ccff66e93
 
 ## Resumen
 
-> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 80 del 09 de Julio del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre el Centro de Información de Recursos Naturales y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las Resoluciones Ex. SII N°s 62, 65 y 75 de 2021. Fuente: Subdirección de Fisc…
+tégica y Estudios Tributarios. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las Resoluciones Ex. SII N°s 62, 65 y 75 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-odalidad señalada. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 71 del 01 de Julio del 2021 Autoriza a Natura Cosméticos S.A para emitir boletas de prestación de servicios de terceros electrónicas en la forma que se indica. Fuente: Subdirección de Asistencia al Contribuyente. Exime a Forum Servicios Financieros S.A. de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de As…
+ute;n de Asistencia al Contribuyente. Exime a Forum Servicios Financieros S.A. de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

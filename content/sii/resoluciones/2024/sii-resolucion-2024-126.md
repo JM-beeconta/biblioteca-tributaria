@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2024
-- Fecha: 2024-12-23
+- Fecha: 2024-12-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso126.pdf
 - Hash SHA-256: c13c10c52794717eba7d5c54972153027b9712d5e669e0885d90d74767e8bc62
 
 ## Resumen
 
-2022. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 127 del 23 de Diciembre del 2024 Fija nómina de bienes afectos, según lo establecido en el Artículo 9 de la Ley N° 21.420, modificada por el Artículo 5° de la Ley N° 21.713. Fuente: Subdirección de Avaluaciones. Complementa lista anexa de la Resolución Exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 125 del 20 de Diciembre del 2024 Incorpórase a comisión nacional de riego, en la nómina de entidad…
+Subdirección de Avaluaciones. Complementa lista anexa de la Resolución Exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

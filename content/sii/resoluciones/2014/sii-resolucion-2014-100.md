@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2014
-- Fecha: 2014-10-30
+- Fecha: 2014-10-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso100.pdf
 - Hash SHA-256: 4893435567639aa881a58c36e878192aa0ccead283f491629597038bdf778a09
 
 ## Resumen
 
-el Cumplimiento Tributario Resolución Exenta SII N° 101 del 30 de Octubre del 2014 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contribuyentes Complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando resolutivo duodécimo de la resolución Ex. SII N° 45, del 01.09.2003. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución E…
+cia de Contribuyentes Complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando resolutivo duodécimo de la resolución Ex. SII N° 45, del 01.09.2003. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

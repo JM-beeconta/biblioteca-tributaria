@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2020
-- Fecha: 2020-01-10
+- Fecha: 2020-01-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso1.pdf
 - Hash SHA-256: 9898cd32fc12e7c3287d53f8ca61c27359d4c826a8bec920c6d5491810182537
 
 ## Resumen
 
-e valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 10 de Enero del 2020 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 02 de Enero del 2020 Delega facultades y asigna funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración function ir_anyo(){ var anyo =…
+: Subdirección de Avaluaciones Resolución Exenta SII N° 01 del 02 de Enero del 2020 Delega facultades y asigna funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2020'); } else{ $(location)…
 
 ## Referencias detectadas
 

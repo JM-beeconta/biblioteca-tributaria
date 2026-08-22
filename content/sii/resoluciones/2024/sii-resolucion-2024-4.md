@@ -11,7 +11,7 @@
 
 ## Resumen
 
-urales Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 05 del 10 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Valdivia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 04 del 10 de Enero del 2024 Exime del régimen general de operación de ventas de gas licuado de petróleo, establecido en resolución EX. SII N°1087 de 1978, a contribuyente que i…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 04 del 10 de Enero del 2024 Exime del régimen general de operación de ventas de gas licuado de petróleo, establecido en resolución EX. SII N°1087 de 1978, a contribuyente que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

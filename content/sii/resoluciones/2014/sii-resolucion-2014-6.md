@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2014
-- Fecha: 2014-01-16
+- Fecha: 2014-01-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso06.pdf
 - Hash SHA-256: f94c2303691f1ffa0906ad500d0bd6c22d4437282242727562c0ce857086e34e
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 07 del 16 de Enero del 2014 Autoriza a Comercializadora Toma Ticket limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 06 del 15 de Enero del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asiste…
+cia de Contribuyentes Resolución Exenta SII N° 06 del 15 de Enero del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

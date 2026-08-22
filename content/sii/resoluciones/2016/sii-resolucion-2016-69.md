@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ones/2016/reso70.pdf' target='_blank'>Resolución Exenta SII N° 70 del 11 de Julio del 2016 Modifica Resolución Ex. SII N° 50, del 27.05.2016, que autorizó a NALS Asesorías y Servicios Informáticos SPA para emitir boletas de servicios para el ingreso a espectáculos públicos por cuenta de terceros, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente Establece la forma en que se deberá presentar la consulta vinculante del artículo 26 bis del Código Tributario y los requisitos que ésta debe…
+ncia al Contribuyente Establece la forma en que se deberá presentar la consulta vinculante del artículo 26 bis del Código Tributario y los requisitos que ésta debe cumplir. Fuente: Oficina Análisis de Elusión
 
 ## Referencias detectadas
 

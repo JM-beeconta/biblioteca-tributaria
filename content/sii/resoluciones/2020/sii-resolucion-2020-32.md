@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2020
-- Fecha: 2020-03-24
+- Fecha: 2020-03-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso32.pdf
 - Hash SHA-256: eb67b0f7f917aaeb11a61e20ff9b67556e7b43506da3adc94b73d28868c5372c
 
 ## Resumen
 
-;culo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 33 del 24 de Marzo del 2020 Autoriza modalidad de timbraje de guías de despacho en formato papel en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 31 del 18 de Marzo del 2020 Aprueba Convenio de Colaboración entre Ba…
+ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2017
-- Fecha: 2017-02-08
+- Fecha: 2017-01-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso16.pdf
 - Hash SHA-256: 4fe144049d58eeb8f940c4d09fdc532792a8a39e036ccffa3b90620d16d4474d
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 17 del 08 de Febrero del 2017 Aprueba convenio de colaboración mutua entre el Servicio de Impuestos Internos y Tesorería General de la República. Fuente: Subdirección de Asistencia al Contribuyente Establece procedimiento a que deberán ajustarse los contribuyentes para acreditar el pago del tributo, cuando corresponda, ante los Ministros de Fe que se indican Fuente: Oficina de Apoyo Legal y Administrativo R…
+ncia al Contribuyente Establece procedimiento a que deberán ajustarse los contribuyentes para acreditar el pago del tributo, cuando corresponda, ante los Ministros de Fe que se indican Fuente: Oficina de Apoyo Legal y Administrativo
 
 ## Referencias detectadas
 

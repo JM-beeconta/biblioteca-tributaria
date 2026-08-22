@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2013
-- Fecha: 2013-01-17
+- Fecha: 2013-01-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso6.pdf
 - Hash SHA-256: 0dadb475b652b77819c68338e864020466d8b810ba21e70be10f5b82198b892c
 
 ## Resumen
 
-Resolución Exenta SII N° 07 del 17 de Enero del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónica a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes - Subdirección de Fiscalización. Resolución Exenta SII N° 06 del 14 de Enero del 2013 Modifica el título XIV, del Libro II, del compendio de normas del Sistema de Pensiones de la Superintendencia de Pensiones, la Resolución N° 9, de 2012, del Servicio de Impuestos Internos y de la Circula…
+Fiscalización. Resolución Exenta SII N° 06 del 14 de Enero del 2013 Modifica el título XIV, del Libro II, del compendio de normas del Sistema de Pensiones de la Superintendencia de Pensiones, la Resolución N° 9, de 2012, del Servicio de Impuestos Internos y de la Circular Normativa N° 2 de la Tesorería General de la República, que establece regulaciones comunes en relación al intercambio de información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la…
 
 ## Referencias detectadas
 

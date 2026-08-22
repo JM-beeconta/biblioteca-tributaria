@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2017
-- Fecha: 2017-12-28
+- Fecha: 2017-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso126.pdf
 - Hash SHA-256: c24a354465ee8c6cba17155508130e428ea8d6f0dae78e60ddbc69643b43e083
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 127 del 28 de Diciembre del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Autoriza a empresa INNTI Sociedad Anónima para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 125 del 21 de Diciembre…
+Fiscalización Autoriza a empresa INNTI Sociedad Anónima para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

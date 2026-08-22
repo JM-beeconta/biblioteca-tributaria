@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ecto resolución Ex. N° 12 de 2025. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 52 del 25 de Abril del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2024
-- Fecha: 2024-10-30
+- Fecha: 2024-10-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso104.pdf
 - Hash SHA-256: 9e408625132ab0749a9c2987f35e1babf61fee1fdc4a31abfe4adc4997024c51
 
 ## Resumen
 
-Resolución Exenta SII N° 105 del 30 de Octubre del 2024 Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre impuesto a las ventas y servicios, por parte de contribuyentes sin domicilio ni residencia en Chile que presten servicios afectos a IVA. Fuente: Subdirección de Fiscalización. Establece forma de acogerse a solicitud de término anticipado de gestiones judiciales pendientes conforme al artículo duodécimo transitorio de la Ley 21.713. Fuen…
+cción de Fiscalización. Establece forma de acogerse a solicitud de término anticipado de gestiones judiciales pendientes conforme al artículo duodécimo transitorio de la Ley 21.713. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

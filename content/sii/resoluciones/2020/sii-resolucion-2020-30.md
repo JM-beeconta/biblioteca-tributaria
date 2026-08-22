@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 31 del 18 de Marzo del 2020 Aprueba Convenio de Colaboración entre Banco Central de Chile y el Servicio de Impuestos Internos para el Cruce de Bases de Datos para fines de Investigación Aplicada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Amplía el plazo para presentar la Declaración Jurada Anual sobre rentas del art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuest…
+atégica y Estudios Tributarios Amplía el plazo para presentar la Declaración Jurada Anual sobre rentas del art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la Ley de la Renta, formulario N°1887 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

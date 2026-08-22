@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Direccion de Grandes Contribuyentes Resolución Exenta SII N° 142 del 26 de Diciembre del 2019 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Dispone cambio de sujeto de derecho del IVA en las ventas de ganado vivo. Deja sin efecto resolución Exenta N° 3.721, de 28 de julio de 2000. Fuente: Subdire…
+cción de Fiscalización Dispone cambio de sujeto de derecho del IVA en las ventas de ganado vivo. Deja sin efecto resolución Exenta N° 3.721, de 28 de julio de 2000. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

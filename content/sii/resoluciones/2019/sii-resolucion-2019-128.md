@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 128
 - Año: 2019
-- Fecha: 2019-11-20
+- Fecha: 2019-11-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso128.pdf
 - Hash SHA-256: 91a35a44bdc4988de4d5a32d4dfaf968d12486ed97184f1079a1dc0fcf2975f6
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 129 del 20 de Noviembre del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exe…
+tégica y Estudios Tributarios Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

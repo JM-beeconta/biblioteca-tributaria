@@ -11,7 +11,7 @@
 
 ## Resumen
 
-orial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispuesto en los numerales 4), 5) y 6) del N° 1 del Decreto Supremo N° 71, de 2024, del Ministerio de Hacienda, que establece medidas de índole tributaria para las comunas afectadas por los incendios en las provincias de Marga Marga y Valparaíso, en la región de Valparaíso, declaradas como zonas afectadas por catástrofe mediante Decreto Supremo. Fuente: Subdirección de Avaluaciones. Autoriza a emitir una ún…
+Subdirección de Avaluaciones. Autoriza a emitir una única boleta electrónica de ventas y servicios diaria en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

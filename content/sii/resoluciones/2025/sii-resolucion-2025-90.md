@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2025
-- Fecha: 2025-07-25
+- Fecha: 2025-07-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso90.pdf
 - Hash SHA-256: 8c5c7b83b68e5b9498ca815428ecf255bb2a19017e67805e463148ed31cb68ae
 
 ## Resumen
 
-rceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 91 del 25 de Julio del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a CONECTADOS SPA, Rut N° 76.832.409-3, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII…
+ute;n de Asistencia al Contribuyente. Autoriza a CONECTADOS SPA, Rut N° 76.832.409-3, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

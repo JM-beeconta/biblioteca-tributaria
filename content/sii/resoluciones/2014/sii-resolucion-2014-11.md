@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 11
 - Año: 2014
-- Fecha: 2014-01-31
+- Fecha: 2014-01-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso11.pdf
 - Hash SHA-256: 0561a861d6b621432a8b3a799208e477473a5d8b2c99d3bf6318a3424a89baea
 
 ## Resumen
 
-Resolución Exenta SII N° 12 del 31 de Enero del 2014 Fija valores de montos de avalúo exento y de avalúo para cambio de tasa del impuesto territorial, para predios no agrícolas reavaluados con vigencia 1° de enero de 2014 Fuente: Subdirección Avaluaciones Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas y deroga Resolución Exenta N°4.845 de 1995. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 10 del 23 de Enero del 2014 Autoriza timbraje de documentos a…
+oacute;n Avaluaciones Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas y deroga Resolución Exenta N°4.845 de 1995. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

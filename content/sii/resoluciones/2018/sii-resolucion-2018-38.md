@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2018
-- Fecha: 2018-04-13
+- Fecha: 2018-04-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso38.pdf
 - Hash SHA-256: 53d060b419fc684b07165bb2adb3f1b517746d4a3ed3bdb5f9970962c4a79751
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 39 del 13 de Abril del 2018 Modifica Resolución Ex. SII N° 91, de 20 de septiembre de 2016 que reorganiza las unidades que conforman el Departamento Subdirección Normativa deja sin efecto Resolución Ex. SII N° 137, de 29 de octubre de 2008. Fuente: Subdirección Normativa Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y Servicio de Impuestos Internos. Fuente: Subdirección de G…
+uente: Subdirección Normativa Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

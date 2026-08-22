@@ -11,7 +11,7 @@
 
 ## Resumen
 
-inisterio de Hacienda. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 21 del 10 de Febrero del 2017 Establece procedimiento para el pago del Impuesto a las donaciones efectuadas en dinero. Fuente: Subdirección de Fiscalización Deroga resoluciones N°92 Y N°116, ambas del año 2004, que establecen la obligación de presentar las Declaraciones Juradas formularios N°1830 y N°1831, respectivamente. Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 19 del 10 de Febrero del 2017 De…
+Fiscalización Deroga resoluciones N°92 Y N°116, ambas del año 2004, que establecen la obligación de presentar las Declaraciones Juradas formularios N°1830 y N°1831, respectivamente. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

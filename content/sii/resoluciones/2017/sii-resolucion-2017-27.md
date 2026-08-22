@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece procedimiento en que las Administradoras de Fondos de Inversión y Fondos Mutuos deberán obtener un número de Rol Único Tributario y mantener la información actualizada para cada uno de los fondos que administren, de acuerdo al artículo 81, contenido en el artículo 1° de la Ley N° 20.712, modificado por las Leyes N° 20.780 y N° 20.899. Fuente: Subdirección de Asistencia al Contribuyente Delega facultad que indica. Fuente: Subdirección de Administración Resolución Exenta SII N° 26 del 03 de Marzo del 2017…
+ncia al Contribuyente Delega facultad que indica. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

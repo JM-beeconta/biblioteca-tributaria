@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 92 del 30 de Julio del 2021 Autoriza a ENEX S.A Para Operar De Acuerdo a Lo Dispuesto En Resolucion EX.SII N°172 2010 Fuente: Subdirección de Fiscalización. Envío de información que deben entregar las municipalidades para los fines de la Ley N° 21.354. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 30 de Julio del 2021 Fija requisitos…
+cción de Fiscalización. Envío de información que deben entregar las municipalidades para los fines de la Ley N° 21.354. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

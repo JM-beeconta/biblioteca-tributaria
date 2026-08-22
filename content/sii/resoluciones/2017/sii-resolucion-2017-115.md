@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 115
 - Año: 2017
-- Fecha: 2017-12-01
+- Fecha: 2017-11-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso115.pdf
 - Hash SHA-256: 51c8c8b9b7f9d14a92bea6632a64cb66996c6b70fe4b8bd6f0fb666db7c1e693
 
 ## Resumen
 
-> Resolución Exenta SII N° 116 del 01 de Diciembre del 2017 Fija nuevo plazo para presentar las Declaraciones Juradas sobre balance de 8 columnas y otros antecedentes; y sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formularios N°s 1847 y 1926 respectivamente. Fuente: Subdirección de Fiscalización Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a empresas organizadoras o productoras de espectáculos públicos para emitir por medio de mandatarios, las boletas de…
+Fiscalización Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a empresas organizadoras o productoras de espectáculos públicos para emitir por medio de mandatarios, las boletas de servicios correspondientes a las ventas de entradas para el ingreso a espectáculos públicos y reuniones pagadas, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

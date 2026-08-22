@@ -11,7 +11,7 @@
 
 ## Resumen
 
-encia de Contribuyentes Resolución Exenta SII N° 05 del 10 de Enero del 2014 Establece obligación de presentar Declaraciones Juradas semestrales que indica. Deroga Resolución Exenta SII N°117 del 03 de octubre del 2011 Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta SII N° 04 del 10 de Enero del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 03 del 10 de Enero del 2014 Modifica ter…
+as y Grandes Empresas Resolución Exenta SII N° 04 del 10 de Enero del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

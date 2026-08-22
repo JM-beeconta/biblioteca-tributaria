@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 39 del 27 de Marzo del 2025 Actualiza nómina de bienes afectos contenida en la Resolución Ex. N° 127 de 2024, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Fija forma de solicitar ejercicio de la facultad contenida en el inciso quinto del artículo 20 de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 37 del…
+Subdirección de Avaluaciones. Fija forma de solicitar ejercicio de la facultad contenida en el inciso quinto del artículo 20 de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 74
 - Año: 2014
-- Fecha: 2014-08-11
+- Fecha: 2014-08-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso74.pdf
 - Hash SHA-256: 00112481a823b3c764b14e7a15e89ffe7176c624c36ebb88d8a6ad331c896791
 
 ## Resumen
 
-;n y Asistencia de Contribuyentes Resolución Exenta SII N° 75 del 11 de Agosto del 2014 Autoriza impresora fiscal marca SAM4S, modelo ELLIX40S, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 73 del 04 de Agosto del 2014 Aprueba Proto…
+cia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

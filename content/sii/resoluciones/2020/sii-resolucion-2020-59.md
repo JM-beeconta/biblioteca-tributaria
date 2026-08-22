@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2020
-- Fecha: 2020-06-09
+- Fecha: 2020-06-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso59.pdf
 - Hash SHA-256: 3a270d9277c7c9acfcbc33a44a5249cd4f8922a9150820ad2610b24c148df99e
 
 ## Resumen
 
-ial del virus denominado Coronavirus-2 o COVID-19. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 60 del 09 de Junio del 2020 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias. Fuente: Subdirección Normativa. Resolución Exenta SII N° 58 del 29 de Mayo del 2020 Registro de accionistas que…
+ute;n de Asistencia al Contribuyente. Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

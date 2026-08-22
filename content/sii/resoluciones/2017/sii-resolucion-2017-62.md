@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 63 del 14 de Julio del 2017 Delega facultad de celebrar acuerdos de colaboración tributaria en Directores Regionales y en el Director de Grandes Contribuyentes. Fuente: Subdirección de Fiscalización Aprueba Acuerdo sobre Intercambio de Información entre Servicio Nacional De Aduanas y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 61…
+Fiscalización Aprueba Acuerdo sobre Intercambio de Información entre Servicio Nacional De Aduanas y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

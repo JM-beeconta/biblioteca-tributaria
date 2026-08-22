@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2024
-- Fecha: 2024-01-17
+- Fecha: 2024-01-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso09.pdf
 - Hash SHA-256: 03ffbf14348a856eb18b9cf85cea61ddc2f441ecf2849b2caf84f232373cdf28
 
 ## Resumen
 
-a. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 10 del 17 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Los Muermos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 09 del 10 de Enero del 2024 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirecció…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 09 del 10 de Enero del 2024 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

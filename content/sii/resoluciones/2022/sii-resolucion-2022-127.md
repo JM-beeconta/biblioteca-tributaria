@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 127
 - Año: 2022
-- Fecha: 2022-12-29
+- Fecha: 2022-12-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso127.pdf
 - Hash SHA-256: 67ab8c7abb2ef3c1d8c63ec17b089b671a67c07b752a78095b94f790f6cb1c6d
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 128 del 29 de Diciembre del 2022 Establece forma de declaración y pago de los impuestos establecidos en el decreto Ley Nº 3475 de 1980 sobre impuesto de timbres y estampillas. Deja sin efecto resolución exenta Nº 2824 de 1994. Fuente: Subdirección de Fiscalización. Regula obligación de presentar declaración anual sobre operaciones en el exterior por medio de formulario N° 1929; deja sin efecto resoluciones exentas SII Nº1…
+cción de Fiscalización. Regula obligación de presentar declaración anual sobre operaciones en el exterior por medio de formulario N° 1929; deja sin efecto resoluciones exentas SII Nº120 de 2016, N°105 de 2017, N°87 de 2018, N°109 de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

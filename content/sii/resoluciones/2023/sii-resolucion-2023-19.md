@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2023
-- Fecha: 2023-02-23
+- Fecha: 2023-02-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso19.pdf
 - Hash SHA-256: 09fc2d57f4ec6111178864f92c1954a27b57438134bddbdcf9e6a61fef3a0a37
 
 ## Resumen
 
-ndica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 20 del 23 de Febrero del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Macul. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Rectifica en el modo que indica lista anexa de la Res. Ex. N°4, de 2023, complementada por la Res. Ex. N° 12, del 2023. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 18 del 22 de Febrer…
+tégica y Estudios Tributarios. Rectifica en el modo que indica lista anexa de la Res. Ex. N°4, de 2023, complementada por la Res. Ex. N° 12, del 2023. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

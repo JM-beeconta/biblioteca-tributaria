@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2015
-- Fecha: 2015-11-24
+- Fecha: 2015-11-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso92.pdf
 - Hash SHA-256: a6fff0e487b200c81bf72850046852d397cca160b16d9c7ed3b2b592362e731c
 
 ## Resumen
 
-Resolución Exenta SII N° 93 del 24 de Noviembre del 2015 Autoriza a empresa Ticketplus SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a empresa Fullticket SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyente Resol…
+cia de Contribuyentes Autoriza a empresa Fullticket SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyente
 
 ## Referencias detectadas
 

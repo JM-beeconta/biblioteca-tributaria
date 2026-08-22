@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 80 del 28 de Junio del 2019 Deja sin efecto Res. Ex SII N° 52, de 30.04.2019. Establece procedimiento de identificación como contribuyente catalogado como exportador de servicios prestados y utilizados totalmente en el extranjero Fuente: Subdirección de Fiscalización Exime a instituciones sin fines de lucro que señala, que utilicen la aplicación dispuesta por la Subsecretaría de Evaluación Social, de timbrar certificados…
+cción de Fiscalización Exime a instituciones sin fines de lucro que señala, que utilicen la aplicación dispuesta por la Subsecretaría de Evaluación Social, de timbrar certificados por donaciones a que se refiere la letra b) del artículo 157 TER del código del trabajo y su reglamento, contenido en el D.S. N° 64 del año 2018, del Ministerio del Trabajo y Previsión Social sobre inclusión laboral de personas con discapacidad y fija condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

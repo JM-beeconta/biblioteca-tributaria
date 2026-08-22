@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2014
-- Fecha: 2014-06-03
+- Fecha: 2014-06-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso54.pdf
 - Hash SHA-256: 0c9b8ec26087fbfb15f45814b36c5d015cbf6b5ee38561235cf7d51ff264f7a2
 
 ## Resumen
 
-Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 55 del 03 de Junio del 2014 Autoriza como emisor de boletas electrónicas a contribuyentes que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 53 del 30 de Mayo del 2014 Establece forma y plazo de aceptación de propuesta de rebaja del impues…
+cia de Contribuyentes Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2020
-- Fecha: 2020-06-30
+- Fecha: 2020-06-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso68.pdf
 - Hash SHA-256: ed8761e549a81a94e08f0b402d77f62a936bb6b5b87fd633b806dbce0c140b7f
 
 ## Resumen
 
-ibutarios autorizados en formato papel que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 69 del 30 de Junio del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Dicta normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 10 del Decreto Supremo 420 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Ava…
+ute;n de Asistencia al Contribuyente. Dicta normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 10 del Decreto Supremo 420 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

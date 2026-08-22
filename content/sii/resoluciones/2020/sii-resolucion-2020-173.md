@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 174 del 30 de Diciembre del 2020 Aprueba normas de procedimiento para las solicitudes de aprobación de proyectos de investigación y desarrollo, en el marco del número 3 de la letra c.- del Artículo 41 g, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Aprueba normas de procedimiento para la certificación de acuerdos que se celebren para el financiamiento mediante la participación en pymes, en el marco del régime…
+cción de Fiscalización. Aprueba normas de procedimiento para la certificación de acuerdos que se celebren para el financiamiento mediante la participación en pymes, en el marco del régimen pro pyme establecido en la letra d del Artículo 14, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

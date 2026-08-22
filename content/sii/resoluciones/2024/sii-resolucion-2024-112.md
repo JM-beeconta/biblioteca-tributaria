@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2024
-- Fecha: 2024-12-05
+- Fecha: 2024-11-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso112.pdf
 - Hash SHA-256: 138682b0d6fd7300076e3d4eff42a4ee3f23093e22b2a0f8103b3807a3a3b4ba
 
 ## Resumen
 
-ción de la 59&ordf; Asamblea General del CIAT. Fuente: Subdirección Normativa Resolución Exenta SII N° 113 del 05 de Diciembre del 2024 Término de giro simplificado, según lo dispuesto en el inciso octavo del artículo 69° del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y el Instituto Profesional de Chile. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 111 del 28 de Noviembre del 2024 Mod…
+ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y el Instituto Profesional de Chile. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

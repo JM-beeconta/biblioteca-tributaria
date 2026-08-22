@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 208
 - Año: 2025
-- Fecha: 2025-12-31
+- Fecha: 2025-12-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso208.pdf
 - Hash SHA-256: 14882c053b5655dc94d869e48467ddbf0c6a94af1c72331d623a1669848f64b9
 
 ## Resumen
 
-='ANTERIORES'>Años Anteriores Resolución Exenta SII N° 209 del 31 de Diciembre del 2025 Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Fija nómina de grandes contribuyentes Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 207 del 30 de Diciembre del 2025 Elimina obligación de incorporar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y serv…
+Subdirección de Avaluaciones. Fija nómina de grandes contribuyentes Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

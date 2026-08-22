@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ision Administradora del Sistema De Creditos P. Estudios Superiores Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 18 del 20 de Febrero del 2018 Complementa Resolución Exenta SII N°129 de 29 de diciembre de 2017, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 16 del 14 de Febrero del…
+ión de Grandes Contribuyentes Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

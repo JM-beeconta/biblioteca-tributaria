@@ -11,7 +11,7 @@
 
 ## Resumen
 
-f' target='_blank'>Resolución Exenta SII N° 195 del 23 de Diciembre del 2025 Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Fija nómina de bienes afectos, según lo establecido en el artículo 9 de la…
+ute;n de Asistencia al Contribuyente. Fija nómina de bienes afectos, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

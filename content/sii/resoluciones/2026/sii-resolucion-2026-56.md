@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2026
-- Fecha: 2026-04-15
+- Fecha: 2026-04-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso56.pdf
 - Hash SHA-256: a313e9ee15c625e818e5bfdc8942150cd1b65494af4afaea6883c5ab3764ad7f
 
 ## Resumen
 
-deg;21.751, y habilita plataforma al efecto. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 57 del 15 de Abril del 2026 Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 55 del 13 de Abril del 2026 Delega facultad que indica en el funcionario que se indi…
+cción de Fiscalización. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

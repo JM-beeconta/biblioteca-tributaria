@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2025
-- Fecha: 2025-07-10
+- Fecha: 2025-07-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso83.pdf
 - Hash SHA-256: 1b31b14dd6ec5346bf1a1b7fead870deca67dc391f01c2f0979a53b3938fea4c
 
 ## Resumen
 
-utario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 84 del 10 de Julio del 2025 Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 82 del 03 de Julio del 2025 Ap…
+cción de Fiscalización. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

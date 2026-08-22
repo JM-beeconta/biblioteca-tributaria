@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2022
-- Fecha: 2022-08-02
+- Fecha: 2022-07-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso64.pdf
 - Hash SHA-256: 133c06a9b6ba287a052629973c0290a98e5d4fb1a4c1fbedbe3a1c14a7e16d74
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 65 del 02 de Agosto del 2022 Fija requisitos de llenado para las facturas, notas de crédito y notas de débito utilizadas en la venta de cigarrillos, emitidas por contribuyentes obligados al cambio de sujeto a productos de tabaco. Fuente: Subdirección de Fiscalización. Incorpora nuevos códigos al formulario 29 de declaración mensual y pago simultáneo de impuestos para declarar y enterar en arcas fiscales el IVA ret…
+cción de Fiscalización. Incorpora nuevos códigos al formulario 29 de declaración mensual y pago simultáneo de impuestos para declarar y enterar en arcas fiscales el IVA retenido por el cambio de sujeto dispuesto en el inciso séptimo del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

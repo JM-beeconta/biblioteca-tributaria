@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eg; 55 del 17 de Junio del 2016 Modifica Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes emisores electrónicos, modificada por Resolucion Ex. SII N° 102, de fecha 04.11.2014. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que estable…
+mplimiento Tributario Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de importaciones de mercancías entre partes relacionadas. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2014
-- Fecha: 2014-12-11
+- Fecha: 2014-12-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso114.pdf
 - Hash SHA-256: a47e8f83456cf30d7fdebd8ecd51dbe35d66ca57fc055a0234a9f737bc0d2479
 
 ## Resumen
 
-10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 115 del 11 de Diciembre del 2014 Complementa Resolución Exenta SII N° 109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Rechaza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario Resolución Exenta SII N° 113 del 05 de Diciembre del 2014 Autoriza a la institución sin fines de…
+randes Contribuyentes Rechaza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo al Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2022
-- Fecha: 2022-03-24
+- Fecha: 2022-03-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso28.pdf
 - Hash SHA-256: e66e911254dc28050a582904fead9d034603a0c23abe0b91461288423188df95
 
 ## Resumen
 
-;stamo tasa cero (o préstamo solidario del estado). Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 29 del 24 de Marzo del 2022 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría del Interior y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exent…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría del Interior y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

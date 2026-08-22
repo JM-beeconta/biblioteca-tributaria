@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la Ilustre Municipalidad de Talagante. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 133 del 06 de Octubre del 2025 Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Rectifica listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 131 del 02 de Octubre del 2025 Aprueba Addendum al Convenio de Intercambio…
+ute;n de Asistencia al Contribuyente. Rectifica listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

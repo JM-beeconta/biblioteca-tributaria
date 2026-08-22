@@ -11,7 +11,7 @@
 
 ## Resumen
 
-individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 147 del 20 de Octubre del 2025 Autoriza a ticketera BMB SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a las entidades que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 145 del 16 de…
+ute;n de Asistencia al Contribuyente. Autoriza a las entidades que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

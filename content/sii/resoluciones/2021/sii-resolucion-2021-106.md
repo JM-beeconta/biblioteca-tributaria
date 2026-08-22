@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 106
 - Año: 2021
-- Fecha: 2021-09-06
+- Fecha: 2021-09-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso106.pdf
 - Hash SHA-256: 54e50aa62f0c9c8fdd7236ed22b8b54e4b53193fc328f52d11d50d6a1f9ee7bc
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 107 del 06 de Septiembre del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre Instituto de Desarrollo Agropecuario y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reorganiza las unidades que conforman El departamento subdirección de Fiscalización y ámbito de competencia de Sus unidades. Fuente: Subdirección de Fiscalización. Resolu…
+tégica y Estudios Tributarios. Reorganiza las unidades que conforman El departamento subdirección de Fiscalización y ámbito de competencia de Sus unidades. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

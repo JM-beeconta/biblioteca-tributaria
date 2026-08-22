@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 145
 - Año: 2020
-- Fecha: 2020-11-27
+- Fecha: 2020-11-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso145.pdf
 - Hash SHA-256: 6b46ac5109f68f89ec5e19c6f17a7c0ed77a272415a6b5361451a9f9a51b60ca
 
 ## Resumen
 
-extranjera&rdquo; en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 146 del 27 de Noviembre del 2020 Delega facultades y asigna funciones, en las jefaturas y materias que indica. Deja sin efecto Resolución Exenta N° 1 de 2020. Fuente: Subdirección de Administración. Amplía plazo para restituir aporte fiscal del Art. 4° del Art. Primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación del COVID-19. Fuente: Subdi…
+ción de Administración. Amplía plazo para restituir aporte fiscal del Art. 4° del Art. Primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación del COVID-19. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

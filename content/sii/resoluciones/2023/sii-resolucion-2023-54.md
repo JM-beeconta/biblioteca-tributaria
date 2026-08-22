@@ -11,7 +11,7 @@
 
 ## Resumen
 
-elaciones de Santiago. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 55 del 04 de Mayo del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Monte Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Chileno Británico de Cultura. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 5…
+tégica y Estudios Tributarios. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Chileno Británico de Cultura. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

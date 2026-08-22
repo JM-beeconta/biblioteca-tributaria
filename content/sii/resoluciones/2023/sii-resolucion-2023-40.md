@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 41 del 31 de Marzo del 2023 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece procedimiento especial para solicitar rebaja de las contribuciones de predios ocupados, ubicados en zonas declaradas en estado de excepción constitucional de e…
+tégica y Estudios Tributarios. Establece procedimiento especial para solicitar rebaja de las contribuciones de predios ocupados, ubicados en zonas declaradas en estado de excepción constitucional de emergencia que indica. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

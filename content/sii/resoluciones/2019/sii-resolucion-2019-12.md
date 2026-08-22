@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i>Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 13 del 30 de Enero del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Insolvencia y Reemprendimiento y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza al Conservador de Bienes raíces de Puente Alto, Sr. SERGIO RODRIGO YABER LOZANO, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: S…
+tégica y Estudios Tributarios Autoriza al Conservador de Bienes raíces de Puente Alto, Sr. SERGIO RODRIGO YABER LOZANO, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

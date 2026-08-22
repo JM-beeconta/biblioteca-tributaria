@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 36
 - Año: 2017
-- Fecha: 2017-03-28
+- Fecha: 2017-03-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso36.pdf
 - Hash SHA-256: 6d3243d75693fca839918e1f71e0aaa3582e4f9ff46ce6bc8d84ccff0b03ef06
 
 ## Resumen
 
-la Renta y no puedan constituir su contabilidad completa. Fuente: Departamento de Análisis Masivo Resolución Exenta SII N° 37 del 28 de Marzo del 2017 Delega facultades que indica en el funcionario que se individualiza. Fuente: Departamento Defensa Judicial Civil. Complementa Resolución Exenta SII N° 128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 35 del 23 de Marzo del 2017 Complementa resolución Exenta SII N° 101 de 08.08.2011 modif…
+fensa Judicial Civil. Complementa Resolución Exenta SII N° 128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

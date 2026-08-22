@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 137 del 20 de Diciembre del 2018 Autoriza a la sociedad NATURA COSMÉTICOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la sociedad ABARROTES ECONOMICOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y…
+ute;n de Asistencia al Contribuyente Autoriza a la sociedad ABARROTES ECONOMICOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

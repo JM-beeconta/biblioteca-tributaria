@@ -11,7 +11,7 @@
 
 ## Resumen
 
-úblico que se indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 89 del 26 de Junio del 2026 Actualiza nómina de bienes afectos de la Res. Ex. N°194 año 2025, según lo establecido en el artículo 9° de la ley N° 21.420. Fuente: Subdirección de Avaluaciones. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para el semestre que se indica Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 87 del 26 de Junio del 2026 Modifíc…
+Subdirección de Avaluaciones. Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para el semestre que se indica Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

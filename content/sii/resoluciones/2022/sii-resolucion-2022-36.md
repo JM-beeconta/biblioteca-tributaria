@@ -11,7 +11,7 @@
 
 ## Resumen
 
-egunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Talca. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 37 del 22 de Abril del 2022 Otorga condonación sobre multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 35 del 21 de Abril del 2022 Desi…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

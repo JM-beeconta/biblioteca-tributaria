@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2014
-- Fecha: 2014-11-10
+- Fecha: 2014-11-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso103.pdf
 - Hash SHA-256: 878008d36fe542472589ce9181ae6dff7761c0b17f55b6aca4818ac6572b063a
 
 ## Resumen
 
-asistencia de contribuyentes Resolución Exenta SII N° 104 del 10 de Noviembre del 2014 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamanto de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 102 del 04 de Noviembre del 2014 Modifica resolu…
+mplimiento Tributario Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamanto de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

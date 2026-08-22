@@ -11,7 +11,7 @@
 
 ## Resumen
 
-argin-top:0px;margin-bottom:0px;'>Fija coeficientes de ajuste para la tasación de obras civiles de hormigón armado. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 66 del 27 de Mayo del 2019 Delega facultades que indica, relativas al pago de viáticos. Fuente: Subdirección de Administración Autoriza a la SOCIEDAD ENTEL PCS TELECOMUNICACIONES S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección…
+ción de Administración Autoriza a la SOCIEDAD ENTEL PCS TELECOMUNICACIONES S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 156
 - Año: 2020
-- Fecha: 2020-12-15
+- Fecha: 2020-12-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso156.pdf
 - Hash SHA-256: 9dcb39657044e7d1ea1d54e308cad4db11352ee0164626b1ce26ddca9115d8b9
 
 ## Resumen
 
-in-bottom:0px;'> Resolución Exenta SII N° 157 del 15 de Diciembre del 2020 Imparte reglas especiales para determinación y puesta a disposición de los pagos provisionales mensuales que deberán efectuar las empresas acogidas al régimen pro pyme del Artículo 14 letra d) N°3 letra k) y N° 8 letra a) numeral viii, ambos de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Pesca y Acuicultura y el Servicio…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Pesca y Acuicultura y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

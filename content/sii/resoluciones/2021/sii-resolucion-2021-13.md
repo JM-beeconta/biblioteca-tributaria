@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de ingresos y egresos y el libro de caja, que se exige llevar a los contribuyentes acogidos al régimen de transparencia tributaria del artículo 14 letra d) N°8, pro pyme transparente, y a los contribuyentes del régimen pro pyme en base a retiros o distribuciones, del artículo 14 letra d) N°3, que decidan acogerse a contabilidad simplificada, ambos de la Ley sobre Impuesto a la Renta. Deja sin efecto resolución Ex. SII N° 129, de fecha 31.12.2014. Fuente: Subdirección de Fiscalización. Establece normas y procedimie…
+cción de Fiscalización. Establece normas y procedimientos de operación de los libros adicionales o auxiliares electrónicos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

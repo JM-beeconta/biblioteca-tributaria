@@ -11,7 +11,7 @@
 
 ## Resumen
 
-estos Internos y la Facultad de Economía y Negocios de la Universidad de Chile. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 117 del 04 de Octubre del 2023 Dispone la ejecución de acciones de tratamiento en las direcciones regionales que se indican. Fuente: Subdirección de Fiscalización. Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2024. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 115 del 04 de Octubre del 2023 Declara…
+cción de Fiscalización. Fija plazo para la presentación de declaraciones juradas que se indican, para el año tributario 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

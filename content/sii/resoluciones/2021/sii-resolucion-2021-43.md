@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2021
-- Fecha: 2021-04-27
+- Fecha: 2021-04-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso43.pdf
 - Hash SHA-256: 31436f380f38e5044d03a292f3831468f8778a56c5821416ed3d025aa83d148d
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 44 del 27 de Abril del 2021 Aprueba Addendum al Convenio de Colaboración entre la Dirección del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asi…
+tégica y Estudios Tributarios. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

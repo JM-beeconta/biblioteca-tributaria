@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2013
-- Fecha: 2013-02-06
+- Fecha: 2013-01-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso15.pdf
 - Hash SHA-256: 22be8a3d2abed7bff286e5093ca8723173460ce3c054b2cc0e193dba7f8b9fdb
 
 ## Resumen
 
-ianas y Grandes Empresas. Resolución Exenta SII N° 16 del 06 de Febrero del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 14 del 31 de Enero del 2013 Establece Obligación de present…
+a de Contribuyentes. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

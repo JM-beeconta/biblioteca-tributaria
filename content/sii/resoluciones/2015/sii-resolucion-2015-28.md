@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2015
-- Fecha: 2015-03-19
+- Fecha: 2015-03-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso28.pdf
 - Hash SHA-256: fb69a0334ad8fda5e54d7dc15c5b1306a80292621e8664b555da9fe03229dd01
 
 ## Resumen
 
-ización Resolución Exenta SII N° 29 del 19 de Marzo del 2015 Autoriza a Director Regional de la XVI Dirección Regional Metropolitana, Santiago Sur, para delegar en Jefe de Unidad de La Florida facultades que indica Fuente: Departamento de Asesoría Jurídica Modifica territorios jurisdiccionales de la XV y XVI Direcciones Regionales Metropolitanas Santiago Oriente y Sur y cambia dependencias de Unidad La Florida Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 27 del 17 de Marzo del 2015 Autoriza a ins…
+ute;a Jurídica Modifica territorios jurisdiccionales de la XV y XVI Direcciones Regionales Metropolitanas Santiago Oriente y Sur y cambia dependencias de Unidad La Florida Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

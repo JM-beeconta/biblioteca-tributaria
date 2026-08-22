@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2022
-- Fecha: 2022-11-17
+- Fecha: 2022-11-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso105.pdf
 - Hash SHA-256: 894b353705fa9a08c08382d93d8034bf7675cdc3c2a5df846960684968cb9b48
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 106 del 17 de Noviembre del 2022 Fija criterios generales para aceptar las bases de acuerdo para conciliar y avenir, conforme con lo dispuesto en los artículos 132, 132 BIS y 132 TER del Código Tributario. Fuente: Subdirección Jurídica. Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributa…
+Subdirección Jurídica. Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

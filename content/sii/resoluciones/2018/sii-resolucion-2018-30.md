@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2018
-- Fecha: 2018-03-19
+- Fecha: 2018-03-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso30.pdf
 - Hash SHA-256: ce296f94a1ab624c4bbab37bfe3fb3308b07c8ef70d4422334bc5553fae1d08e
 
 ## Resumen
 
-las multas infraccionales en los casos que se señalan. Fuente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 31 del 19 de Marzo del 2018 Reestructura Departamento Subdirección de Asistencia al Contribuyente. Modifica Res. Ex N° 98, de 2014. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolu…
+ute;n de Asistencia al Contribuyente Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

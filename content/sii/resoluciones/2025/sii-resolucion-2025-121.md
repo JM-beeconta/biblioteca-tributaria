@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 121
 - Año: 2025
-- Fecha: 2025-09-23
+- Fecha: 2025-09-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso121.pdf
 - Hash SHA-256: d9f1ab5ee744e6f03bb77b83ed4d1664f6c3502af110dd789ce69f81cf73feb9
 
 ## Resumen
 
-e se indican, para el año tributario 2026. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 122 del 23 de Septiembre del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Actualiza la nómina de bienes afectos de la Res. Ex. N°127 año 2024, según lo establecido en el artículo 9 de la ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 120 del 16 de Septiembre d…
+ute;n de Asistencia al Contribuyente. Actualiza la nómina de bienes afectos de la Res. Ex. N°127 año 2024, según lo establecido en el artículo 9 de la ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

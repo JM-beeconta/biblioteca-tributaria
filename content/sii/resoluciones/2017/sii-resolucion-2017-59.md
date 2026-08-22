@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2017
-- Fecha: 2017-07-12
+- Fecha: 2017-07-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso59.pdf
 - Hash SHA-256: 08d7784ef83e8ad6d1dd06dc706170e1e6e68ea7e629598921dd6ded5bfc1f0e
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 60 del 12 de Julio del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Exenta SII N°56 de 09.06.2014 que autoriza a contribuyente que se indica para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Subdirección de Asistencia al Contr…
+ncia al Contribuyente Complementa Resolución Exenta SII N°56 de 09.06.2014 que autoriza a contribuyente que se indica para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

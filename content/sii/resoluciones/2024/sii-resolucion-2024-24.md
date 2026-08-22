@@ -11,7 +11,7 @@
 
 ## Resumen
 
-d electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 25 del 07 de Febrero del 2024 Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Consejo Nacional de Televisión Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Calera de Tango. Fuente: Subdirección de Gestión Estratégica y Estudios Tribu…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Calera de Tango. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

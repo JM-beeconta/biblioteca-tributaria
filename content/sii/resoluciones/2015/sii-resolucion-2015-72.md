@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2015
-- Fecha: 2015-08-28
+- Fecha: 2015-08-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso72.pdf
 - Hash SHA-256: 65844dd5f805542f622231e3055a31b2ce6fd53d41c058d176cae99988bdf0a1
 
 ## Resumen
 
-esolución Exenta SII N° 73 del 28 de Agosto del 2015 Modifica diseño del Formulario 29, sobre Declaración Mensual y Pago Simultáneo de Impuesto, incorporando una nueva línea 27, con los códigos que se indican, conforme a la modificación que la Ley N° 20.780 introduce al artículo 23 N° 4 D.L. 825, de 1974. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a organismos públicos como receptores de documentos tributarios…
+mplimiento Tributario Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a organismos públicos como receptores de documentos tributarios electrónicos, y deroguese Resolución Exenta SII N°78, del 06 de agosto de 2004. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 152 del 28 de Diciembre del 2018 Fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Reemplaza resoluciones Ex. SII N° 59, de 20 de junio de 2014, Ex. SII N°59, de 27 de julio de 2018 y Ex. SII N° 68, de 28 de agosto de 2018, sobre procedimiento de sol…
+Subdirección de Avaluaciones Reemplaza resoluciones Ex. SII N° 59, de 20 de junio de 2014, Ex. SII N°59, de 27 de julio de 2018 y Ex. SII N° 68, de 28 de agosto de 2018, sobre procedimiento de solicitud de inscripción en registros de instituciones sin fines de lucro distribuidoras y/o receptoras de productos cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

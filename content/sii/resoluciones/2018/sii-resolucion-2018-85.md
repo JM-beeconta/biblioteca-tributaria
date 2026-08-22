@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N° 86 del 28 de Septiembre del 2018 Establece obligación de presentar Declaración Jurada N° 1879 a contribuyentes que paguen rentas del artículo 42 N° 2 de la Ley sobre Impuesto a la Renta, por servicios prestados en Isla de Pascua y a los empleadores de trabajadores de las artes y espectáculos, para fines previsionales.Deroga Resoluciones Ex. SII N° 122 de 26.12.2016 y N° 108 de 24.12.2015 Fuente: Subdirección de Fiscalización Deroga resoluciones que se indican, las cuales establecen la obligación de presentar la…
+cción de Fiscalización Deroga resoluciones que se indican, las cuales establecen la obligación de presentar las Declaraciones Juradas Formularios N°1802, N°1803, N°1844, N°1855, N° 1864, N°1868 y N°1911. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

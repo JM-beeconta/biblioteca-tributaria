@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 116
 - Año: 2021
-- Fecha: 2021-10-14
+- Fecha: 2021-10-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso116.pdf
 - Hash SHA-256: a4183de01fe8681af90edec61550b8e13e706c33383cedebd751f937da7c0bef
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 117 del 14 de Octubre del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyent…
+tégica y Estudios Tributarios. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

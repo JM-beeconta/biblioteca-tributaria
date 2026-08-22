@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Contribuyente Resolución Exenta SII N° 12 del 25 de Enero del 2017 Aclara Res. Ex. SII N° 12 del 10.03.2016 que incorporó nuevos puntos fronterizos para la devolución de IVA turista y simplificó el procedimiento y reemplaza en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las provincias de Colchagua y cardenal Caro de la región de O&acute;higgins; de las comunas de Vichuquén, Cauquenes, Hualañé y Licanten en l…
+ncia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las provincias de Colchagua y cardenal Caro de la región de O&acute;higgins; de las comunas de Vichuquén, Cauquenes, Hualañé y Licanten en la región del Maule y de la comuna de Bulnes en la región de Bio Bio. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

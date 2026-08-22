@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2015
-- Fecha: 2015-05-13
+- Fecha: 2015-05-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso45.pdf
 - Hash SHA-256: f037b3493319ad6d6fd6e118263be516386be30c8eacf62f09d81212c867d048
 
 ## Resumen
 
-uente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 46 del 13 de Mayo del 2015 Aprueba convenio de colaboración entre Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos Fuente: Subdirección de Estudios Complementa Resolución que revoca la facultad de decidir la interposición de denuncia o querella en casos que indica. Fuente: Dirección Nacional Resolución Exenta SII N° 44 del 11 de Mayo del 2015 Revoca delegación de facultades de decidir la interposición de de…
+ón de Estudios Complementa Resolución que revoca la facultad de decidir la interposición de denuncia o querella en casos que indica. Fuente: Dirección Nacional
 
 ## Referencias detectadas
 

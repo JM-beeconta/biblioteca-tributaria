@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 67
 - Año: 2019
-- Fecha: 2019-05-31
+- Fecha: 2019-05-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso67.pdf
 - Hash SHA-256: 0612f354d98759bc1454671940ebd3a327307ef89e511f4edfba484d4ff0e07c
 
 ## Resumen
 
-ute;nicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 68 del 31 de Mayo del 2019 Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Fija coeficientes de ajuste para la tasación de obras civiles de hormigón armado. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 66 del 27 de Mayo del 2019 Delega facultades que indica, relativas al…
+ute;n de Asistencia al Contribuyente Fija coeficientes de ajuste para la tasación de obras civiles de hormigón armado. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

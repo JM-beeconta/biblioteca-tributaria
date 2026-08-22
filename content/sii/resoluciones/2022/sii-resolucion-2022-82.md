@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del 2022 Complementa lista anexa de la resolucion n°8 exenta, de 2022. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 83 del 07 de Septiembre del 2022 Complementa lista anexa de la resolución exenta n° 09, de 2022. Fuente: Subdirección de Avaluaciones. Acredita y autoriza a DOX PSC SPA para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática. Resolución Exenta SII N° 81 del 02 de Sep…
+Subdirección de Avaluaciones. Acredita y autoriza a DOX PSC SPA para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática.
 
 ## Referencias detectadas
 

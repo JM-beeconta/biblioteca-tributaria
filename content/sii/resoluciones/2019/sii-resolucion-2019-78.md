@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tuciones sin fines de lucro que señala, que utilicen la aplicación dispuesta por la Subsecretaría de Evaluación Social, de timbrar certificados por donaciones a que se refiere la letra b) del artículo 157 TER del código del trabajo y su reglamento, contenido en el D.S. N° 64 del año 2018, del Ministerio del Trabajo y Previsión Social sobre inclusión laboral de personas con discapacidad y fija condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente Fija nóminas de agentes retenedores y de co…
+ute;n de Asistencia al Contribuyente Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección De Fiscalización
 
 ## Referencias detectadas
 

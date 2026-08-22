@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bdirección de Fiscalización. Resolución Exenta SII N° 121 del 29 de Septiembre del 2020 Establece rangos de porcentajes aplicables a créditos vencidos y procedimiento y registro tributario de castigo de deudas incobrables, conforme a lo dispuesto en el artículo 31 inciso 4°, N° 4 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Modifica resolución exenta SII N° 110 de 2015 que establece declaración jurada anual de caracterización tributaria global, formulario N° 1913. Fuente: Subdirecció…
+cción de Fiscalización. Modifica resolución exenta SII N° 110 de 2015 que establece declaración jurada anual de caracterización tributaria global, formulario N° 1913. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

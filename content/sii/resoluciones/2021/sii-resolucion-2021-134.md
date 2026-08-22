@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 134
 - Año: 2021
-- Fecha: 2021-12-10
+- Fecha: 2021-12-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso134.pdf
 - Hash SHA-256: 876c8744ad666ab7b1fc7157e79947f7b2e92de3bd37719ee2167599fc679bc0
 
 ## Resumen
 
-es. Ex. SII Nº 77, 2017. Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 135 del 10 de Diciembre del 2021 Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instruye sobre obligación de informar la inscripción y transferencia de activos intangibles sujetos al régimen de depreciación instantánea del artículo vigésimo segundo transitorio bis de la Ley N° 21.210. Fuente: S…
+tégica y Estudios Tributarios. Instruye sobre obligación de informar la inscripción y transferencia de activos intangibles sujetos al régimen de depreciación instantánea del artículo vigésimo segundo transitorio bis de la Ley N° 21.210. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

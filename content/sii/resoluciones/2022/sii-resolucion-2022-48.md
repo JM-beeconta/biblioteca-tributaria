@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2022
-- Fecha: 2022-05-31
+- Fecha: 2022-05-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso48.pdf
 - Hash SHA-256: d18777f2d8a4b87928382883b124d8553ea2122ecb5d1a5a31ffc2b81e043354
 
 ## Resumen
 
-n-bottom:0px;'> Resolución Exenta SII N° 49 del 31 de Mayo del 2022 Fija nómina &ldquo;contribuyentes IVA sd Afectos a cambio de sujeto&rdquo; a que se Refiere la resolución exenta sii n°46 de 2022, respecto de cuyos servicios se Retendrá el impuesto al valor agregado Conforme al inciso 7° del artículo 3° de la Ley sobre impuesto a las ventas y Servicios. Fuente: Subdirección de Fiscalización. Establece forma de anotar las rentas que se encuentren pendientes de distribución a los respectivos accionistas de las soc…
+cción de Fiscalización. Establece forma de anotar las rentas que se encuentren pendientes de distribución a los respectivos accionistas de las sociedades plataforma de inversiones, al 31 de diciembre de 2021 o al 31 de diciembre del año anterior al que se hayan incorporado al régimen general. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

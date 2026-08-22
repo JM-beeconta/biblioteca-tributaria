@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 51 del 08 de Abril del 2026 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Graneros. Fuente: Subdirección de Avaluaciones. Deja sin efecto resolución exenta SII N°3509, de 13.07.2000 que instruye sobre canje de información computarizada; y, la resolución exenta SII N° 5395 de 07.12.2000, que la complementa. Fue…
+Subdirección de Avaluaciones. Deja sin efecto resolución exenta SII N°3509, de 13.07.2000 que instruye sobre canje de información computarizada; y, la resolución exenta SII N° 5395 de 07.12.2000, que la complementa. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

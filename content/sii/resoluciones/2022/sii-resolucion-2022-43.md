@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2022
-- Fecha: 2022-05-12
+- Fecha: 2022-05-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso43.pdf
 - Hash SHA-256: 0d271e4631018edbb003916d4b89270510531f67ff7ad7c4e19da97b9cda0bcc
 
 ## Resumen
 
-diente A Propiedades De Adultos Mayores Vulnerables Económicamente. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 44 del 12 de Mayo del 2022 Amplía el plazo para presentar las declaraciones de renta año tributario 2022, que no importen pago de impuesto. Fuente: Subdirección de Fiscalización. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 42 del 06 de Mayo del 2022 Acredita y autoriza a contribuyente que indica para actuar…
+cción de Fiscalización. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-extranjero, formulario N° 1958. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 60 del 24 de Abril del 2026 Fija antecedentes para solicitar rebaja del impuesto territorial de inmuebles ocupados, conforme con lo dispuesto en el artículo 73 de la Ley N° 21.806. Fuente: Subdirección de Avaluaciones. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 58 del 24 de Abril del 2026 Instruye sobre requisitos, fija procedimiento para sol…
+Subdirección de Avaluaciones. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

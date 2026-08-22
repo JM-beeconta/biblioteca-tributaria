@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2021
-- Fecha: 2021-03-31
+- Fecha: 2021-03-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso32.pdf
 - Hash SHA-256: 9d77a9b2c36476c2447d0a88119317cb128e42d5779a9537ffc4af02813d8a40
 
 ## Resumen
 
-estos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 33 del 31 de Marzo del 2021 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex SII N° 97 y n° 98 respectivamente, ambas de fecha 28.08.2020, en los términos qu…
+ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex SII N° 97 y n° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

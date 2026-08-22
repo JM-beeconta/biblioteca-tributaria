@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 12
 - Año: 2017
-- Fecha: 2017-01-31
+- Fecha: 2017-01-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso12.pdf
 - Hash SHA-256: 7d1bfe4606a454e64fc4840326c12155d5fe461d5a9b12fd263f906d17afbff6
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 13 del 31 de Enero del 2017 Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de la Araucanía Fuente: Subdirección de Asistencia al Contribuyente Aclara Res. Ex. SII N° 12 del 10.03.2016 que incorporó nuevos puntos fronterizos para la devolución de IVA turista y simplificó el procedimiento y reemplaza en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N°…
+ncia al Contribuyente Aclara Res. Ex. SII N° 12 del 10.03.2016 que incorporó nuevos puntos fronterizos para la devolución de IVA turista y simplificó el procedimiento y reemplaza en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

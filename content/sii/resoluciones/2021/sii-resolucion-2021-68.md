@@ -11,7 +11,7 @@
 
 ## Resumen
 
-980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 69 del 30 de Junio del 2021 Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.353 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización. Habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fis…
+cción de Fiscalización. Habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

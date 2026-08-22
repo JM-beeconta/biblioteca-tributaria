@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span> Resolución Exenta SII N° 85 del 19 de Agosto del 2016 Autoriza a la empresa Lojan SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la empresa Tecnología APP Mobile Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Resoluci…
+ncia al Contribuyente Autoriza a la empresa Tecnología APP Mobile Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

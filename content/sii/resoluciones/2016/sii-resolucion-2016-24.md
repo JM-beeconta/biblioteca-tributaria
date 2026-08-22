@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 24
 - Año: 2016
-- Fecha: 2016-03-24
+- Fecha: 2016-03-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso24.pdf
 - Hash SHA-256: 13eb1ee94d55747ad91d17f04cce0446f2bafc555d2821090675e5e66dad5d0e
 
 ## Resumen
 
-e;n Exenta SII N° 25 del 24 de Marzo del 2016 Establece modelo de Certificado N° 47, sobre retenciones practicadas conforme al artículo 74 N° 1 de la Ley sobre Impuesto a la Renta, por concepto de devolución de fondos previsionales a técnicos extranjeros y a trabajadores desafiliados del sistema de pensiones del D.L. N° 3.500, de 1980. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Establece vigencia de código de autorización de folios para los documentos tributarios electrónicos. Fuente: Subd…
+mplimiento Tributario Establece vigencia de código de autorización de folios para los documentos tributarios electrónicos. Fuente: Subdirección de Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

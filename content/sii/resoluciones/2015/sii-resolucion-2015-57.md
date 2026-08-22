@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2015
-- Fecha: 2015-07-03
+- Fecha: 2015-06-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso57.pdf
 - Hash SHA-256: 17ecbd8b47b832cd54f7f36672c150dc5a01db4dbb4f4a6b938e960722cad090
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 58 del 03 de Julio del 2015 Complementa Resolución Exenta N° 125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Establece nuevas fechas de pago para las cuotas de impuesto territorial correspondientes a los meses de abril y junio de 2015, para los bienes raíces ubicados en la región de Atacama y en las comunas de Antofagasta y Taltal de la II región de Antofagasta. Fuente: Subdirecció…
+randes Contribuyentes Establece nuevas fechas de pago para las cuotas de impuesto territorial correspondientes a los meses de abril y junio de 2015, para los bienes raíces ubicados en la región de Atacama y en las comunas de Antofagasta y Taltal de la II región de Antofagasta. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

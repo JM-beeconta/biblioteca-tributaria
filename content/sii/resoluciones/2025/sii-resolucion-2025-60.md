@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2025
-- Fecha: 2025-05-08
+- Fecha: 2025-05-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso60.pdf
 - Hash SHA-256: 6b5f5d26168fb7fc87db8d3a69e562c57bbcc1376e0b6f71b99f1034b54f8625
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 61 del 08 de Mayo del 2025 Determina que los emiratos árabes unidos no tiene un régimen fiscal preferencial para efectos de la ley sobre impuesto a la renta, en conformidad a lo señalado en el artículo 41 h. Fuente: Subdirección de Fiscalización Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente…
+ección de Fiscalización Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

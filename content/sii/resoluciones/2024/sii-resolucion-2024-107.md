@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 107
 - Año: 2024
-- Fecha: 2024-11-21
+- Fecha: 2024-11-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso107.pdf
 - Hash SHA-256: 229b2d8283d7b62760e4c1d9177cea57790b037891e2c5830fd851365a4c6922
 
 ## Resumen
 
-gin-bottom:0px;'> Resolución Exenta SII N° 108 del 21 de Noviembre del 2024 Amplia plazo para presentar el formulario N° 1920 para acogerse al sistema de declaración voluntaria y extraordinaria de bienes o rentas; y al término anticipado de gestiones judiciales pendientes; conforme a los artículos undécimo y duodécimo transitorios de la Ley N° 21.713. Fuente: Subdirección de Fiscalización. Fija procedimiento para la declaración y pago del IVA por contribuyentes sin domicilio ni residencia en chile inscritos en el…
+cción de Fiscalización. Fija procedimiento para la declaración y pago del IVA por contribuyentes sin domicilio ni residencia en chile inscritos en el régimen de tributación simplificada del párrafo 7° bis del título II de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

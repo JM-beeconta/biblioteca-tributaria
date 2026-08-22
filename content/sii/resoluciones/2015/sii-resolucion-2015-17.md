@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 17
 - Año: 2015
-- Fecha: 2015-03-09
+- Fecha: 2015-03-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso17.pdf
 - Hash SHA-256: 625bfc7771bfecd8185405d03b09e808eff4ac040416cbadcb2533fb69d16e8c
 
 ## Resumen
 
-de Fiscalización Resolución Exenta SII N° 18 del 09 de Marzo del 2015 Establece forma y plazo de emisión de facturas por pagos de remanentes a clientes finales establecidos en la Ley N° 20.571. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Delega en el Subdirector de Administración y en el Jefe del Departamento de Adquisiciones y Gestión de Contratos facultad de firmar en materia que indica. Fuente: Subdirección de Administración Resolución Exenta SII N° 16 del 03 de Marzo del 2015 Reemplaza los…
+ia de Contribuyentes. Delega en el Subdirector de Administración y en el Jefe del Departamento de Adquisiciones y Gestión de Contratos facultad de firmar en materia que indica. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

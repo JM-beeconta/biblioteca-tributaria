@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 72 del 04 de Junio del 2019 Aprueba Adendum Anexo al Convenio de Colaboración Servicio de Impuestos Internos y Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza como receptor electrónico de documentos tributarios electrónicos a la SUBSECRETARÍA DE DEFENSA. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 70 del 03 de Junio del 20…
+tégica y Estudios Tributarios Autoriza como receptor electrónico de documentos tributarios electrónicos a la SUBSECRETARÍA DE DEFENSA. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

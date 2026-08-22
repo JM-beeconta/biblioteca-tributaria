@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 96
 - Año: 2013
-- Fecha: 2013-11-27
+- Fecha: 2013-11-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso96.pdf
 - Hash SHA-256: 716790f67ce222ec087100a0dc03b7f314414af4c8b8366fa9ab3c222b31571c
 
 ## Resumen
 
-ilde;as Empresas Resolución Exenta SII N° 97 del 27 de Noviembre del 2013 Aprueba Convenio de Colaboración entre la Subsecretaría de Economía y Empresas de menos Tamaño y el Servicio de Impuestos Internos Fuente: Subdirección de Fiscalización Modifica resolución Ex. N°1055, de 2010 sobre normativa interna del Servicio de Impuestos Internos en materia de adquisiciones Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 95 del 20 de Noviembre del 2013 Crea la Oficina de Relaciones laborales como unida…
+Fiscalización Modifica resolución Ex. N°1055, de 2010 sobre normativa interna del Servicio de Impuestos Internos en materia de adquisiciones Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

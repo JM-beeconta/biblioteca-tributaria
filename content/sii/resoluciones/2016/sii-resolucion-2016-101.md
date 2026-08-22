@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 101
 - Año: 2016
-- Fecha: 2016-10-24
+- Fecha: 2016-10-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso101.pdf
 - Hash SHA-256: e33bd7d777beb5312dc0d65978b7b2b6c06b2996edd319e9fc5a7f8bd6af9e76
 
 ## Resumen
 
-mplimiento Tributario Resolución SII N° 102 del 24 de Octubre del 2016 Designa Representante Titular Y Alterno Del Servicio De Impuestos Internos ante el Comité Técnico Público-Privado de Exportación de Servicios. Fuente: Subdirección Normativa Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Transunion Soluciones de Información Chile S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 100 del 20 de Octubre del 2016 Exime a Fundación Jóvenes po…
+ción Normativa Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Transunion Soluciones de Información Chile S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

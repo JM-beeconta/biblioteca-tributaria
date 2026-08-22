@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 75 del 19 de Julio del 2024 Deja sin efecto la Resolución Ex. SII n°123 de 2021, y actualiza requisitos para la emisión de guías de despacho y facturas, de los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente. Acredita y autoriza a contribuyente que indica para actuar como prestador de Servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecn…
+ute;n de Asistencia al Contribuyente. Acredita y autoriza a contribuyente que indica para actuar como prestador de Servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2016
-- Fecha: 2016-06-23
+- Fecha: 2016-06-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso57.pdf
 - Hash SHA-256: 19ebe25b02de7c29d611806ef08a67389cf78693e28cc80ffef0c55d896daa05
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 58 del 23 de Junio del 2016 Prorroga vigencia de emisión de los documentos timbrados que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Deja sin efecto los cobros que indica y deroga las Resoluciones que los establecen. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 56 del 22 de Junio del 2016 Incorpora y regula el uso de cédula RUT electrónica (e-RUT) Fuente: Subdirección de…
+cia de Contribuyentes Deja sin efecto los cobros que indica y deroga las Resoluciones que los establecen. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

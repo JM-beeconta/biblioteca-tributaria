@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Resolución Exenta SII N° 93 del 31 de Agosto del 2023 Reemplaza formato, contenido e instrucciones de declaración jurada formulario N° 1887 sobre rentas del art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la ley de la renta. Modifica resolución exenta N° 70 del 31.08.2022. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre la obligación de los bancos e instituciones financieras de informar los intereses, pagados o abonados…
+cción de Fiscalización. Imparte instrucciones sobre la obligación de los bancos e instituciones financieras de informar los intereses, pagados o abonados en cuenta, a sus inversionistas por depósitos, operaciones de captación y mantención de saldos de cuentas corrientes; deja sin efecto las Resoluciones Ex. SII que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

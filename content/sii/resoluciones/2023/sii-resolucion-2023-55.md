@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 56 del 04 de Mayo del 2023 Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raices de la segunda serie, con jurisdicción en el territorio de la I. Corte de Apelaciones de Santiago. Fuente: Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Monte Fuente: Subdirecció…
+Subdirección Jurídica. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de El Monte Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN Fuente: SUBDIRECCIÓN DE FISCALIZACIÓN Resolución Exenta SII N° 33 del 13 de Marzo del 2025 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chile Chico. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta S…
+Fuente: Subdirección Normativa Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chile Chico. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

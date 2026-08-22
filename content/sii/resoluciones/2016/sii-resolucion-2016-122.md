@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ento Tributario Resolución Exenta SII N° 123 del 26 de Diciembre del 2016 establece forma y plazo para presentar declaración Jurada Anual sobre rentas obtenidas por terceros, Formulario N° 1932. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece obligación de presentar declaración Jurada por parte de los contribuyentes que paguen rentas del artículo 42 N°2 de la Ley sobre Impuesto a la renta, por servicios prestados en la Isla de Pascua. Fuente: Departamento de Sistemas de Fiscalizaci…
+mplimiento Tributario Establece obligación de presentar declaración Jurada por parte de los contribuyentes que paguen rentas del artículo 42 N°2 de la Ley sobre Impuesto a la renta, por servicios prestados en la Isla de Pascua. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

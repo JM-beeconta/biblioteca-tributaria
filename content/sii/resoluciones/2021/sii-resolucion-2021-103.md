@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 104 del 31 de Agosto del 2021 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jura…
+ute;n de Asistencia al Contribuyente. Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario Nº 1887, en los casos que se señalan Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

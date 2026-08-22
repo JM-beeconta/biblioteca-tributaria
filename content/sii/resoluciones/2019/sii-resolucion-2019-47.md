@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 48 del 18 de Abril del 2019 Autoriza al Conservador de Bienes Raíces de Antofagasta, Sr. JUAN JOSE VELOSO MORA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Resolución Exenta SII N° 46 del 17 de Abril del 2019 Autoriza al contribuyente SABORES CARD SPA., RUT N…
+ute;n de Asistencia al Contribuyente Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

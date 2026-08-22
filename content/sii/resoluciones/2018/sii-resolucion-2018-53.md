@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdireccion de Fiscalizacion Resolución Exenta SII N° 54 del 29 de Junio del 2018 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Autoriza a empresa PRODUCCIONES Y EVENTOS EMPIRE DIGITAL LIMITADA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de tercero…
+ción de Fiscalización Autoriza a empresa PRODUCCIONES Y EVENTOS EMPIRE DIGITAL LIMITADA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

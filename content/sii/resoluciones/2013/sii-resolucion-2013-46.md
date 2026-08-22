@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2013
-- Fecha: 2013-05-15
+- Fecha: 2013-05-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso46.pdf
 - Hash SHA-256: 9f9c9fd008ca785b8193eac9fc72512d3fec013f0ebe0e72c5e162acb8b7fcd1
 
 ## Resumen
 
-target='_blank'>Resolución Exenta SII N° 47 del 15 de Mayo del 2013 Imparte instrucciones para acogerse al régimen de recuperación de los impuestos del Decreto Ley N° 825, de 1974, por las ventas de mercancías de su propia producción que hagan a la zona franca a que se refiere el artículo 27 de la Ley N° 19.420, de 1995. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Reemplaza normas para la devolución del impuesto del Título II y del artículo 42 de la ley sobre Impuesto a las ventas y servicios…
+ia de Contribuyentes. Reemplaza normas para la devolución del impuesto del Título II y del artículo 42 de la ley sobre Impuesto a las ventas y servicios contenida en el D.L. N°825, de 1974, a las personas naturales sin domicilio ni residencia en el país, que compren mercancías en la zona franca de extensión de la región de Arica y Parinacota. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

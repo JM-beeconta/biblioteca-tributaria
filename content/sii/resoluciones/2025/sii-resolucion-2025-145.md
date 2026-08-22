@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 145
 - Año: 2025
-- Fecha: 2025-10-20
+- Fecha: 2025-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso145.pdf
 - Hash SHA-256: b54dafeb0f8e64543ae040c2d5d28bd0e4738d0be92485416440957426022d95
 
 ## Resumen
 
-terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 146 del 20 de Octubre del 2025 Autoriza a las entidades que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Regula la declaración y pago del iva por parte de operadores con domicilio o residencia en chile de plataformas digitales de intermediación de ventas conforme al artículo 3° bis de la ley sobre imp…
+ute;n de Asistencia al Contribuyente. Regula la declaración y pago del iva por parte de operadores con domicilio o residencia en chile de plataformas digitales de intermediación de ventas conforme al artículo 3° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

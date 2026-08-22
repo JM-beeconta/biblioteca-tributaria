@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2015
-- Fecha: 2015-06-18
+- Fecha: 2015-06-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso53.pdf
 - Hash SHA-256: e937cc8f7f72f1680ab7d965a8a5f9929d18c1fca96414a970807841b017d726
 
 ## Resumen
 
-Asistencia de Contribuyentes Resolución Exenta SII N° 54 del 18 de Junio del 2015 Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Complementa Resolución Exenta SII N° 163, de fecha 16.12.2008 que establece nuevos formatos de declaración jurada solicitud de devolución por cambio de sujeto de derecho del IVA y Resolución Ex. SII N° 16, de fecha 07.02.2014, que modificó Resolución Ex. SII N°16…
+cia de Contribuyentes Complementa Resolución Exenta SII N° 163, de fecha 16.12.2008 que establece nuevos formatos de declaración jurada solicitud de devolución por cambio de sujeto de derecho del IVA y Resolución Ex. SII N° 16, de fecha 07.02.2014, que modificó Resolución Ex. SII N°163, de 2008. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

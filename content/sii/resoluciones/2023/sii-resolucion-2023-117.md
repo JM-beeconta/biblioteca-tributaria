@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 117
 - Año: 2023
-- Fecha: 2023-12-31
+- Fecha: 2023-10-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso117.pdf
 - Hash SHA-256: 2c2c19c65021d00031be6581f3847194177a9873a7e3880caf90fac1de61eaa9
 
 ## Resumen
 
-nero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 118 del 06 de Octubre del 2023 Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile. Fuente: Subdirección de Asuntos Corporativos. Dispone la ejecución de acciones de tratamiento en las direcciones regionales que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 116 del 04 de Octubre del 2023 Fija plazo para…
+cción de Asuntos Corporativos. Dispone la ejecución de acciones de tratamiento en las direcciones regionales que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

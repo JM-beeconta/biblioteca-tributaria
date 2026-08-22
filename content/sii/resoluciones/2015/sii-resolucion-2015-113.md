@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Masivo del Cumplimiento Tributario Resolución Exenta SII N° 114 del 24 de Diciembre del 2015 Modifica y complementa Resolución Ex. N° 25, de 13 de marzo de 2015 y reemplaza anexos N°s 1 y 2. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Modifica Resolución N° 16 de 03 de marzo de 2015, en lo relativo a la obligación de declarar y reemplaza el formato de las declaraciones Juradas Formularios N°s 1851 y 1853 y las instrucciones pertinentes Fuente: Departamento de Análisis Selectivo del Cumpl…
+mplimiento Tributario Modifica Resolución N° 16 de 03 de marzo de 2015, en lo relativo a la obligación de declarar y reemplaza el formato de las declaraciones Juradas Formularios N°s 1851 y 1853 y las instrucciones pertinentes Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

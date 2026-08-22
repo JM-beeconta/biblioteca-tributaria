@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dirección de Asistencia al Contribuyente. Resolución Exenta SII N° 136 del 08 de Octubre del 2025 Reorganiza las unidades que conforman el departamento Subdirección de Tecnologías de la Información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 136, de 2023. Fuente: Subdirección de Tecnologías de la Información Dispónese cambio total del sujeto del IVA y autoriza a Mercadolibre chile Ltda., Rut N° 77.398.220-1, para retener y enterar en arcas fiscales el impuesto al valor agregado según…
+ogías de la Información Dispónese cambio total del sujeto del IVA y autoriza a Mercadolibre chile Ltda., Rut N° 77.398.220-1, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

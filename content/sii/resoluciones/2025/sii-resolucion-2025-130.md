@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. N° 7 de 2025 Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 131 del 02 de Octubre del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Desarrollo Agropecuario y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paine. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 129…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Paine. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

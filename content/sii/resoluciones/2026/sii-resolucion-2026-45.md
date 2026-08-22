@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pdf' target='_blank'>Resolución Exenta SII N° 46 del 27 de Marzo del 2026 Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al Servicio de Impuestos Internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicacio…
+Subdirección de Avaluaciones. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

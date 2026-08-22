@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2020
-- Fecha: 2020-05-11
+- Fecha: 2020-05-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso52.pdf
 - Hash SHA-256: 88b512baba6a869577e210a72069f32ef7be92c0870f66b7dd7bd48c3cd50e5a
 
 ## Resumen
 
-hera Flores, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 53 del 11 de Mayo del 2020 Amplía el plazo para presentar las Declaraciones Juradas formularios 1847, 1913 y 1926. Fuente: Subdirección de Fiscalización. Exime a ONG casa de acogida La Esperanza, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente. Re…
+cción de Fiscalización. Exime a ONG casa de acogida La Esperanza, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

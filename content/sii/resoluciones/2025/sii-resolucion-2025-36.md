@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 36
 - Año: 2025
-- Fecha: 2025-03-26
+- Fecha: 2025-03-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso36.pdf
 - Hash SHA-256: 67110ade885eb09acb52c94ca5f7bbeda017d39693366449e78424b5987b16a1
 
 ## Resumen
 
-ejercicio de la facultad contenida en el inciso quinto del artículo 20 de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 37 del 26 de Marzo del 2025 Complementa lista anexa de la resolución exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones Aprueba convenio entre el Servicio de Impuestos Internos y la Dirección Nacional del Servicio Civil. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 35 del 20 de Marzo del 2025 Auto…
+: Subdirección de Avaluaciones Aprueba convenio entre el Servicio de Impuestos Internos y la Dirección Nacional del Servicio Civil. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

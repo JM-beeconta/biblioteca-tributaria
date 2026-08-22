@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;lisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 13 del 24 de Febrero del 2015 Modifica Resolución Exenta SII N° 08, del 10 de enero de 2007, en los términos que indica Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Modifica Resolución Ex. N° 19 de 2005, que establece obligación a los arrendatarios y a los corredores de propiedades o personas que entregan en arriendo propiedades por cuenta de terceros, de presentar una declaración jurada sobre los bienes raíces no agríco…
+mplimiento Tributario Modifica Resolución Ex. N° 19 de 2005, que establece obligación a los arrendatarios y a los corredores de propiedades o personas que entregan en arriendo propiedades por cuenta de terceros, de presentar una declaración jurada sobre los bienes raíces no agrícolas recibidos en arriendo en el caso de los arrendatarios; y sobre los bienes raíces entregados en arriendo, en el caso de los corredores y personas ya señalados. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;'>Establece procedimiento voluntario a utilizar para determinar la renta líquida imponible del impuesto de primera categoría para los contribuyentes que se hubieren encontrado acogidos al régimen de renta presunta vigente al 31.12.2015 y, que al 31.12.2016, deban abandonarlo obligatoriamente por no cumplir cualquiera de los requisitos establecidos en el articulo 34 de la Ley de Impuesto a la Renta y no puedan constituir su contabilidad completa. Fuente: Departamento de Análisis Masivo Delega facultades que indic…
+nálisis Masivo Delega facultades que indica en el funcionario que se individualiza. Fuente: Departamento Defensa Judicial Civil.
 
 ## Referencias detectadas
 

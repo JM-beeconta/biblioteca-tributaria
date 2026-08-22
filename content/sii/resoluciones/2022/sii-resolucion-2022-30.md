@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2022
-- Fecha: 2022-04-11
+- Fecha: 2022-03-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso30.pdf
 - Hash SHA-256: f61d684851c3ca571bb12f89ce7d579c03faa036cf781585ffdefa0e153f089d
 
 ## Resumen
 
-in-top:0px;margin-bottom:0px;'>Delega facultad en la jefatura que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 31 del 11 de Abril del 2022 Autoriza a ederend chile s.a rut n° 96.781.350-8, a emitir documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Imputación de los pagos anticipados, retenciones adicionales y/o pagos provisionales mensuales adicionales por la restitución del préstamo tasa cero (o préstamo solidario del estado). Fuente: S…
+ute;n de Asistencia al Contribuyente. Imputación de los pagos anticipados, retenciones adicionales y/o pagos provisionales mensuales adicionales por la restitución del préstamo tasa cero (o préstamo solidario del estado). Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

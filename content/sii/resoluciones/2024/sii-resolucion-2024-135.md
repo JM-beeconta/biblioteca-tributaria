@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2024 Años Anteriores FIJA NÓMINA DE GRANDES CONTRIBUYENTES Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 134 del 30 de Diciembre del 2024 Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 133 del 26 de Diciembre del 2024 <p style='margi…
+9"> FIJA NÓMINA DE GRANDES CONTRIBUYENTES Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

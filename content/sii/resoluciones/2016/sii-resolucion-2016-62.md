@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización Resolución Exenta SII N° 63 del 30 de Junio del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Crea Departamento de Administración en la XVIII Dirección Regional, Arica; en la X Dirección Regional, Puerto Montt; en la XI Dirección Regional, Coyhaique y en la Dirección de Grandes Contribuyentes y suprime oficinas de administración de esas dependencias. Fue…
+mplimiento Tributario Crea Departamento de Administración en la XVIII Dirección Regional, Arica; en la X Dirección Regional, Puerto Montt; en la XI Dirección Regional, Coyhaique y en la Dirección de Grandes Contribuyentes y suprime oficinas de administración de esas dependencias. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

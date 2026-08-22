@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 67
 - Año: 2016
-- Fecha: 2016-07-11
+- Fecha: 2016-07-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso67.pdf
 - Hash SHA-256: 2e973693098268aa1ae1c6760b142c3af50ec23b1f0d229993c80e792a1d9472
 
 ## Resumen
 
-Fuente: Oficina Análisis de Elusión Resolución Exenta SII N° 68 del 11 de Julio del 2016 Crea Comité Anti elusión y fija sus atribuciones y funciones. Fuente: Oficina de Análisis de Elusión Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 66 del 06 de Julio del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Administraci…
+sis de Elusión Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

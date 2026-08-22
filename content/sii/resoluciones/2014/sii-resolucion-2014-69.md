@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2014
-- Fecha: 2014-07-24
+- Fecha: 2014-07-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso69.pdf
 - Hash SHA-256: 6bbbe2e0216b9907d9c8fe2456eed41f2969c4f51741f077b33729ba8e5731af
 
 ## Resumen
 
-ute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 70 del 24 de Julio del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los Contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Modifica contenido del formulario N° 50 sobre Declaración y Pago Simultáneo Mensual de Impuestos. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 68 del 21 de Julio del 2014 Exime a Fundación las Rosas de ayuda fraterna de la obligación de timbraj…
+ia de Contribuyentes. Modifica contenido del formulario N° 50 sobre Declaración y Pago Simultáneo Mensual de Impuestos. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

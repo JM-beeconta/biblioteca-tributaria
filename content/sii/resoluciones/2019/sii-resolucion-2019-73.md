@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2019
-- Fecha: 2019-06-11
+- Fecha: 2019-06-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso73.pdf
 - Hash SHA-256: c1e1a30e4bf44592793ff6b47e5468246ed529cd5fa66abfd9b95cf4a85595b7
 
 ## Resumen
 
-p> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 74 del 11 de Junio del 2019 Autoriza a la Sociedad Falabella Retail S.A. para portar la guía de despacho electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Melipilla, Sra. ROSEMARIE DE LOURDES MERY RICCI, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Melipilla, Sra. ROSEMARIE DE LOURDES MERY RICCI, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

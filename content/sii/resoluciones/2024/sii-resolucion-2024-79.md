@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2024
-- Fecha: 2024-08-28
+- Fecha: 2024-08-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso79.pdf
 - Hash SHA-256: 11874a02f6cfafdb457194f6c64ccfc5654d7919a626c1a65c6b570ae5283442
 
 ## Resumen
 
-digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información Resolución Exenta SII N° 80 del 28 de Agosto del 2024 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Deja sin efecto resoluciones exentas N° 1055 de 2010 y N° 96 DE 2013. Fuente: Subdirección de Administración. Resolución Exenta SII N° 78 del 05 de Agosto del 2024 Autoriza a proceder conforme al modelo de operación…
+ute;n de Asistencia al Contribuyente. Deja sin efecto resoluciones exentas N° 1055 de 2010 y N° 96 DE 2013. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2025
-- Fecha: 2025-07-17
+- Fecha: 2025-07-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso86.pdf
 - Hash SHA-256: a9fda62344863c9feb5c1c1076a3d330621fae7185010d5d38365f1d9bd49de4
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 87 del 17 de Julio del 2025 Reorganiza las unidades que conforman el departamento Subdirección Jurídica y establece ámbitos de competencia de las unidades que lo conforman. Deja sin efecto resolución EX. SII N°46 de 2024 y modifica resoluciones EX. SII N°128 de 2024 y resolución EX. SII N°7590, de 1999. Fuente: Subdirección Jurídica. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de…
+Subdirección Jurídica. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

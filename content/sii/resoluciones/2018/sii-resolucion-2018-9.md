@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 10 del 30 de Enero del 2018 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Consejo Minero de Chile A.G Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 09 del 30 de Enero del 2018 Modifica resolución Ex. SII N° 64, de 06 de julio de 2016 que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de…
+cción de Fiscalización Resolución Exenta SII N° 09 del 30 de Enero del 2018 Modifica resolución Ex. SII N° 64, de 06 de julio de 2016 que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

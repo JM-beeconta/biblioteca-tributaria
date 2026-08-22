@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2017
-- Fecha: 2017-05-31
+- Fecha: 2017-05-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso52.pdf
 - Hash SHA-256: 86d1acce7b11b394ac85a715fd95a36df358e8d4d2b81e47cf90d3a7199f99fa
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 53 del 31 de Mayo del 2017 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 51 del 19 de Mayo…
+ncia al Contribuyente Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Fiscalización. Resolución Exenta SII N° 126 del 25 de Septiembre del 2025 Determina que los Emiratos Árabes Unidos no tiene un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, en conformidad a lo señalado en su artículo 41 H. Deja sin efecto Resolución Ex. SII N° 61 de 2025. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 124 del 25 de Septi…
+cción de Fiscalización. Aprueba Convenio de Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

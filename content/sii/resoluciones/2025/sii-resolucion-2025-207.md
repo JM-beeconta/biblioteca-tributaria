@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:0px;'>Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 208 del 30 de Diciembre del 2025 Fija nómina de grandes contribuyentes Fuente: Dirección de Grandes Contribuyentes. Elimina obligación de incorporar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, según Resolución Ex. SII N° 74, del 2020 Fuente: Subdirección de…
+ión de Grandes Contribuyentes. Elimina obligación de incorporar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, según Resolución Ex. SII N° 74, del 2020 Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

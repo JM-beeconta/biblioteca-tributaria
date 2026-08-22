@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece forma y plazo para presentar declaración jurada anual sobre movimientos y saldos de los registros de rentas empresariales del régimen de imputación parcial de crédito a que se refiere la letra b) del artículo 14 de la ley sobre impuesto a la renta, y de los registros establecidos en el número 2) del artículo 81 de la ley 20.712 Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario Establece forma y plazo para presentar la declaración jurada anual sobre movimientos y saldos de los regist…
+mplimiento Tributario Establece forma y plazo para presentar la declaración jurada anual sobre movimientos y saldos de los registros de rentas empresariales del régimen de renta atribuida a que se refiere la letra a) del artículo 14 de la ley sobre impuesto a la renta Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario
 
 ## Referencias detectadas
 

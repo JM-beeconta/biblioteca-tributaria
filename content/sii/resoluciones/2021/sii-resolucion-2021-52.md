@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 53 del 25 de Mayo del 2021 Establece criterios generales y situaciones que configuran el hecho gravado, en los casos que señala la letra g, del artículo 8°, del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Reemplaza anexos de Resolución Ex. SII N° 112 de 2018. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 51 del 18 de Mayo del 2021 Amplía el plazo p…
+cción de Fiscalización. Reemplaza anexos de Resolución Ex. SII N° 112 de 2018. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

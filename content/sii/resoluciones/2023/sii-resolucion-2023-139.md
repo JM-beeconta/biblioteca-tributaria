@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 140 del 13 de Diciembre del 2023 Exime a porsche Volkswagen servicios financieros chile spa de la obligación de timbraje de pagarés, establecida en el artículo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución…
+ute;n de Asistencia al Contribuyente. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

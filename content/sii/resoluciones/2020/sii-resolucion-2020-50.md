@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2020
-- Fecha: 2020-05-07
+- Fecha: 2020-05-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso50.pdf
 - Hash SHA-256: 57475bb46e23d1faa2e7414be22789478cebfc31aa91e700dec4f7bbe97d55a5
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 51 del 07 de Mayo del 2020 Exime a maría ayuda corporación de beneficencia, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente. Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atrib…
+ute;n de Asistencia al Contribuyente. Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

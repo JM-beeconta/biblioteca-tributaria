@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 130 del 30 de Septiembre del 2020 Modifica Resolución Exenta Nº 11 de 28 de enero de 2014, que establece la obligación de presentar Declaración Jurada anual Nº 1909, sobre desembolsos y otras partidas o cantidades a que se refiere el inciso tercero del artículo 21 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Modifica Resoluciones Exentas SII Nºs 20 de 2015 y 99 de 2017, que establecen la obligación de presentar Declaración Jurada anual Nº 1922 y de emitir los…
+cción de Fiscalización. Modifica Resoluciones Exentas SII Nºs 20 de 2015 y 99 de 2017, que establecen la obligación de presentar Declaración Jurada anual Nº 1922 y de emitir los certificados N°s 43 y 44, adecuándolos a la normativa vigente. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

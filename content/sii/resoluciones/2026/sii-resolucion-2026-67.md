@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 67
 - Año: 2026
-- Fecha: 2026-06-02
+- Fecha: 2026-05-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso67.pdf
 - Hash SHA-256: 665225af6489a18c83d49e05dff44f41c7e13a33299507fbd7c7d81fc65a31e6
 
 ## Resumen
 
-cute;logos o conexos, prestados en línea o a través de plataformas digitales, cumplan obligaciones tributarias que indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 68 del 02 de Junio del 2026 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 66 del 25 de Mayo del 2026 Delega facultad que indica en el funcionario que se individu…
+: Subdirección Jurídica Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

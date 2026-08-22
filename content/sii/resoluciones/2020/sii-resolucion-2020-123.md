@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 124 del 30 de Septiembre del 2020 Modifica Resolución Ex. SII Nº 124 de 26 de diciembre de 2016 que establece forma y plazo para presentar declaración jurada Nº 1933 por los mandatarios encargados de gestionar el mandato especial de administración de cartera de valores establecido en la Ley Nº 20.880. Fuente: Subdirección de Fiscalización. Establece forma y plazo para presentar declaración jurada anual de formulario N° 1847 denominado "Declaración jurada anual sobre balance de 8 columnas&r…
+cción de Fiscalización. Establece forma y plazo para presentar declaración jurada anual de formulario N° 1847 denominado "Declaración jurada anual sobre balance de 8 columnas&rdquo; y declaración jurada anual de formulario N° 1926 sobre &ldquo;base imponible de primera categoría y datos contables balance&rdquo;. Deja sin efecto Resoluciones Exentas N°s 2, del 2012, 112, del 2015, 101 de 2017 y 110 de 2019. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 123
 - Año: 2014
-- Fecha: 2014-12-29
+- Fecha: 2014-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso123.pdf
 - Hash SHA-256: ae16fa72f02981ef460abbf7065e9bf6f55a7486fe990b0e389e9fc12b449874
 
 ## Resumen
 
-Grandes Contribuyentes Resolución Exenta SII N° 124 del 29 de Diciembre del 2014 Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que señalan. Fuente: DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Subdirección Avaluaciones Resolución Exenta SII N°…
+CIA DE CONTRIBUYENTES Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Subdirección Avaluaciones
 
 ## Referencias detectadas
 

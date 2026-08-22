@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 19 del 31 de Enero del 2024 Instruye sobre el cumplimiento de la obligación dispuesta en el N° 5 del artículo 46 H), del título VIII bis del D.L N° 3063 de 1979, sobre rentas municipales. Fuente: Subdirección de Fiscalización. Establece formulario para declarar y pagar los pagos provisionales mensuales obligatorios aplicable a explotadores mineros sujetos al impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley…
+cción de Fiscalización. Establece formulario para declarar y pagar los pagos provisionales mensuales obligatorios aplicable a explotadores mineros sujetos al impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley N° 21.647. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

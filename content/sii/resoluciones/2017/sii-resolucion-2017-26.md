@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2017
-- Fecha: 2017-03-08
+- Fecha: 2017-03-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso26.pdf
 - Hash SHA-256: aab2a709d6647064fa65dba0b7bdd74ef5be9204c93a502d8aa5a4c0c5f270d2
 
 ## Resumen
 
-la Ley N° 20.712, modificado por las Leyes N° 20.780 y N° 20.899. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 27 del 08 de Marzo del 2017 Delega facultad que indica. Fuente: Subdirección de Administración Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 25 del 15 de Febrero del 2017 Establece procedimiento para hacer efectivo el…
+Administración Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

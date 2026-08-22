@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 53
 - Año: 2020
-- Fecha: 2020-05-18
+- Fecha: 2020-05-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso53.pdf
 - Hash SHA-256: 171312cca65dbf305a0c1d2b3fb9a231cdda18478058a2375ed92eb94e61bd05
 
 ## Resumen
 
-uesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 54 del 18 de Mayo del 2020 Autoriza a la notaria de Santiago, Sra. Valeria del Carmen Ronchera Flores, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formularios 1847, 1913 y 1926. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 52 del 08 de Mayo del 2020 Exime a ONG casa…
+ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formularios 1847, 1913 y 1926. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

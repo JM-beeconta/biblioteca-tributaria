@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2025
-- Fecha: 2025-08-07
+- Fecha: 2025-07-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso95.pdf
 - Hash SHA-256: 5b3101c98938d1ebb3460f266ef0f93b30d9553408bbcf2de1b5a4a4f9421baf
 
 ## Resumen
 
-jefaturas y materias que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 96 del 07 de Agosto del 2025 Especifica operaciones financieras que pueden acogerse al procedimiento simplificado a que se refiere el artículo 66 bis del Código Tributario Fuente: Subdirección de Fiscalización. Establece forma y periodicidad para el envío de la información que las municipalidades deben entregar de acuerdo con el nuevo régimen de ferias libres conforme a lo dispuesto en el párrafo 7° ter del título ii…
+cción de Fiscalización. Establece forma y periodicidad para el envío de la información que las municipalidades deben entregar de acuerdo con el nuevo régimen de ferias libres conforme a lo dispuesto en el párrafo 7° ter del título ii de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

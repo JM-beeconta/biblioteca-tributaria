@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2019
-- Fecha: 2019-03-15
+- Fecha: 2019-03-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso34.pdf
 - Hash SHA-256: 3b0ee6ea7c8b97a2b409016ebd2815581a17bb1274446c3e7972407766c23aa4
 
 ## Resumen
 
-es para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 35 del 15 de Marzo del 2019 Exclúyase de la Resolución Exenta N° 78 de 23.08.2017 y de su anexo, al contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente Modifica Resolución Ex. SII N° 152, de 28 de diciembre de 2018, que fija valores de terrenos y construcciones para el reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, pr…
+ute;n de Asistencia al Contribuyente Modifica Resolución Ex. SII N° 152, de 28 de diciembre de 2018, que fija valores de terrenos y construcciones para el reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

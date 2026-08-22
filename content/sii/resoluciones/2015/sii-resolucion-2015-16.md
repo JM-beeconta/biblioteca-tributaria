@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2015
-- Fecha: 2015-03-04
+- Fecha: 2015-03-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso16.pdf
 - Hash SHA-256: f0c6519572e9d74177d22b31833bbba223a8d1352dd810ccb3c8260f22488489
 
 ## Resumen
 
-uyentes. Resolución Exenta SII N° 17 del 04 de Marzo del 2015 Delega en el Subdirector de Administración y en el Jefe del Departamento de Adquisiciones y Gestión de Contratos facultad de firmar en materia que indica. Fuente: Subdirección de Administración Reemplaza los formatos y las instrucciones de las Declaraciones Juradas Formularios N°s 1851, 1852 y 1853 y modifica la obligación de presentar dichas declaraciones. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 15 del 02 de Marzo del 2015 Autori…
+Administración Reemplaza los formatos y las instrucciones de las Declaraciones Juradas Formularios N°s 1851, 1852 y 1853 y modifica la obligación de presentar dichas declaraciones. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

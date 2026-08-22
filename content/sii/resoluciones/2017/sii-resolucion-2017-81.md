@@ -11,7 +11,7 @@
 
 ## Resumen
 
-' target='_blank'>Resolución Exenta SII N° 82 del 31 de Agosto del 2017 Establece forma y plazo para presentar Declaración Jurada Anual sobre determinación de la renta líquida imponible, renta atribuida a los propietarios, titulares, socios, accionistas de Spa o comuneros, Formulario N° 1923 e informar y certificar lo que se indica Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario Establece forma y plazo para presentar declaración jurada anual sobre dividendos distribuidos y créditos correspo…
+mplimiento Tributario Establece forma y plazo para presentar declaración jurada anual sobre dividendos distribuidos y créditos correspondientes por acciones en custodia Fuente: Departamento de Análisis Selectivo del Cuimplimiento Tributario
 
 ## Referencias detectadas
 

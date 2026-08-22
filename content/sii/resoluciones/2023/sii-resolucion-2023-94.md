@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span> Resolución Exenta SII N° 95 del 31 de Agosto del 2023 Instruye obligación de presentar formulario N°1956 declaración jurada anual, sobre donaciones informadas al ministerio de las culturas, las artes y el patrimonio, al ministerio de hacienda y a la secretaria técnica. Deja sin efecto resolución exenta SII N° 118 de 2014. Fuente: Subdirección de Fiscalización. Modifica resolución Ex. SII Nº 103 de 2017, que establece la obligación de presentar formulario N° 1945, declaración jurada anual sobre ingresos, dese…
+cción de Fiscalización. Modifica resolución Ex. SII Nº 103 de 2017, que establece la obligación de presentar formulario N° 1945, declaración jurada anual sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

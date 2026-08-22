@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2016
-- Fecha: 2016-08-24
+- Fecha: 2016-08-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso85.pdf
 - Hash SHA-256: 042616bc45b70578665c470f3e7a1a27539aa01dace0739efb2448116cf46385
 
 ## Resumen
 
-l Cumplimiento Triburtario Resolución Exenta SII N° 86 del 24 de Agosto del 2016 Dispone cambio de sujeto total de derecho del IVA en las ventas de chatarra. Deroga Resolución Ex. SII N°7, de 2003. Fuente: Derpartamento de Análisis Masivo del Cumplimiento Tributario Autoriza a la empresa Lojan SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 84 del 19 de…
+mplimiento Tributario Autoriza a la empresa Lojan SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

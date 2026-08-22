@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2024
-- Fecha: 2024-02-26
+- Fecha: 2024-02-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso28.pdf
 - Hash SHA-256: bcf8dbf3e3a9c25aaf9bcb50733abf110bf07329d04f19b8182a84cebd7e183a
 
 ## Resumen
 
-, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 29 del 26 de Febrero del 2024 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa. Instruye sobre prórroga del plazo para la presentación de los formularios números 29 y 50 hasta 28 de marzo de 2024, conforme al Decreto Supremo Nº 71 de 2024, del Ministerio de Hacienda. F…
+uente: Subdirección Normativa. Instruye sobre prórroga del plazo para la presentación de los formularios números 29 y 50 hasta 28 de marzo de 2024, conforme al Decreto Supremo Nº 71 de 2024, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

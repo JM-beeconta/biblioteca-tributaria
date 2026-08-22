@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eg; 176 de 2020. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 75 del 02 de Julio del 2021 Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las resoluciones EX. SII N°s 62 y 65 de 2021. Fuente: Subdirección de Fiscalización. Regula la exclusión de los bienes raíces correspondientes a la casa matriz y/o sucursal de los contribuyentes del regímen del artículo 14 letra d) de la Ley sobre impuesto a la renta, para efectos de la aplicación…
+cción de Fiscalización. Regula la exclusión de los bienes raíces correspondientes a la casa matriz y/o sucursal de los contribuyentes del regímen del artículo 14 letra d) de la Ley sobre impuesto a la renta, para efectos de la aplicación de la sobretasa establecida en el artículo 7 bis de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

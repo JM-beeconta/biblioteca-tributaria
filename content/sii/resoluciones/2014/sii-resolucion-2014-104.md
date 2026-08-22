@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2014
-- Fecha: 2014-11-12
+- Fecha: 2014-11-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso104.pdf
 - Hash SHA-256: 7cb0793991efd0e4aa626db25f9e06b1d400d80987862fab6b62ba4c529e006c
 
 ## Resumen
 
-ÓN Resolución Exenta SII N° 105 del 12 de Noviembre del 2014 Autoriza emisión en papel de documentos tributarios que deban ser emitidos en formato electrónico a los contribuyentes que indica. Fuente: Departamento de atención y asistencia de contribuyentes Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 103 del 05 de Noviembre del 2014 Autoriza a institucione…
+cia de contribuyentes Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

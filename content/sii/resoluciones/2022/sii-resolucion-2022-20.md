@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n simplificada del párrafo 7° bis del título II de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 21 del 24 de Febrero del 2022 Modifica las resoluciones Ex. SII N°55 y N°67, ambas de 2020. Fuente: Subdirección de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reso…
+cción de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

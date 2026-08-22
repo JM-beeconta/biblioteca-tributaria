@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tencia de Contribuyentes Resolución Exenta SII N° 78 del 23 de Septiembre del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 76 del 16 de Septiembre del 2015 Modifica Resolución Ex. N° 08,…
+cia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

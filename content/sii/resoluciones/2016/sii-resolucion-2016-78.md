@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sistencia al Contribuyente Resolución Exenta SII N° 79 del 09 de Agosto del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 77 del 09 de Agosto del 2016 Aprueba convenio de colab…
+Estudios Tributarios Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

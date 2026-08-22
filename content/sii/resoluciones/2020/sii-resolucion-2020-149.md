@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 149
 - Año: 2020
-- Fecha: 2020-12-02
+- Fecha: 2020-11-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso149.pdf
 - Hash SHA-256: 3fd41ada201ead524dcac936a4b91a11c34f0706a5022984941fe1cb1f6dacbe
 
 ## Resumen
 
-Resolución Exenta SII N° 150 del 02 de Diciembre del 2020 Establece procedimiento simplificado para otorgar RUT y eximir de obligaciones de dar aviso de inicio de actividades, llevar contabilidad y declarar anualmente sus rentas, a contribuyentes no domiciliados ni residentes en Chile. Deja sin efecto Resolución Exenta SII Nº 36, de 2011. Fuente: Subdirección de Fiscalización. Amplia plazo establecido por Resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 148 del 27…
+cción de Fiscalización. Amplia plazo establecido por Resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

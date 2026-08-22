@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 79 del 31 de Agosto del 2022 Instruye sobre la forma de comunicar a este Servicio de Impuestos Internos la calidad de inversionista institucional para efectos de no efectuar la retención que dispone el N°6 del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Incorpora nuevos códigos al formulario 50 sobre &ldquo;declaración y pago simultáneo mensual de impuestos&rdquo; para declarar y pagar la retención as…
+cción de Fiscalización. Incorpora nuevos códigos al formulario 50 sobre &ldquo;declaración y pago simultáneo mensual de impuestos&rdquo; para declarar y pagar la retención asociada al impuesto único del artículo 107 de la ley sobre impuesto a la renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

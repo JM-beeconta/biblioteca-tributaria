@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5 style='margin-bottom:0px;'> Resolución Exenta SII N° 72 del 31 de Agosto del 2022 Modifica Resolución Exenta SII N° 119 de 2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de Formulario N° 1921, en lo Relativo a sus obligados, y reemplaza sus Instrucciones. Fuente: Subdirección de Fiscalización. Reemplaza formato, contenido, definiciones e instrucciones de las declaraciones juradas que se indican, autoriza a del…
+cción de Fiscalización. Reemplaza formato, contenido, definiciones e instrucciones de las declaraciones juradas que se indican, autoriza a delegar la obligación de presentar las declaraciones juradas que se indican y modifica resolución exenta SII nº 126 de 2016 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

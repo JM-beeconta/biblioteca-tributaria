@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2013
-- Fecha: 2013-02-27
+- Fecha: 2013-02-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso29.pdf
 - Hash SHA-256: 0376aaf8f460250c6c69a6eb69c3aeee608b4a3419e39fd2622f533e570fbab5
 
 ## Resumen
 
-de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 30 del 27 de Febrero del 2013 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa. Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 28 del 22 de Febrero del 2013 Establece Declaración Jurada a prese…
+ión Normativa. Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

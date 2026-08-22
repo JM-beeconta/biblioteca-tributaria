@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2023
-- Fecha: 2023-05-04
+- Fecha: 2023-04-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso52.pdf
 - Hash SHA-256: 0e21aa8365ed05a97279af9de266be45b7e00d2a2369da8b6c6b758627980ce5
 
 ## Resumen
 
-> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 53 del 04 de Mayo del 2023 Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inci…
+tégica y Estudios Tributarios. Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Revoca Resolución Exenta SII N° 39, de 2022. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

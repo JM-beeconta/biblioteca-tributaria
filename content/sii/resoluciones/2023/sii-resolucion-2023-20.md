@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 20
 - Año: 2023
-- Fecha: 2023-03-03
+- Fecha: 2023-02-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso20.pdf
 - Hash SHA-256: cb6f59e3650df3d23623374246767ed1897c4b4d171390cfe72b340b08991317
 
 ## Resumen
 
-isterio de Hacienda, y delega facultades que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 21 del 03 de Marzo del 2023 Autoriza a emitir diariamente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Macul. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Macul. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

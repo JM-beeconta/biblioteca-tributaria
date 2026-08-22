@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2015
-- Fecha: 2015-05-15
+- Fecha: 2015-05-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso46.pdf
 - Hash SHA-256: 0488daa165fd905914614c8de553b583c5e54c687b9e0e2a8a544d4552fa40d7
 
 ## Resumen
 
-ttom:0px;'> Resolución Exenta SII N° 47 del 15 de Mayo del 2015 Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 13 bis del D.L. N° 828, de 1974. Fuente: Departamento de Sistemas de Fiscalización Aprueba convenio de colaboración entre Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos Fuente: Subdirección de Estudios Resolución Exenta SII N° 45 del 11 de Mayo de…
+Fiscalización Aprueba convenio de colaboración entre Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos Fuente: Subdirección de Estudios
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Tomé. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 34 del 11 de Marzo del 2024 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones. Inciso segundo del Artículo 3° e inciso segu…
+Subdirección Jurídica. Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones. Inciso segundo del Artículo 3° e inciso segundo del artículo 4°de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

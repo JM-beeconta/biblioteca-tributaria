@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 67
 - Año: 2025
-- Fecha: 2025-06-19
+- Fecha: 2025-06-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso67.pdf
 - Hash SHA-256: 16cb30e70a8e8c4ff38619bfc0c1c58efe113480fa3ea35b15b538617cee6fbf
 
 ## Resumen
 
-e forma en que los bancos comerciales deben cumplir la obligación a que se refiere el inciso segundo del artículo 89 del código tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 68 del 19 de Junio del 2025 Crea la oficina de relaciones internacionales. Fuente: Subdirección Normativa Establece medidas para asegurar el cumplimiento del deber de reserva de conformidad con el artículo 206 del código tributario Fuente: Subdirección Jurídica. Resolución Exenta SII N° 66 del 11 de Junio del 2025…
+Fuente: Subdirección Normativa Establece medidas para asegurar el cumplimiento del deber de reserva de conformidad con el artículo 206 del código tributario Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

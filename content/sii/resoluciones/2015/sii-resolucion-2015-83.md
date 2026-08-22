@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2015
-- Fecha: 2015-10-15
+- Fecha: 2015-09-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso83.pdf
 - Hash SHA-256: 176d4c8df6d64920de7561425443209b5d277e7fc01b3a2fed464dc8b8b1b3a6
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 84 del 15 de Octubre del 2015 Establece nuevas fechas de pago del Impuesto Territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Limari, de la IV Región de Coquimbo. Fuente: Subdirección de Avaluaciones Modifica Resolución Ex. SII N° 1, de 2015, que establece la forma en que los contribuyentes podrán acogerse al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el…
+ute;n de Avaluaciones Modifica Resolución Ex. SII N° 1, de 2015, que establece la forma en que los contribuyentes podrán acogerse al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el extranjero contenido en el artículo vigesimocuarto transitorio de la Ley N° 20.780 publicada en el Diario Oficial de 29 de septiembre de 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

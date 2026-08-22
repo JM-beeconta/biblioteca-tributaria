@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2023
-- Fecha: 2023-06-06
+- Fecha: 2023-05-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso64.pdf
 - Hash SHA-256: 338f16e9228ebe3867c0f1c03939857e401ba145f91b1bf225af3164d02d4b17
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 65 del 06 de Junio del 2023 Establece forma y plazo en que las organizaciones deportivas nacionales deberán informar al servicio las operaciones relacionadas con eventos deportivos dispuestos en la Ley N° 21.564. Fuente: Subdirección de Fiscalización. Designa secretaria titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de l…
+cción de Fiscalización. Designa secretaria titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de Apelaciones de La Serena Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

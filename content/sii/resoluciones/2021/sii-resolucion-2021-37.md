@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Establece forma en que los contribuyentes podrán acogerse y la forma de acreditar los ajustes respectivos, conforme al artículo trigésimo segundo transitorio de la Ley N° 21.210, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuestos cuyo origen corresponda a diferencias en la determinación del capital propio tributario informado al Servicio de Impuestos Internos. Fuente: Subdirección de Fiscalización. Establece formato de los Registros Tributarios de Rentas Empresariales…
+cción de Fiscalización. Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en el N°3 de la Letra D) del Artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

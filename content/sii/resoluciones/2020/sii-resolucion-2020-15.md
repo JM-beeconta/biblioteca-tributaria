@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2020
-- Fecha: 2020-02-05
+- Fecha: 2020-02-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso15.pdf
 - Hash SHA-256: 0eb6bee8378b865506cb93b2597933f5ce3847fb558478054e096d48713c49a1
 
 ## Resumen
 
-nternos e Instituto Profesional Aiep. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 16 del 05 de Febrero del 2020 Autoriza como Receptor Electrónico de Documentos Tributarios Electrónicos al Servicio de Salud Aconcagua Hospital de Putaendo. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos Fuente: Subdirección De Ges…
+cute;n de Asistencia al Contribuyente Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos Fuente: Subdirección De Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

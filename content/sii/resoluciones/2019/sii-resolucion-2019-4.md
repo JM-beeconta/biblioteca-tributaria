@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 4
 - Año: 2019
-- Fecha: 2019-01-21
+- Fecha: 2019-01-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso4.pdf
 - Hash SHA-256: e93543512774a650df567de7fbbea55c942f5008921c315c6c9e8e7aae7df73e
 
 ## Resumen
 
-Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 05 del 21 de Enero del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 04 del 16 de Enero del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras. F…
+ute;n de Asistencia al Contribuyente Resolución Exenta SII N° 04 del 16 de Enero del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

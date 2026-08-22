@@ -11,7 +11,7 @@
 
 ## Resumen
 
-conforme a lo dispuesto en el párrafo 7° ter del título ii de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 94 del 30 de Julio del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Regula la declaración y pago del IVA por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre…
+Subdirección Jurídica. Regula la declaración y pago del IVA por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 71
 - Año: 2020
-- Fecha: 2020-07-02
+- Fecha: 2020-06-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso71.pdf
 - Hash SHA-256: 3da5edc2ac35bfebe655f1f4ea5225b8b6b8c2f436739f3a649f6ea7a3002c18
 
 ## Resumen
 
-rgin-bottom:0px;'> Resolución Exenta SII N° 72 del 02 de Julio del 2020 Establece forma de cumplir con la obligación de remitir una copia a este Servicio, de la comunicación electrónica efectuada a la Dirección del Trabajo por aquellas empresas que ejecuten la medida subsidiaria señalada en la letra b) del artículo 157 ter del Código del trabajo. Fuente: Subdirección de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. Sii N° 42, de 30 de abril de…
+cción de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. Sii N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

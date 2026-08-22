@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nta SII N° 102 de 2017. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 126 del 30 de Septiembre del 2020 Reemplaza formato, contenido e instrucciones de declaraciones juradas y certificados que se indican y deja sin efecto las resoluciones que se señalan. Fuente: Subdirección de Fiscalización. Establece obligación de presentar declaración jurada anual sobre Trusts; fija formato y mecanismo de declaración; y deja sin efecto Resolución Exenta SII N° 46 de 2018. Fuente: Subdirección de Fiscalización.…
+cción de Fiscalización. Establece obligación de presentar declaración jurada anual sobre Trusts; fija formato y mecanismo de declaración; y deja sin efecto Resolución Exenta SII N° 46 de 2018. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

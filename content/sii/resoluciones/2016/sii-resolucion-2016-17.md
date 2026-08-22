@@ -11,7 +11,7 @@
 
 ## Resumen
 
-calización Resolución Exenta SII N° 18 del 15 de Marzo del 2016 Autoriza a Director de la Dirección de Grandes Contribuyentes para delegar en el Jefe del Departamento Jurídico de su dependencia las facultades que indica Fuente: Subdirección Jurídica Amplía plazo de presentación de la Declaración Jurada Anual Formulario N° 1924, sobre rentas y créditos correspondientes a propietarios, socios, comuneros o accionistas de contribuyentes acogidos al régimen tributario de la letra a) del artículo 14 ter de la Ley sobre…
+ute;n Jurídica Amplía plazo de presentación de la Declaración Jurada Anual Formulario N° 1924, sobre rentas y créditos correspondientes a propietarios, socios, comuneros o accionistas de contribuyentes acogidos al régimen tributario de la letra a) del artículo 14 ter de la Ley sobre Impuesto a la Renta, y el de su certificación respectiva Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

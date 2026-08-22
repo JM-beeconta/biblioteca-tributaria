@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 72 del 31 de Agosto del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 70 del 30 de Agosto del 2018 Fija plazo para…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

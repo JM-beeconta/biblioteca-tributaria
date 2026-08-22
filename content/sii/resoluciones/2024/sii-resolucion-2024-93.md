@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2024
-- Fecha: 2024-10-10
+- Fecha: 2024-09-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso93.pdf
 - Hash SHA-256: 5473ba39983f56e59e2a045d40447c93c9db9d62eea5c3e296ce2b4f60646e60
 
 ## Resumen
 
-ute;n Estratégica y Estudios Tributarios. Resolución Exenta SII N° 94 del 10 de Octubre del 2024 Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad a los artículos 33 BIS N°1 y 62 TER del código tributario. Deja sin efecto Resolución Exenta N° 48, de 2018. Fuente: Subdirección de Fiscalización. Aprueba convenio de colaboración específico entre Servicio de Impuestos Internos y la facultad de economía y negocios de la Universidad de Chile. Fuente: Subdirección Desarrol…
+cción de Fiscalización. Aprueba convenio de colaboración específico entre Servicio de Impuestos Internos y la facultad de economía y negocios de la Universidad de Chile. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

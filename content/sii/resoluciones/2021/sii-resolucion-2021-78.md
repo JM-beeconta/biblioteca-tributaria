@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2021
-- Fecha: 2021-07-08
+- Fecha: 2021-07-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso78.pdf
 - Hash SHA-256: 6768684275da702158feb066263e5f0ad0b6c1a1b32b1ea6692b2253cf5b488f
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 79 del 08 de Julio del 2021 Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las Resoluciones Ex. SII N°s 62, 65 y 75 de 2021. Fuente: Subdirección de Fiscalización. Autoriza a Administradora de Tarjetas y Créditos Limitada rut 77.119.397-8 y Banco del Estado de Chile, rut 97.030.000-7 a emitir boleta electrónica de ventas y servicios en…
+cción de Fiscalización. Autoriza a Administradora de Tarjetas y Créditos Limitada rut 77.119.397-8 y Banco del Estado de Chile, rut 97.030.000-7 a emitir boleta electrónica de ventas y servicios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

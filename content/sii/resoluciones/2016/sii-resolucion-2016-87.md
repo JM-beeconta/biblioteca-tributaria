@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2016
-- Fecha: 2016-08-31
+- Fecha: 2016-08-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso87.pdf
 - Hash SHA-256: 92b8410fac7f40394aa01248361c533c3ce1ddd8446cccc2c5c980c6db9f2edb
 
 ## Resumen
 
-om:10px;'> Fuente: Departamento de Operaciones Resolución Exenta SII N° 89 del 31 de Agosto del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Centro de Conocimiento Tributario CCT Chile SPA Fuente: Subdirección de Asuntos Corporativos Determina que el Estado Autónomo de Curazao tiene un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, en conformidad a lo señalado en el artículo 41 h de dicha ley. Fuente: Departamento de Análisis Selectivo del Cumplimie…
+Asuntos Corporativos Determina que el Estado Autónomo de Curazao tiene un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, en conformidad a lo señalado en el artículo 41 h de dicha ley. Fuente: Departamento de Análisis Selectivo del Cumplimiento Triburtario
 
 ## Referencias detectadas
 

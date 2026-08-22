@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-top:0px;margin-bottom:0px;'> Establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común, destinados a producir ingresos afectos al régimen general de primera categoría, ingresos no renta y/o rentas exentas de los impuestos finales, conforme lo dispuesto en el N° 3), de la letra e), del N°1 del artículo 33 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Autoriza a RED APOYO SA., Rut 76.948.390-K, p…
+cción de Fiscalización. Autoriza a RED APOYO SA., Rut 76.948.390-K, para retener y enterar en arcas fiscales el impuesto al valor agregado, según se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

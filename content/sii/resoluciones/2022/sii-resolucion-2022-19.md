@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2022
-- Fecha: 2022-02-24
+- Fecha: 2022-02-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso19.pdf
 - Hash SHA-256: 662c4e50d000d4c4286eb1a844514647c7e9ba191843f5dff70b1a55993375e6
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 20 del 24 de Febrero del 2022 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 18 del 22 de Febrero del 2022 Aprueba Convenio…
+tégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

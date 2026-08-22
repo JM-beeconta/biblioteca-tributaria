@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 95
 - Año: 2016
-- Fecha: 2016-09-29
+- Fecha: 2016-09-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso95.pdf
 - Hash SHA-256: 9381eef41ca98f9f8a9729fb807ec611b3389c8628a51a07f8ee1f935401ac5c
 
 ## Resumen
 
-normativa_legislacion/resoluciones/2016/reso96.pdf' target='_blank'>Resolución Exenta SII N° 96 del 29 de Septiembre del 2016 Establece forma y oportunidad en que las empresas constructoras deben cumplir con la obligación de informar el uso del beneficio tributario establecido en la Ley N° 20.365, de 2009 modificada por la Ley N° 20.897, de 2016. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza como receptor electrónico de documentos tributarios electrónicos a los siguientes organismos…
+mplimiento Tributario Autoriza como receptor electrónico de documentos tributarios electrónicos a los siguientes organismos públicos: Hospital Clínico de Magallanes, Dr. Lautaro Navarro Avaria; y Subsecretaría de las Fuerzas Armadas Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

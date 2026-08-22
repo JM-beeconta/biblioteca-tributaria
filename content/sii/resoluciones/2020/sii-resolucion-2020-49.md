@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2020
-- Fecha: 2020-05-04
+- Fecha: 2020-04-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso49.pdf
 - Hash SHA-256: 54f424cfd5a40d15fd2e6f77a06cd39ab3f44a6462bc79153fe598e2ad4bf181
 
 ## Resumen
 
-ección de Asistencia al Contribuyente. Resolución Exenta SII N° 50 del 04 de Mayo del 2020 Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° Fuente: Subdirección de Asuntos Corporativos. Crea modelo de certificado Nº 66 sobre donaciones asociadas al brote mundial del virus denominado CORONAVIRUS-2 o COVID-19. Fuente: Subdirección de Fis…
+cción de Asuntos Corporativos. Crea modelo de certificado Nº 66 sobre donaciones asociadas al brote mundial del virus denominado CORONAVIRUS-2 o COVID-19. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

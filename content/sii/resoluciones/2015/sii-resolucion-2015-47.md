@@ -11,7 +11,7 @@
 
 ## Resumen
 
-agador de una renta o cantidad al beneficiario residente en un país con el que exista un convenio vigente para evitar la doble tributación internacional, con el objeto de acreditar las circunstancias señaladas en el n° 4, del artículo 74 de la ley sobre impuesto a la renta, y el agente retenedor pueda no efectuar la retención del impuesto o efectuarla aplicando una tasa rebajada en virtud de lo establecido en dicho convenio. Fuente: Subdirección de Fiscalización Determina contribuyentes obligados a aplicar a los r…
+Fiscalización Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 13 bis del D.L. N° 828, de 1974. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

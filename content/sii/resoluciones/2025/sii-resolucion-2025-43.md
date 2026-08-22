@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 43
 - Año: 2025
-- Fecha: 2025-04-07
+- Fecha: 2025-04-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso43.pdf
 - Hash SHA-256: 94fbda140242e7f9e83ecc8ef96aa96bdddad8bb18aa2cd340b5b5a92916920c
 
 ## Resumen
 
-ute;n para el desarrollo regional. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 44 del 07 de Abril del 2025 Instruye sobre forma de documentar e identificar al pagador en las operaciones de venta conforme al artículo 92 ter del código tributario. Fuente: Subdirección de Asistencia al Contribuyente Regula procedimiento para el ejercicio de la facultad de acceso a la información bancaria de que tratan los artículos 62 y 62 bis del código tributario. Fuente: Subdirección de Fiscalización Resolución…
+cute;n de Asistencia al Contribuyente Regula procedimiento para el ejercicio de la facultad de acceso a la información bancaria de que tratan los artículos 62 y 62 bis del código tributario. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

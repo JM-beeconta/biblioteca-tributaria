@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tas electrónicas en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 17 del 06 de Febrero del 2019 Complementa Resolución Exenta SII N° 149.- de 28 de diciembre de 2018, en los términos que indica. Fuente: Subdirección de Fiscalización Establece plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Tra…
+cción de Fiscalización Establece plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nt-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia de Contribuyentes Resolución Exenta SII N° 23 del 23 de Marzo del 2016 Exime del timbraje de pagarés a contribuyente que indica. Fuente: Departamento de Atención y Asistencia de Contribuyente Modifica Res. Ex. Sii N°18 de 22.04.2003, en la forma de la emisión de representaciones impresas de documentos tributarios electrónicos en un ancho mínimo de 5,7 centímetros. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta…
+ncia de Contribuyente Modifica Res. Ex. Sii N°18 de 22.04.2003, en la forma de la emisión de representaciones impresas de documentos tributarios electrónicos en un ancho mínimo de 5,7 centímetros. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

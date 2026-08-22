@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2016
-- Fecha: 2016-04-15
+- Fecha: 2016-04-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso34.pdf
 - Hash SHA-256: 3d753c64565ce2c2f881e5932781b6db1ff6e3249cada5cb12f10a85814db3b0
 
 ## Resumen
 
-;n Informática Resolución Exenta SII N° 35 del 15 de Abril del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección Jurídica Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 33 del 14 de Abril del 2016 Autoriza a proceder conforme al modelo de operaci…
+ute;n Jurídica Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2020
-- Fecha: 2020-09-02
+- Fecha: 2020-09-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso103.pdf
 - Hash SHA-256: b120557ef772ed49df63165ebef09077c263ea3458dadc6277098f49cfdd1a62
 
 ## Resumen
 
-Subdirección de Avaluaciones. Resolución Exenta SII N° 104 del 02 de Septiembre del 2020 Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 74 de fecha 02 de julio de 2020, que instruye procedimiento para emitir boletas electrónicas y boletas no afectas y exentas electrónicas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

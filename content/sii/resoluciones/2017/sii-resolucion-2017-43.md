@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ue señalan. Fuente: Departamento de Operaciones Resolución Exenta SII N° 44 del 05 de Mayo del 2017 Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Establece forma y oportunidad en que los contribuyentes del impuesto de primera categoría acogidos a los regímenes tributarios: art. 14 letra a), renta presunta, o art. 14 ter deben cumplir con la obligación de informar los criterios para la distribución de utilidades, estableci…
+randes Contribuyentes Establece forma y oportunidad en que los contribuyentes del impuesto de primera categoría acogidos a los regímenes tributarios: art. 14 letra a), renta presunta, o art. 14 ter deben cumplir con la obligación de informar los criterios para la distribución de utilidades, establecida en el n° 6 de la letra a) del artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

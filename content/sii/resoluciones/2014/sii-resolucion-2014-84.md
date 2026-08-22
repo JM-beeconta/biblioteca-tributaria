@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i>Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 85 del 22 de Agosto del 2014 Reemplaza plano de precios de la comuna de Melipilla contenido Resolución Ex. SII N°132 de 31.12.2012. Fuente: Subdirección de Avaluaciones Anexa tablas de Coeficientes Guías de terreno a plano de precios de la comuna de Melipilla contenido en la resolución Ex. SII N°108 de 27.12.2013. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 83 del 22 de Agosto del 2014 Complementa Resolució…
+ute;n de Avaluaciones Anexa tablas de Coeficientes Guías de terreno a plano de precios de la comuna de Melipilla contenido en la resolución Ex. SII N°108 de 27.12.2013. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

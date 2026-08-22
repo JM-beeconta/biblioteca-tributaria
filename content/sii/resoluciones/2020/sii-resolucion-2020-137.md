@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 137
 - Año: 2020
-- Fecha: 2020-10-29
+- Fecha: 2020-10-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso137.pdf
 - Hash SHA-256: e8b592020498395157af11ccf26d364ebd4e9f67e438bbcecfada462f5cf36b5
 
 ## Resumen
 
-os organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 138 del 29 de Octubre del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Exime a centro de servicios médicos porvenir limitada de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.l. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdir…
+ute;n de Asistencia al Contribuyente. Exime a centro de servicios médicos porvenir limitada de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.l. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

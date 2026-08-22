@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del 2019 Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 41 de 2018. Fuente: Subdirección de Asuntos Corporativos Modifica territorios jurisdiccionales de la XIII y XV Direcciones Reg…
+cción de Asuntos Corporativos Modifica territorios jurisdiccionales de la XIII y XV Direcciones Regionales Metropolitanas Santiago Centro y Santiago Oriente y cambia dependencia de Unidad de Ñuñoa y Central Metropolitana de Timbraje. Fuente: Subdirección Desarrollo de Personas
 
 ## Referencias detectadas
 

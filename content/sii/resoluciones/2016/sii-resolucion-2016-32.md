@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2016
-- Fecha: 2016-04-14
+- Fecha: 2016-04-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso32.pdf
 - Hash SHA-256: dd91a3dbde26604f9e0bcae3a90f72af32f80249ded745b599011d7ec703a8d0
 
 ## Resumen
 
-o del Cumplimiento Tributario Resolución Exenta SII N° 33 del 14 de Abril del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes Imparte instrucciones sobre la obligación de informar al Servicio de Impuestos Internos, la opción de tributación sobre el saldo de utilidades acumuladas para los contribuyentes que se incorporaron al régimen simplificado de la letra a) del artículo 14 ter de la…
+cia de Contribuyentes Imparte instrucciones sobre la obligación de informar al Servicio de Impuestos Internos, la opción de tributación sobre el saldo de utilidades acumuladas para los contribuyentes que se incorporaron al régimen simplificado de la letra a) del artículo 14 ter de la Ley sobre Impuesto a la Renta a partir del 1° de enero de 2015 o del 1° de enero de 2016, según corresponda. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

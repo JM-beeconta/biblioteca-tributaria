@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ditos y ppm puestos a disposición de los socios, formulario Nº 1837. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 50 del 10 de Mayo del 2021 Complementa resolución exenta sii n° 168 de 28 de diciembre de 2020, en los términos que Indica Fuente: Subdirección de Fiscalización Modifica resolucion exenta sii n° 146, de 2020, sobre delegacion de facultades. Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 48 del 07 de Mayo del 2021 Determina forma y plazo en que el ministerio…
+ección de Fiscalización Modifica resolucion exenta sii n° 146, de 2020, sobre delegacion de facultades. Fuente: Subdirección de Desarrollo de Personas.
 
 ## Referencias detectadas
 

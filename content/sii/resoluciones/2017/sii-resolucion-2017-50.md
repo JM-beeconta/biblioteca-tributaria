@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 51 del 19 de Mayo del 2017 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiónes de Atacama y Coquimbo Fuente: Departamento de Operaciones Resolución Exenta SII N° 49 del 16 de Mayo del 2017…
+mplimiento Tributario Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiónes de Atacama y Coquimbo Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

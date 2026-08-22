@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 162
 - Año: 2020
-- Fecha: 2020-12-18
+- Fecha: 2020-12-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso162.pdf
 - Hash SHA-256: 80d4d7d990d8f23d251476140d98e209c6efeed3c6ba496877783d6f0d4d8338
 
 ## Resumen
 
-rganismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 163 del 18 de Diciembre del 2020 Dispone procedimiento para el envío de boletas electrónicas de los contribuyentes que cumplan los requisitos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece obligación de las administradoras de fondos de pensiones de informar, en la forma y plazo que se señala, los montos de los retiros efectuados por los afiliados en conformidad la Ley N° 21.295.…
+ute;n de Asistencia al Contribuyente. Establece obligación de las administradoras de fondos de pensiones de informar, en la forma y plazo que se señala, los montos de los retiros efectuados por los afiliados en conformidad la Ley N° 21.295. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

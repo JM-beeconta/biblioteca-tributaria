@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2015
-- Fecha: 2015-03-27
+- Fecha: 2015-03-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso30.pdf
 - Hash SHA-256: c3593d08b1ea619960cf3f6c35a61b1a67f96bfebe18b4f73b75fbf77b1e46af
 
 ## Resumen
 
-n> Resolución Exenta SII N° 31 del 27 de Marzo del 2015 Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las regiones de Antofagasta, Atacama y Coquimbo Fuente: Departamento de Sistemas de Fiscalización Establece procedimiento para los distribuidores de gas natural comprimido (GNC) de origen no fósil, que deseen acogerse a la exención del impuestos a los combustibles dispuesta en el inciso quinto del artículo 1° de la Ley N° 18.502 Fuente: Dep…
+Fiscalización Establece procedimiento para los distribuidores de gas natural comprimido (GNC) de origen no fósil, que deseen acogerse a la exención del impuestos a los combustibles dispuesta en el inciso quinto del artículo 1° de la Ley N° 18.502 Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

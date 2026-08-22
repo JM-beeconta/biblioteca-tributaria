@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2018
-- Fecha: 2018-08-29
+- Fecha: 2018-08-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso68.pdf
 - Hash SHA-256: 81521704060ad55ef951cdba357e31acbefd9490fefa2bd35931ce767241ab6b
 
 ## Resumen
 
-p> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 69 del 29 de Agosto del 2018 Autoriza a empresa MDTICKET CHILE SPA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Procedimiento de solicitud de inscripción en Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal, Cuya Comercialización Se Ha Vuelto Inviable. Fuen…
+ute;n de Asistencia al Contribuyente Procedimiento de solicitud de inscripción en Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal, Cuya Comercialización Se Ha Vuelto Inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

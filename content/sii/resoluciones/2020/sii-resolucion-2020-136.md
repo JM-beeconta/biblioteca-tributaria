@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 136
 - Año: 2020
-- Fecha: 2020-10-28
+- Fecha: 2020-10-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso136.pdf
 - Hash SHA-256: 1c06bd8132fded9cee2476c7ec4bcf9a502df1d01dad68edcdfed2d5107777f8
 
 ## Resumen
 
-uente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 137 del 28 de Octubre del 2020 Exime a centro de servicios médicos porvenir limitada de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.l. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento de verificación de antecedentes para determinar el cumplimiento de requisitos de procedencia del beneficio del artículo 5 del artículo pri…
+ute;n de Asistencia al Contribuyente. Establece procedimiento de verificación de antecedentes para determinar el cumplimiento de requisitos de procedencia del beneficio del artículo 5 del artículo primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada COVID-19. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

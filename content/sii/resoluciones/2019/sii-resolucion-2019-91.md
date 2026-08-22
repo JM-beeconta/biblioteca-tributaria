@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 91
 - Año: 2019
-- Fecha: 2019-07-31
+- Fecha: 2019-07-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso91.pdf
 - Hash SHA-256: c48a257006e51a8670a8ac523b11982f3797fa4252a15b12cd4e8db8f2c3cfb8
 
 ## Resumen
 
-n la cual el contribuyente obligado deberá contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 92 del 31 de Julio del 2019 Rectifica lista anexa de la Resolución Exenta N° 03, de 2019. Fuente: Subdirección de Avaluaciones Exime a FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS &ldquo;PAR&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de…
+Subdirección de Avaluaciones Exime a FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS &ldquo;PAR&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ación Internacional Resolución Exenta SII N° 08 del 16 de Enero del 2014 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 07 del 16 de Enero del 2014 Autoriza a Comercializadora Toma Ticket limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Departamento de Atención y A…
+cia de Contribuyentes Resolución Exenta SII N° 07 del 16 de Enero del 2014 Autoriza a Comercializadora Toma Ticket limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

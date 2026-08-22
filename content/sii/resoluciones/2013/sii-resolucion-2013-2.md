@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones. Resolución Exenta SII N° 03 del 09 de Enero del 2013 Asigna funciones de Secretario General al funcionario que indica, respecto de los planos de precios preparados por las Direcciones Regionales y designa subrogante. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 02 del 09 de Enero del 2013 Modifica Resoluciones Exentas SII N° 114 de 21 de julio de 2010 y N°153 de 23 de diciembre de 2011. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 01 del 08 de Enero del 2013 Auto…
+te;n de Avaluaciones. Resolución Exenta SII N° 02 del 09 de Enero del 2013 Modifica Resoluciones Exentas SII N° 114 de 21 de julio de 2010 y N°153 de 23 de diciembre de 2011. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2023
-- Fecha: 2023-01-10
+- Fecha: 2023-01-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso1.pdf
 - Hash SHA-256: 3cf4b4a9833d76ee6aa395d0a0f78050e94ce68598c7ebc2a719c0c31f02176b
 
 ## Resumen
 
-rvicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 10 de Enero del 2023 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 09 de Enero del 2023 Exime a Claro Chile SPA de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 09 de Enero del 2023 Exime a Claro Chile SPA de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/doc…
 
 ## Referencias detectadas
 

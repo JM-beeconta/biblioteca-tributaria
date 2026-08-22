@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 121
 - Año: 2018
-- Fecha: 2018-06-29
+- Fecha: 2018-12-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso121.pdf
 - Hash SHA-256: 720550e690de880d1a57bbcacd8446fa88def3063940bc7627d784df0b308701
 
 ## Resumen
 
-;n Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 122 del 06 de Diciembre del 2018 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Exime a CORPORACIÓN CULTIVA de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 120 del 0…
+ute;n de Asistencia al Contribuyente Exime a CORPORACIÓN CULTIVA de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

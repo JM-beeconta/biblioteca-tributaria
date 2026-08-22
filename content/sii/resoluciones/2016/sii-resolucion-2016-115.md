@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ciones/2016/reso116.pdf' target='_blank'>Resolución Exenta SII N° 116 del 26 de Diciembre del 2016 Deroga Res. Ex. N° 15, de 30.01.2008 y establece nuevo formato de Declaración Jurada Anual F1811 sobre compras de minerales y/o retenciones de impuestos a que se refieren los artículos 73 y 74 N°6, ambos de la Ley sobre Impuesto a la renta Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Modifica la Resolución Ex. N° 187 de 2010 en cuanto reemplaza formato Formulario N° 1805 e instrucciones de l…
+mplimiento Tributario Modifica la Resolución Ex. N° 187 de 2010 en cuanto reemplaza formato Formulario N° 1805 e instrucciones de llenado. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

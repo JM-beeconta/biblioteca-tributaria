@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 69 del 28 de Junio del 2024 Designa responsables de procesos, delega facultades que indica y deja sin efecto resolución que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece nuevo aplicativo de declaración, para que las municipalidades informen al Servicio de Impuestos Internos respecto de las recepciones definitivas de construcciones y, o regularizaciones que otor…
+tégica y Estudios Tributarios. Establece nuevo aplicativo de declaración, para que las municipalidades informen al Servicio de Impuestos Internos respecto de las recepciones definitivas de construcciones y, o regularizaciones que otorguen. Deja sin efecto la Resolución Exenta SII N° 114 del año 2017. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

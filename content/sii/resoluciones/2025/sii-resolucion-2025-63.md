@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2025
-- Fecha: 2025-05-27
+- Fecha: 2025-05-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso63.pdf
 - Hash SHA-256: 482af73cbda38968a3197a72930b075020f431a3e8e67391f84a2cb49a1fdf0c
 
 ## Resumen
 
-io de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 64 del 27 de Mayo del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Autoriza a Banco Santander Chile, Rut n° 97.036.000-k, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 62…
+: Subdirección Jurídica Autoriza a Banco Santander Chile, Rut n° 97.036.000-k, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

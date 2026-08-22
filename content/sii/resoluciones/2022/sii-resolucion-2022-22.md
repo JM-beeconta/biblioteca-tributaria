@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/p> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 23 del 25 de Febrero del 2022 Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para solicitar la devolución o imputación del IVA, intereses, reajustes o multas pagados en exceso por contribuyentes extranjeros sujetos al régimen de tributación simplificada del párrafo…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para solicitar la devolución o imputación del IVA, intereses, reajustes o multas pagados en exceso por contribuyentes extranjeros sujetos al régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

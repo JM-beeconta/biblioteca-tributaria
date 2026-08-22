@@ -11,7 +11,7 @@
 
 ## Resumen
 
-las entidades relacionadas que se indican informen a la empresa o sociedad respectiva, el monto total de los ingresos de su giro percibidos o devengados en el ejercicio respectivo, para determinar si se cumplen los límites de ingresos para efectos de acogerse y/o permanecer en el régimen simplificado de la letra a), del Artículo 14 Ter o en el régimen de renta presunta del Artículo 34, ambos de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización Establece formato de determinación de la renta lí…
+Fiscalización Establece formato de determinación de la renta líquida imponible y de los registros que deben llevar los contribuyentes, según el régimen de tributación por el cual opten a partir del 1 de enero de 2017, conforme a lo dispuesto en el Artículo 14 de la Ley sobre Impuesto a la enta, vigente a partir de dicha fecha. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

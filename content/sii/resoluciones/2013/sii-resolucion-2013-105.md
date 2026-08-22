@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2013
-- Fecha: 2013-12-24
+- Fecha: 2013-12-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso105.pdf
 - Hash SHA-256: e07535f2b2b9426275fdf4562526c8dc64d24fd9caab57be7ff188866a85dcc6
 
 ## Resumen
 
-epartamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 106 del 24 de Diciembre del 2013 Reemplaza estructura y contenido de Declaración Juradas y Certificados que se indican Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 104 del 17 de Diciembre del 2013 Autoriza a institució…
+ueñas Empresas Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

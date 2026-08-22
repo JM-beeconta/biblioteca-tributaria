@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2021
-- Fecha: 2021-09-01
+- Fecha: 2021-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso104.pdf
 - Hash SHA-256: 6bfda37b85645639fc11ad45a91950b83260da8b56aeffc7cc8b10d08f82b223
 
 ## Resumen
 
-: Subdirección de Fiscalización. Resolución Exenta SII N° 105 del 01 de Septiembre del 2021 Aprueba convenio de prestación de servicios De consulta sobre estado de vigencia de Documentos de identidad entre el servicio de Registro civil e identificación y el servicio de Impuestos internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyen…
+tégica y Estudios Tributarios. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

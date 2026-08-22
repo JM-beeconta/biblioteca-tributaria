@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 137
 - Año: 2025
-- Fecha: 2025-10-09
+- Fecha: 2025-10-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso137.pdf
 - Hash SHA-256: 081de3f7cb055d2c442091037062ea5dacb6199bef4f66b55e3fce7fe26f5130
 
 ## Resumen
 
-bodegas de mercadolibre chile ltda. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 138 del 09 de Octubre del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación Superior y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyen…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación Superior y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

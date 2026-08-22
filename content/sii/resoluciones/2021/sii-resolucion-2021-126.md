@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 126
 - Año: 2021
-- Fecha: 2021-11-11
+- Fecha: 2021-11-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso126.pdf
 - Hash SHA-256: 25018e889932d8990ac079e79ccba06f7c05688fc3d1f38cd52173a736676b28
 
 ## Resumen
 
-que se indican, para el año tributario 2022. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 127 del 11 de Noviembre del 2021 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 125 del 08 de Noviembre del 2021 Destrucción de productos alimenticios cuya comercialización se…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

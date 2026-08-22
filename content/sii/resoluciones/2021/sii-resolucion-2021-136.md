@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 137 del 20 de Diciembre del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reorganiza las unidades que conforman el departamento Subdirección de Desarrollo de Personas, establece funciones, ámbito de competencia y deja sin efecto Res. Ex SII Nº…
+tégica y Estudios Tributarios. Reorganiza las unidades que conforman el departamento Subdirección de Desarrollo de Personas, establece funciones, ámbito de competencia y deja sin efecto Res. Ex SII Nº 13, 2016 Y Res. Ex. SII Nº 77, 2017. Fuente: Subdirección de Desarrollo de Personas.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-iable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 117 del 27 de Noviembre del 2018 Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 115 del 23 de Noviembre del 2018 Ex…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

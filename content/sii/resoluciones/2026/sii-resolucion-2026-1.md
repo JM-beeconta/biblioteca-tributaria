@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2026
-- Fecha: 2026-01-07
+- Fecha: 2026-01-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso1.pdf
 - Hash SHA-256: 412944d29a5a548fa86476cdb4a8b234150aff147579f1e59de3f7e1043166a7
 
 ## Resumen
 
-de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 02 del 07 de Enero del 2026 Implementa firma digital centralizada para la emisión de boletas electrónicas a través del sistema gratuito del sii Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 01 del 05 de Enero del 2026 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección…
+cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 01 del 05 de Enero del 2026 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.…
 
 ## Referencias detectadas
 

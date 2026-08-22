@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2015
-- Fecha: 2015-04-01
+- Fecha: 2015-03-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso33.pdf
 - Hash SHA-256: c1e8e08850f46fc3add3b9354bc60b666d1c34d11189d2dc26e51e9b801a10a3
 
 ## Resumen
 
-0px;'> Fuente: Oficina de Análisis de la Jurísprudencia Resolución Exenta SII N° 34 del 01 de Abril del 2015 Complementa Resoluciones Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Aprueba norma general de participación ciudadana del Servicio de Impuestos Internos Fuente: Oficina de Análisis de Jurisprudencia Resolución Exenta SII N° 32 del 30 de Marzo del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercial…
+randes Contribuyentes Aprueba norma general de participación ciudadana del Servicio de Impuestos Internos Fuente: Oficina de Análisis de Jurisprudencia
 
 ## Referencias detectadas
 

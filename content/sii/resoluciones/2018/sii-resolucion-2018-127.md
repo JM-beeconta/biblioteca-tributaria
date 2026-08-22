@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 128 del 14 de Diciembre del 2018 Autoriza a contribuyente que indica para emitir Boletas de Prestación de Servicios de Terceros Electrónicas Fuente: Subdirección de Asistencia al Contribuyente Establece procedimiento por el cual las Sociedades Administradoras de Fondos deberán obtener RUT y actualizar la información de cada uno de los fondos que administran, según lo dispuesto en la Ley N° 20.712 del 2014…
+ute;n de Asistencia al Contribuyente Establece procedimiento por el cual las Sociedades Administradoras de Fondos deberán obtener RUT y actualizar la información de cada uno de los fondos que administran, según lo dispuesto en la Ley N° 20.712 del 2014, modificada por las Leyes N° 20.780 del 2014 y, Ley N° 20.899 del 2016. Se reemplaza y deroga la resolución exenta SII N° 28 de 08.03.2017 Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

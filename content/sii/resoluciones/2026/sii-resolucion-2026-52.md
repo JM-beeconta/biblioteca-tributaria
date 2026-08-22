@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ottom:0px;'>Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 53 del 10 de Abril del 2026 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de las obligaciones establecidas en la resolución ex. SII N° 154 de 2025, que fija exigencias sobre las facturas y guías de despacho que amparan el traslado…
+ute;n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de las obligaciones establecidas en la resolución ex. SII N° 154 de 2025, que fija exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

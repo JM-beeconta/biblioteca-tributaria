@@ -11,7 +11,7 @@
 
 ## Resumen
 
-='margin-bottom:0px;'> Resolución Exenta SII N° 25 del 22 de Febrero del 2013 Extiende obligación de presentar Declaración Jurada sobre retiros de excedentes de libre disposición y su certificación respectiva a otras instituciones que administren estos recursos. Fuente: Subdirección de Fiscalización Establece Declaración Jurada a presentar por las Instituciones de Educación Pre-Escolar, Básica, Diferencial y Media reconocidas por el Estado y obligación de certificar, respecto del cumplimiento del requisito de asis…
+Fiscalización Establece Declaración Jurada a presentar por las Instituciones de Educación Pre-Escolar, Básica, Diferencial y Media reconocidas por el Estado y obligación de certificar, respecto del cumplimiento del requisito de asistencia de sus alumnos matriculados, para la procedencia del crédito por gastos relacionados con la Educación establecido en el Articulo 55 ter de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-° 48, de 2018. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 93 del 12 de Septiembre del 2024 Aprueba convenio de colaboración específico entre Servicio de Impuestos Internos y la facultad de economía y negocios de la Universidad de Chile. Fuente: Subdirección Desarrollo de las Personas Aprueba Addendum de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Trib…
+ión Desarrollo de las Personas Aprueba Addendum de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

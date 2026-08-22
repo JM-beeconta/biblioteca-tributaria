@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e Elusión Resolución Exenta SII N° 67 del 06 de Julio del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Asuntos Corporativos Reorganiza las unidades que conforman el Departamento Subdirección de Administración establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Administración Resolución Exenta SII N° 65 del 06 de Julio del 2016 Reorganiza las uni…
+Asuntos Corporativos Reorganiza las unidades que conforman el Departamento Subdirección de Administración establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

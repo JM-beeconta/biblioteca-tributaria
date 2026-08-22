@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2024
-- Fecha: 2024-05-23
+- Fecha: 2024-05-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso59.pdf
 - Hash SHA-256: 0466ea6164c40456f41dd762f654ede3786b9921c691bc88bdb0edad50f6492c
 
 ## Resumen
 
-oración entre el Servicio de Impuestos Internos y la Subsecretaría de Energía. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 60 del 23 de Mayo del 2024 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 58 del 16 de Mayo del 2024 Autori…
+Subdirección Jurídica. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

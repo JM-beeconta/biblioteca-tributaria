@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Oficina de Gestión Normativa. Resolución Exenta SII N° 29 del 22 de Febrero del 2013 Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes Establece Declaración Jurada a presentar por las Instituciones de Previsión del régimen antiguo administradas por el Instituto de Previsión Social, Dirección de Previsión de Carabineros de Chile o Caja de Previsión de la Defensa Nacional. Fuente: Subdirección de Fiscal…
+cia de Contribuyentes Establece Declaración Jurada a presentar por las Instituciones de Previsión del régimen antiguo administradas por el Instituto de Previsión Social, Dirección de Previsión de Carabineros de Chile o Caja de Previsión de la Defensa Nacional. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

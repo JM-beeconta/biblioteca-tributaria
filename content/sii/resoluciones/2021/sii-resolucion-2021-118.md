@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tilde;alan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 119 del 15 de Octubre del 2021 Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Dispone cierre de la central metropolitana de timbraje e instruye sobre autorización de documentos tributarios de contribuyentes que se indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolu…
+ute;n de Asistencia al Contribuyente. Dispone cierre de la central metropolitana de timbraje e instruye sobre autorización de documentos tributarios de contribuyentes que se indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

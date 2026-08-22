@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bdirección de Fiscalización. Resolución Exenta SII N° 129 del 30 de Septiembre del 2020 Modifica Resoluciones Exentas SII Nºs 20 de 2015 y 99 de 2017, que establecen la obligación de presentar Declaración Jurada anual Nº 1922 y de emitir los certificados N°s 43 y 44, adecuándolos a la normativa vigente. Fuente: Subdirección de Fiscalización. Fija plazo para la presentación de Declaraciones Juradas que se indican, para el año tributario 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 127 del 3…
+cción de Fiscalización. Fija plazo para la presentación de Declaraciones Juradas que se indican, para el año tributario 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

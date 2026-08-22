@@ -11,7 +11,7 @@
 
 ## Resumen
 
-to de Operaciones Resolución Exenta SII N° 32 del 15 de Marzo del 2017 Modifica Resolución Exenta N° 03, de 09.01.2013, que asigna funciones de Secretario General al funcionario que indica, respecto de los planos de precios preparados por las Direcciones Regionales y designa subrogante. Fuente: Oficina de Normas y Casos Especiales Modifica Resolución Exenta SII N° 107 de fecha 24 de diciembre 2015, que establece obligación de presentar Declaración Jurada de contribuyentes acogidos a las disposiciones de la letra a…
+as y Casos Especiales Modifica Resolución Exenta SII N° 107 de fecha 24 de diciembre 2015, que establece obligación de presentar Declaración Jurada de contribuyentes acogidos a las disposiciones de la letra a) del artículo 14 ter de la LIR, por rentas o cantidades que correspondan a sus titulares, socios, comuneros o accionistas, e informar y certificar lo que se indica. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

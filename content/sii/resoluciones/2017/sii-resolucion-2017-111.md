@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 112 del 15 de Noviembre del 2017 Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Exime a Marubeni Auto Finance Ltda., de la obligación de timbraje de pagarés establecida en el Articulo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 110 del 15 de…
+randes Contribuyentes Exime a Marubeni Auto Finance Ltda., de la obligación de timbraje de pagarés establecida en el Articulo 17 inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

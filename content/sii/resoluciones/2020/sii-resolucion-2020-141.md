@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 141
 - Año: 2020
-- Fecha: 2020-11-20
+- Fecha: 2020-11-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso141.pdf
 - Hash SHA-256: 9e871d5a88c000cd5f73cb957f71d0f10e2e0c85e326208b63e6807af3bce683
 
 ## Resumen
 
-;'>Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Los Organismos Públicos Que Indica. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES Resolución Exenta SII N° 142 del 20 de Noviembre del 2020 Modifica Subrogancia De Secretaria General Fuente: Secretaria General Imparte instrucciones sobre la opción de informar al Servicio de Impuestos Internos, con efecto retroactivo, el ingreso diferido por las rentas o cantidades que se mantengan pendientes de tributac…
+:10px;'> Fuente: Secretaria General Imparte instrucciones sobre la opción de informar al Servicio de Impuestos Internos, con efecto retroactivo, el ingreso diferido por las rentas o cantidades que se mantengan pendientes de tributación, conforme a lo dispuesto en el artículo décimo quinto transitorio de la Ley N° 21.210, sobre modernización tributaria. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

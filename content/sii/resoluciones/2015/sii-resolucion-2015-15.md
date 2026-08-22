@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2015
-- Fecha: 2015-03-03
+- Fecha: 2015-03-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso15.pdf
 - Hash SHA-256: 5344c1faa835c61f74429208bf4773f400795a0f06e31017f4b81de113b33173
 
 ## Resumen
 
-;n Resolución Exenta SII N° 16 del 03 de Marzo del 2015 Reemplaza los formatos y las instrucciones de las Declaraciones Juradas Formularios N°s 1851, 1852 y 1853 y modifica la obligación de presentar dichas declaraciones. Fuente: Subdirección de Fiscalización Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 14 del 27 de Febrero del 2015 Autoriza a institución sin fi…
+Fiscalización Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

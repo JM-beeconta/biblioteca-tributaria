@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 26 del 05 de Marzo del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Deroga Resolución SII Ex. N° 56, de 30.06.2015. Establece la Unidad de Alto Hospicio dependiente de la I Dirección Regional, Iquique Fuente: Subdirección Jurídica Resolución Exenta SII N° 24 del 05 de Marzo del 201…
+cción de Fiscalización Deroga Resolución SII Ex. N° 56, de 30.06.2015. Establece la Unidad de Alto Hospicio dependiente de la I Dirección Regional, Iquique Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 107 del 06 de Septiembre del 2023 Designa secretarios suplentes, en el tribunal especial de alzada de los Bienes Raíces de la segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de Arica. Fuente: Subdirección Jurídica. Aprueba Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibiliz…
+Subdirección Jurídica. Aprueba Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

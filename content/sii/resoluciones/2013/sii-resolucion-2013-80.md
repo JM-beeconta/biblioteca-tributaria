@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 80
 - Año: 2013
-- Fecha: 2013-09-10
+- Fecha: 2013-09-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso80.pdf
 - Hash SHA-256: 14c3b18de4c251f475b92605351d2f779e1478161ea84f5bdf5d032680f56def
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 81 del 10 de Septiembre del 2013 Solicita Información sobre Trusts Constituidos en el Extranjero Fuente: Departamento de Normas Internacionales Instruye sobre presentación de Formulario 2667 de solicutud de condonación de intereses y multas Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 79 del 30 de Agosto del 2013 Autoriza como emisores de documentos tributarios electrón…
+ormas Internacionales Instruye sobre presentación de Formulario 2667 de solicutud de condonación de intereses y multas Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

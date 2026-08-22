@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2026
-- Fecha: 2026-03-09
+- Fecha: 2026-03-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso37.pdf
 - Hash SHA-256: 9abcd0f90495871793562dff1966433a0b5946d02cafa6df429d19f5f148f424
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 38 del 09 de Marzo del 2026 Incorpora nuevos códigos al Formulario N°29 de declaración mensual y pago simultáneo de impuestos para operaciones documentadas mediante liquidaciones‑facturas. Fuente: Subdirección de Fiscalización. Aplicación del N° 5 del artículo 23 de la Ley de Impuesto a las Ventas y Servicios a los Contribuyentes del rubro agrícola en el contexto de solicitudes de devolució…
+cción de Fiscalización. Aplicación del N° 5 del artículo 23 de la Ley de Impuesto a las Ventas y Servicios a los Contribuyentes del rubro agrícola en el contexto de solicitudes de devolución de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

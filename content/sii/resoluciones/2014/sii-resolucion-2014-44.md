@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2014
-- Fecha: 2014-05-16
+- Fecha: 2014-05-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso44.pdf
 - Hash SHA-256: cdc45de24d1ef6c2617297513ffe1c67da8fdab5dcd2d464a4087baf29ae265f
 
 ## Resumen
 
-x;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 45 del 16 de Mayo del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica Fuente: Departamento Asesoría Jurídica Resolución Exenta SII N° 43 del 05 de Mayo del 2014 Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercializaci…
+cia de Contribuyentes Reorganiza las Unidades que conforman el Departamento Subdirección Jurídica Fuente: Departamento Asesoría Jurídica
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-buyente. Resolución Exenta SII N° 79 del 26 de Junio del 2025 Instruye sobre la forma en que los órganos de la administración del estado, operadores y otras entidades que se indican, deberán verificar el cumplimiento del inciso décimo segundo y décimo tercero del artículo 68 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Peñalolén. Fuente: Subdirección de Asist…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Peñalolén. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

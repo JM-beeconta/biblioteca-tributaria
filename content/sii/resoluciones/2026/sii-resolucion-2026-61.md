@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2026
-- Fecha: 2026-04-28
+- Fecha: 2026-04-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso61.pdf
 - Hash SHA-256: 5ef6451f3ceab343df9b307b6d89aa897c717232c533c7b9db76b2247dd91772
 
 ## Resumen
 
-plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 62 del 28 de Abril del 2026 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución exenta SII N° 94 de 2024, y reemplaza formato, contenido e instrucciones de la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria…
+ute;n de Asistencia al Contribuyente. Modifica resolución exenta SII N° 94 de 2024, y reemplaza formato, contenido e instrucciones de la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero, formulario N° 1958. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

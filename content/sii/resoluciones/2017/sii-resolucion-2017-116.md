@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 116
 - Año: 2017
-- Fecha: 2017-12-06
+- Fecha: 2017-12-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso116.pdf
 - Hash SHA-256: e27e606bc9ec465214121ea24b285ffe4a5172629b910e5c7b0d9708353b315e
 
 ## Resumen
 
-s Corporativos Resolución Exenta SII N° 117 del 06 de Diciembre del 2017 Crea modelo de certificado n° 59, sobre donaciones efectuadas a la conferencia episcopal de chile con motivo de la visita del papa al país Fuente: Subdirección De Fiscalización, Departamento De Análisis Masivo Del Cumplimiento Tributario Fija nuevo plazo para presentar las Declaraciones Juradas sobre balance de 8 columnas y otros antecedentes; y sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formularios N°s 1847 y 1926 r…
+mplimiento Tributario Fija nuevo plazo para presentar las Declaraciones Juradas sobre balance de 8 columnas y otros antecedentes; y sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formularios N°s 1847 y 1926 respectivamente. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

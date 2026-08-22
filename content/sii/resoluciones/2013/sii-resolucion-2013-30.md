@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 30
 - Año: 2013
-- Fecha: 2013-03-01
+- Fecha: 2013-02-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso30.pdf
 - Hash SHA-256: cd7e7707d66b66106999c390aebe5d6f31b3c055e473c019a285aa965a0ef870
 
 ## Resumen
 
-de Fiscalización. Resolución Exenta SII N° 31 del 01 de Marzo del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa. Resolución Exenta SII N° 29 del 22 de Febrero del 2013 Téngase por desafiliados del sistema de facturació…
+ia de Contribuyentes. Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

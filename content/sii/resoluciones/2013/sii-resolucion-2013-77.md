@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 77
 - Año: 2013
-- Fecha: 2013-08-23
+- Fecha: 2013-08-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso77.pdf
 - Hash SHA-256: e9ef865777d78a3b927b10e66cbdb26d6f29ff8dfa75c9a81c2d6b05fdbf84a9
 
 ## Resumen
 
-y Asistencia de Contribuyentes Resolución Exenta SII N° 78 del 23 de Agosto del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 76 del 09 de Agosto del 2013 Téngase por desafiliados del S…
+cia de Contribuyentes Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

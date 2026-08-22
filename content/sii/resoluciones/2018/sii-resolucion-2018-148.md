@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 148
 - Año: 2018
-- Fecha: 2018-12-28
+- Fecha: 2018-12-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso148.pdf
 - Hash SHA-256: 404c1fd64a986399976cd361060b9b27bd681d24ef3d7206340118c1d8af78d1
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 149 del 28 de Diciembre del 2018 Autoriza a IMPORTADORA Y DISTRIBUIDORA HERBALIFE INTERNATIONAL DE CHILE LIMITADA, RUT: 78.882.180-8 para retener y enterar en arcas fiscales el Impuesto al Valor Agregado en los casos que indica. Fuente: Subdirección de Fiscalización Designa responsables de procesos que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 147 del 2…
+cción de Fiscalización Designa responsables de procesos que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

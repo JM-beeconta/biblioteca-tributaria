@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 202
 - Año: 2025
-- Fecha: 2025-12-26
+- Fecha: 2025-12-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso202.pdf
 - Hash SHA-256: 8c595a05944c9e9a73a529ed427cde29a58f63c1d399d31e2d25def4561c7722
 
 ## Resumen
 
-s chile spa, rut n° 77.183.959-2. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 203 del 26 de Diciembre del 2025 Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SI…
+cute;n de Asistencia al Contribuyente Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

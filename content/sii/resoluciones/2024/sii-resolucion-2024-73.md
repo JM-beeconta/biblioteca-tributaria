@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2024
-- Fecha: 2024-07-19
+- Fecha: 2024-07-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso73.pdf
 - Hash SHA-256: 7b8b861e58b6ef39475fa137c67f0e1d59a90ffb3d29e2c50fdbbf8011027a28
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 74 del 19 de Julio del 2024 Acredita y autoriza a contribuyente que indica para actuar como prestador de Servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información Ampliación De Plazo De Pago De Cuotas Del Impuesto Territorial, Facilidades De Pago Mediante Convenios Especiales Y Condonación De Intereses Conforme…
+ogías de la Información Ampliación De Plazo De Pago De Cuotas Del Impuesto Territorial, Facilidades De Pago Mediante Convenios Especiales Y Condonación De Intereses Conforme Al Decreto Supremo N° 287 De 2024, Del Ministerio De Hacienda, Que Establece Medidas De Índole Tributaria Para La Región De Coquimbo, Afectada Por La Sequía Y Declarada Como Zona Afectada Por Catástrofe. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2024
-- Fecha: 2024-06-03
+- Fecha: 2024-05-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso61.pdf
 - Hash SHA-256: d9232417fce3fd8f967f3d1ed899f726379add7e9563171059344ed6fb3e3b1b
 
 ## Resumen
 
-s (las) Directores (as) Regionales y en el Director (a) de Grandes Contribuyentes las facultades que indica. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 62 del 03 de Junio del 2024 Rectifica en el modo que indica listado anexo de la Resolución Exenta SII N° 8, de 2024. Fuente: Subdirección de Avaluaciones. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Subsecretaría de Energía. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios…
+Subdirección de Avaluaciones. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Subsecretaría de Energía. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2020
-- Fecha: 2020-04-20
+- Fecha: 2020-04-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso41.pdf
 - Hash SHA-256: 50738570e2197e68321acea74117188d788bf5290217f74cf87e4d3729fa3970
 
 ## Resumen
 
-te;n. Resolución Exenta SII N° 42 del 20 de Abril del 2020 Autoriza a Corporación Red de Alimentos, RUT Nº 65.020.518-9, para distribuir alimentos, pañales y otros artículos de primera necesidad a instituciones sin fines de lucro no inscritas en el registro especial de instituciones autorizadas como receptoras de los productos Fuente: Subdirección de Fiscalización Aplica medidas tributaria, en relación al impuesto a las ventas y servicios, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile.…
+ección de Fiscalización Aplica medidas tributaria, en relación al impuesto a las ventas y servicios, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

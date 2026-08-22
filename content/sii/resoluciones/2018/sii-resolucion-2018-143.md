@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Asociación Nacional de Fútbol Profesional. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 144 del 27 de Diciembre del 2018 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Sindicato de Actores de Chile. Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación de Actores de Chile. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 142 del 27 de Diciembre del 2018 Aprueb…
+cción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación de Actores de Chile. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

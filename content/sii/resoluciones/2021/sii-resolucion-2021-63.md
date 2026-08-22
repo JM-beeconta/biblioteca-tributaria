@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2021
-- Fecha: 2021-06-24
+- Fecha: 2021-06-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso63.pdf
 - Hash SHA-256: fbe7a446e05fff96f148af34777254301d62524ff38c9e1de627ac6e1e565b5a
 
 ## Resumen
 
-egar las municipalidades, de acuerdo a la Resolución Ex. SII N° 62 de 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 64 del 24 de Junio del 2021 Establece procedimiento para la emisión masiva de boletas de honorarios electrónica. Fuente: Subdirección de Asistencia al Contribuyente. Modifica Resolución Exenta SII N° 146, de 2020, sobre delegación de facultades. Fuente: Subdirección de Administración. Resolución Exenta SII N° 62 del 22 de Junio del 2021 Fija formato, procedimiento y fecha para…
+ute;n de Asistencia al Contribuyente. Modifica Resolución Exenta SII N° 146, de 2020, sobre delegación de facultades. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

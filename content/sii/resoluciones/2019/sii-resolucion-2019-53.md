@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tanas Santiago Centro y Santiago Oriente y cambia dependencia de Unidad de Ñuñoa y Central Metropolitana de Timbraje. Fuente: Subdirección Desarrollo de Personas Resolución Exenta SII N° 54 del 30 de Abril del 2019 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Complementa Resoluciones Ex. SII números 208, de 2009 y 117, de 2011. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 52 del 30 de Abril del 2019 Fija procedimiento de identificación como cont…
+Subdirección Jurídica Complementa Resoluciones Ex. SII números 208, de 2009 y 117, de 2011. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

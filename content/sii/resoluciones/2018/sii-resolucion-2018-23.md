@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Unidad de Alto Hospicio dependiente de la I Dirección Regional, Iquique Fuente: Subdirección Jurídica Resolución Exenta SII N° 24 del 05 de Marzo del 2018 Deja sin efecto facultad delegatoria que indica, contenida en la Resolución Exenta N° 90, del 2004 Fuente: Subdirección de Asistencia al Contribuyente Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 22 del 05 de Marzo del 2018 Delega facultad que indica en el funcionario que se individual…
+ute;n de Asistencia al Contribuyente Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

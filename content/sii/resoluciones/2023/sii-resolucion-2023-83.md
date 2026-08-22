@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2023
-- Fecha: 2023-08-09
+- Fecha: 2023-08-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso83.pdf
 - Hash SHA-256: 548ba347fd392c19bb9174a02976f5148011f12daed28fed8ac475045be22822
 
 ## Resumen
 
-ipalidad de Quemchi Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 84 del 09 de Agosto del 2023 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Delega en el Subdirector(a) Jurídico(a) y en la Jefatura del Departamento de Defensa Judicial Penal, las facultades que indica. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 82 del 24 de Julio del 2023 Prorroga pl…
+ute;n de Asistencia al Contribuyente. Delega en el Subdirector(a) Jurídico(a) y en la Jefatura del Departamento de Defensa Judicial Penal, las facultades que indica. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

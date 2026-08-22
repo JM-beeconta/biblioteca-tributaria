@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2018
-- Fecha: 2018-04-09
+- Fecha: 2018-04-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso35.pdf
 - Hash SHA-256: acf0f2388da13ad712d2f6f9831a56650f8b8099a6a558d2b35a65381fd783b8
 
 ## Resumen
 
-artamento de Asistencia al Contribuyente Resolución Exenta SII N° 36 del 09 de Abril del 2018 Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas y la forma de emitir el giro correspondiente. Fuente: Subdirección de Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización…
+cción de Fiscalización Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

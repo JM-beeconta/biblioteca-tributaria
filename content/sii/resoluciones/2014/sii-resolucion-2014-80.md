@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 81 del 22 de Agosto del 2014 Complementa resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Modifica resolución Ex. SII N°45, de 01.09.2003, que establece normas y procedimientos de operación respectos de operación respecto de los documentos tributarios electrónicos, y Resolución Ex. SII N°93, de 02.08.2006, que complementa Res. Ex. SII. N°45, de 2003. Fuent…
+randes Contribuyentes Modifica resolución Ex. SII N°45, de 01.09.2003, que establece normas y procedimientos de operación respectos de operación respecto de los documentos tributarios electrónicos, y Resolución Ex. SII N°93, de 02.08.2006, que complementa Res. Ex. SII. N°45, de 2003. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

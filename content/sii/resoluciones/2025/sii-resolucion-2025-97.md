@@ -11,7 +11,7 @@
 
 ## Resumen
 
-5. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 98 del 07 de Agosto del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Tesorería General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución exenta SII N° 146, de 2020, sobre delegación de facultades y asignación de funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración. Resolución Exenta SII N° 96 de…
+ute;n de Asistencia al Contribuyente. Modifica resolución exenta SII N° 146, de 2020, sobre delegación de facultades y asignación de funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

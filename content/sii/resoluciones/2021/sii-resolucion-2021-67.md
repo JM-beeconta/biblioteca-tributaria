@@ -11,7 +11,7 @@
 
 ## Resumen
 
-echa 17.06.2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 68 del 30 de Junio del 2021 Habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA.…
+cción de Fiscalización. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

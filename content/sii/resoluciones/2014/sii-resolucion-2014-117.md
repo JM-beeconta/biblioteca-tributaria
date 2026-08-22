@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Resolución Exenta SII N° 118 del 12 de Diciembre del 2014 Incorpora a los donatarios de donaciones culturales del artículo 8° de la Ley N° 18.985, sobre donaciones con fines culturales, la obligación de presentar Declaración Jurada Anual N° 1828 Fuente: Departamento de Sistemas de Fiscalización Establece obligación de presentar declaración jurada anual sobre enajenaciones efectuadas por inversionistas institucionales extranjeros de instrumentos de oferta pública representativos de deuda emitidos por empresas…
+Fiscalización Establece obligación de presentar declaración jurada anual sobre enajenaciones efectuadas por inversionistas institucionales extranjeros de instrumentos de oferta pública representativos de deuda emitidos por empresas constituidas en el país, y que en su emisión no se hayan acogido al art. 104 de la Ley sobre Impuesto a la Renta, de acuerdo al artículo 9° transitorio Ley N° 20.712, de 2014, sobre &ldquo;administración de fondos de terceros y carteras individuales Fuente: Departamento de Análisis Sele…
 
 ## Referencias detectadas
 

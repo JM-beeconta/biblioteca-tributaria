@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2019
-- Fecha: 2019-02-28
+- Fecha: 2019-02-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso32.pdf
 - Hash SHA-256: f9904d9295243f60559149ef336e9797f4987ed8850a4313694a76b50d6ad24b
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 33 del 28 de Febrero del 2019 Corrige error de transcripción en Resolución Ex. SII N° 26 de 18.02.2019 que autoriza impresora fiscal marca EPSON, MODELO TM-T900FC, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago. Fuente: Subdirección de Fisca…
+ute;n de Asistencia al Contribuyente Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

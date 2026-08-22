@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Fiscalización Resolución Exenta SII N° 96 del 20 de Noviembre del 2013 Modifica resolución Ex. N°1055, de 2010 sobre normativa interna del Servicio de Impuestos Internos en materia de adquisiciones Fuente: Departamento de Asesoría Jurídica Crea la Oficina de Relaciones laborales como unidad dependiente del Departamento Subdirección de Recursos Humanos Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 94 del 18 de Noviembre del 2013 Autoriza como emisores de documentos tributarios electrónicos…
+ute;a Jurídica Crea la Oficina de Relaciones laborales como unidad dependiente del Departamento Subdirección de Recursos Humanos Fuente: Subdirección de Recursos Humanos
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 123
 - Año: 2021
-- Fecha: 2021-11-05
+- Fecha: 2021-11-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso123.pdf
 - Hash SHA-256: 392de20477f0de6f395d9eb4930bf62f21edfedfbc5efc66622671ff97240fb7
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 124 del 05 de Noviembre del 2021 Fija plazo para acompañar la información solicitada y el plazo máximo dentro del cual el servicio realizará el examen o análisis respectivo en virtud del artículo 60 del código tributario. Fuente: Subdirección de Fiscalización. Establece requisitos para la emisión de guías de despacho y facturas, de los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 122 del 2…
+cción de Fiscalización. Establece requisitos para la emisión de guías de despacho y facturas, de los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

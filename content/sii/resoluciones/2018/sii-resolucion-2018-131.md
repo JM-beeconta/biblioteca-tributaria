@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 131
 - Año: 2018
-- Fecha: 2018-12-20
+- Fecha: 2018-12-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso131.pdf
 - Hash SHA-256: dc0abde7202a5f9503eb15ada8bcb00c0b65c57daf44db474f10da4b314d9e5b
 
 ## Resumen
 
-tom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 132 del 20 de Diciembre del 2018 Autoriza a la sociedad WALMART CHILE MAYORISTA LIMITADA para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha…
+ute;n de Asistencia al Contribuyente Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

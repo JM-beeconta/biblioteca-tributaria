@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 105
 - Año: 2017
-- Fecha: 2017-10-20
+- Fecha: 2017-10-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso105.pdf
 - Hash SHA-256: 874db936c70999e23f07dc3db6de4d026d07e75ecd6b82113368e4ca417d3308
 
 ## Resumen
 
-ón de Fiscalización Resolución Exenta SII N° 106 del 20 de Octubre del 2017 Autoriza como receptores electrónicos de documentos tributarios electrónicos a los siguientes organismos públicos:I Municipalidad de El Bosque I Municipalidad de Quilleco Fuente: Subdirección de Asistencia al Contribuyente Modifica Resolución N° 120 de 2016, que establece la obligación de presentar Declaración Jurada 1929, sobre operaciones en el exterior Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 104 del 13 de Octubre…
+ncia al Contribuyente Modifica Resolución N° 120 de 2016, que establece la obligación de presentar Declaración Jurada 1929, sobre operaciones en el exterior Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

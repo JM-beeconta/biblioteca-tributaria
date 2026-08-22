@@ -11,7 +11,7 @@
 
 ## Resumen
 
-puso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 75 del 26 de Junio del 2025 Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para los semestres que se indican Fuente: Subdirección de Fiscalización. Actualiza la nómina de bienes afectos de la Res. Ex. N°127 año 2024, según lo establecido en el artículo 9 de la ley N° 21.420, modificada por el artículo 5° de la ley 21.713 Fuente: Subdirección de Ava…
+cción de Fiscalización. Actualiza la nómina de bienes afectos de la Res. Ex. N°127 año 2024, según lo establecido en el artículo 9 de la ley N° 21.420, modificada por el artículo 5° de la ley 21.713 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

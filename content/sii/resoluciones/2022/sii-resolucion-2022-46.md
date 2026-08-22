@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2022
-- Fecha: 2022-05-20
+- Fecha: 2022-05-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso46.pdf
 - Hash SHA-256: f41c825d46ccb3eba026a19b956b48c1afbe266f4ab88eb372aa5583365da981
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 20 de Mayo del 2022 Instruye sobre el procedimiento de traspaso de las sociedades plataforma de inversiones, vigentes al 31 de diciembre de 2021, al registro de inicio de actividades. Deja sin efecto la resolución Ex N° 44 de 2003. Fuente: Subdirección de Fiscalización. Dispone Cambio De Sujeto Total Y La Calidad De Agente Retenedor De IVA A Los Emisores De Medios De Pago Que Indica, Respecto De Los Servicios De La Letr…
+cción de Fiscalización. Dispone Cambio De Sujeto Total Y La Calidad De Agente Retenedor De IVA A Los Emisores De Medios De Pago Que Indica, Respecto De Los Servicios De La Letra N) Del Artículo 8° De La Ley Sobre Impuesto A Las Ventas Y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

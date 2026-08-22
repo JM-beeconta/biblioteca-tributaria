@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 97 del 07 de Agosto del 2025 Modifica resolución exenta SII N° 146, de 2020, sobre delegación de facultades y asignación de funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración. Especifica operaciones financieras que pueden acogerse al procedimiento simplificado a que se refiere el artículo 66 bis del Código Tributario Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 95 del…
+ción de Administración. Especifica operaciones financieras que pueden acogerse al procedimiento simplificado a que se refiere el artículo 66 bis del Código Tributario Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

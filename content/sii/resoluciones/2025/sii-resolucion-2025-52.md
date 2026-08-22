@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2025
-- Fecha: 2025-04-29
+- Fecha: 2025-04-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso52.pdf
 - Hash SHA-256: 32ffc3e9608ef15cc54f3ee06bbd125815d38c650bd1843483b43c123a778bfa
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 53 del 29 de Abril del 2025 Instruye sobre la obligación de entregar la representación impresa o virtual de la boleta electrónica y/o comprobante de pago electrónico. Deja sin efecto resolución Ex. N° 12 de 2025. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. R…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

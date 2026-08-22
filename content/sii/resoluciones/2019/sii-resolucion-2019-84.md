@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2019
-- Fecha: 2019-07-25
+- Fecha: 2019-07-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso84.pdf
 - Hash SHA-256: 0ebd47657e64f0bc1468aaf86a1b6143aaf2396fb34b4ba537abfe68245b3ccc
 
 ## Resumen
 
-ión de Asistencia al Contribuyente Resolución Exenta SII N° 85 del 25 de Julio del 2019 Autoriza a la SOCIEDAD ADMINISTRADORA DE SUPERMERCADOS HIPER LIMITADA para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Designa Secretario Titular en Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte…
+ute;n de Asistencia al Contribuyente Designa Secretario Titular en Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

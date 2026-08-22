@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Por Catástrofe. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 72 del 04 de Julio del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Castro. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Acuerdo de Confidencialidad entre el Banco Interamericano de Desarrollo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N°…
+tégica y Estudios Tributarios. Aprueba Acuerdo de Confidencialidad entre el Banco Interamericano de Desarrollo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

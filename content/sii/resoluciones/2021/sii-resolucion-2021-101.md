@@ -11,7 +11,7 @@
 
 ## Resumen
 
-i>Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 102 del 31 de Agosto del 2021 Modifica resolución ex. SII n°110 de 2004, incorporando en declaración jurada anual n°1832, la información de donaciones efectuadas al fondo nacional del cáncer, conforme lo dispuesto en la ley n°21.258. Fuente: Subdirección de Fiscalización. Crea modelo de certificado n° 72, y establece obligación de informar las donaciones a que se refiere el artículo 18 de la ley n° 21.258. Fuente: Subdirección de Fiscalización. Reso…
+cción de Fiscalización. Crea modelo de certificado n° 72, y establece obligación de informar las donaciones a que se refiere el artículo 18 de la ley n° 21.258. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

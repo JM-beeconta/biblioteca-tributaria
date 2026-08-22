@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tribuyentes Resolución Exenta SII N° 49 del 26 de Mayo del 2016 Fija procedimiento mediante el cual los contribuyentes pueden solicitar una nueva tasación fiscal de un inmueble, al amparo de lo indicado en el D.L.N° 825, de 1974. Fuente: Subdirección de Avaluaciones Autoriza a la empresa TAS Chile S.A., para operar un sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes usuarios terceros afiliados a su red. Fuente: Departamento de Atención…
+ute;n de Avaluaciones Autoriza a la empresa TAS Chile S.A., para operar un sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes usuarios terceros afiliados a su red. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

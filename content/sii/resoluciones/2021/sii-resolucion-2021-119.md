@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 120 del 15 de Octubre del 2021 Exime a sociedad protectora de ciegos santa lucia, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exen…
+ute;n de Asistencia al Contribuyente. Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

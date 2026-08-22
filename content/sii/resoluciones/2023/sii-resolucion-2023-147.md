@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 147
 - Año: 2023
-- Fecha: 2023-12-28
+- Fecha: 2023-12-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso147.pdf
 - Hash SHA-256: 8123fa698eb64e2226145e8f79649c98c38b3b25f0f04fa15356114c70e775d9
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 148 del 28 de Diciembre del 2023 Modifica resolución Ex. SII N°106, de 02 de septiembre de 2021, que reorganiza las unidades que conforman el departamento subdirección de fiscalización y ámbito de competencia de sus unidades. Fuente: Subdirección de Fiscalización. Aprueba el Convenio de Intercambio de Información y Colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos Fuente: Subdirección de Gestió…
+cción de Fiscalización. Aprueba el Convenio de Intercambio de Información y Colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2021
-- Fecha: 2021-07-30
+- Fecha: 2021-07-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso88.pdf
 - Hash SHA-256: c81dec89023240983cebf9f5fc8d643d1174a29850622268fd64c85321d519ab
 
 ## Resumen
 
-tema de trazabilidad fiscal. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 89 del 30 de Julio del 2021 Instruye procedimiento para la declaración de precios de productos de tabaco, establecido en el decreto Ley N° 828 de 1974, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución E…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

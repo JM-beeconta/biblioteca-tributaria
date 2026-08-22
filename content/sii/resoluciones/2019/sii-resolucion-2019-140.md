@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 140
 - Año: 2019
-- Fecha: 2019-12-26
+- Fecha: 2019-12-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso140.pdf
 - Hash SHA-256: b364df3e1d39fb035ecaaf708041412b9f30039384666cb3b9f8e8afe9337e47
 
 ## Resumen
 
-o para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 141 del 26 de Diciembre del 2019 Dispone cambio de sujeto de derecho del IVA en las ventas de ganado vivo. Deja sin efecto resolución Exenta N° 3.721, de 28 de julio de 2000. Fuente: Subdirección de Fiscalización Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 139 del 19 de Diciembre del 2019 Autoriza a proceder co…
+cción de Fiscalización Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

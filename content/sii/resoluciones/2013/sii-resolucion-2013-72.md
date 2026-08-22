@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:0px;'> Resolución Exenta SII N° 73 del 24 de Julio del 2013 Autoriza uso del crédito fiscal IVA y deducción del gasto de vehículos que indica, conforme art. 23 N° 4 del D.L. N°825, de 1974 y art. 31 inciso 1° del D.L: N° 824, de 1974 Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeña Empresas Resolución Exenta SII N° 71 del 22 de Julio de…
+ueñas Empresas Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeña Empresas
 
 ## Referencias detectadas
 

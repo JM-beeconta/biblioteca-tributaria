@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 88
 - Año: 2013
-- Fecha: 2013-10-17
+- Fecha: 2013-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso88.pdf
 - Hash SHA-256: 401a4f4bb806720426a71ff8adb2e3c7307849ed064df1f389fb47d6eb2175cf
 
 ## Resumen
 
-Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 89 del 17 de Octubre del 2013 Crea Oficina de Comunicaciones Institucionales en la Dirección Nacional del Servicio de Impuestos Internos Fuente: Subdirección Recursos Humanos Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 87 del 09 de Octubre del 2013 Autoriza al contribuye…
+te;n Recursos Humanos Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

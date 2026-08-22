@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 118
 - Año: 2023
-- Fecha: 2023-10-13
+- Fecha: 2023-10-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso118.pdf
 - Hash SHA-256: b234148790308d0421feb8671f03e209b0da950de3c2cb20b105f835324d34d0
 
 ## Resumen
 
-contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 119 del 13 de Octubre del 2023 Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N°…
+cción de Fiscalización. Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

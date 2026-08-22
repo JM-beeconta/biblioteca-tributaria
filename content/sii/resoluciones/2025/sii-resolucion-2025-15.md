@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Resolución Exenta SII N° 16 del 30 de Enero del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Identifica personal que señala el Artículo 14 del DS N°661/2024 que aprueba reglamento de compras públicas. Fuente: Subdirección de Administración. Resolución Exenta SII N° 14 del 30 de Enero del 2025 Aut…
+Subdirección Jurídica. Identifica personal que señala el Artículo 14 del DS N°661/2024 que aprueba reglamento de compras públicas. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2013
-- Fecha: 2013-11-29
+- Fecha: 2013-11-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso98.pdf
 - Hash SHA-256: c2adbafdf92519f05810713dd85f5c1be34ccea44ee92c1c67ab257875a5c88a
 
 ## Resumen
 
-:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 99 del 29 de Noviembre del 2013 Prorroga vigencia de emisión de los documentos timbrados que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y Micro y Pequeñas Empresas Resolución Exenta SII N° 97 del 27 de Noviembre del 2013 Aprueba Convenio de Colaboraci…
+cia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

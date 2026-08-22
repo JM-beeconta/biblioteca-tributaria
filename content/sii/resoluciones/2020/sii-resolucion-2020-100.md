@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2020
-- Fecha: 2020-08-31
+- Fecha: 2020-08-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso100.pdf
 - Hash SHA-256: 4b3c11f001ba6a78c7fb763f31ad370965c97a3fd5bb223364d5686bb46fef52
 
 ## Resumen
 
-Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 101 del 31 de Agosto del 2020 Establece la obligación de presentar declaraciones juradas anuales informativas de precios de transferencia denominadas &ldquo;archivo maestro&rdquo; y &ldquo;archivo local&rdquo;, y modifica Resolución Ex. SII N°126, de 2016. Fuente: Subdirección de Fiscalización. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la…
+cción de Fiscalización. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de concepción. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2022
-- Fecha: 2022-06-24
+- Fecha: 2022-06-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso55.pdf
 - Hash SHA-256: 3195c212bf6932903815f440236a6d6adbdcc2fd24c3e4e18d8bae4ba7505b3a
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 56 del 24 de Junio del 2022 Designa Secretario Titular Y Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Departamento de Asesoría Jurídica. Delega Facultad Que Indica En El Funcionario Que Se Individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 54 del 13 de Junio del 2022 Habilita plataforma…
+o de Asesoría Jurídica. Delega Facultad Que Indica En El Funcionario Que Se Individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

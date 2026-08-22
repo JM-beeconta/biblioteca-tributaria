@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 135
 - Año: 2021
-- Fecha: 2021-12-20
+- Fecha: 2021-12-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso135.pdf
 - Hash SHA-256: 415c3bf7ca5673b8cdeee5424e54e2512d74b5b61a41ad34548b5caf4d48ee51
 
 ## Resumen
 
-n de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 136 del 20 de Diciembre del 2021 Reorganiza las unidades que conforman el departamento Subdirección de Desarrollo de Personas, establece funciones, ámbito de competencia y deja sin efecto Res. Ex SII Nº 13, 2016 Y Res. Ex. SII Nº 77, 2017. Fuente: Subdirección de Desarrollo de Personas. Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudi…
+ión de Desarrollo de Personas. Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

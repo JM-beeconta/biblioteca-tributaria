@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 83 del 22 de Agosto del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 81 del 22 de Agosto del 2014 Complementa resolución Exenta SII N°109 de 27 de diciembre de 2013, en los…
+randes Contribuyentes Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

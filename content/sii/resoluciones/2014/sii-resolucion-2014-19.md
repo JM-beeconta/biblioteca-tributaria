@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 19
 - Año: 2014
-- Fecha: 2014-02-10
+- Fecha: 2014-02-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso19.pdf
 - Hash SHA-256: 7865aa0770a938455c14c2a5fad81d91d6e3ce383d07d280da4af97c6df32055
 
 ## Resumen
 
-de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 20 del 10 de Febrero del 2014 Modifica la Resolución N°379 de 1991 en lo relacionado con el Departamento Subdirección de Informática Fuente: Subdirección de Informática Exime del timbraje de pagarés a contribuyente que se indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 18 del 07 de Febrero del 2014 Imparte instrucciones sobre cumplimiento del deber de informar, al Servicio de Impuestos Internos, la…
+de Informática Exime del timbraje de pagarés a contribuyente que se indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

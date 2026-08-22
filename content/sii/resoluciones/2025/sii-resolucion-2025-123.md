@@ -11,7 +11,7 @@
 
 ## Resumen
 
-in-top:0px;margin-bottom:0px;'>Aprueba Convenio de Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 124 del 25 de Septiembre del 2025 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2026. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 122 del 23 de Sept…
+Subdirección Jurídica. Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 50
 - Año: 2016
-- Fecha: 2016-06-07
+- Fecha: 2016-05-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso50.pdf
 - Hash SHA-256: d8a5c5e5029e36f8ec807423e151fb4aef6946ce9b2d132dc3dcd4aea18ed1cd
 
 ## Resumen
 
-limiento Tributario. Resolución Exenta SII N° 51 del 07 de Junio del 2016 Fija nuevo plazo para presentar la Declaración Jurada Anual de Fondo de Utilidades Tributables (FUT), Formulario N° 1925. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Autoriza a empresa NALS Asesorías y Servicios Informáticos SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuy…
+mplimiento Tributario Autoriza a empresa NALS Asesorías y Servicios Informáticos SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

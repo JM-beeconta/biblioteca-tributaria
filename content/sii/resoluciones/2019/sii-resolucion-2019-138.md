@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 138
 - Año: 2019
-- Fecha: 2019-12-19
+- Fecha: 2019-12-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso138.pdf
 - Hash SHA-256: 40be76de63e599fbe48ffb336e2b479e3d0e5be5306e66f07c248b115f54156f
 
 ## Resumen
 
-onales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 139 del 19 de Diciembre del 2019 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 137 del 09 de Diciembre del 2019 Aprueba Acuerdo de Colaboración…
+ute;n de Asistencia al Contribuyente Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

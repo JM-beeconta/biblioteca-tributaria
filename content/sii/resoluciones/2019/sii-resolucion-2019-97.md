@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 97
 - Año: 2019
-- Fecha: 2019-08-22
+- Fecha: 2019-08-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso97.pdf
 - Hash SHA-256: f7c81c5e1012a64af2d49ff7a4ef37bbd453355c58d85546f15723f6e98f5dcc
 
 ## Resumen
 
-ecto Res. Ex. N° 11 de 14.02.2003. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 98 del 22 de Agosto del 2019 Autoriza como receptores electrónicos de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 96 del 14 de Agosto d…
+ute;n de Asistencia al Contribuyente Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

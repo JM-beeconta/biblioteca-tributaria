@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 103
 - Año: 2025
-- Fecha: 2025-08-26
+- Fecha: 2025-08-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso103.pdf
 - Hash SHA-256: 941d275d0b8a625de318807b87339133df525a04b8bff0cf69f0ba1fdba14644
 
 ## Resumen
 
-dificaciones. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 104 del 26 de Agosto del 2025 Remplaza formato, contenido e instrucciones de declaraciones juradas contenidas en las resoluciones que se indican. Deja sin efecto Resolución Ex. SII N° 96 de 2016 Fuente: Subdirección de Fiscalización. Forma de acreditar la exención de IVA en la importación de bienes de bajo valor a que se refiere el artículo 12 letra b) N° 18, del decreto ley N° 825 de 1974, adquiridos de, o por medio de, contribuyentes i…
+cción de Fiscalización. Forma de acreditar la exención de IVA en la importación de bienes de bajo valor a que se refiere el artículo 12 letra b) N° 18, del decreto ley N° 825 de 1974, adquiridos de, o por medio de, contribuyentes inscritos en el régimen de tributación simplificada. Fuente: Servicio de Impuestos Internos.
 
 ## Referencias detectadas
 

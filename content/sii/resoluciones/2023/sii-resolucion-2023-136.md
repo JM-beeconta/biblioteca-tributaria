@@ -11,7 +11,7 @@
 
 ## Resumen
 
-uestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 137 del 12 de Diciembre del 2023 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Reorganiza las unidades que conformarán el departamento subdirección de tecnologías de la información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 101, de 2019. Fuente: Subdirección de Inf…
+ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conformarán el departamento subdirección de tecnologías de la información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 101, de 2019. Fuente: Subdirección de Informática.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2014
-- Fecha: 2014-10-23
+- Fecha: 2014-10-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso99.pdf
 - Hash SHA-256: f4a293284a8cb87a1a388f672fc08a6db2e46ff856131bbf728f7d1415b6730b
 
 ## Resumen
 
-ref='https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso100.pdf' target='_blank'>Resolución Exenta SII N° 100 del 23 de Octubre del 2014 Complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando resolutivo duodécimo de la resolución Ex. SII N° 45, del 01.09.2003. Fuente: Departamento de Atención y Asistencia de Contribuyentes Regula inscripción en sistema de facturación gratuito del SII, disponible en Internet Fuente: Departamento de Atención…
+cia de Contribuyentes Regula inscripción en sistema de facturación gratuito del SII, disponible en Internet Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

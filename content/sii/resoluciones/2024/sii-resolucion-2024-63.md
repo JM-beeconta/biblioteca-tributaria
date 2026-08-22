@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2024
-- Fecha: 2024-06-07
+- Fecha: 2024-06-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso63.pdf
 - Hash SHA-256: c2f9a38124427ca954b5d79dc7eecf076924807ece083edf33e82adb85bf7910
 
 ## Resumen
 
-DE RESOLUCIÓN EX. SII N° 48 DE 2018 Fuente: Subdirección Normativa. Resolución Exenta SII N° 64 del 07 de Junio del 2024 Prórroga del plazo para la presentación de declaraciones juradas en materia de precios de transferencia, formularios Nos 1907, 1937, 1950 Y 1951. Fuente: Subdirección de Fiscalización. Delega en el (la) Subdirector (a) Jurídico(a), en los (las) Directores (as) Regionales y en el Director (a) de Grandes Contribuyentes las facultades que indica. Fuente: Subdirección Jurídica. Resolución Exenta SII…
+cción de Fiscalización. Delega en el (la) Subdirector (a) Jurídico(a), en los (las) Directores (as) Regionales y en el Director (a) de Grandes Contribuyentes las facultades que indica. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

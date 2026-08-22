@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 112 del 20 de Diciembre del 2016 Deja sin efecto Resolución Exenta SII N° 49, de 25 de mayo de 2015, en el sentido que indica y aprueba nuevo Reglamento Interno del Consejo de la Sociedad Civil. Fuente: Subdirección de Asuntos Corporativos Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumnplimiento Tributario Resolución Exenta SII N° 110 del 01 de Diciembre del 2016 Exime a Fundac…
+Asuntos Corporativos Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumnplimiento Tributario
 
 ## Referencias detectadas
 

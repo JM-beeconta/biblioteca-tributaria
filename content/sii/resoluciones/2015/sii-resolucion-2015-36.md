@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 36
 - Año: 2015
-- Fecha: 2015-04-07
+- Fecha: 2015-04-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso36.pdf
 - Hash SHA-256: f23442f8cb65eb67bccfa55e9aed3ea1d8e4e8d692927594a03f997956621948
 
 ## Resumen
 
-n Administrativa Resolución Exenta SII N° 37 del 07 de Abril del 2015 Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de Atacama y de las comunas de Antofagasta y Taltal Fuente: Departamento de Atención y Asistencia de Contribuyentes Aprueba convenio de prestación de servicios de consulta sobre estado de vigencia de documentos de identidad celebrado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios Resoluc…
+cia de Contribuyentes Aprueba convenio de prestación de servicios de consulta sobre estado de vigencia de documentos de identidad celebrado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios
 
 ## Referencias detectadas
 

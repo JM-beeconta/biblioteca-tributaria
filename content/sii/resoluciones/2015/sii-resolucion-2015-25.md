@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2015
-- Fecha: 2015-03-16
+- Fecha: 2015-03-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso25.pdf
 - Hash SHA-256: 43e6e492c5f86b6f3ab15da013135d04d9ccfa26c85915da52a6c7831bd3450c
 
 ## Resumen
 
-s Masivo del Cumplimiento Tributario Resolución Exenta SII N° 26 del 16 de Marzo del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Reemplaza formato e instrucciones de Declaración Jurada sobre retenciones de impuestos a que se refiere el artículo 74 N° 4 de la Ley Sobre Impuesto a la Renta; establece nuevo formato de Formulario N° 1912 y modelo de Certificado N° 42; y deroga Res. Ex.…
+mplimiento Tributario Reemplaza formato e instrucciones de Declaración Jurada sobre retenciones de impuestos a que se refiere el artículo 74 N° 4 de la Ley Sobre Impuesto a la Renta; establece nuevo formato de Formulario N° 1912 y modelo de Certificado N° 42; y deroga Res. Ex. N° 16 de 30.01.2008. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 79
 - Año: 2022
-- Fecha: 2022-09-02
+- Fecha: 2022-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso79.pdf
 - Hash SHA-256: 202512a10b659d8daeead1e18271b64d111fdbae8dfceec6caade7b1671de1df
 
 ## Resumen
 
-nos e Instituto Profesional LOS LEONES Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 80 del 02 de Septiembre del 2022 Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y el Centro de Formación Técnica ENAC Fuente: Subdirección de Asistencia al Contribuyente. Instruye sobre la forma de comunicar a este Servicio de Impuestos Internos la calidad de inversionista institucional para efectos de no efectuar la retención que dispone el N°6 del artículo 107 de la Le…
+ute;n de Asistencia al Contribuyente. Instruye sobre la forma de comunicar a este Servicio de Impuestos Internos la calidad de inversionista institucional para efectos de no efectuar la retención que dispone el N°6 del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

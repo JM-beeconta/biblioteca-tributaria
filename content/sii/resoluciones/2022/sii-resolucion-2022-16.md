@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2022
-- Fecha: 2022-02-18
+- Fecha: 2022-02-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso16.pdf
 - Hash SHA-256: 05204f38c635608bff450045fb584a2ccdc26c7ca5b8b7f7841db9db0b855fd4
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 17 del 18 de Febrero del 2022 Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas en la condición que se señala Fuente: Subdirección de Asistencia al Contribuyente. Incorpórase a defensoría del contribuyente, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Cont…
+ute;n de Asistencia al Contribuyente. Incorpórase a defensoría del contribuyente, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

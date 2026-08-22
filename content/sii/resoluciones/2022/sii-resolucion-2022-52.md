@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2022
-- Fecha: 2022-06-09
+- Fecha: 2022-06-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso52.pdf
 - Hash SHA-256: 50a113d60ec379269a0f80d2d244d06c0487a2e8d4d843483caf9c123cede1a3
 
 ## Resumen
 
-456. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 53 del 09 de Junio del 2022 Modifica resolución Ex. SII N° 74 de fecha 02 de julio de 2020, eliminando obligación de enviar el resumen de ventas diarias en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Empresa Información Comercial Limitada y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Trib…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Empresa Información Comercial Limitada y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

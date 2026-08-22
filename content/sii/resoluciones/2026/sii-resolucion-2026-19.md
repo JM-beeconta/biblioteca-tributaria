@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nistrativo y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 20 del 04 de Febrero del 2026 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Rio Bueno Fuente: Subdirección de Avaluaciones. Aprueba Convenio de Intercambio de Información y Colaboración entre la Defensoría del Contribuyente y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente…
+Subdirección de Avaluaciones. Aprueba Convenio de Intercambio de Información y Colaboración entre la Defensoría del Contribuyente y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

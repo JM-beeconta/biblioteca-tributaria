@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n de Asistencia al Contribuyente. Resolución Exenta SII N° 93 del 30 de Julio del 2021 Establece procedimiento para dar por cumplido Requisito de inicio de actividades y presentar Declaración de renta con el propósito de acceder al Bono de la ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales. Fuente: Subdirección de Fiscalización. Autoriza a ENEX S.A Para Operar De Acuerdo a Lo Dispuesto En Resolucion EX.SII N°172 2010 Fuente: Subdirección de Fiscalización. Resolución Exe…
+cción de Fiscalización. Autoriza a ENEX S.A Para Operar De Acuerdo a Lo Dispuesto En Resolucion EX.SII N°172 2010 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 
@@ -19,22 +19,9 @@ n de Asistencia al Contribuyente. Resolución Exenta SII N° 93 del 30 de Julio 
 
 ## Texto extraído
 
-n de Asistencia al Contribuyente.
-Resolución Exenta SII N° 93 del 30 de Julio del 2021
-
-Establece procedimiento para dar por cumplido Requisito de inicio de actividades y presentar Declaración de renta con el propósito de acceder al Bono de la ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales.
-
-Fuente: Subdirección de Fiscalización.
+cción de Fiscalización.
 Resolución Exenta SII N° 92 del 30 de Julio del 2021
 
 Autoriza a ENEX S.A Para Operar De Acuerdo a Lo Dispuesto En Resolucion EX.SII N°172 2010
 
 Fuente: Subdirección de Fiscalización.
-Resolución Exenta SII N° 91 del 30 de Julio del 2021
-
-Envío de información que deben entregar las municipalidades para los fines de la Ley N° 21.354.
-
-Fuente: Subdirección de Fiscalización.
-Resolución Exenta SII N° 90 del 30 de Julio del 2021
-
-Fija requisitos de llenado,

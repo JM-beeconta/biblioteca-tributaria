@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n Exenta SII N° 141 del 15 de Octubre del 2025 Establece forma de acreditar el cobro de iva en la venta para la procedencia de la exención de iva y de arancel aduanero en la importación de bienes de bajo valor a que se refiere el artículo 12 letra b) n°18, del decreto ley n°825 de 1974, adquiridos por medio de una plataforma digital de intermediación cuyo operador tiene domicilio o residencia en chile. Fuente: Subdirección de Fiscalización Ajusta nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo…
+ección de Fiscalización Ajusta nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

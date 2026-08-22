@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tamento Medianas y Grandes Empresas. Resolución Exenta SII N° 65 del 20 de Junio del 2013 Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Modifica Res. Ex. SII N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la Boleta de ventas y Servicios por el comprobante emitido por la empresa Transbank S.A. a contribuyentes que indica. Fuente: Departamento de Atención y Asistencia de Contr…
+ia de Contribuyentes. Modifica Res. Ex. SII N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la Boleta de ventas y Servicios por el comprobante emitido por la empresa Transbank S.A. a contribuyentes que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

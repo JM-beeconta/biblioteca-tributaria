@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2018
-- Fecha: 2018-04-03
+- Fecha: 2018-03-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso34.pdf
 - Hash SHA-256: 0bd9f169502f9d04d010a880c735bd6f58b6884b2383f66cf3f2035068ea7c8e
 
 ## Resumen
 
-idas por fuentes fijas y la forma de emitir el giro correspondiente. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 35 del 03 de Abril del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Omisión de giro de roles de contribuciones que se indican cuya cuota no supere los montos señalados. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 33 del 22 de Marzo del 2018 Aprueba Convenio…
+cción de Fiscalización Omisión de giro de roles de contribuciones que se indican cuya cuota no supere los montos señalados. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

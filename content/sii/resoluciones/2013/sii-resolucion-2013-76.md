@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 76
 - Año: 2013
-- Fecha: 2013-08-20
+- Fecha: 2013-08-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso76.pdf
 - Hash SHA-256: 30d1606b0a6413be9785e1387e6771c40fa2753bfe9b7b785c8691fa172b665b
 
 ## Resumen
 
-tencia de Contribuyentes Resolución Exenta SII N° 77 del 20 de Agosto del 2013 Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 75 del 09 de Agosto del 2013 Reorganiza las Unidades que conforman el Dep…
+cia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 182 del 15 de Diciembre del 2025 Complementa listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme…
+Subdirección de Avaluaciones. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley Sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

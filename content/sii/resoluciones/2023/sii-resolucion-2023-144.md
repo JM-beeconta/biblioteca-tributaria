@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 144
 - Año: 2023
-- Fecha: 2023-12-21
+- Fecha: 2023-12-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso144.pdf
 - Hash SHA-256: 76e02129f5b30cafb018d488f8bb810ebb3fb5cf5d9c77f9340702599ef35455
 
 ## Resumen
 
-de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 145 del 21 de Diciembre del 2023 Fija registro del precio corriente en plaza de helicópteros, aviones y yates, según lo establecido en el artículo 9 de la ley 21.420. Fuente: Subdirección de Avaluaciones. Establece procedimiento especial para solicitar rebaja de las contribuciones de inmuebles ocupados en casos que indica. Deja sin efecto resolución Ex. N° 40 de 2023. Fuente: Subdirección de Avaluaciones. Resoluc…
+Subdirección de Avaluaciones. Establece procedimiento especial para solicitar rebaja de las contribuciones de inmuebles ocupados en casos que indica. Deja sin efecto resolución Ex. N° 40 de 2023. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso81.pdf' target='_blank'>Resolución Exenta SII N° 81 del 29 de Septiembre del 2015 Establece nuevas fechas de pago del impuesto territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Choapa o en la comuna de Coquimbo, ambas de la IV región de Coquimbo. Fuente: Subdirección de Avaluaciones Establece procedimiento para declarar mejoras de bienes raíces al amparo de la Ley N° 20.780. Fuente: Departa…
+ute;n de Avaluaciones Establece procedimiento para declarar mejoras de bienes raíces al amparo de la Ley N° 20.780. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2024
-- Fecha: 2024-04-24
+- Fecha: 2024-04-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso49.pdf
 - Hash SHA-256: b96276b07f57bd11012b128795e9edc0077fd5690f60018163753f89e78995b0
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 50 del 24 de Abril del 2024 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuesto…
+tégica y Estudios Tributarios. Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

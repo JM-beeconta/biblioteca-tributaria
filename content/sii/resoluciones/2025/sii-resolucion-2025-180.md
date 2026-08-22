@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 180
 - Año: 2025
-- Fecha: 2025-12-15
+- Fecha: 2025-12-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso180.pdf
 - Hash SHA-256: f5db5ae2be4ab15eecb6262bcc8107bc803b4b5bb812ed09d2ed6679ba24198e
 
 ## Resumen
 
-tom:0px;'> Resolución Exenta SII N° 181 del 15 de Diciembre del 2025 Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley Sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Solicitud de acceso a la interfaz de programación de aplicaciones (API), de inicio de actividades de Enternet Sociedad Anón…
+cción de Fiscalización. Solicitud de acceso a la interfaz de programación de aplicaciones (API), de inicio de actividades de Enternet Sociedad Anónima, RUT N° 76.407.930-2. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

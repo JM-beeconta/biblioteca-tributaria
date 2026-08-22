@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tyle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 108 del 08 de Septiembre del 2020 Deja sin efecto las instrucciones relativas a vales en reemplazo de boletas y vales electrónicos en reemplazo de la boleta de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.256. Fuente: Subdirección de Fi…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.256. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

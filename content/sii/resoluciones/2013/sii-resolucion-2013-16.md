@@ -11,7 +11,7 @@
 
 ## Resumen
 
-deg; inciso final y 21 de la Ley N° 20.241 de 2008, modificada por la Ley 20.570, de 2012, en virtud de la cual los contribuyentes que utilicen el beneficio señalado en esta ley deben informar al Servicio de Impuestos Internos, aquella parte de los desembolsos efectuados en contratos y/o proyectos de investigación y desarrollo que no haya sido financiada con recursos públicos. Deja sin efecto Resolución Ex SII N° 130, de 2008. Fuente: Departamento de Medianas y Grandes Empresas. Autoriza a proceder conforme al mod…
+s y Grandes Empresas. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

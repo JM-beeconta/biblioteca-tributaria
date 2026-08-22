@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 91 del 03 de Octubre del 2018 Autoriza al Conservador de Bienes Raíces de Rengo, Sr. Juan Raúl Cristi León, para emitir boletas de honorarios electrónicas, en la forma que indica Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Arica, Sr. Fernando Rafael Manterola Salas, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de Arica, Sr. Fernando Rafael Manterola Salas, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

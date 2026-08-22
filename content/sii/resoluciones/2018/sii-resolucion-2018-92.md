@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 92
 - Año: 2018
-- Fecha: 2018-10-05
+- Fecha: 2018-10-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso92.pdf
 - Hash SHA-256: 0ed16dab8e9f9292b501e39ba5f4aaa60f998266d2271e313f7cc6f6eb760092
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 93 del 05 de Octubre del 2018 Suspende calidad de Agente Retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyen…
+cción de Fiscalización Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

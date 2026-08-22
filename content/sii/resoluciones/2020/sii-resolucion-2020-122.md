@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eptiembre del 2020 Establece forma y plazo para presentar declaración jurada anual de formulario N° 1847 denominado "Declaración jurada anual sobre balance de 8 columnas&rdquo; y declaración jurada anual de formulario N° 1926 sobre &ldquo;base imponible de primera categoría y datos contables balance&rdquo;. Deja sin efecto Resoluciones Exentas N°s 2, del 2012, 112, del 2015, 101 de 2017 y 110 de 2019. Fuente: Subdirección de Fiscalización. Establece declaración jurada anual N° 1914, sobre retiros en depósitos a pl…
+cción de Fiscalización. Establece declaración jurada anual N° 1914, sobre retiros en depósitos a plazo, cuentas de ahorro, cuotas de fondos mutuos y otros instrumentos financieros autorizados acogidos al artículo 54 bis de la Ley sobre Impuesto a la Renta, vigente hasta el 31 de diciembre de 2019. Deja sin efecto la resolución Ex. SII N° 130, de 2014. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

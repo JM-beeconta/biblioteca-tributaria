@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ze:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 109 del 30 de Septiembre del 2019 Modifica Resolución Ex. SII N°103 de 13.10.2017 que establece Declaración Jurada Anual N° 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización Modifica Resolución Ex. SII N° 126 de 27.12.2016, que establece la obligación de presentar Declaración Jurada N°1907 y N°1937. Fuente: Subdirección de Fiscalización Res…
+cción de Fiscalización Modifica Resolución Ex. SII N° 126 de 27.12.2016, que establece la obligación de presentar Declaración Jurada N°1907 y N°1937. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

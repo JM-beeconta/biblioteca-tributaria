@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2016
-- Fecha: 2016-06-24
+- Fecha: 2016-06-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso58.pdf
 - Hash SHA-256: bc7d93d403459b8d8b36d5f8663a0571b56b5370c8445147a9774fb2f0e6b0c0
 
 ## Resumen
 
-te: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 59 del 24 de Junio del 2016 Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Prorroga vigencia de emisión de los documentos timbrados que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 57 del 22 de Junio del 2016 Deja sin efecto los cobros que indica y deroga las Resoluciones que los establece…
+randes Contribuyentes Prorroga vigencia de emisión de los documentos timbrados que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

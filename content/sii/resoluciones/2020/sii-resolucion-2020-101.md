@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 102 del 31 de Agosto del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece la obligación de presentar declaraciones juradas anuales informativas de precios de transferencia denominadas &ldquo;archivo maestro&rdquo; y &ldquo;archivo local&rdquo;, y modifica Resolución Ex. SII…
+ute;n de Asistencia al Contribuyente. Establece la obligación de presentar declaraciones juradas anuales informativas de precios de transferencia denominadas &ldquo;archivo maestro&rdquo; y &ldquo;archivo local&rdquo;, y modifica Resolución Ex. SII N°126, de 2016. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

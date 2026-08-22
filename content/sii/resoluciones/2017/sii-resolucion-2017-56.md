@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2017
-- Fecha: 2017-06-30
+- Fecha: 2017-06-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso56.pdf
 - Hash SHA-256: 33a70505075822c22086e8aee07a200499fa3f347ea10e670c99f65e9b54a283
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 57 del 30 de Junio del 2017 Autoriza a las instituciones sin fines de lucro , como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdireción de Fizcalizacion Fija el procedimiento, forma y plazos para la aplicación y ejercicio de la facultad establecida en el artículo 60 bis del código tributario. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 55 del 13 de Junio del 2017 Fija nuevo plazo para presentar…
+te;n de Fizcalizacion Fija el procedimiento, forma y plazos para la aplicación y ejercicio de la facultad establecida en el artículo 60 bis del código tributario. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

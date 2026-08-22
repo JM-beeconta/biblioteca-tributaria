@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tratégica y Estudios Tributarios. Resolución Exenta SII N° 94 del 24 de Agosto del 2020 Autorización a corporación red de alimentos, Rut Nº 65.020.518-9, para distribuir alimentos, pañales y otros artículos de primera necesidad a instituciones sin fines de lucro no inscritas en los términos que se indican. Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bdirección de Tecnologías de la Información Resolución Exenta SII N° 99 del 07 de Agosto del 2025 Instruye sobre la forma en que las entidades que se indican deben verificar lo dispuesto en los incisos decimosegundo y final del artículo 68 del Código Tributario. Deja sin efecto resolución Ex. N° 79 de 2025. Fuente: Subdirección de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Tesorería General de la República y el Servicio de Impuestos Internos. Fuente: Subdirecc…
+cción de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Tesorería General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2013
-- Fecha: 2013-11-18
+- Fecha: 2013-11-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso93.pdf
 - Hash SHA-256: 78bf4e92714b40826a7617dde9e3a68d0a55cf56a99095de9a4dbb8d0fc87501
 
 ## Resumen
 
-;n de Recursos Humanos Resolución Exenta SII N° 94 del 18 de Noviembre del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 92 del 30 de Octubre del 2013 Autoriza como emisores de documentos tribut…
+cia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2019
-- Fecha: 2019-07-22
+- Fecha: 2019-07-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso83.pdf
 - Hash SHA-256: b84dd02516bb4c9be86c5a8d1c2835079baa9c7e13653be89bf586d0f52eef3c
 
 ## Resumen
 
-'font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 84 del 22 de Julio del 2019 Designa Secretario Titular en Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena. Fuente: Subdirección Jurídica Autoriza como receptor electrónico de documentos tributarios electrónicos a la Unidad Administradora de los Tribunales Tributarios y Aduaneros Fuente: Subdirec…
+Subdirección Jurídica Autoriza como receptor electrónico de documentos tributarios electrónicos a la Unidad Administradora de los Tribunales Tributarios y Aduaneros Fuente: Subdirección Asistencia al Contribuyente
 
 ## Referencias detectadas
 

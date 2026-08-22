@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-top:0px;margin-bottom:0px;'>Establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común destinados a producir ingresos afectos al régimen general de primera categoría, rentas exentas, ingresos no renta o ingresos afectos a Impuesto Único de Primera Categoría, distinto al establecido en la Circular N°68 de 2010. Fuente: Departamento Medianas y Grandes Empresas. Téngase por desafiliados del sistema de facturación electrónica a…
+s y Grandes Empresas. Téngase por desafiliados del sistema de facturación electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

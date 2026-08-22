@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2020
-- Fecha: 2020-05-29
+- Fecha: 2020-05-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso57.pdf
 - Hash SHA-256: ce683e50e00dbbb95cd6df459a381dd90ccedc72ee56548c7e19f8398a27f7fb
 
 ## Resumen
 
-cción Normativa. Resolución Exenta SII N° 58 del 29 de Mayo del 2020 Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Exentas SII N°s 80 y N°81, de 2017. Fuente: Subdirección de Fiscalización. Rectifica lista anexa de la Resolución Ex. Sii N° 3, de 2020. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 56 del 26 de Mayo del 2020 Instruye…
+cción de Fiscalización. Rectifica lista anexa de la Resolución Ex. Sii N° 3, de 2020. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

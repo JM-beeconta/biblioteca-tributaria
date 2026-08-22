@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 107
 - Año: 2016
-- Fecha: 2016-11-25
+- Fecha: 2016-11-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso107.pdf
 - Hash SHA-256: eb630e1741d1a1930286952922a6ab354e997afeab66ede523835d3bb4a39901
 
 ## Resumen
 
-;'> Resolución Exenta SII N° 108 del 25 de Noviembre del 2016 Crea el Departamento de Procedimientos Administrativos Tributarios en la Dirección de Grandes Contribuyentes; deja sin efecto Resolución que señala y autoriza delegación de facultades que indica. Fuente: Departamento de Asesoría Jurídica Norma Conjunta Sumerintendencia de Pensiones, Servicio de Impuestos Internos y Tesorería general de la República Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 106 del 18 de Noviembre del 2016 Complement…
+ute;a Jurídica Norma Conjunta Sumerintendencia de Pensiones, Servicio de Impuestos Internos y Tesorería general de la República Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

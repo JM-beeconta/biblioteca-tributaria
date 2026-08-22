@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Masivo del Cumplimiento Tributario Resolución Exenta SII N° 82 del 19 de Agosto del 2016 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento tributario Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 80 del 12 de Agosto del 2016 Establece requisitos que deben cumplir las entidades que se i…
+mplimiento tributario Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

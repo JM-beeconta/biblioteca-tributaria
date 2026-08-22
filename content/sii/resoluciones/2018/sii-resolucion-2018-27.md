@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2018
-- Fecha: 2018-01-18
+- Fecha: 2018-03-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso27.pdf
 - Hash SHA-256: 11e6f7deabbf70f41f99aff00b257a2db94aa36700c8caf0721a6b33540ac90b
 
 ## Resumen
 
-N° 7, de 18 de enero de 2018; N° 16, de 14 de febrero de 2018, que fijan valores de terrenos y construcciones para el reavalúo de los bienes raíces de la Segunda Serie No Agrícola, y Resolución Exenta N° 11, de 30 de enero de 2018, que fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operaci…
+Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

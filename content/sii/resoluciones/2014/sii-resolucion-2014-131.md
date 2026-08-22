@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Fija formato de mandato para retiro o liquidación de inversiones efectuadas para la reinversión en la misma u otra institución habilitada, de conformidad con el inciso décimo del artículo 54 bis de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 130 del 31 de Diciembre del 2014 Establece Declaración Jurada anual que deben presentar las entidades facultadas para emitir productos financieros acogidos al artículo
+Fija formato de mandato para retiro o liquidación de inversiones efectuadas para la reinversión en la misma u otra institución habilitada, de conformidad con el inciso décimo del artículo 54 bis de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

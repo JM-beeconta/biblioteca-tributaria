@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n-bottom:0px;'>Delega facultad que indica. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 184 del 15 de Diciembre del 2025 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta…
+ute;n de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

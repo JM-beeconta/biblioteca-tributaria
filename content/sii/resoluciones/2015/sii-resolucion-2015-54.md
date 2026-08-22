@@ -11,7 +11,7 @@
 
 ## Resumen
 
-55 del 18 de Junio del 2015 Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del D.L. N°825, de 1974. Fuente: Departamento de Atención Y Asistencia de Contribuyentes Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a contribuyentes que señalan. Fu…
+cia de Contribuyentes Autoriza a proceder conforme al Modelo de Operación de Contabilidad Electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

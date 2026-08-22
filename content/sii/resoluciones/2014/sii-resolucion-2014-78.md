@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2014
-- Fecha: 2014-08-20
+- Fecha: 2014-08-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso78.pdf
 - Hash SHA-256: 948b6d30941ed65265d3348dfdaa9e9a91b2fc01d85f662ca7bc70b1d5a5e38d
 
 ## Resumen
 
-'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 79 del 20 de Agosto del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 77 del 14 de Agosto del 2014 Modifica la Resolución N°379 de 1…
+cia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

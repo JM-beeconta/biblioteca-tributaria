@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 118
 - Año: 2019
-- Fecha: 2019-10-28
+- Fecha: 2019-10-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso118.pdf
 - Hash SHA-256: 518942943e463deb51b3c0b92fb8a8a386049127b25b49b1b0cf01557fc36c3d
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 119 del 28 de Octubre del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y el Ministerio del Medio Ambiente. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Complementa Resolución N° 37, de 2013, en los términos que indica. Fuente: Subdirección de Administración Resolución Exenta SII N° 117 del 21 de Octubre del 201…
+tégica y Estudios Tributarios Complementa Resolución N° 37, de 2013, en los términos que indica. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

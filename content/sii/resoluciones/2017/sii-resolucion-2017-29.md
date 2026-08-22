@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2017
-- Fecha: 2017-03-15
+- Fecha: 2017-03-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso29.pdf
 - Hash SHA-256: 2b571d454ad95a116df210884840f0146c11dfe16187cf39aa35cab9022dad24
 
 ## Resumen
 
-artamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 30 del 15 de Marzo del 2017 Aprueba Convenio de Colaboración Mutua entre el Servicio de Impuestos Internos y Corporación Santo Tomás para el Desarrollo y la Cultura Limitada. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a empresa One Ticket Spa para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Operaciones Resolució…
+ncia al Contribuyente Autoriza a empresa One Ticket Spa para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

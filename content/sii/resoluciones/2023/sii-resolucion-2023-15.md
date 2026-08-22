@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 15
 - Año: 2023
-- Fecha: 2023-02-16
+- Fecha: 2023-02-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso15.pdf
 - Hash SHA-256: 5121d88bc6cbf7fb9c00e2f60761c23df2c78753aa702760d78bfe86e3cc9a02
 
 ## Resumen
 
-el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 16 del 16 de Febrero del 2023 Establece Escala De Tasas Conforme Al Precio Internacional De Los Minerales Que Se Indican Y Para Los Efectos Que Se Señalan. Fuente: Subdirección Normativa. Delega Facultad Que Indica En El Funcionario Que Se Individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 14 del 10 de Febrero del 2023 Designa Secretario General Subrogante Fuente: Subdi…
+uente: Subdirección Normativa. Delega Facultad Que Indica En El Funcionario Que Se Individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

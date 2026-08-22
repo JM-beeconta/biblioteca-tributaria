@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2023
-- Fecha: 2023-05-16
+- Fecha: 2023-05-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso56.pdf
 - Hash SHA-256: 7460aaeaec9491bab47321ee912c483a5b83b749f3989aa09b604faf8ec8f250
 
 ## Resumen
 
-nte: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 57 del 16 de Mayo del 2023 Reorganiza las unidades que conforman el departamento subdirección de gestión estratégica y estudios tributarios, y establece sus ámbitos de competencia Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raices de la segunda serie, con jurisdicción en el territorio de la I. Corte de Apelaciones de Sa…
+tégica y Estudios Tributarios. Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raices de la segunda serie, con jurisdicción en el territorio de la I. Corte de Apelaciones de Santiago. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

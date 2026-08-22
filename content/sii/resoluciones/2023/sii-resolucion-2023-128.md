@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 128
 - Año: 2023
-- Fecha: 2023-11-15
+- Fecha: 2023-11-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso128.pdf
 - Hash SHA-256: 1a59f1c95cabcba21674701b10dda55cb12f706e6be8fba527c7f67a5d7db2fe
 
 ## Resumen
 
-os de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Padre Hurtado. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 129 del 15 de Noviembre del 2023 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 127 del 13 de…
+Subdirección Jurídica. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

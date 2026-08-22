@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 36
 - Año: 2020
-- Fecha: 2020-04-02
+- Fecha: 2020-03-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso36.pdf
 - Hash SHA-256: d3edba87031eb0c0ec306ae1ca3378c52afae9e9bd9db9dae428cf94f63dca57
 
 ## Resumen
 
-ute;culos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 37 del 02 de Abril del 2020 Amplía el plazo para presentar las declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 35 del 26 de Marzo del 2020 Amplía el pla…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

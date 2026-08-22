@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 163
 - Año: 2020
-- Fecha: 2020-12-21
+- Fecha: 2020-12-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso163.pdf
 - Hash SHA-256: 631831baa783d27e4d83904d6bdee95405ccdf1c9047fbc08819be7c31d418b6
 
 ## Resumen
 
-s en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 164 del 21 de Diciembre del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Dispone procedimiento para el envío de boletas electrónicas de los contribuyentes que cumplan los requisitos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 162…
+ute;n de Asistencia al Contribuyente. Dispone procedimiento para el envío de boletas electrónicas de los contribuyentes que cumplan los requisitos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2017
-- Fecha: 2017-07-21
+- Fecha: 2017-07-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso66.pdf
 - Hash SHA-256: e497f670423d67ed479d210c05d192430df3eb3a7116c2e89fbeb4239883e3b0
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 67 del 21 de Julio del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Delega firma y establece procedimiento para informar a la Contraloría General de la República sobre reintegro de remuneraciones por licencias médicas rechazadas o reducidas. Fuente: Subdirección de Administración Resolución Exenta SII N° 65 del 18 de Julio del 2017 Aprueba co…
+Fiscalización Delega firma y establece procedimiento para informar a la Contraloría General de la República sobre reintegro de remuneraciones por licencias médicas rechazadas o reducidas. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

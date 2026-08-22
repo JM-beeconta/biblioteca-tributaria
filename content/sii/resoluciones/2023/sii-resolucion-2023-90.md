@@ -11,7 +11,7 @@
 
 ## Resumen
 
-antención de saldos de cuentas corrientes; deja sin efecto las Resoluciones Ex. SII que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 91 del 23 de Agosto del 2023 Crea el Archivo Histórico Institucional del Servicio de Impuestos internos Fuente: Subdirección de Administración. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Granja Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolu…
+ción de Administración. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de La Granja Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

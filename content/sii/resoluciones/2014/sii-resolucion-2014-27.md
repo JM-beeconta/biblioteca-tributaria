@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 27
 - Año: 2014
-- Fecha: 2014-03-11
+- Fecha: 2014-02-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso27.pdf
 - Hash SHA-256: f242105da1f27398c4fc9d2c39c175d7d7271175196abb618cd605334ce4a57e
 
 ## Resumen
 
-de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 28 del 11 de Marzo del 2014 Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Depto. de Personas y de Micro y Pequeñas Empresas Delega facultades en el Director Regional de la XIX Dirección Regional Metropolitana Santiago Norte. Fuente: Depto. de Asesoría Jurídica Resolución Exenta SII N° 26 del 28 de Febrero del 2014 Autoriza a institución sin fines de lucro, como distribuidora de…
+ueñas Empresas Delega facultades en el Director Regional de la XIX Dirección Regional Metropolitana Santiago Norte. Fuente: Depto. de Asesoría Jurídica
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 114 del 26 de Agosto del 2025 Establece obligación de presentar anualmente información sobre activos digitales respecto de contribuyentes con residencia tributaria o domicilio en chile. Declaración jurada formulario N° 1964. Fuente: Subdirección de Fiscalización. Establece obligación de presentar anualmente información sobre activos digitales respecto de contribuyentes con residencia tributaria en el extranjero. Declarac…
+cción de Fiscalización. Establece obligación de presentar anualmente información sobre activos digitales respecto de contribuyentes con residencia tributaria en el extranjero. Declaración jurada formulario N° 1963. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

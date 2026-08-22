@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 35
 - Año: 2013
-- Fecha: 2013-03-27
+- Fecha: 2013-03-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso35.pdf
 - Hash SHA-256: bc0f70408212f1163c19db64e6fc9266b1f09d602bf2f0d99d432c0736b30964
 
 ## Resumen
 
-Fuente: Depto. Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 36 del 27 de Marzo del 2013 Delega facultades que indica en el Subdirector de Avaluaciones. Fuente: Subdirección de Avaluaciones. Autoriza delegación de facultad que indica. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 34 del 22 de Marzo del 2013 Modifica Resolución Ex. SII N° 67, de 2009, que establece normas para la devolución del impuesto del Título II y del artículo 42 de la Ley sobre Impuesto a las Ventas y Serv…
+te;n de Avaluaciones. Autoriza delegación de facultad que indica. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

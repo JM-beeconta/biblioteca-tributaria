@@ -11,7 +11,7 @@
 
 ## Resumen
 
-3 Establece la forma y plazo en que deben presentar la Declaración Jurada para acogerse al beneficio de suspensión de los pagos provisionales mensuales obligatorios, establecido por el artículo 1° bis de la Ley N°19.420 de 1995, y por el artículo 1° bis de la Ley 19.606, de 1999, los contribuyentes que efectúen inversiones al amparo de dichas leyes. Fuente: Departamento Medianas y Grandes Empresas. Autoriza uso crédito IVA y deducción del gasto de vehículo que indica, conforme art.23, N°4 DL N° 825, de 1974 y art.…
+s y Grandes Empresas. Autoriza uso crédito IVA y deducción del gasto de vehículo que indica, conforme art.23, N°4 DL N° 825, de 1974 y art. 31 inciso 1° del D.L. N° 824, de 1974. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas.
 
 ## Referencias detectadas
 

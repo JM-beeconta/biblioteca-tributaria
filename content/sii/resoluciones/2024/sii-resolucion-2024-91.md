@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 92 del 12 de Septiembre del 2024 Aprueba Addendum de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2025. Fuente: Subdirección de Fiscalización. R…
+tégica y Estudios Tributarios. Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

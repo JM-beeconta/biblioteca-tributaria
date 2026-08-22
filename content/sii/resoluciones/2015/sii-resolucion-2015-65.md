@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 65
 - Año: 2015
-- Fecha: 2015-07-31
+- Fecha: 2015-07-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso65.pdf
 - Hash SHA-256: d52e9452489a94e2da0a333fae793a3f7b9f3c8b5d413fed373dc564c7c899d1
 
 ## Resumen
 
-66 del 31 de Julio del 2015 Modifica fecha de entrada en vigencia de la Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, que establece nuevo requisito para las facturas, facturas de compras y guías de despacho, electrónicas o no electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Fija formato e instrucciones de llenado de la declaración Formulario N° 1921 sobre las enajenaciones a las que se re…
+mplimiento Tributario Fija formato e instrucciones de llenado de la declaración Formulario N° 1921 sobre las enajenaciones a las que se refieren los articulos 10 inciso tercero y 58 N° 3, de la LIR y, establece reglas para correlacionar inversiones y pasivos según lo señalado en el inciso quinto del artículo 10 de la LIR. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

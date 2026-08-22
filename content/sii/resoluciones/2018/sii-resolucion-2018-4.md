@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 15 de Enero del 2018 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 04 del 15 de Enero del 2018 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Sub…
+Subdirección de Avaluaciones Resolución Exenta SII N° 04 del 15 de Enero del 2018 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

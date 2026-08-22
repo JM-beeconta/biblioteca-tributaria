@@ -11,7 +11,7 @@
 
 ## Resumen
 
-span> Resolución Exenta SII N° 63 del 21 de Julio del 2015 Designa funcionarios para la implementación de sistema preventivo contra delitos funcionarios, el lavado de activos y financiamiento del terrorismo y delega facultad que indica. Fuente: Subdirección de Fiscalización Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 61 del 20 de Julio del 2015 Autoriza el pago…
+Fiscalización Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

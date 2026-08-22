@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2026
-- Fecha: 2026-12-31
+- Fecha: 2026-04-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso55.pdf
 - Hash SHA-256: 28e33a73ae6cc311afc878ff499e704a6a373d962b309515aa385531e03f12e9
 
 ## Resumen
 
-te;mina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 56 del 13 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 54 del 13 de Abril del 2026 Delega facultad que indica en el funcionario que…
+Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

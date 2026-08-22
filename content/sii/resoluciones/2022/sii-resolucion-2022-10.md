@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2022
-- Fecha: 2022-02-01
+- Fecha: 2022-01-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso10.pdf
 - Hash SHA-256: 09226152f3e2588f354f7684fbba2cb47c529107571ed23cd2490fec8e70069b
 
 ## Resumen
 
-n-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 11 del 01 de Febrero del 2022 Fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2022. Fuente: Subdirección de Avaluaciones. Autoriza a empresa livetickets spa, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que…
+Subdirección de Avaluaciones. Autoriza a empresa livetickets spa, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

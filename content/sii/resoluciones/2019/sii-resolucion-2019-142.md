@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 142
 - Año: 2019
-- Fecha: 2019-12-31
+- Fecha: 2019-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso142.pdf
 - Hash SHA-256: 6f5478910a77cff3e1b8379d096c479225b3f727d0db80b7d75ba92f3dd4be02
 
 ## Resumen
 
-om:0px;'>Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 143 del 31 de Diciembre del 2019 Fija Nómina de Grandes Constribuyentes Fuente: Direccion de Grandes Contribuyentes Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cu…
+Direccion de Grandes Contribuyentes Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

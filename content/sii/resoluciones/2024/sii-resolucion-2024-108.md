@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 108
 - Año: 2024
-- Fecha: 2024-11-28
+- Fecha: 2024-11-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso108.pdf
 - Hash SHA-256: 0b23e4292bd9e06691c0518aeb0dafa4af7999365ffd12dab4cb92771ec27ffc
 
 ## Resumen
 
-eros o móviles, habilitados por este servicio, a los vehículos de transporte de carga y Sanciona su incumplimiento Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 109 del 28 de Noviembre del 2024 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Amplia plazo para presentar el formulario N° 1920 para acogerse al sistema de declaración voluntaria y extraordinaria de bienes o rentas; y al término anticipado de gestiones judiciales pendientes; conforme a l…
+Subdirección Jurídica. Amplia plazo para presentar el formulario N° 1920 para acogerse al sistema de declaración voluntaria y extraordinaria de bienes o rentas; y al término anticipado de gestiones judiciales pendientes; conforme a los artículos undécimo y duodécimo transitorios de la Ley N° 21.713. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

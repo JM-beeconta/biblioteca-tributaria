@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 3
 - Año: 2022
-- Fecha: 2022-01-18
+- Fecha: 2022-01-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso3.pdf
 - Hash SHA-256: 45eff7c8da0ab1cc8bcc169273a422a1724e7b51597b5a7d5be5eb31d58b651f
 
 ## Resumen
 
-za. Fuente: Subdirección de Administración. Resolución Exenta SII N° 04 del 18 de Enero del 2022 Instruye sobre procedimiento general de devolución y recuperación de impuestos, establecido en los artículos 80 a 85 de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 03 del 11 de Enero del 2022 Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y el Ministerio de Desarrollo Social y Familia. Fuente: Subdirección de Gesti…
+cción de Fiscalización. Resolución Exenta SII N° 03 del 11 de Enero del 2022 Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y el Ministerio de Desarrollo Social y Familia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

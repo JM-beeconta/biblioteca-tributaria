@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ocedimientos administrativos tributarios y crea grupo de cumplimiento tributario en terreno. Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 02 del 04 de Enero del 2024 Crea plataforma de Mandatarios Digitales, y establece condiciones y términos de uso. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 04 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lago Ra…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 04 de Enero del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lago Ranco Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resol…
 
 ## Referencias detectadas
 

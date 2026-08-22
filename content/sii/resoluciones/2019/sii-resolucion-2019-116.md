@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 116
 - Año: 2019
-- Fecha: 2019-10-21
+- Fecha: 2019-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso116.pdf
 - Hash SHA-256: 9f108a9671e78d694ef27b26c3f7aaec0b82cfe07190e98743590ce0cbda9310
 
 ## Resumen
 
-nta Resolución N° 37, de 2013, en los términos que indica. Fuente: Subdirección de Administración Resolución Exenta SII N° 117 del 21 de Octubre del 2019 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado entre el…
+cción de Fiscalización Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

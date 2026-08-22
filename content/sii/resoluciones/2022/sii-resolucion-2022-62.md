@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 63 del 22 de Julio del 2022 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a QR Plus SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. R…
+ute;n de Asistencia al Contribuyente. Autoriza a QR Plus SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Servicio de Impuestos Internos. Resolución Exenta SII N° 11 del 17 de Enero del 2024 Autoriza eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma, condiciones y respecto de contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Los Muermos. Fuente:…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Los Muermos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

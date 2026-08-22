@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 25
 - Año: 2025
-- Fecha: 2025-02-24
+- Fecha: 2025-02-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso25.pdf
 - Hash SHA-256: b0b5a8bac92b7d0b46af07baf15a1655b7782a75d3e15a5649682993884aa508
 
 ## Resumen
 
-g;07 de 2025. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 26 del 24 de Febrero del 2025 AUTORIZA A EDS TICKETS SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEFINE ORGANIGRAMA DEL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Direccion Nacional Resolución Exenta SII N° 24 del 21 de Febrero del 2025 MODIFICA RESOLUCIÓN EX. SII N°54 DE 02 MAYO DE 2024, REEMPLAZAN…
+cute;N DE ASISTENCIA AL CONTRIBUYENTE DEFINE ORGANIGRAMA DEL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Direccion Nacional
 
 ## Referencias detectadas
 

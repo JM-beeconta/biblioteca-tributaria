@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 39
 - Año: 2020
-- Fecha: 2020-04-13
+- Fecha: 2020-04-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso39.pdf
 - Hash SHA-256: 9ed316214c677cb17afbffdee47206170808da1fd4ff9dd43fc05d9c8973b076
 
 ## Resumen
 
-l COVID-19 en Chile. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 40 del 13 de Abril del 2020 Establece medidas tributarias, en relación al impuesto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile. Fuente: Subdirección de Fiscalización. Complementa Resolución exenta N° 1 de 2020 en el sentido que indica Fuente: Subdirección de Administración Resolución Exenta SII N° 38 del 03 de Abril del 2020 Establece forma y oportunidad para presentar las declaraciones ju…
+cción de Fiscalización. Complementa Resolución exenta N° 1 de 2020 en el sentido que indica Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

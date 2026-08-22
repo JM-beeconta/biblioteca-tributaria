@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 173 del 03 de Diciembre del 2025 Autoriza a empresa IKSO SPA. Rut 76.993.859-1 a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a empresa Sodimac S.A. Rut 96.792.430-k a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ven…
+ute;n de Asistencia al Contribuyente. Autoriza a empresa Sodimac S.A. Rut 96.792.430-k a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

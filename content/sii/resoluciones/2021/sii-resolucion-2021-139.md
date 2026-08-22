@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 139
 - Año: 2021
-- Fecha: 2021-12-28
+- Fecha: 2021-12-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso139.pdf
 - Hash SHA-256: 83fe2a1e26081e84ae018db7f94485970a212c23d893c4aa3ed283c10efa7f51
 
 ## Resumen
 
-font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 140 del 28 de Diciembre del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Cooperación Técnica y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instruye sobre facultades de los funcionarios fiscalizadores para efectuar actuaciones propias de su cargo relacionadas a la aplicación y fiscalización de declaraciones de los i…
+tégica y Estudios Tributarios. Instruye sobre facultades de los funcionarios fiscalizadores para efectuar actuaciones propias de su cargo relacionadas a la aplicación y fiscalización de declaraciones de los impuestos establecidos en la Ley N° 16.271 efectuadas a través del Form. N° 4412. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

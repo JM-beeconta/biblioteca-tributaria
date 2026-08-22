@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 18
 - Año: 2022
-- Fecha: 2022-02-23
+- Fecha: 2022-02-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso18.pdf
 - Hash SHA-256: 77086cee154b5020d37695706bada64b19273b499e62aa5fbb144190c65e49d5
 
 ## Resumen
 
-ación entre el instituto de Previsión Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 19 del 23 de Febrero del 2022 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+Subdirección Jurídica. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

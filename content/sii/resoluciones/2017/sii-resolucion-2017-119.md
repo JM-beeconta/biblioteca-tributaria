@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:10px;'> Fuente: Subdirección de Informática Resolución Exenta SII N° 120 del 07 de Diciembre del 2017 Reemplaza procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley N° 19.537. Fuente: Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones Resolución Exenta SII N° 118 del…
+ute;n de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 151 del 23 de Octubre del 2025 Modifica denominación de los departamentos de administración de las direcciones regionales y dirección de grandes contribuyentes y redefine sus funciones y atribuciones. Fuente: Subdirección Desarrollo de las Personas Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contri…
+ión Desarrollo de las Personas Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

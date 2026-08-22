@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 204
 - Año: 2025
-- Fecha: 2025-12-30
+- Fecha: 2025-12-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso204.pdf
 - Hash SHA-256: d96cc67405846f6a27828cdc7261efe09ea23e8a3568f840c664217f464c94e9
 
 ## Resumen
 
-Nº 19.628 Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 205 del 30 de Diciembre del 2025 Fija tasas de interés a aplicar por mora en el pago de todo o parte de impuestos o contribuciones para el semestre que se indica Fuente: Subdirección de Fiscalización. Solicitud de acceso a la interfaz de programación de aplicaciones (api), de inicio de actividades de uber rides chile spa, rut n° 77.183.959-2. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta S…
+cción de Fiscalización. Solicitud de acceso a la interfaz de programación de aplicaciones (api), de inicio de actividades de uber rides chile spa, rut n° 77.183.959-2. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

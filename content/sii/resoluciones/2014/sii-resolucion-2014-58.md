@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2014
-- Fecha: 2014-06-20
+- Fecha: 2014-06-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso58.pdf
 - Hash SHA-256: 7eda84ff42c3f5ee7cf0d636abb5f5ef0dddb0f7e8b09c6873f7717926180baf
 
 ## Resumen
 
-legislacion/resoluciones/2014/reso59.pdf' target='_blank'>Resolución Exenta SII N° 59 del 20 de Junio del 2014 Reemplaza resolución Ex. SII N°129, de fecha 06.08.2010, sobre procedimiento de solicitud de inscripción en Registro de Instituciones sin fines de lucro distribuidoras y/o receptoras de alimentos, cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Depa…
+ueñas Empresas Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

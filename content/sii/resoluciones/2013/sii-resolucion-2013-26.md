@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n Resolución Exenta SII N° 27 del 22 de Febrero del 2013 Sustitúyase las instrucciones de llenado de la Declaración Jurada Formulario N° 1867 a que se refiere la Resolución Ex. N° 30 de fecha 26.02.2007. Fuente: Subdirección de Fiscalización Sustitúyase las instrucciones de llenado de la Declaración Jurada Formulario N° 1866 a que se refiere la Resolución Ex. N° 121 de fecha 31.12.2004. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 25 del 22 de Febrero del 2013 Extiende obligación de presentar Dec…
+Fiscalización Sustitúyase las instrucciones de llenado de la Declaración Jurada Formulario N° 1866 a que se refiere la Resolución Ex. N° 121 de fecha 31.12.2004. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

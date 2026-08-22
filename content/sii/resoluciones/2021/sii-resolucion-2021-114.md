@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2021
-- Fecha: 2021-10-08
+- Fecha: 2021-10-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso114.pdf
 - Hash SHA-256: 2ea29a500326b03eb92fb3a5a77250603e5350971305677f41f7099395def1f0
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 115 del 08 de Octubre del 2021 Fija plazo y forma en que este servicio debe realizar los avisos para ejecutar las medidas preventivas y de colaboración contempladas en el numeral iii. Del artículo 33 del Código Tributario. Fuente: Subdirección de Fiscalización. Incorpórase a INGE Sociedad Anónima de garantía recíproca, en la nómina de entidades para ser receptora de la Carpeta Tributaria por mandato. Fuente: Subdir…
+cción de Fiscalización. Incorpórase a INGE Sociedad Anónima de garantía recíproca, en la nómina de entidades para ser receptora de la Carpeta Tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

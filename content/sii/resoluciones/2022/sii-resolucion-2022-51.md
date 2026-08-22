@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 51
 - Año: 2022
-- Fecha: 2022-06-03
+- Fecha: 2022-05-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso51.pdf
 - Hash SHA-256: d530891e71de5696358a64f7a195d424a3664d98aa06d99411ec9f3a2d15610e
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 52 del 03 de Junio del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre la Empresa Información Comercial Limitada y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Empresas Chilenas de Tecnología. Fuente: Subdirección de Ges…
+tégica y Estudios Tributarios. Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Empresas Chilenas de Tecnología. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

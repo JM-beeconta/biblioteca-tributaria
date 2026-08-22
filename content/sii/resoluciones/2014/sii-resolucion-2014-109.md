@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 109
 - Año: 2014
-- Fecha: 2014-12-02
+- Fecha: 2014-11-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso109.pdf
 - Hash SHA-256: 1857eafb393d8066efc3be7c0865720b01c0902cc29958e6be7e57d081a2859c
 
 ## Resumen
 
-ottom:0px;'> Resolución Exenta SII N° 110 del 02 de Diciembre del 2014 Establece la forma y procedimiento en que se hará efectiva la postergación del pago del Impuesto al Valor Agregado, establecida en el inciso tercero del artículo 64 del D.L. N°825, de 1974. Fuente: Departamento de Sistemas de Fiscalización Incorpora a las Administradoras de Fondos de Inversión y de Fondos Mutuos a la obligación de presentar Declaración Jurada Anual 1807 Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Reso…
+Fiscalización Incorpora a las Administradoras de Fondos de Inversión y de Fondos Mutuos a la obligación de presentar Declaración Jurada Anual 1807 Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

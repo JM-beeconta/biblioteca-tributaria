@@ -11,7 +11,7 @@
 
 ## Resumen
 
-l traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 153 del 29 de Octubre del 2025 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Villa Alemana. Fuente: Subdirección de Avaluaciones. Aprueba prórroga del Convenio interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de…
+Subdirección de Avaluaciones. Aprueba prórroga del Convenio interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 142
 - Año: 2023
-- Fecha: 2023-12-15
+- Fecha: 2023-12-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso142.pdf
 - Hash SHA-256: 71cdd70fb4d66d70d2bde7ec3ef3526c1fdff6d89a6f5dd1312543cf274e0e89
 
 ## Resumen
 
-tom:0px;'> Resolución Exenta SII N° 143 del 15 de Diciembre del 2023 Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Sub…
+cción de Fiscalización. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

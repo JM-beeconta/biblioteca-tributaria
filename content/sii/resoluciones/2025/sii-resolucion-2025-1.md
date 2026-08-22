@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2025
-- Fecha: 2025-01-03
+- Fecha: 2025-01-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso1.pdf
 - Hash SHA-256: b3cf0d18370c89eff8af3b39cf84af1db00a4605aac7dfb2ce81394906f06b00
 
 ## Resumen
 
-difica la Resolución N°80, de 2024. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 03 de Enero del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 02 de Enero del 2025 Crea registro de pequeños artesanos exonerados de IVA en las ventas de productos que elaboren con materias primas. Fuente: Subdirección Normativa function ir_a…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 02 de Enero del 2025 Crea registro de pequeños artesanos exonerados de IVA en las ventas de productos que elaboren con materias primas. Fuente: Subdirección Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_any…
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 82
 - Año: 2026
-- Fecha: 2026-06-23
+- Fecha: 2026-06-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso82.pdf
 - Hash SHA-256: 685262983a7001569e097d437473744781195bdb7f584ab6a042233c58f1e9bc
 
 ## Resumen
 
-e dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 83 del 23 de Junio del 2026 Establece régimen voluntario de cambio total del sujeto de derecho del IVA en servicios agrícolas prestados a terceros. Fuente: Subdirección de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 81 del 12 de Junio del 2026 Fija condiciones para autorizar excepcionalmente el traslad…
+cción de Fiscalización. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

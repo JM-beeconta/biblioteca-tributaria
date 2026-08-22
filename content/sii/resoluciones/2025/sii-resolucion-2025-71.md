@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 72 del 19 de Junio del 2025 Establece contenido y procedimiento de suscripción y ejecución de acuerdos de cooperación con grupos empresariales, conforme con los incisos tercero y cuarto del N° 18 del artículo 8° del Código Tributario. Fuente: Subdirección de Fiscalización. Imparte instrucciones sobre procedimiento para que las empresas certificadoras independientes puedan otorgar certificación anual de sostenibilidad tributaria a los contribuyente…
+cción de Fiscalización. Imparte instrucciones sobre procedimiento para que las empresas certificadoras independientes puedan otorgar certificación anual de sostenibilidad tributaria a los contribuyentes, de acuerdo con el párrafo segundo del N° 18 del artículo 8° del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

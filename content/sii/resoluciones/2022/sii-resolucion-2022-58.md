@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2022
-- Fecha: 2022-07-12
+- Fecha: 2022-06-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso58.pdf
 - Hash SHA-256: d3223dea7e24162a99c4223875d4ff1286ae4d46e1c2cea8e5b4af8af2f444ef
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 59 del 12 de Julio del 2022 Exime a instituciones que indica, de la obligación de autorización previa a la emisión, de los certificados de donaciones y fija requisitos que se Señalan. Fuente: Subdirección de Asistencia al Contribuyente. Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdir…
+ute;n de Asistencia al Contribuyente. Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2022
-- Fecha: 2022-11-16
+- Fecha: 2022-11-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso104.pdf
 - Hash SHA-256: b76eb22036ae192f1e65209fdd47b57af2d4f0111ea79de5f72fce6756812366
 
 ## Resumen
 
-Fuente: Subdirección Jurídica. Resolución Exenta SII N° 105 del 16 de Noviembre del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 103 del 15 de Noviembre del 2…
+tégica y Estudios Tributarios. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

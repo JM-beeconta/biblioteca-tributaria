@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 4
 - Año: 2022
-- Fecha: 2022-01-26
+- Fecha: 2022-01-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso4.pdf
 - Hash SHA-256: 3628380dd575f9c979e4cd1ebcfcbcb6c1a0d38aaa1cea9fa482af5c586b543c
 
 ## Resumen
 
-acute;n General de Promoción de Exportaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 05 del 26 de Enero del 2022 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección de Administración. Resolución Exenta SII N° 04 del 18 de Enero del 2022 Instruye sobre procedimiento general de devolución y recuperación de impuestos, establecido en los artículos 80 a 85 de la Ley sobre impuesto a las ventas…
+ción de Administración. Resolución Exenta SII N° 04 del 18 de Enero del 2022 Instruye sobre procedimiento general de devolución y recuperación de impuestos, establecido en los artículos 80 a 85 de la Ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

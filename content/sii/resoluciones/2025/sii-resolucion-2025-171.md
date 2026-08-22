@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 171
 - Año: 2025
-- Fecha: 2025-12-03
+- Fecha: 2025-11-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso171.pdf
 - Hash SHA-256: c2bbf5b2f024916afe1d575f7d276113b9e0052b877252f008aa0baf1a87470f
 
 ## Resumen
 
-bdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 172 del 03 de Diciembre del 2025 Autoriza a empresa Sodimac S.A. Rut 96.792.430-k a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece el procedimiento para aplicar la presunción legal de término de giro, según lo dispuesto en el inciso final del artículo 69° del Código Tributar…
+ute;n de Asistencia al Contribuyente. Establece el procedimiento para aplicar la presunción legal de término de giro, según lo dispuesto en el inciso final del artículo 69° del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

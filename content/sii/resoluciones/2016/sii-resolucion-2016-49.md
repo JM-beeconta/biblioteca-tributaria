@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 49
 - Año: 2016
-- Fecha: 2016-05-27
+- Fecha: 2016-05-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso49.pdf
 - Hash SHA-256: a1bc90d82c32d7f3a653138eece2e99d357488865e8b1fbf5c01f6b01f4fa8c4
 
 ## Resumen
 
-href='https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso50.pdf' target='_blank'>Resolución Exenta SII N° 50 del 27 de Mayo del 2016 Autoriza a empresa NALS Asesorías y Servicios Informáticos SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes Fija procedimiento mediante el cual los contribuyentes pueden solicitar una nueva tasación fiscal de un inmueble, al…
+cia de Contribuyentes Fija procedimiento mediante el cual los contribuyentes pueden solicitar una nueva tasación fiscal de un inmueble, al amparo de lo indicado en el D.L.N° 825, de 1974. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

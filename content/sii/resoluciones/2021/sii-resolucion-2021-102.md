@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='margin-bottom:0px;'> Resolución Exenta SII N° 103 del 31 de Agosto del 2021 Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario Nº 1887, en los casos que se señalan Fuente: Subdirección de Fiscalización. Modifica resolución ex. SII n°110 de 2004, incorporando en declaración jurada anual n°1832, la información de donaciones efectua…
+cción de Fiscalización. Modifica resolución ex. SII n°110 de 2004, incorporando en declaración jurada anual n°1832, la información de donaciones efectuadas al fondo nacional del cáncer, conforme lo dispuesto en la ley n°21.258. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 73
 - Año: 2014
-- Fecha: 2014-08-08
+- Fecha: 2014-08-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso73.pdf
 - Hash SHA-256: f6dcc50cd51fdf3da048287e1d406885edfcba04b0079e97bfa7be73912b4979
 
 ## Resumen
 
-ción y Asistencia de Contribuyentes Resolución Exenta SII N° 74 del 08 de Agosto del 2014 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Aprueba Protocolo de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios Resolución Exenta SII N° 72 del 31 de Julio del 2014 Implementa excepciones establecidas en el inciso…
+ueñas Empresas Aprueba Protocolo de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Estudios
 
 ## Referencias detectadas
 

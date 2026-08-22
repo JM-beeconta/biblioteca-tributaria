@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 45 del 24 de Abril del 2020 Establece la forma en que los contribuyentes podrán acogerse a al régimen de depreciación instantánea establecida en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210 que moderniza la Legislación Tributaria. Fuente: Subdirección de Fiscalización. Establece comunicaciones, verificaciones, obligaciones de información y de registro, y modelo de certificado, por aplicación de la Ley Nº 21.207 sobre Ley de Donaciones para l…
+cción de Fiscalización. Establece comunicaciones, verificaciones, obligaciones de información y de registro, y modelo de certificado, por aplicación de la Ley Nº 21.207 sobre Ley de Donaciones para las micro, pequeñas y medianas empresas (MIPYMES). Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

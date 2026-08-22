@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 109 del 27 de Diciembre del 2013 Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Fija Valores de terrenos y construcciones, y definiciones técnicas para el reavalúo de los bienes raíces de la segunda serie no agrícola con destino habitacional y los correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Subdirección de Avaluacion…
+randes Contribuyentes Fija Valores de terrenos y construcciones, y definiciones técnicas para el reavalúo de los bienes raíces de la segunda serie no agrícola con destino habitacional y los correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

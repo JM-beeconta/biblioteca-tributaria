@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 171
 - Año: 2020
-- Fecha: 2020-12-30
+- Fecha: 2020-12-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso171.pdf
 - Hash SHA-256: 6998b9f39756bd694afcf51caa156b84814dc2c0177c2b7be8267b9184160764
 
 ## Resumen
 
-puesto a la Renta. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 172 del 30 de Diciembre del 2020 Establece forma y plazo para ejercer la opción del incentivo al ahorro a que se refiere la letra e) del Artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Establece la forma y plazo en que las empresas que sean contribuyentes de la primera categoría y se encuentren sujetas al Artículo 14 letra a) o d) N° 3 de la Ley sobre Impuesto a la Renta, deben certificar el v…
+cción de Fiscalización. Establece la forma y plazo en que las empresas que sean contribuyentes de la primera categoría y se encuentren sujetas al Artículo 14 letra a) o d) N° 3 de la Ley sobre Impuesto a la Renta, deben certificar el valor de costo para fines tributarios, a la fecha de término de giro, de los bienes que se adjudiquen los propietarios en la disolución o liquidación de aquellas. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

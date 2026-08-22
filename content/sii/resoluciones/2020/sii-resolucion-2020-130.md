@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 130
 - Año: 2020
-- Fecha: 2020-10-02
+- Fecha: 2020-09-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso130.pdf
 - Hash SHA-256: 2016d33a78fd0fa331d11d04ecd593c661f207a76b87da494a4f6675b6dc03e9
 
 ## Resumen
 
-on los requisitos legales. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 131 del 02 de Octubre del 2020 Dispone declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola y fija plazo de presentación. Fuente: Subdirección de Avaluaciones. Modifica Resolución Exenta Nº 11 de 28 de enero de 2014, que establece la obligación de presentar Declaración Jurada anual Nº 1909, sobre desembolsos y otras partidas o cantidades a que se refiere el inciso tercero de…
+Subdirección de Avaluaciones. Modifica Resolución Exenta Nº 11 de 28 de enero de 2014, que establece la obligación de presentar Declaración Jurada anual Nº 1909, sobre desembolsos y otras partidas o cantidades a que se refiere el inciso tercero del artículo 21 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

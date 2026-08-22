@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 109 del 21 de Noviembre del 2022 Aprueba Addendum al Convenio de Colaboración entre el Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Chilena del Cobre y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Est…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Chilena del Cobre y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

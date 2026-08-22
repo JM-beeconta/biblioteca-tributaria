@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2020
-- Fecha: 2020-04-03
+- Fecha: 2020-04-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso37.pdf
 - Hash SHA-256: ca515ba23ad1ae16df4519c02d25f134ef07fc8477aa2e21f35d052e44034bd4
 
 ## Resumen
 
-> Fuente: Subdirección de Administración Resolución Exenta SII N° 38 del 03 de Abril del 2020 Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar las declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 36 del 27 de Marzo del 2020 D…
+cción de Fiscalización. Amplía el plazo para presentar las declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

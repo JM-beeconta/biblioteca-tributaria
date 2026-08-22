@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 59
 - Año: 2025
-- Fecha: 2025-05-07
+- Fecha: 2025-05-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso59.pdf
 - Hash SHA-256: aaf4e2f69584bd4d1cbdfe236fccec0df7c45d5327c20c06f3e1bb55627225cd
 
 ## Resumen
 
-midad a lo señalado en el artículo 41 h. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 60 del 07 de Mayo del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para efectuar denuncias anónimas de conformidad al artículo 100 quáter del código tributario Fuente: Subdirección Jurídica. Resolución Exenta SII N° 58 del 06 de Mayo del 2025 Establece parámetros ob…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para efectuar denuncias anónimas de conformidad al artículo 100 quáter del código tributario Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

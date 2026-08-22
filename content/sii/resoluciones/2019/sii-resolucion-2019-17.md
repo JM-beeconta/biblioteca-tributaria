@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 18 del 06 de Febrero del 2019 Autoriza a la sociedad FALABELLA RETAIL S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Exenta SII N° 149.- de 28 de diciembre de 2018, en los términos que indica. Fuente: Subdirección de Fiscalización Resolución Exen…
+ute;n de Asistencia al Contribuyente Complementa Resolución Exenta SII N° 149.- de 28 de diciembre de 2018, en los términos que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

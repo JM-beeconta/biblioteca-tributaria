@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2026
-- Fecha: 2026-01-19
+- Fecha: 2026-01-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso7.pdf
 - Hash SHA-256: 1151549ffc4aa7fd09192d247ebedf569e4f6a6549125eb2cd79621c6788b6e8
 
 ## Resumen
 
-aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 08 del 19 de Enero del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 14 de Enero del 2026 Fija valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avalua…
+cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 14 de Enero del 2026 Fija valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

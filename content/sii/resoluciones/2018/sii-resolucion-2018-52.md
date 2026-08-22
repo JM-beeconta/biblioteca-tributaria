@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2018
-- Fecha: 2018-06-29
+- Fecha: 2018-06-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso52.pdf
 - Hash SHA-256: 6444e48fb2b92651299d0f05fc10f9f36d0af1e03a9ab4c497108209a450907c
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 53 del 29 de Junio del 2018 Autoriza a empresa PRODUCCIONES Y EVENTOS EMPIRE DIGITAL LIMITADA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Exime a instituciones sin fines de lucro que señala, de timbrar certificados por donaciones a que se refiere el n°5 del artículo 1° de la ley n°19.885 y…
+ute;n de Asistencia al Contribuyente Exime a instituciones sin fines de lucro que señala, de timbrar certificados por donaciones a que se refiere el n°5 del artículo 1° de la ley n°19.885 y fija condiciones que se indican. Fuente: Subdirección De Asistencia al Contribuyente
 
 ## Referencias detectadas
 

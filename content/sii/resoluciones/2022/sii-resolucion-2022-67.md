@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 67
 - Año: 2022
-- Fecha: 2022-08-17
+- Fecha: 2022-08-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso67.pdf
 - Hash SHA-256: 26bef9baa4b64c7c895a0dc448255dd617374e6cc0f6bfb7edebf29a98e4bdd3
 
 ## Resumen
 
-ario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 68 del 17 de Agosto del 2022 Incorpórase a corporación de fomento de la producción, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Modifica Resolución Exenta SII N°72 de 2021, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 66 del 02 de Agosto del 2022 Emisión de documentos tributarios el…
+ute;n de Asistencia al Contribuyente. Modifica Resolución Exenta SII N°72 de 2021, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

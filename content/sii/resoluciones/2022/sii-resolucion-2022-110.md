@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 111 del 25 de Noviembre del 2022 Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Seguridad Social y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Concesiones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gesti…
+tégica y Estudios Tributarios. Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Concesiones y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

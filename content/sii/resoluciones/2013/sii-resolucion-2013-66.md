@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n> Resolución Exenta SII N° 67 del 21 de Junio del 2013 Establece procedimiento de presentación y tramitación de las solicitudes de rectificación conforme al N°8 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento Fiscalización Internacional. Establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común destinados a producir ingresos afectos al régimen general de primera categoría, rentas exentas, ingresos no renta…
+cute;n Internacional. Establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común destinados a producir ingresos afectos al régimen general de primera categoría, rentas exentas, ingresos no renta o ingresos afectos a Impuesto Único de Primera Categoría, distinto al establecido en la Circular N°68 de 2010. Fuente: Departamento Medianas y Grandes Empresas.
 
 ## Referencias detectadas
 

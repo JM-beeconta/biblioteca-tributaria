@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;mina de bienes afectos, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 193 del 22 de Diciembre del 2025 Crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Fiscalización. Establece formulario para declarar y pagar el impuesto sustitutivo aplicable a los contribuyentes de ferias libres del párrafo 7° ter del título II de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdire…
+cción de Fiscalización. Establece formulario para declarar y pagar el impuesto sustitutivo aplicable a los contribuyentes de ferias libres del párrafo 7° ter del título II de la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

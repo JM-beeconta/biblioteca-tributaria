@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 137
 - Año: 2019
-- Fecha: 2019-12-10
+- Fecha: 2019-12-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso137.pdf
 - Hash SHA-256: b367ebab6a08a1fefc594ce1caabf70ea09cd6a92cbc90b16f0d316aa2d3b6b2
 
 ## Resumen
 
-tabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 138 del 10 de Diciembre del 2019 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Sociedad Nacional de Pesca. Fuente: Subdireción de Fiscalización Resolución Exenta SII N° 136 del 09 de Diciembre del 2019 Aprueba Acu…
+cción de Fiscalización Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Sociedad Nacional de Pesca. Fuente: Subdireción de Fiscalización
 
 ## Referencias detectadas
 

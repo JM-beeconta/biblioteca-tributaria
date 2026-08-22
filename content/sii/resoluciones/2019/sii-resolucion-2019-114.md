@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2019
-- Fecha: 2019-10-15
+- Fecha: 2019-10-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso114.pdf
 - Hash SHA-256: 0354ae46a294d07ec6348db1acff85b0cf7c5d31db7fd2459447b06b8fc04bc2
 
 ## Resumen
 
-cute;n y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 115 del 15 de Octubre del 2019 Deja sin efecto Resolución Exenta SII N° 111, de 22 de septiembre de 2008, por las razones que indica. Fuente: Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 113 del 10 de Octubre…
+Subdirección de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

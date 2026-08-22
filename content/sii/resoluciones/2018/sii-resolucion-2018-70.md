@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2018
-- Fecha: 2018-06-29
+- Fecha: 2018-08-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso70.pdf
 - Hash SHA-256: 0154e98fce524bafc75b6a5a7336e8bc767caa49b27fbef5b07a341c29a89634
 
 ## Resumen
 
-SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 71 del 31 de Agosto del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2019. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 69 del 29 de Agosto del 2018 Autoriza a empresa MDTICKET CHILE S…
+cción de Fiscalización Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

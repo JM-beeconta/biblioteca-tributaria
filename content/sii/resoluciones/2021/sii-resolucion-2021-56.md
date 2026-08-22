@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 57 del 09 de Junio del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Incorpora a la tabla de depreciación de Res. Ex. SII N°43 de 2002, los vehículos eléctricos o híbridos con recarga eléctrica exterior, y otros calificados como cero emisiones p…
+tégica y Estudios Tributarios. Incorpora a la tabla de depreciación de Res. Ex. SII N°43 de 2002, los vehículos eléctricos o híbridos con recarga eléctrica exterior, y otros calificados como cero emisiones por resolución fundada del ministerio de energía. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 51
 - Año: 2026
-- Fecha: 2026-04-10
+- Fecha: 2026-04-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso51.pdf
 - Hash SHA-256: 9d2fe21fcc84c5a5d7f934f5a8ff2caf9e039e94a01c57b2e33a30baf30d90fc
 
 ## Resumen
 
-ubdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 52 del 10 de Abril del 2026 Modifica fecha de entrada en vigencia de las obligaciones establecidas en la resolución ex. SII N° 154 de 2025, que fija exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Graneros. Fuente:…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Graneros. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

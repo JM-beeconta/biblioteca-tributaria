@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 96
 - Año: 2021
-- Fecha: 2021-08-19
+- Fecha: 2021-08-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso96.pdf
 - Hash SHA-256: 0a1ddd7ec63698daa771c77f43c2c6b1bfa929294eba2c6124be4f3a0078a433
 
 ## Resumen
 
-ottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 97 del 19 de Agosto del 2021 Designa secretarios, titulares y suplentes, en los tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la i. Corte de apelaciones de coyhaique. Fuente: Departamento de Asesoría Jurídica. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar bono adicional variable y bono para el pago de cotizaciones, establecidos…
+o de Asesoría Jurídica. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar bono adicional variable y bono para el pago de cotizaciones, establecidos en la ley n° 21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

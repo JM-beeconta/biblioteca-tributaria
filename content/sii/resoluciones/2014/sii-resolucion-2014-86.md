@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 87 del 28 de Agosto del 2014 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 85 del 22 de Agosto del 2014 Reemplaza plano de precios de la com…
+ueñas Empresas Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

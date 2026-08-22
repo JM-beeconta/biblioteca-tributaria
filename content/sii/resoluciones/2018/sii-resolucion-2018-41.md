@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 42 del 30 de Abril del 2018 Dispone cambio de sujeto total de derecho para el cumplimiento de IVA. Deja sin efecto la Resolución Ex. SII N° 2, de 12 de Enero de 2018. Fuente: Subdirección De Fiscalización Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resoluci…
+cción De Fiscalización Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 47 de 2017 Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

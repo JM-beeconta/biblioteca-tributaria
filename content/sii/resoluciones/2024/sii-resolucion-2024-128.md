@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Servicio de Impuestos Internos. Resolución Exenta SII N° 129 del 26 de Diciembre del 2024 Reorganiza las unidades que conforman el departamento Subdirección de Gestión Estratégica y Estudios Tributarios, establece funciones, ámbito de competencia y deja sin efecto Resolución Exenta N°57 de 2023 Fuente: Subdirección de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento subdirección de asistencia al contribuyente, establece funciones, ámbito de competencia; deja sin efecto r…
+ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento subdirección de asistencia al contribuyente, establece funciones, ámbito de competencia; deja sin efecto resoluciones exentas SII N°20 de 2021 Y N°86 de 2022. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2017
-- Fecha: 2017-08-02
+- Fecha: 2017-07-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso68.pdf
 - Hash SHA-256: 7ad15a86cd2be901a48a01e3334b7630906758e0ee3eeb8897dfe742492342a5
 
 ## Resumen
 
-s, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 69 del 02 de Agosto del 2017 Delegación de facultades que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Modifica Res. Ex. SII N° 61, de 12.07.2017, ampliando universo de contribuyentes eximidos de llevar Libro de Compras y Ventas Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 67 del 21 de Julio del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras…
+Estudios Tributarios Modifica Res. Ex. SII N° 61, de 12.07.2017, ampliando universo de contribuyentes eximidos de llevar Libro de Compras y Ventas Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

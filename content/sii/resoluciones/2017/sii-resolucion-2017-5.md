@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 5
 - Año: 2017
-- Fecha: 2017-01-17
+- Fecha: 2017-01-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso5.pdf
 - Hash SHA-256: e31c8890bf65cc35b50c57ce1a89ad92ca8b895930e9a082e44952c331d373be
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 06 del 17 de Enero del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 13 de Enero del 2017 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Departamento de Tasaciones Resolución Exenta SII N° 04 del 13 de Enero del 2017 Fija tablas…
+cia al Contribuyente Resolución Exenta SII N° 05 del 13 de Enero del 2017 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Departamento de Tasaciones
 
 ## Referencias detectadas
 

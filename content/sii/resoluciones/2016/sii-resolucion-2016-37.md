@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución SII N° 38 del 15 de Abril del 2016 Delega facultades que indica. Fuente: Subdireccion de Desarrollo de Personas Reorganiza las Unidades que conforman el Departamento Subdirección de Avaluaciones y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 36 del 15 de Abril del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección de Informática y e…
+esarrollo de Personas Reorganiza las Unidades que conforman el Departamento Subdirección de Avaluaciones y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 32
 - Año: 2017
-- Fecha: 2017-03-16
+- Fecha: 2017-03-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso32.pdf
 - Hash SHA-256: a76ce76c5ad054005506df79893f8eca94c566d6ab25468a646f2938b8b7ebbe
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 33 del 16 de Marzo del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Modifica Resolución Exenta N° 03, de 09.01.2013, que asigna funciones de Secretario General al funcionario que indica, respecto de los planos de precios preparados por las Direcciones Regionales y designa…
+amento de Operaciones Modifica Resolución Exenta N° 03, de 09.01.2013, que asigna funciones de Secretario General al funcionario que indica, respecto de los planos de precios preparados por las Direcciones Regionales y designa subrogante. Fuente: Oficina de Normas y Casos Especiales
 
 ## Referencias detectadas
 

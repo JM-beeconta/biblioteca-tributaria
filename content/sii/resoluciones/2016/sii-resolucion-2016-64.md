@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le='margin-bottom:0px;'> Resolución Exenta SII N° 65 del 06 de Julio del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Asistencia al Contribuyente; establece ámbito de competencia y modifica Resolución Exenta N°98, del 21.10.2014. Fuente: Subdirección de Asistencia al Contribuyente Reorganiza las unidades que conforman el Departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 63…
+ncia al Contribuyente Reorganiza las unidades que conforman el Departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

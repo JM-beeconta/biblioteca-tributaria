@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y Pequeñas Empresas Resolución Exenta SII N° 13 del 31 de Enero del 2014 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Fija valores de montos de avalúo exento y de avalúo para cambio de tasa del impuesto territorial, para predios no agrícolas reavaluados con vigencia 1° de enero de 2014 Fuente: Subdirección Avaluaciones Resolución Exenta SII N° 11 del 28 de Enero del 2014 Establece obl…
+cia de Contribuyentes Fija valores de montos de avalúo exento y de avalúo para cambio de tasa del impuesto territorial, para predios no agrícolas reavaluados con vigencia 1° de enero de 2014 Fuente: Subdirección Avaluaciones
 
 ## Referencias detectadas
 

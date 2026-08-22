@@ -11,7 +11,7 @@
 
 ## Resumen
 
->Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 15 del 30 de Enero del 2025 Identifica personal que señala el Artículo 14 del DS N°661/2024 que aprueba reglamento de compras públicas. Fuente: Subdirección de Administración. Autoriza a empresa de correos de chile, Rut N° 60.503.000-9, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 13 del…
+ción de Administración. Autoriza a empresa de correos de chile, Rut N° 60.503.000-9, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

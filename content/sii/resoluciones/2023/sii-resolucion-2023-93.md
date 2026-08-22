@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nte: Subdirección de Fiscalización. Resolución Exenta SII N° 94 del 31 de Agosto del 2023 Modifica resolución Ex. SII Nº 103 de 2017, que establece la obligación de presentar formulario N° 1945, declaración jurada anual sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización. Reemplaza formato, contenido e instrucciones de declaración jurada formulario N° 1887 sobre rentas del art. 42 Nº 1 (sueldos), otros componentes de la remuneración y ret…
+cción de Fiscalización. Reemplaza formato, contenido e instrucciones de declaración jurada formulario N° 1887 sobre rentas del art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la ley de la renta. Modifica resolución exenta N° 70 del 31.08.2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2020
-- Fecha: 2020-03-26
+- Fecha: 2020-03-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso34.pdf
 - Hash SHA-256: 5c905d702ec5fee7f101c589506d327e76289082c717620d3f439931cbefa663
 
 ## Resumen
 
-;n lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 35 del 26 de Marzo del 2020 Amplía el plazo para presentar Declaraciones Juradas N°1933, N°3225 y N° 3226. Fuente: Subdirección de Fiscalización. Resuelve solicitud de Importadora de Tabacos Austral Ltda., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y…
+cción de Fiscalización. Resuelve solicitud de Importadora de Tabacos Austral Ltda., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 44
 - Año: 2016
-- Fecha: 2016-05-23
+- Fecha: 2016-05-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso44.pdf
 - Hash SHA-256: a5bb097c1376d9e12cd7d0d3392b12358b8ede60bc3e3a4b79cab389228bffce
 
 ## Resumen
 
-h5 style='margin-bottom:0px;'> Resolución Exenta SII N° 45 del 23 de Mayo del 2016 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Comisión del Sistema Nacional de Certificación de Competencias Laborales Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 43 del 13 de…
+Estudios Tributarios Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

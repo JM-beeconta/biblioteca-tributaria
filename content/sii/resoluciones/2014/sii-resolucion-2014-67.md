@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:0px;'> Resolución Exenta SII N° 68 del 21 de Julio del 2014 Exime a Fundación las Rosas de ayuda fraterna de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos para resguardar el interés fiscal. Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a Contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 66 del 18 d…
+cia de Contribuyentes Autoriza a Contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

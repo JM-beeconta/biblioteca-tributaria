@@ -11,7 +11,7 @@
 
 ## Resumen
 
-buyente. Resolución Exenta SII N° 69 del 02 de Junio del 2026 Habilita sistema para que contribuyentes sin domicilio ni residencia en chile que presten servicios de apuestas, juegos de azar, casinos y de servicios análogos o conexos, prestados en línea o a través de plataformas digitales, cumplan obligaciones tributarias que indica. Fuente: Subdirección de Fiscalización Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 67 del 25 de Mayo del 202…
+ección de Fiscalización Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

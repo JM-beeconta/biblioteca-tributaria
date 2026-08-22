@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 12
 - Año: 2025
-- Fecha: 2025-01-24
+- Fecha: 2025-01-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso12.pdf
 - Hash SHA-256: f3944ba6e4d21878b1e205857c69069e9a788ad5e307fc1c0fdb3da73c0b7c04
 
 ## Resumen
 
-se indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 13 del 24 de Enero del 2025 Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la materia que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece la obligación de entregar representación impresa o virtual de la boleta electrónica y del comprobante de pago electrónico, en las condiciones que se indican. Fuente: Subdirección de Asistenc…
+ute;n de Asistencia al Contribuyente. Establece la obligación de entregar representación impresa o virtual de la boleta electrónica y del comprobante de pago electrónico, en las condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

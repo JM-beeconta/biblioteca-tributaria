@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 98
 - Año: 2022
-- Fecha: 2022-10-26
+- Fecha: 2022-10-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso98.pdf
 - Hash SHA-256: 52ee84de6d69f64901d90aef86f92a97fcf76abbd1d813c227d6fbad2e86461c
 
 ## Resumen
 
-acute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 99 del 26 de Octubre del 2022 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Deja sin efecto aplicación de reajustes e intereses penales correspondientes a la tercera cuota de contribuciones con vencimiento 30 de septiembre de 2022 y dis…
+tégica y Estudios Tributarios. Deja sin efecto aplicación de reajustes e intereses penales correspondientes a la tercera cuota de contribuciones con vencimiento 30 de septiembre de 2022 y dispone la imputación de las sumas pagadas indebidamente por los contribuyentes en casos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

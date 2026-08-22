@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rcialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 95 del 05 de Octubre del 2018 Autoriza a Director Regional de la XX Dirección Regional, Chillán, para delegar en Jefe de Unidad de San Carlos las facultades que indica. Fuente: Subdirección Jurídica Autoriza al Conservador de Bienes Raíces de Cauquenes, Sr. Yamil Abraham Antonio Najle Alee, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Reso…
+Subdirección Jurídica Autoriza al Conservador de Bienes Raíces de Cauquenes, Sr. Yamil Abraham Antonio Najle Alee, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

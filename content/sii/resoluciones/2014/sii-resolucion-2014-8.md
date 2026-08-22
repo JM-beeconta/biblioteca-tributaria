@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2014
-- Fecha: 2014-01-22
+- Fecha: 2014-01-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso8.pdf
 - Hash SHA-256: 0dd19f4788340942e83aee93cb59d5691af6533b63a85faaedf865fdb2b7c909
 
 ## Resumen
 
-tención y Asistencia de Contribuyentes Resolución Exenta SII N° 09 del 22 de Enero del 2014 Sustituye estructura y contenido del Formulario N°50 sobre declaración y pago simultáneo mensual de impuesto. Fuente: Departamento de Fiscalización Internacional Resolución Exenta SII N° 08 del 16 de Enero del 2014 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 07 del 16…
+acute;n Internacional Resolución Exenta SII N° 08 del 16 de Enero del 2014 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

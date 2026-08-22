@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 76
 - Año: 2018
-- Fecha: 2018-09-12
+- Fecha: 2018-09-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso76.pdf
 - Hash SHA-256: 1d94f80bbe0599eaf6c0e0abebb7f57cf206994883ba98a1c77ec8aeedbf18a6
 
 ## Resumen
 
-> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 77 del 12 de Septiembre del 2018 Autoriza a la sociedad Cencosud Retail S.A. para dar cumplimiento a la obligación de entrega de boletas electrónicas por su envío mediante correo electrónico en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Suspende temporalmente calidad de Agente Retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el camb…
+ute;n de Asistencia al Contribuyente Suspende temporalmente calidad de Agente Retenedor a contribuyentes que indica, conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

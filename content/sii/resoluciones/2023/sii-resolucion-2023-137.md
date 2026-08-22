@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 137
 - Año: 2023
-- Fecha: 2023-12-13
+- Fecha: 2023-12-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso137.pdf
 - Hash SHA-256: d4c5c58272379fcae67a94bf0fd3c85009c38c1184dc994a97d92adae0676015
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 138 del 13 de Diciembre del 2023 Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Vivienda y Urbanismo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyent…
+tégica y Estudios Tributarios. Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

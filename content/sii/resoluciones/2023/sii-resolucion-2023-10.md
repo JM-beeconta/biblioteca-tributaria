@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 10
 - Año: 2023
-- Fecha: 2023-02-02
+- Fecha: 2023-01-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso10.pdf
 - Hash SHA-256: 136b53e1e9655f5e281946129c19a5a8c90a4ed12fb9af5b8fab6e7dffb6cbc1
 
 ## Resumen
 
-a lista anexa de la resolución exenta N°4, de 2023. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 11 del 02 de Febrero del 2023 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para declarar y pagar o suspender la contribución para el desarrollo regional regulada en el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección de Fiscalización. Resolució…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para declarar y pagar o suspender la contribución para el desarrollo regional regulada en el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

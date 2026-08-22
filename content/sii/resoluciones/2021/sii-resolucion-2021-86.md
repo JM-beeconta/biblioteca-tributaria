@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2021
-- Fecha: 2021-07-27
+- Fecha: 2021-07-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso86.pdf
 - Hash SHA-256: f7309abf15e19e946fd6147a7cca2851f70d46facb0cb439020bcc48ce650fa0
 
 ## Resumen
 
-Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 87 del 27 de Julio del 2021 Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración de renta o corregir la subdeclaración de ingresos, para los contribuyentes transportistas de pasajeros que indica. Fuente: Subdirección de Fiscalización. Resolución Exent…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración de renta o corregir la subdeclaración de ingresos, para los contribuyentes transportistas de pasajeros que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

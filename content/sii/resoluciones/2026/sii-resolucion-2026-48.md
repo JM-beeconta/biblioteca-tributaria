@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2026
-- Fecha: 2026-04-06
+- Fecha: 2026-04-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso48.pdf
 - Hash SHA-256: 10060672edb44122db7fa65752934f7786beec11cc52d31b365be60609b0d42b
 
 ## Resumen
 
-bre canje de información computarizada; y, la resolución exenta SII N° 5395 de 07.12.2000, que la complementa. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 49 del 06 de Abril del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Resolución Exenta SII N° 47 del 27 de Marzo del 2…
+: Subdirección Jurídica Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

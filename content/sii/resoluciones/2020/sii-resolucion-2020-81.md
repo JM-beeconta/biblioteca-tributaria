@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 82 del 17 de Julio del 2020 Instruye sobre el procedimiento para acogerse a los regímenes tributarios del artículo 14 de la Ley sobre impuesto a la renta. Deja sin efecto la resolución exenta N° 93 de 22.09.2016. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n y Asistencia de Contribuyentes Resolución Exenta SII N° 78 del 14 de Agosto del 2014 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Modifica la Resolución N°379 de 1991 en lo relacionado con el Departamento Subdirección de Informática Fuente: Subdirección de Informática Resolución Exenta SII N° 76 del 13 de Agosto del 2014 Autoriza a proceder conforme al modelo de operación de contabi…
+ueñas Empresas Modifica la Resolución N°379 de 1991 en lo relacionado con el Departamento Subdirección de Informática Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

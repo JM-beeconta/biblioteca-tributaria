@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 7
 - Año: 2021
-- Fecha: 2021-01-27
+- Fecha: 2021-01-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso7.pdf
 - Hash SHA-256: 2a83f66995bcef638e27a96ceb5d119d9d3b228c9831c598dea62e69be66468b
 
 ## Resumen
 
-n style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 08 del 27 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 07 del 22 de Enero del 2021 Regula obligación de entregar por medios electrónicos información relativa a bienes raíces por parte de nota…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 07 del 22 de Enero del 2021 Regula obligación de entregar por medios electrónicos información relativa a bienes raíces por parte de notarios, conservadores y contribuyentes en relación con la determinación del impuesto territorial y sobretasa. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

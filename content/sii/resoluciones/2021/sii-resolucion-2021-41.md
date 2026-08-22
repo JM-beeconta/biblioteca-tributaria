@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2021
-- Fecha: 2021-04-21
+- Fecha: 2021-04-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso41.pdf
 - Hash SHA-256: c2320408cbad626e1d244faba3e1cc9a1dcf0e73307661414c229274b60668b2
 
 ## Resumen
 
-señalan. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 42 del 21 de Abril del 2021 Exime a instituciones que indica, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que se señalan. Fuente: Subdirección de Asistencia al Contribuyente. Regula procedimiento sobre reclamo administrativo por bono de clase media contenido en el artículo 18 de la Ley N° 21.323, que establece un nuevo bono de clase media y un préstamo solidario para la protección…
+ute;n de Asistencia al Contribuyente. Regula procedimiento sobre reclamo administrativo por bono de clase media contenido en el artículo 18 de la Ley N° 21.323, que establece un nuevo bono de clase media y un préstamo solidario para la protección de los ingresos de la clase media Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

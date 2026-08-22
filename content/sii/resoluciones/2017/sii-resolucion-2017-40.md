@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2017
-- Fecha: 2017-04-07
+- Fecha: 2017-03-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso40.pdf
 - Hash SHA-256: 4632145382aa228b4e17e5a414ce340c44df150dc14ab6b28f4de99474aa09c4
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 41 del 07 de Abril del 2017 aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y Universidad Tecnológica de Chile INACAP y otros. Fuente: Subdirección de Asistencia al Contribuyente Establece forma y oportunidad en que los inversionistas que no tengan la calidad de contribuyentes para efectos de la Ley sobre Impuesto a la Renta, podrán presentar solicitud de devolución del 4% de reten…
+ncia al Contribuyente Establece forma y oportunidad en que los inversionistas que no tengan la calidad de contribuyentes para efectos de la Ley sobre Impuesto a la Renta, podrán presentar solicitud de devolución del 4% de retención sobre los intereses devengados por la tenencia de instrumentos de deuda de oferta pública, durante el período en que dichos instrumentos hayan estado en su propiedad, de acuerdo a lo establecido en el inciso 4°, del N° 7, del art. 74 de la Ley sobre Impuesto a la Renta, vigente a partir…
 
 ## Referencias detectadas
 

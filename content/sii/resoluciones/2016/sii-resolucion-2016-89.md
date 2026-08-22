@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2016
-- Fecha: 2016-09-08
+- Fecha: 2016-08-31
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso89.pdf
 - Hash SHA-256: 99d06410a9445aafd2b0e115c6fc821fb7d61fb680c9cc31ffc92bb5362b8f8e
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección Normativa Resolución Exenta SII N° 90 del 08 de Septiembre del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Operaciones Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Centro de Conocimiento Tributario CCT Chile SPA Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 87 del 25 de Agosto del 2016 Determina que el Estado Autónomo de Curaza…
+amento de Operaciones Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Centro de Conocimiento Tributario CCT Chile SPA Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-171 del 29 de Diciembre del 2020 Establece la forma y plazo en que las empresas que sean contribuyentes de la primera categoría y se encuentren sujetas al Artículo 14 letra a) o d) N° 3 de la Ley sobre Impuesto a la Renta, deben certificar el valor de costo para fines tributarios, a la fecha de término de giro, de los bienes que se adjudiquen los propietarios en la disolución o liquidación de aquellas. Fuente: Subdirección de Fiscalización. Delega facultad que indica en el funcionario que se individualiza. Fuente:…
+cción de Fiscalización. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

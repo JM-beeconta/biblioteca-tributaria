@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 108
 - Año: 2016
-- Fecha: 2016-12-01
+- Fecha: 2016-11-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso108.pdf
 - Hash SHA-256: 0667b180699ad9d5db5b751de604824da5198d30a5ca18c036e1cb16b3132e18
 
 ## Resumen
 
-tamento de Operaciones Resolución Exenta SII N° 109 del 01 de Diciembre del 2016 Deniega solicitud de exclusión de nómina de grandes contribuyentes a Compañía Minera San Geronimo, RUT N° 78.801.520-8. Fuente: Dirección de Grandes Contribuyentes Crea el Departamento de Procedimientos Administrativos Tributarios en la Dirección de Grandes Contribuyentes; deja sin efecto Resolución que señala y autoriza delegación de facultades que indica. Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 107 del 24…
+randes Contribuyentes Crea el Departamento de Procedimientos Administrativos Tributarios en la Dirección de Grandes Contribuyentes; deja sin efecto Resolución que señala y autoriza delegación de facultades que indica. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

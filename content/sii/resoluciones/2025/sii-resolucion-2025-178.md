@@ -11,7 +11,7 @@
 
 ## Resumen
 
-mación de aplicaciones (API), de inicio de actividades de Enternet Sociedad Anónima, RUT N° 76.407.930-2. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 179 del 10 de Diciembre del 2025 Crea registro de contribuyentes de ferias libres Fuente: Subdirección de Asistencia al Contribuyente. Crea registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 177 del 10 de Diciembre del 2025 Revóquese…
+ute;n de Asistencia al Contribuyente. Crea registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

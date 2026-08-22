@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 153
 - Año: 2025
-- Fecha: 2025-11-05
+- Fecha: 2025-10-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso153.pdf
 - Hash SHA-256: 943889636c0c97dfce8042fec8d8ec5b37e45a09983d6435c5b0dc8ffb20fa43
 
 ## Resumen
 
-dquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coyhaique. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 154 del 05 de Noviembre del 2025 Fíjase exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Villa Alemana. Fuente: Subdirección de Avaluaciones. Resolución Exent…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Villa Alemana. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

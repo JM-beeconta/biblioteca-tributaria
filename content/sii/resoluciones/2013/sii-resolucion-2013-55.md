@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 56 del 06 de Junio del 2013 Reemplaza Planos de precios de las comunas de Catemu, Panquehue, Chillán y Concepción de la Resolución N° 132 de31.12.2012 y corrige error de transcripción. Fuente: Subdirección de Avaluaciones. Autoriza a Directores Regionales delegar facultades que indica. Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 54 del 03 de Junio del 2013 Reemplaza oficina de Bienestar y Servicio de las Personas, contenida en el dispositivo 3° de la resolución N° 1…
+te;n de Avaluaciones. Autoriza a Directores Regionales delegar facultades que indica. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

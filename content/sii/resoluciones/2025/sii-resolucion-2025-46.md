@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 47 del 10 de Abril del 2025 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución E…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

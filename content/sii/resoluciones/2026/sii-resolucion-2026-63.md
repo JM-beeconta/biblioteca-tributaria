@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2026
-- Fecha: 2026-04-30
+- Fecha: 2026-04-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso63.pdf
 - Hash SHA-256: bcb5ed23adb6fa7d52f29aff493524c98eb4a3557796d24e9b4551b81851cf36
 
 ## Resumen
 
-ión Exenta SII N° 64 del 30 de Abril del 2026 Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin efecto la Resolución Exenta SII N°54, de 30.04.2025. Fuente: Subdirección Jurídica. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a l…
+Subdirección Jurídica. Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

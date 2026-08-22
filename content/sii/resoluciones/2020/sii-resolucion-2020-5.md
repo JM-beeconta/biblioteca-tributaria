@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rección de Avaluaciones Resolución Exenta SII N° 06 del 17 de Enero del 2020 Aprueba Adendum Convenio entre Subsecretaria de Economía y Empresas de Menor Tamaño y Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la Ley 20.659 y su reglamento. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 05 del 17 de Enero del 2020 Aprueba Adendum Anexo al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Corporación de Fom…
+atégica y Estudios Tributarios Resolución Exenta SII N° 05 del 17 de Enero del 2020 Aprueba Adendum Anexo al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Corporación de Fomento de la Producción. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

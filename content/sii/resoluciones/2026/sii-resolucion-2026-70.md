@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2026
-- Fecha: 2026-06-04
+- Fecha: 2026-06-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso70.pdf
 - Hash SHA-256: 1e5a03551cc50bb1470fe052e5588079b3a11ca4f8ba48afafb4bd9787509853
 
 ## Resumen
 
-abinete del director Fuente: Dirección Nacional Resolución Exenta SII N° 71 del 04 de Junio del 2026 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contraloría General de la República y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 69 del 02 de…
+ute;n de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

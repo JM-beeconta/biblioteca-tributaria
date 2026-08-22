@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2018 Años Anteriores Modifica la Resolución Exenta N° 4847 de 1995 y el Formulario N° 1891 e instrucciones de llenado. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 152 del 28 de Diciembre del 2018 Fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avalu…
+9"> Modifica la Resolución Exenta N° 4847 de 1995 y el Formulario N° 1891 e instrucciones de llenado. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

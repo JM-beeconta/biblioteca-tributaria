@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a las siguientes instituciones a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 118 del 10 de Septiembre del 2025 Reemplaza anexos I y II de la resolución EX. SII N°77, de 2025. Fuente: Subdirección Jurídica. Establece procedimiento para solicitar acceso a la interfaz de programación de aplicaciones (API), de inicio de actividades. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 116…
+Subdirección Jurídica. Establece procedimiento para solicitar acceso a la interfaz de programación de aplicaciones (API), de inicio de actividades. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

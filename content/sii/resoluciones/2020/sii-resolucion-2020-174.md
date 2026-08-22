@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 174
 - Año: 2020
-- Fecha: 2020-12-31
+- Fecha: 2020-12-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso174.pdf
 - Hash SHA-256: 78ea7e8973bb1a1539f32ace82d9e4f593a6409cf7bb81286eb0df3a1fabea68
 
 ## Resumen
 
-i>Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 175 del 31 de Diciembre del 2020 Fija valores de terrenos y construcciones para el reavalúo 2021, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones. Aprueba normas de procedimiento para las solicitudes de aprobación de proyectos de investigación y desarrollo, en el marco del número 3 de la letra c.- de…
+Subdirección de Avaluaciones. Aprueba normas de procedimiento para las solicitudes de aprobación de proyectos de investigación y desarrollo, en el marco del número 3 de la letra c.- del Artículo 41 g, de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 133
 - Año: 2021
-- Fecha: 2021-12-01
+- Fecha: 2021-11-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso133.pdf
 - Hash SHA-256: 1d8cc694fdd7829529224003b79a32309c4df7d176567742ee4c5a375d8a437a
 
 ## Resumen
 
-égica y Estudios Tributarios. Resolución Exenta SII N° 134 del 01 de Diciembre del 2021 Instruye sobre obligación de informar la inscripción y transferencia de activos intangibles sujetos al régimen de depreciación instantánea del artículo vigésimo segundo transitorio bis de la Ley N° 21.210. Fuente: Subdirección de Fiscalización. Establece procedimiento para el aviso de pérdida de domicilio y residencia en Chile y cumplir con la obligación establecida en el artículo 103 de la Ley sobre Impuesto a la Renta. Fuente…
+cción de Fiscalización. Establece procedimiento para el aviso de pérdida de domicilio y residencia en Chile y cumplir con la obligación establecida en el artículo 103 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

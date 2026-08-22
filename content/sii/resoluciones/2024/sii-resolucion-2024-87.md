@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 87
 - Año: 2024
-- Fecha: 2024-09-02
+- Fecha: 2024-08-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso87.pdf
 - Hash SHA-256: 2d68e6169101a602f0a415b4777bec3f3c3fec4cc8ef35e5bf13474b91f56832
 
 ## Resumen
 
-erritorio de la I. Corte de apelaciones de La Serena Fuente: Subdirección Jurídica. Resolución Exenta SII N° 88 del 02 de Septiembre del 2024 INCORPÓRASE A PENTA FINANCIERO S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO. Fuente: Subdirección de Asistencia al Contribuyente. Reemplaza formato, contenido e instrucciones de declaración jurada anual de contribuyentes acogidos a las normas del artículos 14 letra B) N° 1 (contribuyentes de primera categoría que declaren rentas efe…
+ute;n de Asistencia al Contribuyente. Reemplaza formato, contenido e instrucciones de declaración jurada anual de contribuyentes acogidos a las normas del artículos 14 letra B) N° 1 (contribuyentes de primera categoría que declaren rentas efectivas y que no las determinen sobre la base de un balance general, según contabilidad completa) y 14 letra B) N° 2 y 34 (contribuyentes de primera categoría acogidos al régimen de renta presunta) de la LIR, formulario N° 1943. Deja sin efecto Resolución Exenta SII N° 127 de 2…
 
 ## Referencias detectadas
 

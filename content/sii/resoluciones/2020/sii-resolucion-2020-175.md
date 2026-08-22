@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-top:0px;margin-bottom:0px;'>Imparte instrucciones en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, tanto electrónica como papel y boletas no afectas o exentas, de acuerdo a lo dispuesto por el art. 54 del d.l. N° 825, de 1974. Deja sin efecto Res. Ex. SII N° 5 y N° 55, de 2015, y N° 13 de 2018. Fuente: Subdirección de Asistencia al Contribuyente. Fija valores de terrenos…
+ute;n de Asistencia al Contribuyente. Fija valores de terrenos y construcciones para el reavalúo 2021, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

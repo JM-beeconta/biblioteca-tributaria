@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s Resolución Exenta SII N° 13 del 10 de Marzo del 2016 Reorganiza las Unidades que conforman el Departamento Subdirección de Desarrollo de Personas y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Desarrollo de Personas Modifica Res. Ex. SII N° 67 del 11 de mayo de 2009, incorporando nuevos puntos fronterizos para la devolución de IVA turista y simplifica el procedimiento en los términos que se indican. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exent…
+esarrollo de Personas Modifica Res. Ex. SII N° 67 del 11 de mayo de 2009, incorporando nuevos puntos fronterizos para la devolución de IVA turista y simplifica el procedimiento en los términos que se indican. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

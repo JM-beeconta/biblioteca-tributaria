@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;rmino de giro, de los bienes que se adjudiquen los propietarios en la disolución o liquidación de aquellas. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 170 del 29 de Diciembre del 2020 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Sub…
+Subdirección Jurídica. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

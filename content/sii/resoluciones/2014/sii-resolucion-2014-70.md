@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2014
-- Fecha: 2014-07-31
+- Fecha: 2014-07-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso70.pdf
 - Hash SHA-256: 86f32a725f2e188ea2c8e954f9f6b648b245bacc922e634f998d26cdc3532490
 
 ## Resumen
 
-;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 71 del 31 de Julio del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los Contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 69 del 21 de Julio del 2014 Modifica contenido del formulario N° 5…
+cia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los Contribuyentes que se indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

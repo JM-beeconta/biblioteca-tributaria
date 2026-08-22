@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 52
 - Año: 2015
-- Fecha: 2015-06-17
+- Fecha: 2015-06-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso52.pdf
 - Hash SHA-256: a2d3c63244d90525c4ca44c05a8f893a64c794fde46f4505321aedb1568a11b2
 
 ## Resumen
 
-Exenta SII N° 53 del 17 de Junio del 2015 Complementa Resolución Exenta SII N° 163, de fecha 16.12.2008 que establece nuevos formatos de declaración jurada solicitud de devolución por cambio de sujeto de derecho del IVA y Resolución Ex. SII N° 16, de fecha 07.02.2014, que modificó Resolución Ex. SII N°163, de 2008. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Establece nuevo requisito para Facturas y Guías de Despacho, Electrónicas o no Electrónicas, emitidas por la venta de combustibles. Fu…
+mplimiento Tributario Establece nuevo requisito para Facturas y Guías de Despacho, Electrónicas o no Electrónicas, emitidas por la venta de combustibles. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

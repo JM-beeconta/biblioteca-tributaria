@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 187
 - Año: 2025
-- Fecha: 2025-12-18
+- Fecha: 2025-12-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso187.pdf
 - Hash SHA-256: 0f30f9292abe30497c2e6c8ad700215ddbc18a7e59223fabd44545a172e93131
 
 ## Resumen
 
-ad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 188 del 18 de Diciembre del 2025 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Establece régimen de tributación simplificada de IVA para los pequeños contribuyentes del artículo 29 de la Ley Sobre Impuesto a las Ventas y Servicios. Deja sin efecto las resoluciones Ex. N° 36…
+ute;n de Asistencia al Contribuyente. Establece régimen de tributación simplificada de IVA para los pequeños contribuyentes del artículo 29 de la Ley Sobre Impuesto a las Ventas y Servicios. Deja sin efecto las resoluciones Ex. N° 36 y N° 1784, ambas de 1977 y N° 1798 de 1979. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

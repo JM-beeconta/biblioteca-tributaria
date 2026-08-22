@@ -11,7 +11,7 @@
 
 ## Resumen
 
-3. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 113 del 25 de Noviembre del 2022 Establece formato, contenido y medio de envío del reporte de saldos y sumas de abonos de cuentas financieras, según artículo 85 bis del Código Tributario. Fuente: Subdirección de Fiscalización. Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 111 del 25 de N…
+cción de Fiscalización. Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

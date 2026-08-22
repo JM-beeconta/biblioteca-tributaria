@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2024
-- Fecha: 2024-10-16
+- Fecha: 2024-10-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso99.pdf
 - Hash SHA-256: 6da0dd2169bbbb0b0a294dc66208a9629bc4456916f78987d61b1459bb3b94e5
 
 ## Resumen
 
-plataformas digitales sin domicilio o residencia en Chile Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 100 del 16 de Octubre del 2024 Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad Autónoma de Chile. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 98 del…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

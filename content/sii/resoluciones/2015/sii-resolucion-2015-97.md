@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 98 del 30 de Noviembre del 2015 Dispone Declaración de Predios Agrícolas con mejoras efectuadas por los propietarios Fuente: Oficina de Normas y Casos Especiales Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 96 del 30 de Noviembre del 2015 Autoriza a las ins…
+as y Casos Especiales Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

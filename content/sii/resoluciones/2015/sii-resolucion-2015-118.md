@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;mbito de competencia Fuente: Dirección Nacional Resolución Exenta SII N° 119 del 29 de Diciembre del 2015 Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie, agrícola. Fuente: Oficina de Normas y Casos Especiales Resolución Exenta SII N° 117 del 29 de Diciembre del 2015 Deja sin efecto Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, q…
+randes Contribuyentes Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie, agrícola. Fuente: Oficina de Normas y Casos Especiales
 
 ## Referencias detectadas
 

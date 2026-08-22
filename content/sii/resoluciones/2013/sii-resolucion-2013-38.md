@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2013
-- Fecha: 2013-04-12
+- Fecha: 2013-03-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso38.pdf
 - Hash SHA-256: d390f98dc835682901c37ac3e7cffdc7d3a29f9c3afe2acbb348acda2d11ea98
 
 ## Resumen
 
-tps://www.sii.cl/normativa_legislacion/resoluciones/2013/reso39.pdf' target='_blank'>Resolución Exenta SII N° 39 del 12 de Abril del 2013 Establece declaración Jurada simple a presentar por los contribuyentes, para la cesión del crédito por gastos en educación, según el artículo 55 ter de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departam…
+eñas Empresas. Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 58
 - Año: 2018
-- Fecha: 2018-07-27
+- Fecha: 2018-07-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso58.pdf
 - Hash SHA-256: bfddbd9e3fd703c47cc6a35f04103cda637875b94b266001c21891df8cb96636
 
 ## Resumen
 
-an style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 59 del 27 de Julio del 2018 Procedimiento de solicitud de inscripción en registro de instituciones sin fines de lucro distribuidoras y/o receptoras de pañales, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente Resol…
+cción de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

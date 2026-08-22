@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2017
-- Fecha: 2017-06-19
+- Fecha: 2017-06-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso55.pdf
 - Hash SHA-256: fe38065d7b16b8c7fc4a0020ef30ec860f04832cb7c2525ace953a7ae3216110
 
 ## Resumen
 
-ize:12px;margin-bottom:10px;'> Fuente: Subdireción de Fizcalizacion Resolución Exenta SII N° 56 del 19 de Junio del 2017 Fija el procedimiento, forma y plazos para la aplicación y ejercicio de la facultad establecida en el artículo 60 bis del código tributario. Fuente: Subdirección de Fiscalización Fija nuevo plazo para presentar la Declaración Jurada anual de Fondo de Utilidades Tributables (fut), formulario N° 1925. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 54 del 09 de Junio del 2017 Autori…
+Fiscalización Fija nuevo plazo para presentar la Declaración Jurada anual de Fondo de Utilidades Tributables (fut), formulario N° 1925. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-caria de que tratan los artículos 62 y 62 bis del código tributario. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 42 del 03 de Abril del 2025 Fija procedimiento simplificado para otorgar rut a contribuyentes no domiciliados ni residentes en chile Fuente: Subdirección de asistencia al contribuyente Dispone forma de suscripción de la declaración jurada exigida por las circulares n° 39 de 1991 y n° 27 de 2007. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 40 del 27 de Marzo del 2025…
+cute;n de asistencia al contribuyente Dispone forma de suscripción de la declaración jurada exigida por las circulares n° 39 de 1991 y n° 27 de 2007. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

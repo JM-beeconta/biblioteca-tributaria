@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 164
 - Año: 2020
-- Fecha: 2020-12-22
+- Fecha: 2020-12-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso164.pdf
 - Hash SHA-256: 9fb3cedecf265bc24b96a419bb3092bff94c5afc86c726d6d82111030e7a54ea
 
 ## Resumen
 
-nte. Resolución Exenta SII N° 165 del 22 de Diciembre del 2020 Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 108 de 2020, que deja sin efecto las instrucciones relativas a vales en reemplazo de boletas y vales electrónicos en reemplazo de la boleta de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de A…
+ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

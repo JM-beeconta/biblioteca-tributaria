@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 91
 - Año: 2015
-- Fecha: 2015-11-23
+- Fecha: 2015-11-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso91.pdf
 - Hash SHA-256: db423e919a2ca15e8db187b12fbdcaff638cda3b3e2610fc7d4a52194fc41f0f
 
 ## Resumen
 
-Resolución Exenta SII N° 92 del 23 de Noviembre del 2015 Autoriza a empresa Fullticket SPA para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyente Autoriza como receptor de documentos tributarios electrónicos a organismo público que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 90 del 20 de Noviembre del 2015 Autoriza a proced…
+ncia de Contribuyente Autoriza como receptor de documentos tributarios electrónicos a organismo público que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

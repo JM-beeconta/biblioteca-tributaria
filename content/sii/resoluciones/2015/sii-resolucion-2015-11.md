@@ -11,7 +11,7 @@
 
 ## Resumen
 
-N° 19 de 2005, que establece obligación a los arrendatarios y a los corredores de propiedades o personas que entregan en arriendo propiedades por cuenta de terceros, de presentar una declaración jurada sobre los bienes raíces no agrícolas recibidos en arriendo en el caso de los arrendatarios; y sobre los bienes raíces entregados en arriendo, en el caso de los corredores y personas ya señalados. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Autoriza a instituciones sin fines de lucro, como rec…
+mplimiento Tributario Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

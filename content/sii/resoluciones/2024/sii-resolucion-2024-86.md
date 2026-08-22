@@ -11,7 +11,7 @@
 
 ## Resumen
 
-aración jurada anual de contribuyentes acogidos a las normas del artículos 14 letra B) N° 1 (contribuyentes de primera categoría que declaren rentas efectivas y que no las determinen sobre la base de un balance general, según contabilidad completa) y 14 letra B) N° 2 y 34 (contribuyentes de primera categoría acogidos al régimen de renta presunta) de la LIR, formulario N° 1943. Deja sin efecto Resolución Exenta SII N° 127 de 2020. Fuente: Subdirección de Fiscalización. Instruye sobre obligación de presentar declara…
+cción de Fiscalización. Instruye sobre obligación de presentar declaración anual sobre bienes raíces arrendados por medio de formulario N° 1835; deja sin efecto Resolución Ex. SII N°98 de 31 de agosto de 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

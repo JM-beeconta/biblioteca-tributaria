@@ -11,7 +11,7 @@
 
 ## Resumen
 
-partamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 69 del 21 de Julio del 2014 Modifica contenido del formulario N° 50 sobre Declaración y Pago Simultáneo Mensual de Impuestos. Fuente: Subdirección de Fiscalización. Exime a Fundación las Rosas de ayuda fraterna de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos para resguardar el interés fiscal. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 67 del 21 de…
+Fiscalización. Exime a Fundación las Rosas de ayuda fraterna de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos para resguardar el interés fiscal. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

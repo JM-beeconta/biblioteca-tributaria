@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 78 del 12 de Septiembre del 2018 Autoriza al Conservador de Bienes Raíces de San Fernando, Sr. Jorge Eduardo Osnovikoff Romero, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la sociedad Cencosud Retail S.A. para dar cumplimiento a la obligación de entrega de boletas electrónicas por su envío mediante correo…
+ute;n de Asistencia al Contribuyente Autoriza a la sociedad Cencosud Retail S.A. para dar cumplimiento a la obligación de entrega de boletas electrónicas por su envío mediante correo electrónico en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

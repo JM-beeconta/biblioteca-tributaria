@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 110 del 01 de Diciembre del 2016 Exime a Fundación San José Centro de Atención Familiar de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señala. Fuente: Departamento de Operaciones Deniega solicitud de exclusión de nómina de grandes contribuyentes a Compañía Minera San Geronimo, RUT N° 78.801.520-8. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 108 del 25 de Noviembre del 2016 Crea el Departamento de Procedimientos Admin…
+amento de Operaciones Deniega solicitud de exclusión de nómina de grandes contribuyentes a Compañía Minera San Geronimo, RUT N° 78.801.520-8. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

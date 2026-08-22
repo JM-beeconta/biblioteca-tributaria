@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 71
 - Año: 2015
-- Fecha: 2015-08-21
+- Fecha: 2015-08-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso71.pdf
 - Hash SHA-256: 05f9e92e07366175c549d4ff79547d81fe1240611b4201f2cee240db190e515d
 
 ## Resumen
 
-.sii.cl/normativa_legislacion/resoluciones/2015/reso72.pdf' target='_blank'>Resolución Exenta SII N° 72 del 21 de Agosto del 2015 Delega en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a organismos públicos como receptores de documentos tributarios electrónicos, y deroguese Resolución Exenta SII N°78, del 06 de agosto de 2004. Fuente: Subdirección de Asistencia al Contribuyente Modifica fecha de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII en el marco de…
+ncia al Contribuyente Modifica fecha de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII en el marco de la Ley N° 20.732. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

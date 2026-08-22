@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2016
-- Fecha: 2016-11-02
+- Fecha: 2016-10-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/resosii102.pdf
 - Hash SHA-256: 910ede64d73e2459e4919f11986edfd9a6c80166a77a876a48417d8ba36f1a5d
 
 ## Resumen
 
-o del Cumplimiento Tributario Resolución Exenta SII N° 103 del 02 de Noviembre del 2016 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Designa Representante Titular Y Alterno Del Servicio De Impuestos Internos ante el Comité Técnico Público-Privado de Exportación de Servicios. Fuente: Subdirección Normativa Resolución Exenta SII N° 101 del 20 de Octubre del 2016 Aprueba convenio de…
+mplimiento Tributario Designa Representante Titular Y Alterno Del Servicio De Impuestos Internos ante el Comité Técnico Público-Privado de Exportación de Servicios. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

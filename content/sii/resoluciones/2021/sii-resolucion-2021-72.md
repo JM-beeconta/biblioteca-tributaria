@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 73 del 01 de Julio del 2021 Establece procedimiento de postergación del pago del IVA, en virtud de los decretos supremos dictados a raíz de la catástrofe generada por la pandemia generada por el COVID-19. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza representación virtual y/o impresa de guías de despacho electrónicas a los contribuyentes que indica en la modalidad señalada. Fuente: Subdirección de Asistencia al Contribuyente. Resolució…
+ute;n de Asistencia al Contribuyente. Autoriza representación virtual y/o impresa de guías de despacho electrónicas a los contribuyentes que indica en la modalidad señalada. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

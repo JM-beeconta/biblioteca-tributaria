@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2014
-- Fecha: 2014-02-07
+- Fecha: 2014-02-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso14.pdf
 - Hash SHA-256: 2782d74686b3179e376ecd650df34e6bc9f77322391440e9c7bc8b3deee9f2cf
 
 ## Resumen
 
-de Micro y Pequeñas Empresas Resolución Exenta SII N° 15 del 07 de Febrero del 2014 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 13 del 31 de Enero del 2014 Autoriza como emisores de documentos tributar…
+cia de Contribuyentes Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

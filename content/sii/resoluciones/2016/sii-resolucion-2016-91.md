@@ -11,7 +11,7 @@
 
 ## Resumen
 
-://www.sii.cl/normativa_legislacion/resoluciones/2016/reso92.pdf' target='_blank'>Resolución Exenta SII N° 92 del 20 de Septiembre del 2016 Reorganiza las unidades que conforman el Departamento Subdirección de Gestión Estratégica y Estudios Tributarios y establece ámbitos de competencia de las unidades que lo conforman. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Reorganiza las unidades que conforman el Departamento Subdirección Normativa y establece ámbitos de competencia de las unidades qu…
+Estudios Tributarios Reorganiza las unidades que conforman el Departamento Subdirección Normativa y establece ámbitos de competencia de las unidades que lo conforman. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

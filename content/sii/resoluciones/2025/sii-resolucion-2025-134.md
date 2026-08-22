@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Tecnologías de la Información Resolución Exenta SII N° 135 del 08 de Octubre del 2025 Dispónese cambio total del sujeto del IVA y autoriza a Mercadolibre chile Ltda., Rut N° 77.398.220-1, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Talagante. Fuente: Subdirección de…
+cción de Fiscalización. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Talagante. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

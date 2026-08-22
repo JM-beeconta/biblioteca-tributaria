@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 77
 - Año: 2020
-- Fecha: 2020-07-09
+- Fecha: 2020-07-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso77.pdf
 - Hash SHA-256: be216324b2f5407f2f30c42f6497f0f0dae20e1544b238a072987d78a0d5bf66
 
 ## Resumen
 
-Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 78 del 09 de Julio del 2020 Autoriza a corporación alimentos Biobio solidario, Rut Nº 65.115.308-5, para distribuir alimentos a instituciones sin fines de lucro no inscritas en el registro especial de instituciones autorizadas como receptoras de los productos. Fuente: Subdirección de Fiscalización. Prorroga aplicación de medidas tributarias, en relación al impuesto a las ventas y servicios, a raíz de la catástrofe generada por la propagación del C…
+cción de Fiscalización. Prorroga aplicación de medidas tributarias, en relación al impuesto a las ventas y servicios, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile, para los contribuyentes que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

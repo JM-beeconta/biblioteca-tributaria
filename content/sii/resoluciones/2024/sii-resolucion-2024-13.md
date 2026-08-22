@@ -11,7 +11,7 @@
 
 ## Resumen
 
-target='_blank'>Resolución Exenta SII N° 14 del 24 de Enero del 2024 Modifica resolución Ex. SII N°20, de 2016, en lo referido a la oficina de administración de riesgos institucionales, del departamento Subdirección de Contraloría Interna que pasa a denominarse oficina de gestión de continuidad, riesgos institucionales y seguridad de la información, e incorpora nuevas funciones Fuente: Subdirección de Contraloría Interna. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecreta…
+cute;n de Contraloría Interna. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

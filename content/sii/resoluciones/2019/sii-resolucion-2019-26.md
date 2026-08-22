@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 26
 - Año: 2019
-- Fecha: 2019-02-19
+- Fecha: 2019-02-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso26.pdf
 - Hash SHA-256: 7cfddaf147ba7e6af0af7b35fbc388b7c68456e347ee3860e82b4e7cd0c3cd75
 
 ## Resumen
 
-de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 27 del 19 de Febrero del 2019 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Autoriza impresora fiscal MARCA EPSON, MODELO TM-T900FC, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 25 d…
+uente: Subdirección Normativa Autoriza impresora fiscal MARCA EPSON, MODELO TM-T900FC, para emitir vales que reemplacen a las boletas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

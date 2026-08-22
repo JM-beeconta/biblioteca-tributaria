@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 46
 - Año: 2014
-- Fecha: 2014-05-19
+- Fecha: 2014-05-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso46.pdf
 - Hash SHA-256: a6062af0e060ebe99279a07033dead58dc7929e913c5bc4a83de9c6bf6d0077e
 
 ## Resumen
 
-> Resolución Exenta SII N° 47 del 19 de Mayo del 2014 Solicita información respecto de Trusts y entidades con características similares a un Trusts creadas de acuerdo a disposiciones de derecho extranjero, y deroga Resolución Ex. SII N°81 del 10.09.2013, D.O. 13.09.2013. Fuente: Departamento de Normas Internacionales Autoriza como emisor de boletas electrónicas a contribuyente que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 45 del 16 de Mayo del 2014 Registra…
+ormas Internacionales Autoriza como emisor de boletas electrónicas a contribuyente que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

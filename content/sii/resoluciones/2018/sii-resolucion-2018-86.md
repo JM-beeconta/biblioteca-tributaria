@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 87 del 28 de Septiembre del 2018 Complementa la obligación de presentar Declaración Jurada Anual sobre Operaciones en el Exterior por medio de Formulario N° 1929; y modifica la Resolución Ex. SII N° 120 de 2016. Fuente: Subdirección de Fiscalización Establece obligación de presentar Declaración Jurada N° 1879 a contribuyentes que paguen rentas del artículo 42 N° 2 de la Ley sobre Impuesto a la Renta, por servicios presta…
+cción de Fiscalización Establece obligación de presentar Declaración Jurada N° 1879 a contribuyentes que paguen rentas del artículo 42 N° 2 de la Ley sobre Impuesto a la Renta, por servicios prestados en Isla de Pascua y a los empleadores de trabajadores de las artes y espectáculos, para fines previsionales.Deroga Resoluciones Ex. SII N° 122 de 26.12.2016 y N° 108 de 24.12.2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

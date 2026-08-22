@@ -11,7 +11,7 @@
 
 ## Resumen
 
-y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 18 del 29 de Enero del 2026 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualañé. Fuente: Subdirección de Avaluaciones Declara término de giro a los contribuyentes que se identifican, que presentan 36 o más periodos tributarios sin operaciones según lo dispuesto en el inciso final del artículo 69 del código tributario. F…
+Subdirección de Avaluaciones Declara término de giro a los contribuyentes que se identifican, que presentan 36 o más periodos tributarios sin operaciones según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

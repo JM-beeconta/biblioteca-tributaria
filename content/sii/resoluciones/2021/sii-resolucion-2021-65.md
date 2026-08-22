@@ -11,7 +11,7 @@
 
 ## Resumen
 
-jeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 66 del 29 de Junio del 2021 Amplía el plazo para presentar la declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a la Resolución Ex. SII N° 62 de 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 64 del 24 de Juni…
+Subdirección de Avaluaciones. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a la Resolución Ex. SII N° 62 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2014
-- Fecha: 2014-07-01
+- Fecha: 2014-06-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso63.pdf
 - Hash SHA-256: 8f2cf586df07023f0961804c53e763242a05ca0b1631e3852e3ee00809fb6b80
 
 ## Resumen
 
-;'> Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 64 del 01 de Julio del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como emisor de boletas electrónicas a contribuyente que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 62 del 23 de Junio del 2014 Autoriza a institución sin fines de lucro, como receptora de alim…
+cia de Contribuyentes Autoriza como emisor de boletas electrónicas a contribuyente que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2015
-- Fecha: 2015-07-22
+- Fecha: 2015-07-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso63.pdf
 - Hash SHA-256: 83df6ec92d331314862dda62e8f028d7e26a9b48c046875c33203d311ac9283e
 
 ## Resumen
 
-lectivo del Cumplimiento Tributario Resolución Exenta SII N° 64 del 22 de Julio del 2015 Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Designa funcionarios para la implementación de sistema preventivo contra delitos funcionarios, el lavado de activos y financiamiento del terrorismo y delega facultad que indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 62 del 21 de J…
+mplimiento Tributario Designa funcionarios para la implementación de sistema preventivo contra delitos funcionarios, el lavado de activos y financiamiento del terrorismo y delega facultad que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2023
-- Fecha: 2023-02-15
+- Fecha: 2023-02-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso13.pdf
 - Hash SHA-256: 1e6bafc6e4415a4a1bfbf80187f8dc728855787469acffa56a29ef8a7e5a83f2
 
 ## Resumen
 
-Exenta SII N° 15 del 15 de Febrero del 2023 Delega Facultad Que Indica En El Funcionario Que Se Individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 14 del 10 de Febrero del 2023 Designa Secretario General Subrogante Fuente: Subdirección Jurídica. Modifica la resolución exenta SII N°103 de 31 de agosto de 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 12 del 08 de Febrero del 2023 Complementa lista anexa de la resolución exenta N°4, de 2023. Fuente: Subdirección de Avaluacio…
+Subdirección Jurídica. Modifica la resolución exenta SII N°103 de 31 de agosto de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

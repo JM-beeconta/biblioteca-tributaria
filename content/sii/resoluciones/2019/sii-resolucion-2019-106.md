@@ -11,7 +11,7 @@
 
 ## Resumen
 
-° 107 del 30 de Septiembre del 2019 Modifica Resolución Ex. SII N°80 del 31.08.2017 que establece Declaración Jurada Anual N° 1941, sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra b) del artículo 14 de la Ley sobre Impuesto a la Renta, y sobre saldo de retiros en exceso pendientes de imputación Fuente: Subdirección de Fiscalización Modifica Resolución Exenta SII N° 105 de 24.12.2015, manteniendo la obligación de presentar…
+cción de Fiscalización Modifica Resolución Exenta SII N° 105 de 24.12.2015, manteniendo la obligación de presentar la Declaración Jurada N° 1822 y deja sin efecto la obligación de presentar la Declaración Jurada N°1821. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

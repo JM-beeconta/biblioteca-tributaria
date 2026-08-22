@@ -11,7 +11,7 @@
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 110 del 09 de Noviembre del 2018 Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Informática Autoriza a instituciones sin fines de lucro, como receptoras y/o distribuidoras de alimentos cuya comercialización sea inviable. Fuente: Subdirecc…
+rección de Informática Autoriza a instituciones sin fines de lucro, como receptoras y/o distribuidoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

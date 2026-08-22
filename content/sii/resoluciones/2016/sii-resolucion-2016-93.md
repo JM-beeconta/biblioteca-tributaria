@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2016
-- Fecha: 2016-09-23
+- Fecha: 2016-09-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso93.pdf
 - Hash SHA-256: fa9684c2c1abb4fe02706eae9557c8b5d836c2a9752f6bb26a6e8e4c21df43bf
 
 ## Resumen
 
-m:10px;'> Fuente: Departamento de Operaciones Resolución Exenta SII N° 94 del 23 de Septiembre del 2016 Incorpórase en la nómina de entidades para ser receptora de la carpeta tributaria,MASAVAL S.A.G.R. Fuente: Oficina de Asistencia y Educación al Contribuyente Establece la forma y procedimiento para acogerse a los regímenes de tributación establecidos en las letras a) o b) del articulo 14 de la Ley de Impuesto a la Renta, vigentes a partir del 01.01.2017, de los contribuyentes que hayan iniciado o inicien activid…
+te;n al Contribuyente Establece la forma y procedimiento para acogerse a los regímenes de tributación establecidos en las letras a) o b) del articulo 14 de la Ley de Impuesto a la Renta, vigentes a partir del 01.01.2017, de los contribuyentes que hayan iniciado o inicien actividades hasta el 31 de diciembre de 2016. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

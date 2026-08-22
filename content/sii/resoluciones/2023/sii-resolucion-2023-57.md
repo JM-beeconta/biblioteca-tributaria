@@ -11,7 +11,7 @@
 
 ## Resumen
 
-venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 58 del 16 de Mayo del 2023 Crea el comité de gestión de proyectos del Servicio de Impuestos Internos, define su composición y funciones Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reorganiza las unidades que conforman el departamento subdirección de gestión estratégica y estudios tributarios, y establece sus ámbitos de competencia Fuente: Subdirección de Gestión Estratégica y Estudios Tributar…
+tégica y Estudios Tributarios. Reorganiza las unidades que conforman el departamento subdirección de gestión estratégica y estudios tributarios, y establece sus ámbitos de competencia Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

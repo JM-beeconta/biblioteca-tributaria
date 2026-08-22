@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2017
-- Fecha: 2017-07-05
+- Fecha: 2017-06-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso57.pdf
 - Hash SHA-256: b38272920ae112aad1f5ad0307c1676fb0d54ba43c6ca91eb824a2065c18fda4
 
 ## Resumen
 
-ón de Asistencia al Contribuyente Resolución Exenta SII N° 58 del 05 de Julio del 2017 Establece vigencia de código de autorización de folios para los documentos tributarios electrónicos. Deroga resolución ex. SII N° 24, del 23 de marzo de 2016. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a las instituciones sin fines de lucro , como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdireción de Fizcalizacion Resolución Exenta SII N° 56 del 19 de Junio del 2017 Fija el procedimi…
+ncia al Contribuyente Autoriza a las instituciones sin fines de lucro , como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdireción de Fizcalizacion
 
 ## Referencias detectadas
 

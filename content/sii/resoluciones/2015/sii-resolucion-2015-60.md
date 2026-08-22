@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2015
-- Fecha: 2015-07-20
+- Fecha: 2015-07-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso60.pdf
 - Hash SHA-256: 22b0339890023cfb82d9319dfcb74b516e69e61548e22bd601b5815bae359ea2
 
 ## Resumen
 
-e='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 61 del 20 de Julio del 2015 Autoriza el pago en moneda extranjera del impuesto que indica Fuente: Subdirección de Fiscalizacióbn Delega en los Sres. Directores regionales la facultad que indica. Fuente: Departamento de Asesoría Jurídica Resolución Exenta SII N° 59 del 10 de Julio del 2015 Establece Unidad Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Orie…
+Fiscalizacióbn Delega en los Sres. Directores regionales la facultad que indica. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

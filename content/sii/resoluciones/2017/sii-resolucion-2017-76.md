@@ -11,7 +11,7 @@
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 77 del 23 de Agosto del 2017 Modifica Resolución Ex SII N° 13, de 2016, respecto unidad que Indica del Departamento Subdirección Desarrollo de Personas. Fuente: Subdirección de Desarrollo de Personas Criterios de segmentación de contribuyentes Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 75 del 23 de Agosto del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos…
+esarrollo de Personas Criterios de segmentación de contribuyentes Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

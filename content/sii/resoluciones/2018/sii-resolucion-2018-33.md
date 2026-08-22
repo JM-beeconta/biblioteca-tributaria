@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2018
-- Fecha: 2018-03-28
+- Fecha: 2018-03-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso33.pdf
 - Hash SHA-256: ae2a82f0905362bc9251722a8f7dc43bf7a9e4020d8c08bf63c8c07e5e36dfae
 
 ## Resumen
 
-de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 34 del 28 de Marzo del 2018 Omisión de giro de roles de contribuciones que se indican cuya cuota no supere los montos señalados. Fuente: Subdirección de Avaluaciones Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tribut…
+Subdirección de Avaluaciones Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

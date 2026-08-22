@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2026 Años Anteriores Reorganiza las unidades que conforman el departamento subdirección de avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 105 del 20 de Agosto del 2026 Complementa y modifica nomina de Grandes Contribuyentes, establecida en la Resolucion Ex. SII N° 208, de fecha 30 de diciembre de 2025. Fuente: Subdireccion de gran…
+9"> Reorganiza las unidades que conforman el departamento subdirección de avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

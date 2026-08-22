@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2022
-- Fecha: 2022-08-10
+- Fecha: 2022-08-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso66.pdf
 - Hash SHA-256: fc8c5f493efa13574c77c4cdd3c92355336360ab396cb64ee3c8ad7fc71a4ac1
 
 ## Resumen
 
-la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 67 del 10 de Agosto del 2022 Modifica Resolución Exenta SII N°72 de 2021, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Emisión de documentos tributarios electrónicos en operaciones de compra y venta de moneda extranjera. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 65 del 02 de Agosto del 20…
+ute;n de Asistencia al Contribuyente. Emisión de documentos tributarios electrónicos en operaciones de compra y venta de moneda extranjera. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

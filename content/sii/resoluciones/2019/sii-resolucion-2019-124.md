@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2019
-- Fecha: 2019-11-12
+- Fecha: 2019-11-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso124.pdf
 - Hash SHA-256: 020c048e74b2c4a8adfefa50cac1513dbcd8aa25de2fb54f62f38db97a8271ea
 
 ## Resumen
 
-mbraje de documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 125 del 12 de Noviembre del 2019 Delega facultad que indica, relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Subdirección de Administración Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 123 del 04 de Noviembre del 2019 Establece f…
+ción de Administración Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

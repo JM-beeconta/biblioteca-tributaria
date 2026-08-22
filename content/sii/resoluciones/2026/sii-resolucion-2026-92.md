@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e diciembre de 2026. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 93 del 10 de Julio del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza acceso a los servicios de interoperabilidad cartografía digital &ldquo;Sii-mapas&rdquo; a la Ilustre Municipalidad de Chonchi. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 91 del 10…
+ute;n de Asistencia al Contribuyente. Autoriza acceso a los servicios de interoperabilidad cartografía digital &ldquo;Sii-mapas&rdquo; a la Ilustre Municipalidad de Chonchi. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

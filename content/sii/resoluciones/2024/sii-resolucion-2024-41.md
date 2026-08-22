@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2024
-- Fecha: 2024-04-02
+- Fecha: 2024-03-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso41.pdf
 - Hash SHA-256: d5703356ba549309133a09a384864fdfbb90bfc402c9db82fb49412b7691e7d3
 
 ## Resumen
 
-pan> Resolución Exenta SII N° 42 del 02 de Abril del 2024 MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAICES DE LA PRIMERA SERIE AGRÍCOLA, POR LA ACTUALIZACIÓN CATASTRAL, EN LO QUE INDICA Fuente: Subdirección de Avaluaciones. Amplía el plazo para presentar las declaraciones juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex. SII N° 97 y N° 98…
+Subdirección de Avaluaciones. Amplía el plazo para presentar las declaraciones juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex. SII N° 97 y N° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

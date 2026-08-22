@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 45
 - Año: 2021
-- Fecha: 2021-05-03
+- Fecha: 2021-04-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso45.pdf
 - Hash SHA-256: 603367672cc1474eae67f7b74d33dc1910b6c22d5c0e0fe9a15371379ca03c29
 
 ## Resumen
 
-1.323. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 46 del 03 de Mayo del 2021 Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones... Fuente: Subdirección de asuntos corporativos Aprueba Modificación de Convenio de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+ección de asuntos corporativos Aprueba Modificación de Convenio de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

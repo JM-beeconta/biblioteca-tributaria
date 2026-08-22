@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 79 del 12 de Septiembre del 2018 Exime a Emprender Capital Automotriz SPA de la obligación de timbraje de pagarés establecida en el Artículo 17 Inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de San Fernando, Sr. Jorge Eduardo Osnovikoff Romero, para emitir boletas de honorarios electrónicas, en la forma que in…
+ute;n de Asistencia al Contribuyente Autoriza al Conservador de Bienes Raíces de San Fernando, Sr. Jorge Eduardo Osnovikoff Romero, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

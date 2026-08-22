@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 22
 - Año: 2024
-- Fecha: 2024-02-07
+- Fecha: 2024-02-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso22.pdf
 - Hash SHA-256: 2048b7fb29e7f49a52b860d239fe87675ec2485eb669e2c6fa8b4a43c5975c07
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 23 del 07 de Febrero del 2024 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Agrícola Ganadero y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Reitera procedimiento especial para solicitar rebajas de avalúos o contribuciones de inmuebles ubicados en zonas afectadas por catástrofes. Fuente: Subdirección de Avaluaciones…
+tégica y Estudios Tributarios. Reitera procedimiento especial para solicitar rebajas de avalúos o contribuciones de inmuebles ubicados en zonas afectadas por catástrofes. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

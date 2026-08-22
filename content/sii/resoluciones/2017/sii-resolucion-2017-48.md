@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2017
-- Fecha: 2017-05-16
+- Fecha: 2017-05-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso48.pdf
 - Hash SHA-256: 4a6b1b26f317d770db8fbba1c59f1ed7b694804fec88651d7b24508cdeb0aef1
 
 ## Resumen
 
-:10px;'> Fuente: Departamento de Operaciones Resolución Exenta SII N° 49 del 16 de Mayo del 2017 Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Modifica Resolución Exenta SII N° 83, del 30.08.2004 Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 47 del 12 de Mayo del 2017 Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2°…
+Estudios Tributarios Modifica Resolución Exenta SII N° 83, del 30.08.2004 Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

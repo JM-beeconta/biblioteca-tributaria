@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2013
-- Fecha: 2013-05-16
+- Fecha: 2013-05-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso47.pdf
 - Hash SHA-256: 0869479365e4a20edc70311e71f9aa2c1e51b4af4c06f12b4fd2dd16842fe0dc
 
 ## Resumen
 
-equeñas Empresas. Resolución Exenta SII N° 48 del 16 de Mayo del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Imparte instrucciones para acogerse al régimen de recuperación de los impuestos del Decreto Ley N° 825, de 1974, por las ventas de mercancías de su propia producción que hagan a la zona franca a que se refiere el artículo 27 de la Ley N° 19.420, de 1995. Fuente: Departa…
+ia de Contribuyentes. Imparte instrucciones para acogerse al régimen de recuperación de los impuestos del Decreto Ley N° 825, de 1974, por las ventas de mercancías de su propia producción que hagan a la zona franca a que se refiere el artículo 27 de la Ley N° 19.420, de 1995. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

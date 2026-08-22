@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 27 del 28 de Febrero del 2020 Autoriza al notario público de Osorno, Sr. Abdallah Fernandez Atuez, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza al notario público de Antofagasta, Sr. Gonzalo Martín Hurtado Peralta, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contri…
+ute;n de Asistencia al Contribuyente. Autoriza al notario público de Antofagasta, Sr. Gonzalo Martín Hurtado Peralta, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

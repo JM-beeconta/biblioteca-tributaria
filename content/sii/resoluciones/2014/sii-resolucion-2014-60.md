@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 61 del 20 de Junio del 2014 Exime de timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 59 del 20 de Junio del 2014 Reemplaza resolución Ex. SII N°129, de fecha 06.08.2010, sobre procedimiento de sol…
+cia de Contribuyentes Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

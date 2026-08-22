@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 90 del 25 de Julio del 2019 Autoriza a la SOCIEDAD COMERCIALIZADORA S.A. para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD EKONO LIMITADA para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la f…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD EKONO LIMITADA para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

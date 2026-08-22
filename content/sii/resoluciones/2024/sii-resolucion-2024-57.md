@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 57
 - Año: 2024
-- Fecha: 2024-05-16
+- Fecha: 2024-05-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso57.pdf
 - Hash SHA-256: cfd629f2f865f5cc7c7c71222cf6e48346336c6ae63d868e0c5897c37fddbcac
 
 ## Resumen
 
-tilde;ala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 58 del 16 de Mayo del 2024 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Lanco Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Chileno de Derecho Tributario. Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 56 del 09 de…
+tégica y Estudios Tributarios. Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Chileno de Derecho Tributario. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

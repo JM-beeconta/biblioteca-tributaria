@@ -11,7 +11,7 @@
 
 ## Resumen
 
-sivo del Cumplimiento Tributario Resolución Exenta SII N° 117 del 26 de Diciembre del 2016 Modifica Resolución Exenta SII N° 50 de 2012 reemplazando el Formulario 1848 e instrucciones de llenado Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Deroga Res. Ex. N° 15, de 30.01.2008 y establece nuevo formato de Declaración Jurada Anual F1811 sobre compras de minerales y/o retenciones de impuestos a que se refieren los artículos 73 y 74 N°6, ambos de la Ley sobre Impuesto a la renta Fuente: Depar…
+mplimiento Tributario Deroga Res. Ex. N° 15, de 30.01.2008 y establece nuevo formato de Declaración Jurada Anual F1811 sobre compras de minerales y/o retenciones de impuestos a que se refieren los artículos 73 y 74 N°6, ambos de la Ley sobre Impuesto a la renta Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 18 del 31 de Enero del 2024 Establece formulario para declarar y pagar los pagos provisionales mensuales obligatorios aplicable a explotadores mineros sujetos al impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley N° 21.647. Fuente: Subdirección de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Santa Cruz. Fuente: Su…
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Santa Cruz. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

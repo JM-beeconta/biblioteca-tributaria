@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 114
 - Año: 2025
-- Fecha: 2025-08-27
+- Fecha: 2025-08-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso114.pdf
 - Hash SHA-256: b6175fd7f01c1c6bbe9425bfe424ea789d5ebcd07dde8e9249b99069400819e8
 
 ## Resumen
 
-f' target='_blank'>Resolución Exenta SII N° 115 del 27 de Agosto del 2025 Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al servicio de impuestos internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones. Establece obligación de presentar anualmente información sobre activos digitales respe…
+Subdirección de Avaluaciones. Establece obligación de presentar anualmente información sobre activos digitales respecto de contribuyentes con residencia tributaria o domicilio en chile. Declaración jurada formulario N° 1964. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

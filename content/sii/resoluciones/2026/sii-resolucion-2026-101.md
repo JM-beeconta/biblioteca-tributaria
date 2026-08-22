@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 101
 - Año: 2026
-- Fecha: 2026-07-31
+- Fecha: 2026-07-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso101.pdf
 - Hash SHA-256: d4144ca71f6ff43638cd2ba5e0c9db15ddcb6cc281ea87bf5c231f327c47a72a
 
 ## Resumen
 
-olaboración entre la Facultad de Economía y Negocios de la Universidad de Chile y el Servicio de Impuestos Internos. Fuente: Subdirección de desarrollo de personas Resolución Exenta SII N° 102 del 31 de Julio del 2026 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 100 del 28 de Julio…
+: Subdirección Jurídica Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

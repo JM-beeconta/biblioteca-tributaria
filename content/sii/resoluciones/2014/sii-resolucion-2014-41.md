@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2014
-- Fecha: 2014-05-02
+- Fecha: 2014-04-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso41.pdf
 - Hash SHA-256: 95d43c7274f576efa95996e1e7e99614b0244bcb792c6a9afb147f1b700dc7fe
 
 ## Resumen
 
-x;'> Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 42 del 02 de Mayo del 2014 Registra como emisores de documentos Tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Establece forma y plazo para presentar Declaración Jurada Anual que indica. A los contribuyentes pertenecientes a la nómina de grandes contribuyentes y reemplaza resolución Exenta N°03, de 2012 Fuente: Departamento Medianas y Grandes Empresas Resolución Exe…
+cia de Contribuyentes Establece forma y plazo para presentar Declaración Jurada Anual que indica. A los contribuyentes pertenecientes a la nómina de grandes contribuyentes y reemplaza resolución Exenta N°03, de 2012 Fuente: Departamento Medianas y Grandes Empresas
 
 ## Referencias detectadas
 

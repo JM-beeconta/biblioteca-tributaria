@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2018
-- Fecha: 2018-11-13
+- Fecha: 2018-11-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso112.pdf
 - Hash SHA-256: 64a7f3cc13ec4ae54a05a420432351ab00c939c4908f38a617fc5fc1dcb2ed8d
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 113 del 13 de Noviembre del 2018 Suspende calidad de agente retenedor a ENEL CHILE S.A., conforme a Resolución Ex. SII N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización Crea modelo de Certificado N° 60, sobre donaciones a que se refiere la letra b) del artículo 157 ter del Código del Trabajo y su Reglamento, contenido en el Decreto Supremo N° 64 del año 2018, del Ministerio…
+cción de Fiscalización Crea modelo de Certificado N° 60, sobre donaciones a que se refiere la letra b) del artículo 157 ter del Código del Trabajo y su Reglamento, contenido en el Decreto Supremo N° 64 del año 2018, del Ministerio del Trabajo y Previsión Social sobre inclusión laboral de personas con discapacidad. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

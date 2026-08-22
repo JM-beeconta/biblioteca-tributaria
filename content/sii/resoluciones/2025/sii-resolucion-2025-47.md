@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2025
-- Fecha: 2025-04-17
+- Fecha: 2025-04-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso47.pdf
 - Hash SHA-256: 07a84499f6ce0ce8b6a0265a76c76c79c43db08cbab2ba206151a75c209081c0
 
 ## Resumen
 
-ódigo Tributario. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 48 del 17 de Abril del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 46 d…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

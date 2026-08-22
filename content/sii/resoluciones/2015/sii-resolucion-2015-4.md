@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 4
 - Año: 2015
-- Fecha: 2015-01-22
+- Fecha: 2015-01-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso4.pdf
 - Hash SHA-256: 989aba5b59912abdd8c98f35f8d2b5ea423d3669dab251d40a52b6df0bffc052
 
 ## Resumen
 
-='_blank'>Resolución Exenta SII N° 05 del 22 de Enero del 2015 Establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del d.l. n°825, de 1974. Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 04 del 21 de Enero del 2015 Autoriza a instituciones sin fines de lucro, como receptoras de al…
+cia de Contribuyentes Resolución Exenta SII N° 04 del 21 de Enero del 2015 Autoriza a instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

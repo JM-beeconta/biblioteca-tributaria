@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nálisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 104 del 21 de Diciembre del 2015 Aprueba Convenio de Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos Fuente: Subdirección de Estudios Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 103 del 21 de Diciembre del 2015 Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuen…
+ón de Estudios Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuente: Subdirección de Recursos Humanos
 
 ## Referencias detectadas
 

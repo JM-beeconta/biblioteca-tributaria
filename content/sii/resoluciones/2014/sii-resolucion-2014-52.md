@@ -11,7 +11,7 @@
 
 ## Resumen
 
-va_legislacion/resoluciones/2014/reso53.pdf' target='_blank'>Resolución Exenta SII N° 53 del 30 de Mayo del 2014 Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la ley N° 20.732, para las cuotas 3 y 4 de un año y 1 y 2 del siguiente. Fuente: Subdirección de Avaluaciones Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital…
+ute;n de Avaluaciones Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

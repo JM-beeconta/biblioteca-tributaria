@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 96 del 25 de Agosto del 2020 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional del Consumidor y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Chilena de la Construcción. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N°…
+atégica y Estudios Tributarios Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Chilena de la Construcción. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

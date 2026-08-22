@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n. Resolución Exenta SII N° 71 del 19 de Junio del 2025 Imparte instrucciones sobre procedimiento para que las empresas certificadoras independientes puedan otorgar certificación anual de sostenibilidad tributaria a los contribuyentes, de acuerdo con el párrafo segundo del N° 18 del artículo 8° del Código Tributario. Fuente: Subdirección de Fiscalización. Establece procedimiento de registro de empresas certificadoras independientes de acuerdo con el Nº 18 del artículo 8° del Código Tributario. Fuente: Subdirección…
+cción de Fiscalización. Establece procedimiento de registro de empresas certificadoras independientes de acuerdo con el Nº 18 del artículo 8° del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 99
 - Año: 2026
-- Fecha: 2026-07-28
+- Fecha: 2026-07-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso99.pdf
 - Hash SHA-256: 0cd0ab3f805b86e2937ab7dc99b588b758f17d5aa4a76560138716d10d821c88
 
 ## Resumen
 
-a de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 100 del 28 de Julio del 2026 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones de atacama, coquimbo, valparaíso, metropolitana de santiago, libertador general bernardo o&rsquo;higgins, maule, ñu…
+cute;n de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones de atacama, coquimbo, valparaíso, metropolitana de santiago, libertador general bernardo o&rsquo;higgins, maule, ñuble, biobío, la araucanía y los ríos. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

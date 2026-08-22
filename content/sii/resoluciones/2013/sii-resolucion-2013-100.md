@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2013
-- Fecha: 2013-12-09
+- Fecha: 2013-11-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso100.pdf
 - Hash SHA-256: 3ed3c4db41daa76d84150f22ba96a228a6d42aefdb0482bb42dbd0b58ba66aae
 
 ## Resumen
 
-;n y Asistencia de Contribuyentes Resolución Exenta SII N° 101 del 09 de Diciembre del 2013 Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 99 del 29 de Noviembre del 2013 Prorroga vigencia de emisión…
+cia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

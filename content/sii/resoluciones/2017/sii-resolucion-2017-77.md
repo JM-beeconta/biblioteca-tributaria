@@ -11,7 +11,7 @@
 
 ## Resumen
 
-margin-bottom:10px;'> Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 78 del 23 de Agosto del 2017 Declara Término de Giro según lo dispuesto en el inciso final del artículo 69 del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente Modifica Resolución Ex SII N° 13, de 2016, respecto unidad que Indica del Departamento Subdirección Desarrollo de Personas. Fuente: Subdirección de Desarrollo de Personas Resolución Exenta SII N° 76 del 23 de Agosto del…
+cia al Contribuyente Modifica Resolución Ex SII N° 13, de 2016, respecto unidad que Indica del Departamento Subdirección Desarrollo de Personas. Fuente: Subdirección de Desarrollo de Personas
 
 ## Referencias detectadas
 

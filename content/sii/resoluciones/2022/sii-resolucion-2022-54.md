@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 54
 - Año: 2022
-- Fecha: 2022-06-17
+- Fecha: 2022-06-13
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso54.pdf
 - Hash SHA-256: e672f1205d5d0ec0a013d5cf1e1767764a2b4292232ba179227d7cd06dfa5a4a
 
 ## Resumen
 
-ces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Departamento de Asesoría Jurídica. Resolución Exenta SII N° 55 del 17 de Junio del 2022 Delega Facultad Que Indica En El Funcionario Que Se Individualiza Fuente: Subdirección Jurídica. Habilita plataforma, instruye sobre requisitos y fija procedimiento para Solicitar el subsidio temporal que beneficia a las micro, pequeñas y Medianas empresas establecido en el artículo 9° de la ley n°21.456. Fuente…
+Subdirección Jurídica. Habilita plataforma, instruye sobre requisitos y fija procedimiento para Solicitar el subsidio temporal que beneficia a las micro, pequeñas y Medianas empresas establecido en el artículo 9° de la ley n°21.456. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

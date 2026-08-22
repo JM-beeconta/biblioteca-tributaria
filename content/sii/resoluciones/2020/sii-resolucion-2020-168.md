@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 168
 - Año: 2020
-- Fecha: 2020-12-29
+- Fecha: 2020-12-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso168.pdf
 - Hash SHA-256: 71cd849d05d4d641a19ce292c6bb20fffbcf45a90169c2c6c8b3eee3d6d9fc55
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 169 del 29 de Diciembre del 2020 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Fija nómina de Grandes Contribuyentes. Fuente: Dirección De Grandes Contribuyentes. Resolución Exenta SII N° 167 del 28 de Diciembre del 2020 Establece obligación de i…
+cción de Fiscalización. Fija nómina de Grandes Contribuyentes. Fuente: Dirección De Grandes Contribuyentes.
 
 ## Referencias detectadas
 

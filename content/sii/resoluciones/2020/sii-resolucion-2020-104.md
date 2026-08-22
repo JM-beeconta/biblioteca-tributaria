@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 104
 - Año: 2020
-- Fecha: 2020-09-03
+- Fecha: 2020-09-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso104.pdf
 - Hash SHA-256: a77ced33c47495676e461b3450e7b14a8e7bf8df37bb73529411fba345341d6a
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Informática. Resolución Exenta SII N° 105 del 03 de Septiembre del 2020 Complementa normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 4 del artículo 1° del decreto supremo N° 1156 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones. Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 74 de fecha 02 de julio de 2020, que instruye procedimiento para emitir boletas electrónicas y…
+Subdirección de Avaluaciones. Modifica fecha de entrada en vigencia de la resolución Ex. SII N° 74 de fecha 02 de julio de 2020, que instruye procedimiento para emitir boletas electrónicas y boletas no afectas y exentas electrónicas de ventas y servicios. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

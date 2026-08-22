@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 24
 - Año: 2026
-- Fecha: 2026-02-19
+- Fecha: 2026-02-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso24.pdf
 - Hash SHA-256: 0bf9c6f08af37ec07d76624dacf93f56f9b91bee86ef840474462eaec48bac3e
 
 ## Resumen
 
-ute;mica y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 25 del 19 de Febrero del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre SHERIFF SPA y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Imparte instrucciones sobre prórroga de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dis…
+ute;n de Asistencia al Contribuyente. Imparte instrucciones sobre prórroga de plazo de pago de cuotas del impuesto territorial que indica; facilidades de pago mediante convenios especiales y, condonación de intereses, conforme lo dispuesto en los numerales 4), 5) y 6) del N° 1 del Decreto Supremo N° 9, de 2026, del Ministerio de Hacienda, que establece medidas de índole tributaria para las comunas de las regiones de Ñuble y del Biobío que indica Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

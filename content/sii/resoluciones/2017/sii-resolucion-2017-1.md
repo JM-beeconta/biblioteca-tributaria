@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 02 del 11 de Enero del 2017 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación Familias Empresarias de Chile Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 01 del 11 de Enero del 2017 Delega facultades que indica Fuente: Subdirección Contraloría Interna function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.ht…
+Fiscalización Resolución Exenta SII N° 01 del 11 de Enero del 2017 Delega facultades que indica Fuente: Subdirección Contraloría Interna function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2017'); } else{ $(location).attr('href', '../' + anyo + '/' + archivo); } } $(document).rea…
 
 ## Referencias detectadas
 

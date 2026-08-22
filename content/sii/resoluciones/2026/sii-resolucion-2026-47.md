@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 47
 - Año: 2026
-- Fecha: 2026-04-01
+- Fecha: 2026-03-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso47.pdf
 - Hash SHA-256: fc8c0d66ca20e8ba6363b51fe576823d91eb34b08bc14be01131b8bdf27b3253
 
 ## Resumen
 
-rgin-bottom:0px;'>Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 48 del 01 de Abril del 2026 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Actualiza nómina de bienes afectos contenida en la Resolución Ex. N° 194 de 2025, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones. Resolución Exent…
+Fuente: Subdirección Normativa Actualiza nómina de bienes afectos contenida en la Resolución Ex. N° 194 de 2025, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2026
-- Fecha: 2026-07-30
+- Fecha: 2026-07-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso100.pdf
 - Hash SHA-256: 263a064e61ce9c985388952d838cc7a1484631facdf536dc0266aefd87208275
 
 ## Resumen
 
-ttom:0px;'> Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 101 del 30 de Julio del 2026 Autoriza a la entidad que indica para su habilitación en la plataforma de acceso unico a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 9…
+cute;n de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

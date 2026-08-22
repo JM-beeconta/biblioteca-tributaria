@@ -11,7 +11,7 @@
 
 ## Resumen
 
-p> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 126 del 14 de Diciembre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a GLOBAL ELECTRIC LIMITADA. Fuente: Subdirección de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Resoluc…
+cción de Fiscalización Autoriza a instituciones sin fines de lucro que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

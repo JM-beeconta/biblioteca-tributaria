@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el Código Tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 70 del 19 de Junio del 2025 Establece procedimiento de registro de empresas certificadoras independientes de acuerdo con el Nº 18 del artículo 8° del Código Tributario. Fuente: Subdirección de Fiscalización. Instruye forma en que los bancos comerciales deben cumplir la obligación a que se refiere el inciso segundo del artículo 89 del código tributario. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 68 del 19 de J…
+cción de Fiscalización. Instruye forma en que los bancos comerciales deben cumplir la obligación a que se refiere el inciso segundo del artículo 89 del código tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

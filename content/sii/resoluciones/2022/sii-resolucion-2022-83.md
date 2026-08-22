@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2022
-- Fecha: 2022-09-08
+- Fecha: 2022-09-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso83.pdf
 - Hash SHA-256: dff35172272b9747b9c65eac88e608bf34b0be09e720682da9ce380135df05c2
 
 ## Resumen
 
-a forma que indica. Impone obligación de mantener un registro de operaciones a GASMAR S.A., RUT N°96.636.520-k. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 84 del 08 de Septiembre del 2022 Complementa lista anexa de la resolucion n°8 exenta, de 2022. Fuente: Subdirección de Avaluaciones. Complementa lista anexa de la resolución exenta n° 09, de 2022. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 82 del 07 de Septiembre del 2022 Acredita y autoriza a DOX PSC SPA pa…
+Subdirección de Avaluaciones. Complementa lista anexa de la resolución exenta n° 09, de 2022. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

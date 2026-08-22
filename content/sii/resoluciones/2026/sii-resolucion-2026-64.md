@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2026
-- Fecha: 2026-05-20
+- Fecha: 2026-04-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso64.pdf
 - Hash SHA-256: 818cf3e00657451ef267865133275753bfa62c92a3a5d7d2033366879e5d4c80
 
 ## Resumen
 
-e individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 65 del 20 de Mayo del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Movilización Nacional y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones qu…
+ute;n de Asistencia al Contribuyente. Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin efecto la Resolución Exenta SII N°54, de 30.04.2025. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 121
 - Año: 2023
-- Fecha: 2023-10-18
+- Fecha: 2023-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso121.pdf
 - Hash SHA-256: 197048ecdbab465b9faec0824dae81453e9a585aa530d90743170687bf7b0b1f
 
 ## Resumen
 
-te;sima corte de apelaciones de Talca. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 122 del 18 de Octubre del 2023 Autoriza a Betterfly Chile spa, Rut N° 76.837.328-0, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 120 del 13 de Octubre del 2023 Autoriza a proceder conforme al modelo de operación d…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

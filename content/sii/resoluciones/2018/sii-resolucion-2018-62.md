@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 63 del 10 de Agosto del 2018 Autoriza a las instituciones sin fines de lucro que indica, como receptoras de pañales cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Excluye de nomina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54 de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 61 del 10 de Agosto del…
+cción de Fiscalización Excluye de nomina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54 de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

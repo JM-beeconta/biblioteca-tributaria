@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 145 del 31 de Diciembre del 2019 Fija valores de terrenos y Construcciones para el reavalúo 2020, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones Resolución Exenta SII…
+Fuente: Subdirección de Avaluaciones Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

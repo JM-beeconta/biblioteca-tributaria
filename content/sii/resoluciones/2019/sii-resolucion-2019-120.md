@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 120
 - Año: 2019
-- Fecha: 2019-10-30
+- Fecha: 2019-10-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso120.pdf
 - Hash SHA-256: 51755cfdb03646e5df9b77093eb6e7c7b4ceeaa72f4559aef86463474719b58f
 
 ## Resumen
 
-e; contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 121 del 30 de Octubre del 2019 Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Fija nueva vigencia de resolución Ex. SII N° 113 de 2019, que revoca autorización de emisión en papel de documentos tributarios, que deben ser emitidos en formato electrónico, a los contribuyentes que indica. Fuente…
+cción de Fiscalización Fija nueva vigencia de resolución Ex. SII N° 113 de 2019, que revoca autorización de emisión en papel de documentos tributarios, que deben ser emitidos en formato electrónico, a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

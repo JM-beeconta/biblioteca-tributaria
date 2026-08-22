@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2013
-- Fecha: 2013-10-09
+- Fecha: 2013-10-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso86.pdf
 - Hash SHA-256: 3827d890be4552d59e9d6cdfd2025751ccfa9a2e87bee65cac50b89ea75dbb69
 
 ## Resumen
 
-Resolución Exenta SII N° 87 del 09 de Octubre del 2013 Autoriza al contribuyente Cencosud Servicios Integrales S.A., rut N° 76.023.825-2, para operar un sistema electrónico de intermediación en la venta de colaciones Fuente: Departamento de Atención y Asistencia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 85 del 30 de Septiembre del 2013 Autoriza como em…
+cia de Contribuyentes Téngase por desafiliados del Sistema de Facturación Electrónica a los contribuyentes que se indican Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

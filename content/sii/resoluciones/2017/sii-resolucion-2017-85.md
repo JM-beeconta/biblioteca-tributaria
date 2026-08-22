@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2017
-- Fecha: 2017-09-07
+- Fecha: 2017-09-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso85.pdf
 - Hash SHA-256: 7a48f8388e16daab6f947b67a84e50b97a5478e35e847e46cf80893d059914a1
 
 ## Resumen
 
-ección de Asistencia al Contribuyente Resolución Exenta SII N° 86 del 07 de Septiembre del 2017 Elimina obligación de generación y envío del Libro Contable Electrónico de Compras y Ventas según Resolución EX. SII N° 150, del 2005. Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 84 del 31 de Agosto del 2017 Establece forma y plazo para presentar dec…
+ncia al Contribuyente Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

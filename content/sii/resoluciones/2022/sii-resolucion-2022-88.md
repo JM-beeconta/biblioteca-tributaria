@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 89 del 15 de Septiembre del 2022 Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Villa Alemana. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad de Las Américas Fuente: Subdirección de Asistencia al Contribuyente. Resolución…
+tégica y Estudios Tributarios. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad de Las Américas Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

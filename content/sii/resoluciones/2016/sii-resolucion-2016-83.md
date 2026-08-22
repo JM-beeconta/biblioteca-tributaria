@@ -11,7 +11,7 @@
 
 ## Resumen
 
-le='margin-bottom:0px;'> Resolución Exenta SII N° 84 del 19 de Agosto del 2016 Autoriza a la empresa Tecnología APP Mobile Limitada para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 82 d…
+ncia al Contribuyente Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

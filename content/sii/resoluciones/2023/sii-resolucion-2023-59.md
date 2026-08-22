@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;n Exenta N° 2301, de 1986. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 60 del 17 de Mayo del 2023 Fija monto mínimo para la emisión de boletas de ventas y servicios. Deroga resolución Ex. SII N° 3943 de fecha 03.11.1992. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a SABORES CARD SPA, RUT N° 76.969.846-9, para operar sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 58 de…
+ute;n de Asistencia al Contribuyente. Autoriza a SABORES CARD SPA, RUT N° 76.969.846-9, para operar sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

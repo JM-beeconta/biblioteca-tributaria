@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 62
 - Año: 2019
-- Fecha: 2019-05-17
+- Fecha: 2019-05-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso62.pdf
 - Hash SHA-256: d64e358468b7ed2bb691cd4739587d0d6824a2fdb229d9144ad7a7ac757b119d
 
 ## Resumen
 
-Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 63 del 17 de Mayo del 2019 Modifica Res. Ex. N° 5856 del 6 de octubre de 1998 que elimina otorgamiento de boletas de honorarios por profesionales y sociedades de profesionales al fondo nacional de salud. Fuente: Subdirección de Asistencia al Contribuyente Modificación al Título XIV del Libro II del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, a la Resolución Exenta N° 40 de 2019, del Servicio de Impues…
+ute;n de Asistencia al Contribuyente Modificación al Título XIV del Libro II del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, a la Resolución Exenta N° 40 de 2019, del Servicio de Impuestos Internos, y a la Circular Conjunta N° 4 de la Tesorería General de la República. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

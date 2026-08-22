@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 68
 - Año: 2022
-- Fecha: 2022-08-22
+- Fecha: 2022-08-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso68.pdf
 - Hash SHA-256: 5ed8a3d0e1e20f888bdccc3d764bcc95f0e2126b8f63d76cb7127ab7af34f63e
 
 ## Resumen
 
-> Reemplaza formato, contenido e instrucciones de declaraciones juradas que se indican Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 69 del 22 de Agosto del 2022 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica. Incorpórase a corporación de fomento de la producción, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 67 del 10 de Agosto del 2…
+Subdirección Jurídica. Incorpórase a corporación de fomento de la producción, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón. Resolución Exenta SII N° 48 del 20 de Mayo del 2022 Establece forma de anotar las rentas que se encuentren pendientes de distribución a los respectivos accionistas de las sociedades plataforma de inversiones, al 31 de diciembre de 2021 o al 31 de diciembre del año anterior al que se hayan incorporado al régimen general. Fuente: Subdirección de Fiscalización. Instruye sobre el procedimiento de traspaso de las sociedades plataforma de inversiones, vigentes al 31 de diciembre de 2021, al registro de inicio de act…
+cción de Fiscalización. Instruye sobre el procedimiento de traspaso de las sociedades plataforma de inversiones, vigentes al 31 de diciembre de 2021, al registro de inicio de actividades. Deja sin efecto la resolución Ex N° 44 de 2003. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

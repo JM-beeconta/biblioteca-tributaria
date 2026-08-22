@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2024
-- Fecha: 2024-09-11
+- Fecha: 2024-09-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso89.pdf
 - Hash SHA-256: 759764da02fe9131066e34e923ac2e940e4d238c7011ff3c2cdb76a5220b4c1a
 
 ## Resumen
 
-tom:0px;'>Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2025. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 11 de Septiembre del 2024 Crea la oficina de crimen organizado y define sus funciones. Fuente: Dirección Nacional Designa secretaria titular y suplente en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de La Serena Fuen…
+> Fuente: Dirección Nacional Designa secretaria titular y suplente en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la I. Corte de apelaciones de La Serena Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

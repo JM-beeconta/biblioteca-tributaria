@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 71
 - Año: 2017
-- Fecha: 2017-08-11
+- Fecha: 2017-08-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso71.pdf
 - Hash SHA-256: b8320085dd9409546fc66290b34cf56f69df5f4962f8fae67746e683802a13ad
 
 ## Resumen
 
-e: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 72 del 11 de Agosto del 2017 Autoriza a empresa Ticketmundo Chile Spa para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Designa funcionario titular y suplente para la coordinación e implementación del sistema preventivo contra delitos funcionarios, lavado de activos y financiamiento del terrorismo y delega facultad que in…
+ncia al Contribuyente Designa funcionario titular y suplente para la coordinación e implementación del sistema preventivo contra delitos funcionarios, lavado de activos y financiamiento del terrorismo y delega facultad que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

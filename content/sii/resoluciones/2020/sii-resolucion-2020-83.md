@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2020
-- Fecha: 2020-07-22
+- Fecha: 2020-07-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso83.pdf
 - Hash SHA-256: b87552781a5cde812c3c32280dc6e5cc0c20d69891ee54271a626d22e2635c79
 
 ## Resumen
 
-Subdirección de Fiscalización. Resolución Exenta SII N° 84 del 22 de Julio del 2020 Establece forma y plazo para que las entidades relacionadas que se indican informen a la empresa o sociedad respectiva, el monto total de los ingresos de su giro percibidos o devengados en los ejercicios respectivos y otras rentas que se señalan... Fuente: Subdirección de Fiscalización. Fija procedimiento administrativo a que se deben someter las solicitudes efectuadas por los contribuyentes en el marco de lo Dispuesto en el artícu…
+cción de Fiscalización. Fija procedimiento administrativo a que se deben someter las solicitudes efectuadas por los contribuyentes en el marco de lo Dispuesto en el artículo trigésimo tercero transitorio de la ley N°21.210. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

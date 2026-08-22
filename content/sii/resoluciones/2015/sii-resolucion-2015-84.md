@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 84
 - Año: 2015
-- Fecha: 2015-10-20
+- Fecha: 2015-10-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso84.pdf
 - Hash SHA-256: a60e263735ad5a9794ea7590eff832a9fbd492a4fc1bffc3dd6c678f0c6b6b60
 
 ## Resumen
 
-ción de Fiscalización Resolución Exenta SII N° 85 del 20 de Octubre del 2015 Crea el Departamento de Desarrollo Organizacional dependiente del Departamento Subdirección de Recursos Humanos. Otras medidas que indica. Fuente: Subdirección de Recursos Humanos Establece nuevas fechas de pago del Impuesto Territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Limari, de la IV Región de Coquimbo. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 83 de…
+n de Recursos Humanos Establece nuevas fechas de pago del Impuesto Territorial correspondientes a la 3a y 4a cuota del año 2015, para los bienes raíces ubicados en la provincia de Limari, de la IV Región de Coquimbo. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

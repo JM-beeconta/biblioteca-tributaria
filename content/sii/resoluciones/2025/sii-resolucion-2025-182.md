@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 183 del 15 de Diciembre del 2025 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Complementa listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 181 del 15 de Diciembre del 2025 Fija nómina &ldquo;contribuyentes IVA SD afectos a cam…
+ute;n de Asistencia al Contribuyente. Complementa listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2018
-- Fecha: 2018-03-16
+- Fecha: 2018-03-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso28.pdf
 - Hash SHA-256: 6d46c0260cf20e26ef45ca375a03db9d017517cf98a54b8ab0d0642f52b0b75a
 
 ## Resumen
 
-le='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 29 del 16 de Marzo del 2018 Designa responsables de procesos que indica, delega facultades y deroga Resolución Ex. SII N°2101 de 12 de mayo de 2017. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Refunde y complementa Resoluciones Exentas SII N° 128 de 29 de diciembre de 2017; N° 7, de 18 de enero de 2018; N° 16, de 14 de febrero de 2018, que fijan valores de terr…
+tégica y Estudios Tributarios Refunde y complementa Resoluciones Exentas SII N° 128 de 29 de diciembre de 2017; N° 7, de 18 de enero de 2018; N° 16, de 14 de febrero de 2018, que fijan valores de terrenos y construcciones para el reavalúo de los bienes raíces de la Segunda Serie No Agrícola, y Resolución Exenta N° 11, de 30 de enero de 2018, que fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vige…
 
 ## Referencias detectadas
 

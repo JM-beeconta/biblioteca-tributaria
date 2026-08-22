@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 153
 - Año: 2020
-- Fecha: 2020-12-11
+- Fecha: 2020-12-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso153.pdf
 - Hash SHA-256: dbd12eaba545f8926b4e2d67b6261d6aafbebc23b907f76513362c0e3bc394f5
 
 ## Resumen
 
-in-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 154 del 11 de Diciembre del 2020 Aprueba Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuesto y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Modifica Resolución Ex. SII Nº 106 de 24.12.2013 que contiene el formato de formulario de Declaración Jurada Nº 1887 y la Resolución Ex. SII Nº 110, de 30.09.2019 que contiene i…
+tégica y Estudios Tributarios. Modifica Resolución Ex. SII Nº 106 de 24.12.2013 que contiene el formato de formulario de Declaración Jurada Nº 1887 y la Resolución Ex. SII Nº 110, de 30.09.2019 que contiene instrucciones de llenado. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

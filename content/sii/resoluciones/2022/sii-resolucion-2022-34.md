@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 34
 - Año: 2022
-- Fecha: 2022-04-21
+- Fecha: 2022-04-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso34.pdf
 - Hash SHA-256: 326a94ab81aecd63ce15efe99ee1466109377f54c76b280759c7f275df49cac0
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 35 del 21 de Abril del 2022 Designa secretarios, titulares y suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Punta Arenas. Fuente: Subdirección Jurídica. Delega facultad relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Gabinete. Resolución Exenta SII N° 33 del 19 de…
+Subdirección Jurídica. Delega facultad relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Gabinete.
 
 ## Referencias detectadas
 

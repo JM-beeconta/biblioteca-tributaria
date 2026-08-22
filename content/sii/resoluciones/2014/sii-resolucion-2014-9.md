@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 9
 - Año: 2014
-- Fecha: 2014-01-23
+- Fecha: 2014-01-22
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso9.pdf
 - Hash SHA-256: 6ffd2b379df81ea7dbf44146b2124ca41487ae9adb49699b5a0f597094cdf4e5
 
 ## Resumen
 
--bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 10 del 23 de Enero del 2014 Autoriza timbraje de documentos a contribuyentes de la Unidad Norte en la forma que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 09 del 22 de Enero del 2014 Sustituye estructura y contenido del Formulario N°50 sobre declaración y pago simultáneo mensual de impuesto. Fuente: Departamento de Fiscalización Internacional Resolución Exenta SII N° 08 del 16 de Ener…
+cia de Contribuyentes Resolución Exenta SII N° 09 del 22 de Enero del 2014 Sustituye estructura y contenido del Formulario N°50 sobre declaración y pago simultáneo mensual de impuesto. Fuente: Departamento de Fiscalización Internacional
 
 ## Referencias detectadas
 

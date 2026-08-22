@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 152
 - Año: 2020
-- Fecha: 2020-12-10
+- Fecha: 2020-12-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso152.pdf
 - Hash SHA-256: 2d298f4dbb2b60ac72443fb54a2d5af5e695e910b69a1dec875f1a43032b5128
 
 ## Resumen
 
-Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 153 del 10 de Diciembre del 2020 Modifica Resolución Ex. SII Nº 106 de 24.12.2013 que contiene el formato de formulario de Declaración Jurada Nº 1887 y la Resolución Ex. SII Nº 110, de 30.09.2019 que contiene instrucciones de llenado. Fuente: Subdirección de Fiscalización. Establece procedimiento para la inscripción en el sistema de emisión de boletas electrónicas del SII. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII…
+cción de Fiscalización. Establece procedimiento para la inscripción en el sistema de emisión de boletas electrónicas del SII. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

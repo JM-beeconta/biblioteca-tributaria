@@ -11,7 +11,7 @@
 
 ## Resumen
 
-74, Ley sobre Impuesto a las Ventas y Servicios en los casos que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 23 del 12 de Febrero del 2020 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Subdirección Normativa Modifica Subrogancia de Secretaría General Fuente: Secretaria General Resolución Exenta SII N° 21 del 11 de Febrero del 2020 Designa secretario titular y suplente en tribunal especial de alzada d…
+Fuente: Subdirección Normativa Modifica Subrogancia de Secretaría General Fuente: Secretaria General
 
 ## Referencias detectadas
 

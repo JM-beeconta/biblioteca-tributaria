@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 22
 - Año: 2014
-- Fecha: 2014-02-21
+- Fecha: 2014-02-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso22.pdf
 - Hash SHA-256: 4c3ec6e203646bfb9047f6c377b41fc56da8731c00430720eb06212a3c965f5b
 
 ## Resumen
 
-te: Departamento de Asesoría Jurídica Resolución Exenta SII N° 23 del 21 de Febrero del 2014 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 21 del 13 de Febrero del 2014 Autoriza a proceder conforme al modelo de operación de contabilid…
+tión Normativa Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

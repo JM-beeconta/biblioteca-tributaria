@@ -11,7 +11,7 @@
 
 ## Resumen
 
-to Tributario Resolución Exenta SII N° 110 del 24 de Diciembre del 2015 Establece Declaración Jurada N° 1913, de caracterización tributaria global a los contribuyentes que señala. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Reemplaza formato e instrucciones de Declaración Jurada Formulario número 1861; modifica la obligación de presentar dicha declaración y deroga Resolución Ex. N° 06 de 21 de enero de 2004. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolució…
+mplimiento Tributario Reemplaza formato e instrucciones de Declaración Jurada Formulario número 1861; modifica la obligación de presentar dicha declaración y deroga Resolución Ex. N° 06 de 21 de enero de 2004. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-/i> Resolución Exenta SII N° 118 del 29 de Diciembre del 2015 Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie, agrícola. Fuente: Oficina de Normas y Casos Especiales Deja sin efecto Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, que establece nuevo requisito para las facturas, facturas de compras y guías de despacho, electrónicas o no electrónicas, utilizadas en el traslado de especies en vehículos destinados al t…
+as y Casos Especiales Deja sin efecto Resolución Ex. SII N° 51 de fecha 10 de junio de 2015, que establece nuevo requisito para las facturas, facturas de compras y guías de despacho, electrónicas o no electrónicas, utilizadas en el traslado de especies en vehículos destinados al transporte de carga. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ont-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 08 del 25 de Enero del 2023 Designa secretario titular y suplente en tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de San Miguel. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 07 del 25 de Enero del 2023 Aprueba Addendum al Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuestos y…
+Subdirección Jurídica. Resolución Exenta SII N° 07 del 25 de Enero del 2023 Aprueba Addendum al Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuestos y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

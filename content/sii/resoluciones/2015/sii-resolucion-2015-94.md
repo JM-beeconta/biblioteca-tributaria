@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 94
 - Año: 2015
-- Fecha: 2015-11-25
+- Fecha: 2015-11-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso94.pdf
 - Hash SHA-256: 6d9763240ba298c768e8a9cabff67d57f08c22190d966aaafb2f985b1fcfb20f
 
 ## Resumen
 
-rtamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 95 del 25 de Noviembre del 2015 Complementa Resolución Exenta SII N° 125 de 30 de diciembre de 2014, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Autoriza e empresa producciones Mario Enrique Riera Navarro E.I.R.L. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Res…
+randes Contribuyentes Autoriza e empresa producciones Mario Enrique Riera Navarro E.I.R.L. para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

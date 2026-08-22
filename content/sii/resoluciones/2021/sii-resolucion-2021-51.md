@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 51
 - Año: 2021
-- Fecha: 2021-05-25
+- Fecha: 2021-05-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso51.pdf
 - Hash SHA-256: 7af0588f6590c362b2ca652eef30fb0ff2ae78b7406aa68ce1deebf0e7ab2178
 
 ## Resumen
 
-señala la letra g, del artículo 8°, del D.I. N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 52 del 25 de Mayo del 2021 Reemplaza anexos de Resolución Ex. SII N° 112 de 2018. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre créditos y ppm puestos a disposición de los socios, formulario Nº 1837. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 50 del 10 de Mayo del 2021…
+cción de Fiscalización. Amplía el plazo para presentar la declaración jurada anual sobre créditos y ppm puestos a disposición de los socios, formulario Nº 1837. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2015
-- Fecha: 2015-03-24
+- Fecha: 2015-03-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso29.pdf
 - Hash SHA-256: 676c824141711f8153c70231f3b764f28699204601de29d189f2cba7ba1463a8
 
 ## Resumen
 
-ormativa_legislacion/resoluciones/2015/reso30.pdf' target='_blank'>Resolución Exenta SII N° 30 del 24 de Marzo del 2015 Establece procedimiento para los distribuidores de gas natural comprimido (GNC) de origen no fósil, que deseen acogerse a la exención del impuestos a los combustibles dispuesta en el inciso quinto del artículo 1° de la Ley N° 18.502 Fuente: Departamento de Sistemas de Fiscalización Autoriza a Director Regional de la XVI Dirección Regional Metropolitana, Santiago Sur, para delegar en Jefe de Unida…
+Fiscalización Autoriza a Director Regional de la XVI Dirección Regional Metropolitana, Santiago Sur, para delegar en Jefe de Unidad de La Florida facultades que indica Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

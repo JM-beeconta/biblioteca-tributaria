@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 112
 - Año: 2019
-- Fecha: 2019-10-10
+- Fecha: 2019-09-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso112.pdf
 - Hash SHA-256: c329aebccbbdf9f48c824512416c3063dcc59594bace7e0e65bf88ad1baef22a
 
 ## Resumen
 
-la. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 113 del 10 de Octubre del 2019 Revoca autorización de emisión en papel de documentos tributarios, que deben ser emitidos en formato electrónico, a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente Condonación excepcional de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°, N° 2 y N° 11 del Código Tributario y…
+ute;n de Asistencia al Contribuyente Condonación excepcional de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°, N° 2 y N° 11 del Código Tributario y condonación de intereses en el caso de deudas por concepto de Impuesto Territorial y giros infraccionales que no accedan al pago de impuestos. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

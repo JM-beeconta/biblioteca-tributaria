@@ -11,7 +11,7 @@
 
 ## Resumen
 
-yle='font-size:12px;margin-bottom:10px;'> Fuente: Dirección Nacional Resolución Exenta SII N° 120 del 29 de Diciembre del 2015 Crea Departamento Subdirección de Asuntos Corporativos, establece funciones y ámbito de competencia Fuente: Dirección Nacional Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 118 del 29 de Diciembre del 2015 Fija definiciones técnicas y aprueba tablas de valores de terrenos y construcciones para el reavalúo de los bienes raíces de…
+cción Nacional Fija Nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

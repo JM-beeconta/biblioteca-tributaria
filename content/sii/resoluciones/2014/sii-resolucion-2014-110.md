@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 110
 - Año: 2014
-- Fecha: 2014-12-04
+- Fecha: 2014-12-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso110.pdf
 - Hash SHA-256: 071490085b1810d91993adcd0be176e4d8bd58f6b0f45643f2ad005faf852687
 
 ## Resumen
 
-lacion/resoluciones/2014/reso111.pdf' target='_blank'>Resolución Exenta SII N° 111 del 04 de Diciembre del 2014 Establece Declaración Jurada y requiere antecedentes para acreditar el inicio del proceso de fusión en los términos del numeral XIX, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780 de 2014, sobre reforma tributaria. Fuente: Subdirección de Fiscalización Establece la forma y procedimiento en que se hará efectiva la postergación del pago del Impuesto al Valor Agregado, establecid…
+Fiscalización Establece la forma y procedimiento en que se hará efectiva la postergación del pago del Impuesto al Valor Agregado, establecida en el inciso tercero del artículo 64 del D.L. N°825, de 1974. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

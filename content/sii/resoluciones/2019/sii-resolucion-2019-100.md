@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2019
-- Fecha: 2019-09-06
+- Fecha: 2019-09-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso100.pdf
 - Hash SHA-256: 730016470a8d008a32f580e8e9bfc7be300f000f1944aac9bc9a6d9426514cc0
 
 ## Resumen
 
-eorganiza las unidades que la conforman. Fuente: Subdirección de Administración Resolución Exenta SII N° 101 del 06 de Septiembre del 2019 Reorganiza las unidades que conforman el departamento Subdirección de Informática y establece sus ámbitos de competencia. Fuente: Subdirección de Informática Autoriza como receptor electrónico de documentos tributarios electrónicos a la SUBSECRETARÍA DEL MEDIO AMBIENTE. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 02 de Septiembre del 2019…
+rección de Informática Autoriza como receptor electrónico de documentos tributarios electrónicos a la SUBSECRETARÍA DEL MEDIO AMBIENTE. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

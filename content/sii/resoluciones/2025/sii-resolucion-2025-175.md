@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 175
 - Año: 2025
-- Fecha: 2025-12-10
+- Fecha: 2025-12-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso175.pdf
 - Hash SHA-256: 7cb4eb1541a25df122da357e84498ca295145c3d7d58e57c1b9b9d909e6f76a0
 
 ## Resumen
 
-s que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 176 del 10 de Diciembre del 2025 Crea registro especial de operadores locales de plataformas digitales que intermedian en la venta remota de bienes de bajo valor y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Policía de Investigaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exen…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre la Policía de Investigaciones y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

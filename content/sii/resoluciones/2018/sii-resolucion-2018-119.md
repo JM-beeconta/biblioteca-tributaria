@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 119
 - Año: 2018
-- Fecha: 2018-12-04
+- Fecha: 2018-12-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso119.pdf
 - Hash SHA-256: 17c36c11214521fd5bfbdc555b0465d4df989b83473c611fd2b703794db7a65b
 
 ## Resumen
 
-es y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 120 del 04 de Diciembre del 2018 Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Incorpórase a SERVICIOS FINANCIEROS PROGRESO S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 118 del 27 d…
+ute;n de Asistencia al Contribuyente Incorpórase a SERVICIOS FINANCIEROS PROGRESO S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 82 del 29 de Agosto del 2024 Procedimiento de exclusión del registro de sociedades de profesionales por incumplimiento de requisitos. Fuente: Subdirección de Asistencia al Contribuyente. Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirecc…
+ute;n de Asistencia al Contribuyente. Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n> Resolución Exenta SII N° 52 del 30 de Mayo del 2014 Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario Fuente: Subdirección de Informática Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 50 del 26 de Mayo del 2014 Establece Declaración Jurada y Modelo de Certificad…
+de Informática Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

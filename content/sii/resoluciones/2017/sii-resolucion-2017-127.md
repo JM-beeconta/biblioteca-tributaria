@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 127
 - Año: 2017
-- Fecha: 2017-12-29
+- Fecha: 2017-12-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso127.pdf
 - Hash SHA-256: a6b497dcd2c6d7b313c9b68c689f09da81df7aa737ba16c611dfc9d663f469ee
 
 ## Resumen
 
-Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 128 del 29 de Diciembre del 2017 Fija valores de terrenos y construcciones para el Reavalúo de los Bienes Raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 126 del 26 de Diciembre del 2017 Autoriza a empresa INNTI Sociedad Anónima para emitir bole…
+ute;n de Avaluaciones Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 86
 - Año: 2023
-- Fecha: 2023-08-22
+- Fecha: 2023-08-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso86.pdf
 - Hash SHA-256: a3e80635c014258f7fe445ef267a3fc892ea499cbfc5eb7c9fa4281804c4771a
 
 ## Resumen
 
-Y Rectifica Res. Ex. Sii N°51 De 26.04.2023. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 87 del 22 de Agosto del 2023 Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Organismos Públicos Que Indica. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributar…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

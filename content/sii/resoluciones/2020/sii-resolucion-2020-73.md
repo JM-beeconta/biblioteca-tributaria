@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 74 del 02 de Julio del 2020 Instruye sobre procedimiento para emitir boletas electrónicas y boletas no afectas o exentas electrónicas de ventas y servicios. Deja sin efecto resoluciones que indica. Fuente: Subdirección de Asistencia al Contribuyente. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la i…
+ute;n de Asistencia al Contribuyente. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Departamente de Asesoría Jurídica.
 
 ## Referencias detectadas
 

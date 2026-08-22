@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 48
 - Año: 2020
-- Fecha: 2020-04-30
+- Fecha: 2020-04-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso48.pdf
 - Hash SHA-256: 059d65838bfe7c796f1e86f172de5c63356659e43ae2a4d0622b52b8ef8dea74
 
 ## Resumen
 
-e lo dispuesto en el Art. 3° inciso 2° de la Ley N° Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 49 del 30 de Abril del 2020 Crea modelo de certificado Nº 66 sobre donaciones asociadas al brote mundial del virus denominado CORONAVIRUS-2 o COVID-19. Fuente: Subdirección de Fiscalización. Otorga condonación de las multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 47 del 27 de Abril del 2020 Autoriza a proceder conforme al mode…
+cción de Fiscalización. Otorga condonación de las multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

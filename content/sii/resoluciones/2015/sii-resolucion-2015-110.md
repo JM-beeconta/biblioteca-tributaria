@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ributario Resolución Exenta SII N° 111 del 24 de Diciembre del 2015 Establece forma y plazo para presentar Declaración Jurada anual de fondo de utilidades tributables (FUT), Formulario N° 1925. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece Declaración Jurada N° 1913, de caracterización tributaria global a los contribuyentes que señala. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 109 del 24 de Diciembre del 2015 Reemplaza formato…
+mplimiento Tributario Establece Declaración Jurada N° 1913, de caracterización tributaria global a los contribuyentes que señala. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

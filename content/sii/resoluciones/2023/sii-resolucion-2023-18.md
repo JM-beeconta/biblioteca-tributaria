@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la Ilustre Municipalidad de Macul. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 19 del 22 de Febrero del 2023 Rectifica en el modo que indica lista anexa de la Res. Ex. N°4, de 2023, complementada por la Res. Ex. N° 12, del 2023. Fuente: Subdirección de Avaluaciones. Declara Término De Giro Según Lo Dispuesto En El Inciso Final Del Artículo 69 Del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 17 del 17 de Febrero del…
+Subdirección de Avaluaciones. Declara Término De Giro Según Lo Dispuesto En El Inciso Final Del Artículo 69 Del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

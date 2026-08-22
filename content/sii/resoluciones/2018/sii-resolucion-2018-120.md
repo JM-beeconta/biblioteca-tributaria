@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 120
 - Año: 2018
-- Fecha: 2018-12-06
+- Fecha: 2018-12-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso120.pdf
 - Hash SHA-256: 5bed6c8d04232344a2df101317aa91594bada7d93a9c67d7953da3126bbe92f9
 
 ## Resumen
 
-de;alan. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 121 del 06 de Diciembre del 2018 Exime a CORPORACIÓN CULTIVA de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 119 del 03 de Diciembre del 2018 Inco…
+ute;n de Asistencia al Contribuyente Declara Término de Giro según lo dispuesto en el inciso final del Artículo 69 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

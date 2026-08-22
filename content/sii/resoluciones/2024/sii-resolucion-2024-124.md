@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2024
-- Fecha: 2024-12-20
+- Fecha: 2024-12-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso124.pdf
 - Hash SHA-256: 616f1f971c4f2ee85b510be8f31ed0388def10e480913895c8aedd752cf3d095
 
 ## Resumen
 
-esolución Exenta N°08 de 2024. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 125 del 20 de Diciembre del 2024 Incorpórase a comisión nacional de riego, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios…
+ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

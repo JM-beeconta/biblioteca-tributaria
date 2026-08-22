@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Peñalolén. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 77 del 26 de Junio del 2025 Establece procedimiento para la obtención de Rut e inicio de actividades Fuente: Subdirección Jurídica. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirecc…
+Subdirección Jurídica. Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

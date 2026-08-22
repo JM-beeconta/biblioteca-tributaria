@@ -11,7 +11,7 @@
 
 ## Resumen
 
-.180-8 para retener y enterar en arcas fiscales el Impuesto al Valor Agregado en los casos que indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 148 del 27 de Diciembre del 2018 Designa responsables de procesos que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 146 del 27 de Diciembre del 2018 Fija nuevas denominaciones y funciones a los departamentos que se in…
+tégica y Estudios Tributarios Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

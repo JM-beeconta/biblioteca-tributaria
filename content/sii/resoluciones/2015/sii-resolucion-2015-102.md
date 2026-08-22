@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Recursos Humanos Resolución Exenta SII N° 103 del 21 de Diciembre del 2015 Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuente: Subdirección de Recursos Humanos Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones Resolución Exenta SII…
+n de Recursos Humanos Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

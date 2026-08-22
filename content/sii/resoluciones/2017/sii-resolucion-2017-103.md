@@ -11,7 +11,7 @@
 
 ## Resumen
 
-m:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 104 del 13 de Octubre del 2017 Autoriza a IGT Global Solutions Corporation Chile, Rut N° 78.465.510-5, para retener y enterar en arcas fiscales el Impuesto al Valor Agregado según se indica. Fuente: Subdirección de Fiscalización Establece obligacion de presentar Declaración Jurada Anual N° 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización Resolución Exenta SII…
+Fiscalización Establece obligacion de presentar Declaración Jurada Anual N° 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

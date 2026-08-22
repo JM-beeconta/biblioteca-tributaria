@@ -11,7 +11,7 @@
 
 ## Resumen
 
-. SII N°193 de 2025, que crea registro de pequeños contribuyentes que desarrollen actividades de subsistencia. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 86 del 24 de Junio del 2026 Complementa listado anexo de la Resolución Ex. N° 7 de 2025. Fuente: Subdirección de Avaluaciones. Delega facultad que indica en la funcionaria Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 84 del 23 de Junio del 2026 Fija nóminas de agentes retenedores y de contribuyentes sujetos a…
+Subdirección de Avaluaciones. Delega facultad que indica en la funcionaria Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ttom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 82 del 22 de Agosto del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Complementa resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 80 del 22 de Agosto del 2014 Modifica resolución Ex. SII N°45, de 01.09.2003, que establece normas y pr…
+randes Contribuyentes Complementa resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

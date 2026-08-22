@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 125
 - Año: 2021
-- Fecha: 2021-11-10
+- Fecha: 2021-11-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso125.pdf
 - Hash SHA-256: 369856ad90b81bea57f48b6dec5cdcb674687f4a7adabdd292f42d34ea83a1a4
 
 ## Resumen
 
-za como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 126 del 10 de Noviembre del 2021 Delega facultad que indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Destrucción de productos alimenticios cuya comercialización se ha vuelto inviable; y forma de acreditar la destrucción no voluntaria. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 124 del 05 d…
+Subdirección Jurídica. Destrucción de productos alimenticios cuya comercialización se ha vuelto inviable; y forma de acreditar la destrucción no voluntaria. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2024
-- Fecha: 2024-07-03
+- Fecha: 2024-06-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso69.pdf
 - Hash SHA-256: 6c58145e02f5aa7803382471a7125ebf1fa57a11fe5b904e1be0558dc5200f1e
 
 ## Resumen
 
-de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 70 del 03 de Julio del 2024 Incorpórase a CFC CAPITAL SA, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Designa responsables de procesos, delega facultades que indica y deja sin efecto resolución que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 68 del 28 de…
+ute;n de Asistencia al Contribuyente. Designa responsables de procesos, delega facultades que indica y deja sin efecto resolución que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

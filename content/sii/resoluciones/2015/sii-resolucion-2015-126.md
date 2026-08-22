@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Años Anteriores Establece obligación de dar aviso y presentar antecedentes que se indican para los contribuyentes acogidos al régimen de renta presunta que a partir del 1° de enero de 2016, deban abandonar obligatoria o voluntariamente dicho régimen y declarar la renta efectiva de su actividad según contabilidad completa de acuerdo al articulo 14, o bien, conforme al régimen de la letra a) del artículo 14 ter, de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario…
+Establece obligación de dar aviso y presentar antecedentes que se indican para los contribuyentes acogidos al régimen de renta presunta que a partir del 1° de enero de 2016, deban abandonar obligatoria o voluntariamente dicho régimen y declarar la renta efectiva de su actividad según contabilidad completa de acuerdo al articulo 14, o bien, conforme al régimen de la letra a) del artículo 14 ter, de la Ley sobre Impuesto a la Renta. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

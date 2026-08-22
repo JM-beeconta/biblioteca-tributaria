@@ -11,7 +11,7 @@
 
 ## Resumen
 
-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 149 del 28 de Diciembre del 2023 Fija valores de terrenos y construcciones para el Reavalúo 2024, de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones. Modifica resolución Ex. SII N°106, de 02 de septiembre de 2021, que reorganiza las unidades que conforman el departamento subdirección de fiscalización y ám…
+Subdirección de Avaluaciones. Modifica resolución Ex. SII N°106, de 02 de septiembre de 2021, que reorganiza las unidades que conforman el departamento subdirección de fiscalización y ámbito de competencia de sus unidades. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

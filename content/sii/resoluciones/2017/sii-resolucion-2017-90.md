@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 90
 - Año: 2017
-- Fecha: 2017-10-06
+- Fecha: 2017-10-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso90.pdf
 - Hash SHA-256: 66721dac43b410b9c1892cc158f267f7917d798850ac8fc8919f411dbb5aa243
 
 ## Resumen
 
-:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 91 del 06 de Octubre del 2017 Elimina obligación de generar, enviar y mantener la información electrónica de compras según Resolución EX. SII N° 63, del 2004. Fuente: Subdirección de Asistencia al Contribuyente Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Resolución Exenta SII N° 89 del 29 de Septiembre del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de aliment…
+ncia al Contribuyente Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

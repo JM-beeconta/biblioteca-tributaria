@@ -11,7 +11,7 @@
 
 ## Resumen
 
-2px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 138 del 20 de Diciembre del 2018 Autoriza al Conservador de Bienes Raíces de Buin, Sr. ELIAS SALOMON MOHOR ALBORNOZ, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la sociedad NATURA COSMÉTICOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y co…
+ute;n de Asistencia al Contribuyente Autoriza a la sociedad NATURA COSMÉTICOS S.A. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

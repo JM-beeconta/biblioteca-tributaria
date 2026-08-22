@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2016
-- Fecha: 2016-07-29
+- Fecha: 2016-07-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso72.pdf
 - Hash SHA-256: 6125dead76cf1117e5846104bedbf3300e911b493221d39cc56a04affa3ebe1c
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 73 del 29 de Julio del 2016 Aprueba Código de Ética del SII Fuente: Subdirección de Contraloría Interna Modifica resolución Ex.SII N° 80, de 05 de septiembre de 2013, sobre presentación de formulario 2667 de solicitud de condonación de intereses y multas. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 71 del 19 de Julio del 2016 Delega facultades que indica…
+aloría Interna Modifica resolución Ex.SII N° 80, de 05 de septiembre de 2013, sobre presentación de formulario 2667 de solicitud de condonación de intereses y multas. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

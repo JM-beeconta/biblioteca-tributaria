@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:0px;margin-bottom:0px;'>Aprueba acuerdo de cooperación con grupo empresarial enel Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 14 del 19 de Enero del 2026 Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 12 del 19 de Enero de…
+ección de Fiscalización Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

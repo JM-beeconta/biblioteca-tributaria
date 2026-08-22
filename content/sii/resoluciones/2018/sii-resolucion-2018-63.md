@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 63
 - Año: 2018
-- Fecha: 2018-08-13
+- Fecha: 2018-08-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso63.pdf
 - Hash SHA-256: cf4a6a2ee7f70df69b9434bc99481895dc8e9f198467805981a21c0635073936
 
 ## Resumen
 
-/i> Resolución Exenta SII N° 64 del 13 de Agosto del 2018 Establece nuevo procedimiento para la declaración que deben efectuar las empresas importadoras, distribuidoras y comercializadoras de vehículos motorizados nuevos, conforme lo dispuesto en el inciso final del Artículo 12 del Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales Fuente: Subdirección de Avaluaciones Autoriza a las instituciones sin fines de lucro que indica, como receptoras de pañales cuya comercialización sea inviable. Fuente: Subdirección…
+Subdirección de Avaluaciones Autoriza a las instituciones sin fines de lucro que indica, como receptoras de pañales cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

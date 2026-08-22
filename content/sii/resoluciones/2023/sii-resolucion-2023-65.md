@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 65
 - Año: 2023
-- Fecha: 2023-06-08
+- Fecha: 2023-06-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso65.pdf
 - Hash SHA-256: 481847fae2efd86278bc6d7344f668180dbf72e90c52a867f0a3ab222c5581d8
 
 ## Resumen
 
-e individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 66 del 08 de Junio del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chillán Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Establece forma y plazo en que las organizaciones deportivas nacionales deberán informar al servicio las operaciones relacionadas con eventos deportivos dispuestos en la Ley N° 21.564. Fuente: Subdirección de Fiscali…
+tégica y Estudios Tributarios. Establece forma y plazo en que las organizaciones deportivas nacionales deberán informar al servicio las operaciones relacionadas con eventos deportivos dispuestos en la Ley N° 21.564. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

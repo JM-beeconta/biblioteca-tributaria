@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 72
 - Año: 2017
-- Fecha: 2017-08-17
+- Fecha: 2017-08-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso72.pdf
 - Hash SHA-256: dac42b22fd7ea3ffff489d6d7020b22baf445803baa66c65ffc2f8f45b8f7723
 
 ## Resumen
 
-/p> Fuente: Subdirección de Administración Resolución Exenta SII N° 73 del 17 de Agosto del 2017 Complementa Resolución Exenta SII N°128 de 28 de diciembre de 2016, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Autoriza a empresa Ticketmundo Chile Spa para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 71 del 10 de Agosto del 2017 Desig…
+randes Contribuyentes Autoriza a empresa Ticketmundo Chile Spa para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

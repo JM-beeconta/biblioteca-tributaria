@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 82
 - Año: 2020
-- Fecha: 2020-07-20
+- Fecha: 2020-07-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso82.pdf
 - Hash SHA-256: a0b7ec36decdf4b3aa5bcd6acc8e739316825ba6ffda0fbdf3c517d480eb2ad5
 
 ## Resumen
 
-px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 83 del 20 de Julio del 2020 Fija procedimiento administrativo a que se deben someter las solicitudes efectuadas por los contribuyentes en el marco de lo Dispuesto en el artículo trigésimo tercero transitorio de la ley N°21.210. Fuente: Departamento de Asesoría Jurídica. Instruye sobre el procedimiento para acogerse a los regímenes tributarios del artículo 14 de la Ley sobre impuesto a la renta. Deja sin efecto la resolución ex…
+o de Asesoría Jurídica. Instruye sobre el procedimiento para acogerse a los regímenes tributarios del artículo 14 de la Ley sobre impuesto a la renta. Deja sin efecto la resolución exenta N° 93 de 22.09.2016. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2026
-- Fecha: 2026-01-21
+- Fecha: 2026-01-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso14.pdf
 - Hash SHA-256: 9d7ec00af40bf23173884462dcdae1599e844609ce5f137bfa0b3e25f1120819
 
 ## Resumen
 
-acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 15 del 21 de Enero del 2026 Aprueba acuerdo de cooperación con grupo empresarial enel Fuente: Subdirección de Fiscalización Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 13 del 19 de Enero del 2026 Otórguese acceso a la siguie…
+ección de Fiscalización Otorga condonación sobre los intereses y multas infraccionales en los casos que se señalan Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

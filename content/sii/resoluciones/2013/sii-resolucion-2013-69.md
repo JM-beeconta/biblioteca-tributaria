@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2013
-- Fecha: 2013-07-17
+- Fecha: 2013-06-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso69.pdf
 - Hash SHA-256: cbd9c20fcacaa97cb2abbbb4605b163ec4c3a65483f78967eb97899cd92b31d1
 
 ## Resumen
 
-;n de Fiscalización Resolución Exenta SII N° 70 del 17 de Julio del 2013 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes. Resolución Exenta SII N° 68 del 21 de Junio del 2013 Imparte instrucciones sobre procedimie…
+cia de Contribuyentes Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

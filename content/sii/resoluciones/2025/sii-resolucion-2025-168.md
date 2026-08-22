@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 169 del 27 de Noviembre del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Instruye sobre la forma de acreditar el cumplimiento de obligaciones tributarias y las situaciones que se considerarán como incumplimiento para los efectos del inc…
+ute;n de Asistencia al Contribuyente. Instruye sobre la forma de acreditar el cumplimiento de obligaciones tributarias y las situaciones que se considerarán como incumplimiento para los efectos del inciso decimosegundo del artículo 68 del Código Tributario. Crea certificado que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

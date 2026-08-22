@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 85
 - Año: 2022
-- Fecha: 2022-09-12
+- Fecha: 2022-09-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso85.pdf
 - Hash SHA-256: 49264dde14e1bb124133ac53736f1d5b13b9d6da1a8debc92ca6a915b3e62d83
 
 ## Resumen
 
-ido en la Ley N° 21.323. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 86 del 12 de Septiembre del 2022 Modifica resolución exenta SII Nº 20 de 2021 que refunde y reestructura el departamento subdirección de asistencia al contribuyente. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a empresas clientes de GASMAR a emitir factura electrónica de ventas y servicios en la forma que indica. Impone obligación de mantener un registro de operaciones a GASMAR S.A., RUT N°96.636.520-k. Fuent…
+ute;n de Asistencia al Contribuyente. Autoriza a empresas clientes de GASMAR a emitir factura electrónica de ventas y servicios en la forma que indica. Impone obligación de mantener un registro de operaciones a GASMAR S.A., RUT N°96.636.520-k. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

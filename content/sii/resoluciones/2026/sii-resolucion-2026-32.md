@@ -11,7 +11,7 @@
 
 ## Resumen
 
-riza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Puente Alto. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 33 del 04 de Marzo del 2026 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N°…
+Subdirección Jurídica. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

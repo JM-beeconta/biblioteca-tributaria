@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 132
 - Año: 2020
-- Fecha: 2020-10-05
+- Fecha: 2020-10-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso132.pdf
 - Hash SHA-256: 296715dc3d0274352484b7ba35baf63362b667ac4b5a9a84ebf3667b09e3db47
 
 ## Resumen
 
-istencia al Contribuyente. Resolución Exenta SII N° 133 del 05 de Octubre del 2020 Amplía el plazo establecido en la Resolución Exenta SII N° 38 de 2020, para presentar o rectificar la declaración jurada 1820 o 1829. Respecto de operaciones de derivados celebrados, modificados, cedidos o liquidados durante el año 2020. Fuente: Subdirección de Fiscalización. Fija procedimiento especial y previo para restituir el aporte fiscal del artículo 4° del artículo primero de la Ley N° 21.252 para la protección de los ingreso…
+cción de Fiscalización. Fija procedimiento especial y previo para restituir el aporte fiscal del artículo 4° del artículo primero de la Ley N° 21.252 para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada COVID-19, para los casos en que se haya obtenido sin cumplir con los requisitos legales. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

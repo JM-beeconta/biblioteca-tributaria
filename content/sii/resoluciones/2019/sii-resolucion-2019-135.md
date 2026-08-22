@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 135
 - Año: 2019
-- Fecha: 2019-12-09
+- Fecha: 2019-12-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso135.pdf
 - Hash SHA-256: c61c0ef012376495ed7c75377c3ea89887dba89d64f03c2399e3975643b641f3
 
 ## Resumen
 
-y la Sociedad Nacional de Pesca. Fuente: Subdireción de Fiscalización Resolución Exenta SII N° 136 del 09 de Diciembre del 2019 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Nacional de Comercio, Servicios y Turismo Fuente: Subdirección de Fiscalización Autoriza a empresa EVENTRID SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente…
+cción de Fiscalización Autoriza a empresa EVENTRID SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

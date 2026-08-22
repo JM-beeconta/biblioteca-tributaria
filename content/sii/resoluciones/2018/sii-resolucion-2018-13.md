@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2018
-- Fecha: 2018-02-09
+- Fecha: 2018-02-01
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso13.pdf
 - Hash SHA-256: 2ef2b4384059ac0befa6f1a5230c14a21aaa953f95d7ccc2f39705659f64b61a
 
 ## Resumen
 
-g; 46, del 10.05.2013 en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 14 del 09 de Febrero del 2018 Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina de Gestión Normativa Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación con la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos c…
+Oficina de Gestión Normativa Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación con la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el Art. 54 del D.L. N°825, de 1974, Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

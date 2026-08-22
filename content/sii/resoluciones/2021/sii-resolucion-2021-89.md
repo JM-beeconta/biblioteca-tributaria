@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 90 del 30 de Julio del 2021 Fija requisitos de llenado, para las facturas, notas de crédito y notas de débito, utilizadas en la venta de cigarrillos, efectuadas por contribuyentes obligados a utilizar el sistema de trazabilidad fiscal. Fuente: Subdirección de Fiscalización. Instruye procedimiento para la declaración de precios de productos de tabaco, establecido en el decreto Ley N° 828 de 1974, del Ministerio de Hacienda. Fuen…
+cción de Fiscalización. Instruye procedimiento para la declaración de precios de productos de tabaco, establecido en el decreto Ley N° 828 de 1974, del Ministerio de Hacienda. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

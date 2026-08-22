@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 23
 - Año: 2023
-- Fecha: 2023-03-08
+- Fecha: 2023-03-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso23.pdf
 - Hash SHA-256: 30d26bad511ca0fa4acbadb72ca30e3154e14e9512cad4cc096e5e6877235f10
 
 ## Resumen
 
-ter del código tributario. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 24 del 08 de Marzo del 2023 Aprueba política institucional de igualdad de género y conciliación de la vida laboral, familiar y personal del servicio de impuestos internos. Fuente: Subdirección Desarrollo de las Personas Reemplaza anexo I de resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa. Resolución Exenta SII N° 22 del 03 de Marzo del 2023 Establece procedimiento para solicitar condonación de los impu…
+ión Desarrollo de las Personas Reemplaza anexo I de resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

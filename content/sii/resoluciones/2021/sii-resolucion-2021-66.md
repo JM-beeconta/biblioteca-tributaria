@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2021
-- Fecha: 2021-06-30
+- Fecha: 2021-06-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso66.pdf
 - Hash SHA-256: cc085826bcdf136337f8d97d48bfb26f579369d67f771350854dac5a2c54f58c
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 67 del 30 de Junio del 2021 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a Resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Amplía el plazo para presentar la declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola. Fuente: Subdirección de Ava…
+cción de Fiscalización. Amplía el plazo para presentar la declaración jurada de mejoras efectuadas por propietarios de bienes raíces de la primera serie agrícola. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

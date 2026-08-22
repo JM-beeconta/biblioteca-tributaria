@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2018
-- Fecha: 2018-09-25
+- Fecha: 2018-09-14
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso83.pdf
 - Hash SHA-256: 7ced5701bb98c801dc605b16ada94d747f6b7a7338e27ba7bb7b44ccc9c97b6f
 
 ## Resumen
 
-eg; 1864, N°1868 y N°1911. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 84 del 25 de Septiembre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 82 del 13 de Septiembre del 2018 Aprueba Conv…
+cción de Fiscalización Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

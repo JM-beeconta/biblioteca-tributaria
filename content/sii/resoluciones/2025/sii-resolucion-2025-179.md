@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 179
 - Año: 2025
-- Fecha: 2025-12-11
+- Fecha: 2025-12-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso179.pdf
 - Hash SHA-256: 402b4e415256bae55f3ff840ff7ac3537da307ad1fc24161ca85de956b05226f
 
 ## Resumen
 
-y Servicios. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 180 del 11 de Diciembre del 2025 Solicitud de acceso a la interfaz de programación de aplicaciones (API), de inicio de actividades de Enternet Sociedad Anónima, RUT N° 76.407.930-2. Fuente: Subdirección de Asistencia al Contribuyente. Crea registro de contribuyentes de ferias libres Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 178 del 10 de Diciembre del 2025 Crea registro de operadores de medios de pago e…
+ute;n de Asistencia al Contribuyente. Crea registro de contribuyentes de ferias libres Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

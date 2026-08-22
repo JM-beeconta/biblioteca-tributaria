@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2021
-- Fecha: 2021-01-28
+- Fecha: 2021-01-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso8.pdf
 - Hash SHA-256: b44f6f4d26b6f6a3b4bca76ed8428f4e778f16984eae61b41bd696cba00a662d
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 09 del 28 de Enero del 2021 Modifica la fecha de entrada en vigencia de la obligación contenida en la subletra e) de la letra E) de la Resolución Ex. SII N° 176 de fecha 31.12.2020, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 08 del 27 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional Forestal y el…
+ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 08 del 27 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

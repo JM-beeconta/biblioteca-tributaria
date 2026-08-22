@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 91
 - Año: 2013
-- Fecha: 2013-10-28
+- Fecha: 2013-10-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso91.pdf
 - Hash SHA-256: eac8ff1d731975eafdfc74907a9aef55ee7d60fad91df705f1db7e566e36c1e2
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución SII N° 37 del 28 de Octubre del 2013 Delega facultades que indica Delega facultades que indica Fuente: Departamento de Asesoría Jurídica Establece requisitos y procedimiento para la emisión de documentos tributarios en operaciones de remate de bienes corporales muebles efectuadas por martilleros públicos Fuente: Departamento Medianas y Grandes Empresas Resolución Exenta SII N° 90 del 23 de Octubre del 2013 Autoriza a…
+ute;a Jurídica Establece requisitos y procedimiento para la emisión de documentos tributarios en operaciones de remate de bienes corporales muebles efectuadas por martilleros públicos Fuente: Departamento Medianas y Grandes Empresas
 
 ## Referencias detectadas
 

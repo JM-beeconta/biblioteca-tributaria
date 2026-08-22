@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 64
 - Año: 2025
-- Fecha: 2025-05-29
+- Fecha: 2025-05-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso64.pdf
 - Hash SHA-256: c1b6737e051823e9415a158c0f1152488b26c2d2bddb5837408afbc722b9f9d6
 
 ## Resumen
 
-e indica. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 65 del 29 de Mayo del 2025 Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 63 del 22 de Mayo del 2025 Autoriza a Banco Santander Chile, Rut n° 97.036.000-k,…
+ute;n de Asistencia al Contribuyente. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

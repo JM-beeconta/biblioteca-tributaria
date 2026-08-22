@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 61
 - Año: 2025
-- Fecha: 2025-05-22
+- Fecha: 2025-05-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso61.pdf
 - Hash SHA-256: d23fcd17ebf54eb8603884539c882f7bb7c3a4a3ba3526b5a5a0c2589e81cf48
 
 ## Resumen
 
-gún se indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 62 del 22 de Mayo del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección de Presupuestos y el Servicio de Impuestos Internos. Fuente: Subdirección de asistencia al contribuyente Determina que los emiratos árabes unidos no tiene un régimen fiscal preferencial para efectos de la ley sobre impuesto a la renta, en conformidad a lo señalado en el artículo 41 h. Fuente: Subdirección de Fiscalizaci…
+cute;n de asistencia al contribuyente Determina que los emiratos árabes unidos no tiene un régimen fiscal preferencial para efectos de la ley sobre impuesto a la renta, en conformidad a lo señalado en el artículo 41 h. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 33
 - Año: 2014
-- Fecha: 2014-04-09
+- Fecha: 2014-04-04
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso33.pdf
 - Hash SHA-256: c27eaef33a914c8b161445e5cf47cf31c40416bb02934c889ca8d0a32acc2b4c
 
 ## Resumen
 
-='font-size:12px;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 34 del 09 de Abril del 2014 Delega en los Jefes de Departamentos de Avaluaciones la facultad que indica Fuente: Subdirección de Avaluaciones Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N°20.732, de 2014, para las cuotas 1 y 2 de 2014. Fuente: S…
+ute;n de Avaluaciones Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N°20.732, de 2014, para las cuotas 1 y 2 de 2014. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

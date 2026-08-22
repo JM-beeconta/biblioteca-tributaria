@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 89
 - Año: 2022
-- Fecha: 2022-09-22
+- Fecha: 2022-09-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso89.pdf
 - Hash SHA-256: 31f4799a08c2e851a85d22f0050a95b6edfd51a586f72759edff56b85d69fe90
 
 ## Resumen
 
-. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 90 del 22 de Septiembre del 2022 Incorpora nueva columna al registro REX por operaciones afectas al impuesto único del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Villa Alemana. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. R…
+cción de Fiscalización. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Villa Alemana. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

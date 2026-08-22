@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acion de facultades. Fuente: Subdirección de Desarrollo de Personas. Resolución Exenta SII N° 48 del 07 de Mayo del 2021 Determina forma y plazo en que el ministerio de desarrollo social y familia debe informar de conformidad a lo establecido en el articulo 7º de la ley nº 21.323. Fuente: Subdirección de Fiscalización. Habilita plataforma y regula el procedimiento de solicitud del préstamo solidario establecido en el art. 9° de la ley n°21.323. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 46 del…
+cción de Fiscalización. Habilita plataforma y regula el procedimiento de solicitud del préstamo solidario establecido en el art. 9° de la ley n°21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

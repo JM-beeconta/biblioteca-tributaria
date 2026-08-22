@@ -11,7 +11,7 @@
 
 ## Resumen
 
-style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 110 del 14 de Septiembre del 2023 Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo, Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdirección de Asistencia al Contribuyente. Designa Secretaria Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelac…
+ute;n de Asistencia al Contribuyente. Designa Secretaria Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

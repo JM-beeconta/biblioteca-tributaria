@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 65
 - Año: 2017
-- Fecha: 2017-07-19
+- Fecha: 2017-07-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso65.pdf
 - Hash SHA-256: 7bfe954c915b8f810b0e8f9407a0fdfe742f156f42d25438430d2a22749fdbd8
 
 ## Resumen
 
-bdirección de Fiscalización Resolución Exenta SII N° 66 del 19 de Julio del 2017 Delega firma y establece procedimiento para informar a la Contraloría General de la República sobre reintegro de remuneraciones por licencias médicas rechazadas o reducidas. Fuente: Subdirección de Administración Aprueba convenios de colaboración. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 64 del 17 de Julio del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de al…
+Administración Aprueba convenios de colaboración. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

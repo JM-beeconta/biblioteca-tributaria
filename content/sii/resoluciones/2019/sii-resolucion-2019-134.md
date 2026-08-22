@@ -11,7 +11,7 @@
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 135 del 06 de Diciembre del 2019 Autoriza a empresa EVENTRID SPA., para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a empresa PROPASS ETICKET LIMITADA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asis…
+ute;n de Asistencia al Contribuyente Autoriza a empresa PROPASS ETICKET LIMITADA, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

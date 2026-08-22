@@ -11,7 +11,7 @@
 
 ## Resumen
 
-'_blank'>Resolución Exenta SII N° 122 del 29 de Septiembre del 2020 Establece declaración jurada anual N° 1914, sobre retiros en depósitos a plazo, cuentas de ahorro, cuotas de fondos mutuos y otros instrumentos financieros autorizados acogidos al artículo 54 bis de la Ley sobre Impuesto a la Renta, vigente hasta el 31 de diciembre de 2019. Deja sin efecto la resolución Ex. SII N° 130, de 2014. Fuente: Subdirección de Fiscalización. Establece rangos de porcentajes aplicables a créditos vencidos y procedimiento y r…
+cción de Fiscalización. Establece rangos de porcentajes aplicables a créditos vencidos y procedimiento y registro tributario de castigo de deudas incobrables, conforme a lo dispuesto en el artículo 31 inciso 4°, N° 4 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

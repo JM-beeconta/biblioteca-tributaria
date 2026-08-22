@@ -11,7 +11,7 @@
 
 ## Resumen
 
-gin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 76 del 31 de Agosto del 2022 Instruye sobre la retención de impuestos de 15% por rescates de la cuenta de inversión y otras cantidades pagadas en virtud de un contrato de seguro de vida con ahorro con cuenta única de inversión. Fuente: Subdirección de Fiscalización. Establece declaración jurada anual sobre bienes físicos del activo inmovilizado e ingresos operacionales de proyectos de inversión (contribución para el desarrollo regio…
+cción de Fiscalización. Establece declaración jurada anual sobre bienes físicos del activo inmovilizado e ingresos operacionales de proyectos de inversión (contribución para el desarrollo regional). Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

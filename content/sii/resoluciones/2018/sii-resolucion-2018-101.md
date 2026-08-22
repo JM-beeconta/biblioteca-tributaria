@@ -11,7 +11,7 @@
 
 ## Resumen
 
-eta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 102 del 11 de Octubre del 2018 Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a resolución Ex. SII N° 54, de 29 de junio de 2018. Fuente: Subdirección de Fiscalización Autoriza al Conservador de Bienes Raíces de Puente Alto, Sr. Rodrigo Alejandro Martin Vergara, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente R…
+cción de Fiscalización Autoriza al Conservador de Bienes Raíces de Puente Alto, Sr. Rodrigo Alejandro Martin Vergara, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

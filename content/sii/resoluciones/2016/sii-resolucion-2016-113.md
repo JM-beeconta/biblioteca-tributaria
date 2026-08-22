@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 113
 - Año: 2016
-- Fecha: 2016-12-26
+- Fecha: 2016-12-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso113.pdf
 - Hash SHA-256: 197e1075b7c53668181151d12ba31bb3082a5bd5b7ba689216a98fcc86d6a48c
 
 ## Resumen
 
-nálisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 114 del 26 de Diciembre del 2016 Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017. Fuente: Departamento de Sistemas de Fiscalización Aprueba designación de consejeros internos y externos del Consejo de la Sociedad Civil, en el sentido que indica. Fuente: Subdirección de Asuntos Corporativos Resolución Exenta SII N° 112 del 20 de Diciembre del 2016 Deja sin efecto Resolución Exenta SII N° 49, d…
+Fiscalización Aprueba designación de consejeros internos y externos del Consejo de la Sociedad Civil, en el sentido que indica. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

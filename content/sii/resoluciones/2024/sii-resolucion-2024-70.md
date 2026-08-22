@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2024
-- Fecha: 2024-07-04
+- Fecha: 2024-07-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso70.pdf
 - Hash SHA-256: 59a7d70b487cefeea86435a9336b6e5b1ffa367ea41ad969b4c073990c8e0d6f
 
 ## Resumen
 
-ro. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 71 del 04 de Julio del 2024 Aprueba Acuerdo de Confidencialidad entre el Banco Interamericano de Desarrollo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Incorpórase a CFC CAPITAL SA, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 69 del 28 de Junio…
+tégica y Estudios Tributarios. Incorpórase a CFC CAPITAL SA, en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

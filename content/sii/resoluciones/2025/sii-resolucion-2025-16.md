@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 16
 - Año: 2025
-- Fecha: 2025-02-07
+- Fecha: 2025-01-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso16.pdf
 - Hash SHA-256: b2eb2ff4910ba13839a7c656a500441a0efd4e4329dd84a8f048de1d1badbad7
 
 ## Resumen
 
-o de Impuestos Internos. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Resolución Exenta SII N° 17 del 07 de Febrero del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 15 del 30 de Enero del 2025 Identifica personal que señala el Artículo 14 d…
+cute;N DE ASISTENCIA AL CONTRIBUYENTE Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

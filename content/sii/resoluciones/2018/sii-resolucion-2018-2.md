@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 2
 - Año: 2018
-- Fecha: 2018-01-15
+- Fecha: 2018-01-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso2.pdf
 - Hash SHA-256: 5db1a0bf01432f712a27f42349baa61b466a6a15c3541025b570bf08bac0be9d
 
 ## Resumen
 
-ta de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 03 del 15 de Enero del 2018 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 02 del 12 de Enero del 2018 Deroga Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas co…
+cción de Fiscalización Resolución Exenta SII N° 02 del 12 de Enero del 2018 Deroga Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes y, sus modificaciones realizadas por Resoluciones Exentas SII N° 102, de fecha 04.11.2014 y N° 55, de fecha 17.06.2016. Fuente: Subdirección de Fiscalizacion
 
 ## Referencias detectadas
 

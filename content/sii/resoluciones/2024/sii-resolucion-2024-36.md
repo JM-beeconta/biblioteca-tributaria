@@ -11,7 +11,7 @@
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 37 del 15 de Marzo del 2024 Designa secretarios suplente y titular en tribunal especial de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua. Fuente: Subdirección Jurídica. Establece requisitos respecto de la información registrada en la sección de detalle de los documentos tributarios electrónicos que indica. Fuente: Subdirec…
+Subdirección Jurídica. Establece requisitos respecto de la información registrada en la sección de detalle de los documentos tributarios electrónicos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 160
 - Año: 2025
-- Fecha: 2025-11-13
+- Fecha: 2025-11-12
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso160.pdf
 - Hash SHA-256: a1d65b98ead6deeb44070c106a9e9e70fe5480afa65d3969dd6d5513ae6d8454
 
 ## Resumen
 
-ributaria Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 161 del 13 de Noviembre del 2025 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Aduanas y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Asistencia al Contribuyente y establece sus ámbitos de competencia. Deja sin efecto la Resolución Exenta SII N° 128 de 2024. F…
+ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Asistencia al Contribuyente y establece sus ámbitos de competencia. Deja sin efecto la Resolución Exenta SII N° 128 de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

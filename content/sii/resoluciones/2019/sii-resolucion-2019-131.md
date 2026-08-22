@@ -11,7 +11,7 @@
 
 ## Resumen
 
-pan style='font-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 132 del 05 de Diciembre del 2019 Autoriza al Conservador de Bienes Raíces de San Javier, Sr. GERARDO CARLOS NAVARRO ESCALA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Designa puntos de contacto para efectos que indica. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 130 del 28 de Noviembre del 201…
+ute;n de Asistencia al Contribuyente Designa puntos de contacto para efectos que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

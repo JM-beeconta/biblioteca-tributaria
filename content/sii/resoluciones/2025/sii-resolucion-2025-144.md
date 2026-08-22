@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Asistencia al Contribuyente. Resolución Exenta SII N° 145 del 16 de Octubre del 2025 Regula la declaración y pago del iva por parte de operadores con domicilio o residencia en chile de plataformas digitales de intermediación de ventas conforme al artículo 3° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización Autoriza a empresa falabella retail s.a. a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y serv…
+ección de Fiscalización Autoriza a empresa falabella retail s.a. a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma, condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

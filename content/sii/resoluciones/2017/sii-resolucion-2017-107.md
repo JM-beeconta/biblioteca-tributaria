@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 107
 - Año: 2017
-- Fecha: 2017-11-03
+- Fecha: 2017-10-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso107.pdf
 - Hash SHA-256: b3849c520a5c2cf5aeb2d49809211922404ffcd9fa1aa4b531b84bc762698147
 
 ## Resumen
 
-. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 108 del 03 de Noviembre del 2017 Crea el centro de formación e investigación tributaria del servicio de impuestos internos. Fuente: Subdireccion de Desarrollo de Personas Establece la obligación de presentar declaración jurada anual sobre operaciones en chile por medio de formulario n° 1946; y deroga resoluciones n°s 1, 17, 73 de 2003; 29 de 2004; 50 de 2012; 25 de 2015; 28 y 117 de 2016. Fuente: Subdirección de Fiscalización Resolución…
+esarrollo de Personas Establece la obligación de presentar declaración jurada anual sobre operaciones en chile por medio de formulario n° 1946; y deroga resoluciones n°s 1, 17, 73 de 2003; 29 de 2004; 50 de 2012; 25 de 2015; 28 y 117 de 2016. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

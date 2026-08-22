@@ -11,7 +11,7 @@
 
 ## Resumen
 
-tom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 16 del 31 de Enero del 2017 Establece procedimiento a que deberán ajustarse los contribuyentes para acreditar el pago del tributo, cuando corresponda, ante los Ministros de Fe que se indican Fuente: Oficina de Apoyo Legal y Administrativo Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución…
+egal y Administrativo Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

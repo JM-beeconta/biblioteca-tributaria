@@ -11,7 +11,7 @@
 
 ## Resumen
 
-top:0px;margin-bottom:0px;'>Establece Declaración Jurada a presentar por las Instituciones de Educación Pre-Escolar, Básica, Diferencial y Media reconocidas por el Estado y obligación de certificar, respecto del cumplimiento del requisito de asistencia de sus alumnos matriculados, para la procedencia del crédito por gastos relacionados con la Educación establecido en el Articulo 55 ter de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización Modifica plazo para la presentación de declaraciones ju…
+Fiscalización Modifica plazo para la presentación de declaraciones juradas que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

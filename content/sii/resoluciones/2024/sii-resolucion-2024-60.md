@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 60
 - Año: 2024
-- Fecha: 2024-05-24
+- Fecha: 2024-05-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso60.pdf
 - Hash SHA-256: 1913a20229dee4e1bb52bbc55e66c35b1e75edd1a2fa27be1e4247b9f0d0a0c8
 
 ## Resumen
 
-24. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 61 del 24 de Mayo del 2024 Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Subsecretaría de Energía. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 59 del 20 de Mayo del 2024 Autoriza a proceder conforme al modelo de operación de contabilidad electró…
+tégica y Estudios Tributarios. Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

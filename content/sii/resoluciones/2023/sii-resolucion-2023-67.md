@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ma para ello. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 68 del 15 de Junio del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Coelemu Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 66 del 08 de Junio del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartogr…
+tégica y Estudios Tributarios. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-de septiembre de 2022 y dispone la imputación de las sumas pagadas indebidamente por los contribuyentes en casos que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 97 del 06 de Octubre del 2022 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 95 del 06 de Octubre del 2022 Fija plazo para la presentación de declaraciones ju…
+Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

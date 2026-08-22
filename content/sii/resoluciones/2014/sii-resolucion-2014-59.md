@@ -11,7 +11,7 @@
 
 ## Resumen
 
-x;margin-bottom:10px;'> Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 60 del 20 de Junio del 2014 Exime del timbraje de pagarés a contribuyente que indica Fuente: Departamento de Atención y Asistencia de Contribuyentes Reemplaza resolución Ex. SII N°129, de fecha 06.08.2010, sobre procedimiento de solicitud de inscripción en Registro de Instituciones sin fines de lucro distribuidoras y/o receptoras de alimentos, cuya comercialización sea inviable Fuente: Departamento de P…
+cia de Contribuyentes Reemplaza resolución Ex. SII N°129, de fecha 06.08.2010, sobre procedimiento de solicitud de inscripción en Registro de Instituciones sin fines de lucro distribuidoras y/o receptoras de alimentos, cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

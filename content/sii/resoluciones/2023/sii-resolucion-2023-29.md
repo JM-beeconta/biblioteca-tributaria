@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2023
-- Fecha: 2023-03-16
+- Fecha: 2023-03-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso29.pdf
 - Hash SHA-256: 6634339b6867707edb7d4bea4394459c9079ac082bd3993ac2888bf2cc47e7a4
 
 ## Resumen
 
-del 16 de Marzo del 2023 Imparte instrucciones sobre postergación de cuotas del impuesto territorial, facilidades de pago mediante convenios especiales y condonación de intereses, conforme lo dispuesto en los numerales 4, 5 y 6 del N° 1 del decreto supremo N° 147, de 2023, del Ministerio de Hacienda, que establece medidas de índole tributaria para las regiones de Ñuble, del Biobío y de la Araucanía. Fuente: Subdirección de Avaluaciones. Instruye forma en que se verificará el inicio de las obras para aplicar el rég…
+Subdirección de Avaluaciones. Instruye forma en que se verificará el inicio de las obras para aplicar el régimen transitorio del crédito especial para empresas constructoras y revisión de oficio de la sobretasa del artículo 8° de la Ley N° 17.235 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

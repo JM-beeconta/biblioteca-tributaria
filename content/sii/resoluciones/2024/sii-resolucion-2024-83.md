@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2024
-- Fecha: 2024-08-30
+- Fecha: 2024-08-29
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso83.pdf
 - Hash SHA-256: ccbd67d65b129ec49792f64e1e3cf852a0538c195ee514776f2f1b9adb04243d
 
 ## Resumen
 
-s de declaraciones juradas que se indican. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 84 del 30 de Agosto del 2024 Reemplaza formato, contenido e instrucciones de declaración jurada anual de caracterización tributaria global, formulario Nº 1913 Fuente: Subdirección de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 82 del 29 de Agosto del 2024 Proced…
+cción de Fiscalización. Declara término de giro según lo dispuesto en el inciso final del artículo 69 del código tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

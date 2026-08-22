@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 20
 - Año: 2016
-- Fecha: 2016-03-22
+- Fecha: 2016-03-18
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso20.pdf
 - Hash SHA-256: 462c8cf84b1fc5e1ff20ca03cd7fb8c6e1c209e02842078076acbb88f4f13f47
 
 ## Resumen
 
-amento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 21 del 22 de Marzo del 2016 Rectifica Resolución Ex. SII N° 3 del 14 de enero de 2016, que fija lista de valores de vehículos motorizados. Fuente: Departamento de Catastro y Tasaciones Reorganiza las Unidades que conforman el Departamento Subdirección de Contraloría Interna y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Contraloría Interna Resolución Exenta SII N° 19 del 18 de Marzo del 2016 Fij…
+Catastro y Tasaciones Reorganiza las Unidades que conforman el Departamento Subdirección de Contraloría Interna y establece ámbitos de competencia de las Unidades que lo conforman. Fuente: Subdirección de Contraloría Interna
 
 ## Referencias detectadas
 

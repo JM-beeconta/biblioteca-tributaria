@@ -11,7 +11,7 @@
 
 ## Resumen
 
--bottom:10px;'> Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 08 del 18 de Enero del 2017 Autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable. Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario Resolución Exenta SII N° 07 del 18 de Enero del 2017 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Nacional de Propiedad Industrial. Fuente: Subdirección d…
+mplimiento Tributario Resolución Exenta SII N° 07 del 18 de Enero del 2017 Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Nacional de Propiedad Industrial. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

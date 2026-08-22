@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ción N° 9, de 2012, del Servicio de Impuestos Internos y de la Circular Normativa N° 2 de la Tesorería General de la República, que establece regulaciones comunes en relación al intercambio de información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la República, referidas a la obligación de cotizar de los trabajadores independientes. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 05 del 09 de Enero del 2013 Fija Tablas de valores de…
+Fiscalización. Resolución Exenta SII N° 05 del 09 de Enero del 2013 Fija Tablas de valores de Trolebuses, Microbuses, Camiones, Taxis, Taxis Colectivos, Taxibuses, Automóviles, Station Wagons, Furgones, Camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

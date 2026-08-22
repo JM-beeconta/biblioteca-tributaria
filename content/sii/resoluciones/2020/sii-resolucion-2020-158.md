@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n Ex. SII N° 72 de 31.07.2014. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 159 del 15 de Diciembre del 2020 Autoriza como receptor electrónico de documentos tributarios electrónicos a los organismos públicos que indica. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 157 del 15 de Di…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2021
-- Fecha: 2021-07-01
+- Fecha: 2021-06-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso69.pdf
 - Hash SHA-256: e61942d7550033b2c49ac75226dacb29e239bc7fbb83f8e7be96acf446f610bd
 
 ## Resumen
 
-argin-bottom:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 70 del 01 de Julio del 2021 Exime a Forum Servicios Financieros S.A. de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.353 de fecha 17.06.2021. Fuente: Subdirección…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.353 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 93
 - Año: 2021
-- Fecha: 2021-08-11
+- Fecha: 2021-07-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso93.pdf
 - Hash SHA-256: 2dd9e41584abffa4b146c0fdbf98874a4b325d1a9ffb14b6bdfe3dc5c0740efa
 
 ## Resumen
 
-alización. Resolución Exenta SII N° 94 del 11 de Agosto del 2021 Exime de la obligación de autorizar ante el SII, los certificados de donaciones a que se refiere la ley n°20.675, a las instituciones que utilicen el sistema de donaciones culturales dispuesto en internet por el ministerio de las culturas las artes y el patrimonio Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para dar por cumplido Requisito de inicio de actividades y presentar Declaración de renta con el propósito de ac…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para dar por cumplido Requisito de inicio de actividades y presentar Declaración de renta con el propósito de acceder al Bono de la ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

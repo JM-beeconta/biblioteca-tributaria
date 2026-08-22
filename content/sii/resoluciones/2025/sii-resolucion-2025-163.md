@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 163
 - Año: 2025
-- Fecha: 2025-11-21
+- Fecha: 2025-11-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso163.pdf
 - Hash SHA-256: cb545cdd8da6941c166fc01e397eb2028e8c884ec6bd4a5e86d60e7deed24eb4
 
 ## Resumen
 
-e indica en la funcionaria que se individualiza. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 164 del 21 de Noviembre del 2025 Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución Ex. SII N°24, de 21 febrero de 2025, reemplazando subrogantes de la secretaría general del Servicio de Impuestos Internos Fuente: Subdirección Jurídica Resolución Exenta SII N° 162 del 13 de…
+ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII N°24, de 21 febrero de 2025, reemplazando subrogantes de la secretaría general del Servicio de Impuestos Internos Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

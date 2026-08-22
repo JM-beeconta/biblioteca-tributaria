@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2020
-- Fecha: 2020-07-14
+- Fecha: 2020-07-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso78.pdf
 - Hash SHA-256: a0b41bf16c013ca8b4685e73dc9b3374e1ae10e60b9cedb56d40284fdc526e7c
 
 ## Resumen
 
-argin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 79 del 14 de Julio del 2020 Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Coyhaique. Fuente: Departamento de Asesoría Jurídica. Autoriza a corporación alimentos Biobio solidario, Rut Nº 65.115.308-5, para distribuir alimentos a instituciones sin fines de lucro no inscritas en el registro e…
+o de Asesoría Jurídica. Autoriza a corporación alimentos Biobio solidario, Rut Nº 65.115.308-5, para distribuir alimentos a instituciones sin fines de lucro no inscritas en el registro especial de instituciones autorizadas como receptoras de los productos. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

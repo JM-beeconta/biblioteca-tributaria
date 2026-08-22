@@ -11,7 +11,7 @@
 
 ## Resumen
 
-en los casos que se indican Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 88 del 17 de Julio del 2025 Delega en los (las) subdirectores (as) las facultades que indica y revoca resoluciones EX.SII N° 58, de 24 de abril de 2009 y EX SII N° 23 de 21 de febrero de 2025. Fuente: Subdirección Jurídica. Reorganiza las unidades que conforman el departamento Subdirección Jurídica y establece ámbitos de competencia de las unidades que lo conforman. Deja sin efecto resolución EX. SII N°46 de 2024 y modifica…
+Subdirección Jurídica. Reorganiza las unidades que conforman el departamento Subdirección Jurídica y establece ámbitos de competencia de las unidades que lo conforman. Deja sin efecto resolución EX. SII N°46 de 2024 y modifica resoluciones EX. SII N°128 de 2024 y resolución EX. SII N°7590, de 1999. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

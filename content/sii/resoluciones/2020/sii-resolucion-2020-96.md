@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 96
 - Año: 2020
-- Fecha: 2020-08-28
+- Fecha: 2020-08-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso96.pdf
 - Hash SHA-256: ef21537dfa97bdd6003c34e383fc2574beed16b2f9145f5be6df7c29678fa670
 
 ## Resumen
 
-cute;n de Fiscalización. Resolución Exenta SII N° 97 del 28 de Agosto del 2020 Establece obligación de presentar declaración jurada de contribuyentes acogidos a las disposiciones del artículo 14 letra d) N° 8 de la lir, por rentas o cantidades que correspondan a sus propietarios, e informar y certificar lo que se indica. Fuente: Subdirección de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional del Consumidor y el Servicio de Impuestos Internos. Fuente: Subdirec…
+cción de Fiscalización. Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional del Consumidor y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

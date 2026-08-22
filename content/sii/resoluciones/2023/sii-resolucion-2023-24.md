@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 24
 - Año: 2023
-- Fecha: 2023-03-09
+- Fecha: 2023-03-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso24.pdf
 - Hash SHA-256: 74ff545fee0350b1da8b821f6cd3bc77d3972df75412e15b27f48c89cca5226a
 
 ## Resumen
 
-os con contenido ilícito. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 25 del 09 de Marzo del 2023 Delega en el subdirector jurídico la facultad de tramitar las solicitudes de avenimiento extrajudicial del artículo 132 ter del código tributario. Fuente: Subdirección Jurídica. Aprueba política institucional de igualdad de género y conciliación de la vida laboral, familiar y personal del servicio de impuestos internos. Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 23 del…
+Subdirección Jurídica. Aprueba política institucional de igualdad de género y conciliación de la vida laboral, familiar y personal del servicio de impuestos internos. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 14
 - Año: 2018
-- Fecha: 2018-02-14
+- Fecha: 2018-02-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso14.pdf
 - Hash SHA-256: c2eabf68b72e4cb2398532fc78d472a98b2390b21ad765759985c7adc3671dfa
 
 ## Resumen
 
-e:12px;margin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 15 del 14 de Febrero del 2018 Autoriza la opción de emitir, utilizando el formato de factura electrónica, en modalidad factura turista. Modifica resolución exenta n° 46, del 10.05.2013 en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina de Gestión Normativa R…
+ute;n de Asistencia al Contribuyente Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-type="text/javascript">imprimir_compartir(false, true) Resoluciones 2025 Años Anteriores Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 208 del 30 de Diciembre del 2025 Fija nómina de grandes contribuyentes Fuente: Dirección de Grandes Contribuyentes. Resolución Exenta SII N° 207 del 30 de Diciembre del 2025 Elimina obligación de incorporar la impresi&oacu
+9"> Fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

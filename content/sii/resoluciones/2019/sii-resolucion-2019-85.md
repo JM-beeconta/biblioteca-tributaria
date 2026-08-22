@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 86 del 25 de Julio del 2019 Autoriza a la SOCIEDAD ABARROTES ECONÓMICOS LIMITADA para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD ADMINISTRADORA DE SUPERMERCADOS HIPER LIMITADA para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por m…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD ADMINISTRADORA DE SUPERMERCADOS HIPER LIMITADA para cumplir la obligación de hacer entrega de las boletas electrónicas mediante el envío por medios electrónicos en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

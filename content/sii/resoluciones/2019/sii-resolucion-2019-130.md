@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 130
 - Año: 2019
-- Fecha: 2019-12-05
+- Fecha: 2019-11-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso130.pdf
 - Hash SHA-256: 7424701769c21a96fc1306dc30d5c9a126558144de4ade701ed9a0e1df26db82
 
 ## Resumen
 
-an Javier, Sr. GERARDO CARLOS NAVARRO ESCALA, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 131 del 05 de Diciembre del 2019 Designa puntos de contacto para efectos que indica. Fuente: Subdirección de Fiscalización Amplía plazo establecido por Resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 129 del 20 de Noviembre del 2019 Aprueba Convenio de Intercambio de Inform…
+cción de Fiscalización Amplía plazo establecido por Resolución Ex. SII N° 123, de 2019. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

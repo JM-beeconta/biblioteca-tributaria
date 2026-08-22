@@ -11,7 +11,7 @@
 
 ## Resumen
 
-om:0px;'>Otorga condonación sobre los intereses y/o multas infraccionales en los casos que se señalan. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 03 del 10 de Enero del 2020 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 10 de Enero del 2020 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaci…
+: Subdirección de Avaluaciones Resolución Exenta SII N° 02 del 10 de Enero del 2020 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

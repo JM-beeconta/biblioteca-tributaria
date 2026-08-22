@@ -11,7 +11,7 @@
 
 ## Resumen
 
-:12px;margin-bottom:10px;'> Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 146 del 27 de Diciembre del 2018 Fija nuevas denominaciones y funciones a los departamentos que se indican, de la XIII Dirección Regional Metropolitana, Santiago Centro y de la XV Dirección Regional Metropolitana, Santiago Oriente. Fuente: Subdirección Desarrollo de Personas Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de Fútbol Profesional. Fuente: Subdire…
+ección Desarrollo de Personas Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de Fútbol Profesional. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

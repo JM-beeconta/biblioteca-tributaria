@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 17
 - Año: 2023
-- Fecha: 2023-02-22
+- Fecha: 2023-02-17
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso17.pdf
 - Hash SHA-256: 12bd46b21c8080a7121d538947810782282ad1f4f5a156fc603fde2594227928
 
 ## Resumen
 
-4, de 2023, complementada por la Res. Ex. N° 12, del 2023. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 18 del 22 de Febrero del 2023 Declara Término De Giro Según Lo Dispuesto En El Inciso Final Del Artículo 69 Del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Turismo, el Servicio Nacional de Turismo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y E…
+ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Turismo, el Servicio Nacional de Turismo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

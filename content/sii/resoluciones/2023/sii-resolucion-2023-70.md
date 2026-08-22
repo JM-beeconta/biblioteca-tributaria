@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 70
 - Año: 2023
-- Fecha: 2023-06-22
+- Fecha: 2023-06-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso70.pdf
 - Hash SHA-256: bf4882f81f8d3fdee6616c61a75a50f5965ce1b911502ab0d16fcc404e0d72c4
 
 ## Resumen
 
-t-size:12px;margin-bottom:10px;'> Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 71 del 22 de Junio del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Temuco Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Prórroga del plazo de presentación de declaraciones juradas en materia de precios de transferencia, formularios N°s 1907, 1937, 1950 y 1951. Fuente: Subdirección…
+tégica y Estudios Tributarios. Prórroga del plazo de presentación de declaraciones juradas en materia de precios de transferencia, formularios N°s 1907, 1937, 1950 y 1951. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

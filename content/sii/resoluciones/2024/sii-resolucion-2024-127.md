@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 127
 - Año: 2024
-- Fecha: 2024-12-26
+- Fecha: 2024-12-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso127.pdf
 - Hash SHA-256: cf8693ab2a2b5bcd8cb0b115bdfab0ad98d580bd3a5ac8436e9e589a58c69864
 
 ## Resumen
 
-: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 128 del 26 de Diciembre del 2024 Reorganiza las unidades que conforman el departamento subdirección de asistencia al contribuyente, establece funciones, ámbito de competencia; deja sin efecto resoluciones exentas SII N°20 de 2021 Y N°86 de 2022. Fuente: Subdirección de Asistencia al Contribuyente. Fija nómina de bienes afectos, según lo establecido en el Artículo 9 de la Ley N° 21.420, modificada por el Artículo 5° de la Ley N° 21.713. Fuente:…
+ute;n de Asistencia al Contribuyente. Fija nómina de bienes afectos, según lo establecido en el Artículo 9 de la Ley N° 21.420, modificada por el Artículo 5° de la Ley N° 21.713. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

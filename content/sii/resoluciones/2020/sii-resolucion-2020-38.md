@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 38
 - Año: 2020
-- Fecha: 2020-04-09
+- Fecha: 2020-04-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso38.pdf
 - Hash SHA-256: ea6b91be2ae2b1a164c0fbbcb74124ae7fb4b3edc5edc4179cd53fd23bbf6d8e
 
 ## Resumen
 
-esto a la renta, a raíz de la catástrofe generada por la propagación del COVID-19 en Chile. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 39 del 09 de Abril del 2020 Complementa Resolución exenta N° 1 de 2020 en el sentido que indica Fuente: Subdirección de Administración Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020. Fuente:…
+cción de Administración Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

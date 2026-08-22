@@ -11,7 +11,7 @@
 
 ## Resumen
 
-del artículo 69° del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 112 del 28 de Noviembre del 2024 Aprueba convenio de colaboración entre Servicio de Impuestos Internos y el Instituto Profesional de Chile. Fuente: Subdirección de Asistencia al Contribuyente. Modifica resolución ex. SII Nº 106 de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirecci…
+ute;n de Asistencia al Contribuyente. Modifica resolución ex. SII Nº 106 de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

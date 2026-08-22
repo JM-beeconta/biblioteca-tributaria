@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2016
-- Fecha: 2016-04-06
+- Fecha: 2016-04-05
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso29.pdf
 - Hash SHA-256: c65d866645585f014543a62e039903c25eccf2a7a5a90044ed6b8e2d8c351f95
 
 ## Resumen
 
-te: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 30 del 06 de Abril del 2016 Complementa Resolución Exenta SII N°119 de 29 de diciembre de 2015, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes Instruye sobre procedimiento y plazo para comunicar tasaciones a valor de mercado de bienes raíces al amparo de las leyes N° 20.780, de 2014, y N° 20.899, de 2016. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Resolución Exenta SII N° 28 del…
+randes Contribuyentes Instruye sobre procedimiento y plazo para comunicar tasaciones a valor de mercado de bienes raíces al amparo de las leyes N° 20.780, de 2014, y N° 20.899, de 2016. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-rgin-bottom:0px;'>Fija formato y condiciones de la solicitud que deben presentar los contribuyentes de impuesto adicional que realicen las operaciones a que se refieren las letras a), c), d), e), h) y j), del n° 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y soliciten a este Servicio que determine previamente el mayor valor sobre el cual debe calcularse el impuesto de retención que afecta a dichas operaciones. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario Establece la forma en qu…
+mplimiento Tributario Establece la forma en que los contribuyentes deberán acreditar las circunstancias señaladas en el N° 4 del artículo 74 de la Ley sobre Impuesto a la Renta para eximirse de efectuar la retención de impuestos por operaciones de enajenación indicadas en las letras a), c), d), e), h) y j) del N°8 del artículo 17 de dicha ley, realizadas por contribuyentes sin domicilio ni residencia en Chile. Fuente: Departamento de Análisis selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

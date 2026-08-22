@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ente: Departamento de Sistemas de Fiscalización Resolución Exenta SII N° 100 del 01 de Diciembre del 2015 Establece nueva denominación "Departamento de Asistencia al Contribuyente" en las Direcciones Regionales Fuente: Subdirección de Asistencia al Contribuyente Complementa Resolución Exenta SII N° 125 de 30 de diciembre de 2014, en los términos que indica Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 98 del 30 de Noviembre del 2015 Dispone Declaración de Predios Agrícolas con mejoras efectu…
+ncia al Contribuyente Complementa Resolución Exenta SII N° 125 de 30 de diciembre de 2014, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

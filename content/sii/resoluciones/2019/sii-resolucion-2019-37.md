@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 37
 - Año: 2019
-- Fecha: 2019-03-27
+- Fecha: 2019-03-19
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso37.pdf
 - Hash SHA-256: f51a809eee61970821231247da3395503682b389398e6cd74b565bdb21240f32
 
 ## Resumen
 
-tyle='margin-bottom:0px;'> Resolución Exenta SII N° 38 del 27 de Marzo del 2019 Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señal…
+cción de Fiscalización Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2013
-- Fecha: 2013-06-10
+- Fecha: 2013-06-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso56.pdf
 - Hash SHA-256: 0f91e66b2a96f0be62ef9cfd5176649972dc701d0d1d50d40f48258d5885ca60
 
 ## Resumen
 
-istencia de Contribuyentes. Resolución Exenta SII N° 57 del 10 de Junio del 2013 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes. Reemplaza Planos de precios de las comunas de Catemu, Panquehue, Chillán y Concepción de la Resolución N° 132 de31.12.2012 y corrige error de transcripción. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 55 del 06 de Junio del 2013 Autoriza a Dire…
+ia de Contribuyentes. Reemplaza Planos de precios de las comunas de Catemu, Panquehue, Chillán y Concepción de la Resolución N° 132 de31.12.2012 y corrige error de transcripción. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

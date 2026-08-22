@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 124
 - Año: 2023
-- Fecha: 2023-11-02
+- Fecha: 2023-10-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso124.pdf
 - Hash SHA-256: 0c2cd0fcd6e3c654110408d64fe40306c3327d7d18816ba4c614623b9026b9bd
 
 ## Resumen
 
--size:12px;margin-bottom:10px;'> Fuente: Subdirección de Asuntos Corporativos. Resolución Exenta SII N° 125 del 02 de Noviembre del 2023 Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Autoriza a Transbank S.A., Rut N° 96.689.310-9, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscal…
+tégica y Estudios Tributarios. Autoriza a Transbank S.A., Rut N° 96.689.310-9, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 78
 - Año: 2023
-- Fecha: 2023-06-29
+- Fecha: 2023-06-28
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso78.pdf
 - Hash SHA-256: 3a39171eabcd15b98d843aa131c9a07193e71648190b2c51834f47ea1caf2666
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 79 del 29 de Junio del 2023 Fija nóminas de agentes retenedores y de contribuyentes sujetos a retención, conforme a resolución Ex. SII N° 42, de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA. Fuente: Subdirección de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos. Fue…
+cción de Fiscalización. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2023
-- Fecha: 2023-01-25
+- Fecha: 2023-01-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso6.pdf
 - Hash SHA-256: 4fd140c76c8903730b0d7fefbe40a100675bc2dd3086c85bc6a79fde03ed7c09
 
 ## Resumen
 
-. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 07 del 25 de Enero del 2023 Aprueba Addendum al Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuestos y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 06 del 23 de Enero del 2023 Modifica nómina de Grandes Contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes. Res…
+tégica y Estudios Tributarios. Resolución Exenta SII N° 06 del 23 de Enero del 2023 Modifica nómina de Grandes Contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

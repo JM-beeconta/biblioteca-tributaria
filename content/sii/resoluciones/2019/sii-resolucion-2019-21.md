@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 21
 - Año: 2019
-- Fecha: 2019-02-08
+- Fecha: 2019-02-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso21.pdf
 - Hash SHA-256: dcd07245a282eae41131aeac6df73bca61a8f580db40d589f9171a31f3d3bfab
 
 ## Resumen
 
-pago del Impuesto a las Donaciones efectuadas en dinero&rdquo;. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 22 del 08 de Febrero del 2019 Autoriza la emisión excepcional de facturas por operaciones de leasing automotriz a contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la SOCIEDAD COLCHONES ROSEN S.A.I.C. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirec…
+ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD COLCHONES ROSEN S.A.I.C. para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2023
-- Fecha: 2023-01-27
+- Fecha: 2023-01-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso8.pdf
 - Hash SHA-256: ee07bb63ab43d32d98bf9d412bee8883e356ce16a593c63508db26e92df61814
 
 ## Resumen
 
-Resolución Exenta SII N° 09 del 27 de Enero del 2023 Instruye sobre forma y plazo para declarar y pagar las retenciones que las entidades que se indican, deberán realizar para el pago del préstamo tasa cero para pensionados bajo la modalidad de renta vitalicia establecido en el inciso quinto artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 08 del 25 de Enero del 2023 Designa secretario titular y suplente en tribunal especial de alzada de los bienes raíces de la segun…
+cción de Fiscalización. Resolución Exenta SII N° 08 del 25 de Enero del 2023 Designa secretario titular y suplente en tribunal especial de alzada de los bienes raíces de la segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de San Miguel. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

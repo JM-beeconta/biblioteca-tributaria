@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nternos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 48 del 12 de Mayo del 2017 Modifica Resolución Exenta SII N° 83, del 30.08.2004 Fuente: Subdirección de Asistencia al Contribuyente Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 07 de 2016. Fuente: Subdirección de Asuntos Corpor…
+ncia al Contribuyente Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 07 de 2016. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

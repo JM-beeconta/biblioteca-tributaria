@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 13
 - Año: 2025
-- Fecha: 2025-01-30
+- Fecha: 2025-01-24
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso13.pdf
 - Hash SHA-256: 921dafec8801e20020e9728f9c98eb7d57c17c9795fbcf9c685387c1416d4704
 
 ## Resumen
 
-nto de compras públicas. Fuente: Subdirección de Administración. Resolución Exenta SII N° 14 del 30 de Enero del 2025 Autoriza a empresa de correos de chile, Rut N° 60.503.000-9, para retener y enterar en arcas fiscales el impuesto al valor agregado según se indica. Fuente: Subdirección de Fiscalización. Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la materia que indica. Fuente: Subdirección de Asistencia al Contribuyent…
+cción de Fiscalización. Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la materia que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

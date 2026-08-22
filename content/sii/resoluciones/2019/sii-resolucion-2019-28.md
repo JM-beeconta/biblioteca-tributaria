@@ -11,7 +11,7 @@
 
 ## Resumen
 
-SII N° 29 del 19 de Febrero del 2019 Suspende calidad de agente retenedor a EVERCRISP SNACK PRODUCTOS DE CHILE S.A, RUT N° 94.528.000-k, conforme a Resolución Ex. Sii N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA; y Resolución Ex. Sii N° 150 de 28 de diciembre de 2018, que fijó nómina de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización Suspende calidad de agente retenedor a AGUAS ANDINAS S.A., RUT N° 61.808.000-5, conforme a…
+cción de Fiscalización Suspende calidad de agente retenedor a AGUAS ANDINAS S.A., RUT N° 61.808.000-5, conforme a Resolución Ex. Sii N° 42 de 30 de abril de 2018, que dispuso el cambio de sujeto para el cumplimiento de IVA; y Resolución Ex. Sii N° 150 de 28 de diciembre de 2018, que fijó nómina de agentes retenedores y contribuyentes sujetos a retención. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

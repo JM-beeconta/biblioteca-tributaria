@@ -11,7 +11,7 @@
 
 ## Resumen
 
-la ley 20.659 y su reglamento. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Resolución Exenta SII N° 117 del 02 de Diciembre del 2022 Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y Universidad de La Serena. Fuente: Subdirección de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración jurada sobre aviso de intención de permanencia en chile, de acuerdo a la Circular N° 63 de 2021. Fuente: Subdirección de Fiscalización. Resolución Exen…
+ute;n de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración jurada sobre aviso de intención de permanencia en chile, de acuerdo a la Circular N° 63 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

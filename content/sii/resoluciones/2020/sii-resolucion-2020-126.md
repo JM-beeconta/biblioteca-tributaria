@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Resolución Exenta SII N° 127 del 30 de Septiembre del 2020 Establece forma y plazo para que los contribuyentes que tributen conforme a lo dispuesto en los artículos 14 letra b) N° 1; 14 letra b) N° 2 y N° 34 de la Ley sobre Impuesto a la Renta, entreguen y certifiquen la información que se detalla. Deja sin efecto Resolución Exenta SII N° 102 de 2017. Fuente: Subdirección de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas y certificados que se indican y deja sin efecto la…
+cción de Fiscalización. Reemplaza formato, contenido e instrucciones de declaraciones juradas y certificados que se indican y deja sin efecto las resoluciones que se señalan. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

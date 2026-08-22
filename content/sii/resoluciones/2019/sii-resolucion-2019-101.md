@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e 2018. Fuente: Dirección de Grandes Contribuyentes Resolución Exenta SII N° 102 del 06 de Septiembre del 2019 Cambia la denominación de la Oficina de Servicios dependiente del departamento Subdirección de Administración y reorganiza las unidades que la conforman. Fuente: Subdirección de Administración Reorganiza las unidades que conforman el departamento Subdirección de Informática y establece sus ámbitos de competencia. Fuente: Subdirección de Informática Resolución Exenta SII N° 100 del 05 de Septiembre del 201…
+ción de Administración Reorganiza las unidades que conforman el departamento Subdirección de Informática y establece sus ámbitos de competencia. Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

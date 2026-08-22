@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 102
 - Año: 2022
-- Fecha: 2022-11-15
+- Fecha: 2022-11-08
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso102.pdf
 - Hash SHA-256: ef5cfeb5189f4639ad2e86cd89297428ae7a1d0de35fa5fd30da67fc2e9d11e7
 
 ## Resumen
 
-oceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 103 del 15 de Noviembre del 2022 Delega Facultad Que Indica En El funcionario Que Se Individualiza. Fuente: Subdirección Jurídica. Aprueba convenio de intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago A.G. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.…
+Subdirección Jurídica. Aprueba convenio de intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago A.G. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

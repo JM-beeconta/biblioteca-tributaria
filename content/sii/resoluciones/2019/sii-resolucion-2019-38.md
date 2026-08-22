@@ -11,7 +11,7 @@
 
 ## Resumen
 
-a Tesorería General de la República, referidas a la obligación de cotizar de los trabajadores independientes. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 39 del 27 de Marzo del 2019 Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorp…
+Subdirección Jurídica Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

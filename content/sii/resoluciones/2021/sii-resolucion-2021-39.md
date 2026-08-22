@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fiscalización. Resolución Exenta SII N° 40 del 14 de Abril del 2021 Fija procedimiento para otorgar bono de clase media a los pensionados indicados en el inciso tercero del artículo 4 de la Ley N° 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media. Fuente: Subdirección de Fiscalización. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el bono clase media establecido en los incisos primero y segundo del artíc…
+cción de Fiscalización. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el bono clase media establecido en los incisos primero y segundo del artículo cuarto de la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

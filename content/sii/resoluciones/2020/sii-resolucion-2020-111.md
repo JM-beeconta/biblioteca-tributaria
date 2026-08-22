@@ -11,7 +11,7 @@
 
 ## Resumen
 
-dirección de Fiscalización. Resolución Exenta SII N° 112 del 14 de Septiembre del 2020 Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N° 20.732. Deja sin efecto resoluciones que indica. Fuente: Subdirección de Avaluaciones. Modifica resolución Ex. SII Nº 103 de 13 de octubre de 2017 que establece la obligación de presentar declaración jurada anual Nº 1945 sobre ingresos, d…
+Subdirección de Avaluaciones. Modifica resolución Ex. SII Nº 103 de 13 de octubre de 2017 que establece la obligación de presentar declaración jurada anual Nº 1945 sobre ingresos, desembolsos y otros antecedentes de las organizaciones sin fines de lucro. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

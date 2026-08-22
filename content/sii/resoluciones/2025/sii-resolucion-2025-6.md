@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 6
 - Año: 2025
-- Fecha: 2025-01-15
+- Fecha: 2025-01-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso6.pdf
 - Hash SHA-256: 4b39c7aca7469150e59267d1d22ed1bbb91639e6a870eef7fc42f38be23ec9f7
 
 ## Resumen
 
-valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 07 del 15 de Enero del 2025 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 09 de Enero del 2025 Fija procedimiento para tramitar solicitudes de ajuste correspondiente o correlativo conforme al N° 8 del Artículo 41 E de la Ley Sobre Impuesto a l…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 06 del 09 de Enero del 2025 Fija procedimiento para tramitar solicitudes de ajuste correspondiente o correlativo conforme al N° 8 del Artículo 41 E de la Ley Sobre Impuesto a la Renta. Deja sin efecto la Resolución Ex. SII N° 67 de 2013 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

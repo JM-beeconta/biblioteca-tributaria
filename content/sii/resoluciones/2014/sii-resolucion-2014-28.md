@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 28
 - Año: 2014
-- Fecha: 2014-03-18
+- Fecha: 2014-03-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso28.pdf
 - Hash SHA-256: 699fc107674f0d140681a99455e17913d12a37209710fa061a562eb76974b810
 
 ## Resumen
 
-;margin-bottom:10px;'> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 29 del 18 de Marzo del 2014 Registra como emisores de documentos tributarios a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Depto. de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 27 del 28 de Febrero del 2014 Delega facultades en el Director Regional…
+cia de Contribuyentes Autoriza a Instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable Fuente: Depto. de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Fiscalización Resolución Exenta SII N° 16 del 06 de Febrero del 2019 Establece plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal. Fuente: Subdirección de Fiscalización Autoriza a empresa MARKETING Y NEGOCIOS S.A, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condi…
+cción de Fiscalización Autoriza a empresa MARKETING Y NEGOCIOS S.A, para emitir boletas de servicios de ingreso a espectáculos públicos, por cuenta de terceros, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

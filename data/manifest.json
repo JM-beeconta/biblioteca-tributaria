@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T18:56:48.024Z",
-  "total_documents": 11122,
+  "generated_at": "2026-08-22T19:23:39.904Z",
+  "total_documents": 11138,
   "by_source": {
-    "SII": 10333,
+    "SII": 10349,
     "BCN": 789
   },
   "by_type": {
-    "resolucion": 1959,
+    "resolucion": 1975,
     "oficio": 7521,
     "circular": 853,
     "norma": 294,
@@ -54,18 +54,18 @@
     "2012": 32,
     "2013": 212,
     "2014": 244,
-    "2015": 274,
+    "2015": 276,
     "2016": 272,
-    "2017": 253,
+    "2017": 256,
     "2018": 267,
-    "2019": 432,
-    "2020": 562,
-    "2021": 762,
-    "2022": 860,
-    "2023": 645,
-    "2024": 384,
+    "2019": 435,
+    "2020": 563,
+    "2021": 764,
+    "2022": 861,
+    "2023": 647,
+    "2024": 385,
     "2025": 547,
-    "2026": 318,
+    "2026": 319,
     "sin-fecha": 2
   },
   "min_year": 1974,
@@ -83,7 +83,7 @@
       "name": "2026.json",
       "path": "data/index/2026.json",
       "relations_path": "data/relations/2026.json",
-      "count": 317,
+      "count": 318,
       "source": "SII",
       "year": 2026
     },
@@ -99,7 +99,7 @@
       "name": "2024.json",
       "path": "data/index/2024.json",
       "relations_path": "data/relations/2024.json",
-      "count": 377,
+      "count": 378,
       "source": "SII",
       "year": 2024
     },
@@ -107,7 +107,7 @@
       "name": "2023.json",
       "path": "data/index/2023.json",
       "relations_path": "data/relations/2023.json",
-      "count": 640,
+      "count": 642,
       "source": "SII",
       "year": 2023
     },
@@ -115,7 +115,7 @@
       "name": "2022.json",
       "path": "data/index/2022.json",
       "relations_path": "data/relations/2022.json",
-      "count": 852,
+      "count": 853,
       "source": "SII",
       "year": 2022
     },
@@ -123,7 +123,7 @@
       "name": "2021.json",
       "path": "data/index/2021.json",
       "relations_path": "data/relations/2021.json",
-      "count": 760,
+      "count": 762,
       "source": "SII",
       "year": 2021
     },
@@ -131,7 +131,7 @@
       "name": "2020.json",
       "path": "data/index/2020.json",
       "relations_path": "data/relations/2020.json",
-      "count": 550,
+      "count": 551,
       "source": "SII",
       "year": 2020
     },
@@ -139,7 +139,7 @@
       "name": "2019.json",
       "path": "data/index/2019.json",
       "relations_path": "data/relations/2019.json",
-      "count": 429,
+      "count": 432,
       "source": "SII",
       "year": 2019
     },
@@ -155,7 +155,7 @@
       "name": "2017.json",
       "path": "data/index/2017.json",
       "relations_path": "data/relations/2017.json",
-      "count": 245,
+      "count": 248,
       "source": "SII",
       "year": 2017
     },
@@ -171,7 +171,7 @@
       "name": "2015.json",
       "path": "data/index/2015.json",
       "relations_path": "data/relations/2015.json",
-      "count": 269,
+      "count": 271,
       "source": "SII",
       "year": 2015
     },

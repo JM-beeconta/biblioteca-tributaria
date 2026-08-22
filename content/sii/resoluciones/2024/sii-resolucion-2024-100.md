@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2024
-- Fecha: 2024-10-24
+- Fecha: 2024-10-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso100.pdf
 - Hash SHA-256: ac118d2bc1fe336075b0eed98c538fa9bd5905d54b77a588e9c427817c4ce6b0
 
 ## Resumen
 
-fija plazo de presentación. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 101 del 24 de Octubre del 2024 Instruye sobre la forma de documentar los servicios prestados por trabajadores independientes de plataformas digitales sin domicilio o residencia en Chile Fuente: Subdirección de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad Autónoma de Chile. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 99 del 1…
+ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad Autónoma de Chile. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

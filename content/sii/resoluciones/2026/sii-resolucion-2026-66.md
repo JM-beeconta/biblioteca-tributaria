@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 66
 - Año: 2026
-- Fecha: 2026-06-02
+- Fecha: 2026-05-25
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso66.pdf
 - Hash SHA-256: 97ae73b9909064e04b8c2550215c3fd17b0ea9a7299f9fd0a24b9f5e7579e699
 
 ## Resumen
 
-del 02 de Junio del 2026 Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica Resolución Exenta SII N° 67 del 25 de Mayo del 2026 Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica. Resolución Exenta SII N° 65 del 20 de Mayo del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Moviliza…
+Subdirección Jurídica. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

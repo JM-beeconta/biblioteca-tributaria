@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 118
 - Año: 2017
-- Fecha: 2017-12-07
+- Fecha: 2017-12-06
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso118.pdf
 - Hash SHA-256: 769763fa628d368122cb17048ab0b20ab127adf7e2b4924948258e75e97a5b62
 
 ## Resumen
 
-rgin-bottom:10px;'> Fuente: Subdirección de Avaluaciones Resolución Exenta SII N° 119 del 07 de Diciembre del 2017 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Asuntos Corporativos Resolución Exenta S…
+amento de Operaciones Reorganiza las unidades que conforman el Departamento Subdirección de Asuntos Corporativos y ámbito de competencia de las unidades que lo conforman. Fuente: Subdirección de Asuntos Corporativos
 
 ## Referencias detectadas
 

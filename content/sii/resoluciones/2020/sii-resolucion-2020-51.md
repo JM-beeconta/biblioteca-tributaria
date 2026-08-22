@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 51
 - Año: 2020
-- Fecha: 2020-05-08
+- Fecha: 2020-05-07
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso51.pdf
 - Hash SHA-256: 6d30a564d8f587a222bfe96659635c1474a75bcdccca62e241485fb967b7475f
 
 ## Resumen
 
-1847, 1913 y 1926. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 52 del 08 de Mayo del 2020 Exime a ONG casa de acogida La Esperanza, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente. Exime a maría ayuda corporación de beneficencia, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente. Re…
+ute;n de Asistencia al Contribuyente. Exime a maría ayuda corporación de beneficencia, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

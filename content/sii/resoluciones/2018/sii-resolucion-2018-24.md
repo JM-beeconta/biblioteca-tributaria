@@ -11,7 +11,7 @@
 
 ## Resumen
 
-os cuya comercialización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 25 del 05 de Marzo del 2018 Deroga Resolución SII Ex. N° 56, de 30.06.2015. Establece la Unidad de Alto Hospicio dependiente de la I Dirección Regional, Iquique Fuente: Subdirección Jurídica Deja sin efecto facultad delegatoria que indica, contenida en la Resolución Exenta N° 90, del 2004 Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 23 del 05 de Marzo del 2018 Delega facultad que in…
+Subdirección Jurídica Deja sin efecto facultad delegatoria que indica, contenida en la Resolución Exenta N° 90, del 2004 Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

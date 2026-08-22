@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 41
 - Año: 2026
-- Fecha: 2026-03-19
+- Fecha: 2026-03-16
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso41.pdf
 - Hash SHA-256: 2c380f33d1b1b0de5bc6017f879bdc750ba6e8a163c1e2748ded0fdcb089d827
 
 ## Resumen
 
-I) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 42 del 19 de Marzo del 2026 Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Bienes Nacionales y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N°…
+ute;n de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 132
 - Año: 2023
-- Fecha: 2023-11-23
+- Fecha: 2023-11-20
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso132.pdf
 - Hash SHA-256: edd6acaf513bf812731840f205dcdec85ffbc80b75a976aab8f8ead7ef25d791
 
 ## Resumen
 
-p> Fuente: Subdirección Desarrollo de las Personas Resolución Exenta SII N° 133 del 23 de Noviembre del 2023 Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Curicó. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Instruye sobre la forma de documentar los servicios prestados por trabajadores independientes de plataformas digitales domiciliadas o residentes en Chile. Fuente: Subdirección de Asistencia al Contribuyente.…
+tégica y Estudios Tributarios. Instruye sobre la forma de documentar los servicios prestados por trabajadores independientes de plataformas digitales domiciliadas o residentes en Chile. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

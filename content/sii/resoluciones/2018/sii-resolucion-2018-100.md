@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 100
 - Año: 2018
-- Fecha: 2018-10-11
+- Fecha: 2018-10-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso100.pdf
 - Hash SHA-256: 6c349537f6d8ba648f2638c1255c1385ffaa22652d75afe1b2b5ca14344b3dbd
 
 ## Resumen
 
-> Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 101 del 11 de Octubre del 2018 Autoriza al Conservador de Bienes Raíces de Puente Alto, Sr. Rodrigo Alejandro Martin Vergara, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Incorpórase a LATAM FACTORS S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 99 del 09…
+ute;n de Asistencia al Contribuyente Incorpórase a LATAM FACTORS S.A., en la nómina de entidades para ser receptora de la carpeta tributaria por mandato. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

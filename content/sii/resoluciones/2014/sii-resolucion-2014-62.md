@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 62
 - Año: 2014
-- Fecha: 2014-06-26
+- Fecha: 2014-06-23
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso62.pdf
 - Hash SHA-256: c8e662449a15fa1c7fc598f29025235a40acf37fe7931229fb83a32d2513c894
 
 ## Resumen
 
->Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 63 del 26 de Junio del 2014 Autoriza como emisor de boletas electrónicas a contribuyente que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas Resolución Exenta SII N° 61 del 20 de Junio del 2014 Exime de timbraje de pagarés a contribu…
+cia de Contribuyentes Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

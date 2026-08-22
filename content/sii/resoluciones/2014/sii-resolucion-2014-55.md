@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 55
 - Año: 2014
-- Fecha: 2014-06-09
+- Fecha: 2014-06-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso55.pdf
 - Hash SHA-256: d2e0d225c73f1512da16742956f7089fe7f9bc676bb2ad5e0ba0c408db1885e8
 
 ## Resumen
 
-Resolución Exenta SII N° 56 del 09 de Junio del 2014 Autoriza al contribuyente Alimentación Express SPA., RUT N° 76.299.578-6, para operar un sistema electrónico de intermediación en la venta de colaciones Fuente: Departamento de Atención y Asistencia de Contribuyentes Autoriza como emisor de boletas electrónicas a contribuyentes que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes Resolución Exenta SII N° 54 del 02 de Junio del 2014 Complementa Resolución Exenta SII N°109 de 27 de diciemb…
+cia de Contribuyentes Autoriza como emisor de boletas electrónicas a contribuyentes que se señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

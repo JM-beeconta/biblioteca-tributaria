@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 76
 - Año: 2024
-- Fecha: 2024-08-01
+- Fecha: 2024-07-30
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso76.pdf
 - Hash SHA-256: 355a145237762da0d287df25e430c1c3ae816e8527f4b124fe86daf400518d8a
 
 ## Resumen
 
-om:10px;'> Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 77 del 01 de Agosto del 2024 Autoriza a Banco de Chile a eximirse de la obligación de la emisión de liquidación a que hace referencia el resolutivo 3° de la Res. Ex. N° 328, de 1977, cumpliendo requisitos que se indican. Fuente: Subdirección de Asistencia al Contribuyente. Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas contenidas en…
+ute;n de Asistencia al Contribuyente. Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas contenidas en el registro rai, que establece el artículo décimo y undécimo de la ley N° 21.681. Modifica resolución exenta SII N°27 del 25 de febrero del 2009. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

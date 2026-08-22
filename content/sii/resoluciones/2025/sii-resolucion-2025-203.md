@@ -11,7 +11,7 @@
 
 ## Resumen
 
-el semestre que se indica Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 204 del 26 de Diciembre del 2025 Solicitud de acceso a la interfaz de programación de aplicaciones (api), de inicio de actividades de uber rides chile spa, rut n° 77.183.959-2. Fuente: Subdirección de Asistencia al Contribuyente Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 2…
+cute;n de Asistencia al Contribuyente Otórguese acceso a las siguientes instituciones a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

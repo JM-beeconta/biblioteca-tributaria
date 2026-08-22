@@ -11,7 +11,7 @@
 
 ## Resumen
 
-lización sea inviable. Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 96 del 05 de Octubre del 2018 Autoriza a instituciones que indica, como distribuidoras y/o receptoras de productos de higiene personal, cuya comercialización se ha vuelto inviable. Fuente: Subdirección de Fiscalización Autoriza a Director Regional de la XX Dirección Regional, Chillán, para delegar en Jefe de Unidad de San Carlos las facultades que indica. Fuente: Subdirección Jurídica Resolución Exenta SII N° 94 del 05 de Octubre…
+cción de Fiscalización Autoriza a Director Regional de la XX Dirección Regional, Chillán, para delegar en Jefe de Unidad de San Carlos las facultades que indica. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

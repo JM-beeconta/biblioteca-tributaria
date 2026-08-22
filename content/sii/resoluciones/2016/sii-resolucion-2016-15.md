@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 16 del 11 de Marzo del 2016 Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 14 del 11 de Marzo del 201…
+Estudios Tributarios Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

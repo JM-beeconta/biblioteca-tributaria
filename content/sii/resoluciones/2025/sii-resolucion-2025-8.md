@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 8
 - Año: 2025
-- Fecha: 2025-01-16
+- Fecha: 2025-01-15
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso8.pdf
 - Hash SHA-256: e0bd9f2262263da4362e904c468622cdb1a7c17610dded3aa8fb7272e16cc5c1
 
 ## Resumen
 
-size:12px;margin-bottom:10px;'> Fuente: Subdirección Jurídica. Resolución Exenta SII N° 09 del 16 de Enero del 2025 Fija procedimiento para el giro y pago del impuesto establecido en el artículo 9 de la Ley N° 21.420, modificado por el artículo 5 de la Ley 21.713. Deja sin efecto resolución exenta SII N° 125 de 2022. Fuente: Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 15 de Enero del 2025 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acopl…
+Subdirección de Avaluaciones. Resolución Exenta SII N° 08 del 15 de Enero del 2025 Fija tablas de valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

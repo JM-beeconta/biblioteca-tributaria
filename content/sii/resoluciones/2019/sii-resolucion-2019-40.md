@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ro de la Ley N°16.744, el Servicio de Impuestos Internos, la Tesorería General de la República y la Superintendencia de Seguridad Social, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N°3500, de 1980. Deroga y reemplaza la Resolución Ex. SII N°86, del Servicio de Impuestos Internos y la Circular Conjunta N°4, de la Tesorería General de la República, ambas del año 2012. Fuente: Subdirección de Fiscalización Reemplázase el Título XIV, del Libro II, del Com…
+cción de Fiscalización Reemplázase el Título XIV, del Libro II, del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, y deróganse la Resolución Ex. SII N° 9, de 2012, del Servicio de Impuestos Internos y la Circular Normativa N° 2 de la Tesorería General de la República, que establecen regulaciones comunes en relación al intercambio de información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la República, referidas a l…
 
 ## Referencias detectadas
 

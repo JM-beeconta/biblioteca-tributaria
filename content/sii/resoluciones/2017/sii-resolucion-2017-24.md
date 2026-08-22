@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Resolución Exenta SII N° 25 del 15 de Febrero del 2017 Establece procedimiento para hacer efectivo el derecho al Crédito Fiscal del Impuesto a las Ventas y Servicios, establecido en el Artículo Octavo transitorio de la Ley N°20.780, de 2014, modificado por la Ley N°20.899, de 2016. Fuente: Subdirección de Fiscalización Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina de Gestión Normativa. Resolución Exenta SII N° 23 del 14…
+Fiscalización Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;a Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Hualpén. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 49 del 17 de Abril del 2025 Tramitación de las autodenuncias conforme al artículo 100 sexies del Código Tributario. Fuente: Subdirección Jurídica. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exen…
+Subdirección Jurídica. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 1
 - Año: 2018
-- Fecha: 2018-01-12
+- Fecha: 2018-01-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso1.pdf
 - Hash SHA-256: ff0ca836caabb837adc2f91fe3b8fe664f3a8c85e47f5a7fa1d3d86031f5d7ee
 
 ## Resumen
 
-rget='_blank'>Resolución Exenta SII N° 02 del 12 de Enero del 2018 Deroga Resolución Ex. SII N° 39, de fecha 27.03.2008, que excepciona de las retenciones por cambio de sujeto de derecho del IVA a las operaciones respaldadas con documentos tributarios electrónicos emitidos por contribuyentes y, sus modificaciones realizadas por Resoluciones Exentas SII N° 102, de fecha 04.11.2014 y N° 55, de fecha 17.06.2016. Fuente: Subdirección de Fiscalizacion Resolución Exenta SII N° 01 del 02 de Enero del 2018 Informa sobre l…
+Subdirección de Fiscalizacion Resolución Exenta SII N° 01 del 02 de Enero del 2018 Informa sobre la obligación de inscripción en el Registro de Tasadores Fuente: Subdirección de Asistencia al Contribuyente function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2018'); } else{ $(loca…
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-nte: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 133 del 20 de Diciembre del 2018 Autoriza a la sociedad ADMINISTRADORA DE SUPERMERCADOS EXPRESS LIMITADA, para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente Autoriza a la sociedad WALMART CHILE MAYORISTA LIMITADA para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónic…
+ute;n de Asistencia al Contribuyente Autoriza a la sociedad WALMART CHILE MAYORISTA LIMITADA para cumplir la obligación de entregar boletas en papel mediante el envío de boletas electrónicas en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 116
 - Año: 2025
-- Fecha: 2025-09-10
+- Fecha: 2025-09-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso116.pdf
 - Hash SHA-256: c129656e7529bf6b95c310c01d1e0318eb07aecb3d242970da2a83a703cae030
 
 ## Resumen
 
-II de la resolución EX. SII N°77, de 2025. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 117 del 10 de Septiembre del 2025 Establece procedimiento para solicitar acceso a la interfaz de programación de aplicaciones (API), de inicio de actividades. Fuente: Subdirección de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente. Resolución Exenta SII N° 115 del 27 de Agos…
+ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

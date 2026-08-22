@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2021
-- Fecha: 2021-03-18
+- Fecha: 2021-03-09
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso29.pdf
 - Hash SHA-256: fe87752bebf76f36dc73debb7a19e39333f9b34058de765df6b7c035b219e180
 
 ## Resumen
 
-de Fiscalización. Resolución Exenta SII N° 30 del 18 de Marzo del 2021 Amplía el plazo para presentar la declaración jurada anual sobre rentas del Art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la Ley de la Renta, formulario N°1887. Fuente: Subdirección de Fiscalización. Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 28 del 05 de Ma…
+cción de Fiscalización. Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

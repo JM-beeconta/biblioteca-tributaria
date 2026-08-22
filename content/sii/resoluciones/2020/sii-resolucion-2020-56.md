@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 56
 - Año: 2020
-- Fecha: 2020-05-27
+- Fecha: 2020-05-26
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso56.pdf
 - Hash SHA-256: 2657e06a917ae2cbf05ae7e3ad03d6ea191f4fc95fc0da06eb257bf68c66188c
 
 ## Resumen
 
-ertificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Exentas SII N°s 80 y N°81, de 2017. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 57 del 27 de Mayo del 2020 Rectifica lista anexa de la Resolución Ex. Sii N° 3, de 2020. Fuente: Subdirección de Avaluaciones. Instruye sobre cumplimiento de obligaciones tributarias accesorias respecto de hechos gravados beneficiados con la disminución transitoria a 0% de las tasas establecidas en los Artículos 1° numeral 3); 2° y 3° de l…
+Subdirección de Avaluaciones. Instruye sobre cumplimiento de obligaciones tributarias accesorias respecto de hechos gravados beneficiados con la disminución transitoria a 0% de las tasas establecidas en los Artículos 1° numeral 3); 2° y 3° de la Ley sobre impuesto de timbres y estampillas. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

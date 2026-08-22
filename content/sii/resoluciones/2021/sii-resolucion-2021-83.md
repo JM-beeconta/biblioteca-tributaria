@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 83
 - Año: 2021
-- Fecha: 2021-07-23
+- Fecha: 2021-07-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso83.pdf
 - Hash SHA-256: d71e47e25e47806fa52c3a6cdebfd089638d15a826b0071a3ecbb2b8b56cfe73
 
 ## Resumen
 
-en el mes anterior. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N° 84 del 23 de Julio del 2021 Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación Chilena de la Madera. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. Renueva plazo para complementar la información que deben entregar las municipalidades, de acuerdo a las resoluciones Ex. SII N°s 62, 65, 75 y 79 de 2021. Fuente: Subdirección de Fiscalización. Resolución Exenta SII N°…
+tégica y Estudios Tributarios. Renueva plazo para complementar la información que deben entregar las municipalidades, de acuerdo a las resoluciones Ex. SII N°s 62, 65, 75 y 79 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 69
 - Año: 2017
-- Fecha: 2017-08-10
+- Fecha: 2017-08-02
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso69.pdf
 - Hash SHA-256: 706c43b8c13179bb2ee79c49b7147434d26596381694acd5582e739a05cecd30
 
 ## Resumen
 
-Fuente: Subdirección de Fiscalización Resolución Exenta SII N° 70 del 10 de Agosto del 2017 Autoriza al Conservador de Bienes Raíces de Rancagua sr. Mauricio Alfredo Astudillo Pizarro, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente Delegación de facultades que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Resolución Exenta SII N° 68 del 31 de Julio del 2017 Modifica Res. Ex. SII N° 61, de 12.07.2017, ampliando…
+ncia al Contribuyente Delegación de facultades que indica. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

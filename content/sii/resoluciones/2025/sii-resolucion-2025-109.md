@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ión de Fiscalización. Resolución Exenta SII N° 110 del 26 de Agosto del 2025 Establece oportunidad, forma y condiciones de presentación del reporte sobre operaciones a través de cuentas corrientes corresponsales en Chile, según lo establecido en el artículo 66 bis del Código Tributario. Formulario 1960. Fuente: Subdirección de Fiscalización. Modifica Res. Ex. SII N° 113 de 2022, que establece formato, contenido y medio de envío del reporte de saldos y sumas de abonos de cuentas financieras, y Res. Ex. SII N° 5 de…
+cción de Fiscalización. Modifica Res. Ex. SII N° 113 de 2022, que establece formato, contenido y medio de envío del reporte de saldos y sumas de abonos de cuentas financieras, y Res. Ex. SII N° 5 de 2025, que establece forma y plazo de presentación de la declaración jurada para información de abonos recibidos. Declaraciones juradas formularios N°s 1955 y 1959. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

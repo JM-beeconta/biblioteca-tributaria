@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Regula la validación de los Certificados de Residencia emitidos por administraciones tributarias extranjeras para efectos tributarios, especialmente de las retenciones a que se refiere el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta y sobre las cantidades sujetas a la obligación de restitución del artículo 14 A) y 63, de la misma ley. Deja sin efecto Resolución Exenta SII Nº11 de 2019. Fuente: Subdirección de Fiscalización. Establece procedimiento simplificado para otorgar RUT y eximir de obligaciones de d…
+cción de Fiscalización. Establece procedimiento simplificado para otorgar RUT y eximir de obligaciones de dar aviso de inicio de actividades, llevar contabilidad y declarar anualmente sus rentas, a contribuyentes no domiciliados ni residentes en Chile. Deja sin efecto Resolución Exenta SII Nº 36, de 2011. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-forma y periodicidad de las sesiones del comité ejecutivo. Deja sin efecto Resolución Ex. SII N° 68 de 2016. Fuente: Subdirección Jurídica. Resolución Exenta SII N° 115 del 05 de Diciembre del 2024 Delega en los jefes de departamentos de avaluaciones la facultad que indica Fuente: Subdirección de Avaluaciones. Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59&ordf; Asamblea General del CIAT. Fuen…
+Subdirección de Avaluaciones. Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59&ordf; Asamblea General del CIAT. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

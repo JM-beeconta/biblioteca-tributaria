@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 29
 - Año: 2020
-- Fecha: 2020-03-18
+- Fecha: 2020-03-11
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso29.pdf
 - Hash SHA-256: b548fecfc4b6ee67acca6245df1cc69f1faee2719e18fc14fe5b12ff9876fe6b
 
 ## Resumen
 
-ica y Estudios Tributarios Resolución Exenta SII N° 30 del 18 de Marzo del 2020 Amplía el plazo para presentar la Declaración Jurada Anual sobre rentas del art. 42 Nº 1 (sueldos), otros componentes de la remuneración y retenciones del impuesto único de segunda categoría de la Ley de la Renta, formulario N°1887 Fuente: Subdirección de Fiscalización Exime a organización no gubernamental de desarrollo canales &ldquo;ONG CANALES&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija r…
+ección de Fiscalización Exime a organización no gubernamental de desarrollo canales &ldquo;ONG CANALES&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

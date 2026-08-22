@@ -4,14 +4,14 @@
 - Tipo: resolucion
 - Número: 40
 - Año: 2025
-- Fecha: 2025-04-03
+- Fecha: 2025-03-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso40.pdf
 - Hash SHA-256: 2ea3ab871f3f540c14a324bc6fd95bbdb8d487f47b769aa5c7fa493e09b2470c
 
 ## Resumen
 
-contribuyentes no domiciliados ni residentes en chile Fuente: Subdirección de asistencia al contribuyente Resolución Exenta SII N° 41 del 03 de Abril del 2025 Dispone forma de suscripción de la declaración jurada exigida por las circulares n° 39 de 1991 y n° 27 de 2007. Fuente: Subdirección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión para el Mercado Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente. Resolución Ex…
+ección de Fiscalización Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión para el Mercado Financiero y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-px;'> Fuente: Subdirección de Asistencia al Contribuyente Resolución Exenta SII N° 122 del 07 de Diciembre del 2017 Aprueba convenio de coordinación entre Contraloría General de la República y Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios Aprueba acuerdo de colaboración suscrito entre el Servicio de Impuestos Internos y la Universidad Adolfo Ibañez. Fuente: Subdirección de Informática Resolución Exenta SII N° 120 del 07 de Diciembre del 2017 Reemplaza procedimie…
+Estudios Tributarios Aprueba acuerdo de colaboración suscrito entre el Servicio de Impuestos Internos y la Universidad Adolfo Ibañez. Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 
