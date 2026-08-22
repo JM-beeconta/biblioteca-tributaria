@@ -6,6 +6,10 @@ const els = {
   year: document.querySelector('#yearFilter'),
   results: document.querySelector('#results'),
   count: document.querySelector('#resultCount'),
+  visibleCount: document.querySelector('#visibleCount'),
+  resultsActions: document.querySelector('#resultsActions'),
+  loadMore: document.querySelector('#loadMore'),
+  showAll: document.querySelector('#showAll'),
   updated: document.querySelector('#updatedAt'),
   reader: document.querySelector('#reader'),
   readerTitle: document.querySelector('#readerTitle'),
@@ -17,7 +21,10 @@ const els = {
   readerClose: document.querySelector('#readerClose'),
 };
 
+const PAGE_SIZE = 60;
 let docs = [];
+let visibleLimit = PAGE_SIZE;
+
 const normalize = (s = '') => s
   .normalize('NFD')
   .replace(/[\u0300-\u036f]/g, '')
@@ -72,22 +79,36 @@ function matchesFilters(doc) {
   return true;
 }
 
-function render() {
+function rankedResults() {
   const q = els.search.value.trim();
-  const results = docs
+  return docs
     .filter(matchesFilters)
     .map((doc) => ({ doc, rank: score(doc, q) }))
     .filter((x) => x.rank > 0)
-    .sort((a, b) => b.rank - a.rank || String(b.doc.date || '').localeCompare(String(a.doc.date || '')))
-    .slice(0, q ? 120 : 60);
+    .sort((a, b) => b.rank - a.rank || String(b.doc.date || '').localeCompare(String(a.doc.date || '')));
+}
 
-  els.count.textContent = results.length;
-  if (!results.length) {
+function render() {
+  const allResults = rankedResults();
+  const visibleResults = allResults.slice(0, visibleLimit);
+  const total = allResults.length;
+  const visible = visibleResults.length;
+
+  els.count.textContent = total.toLocaleString('es-CL');
+  els.visibleCount.textContent = total ? `· mostrando ${visible.toLocaleString('es-CL')}` : '';
+  els.resultsActions.hidden = visible >= total || total === 0;
+  if (!els.resultsActions.hidden) {
+    const remaining = total - visible;
+    els.loadMore.textContent = `Mostrar ${Math.min(PAGE_SIZE, remaining)} más`;
+    els.showAll.textContent = `Mostrar todos (${total.toLocaleString('es-CL')})`;
+  }
+
+  if (!total) {
     els.results.innerHTML = '<div class="empty">No encontré coincidencias. Prueba otra palabra o elimina algún filtro.</div>';
     return;
   }
 
-  els.results.innerHTML = results.map(({ doc }) => {
+  els.results.innerHTML = visibleResults.map(({ doc }) => {
     const refs = (doc.references || []).slice(0, 6).map((r) => `<span class="ref">${escapeHtml(refLabel(r))}</span>`).join('');
     const meta = [doc.type, doc.year, ...(doc.categories || [])].filter(Boolean).join(' · ');
     const summary = doc.summary_short || doc.summary || 'Documento tributario disponible para consulta.';
@@ -151,7 +172,18 @@ async function init() {
   render();
 }
 
-[els.search, els.source, els.type, els.category, els.year].forEach((el) => el.addEventListener('input', render));
+[els.search, els.source, els.type, els.category, els.year].forEach((el) => el.addEventListener('input', () => {
+  visibleLimit = PAGE_SIZE;
+  render();
+}));
+els.loadMore.addEventListener('click', () => {
+  visibleLimit += PAGE_SIZE;
+  render();
+});
+els.showAll.addEventListener('click', () => {
+  visibleLimit = Number.MAX_SAFE_INTEGER;
+  render();
+});
 els.readerClose.addEventListener('click', closeReader);
 els.reader.addEventListener('click', (event) => {
   if (event.target === els.reader) closeReader();
