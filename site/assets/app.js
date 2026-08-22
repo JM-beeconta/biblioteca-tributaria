@@ -51,15 +51,26 @@ function refLabel(ref) {
   return ref.type;
 }
 
+// Normalizar título/resumen/referencias/identidad/haystack de cada documento es trabajo fijo
+// (nunca cambia entre búsquedas): antes se recalculaba para los 11.000+ documentos en CADA
+// tecla presionada (~880ms por tecla, sin debounce — la biblioteca se sentía congelada al
+// escribir). Se precalcula una sola vez por documento al cargar el catálogo y score() sólo
+// normaliza la consulta, que es lo único que realmente cambia en cada búsqueda.
+function buildSearchIndex(doc) {
+  return {
+    title: normalize(doc.title),
+    summary: normalize(doc.summary_short || doc.summary),
+    refs: normalize((doc.references || []).map(refLabel).join(' ')),
+    identity: normalize(`${doc.type || ''} ${doc.number || ''} ${doc.year || ''} ${doc.norm_code || ''} ${doc.article || ''} ${doc.version_date || ''}`),
+    haystack: normalize(`${doc.search_text || ''} ${(doc.categories || []).join(' ')} ${doc.norm_code || ''}`),
+  };
+}
+
 function score(doc, query) {
   if (!query) return 1;
   const q = normalize(query);
   const tokens = q.split(/\s+/).filter(Boolean);
-  const title = normalize(doc.title);
-  const summary = normalize(doc.summary_short || doc.summary);
-  const refs = normalize((doc.references || []).map(refLabel).join(' '));
-  const identity = normalize(`${doc.type || ''} ${doc.number || ''} ${doc.year || ''} ${doc.norm_code || ''} ${doc.article || ''} ${doc.version_date || ''}`);
-  const haystack = normalize(`${doc.search_text || ''} ${(doc.categories || []).join(' ')} ${doc.norm_code || ''}`);
+  const { title, summary, refs, identity, haystack } = doc._idx;
   let total = 0;
 
   if (title === q || identity === q || refs === q) total += 30;
@@ -216,15 +227,22 @@ async function init() {
     optionalJson('./data/backfill-status.json'),
   ]);
   docs = catalog;
+  for (const doc of docs) doc._idx = buildSearchIndex(doc);
   populateFilters();
   renderCorpusMonitor(meta, backfill);
   render();
 }
 
-[els.search, els.source, els.type, els.category, els.year].forEach((el) => el.addEventListener('input', () => {
+let renderTimer = null;
+function scheduleRender() {
   visibleLimit = PAGE_SIZE;
-  render();
-}));
+  clearTimeout(renderTimer);
+  // Pequeño debounce: sin esto, cada tecla dispara el filtrado completo por separado incluso
+  // ahora que score() es barato — al escribir rápido igual se notaba doble trabajo.
+  renderTimer = setTimeout(render, 120);
+}
+
+[els.search, els.source, els.type, els.category, els.year].forEach((el) => el.addEventListener('input', scheduleRender));
 els.loadMore.addEventListener('click', () => { visibleLimit += PAGE_SIZE; render(); });
 els.showAll.addEventListener('click', () => { visibleLimit = Number.MAX_SAFE_INTEGER; render(); });
 els.readerClose.addEventListener('click', closeReader);
