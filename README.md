@@ -33,18 +33,29 @@ https://jm-beeconta.github.io/biblioteca-tributaria/llms.txt
 https://jm-beeconta.github.io/biblioteca-tributaria/sitemap.xml
 ```
 
-`source_url` siempre apunta a la fuente jurídica oficial SII o BCN. La copia Markdown sólo facilita búsqueda y lectura.
+`source_url` siempre apunta a una fuente oficial SII o BCN. La copia Markdown facilita búsqueda y lectura, pero no reemplaza el documento oficial.
+
+## Cómo obtiene los Oficios modernos del SII
+
+Las páginas actuales de Jurisprudencia Administrativa no contienen enlaces HTML a los Oficios: cargan los datos dinámicamente. El crawler replica sólo ese flujo público del sitio oficial:
+
+1. consulta el listado público `getPublicacionesCTByMateria`;
+2. obtiene número, fecha, materia, resumen e identificador oficial del documento;
+3. descarga el PDF desde `gabineteAdmInternet/descargaArchivo`;
+4. extrae texto con `pdftotext`;
+5. guarda metadata, texto, referencias detectadas, URL oficial y SHA-256.
+
+Para páginas históricas se mantiene fallback a los índices HTML antiguos del SII.
 
 ## Archivos importantes
 
 - `data/index.json`: índice estructurado para humanos y agentes.
 - `data/relations.json`: referencias detectadas entre Circulares, Oficios y artículos.
 - `data/meta.json`: estado y fecha de actualización del corpus.
-- `data/deploy-health.json`: última verificación automática de GitHub Pages.
 - `content/`: copia de consulta en Markdown de cada documento extraído.
 - `site/`: front estático.
 - `scripts/build-site.mjs`: genera el sitio, `llms.txt`, `robots.txt` y `sitemap.xml`.
-- `.github/workflows/library-pages.yml`: build, deploy y health check de GitHub Pages.
+- `.github/workflows/library-pages.yml`: build, deploy y verificación HTTP de GitHub Pages.
 - `.github/workflows/library-update.yml`: actualización semanal y backfill histórico.
 
 ## Publicación
@@ -54,8 +65,9 @@ Cada cambio en `main` dispara `Publicar Biblioteca Tributaria`:
 1. ejecuta tests;
 2. construye el sitio estático;
 3. publica en GitHub Pages;
-4. comprueba por HTTP el front, `data/index.json` y `llms.txt`;
-5. registra el resultado en `data/deploy-health.json`.
+4. comprueba por HTTP el front, `data/index.json` y `llms.txt`.
+
+La verificación no escribe commits, evitando loops de despliegue.
 
 ## Actualización semanal
 
@@ -71,16 +83,16 @@ La corrida semanal:
 - guarda cambios en Git;
 - publica nuevamente el sitio actualizado.
 
-Las descargas usan timeout, reintentos y concurrencia baja para no sobrecargar los sitios públicos.
+Las descargas usan timeout, reintentos y concurrencia máxima de dos documentos para ser conservadores con los servicios públicos.
 
 ## Backfill histórico
 
-La carga inicial se ejecuta por bloques de cuatro años y guarda checkpoints en Git. Si un tramo falla, el avance previo no se pierde.
+La carga inicial prioriza los dos años más recientes y después avanza por bloques de cuatro años, guardando checkpoints en Git. Si un tramo falla, el avance previo no se pierde.
 
 Objetivo inicial:
 
 - Circulares SII desde 1974;
-- Jurisprudencia Administrativa SII desde el rango histórico disponible en los índices del Servicio;
+- Jurisprudencia Administrativa SII desde 1975, combinando API pública actual e índices HTML históricos;
 - LIR, LIVS y Código Tributario vigentes desde BCN/LeyChile, separados también por artículos.
 
 El marcador `.bootstrap-full-history` se elimina automáticamente una vez completado el backfill.
@@ -90,6 +102,7 @@ El marcador `.bootstrap-full-history` se elimina automáticamente una vez comple
 Un agente debe comenzar por `llms.txt` o `data/index.json`. Cada registro incluye:
 
 - `source_url`: URL oficial que debe citarse como respaldo jurídico;
+- `index_url`: índice oficial de origen cuando corresponde;
 - `content_path`: texto extraído para lectura rápida;
 - `references`: artículos, Oficios y Circulares detectados;
 - `sha256`: huella del contenido para detectar modificaciones;
