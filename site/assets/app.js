@@ -17,7 +17,15 @@ const els = {
 };
 
 let docs = [];
-const normalize = (s = '') => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const normalize = (s = '') => s
+  .normalize('NFD')
+  .replace(/[\u0300-\u036f]/g, '')
+  .toLowerCase()
+  .replace(/\barticulo\b/g, 'art')
+  .replace(/\bn[°ºo]\b/g, 'n')
+  .replace(/[^a-z0-9ñ]+/g, ' ')
+  .replace(/\s+/g, ' ')
+  .trim();
 const escapeHtml = (s = '') => s.replace(/[&<>'"]/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 
 function refLabel(ref) {
@@ -29,16 +37,28 @@ function refLabel(ref) {
 
 function score(doc, query) {
   if (!query) return 1;
-  const tokens = normalize(query).split(/\s+/).filter(Boolean);
+  const q = normalize(query);
+  const tokens = q.split(/\s+/).filter(Boolean);
   const title = normalize(doc.title);
   const summary = normalize(doc.summary);
+  const refs = normalize((doc.references || []).map(refLabel).join(' '));
+  const identity = normalize(`${doc.type || ''} ${doc.number || ''} ${doc.year || ''} ${doc.norm_code || ''} ${doc.article || ''}`);
   const haystack = normalize(`${doc.search_text || ''} ${(doc.categories || []).join(' ')} ${doc.norm_code || ''}`);
   let total = 0;
+
+  if (title === q || identity === q || refs === q) total += 30;
+  if (title.includes(q)) total += 16;
+  if (identity.includes(q)) total += 14;
+  if (refs.includes(q)) total += 14;
+
   for (const token of tokens) {
-    if (title.includes(token)) total += 8;
-    if (summary.includes(token)) total += 4;
-    if (haystack.includes(token)) total += 1;
-    else return 0;
+    let matched = false;
+    if (identity.includes(token)) { total += 12; matched = true; }
+    if (refs.includes(token)) { total += 10; matched = true; }
+    if (title.includes(token)) { total += 8; matched = true; }
+    if (summary.includes(token)) { total += 4; matched = true; }
+    if (haystack.includes(token)) { total += 1; matched = true; }
+    if (!matched) return 0;
   }
   return total;
 }
