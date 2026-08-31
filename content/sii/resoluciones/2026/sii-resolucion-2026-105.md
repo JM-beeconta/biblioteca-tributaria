@@ -11,7 +11,7 @@
 
 ## Resumen
 
-: Subdirección de Avaluaciones Complementa y modifica nomina de Grandes Contribuyentes, establecida en la Resolucion Ex. SII N° 208, de fecha 30 de diciembre de 2025. Fuente: Subdireccion de grandes contribuyentes
+Fuente: Sub Direccion de Avaluaciones Complementa y modifica nomina de Grandes Contribuyentes, establecida en la Resolucion Ex. SII N° 208, de fecha 30 de diciembre de 2025. Fuente: Subdireccion de grandes contribuyentes
 
 ## Referencias detectadas
 

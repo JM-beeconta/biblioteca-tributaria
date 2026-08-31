@@ -6,8 +6,8 @@
 - Año: 2025
 - Fecha: 2025-06-19
 - Categoría: Otras Normas
-- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1155-19%2F06%2F2025.pdf&extension=pdf&acc=download&id=d9c17b65-5c68-4b5d-a68e-680537478140&mediaType=application%2Fpdf
-- Hash SHA-256: 5587e664f44c45cae77f47b4da179dedc9e7e4b44679bd12734cc06868a047ae
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1155-19%2F06%2F2025.pdf&extension=pdf&acc=download&id=7021816f-74fe-4412-91a4-adb8cc639908&mediaType=application%2Fpdf
+- Hash SHA-256: 0eb0b4f7317ebba7b2f97286e1af441352f954210980d76838f6b7f0a43784c8
 
 ## Resumen
 
@@ -23,7 +23,7 @@ Aplicación de la sobretasa del artículo 7° bis de la Ley sobre Impuesto Terri
 
 IMPUESTO TERRITORIAL - LEY N° 17.235 – ART. 7° BIS – CIRCULAR N° 28 DE 2020 –
         DECRETO LEY N° 3.500 DE 1980, ART. 45 - OFICIOS N° 1467 Y N° 1692 DE 2021.
-                              (ORD. N° 155 DE 19.06.2025)
+                              (ORD. N° 1155 DE 19.06.2025)
 
 Aplicación de la sobretasa del artículo 7° bis de la Ley sobre Impuesto Territorial a los bienes raíces
 en los que inviertan los fondos de pensiones.

@@ -7,11 +7,11 @@
 - Fecha: 2026-08-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso106.pdf
-- Hash SHA-256: cf5eaaa7456bbdf29b32cb5197279e1964145333e08e175014b8994e2228d910
+- Hash SHA-256: cc3def5ffc1ca0a7ab624c76d92d8613c554ba04103587ca6351d9100df07a12
 
 ## Resumen
 
-Reorganiza las unidades que conforman el departamento subdirección de avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto res. Ex. Sii n° 26 de 2022. Fuente: Subdirección de Avaluaciones
+te: Subdirección Fiscalizacion Reorganiza las unidades que conforman el Departamento de la Subdirección de Avaluaciones, establece funciones, ámbitos de competencia y deja sin efecto la Resolución Exenta SII N° 26 de 2022. Fuente: Sub Direccion de Avaluaciones
 
 ## Referencias detectadas
 
@@ -22,7 +22,7 @@ Reorganiza las unidades que conforman el departamento subdirección de avaluacio
 SUBDIRECCIÓN DE AVALUACIONES
           GE 389112
                                               REORGANIZA LAS UNIDADES QUE CONFORMAN EL
-                                              DEPARTAMENTO        SUBDIRECCIÓN          DE
+                                              DEPARTAMENTO        SUBDIRECCIÓN         DE
                                               AVALUACIONES, ESTABLECE FUNCIONES, ÁMBITOS
                                               DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SII
                                               N° 26 DE 2022.
@@ -43,11 +43,11 @@ General de la República, sobre exención del trámite de toma de razón; y
 
 
                                               CONSIDERANDO:
-                                              1º Que, de acuerdo con lo dispuesto en el artículo 3° de
+                                               1º Que, de acuerdo con lo dispuesto en el artículo 3° de
 la Ley Orgánica del Servicio de Impuestos Internos, la Dirección Nacional estará constituida por las
 Subdirecciones Fiscalización, Jurídica y Normativa y por las Subdirecciones y Departamentos que
 establezca el Director con sujeción a la planta de personal del Servicio.
-                                                2º Que, de acuerdo con lo dispuesto en las letras a), c) y
+                                                 2º Que, de acuerdo con lo dispuesto en las letras a), c) y
 ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, al Director le corresponde
 organizar, dirigir, planificar y coordinar el funcionamiento del Servicio, dictar las órdenes que estime
 necesarias o convenientes para la más expedita marcha del mismo, pudiendo además fijar y modificar
@@ -60,28 +60,28 @@ en el Departamento Subdirección de Avaluaciones.
 1991, modificada por Resolución Exenta SII N° 26, de 2022, se establecieron las dependencias
 jerárquicas, así como las atribuciones y obligaciones de los departamentos y oficinas que conforman el
 Departamento Subdirección de Avaluaciones.
-                                               5º        Que, mediante el artículo 7 de la Ley N°
-19.646, se establece la asignación de supervisión a las jefaturas las cuales se proveen de conformidad
-a lo dispuesto en la Resolución Exenta N° 2.519, de junio de 2016, “Normas sobre Jefaturas de Cuarto
+                                              5º Que, mediante el artículo 7 de la Ley N° 19.646, se
+establece la asignación de supervisión a las jefaturas las cuales se proveen de conformidad a lo
+dispuesto en la Resolución Exenta N° 2.519, de junio de 2016, “Normas sobre Jefaturas de Cuarto
 Nivel Jerárquico y Jefaturas de Oficina del Servicio de Impuestos Internos”.
 
 
-                                              6° el sistema de avalúos, la actualización del catastro de
-bienes raíces, la administración del Impuesto Territorial y las demás materias de competencia del
-Departamento Subdirección de Avaluaciones han experimentado un incremento sostenido en su
-complejidad técnica, normativa, operativa y tecnológica, lo que exige fortalecer su estructura de
-coordinación, gestión, control y respuesta institucional.
+                                            6° Que, el sistema de avalúos, la actualización del
+catastro de bienes raíces, la administración del Impuesto Territorial y las demás materias de
+competencia del Departamento Subdirección de Avaluaciones han experimentado un incremento
+sostenido en su complejidad técnica, normativa, operativa y tecnológica, lo que exige fortalecer
+su estructura de coordinación, gestión, control y respuesta institucional.
                                               7º Que, para la adecuada administración del Impuesto
 Territorial, del catastro de bienes raíces y de las demás materias de competencia del Departamento
 Subdirección de Avaluaciones, se requiere potenciar las gestiones operativas, normativas,
 tecnológicas, de actualización y valoración catastral, de análisis territorial, de gestión, de innovación y
 de relación institucional, resguardando la coordinación con las Direcciones Regionales y con las demás
 áreas del Servicio.
-                                            8º Que, en virtud de lo anterior, se hace necesario
+                                             8º Que, en virtud de lo anterior, se hace necesario
 reorganizar las unidades que conforman el Departamento Subdirección de Avaluaciones, actualizar sus
 ámbitos de competencia, así como definir y fortalecer sus funciones.
                                              SE RESUELVE:
-                                             PRIMERO: Sustitúyase el numeral 2, de la letra A, de la
+                                              PRIMERO: Sustitúyase el numeral 2, de la letra A, de la
 Resolución N° 379, de 4 de diciembre de 1991, reemplazándose los dos departamentos y cuatro
 oficinas por dos departamentos y tres oficinas, del modo siguiente:
 
@@ -103,7 +103,7 @@ cumplimiento de los planes y normas impartidas por la Dirección y la aplicació
 ámbito de sus atribuciones, sin perjuicio de las obligaciones propias del personal de su dependencia.”
 
 
-                                           SEGUNDO: Sustitúyase el numeral 2 del dispositivo I de
+                                            SEGUNDO: Sustitúyase el numeral 2 del dispositivo I de
 la Resolución Exenta N° 7.590, de 15 de noviembre de 1999, por el siguiente:
 
 
@@ -168,7 +168,7 @@ metodologías y modelos técnicos de valoración de bienes raíces, muebles y de
 tasación competa al Servicio o determine el Director, velando por la consistencia, trazabilidad,
 transparencia y reproducibilidad de los procesos de avalúo, así como la adecuada difusión de su
 información.
-                                             Para el cumplimiento de su objetivo, el Departamento
+                                              Para el cumplimiento de su objetivo, el Departamento
 tendrá las siguientes atribuciones y funciones:
 a) Desarrollar metodologías, modelos, análisis territoriales y herramientas que aseguren una
    valoración fiscal y comercial homogénea y de calidad de los bienes raíces incorporando los
@@ -212,7 +212,7 @@ Territorial, continuador del Departamento de Fiscalización del Catastro, le cor
 coordinar y controlar la actualización permanente y oportuna del catastro de bienes raíces, mediante la
 fiscalización, la gestión de riesgos, el análisis territorial avanzado, la cartografía digital y la
 interoperabilidad de la información geoespacial y de observación remota.
-                                             Para el cumplimiento de su objetivo, el Departamento
+                                              Para el cumplimiento de su objetivo, el Departamento
 tendrá las siguientes atribuciones y funciones:
 
 
@@ -284,20 +284,18 @@ d) Promover y resguardar estándares, calidad, procedimientos y modelos de infor
    levantamiento de requerimientos y certificación usuaria hasta su documentación) ante brechas
    operativas, cambios normativos o mejoras de experiencia de usuario y obsolescencia tecnológica.
 
-f)     Di
-g) Gestionar, coordinar y supervisar técnicamente la contratación de productos o servicios externos
+f) Gestionar, coordinar y supervisar técnicamente la contratación de productos o servicios externos
    necesarios para la instalación de nuevas capacidades tecnológicas u operativas del Departamento
    Subdirección de Avaluaciones.
 
-h) Administrar, supervisar y controlar los perfiles de acceso y permisos en las plataformas de
+g) Administrar, supervisar y controlar los perfiles de acceso y permisos en las plataformas de
    avaluaciones, asegurando la correcta gestión tanto para usuarios internos como externos.
 
-i) Gestionar y controlar la contratación de servicios y asesorías para el Departamento Subdirección de
+h) Gestionar y controlar la contratación de servicios y asesorías para el Departamento Subdirección de
    Avaluaciones, junto con administrar y supervisar la ejecución presupuestaria para iniciativas
    tecnológicas.
 
-
-j) Otras funciones que el Subdirector estime de su competencia.
+i) Otras funciones que el Subdirector estime de su competencia.
 
 La Oficina de Sistemas y Proyectos de Avaluaciones estará conformada por las siguientes áreas:
 ▪ Área de Gestión y Determinación de Giros (Continuadora del Área de Operaciones Sobretasa
@@ -378,13 +376,11 @@ e) Identificar y advertir tempranamente los riesgos y brechas normativas u opera
    de los proyectos, metodologías o instrucciones del Departamento Subdirección de Avaluaciones,
    proponiendo medidas de mejora y mitigación.
 
-f) .
-
-g) Gestionar, supervisar y controlar el cumplimiento de los convenios de intercambio de información y
+f) Gestionar, supervisar y controlar el cumplimiento de los convenios de intercambio de información y
    actualización catastral suscritos con entidades externas, resguardando su ejecución y coherencia
    legal e institucional.
 
-h) Otras funciones que el Subdirector estime de su competencia.
+g) Otras funciones que el Subdirector estime de su competencia.
 
                                              OCTAVO: Corresponderá al Subdirector implementar las
 medidas tendientes a organizar, supervisar y coordinar el funcionamiento de los departamentos y
@@ -415,57 +411,58 @@ Operaciones Sobretasa Bienes Inmuebles, Área de Operaciones Catastro y Contribu
 Oficina de Proyectos, contenidas en resoluciones, instrucciones u otros actos administrativos, se
 entenderán referidas a los Departamentos, Oficinas o Áreas que son continuadores de las funciones
 que no se extingan conforme a la presente resolución.
-                                                                         DÉCIMOPRIMERO: La jefatura de la anterior Oficina de
-                         Operaciones que se suprime con este acto administrativo, mantendrá sus funciones y calidad en la
-                         Oficina de Sistemas y Proyectos de Avaluaciones , percibiendo la respectiva asignación de
-                         supervisión establecida en el artículo 7 de la Ley N° 19.646, hasta que el cargo sea provisto mediante
-                         el procedimiento establecido en la Resolución Exenta N° 2.519, de junio de 2016, “Normas sobre
-                         Jefaturas de Cuarto Nivel Jerárquico y Jefaturas de Oficina del Servicio de Impuestos Internos”.
+                                                                               DÉCIMOPRIMERO: La jefatura de la anterior Oficina de
+                               Operaciones que se suprime con este acto administrativo, mantendrá sus funciones y calidad en la
+                               Oficina de Sistemas y Proyectos de Avaluaciones , percibiendo la respectiva asignación de
+                               supervisión establecida en el artículo 7 de la Ley N° 19.646, hasta que el cargo sea provisto mediante
+                               el procedimiento establecido en la Resolución Exenta N° 2.519, de junio de 2016, “Normas sobre
+                               Jefaturas de Cuarto Nivel Jerárquico y Jefaturas de Oficina del Servicio de Impuestos Internos”.
 
 
-                                                                      DÉCIMOSEGUNDO: Las jefaturas de la Oficina de
-                         Sistemas y Proyectos de Avaluaciones, de la Oficina de Procedimientos, Normativa y Relación de
-                         Avaluaciones y del Área de Determinación de Avalúos y del Área de Gestión de Riesgos Catastrales,
-                         serán provistas mediante el procedimiento establecido en la Resolución Exenta N° 2.519, de junio de
-                         2016, “Normas sobre Jefaturas de Cuarto Nivel Jerárquico y Jefaturas de Oficina del Servicio de
-                         Impuestos Internos”.
+                                                                            DÉCIMOSEGUNDO: Las jefaturas de la Oficina de
+                               Sistemas y Proyectos de Avaluaciones, de la Oficina de Procedimientos, Normativa y Relación de
+                               Avaluaciones y del Área de Determinación de Avalúos y del Área de Gestión de Riesgos Catastrales,
+                               serán provistas mediante el procedimiento establecido en la Resolución Exenta N° 2.519, de junio de
+                               2016, “Normas sobre Jefaturas de Cuarto Nivel Jerárquico y Jefaturas de Oficina del Servicio de
+                               Impuestos Internos”.
 
 
-                                                                       DÉCIMOTERCERO: Déjase sin efecto la Resolución
-                         Exenta SII N° 26, de 2022.
+                                                                             DÉCIMOTERCERO: Déjase sin efecto la Resolución
+                               Exenta SII N° 26, de 2022.
 
 
-                                                                       DÉCIMOCUARTO: La presente resolución entrará en
-                         vigencia desde la fecha de su publicación.
+                                                                             DÉCIMOCUARTO: La presente resolución entrará en
+                               vigencia desde la fecha de su publicación.
 
 
-                              ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+                                  ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 
 
 
-                                                                                                  Firmado
-                                                                                    JORGE digitalmente por
-                                                                                             JORGE RODRIGO
-                                                                                    RODRIGO TRUJILLO
-                                                                      DIRECTOR      TRUJILLO PUENTES
-                                                                                             Fecha:
-                                                                                    PUENTES 2026.08.21
-                                                                                             12:11:07 -04'00'
-CLAUDIO Firmado          PABLO      Firmado
-        digitalmente por            digitalmente por
-RODRIGO CLAUDIO
-        RODRIGO          ANDRES     PABLO ANDRES
-DUARTE DUARTE
-        RODRIGUEZ        MUÑOZ      MUÑOZ CARVAJAL
-RODRIGU Fecha:                      Fecha: 2026.08.21
+                                                                                                        Firmado
+                                                                                          JORGE digitalmente por
+                                                                                                   JORGE RODRIGO
+                                                                                          RODRIGO TRUJILLO
+                                                                            DIRECTOR                PUENTES
+                                                                                          TRUJILLO Fecha:
+                                                                                          PUENTES 2026.08.21
+                                                                                                        12:11:07 -04'00'
+                           PABLO      Firmado
+CLAUDIO Firmado
+        digitalmente por              digitalmente por
+RODRIGO RODRIGO
+        CLAUDIO            ANDRES     PABLO ANDRES
+DUARTE DUARTE                         MUÑOZ CARVAJAL
+        RODRIGUEZ
+RODRIGU Fecha:             MUÑOZ      Fecha: 2026.08.21
 EZ
         2026.08.21
         11:03:01 -04'00'
-                         CARVAJAL   10:46:00 -04'00'
+                           CARVAJAL   10:46:00 -04'00'
 
-                  CDR
-                  PMC
-                  Distribución:
-                      • Internet
-                      • Diario Oficial (extracto)
+                           CDR
+                           PMC
+                           Distribución:
+                               • Internet
+                               • Diario Oficial (extracto)
