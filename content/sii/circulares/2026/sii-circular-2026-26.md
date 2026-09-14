@@ -7,7 +7,7 @@
 - Fecha: 2026-06-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu26.pdf
-- Hash SHA-256: 898c3a671bd2d36a9290681b3081ce94acba2dee390cd82b0bccc87dfd2ca41b
+- Hash SHA-256: 9ead3c13922ffcea3a7514e6aba1ebdab96db5ff745bdc324c98c555fa967bc7
 
 ## Resumen
 

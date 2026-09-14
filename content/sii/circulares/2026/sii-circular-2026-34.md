@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalización
+: Subdirección Jurídica Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

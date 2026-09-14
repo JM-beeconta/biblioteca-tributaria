@@ -7,7 +7,7 @@
 - Fecha: 2026-08-27
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso109.pdf
-- Hash SHA-256: c94696b729140a58ba5534afb0abd8796b5e87ce9e2305554d63652566ff0a9b
+- Hash SHA-256: db648621299f22a65f8516500f72ad116b4ddc96c45aa37fcb73494cd719a8bc
 
 ## Resumen
 
@@ -71,7 +71,7 @@ considerando primero; y
 representación del Servicio de Impuestos Internos y, de este Director, en audiencia de juicio
 substanciado ante el Juzgado de Letras de San Miguel, causa RIT M- 527-2025, caratulada
 “PINOCHET/SOCIEDAD INDUSTRIAL KELDAN LIMITADA” en doña ESTEFANÍA RAMAJO
-GALLARDO, RUT N° 14.711.936-42 profesional, contrata, grado 12, de la Subdirección de
+GALLARDO, RUT N°                       profesional, contrata, grado 12, de la Subdirección de
 Administración, del Servicio de Impuestos Internos.
 
                                          2º. La delegación se extiende para efectos de absolver

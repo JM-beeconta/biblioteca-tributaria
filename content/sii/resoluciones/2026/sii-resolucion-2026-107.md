@@ -7,7 +7,7 @@
 - Fecha: 2026-08-21
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso107.pdf
-- Hash SHA-256: a2cba2d3b957e5f81ebab78307bab29d8abcb40442bd8774beb349df1f6c3401
+- Hash SHA-256: a464d53c3674ac13cad18848201a783c893e87fc308d5fb17804d3bbe88c5b1f
 
 ## Resumen
 
@@ -67,7 +67,7 @@ la audiencia fijada para absolver posiciones en el juicio señalado en el consid
                                    1°. Delégase la facultad de absolver posiciones, en
 representación del Servicio de Impuestos Internos y, de este Director, en audiencia de juicio
 substanciado ante el Juzgado de Letras del Trabajo de Puerto Montt, en causa RIT M-444-2025, en
-don PABLO EDUARDO VENEGAS MAIDANA, RUT N° 16.647.262-8, Profesional, planta, grado 13,
+don PABLO EDUARDO VENEGAS MAIDANA, RUT N°                           , Profesional, planta, grado 13,
 del Departamento de Administración y Personas de la X Dirección Regional del Servicio de
 Impuestos Internos.
 
