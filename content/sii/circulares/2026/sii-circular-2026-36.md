@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Informa tabla de cálculos de reajustes y multas para el mes de octubre 2026 Fuente: Subdirección de Fiscalización
+Fuente: Subdirección Normativa Informa tabla de cálculos de reajustes y multas para el mes de octubre 2026 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 
