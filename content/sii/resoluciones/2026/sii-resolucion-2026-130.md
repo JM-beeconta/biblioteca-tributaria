@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente
+: Subdirección de avaluaciones Autoriza a la entidad que indica para su habilitación en la plataforma de acceso único a la clave tributaria Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

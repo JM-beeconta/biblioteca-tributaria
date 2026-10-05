@@ -7,7 +7,7 @@
 - Fecha: 2026-06-18
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2026/circu26.pdf
-- Hash SHA-256: 9ead3c13922ffcea3a7514e6aba1ebdab96db5ff745bdc324c98c555fa967bc7
+- Hash SHA-256: 267277392e1880782bacfe11ad41c7f374961dd86ba7e23d43602f3fe6ea0566
 
 ## Resumen
 
@@ -26,7 +26,10 @@
 
 ## Texto extraído
 
-DEPARTAMENTO EMISOR:                             CIRCULAR N°26.-
+Dejada sin efecto por Circular N° 35, del 31 de agosto de 2026
+
+
+    DEPARTAMENTO EMISOR:                             CIRCULAR N°26.-
     Subdirección Jurídica                            373287.2026 GE
     Depto. de Asesoría Jurídica
     Of. de Gestión y Apoyo en la Jurisprudencia
@@ -42,33 +45,54 @@ DEPARTAMENTO EMISOR:                             CIRCULAR N°26.-
     Deja sin efecto Circular N°23 de 2018.
 
 
+
+
+                                                                                    o
 I         INTRODUCCIÓN
 
+
+
+
+                                                                   t
 En el Diario Oficial de 24 de octubre de 2024 se publicó la Ley N°21.713, que dicta normas para
 asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento
+
+
+
+
+                                                                ec
 económico, el progreso social y la responsabilidad fiscal (en adelante, la “Ley”), cuyo artículo 1,
 numeral 46, sustituyó el artículo 124 del Código Tributario (en adelante “CT”), que establece, en lo
 pertinente, los actos respecto de los cuales procede el reclamo ante los tribunales tributarios y
 aduaneros y, en consecuencia, los actos sobre los que se puede presentar el recurso de Reposición
 Administrativa Voluntaria (en adelante “RAV”) conforme al artículo 123 bis del CT.
 
+
+                                                    ef
 De este modo, en términos generales, el recurso RAV será también procedente en contra del avalúo
 asignado a un bien raíz en una tasación general y de los giros de impuesto territorial que se emitan
 en virtud de dicha tasación, cuando no se conformen al avalúo vigente para la propiedad respectiva,
 como, asimismo, en contra de las modificaciones individuales de avalúo de un inmueble y de los
 giros que se emitan en virtud de dichas modificaciones.
-
+                                n
 En concordancia con lo anterior, la misma disposición legal eliminó el Párrafo 1° del Título III del
 Libro Tercero del referido Código, en donde se regulaban los recursos de reposición administrativa
 que procedían en contra de esta clase de actuaciones.
+                             si
 
 Asimismo, la letra b) del numeral 45 del artículo 1 de la Ley modificó el literal e) al artículo 123 bis
 del CT, eliminando la obligatoriedad de la audiencia contemplada en dicha norma cuando el recurso
 RAV sea declarado inadmisible por resolución fundada, o cuando sea acogido completamente por
 el Servicio.
+                  a
+
 
 Finalmente, el N°8 del artículo 8 de la Ley, agregó el artículo 51 bis al Decreto con Fuerza de Ley
 N°7, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos (“LOC SII”),
+  ad
+
+
+
 disponiendo que cuando un funcionario de este Servicio deba sostener una entrevista con el
 contribuyente debe estar acompañado por otro funcionario.
 
@@ -76,9 +100,17 @@ El texto actualizado de los referidos artículos 123 bis y 124 del CT y 51 bis d
 en el anexo de la presente circular.
 
 II        INSTRUCCIONES SOBRE LA MATERIA
+ej
+
+
+
 
 En virtud de los cambios introducidos por las normas citadas, se hace necesario modificar los
 numerales 3° y 4° del Capítulo IV de la Circular N°12 de 2021.
+D
+
+
+
 
 Respecto del numeral 3° del Capítulo IV de la Circular N°12 de 2021, se modifican los acápites
 3.3. y 3.4., quedando en consecuencia de la siguiente manera:
@@ -112,34 +144,57 @@ Respecto del numeral 3° del Capítulo IV de la Circular N°12 de 2021, se modif
                ii. Aplicación errónea de las tablas de clasificación respecto del bien gravado, o de
                      una parte de él, así como la superficie de las diferentes calidades de terreno.
                iii. Errores de transcripción, de copia o de cálculo.
+
+
+
+
+                                                                           to
                iv. Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de
                      mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba
                      ser excluido de acuerdo con lo dispuesto por el artículo 8° de la Ley N°11.575.
 
          f)    Modificaciones individuales de avalúo de un inmueble y de los giros que se emitan en
+
+
+
+
+                                                                         ec
                virtud de dichas modificaciones siempre que éstos no se conformen al avalúo vigente
                para la propiedad respectiva a la fecha de la emisión del giro cuando los contribuyentes
                se consideren perjudicados por dichas modificaciones o cuando ellas fueran efectuadas
                de conformidad con lo dispuesto en el párrafo 2º del Título V de la Ley N° 17.235, sobre
                Impuesto Territorial1, y en los artículos 25 y 26 de la Ley N°15.163.
 
+
+
+                                                           ef
          Cabe tener presente que la Circular N°28 de 2020, establece que se podrá interponer el
          recurso RAV de conformidad al artículo 123 bis del CT en contra del giro de sobretasa del
          artículo 7° bis de la Ley sobre Impuesto Territorial.
 
          En estos casos, no se admitirán en la misma reclamación de la sobretasa, objeciones
          relativas al monto del avalúo fiscal de los bienes raíces considerados en el cálculo del avalúo
+                                   n
          fiscal total, asignado en un proceso general de retasación o en un proceso de modificación
          individual, salvo que la pretensión del contribuyente se funde en haberse incluido en el
          cálculo de la sobretasa un valor distinto del señalado para el bien o bienes raíces que
+                                si
+
          correspondan en dichos procesos, así como diferencias de participación en el caso de
          comunidades o copropiedades.
 
 “3.4.    Audiencia obligatoria: Tal como dispone el texto del artículo 123 bis del CT, durante la
          tramitación de la RAV deberá darse audiencia al contribuyente para que diga lo propio a sus
+                  a
+
+
          derechos y acompañe a dicha audiencia los antecedentes requeridos que sean
          estrictamente necesarios para resolver la petición. No obstante, lo anterior, no deberá darse
          esta audiencia cuando el recurso sea declarado inadmisible por resolución fundada o cuando
+  ad
+
+
+
          sea acogido completamente por el Servicio.
 
          Por lo anterior, se hace necesario modificar la Circular N°34, de 27 de junio de 2018, en el
@@ -147,10 +202,20 @@ Respecto del numeral 3° del Capítulo IV de la Circular N°12 de 2021, se modif
          obligatoria, debiendo efectuarse la convocatoria a ella dentro del plazo de cinco (5) días
          hábiles administrativos contados desde el vencimiento del término indicado para resolver la
          admisibilidad de la solicitud, en conformidad con lo dispuesto en el numeral 8.3 de la Circular
+ej
+
+
+
+
          precitada, quedando en consecuencia el referido numeral 9, del siguiente modo:
 
                  “Determinada la admisibilidad del recurso, el resolutor a cargo del caso deberá
                  convocar al contribuyente, por el medio más expedito, a una audiencia preliminar,
+D
+
+
+
+
                  telemática o presencial, obligatoria dentro del quinto día hábil administrativo, para que
                  diga lo propio a sus derechos y acompañe a dicha audiencia los antecedentes
                  requeridos que sean estrictamente necesarios para resolver la petición.
@@ -185,9 +250,17 @@ del Ministerio de Hacienda.
                             deberá efectuarse dentro del plazo de cinco (5) días hábiles administrativos contados
                             desde el vencimiento del término indicado en el numeral 8.3”.
 
+
+
+
+                                                                                     to
                       Junto a lo anterior, en el numeral 10 de la Circular, referido al Análisis de Fondo, será
                       necesario modificar lo expuesto en el párrafo primero, el cual en adelante señalará:
 
+
+
+
+                                                                                   ec
                       “Realizada la audiencia obligatoria, o certificada la no comparecencia del contribuyente a la
                       misma, el resolutor a cargo del caso procederá a analizar la pertinencia de dar lugar o no, a
                       lo pretendido por el contribuyente”.
@@ -195,13 +268,17 @@ del Ministerio de Hacienda.
                       Se elimina además el tercer párrafo del numeral 10 de la Circular, relacionado con la
                       inadmisibilidad probatoria.
 
+
+                      Cierre”, por el siguiente:                   ef
                       Se reemplaza la instrucción del numeral 10.2 de la Circular, relativo a la “Audiencia de
-                      Cierre”, por el siguiente:
+
 
                       “No será necesario realizar una Audiencia de Cierre, sino cuando el Jefe del Departamento,
                       Oficina o Subdirección a cargo así lo estime necesario.” Lo anterior, porque existiendo una
+                                            n
                       audiencia obligatoria, ya no será indispensable realizar otra, sino cuando el Jefe del
                       Departamento, Oficina o Subdirección a cargo lo estime necesario.”
+                                         si
 
   Respecto del numeral 4° del Capítulo IV de la Circular N°12 de 2021: Se elimina el párrafo final
   del acápite 4.1., quedando en consecuencia del siguiente modo:
@@ -209,8 +286,13 @@ del Ministerio de Hacienda.
   “4.1.               Ámbito de aplicación del Recurso Jerárquico: En virtud de lo dispuesto en el artículo 6
                       letra A N°7 del CT, el Recurso Jerárquico sólo procede en contra de la resolución que
                       resuelve la RAV, y debe ser interpuesto ante el/la Director(a) del Servicio.”
+                             a
+
 
   III                 DEJA SIN EFECTO CIRCULARES QUE INDICA
+  ad
+
+
 
   Se deja sin efecto desde esta fecha la Circular N°23 del año 2018, que actualizaba instrucciones
   respecto del recurso de reposición de la resolución que fija el avalúo de un bien raíz, que formulen
@@ -218,9 +300,17 @@ del Ministerio de Hacienda.
   individual.
 
   IV                  VIGENCIA
+ej
+
+
+
 
   La presente Circular entrará en vigencia a contar del primer día del mes siguiente de su publicación
   en el Diario Oficial.
+D
+
+
+
 
                                                       CAROLINA Firmado
                                                                digitalmente por
@@ -266,23 +356,36 @@ refiere el artículo 124, con las siguientes modificaciones:
    b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que
    se pronuncia sobre ella dentro del plazo de noventa días contado desde su presentación.
 
+
+
+
+                                                                 to
    c) La presentación de la reposición suspenderá el plazo para la interposición de la reclamación
    judicial contemplada en el artículo siguiente.
 
+
+
+
+                                                               ec
    d) El Director Regional podrá delegar la facultad de conocer y resolver las reposiciones
    administrativas a que se refiere este artículo en los funcionarios que determine, incluyendo la
    facultad de corregir de oficio o a petición de parte los vicios o errores manifiestos en que haya
    incurrido el acto impugnado.
 
    La resolución que se pronuncie sobre la reposición administrativa podrá disponer la condonación
+
+
+                                                   ef
    de multas e intereses, de acuerdo con las políticas de condonación fijadas conforme al artículo
    207.
 
    e) Durante la tramitación de la reposición administrativa deberá darse audiencia al contribuyente
    para que diga lo propio a sus derechos y acompañe a dicha audiencia los antecedentes
    requeridos que sean estrictamente necesarios para resolver la petición. No deberá darse esta
+                               n
    audiencia cuando el recurso sea declarado inadmisible por resolución fundada o cuando
    sea acogido completamente por el Servicio.
+                            si
 
    f) La prueba rendida deberá apreciarse fundadamente.
 
@@ -290,19 +393,35 @@ No serán procedentes en contra de las actuaciones a que se refiere el inciso pr
 jerárquico y extraordinario de revisión.
 
 Los plazos a que se refiere este artículo se regularán por lo señalado en la ley Nº 19.880.
+               a
+
 
 Artículo 124 del CT. Toda persona podrá reclamar de la totalidad o de algunas de las partidas
 o elementos de una liquidación, giro, pago o resolución que incida en el pago de un impuesto
+  ad
+
+
+
 o en los elementos que sirvan de base para determinarlo. En los casos en que haya liquidación
 y giro, no podrá reclamarse de éste, salvo que dicho giro no se conforme con la liquidación
 que le haya servido de antecedente.
 
 Asimismo, podrá reclamar del avalúo asignado a un bien raíz en una tasación general, y de
 los giros de impuesto territorial que se emitan en virtud de dicha tasación cuando éstos no
+ej
+
+
+
+
 se conformen al avalúo vigente para la propiedad respectiva a la fecha de la emisión del giro,
 siempre que se fundamente en alguna de las siguientes causales:
 
    1. Determinación errónea de la superficie de los terrenos o de algún otro factor que
+D
+
+
+
+
    influya en su avalúo fiscal o sus construcciones.
 
    2. Aplicación errónea de las tablas de clasificación respecto del bien gravado, o de una
@@ -336,10 +455,20 @@ notificación correspondiente o, en el caso al que se refiere el inciso tercero,
 del aviso respectivo. Con todo, dicho plazo fatal se ampliará a un año cuando el contribuyente,
 de conformidad con lo dispuesto en el inciso tercero del artículo 24, pague la suma
 determinada por el Servicio dentro del plazo de noventa días, contado desde la notificación
+
+
+
+
+                                                              to
 correspondiente.
 
 El plazo para la interposición del reclamo, en virtud de lo dispuesto en el inciso segundo, será
 dentro de los ciento ochenta días siguientes a la fecha de término de exhibición de los roles
+
+
+
+
+                                                            ec
 de avalúo. Si no pudieran aplicarse las reglas precedentes sobre computación de plazos,
 éstos se contarán desde la fecha de la resolución, acto o hecho en que la reclamación se
 funde.
@@ -347,6 +476,14 @@ funde.
 La resolución que califica las declaraciones, documentos, libros o antecedentes como no
 fidedignos conforme al inciso segundo del artículo 21 será reclamable conjuntamente con la
 resolución, liquidación o giro en que incida.
+
+                                                ef
+                             n
+                          si
+               a
+  ad
+ej
+D
 
 
 
