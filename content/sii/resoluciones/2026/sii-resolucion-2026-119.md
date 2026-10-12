@@ -7,7 +7,7 @@
 - Fecha: 2026-09-03
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso119.pdf
-- Hash SHA-256: a6146b3fb6399bf9059ed98e65c81112abd5991663ba302cec4acda6e2759f70
+- Hash SHA-256: eaecf684d48821087ec59fd000cc8a5873c998b806a17a5ce49fc18890a39b27
 
 ## Resumen
 
@@ -64,11 +64,11 @@ considerando primero; y
 
                                         SE RESUELVE:
 
-                                     1°. Delégase la facultad de absolver posiciones, en
+                                      1°. Delégase la facultad de absolver posiciones, en
 representación del Servicio de Impuestos Internos y, de este Director, en audiencia de juicio
 substanciado ante el 1° Juzgado de Letras del Trabajo de Santiago, causa RIT O-5232-2025,
 caratulada “VIDAL/ASLI PRO LIMITADA”, en doña ESTEFANÍA RAMAJO GALLARDO, RUT
-N° 14.711.936-4, profesional, contrata, grado 12, de la Subdirección de Administración, del
+N°              , profesional, contrata, grado 12, de la Subdirección de Administración, del
 Servicio de Impuestos Internos.
 
                                          2º. La delegación se extiende para efectos de absolver

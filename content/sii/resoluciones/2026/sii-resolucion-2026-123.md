@@ -7,7 +7,7 @@
 - Fecha: 2026-09-10
 - Categoría: Resoluciones
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso123.pdf
-- Hash SHA-256: 11f998b41f30ccfb9be1a1bd31dbe112c40ded451478664efb7bbe8f499b7388
+- Hash SHA-256: d859eb9f67433673961781a111727d1187efd05bc2ec7c78485e8b4bbc6e90d8
 
 ## Resumen
 
@@ -66,7 +66,7 @@ la audiencia fijada para absolver posiciones en el juicio señalado en el consid
                                         1°. Delégase la facultad de absolver posiciones, en
 representación del Servicio de Impuestos Internos y, de este Director, en audiencia de juicio
 substanciado ante el Juzgado de Letras del Trabajo de Puerto Montt, en causa RIT M- 489-2025,
-caratulada “CASTRO/ASEDO LTDA”, en don Pablo Venegas Maidana, RUT N° 16.647.262-8,
+caratulada “CASTRO/ASEDO LTDA”, en don Pablo Venegas Maidana, RUT N°                               ,
 Profesional, planta, grado 14, de la X Dirección Regional de Puerto Montt, del Servicio de Impuestos
 Internos.
 

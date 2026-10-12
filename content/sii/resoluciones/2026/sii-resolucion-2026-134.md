@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Autoriza el envío de información de guía aérea courier en reemplazo de la guía de despacho. Fuente: Subdirección Fiscalización
+dirección Fiscalización Autoriza el envío de información de guía aérea courier en reemplazo de la guía de despacho. Fuente: Subdirección Fiscalización
 
 ## Referencias detectadas
 
