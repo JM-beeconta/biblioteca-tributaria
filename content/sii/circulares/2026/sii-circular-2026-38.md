@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2026 y el 9 de octubre de 2026, ambos inclusive. Fuente: Subdirección Normativa
+Fuente: Subdirección Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2026 y el 9 de octubre de 2026, ambos inclusive. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

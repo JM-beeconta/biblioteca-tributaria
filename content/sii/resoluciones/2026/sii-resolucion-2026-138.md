@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Aprueba convenio de colaboración entre el servicio de impuestos internos y el instituto chileno de derecho tributario. Fuente: Subdirección de Asistencia al Contribuyente
+cute;n de Asistencia al Contribuyente Aprueba convenio de colaboración entre el servicio de impuestos internos y el instituto chileno de derecho tributario. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 
