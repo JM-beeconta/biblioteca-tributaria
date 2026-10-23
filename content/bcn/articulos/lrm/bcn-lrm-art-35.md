@@ -1,0 +1,41 @@
+# Artículo 35 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 35
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 6126f9405275b5460ee8efa491e5c90077eb0cb4d092b2cf0f853fbf099ae67d
+
+## Resumen
+
+Artículo 35.- El aporte fiscal al Fondo Común LEY 20033 Art. 4º Nº 9 D.O. 01.07.2005 Municipal estará constituido por: a) El impuesto territorial de los inmuebles fiscales afectos a dicho impuesto, según se determina en el Cuadro NOTA: Anexo de la ley Nº 17.235, sobre Impuesto Territorial. El giro del impuesto territorial de los inmuebles referidos, se enterará íntegramente a dicho Fondo Común. b) El aporte anual en pesos, equivalente a Ley 21591 Art. 17 N° 1 a) D.O. 10.08.2023 1.052.000 unidades tributarias mensu…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 35.- El aporte fiscal al Fondo Común LEY 20033
+Art. 4º Nº 9
+D.O. 01.07.2005 Municipal estará constituido por:
+a) El impuesto territorial de los inmuebles fiscales afectos a dicho impuesto, según se determina en el Cuadro NOTA:
+Anexo de la ley Nº 17.235, sobre Impuesto Territorial. El giro del impuesto territorial de los inmuebles referidos, se enterará íntegramente a dicho Fondo Común.
+b) El aporte anual en pesos, equivalente a Ley 21591
+Art. 17 N° 1 a)
+D.O. 10.08.2023 1.052.000 unidades tributarias mensuales, que contempla el Nº 5 del artículo 14 de la ley Nº 18.695, Orgánica Constitucional de Municipalidades.
+c) El Ley 21591
+Art. 17 N° 1 b)
+D.O. 10.08.2023 aporte adicional que consulte anualmente la Ley de Presupuestos del Sector Público a favor de aquellas comunas pertenecientes a regiones mineras donde se ubiquen las siguientes actividades asociadas a explotadores mineros sujetos al Royalty Minero: refinerías; fundiciones; yacimientos y depósitos de relaves activos que puedan generar un impacto significativo sobre la salud de la población, según determine el reglamento del Fondo Común Municipal. Además, será destinado a comunas pertenecientes a regiones mineras donde se ubiquen relaves abandonados de carácter prioritario por encontrarse cercanos a la población y que tengan el potencial de generar un impacto significativo sobre la salud de ésta; o puertos cuya actividad esté asociada mayoritariamente a la actividad minera, ambos según determine el reglamento del Fondo Común Municipal.
+Para estos efectos, se entenderá por regiones mineras aquellas cuyo producto interno bruto minero regional, excluyendo la minería de petróleo y gas natural, represente más de un 2,5% del producto interno bruto minero nacional y de su producto interno bruto regional.
+d) Un aporte fiscal cuyo monto será equivalente en pesos a 2.500.000 unidades tributarias mensuales a favor de aquellas comunas que presenten una mayor dependencia del Fondo Común Municipal o pertenezcan al grupo con menos ingresos propios a nivel nacional.
+
+Los Ley 21591
+Art. 17 N° 1 c)
+D.O. 10.08.2023 aportes a que refiere este artículo serán de libre disposición y podrán utilizarse sin límites temporales.
+
+NOTA:
+La letra d) del artículo 1º Transitorio de la LEY 20033, publicada el 01.07.2005, dispone que la letra "a)" de este artículo regirá a contar del 1 de enero de 2006. Para completar el financiamiento requerido para los efectos de lo dispuesto en la letra b), durante el año 2005, el Ministerio de Hacienda podrá efectuar traspasos entre partidas.

@@ -1,0 +1,27 @@
+# Artículo 43 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 43
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 13843346c65b5f3d7a4cbaf85476c44686466eb75fe8bc4c8dd327b35fba9ef2
+
+## Resumen
+
+Artículo 43.- Son rentas varias de las municipalidades todos aquellos ingresos ordinarios de las mismas no especificados especialmente, y entre otros, los que siguen: 1.- La parte correspondiente a las municipalidades de las multas y pagos por conmutaciones de penas; 2.- Intereses sobre fondos de propiedad municipal; 3.- Precio de las especies encontradas o decomisadas, o de animales aparecidos y no reclamados por sus dueños. El plazo para reclamar las especies encontradas o los animales aparecidos será de un mes,…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 43.- Son rentas varias de las municipalidades todos aquellos ingresos ordinarios de las mismas no especificados especialmente, y entre otros, los que siguen:
+1.- La parte correspondiente a las municipalidades de las multas y pagos por conmutaciones de penas;
+2.- Intereses sobre fondos de propiedad municipal;
+3.- Precio de las especies encontradas o decomisadas, o de animales aparecidos y no reclamados por sus dueños.
+El plazo para reclamar las especies encontradas o los animales aparecidos será de un mes, contado desde la fecha en que hubieren llegado a poder de la municipalidad.
+Si dentro de los seis meses siguientes a la fecha del remate el dueño de la especie perdida o del animal aparecido los reclamare, la municipalidad estará obligada a entregarle el valor que hubiere obtenido en el remate, deducidos los gastos ocasionados.

@@ -1,0 +1,22 @@
+# Artículo 2 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 2
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: d8f4e287a9bc2ecc51246a5e963a4f21d20f133f44490b7c5feaa59e48c8bc2e
+
+## Resumen
+
+Artículo 2°.- La tasa de la patente a que se refiere el artículo 24.- será de un cinco por mil durante 1980, y hasta tanto las respectivas municipalidades no hagan uso de la facultad que les concede el último inciso de dicho artículo.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 2°.- La tasa de la patente a que se refiere el artículo 24.- será de un cinco por mil durante 1980, y hasta tanto las respectivas municipalidades no hagan uso de la facultad que les concede el último inciso de dicho artículo.

@@ -1,0 +1,26 @@
+# Artículo 11 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 11
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: e9c1896ee23401f6fde1c8eb476032d4a28efe5f6af09d34b4fe0a3847e5ebfb
+
+## Resumen
+
+Artículo 11.- Las municipalidades fijarán la cuantía de los derechos que corresponda cobrar por la prestación de servicios a que se refiere el artículo 5°.- de esta ley, siempre que no se encuentre determinada expresamente en normas especiales, y sin perjuicio de lo dispuesto en los artículos 41.- y 42.-. Las normas sobre procedimiento de aprobación y publicidad establecidas en el artículo 42.- serán igualmente aplicables respecto de la fijación de los derechos a que se alude en el presente artículo. TITULO IV De…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 11.- Las municipalidades fijarán la cuantía de los derechos que corresponda cobrar por la prestación de servicios a que se refiere el artículo 5°.- de esta ley, siempre que no se encuentre determinada expresamente en normas especiales, y sin perjuicio de lo dispuesto en los artículos 41.- y 42.-.
+Las normas sobre procedimiento de aprobación y publicidad establecidas en el artículo 42.- serán igualmente aplicables respecto de la fijación de los derechos a que se alude en el presente artículo.
+
+TITULO IV
+De los impuestos municipales

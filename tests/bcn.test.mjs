@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { crawlBcn, CORE_NORMS, textFromLeyChileJsonForTests, versionsFromMetadatosForTests } from '../lib/bcn.mjs';
+import { crawlBcn, CORE_NORMS, PINNED_LAWS, futureVersionsFromMetadatosForTests, splitArticlesForTests, textFromLeyChileJsonForTests, versionsFromMetadatosForTests } from '../lib/bcn.mjs';
 
 function fakeResponse({ status = 200, contentType = 'application/json; charset=utf-8', body }) {
   const text = typeof body === 'string' ? body : JSON.stringify(body);
@@ -154,4 +154,146 @@ test('crawlBcn con includeHistory trae versiones cerradas y no reconsulta la vig
     const versionDoc = historical.find((d) => d.valid_from === '2000-01-01');
     assert.equal(versionDoc.valid_to, '2025-12-31');
   });
+});
+
+test('versionsFromMetadatos deja fuera las versiones que todavía no rigen, aunque estén cerradas', () => {
+  const metadatos = {
+    vigencias: [
+      { desde: '2029-01-01', hasta: '' },
+      { desde: '2027-01-01', hasta: '2028-12-31' },
+      { desde: '2026-11-01', hasta: '2026-12-31' },
+      { desde: '2026-03-27', hasta: '2026-10-31' },
+      { desde: '2025-07-11', hasta: '2026-03-26' },
+    ],
+  };
+  assert.deepEqual(versionsFromMetadatosForTests(metadatos, '2026-10-23'), [
+    { from: '2025-07-11', to: '2026-03-26' },
+    { from: '2026-03-27', to: '2026-10-31' },
+  ]);
+  assert.deepEqual(futureVersionsFromMetadatosForTests(metadatos, '2026-10-23'), [
+    { from: '2026-11-01', to: '2026-12-31', byEvent: false },
+    { from: '2027-01-01', to: '2028-12-31', byEvent: false },
+    { from: '2029-01-01', to: null, byEvent: false },
+  ]);
+});
+
+test('la fecha 2222-02-02 de LeyChile se trata como vigencia diferida por evento, no como fecha real', () => {
+  const future = futureVersionsFromMetadatosForTests({
+    vigencias: [
+      { desde: '2222-02-02', hasta: '' },
+      { desde: '2026-03-05', hasta: '2222-02-01' },
+    ],
+  }, '2026-10-23');
+  assert.deepEqual(future, [{ from: '2222-02-02', to: null, byEvent: true }]);
+  // La vigente "hasta el evento" no es historia: sigue rigiendo y la cubre la consulta sin idVersion.
+  assert.deepEqual(versionsFromMetadatosForTests({ vigencias: [{ desde: '2026-03-05', hasta: '2222-02-01' }] }, '2026-10-23'), []);
+});
+
+test('splitArticles reconoce "Art. 1°" sólo en normas marcadas (Ley 16.271)', () => {
+  const text = 'Art. 1° Las asignaciones por causa de muerte.\nArt. 2° Para los efectos de esta ley se entiende.\nArtículo 3° Texto de un artículo con encabezado completo.';
+  assert.deepEqual(splitArticlesForTests(text, { abbreviated: true }).map((a) => a.number), ['1', '2', '3']);
+  assert.deepEqual(splitArticlesForTests(text).map((a) => a.number), ['3']);
+});
+
+test('crawlBcn indexa por artículo las versiones con vigencia diferida y omite las idénticas a la vigente', async () => {
+  const requestedVersions = [];
+  await withFetchMock(async (url) => {
+    const parsed = new URL(url);
+    const idVersion = parsed.searchParams.get('idVersion');
+    requestedVersions.push(idVersion);
+    const idNorma = parsed.searchParams.get('idNorma');
+    // 2029-01-01 devuelve el mismo texto que la vigente: no debe duplicarse.
+    const variant = idVersion === '2026-11-01' ? 'reforma' : 'vigente';
+    return fakeResponse({
+      body: {
+        html: validNormaHtml(TEN_ARTICLES, variant),
+        metadatos: {
+          id_norma: idNorma,
+          vigencia: { inicio_vigencia: '2026-03-27', fin_vigencia: '2026-10-31' },
+          vigencias: [
+            { desde: '2029-01-01', hasta: '' },
+            { desde: '2026-11-01', hasta: '2028-12-31' },
+            { desde: '2026-03-27', hasta: '2026-10-31' },
+          ],
+        },
+      },
+    });
+  }, async () => {
+    const docs = [];
+    const coverage = await crawlBcn({ log: () => {}, now: new Date('2026-10-23T12:00:00'), onDocument: async (doc) => docs.push(doc) });
+    assert.ok(requestedVersions.includes('2026-11-01'));
+    assert.ok(!requestedVersions.includes('2026-03-27'), 'la vigente no se reconsulta por fecha');
+    const futureNorm = docs.find((d) => d.id === 'bcn-lir-v-2026-11-01');
+    assert.ok(futureNorm, 'la versión diferida de la LIR debe existir');
+    assert.equal(futureNorm.future_version, true);
+    assert.equal(futureNorm.valid_from, '2026-11-01');
+    assert.equal(futureNorm.valid_to, '2028-12-31');
+    assert.ok(docs.some((d) => d.id === 'bcn-lir-v-2026-11-01-art-1' && d.type === 'articulo' && d.future_version));
+    assert.ok(!docs.some((d) => d.id === 'bcn-lir-v-2029-01-01'), 'texto idéntico a la vigente no se duplica');
+    const current = docs.find((d) => d.id === 'bcn-lir');
+    assert.equal(current.valid_from, '2026-03-27');
+    assert.equal(current.valid_to, '2026-10-31');
+    assert.deepEqual(coverage.base.find((b) => b.code === 'LIR').future_stored, ['2026-11-01']);
+  });
+});
+
+test('crawlBcn con includeModifiers guarda cada norma modificatoria completa y reporta las que faltan', async () => {
+  const LEY = 1229250;
+  const FAILING = 999001;
+  await withFetchMock(async (url) => {
+    const parsed = new URL(url);
+    const idNorma = parsed.searchParams.get('idNorma');
+    if (parsed.pathname.endsWith('/Vinculaciones/get_vinculaciones')) {
+      const aciertos = idNorma === String(CORE_NORMS[0].idNorma)
+        ? [
+          { IDNORMA: String(LEY), NORMA: 'Ley 21850', FECHA_VIGENCIA: '2026-11-01' },
+          { IDNORMA: String(LEY), NORMA: 'Ley 21850', FECHA_VIGENCIA: '2027-01-01' },
+          { IDNORMA: String(FAILING), NORMA: 'Decreto 75 EXENTO', FECHA_VIGENCIA: '2025-01-01' },
+        ]
+        : [{ IDNORMA: String(LEY), NORMA: 'Ley 21850', FECHA_VIGENCIA: '2026-11-01' }];
+      return fakeResponse({ body: { cantidadAciertos: aciertos.length, aciertos } });
+    }
+    if (idNorma === String(FAILING)) return fakeResponse({ status: 500, body: 'error' });
+    if (idNorma === String(LEY)) {
+      // Una ley corta (un artículo) debe aceptarse: el piso de 10 artículos es sólo para normas base.
+      return fakeResponse({
+        body: {
+          html: [{ t: `<div>Artículo 1.- ${'Modifícase la ley sobre impuesto a la renta en el sentido que indica. '.repeat(6)}</div>` }],
+          metadatos: {
+            id_norma: idNorma, fecha_publicacion: '2026-10-17', titulo_norma: 'PARA LA RECONSTRUCCIÓN NACIONAL',
+            tipos_numeros: [{ descripcion: 'Ley', numero: '21850', compuesto: 'Ley-21850' }],
+          },
+        },
+      });
+    }
+    return fakeResponse({ body: { html: validNormaHtml(TEN_ARTICLES), metadatos: { id_norma: idNorma, vigencias: [] } } });
+  }, async () => {
+    const docs = [];
+    const coverage = await crawlBcn({ includeModifiers: true, log: () => {}, onDocument: async (doc) => docs.push(doc) });
+    const ley = docs.find((d) => d.type === 'norma' && d.norm_code === 'LEY-21850');
+    assert.ok(ley, 'la Ley 21.850 debe guardarse como norma propia');
+    assert.equal(ley.id, `bcn-ley-21850-${LEY}`);
+    assert.equal(ley.norm_kind, 'modificatoria');
+    assert.equal(ley.date, '2026-10-17');
+    assert.equal(ley.year, 2026);
+    assert.deepEqual(ley.categories, ['Leyes modificatorias']);
+    assert.ok(ley.modifies.includes('LIR') && ley.modifies.includes('LIVS'));
+    assert.deepEqual(ley.effective_dates, ['2026-11-01', '2027-01-01']);
+    assert.ok(docs.some((d) => d.type === 'articulo' && d.norm_code === 'LEY-21850'));
+    assert.equal(docs.filter((d) => d.type === 'norma' && d.norm_code === 'LEY-21850').length, 1, 'se guarda una vez aunque modifique varias normas');
+    assert.deepEqual(coverage.missing.map((m) => m.idNorma), [FAILING]);
+    assert.equal(coverage.modifiers_stored, coverage.modifiers_expected - 1);
+    assert.equal(coverage.modifiers_expected, 2 + PINNED_LAWS.length - 1);
+  });
+});
+
+test('splitArticles separa los transitorios escritos con palabras sin partir citas en el texto', () => {
+  const text = [
+    'Artículo 34.- Texto permanente que modifica el artículo primero del decreto ley N° 824.',
+    'Disposiciones Transitorias',
+    'Artículo primero transitorio.- Las donaciones que se encuentren afectas al impuesto.',
+    'Artículo décimo tercero transitorio.- Facúltase a la Tesorería General de la República.',
+    'Artículo único.- Texto de una ley de artículo único con largo suficiente.',
+  ].join('\n');
+  assert.deepEqual(splitArticlesForTests(text).map((a) => a.number), ['34', 'primero transitorio', 'décimo tercero transitorio', 'único']);
 });

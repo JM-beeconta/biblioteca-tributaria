@@ -1,0 +1,22 @@
+# Artículo 1 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 1
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: c638bd366ec6a727ec397838cbffd27710a6b4034386d859b65c11a0f16f2561
+
+## Resumen
+
+Artículo 1°.- No obstante lo expuesto en el artículo 4°.- de la presente ley, las concesiones de las termas medicinales vigentes al 1° de enero de 1980 a que se refiere dicha disposición legal no sufrirán modificaciones respecto de los términos en que fueron otorgadas. Sin embargo, las municipalidades quedan expresamente facultadas para convenir con los actuales concesionarios su modificación a fin de adecuar sus términos a lo expuesto en el artículo 4°.-
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 1°.- No obstante lo expuesto en el artículo 4°.- de la presente ley, las concesiones de las termas medicinales vigentes al 1° de enero de 1980 a que se refiere dicha disposición legal no sufrirán modificaciones respecto de los términos en que fueron otorgadas. Sin embargo, las municipalidades quedan expresamente facultadas para convenir con los actuales concesionarios su modificación a fin de adecuar sus términos a lo expuesto en el artículo 4°.-

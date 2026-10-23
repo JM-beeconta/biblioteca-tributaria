@@ -1,0 +1,25 @@
+# Artículo 37 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 37
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: a73a0eb728fa51c91f13f31c2056680ef8c4f1291d82eabfc6107f5ea71a2306
+
+## Resumen
+
+Artículo 37.- Las municipalidades percibirán el rendimiento total del impuesto territorial. Constituirá ingreso propio de cada municipalidad el cuarenta por ciento de dicho impuesto de la comuna respectiva, salvo las municipalidades de Santiago, LEY 19704 Art. 2º Nº 8 a) D.O. 28.12.2000 Providencia, Las Condes y Vitacura, en que el referido ingreso propio será de un treinta y cinco por ciento.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 37.- Las municipalidades percibirán el rendimiento total del impuesto territorial.
+Constituirá ingreso propio de cada municipalidad el cuarenta por ciento de dicho impuesto de la comuna respectiva, salvo las municipalidades de Santiago, LEY 19704
+Art. 2º Nº 8 a)
+D.O. 28.12.2000 Providencia, Las Condes y Vitacura, en que el referido ingreso propio será de un treinta y cinco por ciento.

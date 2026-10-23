@@ -57,7 +57,7 @@ if (fromArg && toArg) {
 
 console.log(`Modo: ${mode}`);
 if (!skipSii) console.log(`Años SII: ${years.at(-1)}-${years[0]}`);
-if (!skipBcn) await crawlBcn({ onDocument });
+const bcnCoverage = skipBcn ? null : await crawlBcn({ onDocument, includeModifiers: true });
 if (!skipSii) await crawlSii({ years, onDocument });
 
 const { documents, touched } = mergeDocuments(existing, collected);
@@ -66,6 +66,7 @@ await writeLibraryData(ROOT, documents, {
   years,
   touched_documents: touched.size,
   last_scrape_at: new Date().toISOString(),
+  ...(bcnCoverage ? { bcn_coverage: bcnCoverage } : {}),
 });
 
 console.log(`Documentos totales: ${documents.length}`);

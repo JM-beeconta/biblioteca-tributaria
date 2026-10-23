@@ -1,0 +1,24 @@
+# Artículo 5 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 5
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 7e75478d44e1935ef1f3ec1ed1c65fb333c4f0ced6153d5b6bda7bd5fbe03fe6
+
+## Resumen
+
+Artículo 5°.- La primera aplicación de la nueva distribución del Fondo Común Municipal se efectuará de acuerdo al siguiente procedimiento: a) La distribución del 90% del Fondo Común Municipal, comenzará a regir a contar del 1° de julio de 1995 y, por única vez, por un período de tres años y medio a contar de dicha fecha, esto es, con vigencia hasta el 31 de diciembre de 1998. b) La distribución del 10% del Fondo Común Municipal, comenzará a regir a contar del 1° de julio de 1995 y, por única vez, por un período de…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 5°.- La primera aplicación de la nueva distribución del Fondo Común Municipal se efectuará de acuerdo al siguiente procedimiento:
+a) La distribución del 90% del Fondo Común Municipal, comenzará a regir a contar del 1° de julio de 1995 y, por única vez, por un período de tres años y medio a contar de dicha fecha, esto es, con vigencia hasta el 31 de diciembre de 1998.
+b) La distribución del 10% del Fondo Común Municipal, comenzará a regir a contar del 1° de julio de 1995 y, por única vez, por un período de seis meses a contar de dicha fecha, esto es, con vigencia hasta el 31 de diciembre de 1995.
