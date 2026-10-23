@@ -1,0 +1,25 @@
+# Artículo 21 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 21
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: dfb5e95761c6e61f0cb516b7fa727f9ad1f5a1d110b5b7c4b0cc6c0b8b2d96a1
+
+## Resumen
+
+Artículo 21.- Las municipalidades llevarán un registro de permisos de circulación, el que será reglamentado por decreto del Ministerio del Interior. Los impuestos por permisos de circulación se pagarán por el dueño de los vehículos en la municipalidad de su elección previo cambio, cuando proceda, de la inscripción en el registro a que se refiere el inciso anterior; y sin perjuicio de las reglas especiales establecidas en los regímenes tributarios de excepción. El cambio de inscripción deberá solicitarse en la muni…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 21.- Las municipalidades llevarán un registro de permisos de circulación, el que será reglamentado por decreto del Ministerio del Interior.
+Los impuestos por permisos de circulación se pagarán por el dueño de los vehículos en la municipalidad de su elección previo cambio, cuando proceda, de la inscripción en el registro a que se refiere el inciso anterior; y sin perjuicio de las reglas especiales establecidas en los regímenes tributarios de excepción. El cambio de inscripción deberá solicitarse en la municipalidad en que se pague el permiso de circulación.
+El permiso de circulación otorgado por una determinada municipalidad, habilitará al vehículo para transitar en todo el territorio nacional.
+Sólo para los efectos de control, el propietario del vehículo deberá declarar bajo juramento en la municipalidad donde obtenga el permiso respectivo, el lugar de su morada. Si con posterioridad trasladare su morada a otro lugar, estará obligado a dar cuenta de dicho hecho a la municipalidad donde obtuvo el permiso, dentro del plazo de treinta días, contados desde el cambio de morada.

@@ -2,7 +2,7 @@
 
 Biblioteca pública de fuentes tributarias chilenas para consulta humana y por agentes.
 
-- **BCN / LeyChile:** Ley sobre Impuesto a la Renta (DL 824), Ley sobre Impuesto a las Ventas y Servicios (DL 825) y Código Tributario (DL 830), con artículos individualizados.
+- **BCN / LeyChile:** Ley sobre Impuesto a la Renta (DL 824), Ley sobre Impuesto a las Ventas y Servicios (DL 825), Código Tributario (DL 830), Timbres y Estampillas (DL 3.475), Herencias y Donaciones (Ley 16.271), Reglamento del IVA (DS 55) y Rentas Municipales (DL 3.063), con artículos individualizados, versiones con vigencia diferida y el texto completo de cada norma que las modifica.
 - **SII:** Circulares, Jurisprudencia Administrativa (Oficios) en Renta, IVA y Otras Normas, y Resoluciones Exentas (desde 2013).
 
 **Sitio:** https://jm-beeconta.github.io/biblioteca-tributaria/
@@ -54,7 +54,13 @@ Para páginas históricas mantiene fallback a los índices HTML antiguos del SII
 
 ## BCN / LeyChile
 
-El crawler lee la vista oficial consolidada `leychile/navegar?idNorma=...` y separa LIR, LIVS y Código Tributario por artículo. Una validación de contenido impide reemplazar una norma correcta por la pantalla intermedia de carga de LeyChile.
+El crawler lee la vista oficial consolidada `leychile/navegar?idNorma=...` y separa cada norma base por artículo. Una validación de contenido impide reemplazar una norma correcta por la pantalla intermedia de carga de LeyChile.
+
+Cada corrida, además:
+
+- **Versiones con vigencia diferida:** guarda, completas y por artículo, las versiones que LeyChile ya publicó pero que rigen desde una fecha futura (p.ej. la LIR con la Ley 21.850 desde el 1-11-2026). Llevan `future_version: true` y `valid_from`; la ficha muestra "Rige desde …". Las versiones "por evento" (fecha centinela 2222-02-02 en LeyChile) quedan con `deferred_by_event: true` y sin fecha.
+- **Normas modificatorias:** consulta el registro de vinculaciones de LeyChile ("Modificada por") de cada norma base y guarda el texto completo de cada ley o decreto modificatorio, incluidos sus artículos transitorios (`norm_kind: "modificatoria"`, categoría *Leyes modificatorias*). Las reformas 20.780, 21.210, 21.420, 21.713 y 21.850 están fijadas aunque LeyChile dejara de listarlas.
+- **Cobertura:** `meta.json → bcn_coverage` informa cuántas modificatorias registra LeyChile, cuántas se guardaron y cuáles faltan (`missing`), además de las que LeyChile registra sin texto (`unavailable_in_leychile`).
 
 ## Publicación
 
@@ -74,7 +80,7 @@ La verificación no escribe commits, evitando loops de despliegue.
 
 La corrida semanal:
 
-- relee las tres normas base de BCN;
+- relee las normas base de BCN, sus versiones con vigencia diferida y sus normas modificatorias;
 - revisa año actual y anterior de Circulares SII;
 - revisa año actual y anterior de Oficios SII;
 - revisa año actual y anterior de Resoluciones SII;

@@ -1,0 +1,36 @@
+# Artículo décimo noveno transitorio — Ley 21210 — MODERNIZA LA LEGISLACIÓN TRIBUTARIA
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: décimo noveno transitorio
+- Año: 2020
+- Fecha: 2020-02-24
+- Categoría: Leyes modificatorias
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=1142667
+- Hash SHA-256: 0fbe0cb09e8b8fc8ae23d1570570be2cb17596fa0dd8baed0a25d95c8be8fefa
+
+## Resumen
+
+Artículo décimo noveno transitorio.- Tratándose de los contribuyentes que declaren sobre la base de su renta efectiva según contabilidad completa, sujetos a las disposiciones de la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, vigente a contar del 1 de enero de 2020, que mantengan al 31 de diciembre de 2019 un saldo de rentas o cantidades de aquellas a que se refieren los numerales ii) y iv), de la letra a), del N° 1, del numeral I.- del artículo tercero transitorio de la ley número 20.780, o un sa…
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"articulo","law":"LIR","article":"38 bis"}
+- {"type":"articulo","law":"LIR","article":"41 A"}
+- {"type":"articulo","law":"CT","article":"69"}
+
+## Texto extraído
+
+Artículo décimo noveno transitorio.- Tratándose de los contribuyentes que declaren sobre la base de su renta efectiva según contabilidad completa, sujetos a las disposiciones de la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, vigente a contar del 1 de enero de 2020, que mantengan al 31 de diciembre de 2019 un saldo de rentas o cantidades de aquellas a que se refieren los numerales ii) y iv), de la letra a), del N° 1, del numeral I.- del artículo tercero transitorio de la ley número 20.780, o un saldo acumulado en el SAC del artículo 14 de la Ley sobre Impuesto a la Renta, vigente a contar del 1 de enero de 2020, que corresponda a un crédito por impuesto de primera categoría con obligación de restitución, establecida en los artículos 56 número 3) y 63 de la Ley sobre Impuesto a la Renta, según su texto vigente al 31 de diciembre de 2019, que terminen su giro a contar del 1 de enero de 2020, sea que se haya declarado por la empresa o cuando el Servicio de Impuestos Internos por aplicación de lo dispuesto en el inciso sexto del artículo 69 del Código Tributario, pueda liquidar o girar los impuestos correspondientes, deberán aplicar las normas establecidas en el artículo 38 bis de la Ley sobre Impuesto a la Renta, según su texto vigente a contar del 1 de enero de 2020, considerando además las siguientes reglas especiales:
+
+1. Deberán considerar retiradas, remesadas o distribuidas las rentas o cantidades acumuladas en la empresa indicadas en el numeral siguiente, por parte de sus propietarios, en la proporción en que participan en las utilidades de la empresa, para afectarse con la tributación que a continuación se indica.
+2. Las cantidades indicadas en el número 1 anterior corresponderán a la diferencia positiva que se determine al descontar a la suma entre: (i) el valor del capital propio tributario de la empresa a la fecha de término de giro; (ii) el saldo negativo del registro REX del artículo 14 de la Ley sobre Impuesto a la Renta, considerado en su valor positivo para efectos de sumarlo; y, (iii) los retiros en exceso a que se refiere el numeral iv), de la letra a), del N° 1, del numeral I.- del artículo tercero transitorio de la ley número 20.780, considerado también en su valor positivo para efectos de sumarlos, que se mantengan a esa fecha, asignándole al resultado de esta suma un valor equivalente a cero si resultase una cantidad negativa, las siguientes cantidades:
+
+a. El saldo positivo de las cantidades anotadas en el registro REX del artículo 14 de la Ley sobre Impuesto a la Renta;
+b. El monto de los aportes de capital enterados efectivamente en la empresa, más los aumentos y descontadas las disminuciones posteriores que se hayan efectuado, todos ellos reajustados de acuerdo al porcentaje de variación del índice de precios al consumidor entre el mes anterior a la fecha de aporte, aumento o disminución de capital, y el mes anterior al término de giro. Sólo para estos efectos, se entenderá que forma parte del capital aportado, el saldo de inversiones que se mantenga en el registro que establecía el inciso segundo de la letra b), del número 3 de la letra A), del artículo 14 de la Ley sobre Impuesto a la Renta, según su texto vigente al 31 de diciembre de 2016, cuyo control a contar del 1 de enero de 2017 quedó establecido en el numeral i), de la letra b) del número 1, del numeral I.- del artículo tercero transitorio de la ley número 20.780.
+
+Estos contribuyentes tributarán por esas rentas o cantidades, previamente incrementadas en una cantidad equivalente al crédito establecido en los artículos 56, número 3) y 63, y el crédito contra impuestos finales del artículo 41 A, todos de la Ley sobre Impuesto a la Renta, que están incorporados en el registro SAC del artículo 14 de dicha ley, con un impuesto del 35%, sólo respecto a la parte de las rentas o cantidades que correspondan a los propietarios, contribuyentes de impuestos finales que no declaren renta efectiva según contabilidad completa. Contra este impuesto podrá deducirse la proporción que corresponda del saldo de créditos del registro SAC que estén formando parte de la base imponible. No obstante, cuando corresponda al saldo acumulado de crédito por impuesto de primera categoría sujeto a la obligación de restitución, conforme a las normas vigentes al 31 de diciembre de 2019, su imputación se aplicará sólo hasta un 65% de su monto. Por su parte, aquella porción del impuesto de que trata este artículo transitorio, contra el cual se imputó créditos del registro SAC que fueron cubiertos o se originan del crédito establecido en el artículo 41 A de la Ley sobre Impuesto a la Renta, no podrá ser objeto de devolución en caso de que se ejerza la opción del número 3, del artículo 38 bis de la Ley sobre Impuesto a la Renta, según su texto vigente al 1 de enero de 2020 o sobre la base de cualquier otra disposición legal.
+El exceso de créditos que se produzca, luego de imputar los créditos señalados al impuesto del 35% por término de giro, no podrá ser imputado a ninguna otra obligación tributaria, ni dará derecho a devolución.
+Respecto a la parte de las rentas o cantidades que correspondan a socios o accionistas de la empresa que sean contribuyentes de primera categoría obligados a determinar renta efectiva según contabilidad completa, ésta deberá considerarse retirada o distribuida a dichos propietarios a la fecha del término de giro, con el crédito que les corresponda proporcionalmente, conforme con las reglas del artículo 14 vigente al 1 de enero de 2020.
+Por su parte, la tributación del saldo de inversiones que se mantenga a la fecha del término de giro en el registro que establecía el inciso segundo de la letra b), del número 3, de la letra A), del artículo 14 de la Ley sobre Impuesto a la Renta, según su texto al 31 de diciembre de 2016, cuyo control a contar del 1 de enero de 2017 quedó establecido en el numeral i), de la letra b), del número 1, del numeral I.- del artículo tercero transitorio de la ley número 20.780, procederá en la forma señalada en el artículo vigesimoquinto transitorio de esta ley.

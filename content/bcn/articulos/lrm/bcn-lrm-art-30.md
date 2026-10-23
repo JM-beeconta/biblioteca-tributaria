@@ -1,0 +1,23 @@
+# Artículo 30 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 30
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 9c89ae2fa560befd4de56d3d3a59313ba028d5eb2ea9f800876bce307cb26a9a
+
+## Resumen
+
+Artículo 30.- Si un establecimiento cambiare de dominio, el nuevo dueño deberá hacer anotar la transferencia en el rol respectivo. El adquirente pagará por concepto de patente por el período semestral que esté corriendo una contribución de monto igual a la que está girada o corresponda girar por el negocio transferido, rigiendo las normas generales respecto de los períodos siguientes.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 30.- Si un establecimiento cambiare de dominio, el nuevo dueño deberá hacer anotar la transferencia en el rol respectivo.
+El adquirente pagará por concepto de patente por el período semestral que esté corriendo una contribución de monto igual a la que está girada o corresponda girar por el negocio transferido, rigiendo las normas generales respecto de los períodos siguientes.

@@ -1,0 +1,22 @@
+# Artículo 4 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 4
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 73507a3058560b0e0c72ca255889e533973d49200f003cf95a38c6c3472d7a99
+
+## Resumen
+
+Artículo 4°.- Las municipalidades tendrán el plazo de un año, a contar del 30 de junio de 1995, para hacer uso de la facultad que se les confiere en el artículo 9° del decreto ley N° 3.063, de 1979, sobre cobro directo o a través de terceros del derecho de aseo, respecto de los contribuyentes afectos al impuesto territorial. Durante dicho plazo continuará vigente el procedimiento de cobro de tal derecho conjuntamente con el boletín de pago de contribuciones de bienes raíces, salvo que se ejerza antes de dicho térm…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 4°.- Las municipalidades tendrán el plazo de un año, a contar del 30 de junio de 1995, para hacer uso de la facultad que se les confiere en el artículo 9° del decreto ley N° 3.063, de 1979, sobre cobro directo o a través de terceros del derecho de aseo, respecto de los contribuyentes afectos al impuesto territorial. Durante dicho plazo continuará vigente el procedimiento de cobro de tal derecho conjuntamente con el boletín de pago de contribuciones de bienes raíces, salvo que se ejerza antes de dicho término la referida facultad.

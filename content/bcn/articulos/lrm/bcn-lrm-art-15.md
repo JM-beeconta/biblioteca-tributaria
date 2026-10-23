@@ -1,0 +1,31 @@
+# Artículo 15 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 15
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 6d05726da2aa4f3e5897d82a8696a242d917750171fbe97d93b40b6d46ce23f5
+
+## Resumen
+
+Artículo 15.- La renovación de los permisos de circulación y su distintivo se efectuará en los siguientes períodos del año respectivo, considerando la clasificación contenida en el artículo 12.-: 1.- Vehículos de la letra a) y N° 5 de la letra b), de carga máxima de mil setecientos cincuenta kilos, hasta el 31 de marzo; 2.- Vehículos de la letra b), N°s. 1 y 2 dentro del mes de mayo, y 3.- Vehículos de la letra b), N°s. 3, 4 y 5, de carga superior a mil setecientos cincuenta kilos, y N°s. 6 y 7, dentro del mes de…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 15.- La renovación de los permisos de circulación y su distintivo se efectuará en los siguientes períodos del año respectivo, considerando la clasificación contenida en el artículo 12.-:
+1.- Vehículos de la letra a) y N° 5 de la letra b), de carga máxima de mil setecientos cincuenta kilos, hasta el 31 de marzo;
+2.- Vehículos de la letra b), N°s. 1 y 2 dentro del mes de mayo, y
+3.- Vehículos de la letra b), N°s. 3, 4 y 5, de carga superior a mil setecientos cincuenta kilos, y N°s. 6 y 7, dentro del mes de septiembre.
+El pago del impuesto por permiso de circulación podrá efectuarse en dos cuotas iguales, la primera, dentro del plazo ordinario de renovación, y la segunda, en los siguientes períodos:
+a) Vehículos comprendidos en el número 1.- de este artículo, dentro del mes de agosto. Su monto se ajustará según la variación que experimente el Indice de Precios al Consumidor entre los meses de febrero y junio, ambos inclusive, del año respectivo;
+b) Vehículos comprendidos en el número 2.- de este artículo, dentro del mes de junio. Su monto se ajustará según la variación que experimente el Indice de Precios al Consumidor en el mes de abril del año respectivo, y
+c) Vehículos comprendidos en el número 3.- de este artículo, dentro del mes de octubre. Su monto se ajustará según la variación que experimente el Indice de Precios al Consumidor en el mes de agosto del año respectivo.
+Deberá dejarse constancia en el permiso de circulación, del hecho de efectuarse en cuotas el pago del impuesto respectivo.
+La obligación de pagar la segunda cuota pesará sobre los respectivos vehículos mientras no sean retirados de la circulación, lo que deberá ser comunicado por escrito a la unidad municipal encargada del tránsito y transporte públicos que otorgó el permiso, antes de que venza el plazo para la próxima renovación anual del mismo. Sólo en virtud del expresado aviso quedará el vehículo de que se trate, exceptuado de la obligación impuesta en el inciso anteprecedente.

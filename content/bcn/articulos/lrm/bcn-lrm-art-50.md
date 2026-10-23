@@ -1,0 +1,22 @@
+# Artículo 50 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 50
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 5941bf0393011f4b46467ce770cc05debaa80bf12fa8bec017abc213da98cffc
+
+## Resumen
+
+Artículo 50.- La persona que al solicitar o renovar el permiso de circulación de un vehículo motorizado, falseare los datos relativos a la entidad del dueño o las características, especificaciones y, en general, cualquier otro antecedente del vehículo que corresponda considerar para los efectos de aplicar los impuestos a que se refiere este decreto ley, será sancionada, sin perjuicio de las penas que procedan conforme a otras disposiciones legales, con una multa equivalente al triple del valor del impuesto por per…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 50.- La persona que al solicitar o renovar el permiso de circulación de un vehículo motorizado, falseare los datos relativos a la entidad del dueño o las características, especificaciones y, en general, cualquier otro antecedente del vehículo que corresponda considerar para los efectos de aplicar los impuestos a que se refiere este decreto ley, será sancionada, sin perjuicio de las penas que procedan conforme a otras disposiciones legales, con una multa equivalente al triple del valor del impuesto por permiso de circulación, a beneficio municipal.

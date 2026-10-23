@@ -1,0 +1,33 @@
+# Artículo quincuagésimo sexto — Ley 21040 — CREA EL SISTEMA DE EDUCACIÓN PÚBLICA
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: quincuagésimo sexto
+- Año: 2017
+- Fecha: 2017-11-24
+- Categoría: Leyes modificatorias
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=1111237
+- Hash SHA-256: c0c377f8cda19706bab42ab0c9e63344744755493f00152133dda7e59cfffcf1
+
+## Resumen
+
+Artículo quincuagésimo sexto.- Ley 21806 Art. 99 D.O. 05.02.2026 Reglas especiales sobre el pago y reintegro de la deuda previsional de las municipalidades o corporaciones municipales. Cuando el Ministerio de Educación, con autorización de la Dirección de Presupuestos, pague directamente a las instituciones, o personas que corresponda, las deudas previsionales contraídas por las municipalidades o corporaciones municipales con anterioridad al traspaso del servicio educacional, el mecanismo de reintegro de los recur…
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo quincuagésimo sexto.- Ley 21806
+Art. 99
+D.O. 05.02.2026 Reglas especiales sobre el pago y reintegro de la deuda previsional de las municipalidades o corporaciones municipales. Cuando el Ministerio de Educación, con autorización de la Dirección de Presupuestos, pague directamente a las instituciones, o personas que corresponda, las deudas previsionales contraídas por las municipalidades o corporaciones municipales con anterioridad al traspaso del servicio educacional, el mecanismo de reintegro de los recursos fiscales que se utilicen para el pago correspondiente, a través de la resolución que disponga los descuentos al Fondo Común Municipal, se podrá realizar desde el mes inmediatamente siguiente a aquel en que se realicen los mencionados pagos.
+Previo al pago realizado por el Ministerio de Educación de acuerdo a lo dispuesto en el inciso anterior y, por consiguiente, previo a la formalización de la resolución de descuentos para el reintegro de los recursos fiscales, la Subsecretaría de Desarrollo Regional y Administrativo deberá simular la cantidad de cuotas e informar a la Dirección de Presupuestos y al Ministerio de Educación aquellos municipios en que la estimación de descuentos supere un período de 144 meses, lo que se determinará de acuerdo a un criterio de sostenibilidad financiera del municipio respectivo. En este último caso, el Ministerio de Educación solicitará a la Tesorería General de la República que retenga los fondos contemplados en los artículos 38 bis y 38 ter del Decreto Nº2.385 de 1996 del Ministerio del Interior, que fija texto refundido y sistematizado del decreto ley Nº3.063, de 1979, sobre Rentas Municipales, para que se efectúe el pago de la deuda o parte de ella, según se individualice por el referido Ministerio en su solicitud. Una vez practicado este descuento y efectuado el pago, el Ministerio de Educación informará a la Subsecretaría de Desarrollo Regional y Administrativo el nuevo saldo para aplicar la resolución que establece los descuentos al Fondo Común Municipal dispuesta en el inciso anterior.
+Al año siguiente de aplicada la resolución de descuentos, y si la deuda remanente sigue sin poder ser descontada a la municipalidad respectiva en un máximo de 144 meses, la Subsecretaría de Desarrollo Regional y Administrativo podrá recalcular los descuentos, en una nueva resolución, y aplicará nuevamente el proceso descrito en el inciso segundo, en el caso que la municipalidad respectiva sea beneficiaria nuevamente de los fondos señalados en los artículos 38 bis y 38 ter del decreto ley Nº3.063, de 1979, sobre Rentas Municipales.
+Sin perjuicio de lo anterior, y sujeto a la disponibilidad presupuestaria, el pago de la deuda previsional según lo dispuesto en el presente artículo se priorizará, al menos, de la siguiente manera:
+
+1. Pagos ordenados por sentencia judicial firme y ejecutoriada.
+2. Deudas correspondientes a trabajadores traspasados al respectivo Servicio Local de Educación Pública, de conformidad a la priorización por edad que se realice al efecto, y se comenzará por las personas de mayor edad, ya sea jubiladas o cercanas a la edad legal de jubilación.
+3. Trabajadores beneficiarios del Bono por Retiro Voluntario, conforme a las leyes N° 20.964 y N° 20.976, según corresponda.
+
+Los mecanismos procedimentales, términos, criterios para la prelación o condiciones de pago y reintegro establecidas en el presente artículo podrán ser complementadas mediante un reglamento dictado por el Ministerio de Educación, que además deberá ser suscrito por el Ministro de Hacienda y por el Ministro del Interior.

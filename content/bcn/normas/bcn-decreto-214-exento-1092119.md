@@ -1,0 +1,44 @@
+# Decreto 214 EXENTO — REAJUSTA EN 1,4% LAS TASAS FIJAS DE IMPUESTOS CONTENIDAS EN EL DECRETO LEY Nº 3.475, DE 1980
+
+- Fuente: BCN
+- Tipo: norma
+- Número: 214 EXENTO
+- Año: 2016
+- Fecha: 2016-07-04
+- Categoría: Leyes modificatorias
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=1092119
+- Hash SHA-256: 9b345236474e3018acd731c97d586fae4036003f042435b3ea90c1e0287f6c04
+
+## Resumen
+
+Texto legal oficial de LeyChile. Versión vigente consultada en LeyChile.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+REAJUSTA EN 1,4% LAS TASAS FIJAS DE IMPUESTOS CONTENIDAS EN EL DECRETO LEY Nº 3.475, DE 1980
+
+Núm. 214 exento.- Santiago, 1 de junio de 2016.
+
+Vistos:
+
+Lo informado por el Servicio de Impuestos Internos mediante el oficio Res. Nº 93, de 31 de mayo de 2016, y sus antecedentes, y lo dispuesto en los artículos 30 y 31 del decreto ley Nº 3.475, del año 1980, sobre Impuesto de Timbres y Estampillas; en el decreto supremo Nº 19, del año 2001, del Ministerio Secretaría General de la Presidencia, y en la resolución Nº 1.600, del año 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1.- Que, el inciso 1º del artículo 30 del decreto ley Nº 3.475, de 1980, faculta para que, mediante la dictación de un decreto supremo se reajusten semestralmente las tasas fijas establecidas en dicho decreto ley, en hasta un 100% de la variación que experimente el Índice de Precios al Consumidor entre el 1 de noviembre y el 30 de abril y entre el 1 de mayo y el 31 de octubre, con vigencia a contar del 1 de julio y el 1 de enero del año que corresponda, respectivamente.
+2.- Que, en el período comprendido entre el 1 de noviembre de 2015 y el 30 de abril de 2016, el Índice de Precios al Consumidor llevado por el Instituto Nacional de Estadísticas, registra una variación de 1,4%.
+
+Decreto:
+
+Reajústanse, a contar del 1 de julio de 2016, en 1,4% las tasas fijas de impuestos contenidas en el decreto ley Nº 3.475, de 1980 , y fíjase su monto de acuerdo con lo previsto en sus artículos 30 y 31, en las cantidades que a continuación se indican:
+
+Tasas Fijas Tasa Anterior Tasa Nueva
+Artículo 1° N°1 $3.565 $3.615
+Artículo 4° $3.565 $3.615
+
+Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Rodrigo Valdés Pulido, Ministro de Hacienda.
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Alejandro Micco Aguayo, Subsecretario de Hacienda.

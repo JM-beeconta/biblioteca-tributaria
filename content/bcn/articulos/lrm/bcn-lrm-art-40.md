@@ -1,0 +1,22 @@
+# Artículo 40 — Ley de Rentas Municipales
+
+- Fuente: BCN
+- Tipo: articulo
+- Número: 40
+- Año: 1996
+- Fecha: N/A
+- Categoría: Rentas Municipales
+- Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
+- Hash SHA-256: 4bcf2434367204c431b1f868259b0f98bd4e98ec0bdd0032690e9920ee3bb2af
+
+## Resumen
+
+Artículo 40.- Llámanse derechos municipales las prestaciones que están obligadas a pagar a las municipalidades, las personas naturales o jurídicas de derecho público o de derecho privado, que obtengan de la administración local una concesión o permiso o que reciban un servicio de las mismas, salvo exención contemplada en un texto legal expreso.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Artículo 40.- Llámanse derechos municipales las prestaciones que están obligadas a pagar a las municipalidades, las personas naturales o jurídicas de derecho público o de derecho privado, que obtengan de la administración local una concesión o permiso o que reciban un servicio de las mismas, salvo exención contemplada en un texto legal expreso.
