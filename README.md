@@ -50,7 +50,22 @@ Las páginas actuales de Jurisprudencia Administrativa cargan los Oficios dinám
 5. deduplica Oficios publicados bajo más de una materia;
 6. guarda metadata, texto, referencias detectadas, URL oficial y SHA-256.
 
-Para páginas históricas mantiene fallback a los índices HTML antiguos del SII.
+Para páginas históricas mantiene fallback a los índices HTML antiguos del SII. En esos índices:
+
+- cada oficio es un archivo `jaNNNN.htm` (o `renta14.htm`, `dic111.htm` en los años noventa) con una copia `.doc`/`.pdf`: se guarda **un** documento, con la `.htm` como fuente y las copias en `alternate_urls`;
+- el número sale del nombre `jaNNNN` o de la cita propia que cierra la entrada — `(Ord. N° 4.936, de 28.12.2000)`, `Oficio N° 3.788, de 18.12.95` —, nunca de un oficio citado en el resumen;
+- el año es el de la página (o el de la cita propia, si es del año vecino), no el de una norma citada;
+- las páginas sin charset se leen como Windows-1252 cuando no son UTF-8 válido.
+
+Las Circulares hasta 2012 se leen de `sii.cl/documentos/circulares/AÑO/indcirAÑO.htm`, siguiendo la redirección por JavaScript de los años previos a 2000.
+
+## Originales archivados
+
+Cada recarga guarda el archivo tal como lo publicó el SII (PDF, DOC o HTML) en el release [`originales-sii`](https://github.com/JM-beeconta/biblioteca-tributaria/releases/tag/originales-sii), en un `.zip` por año y tramo. La ficha de cada documento enlaza su zip e indica el nombre del archivo y su SHA-256 (`original_file`). La fuente jurídica sigue siendo `source_url`.
+
+## Recarga con reemplazo
+
+`.sii-gap-fill-request` con un `campaign` dispara *Rellenar Brechas SII* en modo reemplazo: cada tramo retira los documentos SII que había de esos años y deja los recién leídos. Si un año/tipo trae menos del 45% de lo que había (índice caído), se conserva lo anterior; lo que otro tramo de la misma campaña ya recargó no se toca.
 
 ## BCN / LeyChile
 

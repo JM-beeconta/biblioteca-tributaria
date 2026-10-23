@@ -1,5 +1,6 @@
 {
   "status": "requested",
-  "reason": "Auditoría de cobertura (scripts/audit-coverage.mjs) encontró ~676 documentos SII faltantes en el tramo 1994-2026 (todos los años) y ~21 en el tramo agregado 1974-1993, comparado contra el conteo real de la fuente. Causa raíz: la actualización semanal nunca corrió con éxito (carrera de git push) y el SII sigue agregando documentos antiguos a páginas de años ya cerrados.",
-  "requested_at": "2026-08-22T21:45:00.000Z"
+  "campaign": "recarga-2026-10-23",
+  "reason": "Recarga completa con reemplazo tras corregir el lector del SII: circulares 1974-2012 (índice en /documentos/circulares/), oficios con enlaces jaNNNN y citas propias '(Ord./Of. N° ...)', duplicados .htm/.doc, años tomados de normas citadas, textos Windows-1252 leídos como UTF-8 y entidades HTML. Archiva los originales en el release originales-sii.",
+  "requested_at": "2026-10-23T00:00:00.000Z"
 }

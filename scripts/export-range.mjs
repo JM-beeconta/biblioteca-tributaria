@@ -28,7 +28,15 @@ const startedAt = new Date().toISOString();
 await fs.rm(OUT, { recursive: true, force: true });
 await fs.mkdir(OUT, { recursive: true });
 
-async function onDocument(doc, body) {
+// Los originales se archivan en un único release (originales-sii), un .zip por año y tramo: subir
+// miles de archivos sueltos choca con el límite de GitHub de ~500 creaciones por hora.
+const ORIGINALS_RELEASE = 'originales-sii';
+
+async function onDocument(doc, body, original = null) {
+  if (original && doc.original_file) {
+    const asset = `sii-${doc.year ?? 'sin-fecha'}-${lo}-${hi}.zip`;
+    doc.original_file = { ...doc.original_file, release: ORIGINALS_RELEASE, asset, path: original.name };
+  }
   const now = new Date().toISOString();
   const previous = docs.get(doc.id);
   const merged = {
@@ -44,6 +52,13 @@ async function onDocument(doc, body) {
   const target = path.join(OUT, merged.content_path);
   await fs.mkdir(path.dirname(target), { recursive: true });
   await fs.writeFile(target, markdownDocument(merged, body), 'utf8');
+
+  // Fuera de content/: no entra al repositorio, el workflow lo sube a GitHub Releases.
+  if (original && merged.original_file) {
+    const originalPath = path.join(OUT, 'originals', merged.original_file.asset.replace(/\.zip$/, ''), original.name);
+    await fs.mkdir(path.dirname(originalPath), { recursive: true });
+    await fs.writeFile(originalPath, original.buffer);
+  }
 }
 
 console.log(`Exportando SII ${lo}-${hi}${categories ? ` (${categories.join(', ')})` : ''}`);
