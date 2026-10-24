@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Refunde y reestructura departamento subdirección de asistencia al contribuyente. Deja sin efecto res. Ex N° 98, de 2014, Res. Ex 65 de 2016 y N° 31, de 2018. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Refunde y reestructura departamento subdirección de asistencia al contribuyente. Deja sin efecto res. Ex N° 98, de 2014, Res. Ex 65 de 2016 y N° 31, de 2018. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

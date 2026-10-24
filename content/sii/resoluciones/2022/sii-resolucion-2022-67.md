@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica Resolución Exenta SII N°72 de 2021, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Modifica Resolución Exenta SII N°72 de 2021, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

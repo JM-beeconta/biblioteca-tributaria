@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, los pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero establecido en la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Instruye sobre la forma y plazo para declarar y pagar las retenciones adicionales, los pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero establecido en la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

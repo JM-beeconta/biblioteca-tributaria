@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Designa secretarios, titulares y suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Punta Arenas. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Designa secretarios, titulares y suplentes, en tribunales especiales de alzada de los bienes raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Punta Arenas. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

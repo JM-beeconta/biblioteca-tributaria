@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica la resolución Ex. SII N° 30 de fecha 25.03.2022 y aplica lo dispuesto en dicha resolución a la restitución del préstamo tasa cero del artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica la resolución Ex. SII N° 30 de fecha 25.03.2022 y aplica lo dispuesto en dicha resolución a la restitución del préstamo tasa cero del artículo 9° de la Ley N° 21.323. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

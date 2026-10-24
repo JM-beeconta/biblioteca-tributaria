@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Complementa nómina de grandes contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes.
+n de Asistencia al Contribuyente. Complementa nómina de grandes contribuyentes establecida en la Resolución Ex. SII N° 142, de fecha 30 de diciembre de 2021. Fuente: Dirección de Grandes Contribuyentes.
 
 ## Referencias detectadas
 

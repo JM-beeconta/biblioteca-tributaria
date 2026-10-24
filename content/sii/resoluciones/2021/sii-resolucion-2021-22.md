@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII Nº 123 de 30.09.2020, que establece la forma y plazo para presentar las declaraciones juradas anual N° 1847 y N° 1926. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica resolución Ex. SII Nº 123 de 30.09.2020, que establece la forma y plazo para presentar las declaraciones juradas anual N° 1847 y N° 1926. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

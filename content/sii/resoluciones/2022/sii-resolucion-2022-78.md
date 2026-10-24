@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización. Incorpora nuevos códigos al formulario 50 sobre &ldquo;declaración y pago simultáneo mensual de impuestos&rdquo; para declarar y pagar la retención asociada al impuesto único del artículo 107 de la ley sobre impuesto a la renta. Fuente: Subdirección de Fiscalización.
+cción de Fiscalización. Incorpora nuevos códigos al formulario 50 sobre “declaración y pago simultáneo mensual de impuestos” para declarar y pagar la retención asociada al impuesto único del artículo 107 de la ley sobre impuesto a la renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

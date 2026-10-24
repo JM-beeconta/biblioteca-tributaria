@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Delega facultad en las jefaturas que indica. Fuente: Subdirección de Administración.
+n de Asistencia al Contribuyente. Delega facultad en las jefaturas que indica. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

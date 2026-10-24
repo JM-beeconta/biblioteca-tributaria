@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece la forma y requisitos de la consulta vinculante en materia de elusión del artículo 26 bis del Código Tributario. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece la forma y requisitos de la consulta vinculante en materia de elusión del artículo 26 bis del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

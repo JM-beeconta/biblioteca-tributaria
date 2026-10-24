@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Imputación de los pagos anticipados, retenciones adicionales y/o pagos provisionales mensuales adicionales por la restitución del préstamo tasa cero (o préstamo solidario del estado). Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Imputación de los pagos anticipados, retenciones adicionales y/o pagos provisionales mensuales adicionales por la restitución del préstamo tasa cero (o préstamo solidario del estado). Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

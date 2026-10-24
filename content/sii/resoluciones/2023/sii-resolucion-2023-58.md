@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Crea el comité de gestión de proyectos del Servicio de Impuestos Internos, define su composición y funciones Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. Crea el comité de gestión de proyectos del Servicio de Impuestos Internos, define su composición y funciones Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

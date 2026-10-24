@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Organismos Públicos Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza Como Receptor Electrónico De Documentos Tributarios Electrónicos A Organismos Públicos Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

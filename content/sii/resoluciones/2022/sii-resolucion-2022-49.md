@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización. Fija nómina &ldquo;contribuyentes IVA sd Afectos a cambio de sujeto&rdquo; a que se Refiere la resolución exenta sii n°46 de 2022, respecto de cuyos servicios se Retendrá el impuesto al valor agregado Conforme al inciso 7° del artículo 3° de la Ley sobre impuesto a las ventas y Servicios. Fuente: Subdirección de Fiscalización.
+cción de Fiscalización. Fija nómina “contribuyentes IVA sd Afectos a cambio de sujeto” a que se Refiere la resolución exenta sii n°46 de 2022, respecto de cuyos servicios se Retendrá el impuesto al valor agregado Conforme al inciso 7° del artículo 3° de la Ley sobre impuesto a las ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

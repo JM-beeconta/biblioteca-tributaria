@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Reemplaza formato, contenido e instrucciones de declaración jurada anual de contribuyentes acogidos a las normas del artículos 14 letra B) N° 1 (contribuyentes de primera categoría que declaren rentas efectivas y que no las determinen sobre la base de un balance general, según contabilidad completa) y 14 letra B) N° 2 y 34 (contribuyentes de primera categoría acogidos al régimen de renta presunta) de la LIR, formulario N° 1943. Deja sin efecto Resolución Exenta SII N° 127 de 2…
+n de Asistencia al Contribuyente. Reemplaza formato, contenido e instrucciones de declaración jurada anual de contribuyentes acogidos a las normas del artículos 14 letra B) N° 1 (contribuyentes de primera categoría que declaren rentas efectivas y que no las determinen sobre la base de un balance general, según contabilidad completa) y 14 letra B) N° 2 y 34 (contribuyentes de primera categoría acogidos al régimen de renta presunta) de la LIR, formulario N° 1943. Deja sin efecto Resolución Exenta SII N° 127 de 2020.…
 
 ## Referencias detectadas
 

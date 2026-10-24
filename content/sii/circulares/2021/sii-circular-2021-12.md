@@ -7,11 +7,11 @@
 - Fecha: 2021-02-17
 - Categoría: Circulares
 - Fuente oficial: https://www.sii.cl/normativa_legislacion/circulares/2021/circu12.pdf
-- Hash SHA-256: 891f17290f377a0feffbe0d83b62e39a18cb1b6776b7f88314e8835f6fed6be7
+- Hash SHA-256: 2164bfa578861a6923cf03e51b373a327d0a84c93bf4f105aa7a0e4af012d741
 
 ## Resumen
 
-ente: Subdirección Normativa. Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria. Fuente: Subdirección Jurídica
+ente: Subdirección Normativa. Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria. Modificada por Circulares N° 26, del 18 de junio de 2026; N° 19, del 06 de marzo de 2025; N°50, del 29 de noviembre de 2023. Complementada por Circular N° 6, del 16 de enero de 2025 Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 
@@ -70,18 +70,15 @@ ente: Subdirección Normativa. Imparte instrucciones sobre derechos de los contr
 
 ## Texto extraído
 
-Modificada por Circular N° 26, del 18 de junio de 2026
+Modificada por Circulares N° 35, del 31 de agosto de 2026;
 Miguel
 Zamora
-                                                                    Modificada por Circular N° 19, del 06 de marzo de 2025
-                                                                 Complementada por Circular N° 6, del 16 de enero de 2025
+                                                           N° 26, del 18 de junio de 2026; N° 19, del 06 de marzo de
 Rendich
 Firmado digitalmente
 por Miguel Zamora
-
-
-
-                                                                 Modificada por Circular N° 50, del 29 de noviembre de 2023
+                                                           2025; N°50, del 29 de noviembre de 2023
+                                                           Complementada por Circular N° 6, del 16 de enero de 2025
 Rendich
 Fecha: 2021.02.17
 19:14:58 -03'00'

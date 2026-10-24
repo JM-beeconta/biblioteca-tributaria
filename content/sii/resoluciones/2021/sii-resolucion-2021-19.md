@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece formato de los registros tributarios de rentas empresariales que deben llevar los contribuyentes del régimen de tributación de la letra a) de artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece formato de los registros tributarios de rentas empresariales que deben llevar los contribuyentes del régimen de tributación de la letra a) de artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

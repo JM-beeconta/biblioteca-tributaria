@@ -6,8 +6,8 @@
 - Año: 2022
 - Fecha: 2022-10-26
 - Categoría: IVA
-- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3141-26%2F10%2F2022.pdf&extension=pdf&acc=download&id=eeee4bb1-a3fe-40c4-a599-11a1b7fde997&mediaType=application%2Fpdf
-- Hash SHA-256: e658e902f29ed9efead96a99cfcecd8eeb0ec9157eb954d77b2c3506c2b98529
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3141-26%2F10%2F2022.pdf&extension=pdf&acc=download&id=7b692865-f20f-4b3f-9f1a-40b84931eba6&mediaType=application%2Fpdf
+- Hash SHA-256: 4a5aa035f4e32a21a34b08c9e42e220f44d45931df9e80cc2d8b29f75757b864
 
 ## Resumen
 
@@ -30,7 +30,7 @@ Solicita modificar Oficio N° 1802 de 2022 y aclarar la Resolución Ex. N° 46 d
 VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 3 INCISO 7°, ARTICULO 8 LETRA
        N – LEY ORGANICA DEL SERVICIO DE IMPUESTOS INTERNOS – ART. 1 –
      CODIGO TRIBUTARIO – ART. 6, ART. 97 N° 9 – OFICIOS N° 233 DE 2022, 1802 DE
-                  2022, 3591 DE 2021 – (ORD. N° 3141, DE 26.20.2022)
+                  2022, 3591 DE 2021 – (ORD. N° 3141, DE 26.10.2022)
 
 
 Solicita modificar Oficio N° 1802 de 2022 y aclarar la Resolución Ex. N° 46 del mismo año,
@@ -74,8 +74,8 @@ Por cierto, lo anterior, en caso alguno, supone ni debe ser interpretado como un
 
 
 1
-  Oficio Ord. N° 31/2022, de fecha 07.01.2022, de la Superintendenta de Casinos de Juego, que traslada presentación del Grupo
-  Dreams SA, de fecha 27.12.2021, solicitando un pronunciamiento sobre el contenido del Oficio N° 3591 de 2021.
+  Oficio Ord. N° 31/2022, de fecha 07.01.2022, de la Superintendenta de Casinos de Juego, que traslada presentación del Grupo YYY
+  SA, de fecha 27.12.2021, solicitando un pronunciamiento sobre el contenido del Oficio N° 3591 de 2021.
 2
   Oficios N° 122 de 2013, N° 3388 de 2016, N° 233 de 2022, entre otros.
 3
@@ -125,7 +125,7 @@ Conforme lo expuesto precedentemente y respecto de lo consultado se informa lo s
 
 
 
-                                              Oficio N° 3141, de 26-10-2022
+                                              Oficio N° 3141, de 26.10.2022
                                                 Subdirección Normativa
                                               Depto. de Impuestos Indirectos
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Exime Del Régimen General De Operación De Ventas De Gas Licuado De Petróleo Establecido En Resolución Ex. Sii N° 1087 De 1978, A Contribuyente Que Indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

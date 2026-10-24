@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Delega Facultad Que Indica En El funcionario Que Se Individualiza. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Delega Facultad Que Indica En El funcionario Que Se Individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

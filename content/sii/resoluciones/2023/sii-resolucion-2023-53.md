@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Educación y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

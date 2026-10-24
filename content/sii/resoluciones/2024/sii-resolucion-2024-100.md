@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad Autónoma de Chile. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba convenio de colaboración entre Servicio de Impuestos Internos y Universidad Autónoma de Chile. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

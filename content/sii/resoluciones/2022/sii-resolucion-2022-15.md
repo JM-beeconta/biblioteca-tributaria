@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Información que debe proporcionar el gestor de un contrato de asociación o cuentas en participación u otro encargo fiduciario, en el formulario 22 sobre declaración de impuestos anuales a la renta. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Información que debe proporcionar el gestor de un contrato de asociación o cuentas en participación u otro encargo fiduciario, en el formulario 22 sobre declaración de impuestos anuales a la renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

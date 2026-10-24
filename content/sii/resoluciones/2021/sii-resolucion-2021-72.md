@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza representación virtual y/o impresa de guías de despacho electrónicas a los contribuyentes que indica en la modalidad señalada. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza representación virtual y/o impresa de guías de despacho electrónicas a los contribuyentes que indica en la modalidad señalada. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

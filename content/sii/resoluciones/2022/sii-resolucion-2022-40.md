@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece la forma y procedimiento para hacer efectiva postergación del pago del impuesto al valor agregado, conforme al inciso tercero del artículo 64 de la ley sobre impuesto a las ventas y servicios. Deja sin efecto Resolución Ex. SII N° 110 de 2014. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece la forma y procedimiento para hacer efectiva postergación del pago del impuesto al valor agregado, conforme al inciso tercero del artículo 64 de la ley sobre impuesto a las ventas y servicios. Deja sin efecto Resolución Ex. SII N° 110 de 2014. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

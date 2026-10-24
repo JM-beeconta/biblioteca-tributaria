@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Delega en el Subdirector(a) Jurídico(a) y en la Jefatura del Departamento de Defensa Judicial Penal, las facultades que indica. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Delega en el Subdirector(a) Jurídico(a) y en la Jefatura del Departamento de Defensa Judicial Penal, las facultades que indica. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

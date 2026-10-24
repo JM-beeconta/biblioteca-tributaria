@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. AUTORIZA A EMITIR MENSUALMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. AUTORIZA A EMITIR MENSUALMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

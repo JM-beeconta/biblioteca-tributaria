@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a empresas clientes de GASMAR a emitir factura electrónica de ventas y servicios en la forma que indica. Impone obligación de mantener un registro de operaciones a GASMAR S.A., RUT N°96.636.520-k. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a empresas clientes de GASMAR a emitir factura electrónica de ventas y servicios en la forma que indica. Impone obligación de mantener un registro de operaciones a GASMAR S.A., RUT N°96.636.520-k. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

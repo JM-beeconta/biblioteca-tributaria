@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Complementa resolución Ex. SII N° 68 de 2021, que habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Complementa resolución Ex. SII N° 68 de 2021, que habilita plataforma, instruye sobre requisitos, fija procedimiento para solicitar y reclamar del bono de alivio a mypes establecido en la Ley N°21.354 de fecha 17.06.2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

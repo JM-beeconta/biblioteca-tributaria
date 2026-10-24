@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija requisitos de llenado para las facturas, notas de crédito y notas de débito utilizadas en la venta de cigarrillos, emitidas por contribuyentes obligados al cambio de sujeto a productos de tabaco. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Fija requisitos de llenado para las facturas, notas de crédito y notas de débito utilizadas en la venta de cigarrillos, emitidas por contribuyentes obligados al cambio de sujeto a productos de tabaco. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

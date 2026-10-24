@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Complementa Resolución Ex. 119 del 28.09.2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de formulario N° 1921 Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Complementa Resolución Ex. 119 del 28.09.2020 que establece la obligación de presentar declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile por medio de formulario N° 1921 Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija forma y periodicidad de las sesiones del comité ejecutivo. Deja sin efecto Resolución Ex. SII N° 68 de 2016. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Fija forma y periodicidad de las sesiones del comité ejecutivo. Deja sin efecto Resolución Ex. SII N° 68 de 2016. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

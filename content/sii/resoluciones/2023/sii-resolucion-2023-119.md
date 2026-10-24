@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Ajusta nómina “contribuyentes IVA SD afectos a cambio de sujeto” que rige entre el 1° de enero y el 31 de diciembre de 2023. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

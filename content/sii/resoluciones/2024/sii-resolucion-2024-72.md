@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Castro. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Castro. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Instruye sobre la forma de comunicar a este Servicio de Impuestos Internos la calidad de inversionista institucional para efectos de no efectuar la retención que dispone el N°6 del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Instruye sobre la forma de comunicar a este Servicio de Impuestos Internos la calidad de inversionista institucional para efectos de no efectuar la retención que dispone el N°6 del artículo 107 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

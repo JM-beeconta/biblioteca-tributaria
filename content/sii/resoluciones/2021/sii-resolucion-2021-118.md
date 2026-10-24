@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Dispone cierre de la central metropolitana de timbraje e instruye sobre autorización de documentos tributarios de contribuyentes que se indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Dispone cierre de la central metropolitana de timbraje e instruye sobre autorización de documentos tributarios de contribuyentes que se indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

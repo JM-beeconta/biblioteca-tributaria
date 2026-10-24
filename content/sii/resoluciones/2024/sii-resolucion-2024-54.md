@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica Resolución Ex. SII N°28, de 15 marzo de 2023, reemplazando subrogantes de la Secretaría General. Fuente: Subdirección de Asuntos Corporativos.
+n de Asistencia al Contribuyente. Modifica Resolución Ex. SII N°28, de 15 marzo de 2023, reemplazando subrogantes de la Secretaría General. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:14:40.273Z",
+  "generated_at": "2026-10-24T00:40:25.612Z",
   "total_documents": 15710,
   "by_source": {
     "BCN": 5150,
@@ -86,8 +86,8 @@
     "RIVA",
     "LRM"
   ],
-  "mode": "backfill:Gapfill-2025-2026",
-  "last_scrape_at": "2026-10-24T00:14:39.435Z",
-  "touched_documents": 960,
+  "mode": "backfill:Gapfill-2021-2024",
+  "last_scrape_at": "2026-10-24T00:40:23.672Z",
+  "touched_documents": 2638,
   "backfill_status": "running"
 }

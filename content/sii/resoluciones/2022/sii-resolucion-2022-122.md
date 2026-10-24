@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria. Fuente: Subdirección de Asuntos Corporativos.
+n de Asistencia al Contribuyente. Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria. Fuente: Subdirección de Asuntos Corporativos.
 
 ## Referencias detectadas
 

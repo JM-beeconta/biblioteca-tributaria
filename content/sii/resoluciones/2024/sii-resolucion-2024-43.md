@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. APRUEBA MODIFICACIÓN DE CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE EL INSTITUTO NACIONAL DE PROPIEDAD INDUSTRIAL Y EL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. APRUEBA MODIFICACIÓN DE CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE EL INSTITUTO NACIONAL DE PROPIEDAD INDUSTRIAL Y EL SERVICIO DE IMPUESTOS INTERNOS. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

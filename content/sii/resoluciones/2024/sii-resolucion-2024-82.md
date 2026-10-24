@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Procedimiento de exclusión del registro de sociedades de profesionales por incumplimiento de requisitos. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Procedimiento de exclusión del registro de sociedades de profesionales por incumplimiento de requisitos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

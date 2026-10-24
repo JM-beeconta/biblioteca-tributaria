@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n Jurídica del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Abril 2022. Fuente: Subdirección de Fiscalización.
+n Jurídica del 2022 Tabla De Cálculos De Reajustes, Intereses Y Multas Abril 2022. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas bajo las condiciones que se indican Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a contribuyente que indica para emitir boletas de prestación de servicios de terceros electrónicas bajo las condiciones que se indican Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

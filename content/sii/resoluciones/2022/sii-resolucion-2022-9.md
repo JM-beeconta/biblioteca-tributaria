@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 09 del 31 de Enero del 2022 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 09 del 31 de Enero del 2022 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

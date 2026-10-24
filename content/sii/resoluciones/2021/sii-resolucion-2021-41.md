@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Regula procedimiento sobre reclamo administrativo por bono de clase media contenido en el artículo 18 de la Ley N° 21.323, que establece un nuevo bono de clase media y un préstamo solidario para la protección de los ingresos de la clase media Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Regula procedimiento sobre reclamo administrativo por bono de clase media contenido en el artículo 18 de la Ley N° 21.323, que establece un nuevo bono de clase media y un préstamo solidario para la protección de los ingresos de la clase media Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

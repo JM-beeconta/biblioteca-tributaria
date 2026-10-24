@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Instruye sobre presentación de declaración de impuestos formulario 29 fuera de plazo a través de internet. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Instruye sobre presentación de declaración de impuestos formulario 29 fuera de plazo a través de internet. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

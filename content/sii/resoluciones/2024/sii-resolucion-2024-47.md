@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización. AJUSTA NÓMINA &ldquo;CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO&rdquo; QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2024. Fuente: Subdirección de Fiscalización.
+cción de Fiscalización. AJUSTA NÓMINA “CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO” QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2024. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

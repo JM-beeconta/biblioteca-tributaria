@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a Banco de Chile a eximirse de la obligación de la emisión de liquidación a que hace referencia el resolutivo 3° de la Res. Ex. N° 328, de 1977, cumpliendo requisitos que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a Banco de Chile a eximirse de la obligación de la emisión de liquidación a que hace referencia el resolutivo 3° de la Res. Ex. N° 328, de 1977, cumpliendo requisitos que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

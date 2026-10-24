@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Tomé. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+cción de Fiscalización. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Tomé. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

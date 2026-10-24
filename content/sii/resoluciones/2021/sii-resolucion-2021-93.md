@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para dar por cumplido Requisito de inicio de actividades y presentar Declaración de renta con el propósito de acceder al Bono de la ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece procedimiento para dar por cumplido Requisito de inicio de actividades y presentar Declaración de renta con el propósito de acceder al Bono de la ley n° 21.354 en el caso de contribuyentes Pescadores calificados como armadores Artesanales. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

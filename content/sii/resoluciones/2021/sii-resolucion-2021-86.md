@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración de renta o corregir la subdeclaración de ingresos, para los contribuyentes transportistas de pasajeros que indica. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración de renta o corregir la subdeclaración de ingresos, para los contribuyentes transportistas de pasajeros que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

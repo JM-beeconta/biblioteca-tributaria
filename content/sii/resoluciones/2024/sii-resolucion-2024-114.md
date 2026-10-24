@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Avaluaciones. Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59&ordf; Asamblea General del CIAT. Fuente: Subdirección Normativa
+Subdirección de Avaluaciones. Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59ª Asamblea General del CIAT. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

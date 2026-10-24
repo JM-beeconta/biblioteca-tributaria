@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución ex. SII Nº 106 de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica resolución ex. SII Nº 106 de 2021, que reorganiza las unidades que conforman el departamento Subdirección de Fiscalización y ámbito de competencia de las Unidades que lo conforman. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

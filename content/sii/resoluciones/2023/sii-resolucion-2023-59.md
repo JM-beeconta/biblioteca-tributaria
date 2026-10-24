@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a SABORES CARD SPA, RUT N° 76.969.846-9, para operar sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a SABORES CARD SPA, RUT N° 76.969.846-9, para operar sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

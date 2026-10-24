@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica la fecha de entrada en vigencia de la obligación contenida en la subletra e) de la letra e) de la Resolución Ex. SII N° 176 de fecha 31.12.2020, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Modifica la fecha de entrada en vigencia de la obligación contenida en la subletra e) de la letra e) de la Resolución Ex. SII N° 176 de fecha 31.12.2020, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija monto mínimo para la emisión de boletas de ventas y servicios. Deroga resolución Ex. SII N° 3943 de fecha 03.11.1992. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Fija monto mínimo para la emisión de boletas de ventas y servicios. Deroga resolución Ex. SII N° 3943 de fecha 03.11.1992. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

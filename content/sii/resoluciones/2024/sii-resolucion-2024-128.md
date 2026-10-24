@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento subdirección de asistencia al contribuyente, establece funciones, ámbito de competencia; deja sin efecto resoluciones exentas SII N°20 de 2021 Y N°86 de 2022. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento subdirección de asistencia al contribuyente, establece funciones, ámbito de competencia; deja sin efecto resoluciones exentas SII N°20 de 2021 Y N°86 de 2022. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ente: Subdirección Normativa. Imparte instrucciones sobre la tributación del retiro único y extraordinario de fondos previsionales, establecido en la Ley N° 21.295 Fuente: Subdirección Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2021'); }else{ $(location).attr('href', '../' + anyo + '/indcir' + anyo + '.htm'); } } $(document).ready(function(){ $('selec…
+ente: Subdirección Normativa. Imparte instrucciones sobre la tributación del retiro único y extraordinario de fondos previsionales, establecido en la Ley N° 21.295 Fuente: Subdirección Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2021'); }else{ $(location).attr('href', '../' + anyo + '/indcir' + anyo + '.htm'); } } $(document).ready(function(){
 
 ## Referencias detectadas
 

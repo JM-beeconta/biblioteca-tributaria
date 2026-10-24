@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece forma de presentar solicitud de acuerdo anticipado de precios de transferencia, artículo 41 E N°7 de la Ley sobre impuesto a la renta y modifica resolución SII Ex. N° 68 de 2013. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece forma de presentar solicitud de acuerdo anticipado de precios de transferencia, artículo 41 E N°7 de la Ley sobre impuesto a la renta y modifica resolución SII Ex. N° 68 de 2013. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

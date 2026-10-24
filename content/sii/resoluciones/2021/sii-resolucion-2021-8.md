@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 08 del 27 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 08 del 27 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional Forestal y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

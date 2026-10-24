@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de San Miguel. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Designa secretarios titular y suplente en tribunal especial de alzada de los Bienes Raíces de la primera y segunda serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de San Miguel. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

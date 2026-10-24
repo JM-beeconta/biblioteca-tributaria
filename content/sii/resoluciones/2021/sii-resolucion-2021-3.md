@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 12 de Enero del 2021 Aprueba Convenio de Colaboración entre Ministerio De Desarrollo Social y Familia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 12 de Enero del 2021 Aprueba Convenio de Colaboración entre Ministerio De Desarrollo Social y Familia y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

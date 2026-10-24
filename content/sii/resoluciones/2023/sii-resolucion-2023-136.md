@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conformarán el departamento subdirección de tecnologías de la información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 101, de 2019. Fuente: Subdirección de Informática.
+n de Asistencia al Contribuyente. Reorganiza las unidades que conformarán el departamento subdirección de tecnologías de la información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 101, de 2019. Fuente: Subdirección de Informática.
 
 ## Referencias detectadas
 

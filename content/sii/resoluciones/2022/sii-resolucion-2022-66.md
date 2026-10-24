@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Emisión de documentos tributarios electrónicos en operaciones de compra y venta de moneda extranjera. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Emisión de documentos tributarios electrónicos en operaciones de compra y venta de moneda extranjera. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las resoluciones EX. SII N°s 62 y 65 de 2021. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Amplía plazo para el envío de la información que deben entregar las municipalidades, de acuerdo a las resoluciones EX. SII N°s 62 y 65 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

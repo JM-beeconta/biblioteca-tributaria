@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex SII N° 97 y n° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formulario N° 1947 y formulario N° 1948, establecidos mediante resoluciones Ex SII N° 97 y n° 98 respectivamente, ambas de fecha 28.08.2020, en los términos que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

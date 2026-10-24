@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ión Desarrollo de las Personas Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Curicó. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+ión Desarrollo de las Personas Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Curicó. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

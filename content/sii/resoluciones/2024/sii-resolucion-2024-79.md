@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Deja sin efecto resoluciones exentas N° 1055 de 2010 y N° 96 DE 2013. Fuente: Subdirección de Administración.
+n de Asistencia al Contribuyente. Deja sin efecto resoluciones exentas N° 1055 de 2010 y N° 96 DE 2013. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

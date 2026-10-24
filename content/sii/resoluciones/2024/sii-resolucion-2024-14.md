@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII N°20, de 2016, en lo referido a la oficina de administración de riesgos institucionales, del departamento Subdirección de Contraloría Interna que pasa a denominarse oficina de gestión de continuidad, riesgos institucionales y seguridad de la información, e incorpora nuevas funciones Fuente: Subdirección de Contraloría Interna.
+n de Asistencia al Contribuyente. Modifica resolución Ex. SII N°20, de 2016, en lo referido a la oficina de administración de riesgos institucionales, del departamento Subdirección de Contraloría Interna que pasa a denominarse oficina de gestión de continuidad, riesgos institucionales y seguridad de la información, e incorpora nuevas funciones Fuente: Subdirección de Contraloría Interna.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica la resolución exenta SII N°103 de 31 de agosto de 2021 sobre registro anual sobre retenciones efectuadas conforme a los artículos 42 N° 1 y 74 Nº 1 de la ley de impuesto a la renta. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica la resolución exenta SII N°103 de 31 de agosto de 2021 sobre registro anual sobre retenciones efectuadas conforme a los artículos 42 N° 1 y 74 Nº 1 de la ley de impuesto a la renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

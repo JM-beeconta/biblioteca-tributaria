@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 05 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/do…
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 05 de Enero del 2021 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/docume…
 
 ## Referencias detectadas
 

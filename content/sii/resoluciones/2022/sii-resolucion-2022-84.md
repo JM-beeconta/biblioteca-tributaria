@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Complementa lista anexa de la resolucion n°8 exenta, de 2022. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Complementa lista anexa de la resolucion n°8 exenta, de 2022. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

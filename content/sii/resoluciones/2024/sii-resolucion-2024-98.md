@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Crea registro de asociaciones culturales y deja sin efecto la Resolución Ex. SII N° 6 de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Crea registro de asociaciones culturales y deja sin efecto la Resolución Ex. SII N° 6 de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

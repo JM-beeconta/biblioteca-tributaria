@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario Nº 1887, en los casos que se señalan Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario Nº 1887, en los casos que se señalan Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

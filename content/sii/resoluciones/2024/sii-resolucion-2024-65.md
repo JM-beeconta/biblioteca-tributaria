@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018 Fuente: Subdirección Normativa.
+n de Asistencia al Contribuyente. REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018 Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

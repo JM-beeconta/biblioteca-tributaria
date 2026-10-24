@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Designa Secretaria Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Designa Secretaria Suplente En Tribunal Especial De Alzada De Los Bienes Raíces De La Segunda Serie, Con Jurisdicción En El Territorio De La Ilustrísima Corte De Apelaciones De Chillán. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

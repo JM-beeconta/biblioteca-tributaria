@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas contenidas en el registro rai, que establece el artículo décimo y undécimo de la ley N° 21.681. Modifica resolución exenta SII N°27 del 25 de febrero del 2009. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece formulario para declarar y pagar el impuesto sustitutivo de los impuestos finales, aplicable sobre utilidades tributables acumuladas contenidas en el registro rai, que establece el artículo décimo y undécimo de la ley N° 21.681. Modifica resolución exenta SII N°27 del 25 de febrero del 2009. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

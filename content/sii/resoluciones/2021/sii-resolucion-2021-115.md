@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija plazo y forma en que este servicio debe realizar los avisos para ejecutar las medidas preventivas y de colaboración contempladas en el numeral iii. Del artículo 33 del Código Tributario. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Fija plazo y forma en que este servicio debe realizar los avisos para ejecutar las medidas preventivas y de colaboración contempladas en el numeral iii. Del artículo 33 del Código Tributario. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

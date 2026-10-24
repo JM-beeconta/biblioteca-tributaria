@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción Normativa 2022 Imparte instrucciones sobre modificaciones introducidas por las Leyes N° 21.210 y N° 21.420 en materia de &ldquo;viviendas económicas&rdquo; y sobretasa. Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. Fuente: Subdirección de Avaluaciones.
+cción Normativa 2022 Imparte instrucciones sobre modificaciones introducidas por las Leyes N° 21.210 y N° 21.420 en materia de “viviendas económicas” y sobretasa. Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

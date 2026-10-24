@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Contraloría Interna. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
+n de Contraloría Interna. Delega facultad que indica en el funcionario que se individualiza. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

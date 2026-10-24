@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para declarar y pagar o suspender la contribución para el desarrollo regional regulada en el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece procedimiento para declarar y pagar o suspender la contribución para el desarrollo regional regulada en el artículo trigésimo segundo de la Ley N° 21.210. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

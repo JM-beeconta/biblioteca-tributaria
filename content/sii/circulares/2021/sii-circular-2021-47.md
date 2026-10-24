@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ente: Subdirección Normativa. Modifica Circular N° 7 de 2018, que imparte instrucciones relativas a la aplicación de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (&ldquo;Convención de la Apostilla&rdquo;) en el caso que indica. Fuente: Subdirección Normativa
+ente: Subdirección Normativa. Modifica Circular N° 7 de 2018, que imparte instrucciones relativas a la aplicación de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (“Convención de la Apostilla”) en el caso que indica. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para solicitar la devolución o imputación del IVA, intereses, reajustes o multas pagados en exceso por contribuyentes extranjeros sujetos al régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece procedimiento para solicitar la devolución o imputación del IVA, intereses, reajustes o multas pagados en exceso por contribuyentes extranjeros sujetos al régimen de tributación simplificada del párrafo 7° bis del título II de la Ley sobre Impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

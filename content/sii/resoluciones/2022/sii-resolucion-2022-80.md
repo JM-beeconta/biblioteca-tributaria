@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y el Centro de Formación Técnica ENAC Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos y el Centro de Formación Técnica ENAC Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

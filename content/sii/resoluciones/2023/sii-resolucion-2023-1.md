@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 09 de Enero del 2023 Exime a Claro Chile SPA de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/doc…
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 09 de Enero del 2023 Exime a Claro Chile SPA de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.I. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documen…
 
 ## Referencias detectadas
 

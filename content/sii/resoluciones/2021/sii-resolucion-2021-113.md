@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Eliminase la aposición de cuño seco, en la autorización de documentos Tributarios en papel. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Eliminase la aposición de cuño seco, en la autorización de documentos Tributarios en papel. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

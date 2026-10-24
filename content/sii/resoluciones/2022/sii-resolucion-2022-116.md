@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración jurada sobre aviso de intención de permanencia en chile, de acuerdo a la Circular N° 63 de 2021. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece procedimiento para presentar la declaración jurada sobre aviso de intención de permanencia en chile, de acuerdo a la Circular N° 63 de 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 
