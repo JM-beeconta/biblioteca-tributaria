@@ -24,10 +24,10 @@ LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS OFICIO 7319 DE 1975
 Home | Ventas
 y Servicios - Anteriores
 LEY SOBRE
-IMPUESTO A LAS VENTAS Y SERVICIOS ARTICULO 62�- ORD.- N� 7319,
+IMPUESTO A LAS VENTAS Y SERVICIOS ARTICULO 62°- ORD.- N° 7319,
 DE 21 DE NOVIEMBRE DE 1975
 
-MATERIA: Obligaci�n
+MATERIA: Obligación
 de constar en certificado emitido por profesional contable, el hecho de
 haberse retirado del establecimiento comercial los Libros de Compras y
-Ventas Diarias, por un plazo m�ximo de tres d�as h�biles.
+Ventas Diarias, por un plazo máximo de tres días hábiles.

@@ -19,10 +19,10 @@
 
 ## Texto extraído
 
-Ordinario N� 4679, de 13 de Agosto de 1975.
+Ordinario N° 4679, de 13 de Agosto de 1975.
 
 Home | Ventas y Servicios -
 Anteriores
 LEY SOBRE
-IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N� 4679, de 13 de
+IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N° 4679, de 13 de
 Agosto de 1975.
