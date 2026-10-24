@@ -1,8 +1,8 @@
-# Oficio N° 413 de 1984
+# Oficio N° 4591 de 1984
 
 - Fuente: SII
 - Tipo: oficio
-- Número: 413
+- Número: 4591
 - Año: 1984
 - Fecha: 1984-02-06
 - Categoría: Renta
@@ -11,7 +11,7 @@
 
 ## Resumen
 
-( Ley de Impuesto a la Renta. Artículo 40°, N°4 . Tributación del “Centro de Grabación para Ciegos, por no contemplar el Decreto Supremo que le concede personalidad jurídica, exención tributaria alguna. (Ordinario N° 4591, de 21 Octubre de 1981)
+(Oficio N° 413, de 06 Febrero 1984) Ley de Impuesto a la Renta. Artículo 40°, N°4 . Tributación del “Centro de Grabación para Ciegos, por no contemplar el Decreto Supremo que le concede personalidad jurídica, exención tributaria alguna. (Ordinario N° 4591, de 21 Octubre de 1981)
 
 ## Referencias detectadas
 

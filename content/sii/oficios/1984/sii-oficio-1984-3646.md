@@ -20,11 +20,11 @@ N° 2833 de 27 de Agosto de 1984) Ley de Impuestos a las Ventas y Servicios Norm
 ## Texto extraído
 
 LEY SOBRE
-IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N� 3646, de
+IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N° 3646, de
 17 de Noviembre de 1983.
 
 Home | Ventas y Servicios -
 Anteriores
 LEY SOBRE
-IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N� 3646, de 17 de
+IMPUESTO A LAS VENTAS Y SERVICIOS - Ordinario N° 3646, de 17 de
 Noviembre de 1983.
