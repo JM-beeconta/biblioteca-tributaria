@@ -139,7 +139,10 @@ jobs:
             const backfill = JSON.parse(backfillRaw);
             if (!Array.isArray(catalog) || !catalog.length) throw new Error('catálogo publicado vacío');
             if (Number(manifest.total_documents) !== catalog.length) throw new Error(`publicado: manifest=${manifest.total_documents}, catálogo=${catalog.length}`);
-            if (backfill.status !== 'completed') throw new Error(`backfill publicado no está completo: ${backfill.status}`);
+            // Durante una recarga con reemplazo (merge-range --campaign) cada tramo publica con
+            // status "running": es un estado válido, no un corpus roto. El piso de 8000 documentos
+            // de abajo sigue protegiendo contra una publicación vacía o truncada.
+            if (!['completed', 'running'].includes(backfill.status)) throw new Error(`backfill publicado en estado inesperado: ${backfill.status}`);
             if (catalog.length < 8000) throw new Error(`corpus publicado incompleto: ${catalog.length}`);
             if (!home.includes('corpusTotal')) throw new Error('monitor de corpus ausente en portada');
             if (!llms.trim()) throw new Error('llms.txt vacío');
