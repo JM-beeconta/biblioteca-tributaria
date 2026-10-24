@@ -15,16 +15,16 @@
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"oficio","number":2064,"year":1980}
 
 ## Texto extraído
 
-OFICIO N� 2064 de 1980
+OFICIO N° 2064 de 1980
 
 Home | Ventas y Servicios -
 Anteriores
 LEY SOBRE IMPUESTO A LAS VENTAS Y
-SERVICIOS - ORDINARIO N� 2064 DE 08 DE ABRIL DE 1980
+SERVICIOS - ORDINARIO N° 2064 DE 08 DE ABRIL DE 1980
 
 APLICACION IVA EN LAS
 DIFERENCIAS DE COBRO PRODUCIDAS POR VENTA DE BIENES MUEBLES A PLAZO A TRAVES

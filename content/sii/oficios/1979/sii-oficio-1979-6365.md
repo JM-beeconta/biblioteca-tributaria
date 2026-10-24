@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 6365
 - Año: 1979
-- Fecha: 1979-07-23
+- Fecha: 1979-09-07
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4443_79.htm
-- Hash SHA-256: b90bf084e53549d072e582f8fac9afe0478d7172dcd1628aa64d32177dc535e6
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/ja6365.htm
+- Hash SHA-256: 64c086a9591b13219a03efea8bf49f2a03f4572fbeb771e9a5d29f09de4e2fd8
 
 ## Resumen
 
-( Ley de Impuesto a la Renta. Artículo 31 N°5. Improcedencia depreciación de terrenos destinados a cementerio. (Oficio N° 4443, de 23 Julio 1979)
+21 Octubre de 1981) Ley sobre impuesto a la renta-art. 31° T ratamiento de los gastos derivados de un contrato de arrendamiento de bienes corporales muebles con opción de compra (leasing). (
 
 ## Referencias detectadas
 
@@ -19,19 +19,13 @@
 
 ## Texto extraído
 
-Ley de Impuesto a la Renta. Artículo 31 N°5. Ordinario N° 4443, de 23 Julio 1979
+ORDINARIO 6365 DE 07-09-1979
 
-Home
-| Años Anteriores
-Ley de
-Impuesto a la Renta. Artículo 31 N°5. Ordinario N° 4443, de 23
-Julio 1979
+Home | Años
+Anteriores
+LEY
+SOBRE IMPUESTO A LA RENTA-ART. 31° (ORDINARIO 6365 DE 07-09-1979)
 
-MATERIA:
-Improcedencia depreciación de terrenos destinados a cementerio
-
-OFICIO N°. 4443, DE 23.07.1979
-
-SUBDIRECCION NORMATIVA
-
-DEPTO. IMPUESTOS DIRECTOS
+TRATAMIENTO DE LOS GASTOS DERIVADOS DE UN
+CONTRATO DE ARRENDAMIENTO DE BIENES CORPORALES MUEBLES CON OPCIÓN
+DE COMPRA (LEASING).
