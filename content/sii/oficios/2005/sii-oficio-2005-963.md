@@ -4,352 +4,61 @@
 - Tipo: oficio
 - Número: 963
 - Año: 2005
-- Fecha: 2005-04-11
+- Fecha: 2005-01-01
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1067.doc
-- Hash SHA-256: 6dea222d36c6b97b4e0616e7537692b12cea2964d4f48ced6c7064eec91cf124
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja963.htm
+- Hash SHA-256: 59f34485fedf520943623fa5470069367debdaeccd3831eef11b4303c7cbd1ca
 
 ## Resumen
 
-Word Resuelve Reconsideraci�n de Oficio Ordinario N�963, de fecha 11.04.2005 del SII. (Ord. N� 5.057, de 26.12.2005)
+Renta – Actual Ley Sobre Impuesto a la – Art. 17°, N° 8, Art. 18°, Art. 41 B, Art. 58°, N° 1 – Circulares N°s 158, de 1976 y 52, de 1993. Word Situación Tributaria de Constitución de Sociedad que se indica, conforme a las Normas de la Ley de la Renta. (Ord. N° 1.660, de 01.06 .2005)
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":963,"year":2005}
-- {"type":"oficio","number":610,"year":2005}
+- {"type":"circular","number":158,"year":1976}
+- {"type":"circular","number":52,"year":1993}
+- {"type":"articulo","law":"LIR","article":"41 A"}
+- {"type":"articulo","law":"LIR","article":"3"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  CÓDIGO DEL TRABAJO, ART. 178°,
-    ART. 305, N°2 – OFICIOS N°S 963 Y 2.325, DE 2005. (ORD. N° 5.057, DE
-                                 26.12.2005)
+LEY RENTA - RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, ART. 18°, ART. 41 B, ART. 58°, N° 1 – CIRCULARES N°S 158, DE 1976 Y 52, DE 1993. (ORD. N° 1.660, DE 01.06 .2005)
 
-Indemnizaciones por Años de Servicios establecidas en  Convenios  Colectivos
-Futuros –Convenios Colectivos Complementarios y Exención  del  artículo  178
-del Código del Trabajo – Improcedencia de extender para efectos  Tributarios
-las normas sobre Indemnización por Años de Servicios pactadas  en  Convenios
-Colectivos a los  apoderados,  gerentes,  ejecutivos  o  administradores  en
-cuyos contratos se les impida Negociar Colectivamente.
+Home | Ley Renta - 2005
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, ART. 18°, ART. 41 B, ART. 58°, N° 1 – CIRCULARES N°S 158, DE 1976 Y 52, DE 1993. (ORD. N° 1.660, DE 01.06 .2005)
 
+SITUACIÓN TRIBUTARIA DE CONSTITUCIÓN DE SOCIEDAD QUE SE INDICA, CONFORME A LAS NORMAS DE LA LEY DE LA RENTA – LA TRIBUTACIÓN QUE AFECTA AL MAYOR VALOR OBTENIDO EN LA ENAJENACIÓN DE ACCIONES, DEPENDE FUNDAMENTALMENTE DE LA CALIFICACIÓN DE HABITUAL O NO DE TALES OPERACIONES – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO – ESTABLECIMIENTO PERMANENTE – ES DECIR, LA SOCIEDAD ANÓNIMA RECONOCE EN CHILE LOS RESULTADOS PERCIBIDOS O DEVENGADOS DE LA SOCIEDAD EXTRANJERA UNIPERSONAL B) AL ESTAR COMPRENDIDOS ÉSTOS EN LOS RESULTADOS DE LA SOCIEDAD UNIPERSONAL A), LA CUAL PASA A SER UNA AGENCIA O ESTABLECIMIENTO PERMANENTE EN EL EXTERIOR DE LA MENCIONADA SOCIEDAD ANÓNIMA – EN OPINIÓN DE ESTE SERVICIO, LA SOCIEDAD ANÓNIMA A CONSTITUIRSE EN EL PAÍS DEBE RECONOCER EN LA BASE IMPONIBLE DEL IMPUESTO DE PRIMERA CATEGORÍA QUE LE AFECTA SÓLO LOS RESULTADOS QUE LA SOCIEDAD UNIPERSONAL A) PERCIBA O DEVENGUE A CONTAR DE LA FECHA DE QUE PASA A SER SU PROPIETARIA, CON MOTIVO DEL APORTE DE SUS ACCIONES POR LA SOCIEDAD INTERNACIONAL EN PAGO DEL CAPITAL DE LA CITADA SOCIEDAD ANÓNIMA CERRADA ESTABLECIDA EN EL PAÍS – INVERSIÓN EN EL EXTRANJERO – MODALIDAD NO CONSIDERADA COMO TAL EN EL ARTÍCULO 41 A LETRA C) DE LA LEY DE LA RENTA, PARA LOS EFECTOS DE PODER INVOCAR LOS CRÉDITOS POR LOS IMPUESTOS PAGADOS EN EL EXTERIOR, ATENDIDO A QUE NO SE TRATA DE AQUEL TIPO DE INVERSIONES QUE EN FORMA EXPRESA SEÑALA DICHA NORMA LEGAL, Y ADEMÁS, LA CITADA OPERACIÓN NO SE HA EFECTUADO MEDIANTE EL MERCADO CAMBIARIO FORMAL COMO LO EXIGE LA DISPOSICIÓN LEGAL PRECITADA.
 
- 1.-  Por Ordinario indicado en el antecedente, se señala  que  ha  recibido
-   en  esa  Dirección  Regional  un  escrito  presentado  por  XXXXXX,   en
-   representación de la empresa YYYYYY S.A., RUT 00.000.000-0, en  la  cual
-   solicita se reconsidere lo  resuelto  mediante  el  Oficio  N°  963,  de
-   11.04.2005, que le afecta y solicita además se pronuncie sobre  materias
-   tributarias derivadas de conflictos laborales, presentación  que  remite
-   para su consideración.
+1.- Por presentación indicada en el antecedente, expresa que una empresa internacional desea constituir en el país una sociedad anónima cerrada de la que será propietaria en un 80%, el resto de las acciones será de propiedad de una empresa chilena aún por definir (su cliente se encuentra negociando con tres sociedades nacionales para estos efectos). Agrega, que el aporte de capital a la sociedad por constituir se pagará de la siguiente forma: enterando la suma de US $0.000.000.- y aportando la totalidad de las acciones que posee en una sociedad unipersonal, domiciliada en un tercer país (su cliente es propietaria del 100% de sus acciones). El aporte de las acciones se valoraría en la suma de US $ 000.000.-
+Señala, que la referida sociedad unipersonal (en adelante sociedad A) es a su vez propietaria del 100% de las acciones de otra sociedad extranjera (en adelante sociedad B).
+De acuerdo a lo expresado, agrega, que a raíz de una discrepancia con el asesor legal de la empresa internacional, es del interés de su cliente que se le aclaren las siguientes materias:
+a) Dado que su cliente será dueño del 80% de la sociedad anónima a constituir en el país, en caso de enajenar dichas acciones –una vez transcurrido un año de su adquisición- solicita se confirme si respecto de tal operación será considerado como no habitual, no obstante que en su giro estatutario se contempla accesoriamente el enajenar valores mobiliarios y, entre éstos, acciones. Lo anterior, dado que el ánimo con el que se adquirirán las acciones será el de obtener el control de la sociedad y no la especulación con dichos valores.
+b) Si la sociedad A (extranjera) será considerada para efectos tributarios en Chile una
 
-   En primer lugar y respecto a los antecedentes de hecho, señala:
+agencia o establecimiento permanente en el exterior de la sociedad anónima a constituir y deberá ésta última reconocer y tributar en Chile por sus resultados, o bien será considerada una sociedad independiente no afectándose a tributación sino por los dividendos que le sean distribuídos a la sociedad a constituir en el país.
+c) En caso de ser considerada la sociedad (extranjera) agencia o establecimiento permanente de la sociedad anónima a constituir en el país, solicita se aclare además si deben reconocerse en el país por esta última también los resultados de la sociedad B) (extranjera), considerando que ésta sería a su vez un establecimiento permanente o agencia de otro establecimiento permanente o agencia (sociedad unipersonal A); o bien, al ser las sociedades unipersonales A y B personas jurídicas autónomas, sólo debería reconocerse por la sociedad anónima que se constituiría en el país, las utilidades percibidas, esto es, efectivamente distribuidas o retiradas
+d) Si correspondería que la sociedad anónima a constituir en el país reconozca en su base imponible del impuesto de Primera Categoría los resultados devengados en las sociedades unipersonales A y B, correspondientes a utilidades acumuladas y que no han sido distribuídos a su cliente y que han sido generadas con anterioridad a su aporte a la sociedad anónima chilena o, por el contrario, esta última sociedad debe reconocer sólo las utilidades que se devenguen o perciban una vez que las sociedades A y B hayan pasado a ser de su propiedad en un 100% por medio del aporte de las acciones de éstas que su cliente le hará.
+e) Dado el hecho que el aporte del 100% de las acciones de la sociedad A) a la sociedad anónima que se proyecta constituir en el país será al momento de su constitución, no es posible cumplir con los requisitos del artículo 41 A, letra C) de la Ley sobre Impuesto a la Renta, esto es, no es factible materializar la inversión a través del mercado cambiario formal o inscribirse en el Registro de Inversiones en el Extranjero del Servicio de Impuestos Internos, en razón de ello solicita que se aclare si las rentas que se generen por las sociedades A y B y que deban ser reconocidas en Chile podrán gozar de crédito por el impuesto corporativo que haya gravado las utilidades generadas por esas sociedades.
+f) Por último, es de interés de su cliente el que se aclare que si éste, en vez de constituir una sociedad anónima en el país, establece una agencia y en ésta radica el 100% de las acciones que posee en la sociedad A e indirectamente el 100% de las que tiene en la sociedad B, le sería aplicable la norma del inciso segundo del artículo 3° de la Ley sobre Impuesto a la Renta, en el sentido que el extranjero que constituye domicilio en el país sólo se encuentra afecto a los impuestos que graven las rentas de fuente chilena durante los tres primeros años contados desde su ingreso al país. Lo anterior, dado que el Código Civil acepta la pluralidad de domicilios y la sociedad extranjera al constituir agencia en Chile civilmente pasa también a domiciliarse en el país.
+2.- Sobre el particular, respecto de la primera consulta formulada se señala que la tributación que afecta al mayor valor obtenido en la enajenación de acciones, depende fundamentalmente de la calificación de habitual o no de tales operaciones, considerándose para estos efectos, según lo prescrito en el inciso segundo del artículo 18 de la Ley de la Renta, el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de las acciones, correspondiendo al contribuyente probar lo contrario.
+Ahora bien, este Servicio mediante la Circular Nº 158, de 1976, publicada en Internet (www.sii.cl), ha entregado ciertos elementos de juicio de tipo general que deben tenerse presente para concluir si existe o no habitualidad en la enajenación de acciones, estableciéndose en dichas instrucciones que se considera no habitual aquella situación que se indica en la presentación, esto es, cuando se trate de inversiones en acciones de sociedades cuyo capital pertenezca en un 50% ó más a la empresa inversionista, toda vez que tales adquisiciones no conllevan el ánimo de negociar con ellas en las bolsas de valores, sino de usarlas o servirse de ellas para llevar a cabo en mejor forma las operaciones propias del giro u objeto de la empresa.
+En consecuencia, y basado en lo antes expuesto, se informa que se considera no habitual la enajenación de acciones de sociedades cuyo capital pertenezca en un 50% ó más a la empresa inversionista, aún cuando en los estatutos de la sociedad cedente de dichos valores figure como uno de sus objetos sociales la compra y venta de acciones, quedando el mayor valor obtenido de tal operación afecto al impuesto de Primera Categoría, en calidad de único a la renta, de acuerdo a lo previsto en el inciso tercero del N° 8 del artículo 17 de la ley del ramo.
+No obstante lo anterior, debe tenerse presente que el referido impuesto único no es aplicable en las siguientes dos situaciones: a) Si entre la fecha de adquisición y venta de las acciones transcurre un período inferior a un año; y b) Si el contribuyente enajenante vende las acciones a una sociedad de personas, sociedad anónima cerrada, o sociedad anónima abierta, en este último caso, dueño del 10% ó más de las acciones, de las cuales a su vez es socio o accionista, o a empresas en las que tenga intereses; ya que en ambos casos, el mayor valor obtenido en dicha operación se afecta con los impuestos generales de la ley del ramo; esto es, con el impuesto de Primera Categoría, con tasa actualmente de 17%, aplicada sobre la renta percibida o devengada, y con los impuestos Global Complementario o Adicional, según corresponda, en la oportunidad que señalan las normas legales que regulan a dichos tributos personales.
+En consecuencia, en relación con lo consultado se confirma lo aseverado en la presentación, siempre y cuando se cumplan las condiciones y requisitos antes indicados para que dicha operación de enajenación de acciones sea calificada de no habitual.
+3.- En cuanto a la segunda consulta formulada, se expresa que la empresa internacional al aportar a la sociedad anónima cerrada a constituir en Chile el 100% de las acciones de la sociedad unipersonal extranjera A), dicha sociedad anónima pasa a ser dueña de la mencionada sociedad unipersonal y en virtud de tal condición ésta adopta la calidad de establecimiento permanente o agencia en el extranjero de la sociedad constituída en el país, quedando sometida esta última sociedad para su tributación a las normas del artículo 41 B de la Ley de la Renta, cuyas instrucciones este Servicio las impartió mediante la Circular N° 52, de 1993, publicada en Internet (www.sii.cl).
+4.- En relación con la tercera consulta planteada, se señala que al ser considerada la sociedad extranjera A) como una agencia o establecimiento permanente en el exterior de la sociedad anónima cerrada constituída en el país según lo expresado en el número precedente, obviamente que los resultados de la sociedad unipersonal B) al estar comprendidos en las rentas de la sociedad extranjera A), pasan a formar parte de las rentas de la sociedad anónima cerrada constituída en Chile. Es decir, la sociedad anónima antes indicada también reconoce en Chile los resultados percibidos o devengados de la sociedad extranjera unipersonal B) al estar comprendidos éstos en los resultados de la sociedad unipersonal A), la cual pasa a ser una agencia o establecimiento permanente en el exterior de la mencionada sociedad anónima.
 
-   En el documento denominado “Protocolo de Derechos Laborales  Proceso  de
-   Transferencia  de ZZZZZZ S.A.”, se acordaron  una  serie  de  beneficios
-   indemnizatorios  a los trabajadores cuyos contratos  de  trabajo  fueran
-   terminados por decisión  del operador privado   que  se  adjudicara  los
-   derechos de explotación.
+5.- Referente a la cuarta consulta, se informa que en opinión de este Servicio la sociedad anónima a constituirse en el país debe reconocer en la base imponible del impuesto de Primera Categoría que le afecta sólo los resultados que la sociedad unipersonal A) perciba o devengue a contar de la fecha de que pasa a ser su propietaria, con motivo del aporte de sus acciones por la sociedad internacional en pago del capital de la citada sociedad anónima cerrada establecida en el país.
 
-   En lo que se refiere a los  beneficiarios,  el  punto  1  del  documento
-   citado, señala que “Las estipulaciones  que se consignarán más  adelante
-   se harán aplicables  a los trabajadores socios   de  los  Sindicatos  ya
-   individualizados, contratados por ZZZ S.A. con anterioridad   al  31  de
-   Diciembre de 2000 y con  contrato  indefinido  vigente  a  la  fecha  de
-   suscripción  del  Presente Protocolo. La empresa extenderá en  su  caso,
-   los  beneficios  de  este  Protocolo  de  Derechos   Laborales   a   los
-   trabajadores no  sindicalizados  que cumplan el requisito de  antigüedad
-   aquí establecido.
+6.- Respecto de la quinta consulta formulada, se señala que la sociedad anónima cerrada constituída en Chile al hacerse dueña de una empresa extranjera mediante el aporte del 100% de sus acciones es una forma de inversión en el extranjero, pero dicha modalidad de inversión no está considerada como tal en el artículo 41 A Letra C) de la Ley de la Renta, para los efectos de poder invocar los créditos por los impuestos pagados en el exterior, atendido a que no se trata de aquel tipo de inversiones que en forma expresa señala dicha norma legal, y además, la citada operación no se ha efectuado mediante el mercado cambiario formal como lo exige la disposición legal precitada.
+7.- Respecto de la última consulta planteada, se expresa que si la empresa internacional constituye en el país un establecimiento permanente o agencia de aquellas a que se refiere el artículo 58 N° 1 de la Ley de la Renta, no le es aplicable lo dispuesto en el inciso segundo del artículo 3° de la ley precitada, atendido a que tales contribuyentes para los efectos de la ley del ramo, son considerados sin domicilio ni residencia en Chile, y por lo tanto, sus impuestos los pagan sólo sobre las rentas de fuente nacional según lo establece la primera norma legal antes indicada.
 
-   En el punto 10, denominado “Naturaleza Jurídica”, las  partes  señalaron
-   que “El  presente  Protocolo  de  Derechos  Laborales  tiene  naturaleza
-   jurídica de Convenio Colectivo Complementario de los demás  instrumentos
-   Colectivos vigentes, actuales y futuros, constituyendo  un  addendum  de
-   estos.
+ALFREDO ECHEVERRIA HERRERA
 
-   Una vez materializada la toma de control por parte de  YYYYYY  S.A.  fue
-   necesaria la desvinculación  de parte del personal de  ella,  entre  los
-   que se encontraban   el  ejecutivo  que  hizo  la  consulta  tributaria.
-   Respecto de él, la presentación del Sr. Sergio Pinto Fernández  pone  en
-   conocimiento de este Servicio antecedentes completamente   omitidos  por
-   el  ex  ejecutivo  antes  mencionado,  entre   ellos,   las   siguientes
-   circunstancias:
+DIRECTOR SUBROGANTE
 
-   a.-     El ex ejecutivo de la empresa no era miembro del   Sindicato  ni
-   fue parte de la Negociación.
-      .-    La empresa no había hecho extensión  de  los  beneficios  en  la
-   forma que se indicaba en el punto 1 del Protocolo que se refería  a  los
-   beneficiarios y
-   c.-     No obstante, ello por acuerdo del directorio, se decidió pagarle
-   las sumas consignadas en sus finiquitos
-   d.-     Que en consecuencia, el pago de las indemnizaciones señaladas no
-   quedarían cubiertas por el tratamiento tributario del inciso primero del
-   artículo 178 del Código del Trabajo, sino que  resultaría  aplicable  lo
-   dispuesto en el artículo 17 N° 13 de la Ley de la Renta.
+Oficio N° 1.660, de 01.06.2005.
 
-   Asimismo, afirma en su escrito que el pago  acordado  con  el  ejecutivo
-   mencionado correspondía derechamente a  una  “indemnización  voluntaria,
-   definida en el marco del proceso de cambio  de control, pero que en caso
-   alguno,  tenía  la  entidad  para  considerarla  una  extensión  de  los
-   beneficios como se indicaba en el protocolo”, razón por la que no  podía
-   aplicarse lo dispuesto  en el inciso segundo del artículo 178 del Código
-   del Trabajo y reliquidar el  Impuesto Único de Segunda Categoría  en  la
-   forma dispuesta en los incisos segundo, tercero y cuarto   del  artículo
-   46 de la Ley de la Renta cuyas instrucciones  para su determinación  las
-   impartió el Servicio bajo las Circulares 37, de 1990 y 29 de 1991.
+Subdirección Normativa
 
-   En segundo lugar, y respecto a los antecedentes de derecho señala:
-
-   En los oficios  cuya  reconsideración  se  solicita,  se  ha  citado  el
-   Dictamen N° 2.325 de 2004 de  la  Dirección  del  Trabajo,  el  cual  en
-   síntesis señaló  que el  Protocolo,  cumplía  también  la  exigencia  de
-   “complementar”  y  “continuar”  directa  o  remotamente,   un   contrato
-   colectivo anterior, a saber,  el celebrado entre los  Sindicatos  de  la
-   empresa y ZZZ con fecha 1 de octubre de 2002.
-
-   Vale decir, la Dirección del Trabajo, validó  el  procedimiento  seguido
-   entre las partes y entre otras consecuencias, el Servicio  de  Impuestos
-   Internos  también  validó  que  el   tratamiento   tributario   de   las
-   indemnizaciones que se  pagarían  en  virtud  de  dicho  Protocolo   son
-   ingresos no renta ya que se les aplicaría lo dispuesto  en  el  artículo
-   178  inciso  primero  del Código del Trabajo.
-
-   Sin embargo, cabe tener presente  –  prosigue  la  consulta  –  que  las
-   Directivas Sindicales, solo representan a los trabajadores  miembros  de
-   la  organización  sindical,  o  a  los  adherentes  en  el  proceso   de
-   negociación colectiva, pero en ningún caso el  Código  del  Trabajo  les
-   confiere  representación  de  los  trabajadores  no   afiliados   o   no
-   adherentes. Para ello, basta revisar el artículo 326 en relación con  el
-   artículo 220 del Código del Trabajo.
-
-   En consecuencia, la negociación  del Protocolo  sólo  podía  alcanzar  a
-   quienes fueran parte  de la Negociación del  Convenio  Complementario  y
-   tal carácter asistía sólo a los miembros de  los Sindicatos y  solo  así
-   se explica  que quedara en manos de la empresa la facultad de extender o
-   no los beneficios consagrados en el documento.
-
-   La presentación informa que la calidad de “parte” ha sido precisada  por
-   la propia Dirección del Trabajo  en el Dictamen N°  1.016/48  de  23  de
-   Febrero de 1999, al señalar que “el legislador ha radicado  los  efectos
-   del contrato colectivo en quienes hubieren sido partes  del  proceso  de
-   negociación, entendiéndose por tales, el o los empleadores y los  socios
-   del o los sindicatos que negociaron  colectivamente,  como  también,  el
-   grupo de trabajadores que lo hizo según el caso.“ Se agrega que: “si  el
-   proyecto de contrato colectivo es presentado por un  sindicato,  forzoso
-   resulta concluir que esta entidad no puede considerarse como  parte  del
-   contrato  colectivo,  ya  que  el  ordenamiento  jurídico  laboral  sólo
-   atribuye tal carácter a los trabajadores  y  al  empleador.”  Finalmente
-   añade que  los sindicatos como tales no  son  parte  de  la  negociación
-   colectiva sino que su actuación se limita a funciones de  representación
-   de los trabajadores involucrados, en quienes radica, en  definitiva,  la
-   calidad de parte.
-
-
-   Sobre la extensión de beneficios de los  pronunciamientos  del  Servicio
-   han sido claros ya que el oficio N° 610 del 4 de marzo de  2005   señala
-   expresamente: “Finalmente, en lo que respecta  a  lo  dispuesto  por  el
-   artículo 346 del Código del Trabajo, en virtud  del  cual  el  empleador
-   extiende los  beneficios  estipulados  en  un  instrumento  colectivo  a
-   trabajadores que ocupen  cargos  o  desempeñen  funciones  similares,  y
-   respecto de lo cual se solicita a este Servicio confirmar  que,  en  tal
-   caso,  las  indemnizaciones  pactadas  en  el   instrumento   colectivo,
-   igualmente no constituyen renta para el trabajador a quien  se  le  hizo
-   extensivo el beneficio, cabe expresar, que si  como  se  indica  en  sus
-   presentaciones, la legislación laboral establece la posibilidad  de  que
-   el empleador, cumpliendo los requisitos  que  señala  el  artículo  346,
-   extienda los beneficios pactados  en  un  instrumento  colectivo,  entre
-   ellos la indemnización  por  término  de  funciones  o  de  contrato  de
-   trabajo,  a  trabajadores  que  ocupen  cargos  o  desempeñen  funciones
-   similares a las de aquellos que formaron parte del contrato colectivo  o
-   convenio colectivo en que  se  estipularon,  es  aplicable  al  caso  lo
-   dispuesto en el artículo 178 del Código del Trabajo, en cuanto a que las
-   referidas   indemnizaciones   no   constituirán   renta   para   efectos
-   tributarios, cumpliéndose los requisitos legales.
-
-      Por lo anterior consulta:
-
-   a)      Si, considerando lo expuesto en su presentación, se  mantiene  o
-   se reconsidera  lo expuesto en el Oficio N° 963, en el  sentido  que  la
-   indemnización pagada al Sr. XXXXXX corresponde que  sea  considerada  un
-   ingreso no constitutivo de  renta  y  en  consecuencia,  corresponde  la
-   devolución del impuesto único enterado;
-
-   b)      Que para los efectos de aplicar el  tratamiento  tributario  del
-   artículo  178  inciso  primero   del   Código   del   Trabajo,   a   las
-   indemnizaciones establecidas en un Convenio Colectivo Complementario, es
-   suficiente el acuerdo de las partes en el sentido  de  declarar  que  se
-   trata  de  un  documento   que   complementa,   modifica   o   reemplaza
-   disposiciones de un contrato colectivo anterior;
-
-   c)      Que dicho tratamiento tributario puede alcanzar  incluso  a  las
-   indemnizaciones por años de servicios que se  establezcan  en  Convenios
-   Colectivos futuros que  cumplan  con   el  requisito  de  ser  Convenios
-   Colectivos Complementarios;
-
-   d)      Que respecto de los trabajadores  que  no  fueron  parte  de  la
-   negociación colectiva, la extensión unilateral que hace un empleador  de
-   una indemnización por años  de  servicios  establecida  en  un  Contrato
-   Colectivo, es suficiente  para  que  resulte  aplicable  el  tratamiento
-   tributario establecido en el artículo 178 inciso segundo del Código  del
-   Trabajo, esto es, un ingreso no constitutivo de  renta, y
-
-e) Que asimismo, la extensión señalada  hace  aplicable  dicho  tratamiento
-   tributario a  las  indemnizaciones  que  se  paguen  a  los  apoderados,
-   gerentes, ejecutivos o  administradores   cuyos  contratos  les  impiden
-   negociar colectivamente.
-
-
-2.-   Antes de resolver sobre el fondo de  las  preguntas  formuladas,  cabe
-   recordar que este Servicio realiza una labor de calificación jurídica en
-   base a los antecedentes de hecho aportados por los interesados.   Por su
-   parte,  es  posible  que  la  descripción  fáctica   expuesta   por   el
-   contribuyente sea parcial u omita elementos  esenciales  para  calificar
-   correctamente su consulta. En estos casos, el error que pueda  cometerse
-   no incide en la interpretación del derecho, sino  en  su  aplicación  al
-   caso concreto.
-
-   En la especie, la “reconsideración” presentada por la  empresa  pone  en
-   conocimiento de este Servicio una serie de antecedentes de hecho que, en
-   una consulta previa, fueron derechamente omitidos,  de  suerte  que  ese
-   pronunciamiento no decae desde el punto de vista jurídico, sino  que  es
-   inaplicable al caso concreto.  De  este  modo,  lo  que  procede  no  es
-   “reconsiderar” un Oficio perfectamente  aplicable,  desde  el  punto  de
-   vista jurídico,  a  los  hechos  tal  y  como  fueron  descritos  en  su
-   oportunidad.  En cambio, lo que sí corresponde es precisar su  verdadero
-   alcance o aplicación al caso concreto, tal como los hechos “son”  en  la
-   realidad.
-
-   Efectivamente,  la  “reconsideración”  transcrita   precedentemente   no
-   controvierte que el Protocolo de  Derechos  Laborales,  no  obstante  su
-   denominación, tenga la naturaleza de “Convenio Colectivo”,  conforme  al
-   artículo 351 del Código del Trabajo; por cuanto se trata de  un  acuerdo
-   suscrito entre un empleador y diversas organizaciones sindicales con  el
-   fin de establecer condiciones comunes de trabajo y remuneraciones por un
-   tiempo determinado, sin sujeción a normas de negociación colectiva.
-
-   Ni tampoco niega, de acuerdo a los pronunciamientos de la Dirección  del
-   Trabajo – descritos oportunamente en el Oficio N° 2.325 de 2004 por este
-   Servicio – que el referido Protocolo, en sí mismo,  cumpla  también  con
-   las exigencias de “complementar” y “continuar”, directa  o  remotamente,
-   un contrato colectivo anterior y, por tanto, que tenga la naturaleza  de
-   “Convenio Colectivo Complementario”.
-
-
-   En consecuencia, cabe concluir  que  la  doctrina  sustentada  por  este
-   Servicio en el Oficio N° 963 de 2005, en cuanto a la naturaleza jurídica
-   del Protocolo y para efectos tributarios, se mantiene incólume.  En  ese
-   sentido, “reconsiderar” el Oficio no tiene objeto, máxime si, como se ha
-   dicho, esa doctrina no ha sido, en realidad, puesta en duda.
-
-3.-   Por otra parte, una vez revisado detenidamente el  citado  oficio,  se
-   advierte que la exposición del caso efectuada en esa oportunidad por  el
-   consultante y de los antecedentes aportados por él mismo – resumidos  en
-   los numerales 1 a 3 – no se menciona (porque fue omitido)  cuál  era  el
-   verdadero vínculo que el consultante tenía con la empresa. En  especial,
-   y  a  la  luz  de  los  nuevos  antecedentes  aportados  por  la   nueva
-   presentación, se omitió informar a este Servicio que:
-
-   a.-     El consultante era un ejecutivo de  la  empresa  y  no  un  mero
-   “trabajador”; que, por  lo  mismo,  no  era  miembro  del  Sindicato  de
-   trabajadores ni fue parte de la negociación. En efecto, según  se  puede
-   corroborar, el Oficio discurre sobre la base de que el  consultante  era
-   un “ex trabajador” de la empresa, entendiéndose  de  buena  fe,  que  se
-   trataba justamente de aquellos trabajadores aludidos por el Protocolo.
-
-   b.-     Tampoco expresó por qué específicas razones le fueron extendidos
-   los beneficios del Protocolo, a pesar de no pertenecer al  Sindicato  ni
-   tener la calidad de “trabajador” en los términos que el propio Protocolo
-   estipulaba.
-
-   c.-     Ni menos, aun, expresó que lo recibido  fue,  en  realidad,  una
-   “indemnización voluntaria, definida en el marco del proceso de cambio de
-   control”, pero que en caso  alguno,  como  expresa  la  presentación  de
-   autos, una extensión de los beneficios en los términos previstos por  el
-   Protocolo.
-
-   A la luz de todo lo expuesto y, en especial, al concepto de  “parte”  en
-   un  contrato  colectivo   reseñado   por   la   consulta   en   base   a
-   pronunciamientos de la Dirección del Trabajo, así como en el  Oficio  N°
-   610 de 2005, de este Servicio; Resulta evidente  que  el  Protocolo,  no
-   obstante que válido enfrente de la Ley de la  Renta,  era  absolutamente
-   inaplicable al consultante en cuestión.
-
-   En ese sentido, el presente escrito de “reconsideración”, en  rigor,  no
-   supone cambiar los razonamientos de  derecho  vertidos  en  los  oficios
-   anteriores del Servicio, sino poner en conocimiento que  el  consultante
-   no proporcionó todos los elementos de hecho y de derecho relevantes para
-   estimar que el Protocolo no le era aplicable justamente a él.
-
-   En otras palabras, no es un problema relativo a la  naturaleza  jurídica
-   del protocolo y las  indemnizaciones  que  confería,  sino  un  problema
-   relativo a quienes estaban jurídicamente amparados por él.
-
-4.-   Respondiendo derechamente las preguntas formuladas:
-
-a) En el entendido que no se trata propiamente de “reconsiderar”  lo  dicho
-   ni variar una interpretación sino simplemente de precisar su  ámbito  de
-   aplicación personal, no es  posible  dar   lugar  a  la  solicitud.  Sin
-   perjuicio de lo cual, se concluye que el Oficio N° 963 de 2005, así como
-   la doctrina sustentada en él, es inaplicable a quien formulo la consulta
-   que le dio origen. En consecuencia  no  puede  sino  concluirse  que  el
-   descuento por concepto de impuesto único es jurídicamente  procedente  y
-   no corresponde su devolución.
-
-
-b) Respecto de la segunda y  tercera  pregunta,  cabe  señalar  que  si  se
-   verifican  los  requisitos  establecidos  en  la  ley  y  además  se  da
-   cumplimiento a las exigencias impuestas por  la Dirección  del  Trabajo,
-   contenidas en el Oficio N° 2.325, de 2004 de este Servicio, no se divisa
-   impedimento  para  que  las  indemnizaciones  por  años   de   servicios
-   establecidas en Convenios Colectivos futuros, cumplan con  el  requisito
-   de ser Convenios Colectivos Complementarios y se beneficien así  con  la
-   exención del artículo 178 del Código del Trabajo, dado que el alcance de
-   dichas instrucciones es permanente y no opera sólo de modo  retroactivo,
-   siendo evidente en este sentido  que el mero acuerdo de las  partes   en
-   el sentido que se trata de un  documento  que  complementa,  modifica  o
-   reemplaza disposiciones de un contrato colectivo anterior, determine que
-   las partes se vean beneficiadas con  la exención impositiva en análisis.
-
-
-
-
-c)  La  cuarta  pregunta  se  entiende  contestada   según   lo   expresado
-   anteriormente.
-
-
-d) Respecto de la última consulta, cabe tener presente lo dispuesto  en  el
-   N° 2  del artículo 305 del Código de Trabajo, el  cual  impide  negociar
-   colectivamente  a  los  gerentes,  subgerentes,  agentes  y  apoderados,
-   siempre que estén dotados  de,  a  lo  menos,  facultades  generales  de
-   administración, debiendo dejarse constancia de tal circunstancia  en  el
-   contrato de trabajo. Por otra parte, el Dictamen  de  la  Dirección  del
-   Trabajo citado anteriormente y el  Oficio  N°  610,  de  2005,  de  este
-   Servicio: el primero, determina el alcance del concepto “parte”;  y,  el
-   segundo, permite extender los beneficios estipulados en  un  instrumento
-   colectivo a trabajadores  que  “ocupen  cargos  o  desempeñen  funciones
-   similares”. De todas estas consideraciones  cabría  concluir  que,  para
-   efectos  tributarios,  no  sería  posible  extender  las  normas   sobre
-   indemnización por años de servicios pactadas en Convenios  Colectivos  a
-   los  apoderados,  gerentes,  ejecutivos  o  administradores   en   cuyos
-   contratos se les impida negociar colectivamente.
-
-
-
-
-
-
-
-
-                                                                JUAN    TORO
-RIVERA
-
-
-DIRECTOR
-
-
-
-
-
-
-                       Oficio N° 5.057, de 26.12.2005
-
-                           Subdirección Normativa
-
-                         Dpto. de Impuestos Directos
+Dpto. de Impuestos Directos

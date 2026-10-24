@@ -4,225 +4,44 @@
 - Tipo: oficio
 - Número: 953
 - Año: 2005
-- Fecha: 2005-03-30
-- Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1129.doc
-- Hash SHA-256: 12872f3adda5cf2116152ce06332be9fba3ee49f9280c6161b1331ba40dd65d5
+- Fecha: 2005-05-12
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja953.htm
+- Hash SHA-256: d8aad05ec3c96708b45e50df0bc04b9a717e8316149d0581ab5b975c310b0eee
 
 ## Resumen
 
-Word Tratamiento Tributario de la Enajenaci�n de Derechos Sociales, en caso que indica. (Ord. N� 744, de 02.03.2006)
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Ley N° 19.149, de 1992 – Ley N° 18.392, Art. 9°. (Ord. N° 1.422, de 12.05.2005) Word Beneficio Tributario del Artículo 9°, de la Ley N° 18.392, en relación con el Reingreso de Mercaderías al resto del País.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":100,"year":1975}
-- {"type":"oficio","number":953,"year":1997}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –   ART. 41° N° 9 – CIRCULAR N° 100,
-       DE 1975 –– OFICIO N° 953, DE 1997. (ORD. N° 744, DE 02.03.2006)
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 19.149, DE 1992 – LEY N° 18.392, ART. 9°. (ORD. N° 1.422, DE 12.05.2005)
 
-Derechos Sociales – Determinación del Costo Tributario de la Enajenación  de
-Derechos Sociales en sociedades de personas  – Pronunciamiento  emitido  por
-el Servicio.
+Home | Ventas y Servicios - 2005
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 19.149, DE 1992 – LEY N° 18.392, ART. 9°. (ORD. N° 1.422, DE 12.05.2005)
 
- 1. Por presentación indicada en el antecedente, expone la situación  de  su
-    cliente XXXXXX S.A., en relación con  la  operación  de  enajenación  de
-    derechos sociales en YYYYYY Limitada, transferidos el año 2002 a  TTTTTT
-    Ltda., respecto de la cual señala,  que el  resultado  de  dicha  venta,
-    entre partes relacionadas y obligadas a  llevar  contabilidad  completa,
-    arrojó una pérdida.
+BENEFICIO TRIBUTARIO DEL ARTÍCULO 9°, DE LA LEY N° 18.392, EN RELACIÓN CON EL REINGRESO DE MERCADERÍAS AL RESTO DEL PAÍS – EL REINGRESO A QUE SE REFIERE, SE CONFIGURARÁ SÓLO CUANDO LAS MERCADERÍAS QUE INDICA, SE SUSTRAIGAN DEL TERRITORIO PRIVILEGIADO PARA SER USADAS O CONSUMIDAS EN EL RESTO DEL TERRITORIO NACIONAL, CIRCUNSTANCIA QUE EN EL CASO PLANTEADO Y SEGÚN LO MANIFESTADO POR EL CONSULTANTE, OCURRIRÍA AL TÉRMINO DEL ÚLTIMO VIAJE DE LA TEMPORADA.
 
-    Señala a continuación, que con fecha 30 de marzo de  2005,  el  Servicio
-    notificó a su representada la Citación N°14, de fecha 24  de  marzo  del
-    mismo año, a través de la cual se observa el costo tributario a  deducir
-    en la venta de derechos sociales utilizado por XXXXXX S.A. en  la  venta
-    de derechos sociales de la sociedad YYYYYY Limitada.
+1.- Se ha recibido en esta Dirección Nacional su Oficio del antecedente, mediante el cual manifiesta haber recibido una consulta formulada por la Empresa XXXXXXXX S.A., RUT N° 00.000.000-0, dedicada al transporte de pasajeros, acogida a la Ley N° 18.392, de 1992, (Ley Navarino), que establece un Régimen Preferencial Aduanero y Tributario para el territorio de la XII Región de Magallanes y Antártica Chilena ubicado al sur de los límites geográficos que dicho cuerpo legal señala, quien solicita que el control del ingreso de mercaderías se efectúe en el último viaje de cada temporada, momento en el cual debieran ser pagados los impuestos contemplados en el D.L. N° 825, de 1974, y no cada vez que sus naves recalan en el Puerto de Punta Arenas para reabastecimiento. Al efecto, se señala que una vez a la semana la nave de la empresa toma pasajeros y se abastece de los insumos necesarios para su operación en el área amparada por la Ley Navarino, en un muelle de la ciudad de Punta Arenas; manifiesta el ocurrente que las mercaderías normalmente son consumidas durante el viaje dentro del área geográfica beneficiada por la ley, pero que el sobrante de ellas regresa al puerto de Punta Arenas durante la operación de reabastecimiento y luego se reingresan a la zona preferencial para un nuevo viaje. Los solicitantes consideran innecesario declarar el reingreso del saldo de mercaderías en el Puerto de Punta Arenas en cada viaje, sino que estiman que el momento en que efectivamente se producirá el reingreso de las mercaderías sobrantes al resto del país será al término del último viaje de la temporada, oportunidad en que la nave pasa a su mantenimiento anual, por lo que es ese el momento en que debiera hacerse el trámite de reingreso de los saldos de mercaderías no consumidas.
+Se agrega que la Dirección Regional dio respuesta al contribuyente mediante el Ord. N° XXX, de XX/X/04, basándose en el Res. N° 000 de la Subdirección Jurídica, de XX/X/04; no obstante, señala que la contribuyente reitera su petición por cuanto, se le habría señalado que las aguas jurisdiccionales no corresponderían a las comunas beneficiadas con la Ley Navarino, demostrándose con esto un error sobre los conceptos de “territorio” y “límites provinciales” que emplea la ley mencionada al conceder el beneficio.
+Conforme a lo expuesto, se solicita un pronunciamiento respecto del planteamiento de la empresa consultante.
+2.- En primer término, me permito señalar que el Res. N° XXX, se emitió a raíz del requerimiento de una empresa naviera que efectuaba viajes de cabotaje de alimentos para los cultivos pesqueros, entre diversos puertos del sur del país, para que se le ampliara la zona para la certificación de las “facturas especiales” contempladas en la Ley N° 19.149, de 1992, respecto de la adquisición de mercancías en la ciudad de Punta Arenas, que serían consumidas en el interior de las naves, en su trayecto hacia la localidad de Porvenir.
+Para resolver lo planteado en su oportunidad se tuvo presente que la Ley N° 19.149, establece franquicias y beneficios tributarios de orden excepcional, a favor de las empresas y actividades expresamente comprendidas en ella, por lo que su interpretación debe circunscribirse a las situaciones señaladas en su texto legal.
+3.- De esta manera, conteniendo el Res. N° XXX, alcances efectuados a una Ley distinta: la Ley N° 19.149; y estando referido a aspectos de hecho también diversos de los que constituyen el planteamiento de la empresa ocurrente en esta oportunidad, se concluye que los criterios empleados para resolver el caso analizado en el Oficio Res. XXX, no son aplicables al caso planteado por el contribuyente XXXXXXXX S.A..
+4.- Ahora bien, con respecto a la situación específica de la empresa XXXXXXXX S.A., por aplicación del artículo 9° de la Ley N° 18.392, ella goza de la exención del IVA generado en la adquisición de las mercaderías que utiliza en el desarrollo de su actividad dentro del “territorio” de la zona preferencial que fija la ley, comprendiendo también las adquiridas para ser consumidas y/o utilizadas en su navegación por las aguas comprendidas en dicha zona, en cuanto éstas se entienden exportadas para los efectos de los tributos contenidos en el D.L. 825, de 1974.
+En cuanto a la consulta efectuada por dicha empresa, acerca del reingreso de las mercaderías sobrantes al término de cada viaje efectuado a la zona preferencial, se estima que aquel evento no ocurre en el caso planteado. En efecto, el inciso final del artículo 9° de la Ley en análisis, considera la figura del reingreso de mercaderías al resto del país para efectos de hacer aplicable a las especies reingresadas el IVA a la “importación”; como en el presente caso, las mercaderías no son ingresadas al resto del territorio nacional para su uso o consumo en él, sino en forma transitoria y, por el contrario, son retornadas nuevamente a la zona preferencial de la Ley Navarino para su uso o consumo en ésta, incluso permaneciendo durante la recalada en el puerto de Punta Arenas al interior del barco, se estima que en tal caso no se trata de un reingreso en los términos previstos por la ley para revocar el beneficio tributario que ella acuerda.
+Por consiguiente, puede informarse a Ud. que, a juicio de este Servicio, para los efectos de la aplicación de los impuestos establecidos en el Decreto Ley N° 825, de 1974, el reingreso a que se refiere el artículo 9° de la Ley N° 18.392, se configurará sólo cuando las mercaderías que indica, se sustraigan del territorio privilegiado para ser usadas o consumidas en el resto del territorio nacional, circunstancia que en el caso planteado y según lo manifestado por el consultante, ocurriría al término del último viaje de la temporada.
 
-    Después de efectuar un análisis de las normas tributarias  aplicables  a
-    la enajenación de derechos sociales y de alguna  jurisprudencia  emitida
-    sobre el particular por este Servicio, respecto de la determinación  del
-    costo tributario aplicable en tales operaciones, expresa y  solicita  lo
-    siguiente:
+JUAN TORO RIVERA
 
-    “De acuerdo con los argumentos de hecho  y  de  derecho  planteados,  se
-    concluye que el tratamiento tributario de  la  enajenación  de  derechos
-    sociales está primeramente determinado por la calidad del enajenante.
+DIRECTOR
 
-    Como en el  caso  en  cuestión  se  trata  de  una  sociedad  que  lleva
-    contabilidad completa que vende a un relacionado, la ley indica que para
-    determinar la renta que resulte de la enajenación de  derechos  sociales
-    se debe comparar (a) el costo tributario de  dichos  derechos  sociales,
-    más los aportes y  aumentos  de  capital,  menos  las  disminuciones  de
-    capital social, todo debidamente reajustado según la variación  del  lPC
-    en el período pertinente, y rectificando este  reajuste  de  acuerdo  al
-    artículo 41 N° 9 con el precio de venta.
+Oficio N° 1.422, de 12.05.2005.
 
-    Si se interpretara, como lo hace el SII en su  Resolución  Exenta  17200
-    N°112/2005, que el  costo  de  adquisición  o  aporte  de  los  derechos
-    sociales debe incluir las utilidades y pérdidas de la compañía (VPP)  se
-    llegaría al absurdo de interpretar la norma del artículo 41  N°9  de  la
-    Ley de la Renta fuera del contexto  de  corrección  monetaria  donde  se
-    encuentra inserta y acarreando un cambio sustancial en el sentido de  la
-    palabra "rectificación"  que  la  propia  norma  en  comento  limita  al
-    reajuste.”
+Subdirección Normativa
 
-    En relación con  lo  anterior,  expresa  que  la  consulta  consiste  en
-    confirmar si para determinar el costo de adquisición de derechos en  una
-    sociedad de personas, no  corresponde  rectificar  el  costo  mismo,  es
-    decir, el monto desembolsado por la adquisición de los  derechos  o  por
-    aumentos de capital, menos eventuales disminuciones de capital, sino que
-    eventualmente sólo corresponde rectificar el reajuste  de  dicho  costo,
-    según el artículo 41, N° 9 de la Ley de la Renta.
-
-2.    Sobre el particular, cabe señalar en primer lugar  que  este  Servicio
-    mediante  varios  pronunciamientos  se  ha  referido  a   la   situación
-    tributaria de la enajenación de derechos sociales, señalando al respecto
-    que para determinar el costo tributario de la  enajenación  de  derechos
-    sociales en sociedades de personas, en primer lugar, debe dilucidarse si
-    el propietario de los citados derechos lleva o no contabilidad.
-
-      En efecto, cuando el propietario de los referidos  derechos  se  trata
-    de un contribuyente que no lleva contabilidad, el  costo  tributario  de
-    los citados derechos se determina de  acuerdo  a  lo  dispuesto  por  el
-    inciso tercero y cuarto del artículo 41 de la Ley de la Renta, aplicando
-    una u otra disposición si el enajenante de los mencionados  derechos  se
-    los cede o no a  una  empresa  o  sociedad  con  la  cual  se  encuentra
-    relacionado en los términos previstos por el inciso cuarto precitado.
-
-      Las normas antes mencionadas  preceptúan  lo  siguiente  al  respecto:
-    “Tratándose de la enajenación de derechos  de  sociedades  de  personas,
-    para los efectos de determinar la renta proveniente de dicha  operación,
-    deberá deducirse del precio de enajenación, el valor de  libros  de  los
-    citados derechos, según  el  último  balance  anual  practicado  por  la
-    empresa, debidamente actualizado según la variación experimentada por el
-    índice de precios al consumidor entre el último día del mes anterior  al
-    del último balance y el último día del mes anterior a aquél  en  que  se
-    produzca  la   enajenación.   El   citado   valor   actualizado   deberá
-    incrementarse y/o disminuirse por los aportes, retiros  o  disminuciones
-    de capital ocurridos entre la fecha del último balance  y  la  fecha  de
-    enajenación, para  lo  cual  dichos  aumentos  o  disminuciones  deberán
-    reajustarse según el porcentaje de variación experimentado por el índice
-    de precios al consumidor entre el último día  del  mes  que  antecede  a
-    aquél en que ocurrieron y el último  día  del  mes  anterior  al  de  la
-    enajenación.”
-
-      “En el caso de la enajenación de derechos en  sociedades  de  personas
-    que hagan  los  socios  de  sociedades  de  personas  o  accionistas  de
-    sociedades anónimas  cerradas,  o  accionistas  de  sociedades  anónimas
-    abiertas dueños del 10% ó más de las acciones, a la empresa  o  sociedad
-    respectiva o en las que tengan intereses, para los efectos de determinar
-    la renta proveniente de dicha operación, deberá deducirse del precio  de
-    la enajenación el valor de aporte  o  adquisición  de  dichos  derechos,
-    incrementado  o  disminuido  según  el  caso,   por   los   aumentos   o
-    disminuciones de capital posteriores efectuados por el enajenante, salvo
-    que los valores de aporte, adquisición o aumentos de capital  tengan  su
-    origen en rentas que no hayan pagado total o parcialmente los  impuestos
-    de  esta  ley.  Para  estos  efectos,  los  valores  indicados   deberán
-    reajustarse  de  acuerdo  a  la  variación  del  índice  de  precios  al
-    consumidor entre el último día del  mes  anterior  a  la  adquisición  o
-    aporte, aumento o disminución de  capital,  y  el  último  día  del  mes
-    anterior a la enajenación.  Lo  dispuesto  en  este  inciso  también  se
-    aplicará si el contribuyente que enajena los derechos estuviera obligado
-    a  determinar  su  renta  efectiva   mediante   contabilidad   completa,
-    calculándose el valor actualizado de los derechos en conformidad con  el
-    número 9 de este artículo.”
-
-      En caso contrario, si el propietario de los  mencionados  derechos  se
-    trata de un contribuyente  que  lleva  contabilidad  completa  para  los
-    efectos de declarar sus rentas, el costo  tributario  de  los  referidos
-    derechos se determina de acuerdo a lo establecido en el  inciso  primero
-    del N° 9 del artículo 41 de la Ley de la Renta, norma que  establece  lo
-    siguiente:
-
-      “Los  aportes  a  sociedades  de  personas  se  reajustarán  según  el
-    porcentaje indicado en el inciso primero del Nº 1, aplicándose al efecto
-    el procedimiento señalado en el Nº 2 de este artículo.  Lo  anterior  es
-    sin perjuicio de rectificar posteriormente dicho reajuste de acuerdo  al
-    que haya correspondido  en  la  respectiva  sociedad  de  personas.  Las
-    diferencias que se produzcan de esta  rectificación  se  contabilizarán,
-    según corresponda, con cargo o abono  a  la  cuenta  Revalorización  del
-    Capital Propio.
-
-      Para estos efectos  se  considerarán  aportes  de  capital  todos  los
-    haberes entregados por los socios, a cualquier título, a la sociedad  de
-    personas respectiva. “
-
-
-3.    Ahora bien, en relación con la consulta  específica  que  se  formula,
-    cabe indicar  que  este  Servicio  a  través  del  Oficio  N°  953,  del
-    07.05.1997, publicado en su página web de Internet, (www.sii.cl), señaló
-    que al término de  cada  ejercicio  las  empresas  inversionistas  deben
-    corregir su activo representado por aportes o derechos sociales en otras
-    empresas, de acuerdo con lo que  al  efecto  dispone  el  número  9  del
-    artículo 41 de la Ley  de  la  Renta,  esto  es,  en  el  porcentaje  de
-    variación experimentado por el Índice de Precios  al  Consumidor  en  el
-    período comprendido entre el último día del segundo mes anterior  al  de
-    iniciación del ejercicio y  el  último  día  del  mes  anterior  al  del
-    balance,  cuando  dichos  activos  o  derechos  sociales  provengan  del
-    ejercicio anterior, y en el porcentaje de variación experimentado por el
-    mismo índice en el período comprendido  entre  el  último  día  del  mes
-    anterior al de su adquisición o aporte, y el último día del mes anterior
-    al balance, respecto de los mismos  derechos  cuando  éstos  hayan  sido
-    adquiridos o aportados durante el ejercicio.
-
-       Ahora  bien,  de  acuerdo  con  la   disposición   señalada,   y   en
-    concordancia, además, con lo instruido a través de la Circular  Nº  100,
-    de 1975,  el  valor  corregido  de  los  referidos  aportes  o  derechos
-    sociales, deben ser ajustados posteriormente (1º de enero del  ejercicio
-    siguiente) al verdadero valor que tengan estos activos  en  la  sociedad
-    receptora de los aportes según  los  resultados  positivos  o  negativos
-    obtenidos por esta última sociedad.
-
-      Para dichos efectos debe entenderse como este último valor,  el  monto
-    o cantidad que resulte de aplicar el  porcentaje  de  participación  que
-    tales derechos representan en el patrimonio de  la  sociedad  a  la  que
-    corresponden, debiendo entenderse por patrimonio a aquel determinado  de
-    acuerdo a lo dispuesto por el Nº 1 del artículo  41  de  la  Ley  de  la
-    Renta, determinación ésta que naturalmente debe efectuarse conforme  con
-    los registros  contables  de  la  sociedad  receptora  de  los  derechos
-    sociales,  o  mejor  dicho,  en  la  sociedad  donde  está  radicada  la
-    inversión.
-
-       Por  su  parte,  la  contabilización  del  referido   ajuste   deberá
-    efectuarse en la forma explicitada en la Circular Nº 100, del año  1975,
-    es decir, con cargo a la cuenta  Revalorización  del  Capital  Propio  y
-    abono a la cuenta de activo que represente los  aportes  o  derechos  en
-    otras sociedades, cuando el valor patrimonial determinado  en  la  forma
-    antes indicada, sea inferior al valor corregido monetariamente de dichos
-    activos, y en  la  forma  inversa,  esto  es,  con  abono  a  la  cuenta
-    Revalorización de Capital Propio y con  cargo  a  la  cuenta  de  activo
-    cuando el referido valor patrimonial sea  superior  al  valor  de  estos
-    derechos ya corregidos monetariamente.
-
-      En consecuencia, cabe expresar que el valor así  ajustado  es  el  que
-    debe considerarse para los  fines  de  la  determinación  del  resultado
-    tributario obtenido en la enajenación de derechos sociales efectuada por
-    contribuyentes  obligados  a  determinar  su  renta  efectiva   mediante
-    contabilidad completa.
-
-4.    De consiguiente, en relación con  lo  consultado  se  informa  que  la
-    situación que plantea  el  recurrente,  este  Servicio  ya  la  resolvió
-    mediante el citado Oficio  N°  953,  de  1997,  y  comentado  en  número
-    precedente.
-
-
-
-
-
-
-                                                                    JUAN
-    TORO RIVERA
-
-    DIRECTOR
-
-
-
-
-
-                        Oficio N° 744, de 02.03.2006.
-
-                           Subdirección Normativa
-
-                        Dpto. de Impuestos Directos.
+Dpto. de Impuestos Indirectos

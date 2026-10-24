@@ -4,154 +4,51 @@
 - Tipo: oficio
 - Número: 929
 - Año: 2005
-- Fecha: 2005-04-05
+- Fecha: 2005-03-28
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja930.doc
-- Hash SHA-256: d79dc2280124c9925ff0daabb8dcd96e562481de807270b92487f9a447b20c4a
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja929.htm
+- Hash SHA-256: 1f35799306571cf37cb010769d2f0efce32f42fdd04da859686799ce12bbdf75
 
 ## Resumen
 
-Word Art�culo 8�, letra g), Decreto ley N�825, de 1974. Arriendo de Establecimientos y Gimnasios para la Pr�ctica de Actividades Deportivas.
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Ley N° 18.502, de 1986, Art. 6° – Decreto Supremo de Hacienda N° 311 – Circulares N°s 29 y 32, de 1986. (Ord. N° 793, de 28.03.2005) Word Tratamiento Tributario aplicable en relación con el Impuesto específico a los Combustibles a Producción Local e Importación del producto Diesel del Invierno o Gasoil Minero
 
 ## Referencias detectadas
 
-- {"type":"circular","number":11,"year":2004}
-- {"type":"oficio","number":929,"year":1991}
+- {"type":"circular","number":32,"year":1986}
+- {"type":"circular","number":29,"year":1986}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS –  ART.
- 8°, LETRA G), ART. 12°, ART. 13°, N° 4 –  CIRCULAR N° 11, DE 2004 – OFICIO
-                N° 929, DE 1991 (ORD. N° 933, DE 05.04.2005)
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 18.502, DE 1986, ART. 6° – DECRETO SUPREMO DE HACIENDA N° 311 – CIRCULARES N°S 29 Y 32, DE 1986. (ORD. N° 793, DE 28.03.2005)
 
-Arriendo de Establecimientos y  Gimnasios  –  Tratamiento  Tributario  –  Se
-Gravan con I.V.A. los Arrendamientos de Gimnasios y  otros  Establecimientos
-para la Práctica de Actividades Deportivas en  la  medida  que  cuenten  con
-Instalaciones,  Habilitación  de  Graderías,  Aposentadurías,  Boleterías  y
-otros,  que  conformen  Instalaciones  que  Permitan  el  Ejercicio  de  una
-Actividad Comercial, sin que  sea  una  condición  para  la  Aplicación  del
-referido Tributo, que efectivamente se desarrolle en ellos una actividad  de
-esta Naturaleza.
+Home | Ventas y Servicios - 2005
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 18.502, DE 1986, ART. 6° – DECRETO SUPREMO DE HACIENDA N° 311 – CIRCULARES N°S 29 Y 32, DE 1986. (ORD. N° 793, DE 28.03.2005)
 
+TRATAMIENTO TRIBUTARIO APLICABLE EN RELACIÓN CON EL IMPUESTO ESPECÍFICO A LOS COMBUSTIBLES A PRODUCCIÓN LOCAL E IMPORTACIÓN DEL PRODUCTO DIESEL DEL INVIERNO O GASOIL MINERO – EL IMPUESTO ESPECÍFICO AL PETRÓLEO DIESEL, DEBERÁ APLICARSE SOBRE EL VALOR PROPORCIONAL QUE CORRESPONDA AL PETRÓLEO DIESEL INCORPORADO A LA MEZCLA, EL CUAL SE DEVENGARÁ AL MOMENTO DE LA PRIMERA VENTA O DE LA IMPORTACIÓN DEL REFERIDO PRODUCTO – EL MISMO PROCEDIMIENTO DEBERÁ APLICARSE PARA DETERMINAR EL IMPUESTO ESPECÍFICO AL PETRÓLEO DIESEL EN LAS IMPORTACIONES DE DICHO PRODUCTO – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO.
 
-1.-   Se ha recibido en esta Dirección Nacional  Oficio  Reservado  indicado
-   en el antecedente, mediante el cual se consulta acerca de la  aplicación
-   del  Impuesto  al  Valor  Agregado,  al  arrendamiento  de  gimnasios  y
-   establecimientos para la práctica de actividades deportivas.
+1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente, mediante la cual y en representación de XXXXXX S.A., (en adelante XXXXXX), consulta acerca del tratamiento tributario aplicable, en relación al impuesto específico a los combustibles, a la producción local y a la importación del producto denominado “diesel de invierno” o “gasoil minero”. Señala en su presentación, que su representada está evaluando la posibilidad de producir localmente un producto combustible utilizado por las empresas mineras, denominado “diesel de invierno” o “gasoil minero”, el cual resulta de la mezcla entre kerosene y petróleo diesel, en proporciones que varían de acuerdo a la temperatura a la que será utilizado en el lugar de destino.
+Manifiesta que si su representada decidiera producir el denominado diesel de invierno, se transformaría en productor del mismo y en consecuencia, quedaría afecto en su primera venta, al impuesto específico al petróleo diesel contemplado en la Ley N° 18.502, de 1986; sin embargo, dado que se trata de un producto compuesto por petróleo diesel, gravado expresamente con el referido impuesto, y por kerosene producto que no se encuentra afecto al referido gravamen específico, surge la duda respecto de la forma en que dicho tributo deber ser aplicado, esto es, si el impuesto específico debe ser aplicado sobre el valor total del diesel de invierno enajenado por primera vez, o sólo sobre el valor proporcional correspondiente al petróleo diesel.
+Agrega que la normativa legal no resuelve claramente este tema, pero que sin embargo, la Circular N° 32 de 1986, de este Servicio se refiere al tratamiento aplicable al petróleo diesel mezclado con otros productos, por lo que, al no conocer otras regulaciones legales y administrativas, o pronunciamientos de este Servicio y en atención a la particularidad del producto, se hace necesario definir el tratamiento tributario, en relación al impuesto específico a los combustibles, que debe ser aplicado a este combustible de uso especial.
+Considerando lo anterior solicita a este Servicio absolver las siguientes consultas:
 
-   Señala el consultante que la interrogante se ha planteado desde el  área
-   de Fiscalización, al  considerar  que  existen  instrucciones  disímiles
-   acerca de esta materia entre lo manifestado por este Servicio en  Oficio
-   N° 929, de 10-03-1991, y lo establecido en  Circular N°  11,  de  02-03-
-   2004, mediante la cual se  resume  la  tributación  del  I.V.A.  en  los
-   establecimientos educacionales.
+1.- En el evento que XXXXXX produzca localmente el producto denominado “diesel de invierno”, el cual resulta de la mezcla entre petróleo diesel y kerosene, ¿Cuál sería el tratamiento tributario aplicable en relación al impuesto específico contemplado en la Ley N° 18.502?. Específicamente, ¿El impuesto específico debe aplicarse en un 100%, o en la proporción del petróleo diesel incorporado en la mezcla? ;
 
-   Expresa que el Oficio N° 929  de  1991,  establece  que  en  general  el
-   arrendamiento de  gimnasios  y  establecimientos  para  la  práctica  de
-   actividades deportivas no constituye un hecho gravado con I.V.A.,  salvo
-   que dichos inmuebles cuenten con graderías  o  aposentadurías  para  los
-   espectadores o boleterías, conformando instalaciones  que  permiten  una
-   actividad mercantil; y en cambio,  la  Circular  N°  11  del  año  2004,
-   indicaría que el arriendo de  los  gimnasios,  canchas  o  instalaciones
-   deportivas de los establecimientos educacionales constituiría  un  hecho
-   gravado con I.V.A., sin importar  las  características  físicas  de  los
-   inmuebles amoblados.
+2.- En el evento que se efectuara una importación de “diesel de invierno”, ¿Resulta aplicable el mismo tratamiento tributario definido para el caso planteado en la pregunta anterior, esto es, para la primera venta efectuada por un productor local?.
 
-   Añade  que  esta  consulta  incide  en  un  proceso   de   fiscalización
-   relacionado   con   la   correcta   tributación   de    los    distintos
-   establecimientos educacionales de la zona y  de  otros  entes,  personas
-   jurídicas y naturales, en el arrendamiento de gimnasios o  instalaciones
-   deportivas, por lo cual,  se  hace  necesario  conocer  si  la  referida
-   Circular  establece un nuevo criterio de carácter general,  o  bien,  un
-   criterio delimitado  exclusivamente  a  los  arriendos  de  gimnasios  o
-   instalaciones   deportivas    que    realicen    los    establecimientos
-   educacionales; y si fuera esta última la respuesta, solicita  explicitar
-   el razonamiento que se tuvo en cuenta para  diferenciar  el  tratamiento
-   tributario aplicable a los establecimientos  educacionales,  versus,  el
-   resto de los contribuyentes que se dedican a  este  tipo  de  actividad,
-   para así dar una explicación clara al área consultante.
+2.- El artículo 6° de la Ley N° 18.502, publicada en el Diario Oficial de 03-04-1986, establece impuestos específicos a las gasolinas automotrices y al petróleo diesel.
+Este Servicio, mediante Circular N° 29, de 28-04-1986, estableció la forma de tributación, en su primera venta y en la importación de las gasolinas automotrices y el petróleo diesel, señalando la forma de determinar el tributo, el momento de su devengo, el sujeto del impuesto, el momento del entero del tributo en arcas fiscales, entre otras instrucciones relacionadas con su aplicación.
+Este Servicio, mediante Circular N° 32, de fecha 13-05-1986, al impartir instrucciones para la aplicación del D.S. de Hacienda N° 311; en su Capítulo III, complementa las instrucciones impartidas en Circular N° 29 de 1986, estableciendo en su numerando 3, lo siguiente: Petróleo diesel mezclado con otros productos: “En algunas ocasiones el petróleo diesel se expende mezclado con otros productos también singularizados, para ser utilizado como combustible en usos especiales. En tales circunstancias se indica que el impuesto específico deberá aplicarse en la proporción que corresponda al petróleo diesel incorporado en la mezcla e indicarse separadamente en la factura que debe emitirse por la operación respectiva.”
+3.- De modo que, dando respuesta a su consulta, debo manifestar a Ud., que en cuanto a la aplicación del impuesto específico al petróleo diesel, a la primera venta de producción local del producto denominado “diesel de invierno” o “gasoil minero”, combustible que resulta de la mezcla de kerosene y petróleo diesel, el impuesto específico al petróleo diesel establecido en el artículo 6° de la Ley N° 18.502 de 1986, deberá aplicarse sobre el valor proporcional que corresponda al petróleo diesel incorporado a la mezcla, el cual se devengará al momento de la primera venta o de la importación del referido producto.
+El mismo procedimiento deberá aplicarse para determinar el impuesto específico al petróleo diesel en las importaciones de dicho producto.
+En la aplicación del impuesto específico en la forma antes señalada, deberán considerarse las instrucciones impartidas por este Servicio en Circulares N°s 29 y 32, de 1986.
 
-2.-   El artículo 8° del D.L. N° 825, de 1974, establece que el Impuesto  al
-   Valor Agregado afecta a las  ventas  y  servicios;  y  que,  para  estos
-   efectos  serán  consideradas  también  como  ventas  y  servicios  según
-   corresponda, entre otros:
+JUAN TORO RIVERA
 
-       Art.  8°,  letra   g),   en   lo   pertinente:   “El   arrendamiento,
-   subarrendamiento, usufructo o cualquier otra forma de cesión del  uso  o
-   goce temporal de...  inmuebles  con  instalaciones...  que  permitan  el
-   ejercicio de alguna actividad comercial...”.
+DIRECTOR
 
-   El artículo 12°, del mismo texto legal, en  su  letra  E,  establece  la
-   exención de I.V.A. a ciertas remuneraciones y servicios, considerando en
-   su N° 4, a los ingresos de los establecimientos de educación,  señalando
-   acto seguido, que esta exención se limitará a los ingresos que  perciban
-   en razón de su actividad  docente  propiamente  tal;  y  en  su  N°  11,
-   contempla la  exención del  referido  tributo  a  los  ingresos  por  el
-   arrendamiento de inmuebles, dejando establecido que lo anterior, es  sin
-   perjuicio de lo dispuesto en la letra g) del artículo 8°.
+Oficio N° 793, de 28.03.2005.
 
-3.-   Respecto al tema planteado, esto es, a la aplicación del  Impuesto  al
-   Valor Agregado al  arriendo de  gimnasios  y  establecimientos  para  la
-   práctica de actividades deportivas, cumplo con manifestar a Ud.  que  el
-   criterio sostenido invariablemente en  reiterados  pronunciamientos  por
-   esta Superioridad, establece que se gravan con I.V.A. los arrendamientos
-   de gimnasios y otros establecimientos para la  práctica  de  actividades
-   deportivas en la medida que cuenten con instalaciones,  habilitación  de
-   graderías,   aposentadurías,   boleterías   y   otros,   que   conformen
-   instalaciones que permitan el ejercicio de una actividad comercial.
+Subdirección Normativa
 
-      La Circular N° 11, del año 2004, no ha establecido un  nuevo  criterio
-   de aplicación general, ni tampoco un  criterio  delimitado  sólo  a  los
-   establecimientos educacionales en cuanto al arrendamiento de  inmuebles,
-   ya que el objetivo de tales instrucciones ha sido mostrar un resumen  de
-   las obligaciones tributarias  que  deben  cumplir  los  establecimientos
-   educacionales, y en ese afán, se ha dejado explicitado en el numerando 3
-   del Párrafo III, algunos de los ingresos susceptibles de percibirse  por
-   los establecimientos educacionales, que se encuentran  excluidos  de  la
-   exención establecida en el artículo 13° N° 4 del D.L. N° 825,  de  1974,
-   señalando, entre otros, los ingresos  por:  “arriendo  de  instalaciones
-   inmuebles  del  establecimiento,  como  gimnasios,   canchas   y   otras
-   instalaciones deportivas, salones de eventos, salas y otros”.
-
-   La citada Circular no ha expresado que tales  arriendos  se  gravan  sin
-   importar las características de los  inmuebles  amoblados,  por  lo  que
-   resulta indudable que para la aplicación del I.V.A., los inmuebles dados
-   en arriendo por los establecimientos  de  educación,  deben  contar  con
-   instalaciones que permitan el ejercicio de alguna  actividad  comercial,
-   como lo exige el artículo 8°, letra g), del D.L. N° 825.
-
-   Por último, la misma Circular se encarga  de  dejar  establecido  en  su
-   Párrafo VI, que sus instrucciones no constituyen un cambio  de  criterio
-   por parte de este Servicio.
-
-   De modo tal, que no existen instrucciones disímiles entre  lo  expresado
-   en el Oficio N° 929, de 1991 y la Circular N° 11 de 2004, acerca  de  la
-   tributación con el Impuesto al Valor Agregado del arriendo de  inmuebles
-   con instalaciones que permitan el ejercicio de una actividad  comercial,
-   de acuerdo a lo exigido por el artículo 8° letra g) del D.L. N° 825,  de
-   1974.
-
-4.-   Por último, se reitera lo señalado por este Servicio, en cuanto a  que
-   el  gravamen  procede  aunque  los  inmuebles   deportivos   simplemente
-   “permitan” el ejercicio de alguna actividad comercial, sin que  sea  una
-   condición para la aplicación del referido tributo, que efectivamente  se
-   desarrolle en ellos una actividad de esta naturaleza.
-
-
-
-
-
-
-
-                                                  JUAN TORO RIVERA
-
-                                 DIRECTOR
-
-
-
-
-
-
-                        Oficio N° 933, de 05.04.2005.
-                           Subdirección Normativa
-                       Dpto. de Impuestos Indirectos.
+Dpto. de Impuestos Indirectos.

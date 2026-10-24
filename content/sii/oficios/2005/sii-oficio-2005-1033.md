@@ -1,0 +1,54 @@
+# Oficio N° 1033 de 2005
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1033
+- Año: 2005
+- Fecha: 2005-10-18
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/ventas/ja1033.htm
+- Hash SHA-256: a236aa88c51de3d5453fa5c3900bbdb0e71f61641fd96191bf7b82129dc0a820
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Actual Ley sobre Impuesto a las – Código Tributario, Art. 97°, N° 10 – Ley N° 19.983, Art. 1° – Res. Ex. N°s 2.107, de 1983 y N° 14, de 2005. (Ord. N° 4.066, de 18.10.2005) Word Derecho a Crédito Fiscal en relación con las Normas de la Ley N° 19.983.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"97"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – CÓDIGO TRIBUTARIO, ART. 97°, N° 10 – LEY N° 19.983, ART. 1° – RES. EX. N°S 2.107, DE 1983 Y N° 14, DE 2005. (ORD. N° 4.066, DE 18.10.2005)
+
+Home | Ventas y Servicios - 2005
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – CÓDIGO TRIBUTARIO, ART. 97°, N° 10 – LEY N° 19.983, ART. 1° – RES. EX. N°S 2.107, DE 1983 Y N° 14, DE 2005. (ORD. N° 4.066, DE 18.10.2005)
+
+DERECHO A CRÉDITO FISCAL EN RELACIÓN CON LAS NORMAS DE LA LEY N° 19.983 – EL CRÉDITO FISCAL DEL IMPUESTO AL VALOR AGREGADO SÓLO PUEDE UTILIZARSE CUANDO SE HA RECIBIDO EL ORIGINAL DE LA FACTURA, PUESTO QUE SÓLO ESE DOCUMENTO GENERA A FAVOR DEL COMPRADOR O BENEFICIARIO DEL SERVICIO, EN SU CARÁCTER DE CONTRIBUYENTE DEL IMPUESTO AL VALOR AGREGADO, EL DERECHO AL USO DEL CRÉDITO FISCAL DEL REFERIDO TRIBUTO – EL APROVECHAMIENTO DEL CRÉDITO FISCAL IVA, SÓLO SE ENCUENTRA LEGALMENTE LIGADO AL ORIGINAL DE LA FACTURA, Y EN CONSECUENCIA, LA EMISIÓN O NO DE LAS COPIAS, O LOS DEFECTOS QUE ELLAS CONTENGAN, NO INFLUYEN EN EL DERECHO AL CRÉDITO FISCAL QUE EMANA DEL ORIGINAL CORRECTAMENTE EMITIDO – SANCIÓN POR LA NO-EMISIÓN DE LA TERCERA COPIA DE LA FACTURA.
+
+1.- Se ha recibido en esta Dirección Nacional presentación del antecedente, mediante la cual se solicita un pronunciamiento respecto de los alcances tributarios referentes al IVA Crédito Fiscal. En este sentido y en lo pertinente a la tercera copia de las facturas y guías de despacho, exigidas por la Ley N° 19.983, plantea las siguientes inquietudes, respecto de las cuales solicita un pronunciamiento de esta Dirección Nacional:
+a) En caso que un vendedor o prestador de servicios entregue una factura sin la tercera copia, la cual no ha emitido ya que no ha procedido a timbrar dicha copia ante el SII, ¿Se pierde el derecho al crédito fiscal equivalente al IVA recargado en dicha factura?
+
+b) Para el evento que un vendedor o prestador de servicios entregue una factura sin la tercera copia, que ha emitido pero que no desea constituirla en título ejecutivo respecto de su cliente ¿Se pierde el derecho al crédito fiscal equivalente al IVA recargado en ésta?
+
+c) Si un vendedor o prestador de servicios entrega una factura con la tercera copia, con un timbre o leyenda que señala expresamente que renuncia a la facultad de constituirla en un título ejecutivo respecto de su cliente, ¿Se pierde el derecho al crédito fiscal equivalente al IVA recargado en ésta?
+2.- Con fecha 15 de diciembre del 2004, se publicó en el Diario Oficial la Ley N° 19.983, que regula la transferencia y otorga mérito ejecutivo a una copia de la factura.
+El artículo 1° de la Ley N° 19.983, establece en su primer inciso que el vendedor o prestador de servicios sujeto a la obligación de emitir factura, deberá emitir una copia de la factura original, para los efectos de su transferencia a terceros o cobro ejecutivo, según lo dispuesto en dicha Ley.
+De esta manera, la emisión de la nueva copia que se instituye, no es facultativa para el contribuyente sino que, como resulta de la norma imperativa citada, es obligatoria. Ello ha sido, además, expresamente señalado por este Servicio en la Resolución Ex. N° 14, de 2005, en que se regula la emisión de la “Tercera copia Obligatoria de Facturas”, de acuerdo con las normas de la Ley N° 19.983, en referencia.
+3.- Con relación a la no-emisión de la tercera copia obligatoria de la factura y su efecto en el crédito fiscal que da cuenta la respectiva factura, debe, en primer lugar, hacerse notar que este Servicio ha resuelto reiteradamente que el crédito fiscal del Impuesto al Valor Agregado sólo puede utilizarse cuando se ha recibido el original de la factura, puesto que sólo ese documento genera a favor del comprador o beneficiario del servicio, en su carácter de contribuyente del Impuesto al Valor Agregado, el derecho al uso del crédito fiscal del referido tributo.
+Por tanto, el aprovechamiento del crédito fiscal IVA, sólo se encuentra legalmente ligado al original de la factura, y en consecuencia, la emisión o no de las copias, o los defectos que ellas contengan, no influyen en el derecho al crédito fiscal que emana del original correctamente emitido.
+
+Por otra parte, la Resolución Exenta N° 2107, de 01-12-83, que autoriza la emisión de otras copias no contempladas en la Ley, reconociendo esta circunstancia, obliga a que en dichas copias se imprima la leyenda “Copia de Factura: No da derecho a crédito fiscal”, misma leyenda que la Resolución Exenta N° 14, de 08-02-2005, establece para la tercera copia prescrita por la Ley 19.983 y que la desliga del derecho al crédito fiscal.
+A mayor abundamiento, la Ley 19.983, en su artículo 1°, al establecer la obligación de emitir una tercera copia, advierte que ésta es “sin valor tributario”, y en consecuencia, no puede intervenir en el efecto tributario del original de la factura relativo al derecho al crédito fiscal.
+No obstante conviene hacer presente que un timbre o leyenda como el descrito en el número 3.- de su presentación, constituye una estipulación de aquellas que se tendrá por no escrita para todos los efectos legales, de conformidad a lo dispuesto en el inciso final del artículo 4° de la Ley N° 19.983.-
+4.- Sin perjuicio de todo lo anterior, es preciso dejar sentado que el artículo 1° de la Ley N° 19.983, impone al contribuyente del IVA la obligación de emitir una tercera copia de la factura, con las características señaladas en dicha Ley, y entregarla al interesado, y que el incumplimiento de esta obligación legal se encuentra sancionado en el N° 10 del artículo 97 del Código Tributario.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Oficio N° 4.066, de 18.10.2005.
+
+Subdirección Normativa
+
+Dpto. de Impuestos Indirectos.

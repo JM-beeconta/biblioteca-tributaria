@@ -1,0 +1,54 @@
+# Oficio N° 3645 de 2008
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3645
+- Año: 2008
+- Fecha: 2008-12-11
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/renta/ja3645.htm
+- Hash SHA-256: 58c1250b5f526f3bfb9281aab1319b379c1f3f599a49350a9f7b3381449fdf26
+
+## Resumen
+
+Renta – Actual Ley Sobre Impuesto a la – Art. 59°, N°3 – D.F.L. N°251, de 1931, Art. 8°. (Ord. N° 3.645, de 11.12.2008) Word Aplicación del Impuesto Adicional a seguro de responsabilidad civil que indica.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIR","article":"59 N"}
+
+## Texto extraído
+
+LEY RENTA - RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°3 – D.F.L. N°251, DE 1931, ART. 8°. (ORD. N° 3.645, DE 11.12.2008)
+
+Home | Ley Renta - 2008
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°3 – D.F.L. N°251, DE 1931, ART. 8°. (ORD. N° 3.645, DE 11.12.2008)
+
+APLICACIÓN DEL IMPUESTO ADICIONAL A SEGURO DE RESPONSABILIDAD CIVIL, CUYO RIESGO CUBIERTO ES LA CONTINGENCIA INCIERTA DE DAÑO A TERCEROS PRODUCTO DE MALA PRÁCTICA PROFESIONAL – EL SEGURO NO CORRESPONDE A NINGUNO DE LOS HECHOS GRAVADOS DEL IMPUESTO ADICIONAL POR LO QUE EL PAGO O ABONO EN CUENTA A PERSONAS SIN DOMICILIO O RESIDENCIA EN CHILE, DE LA PRIMA DEL SEGURO DE RESPONSABILIDAD CIVIL CONTRATADO EN COMPAÑÍA NO ESTABLECIDA EN EL PAÍS, A QUE SE REFIERE SU SOLICITUD, NO SE ENCUENTRA AFECTO AL IMPUESTO ADICIONAL ESTABLECIDO EN EL NÚMERO 3) DEL ARTÍCULO 59 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+1.- Se ha recibido su presentación indicada en el antecedente, mediante la cual expone que la empresa a la que pertenece, es una sociedad del giro “servicios profesionales” que, para resguardar su responsabilidad civil, contrató un seguro de riesgo profesional con la compañía de seguros extranjera “XXXXXX”, con domicilio en YYYY. Señala que en virtud de dicha póliza, la sociedad paga anualmente una prima que se remesa al extranjero, y sobre la cual no practican retención de impuesto Adicional, por cuanto, en su opinión, se trata de un hecho no gravado por nuestra legislación.
+Agrega que del análisis del artículo 59 N°3, de la ley sobre Impuesto a la Renta, resulta que la prima del seguro contratado, no se ajusta al primer hecho gravado por esa disposición legal, que afecta con el tributo a la pérdida sobre bienes situados permanentemente en el país, ya que no existe un seguro sobre un bien físico situado permanentemente en Chile. Indica que el objeto asegurado en la póliza es la “contingencia incierta de daño a terceros producto de mala práctica profesional”, lo que constituye un acontecimiento futuro e incierto que puede derivar de actos realizados tanto en Chile como en el exterior y, en ningún caso, puede considerarse como un bien, ni menos uno situado permanentemente en el país.
+Señala que, en segundo lugar, tampoco puede considerarse que su representada se encuentre en el segundo hecho gravado contemplado por la norma indicada, ya que no existe pérdida material en tierra de mercaderías ingresadas al país temporalmente o en tránsito, sino un seguro que busca resguardar una eventual responsabilidad civil que pueda surgir como consecuencia del desarrollo de las actividades del giro de su representada.
+En relación con el último hecho gravado de la norma referida, esto es, seguros de vida o seguros del segundo grupo, señala que, conforme a la legislación vigente y según lo ha ratificado la Superintendencia de Valores y Seguros en documento que adjunta, la póliza de seguros pagada por su representada, está comprendida dentro del primer grupo, de conformidad a lo dispuesto por el D.F.L. N°251 de 1931, es decir, se trataría de un caso que, en su opinión, no califica entre los hechos gravados que ha enunciado expresamente el artículo 59 N°3 de la Ley sobre Impuesto a la Renta, por no encontrarse dentro del segundo grupo.
+Expresa además que, en consideración a que según nuestra legislación tributaria, las personas no domiciliadas o residentes en Chile, sólo tributan por las rentas de fuente chilena y que no es ese el caso de la aseguradora ya mencionada, por cuanto su actividad de seguros es efectuada fuera del país, y a que tampoco la prima pagada obedece a bienes situados en el país, necesariamente debe concluirse que el pago realizado no constituye un hecho gravado con impuestos chilenos.
+Por último, atendido lo expuesto, solicita se confirme que el seguro de responsabilidad civil tomado por su representada, el cual califica dentro del primer grupo, no se encuentra gravado por nuestra legislación tributaria vigente, y que en consecuencia no es aplicable el impuesto adicional por las remesas que se efectúen para pagar las primas por este seguro contratado.
+2.- Sobre el particular, cabe tener presente que el número 3), del artículo 59 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, prescribe que el impuesto Adicional que establece se aplicará, con tasa 35%, respecto de las rentas que se paguen o abonen en cuenta a personas sin domicilio ni residencia en el país por concepto de:
+“3) Primas de seguros contratados en compañías no establecidas en Chile que aseguren cualquier interés sobre bienes situados permanentemente en el país o la pérdida material en tierra sobre mercaderías sujetas al régimen de admisión temporal o en tránsito en el territorio nacional, como también las primas de seguros de vida u otros del segundo grupo, sobre personas domiciliadas o residentes en Chile, contratados con las referidas compañías”.
+Como puede apreciarse de la disposición legal citada, el impuesto Adicional establecido en el número 3 del artículo 59, afecta a las rentas que se paguen o abonen en cuenta a personas sin domicilio ni residencia en el país por los siguientes conceptos:
+1.- Primas de seguros contratados con compañías no establecidas en Chile que aseguren cualquier interés sobre bienes situados permanentemente en el país;
+2.- Primas de seguros contratados con compañías no establecidas en Chile que aseguren la pérdida material en tierra sobre mercaderías sujetas al régimen de admisión temporal o en tránsito en el territorio nacional;
+3.- Primas de seguros de vida u otros del segundo grupo contratados con compañías no establecidas en Chile.
+3.- Ahora bien, considerando que, de acuerdo a lo expuesto por el peticionario, el seguro de riesgo profesional a que se refiere la solicitud, cubriría la contingencia incierta de daño a terceros producto de mala práctica profesional, este seguro no correspondería, en opinión de este Servicio, a ninguno de los hechos gravados del Impuesto Adicional descritos en los números precedentes. En efecto, en este caso no se asegura un interés sobre bienes situados permanentemente en Chile. Tampoco el seguro indicado dice relación con mercaderías sujetas al régimen de admisión temporal o en tránsito en el territorio nacional ni constituye un seguro de vida.
+Con relación a los seguros del segundo grupo, que en forma genérica menciona la disposición legal citada, cabe tener presente que, de acuerdo con lo resuelto por la Superintendencia de Valores y Seguros, mediante Ord. N°14.120, de 2006, cuya copia el interesado acompañó a su solicitud, los seguros de responsabilidad civil, según lo dispuesto en el artículo 8 del D.F.L. N°251, de 1931, están comprendidos dentro del primer grupo.
+4.- En consecuencia, de acuerdo con los antecedentes tenidos en vista, en respuesta a su consulta, puede informarse a Ud. que este Servicio considera que el pago o abono en cuenta a personas sin domicilio o residencia en Chile, de la prima del seguro de responsabilidad civil contratado en compañía no establecida en el país, a que se refiere su solicitud, no se encuentra afecto al Impuesto Adicional establecido en el número 3) del artículo 59 de la Ley sobre Impuesto a la Renta.
+
+RICARDO ESCOBAR CALDERON
+
+DIRECTOR
+
+Oficio N°3.645, de 11.12.2008
+
+Subdirección Normativa
+
+Dpto. de Técnica Tributaria

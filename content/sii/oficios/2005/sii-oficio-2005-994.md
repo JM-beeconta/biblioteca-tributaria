@@ -1,0 +1,73 @@
+# Oficio N° 994 de 2005
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 994
+- Año: 2005
+- Fecha: 2005-08-11
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2005/otras/ja994.htm
+- Hash SHA-256: 597dfdf65a8c0f8876378e194bd9ff2554879b152fc43fb2add378e35517908a
+
+## Resumen
+
+23.08.2005) Timbres y Estampillas – Nuevo Texto – Ley Sobre Impuesto de – Art. 3° – Código Civil, Art. 48° – Circular N° 41, de 1992. Word Cálculo de Tasa del Impuesto de Timbres y Estampillas aplicable a las Importaciones. (Ord. N° 2.947, de 11.08.2005)
+
+## Referencias detectadas
+
+- {"type":"circular","number":41,"year":1992}
+
+## Texto extraído
+
+OTRO - TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 3° – CÓDIGO CIVIL, ART. 48° – CIRCULAR N° 41, DE 1992. (ORD. N° 2.947, DE 11.08.2005)
+
+Home | Otro - 2005
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 3° – CÓDIGO CIVIL, ART. 48° – CIRCULAR N° 41, DE 1992. (ORD. N° 2.947, DE 11.08.2005)
+
+CÁLCULO DE TASA DEL IMPUESTO DE TIMBRES Y ESTAMPILLAS APLICABLE A LAS IMPORTACIONES – IMPUESTO ÚNICO SUSTITUTIVO QUE AFECTA A TODA LA DOCUMENTACIÓN NECESARIA PARA EFECTUAR UNA IMPORTACIÓN O PARA EL INGRESO DE MERCADERÍAS A LA ZONA FRANCA – SE ENTIENDE QUE LOS DOCUMENTOS QUE FORMAN PARTE DEL HECHO GRAVADO COMPLEJO, QUE SE AFECTA CON EL IMPUESTO ÚNICO, SON TODOS AQUELLOS QUE DIGAN RELACIÓN DIRECTA CON LA IMPORTACIÓN Y TAMBIÉN TODA LA DOCUMENTACIÓN QUE SE EMITA O SUSCRIBA CON OCASIÓN DEL PAGO O LA CONSTITUCIÓN DE GARANTÍAS EN OPERACIONES DE IMPORTACIÓN A FAVOR DEL EXPORTADOR EXTRANJERO O DEL BANCO QUE INTERVENGA EN ELLAS Y EN QUE EL PAGO DEL PRECIO TIENE LUGAR DESPUÉS DE LA ACEPTACIÓN DEL RESPECTIVO DOCUMENTO DE DESTINACIÓN ADUANERA – LA TASA DEL IMPUESTO A APLICAR ESTÁ EN FUNCIÓN DIRECTA DEL PLAZO QUE MEDIE ENTRE LA FECHA DE ACEPTACIÓN DEL DOCUMENTO DE DESTINACIÓN ADUANERA O DE INGRESO A ZONA FRANCA, Y LA FECHA DE ADQUISICIÓN DE LA MONEDA EXTRANJERA O DEL PAGO AL EXTERIOR DEL PRECIO O CRÉDITO INSOLUTO DOCUMENTO QUE DA INICIO A LA IMPORTACIÓN Y FIJA LA INICIACIÓN DEL HECHO GRAVADO.
+
+1.- Se ha recibido en esta Dirección Nacional su presentación indicada en el epígrafe, por la cual solicita se confirme la forma de calcular la tasa del Impuesto de la Ley de Timbres y Estampillas contenida en el Decreto Ley N°3.475, de 1980, que correspondería aplicar en el caso de las operaciones de importación a que se refiere el artículo 3° de la mencionada ley.
+
+Señala que para determinar la tasa del impuesto que debería aplicarse por el impuesto antes citado, sería necesario precisar los siguientes elementos:
+
+a) Como computar el plazo establecido en el artículo 3° de la Ley de Timbres y Estampillas, determinando si es aplicable o no, lo dispuesto en el artículo N°48 del Código Civil.
+
+b) El segundo elemento que solicita precisar es saber cual debe ser considerada como fecha de aceptación, ya que desde esa fecha se comienza el cómputo de los meses para el cálculo de la tasa del impuesto de timbres y estampillas.
+
+Agrega que el formulario N°15, llamado “Declaración de Ingreso” del Servicio Nacional de Aduanas es el que se utiliza como documento de destinación aduanera. Indicando que en dicho formulario se consignan algunas fechas, a saber:
+
+· Recuadro “Origen, transporte y Almacenaje”: Fecha de manifiesto, Fecha de documento de transporte.
+
+· Recuadro “Uso exclusivo Servicio de Tesorería”: Fecha de Aceptación, código 215.
+
+Indica que los Bancos utilizan la fecha de aceptación indicada en el código 215 del formulario de Declaración de Ingreso, para establecer la tasa del Impuesto de Timbres y Estampillas, y pregunta ¿En qué situación se podría utilizar las fechas registradas en el recuadro “Origen, transporte y almacenaje”?.
+
+Por último señala, que la consulta especifica que plantea es:
+
+¿Si el criterio utilizado por los bancos para calcular el Impuesto de Timbres y Estampillas en el caso de las importaciones, es el correcto?.
+
+Esto es, comenzar el cómputo de los meses desde la fecha de aceptación indicada en el Código 215 de la Declaración de Ingreso y aplicar lo dispuesto en el artículo 48 del Código Civil para determinar los plazos de vencimientos en meses.
+
+2.- Sobre el particular cabe señalar, que el artículo 3°, del Decreto Ley N°3.475, de 1980, establece que se afectará con un impuesto único sustitutivo toda la documentación necesaria para efectuar una importación o para el ingreso de mercaderías a la Zona Franca.
+
+Para estos efectos se entiende que los documentos que forman parte del hecho gravado complejo, que se afecta con el impuesto único de dicho artículo, son todos aquellos que digan relación directa con la importación y también toda la documentación que se emita o suscriba con ocasión del pago o la constitución de garantías en operaciones de importación a favor del exportador extranjero o del banco que intervenga en ellas y en que el pago del precio tiene lugar después de la aceptación del respectivo documento de destinación aduanera. En definitiva lo que grava el tributo en comento, es el crédito con que se financia la exportación, siendo requisito que este conste en uno o más documentos que se emitan, suscriban u otorguen en relación con la importación o internación a Zona Franca y que de no mediar la existencia de este hecho gravado complejo, se afectarían separadamente con el impuesto de timbres y estampillas de conformidad a las otras disposiciones del Decreto Ley N°3.478, de 1980.
+
+Cabe además señalar, que la tasa del impuesto a aplicar está en función directa del plazo que medie entre la fecha de aceptación del documento de destinación aduanera o de ingreso a Zona Franca, y la fecha de adquisición de la moneda extranjera o del pago al exterior del precio o crédito insoluto.
+
+Ahora bien, de acuerdo a lo señalado por este Servicio, el documento que da inicio a la importación y fija la iniciación del hecho gravado, siempre y cuando concurran los requisitos que establece el artículo 3° para dar origen a la aplicación del impuesto, es la declaración de importación que en la practica equivale al Formulario N°15, llamado “Declaración de Ingreso” del Servicio Nacional de Aduanas y que es el que se utiliza como documento de destinación aduanera. Por tanto, procede desde el momento en que se emite dicho documento comenzar el cómputo de los meses para el cálculo de la tasa del impuesto, que se cuenta desde la fecha registrada en “Fecha de Aceptación” Código 215 del formulario de la Aduana.
+
+Por el contrario, en ninguna situación podría utilizarse la fecha de manifiesto o fecha de documento de transporte, registradas en el recuadro “Origen, Transporte y Almacenaje”, del formulario, ya que estos documentos de acuerdo a lo anteriormente señalado, no constituyen el primer documento necesario para dar inicio a una importación.
+
+De acuerdo a lo anterior, solo cabe señalar, que el criterio utilizado por los bancos para aplicar el referido impuesto, de comenzar el cómputo de los meses, tomando como referencia la fecha de aceptación indicada en el Código 215 de la Declaración de Ingreso, sería el correcto.
+
+3.- Por último, en respuesta a si es correcto que los Bancos apliquen el artículo 48° del Código Civil, para efectos de determinar los plazos establecidos en el inciso 2° del artículo 3°, del Decreto Ley N°3.475, de 1980, cabe señalar, que la norma establecida en el Código Civil, es de aplicación general a cualquier plazo o término que se prescriban en las leyes o en los actos de las autoridades chilenas; Salvo que en las mismas leyes o actos se disponga expresamente otra cosa, situación que en el caso en comento no ocurre. Por tanto para determinar la tasa a aplicar, se debe tener presente que para los efectos del cómputo de “mes completo”, éste vence en el mismo día del mes respectivo, por lo que el mes puede constar de 28, 29, 30 ó 31 días, según sea el caso. Además la tasa variable, deberá considerar que los plazos inferiores a un mes y cualquier exceso de días sobre el día anotado se consideran mes completo para el cálculo de la tasa. (Circular 41, de 27.08.1992). En todo caso, la tasa máxima que en definitiva se aplique no podrá exceder del 1,608%.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Oficio N°2.947, de 11.08.2005
+
+Subdirección Normativa
+
+Dpto. de Técnica Tributaria.

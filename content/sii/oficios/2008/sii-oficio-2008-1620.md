@@ -1,0 +1,32 @@
+# Oficio N° 1620 de 2008
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1620
+- Año: 2008
+- Fecha: 2008-08-01
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja1620.pdf
+- Hash SHA-256: afebf3c1551223c061a62d74f0307bc3acd11714bff2b4a15b3fbd94872de04d
+
+## Resumen
+
+deuda. Convenio entre la República de Chile y la República Federativa del Brasil para Evitar la Doble Imposición y Prevenir la Evasión Fiscal en relación al Impuesto sobre la Renta – Art. 22° – Ley sobre Impuesto a la Renta, Art. 41° A). letra C), N°2, Art. 41° C) – Ley N° 20.171, de 2007 – Circular N° 25 de 2008. (Ord. N° 1620, de 01.08.2008). Deducción como crédito de impuestos pagados en Brasil por intereses originados en un depósito a plazo.
+
+## Referencias detectadas
+
+- {"type":"circular","number":25,"year":2008}
+
+## Texto extraído
+
+deuda.
+
+Convenio entre la
+República de Chile y la República Federativa del Brasil para Evitar la Doble
+Imposición y Prevenir la Evasión Fiscal en relación al Impuesto sobre la
+Renta – Art. 22° – Ley sobre Impuesto a la Renta, Art. 41° A). letra
+C), N°2, Art. 41° C) – Ley N° 20.171, de 2007 – Circular N° 25 de 2008.
+(Ord. N° 1620, de 01.08.2008).
+
+Deducción como crédito de impuestos
+pagados en Brasil por intereses originados en un depósito a plazo.

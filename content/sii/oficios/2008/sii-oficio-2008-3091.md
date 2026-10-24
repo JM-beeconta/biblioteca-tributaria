@@ -1,0 +1,50 @@
+# Oficio N° 3091 de 2008
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3091
+- Año: 2008
+- Fecha: 2008-10-28
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/ventas/ja3091.htm
+- Hash SHA-256: 2d84ad00c824f0726074981c9d5219bb6be7af79010dd4e591a8d806facb057d
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Actual Ley sobre Impuesto a las – Art. 13°, N°3, Art, 23°, N°’s 2 y 4 – D.L. N° 824, de 1974, Art. 31° – Circulares N°’s 71 y 130, de 1977 – Oficios N°’s 2.836, de 1984 y 3.068, de 1992. (Ord. N°3.091, de 28.10.2008). Word Tratamiento tributario que procede aplicar al impuesto soportado en la adquisición y mantención de un vehículo denominado Minibús.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"31"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 13°, N°3, ART, 23°, N°’S 2 Y 4 – D.L. N° 824, DE 1974, ART. 31° – CIRCULARES N°’S 71 Y 130, DE 1977 – OFICIOS N°’S 2.836, DE 1984 Y 3.068, DE 1992. (ORD. N°3.091, DE 28.10.2008).
+
+Home | Ventas y Servicios - 2008
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 13°, N°3, ART, 23°, N°’S 2 Y 4 – D.L. N° 824, DE 1974, ART. 31° – CIRCULARES N°’S 71 Y 130, DE 1977 – OFICIOS N°’S 2.836, DE 1984 Y 3.068, DE 1992. (ORD. N°3.091, DE 28.10.2008).
+
+ADQUISICIÓN Y MANTENCIÓN DE UN VEHÍCULO DENOMINADO MINIBÚS – CONFORME LAS INSTRUCCIONES IMPARTIDAS POR EL SERVICIO DE IMPUESTOS INTERNOS, EL REFERIDO VEHÍCULO ES SIMILAR A UN STATION- WAGONS, POR LO QUE EL IMPUESTO SOPORTADO EN SU ADQUISICIÓN Y EN LA DE LOS COMBUSTIBLES, REPUESTOS Y REPARACIONES, NO DA DERECHO A CRÉDITO FISCAL – IGUALMENTE, CONFORME LO DISPUESTO EN EL ARTÍCULO 31°, DE LA LEY SOBRE IMPUESTO A LA RENTA, LOS DESEMBOLSOS INCURRIDOS EN SU MANTENCIÓN Y FUNCIONAMIENTO, NO PODRÁN SER DEDUCIDOS COMO UN GASTO NECESARIO PARA PRODUCIR LA RENTA – NO OBSTANTE LO ANTERIOR, SE CONTEMPLA UNA EXCEPCIÓN PARA AMBAS NORMAS, CONFORME LA CUAL, EL DIRECTOR, PODRÁ CALIFICAR LOS GASTOS A SU JUICIO EXCLUSIVO COMO NECESARIOS, PROCEDIENDO EN TAL CASO, NO SÓLO SU DEDUCCIÓN DE LA RENTA BRUTA, SINO QUE ADEMÁS CON DERECHO AL CRÉDITO FISCAL, CONFORME LO ESTABLECIDO EN EL N°4, DEL ARTÍCULO 23°, DEL D.L. N°825, DE 1974.
+
+1.- Se ha recibido en esta Dirección Nacional su oficio del antecedente, mediante el cual traslada una consulta del Sr. XXXX, de la sociedad YYYY, Consultores y Auditores de Empresas, mediante la cual consulta acerca del tratamiento tributario respecto del Impuesto al Valor Agregado e Impuesto a la Renta que debe aplicarse al impuesto soportado en la adquisición y mantención de un vehículo denominado Minibús. Al respecto señala que han asesorado a sus clientes considerando la jurisprudencia de este Servicio, específicamente la contenida en Ord. N° 854, de 20/3/2000, que hace referencia a esta materia. No obstante, le han surgido dudas en relación a lo aseverado en el N° 3, del citado oficio, toda vez que, en su opinión, los vehículos minibuses no deberían ser asimilados a station-wagons, (ya que el servicio en dicho oficio no lo hace en forma explícita) y, por lo tanto, el IVA recargado en su adquisición, así como los servicios y bienes necesarios para su funcionamiento y mantención, otorgan derecho a crédito fiscal, pudiendo a su vez ser considerados como gastos necesarios para producir la renta.
+Argumenta su posición en la definición que el Servicio Nacional de Aduanas hace de los vehículos station-wagons, así como también en la exigencia de licencia tipo clase A para conducir minibuses, lo que a su juicio reforzaría la funcionalidad del vehículo, cual es el transporte de pasajeros.
+2.- El Art. 23°, N° 4, del D.L. N° 825, de 1974, dispone en lo pertinente que no darán derecho a crédito las importaciones, arrendamiento con o sin opción de compra y adquisición de automóviles, station-wagons y similares y de los combustibles, lubricantes, repuestos y reparaciones para su mantención, salvo que el giro o actividad habitual del contribuyente sea la venta o arrendamiento de dichos bienes o bien en aquellos casos en que se ejerza la facultad del inciso primero del Art. 31°, de la Ley sobre Impuesto a la Renta.
+Por otra parte, el artículo 31°, inciso primero, de la Ley sobre Impuesto a la Renta, dispone en lo que dice relación con la consulta que no se deducirán de la renta bruta los gastos incurridos “en la adquisición y arrendamiento de automóviles, station-wagons y similares, cuando no sea éste el giro habitual, y en combustibles, lubricantes, reparaciones, seguros y, en general, todos los gastos para su mantención y funcionamiento. No obstante, procederá la deducción de estos gastos respecto de los vehículos señalados cuando el Director del Servicio de Impuestos Internos los califique previamente de necesarios, a su juicio exclusivo”.
+
+3.- Sobre el particular, cabe señalar que este Servicio definió el concepto de station-wagons en Circular N° 71, de 27/5/1977, el cual fue citado posteriormente en Circular N° 130, de 3/10/1977. Allí se señaló que por station-wagons debe entenderse a “aquel vehículo motorizado terrestre de uso mixto para pasajeros y carga adicional, a cuyo efecto dispone en su parte posterior de ventanillas y asientos removibles”.
+Luego se indicó que “quedan comprendidos dentro del concepto de vehículos similares al station-wagons, entre otros, aquellos conocidos bajo el nombre de “blazer” y “wagoniers”, carry-all, familiar, rural, suburbanos, kombi y camping”.
+4.- Conforme a las normas señaladas precedentemente y a la jurisprudencia contenida en Ord. N° 2836, de 27/8/1984 y Ord. N° 3068, de 30/7/1992, se concluye que el vehículo denominado minibús, detallado en fotocopia de factura adjunta a los antecedentes, es similar a un station-wagons, razón por la cual el impuesto soportado en su adquisición y en la de los combustibles, lubricantes, repuestos y reparaciones para su mantención, no da derecho a crédito fiscal, conforme a lo dispuesto en el Art. 23°, N° 4, del D.L. N° 825, de 1974.
+Por la misma razón, los desembolsos en que se incurran para su mantención y funcionamiento, no podrán deducirse como gasto para efectos de determinar la renta líquida imponible, según lo dispuesto en el Art. 31°, inciso primero de la Ley de la Renta.
+5.- Sin embargo, ambas normas tienen una excepción que permite al Director de este Servicio calificar dichos gastos, a su juicio exclusivo, como necesarios para producir la renta, en cuyo caso, procederá su deducción de la renta bruta para efectos del artículo 31°, así como también el impuesto soportado en dichos desembolsos dará derecho a crédito fiscal para efectos del artículo 23°, del D.L. N° 825.
+Ahora bien, como la referida calificación debe hacerse analizando caso a caso los antecedentes que sirvan de base para determinar si efectivamente los desembolsos son necesarios para producir la renta, no es posible pronunciarse a priori y en forma genérica sobre la materia, correspondiendo a cada contribuyente que se encuentre en dicha situación, solicitar al Señor Director, califique a su juicio exclusivo, si el gasto incurrido en la adquisición del vehículo denominado Minibús, resulta necesario en su caso particular para producir la renta.
+6.- Por último y, en lo que dice relación con el Impuesto al Valor Agregado, cabe aclarar que en el caso de aquellos contribuyentes que adquieren estos vehículos para prestar el servicio de transporte de pasajeros, actividad exenta de Impuesto al Valor Agregado, conforme al Art. 13° N° 3 del D.L. N° 825, el impuesto soportado en su adquisición, así como en los gastos, en lubricantes, repuestos y reparaciones para su mantención, no dará derecho a crédito fiscal, ya que en tal caso, dichos desembolsos se estarían afectando a una operación exenta de IVA, respecto de la cual el Art. 23° N° 2, del citado texto legal niega en forma expresa el derecho a crédito fiscal.
+
+RICARDO ESCOBAR CALDERON
+
+DIRECTOR
+
+Oficio N°3.091, de 28.10.2008.
+
+Subdirección Normativa
+
+Dpto. de Impuestos Indirectos

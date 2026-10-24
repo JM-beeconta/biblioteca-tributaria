@@ -1,0 +1,47 @@
+# Oficio N° 1595 de 2008
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1595
+- Año: 2008
+- Fecha: 2008-07-30
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2008/otras/ja1595.htm
+- Hash SHA-256: d4ca22275c5a3fbea1a7ddd02eab1b895df0788d2da2b116ec71b7214644f85b
+
+## Resumen
+
+Timbres y Estampillas – Nuevo Texto – Ley Sobre Impuesto de – Art. 1°, N°3, Art. 24°, N°11. (Ord. N° 1.595, de 30.07.2008) Word Solicita confirmar tratamiento tributario que frente a la Ley de Timbres y Estampillas debe aplicarse a operación de crédito destinada a financiar exportación. Art. 24°, N°11, de D.L. N° 3.475, de 1980
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OTRO - TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 1°, N°3, ART. 24°, N°11. (ORD. N° 1.595, DE 30.07.2008)
+
+Home | Otro - 2008
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 1°, N°3, ART. 24°, N°11. (ORD. N° 1.595, DE 30.07.2008)
+
+OPERACIONES DE CRÉDITO DE DINERO, DESTINADAS A FINANCIAR EXPORTACIONES – TRATAMIENTO TRIBUTARIO – RESULTA NECESARIO PARA QUE SE CONFIGURE LA EXENCIÓN DEL ARTÍCULO 24 N°11 DEL DECRETO LEY N°3.475, DE 1980, QUE SE TRATE DE ALGUNO DE LOS DOCUMENTOS DE RESPALDO DECLARADOS POR LA SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS COMO NECESARIOS PARA EFECTUAR OPERACIONES DE CRÉDITO DE DINERO QUE SE ENCUENTREN VINCULADOS DIRECTAMENTE AL FINANCIAMIENTO DE OPERACIONES DE EXPORTACIÓN , ENTRE LOS CUALES SE COMPRENDEN SÓLO AQUELLOS QUE DAN CUENTA DE CRÉDITOS DE CORTO PLAZO OTORGADOS EN EL EXTERIOR.
+
+1.- Por presentación indicada en el antecedente, el señor XXXX en representación de YYYY S.A., solicita se confirme el siguiente tratamiento tributario que frente a la Ley de Timbres y Estampillas, debiera aplicarse con relación al artículo 24 N°11, del Decreto Ley N°3.475, de 1980, en la siguiente situación que describe: Señala que la empresa antes citada, es exportadora de productos agroindustriales (Frutas, Hortalizas, Berries), y que para efectos de mejorar la calidad de dichos productos, estaría realizando importantes inversiones y mejoras de infraestructura para los procesos de producción, para lo cual se construiría una Planta de Tratamiento de Riles y una Planta de Congelados, a objeto de mejorar la capacidad exportadora y competitiva respecto de otros países. Para realizar dichas inversiones, agrega, que han conseguido créditos de terceros que serían sus mismos clientes, en este caso de Japón.
+Indica además, que sus exportaciones equivalen a prácticamente un 100%, ya que las ventas que se realizarían en el ámbito nacional, equivaldrían a las ventas de semillas y de plantas efectuadas a los agricultores a quienes les compran sus productos y a la venta de desechos, por lo que no existiría prácticamente venta local de los productos finales terminados producidos por la empresa exportadora y por tanto la devolución del crédito, sería del 100% con retornos provenientes de la exportación.
+En razón de lo anteriormente señalado, solicita se le conteste sí están o no exentos del Impuesto de Timbres y Estampillas por el crédito a obtener para inversión.
+2.- Al respecto cabe señalar que de conformidad a lo establecido en el N°3 del Art.1°, del Decreto Ley N°3.475, de 1980, el documento en el cual conste una operación de crédito de dinero se encuentra afecto al Impuesto de Timbres y Estampillas.
+No obstante, el N°11 del artículo 24°, del mismo cuerpo legal, por su parte declara, que se encuentran exentos del referido impuesto, los documentos necesarios para efectuar operaciones de crédito de dinero destinadas al financiamiento de exportaciones, dicha norma específica además, que será la Superintendencia de Bancos e Instituciones Financieras la que determinará, cuáles son los documentos que tienen tal carácter. La mencionada exención, incorporada por la Ley N°18.449, publicada en el D. Oficial el 25.10.1985, por consistir en la liberación del impuesto, implica el cumplimiento de todos los requisitos que la norma contempla, sin los cuales los documentos respectivos se encontrarán gravados, según lo establece la regla general del decreto Ley N°3.475, de 1980.
+Al tenor de las disposiciones referidas, cuando fue establecida dicha exención, la mencionada Superintendencia impartió instrucciones al respecto dejando establecido cuales eran los documentos necesarios para realizar operaciones de crédito de dinero destinadas a financiar exportaciones, para los efectos de la exención invocada, entre los cuales se comprendían aquellos que daban cuenta de créditos obtenidos en el exterior directamente por los exportadores, siempre que las divisas se internaran al país con sujeción a las disposiciones del Capitulo VI del Titulo II del Compendio de Normas de Cambios Internacionales del Banco Central. El mencionado Capítulo VI “Financiamiento a las Exportaciones”, establecía normas especiales de cambios internacionales, que regían a los créditos de dinero otorgados exclusivamente para financiar exportaciones.
+El Banco Central, a su vez determinó, que la internación al país de los créditos de dinero provenientes del exterior, pagaderos a largo plazo, debían regirse por la normativa general aplicable a los créditos externos de dinero (Capitulo XIV) y como consecuencia, tales créditos quedaron marginados del beneficio de la referida exención.
+Es por tanto necesario para que se configure la exención del artículo 24 N°11 del Decreto Ley N°3.475, de 1980, que se trate de alguno de los documentos de respaldo declarados por la Superintendencia de Bancos e Instituciones Financieras como necesarios para efectuar operaciones de crédito de dinero que se encuentren vinculados directamente al financiamiento de operaciones de exportación, y entre los cuales se comprenden sólo aquellos que dan cuenta de créditos de corto plazo otorgados en el exterior.
+3.- En razón de lo indicado precedentemente, y en atención a que en la situación planteada en la consulta se trataría de un crédito a largo plazo que no estaría destinado directamente al financiamiento de una exportación, sino que a la construcción de una Planta de Tratamientos de Riles y una Planta de Congelados, los documentos en los cuales constan las operaciones de créditos otorgados desde el exterior, no cumplirían con los requisitos esenciales para que proceda la exención en comento, debiendo en este caso tributar con el impuesto de timbres y estampillas que corresponda.
+
+RICARDO ESCOBAR CALDERON
+
+DIRECTOR
+
+Oficio N° 1.595, de 30.07.2008
+
+Subdirección Normativa
+
+Dpto. De Técnica Tributaria

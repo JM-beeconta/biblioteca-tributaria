@@ -6,65 +6,472 @@
 - Año: 2006
 - Fecha: 2006-09-04
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja4890.pdf
-- Hash SHA-256: 3b6d522b51d46b327156d69392b8fdf0a8fac40a11fcd2d2b26a6160338c8665
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja3861.htm
+- Hash SHA-256: d81088aadd67fc4a1c9f6b0ee5da481c5e22119e0568c707067d9e99f5c88b30
 
 ## Resumen
 
-Renta � Actual Ley sobre Impuesto a la � Art. 42, N�1, Art. 43, N�1, Art. 55 bis � Oficio N� 3861, de 2006. Rebaja tributaria de intereses pagados por cr�ditos hipotecarios, conforme a las normas del art�culo 55 bis de la Ley de la Renta. (Ord. N� 4.890, de 19.12.2006)
+Renta – Actual Ley Sobre Impuesto a la – Art. 42 Bis - Decreto Ley N° 3.500, de 1980. Word Procedimiento para determinar el Impuesto Único que afecta a los Retiros de Ahorro Previsional Voluntario. (Ord. N° 3.861, de 04.09.2006)
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":3861,"year":2006}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1, ART. 43, N°1, ART.
-               55 BIS – OFICIO N° 3861, DE 2006. (ORD. N° 4890, DE 19.12.2006)
+LEY RENTA - RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42 BIS - DECRETO LEY N° 3.500, DE 1980. (ORD. N° 3.861, DE 04.09.2006)
 
-      Rebaja tributaria de intereses pagados por créditos hipotecarios, conforme a las normas del
-      artículo 55 bis de la Ley de la Renta.
+Home | Ley Renta - 2006
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42 BIS - DECRETO LEY N° 3.500, DE 1980. (ORD. N° 3.861, DE 04.09.2006)
 
- 1.- Por presentación indicada en el antecedente, señala que acusa recibo del Oficio Ordinario N°
-     3.861, de 04 septiembre 2006 de este Servicio, donde se le indica el cobro de impuesto como
-     trabajador activo y trabajador pensionado.
+PROCEDIMIENTO DE CÁLCULO DEL IMPUESTO ÚNICO QUE AFECTA A LOS RETIROS DE AHORRO PREVISIONAL VOLUNTARIO CONFORME A LAS NORMAS DEL ART. 42 BIS DE LA LEY DE LA RENTA – FORMULA APLICABLE EN EL CASO DE TRABAJADORES ACTIVOS.
 
-      Agrega, que el recurrente paga impuesto como trabajador activo, otro impuesto como
-      pensionado y al reliquidar debe pagar un tercer impuesto por ley.
+1.-
+Por presentación indicada en el antecedente, señala que hizo su
+declaración vía Internet Folio 000000 en el Formulario N° 22 línea 44,
+cobrándosele la suma de $ 226.638 de impuesto por retiro de ahorro
+previsional voluntario, en circunstancias que en el Suplemento Tributario
+donde se dieron a conocer las instrucciones para operación renta 2006, páginas
+102, 103 y 104, se aplica una tasa de interés entre 25% y 30% y no de un
+34% en su caso.
 
-      Expresa más adelante, que como derecho adquirido para el Fisco de Chile, de cobrar impuestos
-      y como derecho adquirido para el recurrente de obtener rebaja en intereses pagados por crédito
-      hipotecario, solicita se haga efectivo el beneficio que la ley faculta, como trabajador activo y
-      como trabajador pensionado se rebajen los intereses pagados por crédito hipotecario, desde la
-      promulgación de la ley a la fecha con sus intereses, siguiendo el desarrollo del citado Oficio N°
-      3.861, donde se acredita que le cobran impuesto como trabajador activo y trabajador
-      pensionado, señalando finalmente que el impuesto se paga en el Mes de Abril para no entrar en
-      mora y cumplir la ley, como es su norma.
+Expresa,
+que conforme al artículo 97 título preliminar párrafo disposiciones
+generales artículos 1 y 3, se le cobró un interés maliciosamente falso
+en operación renta 2006, lo que constituye delito de parte de este
+Servicio al impugnar arbitrariamente lo establecido en la ley en no
+cumplir a cabalidad como ente fiscalizador, actuando como juez y parte al
+cobrar un interés que no es real por ahorro previsional voluntario,
+solicitando como consecuencia de lo anterior la devolución del dinero
+cobrado en exceso.
 
-2.-   Sobre el particular, cabe señalar que el recurrente es un contribuyente del Impuesto Único de
-      Segunda Categoría de los artículos 42 N° 1 y 43 N° 1 de la Ley de la Renta, ya que sólo ha
-      percibido rentas como trabajador activo y pensionado, afectándose por ambas rentas con dicho
-      tributo.
+2.-
+Sobre el particular, cabe indicar que el N° 3 del artículo 42 bis
+de la Ley de la Renta establece que en caso que los recursos originados en
+depósitos de ahorro previsional voluntario o de cotizaciones voluntarias
+a que se refiere el número 2 del Título III del decreto ley Nº 3.500,
+de 1980, sean retirados y no se destinen a anticipar o mejorar las
+pensiones de jubilación, el monto retirado, reajustado en la forma
+dispuesta en el inciso penúltimo del número 3 del artículo 54º, quedará
+afecto a un impuesto único que se declarará y pagará en la misma forma
+y oportunidad que el impuesto global complementario. La tasa de este
+impuesto será tres puntos porcentuales superior a la que resulte de
+multiplicar por el factor 1,1, el producto, expresado como porcentaje, que
+resulte de dividir, por el monto reajustado del retiro efectuado, la
+diferencia entre el monto del impuesto global complementario determinado
+sobre las remuneraciones del ejercicio incluyendo el monto reajustado del
+retiro y el monto del mismo impuesto determinado sin considerar dicho
+retiro. Si el retiro es efectuado por una persona pensionada o, que cumple
+con los requisitos de edad y de monto de pensión que establecen los artículos
+3º y 68 letra b) del decreto ley Nº 3.500, de 1980, o con los requisitos
+para pensionarse que establece el decreto ley Nº 2.448, de 1979, no se
+aplicarán los recargos porcentuales ni el factor antes señalados.
 
-3.-   Ahora bien, en cuanto a lo que solicita en su escrito, esto es, que se haga efectivo el beneficio
-      tributario por intereses del artículo 55 bis de la Ley de la Renta del Impuesto Único de Segunda
-      Categoría que ha afectado a sus rentas, se informa que el recurrente, según las declaraciones de
-      impuestos presentadas a este Servicio, durante los años tributarios 2002 al 2006, ha hecho uso
-      personalmente de la referida franquicia tributaria, reliquidando el impuesto antes señalado, por
-      lo que resulta improcedente lo requerido, ya que el beneficio tributario en cuestión ha sido
-      utilizado oportunamente por el propio contribuyente según consta en las declaraciones de
-      impuestos anuales a la renta presentadas a este organismo en los períodos tributarios antes
-      indicados.
+3.- Ahora
+bien, conforme a lo dispuesto por la norma legal antes mencionada, en el
+caso de trabajadores activos, la tasa del impuesto único a aplicar al
+retiro de los ahorros previsionales voluntarios se calcula de acuerdo a la
+siguiente formula:
 
+TIU
+= {3 + [ 1,1 x (IGC s/RA con R - IGCs/RA sin R) x 100]}
 
+M.R.R.
 
+Donde
+=
 
-                                  RICARDO ESCOBAR CALDERON
-                                          DIRECTOR
+-
+TIU = Tasa de Impto. Unico
 
+-
+IGCs/ RA con R = Impuesto Global
+Complementario determinado sobre las Rentas Anuales obtenidas por el
+afiliado durante el año calendario respectivo más los retiros de los depósitos
+de ahorros previsionales voluntarios o cotizaciones voluntarias efectuados
+en dicho período, ambas rentas reajustadas al término del ejercicio, de
+acuerdo a la forma prevista por el inciso penúltimo del artículo 54 de
+la Ley de la Renta.
 
+-
+IGCs/RA sin R = Impuesto Global Complementario determinado sobre
+las Rentas Anuales obtenidas por el afiliado durante el año calendario
+sin considerar o incluir los retiros de los depósitos de ahorros
+previsionales voluntarios o cotizaciones voluntarias efectuados en dicho
+período, debidamente reajustadas estas rentas al término del ejercicio
+en los términos previstos por el inciso penúltimo del artículo 54 de la
+Ley de la Renta.
 
+-
+M.R.R. = Monto Retiros de Depósitos de
+Ahorros Previsionales Voluntarios o Cotizaciones Voluntarias efectuados
+durante el año calendario respectivo, debidamente reajustados en la forma
+prevista por el inciso penúltimo del artículo 54 de la Ley de la Renta.
 
-                                      Oficio N° 4890, de 19.12.2006
-                                        Subdirección Normativa
-                                       Dpto. de Impuestos Directos
+En
+el evento que el retiro de los ahorros previsionales voluntarios sean
+efectuado por una persona pensionada o que cumple determinados requisitos
+que exige la ley, la tasa del impuesto único se calcula a través de la
+siguiente fórmula, cuyos parámetros de cálculo utilizados en dicha fórmula
+tienen el mismo significado indicado anteriormente:
+
+TIU = (IGC s/RA con R - IGCs/RA sin R) x 100
+
+M.R.R.
+
+4.-
+En relación con la consulta planteada, se señala que la AFP en la
+cual se encuentra afiliado el recurrente, informó a este Servicio un
+retiro de ahorro previsional voluntario como trabajador activo de $
+600.814 y como trabajador pasivo (pensionado) de $ 651.859, dando como
+resultado las siguientes
+tasas de impuesto único que afectan a los referidos retiros.
+
+1.-
+Cálculo del Impuesto Unico que afecta al retiro de ahorro previsional
+voluntario realizado como trabajador activo informado por la AFP
+
+A.- ANTECEDENTES
+
+a.1)
+Base Imponible del Impuesto Global Complementario declarada por el
+contribuyente en la Línea 17 del Formulario N° 22 (Folio 0000)
+..................................................................................................
+
+$
+23.378.391
+
+a.2)
+Monto retiro de ahorro previsional voluntario informado por
+la AFP .................................................................................................
+
+$ 660.814
+
+B.- DESARROLLO
+
+b.1)
+Cálculo
+del Impuesto Global Complementario sobre las rentas anuales percibidas
+incluido el retiro de ahorro previsional voluntario informado por la AFP
+
+-
+Base Imponible del Impuesto Global Complementario declarada
+por el contribuyente en
+la Línea 17 del Formulario N° 22 ........... ................
+
+$ 23.378.391
+
+-
+Más: Retiro de ahorro previsional voluntario informado
+por la AFP
+....................................................................................... .....
+
+$ 660.814
+
+-
+Base Imponible para el cálculo del Impto. Global
+Complementario
+.......................................................................
+
+$ 24.039.205
+==========
+
+-
+Impto. Global Complementario determinado: 15% s/$ 24.039.205
+...............................................................................
+
+$ 3.605.880,75
+
+Menos: Cantidad a
+rebajar según tabla .........................................
+
+$(1.771.133,10)
+
+Impto.
+Global Complementario determinado ..................................
+
+$
+1.834.748
+===========
+
+b.2)
+Cálculo
+del Impuesto Global Complementario sobre rentas anuales percibidas sin
+considerar retiro de ahorro previsional voluntarios informado por la AFP
+
+-
+Base Imponible del Impuesto Global Complementario declarada
+por el contribuyente en la Línea 17 del Formulario N° 22 ............................
+
+$ 23.378.391
+==========
+
+-
+Impto. Global Complementario determinado: 15% s/$ 23.378.391
+...............................................................................
+
+$ 3.506.758,65
+
+- Menos : Cantidad a rebajar según tabla
+...........................................
+
+$(1.771.133,10)
+
+- Impto. Global Complementario declarado por el contribuyente
+en la Línea 18 Formulario N° 22 .............................................................
+
+$
+1.735.626
+
+b.3)Cálculo de la Tasa del Impuesto Unico
+
+{3 + 1,1 x [( $ 1.834.748 - $ 1.735.626 ) x 100]}
+$ 660.814
+
+{3 + 1,1 x
+[( $ 99.122 )
+x 100]}
+
+$ 660.814
+
+{3 + 1,1 x [(
+0,150) x 100 ]}
+
+{3 + 1,1 x
+[15,0]}
+
+{3 + 16,50}
+= 19,5%
+
+b.4) Impto. Unico determinado
+
+Monto
+retiro informado por la AFP
+...............................................
+
+$
+660.814
+
+=======
+
+Tasa
+de Impuesto Unico determinada
+..........................................
+
+$
+19,5%
+
+=======
+
+Impto.
+Unico determinado: 19,5%
+s/$ 660.814............................
+
+$
+128.859
+
+=======
+
+2.-
+Cálculo del Impuesto Unico que afecta a retiro de ahorro
+previsional voluntario informado por la AFP
+
+A.- ANTECEDENTES
+
+a.1)
+Base Imponible del Impuesto Global Complementario decla-rada
+por el contribuyente en la Línea 17 del Formulario N° 22 .
+..........
+
+$
+23.378.391
+
+a.2)
+Monto retiro de ahorro previsional voluntario informado por
+la
+AFP.............................................................................................
+
+$
+651.859
+
+B.- DESARROLLO
+
+b.1)
+Cálculo del Impuesto Global Complementario sobre las rentas
+anuales percibidas incluido el retiro de ahorro previsional voluntario
+informado por la AFP
+
+-
+Base Imponible del Impuesto Global Complementario declarada
+por el contribuyente en la Línea 17 del Formulario N° 22
+............
+
+$
+23.378.391
+
+-
+Más: Retiro de ahorro previsional voluntario informado
+por la AFP
+..............................................................................................
+
+$
+651.859
+
+-
+Base Imponible para el cálculo del Impto. Global
+Complementario
+...........................................................................
+
+$ 24.030.250
+=========
+
+-
+Impto. Global Complementario determinado: 15% s/$ 24.030.250
+....................................................................................
+
+$ 3.604.537,50
+
+-
+Menos: Cantidad a rebajar según tabla ... ........................
+
+$ (1.771.133,10)
+
+Impto.
+Global Complementario determinado ................................
+
+$
+1.833.404
+=========
+
+b.2)
+Cálculo del Impuesto Global Complementario sobre rentas anuales
+percibidas sin considerar el retiro de ahorro previsional voluntario
+informado por la AFP
+
+-
+Base Imponible del Impuesto Global Complementario declarada
+por el contribuyente en la Línea 17 del Formulario N° 22
+............
+
+$
+23.378.391
+=========
+
+- Impto.
+Global Complementario determinado según tabla:
+
+15%
+s/$ 23.378.391
+......................................................................
+
+$
+3.506.758,65
+
+-
+Menos: Cantidad a rebajar según tabla
+......................................
+
+$ (1.771.133,10)
+
+-
+Impto. Global Complementario declarado por el contribuyente en Línea
+18 Formulario N° 22 ..........................
+
+$
+1.735.626
+=========
+
+b.3)
+Cálculo de la Tasa del Impuesto Unico
+
+( $ 1.833.404- $ 1.735.626 ) x 100
+
+$ 651.859
+
+( $
+97.778 ) x 100
+
+$
+651.859
+
+( 0,150) x
+100 =
+15,0%
+
+b.4) Impto. Unico determinado
+
+-
+Monto retiro informado por la
+AFP...............................................
+
+$
+651.859
+
+=======
+
+-
+Tasa de Impuesto Unico determinada
+..........................................
+
+$ 15,0%
+
+=======
+
+-
+Impto. Unico determinado: 15,0% s/$
+651.859..........................
+
+$ 97.779
+
+=======
+
+b.5)
+Total Impuesto Unico a declarar en Línea 44 del Formulario N° 22
+
+-
+Impuesto Unico determinado como trabajador
+activo...................
+
+$
+128.859
+
+-
+Impuesto Unico determinado como trabajador
+pensionado..........
+
+$ 97,779
+
+-
+Total Impuesto Unico declarado en la Línea 44 del Form.
+22......
+
+$
+226.638
+
+=======
+
+5.-
+Como se puede apreciar de los cálculos efectuados en el N° 4
+precedente, el impuesto único que este Servicio informó en la propuesta
+de declaración presentada al contribuyente equivalente a $ 226.638, se
+encuentra correctamente determinado y que el recurrente confirmó al
+enviar su declaración vía Internet, siendo por lo tanto improcedente lo
+que sostiene en su escrito. En cuanto a las tasas de 25% y 30% que señala
+el recurrente en su presentación, debe aclararse que no se tratan de
+tasas de interés como indebidamente las califica, sino que dichas alícuotas
+corresponden a los ejemplos prácticos e hipotéticos que se plantean en
+la Línea 44 del Formulario N° 22, y que obviamente no guardan ninguna
+relación con los antecedentes particulares del contribuyente consultante.
+
+RICARDO ESCOBAR
+CALDERON
+
+DIRECTOR
+
+Oficio N° 3861, de 04.09.2006
+
+Subdirección
+Normativa
+
+Dpto.
+de Impuestos Directos

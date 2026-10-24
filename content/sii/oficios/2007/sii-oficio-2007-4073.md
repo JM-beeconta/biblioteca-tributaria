@@ -1,0 +1,54 @@
+# Oficio N° 4073 de 2007
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 4073
+- Año: 2007
+- Fecha: 2007-03-19
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/ventas/ja4073.htm
+- Hash SHA-256: 76d3d3e959b3ca18f9ab2ba5ac817dec570439852c53a09f1fd6edecec11e3d1
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Actual Ley sobre Impuesto a las – Art. 2°, N°2, Art. 8°, Art. 12° – Ley N° 19.857, de 2003 – Res. Ex. N° 6.080, de 1999 – Circular N° 39, de 2000. (Ord. N° 666, de 19.03.2007) Word Solicita pronunciamiento sobre exención del Impuesto al Valor Agregado y autorización para emitir facturas de ventas y servicios no afectos o exentos de IVA, a una Empresa Individual de Responsabilidad Limitada.
+
+## Referencias detectadas
+
+- {"type":"circular","number":39,"year":2000}
+- {"type":"oficio","number":0,"year":2006}
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 8°, ART. 12° – LEY N° 19.857, DE 2003 – RES. EX. N° 6.080, DE 1999 – CIRCULAR N° 39, DE 2000. (ORD. N° 666, DE 19.03.2007)
+
+Home | Ventas y Servicios - 2007
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 8°, ART. 12° – LEY N° 19.857, DE 2003 – RES. EX. N° 6.080, DE 1999 – CIRCULAR N° 39, DE 2000. (ORD. N° 666, DE 19.03.2007)
+
+SERVICIOS DE SECRETARIADO Y OTROS RELACIONADOS PRESTADOS POR UNA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA – PROCEDENCIA DE LA EXENCIÓN DEL IMPUESTO AL VALOR AGREGADO, ESTABLECIDA EN EL ARTÍCULO 12°, LETRA E), N° 12 – LOS SERVICIOS NO CONSTITUYEN UN HECHO AFECTO CON EL IMPUESTO AL VALOR AGREGADO, POR LO QUE RESULTA INAPLICABLE LA PRECITADA EXENCIÓN, POR CUANTO, PARA QUE UN HECHO SEA CALIFICADO DE EXENTO ES REQUISITO SINE QUA NON QUE PREVIAMENTE SE ENCUENTRE GRAVADO – LA E.I.R.L, DEBERÁ EMITIR FACTURAS NO AFECTAS.
+
+1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente, mediante la cual se ha enviado para respuesta la consulta realizada por XXXXXX a esa Dirección Regional, quien en representación de YYYYYY Empresa Individual de Responsabilidad Limitada, solicita la exención del Impuesto al Valor Agregado, de acuerdo a lo establecido en el artículo 12 letra E N° 12 del D.L. 825 de 1974, y la correlativa autorización para emitir facturas de ventas y servicios no afectos o exentos de IVA. Manifiesta que desde el año 2002, realizó labores de secretariado en la Secretaría Regional Ministerial de Agricultura de la TTT, bajo la modalidad de prestación de servicios a honorarios, posteriormente a instancias de la Contraloría General de la República, dicha Secretaría Regional debió constituirse como una Empresa Individual de Responsabilidad Limitada (E.I.R.L.), solicitando Rut y declarando inicio de actividades con fecha 8 de agosto de 2005.
+Expone que la XIV Dirección Regional Metropolitana Santiago ZZZ, emitió Oficio N° 000 de 2006, que declara exenta del Impuesto al Valor Agregado de acuerdo al artículo 12 letra E N° 12 del IVA, a una E.I.R.L., con el mismo giro de la recurrente, autorizándola a timbrar facturas exentas.
+2.- El artículo 8° del D.L. N° 825 grava con IVA las ventas y servicios. Por su parte, el artículo 2° N° 2 del mismo cuerpo legal, define servicio como “La acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los Nº 3 y 4, del artículo 20°, de la Ley sobre Impuesto a la Renta”.
+A su vez el artículo 12° del mismo D.L. N° 825, de 1974, señala en su letra E), en lo pertinente, que se encontrarán exentos de la aplicación del Impuesto al Valor Agregado:
+N° 12.- Los servicios prestados por trabajadores que laboren solos, en forma independiente, y en cuya actividad predomine el esfuerzo físico sobre el capital o los materiales empleados.
+Por su parte la Ley 19.857, de 11 de febrero de 2003, que autorizó el establecimiento de E.I.R.L. en su artículo 2, reza: “la empresa individual de responsabilidad limitada es una persona jurídica con patrimonio propio distinto al de su titular, es siempre comercial y está sometida al Código de Comercio cualquiera que sea su objeto...”.
+
+3.- Ahora bien, para resolver el problema planteado, se estima necesario considerar que el objeto de la EIRL a que se refiere la consulta, de acuerdo con los antecedentes acompañados, consiste en la prestación de servicios de aseo, mensajería y despacho de correspondencia, secretariado, vigilancia, portería, conserjería y otras tareas relacionadas. De los mismos antecedentes, aparece que la empresa se constituyó para participar en la licitación de la prestación de servicios de secretariado y otros relacionados, efectuada por la SEREMI de Agricultura de TTT, adjudicándose en definitiva el contrato correspondiente, repartición donde desarrolla actualmente dichas labores.
+
+De acuerdo con lo anterior, a juicio de esta Dirección Nacional, las actividades que desarrolla la empresa indicada no corresponden a alguna de las comprendidas en los números 3 o 4 del artículo 20° de la Ley sobre Impuesto a la Renta, de modo que no se configuraría el hecho gravado con el Impuesto al Valor Agregado establecido en el artículo 2°, núm. 2°, del Decreto Ley 825 de 1974, u otro específico.
+En vista de que los servicios expuestos constituyen un hecho no afecto a IVA, es insustancial analizar si corresponde aplicar la exención del artículo 12 del D.L. 825, de 1974, desde que, para que un hecho sea calificado de exento es requisito sine qua non que previamente se encuentre gravado.
+Sin embargo, con el objeto de evitar confusión en la aplicación del artículo 12 letra E) N° 12 es conveniente precisar que la exención comentada tiene por objeto otorgar la franquicia a personas naturales, desde que su texto señala “... trabajadores que laboran solos...”, frase que interpretada en su sentido natural y obvio excluye perentoriamente a las personas ficticias, de esta manera, al relacionar esta norma con el artículo 2° de la Ley 19.857 que da tratamiento de persona jurídica a la E.I.R.L, se concluye que el artículo 12 letra E) N° 12 no es aplicable a la actividad desarrollada como ente independiente por la empresa individual en cuestión.
+
+4.- En conclusión, YYYYYY Empresa Individual de Responsabilidad Limitada, debe emitir facturas no afectas, por los servicios de secretaría que preste a la SEREMI de Agricultura de TTT, de acuerdo a lo estipulado en la Resolución Exenta N° 6080 de 10 de septiembre de 1999 y la Circular N° 39 de 02 de junio de 2000.
+
+RICARDO ESCOBAR CALDERON
+
+DIRECTOR
+
+Oficio N° 666, de 19.03.2007.
+
+Subdirección Normativa
+
+Dpto. de Impuestos Indirectos

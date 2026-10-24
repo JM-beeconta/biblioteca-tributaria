@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-24T01:18:20.302Z",
-  "total_documents": 17725,
+  "generated_at": "2026-10-24T01:26:04.770Z",
+  "total_documents": 17388,
   "by_source": {
     "BCN": 5150,
-    "SII": 12575
+    "SII": 12238
   },
   "by_type": {
     "articulo": 4717,
     "norma": 433,
     "resolucion": 2015,
-    "oficio": 9436,
-    "circular": 1124
+    "oficio": 8838,
+    "circular": 1385
   },
   "by_year": {
     "1965": 99,
@@ -45,10 +45,10 @@
     "2002": 774,
     "2003": 424,
     "2004": 392,
-    "2005": 411,
-    "2006": 372,
-    "2007": 416,
-    "2008": 494,
+    "2005": 284,
+    "2006": 274,
+    "2007": 342,
+    "2008": 456,
     "2009": 314,
     "2010": 377,
     "2011": 228,
@@ -86,8 +86,8 @@
     "RIVA",
     "LRM"
   ],
-  "mode": "backfill:Gapfill-2009-2012",
-  "last_scrape_at": "2026-10-24T01:18:19.106Z",
-  "touched_documents": 1019,
+  "mode": "backfill:Gapfill-2005-2008",
+  "last_scrape_at": "2026-10-24T01:26:03.747Z",
+  "touched_documents": 988,
   "backfill_status": "running"
 }

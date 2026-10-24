@@ -1,0 +1,54 @@
+# Oficio N° 3229 de 2007
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3229
+- Año: 2007
+- Fecha: 2007-11-27
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3229.htm
+- Hash SHA-256: 7ec463b129aa994b7fa2caf381e4826bfa8477638c70aa1f3c611b616c5f5731
+
+## Resumen
+
+Renta – Actual Ley Sobre Impuesto a la – Art.30°, Art.31° - Código Civil, Art. 1.386. (Ord. N°3.229, de 27.11.2007) Word Servicio de Transporte Gratuito que se indica no puede ser objeto de Donación.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART.30°, ART.31° - CÓDIGO CIVIL, ART. 1.386. (ORD. N°3.229, DE 27.11.2007)
+
+Home | Ley Renta - 2007
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART.30°, ART.31° - CÓDIGO CIVIL, ART. 1.386. (ORD. N°3.229, DE 27.11.2007)
+
+SERVICIO DE TRANSPORTE GRATUITO – NO PUEDE SER OBJETO DE DONACIÓN – PROCEDE SER REBAJADO COMO GASTO TRIBUTARIO CONFORME AL ART. 31° - REQUISITOS PARA CALIFICAR DE GASTO NECESARIO PARA PRODUCIR RENTA.
+
+1.- Por presentación indicada en el antecedente, somete a consideración y resolución de este Servicio la petición de donación que indica en su escrito efectuada por la empresa XXX a favor del Ejército de Chile, en atención a los hechos que describe. Expresa, que en razón de la tragedia de Antuco, XXX S.A., sin ninguna pretensión más que la de colaborar en dicha lamentable situación, dispuso de un helicóptero y de personal para proceder al rescate de los conscriptos afectados en dicha tragedia, siempre bajo la premisa de colaborar en una situación de esta magnitud con nuestras instituciones.
+Agrega, que en razón de ello la empresa efectúo gastos de consideración que equivalen a la suma de $ 10.991.666, la que en la naturaleza de la colaboración se pensó siempre en actuar sin ningún interés, siendo dicho monto donado en la actuación de rescate. Como consecuencia de lo anterior y al objeto de no caer en ninguna situación que no sea propia es que en su calidad de abogado de la empresa señalada solicita como puede hacer efectiva esta donación y en términos impositivos como debe considerarla, pues revisada la normativa del Servicio no expresa una forma particular al respecto, o si bien ha de reconocerse como otra partida distinta.
+Adicionalmente agrega que sin querer hacer publicidad o marketing con la participación de la empresa en tan lamentable tragedia, la participación en el rescate fue debidamente documentada mediante fotografías y videos a objeto de transmitir a todos los funcionarios de la empresa el importante rol que esta desempeñó. Este registro de los hechos se encuentra contenido en un video informativo que se acompaña al SII. Tal video forma parte de los planes de motivación de la empresa y en otros casos puede ser exhibido a clientes a objeto de graficar la experiencia de los pilotos y la calidad y adaptabilidad de sus aeronaves.
+Por otra parte, acompaña carta original emitida por don YYY, General de Brigada y Secretario General del Ejercito, en la que se acredita la participación de la empresa en las actividades de apoyo, socorro y rescate, con detalle de personal de la empresa que participó, registro de la aeronave, horas de vuelo e itinerarios.
+
+Señala finalmente, que no es el ánimo de la empresa el cobrar estos montos pues demás está decir que se sienten cumpliendo con una necesidad imperiosa, tanto para las personas involucradas como para el país, de modo que con el objeto de poder efectuar las cosas como corresponde, solicita un pronunciamiento sobre esta materia.
+2.- Sobre el particular, cabe señalar en primer lugar que el artículo 31º de la Ley de la Renta, dispone que la renta líquida de los contribuyentes de la Primera Categoría se determinará deduciendo de la renta bruta todos los gastos necesarios para producirla que no hayan sido rebajados en virtud del artículo 30º de la misma ley, pagados o adeudados, durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante este Servicio.
+3.- En relación con lo dispuesto por la norma legal precitada, este Servicio a través de diversos pronunciamientos emitidos sobre la materia, publicados en su sitio web de Internet (www.sii.cl), ha establecido para que un gasto pueda ser calificado de necesario para producir la renta y, por consiguiente, susceptible de ser rebajado en la determinación de la renta líquida imponible de primera categoría, debe reunir los siguientes requisitos copulativos:
+a) Que se relacione directamente con el giro o actividad que se desarrolla;
+b) Que se trate de gastos necesarios para producir la renta, entendiéndose esta expresión en el sentido de lo que es menester, indispensable o que hace falta para un determinado fin, contraponiéndose a lo superfluo. En consecuencia, el concepto de gasto necesario debe entenderse como aquellos desembolsos de carácter inevitables u obligatorios, considerándose no sólo la naturaleza del gasto, sino que además su monto, es decir, hasta qué cantidad el gasto ha sido necesario para producir la renta del ejercicio anual, cuya renta líquida imponible se está determinando;
+c) Que no se encuentren ya rebajados como parte integrante del costo directo de los bienes y servicios requeridos para la obtención de la renta;
+d) Que el contribuyente haya incurrido efectivamente en el gasto, sea que éste se encuentre pagado o adeudado al término del ejercicio. De este modo, para el debido cumplimiento de este requisito, es menester que el gasto tenga su origen en una adquisición o prestación real y efectiva y no en una mera apreciación del contribuyente; y
+e) Por último, que se acrediten o justifiquen en forma fehaciente ante el Servicio de Impuestos Internos, es decir, el contribuyente debe probar la naturaleza, necesidad, efectividad y monto de los gastos con los medios probatorios de que disponga, pudiendo el Servicio impugnarlos, si por razones fundadas no se estimaren fehacientes.
+4.- Por otra parte se expresa, que el artículo 1386 del Código Civil, define la donación entre vivos como “un acto por la cual una persona transfiere gratuita e irrevocablemente una parte de sus bienes a otra persona, que la acepta”. El artículo 1396 del mismo texto legal preceptúa que: “Los servicios personales gratuitos no constituyen donación, aunque sea de aquellos que ordinariamente se pagan.”
+En el caso de la consulta, el objeto de la donación no constituye un bien determinado, sino que un servicio de transporte, el cual fue prestado en forma gratuita, de ahí entonces que se concluye que el servicio realizado no constituye una donación, y por consiguiente, no le son aplicables los textos legales que regulan los beneficios tributarios por donaciones.
+5.- No obstante, analizada la situación que expone en su escrito, el material recogido en el registro audiovisual acompañado a este Servicio, el objetivo y utilidad de este video tanto para la gestión interna de la empresa como para su gestión comercial y el monto del desembolso, se concluye que éstos constituyen un gasto necesario para producir la renta. Ello en atención a que cuando la empresa actúa en este y otro tipo de situaciones operativas, le permite utilizar las experiencias obtenidas para apoyar labores de capacitación interna y difusión o publicidad externa, propias de la actividad que desarrolla.
+
+RICARDO ESCOBAR CALDERON
+
+DIRECTOR
+
+Oficio N° 3229, de 27.11.2007.
+
+Subdirección Normativa
+
+Dpto. de Impuestos Directos.
