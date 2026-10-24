@@ -6,12 +6,12 @@
 - Año: 1992
 - Fecha: 1992-01-06
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4512_91.htm
-- Hash SHA-256: 697070e374176be7f38da26ec8fd65ad91fc3c22e15eb0866ab669d1535f265b
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/65_92.htm
+- Hash SHA-256: a72c8b5ff49298914c4724a740562e7a6a4508c6455833419ea70ae09b6174c6
 
 ## Resumen
 
-(Oficio N° 065, de 06.01.1992). Renta -Actual Ley sobre Impuesto a la- Art 17, 31 y 42 N°2 Tratamiento de prima de seguro colectivo y reembolso de gastos médicos, pagados por una empresa a favor de sus trabajadores. (Oficio N° 4512, de 06.12.1991)
+(Oficio. N° 3589 de 03.09.1992) Ley de Impuesto a la Renta. Artículos 41 Alcance de la expresión “o en las que tengan intereses” que utiliza el inciso penúltimo del artículo 41 de la Ley de la Renta. (Oficio N° 065, de 06.01.1992).
 
 ## Referencias detectadas
 
@@ -19,23 +19,19 @@
 
 ## Texto extraído
 
-OFICIO 53/1994
+OFICIO 65/1992
 
-Home | Años
-Anteriores
+Home
+| Años Anteriores
+Ley de
+Impuesto a la Renta. Artículos 41. Ordinario N° 065, de 06 de
+Enero de 1992.-
 
-LEY
-SOBRE IMPUESTO A LA RENTA – ARTS. 17°,
-31° y 42° N° 2.
-Ord. N°
-04512
-de 06.12.1991
+Alcance de
+la expresión “o en las que tengan intereses” que utiliza el inciso
+penúltimo del artículo 41 de la Ley de la Renta.
 
-Tratamiento de
-prima de seguro colectivo y reembolso de gastos médicos, pagados por una
-empresa a favor de sus trabajadores.
-
-OFICIO NO. 4512, DE 12.1991
+OFICIO NO. 65, DE 06.01.1992
 
 SUBDIRECCION NORMATIVA
 

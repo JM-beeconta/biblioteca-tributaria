@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Artículo 13°, N°4. Situación tributaria de las sociedades cuyo objeto es la formación técnica, capacitación ocupacional y/o perfeccionamiento profesional del trabajador. (.
+Ley de Impuesto a las Ventas y Servicios. Artículo 13°, N°4. Situación tributaria de las sociedades cuyo objeto es la formación técnica, capacitación ocupacional y/o perfeccionamiento profesional del trabajador. (
 
 ## Referencias detectadas
 
