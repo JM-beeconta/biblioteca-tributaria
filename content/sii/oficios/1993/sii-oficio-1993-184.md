@@ -4,7 +4,7 @@
 - Tipo: oficio
 - Número: 184
 - Año: 1993
-- Fecha: 1993-02-15
+- Fecha: 1993-01-15
 - Categoría: Renta
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/184_93.htm
 - Hash SHA-256: d73a63027e4de1707af6b60c44ac43355a6379a2dd41df3d9f8e92d3e0e5da56

@@ -6,12 +6,12 @@
 - Año: 1993
 - Fecha: 1993-05-17
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/1294_93.htm
-- Hash SHA-256: a780c6d019b2a457c22183b105ddcf7e932bea7f2eac685466f0ee127d4826b1
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/1741_93.htm
+- Hash SHA-256: 50d781ab2cacaa890a8f850b67e848f8dce0dad3000b6ed6db5927a07311ec4c
 
 ## Resumen
 
-il que desarrolla programa de atención para enfermos que indica. (Oficio N° 01741, de 17 de Mayo de 1993) Ley de Impuesto a la Renta. Artículo 31° N° 3. Tratamiento de la devolución del Impuesto de Primera Categoría por utilidades absorbidas y orden de imputación de las pérdidas tributarias al FUT. (Oficio N° 01671, de 12 de Mayo de 1993). Ley sobre Impuesto a la Renta – Arts. 31 N° 5 Sobre solicitud de rebaja de la vida útil de maquinaria forestal en condiciones de trabajo intensiva. (Oficio N° 1294 de 08.04.1993…
+(Oficio N° 4806, de 16 Diciembre 1993) Ley de Impuesto a la Renta. Artículos 2° Situación tributaria de sociedad civil que desarrolla programa de atención para enfermos que indica. (Oficio N° 01741, de 17 de Mayo de 1993)
 
 ## Referencias detectadas
 
@@ -19,22 +19,21 @@ il que desarrolla programa de atención para enfermos que indica. (Oficio N° 01
 
 ## Texto extraído
 
-OFICIO 53/1994
+Ley de Impuesto a la Renta. Artículos 2°.Ordinario N° 01741, de
+17 de Mayo de 1993.-
 
-Home | Años
-Anteriores
+Home
+| Años Anteriores
+Ley de
+Impuesto a la Renta. Artículos 2°.
+Ordinario N° 01741, de 17 de Mayo de 1993.-
 
-LEY SOBRE IMPUESTO A LA
-RENTA – ARTS. 31 N° 5 (Ord. N° 1294 de 08.04.1993)
+Situación
+tributaria de sociedad civil que
+desarrolla programa de atención para enfermos que indica.
 
-Sobre
-solicitud de rebaja de la vida útil de maquinaria forestal en condiciones
-de trabajo intensiva
-JAVIER ETCHEBERRY CELHAY
-
-DIRECTOR
-
-OFICIO N°. 1294, DE 08.04.1993
+OFICIO N°. 1741, DE
+17.05.1993
 
 SUBDIRECCION NORMATIVA
 

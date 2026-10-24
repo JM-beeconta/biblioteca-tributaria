@@ -1,0 +1,152 @@
+# Circular N° 31 de 1996
+
+- Fuente: SII
+- Tipo: circular
+- Número: 31
+- Año: 1996
+- Fecha: 1996-06-20
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/documentos/circulares/1996/31.htm
+- Hash SHA-256: 46dcaa7cf1085c18a259ae33954da973a9355f07447bd9f08cfce067c0650c2b
+
+## Resumen
+
+del 20 de Junio de 1996 Tabla de Calculo de Reajuste, interés y multas. Julio 1996.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Circular N°31 del 20 de Junio de 1996
+
+Home > Circulares 1996
+
+CIRCULAR Nº 31, DEL 20 DE JUNIO DE 1996
+
+MATERIA:TABLA DE CALCULO DE REAJUSTE, INTERES Y MULTAS. JULIO 1996.
+
+La presente Circular tiene por objeto poner en conocimiento de las Unidades
+
+del Servicio, la Tabla de Cálculo para la aplicación del reajuste, interés
+
+y multas de los artículos 53 y 97 Nos 2 y 11 del Código Tributario, a
+
+impuestos adeudados a liquidarse en el mes de Julio de 1996.
+
+Reajuste Interés Multa Multa
+Mes de Art. 53 Art. 53 Art.97 Art.97 IPC
+Vencto. Inc. 1 Inc. 3 No. 2 No. 11 (INE) UTM
+
+1991
+
+ENE. 83,9 100,5 30 30 148,9300 12.385
+FEB. 82,9 99,0 30 30 149,1200 12.447
+MAR. 82,1 97,5 30 30 150,8500 12.497
+ABR. 81,9 96,0 30 30 153,6300 12.509
+MAY. 79,8 94,5 30 30 157,4600 12.659
+JUN. 76,6 93,0 30 30 160,3600 12.887
+JUL. 72,3 91,5 30 30 163,2600 13.209
+AGO. 69,1 90,0 30 30 165,2400 13.447
+SEP. 66,1 88,5 30 30 167,4000 13.689
+OCT. 64,1 87,0 30 30 172,2400 13.853
+NOV. 62,0 85,5 30 30 173,8300 14.033
+DIC. 57,5 84,0 30 30 175,9700 14.440
+
+1992
+
+ENE. 56,0 82,5 30 30 177,9100 14.570
+FEB. 54,1 81,0 30 30 176,7900 14.745
+MAR. 52,5 79,5 30 30 178,0300 14.907
+ABR. 53,4 78,0 30 30 180,3700 14.818
+MAY. 52,4 76,5 30 30 182,3000 14.922
+JUN. 50,4 75,0 30 30 183,5500 15.116
+JUL. 48,8 73,5 30 30 185,6000 15.282
+AGO. 47,8 72,0 30 30 188,2500 15.389
+SEP. 46,1 70,5 30 30 192,6300 15.558
+OCT. 44,1 69,0 30 30 195,3800 15.776
+NOV. 40,8 67,5 30 30 198,1700 16.139
+DIC. 38,8 66,0 30 30 198,3100 16.365
+
+Reajuste Interés Multa Multa
+Mes de Art. 53 Art. 53 Art.97 Art.97 IPC
+Vencto. Inc. 1 Inc. 3 No. 2 No. 11 (INE) UTM
+
+1993
+
+ENE. 36,9 64,5 30 30 198,6400 16.594
+FEB. 36,8 63,0 30 30 199,4400 16.611
+MAR. 36,5 61,5 30 30 200,5700 16.644
+ABR. 36,0 60,0 30 30 203,3800 16.711
+MAY. 35,2 58,5 30 30 206,3500 16.811
+JUN. 33,4 57,0 30 30 207,3700 17.046
+JUL. 31,4 55,5 30 30 209,4100 17.302
+AGO. 30,8 54,0 30 30 213,8800 17.389
+SEP. 29,5 52,5 30 30 216,3700 17.563
+OCT. 26,8 51,0 30 30 221,9400 17.932
+NOV. 25,4 49,5 30 30 222,1300 18.147
+DIC. 22,2 48,0 30 30 222,5700 18.619
+
+1994
+
+ENE. 22,1 46,5 30 30 224,8900 18.638
+FEB. 21,9 45,0 30 30 225,5900 18.675
+MAR. 20,6 43,5 30 30 228,1300 18.862
+ABR. 20,2 42,0 30 30 229,2500 18.919
+MAY. 18,9 40,5 30 30 232,5200 19.127
+JUN. 18,3 39,0 30 30 233,7600 19.223
+JUL. 16,7 37,5 30 30 235,1600 19.492
+AGO. 16,0 36,0 30 30 237,7700 19.589
+SEP. 15,3 34,5 30 30 238,9400 19.707
+OCT. 14,1 33,0 30 30 240,3500 19.924
+NOV. 13,5 31,5 30 30 241,8000 20.024
+DIC. 12,9 30,0 30 30 242,4800 20.144
+
+1995
+
+ENE. 12,2 28,5 30 30 244,0200 20.265
+FEB. 11,9 27,0 30 30 245,2500 20.326
+MAR. 11,2 25,5 30 30 246,7500 20.448
+ABR. 10,6 24,0 30 30 248,2500 20.550
+MAY. 9,9 22,5 30 30 249,7700 20.673
+JUN. 9,3 21,0 28 30 251,6100 20.797
+JUL. 8,6 19,5 26 30 253,7100 20.922
+AGO. 7,8 18,0 24 30 257,8800 21.068
+SEP. 6,9 16,5 22 30 259,4100 21.237
+OCT. 5,2 15,0 20 28 261,4200 21.577
+NOV. 4,6 13,5 18 26 261,6100 21.706
+DIC. 3,8 12,0 16 24 262,3600 21.880
+
+Reajuste Interés Multa Multa
+Mes de Art. 53 Art. 53 Art.97 Art.97 IPC
+Vencto. Inc. 1 Inc. 3 No. 2 No. 11 (INE) UTM
+
+1996
+
+ENE. 3,7 10,5 14 22 263,0800 21.902
+FEB. 3,4 9,0 12 20 264,4400 21.968
+MAR. 3,1 7,5 10 18 266,3600 22.034
+ABR. 2,6 6,0 10 16 269,0600 22.144
+MAY. 1,8 4,5 10 14 271,2400 22.299
+JUN. 0,8 3,0 10 12 22.522
+JUL. 0,0 1,5 10 10 22.702
+
+NOTAS:
+
+1.- Reajuste Art. 72 Ley de Impuesto a la Renta
+
+AÑO : 1992 1993 1994 1995 1996
+% : 2,4 1,2 2,7 2,0 1,8
+
+2.- Columnas Interés y Multas. Para impuestos con vencimiento último día
+
+del mes, aplicar porcentaje del mes siguiente.
+
+3.- Código de Impuestos. Deben utilizarse los códigos contenidos en la
+
+Circular Interna No. 20, de 1993.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta-Ley sobre Impuesto a la � Decretos N� 266 y N� 584, de 1970, N� 631 de 1954 y N� 794 de 1978. Solicita informaci�n sobre forma correcta de declarar ingresos por consultor�as a organismos internacionales. (Ord. N� 1470 de 12.04.1994)
+Renta-Ley sobre Impuesto a la – Decretos N° 266 y N° 584, de 1970, N° 631 de 1954 y N° 794 de 1978. Solicita información sobre forma correcta de declarar ingresos por consultorías a organismos internacionales. (Ord. N° 1470 de 12.04.1994)
 
 ## Referencias detectadas
 

@@ -4,7 +4,7 @@
 - Tipo: oficio
 - Número: 3323
 - Año: 1993
-- Fecha: 1993-09-03
+- Fecha: 1993-10-03
 - Categoría: IVA
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/ventas/3323_93.pdf
 - Hash SHA-256: d4389d7a6932d2c21ed33da2fbd9f9cde0c945c01ca4e5e028c2ea838ffa7742

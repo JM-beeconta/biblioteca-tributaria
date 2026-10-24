@@ -1,0 +1,127 @@
+# Circular N° 57 de 1996
+
+- Fuente: SII
+- Tipo: circular
+- Número: 57
+- Año: 1996
+- Fecha: 1996-10-09
+- Categoría: Circulares
+- Fuente oficial: https://www.sii.cl/documentos/circulares/1996/57.htm
+- Hash SHA-256: 6b4f89a747a82a7ad30a4ddb382b3b3aacf76f26fc0702648a4baa38fb62ed36
+
+## Resumen
+
+del 09 de Octubre de 1996 Tabla de Calculo de Reajuste, interés y multas. Noviembre 1996
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+Circular N°57 del 09 de Octubre de 1996
+
+Home > Circulares 1996
+
+CIRCULAR Nº 57, DEL 09 DE OCTUBRE DE 1996
+
+MATERIA: TABLA DE CALCULO DE REAJUSTE, INTERES Y MULTAS. NOVIEMBRE 1996
+
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del
+Servicio, la Tabla de Cálculo para la aplicación del reajuste, interés y multas de los
+artículos 53 y 97 No.. 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse
+en el mes de Noviembre de 1996.
+
+Reajuste Interés Multa Multa
+Mes de Art. 53 Art. 53 Art. 97 Art. 97 IPC
+Vencto. Inc. 1 Inc. 3 No. 2 No. 11 (INE) UTM
+
+1992
+
+ENE. 58,6 88,5 30 30 177,9100 14.570
+FEB. 56,7 87,0 30 30 176,7900 14.745
+MAR. 55,0 85,5 30 30 178,0300 14.907
+ABR. 55,9 84,0 30 30 180,3700 14.818
+MAY. 54,9 82,5 30 30 182,3000 14.922
+JUN. 52,8 81,0 30 30 183,5500 15.116
+JUL. 51,2 79,5 30 30 185,6000 15.282
+AGO. 50,2 78,0 30 30 188,2500 15.389
+SEP. 48,5 76,5 30 30 192,6300 15.558
+OCT. 46,4 75,0 30 30 195,3800 15.776
+NOV. 43,1 73,5 30 30 198,1700 16.139
+DIC. 41,1 72,0 30 30 198,3100 16.365
+
+1993
+
+ENE. 39,1 70,5 30 30 198,6400 16.594
+FEB. 39,0 69,0 30 30 199,4400 16.611
+MAR. 38,8 67,5 30 30 200,5700 16.644
+ABR. 38,2 66,0 30 30 203,3800 16.711
+MAY. 37,4 64,5 30 30 206,3500 16.811
+JUN. 35,5 63,0 30 30 207,3700 17.046
+JUL. 33,6 61,5 30 30 209,4100 17.302
+AGO. 32,9 60,0 30 30 213,8800 17.389
+SEP. 31,6 58,5 30 30 216,3700 17.563
+OCT. 28,9 57,0 30 30 221,9400 17.932
+NOV. 27,4 55,5 30 30 222,1300 18.147
+DIC. 24,2 54,0 30 30 222,5700 18.619
+
+1994
+
+ENE. 24,1 52,5 30 30 224,8900 18.638
+FEB. 23,9 51,0 30 30 225,5900 18.675
+MAR. 22,6 49,5 30 30 228,1300 18.862
+ABR. 22,2 48,0 30 30 229,2500 18.919
+MAY. 20,8 46,5 30 30 232,5200 19.127
+JUN. 20,3 45,0 30 30 233,7600 19.223
+JUL. 18,6 43,5 30 30 235,1600 19.492
+AGO. 17,9 42,0 30 30 237,7700 19.589
+SEP. 17,2 40,5 30 30 238,9400 19.707
+OCT. 15,9 39,0 30 30 240,3500 19.924
+NOV. 15,4 37,5 30 30 241,8000 20.024
+DIC. 14,7 36,0 30 30 242,4800 20.144
+
+1995
+
+ENE. 14,0 34,5 30 30 244,0200 20.265
+FEB. 13,7 33,0 30 30 245,2500 20.326
+MAR. 13,0 31,5 30 30 246,7500 20.448
+ABR. 12,4 30,0 30 30 248,2500 20.550
+MAY. 11,7 28,5 30 30 249,7700 20.673
+JUN. 11,0 27,0 30 30 251,6100 20.797
+JUL. 10,4 25,5 30 30 253,7100 20.922
+AGO. 9,6 24,0 30 30 257,8800 21.068
+SEP. 8,7 22,5 30 30 259,4100 21.237
+OCT. 6,9 21,0 28 30 261,4200 21.577
+NOV. 6,3 19,5 26 30 261,6100 21.706
+DIC. 5,5 18,0 24 30 262,3600 21.880
+
+1996
+
+ENE. 5,4 16,5 22 30 263,0800 21.902
+FEB. 5,1 15,0 20 28 264,4400 21.968
+MAR. 4,8 13,5 18 26 266,3600 22.034
+ABR. 4,3 12,0 16 24 269,0600 22.144
+MAY. 3,5 10,5 14 22 271,2400 22.299
+JUN. 2,5 9,0 12 20 272,3800 22.522
+JUL. 1,6 7,5 10 18 273,1700 22.702
+AGO. 1,2 6,0 10 16 274,3400 22.793
+SEP. 0,9 4,5 10 14 275,6800 22.861
+OCT. 0,5 3,0 10 12 22.952
+NOV. 0,0 1,5 10 10 23.067
+
+NOTAS:
+
+1.- Reajuste Art. 72 Ley de Impuesto a la Renta
+
+AÑO : 1992 1993 1994 1995 1996
+% : 2,4 1,2 2,7 2,0 1,8
+2.- Columnas Interés y Multas. Para impuestos con vencimiento último día del mes,
+aplicar porcentaje del mes siguiente.
+
+3.- Código de Impuestos. Deben utilizarse los códigos contenidos en la Circular Interna
+No. 20, de 1993.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Oficio N� 268, de 17.01.94). Ley de Impuesto a la Renta. Art�culo 31. Situaci�n tributaria del valor invertido en marcas comerciales que presenten situaci�n que indica. (Oficio N�144 de 12 de enero de 1994)
+Oficio N° 268, de 17.01.94). Ley de Impuesto a la Renta. Artículo 31. Situación tributaria del valor invertido en marcas comerciales que presenten situación que indica. (
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a la Renta. Art�culo 59� . Tratamiento tributario aplicable a los derivados financieros que indica y normativa relacionada. (Oficio N� 2292 de 19 de Agosto de 1996).
+Ley de Impuesto a la Renta. Artículo 59° . Tratamiento tributario aplicable a los derivados financieros que indica y normativa relacionada. (.
 
 ## Referencias detectadas
 
