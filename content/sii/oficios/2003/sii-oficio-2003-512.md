@@ -1,0 +1,43 @@
+# Oficio N° 512 de 2003
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 512
+- Año: 2003
+- Fecha: 2003-06-12
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja512.htm
+- Hash SHA-256: ff7e7837d343128ea9524fc1e0d07010c1c375be75c26d03a0310f13e2489f65
+
+## Resumen
+
+19.06.2003) Ley sobre Impuesto a la Renta – Art. 41 inciso 3° y sgtes. LIR y Art. 13 N° 8 Código Tributario Word Costo tributario en venta de derechos sociales. (Ord. N° 2931, de 12.06.2003)
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"CT","article":"8"}
+
+## Texto extraído
+
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 41 INCISO 3° Y SGTES. LIR Y ART. 13 N° 8 CÓDIGO TRIBUTARIO (ORD. N° 2931, DE 12.06.2003)
+
+Home | Ley Renta - 2003
+LEY SOBRE IMPUESTO A LA RENTA – ART. 41 INCISO 3° Y SGTES. LIR Y ART. 13 N° 8 CÓDIGO TRIBUTARIO (ORD. N° 2931, DE 12.06.2003)
+
+COSTO TRIBUTARIO EN VENTA DE DERECHOS SOCIALES.
+
+1.- Por presentación indicada en el antecedente, expresa que está asesorando a una sociedad anónima cuyos accionistas en un 70% son personas naturales no sujetos a contabilidad. Agrega, que con el fin de establecer un nuevo tipo de administración se ha resuelto transformar esta sociedad anónima en una sociedad de responsabilidad limitada .
+En relación con lo antes expuesto, desea confirmar que en el caso que alguno de los socios personas naturales antes indicados, pretenda vender parte de sus derechos en la sociedad de responsabilidad limitada que surgirá de la transformación señalada, el costo de los derechos sociales se calculará en virtud de lo dispuesto en la parte pertinente del artículo 41° de la Ley de la Renta que transcribe en su escrito.
+
+2.- Sobre el particular, cabe señalar en primer término, que conforme a lo dispuesto por el N° 13 del artículo 8° del Código Tributario, se entiende por transformación de sociedades “el cambio de especie o tipo social efectuado por reforma del contrato social o de los estatutos, subsistiendo la personalidad jurídica”.
+3.- Por lo tanto, al llevarse a cabo la figura jurídica antes indicada, en la especie existe el mismo contribuyente, con la particularidad que tendrá una razón social diferente (sociedad de responsabilidad limitada) y la participación de los propietarios en el capital de dicha sociedad, quedará expresada en derechos sociales en lugar de acciones, y en el evento que uno de los socios pretenda enajenar sus derechos sociales que tenga en la sociedad de personas que nació de la transformación, tal cesión se rige por las normas de los incisos tercero y siguientes del artículo 41 de la Ley de la Renta, cuyos efectos tributarios se informaron a la recurrente mediante Oficio N° 3725, de fecha 11.09.2001, ante consulta anterior formulada a este Servicio sobre dicha materia.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+OFICIO N° 2931, DE 12.06.2003
+
+DEPTO. IMPTOS. DIRECTOS
+
+SUBDIRECCION NORMATIVA

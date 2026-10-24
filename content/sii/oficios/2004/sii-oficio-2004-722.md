@@ -1,0 +1,52 @@
+# Oficio N° 722 de 2004
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 722
+- Año: 2004
+- Fecha: 2004-05-06
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja722.htm
+- Hash SHA-256: c13abeb9baecb8312065ca826dda800579ebc8705f6dcb3e2678569240ca5a9e
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 5°, Art. 8° – Ley sobre Impuesto a la Renta, Art. 20°, N°3 – C.P.E, Art. 5°, 32°, N°17, Art. 50°, N°1. (Ord. Nº 2.108, de 06.05.2004) Word Impuesto al Valor Agregado aplicable a los Servicios de Roaming Internacional, prestados por una Empresa establecida en Chile a Clientes Europeos.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 5°, ART. 8° – LEY SOBRE IMPUESTO A LA RENTA, ART. 20°, N°3 – C.P.E, ART. 5°, 32°, N°17, ART. 50°, N°1. (ORD. Nº 2.108, DE 06.05.2004)
+
+Home | Ventas y Servicios - 2004
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 5°, ART. 8° – LEY SOBRE IMPUESTO A LA RENTA, ART. 20°, N°3 – C.P.E, ART. 5°, 32°, N°17, ART. 50°, N°1. (ORD. Nº 2.108, DE 06.05.2004)
+
+IMPUESTO AL VALOR AGREGADO APLICABLE A LOS SERVICIOS DE ROAMING INTERNACIONAL, PRESTADOS POR UNA EMPRESA ESTABLECIDA EN CHILE A CLIENTES EUROPEOS – CONCEPTO DE SERVICIO – TERRITORIALIDAD DEL IMPUESTO A LAS VENTAS Y SERVICIOS – LOS SERVICIOS DE TELECOMUNICACIONES, SEAN LOCALES O DE LARGA DISTANCIA, INCLUIDOS LOS DENOMINADOS “ROAMING”, CONSTITUYEN EN CHILE PRESTACIONES AFECTAS AL IMPUESTO AL VALOR AGREGADO – IMPOSIBILIDAD DE RECUPERAR POR PARTE DE LAS EMPRESAS EUROPEAS AL IVA RECARGADO EN LOS SERVICIOS DE ROAMING.
+
+1.- Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, por medio de la cual consulta acerca de la aplicación del Impuesto al Valor Agregado a servicios prestados por empresas proveedoras de servicios de telecomunicaciones internacionales.
+
+Señala que en su calidad de representantes de empresas proveedoras de servicios de telecomunicaciones internacionales solicita se indique si los cargos por servicios de Roaming internacional prestados por empresas chilenas a clientes ubicados principalmente dentro de la Unión Europea se encuentran afectos a IVA. Por otra parte, solicita si es posible que los clientes europeos usuarios de los servicios de roaming prestados por la empresa chilena soliciten la devolución del Impuesto al Valor Agregado recargado por los servicios prestados ya que dentro de la Unión Europea esta clase de servicios no se encuentra gravado con impuestos indirectos, por lo que a su juicio sus clientes tendrían derecho a recuperar el impuesto soportado en Chile sobre la base del principio de reciprocidad.
+Por último, solicita que en el evento que los servicios descritos no se encontraren en Chile gravados con IVA se indique el procedimiento al cual recurrir para obtener la devolución del impuesto que ha sido incorrectamente facturado hasta la fecha.
+2.- El artículo 8° del D.L. N° 825, de 1974, sobre el Impuesto a las Ventas y Servicios, grava con IVA las ventas y servicios. Por su parte el artículo 2° N° 2 del citado cuerpo legal define servicio como “La acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N°s 3 y 4 del artículo 20 de la Ley sobre Impuesto a la Renta”.
+A su vez, el artículo 20° N° 3 de la Ley sobre Impuesto a la Renta comprende dentro de las actividades mencionadas a las telecomunicaciones.
+Por otro lado, el artículo 5° del D.L. N° 825, de 1974, dispone que “El impuesto establecido en esta Ley gravará los servicios prestados o utilizados en el territorio nacional, sea que la remuneración correspondiente se pague en Chile o en el extranjero.
+Se entenderá que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independientemente del lugar donde éste se utilice”.
+3.- Sobre el particular, en primer lugar informo a usted que si bien Chile suscribió las actas finales de la Conferencia Administrativa Mundial de Telegrafía y Telefonía realizada en la ciudad de Melbourne, Australia, en 1988, en las cuales se contiene el Reglamento de Telecomunicaciones Internacionales, éstas no han sido ratificadas ni aprobadas por el Congreso Nacional de Chile como lo exigen los artículos 5°, 32° N° 17 y 50° N° 1 de nuestra Constitución Política, requisito esencial para que ellas tengan fuerza de ley dentro del territorio chileno.
+
+4.- Ahora bien, con respecto a la tributación que afecta a los servicios de roaming prestados por una empresa chilena a clientes europeos, cabe señalar que de conformidad con las normas del Decreto Ley N° 825, de 1974, citadas en el número 2 de este Oficio, los servicios de telecomunicaciones, sean éstos locales o de larga distancia, incluyendo aquellos denominados roaming, constituyen en Chile prestaciones afectas al Impuesto al Valor Agregado.
+De este modo, toda empresa que preste esta clase de servicios dentro del territorio nacional deberá facturar dichos servicios recargando a sus clientes, tanto nacionales como extranjeros, el Impuesto al Valor Agregado, cuya tasa es del 19% sobre el valor de las operaciones respectivas.
+5.- En cuanto a la posibilidad de que las empresas europeas puedan recuperar el Impuesto al Valor Agregado recargado en los servicios de roaming prestados por la empresa chilena, cabe señalar que de acuerdo con la mecánica que rige al IVA ello no resulta posible, ya que éste es un tributo que se aplica sobre base financiera bajo la modalidad de impuesto contra impuesto, lo cual significa que para determinar el impuesto se deben considerar el total de ventas del período (un mes calendario) y el total de compras del período, otorgando al contribuyente un “crédito fiscal” por el impuesto que le ha sido recargado en las compras del período, el cual se imputa contra el impuesto generado por las operaciones gravadas –ventas o servicios- que el mismo realice (débito fiscal), lo cual supone necesariamente que quien puede utilizar el crédito fiscal debe ser contribuyente en Chile del Impuesto al Valor Agregado, circunstancia que no acontece respecto de las empresas europeas clientes de la empresa de roaming chilena.
+De este modo, al no existir ningún otro mecanismo contemplado en la ley para que empresas extranjeras puedan solicitar la devolución del Impuesto al Valor Agregado soportado en los servicios recibidos en Chile, estas sumas desde la perspectiva de la legislación chilena deben ser asumidas como un mayor costo de la respectiva operación.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+Oficio N° 2.108, de 06.05.2004.
+
+Subdirección Normativa
+
+Dpto. de Impuestos Indirectos

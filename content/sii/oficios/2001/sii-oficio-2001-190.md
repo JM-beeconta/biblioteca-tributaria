@@ -4,146 +4,49 @@
 - Tipo: oficio
 - Número: 190
 - Año: 2001
-- Fecha: 2001-09-27
-- Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja3925.doc
-- Hash SHA-256: f670b32f2553b1e8a6b38361e63ecffbff09cdb3c7b5a417d9fe96b54dde1608
+- Fecha: 2001-04-20
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja190.htm
+- Hash SHA-256: 18d7c349be8761f12c8487e02695717ed74328f12441a5362118348f7644c54a
 
 ## Resumen
 
-Word Determinaci�n del costo o valor de adquisici�n de derechos sociales de una comunicad hereditaria para los efectos de su enajenaci�n.
+Ventas y Servicios – Nuevo Texto – Ley Impuesto a las – Art. 64° Inciso 4° - Circular N° 26°, de 1980 – Circular N° 44, de 1988. Word Aplicación del Artículo 64° Inc. 4° del D. L. 825, Sobre Pago Diferido de IVA en el Caso que el Importador Sea Un Empresario del Transporte de Pasajeros. (Of. N° 1718, de 20.04.2001 – I. Indirectos)
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":190,"year":1997}
+- {"type":"circular","number":44,"year":1988}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA  – ART. 41°, N°9.
-                        (ORD. N° 3925, DE 27.09.2001)
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 64° INCISO 4° - CIRCULAR N° 26°, DE 1980 – CIRCULAR N° 44, DE 1988.
 
-Determinación del costo o valor de adquisición de derechos sociales  de  una
-comunicad hereditaria para los efectos de su enajenación.
+Home | Ventas y Servicios - 2001
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 64° INCISO 4° - CIRCULAR N° 26°, DE 1980 – CIRCULAR N° 44, DE 1988.
 
-   1.  Por  presentación  indicada  en  el  antecedente,  señala  que   está
-      asesorando a una sucesión en los trámites de partición de  la herencia
-      dejada por su padre. Esta sucesión ya  terminó  con  los  trámites  de
-      posesión efectiva, pagando los respectivos impuestos de herencia, pero
-      aún no efectúa la partición de los bienes dejados de la herencia.  Sin
-      embargo, ha surgido un interesado en comprar parte de los derechos  en
-      una sociedad de responsabilidad limitada que tributa por  contabilidad
-      completa y que se encuentra dentro de los activos de la sucesión.
+PAGO DIFERIDO DE IVA – CASO EN QUE IMPORTADOR SEA EMPRESARIO DEL TRANSPORTE DE PASAJEROS – NORMA LEGAL APLICABLE – CIRCULARES N° 26, DE 1980 Y N° 44°, DE 1988 – SE PUEDEN ACOGER AL PAGO DIFERIDO DEL IMPUESTO TANTO AQUELLAS PERSONAS NO AFECTAS A IVA – COMO AQUELLAS EXENTAS DE DICHO GRAVAMEN – SIEMPRE QUE POR LAS CARACTERÍSTICAS DE SU GIRO O NEGOCIO ESTÉN IMPEDIDOS DE FORMA ABSOLUTA DE EFECTUAR OPERACIONES GRAVADAS CON IVA – PAGO DEL IVA QUE SE DIFIERA DEBE CORRESPONDER A LA IMPORTACIÓN DE BIENES DIRECTAMENTE RELACIONADOS CON EL GIRO NO AFECTO O EXENTO DEL TRIBUTO – RESPECTO A PRIMERA CONSULTA CONTRIBUYENTES CONSULTANTES NO PUEDEN ACOGERSE AL BENEFICIO DEL PAGO DIFERIDO DE IVA – RESPECTO A SEGUNDA INTERROGANTE IMPORTACIÓN REUNIRÍA LAS CONDICIONES REQUERIDAS POR LA LEY PARA QUE ESTE SERVICIO AUTORIZARA A PAGAR EL IVA EN FORMA DIFERIDA.
 
-      En relación con lo anterior, solicita  se  confirme  que  la  sucesión
-      deberá considerar como costo  de  estos  derechos  sociales  el  valor
-      determinado de acuerdo a  las normas de la ley de herencias y respecto
-      al cual se calculó dicho impuesto,  criterio  que  ha  sostenido  este
-      Servicio en el Oficio N° 190, de 1997, que acompaña a su presentación.
+1.- Se ha recibido en esta Dirección Nacional su oficio indicado en el antecedente, mediante el cual traslada una consulta formulada por don XX y por la Federación Regional del Transportes de Pasajeros de Chile, en virtud de la cual plantean la posibilidad de acogerse al beneficio del pago diferido del IVA por la importación de chasis que serían carrozados por una empresa chilena. Señalan que son tres empresarios de la locomoción colectiva mayor de la ciudad de La Serena, que con el propósito de renovar su flota de máquinas negociaron la importación de tres taxi buses, para lo cual se adquiriría el chasis a Mercedez Benz Do Brasil, y la carrocería sería instalada por CC, también en Brasil.
+Exponen que producto de la quiebra de la empresa CC, los chasis no pudieron ser carrozados en Brasil, los cuales ya habían sido adquiridos a través del Banco del Desarrollo con carta de Crédito.
+Manifiestan que para resolver la situación producida llegaron a un acuerdo con la empresa nacional IRC, la cual carrozará en nuestro país los chasis internados.
+Ante esta situación consultan:
+1.- ¿El Servicio estaría facultado para diferir el pago del IVA si se prueba que los chasis serán carrozados efectivamente en el país, ya sea mediante declaraciones juradas suscritas tanto por los adquirentes como por los representantes de la empresa IRC u otra documentación relacionada?
+2.- Si lo anterior no fuere posible ¿será necesario solicitar de la Dirección de Aduanas el ingreso al país de los chasis por medio del sistema de régimen de admisión temporal, carrozarlos y hacer una exportación por el puerto seco de Santiago y reingresarlos al país carrozados y terminados y así poder solicitar el pago diferido del IVA?
 
-   2. Sobre el particular, cabe señalar en primer lugar, que en la Ley de la
-      Renta  existen  normas  legales  expresas  para  determinar  el  costo
-      tributario de los derechos sociales en sociedades de personas para los
-      efectos de su enajenación.
+2.- El artículo 64 inciso 4° del D.L. N° 825, de 1974 dispone : "El impuesto a las importaciones gravadas en esta Ley, cuando proceda, deberá pagarse antes de retirar las especies del recinto aduanero, salvo que se trate de importaciones efectuadas por personas que respecto de su giro no sean contribuyentes del impuesto de esta Ley, en cuyo caso podrán optar pagar el impuesto en la oportunidad antes señalada o en las fechas y cuotas que fije la Dirección Nacional de Impuestos Internos, pudiendo ésta exigir las garantías personales o reales que estime conveniente para el debido resguardo de los intereses fiscales. En esta modalidad, el monto a pagar por cada cuota se calculará sobre la base que haya determinado y calculado dicho Servicio, considerando los recargos y tipos de cambio vigentes a la fecha que se realice el pago. Las referidas cuotas devengarán el mismo interés que se fije para el pago diferido de los derechos aduaneros de los bienes de capital que se importen."
+3.- Sobre el particular, en la Circular N° 26, del 14 de abril de 1980, complementada por la Circular N° 44 del 05 de Agosto de 1988, se señala que la ley autoriza a postergar el pago del IVA a las personas que efectúen importaciones, sea que se trate de adquisiciones de bienes, con cobertura diferida o no, siempre que respecto de su giro no sean contribuyentes del Impuesto al Valor Agregado, es decir, que las operaciones que efectúen no estén afectas por el citado tributo y no puedan, por tanto, recuperar el IVA pagado en la Importación.
+De esta forma, esta Dirección Nacional estima que se pueden acoger al pago diferido del impuesto tanto aquellas personas no afectas a IVA, como aquéllas exentas de dicho gravamen, siempre que, y como requisito copulativo, por las características de su giro o negocio, estén impedidos de forma absoluta de efectuar operaciones gravadas con el impuesto señalado.
 
-      En efecto, cuando el propietario de los referidos  derechos  se  trata
-      de un contribuyente que no lleva contabilidad, el costo tributario  de
-      los citados bienes se determina de acuerdo a lo dispuesto en el inciso
-      tercero y cuarto del artículo 41 de la Ley de  la  Renta,  normas  que
-      establecen lo siguiente al respecto:
+Asimismo se ha entendido que el pago del IVA que se difiera debe corresponder a la importación de bienes directamente relacionados con el giro no afecto o exento del tributo.
+4.- En la especie, a juicio de esta Superioridad, los contribuyentes consultantes no pueden acogerse al beneficio del pago diferido de IVA, en virtud de la disposición señalada, puesto que no es posible considerar a un chasis como bien del giro del transporte de pasajeros, ya que como tal no puede ser utilizado en dicho transporte.
+5.- Con respecto a la segunda interrogante, en la medida que la alternativa planteada sea permitida por la normativa aduanera vigente y siempre que en definitiva se trate de la importación de un vehículo de transporte de pasajeros, dicha importación reuniría las condiciones requeridas por la ley para que este Servicio autorizara a pagar el IVA en forma diferida, en las cuotas y fechas que estime pertinentes de conformidad a lo dispuesto por el artículo 64 inciso 4° del D.L. N° 825.
 
-      “Tratándose de la enajenación de derechos de sociedades  de  personas,
-      para  los  efectos  de  determinar  la  renta  proveniente  de   dicha
-      operación, deberá deducirse del precio  de  enajenación  el  valor  de
-      libros  de  los  citados  derechos  según  el  último  balance   anual
-      practicado por la empresa, debidamente actualizado según la  variación
-      experimentada por el índice de precios al consumidor entre  el  último
-      día del mes anterior al del último balance y el  último  día  del  mes
-      anterior a aquél en que se produzca la enajenación.  El  citado  valor
-      actualizado deberá incrementarse  y/o  disminuirse  por  los  aportes,
-      retiros o disminuciones de capital ocurridos entre la fecha del último
-      balance y la fecha de enajenación, para  lo  cual  dichos  aumentos  o
-      disminuciones deberán reajustarse según  el  porcentaje  de  variación
-      experimentado por el índice de precios al consumidor entre  el  último
-      día del mes que antecede a aquél en que ocurrieron y el último día del
-      mes anterior al de la enajenación.
+JAVIER ETCHEBERRY CELHAY
 
-      En el caso de la enajenación de derechos  en  sociedades  de  personas
-      que hagan los socios  de  sociedades  de  personas  o  accionistas  de
-      sociedades anónimas cerradas, o  accionistas  de  sociedades  anónimas
-      abiertas dueños del 10% o más de las acciones, a la empresa o sociedad
-      respectiva o  en  las  que  tengan  intereses,  para  los  efectos  de
-      determinar la renta proveniente de dicha operación,  deberá  deducirse
-      del precio de la enajenación el  valor  de  aporte  o  adquisición  de
-      dichos derechos, incrementado o disminuido  según  el  caso,  por  los
-      aumentos o disminuciones de  capital  posteriores  efectuados  por  el
-      enajenante, salvo que los valores de aporte, adquisición o aumentos de
-      capital tengan su origen  en  rentas  que  no  hayan  pagado  total  o
-      parcialmente los impuestos  de  esta  ley.  Para  estos  efectos,  los
-      valores indicados deberán reajustarse de acuerdo a  la  variación  del
-      índice de precios al consumidor entre el último día del mes anterior a
-      la adquisición o aporte, aumento o disminución de capital, y el último
-      día del mes anterior a la enajenación. Lo  dispuesto  en  este  inciso
-      también se aplicará si  el  contribuyente  que  enajena  los  derechos
-      estuviera  obligado  a   determinar   su   renta   efectiva   mediante
-      contabilidad  completa,  calculándose  el  valor  actualizado  de  los
-      derechos en conformidad con el número 9 de este artículo.”
+DIRECTOR
 
-      En caso contrario, si el propietario de los  mencionados  derechos  se
-      trata de un contribuyente que lleva  contabilidad  completa  para  los
-      efectos de declarar sus rentas, el costo tributario de  los  referidos
-      derechos se determinará de acuerdo a lo establecido en  el  N°  9  del
-      artículo 41 de la Ley de la Renta, norma que establece lo siguiente:
+Oficio Nº 1718, del 20.04.2001
 
-      “Los aportes  a  sociedades  de  personas  se  reajustarán  según  el
-      porcentaje indicado en el inciso primero  del  Nº  1,  aplicándose  al
-      efecto el procedimiento señalado en el  Nº  2  de  este  artículo.  Lo
-      anterior es sin perjuicio de rectificar posteriormente dicho  reajuste
-      de acuerdo al que haya correspondido  en  la  respectiva  sociedad  de
-      personas. Las diferencias que se produzcan de  esta  rectificación  se
-      contabilizarán, según corresponda, con  cargo  o  abono  a  la  cuenta
-      "Revalorización del Capital Propio".
+Subdirección Normativa
 
-      Para estos efectos se  considerarán  aportes  de  capital  todos  los
-      haberes entregados por los socios, a cualquier título, a  la  sociedad
-      de personas respectiva. “
-
-   3. Ahora bien, en el caso específico  de  la  consulta  planteada,  y  de
-      acuerdo  a  lo  que  disponen   las   normas   legales   anteriormente
-      transcritas, lo que  debe  distinguirse  en  primer  lugar  es  si  el
-      heredero que enajena los derechos, dicha cesión se la  efectúa  a  una
-      empresa relacionada o no, en  los  términos  previstos  en  el  inciso
-      cuarto del artículo 41 de la Ley de la Renta.
-
-      En el evento que el  heredero  enajene  los  citados  derechos  a  una
-      empresa o sociedad con la cual no  se  encuentre  relacionado  en  los
-      términos indicados  por  la  disposición  legal  precitada,  el  costo
-      tributario de los referidos derechos sociales deberá  determinarse  de
-      acuerdo a lo dispuesto por el inciso tercero del artículo 41 de la ley
-      del ramo, transcrito en el número precedente.
-
-      En caso que el heredero de los mencionados derechos  sociales  se  los
-      cediera a una empresa o sociedad con la cual se encuentre  relacionado
-      en los términos establecidos por el inciso cuarto del artículo  41  de
-      la ley en comento, al referirse esta norma al concepto de  “aporte”  y
-      el enajenante en la especie no haber efectuado ningún aporte,  ya  que
-      los citados derechos los adquirió por sucesión por causa de muerte, en
-      el caso en consulta tiene aplicación el criterio expuesto en el Oficio
-      N° 190, de 1997 a que hace referencia la  recurrente  en  su  escrito,
-      debiéndose considerar como costo tributario de los derechos sociales a
-      enajenar en la situación descrita, el valor sobre el cual se  pagó  el
-      impuesto de herencias y donaciones.
-
-
-
-
-                                                         JAVIER   ETCHEBERRY
-      CELHAY
-
-      DIRECTOR
-
-
-
-
-                       Oficio N° 3.925, de 27.09.2001
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
+Depto. Impuestos Indirectos

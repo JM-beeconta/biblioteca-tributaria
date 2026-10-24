@@ -2,7 +2,7 @@
   "status": "running",
   "campaign": "recarga-2026-10-23",
   "requested_at": "2026-10-24T00:14:39.435Z",
-  "updated_at": "2026-10-24T01:26:03.747Z",
+  "updated_at": "2026-10-24T01:34:56.351Z",
   "completed_at": null,
   "total_ranges": 14,
   "completed_ranges": [
@@ -11,10 +11,11 @@
     "Gapfill-2017-2020",
     "Gapfill-2013-2016",
     "Gapfill-2009-2012",
-    "Gapfill-2005-2008"
+    "Gapfill-2005-2008",
+    "Gapfill-2001-2004"
   ],
-  "completed_count": 6,
-  "last_completed_range": "Gapfill-2005-2008",
-  "last_range_documents": 988,
-  "total_documents": 17388
+  "completed_count": 7,
+  "last_completed_range": "Gapfill-2001-2004",
+  "last_range_documents": 1113,
+  "total_documents": 16998
 }

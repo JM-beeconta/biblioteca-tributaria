@@ -4,206 +4,48 @@
 - Tipo: oficio
 - Número: 619
 - Año: 2003
-- Fecha: 2003-03-20
-- Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja447.doc
-- Hash SHA-256: 25b6eaed7cb851b3633d4ce2304d3b03aa94b13be46f15b77a677440e4da5e16
+- Fecha: 2003-12-10
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja619.htm
+- Hash SHA-256: 9573cfcde26c7b2bea0806dca50582cfacdf001a87783e68b70b42080b11dc50
 
 ## Resumen
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N� 1018 de 20 de Marzo de 2003. Word Informe sobre la recuperaci�n del impuesto especial al petr�leo diesel establecido en la Ley N� 18.502, para las empresas de transporte terrestre internacional de carga. Ley de Impuesto a las Ventas y Servicios. Oficio N� 619 de 24 de Febrero de 2003. Word Solicitud de reconsideraci�n del Oficio Ord. N� 3.365 del 12 de Septiembre del 2002. Ley de Impuesto a las Ventas y Servicios. Oficio N� 609 de 20 de Febrero de 2003. Word Impu…
+12.12.2003) Ley sobre Impuesto a la Renta – Art. 41 N° 9 e inciso 3° y siguientes de la LIR Word Determinación del costo tributario de la venta de derechos sociales. (Ord. N° 6237, de 10.12.2003)
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":3365,"year":2002}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-Ley de Impuesto a las Ventas y Servicios.  Oficio N° 619 de  24  de  Febrero
-      de 2003.
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 41 N° 9 E INCISO 3° Y SIGUIENTES DE LA LIR (ORD. N° 6237, DE 10.12.2003)
 
-Solicitud de reconsideración del Oficio Ord. N° 3.365 del 12  de  Septiembre
-       del 2002.
+Home | Ley Renta - 2003
+LEY SOBRE IMPUESTO A LA RENTA – ART. 41 N° 9 E INCISO 3° Y SIGUIENTES DE LA LIR (ORD. N° 6237, DE 10.12.2003)
 
+DETERMINACIÓN DEL COSTO TRIBUTARIO DE LA VENTA DE DERECHOS SOCIALES.
 
-1.-   Se ha recibido presentación  indicada  en  el  epígrafe,  en  la  cual
-      solicita la reconsideración del criterio manifestado por este Servicio
-      en el Oficio Ord. N° 3.365, de fecha 12 de  Septiembre  del  2002,  en
-      relación a la improcedencia de trasladar al propietario  del  vehículo
-      multado el monto del IVA que grava el arancel a que tiene  derecho  el
-      Registro  de  Multas  del  Tránsito  no  pagadas  por  los   servicios
-      prestados.
+1.- Por presentación indicada en el antecedente, señala que esta participando en la venta de unos derechos sociales de una sociedad de responsabilidad limitada que tributa en renta efectiva, cuyo patrimonio tributario es de aproximadamente $ 200.000.000.-. A su vez, el 80% de los socios son personas naturales no sujetos a contabilidad. Sin embargo, si se aplica VPP respecto a los resultados obtenidos por las filiales, el patrimonio de la empresa se aumentaría en aproximadamente $ 300.000.000.-, es decir, pasaría a ser de $ 500.000.000.-
+Agrega, que la forma de determinar los costos de estos derechos está regulada en el artículo 41 N° 13 inciso tercero de la Ley de la Renta, que señala en su parte pertinente lo siguiente:
 
-       Señala  en  su  presentación  que  el  Registro  de  Multas  es   una
-      institución de derecho público que el legislador ha entregado  por  el
-      plazo de cuatro (sic) años  a  un  particular,  circunstancia  que  no
-      altera su naturaleza jurídica.
+“Tratándose de la enajenación de derechos en sociedades de personas, para los efectos de determinar la renta proveniente de dicha operación, deberá deducirse del precio de la enajenación el valor de libros de los citados derechos según el último balance anual practicado por la empresa, debidamente actualizado según la variación experimentada por el Indice de Precios al Consumidor entre el último día del mes anterior al del último balance y el último día del mes anterior a aquel en que se produzca la enajenación. El citado valor actualizado deberá incrementarse y/o disminuirse por los aportes, retiros o disminuciones de capital ocurridos entre la fecha del último balance y la fecha de la enajenación, para lo cual dichos aumentos o disminuciones deberán reajustarse según el porcentaje de variación experimentada por el Indice de Precios al Consumidor entre el último día del mes que antecede a aquel en que ocurrieron y el último día del mes anterior al de la enajenación.”
+En relación con lo anterior, desea que se ratifique si al determinar el valor libro de los citados derechos de la sociedad cuyos derechos se están vendiendo no se pueden agregar las utilidades que han generado las filiales de esta empresa ya que no han sido repartidas tributariamente a la sociedad cuyos derechos se están vendiendo sino sólo reconocidas financieramente como VPP.
+2.- Sobre el particular, cabe señalar que para determinar el costo tributario de la enajenación de derechos sociales en sociedades de personas, en primer lugar, debe dilucidarse si el propietario de los citados derechos lleva o no contabilidad.
+En efecto, cuando el propietario de los referidos derechos se trata de un contribuyente que no lleva contabilidad, el costo tributario de los citados derechos se determina de acuerdo a lo dispuesto por el inciso tercero y cuarto del artículo 41 de la Ley de la Renta, aplicando una u otra disposición si el enajenante de los mencionados derechos se los cede o no a una empresa o sociedad con la cual se encuentra relacionado en los términos previstos por el inciso cuarto precitado.
+Las normas antes mencionadas preceptúan lo siguiente al respecto: “Tratándose de la enajenación de derechos de sociedades de personas, para los efectos de determinar la renta proveniente de dicha operación, deberá deducirse del precio de enajenación, el valor de libros de los citados derechos, según el último balance anual practicado por la empresa, debidamente actualizado según la variación experimentada por el índice de precios al consumidor entre el último día del mes anterior al del último balance y el último día del mes anterior a aquél en que se produzca la enajenación. El citado valor actualizado deberá incrementarse y/o disminuirse por los aportes, retiros o disminuciones de capital ocurridos entre la fecha del último balance y la fecha de enajenación, para lo cual dichos aumentos o disminuciones deberán reajustarse según el porcentaje de variación experimentado por el índice de precios al consumidor entre el último día del mes que antecede a aquél en que ocurrieron y el último día del mes anterior al de la enajenación.”
+“En el caso de la enajenación de derechos en sociedades de personas que hagan los socios de sociedades de personas o accionistas de sociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% ó más de las acciones, a la empresa o sociedad respectiva o en las que tengan intereses, para los efectos de determinar la renta proveniente de dicha operación, deberá deducirse del precio de la enajenación el valor de aporte o adquisición de dichos derechos, incrementado o disminuido según el caso, por los aumentos o disminuciones de capital posteriores efectuados por el enajenante, salvo que los valores de aporte, adquisición o aumentos de capital tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de esta ley. Para estos efectos, los valores indicados deberán reajustarse de acuerdo a la variación del índice de precios al consumidor entre el último día del mes anterior a la adquisición o aporte, aumento o disminución de capital, y el último día del mes anterior a la enajenación. Lo dispuesto en este inciso también se aplicará si el contribuyente que enajena los derechos estuviera obligado a determinar su renta efectiva mediante contabilidad completa, calculándose el valor actualizado de los derechos en conformidad con el número 9 de este artículo.”
+En caso contrario, si el propietario de los mencionados derechos se trata de un contribuyente que lleva contabilidad completa para los efectos de declarar sus rentas, el costo tributario de los referidos derechos se determina de acuerdo a lo establecido en el N° 9 del inciso primero del artículo 41 de la Ley de la Renta, norma que establece lo siguiente:
+“Los aportes a sociedades de personas se reajustarán según el porcentaje indicado en el inciso primero del Nº 1, aplicándose al efecto el procedimiento señalado en el Nº 2 de este artículo. Lo anterior es sin perjuicio de rectificar posteriormente dicho reajuste de acuerdo al que haya correspondido en la respectiva sociedad de personas. Las diferencias que se produzcan de esta rectificación se contabilizarán, según corresponda, con cargo o abono a la cuenta "Revalorización del Capital Propio.
+Para estos efectos se considerarán aportes de capital todos los haberes entregados por los socios, a cualquier título, a la sociedad de personas respectiva. “
+3.- En consecuencia, en el caso específico de la consulta planteada, se informa que al tratarse los enajenantes de los citados derechos de personas naturales que no llevan contabilidad para la acreditación de sus rentas en la Primera Categoría, el costo tributario de los referidos derechos se determina aplicando las normas del inciso tercero o cuarto del artículo 41 de la Ley de la Renta transcritos en el número 2 precedente, según corresponda, considerando como patrimonio de la empresa en donde están radicados tales derechos el determinado para los efectos tributarios, dentro del cual no se incluyen las utilidades devengadas en otras empresas o sociedades, sino que sólo las utilidades efectivamente retiradas o distribuidas de estas últimas sociedades.
 
-      Por otra parte, manifiesta que de conformidad con el artículo  7°  del
-      Reglamento del Registro de Multas del Tránsito no  Pagadas,  contenido
-      en el D.S. del Ministerio de Transportes, N° 152, del  12  de  Octubre
-      del 2000, el arancel destinado a financiar el Registro es de cargo del
-      propietario del  vehículo  multado,  por  lo  que  siguiendo  con  los
-      principios de derecho público que deben regir al Registro, a éste sólo
-      le asiste el derecho de efectuar cobros al dueño del vehículo  multado
-      y no a las municipalidades.
+JUAN TORO RIVERA
 
-      Según lo expresado por el señor Alcalde de la  comuna  de  XXXXXXX  de
-      acuerdo con  el  texto  expreso  de  la  Ley  se  pone  de  cargo  del
-      propietario del  vehículo  el  pago  del  IVA  sobre  el  arancel  que
-      corresponde al Registro.
+DIRECTOR
 
-      Por último, expone que el Registro no le presta ningún servicio  a  la
-      municipalidad, pues la obligación que le impone la ley es ser un  ente
-      que actúa en calidad de ministro de fe administrando  un  registro  de
-      multas de tránsito no pagadas, asumiendo las obligaciones que  la  ley
-      señala  de  información  y  de  percepción  de  multas   como   centro
-      distribuidor, actuaciones que son financiadas por el  propietario  del
-      vehículo, persona a quien el Registro presta el servicio.
+OFICIO N° 6237, DE 10.12.2003
 
-      En consideración a lo anterior  el  señor  Alcalde  de  la  Comuna  de
-      XXXXXXX viene en solicitar se reconsidere el  criterio  sostenido  por
-      esta Superioridad en el Oficio Ord. N° 3364, del año 2002 y  determine
-      que es procedente traspasar al propietario  del  vehículo  multado  el
-      monto del IVA que grava el servicio prestado.
+DEPTO. IMPTOS. DIRECTOS
 
-2.-   Al respecto, cabe señalar  que  este  Servicio  ha  sostenido  que  el
-      servicio de procesamiento automático de datos que presta  el  Registro
-      de Multas del Tránsito No Pagadas, establecido en el artículo  24°  de
-      la ley N° 18.287, y que se remunera a través del arancel del 8%  sobre
-      el valor de la multa impuesta al infractor, es una  actividad  que  se
-      encuentra afecta al Impuesto al Valor Agregado.
-
-
-      En dicho servicio, el prestador es el Registro de Multas a  través  de
-      la sociedad  que  lo  administra  y  que  se  adjudicó  la  licitación
-      efectuada por el Ministerio de Transportes y Telecomunicaciones.
-
-
-      Por su parte, de conformidad con  lo  dispuesto  expresamente  por  el
-      inciso tercero del artículo 24°, indicado precedentemente,  y  por  el
-      artículo 6° del Reglamento del Registro  de  Multas  del  Tránsito  No
-      Pagadas, dicha prestación tiene como  beneficiarias  a  las  distintas
-      municipalidades del país, puesto que son ellas las destinatarias de la
-      información procesada por el Registro.
-
-
-      En relación con lo anterior cabe advertir que el carácter  público  de
-      las personas que intervienen en el servicio,  ya  sea  en  calidad  de
-      prestadoras o beneficiarias, o  el  hecho  que  las  prestaciones  que
-      constituyen el objeto del servicio, se encuentren establecidas  en  la
-      ley, no son circunstancias que  deban  ser  consideradas  impedimentos
-      para la configuración del hecho  gravado  con  el  Impuesto  al  Valor
-      Agregado y los efectos tributarios consiguientes.  Al  respecto  puede
-      sostenerse que, precisamente, en el caso en  consulta,  la  prestación
-      que constituye el servicio y la relación jurídica entre las partes, se
-      encuentra establecida en la propia ley.
-
-
-3.-   Por otra parte, cabe señalar que el inciso  primero  del  artículo  69
-      del D.L. N° 825 establece que “Las personas que  realicen  operaciones
-      gravadas con el impuesto de la presente ley,  con  excepción  del  que
-      afecta a  las  importaciones,  deberán  cargar  a  los  compradores  o
-      beneficiarios del servicio, en su caso, una suma igual  al  monto  del
-      respectivo  gravamen,   aun   cuando   sean   dichos   compradores   o
-      beneficiarios, quienes, en conformidad con esta ley, deban enterar  el
-      tributo en arcas fiscales. El impuesto deberá indicarse  separadamente
-      en las facturas, salvo en aquellos casos en que la Dirección  Nacional
-      de Impuestos Internos autorice su inclusión. Tratándose de boletas, el
-      impuesto deberá incluirse en el precio, con excepción de las  emitidas
-      por los contribuyentes señalados en la letra e) del artículo  16º,  en
-      las cuales se indicará separadamente el impuesto  previa  autorización
-      del Servicio de Impuestos  Internos.  Asimismo,  en  el  caso  de  las
-      boletas a que se refiere  el  inciso  tercero  del  artículo  56º,  el
-      impuesto deberá indicarse separadamente”.
-
-      En virtud de  la  norma  legal  citada  se  consagra  el  carácter  de
-      impuesto de traslación que ostenta el IVA, por el cual  se  ordena  al
-      prestador  de  un  servicio  cargar  el  Impuesto  al  Valor  Agregado
-      devengado en las operaciones realizadas, al  beneficiario  del  mismo,
-      quien será el contribuyente de hecho del impuesto, es  decir,  aquella
-      persona que según la ley deberá soportar el gravamen impositivo en  su
-      patrimonio, sin que sea relevante la circunstancia que la remuneración
-      de los servicios sea pagada en definitiva por otra persona diversa  de
-      la beneficiaria, ya sea por un motivo meramente económico o porque una
-      norma legal o reglamentaria así lo determine.
-
-      Por consiguiente, para que desde el punto de vista jurídico  opere  la
-      traslación del impuesto  a  un  sujeto  diverso  del  señalado  en  la
-      disposición citada, es requisito indispensable que una norma legal así
-      lo establezca expresamente.
-
-4.-   Además, teniendo presente lo señalado en la consulta,  en  el  sentido
-      que el Registro de  Multas  es  una  entidad  regida  por  el  derecho
-      público, forzoso es colegir que a  su  respecto  deben  aplicarse  los
-      principios de interpretación que regulan esta rama del derecho,  entre
-      ellos, aquel que dispone que en materia de  derecho  público  sólo  se
-      puede hacer aquello que se encuentra  expresamente  permitido  por  la
-      ley, bajo sanción de  incurrir  en  una  conducta  que  adolecería  de
-      nulidad de derecho público, según lo disponen los artículos 6° y 7° de
-      la Constitución Política de la República, si se  actúa  más  allá  del
-      mandato legal expreso.
-
-      De esta forma, no existiendo una  disposición  legal  o  reglamentaria
-      que autorice al Registro o a las municipalidades  trasladar  el  monto
-      del impuesto que grava los servicios prestados por aquella  entidad  a
-      una persona distinta de las beneficiarias legales de  los  mismos,  no
-      resulta posible determinar por la vía interpretativa que  el  referido
-      tributo sea de cargo del  propietario  del  vehículo  multado  que  es
-      incorporado al Registro.
-
-      En efecto, el artículo 7° del Reglamento del Registro dispone que  “el
-      Registro se financiará con el cobro de aranceles por  las  actuaciones
-      que se realicen, cuyo porcentaje sobre el valor de la multa se  fijará
-      en las bases de la licitación respectiva y será de cargo de la persona
-      a cuyo nombre figura inscrito el vehículo afectado”. Conforme  a  esta
-      norma sólo puede ser de cargo del propietario del vehículo multado  el
-      arancel que sirve de remuneración  al  Registro  por  las  actuaciones
-      realizadas, pero no se autoriza a poner de cargo del  propietario  del
-      vehículo el pago del IVA.
-
-      Por consiguiente, de la concordancia de las normas  tributarias  y  de
-      aquellas que rigen en particular al Registro de Multas del Tránsito no
-      Pagadas, se puede concluir  que  son  las  municipalidades,  en  tanto
-      beneficiarias de los servicios prestados  por  el  Registro,  las  que
-      deben soportar el recargo del impuesto al Valor  Agregado,  careciendo
-      de fundamento legal, a juicio de este Servicio, el  traslado  de  este
-      tributo al propietario del vehículo multado.
-
-5.-   De otra parte, siguiendo lo anterior, y  tal  como  se  señaló  en  el
-      Oficio N° 3365, del 2002, tampoco resulta procedente trasladar el  IVA
-      que grava  el  servicio  en  cuestión,  al  propietario  del  vehículo
-      multado, puesto que en el momento en que la persona obligada  al  pago
-      de la multa cancela el 8% correspondiente al arancel que tiene derecho
-      a percibir el Registro, no se ha devengado aún el tributo, por lo  que
-      resultaría contrario a la normativa tributaria el cobro de un impuesto
-      que aún no ha nacido.
-
-      En efecto, como se  dijo,  de  conformidad  con  lo  dispuesto  en  el
-      artículo 69° del D.L. N° 825,  de  1974,  las  personas  que  realicen
-      operaciones gravadas deberán cargar a los beneficiarios del  servicio,
-      una suma igual al monto del impuesto, el que, de acuerdo  al  artículo
-      9° del mismo cuerpo legal, se devengará, en el caso de los  servicios,
-      en la fecha de emisión de  la  factura  o  boleta.  A  su  vez,  estos
-      documentos según lo establecido por el artículo 55 del  citado  cuerpo
-      legal, deberán ser emitidos en el mismo período tributario en  que  la
-      remuneración se perciba o se ponga, en cualquier forma, a  disposición
-      del prestador del servicio. De esta forma,  la  obligación  tributaria
-      nacerá conjuntamente con la emisión de la factura, lo que en  el  caso
-      particular ocurrirá en el momento en  que  la  municipalidad  pague  o
-      ponga a disposición del Registro el arancel al cual tiene derecho y no
-      en el momento en que el propietario del vehículo cancela la multa  más
-      el mencionado arancel.
-
-6.-   En consecuencia, y no habiendo nuevos antecedentes  sobre  la  materia
-      consultada que permitan modificar el criterio antes determinado, puede
-      informarse a Ud. que se confirma lo sustentado por este Servicio en el
-      Oficio Ord. N° 3.365, del 12 de septiembre del 2002.
-
-      JUAN TORO RIVERA
-      DIRECTOR
-
-
-      Oficio N° 619 de 24-02-2003
-      Subdirección Normativa
-      Depto. de Impuestos Indirectos
+SUBDIRECCION NORMATIVA

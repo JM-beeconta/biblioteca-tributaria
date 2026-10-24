@@ -4,240 +4,42 @@
 - Tipo: oficio
 - Número: 327
 - Año: 2002
-- Fecha: 2002-01-25
-- Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja244.doc
-- Hash SHA-256: 838df5186cef1edfec640a159727569e3c69e6d4950550b688a6e3433832cee5
+- Fecha: 2002-08-09
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja327.htm
+- Hash SHA-256: c831c0a72c980f15100950367487eadd3e303cdcdd1ae729b3faad720d548c89
 
 ## Resumen
 
-Word Impuesto al Valor Agregado que grava a distintas remuneraciones que se originan en un contrato de securitizaci�n.
+09.08.2002) Ley sobre Impuesto a la Renta – Art. 18 quater LIR y art.17 D.L. N° 1.328, de 1976 Word Valoración de las cuotas de fondos mutuos para los efectos de su rescate. (Ord. N° 2871, de 09.08.2002)
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"circular","number":262,"year":1982}
+- {"type":"circular","number":847,"year":1989}
 
 ## Texto extraído
 
-3
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 18 QUATER LIR Y ART.17 D.L. N° 1.328, DE 1976 (ORD. N° 2871, DE 09.08.2002)
 
+Home | Ley Renta - 2002
+LEY SOBRE IMPUESTO A LA RENTA – ART. 18 QUATER LIR Y ART.17 D.L. N° 1.328, DE 1976 (ORD. N° 2871, DE 09.08.2002)
 
+VALORACIÓN DE LAS CUOTAS DE FONDOS MUTUOS PARA LOS EFECTOS DE SU RESCATE.
 
+1.- Por Ordinario indicado en el antecedente, y con motivo de la presentación efectuada por un contribuyente ante esa Superintendencia, quién consulta si para efectos tributarios, es correcta la forma de cálculo del mayor o (menor) valor obtenido en el rescate de cuotas de fondos mutuos utilizada por la Administradora de Fondos Mutuos S.A. XXX, ese organismo ha estimado necesario exponer a este Servicio lo que se expresa a continuación. Señala, que la metodología de cálculo del mayor o (menor) valor en el rescate de cuotas de fondos mutuos, se encuentra contenida en la Circular N° 847, del 25.01.89, emitida por esa Superintendencia. Si bien, la citada normativa contempla la situación habitual de la operatoria de un fondo mutuo (inversión y rescate), no considera la forma de cálculo del mayor o (menor) valor en el rescate de cuotas, cuando las sociedades por cuenta de un fondo mutuo de su administración, entregan cuotas a los partícipes, por concepto de reincorporación al patrimonio de éste de un valor de oferta pública suspendido de cotización o de transacción bursátil, en virtud de la Circular N° 262, del 24.11.82.
+Agrega, que cabe señalar que en el caso del recurrente, la situación descrita en el párrafo anterior se relaciona con los repartos de cuotas de fechas 13.12.1995, 31.07.1998, 25.01.1999, 14.04.1999, 07.11.2000 y 13.02.2001 que se indican en las cartolas de movimientos que se adjuntan.
+En razón de los antecedentes antes expuestos, se solicita de este Servicio un pronunciamiento respecto al tratamiento que deba darse a las cuotas no suscritas directamente por el partícipe y que hubiesen sido asignadas a su cuenta, en razón de la aplicación de la Circular N° 262, de 1982, en la determinación del mayor o (menor) valor obtenido en el rescate, para los efectos de su tributación. Una vez emitido dicho pronunciamiento, esa Superintendencia procederá a modificar la circular pertinente, incorporando el tema resuelto.
+2.- Sobre el particular, cabe señalar en primer lugar, que del análisis y estudio de las normas del D.L. N° 1.328, de 1976, en concordancia con las disposiciones de su respectivo Reglamento, contenido en el D.S. N° 249, de 1982, del Ministerio de Hacienda, la fiscalización de las Sociedades Administradoras de Fondos Mutuos, en todo lo relacionado con la administración de los recursos que estas entidades administran, especialmente en lo relativo con el tipo de inversión en las cuales deben invertirse los fondos de los partícipes, la valorización y rescate de las cuotas en que quedan expresados los recursos recibidos, corresponde a esa Superintendencia, quién para el desempeño de tal función podrá ejercer las mismas atribuciones y facultades de que está investida para fiscalizar y sancionar a las sociedades anónimas abiertas y compañías de seguros.
+Tanto es así, que esa Superintendencia en uso de sus facultades y dando cumplimiento a lo dispuesto por el artículo 17 del D.L. N° 1.328, que dice relación con la determinación del mayor o menor valor que se produzca en el rescate de las cuotas de fondos mutuos, ha impartido las instrucciones pertinentes, mediante la Circular N° 847, de 1989, en la cual se establece el método que debe utilizarse para la realización de la operación señalada anteriormente, y que este Servicio para poder aplicar la tributación sobre dicho mayor valor, conforme a lo dispuesto por el ex - artículo 19 del citado decreto ley, y actual artículo 18 quater de la Ley de la Renta, ha establecido que la mencionada operación se determinará de acuerdo a lo dispuesto por el referido artículo 17, y considerando las normas e instrucciones que para tales efectos haya impartido la Superintendencia de Valores y Seguros, información que se contiene en las Circulares de este organismo N°s. 1, de 1989 y 10, de 2002.
+3.- Ahora bien, respecto de la consulta formulada y conforme a lo expuesto anteriormente, este Servicio concluye que las normas del D.L. N° 1.328 y su respectivo Reglamento, especialmente en materia de valoración y rescate de cuotas, corresponde su aplicación a esa Superintendencia, teniendo expresamente en consideración lo dispuesto por el artículo 17 del decreto ley antes mencionado, no obstante no ser ésta una norma de carácter tributario, su correcta aplicación tiene directa relación para la aplicación de la tributación que afecta al mayor valor obtenido en el rescate de cuotas de fondos mutuos, materia ésta última de competencia de este Servicio. Por lo tanto, en relación con el asunto planteado no es posible emitir un pronunciamiento específico sobre tal materia, comprendiéndose ésta dentro de las atribuciones y facultades que los textos legales precitados le entregan a esa Superintendencia, teniendo en consideración eso si lo establecido por aquellas normas de los cuerpos legales antedichos que digan directa o indirecta relación con aspectos tributarios.
 
+JUAN TORO RIVERA
 
+DIRECTOR
 
+OFICIO N° 2871, DE 09.08.2002
 
+DEPTO. IMPTOS. DIRECTOS
 
-
-Ley de Impuesto a las Ventas y Servicios. Oficio N° 327 de 25 de Enero
-de 2002.
-
-
-
-Impuesto al Valor Agregado que grava a distintas remuneraciones que se
-originan en un contrato de securitización.
-
-            
-
-
-
-1.-	Se ha recibido en esta Dirección Nacional su oficio del
-antecedente, mediante el cual traslada una presentación de la empresa
-XXXXXXXXX, quien consulta sobre el Impuesto al Valor Agregado que afecta
-a distintas remuneraciones que se originan en un contrato de
-securitización.
-
-
-
-	Estas remuneraciones corresponden a:
-
-
-
- a)	Comisión de Administración: De conformidad con lo previsto en el
-artículo 141 de la Ley de Mercado de Valores, la administración de los
-bienes integrantes de los patrimonios separados puede ser desempeñada
-directamente por la Securitizadora o por un Tercero designado
-especialmente al efecto.
-
-
-
-	En el evento de que la administración sea desempeñada por un tercero,
-la comisión que éste cobre se encontraría exenta de IVA, por
-disposición expresa del inciso final del artículo 153° de la referida
-Ley.
-
-
-
- b)	Comisión por la diputación de Pago: Entre la sociedad
-Securitizadora y un Banco de la plaza se ha suscrito un contrato, en
-virtud del cual se le encomienda a éste último la gestión de pagar,
-con fondos proporcionados por el mandante, en este caso la sociedad
-securitizadora, a los tenedores de títulos de deuda emitidos por esta
-última, las correspondientes cuotas o amortizaciones de esos títulos,
-cobrando el banco una remuneración por ello.
-
-
-
-c)	Comisión pagada al representante de los tenedores: De conformidad
-con lo dispuesto en el Título XVIII de la Ley de 	Mercado de Valores,
-los tenedores de títulos de deuda  emitidos por la empresa
-securitizadora deben designar un representante común ante ésta.
-
-
-
-	El representante de los tenedores cumple diversas funciones frente a la
-sociedad securitizadora, entre las que destaca la de emitir el
-Certificado de entero del Activo del Patrimonio Separado a que alude el
-artículo 137° de la Ley de Mercado de Valores, cobrando por ello una
-remuneración.
-
-
-
-d)	Remuneración por el contrato de securitización: Como la
-securitización consiste en la emisión de títulos de deuda, con
-respaldo en un patrimonio separado al común del emisor, conformado por
-los créditos adquiridos de uno o más vendedores u originadores,
-existen prestaciones que deben realizarse dentro de esta actividad y por
-las cuales la sociedad securitizadora cobra una remuneración, tales
-como, el estudio financiero, operativo, legal y tributario de los
-activos que conformarán dicho patrimonio separado, la designación de
-los agentes involucrados en la operación (pagador, custodio,
-administrador, representante de los tenedores, auditores, clasificadoras
-de riesgo, etc), diseñando las relaciones jurídicas que regularán su
-actividad, como asimismo, la emisión y colocación del respectivo
-título de deuda securitizado.
-
-
-
-
-
-2.-	El artículo 8°, del D.L. N° 825, de 1974, grava con impuesto al
-valor agregado a los servicios, definidos para tal efecto en el
-artículo 2°, N° 2°, del mismo decreto ley como: “ la acción o
-prestación que una persona realiza para otra y por la cual percibe un
-interés, prima, comisión o cualquiera otra forma de remuneración,
-siempre que provenga del ejercicio de las actividades comprendidas en
-los N°s 3 y 4, del artículo 20°, de la Ley sobre Impuesto a la
-Renta”.
-
-
-
-
-
-
-
-
-
-
-
-3.-	Como se señalara en párrafos anteriores, la securitización
-consiste básicamente en la emisión de títulos de deuda, respaldados
-por un patrimonio separado al común del emisor y conformado por los
-créditos adquiridos por la sociedad securitizadora a uno o más
-vendedores u originadores.
-
-
-
-	Este tipo de contrato da origen a diversas remuneraciones que deben
-pagarse para su cumplimiento, remuneraciones respecto de las cuales se
-consulta su afectación con impuesto al valor agregado.
-
-
-
-	Así las cosas, a continuación se analizará cada uno de los servicios
-remunerados, a fin de determinar si se encuentran gravados con el
-tributo en comento.
-
-
-
- a)	Comisión de administración: Según lo señalado en la cláusula
-quinta del Contrato de Emisión de Título de Deuda de Securitización,
-el servicio remunerado con esta comisión consiste básicamente en
-efectuar las gestiones de cobro y percepción de la deuda y en general
-la administración de los créditos y sus garantías.
-
-
-
-Cuando este servicio es  efectuado por un tercero, la comisión cobrada
-por éste se encuentra expresamente exenta de IVA, por disposición del
-artículo 153°,  de la Ley N° 18.045.
-
-
-
-En el caso en consulta este servicio de administración es efectuado por
-la misma sociedad securitizadora, dueña de los créditos, por lo que en
-la especie no se configura el hecho gravado básico “servicio” en
-los términos del artículo 2°, N° 2, del D.L. N° 825, ya que no
-existe una prestación que una persona realice para otra, por lo que no
-procede afectar con impuesto al valor agregado dicha remuneración.
-
-
-
- b)	Comisión por la Diputación: Esta comisión remunera el servicio
-prestado por el banco en virtud de un contrato mediante el cual éste se
-obliga a pagar, con fondos proporcionados por la sociedad
-securitizadora, a los tenedores de títulos de deuda, las cuotas o
-amortizaciones de esos títulos. 
-
-
-
- 	Conforme al artículo 8°, en concordancia con el artículo 2°, N°
-2, del D.L.. N° 825, dicho servicio se encuentra gravado con impuesto
-al valor agregado por provenir dicha remuneración del ejercicio de la
-actividad propia de banco, clasificada en el artículo 20°, N° 3, de
-la Ley sobre Impuesto a la Renta.
-
-
-
- c)	Comisión pagada al representante de los tenedores: El servicio
-remunerado por esta comisión consistente en la emisión de un
-Certificado, dispuesto en el artículo 137°, de la Ley de Mercado de
-Valores, en el cual consta que los bienes que conforman el activo se
-encuentran debidamente aportados y en custodia, libres de gravámenes,
-prohibiciones o embargos y en su caso, que se han constituido los
-aportes adicionales pactados, no se encuentra gravado con impuesto al
-valor agregado, pues dicha remuneración no proviene del ejercicio de
-ninguna de las actividades clasificadas en el artículo 20°, N°s 3 o 4
-de la Ley de la Renta, clasificándose en consecuencia en el N° 5, del
-señalado artículo. 
-
-
-
- d)	Finalmente, la remuneración por el contrato de securitización que
-comprende la prestación de servicios tales como, el estudio financiero,
-operativo, legal y tributario de los activos que conformarán dicho
-patrimonio separado, la designación de los agentes involucrados en la
-operación (pagador, custodio, administrador, representante de los
-tenedores, auditores, clasificadoras de riesgo, etc), como asimismo, la
-emisión y colocación del respectivo título de deuda  securitizado, 
-se encuentra gravada con impuesto al valor agregado, pues 
-
-
-
-
-
-
-
-
-
-
-
-
-
- e)	atendida la naturaleza de la securitización, deriva o proviene del
-ejercicio de la actividad de una empresa financiera, clasificada en el
-artículo 20°, N° 3, de la Ley sobre Impuesto a la Renta.
-
-
-
-	ALFREDO ECHEVERRIA HERRERA
-
-                             DIRECTOR  (S)
-
-
-
-	Oficio N°  327 de 25 de Enero de 2002
-
-	Subdirección Normativa
-
-	Depto. de Impuestos Indirectos
+SUBDIRECCION NORMATIVA

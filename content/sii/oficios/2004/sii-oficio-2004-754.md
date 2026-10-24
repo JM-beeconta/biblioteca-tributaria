@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 754
 - Año: 2004
-- Fecha: 2004-02-10
+- Fecha: 2004-06-08
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja655.doc
-- Hash SHA-256: 2af8f5cd9b0597c79bd9f035206adf0707865b7253e780f4113e64684a7784fb
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja754.htm
+- Hash SHA-256: 82c25de0769402b02c61148daf0d033109b8b78f2338480b45ebacf02f7ef089
 
 ## Resumen
 
-Word IVA en la cesi�n de espacios publicitarios en un estadio donde se desarrolla un Campeonato de F�tbol.
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Ley N° 18.502, Art. 6°– Ley N° 18.961, art. 91° – D.L. N° 1.277, de 1975. (Ord. N°2.564, de 08.06.2004) Word Aplicación de la Exención de impuesto, establecida en Art. 91°, de la Ley N° 18.961, Orgánica Constitucional de Carabineros de Chile, al Tributo del Art. 6°, de la Ley N°18.502.
 
 ## Referencias detectadas
 
@@ -19,83 +19,30 @@ Word IVA en la cesi�n de espacios publicitarios en un estadio donde se desarro
 
 ## Texto extraído
 
-Ley de Impuesto a las Ventas y  Servicios.  Oficio  N°  754  de  10  de
-          Febrero de 2004.-
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 18.502, ART. 6°– LEY N° 18.961, ART. 91° – D.L. N° 1.277, DE 1975. (ORD. N°2.564, DE 08.06.2004)
 
+Home | Ventas y Servicios - 2004
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 18.502, ART. 6°– LEY N° 18.961, ART. 91° – D.L. N° 1.277, DE 1975. (ORD. N°2.564, DE 08.06.2004)
 
-    IVA en la cesión de espacios  publicitarios  en  un  estadio  donde  se
-    desarrolla un Campeonato de Fútbol.
+APLICACIÓN DE LA EXENCIÓN DE IMPUESTO, ESTABLECIDA EN ART. 91°, DE LA LEY N° 18.961, ORGÁNICA CONSTITUCIONAL DE CARABINEROS DE CHILE, AL TRIBUTO DEL ART. 6°, DE LA LEY N°18.502 – LAS ADQUISICIONES EFECTUADAS CON CARGO AL FONDO ROTATIVO DE ABASTECIMIENTO, LAS ADQUISICIONES DE GASOLINAS AUTOMOTRICES Y PETRÓLEO DIESEL REALIZADAS POR CARABINEROS DE CHILE, INCLUIDAS LAS IMPORTACIONES Y PRIMERA VENTA EN EL PAÍS, CON RECURSOS DEL REFERIDO FONDO DEBIDAMENTE ACREDITADO POR AUTORIDAD COMPETENTE, SE ENCONTRARÁN LIBERADAS DE LA APLICACIÓN DEL IMPUESTO ESPECÍFICO ESTABLECIDO EN EL ARTÍCULO 6° DE LA LEY N° 18.502, QUE GRAVA CON UN IMPUESTO ESPECIAL LA PRIMERA VENTA O IMPORTACIÓN DE LAS GASOLINAS AUTOMOTRICES Y DEL PETRÓLEO DIESEL – LA ADQUISICIÓN DE COMBUSTIBLE EFECTUADA POR ESA INSTITUCIÓN UTILIZANDO RECURSOS DISTINTOS AL DEL REFERIDO FONDO ROTATIVO DE ABASTECIMIENTO, SE ENCONTRARÁ GRAVADA CON EL IMPUESTO ESPECIAL A LOS COMBUSTIBLES ESTABLECIDO EN EL ARTÍCULO 6° DE LA LEY N° 18.502, TRIBUTO ESTE ÚLTIMO QUE SE DEVENGA SÓLO AL TIEMPO DE SU PRIMERA VENTA O IMPORTACIÓN Y AFECTA EXCLUSIVAMENTE AL PRODUCTOR O IMPORTADOR.
 
+1.- Se ha recibido en esta Dirección Nacional su Oficio del antecedente, mediante el cual consulta acerca de la aplicación del impuesto específico al petróleo a las adquisiciones de ese combustible con recursos de la cuenta del Fondo Rotativo de Abastecimiento. Señala que dentro de las diferentes adquisiciones que Carabineros de Chile realiza a nivel nacional, a fin de mantener un abastecimiento logístico para el normal desarrollo de sus funciones de Seguridad pública, se encuentra la importación de combustible, el cual es adquirido con el presupuesto institucional y con recursos de la cuenta del Fondo Rotativo de Abastecimiento (FORA). El referido combustible se encuentra afecto a un impuesto específico el cual pasa a formar parte del costo de la operación, en todos los casos realizados a la fecha.
+Por lo anterior es que solicita a este Servicio se pronuncie en el sentido de si las adquisiciones de combustible que realiza la institución al amparo de las normas del Decreto Ley N° 1.277, que fija el texto de la Ley sobre Fondo Rotativo de Abastecimiento, se encuentran afectas al impuesto específico a los combustibles y si éste se devenga únicamente en la primera venta o importación y si afecta exclusivamente al productor o importador.
+2.- El artículo 6° de la Ley N° 18.502 de 1986, grava con un impuesto especial la primera venta o importación de las gasolinas automotrices y del petróleo diesel, el cual se expresará en Unidades Tributarias Mensuales que deberán ser aplicadas por cada metro cúbico de combustible vendido o importado.
+Este impuesto especial se devenga sólo al tiempo de su primera venta o importación y afecta exclusivamente al productor o importador de ellos. En las siguientes etapas de comercialización de estos productos no se devengará el referido impuesto el cual pasa a formar parte del costo de los mismos.
+3.- En lo referente a la aplicación del referido impuesto especial a la importación de combustible efectuado por Carabineros de Chile, el artículo 1° de la Ley N° 16.256, según texto fijado por el D.L. N° 1.277, de 1975, establece que “el Fondo Rotativo de Abastecimiento, sobre el cual podrá girar Carabineros de Chile, estará destinado a la adquisición, almacenamiento, mantención, conservación y distribución de equipos, materiales y consumos, según procedimientos establecidos en la legislación vigente, necesarios para la formación y reposición de los niveles de existencia y a financiar cualquier otro gasto accesorio que origine el sistema de abastecimiento.”
+Por su parte, la Ley N° 18.961, Orgánica Constitucional de Carabineros de Chile, publicada en el Diario Oficial de 07-03-1990, dispone en su artículo 91°:
 
+“Art. 91°.- “Los actos, contratos o convenciones relativos a la adquisición, administración y enajenación de los bienes o servicios correspondientes al Fondo Rotativo de Abastecimiento de Carabineros de Chile, estarán exentos de todo impuesto o derecho, ya sean éstos fiscales, aduaneros o municipales.”
+4.- De conformidad a las disposiciones transcritas, debo manifestar a Ud. que, encontrándose establecida por ley la exención de cualquier impuesto que afecte las adquisiciones efectuadas con cargo al Fondo Rotativo de Abastecimiento, las adquisiciones de gasolinas automotrices y petróleo diesel realizadas por Carabineros de Chile, incluidas las importaciones y primera venta en el país, con recursos del referido Fondo debidamente acreditado por autoridad competente, se encontrarán liberadas de la aplicación del impuesto específico establecido en el artículo 6° de la Ley N° 18.502, que grava con un impuesto especial la primera venta o importación de las gasolinas automotrices y del petróleo diesel.
+La adquisición de combustible efectuada por esa Institución utilizando recursos distintos al del referido Fondo Rotativo de Abastecimiento, se encontrará gravada con el Impuesto Especial a los combustibles establecido en el artículo 6° de la Ley N° 18.502, tributo este último que se devenga sólo al tiempo de su primera venta o importación y afecta exclusivamente al productor o importador.
 
+JUAN TORO RIVERA
 
-    1.-    Se ha recibido en esta Dirección Nacional  su  presentación  del
-          antecedente, mediante la cual consulta sobre la vigencia de Oficio
-          3388 de 1984, en el cual se expresó que en caso que una Federación
-          Organizadora  de  Eventos   Deportivos,   perciba   ingresos   por
-          publicidad en los recintos  deportivos,  éstos  no  se  encuentran
-          gravados con IVA.
+0DIRECTOR
 
-          Dentro  de  los  documentos  acompañados   se   encuentra   correo
-          electrónico  del  señor  Jefe   del   Departamento   Regional   de
-          Fiscalización de la XX Dirección Regional,  quien  señala  que  el
-          señor Jefe de Unidad de  XX ha planteado la situación  relacionada
-          con una Asociación de Fútbol Amateur de esa jurisdicción, respecto
-          de la cual se tienen los siguientes antecedentes.
+Oficio N° 2.564, de 08.06.04
 
-          1.-    La Asociación mencionada realizará un campeonato de  fútbol
-          durante el mes de  Enero  de  2004,  en  el  recinto  del  Estadio
-          Municipal de XX.
+Subdirección Normativa
 
-          2.-    Determinadas empresas  auspiciarán  el  evento,  entregando
-          dineros y se les permitirá colocar publicidad en el estadio.
-
-          3.-    Las empresas les están exigiendo facturas por  los  valores
-          entregados y respecto de lo cual tendrán autorización  para  tener
-          publicidad en el recinto, durante el campeonato.
-
-
-          Señala que al respecto, existe Oficio 3388  de  1984  del  SII,  y
-          solicita se le señale si corresponde  aplicarlo  en  los  términos
-          expresados  y  si   a   la  fecha  se  ha   emitido   algún   otro
-          pronunciamiento específico sobre la materia.
-
-
-
-
-    2.-    Sobre el particular, cabe manifestar a Ud. que en el  mencionado
-          Oficio N° 3388, de 8 de Octubre de 1984, este Servicio estimó que,
-          no  obstante  que  la  autorización  remunerada  otorgada  por  la
-          Federación Chilena de XX para exhibir avisos publicitarios  en  el
-          recinto en que se organizará un evento deportivo,  constituye  una
-          forma de cesión temporal del uso de un inmueble, toda vez  que  en
-          el predio se ubicarán carteles y avisos relativos a  las  empresas
-          auspiciadoras del evento deportivo haciendo, de  esta  manera,  un
-          uso parcial del mismo;  dicha cesión no se encuentra  gravada  con
-          IVA ya que en el inmueble no existen instalaciones que permitan el
-          ejercicio de una actividad comercial
-
-
-    3.-    Sin embargo, no es posible la aplicación del criterio mencionado
-          en el párrafo precedente -el  cual  se  encuentra  vigente-  a  la
-          situación por  Ud.  planteada,  por  cuanto  ella  difiere  en  un
-          elemento sustancial, cual es, la calidad del inmueble  de  que  se
-          trata.
-
-          En efecto, según ha sido resuelto por este Servicio en  Oficio  N°
-          3330 de 7 de Noviembre de 1995, en la medida en que  los  espacios
-          publicitarios  entregados  a  las  empresas  auspiciadoras   estén
-          ubicados en un estadio, la cesión de parte de  éste  para  efectos
-          publicitarios constituye el hecho gravado especial contenido en el
-          artículo 8° letra g) del D.L N° 825, de 1974, por cuanto se  trata
-          de la cesión  temporal de espacios situados  dentro  de  inmuebles
-          que permiten el ejercicio de una actividad de carácter  comercial,
-          como es la presentación de espectáculos públicos.
-
-          JUAN FRANCISCO SANCHEZ STURMER
-          DIRECTOR (S)
-
-
-          Oficio N° 754 de 10-02-2004
-          Subdirección Normativa
-          Depto. de Impuestos Indirectos
+Dpto. de Impuestos Indirectos

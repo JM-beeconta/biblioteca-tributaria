@@ -1,0 +1,45 @@
+# Oficio N° 226 de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 226
+- Año: 2001
+- Fecha: 2001-06-27
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja226.htm
+- Hash SHA-256: a55c8d377997a2aa037ec9a8638ff2235dcf5f0ce1ff75c1b994a219c533d2b5
+
+## Resumen
+
+ernacional.) Franquicia Tributaria – Ley N° 18.392, de 1985 (Ley Navarino) – Art. 12° - Ley N° 18.211, Art. 11°. Word Consulta Si las Disposiciones de la Ley N° 18.392, Son Aplicables al Proyecto Denominado “Remodelación de la Base Antártica O’Higgins”, a Materializarse en la XII Región Magallanes y Antártica Chilena. (Of. N° 2817 de 27.06.2001 – I. Indirectos).
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OTRO - FRANQUICIA TRIBUTARIA – LEY N° 18.392, DE 1985 (LEY NAVARINO) – ART. 12° - LEY N° 18.211, ART. 11°.
+
+Home | Otro - 2001
+FRANQUICIA TRIBUTARIA – LEY N° 18.392, DE 1985 (LEY NAVARINO) – ART. 12° - LEY N° 18.211, ART. 11°.
+
+RÉGIMEN PREFERENCIAL ADUANERO Y TRIBUTARIO PARA EL TERRITORIO DE LA XII REGIÓN MAGALLANES Y DE LA ANTÁRTICA CHILENA – EMPRESAS QUE TIENEN DERECHO A LA FRANQUICIA – BENEFICIOS TRIBUTARIOS ESPECIALES APLICABLES A PERSONAS NATURALES Y JURÍDICAS DOMICILIADAS O RESIDENTES EN EL REFERIDO TERRITORIO PREFERENCIAL – NORMA ESPECIAL PARA LOS SERVICIOS E INSTITUCIONES DEL SECTOR PÚBLICO – REMODELACIÓN DE LA BASE ANTÁRTICA O’HIGGINS SE BENEFICIARÁ CON LAS FRANQUICIAS TRIBUTARIAS ESTABLECIDAS – LIBERACIÓN DEL PAGO DE IVA POR IMPORTACIONES REALIZADAS Y DEL IMPUESTO DEL ARTÍCULO 11° DE LA LEY N° 18.211 POR LA ADQUISICIÓN DESDE LA ZONA FRANCA DE PUNTA ARENAS.
+
+1.- Mediante presentaciones del antecedente, el Brigadier General, Comandante del Comando de Ingenieros del Ejército y Jefe del C.M.T., consulta si las disposiciones de la Ley N° 18.392, son aplicables al proyecto denominado “Remodelación de la Base Antártica O’Higgins”, a materializarse en el año en curso, en la XII Región Magallanes y Antártica Chilena. Señala el recurrente, que por expresa disposición del Sr. Comandante en Jefe del Ejército, la Institución realizará durante el año en curso la obra “Remodelación de la Base Antártica O’Higgins”, en la XII Región Magallanes y Antártica Chilena, en este orden y en atención a lo señalado en la Ley N° 18.392, de 1985 (Ley Navarino), se requiere conocer la posibilidad de que ese proyecto se acoja a la referida ley, que otorga beneficios tributarios, entre otros, la exención del impuesto al valor agregado.
+
+2.- La Ley N° 18.392, publicada en el diario oficial de fecha 14-01-1985, estableció un régimen preferencial aduanero y tributario para el territorio de la XII Región Magallanes y de la Antártica Chilena. No obstante que la referida disposición legal limitó la aplicación de las franquicias que en ella se contiene a las empresas que desarrollen exclusivamente actividades industriales, mineras, de explotación de las riquezas del mar, de transporte y de turismo ubicadas en el territorio señalado en su artículo primero, otras normas de la misma ley, establecieron beneficios tributarios especiales, aplicables a las personas naturales y jurídicas domiciliadas o residentes en el referido territorio preferencial.
+Es así, que el artículo 12, de la Ley 18.392, estableció entre otras franquicias, a las personas naturales y jurídicas domiciliadas o residentes en la zona territorial preferencial, la liberalidad del impuesto al valor agregado, para importar, desde el extranjero, y para adquirir, desde la Zona Franca de Punta Arenas, las mercancías que determine el Presidente de la República, mediante Decretos expedidos a través del Ministerio de Hacienda, en las condiciones que allí señala.
+A su vez, el inciso 5° del mismo artículo 12, estableció una norma especial para los servicios e instituciones del sector público, al señalar que: “Asimismo, será aplicable lo dispuesto en este artículo a la importación o adquisición de materiales o elementos, necesarios para la construcción, equipamiento, habilitación y adecuada prestación de servicios respecto de inversiones que realicen los servicios e instituciones del sector público, centralizados o descentralizados, incluidas las municipalidades y excluidas las empresas del Estado.”
+
+3.- De tal manera que, encontrándose establecida una franquicia a favor de los servicios e instituciones del sector público, contenida en el inciso 5° del artículo 12 de la Ley N° 18.392, este Servicio debe manifestar a Ud., que la importación o adquisición de materiales o elementos necesarios para la construcción, equipamiento, habilitación y adecuada prestación de servicios respecto de las inversiones que tales instituciones realicen, entre éstas, la materialización del proyecto denominado, Remodelación de la Base Antártica O’Higgins, se beneficiará con las franquicias tributarias allí establecidas, esto es, la liberación del pago del impuesto al valor agregado por las importaciones realizadas y del impuesto establecido en el artículo 11 de la Ley N° 18.211, por las adquisiciones desde la Zona Franca de Punta Arenas.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 2817, del 27.06.2001
+
+Subdirección Normativa
+
+Dpto. Impuestos Indirectos

@@ -4,351 +4,69 @@
 - Tipo: oficio
 - Número: 336
 - Año: 2002
-- Fecha: 2002-01-28
-- Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja245.doc
-- Hash SHA-256: 0d208c103b482005722dfb3ffa774f4cb9bfda38162cadd95dd8a284c70acc76
+- Fecha: 2002-08-22
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja336.htm
+- Hash SHA-256: 30ed2dcd278440cc32306f49189c29c748acf954641ab2d75f194cf0005e7a36
 
 ## Resumen
 
-Word Tratamiento tributario, en relaci�n al Impuesto al Valor Agregado, de los servicios de telefon�a de larga distancia internacional.
+22.08.2002) Ley sobre Impuesto a la Renta – Art. 33 bis Word Forma de imputar el remanente de crédito a que se refiere el artículo 33 bis de la Ley de la Renta a los ejercicios siguientes. (Ord. N° 2984, de 22.08.2002)
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"20 N"}
-- {"type":"articulo","law":"LIR","article":"20"}
-- {"type":"articulo","law":"LIR","article":"59"}
-- {"type":"articulo","law":"LIR","article":"59 N"}
+- {"type":"circular","number":53,"year":1998}
+- {"type":"articulo","law":"LIR","article":"33 bis"}
+- {"type":"articulo","law":"LIR","article":"33"}
+- {"type":"articulo","law":"CT","article":"6"}
 
 ## Texto extraído
 
-4
-
-
-
-Ley de Impuesto a las Ventas y Servicios. Oficio N° 336 de 28 de Enero
-de 2002.
-
-
-
-Tratamiento tributario, en relación al Impuesto al Valor Agregado, de
-los servicios de telefonía de larga distancia internacional.
-
- 
-
-1.-	Se ha recibido en esta Dirección Nacional su presentación indicada
-en el antecedente, por medio de la cual consulta respecto del
-tratamiento tributario, que al tenor de las Convenciones Internacionales
-y legislación interna, se otorga a la actividad de terminación local
-de llamadas telefónicas generadas en el exterior.
-
-
-
-	Sobre esta materia se plantean dos hipótesis:
-
-
-
-a) Un cliente “A”, a través de un operador extranjero establece
-comunicación con Chile por medio de una empresa de telefonía ubicada
-en Chile, con un cliente “B” que reside en el país. Dicha
-comunicación se origina en el extranjero, enviando la señal por la
-central telefónica del operador y satélite extranjero, la cual baja a
-una central de comunicación, de propiedad de la empresa ubicada en
-Chile, para luego por medio de la red llegar al cliente “B”.
-
-
-
-Con respecto a esta hipótesis consulta:
-
-
-
-- ¿Se considera gravada con IVA para el cliente “A” la llamada
-originada en el extranjero independientemente que el pago se realice en
-Chile o en el país de origen de la llamada?. Asimismo, ¿se encuentra
-gravada con IVA el 50% de la tasa de percepción que recibe la empresa
-situada en Chile, por servicios de telefonía internacional de acuerdo
-al ejemplo citado?
-
-    
-
-- ¿Posee cada Estado la potestad de gravar de acuerdo a la normativa
-interna dichos servicios, siempre que no existan convenios suscritos y
-aprobados entre los países involucrados, y que incidencia legal
-presenta la legislación internacional de telecomunicaciones frente a la
-normativa interna de cada país en caso de conflicto entre ambas?
-
-
-
-b) Un cliente “B” a través de una empresa chilena de
-telecomunicaciones, establece comunicación con un cliente “A” de
-una empresa extranjera, originándose la llamada en Chile, enviando la
-señal por la central de comunicación de la empresa chilena a un
-satélite en el exterior la cual baja a una central telefónica de la
-empresa en el extranjero para luego llegar al cliente “A” que se
-encuentra en territorio foráneo.
-
-
-
-Con respecto a esta segunda hipótesis consulta:
-
-
-
-- ¿Se considera gravada con IVA para el cliente “B” la llamada
-originada en Chile y debe la empresa chilena cobrar el 100% de las
-tarifas de percepción?. Asimismo, ¿se encuentra gravado con IVA el
-pago del 50% de la tasa de distribución que la empresa chilena paga a
-la empresa extranjera por el uso del satélite de enlace de la
-comunicación al exterior?
-
-	
-
-- ¿Posee cada estado la potestad de gravar de acuerdo a la normativa
-interna dichos servicios, siempre que no existan convenios suscritos y
-aprobados entre los países involucrados, y que incidencia legal
-presenta la legislación internacional de telecomunicaciones frente a la
-normativa interna de cada país en caso de conflicto entre ambas?
-
-
-
-2.-	El artículo 8° del D.L. N° 825, de 1974, sobre el Impuesto a las
-Ventas y Servicios, grava con IVA las ventas y servicios. Por su parte
-el artículo 2° N° 2 del citado cuerpo legal define servicio como
-“La acción o prestación que una persona realiza para otra y por la
-cual percibe un interés, prima, comisión o cualquiera otra forma de
-remuneración, siempre que provenga del ejercicio de las actividades
-comprendidas en los N°s 3 y 4 del artículo 20 de la Ley sobre 
-Impuesto a la Renta”.
-
-
-
-	A su vez el artículo 20 N° 3 de la Ley sobre Impuesto a la Renta
-comprende dentro de las actividades mencionadas a las
-telecomunicaciones.
-
-
-
-	Por otro lado el artículo 5° del D.L. N° 825, establece que “El
-impuesto establecido en esta Ley gravará los servicios prestados o
-utilizados en el territorio nacional, sea que la remuneración
-correspondiente se pague en Chile o en el extranjero.
-
-
-
-	Se entenderá que el servicio es prestado en el territorio nacional
-cuando la actividad que genera el servicio es desarrollada en Chile,
-independientemente del lugar donde éste se utilice”.
-
-
-
-	Por último, los N°s 7 y 16 del artículo 12, letra E, del D.L. N°
-825, disponen que “Estarán exentos del impuesto establecido en este
-Título:
-
-
-
-	E.- Las siguientes remuneraciones y servicios:
-
-
-
-	7) Los ingresos que no constituyen renta según el artículo 17 de la
-Ley de la Renta y los afectos al Impuesto Adicional establecido en el
-artículo 59 de la misma Ley.
-
-
-
-	16) Los ingresos percibidos por la prestación de servicios a personas
-sin domicilio ni residencia en Chile, siempre que el Servicio Nacional
-de Aduanas califique dichos servicios como exportación”.
-
-
-
-3.-	Sobre el particular, informo a usted que Chile no ha suscrito ni
-ratificado ninguna Convención Internacional que regule el tratamiento
-impositivo de las telecomunicaciones de larga distancia, de manera que a
-su respecto es menester aplicar la normativa general de carácter
-interna la que se encuentra recogida principalmente en la Ley sobre
-Impuesto al Valor Agregado contenida en el Decreto Ley N° 825, de 1974.
-
-
-
-De esta forma, de acuerdo al texto legal citado, los servicios de
-telefonía, sean estos locales o de larga distancia, constituyen en
-Chile prestaciones afectas al Impuesto al Valor Agregado.
-
-
-
-	En consecuencia, salvo que exista alguna exención particular, todo
-servicio de telefonía prestado o utilizado dentro del territorio
-nacional se encontrará afecto a IVA, sea que la remuneración
-correspondiente se pague o perciba en Chile o en el extranjero.
-
-	
-
-4.-	Con respecto al primer caso planteado, la llamada realizada por el
-cliente “A” desde el extranjero hacia Chile a un cliente “B”,
-efectuada a través de un operador también extranjero importa en Chile
-una operación no afecta a IVA, ya sea que la llamada fuere pagada en el
-extranjero o en nuestro país, puesto que esta operación constituye un
-servicio prestado y utilizado en el extranjero, de forma tal que no se
-reúnen los requisitos de territorialidad exigidos por el artículo 5°
-del D.L. N° 825 de 1974, para la aplicación del Impuesto al Valor
-Agregado.
-
-
-
-	Ahora bien, con relación al 50% de la tasa de percepción que recibe
-la empresa de telecomunicaciones ubicada en Chile por los servicios
-prestados al operador extranjero, cabe señalar que ella sí se
-encuentra afecta al Impuesto al Valor Agregado, ya que corresponde al
-pago por un servicio que implica el ejercicio de una actividad
-mencionada en el artículo 20 N° 3 de la Ley sobre Impuesto a la Renta,
-como son las telecomunicaciones, de acuerdo a lo establecido por el
-artículo 2° N° 2 del D.L. N° 825, y que, además, es prestada dentro
-del territorio nacional.
-
-
-
-	Sin perjuicio de lo señalado anteriormente, las empresas chilenas que
-prestan servicios afectos a IVA a personas sin domicilio ni residencia
-en Chile, podrán acogerse a lo establecido en el artículo 12 letra E,
-N° 16 del D.L. N° 825, de 1974, que declara exentos de IVA a los
-ingresos percibidos por la prestación de servicios que sean calificados
-de exportación, a juicio exclusivo del Servicio Nacional de Aduanas.
-
-
-
-5.-	Con respecto a la segunda situación planteada, cabe señalar que la
-llamada realizada por el cliente “B” hacia el extranjero a través
-de una empresa de telecomunicaciones situada en Chile, constituye un
-servicio afecto a IVA, puesto que corresponde a una prestación
-remunerada que proviene del ejercicio de una actividad contemplada en el
-N° 3 del artículo 20 de la Ley sobre Impuesto a la Renta, como lo
-exige el artículo 2° N° 2 del D.L. N° 825, de 1974, debiendo
-aplicarse el impuesto sobre el 100% del valor de las operaciones
-respectivas, ello de conformidad con lo dispuesto por el artículo 15
-inciso 1° del D.L. N° 825, de 1974, que establece que “Para los
-efectos de este impuesto, la base imponible de las ventas o servicios
-estará constituida, salvo disposición en contrario de la presente Ley,
-por el valor de las operaciones respectivas...”.
-
-
-
-	Ahora bien, en cuanto al pago del 50% de la tasa de percepción que la
-empresa de telecomunicaciones chilena paga a la empresa extranjera por
-el uso del satélite y enlace de comunicación con el exterior, de
-conformidad a la normativa general citada, dichos pagos se encuentran
-afectos a IVA, puesto que corresponden a la remuneración de un servicio
-de telecomunicaciones que si bien es prestado en el extranjero es
-utilizado en Chile, cumpliendo de esta forma con los requisitos de
-territorialidad exigidos por el artículo 5° del D.L. N° 825.  
-
-
-
-	Sin perjuicio de lo señalado precedentemente, de acuerdo al artículo
-12 letra E, N° 7 del D.L. N° 825, de 1974, se encuentran exentos del
-Impuesto al Valor Agregado, “Los ingresos que no constituyen renta
-según el artículo 17 de la Ley de la Renta y los afectos al Impuesto
-Adicional establecido en el artículo 59 de la misma Ley”.
-
-
-
-	A su vez el artículo 59 de la Ley sobre Impuesto a la Renta en su N°
-2 señala que se aplicará un impuesto con tasa del 35% respecto de las
-rentas que se paguen o abonen en cuentas  de personas sin domicilio ni
-residencia en el país por concepto de: “2) Remuneraciones por
-servicios prestados en el extranjero. Con todo, estarán exentas de este
-impuesto las sumas pagadas en el exterior por fletes, por gastos de
-embarque y desembarque, por almacenaje, por pesaje, muestreo y análisis
-de los productos, por seguros y por operaciones de reaseguros que no
-sean de aquellos gravados en el número 3 de este artículo, comisiones,
-por telecomunicaciones internacionales, y por someter productos chilenos
-a fundición, refinación o a otros procesos especiales. Para gozar de
-esta exención será necesario que las respectivas operaciones sean
-informadas al Servicio de Impuestos Internos en el plazo que éste
-determine así como las condiciones de la operación, pudiendo este
-Servicio ejercer las mismas facultades que confiere el artículo 36º,
-inciso primero.”
-
-
-
-	De esta forma, las cantidades que la empresa de telecomunicaciones
-chilena pague a su homóloga en el extranjero por los servicios de uso
-del satélite y enlace de comunicación con el exterior equivalentes al
-50% de la tasa de percepción se encontrarán exentos de IVA, en la
-medida que dichas rentas cumplan con los requisitos legales para ser
-considerados como hecho gravado con el Impuesto Adicional del citado
-artículo 59 N° 2 de la Ley sobre Impuesto a la Renta, aun cuando dicho
-tributo no sea enterado efectivamente en arcas fiscales por gozar de la
-exención contemplada en la segunda parte de éste artículo, puesto que
-la exención de IVA favorece a las remuneraciones afectas al Impuesto
-Adicional, es decir, que califiquen como hecho gravado con dicho
-impuesto, sin importar si éste es efectivamente pagado o no por gozar
-de una exención particular a su respecto.
-
-
-
-6.-	Con relación a su consulta acerca de si cada Estado posee la
-potestad de gravar de acuerdo a la normativa interna los servicios
-descritos en su presentación, siempre que no existan convenios
-internacionales suscritos y aprobados por los países involucrados, cabe
-señalar que la posibilidad jurídica de establecer tributos, cualquiera
-sea su naturaleza, dentro de su territorio, es una facultad inherente a
-la existencia del Estado, de carácter exclusiva, irrenunciable,
-inalienable y permanente.
-
-
-
-	El Estado de Chile no es ajeno a esta posibilidad y posee potestad
-tributaria absoluta para, dentro de su territorio, a través de una ley
-de la república, imponer, suprimir, reducir o condonar tributos de
-cualquiera clase o naturaleza, determinar su forma, proporcionalidad o
-progresión, como asimismo establecer exenciones o modificar las
-existentes, facultad que se encuentra consagrada en el artículo 64
-inciso 4° N° 1 de la Constitución Política de la República.
-
-
-
-Sin perjuicio de lo señalado, es la propia Constitución la que
-reconoce ciertos límites al ejercicio de la soberanía al disponer en
-su artículo 5° inciso 2° que “El ejercicio de la soberanía
-reconoce como limitación el respeto a los derechos esenciales que
-emanan de la naturaleza humana. Es deber de los órganos del Estado
-respetar y promover tales derechos, garantizados por esta Constitución,
-así como por los tratados internacionales ratificados por Chile y que
-se encuentren vigentes”.
-
-
-
-De lo anterior se desprende que siendo la potestad tributaria una
-manifestación directa de la soberanía, debe reconocer como límite el
-pleno respeto de los derechos esenciales que emanan de la naturaleza
-humana, como también debe respetar los tratados internacionales
-ratificados por Chile y que se encuentren vigentes. 
-
-
-
-Por último, en caso de conflicto entre la legislación interna de Chile
-y un tratado internacional suscrito y ratificado por nuestro país, es
-éste el cual debe aplicarse con preferencia, puesto que además de ser
-ley de la República una vez publicado en el Diario Oficial, y de lo
-preceptuado por el citado inciso 2° del artículo 5° de la
-Constitución Política de la República, importa un compromiso asumido
-por el Estado de Chile frente a otro Estado u Estados lo que implica que
-siempre debe ser respetado, salvo en aquellos casos en que se haya hecho
-expresa reserva al momento de suscribir y ratificar el documento de que,
-en caso de conflicto, se privilegiará la aplicación de la normativa
-legal interna. 
-
-
-
-ALFREDO ECHEVERRIA HERRERA
-
-	     DIRECTOR (S)
-
-
-
-Oficio N° 336 de 28 de Enero de 2002	
-
-Subdirección Normativa
-
-Departamento de Impuestos Indirectos
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 33 BIS (ORD. N° 2984, DE 22.08.2002)
+
+Home | Ley Renta - 2002
+LEY SOBRE IMPUESTO A LA RENTA – ART. 33 BIS (ORD. N° 2984, DE 22.08.2002)
+
+FORMA DE IMPUTAR EL REMANENTE DE CRÉDITO A QUE SE REFIERE EL ARTÍCULO 33 BIS DE LA LEY DE LA RENTA A LOS EJERCICIOS SIGUIENTES.
+
+1.- Por Ordinario indicado en el antecedente, se señala que en fiscalización efectuada a la contribuyente que se indica, se detectó la utilización del crédito por adquisiciones o construcciones de activo fijo establecido en el artículo 33 bis de la Ley sobre Impuesto a la Renta, aplicando para el año tributario 2001 por concepto de dicho crédito un monto superior a las 500 unidades tributarias mensuales, argumentando que correspondía al crédito determinado por las compras realizadas en el ejercicio y más el saldo de los remanentes de años anteriores por igual concepto, según lo establece la Ley N° 19.578, en su artículo 4° transitorio. En relación con lo expuesto solicita se confirme o no el análisis efectuado sobre este tema, el cual difiere del sustentado por el contribuyente, basado en los fundamentos legales e instrucciones impartidas por el Servicio de Impuestos Internos que se indican a continuación:
+a) El artículo 33 bis de la Ley de Impuesto a la Renta en su inciso final (sic) dispone que:
+
+“En ningún caso el monto anual del crédito podrá exceder de 500 unidades tributarias mensuales, considerando el valor de la unidad tributaria mensual de cierre del ejercicio”.
+b) La Ley N° 19.578, en su artículo 4° transitorio autorizó a los contribuyentes que tienen derecho al crédito por activos fijos establecido en el artículo 33 bis de la Ley de la Renta, para que recuperen los remanentes que se produzcan de dicho crédito durante los años tributarios 1999 al 2002, ambos inclusive, hasta su total extinción, imputándolos al impuesto de Primera Categoría que les afecte en los ejercicios siguientes.
+El citado artículo 4° transitorio de la Ley N° 19.578, estableció que:
+“Artículo cuarto.- Durante los años tributarios 1999 a 2002, ambos inclusive, el excedente de crédito que se produzca por la aplicación de lo dispuesto en el artículo 33º bis de la Ley sobre Impuesto a la Renta, podrá deducirse del impuesto de primera categoría de los ejercicios siguientes. Si al término de dicho período persistiera un excedente, éste podrá deducirse del impuesto referido que se genere en los ejercicios posteriores, hasta su total extinción, imputándose a continuación del crédito del artículo 33 bis mencionado que se origine en el ejercicio respectivo.
+Para este efecto el excedente de crédito se reajustará de acuerdo a la variación del Indice de Precios al Consumidor, ocurrida entre el último día del mes anterior al del cierre del ejercicio en que se produzca el excedente y el último día del mes anterior al del cierre del ejercicio en que deba deducirse.”
+De la lectura de dicha norma se desprende que ella no contempla, en parte alguna, que el remanente de crédito por activos fijos se pueda aplicar en los ejercicios siguientes sin el tope general establecido en el inciso cuarto del artículo 33 bis de la Ley sobre Impuesto a la Renta.
+La norma en comento sólo estableció que el excedente de crédito que se produzca por la aplicación de lo dispuesto en el artículo 33 bis de la Ley sobre Impuesto a la Renta, podrá deducirse del Impuesto de Primera Categoría de los ejercicios siguientes, pero en ningún caso modificó la norma permanente vigente hasta la fecha, que dispone un tope de 500 UTM, como crédito al Impuesto de Primera Categoría que deba pagarse en un año tributario.
+
+c) El Director del Servicio, en uso de las atribuciones que le confiere el artículo 6° letra A) N° 1 del Código Tributario, ha interpretado las citadas disposiciones tributarias, impartiendo instrucciones sobre este crédito para la declaración de los impuestos anuales de los años tributarios 1999-2002, mediante las Circulares N°s. 3, de 11.01.99; 6, de 14.01.2000; 6, de 23.01.2001 y 26, de 22.03.2002.
+En las primeras tres Circulares ha dispuesto en la parte pertinente de créditos contra el impuesto que: “Crédito por bienes físicos del activo inmovilizado adquiridos nuevos o construidos por el contribuyente, equivalente al 4% del valor actualizado de dichos bienes al término del ejercicio, antes de deducir la depreciación correspondiente, con tope de 500 UTM vigentes en el mes de diciembre de 1999 (artículo 33 bis y 4° transitorio de la Ley N° 19.578/98) (Circulares N°s. 41/90, 44/93 y 53/98).
+En cuanto al año tributario 2002, la Circular N° 26, de 22.03.2002, instruyó para el Código 366 del Formulario N° 22, sobre Crédito por bienes físicos del activo inmovilizado, en su letra (d) lo siguiente: “De acuerdo a lo establecido por el artículo 4° transitorio de la Ley N° 19.578, de 1998, los contribuyentes antes indicados podrán adicionar al crédito del 4% que determinen por las inversiones en los bienes del activo inmovilizado efectuadas durante el año comercial 2001, hasta el máximo legal señalado anteriormente, el remanente de dicho crédito que les quedó pendiente de imputación por el Año Tributario 2001, conforme a la norma transitoria precitada, debidamente reajustado por el factor de actualización 1,031 equivalente a la VIPC de todo el año 2001.”
+c) De acuerdo a las normas e instrucciones transcritas, se puede concluir que el monto total del crédito del 4% por activo fijo a deducir en cada año tributario, incluyendo los remanentes actualizados de años anteriores, no podría exceder del límite general de 500 UTM establecido en el inciso cuarto del artículo 33 bis de la Ley sobre Impuesto a la Renta, criterio que difiere con el planteamiento del contribuyente.
+2.- Sobre el particular, cabe señalar en primer lugar, que conforme a lo dispuesto por el artículo 33 bis de la Ley de la Renta y cuyas instrucciones se contienen en las Circulares N°s. 41, de 1990 y 44, de 1993, los remanentes que resulten del crédito a que alude dicha norma, producto de su imputación al impuesto de Primera Categoría, no dan derecho a imputación a los ejercicios siguientes y menos a su devolución, situación que se hace presente expresamente en la Circular N° 41, citada anteriormente.
+3.- No obstante lo anterior, es preciso expresar que el artículo 4° transitorio de la Ley N° 19.578, de 1998, estableció la posibilidad que los remanentes de dicho crédito que se produzcan durante los años tributarios 1999 al 2002, podrán recuperarse en los ejercicios siguientes, hasta su total extinción, disponiendo expresamente dicha norma lo siguiente:
+“Artículo cuarto transitorio.- Durante los años tributarios 1999 a 2002, ambos inclusive, el excedente de crédito que se produzca por la aplicación de lo dispuesto en el artículo 33º bis de la Ley sobre Impuesto a la Renta, podrá deducirse del impuesto de primera categoría de los ejercicios siguientes. Si al término de dicho período persistiera un excedente, éste podrá deducirse del impuesto referido que se genere en los ejercicios posteriores, hasta su total extinción, imputándose a continuación del crédito del artículo 33 bis mencionado que se origine en el ejercicio respectivo.
+Para este efecto el excedente de crédito se reajustará de acuerdo a la variación del Indice de Precios al Consumidor, ocurrida entre el último día del mes anterior al del cierre del ejercicio en que se produzca el excedente y el último día del mes anterior al del cierre del ejercicio en que deba deducirse."
+Ahora bien, esta Dirección Nacional sobre lo dispuesto por la norma transitoria antes mencionada, instruyó mediante la Circular N° 53, de 1998, lo siguiente:
+“(a) De acuerdo a lo establecido por el artículo 4º transitorio de la Ley Nº 19.578, los contribuyentes que tengan derecho al crédito por activos fijos establecido en el artículo 33 bis de la Ley de la Renta (que llevan contabilidad completa), podrán recuperar en su totalidad en los años tributarios 1999 al 2002, ambos períodos inclusive, los remanentes que se les produzcan de dicho crédito por inversiones efectuadas en tales activos durante los ejercicios comerciales 1998 al 2001.
+(b) En otras palabras, los excedentes de crédito por activos fijos que se le generen a los citados contribuyentes en los ejercicios comerciales 1998 al 2001, por inversiones efectuadas en aquellos activos que dan derecho al citado crédito, conforme a las normas del artículo 33 bis de la Ley de la Renta, podrán ser recuperados en su totalidad imputándolos al impuesto de Primera Categoría que deba declararse en los años tributarios 1999 al 2002, ambos inclusive.
+Para los fines de esta recuperación dichos remanentes se actualizarán previamente por la Variación del Indice de Precios al Consumidor existente entre el último día del mes anterior al cierre del ejercicio comercial en que se produjeron y el último día del mes anterior al cierre del ejercicio comercial en que se imputen al impuesto de Primera Categoría del año tributario correspondiente.
+(c) Ahora bien, si al término del año tributario 2002 aún quedare un remanente de crédito por activos fijos por inversiones efectuadas durante los años comerciales 1998 al 2001, dicho remanente podrá imputarse al impuesto de Primera Categoría que deba declararse en los ejercicios tributarios posteriores hasta su total extinción o recuperación, debidamente actualizado bajo la misma modalidad indicada en la letra precedente, imputándose por su calidad de crédito recuperable, a continuación del crédito por igual concepto que se origine por inversiones en activos fijos efectuadas en el ejercicio comercial 2002 y siguientes.
+(d) Cabe señalar que la recuperación de los remanentes de crédito por activos fijos rige sólo por los años tributarios 1999 al 2002, ambos inclusive, por inversiones efectuadas durante los años comerciales 1998 a 2001, de lo que se concluye que los remanentes que se produzcan por inversiones realizadas a contar del ejercicio comercial 2002, no podrán recuperarse en los años tributarios siguientes, teniendo en este caso plena aplicación lo dispuesto en el artículo 33 bis de la Ley sobre Impuesto a la Renta, que no contempla el derecho a imputación del exceso de crédito a los ejercicios siguientes y que, además, en el inciso segundo de dicho precepto legal no permite expresamente su devolución.”
+4.- Por su parte, y con motivo de la Declaración de los Impuestos Anuales a la Renta, a través de los Suplementos Tributarios de los años respectivos, especialmente en el correspondiente al Año 2002, en cuanto a la aplicación de los remanentes del crédito en comento, se instruyó lo siguiente en el Código 366 del Recuadro N° 9 del reverso del Formulario N° 22:
+“c) El monto del mencionado crédito, asciende al 4% del valor actualizado del conjunto de los referidos bienes, conforme a las normas del Art. 41 Nº 2 de la Ley de la Renta, y antes de descontar la depreciación del período que afecta a los mismos, de acuerdo con lo dispuesto por el Art. 31 Nº 5 de la citada ley, y en el caso del arrendamiento con opción de compra de bienes corporales muebles nuevos, sobre el monto total del contrato actualizado, en la misma forma que los bienes del activo inmovilizado.
+En todo caso, el monto máximo anual por concepto de este crédito por el conjunto de las inversiones efectuadas en los mencionados bienes durante el ejercicio 2001, no podrá exceder de $ 14.262.000 (500 UTM vigente en el mes de diciembre del año 2001). Se hace presente que la referida rebaja tributaria no es anual, de tal modo que si los citados bienes adquiridos o construidos durante el ejercicio comercial respectivo tienen una existencia en la empresa inferior a un año, igualmente tienen derecho al citado crédito por su monto total.
+d) De acuerdo a lo establecido por el artículo 4º transitorio de la Ley Nº 19.578, de 1998, los contribuyentes antes indicados podrán adicionar al crédito del 4% que determinen por las inversiones en los bienes del activo inmovilizado efectuadas durante el año comercial 2001, hasta el máximo legal señalado anteriormente, el remanente de dicho crédito que les quedó pendiente de imputación por el Año Tributario 2001, conforme a la norma transitoria precitada, debidamente reajustado por el factor de actualización 1,031, equivalente a la VIPC de todo el año 2001.
+e) Ahora bien, si a los referidos contribuyentes en el Año Tributario 2002 se les produce un nuevo remanente de este crédito por ser el impuesto de Primera Categoría al cual se imputa inferior al mencionado crédito, incluyéndose el caso cuando el referido tributo de categoría no exista, ya sea, porque el contribuyente en el ejercicio en que procede su imputación se encuentra en una situación de pérdida tributaria o cuando el referido gravamen haya sido absorbido por otros créditos cuyos remanentes no dan derecho a imputación a los ejercicios siguientes ni a devolución, el citado remanente podrá recuperarse en los ejercicios siguientes dentro de los períodos tributarios indicados en el artículo 4º transitorio de la Ley Nº 19.578, debidamente actualizado.”
+5.- En consecuencia, y de conformidad a lo dispuesto en los números anteriores, se señala que los remanentes que se produzcan del crédito del artículo 33 bis de la ley del ramo durante los años tributarios 1999 al 2002, por inversiones efectuadas en los bienes que indica dicha norma en los ejercicios comerciales 1998 al 2001, para los efectos de su imputación a los ejercicios siguientes, en la forma actualizada que indica el artículo 4° transitorio de la Ley N° 19.578, no quedan supeditados al límite máximo de las 500 UTM que establece el referido artículo 33 bis en su inciso cuarto, ya que la norma transitoria precitada expresamente señala que dichos remanentes se podrán recuperar hasta su total extinción, siendo aplicable el mencionado límite de las 500 UTM para cuantificar el monto del citado crédito proveniente de los bienes físicos del activo inmovilizado adquiridos en el propio ejercicio en el cual se realizó la inversión respectiva; todo lo cual se encuentra acorde con las instrucciones impartidas sobre la materia, especialmente con lo indicado en la letra d) del número anterior que establece que de acuerdo a lo establecido por el artículo 4º transitorio de la Ley Nº 19.578, de 1998, los contribuyentes podrán adicionar al crédito del 4% que determinen por las inversiones en los bienes del activo inmovilizado efectuadas durante el año comercial 2001, hasta el máximo legal señalado anteriormente –referido el máximo legal antes indicado a las inversiones realizadas durante el año comercial 2001-, el remanente de dicho crédito que les quedó pendiente de imputación por el Año Tributario 2001, conforme a la norma transitoria precitada, debidamente reajustado por el factor de actualización 1,031, equivalente a la VIPC de todo el año 2001.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+OFICIO N° 2984, DE 22.08.2002
+
+DEPTO. IMPTOS. DIRECTOS
+
+SUBDIRECCION NORMATIVA

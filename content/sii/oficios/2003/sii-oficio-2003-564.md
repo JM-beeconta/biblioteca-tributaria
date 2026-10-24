@@ -4,81 +4,172 @@
 - Tipo: oficio
 - Número: 564
 - Año: 2003
-- Fecha: 2003-02-14
-- Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja442.doc
-- Hash SHA-256: 5d346556229f5ffb06be3a18da19267bff67e9c753aa235c0b3cf3955d4996c8
+- Fecha: 2003-09-12
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja564.htm
+- Hash SHA-256: 01134ebe8b848702522fd7cd6da5718c4d5f2056349089674f74b2f3cd8fd172
 
 ## Resumen
 
-Word Vigencia temporal del impuesto de timbres y estampillas al descuento de letra de cambio. ( Oficio N� 564, de 14 de Febrero de 2003).
+12.09.2003) Ley sobre Impuesto a la Renta – Art. 21 LIR Word Situación tributaria del impuesto territorial frente al Registro FUT. (Ord. N° 4518, de 12.09.2003)
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"circular","number":65,"year":2001}
+- {"type":"oficio","number":2762,"year":2003}
 
 ## Texto extraído
 
-DECRETO LEY N° 3.475, DE 1980, IMPUESTO DE TIMBRES Y ESTAMPILLAS. OFICIO  N°
-564, DE 14 DE FEBRERO DE 2003.-
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 21 LIR (ORD. N° 4518, DE 12.09.2003)
 
-VIGENCIA TEMPORAL DEL IMPUESTO DE TIMBRES  Y  ESTAMPILLAS  AL  DESCUENTO  DE
-LETRA DE CAMBIO.
+Home | Ley Renta - 2003
+LEY SOBRE IMPUESTO A LA RENTA – ART. 21 LIR (ORD. N° 4518, DE 12.09.2003)
 
+SITUACIÓN TRIBUTARIA DEL IMPUESTO TERRITORIAL FRENTE AL REGISTRO FUT.
 
-1.-   Se ha recibido en este Servicio el oficio señalado en el antecedente,
-     mediante el cual el Juzgado de Letras solicita se informe si  acaso  en
-     los meses de enero, febrero y marzo  del  año  2002  una  operación  de
-     crédito de dinero hecha bajo la forma de descuento de letra  de  cambio
-     estaba afecta al pago de impuesto de timbres y estampillas y,  en  caso
-     afirmativo, solicita remitir las circulares e instrucciones  impartidas
-     sobre la materia.
+1.- Por presentación indicada en el antecedente, solicitan un pronunciamiento respecto de las materias que exponen a continuación:
 
+a) IMPUTACION DEL IMPUESTO TERRITORIAL (CONTRIBUCION DE BIENES RAICES) AL FUT
 
+Ese organismo fiscalizador a través del Oficio N° 4306, de 26.11.99, estableció que el Impuesto de Primera Categoría, debía registrarse en columna separada en el Fondo de Utilidades Tributables, es decir, se impuso la teoría del “FUT NETO”. Este procedimiento fue ratificado mediante el Oficio N° 2762, de 03.06.2003, a raíz de una reconsideración que solicitaron del Oficio N° 4306, antes citado. Agregan, que en atención a que en dichos instructivos no se aclara cual sería el tratamiento de la imputación de las contribuciones de bienes raíces en el desarrollo del FUT, cuando éstas se rebajan del Impuesto de Primera Categoría, solicitan se sirva instruir sobre la mecánica aplicable en la especie, teniendo presente los siguientes planteamientos:
+PRIMERA ALTERNATIVA:
 
+EL CREDITO POR CONTRIBUCIONES SUPERA EL IMPUESTO DE PRIMERA CATEGORÍA
+UTILIDAD DEL BALANCE SUSCEPTIBLE DE SER DISTRIBUIDA ................................................................... $ 14.000.000
 
-2.-   Al respecto, se debe precisar qué tipo  de  descuento  de  letras  de
-     cambio se ha verificado en la  especie,  situación  que  el  oficio  no
-     aclara.    En efecto, de acuerdo a la Ley  de  Impuesto  de  Timbres  y
-     Estampillas, existen dos hechos gravados relacionados con el  descuento
-     de letras: a) el hecho gravado especifico consistente en  el  descuento
-     bancario de letras; y, b) el  hecho  gravado  genérico  consistente  en
-     cualquier otro documento que  contenga  una  operación  de  crédito  de
-     dinero.    Por su parte, son operaciones de crédito de dinero  aquellas
-     descritas en el artículo 1° de la Ley N°18.010, entre las cuales figura
-     el descuento “de documentos representativos de obligaciones de dinero”.
-        En consecuencia, si el acto o contrato a que se refiere el  tribunal
-     puede subsumirse  en  alguna  de  las  hipótesis  antes  descritas,  se
-     encuentra gravado con el impuesto de Timbres y Estampillas.
+SE AGREGA:
 
+Gastos de automóviles ............................................ $ 2.000.000
 
+Contribución de bienes raíces ................................. $ 4.000.000
 
+RENTA LIQUIDA IMPONIBLE ................................. $ 20.000.000
+IMPUESTO DE PRIMERA CATEGORÍA:16% s/ $ 20.000.000 ........................................................ $ 3.200.000
 
-3.-   Esclarecido esto,  cabe  todavía  precisar  si  los  actos  descritos
-     precedentemente estaban o no gravados entre los meses de enero, febrero
-     y marzo del año 2002.   Al respecto, el actual texto de  la  Ley  sobre
-     Impuesto de Timbres y Estampillas, en lo pertinente, es el mismo  a  la
-     fecha indicada en su consulta.   Por lo tanto, si el hecho descrito por
-     ese  Tribunal  subsume  en  alguna  de  las  hipótesis  descritas,   se
-     encontraba gravado con el Impuesto de  Timbres  y  Estampillas  en  los
-     meses de enero a marzo de 2002.
+MENOS: Contribución de bienes raíces .......................... $ (4.000.000)
 
+IMPUESTO A PAGAR (PROVISIÓN) ............................. 0
+DETALLE FUT NETO(C/c) 16%) IMPUESTO DE PRIMERA(C/c 0%)
 
-4.-   Finalmente, en cuanto a la solicitud de acompañar  las  circulares  e
-     instrucciones sobre la materia, cabe señalar que, por  tratarse  de  un
-     punto de derecho, específicamente, sobre la  existencia  de  una  norma
-     impositiva  y  su  vigencia  temporal,   no   existen   circulares   ni
-     instrucciones al respecto. Sin perjuicio de  lo  anterior,  es  posible
-     consultar la página web  de  este  Servicio  en  www.sii.cl,  donde  se
-     encuentran los textos legales actualizados, circulares e  instrucciones
-     sobre diversas materias tributarias, incluyendo la Ley  Sobre  Impuesto
-     de Timbres y Estampillas.
+R.L.I. …………………………………. $ 16.800.000 $ 3.200.000
 
+MENOS :
 
-BENJAMÍN SCHUTZ GARCIA
-DIRECTOR (S)
+Contrib. Bs. Rs. (Hasta tope Impto.).. $ (3.200.000)
 
+Contrib. Bs. Rs. (Exceso s/ Impto.) .. $ (800.000)
 
-Oficio N° 564, de 14-02-2003.-
-Subdirección Normativa
-Depto. Técnica Tributaria
+Gastos Automóviles ......................... $ (2.000.000)
+
+SALDO AÑO SIGUIENTE .............. $ 14.000.000 0
+En esta alternativa primero no se altera la utilidad a distribuir, pues la empresa realmente dispone de $ 14.000.000 de utilidad susceptible de distribuir, en segundo lugar, sólo se daría crédito al exceso de contribuciones por sobre el Impuesto de Primera Categoría y jamás se entregaría un crédito superior al impuesto del referido tributo. (0,190476 x 16.800.000).
+Cabe señalar, que actualmente se está concediendo el crédito de Primera Categoría al total de las contribuciones que se imputan al citado impuesto, por cuya razón debieran imputarse al “FUT NETO”, lo que provoca una distorsión en el saldo de utilidades netas disponibles, ya que en esas condiciones dicho saldo sería de $ 10.800.000, en circunstancias que la empresa realmente dispone de utilidades por $ 14.000.000.
+
+SEGUNDA ALTERNATIVA:
+EL CREDITO POR CONTRIBUCIONES NO SUPERA EL IMPUESTO DE PRIMERA CATEGORÍA
+UTILIDAD DEL BALANCE SUSCEPTIBLE DE SER DISTRIBUIDA ................................................................... $ 14.000.000
+
+SE AGREGA:
+
+Gastos de automóviles .................................................... $ 2.800.000
+
+Contribución de bienes raíces ......................................... $ 1.500.000
+
+Provisión de Impuesto de Primera Categoría .................. $ 1.700.000
+
+RENTA LIQUIDA IMPONIBLE ......................................... $ 20.000.000
+IMPUESTO DE PRIMERA CATEGORÍA:16% s/ $ 20.000.000 ........................................................ $ 3.200.000
+
+MENOS: Contribución de bienes raíces .......................... $ (1.500.000)
+
+IMPUESTO DE PRIMERA (PROVISIÓN) .......................... $ 1.700.000
+DETALLE FUT NETO(C/c) 16%) IMPUESTO DE PRIMERA(C/c 0%)
+
+R.L.I. …………………………………. $ 16.800.000 $ 3.200.000
+
+MENOS :
+
+Contrib. Bienes Raíces ................... $ (1.500.000)
+
+Gastos Automóviles ......................... $ (2.800.000)
+
+SALDO AÑO SIGUIENTE .............. $ 14.000.000 $ 1.700.000
+Como se puede apreciar, en este caso también se logran los objetivos comentados en la alternativa anterior.
+Por tanto, solicitan se instruya si el procedimiento expuesto es el acertado o existe otro mecanismo que logre los mismos objetivos.
+b) PRESENTACION DE LAS DEPRECIACIONES ACELERADAS ACORDE CON LA NUEVA MECANICA ESTABLECIDA EN EL N° 5 DEL ARTICULO 31 DE LA LEY DE LA RENTA
+En atención a que este Servicio ha instruído que la diferencia de depreciaciones aceleradas versus la normal debe registrarse en una columna separada en el Libro FUT, para aplicar la nueva normativa que rige esta materia, solicitan que se permita llevar este control en un cuadro o registro separado en el FUT, toda vez que en el sistema computacional que se ha habilitado para estos efectos, resulta engorroso y confuso el control de esa información a través de una columna. Cabe señalar que lo planteado es sólo una forma de entregar tal información sin que se altere para nada las instrucciones dadas por este Servicio en relación con esa materia.
+2.- Sobre el particular, cabe señalar que analizados los ejemplos que plantean en su presentación, este Servicio se permite informar que no comparte el criterio expuesto en los citados ejercicios en cuanto a la forma de imputar en el registro FUT el impuesto territorial, ya que dicha modalidad no se ajusta a lo dictaminado por este organismo, en cuanto a que los gastos rechazados a que se refiere el artículo 21 de la Ley de la Renta, dentro de los cuales se comprenden las contribuciones de bienes raíces, deben deducirse de las utilidades tributables de las cuales están formando parte, según lo establecido en la Resolución Ex. N° 2154, de 1991, que reglamenta el FUT y Circulares N°s. 42 y 60, de 1990 y 17, de 1993, y no del impuesto pues la imputación de las contribuciones se realiza a la fecha de la declaración respectiva.
+De tal manera, la forma correcta de registro para los mismos ejercicios indicados deberá ser la siguiente:
+
+PRIMERA ALTERNATIVA:
+
+EL CREDITO POR CONTRIBUCIONES SUPERA EL IMPUESTO DE PRIMERA CATEGORÍA
+UTILIDAD DEL BALANCE SUSCEPTIBLE DE SER DISTRIBUIDA ................................................................... $ 14.000.000
+
+SE AGREGA:
+
+Gastos de automóviles ............................................ $ 2.000.000
+
+Contribución de bienes raíces ................................. $ 4.000.000
+
+RENTA LIQUIDA IMPONIBLE ................................. $ 20.000.000
+IMPUESTO DE PRIMERA CATEGORÍA:16% s/ $ 20.000.000 ........................................................ $ 3.200.000
+
+MENOS: Contribución de bienes raíces .......................... $ (4.000.000)
+
+IMPUESTO A PAGAR (PROVISIÓN) ............................. 0
+DETALLE FUT NETO(C/c) 16%) IMPUESTO DE PRIMERA(C/c 0%)
+
+R.L.I. …………………………………. $ 16.800.000 $ 3.200.000
+
+MENOS :
+
+Contrib. Bs. Rs. ................................ $ (4.000.000)
+
+Gastos Automóviles ......................... $ (2.000.000)
+
+SALDO AÑO SIGUIENTE .............. $ 10.800.000 $ 3.200.000
+SEGUNDA ALTERNATIVA:
+
+EL CREDITO POR CONTRIBUCIONES NO SUPERA EL IMPUESTO DE PRIMERA CATEGORÍA
+UTILIDAD DEL BALANCE SUSCEPTIBLE DE SER DISTRIBUIDA ................................................................... $ 14.000.000
+
+SE AGREGA:
+
+Gastos de automóviles .................................................... $ 2.800.000
+
+Contribución de bienes raíces ......................................... $ 1.500.000
+
+Provisión de Impuesto de Primera Categoría .................. $ 1.700.000
+
+RENTA LIQUIDA IMPONIBLE ......................................... $ 20.000.000
+IMPUESTO DE PRIMERA CATEGORÍA:16% s/ $ 20.000.000 ........................................................ $ 3.200.000
+
+MENOS: Contribución de bienes raíces .......................... $ (1.500.000)
+
+IMPUESTO DE PRIMERA (PROVISIÓN) .......................... $ 1.700.000
+FUT NETO(C/c) 16%) IMPUESTO DE PRIMERA(C/c 0%)
+
+R.L.I. …………………………………. $ 16.800.000 $ 3.200.000
+
+MENOS :
+
+Contrib. Bienes Raíces ................... $ (1.500.000)
+
+Gastos Automóviles ......................... $ (2.800.000)
+
+SALDO AÑO SIGUIENTE .............. $ 12.500.000 $ 3.200.000
+En todo caso se aclara, que la forma de imputación antes indicada, es aplicable cualquiera que sea la calidad jurídica del contribuyente, recuperándose en la declaración del impuesto Global Complementario o Adicional el impuesto de Primera Categoría pagado por la empresa, hasta el monto y en la forma que establece la ley.
+Con la modalidad que plantean los recurrentes, se recupera el referido tributo en una cantidad superior a la que permite la ley, con lo cual se vuelve a la propuesta que fue observada en el Oficio N° 2762, de 2003, por no tener sustento legal. En efecto, de la simple recomposición del Impuesto Global Complementario respecto de la primera alternativa, se puede apreciar, que un contribuyente individual o los socios, por ejemplo, recuperarían el crédito por los gastos rechazados (que están obligados a declararlos por el desembolso total) que ascienden a $ 4.000.000 y $ 2.000.000 y, posteriormente, también por el retiro del saldo de $14.000.000, lo que en total suman más de $ 3.800.000 en circunstancias que el impuesto pagado fue de $ 3.200.000.-
+Igual situación se produce con cualquier otro tipo de organización empresarial, en relación a la forma de tributación que establece la ley y al monto que en definitiva ésta permite que se recupere como crédito por concepto del impuesto de Primera Categoría pagado.
+3.- En cuanto a la segunda consulta formulada, se informa que este organismo no ve inconveniente en que se lleve el control de la diferencia de depreciación acelerada respecto de la normal en la forma que lo señalan los recurrentes en su escrito, atendido a que según lo aseveran tal procedimiento no altera los efectos tributarios respecto de dicha partida, según las instrucciones que este Servicio impartió sobre la materia mediante la Circular N° 65, de 2001.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+OFICIO N° 4518, DE 12.09.2003
+
+DEPTO. IMPTOS. DIRECTOS
+
+SUBDIRECCION NORMATIVA

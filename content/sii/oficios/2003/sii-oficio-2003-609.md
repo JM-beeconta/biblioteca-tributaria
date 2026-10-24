@@ -4,233 +4,56 @@
 - Tipo: oficio
 - Número: 609
 - Año: 2003
-- Fecha: 2003-02-20
+- Fecha: 2003-11-26
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja443.doc
-- Hash SHA-256: c503842f412cf56a71ab7e62f3ea7879fef31d973929f0d933ed3e24ca0b0b21
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja609.htm
+- Hash SHA-256: e63af93799946f211c69c0508634eec6c86271a2d410bd837e330689fa62a157
 
 ## Resumen
 
-Word Impuesto al Valor Agregado en suministro de energ�a el�ctrica que es prestado entre empresas generadoras de electricidad como consecuencia de la operatoria del Sistema Interconectado.
+Ley de Impuesto a las Ventas y Servicios. Oficio N° 6059 de 26 de Noviembre de 2003.- Word No procede considerar como “centro vitivinícola” a sociedad anónima, para efectos de otorgarle el carácter de productor, conforme a lo dispuesto en el artículo 100°, del D.S. de Hacienda N° 55 y así liberarse del impuesto adicional establecido en el artículo 42°, letra c), del D.L. N° 825, en las ventas de vino a granel que efectúe a otros vendedores sujetos del impuesto.
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"20"}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N° 609 de 20 de Febrero  de
-      2003.
+VENTAS Y SERVICIOS - LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. OFICIO N° 6059 DE 26 DE NOVIEMBRE DE 2003.-
 
-Impuesto al Valor  Agregado  en  suministro  de  energía  eléctrica  que  es
-prestado  entre  empresas generadoras de electricidad como  consecuencia  de
-la operatoria del Sistema Interconectado.
+Home | Ventas y Servicios - 2003
+LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. OFICIO N° 6059 DE 26 DE NOVIEMBRE DE 2003.-
 
-1.-   Se ha recibido en  esta  Dirección  Nacional  Oficio  indicado  en  el
-      antecedente,  por  medio  del  cual  solicita  un  pronunciamiento  en
-      relación a determinar si la emisión de una factura  otorgada  por  una
-      generadora de energía eléctrica a otra, corresponde o no a una  venta,
-      de acuerdo con el D.L. N° 825, o bien sólo da cuenta de una diputación
-      para el cobro de la energía de la generadora que produjo efectivamente
-      la electricidad y que, cumpliendo con  las  disposiciones  del  Centro
-      Económico de Despacho de  Carga,  la  inyecta  a  la  red.  Al  efecto
-      acompaña una  minuta  explicativa  sobre  la  materia  de  la  empresa
-      interesada.
+NO PROCEDE CONSIDERAR COMO “CENTRO VITIVINÍCOLA” A SOCIEDAD ANÓNIMA, PARA EFECTOS DE OTORGARLE EL CARÁCTER DE PRODUCTOR, CONFORME A LO DISPUESTO EN EL ARTÍCULO 100°, DEL D.S. DE HACIENDA N° 55 Y ASÍ LIBERARSE DEL IMPUESTO ADICIONAL ESTABLECIDO EN EL ARTÍCULO 42°, LETRA C), DEL D.L. N° 825, EN LAS VENTAS DE VINO A GRANEL QUE EFECTÚE A OTROS VENDEDORES SUJETOS DEL IMPUESTO.
 
-      En dicha minuta, la empresa XXXXXXXXXXX,  señala  que  en  el  sistema
-      eléctrico existe, entre otros, el Sistema Eléctrico Interconectado del
-      Norte Grande, que es el encargado  de  la  generación,  transmisión  y
-      distribución de la electricidad en esa zona del país.
+1.- Se ha recibido en esta Dirección Nacional su oficio del antecedente, mediante el cual solicita un pronunciamiento de esta Superioridad respecto de si una empresa, constituida como sociedad anónima, puede considerarse como “centro vitivinícola”, para efectos de otorgarle el carácter de productor, conforme a lo dispuesto en el artículo 100°, del D.S. de Hacienda N° 55 y así liberarse del impuesto adicional establecido en el artículo 42°, letra c), del D.L. N° 825, en las ventas de vino a granel que efectúe a otros vendedores sujetos del impuesto.
 
-      Este sistema, al igual  que  los  demás  existentes  en  el  país,  se
-      encuentran regulados por los Centros de Despacho Económico  de  Carga,
-      que coordinan la generación  de  energía  eléctrica  de  las  diversas
-      generadoras, determinando la  oportunidad  y  la  cantidad  que  deben
-      producir  e  inyectar  al  sistema,  debiendo  preferirse  a  aquellas
-      empresas que tengan la producción más económica.
+2.- El artículo 42°, letra c), del D.L. N° 825, de 1974, grava con un impuesto adicional, con tasa de 15%, las ventas o importaciones, sean éstas últimas habituales o no, de vinos destinados al consumo, comprendidos los vinos gasificados, los espumosos o champaña, los generosos o asoleados, chichas y sidras destinadas al consumo, cualquiera que sea su envase, cervezas y otras bebidas alcohólicas, cualquiera que sea su tipo, calidad o denominación.
 
-      En  este  contexto,  existen  generadoras  que  poseen  contratos  con
-      empresas de  la  gran  minería  del  cobre  para  abastecerlas  de  la
-      electricidad que ellas necesitan. Sin embargo, en  los  hechos,  puede
-      ocurrir que esas mismas generadoras, por producir a mayor costo o bien
-      por no poseer la capacidad suficiente de inyectar la energía necesaria
-      al sistema, por instrucción del Centro de Despacho Económico de Carga,
-      no abastecen con su energía al Sistema.
+A su vez, el artículo 43°, inciso segundo, del mismo decreto ley, dispone en lo pertinente que no se encuentran afectas al señalado impuesto adicional, las ventas de vinos a granel efectuadas por productores a otros vendedores sujetos a este impuesto.
 
-      El Sistema Interconectado  se aplica a todas las empresas  generadoras
-      sin distinguir si poseen contrato o no con algún cliente  determinado,
-      el cual siempre será satisfecho en su demanda por la electricidad  que
-      retira del Sistema y le facturará su consumo total la empresa  con  la
-      cual tiene el contrato respectivo, aún cuando se haya abastecido de la
-      energía que produjo otra u otras empresas.
+Por otra parte, el artículo 89°, del D.S. de Hda. N° 55, de 1975, contiene algunos conceptos para efectos de la aplicación y control del impuesto adicional a las ventas e importaciones de bebidas alcohólicas, señalando en lo pertinente que debe entenderse por:
 
-      Posteriormente, la empresa eléctrica que facturó a la  empresa  minera
-      por el consumo de energía que en  parte  o  en  su  totalidad  no  fue
-      generada por la facturadora, deberá proceder  a  cancelar  la  energía
-      utilizada a las otras generadoras que si produjeron  efectivamente  la
-      energía, las cuales emiten una  factura  con  la  finalidad  de  dejar
-      documentado el cobro, pero sin aplicar el IVA.
+a) Productor: todo propietario, arrendatario o tenedor de un viñedo a cualquier título, que produzca vino y/o chicha con uvas de su propia producción o adquiridas de terceros, como también aquél que destine su producción de uvas en forma total o parcial a la vinificación en otros establecimientos, sin perjuicio de lo establecido en el artículo 100°. Igualmente se considerará productor a todo el que fabrique sidra o chicha de manzanas o de otras frutas.
 
-      De conformidad con lo sostenido por la empresa XXXXXXXXXXXXX, el  pago
-      que una generadora realiza a  otra generadora por  el  consumo  de  su
-      cliente importa una intermediación para el cobro y no una venta  entre
-      generadoras, por cuanto no se  dan  los  requisitos  del  contrato  de
-      compraventa, ya que no hay consentimiento sobre la transacción, por lo
-      que no puede  ser  considerada  como  una  convención.  Este  pago  es
-      consecuencia de las instrucciones que imparte el  Centro  de  Despacho
-      Económico de Carga que es el  organismo  que   determina  qué  empresa
-      produce la energía inyectada al Sistema, y no  a  una  compraventa  de
-      energía eléctrica de una generadora a otra, por lo que la facturación,
-      argumenta la empresa, obedece sólo a la  necesidad  de  documentar  el
-      cobro.
+b) Elaborador: el que elabora vinos, chichas o sidras, ya sea de su propia producción, adquiridas de terceros o por cuenta ajena.
 
-2.-   El artículo 8º del D.L. N° 825, establece que  el  Impuesto  al  Valor
-      Agregado afecta a las ventas y servicios. Por su parte, el artículo 2°
-      número 2º), del mismo decreto  ley,  dispone  que  por  “servicio”  se
-      entenderá, “la acción o prestación que una persona realiza para otra y
-      por la cual percibe un interés,  prima,  comisión  o  cualquiera  otra
-      forma de remuneración, siempre  que  provenga  del  ejercicio  de  las
-      actividades comprendidas en los Nºs  3 y 4, del artículo  20°,  de  la
-      Ley sobre Impuesto a la Renta.”.
+c) Envasador: el que envasa vino, chicha o sidra de producción propia, adquirida de terceros o por cuenta ajena, en envases legalmente autorizados para el expendio de dichos productos al consumidor.
 
+Por último, el artículo 100°, del D.S. de Hda. N° 55, dispone que: “Las cooperativas y centros vitivinícolas tendrán el carácter de productores para todos los efectos legales y reglamentarios ............”.
 
-     Por su parte, el articulo 52º, del citado decreto ley,  establece  que
-     “Las personas que celebren cualquier  contrato  o  convención  de  los
-     mencionados en los Títulos  II  y  III  de  esta  ley  deberán  emitir
-     facturas o boletas, según el caso, por las operaciones  que  efectúen.
-     Esta obligación regirá aun cuando en  la  venta  de  los  productos  o
-     prestación de los servicios no se apliquen los impuestos de esta  ley,
-     incluso cuando se trate de convenciones  que  versen  sobre  bienes  o
-     servicios exentos de dichos impuestos.”.
+“Aquellos productores que, siendo integrantes de estas organizaciones, no entregaren a éstas la totalidad de su producción de uva, estarán obligados, cuando el Servicio así lo requiera, a efectuar la declaración de cosecha al igual que los demás productores, en las condiciones indicadas en el artículo 98°, por aquella producción no entregada a dichas organizaciones”.
 
+3.- Al respecto cabe señalar que en Ord. N° 3788, de 21/10/2002, esta Dirección Nacional se pronunció sobre la tributación con el impuesto adicional del artículo 42°, letra c), del D.L. N° 825, que afecta a las ventas de vino a granel efectuadas por el contribuyente a que se refiere la consulta. En dicho oficio, se concluyó que el contribuyente tiene calidad de comerciante mayorista, además de elaborador y envasador conforme a las definiciones entregadas por el D.S. de Hda. N° 55, por lo tanto la venta de vino a granel que realice, se encuentra gravada con el referido tributo, en razón de que la excepción a la aplicación del impuesto adicional, establecida en el inciso final del artículo 43°, sólo se aplica a las ventas de vino a granel efectuadas por productores a otros vendedores sujetos del impuesto adicional, situación que no ocurre en el caso del contribuyente, quien carece de la calidad de productor.
 
-      El articulo  53º,  señala  que  “Los  contribuyentes  afectos  a  los
-     impuestos de esta  ley  estarán  obligados  a  emitir  los  siguientes
-     documentos:
+Por otra parte, no es posible considerar al contribuyente como “centro vitivinícola”, a los cuales el artículo 100°, del Reglamento considera como productores, por cuanto, al tenor de la normativa indicada, el mencionado artículo 100°, se refiere a organizaciones cuyo objetivo es básicamente procesar la uva recibida, según dispone la parte final del inciso primero, de sus “cooperados o asociados”, de lo cual se desprende, tal como señala en su presentación, que dichas organizaciones deben ser organizaciones sin fines de lucro, como lo son las cooperativas.
 
-     a)    Facturas, incluso respecto de sus ventas o servicios exentos, en
-     las operaciones que realicen  con  otros  vendedores,  importadores  y
-     prestadores de servicios y, en  todo  caso,  tratándose  de  ventas  o
-     promesas de venta de inmuebles o de  los  contratos  señalados  en  la
-     letra e) del artículo 8º, gravados con el impuesto del  Título  II  de
-     esta ley.”.
+Por lo expuesto, no procede entonces que el contribuyente sea considerado como centro vitivinícola, encontrándose gravadas con el impuesto adicional establecido en el artículo 42°, letra c), del D.L. N° 825, todas las ventas de vino a granel que realice.
+JUAN TORO RIVERA
 
+DIRECTOR
+Oficio N° 6059 de 26-11-2003
 
-3.-   Sobre el particular, cabe señalar en primer  lugar  que,  si  bien  la
-     energía eléctrica reviste  los  caracteres  de  un  bien  corporal  de
-     naturaleza mueble,  esta  Dirección  Nacional  se  ha  pronunciado  en
-     reiteradas oportunidades en el sentido que este bien no es transferido
-     como una simple mercancía, sino que es proveído al  destinatario  como
-     parte de un servicio de suministro que se le presta.
+Subdirección Normativa
 
-      Como se sabe, el suministro de bienes constituye un acto de  comercio,
-      el cual se encuentra gravado con el impuesto al valor  agregado,  toda
-      vez que configura un servicio en los términos definidos por el  número
-      2°), del artículo 2°, del D.L. 825, citado.
-
-       Ahora  bien,  la  circunstancia  de  que  el  suministro  de  energía
-      eléctrica sea prestado directamente a particulares  o  entre  empresas
-      generadoras, no altera de modo alguno la naturaleza de  la  operación,
-      la cual sigue siendo un servicio.
-
-4.-    En el caso en análisis, según lo planteado en la consulta, existe  un
-      contrato  en  virtud  del  cual  una  empresa  generadora  de  energía
-      eléctrica se obliga a suministrar electricidad a una o varias empresas
-      en particular, en este caso de la  gran  minería  del  cobre,  lo  que
-      deberá hacer ya sea con energía de producción propia o adquirida  para
-      tal  finalidad.  Cabe   señalar   que   por   requerimientos   de   la
-      infraestructura del Sistema Interconectado, la empresa cliente  retira
-      la energía del Sistema y no  directamente  de  la  empresa  generadora
-      contratada,  la  que  facturará  directamente  el  total  del  consumo
-      realizado.
-
-      Al respecto, cabe tener presente que, sin  perjuicio  de  la  relación
-      contractual que puede existir entre una empresa generadora de  energía
-      eléctrica  y  un  cliente  particular,   por   disposición   legal   y
-      reglamentaria corresponde al organismo de coordinación de la operación
-      o Centro de Despacho Económico de Carga, determinar cuál es la empresa
-      generadora que en definitiva inyecta la energía eléctrica  al  Sistema
-      Interconectado, por lo que en los hechos nada asegura que  la  empresa
-      que se comprometió a suministrar electricidad a un cliente  específico
-      pueda hacerlo con su propia producción.
-
-      De lo anterior se desprende que la energía eléctrica consumida por  un
-      cliente particular de una empresa generadora, no siempre corresponderá
-      a aquella producida por la empresa con la cual suscribió  el  contrato
-      de suministro, sino que a la energía generada por otra empresa,  según
-      determine el Centro de Despacho Económico de Carga.
-
-5.-   En cuanto a la naturaleza de la operación en  análisis,  cabe  señalar
-      que de lo dispuesto en los artículos 81° y 91°, del D.F.L.  N°  1,  de
-      1982, del Ministerio de Minería, Ley General de Servicios  Eléctricos,
-      y 256° y siguientes del Reglamento de dicha ley, contenido en el  D.S.
-      N° 327, de 1998, resulta que, debido a la forma de operar del  Sistema
-      Interconectado, las empresas que  efectivamente  inyectan  su  energía
-      eléctrica al Sistema, transfieren la electricidad a aquellas  empresas
-      que tienen la obligación contractual de proporcionarla a sus  clientes
-      y que no la han generado en cantidad suficiente para cumplir  con  sus
-      obligaciones. Tal transferencia implica desde luego  el  traspaso  del
-      dominio de la energía de una empresa generadora a otra.
-
-      Ahora bien, dicha transferencia de energía  no  se  efectúa  a  título
-      gratuito. En efecto, los pagos que se efectúan entre  las  generadoras
-      en cumplimiento a lo dispuesto por el artículo 266 del  Reglamento  de
-      la Ley General de Servicios Eléctricos, citado, corresponden al precio
-      de transferencia de la energía eléctrica.
-
-      Lo anterior resulta manifiesto de lo dispuesto en  el  inciso  segundo
-      del artículo 91 de la Ley General de Servicios Eléctricos, que  señala
-      que las transferencias  de  energía  entre  empresas  eléctricas,  que
-      posean medios de generación operados en  sincronismo  con  un  sistema
-      eléctrico y que resulten de la coordinación  de  su  operación,  serán
-      valorizadas de  acuerdo  a  los  costos  marginales  instantáneos  del
-      sistema eléctrico. Esta disposición reconoce expresamente  que  existe
-      una transferencia de energía eléctrica, esto es,  una  enajenación  de
-      dicho bien, entre empresas generadoras, la cual se produce por  efecto
-      de  la  coordinación  en  la  generación  e   inyección   al   Sistema
-      Interconectado que instruye el Centro de Despacho Económico de  Carga,
-      quien además debe valorar esta transferencia de acuerdo a  las  normas
-      que establece el Reglamento.
-
-      Asimismo, las normas del  Párrafo  2°,  del  Capítulo  3°  del  citado
-      Reglamento, denominado “Transacciones entre Generadores”, en  especial
-      los artículos 257, 260, 264, 265  y  266,   al  regular  la  forma  de
-      determinar los valores que se  deben  cobrar  por  la  utilización  de
-      energía eléctrica por parte de clientes de otras generadoras  diversas
-      de aquellas que efectivamente inyectaron la  energía  al  Sistema,  se
-      refieren  siempre  a  esta  operación  como  la  valoración   de   una
-      transferencia de energía, es decir, como retribución por un suministro
-      de energía eléctrica.
-
-      De  esta  forma,  de  las  normas  citadas  puede  concluirse  que  la
-      naturaleza jurídica de los pagos que deben  efectuarse  entre  sí  las
-      empresas generadoras,  no  es  un  mero  reembolso  de  dinero  o  una
-      intermediación para el cobro como asevera el contribuyente,  sino  que
-      constituye el precio por la transferencia de la energía eléctrica.
-
-
-      Por último, cabe consignar que el hecho de que no exista  un  contrato
-      de suministro de energía eléctrica entre las partes, no es impedimento
-      para que exista efectivamente un suministro de electricidad entre  las
-      generadoras, ya que éste se produce en la especie  por  la  operatoria
-      del Sistema Interconectado al cual pertenecen las diversas generadoras
-      y al que deben someterse por expresa disposición de la Ley General  de
-      Servicios Eléctricos.  De  esta  manera,  es  la  propia  ley  la  que
-      determina el suministro de energía eléctrica, operación que constituye
-      hecho gravado con el Impuesto al Valor Agregado.
-
-6.-   En consecuencia, en respuesta a su consulta, puede informarse que,  en
-      el caso planteado,  en  el  que  una  empresa  generadora  de  energía
-      eléctrica suministra electricidad a  otra  empresa  generadora,  hecho
-      que, según lo indicado en los números precedentes, se encuentra afecto
-      al Impuesto al Valor Agregado, el documento que debe emitirse por  tal
-      servicio es una factura, en la que deberá recargarse separadamente  el
-      tributo correspondiente.
-
-      JUAN TORO RIVERA
-      DIRECTOR
-
-
-      Oficio N° 609 de 20-02-2003
-      Subdirección Normativa
-      Depto. Imptos. Indirectos
+Depto. de Impuestos Indirectos

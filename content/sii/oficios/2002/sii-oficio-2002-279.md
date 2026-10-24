@@ -1,0 +1,41 @@
+# Oficio N° 279 de 2002
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 279
+- Año: 2002
+- Fecha: 2002-04-29
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja279.htm
+- Hash SHA-256: da51e75dd558ddc3be135ae7ea5e0bd9f807c11d0edac4755ef521e9c0e5a291
+
+## Resumen
+
+30.04.2002) Ley sobre Impuesto a la Renta – art. 55 bis Word Caso en el cual se mantiene el beneficio tributario de la Ley N° 19.622, de 1999. (Ord. N° 1397, de 29.04.2002)
+
+## Referencias detectadas
+
+- {"type":"circular","number":46,"year":1999}
+
+## Texto extraído
+
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 55 BIS (ORD. N° 1397, DE 29.04.2002)
+
+Home | Ley Renta - 2002
+LEY SOBRE IMPUESTO A LA RENTA – ART. 55 BIS (ORD. N° 1397, DE 29.04.2002)
+
+CASO EN EL CUAL SE MANTIENE EL BENEFICIO TRIBUTARIO DE LA LEY N° 19.622, DE 1999.
+
+1.- Por presentación indicada en el antecedente, señala que un contribuyente en 1999 adquirió una vivienda que cumple los requerimientos para rebajar hasta 10 UTM de su declaración de impuesto único según Ley N° 19.622/99. Agrega, que dicha ley tenía como objetivo incentivar la compra de viviendas para apoyar la reactivación de la economía, manifestando a continuación, que hoy la situación crediticia ha cambiado y se puede obtener un nuevo crédito hipotecario en la misma institución bancaria por la misma propiedad que pagó el crédito anterior con una tasa menor, disminuyendo la carga financiera que está pagando. Expresa por otro lado, que de acuerdo a las consultas realizadas al Servicio de Impuestos Internos indicarían que se perdería el beneficio de esa ley y aplicaría el beneficio del nuevo artículo 55 bis que rebaja los intereses pagados, expresando que atendiendo a que el espíritu de la ley no debiera tener relación con la forma de refinanciamiento de la propiedad adquirida, solicita un pronunciamiento al respecto, agregando que la pérdida de este beneficio, es gravitante para efectos de evaluar el nuevo crédito hipotecario, ya que la rebaja es constante en el tiempo mientras dure el crédito hipotecario. 2.- Sobre el particular, me permito informar a Ud. que de conformidad a lo establecido en la Ley N° 19.622, de 1999 y de acuerdo a las instrucciones impartidas por este Servicio sobre la materia, especialmente a través de la Circular N° 46, de 1999, tales normas permiten o contemplan la posibilidad de mantener el beneficio tributario de la ley precitada para aquellos casos en que los contribuyentes renegocien su deuda hipotecaria, por ejemplo consistiendo esta renegociación en una simple baja de la tasa de interés pactada originalmente, siempre y cuando no se aumente el plazo ni el monto del crédito hipotecario original y la vivienda adquirida continúe hipotecada y no sea sustituida por otro bien. De igual manera el beneficio se mantendría si la operación consistiera en un cambio de acreedor y éste rebaja la tasa de interés pactada por el acreedor original.
+En consecuencia, si la renegociación de la deuda se lleva a cabo otorgando el banco una simple baja de la tasa de interés pactada originalmente, sin que se conceda un nuevo crédito destinado a prepagar el anterior, tal operación quedaría comprendida en la situación señalada en el párrafo anterior, por el monto en Unidades Tributarias Mensuales (UTM) vigente en el momento en que contrajo el crédito hipotecario original, en la medida que el nuevo crédito hipotecario a otorgar por el banco no exceda, considerando el plazo ya corrido, al original.
+Cabe advertir que si la renegociación de la deuda hipotecaria a efectuar por el recurrente consiste en el otorgamiento por parte del banco de un nuevo crédito destinado a pagar el crédito hipotecario original, en tal situación no se tiene derecho al beneficio tributario de la Ley N° 19.622/99, ya que el nuevo crédito concedido no tendría por objeto adquirir una vivienda nueva acogida a las normas del D.F.L. N° 2, de 1959, como lo requiere la ley precitada, pudiendo en este caso acogerse al beneficio establecido en el artículo 55 bis de la Ley de la Renta.
+
+JUAN TORO RIVERA
+
+DIRECTOR
+
+OFICIO N° 1397, DE 29.04.2002
+
+DEPTO. IMPTOS. DIRECTOS
+
+SUBDIRECCION NORMATIVA

@@ -4,217 +4,44 @@
 - Tipo: oficio
 - Número: 544
 - Año: 2003
-- Fecha: 2003-02-12
-- Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/otras/ja441.doc
-- Hash SHA-256: 951858c81663caf335ef54a5f8193e47728c2446a6737751fe4838975aeabacf
+- Fecha: 2003-07-30
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/ventas/ja544.htm
+- Hash SHA-256: c758fa22d84cd923d7da8b95632d8e9c3329c1873c8ac11b1071acb8abec7fa6
 
 ## Resumen
 
-Word Consulta sobre alcance de la exenci�n contemplada en el articulo 24� N� 11 de la Ley sobre Impuesto de Timbres y Estampillas. ( Oficio N� 544, de 12 de Febrero de 2003).
+Ley de Impuesto a las Ventas y Servicios. Oficio N° 3817 de 30 de Julio de 2003.- Word Aplicación de la Ley N° 18.502, al transporte de pasajeros efectuado en catamaranes, en Región de Aysén.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":31,"year":1992}
-- {"type":"articulo","law":"CT","article":"87"}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-DECRETO LEY N° 3.475, DE 1980, IMPUESTO DE TIMBRES Y ESTAMPILLAS. OFICIO  N°
-544, DE 12 DE FEBRERO DE 2003.
+VENTAS Y SERVICIOS - LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. OFICIO N° 3817 DE 30 DE JULIO DE 2003.-
 
+Home | Ventas y Servicios - 2003
+LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. OFICIO N° 3817 DE 30 DE JULIO DE 2003.-
 
-CONSULTA SOBRE ALCANCE DE LA EXENCIÓN CONTEMPLADA EN EL ARTICULO 24°  N°  11
-DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
+APLICACIÓN DE LA LEY N° 18.502, AL TRANSPORTE DE PASAJEROS EFECTUADO EN CATAMARANES, EN REGIÓN DE AYSÉN.
 
-1. -  Por medio de la consulta indicada expone que, en marzo del  año  2001,
-     una Empresa Nacional obtuvo de un conjunto  de  bancos  extranjeros  un
-     préstamo sindicado por la  cantidad  de  US$150.000.000,  destinado  al
-     financiamiento de sus actividades exportadoras.   El crédito se tramitó
-     conforme a las normas del antiguo Capítulo VI del Compendio  de  Normas
-     de  Cambios  Internacionales  del  Banco  Central  de  Chile,  entonces
-     vigentes, referentes a los préstamos para exportaciones.
+1.- Se ha recibido en esta Dirección Nacional Ordinario del antecedente, mediante el cual consulta respecto de la aplicación del impuesto especial a los combustibles, contenido en la Ley N° 18.502, de 1986, al transporte de pasajeros efectuado en catamaranes. Señala en su Oficio, que la Región de Aysén, por su baja densidad poblacional y lo especial de su geografía necesita subsidios al transporte.
+Agrega que hace unos meses en la Región de Aysén, el transporte se ha tornado más eficiente debido a la puesta en marcha de un proyecto privado de transporte de pasajeros mediante el uso de catamaranes. Señala que tal proyecto los convierte en pioneros en este tipo de transporte fluvial, dado que las embarcaciones actuales son de carga y pasajeros, lo cual permite a estos catamaranes realizar las mismas rutas en la mitad del tiempo en que las efectúan las embarcaciones normales.
+Manifiesta que el referido proyecto fue desarrollado con el apoyo de la Secretaría Regional Ministerial de Economía de la Región de Aysén, atendiendo al criterio del Ministerio de Economía, en el sentido de facilitar la atracción de inversiones y el desarrollo productivo actuando de la manera más directa posible. Sin embargo señala, que en el caso expuesto, por tratarse de un catamarán que no transporta carga, no recibe los beneficios que reciben las embarcaciones que transportan carga y pasajeros.
+Por las razones señaladas, expresa que es de su interés conocer si la Ley podría considerar a este tipo de catamaranes, sólo de transporte, atendido a que se encuentran proporcionando un servicio que tiene un positivo impacto social en la zona.
+2.- Acerca de lo señalado, cabe manifestar a Ud., que el artículo 6º, de la Ley Nº 18.502, publicada en el Diario Oficial de fecha 3 de Abril de 1986, estableció a beneficio fiscal un impuesto a las gasolinas automotrices y al petróleo diesel, el que se devengará al tiempo de la primera venta o importación de los productos señalados y afectará al productor o importador de ellos.
+El artículo 7º de la Ley citada, facultó al Presidente de la República para que mediante decretos expedidos a través del Ministerio de Hacienda, estableciera para las empresas afectas al Impuesto al Valor Agregado, que usen petróleo diesel, que no esté destinado a vehículos motorizados que transiten por las calles, caminos y vías públicas en general, la recuperación del impuesto de esta Ley soportado en la adquisición de dicho producto, como crédito fiscal del Impuesto al Valor Agregado determinado por el período tributario correspondiente, o mediante su devolución.
+En uso de tal facultad se dictó el Decreto del Ministerio de Hacienda Nº 311, de 1986, el cual determinó en su artículo 2º, que los contribuyentes afectos al Impuesto al Valor Agregado, tendrán derecho a deducir de su débito fiscal, una suma equivalente al impuesto que afecte las adquisiciones de petróleo diesel que realicen en el mismo período tributario en que se determine el débito fiscal respectivo o dentro del plazo que se señala en el inciso final del artículo 24º, del D.L. Nº 825.
+3.- Respecto a su consulta, como ya se ha señalado, la Ley N° 18.502, en su artículo 7°, otorga al Presidente de la República la facultad de establecer las empresas a quienes beneficia la recuperación del impuesto al petróleo diesel, siempre que tales empresas sean contribuyentes del impuesto al valor agregado.
+De tal manera que, en el caso consultado, encontrándose las empresas navieras liberadas del impuesto al valor agregado, respecto de los ingresos provenientes del transporte de pasajeros, en virtud de lo dispuesto en el artículo 13° N° 3 del D.L. N° 825, de 1974, no es posible para tales empresas la recuperación del impuesto que afecta a sus adquisiciones de petróleo diesel, en atención a que el mecanismo de recuperación del impuesto establecido en el Decreto de Hacienda Nº 311, de 1986, sólo permite su rebaja del débito fiscal del impuesto al valor agregado, originado en el mismo período tributario.
+4.- Con todo, de acuerdo con las normas legales vigentes, la exención señalada en el numeral anterior beneficia a las empresas navieras sólo respecto de los ingresos provenientes del transporte de pasajeros, por lo que, en la medida que no sea éste el servicio esencial que se presta para cumplir un objetivo –que podría ser el turismo- procedería la recuperación del impuesto al petróleo diesel, por encontrarse esta actividad afecta al Impuesto al Valor Agregado.
 
-      Señala que, por tratarse de  un  crédito  obtenido  con  la  finalidad
-     antes indicada, se acogió a  la  exención  de  Impuesto  de  Timbres  y
-     Estampillas contenida en el artículo 24° N°11 del DL N°3.475, de 1980 y
-     normas de la Superintendencia de Bancos e Instituciones Financieras.
+JUAN TORO RIVERA
 
-      El préstamo, recientemente, ha sido pagado  en  su  totalidad  por  la
-     Empresa a los bancos acreedores con recursos que no ingresaron al país,
-     sino que se obtuvieron y desembolsaron en el exterior.
+DIRECTOR
+Oficio N° 3817 de 30-07-2003
 
-       Por  tratarse  de  un  préstamo  otorgado  directamente  por   bancos
-     extranjeros sin la intervención de bancos locales y pagado directamente
-     a dichos bancos en el exterior, no resulta  posible,  en  concepto  del
-     consultante, aplicar las normas contenidas en la Circular N°31 de  1992
-     de este Servicio en aquella parte en  que  se  impone  al  banco  local
-     acreedor la obligación de comunicar a este Servicio en caso que el pago
-     del crédito no se efectué  con  divisas  provenientes  de  retornos  de
-     exportaciones.
-
-       Sobre  la  base  de  los  hechos  anteriormente  descritos,  solicita
-     absolver las siguientes consultas:
-
-
-     a) En primer lugar, si  la  obligación  de  informar  prescrita  en  la
-        Circular N°31 de 1992 sólo se aplica cuando el banco acreedor  tiene
-        domicilio y actividades en Chile y no, en cambio, cuando se trate de
-        bancos acreedores extranjeros sin actividades en Chile,  los  cuales
-        no se encuentran sujetos a la autoridad tributaria local.
-
-
-     b) En segundo lugar, si la exención  en  comento  se  mantiene  cuando,
-        entre el periodo que media desde la obtención del crédito  hasta  su
-        extinción, la Empresa haya  realizado  exportaciones  por  un  monto
-        igual o superior al préstamo, sus intereses u  otros  recargos,  aun
-        cuando el servicio de estas obligaciones no se efectúe con  retornos
-        provenientes   de   determinadas    operaciones    específicas    de
-        exportaciones.   Lo anterior, conforme al criterio  manifestado  por
-        este Servicio en los oficios N°3.155 de 1992 y N°1.799 de 1994.
-
-
-2.-   Sobre el particular cabe señalar que el N°11 del artículo  24°  de  la
-     Ley sobre Impuesto de Timbres  y  Estampillas  establece  una  exención
-     respecto de “Los documentos necesarios  para  efectuar  operaciones  de
-     crédito de dinero destinadas al financiamiento de  exportaciones.    La
-     Superintendencia de Bancos  e  Instituciones  Financieras  determinará,
-     mediante  resoluciones  generales,  los  documentos  que   tienen   tal
-     carácter”.
-
-      En base a  la  determinación  realizada  por  la  Superintendencia  de
-     Bancos e Instituciones Financieras este Servicio, mediante la  Circular
-     N°31 de  1992,  dispuso  que  los  documentos  necesarios  para  cursar
-     financiamientos de  exportación  son,  entre  otros,  aquellos  en  que
-     consten los créditos obtenidos en  el  exterior  directamente  por  los
-     exportadores, siempre que los internen al país conforme al Capítulo  VI
-     del Título II del Compendio de  Normas  de  Cambios  Internaciones  del
-     Banco Central.
-
-      Por otra parte, respecto de la obligación  de  informar,  los  oficios
-     N°3.155 de 1992 y N°1.799  de  1994,  complementan  la  Circular  antes
-     citada en el sentido que:
-
-
-     a) Ni la ley ni la Circular establecen como condición para la  validez
-        de la exención que el crédito respectivo se pague con  el  producto
-        del retorno, sino que el único supuesto normativo de la disposición
-        es que se realice una exportación.
-
-
-     b) Con todo, y a fin de controlar el uso correcto  del  beneficio,  se
-        impone a las entidades financieras la obligación de informar a este
-        Servicio cuando el pago no se efectué con divisas  provenientes  de
-        retornos de exportaciones.
-
-
-
-
-3.-   A la luz de lo descrito  y  consultado  por  el  recurrente  y  de  lo
-   dispuesto en las normas antes citadas, se puede colegir lo siguiente:
-
-     a) No existe duda de que  la  exención  establecida  en  el  N°11  del
-        artículo 24° de la Ley sobre  Impuesto  de  Timbres  y  Estampillas
-        también favorece a las operaciones de crédito de dinero  cuando  el
-        crédito respectivo no se pague con el producto del  retorno  de  la
-        operación, puesto que “ni la ley y por ende  tampoco  la  Circular”
-        supeditan el beneficio tributario a que el crédito se pague con  el
-        producto del retorno e, incluso, “el único supuesto normativo de la
-        disposición en comento es que se  realice  una  exportación”.    En
-        consecuencia y conforme  al  principio  antes  enunciado,  en  nada
-        afecta el hecho que  el  crédito  se  pague  con  recursos  que  no
-        ingresaron al país sino que se obtuvieron  y  desembolsaron  en  el
-        exterior, como ocurre en la especie.
-
-
-     b) Sin embargo, una cuestión es el supuesto normativo del beneficio  y
-        otra  distinta  son  los  mecanismos  de  control  y  fiscalización
-        contenidos en la Circular N°31  de  1992.    Al  respecto  se  debe
-        distinguir entre la obligación de informar y el sujeto  de  derecho
-        sometido a la obligación de informar.   El consultante está  en  lo
-        correcto al sostener la  imposibilidad  de  sujetar  a  los  bancos
-        extranjeros, sin actividades en Chile,  a  las  normas  nacionales;
-        pero de ello no  se  sigue  que,  en  su  defecto,  se  extinga  la
-        obligación de informar ni que no exista ningún  sujeto  de  derecho
-        con dicha obligación.   En  otras  palabras,  nada  impide  que  la
-        obligación de informar se radique, a  falta  de  entidad  acreedora
-        nacional, en otra persona.
-
-
-4.-   En la  especie,  respecto  del  sujeto  pasivo  de  la  obligación  de
-     informar  y  atendido  que  la  Circular  N°31  de  1992  no   resuelve
-     expresamente el punto, se debe interpretar que es el propio  exportador
-     quien debe cumplir con la obligación de informar a este Servicio cuando
-     el pago de crédito, realizado  directamente  a  los  bancos  acreedores
-     extranjeros con fondos obtenidos y desembolsados en el exterior, no  se
-     efectué con divisas provenientes de  retornos  de  exportaciones.    Lo
-     anterior se desprende de una lectura armónica de dicha Circular:
-
-     a) El número cuarto de  la  Circular  N°31  de  1992  expresa  que  la
-        presente exención  “tiene  aplicación  obviamente  siempre  que  se
-        cumpla la exportación  que  motiva  el  otorgamiento  del  crédito,
-        situación  que  debe  controlarse  especialmente  en  los  créditos
-        internos de pre-embarque”.   A contrario sensu, el cumplimiento  de
-        la exportación debe controlarse por regla general  o  generalmente.
-        Si dentro de los documentos necesarios para  cursar  financiamiento
-        de exportación se encuentran los créditos obtenidos en el  exterior
-        directamente por  los  exportadores,  luego,  necesariamente  éstos
-        documentos caen dentro de la órbita general de control.
-
-
-     b) En efecto, la Circular en comento, discurriendo sobre  la  base  de
-        créditos otorgados por bancos acreedores nacionales, ha establecido
-        un procedimiento especial de control cuando el crédito se soluciona
-        con  moneda  extranjera  que   no   corresponda   a   retornos   de
-        exportaciones del deudor.   Por cierto, este procedimiento especial
-        de  fiscalización,  como  se  expresó  en  la  letra  anterior,  no
-        significa que otras modalidades crediticias  queden  al  margen  de
-        toda fiscalización.
-
-     c) Puesto que la obligación de  informar  pervive  cualquiera  sea  la
-        modalidad de los documentos que el exportador adopte  –de  aquellos
-        establecidos por la Superintendencia de Bancos– y atendido  que  el
-        propio exportador es quien posee  la  información  y  documentación
-        relevante, forzosamente se concluye que la obligación  de  informar
-        se traslada al exportador.      De lo contrario no habría forma  de
-        verificar  el  cumplimiento  de  la  exportación  que   motiva   el
-        otorgamiento del crédito ni la exención tributaria misma.
-
-      Lo anterior, por cierto, “no supone en caso alguno que  se  giren  los
-     impuestos respectivos de inmediato, sino que... el contribuyente tendrá
-     las  instancias  administrativas  y  jurisdiccionales  del  caso   para
-     acreditar ante este Servicio que, si bien el crédito  no  se  solucionó
-     con el producto del retorno de la exportación, ésta sí  se  efectuó,  y
-     que el crédito respectivo se utilizó para dicho fin”.   Asimismo,  será
-     el propio contribuyente quien deba tomar los “resguardos  que  resulten
-     pertinentes a fin de evitar que una misma documentación de  exportación
-     pueda ser utilizada nuevamente para liberar  del  pago  de  impuesto  a
-     otras operaciones de crédito”.  (Oficios N°3.155 de 1992 y  N°1.799  de
-     1994).
-
-      A mayor abundamiento, en virtud  de  su  estatuto  legal,  la  Empresa
-     Nacional, constituida como una Empresa del Estado, queda  supeditada  a
-     los mecanismos de fiscalización contemplados en  el  artículo  87°  del
-     Código Tributario y, en consecuencia, sus autoridades están obligadas a
-     proporcionar al Servicio  todos  los  datos  y  antecedentes  que  éste
-     solicite para la fiscalización de los impuestos.
-
-
-5.-   Esclarecido el alcance genérico de la obligación de informar y  puesto
-     que para el caso particular la Circular no contiene regla expresa, cabe
-     concluir que el exportador no tiene plazo  sino  una  oportunidad  para
-     cumplir la obligación de informar, sin perjuicio de los  procedimientos
-     de control  y  fiscalización  con  que  cuenta  este  Servicio.    Cabe
-     reiterar que, tal  como  lo  señalan  los  oficios  antes  citados,  el
-     exportador que cumple la  obligación  de  informar  también  posee  las
-     “instancias administrativas y jurisdiccionales del caso para  acreditar
-     ante este Servicio que, si bien el  crédito  no  se  solucionó  con  el
-     producto del retorno de la exportación, ésta si se efectuó,  y  que  el
-     crédito respectivo se utilizó para dicho fin”.
-
-BENJAMÍN SCHUTZ GARCIA
-DIRECTOR (S)
-
-Oficio N°544, de 12-02-2003
 Subdirección Normativa
-Depto. Técnica Tributaria
+
+Depto. Impuestos Indirectos

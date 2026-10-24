@@ -1,0 +1,56 @@
+# Oficio N° 229 de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 229
+- Año: 2001
+- Fecha: 2001-06-06
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/otras/ja229.htm
+- Hash SHA-256: 2552f2504df178f2dc40eb3ba7313c97f39af276d29696b1d0d4b0bc09897ec7
+
+## Resumen
+
+. Directos). Timbres y Estampillas – Nuevo Texto – Ley Sobre Impuestos de – Art. 3°, Decreto Ley N° 3.475, de 1980. Word Momento en que se Devenga el Impuesto del Artículo 3° del Decreto Ley N° 3.475, de 1980, Cuando Importación se Paga con Tarjeta de Crédito. (Of. N° 2462, de 06.06.2001. Depto. de Técnica Tributaria).
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OTRO - TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTOS DE – ART. 3°, DECRETO LEY N° 3.475, DE 1980.
+
+Home | Otro - 2001
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTOS DE – ART. 3°, DECRETO LEY N° 3.475, DE 1980.
+
+MOMENTO EN QUE SE DEVENGA EL IMPUESTO DEL ART. 3° DEL DECRETO LEY N° 3.475, DE 1980 – IMPORTACIÓN PAGADA CON TARJETA DE CRÉDITO – IMPUESTO ÚNICO QUE AFECTA A TODOS LOS DOCUMENTOS NECESARIOS QUE SE EMITAN, SUSCRIBAN U OTORGUEN CON MOTIVO DE UNA IMPORTACIÓN O CON EL INGRESO DE MERCANCÍAS EXTRANJERAS A ZONA FRANCA – RECURRENTE NO ADQUIERE FÍSICAMENTE LA MONEDA EXTRANJERA – OPERACIÓN DE VENTA ES REALIZADA POR EL BANCO QUE FINANCIA TARJETA DE CRÉDITO – CORRESPONDERÁ AL BANCO O ENTIDAD QUE VENDA LAS DIVISAS RECARGAR EN EL VALOR DE LA OPERACIÓN EL IMPUESTO E INGRESARLO EN ARCAS FISCALES – EN LA FECHA QUE BANCO VENDE LA MONEDA EXTRANJERA SE DEVENGA EL TRIBUTO – TASA DE CAMBIO EN QUE DEBIERA CONVERTIRSE LA MONEDA EXTRANJERA PARA DETERMINAR SU MONTO.
+
+1. Se ha recibido en este Servicio su presentación indicada en el antecedente, en la cual solicita un pronunciamiento en que se determine el momento en que se devenga el impuesto del artículo 3° del Decreto Ley N° 3.475, si una importación se paga con tarjeta de crédito, en el siguiente supuesto: a) El 15.01.2001 se coloca orden por USD 1000, en Proveedor Estados Unidos.
+
+b) El 18.01.2001 el Proveedor embarca producto a Chile y carga en la tarjeta de crédito la suma de USD 1000.
+
+c) El 24.01.2001 Aduana emite DI por internación de mercadería de USD 1000
+
+d) El 19.02.2001 es el vencimiento del pago de la tarjeta de crédito, USD 1000.
+
+e) El 30.03.2001 se paga deuda, en pesos, de tarjeta de crédito (USD 1.000 convertidos a pesos a la tasa de cambio del día 20.02.2001, mas intereses.)
+
+Con relación a lo anterior, solicita se le responda, en que momento se devenga el impuesto del D. Ley N° 3475, art. 3°, y a que tasa de cambio debiera convertirse la moneda extranjera, para determinar su monto.
+
+2. Sobre el particular procede señalar que el artículo 3° del D.L. N° 3.475, afecta con un impuesto único, todos los documentos necesarios que se emitan, suscriban u otorguen con motivo de una importación o con el ingreso de mercancías extranjeras a zona franca.
+Ahora bien, con relación al caso en consulta, en cuanto al momento en que se devengaría el impuesto del artículo 3°, si la importación se paga con tarjeta de crédito, cabe señalar que en la especie si bien el recurrente no adquiere físicamente la moneda extranjera, la operación de venta esta siendo realizada por el Banco que le financia la tarjeta de crédito, por tanto es aplicable lo dispuesto en la primera parte del artículo 10° que señala, que le corresponderá al Banco o a la entidad que venda las divisas recargar en el valor de la operación el impuesto e ingresarlo en arcas fiscales, debiendo para dicho efecto solicitar la documentación que señale el Servicio de Impuestos Internos. A este respecto, el artículo 14°, inciso 5° establece,” Cuando el impuesto del artículo 3° deba ser ingresado en arcas fiscales por el Banco o entidad que venda la moneda extranjera, el tributo se devengará al momento de dicha venta. En los demás casos, el impuesto se devengará cuando se efectúe el pago al exterior.”
+
+De acuerdo a lo anteriormente señalado, cabe concluir que si la importación se paga con tarjeta de crédito, cuyo vencimiento de pago es el 19.02.2001, y el Banco carga a la tarjeta los USD 1000 convertidos a pesos a la tasa de cambio del día 20. 02. del 2001, significa que en esa fecha el Banco vende la moneda extranjera y por tanto en ese momento se devenga el tributo.
+
+3. Respecto a la segunda consulta planteada, en el sentido de determinar a que tasa de cambio debiera convertirse la moneda extranjera, para determinar su monto, cabe señalar que el artículo 6° del D. Ley 3475, establece que para determinar la base imponible de obligaciones en moneda extranjera, ha de reducirse el valor de ésta a moneda nacional, al tipo de cambio que la moneda respectiva tenga de acuerdo al valor promedio de transacción bancaria informado por el Banco Central en el día en que se efectúe la operación de venta de la moneda, que en el caso en consulta resulta ser el día 20.02.2001.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 2462, del 06.06.2001
+
+Subdirección Normativa
+
+Dpto. de Técnica Tributaria

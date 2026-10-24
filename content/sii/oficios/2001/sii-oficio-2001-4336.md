@@ -1,0 +1,45 @@
+# Oficio N° 4336 de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 4336
+- Año: 2001
+- Fecha: 2001-11-05
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja4336.htm
+- Hash SHA-256: f57d1591c91fc32e86739bc855276f879f4d1dfa4f5d711ce073d98c25226d4e
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Actual Ley sobre Impuesto a las – Art. 2°, N°2, Art. 8°, Art. 9°, letra e). (Ord. N° 4336, de 05.11.2001) Word Impuesto al Valor Agregado que afecta al suministro de agua potable, prestado a un complejo turístico y residencial.
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 8°, ART. 9°, LETRA E). (ORD. N° 4336, DE 05.11.2001)
+
+Home | Ventas y Servicios - 2001
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 8°, ART. 9°, LETRA E). (ORD. N° 4336, DE 05.11.2001)
+
+IMPUESTO AL VALOR AGREGADO QUE AFECTA AL SUMINISTRO DE AGUA POTABLE, PRESTADO A UN COMPLEJO TURÍSTICO Y RESIDENCIAL.
+
+1.- Se ha recibido en esta Dirección Nacional su oficio del antecedente, mediante el cual traslada una presentación de Administradora XXXX Ltda. y Cía. C.P.A., mediante la cual consulta si se encuentra exento de impuesto al valor agregado el cobro por suministro de agua potable a los propietarios del Complejo Turístico que administra. Señala que es una entidad sin fines de lucro y que como administradora del Complejo Turístico y Residencial XXXX, es la encargada de prestar los servicios de mantención y seguridad, suministrando además el agua potable para el consumo domiciliario de los propietarios del Complejo, agua que es producida por una planta propia, que le demanda un costo mensual por producción, mantención, y distribución.
+Agrega que a contar del 1° de Septiembre de 2001 la empresa pretende recuperar los gastos de producción y distribución del agua potable, valores que serán incluidos en la factura exenta por gastos comunes.
+2.- El artículo 8°, en conformidad con el artículo 2°, N° 2, del D.L. N° 825, de 1974, grava con impuesto al valor agregado a los servicios, definidos como: “La acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N°s 3 y 4, del artículo 20°, de la Ley sobre Impuesto a la Renta”.
+Por otra parte, el artículo 9°, letra e), del mismo decreto ley, dispone el momento en que se devenga el tributo en los servicios periódicos, estableciendo en su inciso segundo que: “ ... tratándose de los suministros y servicios domiciliarios periódicos mensuales de ........... agua potable, el impuesto se devengará al término de cada periodo fijado para el pago del precio, independiente del hecho de su cancelación”.
+
+3.- Conforme a la definición precedentemente señalada, el suministro de agua potable que realiza la ocurrente, constituye un servicio en los términos del artículo 2°, N° 2, del D.L. N° 825, pues se trata de una prestación remunerada resultando irrelevante si ésta tiene o no fines de lucro.
+En consecuencia, los cobros que la ocurrente efectúe por suministrar agua potable a los propietarios del Complejo Turístico que administra, se encuentran gravados con impuesto al valor agregado, debiendo emitir por éstos, los documentos tributarios dispuestos en el artículo 53°, del D.L. N° 825, según corresponda.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio N° 4.336, de 05.11.2001
+
+Subdirección Normativa
+
+Depto. de Impuestos Indirectos

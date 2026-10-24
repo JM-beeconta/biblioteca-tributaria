@@ -1,0 +1,32 @@
+# Oficio N° 233 de 2003
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 233
+- Año: 2003
+- Fecha: 2003-01-20
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/233_03.htm
+- Hash SHA-256: ebc81e4994d62b1f182a5b06c12a1f219d03977bd3acef494975b076c461e246
+
+## Resumen
+
+Ley de Impuesto a la Renta. Artículos 30° y 31°. Situación tributaria de los desembolsos incurridos por empresas que explotan en concesión una obra de uso público. (
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OFICIO N°233 DE 20 DE ENERO DE 2003
+
+Home |
+Ley Renta - 2003
+
+LEY DE IMPUESTO
+A LA RENTA ARTICULOS 30° y 31°. Ordinario N° 233, de 20 de Enero del 2003.
+
+MATERIA:
+Situación tributaria de los desembolsos incurridos por empresas que explotan
+en concesión una obra de uso público.

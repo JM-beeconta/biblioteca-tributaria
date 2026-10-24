@@ -1,0 +1,58 @@
+# Oficio N° 204 de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 204
+- Año: 2001
+- Fecha: 2001-05-17
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja204.htm
+- Hash SHA-256: d406449fab228aac7666cacc67e2ef077f509af818714a41b1dcec18ec6a79e3
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Ley Impuesto a las – Art. 2° N° 2°, Art. 8°, Art. 12° Letra E) N°2° - Ley de la Renta, Art. 20 N° 3° - Codigo de Comercio, Art. 930° y 965°. Word IVA en Fletamentos y Subfletamentos de Naves que Realizan Transporte de Carga Internacional. (Of. N° 2132, de 17.05.2001 – I. Indirectos)
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 2° N° 2°, ART. 8°, ART. 12° LETRA E) N°2° - LEY DE LA RENTA, ART. 20 N° 3° - CODIGO DE COMERCIO, ART. 930° Y 965°.
+
+Home | Ventas y Servicios - 2001
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 2° N° 2°, ART. 8°, ART. 12° LETRA E) N°2° - LEY DE LA RENTA, ART. 20 N° 3° - CODIGO DE COMERCIO, ART. 930° Y 965°.
+
+IMPUESTO AL VALOR AGREGADO EN FLETAMENTO Y SUBFLETAMENTO DE NAVES QUE REALIZAN TRANSPORTE DE CARGA INTERNACIONAL – DEFINICIÓN DE VENTAS Y SERVICIOS – EXENCIÓN DEL IVA ESTABLECIDO EN EL ART. 12° LETRA E) N° 2° A LOS FLETES MARÍTIMOS DEL EXTERIOR A CHILE Y VICEVERSA - SERVICIO HA SOSTENIDO QUE EXENCIÓN INDICADA SE APLICA TANTO A LOS CONTRATOS DE FLETAMENTO POR TIEMPO COMO POR VIAJE – FLETAMENTO POR VIAJE SEÑALADO EN LETRA A) DE LA PRESENTACIÓN – POSEE CARACTERÍSTICAS DE UN FLETE MARÍTIMO INTERNACIONAL – SE ENCUENTRA EXENTO DE IVA – CONTRATO DE FLETAMENTO A CASCO DESNUDO U OTRA FORMA DE CESIÓN DEL USO Y GOCE DE UNA NAVE – DESDE PERSPECTIVA TRIBUTARIA NO PUEDEN SER CONSIDERADOS COMO UN FLETE MARÍTIMO – POSEEN EL CARÁCTER DE UNA CESIÓN TEMPORAL DEL USO Y GOCE DE UNA NAVE – ACTIVIDAD QUE SE ENCUENTRA GRAVADA CON IVA EN FORMA ESPECIAL POR EL ART. 8° LETRA G) DEL D. LEY N° 825.
+
+1.- Se ha recibido en esta Dirección Nacional su Oficio indicado en el antecedente, mediante el cual traslada una consulta formulada por XX S.A., en la que solicita un pronunciamiento en relación a determinar si los contratos marítimos que celebra con la Empresa Nacional del Petróleo (ENAP), se encuentran afectos a IVA. Señala que en la actualidad, XX S.A. ha celebrado un contrato de fletamento por tiempo respecto de una nave extranjera, con un armador sin domicilio ni residencia en Chile, con el objeto de contar con naves que le permitan cumplir con las obligaciones contraídas con ENAP en Chile.
+Manifiesta que los actos mercantiles que vinculan a XX S.A. con ENAP son:
+a.- Contrato de fletamento por viaje, por el cual XX S.A. se obliga a transportar para ENAP petróleo crudo desde Venezuela a Chile, servicio por el cual se devenga un flete marítimo internacional.
+b.- La nave extranjera es subarrendada por XX S.A. a ENAP, para que ésta, asumiendo el rol de fletante, la explote comercialmente celebrando contratos de fletamento por tiempo o por viajes con terceros, en tráficos internacionales. XX S.A. por causa de este subfletamento obtiene una renta diaria o "hire".
+La consultante estima que en el primer caso, el contrato se encuentra exento de IVA por causa del artículo 12 letra E N° 2 del D.L. N° 825. En el segundo caso, tratándose de dos empresas con domicilio y residencia en Chile, se ha facturado con IVA el ingreso por el subfletamento, lo que ha sido controvertido por ENAP.
+
+En atención a lo expuesto, la recurrente solicita se emita un dictamen acerca de si los actos mercantiles señalados, que vinculan a XX S.A. con ENAP se encuentran afectos o exentos de IVA.
+2.- El artículo 8° del D.L. N° 825, grava con IVA las ventas y servicios. Por su parte el artículo 2 N° 2 del mismo cuerpo legal define servicio como "Toda acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de alguna de las actividades comprendidas en los N°s 3 y 4 del artículo 20 de la Ley sobre Impuesto a la Renta".
+Por otra parte el artículo 12 letra E N° 2 del mismo cuerpo legal dispone que "Estarán exentos del impuesto establecido en este Título:
+E.- Las siguientes remuneraciones y servicios:
+2.- Los fletes marítimos, fluviales, lacustres, aéreos y terrestres del exterior a Chile, y viceversa y los pasajes internacionales".
+
+3.- De acuerdo a la normativa tributaria citada, los servicios de transporte de carga marítimo se encuentran afectos a IVA, ya que el N° 3 del artículo 20 de la Ley de la Renta comprende al comercio, actividad dentro de la cual se encuentra el comercio marítimo, quedando de esta forma incluido en el concepto general de servicios afectos a dicho impuesto.
+Sin embargo, el artículo 12 letra E N° 2 del D.L. N° 825, declara exentos de IVA, entre otros, a los fletes marítimos del exterior a Chile y viceversa.
+Esta Superioridad ha sostenido que al no hacer distinción alguna, la norma que consagra la exención indicada se aplica tanto a los contratos de fletamento por tiempo como por viaje, en la medida que el transporte que realice la nave entregada en fletamento sea efectivamente de Chile al exterior o viceversa.
+De esta forma, el contrato de fletamento por viaje señalado en la letra a) de la presentación, por el cual XX S.A. se obliga a transportar para ENAP petróleo crudo desde Venezuela a Chile, posee las características de un flete marítimo internacional y, por lo tanto, se encuentra exento de IVA.
+4.- En la segunda situación planteada por la ocurrente es preciso hacer una distinción previa para determinar si el contrato celebrado se encuentra afecto o exento de IVA.
+Así, si el contrato celebrado entre XX S.A. y ENAP es un subfletamento por tiempo o por viaje, éste conservará el carácter de flete marítimo internacional amparado por la exención contemplada en el artículo 12 letra E N° 2) del D.L. N° 825, puesto que resulta irrelevante el hecho que el fletador a su vez celebre un contrato de subfletamento, ello siempre y cuando la nave fletada efectivamente realice un transporte marítimo internacional, esto es, del exterior a Chile o viceversa.
+Por el contrario, si el contrato de subarriendo de la nave extranjera celebrado entre XX S.A. y ENAP, corresponde a un fletamento a casco desnudo, o bien a otra especie de cesión del uso y goce de la nave, a su respecto no cabría aplicar la exención indicada, toda vez que no podría sostenerse que existe un flete marítimo.
+En efecto, si bien es cierto el Código de Comercio en su artículo 930 considera al fletamento a casco desnudo como una especie de fletamento, no es menos cierto que éste en su esencia, más que un contrato de transporte, entraña la cesión temporal del uso y goce de una nave desarmada, lo cual fluye de su propia definición contenida en el artículo 965 del Código de Comercio, el cual dispone que el "Fletamento a casco desnudo es el contrato por el cual una parte, mediante el pago de un flete, se obliga a colocar a disposición de otra, por un tiempo determinado, una nave desarmada y sin equipo o con un equipo y armamento incompleto, cediendo a esta última su tenencia, control y explotación, incluido el derecho a designar al capitán y a la dotación".
+En consideración a lo anterior, el contrato de fletamento a casco desnudo u otra forma de cesión del uso y goce de una nave, desde la perspectiva tributaria, no pueden ser considerados como un flete marítimo ya que no importan el desarrollo propiamente tal de la actividad de transporte de carga, sino que poseen el carácter de una cesión temporal del uso y goce de una nave, actividad que se encuentra gravada con IVA en forma especial por el artículo 8° letra g) del D.L. N° 825, el cual afecta con dicho impuesto al arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+Oficio Nº 2132, del 17.05.2001
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

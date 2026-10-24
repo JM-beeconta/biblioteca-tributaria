@@ -1,0 +1,33 @@
+# Oficio N° 11 de 2003
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 11
+- Año: 2003
+- Fecha: 2003-01-02
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta11_03.htm
+- Hash SHA-256: 5cdbc7b39aab1eb1daae035607aa9435b67e6b5cb8fdb502768d479ef2752e27
+
+## Resumen
+
+(Ord. N° 12, de 02.01.2003) Ley de Impuesto a la Renta. Artículo 41 N°s 4 y 10° Contabilización de las inversiones en el exterior efectuadas por inversionistas nacionales. (Ordinario N° 11, de 02 de enero de 2003)
+
+## Referencias detectadas
+
+- {"type":"oficio","number":11,"year":2003}
+
+## Texto extraído
+
+Oficio N°11 de 2003
+
+Home | Ley
+Renta - 2003
+LEY DE
+IMPUESTO A LA RENTA. ARTICULO 41 N°s
+4 y 10°. ORD N° 11, de
+02 de enero de 2003
+
+MATERIA:
+Contabilización de las inversiones en el exterior efectuadas por
+inversionistas nacionales.

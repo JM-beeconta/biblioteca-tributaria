@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 826
 - Año: 2004
-- Fecha: 2004-02-12
+- Fecha: 2004-09-23
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja657.doc
-- Hash SHA-256: c81ce4fb6f8ead565cee44cf879dcda6a009ba594e652e48f2c828933103512c
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja826.htm
+- Hash SHA-256: 1ba33f89388446d2954b750b6bd0119772e089b2e47babdbea08abd09af2def0
 
 ## Resumen
 
-Word C�lculo de la proporcionalidad establecida en el art�culo 43 del Reglamento del D.L. N� 825, de 1974, para determinar el cr�dito fiscal del per�odo.
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 27° bis – Código Civil, Art. 1996°. (Ord. N° 4.441 de 23.09.2004) Word Recuperación de remanentes de Crédito Fiscal originados en la Construcción de un Hotel, en virtud del artículo 27 bis del D.L. N° 825.
 
 ## Referencias detectadas
 
@@ -19,169 +19,43 @@ Word C�lculo de la proporcionalidad establecida en el art�culo 43 del Reglam
 
 ## Texto extraído
 
-Ley de Impuesto a las Ventas y Servicios. Oficio N° 826 de 12 de Febrero  de
-      2004.-
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 27° BIS – CÓDIGO CIVIL, ART. 1996°. (ORD. N° 4.441 DE 23.09.2004)
 
-Cálculo de la proporcionalidad establecida en el artículo 43 del  Reglamento
-del D.L. N° 825, de 1974, para determinar el crédito fiscal del período.
+Home | Ventas y Servicios - 2004
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 27° BIS – CÓDIGO CIVIL, ART. 1996°. (ORD. N° 4.441 DE 23.09.2004)
 
+RECUPERACIÓN DE REMANENTES DE CRÉDITO FISCAL ORIGINADOS EN LA CONSTRUCCIÓN DE UN HOTEL, EN VIRTUD DEL ARTÍCULO 27 BIS DEL D.L. N° 825.
 
+1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente, por medio de la cual formula una consulta relativa a la devolución del Impuesto al Valor Agregado, según las normas del artículo 27 bis del D.L. N° 825, a que tendría derecho su representada compañía Inmobiliaria XXX S.A. por la ejecución del contrato de concesión de construcción y explotación del Hotel YYY. Señala que su representada es concesionaria del inmueble y establecimiento municipal que conforman el ex YYY y el terreno adyacente destinado a estacionamiento, con el fin de que remodele y/o construya y explote un hotel de categoría 5 estrellas. Dicha concesión fue adquirida por cesión de derechos efectuada por la Sociedad ZZZZ S.A. a Inmobiliaria XXX S.A. celebrada con fecha 12 de agosto del 2003. Con esa misma fecha, la cesionaria convino con la I. Municipalidad un texto refundido del contrato de concesión cedido, el cual se acompaña a la presentación.
+La concesión se otorga por un plazo de 42 años, contados desde la fecha del Decreto Alcaldicio que autoriza la suscripción del referido contrato. Se estableció una renta mensual que la concesionaria debería pagar a la Municipalidad equivalente al 6% de la venta neta total anual, existiendo un monto mínimo garantizado a todo evento ascendente a 3.000 unidades de fomento anuales.
+Manifiesta que según el contrato de concesión, en su texto refundido, se convino en que todas las inversiones, obras, ampliaciones y edificaciones que ejecute la concesionaria serán de su exclusivo dominio hasta el término de la concesión, al igual que los equipos mobiliario y alhajamiento. Una vez cumplido este plazo los bienes pasarán a dominio municipal. En el tiempo intermedio, los bienes que dé de baja la concesionaria con motivo de las reinversiones que efectúe, serán de su exclusivo dominio, pudiendo disponer de ellos en los términos que estime pertinente.
+Con fecha 05 de enero del 2004, Inmobiliaria XXX S.A. suscribió un contrato de construcción a suma alzada, que se acompaña a la presentación, con la empresa Constructora XXXXXX S.A. en virtud del cual se encargó la construcción del denominado “Hotel YYYYYYYY” en los terrenos concesionados.
+El valor del contrato asciende a la suma única, fija y total de 000000,00 unidades de fomento. En la cláusula quinta del mencionado contrato de construcción las partes acordaron un anticipo que asciende al 20% del valor total del contrato, esto es, 00000000 unidades de fomento. Además se deja constancia que la empresa constructora emitió una factura a nombre de la concesionaria por la suma de $0000000000 más IVA, correspondiente a parte del anticipo del contrato de construcción que fue pagado y que dicho anticipo forma parte del precio del contrato para todos los efectos legales y contractuales.
+Expone que Inmobiliaria XXX. es contribuyente del Impuesto al Valor Agregado, puesto que de acuerdo a sus estatutos y al giro declarado ante el Servicio de Impuestos Internos tiene por objeto desarrollar una actividad comercial consistente en la construcción y explotación del Hotel YYYYYYYY. En consecuencia, los ingresos que perciba la concesionaria como consecuencia de la explotación de su giro quedarán gravados con IVA o bien, en algunos casos, exentos de dicho impuesto respecto de los servicios prestados a turistas extranjeros ya que estos casos la ley los considera como servicios de exportación. No obstante lo anterior, estima que en ambos casos la concesionaria tendrá derecho a recuperar los impuestos recargados en las compras o servicios que utilice, dentro de los cuales se encuentran todos aquellos relacionados con la construcción del hotel.
+Con relación al contrato de construcción señala que la modalidad adoptada de la imputación de los costos es de acuerdo al grado de avance de la obra y todos los costos incurridos deberán registrarse en la cuenta de activo “obras en construcción” a medida que se vayan recibiendo las facturas vinculadas con la construcción del hotel, y la concesionaria deberá ir activando el valor neto de dichos desembolsos dentro de la cuenta obras en construcción y por su parte, se debe registrar el IVA recargado en una cuenta de activo independiente.
+Con relación al anticipo del 20% del precio de la obra, este tiene un tratamiento especial ya que no corresponde a una erogación capitalizable del activo inmovilizado, sino que se trataría de un dinero entregado en forma anticipada a cuenta de las facturaciones que emitirá la empresa constructora, según el grado de avance de la obra y que deberá ser descontada en forma proporcional de acuerdo a lo establecido en el contrato de construcción, por la cantidad de 00000000 unidades de fomento.
+Con respecto a la situación en que se encuentra la Inmobiliaria XXX, consulta primeramente si tiene derecho a recuperar en dinero, de acuerdo con las normas del artículo 27 bis del D.L. N° 825, el remanente de crédito fiscal por el IVA acumulado durante seis o más períodos tributarios y que tengan su origen en la construcción o habilitación del hotel.
+En segundo lugar, y en caso que la respuesta a la consulta anterior sea afirmativa, solicita se indique desde cuando su representada tendrá derecho a pedir la devolución del IVA recargado en las facturas otorgadas por la construcción del hotel, puesto que si bien la construcción del hotel concluirá según estimaciones en el mes de octubre o noviembre del 2005, a la fecha ya existe un remanente de crédito fiscal vinculado a las obras de construcción. A su juicio, tratándose de la construcción de un inmueble, este plazo se debiera contar desde el período tributario en que la concesionaria ha debido activar en su contabilidad, de acuerdo al grado de avance de las obras, los desembolsos que ha efectuado a la empresa constructora, ello en atención a que la ley no establece como requisito que se hayan generado débitos fiscales al momento de solicitar la devolución del remanente de crédito fiscal del IVA.
+2.- El inciso primero del artículo 27 bis del D.L. N° 825 dispone que “Los contribuyentes gravados con el impuesto del Título II de esta ley y los exportadores que tengan remanentes de crédito fiscal determinados de acuerdo con las normas del artículo 23, durante seis o más períodos tributarios consecutivos como mínimo, originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte de su Activo Fijo o de servicios que deban integrar el valor de costo de éste, podrán imputar ese remanente acumulado en dichos períodos, debidamente reajustado de conformidad con lo dispuesto en el artículo 27, a cualquier clase de impuestos fiscales, incluso de retención, y a los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas u optar porque dicho remanente les sea reembolsado por la Tesorería General de la República. En el caso que en los seis o más períodos tributarios señalados se originen créditos fiscales en adquisiciones distintas a las anteriores o en utilizaciones de servicios de los no señalados precedentemente, el monto de la imputación o de la devolución se determinará aplicando al total de remanente acumulado, el porcentaje que represente el Impuesto al Valor Agregado soportado por adquisiciones de bienes corporales muebles o inmuebles destinados al Activo Fijo o de servicios que se integren al costo de éste en relación al total del crédito fiscal de los seis o más períodos tributarios”.
+3.- El artículo 27 bis del D.L. Nº 825, de 1974, determina en lo pertinente al caso consultado, que aquellos contribuyentes del Impuesto al Valor Agregado a los que se les haya acumulado, por seis meses consecutivos a lo menos, remanente de crédito fiscal del IVA originado en la adquisición de bienes corporales muebles o inmuebles destinados a integrar su activo fijo, o bien en la utilización de servicios que deban integrar el valor de costo de estos, podrán imputarlo al pago de cualquier clase de impuestos fiscales o gravámenes aduaneros, u optar porque les sea devuelto por la Tesorería General de la República.
+4.- Con relación al cumplimiento de los requisitos que exige el artículo 27 bis, del D.L. N° 825, para obtener la devolución de los remanentes de crédito fiscal por adquisiciones de activo fijo, cabe señalar que analizados los contratos acompañados a la presentación, esta Dirección Nacional estima, por una parte, que el Hotel ZZZ que se encuentra actualmente en construcción es un bien que debe ser calificado como perteneciente al activo inmovilizado de la empresa concesionaria, toda vez que será utilizado por ésta en el giro habitual del contribuyente, en otras palabras, será destinado a prestar servicios afectos a IVA o servicios de exportación, como son la explotación de servicios de hotelería, al menos por un período de 42 años, ello según se desprende de las cláusulas segunda y octava del Contrato de Concesión.
+Por otra parte, con respecto a la propiedad de los activos que la sociedad concesionaria está construyendo, cabe señalar que no obstante encontrarse emplazados en terrenos de propiedad de la I. Municipalidad, por expresa declaración de las partes en la cláusula vigésima del Contrato de Concesión se establece que “Todas las inversiones, obras, ampliaciones y edificaciones que ejecute la concesionaria, serán de su exclusivo dominio hasta el término de la concesión, al igual que los equipos, mobiliario y alhajamiento”. Asimismo, en el Contrato de Construcción celebrado entre la empresa concesionaria y una empresa constructora se señala en su número 1.1 que “De acuerdo a lo establecido en la cláusula vigésima del Contrato de Concesión antes individualizado, todas las inversiones, obras y edificaciones que se ejecuten en el terreno entregado en concesión serán de exclusivo dominio de la concesionaria hasta el término de la concesión”.
+De este modo, las partes, en ejercicio de la autonomía de la voluntad con que se encuentran dotadas, han querido mantener bajo el dominio de la concesionaria todos los bienes, muebles e inmuebles que sean adquiridos o construidos por ésta en ejercicio de la respectiva concesión y mientras dure ésta, aun cuando lo fueren en terrenos de propiedad de la I. Municipalidad de YY.
+En consecuencia, se concluye que la empresa concesionaria encargada de la construcción y explotación del Hotel ZZZ de la ciudad de YY, cumple con los requisitos establecidos en el artículo 27 bis del D.L. N° 825, de 1974, para solicitar la devolución de los remanentes de crédito fiscal originados en la construcción del referido Hotel, en la medida que dichos remanentes sean acumulados durante seis o más períodos tributarios consecutivos.
+5.- Ahora bien, en cuanto a su segunda consulta, esto es desde cuando se debe contar el plazo de seis meses para que la empresa concesionaria pueda solicitar la devolución de los remanentes de crédito fiscal acumulados, se debe determinar previamente si la construcción del Hotel ZZZ que da origen a los remanentes de crédito fiscal corresponde a una venta o a un servicio.
+De acuerdo a lo señalado en el Párrafo Segundo número 2.5 del Contrato de Construcción acompañado, “Las partes declaran que las modalidades y condiciones que se pactan en este contrato revisten las características de un contrato de construcción por suma alzada, a precio único, fijo y total, expresado en unidades de fomento no sujeto a revisión ni variación de ninguna especie, de responsabilidad total del contratista”.
+A su vez el número 2.6 del mencionado contrato expresa que “Para estos efectos, el contratista suministrará la totalidad de los materiales y equipos necesarios para el trabajo y desarrollará la totalidad de los servicios contratados y requeridos hasta la recepción provisoria del Hotel y sus estacionamientos por parte del concesionario, de acuerdo con los alcances de los planos y demás especificaciones técnicas contenidas en este Contrato y sus documentos complementarios o accesorios”.
+Por su parte, de conformidad con lo prescrito por el artículo 1996 del Código Civil, a propósito de los contratos de confección de una obra material, como lo es el celebrado por el consultante “Si el artífice suministra la materia para la confección de una obra material, el contrato es de venta; pero no se perfecciona sino por la aprobación del que ordenó la obra”.
+Así las cosas, al no encontrarse expresamente estipulado por las partes nada en contrario a lo dispuesto por el artículo 1996 del Código Civil, y siendo esta norma por expresa declaración de los contratantes en la letra B) del Contrato de Construcción aplicable a él, esta Dirección Nacional estima que el remanente de crédito fiscal proviene directamente de la adquisición de un bien corporal inmueble y no de un servicio que se integra al valor de costo de éste.
+Ahora bien, de lo dispuesto en el artículo 1996 del Código Civil y lo establecido en el Párrafo duodécimo del contrato acompañado, resulta que la venta del bien denominado Hotel ZZZ y sus estacionamientos, se perfeccionará al momento en que la obra esté terminada y sea aprobada por quien la ordenó, emitiendo el certificado de recepción provisoria de las obras.
+Por consiguiente, en respuesta a su consulta puede informarse a Ud. que en el caso de adquisiciones de bienes que se incorporan al activo inmovilizado del contribuyente, como ocurre en la situación que Ud. plantea, ya sea que el IVA se devengue en parcialidades producto de adelantos en el precio o de pagos parciales conforme a los estados de avance de las obras o conste en una sola factura, el plazo de los seis meses consecutivos en los cuales se debe mantener el remanente de crédito fiscal para efectos de solicitar su devolución conforme a lo dispuesto en el artículo 27° bis, citado, se cuenta a partir de la fecha de la adquisición del mismo bien, que es uno de los requisitos esenciales de dicha disposición legal, lo que en el caso propuesto y de acuerdo a las normas legales y contractuales señaladas precedentemente, sólo ocurre una vez terminada la obra y aprobada por el que la ordenó, emitiendo el certificado de recepción correspondiente.
 
-1.-   Se ha recibido en esta Dirección Nacional la presentación indicada  en
-      el antecedente, por  medio  de  la  cual  el  señor  XX,  solicita  un
-      pronunciamiento en relación a la forma de cálculo del  crédito  fiscal
-      proporcional en la situación planteada.
+JUAN TORO RIVERA
 
-      El contribuyente se pone en el caso de una  empresa  que  durante  los
-      meses de enero y febrero registra sólo operaciones gravadas con IVA. A
-      partir del  mes  de  marzo  hasta  mayo  del  respectivo  año  realiza
-      operaciones afectas y no afectas o exentas con  el  referido  tributo,
-      sin embargo, durante esos meses no existe crédito fiscal común alguno.
-      Sólo a contar del mes de junio adquiere bienes y/o  utiliza  servicios
-      destinados a generar ventas y/o servicios gravados  y  no  gravados  o
-      exentos con Impuesto al Valor Agregado, siendo el tributo soportado un
-      crédito de utilización común.
+DIRECTOR
 
-      Frente a esta situación, plantea  una  alternativa  de  cómo  se  debe
-      calcular la proporción establecida en el artículo  43  del  Reglamento
-      del Impuesto al Valor Agregado.
+Oficio N° 4.441, de 23.09.2004.
 
-      La primera consiste en que para efectos del cálculo de  la  proporción
-      se deberá considerar la relación  existente  entre  el  total  de  las
-      operaciones  netas  contabilizadas  y  el  total  de  las  operaciones
-      gravadas con IVA desde el período tributario  en  que  se  registraron
-      operaciones tanto afectas como no afectas o  exentas,  aun  cuando  en
-      dichos meses no se haya generado crédito fiscal alguno.
+Subdirección Normativa
 
-       La  otra  alternativa  es   que   para   efectos   de   calcular   la
-      proporcionalidad se debe considerar sólo la relación  existente  entre
-      el total de las operaciones netas contabilizadas y  el  total  de  las
-      operaciones gravadas con IVA a partir del mes en que conjuntamente con
-      la realización de operaciones gravadas y no  gravadas  o  exentas   se
-      generaron créditos fiscales  de  utilización  común,  aun  cuando  con
-      anterioridad se hayan registrado ambas clases de operaciones.
-
-      Manifiesta que lo normal será que al momento  de  existir  ventas  y/o
-      servicios exentos y gravados con IVA se generen conjuntamente créditos
-      fiscales de utilización común, pero puede suceder en ciertos casos que
-      los créditos fiscales se generen con posterioridad al  inicio  de  las
-      operaciones gravadas y exentas.
-
-      En atención a lo expuesto, solicita un pronunciamiento que  aclare  la
-      forma de determinar la proporcionalidad establecida en el artículo  43
-      del  Reglamento  del  Impuesto  al  Valor  Agregado  en  la  situación
-      descrita.
-
-2.-   De acuerdo a lo dispuesto en el artículo  23,  del  D.L.  Nº  825,  de
-      1974, los contribuyentes del Impuesto al Valor Agregado:
-
-      a) Tienen derecho a un crédito fiscal por  el  impuesto  recargado  en
-      las facturas que acrediten  sus  adquisiciones  o  la  utilización  de
-      servicios o en el caso de las importaciones, el impuesto pagado por la
-      importación, que se afecte a operaciones gravadas.
-
-       b)  No  tienen  derecho  al  crédito  fiscal  por  la  importación  o
-      adquisición de bienes o la utilización de servicios que se  afecten  a
-      hechos no gravados por la ley o a operaciones exentas o que no guarden
-      relación directa con la actividad del contribuyente.
-
-      c) Tienen derecho a un crédito  fiscal  calculado  proporcionalmente,
-      conforme a las normas del artículo 43, del Reglamento, respecto de  la
-      importación o adquisición de bienes o de la utilización  de  servicios
-      que se afecten o destinen  a  operaciones  gravadas  y  exentas  o  no
-      gravadas.
-
-
-      Por su parte, el artículo 43 del reglamento del D.L. N° 825, dispone,
-      en su parte pertinente, que “El crédito fiscal a que tiene derecho  el
-      vendedor o prestador  de  servicios  cuando  ha  importado,  adquirido
-      bienes corporales muebles o utilizado servicios afectos al Impuesto al
-      Valor Agregado, consistentes en maquinarias, insumos, materias  primas
-      o servicios, destinados a generar simultáneamente operaciones gravadas
-      con este tributo y exentas o no gravadas  por  el  mismo,  deberá  ser
-      calculado de la siguiente forma:
-
-
-      2.- Para determinar el monto del crédito fiscal respecto de los bienes
-      corporales muebles y de los servicios de utilización común,  indicados
-      en el número anterior, se estará  a  la  relación  porcentual  que  se
-      establezca entre las  operaciones  netas  contabilizadas,  otorgándose
-      dicho crédito únicamente por  el  porcentaje  que  corresponda  a  las
-      ventas o servicios gravados con el Impuesto al Valor Agregado;
-      3.- Para efectuar el cálculo anterior los contribuyentes se ceñirán  a
-      las siguientes normas:
-      A) Si se trata de contribuyentes que al 1º de Enero de 1977, fecha  de
-      vigencia del nuevo texto del Decreto Ley Nº 825, realizan  ventas  y/o
-      servicios gravados y exentos de Impuesto al  Valor  Agregado,  deberán
-      determinar la relación porcentual a que se refiere el número  anterior
-      considerando las ventas y/o servicios netos gravados y el total de las
-      ventas y/o  servicios  netos  contabilizados,  efectuados  durante  el
-      primer período tributario. Para los  períodos  tributarios  siguientes
-      deberán considerar la misma relación porcentual pero acumulados mes  a
-      mes  los  valores  mencionados  hasta  completar  el  año   calendario
-      respectivo. En el año calendario siguiente y posteriores  se  iniciará
-      el mismo procedimiento antes  descrito  para  determinar  la  relación
-      porcentual;
-      B) El mismo procedimiento señalado en la letra anterior aplicarán  los
-      vendedores  y/o  prestadores  de  servicios  que  recién  inician  sus
-      actividades  y  los  que,   posteriormente,   efectúan   conjuntamente
-      operaciones gravadas y exentas”.
-
-
-3.-    Conforme  a  la  norma  legal  y   reglamentaria   mencionadas,   la
-      proporcionalidad es un mecanismo tendiente a determinar qué porcentaje
-      del Impuesto al Valor  Agregado  soportado  por  un  contribuyente  en
-      adquisiciones de bienes o utilización de  servicios  puede  ser  usado
-      como  crédito  fiscal  del  respectivo  período,  cuando  se  realizan
-      conjuntamente operaciones del giro gravadas y no gravadas o exentas  y
-      siempre que  resulte  imposible  identificar  dichas  adquisiciones  o
-      servicios con cada una de las operaciones realizadas.
-
-
-4.-   El cálculo de la relación porcentual que deberá ser aplicada al total
-      del Impuesto al Valor Agregado de utilización común  soportado  en  un
-      período tributario  determinado,  considerará  la  relación  existente
-      entre las ventas y/o servicios gravados con IVA  y  el  total  de  las
-      ventas y/o  servicios  netos  contabilizados,  efectuados  durante  el
-      primer periodo tributario.
-
-
-      Para estos efectos debe entenderse que primer período  tributario  es
-      aquel  en  el  cual  el  contribuyente  realiza   por   primera   vez,
-      conjuntamente,  operaciones  gravadas  y  no   gravadas   o   exentas,
-      cualquiera sea el mes del año calendario en el que realice  este  tipo
-      de operaciones en forma conjunta. Esto se desprende de lo  establecido
-      en la letra B) del N° 3 del artículo 43 del  Reglamento  del  D.L.  N°
-      825, al señalar que el mismo procedimiento de la letra anterior (letra
-      A del N° 3 del artículo 43 del mencionado Reglamento) deberán  aplicar
-      los vendedores y/o prestadores de servicios que  posteriormente  a  la
-      fecha indicada en la referida letra efectúan conjuntamente operaciones
-      gravadas y exentas.
-
-
-      Para los períodos tributarios  siguientes  se  deberá  considerar  la
-      misma relación porcentual  pero  acumulados  mes  a  mes  los  valores
-      mencionados hasta completar el año calendario respectivo.  En  el  año
-      calendario siguiente  y posteriores se iniciará el mismo procedimiento
-      descrito.
-
-
-5.-   En consecuencia, aplicando las  disposiciones  anteriores  al  ejemplo
-      señalado en su consulta, para determinar qué  porcentaje  del  crédito
-      fiscal de utilización común que es generado a partir del mes de  junio
-      tendrá derecho a  usar  el  contribuyente,  se  deberá  considerar  la
-      relación porcentual existente entre las ventas y/o servicios  gravados
-      con IVA y el total de las ventas y/o servicios netos contabilizados  a
-      partir del período  en  el  cual  registra  las  primeras  operaciones
-      gravadas y no gravadas o exentas, es decir, el  mes  de  marzo  en  el
-      ejemplo propuesto, de  modo  que  en  el  mes  de  junio  la  relación
-      porcentual se  deberá  calcular  considerando  los  valores  señalados
-      acumulados desde el mes de marzo.
-
-      JUAN FRANCISCO SANCHEZ STURMER
-      DIRECTOR (S)
-
-
-      Oficio N° 826 de 12-02-2004
-      Subdirección Normativa
-      Depto. de Impuestos Indirectos
+Dpto. de Impuestos Indirectos.

@@ -1,0 +1,33 @@
+# Oficio N° 1597 de 2002
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1597
+- Año: 2002
+- Fecha: 2002-05-17
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2002/otras/1597_02.htm
+- Hash SHA-256: b1722aef108c77ee1c14772fe2b199f072169e851e89ba25224c16526e0f31ce
+
+## Resumen
+
+rectos) Ley de Impuesto de Timbres y Estampillas- Decreto Ley 3475 de 1980, artículo 2° bis. Exención de Impuesto de Timbres y Estampillas, respecto de la emisión de bonos y títulos de deuda de corto plazo. Ordinario N° 1597 de 17 Mayo de 2002.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+OTRO - DECRETO LEY N° 3.475, SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
+OFICIO N° 4668 DE 19 DE NOVIEMBRE DE 2002.
+
+Home | Otro
+- 2002
+Ley de
+Impuesto de Timbres y Estampillas- Decreto Ley 3475 de
+1980, artículo 2° bis. Ordinario N° 1597 de 17 Mayo de 2002.-
+
+Exención de
+Impuesto de Timbres y Estampillas, respecto de la emisión de bonos y títulos
+de deuda de corto plazo.

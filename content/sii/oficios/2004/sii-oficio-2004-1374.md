@@ -1,0 +1,33 @@
+# Oficio N° 1374 de 2004
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 1374
+- Año: 2004
+- Fecha: 2004-03-22
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/1374_04.htm
+- Hash SHA-256: 33646904f2d2796c1a55eb1503367427e57e2f7640af0a8b39bacd2e0aaa6916
+
+## Resumen
+
+3 2004) Ley de Impuesto a la Renta. Artículos 42 N°1, 42 bis 43 N° 1,. Tratamiento tributario que afecta a la devolución de fondos previsionales efectuados a los trabajadores técnicos extranjeros. ( Ordinario N° 1374, de 22 de Marzo 2004)
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY DE IMPUESTO A LA RENTA. ARTICULOS 42 N°1, 42 bis 43 N° 1
+ORDINARIO N° 1374, DE 22 DE MARZO 2004
+
+Home
+| Ley
+Renta - 2004
+LEY DE
+IMPUESTO A LA RENTA. ARTICULOS
+42 N°1, 42 bis 43 N° 1 ORDINARIO N° 1374, DE 22 DE MARZO 2004
+
+Tratamiento tributario que afecta a la devolución de fondos
+previsionales efectuados a los trabajadores técnicos extranjeros

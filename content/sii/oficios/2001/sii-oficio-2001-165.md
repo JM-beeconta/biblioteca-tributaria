@@ -1,0 +1,48 @@
+# Oficio N° 165 de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 165
+- Año: 2001
+- Fecha: 2001-02-27
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja165.htm
+- Hash SHA-256: 3816743620bed3d3c291045e1670145f96b04b9d12fe3a3bcdca8e279834f38c
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Ley Impuesto a las – Art. 2° N° 2°, Art. 8°, Art. 55° - Art. 20° N°3° y N°4°, de la Ley de la Renta. Word . Tributación y Momento de Emisión de la Boleta en el Contrato Denominado por las Partes Como “Prestación de Servicios de Lavandería” Celebrado Entre una Empresa y la Comunidad de Un Edificio. (Of. N° 842, de 27.02.2001 – I. Indirectos)
+
+## Referencias detectadas
+
+- {"type":"articulo","law":"LIR","article":"20"}
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 2° N° 2°, ART. 8°, ART. 55° - ART. 20° N°3° Y N°4°, DE LA LEY DE LA RENTA.
+
+Home | Ventas y Servicios - 2001
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 2° N° 2°, ART. 8°, ART. 55° - ART. 20° N°3° Y N°4°, DE LA LEY DE LA RENTA.
+
+TRIBUTACIÓN Y MOMENTO DE EMISIÓN DE LA BOLETA EN CONTRATO DE “PRESTACIÓN DE SERVICIOS DE LAVANDERÍA” – DEFINICIÓN DE “SERVICIOS” – NORMAS APLICABLES – CONTRATO DE PRESTACIÓN DE SERVICIOS NO CORRESPONDE A UNA PRESTACIÓN DE SERVICIOS EN LOS TÉRMINOS DEL ART. 2° N° 2° DEL D. LEY N° 825 – EXISTE UNA MERA CESIÓN TEMPORAL DEL USO Y GOCE DE MÁQUINAS LAVADORAS Y SECADORAS DE ROPA – A CAMBIO DE UNA REMUNERACIÓN – CONFIGURA UN HECHO GRAVADO ESPECIALMENTE CON IVA EN EL ART. 8° LETRA G) – LA EMPRESA DEBE EMITIR BOLETA POR LA CESIÓN DE LAS MAQUINAS – DEBE SER EMITIDA EN EL MOMENTO MISMO EN QUE REMUNERACIÓN SE PERCIBA O SE PONGA EN CUALQUIER FORMA A DISPOSICIÓN DEL PRESTADOR DEL SERVICIO.
+
+1.- Se ha recibido en esta Dirección Nacional su Oficio indicado en el antecedente, mediante el cual traslada una consulta formulada por un administrador de la Comunidad Edificio YY II, en que solicita un pronunciamiento en relación a la tributación que se genera cuando una empresa, en este caso “XX Ltda.”, instala sus máquinas lavadoras de ropa en dependencias del Edificio, las cuales funcionan bajo la modalidad de venta de fichas a los comuneros. Señala que la Comunidad del Edificio YY II suscribió un contrato de prestación de servicios de lavandería, que se acompaña a la presentación, con la empresa XX Ltda. con el objeto de prestar dichos servicios a los arrendatarios y/o copropietarios de la Comunidad.
+Expone que en virtud del contrato citado, la empresa XX Ltda. se obliga a instalar en dependencias del Edificio, las máquinas lavadoras y secadoras de su propiedad y a realizar las mejoras e instalaciones que se requieran para la prestación del servicio. El pago por tal servicio se hará bajo la modalidad de venta de fichas a los usuarios, que estarán a su disposición en la conserjería del Edificio.
+Manifiesta que en base al contrato suscrito, la Comunidad no recibe ningún tipo de beneficio económico por la venta de las fichas, ni tampoco por concepto de arrendamiento del espacio donde se ubicarán las máquinas.
+De acuerdo a lo anteriormente expuesto, la Comunidad plantea si Comercial XX Ltda. está obligada a mantener talonarios de boletas de compraventa, y si estas deben ser extendidas al momento de vender cada ficha, o bien, se debe extender una factura comercial mensual a la comunidad por los servicios prestados.
+2.- El artículo 2° N° 2 del D.L N° 825, de 1974, define lo que debe entenderse por servicio para los efectos de la aplicación del Impuesto al Valor Agregado como “la acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N° 3 y 4, del Artículo 20°, de la Ley sobre impuesto a la Renta.”.
+Por su parte, el artículo 8° letra g) del texto legal citado, grava con IVA “El arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles...”.
+Por último, el artículo 55 inciso séptimo del D.L. N° 825, de 1974, dispone que en caso de prestaciones de servicios, las boletas deberán ser emitidas en el momento mismo en que la remuneración se perciba o se ponga, en cualquier forma, a disposición del prestador del servicio.
+3.- Sobre el particular, el contrato de prestación de servicios de lavandería acompañado a la presentación no corresponde a una prestación de servicios en los términos establecidos en el artículo 2 N° 2 del D.L.. N° 825, de 1974, puesto que no existe una prestación propiamente tal realizada por la empresa, sino la mera cesión temporal del uso y goce de máquinas lavadoras y secadoras de ropa que son de su propiedad y la consiguiente responsabilidad por su mantenimiento, todo ello a cambio de una remuneración, situación que configura un hecho gravado especialmente con IVA en el artículo 8° letra g) del citado cuerpo legal.
+Las fichas para el uso de las máquinas lavadoras y secadoras de ropa, que son pagadas por cada usuario de las mismas al conserje del Edificio, constituyen la forma de recaudar y prorratear entre todos los comuneros que utilizan las máquinas de lavado el costo que implica su cesión, dineros que en su conjunto, representan el pago que la comunidad hace a la empresa por la concesión del goce de las máquinas de su propiedad.
+4.- Por lo anterior, y en atención a que el contrato es celebrado entre XX Ltda. y la Comunidad del Edificio YY II, la empresa debe emitir a esta última por la cesión de las máquinas puestas a disposición de la Comunidad la correspondiente boleta, que de acuerdo a lo dispuesto por el artículo 55 inciso séptimo del D.L. N° 825, debe ser otorgada dentro del período tributario en el cual se perciba o se ponga de cualquier forma a su disposición la remuneración correspondiente.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 842, del 27.02.2001
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

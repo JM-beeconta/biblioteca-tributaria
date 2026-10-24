@@ -1,0 +1,40 @@
+# Oficio N° 3234 de 2003
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3234
+- Año: 2003
+- Fecha: 2003-07-02
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/renta3234.htm
+- Hash SHA-256: dfaf4be2b5c754bffd77225a98077ce4b8c888fa93fcc4c65d02835fd46e19c2
+
+## Resumen
+
+7.2003) Ley de Impuesto a la Renta. Artículos 22 N° 5 y 26 bis. Informa sobre consultas relacionadas con los Pescadores Artesanales respecto del Programa Pro-empleo Bonificación para el Aprendizaje. ( Ord N° 3234, de 02 de Julio del 2003)
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ARTS. 42 N°S. 1 Y 2, 42 BIS, 50 INCISO 3° (ORD. N° 6626, DE 24.12.2003
+
+Home | Ley Renta -
+2003
+LEY SOBRE IMPUESTO A LA RENTA –
+ARTS. 22 N° 5 Y 26 BIS. ORD. N° 3234, DE 02.07.2003
+
+Informa sobre
+consultas relacionadas con los Pescadores Artesanales respecto del Programa
+Pro-empleo Bonificación para el Aprendizaje.
+
+OFICIO NO.
+3234 ,
+DE
+02 .0 7 . 2003
+
+SUBDIRECCION NORMATIVA
+
+DEPTO. IMPUESTOS DIRECTOS

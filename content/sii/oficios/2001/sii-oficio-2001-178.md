@@ -1,0 +1,68 @@
+# Oficio N° 178 de 2001
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 178
+- Año: 2001
+- Fecha: 2001-04-06
+- Categoría: Renta, IVA
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja178.htm
+- Hash SHA-256: 69686573d6d0935088584208f49d4cf3a0d5bafaf10d9674747e3812c27ee3a8
+
+## Resumen
+
+Ventas y Servicios – Nuevo Texto – Ley Impuesto a las – Art.12° Letra E) N° 2°, Art. 23° - D. S. N° 341°, de 1977, Art. 10° Bis. Word Exención Establecida en el Artículo 12 Letra E) N° 2° del D. L. N° 825, al Transporte de Mercaderías Desde el Puerto de Iquique a la Zona Franca de Dicha Ciudad. (Of. N° 1546, de 06.04.2001 – I. Indirectos)
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+VENTAS Y SERVICIOS - VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART.12° LETRA E) N° 2°, ART. 23° - D. S. N° 341°, DE 1977, ART. 10° BIS.
+
+Home | Ventas y Servicios - 2001
+VENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART.12° LETRA E) N° 2°, ART. 23° - D. S. N° 341°, DE 1977, ART. 10° BIS.
+
+TRANSPORTE DE MERCADERÍAS DESDE EL PUERTO DE IQUIQUE A ZONA FRANCA DE DICHA CIUDAD – EXENCIÓN DE IVA ESTABLECIDA EN EL ARTÍCULO 12° LETRA E N° 2° DEL D. LEY N° 825 – NORMATIVA APLICABLE – TRANSPORTE DE CARGA POR VÍA TERRESTRE QUE SE PRESTE DENTRO DEL TERRITORIO NACIONAL SE ENCUENTRA AFECTO A IVA DE ACUERDO A LAS REGLAS GENERALES – FRANQUICIA ESTA DESTINADA A BENEFICIAR EXCLUSIVAMENTE AL TRANSPORTE INTERNACIONAL DE CARGA – PARA ACCEDER A FRANQUICIA ES NECESARIO CUMPLIR CON TODOS LOS REQUISITOS LEGALES EXIGIDOS EN FORMA COPULATIVA – FLETE MATERIA DE LA CONSULTA NO QUEDA AMPARADO POR LA FRANQUICIA EN COMENTO – DEBE SER FACTURADO CON IVA DE ACUERDO A REGLAS GENERALES – PRESUNCIÓN DE EXTRATERRITORIALIDAD DE LAS ZONAS FRANCAS ES EXCLUSIVAMENTE ADUANERA – VENTAS DE MERCADERÍAS A LAS ZONAS FRANCAS SE CONSIDERARÁN EXPORTACIÓN SOLO PARA EFECTOS TRIBUTARIOS DEL D.L. N° 825, DE 1974 – ZONA FRANCA ES UN RÉGIMEN LEGAL QUE TIENE POR FINALIDAD FAVORECER UN TRATAMIENTO TRIBUTARIO Y ADUANERO ESPECIAL – TRANSPORTE REALIZADO DESDE EL PUERTO DE IQUIQUE HASTA ZONA FRANCA DE DICHA CIUDAD CONSERVA SU CARÁCTER DE NACIONAL – SERVICIO SE ENCUENTRA GRAVADO CON IVA – EMPRESA DE TRANSPORTES EN CUESTIÓN PODRÁ IMPUTAR CRÉDITO FISCAL AL DÉBITO FISCAL GENERADO POR EL MISMO IMPUESTO.
+
+1.- Se ha recibido en esta Dirección Nacional su oficio indicado en el antecedente, mediante el cual consulta si el transporte de carga que realiza una Empresa de Servicios Integrales de Transporte, desde el puerto de Iquique al recinto de la Zona Franca de esa ciudad, se encuentra exento de IVA, en conformidad al artículo 12 letra E N° 2 del D.L. N° 825, de 1974.
+
+Señala que la Empresa emite facturas exentas de IVA por el transporte de carga que realiza desde el puerto de Iquique al recinto de la Zona Franca de esa ciudad, aduciendo que tales fletes se encuentran amparados por la exención establecida en el artículo 12 letra E N° 2 del D.L. N° 825, de 1974.
+
+La empresa argumenta que le es aplicable la exención señalada porque en ella se establece como requisito para que opere, que la internación o nacionalización debe producirse en el puerto de destino, y en el caso planteado la mercadería no es nacionalizada en el puerto de Iquique, como tampoco lo es en la Zona Franca, ya que la nacionalización se producirá cuando alguien compre dicha mercadería para ingresarla al resto del país.
+
+A juicio de la Dirección Regional consultante, la referida exención está contemplada como una exención al flete internacional cuando la mercadería es desembarcada en un puerto distinto al de destino, donde finalmente se producirá la internación, lo que no sucede en la especie, ya que por una parte los conocimientos de embarque indican como destino el puerto de Iquique, lugar donde es desembarcada la mercadería, y por la otra, porque el flete hasta la Zona Franca se hace en virtud de un contrato entre la Empresa y el usuario de dicha Zona y no con la empresa naviera que realiza el transporte internacional.
+De acuerdo a lo expuesto plantea las siguientes interrogantes:
+a.- ¿La sola condición de que se trate del flete de mercancías que no son nacionalizadas al desembarcar en el puerto de destino como tampoco en su ingreso a Zona Franca, donde finalmente son transportadas, hace aplicable la exención invocada por la empresa?
+b.- Si se trata de un flete de mercaderías desde el territorio nacional a una zona extraterritorial como es la Zofri ¿se está en presencia de un flete internacional, de aquellos definidos en el artículo 36 inciso 4° del D.L. N° 825, de 1974?
+c.- Considerando que la Empresa subcontrata los fletes de que se trata ¿se tiene derecho al crédito fiscal en una o ambas alternativas?
+
+2.- El artículo 12 letra E N° 2 del D.L. N° 825, dispone que “Estarán exentos del impuesto establecido en este título, los fletes marítimos, fluviales, lacustres, aéreos y terrestres, del exterior a Chile y viceversa y los pasajes internacionales. Tratándose de fletes marítimos o aéreos del exterior a Chile, la exención alcanzará incluso al flete que se haga dentro del territorio nacional, cuando éste sea necesario para trasladar las mercancías hasta el puerto o aeropuerto de destino, y siempre que la internación o nacionalización de las mercancías se produzca en dicho puerto o aeropuerto”.
+3.- Sobre el particular cabe señalar que, el transporte de carga por vía terrestre que se preste dentro del territorio nacional es un servicio que se encuentra afecto a IVA, de acuerdo a las reglas generales.
+
+Sin perjuicio de ello, de conformidad al artículo 12 letra E N° 2, del D.L. N° 825, se encontrarán exentos de IVA los fletes marítimos, fluviales, lacustres, aéreos y terrestres del exterior a Chile y viceversa. Esta disposición en su segunda parte extiende esta franquicia a los fletes de cualquier naturaleza que tengan lugar dentro del territorio nacional, para hacer llegar a su puerto o aeropuerto de destino final, las mercaderías provenientes del extranjero por vía marítima o aérea, siempre que la nacionalización o internación de las mercaderías transportadas se produzca en el puerto o aeropuerto de destino último. De esta forma, resulte irrelevante determinar donde y entre que partes se celebró el contrato de transporte.
+
+4.- Con relación a la primera consulta planteada, se debe tener presente que esta es una franquicia destinada a beneficiar exclusivamente al transporte internacional de carga, el cual se extenderá a aquella parte efectuada dentro del territorio nacional con la finalidad de trasladar la mercadería al puerto o aeropuerto de destino, cuando haya sido desembarcada en uno distinto, de manera que una vez llegada la carga a su puerto o aeropuerto de destino final, todo flete de dicha mercadería realizado dentro del país se encontrará gravado con IVA.
+Ahora bien, para acceder a la franquicia en comento, es necesario cumplir con todos los requisitos legales exigidos en forma copulativa, es decir, debe tratarse de una mercadería procedente del exterior que llega a Chile por vía marítima o aérea; es necesario que ella deba transportarse a un puerto o aeropuerto, el cual será su destino final; y que en dicho puerto o aeropuerto se produzca la nacionalización o internación legal de las mercancías transportadas.
+
+En la especie, de acuerdo a lo señalado por el Director Regional de la Primera Dirección Regional de Tarapacá, los conocimientos de embarque indican como puerto de destino final de la mercadería transportada el puerto de Iquique, de manera que debe entenderse que es ahí donde concluye el transporte internacional.
+
+Por consiguiente, el transporte realizado por la Empresa desde el puerto de Iquique hasta la Zona Franca de esa misma ciudad, no puede ser considerado como parte integrante del transporte internacional, puesto que éste, según los conocimientos de embarque, finalizó con el desembarco de las mercaderías en dicho puerto. De esta forma, el flete en cuestión no queda amparado por la franquicia contenida en el artículo 12 letra E N° 2 del D.L. N° 825, debiendo ser facturado con IVA de acuerdo a las reglas generales que rigen el transporte de carga terrestre realizado dentro del país.
+
+5.- Con respecto a la segunda consulta planteada, es decir, si en este caso particular se está en presencia de un flete internacional, cabe señalar que esta Superioridad reiteradamente ha sostenido que la presunción de extraterritorialidad de las Zonas Francas es exclusivamente aduanera. Confirma este criterio el artículo 10 bis del D.S. N° 341, de 1977, el cual en su inciso tercero expresamente tuvo que señalar que las ventas de mercancías a las Zonas Francas se considerarán –puesto que no lo son- exportación, sólo para los efectos tributarios del D.L. N° 825, de 1974.
+Además, se debe tener en cuenta que la Zona Franca es un régimen legal que tiene por finalidad favorecer con un tratamiento aduanero y tributario especial a la introducción en ella de mercancías de todo tipo, para internarlas al país, armarlas, elaborarlas o integrarlas en nuevos productos con la misma finalidad, exportarlas o reexportarlas, y ser comercializadas bajo condiciones preferentes, no viéndose beneficiados con dicho régimen los servicios, salvo en las situaciones expresamente contempladas en el D.S. N° 341, de 1977.
+
+Ahora bien, en conformidad a lo señalado precedentemente, no es posible considerar como flete internacional el transporte realizado por la Empresa desde el puerto de Iquique hasta la Zona Franca de dicha ciudad, el cual conserva su carácter de nacional, ya que se presta desde un punto a otro del territorio chileno y, por lo tanto es un servicio que se encuentra gravado con IVA.
+
+6.- En cuanto a la posibilidad que la Empresa recupere el crédito fiscal por el IVA soportado en la subcontratación del transporte encomendado, cabe señalar que siendo el flete contratado desde el puerto de Iquique hasta la Zona Franca de dicha ciudad un flete nacional, y por ende gravado con IVA, la empresa de transportes en cuestión podrá imputar dicho crédito al débito fiscal generado por el mismo impuesto, de acuerdo a las normas generales contenidas en el artículo 23 del D.L. N° 825, de 1974.
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio Nº 1546, del 06.04.2001
+
+Subdirección Normativa
+
+Depto. Impuestos Indirectos

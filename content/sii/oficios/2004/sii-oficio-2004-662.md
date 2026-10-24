@@ -1,0 +1,48 @@
+# Oficio N° 662 de 2004
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 662
+- Año: 2004
+- Fecha: 2004-02-19
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja662.htm
+- Hash SHA-256: bdc12c26824487ee5aa54977f39bb68d71a3747af7d85d7afe9e0a4e5ec3515e
+
+## Resumen
+
+04.03.2004) Ley sobre Impuesto a la Renta – Art. 40 N° 3 Word Tratamiento tributario de los ingresos que obtiene una caja de compensación de asignación familiar con motivo de la securitización de los créditos de sus asociados. (Ord. N° 977, de 19.02.2004)
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - LEY SOBRE IMPUESTO A LA RENTA – ART. 40 N° 3 (ORD. N° 977, DE 19.02.2004)
+
+Home | Ley Renta - 2004
+LEY SOBRE IMPUESTO A LA RENTA – ART. 40 N° 3 (ORD. N° 977, DE 19.02.2004)
+
+TRATAMIENTO TRIBUTARIO DE LOS INGRESOS QUE OBTIENE UNA CAJA DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR CON MOTIVO DE LA SECURITIZACIÓN DE LOS CRÉDITOS DE SUS ASOCIADOS
+
+1.- Se han recibido en esta Dirección sus Oficios indicados en el antecedente, en los que señala que la C.C.A.F. que indica ha solicitado la opinión de esa Superintendencia sobre los aspectos tributarios que afectan al crédito social cuando es transferido su dominio a una sociedad securitizadora, específicamente sobre si la recepción de los intereses anticipados que la securitizadora paga a la Caja una vez vendido el bono podrían ser considerados como un ingreso afecto a impuesto de Primera Categoría o mantendrían la exención tributaria de que goza el crédito social. Señala a continuación, que la referida Caja ha manifestado que la interpretación que pudiese efectuar este Servicio podría elevar el costo de utilizar securitización como vía de financiamiento, obligando a las cajas a incrementar permanentemente su nivel de endeudamiento bancario si desean crecer, y hace presente que en su opinión los intereses anticipados no pierden su condición de estar exentos de impuestos ya que solo se trata de un adelanto del interés de colocaciones de crédito social.
+Atendido que la materia consultada es de la competencia de este Servicio, esa Superintendencia solicita un pronunciamiento respecto a la materia consultada por la C.C.A.F. señalada, para cuyo efecto remite copia de la presentación de esta última.
+2.- Respecto de la materia consultada procede expresar, que la Ley de la Renta a través del Artículo 40 N° 3, establece que estarán exentas del impuesto de la Primera Categoría las rentas percibidas entre otras, por las instituciones de ahorro y previsión social que determine el Presidente de la República.
+Sin embargo, el inciso final de este mismo Artículo dispone que, las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20º.
+3.- En conformidad con la disposición señalada, los intereses que percibe la C.C.A.F. mencionada, por los créditos sociales a que se refiere su consulta, se encuentran exentos del impuesto de Primera Categoría.
+4.- Ahora bien, sobre los aspectos tributarios que se presentarían con motivo de la transferencia de dominio del crédito social a una sociedad securitizadora, procede indicar en primer término que tal operación tendría la naturaleza jurídica de una cesión de crédito, en cuanto por dicha convención el cesionario adquiere un crédito antes de su vencimiento pagando a su titular su importe con deducción de una parte de dicho valor.
+De acuerdo con la operación descrita, y analizando el tratamiento tributario que desde el punto de vista del cedente, tendrían los intereses que acceden a los créditos cedidos en virtud de dicha convención, procede indicar que tales sumas (intereses) devengadas hasta el momento de la transferencia en cuestión, mantienen el carácter original que tenían para el cedente.
+Ahora bien, teniendo presente que la securitización de los créditos es un acto posterior al otorgamiento de los mismos, esta Dirección debe señalar, que tal operación, esto es, anticipar o convertir en liquidez los flujos futuros por concepto de tales créditos, por medio del instrumento financiero denominado securitización, debe tributariamente ser tratado tal como su naturaleza jurídica indica, esto es, como una cesión de créditos o como la transferencia o enajenación del derecho a percibir los flujos futuros que estos representan.
+Por otro lado procede expresar que esta Dirección respecto al tratamiento tributario de la renta proveniente de una cesión de créditos, ha establecido que corresponde clasificarla dentro del número 5 del artículo 20 de la Ley de la Renta, afecta a los impuestos generales de dicho texto legal; y además que el costo de dicha operación de transferencia debe ser equivalente al valor libro por el cual dichos créditos con sus intereses respectivos figuran contabilizados en los registros contables del cedente enajenante.
+5.- En consideración a lo expresado precedentemente cabe señalar, que los flujos provenientes de la securitización de los créditos de la C.C.A.F. referida, pierden su identidad con los intereses del crédito original, y consecuencialmente también pierden la exención de impuestos referida en los números 2 y 3 anteriores, puesto que tal como se ha expresado tales flujos tienen una naturaleza distinta a la que tienen los provenientes del otorgamiento de los créditos sociales. Sin perjuicio de ello procede indicar que con motivo de la pérdida de la referida exención, no se le produce a la C.C.A.F. en referencia una mayor carga tributaria en términos de la aplicación de los impuestos generales de la Ley de la Renta, puesto que el resultado que produce la operación de securitización en los resultados de ésta, generalmente se traduce en una pérdida producto de la tasa de descuento pactada.
+
+ALFREDO ECHEVERRIA HERRERA
+
+DIRECTOR SUBROGANTE
+
+OFICIO N° 977, DE 19.02.2004
+
+DEPTO. IMPTOS. DIRECTOS
+
+SUBDIRECCION NORMATIVA
