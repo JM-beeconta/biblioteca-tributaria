@@ -7,24 +7,29 @@
   <title>Biblioteca Tributaria Beeconta</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700;800&family=IBM+Plex+Serif:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=DM+Mono:wght@400;500&display=swap" />
+  <link rel="icon" href="./assets/brand/beeconta-bee.svg" type="image/svg+xml" />
+  <meta name="theme-color" content="#003DD0" />
   <link rel="stylesheet" href="./assets/app.css" />
 </head>
 <body>
+  <div class="band">
+  <svg class="band-ribbon" viewBox="0 0 1200 520" preserveAspectRatio="none" aria-hidden="true"><path d="M-40 120 C 180 -40, 320 360, 520 240 S 820 -60, 1000 160 S 1180 470, 1260 380" /><path d="M-60 470 C 160 330, 360 520, 600 420 S 980 280, 1260 300" /></svg>
   <header class="topbar">
     <a class="brand" href="./" aria-label="Biblioteca Tributaria Beeconta">
-      <span class="brand-dot"></span>
-      <span>Beeconta</span>
+      <img class="brand-logo" src="./assets/brand/beeconta-lockup-inverse.svg" alt="Beeconta" width="132" height="47" />
       <span class="brand-sub">Biblioteca Tributaria</span>
     </a>
-    <a class="machine-link" href="./llms.txt">Acceso para IA</a>
+    <nav class="topnav">
+      <a class="machine-link" href="./llms.txt">Acceso para IA</a>
+      <a class="pill-link" href="https://beeconta.cl/" target="_blank" rel="noopener">beeconta.cl →</a>
+    </nav>
   </header>
 
-  <main>
-    <section class="hero">
+  <section class="hero">
       <p class="eyebrow">FUENTES OFICIALES · CHILE</p>
-      <h1>Busca la ley y el criterio del SII en un solo lugar.</h1>
-      <p class="hero-copy">Base legal de LeyChile/BCN más Circulares y Jurisprudencia Administrativa del Servicio de Impuestos Internos.</p>
+      <h1>Busca la ley y el criterio del SII en <span class="hl">un solo lugar.</span></h1>
+      <p class="hero-copy">Base legal de LeyChile/BCN más Circulares, Oficios y Resoluciones del Servicio de Impuestos Internos, con su enlace oficial.</p>
 
       <div class="corpus-monitor" aria-live="polite">
         <div class="corpus-primary">
@@ -47,6 +52,11 @@
         <input id="search" type="search" autocomplete="off" placeholder="Ej: artículo 31, gastos rechazados, reorganización, IVA servicios…" />
         <span class="shortcut">/</span>
       </div>
+  </section>
+  </div>
+
+  <main>
+    <section class="filters-wrap">
 
       <div class="filters" aria-label="Filtros">
         <select id="sourceFilter" aria-label="Fuente">
@@ -88,6 +98,14 @@
       <p>BCN representa la base legal. Los Oficios y Circulares representan doctrina e instrucciones administrativas del SII. Para una conclusión tributaria, revisa siempre el enlace a la fuente oficial.</p>
     </section>
   </main>
+
+  <footer class="site-footer">
+    <div class="site-footer-inner">
+      <img src="./assets/brand/beeconta-lockup-inverse.svg" alt="Beeconta" width="118" height="42" />
+      <p>Una biblioteca abierta de <strong>Beeconta</strong>: contabilidad clara para empresas que quieren crecer. La copia facilita la consulta; ante cualquier diferencia prevalece la fuente oficial.</p>
+      <a class="pill-cta" href="https://beeconta.cl/" target="_blank" rel="noopener">Conversemos tu caso →</a>
+    </div>
+  </footer>
 
   <dialog id="reader">
     <div class="reader-head">

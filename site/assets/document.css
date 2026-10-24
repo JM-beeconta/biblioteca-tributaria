@@ -1,16 +1,23 @@
+/* Mismos tokens de marca que app.css (azul #003DD0, amarillo #FFC300, azul tinta, DM Sans). */
 :root {
   --blue: #003DD0;
+  --blue-ink: #00338E;
+  --blue-deep: #0B2B86;
+  --tint: #DDE7FB;
+  --tint-soft: #F2F6FF;
   --yellow: #FFC300;
-  --ink: #0B1739;
-  --muted: #667085;
-  --line: #E4E7EC;
-  --soft: #F7F9FC;
+  --yellow-soft: #FFF6D6;
+  --ink: #0B2B86;
+  --text: #334155;
+  --muted: #64748B;
+  --line: #E2E8F0;
+  --soft: #F8FAFF;
   --white: #FFFFFF;
-  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --font-serif: "IBM Plex Serif", Georgia, "Times New Roman", serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-serif: var(--font-sans);
+  --font-mono: "DM Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   font-family: var(--font-sans);
-  color: var(--ink);
+  color: var(--text);
   background: var(--white);
 }
 
@@ -19,23 +26,26 @@ html { background: var(--white); }
 body { margin: 0; background: var(--white); color: var(--ink); }
 a { color: inherit; }
 
-.document-shell { max-width: 880px; margin: 0 auto; padding: 36px 42px 72px; }
+body { border-top: 6px solid var(--blue); }
+body::before { content: ""; display: block; height: 3px; background: var(--yellow); width: 120px; }
+.document-shell { max-width: 880px; margin: 0 auto; padding: 30px 42px 72px; }
 .document-topline { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 28px; }
-.document-brand { display: inline-flex; align-items: center; gap: 10px; font-size: 12px; font-weight: 900; letter-spacing: .08em; color: var(--blue); text-transform: uppercase; }
-.document-brand-mark { width: 11px; height: 11px; border-radius: 3px; background: var(--yellow); box-shadow: 6px 6px 0 var(--blue); margin-right: 5px; }
-.document-source-link { font-size: 12px; font-weight: 800; color: var(--blue); text-decoration: none; border-bottom: 1px solid #B9CAFF; }
-.document-source-link:hover { border-bottom-color: var(--blue); }
+.document-brand { display: inline-flex; align-items: center; gap: 12px; font-size: 13px; font-weight: 600; color: var(--blue-ink); text-decoration: none; }
+.document-brand img { display: block; height: 30px; width: auto; }
+.document-brand span { padding-left: 12px; border-left: 1px solid var(--line); }
+.document-source-link { display: inline-flex; align-items: center; font-size: 12px; font-weight: 700; color: var(--blue); text-decoration: none; padding: 7px 14px; border-radius: 999px; border: 1px solid var(--tint); background: var(--tint-soft); transition: background .15s ease; }
+.document-source-link:hover { background: var(--yellow); border-color: var(--yellow); color: var(--blue-deep); }
 
 .document-hero { border-bottom: 1px solid var(--line); padding-bottom: 28px; }
-.document-kicker { display: flex; align-items: center; gap: 8px; margin: 0 0 10px; color: var(--blue); font-size: 11px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
-.document-title { margin: 0; max-width: 760px; font-family: var(--font-serif); font-weight: 600; font-size: clamp(28px, 5vw, 44px); line-height: 1.08; letter-spacing: -.008em; }
-.document-summary { margin: 18px 0 0; max-width: 760px; font-size: 17px; line-height: 1.55; color: #344054; }
+.document-kicker { display: flex; align-items: center; gap: 8px; margin: 0 0 12px; color: var(--blue); font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.document-title { margin: 0; max-width: 760px; font-family: var(--font-sans); font-weight: 700; font-size: clamp(28px, 5vw, 42px); line-height: 1.1; letter-spacing: -.015em; color: var(--blue-ink); text-wrap: balance; }
+.document-summary { margin: 18px 0 0; max-width: 760px; font-size: 17px; line-height: 1.55; color: var(--text); }
 
-.cite-stamp { display: inline-flex; align-items: center; font-family: var(--font-mono); font-size: 11px; font-weight: 600; letter-spacing: .01em; padding: 3px 7px; border-radius: 4px; border: 1px solid #B9CAFF; background: #EEF3FF; color: var(--blue); white-space: nowrap; text-transform: none; }
-.cite-stamp.source-sii { border-color: #EAC94F; background: #FFF7D6; color: #654D00; }
+.cite-stamp { display: inline-flex; align-items: center; font-family: var(--font-mono); font-size: 11px; font-weight: 500; letter-spacing: .01em; padding: 3px 8px; border-radius: 6px; border: 1px solid #B9CAFF; background: var(--tint-soft); color: var(--blue); white-space: nowrap; text-transform: none; }
+.cite-stamp.source-sii { border-color: #F2D46B; background: var(--yellow-soft); color: #5C4500; }
 
 .document-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
-.document-chip { display: inline-flex; align-items: center; min-height: 28px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; background: var(--soft); font-size: 11px; font-weight: 800; color: #475467; }
+.document-chip { display: inline-flex; align-items: center; min-height: 28px; padding: 5px 11px; border: 1px solid var(--line); border-radius: 999px; background: var(--soft); font-size: 12px; font-weight: 600; color: var(--text); }
 .document-chip.source-sii { background: #FFF7D6; border-color: #F4D76C; color: #654D00; }
 .document-chip.source-bcn { background: #EEF3FF; border-color: #CBD8FF; color: var(--blue); }
 
@@ -47,9 +57,9 @@ a { color: inherit; }
 .document-body { padding-top: 30px; }
 .document-body-label { display: flex; align-items: center; gap: 10px; margin-bottom: 22px; font-size: 11px; font-weight: 900; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); }
 .document-body-label::after { content: ""; height: 1px; flex: 1; background: var(--line); }
-.legal-paragraph { margin: 0 0 18px; font-family: var(--font-serif); font-size: 17px; line-height: 1.72; color: #182230; }
-.legal-heading { margin: 30px 0 14px; font-size: 14px; line-height: 1.45; font-weight: 900; letter-spacing: .025em; color: var(--ink); }
-.legal-numbered { padding-left: 18px; border-left: 3px solid #E7ECF8; }
+.legal-paragraph { margin: 0 0 18px; font-family: var(--font-sans); font-size: 17px; line-height: 1.72; color: #1E293B; }
+.legal-heading { margin: 30px 0 14px; font-size: 14px; line-height: 1.45; font-weight: 700; letter-spacing: .03em; color: var(--blue-ink); }
+.legal-numbered { padding-left: 18px; border-left: 3px solid var(--tint); }
 .document-empty { padding: 28px 0; color: var(--muted); font-size: 14px; }
 
 .document-footer { margin-top: 44px; padding-top: 22px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; line-height: 1.5; }
