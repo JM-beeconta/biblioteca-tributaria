@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { loadDocuments, mergeDocuments, writeLibraryData } from '../lib/store.mjs';
+import { loadDocuments, mergeDocuments, selectRangeReplacement, writeLibraryData } from '../lib/store.mjs';
 
 const ROOT = process.cwd();
 
@@ -21,7 +21,41 @@ if (!Array.isArray(incoming)) throw new Error('docs.json inválido');
 
 const existing = await loadDocuments(ROOT);
 const now = new Date().toISOString();
-const { documents: mergedDocuments } = mergeDocuments(existing, incoming, { now });
+
+// --replace: el tramo recargado REEMPLAZA a los documentos SII guardados de esos años, en vez de
+// sumarse. Hace falta para limpiar lo que dejó el lector anterior (oficios duplicados .htm/.doc,
+// números tomados de un oficio citado, años equivocados). Protecciones:
+// - un año/tipo sin documentos nuevos, o con menos del 45% de los que había, se conserva intacto
+//   (índice del SII caído o lector roto); los duplicados viejos hacen que lo normal ronde el 50%;
+// - lo ya recargado por otro tramo de la misma campaña (--campaign) no se borra: un oficio de
+//   diciembre publicado en el índice del año siguiente llega desde el tramo vecino.
+const replace = process.argv.includes('--replace');
+const campaign = arg('campaign', null);
+const fromYear = Number(arg('from'));
+const toYear = Number(arg('to'));
+if (replace && (!campaign || !Number.isInteger(fromYear) || !Number.isInteger(toYear))) {
+  throw new Error('--replace exige --campaign, --from y --to');
+}
+if (campaign) for (const doc of incoming) doc.backfill_campaign = campaign;
+
+const { base, removed, kept } = replace
+  ? selectRangeReplacement(existing, incoming, { from: fromYear, to: toYear, campaign })
+  : { base: existing, removed: [], kept: [] };
+
+const { documents: mergedDocuments } = mergeDocuments(base, incoming, { now });
+
+if (removed.length) {
+  const livePaths = new Set(mergedDocuments.map((doc) => doc.content_path));
+  for (const doc of removed) {
+    if (doc.content_path && !livePaths.has(doc.content_path)) {
+      await fs.rm(path.join(ROOT, doc.content_path), { force: true });
+    }
+  }
+}
+if (replace) {
+  console.log(`Reemplazo ${range}: ${removed.length} documentos anteriores retirados`);
+  for (const key of kept) console.log(`Reemplazo ${range}: se conserva ${key} (sin datos nuevos suficientes)`);
+}
 
 const sourceContent = path.join(input, 'content');
 try {
@@ -35,7 +69,10 @@ const status = await readJson(statusFile, {
   total_ranges: completedTotal,
   completed_ranges: [],
 });
-const completed = [...new Set([...(status.completed_ranges ?? []), range])];
+// Una campaña nueva parte su conteo de tramos desde cero (si no, heredaría los 14 de la anterior y
+// se marcaría "completed" con el primer tramo).
+const sameCampaign = !campaign || status.campaign === campaign;
+const completed = [...new Set([...(sameCampaign ? status.completed_ranges ?? [] : []), range])];
 const documents = mergedDocuments;
 
 await writeLibraryData(ROOT, documents, {
@@ -48,7 +85,8 @@ await writeLibraryData(ROOT, documents, {
 await fs.mkdir(path.dirname(statusFile), { recursive: true });
 await fs.writeFile(statusFile, `${JSON.stringify({
   status: completed.length >= completedTotal ? 'completed' : 'running',
-  requested_at: status.requested_at ?? now,
+  ...(campaign ? { campaign } : {}),
+  requested_at: sameCampaign ? status.requested_at ?? now : now,
   updated_at: now,
   completed_at: completed.length >= completedTotal ? now : null,
   total_ranges: completedTotal,
