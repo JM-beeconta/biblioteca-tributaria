@@ -11,7 +11,7 @@
 
 ## Resumen
 
-C�digo Tributario. Art�culo 69� Obligaci�n de solicitar autorizaci�n previa para disminuir el capital social, no existiendo excepci�n alguna para su debido cumplimiento, de acuerdo al texto del art�culo 69� del C�digo Tributario. (Oficio N� 1185, de 30 Marzo 1987).
+Código Tributario. Artículo 69° Obligación de solicitar autorización previa para disminuir el capital social, no existiendo excepción alguna para su debido cumplimiento, de acuerdo al texto del artículo 69° del Código Tributario. (.
 
 ## Referencias detectadas
 

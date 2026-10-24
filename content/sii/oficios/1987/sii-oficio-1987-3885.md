@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Mayo de 1988). C�digo Tributario. Art�culo 2, 68 y 88. Concepto de �Casa Matriz� empleado en las resoluciones del Servicio sobre tr�mites administrativos. (Oficio N� 3885 de 01 de Octubre de 1987).
+Mayo de 1988). Código Tributario. Artículo 2, 68 y 88. Concepto de “Casa Matriz” empleado en las resoluciones del Servicio sobre trámites administrativos. (.
 
 ## Referencias detectadas
 

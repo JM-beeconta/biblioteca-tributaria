@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4279
 - Año: 1988
-- Fecha: 1988-12-21
+- Fecha: 1988-12-28
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4278_88.htm
-- Hash SHA-256: bef757777078ad81263504f14911fca0c0543854bf101c47f06dbe8fdba31f3a
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/dic4279_88.htm
+- Hash SHA-256: 79c3dcab9102f908962477755e302199c9736e3f8c16f65126364201d8cb905a
 
 ## Resumen
 
-( Ley de Impuesto a la Renta. Artículo 41 Revalorización del activo realizable de una sociedad anónima, dedicada a la explotación de predios agrícolas. ( Oficio N° 4278 de 21 Diciembre 1988)
+3, de 28.12.1988) Ley sobre impuesto a la Renta-Art. 59° Tratamiento tributario relativo a las operaciones con Contratos a Futuros de Coberturas de Tasas de Interés normados en el capítulo VI del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. (
 
 ## Referencias detectadas
 
@@ -19,14 +19,15 @@
 
 ## Texto extraído
 
-OFICIO 53/1994
+LEY SOBRE IMPUESTO A LA RENTA-ART. 59° (ORDINARIO4279 DE
+21-12-1988)
 
-Home
-| Años Anteriores
-LEY DE
-IMPUESTO A LA RENTA. ARTICULO 41.
-OFICIO N° 4278 de 21 DICIEMBRE 1988
+Home | Años
+Anteriores
+LEY
+SOBRE IMPUESTO A LA RENTA-ART. 59°
+(ORDINARIO4279 DE 21-12-1988)
 
-Revalorización
-del activo realizable de una sociedad anónima, dedicada a la explotación
-de predios agrícolas.
+TRATAMIENTO TRIBUTARIO RELATIVO A LAS OPERACIONES CON CONTRATOS A FUTUROS
+DE COBERTURAS DE TASAS DE INTERÉS NORMADOS EN EL CAPÍTULO VI DEL
+COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES DEL BANCO CENTRAL DE CHILE.

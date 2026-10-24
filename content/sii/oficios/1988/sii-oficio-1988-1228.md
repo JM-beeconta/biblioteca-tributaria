@@ -6,12 +6,12 @@
 - Año: 1988
 - Fecha: 1988-04-20
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/903_88.htm
-- Hash SHA-256: ce6d425a5830cd3094ba976fc258a3bb7eb0ad24db7a250e6aa4dd47da9fdc4d
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/1228_88.htm
+- Hash SHA-256: 63fc85e5c68c391eb4b88375aaa14fd915e770979816328c85320f6cfd4e2ae2
 
 ## Resumen
 
-Ley de Impuesto a la Renta. Artículos 17°, 18°, y 41° Situación tributaria de cesión de derechos y venta de acciones efectuada por inversionista extranjero acogido a las normas del decreto ley N° 600 de 1974. (Oficio N° 903, de 23 de Marzo de 1988)
+1531 de 13-05-1988) Ley de Impuesto a la Renta. Artículo 59° N°1 Determinación del impuesto de retención en el caso que, siendo el impuesto legalmente de cargo del perceptor de la renta, mediante un acuerdo de las partes se obliga al deudor a pagarlo. (
 
 ## Referencias detectadas
 
@@ -19,15 +19,15 @@ Ley de Impuesto a la Renta. Artículos 17°, 18°, y 41° Situación tributaria 
 
 ## Texto extraído
 
-ORDINARIO N° 903, DE 23-03-1988
+ORDINARIO N° 3067, DE 08-09-1988
 
-Home
-| Años Anteriores
-Ley de
-Impuesto a la Renta. Artículos 17°, 18°, y 41°.
-Ordinario N° 903, de 23 de Marzo de 1988.-
+Home | Años
+Anteriores
+LEY
+SOBRE IMPUESTO A LA RENTA – ART. 59° N° 1 (ORDINARIO
+N° 1228, DE 20-04-1988)
 
-Situación tributaria de cesión de derechos y venta
-de acciones efectuada por inversionista extranjero acogido a las normas
-del decreto ley N° 600 de
-1974.
+Determinación
+del impuesto de retención en el caso que, siendo el impuesto legalmente
+de cargo del perceptor de la
+renta, mediante un acuerdo de las partes se obliga al deudor a pagarlo.

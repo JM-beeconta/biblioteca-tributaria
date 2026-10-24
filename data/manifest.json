@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-24T01:51:06.236Z",
-  "total_documents": 17394,
+  "generated_at": "2026-10-24T01:53:59.955Z",
+  "total_documents": 17624,
   "by_source": {
     "BCN": 5150,
-    "SII": 12244
+    "SII": 12474
   },
   "by_type": {
     "articulo": 4717,
     "norma": 433,
     "resolucion": 2015,
-    "oficio": 7770,
-    "circular": 2459
+    "oficio": 7772,
+    "circular": 2687
   },
   "by_year": {
     "1965": 99,
@@ -25,10 +25,10 @@
     "1982": 3,
     "1983": 4,
     "1984": 6,
-    "1985": 11,
-    "1986": 1,
-    "1987": 14,
-    "1988": 16,
+    "1985": 64,
+    "1986": 64,
+    "1987": 66,
+    "1988": 79,
     "1989": 60,
     "1990": 74,
     "1991": 76,
@@ -69,7 +69,7 @@
     "2026": 1148,
     "2027": 248,
     "2029": 164,
-    "sin-fecha": 194
+    "sin-fecha": 193
   },
   "min_year": 1965,
   "max_year": 2029,
@@ -78,7 +78,7 @@
       "name": "sin-fecha.json",
       "path": "data/index/sin-fecha.json",
       "relations_path": "data/relations/sin-fecha.json",
-      "count": 8,
+      "count": 7,
       "source": "SII",
       "year": null
     },
@@ -398,7 +398,7 @@
       "name": "1988.json",
       "path": "data/index/1988.json",
       "relations_path": "data/relations/1988.json",
-      "count": 12,
+      "count": 75,
       "source": "SII",
       "year": 1988
     },
@@ -406,15 +406,23 @@
       "name": "1987.json",
       "path": "data/index/1987.json",
       "relations_path": "data/relations/1987.json",
-      "count": 8,
+      "count": 60,
       "source": "SII",
       "year": 1987
+    },
+    {
+      "name": "1986.json",
+      "path": "data/index/1986.json",
+      "relations_path": "data/relations/1986.json",
+      "count": 63,
+      "source": "SII",
+      "year": 1986
     },
     {
       "name": "1985.json",
       "path": "data/index/1985.json",
       "relations_path": "data/relations/1985.json",
-      "count": 8,
+      "count": 61,
       "source": "SII",
       "year": 1985
     },

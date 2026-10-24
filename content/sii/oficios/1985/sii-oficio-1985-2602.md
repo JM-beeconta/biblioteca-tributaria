@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuestos a las Ventas y Servicios.
+Ley de Impuestos a las Ventas y Servicios. Art. 2°, N°2, y 8. Aplicación del IVA a las prestaciones de las agencias de viajes y turismo por tener el carácter de servicios afectos. (
 
 ## Referencias detectadas
 

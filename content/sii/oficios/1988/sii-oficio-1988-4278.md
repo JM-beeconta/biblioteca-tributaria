@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 4278
 - Año: 1988
-- Fecha: 1988-06-24
+- Fecha: 1988-12-21
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/2120_88.htm
-- Hash SHA-256: ab6c5b137240ea63ee1c9b27d412ef43b71f64167d9f17ddbd2839434827d921
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/anteriores/renta/4278_88.htm
+- Hash SHA-256: bef757777078ad81263504f14911fca0c0543854bf101c47f06dbe8fdba31f3a
 
 ## Resumen
 
-valorización del activo realizable de una sociedad anónima, dedicada a la explotación de predios agrícolas. ( Ley sobre impuesto a la renta – art. 29° y 31° N° 4 Tratamiento de los ingresos derivados de un contrato de arrendamiento de bienes intangibles (leasing). (Oficio N° 3067, de 08-09-1988) Ley sobre impuesto a la renta – art. 17° y 31° Tributación de las asignaciones de movilización y de colación para los fines de la Ley sobre Impuesto a la Renta. (Oficio N° 2120, de 08-09-1988) Ley sobre impuesto a la Renta…
+(Oficio N° 4279 de 21-12-1988) Ley de Impuesto a la Renta. Artículo 41 Revalorización del activo realizable de una sociedad anónima, dedicada a la explotación de predios agrícolas. (
 
 ## Referencias detectadas
 
@@ -19,15 +19,14 @@ valorización del activo realizable de una sociedad anónima, dedicada a la expl
 
 ## Texto extraído
 
-OFICIO N°2120 de 24 DE JUNIO DE 1988
+OFICIO 53/1994
 
-Home | Años
-Anteriores
-
+Home
+| Años Anteriores
 LEY DE
-IMPUESTO A LA RENTA. ARTICULO 17 y 31 OFICIO N°2120 DE 24 DE JUNIO DE 1988
+IMPUESTO A LA RENTA. ARTICULO 41.
+OFICIO N° 4278 de 21 DICIEMBRE 1988
 
-MATERIA:
-
-Tributación de las asignaciones de movilización y de colación para los
-fines de la Ley sobre Impuesto a la Renta.
+Revalorización
+del activo realizable de una sociedad anónima, dedicada a la explotación
+de predios agrícolas.
