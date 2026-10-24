@@ -4,167 +4,52 @@
 - Tipo: oficio
 - Número: 13
 - Año: 2010
-- Fecha: 2010-10-25
-- Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja1757.doc
-- Hash SHA-256: 97dd6fbdb8dd5ea01fa415065a58d9a0993833fc241a65c2d1547eb967c41dd7
+- Fecha: 2010-01-11
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2010/ja13.htm
+- Hash SHA-256: e5541bccb61a25a7e5f6802aa585042335268ead8950a2fcab40aec67bb85e23
 
 ## Resumen
 
-g; 13, DE 2001. (Ord. Nº 1934, de 25-10-2010) | Word . RENTA &ndash; ACTUAL LEY SOBRE IMPUESTO A LA &ndash; ART. 41°, ART. 42°, N°2, ART. 68° &ndash; CÓDIGO DEL TRABAJO, ART. 47°, ART, 48°, ART. 49°. (Ord. Nº 1757, de 04-10-2010) | Word Obligación de llevar contabilidad por parte de los contribuyentes del artículo 42°, N°2, de la Ley sobre Impuesto a la Renta. Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Ley N° 19.518, Art. 23°, Art. 36°, Art. 43, Art. 79. (Oficio N° 1743, de 04.10.2010) (Ord. Nº 1743, de…
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 9°, LETRA A), ART. 55° – OFICIO N° 1936, DE 1998. (Ord. Nº 13, de 11-01-2010) | | Word Obligación de documentar pago anticipado del precio de bienes confeccionados por encargo. <span class="glyphi
 
 ## Referencias detectadas
 
-- {"type":"articulo","law":"LIR","article":"41"}
-- {"type":"articulo","law":"LIR","article":"42 N"}
-- {"type":"articulo","law":"LIR","article":"42  N"}
-- {"type":"articulo","law":"LIR","article":"68"}
-- {"type":"articulo","law":"LIR","article":"42"}
+- {"type":"oficio","number":1936,"year":1998}
 
 ## Texto extraído
 
-Renta – Actual Ley Sobre Impuesto a la – Art. 41°, Art. 42°, N°2, Art. 68°
-    – Código del Trabajo, Art. 47°, Art, 48°, Art. 49°. (Ord. N° 1757, de
-                                 04.10.2010)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 9°, LETRA A), ART. 55° – OFICIO N° 1936, DE 1998. (ORD. N° 013, DE 11.01.2010)
 
+OBLIGACIÓN DE DOCUMENTAR PAGO ANTICIPADO DEL PRECIO DE BIENES CONFECCIONADOS POR ENCARGO –– NO RESULTA OBLIGATORIO EMITIR DOCUMENTACIÓN TRIBUTARIA SINO HASTA LA ENTREGA DEL BIEN QUE SE VENDE – EN CASO DE FACTURARSE DICHO ANTICIPO DE DINERO ANTES DE LA ENTREGA, LA EMISIÓN DE LA FACTURA IMPLICARÁ EL DEVENGO DEL IMPUESTO AL VALOR AGREGADO CORRESPONDIENTE AL ANTICIPO, DEBIENDO RECARGARSE EL MONTO DEL TRIBUTO EN EL REFERIDO DOCUMENTO.
 
+1.- Se ha recibido en esta Dirección Nacional la presentación del antecedente, mediante la cual el señor XXXX, en representación de YYY Ltda., solicita un pronunciamiento sobre la obligatoriedad de documentar los anticipos del precio de bienes confeccionados por encargo.
 
+Señala que el giro de su representada es Auditores- Consultores, y que en su desarrollo tienen un cliente con giro imprenta y fábrica de timbre de goma. En todo trabajo que reciben, solicitan un abono que por lo general cubre los costos directos de la venta a realizar, por la que entregan una boleta de compraventa o factura si corresponde. Al retirar el cliente el pedido se encontrarían con las siguientes situaciones:
 
-Obligación de llevar contabilidad – Los  contribuyentes  del  artículo  42°,
-N°2, de la Ley sobre Impuesto a la Renta, entre los que  se  encuentran  los
-Notarios  Públicos,  pueden  optar   por  declarar  a  base  de  sus  gastos
-efectivos,  llevando  un  solo  libro  de  entradas  y  gastos–    Pago   de
-gratificaciones a sus trabajadores  – Requisitos – Para los  efectos  de  lo
-dispuesto en el artículo 47 del Código del Trabajo, para la base de  cálculo
-de  las  gratificaciones  es  preciso  determinar  el  capital  propio   del
-empleador,  lo  cual  requiere  que  el  contribuyente  lleve   contabilidad
-completa, ya que las normas para determinar el capital propio se  encuentran
-contenidas en el artículo 41 de la LIR, relativa a dichos  contribuyentes  –
-Sobre la base de un solo Libro de entradas y gastos, no es posible  efectuar
-tal determinación.
+a) Se emite boleta por el saldo del precio.
 
+b) Se emite factura por el saldo del precio si corresponde.
 
+c) El cliente que se le emitió boleta por el abono, solicita factura por el total por cumplir los requisitos para su emisión. En este caso se anula la boleta por el abono por una nota de crédito y se emite factura por el total.
 
+d) Nunca viene a buscar lo encargado.
+Citando lo dispuesto en el artículo 55 del DL 825, en concordancia con lo establecido por este Servicio mediante Oficios N °887 de 25 de Marzo de 1996 y 1936 de 23 de Junio de 1998, solicita un pronunciamiento sobre los siguientes puntos:
+A) La venta se realiza al momento de hacer entrega real del bien corporal mueble encargado, naciendo en ese momento la obligación del vendedor de documentar operación de venta. Con lo cual los anticipos no deben ser documentados con documento tributario (boleta o factura).
+B) De no aceptarse el punto A, como hacer para anular la boleta de un mes anterior si el IVA ya fue cancelado, por tal motivo necesitamos saber si es aceptable la emisión de una nota de crédito para la anulación de una boleta de compraventa, sin que esta sea emitida a través de una máquina registradora con impresora fiscal. De lo contrario que se nos indique la metodología a seguir para no afectar la venta.
+2.- El artículo 9 letra a) del D.L. 825, de 1974, dispone en lo pertinente que el impuesto al valor agregado se devengará: "En las ventas de bienes corporales muebles..., en la fecha de emisión de la factura o boleta".
+Por su parte el artículo 55 del mismo cuerpo legal, dispone que la venta de bienes corporales muebles, debe documentarse en el mismo momento en que se efectúa la entrega real o simbólica de las especies.
+3.- Sobre el particular, cabe señalar que tratándose de la venta de un bien corporal mueble confeccionado por encargo, en que la entrega real del bien que se vende ha sido convenida a futuro por las partes, para efectos de lo dispuesto en el punto anterior la entrega sea real o simbólica, sólo podrá efectuarse a partir de la existencia real de estos bienes, esto es, una vez que la especie se encuentre ya confeccionada.
+Por lo tanto, de acuerdo a las disposiciones previamente mencionadas, sólo al momento de entrega del bien, nace la obligación del vendedor de documentar la venta, ergo en el caso expuesto no existe obligación de emitir documentación tributaria por los anticipos de precio, por tratarse de aquellas convenciones en que la entrega de las especies se pacta a futuro.
+De esta manera se confirma el criterio consultado, expuesto en el punto A) de su presentación, en el sentido de que no resulta obligatorio emitir documentación tributaria sino hasta la entrega del bien que se vende.
+Ahora bien, en el evento de facturarse dicho anticipo de dinero antes de la entrega, la emisión de la factura implicará el devengo del Impuesto al Valor Agregado correspondiente al anticipo, debiendo recargarse el monto del tributo en el referido documento. Lo anterior ha quedado establecido en Oficio 1936, del 23.07.1998, el cual puede ser consultado a través de nuestra página Web www.sii.cl.
 
-Se ha solicitado a este Servicio pronunciarse respecto a  la  obligatoriedad
-de llevar contabilidad por parte de los contribuyentes del artículo  42  N°2
-de la Ley sobre Impuesto a la Renta (LIR).
+RICARDO ESCOBAR CALDERON
 
-     I. ANTECEDENTES.
+DIRECTOR
 
-De acuerdo con la doctrina vigente de la Dirección  del  Trabajo,  contenida
-en el dictamen  N°172/005,  de  08.01.1992,  los  Notarios  Públicos  no  se
-encuentran obligados a gratificar anualmente a sus trabajadores  por  cuanto
-no se cumplen las condiciones copulativas que establece la  ley  para  pagar
-tal gratificación, específicamente por cuanto no se encuentran  obligados  a
-llevar contabilidad;  doctrina  que  se  fundó,  en  lo  pertinente,  en  lo
-informado por este Servicio, mediante Ordinario N°4061, de 1991.
+Oficio N° 013, de 11.01.2010
 
-Agrega que de acuerdo con el Ordinario N°1790, de 2005,  de  este  Servicio,
-los contribuyentes del artículo 42 N°2  de  la  LIR,  entre  los  cuales  se
-encuentran los Notarios Públicos, pueden optar por declarar a  base  de  sus
-gastos efectivos, en cuyo caso podrán llevar solo un  libro  de  entradas  y
-gastos en el que se practicará un resumen anual de las entradas y gastos  o,
-declarar a base de  una  presunción  de  gastos,  en  cuyo  caso,  según  se
-desprende del mencionado Ordinario, no tendrán obligación  de  llevar  libro
-alguno.
+Subdirección Normativa
 
-Atendido que entre las  exigencias  legales  para  tener  la  obligación  de
-gratificar  se  encuentra  el  encontrarse  obligado  a  llevar  libros   de
-contabilidad, sin adjetivar a ésta con el carácter de completa, solicita  se
-informe sobre la siguiente:
-
-   a) Si puede afirmarse que el libro de entradas y gastos que han de llevar
-      los contribuyentes del artículo 42  N°2  de  la  LIR,  que  optan  por
-      declarar a base de gastos efectivos, tiene el  carácter  de  libro  de
-      contabilidad;
-
-
-   b) Para el caso que la respuesta anterior fuese afirmativa, si  para  los
-      contribuyentes  antes  indicados,   el   llevar   este   libro   sería
-      obligatorio; y
-
-   c) Si, en el mismo evento antes indicado, habría algún inconveniente para
-      que este Servicio pudiera,  con  dicha  documentación,  determinar  el
-      capital propio y la utilidad líquida del contribuyente o  si,  por  el
-      contrario, se requiere de otros libros de contabilidad.
-
-
-    II. ANALISIS.
-
-Sobre el particular, cabe señalar que de conformidad con el artículo 47  del
-Código del Trabajo, los establecimientos mineros, industriales,  comerciales
-o agrícolas, empresas y cualesquiera otros que persigan fines  de  lucro,  y
-las cooperativas, que estén obligados a llevar libros de contabilidad y  que
-obtengan  utilidades  o  excedentes  líquidos  en  sus  giros,  tendrán   la
-obligación de gratificar anualmente a sus trabajadores.
-
-Para los efectos  de  determinar  la  gratificación  correspondiente,  y  de
-acuerdo con lo dispuesto por el artículo  48  del  mismo  cuerpo  legal,  se
-considerará como utilidad la que resulte de la liquidación que practique  el
-Servicio de Impuestos Internos para  la  determinación  del  impuesto  a  la
-renta, sin deducir las pérdidas de ejercicios  anteriores;  y  por  utilidad
-líquida se entenderá la que arroje dicha liquidación deducido  el  diez  por
-ciento del valor del capital propio del  empleador,  por  interés  de  dicho
-capital.
-
-Agrega el artículo 49 del mismo texto legal, que para los efectos  del  pago
-de gratificaciones, el Servicio de Impuestos  Internos  determinará,  en  la
-liquidación, el capital propio del  empleador  invertido  en  la  empresa  y
-calculará el monto de la utilidad líquida que deberá servir de base para  el
-pago de gratificaciones.
-
-Por  su  parte,  de  conformidad  con  el  artículo  68  de  la   LIR,   los
-contribuyentes que obtengan rentas clasificadas en la Segunda Categoría,  de
-acuerdo con el Nº 2 del artículo 42, con  excepción  de  las  sociedades  de
-profesionales y de los acogidos a las disposiciones  del  inciso  final  del
-artículo 50 de dicho texto legal, podrán llevar respecto de esas  rentas  un
-solo libro de entradas y gastos en el que se practicará un resumen anual  de
-las entradas y gastos.
-
-El inciso final del artículo 50 antes citado, señala que los  contribuyentes
-del Nº 2 del artículo 42 que ejerzan  su  profesión  u  ocupación  en  forma
-individual, podrán declarar sus rentas sólo a base de los  ingresos  brutos,
-sin considerar los gastos efectivos.  En  tales  casos,  los  contribuyentes
-tendrán derecho a rebajar a título de gastos  necesarios  para  producir  la
-renta, un 30% de los ingresos brutos anuales. En ningún  caso  dicha  rebaja
-podrá exceder de la cantidad de 15 unidades tributarias anuales vigentes  al
-cierre del ejercicio respectivo.
-
-
-      III. CONCLUSIÓN.
-
-Los contribuyentes del artículo  42,  N°2,  de  la  LIR,  pueden  optar  por
-declarar su renta efectiva, en cuyo caso, de conformidad  con  lo  dispuesto
-por el artículo 68 del mismo texto  legal,  no  se  encuentran  obligados  a
-llevar contabilidad completa, sino que sólo un libro de  entradas  y  gastos
-en el que se practicará un resumen anual de entradas y gastos.
-
-Sobre el particular, cabe señalar que  independientemente  que  el  referido
-libro pueda o no calificarse como “libros de contabilidad” para los  efectos
-de lo dispuesto en el artículo 47 del Código del Trabajo, de acuerdo con  lo
-dispuesto por los artículos 48 y 49 del mismo cuerpo legal, para la base  de
-cálculo de las gratificaciones es preciso determinar el capital  propio  del
-empleador, lo cual  requiere  ineludiblemente  que  el  contribuyente  lleve
-contabilidad completa, ya que las normas para determinar el  capital  propio
-se encuentran contenidas en el artículo 41 de  la  LIR,  relativa  a  dichos
-contribuyentes; y en cambio, sobre la base de un solo Libro  de  entradas  y
-gastos, no es posible efectuar tal determinación.
-
-
-
-
-
-                          JULIO PEREIRA GANDARILLAS
-
-                                  DIRECTOR
-
-
-
-
-
-
-
-                        Oficio N° 1757, de 04.10.2010
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
+Dpto. de Impuestos Indirectos

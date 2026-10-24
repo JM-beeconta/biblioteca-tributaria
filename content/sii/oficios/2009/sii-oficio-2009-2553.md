@@ -1,0 +1,54 @@
+# Oficio N° 2553 de 2009
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 2553
+- Año: 2009
+- Fecha: 2009-08-14
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2009/ja2553.htm
+- Hash SHA-256: 2d1ce099309e4c3d112d6c047d2452f6d6dff37bddfde43a1c498f7975175f74
+
+## Resumen
+
+n de sociedades. RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO SUPREMO N° 900, DE 1996 – LEY N° 19.764, ART. 1° –LEY N° 20.278, ART. 3° – CIRCULAR N° 40, DE 2007. (Ord. Nº 2553, de 14-08-2009) | | Word Recuperación parcial de peajes de acuerdo a lo establecido en la Ley N° 19.764, por parte de empresa que presta servicios rurales de transporte público de pasajeros.
+
+## Referencias detectadas
+
+- {"type":"circular","number":40,"year":2007}
+
+## Texto extraído
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO SUPREMO N° 900, DE 1996 – LEY N° 19.764, ART. 1° –LEY N° 20.278, ART. 3° – CIRCULAR N° 40, DE 2007. (ORD. N° 2.553, DE 14.08.2009)
+
+RECUPERACIÓN PARCIAL DE PEAJES DE ACUERDO A LO ESTABLECIDO EN LA LEY N° 19.764, POR PARTE DE EMPRESA QUE PRESTA SERVICIOS RURALES DE TRANSPORTE PÚBLICO DE PASAJEROS – EN LA MEDIDA QUE LAS PLAZAS INTERURBANAS DE LA RESPECTIVA AUTOPISTA CONCESIONADA, UTILIZADA POR LA EMPRESA QUE PRESTA SERVICIOS DE TRANSPORTE PÚBLICO, SE ENCUENTRE EN UNA VÍA QUE FORMA PARTE DE UNA RUTA QUE UNE DOS CENTROS POBLADOS, Y CUYA UTILIZACIÓN ES NECESARIA PARA DAR CUMPLIMIENTO AL TRAZADO O RECORRIDO AUTORIZADO A LA EMPRESA, ESTA ÚLTIMA PODRÁ RECUPERAR UN PORCENTAJE DEL PEAJE PAGADO EN ELLAS CONFORME A LAS NORMAS CONTENIDAS EN LA CITADA LEY N° 19.764 – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO DE IMPUESTOS INTERNOS.
+
+1.- Se ha recibido en este Servicio consulta indicada en el antecedente, en la cual señala que la empresa que representa es un contribuyente de Primera Categoría, con giro transporte de pasajeros rurales, siendo su recorrido xxx-xxx-Santiago. Agrega que se trata de consumidor final de Impuesto al Valor Agregado (IVA) ya que por todos sus insumos y gastos no descuenta crédito fiscal, por lo que pasa a ser costo para la empresa. Indica que en su declaración del período Noviembre de 2008, hizo uso del beneficio tratado en la Circular N° 40 de 17.07.2007, sobre recuperación parcial de peajes pagados, en donde uno de los requisitos para tener derecho a este beneficio era "que las empresas de transportes de pasajeros debían estar adscritas a un sistema de cobro electrónico de peajes, debidamente normado por el Ministerio de Obras Públicas".
+Señala que cumplen a cabalidad con el Art. N° 1 de la Ley N° 19.764 ya que son transportistas rurales de pasajeros adscritos a cobro de peajes mediante un sistema electrónico.
+La única alternativa de llegar al terminal XXX es la vía concesionada TTT, antigua Panamericana Norte-Sur.
+Al efectuar una rectificatoria del Formulario 29 de Diciembre de 2008, la unidad del Servicio de Impuestos Internos de YYY, negó la rectificatoria aludida, aduciendo que el peaje TTT es urbano, y la Ley en su Art. N° 1 habla de peajes en plazas interurbanas. Señala que esto produce una contradicción ya que la única plaza de peajes para llegar a su destino es TTT, que une la carretera Norte Sur, atraviesa la ciudad, y es el eje central de comunicaciones en nuestro país.
+Además, en el diario oficial del 24.06.2008, se publicó la Ley 20.278, y que en su Artículo N° 3 introdujo modificaciones a la Ley 19.764, tendientes "por una parte a elevar el porcentaje de recuperación de las cantidades pagadas por concepto de Peajes e Impuesto Específico al Petróleo Diesel, por las empresas de transporte, ampliando los plazos para su recuperación y por otra parte eliminar los requisitos que establecía que sólo se beneficiarían con dicha recuperación los contribuyentes cuyos vehículos estuviesen adscritos a un sistema de cobro electrónico de peajes debidamente normado por el Ministerio de Obras Públicas", lo que los deja en la posición de que estas plazas de peajes urbanas están incluidas en la Ley para aprovechar el beneficio tributario, ya que sólo éstas cuentan con el sistema de cobro de tele-peajes.
+Por tanto, dados los antecedentes expuestos solicita un pronunciamiento sobre la materia para ser presentada en la unidad del Servicio correspondiente, con la finalidad de que se resuelva sobre la aplicación del respectivo beneficio legal a favor del contribuyente.
+2.- Sobre el particular, el inciso primero del artículo 1° de la Ley N° 19.764, publicada en el Diario Oficial el 19 de Octubre de 2001, establece que las empresas de transporte de pasajeros que sean propietarias o arrendatarias con opción de compra de buses, que presten servicios de transporte público rural, interurbano o internacional, podrán recuperar en la forma que se señala en este texto legal, un porcentaje de las sumas pagadas por dichos vehículos, por concepto de peajes en las correspondientes plazas interurbanas, a los concesionarios de las obras públicas viales otorgadas en concesión mediante el sistema establecido en el decreto supremo N° 900, de 1996, del Ministerio de Obras Públicas, que fijó el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 164, de 1991, del Ministerio de Obras Públicas.
+3.- La norma legal citada en el número anterior, estableció un beneficio tributario a favor de las empresas de Transporte de Pasajeros que sean propietarias o arrendatarias con opción de compra de buses, que presten servicios de transporte público rural, interurbano o internacional.
+Dicho beneficio consiste en la posibilidad de recuperar un porcentaje de las sumas pagadas por dichos vehículos, por concepto de peajes en las correspondientes plazas interurbanas, a los concesionarios de las obras públicas viales otorgadas en concesión
+En cuanto al requisito indicado en el primer párrafo de este número, se señala que al Ministerio de Transportes corresponde la función de regular la prestación del servicio de transporte público. En efecto, el Artículo 2° del Decreto Supremo N° 212 de 1992 sobre "Reglamento de los Servicios Nacionales de Transporte Público de Pasajeros" dispone que corresponde al Ministerio de Transportes y Telecomunicaciones llevar un Registro Nacional de Servicios de Transporte de Pasajeros, en el que deberán inscribirse todas las modalidades de transporte público remunerado de pasajeros, como asimismo los vehículos destinados a prestarlos. Por consiguiente, para efectos de determinar si un contribuyente presta servicios de transporte público rural, interurbano o internacional deberá remitirse a lo que al respecto establezca la señalada autoridad.
+
+Por otro lado, para efectos de aclarar la expresión "plazas interurbanas", ante consulta efectuada por este Servicio, el Ministerio de Obras Públicas a través de la División Jurídica de la Coordinación de Concesiones de Obras Públicas, informó que vía interurbana es toda ruta que une dos centros urbanos, por lo tanto, es cualquier vía o camino que se encuentre entre ciudades, pueblos, localidades u otros. Por consiguiente, agrega, plazas de peajes interurbanas serán aquellas que se encuentran emplazadas en ese tipo de vías.
+4.- Conforme a lo expresado previamente, se señala que para la utilización de la franquicia tributaria a que se hace referencia en el artículo 1° de la Ley N° 19.764, el contribuyente debe ser una empresa de aquellas que presten servicios de transporte público rural, interurbano o internacional, según calificación que para estos efectos efectúa el Ministerio de Transportes; y además, las sumas pagadas por los respectivos vehículos deben corresponder a cantidades pagadas por concepto de peajes en las respectivas plazas interurbanas, a los concesionarios de obras públicas viales otorgadas en concesión.
+En cuanto a este último requisito, y conforme a lo informado por el Ministerio de Obras Públicas, este Servicio entiende que plazas interurbanas son aquellas que se encuentran emplazadas en vías que forman parte de una ruta que une dos centros urbanos. Por consiguiente, será plaza interurbana la ubicada en una vía o ruta que une dos centros poblados, aún cuando ella se encuentre ubicada en una vía que el Ministerio de Obras Públicas califique de urbana para otros efectos, como por ejemplo para establecer las Bases de Licitación del Sistema de Concesiones de obras públicas viales.
+En efecto, en consideración a que el beneficio contemplado en la citada Ley N° 19.764 favorece a las empresas que prestan servicios de transporte público y que utilizan vías concesionadas, el término "plazas interurbanas" que utiliza la Ley, debe interpretarse en armonía con el tipo de servicios que estas empresas deben prestar, y por consiguiente se deben entender por tales aquellas plazas ubicadas en vías que forman parte de la ruta que debe utilizar la empresa de transporte para unir centros urbanos.
+
+5.- De esta forma, en atención a los términos del Artículo 1° de la Ley N° 19.764, de 2001, se concluye que, en la medida que las plazas interurbanas de la respectiva autopista concesionada, utilizada por la empresa que presta servicios de transporte público, se encuentre en una vía que forma parte de una ruta que une dos centros poblados, y cuya utilización es necesaria para dar cumplimiento al trazado o recorrido autorizado a la empresa, esta última podrá recuperar un porcentaje del peaje pagado en ellas conforme a las normas contenidas en la citada Ley N° 19.764, e instrucciones dictadas por este Servicio.
+En cuanto a la situación específica de las sumas pagadas por concepto de peajes en la vía concesionada TTT (Sistema Norte-Sur), a que se refiere su consulta, y en armonía con lo antes señalado, se concluye que por tratarse de una vía cuya utilización es necesaria para comunicar la ciudad de Santiago con otros centros urbanos, y siempre que su utilización sea indispensable para cumplir el recorrido del servicio de transporte rural xxx-xxx-Santiago, el consultante podrá recuperar un porcentaje de las sumas pagadas por concepto de peajes en ella, conforme a las normas contenidas en la Ley N° 19.764.
+Se hace notar finalmente que la concurrencia de las circunstancias y requisitos específicos para acceder al beneficio en cuestión, sólo podrán ser acreditadas ante la unidad del Servicio de Impuestos Internos respectiva, la que para efectos de fiscalización y control podrá solicitar al contribuyente las respectivas autorizaciones o certificados que permitan acreditar, por una parte que el recurrente es una empresa que presta servicios de transporte público rural en el período en el cual se pagaron las respectivas cantidades por concepto de peajes, así como la descripción del trazado o recorrido que se obliga a atender.
+
+RICARDO ESCOBAR CALDERÓN
+
+DIRECTOR
+
+Oficio N° 2.553, de 14.08.2009
+
+Subdirección Normativa
+
+Dpto. de Impuestos Directos

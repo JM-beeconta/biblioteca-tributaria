@@ -1,0 +1,48 @@
+# Oficio N° 3719 de 2009
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3719
+- Año: 2009
+- Fecha: N/A
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2009/ja3719.htm
+- Hash SHA-256: 302946c84ed203ab264ff83ec971b759cf1ba1a5927672791067551f9c5180c9
+
+## Resumen
+
+bre Plan Habitacional RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° D – CIRCULAR N° 43, DE 2003. (Ord. Nº 3719, de 18-12-2008) | | Word Sociedades que pueden acogerse a las normas del artículo 41D, de la Ley de la Renta.
+
+## Referencias detectadas
+
+- {"type":"circular","number":43,"year":2003}
+
+## Texto extraído
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° D – CIRCULAR N° 43, DE 2003. (ORD. N° 3.719, DE 18.12.2008)
+
+SOCIEDADES QUE PUEDEN ACOGERSE A LAS NORMAS DEL ARTÍCULO 41D, DE LA LEY DE LA RENTA – CUANDO SE PERMITE LA CREACIÓN DE UNA SOCIEDAD PLATAFORMA SUJETA AL RÉGIMEN ESPECIAL DEL ARTÍCULO 41 D DE LA LEY DE IMPUESTO A LA RENTA MEDIANTE EL APORTE EN ACCIONES O DERECHOS SOCIALES, ES NECESARIO QUE LAS SOCIEDADES EN EL EXTRANJERO CUYAS ACCIONES FUERON APORTADAS, Y QUE EN DEFINITIVA REALIZARÁN LAS OPERACIONES EN EL EXTERIOR QUE CONSTITUYEN SU OBJETO SOCIAL, SE ENCUENTREN CONSTITUIDAS Y FORMALMENTE ESTABLECIDAS EN EL EXTRANJERO PARA LA REALIZACIÓN DE ACTIVIDADES EMPRESARIALES – CUANDO SE TRATE DE UNA O MÁS SOCIEDADES DE AQUELLAS CUYAS ACCIONES SEAN APORTADAS A LA SOCIEDAD PLATAFORMA QUE SE CREA, Y ESTO EXIJA O IMPLIQUE QUE LA REALIZACIÓN DE LAS MENCIONADAS ACTIVIDADES EMPRESARIALES DEBAN SER REALIZADAS POR OTRAS SOCIEDADES AJENAS A LA SOCIEDAD PLATAFORMA, SE EXPRESA QUE ÉSTAS IGUALMENTE DEBEN CUMPLIR CON LO DISPUESTO EN EL ARTÍCULO 41 D N° 6 DE LA LEY DE LA RENTA – LA ACTIVIDAD DE EXPLOTACIÓN DE REGALÍAS POR LICENCIA DE MARCAS REGISTRADAS, QUE, SEGÚN INDICA, DESARROLLARÍA LA EMPRESA CUYAS ACCIONES SE APORTAN A LA SOCIEDAD ACOGIDA AL RÉGIMEN DEL ARTÍCULO 41 D, CITADO, CONFIGURARÍA LA ACTIVIDAD EMPRESARIAL A LA QUE SE REFIERE EL NÚMERO 6 DE DICHA DISPOSICIÓN LEGAL, SIEMPRE QUE ELLA EFECTIVAMENTE SE REALICE POR UNA SOCIEDAD EXTRANJERA CONSTITUIDA Y FORMALMENTE ESTABLECIDA EN EL EXTRANJERO, QUE POSEA UNA ORGANIZACIÓN DE MEDIOS Y PERSONAL ESTABLE E IDÓNEO PARA EL CUMPLIMIENTO DE SUS FINES.
+
+1.- Por presentación indicada en el antecedente, señala que presta asesoría a una empresa de nacionalidad Argentina (en adelante la ''empresa''), la cual tiene actividades en Chile de acuerdo al artículo 41-D de la Ley de la Renta (plataforma de inversión). La empresa recibirá nuevos aportes de parte del inversionista, constituido por acciones de una sociedad constituida en el extranjero (Uruguay), cuyo giro es la explotación de regalías por licencia de marcas registradas, actividad que se desarrolla en Argentina y que califica como mercantil, conforme el N° 1 del artículo 3 del Código de Comercio.
+Agrega, que el N° 6 del Artículo 41-D de la Ley de la Renta, señala que las inversiones que constituyen su objeto social para la Sociedad Plataforma de Inversión, deberán efectuarse mediante aporte social o accionario, o en otros títulos que sean convertibles en acciones, en empresas constituidas y formalmente establecidas en el extranjero, en un país o territorio que no sea considerado paraíso fiscal o régimen fiscal referencial nocivo por la OCDE.
+Por su parte, la Circular N° 43 del 22 de Agosto del 2003, en su letra D señala que las actividades acogidas al Artículo 41-D de la Ley de la Renta deben ser aquellas que provienen de una entidad integrada por el Capital y el trabajo y dedicada a fines industriales, mercantiles o prestación de servicios, con fines lucrativos y con la consiguiente responsabilidad, por lo que no caben dentro de este concepto las actividades que no reúnan estas características, como ser las de tipo meramente especulativas y esporádicas.
+En el caso que las actividades empresariales a realizar no sean efectuadas en el exterior directamente por las empresas constituidas y establecidas formalmente para tales efectos en el extranjero, sino por filiales o coligadas de las referidas empresas o a través de una secuencia de filiales o coligadas, las empresas que generen las rentas respectivas deberán cumplir en todo con las exigencias del artículo 41-D en la Ley de la Renta.
+Expresa más adelante, que las acciones que se aportan a la empresa (plataforma) pertenecen a Sociedades que están formalmente constituidas y establecidas en el extranjero para el desarrollo de la explotación de regalías por licencias de marcas registradas, y no encontrándose domiciliadas en paraísos fiscales o regímenes fiscales preferenciales o nocivos para OCDE, y que mediante ORD N° 550 del 20 de marzo de 2008, este Servicio ratificó lo señalado en la Circular N° 43 antes aludida, para el caso de aportes de acciones de Sociedades Extranjeras de giro adquisición de licencias para la consecuente comercialización de películas de cine y televisión.
+En relación a lo anteriormente expuesto, solicita un pronunciamiento acerca de que las acciones que se aportan a la Sociedad Plataforma, califican como inversiones en empresas constituidas y formalmente establecidas en el extranjero, para la realización de actividades empresariales, según lo señala el artículo 41-D número 6 de la Ley de la Renta.
+2.- Sobre el particular, cabe señalar que el N° 6 del artículo 41 D de la Ley de la Renta establece que las inversiones que constituyen su objeto social se deberán efectuar mediante aporte social o accionario, o en otros títulos que sean convertibles en acciones, de acuerdo con las normas establecidas en el artículo 87 de la Ley N° 18.046, en empresas constituidas y formalmente establecidas en el extranjero, en un país o territorio que no sea de aquellos señalados en el N° 2, de dicho artículo, para la realización de actividades empresariales. En caso que las actividades empresariales referidas no sean efectuadas en el exterior directamente por las empresas mencionadas, sino por filiales o coligadas de aquellas o a través de una secuencia de filiales o coligadas, las empresas que generen las rentas respectivas deberán cumplir en todo caso con las exigencias del referido número.
+Por su parte, el inciso segundo del N° 3 del artículo 41 D de la Ley de la Renta establece que no obstante lo dispuesto en el inciso primero del citado número, el capital podrá ser enterado en acciones, como también en derechos sociales, pero de sociedades domiciliadas en el extranjero de propiedad de personas sin domicilio ni residencia en Chile, valorados todos ellos a su precio bursátil o de libros, según corresponda, o de adquisición en ausencia del primero.
+Se hace presente que respecto de lo dispuesto por las normas legales antes mencionadas este Servicio ha impartido las instrucciones pertinentes mediante la Circular N° 43, del año 2003, publicada en Internet (www.sii.cl).
+3.- De lo establecido por las normas legales mencionadas en el número precedente se puede apreciar que tales disposiciones se refieren tanto a la forma en que la sociedad plataforma deberá llevar a cabo sus inversiones que constituyen su objeto social, como también a ciertas exigencias de carácter sustantivo que, entre otras, se vinculan directamente con las actividades que realice la sociedad plataforma en el extranjero mediante otras sociedades y con ciertas características de estas últimas.
+4.- Por lo tanto, cuando se permite la creación de una sociedad plataforma sujeta al régimen especial del artículo 41 D de la Ley de Impuesto a la Renta mediante el aporte en acciones o derechos sociales, según lo dispuesto por el inciso segundo del N° 3 del citado artículo, es igualmente necesario que las sociedades en el extranjero cuyas acciones fueron aportadas, y que en definitiva realizarán las operaciones en el exterior que constituyen su objeto social, se encuentren constituidas y formalmente establecidas en el extranjero para la realización de actividades empresariales.
+Cuando se trate de una o más sociedades de aquellas cuyas acciones sean aportadas a la sociedad plataforma que se crea, y esto exija o implique que la realización de las mencionadas actividades empresariales deban ser realizadas por otras sociedades ajenas a la sociedad plataforma, se expresa que éstas igualmente deben cumplir con lo dispuesto en el artículo 41 D N° 6 de la Ley de la Renta, ya sea, que integren una secuencia de filiales o coligadas o que constituyan inversiones nuevas de la sociedad plataforma. En este último caso lógicamente las inversiones deberán efectuarse mediante aporte social o accionario, o en otros títulos que sean convertibles en acciones, de acuerdo con las normas establecidas en el artículo 87 de la Ley N° 18.046.
+5.- En consecuencia, conforme a los antecedentes expuestos y considerando lo resuelto por este Servicio en el Oficio N° 550, de 20.03.2008, referido, en respuesta a lo consultado puede informarse que la actividad de explotación de regalías por licencia de marcas registradas, que, según indica, desarrollaría la empresa cuyas acciones se aportan a la sociedad acogida al régimen del artículo 41 D, citado, configuraría la actividad empresarial a la que se refiere el número 6 de dicha disposición legal, siempre que ella efectivamente se realice por una sociedad extranjera constituida y formalmente establecida en el extranjero, que posea una organización de medios y personal estable e idóneo para el cumplimiento de sus fines, elementos que no resultan comprobados de los antecedentes acompañados.
+
+RICARDO ESCOBAR CALDERON
+
+DIRECTOR
+
+Oficio N° 3.719, de 18.12.2008
+
+Subdirección Normativa
+
+Dpto. de Impuestos Directos

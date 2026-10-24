@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 334
 - Año: 2010
-- Fecha: 2010-02-27
+- Fecha: 2010-02-24
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2012/ja2554.htm
-- Hash SHA-256: 55497e0b59b74e6ce1efd2536302826bccd0e44e10661141468b79c82e7846aa
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2010/ja334.htm
+- Hash SHA-256: 0a93fdd27881b479a9df0b580beb483b9f6612c39bc97337f3380564371c009e
 
 ## Resumen
 
-Impuesto a las &ndash; Art. 42°, letra d) &ndash; D.S. N° 977, de 1996, Art. 478, Art. 481 &ndash; . (Ord. Nº 2898, de 26-10-2012) | Word Aplicación del Impuesto Adicional a las Bebidas Alcohólicas Analcohólicas y productos similares establecido en el artículo 42, del D.L. 825, que afecta producto calificado como alimento para deportistas. Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; D.L. N°910, de 1975, Art. 21° &ndash; Ley N° 19.537, Art. 19°. (Ord. Nº 2554, de 01-10-201…
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42°, LETRA D) – D.S. N° 977, DE 1996, ART 478°. (Ord. Nº 334, de 24-02-2010) | | Word Solicita confirmación en cuanto a que un determinado producto, no se encuentra afecto al Impuesto Específico a las Bebidas Alcohólicas, Analcohólicas y Productos similares, establecido en el artículo 42°, del D.L. 825, de 1974
 
 ## Referencias detectadas
 
@@ -19,35 +19,25 @@ Impuesto a las &ndash; Art. 42°, letra d) &ndash; D.S. N° 977, de 1996, Art. 4
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – D.L. N°910, DE 1975, ART. 21° – LEY N° 19.537, ART. 19°. (ORD. N° 2554, DE 01.10.2012)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42°, LETRA D) – D.S. N° 977, DE 1996, ART 478°. (ORD. N° 334, DE 24.02.2010)
 
-APLICACIÓN DEL BENEFICIO CONTENIDO EN EL ARTÍCULO 21°, DEL DECRETO LEY N° 910, DE 1975 A CONTRATOS DE REPARACIÓN Y MANTENCIÓN CUANDO ÉSTE RECAE EN VIVIENDAS SOCIALES.
+BEBIDA CALIFICADA COMO ALIMENTO PARA DEPORTISTAS – NO SE ENCONTRARÁ GRAVADA CON EL IMPUESTO ADICIONAL CONTENIDO EN EL ART. 42°, LETRA D), DEL D.L. N° 825, TODA VEZ QUE NO PUEDE SER CONSIDERADA PARA FINES TRIBUTARIOS, COMO UNA BEBIDA ANALCOHÓLICA, PUES CONFORME A LAS NORMAS TÉCNICAS QUE REGULAN LA MATERIA, SE TRATARÍA DE UN PRODUCTO DISTINTO A ÉSTAS.
 
-Se ha solicitado a esta Dirección Nacional pronunciarse sobre la procedencia de aplicar el beneficio contenido en el Art. 21°, del D.L. N° 910, de 1975, a contratos de reparación y mantenimiento de las viviendas que forman parte del conjunto habitacional "XXXX". I.- ANTECEDENTES:
+1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente, mediante la cual solicita se confirme que el producto denominado "YYY", no se encuentra afecto al Impuesto Específico a las Bebidas Alcohólicas, Analcohólicas y Productos Similares, establecido en el Art. 42°, del D.L. N° 825. Señala que XXXX elabora y comercializa bajo la marca "YYY", un producto para deportistas con adición de electrolitos y vitaminas, clasificado como tal a la luz de la normativa sanitaria contenida en el Decreto Supremo N° 977, de 1977, del Ministerio de Salud, Reglamento Sanitario de los Alimentos.
+En efecto, "YYY" cumple con todas las características y requisitos que permiten clasificarla como "alimento para deportistas" con arreglo a los artículos 539 y 540 del referido Reglamento. Para confirmar lo anterior, una de las filiales de su representada solicitó de la autoridad competente un pronunciamiento expreso para confirmar dicho criterio, petición que fue respondida mediante Ord. N° 4096, de 5 de Junio de 2009 del SEREMI de Salud Metropolitano, que no se adjunta a la presentación, contrariamente a lo señalado en la misma.
+Ante este escenario, su representada desea confirmar- mediante un pronunciamiento del Servicio de Impuestos Internos- que atendida la calificación antedicha del producto éste no se encuentra gravado por el Impuesto Adicional a las Bebidas Analcohólicas (en adelante, IABA) contenido en el Art. 42°, letra d), del Decreto Ley N° 825.
+Ello, en atención a que al no definir el legislador tributario qué ha de entenderse por "bebida analcohólica" (u otro producto que la sustituya o que sirva para preparar bebidas similares), es menester estarse a lo que la normativa especializada (en este caso, sanitaria) define por tal. Es así como dicha normativa, a saber, el Reglamento Sanitario de los Alimentos, distingue con toda precisión entre las "bebidas analcohólicas" (Párrafo I del Título XXVII, artículo 479 a 481 del Reglamento), por un lado, y "alimentos para deportistas" (Párrafo II del Título XXIX, artículo 539 a 541), por otro. Ambos tipos de productos, entonces, obedecen a especificaciones técnicas y alimentarias diferentes, de suerte que la presencia de uno excluye necesariamente la del otro.
+2.- El artículo 42°, letra d), del D.L. N° 825, grava con un Impuesto Adicional y con tasa de 13%, a las "bebidas analcohólicas naturales o artificiales, jarabes y en general cualquier otro producto que las sustituya o que sirva para preparar bebidas similares".
+3.- Al respecto, cabe señalar que la ley tributaria no ha definido lo que debe entenderse por los productos gravados en la citada norma legal. Sin embargo, tal como señala en su presentación, el D.S. N° 977, de 1996, sobre Reglamento Sanitario de los Alimentos, en su Titulo XXVII, Párrafo I, Art. 478, define el concepto de "bebida analcohólica". Por lo tanto, para efectos de aplicar el Impuesto Adicional bajo análisis, este Servicio estima que debería entenderse por tal para fines impositivos, lo que indica la citada disposición, en aplicación de las normas de hermenéutica legal de los artículos 19 y siguientes del Código Civil.
+Ahora bien, el producto respecto del cual se consulta sobre su tributación con impuesto adicional se encuentra clasificado como un alimento para deportistas cuya definición no corresponde al concepto de bebida analcohólica, contenido en la norma técnico legal señalada en el párrafo precedente, pues se trata de un producto distinto a ésta y definido en forma particular en el Título XXIX, referido a los suplementos alimentarios y los alimentos para deportistas, específicamente en el Párrafo II, Art 539°, del D.S.N° 977, de 1996.
 
-En el marco de la implementación del programa TTT y su intervención en los conjuntos sociales que resultaron con severos daños a raíz del terremoto de fecha 27 de febrero de 2010, se celebrarán contratos cuyo objetivo es la reparación y mantenimiento de las viviendas que forman parte del conjunto habitacional "XXXX".
-En este contexto, la intervención en XXXX contempla reparaciones y refuerzos de un total de 637 departamentos, en distintos elementos que componen su estructura, con el fin de acercar la edificación a las actuales solicitudes sísmicas que indica la norma y con esto asegurar su integridad estructural. Esta reparación, dada su naturaleza, va acompañada de diversas reparaciones y mejoramientos en los denominados bienes comunes edificados que componen la copropiedad, tal como, reparación y mejoramiento de pasillos interiores, fachadas, cubierta, reparación de la matriz de agua y normalización de la instalación eléctrica de los espacios comunes, incorporando iluminación extra en las vías de escape.
-En efecto, el conjunto ya señalado, cuenta con la emisión de "Certificado de Vivienda Social", otorgado por la Dirección de Obras Municipal de la comuna de YYY.
-II.- ANÁLISIS:
+De lo anterior se concluye entonces que la bebida denominada "YYY", no se encontrará gravada con el Impuesto Adicional contenido en el Art. 42°, letra d), del D.L. N° 825, en la medida que cuente efectivamente con la calificación de alimento para deportistas, toda vez que no puede ser considerada para fines tributarios como una bebida analcohólica, pues conforme a las normas técnicas que regulan la materia, se trataría de un producto distinto a éstas.
 
-El Art. 21°, del D.L. N° 910, de 1975, dispone en su inciso primero que "Las empresas constructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales inmuebles para habitación por ellas construidos cuyo valor no exceda de 4.500 unidades de fomento, con un tope de hasta 225 (doscientas veinticinco) unidades de fomento por vivienda, y en los contratos generales de construcción de dichos inmuebles que no sean por administración, con igual tope por vivienda, de acuerdo con las disposiciones del decreto ley N° 825, de 1974".
-A su vez, el inciso cuarto del referido artículo establece que "Excepto para el caso de aquellos contratos que recaigan exclusivamente en las viviendas a que se refiere el artículo 3° del decreto ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo, el beneficio dispuesto en el inciso primero no será aplicable a los contratos de ampliación, modificación, reparación o mantenimiento, ni aun en los casos que pudieran implicar la variación de la superficie originalmente construida, como tampoco a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de Terrenos".
-Del texto legal se desprende que el beneficio en comento es aplicable por excepción, a los contratos de ampliación, modificación, reparación o mantención y a los contratos de urbanización de terrenos, que no sean por administración, siempre que ellos recaigan exclusivamente en viviendas sociales, a que se refiere el Art. 3°, del decreto ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo.
-Por otra parte, el Artículo Transitorio de la Ley N° 19.537, dispone que "Los conjuntos de viviendas preexistentes a la vigencia de esta ley, calificadas como viviendas sociales de acuerdo con los decretos leyes N° 1.088, de 1975, y N° 2.552, de 1979 y los construidos por los Servicios de Vivienda y Urbanización y sus antecesores legales, se considerarán como condominios de viviendas sociales para los efectos de lo dispuesto en el Título IV de la presente Ley".
-En virtud de dicha disposición, y a raíz de la solicitud efectuada por un propietario en particular, a fin de acreditar que a su propiedad le es aplicable la condición de vivienda social, el Director de Obras Municipales (S), de la Municipalidad de YYY, señala en Certificado adjunto que la XXXX cumple con los requisitos para ser considerada "Condominio de Viviendas Sociales".
-Ahora bien, conforme a lo dispuesto en el Art. 19°, de la Ley N° 19.537, a dichos condominios le son aplicables las normas de carácter general contenidas en la mencionada Ley, en lo no previsto por el Título IV de la misma, que trata en forma especial este tipo de condominios, y siempre que dichas normas no se contrapongan con lo previsto por las normas de carácter especial contenidas en el señalado Título IV.
-Siendo así, ha de entenderse como Bienes de Dominio Común, según lo dispuesto en el Art. 2°, N° 3, letra a), entre otros, a "los que pertenezcan a todos los copropietarios por ser necesarios para la existencia, seguridad y conservación del condominio, tales como terrenos de dominio común, cimientos, fachadas, muros exteriores y soportantes, estructura, techumbres, ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, así como todo tipo de instalaciones generales y ductos de calefacción, de aire acondicionado, de energía eléctrica, de alcantarillado, de gas, de agua potable y de sistemas de comunicaciones, recintos de calderas y estanques".
+PABLO GONZALEZ SUAU
 
-III.- CONCLUSIÓN:
+DIRECTOR SUBROGANTE
 
-De la conjunción de las normas legales precedentemente señaladas, se concluye que, en el caso bajo análisis, procede aplicar la franquicia contenida en el Art. 21°, del D.L. N° 910, a los contratos de reparación y mantención, a efectuarse en las unidades habitacionales que conforman la unidad vecinal XXXX, así como también por aquellos contratos que den cuenta de esos mismos trabajos a efectuarse en los bienes comunes de dicho condominio.
-Ello, en atención a que dicho inmueble cumple con los requisitos para ser considerado en su conjunto como condominio de viviendas sociales, según lo manifestado por el Director de Obras Municipales de la Municipalidad de YYY, lo que implica que forman parte integrante de éste no sólo las unidades habitacionales sino que también los bienes comunes que lo conforman, tal como lo dispone la legislación vigente sobre copropiedad inmobiliaria, contenida en la Ley N° 19.537.
-
-JULIO PEREIRA GANDARILLAS
-
-DIRECTOR
-
-Oficio N° 2554, de 01.10.2012
+Oficio N° 334, de 24.02.2010
 
 Subdirección Normativa
 

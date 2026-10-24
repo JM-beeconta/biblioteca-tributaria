@@ -4,65 +4,79 @@
 - Tipo: oficio
 - Número: 1042
 - Año: 2011
-- Fecha: 2011-09-01
-- Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2011/ja2050.htm
-- Hash SHA-256: a12d6887f282f6e7109cb003d60b66c4397767d608636cf377a2435d1ce553fe
+- Fecha: 2011-05-04
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2011/ja1042.htm
+- Hash SHA-256: ead91e321db20c86e6127f11a0fac96890efb85aee46778816764c6ff52bac2d
 
 ## Resumen
 
-Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Ley N° 20.179, Art. 33°, Art. 31° &ndash; . (Ord. Nº 2050, de 01-09-2011) |
+Renta – Actual Ley Sobre Impuesto a la – Art. 2°, N°2, art. 42°, N°1, Art. 43° – Código del Trabajo, Art. 41°. (Ord. Nº 1042, de 04-05-2011) | | Word Tratamiento tributario frente a la Ley sobre Impuesto a la Renta de la entrega de opciones de compra de acciones cesibles.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1042,"year":1995}
-- {"type":"articulo","law":"LIR","article":"20"}
+- {"type":"articulo","law":"LIR","article":"43"}
+- {"type":"articulo","law":"LIR","article":"2"}
+- {"type":"articulo","law":"LIR","article":"42"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 20.179, ART. 33°, ART. 31° – OFICIO N° 1042, DE 1995. (ORD. N° 2050, DE 01.09.2011)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 2°, N°2, ART. 42°, N°1, ART. 43° – CÓDIGO DEL TRABAJO, ART. 41°. (ORD. N° 1042, DE 04.05.2011)
 
-IMPUESTO AL VALOR AGREGADO QUE AFECTA A LA COMISIÓN COBRADA POR EL SERVICIO DE GARANTÍA O AFIANZAMIENTO Y EL PROCEDIMIENTO PARA DOCUMENTAR DICHAS COMISIONES CUANDO LOS FONDOS DE GARANTÍA RECÍPROCA PRESTAN DICHO SERVICIO A LA SOCIEDAD ADMINISTRADORA DE GARANTÍA RECÍPROCA QUE LOS ADMINISTRA.
+TRATAMIENTO TRIBUTARIO FRENTE A LA LEY SOBRE IMPUESTO A LA RENTA DE LA ENTREGA DE OPCIONES DE COMPRA DE ACCIONES CESIBLES – PLAN DE ADQUISICIÓN DE ACCIONES OFRECIDO POR UNA COMPAÑÍA MATRIZ A LOS TRABAJADORES DE SUS SUBSIDIARIAS Y/O FILIALES – LA ENTREGA DE LA OPCIÓN CESIBLE, SIN QUE SE EFECTÚE UN DESEMBOLSO A CAMBIO DEL MISMO, CONSTITUIRÁ UN INCREMENTO DE PATRIMONIO PARA EL TRABAJADOR, POR EL CUAL DEBERÁ TRIBUTAR CON EL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 43 DE LA LIR, EN LA MEDIDA QUE LA ENTREGA DE LA OPCIÓN TENGA POR CAUSA EL CONTRATO DE TRABAJO – EL IMPUESTO DE SEGUNDA CATEGORÍA DEBERÁ SER DECLARADO Y PAGADO EN ARCAS FISCALES POR EL MISMO TRABAJADOR CHILENO.
 
-I.- ANTECEDENTES: El Sr. XXXX, en representación de YYYY S.A.G.R. y de los Fondos de Garantía que administra, señala que YYYY S.A.G.R. es una sociedad anónima de garantía recíproca constituida en conformidad a las normas de la Ley N° 20.179.
-Para el desarrollo de su objeto social constituyó el fondo de garantía denominado "Fondo de Garantía AAAA I" y el fondo de garantía denominado "BBBB II". YYYY constituirá nuevos Fondos para seguir con el desarrollo de su actividad.
-1.1 Antecedentes legales:
-Mediante la Ley N° 20.179 , se dispuso la constitución de las Sociedades Anónimas de Garantía Recíproca (S.A.G.R.), cuyo objeto exclusivo es el otorgamiento de garantías personales a los acreedores de sus beneficiarios. También pueden prestar asesoramiento técnico, económico, legal y financiero a esos beneficiarios, así como también administrar los Fondos de Garantía a que hace referencia la ley.
-A su vez, estas sociedades pueden ser afianzadas por los Fondos que hayan creado y que ellas mismas administran. Para ello, la ley faculta a organismos y servicios públicos para aportar recursos financieros a éstos con esa única finalidad, a saber, afianzar las obligaciones que, por su parte, la sociedad de garantía recíproca afiance.
-Los Fondos, por su parte, constituyen patrimonios independientes del de la sociedad de garantía recíproca que los administra y las operaciones de dichos Fondos son efectuadas por ésta a nombre y por cuenta y riesgo de aquéllos, los que son titulares de los bienes e inversiones a ellos aportados.
-Los Fondos se rigen por las normas de la Ley N° 20.179, por el Título VII de la Ley N° 18.815 sobre Fondos de Inversión (con excepción del inciso cuarto del artículo 41, y de los artículos 42 y 43), y por el Reglamento Interno que se debe dictar al efecto.
-Respecto del Impuesto al Valor Agregado, cabe tener presente que el artículo 8°, del D.L. N° 825, grava con Impuesto al Valor Agregado, en lo pertinente, a los servicios, sólo cuando su remuneración provenga del ejercicio de las actividades comprendidas en los N° 3 y 4, del artículo 20, de la Ley sobre Impuesto a la Renta".
-Por su parte, el Art. 12°, letra E), N° 10, del referido texto legal, libera en forma expresa del tributo en comento a las comisiones que correspondan a avales o fianzas otorgadas por instituciones financieras.
-1.2 Antecedentes de Funcionamiento:
-La actividad del contribuyente consiste en afianzar o garantizar las obligaciones financieras de quienes solicitan sus servicios.
-Cuando una empresa requiere ser afianzada en relación con una obligación financiera, suscribe un contrato de garantía recíproca con YYYY. La fianza de YYYY se perfecciona a favor del acreedor de la empresa, mediante la emisión de uno o más certificados de fianza, de acuerdo con lo que dispone el artículo 12 de la Ley N° 20.179. Estos certificados son entregados a dicho acreedor y constituyen una garantía por el mismo plazo de la deuda que están caucionando.
-Por el servicio señalado YYYY cobra al beneficiario una comisión o remuneración, que se determina en función de los saldos mensuales de la deuda que permanecerán insolutos, durante el período por el cual ha sido otorgado el crédito. La remuneración determinada es cobrada anticipadamente al beneficiario de la fianza.
-Ahora bien, para el desarrollo de las actividades descritas, YYYY requiere, a su vez, afianzar los certificados que emite. Para tal efecto, para cada certificado, suscribe un contrato de reafianzamiento con alguno de los fondos de garantía que administra.
-Cabe señalar que, de acuerdo con la Ley, los organismos y servicios públicos que disponen de recursos para fomento y financiamiento de las micro y pequeñas empresas, pueden aportar recursos financieros a los fondos de garantía, con el único fin de afianzar las obligaciones que sean afianzadas por las sociedades anónimas de garantía recíproca. Los Fondos de Garantía han obtenido recursos para este exclusivo propósito, con aportes de inversionistas privados y con líneas de crédito de largo plazo de CORFO.
-Por la operación de afianzar las obligaciones afianzadas por YYYY, el Fondo de Garantía, le cobra una comisión o remuneración mensual, la que corresponde a un porcentaje del valor de los certificados de fianza vigentes. Por su parte, la Administradora, le cobra al Fondo una comisión mensual, por administración, equivalente a un porcentaje del patrimonio administrado.
-De acuerdo con la normativa vigente, la Administradora tiene la representación de los Fondos y las operaciones de los Fondos se efectúan por la Administradora a nombre de aquél, el cual es el titular de los derechos y obligaciones asumidas, que son contabilizadas separadamente de aquellas operaciones propias de la Administradora con recursos propios y bajo su propio nombre.
-Los Fondos no tienen, a su juicio, el carácter de contribuyentes, ya que respecto de sus operaciones quien asume tal calidad es la Administradora, según el N° 5, del Art. 8°, del Código Tributario. Por ello, en el evento que los Fondos efectuaran una operación afecta a IVA con terceros, sería la Administradora quien emitiría la factura. Esto significa que la Administradora usaría sus facturas tanto para sus propias operaciones como para las de los Fondos.
-De acuerdo a lo anterior, por la comisión o remuneración que los Fondos deben cobrar a la Administradora por los contratos de "reafianzamiento" que suscriben entre ellos, la Administradora emitiría una factura para sí misma que sería registrada en el registro de ventas del Fondo y en el Registro de Compras de la Administradora. En tal caso, la Administradora reuniría en sí misma la calidad de emisor del documento y beneficiario del servicio.
-Finalmente, respecto de la tributación de la comisión de aval, las facturas y su procedimiento de emisión y registro en el caso expuesto, solicita confirmar lo siguiente:
-a) Que la comisión de aval por las fianzas otorgadas tanto por YYYY como por los Fondos de Garantía con que se opere, constituyen ingresos exentos o no afectos al Impuesto al Valor Agregado, por lo expresado en el Ord. 1042, de 1995.
-b) Que por la comisión que cobran los Fondos de Garantía a su Administradora, ésta debe emitir a su nombre una de sus propias facturas, ya que no corresponde que el Fondo emita facturas.
-c) Que las facturas emitidas deben ser contabilizadas, tanto en el registro de ventas de los Fondos como en el registro de compras de la Administradora, y que ese mismo documento permite sustentar fehacientemente y en forma simultánea tanto el ingreso del Fondo como el gasto de Administradora.
+Se ha solicitado a este Servicio pronunciarse sobre el tratamiento tributario en materia de Impuesto a la Renta de la entrega de opciones de compra de acciones cesibles en el marco de un plan de adquisición de acciones ofrecido por una compañía matriz a los trabajadores de sus subsidiarias y/o filiales.
 
-II.- ANÁLISIS:
-Respecto del Impuesto al Valor Agregado, que afecta a la remuneración por servir de aval, este Servicio se pronunció en Ord. N° 1042, de 12/04/1995, señalando que el servicio consistente en servir de aval no se encuentra gravado con Impuesto al Valor Agregado, por no encontrar una clasificación en el N° 3 o 4, del Art. 20°, de la Ley Sobre Impuesto a la Renta.
-En cuanto a la forma de operar de los Fondos constituidos por las Sociedades Anónimas de Garantía Recíproca, cabe tener presente que al igual que los Fondos de Inversión, éstos son patrimonios independientes del de la Institución que los administra y las operaciones de cada cual serán efectuadas por ésta a nombre y por cuenta y riesgo de aquellos, los que serán titulares de los bienes e inversiones a ellos aportados.
-Sobre la materia y en lo que dice relación con el Impuesto al Valor Agregado, este Servicio ya se ha pronunciado en diversos oficios , sobre la forma de tributar de los Fondos de Inversión, pronunciamientos que resultan plenamente aplicables a los Fondos de Garantía Recíproca.
-II.- CONCLUSIÓN:
-En lo que dice relación con la consulta signada con la letra a), cabe manifestar, que el criterio contenido en Ord. N° 1042, de 12/4/1995, se encuentra plenamente vigente, por lo tanto, la comisión de aval por las fianzas otorgadas tanto por YYYY como por los Fondos de Garantía con que se opere, no se encuentran gravadas con IVA.
-Respecto de su consulta signada con la letra b), no procede la emisión de facturas para documentar la operación, estimándose suficiente la emisión de cualquier otro documento de carácter interno que acredite fehacientemente la operación de que se trata, el cual debe ser emitido por la Institución de Garantía Recíproca, por cuenta de los Fondos que administra. En cuanto al registro que deba efectuarse de dicho documento, es la institución administradora quien debe llevar registros separados de las operaciones de cada Fondo, pues conforme al Art. 33°, de la Ley N° 20.179, son éstas quienes deben efectuar las operaciones por cuenta de los Fondos.
-Finalmente, respecto de su consulta signada con la letra c), cabe señalar que la documentación descrita precedentemente, junto a los registros contables, contratos y demás antecedentes que se estimen fehacientes por este Servicio en el ejercicio de sus facultades de fiscalización, podrán servir también para acreditar los ingresos y gastos por parte de cada Fondo y de la Institución de Garantía Recíproca que corresponda, para los efectos de las obligaciones establecidas en la Ley sobre Impuesto a la Renta, sin que sea necesaria la emisión de facturas para dar cuenta de tales operaciones, sin perjuicio que respecto de los gastos de que se trate, se deberá dar cumplimiento al resto de los requisitos que establece el artículo 31 del citado texto legal.
+I. ANTECEDENTES.
+
+AAA es una sociedad formada y existente en los Estados Unidos de América. Las opciones de compra de acciones de AAA están otorgadas a sus trabajadores, directores y consultores de AAA y a trabajadores y consultores de sus subsidiarias, incluyendo BBB Limitada. Las referidas opciones son otorgadas bajo el AAA. 2004 Stock Plan (SOP) o plan de adquisición de acciones ofrecido directamente por AAA.
+
+Por su parte, BBB, es una sociedad de responsabilidad limitada chilena, subsidiaria de AAA y mantiene contrato de trabajo con personas naturales (en adelante, los trabajadores chilenos) a los cuales se les ofreció el SOP.
+
+Como la mayoría de los planes de adquisición de acciones ofrecidos por compañías matrices de los Estados Unidos a trabajadores de sus subsidiarias y/o empresas filiales fuera de dicho país, el SOP de XXX confiere a los trabajadores chilenos la opción de compra de acciones de AAA a un precio de compra con descuento que queda fijado al momento del otorgamiento.
+
+Las opciones otorgadas bajo el SOP de XXX son intransferibles y sólo pueden ser ejercidas por los trabajadores chilenos una vez que haya transcurrido un plazo determinado durante el cual se han de mantener como trabajadores de BBB. Este plazo es denominado vesting period, transcurrido el cual las opciones se consolidan (vested options). De ejercerse las opciones, los trabajadores chilenos deben, con fondos propios, remitir al exterior el precio de compra de las acciones respectivas.
+
+Expone que este Servicio ha señalado que, dado que existe una inversión en acciones con fondos propios por parte del trabajador, la tributación aplicable en Chile opera cuando dichas acciones son vendidas en cuanto el precio de venta supere el monto corregido de la inversión realizada.
+
+AAA está considerando implementar en Chile y otros países su Transferable Stock Option Program (TSOP) bajo el cual se permitirá a los trabajadores chilenos vender sus opciones otorgadas bajo el SOP una vez "vested". Para estos efectos, las opciones conferidas bajo el SOP serían modificadas para permitir su cesibilidad. En el caso de optar por la venta de las opciones, el trabajador recibirá la opción y el derecho a ejercerla será transferido a un tercero y, por consiguiente, no habrá inversión alguna por parte de los trabajadores chilenos. La venta de las opciones ocurrirá mediante un remate online establecido por BBB, a través del cual TTT como administrador del remate efectuará y requerirá posturas de ciertos inversionistas financieros institucionales preclasificados y no relacionados que decidan participar en el TSOP.
+
+En este caso, solicita confirmar que para efectos tributarios chilenos, el precio de venta pagado a los trabajadores chilenos al momento de la venta de sus opciones cesibles y consolidadas o "vested", debe entenderse como una renta del trabajo accesoria o complementaria al sueldo, pagada como contraprestación de los servicios personales de los trabajadores chilenos y como tal afecta al Impuesto de Segunda Categoría sobre base pagada.
+
+Finalmente, se solicita confirmar que dado que el pagador de la renta no será una empresa domiciliada o residente en Chile, el Impuesto de Segunda Categoría deberá ser declarado y pagado en arcas fiscales por el mismo trabajador chileno.
+
+II. ANÁLISIS.
+
+Este Servicio efectivamente ha señalado que cuando en el marco de un Plan de Incentivo, se entrega una opción al trabajador para adquirir acciones de la empresa, si el trabajador ejerce la opción y compra las acciones, en la medida que lo haga con recursos propios, se produce simplemente una modificación en la composición de su patrimonio, y se deberá esperar a que el trabajador enajene las acciones que adquirió para determinar su tributación conforme a lo dispuesto por la LIR.
+
+Ahora bien, si se estipula la cesibilidad de la opción de adquisición de acciones de manera que ésta puede transferirse a un tercero a título oneroso, dicha opción tendrá un valor intrínseco, independiente del valor de las acciones, y al ingresar al patrimonio del trabajador sin que se efectúe un desembolso a cambio del mismo, lo incrementará. Por tanto, la entrega de la opción constituirá para el trabajador una renta, de conformidad con el concepto amplio que consagra el número 2 del artículo 2 de la LIR.
+
+Se debe tener presente que de conformidad con el artículo 41 del Código del Trabajo, se entiende por remuneración, las contraprestaciones en dinero y las adicionales en especie avaluables en dinero que debe percibir el trabajador del empleador por causa del contrato de trabajo. El inciso segundo del citado precepto dispone que no constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, la indemnización por años de servicios establecida en el artículo 163 del mismo Código y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.
+
+De lo dispuesto por la norma legal comentada, aparece que el legislador ha fijado un amplio margen de causa a la remuneración, es decir, todo lo que se pague con motivo de la relación laboral constituye remuneración, y sólo no lo sería aquello que el mismo legislador exceptúa en el inciso segundo del citado artículo 41 del Código del Trabajo.
+
+Conforme a lo anterior, la ley exige sólo la concurrencia de dos requisitos para calificar un determinado estipendio como remuneración, a saber:
+
+1) Que se trate de una contraprestación en dinero o en especie avaluable en dinero; y
+
+2) Que el derecho del trabajador a percibir del empleador esta contraprestación tenga como causa el contrato de trabajo.
+
+Así las cosas, cabe entender que la entrega de estas opciones sin costo para el trabajador por parte de la empresa al trabajador tendrá la naturaleza jurídica de remuneración en la medida que el derecho del trabajador a percibirla del empleador tenga como causa el contrato de trabajo, y en esa medida, queda clasificada en el número 1 del artículo 42 de la LIR.
+
+Esta circunstancia deberá quedar claramente establecida en el contrato de trabajo respectivo, o bien, en el respectivo plan de incentivo de la empresa, pero en este último caso es preciso que el contrato de trabajo incorpore el derecho del trabajador de acogerse a dicho plan de incentivo.
+
+III. CONCLUSIÓN.
+
+En cuanto a su consulta, cabe señalar que la entrega de la opción cesible, sin que se efectúe un desembolso a cambio del mismo, constituirá un incremento de patrimonio para el trabajador, por el cual deberá tributar con el impuesto establecido en el artículo 43 de la LIR, en la medida que la entrega de la opción tenga por causa el contrato de trabajo en los términos explicados en el análisis.
+
+En este caso, el Impuesto de Segunda Categoría deberá ser declarado y pagado en arcas fiscales por el mismo trabajador chileno.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 2050, de 01.09.2011
+Oficio N° 1042, de 04.05.2011
 
 Subdirección Normativa
 
-Dpto. de Impuestos Indirectos
+Dpto. de Impuestos Directos

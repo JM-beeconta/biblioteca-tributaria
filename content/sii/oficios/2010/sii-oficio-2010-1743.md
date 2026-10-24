@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta &ndash; Actual Ley Sobre Impuesto a la &ndash; Ley N° 19.518, Art. 23°, Art. 36°, Art. 43, Art. 79. (.10.2010) (Ord. Nº 1743, de 04-10-2010) |
+Renta – Actual Ley Sobre Impuesto a la – Ley N° 19.518, Art. 23°, Art. 36°, Art. 43, Art. 79. (.10.2010) (Ord. Nº 1743, de 04-10-2010) | | Word Solicita pronunciamiento acerca del procedimiento a seguir respecto de situación que afecta a organismo técnico intermedio para capacitación.
 
 ## Referencias detectadas
 

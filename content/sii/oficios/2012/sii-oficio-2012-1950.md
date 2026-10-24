@@ -4,49 +4,77 @@
 - Tipo: oficio
 - Número: 1950
 - Año: 2012
-- Fecha: 2012-06-05
-- Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2012/ja1388.htm
-- Hash SHA-256: ebfa63357aadf3a76d550474cc3498928cf405e1bb9489f480c33fe200e8aad8
+- Fecha: 2012-08-03
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2012/ja1950.htm
+- Hash SHA-256: d875701dae043e24ba621fdefd604e7fd9f27ad0efba6939e400b62992eda5a6
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 41° B, Art. 17°, Art. 18° &ndash; Ley N° 18.293, de 1984, Art. 3° &ndash; Circular N° 27 de 1984 &ndash; . (Ord. Nº 1388, de 05-06-2012) |
+Ley sobre Impuesto Territorial Ley N 17.235 Art 1, Art. 25. (Ord. Nº 1950, de 03-08-2012) | | Word El articulo 11 de la Ley N 17.235, sobre Impuesto Territorial, establece un impuesto a los bienes raices, que se aplica sobre el avaluo, determinado de conformidad con las disposiciones de dicha ley. Este impuesto se aplica tanto respecto de los Bienes Raices Agricolas como No Agricolas, a menos que se encuentre comprendido en la nomina de exenciones del impuesto, establecidas en el Cuadro Anexo de la referida Ley o…
 
 ## Referencias detectadas
 
-- {"type":"circular","number":27,"year":1984}
-- {"type":"oficio","number":1950,"year":2011}
-- {"type":"articulo","law":"LIR","article":"41B"}
-- {"type":"articulo","law":"LIR","article":"17"}
-- {"type":"articulo","law":"LIR","article":"3"}
-- {"type":"articulo","law":"LIR","article":"41 B"}
+- {"type":"articulo","law":"LIR","article":"42"}
+- {"type":"articulo","law":"LIR","article":"57"}
+- {"type":"articulo","law":"LIR","article":"55"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° B, ART. 17°, ART. 18° – LEY N° 18.293, DE 1984, ART. 3° – CIRCULAR N° 27 DE 1984 – OFICIO N° 1950, DE 2011. (ORD. N° 1388, DE 05.06.2012)
+LEY SOBRE IMPUESTO TERRITORIAL LEY N 17.235 ART 1, ART. 25. (Ord. Nº 1950, de 03-08-2012)
 
-TRATAMIENTO TRIBUTARIO DE LA ENAJENACIÓN DE ACCIONES DE SOCIEDAD ANÓNIMA CONSTITUIDA EN EL EXTERIOR, EFECTUADA FUERA DEL PAÍS POR PERSONA NATURAL NACIONALIZADA Y DOMICILIADA EN CHILE, LAS CUALES FUERON ADQUIRIDAS EN JUNIO DE 1982 A TRAVÉS DE UNA DONACIÓN.
+EL ARTICULO 11 DE LA LEY N 17.235, SOBRE IMPUESTO TERRITORIAL, ESTABLECE UN IMPUESTO A LOS BIENES RAICES, QUE SE APLICA SOBRE EL AVALUO, DETERMINADO DE CONFORMIDAD CON LAS DISPOSICIONES DE DICHA LEY. ESTE IMPUESTO SE APLICA TANTO RESPECTO DE LOS BIENES RAICES AGRICOLAS COMO NO AGRICOLAS, A MENOS QUE SE ENCUENTRE COMPRENDIDO EN LA NOMINA DE EXENCIONES DEL IMPUESTO, ESTABLECIDAS EN EL CUADRO ANEXO DE LA REFERIDA LEY O QUE EL VALOR DE LA TASACION FISCAL SE ENCUENTRE DENTRO DEL TRAMO EXENTO. A SU VEZ, EL ARTICULO 255 DE LA LEY N 17.235, SENALA QUE EL OBLIGADO AL PAGO DEL REFERIDO IMPUESTO, SERA EL DUENO O EL OCUPANTE DE LA PROPIEDAD, YA SEA ESTE UN USUFRUCTUARIO, ARRENDATARIO O MERO TENEDOR, SIN PREJUICIO DE LA RESPONSABILIDAD QUE AFECTE AL PROPIETARIO.
 
-I.- ANTECEDENTES. Una persona nacida en Nueva Zelandia, nacionalizada y domiciliada en Chile, adquirió, en Junio de 1982, acciones de una sociedad anónima neozelandesa, ello en virtud de una donación que le hizo su padre. Dicha persona vendió estas acciones en Nueva Zelandia, a su valor actual de mercado. Como no ha hecho otras adquisiciones ni enajenaciones de acciones, se trata, en su opinión, de una operación no habitual de enajenación de acciones de sociedad anónima.
-Agrega a continuación, que el artículo 41B, de la Ley sobre Impuesto a la Renta (LIR), dispone que tratándose de contribuyentes que tengan inversiones en el extranjero y que reciban ingresos de fuente extranjera, no son aplicables las normas del artículo 17, N°8, letra a), de la LIR, que establecen una tributación especial de impuesto único de Primera Categoría para las rentas obtenidas en la enajenación no habitual de acciones de sociedades anónimas. Al respecto señala que este Servicio, a través del Oficio N°1.950 de 25 de agosto de 2011, dictaminó que la referida disposición no resulta aplicable cuando la inversión en el extranjero se ha efectuado en una época en que el contribuyente carecía de domicilio o residencia en Chile y cuando ha sido solventada con recursos de fuente extranjera.
-Hace presente que la adquisición de las acciones se produjo en el año 1982, época en que el mayor valor obtenido en su enajenación no habitual, no constituía renta ni se gravaba con impuesto alguno de la LIR, tratamiento tributario que se mantiene en la actualidad, no obstante la dictación de la Ley N° 18.293 de 1984, respecto de las acciones adquiridas antes del 31 de enero de 1984.
-II.- ANÁLISIS.
-De conformidad con el artículo 3°, de la LIR, toda persona domiciliada o residente en Chile, paga impuestos sobre sus rentas de cualquier origen, sea que la fuente de entradas esté situada dentro del país o fuera de él. Por tanto, en la situación que indica, vale decir, en el caso de la enajenación de acciones de una sociedad anónima, efectuada por una persona domiciliada o residente en Chile, el mayor valor obtenido en dicha operación queda afecto al tratamiento tributario que dispone la legislación chilena, ya sea que las acciones correspondan a sociedades anónimas constituidas en Chile o en el extranjero.
-Ahora bien, de conformidad con lo dispuesto por el artículo 3°, de la Ley N°18.293, de 1984, no queda afecto a los tributos de la LIR, el mayor valor, incluido el reajuste de saldo de precio, obtenido en la enajenación o cesión de acciones de sociedades anónimas que se hayan adquirido antes de la publicación de la misma Ley, cuando de acuerdo con lo dispuesto en los artículos 17°, N° 8, letra a) y 18° de la LIR, vigentes al 31 de diciembre de 1983, dicho mayor valor no quedaba afecto a impuesto. Al respecto, este Servicio, a través de su jurisprudencia administrativa , concluyó que la enajenación de las referidas acciones no está afecta a impuesto a la renta sólo en caso que el vendedor o cedente no sea considerado habitual en este tipo de operaciones y que no exista relación entre el cedente y el adquirente en los términos definidos por el inciso 4°, del N° 8, del artículo 17, de la LIR.
-Por otra parte, el inciso 1°, del artículo 41 B, de la LIR, establece que los contribuyentes que tengan inversiones en el extranjero e ingresos de fuente extranjera no podrán aplicar, respecto de estas inversiones e ingresos, lo dispuesto en los números 7 y 8 con excepción de las letras f) y g), del artículo 17, y en los artículos 57 y 57 bis. Al respecto, mediante Oficio N° 1.950, de 25 de agosto de 2011, este Servicio interpretó que esta disposición no resulta aplicable al caso en que los bienes que el contribuyente tiene en el extranjero, han sido adquiridos por él cuando no tenía residencia ni domicilio en Chile y con recursos de fuente extranjera.
+1.- Por especial encargo del Sr. XXXX se da respuesta al correo electrónico que usted enviara a S.E. el Presidente de la República, en el que expone, entre otros asuntos, su punto de vista y molestia respecto a la carga impositiva que debería actualmente asumir.
 
-Considerando los antecedentes de hecho que expone en su presentación, resulta evidente que las acciones respectivas no fueron adquiridas con motivo de alguna inversión efectuada desde Chile al extranjero, por lo que no resulta aplicable el inciso primero del artículo 41 B, de la LIR, de modo que malamente podría exigirse en este caso algún registro conforme a lo dispuesto por este artículo, ni menos hablarse de una devolución de capital invertido en el exterior.
-De acuerdo con lo señalado, la situación planteada en la presentación, al no quedar comprendida en la hipótesis de hecho sobre la cual se basa el artículo 41 B, de la LIR, debe regirse por las normas generales, esto es, lo dispuesto en el N°8, del artículo 17, en relación con el artículo 18, ambos del mismo texto legal; y, dado que las acciones habrían sido adquiridas con anterioridad al 31 de enero de 1984, conforme al artículo 3°, de la Ley N°18.293, de 1984, el régimen aplicable al mayor o menor valor proveniente de la enajenación de tales títulos es el que contienen el N°8, del artículo 17, en relación con el artículo 18, de la LIR, vigentes al 31 de diciembre de 1983.
-III.- CONCLUSIÓN.
-En consecuencia, en la situación particular que expone en su presentación, al no resultar aplicable el inciso 1°, del artículo 41 B, de la LIR, ello por las razones indicadas en el análisis precedente, el mayor valor, incluido el reajuste del saldo de precio, obtenido en la enajenación o cesión de acciones de sociedades anónimas que señala, debe regirse por las normas generales de la LIR, esto es, lo dispuesto en el N°8, del artículo 17, en relación con el artículo 18, ambos del mismo texto legal; y, dado que las acciones habrían sido adquiridas con anterioridad al 31 de enero de 1984, conforme al artículo 3°, de la Ley N°18.293, de 1984, el régimen aplicable al mayor o menor valor proveniente de la enajenación de tales títulos es el que contienen el N°8, del artículo 17, en relación con el artículo 18, de la LIR, vigentes al 31 de diciembre de 1983. Por lo tanto, el referido mayor valor no constituye renta, en la medida que el vendedor o cedente no sea considerado habitual en este tipo de operaciones y no esté relacionado con el adquirente, y siempre y cuando al adquirir las acciones a que se refiere no haya tenido domicilio ni residencia en el país, de acuerdo a lo interpretado previamente por este Servicio mediante Oficio N° 1.950, de 25 de agosto de 2011.
+2.- De acuerdo con su presentación, con ocasión de una carta que recibiera de este Servicio, señala que ha tenido la necesidad de comunicar una serie de situaciones que le afectan.
+
+En lo que compete a este Servicio expone que tiene asociadas a su Rut algunas propiedades, en total cuatro, de las cuales una corresponde a la casa en la cual actualmente vive, otra en la cual habitan su esposa e hijos. Una tercera propiedad que compró para un amigo a un valor de $x.xxx.xxx, atendido que éste no tiene acceso a créditos, y otra que pertenecía a su hermano y se la estaban rematando y como era el único en la familia que tenía capacidad para endeudarse, la adquirió, pero es su hermano quien en definitiva cuenta, paga los dividendos. Agrega que todo lo expuesto lo puede demostrar con documentos protocolizados.
+
+Manifiesta su descontento por la alta carga impositiva que debe soportar, a pesar de las obras sociales que ha realizado.
+
+Además, expone otras situaciones relativas a temas de justicia, laborales, y de violencia intrafamiliar.
+
+3.- En primer lugar, es importante tener presente que a este Servicio corresponde por ley la aplicación y fiscalización administrativa de las disposiciones tributarias. Precisamente, el artículo 1° de la Ley Orgánica del Servicio señala que le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
+
+4.- Respecto a la carta que dice haber recibido de este Servicio, se informa a usted que de acuerdo a nuestros registros no se encuentra bajo ningún proceso de fiscalización y no presenta observaciones por sus rentas.
+
+Con relación a la carga tributaria a que se refiere, de los antecedentes proporcionados se desprende que es un trabajador dependiente; en consecuencia, se encuentra afecto al impuesto Único de Segunda Categoría, establecido en el artículo 42°, N°1, de la Ley sobre Impuesto a la Renta.
+
+Este tributo grava los sueldos, salarios, sobresueldos, premios, gratificaciones, dietas, participaciones y cualesquiera otras asimilaciones o asignaciones que aumenten la remuneración pagada por la prestación de servicios personales, bajo vínculo de dependencia.
+
+Se trata de impuesto que es progresivo, es decir, que aumenta en función del monto de las remuneraciones, de modo que las remuneraciones más altas pagan más impuesto, con tasas que van desde 0% a 40%, retenido y pagado por el empleador y se calcula sobre el total de los salarios y compensaciones laborales excepto los pagos por concepto de seguridad social.
+
+No obstante, las rentas que no excedan de 13,5 UTM (Unidades Tributarias Mensuales), se encuentran exentas del impuesto.
+
+Tal como usted manifiesta en su presentación, de la renta obtenida como trabajador dependiente, existe un porcentaje destinado a financiar su pensión de jubilación [1] y otro porcentaje equivalente al 7% de sus remuneraciones con tope de 67,4 UF destinado a salud. Ambos montos gozan de la exención establecida en el artículo 18° del Decreto Ley N°3.500 de 1980 [2] , no obstante que una vez que se empieza a recibir el pago de la pensión de jubilación, serán gravadas con el respectivo impuesto.
+
+No obstante, la ley contempla ciertas franquicias que benefician a los contribuyentes del Impuesto de Segunda Categoría, a saber:
+
+A. El artículo 57° bis de la Ley sobre Impuesto a la Renta, establece un incentivo al ahorro, conforme al cual se otorga un crédito fiscal por inversiones en instrumentos de ahorro, contra el Impuesto Único de Segunda Categoría.
+
+B. Asimismo, el artículo 42° bis de la misma ley, en concordancia con lo dispuesto por los artículos 20 y 20 F del D.L. N° 3.500, de 1980, establece un beneficio tributario para el Ahorro Previsional.
+
+C. El artículo 55° bis de la Ley sobre Impuesto a la Renta, establece un beneficio tributario en virtud del cual, entre otros, los contribuyentes, personas naturales afectos al Impuesto Único de Segunda Categoría, podrán rebajar de la renta bruta imponible anual, los intereses efectivamente pagados durante el año al que corresponde la renta, devengados en créditos con garantía hipotecaria que se hubieren destinado a adquirir o construir una o más viviendas o en créditos de igual naturaleza destinados a pagar los créditos señalados. Las instrucciones sobre la materia se encuentran contenidas en la Circular 87, de 2001.
+
+5.- Con relación a las propiedades que indica se encuentran a su nombre y respecto de las cuales manifiesta que debe pagar impuestos, cabe señalar que el artículo 1° de la Ley N° 17.235, sobre Impuesto Territorial, establece un impuesto a los bienes raíces, que se aplicará sobre el avalúo de ellos, determinado de conformidad con las disposiciones de la precitada ley. Este impuesto se aplicará tanto respecto de los Bienes Raíces agrícolas como no agrícolas, a menos que se encuentre comprendido en la nómina de exenciones del impuesto, establecidas en el Cuadro Anexo de la Ley o que el valor de la tasación fiscal se encuentre dentro del tramo exento. A su vez, el artículo 25° de la Ley N° 17.235, señala respecto de los obligados al pago del precitado impuesto, que éste será pagado por el dueño o por el ocupante de la propiedad, ya sea este un usufructuario, arrendatario o mero tenedor, sin perjuicio de la responsabilidad que afecte al propietario.
+
+No obstante, se informa a usted que de acuerdo a los registros de este Servicio, a la fecha las propiedades a su nombre corresponden a los Roles N°’s xxxxxx, todas las que se encuentran liberadas de pagar contribuciones de bienes raíces, ya que su avalúo fiscal se encuentra dentro del tramo exento del Impuesto Territorial [3] .
+
+6.- Por último, sobre las materias que expone relativas a temas de justicia, laborales, violencia intrafamiliar, sin perjuicio de tratarse de asuntos en extremo sensibles y de gran relevancia social, este Servicio carece de las debidas competencias para pronunciarse a su respecto.
 
 JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 1388, de 05.06.2012
+Oficio N°1950, de 03.08.2012
 
 Subdirección Normativa
 
-Dpto. de Impuestos Directos
+Dpto. de Técnica Tributaria
+
+[1] El artículo 17°, del Decreto Ley N° 3500, de 1980, dispone que los trabajadores afiliados al Sistema, menores de 65 años de edad si son hombres, y menores de 60 años de edad si son mujeres, estarán obligados a cotizar en su cuenta de capitalización individual el 10 por ciento de sus remuneraciones y rentas imponibles.
+
+[2] La parte de la remuneración y renta imponible destinada al pago de las cotizaciones y depósitos de ahorro previsional voluntario establecidos en los artículos 17, 17 bis, 20, 84, 85 y 92, se entenderá comprendida dentro de las excepciones que contempla el Nº 1 del artículo 42º de la ley sobre Impuesto a la Renta.
+
+[3] Artículo 2°, inciso segundo, de la Ley N° 17.235, sobre Impuesto Territorial.

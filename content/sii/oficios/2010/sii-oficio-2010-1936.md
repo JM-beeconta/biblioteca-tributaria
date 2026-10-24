@@ -4,52 +4,48 @@
 - Tipo: oficio
 - Número: 1936
 - Año: 2010
-- Fecha: 2010-01-11
-- Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2010/ja13.htm
-- Hash SHA-256: e5541bccb61a25a7e5f6802aa585042335268ead8950a2fcab40aec67bb85e23
+- Fecha: 2010-03-11
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2010/ja1936.htm
+- Hash SHA-256: 0685733154a09ffd8fd13069acffb85be130115986bfcd4eb1d27d660b1f7f4b
 
 ## Resumen
 
-VENTAS Y SERVICIOS &ndash; NUEVO TEXTO &ndash; ART. 9°, LETRA A), ART. 55° &ndash; . (Ord. Nº 13, de 11-01-2010) |
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°15, ART. 42°, N°2, ART 43°, N°2 – RESOLUCIÓN EX. N°1.414, DE 1978. (Ord. Nº 1936, de 25-10-2010) | | Word Situación tributaria de sumas proporcionadas a título de traslación y viático a profesionales, contratados en base a honorarios por institución pública.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1936,"year":1998}
+- {"type":"circular","number":21,"year":1991}
+- {"type":"articulo","law":"LIR","article":"17 N"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ART. 9°, LETRA A), ART. 55° – OFICIO N° 1936, DE 1998. (ORD. N° 013, DE 11.01.2010)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°15, ART. 42°, N°2, ART 43°, N°2 – RESOLUCIÓN EX. N°1.414, DE 1978. (ORD. N° 1936, DE 25.10.2010)
 
-OBLIGACIÓN DE DOCUMENTAR PAGO ANTICIPADO DEL PRECIO DE BIENES CONFECCIONADOS POR ENCARGO –– NO RESULTA OBLIGATORIO EMITIR DOCUMENTACIÓN TRIBUTARIA SINO HASTA LA ENTREGA DEL BIEN QUE SE VENDE – EN CASO DE FACTURARSE DICHO ANTICIPO DE DINERO ANTES DE LA ENTREGA, LA EMISIÓN DE LA FACTURA IMPLICARÁ EL DEVENGO DEL IMPUESTO AL VALOR AGREGADO CORRESPONDIENTE AL ANTICIPO, DEBIENDO RECARGARSE EL MONTO DEL TRIBUTO EN EL REFERIDO DOCUMENTO.
+SITUACIÓN TRIBUTARIA DE SUMAS PROPORCIONADAS A TÍTULO DE TRASLACIÓN Y VIÁTICO A PROFESIONALES, CONTRATADOS EN BASE A HONORARIOS POR INSTITUCIÓN PÚBLICA.
 
-1.- Se ha recibido en esta Dirección Nacional la presentación del antecedente, mediante la cual el señor XXXX, en representación de YYY Ltda., solicita un pronunciamiento sobre la obligatoriedad de documentar los anticipos del precio de bienes confeccionados por encargo.
+Se ha recibido en este Servicio Oficio Ord., del antecedente, mediante el cual solicita un pronunciamiento sobre la situación tributaria de las sumas pagadas por concepto de traslación y viáticos a profesionales contratados en base a honorarios por esa repartición pública. I.- ANTECEDENTES.
+Su petición la fundamenta en lo resuelto por la Contraloría General de la República en el Dictamen N°13.067 de 11 de marzo de 2010, en el que se reconsidera, en lo que corresponda, anterior jurisprudencia de ese órgano contralor.
+II.- ANÁLISIS.
+En Dictamen N°13.067 de 2010 antes citado, la Contraloría General de la República ha expresado que en un convenio a honorarios, los pagos para resarcir desembolsos por alimentación y alojamiento producidos durante la ejecución de un encargo a favor de la Administración, fuera del lugar habitual en que su beneficiario se desempeña, cumplen la misma finalidad que la ley le asigna al viático y por ende es posible atribuirle a esa clase de estipulaciones una naturaleza compensatoria, por lo que procedió a reconsiderar, en lo que corresponda, lo señalado en los dictámenes N°s 18.250, de 2000, y 49.380, de 2004, ambos de esa Entidad de Control, en los que se indicaba que la alusión a viáticos y pasajes contenida en los convenios a honorarios, debía ser interpretada en el sentido de que su beneficiario tenía derecho al pago de un honorario adicional.
+III.- CONCLUSIONES.
+En relación a su consulta, se informa que las sumas pagadas por la Administración Pública a su personal contratado a honorarios, por concepto de traslación y viáticos, otorgados con ocasión del cumplimiento de un encargo a favor de la Administración en un lugar diverso al que habitualmente se desempeñan, deben sujetarse al siguiente tratamiento tributario:
 
-Señala que el giro de su representada es Auditores- Consultores, y que en su desarrollo tienen un cliente con giro imprenta y fábrica de timbre de goma. En todo trabajo que reciben, solicitan un abono que por lo general cubre los costos directos de la venta a realizar, por la que entregan una boleta de compraventa o factura si corresponde. Al retirar el cliente el pedido se encontrarían con las siguientes situaciones:
+a) En el caso de los profesionales a que se refiere el artículo 16 del Decreto Ley N°824, de 1974, y siempre que las sumas pagadas por dicho concepto cumplan con los requisitos indicados en el Oficio N°5.631 de 1975 de este Servicio, dichos emolumentos no constituirán renta en conformidad a lo dispuesto por el Artículo 17 N°15 de la Ley sobre Impuesto a la Renta. En el caso de los profesionales a que se refiere el citado Artículo 16 no existe, para fines tributarios, obligación de emitir boletas de honorarios por sus emolumentos.
 
-a) Se emite boleta por el saldo del precio.
+En el caso en que tales sumas no cumplan los requisitos indicados en el citado Oficio, se afectan con el Impuesto Único de Segunda Categoría en los términos dispuestos por el artículo 16 del Decreto Ley N° 824, de 1974.
 
-b) Se emite factura por el saldo del precio si corresponde.
+b) Tratándose de los profesionales contratados en base a honorarios por la Administración Pública, que no cumplan con los requisitos a que se refiere el Artículo 16 del Decreto Ley N°824, de 1974, los desembolsos por concepto de traslación y viáticos, no constituyen ingresos brutos, no estando por consiguiente afectos a Impuesto Global Complementario, al tratarse de sumas cuyo objeto es compensar gastos incurridos a favor de la Administración, ello de acuerdo a lo resuelto por la Contraloría General de la República en Dictamen N°13.067 de 2010.
 
-c) El cliente que se le emitió boleta por el abono, solicita factura por el total por cumplir los requisitos para su emisión. En este caso se anula la boleta por el abono por una nota de crédito y se emite factura por el total.
+Respecto de las cantidades recibidas por estos conceptos no existe, para fines tributarios, obligación de emitir boletas de honorarios. Su acreditación se deberá efectuar en la forma señalada en la Circular N°21, de 1991, esto es, los respectivos pagos y reembolsos de gastos efectuados se deberán comprobar con documentación fidedigna y deberán individualizarse en forma detallada y no en forma global o estimativa.
+Ahora bien, si las sumas pagadas por estos conceptos no son acreditadas en cuanto a su naturaleza y monto en la forma señalada en la citada Circular, se encontrarán afectas a impuesto de acuerdo con los artículos 42, N° 2, y 43, N°2, y demás normas pertinentes de la Ley sobre Impuesto a la Renta, debiendo emitirse una boleta de honorarios por las cantidades percibidas; esto último, de conformidad a lo dispuesto en la Resolución N°1.414 Ex., de 1978.
 
-d) Nunca viene a buscar lo encargado.
-Citando lo dispuesto en el artículo 55 del DL 825, en concordancia con lo establecido por este Servicio mediante Oficios N °887 de 25 de Marzo de 1996 y 1936 de 23 de Junio de 1998, solicita un pronunciamiento sobre los siguientes puntos:
-A) La venta se realiza al momento de hacer entrega real del bien corporal mueble encargado, naciendo en ese momento la obligación del vendedor de documentar operación de venta. Con lo cual los anticipos no deben ser documentados con documento tributario (boleta o factura).
-B) De no aceptarse el punto A, como hacer para anular la boleta de un mes anterior si el IVA ya fue cancelado, por tal motivo necesitamos saber si es aceptable la emisión de una nota de crédito para la anulación de una boleta de compraventa, sin que esta sea emitida a través de una máquina registradora con impresora fiscal. De lo contrario que se nos indique la metodología a seguir para no afectar la venta.
-2.- El artículo 9 letra a) del D.L. 825, de 1974, dispone en lo pertinente que el impuesto al valor agregado se devengará: "En las ventas de bienes corporales muebles..., en la fecha de emisión de la factura o boleta".
-Por su parte el artículo 55 del mismo cuerpo legal, dispone que la venta de bienes corporales muebles, debe documentarse en el mismo momento en que se efectúa la entrega real o simbólica de las especies.
-3.- Sobre el particular, cabe señalar que tratándose de la venta de un bien corporal mueble confeccionado por encargo, en que la entrega real del bien que se vende ha sido convenida a futuro por las partes, para efectos de lo dispuesto en el punto anterior la entrega sea real o simbólica, sólo podrá efectuarse a partir de la existencia real de estos bienes, esto es, una vez que la especie se encuentre ya confeccionada.
-Por lo tanto, de acuerdo a las disposiciones previamente mencionadas, sólo al momento de entrega del bien, nace la obligación del vendedor de documentar la venta, ergo en el caso expuesto no existe obligación de emitir documentación tributaria por los anticipos de precio, por tratarse de aquellas convenciones en que la entrega de las especies se pacta a futuro.
-De esta manera se confirma el criterio consultado, expuesto en el punto A) de su presentación, en el sentido de que no resulta obligatorio emitir documentación tributaria sino hasta la entrega del bien que se vende.
-Ahora bien, en el evento de facturarse dicho anticipo de dinero antes de la entrega, la emisión de la factura implicará el devengo del Impuesto al Valor Agregado correspondiente al anticipo, debiendo recargarse el monto del tributo en el referido documento. Lo anterior ha quedado establecido en Oficio 1936, del 23.07.1998, el cual puede ser consultado a través de nuestra página Web www.sii.cl.
-
-RICARDO ESCOBAR CALDERON
+JULIO PEREIRA GANDARILLAS
 
 DIRECTOR
 
-Oficio N° 013, de 11.01.2010
+Oficio N° 1936, de 25.10.2010
 
 Subdirección Normativa
 
-Dpto. de Impuestos Indirectos
+Dpto. de Impuestos Directos
