@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel Fuente: Departamento de Asesoría Jurídica
+n Normativa Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

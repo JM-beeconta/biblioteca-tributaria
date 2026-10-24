@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye publicación de actividades de las autoridades que indica Fuente: Subdirección Jurídica
+n Normativa Instruye publicación de actividades de las autoridades que indica Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de cálculos de reajustes, intereses y Multas junio 2015 Fuente: Subdirección de Fiscalización
+n Normativa Tabla de cálculos de reajustes, intereses y Multas junio 2015 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

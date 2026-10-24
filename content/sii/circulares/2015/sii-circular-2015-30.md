@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye respecto de la incorporación del nuevo artículo 41 G a la Ley sobre Impuesto a la Renta, efectuada por la Ley N° 20.780, sobre el cómputo en Chile de las rentas pasivas percibidas o devengadas por empresas controladas en el exterior. Fuente: Departamento de Impuestos Directos
+n Normativa Instruye respecto de la incorporación del nuevo artículo 41 G a la Ley sobre Impuesto a la Renta, efectuada por la Ley N° 20.780, sobre el cómputo en Chile de las rentas pasivas percibidas o devengadas por empresas controladas en el exterior. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

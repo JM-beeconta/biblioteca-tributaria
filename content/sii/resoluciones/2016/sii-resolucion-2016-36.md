@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Reorganiza las Unidades que conforman el Departamento Subdirección de Informática y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección Informática
+n de Avaluaciones Reorganiza las Unidades que conforman el Departamento Subdirección de Informática y establece ámbitos de competencia de las Unidades que la conforman Fuente: Subdirección Informática
 
 ## Referencias detectadas
 

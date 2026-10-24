@@ -4,45 +4,50 @@
 - Tipo: oficio
 - Número: 2002
 - Año: 2015
-- Fecha: 2015-04-24
-- Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1119.htm
-- Hash SHA-256: d63ec1bee4ebf4f39e08a454643d94db1ce1380e2d51b548c9c694bf92a5b9be
+- Fecha: 2015-08-04
+- Categoría: Otras Normas
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja2002.htm
+- Hash SHA-256: b5c372d8838c245e67c21732872280d16bf0eac37f71c2a4d610d4a79493ec42
 
 ## Resumen
 
-Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Decreto Ley N° 910, de 1975, Art. 21° &ndash; Decreto Ley N° 2552, de 1979, Art. 3° &ndash; . (Ord. Nº 1119, de 24-04-2015) |
+Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones – Ley N°16.271 – Art. 63°, Art. 17° – Código Tributario, Art. 64°. (Ord. Nº 2002, de 04-08-2015) | | Word Solicita confirmar criterios sobre contrato de renta vitalicia que describe.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":2002,"year":2013}
+- {"type":"articulo","law":"CT","article":"64"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21° – DECRETO LEY N° 2552, DE 1979, ART. 3° – OFICIO N° 2002, DE 2013. (ORD. N° 1119, DE 24.04.2015)
-CONSULTA SOBRE LOS ANTECEDENTES A PRESENTAR PARA ACREDITAR QUE LOS CONTRATOS DE CONSTRUCCIÓN QUE ACCEDEN A LA CONSTRUCCIÓN DE CONDOMINIOS DE VIVIENDAS SOCIALES Y A VIVIENDAS SOCIALES EN GENERAL CUMPLEN CON LOS REQUISITOS PARA UTILIZAR EL BENEFICIO CONTENIDO EN EL ART. 21°, DEL D.L. N° 910.
-I.- ANTECEDENTES:
+LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N°16.271 – ART. 63°, ART. 17° – CÓDIGO TRIBUTARIO, ART. 64°. (ORD. N° 2002, DE 04.08.2015)
+SOLICITA CONFIRMAR CRITERIOS SOBRE CONTRATO DE RENTA VITALICIA QUE DESCRIBE.
+I ANTECEDENTES
+Conforme lo expuesto en su presentación: - Una persona natural “A”, de 80 años de edad detenta un patrimonio de $900 compuesto únicamente por dinero en efectivo.
+- Dicha persona natural “A” suscribe un contrato de renta vitalicia con la sociedad “X” en la cual participa en un 99,9% el hijo de “A”, la persona natural “B”.
+- En el contrato se fija como precio $900, que “A” paga en el acto a la sociedad “X”. Como contraprestación se fija una renta anual de $20, que la sociedad “X” deberá pagar a la persona natural A.
+- La persona natural “A” muere transcurrido un año desde la celebración del contrato de renta vitalicia. Lo anterior se traduce en que la sociedad “X” incrementa su patrimonio definitivamente en $880.
+En relación con lo anterior, el consultante estima que el artículo 63 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, establece un principio general “antifraude”, que faculta al Servicio de Impuestos Internos para liquidar el Impuesto a las Herencias en aquellos casos que se determine que las obligaciones de algún contrato u acto no son efectivas, no se han cumplido o no guardan proporción con los precios de mercado, resultando ello en la disminución artificial de la base imponible del impuesto.
+De esta forma, en la hipótesis descrita podría aplicarse la norma señalada, considerando que se trata de una renta vitalicia pactada con una persona de avanzada edad, que el efecto económico producido consiste, finalmente, en la transferencia efectiva de patrimonio desde “A” a “B” casi sin detrimento ni sacrificio alguno de parte de este último, y sin que exista casi elemento aleatoriedad en la operación, por cuanto la sociedad “X” en ningún caso recibirá menos de lo que pagará finamente por vía de renta vitalicia, en especial, considerando la avanzada edad del acreedor de la renta y el monto pactado.
+Teniendo en consideración lo señalado, solicita se confirmen los siguientes criterios:
+a) Que en el caso propuesto resultaría aplicable el artículo 63 de la Ley de Herencias, Asignaciones y Donaciones, en consideración a que se celebró un contrato de renta vitalicia entre una persona de 80 años (de avanzada edad) y la sociedad perteneciente a uno de sus hijos, lo que, obviamente, podría entenderse defraudatorio al Impuesto a la Herencia.
+b) Que, conforme lo anterior, el Servicio de Impuesto Internos podría liquidar Impuesto a la Herencia.
+c) Que, adicionalmente, hasta antes de la muerte de “A”, resultaría además tasable la renta pactada en favor del acreedor, en aplicación de la facultad general del artículo 64 del Código Tributario, por tratase de renta tributable con impuesto a la renta.
+II ANÁLISIS
+Conforme lo dispuesto en el artículo 63 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, el Servicio puede investigar si las obligaciones impuestas a las partes por cualquier contrato son efectivas, si realmente dichas obligaciones se han cumplido o si lo que una parte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del contrato, de lo que recibe en cambio. Si el Servicio comprueba que dichas obligaciones no son efectivas o no se han cumplido realmente, o lo que una de las partes da en virtud de un contrato oneroso es notoriamente desproporcionado al precio corriente en plaza de lo que recibe en cambio, y dichos actos y circunstancias hubieren tenido por objeto encubrir una donación o anticipo a cuenta de herencia, liquidará y girará el impuesto que corresponda.
+En relación con la norma citada, y como primera cuestión, es importante resaltar que – a diferencia de la hipótesis descrita en el inciso segundo del artículo 17 de la misma ley – el artículo 63 constituye una norma anti-defraudatoria de carácter general, siendo irrelevante que las “partes” involucradas en la suscripción del contrato investigado sean precisamente quienes devienen luego en causante y heredero.
+De este modo, a pesar que en el caso analizado el contrato de renta vitalicia sería suscrito entre una persona natural y una sociedad, lo cierto es que la persona natural transfiere la totalidad de su patrimonio a una sociedad donde el hijo participa en un 99,9%, existiendo motivos plausibles para sostener – según se expondrá a continuación – que los actos y circunstancias en que se realiza la operación tienen por objeto anticipar la herencia a favor del hijo, eludiendo el pago del impuesto a las herencias.
+Entre las circunstancias relevantes puede mencionarse que la persona natural no sólo transfiere la totalidad de su patrimonio sino además lo hace a una avanzada edad (80 años), a cambio de una renta vitalicia anual desproporcionadamente exigua en comparación con el patrimonio inicialmente transferido y la expectativa de vida del rentista (de hecho, en la situación descrita, el rentista fallece transcurrido tan sólo un año).
+Al respecto, conviene tener presente lo resuelto por la Corte de Apelaciones de Santiago, a propósito de un contrato de renta vitalicia constituido por una persona de muy avanzada edad, poco tiempo antes de morir, y sin ningún tipo de reajuste. El fallo sostiene que, si bien el contrato de renta vitalicia es de carácter esencialmente aleatorio, pues no es necesario que exista proporción entre la pensión y el precio, “ello no es impedimento para analizar esas prestaciones recíprocas, y tratar de determinar si realmente existe una contingencia de ganancia o pérdida, inherente a un contrato aleatorio; y aún más, si las mismas reflejan una voluntad verdadera de celebrar un contrato oneroso de esta índole… lo cierto es que un sencillo examen del texto que nos ocupa, teniendo presente la edad de la beneficiaria de la renta, permite calificarlo como un acto perjudicial para el patrimonio…”
+De este modo, considerando que la situación descrita en su presentación es bastante similar a la expuesta por la Corte (para calificar una hipótesis de simulación), respecto de las consultas formuladas en las letras a) y b), puede concluirse que existiría fundamento plausible para ejercer las facultades de fiscalización dispuestas en el artículo 63 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, a fin de determinar si el contrato de renta vitalicia consultado tendría por objeto encubrir una donación y anticipo a cuenta de herencia, en cuyo caso el Servicio podría determinar y liquidar el impuesto que corresponda.
+Finalmente, en lo que respecta al ejercicio de la facultad contenida en el artículo 63 antes mencionado, cabe precisar que no envuelve una actividad jurisdiccional, sino meramente administrativa, ni tampoco requiere la declaración judicial previa de simulación. Asimismo, debe tenerse presente que, conforme al artículo 64 de la misma ley, no solo es posible perseguir la responsabilidad penal de las personas que figuren como partes en los actos o contratos sino también de los profesionales que intervinieren dolosamente.
+En cuanto a la consulta formulada en la letra c), cabe señalar que la renta pactada a favor del acreedor efectivamente podría ser tasada conforme al artículo 64 del Código Tributario.
 
-En atención a pronunciamiento contenido en oficio Ord. N° 2002, de 12/9/2013, emitido por este Servicio a ese Ministerio, mediante el cual se analiza la aplicación del beneficio contenido en el Art. 21, del D.L. N° 910, a los proyectos financiados con subsidios del Programa YYY , destinados al mejoramiento y/o ampliación de viviendas sociales, que no requieran de un permiso de edificación, ese Ministerio ha solicitado a las empresas constructoras que el beneficio tributario sea considerado en la confección de los presupuestos para los proyectos en Condominios de Viviendas Sociales y en viviendas sociales en general. Dado lo anterior señala que se hace necesario dar claridad a las constructoras sobre cuáles son los antecedentes específicos que deben poner a disposición de este Servicio de Impuestos Internos para justificar la aplicación de este beneficio tributario y además cuál es el documento utilizado por el Servicio para acreditar la condición de vivienda social en los Condominios de Viviendas Sociales y en el caso de viviendas sociales en general.
-Lo anterior se solicita debido a que las empresas constructoras indican que se les ha solicitado documentos distintos por las distintas oficinas de Impuestos Internos Regionales, haciéndose necesario uniformar el tipo de antecedentes a presentar y tener claridad en la interpretación de la certificación de la condición de vivienda social.
-II.- ANÁLISIS:
+III CONCLUSION
+Conforme lo expuesto precedentemente, se confirman en los términos señalados los criterios sometidos a consideración signados en las letras a), b y c) de su presentación.
 
-En Ord. N° 2002, de 12/9/2013, este Servicio se pronunció, a raíz de una consulta efectuada por ese Ministerio de Vivienda y Urbanismo, sobre la procedencia de aplicar el beneficio contenido en el Art. 21°, del D.L. N° 910, a los contratos de ampliación o mejoramiento de viviendas sociales, que no requerían para su ejecución de un permiso de edificación. Todo ello en el marco del “TTTT”
-Sobre la procedencia de aplicar la franquicia a los mencionados contratos, el inciso cuarto del Art. 21, del D.L. N| 910 dispone que: “Excepto para el caso de aquellos contratos que recaigan exclusivamente en las viviendas a que se refiere el artículo 3° del decreto ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo, el beneficio dispuesto en el inciso primero no será aplicable a los contratos de ampliación, modificación, reparación o mantenimiento, ni aun en los casos que pudieran implicar la variación de la superficie originalmente construida, como tampoco a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de terrenos.”
-De allí se concluyó que el beneficio en comento resulta aplicable por excepción a los contratos allí mencionados, siempre que ellos recaigan exclusivamente en las viviendas a que se refiere el Art. 3°, del Decreto Ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo.
-Al respecto, el Art. 3°, del mencionado decreto ley, dispone que: “Para todos los efectos legales, se entenderá por vivienda social la vivienda económica de carácter definitivo, destinada a resolver los problemas de la marginalidad habitacional, financiada con recursos públicos o privados, cualesquiera que sean sus modalidades de construcción o adquisición, y cuyo valor de tasación no sea superior a 400 Unidades de Fomento”.
-La norma agrega que “la tasación la hará la Dirección de Obras Municipales respectiva al solicitarse el permiso de edificación”, debiendo considerarse el valor del terreno y el valor de construcción de la vivienda, según los parámetros allí indicados.
-De lo anterior se desprende que es la Dirección de Obras Municipales, quien debe verificar el cumplimiento del requisito establecido en el Art. 3°, del D.L. N° 2.552, en términos de que el valor de tasación no sea superior a 400 Unidades de Fomento para que una vivienda sea considerada “vivienda social” conforme a dicha normativa.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-III.- CONCLUSIÓN:
-Conforme a lo señalado por este Servicio, en diversos pronunciamientos, incluido el citado en su presentación, la aplicación de la franquicia contenida en el Art. 21°, del D.L. N° 910, en su inciso cuarto, que favorece a los contratos allí mencionados, depende del cumplimiento de un requisito fundamental, a saber, que dichos contratos recaigan exclusivamente en las viviendas a que se refiere el Art. 3°, del Decreto Ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo.
-En este sentido y en lo que dice relación con su consulta, cuando se trate de los contratos antes señalados, los antecedentes que el contribuyente debe poner a disposición de este Servicio para justificar la aplicación de la franquicia, son todos aquellos que sirvan para probar el cumplimiento de dicho requisito, a saber, que el inmueble sobre el cual recaen dichos contratos, se trate de una vivienda social en los términos del mencionado Art. 3°, del D.L. N° 2.552.
-Al respecto y considerando que la tasación a que hace referencia la norma legal del Art. 3, del D.L. N° 2.552, para calificar las viviendas como viviendas sociales debe ser efectuada por la Dirección de Obras Municipales, se estima que el certificado emitido por ésta, dando cuenta de ello, resulta suficiente para acreditar la calidad de vivienda social del inmueble y por ende el cumplimiento del requisito dispuesto por la norma legal, contenida en el Art. 21, inciso cuarto, del D.L. N° 910, para hacer uso de la franquicia, sin perjuicio de las facultades de este Servicio, en orden a verificar que se mantengan las condiciones, características y requisitos en virtud de las cuales se emitió el referido certificado.
-Lo anterior es válido aun cuando por aplicación de la normativa legal contenida en la Ley General de Urbanismo y Construcciones o de su Reglamento, la Ordenanza General de Urbanismo y Construcciones, algunos proyectos no requieran para su ejecución de un permiso municipal de edificación.
-
-MICHEL JORRATT DE LUIS
-DIRECTOR (T y P)
-
-Oficio N° 1119, de 24.04.2015
+Oficio N° 2002, de 04.08.2015
 Subdirección Normativa
-Dpto. de Impuestos Indirectos
+Dpto. de Técnica Tributaria

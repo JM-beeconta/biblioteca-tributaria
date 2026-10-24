@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 de la Ley de la Renta. Fuente: Oficina de Gestión de Normativa
+n Normativa Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 de la Ley de la Renta. Fuente: Oficina de Gestión de Normativa
 
 ## Referencias detectadas
 

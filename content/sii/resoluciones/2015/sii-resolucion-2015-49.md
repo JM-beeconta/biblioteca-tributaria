@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Apruebe Reglamento Interno sobre Consejo de la Sociedad Civil del Servicio de Impuestos Internos Fuente: Departamento de Asesoría Jurídica
+a Jurídica Apruebe Reglamento Interno sobre Consejo de la Sociedad Civil del Servicio de Impuestos Internos Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

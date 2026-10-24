@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instrucciones relativas a la entrada en vigencia de la Ley N°20.650 de 2012 que modifica la Ley N°17.235 sobre Impuesto Territorial Fuente: Técnica Tributaria
+n Normativa Instrucciones relativas a la entrada en vigencia de la Ley N°20.650 de 2012 que modifica la Ley N°17.235 sobre Impuesto Territorial Fuente: Técnica Tributaria
 
 ## Referencias detectadas
 

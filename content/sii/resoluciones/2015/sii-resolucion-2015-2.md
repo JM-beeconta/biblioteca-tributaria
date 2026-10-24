@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 02 del 13 de Enero del 2015 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones
+n de Avaluaciones Resolución Exenta SII N° 02 del 13 de Enero del 2015 Fija lista de valores de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

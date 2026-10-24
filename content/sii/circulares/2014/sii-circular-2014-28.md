@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Modifica Circular N°56 de 2007, para actualizar referencia a artículo para el Código Penal que sanciona como delito el cohecho a funcionarios públicos extranjeros Fuente: Subdirección Normativa
+n Normativa Modifica Circular N°56 de 2007, para actualizar referencia a artículo para el Código Penal que sanciona como delito el cohecho a funcionarios públicos extranjeros Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

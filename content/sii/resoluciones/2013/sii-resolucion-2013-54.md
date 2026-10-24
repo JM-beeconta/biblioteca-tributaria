@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;a Jurídica. Reemplaza oficina de Bienestar y Servicio de las Personas, contenida en el dispositivo 3° de la resolución N° 143, de 2011, fijando nueva denominación a la Oficina dependiente del Departamento Subdirección de Recursos Humanos que indica. Fuente: Subdirección de Recursos Humanos.
+a Jurídica. Reemplaza oficina de Bienestar y Servicio de las Personas, contenida en el dispositivo 3° de la resolución N° 143, de 2011, fijando nueva denominación a la Oficina dependiente del Departamento Subdirección de Recursos Humanos que indica. Fuente: Subdirección de Recursos Humanos.
 
 ## Referencias detectadas
 

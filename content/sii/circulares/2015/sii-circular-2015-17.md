@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Imparte instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria, a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980. Fuente: Subdirección Normativa
+n Normativa Imparte instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria, a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

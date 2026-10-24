@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa Imparte instrucciones sobre cumplimiento de obligaciones de Inscripción en el Rol Único Tributario, dar Aviso de Inicio de Actividades y Aviso de Modificaciones, a partir de la vigencia de la Ley N° 20.659, de 2013, que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
+n Normativa Imparte instrucciones sobre cumplimiento de obligaciones de Inscripción en el Rol Único Tributario, dar Aviso de Inicio de Actividades y Aviso de Modificaciones, a partir de la vigencia de la Ley N° 20.659, de 2013, que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

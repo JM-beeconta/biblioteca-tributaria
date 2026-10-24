@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 07 del 30 de Enero del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contibuyentes
+n de Avaluaciones Resolución Exenta SII N° 07 del 30 de Enero del 2015 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan Fuente: Departamento de Atención y Asistencia de Contibuyentes
 
 ## Referencias detectadas
 

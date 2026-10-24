@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de noviembre del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

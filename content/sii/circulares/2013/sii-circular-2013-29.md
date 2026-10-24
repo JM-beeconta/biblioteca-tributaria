@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencias contenidas en la Ley sobre Impuestos a la Renta. Fuente: Impuestos Directos
+n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencias contenidas en la Ley sobre Impuestos a la Renta. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

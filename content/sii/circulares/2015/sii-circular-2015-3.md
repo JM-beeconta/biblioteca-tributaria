@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Avaluaciones Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
+n Avaluaciones Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

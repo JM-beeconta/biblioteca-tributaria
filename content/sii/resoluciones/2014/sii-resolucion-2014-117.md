@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fiscalización Establece obligación de presentar declaración jurada anual sobre enajenaciones efectuadas por inversionistas institucionales extranjeros de instrumentos de oferta pública representativos de deuda emitidos por empresas constituidas en el país, y que en su emisión no se hayan acogido al art. 104 de la Ley sobre Impuesto a la Renta, de acuerdo al artículo 9° transitorio Ley N° 20.712, de 2014, sobre &ldquo;administración de fondos de terceros y carteras individuales Fuente: Departamento de Análisis Sele…
+Fiscalización Establece obligación de presentar declaración jurada anual sobre enajenaciones efectuadas por inversionistas institucionales extranjeros de instrumentos de oferta pública representativos de deuda emitidos por empresas constituidas en el país, y que en su emisión no se hayan acogido al art. 104 de la Ley sobre Impuesto a la Renta, de acuerdo al artículo 9° transitorio Ley N° 20.712, de 2014, sobre “administración de fondos de terceros y carteras individuales Fuente: Departamento de Análisis Selectivo…
 
 ## Referencias detectadas
 

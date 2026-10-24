@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;cnica Tributaria Tabla de cálculos de reajustes, intereses y multas Agosto 2013 Fuente: Subdirección de Fiscalización
+cnica Tributaria Tabla de cálculos de reajustes, intereses y multas Agosto 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

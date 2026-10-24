@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Estudios Resolución Exenta SII N° 05 del 22 de Enero del 2015 Establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del d.l. n°825, de 1974. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+ón de Estudios Resolución Exenta SII N° 05 del 22 de Enero del 2015 Establece normas en relación a la emisión del comprobante o “recibo de pago” generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del d.l. n°825, de 1974. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

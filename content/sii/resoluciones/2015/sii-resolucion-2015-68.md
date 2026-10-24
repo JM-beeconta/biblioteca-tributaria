@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección Grandes Contribuyentes
+a Jurídica Complementa Resolución Exenta SII N°125 de 30 de diciembre de 2014, en los términos que indica. Fuente: Dirección Grandes Contribuyentes
 
 ## Referencias detectadas
 

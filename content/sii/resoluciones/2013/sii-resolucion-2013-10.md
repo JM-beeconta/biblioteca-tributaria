@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;a Jurídica. Sustituye estructura y contenido del Formulario N° 50 sobre declaración y Pago Simultáneo de impuestos. Fuente: Fiscalización Internancional.
+a Jurídica. Sustituye estructura y contenido del Formulario N° 50 sobre declaración y Pago Simultáneo de impuestos. Fuente: Fiscalización Internancional.
 
 ## Referencias detectadas
 

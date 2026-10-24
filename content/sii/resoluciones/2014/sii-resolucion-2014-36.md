@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Modifican Resolución Exenta SII N°95 de 08 de junio de 2010. Fuente: Dirección de grandes Contribuyentes
+n de Avaluaciones Modifican Resolución Exenta SII N°95 de 08 de junio de 2010. Fuente: Dirección de grandes Contribuyentes
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Avaluaciones. Autoriza delegación de facultad que indica. Fuente: Subdirección de Avaluaciones.
+n de Avaluaciones. Autoriza delegación de facultad que indica. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

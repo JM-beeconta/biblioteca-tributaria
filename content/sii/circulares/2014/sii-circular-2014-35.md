@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas del Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
+n Normativa Tablas del Impuesto ünico de Segunda Categoría y del Impuesto Global Complementario para el mes de julio del año 2014 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

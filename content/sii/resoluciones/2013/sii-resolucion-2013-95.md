@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Crea la Oficina de Relaciones laborales como unidad dependiente del Departamento Subdirección de Recursos Humanos Fuente: Subdirección de Recursos Humanos
+a Jurídica Crea la Oficina de Relaciones laborales como unidad dependiente del Departamento Subdirección de Recursos Humanos Fuente: Subdirección de Recursos Humanos
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación a la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del D.L. N°825, de 1974. Fuente: Departamento de Atención Y Asistencia de Contribuyentes
+a Jurídica Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación a la emisión del comprobante o “recibo de pago” generado en transacciones pagadas a través de medios electrónicos, como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el art. 54 del D.L. N°825, de 1974. Fuente: Departamento de Atención Y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

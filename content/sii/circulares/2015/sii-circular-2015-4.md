@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Protocolo de fiscalización de la exención de impuesto territorial que favorece al deporte. Fuente: Subdirección Avaluaciones
+n Normativa Protocolo de fiscalización de la exención de impuesto territorial que favorece al deporte. Fuente: Subdirección Avaluaciones
 
 ## Referencias detectadas
 

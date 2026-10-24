@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Establece requisitos y procedimiento para la emisión de documentos tributarios en operaciones de remate de bienes corporales muebles efectuadas por martilleros públicos Fuente: Departamento Medianas y Grandes Empresas
+a Jurídica Establece requisitos y procedimiento para la emisión de documentos tributarios en operaciones de remate de bienes corporales muebles efectuadas por martilleros públicos Fuente: Departamento Medianas y Grandes Empresas
 
 ## Referencias detectadas
 

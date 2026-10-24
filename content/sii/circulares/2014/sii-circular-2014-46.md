@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de Cálculos de reajustes, intereses y multas septiembre 2014 Fuente: Subdirección de Fiscalización
+n Normativa Tablas de Cálculos de reajustes, intereses y multas septiembre 2014 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

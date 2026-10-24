@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;cnica Tributaria Tablas de Impuesto Único de Segunda Categoría y de impuesto global complementario para el mes de agosto del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
+cnica Tributaria Tablas de Impuesto Único de Segunda Categoría y de impuesto global complementario para el mes de agosto del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

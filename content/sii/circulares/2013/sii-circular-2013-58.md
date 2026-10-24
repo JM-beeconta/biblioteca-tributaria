@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de enero del año 2014 e información adicional relacionada con dichos tributos Fuente: oficina de Gestión Normativa
+n Normativa Tablas de Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de enero del año 2014 e información adicional relacionada con dichos tributos Fuente: oficina de Gestión Normativa
 
 ## Referencias detectadas
 

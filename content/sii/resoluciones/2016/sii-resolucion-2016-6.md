@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Jurídica Resolución Exenta SII N° 06 del 02 de Febrero del 2016 Corrige error de transcripción en Resolución Ex. SII N° 118, de 29.12.2015. Fuente: Subdirección de Avaluaciones
+n Jurídica Resolución Exenta SII N° 06 del 02 de Febrero del 2016 Corrige error de transcripción en Resolución Ex. SII N° 118, de 29.12.2015. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

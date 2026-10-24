@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n al Contribuyente Establece la forma y procedimiento para acogerse a los regímenes de tributación establecidos en las letras a) o b) del articulo 14 de la Ley de Impuesto a la Renta, vigentes a partir del 01.01.2017, de los contribuyentes que hayan iniciado o inicien actividades hasta el 31 de diciembre de 2016. Fuente: Subdirección de Asistencia al Contribuyente
+n al Contribuyente Establece la forma y procedimiento para acogerse a los regímenes de tributación establecidos en las letras a) o b) del articulo 14 de la Ley de Impuesto a la Renta, vigentes a partir del 01.01.2017, de los contribuyentes que hayan iniciado o inicien actividades hasta el 31 de diciembre de 2016. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

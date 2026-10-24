@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Incorpora y regula el uso de cédula RUT electrónica (e-RUT) Fuente: Subdirección de Asistencia al Contribuyente
+n de Avaluaciones Incorpora y regula el uso de cédula RUT electrónica (e-RUT) Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

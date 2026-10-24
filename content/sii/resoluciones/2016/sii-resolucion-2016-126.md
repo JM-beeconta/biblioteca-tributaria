@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ncia al Contribuyente Deroga y refunde lo dispuesto en la Resolución del Servicio de Impuestos Internos Ex. N° 14 de 2013 que establece la obligación de presentar Declaración Jurada Anual informativa de precios de transferencia en la presente resolución y además establece obligación de presentar Declaración Jurada Anual denominada &ldquo;Reporte Pais por Pais&rdquo; a contribuyentes que indica. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
+ncia al Contribuyente Deroga y refunde lo dispuesto en la Resolución del Servicio de Impuestos Internos Ex. N° 14 de 2013 que establece la obligación de presentar Declaración Jurada Anual informativa de precios de transferencia en la presente resolución y además establece obligación de presentar Declaración Jurada Anual denominada “Reporte Pais por Pais” a contribuyentes que indica. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

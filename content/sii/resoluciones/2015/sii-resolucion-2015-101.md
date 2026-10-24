@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Fija plazo para presentación de declaraciones juradas que se indican. Fuente: Departamento de Sistemas de Fiscalización
+n de Avaluaciones Fija plazo para presentación de declaraciones juradas que se indican. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

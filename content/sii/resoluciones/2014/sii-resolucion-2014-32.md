@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Complementa y Rectifica Resolución Exenta SII N° 109 de 27 de Diciembre de 2013, en los términos que indica. Fuente: Dirección Grandes Contribuyentes
+n de Avaluaciones Complementa y Rectifica Resolución Exenta SII N° 109 de 27 de Diciembre de 2013, en los términos que indica. Fuente: Dirección Grandes Contribuyentes
 
 ## Referencias detectadas
 

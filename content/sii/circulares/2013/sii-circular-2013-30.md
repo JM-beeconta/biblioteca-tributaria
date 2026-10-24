@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tabla del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de Julio del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
+n Normativa. Tabla del Impuesto Único de Segunda categoría y del Impuesto Global Complementario para el mes de Julio del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
+a Jurídica Autoriza a Institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

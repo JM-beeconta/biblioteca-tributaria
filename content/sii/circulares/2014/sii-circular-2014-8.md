@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N°20.630 a la ley sobre Impuesto a la renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícolas, de la minería, transporte terrestre de carga ajena y de pasajeros Fuente: Impuestos Directos
+n Normativa Instruye sobre las modificaciones efectuadas por la Ley N°20.630 a la ley sobre Impuesto a la renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícolas, de la minería, transporte terrestre de carga ajena y de pasajeros Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

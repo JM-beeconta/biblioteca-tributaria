@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tabla de cálculo de reajustes, intereses y multas marzo 2013. Fuente: Subdirección de Fiscalización
+n Normativa. Tabla de cálculo de reajustes, intereses y multas marzo 2013. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

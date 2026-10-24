@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2016 Fuente: Subdirección de Fiscalización
+n Normativa Tabla de Cálculos de Reajustes, Intereses y Multas octubre 2016 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR). Fuente: Impuestos Directos
+n Normativa Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR). Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

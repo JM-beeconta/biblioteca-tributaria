@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. Fuente: Depto. de Impuestos Directos
+n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. Fuente: Depto. de Impuestos Directos
 
 ## Referencias detectadas
 

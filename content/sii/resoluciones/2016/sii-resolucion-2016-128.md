@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contyibuyentes
+n de Avaluaciones Fija nómina de Grandes Contribuyentes Fuente: Dirección de Grandes Contyibuyentes
 
 ## Referencias detectadas
 

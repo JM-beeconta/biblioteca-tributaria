@@ -11,7 +11,7 @@
 
 ## Resumen
 
-;a Jurídica Instruye sobre modificaciones introducidas al Código Tributario por las Leyes N° N°20.780 &ldquo;reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario&rdquo;, y 20.720, que &ldquo;sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo&rdquo; en materia de procedimientos de liquidación de empresas y personas. Fuente: Departamento d…
+;a Jurídica Instruye sobre modificaciones introducidas al Código Tributario por las Leyes N° N°20.780 “reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario”, y 20.720, que “sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo” en materia de procedimientos de liquidación de empresas y personas. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

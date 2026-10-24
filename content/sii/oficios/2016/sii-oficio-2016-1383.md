@@ -4,46 +4,31 @@
 - Tipo: oficio
 - Número: 1383
 - Año: 2016
-- Fecha: 2016-06-23
-- Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1826.htm
-- Hash SHA-256: dd91472382f4a6cd3ecad3f6f9f78da2338acfd8c41019195280c4a464bf8d6e
+- Fecha: 2016-05-17
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1383.htm
+- Hash SHA-256: 40a492106df32988f1109f31fc0bff158bf55adc95529619fd0b7d1f8349985f
 
 ## Resumen
 
-en la sociedad fuente. Código Tributario &ndash; Nuevo Texto &ndash; Art. 8, N°8 &ndash; Código Civil, Art. 59 &ndash; Ley sobre Impuesto a la Renta, Art. 103 &ndash; . (Ord. Nº 1826, de 23-06-2016) |
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8 – Ley N° 20.780, de 2014 – Ley N° 20.889, de 2016. (Ord. Nº 1383, de 17-05-2016) | | Word Aplicación del IVA a la construcción de una vivienda en terreno propio.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1383,"year":2015}
-- {"type":"articulo","law":"LIR","article":"103"}
-- {"type":"articulo","law":"CT","article":"8"}
+- {"type":"articulo","law":"LIVS","article":"8"}
 
 ## Texto extraído
 
-CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 8, N°8 – CÓDIGO CIVIL, ART. 59 – LEY SOBRE IMPUESTO A LA RENTA, ART. 103 – OFICIO N° 1383, DE 2015. (ORD. N° 1826, DE 23.06.2016)
-CONSULTA SOBRE PÉRDIDA DE DOMICILIO EN CHILE Y APLICACIÓN DE IMPUESTO ADICIONAL EN CASO QUE INDICA.
-
-Se ha recibido en este Servicio la presentación indicada en el antecedente, solicitando se indique desde qué momento un contribuyente pasa a tributar con Impuesto Adicional, por haber perdido su domicilio en Chile para efectos tributarios, conforme se expone a continuación I ANTECEDENTES
-Señala el consultante que uno de sus clientes dejó el país durante el mes de abril del año 2015, con intención de radicarse definitivamente en el extranjero. Indica que actualmente el referido contribuyente se encuentra liquidando sus participaciones sociales y vendiendo la totalidad de sus activos, tales como vehículos y propiedades. Agrega que algunas ventas no se han concretado del todo debido a dificultades del mercado inmobiliario.
-Asimismo, señala que su cliente se mantendrá como accionista de una sociedad por acciones, la cual, a su vez, tiene una participación minoritaria en empresas cuya venta de derechos es de difícil realización, saliendo absolutamente de la administración de todas las sociedades.
-En relación a lo anterior, indica que el Código Tributario en su artículo 8 N°8 define lo que se entiende por ‘residente’ y que, por su parte, el concepto de domicilio no ha sido definido en el ordenamiento tributario, debiendo entonces recurrirse a la definición que proporciona el artículo 59 del Código Civil.
-Así entonces, sostiene que los elementos que deben distinguirse para que una persona se entienda domiciliada en un lugar son la residencia y el ánimo de permanecer en éste, y por tanto, una persona que carece, ya sea de uno o bien de ambos requisitos no tendría domicilio en Chile.
-Luego indica que de acuerdo a las normas de la Ley de la Renta, los ingresos de los contribuyentes se afectan con Impuesto Global Complementario o bien con el Impuesto Adicional, dependiendo de la calidad de residentes o domiciliados en Chile o en el exterior.
-Conforme a los antecedentes planteados, solicita se aclare para el caso en particular cuándo o desde qué momento específico el contribuyente debe tributar con impuesto adicional por las rentas que le quedan por percibir, y si, para el año 2015, debe o no declarar Impuesto Adicional. Lo anterior considerando que, en opinión del consultante, al momento de salir el contribuyente del país de manera definitiva, se pierde el elemento subjetivo y por ende se produce la pérdida definitiva del domicilio.
-II ANÁLISIS
-En relación con los conceptos de “domicilio” y “residencia” para efectos tributarios, este Servicio se ha pronunciado en reiteradas ocasiones , señalando recientemente que, respecto del “domicilio”, uno de los factores decisivos es el lugar donde la persona ejerce la actividad de la cual obtiene la mayor parte de sus ingresos y donde se encuentran radicados sus principales intereses, elemento consustancial en cuanto a la Ley sobre Impuesto a la Renta atendido el carácter económico que le sirve de fundamento al establecer que la sola ausencia o falta de residencia en el país no es causal que determine la pérdida del domicilio en Chile respecto de las personas que se ausenten del país conservando la fuente principal de sus negocios en Chile.
-Por consiguiente, si un contribuyente, que ha estado domiciliado en Chile, ya no tiene residencia en el país de acuerdo a lo dispuesto en el Nº 8 del artículo 8º del Código Tributario y tampoco conserva en Chile el asiento principal de sus negocios, ha perdido su domicilio en Chile .
-Dicho lo anterior, en la medida que el contribuyente – de acuerdo a lo expresado en la propia consulta – aún registra activos en Chile (tales como vehículos o propiedades) y se mantiene como accionista de una sociedad por acciones (sin especificar en qué proporción o medida dichas acciones ayudan a conforman sus rentas), no es posible determinar dónde obtiene la mayor parte de sus ingresos y dónde se encuentran radicados sus principales intereses, materia que, en todo caso, es una cuestión de hecho cuya verificación compete a la instancia de fiscalización correspondiente.
-Sin perjuicio de lo anterior, y en el entendido que el contribuyente efectivamente haya perdido su domicilio y residencia en Chile, antes de abandonar el país deberá declarar y pagar la parte del Impuesto Global Complementario devengado correspondiente al año calendario de que se trate, conforme lo dispuesto en el artículo 103 de la Ley sobre Impuesto a la Renta. Luego de separar sus resultados y pagar el Impuesto Global Complementario por sus rentas de cualquier origen sobre el período que corresponda, deberá tributar únicamente por sus rentas de fuente chilena, con Impuesto Adicional, conforme las reglas generales.
-III CONCLUSIÓN
-Para efectos de calificar la pérdida del “domicilio” en materia tributaria, uno de los factores decisivos es el lugar donde la persona ejerce la actividad de la cual obtiene la mayor parte de sus ingresos y donde se encuentran radicados sus principales intereses.
-En caso que el contribuyente efectivamente haya perdido su domicilio y residencia en Chile, deberá declarar y pagar la parte del Impuesto Global Complementario devengado correspondiente al año calendario de que se trate, conforme lo dispuesto en el artículo 103 de la Ley sobre Impuesto a la Renta, antes de abandonar el país. Luego de ello deberá tributar únicamente por sus rentas de fuente chilena, con Impuesto Adicional, conforme las reglas generales.
-Sin perjuicio de lo señalado en términos abstractos en los párrafos anteriores, no es posible determinar en la especie dónde obtiene el contribuyente la mayor parte de sus ingresos y dónde se encuentran radicados sus principales intereses, materia que, en todo caso, es una cuestión de hecho cuya verificación compete a la instancia de fiscalización correspondiente.
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8 – LEY N° 20.780, DE 2014 – LEY N° 20.889, DE 2016. (ORD. N° 1383, DE 17.05.2016)
+APLICACIÓN DEL IVA A LA CONSTRUCCIÓN DE UNA VIVIENDA EN TERRENO PROPIO.
+Mediante el ordinario indicado en el antecedente se ha remitido a este Servicio su consulta enviada mediante correo al portal web del Ministerio de Hacienda. Por encargo de la Subsecretaría de Hacienda se da respuesta a la presentación que usted hiciera en la que solicita información respecto de la aplicación del Impuesto al Valor Agregado (IVA) en la construcción de una vivienda en un terreno propio, financiada con un crédito de autoconstrucción atendido que ha recibido información contradictoria de los bancos. En particular consulta si le afectará la reforma tributaria en aquella parte que modifica el IVA que grava la venta de bienes corporales inmuebles.
+En relación a la consulta que formula, se puede informar que la Ley N° 20.780, sobre reforma tributaria introdujo efectivamente algunos cambios en la aplicación del IVA respecto de la venta de inmuebles, los cuales no tienen incidencia alguna en el caso planteado, toda vez que no se trata de la venta habitual de bienes corporales inmuebles ni tampoco de los otros hechos gravados especiales relacionados con ella, sino que se trata de la construcción de una vivienda en un terreno propio, financiada con un crédito de autoconstrucción (situación que la ley N° 20.780 no ha modificado).
+Con todo, se hace presente que, de acuerdo a la legislación aplicable sobre la materia, usted podría verse afectado por el hecho gravado especial de la letra e) del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios, en la medida que celebre contratos generales de construcción o de instalación o confección de especialidades para construir la vivienda, en cuyo caso el contratista o subcontratista, según el caso, deberá recargar el impuesto correspondiente como ocurre con todos los hechos gravados con ese impuesto. También deberá soportar el IVA en la adquisición de los materiales, en caso que decida levantar directamente la vivienda, mediante autoconstrucción.
+Finalmente, se hace presente que la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, publicada mediante su inserción en el Diario Oficial de fecha 08.02.2016, no afecta las conclusiones anteriores.
 
 FERNANDO BARRAZA LUENGO
 DIRECTOR
 
-Oficio N° 1826, de 23.06.2016
+Oficio N°1383, de 17.05.2016
 Subdirección Normativa
-Dpto. de Técnica Tributaria
+Dpto. de Técnica Tributaria.

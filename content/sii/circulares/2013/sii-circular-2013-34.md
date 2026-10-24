@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de agosto del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa.
+n Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de agosto del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

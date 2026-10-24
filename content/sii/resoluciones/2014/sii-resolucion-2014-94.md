@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Crea Oficina de Administración de Riesgos y Procesos Institucionales en la Subdirección de Contraloría Interna. fija su dependencia y señala sus funciones Fuente: Subdirección Contraloría Interna
+a Jurídica Crea Oficina de Administración de Riesgos y Procesos Institucionales en la Subdirección de Contraloría Interna. fija su dependencia y señala sus funciones Fuente: Subdirección Contraloría Interna
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2013, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre impuesto a la renta . Fuente: Oficina de Gestión Normativa.
+n Normativa. Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar en el año tributario 2013, de acuerdo a lo dispuesto por el artículo 72 de la Ley sobre impuesto a la renta . Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

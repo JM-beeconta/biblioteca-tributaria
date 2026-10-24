@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Avaluaciones. Autoriza a Directores Regionales delegar facultades que indica. Fuente: Departamento de Asesoría Jurídica.
+n de Avaluaciones. Autoriza a Directores Regionales delegar facultades que indica. Fuente: Departamento de Asesoría Jurídica.
 
 ## Referencias detectadas
 

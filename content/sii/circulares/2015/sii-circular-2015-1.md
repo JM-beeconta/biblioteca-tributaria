@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones introducidas por la Ley N° 20.780, a la Ley sobre Impuesto a la Renta y otras normas legales que se indican, que entran en vigencia a contar del 1° de enero de 2015. Fuente: Departamento de Impuestos Directos function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2015'); } else{ $(location).attr('href', '../'
+n Normativa Instruye sobre las modificaciones introducidas por la Ley N° 20.780, a la Ley sobre Impuesto a la Renta y otras normas legales que se indican, que entran en vigencia a contar del 1° de enero de 2015. Fuente: Departamento de Impuestos Directos function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2015'); } else{ $(location).attr('href', '../'
 
 ## Referencias detectadas
 

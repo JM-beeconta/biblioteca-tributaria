@@ -11,7 +11,7 @@
 
 ## Resumen
 
-e;cnica Tributaria Imparte instrucciones sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Crédito Fuente: Departamento de Atención y Asistencia de Contribuyentes
+cnica Tributaria Imparte instrucciones sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Crédito Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

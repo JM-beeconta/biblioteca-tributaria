@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario Correspondiente al año tributario 2015. Fuente: Oficina Gestión Normativa
+n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos de FUT y FUNT y tabla de impuesto global complementario Correspondiente al año tributario 2015. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

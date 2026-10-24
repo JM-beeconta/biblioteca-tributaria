@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Modifica territorios jurisdiccionales de la XV y XVI Direcciones Regionales Metropolitanas Santiago Oriente y Sur y cambia dependencias de Unidad La Florida Fuente: Subdirección de Fiscalización
+a Jurídica Modifica territorios jurisdiccionales de la XV y XVI Direcciones Regionales Metropolitanas Santiago Oriente y Sur y cambia dependencias de Unidad La Florida Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n Internacional. Modifica plazo de piloto establecido en la Resolución Ex N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la boleta de ventas y servicios por el comprobante emitido por la empresa Transbank S.A. Fuente: Depto. Atención y Asistencia de Contribuyentes.
+n Internacional. Modifica plazo de piloto establecido en la Resolución Ex N° 89, del 16.08.2012, que autoriza excepcionalmente el reemplazo de la boleta de ventas y servicios por el comprobante emitido por la empresa Transbank S.A. Fuente: Depto. Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

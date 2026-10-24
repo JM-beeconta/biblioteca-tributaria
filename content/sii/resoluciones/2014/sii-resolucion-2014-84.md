@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Anexa tablas de Coeficientes Guías de terreno a plano de precios de la comuna de Melipilla contenido en la resolución Ex. SII N°108 de 27.12.2013. Fuente: Subdirección de Avaluaciones
+n de Avaluaciones Anexa tablas de Coeficientes Guías de terreno a plano de precios de la comuna de Melipilla contenido en la resolución Ex. SII N°108 de 27.12.2013. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

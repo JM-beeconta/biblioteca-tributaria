@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Avaluaciones Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas y deroga Resolución Exenta N°4.845 de 1995. Fuente: Subdirección de Fiscalización
+n Avaluaciones Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas y deroga Resolución Exenta N°4.845 de 1995. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

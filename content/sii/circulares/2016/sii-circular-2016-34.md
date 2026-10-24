@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Modificaciones efectuadas por la Ley N° 20.899 a los artículos 41F y 41H de la Ley sobre Impuesto a la Renta; y al primer párrafo, del número 2, del inciso cuarto del artículo 59, de la misma Ley. Complementa Circular N°12, de 2015. Fuente: Impuestos Directos
+n Normativa Modificaciones efectuadas por la Ley N° 20.899 a los artículos 41F y 41H de la Ley sobre Impuesto a la Renta; y al primer párrafo, del número 2, del inciso cuarto del artículo 59, de la misma Ley. Complementa Circular N°12, de 2015. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

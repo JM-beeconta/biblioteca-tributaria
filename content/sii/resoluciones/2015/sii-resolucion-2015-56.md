@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Establece oficina de atención de público en la comuna de Alto Hospicio, dependiente de la I Dirección Regional Iquique y delega facultades que indica Fuente: Departamento de Asesoría Jurídica
+n de Avaluaciones Establece oficina de atención de público en la comuna de Alto Hospicio, dependiente de la I Dirección Regional Iquique y delega facultades que indica Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

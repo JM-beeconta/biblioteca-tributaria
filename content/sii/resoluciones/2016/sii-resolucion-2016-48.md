@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Autoriza a la empresa TAS Chile S.A., para operar un sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes usuarios terceros afiliados a su red. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n de Avaluaciones Autoriza a la empresa TAS Chile S.A., para operar un sistema de emisión de vales electrónicos en reemplazo de la boleta de ventas y servicios, para ser utilizado por contribuyentes usuarios terceros afiliados a su red. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

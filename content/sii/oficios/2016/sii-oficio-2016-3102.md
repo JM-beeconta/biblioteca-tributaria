@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, de 2014 - Circular N° 13, de 2014. (.2016) (Ord. Nº 3102, de 18-11-2016) |
+ditaria que se indica. Renta – Actual Ley sobre Impuesto a la – Ley N° 20.780, de 2014 - Circular N° 13, de 2014. (.2016) (Ord. Nº 3102, de 18-11-2016) | | Word Consulta sobre la tributación en la enajenación de bienes raíces.
 
 ## Referencias detectadas
 

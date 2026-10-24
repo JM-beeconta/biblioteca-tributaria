@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de octubre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de Impuesto Único de Segunda Categoría y de Impuesto Global Complementario para el mes de octubre del año 2016, e información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

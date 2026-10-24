@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Complementa Circular N° 66 del 29 de octubre de 1998, para su aplicación en la Dirección de Grandes Contribuyentes. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
+n Normativa Complementa Circular N° 66 del 29 de octubre de 1998, para su aplicación en la Dirección de Grandes Contribuyentes. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 01 del 06 de Enero del 2016 Modifica Resolución Exenta N° 48, del 2015, en los términos que indica. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2016'); } else{ $(location).attr('href', '.…
+n de Avaluaciones Resolución Exenta SII N° 01 del 06 de Enero del 2016 Modifica Resolución Exenta N° 48, del 2015, en los términos que indica. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2016'); } else{ $(location).attr('href', '../'…
 
 ## Referencias detectadas
 

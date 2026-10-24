@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría. Fuente: Departamento de Impuestos Directos
+n Normativa Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría. Fuente: Departamento de Impuestos Directos
 
 ## Referencias detectadas
 

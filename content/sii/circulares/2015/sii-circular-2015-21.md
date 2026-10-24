@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye procedimiento para efectuar el Acuse de Recibo señalado en el nuevo N°7 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios Fuente: Departamento de Atención y Asistencia de Contribuyente
+n Normativa Instruye procedimiento para efectuar el Acuse de Recibo señalado en el nuevo N°7 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios Fuente: Departamento de Atención y Asistencia de Contribuyente
 
 ## Referencias detectadas
 

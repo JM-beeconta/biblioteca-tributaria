@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n Administrativa Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de Atacama y de las comunas de Antofagasta y Taltal Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n Administrativa Autoriza el uso de documentos tributarios en papel a los contribuyentes de la región de Atacama y de las comunas de Antofagasta y Taltal Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

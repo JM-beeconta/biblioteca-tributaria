@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Complementa instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos en la tramitación de Concesiones Marítimas Fuente: Técnica Tributaria
+n Normativa Complementa instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos en la tramitación de Concesiones Marítimas Fuente: Técnica Tributaria
 
 ## Referencias detectadas
 

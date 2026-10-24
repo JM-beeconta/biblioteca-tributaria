@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina De Gestión Normativa
+n Normativa. Tablas de Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2013 e información adicional relacionada con dichos tributos. Fuente: Oficina De Gestión Normativa
 
 ## Referencias detectadas
 

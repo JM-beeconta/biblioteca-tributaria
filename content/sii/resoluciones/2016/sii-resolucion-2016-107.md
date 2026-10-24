@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Norma Conjunta Sumerintendencia de Pensiones, Servicio de Impuestos Internos y Tesorería general de la República Fuente: Subdirección de Fiscalización
+a Jurídica Norma Conjunta Sumerintendencia de Pensiones, Servicio de Impuestos Internos y Tesorería general de la República Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Avaluaciones. Resolución Exenta SII N° 04 del 09 de Enero del 2013 Fija lista de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
+n de Avaluaciones. Resolución Exenta SII N° 04 del 09 de Enero del 2013 Fija lista de vehículos motorizados para los fines que señala. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

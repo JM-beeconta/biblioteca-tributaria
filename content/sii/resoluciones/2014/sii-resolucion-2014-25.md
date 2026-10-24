@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Jurídica Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
+n Jurídica Registra como emisores de documentos tributarios a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

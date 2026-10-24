@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global complementario para el mes de julio del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
+n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global complementario para el mes de julio del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Modifica Circular N° 50, de 2013, sobre tabla de Cálculos de reajustes, intereses y multas noviembre 2013 Fuente: Subdirección de Fiscalización
+n Normativa Modifica Circular N° 50, de 2013, sobre tabla de Cálculos de reajustes, intereses y multas noviembre 2013 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

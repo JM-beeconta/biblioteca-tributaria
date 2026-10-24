@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Resolución Exenta SII N° 02 del 08 de Enero del 2014 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones
+a Jurídica Resolución Exenta SII N° 02 del 08 de Enero del 2014 Fija lista de valores de vehículos motorizados para los fines que señala Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

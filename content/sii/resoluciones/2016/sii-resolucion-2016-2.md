@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 02 del 14 de Enero del 2016 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones
+n de Avaluaciones Resolución Exenta SII N° 02 del 14 de Enero del 2016 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -4,39 +4,43 @@
 - Tipo: oficio
 - Número: 1474
 - Año: 2015
-- Fecha: 2015-11-05
+- Fecha: 2015-06-02
 - Categoría: IVA
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2149.htm
-- Hash SHA-256: d86f0ad5376cc7fa0089e588b22858441e7eb5335714e2e3c07fab2d4223adb5
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1474.htm
+- Hash SHA-256: 576cf66458ee40a03aa6723d79872a4335bc3e4807153f69e9db0ef36ce9a76c
 
 ## Resumen
 
-Ventas y Servicios &ndash; Nuevo Texto &ndash; Actual Ley Sobre Impuesto a las &ndash; Art. 12°, Letra B), N° 10 &ndash; . (Ord. Nº 2149, de 01-08-2016) |
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra B), N°10 – Código Tributario, Art. 126°. (Ord. Nº 1474, de 02-06-2015) | | Word Exención de IVA en la importación de bienes de capital en caso que indica.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1474,"year":2015}
+- {"type":"articulo","law":"LIR","article":"59"}
+- {"type":"articulo","law":"LIVS","article":"12"}
+- {"type":"articulo","law":"CT","article":"126"}
 
 ## Texto extraído
 
-VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12°, LETRA B), N° 10 – OFICIO N° 1474, DE 2015. (ORD. N° 2149, DE 01.08.2016)
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12°, LETRA B), N°10 – CÓDIGO TRIBUTARIO, ART. 126°. (ORD. N° 1474, DE 02.06.2015)
 EXENCIÓN DE IVA EN LA IMPORTACIÓN DE BIENES DE CAPITAL EN CASO QUE INDICA.
+Se ha solicitado a este Servicio emitir un pronunciamiento sobre la aplicación de la exención de IVA a la importación de bienes de capital dispuesta en el artículo 12, Letra B), N° 10, de la Ley sobre Impuesto a las Ventas y Servicios.
+I ANTECEDENTES
+Señala que esa Subsecretaría ha sido consultada respecto de la exención establecida en el artículo 12, Letra B), N° 10, de la Ley sobre Impuesto a las Ventas y Servicios; en particular, sobre la posibilidad de solicitar la devolución del Impuesto al Valor Agregado (IVA), soportado en la importación de bienes de capital conforme a lo establecido en el artículo 126 del Código Tributario cuando, por diversos motivos, las importaciones de bienes de capital cuya exención se solicita se han llevado a cabo con anterioridad a que concluya el acto administrativo mediante el cual se otorga el beneficio, debiendo pagarse el IVA asociado al momento de la importación.
+Al respecto, se consulta si en esos casos las empresas solicitantes pueden obtener la restitución del IVA soportado al momento de la importación de los bienes de capital cuya exención se otorgue con posterioridad, amparados para estos efectos en lo dispuesto en el artículo 126 del Código Tributario.
+Sobre la cuestión formula dos posibles interpretaciones en competencia. Una, que confiere al acto administrativo un valor meramente declarativo, de suerte que procede acoger la solicitud de devolución de IVA. Otra, según la cual para impetrar la exención se requiere un acto administrativo “terminal”, reconociendo la procedencia de la misma.
+Conforme lo anterior, por especial encargo del Subsecretario de Hacienda, XXXX, se solicita aclarar la situación antes indicada.
+II ANÁLISIS
+De acuerdo a la parte pertinente del artículo 12, Letra B), N° 10, Ley de IVA, están exentas las importaciones de bienes de capital que no se produzcan en Chile en calidad y cantidad suficiente, que formen parte de un proyecto similar de inversión nacional, que sea considerado de interés para el país, circunstancias todas que serán calificadas por resolución fundada del Ministerio de Economía, Fomento y Reconstrucción, refrendada además por el Ministerio de Hacienda. Los bienes de capital deben estar incluidos en una lista que el Ministerio de Economía, Fomento y Reconstrucción fija por decreto supremo.
+Como se aprecia, la disposición citada no resuelve expresamente si acaso la calificación efectuada mediante resolución fundada por parte del Ministerio de Economía, Fomento y Reconstrucción refrendada por el Ministerio de Hacienda, constituye un requisito que deba verificarse necesariamente antes de consumarse la importación.
+Al respecto, cabe señalar que cuando un determinado requisito deba cumplirse en determinado plazo u oportunidad para la procedencia del beneficio, así lo ha dispuesto expresamente la ley o se desprende del contexto de las disposiciones. Así, por ejemplo, el artículo 59, N° 2, inciso cuarto, de la Ley sobre Impuesto a la Renta, establece una exención de Impuesto Adicional para cuyo goce es necesario que las operaciones “sean informadas” al Servicio de Impuestos Internos “en el plazo que éste determine” .
+En cambio, si no existe norma legal expresa en contrario o no se derive del contexto de las disposiciones, este Servicio ha admitido la procedencia de un beneficio al momento de impetrarse. Así, por ejemplo, para aprovechar el crédito por impuestos pagados en el extranjero en caso de producirse el cambio del titular de la inversión, este Servicio ha razonado que el nuevo titular no tendrá derecho al crédito “mientras no regularice” en el Registro de Inversiones respectivo la titularidad de dicha inversión; de suerte que, “una vez regularizado”, el nuevo titular de la inversión puede invocar el crédito respecto de las “rentas percibidas a contar del ejercicio comercial en que regularizó” dicho registro .
+En el caso analizado, el artículo 12, Letra B), N° 10, de la Ley de IVA únicamente exige que las circunstancias de procedencia del beneficio sean calificadas por resolución fundada del Ministerio de Economía, Fomento y Reconstrucción, refrendada por el Ministerio de Hacienda, sin establecer un plazo u oportunidad determinado para obtener dicha calificación administrativa. Luego, siendo la referida resolución la que, en rigor, acredita el cumplimiento de los requisitos legales, precisamente por esa razón habilita al contribuyente para impetrar el beneficio ante el Servicio de Impuestos Internos, sea que se obtenga antes o después de consumada la importación.
+III CONCLUSIÓN
+1. Del artículo 12, Letra B), N° 10, de la Ley de IVA ni de su contexto se desprende un plazo u oportunidad para obtener la resolución fundada del Ministerio de Economía, Fomento y Reconstrucción, refrendada por el Ministerio de Hacienda, que acredite el cumplimiento de los requisitos de procedencia. 2. Siendo el referido acto administrativo el que acredita inequívocamente el cumplimiento de los requisitos legales sustantivos de procedencia, precisamente dicho acto habilita al contribuyente para impetrar el beneficio ante el Servicio de Impuestos Internos, sea que la resolución se obtenga antes o después de consumada importación, pero dentro de los plazos generales de prescripción.
 
-Se ha solicitado a este Servicio emitir un pronunciamiento sobre la aplicación de la exención de IVA a la importación de bienes de capital dispuesta en el artículo 12°, letra B), N°10 del D.L. N° 825, de 1974. I.- ANTECEDENTES
-El señor Director Nacional de Aduanas señala que la empresa XXXXXX, hoy TTTTTT, con fecha 5 de noviembre de 2015, recurrió ante el Ministerio de Economía solicitando la exención de Impuesto al Valor Agregado respecto a la importación de una unidad funcional generadora de vapor por concentración termo-solar, por un valor total CIF de US$xxxxxxx, sobre la base de constituir un proyecto de inversión nacional, a saber, la construcción de una planta generadora de energía eléctrica, en base a energía termo solar.
-El Ministerio de Economía se pronunció mediante Resolución N° 215, de fecha 11 de diciembre de 2015, concluyendo que en la especie procede acceder a la solicitud de otorgamiento de la exención dispuesta en el artículo 12°, letra B), N°10 del D.L. N° 825, de 1974, agregando que “El beneficio que se otorga mediante esta Resolución Ministerial tendrá vigencia por plazo de tres años a contar del término de tramitación de este acto administrativo”.
-Atendido que las declaraciones de importación que amparaban el bien de capital antes individualizado, se tramitaron y legalizaron ante la aduana de Antofagasta con antelación (septiembre, octubre y noviembre de 2015) a la data de término de la tramitación de la Resolución N° 215 de diciembre de 2015, conforme a lo determinado por el Ministerio de Economía, estima que en la especie la exención no resultaría procedente. Dado lo anterior, por presentación de fecha 13 de mayo de 2016, la empresa señalada recurrió ante el Subsecretario de Hacienda.
-En definitiva, en base a lo resuelto por este Servicio mediante Oficio N° 1474, de fecha 2 de junio de 2015 (emitido con ocasión de una solicitud de restitución del Impuesto al Valor Agregado, lo que no ocurre en la especie, pues en este caso el impuesto aún no ha sido pagado), solicita confirmar que en el caso analizado, el artículo 12°, letra B), N°10 del D.L. N° 825, de 1974, vigente a la fecha de la solicitud, únicamente exige que las circunstancias de procedencia del beneficio sean calificadas por resolución fundada del Ministerio de Economía, Fomento y Reconstrucción, refrendada por el Ministerio de Hacienda, sin establecer un plazo u oportunidad determinado para obtener dicha calificación administrativa.
-Luego, siendo la referida resolución la que, en rigor, acredita el cumplimiento de los requisitos legales, precisamente por esa razón habilita al contribuyente para impetrar el beneficio ante el Servicio Nacional de Aduanas, sea que se obtenga antes o después de consumada la importación.
-II.- ANÁLISIS Y CONCLUSIÓN
-El artículo 12°, Letra B), N° 10 del D.L. N° 825, de 1974, vigente a la fecha de la solicitud señalada, dispone que estarán exentos de Impuesto al Valor Agregado “Los inversionistas, y las empresas receptoras por el monto de la inversión efectivamente recibida en calidad de aporte siempre que consistan en bienes de capital que formen parte de un proyecto de inversión extranjera formalmente convenido con el Estado de acuerdo a las disposiciones del Decreto Ley N° 600, de 1974, o en bienes de capital que no se produzcan en Chile en calidad y cantidad suficiente, que formen parte de un proyecto similar de inversión nacional, que sea considerado de interés para el país, circunstancias todas que serán calificadas por resolución fundada del Ministerio de Economía, Fomento y Reconstrucción, refrendada además por el Ministerio de Hacienda. Los bienes de capital a que se refiere el presente número deberán estar incluidos en una lista que el Ministerio de Economía, Fomento y Reconstrucción fijará por decreto supremo”.
-Conforme fue objeto de análisis mediante Oficio N° 1474, de fecha 2 de junio de 2015, la disposición citada únicamente exige que las circunstancias de procedencia del beneficio sean calificadas por resolución fundada del Ministerio de Economía, Fomento y Reconstrucción, refrendada por el Ministerio de Hacienda, sin establecer un plazo u oportunidad determinado para obtener dicha calificación administrativa.
-Siendo la referida resolución la que, en rigor, acredita el cumplimiento de los requisitos legales, precisamente por esa razón habilita al contribuyente para impetrar el beneficio en cuestión, sea que se obtenga antes de consumada la importación, como ocurriría en el presente caso, o incluso después de consumada ésta, pero dentro de los plazos generales de prescripción.
-Por lo anterior, en opinión de este Servicio el criterio expuesto resultaría plenamente aplicable al caso en consulta.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-FERNANDO BARRAZA LUENGO
-DIRECTOR
-
-Oficio N° 2149 de 01.08.2016
+Oficio N° 1474, de 02.06.2015
 Subdirección Normativa
-Dpto. de Impuestos Indirectos
+Dpto. de Técnica Tributaria

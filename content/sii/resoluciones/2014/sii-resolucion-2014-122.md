@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Avaluaciones Establece la Obligación de informar al Consejo Nacional de La Cultura y Las Artes, acerca de los beneficiarios de las donaciones con fines culturales establecidas en el artículo 8° de la ley N°18.985. Fuente: Departamento de Sistemas de Fiscalización
+n Avaluaciones Establece la Obligación de informar al Consejo Nacional de La Cultura y Las Artes, acerca de los beneficiarios de las donaciones con fines culturales establecidas en el artículo 8° de la ley N°18.985. Fuente: Departamento de Sistemas de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Modificación introducida por el artículo 3° de la Ley N° 20.899, de 08 de febrero de 2016, al N° 6 del artículo 97 del Código Tributario. Fuente: Departamento de Asesoría Jurídica
+n Normativa Modificación introducida por el artículo 3° de la Ley N° 20.899, de 08 de febrero de 2016, al N° 6 del artículo 97 del Código Tributario. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

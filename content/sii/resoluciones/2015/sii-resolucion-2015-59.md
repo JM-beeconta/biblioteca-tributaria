@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Establece Unidad Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización
+a Jurídica Establece Unidad Providencia dependiente de la XV Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

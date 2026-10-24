@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario Fuente: Subdirección de Informática
+n de Avaluaciones Acredita y autoriza a contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario Fuente: Subdirección de Informática
 
 ## Referencias detectadas
 

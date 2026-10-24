@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos
+n Normativa Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

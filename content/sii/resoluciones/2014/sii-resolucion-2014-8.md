@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Internacional Resolución Exenta SII N° 08 del 16 de Enero del 2014 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n Internacional Resolución Exenta SII N° 08 del 16 de Enero del 2014 Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

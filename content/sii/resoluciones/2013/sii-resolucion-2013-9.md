@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Internancional. Resolución Exenta SII N° 09 del 23 de Enero del 2013 Autoriza al contribuyente SPF S.A., RUT N° 76.121.871-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Depto. Atención y Asistencia de Contribuyentes.
+n Internancional. Resolución Exenta SII N° 09 del 23 de Enero del 2013 Autoriza al contribuyente SPF S.A., RUT N° 76.121.871-9, para operar un sistema electrónico de intermediación en la venta de colaciones. Fuente: Depto. Atención y Asistencia de Contribuyentes.
 
 ## Referencias detectadas
 

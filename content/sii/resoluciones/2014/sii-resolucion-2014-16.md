@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n Jurídica Modifica Resolución Ex. SII N° 163, de fecha 16.12.2008, que establece nuevos formatos de Declaración Jurada solicitud de devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
+n Jurídica Modifica Resolución Ex. SII N° 163, de fecha 16.12.2008, que establece nuevos formatos de Declaración Jurada solicitud de devolución por cambio de sujeto de derecho del IVA. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
 
 ## Referencias detectadas
 

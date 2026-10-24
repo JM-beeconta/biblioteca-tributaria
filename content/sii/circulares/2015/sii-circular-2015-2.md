@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa factores a utilizar para los efectos de determinar el incremento por impuesto de primera categoría de la Ley de la Renta y su correspondiente crédito por igual concepto, a que se refieren los artículos 38 bis, 54 n° 1, 62, 56 n° 3 y 63 de la Ley precitada. Fuente: Oficina de Gestión Normativa
+n Normativa Informa factores a utilizar para los efectos de determinar el incremento por impuesto de primera categoría de la Ley de la Renta y su correspondiente crédito por igual concepto, a que se refieren los artículos 38 bis, 54 n° 1, 62, 56 n° 3 y 63 de la Ley precitada. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

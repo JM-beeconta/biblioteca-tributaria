@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
+a Jurídica Complementa Resolución Exenta SII N°109 de 27 de diciembre de 2013, en los términos que indica Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

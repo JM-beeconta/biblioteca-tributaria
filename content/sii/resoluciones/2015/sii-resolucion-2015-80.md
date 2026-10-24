@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Establece procedimiento para declarar mejoras de bienes raíces al amparo de la Ley N° 20.780. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
+n de Avaluaciones Establece procedimiento para declarar mejoras de bienes raíces al amparo de la Ley N° 20.780. Fuente: Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

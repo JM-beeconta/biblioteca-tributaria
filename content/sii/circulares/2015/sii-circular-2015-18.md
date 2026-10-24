@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de abril del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina Gestión Normativa
+n Normativa. Tablas del impuesto único de segunda categoría y del impuesto global complementario para el mes de abril del año 2015 e información adicional relacionada con dichos tributos. Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

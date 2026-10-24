@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Avaluaciones. Resolución Exenta SII N° 02 del 09 de Enero del 2013 Modifica Resoluciones Exentas SII N° 114 de 21 de julio de 2010 y N°153 de 23 de diciembre de 2011. Fuente: Subdirección Jurídica.
+n de Avaluaciones. Resolución Exenta SII N° 02 del 09 de Enero del 2013 Modifica Resoluciones Exentas SII N° 114 de 21 de julio de 2010 y N°153 de 23 de diciembre de 2011. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

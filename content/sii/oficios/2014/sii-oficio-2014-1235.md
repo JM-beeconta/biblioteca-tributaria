@@ -4,299 +4,64 @@
 - Tipo: oficio
 - Número: 1235
 - Año: 2014
-- Fecha: 2014-07-21
+- Fecha: N/A
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1721.doc
-- Hash SHA-256: ba541a616c1ec36e619915a6db5e16aad0787e355c1b1816bd45918886b42bf5
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1235.htm
+- Hash SHA-256: 0fc6947850813974a0e2f0f4ee73559b309e89fc5de816d1587fd3a1d1866ee8
 
 ## Resumen
 
-| Word Solicita aclarar y complementar el .07.2014
+sus bancos centrales. Renta – Actual Ley sobre Impuesto a la – Art. 74°, N°4, Art. 60° – Circular N° 43, de 1990 – Oficio N° 507, de 1998. (Ord. Nº 1235, de 21-07-2014) | | Word Tratamiento tributario del mayor valor obtenido en la enajenación de acciones y derechos en una sociedad contractual minera.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":54,"year":2013}
-- {"type":"oficio","number":1235,"year":2014}
-- {"type":"articulo","law":"LIR","article":"18"}
+- {"type":"circular","number":43,"year":1990}
+- {"type":"oficio","number":507,"year":1998}
 - {"type":"articulo","law":"LIR","article":"17 N"}
-- {"type":"articulo","law":"LIR","article":"17  N"}
-- {"type":"articulo","law":"LIR","article":"17\n        N"}
+- {"type":"articulo","law":"LIR","article":"2"}
 - {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"articulo","law":"LIR","article":"74 d"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°8, ART. 74°, N°4, ART.
-        79° – OFICIO N° 1235, DE 2014. (ORD. N° 1721, DE 26.09.2014)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°4, ART. 60° – CIRCULAR N° 43, DE 1990 – OFICIO N° 507, DE 1998. (ORD. N° 1235, DE 21.07.2014)
+TRATAMIENTO TRIBUTARIO DEL MAYOR VALOR OBTENIDO EN LA ENAJENACIÓN DE ACCIONES Y DERECHOS EN UNA SOCIEDAD CONTRACTUAL MINERA.
+Se ha solicitado un pronunciamiento a este Servicio, respecto de la tributación de la ganancia de capital o mayor valor que los vendedores, inversionistas extranjeros acogidos a las disposiciones del Decreto Ley N°600, de 1974, puedan obtener con ocasión de la venta de la totalidad de sus acciones en dos sociedades contractuales mineras constituidas en el país. I.- ANTECEDENTES.
+Señala en su presentación que dos inversionistas extranjeros son dueños de acciones emitidas por dos Sociedades Contractuales Mineras. Las referidas sociedades se constituyeron en Chile por escrituras públicas de fecha 20 de mayo de 1992. Agrega que las inversiones en tales sociedades fueron ingresadas a Chile en conformidad con las disposiciones del Decreto Ley N°600, de 1974.
+Luego de detallar la participación accionaria de los inversionistas extranjeros en cada una de las Sociedades Contractuales Mineras, expresa que están analizando efectuar la venta de la totalidad de las acciones de que son dueñas, para cuyo efecto, y en conformidad con un extenso análisis de las disposiciones de la Ley sobre Impuesto a la Renta (LIR) aplicables a este tipo de operaciones y de las modificaciones incorporadas al referido texto legal por la Ley N°20.630 de 2012, requiere un pronunciamiento sobre el régimen tributario aplicable a las ganancias de capital que puedan obtener con ocasión de la venta de dichas acciones y la confirmación de los siguientes criterios que expresa sobre el particular:
+a. Que cualquier ganancia de capital que los vendedores puedan obtener con ocasión de la venta de la totalidad de sus acciones en las Sociedades Contractuales Mineras, califican para el régimen del 20% de Impuesto de Primera Categoría en carácter de único (IDPCU), contenido en el artículo 17 N° 8, letra a), de la LlR, toda vez que:
+i. las Vendedoras han mantenido sus acciones, por más de 1 año;
+ii. las Vendedoras no serían "habituales" en la venta de las acciones; y
+iii. las acciones serán vendidas a terceros no relacionados con las Vendedoras, de conformidad con el inciso 4°, del artículo 17 N° 8, letra a), de la LIR.
+b. Considerando que los Vendedores son entidades no residentes o domiciliadas en Chile, el o los compradores de las acciones deberán retener un monto equivalente al 5% del precio de venta de dichas acciones, respectivamente, de conformidad con lo dispuesto en los artículos 74, N° 4 y 79 de la LIR.
+II.- ANÁLISIS.
+En el análisis que efectúa en su presentación, hace presente que en conformidad con la jurisprudencia administrativa de este Servicio, las Sociedades Contractuales Mineras son consideradas para efectos tributarios y por aplicación del artículo 2, N°6 de la LIR, como sociedades de personas y que, por lo mismo, para los efectos de dicho texto legal, aquéllas deben sujetarse al régimen tributario que dicho texto legal establece para este tipo de sociedades.
+Al respecto, cabe señalar que si bien tal consideración ha sido expresada reiterativamente a través de algunos dictámenes de este Servicio, la misma jurisprudencia se ha encargado de precisar que ello no aplica respecto de aquellos regímenes especiales que dicho texto legal ha contemplado expresamente para ciertas operaciones relacionadas con el referido tipo de entes jurídicos, como es aquel establecido en la letra h), del N° 8, del artículo 17 de la ley del ramo .
 
-Solicita aclarar y complementar el Oficio N° 1235, de 21.07.2014
-
-Se ha solicitado  un  pronunciamiento  a  este  Servicio,  respecto  de  la
-tributación de la ganancia de capital o mayor  valor  que  los  vendedores,
-inversionistas no residentes ni domiciliados en Chile, pueden  obtener  con
-ocasión de la venta de la totalidad  de  sus  acciones  en  dos  sociedades
-contractuales mineras constituidas en el país.
-I.- ANTECEDENTES.
-Indica que las empresas que representa, solicitaron confirmar la  aplicación
-del Impuesto de Primera Categoría en carácter de impuesto único a la  renta,
-establecido en la letra a), del número 8, del artículo 17 de  la  Ley  sobre
-Impuesto a la Renta  ("LlR"),  sobre  la  ganancia  de  capital  que  dichas
-sociedades, en su calidad  de  vendedoras,  obtuvieran  con  ocasión  de  la
-eventual venta de su participación en las sociedades  contractuales  mineras
-XXXX y BBBB, respectivamente.
-Lo anterior, en la medida que en la referida enajenación  se  cumpliera  con
-los requisitos copulativos establecidos para la aplicación de este  régimen,
-de conformidad con la letra a) y el inciso 3° del artículo 17  N°  8,  y  el
-artículo 18 de la LIR, a saber:
-(a)  que entre la fecha de adquisición y enajenación haya transcurrido a  lo
-menos un año;
-(b)  que la enajenación no sea  hecha  a  una  persona  relacionada  de  las
-vendedoras, en los términos establecidos en el inciso 4°,  del  artículo  17
-N° 8 de la LlR; y
-(c) que las vendedoras no tengan el carácter de "habituales"  en  este  tipo
-de operaciones, de conformidad con el artículo 18 de la LIR.
-Señala que, con fecha 21 de julio de  2014  les  fue  notificado  el  Oficio
-N°1.235, mediante el cual se dio respuesta a una consulta  anterior,  en  la
-que el Servicio se pronunció sobre el tratamiento  tributario  aplicable  al
-mayor valor obtenido en  la  enajenación  de  acciones  y  derechos  en  una
-sociedad legal minera o en  una  sociedad  contractual  minera  que  no  sea
-anónima,   constituida    exclusivamente    para    explotar    determinadas
-pertenencias.
-Al respecto, el análisis efectuado en el Oficio N°1.235 considera solamente
-el régimen tributario aplicable a la ganancia de capital para el  caso  que
-sea aplicable el artículo 17 N°8, letra h), de la LIR, pero no se pronuncia
-acerca de la situación en que la venta de la participación en una  sociedad
-contractual minera no deba subsumirse en  la  hipótesis  de  hecho  gravado
-contenida en dicha norma, cuestión que venimos en  solicitar  se  aclare  y
-complemente.
-En efecto, en atención a los antecedentes de hecho y  de  derecho  indicados
-tanto en  la  solicitud  original,  como  de  los  nuevos  antecedentes  que
-acompaña a esta presentación, solicita se aclare  y  complemente  el  Oficio
-N°1.235 y, en consecuencia, confirme que la eventual venta que PD XXXX y  PD
-BBBB puedan efectuar de XXXX y BBBB,  respectivamente,  puede  tributar  con
-Impuesto de Primera Categoría, en carácter de impuesto  único  a  la  renta,
-dado que no resulta aplicable la letra h), del artículo 17 N° 8 de  la  LIR,
-y en la medida que  se  cumpla  con  los  requisitos  copulativos  indicados
-anteriormente.
-Para el caso específico del nacimiento de la obligación  tributaria  que  se
-regirá por la letra h), del artículo 17 N°8 de la LIR,  es  necesario,  como
-lo prescribe la propia ley, que se trate de la  enajenación  de  acciones  o
-derechos de una sociedad legal minera o de una sociedad  contractual  minera
-que no sea anónima y que haya sido constituida exclusivamente para  explotar
-determinadas pertenencias.
-Dicho lo anterior, es necesario señalar que, en caso que a la venta  de  la
-participación de una sociedad contractual minera (como es el caso de XXXX y
-BBBB) no le sea aplicable la letra h), del artículo 17 N°8 de la  LIR,  por
-no subsumirse la hipótesis fáctica en el hecho gravado contenido  en  dicha
-norma,  corresponde  aplicar  a  dicha  venta  el  tratamiento   tributario
-establecido para la enajenación de la participación en  las  sociedades  de
-personas en general, entre  los  cuales  se  encuentra  la  posibilidad  de
-aplicar el régimen establecido en la letra a), del artículo 17  N°8  de  la
-LIR.
-De acuerdo a los nuevos antecedentes de hecho y  fundamentos  acompañados  a
-su presentación, solicita aclarar y complementar el Oficio  N°1.235,  en  el
-siguiente sentido:
-    (a)    Que no procede aplicar a la enajenación de XXXX y BBBB por parte
-        de PD XXXX y PD BBBB, respectivamente, la letra h), del artículo  17
-        N°8 de la LIR. En particular, solicita se confirme que  en  el  caso
-        bajo análisis no se  cumplirían  los  presupuestos  establecidos  en
-        letra h), del artículo 17 N°8 de la LIR, considerando que de acuerdo
-        con el objeto social de estas últimas sociedades,  XXXX  y  BBBB  no
-        fueron  constituidas  exclusivamente  para   explotar   determinadas
-        pertenencias mineras.
-    (b) Que la ganancia de capital que puedan obtener PD XXXX y PD BBBB con
-        ocasión de la venta de XXXX y BBBB debe gravarse de acuerdo con  las
-        normas generales  contenidas  en  la  LIR  para  las  sociedades  de
-        personas, calificando  para  el  régimen  del  Impuesto  de  Primera
-        Categoría en carácter de impuesto único a la renta, contenido en  el
-        artículo 17 N° 8, letra a), de la LIR, en caso que se cumpla con los
-        siguientes requisitos copulativos:
-        (i)      Que las sociedades vendedoras  PD  XXXX  y  PD  BBBB  hayan
-           mantenido sus acciones en XXXX y BBBB, respectivamente, por  más
-           de 1 año;
-        (ii)     Que las sociedades vendedoras PD XXXX y  PD  BBBB  no  sean
-           "habituales" en la venta de las acciones; y
-        (iii)    Que las acciones de XXXX y BBBB sean vendidas a terceros no
-           relacionados con las sociedades vendedoras, de  conformidad  con
-           el inciso 4°, del artículo 17 N°8, letra a), de la LIR.
-    (c)    Que en caso que el mayor valor obtenido por PD XXXX  y  PD  BBBB
-        como consecuencia de la venta de su participación en XXXX y BBBB  se
-        afecte con Impuesto de Primera Categoría, en  carácter  de  impuesto
-        único a la renta, por cumplir los requisitos establecidos en la  LIR
-        para ello, considerando que las sociedades vendedoras PD XXXX  y  PD
-        BBBB son entidades no residentes o domiciliadas en Chile, el  o  los
-        compradores de las acciones de XXXX y BBBB deberán retener un  monto
-        equivalente  al  5%  del  precio  de  venta  de   dichas   acciones,
-        respectivamente, de conformidad con lo dispuesto en los artículos 74
-        N°4 y 79 de la LIR.
-
-II.-  ANÁLISIS.
-
-1.- De acuerdo a los términos expresados en su  nueva  presentación  y  los
-antecedentes acompañados a la misma, es posible complementar el  Oficio  N°
-1.235 del 21 de julio de 2014 en el siguiente sentido:
-
-En relación con la enajenación de acciones a las que se refiere su consulta
-y de acuerdo con lo que al efecto dispone la LIR a través del  párrafo  1°,
-de la letra h), del  N°  8,  de  su  artículo  17,  cabe  expresar  que  no
-constituye renta, el mayor valor, incluido el reajuste del saldo de precio,
-obtenido en la enajenación de acciones y derechos  en  una  sociedad  legal
-minera o en una sociedad contractual minera que no sea anónima, constituida
-exclusivamente para explotar determinadas pertenencias, siempre  que  quien
-enajene haya adquirido sus derechos antes de la  inscripción  del  acta  de
-mensura o dentro de los 5 años siguientes a  dicha  inscripción  y  que  la
-enajenación se efectúe antes de transcurrido  8  años,  contados  desde  la
-inscripción del acta de mensura.
-
-A través de la Ley N°18.293, de 1984,  se  modificó  la  calificación  como
-ingreso no constitutivo de renta, establecida por la referida  disposición,
-entre otras, limitándola sólo a la parte del mayor  valor  que  se  obtenga
-hasta la concurrencia  del  costo  inicial  de  las  acciones,  debidamente
-actualizado por la variación del índice de precios al consumidor, pasando a
-constituir renta el exceso, el  cual,  a  partir  de  la  vigencia  de  tal
-modificación, debe tributar  con  el  impuesto  de  Primera  Categoría,  en
-calidad de impuesto  único  a  la  renta,  en  tanto  se  cumplan  con  los
-requisitos que la norma citada dispone.
-
-Consecuente con lo señalado en los párrafos precedentes, en  el  Oficio  N°
-1.235 referido, este Servicio se pronunció sobre el régimen de  tributación
-que afecta al mayor valor obtenido en la enajenación de acciones y derechos
-en una sociedad legal minera o en una sociedad contractual  minera  que  no
-sea  anónima,  constituida  exclusivamente   para   explotar   determinadas
-pertenencias, estableciéndose la siguiente distinción:
-
-a) Queda sujeto al Impuesto de Primera Categoría, en carácter  de  impuesto
-único a la renta, cuando se cumplan las siguientes condiciones y requisitos
-copulativos:
-
-i. Que el enajenante haya adquirido sus derechos antes  de  la  inscripción
-del acta de mensura o dentro de los 5 años siguientes a dicha inscripción;
-
-ii. Que la enajenación se efectúe antes de transcurridos 8  años,  contados
-desde la inscripción del acta de mensura;
-
-iii. Que el enajenante  no  sea  un  contribuyente  que  declare  la  renta
-efectiva en la Primera Categoría;
-
-iv. Que las sociedades cuyas acciones  o  derechos  se  enajenan,  no  sean
-contribuyentes que declaren la renta efectiva en la Primera Categoría;
-
-v. Que el enajenante no se encuentre relacionado con el adquirente  en  los
-términos que establece el párrafo 4°, del N°8 del artículo 17 de la LIR; y
-
-vi. Que las operaciones de  enajenación  no  representen  el  resultado  de
-negociaciones o actividades realizadas habitualmente por  el  contribuyente
-enajenante.
-
-b) Queda sujeto a los impuestos generales de la Ley  sobre  Impuesto  a  la
-Renta, esto es, al Impuesto de Primera Categoría sobre la base de la  renta
-percibida o devengada, e impuesto Global Complementario o Adicional, cuando
-no se cumplan una o más de las  condiciones  copulativas  indicadas  en  la
-letra a) precedente.
-
-2.- Ahora bien, el mayor valor obtenido en la  enajenación  de  acciones  y
-derechos en una sociedad legal minera o en una sociedad contractual  minera
-que no sea anónima  y  que  no  se  haya  constituido  exclusivamente  para
-explotar determinadas pertenencias, no puede quedar sujeto  al  régimen  de
-tributación que dispone la letra h), del N° 8, del artículo 17 de  la  LIR,
-puesto que no se satisface uno de los presupuestos  básicos  que  contempla
-dicha  disposición,  cuál  es,  que  las  acciones  o  derechos  enajenados
-correspondan a una sociedad legal minera o una sociedad contractual  minera
-que no sea anónima, constituida exclusivamente para  explotar  determinadas
-pertenencias.
-
-En la situación de hecho  materia  de  esta  consulta,  de  acuerdo  a  los
-antecedentes analizados, resulta que las acciones  que  se  enajenarían  se
-mantienen en dos Sociedades Contractuales Mineras, que no son  anónimas,  y
-no cumplen con el requisito  de  haberse  constituido  exclusivamente  para
-explotar determinadas pertenencias.
-
-En efecto, en las escrituras de constitución de las Sociedades XXXX y BBBB,
-se estipula que el objeto social,  en  ambos  casos,  es  “la  prospección,
-exploración y explotación de las concesiones mineras de que actualmente  es
-dueña o pudiera adquirir o sobre los cuales detente algún tipo de  derechos
-en la República de Chile, el procesamiento de los  minerales  extraídos  de
-ellas, el transporte y comercialización  de  los  productos  derivados,  la
-enajenación de los bienes de la Compañía, cualquier actividad  accesoria  a
-lo anteriormente mencionado...”
-
-En consecuencia, atendido que no corresponde en este caso la aplicación  de
-lo dispuesto en la letra h), del N° 8, del artículo  17  de  la  LIR,  cabe
-señalar que la norma que si resulta aplicable a la situación  analizada  es
-aquella de carácter general establecida en la letra a), del mismo N° 8, del
-referido artículo, respecto de la enajenación de derechos en sociedades  de
-personas.
-
-De acuerdo a ello, el  mayor  valor  obtenido  en  la  enajenación  de  las
-acciones referidas podrá quedar sujeto al Impuesto de Primera Categoría  en
-carácter de impuesto único a la renta, o bien, sujeto al régimen general de
-tributación,  esto  es,  al  Impuesto  de  Primera   Categoría   y   Global
-Complementario o Adicional, según corresponda, de acuerdo a las  normas  de
-la LIR y las instrucciones impartidas con anterioridad  por  este  Servicio
-sobre la materia.
-
+En relación con la enajenación de acciones a las que se refiere su consulta y de acuerdo con lo que al efecto dispone la LIR a través del párrafo 1°, de la letra h), del N° 8, de su artículo 17, cabe expresar que no constituye renta, el mayor valor, incluido el reajuste del saldo de precio, obtenido en la enajenación de acciones y derechos en una sociedad legal minera o en una sociedad contractual minera que no sea anónima, constituida exclusivamente para explotar determinadas pertenencias, siempre que quien enajene haya adquirido sus derechos antes de la inscripción del acta de mensura o dentro de los 5 años siguientes a dicha inscripción y que la enajenación se efectúe antes de transcurrido 8 años, contados desde la inscripción del acta de mensura.
+A través de la Ley N°18.293, de 1984, se modificó la calificación como ingreso no constitutivo de renta, establecida por la referida disposición, entre otras, limitándola sólo a la parte del mayor valor que se obtenga hasta la concurrencia del costo inicial de las acciones, debidamente actualizado por la variación del índice de precios al consumidor, pasando a constituir renta el exceso, el cual, a partir de la vigencia de tal modificación, debe tributar con el impuesto de Primera Categoría, en calidad de impuesto único a la renta, en tanto se cumplan con los requisitos que la norma citada dispone.
+Por otra parte y conforme a lo establecido en el párrafo 2°, de la letra h), del N° 8, del artículo 17 de la LIR, agregado en este literal por el artículo 1°, N° 4, B), letra b), de la Ley N°18.985 de 1990, la calificación como ingreso no constitutivo de renta referido precedentemente, y por tanto la tributación del referido exceso con el Impuesto de Primera Categoría en calidad de impuesto único a la renta, no se aplica cuando la persona que enajena sea un contribuyente que declare su renta efectiva en la primera categoría o cuando la sociedad, cuyas acciones o derechos se enajenan, esté sometida a ese mismo régimen.
+Ahora bien, de acuerdo con las instrucciones de este Servicio , impartidas con ocasión de la incorporación del párrafo 2°, en la letra h), del N°8, del artículo 17 de la LIR, indicado en el párrafo precedente, tal modificación tuvo como propósito restringir el tratamiento tributario (aplicación del impuesto de Primera Categoría en calidad de impuesto único a la renta) sólo respecto del mayor valor obtenido en la enajenación de acciones y derechos en sociedades legales o contractuales mineras que cumplan con los requisitos que se establecen al respecto, en el párrafo 1° de la letra h).
+En efecto, las referidas instrucciones expresan que “… a raíz de la norma agregada, el tratamiento tributario descrito se mantendrá en los términos señalados únicamente cuando la persona que efectúa la enajenación no se trata de un contribuyente que declare su renta efectiva en la primera categoría, o cuando las acciones o derechos que se enajenen no correspondan a una sociedad sujeta a la misma modalidad de declaración de sus rentas en la primera categoría.
+A contrario sensu, cuando tales enajenaciones, independientemente de su habitualidad, sean efectuadas por un contribuyente que declare su renta efectiva en la primera categoría, cualquiera sea su forma de determinación, o la sociedad a la cual corresponden las citadas acciones o derechos se encuentre acogida a la misma forma de declaración de su renta en la primera categoría, la utilidad obtenida en dichas operaciones se afectará con los impuesto generales de la Ley de la Renta, esto es, con el impuesto de primera categoría sobre la base de la renta percibida o devengada, e impuesto global complementario o adicional sobre la base de la renta retirada o distribuida si la empresa respectiva determina su renta mediante contabilidad completa, o sobre la misma base del impuesto de primera categoría, si la referida empresa determina su renta mediante una contabilidad simplificada.”
+Consecuente con lo señalado en los párrafos precedentes, cabe expresar que el mayor valor obtenido en la enajenación de acciones y derechos en una sociedad legal minera o en una sociedad contractual minera que no sea anónima, constituida exclusivamente para explotar determinadas pertenencias, se encuentra afecto a la siguiente tributación:
+a) Al Impuesto de Primera Categoría, en carácter de impuesto único a la renta, cuando se cumplan las siguientes condiciones y requisitos copulativos:
+i. Que el enajenante haya adquirido sus derechos antes de la inscripción del acta de mensura o dentro de los 5 años siguientes a dicha inscripción;
+ii. Que la enajenación se efectúe antes de transcurridos 8 años, contados desde la inscripción del acta de mensura;
+iii. Que el enajenante no sea un contribuyente que declare la renta efectiva en la Primera Categoría;
+iv. Que las sociedades cuyas acciones o derechos se enajenan, no sean contribuyentes que declaren la renta efectiva en la Primera Categoría;
+v. Que el enajenante no se encuentre relacionado con el adquirente en los términos que establece el párrafo 4°, del N°8 del artículo 17 de la LIR; y
+vi. Que las operaciones de enajenación no representen el resultado de negociaciones o actividades realizadas habitualmente por el contribuyente enajenante.
+b) A los impuestos generales de la Ley sobre Impuesto a la Renta, esto es, al Impuesto de Primera Categoría sobre la base de la renta percibida o devengada, e impuesto Global Complementario o Adicional, cuando no se cumplan una o más de las condiciones copulativas indicadas en la letra a) precedente.
+Finalmente, cabe señalar que las modificaciones introducidas por la Ley N°20.630 de 2012, a la letra a), del N°8, del artículo 17 de la LIR, no alteran ni modifican el régimen de tributación establecido en la letra h), del mismo número y artículo, sin perjuicio de que si se modifiquen para ambos casos, las normas contenidas en el inciso 2°, del N°8, que precisan la forma de determinar el costo tributario en la enajenación de las citadas acciones o derechos.
 III.- CONCLUSIÓN.
-De  acuerdo  al  análisis  de  los  nuevos  antecedentes  y   planteamientos
-efectuados mediante esta segunda presentación, se aclara  y  complementa  lo
-resuelto mediante el Oficio N°1.235, en el siguiente sentido:
-a) Atendido el objeto social con el cual fueron constituidas las  sociedades
-XXXX y BBBB cuyas acciones se  enajenarían,  no  procede  aplicar  al  mayor
-valor obtenido en dicha enajenación lo dispuesto en la letra h), del  N°  8,
-del artículo 17 de la LIR.
-b) El mayor valor que puedan obtener PD XXXX y PD BBBB  con  ocasión  de  la
-venta de XXXX y BBBB debe gravarse  de  acuerdo  con  las  normas  generales
-contenidas en la LIR para las sociedades de personas,  calificando  para  el
-régimen del Impuesto de Primera Categoría en carácter de  impuesto  único  a
-la renta, siempre que se cumpla con los siguientes requisitos copulativos:
-        i)  Que las sociedades vendedoras PD XXXX y PD BBBB hayan  mantenido
-           sus acciones en XXXX y BBBB, respectivamente, por más de 1 año;
-        ii)      Que las sociedades vendedoras PD XXXX y  PD  BBBB  no  sean
-           "habituales" en la venta  de  las  acciones,  de  acuerdo  a  lo
-           establecido en el artículo 18 de la LIR, y las instrucciones  de
-           este Servicio sobre la materia;
-        iii)     Que las acciones de XXXX y BBBB sean vendidas a terceros no
-           relacionados o  en  las  que  tengan  intereses  las  sociedades
-           vendedoras, de conformidad con lo dispuesto en el inciso 4°, del
-           N° 8, del artículo 17 de la LIR.
-c) En caso que el  mayor  valor  obtenido  por  PD  XXXX  y  PD  BBBB  como
-consecuencia de la venta de su participación en XXXX y BBBB se  afecte  con
-Impuesto de Primera Categoría, en carácter de impuesto único  a  la  renta,
-por cumplir los requisitos establecidos en la LIR para  ello,  considerando
-que las sociedades vendedoras PD XXXX y PD BBBB son entidades no residentes
-o domiciliadas en Chile, el o los compradores de las  acciones  de  XXXX  y
-BBBB deberán retener provisionalmente un monto equivalente al 5%  sobre  el
-total de la cantidad a remesar,  sin  deducción  alguna,  salvo  que  pueda
-determinarse el mayor valor afecto a impuesto, en cuyo caso,  la  retención
-se hará con la tasa del Impuesto de Primera  Categoría  sobre  dicho  mayor
-valor, de conformidad con lo dispuesto en los artículos 74 N°4 y 79  de  la
-LIR[1].
+El mayor valor o ganancia de capital que los vendedores, a los que se refiere su consulta, puedan obtener con ocasión de la venta de las acciones que indica en su presentación, tributarán con el Impuesto de Primera Categoría, en calidad de impuesto único a la renta, sólo en el caso en que se cumpla copulativamente con los requisitos señalados en la letra a) del análisis precedente.
+En caso de no cumplirse copulativamente tales condiciones, el referido mayor valor debe tributar con los impuesto generales de la LIR, en los términos señalados en la letra b) del análisis anterior.
+Considerando que los vendedores son entidades sin domicilio ni residencia en Chile, el o los compradores de las acciones se encuentran obligados a practicar la retención de impuesto establecido en el inciso 1°, del número 4, del artículo 74 de la LIR, por tratarse de una renta clasificada en el número 5, del artículo 20 de la LIR, en concordancia con el inciso 1°, del artículo 60 de la misma ley.
 
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
 
-
-
-
-
-                                       MICHEL JORRATT DE LUIS
-
-                                                            DIRECTOR  (T  y
-       P)
-
-
-
-
-
-
-                        Oficio N° 1721, de 26.09.2014
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-
-
-
-
-
-
-
-
-
------------------------
-[1] Las instrucciones sobre la materia, fueron impartidas por este  Servicio
-mediante la Circular N° 54 de 2013.
+Oficio N° 1235, de 21.07.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

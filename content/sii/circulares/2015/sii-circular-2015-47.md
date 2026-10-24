@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuestos Directos Obligación de incorporar sellos o marcas distintivas como mecanismo de &ldquo;trazabilidad&rdquo; de bienes afectos a impuestos específicos. Fuente: Departamento de Asesoría Jurídica
+Impuestos Directos Obligación de incorporar sellos o marcas distintivas como mecanismo de “trazabilidad” de bienes afectos a impuestos específicos. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 y la Ley N° 20.899 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, todos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos
+n Normativa Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 y la Ley N° 20.899 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, todos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

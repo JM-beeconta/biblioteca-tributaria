@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2016 y el 9 de septiembre del año 2016. Fuente: Oficina de Gestión Normativa
+n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2016 y el 9 de septiembre del año 2016. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

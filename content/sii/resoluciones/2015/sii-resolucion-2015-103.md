@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ón de Estudios Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuente: Subdirección de Recursos Humanos
+ón de Estudios Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuente: Subdirección de Recursos Humanos n de Recursos Humanos Resolución Exenta SII N° 103 del 21 de Diciembre del 2015 Actualiza normas de funcionamiento del Comité Bipartito de Capacitación del SII Fuente: Subdirección de Recursos Humanos
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Impuestos Directos Complementa la Circular N° 33, de 2013, respecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas por la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria, y actualiza el formulario N° 2802, &ldquo;CERTIFICADO DE ANTECEDENTES PREVIOS PARA EL CÁLCULO DEL AVALÚO FISCAL&rdquo; Fuente: Departamento de Catastro y Tasaciones
+Impuestos Directos Complementa la Circular N° 33, de 2013, respecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas por la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria, y actualiza el formulario N° 2802, “CERTIFICADO DE ANTECEDENTES PREVIOS PARA EL CÁLCULO DEL AVALÚO FISCAL” Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

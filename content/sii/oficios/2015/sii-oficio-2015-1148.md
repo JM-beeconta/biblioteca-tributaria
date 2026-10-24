@@ -4,43 +4,39 @@
 - Tipo: oficio
 - Número: 1148
 - Año: 2015
-- Fecha: 2015-02-13
-- Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja495.htm
-- Hash SHA-256: 6d90a00f6d0123788d9d8ac709784ac635e3da140bb3e175a71c903a41b50e73
+- Fecha: 2015-04-27
+- Categoría: IVA
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1148.htm
+- Hash SHA-256: cfa3d361388eddce3dd652843c946d2dd2b310f05a024e85903d6d222e30229e
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 107° &ndash; Circular N° 68, de 2010 &ndash; . (Ord. Nº 495, de 13-02-2015) |
+Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra B), N°10 – Circular N° 48, de 1978. (Ord. Nº 1148, de 27-04-2015) | | Word Procedencia de exención tributaria, conforme al artículo 12°, letra b), N° 10 de la Ley sobre Impuesto a las Ventas y Servicios.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":68,"year":2010}
-- {"type":"oficio","number":1148,"year":2012}
-- {"type":"articulo","law":"LIR","article":"18 ter"}
-- {"type":"articulo","law":"LIR","article":"107"}
+- {"type":"circular","number":48,"year":1978}
+- {"type":"articulo","law":"LIVS","article":"12"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 107° – CIRCULAR N° 68, DE 2010 – OFICIO N°1148, DE 2012. (ORD. N° 495, DE 13.02.2015)
-DEDUCCIÓN DE LA PÉRDIDA OBTENIDA EN LA ENAJENACIÓN DE ACCIONES DE UNA SOCIEDAD ANÓNIMA ABIERTA.
-Se ha solicitado un pronunciamiento a este Servicio, que confirme el criterio relacionado con la deducción de pérdidas obtenidas en la enajenación de acciones de sociedades anónimas abiertas. I.- ANTECEDENTES.
-Manifiesta que este Servicio, a través del Oficio N°1.148 de 2012, concluyó que las pérdidas provenientes de la enajenación de acciones de sociedad anónimas sujetas al régimen general del impuesto de Primera Categoría o al régimen de excepción consagrado en el derogado artículo 18 ter de la Ley sobre Impuesto a la Renta, contenido actualmente en similares términos en el N°1 del artículo 107 del mismo texto legal, sólo pueden deducirse de utilidades sujetas al mismo régimen.
-Teniendo en consideración el referido pronunciamiento, solicita se aclare si este criterio permanece vigente y si tiene aplicación sólo respecto de acciones que tienen presencia bursátil o encuentra también aplicación para la enajenación de acciones que carecen de tal presencia.
-II- ANÁLISIS.
-Sobre el particular, cabe señalar en primer término que efectivamente este Servicio a través del Oficio N°1.148 de 2012, recogió el principio general establecido en la Circular N°68 de 2010 , estableciendo que las pérdidas provenientes de enajenaciones sujetas al régimen general del Impuesto de Primera Categoría o al régimen de excepción consagrado en el derogado artículo 18 ter de la LIR, contenido en similares términos en el actual N° 1 del artículo 107 del mismo texto legal, sólo pueden deducirse de utilidades afectas al mismo régimen de tributación, sin perjuicio del ejercicio de parte de este Servicio de sus facultades de fiscalización, en especial aquellas que permiten tasar el precio de tales transacciones, cuando éste no se haya ajustado a los corrientes en plaza o que se cobren en convenciones de similar naturaleza, considerando la circunstancia en que se realiza la operación, criterio coincidente con lo señalado también por el Servicio, en el sentido que los costos, gastos y desembolsos incurridos por los contribuyentes en el ejercicio de sus operaciones, deben ser imputados a los ingresos del régimen tributario que correspondan .
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12°, LETRA B), N°10 – CIRCULAR N° 48, DE 1978. (ORD. N° 1148, DE 27.04.2015)
+PROCEDENCIA DE EXENCIÓN TRIBUTARIA, CONFORME AL ARTÍCULO 12°, LETRA B), N° 10 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
+I. ANTECEDENTES: En documento aludido en el antecedente se indica que se recibió en dicha Secretaría de Estado, una presentación de la empresa XXX, donde solicita se informe sobre la procedencia de la exención tributaria conforme al artículo 12°, letra B), N° 10 de la Ley sobre Impuesto a las Ventas y Servicios.
+En dicha presentación solicita se aclare si procede dicha exención cuando el inversionista nacional realiza el proyecto de inversión a través de un contrato a suma alzada, lo que implicaría que quien importa los bienes de capital sería el constructor de dicho proyecto y no el inversionista propiamente tal.
+Añade que sobre la materia, corresponde anotar que el artículo 12°, letra B), N° 10 de la Ley sobre Impuesto a las Ventas y Servicios establece una exención al inversionista nacional cuando se cumplen dos requisitos: a) Que la importación se trate de bienes de capital que no se produzcan en Chile en calidad o cantidad suficiente, y b) Que los referidos bienes de capital formen parte de un proyecto similar de inversión nacional, que sea considerado de interés para el país.
+Señala que dicha norma establece que corresponderá al Ministerio de Economía, Fomento y Turismo calificar las circunstancias que hacen procedente la declaración de interés para el país. No obstante ello, no correspondería a ese Ministerio determinar el alcance de dicha norma en relación con los requisitos de ejecución del proyecto.
+II. ANÁLISIS:
+Sobre el particular, cabe señalar que de conformidad al artículo 12°, letra B), N° 10, del D.L. N° 825, se desprende que la franquicia en comento es de carácter personal ya que favorece la importación de bienes de capital que cumplan con los requisitos allí establecidos cuando ésta es efectuada por un inversionista nacional.
+Tal situación es confirmada en la misma Circular emitida al respecto que en su numeral N° 5 señala que “5.- En el caso del inversionista nacional, también la disposición en análisis constituye una exención de tipo personal, (…)”.
+En razón de lo anterior, no es posible que una persona distinta del inversor nacional, a quien le beneficia la franquicia, pueda favorecerse con aquélla.
 
-Precisado lo anterior y atendido el principio rector en materia de deducción de gastos, y en consecuencia de pérdidas, se informa que el criterio contenido en el Oficio N°1.148 de 2012, de este Servicio se encuentra vigente.
-Lo anterior se ve reforzado por lo establecido en el número 5, del artículo 107 de la LIR, en cuanto dispone que las pérdidas obtenidas en la enajenación, en bolsa o fuera de ella, de los valores a que se refiere dicho artículo, solamente serán deducibles de los ingresos no constitutivos de renta del contribuyente.
-Pues bien, las acciones que pueden gozar de los beneficios de que trata el número 1, del artículo 107 de la LIR y que por tanto, también deben sujetarse a la regla establecida en el numeral 5 del mismo, corresponden a aquellas que se posean en sociedades anónimas abiertas constituidas en Chile y que tengan presencia bursátil al momento de su enajenación, o bien, se encuentren en la situación que contempla el número 4, del artículo 107, esto es, que se enajenen dentro de los 90 días siguientes a aquel en que el título o valor hubiere perdido presencia bursátil.
-De acuerdo a lo anterior, respecto de su consulta sobre si el criterio expuesto en el Oficio 1.148 encuentra aplicación sólo respecto de acciones que tienen presencia bursátil o también a aquellas que no la tienen, cabe señalar que dicho criterio resulta aplicable sólo a aquellas acciones a que se refiere el artículo 107 de la LIR, es decir, a aquellas que tienen presencia bursátil al momento de su enajenación, o bien a aquellas que se enajenen dentro de los 90 días siguientes a aquel en que el título o valor hubiere perdido presencia bursátil.
-
-III-CONCLUSION.
-Se confirma en todas sus partes lo resuelto por el Oficio N°1.148 de 2012 de este Servicio, aplicándose dicho criterio respecto de pérdidas originadas en la enajenación de acciones de sociedades anónimas abiertas constituidas en Chile con presencia bursátil, y a aquellas del mismo tipo que se enajenen dentro de los 90 días siguientes a aquel en que el título o valor hubiere perdido presencia bursátil.
+III. CONCLUSIÓN:
+De lo anterior se concluye que no procede la exención establecida en el artículo 12°, letra B), N° 10 del D.L. N° 825 cuando la importación es llevada a cabo por una persona distinta de aquellas beneficiadas personalmente por la exención en conformidad a la norma vigente.
 
 MICHEL JORRATT DE LUIS
 DIRECTOR (T y P)
 
-Oficio N° 495, de 13.02.2015
+Oficio N° 1148, de 27.04.2015
 Subdirección Normativa
-Dpto. de Impuestos Directos
+Dpto. de Impuestos Indirectos

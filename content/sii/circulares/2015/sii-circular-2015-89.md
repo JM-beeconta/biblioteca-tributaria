@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Sustituye capítulo XIII de la Circular N° 21, de 19.04.2013, en materia de Política de Transparencia, incorporado en el referido cuerpo normativo por la Circular N° 41 de 05.09.2013 Fuente: Departamento de Asesoría Jurídica
+n Normativa Sustituye capítulo XIII de la Circular N° 21, de 19.04.2013, en materia de Política de Transparencia, incorporado en el referido cuerpo normativo por la Circular N° 41 de 05.09.2013 Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

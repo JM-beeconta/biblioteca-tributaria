@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de Impuesto &uuml;nico de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2014 e información adicional relacionada con dicho tributos Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de Impuesto ünico de Segunda Categoría y del Impuesto Global Complementario para el mes de octubre del año 2014 e información adicional relacionada con dicho tributos Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

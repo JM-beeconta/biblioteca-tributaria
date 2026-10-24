@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n Internacional. Establece procedimiento de presentación y tramitación de las solicitudes de rectificación conforme al N°8 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento Fiscalización Internacional.
+n Internacional. Establece procedimiento de presentación y tramitación de las solicitudes de rectificación conforme al N°8 del art. 41 E de la Ley sobre Impuesto a la Renta. Fuente: Departamento Fiscalización Internacional.
 
 ## Referencias detectadas
 

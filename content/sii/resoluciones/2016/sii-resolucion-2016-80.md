@@ -11,7 +11,7 @@
 
 ## Resumen
 
-randes Contribuyentes Establece requisitos que deben cumplir las entidades que se indican para ser receptoras de la &ldquo;carpeta tributaria electrónica&rdquo;. Fuente: Subdirección de Asistencia al Contribuyente
+randes Contribuyentes Establece requisitos que deben cumplir las entidades que se indican para ser receptoras de la “carpeta tributaria electrónica”. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

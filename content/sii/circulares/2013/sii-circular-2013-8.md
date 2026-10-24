@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2013 y el 9 de marzo del año 2013. Fuente: Oficina de Gestión Normativa
+n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2013 y el 9 de marzo del año 2013. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

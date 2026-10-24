@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a Declarar en el año tributario 2015, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
+n Normativa Informa porcentaje de reajuste a aplicar a los Impuestos Anuales a la Renta a Declarar en el año tributario 2015, de acuerdo a lo dispuesto por el Artículo 72 de la Ley sobre Impuesto a la Renta. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

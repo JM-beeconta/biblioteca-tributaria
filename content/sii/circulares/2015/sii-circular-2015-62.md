@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Imparte instrucciones sobre el procedimiento de consulta pública de circulares e instrucciones que interpreten con carácter general normas tributarias o que modifiquen criterios interpretativos previos. Fuente: Departamento de Asesoría Jurídica
+n Normativa Imparte instrucciones sobre el procedimiento de consulta pública de circulares e instrucciones que interpreten con carácter general normas tributarias o que modifiquen criterios interpretativos previos. Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

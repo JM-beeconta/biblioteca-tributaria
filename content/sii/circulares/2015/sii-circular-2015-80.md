@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Aclara y precisa el concepto de &ldquo;laboratorio&rdquo;, para efectos de gravar la actividad desarrollada por estos establecimientos con el Impuesto al Valor Agregado. Fuente: Impuestos Indirectos
+n Normativa Aclara y precisa el concepto de “laboratorio”, para efectos de gravar la actividad desarrollada por estos establecimientos con el Impuesto al Valor Agregado. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

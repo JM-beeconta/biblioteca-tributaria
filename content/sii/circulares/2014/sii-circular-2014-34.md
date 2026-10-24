@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre el tratamiento tributario de las donaciones con fines culturales,a raíz de la sustitución del artículo 8° de la Ley N°18.985, efectuada por el artículo único de la Ley N°20.675. Fuente: Impuestos Directos
+n Normativa Instruye sobre el tratamiento tributario de las donaciones con fines culturales,a raíz de la sustitución del artículo 8° de la Ley N°18.985, efectuada por el artículo único de la Ley N°20.675. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

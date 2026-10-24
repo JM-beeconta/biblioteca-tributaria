@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas del Impuesto Único De Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2016 e información adicional relacionada con dichos Tributos. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas del Impuesto Único De Segunda Categoría y del Impuesto Global Complementario para el mes de febrero del año 2016 e información adicional relacionada con dichos Tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Modifica instrucciones impartidas en Circular N° 23 del 03 de Mayo de 2013, referente a la obligación de informar ciertas modificaciones directamente en el Servicio de Impuestos Internos para Sociedades por Acciones, Sociedades en Comandita por Acciones, Sociedades Anónimas Cerradas y Sociedades Anónimas de Garantía Recíproca. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n Normativa Modifica instrucciones impartidas en Circular N° 23 del 03 de Mayo de 2013, referente a la obligación de informar ciertas modificaciones directamente en el Servicio de Impuestos Internos para Sociedades por Acciones, Sociedades en Comandita por Acciones, Sociedades Anónimas Cerradas y Sociedades Anónimas de Garantía Recíproca. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

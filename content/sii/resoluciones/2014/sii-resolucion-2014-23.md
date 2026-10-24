@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;a Jurídica Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa
+a Jurídica Establece escala de tasas conforme al precio internacional de los minerales que se indican y para los efectos que se señalan. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

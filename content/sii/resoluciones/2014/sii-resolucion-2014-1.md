@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 01 del 08 de Enero del 2014 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluido el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/docu…
+n de Avaluaciones Resolución Exenta SII N° 01 del 08 de Enero del 2014 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluido el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/document…
 
 ## Referencias detectadas
 

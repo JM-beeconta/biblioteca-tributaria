@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 01 del 02 de Enero del 2015 Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes en el extranjero o en Chile a través de entes en el exterior, para el pago de un impuesto único y sustitutivo de aquellos no declarados o pagados en su oportunidad legal. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val()…
+n de Avaluaciones Resolución Exenta SII N° 01 del 02 de Enero del 2015 Fija formato e instrucciones de formulario N° 1920 y establece la forma en que los contribuyentes podrán acogerse al sistema de declaración voluntaria y extraordinaria de bienes en el extranjero o en Chile a través de entes en el exterior, para el pago de un impuesto único y sustitutivo de aquellos no declarados o pagados en su oportunidad legal. Fuente: Subdirección de Fiscalización function ir_anyo(){ var anyo = $('select#sel_anyo').val() var…
 
 ## Referencias detectadas
 

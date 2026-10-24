@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N°20.732, de 2014, para las cuotas 1 y 2 de 2014. Fuente: Subdirección de Avaluaciones
+n de Avaluaciones Establece forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la Ley N°20.732, de 2014, para las cuotas 1 y 2 de 2014. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

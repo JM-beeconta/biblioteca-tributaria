@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2016 y/o hasta el 30 de abril de 2017, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2015 y/o al 31 de diciembre de 2016. Fuente: Impuestos Directos
+n Normativa Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2016 y/o hasta el 30 de abril de 2017, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2015 y/o al 31 de diciembre de 2016. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

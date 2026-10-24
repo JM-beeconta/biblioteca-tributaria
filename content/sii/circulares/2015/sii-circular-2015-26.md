@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2015 y el 9 de mayo del año 2015. Fuente: Oficina de Destión Normativa
+n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2015 y el 9 de mayo del año 2015. Fuente: Oficina de Destión Normativa
 
 ## Referencias detectadas
 

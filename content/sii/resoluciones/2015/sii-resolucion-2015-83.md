@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Modifica Resolución Ex. SII N° 1, de 2015, que establece la forma en que los contribuyentes podrán acogerse al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el extranjero contenido en el artículo vigesimocuarto transitorio de la Ley N° 20.780 publicada en el Diario Oficial de 29 de septiembre de 2014. Fuente: Subdirección de Fiscalización
+n de Avaluaciones Modifica Resolución Ex. SII N° 1, de 2015, que establece la forma en que los contribuyentes podrán acogerse al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el extranjero contenido en el artículo vigesimocuarto transitorio de la Ley N° 20.780 publicada en el Diario Oficial de 29 de septiembre de 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

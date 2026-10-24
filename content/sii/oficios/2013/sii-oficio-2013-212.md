@@ -4,43 +4,42 @@
 - Tipo: oficio
 - Número: 212
 - Año: 2013
-- Fecha: 2013-12-16
+- Fecha: 2013-01-31
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja2590.htm
-- Hash SHA-256: 5fa18a85c18ecefce3daf3a8ca0fa36b292f470fb865f9f9f85b40390e278012
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja212.htm
+- Hash SHA-256: cd6180b4636d8984ec2fa2b29f2a75d31819e42226053fb9bd44ec6ee063d434
 
 ## Resumen
 
-Ley sobre Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Cuadro Anexo, Párrafo I, Letra A), N°1 &ndash; . (Ord. Nº 2590, de 16-12-2013) |
+Ley sobre Impuesto Territorial – Ley N° 17.235 – Art. 27°, Cuadro Anexo, párrafo I, letra A, número 1) – Código Tributario, Art. 15°, Art. 26° – Oficio N° 1321, de 2011. (Ord. Nº 212, de 31-01-2013) | | Word Aplicación de la exención de pago de contribuciones conforme al Cuadro Anexo, Párrafo I, Letra A, Nº 1, de la Ley N° 17.235, sobre Impuesto Territorial.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":212,"year":2013}
+- {"type":"oficio","number":1321,"year":2011}
+- {"type":"articulo","law":"CT","article":"26"}
 
 ## Texto extraído
 
-LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – CUADRO ANEXO, PÁRRAFO I, LETRA A), N°1 – OFICIO N° 212, DE 2013. (ORD. N° 2590, DE 16.12.2013)
-SE HA SOLICITADO A ESTA DIRECCIÓN NACIONAL UN PRONUNCIAMIENTO SOBRE LA APLICACIÓN AL BANCO CENTRAL DE CHILE, DE LA EXENCIÓN DE CONTRIBUCIONES QUE FAVORECE A LOS INMUEBLES FISCALES, ESTABLECIDA EN EL CUADRO ANEXO DE LA LEY N° 17.235, SOBRE IMPUESTO TERRITORIAL.
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 27°, CUADRO ANEXO, PÁRRAFO I, LETRA A, NÚMERO 1) – CÓDIGO TRIBUTARIO, ART. 15°, ART. 26° – OFICIO N° 1321, DE 2011. (ORD. N° 212, DE 31.01.2013)
+APLICACIÓN DE LA EXENCIÓN DE PAGO DE CONTRIBUCIONES CONFORME AL CUADRO ANEXO, PÁRRAFO I, LETRA A, Nº 1, DE LA LEY N° 17.235, SOBRE IMPUESTO TERRITORIAL – CONCEPTO DE SERVICIO PÚBLICO – CAMBIO DE CRITERIO.
+ANTECEDENTES De acuerdo a su presentación, la Defensoría Penal Pública inició formalmente sus actividades en la ciudad de TTT el día xx.xx.xxx, arrendando para su funcionamiento dependencias en xxx. Agrega que en la actualidad (diciembre de 2009) es dueña de un inmueble ubicado en xxx, de esa ciudad, próximo a remodelarse mediante licitación pública en proceso.
+Tras indicar el rol de avalúo del mencionado inmueble, solicita otorgar la exención de pago de contribuciones al inmueble individualizado por ser éste de propiedad fiscal.
+ANÁLISIS
+El texto vigente del Cuadro Anexo, Ley Nº 17.235, párrafo I, letra A, número 1), establece una exención de Impuesto Territorial a favor de la persona jurídica Fisco. En consecuencia, la franquicia se aplica a las entidades, organismos o instituciones que actúan bajo la personalidad jurídica del Fisco, tal como fuera resuelto en un pronunciamiento anterior .
+Sin embargo, cabe precisar que la redacción del Cuadro Anexo en la parte citada, incluye en la exención los bienes raíces pertenecientes, entre otras instituciones, a los ‘Servicios Públicos’, con excepción de aquellos que correspondan a sus sedes matrices , sin distinguir expresamente la ley si se trata de servicios públicos con o sin personalidad jurídica propia.
+Sobre esta materia, debe considerarse el concepto de ‘servicio público’ empleado por la Contraloría General de la República, en el sentido que aquellos se encuadran dentro del sector fiscal (administración central) o bien dentro del sector autónomo (administración descentralizada), según la personalidad jurídica que los habilite para actuar y atendiendo a la naturaleza de sus recursos. Luego, y a falta de regla en contrario, debe concluirse que mantienen su exención los bienes inmuebles pertenecientes a servicios públicos que no constituyan sedes matrices de sus respectivos servicios, sea que posean o no personalidad jurídica y patrimonio propio.
+Estrechamente vinculado a lo anterior, debe considerarse que el mismo número 1) citado, en concordancia con lo dispuesto en el artículo 27 de la Ley sobre Impuesto Territorial, establece un beneficio a favor de los ‘funcionarios públicos’ que por razones inherentes a sus cargos deben residir en predios fiscales (inciso final). Sobre esta materia, la Contraloría ha sostenido que también son funcionarios públicos, en general, quienes sirven en servicios públicos descentralizados, integrantes de la administración del Estado .
+Luego, dado el concepto amplio de ‘funcionario público’, debe entenderse que son bienes fiscales a que refiere el artículo 27, tanto los que pertenecen al Fisco como aquellos que pertenecen a servicios públicos con personalidad jurídica y patrimonio propios.
+Lo anterior permite confirmar que la exención de los Servicios Públicos a que se refiere el Cuadro Anexo, comprende también a aquellos que tienen personalidad jurídica propia.
 
-I. ANTECEDENTES
-De acuerdo a la presentación, actualmente el patrimonio del Banco Central de Chile se compone de los siguientes bienes raíces: i) AAA ii) BBB iii) CCC; iv) DDD y, v) YYY.
+CONCLUSIÓN
+Siendo la Defensoría Penal Pública un servicio público , el inmueble individualizado se encuentra amparado por la exención contenida en el referido Cuadro Anexo, en la medida que no corresponde a alguna de las sedes matrices incluidas en el Decreto N° 1187, del Ministerio de Hacienda, de 2006, que identifica las propiedades correspondientes a sedes matrices afectas a Impuesto Territorial.
+Lo expuesto constituye un cambio de criterio por parte de esta Dirección Nacional. Por tanto, ha quedado sin efecto lo indicado en pronunciamientos anteriores, en que se resolvió que no estaban amparadas bajo la exención referida los bienes raíces pertenecientes a servicios públicos descentralizados o con personalidad jurídica y patrimonio propios, que no actúan bajo la personalidad jurídica del Fisco.
+De acuerdo a lo señalado en el artículo 26, inciso tercero, del Código Tributario, en relación con el artículo 15 del mismo código, se publicará este oficio en extracto en el Diario Oficial.
 
-Respecto de todos estos inmuebles, se solicita confirmar la procedencia de la exención de pago del Impuesto Territorial establecida en favor del Fisco en el número 1), de la letra A), del Párrafo I, del Cuadro Anexo de la Ley N° 17.235, en virtud del cambio de criterio resuelto en el Oficio N° 212 de 2013, cuyo extracto se publicó en el Diario Oficial de fecha 15.03.2013, considerando para ello que ese Instituto emisor reúne, según indica, características similares a las que fueron consideradas por este Servicio al establecer la exención a favor de la Defensoría Penal Pública, ya que se trata de un organismo autónomo, que cuenta con personalidad jurídica y patrimonio propio y, como tal, ejerce funciones públicas descritas en su Ley Orgánica Constitucional.
-II. ANÁLISIS
-Al respecto cabe señalar que el criterio vigente del Servicio sobre la materia, es que la exención de Impuesto Territorial que se cita en la presentación , procede respecto de los Servicios Públicos, centralizados y descentralizados, tengan o no personalidad jurídica y patrimonio propios, en la medida que los inmuebles beneficiados no correspondan a alguna de las sedes matrices de los mismos Servicios, indicadas en el Decreto N° 1.187 del Ministerio de Hacienda, de 2.006 .
-Por otra parte, debe considerarse que el artículo 25 de la Ley Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, establece que los servicios públicos son órganos administrativos encargados de satisfacer necesidades colectivas, de manera regular y continua, y que están sometidos a la dependencia o supervigilancia del Presidente de la República a través de los respectivos Ministerios, cuyas políticas, planes y programas les corresponderá aplicar.
-Asimismo, el artículo 26 de la citada ley establece que los servicios públicos serán centralizados o descentralizados. Los servicios centralizados actuarán bajo la personalidad jurídica y con los bienes y recursos del Fisco y estarán sometidos a la dependencia del Presidente de la República, a través del Ministerio correspondiente. Los servicios descentralizados actuarán con la personalidad jurídica y el patrimonio propios que la ley les asigne y estarán sometidos a la supervigilancia del Presidente de la República a través del Ministerio respectivo. La descentralización podrá ser funcional o territorial.
-De las disposiciones legales citadas resulta claro que los Servicios Públicos se caracterizan por el hecho de constituir órganos de la Administración del Estado sometidos a la dependencia o supervigilancia del Presidente de la República a través del Ministerio respectivo, sin que sea relevante para su calificación como tal, la circunstancia de que gocen o no de personalidad jurídica y patrimonio propio.
-Por su parte, el Banco Central de Chile, conforme a lo establecido en la Constitución Política de la República y en la ley N° 18.840, Ley Orgánica Constitucional de la entidad (LOC), es un organismo autónomo, de rango constitucional, de carácter técnico, con personalidad jurídica, patrimonio propio y duración indefinida . Asimismo, la LOC dispone que el Banco, en el ejercicio de sus funciones y atribuciones, se regirá exclusivamente por las normas de esa ley orgánica y no le serán aplicables, para ningún efecto legal, las disposiciones generales o especiales, dictadas o que se dicten para el sector público. Subsidiariamente y dentro de su competencia, se regirá por las normas del sector privado (Artículo 2°).
-Por consiguiente, este organismo no se encuadra bajo el concepto de Servicio Público contenido en la Ley N° 18.575, pues no se encuentra sometido a la dependencia o supervigilancia del Presidente de la República a través de algún Ministerio.
-La situación es distinta de la Defensoría Penal Pública, a que se alude en la consulta, pues la ley N° 19.718, que crea este organismo, establece expresamente que es un servicio público, ‘sometido a la supervigilancia del Presidente de la República a través del Ministerio de Justicia’ (artículo 1°). Esta circunstancia determina que sea aplicable la exención de contribuciones citada, que se refiere precisamente a los ‘servicios públicos’.
-III. CONCLUSIÓN
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
 
-De acuerdo a lo expuesto se informa que el Banco Central de Chile no se encuentra beneficiado con la exención de Impuesto Territorial que favorece, entre otros organismos, a los Servicios Públicos, establecida en el Párrafo I, letra A), número 1), del Cuadro Anexo de la Ley 17.235.
-
-ALEJANDRO BURR ORTÚZAR
-DIRECTOR (S)
-
-Oficio N° 2590, de 16.12.2013
+Oficio N°212, de 31.01.2013
 Subdirección Normativa
-Dpto. de Técnica Tributaria.
+Dpto., de Técnica Tributaria

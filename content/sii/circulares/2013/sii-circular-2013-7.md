@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas no habitacionales reavaluados. Fuente: Subdirección de Avaluaciones Departamento de Catastro y Tasaciones.
+n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de bienes raíces no agrícolas no habitacionales reavaluados. Fuente: Subdirección de Avaluaciones Departamento de Catastro y Tasaciones.
 
 ## Referencias detectadas
 

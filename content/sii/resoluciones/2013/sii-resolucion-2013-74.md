@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Jurídica Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n Jurídica Autoriza como Emisores de Documentos Tributarios Electrónicos y Boletas Electrónicas a contribuyentes que señala Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

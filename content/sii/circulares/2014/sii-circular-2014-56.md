@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de Cálculos de reajustes, Intereses y Multas noviembre 2014. Fuente: Subdirección de Fiscalización
+n Normativa Tabla de Cálculos de reajustes, Intereses y Multas noviembre 2014. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

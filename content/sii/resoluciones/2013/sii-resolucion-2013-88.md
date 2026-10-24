@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n Recursos Humanos Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n Recursos Humanos Autoriza como emisores de documentos tributarios electrónicos y boletas electrónicas a contribuyentes que señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

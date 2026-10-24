@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la ley N°19.537 Fuente: Subdirección de Avaluaciones.
+n Normativa. Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la ley N°19.537 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

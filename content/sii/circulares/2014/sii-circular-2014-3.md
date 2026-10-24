@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2014 Fuente: Oficina Gestión Normativa
+n Normativa Informa nuevos límites máximos imponibles para los efectos previsionales vigentes para el año calendario 2014 Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

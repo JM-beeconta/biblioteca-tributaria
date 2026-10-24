@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos del FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2013. Fuente: Oficina de Gestión Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2013');
+n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de remanentes o saldos negativos del FUT y FUNT y Tabla de Impuesto Global Complementario correspondiente al año tributario 2013. Fuente: Oficina de Gestión Normativa. function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2013');
 
 ## Referencias detectadas
 

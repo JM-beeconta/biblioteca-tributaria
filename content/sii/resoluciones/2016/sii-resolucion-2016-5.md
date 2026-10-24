@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Resolución Exenta SII N° 05 del 22 de Enero del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n de Avaluaciones Resolución Exenta SII N° 05 del 22 de Enero del 2016 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

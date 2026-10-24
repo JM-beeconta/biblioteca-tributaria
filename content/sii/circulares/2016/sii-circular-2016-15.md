@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre la situación tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artículo 2°, de la Ley N° 20.809, y el artículo 41 de la Ley N°16.441. Fuente: Impuestos Directos
+n Normativa Instruye sobre la situación tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artículo 2°, de la Ley N° 20.809, y el artículo 41 de la Ley N°16.441. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

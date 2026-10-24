@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa
+n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de marzo del año 2015 e información adicional relacionada con dichos tributos Fuente: Oficina Gestión Normativa
 
 ## Referencias detectadas
 

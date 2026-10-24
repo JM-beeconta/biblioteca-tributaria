@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2015 e Información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas del Impuesto Único de Segunda Categoría y del Impuesto Global Complementario para el mes de diciembre del año 2015 e Información adicional relacionada con dichos tributos. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

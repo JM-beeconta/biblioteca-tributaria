@@ -4,84 +4,38 @@
 - Tipo: oficio
 - Número: 614
 - Año: 2015
-- Fecha: 2015-12-31
+- Fecha: 2015-02-26
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2874.htm
-- Hash SHA-256: 3756f8d58781952d71be7ebe1f03195e6c7a1bd65594c99f3f887f0f85ed3820
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja614.htm
+- Hash SHA-256: ca42ca578ff1513926da2e71b1e0543ee8a82a3091ebe5d7efa2d90353c5e901
 
 ## Resumen
 
-2px;text-align:justify;'> Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 95 &ndash; Resoluciones Exentas N° 27, de 2009 y N° 62, de 2008 &ndash; . (Ord. Nº 2875, de 18-10-2016) | Word Consulta sobre aplicación de tipo de cambio para caso que indica. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 14, Letra A), N°3, Letra b), N°2 &ndash; Ley N° 20.780, de 2014, Art. 3 transitorio &ndash; Ley N° 20.899, de 2016. (Ord. Nº 2874, de 18-10-2016) | Word Régimen opcional y transitorio del artículo pri…
+Renta – Actual Ley sobre Impuesto a la – Compendio de Normas de Cambios Internacionales Título I, Capítulo I, N°6 – Resolución Exenta N° 27, de 2009. (Ord. Nº 614, de 26-02-2015) | | Word Forma de imputar los Pagos Provisionales Mensuales (PPM) pagados en pesos, por un contribuyente autorizado a llevar su contabilidad en moneda extranjera, y que durante el ejercicio es autorizado a declarar y pagar sus impuestos en la misma moneda en la que lleva su contabilidad.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":17,"year":2016}
-- {"type":"circular","number":10,"year":2015}
-- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"articulo","law":"LIR","article":"95"}
+- {"type":"articulo","law":"CT","article":"18"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, LETRA A), N°3, LETRA B), N°2 – LEY N° 20.780, DE 2014, ART. 3 TRANSITORIO – LEY N° 20.899, DE 2016. (Ord. Nº 2874, de 18-10-2016)
-
-RÉGIMEN OPCIONAL Y TRANSITORIO DEL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY N°20.899.
-
-Se ha recibido en esta Dirección Nacional, la presentación indicada en el antecedente mediante la cual solicita un pronunciamiento respecto a factibilidad de considerar dentro de las rentas que pueden acogerse al pago del impuesto sustitutivo al FUT las reinversiones de utilidades percibidas por un contribuyente en su calidad de empresario individual.
-
-I.- ANTECEDENTES.
-
-Manifiesta que un empresario individual, que cumple los requisitos del artículo 1° transitorio de la Ley N° 20.899, para optar por el pago del impuesto sustitutivo sobre las utilidades acumuladas en el FUT al 31 de diciembre de 2015, además en su calidad de persona natural es socio de una Sociedad de Personas, desde la cual efectuó retiros destinados a reinversión hacia su empresa individual durante el año 2015, en cuya contabilidad no se encuentran asignados sus derechos sociales o inversión en la referida sociedad.
-
-En este sentido, solicita la confirmación de este Servicio en cuanto a que el monto total del FUT acumulado al 31 de diciembre de 2015, incluida la reinversión recibida en ese mismo año, se puede acoger al pago del impuesto sustitutivo establecido en el artículo primero transitorio de la Ley N° 20.899.
-
-Al respecto, indica que con fecha 30 de enero de 2015, este Servicio emitió la Circular N°10, en la que instruyó sobre diversas modificaciones a la Ley sobre Impuesto a la Renta, a raíz de la publicación de la Reforma Tributaria, Ley N°20.780. Entre las modificaciones incluidas en la citada Circular, se instruyó sobre el tratamiento tributario y registro de las reinversiones, indicando que a partir del 1° de enero del año 2015, producto de la modificación del artículo 14 de la LIR[1], las reinversiones efectuadas en Sociedades de Personas tendrían el mismo tratamiento tributario de aquellas efectuadas en la adquisición de acciones de pago de Sociedades Anónimas, esto es, ser controladas en un registro separado del FUT, que para todos los efectos pasa a denominarse Fondo de Utilidades Reinvertidas (FUR).
-
-Sin perjuicio de lo anterior, en el mismo contexto, menciona que el SII aclaró expresamente que:
-
-&ldquo;Se hace presente que el régimen de reinversiones efectuadas en una empresa individual, no ha sido objeto de modificaciones, razón por la cual se aplican las normas e instrucciones impartidas por este Servicio sobre la materia hasta antes de la modificación analizada".
-
-Esta afirmación, implica que las reinversiones efectuadas hacia una empresa individual deben seguir siendo obligatoriamente incorporadas al FUT.
-
-En el contexto de la simplificación a la Reforma Tributaria, con fecha 8 de febrero de 2016, fue publicada la Ley N°20.899, frente a la cual este Servicio emitió la Circular respectiva, con el propósito de dictar instrucciones sobre el régimen opcional y transitorio, vigente durante el año comercial 2016 y/o hasta abril de 2017, sobre el pago de un tributo sustitutivo de los impuestos finales sobre las utilidades acumuladas en el registro FUT. Dicha norma se encuentra contenida en el artículo primero de las disposiciones transitorias de la Ley N° 20.899.
-
-En la referida Circular, cuando el Servicio se refiere a los "Requisitos para acogerse al régimen transitorio y opcional de tributación sobre las utilidades tributables acumuladas en el FUT", señala que "Los contribuyentes del IDPC, deben mantener un saldo positivo de utilidades tributables en el FUT, pendiente de tributación con el lGC o lA al 31 de diciembre de los años 2015 o 2016" agregando que no podrá someterse a éste régimen opcional y transitorio, la diferencia por depreciación y "todas" las reinversiones recibidas durante 2015 y 2016, y las efectuadas en la adquisición de acciones de pago previamente a dichos años, toda vez que estas reinversiones no se encuentran actualmente contenidas en el FUT, sino que anotadas en forma separada en el mismo registro, pero sin formar parte de él.
-
-Correcto entendimiento de una lectura armónica de ambas Circulares.
-
-La situación de las reinversiones realizadas en los años 2015 y 2016 a una empresa individual, de conformidad a la normativa legal y administrativa vigente, no se encuentran en la situación general señalada en la Circular N°17 del año 2016, sino que en la situación particular debidamente reconocida en la Circular 10 del año 2015.
-
-Conforme a lo anterior, resulta razonable concluir, que cuando el Servicio se refiere a que no se pueden acoger al pago del impuesto sustitutivo "todas" las reinversiones recibidas durante 2015 y 2016 (según la Circular N°17 de 2016), se refiere solamente a aquellas que forman parte del FUR, y no aquellas reinversiones que se han realizado en una empresa individual.
-
-En vista del análisis normativo anteriormente expuesto, viene en solicitar a este Servicio, se confirme que aquellas reinversiones recibidas por una empresa individual durante el año comercial 2015 y 2016, resultan plenamente susceptibles de acogerse al pago del Impuesto Sustitutivo establecido por medio del artículo primero transitorio de la Ley N° 20.899, y que lo señalado por la Circular N°10 de 2015, respecto a las reinversiones en una empresa individual, se encuentra plenamente vigente a la fecha.
-
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES TÍTULO I, CAPÍTULO I, N°6 – RESOLUCIÓN EXENTA N° 27, DE 2009. (ORD. N° 614, DE 26.02.2015)
+FORMA DE IMPUTAR LOS PAGOS PROVISIONALES MENSUALES (PPM) PAGADOS EN PESOS, POR UN CONTRIBUYENTE AUTORIZADO A LLEVAR SU CONTABILIDAD EN MONEDA EXTRANJERA, Y QUE DURANTE EL EJERCICIO ES AUTORIZADO A DECLARAR Y PAGAR SUS IMPUESTOS EN LA MISMA MONEDA EN LA QUE LLEVA SU CONTABILIDAD.
+I.- ANTECEDENTES. Señala, que una empresa fue autorizada en febrero de 2009 a llevar su contabilidad en dólares de los Estados Unidos de América, con excepción de los libros de compras y ventas, de remuneraciones y retenciones. Con posterioridad, se autorizó a la misma sociedad a pagar sus impuestos en dólares, entre ellos sus PPM, siempre que los impuestos a los que se imputan fueran declarados en la misma moneda. La autorización rige a contar del Año Tributario 2010, para la presentación del formulario N° 22, y del mes de septiembre de 2009, para el formulario 50. A juicio de esa Dirección, para los fines de la imputación de los PPM pagados en pesos en los meses anteriores a la referida autorización, éstos se deben actualizar al cierre del ejercicio según la variación del IPC entre la fecha de su pago y el 31 de diciembre, de acuerdo a los artículos 41 N° 4 y 95, de la Ley sobre Impuesto a la Renta (LIR), y el monto resultante convertirlo a dólares según el tipo de cambio observado al término del ejercicio.
+El N°1), del artículo 18, del Código Tributario, dispone como regla general que, para todos los efectos tributarios, los contribuyentes llevarán contabilidad, presentarán sus declaraciones de impuestos y efectuarán el pago de los mismos en moneda nacional. De acuerdo con el N° 2 del mismo artículo, este Servicio puede autorizar en ciertos casos, por resolución fundada, que determinados contribuyentes o grupos de contribuyentes lleven su contabilidad en moneda extranjera. Conforme a lo establecido por la letra a), del N° 3), del citado artículo, este Servicio está facultado también para autorizar a los contribuyentes que lleven su contabilidad en moneda extranjera, para que declaren todos o algunos de los impuestos que les afecten en la moneda extranjera en que llevan su contabilidad. Finalmente, el inciso 5°, del referido N° 3), agrega que las resoluciones que se dicten en conformidad al mismo, determinarán el período tributario a contar del cual el contribuyente quedará obligado a declarar y, o pagar sus impuestos y recargos respectivos en moneda extranjera.
 II.- ANÁLISIS.
-
-El artículo primero de las disposiciones transitorias de la Ley N° 20.899[2], establece que a partir del 1° de enero de 2016 los contribuyentes sujetos al impuesto de primera categoría sobre la base de un balance general según contabilidad completa, que mantengan un saldo de utilidades no retiradas, remesadas o distribuidas pendientes de tributación con los impuesto global complementario o adicional al término de los años comerciales 2015 o 2016, podrán optar por pagar a título de impuesto de la Ley sobre Impuesto a la Renta, un tributo sustitutivo de los impuestos finales, sobre una parte o el total de dicho saldo de utilidades, aplicando al efecto lo dispuesto en el número 11, del numeral I.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, con determinadas modificaciones[3].
-
-Para estos fines, la referida ley exige como requisito que los contribuyentes hayan iniciado actividades con anterioridad al 1° de diciembre de 2015, y que las rentas sean determinadas conforme a lo dispuesto en la letra A), del artículo 14 de la Ley sobre Impuesto a la Renta, según su texto vigente al 31 de diciembre de 2016.
-
-Como se observa, la norma en comento establece que el monto de las rentas sobre la cuales el contribuyente puede optar por pagar un impuesto sustitutivo de los impuestos finales corresponde a aquellas determinadas conforme a la letra A), del artículo 14 de la LIR. Ahora bien, la letra a), del N°3, de dicha norma prescribe que en el fondo de utilidades tributables (FUT) se anotará, entre otros, todos los demás ingresos, beneficios o utilidades percibidos o devengados, que sin formar parte de la renta líquida del contribuyentes estén afectos a los impuestos global complementario o adicional cuando se retiren o distribuyan, como sería el caso de las reinversiones de utilidades percibidas en los términos del N° 2, de la letra A), del artículo 14 de la LIR.
-
-No obstante lo anterior, de acuerdo al inciso cuarto, del N° 2, del artículo 14 de la LIR, vigente por los períodos comerciales 2015 y 2016, las inversiones que se efectúen en acciones de pago de sociedades anónimas o aportes a sociedades de personas no pasarán a formar parte del fondo de utilidades tributables (FUT) de la sociedad que recibe la inversión, sino que se registrarán en el fondo de utilidades reinvertidas (FUR) a que se refiere el inciso segundo de la letra b), del N° 3, de la letra A), del artículo 14 de la LIR. En consecuencia, tales cantidades al controlarse de manera separada del FUT no podrán forma parte de la base imponible del impuesto sustitutivo de los impuestos finales.
-
-Como se observa de las normas legales indicadas en el párrafo anterior, las únicas reinversiones de utilidades que durante los años 2015 y 2016, deben incorporarse al fondo de utilidades reinvertidas (FUR) son aquellas efectuadas en la adquisición de acciones de pago o aportes en sociedades de personas. Por lo tanto, las reinversiones efectuadas en empresas individuales continuarán formando parte del fondo de utilidades tributables (FUT), y por consiguiente, constituirán rentas susceptibles de gravarse con el impuesto sustitutivo a que se refiere el artículo primero de las disposiciones transitorias de la Ley N° 20.899, de 2016.
-
+En conformidad a las instrucciones de este Servicio contenidas en la Resolución Exenta N° 27, de 2009, los contribuyentes autorizados a llevar su contabilidad en moneda extranjera, pero no para declarar y pagar sus impuestos en moneda extranjera, están obligados a realizar dicha declaración y pago en moneda nacional. Con el fin de realizar las conversiones necesarias para efectuar sus declaraciones de impuestos en moneda nacional, estos contribuyentes deben utilizar el tipo de cambio vigente a la fecha de determinación del impuesto, sea éste mensual o anual, el que corresponderá al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo. Al procedimiento descrito debió sujetarse en principio la empresa recurrente para los fines de la determinación y pago de sus PPM en pesos, toda vez que se trataba de un contribuyente autorizado a llevar su contabilidad en moneda extranjera, pero no a declarar y pagar sus impuestos en moneda extranjera. En consecuencia, en su contabilidad tenía registrado el monto de PPM en moneda extranjera, pero para efectos de declarar y pagar en moneda nacional, debió considerar las reglas señaladas precedentemente.
+Dado que con posterioridad y a partir de los períodos que señala, el contribuyente fue autorizado a declarar y pagar los impuestos respectivos en la misma moneda extranjera en que lleva su contabilidad, corresponde dilucidar ahora si resulta procedente aplicar respecto de los PPM enterados en moneda nacional, alguna norma de reajuste para los efectos de su imputación a un impuesto anual que con motivo de una autorización posterior de este Servicio, deba declararse y pagarse en moneda extranjera.
+Desde luego, lo dispuesto en el artículo 95, de la LIR, no puede entenderse aplicable, porque dicha disposición legal regla la forma de reajuste de los PPM declarados y pagados en moneda nacional para los fines de su posterior imputación a los impuestos anuales que deban aplicarse en la misma moneda.
+Ahora bien, ante la ausencia de una disposición legal que regle la situación particular que describe en su presentación, y considerando que los PPM deben expresarse según el valor de la respectiva moneda extranjera desde que fueron pagados al Fisco, evitando de esta manera que se generen distorsiones producto de las variaciones del tipo de cambio que puedan haber ocurrido, cabe señalar que los PPM declarados y pagados en moneda nacional deben, en el caso en estudio, reconvertirse a la respectiva moneda extranjera utilizando al efecto el mismo procedimiento señalado en la Res. Ex. N° 27, esto es, debe considerarse el tipo de cambio vigente a la fecha de determinación del impuesto mensual, correspondiente al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo. Con ello, se reconvierte el monto de los PPM que debió declararse en pesos conforme a esta modalidad de determinación, a su valor en la respectiva moneda extranjera, cantidad que podrá imputarse en la declaración anual de impuestos.
 III.- CONCLUSIÓN.
 
-De acuerdo al N° 2, e inciso segundo de la letra b) del N°3, de la letra A), de artículo 14 de la Ley sobre Impuesto a la Renta, las reinversiones efectuadas durante los años 2015 y 2016 en la adquisición de acciones de pago en sociedades anónimas y aportes en sociedades de personas, no pasarán a formar parte del fondo de utilidades tributables (FUT) de la sociedad que recibe la inversión, sino que deberán ser registradas en forma separada en el fondo de utilidades reinvertidas (FUR). Por lo tanto, los contribuyentes por tales utilidades no podrán optar por pagar el tributo sustitutivo de los impuestos finales a que se refiere el artículo primero de las disposiciones transitorias de la Ley N° 20.899 de 2016.
+Para efectos de convertir en dólares de los Estados Unidos de América, los PPM declarados y pagados en moneda nacional e imputarlos a los impuestos anuales que deban declararse y pagarse en dicha moneda extranjera, debe considerarse el tipo de cambio vigente a la fecha de determinación del impuesto mensual, correspondiente al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo.
 
-Por el contrario, las demás reinversiones reguladas en el N° 2, de la letra A), del artículo 14 de la Ley sobre Impuesto a la Renta, continuarán formando parte del fondo de utilidades tributables (FUT) a que se refiere la letra a), del N° 3, de la letra A), del artículo 14 del referido texto legal, como ocurre en el caso de las reinversiones realizadas en empresas individuales. Por lo tanto, tales contribuyentes pueden optar por pagar el impuesto sustitutivo a que se refiere el artículo primero transitorio de la Ley N° 20.899 de 2016, sobre sus utilidades acumuladas en el registro FUT al 31 de diciembre de 2015 o 31 de diciembre de 2016, según lo estime conveniente.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-FERNANDO BARRAZA LUENGO
-
-DIRECTOR
-
-Oficio N° 2874, de 18.10.2016
-
+Oficio N° 614, de 26.02.2015
 Subdirección Normativa
-
 Dpto. de Impuestos Directos
-
-[1] Ley sobre Impuesto a la Renta.
-
-[2] Publicada en el Diario Oficial con fecha 8 de febrero de 2016.
-[3] El detalle de las instrucciones sobre esta materia se encuentran impartidas mediante la Circular N° 17, de fecha 13 de abril de 2016.

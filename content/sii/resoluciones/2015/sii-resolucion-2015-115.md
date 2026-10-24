@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;a Jurídica Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
+a Jurídica Autoriza a institución sin fines de lucro, como receptora de alimentos cuya comercialización sea inviable Fuente: Departamento de Análisis Masivo del Cumplimiento Tributario
 
 ## Referencias detectadas
 

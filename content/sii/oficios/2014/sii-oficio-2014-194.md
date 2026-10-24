@@ -6,265 +6,40 @@
 - Año: 2014
 - Fecha: 2014-01-31
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja198.doc
-- Hash SHA-256: f88c198b51b78e7e444b8fbd37a21c590a74b129e41a6ec24b3ee914a82a691b
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja194.htm
+- Hash SHA-256: ed6e966e454e9369fbabe667606eebbdd982be5ae5955078d95f9f9882dd4cac
 
 ## Resumen
 
-| Word Aplicación y vigencia del cambio de criterio contenido en el .
+ca que señala. Renta – Actual Ley sobre Impuesto a la – Ley N° 19.20, de 2001, Art. 1°. (Ord. Nº 194, de 31-01-2014) | | Word Solicita confirmar una serie de criterios que expone, respecto de la procedencia del beneficio tributario establecido en la Ley N° 19.420 de 2001, sobre incentivos para el desarrollo económico de las provincias de Arica y Parinacota, por la inversión efectuada en la construcción de un centro comercial del tipo Mall.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":17,"year":1993}
-- {"type":"circular","number":71,"year":2001}
-- {"type":"oficio","number":194,"year":2010}
-- {"type":"oficio","number":784,"year":1998}
-- {"type":"articulo","law":"LIR","article":"31"}
-- {"type":"articulo","law":"LIR","article":"14"}
-- {"type":"articulo","law":"CT","article":"126"}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°3, ART. 54°, N°1, ART.
-        58°, N°2 – CIRCULAR N° 17, DE 1993 – OFICIO N° 194, DE 2010.
-                         (ORD. N°198, DE 31.01.2014)
-
-Aplicación y vigencia del cambio de criterio contenido en el  Oficio  N°194
-de 2010.
-
-Se ha solicitado un pronunciamiento a este Servicio, sobre la aplicación  y
-vigencia del cambio de criterio efectuado por este Servicio  a  través  del
-Oficio N° 194 de 29.01.2010, respecto de la  instrucción  contenida  en  la
-Circular N° 17 de 1993, en  lo  que  dice  relación  con  el  mecanismo  de
-imputación de las pérdidas tributarias a las utilidades acumuladas  en  las
-empresas.
-
-I.- ANTECEDENTES.
-Señala que un contribuyente de esa Dirección Regional interpuso  reclamo  en
-contra de la Resolución que no dio lugar a la devolución  solicitada  en  su
-declaración anual de Impuesto a la Renta correspondiente al  año  tributario
-2012, por concepto de  devolución  de  pagos  provisionales  por  utilidades
-absorbidas, debido  a  que  no  resultó  acreditada  la  pérdida  tributaria
-declarada, ni la correcta determinación y procedencia de  dicha  devolución,
-de acuerdo a lo establecido en el N°  3,  del  artículo  31  de  la  Ley  de
-Impuesto a la Renta (LIR), ya que el contribuyente no  aportó  documentación
-fehaciente.
-Por su parte, según indica esa Dirección Regional, el contribuyente  asegura
-tener derecho a  la  devolución  solicitada  por  el  año  tributario  2012,
-invocando una diferencia de criterio en la imputación de las pérdidas a  las
-utilidades  registradas  en  el  Fondo  de  Utilidades   Tributables   (FUT)
-percibidas en los años anteriores, entendiendo que las pérdidas  sólo  serán
-absorbidas por la obtención de utilidades que hayan pagado  el  Impuesto  de
-Primera Categoría, con el correspondiente derecho a crédito,  y  que  de  no
-existir éstas, las pérdidas no se  imputarían  a  utilidades  que  no  hayan
-pagado dicho impuesto, aumentando sus pérdidas  de  arrastre,  fundamentando
-su punto de vista, en el pronunciamiento  del  Servicio  establecido  en  el
-Oficio N° 194 de 2010.
-Concluye el contribuyente, que a raíz del cambio de criterio establecido en
-el Oficio N° 194, al no haber obtenido utilidades con  derecho  a  crédito,
-nunca debió haber imputado las pérdidas a las utilidades sin crédito, razón
-por lo cual confeccionó nuevamente el FUT sin realizar dichas imputaciones,
-aumentando así las pérdidas generadas en los años tributarios involucrados.
-
-Esa Dirección Regional por  su  parte,  luego  de  una  serie  de  análisis
-internos sobre las instrucciones contenidas  en  la  Circular  y  sobre  el
-cambio de  criterio  expresado  por  el  Servicio  a  través  del  referido
-pronunciamiento;  considerando  que  en  el  reclamo   que   interpone   el
-contribuyente quiere aplicar dicho cambio de criterio en su FUT, incluso en
-años tributarios anteriores a su dictación, manteniendo,  a  través  de  la
-rectificación de dicho registro, pérdidas tributarias que  ya  habían  sido
-absorbidas por utilidades  que  recibió  en  su  oportunidad  sin  crédito;
-teniendo presente además que en el análisis efectuado se  plantearon  dudas
-sobre si el cambio de criterio sólo produce efectos para  el  contribuyente
-que realizó la consulta y si por tratarse de un oficio, puede éste  derogar
-las instrucciones impartidas por una Circular que contiene una  instrucción
-de carácter general,  consultando  finalmente,  para  los  fines  de  poder
-resolver el reclamo en cuestión:
-
-   a)  Si  en  el  caso  de  las  sociedades  anónimas  debe  aplicarse   la
-      interpretación contenida en la citada Circular N°  17  de  1993  o  la
-      establecida en el Oficio N°194 de 2010; y
-
-
-   b) Vigencia del cambio de criterio contenido en el Oficio N° 194.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.20, DE 2001, ART. 1°. (ORD. N° 194, DE 31.01.2014)
+SOLICITA CONFIRMAR UNA SERIE DE CRITERIOS QUE EXPONE, RESPECTO DE LA PROCEDENCIA DEL BENEFICIO TRIBUTARIO ESTABLECIDO EN LA LEY N° 19.420 DE 2001, SOBRE INCENTIVOS PARA EL DESARROLLO ECONÓMICO DE LAS PROVINCIAS DE ARICA Y PARINACOTA, POR LA INVERSIÓN EFECTUADA EN LA CONSTRUCCIÓN DE UN CENTRO COMERCIAL DEL TIPO MALL.
+Se ha solicitado un pronunciamiento a este Servicio, respecto de la procedencia del beneficio tributario establecido en la Ley N°19.420, de 2001, sobre incentivos para el desarrollo económico de las provincias de Arica y Parinacota, en el caso de la inversión efectuada en la construcción de un inmueble destinado al arrendamiento, los cuales serán utilizados como locales comerciales (grandes tiendas y comercio en general) por parte de los arrendatarios. I.- ANTECEDENTES.
+Señala que XXXX S.A., es una sociedad anónima, cuyo objeto, entre otros, consiste en el desarrollo, construcción, administración, gestión, explotación, arrendamiento y subarrendamiento de centros comerciales del tipo mall, entendiéndose por tal un conjunto de locales comerciales construidos en un mismo paño físico de terreno, en el cual existen al menos dos tiendas por departamento y locales comerciales, pudiendo existir además cualquier tipo de desarrollo comercial, inmobiliario, de servicios o de cualquier otro, tales como banco, clínicas, restaurantes, cines, etc.
+Dentro de las labores propias de su giro, XXXX gestiona directamente, desde sus inicios, la ejecución y explotación de los centros comerciales de su propiedad. Así, las labores desarrolladas por la compañía respecto de cada proyecto vinculado a la creación de un nuevo centro comercial son las siguientes:
+a) Análisis y adquisición de terrenos apropiados para este tipo de establecimientos;
+b) Obtención de los permisos y autorizaciones de orden gubernamental como municipal requeridos según la ley y reglamentación vigente;
+c) Construcción del centro comercial, la que se puede realizar directamente por XXXX atendido su giro de empresa constructora, o bien encargando la obra a un tercero bajo la modalidad de construcción por administración o por suma alzada y;
+d) Una vez terminada la construcción del mall y recibidas las obras, XXXX procede a arrendar los locales comerciales a terceros (grandes tiendas y comerciantes en general) para que cada una desarrolle su respectivo negocio.
+Indica que una vez que han sido arrendados los locales comerciales a terceros, XXXX se mantiene a cargo de la administración del centro comercial y de sus áreas comunes.
+Al respecto, partiendo de la base que su representada cumpliría respecto de la inversión que detalla, con los requisitos establecidos en la Ley Arica para el uso del beneficio tributario que dicha Ley establece, requiere la confirmación de una serie de criterios que detalla en su presentación.
 II.- ANÁLISIS.
-1.- Tal como expresamente se indicó en  el  Oficio  N°  194  de  2010,  este
-Servicio, como consecuencia de un nuevo estudio sobre  lo  dispuesto  en  el
-inciso 2°, del N° 3, del artículo 31 de la LIR, esto es, sobre la  absorción
-de utilidades  tributables  acumuladas  en  el  registro  FUT  por  pérdidas
-tributarias determinadas en un ejercicio, determinó  modificar  el  criterio
-sostenido en el punto seguido final, de la letra d), de la  Circular  N°  17
-de 1993, que  expresa:  “Esta  situación  también  es  aplicable  cuando  se
-absorban utilidades tributables que no hayan sido afectadas con el  Impuesto
-de Primera Categoría y, por consiguiente,  sin  derecho  a  la  recuperación
-como pago provisional del citado tributo de categoría.”.
-De acuerdo con lo que  se  indica  en  dicho  pronunciamiento,  el  referido
-cambio de criterio se sustenta en lo dispuesto por el N° 3, del artículo  31
-de la LIR, que autoriza  la  deducción  de  las  pérdidas  sufridas  por  el
-negocio o empresa durante el año comercial a que  se  refiere  el  impuesto,
-incluyendo también las pérdidas de ejercicios anteriores,  para  efectos  de
-determinar la renta líquida que, con los ajustes  que  correspondan,  estará
-afecta al Impuesto de Primera Categoría; y además en lo  dispuesto  por  los
-artículos 54 N°1, inciso 4° y 58 N°2, de la LIR, a través de los  cuales  se
-establece que se encuentran afectas a los impuestos Global Complementario  o
-Adicional,  según  corresponda,  las  cantidades  distribuidas  a  cualquier
-título por las sociedades anónimas.
-El referido Oficio concluye que “…conforme al N° 3, del artículo  31  de  la
-LIR, las pérdidas determinadas de acuerdo a los artículo 29 al 33 del  mismo
-texto legal, y siempre que se cumplan  los  requisitos  para  su  deducción,
-sólo pueden ser  imputadas,  en  el  caso  de  las  sociedades  anónimas,  a
-aquellas rentas percibidas o devengadas que forman, hayan formado  o  puedan
-formar parte de la base imponible afecta al Impuesto de Primera Categoría  y
-no a las rentas que no están afectas a dicho tributo, como  sucede  con  los
-dividendos distribuidos por sociedades anónimas con cargo  a  utilidades  de
-balance retenidas en exceso de las tributables.”
-Consecuente con ello, este  Servicio  a  través  de  dicho  pronunciamiento,
-resolvió modificar la instrucción contenida en la Circular N°  17  de  1993,
-en la parte transcrita precedentemente, constituyendo  el  criterio  vigente
-en relación con esta materia. Dicho criterio, es de  aplicación  restringida
-sólo al caso de las sociedades anónimas que reciban dividendos  distribuidos
-por otras sociedades anónimas con cargo a utilidades  de  balance  retenidas
-en  exceso  de  las  tributables,  vale  decir,  cantidades  distribuidas  a
-cualquier  título  por  parte  de  otras  sociedades  anónimas   (que   como
-consecuencia de lo dispuesto en los artículos 54 N°1, inciso 4°  y  58  N°2,
-de la LIR, se encuentran afectas a los  impuestos  Global  Complementario  o
-Adicional). De allí que tal cambio de criterio no  se  aplique  respecto  de
-los dividendos distribuidos por dichas  sociedades  anónimas,  que  resulten
-imputados a utilidades tributables registradas en su FUT, aun cuando  dichas
-cantidades no tengan derecho al crédito por Impuesto de Primera Categoría.
-Advierte  finalmente  el  pronunciamiento  en  cuestión,  que  al   no   ser
-procedente tal imputación, las utilidades de balance retenidas en exceso  de
-las tributables, deben ser mantenidas íntegramente en el registro FUT de  la
-sociedad anónima que las percibe, a efectos de cumplir,  al  momento  de  su
-distribución  o  reparto,  con  los  impuestos   Global   Complementario   o
-Adicional, según corresponda, y sin  derecho  al  crédito  por  Impuesto  de
-Primera Categoría, por no haberse afectado con dicho gravamen.
-2.- Ahora  bien,  en  relación  con  la  vigencia  del  cambio  de  criterio
-contenido en el Oficio N° 194, cabe señalar que dicho pronunciamiento es  de
-fecha  29.01.2010,  sustituyendo  las  instrucciones  dictadas  mediante  la
-Circular N° 17 de 1993, respecto a la forma en que las  sociedades  anónimas
-deben imputar las pérdidas tributarias del ejercicio y determinar  el  saldo
-de utilidades en el registro FUT a que se refiere el artículo 14 de la  LIR,
-todo ello, en relación con los dividendos recibidos desde  otras  sociedades
-anónimas que resulten imputados a utilidades de balance retenidas en  exceso
-de las tributables.
-Sobre el particular,  este  Servicio  estima  que  la  nueva  interpretación
-administrativa  tiene  un  efecto  retroactivo,  en  cuanto  corresponde  al
-verdadero sentido y alcance de la norma analizada, y por  tanto,  si  en  la
-situación expuesta el contribuyente efectuó  la  imputación  de  la  pérdida
-tributaria a las utilidades registradas en el FUT  siguiendo  los  criterios
-contenidos en la Circular N° 17 de 1993, puede optar por  aplicar  el  nuevo
-criterio sustentado en el Oficio N° 194, rectificando para  tal  efecto  sus
-registros contables y sus declaraciones anuales de impuesto a la renta.
-En tal  caso,  y  de  acuerdo  a  lo  señalado  con  anterioridad  por  este
-Servicio[1],  como  norma  general,  no  existe  un  plazo   para   que   el
-contribuyente efectúe  las  rectificaciones  correspondientes,  siempre  que
-éstas no modifiquen o alteren situaciones ya consolidadas, como  ocurre  por
-ejemplo  con  la  imputación  de  la  pérdida  tributaria  a  utilidades  no
-retiradas o distribuidas, u obtenidas en ejercicios  posteriores,  distintas
-a las señaladas en el Oficio N°194.
-Sin embargo, respecto de los efectos tributarios que  tales  rectificaciones
-pudieren provocar, deben distinguirse las siguientes tres situaciones:
-a) Si con motivo de tales rectificaciones se produce un  impuesto  mayor  al
-declarado por el contribuyente, este Servicio se  encuentra  facultado  para
-efectuar su cobro, sólo dentro de los plazos  de  prescripción  establecidos
-en los artículos 200 y 201 del Código Tributario,  ello  sin  perjuicio  del
-entero voluntario de las diferencias  por  parte  del  contribuyente  cuando
-correspondan a períodos no comprendidos en la referida prescripción;  y  sin
-perjuicio de que proceda la aplicación de lo dispuesto  en  el  artículo  26
-del Código Tributario, cuando corresponda.
-b) Por el contrario, si a raíz de tales rectificaciones  efectuadas  resulta
-un impuesto pagado indebidamente  por  el  contribuyente,  dicha  diferencia
-deberá someterse para su recuperación, a la normativa dispuesta  por  el  N°
-2, del artículo 126 del Código Tributario[2].
-Al respecto, cabe tener presente que de acuerdo a la norma  legal  referida,
-la  petición  de  devolución  de  impuestos   pagados   indebidamente   debe
-presentarse dentro del plazo de 3 años, contado desde el acto  o  hecho  que
-le sirva de fundamento. En  la  situación  analizada,  dicho  acto  o  hecho
-corresponde justamente al pago indebido de un impuesto.
-c) Si producto de dichas rectificaciones, no se produce  un  impuesto  mayor
-al declarado por el contribuyente, ni tampoco  resulta  un  impuesto  pagado
-indebidamente por éste, sino que se determina una mayor  pérdida  tributaria
-para el ejercicio  respectivo,  atendido  que  las  pérdidas  de  ejercicios
-anteriores no han resultado imputadas a rentas o utilidades no  distribuidas
-en la empresa u otras obtenidas en los  ejercicios  siguientes  distintas  a
-las señaladas en el Oficio N° 194, el  contribuyente  podrá  imputar  a  las
-utilidades no retiradas o distribuidas en la empresa, o rebajar  como  gasto
-en el ejercicio siguiente, según corresponda, la pérdida tributaria  que  en
-definitiva se determine efectuando las imputaciones que ordena el  N°3,  del
-artículo 31 de la LIR[3].
-Lo anterior, es sin perjuicio de la facultad con que  cuenta  este  Servicio
-para verificar la correcta aplicación del criterio contenido  en  el  Oficio
-N° 194, la procedencia de la rectificación  de  los  registros  contables  y
-declaraciones anuales de impuestos a la renta del  contribuyente,  así  como
-de la eventual devolución de impuestos pagados  indebidamente  que  solicite
-por este motivo, todo ello, de acuerdo  a  las  reglas  generales  sobre  la
-materia, particularmente conforme a lo establecido en los  artículos  16  al
-28 del Código Tributario y en los artículos 29 al 33 de la LIR.
-III.- CONCLUSIÓN:
-El criterio sostenido por este Servicio  a  través  del  Oficio  N°  194  de
-29.01.2010, es el actualmente vigente sobre la materia, el  cual  reemplaza,
-en lo pertinente, las instrucciones contenidas  en  la  Circular  N°  17  de
-1993.
-La nueva interpretación  administrativa  tiene  un  efecto  retroactivo,  en
-cuanto corresponde al verdadero sentido y alcance de la norma  analizada,  y
-por tanto, faculta al contribuyente para rectificar sus registros  contables
-y declaraciones anuales de impuesto a la renta,  y  eventualmente  solicitar
-la devolución de impuestos pagados indebidamente en virtud de la  aplicación
-del criterio anterior,  todo  ello,  de  acuerdo  a  lo  establecido  en  el
-artículo 126 del  Código  Tributario.  No  obstante  lo  anterior,  se  hace
-presente que también resulta aplicable lo dispuesto en el artículo 26 de  la
-misma Ley, cuando corresponda.
+En conformidad a lo establecido en el artículo 1° de la Ley N°19.420, los contribuyentes que declaren el Impuesto de Primera Categoría sobre su renta efectiva determinada según contabilidad completa, tienen derecho a un crédito tributario por las inversiones que efectúen en la XV Región, destinadas a la producción de bienes o prestación de servicios en dicha región, de acuerdo a las disposiciones de dicha ley. De acuerdo con lo establecido en el inciso 3°, del artículo referido, el crédito equivale a un porcentaje del valor de los bienes físicos del activo inmovilizado que correspondan a construcciones, maquinarias y equipos, incluyendo los inmuebles destinados preferentemente a su explotación comercial con fines turísticos, directamente vinculados con la producción de bienes o la prestación de servicios del giro o actividad del contribuyente, adquiridos nuevos o terminados de construir en el ejercicio.
+Por su parte, el inciso 4°, de la disposición comentada, establece que también tendrán derecho al crédito los contribuyentes que inviertan en la construcción de edificaciones destinadas a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas, terminados de construir en el ejercicio.
+De acuerdo con las disposiciones de la Ley N°19.420 señaladas, sólo puede acogerse al beneficio tributario en comento, la inversión en la construcción de inmuebles que expresamente señalan tales disposiciones, dentro de las cuales no está considerada la inversión en la construcción de inmuebles destinados a la explotación comercial a que se refiere su presentación.
+III.- CONCLUSIÓN.
+De acuerdo a lo señalado anteriormente, cabe expresar que el contribuyente que efectúa la inversión en la construcción del inmueble, que luego será arrendado y destinado finalmente al funcionamiento de los locales comerciales que indica en su presentación, no tiene derecho al beneficio tributario establecido en la Ley N°19.420, toda vez que dichos inmuebles no están destinados a los fines que establece el referido texto legal, vale decir a su explotación comercial con fines turísticos; ni a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas. Dado lo anterior, y considerando que los demás criterios tributarios cuya confirmación solicita, son requeridos sobre la base de que su representada cumpliría, respecto de la inversión que detalla, con los requisitos de la Ley N° 19.420, este Servicio estima improcedente referirse a ellos.
 
-Finalmente, cabe señalar que corresponde a  la  instancia  de  fiscalización
-respectiva, verificar la correcta aplicación del criterio  contenido  en  el
-Oficio  N°  194,  la  procedencia  de  la  rectificación  de  los  registros
-contables  y  declaraciones  anuales   de   impuestos   a   la   renta   del
-contribuyente, así como de  la  eventual  devolución  de  impuestos  pagados
-indebidamente que solicite por este motivo, todo  ello,  de  acuerdo  a  las
-reglas generales sobre la materia.
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
 
-
-
-
-
-
-
-
-                                       JUAN ALBERTO ROJAS BARRANTI
-
-
-       DIRECTOR (S)
-
-
-
-
-
-
-
-
-
-
-                        Oficio N° 198, de 31.01.2014
-                           Subdirección Normativa
-                        Dpto. de Impuestos Directos.
-
------------------------
-[1] En oficio N° 784 de 1998, se pronunció respecto  de  la  corrección  por
-errores  manifiestos  y   comprobados   en   los   registros   contables   o
-extracontables de un contribuyente.
-[2] Las instrucciones sobre  la  materia  se  encuentran  contenidas  en  la
-Circular N° 71 de 2001, de este Servicio.
-[3] Dicha norma establece que los contribuyentes podrán deducir  como  gasto
-las pérdidas de ejercicios anteriores, siempre que concurran los  requisitos
-que indica su inciso 1°, agregando que para tales efectos, las pérdidas  del
-ejercicio deberán imputarse a las utilidades no retiradas o distribuidas,  y
-a las obtenidas en el ejercicio  siguiente  a  aquel  en  que  se  produzcan
-dichas pérdidas, y si las referidas utilidades no  fuesen  suficientes  para
-absorberlas, la diferencia  deberá  imputarse  al  ejercicio  inmediatamente
-siguiente y así sucesivamente.
-La mencionada norma establece un orden imperativo para la deducción  de  las
-pérdidas de ejercicios anteriores, debiendo rebajarse éstas, en el orden  de
-imputación que contempla  dicha  disposición,  sin  la  posibilidad  que  el
-contribuyente pueda efectuar tal imputación  en  forma  opcional,  o  en  un
-orden distinto del que señala ese precepto legal.
+Oficio N°194, de 31.01.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

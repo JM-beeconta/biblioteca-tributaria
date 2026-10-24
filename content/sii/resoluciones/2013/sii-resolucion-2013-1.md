@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n Jurídica. Resolución Exenta SII N° 01 del 08 de Enero del 2013 Autoriza como receptor de documentos Tributarios Electrónicos al Organismo Público que se señala. Fuente: Atención y Asistencia de Contribuyentes. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2013'); } els…
+n Jurídica. Resolución Exenta SII N° 01 del 08 de Enero del 2013 Autoriza como receptor de documentos Tributarios Electrónicos al Organismo Público que se señala. Fuente: Atención y Asistencia de Contribuyentes. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').val('2013'); } else{…
 
 ## Referencias detectadas
 

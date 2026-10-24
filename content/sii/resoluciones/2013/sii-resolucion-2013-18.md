@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Autoriza a Autogasco S. A. para emitir comprobantes de entrega de ventas de gas vehicular, realizadas mediante el empleo de tarjetas recargables previamente pagadas y documentadas tributariamente, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+n de Avaluaciones Autoriza a Autogasco S. A. para emitir comprobantes de entrega de ventas de gas vehicular, realizadas mediante el empleo de tarjetas recargables previamente pagadas y documentadas tributariamente, en la forma y condiciones que indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
 
 ## Referencias detectadas
 

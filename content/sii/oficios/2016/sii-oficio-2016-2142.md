@@ -4,226 +4,50 @@
 - Tipo: oficio
 - Número: 2142
 - Año: 2016
-- Fecha: 2016-04-05
-- Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja886.doc
-- Hash SHA-256: c0bcf10008252a0e0d80c9568420167538ecc4fb00c6767f91d03ed9418cf906
+- Fecha: 2016-08-01
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2142.htm
+- Hash SHA-256: 06654db79b6912088fb652c0446be0b718ccee72ac0a51dc4a8891277810aebb
 
 ## Resumen
 
-| Word Exención personal del Impuesto de Timbres y Estampillas a favor del Fisco. Solicita complementar .
+ajadores extranjeros. Renta – Actual Ley sobre Impuesto a la – Art. 40, N°4 – Ley N° 19.880, Art. 52. (Ord. Nº 2142, de 01-08-2016) | | Word Facultades fiscalizadoras en caso de una fundación exenta de Impuesto a la Renta.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":2142,"year":2014}
+- {"type":"articulo","law":"LIR","article":"40 N"}
+- {"type":"articulo","law":"CT","article":"24 i"}
 
 ## Texto extraído
 
-TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 9 N° 3,
-  ART. 23, N° 1 – DECRETO SUPREMO N° 149, DE 2009, ART. 2, ART. 3, ART. 16,
-       ART. 19 – OFICIO N° 2142, DE 2014. (ORD. N° 886, DE 05.04.2016)
-
-
-Exención personal del Impuesto de Timbres y Estampillas a favor  del  Fisco.
-Solicita complementar Oficio N° 2142, de 2014, de este Servicio.
-
-Se ha solicitado complementar el Oficio N° 2142 de 2014, de  este  Servicio,
-en el sentido de confirmar que la exención personal (Fisco) contenida en  el
-artículo 23 N°1 de la Ley sobre Impuesto de Timbres  y  Estampillas  resulta
-aplicable a los préstamos que indica.
-
-
-
-I     ANTECEDENTES
-
-En su presentación expone que el inciso primero del artículo 16  de  la  Ley
-Orgánica de la Caja de  Previsión  de  la  Defensa  Nacional  (en  adelante,
-“CAPREDENA”), contenida en el DFL N°31 de 1953,  la  faculta  para  conceder
-préstamos en dinero a sus imponentes, en la  forma  en  que  determinen  los
-reglamentos.
-
-Por su parte, el artículo 2° del DS  N°  149  de  2009,  del  Ministerio  de
-Defensa Nacional, que aprueba el Reglamento  de  Préstamos  de  la  Caja  de
-Previsión  de  la  Defensa  Nacional,  establece  que  la  Caja  otorga  los
-siguientes préstamos: habitacionales, de  auxilio,  para  sedes  sociales  y
-para adquisición de terrenos.
-
-De acuerdo con el artículo 3° del  citado  decreto  supremo,  los  préstamos
-habitacionales tienen por objeto financiar la adquisición, saldo de  precio,
-construcción, ampliación o reparación de  una  vivienda  por  parte  de  los
-imponentes.
-
-Los préstamos de auxilio, definidos en el  artículo  16  del  mismo  decreto
-supremo, son aquellos otorgados  por  una  sola  vez  y  tienen  por  objeto
-solucionar obligaciones en dinero, originadas en  mutuos  que  tuvieren  por
-finalidad financiar la compra de  una  vivienda  por  el  imponente  y  cuyo
-cumplimiento se esté exigiendo forzadamente por la vía judicial ejecutiva.
-
-El artículo 19 del decreto supremo citado dispone  que  los  préstamos  para
-sedes  sociales  son  aquellos  que  se   otorgan   a   organizaciones   con
-personalidad jurídica formadas exclusivamente por imponentes de CAPREDENA  o
-de CAPREDENA y DIPRECA, según lo señalado en la Ley N° 19.320, y  que  estén
-destinados a adquirir, construir, ampliar o reparar  los  inmuebles  en  que
-funcionan sus sedes sociales. La facultad para otorgar estos préstamos  está
-contemplada en el inciso segundo del  artículo  26  de  la  Ley  N°  16.466,
-modificado por la Ley N° 19.320.
-
-Los préstamos para adquisición de terreno, según el artículo 20  del  citado
-decreto supremo tienen por objeto financiar la adquisición  de  un  inmueble
-donde los imponentes puedan construir una vivienda  destinada  a  solucionar
-sus necesidades habitacionales y las de su grupo familiar.
-
-Señala en su presentación que en todos los préstamos  mencionados,  sea  que
-se otorguen con o sin garantía, CAPREDENA es  beneficiario  o  acreedor,  de
-tal manera que detenta la calidad de sujeto pasivo del Impuesto  de  Timbres
-y Estampillas por aplicación del artículo 9° N°3 de la  Ley  sobre  Impuesto
-de Timbres y Estampillas, en relación con  el  artículo  1°  N°3  del  mismo
-texto legal.
-
-Al respecto, si bien el  Oficio  N°  2142  resuelve  que  los  préstamos  de
-auxilio que otorga CAPREDENA, sujeto  pasivo  del  impuesto  y  forma  parte
-integrante de la Administración del Estado, están exentos  del  Impuesto  de
-Timbres y Estampillas por aplicación de la exención  personal  contenida  en
-el artículo 23 N°1 de la del ramo, solicita complementar el Oficio  señalado
-en el sentido que la misma exención se extiende a los  demás  préstamos  que
-otorga CAPREDENA.
-
-
-
-II    ANÁLISIS
-
-Tal como  se  resolvió  en  el  Oficio  N°  2142  de  2014,  aludido  en  su
-presentación, este Servicio se ha pronunciado reiteradamente en  el  sentido
-que la exención personal “Fisco” contemplada en el N° 1 del artículo  23  de
-la Ley  sobre  Impuesto  de  Timbres  y  Estampillas  a)  se  aplica  a  las
-instituciones o servicios que forman parte de la Administración  del  Estado
-y b) sólo respecto de las operaciones en que detenten la calidad  de  sujeto
-pasivo de derecho del impuesto.
-
-Al respecto, y de acuerdo con lo señalado por la Contraloría General  de  la
-República, “en virtud del artículo 1° del decreto con fuerza de ley  N°  31,
-de 1953, del Ministerio de  Defensa  Nacional,  que  fija  la  ley  orgánica
-de CAPREDENA, esta es una institución autónoma  con  personalidad  jurídica,
-sujeta a la supervigilancia de esa Secretaría de  Estado,  lo  cual  importa
-que también es un órgano personificado de la Administración del  Estado.”[1]
-Por tanto, se cumple a su respecto el primer requisito, cual es tratarse  de
-una institución o servicio que forma parte de la Administración  del  Estado
-(“Fisco”).
-
-En cuanto al segundo requisito, esto  es,  detentar  la  calidad  de  sujeto
-pasivo de derecho del impuesto, considerando que CAPREDENA  es  beneficiaria
-o acreedora de los préstamos a que se  refiere  en  su  consulta,  tiene  la
-calidad de sujeto pasivo de derecho del Impuesto de  Timbres  y  Estampillas
-según lo establece el artículo 9° N°3 de la Ley sobre Impuesto de Timbres  y
-Estampillas, siendo aplicable entonces la exención  contemplada  en  el  N°1
-del artículo 23 de la ley citada cuando otorga préstamos.
-
-Sin perjuicio de lo anterior, mediante su nueva  presentación,  se  solicita
-complementar la doctrina contenida en el Oficio  N°  2142  de  2014,  en  el
-sentido de confirmar que  la  referida  exención  personal  también  resulta
-aplicable  a  préstamos  otorgados  por  CAPREDENA,  sean  éstos   préstamos
-habitacionales, de auxilio, para sedes sociales o  para  la  adquisición  de
-terrenos.
-
-Al respecto cabe señalar que, de acuerdo al artículo 16 del  DFL  N°  31  de
-1953, CAPREDENA está facultada para  conceder  préstamos  en  dinero  a  sus
-“imponentes” en la  forma  que  determinen  los  reglamentos.  En  el  mismo
-sentido, el artículo 1° del DS N° 149 de 2009, que aprueba el Reglamento  de
-Préstamos de DIPRECA, dispone que dicha entidad podrá otorgar  préstamos  “a
-sus imponentes” de acuerdo a las normas que se establecen en el Reglamento.
-
-Por su parte, y  conforme  al  artículo  4°  del  mismo  cuerpo  legal,  son
-“imponentes” de CAPREDENA:
-
-a) El personal de Oficiales, empleados militares,  navales  y  de  aviación,
-   tropa y gente de mar; empleados civiles de planta del Ejército, Armada  y
-   Fuerza Aérea y del Ministerio de Defensa Nacional;
-
-b) Los empleados de la Caja de Previsión de la Defensa Nacional;
-
-c) Los profesores civiles de las Fuerzas Armadas  que  hubieren  optado  por
-   este régimen de previsión de acuerdo con las leyes vigentes;
-
-d) Las personas que gocen de retiro o montepío a cargo de la Caja;
-
-e) Las demás personas que por leyes especiales estén o sean  incorporadas  a
-   su régimen.
-
-Conforme lo expuesto precedentemente, CAPREDENA sólo está facultada por  ley
-a otorgar préstamos a sus “imponentes”, todos  los  cuales,  de  acuerdo  al
-contexto de la ley, tendrían  calidad  de  “personas”  naturales  (personal,
-empleados, profesores y demás personas que gocen  de  retiro  o  montepío  o
-estén incorporadas a su régimen).
-
-De este modo, en principio no cumplirían  la  calidad  de  “imponentes”  las
-organizaciones con  personalidad  jurídica,  salvo  que  se  entiendan  como
-“demás personas” que estén o sean incorporadas al régimen de  CAPREDENA  por
-leyes especiales.
-
-En cualquier caso, en  la  medida  que  los  préstamos  sean  otorgados  por
-CAPREDENA en conformidad  a  la  ley  y  su  reglamento,  este  Servicio  no
-advierte reparos en extender la doctrina contenida en el Oficio N°  2142  de
-2014, en el sentido que la  exención  personal  “Fisco”  establecida  en  el
-artículo 23 N°1 de la Ley sobre Impuesto de Timbres  y  Estampillas  también
-se aplica a los préstamos otorgados por CAPREDENA y que  tengan  la  calidad
-de  préstamos  habitacionales,  de  auxilio,  para  sedes  sociales  y  para
-adquisición de terrenos.
-
-Finalmente, el hecho que los préstamos bajo análisis sean  otorgados  con  o
-sin pagaré de respaldo o hipoteca, no altera la conclusión anterior.
-
-
-
-
-
-
-
-
-
-
-III   CONCLUSIÓN
-Conforme lo expuesto precedentemente se complementa el  Oficio  N°  2142  de
-2014, en el sentido que la exención contemplada en el artículo 23 N°1 de  la
-Ley sobre Impuesto de Timbres y Estampillas también  es  aplicable  en  caso
-que CAPREDENA, por formar parte integrante de la Administración  del  Estado
-y tener la calidad de “Fisco”, otorgue en  el  ámbito  de  sus  atribuciones
-préstamos  habitacionales,  de  auxilio,  para  sedes  sociales  y  para  la
-adquisición de terrenos, por  tener  dicha  entidad  la  calidad  de  sujeto
-pasivo de derecho del impuesto.
-
-
-
-
-
-
-
-
-
-
-
-
-                           FERNANDO BARRAZA LUENGO
-                                  DIRECTOR
-
-
-
-
-
-
-
-
-                        Oficio N° 886, de 05.04.2016
-                           Subdirección Normativa
-                         Dpto. de Técnica Tributaria
-
-
-
-
-
-
-
-
-
-
------------------------
-[1] Dictamen N°6421 de 2015
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 40, N°4 – LEY N° 19.880, ART. 52. (ORD. N° 2142, DE 01.08.2016)
+FACULTADES FISCALIZADORAS EN CASO DE UNA FUNDACIÓN EXENTA DE IMPUESTO A LA RENTA.
+Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre el alcance de las facultades fiscalizadoras del Servicio de Impuestos Internos en el caso de una fundación exenta de Impuesto a la Renta. I ANTECEDENTES
+De acuerdo al Ordinario del antecedente, una fundación sin fines de lucro destinada a dar atención a personas que padecen de enfermedades de la visión se encuentra exenta del pago del Impuesto a la Renta de Primera Categoría en conformidad con lo dispuesto en el artículo 40 N° 4 de la Ley de Impuesto a la Renta, según consta en el decreto N° xx, de xxxx, el cual además instruye al Servicio de Impuestos Internos para verificar periódicamente si se mantienen las circunstancias que justifican la exención concedida.
+No obstante lo anterior, y tras citar los requisitos establecidos por el artículo 40 N° 4 del cuerpo legal citado, esa Dirección Regional informa que, en sus Formularios 29 de Declaración Mensual y Pago Simultáneo correspondiente al año comercial 2012, la fundación registra movimientos por ventas y/o prestaciones de servicios cuyos ingresos ascienden a $ x.xxx.xxx, además de otros ingresos ascendentes a $ xxx.xxx.xxx, lo cual no concuerda con los ingresos declarados en su Declaración Anual de la Renta del año tributario 2013, folio xxxxx ascendente a $0.
+Luego, esa Dirección Regional estima que existen indicios para presumir que, respecto de este contribuyente, actualmente no se verifican los presupuestos fácticos prescritos en el artículo 40 N° 4 de la Ley de Impuesto a la Renta que habrían motivado la exención, razón por la cual se procedió a citar al contribuyente por el año tributario 2013, por los motivos expuestos en el párrafo anterior. Con fecha 29.06.2016 el contribuyente presentó respuesta a la citación acompañando documentación.
+En base a lo expuesto, considerando la existencia de plazos legales vigentes de la actuación fiscalizadora de este Servicio, estima necesario obtener un pronunciamiento de rigor a fin de establecer la forma de proceder – en lo sucesivo – tratándose de este contribuyente como persona jurídica sin fines de lucro exenta de Impuesto a la Renta, particularmente sobre la facultad de liquidar las partidas citadas en conformidad al artículo 24 inciso 1° del Código Tributario y del tiempo y forma en la emisión de dicho acto administrativo, toda vez que, considerando que es competencia del Ministerio de Hacienda la revocación de un decreto de exención de Impuesto a la Renta, no existe certeza en cuanto a si dicho cobro de impuestos debe verificarse ex ante o bien ex post de dicho acto revocatorio.
+Sin perjuicio de lo anterior, considerando que es facultad del Ministerio de Hacienda la revocación de dicho decreto, se solicita determinar si en el caso en comento procede primeramente verificar si se mantienen las circunstancias que justifican la exención concedida – dando cuenta al Ministerio de Hacienda para su posterior resolución y actuar en consecuencia solo una vez revocado dicho decreto – o prescindir de dicha actuación continuando con el proceso de fiscalización.
+II ANÁLISIS
+Como se expone en su Ordinario, corresponde a S.E. el Presidente de la República la facultad exclusiva de conceder la exención tributaria establecida en el artículo 40 N° 4 de la Ley sobre Impuesto a la Renta, a las instituciones que la impetren y reúnan de forma copulativa los requisitos legales.
+En consecuencia, en la medida que la franquicia se otorgue a través de un decreto, esto es, mediante una orden escrita que dicta el Presidente de la República o un Ministro "Por orden del Presidente de la República", sobre asuntos propios de su competencia (artículo 3° de la Ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los Órganos de la Administración del Estado), corresponde a la misma autoridad administrativa revocar el acto administrativo “decreto”, conforme a las reglas generales.
+En ese sentido debe entenderse la instrucción contenida en el decreto N° xx, de xxxx, que ordena al Servicio “verificar” periódicamente si se mantienen las circunstancias que justifican la exención concedida. Esto es, fiscalizar en concreto y periódicamente si la fundación respectiva, una vez concedida la exención:
+a) sigue siendo una institución de beneficencia,
+b) no persigue fines de lucro, y
+c) mantiene como objeto principal de acuerdo a sus estatutos, proporcionar ayuda material o de otra índole que se traduzca en un beneficio material a personas de escasos recursos económicos.
+Los requisitos anteriores pueden incumplirse tanto si la fundación modifica sus estatutos como si, en los hechos, realiza actividades inconsistentes o incompatibles con esos requisitos, como sería tener como objeto principal proporcionar ayuda material o de otra índole a personas que no son de escasos recursos económicos o derechamente tener como objeto principal proporcionar servicios remunerados en condiciones de mercado o similares.
+En consecuencia, si bien corresponde a este Servicio fiscalizar los tributos, en el presente caso dicha facultad se traduce en “verificar” el cumplimiento de los requisitos establecidos en el artículo 40 N° 4 de la Ley sobre Impuesto a la Renta y, de ser procedente, informar a la autoridad administrativa correspondiente a fin que revoque el decreto que concedió la franquicia tributaria.
+Una vez revocado el decreto respectivo, y en caso de realizar actividades gravadas o poseer bienes afectos, el contribuyente comenzará a tributar de acuerdo a las reglas generales, hacia el futuro, sin que corresponda el cobro de impuestos por los periodos anteriores a la dictación del acto revocatorio por aplicación de lo dispuesto en el artículo 52 de la Ley N° 19.880.
+III CONCLUSIÓN
+De acuerdo con lo anteriormente expuesto, y respecto de las materias específicamente consultadas, se señala que:
+a) A este Servicio sólo le corresponde “verificar”, en la práctica, el cumplimiento de los requisitos necesarios para mantener la franquicia establecida en el artículo 40 N° 4 de la Ley sobre Impuesto a la Renta.
+b) Los requisitos pueden incumplirse si la fundación modifica sus estatutos como si, en los hechos, realiza actividades inconsistentes o incompatibles con esos requisitos.
+c) Verificado el incumplimiento de los requisitos, cuestión que debe acreditarse tras un procedimiento de fiscalización, corresponde a este Servicio informar a la autoridad administrativa correspondiente a fin que revoque el decreto que concedió la franquicia tributaria.
+d) Una vez revocado el decreto respectivo, y en caso de realizar actividades gravadas o poseer bienes afectos, el contribuyente comenzará a tributar de acuerdo a las reglas generales, hacia el futuro, sin que corresponda el cobro de impuestos por los periodos anteriores a la dictación del acto revocatorio del decreto.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 2142, de 01.08.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Avaluaciones. Resolución Exenta SII N° 03 del 09 de Enero del 2013 Asigna funciones de Secretario General al funcionario que indica, respecto de los planos de precios preparados por las Direcciones Regionales y designa subrogante. Fuente: Subdirección de Avaluaciones.
+n de Avaluaciones. Resolución Exenta SII N° 03 del 09 de Enero del 2013 Asigna funciones de Secretario General al funcionario que indica, respecto de los planos de precios preparados por las Direcciones Regionales y designa subrogante. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 
