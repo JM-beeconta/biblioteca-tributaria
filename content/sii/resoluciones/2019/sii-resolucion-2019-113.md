@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Revoca autorización de emisión en papel de documentos tributarios, que deben ser emitidos en formato electrónico, a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Revoca autorización de emisión en papel de documentos tributarios, que deben ser emitidos en formato electrónico, a los contribuyentes que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

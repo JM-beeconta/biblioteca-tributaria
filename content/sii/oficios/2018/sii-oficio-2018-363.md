@@ -4,83 +4,76 @@
 - Tipo: oficio
 - Número: 363
 - Año: 2018
-- Fecha: 2018-04-13
+- Fecha: N/A
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja705.htm
-- Hash SHA-256: 9a883d0f6d6c427c84966ea4f813056b90289427280828aec8ba80b136f000a9
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja363.htm
+- Hash SHA-256: c6bb9ee9ec8e01df6217d5d14c3a997300dad023298d8f26ee7ea0f014e9a98a
 
 ## Resumen
 
-de dichos aportes. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 41 G &ndash; . (Ord. Nº 705, de 13-04-2018) |
+Pactos de Retrocompra. Renta – Actual Ley sobre Impuesto a la – Art. 41 G – Ley N° 18.045, Art. 98, Art. 100. (Ord. Nº 363, de 15-02-2018) | | Word Solicita confirmar criterio en relación con el Oficio N° 3.105 de 18 de noviembre de 2016.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":363,"year":2018}
 - {"type":"articulo","law":"LIR","article":"41 G"}
-- {"type":"articulo","law":"LIR","article":"98 d"}
+- {"type":"articulo","law":"LIR","article":"17 N"}
 - {"type":"articulo","law":"LIR","article":"100 d"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 G – OFICIO N° 363, DE 2018. (Ord. Nº 705, de 13-04-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 G – LEY N° 18.045, ART. 98, ART. 100. (Ord. Nº 363, de 15-02-2018)
 
-INTERPRETACIÓN DE LA REMISIÓN EFECTUADA POR EL ARTÍCULO 41 G DE LA LEY SOBRE IMPUESTO A LA RENTA, AL ARTÍCULO 100 DE LA LEY N° 18.045, SOBRE MERCADO DE VALORES.
+SOLICITA CONFIRMAR CRITERIO EN RELACIÓN CON EL OFICIO N° 3.105 DE 18 DE NOVIEMBRE DE 2016.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual solicita se oficie a la Comisión para el Mercado Financiero con los fines que indica y, luego, se confirmen los criterios que señala, vinculados a las normas de relación a que se refiere el artículo 41 G de la Ley sobre Impuesto a la Renta.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual solicita la confirmación del criterio que indica a continuación, en relación con el Oficio N° 3.105 de 18 de noviembre de 2016.
 
-I. ANTECEDENTES.
+I.- ANTECEDENTES.
 
-Señala que la comunidad hereditaria que nació producto del fallecimiento de un contribuyente chileno, a la que denomina "Sucesión XXXX", es controladora de una sociedad extranjera en los términos objetivos del artículo 41 G de la Ley sobre Impuesto a la Renta (LIR), ya que es dueña del 100% de las acciones de dicha sociedad.
+Indica que el artículo 41 G de la Ley sobre Impuesto a la Renta (LIR), considera que para determinar el control que un contribuyente domiciliado o residente en Chile tiene sobre una entidad extranjera, debe considerar no solo su participación sino también la de las personas o entidades relacionadas en los términos establecidos en las letras a), b) y d) del artículo 100 de la Ley N° 18.045 sobre Mercado de Valores (LMV), cualquiera sea la naturaleza de los intervinientes.
 
-La Sucesión XXXX, agrega, desea liquidar la comunidad hereditaria, adjudicando sus activos a cada uno de los miembros que la componen, entre ellos, las acciones de la sociedad extranjera referida, las que luego de la adjudicación pertenecerán en un 16,6% a cada uno de los herederos.
+Señala que, para determinar la existencia de una relación, dicho artículo se remite exclusivamente a las letras a), b) y d) del artículo 100 de la LMV, las cuales establecen que son relacionadas con una sociedad las siguientes personas:
 
-En dicho contexto y luego de aludir a la objetividad del artículo 41 G; a la remisión que dicha norma efectúa al artículo 100 de la Ley N° 18.045, sobre mercado de valores (LMV); a la inaplicabilidad del inciso 2°, del artículo 98 de dicha ley; a los Oficios N° 3.105 de 2016 y 1.293 de 2017, de este Servicio; y al Oficio N° 3.267 de 2017, de la Comisión para el Mercado Financiero (CMF) &ndash;antes Superintendencia de Valores y Seguros&ndash;; solicita lo siguiente:
+a) Las entidades del grupo empresarial al que pertenece la sociedad;
 
-a) Se oficie a la CMF a fin de que confirme el criterio expuesto en su Oficio N° 3.267 de 2017, respecto al concepto de relación contenido en el artículo 100 de la LMV y, en particular, respecto a la improcedencia de estimar que dos personas naturales pueden encontrarse relacionadas entre sí.
+b) Las personas jurídicas que tengan, respecto de la sociedad, la calidad de matriz, coligante, filial o coligada, en conformidad a las definiciones contenidas en la ley N° 18.046; y,
 
-b) Se reconsideren, previo pronunciamiento de la CMF, los Oficios N° 3.105 de 2016 y 1.293 de 2017, de este Servicio, y en su lugar se pronuncie un nuevo Oficio que confirme:
+d) Toda persona que, por sí sola o con otras con que tenga acuerdo de actuación conjunta, pueda designar al menos un miembro de la administración de la sociedad o controle un 10% o más del capital o del capital con derecho a voto si se tratare de una sociedad por acciones.
 
-- Que para efectos de determinar el control sobre una entidad en el contexto del artículo 41 G de la LIR, no corresponde utilizar la presunción de acuerdo de actuación conjunta contenida en el inciso 2°, del artículo 98 de la LMV, por cuanto: (i) la norma del artículo 41 G de la LIR sólo se refiere a los literales a), b) y d), del artículo 100 de la LMV para efectos de establecer el concepto de relación con una entidad, no siendo la remisión extensible a otros conceptos como control, controlador o acuerdo de actuación conjunta; y (ii) las normas de relación a las que se remite el artículo 41 G de la LIR, se limitan a la existencia de vínculos de carácter patrimonial respecto de una sociedad y nunca entre personas naturales.
+Colige que analizado de manera independiente el literal d) del artículo 100 de la LMV, en relación al inciso segundo del artículo 98 del mismo cuerpo legal, que establece una presunción de pacto de actuación conjunta, se concluye que una persona natural, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad, se considerarán relacionados a una sociedad solo en el caso que: i) participen conjuntamente de esa sociedad; y, ii) que entre todos ellos posean el 10% o más del capital de dicha sociedad, y de incumplirse alguno de estos requisitos, ninguna de dichas personas podrá entenderse relacionada con la sociedad. Afirma además, que en ningún caso la norma referida los hace relacionados entre ellos, sino exclusivamente con la sociedad respectiva.
 
-- Que, en consecuencia, una vez efectuada la liquidación de los activos de la Sucesión XXXX, y adjudicadas las acciones de la sociedad controlada en el extranjero en un 16,6% a cada uno de los herederos, no deberán sumarse sus participaciones para determinar el control bajo las reglas que exige el artículo 41 G de la LIR &ndash;ello para hacer aplicable la normativa sobre rentas pasivas respecto de una sociedad en el exterior&ndash;, por cuanto estos no se consideran relacionados entre sí.
+Para apoyar sus afirmaciones, complementa su primera presentación, acompañando el Dictamen N° 3.267 de 31-1-2017 de la Superintendencia de Valores y Seguros (SVS), mediante el cual, entre otros aspectos, se concluye lo siguiente:
 
-II. ANÁLISIS.
+En cuanto a las consultas referidas a la posibilidad que personas naturales (que sean hermanos o primos) puedan ser consideradas personas relacionadas entre sí, cabe señalar que conforme a lo dispuesto en el artículo 100 de la LMV, las personas relacionadas -en todas las hipótesis contenidas en dicha disposición legal- se encuentran vinculadas "con una sociedad", es decir, la ley define la "relación" entre personas siempre respecto de una sociedad y no respecto de personas naturales. De esta forma, la legislación establece que una persona natural puede ser relacionada con una sociedad, pero no contiene casos en los cuales una persona natural pueda estar "relacionada" con otra persona natural. De lo cual podemos colegir que no sería factible establecer que personas naturales puedan ser consideradas "relacionadas entre sí" a la luz de la LMV.
 
-Sobre el particular, cabe señalar que el N° 2, de la letra A.-, del artículo 41 G de la LIR, dispone que se entenderá que una entidad es controlada cuando al cierre del ejercicio respectivo o en cualquier momento durante los doce meses precedentes, los contribuyentes a que se refiere, &ldquo;por sí solos o en conjunto, y en la proporción que corresponda, con personas o entidades relacionadas en los términos establecidos en las letras a), b) y d) del artículo 100 de la ley N° 18.045, cualquiera sea la naturaleza de los intervinientes&rdquo;, posean directa o indirectamente, respecto de la entidad de que se trate, el 50% o más de alguno de los derechos que enumera la norma.
+En cuanto a la existencia de un acuerdo de actuación conjunta que la LMV presume, el Dictamen citado señala que “cada una de dichas personas se denomina ‘miembro de controlador’, conforme a lo señalado en el artículo 97 de la LMV, pero ello no implica que se transformen en personas ‘relacionadas entre sí’”. Afirma que en el mismo sentido se ha expresado la SVS mediante Oficio Ordinario N° 4.550 de 27-4-2007, al señalar que “no es posible colegir que los miembros del grupo controlador sean entidades relacionadas entre sí, solo por esa circunstancia”.
 
-Por su parte, el artículo 100 de la LMV, especifica a las personas que se consideran relacionadas con una sociedad, considerando en su letra d), a &ldquo;toda persona que, por sí sola o con otras con que tenga acuerdo de actuación conjunta, pueda designar al menos un miembro de la administración de la sociedad o controle un 10% o más del capital o del capital con derecho a voto si se tratare de una sociedad por acciones&rdquo;.
+Finalmente, señala que en los casos en que el legislador tributario ha querido considerar relacionados a algunas personas por vínculo de matrimonio o parentesco lo ha señalado de manera expresa, como ocurre en el nuevo texto del artículo 17 N° 8 de la LIR, demostrando con ello que si su intención hubiera sido incluir esta clase de relaciones para efectos del artículo 41 G, lo hubiera hecho expresamente.
 
-A su turno, el artículo 98 de la ley citada, define el acuerdo de actuación conjunta como &ldquo;la convención entre dos o más personas que participan simultáneamente en la propiedad de una sociedad, directamente o a través de otras personas naturales o jurídicas controladas, mediante la cual se comprometen a participar con idéntico interés en la gestión de la sociedad u obtener el control de la misma&rdquo;. A este respecto, los incisos siguientes del artículo 98 citado, contemplan algunas presunciones de acuerdo de actuación conjunta, una de las cuales se da &ldquo;entre una persona y su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad&rdquo;.
+Conforme lo anterior, solicita se confirme que la parte final del Oficio N° 3.105 de 2016, al señalar que se presume "la relación entre una persona, su cónyuge o parientes... "no hace sino confirmar la relación que se presume entre estos y la sociedad en que participan, pero en ningún caso pretende configurar una relación entre ellos, no contemplada en las letras a), b) ni d) de la Ley de Mercado de Valores. A su juicio, una interpretación en otro sentido extendería la aplicación de las normas de relación a casos no contemplados por el legislador, vulnerando el principio de legalidad.
 
-Ahora bien, mediante el Oficio N° 363 de 2018 este Servicio instruyó sobre la materia que, atendido el tenor literal del encabezado del artículo 100 de la LMV y la jurisprudencia contenida en el Oficio N° 3.267 de 2017, de la CMF, queda de manifiesto que el artículo 41 G de la LIR, al disponer como uno de los requisitos para su aplicación la existencia de una entidad controlada por personas o entidades relacionadas en los términos del artículo 100 de la LMV, no establece una hipótesis de relación entre una persona y su cónyuge o sus parientes, sino que entre cualquiera de éstos y la sociedad respectiva.
+II.- ANÁLISIS.
 
-Cabe hacer presente, que el citado Oficio N° 3.267 de 2017, de la CMF, instruye, en lo pertinente: &ldquo;Finalmente, en lo referido a la existencia de un "acuerdo de actuación conjunta" que la ley presume, atendidas las relaciones de parentesco, cabe indicar que cada una de dichas personas se denomina "miembro de controlador", conforme a lo señalado en el artículo 97 de la LMV, pero ello no implica que se transformen en personas "relacionadas entre sí", como ya se señaló por este Servicio mediante Oficio Ord. N°4550 de 27 de abril de 2007, si no se configuran a su respecto las hipótesis contenidas en el artículo 100 de la LMV, ya citado.&rdquo;.
+El numeral 2 de la letra A del artículo 41 G de la LIR, exige que las entidades sin domicilio ni residencia en Chile, sean controladas por contribuyentes, entidades o patrimonios constituidos, domiciliados, establecidos o residentes en Chile. Entiende asimismo que la entidad es controlada por tales sujetos, cuando en las fechas que indica, estos últimos, “por sí solos o en conjunto y en la proporción que corresponda, con personas o entidades relacionadas en los términos establecidos en las letras a), b) y d) del artículo 100 de la Ley N° 18.045, cualquiera sea la naturaleza de los intervinientes”, posean directa o indirectamente, respecto de la entidad de que se trate, un porcentaje determinado sobre el capital, o derechos.
 
-Se desprende de las referidas instrucciones y de las reglas de interpretación de la ley contenidas en el artículo 20 del Código Civil , lo siguiente:
+En primer lugar, debe señalarse que el encabezado del artículo 100 de la LMV, prescribe que “Son relacionadas con una sociedad las siguientes personas”. Como puede apreciarse de la sola lectura de este encabezado, la norma establece hipótesis de relación entre una sociedad y ciertas personas.
 
-a) Que las normas de relación a que se refiere el artículo 100 de la LMV deben analizarse respecto de una sociedad.
+Pues bien, el supuesto de relación de la letra d) del artículo 100 de la LMV, se configura entre una persona con una sociedad, cuando la primera, por sí sola o con otras con que tenga acuerdo de actuación conjunta, pueda designar al menos un miembro de la administración de la última, o controle un 10% o más de su capital o de su capital con derecho a voto si se tratare de una sociedad por acciones.
 
-b) Que en el contexto del artículo 41 G de la LIR, la letra d), del artículo 100 de la LMV, en aquella parte que hace expresa mención a los acuerdos de actuación conjunta, debe interpretarse necesariamente acudiendo a su significación legal esto es, conforme a lo establecido en el artículo 98 de la LMV, norma que define qué debe entenderse por acuerdo de actuación conjunta, estableciendo, además, una serie de situaciones en las que dicho acuerdo se presume.
+A su turno, el artículo 98 de la LMV, presume que existe un acuerdo de actuación conjunta entre una persona y su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad.
 
-Por lo demás, ignorar dicha norma implicaría escindir la referencia que el artículo 41 G de la LIR efectúa a la letra d), del referido artículo 100 de la LMV. Lo anterior, debido a que el supuesto contenido en la referida letra d) no se restringe a la configuración de un acuerdo de actuación conjunta real y no presumido, sino a cualquier acuerdo que pudiese configurarse de acuerdo a las normas del artículo 98 de la LMV.
+Sobre esta presunción de la LMV, la jurisprudencia administrativa de la Superintendencia de Valores y Seguros, en Dictamen N° 3267 de 2017, ha señalado que “en lo referido a la existencia de un acuerdo de actuación conjunta que la ley presume, atendidas las relaciones de parentesco, cabe indicar que cada una de dichas personas se denomina “miembro de controlador” conforme a lo señalado en el artículo 97 de la LMV, pero ello no implica que se transformen en personas “relacionadas entre sí”.
 
-c) Que el sólo acuerdo de actuación conjunta, entendido éste en los términos del artículo 98 de la LMV, no determina la existencia de relación entre las personas que forman parte de mismo, sino que para dicho efecto es necesario la concurrencia de alguna de las hipótesis del artículo 100 de la LMV.
+De esta forma, atendido el tenor literal del encabezado del artículo 100 de la LMV y la jurisprudencia citada, queda de manifiesto que el artículo 41 G de la LIR, al establecer como un requisito para su aplicación la existencia de una entidad controlada por personas o entidades relacionadas, en los términos del artículo 100 de la LMV, no establece una hipótesis de relación entre una persona y su cónyuge o sus parientes, sino que entre cualquiera de éstos y la sociedad respectiva.
 
-III. CONCLUSIÓN.
+III.- CONCLUSIÓN.
 
-En base al análisis efectuado, y considerando sólo los antecedentes que reseña en su presentación, se indica lo siguiente:
+Para efectos del artículo 41 G de la LIR, no hay relación entre una persona y su cónyuge o sus parientes, sino que, entre cualquiera de éstos y la sociedad respectiva, en las hipótesis establecidas en el artículo 100 de la LMV.
 
-a) Que atendido lo instruido en el Oficio N° 363 de 2018, de este Servicio, resulta inoficioso solicitar a la CMF que confirme el criterio expuesto en su Oficio N° 3.267 de 2017.
+VÍCTOR VILLALÓN MÉNDEZ
 
-b) Que si bien un acuerdo de actuación conjunta no determina la existencia de relación entre los partícipes del mismo, para efectos de interpretar la letra d), del artículo 100 de la LMV, en el contexto del artículo 41 G de la LIR, debe estarse a lo dispuesto en el artículo 98 de la LMV, tanto en cuanto a su definición como a sus presunciones, de modo que a este último respecto no corresponde reconsiderar los Oficios N° 3.105 de 2016 y 1.293 de 2017.
+DIRECTOR (S)
 
-c) Que, adjudicadas las acciones de la sociedad controlada en el extranjero a cada uno de los herederos, no deberán sumarse sus participaciones para efectos de determinar si existe control en los términos preceptuados en el artículo 41 G de la LIR, por cuanto aquellos no deben considerarse relacionados entre sí por aplicación del artículo 100 de la LMV.
-
-FERNANDO BARRAZA LUENGO
-
-DIRECTOR
-
-Oficio N° 705, de 13.04.2018
+Oficio N° 363, de 15.02.2018
 
 Subdirección Normativa
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado por las Leyes N° 20.848, N° 20.899 y N° 21.210. Deja sin efecto la Circular N° 48 de 1978. Fuente: Subdirección Normativa.
+n Normativa. Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado por las Leyes N° 20.848, N° 20.899 y N° 21.210. Deja sin efecto la Circular N° 48 de 1978. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

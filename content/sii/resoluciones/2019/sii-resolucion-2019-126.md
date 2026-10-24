@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Autoriza modalidad de timbraje de documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autoriza modalidad de timbraje de documentos tributarios en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

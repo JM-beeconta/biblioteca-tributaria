@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;N NORMATIVA Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
+N NORMATIVA Tablas de Impuesto Único de Segunda Categoría para el mes de julio del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

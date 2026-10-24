@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

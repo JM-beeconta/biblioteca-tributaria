@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Complementa Resolución Exenta SII N°129 de 29 de diciembre de 2017, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
+n de Asistencia al Contribuyente Complementa Resolución Exenta SII N°129 de 29 de diciembre de 2017, en los términos que indica. Fuente: Dirección de Grandes Contribuyentes
 
 ## Referencias detectadas
 

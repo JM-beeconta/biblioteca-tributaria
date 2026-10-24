@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Condonación excepcional de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°, N° 2 y N° 11 del Código Tributario y condonación de intereses en el caso de deudas por concepto de Impuesto Territorial y giros infraccionales que no accedan al pago de impuestos. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Condonación excepcional de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 N° 1 inciso 1°, N° 2 y N° 11 del Código Tributario y condonación de intereses en el caso de deudas por concepto de Impuesto Territorial y giros infraccionales que no accedan al pago de impuestos. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

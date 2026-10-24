@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Resolución Exenta SII N° 04 del 16 de Enero del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
+n de Asistencia al Contribuyente Resolución Exenta SII N° 04 del 16 de Enero del 2019 Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

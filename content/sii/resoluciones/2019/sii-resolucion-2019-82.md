@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Asistencia al Contribuyente Reemplaza Anexo I de Resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa
+n Asistencia al Contribuyente Reemplaza Anexo I de Resolución Ex. SII N°48, de 31 de mayo de 2018. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

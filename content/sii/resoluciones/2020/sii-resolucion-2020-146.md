@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Delega facultades y asigna funciones, en las jefaturas y materias que indica. Deja sin efecto Resolución Exenta N° 1 de 2020. Fuente: Subdirección de Administración.
+n de Asistencia al Contribuyente. Delega facultades y asigna funciones, en las jefaturas y materias que indica. Deja sin efecto Resolución Exenta N° 1 de 2020. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

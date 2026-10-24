@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2017 y el 9 de febrero del año 2017. Fuente: Oficina de Gestión Normativa
+n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2017 y el 9 de febrero del año 2017. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

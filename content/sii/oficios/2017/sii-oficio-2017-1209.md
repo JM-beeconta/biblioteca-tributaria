@@ -4,78 +4,87 @@
 - Tipo: oficio
 - Número: 1209
 - Año: 2017
-- Fecha: 2017-12-15
+- Fecha: 2017-06-01
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2638.htm
-- Hash SHA-256: ffb15c5cceafe9a8f5f436629312c494ed519f2f62a23cf3da6eb1da18f9d2fc
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1209.htm
+- Hash SHA-256: 0f3abed0670dbe70acb66fdba8a57b61f47b43b4bb6c467512ad6d7541a7b0e0
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 17, N°9 &ndash; Ley N° 16.271, Art. 24 &ndash; . (Ord. Nº 2638, de 15-12-2017) |
+Impuesto a la Renta. Renta – Actual Ley sobre Impuesto a la – Art. 17, N°9 – Ley N° 16.271, Art. 24 – Oficio N° 1702, de 2016. (Ord. Nº 1209, de 01-06-2017) | | Word Consulta tratamiento tributario de donación recibida en Paraguay.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1209,"year":2017}
+- {"type":"oficio","number":1702,"year":2016}
+- {"type":"oficio","number":1619,"year":2013}
+- {"type":"oficio","number":3924,"year":2000}
 - {"type":"articulo","law":"LIR","article":"17 N"}
+- {"type":"articulo","law":"LIR","article":"3"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°9 – LEY N° 16.271, ART. 24 – OFICIO N° 1209, DE 2017. (Ord. Nº 2638, de 15-12-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°9 – LEY N° 16.271, ART. 24 – OFICIO N° 1702, DE 2016. (Ord. Nº 1209, de 01-06-2017)
 
-SOLICITA CONFIRMAR CRITERIOS QUE INDICA SOBRE TRIBUTACIÓN APLICABLE A DONACIONES DESDE EL EXTERIOR.
+CONSULTA TRATAMIENTO TRIBUTARIO DE DONACIÓN RECIBIDA EN PARAGUAY.
 
-Se ha solicitado a este Servicio confirmar criterios que indica sobre tributación aplicable a donaciones desde el exterior.
+Se ha solicitado a este Servicio confirmar el tratamiento tributario que tendría una donación recibida en Paraguay consistente en dinero, acciones e inmuebles, todos bienes situados en dicho país.
 
 I ANTECEDENTES
 
-De acuerdo con su presentación, se encuentra asesorando a un contribuyente extranjero organizado como entidad sin fines de lucro (en adelante el &ldquo;donante extranjero&rdquo;).
+De acuerdo a su presentación, se encuentra asesorando a un cliente de nacionalidad paraguaya, domiciliado y residente en Chile desde el año 2009, quien recibirá en Paraguay – previo cumplimiento de los trámites correspondientes a la legislación de ese país – una donación de su madre, consistente en dinero, acciones de sociedades domiciliadas en Paraguay e inmuebles situados en el referido país.
 
-Indica que, con ocasión de los daños causados por incendios forestales, el donante extranjero tiene la intención de realizar donaciones en dinero a fundaciones chilenas cuyo objeto sea proteger y conservar recursos forestales o naturales en Chile (en adelante los &ldquo;donatarios&rdquo;), para que tales entidades lo utilicen de acuerdo a sus fines. Los fondos de propiedad del donante extranjero que serían donados a fundaciones chilenas, tienen su origen en actividades, bienes y rentas de fuente exclusivamente extranjera.
+Agrega que la donante también tiene nacionalidad paraguaya y que jamás ha tenido domicilio ni residencia en Chile. Tampoco ha tenido inversiones en nuestro país ni ha obtenido rentas de fuente chilena, de suerte que todos los bienes que pretende donar a su hijo han sido adquiridos con rentas generadas en Paraguay.
 
-En ese contexto, en forma previa a la materialización de tales donaciones, requiere confirmar el tratamiento tributario en Chile para el donatario, aplicable a las donaciones en dinero, tanto desde el punto de vista de la Ley sobre Impuesto a la Renta como de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones.
+Al respecto, tras citar las normas legales pertinentes y lo resuelto en el Oficio N° 1619 de 2013, solicita confirmar que la donación antes descrita:
 
-Al respecto, tras citar las normas pertinentes de la Ley sobre Impuesto a la Renta (artículo 17 N° 9), del Código Civil, de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones y la jurisprudencia administrativa pertinente [1] , solicita confirmar los siguientes criterios:
+No se encuentra gravada con el Impuesto establecido en la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones, en la medida que los bienes están situados en el extranjero y no hayan sido adquiridos con recursos provenientes de Chile.
 
-Que, la donación recibida desde el extranjero por los donatarios chilenos constituye un ingreso no renta, por aplicación del artículo 17 N° 9 de la Ley sobre Impuesto a la Renta y, en consecuencia, no se encuentra sujeta a impuestos de la citada ley; y,
-
-Que, el donatario chileno que recibe una donación en dinero realizada por una entidad extranjera que no es contribuyente en Chile, domiciliada en el extranjero y financiada con fondos asimismo de origen extranjero, no se encuentra sujeto a los impuestos de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones por aplicación del artículo 1° en concordancia con el artículo 24 de dicho cuerpo legal.
+Que el aumento patrimonial experimentado por el donatario como consecuencia de haber percibido una donación en el extranjero en los términos descritos, no constituye renta y por tanto no quedará afecto al Impuesto a la Renta conforme lo dispone el artículo 17 N° 9 de la Ley sobre Impuesto a la Renta.
 
 II ANÁLISIS
 
-En relación con su consulta, de acuerdo a las normas legales y jurisprudencia administrativa que cita en su presentación, así como lo resuelto recientemente por este Oficio [2] , se informa que no se encuentra gravada con el Impuesto a las Donaciones la donación en que:
+De acuerdo a la jurisprudencia administrativa de este Servicio [1] , y en virtud de la remisión dispuesta por el artículo 24° de la Ley N° 16.271, “resultan aplicables a las donaciones los artículos 1° y 27° del citado cuerpo legal, conforme a los cuales si el causante tuvo su último domicilio en el país quedan afectos al tributo los bienes que se encuentran en el país y en el extranjero, y en caso contrario, únicamente quedan afectos al mismo tributo, los bienes del causante que se encuentran dentro de Chile. La aplicación de las normas señaladas a las donaciones, nos lleva a concluir que, si el donante tiene su domicilio en el país, resultan afectas a impuesto las donaciones de bienes ubicados en el país y en el extranjero. En caso contrario, si el donante no tiene domicilio en Chile, únicamente se aplica el impuesto respecto de donaciones de bienes ubicados en el país.”
 
-El donante sea extranjero, sin domicilio ni residencia en Chile
+En consecuencia, reiterando el criterio precedente al caso planteado es posible concluir que no se encuentra gravada con el Impuesto a las Donaciones la donación en que, como se expone en su presentación:
 
-El donatario tenga residencia en Chile;
+El donante es una persona domiciliada y residente en Paraguay
 
-La donación recaiga sobre bienes situados en el extranjero;
+La donataria es una persona de nacionalidad paraguaya, pero domiciliada y residente en Chile;
 
-La donación sea efectuada con fondos de fuente extranjera del donante; esto es, lo donado no se haya adquirido con, o no tenga su origen en, recursos provenientes del país.
+La donación recae sobre bienes situados en Paraguay;
 
-Lo anterior, por cierto, será válido en la medida que el acto jurídico o contrato celebrado en el extranjero no sólo cumpla con las disposiciones legales del país respectivo sino además pueda calificar como donación de acuerdo a nuestra legislación.
+La donación ha sido efectuada con fondos de fuente extranjera del donante.
 
-Respecto del tratamiento tributario que tendría la referida donación en frente de la Ley sobre Impuesto a la Renta, este Servicio ha resuelto que, en el caso de donaciones recibidas desde el exterior, es aplicable lo dispuesto en el artículo 17 N° 9 de la Ley de la Renta, en el sentido que constituye ingreso no renta la adquisición de bienes por donación [3] .
+Lo anterior, por cierto, será válido en la medida que el acto jurídico o contrato celebrado en Paraguay no sólo cumpla con las disposiciones legales de dicho país sino además pueda calificar como donación de acuerdo a nuestra legislación.
+
+Respecto del tratamiento tributario que tendría la referida donación en frente de la Ley sobre Impuesto a la Renta, este Servicio ha resuelto que, en el caso de donaciones recibidas desde el exterior, es aplicable lo dispuesto en el artículo 17 N° 9 de la Ley de la Renta, en el sentido que constituye ingreso no renta la adquisición de bienes por donación [2] .
+
+El mismo criterio debe entenderse aplicable al caso que, como ocurre en la especie, la donación se reciba en el extranjero, respecto de bienes también situados en el extranjero.
+
+Con todo, siendo el donatario una persona con domicilio o residencia en Chile, afecta a tributación por sus rentas de cualquier origen, sea que la fuente de entradas se encuentre situada dentro del país o fuera de él (artículo 3° de la Ley sobre Impuesto a la Renta), quedarán gravados conforme las reglas generales los réditos, intereses o rentas obtenidas a partir de los bienes donados, una vez que éstos ingresen al patrimonio del donatario.
+
+Asimismo, y a modo ejemplar, cabe señalar que, por comprender bienes inmuebles la donación descrita en su presentación, el mayor valor obtenido en su enajenación quedará afecto al tratamiento tributario que establece la legislación chilena [3] .
 
 III CONCLUSIÓN
 
-Conforme lo expuesto precedentemente, la descripción efectuada en su presentación, y respecto de los criterios 1) y 2) que menciona en la misma, se confirma que:
+Conforme lo expuesto precedentemente se puede confirmar que la donación recibida en Paraguay, de acuerdo a los hechos descritos en su presentación:
 
-La donación recibida desde el extranjero por los donatarios chilenos constituye un ingreso no renta, por aplicación del artículo 17 N° 9 de la Ley sobre Impuesto a la Renta y, en consecuencia, no se encuentra sujeta a impuestos de la citada ley; y,
+No se encuentra gravada con el Impuesto establecido en la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones.
 
-El donatario chileno que recibe una donación en dinero realizada por una entidad extranjera que no es contribuyente en Chile, domiciliada en el extranjero y financiada con fondos asimismo de origen extranjero, no se encuentra sujeto a los impuestos de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones por aplicación del artículo 1° en concordancia con el artículo 24 de dicho cuerpo legal.
+El aumento patrimonial experimentado por el donatario como consecuencia de haber percibido una donación en el extranjero, no constituye renta conforme lo dispone el artículo 17 N° 9 de la Ley sobre Impuesto a la Renta.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2638, de 15.12.2017
+Oficio N° 1209, de 01.06.2017
 
 Subdirección Normativa
 
 Dpto. de Técnica Tributaria
 
-[1] Oficios N° 7224 de 1980; 4591 y 5110 de 1981; 3715 de 1987; 2130 y 2126 de 1989; 1786 y 1333 de 1992; 1786 de 1999; 316 de 2001; 164, 3409 y 3686, de 2005; 4292 de 2006; 366 de 2010; 362 de 2014; 494 y 1809 de 2015 y 1702 de 2016; en materia de Impuesto a la Renta; y Oficios N° 1648 y N° 3924 de 2010, N° 1619 y N° 2140 de 2013, y 1702 de 2016, en materia de Impuesto a las Donaciones.
+[1] Oficio N° 3924 de 2000.
 
-[2] Oficio N° 1209 de 2017
+[2] Oficios N° 1156 de 2002 y N° 2633 de 2004.
 
-[3] Oficios N° 1156 de 2002 y N° 2633 de 2004
+[3] Oficio N° 1702 de 2016.

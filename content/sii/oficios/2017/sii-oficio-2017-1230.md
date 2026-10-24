@@ -6,61 +6,68 @@
 - Año: 2017
 - Fecha: 2017-06-05
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja2547.htm
-- Hash SHA-256: 7a649a1f923218a0545a4300fd23e554f22e5b6628fc11039651074fe7f4ff4f
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1230.htm
+- Hash SHA-256: 5599d0eaadcfa36ef779d7517acdfc1afb9d20953734bec48a70867f699b6a4c
 
 ## Resumen
 
-Ley N° 18.401. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 19.420 &ndash; . (Ord. Nº 2547, de 04-12-2018) |
+Impuesto a la Renta. Renta – Actual Ley sobre Impuesto a la – Art. 41 – Ley N° 19.420, de 1995, Art. 1 – Oficio N°194, de 2014. (Ord. Nº 1230, de 05-06-2017) | | Word Improcedencia del crédito tributario que establece la Ley 19.420, denominada Ley Arica, respecto de proyecto de inversión que se indica. Ratifica pronunciamiento emitido a través de Oficio N° 194, de fecha 31.01.2014.
 
 ## Referencias detectadas
 
-- Sin referencias estructuradas detectadas
+- {"type":"circular","number":50,"year":1995}
+- {"type":"oficio","number":194,"year":2014}
+- {"type":"oficio","number":1774,"year":1999}
+- {"type":"articulo","law":"LIR","article":"41"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.420 – OFICIO N° 1230 DE 5 DE JUNIO DE 2017. (Ord. Nº 2547, de 04-12-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 – LEY N° 19.420, DE 1995, ART. 1 – OFICIO N°194, DE 2014. (Ord. Nº 1230, de 05-06-2017)
 
-VERIFICACIÓN DE CRÉDITO LEY N° 19.420 (ARICA Y PARINACOTA).
+IMPROCEDENCIA DEL CRÉDITO TRIBUTARIO QUE ESTABLECE LA LEY 19.420, DENOMINADA LEY ARICA, RESPECTO DE PROYECTO DE INVERSIÓN QUE SE INDICA. RATIFICA PRONUNCIAMIENTO EMITIDO A TRAVÉS DE OFICIO N° 194, DE FECHA 31.01.2014.
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual remite antecedentes del contribuyente que singulariza, solicitando un pronunciamiento acerca de su aptitud para acogerse al crédito tributario contemplado en la Ley N° 19.420.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita un pronunciamiento acerca de la procedencia del crédito tributario de la Ley N° 19.420, denominada Ley Arica, ello en relación con consulta formulada ante esa Unidad, respecto de un proyecto de inversión que comprende tomar en arriendo con opción de compra (leasing) un inmueble para efectuar construcciones (movimiento de tierra, cerco perimetral, luminarias, red de agua, red de lluvias, oficinas etc.) que será financiado con un préstamo comercial, con el objeto de prestar el servicio de depósito de contenedores.
 
-Al respecto, y a la luz de los antecedentes tenidos a la vista, es posible indicar que el proyecto de inversión que el contribuyente plantea desarrollar en la ciudad de Arica, no puede acogerse al crédito de la ley señalada, de acuerdo a los mismos argumentos contenidos en el Oficio N° 1230 de 5 de junio de 2017, copia del cual se acompaña a la presente respuesta.
+I.- ANTECEDENTES.
 
-En ese Oficio, se denegó el acceso al crédito indicado a un contribuyente que efectuaría un proyecto de inversión consistente en tomar en arriendo con opción de compra un inmueble, el cual sería objeto de diversas construcciones, con el objeto prestar el servicio de depósito de contenedores. En dicha oportunidad, este Servicio señaló que tales inmuebles no estarían destinados a los fines que establece la Ley N° 19.420, esto es, a su explotación comercial con fines turísticos; a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas. Además, que en lo que concernía a las oficinas que el proyecto contemplaba para el desarrollo del giro o actividad del contribuyente inversionista, tampoco resultaba procedente el beneficio tributario, dado que el giro o actividad a desarrollar por el inversionista, consistente en proporcionar un espacio para el depósito de contenedores de carga, no era la prestación de un servicio con el que, conforme a lo que expresamente establece la ley, deben estar directamente vinculadas las inversiones realizadas que contemple el proyecto, puesto que el depósito de contenedores de carga, corresponde en el hecho a un arrendamiento de un bien corporal inmueble.
+Señala que, a través del Oficio N° 194, de 31.01.2014, relativo a consulta por aplicación del mismo crédito tributario, respecto de una inversión efectuada en la construcción de un centro comercial del tipo mall, en el que se interpretó en el capítulo de las conclusiones, que las inversiones en la construcción de inmuebles solo pueden optar al beneficio tributario en la medida que la destinación del mismo sea para explotación comercial con fines turísticos, a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas.
 
-En la especie, el contribuyente expone en su presentación que su giro es el de &ldquo;Transporte por carretera, depósitos y almacenaje&rdquo;, que el proyecto de inversión que desarrollará, consiste en un &ldquo;Centro Logístico y Depósito de Contenedores&rdquo;, el cual &ldquo;se relaciona en forma directa con dos actividades contempladas en el giro del negocio de XXXXXXX, las que son: depósito y almacenaje, e indirecta a través de su giro de transporte.&rdquo; Agrega que &ldquo;en particular se entregarán servicios logísticos a la carga en contenedores y la carga fraccionada que requieren los servicios del puerto de Arica, siendo los principales:
+Agrega que en virtud del anterior pronunciamiento, se entendería que el proyecto de inversión que consulta el contribuyente (excepto en lo que concierne a oficinas y si cumple por sí con los demás requisitos legales) no podría acogerse a la franquicia tributaria, atendido que su destinación para prestar servicios de depósito de contenedores no encuadraría con los fines señalados en el referido Oficio N° 194 de 2014.
 
-&bull; Atención logística de cargas, exportación e importación, contenedores llenos y vacíos
+Sobre lo anterior, solicita la reconsideración de esta interpretación, atendido que, dentro de los fines previstos para las inversiones en construcciones nuevas, en orden a la obtención del crédito tributario de la Ley Arica, se comprende la producción de bienes o la prestación de servicios, tal como se dispuso en el literal a) de la letra B del Capítulo III de la Circular N° 50 de 1995, sobre "Crédito Tributario por Inversiones en Provincias de Arica y Parinacota", que señala lo siguiente: "En consecuencia, la inversión debe estar conformada por los siguientes bienes, y su monto superar los límites que se indican en la letra D) siguiente: a) Bienes físicos del activo inmovilizado que correspondan a construcciones nuevas, excluyéndose el valor del terreno, ya sea, construidos directamente por el contribuyente o a través de otras empresas, siempre y cuando sean depreciables y estén vinculados directamente con la producción de bienes o la prestación de servicios de la empresa".
 
-&bull; Manejo de cargas sobredimensionadas
+Consulta a continuación, si procede que la cesión en arriendo de un inmueble -cuya construcción constituye el proyecto de inversión- sea calificada como "prestación de servicios" para los fines del crédito tributario de la Ley Arica, en el sentido amplio que se determinó a través del Oficio N° 1774 de 1999, el cual al referirse a las empresas prestadoras de servicios las conceptualizó como "aquellas que efectúan prestaciones de servicios a terceros, sin que ello implique transferencia de bienes".
 
-&bull; Consolidación y Des consolidación (sic) de carga
+II.- ANÁLISIS.
 
-&bull; Trasvasije de cargas
+El inciso primero del artículo 1° de la Ley N° 19.420 de 1995, establece que: “ Los contribuyentes que declaren el impuesto de Primera Categoría de la Ley de Impuesto a la Renta sobre renta efectiva determinada según contabilidad completa, tendrán derecho a un crédito tributario por las inversiones que efectúen en la XV Región destinadas a la producción de bienes o prestación de servicios en dicha región, de acuerdo a las disposiciones del presente Párrafo.
 
-&bull; Almacenaje de carga
+Por su parte, los incisos tercero y cuarto de este mismo artículo, establecen que: “El crédito será equivalente al 30% del valor de los bienes físicos del activo inmovilizado que correspondan a construcciones, maquinarias y equipos, incluyendo los inmuebles destinados preferentemente a su explotación comercial con fines turísticos, directamente vinculados con la producción de bienes o prestación de servicios del giro o actividad del contribuyente, adquiridos nuevos o terminados de construir en el ejercicio, según su valor actualizado al término del ejercicio, de conformidad con las normas del artículo 41 de la Ley sobre Impuesto a la Renta y antes de deducir las depreciaciones correspondientes.
 
-&bull; Reparación de contenedores
+Sin perjuicio de lo señalado en el inciso anterior, también tendrán derecho al crédito los contribuyentes que inviertan en la construcción de edificaciones destinadas a oficinas o al uso habitacional -que incluyan o no locales comerciales, estacionamientos o bodegas-, ubicadas en las áreas a que se refieren las letras a) y c) del artículo 19, terminados de construir en el ejercicio; según su valor actualizado al término del ejercicio de conformidad con las normas del artículo 41 de la Ley sobre Impuesto a la Renta y antes de deducir las depreciaciones correspondientes. El beneficio podrá ser solicitado sólo una vez para el mismo inmueble.”
 
-&bull; Lavado y sanitización de contenedores
+A través de la jurisprudencia [1] que Ud. indica en su presentación, el Servicio concluyó que la inversión en la construcción de un inmueble, que luego será arrendado y destinado finalmente al funcionamiento de locales comerciales, no tiene derecho al beneficio tributario establecido en la Ley N°19.420, toda vez que dichos inmuebles no están destinados a los fines que establece el referido texto legal, vale decir a su explotación comercial con fines turísticos; a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas.
 
-&bull; Pre-asignaciones
+En el caso sobre el cual Ud. consulta, incluso en lo que concierne a las oficinas que el proyecto contemple para el desarrollo del giro o actividad del contribuyente inversionista, cabe expresar que tampoco es procedente el beneficio tributario establecido en la Ley N°19.420, toda vez que el giro o la actividad a desarrollar por el inversionista, consistente en proporcionar un espacio para el depósito de contenedores de carga, no se trata de la prestación de un servicio con el que, conforme a lo que expresamente establece la ley, deben estar directamente vinculadas las inversiones realizadas que contemple el proyecto, y tampoco se trata en este caso de inversiones en inmuebles destinados a los fines que establece el referido texto legal, vale decir a su explotación comercial con fines turísticos; a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas.
 
-&bull; Manipuleos de carga&rdquo;
+En relación con lo señalado en el párrafo anterior, respecto a que la actividad, a la que están destinadas las inversiones en análisis no corresponde o no se trata de la prestación de un servicio, cabe expresar que dicha actividad, consistente en proporcionar un espacio para el depósito de contenedores de carga, corresponde en el hecho al arrendamiento de un bien corporal inmueble o de una parte de él. Ahora bien, en relación con estos tipos de contratos cabe señalar, conforme se desprende de lo expresado en la jurisprudencia del Servicio [2] , que la prestación de un servicio implica y requiere el despliegue de una actividad por parte del prestador, en cambio el contrato de arrendamiento de cosas corporales inmuebles sólo obliga a entregar el goce de una cosa, pero no a desplegar ninguna actividad. De lo dicho se sigue que para calificar como una prestación de servicios el arrendamiento en cuestión, tampoco resulta procedente aplicar en este caso el sentido amplio que se determinó en el contexto de la situación resuelta a través del Oficio N° 1.774 de 1999.
 
-Luego, afirma en su presentación que en cuanto a los bienes adquiridos nuevos, se trata de &ldquo;grúas móviles, tipo reach taker (&hellip;) que serán utilizadas en el manipuleo de contenedores llenos y vacíos al interior del centro logístico de carga&rdquo;, agregando que su finalidad será &ldquo;el desarrollo de su giro principal, el cual es transporte de carretera, depósito y almacenaje, dando atención a las cargas que son atendidas en el puerto de Arica&rdquo;. En cuanto a los bienes construidos, expone que se trata del &ldquo;depósito de contenedores llenos y vacíos, el que cuenta con perímetro cerrado, control de acceso, sistemas de seguridad, oficinas para el personal, sistemas computacionales, equipamiento IT, muebles y útiles&rdquo;, agregando que su destino es el &ldquo;almacenamiento y logística de contenedores asociados a su recepción y despacho, más todos los servicios a la carga&rdquo;.
+III.- CONCLUSIÓN.
 
-Como puede apreciarse, la inversión que el contribuyente plantea desarrollar en la ciudad de Arica, consiste en la adquisición y construcción de bienes que se destinarán en lo principal a actividades de depósito y almacenaje, las cuales al consistir en general en el arrendamiento de un bien incorporal inmueble, actividad diversa de la prestación de un servicio, según se señaló en el Oficio N° 1230 de 5 de junio de 2017, no se encuadran en las actividades que considera la Ley N° 19.420, a saber, a la producción de bienes o prestación de servicios, entendidas estas actividades, como la realización de un proceso que implique la transformación de materias primas o insumos, en el caso de bienes, o la generación y prestación de servicios que tengan como consecuencia el inicio de una actividad económica, o bien la ampliación de una actividad prexistente que conlleven a un aumento real en la capacidad de producción o en el mejoramiento de la eficiencia del proceso productivo o en la prestación de servicios.
+Basado únicamente en los antecedentes que indica en su presentación, cabe expresar que el proyecto de inversión que señala en su consulta, incluso en lo que concierne a las oficinas que el proyecto contemple para el desarrollo del giro o actividad del contribuyente inversionista, no tiene derecho al beneficio tributario establecido en la Ley N°19.420, toda vez que el giro o la actividad a desarrollar por el inversionista, consistente en proporcionar un espacio para el depósito de contenedores de carga, no corresponde a la prestación de un servicio, con el que, conforme a lo que expresamente establece la ley, deben estar directamente vinculadas las inversiones realizadas que contemple el proyecto, y tampoco se trata de inversiones en inmuebles destinados a los fines que establece el referido texto legal, vale decir a su explotación comercial con fines turísticos; ni a oficinas o al uso habitacional que incluyan o no locales comerciales, estacionamientos o bodegas.
 
-En consecuencia, y por la razón antes anotada, la sociedad recurrente, no tiene derecho al beneficio
+Finalmente cabe ratificar el pronunciamiento emitido por este Servicio a través de Oficio N° 194, de 31.01.2014.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2547, de 04.12.2018
+Oficio N° 1230, de 05.06.2017
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
+
+[1] Oficio N° 194, de 31.01.2014.
+
+[2] Oficio N° 3.325, de 05.09.2005.

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica la resolución Exenta SII N°107 de 2017 y la estructura e instrucciones de la declaración jurada anual sobre operaciones en chile por medio de formulario N°1946. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica la resolución Exenta SII N°107 de 2017 y la estructura e instrucciones de la declaración jurada anual sobre operaciones en chile por medio de formulario N°1946. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización. Fuente: Impuestos Directos
+n Normativa Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

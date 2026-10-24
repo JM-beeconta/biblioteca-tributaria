@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece la obligación de presentar declaraciones juradas anuales informativas de precios de transferencia denominadas &ldquo;archivo maestro&rdquo; y &ldquo;archivo local&rdquo;, y modifica Resolución Ex. SII N°126, de 2016. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece la obligación de presentar declaraciones juradas anuales informativas de precios de transferencia denominadas “archivo maestro” y “archivo local”, y modifica Resolución Ex. SII N°126, de 2016. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

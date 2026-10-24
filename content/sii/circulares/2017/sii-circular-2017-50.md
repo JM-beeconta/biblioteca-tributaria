@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a contar del 1° de noviembre de 2016. Fuente: Impuestos Indirectos
+n Normativa Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a contar del 1° de noviembre de 2016. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

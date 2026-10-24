@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Autoriza a la sociedad Cencosud Retail S.A. para dar cumplimiento a la obligación de entrega de boletas electrónicas por su envío mediante correo electrónico en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autoriza a la sociedad Cencosud Retail S.A. para dar cumplimiento a la obligación de entrega de boletas electrónicas por su envío mediante correo electrónico en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

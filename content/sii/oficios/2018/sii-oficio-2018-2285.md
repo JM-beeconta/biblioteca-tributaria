@@ -4,104 +4,97 @@
 - Tipo: oficio
 - Número: 2285
 - Año: 2018
-- Fecha: 2018-12-04
+- Fecha: 2018-10-31
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja2541.htm
-- Hash SHA-256: 303e35ca66b44fe9a3958620c880a6b753b7e48bc35f34c1e39aa42913217d2b
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja2285.htm
+- Hash SHA-256: 7fb732bdbc623b2eaf98b1da94c57e4f6c669dc0d603600546f08684e7b47c2d
 
 ## Resumen
 
-;n de causa de muerte. Impuesto Territorial &ndash; Ley N° 17.235 &ndash; Art. 27 &ndash; Decreto N° 900 del año 1995, del Ministerio de Obras Públicas &ndash; . (Ord. Nº 2541, de 04-12-2018) |
+viamente emitidos. Impuesto Territorial – Ley N° 17.235 – Art. 27, Párrafo I, Letra B), N° 18, Cuadro Anexo – Ley 18.712, Art. 2 – Ley N° 16.752, Art. 28. (Ord. Nº 2285, de 31-10-2018) | | Word Alcance del artículo 27 de la Ley sobre Impuesto Territorial a inmuebles del patrimonio de afectación de la Dirección de Bienestar de la Dirección General de Aeronáutica Civil.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":50,"year":1996}
-- {"type":"oficio","number":2285,"year":2018}
+- Sin referencias estructuradas detectadas
 
 ## Texto extraído
 
-IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 27 – DECRETO N° 900 DEL AÑO 1995, DEL MINISTERIO DE OBRAS PÚBLICAS – OFICIO N° 2285, DE 2018. (Ord. Nº 2541, de 04-12-2018)
+IMPUESTO TERRITORIAL – LEY N° 17.235 – ART. 27, PÁRRAFO I, LETRA B), N° 18, CUADRO ANEXO – LEY 18.712, ART. 2 – LEY N° 16.752, ART. 28. (Ord. Nº 2285, de 31-10-2018)
 
-APLICACIÓN DE IMPUESTO TERRITORIAL EN CASO DE ESTACIONAMIENTOS SUBTERRÁNEOS ENTREGADOS EN CONCESIÓN QUE SE INDICAN.
+ALCANCE DEL ARTÍCULO 27 DE LA LEY SOBRE IMPUESTO TERRITORIAL A INMUEBLES DEL PATRIMONIO DE AFECTACIÓN DE LA DIRECCIÓN DE BIENESTAR DE LA DIRECCIÓN GENERAL DE AERONÁUTICA CIVIL.
 
-Se ha solicitado a este Servicio confirmar diversos criterios sobre la aplicación de Impuesto Territorial en caso de estacionamientos subterráneos entregados en concesión que se indican.
+Se ha solicitado a esta Dirección Nacional un pronunciamiento sobre el alcance del artículo 27 de la Ley sobre Impuesto Territorial al caso de inmuebles que forman parte del patrimonio de afectación de la Dirección de Bienestar de la Dirección General de Aeronáutica Civil, cuando dichos inmuebles son entregados en concesión.
 
 I ANTECEDENTES
 
-De acuerdo a su presentación, representa a una serie de empresas concesionarias de estacionamientos subterráneos de acceso público, distinguiendo dos grupos de roles de avalúos:
+De acuerdo a los antecedentes, una sociedad comercial arrienda una parte de un inmueble que forma parte del patrimonio de afectación del Departamento de Bienestar Social de la Dirección General de Aeronáutica Civil (en adelante, “DGAC”).
 
-1) Un rol, que corresponde a un inmueble que tendría la naturaleza de bien nacional de uso público por constituir una concesión para la ejecución, conservación y explotación de una obra fiscal regida por el Decreto N° 900 del año 1995, del Ministerio de Obras Públicas.
+Al respecto, esa Dirección Regional solicita aclarar si la exención de Impuesto Territorial contemplada en el Párrafo I, Letra B), N° 18 del Cuadro Anexo de la Ley sobre Impuesto Territorial, establecida a favor de los bienes raíces del patrimonio de afectación de la Dirección de Bienestar de las Fuerzas Armadas, Carabineros de Chile y la Policía de Investigaciones de Chile, beneficia también a los bienes raíces del patrimonio de afectación de la Dirección de Bienestar de la Dirección General de Aeronáutica Civil y, en tal caso, si alcanza a sus arrendatarios; o, por el contrario, si le corresponde la exención del Párrafo I, Letra A), N° 1, del citado Cuadro Anexo, siendo aplicable el artículo 27 de la referida ley.
 
-2) Los restantes roles, que corresponderían a concesiones municipales regidas por la Ley N° 18.695, Orgánica Constitucional de Municipalidades, también tendrían la naturaleza jurídica de bienes nacionales de uso público.
-
-A propósito de los referidos inmuebles, y en base a una serie de consideraciones, plantea dos peticiones principales, una tercera en carácter subsidiaria (de ser denegadas las principales) y una cuarta petición adicional.
-
-En cuanto a las peticiones principales:
-
-a) Respecto del inmueble señalado en el N° 1) anterior, y en lo fundamental, sostiene que tratándose de una concesión para la ejecución, conservación y explotación de una obra fiscal regida específicamente por el Decreto N° 900 del año 1995, del Ministerio de Obras Públicas, le son aplicables los mismos criterios asentados por este Servicio a propósito de otras concesiones reguladas por el mismo cuerpo legal, en el sentido que el concesionario es uno de &ldquo;actividad&rdquo;, y no de &ldquo;ocupación&rdquo;, de modo que a su respecto no es aplicable lo dispuesto en el artículo 27 de la Ley sobre Impuesto Territorial.
-
-b) Respecto del segundo grupo de inmuebles señalados en el N° 2) anterior, y en lo fundamental, sostiene que no obstante ampararse en un estatuto legal distinto al inmueble anterior (concesiones municipales regidas por la Ley N° 18.695, Orgánica Constitucional de Municipalidades), en definitiva, también tienen la calidad de concesiones de &ldquo;actividad&rdquo;, y no de ocupación, de modo que, a su respecto se extienden los mismos criterios asentados por este Servicio, siendo inaplicable lo dispuesto en el artículo 27 de la Ley sobre Impuesto Territorial.
-
-Como petición subsidiaria, y en caso de no acogerse la petición principal respecto del segundo grupo de inmuebles (N° 2), se solicita excluir de la tasación fiscal toda el área del subsuelo concesionado, excepto las entradas o accesos a los estacionamientos subterráneos, porque el concesionario sólo está obligado al pago de Impuesto Territorial por el &ldquo;terreno&rdquo;, &ldquo;superficie&rdquo; o &ldquo;suelo&rdquo; que &ldquo;ocupa&rdquo;, pero no por el &ldquo;subsuelo&rdquo;.
-
-Adicionalmente, solicita aplicación de ajuste o factor especialísimo de corrección contenido en la Circular N° 50 de 1996, dadas las severas restricciones de uso, aplicando un valor unitario asignado en el plano comunal de valores o precios de terrenos correspondientes al área en que se localice la concesión.
+Además, respecto del artículo 27 de la Ley sobre Impuesto Territorial solicita precisar si la frase “el concesionario u ocupante a cualquier título” empleada por el legislador, alude sólo a aquél que ha obtenido directamente del Fisco un título que habilita la ocupación, para efectos de gravarlo con Impuesto Territorial.
 
 II ANÁLISIS
 
-Con el objeto de dar respuesta sistemática a las diversas peticiones, subsidiarias y complementarias, formuladas en su presentación, previamente se exponen algunas ideas generales a para el análisis y, posteriormente, su desarrollo particular en el mismo orden de presentación.
+Como primera cuestión, es necesario precisar que el artículo 27 de la Ley sobre Impuesto Territorial, por su ubicación sistemática (Título VI, sobre “los obligados al pago del impuesto”), es una norma de carácter general y se aplica, por tanto – en lo que interesa – a todos los bienes raíces fiscales.
 
-Como primera cuestión, es importante aclarar que, si bien la Ley sobre Impuesto Territorial se refiere indistintamente a los &ldquo;bienes raíces&rdquo; &ldquo;inmuebles&rdquo;, &ldquo;predios&rdquo;, &ldquo;terrenos&rdquo; y &ldquo;construcciones&rdquo;, a falta de definición legal, debe recurrirse a lo dispuesto en el artículo 568 del Código Civil, en cuanto son inmuebles, fincas o bienes raíces &ldquo;las cosas que no pueden transportarse de un lugar a otro, como las tierras y las minas, y las que adhieren permanentemente a ellas, como los edificios y los árboles&rdquo;; precisando la doctrina que &ldquo;las tierras comprenden el suelo y el subsuelo&rdquo; .
+Lo anterior no sólo es válido para lo dispuesto en su inciso primero (y segundo), sino también para su inciso final que, en lo pertinente, ordena mantener la exención de Impuesto Territorial tratándose de predios fiscales ocupados por funcionarios públicos, en la forma que se señala en la letra A) del Párrafo I del Cuadro Anexo, cuando dichos funcionarios públicos se encuentren obligados a residir en ellos por razones inherentes a sus cargos.
 
-En consecuencia, para los efectos del Impuesto Territorial se gravan tanto las construcciones ubicadas en el &ldquo;terreno&rdquo;, entendido como &ldquo;superficie&rdquo; o &ldquo;suelo&rdquo;, así como también aquellas ubicadas en el &ldquo;subsuelo&rdquo;, sin que proceda el distingo planteado en su presentación.
+Asimismo, en la medida que el artículo 27 es una norma de aplicación general para todos los bienes fiscales, deben entenderse comprendidos los inmuebles que forman parte del patrimonio de afectación de un servicio de bienestar (que siguen siendo fiscales, según se expondrá) e independientemente de las exenciones aplicables en virtud del Cuadro Anexo u otra disposición especial.
 
-Por su parte, el artículo 27 de la Ley sobre Impuesto Territorial dispone que &ldquo;el concesionario u ocupante por cualquier título, de bienes raíces fiscales, municipales o nacionales de uso público, pagará los impuestos correspondientes al bien raíz ocupado.&rdquo;
+En efecto, como la Contraloría General de la República ha precisado a propósito de la Ley N° 18.712, los “Servicios de Bienestar integran las Fuerzas Armadas y como tales forman parte de la Administración del Estado y tienen un patrimonio especial destinado a un objeto particular para sus fines específicos (aplica criterio contenido en los dictámenes N° s. 22.104, de 1998 y 25.964, de 2012)… [agregando que] el Departamento de Bienestar Social de la DGAC se rige por las normas aludidas en los párrafos precedentes, por expresa disposición del artículo 28 de la ley N° 16.752, orgánica de ese servicio, que agrega que el Director General ejercerá las facultades que la citada ley N° 18.712 otorga a los Comandantes en Jefe.” [1]
 
-A partir del texto anterior y su ubicación sistemática (Título VI, sobre &ldquo;los obligados al pago del impuesto&rdquo;), se infiriere su carácter de norma general y se aplica, por tanto &ndash; en lo que interesa &ndash; a todos los bienes raíces fiscales , incluido el subsuelo, cuando son &ldquo;ocupados&rdquo; por terceros.
+Dicho lo anterior, resta determinar si lo expuesto precedentemente se predica también para los inmuebles que integran el patrimonio de afectación del Departamento de Bienestar Social de la DGAC, en particular.
 
-Dicho lo anterior, y respondiendo derechamente las peticiones formuladas:
+Al respecto, y de acuerdo al artículo 28 de la Ley N° 16.752 Orgánica Constitucional de la DGAC, su Departamento de Bienestar Social se rige “por las normas establecidas en la ley N° 18.712, y el Director General ejercerá las facultades que dicha ley otorga a los Comandantes en Jefe.”
 
-1) Respecto de la petición principal relativa al inmueble donde funciona un estacionamiento subterráneo concesionado y regido conforme al Decreto N° 900 del año 1995, del Ministerio de Obras Públicas (inmueble N° 1) del Antecedente), son aplicables los criterios asentados por este Servicio, citados en su presentación, a propósito de obras concesionadas al amparo del mismo cuerpo legal.
+Por su parte, el artículo 2° de la Ley N° 18.712, que aprobó el nuevo estatuto de los servicios de Bienestar Social de las Fuerzas Armadas, dispone que dichos servicios tienen “un patrimonio de afectación fiscal” formado por los bienes y recursos que indica, agregando el artículo 3° que, en la administración, manejo y disposición de dichos fondos y de los bienes y servicios que con ellos se adquieran, éstos actuarán como personas jurídicas representados por sus jefes respectivos, cualquiera sea su denominación, quienes en tal representación podrán desempeñarse en cualquier acto jurídico o financiero tendiente a conseguir las finalidades del bienestar social.
 
-Esto es, existiendo una concesión para la ejecución, conservación y explotación de una obra fiscal regida por el Decreto N° 900 del año 1995, del Ministerio de Obras Públicas, debe entenderse que el concesionario es sólo de &ldquo;actividad&rdquo; y no de &ldquo;ocupación&rdquo;, siendo inaplicable a su respecto el cobro de Impuesto Territorial de conformidad al artículo 27 de la Ley sobre Impuesto Territorial.
+Conforme lo anterior:
 
-Lo anterior, sin embargo, no se extiende a las áreas de la concesión donde el concesionario o terceros tienen facultades de uso o goce privativos, como aquellas donde funcionan restoranes o tiendas comerciales.
+El Departamento de Bienestar Social de la DGAC se rige por las normas aplicables a los Servicios de Bienestar que integran las Fuerzas Armadas;
 
-2) Respecto de la petición principal relativa al resto de los inmuebles (inmuebles N° 2) del Antecedente), se informa que, a propósito del &ldquo;régimen tributario aplicable a las concesiones municipales de estacionamientos subterráneos&rdquo;, este Servicio se pronunció en el sentido que &ldquo;los bienes nacionales de uso público entregados en concesión municipal, así como las construcciones que en ellos se efectúen, deben estar afectos al pago del impuesto territorial&rdquo;.
+Dicho Departamento forma parte de la Administración del Estado;
 
-En consecuencia, y sin perjuicio de las demás consideraciones expuestas en su presentación relativas al concepto de &ldquo;ocupación&rdquo;, no es posible confirmar el criterio solicitado y, en cambio, se reitera que los estacionamientos concesionados municipales regidos por la Ley N° 18.695, Orgánica Constitucional de Municipalidades, se encuentran afectos a Impuesto Territorial.
+Goza de un patrimonio de afectación fiscal formado por ciertos bienes y recursos, entre los cuales se encuentra el bien raíz entregado en arriendo a un tercero; y,
 
-3) Por las mismas razones, tampoco es posible acoger su petición subsidiaria respecto del segundo grupo de inmuebles (N° 2), de suerte que toda el área del subsuelo concesionado, incluyendo las entradas o accesos a los estacionamientos subterráneos, sí están sujetas al pago de Impuesto Territorial.
+El inmueble arrendado por la DGAC, materia de la presente consulta, en principio se encuentra amparado por la exención contenida en el Párrafo I, Letra A), N° 1 del Cuadro Anexo [2] , que favorece al Fisco, sujeto a las reglas del artículo 27 de la Ley sobre Impuesto Territorial.
 
-Como fuera expuesto previamente, el Impuesto Territorial grava tanto las construcciones ubicadas en el &ldquo;terreno&rdquo;, entendido como &ldquo;superficie&rdquo; o &ldquo;suelo&rdquo;, así como también aquellas ubicadas en el &ldquo;subsuelo&rdquo;, sin que proceda el distingo planteado en su presentación.
+Ahora bien, en la medida que el inmueble analizado integra el patrimonio de afectación de un Departamento de Bienestar Social regido por las normas de la Ley N° 18.712, que aprobó el nuevo estatuto de los servicios de Bienestar Social de las Fuerzas Armadas, puede concluirse que, además, se ampara por la exención contenida en el Párrafo I, Letra B), N° 18 del Cuadro Anexo, que favorece a los “bienes raíces del patrimonio de afectación de la Dirección de Bienestar de las Fuerzas Armadas, Carabineros de Chile y la Policía de Investigaciones de Chile.” Lo anterior, es consiste con lo dispuesto en el artículo 9° de la Ley N° 18.712, en virtud de cual los “bienes raíces del patrimonio de afectación fiscal estarán exentos del pago del impuesto territorial.”
 
-4) En cuanto a la petición adicional, se informa que ésta no es la vía idónea para verificar la procedencia del ajuste o factor especialísimo de corrección contenido en la Circular N° 50 de 1996, cuestión eminentemente fáctica que debe solicitarse y acreditarse en la unidad respectiva.
+Existiendo más de una exención aplicable, a pesar que de distinta naturaleza (personal una, real la otra), es necesario considerar lo dispuesto en el artículo 2° de la Ley sobre Impuesto Territorial [3] , que obliga a determinar cuál sea, y bajo qué condiciones, la exención más beneficiosa para el contribuyente, de modo que las diversas normas mencionadas tengan una debida correspondencia y aplicación sistemática.
 
-Finalmente, y sin perjuicio de expuesto en los números 2) a 4) anteriores, es necesario precisar lo siguiente.
+Por de pronto, debe entenderse que una exención es más favorable no sólo atendiendo al porcentaje exento (que en este caso es el mismo, 100%), sino también cuando sus condiciones de procedencia son menos exigentes.
 
-De acuerdo a su presentación, junto con la construcción del estacionamiento municipal, y dado su carácter de &ldquo;subterráneo&rdquo;, el concesionario debe incurrir en obras que no están destinadas al uso o goce privativo del concesionario o que derechamente no forman parte de la concesión. Tal es el caso de las obras que permiten soportar una plaza o calle y respecto de las cuales el concesionario ciertamente no es ocupante.
+En ese sentido, en la medida que la exención contenida en el Párrafo I, Letra B), N° 18 del Cuadro Anexo contiene menos condiciones de aplicación (no excluye “sedes matrices”) y, en principio, no remite al artículo 27 de la le Ley sobre Impuesto Territorial, resultaría más favorable. Sin embargo, al no remitir al artículo 27, no se encontrarían liberados de Impuesto Territorial los predios fiscales (entre los cuales se comprenden los inmuebles que integran el patrimonio de afectación) ocupados por funcionarios públicos que, por razones inherentes a sus cargos, se encuentren obligados a residir en ellos [4] .
 
-Luego, en la medida que lo construido en la parte superior del estacionamiento subterráneo efectivamente soporta una &ldquo;carpeta asfáltica&rdquo; (calle de uso público) o una plaza pública, dicha construcción pasa a formar parte de la respectiva plaza o calle, constituyendo un bien nacional de uso público, exenta de Impuesto Territorial, porque no se &ldquo;ocupa&rdquo; por el concesionario en los términos del artículo 27 de la Ley sobre Impuesto Territorial.
+Luego, es necesario interpretar la exención contenida en el Párrafo I, Letra B), N° 18 del Cuadro Anexo, de modo que, manteniendo su individualidad respecto de la contenida en el Párrafo I, Letra A), N° 1 del mismo Cuadro Anexo, otorgue aplicación sistemática a lo dispuesto de modo general en el artículo 27 de la Ley sobre Impuesto Territorial.
 
 III CONCLUSIÓN
 
-Conforme lo expuesto, se informa que:
+Conforme lo expuesto, los bienes raíces fiscales que forman parte del patrimonio de afectación de un Departamento de Bienestar Social de las Fuerzas Armadas, Carabineros de Chile, la Policía de Investigaciones de Chile y, por extensión, de la Dirección General de Aeronáutica Civil, se rigen por las siguientes reglas:
 
-a) Respecto del estacionamiento subterráneo concesionado y regido conforme al Decreto N° 900 del año 1995, del Ministerio de Obras Públicas (inmueble N° 1) se reitera la doctrina de este Servicio, en el sentido que el concesionario es sólo de &ldquo;actividad&rdquo; y no de &ldquo;ocupación&rdquo;, siendo inaplicable a su respecto el cobro de Impuesto Territorial de conformidad al artículo 27 de la Ley sobre Impuesto Territorial.
+En principio, gozan de la exención contenida en el Párrafo I, Letra B), N° 18 del Cuadro Anexo.
 
-b) Respecto de las concesiones municipales de estacionamientos subterráneos (inmuebles N° 2), se reitera la doctrina de este Servicio en el sentido que los bienes nacionales de uso público entregados en concesión municipal, así como las construcciones que en ellos se efectúen, están afectas al pago del Impuesto Territorial.
+En caso que, por razones inherentes a sus cargos, sean ocupados por funcionarios públicos obligados a residir en ellos, se aplica la exención más favorable dispuesta en el Párrafo I, Letra A), N° 1 del Cuadro Anexo.
 
-c) Se informa que toda el área del subsuelo concesionado, incluyendo las entradas o accesos a los estacionamientos subterráneos, están sujetas al pago de Impuesto Territorial, sin que proceda distinguir entre &ldquo;superficie&rdquo; o &ldquo;suelo&rdquo;, por una parte, y &ldquo;subsuelo&rdquo;, por otra, para efectos de gravar con Impuesto Territorial.
+En caso que los mismos bienes raíces fiscales sean ocupados por un tercero, el concesionario u ocupante por cualquier título pagará los impuestos correspondientes al bien raíz ocupado, por aplicación de lo dispuesto de modo general en el artículo 27.
 
-d) No existiendo una duda sobre el sentido o alcance de una disposición tributaria, no es ésta la vía idónea para determinar la aplicación de ajuste o factor especialísimo de corrección contenido en la Circular N° 50 de 1996, por tratarse de una cuestión de hecho entregada a las instancias de fiscalización.
-
-e) Sin perjuicio de lo anterior, en la medida que lo construido en la parte superior del estacionamiento subterráneo concesionado municipal efectivamente soporte una &ldquo;carpeta asfáltica&rdquo; (calle de uso público) o una plaza pública, dicha construcción se mantiene exenta de Impuesto Territorial, porque no se &ldquo;ocupa&rdquo; por el concesionario en los términos del artículo 27 de la Ley sobre Impuesto Territorial.
+Finalmente, y respecto de la frase “concesionario u ocupante a cualquier título” empleada por el legislador, la expresión “cualquier título” debe entenderse como cualquier antecedente de hecho o de derecho en virtud del cual se detenta el inmueble fiscal, independientemente si proviene directamente o no del Fisco, o incluso sin título alguno, como por ejemplo cuando el título se ha extinguido, caducado o dejado sin efecto.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2541, de 04.12.2018
+Oficio N° 2285, de 31.10.2018
 
 Subdirección Normativa
 
 Dpto. de Técnica Tributaria
+
+[1] Dictamen N° 435 de 2015
+
+[2] Dicha norma establece una exención del 100% a favor del “Fisco, con excepción de los bienes raíces de las sedes matrices de los Poderes Ejecutivo, Legislativo y Judicial, de los Ministerios, Servicios Públicos, Intendencias y Gobernaciones, y los casos en que cabe aplicar el artículo 27 de la presente ley. En todo caso, dicho artículo no será aplicable a las propiedades fiscales en las cuales, por razones inherentes a sus cargos, estén obligados a residir funcionarios públicos.”
+
+[3] Si “por cualquier circunstancia un determinado predio tuviera derecho a gozar de dos o más exenciones del impuesto territorial, éstas no se podrán acordar en forma copulativa… el Servicio otorgará para efectos del impuesto territorial la exención más beneficiosa para el contribuyente.”
+
+[4] Cabe tener presente que, de acuerdo a la jurisprudencia de la Contraloría General de la República, se admite incluso que “los derechos de uso y goce respecto de los inmuebles arrendados a la indicada Mutualidad y entregados al personal de Carabineros de Chile por la Dirección de Bienestar, integran su patrimonio de afectación fiscal, razón por la cual -como se indicara en el dictamen N° 32.561, de 2010-, [de suerte que] las viviendas deben entenderse proporcionadas por Carabineros de Chile -“el Fisco”, en los términos del artículo 56° del aludido decreto con fuerza de ley-, y por lo tanto, les resulta aplicable el procedimiento señalado en el citado artículo 58° del mismo texto estatutario.” Dictamen N° 3747 de 2013. Aplica dictámenes N° 26001 de 2008 y N° 32561 de 2010.

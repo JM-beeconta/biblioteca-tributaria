@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Regula el intercambio de información entre el Fondo Nacional de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N° 3.500, de 1980. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Regula el intercambio de información entre el Fondo Nacional de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, referida a las cotizaciones de los trabajadores independientes del inciso primero del Artículo 89 del D.L. N° 3.500, de 1980. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

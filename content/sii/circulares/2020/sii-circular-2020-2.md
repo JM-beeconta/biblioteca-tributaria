@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2020 e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

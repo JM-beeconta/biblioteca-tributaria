@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre las modificaciones incorporadas por el D.S. N° 682 de 2017, del Ministerio de Hacienda, al D.S. N° 55 de 1977, del mismo Ministerio, reglamento del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Impuestos Indirectos
+n Normativa Instruye sobre las modificaciones incorporadas por el D.S. N° 682 de 2017, del Ministerio de Hacienda, al D.S. N° 55 de 1977, del mismo Ministerio, reglamento del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Fuente: Impuestos Indirectos
 
 ## Referencias detectadas
 

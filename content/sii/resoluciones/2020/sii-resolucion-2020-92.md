@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el beneficio para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada Covid-19, del artículo 5° del artículo primero de la Ley N° 21.252. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Habilita plataforma, instruye sobre requisitos y fija procedimiento para solicitar el beneficio para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada Covid-19, del artículo 5° del artículo primero de la Ley N° 21.252. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre el procedimiento para solicitar el Pago Diferido del Impuesto a la Renta a través de Internet. Complementa Circular N° 17 de fecha 17 de marzo de 2006 Fuente: Subdirección de Fiscalización
+n Normativa Instruye sobre el procedimiento para solicitar el Pago Diferido del Impuesto a la Renta a través de Internet. Complementa Circular N° 17 de fecha 17 de marzo de 2006 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

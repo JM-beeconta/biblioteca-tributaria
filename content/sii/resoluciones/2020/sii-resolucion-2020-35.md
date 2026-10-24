@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar Declaraciones Juradas N°1933, N°3225 y N° 3226. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Amplía el plazo para presentar Declaraciones Juradas N°1933, N°3225 y N° 3226. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

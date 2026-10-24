@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de impuesto único de Segunda Categoría para el mes de agosto del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de impuesto único de Segunda Categoría para el mes de agosto del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.256. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece procedimiento para solicitar devolución de remanentes de IVA, conforme lo dispuesto por la Ley N° 21.256. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

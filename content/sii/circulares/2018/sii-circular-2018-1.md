@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de los saldos de utilidades tributables y saldos negativos de utilidades no tributables, retiros en excesos y tabla de Impuesto Global Complementario correspondiente al Año Tributario 2018. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indci
+n Normativa Informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad de los saldos de utilidades tributables y saldos negativos de utilidades no tributables, retiros en excesos y tabla de Impuesto Global Complementario correspondiente al Año Tributario 2018. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indci
 
 ## Referencias detectadas
 

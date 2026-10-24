@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Imparte reglas especiales para determinación y puesta a disposición de los pagos provisionales mensuales que deberán efectuar las empresas acogidas al régimen pro pyme del Artículo 14 letra d) N°3 letra k) y N° 8 letra a) numeral viii, ambos de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Imparte reglas especiales para determinación y puesta a disposición de los pagos provisionales mensuales que deberán efectuar las empresas acogidas al régimen pro pyme del Artículo 14 letra d) N°3 letra k) y N° 8 letra a) numeral viii, ambos de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

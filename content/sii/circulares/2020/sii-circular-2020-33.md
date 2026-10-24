@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2020 y el 9 de junio de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa.
+n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2020 y el 9 de junio de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

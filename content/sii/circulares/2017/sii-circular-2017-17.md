@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de Bienes Raíces no agrícolas correspondientes a sitios no edificados, propiedades abondonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones
+n Normativa Norma aplicación de ajustes al avalúo de terreno a casos particulares de Bienes Raíces no agrícolas correspondientes a sitios no edificados, propiedades abondonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Departamento de Catastro y Tasaciones
 
 ## Referencias detectadas
 

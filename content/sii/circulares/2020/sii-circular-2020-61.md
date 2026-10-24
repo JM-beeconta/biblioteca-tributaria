@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974. Fuente: Subdirección Normativa.
+n Normativa. Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

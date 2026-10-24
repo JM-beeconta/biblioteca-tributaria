@@ -6,204 +6,69 @@
 - Año: 2017
 - Fecha: 2017-07-28
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1031.doc
-- Hash SHA-256: 16811aaa5ab79f1ac6f3542b3bea22113c6790fcfe1fc184e3af0cc25c919448
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1708.htm
+- Hash SHA-256: aca681ceacde060937b1f934e9cc1dc13580e006058e415a19a142ab5166fb44
 
 ## Resumen
 
-| Word Resuelve reconsideración a .07.2017, sobre Tributación de Cooperativas.
+participación. Renta – Actual Ley sobre Impuesto a la – Art. 14, Letra B), Art. 34. (Ord. Nº 1708, de 28-07-2017) | | Word Consulta sobre tributación de cooperativas, asociada al régimen de tributación aplicable a partir de enero de 2017.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1708,"year":2017}
-- {"type":"articulo","law":"LIR","article":"1"}
-- {"type":"articulo","law":"LIR","article":"14  B"}
-- {"type":"articulo","law":"LIR","article":"34"}
+- {"type":"circular","number":49,"year":2016}
 - {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"articulo","law":"LIR","article":"34"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, ART. 17 – OFICIO N° 1708,
-                   DE 2017. (ORD. N° 1031, DE 24.05.2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14, LETRA B), ART. 34. (Ord. Nº 1708, de 28-07-2017)
 
+CONSULTA SOBRE TRIBUTACIÓN DE COOPERATIVAS, ASOCIADA AL RÉGIMEN DE TRIBUTACIÓN APLICABLE A PARTIR DE ENERO DE 2017.
 
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual consulta sobre los efectos de la Ley N° 20.780, modificada por la Ley N° 20.899, en relación con el régimen de tributación aplicable a las cooperativas, a partir del 1° de enero de 2017.
 
-Resuelve  reconsideración  a  Oficio  Ord.  N°1708,  de  28.07.2017,   sobre
-Tributación de Cooperativas.
+I. ANTECEDENTES
 
-Se ha recibido en esta Dirección Nacional,  consulta  de  una  Confederación
-que agrupa a Micro, Medianas y Pequeñas Empresas, mediante la cual  solicita
-una  reconsideración  de  un  pronunciamiento   referido   al   sistema   de
-determinación de Impuesto a la Renta que rige a las Cooperativas.
+Sostiene que las cooperativas se encuentran reguladas por el D.F.L N° 5 de 2003, denominada Ley General de Cooperativas (LGC) y su Reglamento, y que en cuanto a su naturaleza jurídica, la misma LGC las define como las asociaciones que de conformidad con el principio de la ayuda mutua tienen por objeto mejorar las condiciones de vida de sus socios.
 
-I.-   ANTECEDENTES.
+Señala que la principal modificación introducida por la Ley N° 20.780, dice relación con la creación de dos regímenes distintos de tributación en el artículo 14 de la Ley sobre Impuesto a la Renta (LIR), en sus letras A) y B), relativos a la tributación que afecta a los comuneros, socios o accionistas de empresas o sociedades, empresarios individuales y otros contribuyentes que deben declarar sobre la base de su renta efectiva según contabilidad completa.
 
-Manifiesta la relevancia del tema analizado en un  pronunciamiento  de  este
-Servicio contra el cual recurre, con alcances para las cooperativas  y  para
-la Confederación Nacional de la Micro, Pequeña y Mediana  Empresa  de  Chile
-(CONAPYME), indicando que el Gobierno ha  efectuado  enormes  esfuerzos  por
-promover y potenciar el cooperativismo en Chile como  instrumento  de  ayuda
-mutua y mejora de las condiciones de vida de los empresarios PYME.
+Agrega que los contribuyentes deben optar por alguno de los dos nuevos regímenes, pero sin embargo, ni la Ley N° 20.780, como tampoco las instrucciones del Servicio de Impuestos Internos sobre la materia, han señalado la implicancia que tendrá para las cooperativas, los nuevos regímenes de tributación del artículo 14 de la LIR.
 
-Indica que la Ley General de Cooperativas, en su artículo 53, establece  que
-“para todos los efectos legales se estimará que  las  instituciones  regidas
-por la presente ley no tienen utilidades”, salvo para  efectos  laborales  y
-el artículo 51 de la misma Ley, establece que el aumento del  valor  nominal
-de las cuotas de capital y cuotas de ahorro. y la devolución  de  excedentes
-originados en operaciones con los socios, estarán exentos de todo impuesto.
+En ese sentido, aduce que existe incertidumbre respecto de la aplicación o no de los nuevos regímenes de tributación por parte de las cooperativas, así como respecto de la manera de ejercer la opción, en caso que se requiera optar por un régimen u otro.
 
-Por su parte, La Ley sobre Impuesto a la Renta en Chile (LIR), contenida  en
-el Artículo 1° del D.L. N° 824 de 1974, no dispone que, a las  Cooperativas,
-por regla general, se les  apliquen  sus  disposiciones,  puesto  que  éstas
-tienen asignado un régimen propio contemplado en el  artículo  17  del  D.L.
-N°824, el que solo excepcionalmente se remite a  ciertas  disposiciones  del
-artículo 1° de la LIR.
+Considerando los antecedentes expuestos, consulta lo siguiente:
 
-De este modo, históricamente,  este  Servicio  ha  reconocido  este  régimen
-tributario de las Cooperativas. Ello  ocurre  con  el  Oficio  Ordinario  N°
-4.230 del 08.09.2004, de este Servicio,  el  cual  consigna  perentoriamente
-que en la especie no resultan aplicables las normas generales de la  LIR,  y
-por ende no corresponde aplicar el procedimiento sugerido”,  refiriéndose  a
-la posibilidad de determinar la diferencia de  impuestos  a  operaciones  de
-las Cooperativas con no socios.
+1. Si las cooperativas se regirán por alguno de los regímenes establecidos en el artículo 14 de la LIR, vigente a contar del primero de enero de 2017.
 
-Agrega que, pese a lo anterior, con fecha 28 de Julio  del  año  2017,  este
-Servicio mediante el Oficio N°1.708, cambió su  criterio,  yendo  contra  el
-texto expreso de los artículos 49 al 53 de la Ley General  de  Cooperativas,
-artículo 34 de la misma ley, y lo dispuesto en el artículo 17  del  D.L.  N°
-824 de 1974, pretendiendo hacer aplicable el régimen del Artículo 14  B,  de
-la LIR, esto es, aquel parcialmente integrado, con deducción del  9,45%  del
-crédito, a las Cooperativas.
+2. En caso de que las cooperativas se deban sujetar a alguno de los regímenes del artículo 14 de la LIR, solicita confirmar lo siguiente; (i) cuál sería el régimen por defecto que afectará a estas entidades; (ii) qué opción tendrán para optar por uno u otro; y (iii) qué formalidades se deberán seguir para ejercer la opción en uno u otro sentido.
 
-El  contrasentido  surgido   con   motivo   de   la   dictación   de   dicho
-pronunciamiento es evidente. El  régimen  más  gravoso  genérico  se  quiere
-aplicar a la estructura más básica de organización.
+II.- ANÁLISIS
 
-Agrega que, corresponde al Departamento de Cooperativas  del  Ministerio  de
-Economía, Fomento y Turismo, entre otras tareas, la misión de supervisar  el
-cumplimiento de las leyes aplicables a las Cooperativas, en  atención  a  lo
-cual  solicitaron  a  dicho  Departamento,  hoy   denominado   División   de
-Asociatividad y Economía Social, para que requiera a este  Servicio  que  se
-enmiende el error denunciado y se dé fiel cumplimiento a la normativa de  la
-Ley General de Cooperativas, y al artículo 17 del D.L. N° 824 de 1974.
+Sobre el particular, cabe señalar que la Ley N° 20.780, modificada por la Ley N° 20.899, introduce a partir del 1 de enero de 2017, dos nuevos regímenes generales de tributación en el artículo 14 de la LIR. En relación a este artículo, la Circular N° 49 de 2016, instruyó que quedan excluidas de su aplicación, los contribuyentes que, no obstante obtener rentas afectas al Impuesto de Primera Categoría (IDPC), carecen de un vínculo directo o indirecto con personas que tengan la calidad de propietarios, comuneros, socios o accionistas, y que resulten gravados con los impuestos Global Complementario o Adicional, como es el caso de las personas jurídicas del Título XXXIII, del Libro I del Código Civil, y las empresas en que el Estado tenga el 100% de su propiedad.
 
-Por otro lado, la  Excma.  Corte  Suprema  ha  ratificado  lo  anteriormente
-expuesto, en una sentencia de fecha 2 de abril del año 2015, dictada en  los
-autos Rol N° 21.330-2014, Fallo unánime, que se adjunta a su presentación.
+De resultar aplicable el artículo 14 de la LIR, esta misma norma dispone que los contribuyentes que tienen derecho a optar por alguno de los regímenes de las letras A) o B) del artículo 14, son únicamente los siguientes: “ empresarios individuales, empresas individuales de responsabilidad limitada, comunidades, sociedades por acciones, contribuyentes del artículo 58 número 1 y sociedades de personas, excluidas las sociedades en comandita por acciones, todos ellos obligados a declarar sobre la base de sus rentas efectivas según contabilidad completa, cuyos propietarios, comuneros, socios o accionistas sean exclusivamente personas naturales con domicilio o residencia en el país y/o contribuyentes sin domicilio ni residencia en Chile ”. Agrega el artículo citado, que “ los demás contribuyentes aplicarán las disposiciones de la letra B)”.
 
-      Por lo expuesto, solicita a este Servicio la corrección  del  criterio
-sustentado en el Oficio N°1708, del 28.07.2017, y en su  lugar  se  declare,
-que las Cooperativas tienen un régimen especial y propio, contemplado en  el
-artículo 17 de la Ley, y,  por  ende,  no  se  les  aplica  el  régimen  del
-artículo 14, letra B), del artículo 1° de D.L. N° 824 de 1974.
+Al respecto, la Circular referida, señala que todos los demás contribuyentes regidos por el artículo 14 de la LIR, que no tengan la calidad jurídica o composición societaria indicada precedentemente, quedarán sujetos al régimen general de tributación del que da cuenta la disposición de la letra B), del artículo 14 de la LIR.
 
-II.-  ANÁLISIS.
+En cuanto a las cooperativas, la LGC expone sus particulares características y exigencias, como las de gozar de personalidad jurídica, de tener por objeto cualquier actividad, de distribuir a sus socios el excedente obtenido, y de tener como socios o asociados a personas naturales o personas jurídicas de derecho público o privado, quienes poseen cuotas de participación susceptibles de ser transferidas. Asimismo, las cooperativas son contribuyentes que no se encuentran excluidos de la obligación de declarar sobre la base de sus rentas efectivas según contabilidad completa, sin perjuicio de que pueden acogerse al régimen de renta presunta regulado en el artículo 34 de la LIR, y además, se sujetan al IDPC respecto de determinadas cantidades.
 
-Sobre  el  particular,  en  primer  término,  cabe  señalar  que  el  Oficio
-Ordinario N°1.708, concluyó que las Cooperativas salvo que elijan  someterse
-el régimen de renta presunta del artículo 34  de  la  LIR,  deben  someterse
-indefectiblemente al régimen contemplado en la letra B) del artículo 14.
+Las cooperativas, en virtud de las características enunciadas, se distinguen de las personas jurídicas del Título XXXIII del Libro I del Código Civil, dado que poseen un vínculo directo o indirecto con socios o asociados contribuyentes de los impuestos finales, y deben distribuir a sus socios el excedente obtenido, todo lo cual los obliga a regirse por las normas del artículo 14 de la LIR. Sin embargo, las cooperativas carecen de las características societarias que el señalado artículo 14 exige a los contribuyentes que pueden optar por alguno de los regímenes de las letras A) o B), a saber, que sean empresarios individuales, empresas individuales de responsabilidad limitada, comunidades, sociedades por acciones, contribuyentes del artículo 58 número 1 y sociedades de personas.
 
- Ahora bien,  respecto  a  las  alegaciones  formuladas  por  el  ocurrente,
-procede señalar que la circunstancia que el inciso final del artículo 49  de
-la Ley General  de  Cooperativas[1]  disponga  que  estas  entidades  “…  se
-regirán en materia del Impuesto a la Renta por las normas contenidas  en  el
-artículo 17 del  D.L.  N°  824  de  1974”,  no  implica  que  el  legislador
-estableciera la inaplicabilidad general de  las  disposiciones  de  la  LIR,
-contenidas en el artículo 1° del D.L. N° 824 de 1974,  por  dos  órdenes  de
-consideraciones:
+Lo anterior, no sufre alteración por las disposiciones contenidas en el N° 4 del artículo 34 de la LIR, que reconocen a los contribuyentes –entre ellos, a las cooperativas- que voluntaria u obligatoriamente abandonen el régimen de renta presunta, el derecho de optar entre alguno de los regímenes de las letras A) o B) del artículo 14 de la LIR. En efecto, tales disposiciones, contenidas específicamente en sus párrafos primero y tercero, proceden de la Ley N° 20.780, que no restringía el universo de contribuyentes que podían acogerse al régimen de la letra A) del artículo 14 de la LIR, todo lo cual se vio alterado en virtud de la Ley N° 20.899. De esta manera, la opción de que da cuenta el N° 4 del artículo 34 de la LIR, no rige para las cooperativas, en atención a que según se explicó, estas solo pueden regirse por el régimen de la letra B) del artículo 14 de la LIR.
 
-- Ello no fue establecido  por  el  legislador,  teniendo  presente  que  la
-normativa tributaria es de derecho estricto, sin que pueda marginarse  a  un
-grupo de contribuyentes de las disposiciones generales de la LIR, salvo  que
-ello sea expresamente establecido; y
+III.- CONCLUSIÓN
 
-- Existen múltiples remisiones en el artículo 17 del D.L. N° 824,  de  1974,
-que hacen necesaria  la  aplicación  de  las  normas  de  la  LIR,  para  su
-aplicación, por ejemplo, las normas  sobre  corrección  monetaria,  las  del
-Título V de la LIR, sobre Administración del Impuesto,  etc.,  sin  que  una
-aplicación aislada del artículo 17 del D.L. N° 824, de 1974,  posibilite  el
-cumplimiento  tributario  de  las   obligaciones   para   estas   entidades,
-existiendo una necesaria correlación entre ambos cuerpos normativos.
+En virtud de lo expuesto, es posible concluir que las cooperativas se rigen por las normas del artículo 14 de la Ley sobre Impuesto a la Renta, no obstante, carecen del derecho de opción por alguno de los regímenes de las letras A) o B) del artículo 14 de la LIR.
 
-Lo anterior, se evidencia en que el propio el N°2 del artículo 17  del  D.L.
-N° 824 de 1974, establece que aquella parte del remanente que corresponda  a
-operaciones realizadas con personas que no sean  socios,  estará  afecta  al
-Impuesto a la Renta  de  Primera  Categoría,  y  no  obstante  que  la  base
-imponible de las Cooperativas no se rige por el  sistema  de  deducciones  y
-agregados previsto en los  artículo  N°s.  29  al  33  de  la  LIR,  resulta
-inevitable acudir a las normas de  la  LIR,  para  determinar,  entre  otros
-aspectos, su tasa, el régimen tributario de los cooperados por la  obtención
-de aquellas cantidades afectas a IDPC y la imputación de  este  impuesto  al
-Impuesto Global Complementario  (IGC)  o  al  Impuesto  Adicional  (IA),  de
-acuerdo con los artículos 56 N°3 y 63 de la LIR.
+Por tales razones, y salvo que elijan someterse al régimen de renta presunta del artículo 34 de la LIR, estos contribuyentes deben someterse indefectiblemente al régimen contemplado en la letra B) del artículo 14.
 
-De este modo, la distribución a los cooperados del remanente, que se  afecta
-en cabeza a la cooperativa con IDPC, debe sujetarse también a tributación  a
-sus asociados, sin que exista liberación alguna de tributación  respecto  de
-estos últimos. Por lo mismo, la exención dispuesta en el artículo 51  de  la
-LGC, respecto a la devolución de excedentes originados  en  operaciones  con
-los socios, no  alcanza  a  la  devolución  de  los  mismos  en  operaciones
-celebradas con terceros.
+FERNANDO BARRAZA LUENGO
 
-Seguidamente, en relación con el tema en análisis, procede  señalar  que  el
-Oficio Ordinario  N°4.230, de 2004, que según el  contribuyente  declara  de
-modo general que a ellas no les resultan aplicables las normas  de  la  LIR,
-no es pertinente a la presente situación analizada, pues  se  refiere  a  un
-particular  mecanismo  para  determinar  la   RLI   de   las   Cooperativas,
-especialmente a las operaciones realizadas con no socios  sin  que  en  caso
-alguno pueda interpretarse que el  artículo 17 del  D.L.  N°  824  de  1974,
-sustituya  la aplicación de las normas de la Primera Categoría  en  relación
-con las Cooperativas.[2]
+DIRECTOR
 
-Por último, cabe destacar que el fallo de la Excma. Corte Suprema  que  cita
-en apoyo a su petición, en ninguna de sus partes declara que no  rijan  para
-esas entidades las normas de la LIR, sino que  sólo  se  pronuncia  respecto
-del alcance del  artículo  51  de  la  LGC,  referida  a  la  devolución  de
-excedentes a sus socios por una Cooperativa.
+Oficio N° 1708, de 28.07.2017
 
-En consecuencia,  debe  concluirse  que,  pese  a  que  la  Ley  General  de
-Cooperativas en el inciso  final  del  artículo  49  declara  que  estas  se
-regirán en materia de Impuesto a la Renta, por las normas contenidas  en  el
-artículo 17 del D.L. 824 de 1974, ello no  significa  que  las  Cooperativas
-queden de manera total, exceptuadas de la aplicación de  las  normas  de  la
-LIR, contenidas en el artículo 1° del D.L.  N°  824  de  1974,  sin  que  se
-conciba una aplicación aislada de uno u otro cuerpo legal.
+Subdirección Normativa
 
-Por último, se hace presente que, si las Cooperativas estuvieran  fuera  del
-ámbito de la LIR, no tendrían  derecho  los  asociados  a  imputar  el  IDPC
-pagado por la Cooperativa en contra del IGC o IA,  pues  tal  imputación  se
-establece precisamente en la LIR y no en las normas  especiales  de  la  Ley
-General de Cooperativas, ni en el artículo 17 del D.L. N° 824 de 1974.
-
-III.- CONCLUSIÓN.
-
-Por las razones anotadas precedentemente, debe concluirse que  si  bien  las
-Cooperativas de acuerdo al inciso final del artículo 49 de  la  Ley  General
-de Cooperativas en materia de Impuesto a la Renta, se rigen por el  artículo
-17 del D.L. N° 824, de 1974,  ello no implica desconocer  la  aplicación  de
-la LIR para determinar el régimen tributario por el cual deben  regirse,  el
-cual  considerando el  contexto  y  características  particulares  de  estas
-entidades, no es otro que el contenido en la Letra B) del artículo 14 de  la
-LIR, haciendo posible la integración entre el  IDPC  que  debe  soportar  la
-Cooperativa y el impuesto que deben soportar los  asociados  de  las  mismas
-entidades, razón por la cual  procede  confirmar  en  todas  sus  partes  el
-Oficio Ordinario N°1.708, de 28.07.2017, de este Servicio.
-
-
-
-
-                                       FERNANDO BARRAZA LUENGO
-
-       DIRECTOR
-
-
-
-
-                        Oficio N° 1031, de 24.05.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-                           -----------------------
-[1] Contenida en el DFL N°5, de Economía, Fomento y Turismo, 17.02.2004.
-
-[2] Ver Oficio Ord, 4495, de 10.08.76, del SII.
+Dpto. de Impuestos Directos

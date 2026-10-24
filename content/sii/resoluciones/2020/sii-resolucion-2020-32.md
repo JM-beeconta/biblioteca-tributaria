@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas que se indican. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

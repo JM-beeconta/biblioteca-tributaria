@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Imparte instrucciones para la determinación de la tasación fiscal de vehículos motorizados para los fines que indica. Fuente: Subdirección de Avaluaciones.
+n Normativa Imparte instrucciones para la determinación de la tasación fiscal de vehículos motorizados para los fines que indica. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

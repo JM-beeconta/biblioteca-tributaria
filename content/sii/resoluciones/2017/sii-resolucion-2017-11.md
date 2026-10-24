@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ncia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las provincias de Colchagua y cardenal Caro de la región de O&acute;higgins; de las comunas de Vichuquén, Cauquenes, Hualañé y Licanten en la región del Maule y de la comuna de Bulnes en la región de Bio Bio. Fuente: Subdirección de Asistencia al Contribuyente
+ncia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las provincias de Colchagua y cardenal Caro de la región de O´higgins; de las comunas de Vichuquén, Cauquenes, Hualañé y Licanten en la región del Maule y de la comuna de Bulnes en la región de Bio Bio. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

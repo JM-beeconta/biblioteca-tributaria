@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2018 y el 9 de noviembre del año 2018. Fuente: Oficina de Gestión Normativa
+n Normativa Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2018 y el 9 de noviembre del año 2018. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

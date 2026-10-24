@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de Cálculos de Reajustes, Intereses y multas marzo 2017 Fuente: Subdirección de Fiscalización
+n Normativa Tabla de Cálculos de Reajustes, Intereses y multas marzo 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

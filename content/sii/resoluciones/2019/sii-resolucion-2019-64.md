@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Autoriza al Notario Público Titular de San Miguel con asiento en La Cisterna, SR. JORGE ANDRÉS OSSA CUEVAS, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autoriza al Notario Público Titular de San Miguel con asiento en La Cisterna, SR. JORGE ANDRÉS OSSA CUEVAS, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

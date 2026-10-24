@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Fija coeficientes de ajuste para la tasación de obras civiles de hormigón armado. Fuente: Subdirección de Avaluaciones
+n de Asistencia al Contribuyente Fija coeficientes de ajuste para la tasación de obras civiles de hormigón armado. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

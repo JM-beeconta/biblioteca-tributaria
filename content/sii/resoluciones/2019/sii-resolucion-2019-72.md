@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración Servicio de Impuestos Internos y Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
+n de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración Servicio de Impuestos Internos y Agencia Nacional de Inteligencia. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Designa Secretario Titular en Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena. Fuente: Subdirección Jurídica
+n de Asistencia al Contribuyente Designa Secretario Titular en Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

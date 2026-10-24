@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Precisa el concepto de establecimiento permanente, en relación con la obligación de inscripción en el Rol Único Tributario. Fuente: Departamento Impuestos Directos
+n Normativa Precisa el concepto de establecimiento permanente, en relación con la obligación de inscripción en el Rol Único Tributario. Fuente: Departamento Impuestos Directos
 
 ## Referencias detectadas
 

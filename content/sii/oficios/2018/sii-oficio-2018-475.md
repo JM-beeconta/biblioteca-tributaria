@@ -4,116 +4,65 @@
 - Tipo: oficio
 - Número: 475
 - Año: 2018
-- Fecha: 2018-05-28
-- Categoría: Renta
-- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=475-07%2F02%2F2019.pdf&extension=pdf&acc=download&id=4c39985a-ddf5-42f3-a7c1-2ba97cea8cb4&mediaType=application%2Fpdf
-- Hash SHA-256: 5f0c9b92c4dcb2eb82829a64f70b54d47da428e1e730adf06c1fb10ba020406b
+- Fecha: N/A
+- Categoría: Renta, Otras Normas
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja475.htm
+- Hash SHA-256: 02639cb3d11039162f19ab1b51ac38140dec05baba0c7c02b24ff00a7a85a3e2
 
 ## Resumen
 
-Impuesto a que están afectas las dietas que perciben los Concejales.
+res y Estampillas. Ley sobre Impuesto Territorial – Ley N° 17.235 – Convención de Viena, Art. 32 - Oficio N° 2640, de 2017 (Ord. Nº 475, de 05-03-2018) | | Word Consulta del Consulado de Bolivia sobre el cumplimiento del artículo 32 de la Convención de Viena sobre Relaciones Consulares.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":7,"year":1993}
-- {"type":"oficio","number":762,"year":2018}
-- {"type":"oficio","number":790,"year":2005}
-- {"type":"articulo","law":"LIR","article":"74 N"}
-- {"type":"articulo","law":"LIR","article":"42 N"}
-- {"type":"articulo","law":"LIR","article":"54 N"}
-- {"type":"articulo","law":"LIR","article":"52"}
-- {"type":"articulo","law":"LIR","article":"75"}
+- {"type":"oficio","number":2640,"year":2017}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42 N° 1, ART. 43 Y ART. 74 N° 1 –
-   CIRCULAR N° 7 DE 1993 – OFICIOS N°s 790 DE 2005 Y 762 DE 2018 (ORD. N° 475 DE
-                                  07.02.2019).
+LEY SOBRE IMPUESTO TERRITORIAL – LEY N° 17.235 – CONVENCIÓN DE VIENA, ART. 32 - OFICIO N° 2640, DE 2017 (Ord. Nº 475, de 05-03-2018)
 
+CONSULTA DEL CONSULADO DE BOLIVIA SOBRE EL CUMPLIMIENTO DEL ARTÍCULO 32 DE LA CONVENCIÓN DE VIENA SOBRE RELACIONES CONSULARES.
 
-Impuesto a que están afectas las dietas que perciben los Concejales.
+Se pide un pronunciamiento respecto del cumplimiento del artículo 32 de la Convención de Viena sobre Relaciones Consulares, en lo que se refiere a materias tributarias.
 
-Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, mediante la cual
-solicita un pronunciamiento respecto de la tributación que afecta a las dietas que los Concejales perciben
-mensualmente.
+II. ANTECEDENTES
 
-I.- ANTECEDENTES:
+Esa Dirección Regional ha remitido una solicitud efectuada por el Consulado de Bolivia, representado por el Sr. AAAA, quien solicita información respecto del cumplimiento del artículo 32 de la Convención de Viena sobre Relaciones Consulares de 24 de abril de 1963, en adelante la “Convención”. La información indicada se requiere para los efectos de contrastar el cumplimiento del principio de Reciprocidad Legal que rige el Derecho Internacional entre la República de Chile y el Estado Plurinacional de Bolivia.
 
-En cumplimiento de lo dispuesto en el artículo 14 de la ley N°19.880, el Jefe subrogante de la Unidad
-Jurídica de la XXXX remitió a este Servicio su Oficio N°1930 de 28 de mayo de 2018, debido a que
-compete a este Organismo, en forma exclusiva, la interpretación administrativa de las disposiciones sobre
-tributación fiscal interna.
+II. ANÁLISIS
 
-A través de su presentación solicita la aclaración de una inquietud de los Concejales de la comuna de
-YYYY, relativa a la tributación que afectaría a las dietas que perciben mensualmente y respecto de quién
-sería el obligado a enterar el impuesto en arcas fiscales, en caso que correspondiera aplicar un impuesto.
+La Convención de Viena sobre Relaciones Consulares, suscrita en Viena el 24 de abril de 1963 y promulgada mediante el Decreto N° 709, de 1967, del Ministerio de Relaciones Exteriores, establece en su artículo 32, lo siguiente:
 
-II.- ANÁLISIS:
+“Exención fiscal de los locales consulares.
 
-En primer lugar, cabe señalar que este Servicio se pronunció recientemente sobre el tema mediante Oficio
-N°762 de 2018, disponible en su sitio web.
+1. Los locales consulares y la residencia del jefe de la oficina consular de carrera de los que sea propietario o inquilino el Estado que envía, o cualquiera persona que actúe en su representación, estarán exentos de todos los impuestos y gravámenes nacionales, regionales y municipales, excepto de los que constituyan el pago de determinados servicios prestados.
 
-Al respecto, el artículo 88 de la Ley Nº18.695, Orgánica Constitucional de Municipalidades, dispone que
-los Concejales tendrán derecho a percibir una “dieta” mensual que se calcula según se señala en dicho
-artículo.
+2. La exención fiscal a que se refiere el párrafo 1 de este artículo, no se aplicará a los impuestos y gravámenes que, conforme a la legislación del Estado receptor, deba satisfacer la persona que contrate con el Estado que envía o con la persona que actúe en su representación.”
 
-Por su parte, la Circular N°7 de 1993, instruyó acerca de la tributación que afecta a las remuneraciones
-que perciben las personas por su asistencia a las sesiones que celebran determinados organismos
-colegiados establecidos por Ley, dentro de los cuales se comprenden los Concejales a los que se refiere la
-Ley N° 18.695, instructivo que también se encuentra publicado en el sitio web de este Servicio. En esta
-circular se expresa que las dietas de los Concejales se afectan con el Impuesto Único de Segunda
-Categoría de los artículos 42 N° 1 y 43 N°1 de la LIR.
-Por su parte, el Oficio N°790 de 2005, señaló que, atendida la definición del Diccionario de la Real
-Academia Española, se entiende por “dieta”, el honorario que un juez u otro funcionario devenga cada día
-mientras dura la comisión que se le confía fuera de su residencia oficial, y también el estipendio que se da
-a los que ejecutan algunas comisiones o encargos por cada día que se ocupan en ellos, o por el tiempo que
-emplean en realizarlos.
-De acuerdo con la definición citada, esta Dirección concluyó que las remuneraciones que perciben las
-personas por su asistencia a las sesiones que celebran determinados organismos colegiados establecidos
-por ley, dentro de los cuales se comprenden los Concejales, tienen la calidad de "dieta", y en virtud de tal
-naturaleza, ellas se afectan con el Impuesto Único de Segunda Categoría de los artículos 42 Nº1 y 43 Nº1
-de la LIR, de acuerdo con las normas generales que regulan dicho tributo, entre ellas, la obligación de
-retención y pago mensual del impuesto por parte del pagador de la renta, según lo establecido en el
-artículo 74 N°1 de la LIR.
-Se hace presente que al ser calificadas las dietas como remuneraciones del artículo 42 N°1 de la LIR, y
-estar afectas al Impuesto Único de Segunda Categoría, en principio no existe obligación del perceptor de
-la renta para hacer una declaración anual de ellas, ya que deben ser retenidos los impuestos mensualmente
-por el pagador de dichas rentas. Sin embargo, si el Concejal recibiere además otras rentas distintas a las
-dietas, deberá reliquidar el impuesto anual, tal como lo ordena el artículo 47, en relación con el artículo
-54 N° 3, ambos de la LIR, y en tal caso, el perceptor de la renta, deberá declararlas anualmente para
-efectos de calcular el Impuesto Global Complementario.
+De acuerdo al párrafo 1 del artículo 32 de la Convención, el Estado de Chile debe eximir a los locales consulares y a la residencia del jefe de la oficina consular de los que sea propietario o inquilino el Estado que envía, o cualquier persona que actúe en su representación, de todos los impuestos y gravámenes nacionales, regionales y municipales, excepto de los que constituyan el pago de determinados servicios prestados. En conformidad con esa disposición, los locales consulares y la residencia del jefe de la oficina consular se eximen del Impuesto Territorial contenido en la Ley N° 17.235.
 
-III.- CONCLUSIÓN.
+En el párrafo 2 del artículo 32 por su parte, se señala que la exención fiscal a que se refiere el párrafo 1 no se aplica a los impuestos y gravámenes que, conforme a la legislación del Estado receptor, deba satisfacer la persona que contrate con el Estado que envía o con la persona que actúa en su representación. Tal es el caso, por ejemplo, del Impuesto al Valor Agregado que se devengue en la compra de un inmueble para utilizarlo como local de la oficina consular o residencia del jefe de la oficina consular, en que el sujeto del impuesto es el vendedor del inmueble y no la oficina consular o el jefe de dicha oficina.
 
-Al tratarse de rentas contempladas en el artículo 42 N°1 de la LIR, las dietas que reciben los Concejales
-tributan de acuerdo con lo dispuesto en los artículos 43 y 74 N°1 de la misma ley, esto es, a través de su
-retención y declaración mensual por parte del pagador de la renta.
+Sin embargo, este Servicio se pronunció recientemente respecto de la aplicación del artículo 23 de la Convención de Viena sobre Relaciones Diplomáticas en el sentido que la exención contenida en ese artículo se podía aplicar respecto del Impuesto al Valor Agregado que grava la adquisición de inmuebles por parte de una Embajada, sujeto a la condición que se reconocieran exenciones o beneficios de análoga naturaleza, en la adquisición de inmuebles, a las misiones diplomáticas chilenas en el otro Estado.
 
-                                                                                                          1
-Si el Concejal percibe además otras rentas, las dietas formarán parte de la renta bruta global a la que se
-aplica la tributación a que se refiere el artículo 52 de la LIR, esto es, Impuesto Global Complementario y
-deberán ser declaradas y el impuesto pagado por el perceptor de la renta en la Declaración Anual de
-Impuesto a la Renta (Formulario 22). En esta declaración anual, el Impuesto Único de Segunda Categoría
-que se retuvo y pagó mensualmente, reajustado de la forma indicada en el artículo 75 de la LIR, servirá de
-crédito.
+Si bien lo resuelto en ese caso se refiere a otra Convención, ese mismo criterio corresponde aplicar respecto del artículo 32 de la Convención de Viena sobre Relaciones Consulares cuya redacción, con ligeras diferencias, es prácticamente la misma que tiene el artículo 23 de la Convención de Viena sobre Relaciones Diplomáticas, pero en uno u otro caso el efecto que se busca es liberar de impuesto a los locales de las misiones diplomáticas y consulares.
 
+Esto se reconoce en las Actas resumidas del decimotercer período de sesiones de la Comisión de Derecho Internacional de las Naciones Unidas del año 1961, Volumen I, en que se reproduce la opinión de varios miembros de la Comisión en orden a que el párrafo 1 del artículo 23 de la Convención de Viena sobre Relaciones Diplomáticas era una disposición cuyos términos eran análogos a los del artículo del proyecto que se discutía en ese momento y que posteriormente se incorporó como artículo 32 de la Convención de Viena sobre Relaciones Consulares. En las mismas Actas, varios miembros de la Comisión sostuvieron que no se podía proponer que se concediera a las oficinas consulares una exención fiscal mayor que a las misiones diplomáticas, lo que refleja claramente la intensión de que ambos textos legales tuvieran el mismo sentido y alcance.
 
-Saluda a Ud.,
+Es por ello que, se tiene que concluir también en este caso que la adquisición de inmuebles por parte de una oficina consular se encuentra exenta del Impuesto al Valor Agregado, exención que opera sobre la base del principio de reciprocidad, esto es, que se concedan exenciones o beneficios de análoga naturaleza, en la adquisición de inmuebles, a las misiones diplomáticas chilenas en el otro Estado.
 
+III. CONCLUSIÓN
 
+Conforme a lo dispuesto en el artículo 32 de la Convención de Viena sobre Relaciones Consulares, los locales consulares y la residencia del jefe de la oficina consular se eximen del Impuesto Territorial contenido en la Ley N° 17.235.
 
+Asimismo, se encuentra exenta de Impuesto al Valor Agregado la adquisición de inmuebles por parte de una oficina consular, exención que opera sobre la base del principio de reciprocidad.
 
-                                                        FERNANDO BARRAZA LUENGO
-                                                              DIRECTOR
+FERNANDO BARRAZA LUENGO
 
+DIRECTOR
 
+Oficio N° 475, de 05.03.2018
 
+Subdirección Normativa
 
-                                     Oficio N° 475 del 07-02-2019
-                                      Subdirección Normativa
-                                     Depto. de Impuesto Directos
-
-
-
-
-                                                                                                        2
+Dpto. de Normas Internacionales

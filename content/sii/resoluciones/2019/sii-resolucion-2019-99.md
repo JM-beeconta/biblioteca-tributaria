@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Modifica Res. Ex. SII N° 18 de 22.04.2003 y Res. Ex. SII N° 45 de 01.09.2003, eliminando la obligación de entregar un ejemplar impreso del DTE y deja sin efecto Res. Ex. N° 11 de 14.02.2003. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Modifica Res. Ex. SII N° 18 de 22.04.2003 y Res. Ex. SII N° 45 de 01.09.2003, eliminando la obligación de entregar un ejemplar impreso del DTE y deja sin efecto Res. Ex. N° 11 de 14.02.2003. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

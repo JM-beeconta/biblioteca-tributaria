@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

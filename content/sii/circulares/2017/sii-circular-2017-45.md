@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;N NORMATIVA Valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre del año 2017 y el 9 de octubre del año 2017 Fuente: OFICINA DE GESTIÓN NORMATIVA
+N NORMATIVA Valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre del año 2017 y el 9 de octubre del año 2017 Fuente: OFICINA DE GESTIÓN NORMATIVA
 
 ## Referencias detectadas
 

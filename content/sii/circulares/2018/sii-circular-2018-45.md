@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

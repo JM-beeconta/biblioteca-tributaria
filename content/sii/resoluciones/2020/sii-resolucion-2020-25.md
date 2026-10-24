@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Addendum Modificación Convenio de Colaboración entre Tesorería General de la República y Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. Aprueba Addendum Modificación Convenio de Colaboración entre Tesorería General de la República y Servicio de Impuestos Internos Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

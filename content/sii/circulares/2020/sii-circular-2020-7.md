@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Actualiza instrucciones para la aplicación &ldquo;F2890 EN LÍNEA&rdquo;, sobre declaración de enajenación e inscripción de bienes raíces y procedimiento de traspaso de información de Notarios y Conservadores de Bienes Raíces al Servicio de Impuestos Internos. Deroga Circulares N°41, de 1998, N°10 de 2004, N°39 de 2007 y N°57 de 2008. Fuente: Subdirección de Avaluaciones
+n Normativa Actualiza instrucciones para la aplicación “F2890 EN LÍNEA”, sobre declaración de enajenación e inscripción de bienes raíces y procedimiento de traspaso de información de Notarios y Conservadores de Bienes Raíces al Servicio de Impuestos Internos. Deroga Circulares N°41, de 1998, N°10 de 2004, N°39 de 2007 y N°57 de 2008. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

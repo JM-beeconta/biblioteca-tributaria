@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 15 de Enero del 2018 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones
+n de Asistencia al Contribuyente Resolución Exenta SII N° 05 del 15 de Enero del 2018 Fija tablas de valores de trolebuses, microbuses, camiones, taxis, taxis colectivos, taxibuses, automóviles, station wagons, furgones, camionetas, incluyendo el de sus acoplados o carros de arrastre Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

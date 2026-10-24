@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Oficina de Gestión Normativa Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación con la emisión del comprobante o &ldquo;recibo de pago&rdquo; generado en transacciones pagadas a través de medios electrónicos como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el Art. 54 del D.L. N°825, de 1974, Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Asistencia al Contribuyente
+Oficina de Gestión Normativa Modifica Res. Ex. SII N° 05, de 2015, que establece normas en relación con la emisión del comprobante o “recibo de pago” generado en transacciones pagadas a través de medios electrónicos como sustituto de la boleta de ventas y servicios, de acuerdo a lo dispuesto por el Art. 54 del D.L. N°825, de 1974, Ley sobre Impuesto a las Ventas y Servicios Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

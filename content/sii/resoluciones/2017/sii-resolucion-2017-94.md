@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Reemplaza formato e instrucciones de Declaración Jurada Formulario Número 1806, modifica Resolución Exenta SII N° 187 del 23.12.2010 y elimina Declaración Jurada de Formulario 1849. Fuente: Subdirección de Fiscalización
+n de Avaluaciones Reemplaza formato e instrucciones de Declaración Jurada Formulario Número 1806, modifica Resolución Exenta SII N° 187 del 23.12.2010 y elimina Declaración Jurada de Formulario 1849. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

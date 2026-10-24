@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, publicada el 24 de febrero de 2020, a la Ley N° 17.235, sobre Impuesto Territorial, en materia de sobretasa. Fuente: Subdirección de Avaluaciones.
+n Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, publicada el 24 de febrero de 2020, a la Ley N° 17.235, sobre Impuesto Territorial, en materia de sobretasa. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

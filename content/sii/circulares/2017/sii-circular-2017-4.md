@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica por modificaciones establecidas a la Ley de Mérito Ejecutivo Fuente: Departamento de Operaciones
+n Normativa Establece requisitos para efectos de hacer uso del crédito fiscal contenido en la factura electrónica por modificaciones establecidas a la Ley de Mérito Ejecutivo Fuente: Departamento de Operaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Exime a Emprender Capital Automotriz SPA de la obligación de timbraje de pagarés establecida en el Artículo 17 Inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Exime a Emprender Capital Automotriz SPA de la obligación de timbraje de pagarés establecida en el Artículo 17 Inciso 2° del D.L. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

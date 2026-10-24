@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Postergación del pago del Impuesto al Valor Agregado, e imparte instrucciones relativas a modificación efectuada por el artículo tercero, N° 29, de la Ley N° 21.210, al artículo 64 del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Deroga instrucciones contenidas en Circular N° 61 de 2014. Fuente: Departamento de Impuestos Indirectos.
+n Normativa. Postergación del pago del Impuesto al Valor Agregado, e imparte instrucciones relativas a modificación efectuada por el artículo tercero, N° 29, de la Ley N° 21.210, al artículo 64 del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Deroga instrucciones contenidas en Circular N° 61 de 2014. Fuente: Departamento de Impuestos Indirectos.
 
 ## Referencias detectadas
 

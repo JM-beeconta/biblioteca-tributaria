@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Exime a instituciones sin fines de lucro que señala, de timbrar certificados por donaciones a que se refiere el n°5 del artículo 1° de la ley n°19.885 y fija condiciones que se indican. Fuente: Subdirección De Asistencia al Contribuyente
+n de Asistencia al Contribuyente Exime a instituciones sin fines de lucro que señala, de timbrar certificados por donaciones a que se refiere el n°5 del artículo 1° de la ley n°19.885 y fija condiciones que se indican. Fuente: Subdirección De Asistencia al Contribuyente
 
 ## Referencias detectadas
 

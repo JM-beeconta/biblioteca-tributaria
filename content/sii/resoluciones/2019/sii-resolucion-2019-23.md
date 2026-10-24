@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización Reemplaza resolutivo 2° de la Resolución Ex. SII N° 21 de 2017, que &ldquo;establece procedimiento para el pago del Impuesto a las Donaciones efectuadas en dinero&rdquo;. Fuente: Subdirección de Fiscalización
+cción de Fiscalización Reemplaza resolutivo 2° de la Resolución Ex. SII N° 21 de 2017, que “establece procedimiento para el pago del Impuesto a las Donaciones efectuadas en dinero”. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Dispone procedimiento para el envío de boletas electrónicas de los contribuyentes que cumplan los requisitos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Dispone procedimiento para el envío de boletas electrónicas de los contribuyentes que cumplan los requisitos que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

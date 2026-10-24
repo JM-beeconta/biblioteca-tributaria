@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Complementa instrucciones impartidas en las Circulares números 20 y 21, ambas de 4 de abril de 2014 Fuente: Oficina de Normas y Casos Especiales
+n Normativa Complementa instrucciones impartidas en las Circulares números 20 y 21, ambas de 4 de abril de 2014 Fuente: Oficina de Normas y Casos Especiales
 
 ## Referencias detectadas
 

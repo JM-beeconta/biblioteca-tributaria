@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece la forma en que los contribuyentes podrán acogerse a al régimen de depreciación instantánea establecida en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210 que moderniza la Legislación Tributaria. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece la forma en que los contribuyentes podrán acogerse a al régimen de depreciación instantánea establecida en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210 que moderniza la Legislación Tributaria. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

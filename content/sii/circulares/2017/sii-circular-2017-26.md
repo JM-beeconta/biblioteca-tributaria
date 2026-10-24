@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tablas de Impuesto Único de segunda categoría para el mes de junio del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de Impuesto Único de segunda categoría para el mes de junio del año 2017, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

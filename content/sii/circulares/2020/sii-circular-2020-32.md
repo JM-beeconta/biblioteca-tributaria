@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta por el N° 13 del artículo 2° de la Ley N° 21.210. Deja sin efecto Circular N° 19 de 2010. Fuente: Impuestos Directos.
+n Normativa. Tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta por el N° 13 del artículo 2° de la Ley N° 21.210. Deja sin efecto Circular N° 19 de 2010. Fuente: Impuestos Directos.
 
 ## Referencias detectadas
 

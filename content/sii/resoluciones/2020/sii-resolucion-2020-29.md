@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ección de Fiscalización Exime a organización no gubernamental de desarrollo canales &ldquo;ONG CANALES&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente.
+ección de Fiscalización Exime a organización no gubernamental de desarrollo canales “ONG CANALES”, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

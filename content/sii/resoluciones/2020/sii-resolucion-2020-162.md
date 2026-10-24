@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece obligación de las administradoras de fondos de pensiones de informar, en la forma y plazo que se señala, los montos de los retiros efectuados por los afiliados en conformidad la Ley N° 21.295. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Establece obligación de las administradoras de fondos de pensiones de informar, en la forma y plazo que se señala, los montos de los retiros efectuados por los afiliados en conformidad la Ley N° 21.295. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza como receptor electrónico de documentos tributarios electrónicos al organismo público que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

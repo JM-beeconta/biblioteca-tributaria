@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tabla de cálculos de reajustes, intereses y multas enero 2021. Fuente: Subdirección de Fiscalización.
+n Normativa. Tabla de cálculos de reajustes, intereses y multas enero 2021. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

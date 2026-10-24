@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa Tablas de Impuesto Único de Segunda categoría para el mes de enero del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
+n Normativa Tablas de Impuesto Único de Segunda categoría para el mes de enero del año 2018, e información adicional relacionada con dicho tributo. Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

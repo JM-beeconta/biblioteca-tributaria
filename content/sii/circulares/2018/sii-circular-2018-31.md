@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa Instruye sobre las modificaciones incorporadas por la Ley N°21.047 de 2017, al artículo cuarto de las Disposiciones Transitorias de la Ley N°20.899 de 2016, respecto a la extensión del plazo para no aplicar la obligación de restitución establecida en el artículo 63 de la LIR a domiciliados en países con Convenio con Chile para evitar la doble tributación internacional, y al artículo 37 del Decreto Ley N°1.939 de 1977, acerca del tratamiento tributario de las donaciones al Fisco. Fuente: Subdirecc…
+n Normativa Instruye sobre las modificaciones incorporadas por la Ley N°21.047 de 2017, al artículo cuarto de las Disposiciones Transitorias de la Ley N°20.899 de 2016, respecto a la extensión del plazo para no aplicar la obligación de restitución establecida en el artículo 63 de la LIR a domiciliados en países con Convenio con Chile para evitar la doble tributación internacional, y al artículo 37 del Decreto Ley N°1.939 de 1977, acerca del tratamiento tributario de las donaciones al Fisco. Fuente: Subdirección No…
 
 ## Referencias detectadas
 

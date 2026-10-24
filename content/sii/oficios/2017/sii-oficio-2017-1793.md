@@ -4,80 +4,77 @@
 - Tipo: oficio
 - Número: 1793
 - Año: 2017
-- Fecha: 2017-08-23
+- Fecha: 2017-08-10
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1874.htm
-- Hash SHA-256: 947a45ee2316c65a97c277b9d2c6a4ff2633c71df5087d94e978744d4cbd96f3
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1793.htm
+- Hash SHA-256: 2cb43f118482a30dcfe2e8229ef204b54734c24716be82f048d63e291cd33ccf
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Código Del Trabajo, Art. 3, Art. 48, Art. 49 &ndash; . (Ord. Nº 1874, de 23-08-2017) |
+Renta – Actual Ley sobre Impuesto a la – Art. 42, N°1 – Ley N°18.681, Art. 69. (Ord. Nº 1793, de 10-08-2017) | | Word Aplicación del Límite Global Absoluto “LGA” relativo a las donaciones a universidades, en virtud de artículo 69 de la Ley N° 18.681.
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":1793,"year":2002}
-- {"type":"articulo","law":"CT","article":"6"}
+- {"type":"circular","number":71,"year":2010}
+- {"type":"oficio","number":12,"year":2010}
+- {"type":"articulo","law":"LIR","article":"69 d"}
+- {"type":"articulo","law":"LIR","article":"50"}
+- {"type":"articulo","law":"LIR","article":"42 N"}
+- {"type":"articulo","law":"LIR","article":"14"}
+- {"type":"articulo","law":"LIR","article":"31"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DEL TRABAJO, ART. 3, ART. 48, ART. 49 – OFICIO N° 1793, DE 2002. (Ord. Nº 1874, de 23-08-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1 – LEY N°18.681, ART. 69. (Ord. Nº 1793, de 10-08-2017)
 
-SOLICITA UN PRONUNCIAMIENTO EN RELACIÓN CON LA DETERMINACIÓN DE LA BASE SOBRE LA QUE SE CALCULAN LAS GRATIFICACIONES, TRATÁNDOSE DE EMPRESAS QUE, EN CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO 3, INCISO 4 DEL CÓDIGO DEL TRABAJO, HAN SIDO DECLARADAS COMO UN SOLO EMPLEADOR PARA LOS EFECTOS LABORALES Y PREVISIONALES.
+APLICACIÓN DEL LÍMITE GLOBAL ABSOLUTO “LGA” RELATIVO A LAS DONACIONES A UNIVERSIDADES, EN VIRTUD DE ARTÍCULO 69 DE LA LEY N° 18.681.
 
-Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, mediante la cual requiere un pronunciamiento en orden a determinar la fórmula de pago del beneficio de gratificación legal previsto en el artículo 47 del Código del Trabajo, tratándose de empresas que han sido declaradas como un solo empleador para los efectos laborales y previsionales en conformidad a lo dispuesto por el artículo 3, del Código del Trabajo, modificado por el Artículo único, N° 1, de la Ley N° 20.760, publicada en el Diario Oficial de fecha 09.07.2014.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita confirmar la aplicación del Límite Global Absoluto ("LGA") relativo a las donaciones a universidades en virtud del artículo 69 de la Ley N° 18.681.
 
-ANTECEDENTES:
+ANTECEDENTES
 
-Manifiesta que se recibió en esa Dirección del Trabajo, una presentación en la que respecto de algunas empresas de la industria del transporte de carga terrestre por carretera que han sido declaradas en fechas recientes como unidad económica para efectos laborales y previsionales de conformidad a las modificaciones que la Ley N° 20.760 incorporó al artículo 3° del Código del Trabajo, y que hasta ahora pagaban la gratificación legal del artículo 47 del referido código en forma separada e independiente, se solicita instrucciones sobre la fórmula de cálculo a aplicar para el pago de estas gratificaciones, habida consideración que la declaración de unidad económica no implica la unificación operativa, contable ni tributaria de sus empresas.
+En su calidad de Prorrector de la Universidad, hace presente que es necesario confirmar los límites aplicables a donaciones efectuadas por personas naturales sujetas al Impuesto Global Complementario (IGC) que perciban rentas mixtas, es decir, rentas afectas con IGC, percibidas por contribuyentes que deban determinar sus rentas de acuerdo con el artículo 54 de la Ley de Impuesto a la Renta, tales como dividendos u otras, junto con honorarios u otras remuneraciones.
 
-En opinión de quien consulta ante esa Dirección, existirían dos posibilidades fácticas para su cálculo:
+Al respecto, plantea la situación de contribuyentes del IGC, cuando la renta tiene una naturaleza distinta a las rentas del trabajo o rentas profesionales, como podría ser el caso de dividendos de sociedades anónimas, consultando si en dicho caso se aplica el tope de 14.000 UTM (límite particular de las donaciones a universidades e institutos profesionales, establecido en el artículo 69 de la Ley N°18.681), o el 20% de la renta imponible o el de 320 UTM (límite global absoluto establecido en la Ley N° 18.985).
 
-1.- Que se mantenga la singularidad de los datos de cada una de las empresas, en forma independiente, en cuyo caso no variaría la fórmula de pago utilizada hasta la fecha;
+Conforme a los antecedentes de derecho que expone, entre los cuales se encuentra el mensaje presidencial de la Ley N° 20.675, que modificó la Ley N° 18.985, referida a las donaciones con fines culturales; el mensaje de la Ley N° 20.316, que modificó la Ley N°19.885; la Circular N° 71, de 2010, y el Oficio N° 12, de 2010, ambos emitidos por este Servicio, señala que, en el caso de rentas mixtas, esto es, por ejemplo, rentas de actividades profesionales y de dividendos (rentas afectas con IGC percibidas por contribuyentes que deban determinar sus rentas de acuerdo con el artículo 54 de la Ley de Impuesto a la Renta), el tope del crédito debiera aplicarse en forma proporcional, según los porcentajes en que dichas rentas participan en la renta total. Así, por la parte que corresponda a rentas profesionales y/o rentas afectas a Impuesto Único de Segunda Categoría corresponderá crédito con el tope de 20% de la renta imponible o 320 UTM (según el límite global absoluto establecido en la Ley N° 18.895) y con el tope de 14.000 UTM (establecido en el artículo 69 de la Ley N°18.681) a las demás rentas.
 
-2.- Que en este nuevo contexto de la declaración de unidad económica, se deba agregar y sumar los valores de las empresas, para llegar a un valor único y total de utilidad líquida de capital propio, debiendo ver montos devengados por cada trabajador en período anual del total de remuneraciones de ambas empresas, antecedentes referidos en artículos 47, 48 y 49 del Código del Trabajo, que constituyen los datos básicos para el cálculo de la respectiva gratificación, pagando este beneficio a prorrata a cada trabajador, pero considerando ahora los datos globales.
+En cuanto a la forma de hacer efectiva la rebaja al IGC por las donaciones, en su opinión, sea que el contribuyente haya optado por el régimen de renta atribuida o por el régimen semi integrado, procede la rebaja contra el impuesto determinado, ya que la modificación a la Ley de Impuesto a la Renta no ha cambiado el régimen de donaciones.
 
-Al respecto esa Dirección del Trabajo, con el objeto de resolver fundadamente sobre el particular, solicita se informe respecto de la situación de las empresas que han sido objeto de tal declaración, señalando los efectos de la misma en la determinación de la utilidad que deberá servir de base para el cálculo del mencionado beneficio, en conformidad al artículo 49 del Código del Trabajo.
+Si así fuera el caso, se podría dar una situación en la que una persona que tiene ingresos por dividendos de $300.000.000, podría donar con tope de un crédito de 14.000 UTM, pero si la misma persona, además, emite boletas de honorarios por 12 millones, entonces el LGA sería del tope de 320 UTM o 20% de la renta imponible, el que sea menor.
 
-II.- ANÁLISIS.
+Finalmente, solicita que se confirme que la aplicación del nuevo LGA, esto es, el tope de 320 UTM o 20% de la renta líquida imponible, no se aplicaría a los contribuyentes personas naturales afectos al IGC que perciban rentas cuyo origen sea distinto de las rentas del trabajo o de rentas de profesionales, aplicándose para estos casos el límite particular establecido en el artículo 69 de la Ley N°18.681, de 14.000 UTM.
 
-Sobre el particular cabe señalar que los nuevos incisos cuarto al octavo del Artículo 3° del Código del Trabajo, que conforme a lo dispuesto en la letra b) del N° 1, del Artículo único de la Ley N° 20.760, sustituyen el ex inciso final del referido artículo 3°, establecen lo siguiente:
+ANÁLISIS
 
-"Dos o más empresas serán consideradas como un solo empleador para efectos laborales y previsionales, cuando tengan una dirección laboral común, y concurran a su respecto condiciones tales como la similitud o necesaria complementariedad de los productos o servicios que elaboren o presten, o la existencia entre ellas de un controlador común.
+La Ley N° 18.681 de 1987, en su artículo 69 dispone que los contribuyentes que de acuerdo con las normas generales de la LIR declaren sus rentas efectivas, determinadas mediante contabilidad completa y tributen conforme a las normas del impuesto de primera categoría así como también los contribuyentes del Impuesto Global Complementario, que declaren igual tipo de rentas, y los contribuyentes de la primera categoría de la Ley sobre Impuesto a la Renta que declaren sus rentas efectivas determinadas mediante contabilidad simplificada, podrán descontar de sus respectivos impuestos las sumas donadas a Universidades e Institutos Profesionales estatales y particulares reconocidos por el Estado, siempre que éstas se encuentren comprendidas en la declaración respectiva. No obstante lo anterior, las empresas donde el Estado, sus empresas y organismos, tengan una participación igual o superior al 50%, no podrán acogerse a los beneficios que establece este artículo.
 
-La mera circunstancia de participación en la propiedad de las empresas no configura por sí sola alguno de los elementos o condiciones señalados en el inciso anterior.
+El beneficio tributario que dispone esta norma consiste en que los referidos contribuyentes podrán rebajar, ya sea, del impuesto de primera categoría (IDPC) o del IGC, un monto de hasta un 50% de las sumas donadas con un descuento máximo de 14.000 UTM por cada año.
 
-Las empresas que cumplan lo dispuesto en el inciso cuarto serán solidariamente responsables del cumplimiento de las obligaciones laborales y previsionales emanadas de la ley, de los contratos individuales o de instrumentos colectivos.
+A su vez, la Ley N° 19.885 de 2003, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos, a través de su artículo 10, armonizó el sistema de donaciones de interés social afectas a beneficios tributarios [1] , estableciendo que el conjunto de donaciones afectas a estos beneficios tendrá un límite máximo (denominado límite global absoluto), equivalente a un 5% de la renta líquida imponible por contribuyente de primera categoría, y, el equivalente al 20% de su renta imponible o de 320 UTM, si este monto fuera inferior a dicho porcentaje, tratándose de los contribuyentes del IGC que determinen sus rentas de conformidad con lo dispuesto en el artículo 50 de la LIR, y aquellos contribuyentes afectos al impuesto contemplado en el número 1 del artículo 43 del mismo texto legal.
 
-Las cuestiones suscitadas por la aplicación de los incisos anteriores se sustanciarán por el juez del trabajo, conforme al Párrafo 3° del Capítulo II del Título I del Libro V de este Código, quien resolverá el asunto, previo informe de la Dirección del Trabajo, pudiendo requerir además informes de otros órganos de la Administración del Estado. El ejercicio de las acciones judiciales derivadas de la aplicación del inciso cuarto, así como la sentencia definitiva respectiva, deberán, además, considerar lo dispuesto en el artículo 507 de este Código.
+Conforme a lo anterior, es posible establecer que el límite global absoluto señalado en el inciso 3° del artículo 10 de la Ley N° 19.885 resulta aplicable a las donaciones amparadas en el artículo 69 de la Ley N° 18.681 efectuadas por contribuyentes del IGC, siempre que obtengan rentas del artículo 42 N°1 o 2, de la LIR. Es decir, el límite del beneficio tributario que gozan las donaciones efectuadas conforme al artículo 69 de la Ley N° 18.681, tratándose de donantes contribuyentes que dentro de su base imponible del IGC comprendan rentas del artículo 42 N°1 o 2, de LIR, es el monto menor entre el 20% de su renta imponible anual, o un monto anual equivalente a 320 UTM.
 
-Los trabajadores de todas las empresas consideradas como un solo empleador podrán constituir uno o más sindicatos que los agrupen, o mantener sus organizaciones existentes; podrán, asimismo, negociar colectivamente con todas las empresas que han sido consideradas como un empleador, o bien con cada una de ellas. Los sindicatos interempresa que agrupen exclusivamente a trabajadores dependientes de empresas que hayan sido declaradas como un solo empleador podrán presentar proyectos de contrato colectivo, siendo obligatorio para el empleador negociar con dichos sindicatos. En todos estos casos, la presentación y tramitación de los proyectos de contrato colectivo se regirán por las normas establecidas en el Capítulo I del Título II del Libro IV de este Código.".
+En lo que concierne al límite global absoluto aplicable a los contribuyentes del impuesto global complementario, cabe señalar que la norma contenida en el artículo 10 de la Ley N° 19.885, no sufre alteración por el hecho que el donante perciba rentas “mixtas”, porque, en todo caso y respecto de la parte que corresponde, sigue siendo un contribuyente que determina rentas conforme al artículo 50 de la LIR o afecto al impuesto del artículo 43 N° 1 del mismo texto legal.
 
-La jurisprudencia de este Servicio [1] , emitida con anterioridad a la incorporación de tales modificaciones en el Código del Trabajo, a través de la cual se respondió a consulta formulada en dicha oportunidad por esa Dirección del Trabajo, se refirió a la forma de determinar la utilidad líquida y el capital propio invertido en la empresa en el caso de sociedades distintas para efectos de las gratificaciones legales, es decir, de entes jurídicos diferentes, cada uno con su propia personalidad jurídica y razón social, aunque desarrollen el mismo tipo de actividades o se encuentren relacionadas entre sí al participar en el capital social.
+Luego, cabe agregar que la ley no establece alguna regla de proporcionalidad u otro criterio para el caso que el donante obtenga rentas mixtas, por lo cual, en esa situación deberá aplicarse el LGA del monto menor entre el 20% de su renta imponible anual, o un monto anual equivalente a 320 UTM.
 
-En tal situación la referida jurisprudencia determinó que cuando se trate de &ldquo;&hellip;. contribuyentes diferentes e independientes unos de otros, al tener cada uno su propia personalidad jurídica y razón social, los elementos o parámetros a que se refieren los artículos 48 y 49 del Código de Trabajo, esto es, la utilidad líquida y el capital propio invertido en la empresa, deben determinarse en forma separada o cada uno de los contribuyentes indicados deben determinar sus propios elementos para los fines a que aluden las normas legales precitadas, de acuerdo con sus antecedentes contables y tributarios e instrucciones impartidas por este Servicio sobre el particular.&rdquo;.
+Finalmente, con la entrada en vigencia de los nuevos regímenes de tributación que establece el artículo 14 de la LIR, a contar del 1° de enero de 2017, se hace presente que es la empresa o sociedad sujeta al Impuesto de Primera Categoría la que debe estar acogida a uno de estos regímenes, no obstante que sean los propietarios, comuneros, socios o accionistas quienes deberán tomar la decisión de acogerse a uno de ellos, por lo que la forma de hacer efectiva la rebaja al IGC por las donaciones no se ve modificada por el régimen tributario que afecte a la empresa o sociedad sujeta al Impuesto de Primera Categoría.
 
-Luego de la reforma al Código del Trabajo que da origen a la presente consulta, lo que se debe determinar es si la obligación contenida en el artículo 47 del Código del Trabajo de pagar gratificaciones anuales a los trabajadores queda incluida en la expresión &ldquo;Dos o más empresas serán consideradas como un solo empleador para efectos laborales y previsionales&rdquo; contenida en el inciso cuarto del artículo 3° del Código del Trabajo.
+III.- CONCLUSIÓN
 
-Ahora bien, las modificaciones incorporadas al Código del Trabajo por la Ley N° 20.760, corresponden a materias de índole laboral cuya interpretación conforme a lo establecido en el Decreto con Fuerza de Ley N° 2 de 1967, del Ministerio del Trabajo y Previsión Social, corresponde a la Dirección del Trabajo [2] y no a este Servicio, al cual de acuerdo con el artículo 1° de su Ley Orgánica, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda, y el artículo 6° del Código Tributario, en el ámbito de su competencia le corresponde interpretar, aplicar y fiscalizar las normas tributarias cuyo control no esté encomendado por ley a una autoridad diferente.
+Conforme a lo señalado en el Análisis, en el caso de contribuyentes del IGC que efectúen donaciones amparadas en el artículo 69 de la Ley N° 18.681, siempre que dentro de la base imponible de dicho impuesto se comprendan rentas del artículo 42 N° 1 o 2, de la Ley sobre Impuesto a la Renta, el Límite Global Absoluto será el equivalente al 20% de su renta imponible o de 320 UTM, si este monto fuera inferior a dicho porcentaje.
 
-Efectuada tal determinación por la autoridad competente, el SII podrá cumplir con el mandato contenido en los artículos 48 y 49 del Código del Trabajo, de efectuar el cálculo correspondiente e informar el monto de la utilidad líquida que debe servir de base para el pago de las gratificaciones.
-
-En consecuencia, corresponde a esa Dirección del Trabajo determinar, en base a las nuevas normas incorporadas al Código del Trabajo por la Ley N° 20.760, si la forma de determinar la utilidad líquida y el capital propio invertido en la empresa en el caso de sociedades distintas para efectos de las gratificaciones legales, es decir, de entes jurídicos diferentes, cada uno con su propia personalidad jurídica y razón social, aunque desarrollen el mismo tipo de actividades o se encuentren relacionadas entre sí al participar en el capital social, se debe efectuar por cada persona jurídica o por el conjunto de empresas que son consideradas un solo empleador, de acuerdo a lo dispuesto en el artículo 3° del Código del Trabajo.
-
-III.- CONCLUSIÓN.
-
-Tratándose las modificaciones incorporadas al Código del Trabajo por la Ley N° 20.760, corresponde a esa Dirección del Trabajo, en mérito a lo establecido en el Decreto con Fuerza de Ley N° 2 de 1967, del Ministerio del Trabajo y Previsión Social,y no a este Servicio, dictaminar si la forma de determinar la utilidad líquida y el capital propio invertido en la empresa en el caso de las unidades económicas a las que se refiere el actual inciso cuarto del artículo 3° del Código del Trabajo, sobre las que consulta el recurrente, deben determinar los elementos o parámetros a que se refieren los artículos 48 y 49 del Código de Trabajo, esto es, la utilidad líquida y el capital propio invertido en la empresa, en forma separada para cada uno de las empresas integrantes de la unidad económica, o si se debe hacer en conjunto para todos los integrantes de la misma unidad.
+Si el contribuyente obtiene rentas afectas al IGC que no sean del artículo 42 N° 2 de la LIR, por ejemplo, por retiros o dividendos, corresponderá aplicar el límite propio establecido en el artículo 69 de la Ley N° 18.681, esto es, el límite máximo de 14.000 UTM del mes de diciembre de cada año.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1874, de 23.08.2017
+Oficio N° 1793, de 10.08.2017
 
 Subdirección Normativa
 
-Dpto. de Impuestos Directos
+Dpto.de Impuestos Directos
 
-[1] Oficio N° 1.793 de 10.06.2002.
-
-[2] Artículo 1°, letra b) del DFL N° 2, de 1967.
+[1] Entre estas se contemplan las donaciones señaladas en la Ley N° 19.885; en el artículo 69 de la ley Nº18.681; artículo 8º de la ley Nº 18.985; artículo 3º de la ley Nº 19.247; ley Nº19.712; artículo 46 del decreto ley Nº 3.063, de 1979; decreto ley Nº 45, de 1973; artículo 46 de la ley Nº 18.899, y en el Nº 7 del artículo 31 de la LIR, así como las que se establezcan en otras normas legales que se dicten para otorgar beneficios tributarios a donaciones.

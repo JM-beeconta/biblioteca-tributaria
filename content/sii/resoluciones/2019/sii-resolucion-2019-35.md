@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Exclúyase de la Resolución Exenta N° 78 de 23.08.2017 y de su anexo, al contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Exclúyase de la Resolución Exenta N° 78 de 23.08.2017 y de su anexo, al contribuyente que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

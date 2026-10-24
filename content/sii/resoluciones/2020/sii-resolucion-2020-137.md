@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Exime a centro de servicios médicos porvenir limitada de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.l. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Exime a centro de servicios médicos porvenir limitada de la obligación de timbraje de pagarés establecida en el artículo 17 inciso 2° del D.l. N° 3.475 de, 1980 y fija requisitos en su reemplazo. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

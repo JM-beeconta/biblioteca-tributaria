@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de cálculos de intereses y multas, Julio 2017 Fuente: Subdirección de Fiscalización
+n Normativa Tabla de cálculos de intereses y multas, Julio 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Aiep. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Aiep. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 
@@ -19,7 +19,7 @@ cute;n de Asistencia al Contribuyente Aprueba convenio de colaboración mutua en
 
 ## Texto extraído
 
-cute;n de Asistencia al Contribuyente
+n de Asistencia al Contribuyente
 Resolución Exenta SII N° 17 del 05 de Febrero del 2020
 
 Aprueba convenio de colaboración mutua entre Servicio de Impuestos Internos e Instituto Profesional Aiep.

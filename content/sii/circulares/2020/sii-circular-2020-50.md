@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa.
+n Normativa. Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

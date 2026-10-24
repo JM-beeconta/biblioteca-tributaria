@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Procedimiento de solicitud de inscripción en Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal, Cuya Comercialización Se Ha Vuelto Inviable. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Procedimiento de solicitud de inscripción en Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal, Cuya Comercialización Se Ha Vuelto Inviable. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

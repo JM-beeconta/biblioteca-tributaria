@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Autoriza a la SOCIEDAD DIMERC S.A. para portar la guia de despacho electrónica y factura electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autoriza a la SOCIEDAD DIMERC S.A. para portar la guia de despacho electrónica y factura electrónica en el traslado de bienes corporales muebles en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

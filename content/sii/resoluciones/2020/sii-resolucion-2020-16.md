@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Autoriza como Receptor Electrónico de Documentos Tributarios Electrónicos al Servicio de Salud Aconcagua Hospital de Putaendo. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autoriza como Receptor Electrónico de Documentos Tributarios Electrónicos al Servicio de Salud Aconcagua Hospital de Putaendo. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

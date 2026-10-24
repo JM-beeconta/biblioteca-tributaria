@@ -6,503 +6,189 @@
 - Año: 2017
 - Fecha: 2017-12-15
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1600.doc
-- Hash SHA-256: 2978411df1659352f2e524c1e67e3e3715de20b3d0a2683b205545b5363103d4
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2639.htm
+- Hash SHA-256: 7894df360cbd413096f2bbd2a75d247b69d84f2181264080698d93a25eab9196
 
 ## Resumen
 
-| Word Solicita aclaración de pronunciamiento sobre interpretación de la Ley N° 19.396, incluida en .
+costo de ésta. Renta – Actual Ley sobre Impuesto a la – Art. 17, N°7, Art. 17, N°8, letra f), Art. 107 – Ley N° 19.396, Art. 33 – Ley N° 18.401, Art. 11. (Ord. Nº 2639, de 15-12-2017) | | Word Solicita pronunciamiento sobre los efectos tributarios derivados del cumplimiento de la obligación subordinada de los bancos.
 
 ## Referencias detectadas
 
 - {"type":"circular","number":41,"year":1996}
-- {"type":"articulo","law":"LIR","article":"38  bis"}
-- {"type":"articulo","law":"LIR","article":"38\nbis"}
 - {"type":"articulo","law":"LIR","article":"38 bis"}
+- {"type":"articulo","law":"LIR","article":"18 ter o"}
+- {"type":"articulo","law":"LIR","article":"18 ter d"}
+- {"type":"articulo","law":"LIR","article":"107"}
+- {"type":"articulo","law":"LIR","article":"18 ter"}
+- {"type":"articulo","law":"LIR","article":"17 y e"}
 - {"type":"articulo","law":"LIR","article":"17"}
+- {"type":"articulo","law":"CT","article":"69"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –  ART. 17, N°8, LETRA F), ART. 38
-   BIS – LEY N° 19.396, ART. 33 – OFICIO N° 2639, DE 15.12.2017. (ORD. N°
-                            1600, DE 02.08.2018)
-
-
-
-Solicita aclaración de pronunciamiento sobre interpretación  de  la  Ley  N°
-19.396, incluida en Oficio Ordinario N° 2639 de 2017.
-
-
-
-
-Se ha recibido en esta Dirección Nacional, su presentación  indicada  en  el
-antecedente mediante la cual solicita se aclare  lo  interpretado  a  través
-del Oficio Ordinario N°2.639, de 15 de diciembre de 2017, que  da  respuesta
-a consultas sobre los efectos tributarios derivados del cumplimiento  de  la
-denominada obligación subordinada de los bancos, y se confirme,  a  su  vez,
-los criterios expuestos en  su  escrito,  de  acuerdo  a  los  argumentos  y
-precisiones que presenta.
-
-I.-   ANTECEDENTES:
-
-Mediante Oficio Ordinario N° 2.639 de  2017,  el  Sll  dio  respuesta  a  la
-consulta formulada por su representada con fecha 26 de septiembre del  mismo
-año.
-
-En el análisis de la consulta se plantea lo siguiente sobre el principio  de
-neutralidad tributaria:
-
-“La cuestión planteada en su consulta, versa sobre el alcance  de  la  norma
-del artículo 33 de la Ley 19.396, que ordena aplicar neutralidad  tributaria
-entre quienes hayan optado por alguna de las dos modalidades de pago  de  la
-obligación subordinada de los bancos con el Banco Central de Chile.”
-
-“De la norma citada, efectivamente se desprende  que  su  objetivo  ha  sido
-evitar la generación de diferencias tributarias  (beneficios  o  perjuicios)
-entre quienes optaron  por  el  régimen  alternativo  y  por  el  ordinario,
-objetivo refrendado en la Circular N° 41 de 1996 de este Servicio (…).”
-
-“Asimismo, resulta necesario  concordar  con  su  planteamiento  de  que  la
-neutralidad tributaria no solo resulta aplicable a los efectos iniciales  de
-la opción por el régimen alternativo, sino también a los producidos  durante
-el lapso en que se cumple  con  la  obligación  subordinada,  e  incluso  al
-generado con motivo del pago total de la misma, a saber,  la  disolución  de
-pleno derecho de las sociedades AAA y BBB. Afirmar lo contrario,  implicaría
-admitir diferencias en el tratamiento tributario entre quienes  optaron  por
-el régimen alternativo y el ordinario, efecto que  justamente  buscó  evitar
-la norma señalada.”
-
-No  obstante,  lo  citado  en  el  Oficio,  se  plantean  dos   análisis   y
-conclusiones que a su juicio no resultan ser del todo claras, y que  podrían
-inducir a confusión en un eventual futuro proceso  de  fiscalización,  razón
-por la cual solicita se aclare o se confirmen los criterios que  se  indican
-por los motivos que expresa, de manera de no dejar espacio a la duda:
-
-1) Aplicación del impuesto de término de giro en  la  disolución  de  AAA  y
-BBB.
-
-En el Oficio N° 2.639 de 2017, se indica que:
-
-“En tal escenario, las cantidades que deberán tributar  de  acuerdo  con  lo
-establecido en el artículo  38  bis  de  la  LIR,  no  solo  serán  aquellas
-generadas con motivo del desarrollo del giro único y exclusivo  que  la  ley
-contempla  para  AAA  y  BBB  con  el  objetivo  de  pagar   la   obligación
-subordinada, sino toda aquella cantidad que el  artículo  38  bis  sujeta  a
-tributación. Y para tales efectos,  el  monto  de  los  aportes  de  capital
-enterados efectivamente al que alude la norma señalada será,  para  el  caso
-de AAA, el valor tributario del aporte realizado al TTTT al  momento  de  su
-constitución, consistente en la totalidad de su  activo  y  pasivo,  con  la
-sola excepción de la obligación subordinada, todo  ello  reajustado  por  la
-variación del índice de precios al consumidor entre el  mes  anterior  a  la
-fecha de aporte, aumento o disminución de capital,  y  el  mes  anterior  al
-término de giro; y para el caso de BBB, el aportado efectivamente  por  AAA,
-reajustado de la misma manera indicada  precedentemente.  Se  hace  presente
-que del capital que poseía la AAA al momento de efectuar  el  aporte  de  su
-patrimonio al TTTT con motivo del ejercicio del  régimen  alternativo,  solo
-podrá considerarse para  los  efectos  del  artículo  38  bis,  el  aportado
-efectivamente a la sociedad, pues lo que se excluye del  valor  del  capital
-propio tributario al término de giro, son las cantidades que conforme  a  la
-LIR no deben pagar impuestos.”
-
-Lo destacado en negrita  es  el  párrafo  que,  a  su  juicio,  genera  poca
-claridad.
-
-Aplicar la regla expuesta implicaría desconocer que el  FUT  y  los  activos
-que mantenía el antiguo banco fueron traspasados junto a las  demás  cuentas
-patrimoniales al nuevo TTTT, con lo cual, en el evento de término  de  giro,
-se tributaría por dicha cantidad  primero  en  AAA  y  luego  si  llegara  a
-ocurrir un término de giro  en  TTTT  se  tributaria  nuevamente  por  tales
-sumas.  Esto,  sin  duda,  atentaría  contra  el  principio  de  neutralidad
-tributaria.
-
-1) Criterio que se solicita aclarar o ratificar:
-
-En la situación analizada se produce el término de giro de BBB y AAA,  y  en
-principio resultarían aplicables las normas contenidas  en  el  artículo  38
-bis de la LIR.
-
-No obstante ello, en virtud del principio de  neutralidad  tributaria  antes
-explicado, no correspondería aplicar las reglas  generales  respecto  de  la
-tributación establecida en el artículo 38 bis de la LIR en los términos  que
-expresamente señala tal norma, puesto que si se aplicase, se trataría de  la
-aplicación  de  un  "tratamiento  tributario"  diferente   que   aquel   que
-correspondería a un contribuyente que optó por el  Régimen  Común,  atendido
-que no ocurre en ese caso la disolución de sociedad  alguna  por  efecto  de
-aplicación de  la  norma,  sino  que  el  banco  subsiste,  manteniendo  las
-utilidades acumuladas.
-
-De esta manera, dejaría de ser neutro, desde el punto de  vista  tributario,
-la opción elegida, pues generaría una tributación adicional  con  motivo  de
-la disolución de AAA y BBB, la que no existe en el Régimen Común.
-
-En  efecto,  de  los  términos  expresados  en  el  Oficio  citado,   podría
-entenderse que para determinar las rentas afectas a impuesto con motivo  del
-término de giro de  AAA  y  BBB,  habría  que  considerar  sólo  el  capital
-aportado por los accionistas de cada una de dichas  entidades,  con  lo  que
-sin  duda,  se  produciría  la  tributación  sobre  todas   las   utilidades
-acumuladas en la  empresa,  las  que  se  encuentran  representadas  en  las
-acciones del TTTT que cada una posee, cuestión que claramente se escapa  del
-principio de neutralidad establecido en la norma analizada.
-
-A mayor abundamiento, debe tenerse presente que justamente el sentido de  la
-norma de neutralidad es establecer  una  ficción  que  permite  soslayar  la
-aplicación de ciertas normas tributarias que en circunstancias  normales  sí
-resultarían  aplicables,  como  por  ejemplo  ocurrió  al  momento   de   la
-constitución de AAA y BBB,  donde  no  se  dio  aplicación  a  la  norma  de
-tributación sobre el mayor valor en el aporte de los bienes  entregados  por
-AAA a TTTT y BBB, cuestión ratificada en su minuto por el  propio  Sll,  por
-ejemplo, en Oficio N°1.874 de 1996.
-
-No obstante lo anterior, señala que a  su  juicio,  la  liberación  indicada
-sólo alcanzaría a las rentas o  cantidades  que  eventualmente  se  pudieren
-generar con motivo del desarrollo del giro único  y  exclusivo  que  la  Ley
-N°19.459 de 1996 (en adelante “la Ley”), contempla para AAA  y  BBB  con  el
-objetivo de pagar la obligación subordinada.
-
-Por el contrario, aquellas rentas o cantidades que  pudieren  generarse  por
-una buena gestión de  los  fondos  involucrados  u  otro  motivo,  como  por
-ejemplo  ocurre  con  los  intereses  obtenidos  de  los  depósitos  de  los
-dividendos pendientes de ser cobrados o que  sirven  para  el  pago  de  las
-cuotas de dicha deuda, si estos exceden de los gastos de  funcionamiento,  y
-que se mantengan a  la  fecha  de  término  de  giro  acumulados  en  dichas
-empresas, se gravarían con el impuesto de término de giro de acuerdo  a  las
-reglas generales, pues escaparía al ámbito de aplicación  del  principio  de
-neutralidad tributaria.
-
-Por tanto, es  clave  para  la  aplicación  del  principio  de  neutralidad,
-determinar si existen o no rentas o  cantidades  pendientes  de  tributación
-gravadas con el impuesto de término de giro del artículo 38 bis de  la  LIR,
-distintas  de  aquellas  generadas  con  motivo  de  la   opción   para   el
-cumplimiento de la obligación subordinada, y para  ello,  a  nuestro  juicio
-debe considerarse como capital aportado en AAA y BBB respectivamente:
-
-i) En AAA: El valor del aporte efectuado por AAA a TTTT  al  momento  de  su
-constitución, esto es, el monto correspondiente al  aporte  total  efectuado
-al TTTT de todo el activo, el pasivo y las cuentas  de  orden  que  mantenía
-AAA (ex Banco XXXX), con la sola excepción  de  la  obligación  subordinada,
-que se traspasa a BBB. El valor  de  aporte  corresponde  en  definitiva  al
-valor  del  capital  propio  tributario  que  mantenía  AAA  a  esa   fecha,
-descontado sólo el valor de la Obligación Subordinada.
-
-Tal suma deberá considerarse reajustada por la variación del  IPC  entre  el
-mes anterior a la fecha de aporte, y el mes  anterior  a  aquel  en  que  se
-produzca su disolución de pleno derecho[1], para efectos de  determinar  las
-rentas  acumuladas  al  término  de  giro,  en  virtud  del   principio   de
-neutralidad referida.
-
-ii) En BBB: El monto del aporte de capital inicial, más  el  correspondiente
-aporte en dominio que efectuó AAA de las  acciones  de  TTTT  afectas  a  la
-prenda establecida en la letra b), del artículo 24 de  la  Ley,  todo  ello,
-conforme a lo dispuesto en el artículo 27 del mismo cuerpo legal.  El  valor
-de dicho aporte, corresponderá  al  valor  de  costo  tributario  de  dichas
-acciones al momento del aporte, reajustado por la variación  del  IPC  entre
-el mes anterior a la flecha de aporte y el mes anterior a aquel  en  que  se
-produzca  su  disolución  de  pleno  derecho,  descontado  el  valor  de  la
-obligación subordinada que asume BBB.
-
-Para efectos de graficar el efecto producido al momento de  la  constitución
-del TTTT y de BBB, y la transformación de AAA (antiguo TTTT), en el  escrito
-se acompañan esquemas donde se explican las relaciones patrimoniales que  se
-produjeron.
-
-Al momento del término de giro de AAA el efecto del criterio que  se  adopte
-incidirá en la vulneración o no del  principio  de  neutralidad  tributaria,
-dado  que  si  se  aplican  sin  atender  a   otras   consideraciones,   las
-disposiciones del artículo 38 bis Ley sobre Impuesto  a  la  Renta,  tomando
-como rebaja de la base  imposible  del  impuesto  el  capital  efectivamente
-pagado por los accionistas de AAA, en vez del valor  tributario  del  aporte
-al nuevo Banco, se producirá tributación  respecto  de  las  utilidades  que
-mediante la inversión están formando parte  de  las  utilidades  tributarias
-pendientes de distribución del XXXX (RAI) además de las inversiones  propias
-de AAA. Lo anterior se ejemplifica a través de gráficas en el escrito.
-
-Por otra parte, si se confirma el criterio que se presenta  en  el  escrito,
-tomando en cuenta el capital aportado en AAA de acuerdo a lo señalado,  esto
-es, al aporte total efectuado al TTTT de todo el activo,  el  pasivo  y  las
-cuentas de orden que mantenía AAA (ex Banco XXXX), con la sola excepción  de
-la obligación subordinada, también al momento del término de giro,  queda  a
-salvo  el  principio  de  neutralidad  tributaria,  toda  vez  que  la  base
-imponible del impuesto del artículo 38 bis Ley sobre Impuesto a la Renta  se
-constituiría sólo por las rentas obtenidas por  dicha  empresa  producto  de
-otras inversiones distintas a las acciones del Banco XXXX. Todo lo  anterior
-también presentado a través de gráficas.
-
-2) Efectos tributarios para los accionistas de AAA  por  implicación  de  lo
-dispuesto en la letra f), del N° 8, del artículo 17 de la LIR.
-
-En el Oficio N° 2.639 de 2017, se indica que:
-
-- “En relación con la adjudicación de aquellos bienes  que  puedan  adquirir
-los accionistas de AAA, distintos de las  acciones  del  TTTT  recibidas  en
-sustitución de las acciones en la primera sociedad,  efectivamente  resultan
-aplicables las disposiciones de la letra f) del N° 8 del artículo 17  de  la
-LIR. Ahora bien, esta  letra  f)  establece  que  no  constituye  renta,  la
-adjudicación de bienes que se efectúe en favor  del  propietario,  comunero,
-socio o accionista con  ocasión  de  la  liquidación  o  disolución  de  una
-empresa o sociedad, en tanto, la suma de los valores tributarios  del  total
-de los bienes que se le adjudiquen, no exceda del capital que haya  aportado
-a la empresa, determinado en conformidad al número 7 del artículo 17  de  la
-LIR, más las rentas o  cantidades  que  le  correspondan  en  la  misma,  al
-término de giro. De esta manera, aquella  parte  no  constitutiva  de  renta
-para el  accionista  adjudicatario  no  será  la  totalidad  del  patrimonio
-aportado por AAA al TTTT, sino  tan  solo  su  proporción  en  dicho  aporte
-atendiendo a su participación en el capital pagado de la  AAA,  más  aquella
-cantidad que le corresponda al término de giro, siendo el exceso, una  renta
-afecta a las reglas generales. (…)”.
-
-Lo destacado en negrita  es  el  párrafo  que,  a  su  juicio,  genera  poca
-claridad.
-
-2.1) Criterio que se solicita aclarar o ratificar:
-
-Con la disolución de BBB y AAA, a los accionistas Series A,  B,  D  y  E  de
-ésta última, se les  distribuirán  las  acciones  de  TTTT  que  AAA  y  BBB
-mantenían bajo su dominio, así como también,  se  les  adjudicará  cualquier
-otro activo, bien o derecho distinto  a  las  acciones  en  TTTT  que  tales
-sociedades que se disuelven mantengan a la  fecha  de  la  extinción  de  la
-obligación de pago de la deuda subordinada.
-
-Considerando el principio de neutralidad tributaria  antes  explicado,  cabe
-señalar que si bien correspondería aplicar la tributación  dispuesta  en  la
-letra f), del N° 8, del artículo 17 de la LIR, esta  no  aplicaría  respecto
-de las acciones del TTTT que se distribuyen con motivo de la  disolución  de
-BBB y AAA puesto que, si se aplicase, se trataría de  la  aplicación  de  un
-“tratamiento  tributario"  diferente  que  aquel  que  correspondería  a  un
-contribuyente que optó por el Régimen Común, puesto que  no  ocurre  en  ese
-caso la disolución de sociedad alguna por efecto de aplicación de la norma.
-
-De esta manera, deja de ser neutra, desde el punto de vista  tributaria,  la
-opción elegida, pues genera una tributación adicional para  los  accionistas
-de AAA con motivo de ésta, que no existe en el Régimen Común.
-
-Con todo, señala que debe efectuarse la siguiente distinción:
-
-i) Respecto de las acciones de TTTT que se les distribuye.
-
-A los accionistas de las series A, B, D y E de AAA  les  serán  distribuidas
-las acciones que AAA y BBB mantienen en TTTT a la  fecha  de  disolución  de
-éstas, de conformidad a las reglas dispuestas en sus estatutos.
-
-Tal operación, a su juicio, se  encuentra  protegida  por  el  principio  de
-neutralidad tributaria antes señalado, y no debiera generar efectos de  pago
-de impuestos, puesto que no se ha generado un mayor valor, sino que sólo  la
-sustitución de unas acciones por otras, en términos equivalentes a un  canje
-de acciones.
-
-ii) Respecto de la adjudicación de otros  activos,  bienes  o  derechos  que
-puedan recibir.
-
-Atendido que, como regla general, la adjudicación de otros  activos,  bienes
-o derechos distintos a las acciones de TTTT no  correspondería  a  rentas  o
-cantidades  amparadas  bajo   el   principio   de   neutralidad   tributaria
-establecido en la  Ley,  a  su  juicio  resultarían  aplicables  las  normas
-generales sobre la materia.
-
-Esto significa que respecto de la adjudicación de tales  activos,  bienes  o
-derechos, sí correspondería aplicar lo dispuesto en la letra f), del  N°  8,
-del artículo 17.
-
-Los accionistas de AAA, percibirían un ingreso que correspondería a la  suma
-de los valores de costo tributario que  tales  activos,  bienes  o  derechos
-adjudicados (distintos de las acciones del TTTT) tenían en la  sociedad  que
-se disuelve a la  fecha  de  término  de  giro,  ingreso  que  en  principio
-calificaría como no tributable o  no  afecto  a  impuestos  hasta  el  monto
-límite que la LIR contempla.
-
-El monto límite que considera la letra f), del N° 8, del artículo 17  de  la
-LIR, como ingreso no constitutivo de renta o no tributable,  corresponde  al
-monto de capital aportado, más los aumentos y descontadas las  disminuciones
-que hayan efectuado los accionistas hasta la fecha  misma  en  que  ésta  se
-disuelve, reajustado todo ello  por  la  variación  del  IPC  entre  el  mes
-anterior a la fecha de aporte, aumento o disminución, y el  mes  anterior  a
-aquel en que se produzca su disolución de pleno derecho,  más  la  totalidad
-de las utilidades, tributables o no tributables que mantenga a la  fecha  de
-disolución, en la proporción  al  número  de  acciones  que  corresponda  al
-respectivo accionista.
-
-Conforme  a  lo  señalado  anteriormente,  y  para  efectos  de  aplicar  lo
-dispuesto en la letra f), del N° 8, del artículo 17 de la LIR, a  los  demás
-activos, bienes o derechos, distintos  de  las  acciones  del  TTTT  que  se
-distribuyen, el valor de capital que debe considerarse en  AAA,  corresponde
-al valor del aporte efectuado por AAA a TTTT al momento de su  constitución,
-descontando una cantidad equivalente al valor de  costo  tributario  de  las
-acciones de TTTT distribuidas a los accionistas  de  AAA,  respecto  de  las
-cuales se aplicaría el principio de neutralidad  tributaria,  y  por  tanto,
-corresponde a una cantidad  que  tampoco  debiera  considerarse  dentro  del
-ingreso correspondiente a la sumatoria de los valores tributarios del  total
-de los activos  adjudicados  (de  manera  de  conservar  la  aplicación  del
-principio de neutralidad tributaria).
-
-El exceso del monto del ingreso que obtienen (determinado  por  la  suma  de
-los valores de costo tributario del total de los  demás  activos,  bienes  o
-derechos  adjudicados)  por   sobre   el   límite   de   ingreso   señalado,
-correspondería  a  una  renta  tributable,  sujeta  al  régimen  general  de
-tributación. Todo lo anterior es  expuesto  a  través  de  un  ejemplo  para
-ilustrar los efectos respecto de los accionistas de AAA.
-
-En resumen, se solicita se confirmen los  criterios  indicados  expresamente
-en los números:
-
-1.1) Para la aplicación del impuesto de término de giro en la disolución  de
-AAA y BBB.
-
-2.1) Efectos tributarios para los accionistas de AAA por  aplicación  de  lo
-   dispuesto en la letra f), del N° 8, del artículo 17 de la LIR.
-
-II.-  ANÁLISIS:
-
-Tal como se expresó en oficio ordinario del  que  solicita  aclarar  ciertos
-puntos, el fundamento que subyace en los criterios  que  solicita  confirmar
-versa sobre el alcance de la norma del artículo 33 de  la  ley  19.396,  que
-ordena aplicar neutralidad tributaria entre quienes hayan optado por  alguna
-de las dos modalidades de pago de la obligación subordinada  de  los  bancos
-con el Banco Central de Chile.
-
-En  específico,  el  caso  expuesto  corresponde   al   denominado   régimen
-alternativo tratado en la Circular N°41 de 1996 de este Servicio,  donde  el
-banco deudor, asumiendo la calidad de una sociedad matriz,  forma  un  nuevo
-banco, al cual le  aporta  todo  su  activo  y  pasivo,  excluida  la  deuda
-subordinada, la cual es  asumida  por  una  filial  constituida  al  efecto.
-Estructura que, una vez pagada la deuda subordinada y  conforme  a  la  ley,
-implicará la disolución tanto de  la  sociedad  matriz  como  de  la  filial
-administradora de la deuda,  por  lo  que  solicitó  confirmar  los  efectos
-tributarios que se derivarían de dicho proceso.
-
-Ahora bien, como se  expresó  en  el  oficio  de  marras,  el  objetivo  del
-artículo 33 de la ley 19.396 ha sido evitar  la  generación  de  diferencias
-tributarias (beneficios o perjuicios) entre quienes optaron por  el  régimen
-alternativo y por el ordinario, objetivo que a su vez fue refrendado  en  la
-Circular N° 41 de 1996 de  este  Servicio,  cuando  instruye  que  la  norma
-"tiene por objeto garantizar que se apliquen las mismas  normas  tributarias
-a la sociedad matriz, a la sociedad administradora, al nuevo banco y  a  los
-accionistas de todos ellos, que las que procedan para el banco que opte  por
-el régimen común  y  a  sus  accionistas,  exclusivamente  respecto  de  las
-operaciones que sean  indispensables  para  acogerse  al  nuevo  tratamiento
-tributario de la obligación subordinada de que trata la ley N° 19.396.”.
-
-Sobre la base de lo  ya  expuesto,  fueron  respondidas  diversas  consultas
-sobre los efectos tributarios derivados del cumplimiento  de  la  obligación
-subordinada  de  los  bancos,  de  las  cuales  se  solicita   aclarar   dos
-pronunciamientos que, en su  comprensión,  conducirían  a  infringir  la  ya
-comentada neutralidad tributaria.
-
-El primer pronunciamiento dice relación con la determinación de  las  rentas
-que deberían tributar en AAA al momento de su disolución, de acuerdo con  lo
-establecido en el artículo 38 bis de  la  LIR.  Según  se  desprende  de  su
-escrito, no existe controversia en relación  con  la  primera  parte  de  lo
-concluido para dicho punto en el oficio de marras, donde se expresa “(…).  Y
-para  tales  efectos,  el  monto  de  los  aportes  de   capital   enterados
-efectivamente al que alude la norma señalada será, para el caso de  AAA,  el
-valor  tributario  del  aporte  realizado  al  TTTT   al   momento   de   su
-constitución, consistente en la totalidad de su  activo  y  pasivo,  con  la
-sola excepción de la obligación subordinada, todo  ello  reajustado  por  la
-variación del índice de precios al consumidor entre el  mes  anterior  a  la
-fecha de aporte, aumento o disminución de capital,  y  el  mes  anterior  al
-término de giro; y para el caso de BBB, el aportado efectivamente  por  AAA,
-reajustado de la misma manera indicada precedentemente. (…)”. De  hecho,  el
-ejemplo que acompaña en su escrito para respaldar el criterio  que  solicita
-confirmar, determina el valor tributario del aporte de AAA en TTTT tal  como
-resultó instruido en el texto transcrito.
-
-La discusión apunta, como bien se destacó en su consulta, a la  parte  final
-del párrafo citado, donde se señala “(…). Se hace presente que  del  capital
-que poseía la AAA al momento de efectuar el aporte de su patrimonio al  TTTT
-con motivo del ejercicio del régimen alternativo,  solo  podrá  considerarse
-para los efectos del  artículo  38  bis,  el  aportado  efectivamente  a  la
-sociedad, pues lo que se excluye del valor del capital propio tributario  al
-término de giro, son las cantidades que conforme a la  LIR  no  deben  pagar
-impuestos.” Según se desprende del  ejemplo  que  acompaña  en  el  escrito,
-donde plasma su entendimiento del texto que se transcribe, lo  instruido  en
-la parte final del párrafo conllevaría a considerar  como  valor  tributario
-del aporte de AAA en la constitución de nuevo TTTT,  únicamente  el  capital
-tributario pagado que tenía el primero previo a  dicha  reorganización.  Tal
-circunstancia, destaca en su escrito, conduciría a una doble tributación  de
-utilidades acumuladas, tanto aquellas determinadas al  término  de  giro  de
-AAA  como  aquellas  que  fueron  traspasada  al  TTTT  al  momento  de   su
-constitución.
-
-Respecto de su interpretación, cabe señalar que no  corresponde  al  sentido
-que se buscó transmitir con lo instruido en la última parte del  párrafo  en
-análisis, ya que su real propósito fue destacar que, si al  momento  de  ser
-constituido el nuevo TTTT  se  tenía  una  parte  del  capital  de  AAA  que
-estuviese suscrito, pero no efectivamente pagado,  dicho  monto  no  debiese
-ser considerado como parte del valor tributario del aporte  inicial  de  AAA
-en el nuevo TTTT. Por tanto, resuelto aquel punto que a su juicio  resultaba
-poco claro, cabe solo confirmar  el  criterio  señalado  en  su  escrito  en
-relación al valor que debe ser considerado como capital, al  determinar  las
-rentas sujetas a tributación como parte del término de  giro  de  AAA  y  la
-aplicación del artículo 38 bis de la LIR.
-
-Continuando   con   lo   solicitado   en   su   presentación,   el   segundo
-pronunciamiento dice  relación  con  la  determinación  de  las  rentas  que
-deberían tributar los accionistas de AAA con motivo  de  la  liquidación  de
-dicha sociedad, conforme a lo dispuesto en  la  letra  f),  del  N°  8,  del
-artículo 17 de la LIR. Nuevamente, tal como en el caso anterior y  según  se
-desprende de su escrito, no existe controversia en relación con  la  primera
-parte de lo concluido para dicho punto en el oficio de marras.
-
-La discusión en este segundo punto  radica,  como  bien  se  destacó  en  su
-consulta, en la parte final del párrafo citado, donde  se  señala  “(…).  De
-esta manera, aquella parte no  constitutiva  de  renta  para  el  accionista
-adjudicatario no será la totalidad del patrimonio aportado por AAA al  TTTT,
-sino tan solo su proporción en dicho aporte atendiendo  a  su  participación
-en el capital pagado de la AAA, más aquella cantidad que le  corresponda  al
-término de giro, siendo el exceso, una renta afecta a las reglas  generales.
-(…)”. Respecto de lo expresado, comenta en su escrito, para salvaguardar  el
-principio de neutralidad tributaria se hace necesario una  distinción  entre
-los bienes que le son adjudicados a los accionistas de AAA, de aquellos  que
-les resulta aplicable el principio  señalado,  esto  es,  las  acciones  del
-TTTT, de aquellos que no les resulta  aplicable  por  corresponder  a  otros
-bienes.
-
-Ahora bien, respecto de los criterios que expone para su análisis para  este
-punto, cabe señalar que no se vislumbran puntos que estén  en  contradicción
-con lo instruido con el párrafo en análisis. Primeramente, en la  aplicación
-de la disposición de la letra f) del N°8 del  artículo  17  de  la  LIR,  en
-relación con  la  adjudicación  de  bienes  o  derechos  con  motivo  de  la
-liquidación de AAA, el ya comentado párrafo  inicia  su  texto  precisamente
-haciendo una  separación  de  aquellos  activos  que  resultan  adjudicados,
-reconociendo explícitamente el tratamiento particular que se debe aplicar  a
-las acciones del TTTT  a  fin  de  preservar  el  principio  de  neutralidad
-tributaria, operando básicamente en dicho caso una sustitución  de  acciones
-por otras, de  AAA  por  TTTT,  en  términos  equivalentes  a  un  canje  de
-acciones.
-
-Luego, respecto de los demás bienes o derechos que resulten  adjudicados  al
-accionista de AAA, en la  determinación  de  la  parte  no  constitutiva  de
-renta, se reitera que no corresponderá a la totalidad del  valor  de  aporte
-de AAA en la constitución de TTTT, sino tan solo a la  proporción  en  dicho
-aporte atendiendo a su participación en el capital pagado  de  la  AAA,  más
-aquella cantidad que le corresponda  al  término  de  giro,  descontando  de
-aquel monto resultante el valor tributario asociado a la acciones  del  TTTT
-que le son adjudicadas con  motivo  del  canje  de  acciones.  Entonces,  de
-resultar un exceso entre el valor tributario de los bienes  o  derechos  que
-le son adjudicados al accionista de  AAA,  distintos  de  las  acciones  del
-TTTT, y el monto no constitutivo  de  renta  ya  señalado,  será  una  renta
-afecta a las reglas generales conforme a la letra f) del  N°8  del  artículo
-17 de la LIR.
-
-III.- CONCLUSIÓN:
-
-Sírvase tener por respondidas sus dos consultas  asociadas  a  la  respuesta
-contenida en el Oficio Ordinario N°2639 de 2017, sobre la base del  análisis
-desarrollado en forma precedente.
-
-
-
-
-
-
-                                       FERNANDO BARRAZA LUENGO
-
-       DIRECTOR
-
-
-                        Oficio N° 1600, de 02.08.2018
-                           Subdirección Normativa
-                         Dpto. de Impuestos Directos
-
------------------------
-[1] Se hace presente que, con la posterior constitución de BBB, AAA cambia
- su composición de activos mediante el aporte efectuado a dicha entidad,
- pasando a tener acciones en BBB.
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°7, ART. 17, N°8, LETRA F), ART. 107 – LEY N° 19.396, ART. 33 – LEY N° 18.401, ART. 11. (Ord. Nº 2639, de 15-12-2017)
+
+SOLICITA PRONUNCIAMIENTO SOBRE LOS EFECTOS TRIBUTARIOS DERIVADOS DEL CUMPLIMIENTO DE LA OBLIGACIÓN SUBORDINADA DE LOS BANCOS.
+
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual consulta los efectos tributarios derivados del cumplimiento de la denominada obligación subordinada de determinados bancos comerciales con el Banco Central de Chile, y en particular, del Banco XXXX, en virtud de las disposiciones contenidas en la ley N° 19.396 de 1995, modificada por la ley N° 19.459 de 1996 (en adelante, la “ley”).
+
+I.- ANTECEDENTES
+
+Expone que la ley dispuso un tratamiento especial para el pago de la obligación subordinada, mediante dos formas de organización jurídica. La primera, en adelante denominada "régimen común u ordinario”, conservando la constitución del banco respectivo como la misma persona jurídica y, la segunda, en adelante denominada "régimen alternativo", formalizando un nuevo banco, manteniéndose el banco primitivo como sociedad matriz, o bien, formando adicionalmente una sociedad administradora de la obligación subordinada como filial de la matriz.
+
+Señala que el Banco XXXX optó por el régimen alternativo, de manera que este se transformó en la sociedad matriz (AAA), cambiando su razón social, y modificando su objeto social, consistente en ser propietaria de acciones del Banco XXXX (el nuevo banco que se constituye, en adelante “TTTT”). Por su parte, la AAA traspasó la totalidad de su activo y pasivo al TTTT, con la sola excepción de la obligación subordinada con el Banco Central de Chile, creándose además BBB, a la cual se traspasó el referido compromiso con el Banco Central de Chile y una parte de las acciones del TTTT.
+
+En la actualidad, BBB es dueña de xxxxxxxxxx acciones del TTTT, y AAA, de xxxxxxxxxx acciones (ambos grupos de acciones denominadas conjuntamente como las ''Acciones").
+
+Expone que, de acuerdo a los artículos 26, 27 y 33 de la ley, AAA y BBB existirán hasta que se extinga la obligación subordinada, y al ocurrir este hecho, a sus accionistas se les distribuirán las acciones del TTTT, tanto las que, a la fecha de la extinción sean de propiedad de AAA, como también aquellas que actualmente sean de propiedad de BBB y que se encuentran constituidas en prenda en favor del Banco Central. Lo anterior, sin perjuicio de los demás activos de dichas sociedades que eventualmente puedan adjudicarse.
+
+En cuanto a los efectos tributarios que se produzcan con ocasión del pago de la deuda subordinada y de la disolución de las sociedades AAA y BBB, señala que el artículo 33 de la ley consagra el denominado principio de "neutralidad tributaria", el cual constituye o debe constituir, a su juicio, el elemento central de todo análisis impositivo. El objetivo de este principio, no sería otro que el de hacer posible la implementación del régimen alternativo, sin que por su opción se llegaren generar situaciones más o menos gravosas (en particular las primeras) que la que se encontrarían aquellos contribuyentes que hubiesen optado por el régimen común.
+
+Sostiene que resultaba indispensable consagrar un principio como el de neutralidad tributaria, pues los actos jurídicos consagrados por la ley para llevar a cabo el régimen alternativo, conllevaban consecuencias impositivas que, bajo la legislación común tributaria, implicaban (o podían implicar), un claro desincentivo práctico, lo que hubiese hecho de este régimen alternativo una opción absolutamente inviable.
+
+En efecto, supone que bajo este régimen alternativo, se considera el aporte del activo y pasivo de la entidad bancaria original, salvo la deuda subordinada, a cambio de las correspondientes acciones en el TTTT, lo que de no haber mediado la consagración del principio en comento habría implicado no solo efectos adversos a nivel de dicha actividad en sí, sino que asimismo a nivel de los accionistas propiamente tales.
+
+De esta forma, del tenor del inciso 2 del artículo 33 en comento, se refleja con claridad, en su entender, el sentido y alcance de la misma, que reza:
+
+“……De tal forma, la adopción del régimen alternativo no podrá implicar adicionalmente un beneficio, un perjuicio o un tratamiento tributario diferente para los contribuyentes que opten por dicho régimen, incluida la sociedad matriz, la sociedad administradora, el nuevo banco y los accionistas de todos ellos.”.
+
+Este principio de neutralidad tributaria, reconocido expresamente como tal por el propio Servicio de Impuestos Internos, no puede sino entenderse en el sentido de que la adopción del régimen alternativo, bajo ningún punto de vista puede significar que se aplique un tratamiento tributario distinto, más o menos favorable, que aquel que hubiese correspondido de no haberse optado por él. Asimismo, señala que este principio es plenamente aplicable al período de vigencia y al término, este último a consecuencia de la extinción de la obligación subordinada.
+
+Así entonces, propone que cada vez que corresponda analizar el efecto tributario de las diversas situaciones asociadas a dicho término, lo primero que debe dilucidarse es qué hubiese ocurrido si el contribuyente en cuestión, no hubiese optado por el régimen alternativo, y, la respuesta a esta interrogante, será la que servirá para ilustrar el adecuado tratamiento tributario bajo análisis.
+
+En definitiva, y luego de enumerar diversas disposiciones que reflejarían la aplicabilidad de la neutralidad tributaria para quienes hayan optado por el régimen alternativo, solicita la confirmación de los criterios indicados para las situaciones específicas que se plantean:
+
+A.- Efectos tributarios para las sociedades AAA, BBB y TTTT.
+
+a) Obligaciones por el término de giro de AAA y BBB.
+
+Producida la disolución de pleno derecho de AAA y BBB, dichas entidades estarán obligadas a dar aviso de término de giro de conformidad a lo dispuesto en el artículo 69 del Código Tributario.
+
+Ahora bien, considerando el principio de neutralidad tributaria referido, no correspondería aplicar la tributación dispuesta en el artículo 38 bis de la Ley sobre Impuesto a la Renta (LIR) a tales sociedades disueltas, puesto que, de lo contrario, se estaría frente a un tratamiento tributario distinto al aplicable a un contribuyente que optó por el régimen común.
+
+Sin embargo, resultaría aplicable la tributación del artículo 38 bis de la LIR, a las rentas o cantidades que pudieren generarse por una buena gestión de los fondos involucrados u otro motivo, como por ejemplo ocurre con los intereses obtenidos de los depósitos de los dividendos pendientes de ser cobrados o que sirven para el pago de las cuotas de dicha deuda, si estos exceden de los gastos de funcionamiento, y que se mantengan a la fecha de término de giro acumuladas en dichas empresas, pues escaparía al ámbito de aplicación del principio de neutralidad tributaria.
+
+Para determinar si existen o no rentas o cantidades pendientes de tributación, que según se ha señalado, como regla general no debieran quedar gravadas con impuesto a la fecha de término de giro, salvo que se trate de otras rentas generadas excluidas de la aplicación del principio de neutralidad, debiere considerarse como capital aportado:
+
+i) En AAA: El valor del aporte efectuado por AAA al TTTT al momento de su constitución, esto es, todo el activo y pasivo y las cuentas de orden que mantenía AAA (ex Banco XXXX), con la sola excepción de la obligación subordinada, que se traspasa a BBB. El valor del aporte corresponde en definitiva al valor del capital propio tributario que mantenía AAA a esa fecha descontado solo el valor de la obligación subordinada. Tal suma deberá considerarse reajustada por la variación del IPC entre el mes anterior a la fecha de aporte, y el mes anterior a aquel en que se produzca su disolución de pleno derecho .
+
+ii) En BBB: El monto del aporte de capital inicial, más el correspondiente aporte en dominio que efectuó AAA de las acciones del TTTT afectas a la prenda establecida en la letra b), del artículo 24 de la ley, todo ello, conforme a lo dispuesto en el artículo 27 del mismo cuerpo legal. El valor de dicho aporte, corresponderá al valor de costo tributario de dichas acciones al momento del aporte, reajustado por la variación del IPC entre el mes anterior a la fecha de aporte y el mes anterior a aquel en que se produzca su disolución de pleno derecho, descontado el valor de la obligación subordinada que asume BBB.
+
+B.- Efectos tributarios para el accionista de BBB.
+
+El único accionista de BBB es AAA. En consecuencia, a la fecha de disolución de ambas entidades, a los accionistas de AAA, se les distribuirán las acciones que BBB (y que también AAA) mantienen en TTTT.
+
+En caso de que existan en BBB otros activos, bienes o derechos distintos a las acciones del TTTT, producto de su disolución, estos también deberán pasar a manos de los accionistas de AAA, adjudicándoseles en la proporción que establezcan los estatutos o acuerden estos en último término.
+
+Los efectos tributarios de dicha distribución de acciones, así como de la eventual adjudicación de los demás activos, bienes o derechos que BBB pueda mantener a la fecha de su disolución, son los mismos que se analizan para los accionistas de AAA según se detalla en la letra C siguiente, considerando las particularidades de cada caso.
+
+C.- Efectos tributarios para los accionistas de AAA.
+
+Con la disolución de BBB y AAA, a los accionistas de esta última se les distribuirán las acciones del TTTT que las primeras mantenían bajo su dominio, así como también, se les adjudicarán cualquier otro activo, bien o derecho distinto a las acciones en TTTT.
+
+i) Respecto de las acciones del TTTT que se les distribuye.
+
+A los accionistas de las series A, B, D y E de AAA, les serán distribuidas las acciones que AAA y BBB mantienen en TTTT a la fecha de disolución de estas.
+
+Tal operación, se encuentra protegida por el principio de neutralidad tributaria antes señalado, lo que en términos generales debiera generar los siguientes efectos tributarios:
+
+(a) Costo tributario de las acciones en TTTT que les son distribuidas. Considerando que en esta situación existiría un mero reemplazo de unos títulos por otros, y atendido el principio de neutralidad tributaria, el costo tributario de las acciones del TTTT que pasan a manos de los accionistas de AAA, es equivalente al costo tributario que tenían tales accionistas por las acciones que poseían en AAA.
+
+(b) Fecha de adquisición de las acciones TTTT que les son distribuidas. En concordancia con lo anterior, y atendido el mismo principio, debe entenderse que, para efectos tributarios, la fecha de adquisición de las acciones del TTTT que se les distribuyan, será la misma en que fueron adquiridas las correspondientes acciones de AAA.
+
+(c) Beneficios tributarios de que gocen las acciones de AAA. Considerando en el análisis el principio de neutralidad tributaria, las acciones del TTTT distribuidas a los accionistas de AAA mantendrían los mismos beneficios tributarios que tenían los accionistas de esta última sociedad.
+
+De esta manera, si por ejemplo, un accionista de AAA que adquirió sus acciones en una bolsa de valores habiendo cumplido con los requisitos que establecía el derogado artículo 18 ter o los que establece el artículo 107 de la LIR, según corresponda, al momento de enajenar las acciones TTTT que se le distribuya, cumpliendo los requisitos que tal norma establece, podrá gozar de los beneficios que fijan tales disposiciones.
+
+En tal sentido, se mantendrían todos aquellos beneficios de que podrían gozar las acciones AAA, según se enumera a continuación, siempre que se hubieren cumplido los requisitos respectivos al momento de su adquisición, y se cumplan aquellos que las normas establecen al momento de la enajenación de las mismas:
+
+i.- Acciones de AAA adquiridas antes del 31 de enero de 1984, mantienen la fecha de adquisición aunque opere la distribución de acciones de TTTT en sustitución de las primeras y por lo tanto las acciones recibidas, al momento de la enajenación, mantienen el tratamiento para acciones adquiridas antes de la fecha referida.
+
+ii.- Acciones de AAA adquiridas cumpliendo los requisitos del ex artículo 18 ter de la LIR, podrán gozar de los beneficios establecidos en el artículo 107 de la LIR, si al momento de su enajenación se trata de acciones de TTTT que le hayan sido distribuidas en sustitución de las primeras y se cumpla con los requisitos que esta última norma establece.
+
+iii.- Acciones de AAA adquiridas antes del 19 de abril de 2001 y que cumplieron con el pago del impuesto establecido en el artículo 2° transitorio de la ley 19.768, podrán gozar de los beneficios establecidos en el artículo 107 de la LIR, si al momento de su enajenación se trata de acciones del TTTT que le hayan sido distribuidas en sustitución de las primeras y se cumpla con los requisitos que esta última norma establece.
+
+iv.- Acciones de AAA adquiridas cumpliendo los requisitos del artículo 107 de la LIR, podrán gozar de los beneficios establecidos en dicha norma, si al momento de su enajenación se trata de acciones del TTTT que le hayan sido distribuidas en sustitución de las primeras y se cumpla con los requisitos que tal norma establece.
+
+(d) Beneficios tributarios de que gocen las acciones de TTTT que se distribuyen. En relación con lo dispuesto en el artículo 2° transitorio de la Ley 19.768 a las acciones del TTTT que estaban en el patrimonio de AAA y BBB, el impuesto especial que contempla tal norma para gozar de los beneficios establecidos en el ex artículo 18 ter de la LIR, lo habrían aplicado los accionistas de AAA y no directamente AAA o BBB.
+
+Sobre el particular, si los accionistas de AAA aplicaron el impuesto establecido en el artículo 2° transitorio de la ley 19.768, podrán gozar de los beneficios que dicha norma contemplaba, respecto de las acciones del TTTT que se les distribuya.
+
+(e) Término de la exención de que gozan los accionistas por los dividendos recibidos de las acciones que se indican.
+
+El beneficio establecido en el artículo 11 de la Ley 18.401 de 1985, que consiste en la exención del Impuesto Global Complementario de que gozan las personas naturales que adquirieron acciones de pago emitidas por los bancos al amparo de lo dispuesto en el artículo 10 de dicha ley, se extinguirá el 31 de diciembre del año en que las acciones preferidas se transformen en ordinarias, de acuerdo con el inciso final del artículo 10 señalado. Conforme a tal norma, dichas acciones, que hoy constituyen la serie B de las acciones de AAA, se transforman en ordinarias cuando AAA y BBB hayan dado cabal cumplimiento a la obligación de pago de la deuda subordinada.
+
+Al respecto, y según texto expreso del inciso final del artículo 11 de la Ley 18.401 de 1985, el beneficio de la exención del impuesto global complementario de que gozan las personas naturales que adquirieron acciones de pago emitidos por los bancos al amparo de lo dispuesto en el artículo 10 de dicha ley, se extinguirá el 31 de diciembre del año en que las acciones preferidas se transformen en ordinarias, de acuerdo con el inciso final del artículo 10 de la misma ley.
+
+En consecuencia, el beneficio de la exención establecida en el artículo 11 de la Ley 18.401 de 1985, se mantiene vigente hasta el día 31 de diciembre del año en que se dé cabal cumplimiento al pago de la deuda subordinada, y por tanto, los dividendos que se paguen de manera simultánea a la extinción de tal obligación o con posterioridad a ella (hasta el día 30 de diciembre de ese año) gozarán de la referida exención.
+
+ii) Efectos tributarios de la adjudicación de otros activos, bienes o derechos que puedan recibir.
+
+Atendido que como regla general la adjudicación de otros activos, bienes o derechos distintos a las acciones del TTTT no correspondería a rentas o cantidades amparadas bajo el principio de neutralidad tributaria establecido en la ley, resultarían aplicables las normas generales sobre la materia.
+
+Esto significa que respecto de la adjudicación de tales activos, bienes o derechos correspondería aplicar lo dispuesto en la letra f), del N° 8, del artículo 17 y en el artículo 38 bis, ambos de la LIR.
+
+Sobre la sumatoria del valor tributario de todos esos activos, bienes o derechos, en tanto corresponderían a rentas o cantidades afectas a impuesto en las sociedades que se disuelven, debiera aplicarse en primer término el impuesto de tasa 35% establecido en el artículo 38 bis de la LIR, al término de giro.
+
+Luego, con motivo de la adjudicación de tales activos, derechos o bienes a los accionistas de SIM, estos percibirían un ingreso que correspondería a la suma de los valores de costo tributario que tales activos, bienes o derechos adjudicados tenían en la sociedad que se disuelve a la fecha de término de giro, ingreso que en principio calificaría como no tributable o no afecto a impuestos hasta el monto límite que la LIR contempla.
+
+El monto límite que considera la letra f), del N° 8, del artículo 17 de la LIR como ingreso no constitutivo de renta o no tributable, corresponde al monto de capital aportado, más los aumentos y descontadas las disminuciones que hayan efectuado los accionistas hasta la fecha misma en que esta se disuelve, reajustado todo ello por la variación del IPC entre el mes anterior a la fecha de aporte, aumento o disminución, y el mes anterior a aquel en que se produzca su disolución de pleno derecho, más la totalidad de las utilidades, tributables o no tributables que mantenga a la fecha de disolución, en la proporción al número de acciones que corresponda al respectivo accionista.
+
+Conforme a lo señalado anteriormente, el valor de capital que debe considerarse en AAA, corresponde al valor del aporte efectuado por AAA al TTTT al momento de su constitución, esto es, el monto correspondiente al aporte total efectuado al TTTT de todo el activo, el pasivo y las cuentas de orden que mantenía AAA, con la sola excepción de la obligación subordinada que se traspasó a BBB. El valor de aporte corresponde en definitiva al valor de capital propio tributario que mantenía AAA a esa fecha, descontado solo el valor de la obligación subordinada. Tal suma deberá considerarse reajustada por la variación del IPC entre el mes anterior a la fecha de aporte, y el mes anterior a aquel en que se produzca su disolución de pleno derecho.
+
+En todo caso, para el cálculo del límite referido debería descontarse del monto del capital aportado por los accionistas, una cantidad equivalente al valor de costo tributario de las acciones del TTTT distribuidas a los accionistas de AAA, respecto de las cuales se aplicaría el principio de neutralidad tributaria, cantidad que tampoco debiera considerarse dentro de la sumatoria de los valores tributarios del total de los activos adjudicados (de manera de conservar la aplicación del principio de neutralidad tributaria).
+
+Ahora bien, los accionistas adjudicatarios mantendrán el valor de costo tributario que dichos activos, bienes o derechos adjudicados tenían en la sociedad disuelta a la fecha de su término de giro. La fecha de adquisición de tales activos, bienes o derechos correspondería a la fecha de adjudicación de los mismos, y cualquier beneficio o franquicia tributaria de que pudieran gozar en la sociedad que se disuelve no sería transmisible al adjudicatario, salvo que una norma expresa así lo estableciere, cuestión que sería más bien excepcional.
+
+El exceso del monto del ingreso que obtienen (determinado por la suma de los valores de costo tributario del total de los activos, bienes o derechos adjudicados) por sobre el límite señalado, correspondería a una renta tributable, sujeta al régimen general de tributación.
+
+D.- Efectos tributarios para los accionistas de TTTT.
+
+Los accionistas de TTTT, (que no sean aquellos que reciben acciones distribuidas producto de la disolución de AAA y BBB), no ven alterada su situación tributaria, puesto que mantienen los mismos derechos y títulos en el banco, y que tal entidad tampoco ha visto modificada su estructura jurídica, y por tanto, mantienen la misma situación tributaria en que se encontraban con anterioridad a la disolución de AAA y BBB.
+
+II.- ANÁLISIS
+
+La cuestión planteada en su consulta, versa sobre el alcance de la norma del artículo 33 de la ley 19.396, que ordena aplicar neutralidad tributaria entre quienes hayan optado por alguna de las dos modalidades de pago de la obligación subordinada de los bancos con el Banco Central de Chile.
+
+De acuerdo con la primera modalidad de pago, el banco deudor conserva su persona jurídica; y con la segunda -que es un régimen alternativo-, el banco deudor, asumiendo la calidad de una sociedad matriz, forma un nuevo banco, al cual le aporta su activo y pasivo, excluida la deuda subordinada, esta última, que es asumida por una filial constituida al efecto.
+
+En la especie, se trata de la situación tributaria del banco que optó por la segunda modalidad de pago, y específicamente, del efecto tributario aplicable a la disolución que la ley contempla para la sociedad matriz (AAA) y la filial administradora de la deuda (BBB) con motivo del pago de la deuda subordinada. A su juicio, la neutralidad tributaria señalada resulta aplicable no solo para los efectos generados al momento de ejercer el régimen alternativo, sino también para los producidos al momento del pago de la deuda subordinada.
+
+Al respecto, el artículo 33 de la ley 19.396 indica lo siguiente:
+
+“Artículo 33.- Las disposiciones de esta ley que sean aplicables al banco que haya ejercido la opción a que se refiere el artículo 1°, regirán igualmente para la sociedad matriz o administradora que haya asumido la obligación subordinada correspondiente, en todo lo que no sea incompatible con los artículos 23 y siguientes.
+
+De igual manera, se harán extensivas a la sociedad matriz, a la sociedad administradora, al nuevo banco, y a los accionista [sic] de todos ellos, las mismas disposiciones tributarias que sean aplicables, con motivo de lo establecido en esta ley, a los bancos que ejerzan la opción a que se refiere el artículo 1° y a sus accionistas. En virtud de lo dispuesto en este inciso, no podrán cobrarse impuestos o mayores impuestos a la sociedad matriz, a la sociedad administradora, al nuevo banco, y a los accionistas de todos ellos, que no sean procedentes para los bancos que ejerzan la opción y sus accionistas, como tampoco discriminar respecto de los beneficios tributarios, en la medida que tales impuestos o la discriminación se generen exclusivamente como consecuencia del ejercicio de la opción. De tal forma, la adopción del régimen alternativo no podrá implicar adicionalmente un beneficio, un perjuicio o un tratamiento tributario diferente para los contribuyentes que opten por dicho régimen, incluida la sociedad matriz, la sociedad administradora, el nuevo banco y los accionistas de todos ellos.”.
+
+De la norma citada, efectivamente se desprende que su objetivo ha sido evitar la generación de diferencias tributarias (beneficios o perjuicios) entre quienes optaron por el régimen alternativo y por el ordinario, objetivo refrendado en la Circular N° 41 de 1996 de este Servicio, cuando instruye que la norma “tiene por objeto garantizar que se apliquen las mismas normas tributarias a la sociedad matriz, a la sociedad administradora, al nuevo banco y a los accionistas de todos ellos, que las que procedan para el banco que opte por el régimen común y a sus accionistas, exclusivamente respecto de las operaciones que sean indispensables para acogerse al nuevo tratamiento tributario de la obligación subordinada de que trata la ley N° 19.396”.
+
+Asimismo, resulta necesario concordar con su planteamiento de que la neutralidad tributaria no solo resulta aplicable a los efectos iniciales de la opción por el régimen alternativo, sino también a los producidos durante el lapso en que se cumple con la obligación subordinada, e incluso al generado con motivo del pago total de la misma, a saber, la disolución de pleno derecho de las sociedades AAA y BBB. Afirmar lo contrario, implicaría admitir diferencias en el tratamiento tributario entre quienes optaron por el régimen alternativo y el ordinario, efecto que justamente buscó evitar la norma señalada.
+
+Ahora bien, y en concordancia con los criterios expresados anteriormente, es posible apreciar que la disolución de AAA y BBB necesariamente conlleva la aplicación de las normas del artículo 38 bis de la LIR, y por ende, la tributación de todas aquellas rentas que tales sociedades tengan retenidas o acumuladas y que se encuentren pendientes de tributación, sea con la totalidad de los impuestos o solo los impuestos personales. De otra manera, los accionistas de la AAA serían beneficiarios de un tratamiento tributario no contemplado para los accionistas de los bancos que optaron por el régimen ordinario, consistente en no tributar por cantidades afectas que les sean distribuidos desde las sociedades en las que participan.
+
+En tal escenario, las cantidades que deberán tributar de acuerdo con lo establecido en el artículo 38 bis de la LIR, no solo serán aquellas generadas con motivo del desarrollo del giro único y exclusivo que la ley contempla para AAA y BBB con el objetivo de pagar la obligación subordinada, sino toda aquella cantidad que el artículo 38 bis sujeta a tributación. Y para tales efectos, el monto de los aportes de capital enterados efectivamente al que alude la norma señalada será, para el caso de AAA, el valor tributario del aporte realizado al TTTT al momento de su constitución, consistente en la totalidad de su activo y pasivo, con la sola excepción de la obligación subordinada, todo ello reajustado por la variación del índice de precios al consumidor entre el mes anterior a la fecha de aporte, aumento o disminución de capital, y el mes anterior al término de giro; y para el caso de BBB, el aportado efectivamente por AAA, reajustado de la misma manera indicada precedentemente. Se hace presente que del capital que poseía la AAA al momento de efectuar el aporte de su patrimonio al TTTT con motivo del ejercicio del régimen alternativo, solo podrá considerarse para los efectos del artículo 38 bis, el aportado efectivamente a la sociedad, pues lo que se excluye del valor del capital propio tributario al término de giro, son las cantidades que conforme a la LIR no deben pagar impuestos.
+
+En cuanto a los accionistas de AAA, la disolución de dicha sociedad y de BBB, efectivamente implicará que aquellos reciban las acciones del TTTT que las primeras posean a la fecha de su extinción, distribución que se efectuará en conformidad con lo acordado por la junta de accionistas de AAA, en atención a lo dispuesto en el inciso último del artículo 26 de la ley 19.396.
+
+Esta distribución, igualmente requerirá la aplicación del principio de neutralidad tributaria tantas veces señalada, de manera que deberá evitarse todo tratamiento tributario distinto entre los bancos y sus accionistas que hayan optado por alguno de los dos regímenes de pago de la obligación subordinada. Por ello, y en la medida que las acciones del TTTT que reciban los accionistas de AAA se efectúe en sustitución de las que posean en esta última sociedad, es efectivo su planteamiento de que tanto el costo tributario como la fecha de adquisición de las acciones del TTTT que reciban los accionistas de AAA con motivo de la distribución que ordena el artículo 26 inciso último de la ley 19.396, será el mismo de las acciones que tenían en la AAA. Asimismo, las acciones del TTTT distribuidas a los accionistas de la AAA mantendrán los mismos beneficios tributarios que tenían las acciones de esta última sociedad, por ejemplo, respecto de las adquiridas antes del 31 de enero de 1984, las acogidas al ex artículo 18 ter, hoy artículo 107 de la LIR, o las adquiridas antes del 19 de abril de 2001 y que cumplieron con el pago del impuesto establecido en el artículo segundo transitorio de la ley 19.768, siempre que el pago del impuesto hubiere sido efectuado por el accionista que invocará la exención, con motivo de su enajenación. Sin embargo, aquellas acciones del TTTT que los accionistas de la AAA reciban en forma adicional a las que les corresponda en substitución de las que tenían en la AAA, no podrán sujetarse a la neutralidad referida, sino que constituirán nuevas adquisiciones que deberán sujetarse a las reglas generales de tributación.
+
+En cuanto al beneficio de la exención del Impuesto Global Complementario dispuesto en el artículo 11 de la ley 18.401 de 1985, se comparte el criterio señalado en la consulta, en orden a extender la exención a los dividendos que se paguen de manera simultánea a la extinción de la obligación subordinada, o con posterioridad, (hasta el 31 de diciembre del año que corresponda), atendido que según texto expreso de la ley, el beneficio tributario en comento se extinguirá el 31 de diciembre del año en que las acciones preferidas se transformen en ordinarias, de acuerdo con el inciso final del artículo 10, lo que ocurre cuando el Banco haya dado cabal cumplimiento a la deuda subordinada con el Banco Central de Chile.
+
+En relación con la adjudicación de aquellos bienes que puedan adquirir los accionistas de AAA, distintos de las acciones del TTTT recibidas en sustitución de las acciones en la primera sociedad, efectivamente resultan aplicables las disposiciones de la letra f) del N° 8 del artículo 17 de la LIR. Ahora bien, esta letra f) establece que no constituye renta, la adjudicación de bienes que se efectúe en favor del propietario, comunero, socio o accionista con ocasión de la liquidación o disolución de una empresa o sociedad, en tanto, la suma de los valores tributarios del total de los bienes que se le adjudiquen, no exceda del capital que haya aportado a la empresa, determinado en conformidad al número 7 del artículo 17 de la LIR, más las rentas o cantidades que le correspondan en la misma, al término de giro. De esta manera, aquella parte no constitutiva de renta para el accionista adjudicatario no será la totalidad del patrimonio aportado por AAA al TTTT, sino tan solo su proporción en dicho aporte atendiendo a su participación en el capital pagado de la AAA, más aquella cantidad que le corresponda al término de giro, siendo el exceso, una renta afecta a las reglas generales. Por otro lado, el valor de costo para fines tributarios de los bienes que se le adjudiquen, corresponderá a aquel que haya registrado la sociedad al término de giro, en conformidad con las disposiciones del artículo 38 bis de la LIR. Asimismo, la fecha de adquisición de tales activos adjudicados, corresponderá a la fecha de adjudicación de los mismos.
+
+Finalmente, se comparte el criterio de que los accionistas del TTTT que no sean aquellos que reciben acciones distribuidas producto de la disolución de AAA y BBB, no ven alterada su situación tributaria que detentaban con anterioridad a la disolución de las sociedades señaladas.
+
+III.- CONCLUSIÓN
+
+Sírvase tener por respondidas sus consultas, de acuerdo al análisis precedente.
+
+FERNANDO BARRAZA LUENGO
+
+DIRECTOR
+
+Oficio N° 2639, de 15.12.2017
+
+Subdirección Normativa
+
+Dpto. de Impuestos Directos

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones
+n de Asistencia al Contribuyente Fija valores de montos de avalúo exento, de avalúo para cambio de tasa del impuesto territorial y exención de pleno derecho, para predios no agrícolas reavaluados con vigencia 1° de enero de 2018. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Amplía el plazo establecido en la Resolución Exenta SII N° 38 de 2020, para presentar o rectificar la declaración jurada 1820 o 1829. Respecto de operaciones de derivados celebrados, modificados, cedidos o liquidados durante el año 2020. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Amplía el plazo establecido en la Resolución Exenta SII N° 38 de 2020, para presentar o rectificar la declaración jurada 1820 o 1829. Respecto de operaciones de derivados celebrados, modificados, cedidos o liquidados durante el año 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

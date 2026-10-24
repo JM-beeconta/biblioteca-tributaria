@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Dicta normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 10 del Decreto Supremo 420 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Dicta normas sobre condonación de recargos legales de deudas de contribuciones, conforme a lo previsto en el N° 10 del Decreto Supremo 420 de 2020 del Ministerio de Hacienda. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

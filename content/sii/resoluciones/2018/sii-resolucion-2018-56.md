@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Comunica nueva codificación de las actividades económicas Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Comunica nueva codificación de las actividades económicas Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n Avaluaciones Tabla de Cálculos de Reajustes, Intereses y Multas Octubre 2017 Fuente: Subdirección de Fiscalización
+n Avaluaciones Tabla de Cálculos de Reajustes, Intereses y Multas Octubre 2017 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

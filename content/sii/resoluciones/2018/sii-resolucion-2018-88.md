@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Complementa la obligación de presentar Declaración Jurada Anual sobre operaciones en Chile por medio de Formulario N° 1946; y modifica la Resolución Ex. SII N° 107 de 2017. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Complementa la obligación de presentar Declaración Jurada Anual sobre operaciones en Chile por medio de Formulario N° 1946; y modifica la Resolución Ex. SII N° 107 de 2017. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Instala la XX Dirección Regional, Chillán, fijando su sede y jurisdicción territorial Fuente: Subdirección Jurídica
+n de Asistencia al Contribuyente Instala la XX Dirección Regional, Chillán, fijando su sede y jurisdicción territorial Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

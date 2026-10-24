@@ -4,112 +4,98 @@
 - Tipo: oficio
 - Número: 1029
 - Año: 2017
-- Fecha: 2017-07-19
+- Fecha: 2017-05-12
 - Categoría: Otras Normas
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja1649.htm
-- Hash SHA-256: 2a63297a486aa7997b1dc41e5445ea201f497c9fdb62493a853961b55ff25c61
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja1029.htm
+- Hash SHA-256: ef04f90b48d78b90e7a6b422de169c7ee4f5a8f7750dfc42b3f5844f5fdada33
 
 ## Resumen
 
-Timbres y Estampillas &ndash; Nuevo Texto &ndash; Ley sobre Impuesto de &ndash; Art. 24, N°6 &ndash; Oficios N° 3100, N°1846 y N°1847 de 2016, . (Ord. Nº 1649, de 19-07-2017) |
+Timbres y Estampillas – Nuevo Texto – Ley sobre Impuesto de – Art. 24, N°6 – Oficios N° 2633, de 2015, N° 3100 y N° 1846, de 2016. (Ord. Nº 1029, de 12-05-2017) | | Word Solicita confirmar criterios sobre exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":39,"year":1991}
-- {"type":"circular","number":58,"year":1978}
-- {"type":"oficio","number":1029,"year":2017}
 - {"type":"oficio","number":3100,"year":2016}
 - {"type":"oficio","number":1846,"year":2016}
 - {"type":"oficio","number":2633,"year":2015}
-- {"type":"oficio","number":1847,"year":2016}
 - {"type":"oficio","number":1599,"year":2014}
 - {"type":"oficio","number":1559,"year":2014}
 
 ## Texto extraído
 
-TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – OFICIOS N° 3100, N°1846 Y N°1847 DE 2016, OFICIO N° 1029, DE 2017. (Ord. Nº 1649, de 19-07-2017)
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – OFICIOS N° 2633, DE 2015, N° 3100 Y N° 1846, DE 2016. (Ord. Nº 1029, de 12-05-2017)
 
 SOLICITA CONFIRMAR CRITERIOS SOBRE EXENCIÓN CONTEMPLADA EN EL ARTÍCULO 24 N° 6 DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
 
-Se ha solicitado a este Servicio confirmar los criterios que señala relativos a la exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
-
 I ANTECEDENTES
 
-De acuerdo a la presentación del antecedente, XXX, sociedad que opera en el área del factoring doméstico o nacional (en adelante, el &ldquo;factoring&rdquo;), adquiere de cualquier empresa o persona natural "cuentas por cobrar", documentadas con facturas, letras de cambio, pagarés u otros documentos, con responsabilidad para el cedente y adelantando o no el valor de dichos documentos, otorgando financiamiento con garantía constituida sobre los referidos documentos.
+De acuerdo a la presentación, XXXXXX (en adelante, el “factoring”), es una sociedad que se dedica en forma exclusiva a la realización de operaciones de financiamiento en la modalidad factoring, a través de las cuales, otorga a sus clientes financiamiento de corto plazo a través del descuento de facturas. Agrega que el “factoring”, es filial bancaria, por lo que se encuentra supeditada a las Superintendencia de Bancos e Instituciones Financieras.
 
-Señala que el financiamiento del factoring, para el desarrollo de su giro financiero, proviene fundamentalmente de la suscripción de créditos con bancos, fondos de inversión, sociedades de inversión y personas naturales que entregan dineros a interés, además de la suscripción de pagarés con estos mismos inversionistas.
+Agrega que, de acuerdo a la doctrina nacional, reconocida por la jurisprudencia de la Corte Suprema, el factoring es “una actividad financiera y de colaboración mediante la cual la empresa de factoring adquiere los créditos de que son titulares los comerciantes en contra de sus clientes, garantizando el pago de los mismos y presentando además servicios complementarios de contabilidad, estudio de mercado, etc., a cambio de una retribución, anticipando el valor de tales acreencias con una retribución.” [1]
 
-Luego, tras citar el texto del artículo 24 N°6 de la ley sobre Impuesto de Timbres y Estampillas, algunos criterios previos de este Servicio sobre el concepto genérico de institución financiera, el carácter financiero del factoring según la doctrina y jurisprudencia de la Corte Suprema, y otras consideraciones, solicita confirmar los siguientes criterios:
+Luego, informa que las operaciones de factoraje que realiza su representada se efectúan bajo dos modalidades:
 
-Que, para los efectos de acreditar la calidad de institución financiera y gozar de la exención contenida en el citado artículo 24 N° 6 no es necesario que las operaciones financieras a través de las cuales la peticionaria desarrolla su giro, constituyan operaciones de crédito de dinero.
+<>a)b)
 
-Teniendo la peticionaria por objeto social el giro de factoring y dedicada habitual y principalmente a este último, puede estimarse como &ldquo;habitual&rdquo; para los efectos de ser considerada como una institución financiera.
-
-Que están exentos de Impuesto de Timbres y Estampillas los documentos que se emitan con ocasión del financiamiento que el factoring obtiene de bancos, fondos de inversión, sociedades de inversión y personas naturales, tales como mutuos y pagarés, y que a su respecto no procede ni retención ni pago directo.
+Que, para gozar de la exención contenida en el citado artículo 24 N° 6 no es necesario que las operaciones de financiamiento a través de las cuales la institución financiera ejerce su giro, constituyan operaciones de crédito de dinero. Por tanto, si bien las operaciones de factoring y confirming no son operaciones de crédito de dinero por disposición legal, sí constituyen operaciones de financiamiento, de suerte que se cumple el requisito que los fondos sean destinados a otorgar créditos u operaciones de intermediación financiera. En armonía con lo anterior, que las empresas que tienen por objeto social y se dedican efectivamente de forma habitual y exclusiva a otorgar financiamiento a través de factoring y confirming, califican como instituciones financieras para la aplicación de la exención del artículo 24° N° 6. En cuanto a las medidas de control que deben adoptar los bancos que otorgan financiamiento, para el resguardo de una adecuada aplicación de la exención en comento, se pide confirmar que constituye una medida suficiente y completa la emisión por parte del cliente que solicita financiamiento de una declaración jurada que indique que es una empresa que habitualmente se dedica a realizar operaciones de financiamiento con sus propios fondos o con fondos recibidos de terceros y que el destino del préstamo que le conceda el correspondiente banco es la realización de operaciones de financiamiento. En caso contrario, solicita a este Servicio señalar cuáles serían las medidas que se debieran adoptar para resguardar la eventual responsabilidad del correspondiente banco en la aplicación de la exención en cuestión.
 
 II ANÁLISIS
 
-El artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas dispone que sólo estarán exentos de los impuestos que establece ese decreto ley, los documentos que den cuenta de los actos, contratos o convenciones que a continuación señala, dentro de los cuales, el N° 6 contempla los documentos otorgados por bancos o instituciones financieras en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones. La norma agrega que la lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile [1] .
+El artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas dispone que sólo estarán exentos de los impuestos que establece ese decreto ley, los documentos que den cuenta de los actos, contratos o convenciones que a continuación señala, dentro de los cuales, el N° 6 contempla los documentos otorgados por bancos o instituciones financieras en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones. La norma agrega que la lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile [2] .
 
 Citada la norma aplicable y antes de absolver los criterios indicados en su consulta, es necesario esclarecer las siguientes cuestiones previas:
 
-La empresa de factoring como &ldquo;institución financiera&rdquo; para efectos de la exención contenida en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
+La empresa de factoring como “institución financiera” para efectos de la exención contenida en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
 
-Tal como este Servicio ha señalado en otras oportunidades, un elemento esencial [2] para la procedencia de la exención es determinar si el emisor del documento califica como &ldquo;institución financiera&rdquo;, siendo el emisor quien confiesa adeudar una cantidad determinada o determinable de dinero [3] .
+Tal como este Servicio ha señalado en otras oportunidades, un elemento esencial [3] para la procedencia de la exención es determinar si el emisor del documento califica como “institución financiera”, siendo el emisor quien confiesa adeudar una cantidad determinada o determinable de dinero [4] .
 
-Al respecto, según reiterada jurisprudencia administrativa de este Servicio [4] , el concepto genérico de &ldquo;institución financiera&rdquo; comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último cuando expresamente está facultada por la ley para ello.
+Al respecto, según reiterada jurisprudencia administrativa de este Servicio [5] , el concepto genérico de “institución financiera” comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último cuando expresamente está facultada por la ley para ello.
 
-En consecuencia, fuera de los contribuyentes que habitualmente se dedican a prestar dinero o a conceder créditos con fondos recibidos de terceros expresamente facultados por la ley para ello, este Servicio y a partir del concepto genérico de &ldquo;institución financiera&rdquo; empleado por la Superintendencia de Bancos e Instituciones Financieras, ha reconocido tal calidad a diferentes contribuyentes, siempre que acrediten cumplir los elementos del concepto de &ldquo;institución financiera&rdquo; ya citado, cuestión de hecho entregada a las instancias de fiscalización correspondientes [5] .
+En consecuencia, fuera de los contribuyentes que habitualmente se dedican a prestar dinero o a conceder créditos con fondos recibidos de terceros expresamente facultados por la ley para ello, este Servicio y a partir del concepto genérico de “institución financiera” empleado por la Superintendencia de Bancos e Instituciones Financieras, ha reconocido tal calidad a diferentes contribuyentes, siempre que acrediten cumplir los elementos del concepto de “institución financiera” ya citado, cuestión de hecho entregada a las instancias de fiscalización correspondientes [6] .
 
-En ese contexto, este Servicio ha sido consistente en señalar que, si bien no puede conferir la calificación de &ldquo;institución financiera&rdquo; a priori y en forma indefinida [6] para cada contribuyente, la exención será procedente en la medida que &ndash; junto con las demás exigencias legales &ndash; la peticionaria efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con fondos propios o, según corresponda, se trate de una empresa que habitualmente se dedica a prestar dinero o a conceder créditos con fondos recibidos de terceros estando expresamente facultada por la ley para ello.
+En ese contexto, este Servicio ha sido consistente en señalar que, si bien no puede conferir la calificación de “institución financiera” a priori y en forma indefinida para cada contribuyente, la exención será procedente en la medida que – junto con las demás exigencias legales – la peticionaria efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con fondos propios.
 
-Como se aprecia, una cosa es calificar al peticionario como &ldquo;institución financiera&rdquo; para los fines de la exención en atención a su giro efectivo y habitual, y otra que ese giro habitual deba materializarse o concretarse específicamente mediante operaciones de crédito de dinero, cuestión que ni se exige ni se desprende del concepto genérico &ldquo;institución financiera&rdquo; antes anotado.
+Como se aprecia, una cosa es calificar al peticionario como “institución financiera” para los fines de la exención en atención a su giro efectivo y habitual, y otra que ese giro habitual deba materializarse o concretarse específicamente mediante operaciones de crédito de dinero, cuestión que ni se desprende ni se exige del concepto genérico “institución financiera” antes anotado.
 
 Documentos que se eximen de acuerdo al artículo 24 N° 6
 
 A partir del texto legal y la consulta formulada, deben distinguirse los documentos que dan cuenta de operaciones de crédito de dinero e inciden en la operación de captación de capitales de ahorrantes o inversionistas locales, de aquellos documentos que dan cuenta de operaciones de crédito de dinero e inciden en las operaciones propias del factoring en sus relaciones con los clientes.
 
-En efecto, los documentos gravados &ndash; y respecto de los cuales se aplica la exención del artículo 24 N° 6 &ndash; sólo son aquellos que se emiten o puedan emitirse en las operaciones de captación de capitales, de ahorrantes o inversionistas locales, que realiza la institución financiera que impetra la exención. Esto es, en las operaciones que realiza el factoring para obtener créditos de distintos bancos de la plaza.
+En efecto, los documentos gravados – y respecto de los cuales se aplica la exención del artículo 24 N° 6 – sólo son aquellos que se emiten o puedan emitirse en las operaciones de captación de capitales, de ahorrantes o inversionistas locales, que realiza la institución financiera que impetra la exención. Esto es, en las operaciones que realiza el factoring para obtener créditos de distintos bancos de la plaza.
 
-Inversionistas locales para efectos de la exención
+Sobre el particular, cabe señalar que este Servicio recientemente ha señalado que para los efectos de la exención, los bancos mutuantes respecto del financiamiento que conceden pueden calificar como inversionistas locales para efectos de la exención en análisis [7] .
 
-De acuerdo a la Circular N° 39 de 1991, refiriéndose a lo instruido en la Circular N° 58 de 1978, &ldquo;la exención en cuestión alcanza a las operaciones de crédito que se efectúen entre Bancos, por cuanto en ese caso la institución financiera que coloca sus recursos asume el carácter de inversionista, puesto que dicha colocación la efectúa con el objeto de percibir un interés&hellip;&rdquo;.
+Documentos “necesarios” para la realización de “dichas” operaciones de crédito de dinero.
 
-Por esa razón, se ha entendido que los bancos mutuantes, respecto del financiamiento que conceden, pueden ser considerados inversionistas, en los términos del artículo 24 N° 6 de la Ley de Timbres y Estampillas [7] .
+Conforme lo expuesto en la letra b) anterior, es claro que el requisito de “necesariedad” se predica respecto de los documentos que inciden en operaciones de crédito de dinero que la institución financiera – de calificar como tal – emite para obtener créditos de los distintos bancos de la plaza; pero no de las operaciones de financiamiento que el factoring celebre o pueda celebrar en el desarrollo de su negocio con los clientes.
 
-Sin perjuicio de lo anterior, la citada Circular N° 58 de 1978, que imparte instrucciones sobre la exención contenida en el artículo 32 N° 25 de la anterior Ley sobre Impuesto de Timbres [8] , Estampillas y Papel Sellado, señala que &ldquo;desde el punto de vista del banco que recibe el dinero, la operación es una captación de fondos y para la institución financiera que lo proporciona tanto del país como del exterior constituye una inversión, puesto que este crédito se otorga con el propósito de obtener los frutos del capital invertido, que en la especie, corresponden al interés pactado por el mutuo. Confirma el carácter de inversionista que reúne la institución que proporciona el préstamo, la definición que el diccionario de la lengua da del vocablo "invertir"; "hablando de caudales, emplearlos, gastarlos o cobrarlos en aplicaciones productivas". A su vez, según el mismo Diccionario, la voz producir significa "rentar, redituar interés", utilidad o beneficio una cosa". Inversionista es, por tanto, una persona o institución que hace una inversión de caudales con el objeto de obtener o redituar un interés o beneficio pecuniario.&rdquo;
-
-En consecuencia, en la medida que el factoring obtenga su financiamiento desde bancos, fondos de inversión y sociedades de inversión que colocan recursos con el objeto de percibir un interés, asumiendo el carácter de inversionistas en los términos antes señalados, efectivamente puede concluirse que no procede retener ni pagar el Impuesto de Timbres y Estampillas respecto de los documentos otorgados y que sean &ldquo;necesarios&rdquo; para la realización de las referidas operaciones de crédito de dinero, en los términos del artículo 24 N° 6 de la Ley de Timbres y Estampillas.
-
-Documentos &ldquo;necesarios&rdquo; para la realización de &ldquo;dichas&rdquo; operaciones de crédito de dinero.
-
-Conforme lo expuesto en la letra b) anterior, es claro que el requisito de &ldquo;necesariedad&rdquo; se predica respecto de los documentos que inciden en operaciones de crédito de dinero que la institución financiera &ndash; de calificar como tal &ndash; emite para obtener créditos de los distintos bancos de la plaza; pero no de las operaciones de financiamiento que el factoring celebre o pueda celebrar en el desarrollo de su negocio con los clientes.
-
-Con todo, como este Servicio también ha aclarado, en virtud del requisito de &ldquo;necesariedad&rdquo; se excluyen aquellas operaciones de crédito que no reúnen el carácter de indispensables para la institución financiera porque no se relacionan con su finalidad propia, esto es, otorgar créditos o efectuar intermediación financiera, como sería la obtención de créditos para efectos de su financiamiento [9] , entendiendo esto último como una operación destinada, por ejemplo, a la adquisición de un inmueble, el pago de deudas propias [10] o cualquier otra actividad distinta que otorgar créditos o realizar operaciones de intermediación financiera con sus clientes [11] .
+Con todo, como este Servicio también ha aclarado, en virtud del requisito de “necesariedad” se excluyen aquellas operaciones de crédito que no reúnen el carácter de indispensables para la institución financiera porque no se relacionan con su finalidad propia, esto es, otorgar créditos o efectuar intermediación financiera, como sería la obtención de créditos para efectos de su financiamiento [8] , entendiendo esto último como una operación destinada, por ejemplo, a la adquisición de un inmueble, el pago de deudas propias [9] o cualquier otra actividad distinta que otorgar créditos o realizar operaciones de intermediación financiera con sus clientes [10] .
 
 III CONCLUSIÓN
 
 Expuesto lo anterior, y absolviendo derechamente los criterios que solicita confirmar, se informa lo siguiente:
 
-Que, para gozar de la exención contenida en el citado artículo 24 N° 6 no es necesario que las operaciones financieras a través de las cuales la peticionaria desarrolla su giro, constituyan en sí mismas operaciones de crédito de dinero.
+Para gozar de la exención contenida en el artículo 24 N° 6 efectivamente no es necesario que las operaciones de financiamiento a través de las cuales el factoring ejerce su giro con clientes constituyan, en sí mismas, operaciones de crédito de dinero.
 
-Para los efectos que la peticionaria, una empresa de factoring, acredite su calidad de institución financiera, es necesario que efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con fondos propios o, según corresponda, se trate de una empresa que habitualmente se dedica a prestar dinero o a conceder créditos con fondos recibidos de terceros estando expresamente facultada por la ley para ello.
+Las empresas que tienen por objeto social y se dedican efectivamente de forma habitual y exclusiva a otorgar financiamiento a través de factoring y confirming, pueden calificar como instituciones financieras para la aplicación de la exención del artículo 24° N° 6 en la medida que, como este Servicio ha señalado, la peticionaria efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con fondos propios.
 
-Respecto del segundo criterio que solicita confirmar, y de acuerdo con lo señalado en la letra a) inmediatamente anterior, el hecho de tener la peticionaria como objeto social el giro de factoring y dedicarse habitual y principalmente a este último objeto, permite considerarla como una institución financiera; cuestión cuyo cumplimiento, en todo caso, queda entregada a las instancias de fiscalización correspondientes.
+En cuanto a las medidas de control que deben adoptar los bancos que otorgan créditos para resguardar la adecuada aplicación de la exención, y como este Servicio ya tuvo oportunidad de señalar [11] , no corresponde a la entidad bancaria – en el ejemplo – determinar el destino efectivo de los fondos.
 
-En cuanto al tercer criterio que solicita confirmar, y en la medida que el factoring obtenga su financiamiento desde bancos, fondos de inversión y sociedades de inversión que colocan recursos con el objeto de percibir un interés, asumiendo el carácter de inversionistas en los términos antes señalados, efectivamente puede concluirse que no procede retener ni pagar el Impuesto de Timbres y Estampillas respecto de los documentos otorgados y que sean &ldquo;necesarios&rdquo; para la realización de las referidas operaciones de crédito de dinero, en los términos del artículo 24 N° 6 de la Ley de Timbres y Estampillas.
+Con todo, la entidad bancaria debe adoptar las medidas de control a su alcance, como exigir una declaración del factoring que impetra la exención respecto del destino que dará a los fondos. Por otra parte, velar por el correcto uso de la exención en todo caso compete a las instancias de fiscalización de este Servicio, sin perjuicio de las responsabilidades que correspondan a la institución financiera que impetra la exención por la aplicación indebida de la misma.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1649, de 19.07.2017
+Oficio N° 1029, de 12.05.2017
 
 Subdirección Normativa
 
 Dpto. de Técnica Tributaria
 
-[1] En cumplimiento de la citada disposición, la Resolución N° 137, de 1975, estableció los documentos exentos de impuesto de acuerdo con la misma norma, instruyendo que respecto de ellos debían concurrir los siguientes requisitos copulativos:
+[1] Considerando N° 9 de la sentencia dictada por la Corte Suprema en la causa Rol N° 9414-2010, citando a Ricardo Sandoval López.
+
+[2] En cumplimiento de la citada disposición, la Resolución N° 137, de 1975, estableció los documentos exentos de impuesto de acuerdo con la misma norma, instruyendo que respecto de ellos debían concurrir los siguientes requisitos copulativos:
 
 Que el emisor del documento sea una institución financiera.
 
@@ -119,22 +105,20 @@ Que el o los documentos den cuenta de operaciones de crédito de dinero.
 
 Que el o los documentos sean necesarios para la realización de dichas operaciones de crédito de dinero.
 
-[2] Oficio N° 3100 de 2016.
+[3] Oficio N° 3100 de 2016.
 
-[3] Oficio N° 1846 de 2016.
+[4] Oficio N° 1846 de 2016.
 
-[4] Oficio N° 3100 de 2016.
+[5] Oficio N° 3100 de 2016.
 
-[5] Oficio N° 2633 de 2015.
+[6] Oficio N° 2633 de 2015.
 
-[6] Oficio N° 1847, de 2016
+[7] Criterio reiterado en el Oficio N° 1599 de 2014.
 
-[7] Criterio contenido en el Oficio N° 1029 de 2017, que reitera lo señalado en el Oficio N° 1599 de 2014.
+[8] Oficio N° 3100 de 2016.
 
-[8] Exención aplicable a los documentos que emiten instituciones bancarias chilenas para la captación de capitales de otras instituciones congéneres tanto del exterior como del país, que den cuenta de una operación de crédito de dinero.
+[9] Oficio N° 1846 de 2016. Criterio que se desprende del Oficio N° 1559 de 2014.
 
-[9] Oficio N° 3100 de 2016.
+[10] Criterio que se desprende del Oficio N° 1846 de 2016.
 
-[10] Oficio N° 1846 de 2016. Criterio que se desprende del Oficio N° 1559 de 2014.
-
-[11] Criterio que se desprende del Oficio N° 1846 de 2016.
+[11] Oficio N° 1846 de 2016

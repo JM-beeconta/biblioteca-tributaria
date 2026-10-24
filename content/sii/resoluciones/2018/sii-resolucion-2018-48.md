@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al Artículo 62 TER del código tributario. Fuente: Subdirección Normativa
+n de Asistencia al Contribuyente Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al Artículo 62 TER del código tributario. Fuente: Subdirección Normativa
 
 ## Referencias detectadas
 

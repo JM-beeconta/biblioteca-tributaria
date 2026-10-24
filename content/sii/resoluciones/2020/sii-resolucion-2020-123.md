@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización. Establece forma y plazo para presentar declaración jurada anual de formulario N° 1847 denominado "Declaración jurada anual sobre balance de 8 columnas&rdquo; y declaración jurada anual de formulario N° 1926 sobre &ldquo;base imponible de primera categoría y datos contables balance&rdquo;. Deja sin efecto Resoluciones Exentas N°s 2, del 2012, 112, del 2015, 101 de 2017 y 110 de 2019. Fuente: Subdirección de Fiscalización.
+cción de Fiscalización. Establece forma y plazo para presentar declaración jurada anual de formulario N° 1847 denominado "Declaración jurada anual sobre balance de 8 columnas” y declaración jurada anual de formulario N° 1926 sobre “base imponible de primera categoría y datos contables balance”. Deja sin efecto Resoluciones Exentas N°s 2, del 2012, 112, del 2015, 101 de 2017 y 110 de 2019. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

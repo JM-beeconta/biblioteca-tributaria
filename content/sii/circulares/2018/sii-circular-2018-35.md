@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas julio 2018 Fuente: Subdirección de Fiscalizción
+n Normativa Tabla de cálculos de reajustes, intereses y multas julio 2018 Fuente: Subdirección de Fiscalizción
 
 ## Referencias detectadas
 

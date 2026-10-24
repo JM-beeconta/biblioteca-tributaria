@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017. Fuente: Subdireccion de Fiscalizacion
+n de Asistencia al Contribuyente Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017. Fuente: Subdireccion de Fiscalizacion
 
 ## Referencias detectadas
 

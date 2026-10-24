@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Operaciones de crédito de dinero Fuente: Oficina de Gestión Normativa
+n Normativa Operaciones de crédito de dinero Fuente: Oficina de Gestión Normativa
 
 ## Referencias detectadas
 

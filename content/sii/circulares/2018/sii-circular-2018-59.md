@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Complementa la Circular N° 31 de 2018, en la parte que instruye sobre las modificaciones incorporadas por la Ley N° 21.047 al artículo 37 del Decreto Ley N° 1.939 de 1977. Tratamiento tributario de las donaciones efectuadas al amparo del artículo 4° de la Ley N° 19.896, que introduce modificaciones al Decreto Ley Nº 1.263, de 1975, orgánico de administración financiera del Estado y establece otras normas sobre administración presupuestaria y de personal. Fuente: Impuestos Directos
+n Normativa Complementa la Circular N° 31 de 2018, en la parte que instruye sobre las modificaciones incorporadas por la Ley N° 21.047 al artículo 37 del Decreto Ley N° 1.939 de 1977. Tratamiento tributario de las donaciones efectuadas al amparo del artículo 4° de la Ley N° 19.896, que introduce modificaciones al Decreto Ley Nº 1.263, de 1975, orgánico de administración financiera del Estado y establece otras normas sobre administración presupuestaria y de personal. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Tabla de cálculos de reajustes, intereses y multas diciembre 2019. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Tabla de cálculos de reajustes, intereses y multas diciembre 2019. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

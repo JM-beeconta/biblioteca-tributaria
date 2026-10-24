@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional. Fuente: Subdirección Normativa.
+n Normativa. Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

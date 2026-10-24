@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a GLOBAL ELECTRIC LIMITADA. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Excluye de nómina de contribuyentes sujetos a retención, fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a GLOBAL ELECTRIC LIMITADA. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

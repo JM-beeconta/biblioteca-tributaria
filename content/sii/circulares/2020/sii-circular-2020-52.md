@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
+n Normativa. Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2020 e información adicional relacionada con dicho tributo. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

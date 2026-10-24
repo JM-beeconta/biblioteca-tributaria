@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2020 y el 9 de noviembre de 2020, ambos inclusive. Fuente: Subdirección Normativa.
+n Normativa. Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2020 y el 9 de noviembre de 2020, ambos inclusive. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

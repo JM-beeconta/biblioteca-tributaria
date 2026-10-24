@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
+n de Asistencia al Contribuyente Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos. Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios
 
 ## Referencias detectadas
 

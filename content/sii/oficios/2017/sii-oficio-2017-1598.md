@@ -4,62 +4,67 @@
 - Tipo: oficio
 - Número: 1598
 - Año: 2017
-- Fecha: 2017-09-22
+- Fecha: N/A
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2108.htm
-- Hash SHA-256: b4a5082842c141056e41a9f7aa6c58d9f7123c7b9c2e4194dc73caedb6dbf1e6
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1598.htm
+- Hash SHA-256: 40ad6a56f169a2bd9661edbf44feab9fe639c65000719c2379aca7f952f0fa1e
 
 ## Resumen
 
-Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Ley N° 20.780, Art. 3° transitorio, Numeral I, N°11 &ndash; . (Ord. Nº 2108, de 22-09-2017) |
+nte legal de la EIRL. Renta – Actual Ley sobre Impuesto a la – Art.14, Letra A) – Código Civil, Art. 714 – Ley N° 20.899, de 2016, Art. 1 transitorio. (Ord. Nº 1598, de 14-07-2017) | | Word Impuesto Sustitutivo señalado en el número 11, del numeral I, del artículo tercero, de las disposiciones transitorias de la Ley N°20.780.
 
 ## Referencias detectadas
 
-- {"type":"circular","number":17,"year":2016}
-- {"type":"oficio","number":1598,"year":2017}
-- {"type":"articulo","law":"LIR","article":"54 N"}
 - {"type":"articulo","law":"LIR","article":"14"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, ART. 3° TRANSITORIO, NUMERAL I, N°11 – OFICIO N° 1598, DE 2017. (Ord. Nº 2108, de 22-09-2017)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART.14, LETRA A) – CÓDIGO CIVIL, ART. 714 – LEY N° 20.899, DE 2016, ART. 1 TRANSITORIO. (Ord. Nº 1598, de 14-07-2017)
 
-IMPUESTO SUSTITUTIVO AL FUT DEL ARTÍCULO 3° TRANSITORIO, NUMERAL I.-, N°11 DE LA LEY N°20.780, COMPLEMENTADO POR EL ARTÍCULO 1° TRANSITORIO DE LA LEY N°20.899.
+IMPUESTO SUSTITUTIVO SEÑALADO EN EL NÚMERO 11, DEL NUMERAL I, DEL ARTÍCULO TERCERO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY N°20.780.
 
-Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, mediante la cual solicita que se confirmen diversas afirmaciones relacionadas con el Impuesto Sustitutivo al FUT (Impuesto Sustitutivo) contenido en el artículo 3° transitorio, numeral I.-, N°11 de la Ley N°20.780, complementado por el artículo 1° transitorio de la Ley N°20.899.
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita un pronunciamiento respecto al régimen opcional de tributación sobre rentas acumuladas en el Registro FUT [1] contenido en el artículo tercero transitorio, numeral I.-, N° 11 de la Ley N° 20.780, complementado por el artículo primero transitorio de la Ley N° 20.899, según se indica.
 
-I.- ANTECEDENTES.
+ANTECEDENTES.
 
-Al respecto, se ha solicitado confirmar las afirmaciones que se exponen a continuación:
+Se trata de una SpA, que mantiene un accionista quien ha cedido el usufructo del 60% sobre las utilidades de la empresa, por lo tanto, solicita se resuelva las siguientes situaciones:
 
-a) El criterio contenido en el Oficio N°1.598 de 2017 sería aplicable tanto al usufructo de acciones como de derechos sociales;
+Qué tasa debe aplicarse (general o variable) para efectos del Impuesto Sustitutivo; y,
 
-b) Las cantidades que se distribuyan al usufructuario de acciones o de derechos sociales, según sea el caso, con cargo a utilidades que resultaron gravadas con Impuesto Sustitutivo, están liberadas de la aplicación de los impuestos a la renta por cuanto han completado su tributación;
-
-c) Las utilidades que tributaron con Impuesto Sustitutivo podrán ser distribuidas al usufructuario de acciones o de derechos sociales, según sea el caso, en la oportunidad que se estime conveniente, con preferencia a cualquier otra suma y sin considerar las reglas de imputación que establece la Ley sobre Impuesto a la Renta (LIR), vigentes a la fecha de la distribución.
+En qué forma deberán distribuirse las sumas que se acojan al Impuesto Sustitutivo.
 
 II.- ANÁLISIS.
 
-1.- Con respecto al primer punto que consulta, indicado en la letra a) de los Antecedentes, la Conclusión contenida en el Oficio N°1.598 de 2017, resulta también aplicable al usufructo de derechos sociales.
+Respecto de la primera consulta, este Servicio mediante el Oficio N° 2896, de fecha 20 de octubre de 2016, señaló que en el caso de existir un usufructo de las acciones [2] , en el cálculo de la tasa variable del impuesto sustitutivo que grava las rentas acumuladas en el FUT al 31 de diciembre de 2015 o 2016, se deben considerar las tasas marginales más altas del IGC que gravaron al nudo propietario de las acciones durante los últimos 3 años tributarios que preceden al ejercicio de la opción. Por lo tanto, no debe considerarse al usufructuario quien conforme señala el artículo 714 del Código Civil [3] , es un mero detentador de la cosa fructuaria reconociendo dominio ajeno.
 
-2.- En relación con las consultas de las letras b) y c) de los Antecedentes, se puede señalar que de acuerdo a lo dispuesto en el artículo 3° transitorio, numeral I.-, N°11, N°1), letra g) de la Ley N°20.780, complementado por el artículo 1° transitorio de la Ley N°20.899 y la Circular N°17 de 2016, con la Declaración y Pago del Impuesto Sustitutivo se entiende que todo o parte de las cantidades del registro FUT que conformaron la base imponible del Impuesto Sustitutivo han cumplido totalmente su tributación con el Impuesto Global Complementario (IGC) o Impuesto Adicional (IA), según corresponda, sin perjuicio que no deben agregarse a la renta bruta del articulo 54 N°1 o a la base imponible de IA indicada en el artículo 62, ambas de la LIR.
+Se hace presente que no es un impedimento para la aplicación de la tasa variable el hecho de que se hubiere cedido el usufructo a contar del 1° de diciembre de 2015, ya que la limitación al uso de la tasa variable contenida en el inciso tercero del artículo primero transitorio de la Ley N° 20.899, se refiere a la cesión de los derechos, cuotas o acciones respectivas y no a la constitución de un usufructo sobre tales derechos, cuotas o acciones.
 
-De acuerdo a lo prescrito por las normas citadas, tales rentas deben rebajarse del registro FUT a que se refería el artículo 14, letra A), N ° 3, letra a) de la LIR, según su texto vigente al 31 de diciembre de 2016, y paralelamente anotarse como ingresos no constitutivos de renta, en forma separada de otras cantidades, en el registro FUNT que establecía el artículo 14, letra A), N ° 3, letra b) de la LIR, según su texto vigente al 31 de diciembre de 2016, en la fecha en que se efectuó la Declaración y Pago del Impuesto Sustitutivo.
+En cuanto a la forma en que los contribuyentes deben distribuir sus utilidades, como regla general ello dependerá del acuerdo que las partes hayan fijado en el respectivo contrato social, y en este caso además, en el acto jurídico que dio origen al usufructo. Luego, la situación tributaria de tales cantidades quedará resuelta con su imputación en los registros obligatorios que deberán llevar las empresas a contar del 1° de enero de 2017, según el régimen al cual hayan optado, o bien, queden sujetos.
 
-3.- Por su parte, de acuerdo a lo dispuesto en las Circulares N°s. 17 y 49 ambas de 2016, el posterior retiro, distribución o remesa de rentas que hubieren pagado el Impuesto Sustitutivo durante los años comerciales 2015, 2016 y hasta el 30 de abril de 2017, e incorporadas al registro REX en una columna separada, podrán ser retiradas, remesadas o distribuidas en cualquier momento, con preferencia a cualquier otra cantidad y sin considerar las reglas de imputación establecidas en la LIR, vigentes a la fecha del retiro, distribución o remesa [1] .
+Es así, como los contribuyentes sujetos al régimen de la letra A), del artículo 14 de la LIR, imputarán sus retiros y distribuciones a sus distintos registros en forma proporcional, y los contribuyentes sujetos al régimen de la letra B), del mismo artículo, imputarán sus retiros y distribuciones a sus distintos registros en forma cronológica [4] .
+
+No obstante el orden de imputación señalado, de acuerdo al inciso final del artículo primero transitorio de la Ley N° 20.899 de 2016, cuando las empresas hayan declarado y pagado el Impuesto Sustitutivo, las rentas gravadas con dicho impuesto podrán ser retiradas, remesadas o distribuidas en la oportunidad que se estime conveniente, con preferencia a cualquier otra suma y sin considerar las reglas de imputación que establezca la Ley sobre Impuesto a la Renta vigente a la fecha del retiro, remesa o distribución.
 
 III.- CONCLUSIÓN.
 
-Con la Declaración y Pago del Impuesto Sustitutivo, cualquiera sea la naturaleza jurídica de la empresa que lo haya pagado, se cumple completamente con la tributación de los impuestos de la LIR, respecto de las rentas que conformaron su base imponible, pudiendo ser retiradas en cualquier momento, con preferencia a cualquier otra cantidad y sin considerar las reglas de imputación de la LIR, por quien tenga derecho sobre ellas, según lo estipulado en el contrato social y lo establecido en el acto jurídico que dio origen al usufructo.
+En caso de existir un usufructo sobre las acciones, en el cálculo de la tasa variable del impuesto sustitutivo que grava las rentas acumuladas en el FUT al 31 de diciembre del 2015 o 2016, se deben considerar las tasas marginales más altas del IGC que gravaron al nudo propietario de las acciones durante los últimos 3 años tributarios que preceden al ejercicio de la opción, no siendo un impedimento para la aplicación de la tasa variable la constitución de un usufructo.
+
+Finalmente, como regla general, los retiros y distribuciones se efectuarán conforme al acuerdo que las partes hayan fijado en el respectivo contrato social y en el acto jurídico que dio origen al usufructo. Quedando resuelta la situación tributaria de ellos en base a su imputación en los registros obligatorios que deberán llevar las empresas a contar del 1° de enero de 2017, según el régimen al cual hayan optado, o bien, queden sujetos. Sin embargo, las rentas gravadas con el Impuestos Sustitutivo, podrán ser retiradas o distribuidas sin considerar las reglas de imputación que establece la Ley sobre Impuesto a la Renta.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 2108, de 22.09.2017
+Oficio N° 1598, de 14.07.2017
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
 
-[1] El inciso final del artículo 1° transitorio de la Ley N°20.899 deroga tácitamente y con efecto retroactivo, la regla establecida en el artículo tercero transitorio numeral I.-, N° 11, N°1 letra g) parte final de la Ley N° 20.780, que establecía la obligación de aplicar las reglas de imputación de la LIR vigentes a la fecha del retiro distribución o remesa.
+[1] Fondo de utilidades tributables.
+
+[2] Bajo el supuesto del cumplimiento de todos los requisitos exigidos por la Ley N° 20.780 y 20.899, según corresponda.
+
+[3] El artículo 714 del Código Civil indica: “Se llama mera tenencia la que se ejerce sobre una cosa, no como dueño, sino en lugar o a nombre del dueño. El acreedor prendario, el secuestre, el usufructuario, el usuario, el que tiene el derecho de habitación, son meros tenedores de la cosa empeñada, secuestrada, o cuyo usufructo, uso o habitación les pertenece. Lo dicho se aplica generalmente a todo el que tiene una cosa reconociendo dominio ajeno.”
+
+[4] Las instrucciones específicas se encuentran impartidas mediante Circular N° 49, de 14.07.2016.

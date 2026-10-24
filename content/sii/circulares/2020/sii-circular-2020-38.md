@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre aplicación de la disminución transitoria de las tasas que establecen los artículos 1° numeral 3), 2° y 3° del Decreto Ley N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, dispuesta por la Ley N° 21.225, publicada en el Diario Oficial de fecha 02 de abril de 2020. Fuente: Técnica Tributaria.
+n Normativa. Imparte instrucciones sobre aplicación de la disminución transitoria de las tasas que establecen los artículos 1° numeral 3), 2° y 3° del Decreto Ley N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, dispuesta por la Ley N° 21.225, publicada en el Diario Oficial de fecha 02 de abril de 2020. Fuente: Técnica Tributaria.
 
 ## Referencias detectadas
 

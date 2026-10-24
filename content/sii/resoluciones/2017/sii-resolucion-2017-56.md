@@ -11,7 +11,7 @@
 
 ## Resumen
 
-te;n de Fizcalizacion Fija el procedimiento, forma y plazos para la aplicación y ejercicio de la facultad establecida en el artículo 60 bis del código tributario. Fuente: Subdirección de Fiscalización
+n de Fizcalizacion Fija el procedimiento, forma y plazos para la aplicación y ejercicio de la facultad establecida en el artículo 60 bis del código tributario. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

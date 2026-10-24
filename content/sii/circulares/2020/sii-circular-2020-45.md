@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210 a los artículos 41 F y 41 G de la Ley sobre Impuesto a la Renta. Reemplaza, en lo pertinente, la Circular N° 12 de 2015.Complementa Circular N° 40 de 2016. Fuente: Impuestos Directos
+n Normativa. Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210 a los artículos 41 F y 41 G de la Ley sobre Impuesto a la Renta. Reemplaza, en lo pertinente, la Circular N° 12 de 2015.Complementa Circular N° 40 de 2016. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

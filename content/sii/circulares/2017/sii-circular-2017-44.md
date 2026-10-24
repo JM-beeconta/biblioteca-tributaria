@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;N NORMATIVA Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacional, y al inciso 1° y párrafo segundo, del N° 2, del inciso 4°, del artículo 59 del referido cuerpo legal, en materia de Impuesto Adicional. Fuente: Impuestos Directos
+N NORMATIVA Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacional, y al inciso 1° y párrafo segundo, del N° 2, del inciso 4°, del artículo 59 del referido cuerpo legal, en materia de Impuesto Adicional. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

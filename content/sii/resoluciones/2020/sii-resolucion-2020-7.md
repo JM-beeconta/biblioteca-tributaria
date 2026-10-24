@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 17 de Enero del 2020 Establece obligación de comunicar electrónicamente información sobre enajenaciones de inmuebles por notarías y Conservadores de Bienes Raíces, al Servicio de Impuestos Internos. Fuente: Subdirección de Avaluaciones
+n de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 17 de Enero del 2020 Establece obligación de comunicar electrónicamente información sobre enajenaciones de inmuebles por notarías y Conservadores de Bienes Raíces, al Servicio de Impuestos Internos. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Tabla de cálculos de reajustes, intereses y multas marzo 2020. Fuente: Subdirección De Fiscalización
+n Normativa Tabla de cálculos de reajustes, intereses y multas marzo 2020. Fuente: Subdirección De Fiscalización
 
 ## Referencias detectadas
 

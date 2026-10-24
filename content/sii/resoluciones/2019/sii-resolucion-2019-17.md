@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Complementa Resolución Exenta SII N° 149.- de 28 de diciembre de 2018, en los términos que indica. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Complementa Resolución Exenta SII N° 149.- de 28 de diciembre de 2018, en los términos que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

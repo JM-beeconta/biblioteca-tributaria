@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Instruye sobre cumplimiento de los requisitos, monto y forma de solicitar el beneficio transitorio para los trabajadores independientes, establecido en el artículo primero de la Ley N° 21.242 de 2020. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente Instruye sobre cumplimiento de los requisitos, monto y forma de solicitar el beneficio transitorio para los trabajadores independientes, establecido en el artículo primero de la Ley N° 21.242 de 2020. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

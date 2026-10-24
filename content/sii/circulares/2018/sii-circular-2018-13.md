@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en el N°2, de la letra D.- del artículo 41 A, de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos
+n Normativa Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en el N°2, de la letra D.- del artículo 41 A, de la Ley sobre Impuesto a la Renta. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 

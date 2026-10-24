@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Modificación al Título XIV del Libro II del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, a la Resolución Exenta N° 40 de 2019, del Servicio de Impuestos Internos, y a la Circular Conjunta N° 4 de la Tesorería General de la República. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Modificación al Título XIV del Libro II del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, a la Resolución Exenta N° 40 de 2019, del Servicio de Impuestos Internos, y a la Circular Conjunta N° 4 de la Tesorería General de la República. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

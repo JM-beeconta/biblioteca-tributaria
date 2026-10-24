@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones
+n de Avaluaciones Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a contribuyentes que señalan. Fuente: Subdirección de Asistencia al Contribuyente, Departamento de Operaciones
 
 ## Referencias detectadas
 

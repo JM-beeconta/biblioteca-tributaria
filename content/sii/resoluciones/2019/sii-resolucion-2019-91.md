@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Avaluaciones Exime a FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS &ldquo;PAR&rdquo;, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente
+Subdirección de Avaluaciones Exime a FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS “PAR”, de la obligación de timbraje en la emisión de certificados por donaciones y fija requisitos que señalan. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Delega facultad que indica, relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Subdirección de Administración
+n de Asistencia al Contribuyente Delega facultad que indica, relativa a enajenación de acciones de propiedad del Servicio de Impuestos Internos. Fuente: Subdirección de Administración
 
 ## Referencias detectadas
 

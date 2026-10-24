@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Crea modelo de certificado N° 63, sobre donaciones efectuadas a la Fundación Imagen de Chile para llevar a cabo la organización y ejecución de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre cambio climático "cop 25". Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Crea modelo de certificado N° 63, sobre donaciones efectuadas a la Fundación Imagen de Chile para llevar a cabo la organización y ejecución de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre cambio climático "cop 25". Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

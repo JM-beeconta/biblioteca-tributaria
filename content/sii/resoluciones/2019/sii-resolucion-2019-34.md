@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Modifica Resolución Ex. SII N° 152, de 28 de diciembre de 2018, que fija valores de terrenos y construcciones para el reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
+n de Asistencia al Contribuyente Modifica Resolución Ex. SII N° 152, de 28 de diciembre de 2018, que fija valores de terrenos y construcciones para el reavalúo de los Bienes Raíces No Agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

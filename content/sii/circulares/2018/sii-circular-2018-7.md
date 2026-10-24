@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Imparte instrucciones relativas a la aplicación de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros (Convención de la Apostilla). Fuente: Departamento de Asesoría Jurídica
+n Normativa Imparte instrucciones relativas a la aplicación de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros (Convención de la Apostilla). Fuente: Departamento de Asesoría Jurídica
 
 ## Referencias detectadas
 

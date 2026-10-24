@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Modificaciones efectuadas por la Ley N° 21.210 publicada el 24 de febrero de 2020, a la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados. Fuente: Departamento de Impuestos Directos.
+n Normativa. Modificaciones efectuadas por la Ley N° 21.210 publicada el 24 de febrero de 2020, a la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados. Fuente: Departamento de Impuestos Directos.
 
 ## Referencias detectadas
 

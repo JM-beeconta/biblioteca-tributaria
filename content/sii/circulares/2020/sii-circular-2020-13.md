@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2020. Aclara aplicación de información contenida en Circular N° 6 de 2020 Fuente: Oficina de Gestión Normativa.
+n Normativa Informa nuevos límites máximos imponibles para efectos previsionales, vigentes a partir del 1° de febrero de 2020. Aclara aplicación de información contenida en Circular N° 6 de 2020 Fuente: Oficina de Gestión Normativa.
 
 ## Referencias detectadas
 

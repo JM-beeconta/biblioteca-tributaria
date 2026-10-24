@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formularios 1847, 1913 y 1926. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Amplía el plazo para presentar las Declaraciones Juradas formularios 1847, 1913 y 1926. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

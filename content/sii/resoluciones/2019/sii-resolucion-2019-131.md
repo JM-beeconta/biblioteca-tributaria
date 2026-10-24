@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Designa puntos de contacto para efectos que indica. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Designa puntos de contacto para efectos que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

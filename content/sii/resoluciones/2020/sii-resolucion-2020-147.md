@@ -11,7 +11,7 @@
 
 ## Resumen
 
-o de Asesoría Jurídica. Autoriza a la sociedad Transbank S.A. para emitir boleta de ventas y servicios por el &ldquo;servicio operación transacción extranjera&rdquo; en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+o de Asesoría Jurídica. Autoriza a la sociedad Transbank S.A. para emitir boleta de ventas y servicios por el “servicio operación transacción extranjera” en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

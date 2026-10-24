@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Modifica Res. Ex. N° 5856 del 6 de octubre de 1998 que elimina otorgamiento de boletas de honorarios por profesionales y sociedades de profesionales al fondo nacional de salud. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Modifica Res. Ex. N° 5856 del 6 de octubre de 1998 que elimina otorgamiento de boletas de honorarios por profesionales y sociedades de profesionales al fondo nacional de salud. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

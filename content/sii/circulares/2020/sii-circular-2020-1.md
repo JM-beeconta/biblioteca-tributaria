@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2020 y el 9 de febrero de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2020'); }else{ $(location).attr('href', '../' + anyo + '/indcir' +
+n Normativa Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2020 y el 9 de febrero de 2020, ambos inclusive. Fuente: Oficina de Gestión Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/circulares/2012/indcir2012.htm', '_newtab'); $('select#sel_anyo').val('2020'); }else{ $(location).attr('href', '../' + anyo + '/indcir' +
 
 ## Referencias detectadas
 

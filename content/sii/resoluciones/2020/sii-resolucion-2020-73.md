@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Departamente de Asesoría Jurídica.
+n de Asistencia al Contribuyente. Designa secretario titular y suplente en el tribunal especial de alzada de los bienes raíces de la primera serie, con jurisdicción en el territorio de la ilustrísima corte de apelaciones de Concepción. Fuente: Departamente de Asesoría Jurídica.
 
 ## Referencias detectadas
 

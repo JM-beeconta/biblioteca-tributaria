@@ -6,60 +6,82 @@
 - Año: 2017
 - Fecha: 2017-11-06
 - Categoría: Renta
-- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1958.htm
-- Hash SHA-256: 012261e0178c40a399ba42a1cc2f780fa24f0b63ed61307a67a517b954f0c941
+- Fuente oficial: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2399.htm
+- Hash SHA-256: 9c0c458983e227a36edba7793c26b7a2ab52994426ba31a75a39057b150ae8a3
 
 ## Resumen
 
-puesto a la Renta. Renta &ndash; Actual Ley sobre Impuesto a la &ndash; Art. 41G, Letra D), N°6 &ndash; Resolución Exenta N° 120. De 2016 - . (Ord. Nº 1958, de 20-09-2018) |
+s terminos que indica. Renta – Actual Ley sobre Impuesto a la – Art. 41 G, Letra D, N°6 – Circular N° 40, de 2016 – Oficio N° 3106, de 2016. (Ord. Nº 2399, de 06-11-2017) | | Word Rentas pasivas percibidas o devengadas en el ejercicio por entidades controladas en el exterior, a considerar para los fines de apreciar el límite de 2.400 Unidades de Fomento establecido en el N° 6, de la letra D.- del artículo 41 G, de la Ley sobre Impuesto a la Renta (LIR).
 
 ## Referencias detectadas
 
-- {"type":"oficio","number":2399,"year":2017}
+- {"type":"circular","number":40,"year":2016}
+- {"type":"oficio","number":3106,"year":2016}
 - {"type":"articulo","law":"LIR","article":"41 G"}
+- {"type":"articulo","law":"LIR","article":"41 G l"}
+- {"type":"articulo","law":"LIR","article":"41 A"}
+- {"type":"articulo","law":"LIR","article":"2"}
 
 ## Texto extraído
 
-RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41G, LETRA D), N°6 – RESOLUCIÓN EXENTA N° 120. DE 2016 - OFICIO N° 2399, DE 2017. (Ord. Nº 1958, de 20-09-2018)
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 G, LETRA D, N°6 – CIRCULAR N° 40, DE 2016 – OFICIO N° 3106, DE 2016. (Ord. Nº 2399, de 06-11-2017)
 
-RECONOCIMIENTO DE LAS RENTAS PASIVAS EN EL EXTERIOR, CONFORME AL N°6, DE LA LETRA D DEL ARTÍCULO 41 G DE LA LIR, EN RELACIÓN CON EL OFICIO ORD. N°2.399, DE 06.11.2017.
+RENTAS PASIVAS PERCIBIDAS O DEVENGADAS EN EL EJERCICIO POR ENTIDADES CONTROLADAS EN EL EXTERIOR, A CONSIDERAR PARA LOS FINES DE APRECIAR EL LÍMITE DE 2.400 UNIDADES DE FOMENTO ESTABLECIDO EN EL N° 6, DE LA LETRA D.- DEL ARTÍCULO 41 G, DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR).
 
-Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual plantea consultas respecto al contenido del Oficio Ord. N° 2.399, de 2017.
+Se ha recibido en esta Dirección la consulta indicada en el antecedente, mediante la cual y en relación con la disposición contenida en el N° 6, de la letra D.- del artículo 41 G de la LIR, solicita aclarar el criterio a considerar por este Servicio para la aplicación del tope de 2.400 Unidades de Fomento, es decir, si corresponde considerar el ingreso bruto, o el margen o rentabilidad.
 
-I. ANTECEDENTES.
+I.- ANTECEDENTES.
 
-En relación con el Oficio N° 2.399, de fecha 6 de noviembre de 2017, solicita confirmar que de acuerdo a lo que señala su texto, éste se refiere a la forma de determinar el monto de las UF 2400 para efectos de que proceda o no la obligación de presentar la Declaración Jurada N° 1929. Así, solicita confirmar que, para facilitar el cumplimiento tributario de los contribuyentes domiciliados o residentes en Chile, éstos no tendrán obligación de presentar la DJ N°1929 si los ingresos brutos de la entidad en el extranjero son inferiores a UF 2400.
+Señala en su presentación, que el artículo 41 G de la LIR, indica que los contribuyentes o patrimonios de afectación con domicilio, residencia o constituidos en Chile que controlen de forma directa o indirecta entidades sin domicilio ni residencia en el país, deben considerar como devengadas o percibidas las rentas pasivas percibidas o devengadas por dichas entidades controladas, de acuerdo a las reglas que el mismo artículo señala.
 
-Al mismo tiempo, solicita confirmar que el mencionado Oficio no implica que existiendo ingresos brutos superiores a UF 2400, necesariamente deba incluirse la renta pasiva de la sociedad controlada extranjera en la renta líquida imponible de los propietarios domiciliados, establecidos o residentes en Chile, en caso que se configure alguna de las situaciones exceptuadas por la norma. Tal sería el caso si las rentas pasivas representan menos del 10% de los ingresos totales de la entidad controlada, si los activos susceptibles de producir rentas pasivas no exceden de un 20% del valor total de sus activos, si la tasa efectiva que haya gravado la renta pasiva de la entidad controlada hubiese sido igual o superior al 30%, o si las rentas pasivas determinadas de acuerdo a la letra D) del artículo 41 G son inferiores a UF 2400.
+Una de aquellas reglas, contenida en el número 6 de la letra D, indica que las rentas pasivas percibidas o devengadas por las entidades controladas, se considerarán a su vez percibidas o devengadas por sus propietarios constituidos, domiciliados, establecidos o residentes en Chile al cierre del ejercicio de acuerdo a lo que allí se señala.
 
-II. ANÁLISIS.
+Agrega que los contribuyentes constituidos, domiciliados, establecidos o residentes en Chile a que se refiere el artículo, no deben considerar como devengadas las rentas pasivas percibidas o devengadas en el ejercicio por entidades controladas en el exterior cuando no excedan de 2.400 Unidades de Fomento en total al término del ejercicio respectivo.
 
-El N° 6, de la letra D.- del artículo 41 G, de la LIR, dispone que &ldquo; Los contribuyentes constituidos, domiciliados, establecidos o residentes en Chile a que se refiere este artículo, no deberán considerar como devengadas las rentas pasivas percibidas o devengadas en el ejercicio por entidades controladas en el exterior, cuando no excedan de 2.400 Unidades de Fomento en total al término del ejercicio respectivo.&rdquo;
+Señalado lo anterior, al momento de aplicar esta última regla para presentar la Declaración Jurada N°1929, surge la duda de cómo determinar las rentas pasivas para el tope de 2.400 Unidades de Fomento. Esto debido a que en la norma citada no se indica si para ello se debe considerar el margen de la inversión en el extranjero o los ingresos brutos de la misma.
 
-A su vez, la Resolución Ex. SII N° 120, de fecha 26 de diciembre de 2016, modificada por la Resolución Ex. SII N° 105, de fecha 17 de octubre de 2017, dispuso que los contribuyentes con domicilio o residencia en Chile y los establecimientos permanentes en Chile de entidades extranjeras o personas no residentes, que realicen una inversión en el exterior, o a quienes les resulten atribuibles rentas del exterior deberán informar en la Declaración Jurada N° 1929, las siguientes operaciones: &ldquo;b) Inversiones en el exterior en entidades extranjeras controladas a las que se refiere el artículo 41 G.- de la LIR, independientemente de si éstas hubieran o no percibido o devengado rentas pasivas durante el ejercici o;&rdquo;. Además, se deberán informar las siguientes cantidades: &ldquo;b) Rentas pasivas percibidas o devengadas por una entidad extranjera controlada;&rdquo;
+Para explicar esto, propone el caso de una venta de acciones. La venta se realiza por $650.000.000, y el costo asociado a la venta es de $617.500.000, dejando un margen o rentabilidad de $32.500.000. En este caso, si se considera el ingreso bruto ($ 650.000.000), la venta sobrepasa el tope indicado, obligando a tributar sobre base devengada. En cambio, si se toma el margen de la operación ($ 32.500.000), no califica la venta como renta pasiva.
 
-Como se puede apreciar, la citada Resolución establece el deber de informar en la DJ N° 1929 para los contribuyentes que tengan inversiones en el exterior en entidades extranjeras controladas a las que se refiere el artículo 41 G de la LIR, deber que no se encuentra supeditado a que en definitiva se graven las rentas pasivas.
+Por lo tanto, solicita aclarar el criterio a considerar por el Servicio para la aplicación del tope de 2.400 Unidades de Fomento, es decir, si corresponde considerar el ingreso bruto, o el margen o rentabilidad.
 
-Por otra parte, y en relación a la segunda consulta, el artículo 41 G, señala expresamente que &ldquo; Lo dispuesto en este artículo se aplicará sólo cuando las rentas pasivas de la entidad controlada excedan del 10% de los ingresos totales de aquella, en el ejercicio que corresponda. Sin perjuicio de lo anterior, no se aplicará lo dispuesto en este artículo cuando el valor de los activos de la entidad controlada susceptibles de producir rentas pasivas, considerados proporcionalmente según su permanencia en el ejercicio, no exceda de un 20% del valor total de sus activos, determinado también proporcionalmente en la forma señalada. Tampoco se aplicará cuando las rentas pasivas de la entidad controlada se hayan gravado con impuestos a la renta cuya tasa efectiva sea igual o superior a un 30% en el país donde se encuentra domiciliada, establecida o constituida dicha entidad, conforme a las normas que ahí se apliquen.&rdquo;
+II.- ANÁLISIS.
 
-Conforme al citado texto, cuando las rentas pasivas percibidas o devengadas por las entidades extranjeras controladas, correspondan a las situaciones indicadas en el párrafo precedente, éstas no se verán afectadas por la tributación establecida en el artículo 41 G de la LIR, independiente del monto de éstas.
+1. Sobre el particular cabe indicar en primer término, que el N° 6, de la letra D.- del artículo 41 G, de la LIR, dispone lo siguiente:
 
-Por otra parte, el estudio de los antecedentes hace necesario rectificar el criterio establecido en el Oficio N° 2.399 de 2017, en el sentido de que para apreciar el cumplimiento del límite de 2.400 UF que establece el número 6 de la letra D del artículo 41 G de la LIR, se deben considerar las rentas pasivas de la entidad controlada en el extranjero, computándolas de la misma forma en que se determinan las rentas líquidas imponibles del Impuesto de Primera Categoría.
+“6. Los contribuyentes constituidos, domiciliados, establecidos o residentes en Chile a que se refiere este artículo, no deberán considerar como devengadas las rentas pasivas percibidas o devengadas en el ejercicio por entidades controladas en el exterior, cuando no excedan de 2.400 Unidades de Fomento en total al término del ejercicio respectivo.”
 
-III. CONCLUSIÓN.
+2. Por su parte, las instrucciones [1] que sobre el particular impartió el Servicio, señalan en lo pertinente lo siguiente:
 
-La Resolución Ex. N° 120 de 2016, establece el deber de informar al Servicio en la DJ N° 1929 las &ldquo; Inversiones en el exterior en entidades extranjeras controladas a las que se refiere el artículo 41 G.- de la LIR&rdquo;, para los contribuyentes que tengan dichas inversiones en el exterior, deber que no se encuentra supeditado a que en definitiva se graven las rentas pasivas.
+“3. Rentas que se excluyen de la calificación de rentas pasivas. La norma excluye de la calificación de rentas pasivas a las obtenidas en las siguientes situaciones:
 
-Respecto al segundo planteamiento, se confirma su criterio, en el sentido de que, existiendo rentas pasivas superiores a UF 2400, no necesariamente deben éstas incluirse en la renta líquida imponible de los propietarios domiciliados, establecidos o residentes en Chile, en caso que se configure alguna otra causal de exclusión establecida por el artículo 41 G de la LIR.
+(...)
 
-Por último, se establece que para apreciar el cumplimiento del límite de 2.400 UF que establece el número 6 de la letra D del artículo 41 G de la LIR, se deben considerar las rentas pasivas de la entidad controlada en el extranjero, computándolas de la misma forma en que se determinan las rentas líquidas imponibles del Impuesto de Primera Categoría.
+d) El artículo 41 G letra D N°6 de la LIR, establece que no deberán considerar devengadas las rentas pasivas percibidas o devengadas en el ejercicio por entidades controladas en el exterior, cuando no excedan de 2.400 Unidades de Fomento en total, al término del ejercicio respectivo.
+
+Respecto de esta causal de exclusión, cada controlador deberá determinar al término del ejercicio correspondiente, si las rentas pasivas totales que le corresponde reconocer en Chile de acuerdo a su porcentaje de participación en todas las entidades que controle, excede o no las 2.400 Unidades de Fomento.
+
+Para acreditar este supuesto, el contribuyente deberá tener presente las normas probatorias generales, y además, las exigidas en el país, territorio o jurisdicción de que se trate, para acreditar los actos y contratos allí efectuados.
+
+Sin perjuicio de la exclusión contenida en el N°6 de la letra D antes indicada, en caso que las rentas excedan la suma referida, deberá considerarse el total de ellas. Para estos efectos, las rentas pasivas se convertirán cuando corresponda, a moneda nacional de acuerdo con el tipo de cambio dispuesto en el N° 1, de la letra D, del artículo 41 A de la LIR, vigente al término del ejercicio en Chile, y luego, se convertirán al valor de la UF determinado al término del ejercicio.”
+
+3. Por último, cabe indicar que a través de su jurisprudencia [2] el Servicio ha sostenido que:
+
+“Los conceptos de renta percibida o devengada utilizados en el artículo 41 G de la LIR, para efectos del reconocimiento de las rentas pasivas en los términos que establece dicha disposición legal, por parte de las empresas controladas en el exterior, como también por sus controladores contribuyentes o patrimonios de afectación con domicilio, residencia o constituidos en Chile, corresponden a los definidos en los números 2 y 3, del artículo 2°, de la Ley de la Renta.”
+
+III.- CONCLUSIÓN.
+
+Atendido el tenor de la disposición de la LIR en análisis y de las instrucciones y jurisprudencia del Servicio indicadas precedentemente, cabe expresar, que para los fines de la apreciación del cumplimiento del requisito establecido en el N° 6, de la letra D.- del artículo 41 G, de la LIR, se debe considerar las rentas percibidas o devengadas según la definición que de dichos conceptos establecen respectivamente los números 2 y 3 del artículo 2° de la LIR. En consecuencia, teniendo en consideración lo señalado, sólo cabe concluir que para los fines de apreciar el cumplimiento del límite de 2.400 U.F. que establece la norma en análisis se debe considerar el ingreso bruto, pues ésta es la suma que se percibe o devenga.
 
 FERNANDO BARRAZA LUENGO
 
 DIRECTOR
 
-Oficio N° 1958, de 20.09.2018
+Oficio N° 2399, de 06.11.2017
 
 Subdirección Normativa
 
 Dpto. de Impuestos Directos
+
+[1] Circular N° 40, de 08.07.2016.
+
+[2] Oficio N° 3.106, de 18.11.2016.

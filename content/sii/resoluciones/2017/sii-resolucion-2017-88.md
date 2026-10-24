@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fiscalización Aprueba protocolo de colaboración &ldquo;Red de Academias, Escuelas y Programas de Servicios Públicos&rdquo;, entre el Servicio de Impuestos Internos y el Servicio Civil. Fuente: Subdirección de Desarrollo de Personas
+Fiscalización Aprueba protocolo de colaboración “Red de Academias, Escuelas y Programas de Servicios Públicos”, entre el Servicio de Impuestos Internos y el Servicio Civil. Fuente: Subdirección de Desarrollo de Personas
 
 ## Referencias detectadas
 

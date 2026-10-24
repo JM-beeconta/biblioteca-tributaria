@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado en las leyes N° 20.899... Fuente: Subdirección Normativa.
+n Normativa. Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado en las leyes N° 20.899... Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

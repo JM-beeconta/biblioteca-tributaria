@@ -11,7 +11,7 @@
 
 ## Resumen
 
-acute;n Normativa. Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2020. Reemplaza la Circular N°43 de 2016. Fuente: Subdirección Normativa.
+n Normativa. Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2020. Reemplaza la Circular N°43 de 2016. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

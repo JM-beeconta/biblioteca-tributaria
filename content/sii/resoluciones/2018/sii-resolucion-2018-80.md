@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Amplía autorización a SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A. RUT N° 96.556.930-8. Complementa Resolución Exenta SII N°166 de 04.11.2010, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Amplía autorización a SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A. RUT N° 96.556.930-8. Complementa Resolución Exenta SII N°166 de 04.11.2010, en los términos que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

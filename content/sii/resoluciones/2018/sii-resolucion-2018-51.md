@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n De Asistencia al Contribuyente Actualiza resolución exenta SII N° 126, de 27.12.2016, en lo que dice relación con los contribuyentes obligados a presentar la declaración jurada anual sobre precios de transferencia, atendida la derogación del Artículo 41 D y la modificación del artículo 41 E, ambos de la Ley sobre Impuesto a la Renta, efectuadas por la Ley N° 21.047. Fuente: Subdirección de Fiscalización
+n De Asistencia al Contribuyente Actualiza resolución exenta SII N° 126, de 27.12.2016, en lo que dice relación con los contribuyentes obligados a presentar la declaración jurada anual sobre precios de transferencia, atendida la derogación del Artículo 41 D y la modificación del artículo 41 E, ambos de la Ley sobre Impuesto a la Renta, efectuadas por la Ley N° 21.047. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

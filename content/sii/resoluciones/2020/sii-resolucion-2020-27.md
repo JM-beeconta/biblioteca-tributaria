@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza al notario público de Osorno, Sr. Abdallah Fernandez Atuez, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza al notario público de Osorno, Sr. Abdallah Fernandez Atuez, para emitir boletas de honorarios electrónicas, en la forma que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

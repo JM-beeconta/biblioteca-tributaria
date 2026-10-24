@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias. Fuente: Subdirección Normativa.
+n de Asistencia al Contribuyente. Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias. Fuente: Subdirección Normativa.
 
 ## Referencias detectadas
 

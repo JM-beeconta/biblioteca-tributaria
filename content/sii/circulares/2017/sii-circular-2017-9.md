@@ -11,7 +11,7 @@
 
 ## Resumen
 
-oacute;n Normativa Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catástrofe nacional ocurrida a raíz de la multiplicidad de incendios producidos en el país. Fuente: Impuestos Directos
+n Normativa Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catástrofe nacional ocurrida a raíz de la multiplicidad de incendios producidos en el país. Fuente: Impuestos Directos
 
 ## Referencias detectadas
 
