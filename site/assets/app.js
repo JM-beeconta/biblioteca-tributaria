@@ -98,13 +98,24 @@ function matchesFilters(doc) {
   return true;
 }
 
+// A igual relevancia, primero lo que rige hoy, después lo que rige más adelante (vigencia diferida)
+// y al final las versiones que ya no rigen: ordenar sólo por fecha ponía arriba la LIR de 2029.
+const TODAY = new Date().toISOString().slice(0, 10);
+
+function vigenciaTier(doc) {
+  if (doc.source !== 'BCN') return 0;
+  if (doc.deferred_by_event || (doc.valid_from && doc.valid_from > TODAY)) return 1;
+  if (doc.valid_to && doc.valid_to < TODAY) return 2;
+  return 0;
+}
+
 function rankedResults() {
   const q = els.search.value.trim();
   return docs
     .filter(matchesFilters)
-    .map((doc) => ({ doc, rank: score(doc, q) }))
+    .map((doc) => ({ doc, rank: score(doc, q), tier: vigenciaTier(doc) }))
     .filter((x) => x.rank > 0)
-    .sort((a, b) => b.rank - a.rank || String(b.doc.date || '').localeCompare(String(a.doc.date || '')));
+    .sort((a, b) => b.rank - a.rank || a.tier - b.tier || String(b.doc.date || '').localeCompare(String(a.doc.date || '')));
 }
 
 function render() {
