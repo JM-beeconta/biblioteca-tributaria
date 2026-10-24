@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Instruye sobre la forma de acreditar el cumplimiento de obligaciones tributarias y las situaciones que se considerarán como incumplimiento para los efectos del inciso decimosegundo del artículo 68 del Código Tributario. Crea certificado que indica. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Instruye sobre la forma de acreditar el cumplimiento de obligaciones tributarias y las situaciones que se considerarán como incumplimiento para los efectos del inciso decimosegundo del artículo 68 del Código Tributario. Crea certificado que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

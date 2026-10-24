@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

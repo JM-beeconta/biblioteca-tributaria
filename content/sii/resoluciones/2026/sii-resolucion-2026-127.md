@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Deja sin efecto resolución exenta n°16 de 2026, que aprobó la solicitud de acceso a la interfaz de programación de aplicaciones (api) "inicio de actividades". Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Deja sin efecto resolución exenta n°16 de 2026, que aprobó la solicitud de acceso a la interfaz de programación de aplicaciones (api) "inicio de actividades". Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

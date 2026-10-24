@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Crea registro especial de instituciones de beneficencia vendedoras de bienes usados y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Crea registro especial de instituciones de beneficencia vendedoras de bienes usados y fija procedimiento de inscripción. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

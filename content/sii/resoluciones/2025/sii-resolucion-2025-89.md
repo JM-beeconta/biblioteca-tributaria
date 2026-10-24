@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Otorga condonación sobre los intereses y multas infraccionales en los casos que se indican Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

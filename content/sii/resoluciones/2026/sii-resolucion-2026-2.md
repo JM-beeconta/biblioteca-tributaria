@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 02 del 07 de Enero del 2026 Implementa firma digital centralizada para la emisión de boletas electrónicas a través del sistema gratuito del sii Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Resolución Exenta SII N° 02 del 07 de Enero del 2026 Implementa firma digital centralizada para la emisión de boletas electrónicas a través del sistema gratuito del sii Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

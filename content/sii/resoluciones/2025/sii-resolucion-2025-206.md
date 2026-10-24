@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Designa y establece funciones del encargado de la implementación de modificaciones que la Ley Nº 21.719 incorpora en la Ley Nº 19.628 Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
+n de Asistencia al Contribuyente. Designa y establece funciones del encargado de la implementación de modificaciones que la Ley Nº 21.719 incorpora en la Ley Nº 19.628 Fuente: Subdirección de Gestión Estratégica y Estudios Tributarios.
 
 ## Referencias detectadas
 

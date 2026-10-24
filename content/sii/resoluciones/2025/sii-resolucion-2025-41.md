@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de asistencia al contribuyente Dispone forma de suscripción de la declaración jurada exigida por las circulares n° 39 de 1991 y n° 27 de 2007. Fuente: Subdirección de Fiscalización
+n de asistencia al contribuyente Dispone forma de suscripción de la declaración jurada exigida por las circulares n° 39 de 1991 y n° 27 de 2007. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

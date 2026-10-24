@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 03 de Enero del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 02 del 03 de Enero del 2025 Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

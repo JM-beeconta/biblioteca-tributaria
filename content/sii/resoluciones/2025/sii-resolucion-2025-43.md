@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Regula procedimiento para el ejercicio de la facultad de acceso a la información bancaria de que tratan los artículos 62 y 62 bis del código tributario. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Regula procedimiento para el ejercicio de la facultad de acceso a la información bancaria de que tratan los artículos 62 y 62 bis del código tributario. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

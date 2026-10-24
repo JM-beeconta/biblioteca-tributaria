@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección Jurídica. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización.
+Subdirección Jurídica. Ajusta nómina “contribuyentes IVA SD afectos a cambio de sujeto” que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

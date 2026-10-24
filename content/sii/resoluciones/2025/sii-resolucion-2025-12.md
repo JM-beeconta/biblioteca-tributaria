@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece la obligación de entregar representación impresa o virtual de la boleta electrónica y del comprobante de pago electrónico, en las condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Establece la obligación de entregar representación impresa o virtual de la boleta electrónica y del comprobante de pago electrónico, en las condiciones que se indican. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 07 de Enero del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Modifica la Resolución N°80, de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 03 del 07 de Enero del 2025 Autoriza como receptor electrónico de documentos tributarios electrónicos a organismo público que indica. Modifica la Resolución N°80, de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-: Subdirección de avaluaciones Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Colina Fuente: Subdirección de avaluaciones
+: Subdirección de avaluaciones Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Colina Fuente: Subdirección de avaluaciones
 
 ## Referencias detectadas
 

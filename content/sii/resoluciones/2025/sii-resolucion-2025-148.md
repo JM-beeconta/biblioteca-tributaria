@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Delega facultad que indica en el funcionario que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

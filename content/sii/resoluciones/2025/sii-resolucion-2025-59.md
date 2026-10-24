@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para efectuar denuncias anónimas de conformidad al artículo 100 quáter del código tributario Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Establece procedimiento para efectuar denuncias anónimas de conformidad al artículo 100 quáter del código tributario Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

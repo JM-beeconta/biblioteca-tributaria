@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de las obligaciones establecidas en la resolución ex. SII N° 154 de 2025, que fija exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de las obligaciones establecidas en la resolución ex. SII N° 154 de 2025, que fija exigencias sobre las facturas y guías de despacho que amparan el traslado de bienes corporales muebles. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Instruye sobre la forma en que los órganos de la administración del estado, operadores y otras entidades que se indican, deberán verificar el cumplimiento del inciso décimo segundo y décimo tercero del artículo 68 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Instruye sobre la forma en que los órganos de la administración del estado, operadores y otras entidades que se indican, deberán verificar el cumplimiento del inciso décimo segundo y décimo tercero del artículo 68 del Código Tributario. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

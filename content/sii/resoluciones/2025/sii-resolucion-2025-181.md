@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Avaluaciones. Fija nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; a que se refiere la Resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley Sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
+Subdirección de Avaluaciones. Fija nómina “contribuyentes IVA SD afectos a cambio de sujeto” a que se refiere la Resolución Ex. SII N° 46 de 2022, respecto de cuyos servicios se retendrá el impuesto al valor agregado conforme al inciso 7° del artículo 3° de la Ley Sobre Impuesto a las Ventas y Servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

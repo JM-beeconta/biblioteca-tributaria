@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Iquique. Fuente: Subdirección de Avaluaciones.
+Subdirección de Avaluaciones. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Iquique. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

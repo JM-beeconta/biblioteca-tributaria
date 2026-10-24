@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de asistencia al contribuyente Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
+n de asistencia al contribuyente Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

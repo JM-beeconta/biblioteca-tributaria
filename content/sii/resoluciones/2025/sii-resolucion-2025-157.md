@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Pedro Aguirre Cerda. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Pedro Aguirre Cerda. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

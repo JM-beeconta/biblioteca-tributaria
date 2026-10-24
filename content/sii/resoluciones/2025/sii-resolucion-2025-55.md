@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de asistencia al contribuyente Imparte instrucciones sobre el procedimiento de fiscalización unificado del artículo 59 ter del código tributario. Fuente: Subdirección de fiscalización
+n de asistencia al contribuyente Imparte instrucciones sobre el procedimiento de fiscalización unificado del artículo 59 ter del código tributario. Fuente: Subdirección de fiscalización
 
 ## Referencias detectadas
 

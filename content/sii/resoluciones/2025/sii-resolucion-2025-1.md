@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 02 de Enero del 2025 Crea registro de pequeños artesanos exonerados de IVA en las ventas de productos que elaboren con materias primas. Fuente: Subdirección Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_any…
+n de Asistencia al Contribuyente. Resolución Exenta SII N° 01 del 02 de Enero del 2025 Crea registro de pequeños artesanos exonerados de IVA en las ventas de productos que elaboren con materias primas. Fuente: Subdirección Normativa function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm', '_newtab'); $('select#sel_anyo').…
 
 ## Referencias detectadas
 

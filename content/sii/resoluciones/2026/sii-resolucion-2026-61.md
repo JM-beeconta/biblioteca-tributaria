@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución exenta SII N° 94 de 2024, y reemplaza formato, contenido e instrucciones de la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero, formulario N° 1958. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica resolución exenta SII N° 94 de 2024, y reemplaza formato, contenido e instrucciones de la declaración jurada anual sobre cuentas financieras relacionadas con personas con residencia tributaria en el extranjero, formulario N° 1958. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

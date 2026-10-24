@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente Imparte instrucciones sobre las modificaciones incorporadas por la Ley N° 21.713 en el artículo 9° del Código Tributario. Modifica la Circular N° 4 de 2022. Fuente: Subdirección Jurídica
+n de Asistencia al Contribuyente Imparte instrucciones sobre las modificaciones incorporadas por la Ley N° 21.713 en el artículo 9° del Código Tributario. Modifica la Circular N° 4 de 2022. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

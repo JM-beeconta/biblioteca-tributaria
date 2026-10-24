@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Complementa listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Complementa listado anexo de la Resolución Ex. N° 7 de 2025 Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

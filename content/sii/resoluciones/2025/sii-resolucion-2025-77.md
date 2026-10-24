@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece procedimiento para la obtención de Rut e inicio de actividades Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Establece procedimiento para la obtención de Rut e inicio de actividades Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

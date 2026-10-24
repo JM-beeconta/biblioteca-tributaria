@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;N DE ASISTENCIA AL CONTRIBUYENTE Delega facultades en el Subdirector de Asistencia al Contribuyente en la materia que indica y deja sin efecto la Resolución Exenta SII N° 71, de 19.07.2016. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+N DE ASISTENCIA AL CONTRIBUYENTE Delega facultades en el Subdirector de Asistencia al Contribuyente en la materia que indica y deja sin efecto la Resolución Exenta SII N° 71, de 19.07.2016. Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 ## Referencias detectadas
 

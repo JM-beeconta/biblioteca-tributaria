@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Asistencia al Contribuyente y establece sus ámbitos de competencia. Deja sin efecto la Resolución Exenta SII N° 128 de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Asistencia al Contribuyente y establece sus ámbitos de competencia. Deja sin efecto la Resolución Exenta SII N° 128 de 2024. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

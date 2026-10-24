@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones de atacama, coquimbo, valparaíso, metropolitana de santiago, libertador general bernardo o&rsquo;higgins, maule, ñuble, biobío, la araucanía y los ríos. Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autoriza el uso de documentos tributarios en papel a los contribuyentes de las regiones de atacama, coquimbo, valparaíso, metropolitana de santiago, libertador general bernardo o’higgins, maule, ñuble, biobío, la araucanía y los ríos. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

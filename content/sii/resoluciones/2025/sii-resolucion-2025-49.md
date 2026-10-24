@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Tramitación de las autodenuncias conforme al artículo 100 sexies del Código Tributario. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Tramitación de las autodenuncias conforme al artículo 100 sexies del Código Tributario. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

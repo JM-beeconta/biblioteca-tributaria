@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

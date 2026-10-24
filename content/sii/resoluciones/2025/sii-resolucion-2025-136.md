@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Tecnologías de la Información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 136, de 2023. Fuente: Subdirección de Tecnologías de la Información
+n de Asistencia al Contribuyente. Reorganiza las unidades que conforman el departamento Subdirección de Tecnologías de la Información y establece sus ámbitos de competencia. Deja sin efecto resolución Ex. N° 136, de 2023. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

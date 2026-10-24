@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2027 Fuente: Subdirección Fiscalización
+n de Asistencia al Contribuyente Fija las fechas de vencimiento para la presentación de declaraciones juradas que se indican, para el año tributario 2027 Fuente: Subdirección Fiscalización
 
 ## Referencias detectadas
 

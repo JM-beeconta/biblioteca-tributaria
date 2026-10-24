@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de Mercadolibre Chile Ltda. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autorización excepcional para emisión de guías de despacho electrónicas con glosa general en traslados de mercadería entre bodegas de Mercadolibre Chile Ltda. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

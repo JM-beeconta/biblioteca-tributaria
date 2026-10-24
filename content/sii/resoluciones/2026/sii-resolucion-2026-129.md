@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Delega facultad que indica Fuente: Subdirección de Tecnologías de la Información
+n de Asistencia al Contribuyente Delega facultad que indica Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

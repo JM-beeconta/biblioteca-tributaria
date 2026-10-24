@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a CONECTADOS SPA, Rut N° 76.832.409-3, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a CONECTADOS SPA, Rut N° 76.832.409-3, para operar un sistema de intermediación electrónico en la venta de colaciones. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

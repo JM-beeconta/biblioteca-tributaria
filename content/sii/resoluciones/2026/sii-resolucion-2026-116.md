@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Reemplaza formato, contenido e instrucciones de declaraciones juradas contenidas en las resoluciones que se indican. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente Reemplaza formato, contenido e instrucciones de declaraciones juradas contenidas en las resoluciones que se indican. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

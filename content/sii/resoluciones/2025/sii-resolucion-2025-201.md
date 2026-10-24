@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Modifica la Resolución N°158, de 2025. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a proceder conforme al modelo de operación de contabilidad electrónica a los contribuyentes que señala. Modifica la Resolución N°158, de 2025. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

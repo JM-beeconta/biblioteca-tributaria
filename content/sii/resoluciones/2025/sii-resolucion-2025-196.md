@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

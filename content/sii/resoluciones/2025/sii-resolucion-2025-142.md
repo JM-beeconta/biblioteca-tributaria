@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Modifica la resolucion n° 93 de 2025 que regula la declaración y pago del iva por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Modifica la resolucion n° 93 de 2025 que regula la declaración y pago del iva por parte de vendedores remotos y operadores de plataformas digitales de intermediación conforme al régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ección de Fiscalización Ajusta nómina &ldquo;contribuyentes iva sd afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización
+ección de Fiscalización Ajusta nómina “contribuyentes iva sd afectos a cambio de sujeto” que rige entre el 1° de enero y el 31 de diciembre de 2025. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

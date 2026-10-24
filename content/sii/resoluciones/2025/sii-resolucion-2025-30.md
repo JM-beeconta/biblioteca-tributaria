@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija nómina de territorios o jurisdicciones que tienen un régimen fiscal preferencial, conforme al Artículo 41 H de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Fija nómina de territorios o jurisdicciones que tienen un régimen fiscal preferencial, conforme al Artículo 41 H de la Ley sobre Impuesto a la Renta Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Revóquese la obligación de aplicar el sistema de trazabilidad establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, a los contribuyentes que indica. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Revóquese la obligación de aplicar el sistema de trazabilidad establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, a los contribuyentes que indica. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

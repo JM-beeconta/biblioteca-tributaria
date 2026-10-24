@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;N DE ASISTENCIA AL CONTRIBUYENTE Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+N DE ASISTENCIA AL CONTRIBUYENTE Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos Fuente: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 ## Referencias detectadas
 

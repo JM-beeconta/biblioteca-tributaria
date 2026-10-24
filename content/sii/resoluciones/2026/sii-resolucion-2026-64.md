@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin efecto la Resolución Exenta SII N°54, de 30.04.2025. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin efecto la Resolución Exenta SII N°54, de 30.04.2025. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

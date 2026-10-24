@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Complementa resolución ex. Sii n° 95, de 2026 Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Complementa resolución ex. Sii n° 95, de 2026 Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

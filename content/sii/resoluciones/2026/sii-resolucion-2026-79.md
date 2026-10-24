@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifícase la Resolución Ex. SII N° 179 de 2025, que crea el registro de ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Modifícase la Resolución Ex. SII N° 179 de 2025, que crea el registro de ferias libres. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

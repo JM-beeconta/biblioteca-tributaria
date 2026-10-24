@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al servicio de impuestos internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Modifica resolución Ex. SII N° 123 de 2019, que establece forma y plazo para que las municipalidades informen al servicio de impuestos internos la nómina de bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, a que se refiere el artículo 8° de la Ley N° 17.235. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

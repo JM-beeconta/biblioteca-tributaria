@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-23T23:10:11.324Z",
-  "total_documents": 15703,
+  "generated_at": "2026-10-24T00:14:40.273Z",
+  "total_documents": 15710,
   "by_source": {
     "BCN": 5150,
-    "SII": 10553
+    "SII": 10560
   },
   "by_type": {
     "articulo": 4717,
     "norma": 433,
-    "resolucion": 2009,
-    "circular": 871,
-    "oficio": 7673
+    "resolucion": 2015,
+    "oficio": 7674,
+    "circular": 871
   },
   "by_year": {
     "1965": 99,
@@ -66,7 +66,7 @@
     "2023": 695,
     "2024": 449,
     "2025": 598,
-    "2026": 1141,
+    "2026": 1148,
     "2027": 248,
     "2029": 164,
     "sin-fecha": 194
@@ -86,91 +86,8 @@
     "RIVA",
     "LRM"
   ],
-  "mode": "weekly",
-  "years": [
-    2026,
-    2025
-  ],
-  "touched_documents": 4859,
-  "last_scrape_at": "2026-10-23T23:10:10.049Z",
-  "bcn_coverage": {
-    "base": [
-      {
-        "code": "LIR",
-        "ok": true,
-        "future_versions": [
-          "2026-11-01",
-          "2027-01-01",
-          "2029-01-01"
-        ],
-        "future_stored": [
-          "2026-11-01",
-          "2027-01-01",
-          "2029-01-01"
-        ]
-      },
-      {
-        "code": "LIVS",
-        "ok": true,
-        "future_versions": [
-          "2222-02-02"
-        ],
-        "future_stored": [
-          "2222-02-02"
-        ]
-      },
-      {
-        "code": "CT",
-        "ok": true,
-        "future_versions": [
-          "2026-11-01"
-        ],
-        "future_stored": [
-          "2026-11-01"
-        ]
-      },
-      {
-        "code": "LTE",
-        "ok": true,
-        "future_versions": [],
-        "future_stored": []
-      },
-      {
-        "code": "LIHD",
-        "ok": true,
-        "future_versions": [],
-        "future_stored": []
-      },
-      {
-        "code": "RIVA",
-        "ok": true,
-        "future_versions": [],
-        "future_stored": []
-      },
-      {
-        "code": "LRM",
-        "ok": true,
-        "future_versions": [
-          "2026-11-01",
-          "2027-01-01",
-          "2222-02-02"
-        ],
-        "future_stored": [
-          "2026-11-01",
-          "2027-01-01",
-          "2222-02-02"
-        ]
-      }
-    ],
-    "modifiers_expected": 127,
-    "modifiers_stored": 127,
-    "missing": [],
-    "listing_errors": [],
-    "unavailable_in_leychile": [
-      {
-        "modifies": "LTE",
-        "label": "Decreto 1344 EXENTO"
-      }
-    ]
-  }
+  "mode": "backfill:Gapfill-2025-2026",
+  "last_scrape_at": "2026-10-24T00:14:39.435Z",
+  "touched_documents": 960,
+  "backfill_status": "running"
 }

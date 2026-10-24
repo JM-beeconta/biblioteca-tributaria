@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;N DE ASISTENCIA AL CONTRIBUYENTE Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
+N DE ASISTENCIA AL CONTRIBUYENTE Delega facultad que indica en la funcionaria que se individualiza Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

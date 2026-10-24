@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Delega facultad que indica. Fuente: Subdirección Desarrollo de las Personas
+n de Asistencia al Contribuyente. Delega facultad que indica. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

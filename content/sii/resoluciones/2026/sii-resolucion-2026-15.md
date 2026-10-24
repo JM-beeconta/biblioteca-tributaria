@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Aprueba acuerdo de cooperación con grupo empresarial enel Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente Aprueba acuerdo de cooperación con grupo empresarial enel Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

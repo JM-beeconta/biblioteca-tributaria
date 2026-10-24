@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Autorización excepcional a contribuyente que se indica para dar cumplimiento a las obligaciones establecidas en la resolución ex. Sii n° 36 de 2024 en las condiciones que se señalan Fuente: Subdirección de Asistencia al Contribuyente
+n de Asistencia al Contribuyente Autorización excepcional a contribuyente que se indica para dar cumplimiento a las obligaciones establecidas en la resolución ex. Sii n° 36 de 2024 en las condiciones que se señalan Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 

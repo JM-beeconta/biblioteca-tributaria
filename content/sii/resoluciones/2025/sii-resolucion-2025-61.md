@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de asistencia al contribuyente Determina que los emiratos árabes unidos no tiene un régimen fiscal preferencial para efectos de la ley sobre impuesto a la renta, en conformidad a lo señalado en el artículo 41 h. Fuente: Subdirección de Fiscalización
+n de asistencia al contribuyente Determina que los emiratos árabes unidos no tiene un régimen fiscal preferencial para efectos de la ley sobre impuesto a la renta, en conformidad a lo señalado en el artículo 41 h. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a la interfaz de programación de aplicaciones (API) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

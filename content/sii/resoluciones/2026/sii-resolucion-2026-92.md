@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza acceso a los servicios de interoperabilidad cartografía digital &ldquo;Sii-mapas&rdquo; a la Ilustre Municipalidad de Chonchi. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Autoriza acceso a los servicios de interoperabilidad cartografía digital “Sii-mapas” a la Ilustre Municipalidad de Chonchi. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

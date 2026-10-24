@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica, al contribuyente que señala. Fuente: Subdirección de asistencia al contribuyente
+n de Asistencia al Contribuyente. Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica, al contribuyente que señala. Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

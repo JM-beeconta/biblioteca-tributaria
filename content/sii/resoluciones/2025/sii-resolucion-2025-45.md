@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija contenido, forma y plazo para dar cumplimiento a la obligación de informar de la superintendencia del medio ambiente, respecto de los proyectos de inversión, en el contexto de la contribución para el desarrollo regional. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente. Fija contenido, forma y plazo para dar cumplimiento a la obligación de informar de la superintendencia del medio ambiente, respecto de los proyectos de inversión, en el contexto de la contribución para el desarrollo regional. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

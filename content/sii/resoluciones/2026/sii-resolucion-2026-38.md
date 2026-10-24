@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Incorpora nuevos códigos al Formulario N°29 de declaración mensual y pago simultáneo de impuestos para operaciones documentadas mediante liquidaciones‑facturas. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Incorpora nuevos códigos al Formulario N°29 de declaración mensual y pago simultáneo de impuestos para operaciones documentadas mediante liquidaciones‑facturas. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

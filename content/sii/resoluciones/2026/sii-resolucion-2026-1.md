@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 01 del 05 de Enero del 2026 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.…
+n de Asistencia al Contribuyente Resolución Exenta SII N° 01 del 05 de Enero del 2026 Autoriza a la entidad que indica para incorporarse al registro de operadores de medios de pago electrónicos para ferias libres. Fuente: Subdirección de Asistencia al Contribuyente. function ir_anyo(){ var anyo = $('select#sel_anyo').val() var archivo = 'res_ind***_ANYO_***.htm'; archivo = archivo.replace('***_ANYO_***', anyo); if(anyo == 'ANTERIORES'){ window.open('https://www.sii.cl/documentos/resoluciones/2012/res_ind2012.htm',…
 
 ## Referencias detectadas
 

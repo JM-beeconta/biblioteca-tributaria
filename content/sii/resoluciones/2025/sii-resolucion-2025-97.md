@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución exenta SII N° 146, de 2020, sobre delegación de facultades y asignación de funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración.
+n de Asistencia al Contribuyente. Modifica resolución exenta SII N° 146, de 2020, sobre delegación de facultades y asignación de funciones, en las jefaturas y materias que indica. Fuente: Subdirección de Administración.
 
 ## Referencias detectadas
 

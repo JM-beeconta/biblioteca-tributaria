@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Reemplaza anexos I y II de la resolución EX. SII N°77, de 2025. Fuente: Subdirección Jurídica.
+n de Asistencia al Contribuyente. Reemplaza anexos I y II de la resolución EX. SII N°77, de 2025. Fuente: Subdirección Jurídica.
 
 ## Referencias detectadas
 

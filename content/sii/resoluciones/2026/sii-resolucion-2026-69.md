@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Habilita sistema para que contribuyentes sin domicilio ni residencia en chile que presten servicios de apuestas, juegos de azar, casinos y de servicios análogos o conexos, prestados en línea o a través de plataformas digitales, cumplan obligaciones tributarias que indica. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente. Habilita sistema para que contribuyentes sin domicilio ni residencia en chile que presten servicios de apuestas, juegos de azar, casinos y de servicios análogos o conexos, prestados en línea o a través de plataformas digitales, cumplan obligaciones tributarias que indica. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

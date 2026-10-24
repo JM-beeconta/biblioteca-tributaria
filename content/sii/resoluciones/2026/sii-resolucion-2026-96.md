@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Complementa y rectifica listado anexo de la Resolución Ex. N° 6 de 2026. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Complementa y rectifica listado anexo de la Resolución Ex. N° 6 de 2026. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

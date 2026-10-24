@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 14 de Enero del 2026 Fija valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones
+n de Asistencia al Contribuyente Resolución Exenta SII N° 07 del 14 de Enero del 2026 Fija valores de vehículos de transporte terrestre de carga o pasajeros, incluido su remolque, acoplado o carro similar. Fuente: Subdirección de Avaluaciones
 
 ## Referencias detectadas
 

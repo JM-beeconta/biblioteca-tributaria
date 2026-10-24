@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de asistencia al contribuyente Instruye sobre la obligación de entregar la representación impresa o virtual de la boleta electrónica y/o comprobante de pago electrónico. Deja sin efecto resolución Ex. N° 12 de 2025. Fuente: Subdirección de Asistencia al Contribuyente.
+n de asistencia al contribuyente Instruye sobre la obligación de entregar la representación impresa o virtual de la boleta electrónica y/o comprobante de pago electrónico. Deja sin efecto resolución Ex. N° 12 de 2025. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

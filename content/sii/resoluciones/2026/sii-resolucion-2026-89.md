@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Actualiza nómina de bienes afectos de la Res. Ex. N°194 año 2025, según lo establecido en el artículo 9° de la ley N° 21.420. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente Actualiza nómina de bienes afectos de la Res. Ex. N°194 año 2025, según lo establecido en el artículo 9° de la ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

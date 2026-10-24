@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Autoriza a empresa Sodimac S.A. Rut 96.792.430-k a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Autoriza a empresa Sodimac S.A. Rut 96.792.430-k a eliminar la impresión del timbre electrónico en la representación impresa de la boleta electrónica de ventas y servicios, en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

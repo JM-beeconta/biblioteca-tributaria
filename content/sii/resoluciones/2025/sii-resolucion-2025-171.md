@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Establece el procedimiento para aplicar la presunción legal de término de giro, según lo dispuesto en el inciso final del artículo 69° del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Establece el procedimiento para aplicar la presunción legal de término de giro, según lo dispuesto en el inciso final del artículo 69° del Código Tributario Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

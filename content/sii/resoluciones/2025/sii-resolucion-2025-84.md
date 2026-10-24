@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Fija procedimiento de inscripción en el régimen de tributación simplificada del párrafo 7° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Regula la declaración y pago del iva por parte de operadores con domicilio o residencia en chile de plataformas digitales de intermediación de ventas conforme al artículo 3° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
+n de Asistencia al Contribuyente. Regula la declaración y pago del iva por parte de operadores con domicilio o residencia en chile de plataformas digitales de intermediación de ventas conforme al artículo 3° bis de la ley sobre impuesto a las ventas y servicios. Fuente: Subdirección de Fiscalización
 
 ## Referencias detectadas
 

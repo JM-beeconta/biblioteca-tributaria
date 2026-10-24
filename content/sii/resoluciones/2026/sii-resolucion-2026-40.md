@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre la Ilustre Municipalidad de Pedro Aguirre Cerda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba Convenio de Intercambio de información y colaboración entre la Ilustre Municipalidad de Pedro Aguirre Cerda y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

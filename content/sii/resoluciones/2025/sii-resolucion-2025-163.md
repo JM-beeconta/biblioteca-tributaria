@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica resolución Ex. SII N°24, de 21 febrero de 2025, reemplazando subrogantes de la secretaría general del Servicio de Impuestos Internos Fuente: Subdirección Jurídica
+n de Asistencia al Contribuyente. Modifica resolución Ex. SII N°24, de 21 febrero de 2025, reemplazando subrogantes de la secretaría general del Servicio de Impuestos Internos Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

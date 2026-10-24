@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de asistencia al Contribuyente Delega facultad que indica en la funcionaria que se individualiza, Resolución Exenta N° 107, Santiago. Fuente: Subdirección Fiscalizacion
+n de asistencia al Contribuyente Delega facultad que indica en la funcionaria que se individualiza, Resolución Exenta N° 107, Santiago. Fuente: Subdirección Fiscalizacion
 
 ## Referencias detectadas
 

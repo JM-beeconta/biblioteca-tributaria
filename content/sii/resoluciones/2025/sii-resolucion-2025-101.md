@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información
+n de Asistencia al Contribuyente. Acredita y autoriza al contribuyente que indica para actuar como prestador de servicios de certificación digital de identidades y emitir certificados digitales de uso y pago tributario. Fuente: Subdirección de Tecnologías de la Información
 
 ## Referencias detectadas
 

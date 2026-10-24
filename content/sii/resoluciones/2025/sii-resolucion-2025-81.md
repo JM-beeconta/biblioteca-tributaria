@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la Resolución Exenta SIIi N°41 de 2025, que dispone forma de suscripción de la Declaración Jurada exigida por las circulares N° 39 de 1991 y N° 27 de 2007. Fuente: Subdirección de Fiscalización.
+n de Asistencia al Contribuyente. Modifica fecha de entrada en vigencia de la Resolución Exenta SIIi N°41 de 2025, que dispone forma de suscripción de la Declaración Jurada exigida por las circulares N° 39 de 1991 y N° 27 de 2007. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

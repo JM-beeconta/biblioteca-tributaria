@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Fija nómina de bienes afectos, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones.
+n de Asistencia al Contribuyente. Fija nómina de bienes afectos, según lo establecido en el artículo 9 de la Ley N° 21.420. Fuente: Subdirección de Avaluaciones.
 
 ## Referencias detectadas
 

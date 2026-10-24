@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cute;n de Asistencia al Contribuyente Deniega acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de asistencia al contribuyente
+n de Asistencia al Contribuyente Deniega acceso a la siguiente institución a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de asistencia al contribuyente
 
 ## Referencias detectadas
 

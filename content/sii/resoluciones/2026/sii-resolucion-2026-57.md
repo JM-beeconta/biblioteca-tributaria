@@ -11,7 +11,7 @@
 
 ## Resumen
 
-cción de Fiscalización. Ajusta nómina &ldquo;contribuyentes IVA SD afectos a cambio de sujeto&rdquo; que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización.
+cción de Fiscalización. Ajusta nómina “contribuyentes IVA SD afectos a cambio de sujeto” que rige entre el 1° de enero y el 31 de diciembre de 2026. Fuente: Subdirección de Fiscalización.
 
 ## Referencias detectadas
 

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Crea registro de contribuyentes de ferias libres Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Crea registro de contribuyentes de ferias libres Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

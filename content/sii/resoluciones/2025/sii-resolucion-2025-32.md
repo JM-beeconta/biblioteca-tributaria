@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fuente: Subdirección Normativa Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital &ldquo;SII-MAPAS&rdquo; a la Ilustre Municipalidad de Chile Chico. Fuente: Subdirección de Asistencia al Contribuyente.
+Fuente: Subdirección Normativa Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Chile Chico. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 

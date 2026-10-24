@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ute;n de Asistencia al Contribuyente. Aprueba Addendum al convenio de intercambio de información y colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
+n de Asistencia al Contribuyente. Aprueba Addendum al convenio de intercambio de información y colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos. Fuente: Subdirección de Asistencia al Contribuyente.
 
 ## Referencias detectadas
 
