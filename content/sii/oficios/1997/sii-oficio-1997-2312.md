@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a la Renta. Art�culos 14� y 58�. Tributaci�n que afecta a las empresas constituidas como sociedades an�nimas o sociedades de personas. (Ord N� 2312, de 03 de Octubre de 1997)
+Ley de Impuesto a la Renta. Artículos 14° y 58°. Tributación que afecta a las empresas constituidas como sociedades anónimas o sociedades de personas. (Ord N° 2312, de 03 de Octubre de 1997)
 
 ## Referencias detectadas
 

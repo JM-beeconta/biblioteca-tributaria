@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a la Renta. Art�culos 17�, 18�, 20� y 39� Complementa dictamen sobre bienes ra�ces no agr�colas cuya renta de explotaci�n es igual o inferior al 11% del aval�o fiscal. (Oficio N� 639, de 06 de Marzo de 1998)
+Ley de Impuesto a la Renta. Artículos 17°, 18°, 20° y 39° Complementa dictamen sobre bienes raíces no agrícolas cuya renta de explotación es igual o inferior al 11% del avalúo fiscal. (
 
 ## Referencias detectadas
 

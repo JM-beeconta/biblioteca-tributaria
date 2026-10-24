@@ -11,7 +11,7 @@
 
 ## Resumen
 
-s). Ley de Impuesto a la Renta. Art�culo 54. Ordinario N� 1752, de 05 de Agosto de 1997.- Efectos tributarios del incremento por concepto de Impuesto de Primera Categor�a. (Of. N�1752, de 05 de agosto de 1997. I. Directos)
+s). Ley de Impuesto a la Renta. Artículo 54. Ordinario N° 1752, de 05 de Agosto de 1997.- Efectos tributarios del incremento por concepto de Impuesto de Primera Categoría. (Of. N°1752, de 05 de agosto de 1997. I. Directos)
 
 ## Referencias detectadas
 

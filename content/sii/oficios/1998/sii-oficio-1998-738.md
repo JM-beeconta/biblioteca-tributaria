@@ -11,7 +11,7 @@
 
 ## Resumen
 
-23.03.1998). Renta - Actual ley sobre impuesto a la - Art. 17�, N� 16,
+23.03.1998). Renta - Actual ley sobre impuesto a la - Art. 17°, N° 16, Word Gastos de representación - Tratamiento tributario - No constituyen rentas las sumas percibidas, siempre que dichos gastos estén establecidos en la ley - Interpretación y... (.03.1998).
 
 ## Referencias detectadas
 

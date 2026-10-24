@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-24T01:34:57.823Z",
-  "total_documents": 16998,
+  "generated_at": "2026-10-24T01:42:23.077Z",
+  "total_documents": 16852,
   "by_source": {
     "BCN": 5150,
-    "SII": 11848
+    "SII": 11702
   },
   "by_type": {
     "articulo": 4717,
     "norma": 433,
     "resolucion": 2015,
-    "oficio": 8160,
-    "circular": 1673
+    "oficio": 7707,
+    "circular": 1980
   },
   "by_year": {
     "1965": 99,
@@ -37,10 +37,10 @@
     "1994": 57,
     "1995": 146,
     "1996": 238,
-    "1997": 163,
-    "1998": 333,
-    "1999": 281,
-    "2000": 475,
+    "1997": 227,
+    "1998": 315,
+    "1999": 216,
+    "2000": 348,
     "2001": 403,
     "2002": 698,
     "2003": 291,
@@ -302,7 +302,7 @@
       "name": "2000.json",
       "path": "data/index/2000.json",
       "relations_path": "data/relations/2000.json",
-      "count": 470,
+      "count": 343,
       "source": "SII",
       "year": 2000
     },
@@ -310,7 +310,7 @@
       "name": "1999.json",
       "path": "data/index/1999.json",
       "relations_path": "data/relations/1999.json",
-      "count": 265,
+      "count": 200,
       "source": "SII",
       "year": 1999
     },
@@ -318,7 +318,7 @@
       "name": "1998.json",
       "path": "data/index/1998.json",
       "relations_path": "data/relations/1998.json",
-      "count": 216,
+      "count": 198,
       "source": "SII",
       "year": 1998
     },
@@ -326,7 +326,7 @@
       "name": "1997.json",
       "path": "data/index/1997.json",
       "relations_path": "data/relations/1997.json",
-      "count": 155,
+      "count": 219,
       "source": "SII",
       "year": 1997
     },

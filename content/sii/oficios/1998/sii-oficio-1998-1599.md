@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a la Renta. Art�culo 58� N� 1. Tributaci�n que afecta a los desembolsos efectuados en Chile por un contribuyente del art�culo 58� N� 1 de la Ley de la Renta. (Oficio N� 1599, de 15 de Junio de 1998)
+Ley de Impuesto a la Renta. Artículo 58° N° 1. Tributación que afecta a los desembolsos efectuados en Chile por un contribuyente del artículo 58° N° 1 de la Ley de la Renta. (
 
 ## Referencias detectadas
 

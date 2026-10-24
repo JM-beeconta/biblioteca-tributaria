@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Directos). Renta � Ley sobre Impuesto a la � Art. 17, N�13, Art. 20 N� 2, Art. 39 inciso final, Art. 73 - Circular N� 29, de 1991. Situaci�n tributaria de pr�stamos otorgados por la empresa a sus trabajadores, los cuales posteriormente podr�n compensarse con las indemnizaciones por a�os de servicio. (Ord. N� 4065, de 08.11.1999).
+Directos). Renta – Ley sobre Impuesto a la – Art. 17, N°13, Art. 20 Nº 2, Art. 39 inciso final, Art. 73 - Circular Nº 29, de 1991. Situación tributaria de préstamos otorgados por la empresa a sus trabajadores, los cuales posteriormente podrán compensarse con las indemnizaciones por años de servicio. (Ord. N° 4065, de 08.11.1999).
 
 ## Referencias detectadas
 

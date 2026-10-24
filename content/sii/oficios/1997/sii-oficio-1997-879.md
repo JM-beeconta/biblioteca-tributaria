@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de Impuesto a la Renta. Art�culos 2� ,14� y 52�. Oportunidad en que se gravan respecto de sus accionistas las utilidades aportadas a otras sociedades, producto de fusiones o reorganizaci�n de empresas. (Ordinario N� 879, de 24 de Abril de 1997)
+Ley de Impuesto a la Renta. Artículos 2° ,14° y 52°. Oportunidad en que se gravan respecto de sus accionistas las utilidades aportadas a otras sociedades, producto de fusiones o reorganización de empresas. (Ordinario N° 879, de 24 de Abril de 1997)
 
 ## Referencias detectadas
 

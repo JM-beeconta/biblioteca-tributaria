@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ley de impuesto a las Ventas y Servicios Venta de bienes corporales muebles del activo fijo - antes de doce meses desde su adquisici�n - que fueron importados a zona franca de extensi�n pagando el impuesto del art�culo 11� de la Ley N� 18.211.(Oficio N�158 de 21.01.1999).
+Ley de impuesto a las Ventas y Servicios Venta de bienes corporales muebles del activo fijo - antes de doce meses desde su adquisición - que fueron importados a zona franca de extensión pagando el impuesto del artículo 11° de la Ley N° 18.211.(.01.1999).
 
 ## Referencias detectadas
 

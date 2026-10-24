@@ -11,7 +11,7 @@
 
 ## Resumen
 
-ectos). Ley de Impuestos a las Ventas y Servicios. Art�culos 2�, 5� , 8� , 12, letra E, N� 16, y 52�. Ordinario N� 3991, de 29 Octubre de 1999. Impuesto al Valor Agregado (IVA) en servicios derivados de un contrato de perforaci�n minera en la Cordillera de Los Andes. (Of. N�3991 de 29 de octubre de 1999.- I. Indirectos).
+ectos). Ley de Impuestos a las Ventas y Servicios. Artículos 2°, 5° , 8° , 12, letra E, N° 16, y 52°. Ordinario N° 3991, de 29 Octubre de 1999. Impuesto al Valor Agregado (IVA) en servicios derivados de un contrato de perforación minera en la Cordillera de Los Andes. (Of. N°3991 de 29 de octubre de 1999.- I. Indirectos).
 
 ## Referencias detectadas
 

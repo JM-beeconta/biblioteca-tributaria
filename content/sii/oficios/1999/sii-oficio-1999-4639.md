@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 1, Art. 8�, Letra g) y m), Art. 55� - Ley sobre Impuesto a la Renta, Art. 20�, N� 3 y N� 4. (Ord. N� 4639, de 23.12.1999) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2� N� 1, Art. 8�, Letra g) y m), Art. 55� - Ley sobre Impuesto a la Renta, Art. 20�, N� 3 y N� 4. (Ord. N� 4639, de 23.12.1999) Cesi�n del arriendo y de la opci�n de compra en contrato de arrendamiento de un bien en leasing financiero.
+Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2º Nº 1, Art. 8º, Letra g) y m), Art. 55º - Ley sobre Impuesto a la Renta, Art. 20º, Nº 3 y N° 4. (Ord. N° 4639, de 23.12.1999) Ventas y Servicios - Nuevo Texto - Ley Impuesto a las - Art. 2º Nº 1, Art. 8º, Letra g) y m), Art. 55º - Ley sobre Impuesto a la Renta, Art. 20º, Nº 3 y N° 4. (Ord. N° 4639, de 23.12.1999) Cesión del arriendo y de la opción de compra en contrato de arrendamiento de un bien en leasing financiero.
 
 ## Referencias detectadas
 

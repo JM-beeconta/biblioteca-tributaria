@@ -1,0 +1,53 @@
+# Oficio N° 4123 de 2000
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 4123
+- Año: 2000
+- Fecha: 2000-10-24
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/ja4123.htm
+- Hash SHA-256: 6aa9bd67cc116e8c959897f029e489020be5a11b4af87d791604d0612308d77e
+
+## Resumen
+
+Renta – Actual Ley Sobre Impuesto a la – Art. 41° A. (Ord. N° 4123, de 24.10.2000) Word Procedencia del crédito en contra del impuesto de Primera Categoría por rentas provenientes de inversiones efectuadas en el exterior, en el caso que el impuesto que procede aplicar en el país extranjero, no haya sido retenido ni pagado por la empresa extranjera, a la fecha de la declaración del impuesto a la renta en Chile.
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY RENTA - RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° A. (ORD. N° 4123, DE 24.10.2000)
+
+Home | Ley Renta - 2000
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° A. (ORD. N° 4123, DE 24.10.2000)
+
+PROCEDENCIA DEL CRÉDITO EN CONTRA DEL IMPUESTO DE PRIMERA CATEGORÍA POR RENTAS PROVENIENTES DE INVERSIONES EFECTUADAS EN EL EXTERIOR, EN EL CASO QUE EL IMPUESTO QUE PROCEDE APLICAR EN EL PAÍS EXTRANJERO, NO HAYA SIDO RETENIDO NI PAGADO POR LA EMPRESA EXTRANJERA, A LA FECHA DE LA DECLARACIÓN DEL IMPUESTO A LA RENTA EN CHILE.
+
+1.- Se ha recibido en esta Dirección, su presentación indicada en el antecedente, a través de la cual señala, que las normas del artículo 41 A de la Ley de la Renta permiten rebajar en Chile un crédito por el impuesto soportado en el país extranjero, por rentas obtenidas por inversiones efectuadas en sociedades anónimas, sociedades de personas o establecimientos permanentes en el exterior.
+
+Agrega a continuación, que para el caso de dividendos de sociedades anónimas o retiros de utilidades de sociedades no anónimas, la ley establece como crédito el impuesto retenido en el exterior al efectuar la remesa a Chile. En el evento que no exista retención o ésta fuere inferior al impuesto de Primera Categoría chileno, la ley también permite invocar como crédito el impuesto pagado por la renta de la sociedad en el exterior.
+
+Según lo anterior, señala que cuando en el exterior no se aplique retención a la remesa de utilidades hacia Chile, o la retención efectuada fuere inferior al impuesto de Primera Categoría chileno, se puede invocar como crédito el impuesto pagado por la sociedad en el exterior.
+
+Respecto de esto último expresa que se presenta la duda en aquellos casos en que la sociedad chilena recibe utilidades correspondientes al mismo año comercial de la sociedad en el exterior respecto de las cuales en el exterior aún no se paga el impuesto, y asumiendo además que no hay utilidades acumuladas que hayan pagado el impuesto en años anteriores. Así por ejemplo, un dividendo recibido de utilidades del año comercial 1999, que en el exterior aún no se ha pagado el impuesto corporativo al cierre de este mismo año, pero que se pagará en los primeros meses del año 2000, que podría ser antes o después del mes de abril que es el plazo para pagar el impuesto en nuestro país, la duda se presenta acerca de si en este caso procede o no invocar el crédito por el impuesto extranjero.
+
+2.- Respecto de la materia consultada cabe señalar, que las disposiciones contenidas en el Párrafo 6° de la Ley de la Renta, sobre las normas relativas a la doble tributación internacional, específicamente aquella establecida en el Art. 41 A, letra C.- N°3, expresamente señalan, que darán derecho a crédito los impuestos a la renta pagados o retenidos en el exterior siempre que sean equivalentes o similares a los impuestos contenidos en la presente ley, o sustitutivos de ellos, ya sea que se apliquen sobre rentas determinadas de resultados reales o rentas presuntas. Los créditos otorgados por la legislación extranjera al impuesto externo, se considerarán como parte de este último. Si el total o parte de un impuesto a la renta fuere acreditable a otro tributo a la renta, respecto de la misma renta, se rebajará el primero del segundo, a fin de no generar una duplicidad para acreditar los impuestos.
+
+Por su parte, el N°4 de esta misma disposición, establece que los impuestos pagados por las empresas en el extranjero deberán acreditarse mediante el correspondiente recibo o bien, con un certificado oficial expedido por la autoridad competente del país extranjero, debidamente legalizados y traducidos si procediere. El Director del Servicio de Impuestos Internos podrá exigir los mismos requisitos respecto de los impuestos retenidos, cuando lo considere necesario para el debido resguardo del interés fiscal.
+
+3.- En conformidad con las normas legales precedentemente indicadas, y asumiendo que en la situación consultada no se trata de la remesa de utilidades de una Agencia en el extranjero hacia una empresa domiciliada o residente en Chile; y tampoco que la empresa que envía las utilidades se encuentra domiciliada en algún país con el cual exista algún convenio suscrito por el gobierno chileno para evitar la doble tributación, cabe expresar respecto de su consulta, que la utilización del crédito en contra del impuesto de Primera Categoría aplicable sobre las rentas provenientes del exterior que hayan sido gravadas en el extranjero, establecido en el artículo 41 A, de la Ley de la Renta, debe sujetarse a lo que expresamente indican las normas precedentemente señaladas, esto es, que el impuesto que afecta a tales rentas en el exterior, se encuentre efectivamente pagado o retenido.
+
+4.- Por lo tanto, en aquellos casos en que la sociedad chilena recibe utilidades correspondientes al mismo año comercial de la sociedad en el exterior respecto de las cuales en el exterior aún no se paga el impuesto, y asumiendo además que no hay utilidades acumuladas que hayan pagado el impuesto de años anteriores, como ocurre por ejemplo, en el caso que Ud. plantea, de un dividendo recibido de utilidades del año comercial 1999, que en el exterior aún no se ha pagado el impuesto corporativo al cierre de este mismo año, pero que se pagará en los primeros meses del año 2000, que podría ser antes o después del mes de abril que es el plazo para pagar el impuesto en nuestro país, cabe expresar que en tal situación no se tiene derecho al crédito en comento, en caso que a la fecha de la declaración de los impuestos en Chile, no se cumpla con la condición de que los impuestos aplicados en el extranjero, se encuentren efectivamente pagados o retenidos en el país de origen de las utilidades respectivas
+
+JAVIER ETCHEBERRY CELHAY
+
+DIRECTOR
+
+Oficio N° 4.123, de 24.10.2000
+
+Subdirección Normativa
+
+Dpto. de Impuestos Directos

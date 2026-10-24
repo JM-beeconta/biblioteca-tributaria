@@ -1,0 +1,30 @@
+# Oficio N° 3532 de 1998
+
+- Fuente: SII
+- Tipo: oficio
+- Número: 3532
+- Año: 1998
+- Fecha: 1998-12-29
+- Categoría: Renta
+- Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/dic29_3532.htm
+- Hash SHA-256: de291e43892a83b28c106306ae0789eeb96bc5d532172c5bcfca839490613859
+
+## Resumen
+
+Ley sobre impuesto a la Renta – Art. 59° Tributación que afecta a sumas remesadas al exterior por importación de software. (Ordinario N° 3532 de 29-12-1998).
+
+## Referencias detectadas
+
+- Sin referencias estructuradas detectadas
+
+## Texto extraído
+
+LEY SOBRE IMPUESTO A LA RENTA – ART. 59° (ORDINARIO 3532 DE
+29-12-1998)
+
+Home | Ley Renta - 1998
+LEY SOBRE IMPUESTO A LA
+RENTA – ART. 59° (ORDINARIO 3532 DE 29-12-1998)
+
+TRIBUTACIÓN QUE AFECTA A SUMAS REMESADAS AL EXTERIOR POR IMPORTACIÓN DE
+SOFTWARE.

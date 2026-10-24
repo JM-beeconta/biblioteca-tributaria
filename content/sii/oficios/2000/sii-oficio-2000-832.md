@@ -4,14 +4,14 @@
 - Tipo: oficio
 - Número: 832
 - Año: 2000
-- Fecha: 2000-02-25
+- Fecha: 2000-03-16
 - Categoría: Otras Normas
 - Fuente oficial: https://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/mayo16.htm
 - Hash SHA-256: 8804a2d2f1a3a8082fd1f7ba7e79bbfb46fdd107fed46672d837c1f52062dc5a
 
 ## Resumen
 
-I. Directos) Timbres y estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24� N� 11 - Decreto Ley N� 3.475, de 1980.
+I. Directos) Timbres y estampillas - Nuevo Texto - Ley sobre Impuesto de - Art. 24° N° 11 - Decreto Ley N° 3.475, de 1980. Word Alcance del exención del Impuesto de Timbres y Estampillas establecido en el N° 11 del artículo 24° del Decreto Ley N° 3.475. (Of. N° 0832, de 16.03.2000 - Depto. Técnica Tributaria )
 
 ## Referencias detectadas
 
