@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:03:46.795Z",
+  "generated_at": "2026-10-26T16:26:07.036Z",
   "total_documents": 18694,
   "by_source": {
     "BCN": 5150,
@@ -86,8 +86,91 @@
     "RIVA",
     "LRM"
   ],
-  "mode": "backfill:Gapfill-1974-1976",
-  "last_scrape_at": "2026-10-24T02:03:45.849Z",
-  "touched_documents": 406,
-  "backfill_status": "completed"
+  "mode": "weekly",
+  "years": [
+    2026,
+    2025
+  ],
+  "touched_documents": 5819,
+  "last_scrape_at": "2026-10-26T16:26:06.223Z",
+  "bcn_coverage": {
+    "base": [
+      {
+        "code": "LIR",
+        "ok": true,
+        "future_versions": [
+          "2026-11-01",
+          "2027-01-01",
+          "2029-01-01"
+        ],
+        "future_stored": [
+          "2026-11-01",
+          "2027-01-01",
+          "2029-01-01"
+        ]
+      },
+      {
+        "code": "LIVS",
+        "ok": true,
+        "future_versions": [
+          "2222-02-02"
+        ],
+        "future_stored": [
+          "2222-02-02"
+        ]
+      },
+      {
+        "code": "CT",
+        "ok": true,
+        "future_versions": [
+          "2026-11-01"
+        ],
+        "future_stored": [
+          "2026-11-01"
+        ]
+      },
+      {
+        "code": "LTE",
+        "ok": true,
+        "future_versions": [],
+        "future_stored": []
+      },
+      {
+        "code": "LIHD",
+        "ok": true,
+        "future_versions": [],
+        "future_stored": []
+      },
+      {
+        "code": "RIVA",
+        "ok": true,
+        "future_versions": [],
+        "future_stored": []
+      },
+      {
+        "code": "LRM",
+        "ok": true,
+        "future_versions": [
+          "2026-11-01",
+          "2027-01-01",
+          "2222-02-02"
+        ],
+        "future_stored": [
+          "2026-11-01",
+          "2027-01-01",
+          "2222-02-02"
+        ]
+      }
+    ],
+    "modifiers_expected": 127,
+    "modifiers_stored": 127,
+    "missing": [],
+    "listing_errors": [],
+    "unavailable_in_leychile": [
+      {
+        "modifies": "LTE",
+        "label": "Decreto 1344 EXENTO"
+      }
+    ]
+  }
 }
