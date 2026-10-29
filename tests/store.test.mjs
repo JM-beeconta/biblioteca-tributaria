@@ -40,6 +40,45 @@ test('mergeDocuments actualiza un documento existente por id y marca changed_at 
   assert.equal(documents[0].first_seen_at, '2020-01-01T00:00:00.000Z');
 });
 
+test('mergeDocuments conserva el original archivado si la corrida trae el mismo archivo sin release (regresión 26-10)', () => {
+  const archived = { name: 'sii-resolucion-2025-209.pdf', sha256: 'h', bytes: 10, source_url: 'u', release: 'originales-sii', asset: 'sii-2025-2025-2026.zip', path: 'sii-resolucion-2025-209.pdf' };
+  const existing = [{ id: 'sii-resolucion-2025-209', source_url: 'u', sha256: 'h', original_file: archived }];
+  const incoming = [{ id: 'sii-resolucion-2025-209', source_url: 'u', sha256: 'h', original_file: { name: archived.name, sha256: 'h', bytes: 10, source_url: 'u' } }];
+
+  const { documents } = mergeDocuments(existing, incoming);
+  assert.deepEqual(documents[0].original_file, archived);
+});
+
+test('mergeDocuments no reutiliza el archivo archivado si el original cambió', () => {
+  const existing = [{ id: 'd', source_url: 'u', sha256: 'h1', original_file: { name: 'd.pdf', sha256: 'h1', release: 'originales-sii', asset: 'a.zip', path: 'd.pdf' } }];
+  const incoming = [{ id: 'd', source_url: 'u', sha256: 'h2', original_file: { name: 'd.pdf', sha256: 'h2' } }];
+
+  const { documents } = mergeDocuments(existing, incoming);
+  assert.equal(documents[0].original_file.release, undefined);
+  assert.equal(documents[0].original_file.sha256, 'h2');
+});
+
+test('mergeDocuments no reescribe un documento que volvió idéntico (sin cambio = sin commit)', () => {
+  const existing = [{ id: 'd', source_url: 'u', sha256: 'h', categories: ['IVA'], first_seen_at: '2025-01-01T00:00:00.000Z', last_seen_at: '2025-06-01T00:00:00.000Z', changed_at: null }];
+  const incoming = [{ id: 'd', source_url: 'u', sha256: 'h', categories: ['IVA'] }];
+
+  const { documents, touched, changed } = mergeDocuments(existing, incoming, { now: '2026-10-29T00:00:00.000Z' });
+  assert.deepEqual(documents[0], existing[0], 'el registro debe quedar byte a byte igual');
+  assert.equal(touched.size, 1);
+  assert.equal(changed.size, 0);
+});
+
+test('mergeDocuments marca como cambiado un documento nuevo o modificado', () => {
+  const existing = [{ id: 'a', source_url: 'ua', sha256: 'h', effective_dates: ['2020-01-01'] }];
+  const incoming = [
+    { id: 'a', source_url: 'ua', sha256: 'h', effective_dates: ['2020-01-01', '2020-02-24'] },
+    { id: 'b', source_url: 'ub', sha256: 'x' },
+  ];
+
+  const { changed } = mergeDocuments(existing, incoming, { now: '2026-10-29T00:00:00.000Z' });
+  assert.deepEqual(new Set(changed), new Set(['a', 'b']));
+});
+
 test('mergeDocuments no toca documentos existentes no incluidos en la corrida actual', () => {
   const existing = [{ id: 'sii-oficio-1990-1', source_url: 'https://sii.cl/1990-1.pdf', sha256: 'z' }];
   const { documents, touched } = mergeDocuments(existing, []);

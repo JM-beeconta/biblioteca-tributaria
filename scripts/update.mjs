@@ -60,14 +60,27 @@ if (!skipSii) console.log(`Años SII: ${years.at(-1)}-${years[0]}`);
 const bcnCoverage = skipBcn ? null : await crawlBcn({ onDocument, includeModifiers: true });
 if (!skipSii) await crawlSii({ years, onDocument });
 
-const { documents, touched } = mergeDocuments(existing, collected);
-await writeLibraryData(ROOT, documents, {
-  mode,
-  years,
-  touched_documents: touched.size,
-  last_scrape_at: new Date().toISOString(),
-  ...(bcnCoverage ? { bcn_coverage: bcnCoverage } : {}),
-});
-
+const { documents, touched, changed } = mergeDocuments(existing, collected);
 console.log(`Documentos totales: ${documents.length}`);
-console.log(`Documentos revisados/actualizados: ${touched.size}`);
+console.log(`Documentos revisados: ${touched.size}`);
+console.log(`Documentos nuevos o modificados: ${changed.size}`);
+
+// Las corridas con --skip-bcn no recalculan la cobertura BCN: se arrastra la de la última corrida.
+let previousMeta = {};
+try { previousMeta = JSON.parse(await fs.readFile(path.join(ROOT, 'data', 'meta.json'), 'utf8')); } catch {}
+const coverage = bcnCoverage ?? previousMeta.bcn_coverage ?? null;
+const coverageChanged = JSON.stringify(coverage) !== JSON.stringify(previousMeta.bcn_coverage ?? null);
+
+// Sin novedades no se escribe nada: así el workflow no hace commit ni redespliega el sitio.
+if (!changed.size && !coverageChanged && documents.length === existing.length) {
+  console.log('Sin novedades: no se reescriben los índices.');
+} else {
+  await writeLibraryData(ROOT, documents, {
+    mode,
+    years,
+    touched_documents: touched.size,
+    changed_documents: changed.size,
+    last_scrape_at: new Date().toISOString(),
+    ...(coverage ? { bcn_coverage: coverage } : {}),
+  });
+}
