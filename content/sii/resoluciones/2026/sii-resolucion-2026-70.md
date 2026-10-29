@@ -34,9 +34,8 @@ n de Asistencia al Contribuyente. Otórguese acceso a la siguiente institución 
 
                                                                                                               Hoy se ha resuelto lo siguiente:
 
-                                                                                                                   EX. 70.-
-                                                                                                              RESOLUCIÓN
-                                                                                                              RES.          EX. SII N°70.-
+                                                                                                              RES. EX. 70.- EX. SII
+                                                                                                              RESOLUCIÓN            N°70.-
                                                                                                                        __________________/
 
                                                                                                               VISTOS

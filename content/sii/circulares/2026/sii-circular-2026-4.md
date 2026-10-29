@@ -684,8 +684,8 @@ a)     Dar aviso al Servicio dentro de los 10 días siguientes, y
 
               CFS
 CECILIA Firmado          DISTRIBUCIÓN:
-INES    digitalmente por
-        CECILIA INES
+        digitalmente por
+INES    CECILIA INES
 
 FIERRO Fecha: 2026.01.19
         FIERRO SALCEDO       -  INTERNET

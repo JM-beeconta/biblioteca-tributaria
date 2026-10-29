@@ -235,8 +235,8 @@ LUIS      digitalmente por
 ORLANDO LUIS   ORLANDO
           CABALLERO
 CABALLERO ALVAREZ
-          Fecha: 2025.12.03
-ALVAREZ 13:12:06   -03'00'
+ALVAREZ Fecha:   2025.12.03
+          13:12:06 -03'00'
 
 
 

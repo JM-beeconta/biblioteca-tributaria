@@ -1116,51 +1116,21 @@ c)       Compañías de seguros (DFL N° 251 de 1931, del Ministerio de Hacienda
           limitada
 
 1.4      Otras sociedades con personalidad jurídica
+
+
+
+
                                                                                                                                                       Inscripción en el Registro
+                            Certificado de inscripción                                                                                                                                 Inscripción en el Registro
+                                                         Escritura constitución de       Extracto de publicación        Cédula de Identidad del
 
-
-
-                                                                                                                                                                                       Inscripción en el Registro
-                            Certificado de inscripción
-
-
-
-
-                                                         Escritura constitución de
-
-
-
-
-                                                                                                                                                                                        del Instituto Nacional del
-                                                                                                                        Cédula de Identidad del
-                                                                                         Extracto de publicación
-                             en el Conservador de
-
-
-
-
-                                                                                                                          representante legal
-                                                                                           en el Diario Oficial
-
-
-
-
-                                                                                                                                                             de Comercio
-                                                                la sociedad
-
-
-
-
-                                                                                                                                                                                                  Deporte
-                                      Minas
-
-
-
-
+                             en el Conservador de                                                                                                                                       del Instituto Nacional del
                                                                                                                                                                                                                        Ley que las rige
 
 
 
+                                                                la sociedad                en el Diario Oficial           representante legal                de Comercio
+                                      Minas                                                                                                                                                       Deporte
 
  Sociedad anónima
    con garantía                                                 X                              X                              X                              X                                                          Ley N°20.179
@@ -1187,37 +1157,17 @@ Sociedad contractual
 
 
 
-                                                                                                   Documento que acredite el
-                                             Acta del nombramiento del
-
-
-
-
+                                             Acta del nombramiento del                             Documento que acredite el
                                                                                                                                                                                                                   Sentencia o escritura de la
+                                                                         Certificado de posesión                                   Cédula de Identidad del                        Certificado de inscripción
+
                                                                                                                                                                                                                   disolución de la sociedad
-                                                                                                                                                                                  Certificado de inscripción
-                                                                                                                                   Cédula de Identidad del
-                                                                         Certificado de posesión
-
-
-
-
-                                                                                                                                                                                  en el registro pertinente
-                                                                                                      origen de la entidad
-
-
-                                                                                                                                       representante
-                                                   administrador
-
-
-
-
-                                                                                                                                                                                                                          conyugal
-                                                                                  efectiva
                                                                                                                                                                                                                                                        Ley que las rige
 
 
-
+                                                                                  efectiva                                             representante
+                                                   administrador                                      origen de la entidad                                                        en el registro pertinente
+                                                                                                                                                                                                                          conyugal
 
                                                                                                                                                                                                                                                 Código Civil, art. 1764, y Ley
       Comunidad disolución
@@ -1250,54 +1200,20 @@ procedimiento por el cual las Sociedades Administradoras de Fondos deberán obte
 información de cada uno de los fondos que administran, según lo dispuesto en la Ley N° 20.712 del 2014,
 modificada por las Leyes N° 20.780 del 2014 y, Ley N° 20.899 del 2016, y que reemplaza y deroga la
 Resolución Ex. SII N° 28 de 08.03.2017.
+
+
                                                                                                               Cédula de Identidad
 
 
 
-
                                                                                                                                                              Reglamento interno
-                                       depósito en la CMF
-                 Acta de la Junta de
-
-
-
-
-                                                                                                               del Representante
-                 Administración de
-
-
-
-
-                                                                                                                                                                                                               Resolución de la
                                          Certificado de
+                 Acta de la Junta de
+                                                                                 Certificado de                                                                                                                Resolución de la
+                 Administración de                                                                             del Representante                                                                                                                         Ley que rige
 
-
-
-
-                                                                                 Certificado de
-                      creación
-
-
-
-
-                                                                                   vigencia
-
-
-
-                                                                                                                     Legal
-
-
-
-
-                                                                                                                                                                                                                    CMF
-
-
-
-
-                                                                                                                                                                                                                                                         Ley que rige
-
-
-
+                                                                                   vigencia                                                                                                                         CMF
+                      creación         depósito en la CMF                                                            Legal
 
      Fondo de
      Inversión         X                                                                X                                      X                             X                                                                                           Ley N° 20.712
@@ -1417,44 +1333,22 @@ c)        Establecimientos permanentes
 
 
                                                                                         Certificado de registro en la
+
+
+
+
                                 Documento que da origen
-
-
-
-
-                                                          Persona Jurídica sin fines
-
-
-
-
-                                                                                                                        Persona Jurídica sin fines
-                                                          de lucro del Registro Civil
-
-
-
-
-                                                                                                                        de lucro del Registro Civil
-                                                           Certificado de Directorio
-
-
-
-
+                                                           Certificado de Directorio                                     Certificado de vigencia
                                                                                                                                                       Cédula de identidad del
-                                                                                                                         Certificado de vigencia
-
-
-
-
-                                                                                                                                                       representante legal
-                                                                                                Municipalidad
-
-
 
 
                                                                                                                                                                                              Ley que rige
+                                                          Persona Jurídica sin fines                                    Persona Jurídica sin fines
          Tipo
 
 
+                                                                                                                                                       representante legal
+                                                          de lucro del Registro Civil           Municipalidad           de lucro del Registro Civil
 
 
      Club Deportivo      Acta constitutiva                         X                            X                                X                          X                          Ley N°20.500

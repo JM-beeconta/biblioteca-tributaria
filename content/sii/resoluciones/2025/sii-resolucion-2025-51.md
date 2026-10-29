@@ -165,8 +165,9 @@ TERCERO:   En virtud de lo anterior, las partes acuerdan modificar el Convenio s
                                 rut  Representantelegal
                                                     Legal (Valor Innominado)
     LEGAL                       rut representante legal
-    MONTO ANUAL                 Monto  Anual Nominal
-                                dv representante legalDe Los Retiros ($)
+    MONTO ANUAL                 Monto Anual
+                                dv           Nominal
+                                   representante legalDe Los Retiros ($)
     NOMINAL DE LOS              dv representante legal
     RETIROS ($) (C10)
     RENTABILIDAD                Rentabilidad Nominal Anual Determinada Sobre Los Retiros -

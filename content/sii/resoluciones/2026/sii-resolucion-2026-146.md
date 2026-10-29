@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece procedimiento especial para solicitar devolución del impuesto al valor agregado según el artículo cuarto transitorio de la Ley N° 21.850. Fuente: Subdirección Fiscalizacion
+n de Asistencia al Contribuyente. Establece procedimiento especial para solicitar devolución del impuesto al valor agregado según el artículo cuarto transitorio de la Ley N° 21.850. Fuente: Subdirección Fiscalizacion
 
 ## Referencias detectadas
 

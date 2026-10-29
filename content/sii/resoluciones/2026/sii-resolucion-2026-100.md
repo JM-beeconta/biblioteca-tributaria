@@ -34,8 +34,8 @@ n de Asistencia al Contribuyente Otórguese acceso a la siguiente institución a
 
 
 
-                                                                                                     100.-
-                                                                                 RESOLUCIÓN. EX. SII _____/
+                                                                                 RESOLUCIÓN. EX. SII 100.-
+                                                                                                     _____/
 
                                                                                   VISTOS
 

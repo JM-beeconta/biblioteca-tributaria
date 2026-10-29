@@ -31,8 +31,8 @@ OFICINA DE DOCUMENTOS TRIBUTARIOS
 
 
 
-                                                                          128.-
-                                                 RESOLUCIÓN EXENTA SII N° ____________/
+                                                 RESOLUCIÓN EXENTA SII N° 128.-
+                                                                          ____________/
 
 
 

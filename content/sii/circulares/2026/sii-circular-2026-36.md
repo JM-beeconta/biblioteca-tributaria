@@ -180,10 +180,11 @@ Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de OC
 
 CAROLINA Firmado
          digitalmente por
-FABIOLA CAROLINA
-         FABIOLA SARAVIA
+FABIOLA FABIOLA
+         CAROLINA
+
 SARAVIA MORALES
-                             CSM/CGG/MCRB/FWV
+                  SARAVIA    CSM/CGG/MCRB/FWV
          Fecha: 2026.09.10
 MORALES 18:25:37 -03'00'     Distribución
                              - Internet

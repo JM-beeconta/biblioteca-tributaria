@@ -366,9 +366,10 @@ c) Direcciones del contribuyente
                                                                                         TRUJILLO
                                                                 DIRECTOR       TRUJILLO PUENTES
                                                                                         Fecha: 2026.07.10
+SOTO TORRES
                            Firmado digitalmente por
 CHRISTIAN FERNANDO CHRISTIAN FERNANDO SOTO
-SOTO TORRES        TORRES
+                   TORRES
                                                                                PUENTES 18:31:41 -04'00'
                    Fecha: 2026.07.10 16:01:40 -04'00'
 

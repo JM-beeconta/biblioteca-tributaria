@@ -211,9 +211,10 @@ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
  ELENA ELENA ARROYO
  ARROYO SALDIAS
          Fecha:
- SALDIAS 2026.10.23
+ SALDIAS 16:36:58
+         2026.10.23
                                                       DIRECTOR
-         16:36:58 -03'00'
+                  -03'00'
 
 
 
