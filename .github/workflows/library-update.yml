@@ -1,8 +1,15 @@
 name: Actualizar Biblioteca Tributaria
 
 on:
+  # 3 revisiones al día (hora de Chile). La de la mañana incluye LeyChile/BCN, que es la descarga
+  # pesada y no cambia varias veces al día; las otras dos sólo revisan el SII (2 últimos años).
+  # GitHub puede atrasar un cron programado entre 5 y 30 minutos en horas de alta carga.
   schedule:
-    - cron: '17 6 * * 1'
+    - cron: '17 7 * * *'
+      timezone: 'America/Santiago'
+    - cron: '17 13 * * *'
+      timezone: 'America/Santiago'
+    - cron: '17 19 * * *'
       timezone: 'America/Santiago'
   workflow_dispatch:
 
@@ -39,8 +46,16 @@ jobs:
           git config user.name "beeconta-library-bot"
           git config user.email "actions@users.noreply.github.com"
 
-      - name: Actualizar últimos dos años y base legal vigente
-        run: node scripts/update.mjs --weekly
+      - name: Actualizar últimos dos años (y base legal vigente en la corrida de la mañana)
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        shell: bash
+        run: |
+          if [ -n "$SCHEDULE" ] && [ "$SCHEDULE" != '17 7 * * *' ]; then
+            node scripts/update.mjs --weekly --skip-bcn
+          else
+            node scripts/update.mjs --weekly
+          fi
 
       - name: Guardar cambios
         shell: bash
@@ -51,7 +66,7 @@ jobs:
             echo "Sin cambios de fuente."
             exit 0
           fi
-          git commit -m "chore: actualización semanal SII y BCN"
+          git commit -m "chore: actualización SII y BCN"
           # git push puede perder la carrera contra otro workflow empujando a main al mismo
           # tiempo (visto en producción: "fetch first" incluso después del rebase, porque otro
           # push llegó en la ventana entre el rebase y el push) — sin reintento, todo el trabajo

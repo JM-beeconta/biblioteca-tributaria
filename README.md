@@ -89,19 +89,22 @@ Cada cambio en `main` dispara `Publicar Biblioteca Tributaria`:
 
 La verificación no escribe commits, evitando loops de despliegue.
 
-## Actualización semanal
+## Actualización diaria (3 veces al día)
 
-`Actualizar Biblioteca Tributaria` corre cada lunes a las **06:17 America/Santiago**.
+`Actualizar Biblioteca Tributaria` corre todos los días a las **07:17, 13:17 y 19:17 America/Santiago** (GitHub puede atrasar un cron entre 5 y 30 minutos).
 
-La corrida semanal:
+Cada corrida:
 
-- relee las normas base de BCN, sus versiones con vigencia diferida y sus normas modificatorias;
+- sólo en la de las 07:17: relee las normas base de BCN, sus versiones con vigencia diferida y sus normas modificatorias;
 - revisa año actual y anterior de Circulares SII;
 - revisa año actual y anterior de Oficios SII;
 - revisa año actual y anterior de Resoluciones SII;
 - calcula SHA-256 para detectar cambios;
 - actualiza Markdown, índice y relaciones;
-- guarda cambios en Git y vuelve a publicar.
+- guarda cambios en Git y vuelve a publicar **sólo si hay documentos nuevos o modificados**; un documento que vuelve idéntico no se reescribe (ni siquiera `last_seen_at`), así que una corrida sin novedades no genera commit ni despliegue;
+- conserva la referencia al original archivado (`original_file.release/asset/path`) cuando el archivo no cambió.
+
+Por eso "Última actualización" en el sitio es la fecha de la última novedad, no de la última revisión; las revisiones se ven en la pestaña Actions del repositorio.
 
 Las descargas usan timeout, reintentos y concurrencia máxima de dos documentos.
 
@@ -138,7 +141,7 @@ El front busca localmente en `catalog.json` y permite filtrar por:
 - sólo consulta información pública;
 - no usa login ni credenciales;
 - usa concurrencia baja, pausas y timeout;
-- la revisión recurrente es semanal;
+- la revisión recurrente es 3 veces al día y sólo la primera consulta LeyChile;
 - cada documento conserva el enlace oficial;
 - la copia local facilita consulta, pero no sustituye la fuente oficial.
 
