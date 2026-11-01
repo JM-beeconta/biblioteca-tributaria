@@ -7,7 +7,7 @@
 - Fecha: N/A
 - Categoría: Rentas Municipales
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
-- Hash SHA-256: 2638774bc5f09e1b5cbfb55e03b9b77b19ec84659c1689812eb5953930dc7c7d
+- Hash SHA-256: 32ea1f693c71df1402d9ced8fd3a3543df068385114b3a087b03d8f01b7789b8
 
 ## Resumen
 
@@ -27,6 +27,10 @@ Texto legal oficial de LeyChile. Versión vigente consultada en LeyChile.
 - {"type":"articulo","law":"CT","article":"8"}
 - {"type":"articulo","law":"CT","article":"165"}
 - {"type":"articulo","law":"CT","article":"97"}
+- {"type":"articulo","law":"CT","article":"47 y d"}
+- {"type":"articulo","law":"CT","article":"192"}
+- {"type":"articulo","law":"CT","article":"177"}
+- {"type":"articulo","law":"CT","article":"53"}
 
 ## Texto extraído
 
@@ -54,10 +58,15 @@ La celebración del convenio de colaboración permitirá al Tesorero General de 
 a) Declarar incobrables los ingresos o rentas municipales morosas de la municipalidad respectiva que se hubieren girado, que correspondan a deudas semestrales de monto no superior al diez por ciento de una unidad tributaria mensual, siempre que hubiere transcurrido más de un semestre desde la fecha en que se hicieron exigibles.
 El Tesorero General de la República declarará la incobrabilidad de los ingresos o rentas municipales morosas a que se refiere el párrafo anterior, de acuerdo con los antecedentes proporcionados por la unidad encargada de la administración y finanzas de la municipalidad respectiva, y procederá a la eliminación de los giros u órdenes respectivos. La nómina de deudores incobrables se remitirá a la Contraloría General de la República.
 b) Condonar total o parcialmente los intereses y sanciones por la mora en el pago de los ingresos o rentas municipales morosas sujetas a la cobranza administrativa y judicial de dicho servicio, mediante normas o criterios objetivos y de general aplicación, con estricta sujeción a las políticas de condonación fijadas conforme al artículo 207 del Código Tributario.
-c) Realizar el cobro judicial de los derechos de aseo en conformidad a las normas contenidas en el Título V del Libro III del Código Tributario, sin perjuicio de lo señalado en el inciso primero del artículo 47 de esta ley.
+c) Elim Ley 21850
+Art. 31 N° 1
+D.O. 17.10.2026 inado.
 
 En el evento que las municipalidades celebren con el Servicio de Tesorerías el convenio de colaboración indicado en el inciso primero, no podrán percibir ni cobrar los ingresos y rentas municipales en conformidad a lo dispuesto en el artículo 2. Tampoco podrán celebrar convenios destinados al pago de los indicados ingresos y rentas municipales ni condonar las multas e intereses producidos por el no pago de aquellos.
 La Subsecretaría de Desarrollo Regional y Administrativo deberá prestar su colaboración al Servicio de Tesorerías con el objetivo de coordinar con las municipalidades el adecuado funcionamiento de los convenios celebrados en conformidad a este artículo.
+Los Ley 21850
+Art. 31 N° 2
+D.O. 17.10.2026 convenios de colaboración a que se refiere este artículo no comprenderán la cobranza administrativa o judicial de las deudas morosas por patentes contempladas en el artículo 23, ni por tarifas de aseo a que se refiere el artículo 7, las que se regirán por lo dispuesto en los artículos 47 bis, 47 ter y 47 quáter.
 
 TITULO II
 Del producto de los bienes municipales
@@ -448,21 +457,22 @@ Artículo 41.- Entre otros servicios, concesiones o permisos por los cuales est�
 1.- Los que se prestan u otorgan a través de la unidad a cargo de obras municipales, relativos a urbanización y construcción y que se regulan, en cuanto a su naturaleza y monto de las prestaciones exigibles, por la ley general del ramo, su ordenanza general y las ordenanzas locales. Las tasas de los derechos establecidas en el primero de los textos citados son las máximas que pueden cobrarse pudiendo las municipalidades rebajarlas.
 Las Ley 21681
 Art. 13
-D.O. 01.07.2024 municipalidades, a través de su alcalde o alcaldesa, y con acuerdo del concejo municipal, adoptado de conformidad con lo dispuesto en el artículo 86 de la ley Nº 18.695, orgánica constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fija el decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Interior, podrán rebajar o, excepcionalmente, eximir del pago de los derechos municipales a que se refiere el párrafo anterior a las subdivisiones de terrenos fiscales que se requieran para ejecutar los proyectos del Plan de Emergencia Habitacional, incluyendo aquellos proyectos destinados a la reposición y construcción de viviendas, equipamiento, proyectos de urbanización y otros relacionados con la reconstrucción de las zonas afectadas por los incendios que afectaron la Región de Valparaíso durante el mes de febrero del año 2024.
-2.- Ocupaciones de la vía pública, con mantención de escombros, materiales de construcción, andamios y cierres, etc.
-3.- Extracción de arena, ripio u otros materiales, LEY 20280
+D.O. 01.07.2024 municipalidades, a través de su alcalde o alcaldesa, y con acuerdo del concejo municipal, adoptado de conformidad con lo dispuesto en el artículo 86 de la ley Nº 18.695, orgánica constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fija el decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Interior, podrán rebajar o, excepcionalmente, eximir del pago de los derechos municipales a que se refiere el párrafo anterior a las subdivisiones de terrenos fiscales que se requieran para ejecutar los proyectos del Plan de Emergencia Habitacional, incluyendo aquellos proyectos destinados a la reposición y construcción de viviendas, equipamiento, proyectos de urbanización y otros relacionados con la reconstrucción de las zonas afectadas por los incendios que afectaron la Región de Valparaíso durante el mes de febrero del año 2024 Ley 21850
+Art. 2
+D.O. 17.10.2026 y las regiones de Ñuble y del Biobío durante el mes de enero del año 2026.
+2.- Ocupaciones de la vía pública, con mantención de escombros, materiales de construcción, andami LEY 20280
 Art. 2º Nº 7
-D.O. 04.07.2008 de bienes nacionales de uso publico, o desde pozos lastreros ubicados en inmuebles de propiedad particular.
-4.- Instalaciones o construcciones varias en bienes nacionales de uso público.
-5.- Los permisos que se otorgan para la LEY 20280
+D.O. 04.07.2008 os y cierres, etc.
+3.- Extracción de arena, ripio u otros materiales, de bienes nacionales de uso publico, o desde pozos lastreros ubicados en inmuebles de propiedad particular.
+4.- Instalaciones o construcciones varias en bien LEY 20280
 Art. 2º Nº 8
-D.O. 04.07.2008 instalación de publicidad en la vía pública, o que sea vista u oída desde la misma, en conformidad a la Ordenanza Local de Propaganda y Publicidad. El valor correspondiente a este permiso se pagará anualmente, según lo establecido en la respectiva Ordenanza Local. En todo caso, los municipios no podrán cobrar por tales permisos, cuando se trate de publicidad que sólo dé a conocer el giro de un establecimiento y se encuentre adosada a la o las edificaciones donde se realiza la actividad propia del giro.
+D.O. 04.07.2008 es nacionales de uso público.
+5.- Los permisos que se otorgan para la instalación de publicidad en la vía pública, o que sea vista u oída desde la misma, en conformidad a la Ordenanza Local de Propaganda y Publicidad. El valor correspondiente a este permiso se pagará anualmente, según lo establecido en la respectiva Ordenanza Local. En todo caso, los municipios no podrán cobrar por tales permisos, cuando se trate de publicidad que sólo dé a conocer el giro de un establecimiento y se encuentre adosada a la o las edificaciones donde se realiza la actividad propia del giro.
 Las normas para regular los estándares técnicos de diseño y emplazamiento para la instalación de la publicidad a que se refieren los acápites anteriores, serán fijadas en la Ordenanza General de Urbanismo y Construcciones, a la cual deberán ceñirse las respectivas ordenanzas locales sobre propaganda y publicidad.
 Las municipalidades deberán publicar semestralmente, en lugares visibles de sus dependencias y estar disponibles para su consulta por cualquier vecino, los listados de los permisos de propaganda otorgados en la comuna, ordenados por vías públicas, con identificación de sus titulares y valores correspondientes a cada permiso.
 Estos valores se pagarán en la misma época en que corresponde enterar las patentes del artículo 24.-, aplicándose las normas contenidas en el artículo 29.
 En el caso de altoparlantes las municipalidades estarán facultadas para negar o poner término discrecionalmente a los permisos que se otorguen para este medio de propaganda.
-6.- Examen de conductores y otorgamiento de licencia de conducir:
-a) De vehículos motori LEY 20033
+6.- Examen de condu LEY 20033
 Art. 4º Nº 12 b)
 D.O. 01.07.2005
 LEY 19704
@@ -470,7 +480,8 @@ Art. 2º Nº 10
 D.O. 28.12.2000
 LEY 20237
 Art. 1º Nº 2
-D.O. 24.12.2007 zados.
+D.O. 24.12.2007 ctores y otorgamiento de licencia de conducir:
+a) De vehículos motorizados.
 b) De otros vehículos.
 7.- Transferencia de vehículos con permisos de circulación, 1,5% sobre el precio de venta, teniendo como mínimo el precio corriente en plaza que determine el Servicio de Impuestos Internos, según lo establecido en la letra a) del artículo 12, salvo prueba en contrario. El pago del derecho mencionado se efectuará en cualquiera de los bancos e instituciones financieras autorizados para recaudar tributos, al momento de celebrarse el contrato de compraventa, y será de cargo del vendedor, salvo pacto en contrario. El Servicio de Tesoreras deberá incorporar al Fondo Común Municipal las cantidades recaudadas por este concepto. Los notarios y oficiales civiles que autoricen la transferencia deberán exigir previamente la acreditación del pago del último permiso de circulación y estarán facultados para emitir el giro correspondiente.
 8.- Comerciantes ambulantes.
@@ -694,11 +705,37 @@ El Servicio de Impuestos Internos deberá comunicar a la Secretaría Técnica, e
 TITULO IX
 Del Cobro Judicial
 
-Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas municipales, tendrá mérito ejecutivo el certificado que acredite la deuda emitido por el secretario municipal. La acción se deducirá ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil.
+Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas municipales, tendrá mérito ejecutivo el certificado que acredite la deuda emitido por el secretario municipal. La acción se deducirá ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil. Tratándose Ley 21850
+Art. 31 N° 4
+D.O. 17.10.2026 de las patentes a que se refiere el artículo 23, y las tarifas de aseo a que se refiere el artículo 7, lo anterior es sin perjuicio de lo dispuesto en los artículos 47 bis, 47 ter y 47 quáter.
 Lo dispuesto en el inciso precedente, es sin perjuicio de las sanciones que correspondan aplicarse por el juez de policía local correspondiente.
 La cobranza administrativa y judicial del impuesto territorial se regirá por las normas contenidas en el Título V del Libro III del Código Tributario.
 
-Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestaciones señaladas en el artículo anterior, quedará obligado, además, al pago de los reajustes e intereses en la forma y condiciones establecidas en los artículos 53, 54 y 55 del Código Tributario.
+Artículo 47 bis.- Información Ley 21850
+Art. 31 N° 5
+D.O. 17.10.2026 de deudas por concepto de patente municipal y tarifas de aseo. Dentro de los primeros quince días del mes de marzo de cada año, las municipalidades deberán remitir al Servicio de Tesorerías, por los medios electrónicos y en el formato que éste determine mediante resolución, una nómina de los contribuyentes que se encuentren en mora en el pago de las patentes a que se refieren los artículos 23 y siguientes, y de las tarifas de aseo a que se refiere el artículo 7.
+La nómina individualizará al deudor con su nombre o razón social y rol único tributario; el rol de la patente o el rol de avalúo del inmueble, en su caso; el domicilio del establecimiento; los períodos adeudados, y el monto del capital girado, con sus reajustes, intereses y multas, calculados en conformidad al artículo 48. Sólo podrán incluirse deudas giradas y actualmente exigibles, respecto de las cuales no haya transcurrido el plazo de prescripción de la acción de cobro, no exista reclamación administrativa o judicial pendiente, ni se haya decretado la suspensión de la cobranza por autoridad competente.
+La nómina, suscrita por el secretario municipal en su calidad de ministro de fe, tendrá mérito ejecutivo respecto de cada una de las deudas que comprenda y hará las veces, para todos los efectos legales, del certificado a que se refiere el inciso primero del artículo 47 y de la nómina de deudores morosos prevista en el artículo 169 del Código Tributario.
+Remitida la nómina, la municipalidad quedará inhibida, respecto de las deudas incluidas en ella, y mientras se mantengan vigentes en el sistema de cobranza de Tesorería, de ejercer la acción del artículo 47, de percibir directamente el pago, de celebrar convenios de pago y de condonar reajustes, intereses o multas. Los pagos que, no obstante, reciba, deberá informarlos al Servicio de Tesorerías dentro de quinto día, para la rebaja o eliminación del giro respectivo.
+La municipalidad deberá comunicar al Servicio de Tesorerías, dentro de quinto día de ocurrido, todo hecho que modifique o extinga total o parcialmente las deudas informadas, en especial las sentencias que acojan reclamos de ilegalidad conforme al artículo 151 del decreto con fuerza de ley N° 1, de 2006, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.695, orgánica constitucional de Municipalidades.
+
+Artículo 47 ter.- Cobranza Ley 21850
+Art. 31 N° 6
+D.O. 17.10.2026 por el Servicio de Tesorerías. Corresponderá al Servicio de Tesorerías la cobranza administrativa y judicial de las deudas incluidas en las nóminas a que se refiere el artículo anterior, la que se regirá por las normas contenidas en el Título V del Libro III del Código Tributario, correspondiendo al tesorero regional o provincial respectivo la calidad de juez sustanciador en los términos del artículo 170 de dicho Código.
+Para estos efectos, el Servicio de Tesorerías gozará, respecto de estas acreencias, de las mismas facultades y prerrogativas que las leyes le confieren para la cobranza de los impuestos fiscales en mora. En particular, el Tesorero General de la República podrá otorgar facilidades para el pago en conformidad al artículo 192 del Código Tributario; condonar total o parcialmente los intereses y sanciones por la mora, mediante normas objetivas y de general aplicación, con estricta sujeción a las políticas de condonación fijadas conforme al artículo 207 del mismo Código, y declarar la incobrabilidad de las deudas en los casos del artículo 196, procediendo a la eliminación de los giros respectivos. Las declaraciones de incobrabilidad y las condonaciones serán informadas a la municipalidad acreedora y, las primeras, además, a la Contraloría General de la República.
+En el mes de marzo de cada año, antes del pago de la devolución anual de impuestos a la renta, la Tesorería General de la República deberá verificar si el contribuyente figura como deudor en las nóminas vigentes remitidas conforme al artículo 47 bis. En tal caso, deberá retener de la devolución una suma equivalente al monto adeudado, con sus reajustes, intereses y multas, e imputarla al pago de la deuda, en la medida en que el monto a devolver sea superior a ésta. Si la deuda fuere mayor al monto correspondiente a la devolución anual, la Tesorería deberá retener e imputar la totalidad de la suma correspondiente a dicha devolución. Esta retención se practicará con posterioridad a la establecida en el artículo 30 de la ley N° 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, cuyo texto refundido, coordinado, y sistematizado fue fijado por el artículo 7 del decreto con fuerza de ley N° 1, de 2000, del Ministerio de Justicia, y a las demás que gocen de preferencia legal. En caso de que concurran deudas por concepto de patente municipal o tarifas de aseo de dos o más municipios, deberá darse prioridad a aquellas deudas más antiguas registradas en los sistemas de Tesorería General de la República. La retención practicada en los términos indicados será informada al contribuyente y a la municipalidad respectiva.
+El contribuyente podrá oponerse a la ejecución únicamente mediante las excepciones contempladas en el artículo 177 del Código Tributario. La imputación de los pagos parciales se efectuará en conformidad al artículo 50 del mismo Código.
+
+Artículo 47 quáter.- Entero Ley 21850
+Art. 31 N° 7
+D.O. 17.10.2026 de lo recaudado a las municipalidades. Las cantidades que el Servicio de Tesorerías perciba por aplicación de los artículos 47 bis y 47 ter no ingresarán a rentas generales de la Nación y se contabilizarán en una cuenta especial de terceros, en calidad de fondos de administración municipal.
+Dentro de los primeros quince días del mes siguiente al de su recaudación, la Tesorería General de la República deberá enterar a cada municipalidad acreedora la totalidad de lo percibido por concepto de capital, reajustes, intereses y multas.
+Junto con cada entero, el Servicio de Tesorerías remitirá a la municipalidad una rendición detallada por deudor, período, concepto y monto, así como el estado de las gestiones de cobranza pendientes, la que servirá de respaldo suficiente para la contabilización municipal de los ingresos.
+Si la Tesorería General de la República efectuare el entero fuera del plazo señalado o incumpliere las obligaciones previstas en este artículo, el personal respectivo incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, del diez por ciento al cincuenta por ciento de su remuneración, sin perjuicio del reajuste de las sumas retardadas en conformidad al artículo 53 del Código Tributario.
+
+Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestaciones señaladas en el artículo Ley 21850
+Art. 31 N° 8
+D.O. 17.10.2026 47, quedará obligado, además, al pago de los reajustes e intereses en la forma y condiciones establecidas en los artículos 53, 54 y 55 del Código Tributario.
 
 Artículo 49.- El propietario o conductor de un vehículo que fuere sorprendido sin haber pagado el permiso de circulación o con dicho permiso vencido, incurrirá en una multa de hasta el 35% de lo que corresponda pagar por ese concepto.
 

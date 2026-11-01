@@ -7,11 +7,11 @@
 - Fecha: N/A
 - Categoría: Renta
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=6368
-- Hash SHA-256: 1c32a3b3430a3bbfc6f12b1c1bfca16d8f9e7d4e823c45e319fe1bc37ebaa18c
+- Hash SHA-256: 9d172790ce13921c3a90cb86c0ef6bae291b31b9e423196adc358c2c74241861
 
 ## Resumen
 
-ARTICULO 20°.- Establécese Ley 21210 Art. segundo N° 10 a) D.O. 24.02.2020 un impuesto de NOTA 25% que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Conforme a lo anterior, para los contribuyentes que se acojan al Régimen Pro Pyme contenido en la letra D) del artículo 14, la tasa será de 25%. En el caso de los contribuyentes sujetos al régimen del artículo 14 letra A, el impuesto será de 27%. Este impuesto se determinará, recaudará y pagará sobre: 1°.- L…
+ARTICULO 20°.- Establécese Ley 21210 Art. segundo N° 10 a) D.O. 24.02.2020 un impuesto de NOTA 23% Ley 21850 Art. 8 N° 3 a), b) y c) D.O. 17.10.2026 que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Este impuesto se determinará, recaudará y pagará sobre: 1°.- L Ley 20630 Art. 1 N° 7 a) D.O. 27.09.2012 a renta de los bienes raíces en conformidad a las normas siguientes: a) Tratán LEY 19753 Art. único Nº 1 D.O. 28.09.2001 dose de contribuyentes que posean…
 
 ## Referencias detectadas
 
@@ -23,7 +23,9 @@ ARTICULO 20°.- Establécese Ley 21210 Art. segundo N° 10 a) D.O. 24.02.2020 un
 ARTICULO 20°.- Establécese Ley 21210
 Art. segundo N° 10 a)
 D.O. 24.02.2020 un impuesto de NOTA
-25% que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Conforme a lo anterior, para los contribuyentes que se acojan al Régimen Pro Pyme contenido en la letra D) del artículo 14, la tasa será de 25%. En el caso de los contribuyentes sujetos al régimen del artículo 14 letra A, el impuesto será de 27%. Este impuesto se determinará, recaudará y pagará sobre:
+23% Ley 21850
+Art. 8 N° 3 a), b) y c)
+D.O. 17.10.2026 que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Este impuesto se determinará, recaudará y pagará sobre:
 
 1°.- L Ley 20630
 Art. 1 N° 7 a)

@@ -7,11 +7,11 @@
 - Fecha: N/A
 - Categoría: Rentas Municipales
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
-- Hash SHA-256: 7adf3c80adbc37af20aa05c7b94bc5e84ecb45dc889ed5b95cb7cc1fb104c329
+- Hash SHA-256: fe99dad8691950a6060cc9039c568d5d2a84a54414929d13f40071542532e050
 
 ## Resumen
 
-Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestaciones señaladas en el artículo anterior, quedará obligado, además, al pago de los reajustes e intereses en la forma y condiciones establecidas en los artículos 53, 54 y 55 del Código Tributario.
+Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestaciones señaladas en el artículo Ley 21850 Art. 31 N° 8 D.O. 17.10.2026 47, quedará obligado, además, al pago de los reajustes e intereses en la forma y condiciones establecidas en los artículos 53, 54 y 55 del Código Tributario.
 
 ## Referencias detectadas
 
@@ -19,4 +19,6 @@ Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestac
 
 ## Texto extraído
 
-Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestaciones señaladas en el artículo anterior, quedará obligado, además, al pago de los reajustes e intereses en la forma y condiciones establecidas en los artículos 53, 54 y 55 del Código Tributario.
+Artículo 48.- El contribuyente que se constituyere en mora de pagar las prestaciones señaladas en el artículo Ley 21850
+Art. 31 N° 8
+D.O. 17.10.2026 47, quedará obligado, además, al pago de los reajustes e intereses en la forma y condiciones establecidas en los artículos 53, 54 y 55 del Código Tributario.

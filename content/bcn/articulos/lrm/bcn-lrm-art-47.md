@@ -7,11 +7,11 @@
 - Fecha: N/A
 - Categoría: Rentas Municipales
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=18967
-- Hash SHA-256: 0b90d559fde6a04683d0783b62ca768616994b102fc22e74922a8a2f5cee7473
+- Hash SHA-256: db32078a22ce69ecbcc93e24be38e77ad0910d94f10d6f6fe807e79a420548d4
 
 ## Resumen
 
-Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas municipales, tendrá mérito ejecutivo el certificado que acredite la deuda emitido por el secretario municipal. La acción se deducirá ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil. Lo dispuesto en el inciso precedente, es sin perjuicio de las sanciones que correspondan aplicarse por el juez de policía local correspondiente. La cobranza administrativ…
+Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas municipales, tendrá mérito ejecutivo el certificado que acredite la deuda emitido por el secretario municipal. La acción se deducirá ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil. Tratándose Ley 21850 Art. 31 N° 4 D.O. 17.10.2026 de las patentes a que se refiere el artículo 23, y las tarifas de aseo a que se refiere el artículo 7, lo anterior es si…
 
 ## Referencias detectadas
 
@@ -19,6 +19,8 @@ Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas
 
 ## Texto extraído
 
-Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas municipales, tendrá mérito ejecutivo el certificado que acredite la deuda emitido por el secretario municipal. La acción se deducirá ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil.
+Artículo 47.- Para efectos del cobro judicial de las patentes, derechos y tasas municipales, tendrá mérito ejecutivo el certificado que acredite la deuda emitido por el secretario municipal. La acción se deducirá ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil. Tratándose Ley 21850
+Art. 31 N° 4
+D.O. 17.10.2026 de las patentes a que se refiere el artículo 23, y las tarifas de aseo a que se refiere el artículo 7, lo anterior es sin perjuicio de lo dispuesto en los artículos 47 bis, 47 ter y 47 quáter.
 Lo dispuesto en el inciso precedente, es sin perjuicio de las sanciones que correspondan aplicarse por el juez de policía local correspondiente.
 La cobranza administrativa y judicial del impuesto territorial se regirá por las normas contenidas en el Título V del Libro III del Código Tributario.

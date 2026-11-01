@@ -7,7 +7,7 @@
 - Fecha: N/A
 - Categoría: Renta
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=6368
-- Hash SHA-256: 8dd52b27e380286894d3983396ff0808e6938431313d9aae39e8a83e4d1fad71
+- Hash SHA-256: 40b32555438566b77184ec93fdf200c0504c0412dd006d8fca00b25d70951a83
 
 ## Resumen
 
@@ -843,7 +843,9 @@ De los contribuyentes y de la tasa del impuesto
 ARTICULO 20°.- Establécese Ley 21210
 Art. segundo N° 10 a)
 D.O. 24.02.2020 un impuesto de NOTA
-25% que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Conforme a lo anterior, para los contribuyentes que se acojan al Régimen Pro Pyme contenido en la letra D) del artículo 14, la tasa será de 25%. En el caso de los contribuyentes sujetos al régimen del artículo 14 letra A, el impuesto será de 27%. Este impuesto se determinará, recaudará y pagará sobre:
+23% Ley 21850
+Art. 8 N° 3 a), b) y c)
+D.O. 17.10.2026 que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Este impuesto se determinará, recaudará y pagará sobre:
 
 1°.- L Ley 20630
 Art. 1 N° 7 a)
@@ -1482,6 +1484,48 @@ En todo lo demás, se aplicarán las reglas establecidas en la letra a) preceden
 c) Eliminada Ley 21420
 Art. 1 N° 2
 D.O. 04.02.2022 .
+
+Artículo 33° ter.- Crédito por remuneraciones pagadas Ley 21850
+Art. 7
+D.O. 17.10.2026 a trabajadores de empresas que presten servicios del conocimiento en la economía digital.
+
+Los contribuyentes de impuesto de primera categoría que determinen sus rentas efectivas según contabilidad, y que en el ejercicio comercial correspondiente paguen cantidades a que se refiere el párrafo primero del N° 1 del artículo 42 de esta ley, tendrán derecho a imputar como crédito las cantidades que se indican a continuación, sujeto a los requisitos y a las reglas siguientes:
+
+1. Servicios elegibles
+
+Sólo tendrán derecho al crédito establecido en este artículo los contribuyentes que presten servicios que cumplan con los siguientes requisitos:
+
+a) Debe tratarse de servicios basados en el conocimiento, entendiéndose por tales aquellos que se sustentan principalmente en la calificación técnica o profesional, el uso intensivo de tecnología de la información, o el desarrollo tecnológico del prestador. No se entenderán como servicios basados en el conocimiento aquellos que no sean susceptibles de ser prestados o entregados a distancia, por medios digitales, electrónicos o de telecomunicaciones.
+b) Deben ser calificados como exportación por el Servicio Nacional de Aduanas.
+c) Deben ser prestados a personas sin domicilio ni residencia en el país.
+d) Deben ser prestados total o parcialmente en Chile, para ser utilizados en el extranjero.
+
+El Ministerio de Hacienda, mediante decreto y previo informe del Ministerio de Economía, Fomento y Turismo, determinará un catálogo de servicios de la economía del conocimiento. Se presumirá de pleno derecho que los servicios que el Ministerio de Hacienda incluya en el referido catálogo son servicios de la economía del conocimiento.
+El catálogo se actualizará anualmente. En todo caso, el Ministerio de Hacienda se verá liberado de la obligación de actualizar el catálogo en caso de que no exista una inclusión o exclusión en un determinado año.
+Anualmente, el Ministerio de Hacienda abrirá un período de consulta pública para que, en el plazo de 15 días hábiles administrativos, los contribuyentes puedan recomendar la inclusión de una determinada actividad en el catálogo de servicios de la economía del conocimiento.
+
+2. Monto y base del crédito
+
+El crédito establecido en este artículo será de un 15% y se aplicará sobre la parte de las remuneraciones pagadas en el ejercicio respectivo a cada trabajador domiciliado y residente en Chile, que esté vinculado a la prestación de los servicios descritos en el número anterior. Para efectos de determinar dicha parte, se deberá calcular previamente el porcentaje que representan los ingresos por la exportación de los referidos servicios dentro de un ejercicio, sobre los ingresos totales anuales del contribuyente, para posteriormente aplicar dicho porcentaje a las remuneraciones del ejercicio pagadas a los trabajadores. Dicho crédito se aumentará en 5 puntos porcentuales por trabajador respecto de aquellas empresas que tengan su casa matriz o sucursales, para efectos tributarios, en una región del país distinta a la Región Metropolitana, o en comunas rurales de la Región Metropolitana. Los trabajadores respecto de cuyas remuneraciones se otorga el presente beneficio deberán desempeñar sus labores principalmente en los domicilios referidos. Se entenderá por comunas rurales de la Región Metropolitana aquellas clasificadas como comunas predominantemente rurales o mixtas, de acuerdo con la clasificación de la Oficina de Estudios y Políticas Agrarias del Ministerio de Agricultura.
+Para efectos de este artículo, se considerará remuneración mensual individual el conjunto de haberes que forme parte de las remuneraciones imponibles del trabajador para efectos de aplicar las cotizaciones establecidas en el decreto ley N° 3.500, de 1980, del Ministerio del Trabajo y Previsión Social. Con todo, en ningún caso el presente crédito podrá superar para un mismo ejercicio comercial, el equivalente a 75 unidades tributarias mensuales, por cada trabajador, según el valor de ésta al 31 de diciembre del año correspondiente.
+
+3. Imputación del crédito
+
+El crédito determinado según las reglas precedentes se imputará contra el impuesto de primera categoría correspondiente al ejercicio en que se pagaron las remuneraciones. En caso de producirse un remanente de crédito, éste no dará derecho a devolución, pero podrá imputarse contra el Impuesto de Primera Categoría que corresponda pagar en los ejercicios posteriores, debidamente reajustado de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del segundo mes anterior al de iniciación del ejercicio y el último día del mes anterior al del balance.
+
+4. Acreditación del lugar de desempeño principal de las labores del trabajador
+
+Los contribuyentes que deduzcan el crédito a que se refiere este artículo respecto de trabajadores que desempeñen sus labores principalmente en una región distinta a la Región Metropolitana, o en comunas rurales de la Región Metropolitana, deberán llevar un registro de trabajadores en la forma que determine el Servicio de Impuestos Internos mediante resolución.
+Los contribuyentes que impetren el beneficio respecto de los trabajadores referidos en el párrafo anterior deberán aplicar los procedimientos que determine el Servicio de Impuestos Internos mediante resolución para asegurarse que el trabajador ejerce sus labores principalmente en una región distinta a la Región Metropolitana o en una comuna rural de la Región Metropolitana.
+En caso de que un contribuyente que haga uso del beneficio no haya tomado los resguardos necesarios para asegurarse de que el trabajador ejerce sus labores principalmente en una región distinta a la Región Metropolitana o en una comuna rural de la Región Metropolitana, o en forma culposa o dolosa haya ocupado el beneficio desconociendo el real lugar de ejercicio de las labores del trabajador, perderá el derecho a impetrar el crédito respecto de todas las remuneraciones pagadas en el ejercicio a los demás trabajadores, sin perjuicio de la aplicación de las sanciones que procedan en conformidad con lo establecido en el Título II del Libro Segundo del decreto ley N° 830.
+
+5. Incompatibilidad
+
+El crédito contemplado en este artículo es incompatible con cualquier otra franquicia, crédito, o bonificación establecida en base a las remuneraciones de los trabajadores, salvo por la bonificación establecida en la ley N° 19.853 de 2003. En este último caso, la suma del crédito establecido en este artículo y la referida bonificación no podrá exceder el 90% de las cotizaciones obligatorias de los trabajadores cuyas remuneraciones dan derecho al crédito.
+
+6. Revisión periódica
+
+Cada cinco años, el Ministerio de Hacienda deberá emitir un informe público sobre el impacto del crédito referido en el empleo, el efecto fiscal generado, el crecimiento de la industria de la exportación de servicios del conocimiento y su relación con este crédito, entre otros. El informe será remitido a la Cámara de Diputados y al Senado.
 
 Ley 20780
 Art. 1 N° 18

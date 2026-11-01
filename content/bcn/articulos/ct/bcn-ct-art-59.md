@@ -7,7 +7,7 @@
 - Fecha: N/A
 - Categoría: Código Tributario
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=6374
-- Hash SHA-256: 8c99f9a53540c2ef85f5ad373566b42f5328f5c01cbe581189a0f27926f68417
+- Hash SHA-256: a649543cc54e66097561bfa4015849e63e4164a1fa318b2ec74af52db4470583
 
 ## Resumen
 
@@ -52,3 +52,6 @@ e) Cuando se requiera información de una autoridad extranjera.
 Los plazos de doce y dieciocho meses indicados en los dos incisos anteriores podrán ser ampliados por una sola vez, por un plazo de seis meses, por resolución fundada. Las referidas resoluciones deberán ser emitidas en cumplimiento del derecho establecido en el artículo 8 bis Nº 4 y deberán ser notificadas al contribuyente a más tardar el último día del plazo original que tenía el Servicio para citar, liquidar, emitir la resolución o formular giros, según corresponda. Respecto de dichas resoluciones no procederá el recurso de reposición administrativa voluntaria del artículo 123 bis ni el reclamo judicial establecido en el artículo 124.
 Si dentro de los plazos señalados en los incisos cuarto y quinto, más su ampliación cuando corresponda, y del análisis de los antecedentes presentados en respuesta al requerimiento de antecedentes efectuado en virtud del presente artículo se estima procedente la aplicación del procedimiento establecido en el artículo 4 quinquies, por tratarse de alguno de los casos señalados en los artículos 4 ter o 4 quáter, deberá notificarse la resolución, al contribuyente, a más tardar el último día del plazo que tenía el Servicio para citar, liquidar, emitir la resolución o formular giros, según corresponda, que informa que el procedimiento iniciado continuará bajo dicha normativa, en cuyo caso será aplicable el plazo establecido en el inciso sexto más su ampliación si corresponde, y deberá en todo caso considerarse el plazo ya transcurrido.
 Si dentro de los plazos señalados la unidad del Servicio que lleva a cabo un procedimiento de fiscalización respecto de un determinado impuesto detecta diferencias impositivas por otros conceptos, deberá iniciarse un nuevo requerimiento de fiscalización por la unidad del Servicio competente. En tal caso, deberá notificarse conforme a las reglas generales al contribuyente e indicar con claridad y precisión sobre el contenido y alcance de la nueva revisión, de modo de resguardar su derecho contenido en el número 4 del artículo 8 bis.
+Para Ley 21850
+Art. 18 N° 1
+D.O. 17.10.2026 el ejercicio de sus facultades de fiscalización, el Servicio podrá requerir, recibir y efectuar cruces de información con datos nominados provenientes de todos los órganos de la Administración del Estado, incluyendo aquellos contenidos en registros, bases de datos o sistemas de información administrados por dichos órganos, cualquiera sea su soporte, en la medida que ello resulte necesario para el correcto ejercicio de sus funciones de fiscalización y la correcta aplicación de los tributos. El Servicio deberá adoptar las medidas necesarias para resguardar la confidencialidad y seguridad de los datos, de conformidad a la ley, sin perjuicio de las demás normas sobre secreto o reserva aplicables.

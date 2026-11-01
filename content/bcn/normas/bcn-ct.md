@@ -7,7 +7,7 @@
 - Fecha: N/A
 - Categoría: Código Tributario
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=6374
-- Hash SHA-256: 77e46c3633e6e799d6673c1457ffe5bd082b6617ed2b1baf4ac6c94aad1ec2a6
+- Hash SHA-256: 1bc6b17cef89ae68cd940379a733bfe93fe7d9f1d5c71fbf80197889d05e06d5
 
 ## Resumen
 
@@ -32,6 +32,7 @@ Texto legal oficial de LeyChile. Versión vigente consultada en LeyChile.
 - {"type":"articulo","law":"CT","article":"63"}
 - {"type":"articulo","law":"CT","article":"97"}
 - {"type":"articulo","law":"CT","article":"8"}
+- {"type":"articulo","law":"CT","article":"35"}
 - {"type":"articulo","law":"CT","article":"162"}
 
 ## Texto extraído
@@ -1011,6 +1012,9 @@ e) Cuando se requiera información de una autoridad extranjera.
 Los plazos de doce y dieciocho meses indicados en los dos incisos anteriores podrán ser ampliados por una sola vez, por un plazo de seis meses, por resolución fundada. Las referidas resoluciones deberán ser emitidas en cumplimiento del derecho establecido en el artículo 8 bis Nº 4 y deberán ser notificadas al contribuyente a más tardar el último día del plazo original que tenía el Servicio para citar, liquidar, emitir la resolución o formular giros, según corresponda. Respecto de dichas resoluciones no procederá el recurso de reposición administrativa voluntaria del artículo 123 bis ni el reclamo judicial establecido en el artículo 124.
 Si dentro de los plazos señalados en los incisos cuarto y quinto, más su ampliación cuando corresponda, y del análisis de los antecedentes presentados en respuesta al requerimiento de antecedentes efectuado en virtud del presente artículo se estima procedente la aplicación del procedimiento establecido en el artículo 4 quinquies, por tratarse de alguno de los casos señalados en los artículos 4 ter o 4 quáter, deberá notificarse la resolución, al contribuyente, a más tardar el último día del plazo que tenía el Servicio para citar, liquidar, emitir la resolución o formular giros, según corresponda, que informa que el procedimiento iniciado continuará bajo dicha normativa, en cuyo caso será aplicable el plazo establecido en el inciso sexto más su ampliación si corresponde, y deberá en todo caso considerarse el plazo ya transcurrido.
 Si dentro de los plazos señalados la unidad del Servicio que lleva a cabo un procedimiento de fiscalización respecto de un determinado impuesto detecta diferencias impositivas por otros conceptos, deberá iniciarse un nuevo requerimiento de fiscalización por la unidad del Servicio competente. En tal caso, deberá notificarse conforme a las reglas generales al contribuyente e indicar con claridad y precisión sobre el contenido y alcance de la nueva revisión, de modo de resguardar su derecho contenido en el número 4 del artículo 8 bis.
+Para Ley 21850
+Art. 18 N° 1
+D.O. 17.10.2026 el ejercicio de sus facultades de fiscalización, el Servicio podrá requerir, recibir y efectuar cruces de información con datos nominados provenientes de todos los órganos de la Administración del Estado, incluyendo aquellos contenidos en registros, bases de datos o sistemas de información administrados por dichos órganos, cualquiera sea su soporte, en la medida que ello resulte necesario para el correcto ejercicio de sus funciones de fiscalización y la correcta aplicación de los tributos. El Servicio deberá adoptar las medidas necesarias para resguardar la confidencialidad y seguridad de los datos, de conformidad a la ley, sin perjuicio de las demás normas sobre secreto o reserva aplicables.
 
 Artículo 59 bis.- Ley 21210
 Art. primero N° 24
@@ -1608,6 +1612,11 @@ La información a la que accederá el Servicio por aplicación del presente art�
 NOTA
 El N° 5 del artículo primero transitorio de la Ley 21713, publicada el 24.10.2024 establece que el primer reporte semestral a que hace referencia el presente artículo, deberá realizarse durante el segundo semestre de 2024.
 
+Artículo 85 quáter.- Con Ley 21850
+Art. 18 N° 2
+D.O. 17.10.2026 el exclusivo fin de analizar la focalización de los programas sociales, evaluar la eficiencia y correcta asignación del gasto público y proponer medidas de optimización presupuestaria, el Ministerio de Desarrollo Social y Familia, así como los órganos que administren Instrumentos de Caracterización Socioeconómica, deberán proporcionar a la Dirección de Presupuestos, a requerimiento fundado de ésta, la información sujeta a reserva o secreto.
+Asimismo, el Servicio de Impuestos Internos deberá proporcionar a la Dirección de Presupuestos la información tributaria que resulte estrictamente necesaria para validar los niveles de ingreso declarados por los beneficiarios de programas sociales, con el fin de evitar errores en la asignación presupuestaria y resguardar la correcta asignación de los recursos. Toda información intercambiada bajo este artículo mantendrá su carácter de secreta o reservada conforme al artículo 35 del Código Tributario y la normativa vigente.
+
 Artículo 86.- Los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrán el carácter de ministros de fe, para todos los efectos de este Código y las leyes tributarias. LEY 19806
 Art. 43
 D.O. 31.05.2002
@@ -2129,16 +2138,14 @@ D.O. 24.10.2024 lo dispuesto en el inciso anterior cuando sea aplicable el incis
 Artículo 120.- Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los Ley 21210
 Art. primero N° 37
 D.O. 24.02.2020 recursos de apelación y casación en la forma que se deduzcan contra las resoluciones del Tribunal Tributario y Aduanero, en los casos en que LEY 20322
-Art. SEGUNDO Nº 15 a)
+Art. SEGUNDO Nº 15 a), b) y c)
 D.O. 27.01.2009 ellos sean procedentes de conformidad a este Código.
 Conocerá de estos recursos la Corte de Apelaciones en cuyo territorio jurisdiccional tenga asiento el Tribunal Tributario y Aduanero que dictó la resolución apelada.
-LEY 20322
-Art. SEGUNDO Nº 15 b) y c)
-D.O. 27.01.2009 Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten en conformidad al artículo 118°.
 
-LEY 20322
-Art. SEGUNDO Nº 15 d)
-D.O. 27.01.2009
+Corresponde Ley 21850
+Art. 18 N° 3
+D.O. 17.10.2026 también a las Cortes de Apelaciones la tramitación, conocimiento y cumplimiento de todo asunto que haya correspondido conocer a los Tribunales Especiales de Alzada que hubiesen dejado de existir por modificación legal, salvo en cuanto se trate de recursos que estén en estado de fallo, caso en el cual deberá dictar la sentencia dicho Tribunal Especial de Alzada; con todo, en este último caso, las cuestiones referidas al cumplimiento y ejecución de los Tribunales Especiales de Alzada quedarán entregados al conocimiento de la respectiva Corte de Apelaciones.
+Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten en conformidad al artículo 118°.
 
 Artículo 121.- Suprimido.
 
