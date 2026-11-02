@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-02T01:44:54.219Z",
-  "total_documents": 18705,
+  "generated_at": "2026-11-02T20:39:23.253Z",
+  "total_documents": 18715,
   "by_source": {
     "BCN": 5156,
-    "SII": 13549
+    "SII": 13559
   },
   "by_type": {
     "articulo": 4723,
     "norma": 433,
+    "oficio": 7784,
     "resolucion": 2020,
-    "oficio": 7774,
     "circular": 3755
   },
   "by_year": {
@@ -65,8 +65,8 @@
     "2022": 916,
     "2023": 695,
     "2024": 450,
-    "2025": 598,
-    "2026": 1153,
+    "2025": 599,
+    "2026": 1162,
     "2027": 248,
     "2029": 164,
     "sin-fecha": 191
@@ -94,7 +94,7 @@
       "name": "2026.json",
       "path": "data/index/2026.json",
       "relations_path": "data/relations/2026.json",
-      "count": 426,
+      "count": 435,
       "source": "SII",
       "year": 2026
     },
@@ -102,7 +102,7 @@
       "name": "2025.json",
       "path": "data/index/2025.json",
       "relations_path": "data/relations/2025.json",
-      "count": 539,
+      "count": 540,
       "source": "SII",
       "year": 2025
     },

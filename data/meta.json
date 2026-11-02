@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-02T01:44:54.219Z",
-  "total_documents": 18705,
+  "generated_at": "2026-11-02T20:39:23.253Z",
+  "total_documents": 18715,
   "by_source": {
     "BCN": 5156,
-    "SII": 13549
+    "SII": 13559
   },
   "by_type": {
     "articulo": 4723,
     "norma": 433,
+    "oficio": 7784,
     "resolucion": 2020,
-    "oficio": 7774,
     "circular": 3755
   },
   "by_year": {
@@ -65,8 +65,8 @@
     "2022": 916,
     "2023": 695,
     "2024": 450,
-    "2025": 598,
-    "2026": 1153,
+    "2025": 599,
+    "2026": 1162,
     "2027": 248,
     "2029": 164,
     "sin-fecha": 191
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 965,
-  "changed_documents": 1,
-  "last_scrape_at": "2026-11-02T01:44:53.207Z",
+  "touched_documents": 3889,
+  "changed_documents": 499,
+  "last_scrape_at": "2026-11-02T20:39:22.195Z",
   "bcn_coverage": {
     "base": [
       {
@@ -155,15 +155,12 @@
         ]
       }
     ],
-    "modifiers_expected": 127,
-    "modifiers_stored": 126,
-    "missing": [
-      {
-        "idNorma": 143005,
-        "label": "Ley 19633"
-      }
+    "modifiers_expected": 97,
+    "modifiers_stored": 97,
+    "missing": [],
+    "listing_errors": [
+      "LIVS"
     ],
-    "listing_errors": [],
     "unavailable_in_leychile": [
       {
         "modifies": "LTE",
