@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Delega en el subdirector de contraloría interna la facultad que se contiene en el artículo 41 bis de la ley orgánica del servicio. Fuente: Subdirección Contraloría Interna
+ión Desarrollo de las Personas Delega en el subdirector de contraloría interna la facultad que se contiene en el artículo 41 bis de la ley orgánica del servicio. Fuente: Subdirección Contraloría Interna
 
 ## Referencias detectadas
 

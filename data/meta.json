@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-05T02:42:19.893Z",
-  "total_documents": 18720,
+  "generated_at": "2026-11-05T18:21:36.774Z",
+  "total_documents": 18721,
   "by_source": {
     "BCN": 5156,
-    "SII": 13564
+    "SII": 13565
   },
   "by_type": {
     "articulo": 4723,
     "norma": 433,
+    "resolucion": 2022,
     "oficio": 7788,
-    "resolucion": 2021,
     "circular": 3755
   },
   "by_year": {
@@ -66,7 +66,7 @@
     "2023": 695,
     "2024": 450,
     "2025": 599,
-    "2026": 1167,
+    "2026": 1168,
     "2027": 248,
     "2029": 164,
     "sin-fecha": 191
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 979,
-  "changed_documents": 1,
-  "last_scrape_at": "2026-11-05T02:42:18.923Z",
+  "touched_documents": 5275,
+  "changed_documents": 4,
+  "last_scrape_at": "2026-11-05T18:21:35.883Z",
   "bcn_coverage": {
     "base": [
       {
@@ -150,14 +150,18 @@
           "2222-02-02"
         ],
         "future_stored": [
-          "2027-01-01",
-          "2222-02-02"
+          "2027-01-01"
         ]
       }
     ],
     "modifiers_expected": 127,
-    "modifiers_stored": 127,
-    "missing": [],
+    "modifiers_stored": 126,
+    "missing": [
+      {
+        "idNorma": 1186928,
+        "label": "Decreto 453 EXENTO"
+      }
+    ],
     "listing_errors": [],
     "unavailable_in_leychile": [
       {
