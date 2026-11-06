@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:42:01.461Z",
+  "generated_at": "2026-11-06T17:43:56.882Z",
   "total_documents": 18721,
   "by_source": {
     "BCN": 5156,
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 980,
-  "changed_documents": 2,
-  "last_scrape_at": "2026-11-06T02:42:00.442Z",
+  "touched_documents": 3894,
+  "changed_documents": 490,
+  "last_scrape_at": "2026-11-06T17:43:56.233Z",
   "bcn_coverage": {
     "base": [
       {
@@ -150,19 +150,17 @@
           "2222-02-02"
         ],
         "future_stored": [
-          "2027-01-01"
+          "2027-01-01",
+          "2222-02-02"
         ]
       }
     ],
-    "modifiers_expected": 127,
-    "modifiers_stored": 126,
-    "missing": [
-      {
-        "idNorma": 1186928,
-        "label": "Decreto 453 EXENTO"
-      }
+    "modifiers_expected": 97,
+    "modifiers_stored": 97,
+    "missing": [],
+    "listing_errors": [
+      "LIVS"
     ],
-    "listing_errors": [],
     "unavailable_in_leychile": [
       {
         "modifies": "LTE",
