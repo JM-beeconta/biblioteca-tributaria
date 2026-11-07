@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:08:44.861Z",
+  "generated_at": "2026-11-07T16:42:19.080Z",
   "total_documents": 18721,
   "by_source": {
     "BCN": 5156,
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 980,
-  "changed_documents": 2,
-  "last_scrape_at": "2026-11-07T02:08:43.882Z",
+  "touched_documents": 5361,
+  "changed_documents": 490,
+  "last_scrape_at": "2026-11-07T16:42:18.090Z",
   "bcn_coverage": {
     "base": [
       {
@@ -155,12 +155,10 @@
         ]
       }
     ],
-    "modifiers_expected": 97,
-    "modifiers_stored": 97,
+    "modifiers_expected": 127,
+    "modifiers_stored": 127,
     "missing": [],
-    "listing_errors": [
-      "LIVS"
-    ],
+    "listing_errors": [],
     "unavailable_in_leychile": [
       {
         "modifies": "LTE",
