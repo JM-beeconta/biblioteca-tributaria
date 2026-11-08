@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:39:43.639Z",
+  "generated_at": "2026-11-08T16:56:20.052Z",
   "total_documents": 18721,
   "by_source": {
     "BCN": 5156,
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 980,
-  "changed_documents": 2,
-  "last_scrape_at": "2026-11-08T01:39:42.657Z",
+  "touched_documents": 5352,
+  "changed_documents": 208,
+  "last_scrape_at": "2026-11-08T16:56:19.044Z",
   "bcn_coverage": {
     "base": [
       {
@@ -156,8 +156,13 @@
       }
     ],
     "modifiers_expected": 127,
-    "modifiers_stored": 127,
-    "missing": [],
+    "modifiers_stored": 126,
+    "missing": [
+      {
+        "idNorma": 204930,
+        "label": "Ley 19840"
+      }
+    ],
     "listing_errors": [],
     "unavailable_in_leychile": [
       {
