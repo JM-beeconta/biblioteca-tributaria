@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T01:55:47.970Z",
-  "total_documents": 18721,
+  "generated_at": "2026-11-09T21:03:36.495Z",
+  "total_documents": 18723,
   "by_source": {
     "BCN": 5156,
-    "SII": 13565
+    "SII": 13567
   },
   "by_type": {
     "articulo": 4723,
     "norma": 433,
-    "resolucion": 2022,
-    "oficio": 7788,
+    "resolucion": 2023,
+    "oficio": 7789,
     "circular": 3755
   },
   "by_year": {
@@ -66,7 +66,7 @@
     "2023": 695,
     "2024": 450,
     "2025": 599,
-    "2026": 1168,
+    "2026": 1170,
     "2027": 248,
     "2029": 164,
     "sin-fecha": 191
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 980,
-  "changed_documents": 2,
-  "last_scrape_at": "2026-11-09T01:55:47.320Z",
+  "touched_documents": 5363,
+  "changed_documents": 191,
+  "last_scrape_at": "2026-11-09T21:03:35.500Z",
   "bcn_coverage": {
     "base": [
       {
@@ -156,13 +156,8 @@
       }
     ],
     "modifiers_expected": 127,
-    "modifiers_stored": 126,
-    "missing": [
-      {
-        "idNorma": 204930,
-        "label": "Ley 19840"
-      }
-    ],
+    "modifiers_stored": 127,
+    "missing": [],
     "listing_errors": [],
     "unavailable_in_leychile": [
       {

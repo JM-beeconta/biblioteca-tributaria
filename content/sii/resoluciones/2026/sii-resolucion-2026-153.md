@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Materia: aprueba memorando de entendimiento entre el servicio de impuestos internos, la facultad de economía y negocios de la universidad de chile y el instituto de estudios fiscales del Ministerio De Hacienda Del Reino De España. Fuente: Subdirección Desarrollo de las Personas
+: Subdirección Jurídica Materia: aprueba memorando de entendimiento entre el servicio de impuestos internos, la facultad de economía y negocios de la universidad de chile y el instituto de estudios fiscales del Ministerio De Hacienda Del Reino De España. Fuente: Subdirección Desarrollo de las Personas
 
 ## Referencias detectadas
 

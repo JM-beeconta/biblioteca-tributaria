@@ -6,8 +6,8 @@
 - Año: 2026
 - Fecha: 2026-10-30
 - Categoría: Otras Normas
-- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=312-30%2F10%2F2026.pdf&extension=pdf&acc=download&id=602f0a7d-574a-470b-b958-efa03bf1a232&mediaType=application%2Fpdf
-- Hash SHA-256: 7b79bbfc82197fc082fbb1ee8190dc2fed8ff0601772bdae71a316c69f5c12fa
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=312-30%2F10%2F2026.pdf&extension=pdf&acc=download&id=f630ffa3-39c8-4cd2-a728-2de2f2c4bf97&mediaType=application%2Fpdf
+- Hash SHA-256: d48ebd98838bd55a03c0d71bafd856eaf7fec39ade040932306c75b99eaf1f60
 
 ## Resumen
 
@@ -22,7 +22,7 @@ Consulta si las operaciones que describe se encuentran amparadas en el artículo
 
 CÓDIGO TRIBUTARIO – ART. 4° BIS, ART. 4° TER, ART. 4° QUÁTER, ART. 26° BIS,
                                 ART. 64
-                                (OFICIO RESERVADO N°312, DE 30.10.2026)
+                                   (OFICIO SECRETO N°312, DE 30.10.2026)
 
 
 
@@ -93,6 +93,6 @@ varíen sustantivamente los antecedentes de hecho o de derecho en que se fundó
                                 JORGE TRUJILLO PUENTES
                                        DIRECTOR
 
-                            Oficio Reservado N° 312, de 30.10 .2026
+                             Oficio Secreto N° 312, de 30.10 .2026
                                  Subdirección de Fiscalización
                             Depto. de Normas Generales Antielusión
