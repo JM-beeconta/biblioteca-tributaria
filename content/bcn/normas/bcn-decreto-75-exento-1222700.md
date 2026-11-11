@@ -7,7 +7,7 @@
 - Fecha: 2026-03-27
 - Categoría: Leyes modificatorias
 - Fuente oficial: https://www.bcn.cl/leychile/navegar?idNorma=1222700
-- Hash SHA-256: a804b93b51b367410a36a418630ca805fca8ea80f531b836e23f11deac8788b2
+- Hash SHA-256: 2a307045d447a3d10b1bce72c1a80c38de8c1858d32d516323ed6dc8e0ab5556
 
 ## Resumen
 
@@ -41,7 +41,10 @@ Decreto:
 a) Escala del artículo 23 :
 
 1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 407,72 centavos de dólar por libra;
-2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 407,72 centavos de dólar por libra y no sobrepasa de 524,427 centavos de dólar por libra, y
+2% si Decreto 305 EXENTO,
+HACIENDA
+N° 1
+D.O. 11.11.2026 el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 407,72 centavos de dólar por libra y no sobrepasa de 524,27 centavos de dólar por libra, y
 4% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 524,27 centavos de dólar por libra.
 
 b) Escala del artículo 34 N° 2 letra c):
