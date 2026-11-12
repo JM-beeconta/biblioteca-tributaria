@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Delega facultad que indica en funcionaria que se individualiza Fuente: Subdirección Jurídica
+te: Subdirección Fiscalizacion Delega facultad que indica en funcionaria que se individualiza Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 
