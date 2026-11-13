@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:51:43.720Z",
+  "generated_at": "2026-11-13T18:00:46.907Z",
   "total_documents": 18727,
   "by_source": {
     "BCN": 5156,
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 986,
-  "changed_documents": 2,
-  "last_scrape_at": "2026-11-13T02:51:42.734Z",
+  "touched_documents": 5333,
+  "changed_documents": 386,
+  "last_scrape_at": "2026-11-13T18:00:45.890Z",
   "bcn_coverage": {
     "base": [
       {
@@ -155,13 +155,15 @@
         ]
       }
     ],
-    "modifiers_expected": 112,
-    "modifiers_stored": 112,
-    "missing": [],
-    "listing_errors": [
-      "CT",
-      "LRM"
+    "modifiers_expected": 127,
+    "modifiers_stored": 126,
+    "missing": [
+      {
+        "idNorma": 1214890,
+        "label": "Ley 21755"
+      }
     ],
+    "listing_errors": [],
     "unavailable_in_leychile": [
       {
         "modifies": "LTE",

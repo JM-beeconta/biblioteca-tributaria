@@ -11,7 +11,7 @@
 
 ## Resumen
 
-n de Asistencia al Contribuyente Materia: modifica resolución exenta sii n°160, de 12 de noviembre de 2025 y crea área que indica. Modifica resolución exenta sii n°87, de 17 de julio de 2025 Fuente: Subdirección de Asistencia al Contribuyente n de Asistencia al Contribuyente Resolución Exenta SII N° 143 del 02 de Octubre del 2026 Materia: modifica resolución exenta sii n°160, de 12 de noviembre de 2025 y crea área que indica. Modifica resolución exenta sii n°87, de 17 de julio de 2025 Fuente: Subdirección de Asist…
+n de Asistencia al Contribuyente Materia: modifica resolución exenta sii n°160, de 12 de noviembre de 2025 y crea área que indica. Modifica resolución exenta sii n°87, de 17 de julio de 2025 Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 
