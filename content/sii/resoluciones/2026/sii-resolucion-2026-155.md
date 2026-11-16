@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Reemplázase el Título XIV, del Libro II, del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, y derónganse la Resolución Ex. SII N° 40, de 2019, del Servicio de Impuestos Internos y la Circular Conjunta Nº 4 de la Tesorería General de la República. Fuente: Subdirección Fiscalizacion
+n de Asistencia al Contribuyente Reemplázase el Título XIV, del Libro II, del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, y derónganse la Resolución Ex. SII N° 40, de 2019, del Servicio de Impuestos Internos y la Circular Conjunta Nº 4 de la Tesorería General de la República. Fuente: Subdirección Fiscalizacion
 
 ## Referencias detectadas
 
