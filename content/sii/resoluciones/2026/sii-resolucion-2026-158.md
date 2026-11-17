@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Establece forma de declarar y pagar el impuesto que grava a las donaciones acogidas a la rebaja establecida en el artículo primero transitorio de la ley n° 21.850. Fuente: Subdirección Fiscalizacion
+: Subdirección de avaluaciones Establece forma de declarar y pagar el impuesto que grava a las donaciones acogidas a la rebaja establecida en el artículo primero transitorio de la ley n° 21.850. Fuente: Subdirección Fiscalizacion
 
 ## Referencias detectadas
 
