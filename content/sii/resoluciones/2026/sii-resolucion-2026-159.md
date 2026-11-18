@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Villa Alegre. Fuente: Subdirección de avaluaciones
+dirección Fiscalización Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital “SII-MAPAS” a la Ilustre Municipalidad de Villa Alegre. Fuente: Subdirección de avaluaciones
 
 ## Referencias detectadas
 
