@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Autoriza a contribuyente que se indica, para emitir liquidación–factura por cada operación en reemplazo de la liquidación–factura consolidada mensual, cumpliendo los requisitos que se indican. Fuente: Subdirección Fiscalización
+n de Asistencia al Contribuyente Autoriza a contribuyente que se indica, para emitir liquidación–factura por cada operación en reemplazo de la liquidación–factura consolidada mensual, cumpliendo los requisitos que se indican. Fuente: Subdirección Fiscalización
 
 ## Referencias detectadas
 
