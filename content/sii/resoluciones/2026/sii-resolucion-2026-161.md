@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
+: Subdirección Jurídica Autoriza a emitir mensualmente una única boleta electrónica de ventas y servicios en la forma y condiciones que indica. Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 
