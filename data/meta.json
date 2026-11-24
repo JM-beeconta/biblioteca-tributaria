@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T06:16:24.984Z",
-  "total_documents": 18741,
+  "generated_at": "2026-11-24T20:56:05.182Z",
+  "total_documents": 18744,
   "by_source": {
     "BCN": 5156,
-    "SII": 13585
+    "SII": 13588
   },
   "by_type": {
     "articulo": 4723,
     "norma": 433,
-    "resolucion": 2031,
+    "resolucion": 2034,
     "circular": 3758,
     "oficio": 7796
   },
@@ -66,7 +66,7 @@
     "2023": 695,
     "2024": 450,
     "2025": 599,
-    "2026": 1188,
+    "2026": 1191,
     "2027": 248,
     "2029": 164,
     "sin-fecha": 191
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 1000,
-  "changed_documents": 2,
-  "last_scrape_at": "2026-11-24T06:16:23.923Z",
+  "touched_documents": 5380,
+  "changed_documents": 212,
+  "last_scrape_at": "2026-11-24T20:56:04.424Z",
   "bcn_coverage": {
     "base": [
       {
@@ -156,8 +156,13 @@
       }
     ],
     "modifiers_expected": 127,
-    "modifiers_stored": 127,
-    "missing": [],
+    "modifiers_stored": 126,
+    "missing": [
+      {
+        "idNorma": 277774,
+        "label": "Ley 20291"
+      }
+    ],
     "listing_errors": [],
     "unavailable_in_leychile": [
       {

@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Fija criterios generales para aceptar las bases de acuerdo para conciliar y avenir, conforme con lo dispuesto en los artículos 132, 132 bis y 132 ter del código tributario. Deja sin efecto resolución ex. N°106 de 17 de noviembre de 2022. Fuente: Subdirección Jurídica
+n de Asistencia al Contribuyente Fija criterios generales para aceptar las bases de acuerdo para conciliar y avenir, conforme con lo dispuesto en los artículos 132, 132 bis y 132 ter del código tributario. Deja sin efecto resolución ex. N°106 de 17 de noviembre de 2022. Fuente: Subdirección Jurídica
 
 ## Referencias detectadas
 

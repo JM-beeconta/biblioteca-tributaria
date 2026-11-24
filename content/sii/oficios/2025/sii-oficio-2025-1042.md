@@ -6,7 +6,7 @@
 - Año: 2025
 - Fecha: 2025-05-29
 - Categoría: Otras Normas
-- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1042-29%2F05%2F2025.pdf&extension=pdf&acc=download&id=d8eab468-30b4-4633-9957-ff852ebebf82&mediaType=application%2Fpdf
+- Fuente oficial: https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1042-29%2F05%2F2025.pdf&extension=pdf&acc=download&id=9a8ac092-9e4c-48a8-b97a-9141d3c8a0eb&mediaType=application%2Fpdf
 - Hash SHA-256: 1fb658b8f356078857e52e8bf66fdaa1de1aefd29e119ae9c9d60627009cee7b
 
 ## Resumen
