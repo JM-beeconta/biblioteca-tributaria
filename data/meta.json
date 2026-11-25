@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:05:53.071Z",
+  "generated_at": "2026-11-25T20:15:47.552Z",
   "total_documents": 18744,
   "by_source": {
     "BCN": 5156,
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 1003,
-  "changed_documents": 3,
-  "last_scrape_at": "2026-11-25T05:05:52.380Z",
+  "touched_documents": 5384,
+  "changed_documents": 23,
+  "last_scrape_at": "2026-11-25T20:15:46.651Z",
   "bcn_coverage": {
     "base": [
       {
@@ -156,13 +156,8 @@
       }
     ],
     "modifiers_expected": 127,
-    "modifiers_stored": 126,
-    "missing": [
-      {
-        "idNorma": 277774,
-        "label": "Ley 20291"
-      }
-    ],
+    "modifiers_stored": 127,
+    "missing": [],
     "listing_errors": [],
     "unavailable_in_leychile": [
       {
