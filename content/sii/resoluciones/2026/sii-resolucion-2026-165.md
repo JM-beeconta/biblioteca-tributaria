@@ -11,7 +11,7 @@
 
 ## Resumen
 
-Deniega acceso a la siguiente entidad a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
+ogías de la Información Deniega acceso a la siguiente entidad a la interfaz de programación de aplicaciones (api) inicio de actividades Fuente: Subdirección de Asistencia al Contribuyente
 
 ## Referencias detectadas
 
