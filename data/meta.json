@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:44:57.807Z",
+  "generated_at": "2026-11-28T00:15:19.711Z",
   "total_documents": 18745,
   "by_source": {
     "BCN": 5156,
@@ -91,9 +91,9 @@
     2026,
     2025
   ],
-  "touched_documents": 5384,
-  "changed_documents": 4,
-  "last_scrape_at": "2026-11-27T19:44:56.847Z",
+  "touched_documents": 1004,
+  "changed_documents": 2,
+  "last_scrape_at": "2026-11-28T00:15:18.872Z",
   "bcn_coverage": {
     "base": [
       {
